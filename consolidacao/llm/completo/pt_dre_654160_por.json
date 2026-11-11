@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:654160:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "O original (DRR 20/97/M) é ele próprio um diploma alterador: o seu artigo 1.º dá nova redação a artigos da Lei Orgânica da IRAE aprovada pelo DRR 2/96/M; nenhum alterador visa os artigos 1.º ou 2.º do DRR 20/97/M.",
+    "Alterador 1 (DRR 19/2000/M), arts. 2.º e 3.º: alteram os artigos 6.º e 10.º e aditam o 31.º-A à orgânica aprovada pelo DRR 2/96/M (alterado pelo 20/97/M) - outro diploma, ignorado; art. 4.º é revogação condicional ('que contrariem') de disposições do DRR 2/96/M - outro diploma, ignorada.",
+    "Alterador 2 (DRR 12/2001/M), arts. 1.º e 2.º: alteram os artigos 1.º, 6.º, 7.º, 8.º, 10.º, 11.º e 30.º e aditam 22.º-A, 25.º-A, 26.º-A e 26.º-B da orgânica do DRR 2/96/M - outro diploma, ignorados.",
+    "Alterador 3 (DRR 15/2002/M), arts. 1.º, 2.º e 4.º: alteram, revogam (26.º-A a 32.º), renumeram e republicam a orgânica do DRR 2/96/M - outro diploma, ignorados.",
+    "Alterador 4 (Acórdão TC n.º 18/2007): declara inconstitucionais normas do DLR 2/2002/M e do DRR 15/2002/M; não incide sobre o texto do DRR 20/97/M (a referência ao 'DRR 20/97/M, de 24 de Fevereiro' é só transcrição do art. 2.º do DRR 15/2002/M, que visa o 2/96/M) - ignorado.",
+    "Alterador 5 (DLR 5/2008/M), arts. 2.º e 3.º: alteram a orgânica do DRR 2/96/M (versão republicada pelo 15/2002/M) e o art. 3.º do DRR 15/2002/M - outros diplomas, ignorados.",
+    "Alterador 6 (DRR 19/2012/M), art. 2.º: revoga o DRR 2/96/M na versão republicada pelo 15/2002/M - outro diploma; não revoga expressamente o DRR 20/97/M, nada aplicado."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "chars": 152554,
+      "artigos": 0
+    }
+  ],
+  "problemas": []
+}

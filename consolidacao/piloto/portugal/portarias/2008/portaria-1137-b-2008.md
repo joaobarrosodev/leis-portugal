@@ -7,21 +7,18 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:601535:por
-    title: Portaria n.º 147/2009
-    publication_date: '2009-02-06'
+  - id: pt:dre:670056:por
+    title: Portaria n.º 228/2011
+    publication_date: '2011-06-09'
   - id: pt:dre:249855:por
     title: Portaria n.º 739-B/2009
     publication_date: '2009-07-09'
   - id: pt:dre:343948:por
     title: Portaria n.º 814/2010
     publication_date: '2010-08-27'
-  - id: pt:dre:670056:por
-    title: Portaria n.º 228/2011
-    publication_date: '2011-06-09'
-  - id: pt:dre:498497:por
-    title: Portaria n.º 253/2013
-    publication_date: '2013-08-07'
+  - id: pt:dre:601535:por
+    title: Portaria n.º 147/2009
+    publication_date: '2009-02-06'
 ---
 
 # Portaria n.º 1137-B/2008
@@ -142,15 +139,15 @@ o) «Sistema agro-florestal» o sistema de utilização da terra que combine a e
 
 p) «Termo da operação» o ano da conclusão da operação, determinado no contrato de financiamento;
 
-q) 'Terra agrícola' superfícies que não estejam classificadas no sistema de identificação parcelar como superfícies florestais ou agro-florestais arborizadas e tenham tido uma actividade agrícola em conformidade com o estabelecido no artigo 2.º, alínea c), do Regulamento (CE) n.º 73/2009, de 19 de Janeiro, do Conselho, devendo essas superfícies estar compreendidas nas ocupações culturais consideradas 'superfície agrícola' e 'espaço agro-florestal não arborizado com aproveitamento forrageiro', nos termos e para os efeitos do disposto no artigo 6.º do regulamento citado, em que, existindo árvores florestais, estas correspondam a uma densidade inferior a 60 árvores por hectare ou, quando tiverem altura inferior a 2,5 m, tenham uma densidade inferior às constantes do anexo I;
+q) 'Terra agrícola' superfícies que não estejam classificadas no sistema de identificação parcelar como superfícies florestais ou agro-florestais arborizadas e tenham tido uma actividade agrícola em conformidade com o estabelecido no artigo 2.º, alínea c), do Regulamento (CE) n.º [73/2009](http://data.europa.eu/eli/reg/2009/73/oj?locale=pt), de 19 de Janeiro, do Conselho, devendo essas superfícies estar compreendidas nas ocupações culturais consideradas 'superfície agrícola' e 'espaço agro-florestal não arborizado com aproveitamento forrageiro', nos termos e para os efeitos do disposto no artigo 6.º do regulamento citado, em que, existindo árvores florestais, estas correspondam a uma densidade inferior a 60 árvores por hectare ou, quando tiverem altura inferior a 2,5 m, tenham uma densidade inferior às constantes do anexo I;
 
-r) 'Terra agrícola abandonada' superfícies compreendidas nas ocupações culturais consideradas 'superfície agrícola' e 'espaço agro-florestal não arborizado com aproveitamento forrageiro' e não tenham tido uma actividade agrícola em conformidade com o estabelecido no artigo 2.º, alínea c), do Regulamento (CE) n.º 73/2009, de 19 de Janeiro, do Conselho;
+r) 'Terra agrícola abandonada' superfícies compreendidas nas ocupações culturais consideradas 'superfície agrícola' e 'espaço agro-florestal não arborizado com aproveitamento forrageiro' e não tenham tido uma actividade agrícola em conformidade com o estabelecido no artigo 2.º, alínea c), do Regulamento (CE) n.º [73/2009](http://data.europa.eu/eli/reg/2009/73/oj?locale=pt), de 19 de Janeiro, do Conselho;
 
 s) «Titular de uma unidade de produção agrícola» o detentor de um conjunto de parcelas agrícolas contínuas ou não que constituem uma unidade técnico-económica, caracterizada pela utilização em comum da mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização;
 
 t) 'Zonas de Intervenção Florestal (ZIF)' a área territorial contínua e delimitada constituída maioritariamente por espaços florestais, submetida a um plano de gestão florestal e a um plano específico de intervenção florestal e gerida por uma única entidade, reguladas nos termos da legislação especial aplicável.
 
-> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 5.º — Tipologias de apoios
 
@@ -180,7 +177,7 @@ c) Um prémio complementar à manutenção, para recuperação e consolidação 
 
 3 - Para efeitos das subalíneas ii) da alínea a) e i) e ii) da alínea b) do n.º 1, são elegíveis as espécies florestais constantes do anexo ii ao presente Regulamento.
 
-> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855), publicado em 2009-07-09.
 
 ###### Artigo 6.º — Investimentos excluídos
 
@@ -200,7 +197,7 @@ f) Florestação de áreas que integrem perímetros de emparcelamento, nos termo
 
 g) Plantação de árvores de Natal.
 
-> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855), publicado em 2009-07-09.
 
 ###### Artigo 7.º — Condicionalidade
 
@@ -228,9 +225,13 @@ h) Produtores florestais;
 
 i) Titulares de unidades de produção agrícola.
 
+j) Entidades participadas pelo Estado.
+
 2 - No caso da subalínea iii) da alínea b) do n.º 1 do artigo 5.º, apenas os titulares de unidades de produção agrícola podem beneficiar dos respectivos apoios.
 
 3 - As entidades públicas não beneficiam dos apoios designados na subalínea iii) da alínea b) do n.º 1 e no n.º 2 do artigo 5.º
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 9.º — Critérios de elegibilidade dos beneficiários
 
@@ -246,23 +247,31 @@ d) Não estarem a receber ajudas cujos compromissos ou obrigações sejam incomp
 
 e) Não serem beneficiários do apoio à «reforma antecipada» do RURIS, no caso de se candidatarem a apoios à florestação de terras agrícolas e à instalação de sistemas agro-florestais.
 
-> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 10.º — Critérios de elegibilidade das operações
 
-Podem beneficiar dos apoios previstos no presente Regulamento os investimentos que se enquadrem num dos objectivos previstos no artigo 2.º e que reúnam as seguintes condições:
+1 - Podem beneficiar dos apoios previstos no presente Regulamento os investimentos que se enquadrem num dos objectivos previstos no artigo 2.º e que reúnam as seguintes condições:
 
-a) Tenham início após a data de apresentação do pedido de apoio, sem prejuízo do disposto no artigo 29.º;
+a) (Revogada.)
 
 b) Apresentem coerência técnica, nomeadamente no que respeita à conformidade com os planos regionais de ordenamento florestal, planos de defesa da floresta contra incêndios de âmbito municipal ou intermunicipal e demais instrumentos de planeamento e gestão aplicáveis, à compatibilidade com o meio ambiente e ao equilíbrio entre a silvicultura e a fauna selvagem;
 
 c) Atendam às «Orientações estratégicas para a recuperação de áreas ardidas de 2003 e 2004» adoptadas pela Resolução do Conselho de Ministros n.º 5/2006, de 18 de Janeiro, bem como às orientações definidas pela Autoridade Florestal Nacional (AFN) relativas à protecção contra agentes bióticos, quando aplicável;
 
-d) Incidam em espaços dotados de plano de gestão florestal (PGF), à excepção dos investimentos relativos a estabilização de emergência pós-incêndio e reabilitação de habitats, com dimensão mínima de 25 ha, ou de 5 ha no caso dos investimentos que visem espécies folhosas produtoras de madeira de elevada qualidade e de alfarrobeira;
+d) Incidam em espaços dotados de planos de gestão florestal (PGF) com uma dimensão mínima de 5 ha, à excepção dos investimentos relativos a estabilização de emergência pós-incêndio e reabilitação de habitats florestais classificados;
 
 e) Cumpram as disposições legais aplicáveis aos investimentos propostos, designadamente, em matéria de autorização, licenciamento e certificação;
 
-f) Correspondam a intervenções identificadas em relatório de avaliação pós-incêndio, as quais se devem realizar num prazo máximo de seis meses após a ocorrência do incêndio, quando se trate de investimento de estabilização de emergência pós-incêndio.
+f) Correspondam a intervenções identificadas em relatório de avaliação pós-incêndio, quando se trate de investimento de estabilização de emergência pós-incêndio;
+
+g) Apresentarem custo total elegível dos investimentos propostos, apurados na análise do respectivo pedido de apoio, não inferior a (euro) 5000.
+
+2 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem.
+
+3 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 11.º — Plano de gestão florestal
 
@@ -278,7 +287,7 @@ f) Correspondam a intervenções identificadas em relatório de avaliação pós
 
 6 - Cabe à AFN manter a AG do PRODER informada sobre os PGF apresentados.
 
-> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535), publicado em 2009-02-06.
 
 ###### Artigo 12.º — Despesas elegíveis e não elegíveis
 
@@ -316,7 +325,7 @@ b) Não exceder o encabeçamento de 1,5 cabeças normais e manter, no mínimo, 3
 
 c) (Revogada.)
 
-> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 14.º — Forma, nível e limite dos apoios
 
@@ -326,7 +335,13 @@ c) (Revogada.)
 
 3 - Os limites máximos de apoio a conceder, por beneficiário, no âmbito do presente Regulamento, constam do anexo ix.
 
-4 - Para efeitos de atribuição do prémio por perda de rendimento entende-se por «agricultor» a pessoa singular que obtiver pelo menos 25 % do seu rendimento da actividade agrícola, dedicando a esta, no mínimo, 25 % do seu tempo total de trabalho ou a pessoa colectiva que, nos termos do respectivo estatuto, tem exclusivamente por objecto a actividade agrícola e cujos administradores ou gerentes, obrigatoriamente pessoas singulares e sócios da pessoa colectiva, dediquem mais de 25 % do seu tempo de trabalho à exploração onde exercem a actividade agrícola, dela auferindo, no mínimo, 25 % do seu rendimento global e detenham, no seu conjunto, pelo menos, 10 % do capital social.
+4 - No caso da florestação de terras agrícolas e florestação de terras não agrícolas o apoio pode ser concedido sob a forma de ajuda forfetária, de acordo com os valores estabelecidos em despacho ministerial.
+
+5 - O prémio por perda de rendimento não será atribuído a parcelas que sejam objecto de pagamento no âmbito do Regime de Pagamento Único.
+
+6 - Para efeitos de atribuição do prémio por perda de rendimento entende-se por «agricultor» a pessoa singular que obtiver pelo menos 25 % do seu rendimento da actividade agrícola, dedicando a esta, no mínimo, 25 % do seu tempo total de trabalho ou a pessoa colectiva que, nos termos do respectivo estatuto, tem exclusivamente por objecto a actividade agrícola e cujos administradores ou gerentes, obrigatoriamente pessoas singulares e sócios da pessoa colectiva, dediquem mais de 25 % do seu tempo de trabalho à exploração onde exercem a actividade agrícola, dela auferindo, no mínimo, 25 % do seu rendimento global e detenham, no seu conjunto, pelo menos, 10 % do capital social.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 15.º — Critérios de selecção dos pedidos de apoio
 
@@ -352,15 +367,17 @@ ii) Tipo de beneficiário.
 
 3 - A alteração dos critérios de selecção referidos nos números anteriores, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRODER, em www.proder.pt.
 
-> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ### CAPÍTULO II — Procedimento
 
 ###### Artigo 16.º — Apresentação dos pedidos de apoio
 
-1 - Os pedidos de apoio são submetidos por concurso, ao abrigo do disposto na alínea b) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, divulgado pela autoridade de gestão com a antecedência de 10 dias seguidos relativamente à data de publicidade do respectivo aviso de abertura.
+1 - Os pedidos de apoio são submetidos, ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, na modalidade de concurso, de período definido ou de período contínuo consoante decisão do gestor, sendo os respectivos períodos de abertura divulgados pela autoridade de gestão com uma antecedência não inferior a 10 dias seguidos relativamente ao início do prazo de submissão.
 
 2 - A apresentação dos pedidos de apoio efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 17.º — Avisos de abertura
 
@@ -384,7 +401,7 @@ h) Os critérios de selecção e hierarquização dos pedidos de apoio aplicáve
 
 2 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.
 
-> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 18.º — Análise e decisão dos pedidos de apoio
 
@@ -398,13 +415,13 @@ h) Os critérios de selecção e hierarquização dos pedidos de apoio aplicáve
 
 5 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 15 dias úteis a contar da data de recepção do parecer prevista no n.º 3.
 
-> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855), publicado em 2009-07-09.
 
 ###### Artigo 19.º — Readmissão de pedidos de apoio
 
 Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser posteriormente aprovados em caso de disponibilização orçamental da medida, de acordo com a hierarquização obtida no respectivo concurso ou período.
 
-> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 20.º — Contrato de financiamento
 
@@ -424,7 +441,7 @@ c) Em casos excepcionais e devidamente justificados o gestor pode autorizar a pr
 
 2 - No caso das operações que incluem a atribuição de prémio de manutenção e de prémio por perda de rendimento, o termo da operação é o do respectivo prémio.
 
-> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855), publicado em 2009-07-09.
 
 ###### Artigo 22.º — Apresentação dos pedidos de pagamento do apoio ao investimento
 
@@ -444,7 +461,7 @@ c) Em casos excepcionais e devidamente justificados o gestor pode autorizar a pr
 
 8 - (Revogado.)
 
-> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855), publicado em 2009-07-09.
 
 ###### Artigo 23.º — Apresentação dos pedidos de pagamento dos prémios
 
@@ -460,11 +477,11 @@ c) Em casos excepcionais e devidamente justificados o gestor pode autorizar a pr
 
 3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.
 
-4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.
+4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
 5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P.
 
-> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 25.º — Pagamento dos apoios ao investimento
 
@@ -480,15 +497,17 @@ Os pagamentos dos apoios são efectuados pelo IFAP, I. P., por transferência ba
 
 ###### Artigo 27.º — Controlo
 
-1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro.
+1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
 2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-> Alterado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 28.º — Reduções e exclusões
 
-Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (CE) n.º [1975/2006](https://data.europa.eu/eli/reg/2006/1975/oj?locale=pt), da Comissão, de 7 de Dezembro.
+Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ### CAPÍTULO III — Disposições transitórias
 
@@ -496,7 +515,7 @@ Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no �
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 147/2009](https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535) e [Portaria n.º 739-B/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-b-2009-249855) e [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948) e [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056) e [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+> Revogado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ## ANEXO I — Densidades máximas para a ocorrência de espécies florestais jovens em terras agrícolas
 

@@ -66,7 +66,13 @@ b) Até 31 de Março de 2005 ou até ao final do prazo estabelecido nos decretos
 
 1 - As autorizações de colocação no mercado concedidas para produtos fitofarmacêuticos contendo a substância activa flufenacete são, até 30 de Junho de 2004, revistas em conformidade com as disposições do Decreto-Lei n.º 94/98, de 15 de Abril, tendo em consideração as respectivas características e condições de inclusão aditadas pelo presente diploma ao seu anexo I.
 
-2 - A revisão referida no número anterior, no que respeita à avaliação e decisão à luz dos princípios uniformes enunciados em anexo ao Decreto-Lei n.º 94/98, de 15 de Abril, aditado pelo Decreto-Lei n.º 341/98, de 4 de Novembro, e com base num processo que satisfaça as exigências do anexo III do Decreto-Lei n.º 94/98, de 15 de Abril, realiza-se até 30 de Junho de 2005, no caso de produtos fitofarmacêuticos que contenham flufenacete, como única substância activa, ou acompanhada de outras substâncias activas incluídas, até 31 de Dezembro de 2004, na LPC.
+2 - A revisão prevista no número anterior, no que respeita à avaliação e decisão à luz dos princípios uniformes enunciados em anexo ao Decreto-Lei n.º 94/98, de 15 de Abril, aditado pelo Decreto-Lei n.º 341/98, de 4 de Novembro, e com base num processo que satisfaça as exigências do anexo III do Decreto-Lei n.º 94/98, de 15 de Abril, realiza-se:
+
+a) Até 30 de Junho de 2005, no caso de produtos fitofarmacêuticos que contenham flufenacete como única substância activa;
+
+b) Até 30 de Junho de 2005 ou até ao final do prazo estabelecido nos decretos-leis que incluíram substâncias activas na LPC, no caso de produtos fitofarmacêuticos que contenham flufenacete e outra substância activa incluída até 31 de Dezembro de 2003 na LPC, sendo que sempre que estes decretos-leis estabeleçam prazos diferentes aplica-se o prazo mais alargado.
+
+> Alterado pelo/a [Decreto-Lei n.º 22/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2005-624467), publicado em 2005-01-26.
 
 ###### Artigo 7.º — Aplicação e acesso aos relatórios finais da revisão da avaliação de substâncias activas
 

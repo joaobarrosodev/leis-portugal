@@ -308,7 +308,9 @@ d) Não tenham sido condenados por crimes previstos nos artigos 256.º, 258.º, 
 
 ###### Artigo 5.º — Norma revogatória
 
-São revogados, a partir do dia 1 de Janeiro de 1999, o [Decreto-Lei n.º 521/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1985-546456), de 31 de Dezembro, o artigo 32.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, e o artigo 6.º do [Decreto-Lei n.º 185/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1986-228204), de 14 de Julho.
+São revogados, a partir de 1 de Julho de 2000, o Decreto-Lei n.º 521/85, de 31 de Dezembro, e o artigo 6.º do Decreto-Lei n.º 185/86, de 14 de Julho.
+
+> Alterado pelo/a [Lei n.º 3-B/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), publicado em 2000-04-04.
 
 ###### Artigo 6.º — Disposições finais
 

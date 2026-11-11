@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:217732:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Todas as instruções dos alteradores 1 a 9 se dirigem aos anexos do original (substituição do anexo II pelo DL 38/2000; substituição e aditamentos de critérios no anexo I pelo DL 248/2001; aditamento de um novo anexo IV pelo DL 181/2002; substituição e aditamento de textos de aditivos nos anexos I, II e IV pelos DL 218/2003, 181/2004, 150/2005, 99/2008, 94/2010 — incluindo a revogação das referências a E 230 e E 233 no anexo I — e 64/2011). O conteúdo dos anexos não vem no texto atual (só as linhas de título ANEXO I, II e III) e várias redações só existem em imagem ('ver documento original'), pelo que não se aplicam; o novo anexo IV não é um título existente e não se inventa. Nenhuma instrução altera os artigos 1.º a 7.º nem a designação dos títulos dos anexos; a menção ao artigo 3.º do original no artigo 3.º do DL 99/2008 é só uma regra de produção de efeitos, não textual.",
+  "instrucoes": [
+    "Alterador 1 (DL 38/2000), art. 1.º: substitui o anexo II — anexo sem texto no texto atual; não aplicado (nao_aplicavel).",
+    "Alterador 2 (DL 248/2001), art. 1.º, n.os 1 e 2: substitui o texto do E 320 e adita critérios ao anexo I — não aplicado (anexo).",
+    "Alterador 3 (DL 181/2002), art. 2.º: adita o anexo IV — novo anexo, não é título existente; não aplicado.",
+    "Alterador 4 (DL 218/2003), art. 2.º e anexo: substitui textos de aditivos nos anexos I e II e adita outros — não aplicado (anexos).",
+    "Alterador 5 (DL 181/2004), art. 2.º e anexo: nova redação de E 251, E 459/PEG 6000 (anexo I) e E 431 a E 436 (anexo II) — não aplicado (anexos).",
+    "Alterador 6 (DL 150/2005), art. 2.º e anexo: E 407 e E 407a (anexo II), E 907, E 1517 e E 1519 (anexo IV) — não aplicado (anexos).",
+    "Alterador 7 (DL 99/2008), art. 2.º: nova redação dos anexos I, II e IV (com partes só em imagem); art. 3.º só regula a produção de efeitos — nada aplicado aos artigos.",
+    "Alterador 8 (DL 94/2010), arts. 2.º e 6.º: alteração dos anexos I, II e IV e revogação das referências a E 230 e E 233 no anexo I — não aplicado (anexos); arts. 3.º a 5.º alteram o DL 394/98, ignorados.",
+    "Alterador 9 (DL 64/2011), art. 3.º: alteração dos anexos I, II e IV (partes só em imagem) — não aplicado; art. 2.º altera o DL 121/98, ignorado."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "chars": 179024,
+      "artigos": 0
+    }
+  ],
+  "problemas": []
+}

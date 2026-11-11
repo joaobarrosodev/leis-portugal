@@ -1,0 +1,54 @@
+{
+  "id": "pt:dre:324145:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [
+    {
+      "atual": "### CAPÍTULO VII — Funções do IEP",
+      "novo": "### CAPÍTULO VII — Funções do IMT",
+      "alterador": 1
+    },
+    {
+      "atual": "### CAPÍTULO X — Exploração e conservação da Auto-Estrada",
+      "novo": "### CAPÍTULO X — Manutenção, exploração e conservação da Autoestrada",
+      "alterador": 1
+    },
+    {
+      "atual": "### CAPÍTULO XII — Pagamentos a efectuar pelo Concedente",
+      "novo": "### CAPÍTULO XII — Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios",
+      "alterador": 1
+    },
+    {
+      "atual": "### CAPÍTULO XVII — Incumprimento e cumprimento defeituoso do contrato",
+      "novo": "### CAPÍTULO XVII — Incumprimento e cumprimento defeituoso",
+      "alterador": 1
+    },
+    {
+      "atual": "### CAPÍTULO XXI — Vigência da Concessão",
+      "novo": "### CAPÍTULO XXI — Aplicação no tempo",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "O texto atual só traz os artigos 1.º a 5.º do decreto-lei e os títulos de divisão do anexo; as bases da concessão não vêm como artigos. Por isso não se aplicam: o artigo 1.º do DL 113/2015 (nova redação das bases I, II, V a VII, IX a XX, XXII a XXXIX, XLI a XLIII, XLV a LVI, LVIII a LXI, LXVI, LXVIII, LXX a LXXII, LXXV a LXXXI, LXXXIII, LXXXIV e LXXXVI a LXXXIX, cheia de '[...]' que remetem para texto que não existe), o artigo 2.º (aditamento das bases XVIII-A, XIX-A, XXXIV-A, LVII-A a LVII-DD, LXV-A a LXV-E, LXXXVI-A, LXXXVII-A e LXXXVII-B, sem chave de anexo no texto atual), o artigo 5.º (revogação de alíneas e números das bases I, XIII, XLVII, XLVIII, XLIX, L, LI, LIV, LXXV, LXXXII e LXXXIV e das bases LXII a LXV) e o n.º 2 do artigo 6.º (substituição de 'IEP' e 'MES' na republicação das bases). Também não se aplicam os n.os 2 e 3 do artigo 3.º (aditamento do capítulo X-A 'Portagens' com as secções I a X e subsecções I a III, e do capítulo XXII-A 'Comissão de Peritos'), porque são títulos novos que não estão no texto atual. Algumas bases aditadas têm fórmulas e quadros só em imagem ('ver documento original').",
+  "instrucoes": [
+    "Art. 1.º DL 113/2015: nova redação de dezenas de bases do anexo; as bases não estão no texto atual, por isso não aplicado (nao_aplicavel).",
+    "Art. 2.º: aditamento de bases novas ao anexo; sem as bases no texto atual nem chave de anexo, não aplicado (nao_aplicavel).",
+    "Art. 3.º, n.º 1: novas epígrafes dos capítulos VII, X, XII, XVII e XXI; aplicado em 'titulos'.",
+    "Art. 3.º, n.os 2 e 3: aditamento dos capítulos X-A (com secções e subsecções) e XXII-A; títulos novos que não estão no texto atual, não aplicado (nao_aplicavel).",
+    "Art. 5.º: revogação de partes das bases e das bases LXII a LXV; bases ausentes do texto atual, não aplicado (nao_aplicavel).",
+    "Art. 6.º: republicação das bases; o n.º 2 (IEP -> Concedente, MES -> ME) diz respeito às bases republicadas, não aos artigos 1.º a 5.º do decreto; nada a aplicar aos artigos."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1
+      ],
+      "chars": 191995,
+      "artigos": 0
+    }
+  ],
+  "problemas": []
+}

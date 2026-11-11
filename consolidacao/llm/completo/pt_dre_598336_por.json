@@ -1,0 +1,56 @@
+{
+  "id": "pt:dre:598336:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [
+    {
+      "atual": "### CAPÍTULO VII — Funções do IEP",
+      "novo": "### CAPÍTULO VII — Funções do IMT",
+      "alterador": 2
+    },
+    {
+      "atual": "### CAPÍTULO X — Exploração e conservação da Auto-Estrada",
+      "novo": "### CAPÍTULO X — Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios",
+      "alterador": 2
+    },
+    {
+      "atual": "### CAPÍTULO XVII — Incumprimento e cumprimento defeituoso do contrato",
+      "novo": "### CAPÍTULO XVII — Incumprimento e cumprimento defeituoso",
+      "alterador": 1
+    },
+    {
+      "atual": "### CAPÍTULO XXI — Vigência da Concessão",
+      "novo": "### CAPÍTULO XXI — Aplicação no tempo",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "As bases da concessão (anexo I) não vêm no texto atual: só lá estão os artigos 1.º a 6.º do decreto-lei e os títulos dos capítulos do anexo. Por isso não se aplicaram: as alterações às bases (art. 1.º do DL 44-C/2010 e art. 1.º do DL 105/2015, quase todas com '...'/'[...]' que remetem para um texto que não está no pedido); os aditamentos de bases novas (art. 2.º de ambos: XVIII-A, XIX-A, LI-A, LVII-A a LVII-BB, LXV-A, LXXXVII-A; XXXIV-A, LIV-A, LVII-CC, LXV-B a LXV-E, LXXXVI-A, LXXXVII-B), sem chaves de anexo no texto atual; e as revogações de alíneas e números de bases (art. 5.º do DL 105/2015). Também não se aplicaram as alterações sistemáticas a divisões que não estão no texto atual: o aditamento do capítulo X-A (Portagens) com as secções I a X e subsecções I a III (art. 3.º, n.º 2, do DL 44-C/2010), a mudança de epígrafe das secções I, II, IV, V e IX e das subsecções II e III desse capítulo (art. 3.º, n.os 2 e 3, do DL 105/2015), o aditamento do capítulo XXII-A (Comissão de Peritos, art. 3.º, n.º 4, do DL 105/2015) e a nova epígrafe da base LVII-Y (art. 3.º, n.º 5). Algumas fórmulas e quadros (bases XLIX, LVII-D, LVII-E, LVII-AA, LXV-A, LXXXI, LVII-M) só existem em imagem.",
+  "instrucoes": [
+    "Alterador 1 (DL 44-C/2010), art. 1.º: nova redação de várias bases do anexo I. As bases não estão no texto atual, por isso não se aplicou (vai em nao_aplicavel).",
+    "Alterador 1, art. 2.º: aditamento das bases XVIII-A, XIX-A, LI-A, LVII-A a LVII-BB, LXV-A e LXXXVII-A ao anexo. Não se aplicou: as bases do anexo não estão no texto atual.",
+    "Alterador 1, art. 3.º, n.º 1: novas epígrafes dos capítulos VII, X, XVII e XXI. XVII e XXI ficam com estas; VII e X voltam a mudar com o alterador 2.",
+    "Alterador 1, art. 3.º, n.º 2: aditamento do capítulo X-A e das suas secções e subsecções. São divisões que não estão no texto atual; vai em nao_aplicavel.",
+    "Alterador 1, art. 6.º: republicação das bases. Não tem efeito textual.",
+    "Alterador 2 (DL 105/2015), art. 1.º: nova redação de várias bases. Não se aplicou: as bases não estão no texto atual.",
+    "Alterador 2, art. 2.º: aditamento das bases XXXIV-A, LIV-A, LVII-CC, LXV-B a LXV-E, LXXXVI-A e LXXXVII-B. Não se aplicou, pelo mesmo motivo.",
+    "Alterador 2, art. 3.º, n.º 1: capítulo VII passa a 'Funções do IMT' e capítulo X a 'Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios'. Aplicado em titulos.",
+    "Alterador 2, art. 3.º, n.os 2 a 5: epígrafes de secções e subsecções do capítulo X-A, aditamento do capítulo XXII-A e epígrafe da base LVII-Y. Nada disto está no texto atual; vai em nao_aplicavel.",
+    "Alterador 2, art. 5.º: revogação de alíneas e números de bases (I, VI, XXXIV, XLV, XLVIII, L, LIV, LVII-D, LVII-S, LVII-U, LVII-X, LVII-AA, LXV-A, LXXV). Não se aplicou: as bases não estão no texto atual.",
+    "Alterador 2, art. 6.º: republicação. Não tem efeito textual.",
+    "Nenhuma instrução se dirige aos artigos 1.º a 6.º do decreto-lei, por isso artigos fica vazio."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2
+      ],
+      "chars": 277273,
+      "artigos": 0
+    }
+  ],
+  "problemas": []
+}

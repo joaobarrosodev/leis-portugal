@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\nEncontram-se abrangidas pelo Regime Especial de Exigibilidade do Imposto sobre o Valor Acrescentado as empreitadas e subempreitadas de obras públicas em que é dono da obra o Estado.",
+    "depois": "###### Artigo 1.º\n\n1 - Encontram-se abrangidas pelo Regime Especial de Exigibilidade do Imposto sobre o Valor Acrescentado as empreitadas e subempreitadas de obras públicas em que é dono da obra o Estado, as Regiões Autónomas ou os institutos públicos criados pelo Decreto-Lei n.º 237/99, de 25 de Junho.\n\n2 - O presente Regime Especial não se aplica às empreitadas e subempreitadas de obras públicas cujo imposto seja devido pelo adquirente nos termos da alínea j) do n.º 1 do artigo 2.º do Código do IVA.\n\n> Alterado pelo/a [Decreto-Lei n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2007-518046), publicado em 2007-01-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:203031:por",
+    "alterador": "pt:dre:518046:por;pt:dre:229157:por;pt:dre:174548:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º\n\n1 - O imposto relativo às prestações de serviços a que se refere o artigo 1.º é exigível no momento do recebimento total ou parcial do preço, pelo montante recebido.\n\n2 - Sem prejuízo do disposto no número anterior, relativamente às subempreitadas presume-se que o recebimento total do preço ocorre no último dia útil do mês seguinte àquele em que for efectuado o pagamento total da empreitada, o qual se tem por verificado ainda que existam montantes retidos a título de garantia.\n\n3 - O empreiteiro deve comunicar ao subempreiteiro a data do recebimento total do preço da empreitada, para efeitos do disposto no número anterior, não ficando a exigibilidade do imposto dependente daquela comunicação.\n\n4 - O imposto é ainda exigível quando o recebimento total ou parcial do preço preceda o momento da realização das operações tributáveis.",
+    "depois": "###### Artigo 3.º\n\n1 - O imposto relativo às prestações de serviços a que se refere o artigo 1.º é exigível no momento do recebimento total ou parcial do preço, pelo montante recebido.\n\n2 - Sem prejuízo do disposto no número anterior, relativamente às subempreitadas presume-se que o recebimento total do preço ocorre no último dia útil do mês seguinte àquele em que for efectuado o pagamento total da empreitada, o qual se tem por verificado ainda que existam montantes retidos a título de garantia.\n\n3 - O empreiteiro deve comunicar ao subempreiteiro a data do recebimento total do preço da empreitada, para efeitos do disposto no número anterior, não ficando a exigibilidade do imposto dependente daquela comunicação.\n\n4 - O imposto é ainda exigível quando o recebimento total ou parcial do preço preceda o momento da realização das operações tributáveis.\n\n5 - Para efeitos do disposto no n.º 1, considera-se ainda que há recebimento total ou parcial do preço em caso de cessão de créditos, sendo o imposto exigível pelo montante do crédito cedido.\n\n> Alterado pelo/a [Lei n.º 109-B/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), publicado em 2001-12-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:203031:por",
+    "alterador": "pt:dre:518046:por;pt:dre:229157:por;pt:dre:174548:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º\n\n1 - As facturas relativas a operações abrangidas pelo artigo 1.º devem ser numeradas seguidamente numa série especial, convenientemente referenciada, e conter a menção «IVA exigível e dedutível no pagamento».\n\n2 - No pagamento total ou parcial das facturas referidas no número anterior e nas situações referidas no n.º 4 do artigo 3.º é obrigatória a emissão de recibo pelos montantes recebidos, numa série convenientemente referenciada, devendo constar do mesmo a taxa de IVA aplicável e a referência à factura a que respeita o pagamento, quando for caso disso.\n\n3 - O disposto no número anterior é ainda aplicável relativamente às importâncias recebidas em data posterior à verificação da exigibilidade do imposto, nos termos do disposto no n.º 2 do artigo 3.º, devendo, nestes casos, ser mencionada no recibo a data em que ocorreu a exigibilidade\n\n4 - A data de emissão dos recibos a que se referem os n.os 2 e 3 deve coincidir sempre com a do pagamento, devendo o mesmo ser processado em duplicado, destinando-se o original ao cliente e a cópia ao arquivo do prestador dos serviços.",
+    "depois": "###### Artigo 7.º\n\n1 - As faturas relativas a operações abrangidas pelo artigo 1.º devem ser numeradas seguidamente numa série especial, convenientemente referenciada, e conter a menção 'Exigibilidade de caixa'.\n\n2 - No pagamento total ou parcial das facturas referidas no número anterior e nas situações referidas no n.º 4 do artigo 3.º é obrigatória a emissão de recibo pelos montantes recebidos, numa série convenientemente referenciada, devendo constar do mesmo a taxa de IVA aplicável e a referência à factura a que respeita o pagamento, quando for caso disso.\n\n3 - O disposto no número anterior é ainda aplicável relativamente às importâncias recebidas em data posterior à verificação da exigibilidade do imposto, nos termos do disposto no n.º 2 do artigo 3.º, devendo, nestes casos, ser mencionada no recibo a data em que ocorreu a exigibilidade\n\n4 - A data de emissão dos recibos a que se referem os n.os 2 e 3 deve coincidir sempre com a do pagamento, devendo o mesmo ser processado em duplicado, destinando-se o original ao cliente e a cópia ao arquivo do prestador dos serviços.\n\n> Alterado pelo/a [Decreto-Lei n.º 197/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), publicado em 2012-08-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:203031:por",
+    "alterador": "pt:dre:518046:por;pt:dre:229157:por;pt:dre:174548:por"
+  }
+]

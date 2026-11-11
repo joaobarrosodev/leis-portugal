@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Definições\n\nPara os efeitos do presente Regulamento, entende-se por:\n\n1 - Tractor agrícola ou florestal: veículo a motor, com rodas, tendo pelo menos dois eixos, cuja função principal reside na potência de tracção especialmente concebida para atrelar, empurrar, carregar ou accionar certas ferramentas, máquinas ou reboques destinados à utilização agrícola ou florestal, podendo estar equipado para transportar uma carga e passageiros.\n\n2 - Aprovação de âmbito nacional de modelo: acto pelo qual a Direcção-Geral de Viação certifica que um modelo de veículo, sistema, componente ou unidade técnica reúne as características técnicas fixadas para o efeito em conformidade com o estabelecido no Código da Estrada e legislação complementar aplicável.\n\n3 - Homologação CE: acto pelo qual o serviço competente de um Estado membro verifica se um determinado modelo de tractor satisfaz as prescrições técnicas das directivas especiais e as verificações previstas na ficha da homologação CE, cujo modelo figura no anexo II.\n\n4 - Autoridade competente para homologar: autoridade nacional de um Estado membro da União Europeia, responsável por todos os aspectos de homologação de um modelo de tractor, reboque agrícola, sistemas, componentes ou unidade técnica, que procede à emissão e, se for caso disso, à revogação da ficha de homologação e assegura a ligação com as autoridades competentes para a homologação dos outros Estados membros, sendo responsável pela verificação das disposições tomadas pelo fabricante para assegurar a conformidade da produção.\n\n5 - Entidade técnica: entidade acreditada como laboratório de ensaios para efectuar os ensaios ou inspecções em nome da autoridade nacional ou de outro Estado membro da União Europeia, competente para a homologação.",
+    "depois": "###### Artigo 2.º — Definições\n\nPara efeitos do presente Regulamento, entende-se por:\n\n1 - Tractor agrícola ou florestal: veículo a motor, com rodas, tendo pelo menos dois eixos, cuja função principal reside na potência de tracção especialmente concebida para atrelar, empurrar, carregar ou accionar certas ferramentas, máquinas ou reboques destinados à utilização agrícola ou florestal, podendo estar equipado para transportar uma carga e passageiros.\n\n2 - Aprovação de âmbito nacional de modelo: acto pelo qual a Direcção-Geral de Viação certifica que um modelo de veículo, sistema, componente ou unidade técnica reúne as características técnicas fixadas para o efeito em conformidade com o estabelecido no Código da Estrada e legislação complementar aplicável.\n\n3) 'Homologação CE': acto pelo qual o serviço competente de um Estado membro verifica se um determinado modelo de tractor satisfaz as prescrições técnicas das directivas específicas fixadas no anexo II e as verificações previstas na ficha da homologação CE, cujo modelo figura naquele anexo;\n\n4 - Autoridade competente para homologar: autoridade nacional de um Estado membro da União Europeia, responsável por todos os aspectos de homologação de um modelo de tractor, reboque agrícola, sistemas, componentes ou unidade técnica, que procede à emissão e, se for caso disso, à revogação da ficha de homologação e assegura a ligação com as autoridades competentes para a homologação dos outros Estados membros, sendo responsável pela verificação das disposições tomadas pelo fabricante para assegurar a conformidade da produção.\n\n5 - Entidade técnica: entidade acreditada como laboratório de ensaios para efectuar os ensaios ou inspecções em nome da autoridade nacional ou de outro Estado membro da União Europeia, competente para a homologação.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2003-214715), publicado em 2003-03-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:615043:por",
+    "alterador": "pt:dre:214715:por;pt:dre:260417:por;pt:dre:641415:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Pedido de homologação\n\n1 - Todos os pedidos de homologação CE devem ser apresentados pelo fabricante ou pelo seu mandatário à autoridade competente para homologar.\n\n2 - O pedido referido no número anterior deve ser acompanhado por uma ficha de informações, cujo modelo figura no anexo I, e pelos documentos mencionados nessa ficha.\n\n3 - Para um mesmo modelo de tractor, o pedido de homologação CE apenas pode ser apresentado a uma única autoridade competente para homologar.",
+    "depois": "###### Artigo 3.º — Pedido de homologação\n\n1 - Todos os pedidos de homologação CE devem ser apresentados pelo fabricante ou pelo seu mandatário à autoridade competente para homologar.\n\n2 - O pedido referido no número anterior deve ser acompanhado por uma lista exaustiva de informações ou por uma ficha de informações cujos modelos figuram no anexo I, bem como pelos documentos mencionados nessa ficha.\n\n3 - Para um mesmo modelo de tractor, o pedido de homologação CE apenas pode ser apresentado a uma única autoridade competente para homologar.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2003-214715), publicado em 2003-03-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:615043:por",
+    "alterador": "pt:dre:214715:por;pt:dre:260417:por;pt:dre:641415:por"
+  },
+  {
+    "artigo": "4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Homologação\n\n1 - Devem ser homologados os modelos de tractor que:\n\na) Estejam em conformidade com os dados que figuram na ficha de informações;\n\nb) Satisfaçam os controlos previstos no modelo de ficha de homologação que consta do anexo II.\n\n2 - A Direcção-Geral de Viação, quando tiver procedido à homologação, deve tomar as medidas necessárias para controlar a conformidade da produção com o modelo homologado, se necessário em colaboração com as autoridades competentes dos outros Estados membros, devendo o controlo limitar-se a amostragens.\n\n3 - Para os modelos de tractor que homologar, a Direcção-Geral de Viação deve preencher todas as rubricas da ficha de homologação.",
+    "depois": "###### Artigo 4.º — Homologação\n\n1 - Devem ser homologados os modelos de tractor definidos no anexo II, bem como a categoria a que pertencem, que:\n\na) Estejam em conformidade com os dados que figuram na ficha de informações;\n\nb) Satisfaçam os controlos previstos no modelo de ficha de homologação que consta do anexo II.\n\n2 - A Direcção-Geral de Viação, quando tiver procedido à homologação, deve tomar as medidas necessárias para controlar a conformidade da produção com o modelo homologado, se necessário em colaboração com as autoridades competentes dos outros Estados membros, devendo o controlo limitar-se a amostragens.\n\n3 - Para os modelos de tractor que homologar, a Direcção-Geral de Viação deve preencher todas as rubricas da ficha de homologação.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2003-214715), publicado em 2003-03-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:615043:por",
+    "alterador": "pt:dre:214715:por;pt:dre:260417:por;pt:dre:641415:por"
+  },
+  {
+    "artigo": "30.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 30.º — Velocidade máxima por construção e plataforma de carga\n\nA Direcção-Geral de Viação concede a homologação CE e a homologação de âmbito nacional a um modelo de tractor se a velocidade máxima, por construção, ou as plataformas de carga corresponderem às prescrições constantes do anexo XX.",
+    "depois": "###### Artigo 30.º — Velocidade máxima por construção e plataforma de carga\n\n1 - O Instituto da Mobilidade e dos Transportes, I.P., concede a homologação CE e a homologação de âmbito nacional a um modelo de trator se a velocidade máxima por construção ou as plataformas de carga corresponderem às prescrições constantes do anexo XX.\n\n2 - O presente capítulo é exclusivamente aplicável aos tratores montados sobre pneus e cuja velocidade máxima por construção não seja superior a 40 Km/h.\n\n> Alterado pelo/a [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417), publicado em 2013-04-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:615043:por",
+    "alterador": "pt:dre:214715:por;pt:dre:260417:por;pt:dre:641415:por"
+  },
+  {
+    "artigo": "66.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 66.º-A — Superfícies quentes e cobertura dos terminais das baterias\n\n1 - As superfícies quentes com as quais o operador possa eventualmente ter contacto durante a utilização normal do tractor devem ser cobertas ou isoladas, aplicando-se isto a superfícies quentes localizadas próximo de degraus, corrimãos, pegas e partes integrantes do tractor utilizadas como meios de embarque e que sejam susceptíveis de serem tocadas inadvertidamente.\n\n2 - Os terminais de baterias sem ligação à terra devem estar protegidos contra curto-circuitos não intencionais.\n\n> Aditado pelo/a [Decreto-Lei n.º 339/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-2007-641415), publicado em 2007-10-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:615043:por",
+    "alterador": "pt:dre:214715:por;pt:dre:260417:por;pt:dre:641415:por"
+  }
+]

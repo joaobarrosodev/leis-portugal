@@ -1,0 +1,1758 @@
+{
+  "id": "pt:dre:509406:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "(Finalidade do registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "(Factos sujeitos a registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "(Acções e decisões sujeitas a registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "(Princípio da instância)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "(Princípio da legalidade)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "(Eficácia entre as partes)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "(Oponibilidade a terceiros)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "(Presunções derivadas do registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "(Prioridade do registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "(Transferência e extinção dos efeitos do registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "(Caducidade do registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "(Impugnação dos factos comprovados pelo registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "(Princípio do trato sucessivo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "(Âmbito da obrigatoriedade)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "(Prazo do registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "(Procedimento criminal)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "(Cessação do procedimento criminal)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "(Transmissões operadas em inventário orfanológico)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "(Despesas do registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "(Registos gratuitos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "(Realização oficiosa de registos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "(Comunicações das repartições de finanças)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "(Relação mensal dos actos notariais e decisões judiciais; advertência aos interessados)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "(Manifesto de créditos com garantia real)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "(Acções fundadas em direitos sujeitos a registo obrigatório)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "(Conservatórias)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "(Regras de competência)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "(Alteração da área da conservatória)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "(Transcrição do registo consequente de desanexação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "(Certidões para transcrição)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "(Transcrição na conservatória da anexação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "(Admissão temporária de pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "(Requisição de certidões para transcrição)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "(Anotação da transcrição)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "(Criação ou extinção de conservatórias)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "(Transferência dos livros e documentos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "(Actos que podem ser lavrados nos livros transferidos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "(Livros de registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "(Livros comuns)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "(Livro Diário)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "(Livro das descrições)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "(Livro de inscrições de propriedade)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "(Livro de inscrições hipotecárias)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "(Livro de inscrições diversas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "(Substituição dos livros índices)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "(Livro de registo de dúvidas e recusas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "(Livro do registo de emolumentos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "(Livros de registos das conservatórias divididas em secções)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "(Livro de inventário)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "(Livro de posses)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "(Livro de ponto)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "(Encadernação e numeração dos livros)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "(Legalização dos livros)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "(Termos de abertura e de encerramento)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "55.º",
+      "epigrafe": "(Legalização dos livros das conservatórias de Lisboa)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "(Livros legalizados pelos conservadores)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "(Selagem dos livros)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "(Verbetes)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "59.º",
+      "epigrafe": "(Fundamentos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "60.º",
+      "epigrafe": "(Formalidades)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "61.º",
+      "epigrafe": "(Reclamações)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "62.º",
+      "epigrafe": "(Trâmites das reclamações)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "63.º",
+      "epigrafe": "(Suprimento de omissões não reclamadas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "(Suspensão do serviço)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "65.º",
+      "epigrafe": "(Recomeço do serviço)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "66.º",
+      "epigrafe": "(Encargos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "67.º",
+      "epigrafe": "(Arquivamento dos documentos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "68.º",
+      "epigrafe": "(Correspondência expedida)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "69.º",
+      "epigrafe": "(Correspondência recebida)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "70.º",
+      "epigrafe": "(Conservação do arquivo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "71.º",
+      "epigrafe": "(Apresentação prévia)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "72.º",
+      "epigrafe": "(Partes componentes do registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "73.º",
+      "epigrafe": "(Desistência)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "74.º",
+      "epigrafe": "(Termos do registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "75.º",
+      "epigrafe": "(Ordem dos registos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "76.º",
+      "epigrafe": "(Data dos registos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "77.º",
+      "epigrafe": "(Prazo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "78.º",
+      "epigrafe": "(Redacção dos registos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "79.º",
+      "epigrafe": "(Feitura dos registos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "80.º",
+      "epigrafe": "(Assinatura)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "81.º",
+      "epigrafe": "(Registos errados)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "82.º",
+      "epigrafe": "(Irregularidades do registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "83.º",
+      "epigrafe": "(Causas de nulidade)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "84.º",
+      "epigrafe": "(Necessidade de declaração de nulidade)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "85.º",
+      "epigrafe": "(Efeitos da nulidade em relação a terceiro)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "86.º",
+      "epigrafe": "(Observância dos preceitos fiscais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "87.º",
+      "epigrafe": "(Regra geral)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "88.º",
+      "epigrafe": "(Legitimidade para requerer averbamento às descrições)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "89.º",
+      "epigrafe": "(Outros casos especiais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "90.º",
+      "epigrafe": "(Instrumento da procuração)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "91.º",
+      "epigrafe": "(Procuração tácita)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "92.º",
+      "epigrafe": "(Procurações arquivadas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "93.º",
+      "epigrafe": "(Requisitos gerais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "94.º",
+      "epigrafe": "(Requisitos especiais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "95.º",
+      "epigrafe": "(Valor probatório que devem ter)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "96.º",
+      "epigrafe": "(Documentos arquivados)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "97.º",
+      "epigrafe": "(Documentos passados no estrangeiro)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "98.º",
+      "epigrafe": "(Documentos escritos em língua estrangeira)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "99.º",
+      "epigrafe": "(Documentos ilegíveis)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "100.º",
+      "epigrafe": "(Certidões extraídas de inventário judicial ou de processo de execução)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "101.º",
+      "epigrafe": "(Identidade do prédio certificado)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "102.º",
+      "epigrafe": "(Cadernetas prediais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "103.º",
+      "epigrafe": "(Substituição das cadernetas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "104.º",
+      "epigrafe": "(Prédios omissos na matriz)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "105.º",
+      "epigrafe": "(Declarações para actos de registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "106.º",
+      "epigrafe": "(Alterações dos artigos matriciais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "107.º",
+      "epigrafe": "(Alteração da denominação da via pública ou da numeração policial)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "108.º",
+      "epigrafe": "(Documentos para a descrição)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "109.º",
+      "epigrafe": "(Contradição quanto aos elementos de identificação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "110.º",
+      "epigrafe": "(Documento para registo de constituição da propriedade horizontal)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "111.º",
+      "epigrafe": "(Documento para registo de modificação do título constitutivo da propriedade horizontal)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "112.º",
+      "epigrafe": "(Documento para registo de hipoteca)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "113.º",
+      "epigrafe": "(Documento para o registo de hipoteca por dívidas de juros)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "114.º",
+      "epigrafe": "(Documento para registo de afectação de créditos hipotecários)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "115.º",
+      "epigrafe": "(Documento para o registo de afectação de imóveis)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "116.º",
+      "epigrafe": "(Documento para registo da renúncia a indemnização, no caso de futura expropriação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "117.º",
+      "epigrafe": "(Documento para registo de acções)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "118.º",
+      "epigrafe": "(Documento para registo de contrato para pessoa a nomear)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "119.º",
+      "epigrafe": "(Documento para o registo de transmissão resultante de arrematação judicial)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "120.º",
+      "epigrafe": "(Documento para o registo requerido pelo gestor de negócios ou por procurador sem poderes suficientes)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "121.º",
+      "epigrafe": "(Documento para o registo da penhora ou do arresto)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "122.º",
+      "epigrafe": "(Documento para o registo de dote)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "123.º",
+      "epigrafe": "(Documento para registo do encargo dotal sobre novos bens)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "124.º",
+      "epigrafe": "(Documento para registo de ónus sobre bens dotais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "125.º",
+      "epigrafe": "(Documento para registo do apanágio)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "126.º",
+      "epigrafe": "(Documento para o registo de transmissão contratual ou de hipoteca voluntária)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "127.º",
+      "epigrafe": "(Documento para cancelamento)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "128.º",
+      "epigrafe": "(Documento para cancelamento do registo respeitante a créditos sujeitos a manifesto fiscal)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "129.º",
+      "epigrafe": "(Documento para cancelamento do registo de hipoteca relativa a pensões periódicas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "130.º",
+      "epigrafe": "(Documento para cancelamento de obrigações militares)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "131.º",
+      "epigrafe": "(Documento para cancelamento do registo de penhora ou de arresto)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "132.º",
+      "epigrafe": "(Documento para cancelamento do registo provisório por dúvidas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "133.º",
+      "epigrafe": "(Documento para cancelamento do registo provisório por natureza)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "134.º",
+      "epigrafe": "(Documento para cancelamento do registo provisório de acção)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "135.º",
+      "epigrafe": "(Anotação no Diário)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "136.º",
+      "epigrafe": "(Elementos da apresentação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "137.º",
+      "epigrafe": "(Correspondência entre o número de actos requeridos e o das apresentações)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "138.º",
+      "epigrafe": "(Unidade do registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "139.º",
+      "epigrafe": "(Ordem de apresentação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "140.º",
+      "epigrafe": "(Recusa da apresentação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "141.º",
+      "epigrafe": "(Leitura da apresentação e sua anotação nos títulos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "142.º",
+      "epigrafe": "(Senhas de apresentação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "143.º",
+      "epigrafe": "(Levantamento dos títulos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "144.º",
+      "epigrafe": "(Período reservado à apresentação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "145.º",
+      "epigrafe": "(Encerramento do Diário)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "146.º",
+      "epigrafe": "(Apresentação pelo correio)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "147.º",
+      "epigrafe": "(Finalidade)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "148.º",
+      "epigrafe": "(Unidade do prédio)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "149.º",
+      "epigrafe": "(Menções gerais obrigatórias)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "150.º",
+      "epigrafe": "(Menções especiais obrigatórias)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "151.º",
+      "epigrafe": "(Menções facultativas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "152.º",
+      "epigrafe": "(Anotação no verbete do prédio)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "153.º",
+      "epigrafe": "(Conjugação com as inscrições matriciais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "154.º",
+      "epigrafe": "(Alteração dos elementos de identificação matricial)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "155.º",
+      "epigrafe": "(Lançamento no Livro)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "156.º",
+      "epigrafe": "(Cotas de referência)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "157.º",
+      "epigrafe": "(Alteração da descrição)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "158.º",
+      "epigrafe": "(Requisitos gerais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "159.º",
+      "epigrafe": "(Descrição duplicada)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "160.º",
+      "epigrafe": "(Anexação de prédios já descritos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "161.º",
+      "epigrafe": "(Anexação de prédio já descrito e outro não descrito)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "162.º",
+      "epigrafe": "(Anexação de prédio já descrito e de parcelas destacadas de outro também já descrito)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "163.º",
+      "epigrafe": "(Anexação de parcelas destacadas de prédios já descritos e de outros não descritos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "164.º",
+      "epigrafe": "(Descrição de parcelas destacadas de prédios descritos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "165.º",
+      "epigrafe": "(Modificação dos requisitos da descrição resultante da anexação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "166.º",
+      "epigrafe": "(Substituição das descrições anexadas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "167.º",
+      "epigrafe": "(Oficiosidade dos averbamentos de anexação e desanexação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "168.º",
+      "epigrafe": "(Anotação da anexação e desanexação no verbete)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "169.º",
+      "epigrafe": "(Descrição de parcela de terreno destacada de prédio descrito na qual foi construído um prédio urbano)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "170.º",
+      "epigrafe": "(Averbamento de construção realizada por titulares do direito de superfície)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "171.º",
+      "epigrafe": "(Averbamento de alteração da denominação das vias públicas ou da numeração policial dos prédios)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "172.º",
+      "epigrafe": "(Averbamento de menções matriciais ou de outros elementos de actualização)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "173.º",
+      "epigrafe": "(Ressalva dos direitos de terceiros)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "174.º",
+      "epigrafe": "(Finalidade)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "175.º",
+      "epigrafe": "(Cotas de referência)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "176.º",
+      "epigrafe": "(Identificação do prédio)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "177.º",
+      "epigrafe": "(Lançamento)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "178.º",
+      "epigrafe": "(Modalidade)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "179.º",
+      "epigrafe": "(Inscrições provisórias por natureza)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "180.º",
+      "epigrafe": "(Manutenção e caducidade de algumas inscrições provisórias por natureza)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "181.º",
+      "epigrafe": "(Requisitos gerais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "182.º",
+      "epigrafe": "(Requisitos especiais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "183.º",
+      "epigrafe": "(Requisitos especiais das inscrições de hipoteca)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "184.º",
+      "epigrafe": "(Menções estranhas aos requisitos legais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "185.º",
+      "epigrafe": "(Inscrição de factos constituídos simultâneamente com outros sujeitos a registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "186.º",
+      "epigrafe": "(Registo de convenções ou cláusulas acessórias)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "187.º",
+      "epigrafe": "(Unidade da inscrição do facto referente a vários prédios)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "188.º",
+      "epigrafe": "(Unidade da inscrição de aquisição ou de mera posse de prédio comum)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "189.º",
+      "epigrafe": "(Registo de afectação a reservas ou a fundos de reserva)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "190.º",
+      "epigrafe": "(Registo da renúncia a certas indemnizações no caso de expropriação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "191.º",
+      "epigrafe": "(Anotação no verbete pessoal)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "192.º",
+      "epigrafe": "(Factos averbados)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "193.º",
+      "epigrafe": "(Alteração das inscrições)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "194.º",
+      "epigrafe": "(Complemento especial)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "195.º",
+      "epigrafe": "(Renovação de inscrições provisórias)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "196.º",
+      "epigrafe": "(Conversão de registos provisórios)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "197.º",
+      "epigrafe": "(Averbamentos de cancelamento)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "198.º",
+      "epigrafe": "(Cancelamento de dote sobre bens alienados)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "199.º",
+      "epigrafe": "(Averbamentos provisórios)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "200.º",
+      "epigrafe": "(Requisitos gerais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "201.º",
+      "epigrafe": "(Requisitos especiais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "202.º",
+      "epigrafe": "(Menções estranhas aos requisitos legais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "203.º",
+      "epigrafe": "(Princípio geral)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "204.º",
+      "epigrafe": "(Meios de a obter)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "205.º",
+      "epigrafe": "(Petição inicial)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "206.º",
+      "epigrafe": "(Meios de prova)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "207.º",
+      "epigrafe": "(Oposição ao pedido)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "208.º",
+      "epigrafe": "(Inquirição de testemunhas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "209.º",
+      "epigrafe": "(Sentença)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "210.º",
+      "epigrafe": "(Recurso)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "211.º",
+      "epigrafe": "(Imposto de justiça)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "212.º",
+      "epigrafe": "(Dedução de nova justificação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "213.º",
+      "epigrafe": "(Realização do registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "214.º",
+      "epigrafe": "(Justificação de mera posse)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "215.º",
+      "epigrafe": "(Casos em que é admitida)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "216.º",
+      "epigrafe": "(Escritura)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "217.º",
+      "epigrafe": "(Registo do direito justificado)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "218.º",
+      "epigrafe": "(Suprimento de intervenção do titular da inscrição)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "219.º",
+      "epigrafe": "(Petição para a justificação judicial)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "220.º",
+      "epigrafe": "(Especificação das transmissões averiguadas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "221.º",
+      "epigrafe": "(Suprimento da intervenção do titular inscrito em caso de arresto ou penhora)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "222.º",
+      "epigrafe": "(Casos em que é admitida)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "223.º",
+      "epigrafe": "(Expurgação dos encargos mediante justificação judicial)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "224.º",
+      "epigrafe": "(Cancelamento)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "225.º",
+      "epigrafe": "(Expurgação de registos caducos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "226.º",
+      "epigrafe": "(Iniciativa)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "227.º",
+      "epigrafe": "(Documentos necessários)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "228.º",
+      "epigrafe": "(Erros de cópia)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "229.º",
+      "epigrafe": "(Erros substanciais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "230.º",
+      "epigrafe": "(Rectificação judicial)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "231.º",
+      "epigrafe": "(Actos preparatórios da rectificação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "232.º",
+      "epigrafe": "(Notificação judicial)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "233.º",
+      "epigrafe": "(Conferência dos interessados)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "234.º",
+      "epigrafe": "(Rectificação judicial)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "235.º",
+      "epigrafe": "(Vista ao Ministério Público)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "236.º",
+      "epigrafe": "(Decisão)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "237.º",
+      "epigrafe": "(Execução da sentença)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "238.º",
+      "epigrafe": "(Recurso)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "239.º",
+      "epigrafe": "(Rectificação judicial promovida pelo conservador)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "240.º",
+      "epigrafe": "(Isenção de selos e custas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "241.º",
+      "epigrafe": "(Forma e gratuitidade da rectificação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "242.º",
+      "epigrafe": "(Ressalva de direitos de terceiro)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "243.º",
+      "epigrafe": "(Fundamentos de recusa)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "244.º",
+      "epigrafe": "(Registo provisório por dúvidas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "245.º",
+      "epigrafe": "(Registo dos motivos da recusa ou das dúvidas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "246.º",
+      "epigrafe": "(Nota dos motivos da recusa ou das dúvidas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "247.º",
+      "epigrafe": "(Menção dos motivos da recusa ou das dúvidas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "248.º",
+      "epigrafe": "(Admissibilidade)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "249.º",
+      "epigrafe": "(Prazo para a interposição)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "250.º",
+      "epigrafe": "(Requisição da nota dos motivos da recusa ou das dúvidas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "251.º",
+      "epigrafe": "(Petição)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "252.º",
+      "epigrafe": "(Reparação da decisão)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "253.º",
+      "epigrafe": "(Remessa a juízo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "254.º",
+      "epigrafe": "(Decisão)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "255.º",
+      "epigrafe": "(Recorribilidade da decisão)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "256.º",
+      "epigrafe": "(Termos posteriores à decisão)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "257.º",
+      "epigrafe": "(Cumprimento do julgado)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "258.º",
+      "epigrafe": "(Isenção de preparo e custas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "259.º",
+      "epigrafe": "(Efeitos da interposição do recurso)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "260.º",
+      "epigrafe": "(Admissibilidade das reclamações)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "261.º",
+      "epigrafe": "(Carácter público de registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "262.º",
+      "epigrafe": "(Espécies)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "263.º",
+      "epigrafe": "(Espécies de certidões)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "264.º",
+      "epigrafe": "(Certidões de actos pendentes)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "265.º",
+      "epigrafe": "(Requisitos das certidões)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "266.º",
+      "epigrafe": "(Forma externa)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "267.º",
+      "epigrafe": "(Conta)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "268.º",
+      "epigrafe": "(Certidão de documentos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "269.º",
+      "epigrafe": "(Fotocópias)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "270.º",
+      "epigrafe": "(Prazo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "271.º",
+      "epigrafe": "(Notas de registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "272.º",
+      "epigrafe": "(Notas de registo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "273.º",
+      "epigrafe": "(Anotações de registo nas cadernetas prediais)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "274.º",
+      "epigrafe": "(Actualização e conferência das cadernetas)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "275.º",
+      "epigrafe": "(Emolumentos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "276.º",
+      "epigrafe": "(Preparos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "277.º",
+      "epigrafe": "(Emolumentos correspondentes aos actos requeridos a favor da Fazenda Nacional e corpos administrativos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "278.º",
+      "epigrafe": "(Responsabilidade civil e criminal)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "279.º",
+      "epigrafe": "(Responsabilidade dos donos de móveis abrangidos em registo hipotecário de fábrica)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "280.º",
+      "epigrafe": "(Registos obrigatórios não requeridos dentro do prazo legal)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "281.º",
+      "epigrafe": "(Destino da multa)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "282.º",
+      "epigrafe": "(Inaplicabilidade do trato sucessivo a actos do pretórito)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "283.º",
+      "epigrafe": "(Disposições inaplicáveis na vigência do registo facultativo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "284.º",
+      "epigrafe": "(Organização dos verbetes do índice real)",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "285.º",
+      "epigrafe": "(Certidões extraídas de inventários e processos de execução)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "286.º",
+      "epigrafe": "(Prorrogação do prazo de renovação de certos registos)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "287.º",
+      "epigrafe": "(Forma de pagamento da contribuição industrial e imposto do selo)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "288.º",
+      "epigrafe": "(Informações que as secções de finanças devem prestar)",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 49053), art. 1.º: nova redação dos artigos 29.º, 34.º, 38.º, 45.º, 46.º (passa a ser o antigo 47.º), 47.º (antigo 48.º), 48.º, 52.º, 54.º, 58.º, 78.º, 93.º, 149.º, 152.º, 158.º, 168.º, 181.º, 191.º, 200.º, 201.º, 262.º, 266.º, 267.º, 271.º e 272.º: aplicadas em sequência, mas ficam sem efeito no texto final porque o alterador 3 revoga todo o Código; mantêm-se as epígrafes novas.",
+    "Alterador 1, art. 3.º: nova redação dos artigos 10.º, 12.º e 19.º da tabela de emolumentos (texto que vem depois do artigo 288.º): fica coberta pela revogação.",
+    "Alterador 1, art. 5.º: revoga o artigo 284.º: (Revogado.).",
+    "Alterador 2 (DL 31/78), art. 1.º: substitui a Tabela de Emolumentos do Registo Predial pela tabela anexa; a tabela não tem artigos com chave no texto atual e fica coberta pela revogação.",
+    "Alterador 3 (DL 224/84), art. 9.º: revoga expressamente o Código aprovado pelo DL 47611, com as alterações posteriores: os 288 artigos ficam (Revogado.); os títulos de divisão não mudam."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3
+      ],
+      "chars": 228381,
+      "artigos": 288
+    }
+  ],
+  "problemas": []
+}

@@ -1,0 +1,83 @@
+{
+  "id": "pt:dre:203031:por",
+  "artigos": [
+    {
+      "chave": "1.º#2",
+      "epigrafe": "",
+      "texto": "1 - Encontram-se abrangidas pelo Regime Especial de Exigibilidade do Imposto sobre o Valor Acrescentado as empreitadas e subempreitadas de obras públicas em que é dono da obra o Estado, as Regiões Autónomas ou os institutos públicos criados pelo Decreto-Lei n.º 237/99, de 25 de Junho.\n\n2 - O presente Regime Especial não se aplica às empreitadas e subempreitadas de obras públicas cujo imposto seja devido pelo adquirente nos termos da alínea j) do n.º 1 do artigo 2.º do Código do IVA.",
+      "alterador": 11
+    },
+    {
+      "chave": "3.º#2",
+      "epigrafe": "",
+      "texto": "1 - O imposto relativo às prestações de serviços a que se refere o artigo 1.º é exigível no momento do recebimento total ou parcial do preço, pelo montante recebido.\n\n2 - Sem prejuízo do disposto no número anterior, relativamente às subempreitadas presume-se que o recebimento total do preço ocorre no último dia útil do mês seguinte àquele em que for efectuado o pagamento total da empreitada, o qual se tem por verificado ainda que existam montantes retidos a título de garantia.\n\n3 - O empreiteiro deve comunicar ao subempreiteiro a data do recebimento total do preço da empreitada, para efeitos do disposto no número anterior, não ficando a exigibilidade do imposto dependente daquela comunicação.\n\n4 - O imposto é ainda exigível quando o recebimento total ou parcial do preço preceda o momento da realização das operações tributáveis.\n\n5 - Para efeitos do disposto no n.º 1, considera-se ainda que há recebimento total ou parcial do preço em caso de cessão de créditos, sendo o imposto exigível pelo montante do crédito cedido.",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "1 - As faturas relativas a operações abrangidas pelo artigo 1.º devem ser numeradas seguidamente numa série especial, convenientemente referenciada, e conter a menção 'Exigibilidade de caixa'.\n\n2 - No pagamento total ou parcial das facturas referidas no número anterior e nas situações referidas no n.º 4 do artigo 3.º é obrigatória a emissão de recibo pelos montantes recebidos, numa série convenientemente referenciada, devendo constar do mesmo a taxa de IVA aplicável e a referência à factura a que respeita o pagamento, quando for caso disso.\n\n3 - O disposto no número anterior é ainda aplicável relativamente às importâncias recebidas em data posterior à verificação da exigibilidade do imposto, nos termos do disposto no n.º 2 do artigo 3.º, devendo, nestes casos, ser mencionada no recibo a data em que ocorreu a exigibilidade\n\n4 - A data de emissão dos recibos a que se referem os n.os 2 e 3 deve coincidir sempre com a do pagamento, devendo o mesmo ser processado em duplicado, destinando-se o original ao cliente e a cópia ao arquivo do prestador dos serviços.",
+      "alterador": 22
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 23 (Lei n.º 66-B/2012, art. 241.º, n.º 2, al. i)) apenas autoriza o Governo a revogar o regime especial aprovado pelo DL 204/97; não é uma revogação direta do texto, não se aplica.",
+  "instrucoes": [
+    "Alterador 1 (Lei 127-B/97, art. 34.º, n.º 5): nova redação do art. 1.º do Regime Especial (1.º#2), acrescenta 'ou as Regiões Autónomas'; superada pelos alteradores 2 e 11.",
+    "Alterador 2 (Lei 3-B/2000, art. 44.º, n.º 9): nova redação do art. 1.º do Regime (1.º#2), acrescenta os institutos públicos do DL 237/99; texto usado como n.º 1 final.",
+    "Alterador 3 (Lei 109-B/2001, art. 35.º, n.º 7): adita n.º 5 ao art. 3.º do Regime (3.º#2); aplicado.",
+    "Alterador 11 (DL 21/2007, art. 2.º): art. 1.º do Regime passa a n.º 1 (anterior corpo) e adita n.º 2; aplicado em 1.º#2.",
+    "Restantes instruções dos alteradores (Código do IVA, RITI, IRS, IRC, outros diplomas, autorizações legislativas) não se dirigem ao original e foram ignoradas; alteradores 5, 7, 12, 14, 19 e 21 vêm sem texto.",
+    "Alterador 22 (DL 197/2012), art. 9.º: nova redação do n.º 1 do art. 7.º do Regime (menção 'Exigibilidade de caixa'); n.os 2 a 4 mantidos do texto atual.",
+    "Alterador 22: restantes artigos alteram o CIVA, RITI e outros diplomas, não o original; ignorados.",
+    "Alterador 23: autorização legislativa para revogar o regime; não aplicada (ver nao_aplicavel).",
+    "Alteradores 24, 25, 26 e 27: nenhuma instrução dirigida ao original."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "chars": 283734,
+      "artigos": 2
+    },
+    {
+      "n": 2,
+      "alteradores": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "chars": 124841,
+      "artigos": 1
+    }
+  ],
+  "problemas": []
+}

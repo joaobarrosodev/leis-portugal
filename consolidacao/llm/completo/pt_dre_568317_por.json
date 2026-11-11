@@ -1,0 +1,45 @@
+{
+  "id": "pt:dre:568317:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Revisão de autorizações com base nas substâncias activas trifloxistrobina, mesotriona ou isoxaflutol",
+      "texto": "1 - As autorizações de colocação no mercado concedidas para produtos fitofarmacêuticos contendo as substâncias activas trifloxistrobina, mesotriona ou isoxaflutol são, até 31 de Março de 2004, revistas em conformidade com as disposições do Decreto-Lei n.º 94/98, de 15 de Abril, tendo em consideração as respectivas características e condições de inclusão aditadas pelo presente diploma ao seu anexo I.\n\n2 - A revisão prevista no número anterior, no que respeita à avaliação e decisão à luz dos princípios uniformes enunciados em anexo ao Decreto-Lei n.º 94/98, de 15 de Abril, aditado pelo Decreto-Lei n.º 341/98, de 4 de Novembro, e com base num processo que satisfaça as exigências do anexo III do Decreto-Lei n.º 94/98, de 15 de Abril, realiza-se:\n\na) Até 31 de Março de 2005, no caso de produtos fitofarmacêuticos que contenham trifloxistrobina, mesotriona ou isoxaflutol como única substância activa;\n\nb) Até 31 de Março de 2005 ou até ao final do prazo estabelecido nos decretos-leis que incluíram substâncias activas na LPC, no caso de produtos fitofarmacêuticos que contenham trifloxistrobina, mesotriona ou isoxaflutol e outra substância activa incluída até 30 de Setembro de 2003 na LPC, sendo que sempre que estes diplomas estabeleçam prazos diferentes aplica-se o prazo mais alargado.",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Revisão de autorizações com base na substância activa flufenacete",
+      "texto": "1 - As autorizações de colocação no mercado concedidas para produtos fitofarmacêuticos contendo a substância activa flufenacete são, até 30 de Junho de 2004, revistas em conformidade com as disposições do Decreto-Lei n.º 94/98, de 15 de Abril, tendo em consideração as respectivas características e condições de inclusão aditadas pelo presente diploma ao seu anexo I.\n\n2 - A revisão prevista no número anterior, no que respeita à avaliação e decisão à luz dos princípios uniformes enunciados em anexo ao Decreto-Lei n.º 94/98, de 15 de Abril, aditado pelo Decreto-Lei n.º 341/98, de 4 de Novembro, e com base num processo que satisfaça as exigências do anexo III do Decreto-Lei n.º 94/98, de 15 de Abril, realiza-se:\n\na) Até 30 de Junho de 2005, no caso de produtos fitofarmacêuticos que contenham flufenacete como única substância activa;\n\nb) Até 30 de Junho de 2005 ou até ao final do prazo estabelecido nos decretos-leis que incluíram substâncias activas na LPC, no caso de produtos fitofarmacêuticos que contenham flufenacete e outra substância activa incluída até 31 de Dezembro de 2003 na LPC, sendo que sempre que estes decretos-leis estabeleçam prazos diferentes aplica-se o prazo mais alargado.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 22/2005), art. 14.º: nova redação do n.º 2 dos artigos 5.º e 6.º (epígrafe e n.º 1 mantidos); aplicado.",
+    "Alterador 1, art. 13.º, e alteradores 2 a 9 (DL 334/2007, 61/2008, 240/2009, 44/2010, 106/2010, 24/2011, 80/2011, 37/2012): alteram o anexo I do DL 94/98 e têm disposições próprias; não são instruções dirigidas ao original; ignorados."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "chars": 173850,
+      "artigos": 2
+    }
+  ],
+  "problemas": []
+}
