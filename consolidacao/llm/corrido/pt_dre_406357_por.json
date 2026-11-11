@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:406357:por",
+  "substituicoes": [
+    {
+      "de": 73,
+      "ate": 73,
+      "texto": "aaa) VAL Máximo - significa o VAL a partir do qual, nos termos do artigo 13.º do contrato de concessão, se dá o termo da concessão ((euro) 917390085).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "RCM 32/2005: nova redação da alínea aaa) do n.º 1.1 do artigo 1 da minuta (VAL Máximo) — substituída a unidade 73 pelo texto do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

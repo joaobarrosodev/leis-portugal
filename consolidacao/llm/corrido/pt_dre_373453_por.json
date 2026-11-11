@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:373453:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os 76 alteradores mudam os quadros de pessoal dos Centros Regionais (mapa I, que no original só existe como imagem, unidade 11) por mapas anexos que também só vêm em imagem, ou criam/abatem lugares nesses quadros sem redação textual; nada disto se pode aplicar ao texto. As alterações aos artigos 5.º, 12.º, 15.º, 16.º e aditamentos (12.º-A/B/C, 15.º-A/B, 16.º-A, 19.º-A) são aos Regulamentos dos Centros Regionais (outros diplomas), não ao original. O n.º 5.º das Portarias n.º 422/93 (alterador 73) e n.º 423/93 (alterador 74) manda aplicar o conteúdo funcional de técnico auxiliar do mapa II aos Centros da Guarda e de Viseu, mas não dá nova redação ao cabeçalho da unidade 13; não se altera o texto para não inventar.",
+  "instrucoes": [
+    "Alteradores 1-22, 25, 26, 29, 34, 36-57, 62, 75, 76: alteram/alargam o quadro de pessoal de um Centro Regional (mapa I) por mapa anexo em imagem ou por criação/abate de lugares sem texto - não aplicável ao texto.",
+    "Alteradores 23, 24, 27, 28, 30-33, 35 (Despachos Normativos): criam um lugar no quadro de pessoal de um Centro - alteração não textual, não aplicada.",
+    "Alterador 4, n.º 2.º: retira um lugar de vogal e repõe o artigo 4.º do Regulamento (outro diploma) - ignorado.",
+    "Alteradores 58-61, 63-69, 73, 74: alteram artigos e aditam artigos aos Regulamentos dos Centros Regionais (outros diplomas) - ignorados; o n.º 4.º/3.º altera o quadro por mapa em imagem - não aplicável.",
+    "Alteradores 70-72: abatem lugares (mapa I) e fixam o quadro (mapa II) por mapas em imagem - não aplicável.",
+    "Alteradores 73 e 74, n.º 5.º: remetem para o conteúdo funcional de técnico auxiliar do mapa II, sem nova redação do texto do original - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

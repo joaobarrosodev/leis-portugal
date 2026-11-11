@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:2701894:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Nenhum alterador se dirige a este original (Regulamento n.º 10/2000 da FMH/UTL, curso de Terapias Expressivas, com pontos 1.º a 9.º e anexos I e II). Os alteradores 1-3 e 5-10 alteram o homónimo Regulamento da CMVM n.º 10/2000 (artigos 1.º, 1.º-A, 3.º, 7.º, 29.º-A, 50.º, 52.º, 53.º, 67.º, anexos II, IV e VI), que não existem neste texto; o alterador 4 (Regulamento n.º 6/2001, curso de Estudos Culturais da FLUP) é um regulamento autónomo sem qualquer instrução sobre o original.",
+  "instrucoes": [
+    "Alterador 1 (CMVM 30/2000): nova redação do n.º 3 do artigo 67.º do Regulamento da CMVM n.º 10/2000 - outro diploma, ignorada.",
+    "Alterador 2 (CMVM 33/2000): aditamento do artigo 29.º-A ao Regulamento da CMVM n.º 10/2000 - outro diploma, ignorada.",
+    "Alterador 3 (CMVM 37/2000): nova redação do título do capítulo I e dos artigos 1.º e 3.º e aditamento do artigo 1.º-A ao Regulamento da CMVM n.º 10/2000 - outro diploma, ignoradas.",
+    "Alterador 4 (Regulamento n.º 6/2001): regulamento autónomo do curso de Estudos Culturais da FLUP, sem instrução dirigida ao original - nada aplicado.",
+    "Alterador 5 (CMVM 5/2001): nova redação do artigo 50.º do Regulamento da CMVM n.º 10/2000 - outro diploma, ignorada.",
+    "Alterador 6 (CMVM 9/2002): nova redação do n.º 1 do artigo 53.º do Regulamento da CMVM n.º 10/2000 - outro diploma, ignorada.",
+    "Alterador 7 (CMVM 15/2002): nova redação do capítulo 0 e aditamento dos esquemas E e F ao anexo II do Regulamento da CMVM n.º 10/2000 - outro diploma, ignoradas.",
+    "Alterador 8 (CMVM 5/2003): alterações ao anexo IV e ao artigo 52.º do Regulamento da CMVM n.º 10/2000 - outro diploma, ignoradas.",
+    "Alterador 9 (CMVM 14/2003): alteração do artigo 7.º e aditamento do anexo VI ao Regulamento da CMVM n.º 10/2000 - outro diploma, ignoradas.",
+    "Alterador 10 (CMVM 5/2004): alteração e aditamento ao n.º 2.3 do esquema C do anexo II do Regulamento da CMVM n.º 10/2000 - outro diploma, ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

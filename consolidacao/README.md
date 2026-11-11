@@ -594,3 +594,9 @@ Mais 120 diplomas (`llm/corrido-ids-bloco22.txt`, de 257 candidatos; 47 saltados
 ### Bloco 23 (ronda 40)
 
 Últimos 89 diplomas que cabem no limite de 120 000 caracteres por pedido (`llm/corrido-ids-bloco23.txt`). 30 sem alterações, 58 juntados, 1 recusado. Ronda 40: 58 verificados às cegas, **56 sem reparos: 63 % do bloco (97 % dos verificados)**. Acumulado das rondas 17 a 40: **1 185 em 2 649 (45 %)**. Ficam 48 candidatos com pedidos acima de 120 000 caracteres.
+
+### Bloco 24 (ronda 41): diplomas grandes
+
+Os 48 candidatos que ficaram por terem pedidos acima de 120 000 caracteres: 35 com até 270 000 caracteres, um diploma por pedido (`llm_corrido.py proximos 48 --max-chars 270000`, `pedidos … --por-ficheiro 1`; `llm/corrido-ids-bloco24.txt`). 12 sem alterações, 18 juntados, 5 recusados. Ronda 41: 17 verificados às cegas (uma vista por diploma), **9 sem reparos: 26 % do bloco (53 % dos verificados)**. Nos diplomas grandes o rendimento cai: muitas instruções por diploma, o modelo lê o pedido só em parte e basta um erro para o diploma chumbar. Acumulado das rondas 17 a 41: **1 194 em 2 684 (44 %; 80 % dos verificados)**.
+
+**Cobertura.** Estão processados todos os candidatos com pedido até 270 000 caracteres. Ficam 13 diplomas entre 280 000 e mais de 1 000 000 de caracteres, que não compensam a este rendimento; se se quiserem, convém partir o pedido por alteradores e não pelo diploma inteiro.

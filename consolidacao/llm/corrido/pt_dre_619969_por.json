@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:619969:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 152/2002), 1.º: os quadros n.os 5, 6, 11, 12 e 21 do anexo I e n.os 4, 7, 8, 17, 18 e 23 do anexo II passam a ter nova redação, mas tanto os quadros do original como os novos só vêm em imagem ((ver quadro no documento original)); não há texto a substituir com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos quadros n.os 5, 6, 11, 12 e 21 do anexo I e n.os 4, 7, 8, 17, 18 e 23 do anexo II; quadros só em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º: norma de aplicação no tempo do próprio alterador, não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

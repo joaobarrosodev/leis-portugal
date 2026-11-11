@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:199975:por",
+  "substituicoes": [
+    {
+      "de": 119,
+      "ate": 119,
+      "texto": "",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 3.º: elimina o § 3.º do artigo 26.º (unidade 119); substituída por texto vazio.",
+    "Alterador 1, arts. 1.º, 2.º e 4.º: dirigidos ao Decreto n.º 47657 ou disposições autónomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

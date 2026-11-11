@@ -1,0 +1,84 @@
+{
+  "id": "pt:dre:443686:por",
+  "substituicoes": [
+    {
+      "de": 159,
+      "ate": 160,
+      "texto": "A presente tabela aplica-se a todas as entidades referidas no artigo 1.º do Código do Registo Comercial.",
+      "alterador": 3
+    },
+    {
+      "de": 284,
+      "ate": 284,
+      "texto": "###### ARTIGO 20.º\n\n1 - É devido o emolumento de 3000$00 pelo estudo e preparação das seguintes escrituras, salvo se se reproduzir minuta apresentada pelas partes:\n\na) Justificação e reconhecimento de direitos;\n\nb) Habilitação;\n\nc) Partilha;\n\nd) Divisão;\n\ne) Permuta;\n\nf) Dação em cumprimento e transacção;\n\ng) Constituição de servidão, do direito de superfície e do direito de habitação periódica;\n\nh) Constituição de propriedade horizontal ou sua alteração;\n\ni) Arrendamento;\n\nj) Locação de estabelecimento;\n\nl) Constituição, fusão, cisão, transformação e dissolução de sociedades, bem como alteração de contrato de sociedade;\n\nm) Constituição de estabelecimento individual de responsabilidade limitada e alteração do acto constitutivo;\n\nn) Constituição de associação, fundação, agrupamento complementar de empresas, consórcio, cooperativa e agrupamento europeu de interesse económico, bem como de alteração dos seus estatutos;\n\no) Qualquer acto que envolva aplicação de normas jurídicas estrangeiras.\n\n2 - Nas escrituras não mencionadas no número anterior em que figurem outras cláusulas além das respeitantes aos elementos essenciais dos negócios titulados é devido o emolumento do n.º 1, reduzido a metade.\n\n3 - Cumulando-se na mesma escritura mais de um dos actos referidos nos números anteriores, o emolumento é devido por cada um deles.\n\n4 - É devido o emolumento de 500$00 por cada requerimento directamente relacionado com actos notariais que deva ser apresentado noutras repartições.",
+      "alterador": 5
+    },
+    {
+      "de": 292,
+      "ate": 293,
+      "texto": "1 - Pela celebração de qualquer acto dentro das horas regulamentares fora do cartório, a requisição dos interessados, acrescem aos emolumentos que ao acto competirem 5000$00.\n\n2 - Ao aumento do número anterior acrescem as despesas de transporte, quando a elas houver lugar.",
+      "alterador": 5
+    },
+    {
+      "de": 298,
+      "ate": 301,
+      "texto": "1 - Pela celebração de qualquer acto fora das horas regulamentares, a requisição dos interessados, aos emolumentos que ao acto competirem acrescem 3000$00.\n\n2 - Ao emolumento do número anterior é aplicável, conforme os casos, o disposto nos n.os 2, 3, 4 e 5 do artigo precedente.\n\n3 - O emolumento do n.º 1 é elevado para o dobro sempre que os actos forem celebrados, de harmonia com a requisição, antes das 8 ou depois das 21 horas, bem como em dia em que o cartório esteja encerrado.",
+      "alterador": 5
+    },
+    {
+      "de": 349,
+      "ate": 350,
+      "texto": "1 - Têm a natureza de emolumentos pessoais os emolumentos previstos nos artigos 9.º, n.º 1, alínea b), 16.º, n.º 1, 20.º, 23.º e 24.º\n\n2 - Dos emolumentos do artigo 20.º pertencem dois terços ao notário e um terço aos funcionários do cartório na proporção dos seus vencimentos de categoria.\n\n3 - Dos elementos do artigo 23.º reverterá:",
+      "alterador": 5
+    },
+    {
+      "de": 356,
+      "ate": 356,
+      "texto": "4 - Os emolumentos dos artigos 9.º, n.º 1, alínea b), 16.º, n.º 1, e 24.º revertem na totalidade para o funcionário que efectuar o correspondente serviço, dividindo-se o emolumento do artigo 24.º nos termos indicados nas alíneas b) e d) do número anterior, se se verificarem as hipóteses aí previstas.",
+      "alterador": 5
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 160,
+      "texto": "###### ARTIGO 27.º\n\nOs registos de actos respeitantes a cooperativas beneficiam da redução de 50% dos emolumentos.\n\n###### ARTIGO 28.º\n\nMantêm-se as isenções emolumentares estabelecidas no artigo 5.º do [Decreto-Lei n.º 77/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1979-383072), de 7 de Abril.\n\n###### ARTIGO 29.º\n\nEm caso de dúvida na aplicação da presente tabela sobre qual seja o emolumento devido, cobrar-se-á sempre o menor.",
+      "alterador": 3
+    },
+    {
+      "depois_de": 252,
+      "texto": "3 - Se o instrumento titular algum acto em substituição legal de escritura pública, aos elementos dos n.os 1 e 2 acresce metade dos emolumentos previstos no artigo 5.º ou no artigo 6.º, consoante o acto for de valor determinado ou de valor indeterminado.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 296,
+      "texto": "6 - O emolumento do n.º 1 é reduzido a 1800$00 nas escrituras de aquisição de habitação própria permanente ou de hipoteca com esta relacionada efecutadas em instituições de crédito e nos testamentos lavrados em estabelecimentos prisionais ou hospitalares públicos.\n\n7 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos dos n.os 1, 3, 4 e 6 deste artigo e do n.º 4 do artigo 20.º é fixado por despacho normativo do Ministro da Justiça.",
+      "alterador": 5
+    },
+    {
+      "depois_de": 316,
+      "texto": "3 - Não há lugar ao agravamento a que se refere o n.º 1 quando se trate de partilha em que algum interessado seja incapaz.",
+      "alterador": 6
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (DL 224/84, art. 2.º) substitui toda a Tabela de Emolumentos do Registo Predial (unidades 25-84) por uma tabela anexa cujo texto não vem no pedido. Alterador 5 (Portaria 1046/91): o 1.º altera a tabela do registo civil, que não está no texto do original; o 2.º altera o artigo 18.º da tabela do registo predial, que não existe no texto atual (a tabela original tem 17 artigos e foi substituída pelo DL 224/84); o 3.º dá ao artigo 21.º da tabela do registo comercial uma redação com '...' em n.os 1 e 2 que não corresponde ao artigo 21.º atual (câmbio em moeda estrangeira); o 4.º adita um artigo 8.º à tabela do registo automóvel com n.os 1 e 2 em '...', texto que não existe.",
+  "instrucoes": [
+    "Alt. 1 (DL 224/84, art. 2.º): substitui a tabela do registo predial pela tabela anexa, que não vem no pedido: não aplicado.",
+    "Alt. 2 (Portaria 378/87): artigo 9.º da tabela do notariado, n.os 1 e 2 mantidos, novo n.º 3: inserido depois da unidade 252.",
+    "Alt. 3 (Portaria 632/87), 1.º: nova redação do artigo 26.º da tabela do registo comercial: corpo (unidades 159-160) substituído pelo novo texto.",
+    "Alt. 3, 2.º: aditados os artigos 27.º, 28.º e 29.º à tabela do registo comercial: inseridos depois da unidade 160.",
+    "Alt. 4 (DL 92/90): sem texto dirigido ao original.",
+    "Alt. 5 (Portaria 1046/91), 1.º: tabela do registo civil (artigos 11.º, 13.º, 14.º, 15.º, 16.º): não está no original, não aplicado.",
+    "Alt. 5, 2.º: artigo 18.º da tabela do registo predial: inexistente no texto atual, não aplicado.",
+    "Alt. 5, 3.º: artigo 21.º da tabela do registo comercial: redação com '...' que não corresponde ao texto atual, não aplicado.",
+    "Alt. 5, 4.º: aditamento do artigo 8.º à tabela do registo automóvel com n.os 1 e 2 em '...': texto inexistente, não aplicado.",
+    "Alt. 5, 5.º: artigo 20.º do notariado com redação integral nova: unidade 284 substituída.",
+    "Alt. 5, 5.º: artigo 23.º do notariado: n.os 1 e 2 substituídos (292-293), n.os 3 a 5 iguais, n.os 6 e 7 inseridos depois da 296.",
+    "Alt. 5, 5.º: artigo 24.º do notariado com redação integral de n.os 1 a 3: unidades 298-301 substituídas (o n.º 4 deixa de existir).",
+    "Alt. 5, 5.º: artigo 30.º do notariado: n.º 1 alterado, novo n.º 2, antigo n.º 2 passa a n.º 3 com nova frase inicial (349-350), alíneas a) a e) mantidas, antigo n.º 3 passa a n.º 4 com nova redação (356).",
+    "Alt. 6 (DL 227/94, art. 6.º): artigo 26.º do notariado, novo n.º 3: inserido depois da unidade 316.",
+    "Alt. 7 (DL 209/2012): só menciona o DL 397/83 na lista de alterações de outros diplomas; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

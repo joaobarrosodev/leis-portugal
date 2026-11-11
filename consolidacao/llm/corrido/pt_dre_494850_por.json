@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:494850:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os 56 alteradores mudam apenas os quadros de pessoal anexos de hospitais concretos (alteração, substituição parcial ou total do quadro, criação ou extinção de lugares), e esses quadros só existem em imagem no documento original (unidade 13 e anexos dos alteradores). Nenhum altera textualmente os pontos 1.º ou 2.º nem outra unidade do texto. As departamentalizações de chefias e os conteúdos funcionais que alguns trazem (1084/92, 299/93, 529/93, 789/94, 637/95, 907/95, 924/95, 1017/95, 210/96, 271/97, 357/97, 425/97, 459/98) são normas próprias desses alteradores para cada hospital, não novas redações do ponto 2.º. A Portaria 113/90 distribui lugares de parteira ao abrigo do Decreto-Lei 298/89 e a 1374/2002 acrescenta lugares a quadros de muitos serviços. Nada se aplica ao texto.",
+  "instrucoes": [
+    "Alteradores 1-4, 7-33 e 35-56 (Portarias 239/88 a 317/2006): alteram ou substituem o quadro de pessoal anexo de um hospital (Anadia, Santiago do Cacém, Fundão, Fafe, Cantanhede, Póvoa de Varzim, Montijo, Macedo de Cavaleiros, Estarreja, Espinho, Tondela, Alcobaça, São Paio de Oleiros, Serpa, Amarante, Santo Tirso, Ovar, Ponte de Lima, Régua, Vila do Conde, Valongo, Lagos, Francisco Zagalo, Conde do Bracial, Pombal, Arcebispo João Crisóstomo, São Pedro Pescador). O quadro só está em imagem: não aplicado.",
+    "Alterador 5 (Portaria 113/90): distribui lugares de parteira por vários hospitais ao abrigo do Decreto-Lei 298/89; não muda texto do original: não aplicado.",
+    "Alterador 6 (Portaria 413/91): substitui os quadros de pessoal médico de vários hospitais, entre eles Macedo de Cavaleiros; quadros em imagem: não aplicado.",
+    "Alterador 34 (Portaria 789/94) e outros com ponto 2.º sobre chefias: departamentalização própria de um hospital, sem nova redação do ponto 2.º do original: não aplicado.",
+    "Alterador 54 (Portaria 1374/2002): acrescenta lugares a quadros de muitos serviços (anexos em imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

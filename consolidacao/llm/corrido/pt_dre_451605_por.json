@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:451605:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 9,
+      "texto": "b) Quanto ao Protocolo, Portugal aceita as obrigações decorrentes das partes III, IV, V, VII, IX e X do Código, tais como modificadas pelo Protocolo.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação da alínea b) do artigo 2.º (reserva quanto ao Protocolo Adicional, no texto atual numerada 2) com as subalíneas a) e b)); substituí as unidades 7 a 9 pela nova redação.",
+    "Alterador 1, art. 2.º: entrada em vigor, sem alteração textual ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

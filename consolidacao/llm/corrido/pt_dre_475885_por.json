@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:475885:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 92/2011 (alterador 3), artigo 21.º, n.º 1, alínea f), revoga por inteiro o Decreto n.º 46 989, de 30 de Abril de 1966, alterado pelo Decreto n.º 574/71 e pela Lei n.º 30/2006; por isso não se devolvem alterações.",
+  "instrucoes": [
+    "Alterador 1 (Decreto n.º 574/71), alínea a): adita § único ao artigo 1.º do Regulamento; não aplicado porque o diploma foi depois revogado por inteiro.",
+    "Alterador 1, alínea b): adita §§ 3.º e 4.º ao artigo 10.º do Regulamento; não aplicado (revogação total posterior).",
+    "Alterador 1, alínea c): nova redação do corpo do artigo 51.º; não aplicado (revogação total posterior).",
+    "Alterador 2 (Lei n.º 30/2006), artigo 22.º, n.º 1: o capítulo VI passa a denominar-se «Contra-ordenações»; não aplicado (revogação total posterior).",
+    "Alterador 2, artigo 22.º, n.º 2: nova redação dos artigos 49.º a 52.º do Regulamento; não aplicado (revogação total posterior).",
+    "Alterador 2, artigo 37.º, alínea h): revoga o artigo 53.º do Regulamento; não aplicado (revogação total posterior).",
+    "Alterador 3 (Decreto-Lei n.º 92/2011), artigo 21.º, n.º 1, alínea f): revoga o Decreto n.º 46 989 por inteiro; registado em nao_aplicavel, sem mudanças devolvidas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,214 @@
+{
+  "id": "pt:dre:660513:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 13,
+      "texto": "3 - (Revogado.)",
+      "alterador": 10
+    },
+    {
+      "de": 889,
+      "ate": 889,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 939,
+      "ate": 939,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 1056,
+      "ate": 1056,
+      "texto": "",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 28,
+      "texto": "Filologia Clássica.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 36,
+      "texto": "Estudos Clássicas e Portugueses.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 37,
+      "texto": "Estudos Portugueses e Alemães.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 38,
+      "texto": "Estudos Portugueses e Ingleses.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 101,
+      "texto": "Estudos Portugueses.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 192,
+      "texto": "Licenciatura em Relações Internacionais, desde que a língua A seja a língua inglesa.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 199,
+      "texto": "Licenciatura em Relações Internacionais, desde que a língua B seja a língua inglesa.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 224,
+      "texto": "Biologia Vegetal e Aplicada.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 234,
+      "texto": "Geologia Económica e Aplicada.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 235,
+      "texto": "Matemática/informática.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 258,
+      "texto": "Física.\n\nFísica Tecnológica.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 327,
+      "texto": "Arquitectura.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 331,
+      "texto": "Design/Projectação Gráfica.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 337,
+      "texto": "Design/Projectação Gráfica.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 443,
+      "texto": "Licenciatura em Ciências Musicais.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 448,
+      "texto": "Cursos gerais:\n\nCanto, Piano, Violino e Violoncelo, ministrados nas escolas de música oficiais ou oficializadas, com aprovação nas disciplinas de Acústica, História e o 3.º ano de Composição ou Introdução à Acústica e História da Música e o 3.º ano de Harmonia do Instituto Gregoriano de Lisboa (ver nota a).",
+      "alterador": 2
+    },
+    {
+      "depois_de": 467,
+      "texto": "Engenharia Civil (ramo de produção).\n\nEngenharia Electrónica.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 469,
+      "texto": "Engenharia Física e dos Materiais.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 473,
+      "texto": "Engenharia Metalúrgica e dos Materiais.\n\nEngenharia de Minas.\n\nEngenharia do Papel.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 474,
+      "texto": "Engenharia de Produção (ramos de):\n\nMetalomecânica.\n\nPlásticos.\n\nTêxtil.\n\nEngenharia de Produção Industrial.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 618,
+      "texto": "Licenciatura em Engenharia dos Materiais.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 682,
+      "texto": "Engenharia Física.\n\nEngenharia Física e dos Materiais.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 723,
+      "texto": "Químicas Aplicadas.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 730,
+      "texto": "Ciências Farmacêuticas.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 874,
+      "texto": "Gestão e Administração Pública.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 913,
+      "texto": "Gestão e Administração Pública.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 922,
+      "texto": "Estudos Portugueses.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 1034,
+      "texto": "Estudos Portugueses.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 1036,
+      "texto": "Línguas e Literaturas Modernas (variantes de):\n\nEstudos Clássicos e Franceses.\n\nEstudos Franceses e Alemães.\n\nEstudos Franceses e Espanhóis.\n\nEstudos Franceses e Ingleses.\n\nEstudos Franceses e Italianos.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 1070,
+      "texto": "Licenciatura em Relações Internacionais.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 1480,
+      "texto": "Licenciatura em Ciências Musicais.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 1484,
+      "texto": "Curso complementar de Música ([Portaria n.º 294/84](https://diariodarepublica.pt/dr/detalhe/portaria/294-1984-384046), de 17 de Maio).\n\nCurso complementar do Instituto Gregoriano de Lisboa ([Portaria n.º 725/84](https://diariodarepublica.pt/dr/detalhe/portaria/725-1984-399410), de 17 de Setembro).",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alteradores 3 (DN 52/96), 4 (DN 7/97), 5 (DN 10-B/98), 6 (DN 1-A/99), 7 (DN 28/99), 8 (DN 3-A/2000), 9 (Portaria 88/2006) e 10 (Portaria 254/2007, mapa anexo): as habilitações aditadas ou alteradas constam de anexos/mapas só disponíveis em imagem (ver documento original), não aplicáveis. Alterador 2, ensino preparatório 4.º grupo, 3.º escalão: 'Engenharia.' já consta como 'Engenharia (ver nota a).' e não é claro se a substitui; não aplicado. Alterador 2, Educação Musical, 2.º escalão: o 'Curso geral de Canto...' e a '(nota a)' já constam do texto (unidades 445 e 449) com redação praticamente igual; não duplicados. Alterador 2, 8.º grupo B: as variantes Estudos Clássicos e Franceses / Franceses e ... foram aditadas às próprias de 1.º escalão, mas não há instrução expressa para as retirar das suficientes (unidades 1051-1055); mantidas.",
+  "instrucoes": [
+    "DN 23/85, prep. 2.º grupo: licenciatura em Estudos Portugueses incluída no 1.º escalão das próprias - inserida após a unidade 101.",
+    "DN 23/85, prep. 3.º grupo: licenciatura em Relações Internacionais (língua A inglesa) no 3.º escalão das próprias - inserida após 192; (língua B inglesa) no 1.º escalão das suficientes - inserida após 199.",
+    "DN 23/85, sec. 7.º grupo: Gestão e Administração Pública passa do 4.º para o 2.º escalão das próprias - eliminada a unidade 889 e inserida após 874; 12 cadeiras da licenciatura em GAP no 2.º escalão das suficientes - inserida na lista de 12 cadeiras após 913.",
+    "DN 23/85, sec. 8.º grupo A: Estudos Portugueses passa do 3.º para o 1.º escalão das próprias - eliminada a 939 e inserida após 922.",
+    "DN 23/85, sec. 8.º grupo B: Estudos Portugueses passa do 1.º escalão das suficientes para o 1.º das próprias - eliminada a 1056 e inserida após 1034; licenciatura em Relações Internacionais no 3.º escalão das suficientes - inserida após 1070.",
+    "DN 11-A/86, prep. 1.º grupo, próprias 1.º escalão: Filologia Clássica e variantes Estudos Clássicas e Portugueses, Portugueses e Alemães, Portugueses e Ingleses - inseridas após 28, 36, 37, 38.",
+    "DN 11-A/86, prep. 4.º grupo: 1.º escalão Biologia Vegetal e Aplicada, Geologia Económica e Aplicada, Matemática/informática (após 224, 234, 235); 3.º escalão Física e Física Tecnológica (após 258); Engenharia não aplicada (já existe com nota).",
+    "DN 11-A/86, prep. 5.º grupo: licenciaturas em Arquitectura e Design/Projectação Gráfica no 1.º escalão (após 327 e 331); bacharelato em Design/Projectação Gráfica no 2.º escalão (após 337).",
+    "DN 11-A/86, prep. Educação Musical: Licenciatura em Ciências Musicais no 1.º escalão (após 443); Cursos gerais de Canto, Piano, Violino e Violoncelo no 2.º escalão (após 448); Curso geral de Canto e nota a já existentes.",
+    "DN 11-A/86, prep. Trabalhos Manuais, 1.º escalão: engenharias novas inseridas nas posições alfabéticas (após 467, 469, 473, 474).",
+    "DN 11-A/86, sec.: 2.º grupo A 3.º escalão Engenharia dos Materiais (após 618); 4.º grupo A 2.º escalão Engenharia Física e Engenharia Física e dos Materiais (após 682); 4.º grupo B Químicas Aplicadas no 1.º escalão (após 723) e Ciências Farmacêuticas no 2.º escalão (após 730); 8.º grupo B próprias 1.º escalão variantes de LLM (após 1036); Música Ciências Musicais no 1.º escalão (após 1480) e cursos complementares no 2.º escalão (após 1484).",
+    "DN 52/96, DN 7/97, DN 10-B/98, DN 1-A/99, DN 28/99, DN 3-A/2000, Portarias 88/2006 e 254/2007: aditamentos/alterações por anexos em imagem - não aplicados.",
+    "Portaria 254/2007, n.º 8.º: revoga o n.º 3 (reconhecimento de cursos superiores estrangeiros) - unidades 8 a 13 (corpo, alíneas a) a d) e 3.1) substituídas por '3 - (Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "inserção depois de 192: parágrafo que não está no alterador nem no original: Licenciatura em Relações Internacionais, desde que a língua A seja a língua ingl",
+    "inserção depois de 199: parágrafo que não está no alterador nem no original: Licenciatura em Relações Internacionais, desde que a língua B seja a língua ingl",
+    "inserção depois de 1070: parágrafo que não está no alterador nem no original: Licenciatura em Relações Internacionais."
+  ]
+}
