@@ -1,0 +1,351 @@
+{
+  "id": "pt:dre:583247:por",
+  "artigos": [
+    {
+      "chave": "6.º",
+      "epigrafe": "Estudos e planos de ordenamento de âmbito territorial mais amplo",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Planos de ordenamento de âmbito territorial mais restrito",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Servidões e restrições de utilidade pública",
+      "texto": "1 - Na área de intervenção do Plano verificam-se as seguintes servidões e restrições de utilidade pública:\n\na) (Revogada.)\n\nb) Zonas de protecção a monumentos, imóveis de interesse público e valores concelhios reportados à defesa do património cultural;\n\nc) Servidões reportadas à defesa e protecção das seguintes infra-estruturas:\n\nAeronáuticas;\n\nPortuárias;\n\nRadioeléctricas;\n\nViárias;\n\nEléctricas;\n\nSaneamento básico;\n\nFaróis;\n\nMarcos geodésicos;\n\nd) Servidões de protecção aos estabelecimentos escolares, prisionais, cemitérios e ao Observatório Meteorológico de Ponta Delgada.\n\n2 - Todas as áreas de servidão existentes encontram-se assinaladas no cartograma n.º 19 («Condicionantes - Servidões e restrições de utilidade pública»), à escala de 1:10000.",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Proposta de Reserva Ecológica Regional",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Reserva Agrícola Regional",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Espaços urbanos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Das categorias dos espaços urbanos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Zonas históricas de salvaguarda e valorização",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Núcleo histórico central de Ponta Delgada - ZHSV 1",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Zona histórica envolvente ao núcleo histórico central de Ponta Delgada - ZHSV 2",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Conjunto urbano de Santa Clara - ZHSV 3",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Conjunto urbano de Fajã de Baixo - ZHSV 4",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Conjunto urbano de São Roque - ZHSV 5",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Zonas urbanas consolidadas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Zona consolidada da cidade - ZC 1",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Zona consolidada de Arrifes/Covoada - ZC 2",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Zona consolidada de relva - ZC 3",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Zona consolidada de Fajã de Cima - ZC 4",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "Zona consolidada de Fajã de Baixo - ZC 5",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "Zona consolidada de São Roque/Livramento - ZC 6",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Zonas de reconversão",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "Zona de reconversão da Rua de Lisboa/Avenida do Príncipe do Mónaco/Santa Catarina - ZR 1",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "Zona de reconversão da Pranchinha - ZR 2",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "Zona de povoamento disperso",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "Equipamentos colectivos existentes",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "Categorias dos espaços urbanizáveis",
+      "texto": "De acordo com o uso indicado na planta de zonamento - cartograma n.º 33 - os espaços urbanizáveis subdividem-se em:\n\n1) (Revogado.)\n\n2) Zonas de equipamentos colectivos propostos.",
+      "alterador": 2
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "Zonas de expansão urbana - Âmbitos e objectivos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "Zona de expansão urbana da cidade - ZEU 1",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "Zona de expansão urbana dos Arrifes/Covoada/Relva - ZEU 2",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "Zona de expansão urbana de Fajã de Cima - ZEU 3",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "Zona de expansão urbana de Fajã de Baixo - ZEU 4",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "Zona de expansão urbana de São Roque - ZEU 5",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "55.º",
+      "epigrafe": "Zona de expansão urbana do Livramento - ZEU 6",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "Espaços culturais",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "Categorias dos espaços culturais",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "59.º",
+      "epigrafe": "Zonas de protecção a edifícios ou conjuntos classificados",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "60.º",
+      "epigrafe": "Áreas de protecção a edificações com proposta de classificação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "61.º",
+      "epigrafe": "Espaços industriais",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "62.º",
+      "epigrafe": "Categorias dos espaços industriais",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "63.º",
+      "epigrafe": "Zonas de indústrias e de armazenagem existentes",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "Zonas propostas de armazenagem e pequena indústria",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "65.º",
+      "epigrafe": "Zona de armazéns e contentores",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "66.º",
+      "epigrafe": "Zona de indústria proposta",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "67.º",
+      "epigrafe": "Espaços agrícolas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "68.º",
+      "epigrafe": "Categorias dos espaços agrícolas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "69.º",
+      "epigrafe": "Zona agrícola de protecção",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "70.º",
+      "epigrafe": "Zona agrícola",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "71.º",
+      "epigrafe": "Espaços florestais",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "72.º",
+      "epigrafe": "Espaços naturais",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "74.º",
+      "epigrafe": "Categorias dos espaços-canais",
+      "texto": "Identificam-se as seguintes categorias:\n\n1 - (Revogado.)\n\n2 - Infra-estruturas rodoviárias. - São constituídas pela rede rodoviária existente e proposta. Atendendo às suas características, subdividem-se em:\n\na) Vias com função regional identificadas no cartograma n.º 33 como:\n\nVia circular existente;\n\nVias urbanas principais;\n\nb) Vias com função municipal identificadas no cartograma n.º 33 como vias urbanas secundárias;\n\nc) Principais cruzamentos, inserções viárias e nós viários propostos;\n\nd) Parques de estacionamento.",
+      "alterador": 2
+    },
+    {
+      "chave": "75.º",
+      "epigrafe": "Infra-estruturas aeronáuticas e portuárias",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "77.º",
+      "epigrafe": "Unidades operativas de planeamento",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "78.º",
+      "epigrafe": "Categorias das unidades operativas de planeamento",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (DRR 31/2006/A): estabelece medidas preventivas com efeito suspensivo parcial do Plano de Urbanização na área do anexo III (só em imagem); suspensão temporária, não é alteração textual. Alterador 2, art. 160.º, n.os 2 e 3: alteração futura do PUPDAE a elaborar pela Câmara e regra de prevalência do PDM, sem texto a aplicar.",
+  "instrucoes": [
+    "Alterador 1, artigo único n.º 3: medidas preventivas suspendem o Plano de Urbanização na área do anexo III; não textual, não aplicado.",
+    "Alterador 2, art. 160.º n.º 1: revoga o Regulamento do PUPDAE com excepção da secção I do cap. I (1.º#2 a 5.º), alíneas b), c), d) do n.º 1 e n.º 2 do art. 8.º, art. 11.º, secções III a VI do cap. II (12.º a 25.º), arts. 47.º, n.º 2 do 48.º, 56.º, 73.º, n.º 2 do 74.º e 76.º; revogados por inteiro 6.º, 7.º, 9.º, 10.º, 26.º a 46.º, 49.º a 55.º, 57.º a 72.º, 75.º, 77.º e 78.º; revogados parcialmente a alínea a) do n.º 1 do 8.º, o n.º 1) do 48.º e o n.º 1 do 74.º. Artigos 1.º a 4.º do decreto de ratificação não tocados.",
+    "Alterador 2, art. 160.º n.os 2 e 3: alteração futura e prevalência do PDM; nada a aplicar ao texto."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2
+      ],
+      "chars": 276339,
+      "artigos": 54
+    }
+  ],
+  "problemas": []
+}

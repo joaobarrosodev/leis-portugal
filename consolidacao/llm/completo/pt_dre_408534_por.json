@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:408534:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [
+    {
+      "atual": "### CAPÍTULO VII — Funções do IEP",
+      "novo": "### CAPÍTULO VII — Funções do IMT",
+      "alterador": 2
+    },
+    {
+      "atual": "### CAPÍTULO X — Exploração e conservação da Auto-Estrada",
+      "novo": "### CAPÍTULO X — Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "O texto atual só traz os artigos 1.º a 5.º do decreto-lei e os títulos dos capítulos I a X do anexo; as bases da concessão não vêm no texto atual. Por isso não se aplicam: as novas redações das bases (art. 1.º do DL 44-D/2010 e art. 1.º do DL 111/2015), os aditamentos de bases (XVIII-A, XIX-A, LI-A, LXV-A, LXXXVII-A pelo DL 44-D/2010; XXXIV-A, LIV-A, LVII-A a LVII-BB, LXV-B a LXV-E, LXXXVI-A, LXXXVII-B pelo DL 111/2015) e as revogações do art. 5.º do DL 111/2015 (alvos inexistentes no texto atual). As epígrafes dos capítulos XVII e XXI (art. 3.º do DL 44-D/2010) não se aplicam porque esses capítulos não estão no texto atual; o aditamento do capítulo X-A (com secções e subsecções) e do capítulo XXII-A (art. 3.º, n.os 2 e 3, do DL 111/2015) também não, por não haver no texto atual títulos nem bases onde os inserir. Várias bases trazem fórmulas e quadros só em imagem.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação de dezenas de bases do anexo — não aplicável (bases ausentes do texto atual).",
+    "Alterador 1, art. 2.º: aditamento das bases XVIII-A, XIX-A, LI-A, LXV-A e LXXXVII-A — não aplicável (bases ausentes).",
+    "Alterador 1, art. 3.º: epígrafes dos capítulos VII (Funções do InIR), X (Manutenção, exploração e conservação da Auto-Estrada), XVII e XXI — VII e X aplicados mas depois substituídos pelo alterador 2; XVII e XXI não existem no texto atual.",
+    "Alterador 1, art. 6.º: republicação — sem efeito no texto.",
+    "Alterador 2, art. 1.º: nova redação de bases — não aplicável (bases ausentes).",
+    "Alterador 2, art. 2.º: aditamento de bases XXXIV-A, LIV-A, LVII-A a LVII-BB, LXV-B a LXV-E, LXXXVI-A, LXXXVII-B — não aplicável.",
+    "Alterador 2, art. 3.º, n.º 1: capítulo VII passa a 'Funções do IMT' e capítulo X a 'Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios' — aplicado em titulos.",
+    "Alterador 2, art. 3.º, n.os 2 e 3: aditamento dos capítulos X-A (com secções I a X e subsecções) e XXII-A — não aplicado (não se inventam títulos).",
+    "Alterador 2, art. 5.º: revogação de alíneas e números das bases I, XXXIV, XLV, XLVIII, L, LIV e LXV-A — não aplicável (bases ausentes).",
+    "Alterador 2, art. 6.º: republicação — sem efeito no texto."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2
+      ],
+      "chars": 257763,
+      "artigos": 0
+    }
+  ],
+  "problemas": []
+}

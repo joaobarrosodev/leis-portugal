@@ -583,3 +583,33 @@ Os que não chegam:
 **Mudou no código:** uma passagem posterior que reescreve ou revoga um artigo apaga os problemas letra a letra das passagens anteriores sobre esse artigo. Só conta o texto que fica.
 
 **Os dois blocos juntos:** 13 de 50 sem reparos às cegas (26%). O `acervo.py --dry-run` dá **22 aplicáveis**: 8 do bloco 1, 5 do bloco 2 e 9 juntados anteriores corrigidos pelas fórmulas finais. Os 25 do bloco 3 estão por pedir. As 18 leis de orçamento continuam de fora.
+
+### Bloco 3 dos 93 grandes (rondas 44 e 61)
+
+Os 25 menos citados dos não orçamentais. Foram feitos a pedido, já no formato novo e com o mesmo processo do bloco 2. A ronda 44 vai ser renumerada para 60 no `main`, e as seguintes começam no 61.
+
+| Bloco 3 | Diplomas |
+| --- | --: |
+| Pedidos | 25 |
+| Não pedidos (o pedido passa dos ~420 mil caracteres) | 3 |
+| Respondidos | 22 |
+| Sem artigos a mudar | 4 |
+| Juntados e verificados | 18 |
+| Sem reparos às cegas | **8** |
+
+Rendimento: **8 em 25 (32%) sobre o bloco**, 8 em 18 (44%) sobre os verificados. Os 8 são o Despacho n.º 10393/2010, o DL 323/98, o Decreto n.º 492/73, a Portaria n.º 1238/2008, o DL 251-A/91, o DL 39/2004, o DRR n.º 37/2000/A e o DRR n.º 15-A/97/M.
+
+- **Não pedidos (3):** o DL 55-A/2000 (o alterador sozinho tem 452 mil caracteres), o DL 202/2000 (o texto atual tem 487 mil) e o DLR n.º 5/2006/A (734 mil). Precisam de partir o texto atual, não só os alteradores.
+- **Sem artigos a mudar (4):** os DL 206/90, 365/98 e 242/2006, e o DRR n.º 20/97/M. Os alteradores mudam outros diplomas ou só os anexos.
+- **Com reparos às cegas (10):**
+  - *Bases do anexo em falta no original:* o DL 87-A/2000, o 323-G/2000 e o 142-A/2001, como os do bloco 2. São concessões de autoestradas cujo original no acervo só tem os artigos do decreto e os títulos dos capítulos.
+  - *Anexos só em imagem ou fora do texto:* as Portarias n.os 1137-B/2008 e 1462/2007, e os DL 195/2000 e 114/2002.
+  - *Troca genérica de designações:* «Direcção-Geral de Viação» passa a «Instituto da Mobilidade e dos Transportes, I.P.» em todo o diploma, nos DL 114/2002 e 291/2000. Para o verificador é uma instrução. Feita palavra a palavra, falha a verificação letra a letra e dá erros de concordância ("a Instituto"). O formato não tem forma segura de a aplicar.
+  - *Outros:* o DL 47611 tem a tabela de emolumentos omitida em vez de "(Revogado.)", e o DL 204/97 um artigo com texto de uma alteração intermédia.
+
+**Os três blocos juntos:** **21 de 75 sem reparos às cegas (28%)**, 21 de 61 (34%) sobre os verificados. O `acervo.py --dry-run` dá **30 aplicáveis**: 21 dos 93 grandes e 9 juntados anteriores corrigidos pelas fórmulas finais. Ficam por fazer:
+
+- **As 18 leis de orçamento**, que não foram pedidas.
+- **Os 4 com pedido grande demais**, a fazer partindo o texto atual: os DL 63-A/2013, 55-A/2000 e 202/2000, e o DLR n.º 5/2006/A.
+- **O DL 38/2003**, com o original mal segmentado.
+- **As causas que dependem do acervo e não do LLM:** anexos em imagem, bases em falta e republicações cortadas pelos 60 mil caracteres.

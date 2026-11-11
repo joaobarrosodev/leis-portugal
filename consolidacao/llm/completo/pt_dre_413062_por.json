@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:413062:por",
+  "artigos": [
+    {
+      "chave": "142.º",
+      "epigrafe": "",
+      "texto": "1. Os lugares de directores de 2.ª classe podem também ser preenchidos por livre escolha do Secretário de Estado da Descolonização de entre indivíduos habilitados com curso superior e experiência adequados ao exercício do cargo.\n\n2. Consideram-se adequados os seguintes cursos superiores:\n\na) Licenciatura em Engenharia Electrotécnica, em relação aos lugares que permitam o exercício dos cargos de chefe de repartição regional, de chefe de repartição de serviços de telecomunicações dos serviços centrais de exploração e de chefe de qualquer das divisões dos serviços centrais técnicos de Angola e Moçambique e de adjunto do chefe de repartição provincial;\n\nb) Licenciatura em Economia e/ou Finanças, em relação aos lugares que permitam o exercício do cargo de chefe das repartições dos serviços financeiros de Angola e Moçambique.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação integral do artigo 142.º (n.os 1 e 2; o antigo n.º 3 desaparece por a redação nova não o incluir) - aplicado.",
+    "Alterador 1, art. 2.º: altera o n.º 10 do artigo 175.º do Decreto-Lei n.º 47743 (outro diploma) - ignorado.",
+    "Alterador 1, art. 3.º: entrada em vigor - sem efeito no texto."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1
+      ],
+      "chars": 189153,
+      "artigos": 1
+    }
+  ],
+  "problemas": []
+}

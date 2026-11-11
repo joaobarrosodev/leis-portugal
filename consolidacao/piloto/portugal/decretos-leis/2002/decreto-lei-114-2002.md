@@ -10,21 +10,9 @@ consolidacao:
   - id: pt:dre:638704:por
     title: Decreto-Lei n.º 227/2007
     publication_date: '2007-06-04'
-  - id: pt:dre:638704:por
-    title: Decreto-Lei n.º 227/2007
-    publication_date: '2007-06-04'
-  - id: pt:dre:670028:por
-    title: Decreto-Lei n.º 81/2011
-    publication_date: '2011-06-20'
   - id: pt:dre:260417:por
     title: Decreto-Lei n.º 53/2013
     publication_date: '2013-04-17'
-  - id: pt:dre:502980:por
-    title: Decreto-Lei n.º 148/2013
-    publication_date: '2013-10-24'
-  - id: pt:dre:25345582:por
-    title: Decreto-Lei n.º 97/2014
-    publication_date: '2014-06-26'
 ---
 
 # Decreto-Lei n.º 114/2002
@@ -71,9 +59,13 @@ O procedimento de concessão da homologação de um tipo ou de uma família de m
 
 ###### Artigo 2.º-B — Regime de flexibilidade
 
-Em derrogação ao disposto nos n.os 1 e 2 do artigo anterior, a pedido do fabricante de tractores e mediante autorização da Direcção-Geral de Viação, o fabricante de motores pode, no período entre duas fases de valores limite sucessivas, introduzir no mercado um número limitado de motores que respeitem apenas os valores limite de emissões estabelecidos na fase imediatamente anterior à fase que está em aplicação, ou tractores com esses motores, na condição de o fabricante respeitar o procedimento estabelecido no capítulo III do Regulamento ora aprovado.
+1 - Não obstante o disposto nos n.os 1 e 2 do artigo anterior, o Instituto da Mobilidade e dos Transportes, I.P. (IMT, I.P.), permite, a pedido do fabricante de tratores e na condição de a entidade homologadora de outro Estado-Membro ter emitido a licença relevante para colocação no mercado, nos termos dos procedimentos previsto no capítulo III, a entrada em serviço de um número limitado de motores equipados com motores aprovados nos termos dos requisitos da fase de limites de emissão imediatamente anterior à fase aplicável.
+
+2 - O regime de flexibilidade tem início quando se torne aplicável uma determinada fase e tem a duração dessa fase, sem prejuízo do regime de flexibilidade previsto nos n.os 6 a 10 do artigo 20.º do presente regulamento ser limitado à duração da fase III-B ou a três anos, se não houver nenhuma fase posterior.
 
 > Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 227/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2007-638704), publicado em 2007-06-04.
+
+> Alterado pelo/a [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417), publicado em 2013-04-17.
 
 ###### Artigo 3.º — Alteração do Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas
 
@@ -171,7 +163,11 @@ o) Após 31 de Dezembro de 2014, em relação aos motores da categoria R.
 
 8 - Para os tipos ou famílias de motores que, já antes das datas previstas no n.º 3, respeitem os valores limite previstos no Decreto-Lei n.º 432/99, de 25 de Outubro, a Direcção-Geral de Viação autoriza um rótulo ou uma marcação especial que evidencie que o equipamento em questão respeita os valores limite requeridos antes da data prevista.
 
+9 - No que respeita aos tratores das categorias T2, T4.1 e C2, na aceção do anexo II do Regulamento da Homologação de Tratores Agrícolas ou Florestais, Seus Reboques e Máquinas Intermutáveis Rebocadas, e dos Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 74/2005, de 24 de março, e alterado pelos Decretos-Leis n.os 89/2006, de 24 de maio, e 227/2007, de 4 de junho, e equipados com motores das categorias L a R, os prazos estabelecidos nas alíneas d) e e) do n.º 2 e no n.ºº 3 são adiados por três anos, continuando a ser aplicados os requisitos da fase III-A previstos no presente decreto-lei.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 227/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2007-638704), publicado em 2007-06-04.
+
+> Alterado pelo/a [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417), publicado em 2013-04-17.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - Diogo Campos Barradas de Lacerda Machado - Luís Garcia Braga da Cruz.
 
@@ -219,7 +215,19 @@ g) «Família de motores» dois ou vários tipos de motores que têm concepçõe
 
 h) 'Motor de substituição' um motor recentemente fabricado que substitui o motor de uma máquina e que é fornecido apenas para esse fim.
 
+i) «Regime de flexibilidade» o procedimento de isenção através do qual é autorizada a colocação no mercado e a entrada em serviço de um número limitado de tratores nos termos dos requisitos fixados no artigo 2.º-B;
+
+j) «Categoria de motores» a classificação de motores que combina a gama de potências com a fase de limitação das emissões de escape;
+
+l) «Disponibilização no mercado» qualquer oferta de um trator ou motor para distribuição ou utilização no mercado da União no âmbito de uma atividade comercial, a título oneroso ou gratuito;
+
+m) «Colocação no mercado» a primeira disponibilização no mercado de um trator ou motor;
+
+n) «Entrada em serviço» primeira utilização na União de um trator ou motor, para o fim a que se destina, sendo a data de entrada em serviço, considerada como tendo lugar aquando do seu registo, se for caso disso, ou da sua colocação no mercado.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 227/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2007-638704), publicado em 2007-06-04.
+
+> Alterado pelo/a [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417), publicado em 2013-04-17.
 
 #### SECÇÃO II — Do pedido de homologação CE para um tipo ou família de motores enquanto unidade técnica distinta
 
@@ -343,7 +351,7 @@ Sem prejuízo das disposições constantes no Regulamento da Homologação dos T
 
 (Revogado.)
 
-> Aditado pelo/a [Decreto-Lei n.º 227/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2007-638704) e [Decreto-Lei n.º 81/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2011-670028) e [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417) e [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980) e [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
+> Aditado pelo/a [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417), publicado em 2013-04-17.
 
 ###### Artigo 21.º — Ações a empreender pelos fabricantes dos tratores
 
@@ -379,7 +387,7 @@ b) Uma amostra da etiqueta adicional que é aposta ao motor e que ostente o text
 
 14 - O procedimento a que se refere o número anterior deve ser mantido, sem exceções, enquanto um regime de flexibilidade estiver em curso.
 
-> Aditado pelo/a [Decreto-Lei n.º 227/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2007-638704) e [Decreto-Lei n.º 81/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2011-670028) e [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417) e [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980) e [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
+> Aditado pelo/a [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417), publicado em 2013-04-17.
 
 ###### Artigo 22.º — Acções a empreender pelo fabricante do motor
 
@@ -387,13 +395,13 @@ b) Uma amostra da etiqueta adicional que é aposta ao motor e que ostente o text
 
 2 - O fabricante dos motores deve apor nesses motores uma etiqueta com o texto «Motor introduzido no mercado ao abrigo do regime de flexibilidade», nos termos dos requisitos estabelecidos no artigo 6.º
 
-> Aditado pelo/a [Decreto-Lei n.º 227/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2007-638704) e [Decreto-Lei n.º 81/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2011-670028) e [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417) e [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980) e [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
+> Aditado pelo/a [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417), publicado em 2013-04-17.
 
 ###### Artigo 23.º — Ações a empreender pelo Instituto da Mobilidade e dos Transportes, I.P.
 
 O IMT, I.P., deve avaliar o conteúdo do pedido de regime de flexibilidade e dos documentos apensos, após o que informa o fabricante dos tratores da sua decisão de autorizar ou não o regime de flexibilidade solicitado.
 
-> Aditado pelo/a [Decreto-Lei n.º 227/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2007-638704) e [Decreto-Lei n.º 81/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2011-670028) e [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417) e [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980) e [Decreto-Lei n.º 97/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582), publicado em 2014-06-26.
+> Aditado pelo/a [Decreto-Lei n.º 53/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2013-260417), publicado em 2013-04-17.
 
 ## ANEXO 1.º — (referente ao artigo 9.º)
 

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "142.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 142.º\n\n1. Os lugares de director de 2.ª classe podem também ser preenchidos, em primeiro provimento, por livre escolha do Ministro do Ultramar de entre indivíduos habilitados com o curso superior e que hajam prestado serviços nos C. T. T. U., em qualquer situação ou regime, durante o mínimo de cinco anos, com boas informações.\n\n2. Atentas as vagas existentes, serão de exigir os seguintes cursos superiores:\n\na) Licenciatura em Engenharia Electrotécnica, em relação aos lugares que permitam o exercício dos cargos de chefe de repartição regional, de chefe de repartição dos serviços de telecomunicações dos serviços centrais de exploração e de chefe de qualquer das divisões dos serviços centrais técnicos de Angola e Moçambique e de adjunto do chefe de repartição provincial;\n\nb) Licenciatura em Economia e (ou) Finanças, em relação aos lugares que permitam o exercício do cargo de chefe das repartições dos serviços financeiros de Angola e de Moçambique.\n\n3. Aos provimentos a efectuar ao abrigo do disposto neste artigo é aplicável o estabelecido no artigo 141.º, n.º 3.",
+    "depois": "###### Artigo 142.º\n\n1. Os lugares de directores de 2.ª classe podem também ser preenchidos por livre escolha do Secretário de Estado da Descolonização de entre indivíduos habilitados com curso superior e experiência adequados ao exercício do cargo.\n\n2. Consideram-se adequados os seguintes cursos superiores:\n\na) Licenciatura em Engenharia Electrotécnica, em relação aos lugares que permitam o exercício dos cargos de chefe de repartição regional, de chefe de repartição de serviços de telecomunicações dos serviços centrais de exploração e de chefe de qualquer das divisões dos serviços centrais técnicos de Angola e Moçambique e de adjunto do chefe de repartição provincial;\n\nb) Licenciatura em Economia e/ou Finanças, em relação aos lugares que permitam o exercício do cargo de chefe das repartições dos serviços financeiros de Angola e Moçambique.\n\n> Alterado pelo/a [Decreto-Lei n.º 506-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-a-1975-341420), publicado em 1975-09-18.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:413062:por",
+    "alterador": "pt:dre:341420:por"
+  }
+]

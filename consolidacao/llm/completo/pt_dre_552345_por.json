@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:552345:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Todas as instruções dos dois alteradores (DL 44-F/2010 e DL 112/2015) são dirigidas às bases do anexo (bases I a XCVIII, aditamentos das bases XVII-A, LXII-A, LXVI-A, LXVI-B, XXXVI-A, LIII-A, LXII-B a LXII-D, LXVI-C, LXXXVII-A e XCVI-A, revogações do art. 5.º do DL 112/2015) e às epígrafes dos capítulos VIII, XIII, XV, XIX, XXIV e aditamento dos capítulos XV-A, XV-B e XXV-A; o texto atual só tem os artigos 1.º a 5.º do decreto-lei e os títulos 'ANEXO I' e 'CAPÍTULO I', sem o texto das bases nem esses capítulos, pelo que nada se pode aplicar com segurança (as redações parciais com '...'/'[...]' dependem do texto das bases, ausente; vários números só vêm em imagem). Nenhuma instrução altera os artigos 1.º a 5.º.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: altera 74 bases do anexo — bases ausentes do texto atual; não aplicado.",
+    "Alterador 1, art. 2.º: adita as bases XVII-A, LXII-A, LXVI-A e LXVI-B ao anexo — anexo sem bases no texto atual (e fórmulas em imagem); não aplicado.",
+    "Alterador 1, art. 3.º: novas epígrafes dos capítulos VIII, XIII, XV, XIX e XXIV e aditamento dos capítulos XV-A e XV-B — títulos ausentes do texto atual; não aplicado.",
+    "Alterador 1, art. 6.º: republicação — sem efeito textual.",
+    "Alterador 2, art. 1.º: altera várias bases do anexo — bases ausentes; não aplicado.",
+    "Alterador 2, art. 2.º: adita as bases XXXVI-A, LIII-A, LXII-B a LXII-D, LXVI-C, LXXXVII-A e XCVI-A — anexo sem bases no texto atual; não aplicado.",
+    "Alterador 2, art. 3.º: epígrafes dos capítulos VIII e XV e aditamento do capítulo XXV-A — títulos ausentes; não aplicado.",
+    "Alterador 2, art. 5.º: revoga números/alíneas das bases XXXVI, XLVII, XLIX, L, LIII, LXII-A e a base XCII — bases ausentes; não aplicado.",
+    "Alterador 2, art. 6.º: republicação (MOPTC lê-se ME) — sem efeito textual nos artigos 1.º a 5.º."
+  ],
+  "modelo": "claude-fable-5-1",
+  "pedido": "completo",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2
+      ],
+      "chars": 231244,
+      "artigos": 0
+    }
+  ],
+  "problemas": []
+}
