@@ -38,10 +38,63 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-06-08'
+version_history:
+  file: resolucao-conselho-ministros-81-a-2026.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2026-05-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-06-08'
+    amending: pt:dre:1130121312:por
+    amending_title: Declaração de Retificação n.º 18/2026/1
+    changes:
+    - Altera Artigo unidades 152-152
+    - Altera Artigo unidades 157-157
+    - Altera Artigo unidades 172-172
+    - Altera Artigo unidades 296-296
+    - Altera Artigo unidades 397-397
+    - Altera Artigo unidades 522-522
+    - Altera Artigo unidades 527-527
+    - Altera Artigo unidades 529-529
+    - Altera Artigo unidades 543-543
+    - Altera Artigo unidades 638-638
+    - Altera Artigo unidades 648-648
+    - Altera Artigo unidades 660-660
+    - Altera Artigo unidades 766-766
+    - Altera Artigo unidades 771-771
+    - Altera Artigo unidades 773-773
+    - Altera Artigo unidades 784-784
+    - Altera Artigo unidades 899-899
+    - Altera Artigo unidades 904-904
+    - Altera Artigo unidades 907-907
+    - Altera Artigo unidades 918-918
+    - Altera Artigo unidades 1033-1033
+    - Altera Artigo unidades 1038-1038
+    - Altera Artigo unidades 1040-1040
+    - Altera Artigo unidades 1051-1051
+    - Altera Artigo unidades 1284-1284
+    - Altera Artigo unidades 1290-1290
+    - Altera Artigo unidades 1306-1306
+    - Altera Artigo unidades 1396-1396
+    - Altera Artigo unidades 1401-1401
+    - Altera Artigo unidades 1403-1403
+    - Altera Artigo unidades 1414-1414
+    - Altera Artigo unidades 1494-1494
+    - Altera Artigo unidades 1499-1499
+    - Altera Artigo unidades 1501-1501
+    - Altera Artigo unidades 1513-1513
+    - Altera Artigo unidades 1602-1602
+    - Altera Artigo unidades 1607-1607
+    - Altera Artigo unidades 1609-1609
+    - Altera Artigo unidades 1621-1621
+    - Altera Artigo unidades 1721-1721
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/81-a/2026/05/15/p/dre/pt/html
@@ -67,7 +120,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T18:41:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Retificação n.º 18/2026/1.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2026/resolucao-conselho-ministros-81-a-2026.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -509,7 +563,9 @@ A plantação de vegetação ripícola corresponde a cerca de 320 ha tem como ob
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-A rede primária de FGC corresponde à versão que integra os Programas Sub-Regionais de Ação de Gestão Integrada de Fogos Rurais (PSA) para a sub-região da Beira Baixa e para a sub-região das Beiras e Serra da Estrela. Abrange cerca de 2380 ha. Desta área, cerca de 32 % está ocupada por florestas de pinheiro bravo, cerca de 25 % é revestida por matos e cerca de 11 % por florestas de outros carvalhos. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+A rede primária de FGC corresponde à versão que integra os Programas Sub-Regionais de Ação de Gestão Integrada de Fogos Rurais (PSA) para a sub-região da Beira Baixa e para a sub-região das Beiras e Serra da Estrela. Abrange cerca de 2380 ha. Desta área, cerca de 32 % está ocupada por florestas de pinheiro bravo, cerca de 25 % é revestida por matos e cerca de 11 % por florestas de outros carvalhos. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas e proteção a infraestruturas.
 
@@ -519,7 +575,9 @@ Na área do PRGPSM existem cerca de 69 áreas edificadas com enquadramento no es
 
 iii) Mosaicos estratégicos de gestão de combustível.
 
-Constituem áreas de Mosaicos estratégicos de gestão de combustível definidas pelo PSA, as áreas envolventes da rede primária ou mosaicos de gestão de combustível, onde se deverá promover o regime silvopastoril, os fogos de gestão, e outras áreas estratégicas lineares, integradas na macroestrutura da paisagem. As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 5.200 ha, e são atualmente ocupadas maioritariamente por matos (42 %), vegetação esparsa (13 %) e florestas de outros carvalhos (8 %). A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+Constituem áreas de Mosaicos estratégicos de gestão de combustível definidas pelo PSA, as áreas envolventes da rede primária ou mosaicos de gestão de combustível, onde se deverá promover o regime silvopastoril, os fogos de gestão, e outras áreas estratégicas lineares, integradas na macroestrutura da paisagem. As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 5.200 ha, e são atualmente ocupadas maioritariamente por matos (42 %), vegetação esparsa (13 %) e florestas de outros carvalhos (8 %). A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.2 - Áreas prioritárias nos Macrossistemas da Paisagem.
 
@@ -550,7 +608,9 @@ iv) Intervenções na Rede Primária de Faixas de Gestão de Combustíveis, atra
 
 v) Intervenções na interface de áreas edificadas, através de ações de gestão de combustíveis ou alteração do uso do solo, preferencialmente para agricultura. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”;
 
-vi) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril;
+vi) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro;
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 vii) Intervenções na criação de mosaicos agroflorestais com fomento da silvopastorícia, para promoção do habitat do lince ibérico e do corço.
 
@@ -804,7 +864,9 @@ iii) Intervenções na Rede primária de faixas de gestão de combustíveis, atr
 
 iv) Intervenções na interface de áreas edificadas através de ações para a reconversão do uso do solo. Esta ação prioritária corresponde a ações que estão programadas no PNA-SGIFR e à medida programática do PTP “Condomínios de Aldeia” através da implementação de usos agrícolas, florestais, silvopastoril, pastagens, para criação de orlas;
 
-v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica) em cerca de abrangendo 3.834 ha, em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica) em cerca de abrangendo 3.834 ha, em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da Paisagem.
 
@@ -1010,7 +1072,9 @@ A área de transformação nas linhas de água corresponde a cerca de 310ha, em 
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-A Rede Primária de Faixas de Gestão de Combustível, onde a área de transformação abrange cerca de 661 ha, da qual cerca de 22 % está ocupada por pinheiro-bravo, cerca de 56 % é revestida por matos e cerca de 6 % por pomares. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+A Rede Primária de Faixas de Gestão de Combustível, onde a área de transformação abrange cerca de 661 ha, da qual cerca de 22 % está ocupada por pinheiro-bravo, cerca de 56 % é revestida por matos e cerca de 6 % por pomares. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas.
 
@@ -1266,7 +1330,9 @@ Nas áreas que coincidem com fundos de vale, numa extensão que totaliza cerca d
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-A Rede Primária de Faixas de Gestão de Combustível engloba uma área que pode ser alvo de intervenções de transformação em cerca de 2.506 ha. Desta área, cerca de 24 % está ocupada por eucalipto, cerca de 35 % é revestida por matos e cerca de 32 % por pinheiro-bravo. A transformação nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+A Rede Primária de Faixas de Gestão de Combustível engloba uma área que pode ser alvo de intervenções de transformação em cerca de 2.506 ha. Desta área, cerca de 24 % está ocupada por eucalipto, cerca de 35 % é revestida por matos e cerca de 32 % por pinheiro-bravo. A transformação nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária- Interface áreas edificadas e proteção de infraestruturas.
 
@@ -1276,11 +1342,15 @@ Pretende-se garantir o fecho da área tampão dos aglomerados contra a propagaç
 
 Na área do PRGPSLA existem cerca de 187 áreas edificadas com enquadramento no estabelecido na alínea b) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 82/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163) de 13 de outubro, na sua redação atual. Algumas destas áreas, pela sua proximidade, podem ser agrupadas e ser alvo de uma única faixa envolvente contínua, garantindo coerência e consistência à intervenção. A área total da faixa envolvente destas áreas edificadas, com largura padrão de 100 m, perfaz cerca de 2 395 hectares.
 
-A Rede Secundária de Faixas de Gestão de Combustível integra as faixas de proteção à rede viária (cerca de 1.012 ha), e as faixas de proteção à rede elétrica (cerca de 520 ha), as quais deverão ser reconvertidas nos termos do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+A Rede Secundária de Faixas de Gestão de Combustível integra as faixas de proteção à rede viária (cerca de 1.012 ha), e as faixas de proteção à rede elétrica (cerca de 520 ha), as quais deverão ser reconvertidas nos termos do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 iii) Áreas Estratégicas de Mosaicos de Gestão de Combustível.
 
-As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 4.507 ha, e são atualmente ocupadas maioritariamente por matos (46 %), florestas de pinheiro-bravo (35 %) e florestas de eucalipto (8 %). Prevê-se a reconversão de usos em cerca de 47 % da área, sendo 33 % para sistemas florestais de proteção (dos quais 20 % serão a reconverter progressivamente), 5 % para mosaicos agro silvo pastoris, 4 % para pastagens, 4 % para galerias ripícolas e 1 % para sistemas agrícolas. Nestas áreas mantêm-se 22 % como floresta de produção (pinheiro-bravo e outras resinosas), que terá que ser gerida, 26 % de matos e 5 % de florestas de conservação. A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 4.507 ha, e são atualmente ocupadas maioritariamente por matos (46 %), florestas de pinheiro-bravo (35 %) e florestas de eucalipto (8 %). Prevê-se a reconversão de usos em cerca de 47 % da área, sendo 33 % para sistemas florestais de proteção (dos quais 20 % serão a reconverter progressivamente), 5 % para mosaicos agro silvo pastoris, 4 % para pastagens, 4 % para galerias ripícolas e 1 % para sistemas agrícolas. Nestas áreas mantêm-se 22 % como floresta de produção (pinheiro-bravo e outras resinosas), que terá que ser gerida, 26 % de matos e 5 % de florestas de conservação. A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.2 - Áreas prioritárias nos Macrossistemas da Paisagem.
 
@@ -1309,7 +1379,9 @@ iii) Intervenções na Rede Primária de Faixas de Gestão de Combustíveis, atr
 
 iv) Intervenções na interface de áreas edificadas, através de ações de gestão de combustíveis ou alteração do uso do solo, preferencialmente para agricultura. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”;
 
-v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da Paisagem.
 
@@ -1503,7 +1575,9 @@ A área de transformação nas linhas de água corresponde a cerca de 341 ha, em
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-Na Rede Primária de Faixas de Gestão de Combustível, a área de transformação abrange cerca de 2.034 ha. Desta área, 48,85 % está com ocupação de matos, cerca de 26,06 % é revestida por pinheiro bravo, cerca de 11,07 % está ocupada por eucalipto, 5,43 % por áreas de espécies invasoras, 3,91 % com florestas de outras folhosas, cerca de 2,89 % ocupação com florestas de outros carvalhos e cerca de 1,79 % por floresta de outras resinosas. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+Na Rede Primária de Faixas de Gestão de Combustível, a área de transformação abrange cerca de 2.034 ha. Desta área, 48,85 % está com ocupação de matos, cerca de 26,06 % é revestida por pinheiro bravo, cerca de 11,07 % está ocupada por eucalipto, 5,43 % por áreas de espécies invasoras, 3,91 % com florestas de outras folhosas, cerca de 2,89 % ocupação com florestas de outros carvalhos e cerca de 1,79 % por floresta de outras resinosas. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas.
 
@@ -1523,7 +1597,9 @@ A rede de faixas de proteção a infraestruturas abrange ainda a envolvente dos 
 
 v) Áreas Estratégicas de Mosaicos de Gestão de Combustível.
 
-As áreas estratégicas de mosaicos de gestão de combustível (AEMGC) identificadas em sede de elaboração do Programa Sub-Regional de Ação (PSA) do Alto Minho abrangem cerca de 513 ha, e são atualmente ocupadas maioritariamente por florestas de eucalipto e áreas de espécies invasoras lenhosas. Prevê-se a reconversão de usos para Sistemas agroflorestais de folhosas, em que a transformação deverá ter em consideração o disposto no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+As áreas estratégicas de mosaicos de gestão de combustível (AEMGC) identificadas em sede de elaboração do Programa Sub-Regional de Ação (PSA) do Alto Minho abrangem cerca de 513 ha, e são atualmente ocupadas maioritariamente por florestas de eucalipto e áreas de espécies invasoras lenhosas. Prevê-se a reconversão de usos para Sistemas agroflorestais de folhosas, em que a transformação deverá ter em consideração o disposto no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 Outras áreas de gestão de combustíveis correspondem à gestão de matos em cerca de 486 ha e gestão de florestas de produção em cerca de 20 ha, bem como a instalação e manutenção de outras estruturas de resiliência aos fogos rurais em cerca de 63 ha, nos pontos de abertura de incêndio, dos quais cerca de 26 ha são de valorização e cerca de 38 ha são de reconversão.
 
@@ -1548,7 +1624,9 @@ iii) Intervenções na Rede Primária de Faixas de Gestão de Combustíveis, em 
 
 iv) Intervenções na interface de áreas edificadas, em ações de gestão de combustíveis ou alteração do uso do solo de florestas de eucalipto, pinheiro-bravo, outras resinosas e matos, a reconverter em SAF de carvalhos, redução de densidades e incorporação de pastagens, dando origem a superfícies agroflorestais. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”;
 
-v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da Paisagem.
 
@@ -1765,7 +1843,9 @@ A área de transformação nas linhas de água corresponde a cerca de 162 ha, se
 
 i) Faixas de Gestão de Combustível Rede Primária.
 
-Na Rede Primária de Faixas de Gestão de Combustível, a área de transformação abrange cerca de 423 ha. Desta área, cerca de 2,7 % está ocupada por eucalipto, cerca de 22,5 % é revestida por matos e cerca de 46,3 % por pinheiro-bravo. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+Na Rede Primária de Faixas de Gestão de Combustível, a área de transformação abrange cerca de 423 ha. Desta área, cerca de 2,7 % está ocupada por eucalipto, cerca de 22,5 % é revestida por matos e cerca de 46,3 % por pinheiro-bravo. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas.
 
@@ -1775,11 +1855,15 @@ Na área do PRGPAM existem cerca de 271 áreas edificadas com enquadramento no e
 
 iii) Faixas de Gestão de Combustível - Rede Secundária - proteção a infraestruturas.
 
-As faixas de proteção à rede viária com cerca de 983 ha, e as faixas de proteção à rede elétrica com cerca de 938 ha, deverão ser reconvertidas nos termos do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+As faixas de proteção à rede viária com cerca de 983 ha, e as faixas de proteção à rede elétrica com cerca de 938 ha, deverão ser reconvertidas nos termos do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 iv) Áreas Estratégicas de Mosaicos de Gestão de Combustível.
 
-As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 2.494 ha, e são atualmente ocupadas maioritariamente por florestas de pinheiro-bravo (39,1 %) e florestas de eucalipto (27,9 %) e matos (15,5 %). Prevê-se a reconversão de usos para mosaicos agrossilvopastoris, pastagens, galerias ripícolas. A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 2.494 ha, e são atualmente ocupadas maioritariamente por florestas de pinheiro-bravo (39,1 %) e florestas de eucalipto (27,9 %) e matos (15,5 %). Prevê-se a reconversão de usos para mosaicos agrossilvopastoris, pastagens, galerias ripícolas. A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.2 - Áreas prioritárias nos Macrossistemas da Paisagem.
 
@@ -1802,7 +1886,9 @@ iii) Intervenções na Rede Primária de Faixas de Gestão de Combustíveis, atr
 
 iv) Intervenções na interface de áreas edificadas, em ações de gestão de combustíveis ou alteração do uso do solo, preferencialmente para agricultura. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”. Na área de intervenção do PRGPAM identificam-se 10 (dez) novos Condomínio de Aldeia (7 em Oliveira do Hospital, 2 em Arganil e 1 em Tábua), sendo que 5 integram a UGP “Alto Alva” e outras 2 “Vale do Mondego”;
 
-v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da Paisagem.
 
@@ -2038,7 +2124,9 @@ A área de transformação nas linhas de água e margens associadas corresponde 
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-Na Rede Primária de Faixas de Gestão de Combustível, a área de transformação abrange cerca de 1257,90ha. Desta área, cerca de 43 % está ocupada por eucalipto, cerca de 11 % é revestida por matos e cerca de 35 % por pinheiro-bravo. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+Na Rede Primária de Faixas de Gestão de Combustível, a área de transformação abrange cerca de 1257,90ha. Desta área, cerca de 43 % está ocupada por eucalipto, cerca de 11 % é revestida por matos e cerca de 35 % por pinheiro-bravo. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas.
 
@@ -2048,13 +2136,17 @@ Na área do PRGPMOBA existem cerca de 340 áreas edificadas com enquadramento no
 
 iii) Faixas de Gestão de Combustível - Rede Secundária - proteção a infraestruturas.
 
-As faixas de proteção à rede viária com cerca de 847ha, e as faixas de proteção à rede elétrica com cerca de 1.183ha, deverão ser reconvertidas nos termos do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+As faixas de proteção à rede viária com cerca de 847ha, e as faixas de proteção à rede elétrica com cerca de 1.183ha, deverão ser reconvertidas nos termos do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 iv) Áreas Estratégicas de Mosaicos de Gestão de Combustível.
 
 As áreas estratégicas de mosaicos de gestão de combustível abrangem cerca de 7.287ha, e são atualmente ocupadas maioritariamente por florestas de eucalipto (43 %) e por florestas de pinheiro-bravo (28 %) e por matos (4 %), a reconverter para 26 % para sistemas florestais de proteção, 44,6 % para florestas de conservação, 1,79 % para pastagens, 5,1 % para galerias ripícolas e 10,4 % para sistemas agrícolas.
 
-A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.2 - Áreas prioritárias nos Macrossistemas da Paisagem.
 
@@ -2077,7 +2169,9 @@ iii) Intervenções na Rede Primária de Faixas de Gestão de Combustíveis, em 
 
 iv) Intervenções na interface de áreas edificadas, em ações de gestão de combustíveis ou alteração do uso do solo, preferencialmente para agricultura ou pastagens. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”;
 
-v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da Paisagem.
 
@@ -2311,7 +2405,9 @@ A área de transformação nas linhas de água corresponde a cerca de 320ha, sem
 
 i) Faixas de Gestão de Combustível - Rede Primária:
 
-A Rede Primária de Faixas de Gestão de Combustível, onde a área de transformação abrange cerca de 1.716ha, da qual cerca de 17 % está ocupada por eucalipto, cerca de 28 % é revestida por matos e cerca de 44 % por pinheiro-bravo. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+A Rede Primária de Faixas de Gestão de Combustível, onde a área de transformação abrange cerca de 1.716ha, da qual cerca de 17 % está ocupada por eucalipto, cerca de 28 % é revestida por matos e cerca de 44 % por pinheiro-bravo. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas:
 
@@ -2321,11 +2417,15 @@ Na área do PRGPSGAM existem cerca de 74 áreas edificadas com enquadramento no 
 
 iii) Faixas de Gestão de Combustível - Rede Secundária - proteção a infraestruturas:
 
-A Rede Secundária das Faixas de Gestão de combustível - proteção a infraestruturas, integra as faixas de proteção à rede viária, cerca de 183ha, e as faixas de proteção à rede elétrica, cerca de 252ha, as quais deverão ser reconvertidas nos termos do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+A Rede Secundária das Faixas de Gestão de combustível - proteção a infraestruturas, integra as faixas de proteção à rede viária, cerca de 183ha, e as faixas de proteção à rede elétrica, cerca de 252ha, as quais deverão ser reconvertidas nos termos do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 iv) Áreas Estratégicas de Mosaicos de Gestão de Combustível:
 
-As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 2189ha, e são atualmente ocupadas maioritariamente por matos (96 %), florestas de espécies invasoras (3 %) e florestas de pinheiro bravo (1 %). A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 2189ha, e são atualmente ocupadas maioritariamente por matos (96 %), florestas de espécies invasoras (3 %) e florestas de pinheiro bravo (1 %). A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.2 - Áreas prioritárias nos Macrossistemas da Paisagem.
 
@@ -2348,7 +2448,9 @@ iii) Intervenções na Rede Primária de Faixas de Gestão de Combustíveis, em 
 
 iv) Intervenções na interface de áreas edificadas, em ações de gestão de combustíveis ou alteração do uso do solo, preferencialmente para sistemas agrícolas. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”;
 
-v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da Paisagem.
 
@@ -2822,7 +2924,9 @@ Foram excluídas desta contabilização as áreas que integram a área do PNSE e
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-A Rede Primária de Faixas de Gestão de Combustível, versão que será aprovada no âmbito da revisão do Programa Regional de Ação de Gestão Integrada de Fogos Rurais (PRA) do Centro, disponibilizada pelo ICNF, I. P. (DRCNF) em maio de 2025, abrange cerca de 2.133ha da área de transformação. Estas áreas são atualmente ocupadas maioritariamente por florestas de pinheiro bravo (38 %) e matos (35 %). Prevê-se a reconversão de usos em cerca de 50 % da área, sendo 71 % para matos geridos, 29 % para florestas de folhosas autóctones (sistemas florestais de conservação/proteção). A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+A Rede Primária de Faixas de Gestão de Combustível, versão que será aprovada no âmbito da revisão do Programa Regional de Ação de Gestão Integrada de Fogos Rurais (PRA) do Centro, disponibilizada pelo ICNF, I. P. (DRCNF) em maio de 2025, abrange cerca de 2.133ha da área de transformação. Estas áreas são atualmente ocupadas maioritariamente por florestas de pinheiro bravo (38 %) e matos (35 %). Prevê-se a reconversão de usos em cerca de 50 % da área, sendo 71 % para matos geridos, 29 % para florestas de folhosas autóctones (sistemas florestais de conservação/proteção). A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas e - proteção a infraestruturas.
 
@@ -2834,7 +2938,9 @@ As faixas de proteção a infraestruturas totalizam cerca de 1.247ha, consideran
 
 iii) Áreas Estratégicas de Mosaicos de Gestão de Combustível.
 
-As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 3.857ha, cuja transformação deverá ter em consideração o disposto no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 3.857ha, cuja transformação deverá ter em consideração o disposto no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 Foram consideradas as Outras Áreas Estratégicas de Gestão de Combustíveis (OAEGC) definidas no âmbito do PRGP SE, que incluem áreas de silvicultura preventiva, os mosaicos de gestão silvopastoril, áreas fundamentais de recuperação de galerias ripícolas e/ou instalação de carvalhais, bem como as áreas de gestão de matos (tipo I e II).
 
@@ -2868,7 +2974,9 @@ iii) Intervenções na Rede Primária de Faixas de Gestão de Combustíveis, em 
 
 iv) Intervenções na interface de áreas edificadas, em ações de gestão de combustíveis ou alteração do uso do solo, preferencialmente para agricultura. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem- “Condomínios de Aldeia”;
 
-v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da Paisagem.
 
@@ -3054,7 +3162,9 @@ Grande parte destas áreas é ocupada por matos, áreas rochosas ou de vegetaç�
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-A Rede Primária de Faixas de Gestão de Combustível, onde a área de transformação abrange cerca de 2.070ha. Desta área, cerca de 45,5 % é revestida por matos, cerca de 24,3 % está ocupada por eucalipto, e cerca de 22,5 % por pinheiro-bravo. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+A Rede Primária de Faixas de Gestão de Combustível, onde a área de transformação abrange cerca de 2.070ha. Desta área, cerca de 45,5 % é revestida por matos, cerca de 24,3 % está ocupada por eucalipto, e cerca de 22,5 % por pinheiro-bravo. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas.
 
@@ -3064,11 +3174,15 @@ Na área do PRGPSFABP existem cerca de 236 áreas edificadas com enquadramento n
 
 iii) Faixas de Gestão de Combustível - Rede Secundária - proteção a infraestruturas.
 
-As faixas de proteção à rede viária com cerca de 1.163ha, e as faixas de proteção à rede elétrica com cerca de 439ha, deverão ser reconvertidas nos termos do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+As faixas de proteção à rede viária com cerca de 1.163ha, e as faixas de proteção à rede elétrica com cerca de 439ha, deverão ser reconvertidas nos termos do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 iv) Áreas Estratégicas de Mosaicos de Gestão de Combustível.
 
-As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 1.946ha, e são atualmente ocupadas maioritariamente por matos (55,9 %), florestas de pinheiro bravo (23,7 %), vegetação esparsa (11,4 %) e florestas de eucalipto (8,6 %). Prevê-se a reconversão de usos em cerca de 7,1 % da área, sendo 1,8 % para sistemas florestais de proteção, 0,01 % para mosaicos agro silvo pastoris, 0,2 % para pastagens, 2,2 % para galerias ripícolas e 2 % para sistemas agrícolas. Nestas áreas mantém-se cerca de 25,7 % como floresta de produção (pinheiro-bravo e outras resinosas), com medidas de gestão, 47,4 % de matos e 0,9 % de florestas de conservação. A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 1.946ha, e são atualmente ocupadas maioritariamente por matos (55,9 %), florestas de pinheiro bravo (23,7 %), vegetação esparsa (11,4 %) e florestas de eucalipto (8,6 %). Prevê-se a reconversão de usos em cerca de 7,1 % da área, sendo 1,8 % para sistemas florestais de proteção, 0,01 % para mosaicos agro silvo pastoris, 0,2 % para pastagens, 2,2 % para galerias ripícolas e 2 % para sistemas agrícolas. Nestas áreas mantém-se cerca de 25,7 % como floresta de produção (pinheiro-bravo e outras resinosas), com medidas de gestão, 47,4 % de matos e 0,9 % de florestas de conservação. A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.2 - Áreas prioritárias nos Macrossistemas da Paisagem.
 
@@ -3091,7 +3205,9 @@ iii) Investimentos na Rede Primária de Faixas de Gestão de Combustíveis, em a
 
 iv) Investimentos na interface de áreas edificadas, em ações de gestão de combustíveis ou alteração do uso do solo, preferencialmente para agricultura. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”;
 
-v) Investimentos na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+v) Investimentos na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da Paisagem.
 
@@ -3258,7 +3374,9 @@ A área de transformação nas linhas de água corresponde a cerca de 200ha, sem
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 1.740ha. Desta área, cerca de 44 % está ocupada por matos, cerca de 25 % é revestida por florestas de pinheiro-bravo e cerca de 18 % por espaços agrícolas. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 1.740ha. Desta área, cerca de 44 % está ocupada por matos, cerca de 25 % é revestida por florestas de pinheiro-bravo e cerca de 18 % por espaços agrícolas. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas.
 
@@ -3268,11 +3386,15 @@ Na área do PRGPSLLAP existem cerca de 108 áreas edificadas com enquadramento n
 
 iii) Faixas de Gestão de Combustível - Rede Secundária - proteção a infraestruturas.
 
-As faixas de proteção à rede viária, com cerca de 890ha, e as faixas de proteção à rede elétrica com cerca de 422 ha, deverão ser reconvertidas nos termos do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+As faixas de proteção à rede viária, com cerca de 890ha, e as faixas de proteção à rede elétrica com cerca de 422 ha, deverão ser reconvertidas nos termos do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 iv) Áreas Estratégicas de Mosaicos de Gestão de Combustível.
 
-As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 2.248ha, e são atualmente ocupadas maioritariamente por florestas de pinheiro-bravo (45 %), florestas de outros carvalhos (14 %) e matos (28 %). Prevê-se a reconversão sistemas florestais de conservação (14,5 %), para sistemas agroflorestais (7,8 %) para sistemas de produção (4,4 %) e 4,1 % para sistemas agrícolas. A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 2.248ha, e são atualmente ocupadas maioritariamente por florestas de pinheiro-bravo (45 %), florestas de outros carvalhos (14 %) e matos (28 %). Prevê-se a reconversão sistemas florestais de conservação (14,5 %), para sistemas agroflorestais (7,8 %) para sistemas de produção (4,4 %) e 4,1 % para sistemas agrícolas. A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.2 - Áreas prioritárias nos Macrossistemas da Paisagem.
 
@@ -3297,7 +3419,9 @@ iii) Intervenções na Rede Primária de Faixas de Gestão de Combustíveis, de 
 
 iv) Intervenções na interface de áreas edificadas, de gestão de combustíveis ou alteração do uso do solo, preferencialmente para agricultura. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”;
 
-v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da paisagem.
 
@@ -3481,7 +3605,9 @@ A área de transformação nas linhas de água corresponde a cerca de 515ha, sem
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 1.257ha. Desta área, cerca de 60 % está ocupada por matos, cerca de 17 % é revestida por pinheiro bravo e cerca de 10 % por florestas de outros carvalhos. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 1.257ha. Desta área, cerca de 60 % está ocupada por matos, cerca de 17 % é revestida por pinheiro bravo e cerca de 10 % por florestas de outros carvalhos. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas.
 
@@ -3491,11 +3617,15 @@ Na área do PRGPSCSLB existem cerca de 203 áreas edificadas com enquadramento n
 
 iii) Faixas de Gestão de Combustível - Rede Secundária - proteção a infraestruturas.
 
-As faixas de proteção à rede viária com cerca de 505ha, e as faixas de proteção à rede elétrica com cerca de 550ha, deverão ser reconvertidas nos termos do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+As faixas de proteção à rede viária com cerca de 505ha, e as faixas de proteção à rede elétrica com cerca de 550ha, deverão ser reconvertidas nos termos do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 iv) Áreas Estratégicas de Mosaicos de Gestão de Combustível.
 
-As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 2.926ha, e são atualmente ocupadas maioritariamente por florestas de castanheiro (53 %), florestas de pinheiro bravo (11,4 %) e matos (8 %). Prevê-se a reconversão para sistemas florestais de conservação (10 %), para sistemas de proteção (4 %) para sistemas agroflorestais (4 %) e 1 % para vegetação ripícola. A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+As áreas estratégicas de mosaicos de gestão de combustível, abrangem cerca de 2.926ha, e são atualmente ocupadas maioritariamente por florestas de castanheiro (53 %), florestas de pinheiro bravo (11,4 %) e matos (8 %). Prevê-se a reconversão para sistemas florestais de conservação (10 %), para sistemas de proteção (4 %) para sistemas agroflorestais (4 %) e 1 % para vegetação ripícola. A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.2 - Áreas prioritárias nos Macrossistemas da Paisagem.
 
@@ -3520,7 +3650,9 @@ iii) Intervenções na Rede Primária de Faixas de Gestão de Combustíveis, de 
 
 iv) Intervenções na interface de áreas edificadas, de gestão de combustíveis ou alteração do uso do solo, preferencialmente para agricultura. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”;
 
-v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da Paisagem.
 
@@ -3724,7 +3856,9 @@ A área de transformação nas linhas de água corresponde a cerca de 157ha, sem
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 829ha. Desta área, cerca de 35 % está ocupada por florestas de pinheiro bravo, cerca de 33 % é revestida por matos e cerca de 8 % por florestas de outros carvalhos. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 829ha. Desta área, cerca de 35 % está ocupada por florestas de pinheiro bravo, cerca de 33 % é revestida por matos e cerca de 8 % por florestas de outros carvalhos. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas.
 
@@ -3734,7 +3868,9 @@ Na área do PRGPTFT existem cerca de 116 áreas edificadas com enquadramento no 
 
 iii) Faixas de Gestão de Combustível - Rede Secundária - proteção a infraestruturas.
 
-As faixas de proteção à rede viária com cerca de 330ha, e as faixas de proteção à rede elétrica, com cerca de 175 ha, deverão ser reconvertidas nos termos do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+As faixas de proteção à rede viária com cerca de 330ha, e as faixas de proteção à rede elétrica, com cerca de 175 ha, deverão ser reconvertidas nos termos do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 iv) Outras Áreas Estratégicas de Gestão de Combustível.
 
@@ -3769,7 +3905,9 @@ iii) Intervenções na Rede Primária de Faixas de Gestão de Combustíveis, atr
 
 iv) Intervenções na interface de áreas edificadas, através de ações de gestão de combustíveis ou alteração do uso do solo, preferencialmente para agricultura. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”;
 
-v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril;
+v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro;
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 vi) Intervenções em Outras Áreas Estratégicas de Gestão de Combustíveis (OAEGC) definidas no âmbito do PRGPTFT, que incluem áreas de silvicultura preventiva do pinheiro bravo, os mosaicos de gestão silvopastoril, áreas fundamentais de recuperação de galerias ripícolas e/ou instalação de carvalhais, bem como as áreas de gestão de matos.
 
@@ -3961,7 +4099,9 @@ A área de transformação nas linhas de água corresponde a cerca de 119ha, sem
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 1219 ha. Desta área, cerca de 26 % está ocupada por Matos, cerca de 25 % está ocupada por Culturas temporárias de sequeiro e regadio e cerca de 21 % por Florestas de outros carvalhos. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 1219 ha. Desta área, cerca de 26 % está ocupada por Matos, cerca de 25 % está ocupada por Culturas temporárias de sequeiro e regadio e cerca de 21 % por Florestas de outros carvalhos. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas.
 
@@ -3971,11 +4111,15 @@ Na área do PRGPPBT existem cerca de 81 áreas edificadas com enquadramento no e
 
 iii) Faixas de Gestão de Combustível - Rede Secundária- proteção a infraestruturas.
 
-As faixas de proteção a infraestruturas em cerca de 981ha, deverão ser reconvertidas nos termos do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+As faixas de proteção a infraestruturas em cerca de 981ha, deverão ser reconvertidas nos termos do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 iv) Áreas Estratégicas de Mosaicos de Gestão de Combustível.
 
-As Áreas Estratégicas de Gestão de Combustíveis (OAEGC) definidas no âmbito do PRGP PBT, abrangem cerca de 6647ha, e incluem áreas de silvicultura preventiva de povoamentos de pinheiro bravo, os mosaicos de gestão silvopastoril, áreas fundamentais de recuperação de galerias ripícolas e/ou instalação de carvalhais, bem como as áreas de gestão de matos. A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+As Áreas Estratégicas de Gestão de Combustíveis (OAEGC) definidas no âmbito do PRGP PBT, abrangem cerca de 6647ha, e incluem áreas de silvicultura preventiva de povoamentos de pinheiro bravo, os mosaicos de gestão silvopastoril, áreas fundamentais de recuperação de galerias ripícolas e/ou instalação de carvalhais, bem como as áreas de gestão de matos. A transformação destas áreas deverá ter em consideração o disposto no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas áreas estratégicas de mosaicos de gestão de combustível.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.2 - Áreas prioritárias nos Macrossistemas da Paisagem.
 
@@ -4000,7 +4144,9 @@ iii) Investimentos na Rede Primária de Faixas de Gestão de Combustíveis, em a
 
 iv) Investimentos na interface de áreas edificadas, em ações de gestão de combustíveis ou alteração do uso do solo, preferencialmente para agricultura. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”;
 
-v) Investimentos na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+v) Investimentos na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da paisagem.
 
@@ -4188,7 +4334,9 @@ A área de transformação nas linhas de água corresponde a cerca de 1.146ha, 2
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 517,9 ha. Desta área, cerca de 69,6 % está ocupada por matos, cerca de 8,3 % é revestida por florestas de eucalipto e cerca de 6,2 % por florestas de outras folhosas. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 517,9 ha. Desta área, cerca de 69,6 % está ocupada por matos, cerca de 8,3 % é revestida por florestas de eucalipto e cerca de 6,2 % por florestas de outras folhosas. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas.
 
@@ -4198,7 +4346,9 @@ Na área do PRGPSPG existem cerca de 450 áreas edificadas com enquadramento no 
 
 iii) Faixas de Gestão de Combustível - Rede Secundária - proteção a infraestruturas.
 
-As faixas de proteção à rede viária com cerca de 1.031ha, e as faixas de proteção à rede elétrica com cerca de 429ha, deverão ser reconvertidas nos termos do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+As faixas de proteção à rede viária com cerca de 1.031ha, e as faixas de proteção à rede elétrica com cerca de 429ha, deverão ser reconvertidas nos termos do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 Desta área, cerca de 27,8 % está atualmente ocupada com matos, cerca de 22,0 % por florestas de eucalipto e cerca de 13,6 % por florestas de pinheiro-bravo.
 
@@ -4225,7 +4375,9 @@ iii) Intervenções na Rede Primária de Faixas de Gestão de Combustíveis, de 
 
 iv) Intervenções na interface de áreas edificadas, de gestão de combustíveis ou alteração do uso do solo, preferencialmente para agricultura. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”;
 
-v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da Paisagem.
 
@@ -4426,7 +4578,9 @@ A área de transformação nas linhas de água corresponde a cerca de 218ha, sem
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 1387ha. Desta área, cerca de 50 % está ocupada por pinheiro bravo, cerca de 35 % é revestida por matos e cerca de 3 % por outras folhosas. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 1387ha. Desta área, cerca de 50 % está ocupada por pinheiro bravo, cerca de 35 % é revestida por matos e cerca de 3 % por outras folhosas. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas.
 
@@ -4436,7 +4590,9 @@ Na área do PRGPSMAPV existem cerca de 224 áreas edificadas com enquadramento n
 
 iii) Faixas de Gestão de Combustível - Rede Secundária - proteção a infraestruturas.
 
-As faixas de proteção à rede viária, com cerca de 248ha, e as faixas de proteção à rede elétrica com cerca de 748ha, deverão ser reconvertidas nos termos do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+As faixas de proteção à rede viária, com cerca de 248ha, e as faixas de proteção à rede elétrica com cerca de 748ha, deverão ser reconvertidas nos termos do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.2 - Áreas prioritárias nos Macrossistemas da Paisagem.
 
@@ -4471,7 +4627,9 @@ iii) Intervenções na Rede Primária de Faixas de Gestão de Combustíveis, em 
 
 iv) Intervenções na interface de áreas edificadas, em ações de gestão de combustíveis ou alteração do uso do solo, preferencialmente para agricultura. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”;
 
-v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+v) Intervenções na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da Paisagem.
 
@@ -4681,7 +4839,9 @@ A área de transformação nas linhas de água corresponde a cerca de 146ha, sem
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 2506 ha. Desta área, cerca de 22,6 % está ocupada por floresta de eucalipto, cerca de 19 % é revestida por matos e cerca de 13,5 % por agricultura. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 2506 ha. Desta área, cerca de 22,6 % está ocupada por floresta de eucalipto, cerca de 19 % é revestida por matos e cerca de 13,5 % por agricultura. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas.
 
@@ -4691,7 +4851,9 @@ Na área do PRGPSSMTN existem cerca de 27 áreas edificadas com enquadramento no
 
 iii) Faixas de Gestão de Combustível - Rede Secundária - proteção a infraestruturas.
 
-As faixas de proteção de infraestruturas com cerca de 1497ha deverão ser reconvertidas nos termos do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+As faixas de proteção de infraestruturas com cerca de 1497ha deverão ser reconvertidas nos termos do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.2 - Áreas prioritárias nos Macrossistemas da Paisagem.
 
@@ -4716,7 +4878,9 @@ iv) Investimentos na Rede Primária de Faixas de Gestão de Combustíveis, em a�
 
 v) Investimentos na interface de áreas edificadas, em ações de gestão de combustíveis ou alteração do uso do solo, preferencialmente para agricultura. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”;
 
-vi) Investimentos na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+vi) Investimentos na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da Paisagem.
 
@@ -4932,7 +5096,9 @@ A área de transformação nas linhas de água corresponde a cerca de 157ha, sem
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 2.683ha. Desta área, cerca de 34,2 % está ocupada por florestas de eucalipto, cerca de 24,3 % é revestida por matos e cerca de 17,1 % por florestas de sobreiro. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+A Rede Primária de Faixas de Gestão de Combustível abrange cerca de 2.683ha. Desta área, cerca de 34,2 % está ocupada por florestas de eucalipto, cerca de 24,3 % é revestida por matos e cerca de 17,1 % por florestas de sobreiro. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 ii) Faixas de Gestão de Combustível - Rede Secundária - Interface áreas edificadas.
 
@@ -4942,7 +5108,9 @@ Na área do PRGPSMS existem cerca de 40 áreas edificadas com enquadramento no e
 
 iii) Faixas de Gestão de Combustível - Rede Secundária - proteção a infraestruturas.
 
-As faixas de proteção às infraestruturas com cerca de 870ha, deverão ser reconvertidas nos termos do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+As faixas de proteção às infraestruturas com cerca de 870ha, deverão ser reconvertidas nos termos do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede secundária.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.2 - Áreas prioritárias nos Macrossistemas da Paisagem.
 
@@ -4967,7 +5135,9 @@ iii) Investimentos na Rede Primária de Faixas de Gestão de Combustíveis, em a
 
 iv) Investimentos na interface de áreas edificadas, em ações de gestão de combustíveis ou alteração do uso do solo, preferencialmente para agricultura. Na implementação de ações na interface de áreas edificadas, deve ser atendida a existência de financiamentos no âmbito da Medida programática do Programa de Transformação da Paisagem “Condomínios de Aldeia”;
 
-v) Investimentos na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril.
+v) Investimentos na Rede Secundária de Faixas de Gestão de Combustível (Faixas de proteção à rede viária e à rede elétrica), em cumprimento do [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro.
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 4.3.2 - Ações prioritárias nos Macrossistemas da Paisagem.
 
@@ -5180,7 +5350,9 @@ Identificam-se como áreas exclusivas de Conservação/Proteção com cerca de 6
 
 i) Faixas de Gestão de Combustível - Rede Primária.
 
-A Rede Primária de Faixas de Gestão de Combustível, onde a área de transformação abrange cerca de 6.800ha. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 4223/2025](https://diariodarepublica.pt/dr/detalhe/despacho/4223-2025-913567157), de 3 de abril, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária:
+A Rede Primária de Faixas de Gestão de Combustível, onde a área de transformação abrange cerca de 6.800ha. A transformação a operar nestas áreas segue o estabelecido no [Despacho n.º 675/2026](https://diariodarepublica.pt/dr/detalhe/despacho/675-2026-1016754080), de 21 de janeiro, que aprova as normas técnicas relativas à gestão de combustível nas faixas da rede primária:
+
+> Alterado pelo/a [Declaração de Retificação n.º 18/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2026-1130121312), publicado em 2026-06-08.
 
 a) Áreas de proteção em torno dos aglomerados populacionais - estimou-se uma área de intervenção de aproximadamente 11.419ha.
 

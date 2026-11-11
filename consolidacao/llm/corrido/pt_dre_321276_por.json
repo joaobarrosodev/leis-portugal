@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:321276:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "passagem 1: Alterador 1 (Declaração de Rectificação n.º 7-AG/2000): as duas rectificações visam a tabela 4.8 do anexo (coluna «Legislação dos EUA (g)», «103» -> «(c) 103», e nota (c), «15 kg/mg» -> «0,15 kg/mg»), mas a tabela e as suas notas só existem em imagem no texto atual (unidade 1163, 'ver tabela no documento original'); «kg/mg» não aparece em nenhuma unidade.",
+  "instrucoes": [
+    "Alterador 1: rectifica na tabela 4.8 do anexo o valor «103» para «(c) 103» na coluna dos EUA e, na nota (c), «15 kg/mg» para «0,15 kg/mg»; não aplicado porque a tabela (unidade 1163) só vem em imagem e o texto da nota não existe no texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1
+      ],
+      "chars": 1564,
+      "texto_em_ficheiro": true
+    }
+  ],
+  "problemas": []
+}

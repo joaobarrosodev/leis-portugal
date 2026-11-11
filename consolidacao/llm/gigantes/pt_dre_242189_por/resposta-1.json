@@ -1,0 +1,67 @@
+{
+ "id": "pt:dre:242189:por",
+ "substituicoes": [
+  {
+   "de": 20,
+   "ate": 20,
+   "texto": "Art. 4.º - 1. Em localidades servidas por rede pública de distribuição de energia eléctrica, nos edifícios existentes à data da publicação deste decreto-lei e dotados de instalações eléctricas, as diversas instalações de utilização do edifício, incluindo as dos serviços comuns deste, e as correspondentes entradas e instalações colectivas que não obedeçam às disposições dos Regulamentos de Segurança anexos a este decreto-lei, bem assim como o respectivo ramal ou chegada, deverão ser modificadas em conformidade no prazo de quinze anos contado a partir de 1 de Janeiro de 1977.",
+   "alterador": 1
+  },
+  {
+   "de": 21,
+   "ate": 21,
+   "texto": "2. Os distribuidores de energia deverão organizar, até 30 de Setembro de 1976, um plano para efectuar um serviço de vistorias das instalações ligadas à sua rede de distribuição e de notificação aos proprietários dos edifícios e seus inquilinos por forma que, em cada ano, sejam remodelados 1/15 dessas instalações.\n\nEsse plano deverá ser aprovado pela fiscalização do Governo antes de ser posto em execução.",
+   "alterador": 1
+  },
+  {
+   "de": 25,
+   "ate": 32,
+   "texto": "Art. 5.º - 1. Em localidades servidas por rede pública de distribuição de energia eléctrica, nos edifícios destinados a habitação existentes em 1 de Janeiro de 1975 e não dotados de instalações eléctricas, deverão ser estabelecidas no prazo de noventa dias, após o pedido de qualquer inquilino, as diversas instalações de utilização do edifício, incluindo as dos serviços comuns deste, as correspondentes entradas e instalações colectivas, bem assim como o respectivo ramal ou chegada.\n\n2. Exceptuam-se do disposto no número anterior os edifícios situados a mais de 100 m da rede pública de distribuição de energia eléctrica existente e exteriores a uma circunferência com centro no posto de transformação que serve essa rede e de raio de 1 km.\n\n3. O disposto no n.º 1 não será aplicável a edifícios cujo rendimento colectável seja inferior a:\n\nEm concelhos rurais de 1.ª ordem ... 3000$00\n\nEm concelhos urbanos de 2.ª e 3.ª ordem e concelhos rurais de 1.ª ordem ... 2500$00\n\nEm concelhos rurais de 2.ª e 3.ª ordem ... 1500$00\n\n4. Os valores indicados no número anterior podem ser alterados por portaria do Ministro da Indústria e Tecnologia.\n\n5. Salvo o disposto no n.º 2, não poderão ser arrendados, de futuro, edifícios para habitação sem que estejam providos, nas condições legais, das instalações de utilização referidas no n.º 1.\n\n6. Em localidades não servidas por rede pública de distribuição de energia eléctrica à data da publicação deste decreto-lei será aplicável o disposto nos números anteriores logo que seja estabelecida a rede pública de distribuição de energia eléctrica nessas localidades.",
+   "alterador": 1
+  },
+  {
+   "de": 33,
+   "ate": 33,
+   "texto": "Art. 6.º - 1 - As instalações eléctricas dos edifícios novos não podem ser ligadas à rede pública de distribuição se estes não possuírem a respectiva licença municipal de construção.\n\n2 - É dispensada a licença referida no número anterior quando a ligação eléctrica à rede pública se revele necessária para se proceder aos embargos e demolições determinados por actos administrativos.",
+   "alterador": 3
+  },
+  {
+   "de": 41,
+   "ate": 41,
+   "texto": "3. (Revogado.)",
+   "alterador": 1
+  },
+  {
+   "de": 43,
+   "ate": 43,
+   "texto": "Art. 9.º - 1. Para os edifícios arrendados a que venha a ser aplicável o disposto no n.º 1 do artigo 5.º, pelos encargos assumidos pelo proprietário poderá este cobrar dos inquilinos uma importância não superior a 10% ao ano das despesas efectuadas, dividida em duodécimos.",
+   "alterador": 1
+  },
+  {
+   "de": 65,
+   "ate": 68,
+   "texto": "Art. 20.º - (Revogado.)",
+   "alterador": 4
+  },
+  {
+   "de": 2863,
+   "ate": 2863,
+   "texto": "Art. 5.º - (Revogado.)",
+   "alterador": 2
+  }
+ ],
+ "insercoes": [],
+ "nao_aplicavel": "Alterador 2 (Decreto Regulamentar n.º 90/84), artigo 3.º: os artigos 3.º e 4.º do Regulamento de Segurança de Instalações Colectivas de Edifícios e Entradas passam a ter a redacção dos n.os 25 e 24 do artigo 3.º do Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica em Baixa Tensão anexo ao DR 90/84, texto que não vem no pedido; unidades 2861 e 2862 ficam como estão.",
+ "instrucoes": [
+  "Alt. 1 (DL 303/76) art. 1.º: nova redacção do n.º 1 do art. 4.º (unidade 20) e do n.º 2 do art. 4.º (unidade 21, em dois parágrafos como no alterador).",
+  "Alt. 1 art. 1.º: nova redacção do art. 5.º inteiro (unidades 25-32 substituídas pelos n.os 1 a 6).",
+  "Alt. 1 art. 1.º: nova redacção do art. 6.º (unidade 33), depois substituída pela do alt. 3; aplicada só a redacção final do alt. 3.",
+  "Alt. 1 art. 1.º: nova redacção do n.º 1 do art. 9.º (unidade 43; mantido o prefixo 'Art. 9.º - ' do texto atual).",
+  "Alt. 1 art. 2.º: disposição própria sobre ramais, não altera o original; ignorada.",
+  "Alt. 1 art. 3.º: revogado o n.º 3 do art. 8.º (unidade 41).",
+  "Alt. 2 (DR 90/84) art. 3.º: arts. 3.º e 4.º do Regulamento de Instalações Colectivas com redacção de outro regulamento não incluída; não aplicado (ver nao_aplicavel).",
+  "Alt. 2 art. 5.º: revogado o art. 5.º do Regulamento de Instalações Colectivas (unidade 2863); a revogação do Decreto 46847 não é do original.",
+  "Alt. 3 (DL 77/90) artigo único: nova redacção do art. 6.º com n.os 1 e 2 (unidade 33).",
+  "Alt. 4 (Lei 30/2006) art. 37.º, al. i): revogado o art. 20.º do DL 740/74 (unidades 65-68); restantes artigos alteram outros diplomas, ignorados."
+ ]
+}

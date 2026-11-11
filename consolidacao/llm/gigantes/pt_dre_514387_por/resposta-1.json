@@ -1,0 +1,28 @@
+{
+ "id": "pt:dre:514387:por",
+ "substituicoes": [
+  {
+   "de": 228,
+   "ate": 229,
+   "texto": "Art. 67.º - (Revogado.)",
+   "alterador": 7
+  },
+  {
+   "de": 614,
+   "ate": 615,
+   "texto": "Art. 46.º Caução. - O distribuidor tem o direito de exigir, antes da assinatura do contrato, garantia bancária ou depósito em dinheiro de uma quantia equivalente ao valor do consumo de energia, durante um mês, correspondente à utilização de 100 horas da potência contratada.\n\n§ único. No fim do contrato, no caso de cessação de fornecimento, será o depósito restituído ao consumidor, com dedução das quantias eventualmente em dívida.",
+   "alterador": 3
+  }
+ ],
+ "insercoes": [],
+ "nao_aplicavel": "Alterador 1, art. 1.º: estende a doutrina do art. 124.º à rede primária, sem alteração textual. Alterador 5 (Acórdão 52/92): inconstitucionalidade parcial do art. 49.º das Condições Gerais (na parte em que o Secretário de Estado designa o terceiro árbitro), sem alteração textual. Alterador 6 (DL 182/95), art. 68.º, n.º 1: mantém em vigor transitoriamente disposições do diploma, sem alteração textual.",
+ "instrucoes": [
+  "Alt. 1, art. 6.º: nova redação do § único do art. 67.º (unidade 229); absorvida pela revogação do art. 67.º pelo alterador 7.",
+  "Alt. 2, art. 1.º: nova redação do art. 49.º das Condições Gerais de Venda em Alta Tensão; declarada inconstitucional com força obrigatória geral pelo alterador 4 (Acórdão 33/88), o que repristina a versão original, que é a do texto atual (unidades 620-622): fica sem mudança.",
+  "Alt. 3, artigo único: nova redação do art. 46.º das Condições Gerais (corpo e § único), unidades 614-615 substituídas pelo texto do alterador.",
+  "Alt. 4: declara inconstitucional o art. 1.º do DL 296/82; o art. 49.º mantém a redação original.",
+  "Alt. 5: inconstitucionalidade parcial do art. 49.º, não textual (nao_aplicavel).",
+  "Alt. 6: art. 68.º, n.º 1, regime transitório, não textual (nao_aplicavel).",
+  "Alt. 7, art. 13.º, alínea e): revoga o art. 67.º; unidades 228-229 passam a 'Art. 67.º - (Revogado.)'."
+ ]
+}

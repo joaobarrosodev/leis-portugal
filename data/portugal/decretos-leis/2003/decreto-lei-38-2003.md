@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-09-15'
+version_history:
+  file: decreto-lei-38-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-03-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-09-15'
+    amending: pt:dre:511825:por
+    amending_title: Decreto-Lei n.º 199/2003
+    changes:
+    - Adita Artigo depois da unidade 1609
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/38/2003/03/08/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:41:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 199/2003. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-38-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -3554,6 +3569,14 @@ Normas transitórias
 1 - As alterações ao Código de Processo Civil, ao Código do Registo Predial, ao Código dos Processos Especiais de Recuperação da Empresa e de Falência, ao Código de Processo do Trabalho, ao Código de Procedimento e de Processo Tributário e ao Decreto-Lei n.º 269/98, de 1 de Setembro, bem como ao artigo 548.º do Código Civil, só se aplicam nos ou relativamente aos processos instaurados a partir do dia 15 de Setembro de 2003.
 
 2 - Exceptuam-se do disposto no número anterior as normas dos artigos 806.º e 807.º do Código de Processo Civil, do artigo 186.º do Código dos Processos Especiais de Recuperação da Empresa e de Falência e do artigo 90.º do Código de Processo do Trabalho.
+
+3 - As normas dos artigos 47.º, n.º 5, 378.º, n.º 2, 380.º, n.os 2, 3 e 4, 380.º-A e 661.º, n.º 2, do Código de Processo Civil aplicam-se nos ou relativamente aos processos declarativos pendentes no dia 15 de Setembro de 2003 em que até essa data não tenha sido proferida sentença em 1.ª instância.
+
+4 - As normas dos artigos 301.º, n.º 2, 678.º, n.º 4, 692.º, 693.º, 740.º, n.º 4, 771.º, alíneas b), d), e) e f), 772.º, n.º 2, alínea a), 773.º, 775.º e 777.º do Código de Processo Civil, bem como a norma revogatória do artigo 4.º, com referência ao artigo 792.º do Código de Processo Civil, aplicam-se aos recursos interpostos, depois de 15 de Setembro de 2003, de decisões proferidas nos processos pendentes ou findos nessa data.
+
+5 - A norma do artigo 257.º, n.º 1, do Código de Processo Civil aplica-se aos processos pendentes em 15 de Setembro de 2003 em que até essa data não tenha sido feita a notificação.
+
+> Aditado pelo/a [Decreto-Lei n.º 199/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2003-511825), publicado em 2003-09-10.
 
 Artigo 22.º
 

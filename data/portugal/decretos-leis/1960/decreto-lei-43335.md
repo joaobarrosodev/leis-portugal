@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2023-05-18'
+version_history:
+  file: decreto-lei-43335.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-11-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-05-18'
+    amending: pt:dre:662314:por
+    amending_title: Decreto-Lei n.º 116/87; Lei n.º 20/2023
+    changes:
+    - Altera Artigo unidades 228-229
+    - Altera Artigo unidades 614-615
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:34:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 116/87; Lei n.º 20/2023.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43335.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -686,9 +702,9 @@ Art. 66.º Decretada a rescisão de uma concessão, proceder-se-á à avaliaçã
 
 #### SECÇÃO VIII — Do regime fiscal
 
-Art. 67.º Todas as concessões do Estado outorgadas ou revistas nos termos deste decreto-lei serão isentas de contribuição industrial, com excepção das que digam respeito a produção térmica em centrais que utilizem combustíveis estrangeiros.
+Art. 67.º - (Revogado.)
 
-§ único. Não se consideram abrangidas pela excepção referida no corpo do artigo as centrais que utilizem combustíveis estrangeiros apenas para arranque e suporte da queima de combustíveis nacionais ou cobertura de pontas, desde que o peso dos combustíveis estrangeiros utilizados não exceda 10 por cento do total na média de cada ano.
+> Alterado pelo/a [Lei n.º 20/2023](https://diariodarepublica.pt/dr/detalhe/lei/20-2023-213132930), publicado em 2023-05-17.
 
 Art. 68.º Todas as concessões de produção hidroeléctrica e de grande distribuição serão gratuitas nos primeiros dez anos de exploração e depois pagarão ao Estado, a título de renda:
 
@@ -1458,9 +1474,11 @@ Art. 45.º Apólices. - Os contratos de fornecimento de energia em alta tensão 
 
 § 3.º Os contratos de fornecimento em que se não respeitem as prescrições deste artigo são considerados nulos e de nenhum efeito.
 
-Art. 46.º Caução. - O distribuidor tem o direito de exigir, antes da assinatura do contrato, o depósito em caução de uma quantia equivalente ao valor do consumo de energia, durante um mês, correspondente à utilização de 100 horas da potência contratada.
+Art. 46.º Caução. - O distribuidor tem o direito de exigir, antes da assinatura do contrato, garantia bancária ou depósito em dinheiro de uma quantia equivalente ao valor do consumo de energia, durante um mês, correspondente à utilização de 100 horas da potência contratada.
 
-§ único. No fim do contrato, ou no caso de cessação de fornecimento, será o depósito restituído ao consumidor, com dedução das quantias eventualmente em dívida.
+§ único. No fim do contrato, no caso de cessação de fornecimento, será o depósito restituído ao consumidor, com dedução das quantias eventualmente em dívida.
+
+> Alterado pelo/a [Decreto-Lei n.º 116/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1987-662314), publicado em 1987-03-14.
 
 Art. 47.º Cessação ou mudança da designação do consumidor. - Se o consumidor de algum modo ceder a exploração das suas instalações, participará ao distribuidor, dentro do prazo de quinze dias, o nome e a morada ou sede do novo consumidor; deverá igualmente, o no mesmo prazo, comunicar ao distribuidor qualquer modificação que se dê no seu nome, firma ou denominação social, sem que daí lhe resultem quaisquer encargos.
 

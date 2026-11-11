@@ -1,0 +1,614 @@
+{
+ "id": "pt:dre:432796:por",
+ "substituicoes": [
+  {
+   "de": 246,
+   "ate": 246,
+   "texto": "§ 1.º Para efeitos da determinação das taxas, os rendimentos sujeitos a imposto sobre a indústria agrícola e respeitantes a explorações silvícolas de resultados plurianuais são considerados apenas pela importância do quociente da divisão do rendimento correspondente a essa exploração pelo número de anos, não superior a dez, que compõem o ciclo de produção. Determinadas as taxas, aplicar-se-á, quando for mais de uma, a da coluna (B) à fracção do rendimento igual ao limite máximo do correspondente escalão e a da coluna (A) ao excedente a tributar.\n\n§ 2.º Aos rendimentos até 50000$00, ou cujo quantitativo coincida com o limite superior de algum dos escalões da tabela, aplicar-se-á a correspondente taxa da coluna (B); quanto aos restantes rendimentos, dividir-se-á o seu quantitativo em duas partes, uma igual ao limite do maior dos escalões que nele couber, à qual se aplicará a taxa da mesma coluna correspondente a esse escalão, e outra igual ao excedente, a que se aplicará a taxa da coluna (A) respeitante ao escalão imediatamente superior.",
+   "alterador": 2
+  },
+  {
+   "de": 106,
+   "ate": 107,
+   "texto": "n) Os juros de depósitos em estabelecimentos legalmente autorizados a recebê-los;",
+   "alterador": 3
+  },
+  {
+   "de": 164,
+   "ate": 164,
+   "texto": "7.º As rendas temporárias ou vitalícias a cargo das sociedades de seguros ou do Montepio Geral serão consideradas pelas importâncias correspondentes a 25 por cento das que foram pagas aos beneficiários ou postas à sua disposição.",
+   "alterador": 4
+  },
+  {
+   "de": 429,
+   "ate": 429,
+   "texto": "Art. 124.º Os rendimentos, líquidos do imposto de capitais, secção B, das acções e obrigações ao portador não registadas ficarão sujeitos a imposto complementar pela taxa de 24 por cento.",
+   "alterador": 5
+  },
+  {
+   "de": 169,
+   "ate": 169,
+   "texto": "1.ª Tratando-se de rendimentos em moeda estrangeira ou de territórios sob administração portuguesa, a sua equivalência em escudos será estabelecida pela cotação média que vigorar em 31 de Dezembro do ano a que respeita o rendimento;",
+   "alterador": 9
+  },
+  {
+   "de": 257,
+   "ate": 257,
+   "texto": "Art. 41.º O imposto só é liquidável nos cinco anos seguintes àquele a que o rendimento colectável respeite, salvo no caso do § 1.º do artigo 17.º",
+   "alterador": 9
+  },
+  {
+   "de": 259,
+   "ate": 259,
+   "texto": "Art. 43.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 100$00.",
+   "alterador": 9
+  },
+  {
+   "de": 260,
+   "ate": 260,
+   "texto": "Art. 44.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 12% ao ano, sem prejuízo da multa cominada ao infractor.",
+   "alterador": 9
+  },
+  {
+   "de": 275,
+   "ate": 275,
+   "texto": "Art. 55.º Para pagamento do imposto complementar, a Fazenda Nacional goza do privilégio referido no artigo 736.º do Código Civil.",
+   "alterador": 9
+  },
+  {
+   "de": 279,
+   "ate": 279,
+   "texto": "§ 2.º Os exames à escrita das pessoas ou entidades referidas no parágrafo anterior que não sejam da competência específica da Direcção-Geral das Contribuições e Impostos serão realizados, a requisição desta, pela Inspecção-Geral de Finanças ou pela Inspecção de Seguros, conforme os casos, ou ainda, quando o Ministro das Finanças o julgue conveniente, pelos técnicos economistas do quadro especial do Serviço de Prevenção e Fiscalização Tributária.",
+   "alterador": 9
+  },
+  {
+   "de": 288,
+   "ate": 288,
+   "texto": "§ único. Não se procederá a anulação quando o seu quantitativo seja inferior a 100$00.",
+   "alterador": 9
+  },
+  {
+   "de": 290,
+   "ate": 290,
+   "texto": "§ 1.º Contar-se-ão juros de 12% ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.",
+   "alterador": 9
+  },
+  {
+   "de": 326,
+   "ate": 327,
+   "texto": "Art. 83.º O imposto complementar, secção B, é devido pelas sociedades comerciais ou civis sob forma comercial com sede no território do continente e ilhas adjacentes ou em território sob administração portuguesa e pelas demais pessoas colectivas com sede nesses territórios ou no estrangeiro.",
+   "alterador": 9
+  },
+  {
+   "de": 328,
+   "ate": 335,
+   "texto": "Art. 84.º O rendimento global das pessoas colectivas é a soma dos rendimentos a seguir indicados:\n\n1.º Rendimento dos prédios rústicos e urbanos;\n\n2.º Rendimento da indústria agrícola;\n\n3.º Rendimento da actividade comercial ou industrial;\n\n4.º Rendimento da aplicação de capitais.\n\n§ 1.º No caso de sociedades comerciais ou civis sob forma comercial com sede em território sob administração portuguesa e demais pessoas colectivas onde quer que se situe a sua sede, os rendimentos a considerar serão apenas sujeitos a impostos parcelares no território do continente e ilhas adjacentes.\n\n§ 2.º À soma dos rendimentos abater-se-á, tratando-se de sociedades com sede no continente ou ilhas adjacentes, a importância dos lucros atribuídos aos sócios relativamente ao ano a que o imposto respeita.\n\n§ 3.º Tratando-se de sociedades com sede em território sob administração portuguesa, a importância dos lucros atribuídos aos sócios, a deduzir, será a que tiver sido comunicada pela repartição competente para o englobamento na sua sede, e obtida através de uma proporção em que entrem como termos o montante dos rendimentos da sociedade apurados no englobamento efectuado no território da sede, antes da dedução dos lucros atribuídos aos sócios, a importância destes lucros e o montante dos rendimentos compreendidos naquele englobamento provenientes de cada um dos territórios diferente do da sede da sociedade.\n\n§ 4.º Os dividendos e juros das acções e obrigações ao portador não registadas ficam sujeitos ao regime estabelecido no artigo 124.º",
+   "alterador": 9
+  },
+  {
+   "de": 342,
+   "ate": 342,
+   "texto": "5.º As instituições de previdência social reconhecidas pela [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Julho de 1962, as respectivas federações, bem como as caixas de abono de família;",
+   "alterador": 9
+  },
+  {
+   "de": 348,
+   "ate": 348,
+   "texto": "11.º (Suprimido.)",
+   "alterador": 9
+  },
+  {
+   "de": 352,
+   "ate": 352,
+   "texto": "15.º Os rendimentos isentos de contribuição industrial nos termos do n.º 19 do artigo 14.º do respectivo código;",
+   "alterador": 9
+  },
+  {
+   "de": 359,
+   "ate": 362,
+   "texto": "Art. 88.º As sociedades e demais pessoas colectivas referidas no artigo 83.º apresentarão, nos meses de Outubro a Dezembro, a declaração modelo n.º 6, quando no ano anterior tenham auferido qualquer dos rendimentos mencionados no artigo 84.º\n\n§ 1.º A declaração será apresentada em qualquer repartição de finanças, com excepção das Repartições Centrais de Finanças de Lisboa e Porto, banco nacionalizado, Montepio Geral ou Caixa Geral de Depósitos, salvo sendo a entrega fora do prazo estabelecido, caso em que esta só poderá ser efectuada na repartição de finanças do concelho ou bairro da sede do contribuinte ou, sendo esta em Lisboa, na Repartição Central do Imposto Complementar de Lisboa.\n\n§ 2.º Se a pessoa colectiva tiver a sede fora território do continente e ilhas adjacentes, a declaração, quando entregue fora do prazo estabelecido, será apresentada na repartição de finanças do concelho ou bairro onde existir a sua representação permanente; não existindo tal representação ou localizando-se esta em Lisboa, a declaração será apresentada na Repartição Central do Imposto Complementar de Lisboa.\n\n§ 3.º É dispensada a declaração às pessoas colectivas, sendo ou não sociedades, que tenham apenas rendimentos a que aproveite alguma das isenções dos artigos 85.º, 86.º e 86.º-A.\n\n§ 4.º Os contribuintes que só posteriormente a 15 de Dezembro do ano seguinte àquele a que os rendimentos respeitem tenham conhecimento da sua existência por virtude do apuramento para efeitos de impostos parcelares devem apresentar a declaração no prazo de quinze dias, a contar da notificação da liquidação e, na sua falta, a contar do pagamento eventual ou, tendo havido débito ao tesoureiro para cobrança virtual, da data da abertura do cofre.\n\n§ 5.º Os contribuintes que à data da apresentação das declarações modelo n.º 6 não tiverem conhecimento da totalidade dos rendimentos que devem ser declarados apresentarão a declaração com os elementos conhecidos.\n\n§ 6.º No caso previsto no parágrafo anterior, os contribuintes deverão apresentar nova declaração no prazo de quinze dias, a contar dos factos referidos na parte final do § 4.º\n\n§ 7.º A declaração será entregue num único exemplar e deverá ser acompanhada de recibo modelo n.º 20-A, se não houver lugar ao pagamento do imposto.",
+   "alterador": 9
+  },
+  {
+   "de": 363,
+   "ate": 363,
+   "texto": "Art. 89.º À declaração de que trata o artigo anterior deverá o contribuinte, se beneficiar da isenção de qualquer dos impostos parcelares e não estiver determinada a respectiva matéria colectável, juntar, se não beneficiar igualmente da isenção do imposto complementar, as declarações e demais elementos a que estaria obrigado na falta daquela isenção e se não os tiver apresentado em virtude da respectiva legislação.",
+   "alterador": 9
+  },
+  {
+   "de": 367,
+   "ate": 367,
+   "texto": "1.º Os rendimentos referidos no artigo 84.º serão determinados segundo as regras 1.ª, 2.ª, 3.ª, 5.ª e 8.ª do artigo 15.º deste diploma, com observância do preceituado nos seus §§ 1.º e 2.º e no artigo 16.º, bem como englobados nos termos do artigo 17.º, devendo abater-se aos rendimentos a importância dos impostos parcelares que sobre eles tiverem recaído;",
+   "alterador": 9
+  },
+  {
+   "de": 369,
+   "ate": 369,
+   "texto": "Art. 92.º É aplicável ao imposto complementar, secção B, o preceituado para o da secção A no § 1.º do artigo 17.º\n\n§ 1.º Findo o pleito e transitada em julgado a decisão, deverão as pessoas a quem ficaram a pertencer os rendimentos apresentar, dentro de trinta dias, nova declaração modelo n.º 6, relativa aos anos a que respeitam os rendimentos, na repartição de finanças do concelho ou bairro da respectiva sede ou representação permanente, ou sendo estas em Lisboa ou não existindo no continente ou ilhas adjacentes, na Repartição Central do Imposto Complementar de Lisboa.\n\n§ 2.º No caso de o contribuinte só por virtude de julgamento do pleito ficar obrigado à apresentação da declaração, será a entrega, com referência aos anos em falta, efectuada dentro do prazo referido no parágrafo anterior.",
+   "alterador": 9
+  },
+  {
+   "de": 383,
+   "ate": 383,
+   "texto": "Art. 96.º Salvo o disposto no artigo 103.º, o englobamento dos rendimentos e a liquidação do respectivo imposto incumbem ao contribuinte.",
+   "alterador": 9
+  },
+  {
+   "de": 384,
+   "ate": 384,
+   "texto": "Art. 97.º Quando no englobamento se compreendam rendimentos tributados em território sob administração portuguesa em imposto complementar ou imposto correspondente ou que o teriam sido se não beneficiassem de isenção, será deduzido ao imposto calculado nos termos do presente Código o que naquele território tiver sido liquidado ou que seria de liquidar se não tivesse havido isenção ou redução de taxa, não podendo, no entanto, essa dedução exceder, em relação a cada território, a fracção do imposto calculado antes da dedução correspondente aos rendimentos relativos a esse território.\n\n§ único. No caso de o contribuinte, à data da entrega da declaração, não poder fazer prova do imposto liquidado ou liquidável, terá direito à anulação do imposto que a mais tenha sido liquidado, quando o requeira e faça prova do facto, no prazo de cento e oitenta dias, a contar da data do início da cobrança do imposto a deduzir.",
+   "alterador": 9
+  },
+  {
+   "de": 385,
+   "ate": 386,
+   "texto": "",
+   "alterador": 9
+  },
+  {
+   "de": 387,
+   "ate": 387,
+   "texto": "Art. 100.º Na repartição de finanças do concelho ou bairro da sede do contribuinte ou, sendo esta em Lisboa, na Repartição Central do Imposto Complementar de Lisboa organizar-se-á um processo por cada contribuinte obrigado à apresentação da declaração modelo n.º 6, no qual serão incorporados os elementos que lhe respeitem.\n\n§ único. Se o contribuinte tiver a sede fora do território do continente e ilhas adjacentes, o processo será organizado na repartição de finanças do concelho ou bairro da representação permanente, salvo se esta for situada em Lisboa ou não existir naquele território, casos em que o processo será organizado na Repartição Central do Imposto Complementar de Lisboa.",
+   "alterador": 9
+  },
+  {
+   "de": 389,
+   "ate": 389,
+   "texto": "",
+   "alterador": 9
+  },
+  {
+   "de": 390,
+   "ate": 390,
+   "texto": "Art. 102.º O pagamento do imposto será efectuado no dia da apresentação da declaração, mediante conhecimento de cobrança modelo n.º 23 processado em triplicado pelos contribuintes, que beneficiarão do desconto de 2% e de 1%, se o pagamento for realizado, respectivamente, em Outubro ou em Novembro.\n\n§ único. No caso de falta de pagamento no dia indicado, será considerada sem efeito a declaração apresentada.",
+   "alterador": 9
+  },
+  {
+   "de": 391,
+   "ate": 391,
+   "texto": "Art. 103.º O imposto em dívida, quando tenha havido transgressão que deu origem a falta de pagamento no prazo legal, será cobrado conjuntamente com a respectiva multa.\n\n§ único. Ainda que extinto o procedimento para aplicação da multa, instaurar-se-á processo de transgressão para a exigência do imposto devido relativamente aos últimos cinco anos.",
+   "alterador": 9
+  },
+  {
+   "de": 392,
+   "ate": 392,
+   "texto": "Art. 104.º É aplicável ao imposto complementar, secção B, o preceituado para a secção A no artigo 55.º",
+   "alterador": 9
+  },
+  {
+   "de": 396,
+   "ate": 396,
+   "texto": "Art. 106.º É aplicável ao imposto complementar, secção B, o preceituado para o da secção A nos artigos 58.º e 60.º a 62.º",
+   "alterador": 9
+  },
+  {
+   "de": 401,
+   "ate": 401,
+   "texto": "",
+   "alterador": 9
+  },
+  {
+   "de": 504,
+   "ate": 504,
+   "texto": "Art. 161.º As disposições dos três artigos anteriores aplicar-se-ão igualmente em matéria de imposto complementar, secções A e B.",
+   "alterador": 9
+  },
+  {
+   "de": 83,
+   "ate": 83,
+   "texto": "§ único. Serão sempre havidas como residentes com o chefe de família as pessoas que constituem o respectivo agregado familiar, entendendo-se como tais, além dele, o cônjuge não separado judicialmente de pessoas e bens e os seus filhos, adoptados e enteados, menores, não emancipados, ou que sejam inaptos para o trabalho e para angariar meios de subsistência, que não tenham rendimentos ou que, tendo-os, a administração pertença, no todo ou em parte, ao chefe de família ou ao outro cônjuge não separado judicialmente de pessoas e bens.",
+   "alterador": 10
+  },
+  {
+   "de": 90,
+   "ate": 90,
+   "texto": "c) Os rendimentos dos filhos, adoptados e enteados, menores, não emancipados, ou que sejam inaptos para o trabalho e para angariar meios de subsistência, de que seja administrador o chefe de família ou o outro cônjuge não separado judicialmente de pessoas e bens.",
+   "alterador": 10
+  },
+  {
+   "de": 94,
+   "ate": 94,
+   "texto": "a) Os rendimentos colectáveis de prédios ou partes de prédios cedidos gratuitamente com destino a serviços públicos, às associações humanitárias, aos organismos oficiais, oficializados ou particulares de beneficência, assistência ou caridade, à habitação de pobres e indigentes e a escolas, museus ou outras instituições de interesse público e social;",
+   "alterador": 10
+  },
+  {
+   "de": 96,
+   "ate": 96,
+   "texto": "c) Os rendimentos da indústria agrícola, isentos do correspondente imposto nos termos do artigo 319.º do respectivo Código;",
+   "alterador": 10
+  },
+  {
+   "de": 117,
+   "ate": 117,
+   "texto": "2.º Tratando-se de rendimentos produzidos em território sob administração portuguesa:",
+   "alterador": 10
+  },
+  {
+   "de": 121,
+   "ate": 122,
+   "texto": "d) Os subsídios referidos na alínea l) do número anterior atribuídos aos servidores dos territórios sob administração portuguesa, das autarquias locais ou das corporações administrativas;\n\ne) Os rendimentos que, tendo a natureza das pensões e importâncias referidas nas alíneas x) e z) do número anterior, constituam encargo dos territórios sob administração portuguesa ou das respectivas autarquias locais.",
+   "alterador": 10
+  },
+  {
+   "de": 126,
+   "ate": 126,
+   "texto": "Art. 9.º São também isentos de imposto os rendimentos produzidos no território sob administração portuguesa ou no estrangeiro auferidos pelo pessoal das missões diplomáticas e consulares estrangeiras, quando haja reciprocidade de tratamento.",
+   "alterador": 10
+  },
+  {
+   "de": 130,
+   "ate": 130,
+   "texto": "Art. 11.º Os titulares de rendimentos abrangidos pelo artigo 3.º apresentarão, durante o mês de Julho, ou, no caso de auferirem rendimentos da indústria agrícola ou da actividade comercial ou industrial - grupos A e B da respectiva contribuição -, até 15 de Outubro, a declaração modelo n.º 1, quando os rendimentos do ano anterior não isentos de imposto complementar, apurados de harmonia com o disposto nos artigos 15.º e 17.º, excedam no total os seguintes quantitativos:",
+   "alterador": 10
+  },
+  {
+   "de": 137,
+   "ate": 141,
+   "texto": "§ 3.º A declaração será apresentada na repartição de finanças do concelho ou bairro da residência do contribuinte. Sendo a residência em Lisboa ou fora do território do continente e ilhas adjacentes, a declaração será apresentada na Repartição Central do Imposto Complementar de Lisboa ou, quando entregue nos prazos estabelecidos no corpo do artigo, na repartição de finanças de qualquer bairro dessa cidade.\n\n§ 4.º Os contribuintes que só em virtude de tributação em impostos parcelares liquidados posteriormente ao décimo quinto dia anterior ao termo do prazo aplicável de harmonia com o corpo do artigo tenham conhecimento de que o total dos seus rendimentos excede os limites nele fixados devem apresentar a declaração no prazo de quinze dias a contar da notificação da liquidação, e na sua falta, a contar do pagamento eventual ou, tendo havido débito ao tesoureiro para cobrança virtual, da data da abertura do cofre.\n\n§ 5.º Os contribuintes que à data da apresentação da declaração modelo n.º 1 não tiverem conhecimento da totalidade dos rendimentos que devem ser declarados, excedendo, no entanto, os já conhecidos os quantitativos referidos nos n.os 1.º e 2.º do corpo do artigo, consoante o caso, apresentarão a declaração com os elementos conhecidos.\n\n§ 6.º No caso previsto no parágrafo anterior, os contribuintes deverão apresentar nova declaração no prazo de quinze dias a contar dos factos referidos na parte final do § 4.º\n\n§ 7.º A declaração será entregue num único exemplar, devendo ser passado recibo da sua entrega (anexo 3 à declaração).",
+   "alterador": 10
+  },
+  {
+   "de": 146,
+   "ate": 150,
+   "texto": "1.º Os anexos 1, 2 e 3 a que se referem, respectivamente, os artigos 39.º e 47.º e § 7.º do artigo 11.º;\n\n2.º As declarações e demais elementos a que estaria obrigado com vista à determinação da matéria colectável dos impostos parcelares, se deles não estivesse isento, e se não os tiver apresentado em virtude da respectiva legislação, quanto aos rendimentos que não beneficiem igualmente de isenção de imposto complementar;\n\n3.º Os documentos comprovativos do desconto, pagamento ou entrega das importâncias referidas nas alíneas b) a f) do artigo 28.º e no artigo 30.º;\n\n4.º As certidões de registo de nascimento, cédulas pessoais ou bilhetes de identidade dos filhos, adoptados e enteados, nas condições da alínea a) do artigo 29.º;\n\n5.º Os atestados médicos comprovativos da inaptidão dos filhos, adoptados e enteados, nas condições da alínea a) do artigo 29.º, passados ou confirmados pelo delegado ou subdelegado de saúde do concelho da residência do inapto;\n\n6.º Os documentos comprovativos dos impostos liquidados ou liquidáveis em território sob administração portuguesa, no caso do corpo do artigo 40.º\n\n§ 1.º Os documentos mencionados nos n.os 1.º, 2.º, 3.º, 5.º e 6.º deste artigo farão parte integrante da declaração modelo n.º 1 e os mencionados no n.º 4.º serão restituídos ao apresentante depois de verificada a sua conformidade.\n\n§ 2.º É dispensada a junção de qualquer dos documentos a que aludem os n.os 4.º e 5.º quando já conste do processo do contribuinte a sua apresentação em ano anterior.",
+   "alterador": 10
+  },
+  {
+   "de": 157,
+   "ate": 157,
+   "texto": "3.ª Os rendimentos da actividade comercial ou industrial serão os colectáveis nos termos do Código da Contribuição Industrial;",
+   "alterador": 10
+  },
+  {
+   "de": 165,
+   "ate": 165,
+   "texto": "8.ª Os rendimentos produzidos fora do território do continente e ilhas adjacentes e nele não sujeitos a qualquer dos impostos parcelares serão tomados pelas suas importâncias líquidas, inclusive de impostos, excepto de imposto complementar ou imposto correspondente liquidado nos territórios sob administração portuguesa.",
+   "alterador": 10
+  },
+  {
+   "de": 168,
+   "ate": 168,
+   "texto": "Art. 16.º Os rendimentos em moeda estrangeira ou de território sob administração portuguesa, bem como os rendimentos em géneros, não sujeitos a impostos parcelares, serão reduzidos a escudos, com observância das seguintes regras:",
+   "alterador": 10
+  },
+  {
+   "de": 170,
+   "ate": 170,
+   "texto": "2.ª Tratando-se de rendimentos em géneros, a redução a dinheiro far-se-á pelo preço médio do ano a que respeitam os rendimentos, segundo o que constar do registo da repartição de finanças ou, na sua falta, da estiva camarária.",
+   "alterador": 10
+  },
+  {
+   "de": 177,
+   "ate": 177,
+   "texto": "§ 2.º Findo o pleito e transitada em julgado a decisão, deverão as pessoas a quem ficaram a pertencer os rendimentos apresentar, dentro de trinta dias, nova declaração modelo n.º 1, relativa aos anos a que respeitam os rendimentos, na repartição de finanças do concelho ou bairro da respectiva residência ou, sendo esta em Lisboa ou fora do território do continente e ilhas adjacentes, na Repartição Central do Imposto Complementar de Lisboa.",
+   "alterador": 10
+  },
+  {
+   "de": 182,
+   "ate": 183,
+   "texto": "3.ª No caso de falecimento do cônjuge do contribuinte não separado judicialmente de pessoas e bens, serão de englobar em nome do contribuinte os rendimentos do agregado familiar relativos ao período de 1 de Janeiro até à data do óbito, os seus rendimentos próprios e os rendimentos dos filhos e adoptados, nas condições da alínea c) do artigo 7.º, relativos ao período decorrido do dia imediato ao do óbito até ao fim do ano;\n\n4.ª No caso de divórcio ou separação judicial de pessoas e bens, serão englobados em nome do antigo chefe da família os rendimentos do correspondente agregado familiar relativos ao período decorrido de 1 de Janeiro até à data do trânsito em julgado da respectiva decisão judicial, bem como os seus rendimentos próprios e os dos filhos e adoptados, nas condições da alínea c) do artigo 7.º, referentes ao período decorrido desde o dia imediato àquela última data até ao fim do ano, devendo englobar-se em nome do outro cônjuge os seus rendimentos próprios e os dos filhos e adoptados, nas condições da mesma alínea, respeitantes a este mesmo período.",
+   "alterador": 10
+  },
+  {
+   "de": 190,
+   "ate": 191,
+   "texto": "Art. 21.º Os contribuintes poderão solicitar aos chefes das repartições de finanças, em impresso modelo n.º 32-B, a indicação dos rendimentos colectáveis que lhes pertencem, exceptuados os que devem constar das relações a que se referem os artigos 24.º e 25.º e sujeitos a impostos parcelares no respectivo concelho ou bairro, bem como as correspondentes colectas e adicionais.",
+   "alterador": 10
+  },
+  {
+   "de": 192,
+   "ate": 193,
+   "texto": "Art. 22.º Os chefes, directores, administradores ou gerentes de quaisquer serviços ou entidades que processem folhas para o abono de importâncias abrangidas pelas alíneas b) e c) da regra 4.ª do artigo 15.º, ou que, independentemente do processamento de folhas, liquidem as mesmas importâncias, enviarão, até ao dia 30 de Abril de cada ano, à repartição de finanças do concelho ou bairro em cuja área fique situado o serviço ou entidade ou, sendo estes situados em Lisboa, à Repartição Central do Imposto Complementar de Lisboa relações nominais modelo n.º 2, em duplicado, contendo as importâncias líquidas de descontos obrigatórios cujo pagamento tenha sido autorizado no ano anterior.",
+   "alterador": 10
+  },
+  {
+   "de": 194,
+   "ate": 195,
+   "texto": "Art. 23.º As entidades que paguem, ou ponham à disposição dos respectivos beneficiários, pensões ou rendas abrangidas pelas regras 6.ª e 7.ª do artigo 15.º, bem como remunerações pela prestação de serviço fora do continente e ilhas adjacentes, apresentarão, até 30 de Abril de cada ano, na repartição de finanças do concelho ou bairro da respectiva residência ou sede ou, sendo estas em Lisboa, na Repartição Central do Imposto Complementar de Lisboa relações nominais modelo n.º 3, em duplicado, contendo as importâncias pagas ou postas à disposição desses beneficiários durante o ano anterior.",
+   "alterador": 10
+  },
+  {
+   "de": 196,
+   "ate": 196,
+   "texto": "Art. 24.º As sociedades e quaisquer outras entidades emissoras de acções e obrigações apresentarão, até 30 de Abril de cada ano, na repartição de finanças do concelho ou bairro da sua sede ou, sendo esta em Lisboa, na Repartição Central do Imposto Complementar de Lisboa relações nominais modelo n.º 4, em duplicado, organizadas em face dos livros de registo dos títulos nominativos e dos livros de registo dos títulos ao portador a que se refere o artigo 113.º, contendo:",
+   "alterador": 10
+  },
+  {
+   "de": 201,
+   "ate": 203,
+   "texto": "§ 2.º O disposto neste artigo é igualmente aplicável às sociedades concessionárias estrangeiras, com referência às obrigações equiparadas às de sociedades nacionais, nos termos do [Decreto-Lei n.º 41223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41223-1957-280064), de 7 de Agosto de 1957, devendo as relações ser apresentadas na repartição de finanças do concelho ou bairro da situação da delegação no continente ou ilhas adjacentes ou, sendo esta em Lisboa, na Repartição Central do Imposto Complementar de Lisboa.\n\n§ 3.º (Suprimido.)\n\n§ 4.º (Suprimido.)",
+   "alterador": 10
+  },
+  {
+   "de": 206,
+   "ate": 206,
+   "texto": "Art. 25.º As sociedades, excluídas as anónimas ou em comandita por acções, que hajam procedido à atribuição de lucros e bem assim as entidades que hajam procedido à liquidação de outros rendimentos, que não sejam juros de obrigações, sujeitos a imposto de capitais, secção B, e não isentos de imposto complementar, apresentarão, até 30 de Abril de cada ano, relações nominais modelo n.º 5, em duplicado, contendo as importâncias dos lucros atribuídos no ano anterior e dos outros rendimentos relativamente aos quais se tenha constituído, nesse ano, a obrigação da entrega do imposto de capitais ao Estado.\n\n§ único. As relações serão entregues na repartição de finanças do concelho ou bairro da sede ou residência das entidades obrigadas à sua apresentação ou, no caso de estas terem a sede ou residência fora do território do continente e ilhas adjacentes e estabelecimento estável nesse território, na repartição de finanças do concelho ou bairro da situação do referido estabelecimento. Se a sede, ou residência ou estabelecimento estável forem situados em Lisboa, as relações serão apresentadas na Repartição Central do Imposto Complementar de Lisboa.",
+   "alterador": 10
+  },
+  {
+   "de": 207,
+   "ate": 208,
+   "texto": "Art. 26.º As repartições de finanças que receberem as relações a que se referem os artigos 22.º a 25.º, respeitantes a contribuintes com residência ou sede fora da área da respectiva competência, remetê-las-ão, até ao fim do mês seguinte, às repartições referidas nos artigos 48.º e 100.º, consoante os casos.",
+   "alterador": 10
+  },
+  {
+   "de": 209,
+   "ate": 209,
+   "texto": "Art. 27.º As entidades referidas nos artigos 22.º a 25.º deverão, quando solicitadas mediante impresso modelo n.º 41-B, fornecer aos beneficiários dos rendimentos mencionados nas relações a que os mesmos artigos se referem, dentro do prazo de dez dias a contar da recepção do pedido ou da determinação dos rendimentos, se esta for posterior, a indicação das importâncias constantes das mencionadas relações e a eles respeitantes.\n\n§ 1.º As entidades a que este artigo se refere poderão, independentemente de solicitação, fornecer por escrito os elementos nele previstos.\n\n§ 2.º O disposto no corpo deste artigo e seu § 1.º aplicar-se-á, também, relativamente aos rendimentos dos títulos estrangeiros de rendimento fixo registados nas direcções de finanças.",
+   "alterador": 10
+  },
+  {
+   "de": 220,
+   "ate": 220,
+   "texto": "Art. 29.º O rendimento colectável será determinado deduzindo ao rendimento global líquido, além de 20% dos rendimentos do trabalho, apurado nos termos da regra 4.ª do artigo 15.º, com o máximo de 25000$00, aplicando-se a percentagem e o limite em relação a cada uma das pessoas que auferem esses rendimentos, as seguintes importâncias:",
+   "alterador": 10
+  },
+  {
+   "de": 224,
+   "ate": 228,
+   "texto": "Por cada filho, adoptado ou enteado, menor, não emancipado, ou inapto para o trabalho e para angariar meios de subsistência, que não seja contribuinte deste imposto:\n\nDe mais de 16 anos ... 16000$00\n\nDe mais de 11 a 16 anos ... 12000$00\n\nDe mais de 7 a 11 anos ... 8000$00\n\nAté 7 anos ... 4000$00",
+   "alterador": 10
+  },
+  {
+   "de": 231,
+   "ate": 231,
+   "texto": "§ 2.º As deduções relativas aos cônjuges e aos filhos, adoptados e enteados reportar-se-ão à situação dessas pessoas em 30 de Junho do ano a que respeita o rendimento.",
+   "alterador": 10
+  },
+  {
+   "de": 235,
+   "ate": 235,
+   "texto": "c) Os donativos a favor do Estado Português, território sob administração portuguesa e autarquias locais, quer daquele, quer destes.",
+   "alterador": 10
+  },
+  {
+   "de": 238,
+   "ate": 238,
+   "texto": "§ 1.º A soma das deduções previstas nas alíneas a) e b) não pode exceder o quantitativo de 15000$00.",
+   "alterador": 10
+  },
+  {
+   "de": 253,
+   "ate": 253,
+   "texto": "Art. 39.º O apuramento do rendimento colectável e o cálculo do imposto serão efectuados no anexo 1 à declaração modelo n.º 1 e transportados, em seguida, para o verbete individual de lançamento.",
+   "alterador": 10
+  },
+  {
+   "de": 254,
+   "ate": 256,
+   "texto": "Art. 40.º Quando no englobamento se compreendam rendimentos tributados em território sob administração portuguesa em imposto complementar ou imposto correspondente ou que o teriam sido se não beneficiassem de isenção, será deduzido ao imposto calculado nos termos do presente código o que naquele território tiver sido liquidado ou que seria de liquidar se não tivesse havido isenção ou redução de taxa, não podendo, no entanto, essa dedução exceder, em relação a cada território, a fracção do imposto, calculado antes da dedução, correspondente aos rendimentos relativos a esse território.\n\n§ único. No caso de o contribuinte, à data da entrega da declaração, não poder fazer prova do imposto liquidado ou liquidável, terá direito à anulação do imposto que a mais tenha sido liquidado, quando o requeira e faça prova do facto no prazo de cento e oitenta dias a contar da data do início da cobrança do imposto a deduzir.",
+   "alterador": 10
+  },
+  {
+   "de": 262,
+   "ate": 262,
+   "texto": "Art. 45.º A liquidação do imposto far-se-á anualmente nos verbetes de lançamento, até 20 de Setembro ou 20 de Novembro do ano seguinte àquele a que respeita, conforme a declaração deva ser apresentada em Julho ou até 15 de Outubro, preenchendo-se seguidamente o índice dos verbetes e relação para descarga dos documentos de cobrança.",
+   "alterador": 10
+  },
+  {
+   "de": 264,
+   "ate": 264,
+   "texto": "Art. 47.º Até ao último dia estabelecido no artigo 45.º para a liquidação do imposto, a repartição de finanças remeterá aos contribuintes, pelo correio e em sobrescrito fechado, uma nota demonstrativa da liquidação efectuada (anexo 2 à declaração modelo n.º 1), a qual conterá a indicação do mês em que o imposto deverá ser pago.",
+   "alterador": 10
+  },
+  {
+   "de": 265,
+   "ate": 265,
+   "texto": "Art. 48.º Na repartição de finanças do concelho ou bairro da respectiva residência ou, sendo esta em Lisboa ou fora do território do continente e ilhas adjacentes, na Repartição Central do Imposto Complementar de Lisboa organizar-se-á um processo por cada contribuinte obrigado à apresentação da declaração modelo n.º 1, no qual serão incorporados os elementos que lhe respeitem, com excepção do verbete de lançamento.",
+   "alterador": 10
+  },
+  {
+   "de": 267,
+   "ate": 267,
+   "texto": "Art. 49.º Os conhecimentos de cobrança serão entregues ao tesoureiro da Fazenda Pública até ao dia 20 do mês anterior ao da abertura do cofre para a cobrança.\n\n§ único. O tesoureiro da Fazenda Pública anunciará previamente a abertura do cofre em editais expostos na tesouraria e na repartição de finanças e promoverá a divulgação do conteúdo desses editais através da imprensa.",
+   "alterador": 10
+  },
+  {
+   "de": 268,
+   "ate": 268,
+   "texto": "Art. 50.º O imposto deverá ser pago durante os meses de Outubro ou Dezembro do ano seguinte àquele a que respeita, consoante a declaração modelo n.º 1 deva ser apresentada, respectivamente, em Julho ou até 15 de Outubro.",
+   "alterador": 10
+  },
+  {
+   "de": 269,
+   "ate": 270,
+   "texto": "Art. 51.º Nos casos em que a liquidação não possa fazer-se nos prazos estabelecidos no artigo 45.º, bem como quando se proceda a liquidação por omissão ou a liquidação adicional, nos termos do artigo 42.º, o contribuinte será notificado, pessoalmente ou por carta ou postal registado com aviso de recepção, para pagar o imposto ou satisfazer a diferença no prazo de quinze dias.\n\n§ 1.º No caso de notificação por carta ou postal, considera-se aquela feita no dia em que for assinado o aviso.",
+   "alterador": 10
+  },
+  {
+   "de": 285,
+   "ate": 285,
+   "texto": "Art. 59.º As anulações dos impostos parcelares importam, quando for caso disso, a consequente anulação oficiosa do imposto complementar, em face dos elementos existentes na repartição referida no artigo 48.º ou a esta obrigatoriamente enviados pelo serviço que deles disponha.",
+   "alterador": 10
+  },
+  {
+   "de": 294,
+   "ate": 297,
+   "texto": "Art. 64.º A falta ou inexactidão das declarações a que se referem os artigos 11.º e 17.º, §§ 2.º e 3.º, bem como as omissões nelas praticadas, serão punidas com multa de 200$00 a 20000$00, havendo simples negligência, e com multa igual ao dobro do imposto que deixou de ser liquidado, no mínimo de 500$00, havendo dolo.\n\nÀ falta ou inexactidão das declarações e dos elementos a que se refere o n.º 2.º do artigo 14.º, bem como às omissões neles praticadas, serão aplicáveis as penalidades estabelecidas nos respectivos códigos para idênticas infracções.\n\n§ único. Consideram-se sempre dolosas as omissões ou indicações inexactas que prejudiquem o correcto englobamento dos rendimentos, quando as infracções do contribuinte e das entidades referidas nos artigos 22.º a 25.º forem coincidentes.",
+   "alterador": 10
+  },
+  {
+   "de": 298,
+   "ate": 298,
+   "texto": "Art. 65.º A falta ou inexactidão das relações a que aludem os artigos 22.º a 25.º, bem como as omissões nelas praticadas, serão punidas com multa de 200$00 a 50000$00, salvo sendo praticadas por funcionários públicos, aos quais será aplicado o disposto no artigo 70.º",
+   "alterador": 10
+  },
+  {
+   "de": 299,
+   "ate": 299,
+   "texto": "",
+   "alterador": 10
+  },
+  {
+   "de": 370,
+   "ate": 371,
+   "texto": "Art. 93.º É aplicável ao imposto complementar, secção B, o preceituado para o da secção A, nos artigos 21.º e 27.º",
+   "alterador": 10
+  },
+  {
+   "de": 398,
+   "ate": 399,
+   "texto": "Art. 107.º A falta ou inexactidão das declarações a que se referem o artigo 88.º e §§ 1.º e 2.º do artigo 92.º, bem como as omissões nelas praticadas, serão punidas com multa de 200$00 a 20000$00, havendo simples negligência, e com multa igual ao dobro do imposto que deixou de ser liquidado, no mínimo de 500$00, havendo dolo.\n\nÀ falta ou inexactidão das declarações e dos elementos a que se refere o artigo 89.º, bem como às omissões neles praticadas, serão aplicáveis as penalidades estabelecidas nos respectivos códigos para idênticas infracções.",
+   "alterador": 10
+  },
+  {
+   "de": 406,
+   "ate": 406,
+   "texto": "Art. 111.º As acções e obrigações ao portador emitidas por sociedades ou quaisquer outras entidades com sede no território do continente e ilhas adjacentes, bem como as obrigações emitidas por sociedades concessionárias estrangeiras equiparadas às emitidas por sociedades nacionais, nos termos do [Decreto-Lei n.º 41223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41223-1957-280064), de 7 de Agosto de 1957, poderão ser registadas, a pedido dos seus possuidores, e para efeitos tributários, na sede da entidade emissora ou, sendo esta situada fora daquele território, na sua representação permanente.",
+   "alterador": 10
+  },
+  {
+   "de": 430,
+   "ate": 430,
+   "texto": "",
+   "alterador": 10
+  },
+  {
+   "de": 432,
+   "ate": 432,
+   "texto": "Art. 125.º O imposto devido nos termos do artigo anterior será entregue pelas entidades a que incumbe o pagamento dos rendimentos na tesouraria da Fazenda Pública do concelho ou bairro da sua sede ou representação permanente no território do continente e ilhas adjacentes, dentro do prazo estabelecido para a entrega do imposto de capitais, secção B, referente aos mesmos rendimentos.",
+   "alterador": 10
+  }
+ ],
+ "insercoes": [
+  {
+   "depois_de": 116,
+   "texto": "z') Os vencimentos e quaisquer outras remunerações auferidas pela prestação de serviços nas infra-estruturas N. A. T. O. situadas em território nacional, nos termos do artigo 1.º do [Decreto-Lei n.º 45843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45843-1964-580100), de 1 de Agosto de 1964.",
+   "alterador": 1
+  },
+  {
+   "depois_de": 231,
+   "texto": "§ 3.º A percentagem a que se refere o corpo deste artigo poderá, nos casos de invalidez devidamente comprovada, e consoante o seu grau, ser elevada até 50, por despacho do Ministro das Finanças.",
+   "alterador": 4
+  },
+  {
+   "depois_de": 116,
+   "texto": "z\") Os rendimentos de títulos nacionais pertencentes a fundos de investimentos mobiliários.",
+   "alterador": 6
+  },
+  {
+   "depois_de": 406,
+   "texto": "§ único. As acções e obrigações pertencentes a fundos de investimentos mobiliários serão registadas em nome destas.",
+   "alterador": 6
+  },
+  {
+   "depois_de": 302,
+   "texto": "§ único. Considera-se recusada a exibição dos arquivos ou da escrita e a apresentação dos elementos com ela relacionados quando, solicitados, não sejam postos à disposição dos funcionários competentes para o seu exame ou fiscalização do imposto.",
+   "alterador": 9
+  },
+  {
+   "depois_de": 353,
+   "texto": "17.º Os rendimentos das caixas económicas, das associações mútuas de seguro agrícola ou pecuário, das cooperativas e das sociedades anónimas isentas de contribuição industrial nos termos dos n.os 6.º a 8.º e 10.º a 12.º do artigo 14.º do respectivo código.",
+   "alterador": 9
+  },
+  {
+   "depois_de": 355,
+   "texto": "Art. 86.º-A. Poderão ser concedidas isenções nos termos da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, e demais legislação posterior ao Código, bem como relativamente aos rendimentos isentos de contribuição industrial em virtude do § 2.º do artigo 18.º do respectivo Código.\n\n§ único. Na falta de determinação em contrário, as isenções serão concedidas pelo Ministro das Finanças.",
+   "alterador": 9
+  },
+  {
+   "depois_de": 380,
+   "texto": "Art. 94.º-A. O Ministro das Finanças, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos, poderá conceder redução do imposto complementar nos casos expressamente previstos em diploma publicado posteriormente à publicação deste Código.",
+   "alterador": 9
+  },
+  {
+   "depois_de": 384,
+   "texto": "Art. 97.º-A. É aplicável ao imposto complementar, secção B, o preceituado para o da secção A nos artigos 41.º, 43.º e 44.º",
+   "alterador": 9
+  },
+  {
+   "depois_de": 384,
+   "texto": "Art. 97.º-B. Quando se verificar que na liquidação se cometeram erros de facto ou de direito ou houve quaisquer omissões de que resultou prejuízo para o Estado sem, no entanto, serem por lei considerados infracções, a repartição de finanças deverá repará-la mediante liquidação adicional, mas sempre com observância do disposto no artigo anterior.",
+   "alterador": 10
+  },
+  {
+   "depois_de": 391,
+   "texto": "Art. 103.º-A. No caso previsto no artigo 97.º-B, é aplicável o preceituado nos artigos 51.º a 53.º",
+   "alterador": 10
+  },
+  {
+   "depois_de": 391,
+   "texto": "Art. 103.º-B. As repartições de finanças e demais entidades referidas nos §§ 1.º e 2.º do artigo 88.º que tiverem recebido declarações modelo n.º 6 deverão enviá-las, com os correspondentes documentos, incluindo, quando for caso disso, um exemplar do conhecimento de cobranças, averbado da entrega do imposto, em prazo a fixar pelo Ministro das Finanças, ao departamento da Direcção-Geral das Contribuições e Impostos encarregado do tratamento automático dos respectivos dados.\n\n§ único. Os bancos nacionalizados, o Montepio Geral e a Caixa Geral de Depósitos efectuarão as transferências das importâncias recebidas para a conta do Tesouro, de harmonia com as instruções aprovadas pelo Ministro das Finanças.",
+   "alterador": 9
+  },
+  {
+   "depois_de": 394,
+   "texto": "Art. 105.º-A. Os contribuintes deverão conservar em boa ordem, durante os cinco anos civis subsequentes ao ano a que respeitam as correspondentes declarações:\n\na) Os elementos relativos aos rendimentos declarados e que podem ser fornecidos ao contribuinte nos termos deste Código;\n\nb) Os documentos comprovativos dos impostos liquidados ou liquidáveis em território sob administração portuguesa, no caso do corpo do artigo 97.º",
+   "alterador": 9
+  },
+  {
+   "depois_de": 396,
+   "texto": "Art. 106.º-A. As anulações dos impostos parcelares importam, quando for caso disso, a consequente anulação oficiosa do imposto complementar, em face dos elementos existentes na repartição referida no artigo 100.º ou a esta obrigatoriamente enviados pelo serviço que deles disponha.",
+   "alterador": 9
+  },
+  {
+   "depois_de": 401,
+   "texto": "Art. 108.º-B. O não cumprimento por parte dos contribuintes do disposto no artigo 105.º-A será punido com multa de 1000$00 a 50000$00.",
+   "alterador": 9
+  },
+  {
+   "depois_de": 503,
+   "texto": "Art. 160.º-A. As sociedades com sede no estrangeiro ou em território sob administração portuguesa que tenham direcção efectiva no continente ou ilhas adjacentes serão consideradas como tendo aqui a sua sede.",
+   "alterador": 9
+  },
+  {
+   "depois_de": 125,
+   "texto": "Art. 8.º-A. Poderão ser concedidas isenções nos termos da [Lei n.º 3/72](https://diariodarepublica.pt/dr/detalhe/lei/3-1972-681856), de 27 de Maio, e demais legislação posterior ao Código, bem como relativamente aos rendimentos isentos de contribuição industrial em virtude do § 2.º do artigo 18.º do respectivo Código.\n\n§ único. Na falta de determinação em contrário, as isenções serão concedidas pelo Ministro das Finanças.",
+   "alterador": 10
+  },
+  {
+   "depois_de": 133,
+   "texto": "Tratando-se de rendimentos provenientes exclusivamente do exercício de actividade por conta de outrem, sujeitos às contribuições normais para a segurança social e compreendidos na alínea a) da regra 4.ª do artigo 15.º, os quantitativos referidos neste número serão, respectivamente, de 90000$00 e 120000$00.",
+   "alterador": 10
+  },
+  {
+   "depois_de": 206,
+   "texto": "Art. 25.º-A. As relações a que se referem os artigos 22.º a 25.º serão organizadas por concelhos ou bairros e ordem alfabética dos beneficiários dos rendimentos, contendo cada uma os que tenham residência ou sede no mesmo concelho ou bairro. No caso de beneficiários com residência ou sede em Lisboa ou fora do território do continente e ilhas adjacentes, será organizada uma única relação contendo, por ordem alfabética, todos os beneficiários nessas condições.",
+   "alterador": 10
+  },
+  {
+   "depois_de": 240,
+   "texto": "Art. 30.º-A. Para efeitos do disposto no n.º 3.º do artigo 14.º, os contribuintes poderão solicitar às competentes entidades, mediante impresso modelo n.º 41-B, a indicação das importâncias a deduzir nos termos das alíneas b) a f) do artigo 28.º e do artigo 30.º indicação que deverá ser fornecida no prazo de dez dias a contar da recepção do pedido.\n\n§ único. As entidades a que este artigo se refere poderão, independentemente de solicitação, fornecer por escrito os elementos nele previstos.",
+   "alterador": 10
+  },
+  {
+   "depois_de": 248,
+   "texto": "§ único. O Ministro das Finanças, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos, poderá conceder redução do imposto complementar nos casos expressamente previstos em diploma publicado posteriormente à publicação deste Código.",
+   "alterador": 10
+  },
+  {
+   "depois_de": 271,
+   "texto": "§ 3.º Se o pagamento não for efectuado dentro dos quinze dias, proceder-se-á à cobrança virtual, sem prejuízo do direito de reclamação e impugnação, devendo o pagamento efectuar-se durante o mês seguinte ao do débito ao tesoureiro.",
+   "alterador": 10
+  },
+  {
+   "depois_de": 301,
+   "texto": "Art. 68.º-A. A inobservância do disposto no corpo do artigo 27.º e na última parte do corpo do artigo 30.º-A, bem como as inexactidões nas respectivas indicações, serão punidas com multa de 200$00 a 50000$00 por cada beneficiário dos rendimentos ou deduções em relação ao qual se verifique a falta.",
+   "alterador": 10
+  },
+  {
+   "depois_de": 438,
+   "texto": "§ 1.º Tratando-se de rendimentos não representados por numerário, deverão as entidades a que incumbe a entrega do imposto ao Estado exigir dos beneficiários dos rendimentos o reembolso do imposto que tiverem pago.\n\n§ 2.º Se algum beneficiário não reembolsar o imposto que lhe for exigido nos termos do parágrafo anterior, a respectiva entidade deverá reter, enquanto durar a mora, os correspondentes rendimentos.",
+   "alterador": 10
+  },
+  {
+   "depois_de": 492,
+   "texto": "Art. 150.º-A. A inobservância do disposto no § 2.º do artigo 126.º será punida com multa de 200$00 a 10000$00, relativamente a cada beneficiário.",
+   "alterador": 10
+  }
+ ],
+ "nao_aplicavel": "Tabelas do art. 33.º (taxas da secção A) substituídas pelo alterador 5 (DL 49483, art. 7.º), pelo alterador 7 (DL 718/73, art. 7.º) e pelo alterador 8 (DL 375/74, art. 14.º): só vêm em imagem ('ver documento original'), a u. 245 fica como está. Alterador 8, arts. 12.º e 13.º: elevação dos valores do art. 29.º sem nova redação do código (o texto resultante entra pela redação do art. 29.º dada pelo alterador 10). Alterador 11: modelos de impressos publicados só em imagem.",
+ "instrucoes": [
+  "Alt. 1 (DL 45977), art. 4.º: adita a alínea z') ao n.º 1.º do art. 8.º - inserida depois da alínea z) (u. 116). As restantes disposições alteram outros códigos.",
+  "Alt. 2 (DL 46369), art. 5.º: nova redação do art. 33.º (corpo mantido, '...') com §§ 1.º e 2.º - o § único (u. 246) é substituído pelos §§ 1.º e 2.º. Os arts. 1.º-4.º e 6.º-10.º alteram outros diplomas.",
+  "Alt. 3 (DL 47914): suprime a alínea o) do n.º 1.º do art. 8.º (u. 107, eliminada) e dá nova redação à alínea n) (u. 106).",
+  "Alt. 4 (DL 48316), art. 6.º: nova redação da regra 7.ª do art. 15.º (u. 164, copiada como vem, '7.º'); adita o § 3.º ao art. 29.º (inserido depois da u. 231); adita o n.º 17.º ao art. 85.º - como o alterador 9 lhe dá nova redação, o n.º 17.º é inserido (depois da u. 353) já com o texto do alterador 9. Os arts. 1.º-5.º alteram outros códigos.",
+  "Alt. 5 (DL 49483), art. 7.º: art. 33.º - corpo igual, nova tabela só em imagem (não aplicada); art. 124.º - corpo com a taxa de 24 por cento (u. 429). Os restantes artigos alteram outros códigos.",
+  "Alt. 6 (DL 542/71): art. 4.º adita a alínea z\") ao n.º 1.º do art. 8.º (inserida depois da u. 116, a seguir à z') do alterador 1); art. 5.º adita § único ao art. 111.º (inserido depois da u. 406). Os restantes artigos alteram outros códigos.",
+  "Alt. 7 (DL 718/73), art. 7.º: art. 33.º - corpo igual, nova tabela só em imagem (não aplicada). Os restantes artigos alteram outros códigos.",
+  "Alt. 8 (DL 375/74): arts. 12.º e 13.º elevam a dedução dos rendimentos do trabalho e as deduções por filhos do art. 29.º sem nova redação do código; o alterador 10 dá depois a redação do art. 29.º com esses valores, aplicada como alteração do alterador 10. Art. 14.º substitui a tabela do art. 33.º (só em imagem, não aplicada). Os restantes artigos não são do código.",
+  "Alt. 9 (DL 756/75), art. 1.º: eliminados os arts. 98.º, 99.º, 101.º e 108.º (u. 385-386, 389, 401 ficam vazias); nova redação: art. 16.º regra 1.ª (u. 169), 41.º (257), 43.º (259), 44.º corpo (260; § único igual), 55.º (275), 56.º § 2.º (279), 61.º § único (288), 62.º § 1.º (290), 69.º § único aditado (depois da u. 302), 83.º inteiro sem o antigo § único (326-327; o seu conteúdo passa ao 160.º-A), 84.º inteiro (328-335), 85.º n.os 5.º (342), 11.º '(Suprimido.)' (348), 15.º (352) e 17.º (inserido depois da u. 353), 88.º inteiro (359-362), 89.º corpo (363), 91.º n.º 1.º (367), 92.º com §§ 1.º e 2.º (369), 93.º (a redação final é a do alterador 10), 96.º (383), 97.º com § único (384), 100.º com § único (387), 102.º e 103.º com § único (390, 391), 104.º (392), 106.º (396), 107.º (redação final do alterador 10) e 161.º (504). Art. 2.º adita os arts. 86.º-A (depois da u. 355), 94.º-A (depois da u. 380), 97.º-A e 97.º-B (depois da u. 384; o 97.º-B com a redação do alterador 10), 103.º-A e 103.º-B (depois da u. 391; o 103.º-A com a redação do alterador 10, sem os §§), 105.º-A (depois da u. 394), 106.º-A (depois da u. 396), 108.º-B (depois da u. 401) e 160.º-A (depois da u. 503); os arts. 93.º-A e 108.º-A, aditados aqui, são eliminados pelo alterador 10 e não se inserem. Arts. 3.º-6.º são transitórios, fora do código.",
+  "Alt. 10 (DL 225-C/76), art. 1.º: eliminados o art. 66.º (u. 299 vazia), o § 1.º do art. 124.º (u. 430 vazia; o § 2.º mantém o número) e os arts. 93.º-A e 108.º-A (não inseridos); nova redação: art. 4.º § único (83), 7.º c) (90), 8.º n.º 1.º a) e c) (94, 96), n.º 2.º proémio, d) e e) (117, 121-122), 9.º (126), 11.º corpo (130), novo parágrafo no fim do n.º 1.º (inserido depois da u. 133) e §§ 3.º a 7.º (137-141), 14.º (146-150), 15.º regras 3.ª e 8.ª (157, 165), 16.º corpo e regra 2.ª (168, 170), 17.º § 2.º (177), 18.º regras 3.ª e 4.ª (182-183), 21.º, 22.º e 23.º inteiros sem §§ (190-195), 24.º corpo, § 2.º e §§ 3.º e 4.º '(Suprimido.)' (196, 201-203), 25.º com § único (206), 26.º (207-208), 27.º com §§ (209), 29.º corpo, deduções por filhos e § 2.º (220, 224-228, 231), 30.º c) e § 1.º (235, 238), 35.º § único aditado (depois da u. 248), 39.º (253), 40.º (254-256), 45.º, 47.º, 48.º (262, 264, 265), 49.º com § único (267), 50.º (268), 51.º corpo e § 1.º (269-270) e § 3.º (depois da u. 271), 59.º (285), 64.º (294-297), 65.º (298), 93.º (370-371, também alterado pelo alterador 9), 97.º-B e 103.º-A (inseridos com esta redação), 107.º (398-399), 111.º corpo (406), 125.º corpo (432) e 126.º §§ 1.º e 2.º (depois da u. 438). Art. 2.º adita os arts. 8.º-A (depois da u. 125), 25.º-A (depois da u. 206), 30.º-A (depois da u. 240), 68.º-A (depois da u. 301) e 150.º-A (depois da u. 492). Arts. 3.º-13.º são transitórios, fora do código.",
+  "Alt. 11 (Declaração de 12-4-1976): publica novos modelos (anexos 1, 2 e 3, declaração modelo n.º 1 e relação modelo n.º 5) só em imagem - não aplicado."
+ ]
+}

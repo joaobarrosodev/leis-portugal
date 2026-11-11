@@ -1,0 +1,49 @@
+{
+  "id": "pt:dre:234756:por",
+  "substituicoes": [
+    {
+      "de": 78,
+      "ate": 82,
+      "texto": "Pessoal:\n\nTécnico de justiça principal - 1;\n\nTécnico de justiça-adjunto - 2;\n\nTécnico de justiça auxiliar - 2.",
+      "alterador": [
+        3
+      ]
+    },
+    {
+      "de": 265,
+      "ate": 6853,
+      "texto": "(Revogado.)",
+      "alterador": [
+        6
+      ]
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "passagem 1: Alteradores 1 (Portaria 821/2005, n.os 1.º e 2.º e anexo), 2 (Portaria 949/2007, anexo), 3 (Portaria 170/2009, parte do anexo II relativa a Loures), 4 (Portaria 309/2011, anexo) e 5 (Portaria 83/2012, anexo) alteram só os quadros dos tribunais judiciais de 1.ª instância (unidades 265-6853), que a Portaria 161/2014 (art. 8.º) depois revoga; ficam absorvidos pela revogação e não se aplicam em separado. O anexo I da Portaria 170/2009 aprova quadros próprios de novas comarcas, não altera o texto do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 821/2005): 1.º altera pelo anexo quadros de Guimarães, Lisboa, Loures, Maia, Oeiras, Porto e Sintra (1.ª instância); 2.º muda a designação das secretarias-gerais de serviço externo de Lisboa e Porto (1.ª instância); 3.º revoga outra portaria. Tudo absorvido pela revogação da 1.ª instância pelo alterador 6.",
+    "Alterador 2 (Portaria 949/2007): art. 1.º e anexo alteram quadros de 1.ª instância (Almada a Vila Nova de Gaia); arts. 2.º-3.º são normas de transição. Absorvido pela revogação do alterador 6.",
+    "Alterador 3 (Portaria 170/2009): art. 11.º e anexo II alteram os Serviços do Ministério Público da Relação de Coimbra: unidades 78-82 substituídas pelo novo pessoal (TJ principal 1, TJ-adjunto 2, TJ auxiliar 2). A parte de Loures (1.ª instância) fica absorvida pela revogação; o anexo I (novas comarcas) não altera o original.",
+    "Alterador 4 (Portaria 309/2011): anexo altera quadros de Braga, Lisboa, Oeiras, Porto e São João da Madeira (1.ª instância). Absorvido pela revogação do alterador 6.",
+    "Alterador 5 (Portaria 83/2012): anexo cria/altera quadros em Lisboa e Santarém (1.ª instância). Absorvido pela revogação do alterador 6.",
+    "Alterador 6 (Portaria 161/2014, art. 8.º): revoga a Portaria 721-A/2000 na parte relativa aos quadros de pessoal dos tribunais judiciais de 1.ª instância: unidades 265-6853 (de Abrantes até ao fim da 1.ª instância, antes de 'Tribunais administrativos') substituídas por '(Revogado.)', mantendo o título 264."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "chars": 123721,
+      "texto_em_ficheiro": true
+    }
+  ],
+  "problemas": []
+}

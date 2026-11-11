@@ -1,0 +1,19 @@
+{
+ "id": "pt:dre:476880:por",
+ "passagens": [
+  {
+   "n": 1,
+   "alteradores": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "chars": 91707,
+   "texto_em_ficheiro": true
+  }
+ ],
+ "feito": true
+}

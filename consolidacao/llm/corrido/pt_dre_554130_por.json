@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:554130:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "passagem 1: Alterador 1 (Declaração de Rectificação n.º 30/2006): retifica no quadro n.º 1 (INTERREG III B Açores-Madeira-Canárias), primeira linha da tabela, «FEDER - (euro) x 1000» para «FEDER - (euro) x 100»; o quadro só existe em imagem no texto atual (unidade 1916, '(ver quadro no documento original)'), sem texto onde aplicar.",
+  "instrucoes": [
+    "Alterador 1: retificação do cabeçalho 'FEDER - (euro) x 1000' para 'x 100' na primeira linha do quadro n.º 1 (unidades 1913-1916); o quadro é só imagem (unidade 1916), não aplicado, registado em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "passagens": [
+    {
+      "n": 1,
+      "alteradores": [
+        1
+      ],
+      "chars": 1782,
+      "texto_em_ficheiro": true
+    }
+  ],
+  "problemas": []
+}

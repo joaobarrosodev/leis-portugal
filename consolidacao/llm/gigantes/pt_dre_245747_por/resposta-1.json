@@ -1,0 +1,25 @@
+{
+ "id": "pt:dre:245747:por",
+ "substituicoes": [
+  {
+   "de": 34,
+   "ate": 1000,
+   "copiar": {
+    "alterador": 1,
+    "primeiro": "CAPÍTULO I",
+    "ultimo": "9 - A arbitragem decorre em Lisboa, funcionando o tribunal de acordo com as regras fixadas no Contrato de Concessão"
+   },
+   "alterador": 1
+  }
+ ],
+ "insercoes": [],
+ "nao_aplicavel": null,
+ "instrucoes": [
+  "Art. 1.º altera as bases I, II, IV a IX, XI a XX, XXII a XXXV, XXXVII a XLIII, XLV a LXI, LXVI a LXXII, LXXIV a LXXXIV e LXXXVI a XCI: abrangido pela republicação.",
+  "Art. 2.º adita as bases XVIII-A, XIX-A, XXXIV-A, LVII-A a LVII-BB, LXV-A a LXV-E, LXXXVI-A, LXXXIX-A e LXXXIX-B: abrangido pela republicação.",
+  "Art. 3.º alterações sistemáticas (epígrafes dos capítulos VII, X, XII, XVII, XXI; aditados capítulo X-A com secções e capítulo XXIII-A): abrangido pela republicação.",
+  "Art. 5.º revoga alíneas da base I, n.os de várias bases e as bases LXII a LXV: abrangido pela republicação (que as traz como [Revogada]).",
+  "Art. 6.º republica as bases com a redação atual: as unidades 34 a 1000 (todo o Anexo I, do capítulo I ao n.º 9 da base XCI) são substituídas com 'copiar' pelo texto republicado do anexo do alterador, de 'CAPÍTULO I' ao n.º 9 da base XCI; mantém-se o título {{33}} do Anexo I.",
+  "Arts. 4.º e 7.º (outorga do contrato de alteração, entrada em vigor) não alteram o texto do original; artigos 1.º a 6.º do Decreto-Lei 55-A/2000 não são alterados."
+ ]
+}

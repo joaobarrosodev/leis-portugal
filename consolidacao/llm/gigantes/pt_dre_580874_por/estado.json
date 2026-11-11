@@ -1,0 +1,18 @@
+{
+ "id": "pt:dre:580874:por",
+ "passagens": [
+  {
+   "n": 1,
+   "alteradores": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "chars": 97929,
+   "texto_em_ficheiro": true
+  }
+ ],
+ "feito": true
+}
