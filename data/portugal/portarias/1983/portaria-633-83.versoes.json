@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:451667:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-05-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2b12755456e99d84"
+   ]
+  },
+  {
+   "date": "1983-11-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:443746:por",
+     "title": "Portaria n.º 971/83",
+     "published": "1983-11-11",
+     "dre_path": "/dr/detalhe/portaria/971-1983-443746"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 15-15"
+   ],
+   "fragments": [
+    "043ebb5c5daa050b"
+   ]
+  }
+ ],
+ "fragments": {
+  "2b12755456e99d84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Maio\n\nAos cursos de licenciatura em Línguas e Literaturas Clássicas e Modernas que incluem as disciplinas de Latim I e Grego I no 1.º ano dos planos de estudos fixados pelo [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio, tiveram excepcionalmente acesso alunos que não frequentaram estas disciplinas no ensino secundário.\n\nPara obviar as dificuldades sentidas por estes alunos no acompanhamento do programa destas disciplinas, a Faculdade de Letras da Universidade de Lisboa tem vindo a organizar turmas que seguem diferentes programas.\n\nPonderada esta experiência, considera o conselho científico que não é legítimo que alunos com preparação tão diferenciada obtenham idênticos benefícios, pelo que as disciplinas de Latim I e Grego I devem ser realizadas por todos os alunos em paridade de condições.\n\nTransitoriamente, enquanto existirem alunos nas condições referidas no n.º 1.º e para estes, as cadeiras de Latim I, II e III e Grego I, II e III deslocam-se para o ano seguinte do plano de estudos e o 1.º ano passa a ser integrado, respectivamente, por cursos elementares de Latim e Grego.\n\nEsta medida tem por objectivo suprir as lacunas de formação dos alunos em disciplinas fundamentais e, simultaneamente, garantir o mesmo nível de formação a todos os licenciados.\n\nSendo os cursos elementares substitutos de disciplinas que deveriam ser obtidas a nível secundário, a classificação neles obtida não será levada em conta na atribuição da classificação final da licenciatura.\n\nAssim, sob proposta do conselho científico da Faculdade de Letras da Universidade de Lisboa;\n\nTendo em vista o disposto no [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio;\n\nAo abrigo do disposto no n.º 1 do artigo 5.º do [Decreto n.º 131/82](https://diariodarepublica.pt/dr/detalhe/decreto/131-1982-379910), de 27 de Novembro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:\n\n1.º\n\n(Âmbito)\n\nO disposto na presente portaria aplica-se aos alunos que, sem terem obtido aprovação em disciplinas de Grego ou Latim no ensino secundário, se matricularam e inscreveram na Faculdade de Letras da Universidade de Lisboa em qualquer das variantes do curso de licenciatura em Línguas e Literaturas Clássicas e nas variantes do curso de licenciatura em Línguas e Literaturas Modernas com disciplinas de Latim no plano de estudos.\n\n2.º\n\n(Alterações aos planos de estudo)\n\nPara os alunos nas condições referidas no n.º 1.º os planos de estudo fixados no [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio, apresentarão as seguintes modificações:\n\n1) Línguas e Literaturas Clássicas (todas as variantes)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19841985.pdf)\n\nII) Línguas e Literaturas Modernas (variantes com disciplinas de Latim no plano de estudos)\n\n1.º ano:\n\nCurso Elementar de Latim - em substituição de - Latim I.\n\n2.º ano:\n\nLatim I - em substituição de - Latim II.\n\n3.º ano:\n\nLatim II - Acrescentado ao plano de estudos fixado para cada uma das variantes.\n\n3.º\n\n(Classificação final)\n\nA classificação obtida nos cursos elementares de Grego e de Latim não será levada em conta para a classificação final das licenciaturas referidas no n.º 2.º\n\n4.º\n\n(Opções complementares)\n\nOs cursos elementares de Grego e de Latim poderão igualmente ser frequentados por alunos de outros cursos como opções complementares, de acordo com o previsto no artigo 4.º do [Decreto n.º 131/82](https://diariodarepublica.pt/dr/detalhe/decreto/131-1982-379910), de 27 de Novembro.\n\nMinistério da Educação.\n\nAssinada em 11 de Maio de 1983.\n\nPelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensino Superior."
+  },
+  "043ebb5c5daa050b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1983-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 971/83](https://diariodarepublica.pt/dr/detalhe/portaria/971-1983-443746), publicado em 1983-11-11."
+   ],
+   "markdown": "de 31 de Maio\n\nAos cursos de licenciatura em Línguas e Literaturas Clássicas e Modernas que incluem as disciplinas de Latim I e Grego I no 1.º ano dos planos de estudos fixados pelo [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio, tiveram excepcionalmente acesso alunos que não frequentaram estas disciplinas no ensino secundário.\n\nPara obviar as dificuldades sentidas por estes alunos no acompanhamento do programa destas disciplinas, a Faculdade de Letras da Universidade de Lisboa tem vindo a organizar turmas que seguem diferentes programas.\n\nPonderada esta experiência, considera o conselho científico que não é legítimo que alunos com preparação tão diferenciada obtenham idênticos benefícios, pelo que as disciplinas de Latim I e Grego I devem ser realizadas por todos os alunos em paridade de condições.\n\nTransitoriamente, enquanto existirem alunos nas condições referidas no n.º 1.º e para estes, as cadeiras de Latim I, II e III e Grego I, II e III deslocam-se para o ano seguinte do plano de estudos e o 1.º ano passa a ser integrado, respectivamente, por cursos elementares de Latim e Grego.\n\nEsta medida tem por objectivo suprir as lacunas de formação dos alunos em disciplinas fundamentais e, simultaneamente, garantir o mesmo nível de formação a todos os licenciados.\n\nSendo os cursos elementares substitutos de disciplinas que deveriam ser obtidas a nível secundário, a classificação neles obtida não será levada em conta na atribuição da classificação final da licenciatura.\n\nAssim, sob proposta do conselho científico da Faculdade de Letras da Universidade de Lisboa;\n\nTendo em vista o disposto no [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio;\n\nAo abrigo do disposto no n.º 1 do artigo 5.º do [Decreto n.º 131/82](https://diariodarepublica.pt/dr/detalhe/decreto/131-1982-379910), de 27 de Novembro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:\n\n1.º\n\n(Âmbito)\n\nO disposto na presente portaria aplica-se aos alunos que, sem terem obtido aprovação em disciplinas de Grego ou Latim no ensino secundário, se matricularem e inscreverem na Faculdade de Letras da Universidade de Lisboa em qualquer das variantes do curso de licenciatura em Línguas e Literaturas Clássicas e nas variantes do curso de licenciatura em Línguas e Literaturas Modernas com disciplinas de Latim no plano de estudos.\n\n> Alterado pelo/a [Portaria n.º 971/83](https://diariodarepublica.pt/dr/detalhe/portaria/971-1983-443746), publicado em 1983-11-11.\n\n2.º\n\n(Alterações aos planos de estudo)\n\nPara os alunos nas condições referidas no n.º 1.º os planos de estudo fixados no [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio, apresentarão as seguintes modificações:\n\n1) Línguas e Literaturas Clássicas (todas as variantes)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/12500/19841985.pdf)\n\nII) Línguas e Literaturas Modernas (variantes com disciplinas de Latim no plano de estudos)\n\n1.º ano:\n\nCurso Elementar de Latim - em substituição de - Latim I.\n\n2.º ano:\n\nLatim I - em substituição de - Latim II.\n\n3.º ano:\n\nLatim II - Acrescentado ao plano de estudos fixado para cada uma das variantes.\n\n3.º\n\n(Classificação final)\n\nA classificação obtida nos cursos elementares de Grego e de Latim não será levada em conta para a classificação final das licenciaturas referidas no n.º 2.º\n\n4.º\n\n(Opções complementares)\n\nOs cursos elementares de Grego e de Latim poderão igualmente ser frequentados por alunos de outros cursos como opções complementares, de acordo com o previsto no artigo 4.º do [Decreto n.º 131/82](https://diariodarepublica.pt/dr/detalhe/decreto/131-1982-379910), de 27 de Novembro.\n\nMinistério da Educação.\n\nAssinada em 11 de Maio de 1983.\n\nPelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensino Superior."
+  }
+ }
+}

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-10-11'
+version_history:
+  file: portaria-884-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-08-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-11'
+    amending: pt:dre:342777:por
+    amending_title: Portaria n.º 1027/2010
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/884/2008/08/14/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:35:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1027/2010. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-884-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,7 +146,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2.º São anexados à presente zona de caça vários prédios rústicos com a área de 255 ha, sitos na mesma freguesia e município.
 
-3.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 725 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 710 ha, conforme a planta anexa a esta portaria e que dela faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 1027/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1027-2010-342777), publicado em 2010-10-06.
 
 4.º Esta anexação só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
 

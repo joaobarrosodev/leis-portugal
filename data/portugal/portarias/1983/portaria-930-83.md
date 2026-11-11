@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-11-20'
+version_history:
+  file: portaria-930-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-10-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-11-20'
+    amending: pt:dre:400822:por
+    amending_title: Portaria n.º 859/84
+    changes:
+    - Altera Artigo unidades 18-18
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:54:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 859/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-930-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,7 +164,9 @@ d) Durante o prazo do empréstimo vencer-se-ão prestações semestrais, que no 
 
 4.º O montante global dos empréstimos a conceder anualmente será sempre em função das verbas inscritas no Orçamento do Estado do respectivo ano para essas bonificações.
 
-5.º A bonificação a que se refere o n.º 2 do artigo 4.º do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, será de 6,5% ao ano.
+5.º A bonificação a que se refere o n.º 2 do artigo 4.º do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, é de um terço da taxa de juro contratual referida no n.º 1 do mesmo artigo.
+
+> Alterado pelo/a [Portaria n.º 859/84](https://diariodarepublica.pt/dr/detalhe/portaria/859-1984-400822), publicado em 1984-11-15.
 
 6.º O reembolso da bonificação será feito através do FAIH - Fundo de Apoio ao Investimento para a Habitação, em condições a acordar entre este e as restantes instituições financiadoras, de acordo com as verbas previamente destinadas a essa finalidade.
 

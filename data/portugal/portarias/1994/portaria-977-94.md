@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-10-22'
+version_history:
+  file: portaria-977-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-11-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-10-22'
+    amending: pt:dre:3440268:por
+    amending_title: Portaria n.º 1123/2004 (2.ª série)
+    changes:
+    - Altera Artigo unidades 16-28
+    - Altera Artigo unidades 30-30
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/977/1994/11/04/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:42:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1123/2004 (2.ª série).
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-977-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,35 +156,39 @@ O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - Pelo Ministro das Fi
 
 ## ANEXO I
 
-Bens imóveis integrados no património da OGMA, S. A., nos termos e para efeitos do [Decreto-Lei n.º 42/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1994-524793), de 14 de Fevereiro.
+Bens imóveis integrados no património da OGMA, S. A., nos termos e para os efeitos do [Decreto-Lei n.º 42/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1994-524793), de 14 de Fevereiro.
 
-Unidade imobiliária n.º 129, composta por terreno com a área total aproximada de 421370 m2, sito na freguesia de Alverca, município de Vila Franca de Xira, confrontando a norte e nascente com a linha do caminho de ferro, com edificações implantadas conforme planta dos anexos II e II-A a esta portaria, do qual fazem parte as parcelas a que se referem as descrições matriciais seguintes:
+Unidade imobiliária n.º 129, composta por terreno com a área total aproximada de 421 370 m2, sito na freguesia de Alverca, município de Vila Franca de Xira, confrontando de norte e nascente com a linha do caminho de ferro, com edificações implantadas conforme planta dos anexos II e II-A a esta portaria, do qual fazem parte as parcelas a que se referem as descrições matriciais seguintes:
 
-Prédio, com a área de 367117 m2, constituindo zona industrial, designado "Campo de Aviação de Alverca", sito na freguesia de Alverca, município de Vila Franca de Xira, a destacar do prédio inscrito na matriz predial rústica da referida freguesia sob parte do artigo 1 da secção Z;
+Prédio, com a área de 367 117 m2, constituindo zona industrial, designado "Campo de Aviação de Alverca", sito na freguesia de Alverca, município de Vila Franca de Xira, a destacar do prédio inscrito na matriz predial rústica da referida freguesia sob parte do artigo 1 da secção Z;
 
-Prédio, com a área de 30440 m2, designado "Adarce", sito na freguesia de Alverca, município de Vila Franca de Xira, inscrito na matriz predial rústica da referida freguesia sob o artigo 17 da secção Y, descrito na Conservatória do Registo Predial de Vila Franca de Xira sob o n.º 21530, a fl. 82 v.º do livro B-58 e inscrito a favor do Estado sob o n.º 23696, a fl. 22 v.º do livro G-29;
+Prédio com a área de 30 440 m2, constituindo zona industrial, designado "Adarce", sito na freguesia de Alverca, município de Vila Franca de Xira, inscrito na matriz predial rústica da referida freguesia sob o artigo 17 da secção Y, descrito na Conservatória do Registo Predial de Vila Franca de Xira sob o n.º 21 530, a fl. 82 v.º do livro B-58 e inscrito a favor do Estado sob o n.º 23 696, a fl. 22 v.º do livro G-29;
 
-Prédio, com a área de 24120 m2, designado "Sapal do Adarce", sito na freguesia de Alverca, município de Vila Franca de Xira, inscrito na matriz predial rústica da referida freguesia sob o artigo 7 da secção Y, descrito na Conservatória do Registo Predial de Vila Franca de Xira sob o n.º 18577, a fl. 178 v.º do livro B-48, e inscrito a favor do Estado sob o n.º 24233, a fl. 160 do livro G-29.
+Prédio com a área de 24 120 m2, constituindo zona industrial, designado "Sapal do Adarce", sito na freguesia de Alverca, município de Vila Franca de Xira, inscrito na matriz predial rústica da referida freguesia sob o artigo 7 da secção Y, descrito na Conservatória do Registo Predial de Vila Franca de Xira sob o n.º 18 577, a fl. 178 v.º do livro B-48, e inscrito a favor do Estado sob o n.º 24 233, a fl. 160 do livro G-29.
 
-Unidade imobiliária n.º 130, composta por duas moradias sitas em Alverca, nos designados "Bairros Novos", município de Vila Franca de Xira, localizadas no anexo II-B a esta portaria: uma com a área bruta de 344 m2, de dois pisos de rés-do-chão e cave, designada por bloco n.º 1; outra com a área bruta de 90 m2, de um piso de rés-do-chão, designada por bloco n.º 3. A estas moradias correspondem as descrições complementares a seguir indicadas:
+Unidade imobiliária n.º 130, composta por duas moradias sitas em Alverca, nos designados "Bairros Novos", município de Vila Franca de Xira, localizadas no anexo II-B a esta portaria: uma com a área coberta de 85,97 m2, e o logradouro de 188,07 m2, de dois pisos de rés-do-chão e cave, designada por bloco n.º 1; outra com a área coberta de 79,02 m2 e o logradouro de 120,88 m2, de um piso de rés-do-chão, designada por bloco n.º 3-A estas moradias correspondem as descrições complementares a seguir indicadas:
 
-Prédio sito na freguesia de Alverca, município de Vila Franca de Xira, inscrito na matriz predial urbana da referida freguesia sob o artigo 2276, com entrada pelo n.º 3 da Rua do Coronel Henrique Mora, em Alverca, tornejando a sul e poente para a Rua de Joaquim Sabino Faria;
+Prédio sito na freguesia de Alverca, município de Vila Franca de Xira, inscrito na matriz predial urbana da referida freguesia sob o artigo 2276, com entrada pelo n.º 3 da Rua do Coronel Henrique Mora, em Alverca;
 
-Prédio sito na freguesia de Alverca, município de Vila Franca de Xira, de um piso de rés-do-chão, com entrada pelo n.º 78 da Avenida do Capitão Almeida Meleças, tornejando a nascente e sul para a Rua do Coronel Henrique Mora.
+Prédio sito na freguesia de Alverca, município de Vila Franca de Xira, omisso na matriz, com entrada pelo n.º 78 da Avenida do Capitão Almeida Meleças, em Alverca.
 
-Unidade imobiliária n.º 131, composta por quatro moradias sitas em Alverca, nos designados "Bairros Novos", município de Vila Franca de Xira, localizadas no anexo II-B a esta portaria: uma com a área bruta de 172 m2, de dois pisos de cave e rés-do-chão, designada por bloco n.º 4; outra com a área bruta de 344 m2, de dois pisos, de cave e rés-do-chão, designada por bloco n.º 5; a terceira com a área bruta 344 m2, de dois pisos, designada por bloco n.º 6, e a quarta com a área bruta de 172 m2, de dois pisos, designada por bloco n.º 7. A estas moradias correspondem as descrições complementares a seguir indicadas:
+Unidade imobiliária n.º 131, composta por quatro moradias sitas em Alverca, nos designados "Bairros Novos", município de Vila Franca de Xira, localizadas no anexo II-B a esta portaria: uma com a área coberta de 90,40 m2 e o logradouro de 158,53 m2, de dois pisos de cave e rés-do-chão, designada por bloco n.º 4; outra com a área coberta de 170,41 m2 e o logradouro de 334,14 m2 de dois pisos de cave e rés-do-chão, designada por bloco n.º 5; a terceira com a área coberta de 170,41 m2 e o logradouro de 348,08 m2, de dois pisos de cave e rés-do-chão, designada por bloco n.º 6, e a quarta com a área coberta de 85,97 m2 e o logradouro de 262,96 m2, de dois pisos de cave e rés-do-chão, designada por bloco n.º 7-A estas moradias correspondem as descrições complementares a seguir indicadas:
 
-Prédio sito na freguesia de Alverca, município de Vila Franca de Xira, inscrito na matriz predial urbana da referida freguesia sob o artigo 2275;
+Prédio sito na freguesia de Alverca, município de Vila Franca de Xira, inscrito na matriz predial urbana da referida freguesia sob o artigo 2275, com entrada pelo n.º 32 da Rua de Joaquim Sabino Faria, em Alverca;
 
-Prédio sito na freguesia de Alverca, município de Vila Franca de Xira, inscrito na matriz predial urbana da referida freguesia sob o artigo 2274;
+Prédio sito na freguesia de Alverca, município de Vila Franca de Xira, inscrito na matriz predial urbana da referida freguesia sob o artigo 2274, com entrada pelos n.os 28 e 30 da Rua de Joaquim Sabino Faria, em Alverca;
 
-Prédio sito na freguesia de Alverca, município de Vila Franca de Xira, inscrito na matriz predial urbana da referida freguesia sob o artigo 2277;
+Prédio sito na freguesia de Alverca, município de Vila Franca de Xira, inscrito na matriz predial urbana da referida freguesia sob o artigo 2277, com entrada pelos n.os 102 e 104, da Avenida do Infante D. Pedro, em Alverca;
 
-Prédio sito na freguesia de Alverca, município de Vila Franca de Xira, de dois pisos de rés-do-chão e cave, com entrada pelos n.os 96 e 100 do Ramal da Estrada Nacional n.º 1 para a Estação da CP.
+Prédio sito na freguesia de Alverca, município de Vila Franca de Xira, omisso na matriz, com entrada pelo n.º 96 da Avenida do Infante D. Pedro, em Alverca.
+
+> Alterado pelo/a [Portaria n.º 1123/2004 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/1123-2004-3440268), publicado em 2004-10-22.
 
 Unidade imobiliária n.º 132, denominada "Casa das Bombas/PT" e utilizada como estação elevatória de águas, composta por terreno com a área de 1084 m2, com edifício implantado de 140 m2 de área bruta de construção, sita na freguesia de Alverca, município de Vila Franca de Xira, localizada no anexo II a esta portaria. À unidade imobiliária corresponde a descrição matricial a seguir indicada:
 
-Prédio, com a área de 1084 m2, designado "Casa das bombas/PT", sito na freguesia de Alverca, concelho de Vila Franca de Xira, inscrito na matriz predial rústica da referida freguesia sob o artigo 35 da secção V, a destacar do prédio descrito sob o n.º 418-b), no livro B-V int.º, e inscrito sob os n.os 24017 e 24170, no livro G-29, da Conservatória do Registo Predial de Vila Franca de Xira.
+Prédio, com a área de 1084 m2, designado "Casa das Bombas/PT", sito na freguesia de Alverca, concelho de Vila Franca de Xira, inscrito na matriz predial rústica da referida freguesia sob o artigo 35 da secção V, a destacar do prédio descrito sob o n.º 418-b), no livro B-V int.º, e inscrito sob os n.os 24 017 e 24 170, no livro G-29, da Conservatória do Registo Predial de Vila Franca de Xira.
+
+> Alterado pelo/a [Portaria n.º 1123/2004 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/1123-2004-3440268), publicado em 2004-10-22.
 
 Unidade imobiliária n.º 133, denominada "Depósito de água e câmara de manobra", composta por terreno com a área de 601 m2, com construções diversas de 140 m2 de área bruta de construção total, sita na freguesia de Alverca, município de Vila Franca de Xira, localizada no anexo II a esta portaria.
 

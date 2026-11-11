@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-04-30'
+version_history:
+  file: portaria-243-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-04-30'
+    amending: pt:dre:408907:por
+    amending_title: Declaração de Rectificação n.º 10-Z/99
+    changes:
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/243/1999/04/07/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:14:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 10-Z/99.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-243-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,6 +149,8 @@ Considerando finalmente que alguns organismos deste Ministério celebraram já p
 
 Manda o Governo, pelos Ministros das Finanças e da Cultura, que os donativos a atribuir às actividades e programas culturais a realizar, no período de 1998 e 1999, pelas entidades Associação Comercial de Aveiro, Associação Euro-Parques Centro Económico e Cultural, Associação World Monuments Fund - Portugal, Colectividade Cultural e Recreativa de Santa Catarina - Chapitô, Comissão Organizadora do Cinanima, Ecomuseu do Zêzere, Fundação Bissaya-Barreto, Fundação Calouste Gulbenkian e serviços dependentes, Fundação Casa de Mateus, Fundação Luso-Brasileira para o Desenvolvimento do Mundo de Língua Portuguesa, Fundação Mário Soares, Fundação Ricardo do Espírito Santo Silva, Lithoartis e Observatório das Actividades Culturais, bem como pelas entidades do Ministério da Cultura que prosseguem as actividades acima referidas: Delegação Regional da Cultura do Norte, Delegação Regional da Cultura do Centro, Delegação Regional da Cultura do Alentejo, Delegação Regional da Cultura do Algarve, Gabinete das Relações Internacionais, Fundo de Fomento Cultural, Instituto Português do Património Arquitectónico e serviços dependentes, Instituto Português de Arqueologia e serviços dependentes, Instituto Português de Museus e serviços dependentes, Instituto de Arte Contemporânea, Centro Português de Fotografia, Instituto Português da Arte Cinematográfica e Audiovisual, Cinemateca Portuguesa - Museu do Cinema, Biblioteca Nacional, Instituto Português do Livro e das Bibliotecas e serviços dependentes, Instituto dos Arquivos Nacionais/Torre do Tombo e serviços dependentes, Instituto Português das Artes do Espectáculo, Teatro Nacional D. Maria II, Teatro Nacional de São João, Teatro Nacional de São Carlos, Companhia Nacional de Bailado, Orquestra Nacional do Porto, Fundação de Serralves e Fundação das Descobertas, ficam abrangidos pelo n.º 3 do artigo 39.º do CIRC, sendo considerados custos ou perdas do exercício na sua totalidade.
 
-Assinada em 29 de Março de 1999.
+Assinada em 29 de Dezembro de 1998.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 10-Z/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-z-1999-408907), publicado em 1999-04-30.
 
 O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Cultura, Manuel Maria Ferreira Carrilho.

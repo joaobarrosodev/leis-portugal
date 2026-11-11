@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-01-31'
+version_history:
+  file: portaria-1221-b-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-12-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-01-31'
+    amending: pt:dre:444270:por
+    amending_title: Declaração de Rectificação n.º 25/91
+    changes:
+    - Altera Artigo unidades 32-32
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:12:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 25/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-1221-b-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -177,7 +192,9 @@ a) Consumos domésticos - todos aqueles que não estejam incluídos nas alíneas
 
 b) Consumos não domésticos:
 
-b.1) Consumos de actividades comerciais, industriais, agrícolas e similares - aqueles que resultam da utilização de água no exercício de actividades comerciais, industriais ou agrícolas, incluindo os consumos das empresas públicas e das profissões liberais e dos registos por contadores em nome de quaisquer sociedades;
+b.1) Consumos de actividades comerciais, industriais, agrícolas e similares - aqueles que resultam da utilização de água no exercício de actividades comerciais, industriais ou agrícolas, incluindo os consumos das empresas públicas e das profissões liberais e dos registados por contadores em nome de quaisquer sociedades;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 25/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/25-1991-444270), publicado em 1991-01-31.
 
 b.2) Consumos de instituições e agremiações privadas de beneficência, culturais, desportivas e de interesse público e das autarquias de Lisboa, com exclusão dos da respectiva Câmara Municipal - aqueles que são utilizados em instalações exclusivamente afectas ao exercício de actividades próprias de tais entidades;
 

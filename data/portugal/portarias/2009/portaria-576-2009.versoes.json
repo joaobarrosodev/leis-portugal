@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:494192:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-06-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a5527ef6a069fc35"
+   ]
+  },
+  {
+   "date": "2010-12-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:306943:por",
+     "title": "Portaria n.º 1282/2010",
+     "published": "2010-12-16",
+     "dre_path": "/dr/detalhe/portaria/1282-2010-306943"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8"
+   ],
+   "fragments": [
+    "4533b0f1078d625b"
+   ]
+  }
+ ],
+ "fragments": {
+  "a5527ef6a069fc35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Junho\n\nPela [Portaria n.º 739/2003](https://diariodarepublica.pt/dr/detalhe/portaria/739-2003-647115), de 8 de Agosto, alterada pela Portaria n.º 320/2008, de 24 de Abril, foi criada a zona de caça municipal da Ribeira do Roxo (processo n.º 3245-AFN), situada no município de Aljustrel, válida até 8 de Agosto de 2009, e transferida a sua gestão para a Associação de Caçadores dos Gasparões.\n\nEntretanto, a entidade titular veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no artigo 21.º, em conjugação com o estipulado na alínea a) do artigo 18.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a actual redacção;\n\nOuvido o Conselho Cinegético Municipal:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria esta zona de caça bem como a transferência de gestão são renovadas, por um período de seis anos, englobando vários terrenos cinegéticos sitos na freguesia de São João de Negrilhos, município de Aljustrel, com a área de 800 ha.\n\n2.º A presente portaria produz efeitos a partir do dia 9 de Agosto de 2009.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 22 de Maio de 2009."
+  },
+  "4533b0f1078d625b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2010-12-21",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1282/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1282-2010-306943), publicado em 2010-12-16."
+   ],
+   "markdown": "de 1 de Junho\n\nPela [Portaria n.º 739/2003](https://diariodarepublica.pt/dr/detalhe/portaria/739-2003-647115), de 8 de Agosto, alterada pela Portaria n.º 320/2008, de 24 de Abril, foi criada a zona de caça municipal da Ribeira do Roxo (processo n.º 3245-AFN), situada no município de Aljustrel, válida até 8 de Agosto de 2009, e transferida a sua gestão para a Associação de Caçadores dos Gasparões.\n\nEntretanto, a entidade titular veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no artigo 21.º, em conjugação com o estipulado na alínea a) do artigo 18.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a actual redacção;\n\nOuvido o Conselho Cinegético Municipal:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria esta zona de caça bem como a transferência de gestão são renovadas, por um período de seis anos, englobando vários terrenos cinegéticos sitos na freguesia de São João de Negrilhos, município de Aljustrel, com a área de 727 ha.\n\n> Alterado pelo/a [Portaria n.º 1282/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1282-2010-306943), publicado em 2010-12-16.\n\n2.º A presente portaria produz efeitos a partir do dia 9 de Agosto de 2009.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 22 de Maio de 2009."
+  }
+ }
+}

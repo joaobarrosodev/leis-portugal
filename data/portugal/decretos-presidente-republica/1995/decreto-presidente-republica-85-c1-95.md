@@ -31,10 +31,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-02-14'
+version_history:
+  file: decreto-presidente-republica-85-c1-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-02-14'
+    amending: pt:dre:619733:por
+    amending_title: Declaração de Rectificação n.º 3/96
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decpresrep/85-c1/1995/12/22/p/dre/pt/html
@@ -60,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:21:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 3/96.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-presidente-republica/1995/decreto-presidente-republica-85-c1-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -99,7 +114,9 @@ de 22 de Dezembro
 
 O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:
 
-São indultadas, na parte não cumprida, as penas de prisão aplicadas a Vítor Manuel Duarte das Neves, de 41 anos de idade, no processo de querela n.º 127/77 do Tribunal Judicial de Penacova, no processo de querela n.º 2023/87 do Tribunal Judicial do Seixal, no processo de querela n.º 779/85 da 3.ª Secção da 4.ª Vara Criminal de Lisboa e no processo de querela n.º 305/81 da 2.ª Secção da 7.ª Vara Criminal de Lisboa.
+São indultadas, na parte não cumprida, as penas de prisão aplicadas a Vítor Manuel Duarte das Neves, de 41 anos de idade, no processo de querela n.º 122/77 do Tribunal Judicial de Penacova, no processo de querela n.º 2023/87 do Tribunal Judicial do Seixal, no processo de querela n.º 779/85 da 3.ª Secção da 4.ª Vara Criminal de Lisboa e no processo de querela n.º 305/81 da 2.ª Secção da 7.ª Vara Criminal de Lisboa.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 3/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-1996-619733), publicado em 1996-02-14.
 
 Assinado em 22 de Dezembro de 1995.
 

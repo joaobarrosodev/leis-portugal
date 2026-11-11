@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:517261:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-03-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "27b46e1b1d7b116f"
+   ]
+  },
+  {
+   "date": "2001-10-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:621509:por",
+     "title": "Resolução do Conselho de Ministros n.º 151/2001",
+     "published": "2001-10-11",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/151-2001-621509"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 30-30"
+   ],
+   "fragments": [
+    "1f2620f714ede106"
+   ]
+  }
+ ],
+ "fragments": {
+  "27b46e1b1d7b116f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portugal apresenta elevados índices de sinistralidade rodoviária, que exigem a adopção de medidas de fundo capazes de a reduzir para níveis mais próximos da média europeia.\n\nPara a concretização deste objectivo é necessário que todas as entidades públicas e privadas com responsabilidades nesta área actuem de forma concertada, para o que se torna urgente criar um órgão de coordenação e de gestão estratégica de todas as componentes envolvidas no fenómeno da sinistralidade rodoviária.\n\nEste órgão, com a designação de Conselho Nacional de Segurança Rodoviária, terá por função coordenar a acção dos departamentos que participam na política de segurança rodoviária - o condutor, o veículo e a via -, numa intervenção que integre num programa coerente e eficaz cada uma destas vertentes de actuação e maximize as capacidades de cada departamento na respectiva área.\n\nO Conselho Nacional de Segurança Rodoviária exercerá as suas competências como órgão propulsor e coordenador máximo de um plano integrado de segurança rodoviária, que lhe caberá igualmente aprovar.\n\nAssim:\n\nNos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:\n\n1 - É criado o Conselho Nacional de Segurança Rodoviária.\n\n2 - O Conselho será presidido pelo Ministro da Administração Interna e terá a seguinte composição:\n\na) Comandante-geral da Polícia de Segurança Pública;\n\nb) Comandante-geral da Guarda Nacional Republicana;\n\nc) Director-geral de Viação;\n\nd) Director-geral de Transportes Terrestres;\n\ne) Director-geral da Saúde;\n\nf) Director-geral dos Assuntos Consulares e Comunidades Portuguesas;\n\ng) Director do Departamento do Ensino Básico;\n\nh) Director do Departamento do Ensino Secundário;\n\ni) Presidente da Junta Autónoma de Estradas;\n\nj) Presidente do Instituto de Seguros de Portugal;\n\nl) Presidente do Serviço Nacional de Protecção Civil;\n\nm) Presidente do Instituto Nacional de Emergência Médica;\n\nn) Presidente do Serviço Nacional de Bombeiros.\n\n3 - Compete ao Conselho Nacional de Segurança Rodoviária:\n\na) Fazer o levantamento e a articulação das medidas de segurança rodoviária a promover pelas várias entidades participantes;\n\nb) Aprovar um plano integrado de segurança rodoviária, devidamente orçamentado no âmbito de cada organismo;\n\nc) Mobilizar e apoiar as entidades com intervenção na segurança rodoviária, quer a nível nacional quer a nível local, nomeadamente as comissões distritais de segurança rodoviária;\n\nd) Acompanhar o desenvolvimento do plano integrado de segurança rodoviária, elaborando relatórios semestrais de execução e solicitando a correcção de eventuais desvios;\n\ne) Cooperar a nível internacional com as entidades com intervenção na segurança rodoviária nos percursos mais utilizados pelos portugueses residentes no estrangeiro nas suas deslocações a Portugal.\n\nf) Promover a divulgação junto dos portugueses residentes no estrangeiro das medidas de segurança rodoviária que se revistam de interesse nas suas deslocações a Portugal;\n\n4 - O Conselho poderá convidar para nele tomarem assento outras entidades cuja participação julgue conveniente no desenvolvimento dos trabalhos, nomeadamente a Associação Nacional de Municípios, a Associação Nacional de Seguradoras, a Prevenção Rodoviária Portuguesa, o Automóvel Clube de Portugal, a Liga dos Bombeiros Portugueses e a Brisa.\n\n5 - Sempre que o considere necessário, o Conselho poderá constituir grupos de trabalho para o adequado desempenho das suas competências.\n\n6 - O Conselho reúne trimestralmente, cabendo à Direcção-Geral de Viação preparar as reuniões e assegurar o seu funcionamento administrativo.\n\n7 - Por despacho do Ministro da Administração Interna, poderão ser afectadas verbas à execução de acções previstas no plano integrado de segurança rodoviária, designadamente através de fundos específicos.\n\nPresidência do Conselho de Ministros, 20 de Fevereiro de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1f2620f714ede106": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2001-10-16",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 151/2001](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/151-2001-621509), publicado em 2001-10-11."
+   ],
+   "markdown": "Portugal apresenta elevados índices de sinistralidade rodoviária, que exigem a adopção de medidas de fundo capazes de a reduzir para níveis mais próximos da média europeia.\n\nPara a concretização deste objectivo é necessário que todas as entidades públicas e privadas com responsabilidades nesta área actuem de forma concertada, para o que se torna urgente criar um órgão de coordenação e de gestão estratégica de todas as componentes envolvidas no fenómeno da sinistralidade rodoviária.\n\nEste órgão, com a designação de Conselho Nacional de Segurança Rodoviária, terá por função coordenar a acção dos departamentos que participam na política de segurança rodoviária - o condutor, o veículo e a via -, numa intervenção que integre num programa coerente e eficaz cada uma destas vertentes de actuação e maximize as capacidades de cada departamento na respectiva área.\n\nO Conselho Nacional de Segurança Rodoviária exercerá as suas competências como órgão propulsor e coordenador máximo de um plano integrado de segurança rodoviária, que lhe caberá igualmente aprovar.\n\nAssim:\n\nNos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:\n\n1 - É criado o Conselho Nacional de Segurança Rodoviária.\n\n2 - O Conselho será presidido pelo Ministro da Administração Interna e terá a seguinte composição:\n\na) Comandante-geral da Polícia de Segurança Pública;\n\nb) Comandante-geral da Guarda Nacional Republicana;\n\nc) Director-geral de Viação;\n\nd) Director-geral de Transportes Terrestres;\n\ne) Director-geral da Saúde;\n\nf) Director-geral dos Assuntos Consulares e Comunidades Portuguesas;\n\ng) Director do Departamento do Ensino Básico;\n\nh) Director do Departamento do Ensino Secundário;\n\ni) Presidente da Junta Autónoma de Estradas;\n\nj) Presidente do Instituto de Seguros de Portugal;\n\nl) Presidente do Serviço Nacional de Protecção Civil;\n\nm) Presidente do Instituto Nacional de Emergência Médica;\n\nn) Presidente do Serviço Nacional de Bombeiros.\n\n3 - Compete ao Conselho Nacional de Segurança Rodoviária:\n\na) Fazer o levantamento e a articulação das medidas de segurança rodoviária a promover pelas várias entidades participantes;\n\nb) Aprovar um plano integrado de segurança rodoviária, devidamente orçamentado no âmbito de cada organismo;\n\nc) Mobilizar e apoiar as entidades com intervenção na segurança rodoviária, quer a nível nacional quer a nível local, nomeadamente as comissões distritais de segurança rodoviária;\n\nd) Acompanhar o desenvolvimento do plano integrado de segurança rodoviária, elaborando relatórios semestrais de execução e solicitando a correcção de eventuais desvios;\n\ne) Cooperar a nível internacional com as entidades com intervenção na segurança rodoviária nos percursos mais utilizados pelos portugueses residentes no estrangeiro nas suas deslocações a Portugal.\n\nf) Promover a divulgação junto dos portugueses residentes no estrangeiro das medidas de segurança rodoviária que se revistam de interesse nas suas deslocações a Portugal;\n\n4 - O Conselho poderá convidar para nele tomarem assento outras entidades cuja participação julgue conveniente no desenvolvimento dos trabalhos, nomeadamente a Associação Nacional de Municípios, a Associação Nacional de Seguradoras, a Prevenção Rodoviária Portuguesa, o Automóvel Clube de Portugal, a Liga dos Bombeiros Portugueses, a BRISA e o Centro Rodoviário Português.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 151/2001](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/151-2001-621509), publicado em 2001-10-11.\n\n5 - Sempre que o considere necessário, o Conselho poderá constituir grupos de trabalho para o adequado desempenho das suas competências.\n\n6 - O Conselho reúne trimestralmente, cabendo à Direcção-Geral de Viação preparar as reuniões e assegurar o seu funcionamento administrativo.\n\n7 - Por despacho do Ministro da Administração Interna, poderão ser afectadas verbas à execução de acções previstas no plano integrado de segurança rodoviária, designadamente através de fundos específicos.\n\nPresidência do Conselho de Ministros, 20 de Fevereiro de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

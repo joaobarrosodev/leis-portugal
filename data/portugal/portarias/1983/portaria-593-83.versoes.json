@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:451413:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-05-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "006b13c0d20450ff",
+    "5b4099cbef408de3",
+    "1046ed528b0db2ff"
+   ]
+  },
+  {
+   "date": "1989-10-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:548786:por",
+     "title": "Portaria n.º 868/89",
+     "published": "1989-10-07",
+     "dre_path": "/dr/detalhe/portaria/868-1989-548786"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 75-92"
+   ],
+   "fragments": [
+    "006b13c0d20450ff",
+    "5b4099cbef408de3",
+    "bb89ea922691d447"
+   ]
+  }
+ ],
+ "fragments": {
+  "006b13c0d20450ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Maio\n\nSob proposta do conselho científico da Faculdade de Letras da Universidade do Porto;\n\nAo abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade do Porto, através da Faculdade de Letras, concede o grau de mestre em:\n\na) História Moderna;\n\nb) História Medieval.\n\n2.º\n\n(Organização dos cursos)\n\nOs cursos especializados conducentes aos mestrados enumerados no n.º 1.º, adiante simplesmente designados por «cursos», organizam-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Estrutura curricular)\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, constam nos anexos I e II da presente portaria.\n\n4.º\n\n(Precedências)\n\nA tabela e regime de precedências serão fixados pelo conselho científico.\n\n5.º\n\n(Habilitação de acesso)\n\n1 - São admitidos à candidatura à matrícula em cada um dos cursos os titulares das licenciaturas descritas nos anexos I e II ou habilitações legalmente equivalentes, com a classificação mínima de 14 valores.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.\n\n3 - Excepcionalmente, em casos devidamente justificados e nos termos do n.º 4 do n.º 7.º, o conselho científico poderá admitir à candidatura à matrícula no curso os titulares de outra licenciatura pelas universidades portuguesas, ou habilitação equivalente, cujo currículo demonstre uma adequada preparação científica de base.\n\n6.º\n\n(«Numerus clausus»)\n\n1 - O numerus clausus do curso será fixado anualmente por despacho do Ministro da Educação, sob proposta da Universidade.\n\n2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.\n\n3 - Poderá igualmente ser fixado no mesmo despacho um número mínimo de inscrições indispensável ao funcionamento do curso.\n\n4 - Cada proposta do numerus clausus deverá ser acompanhada de um relatório comprovativo de estarem satisfeitas as condições referidas no n.º 11.º\n\n7.º\n\n(Critérios de selecção)\n\n1 - Os candidatos à matrícula no curso serão seleccionado pelo conselho científico, tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 5.º, ou de outros graus já obtidos pelos candidatos;\n\nb) Curriculum académico, científico e técnico;\n\nd) Experiência docente.\n\n2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 2 do n.º 6.º, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino.\n\n3 - O conselho científico, poderá submeter os candidatos à matrícula a provas académicas de selecção para avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco da licenciatura ou outras como condição prévia para a candidatura à matrícula no curso.\n\n4 - Os candidatos a que se refere o n.º 3 do n.º 5.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n8.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição, bem como os regimes de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão os previstos na lei para os cursos de licenciatura, naquilo em que não forem contrariados pelo disposto na presente portaria e pela natureza do curso.\n\n9.º\n\n(Calendário)\n\nOs prazos de candidatura, inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 6.º\n\n10.º\n\n(Dispensa das provas complementares de doutoramento)\n\nOs titulares de aprovação no curso terão dispensa da prova a que se refere o n.º 5 do artigo 3.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor em Letras nas especialidades indicadas nos anexos I e II.\n\n11.º\n\n(Entrada em funcionamento)\n\nA entrada em funcionamento do curso ficará dependente da reunião pela Universidade dos recursos humanos e materiais adequados à sua completa concretização.\n\nMinistério da Educação.\n\nAssinada em 29 de Abril de 1983.\n\nO Ministro da Educação, João José Fraústo da Silva."
+  },
+  "5b4099cbef408de3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Mestrado em História Moderna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Mestrado em História Moderna\n\n1 - Área científica do curso:\n\nHistória Moderna.\n\n2 - Duração normal do curso:\n\n2 anos lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:\n\na) Obrigatórias:\n\nI) História Moderna ... 10\n\nII) Paleografia ... 2\n\nIII) Crítica Textual ... 2\n\nb) Optativas:\n\nI) Cartografia Histórica ... 6\n\nII) Métodos Quantitativos ... 6\n\nIII) Sociologia dos Fatos Religiosos ... 6\n\nTotal ... 20\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\nHistória.\n\n5 - Especialidade a que se refere o n.º 10.º:\n\nHistória Moderna e Contemporânea."
+  },
+  "1046ed528b0db2ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Mestrado em História Medieval",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Mestrado em História Medieval\n\n1 - Área científica do curso:\n\nHistória Medieval.\n\n2 - Duração normal do curso:\n\n2 anos lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:\n\na) Obrigatórias:\n\nI) História Medieval ... 10\n\nII) Paleografia ... 2\n\nIII) Crítica Textual ... 2\n\nb) Optativas:\n\nI) Cartografia Histórica ... 6\n\nII) Métodos Quantitativos ... 6\n\nIII) Sociologia dos Fatos Religiosos ... 6\n\nTotal ... 20\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\nHistória.\n\n5 - Especialidade a que se refere o n.º 10.º:\n\nHistória da Idade Média."
+  },
+  "bb89ea922691d447": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Mestrado em História Medieval",
+   "in_force_from": "1989-10-12",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 868/89](https://diariodarepublica.pt/dr/detalhe/portaria/868-1989-548786), publicado em 1989-10-07."
+   ],
+   "markdown": "## ANEXO II — Mestrado em História Medieval\n\n1 - Área científica do curso: História Medieval.\n\n2 - Duração normal do curso: dois anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau: 32.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\nI - História Medieval ... 21\n\nII - Crítica Textual ... 6\n\nIII - Paleografia ... 5\n\n5 - Licenciatura a que se refere o n.º 1.º do n.º 5.º: História.\n\n6 - Especialidade a que se refere o n.º 10.º: História da Idade Média.\n\n> Alterado pelo/a [Portaria n.º 868/89](https://diariodarepublica.pt/dr/detalhe/portaria/868-1989-548786), publicado em 1989-10-07."
+  }
+ }
+}

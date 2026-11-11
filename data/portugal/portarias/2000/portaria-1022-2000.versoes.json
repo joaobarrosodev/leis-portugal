@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:531664:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-10-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "414651df6c47c764",
+    "a548a230265f116b"
+   ]
+  },
+  {
+   "date": "2004-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:534426:por",
+     "title": "Portaria n.º 1448/2004",
+     "published": "2004-11-25",
+     "dre_path": "/dr/detalhe/portaria/1448-2004-534426"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 42-43"
+   ],
+   "fragments": [
+    "414651df6c47c764",
+    "bc8c49eb26fd203f"
+   ]
+  }
+ ],
+ "fragments": {
+  "414651df6c47c764": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Outubro\n\nSob proposta do Instituto Politécnico de Lisboa e da sua Escola Superior de Educação;\n\nConsiderando o disposto nos artigos 13.º e 31.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nConsiderando o disposto na [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto;\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro) e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nO plano de estudos do curso de licenciatura em Ensino Básico - 1.º Ciclo ministrado pela Escola Superior de Educação de Lisboa, criado pela [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto, é o fixado em anexo à presente portaria.\n\n2.º\n\nUnidades curriculares de opção\n\n1 - O elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente.\n\n2 - O número mínimo de alunos necessário ao funcionamento de cada uma das unidades curriculares de opção é de 15, sem prejuízo de ser sempre ministrada pelo menos uma.\n\n3 - Exceptuam-se do mínimo fixado no número anterior os casos em que o docente assegure a docência da unidade curricular para além do número máximo de horas de serviço de aulas a que é obrigado por lei sem encargos adicionais para a instituição.\n\n3.º\n\nAno e semestre lectivo\n\n1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n4.º\n\nRegimes escolares\n\nOs regimes de frequência, avaliação de conhecimentos, transição de ano, precedência e prescrição do direito à inscrição são fixados pelo órgão legal e estatutariamente competente.\n\n5.º\n\nCondições para a obtenção do grau\n\nÉ condição para a obtenção do grau de licenciado em Ensino Básico - 1.º Ciclo a aprovação na totalidade das unidades curriculares que integram o plano de estudos do curso.\n\n6.º\n\nClassificação final\n\n1 - A classificação final do curso é a média aritmética ponderada arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas) das classificações das unidades curriculares que integram o plano de estudos do curso.\n\n2 - Os coeficientes de ponderação são fixados pelo órgão legal e estatutariamente competente.\n\n7.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 1998-1999, inclusive.\n\n8.º\n\nTransição\n\nAs regras de transição entre o curso de bacharelato de Professores do 1.º Ciclo do Ensino Básico da Escola Superior de Educação de Lisboa e o curso de licenciatura em Ensino Básico - 1.º Ciclo são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n9.º\n\nDisposição revogatória\n\nSem prejuízo do processo de transição a que se refere o número anterior, é revogada, na parte que se refere ao bacharelato em 1.º Ciclo do Ensino Básico da Escola Superior de Educação de Lisboa, a [Portaria n.º 575/87](https://diariodarepublica.pt/dr/detalhe/portaria/575-1987-420066), de 8 de Julho.\n\nPelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 21 de Setembro de 2000."
+  },
+  "a548a230265f116b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Lisboa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Instituto Politécnico de Lisboa\n\nEscola Superior de Educação\n\nCurso: Ensino Básico - 1.º Ciclo\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/247b00/60026004.pdf)"
+  },
+  "bc8c49eb26fd203f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Lisboa",
+   "in_force_from": "2004-11-30",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1448/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1448-2004-534426), publicado em 2004-11-25."
+   ],
+   "markdown": "## ANEXO — Instituto Politécnico de Lisboa\n\nEscola Superior de Educação\n\nCurso de Ensino Básico - 1.º Ciclo\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)](https://files.diariodarepublica.pt/1s/2004/11/277b00/68936895.pdf)\n\n> Alterado pelo/a [Portaria n.º 1448/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1448-2004-534426), publicado em 2004-11-25."
+  }
+ }
+}

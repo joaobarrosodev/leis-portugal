@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:510389:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-01-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f9841b9551c4afe1",
+    "ffe87b9611194350"
+   ]
+  },
+  {
+   "date": "2004-08-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:501219:por",
+     "title": "Portaria n.º 974/2004",
+     "published": "2004-07-31",
+     "dre_path": "/dr/detalhe/portaria/974-2004-501219"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 38-39"
+   ],
+   "fragments": [
+    "2f2915c3b84779d8",
+    "ffe87b9611194350"
+   ]
+  }
+ ],
+ "fragments": {
+  "f9841b9551c4afe1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Janeiro\n\nA requerimento da CEUL - Cooperativa de Ensino Universidade Lusíada, C. R. L., entidade instituidora da Universidade Lusíada no Porto, reconhecida oficialmente, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo ([Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto), pela [Portaria n.º 1132/91](https://diariodarepublica.pt/dr/detalhe/portaria/1132-1991-321923), de 31 de Outubro;\n\nInstruído, organizado e apreciado o processo nos termos dos artigos 57.º e 59.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nColhido o parecer da comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto;\n\nAo abrigo do disposto na alínea b) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, alterado pelo [Decreto-Lei n.º 99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de Março, e no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAutorização de funcionamento\n\nÉ autorizado o funcionamento do curso de Psicologia na Universidade Lusíada no Porto, nas instalações que estejam autorizadas nos termos da lei.\n\n2.º\n\nGrau\n\nA conclusão com aproveitamento de todas as unidades curriculares que integram o plano de estudos do curso confere o direito à atribuição do grau de licenciado.\n\n3.º\n\nCorpo docente\n\n1 - Nos termos do Estatuto do Ensino Superior Particular e Cooperativo, nomeadamente dos seus artigos 14.º, 27.º e 28.º, é pressuposto da autorização de funcionamento e reconhecimento operados pelo presente diploma a satisfação cumulativa das seguintes condições quanto ao corpo docente do curso:\n\na) Ter um número de docentes com o grau de doutor igual ao maior valor dos seguintes:\n\na1) Um docente por ano do curso em funcionamento;\n\na2) Um docente por cada 200 alunos ou fracção;\n\nb) Ter um número de docentes com o grau de mestre igual ao maior dos seguintes valores:\n\nb1) Um docente por ano do curso em funcionamento;\n\nb2) Um docente por cada 150 alunos ou fracção;\n\nc) Os docentes referidos nas alíneas a) e b) terem um grau académico - licenciado, mestre ou doutor - na área da Psicologia;\n\nd) Metade dos docentes referidos nas alíneas a) e b) a prestar serviço em regime de tempo integral na Universidade Lusíada no Porto;\n\ne) Os docentes referidos nas alíneas a) e b) só serem considerados para esse efeito na Universidade Lusíada no Porto.\n\n2 - Não pode ser considerado como prestando serviço em regime de tempo integral o docente que preste serviço docente noutra instituição de ensino superior público, particular, cooperativo ou concordatário, em tempo inteiro, tempo integral ou em dedicação exclusiva.\n\n3 - Os cálculos realizados nos termos do n.º 1 são arredondados às unidades para o inteiro superior quando a fracção for igual ou superior a cinco décimas.\n\n4 - O cumprimento do disposto no presente número deve ser verificado anualmente pela Direcção-Geral do Ensino Superior face aos elementos fornecidos pelos estabelecimentos de ensino superior nos termos do disposto no [Decreto-Lei n.º 15/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1996-621136), de 6 de Março.\n\n5 - A autorização e o reconhecimento operados pelo presente diploma são revogados caso da verificação a que se refere o número anterior resulte a constatação do incumprimento dos pressupostos enunciados nos n.os 1 e 2.\n\n4.º\n\nRamos\n\nO curso desdobra-se nos ramos de:\n\na) Psicologia da Saúde;\n\nb) Psicologia Económica e do Consumo;\n\nc) Psicologia do Trabalho e Organizações.\n\n5.º\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 100.\n\n2 - A frequência global do curso não pode exceder 500 alunos.\n\n6.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso nos termos do anexo à presente portaria.\n\n7.º\n\nInício de funcionamento do curso\n\nO curso pode começar a funcionar a partir do ano lectivo de 1999-2000, inclusive, um ano curricular em cada ano lectivo.\n\n8.º\n\nCondições de acesso\n\nAs condições de acesso ao curso são as fixadas nos termos da lei.\n\n9.º\n\nCondicionamento\n\nA autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino de cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Educação, quer por não cumprimento dos pressupostos de autorização e reconhecimento, quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo.\n\n10.º\n\nVagas para o ano lectivo de 1999-2000\n\nO número de vagas para a candidatura à matrícula e inscrição no ano lectivo de 1999-2000 é fixado em 100.\n\n11.º\n\nEntrada em vigor\n\nEsta portaria entra em vigor no dia imediato ao da sua publicação.\n\nPelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 3 de Dezembro de 1999."
+  },
+  "ffe87b9611194350": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Universidade Lusíada no Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Universidade Lusíada no Porto\n\nCurso de Psicologia\n\nGrau de licenciado\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/01/004b00/00520055.pdf)"
+  },
+  "2f2915c3b84779d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2004-08-05",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 974/2004](https://diariodarepublica.pt/dr/detalhe/portaria/974-2004-501219), publicado em 2004-07-31."
+   ],
+   "markdown": "de 6 de Janeiro\n\nA requerimento da CEUL - Cooperativa de Ensino Universidade Lusíada, C. R. L., entidade instituidora da Universidade Lusíada no Porto, reconhecida oficialmente, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo ([Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto), pela [Portaria n.º 1132/91](https://diariodarepublica.pt/dr/detalhe/portaria/1132-1991-321923), de 31 de Outubro;\n\nInstruído, organizado e apreciado o processo nos termos dos artigos 57.º e 59.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nColhido o parecer da comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto;\n\nAo abrigo do disposto na alínea b) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, alterado pelo [Decreto-Lei n.º 99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de Março, e no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAutorização de funcionamento\n\nÉ autorizado o funcionamento do curso de Psicologia na Universidade Lusíada no Porto, nas instalações que estejam autorizadas nos termos da lei.\n\n2.º\n\nGrau\n\nA conclusão com aproveitamento de todas as unidades curriculares que integram o plano de estudos do curso confere o direito à atribuição do grau de licenciado.\n\n3.º\n\nCorpo docente\n\n1 - Nos termos do Estatuto do Ensino Superior Particular e Cooperativo, nomeadamente dos seus artigos 14.º, 27.º e 28.º, é pressuposto da autorização de funcionamento e reconhecimento operados pelo presente diploma a satisfação cumulativa das seguintes condições quanto ao corpo docente do curso:\n\na) Ter um número de docentes com o grau de doutor igual ao maior valor dos seguintes:\n\na1) Um docente por ano do curso em funcionamento;\n\na2) Um docente por cada 200 alunos ou fracção;\n\nb) Ter um número de docentes com o grau de mestre igual ao maior dos seguintes valores:\n\nb1) Um docente por ano do curso em funcionamento;\n\nb2) Um docente por cada 150 alunos ou fracção;\n\nc) Os docentes referidos nas alíneas a) e b) terem um grau académico - licenciado, mestre ou doutor - na área da Psicologia;\n\nd) Metade dos docentes referidos nas alíneas a) e b) a prestar serviço em regime de tempo integral na Universidade Lusíada no Porto;\n\ne) Os docentes referidos nas alíneas a) e b) só serem considerados para esse efeito na Universidade Lusíada no Porto.\n\n2 - Não pode ser considerado como prestando serviço em regime de tempo integral o docente que preste serviço docente noutra instituição de ensino superior público, particular, cooperativo ou concordatário, em tempo inteiro, tempo integral ou em dedicação exclusiva.\n\n3 - Os cálculos realizados nos termos do n.º 1 são arredondados às unidades para o inteiro superior quando a fracção for igual ou superior a cinco décimas.\n\n4 - O cumprimento do disposto no presente número deve ser verificado anualmente pela Direcção-Geral do Ensino Superior face aos elementos fornecidos pelos estabelecimentos de ensino superior nos termos do disposto no [Decreto-Lei n.º 15/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1996-621136), de 6 de Março.\n\n5 - A autorização e o reconhecimento operados pelo presente diploma são revogados caso da verificação a que se refere o número anterior resulte a constatação do incumprimento dos pressupostos enunciados nos n.os 1 e 2.\n\n4.º\n\nRamos\n\nO curso desdobra-se nos ramos de:\n\na) Psicologia da Saúde;\n\nb) Psicologia Económica e do Consumo;\n\nc) Psicologia do Trabalho e Organizações.\n\n5.º\n\nNúmero máximo de alunos\n\n1 - O número máximo de novos alunos a admitir anualmente não pode exceder 250.\n\n2 - A frequência global do curso não pode exceder 1520 alunos.\n\n> Alterado pelo/a [Portaria n.º 974/2004](https://diariodarepublica.pt/dr/detalhe/portaria/974-2004-501219), publicado em 2004-07-31.\n\n6.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso nos termos do anexo à presente portaria.\n\n7.º\n\nInício de funcionamento do curso\n\nO curso pode começar a funcionar a partir do ano lectivo de 1999-2000, inclusive, um ano curricular em cada ano lectivo.\n\n8.º\n\nCondições de acesso\n\nAs condições de acesso ao curso são as fixadas nos termos da lei.\n\n9.º\n\nCondicionamento\n\nA autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino de cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Educação, quer por não cumprimento dos pressupostos de autorização e reconhecimento, quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo.\n\n10.º\n\nVagas para o ano lectivo de 1999-2000\n\nO número de vagas para a candidatura à matrícula e inscrição no ano lectivo de 1999-2000 é fixado em 100.\n\n11.º\n\nEntrada em vigor\n\nEsta portaria entra em vigor no dia imediato ao da sua publicação.\n\nPelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 3 de Dezembro de 1999."
+  }
+ }
+}

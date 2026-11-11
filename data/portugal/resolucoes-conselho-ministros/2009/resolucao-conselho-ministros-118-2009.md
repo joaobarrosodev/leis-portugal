@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-08-29'
+version_history:
+  file: resolucao-conselho-ministros-118-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-08-29'
+    amending: pt:dre:343589:por
+    amending_title: Resolução do Conselho de Ministros n.º 60/2010
+    changes:
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/118/2009/12/30/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-27T00:19:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 60/2010. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2009/resolucao-conselho-ministros-118-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,7 +156,13 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](
 
 3 - Delegar, com a faculdade de subdelegação, ao abrigo do n.º 1 do artigo 109.º do Código dos Contratos Públicos, na Ministra da Educação a competência para a prática de todos os actos a realizar no âmbito do procedimento referido no número anterior, designadamente a competência para aprovar as peças do concurso, designar o júri do concurso, proferir o correspondente acto de adjudicação, aprovar a minuta de contrato a celebrar e representar a entidade adjudicante na respectiva assinatura.
 
-4 - Determinar que o máximo de despesa, a inscrever no orçamento do Ministério da Educação, financiada por receitas gerais do Estado, não exceda (euro) 45 000 000.
+4 - O montante máximo da despesa com a aquisição autorizada no n.º 1 é suportado por receitas gerais do Estado, com observância dos seguintes limites anuais a inscrever para o efeito, acrescidos do imposto sobre o valor acrescentado:
+
+a) 2010 - (euro) 25 699 913;
+
+b) 2011 - (euro) 24 300 087.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 60/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/60-2010-343589), publicado em 2010-08-24.
 
 5 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
 

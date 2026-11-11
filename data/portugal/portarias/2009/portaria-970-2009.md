@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-05-26'
+version_history:
+  file: portaria-970-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-08-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-05-26'
+    amending: pt:dre:614824:por
+    amending_title: Portaria n.º 277/2010
+    changes:
+    - Altera Artigo unidades 24-25
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/970/2009/08/26/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:43:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 277/2010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-970-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -163,9 +178,11 @@ Plano de estudos
 
 Número máximo de alunos
 
-1 - O número máximo de novos alunos a admitir anual-mente não pode exceder 40.
+1 - O número máximo de novos alunos a admitir anualmente não pode exceder 52.
 
-2 - A frequência global do curso não pode exceder 55 alunos.
+2 - A frequência global do curso não pode exceder 78 alunos.
+
+> Alterado pelo/a [Portaria n.º 277/2010](https://diariodarepublica.pt/dr/detalhe/portaria/277-2010-614824), publicado em 2010-05-21.
 
 6.º
 

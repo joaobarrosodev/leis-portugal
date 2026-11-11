@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:491271:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-10-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bbc50274bea2c8d7"
+   ]
+  },
+  {
+   "date": "2009-10-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:483165:por",
+     "title": "Portaria n.º 1335/2009",
+     "published": "2009-10-22",
+     "dre_path": "/dr/detalhe/portaria/1335-2009-483165"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 13-13"
+   ],
+   "fragments": [
+    "d2d64cce565cab68"
+   ]
+  }
+ ],
+ "fragments": {
+  "bbc50274bea2c8d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Outubro\n\nCom fundamento no disposto no artigo 26.º, conjugado com a alínea a) do artigo 18.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a actual redacção, ouvido o Conselho Cinegético Municipal de Alfândega da Fé, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Gebelim (processo n.º 5375-AFN), pelo período de seis anos, e transferida a sua gestão para a Associação de Caça e Pesca de Gebelim, com o número de identificação fiscal 505750384 e sede em Gebelim, 5350-250 Gebelim, Alfândega da Fé.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Agrobom, Gebelim e Soeima, município de Alfândega da Fé, com a área de 1873 ha.\n\n3.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a actual redacção, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 30 % relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 20 % relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 30 % relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 20 % aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º\n\n4.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.\n\n5.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n6.º Esta portaria produz efeitos a partir do dia 1 de Outubro de 2010.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 30 de Setembro de 2009.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19600/0741607416.pdf)"
+  },
+  "d2d64cce565cab68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-10-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1335/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1335-2009-483165), publicado em 2009-10-22."
+   ],
+   "markdown": "de 9 de Outubro\n\nCom fundamento no disposto no artigo 26.º, conjugado com a alínea a) do artigo 18.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a actual redacção, ouvido o Conselho Cinegético Municipal de Alfândega da Fé, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Gebelim (processo n.º 5375-AFN), pelo período de seis anos, e transferida a sua gestão para a Associação de Caça e Pesca de Gebelim, com o número de identificação fiscal 505750384 e sede em Gebelim, 5350-250 Gebelim, Alfândega da Fé.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Agrobom, Gebelim e Soeima, município de Alfândega da Fé, com a área de 1873 ha.\n\n3.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a actual redacção, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 30 % relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 20 % relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 30 % relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 20 % aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º\n\n4.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.\n\n5.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n6.º A presente portaria produz efeitos a partir do dia 1 de Outubro de 2009.\n\n> Alterado pelo/a [Portaria n.º 1335/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1335-2009-483165), publicado em 2009-10-22.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 30 de Setembro de 2009.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19600/0741607416.pdf)"
+  }
+ }
+}

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-08-22'
+version_history:
+  file: despacho-normativo-179-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-08-22'
+    amending: pt:dre:575932:por
+    amending_title: Despacho Normativo n.º 218/81
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:00:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 218/81. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1980/despacho-normativo-179-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,7 +149,9 @@ c) O tempo de prestação de serviço militar obrigatório, quando tenha determi
 
 d) O tempo de serviço prestado em categorias a que, nos termos de [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, foram fixadas designações constantes da primeira coluna do mapa anexo ao [Decreto-Lei n.º 377/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1979-369590) pelo pessoal proveniente do quadro geral de adidos, integrado nos quadros de pessoal das entidades e serviços referidos no artigo 1.º do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), que, para o efeito, tenha sido reclassificado ou cuja designação funcional tenha sido alterada;
 
-e) O tempo de serviço anterior ao [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, quando prestado em categorias correspondentes às actuais, segundo o disposto nos artigos 6.º e 7.º e anexo II do mesmo decreto-lei, anexo II da [Portaria n.º 787/77](https://diariodarepublica.pt/dr/detalhe/portaria/787-1977-280026), de 24 de Dezembro, e anexo IV do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), ou quando, tendo funcionado o n.º 4 do [Despacho Normativo n.º 135-A/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/135-a-1977-229920), de 25 de Maio, o tempo de serviço prestado em funções idênticas às que correspondem à sua actual categoria, desde que esta, pelo anexo I do [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496) e anexo I da [Portaria n.º 787/77](https://diariodarepublica.pt/dr/detalhe/portaria/787-1977-280026), estivesse posicionada no mesmo ou inferior nível salarial da anterior, segundo os mesmos anexos, salvo tratando-se de reclassificação obrigatória.
+e) O tempo de serviço anterior ao [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, quando prestado em categorias correspondentes às actuais, segundo o disposto nos artigos 6.º e 7.º e anexo II do mesmo decreto-lei, anexo II da [Portaria n.º 787/77](https://diariodarepublica.pt/dr/detalhe/portaria/787-1977-280026), de 24 de Dezembro, e anexo IV do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), ou quando, tendo funcionado o n.º 4 do [Despacho Normativo n.º 135-A/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/135-a-1977-229920), de 25 de Maio, o tempo de serviço prestado em funções idênticas às que correspondem à sua actual categoria.
+
+> Alterado pelo/a [Despacho Normativo n.º 218/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/218-1981-575932), publicado em 1981-08-22.
 
 2 - O início das funções que justificam a contagem de tempo de serviço a que se refere a alínea e) do número anterior deverá constar de declaração do interessado, confirmada pelos respectivos serviços.
 

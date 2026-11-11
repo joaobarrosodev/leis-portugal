@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-05-04'
+version_history:
+  file: portaria-1045-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-12-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-05-04'
+    amending: pt:dre:176511:por
+    amending_title: Portaria n.º 273/98
+    changes:
+    - Altera Artigo unidades 4-14
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:42:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 273/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-1045-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,27 +133,17 @@ de 4 de Dezembro
 
 Manda o Governo, pelo Ministro da Justiça, o seguinte:
 
-1.º Ao abrigo do disposto no n.º 2 do artigo 5.º e nos artigos 7.º e 9.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, e 6.º e 14.º do [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro:
+1.º - (Revogado.)
 
-a) São autonomizadas as duas secções da Conservatória dos Registos Predial e Comercial de Cascais, que dão origem às 1.ª e 2.ª Conservatórias, ambas de 1.ª classe;
+2.º - (Revogado.)
 
-b) É criada a 3.ª Conservatória dos Registos Predial e Comercial de Cascais, de 1.ª classe.
+3.º - (Revogado.)
 
-2.º O quadro de oficiais de cada uma das referidas Conservatórias é o seguinte:
+4.º - (Revogado.)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/27800/52925293.pdf)
+5.º - (Revogado.)
 
-3.º A área de competência territorial de cada uma das mencionadas Conservatórias é a seguinte:
-
-a) 1.ª Conservatória - freguesias de Cascais, São Domingos de Rana e Parede;
-
-b) 2.ª Conservatória - freguesias de Estoril e Alcabideche;
-
-c) 3.ª Conservatória - freguesia de Carcavelos.
-
-4.º O registo comercial de todo o concelho é da competência da 2.ª Conservatória, passando para a competência da 3.ª logo que esta entre em funcionamento.
-
-5.º As datas em que são autonomizadas as mencionadas Conservatórias, e bem assim a entrada em funcionamento da 3.ª Conservatória de Cascais, são fixadas por despacho do director-geral dos Registos e do Notariado.
+> Alterado pelo/a [Portaria n.º 273/98](https://diariodarepublica.pt/dr/detalhe/portaria/273-1998-176511), publicado em 1998-04-29.
 
 6.º Ao abrigo do disposto no artigo 88.º, n.º 2, do [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro, é aumentado com um lugar de escriturário o quadro de cada uma das conservatórias dos registos predial e comercial de:
 

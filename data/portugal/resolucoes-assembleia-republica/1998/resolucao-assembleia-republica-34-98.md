@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-03-30'
+version_history:
+  file: resolucao-assembleia-republica-34-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-06-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-03-30'
+    amending: pt:dre:138568:por
+    amending_title: Resolução da Assembleia da República n.º 26/99
+    changes:
+    - Altera Artigo unidades 6-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolassrep/34/1998/06/20/p/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:04:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução da Assembleia da República
+    n.º 26/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-assembleia-republica/1998/resolucao-assembleia-republica-34-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,17 +133,9 @@ A Assembleia da República resolve, nos termos dos artigos 166.º, n.º 5, e 178
 
 2 - A Comissão tem por objecto a apreciação política de actos dos Governos nos seguintes casos:
 
-Alienação da TORRALTA;
+Processos de privatização do BTA, do BESCL, do Jornal de Notícias, do Diário de Notícias, da Tranquilidade e da Mundial-Confiança;
 
-Participação do IPE no capital da Companhia Real de Distribuição;
-
-Processo de atribuição da terceira rede de telefones móveis;
-
-Dação em pagamento das dívidas da Grão-Pará ao Estado;
-
-Substituição de gestores das empresas públicas EDP, TRANSGÁS e PORTUCEL;
-
-Processos de privatização do BTA, do BESCL, do Jornal de Notícias e Diário de Notícias, da Tranquilidade e da Mundial-Confiança;
+> Alterado pelo/a [Resolução da Assembleia da República n.º 26/99](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/26-1999-138568), publicado em 1999-03-30.
 
 Processo de oferta pública de aquisição do BPA lançado pelo BCP.
 

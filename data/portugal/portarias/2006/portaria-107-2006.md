@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-05-16'
+version_history:
+  file: portaria-107-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-02-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-05-16'
+    amending: pt:dre:608232:por
+    amending_title: Portaria n.º 497/2009
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/107/2006/02/06/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:10:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 497/2009. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2006/portaria-107-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,7 +137,9 @@ Ouvido o Conselho Cinegético Municipal de Coruche:
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caça do Tarrafeirinho, com o número de pessoa colectiva 507189728, com sede no Apartado 197, 2000 Santarém, a zona de caça associativa do Tarrafeirinho (processo n.º 4216-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Coruche e Santana do Mato, município de Coruche, com a área de 3334 ha.
+1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caça do Tarrafeirinho, com o número de pessoa colectiva 507189728, com sede no Apartado 197, 2000 Santarém, a zona de caça associativa do Tarrafeirinho (processo n.º 4216-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Coruche e Santana do Mato, município de Coruche, com uma área de 334 ha.
+
+> Alterado pelo/a [Portaria n.º 497/2009](https://diariodarepublica.pt/dr/detalhe/portaria/497-2009-608232), publicado em 2009-05-11.
 
 2.º A zona de caça concessionada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
 

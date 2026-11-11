@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-07-25'
+version_history:
+  file: portaria-785-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-07-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-07-25'
+    amending: pt:dre:386039:por
+    amending_title: Portaria n.º 484/84
+    changes:
+    - Altera Artigo unidades 15-15
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:48:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 484/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-785-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,7 +157,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Trabalho e Segurança
 
 5.º A Comissão Instaladora do Centro Regional de Segurança Social de Lisboa prosseguirá as acções, já iniciadas, de reordenamento e unificação dos serviços de apoio técnico e administrativo com vista à oportuna criação do respectivo departamento.
 
-6.º É revogada a [Portaria n.º 84/83](https://diariodarepublica.pt/dr/detalhe/portaria/84-1983-308512), de 27 de Janeiro.
+6.º São revogados os n.os 2.º, 3.º e 4.º da [Portaria n.º 84/83](https://diariodarepublica.pt/dr/detalhe/portaria/84-1983-308512), de 27 de Janeiro.
+
+> Alterado pelo/a [Portaria n.º 484/84](https://diariodarepublica.pt/dr/detalhe/portaria/484-1984-386039), publicado em 1984-07-20.
 
 7.º A presente portaria entra imediatamente em vigor.
 

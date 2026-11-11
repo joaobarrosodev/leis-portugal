@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:485968:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-02-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e5c262a57a073bd4"
+   ]
+  },
+  {
+   "date": "1991-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:459469:por",
+     "title": "Declaração de Rectificação n.º 88/91",
+     "published": "1991-04-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/88-1991-459469"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "c124933a97424df0"
+   ]
+  }
+ ],
+ "fragments": {
+  "e5c262a57a073bd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Fevereiro\n\nConsiderando que a estrutura de alguns serviços de turismo no estrangeiro não se coaduna com a evolução que tem caracterizado os mercados onde os mesmos estão localizados;\n\nConsiderando que se torna necessário, para o aproveitamento e desenvolvimento do turismo português, que o País disponha de uma rede de representações externas dotadas de formas eficazes de actuação;\n\nAtendendo a que o Canadá constitui um dos mercados emissores de turistas que oferece maior interesse e potencialidades para Portugal;\n\nAo abrigo do disposto no n.º 3 do artigo 3.º do [Decreto-Lei n.º 446/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1989-551256), de 30 de Dezembro:\n\nManda o Governo, pelos Ministros das Finanças, dos Negócios Estrangeiros e do Comércio e Turismo, o seguinte:\n\n1.º É extinta a delegação, no Canadá, do Centro de Turismo de Portugal nos Estados Unidos da América.\n\n2.º É criado o Centro de Turismo de Portugal no Canadá, com sede em Toronto.\n\n3.º É aplicado ao Centro ora criado o regime estabelecido para os serviços do Instituto de Promoção Turística no estrangeiro, consagrado no [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro.\n\n4.º São transferidas para o Centro de Turismo de Portugal no Canadá as dotações orçamentais atribuídas à delegação existente naquele país.\n\nMinistérios das Finanças, dos Negócios Estrangeiros e do Comércio e Turismo.\n\nAssinada em 21 de Janeiro de 1991.\n\nPelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira."
+  },
+  "c124933a97424df0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-04-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 88/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/88-1991-459469), publicado em 1991-04-30."
+   ],
+   "markdown": "de 18 de Fevereiro\n\nConsiderando que a estrutura de alguns serviços de turismo no estrangeiro não se coaduna com a evolução que tem caracterizado os mercados onde os mesmos estão localizados;\n\nConsiderando que se torna necessário, para o aproveitamento e desenvolvimento do turismo português, que o País disponha de uma rede de representações externas dotadas de formas eficazes de actuação;\n\nAtendendo a que o Canadá constitui um dos mercados emissores de turistas que oferece maior interesse e potencialidades para Portugal;\n\nAo abrigo do disposto no n.º 4 do artigo 1.º do [Decreto-Lei n.º 199/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1983-451274), de 19 de Maio:\n\n> Alterado pelo/a [Declaração de Rectificação n.º 88/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/88-1991-459469), publicado em 1991-04-30.\n\nManda o Governo, pelos Ministros das Finanças, dos Negócios Estrangeiros e do Comércio e Turismo, o seguinte:\n\n1.º É extinta a delegação, no Canadá, do Centro de Turismo de Portugal nos Estados Unidos da América.\n\n2.º É criado o Centro de Turismo de Portugal no Canadá, com sede em Toronto.\n\n3.º É aplicado ao Centro ora criado o regime estabelecido para os serviços do Instituto de Promoção Turística no estrangeiro, consagrado no [Decreto-Lei n.º 402/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1986-221515), de 3 de Dezembro.\n\n4.º São transferidas para o Centro de Turismo de Portugal no Canadá as dotações orçamentais atribuídas à delegação existente naquele país.\n\nMinistérios das Finanças, dos Negócios Estrangeiros e do Comércio e Turismo.\n\nAssinada em 21 de Janeiro de 1991.\n\nPelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira."
+  }
+ }
+}

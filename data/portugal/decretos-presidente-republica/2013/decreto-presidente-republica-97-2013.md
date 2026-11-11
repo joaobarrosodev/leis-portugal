@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-08-30'
+version_history:
+  file: decreto-presidente-republica-97-2013.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-08-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-08-30'
+    amending: pt:dre:499542:por
+    amending_title: Decreto do Presidente da República n.º 99/2013
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decpresrep/97/2013/08/21/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:18:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto do Presidente da República
+    n.º 99/2013. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-presidente-republica/2013/decreto-presidente-republica-97-2013.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -102,7 +117,9 @@ de 21 de agosto
 
 O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
-É exonerada, sob proposta do Governo, a embaixadora Maria da Graça Reynaud Campos Trocado Andresen Guimarães do cargo de Representante Permanente de Portugal junto dos Organismos e Organizações Internacionais (NUOI), em Genebra, por passar à disponibilidade, com efeitos a partir de 8 de setembro de 2013.
+É exonerada, sob proposta do Governo, a embaixadora Maria da Graça Reynaud Campos Trocado Andresen Guimarães do cargo de Representante Permanente de Portugal junto dos Organismos e Organizações Internacionais (NUOI), em Genebra, por passar à disponibilidade, com efeitos a partir de 1 de setembro de 2013.
+
+> Alterado pelo/a [Decreto do Presidente da República n.º 99/2013](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/99-2013-499542), publicado em 2013-08-30.
 
 Assinado em 5 de agosto de 2013.
 

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-12-05'
+version_history:
+  file: portaria-700-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-10-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-12-05'
+    amending: pt:dre:357113:por
+    amending_title: Portaria n.º 770/88
+    changes:
+    - Altera Artigo unidades 34-35
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:33:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 770/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1974/portaria-700-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -182,9 +197,11 @@ Quartos dianteiros ... 40$00
 
 4.º Mantém-se o regime de «preços livres» para a venda ao público da carne de vitela.
 
-5.º Nos estabelecimentos de venda a retalho de carne de bovino e de outras espécies, bem como de produtos derivados, deverão estar afixados, em local bem visível, os preços legalmente estabelecidos e os que estiverem a ser praticados relativamente aos produtos ou peças em regime de venda livre.
+5.º - (Revogado.)
 
-6.º As peças e porções individualizadas devem encontrar-se identificadas e marcadas com os preços de venda que lhes correspondem.
+6.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 770/88](https://diariodarepublica.pt/dr/detalhe/portaria/770-1988-357113), publicado em 1988-11-30.
 
 7.º As infracções do disposto nesta portaria serão punidas nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 

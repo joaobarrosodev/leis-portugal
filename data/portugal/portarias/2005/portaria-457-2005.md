@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-04-12'
+version_history:
+  file: portaria-457-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-05-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-04-12'
+    amending: pt:dre:651573:por
+    amending_title: Portaria n.º 351/2006
+    changes:
+    - Adita Artigo depois da unidade 26
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/457/2005/05/02/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:06:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 351/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-457-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -187,6 +202,16 @@ i) Se o produtor renunciar à execução das medidas específicas em causa, apó
 «21.º-A. As medidas específicas objecto de pagamento antecipado a que se refere o n.º 21.º da presente portaria devem estar concluídas até ao final da campanha de 2005-2006.»
 
 3.º Os projectos aprovados ao abrigo das Portarias n.os [685/2000](https://diariodarepublica.pt/dr/detalhe/portaria/685-2000-581238), de 30 de Agosto, e [1259/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1259-2001-589770), de 30 de Outubro, que não tenham sido objecto de um pedido de pagamento antecipado de ajuda nos termos previstos nas alíneas b), d) e e) do n.º 21.º da presente portaria devem encontrar-se totalmente executados e ser objecto de pedido de pagamento até 31 de Maio de 2005, sob pena de serem recuperados os valores das ajudas já pagos.
+
+3.º-A - 1 - Em derrogação ao disposto no número anterior, se o pedido de pagamento não for entregue até 31 de Maio de 2005 mas se se comprovar que o projecto foi integralmente executado até àquela data, considera-se o mesmo concluído pelos montantes pagos, não havendo lugar a qualquer recuperação nem direito a qualquer outro pagamento.
+
+2 - Considera-se comprovada a execução do projecto através de um dos seguintes meios:
+
+a) Relatório de acompanhamento que tenha permitido apurar a realização integral do investimento, desde que a visita de controlo tenha sido realizada até 31 de Maio de 2005;
+
+b) Apresentação, pelo promotor, dos documentos comprovativos da despesa realizada até 31 de Maio de 2005, desde que a execução integral do investimento venha a ser reconhecida em verificação física na visita de controlo a realizar.
+
+> Aditado pelo/a [Portaria n.º 351/2006](https://diariodarepublica.pt/dr/detalhe/portaria/351-2006-651573), publicado em 2006-04-11.
 
 4.º São revogados:
 

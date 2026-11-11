@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:442946:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-09-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "27705040dfef20d3",
+    "b1a67ee03d609d7a"
+   ]
+  },
+  {
+   "date": "1988-04-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:285173:por",
+     "title": "Portaria n.º 242/88",
+     "published": "1988-04-19",
+     "dre_path": "/dr/detalhe/portaria/242-1988-285173"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 35-58"
+   ],
+   "fragments": [
+    "27705040dfef20d3",
+    "29f0dec6a02ae192"
+   ]
+  }
+ ],
+ "fragments": {
+  "27705040dfef20d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Setembro\n\nSob proposta da Universidade de Aveiro e ao abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade de Aveiro confere o grau de licenciado em Planeamento, ministrando, em consequência, o respectivo curso.\n\n2.º\n\n(Organização)\n\nO curso de licenciatura em Planeamento pela Universidade de Aveiro, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Estrutura curricular)\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são os constantes do anexo à presente portaria.\n\n4.º\n\n(Precedências)\n\nA tabela e o regime de precedências serão fixados pelo conselho científico, ouvido o conselho pedagógico, e sujeitos à aprovação e publicação nos termos do artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.\n\n5.º\n\n(Estágio)\n\n1 - A Universidade organizará um estágio facultativo, de índole profissionalizante, que poderá ser frequentado após conclusão do curso nos termos do anexo à presente portaria.\n\n2 - O estágio será realizado nos termos de regulamento a aprovar e a publicar pela Universidade.\n\n6.º\n\n(Classificação final)\n\n1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos.\n\n2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico, e aprovados e publicados nos termos do artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.\n\n3 - O estágio a que se refere o n.º 5.º poderá ser considerado para atribuição da classificação final, se daí resultar aumento da mesma.\n\n4 - O aluno que requeira a emissão da carta de curso antes da conclusão do estágio não poderá beneficiar da classificação deste nos termos do número anterior.\n\n7.º\n\n(Integração curricular)\n\n1 - Os alunos que, nos termos da [Portaria n.º 387/83](https://diariodarepublica.pt/dr/detalhe/portaria/387-1983-313178), de 7 de Abril, foram colocados e se matricularam e inscreveram no ramo de Planeamento do curso de licenciatura em Engenharia do Ambiente serão integrados na licenciatura em Planeamento.\n\n2 - Compete ao reitor, sob proposta do conselho científico, ouvido o conselho pedagógico, fixar o processo de integração.\n\nMinistério da Educação.\n\nAssinada em 13 de Setembro de 1983.\n\nO Ministro da Educação, José Augusto Seabra."
+  },
+  "b1a67ee03d609d7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1 - Área científica do curso:\n\nPlaneamento.\n\n2 - Duração normal do curso:\n\n10 semestres lectivos.\n\n3 - Total de unidades de crédito necessárias à conclusão do curso:\n\n170 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\nPlaneamento Regional e Urbano ... 62,5\n\nCiências do Ambiente ... 6,5\n\nCiências Sociais ... 8,5\n\nEconomia ... 12\n\nGeografia ... 21\n\nMatemática ... 26\n\nQuímica ... 9\n\nFísica ... 4\n\nGeologia ... 6,5\n\nLínguas ... 2\n\n4.2 - Áreas científicas optativas:\n\nPlaneamento Regional e Urbano ... 7\n\nCiências Sociais ... 7\n\nEconomia ... 7\n\nCiências do Ambiente ... 7\n\n4.3 - Projecto ... 5"
+  },
+  "29f0dec6a02ae192": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": "1988-04-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 242/88](https://diariodarepublica.pt/dr/detalhe/portaria/242-1988-285173), publicado em 1988-04-19."
+   ],
+   "markdown": "## ANEXO\n\nLicenciatura em Planeamento\n\n1 - Área científica do curso: Planeamento Regional e Urbano.\n\n2 - Duração normal do curso: dez semestres lectivos.\n\n3 - Total de unidades de crédito necessárias à conclusão do curso: 170 unidades de crédito.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\nPlaneamento Regional e Urbano ... 40\n\nEconomia ... 14\n\nGeografia ... 14\n\nArquitectura ... 13\n\nEngenharia Civil ... 9\n\nSociologia ... 7\n\nEngenharia do Ambiente ... 6\n\nAdministração ... 6\n\nMatemática ... 18\n\nCiências Físico-Químicas ... 7\n\nCiências Naturais ... 6\n\nLíngua Estrangeira ... 3\n\n4.2 - Conjunto das áreas científicas optativas:\n\nPlaneamento Regional e Urbano ... 12\n\nGeografia ... 12\n\nEconomia ... 12\n\nArquitectura ... 12\n\n4.3 - Projecto ... 15\n\n> Alterado pelo/a [Portaria n.º 242/88](https://diariodarepublica.pt/dr/detalhe/portaria/242-1988-285173), publicado em 1988-04-19."
+  }
+ }
+}

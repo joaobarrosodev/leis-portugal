@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-07-02'
+version_history:
+  file: portaria-104-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-02-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-07-02'
+    amending: pt:dre:303227:por
+    amending_title: Portaria n.º 379/2000
+    changes:
+    - Altera Artigo unidades 34-36
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/104/1997/02/14/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:41:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 379/2000. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-104-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,8 +203,10 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 ## ANEXO — Instituto Superior Bissaya Barreto
 
-Curso: Ciências Sociais
+Curso de Ciências Sociais
 
 Grau: licenciatura
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/038b00/07520753.pdf)
+[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/06/146b00/27312733.pdf)
+
+> Alterado pelo/a [Portaria n.º 379/2000](https://diariodarepublica.pt/dr/detalhe/portaria/379-2000-303227), publicado em 2000-06-27.

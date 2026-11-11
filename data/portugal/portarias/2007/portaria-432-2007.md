@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-09-25'
+version_history:
+  file: portaria-432-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-04-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-09-25'
+    amending: pt:dre:341869:por
+    amending_title: Portaria n.º 929/2010
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/432/2007/04/16/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:23:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 929/2010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-432-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,7 +136,9 @@ Ouvido o Conselho Cinegético Municipal de Fronteira:
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Pela presente portaria é concessionada, pelo período de 12 anos, a António Xavier de Lima, com o número de pessoa colectiva 502509953, com sede na Rua de 25 de Abril, 11 e 11-A, Paivas, 2845-389 Amora, a zona de caça turística da Herdade da Raposeira e anexas (processo n.º 4597-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de Cabeço de Vide, município de Fronteira, com a área de 989 ha.
+1.º Pela presente portaria é concessionada, pelo período de 12 anos, a António Xavier de Lima - Empreendimentos Imobiliários e Turísticos, S. A., com o número de identificação de pessoa colectiva 502509953, com sede na Rua de 25 de Abril, 11 e 11-A, Paivas, 2845-389 Amora, a zona de caça turística da Herdade da Raposeira e anexas (processo n.º 4597-AFN), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de Cabeço de Vide, município de Fronteira, com a área de 989 ha.
+
+> Alterado pelo/a [Portaria n.º 929/2010](https://diariodarepublica.pt/dr/detalhe/portaria/929-2010-341869), publicado em 2010-09-20.
 
 2.º A zona de caça concessionada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.
 

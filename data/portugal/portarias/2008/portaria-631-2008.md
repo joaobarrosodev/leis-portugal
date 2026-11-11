@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-08-02'
+version_history:
+  file: portaria-631-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-07-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-02'
+    amending: pt:dre:492772:por
+    amending_title: Portaria n.º 797/2009
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/631/2008/07/23/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:33:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 797/2009. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-631-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,6 +144,8 @@ Assim:
 
 Com fundamento no disposto no artigo 45.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro:
 
-Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que pela presente portaria a zona de caça turística do Azinhal, processo n.º 700-DGRF, situada na freguesia de Azinheira de Barros, município de Grândola, seja transferida para Pedro Sacadura Teixeira Cabral Duarte da Silva, com o número de identificação fiscal 182972330 e sede na Avenida do Infante Santo, 66-A, 5.º, direito, 1350-180 Lisboa.
+Pela presente portaria, a zona de caça turística do Azinhal (processo n.º 700-AFN), situada na freguesia de Azinheira de Barros, município de Grândola, é transferida para Pedro Sacadura Teixeira Cabral Duarte da Silveira, com o número de identificação fiscal 182972330 e sede na Avenida do Infante Santo, 66-A, 5.º, direito, 1350-180 Lisboa.
+
+> Alterado pelo/a [Portaria n.º 797/2009](https://diariodarepublica.pt/dr/detalhe/portaria/797-2009-492772), publicado em 2009-07-28.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 15 de Julho de 2008.

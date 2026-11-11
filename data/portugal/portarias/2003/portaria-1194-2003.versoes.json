@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:481478:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-10-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "79ce6a53d55de543"
+   ]
+  },
+  {
+   "date": "2016-09-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:440515:por",
+     "title": "Portaria n.º 1405/2008",
+     "published": "2008-12-04",
+     "dre_path": "/dr/detalhe/portaria/1405-2008-440515"
+    },
+    {
+     "id": "pt:dre:75341996:por",
+     "title": "Portaria n.º 248/2016",
+     "published": "2016-09-15",
+     "dre_path": "/dr/detalhe/portaria/248-2016-75341996"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 17-17",
+    "Altera Artigo unidades 18-27",
+    "Adita Artigo depois da unidade 27"
+   ],
+   "fragments": [
+    "c5931377c605da2a"
+   ]
+  }
+ ],
+ "fragments": {
+  "79ce6a53d55de543": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Outubro\n\nO Decreto-Lei n.º 205/2003, de 12 de Setembro, que transpôs para o direito interno a Directiva n.º [1999/105/CE](http://data.europa.eu/eli/dir/1999/105/oj?locale=pt), do Conselho, de 22 de Dezembro, veio regulamentar a produção destinada à comercialização, a comercialização e a certificação de materiais florestais de reprodução (MFR) e estabelece as normas gerais aplicáveis à produção e comercialização de materiais florestais de reprodução não abrangidos por esta directiva.\n\nDispõe o n.º 1 do artigo 41.º daquele diploma legal que o procedimento administrativo destinado ao licenciamento e o exercício da actividade de fornecedor, a certificação de MFR e a inscrição no Registo Nacional de Materiais de Base (RNMB) de pomares de sementes, clones, misturas clonais e progenitores familiares das espécies previstas no anexo I estão sujeitos a taxas em termos a regulamentar, cujo montante e condições de pagamento esta portaria visa definir.\n\nAssim:\n\nAo abrigo do disposto nos artigos 41.º, n.º 3, e 54.º do Decreto-Lei n.º 205/2003, de 12 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º\n\nÂmbito\n\nNos termos do artigo 41.º do Decreto-Lei n.º 205/2003, de 12 de Setembro, são devidas taxas nas seguintes situações:\n\na) Pelo licenciamento e pelo exercício da actividade de fornecedor de materiais florestais de reprodução;\n\nb) Pela inscrição no Registo Nacional de Materiais de Base de pomares de sementes, clones, misturas clonais e progenitores familiares;\n\nc) Pela certificação de MFR das espécies e híbridos artificiais listados no anexo I do Decreto-Lei n.º 205/2003, de 12 de Setembro.\n\n2.º\n\nTaxas\n\n1 - O valor das taxas devidas pelo licenciamento e exercício da actividade de fornecedor e pelo pedido de inscrição no RNMB é o seguinte:\n\na) Pelo licenciamento de fornecedor - (euro) 100;\n\nb) Pelo exercício da actividade de fornecedor - (euro) 50/ano;\n\nc) Pelo pedido de inscrição de pomares de semente, clones, misturas clonais e progenitores familiares - (euro) 1000.\n\n2 - O valor das taxas devidas pela certificação de MFR é o seguinte:\n\na) Pela certificação de sementes e partes de plantas - (euro) 5 por certificado;\n\nb) Pela certificação da qualidade externa de plantas para arborização:\n\ni) Pela primeira visita para certificação - (euro) 130;\n\nii) Por cada visita suplementar - (euro) 180;\n\niii) Por cada 100 plantas certificadas ou fracção - (euro) 0,13.\n\n3 - Os fornecedores licenciados ao abrigo do artigo 50.º do Decreto-Lei n.º 205/2003, de 12 de Setembro, estão isentos do pagamento da taxa referida na alínea a) do n.º 1 deste número.\n\n4 - Os fornecedores que cumpram os requisitos previstos no n.º 3 do artigo 35.º do Decreto-Lei n.º 205/2003, de 12 de Setembro, estão apenas sujeitos ao pagamento de uma taxa única pela emissão do certificado de qualidade externa de plantas destinadas a arborização, no montante de (euro) 0,24 por cada 1000 plantas ou fracção.\n\n3.º\n\nCobrança\n\n1 - Compete à Direcção-Geral das Florestas (DGF) a liquidação e cobrança das taxas previstas no n.º 1 e na alínea a) do n.º 2 do n.º 2.º\n\n2 - Compete às direcções regionais de agricultura (DRA) a liquidação e cobrança das taxas previstas na alínea b) do n.º 2 e no n.º 4 do n.º 2.º\n\n3 - As taxas cobradas constituem receita própria da DGF e das DRA, na proporção de 40% para a primeira e de 60% para a DRA respectiva.\n\n4.º\n\nPagamento\n\n1 - O pagamento da taxa devida pelo licenciamento da actividade de fornecedor é efectuado no momento da apresentação do respectivo requerimento na DGF.\n\n2 - O pagamento da taxa prevista na alínea b) do n.º 1 do n.º 2.º tem lugar no período entre 1 de Junho e 31 de Agosto de cada ano civil e refere-se à campanha que se iniciar em 1 de Setembro seguinte.\n\n3 - O pagamento da taxa devida pela emissão de certificado principal pode ter lugar, em alternativa:\n\na) Imediatamente, após a emissão e entrega do certificado ao respectivo fornecedor; ou\n\nb) Simultaneamente com o pagamento da taxa referida no número anterior, relativamente à totalidade dos certificados emitidos e entregues desde 1 de Setembro do ano civil imediatamente anterior.\n\n4 - Sem prejuízo das sanções que ao caso couberem, a falta de pagamento da taxa devida pela emissão dos certificados a que se refere o n.º 3 é impeditiva da emissão de novos certificados até que se mostrem liquidados os montantes em dívida.\n\n5 - A taxa devida pela inscrição de pomares de sementes, clones, misturas clonais e progenitores familiares no Registo Nacional de Materiais de Base é paga no acto de apresentação do respectivo pedido.\n\n6 - É condição da emissão dos certificados de plantas referidos na alínea b) do n.º 2 do n.º 2.º o prévio pagamento das taxas devidas pelas visitas de certificação efectuadas e pelo número de plantas certificadas.\n\n5.º\n\nEntrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nO Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 26 de Setembro de 2003."
+  },
+  "c5931377c605da2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2016-09-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 248/2016](https://diariodarepublica.pt/dr/detalhe/portaria/248-2016-75341996), publicado em 2016-09-15.",
+    "Alterado pelo/a [Portaria n.º 1405/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1405-2008-440515), publicado em 2008-12-04.",
+    "Aditado pelo/a [Portaria n.º 248/2016](https://diariodarepublica.pt/dr/detalhe/portaria/248-2016-75341996), publicado em 2016-09-15."
+   ],
+   "markdown": "de 13 de Outubro\n\nO Decreto-Lei n.º 205/2003, de 12 de Setembro, que transpôs para o direito interno a Directiva n.º [1999/105/CE](http://data.europa.eu/eli/dir/1999/105/oj?locale=pt), do Conselho, de 22 de Dezembro, veio regulamentar a produção destinada à comercialização, a comercialização e a certificação de materiais florestais de reprodução (MFR) e estabelece as normas gerais aplicáveis à produção e comercialização de materiais florestais de reprodução não abrangidos por esta directiva.\n\nDispõe o n.º 1 do artigo 41.º daquele diploma legal que o procedimento administrativo destinado ao licenciamento e o exercício da actividade de fornecedor, a certificação de MFR e a inscrição no Registo Nacional de Materiais de Base (RNMB) de pomares de sementes, clones, misturas clonais e progenitores familiares das espécies previstas no anexo I estão sujeitos a taxas em termos a regulamentar, cujo montante e condições de pagamento esta portaria visa definir.\n\nAssim:\n\nAo abrigo do disposto nos artigos 41.º, n.º 3, e 54.º do Decreto-Lei n.º 205/2003, de 12 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º\n\nÂmbito\n\nNos termos do artigo 41.º do Decreto-Lei n.º 205/2003, de 12 de Setembro, são devidas taxas nas seguintes situações:\n\na) Pelo licenciamento e pelo exercício da actividade de fornecedor de materiais florestais de reprodução;\n\nb) Pela inscrição no Registo Nacional de Materiais de Base de pomares de sementes, clones, misturas clonais e progenitores familiares;\n\nc) Pela certificação de MFR das espécies e híbridos artificiais listados no anexo I do Decreto-Lei n.º 205/2003, de 12 de Setembro.\n\n2.º\n\nTaxas\n\n1 - O valor das taxas devidas pelo licenciamento e exercício da actividade de fornecedor e pelo pedido de inscrição no RNMB é o seguinte:\n\na) Licenciamento de fornecedor - (euro) 125;\n\n> Alterado pelo/a [Portaria n.º 248/2016](https://diariodarepublica.pt/dr/detalhe/portaria/248-2016-75341996), publicado em 2016-09-15.\n\nb) Exercício anual da actividade de fornecedor - (euro) 65;\n\nc) Pedido de inscrição no Registo Nacional de Materiais de Base de Pomares de Semente, Clones, Mistura Coloniais e Progenitores Familiares - (euro) 1000;\n\nd) Certificação de MFR:\n\ni) Sementes e partes de plantas (por certificado) - (euro) 6;\n\ne) Certificação da qualidade externa de plantas para arborização:\n\ni) Primeira visita para certificação - (euro) 140;\n\nii) Cada visita suplementar - (euro) 190;\n\niii) Por cada 100 plantas certificadas ou fracção - (euro) 0,14.\n\n2 - Os fornecedores licenciados ao abrigo do artigo 50.º do [Decreto-Lei n.º 205/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), de 12 de Setembro, estão isentos do pagamento da taxa referida na alínea a) do n.º 1 deste número.\n\n3 - Os fornecedores que cumpram os requisitos previstos no n.º 3 do artigo 35.º do [Decreto-Lei n.º 205/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), de 12 de Setembro, estão apenas sujeitos ao pagamento de uma taxa única pela emissão do certificado de qualidade externa de plantas destinadas a arborização, no montante de (euro) 0,50 por cada 1000 plantas ou fracção.\n\n> Alterado pelo/a [Portaria n.º 1405/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1405-2008-440515), publicado em 2008-12-04.\n\n4 - A taxa referida na alínea a) do n.º 1, já inclui o custo da inspeção inicial obrigatória decorrente da inscrição no registo oficial como operador económico.\n\n> Aditado pelo/a [Portaria n.º 248/2016](https://diariodarepublica.pt/dr/detalhe/portaria/248-2016-75341996), publicado em 2016-09-15.\n\n3.º\n\nCobrança\n\n1 - Compete à Direcção-Geral das Florestas (DGF) a liquidação e cobrança das taxas previstas no n.º 1 e na alínea a) do n.º 2 do n.º 2.º\n\n2 - Compete às direcções regionais de agricultura (DRA) a liquidação e cobrança das taxas previstas na alínea b) do n.º 2 e no n.º 4 do n.º 2.º\n\n3 - As taxas cobradas constituem receita própria da DGF e das DRA, na proporção de 40% para a primeira e de 60% para a DRA respectiva.\n\n4.º\n\nPagamento\n\n1 - O pagamento da taxa devida pelo licenciamento da actividade de fornecedor é efectuado no momento da apresentação do respectivo requerimento na DGF.\n\n2 - O pagamento da taxa prevista na alínea b) do n.º 1 do n.º 2.º tem lugar no período entre 1 de Junho e 31 de Agosto de cada ano civil e refere-se à campanha que se iniciar em 1 de Setembro seguinte.\n\n3 - O pagamento da taxa devida pela emissão de certificado principal pode ter lugar, em alternativa:\n\na) Imediatamente, após a emissão e entrega do certificado ao respectivo fornecedor; ou\n\nb) Simultaneamente com o pagamento da taxa referida no número anterior, relativamente à totalidade dos certificados emitidos e entregues desde 1 de Setembro do ano civil imediatamente anterior.\n\n4 - Sem prejuízo das sanções que ao caso couberem, a falta de pagamento da taxa devida pela emissão dos certificados a que se refere o n.º 3 é impeditiva da emissão de novos certificados até que se mostrem liquidados os montantes em dívida.\n\n5 - A taxa devida pela inscrição de pomares de sementes, clones, misturas clonais e progenitores familiares no Registo Nacional de Materiais de Base é paga no acto de apresentação do respectivo pedido.\n\n6 - É condição da emissão dos certificados de plantas referidos na alínea b) do n.º 2 do n.º 2.º o prévio pagamento das taxas devidas pelas visitas de certificação efectuadas e pelo número de plantas certificadas.\n\n5.º\n\nEntrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nO Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 26 de Setembro de 2003."
+  }
+ }
+}

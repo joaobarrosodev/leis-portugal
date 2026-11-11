@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-08-25'
+version_history:
+  file: portaria-753-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-25'
+    amending: pt:dre:488141:por
+    amending_title: Portaria n.º 938/2009
+    changes:
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/753/2009/07/14/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:42:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 938/2009. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-753-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,6 +134,10 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por dois períodos de igual duração, à Associação Cultural e Recreativa de Parada de Bouro, com o número de identificação fiscal 503687448 e sede no lugar da Aldeia, Parada de Bouro, 4850-261 Vieira do Minho, a zona de caça associativa de Parada de Bouro (processo n.º 5269-AFN), englobando vários prédios rústicos, sitos na freguesia de Parada de Bouro, município de Vieira do Minho, com a área de 554 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
 
 2.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
+
+3.º A presente portaria entra em vigor no dia 14 de Setembro de 2009.
+
+> Aditado pelo/a [Portaria n.º 938/2009](https://diariodarepublica.pt/dr/detalhe/portaria/938-2009-488141), publicado em 2009-08-20.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 30 de Junho de 2009.
 

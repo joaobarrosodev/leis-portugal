@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-01-22'
+version_history:
+  file: decreto-presidente-republica-30-i-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-01-22'
+    amending: pt:dre:581268:por
+    amending_title: Declaração de Rectificação n.º 3/97
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decpresrep/30-i/1996/12/20/p/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:22:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 3/97.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-presidente-republica/1996/decreto-presidente-republica-30-i-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -96,7 +111,9 @@ de 20 de Dezembro
 
 O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:
 
-A pena acessória de expulsão do País aplicada a Maria de Lurdes Varela, de 46 anos de idade, no processo n.º 530/92 do 2.º Juízo Criminal do Tribunal Judicial de Oeiras é revogada, por indulto.
+A pena acessória de expulsão do País aplicada a Maria de Lurdes Varela, de 46 anos de idade, no processo n.º 530/92 CC do 2.º Juízo Criminal do Tribunal Judicial de Oeiras é revogada, por indulto.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 3/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-1997-581268), publicado em 1997-01-22.
 
 Assinado em 20 de Dezembro de 1996.
 

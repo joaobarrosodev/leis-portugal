@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-03-11'
+version_history:
+  file: portaria-981-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-08-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-03-11'
+    amending: pt:dre:426077:por
+    amending_title: Portaria n.º 161-A/97
+    changes:
+    - Altera Artigo unidades 20-20
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/981/1995/08/16/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:16:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 161-A/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-981-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,4 +162,6 @@ O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
 
 ## ANEXO — Modelo e dimensões do cartão de identificação do utente do Serviço Nacional de Saúde
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/188b00/50945095.pdf)
+(Revogado.)
+
+> Alterado pelo/a [Portaria n.º 161-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/161-a-1997-426077), publicado em 1997-03-06.

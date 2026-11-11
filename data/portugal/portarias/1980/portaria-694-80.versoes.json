@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:460614:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1980-09-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3f8526755f9977b9"
+   ]
+  },
+  {
+   "date": "1982-10-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:376597:por",
+     "title": "Portaria n.º 956/82",
+     "published": "1982-10-09",
+     "dre_path": "/dr/detalhe/portaria/956-1982-376597"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 7"
+   ],
+   "fragments": [
+    "bfebcdf79b6fe984"
+   ]
+  }
+ ],
+ "fragments": {
+  "3f8526755f9977b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Setembro\n\nVerificando-se que muitos dos estabelecimentos que vendem frango assado ao público o fazem a preço único por unidade, sistema que, facilitando a prática de preços especulativos, redunda, frequentemente, em prejuízo do consumidor, impõe-se determinar a obrigatoriedade de venda a peso do referido produto.\n\nNestes termos, ao abrigo do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 45835](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45835-1964-579491), de 27 de Julho de 1964, e no [Decreto-Lei n.º 533/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1975-312062), de 26 de Setembro:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, o seguinte:\n\n1.º A venda ao público de frango assado será feita a peso.\n\n2.º Em todos os locais de venda ao público de frango assado é obrigatória a afixação, por forma bem visível, de letreiro com indicação do respectivo preço por quilograma.\n\nSecretaria de Estado do Comércio Interno, 1 de Setembro de 1980. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves."
+  },
+  "bfebcdf79b6fe984": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1982-10-10",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 956/82](https://diariodarepublica.pt/dr/detalhe/portaria/956-1982-376597), publicado em 1982-10-09."
+   ],
+   "markdown": "de 20 de Setembro\n\nVerificando-se que muitos dos estabelecimentos que vendem frango assado ao público o fazem a preço único por unidade, sistema que, facilitando a prática de preços especulativos, redunda, frequentemente, em prejuízo do consumidor, impõe-se determinar a obrigatoriedade de venda a peso do referido produto.\n\nNestes termos, ao abrigo do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 45835](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45835-1964-579491), de 27 de Julho de 1964, e no [Decreto-Lei n.º 533/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1975-312062), de 26 de Setembro:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, o seguinte:\n\n1.º A venda ao público de frango assado será feita a peso.\n\n2.º Em todos os locais de venda ao público de frango assado é obrigatória a afixação, por forma bem visível, de letreiro com indicação do respectivo preço por quilograma.\n\n3.º A venda ao público de frango assado, efectuada com infracção do disposto no n.º 1.º, será punida com a multa de 5000$00 e 10000$00.\n\n4.º A infracção do disposto no n.º 2.º será punida nos termos do [Decreto-Lei n.º 533/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1975-312062), de 26 de Setembro.\n\n> Aditado pelo/a [Portaria n.º 956/82](https://diariodarepublica.pt/dr/detalhe/portaria/956-1982-376597), publicado em 1982-10-09.\n\nSecretaria de Estado do Comércio Interno, 1 de Setembro de 1980. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves."
+  }
+ }
+}

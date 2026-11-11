@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-05-31'
+version_history:
+  file: portaria-85-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-02-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-05-31'
+    amending: pt:dre:294568:por
+    amending_title: Portaria n.º 291/78
+    changes:
+    - Altera Artigo unidades 22-22
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:50:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 291/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-85-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,7 +157,9 @@ Chefe da Repartição do Pessoal do Corpo de Fuzileiros, que secretaria.
 
 6.º A relação dos militares indicados para transferência para a subclasse de equipagem é proposta pelo júri e, após aprovação do Chefe do Estado-Maior da Armada, é publicada na Ordem da DSP, 2.ª série, não menos de trinta dias antes da data a que essa transferência é referida.
 
-7.º (transitório) - A transferência referida a 1 de Outubro de 1977 será realizada em 1 de Junho de 1978.
+7.º (transitório) - A transferência referida a 1 de Outubro de 1977 será realizada em 15 de Julho de 1978.
+
+> Alterado pelo/a [Portaria n.º 291/78](https://diariodarepublica.pt/dr/detalhe/portaria/291-1978-294568), publicado em 1978-05-31.
 
 Estado-Maior da Armada, 31 de Janeiro de 1978. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante.
 

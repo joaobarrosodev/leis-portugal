@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-06-05'
+version_history:
+  file: decreto-presidente-republica-35-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-05-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-06-05'
+    amending: pt:dre:683195:por
+    amending_title: Declaração de Rectificação n.º 9/2003
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decpresrep/35/2003/05/23/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:44:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 9/2003.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-presidente-republica/2003/decreto-presidente-republica-35-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -101,7 +116,9 @@ de 23 de Maio
 
 O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
-É ratificado o Acordo entre a República Portuguesa e a República da Estónia sobre Readmissão de Pessoas em Situação Irregular, assinado em Lisboa em 12 de Novembro de 2001, aprovado, para ratificação, pela Resolução da Assembleia da República, n.º 46/2003, em 20 de Março.
+É ratificado o Acordo entre a República Portuguesa e a República da Estónia sobre Readmissão de Pessoas em Situação Irregular, assinado em Lisboa em 12 de Novembro de 2001, aprovado pela Resolução da Assembleia da República, n.º 46/2003, em 20 de Março.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 9/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2003-683195), publicado em 2003-06-05.
 
 Assinado em 8 de Maio de 2003.
 

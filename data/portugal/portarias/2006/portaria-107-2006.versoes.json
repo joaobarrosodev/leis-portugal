@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:551845:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-02-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2231769c92096160"
+   ]
+  },
+  {
+   "date": "2009-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:608232:por",
+     "title": "Portaria n.º 497/2009",
+     "published": "2009-05-11",
+     "dre_path": "/dr/detalhe/portaria/497-2009-608232"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "777197d30d7df430"
+   ]
+  }
+ ],
+ "fragments": {
+  "2231769c92096160": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Fevereiro\n\nCom fundamento no disposto na alínea a) do artigo 40.º e no artigo 160.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro;\n\nOuvido o Conselho Cinegético Municipal de Coruche:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caça do Tarrafeirinho, com o número de pessoa colectiva 507189728, com sede no Apartado 197, 2000 Santarém, a zona de caça associativa do Tarrafeirinho (processo n.º 4216-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Coruche e Santana do Mato, município de Coruche, com a área de 3334 ha.\n\n2.º A zona de caça concessionada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 20 de Janeiro de 2006.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2006/02/026b00/08900890.pdf)"
+  },
+  "777197d30d7df430": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-05-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 497/2009](https://diariodarepublica.pt/dr/detalhe/portaria/497-2009-608232), publicado em 2009-05-11."
+   ],
+   "markdown": "de 6 de Fevereiro\n\nCom fundamento no disposto na alínea a) do artigo 40.º e no artigo 160.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro;\n\nOuvido o Conselho Cinegético Municipal de Coruche:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, ao Clube de Caça do Tarrafeirinho, com o número de pessoa colectiva 507189728, com sede no Apartado 197, 2000 Santarém, a zona de caça associativa do Tarrafeirinho (processo n.º 4216-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Coruche e Santana do Mato, município de Coruche, com uma área de 334 ha.\n\n> Alterado pelo/a [Portaria n.º 497/2009](https://diariodarepublica.pt/dr/detalhe/portaria/497-2009-608232), publicado em 2009-05-11.\n\n2.º A zona de caça concessionada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 20 de Janeiro de 2006.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2006/02/026b00/08900890.pdf)"
+  }
+ }
+}

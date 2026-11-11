@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:540839:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-05-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7230b458b41d9fce"
+   ]
+  },
+  {
+   "date": "2003-06-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:683194:por",
+     "title": "Declaração de Rectificação n.º 8/2003",
+     "published": "2003-06-05",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/8-2003-683194"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4"
+   ],
+   "fragments": [
+    "d286f6f629d34828"
+   ]
+  }
+ ],
+ "fragments": {
+  "7230b458b41d9fce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Maio\n\nO Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:\n\nÉ ratificado o Acordo entre a República Portuguesa e a República da Roménia sobre Readmissão de Pessoas em Situação Irregular, assinado em Lisboa em 26 de Setembro de 2002, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 43/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/43-2003-540842), em 20 de Março.\n\nAssinado em 8 de Maio de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 13 de Maio de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "d286f6f629d34828": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2003-06-05",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 8/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-2003-683194), publicado em 2003-06-05."
+   ],
+   "markdown": "de 23 de Maio\n\nO Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:\n\nÉ ratificado o Acordo entre a República Portuguesa e a República da Roménia sobre Readmissão de Pessoas em Situação Irregular, assinado em Lisboa em 26 de Setembro de 2002, aprovado pela [Resolução da Assembleia da República n.º 43/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/43-2003-540842), em 20 de Março.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 8/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-2003-683194), publicado em 2003-06-05.\n\nAssinado em 8 de Maio de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 13 de Maio de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

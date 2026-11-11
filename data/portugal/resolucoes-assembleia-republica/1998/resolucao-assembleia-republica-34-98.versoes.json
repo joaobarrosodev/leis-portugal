@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:479878:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-06-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "040ec55eb8ea0e37"
+   ]
+  },
+  {
+   "date": "1999-03-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:138568:por",
+     "title": "Resolução da Assembleia da República n.º 26/99",
+     "published": "1999-03-30",
+     "dre_path": "/dr/detalhe/resolucao-assembleia-republica/26-1999-138568"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-11"
+   ],
+   "fragments": [
+    "917e64e84d5efa7c"
+   ]
+  }
+ ],
+ "fragments": {
+  "040ec55eb8ea0e37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Inquérito parlamentar para apreciação de actos dos Governos do PS e do PSD envolvendo o Estado e grupos económicos\n\nA Assembleia da República resolve, nos termos dos artigos 166.º, n.º 5, e 178.º, n.os 1, 2 e 5, da Constituição e dos artigos 1.º e 2.º, n.º 1, alínea a), da [Lei n.º 5/93](https://diariodarepublica.pt/dr/detalhe/lei/5-1993-626806), de 1 de Março, o seguinte:\n\n1 - A constituição de uma Comissão Parlamentar de Inquérito para Apreciação de Actos dos Governos do PS e do PSD Envolvendo o Estado e Grupos Económicos.\n\n2 - A Comissão tem por objecto a apreciação política de actos dos Governos nos seguintes casos:\n\nAlienação da TORRALTA;\n\nParticipação do IPE no capital da Companhia Real de Distribuição;\n\nProcesso de atribuição da terceira rede de telefones móveis;\n\nDação em pagamento das dívidas da Grão-Pará ao Estado;\n\nSubstituição de gestores das empresas públicas EDP, TRANSGÁS e PORTUCEL;\n\nProcessos de privatização do BTA, do BESCL, do Jornal de Notícias e Diário de Notícias, da Tranquilidade e da Mundial-Confiança;\n\nProcesso de oferta pública de aquisição do BPA lançado pelo BCP.\n\nAprovada em 4 de Junho de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos."
+  },
+  "917e64e84d5efa7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1999-03-30",
+   "changed_by": [
+    "Alterado pelo/a [Resolução da Assembleia da República n.º 26/99](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/26-1999-138568), publicado em 1999-03-30."
+   ],
+   "markdown": "Inquérito parlamentar para apreciação de actos dos Governos do PS e do PSD envolvendo o Estado e grupos económicos\n\nA Assembleia da República resolve, nos termos dos artigos 166.º, n.º 5, e 178.º, n.os 1, 2 e 5, da Constituição e dos artigos 1.º e 2.º, n.º 1, alínea a), da [Lei n.º 5/93](https://diariodarepublica.pt/dr/detalhe/lei/5-1993-626806), de 1 de Março, o seguinte:\n\n1 - A constituição de uma Comissão Parlamentar de Inquérito para Apreciação de Actos dos Governos do PS e do PSD Envolvendo o Estado e Grupos Económicos.\n\n2 - A Comissão tem por objecto a apreciação política de actos dos Governos nos seguintes casos:\n\nProcessos de privatização do BTA, do BESCL, do Jornal de Notícias, do Diário de Notícias, da Tranquilidade e da Mundial-Confiança;\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 26/99](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/26-1999-138568), publicado em 1999-03-30.\n\nProcesso de oferta pública de aquisição do BPA lançado pelo BCP.\n\nAprovada em 4 de Junho de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos."
+  }
+ }
+}

@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-09-13'
+version_history:
+  file: portaria-930-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-10-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-09-13'
+    amending: pt:dre:234909:por
+    amending_title: Portaria n.º 874/92
+    changes:
+    - Altera Artigo unidades 25-25
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:34:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 874/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-930-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -167,7 +182,9 @@ Disciplinas de opção
 
 Estágio
 
-1 - A Escola organizará um estágio com a duração total não inferior a 39 semanas.
+1 - A Escola organizará um estágio com duração total não inferior a 18 semanas.
+
+> Alterado pelo/a [Portaria n.º 874/92](https://diariodarepublica.pt/dr/detalhe/portaria/874-1992-234909), publicado em 1992-09-08.
 
 2 - O estágio tem carácter escolar, sendo o seu objectivo a aproximação do aluno à realidade da futura actividade profissional.
 

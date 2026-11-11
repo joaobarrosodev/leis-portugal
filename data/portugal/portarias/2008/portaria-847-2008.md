@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-05-16'
+version_history:
+  file: portaria-847-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-08-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-05-16'
+    amending: pt:dre:608231:por
+    amending_title: Portaria n.º 496/2009
+    changes:
+    - Altera Artigo unidades 3-3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/847/2008/08/12/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:34:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 496/2009. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-847-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,7 +141,9 @@ validation:
 
 de 12 de Agosto
 
-Pela [Portaria n.º 454/2002](https://diariodarepublica.pt/dr/detalhe/portaria/454-2002-288777), de 23 de Abril, alterada pela [Portaria n.º 1264-H/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1264-h-2004-616057), de 29 de Setembro, foi concessionada à Associação Recreativa de Caça e Pesca de Marrancos a zona de caça associativa de Marrancos (processo n.º 2844-DGRF), situada no município de Vila Verde.
+Pela [Portaria n.º 454/2002](https://diariodarepublica.pt/dr/detalhe/portaria/454-2002-288777), de 23 de Abril, alterada pela [Portaria n.º 1264-H/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1264-h-2004-616057), de 29 de Setembro, foi concessionada à Associação Recreativa de Caça e Pesca do Vale do Neiva a zona de caça associativa de Marrancos (processo n.º 2844-DGRF), situada no município de Vila Verde.
+
+> Alterado pelo/a [Portaria n.º 496/2009](https://diariodarepublica.pt/dr/detalhe/portaria/496-2009-608231), publicado em 2009-05-11.
 
 Entretanto, a entidade gestora veio requerer a anexação de outros prédios rústicos, tendo em simultâneo solicitado a correcção da área primitivamente concessionada de 547 ha para 509 ha por correcção dos limites oficiais do concelho e das freguesias.
 

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:488352:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-12-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8884646fd3c917fa"
+   ]
+  },
+  {
+   "date": "2006-02-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:683854:por",
+     "title": "Aviso n.º 334/2006",
+     "published": "2006-02-15",
+     "dre_path": "/dr/detalhe/aviso/334-2006-683854"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3"
+   ],
+   "fragments": [
+    "074e7f08ed421b8d"
+   ]
+  }
+ ],
+ "fragments": {
+  "8884646fd3c917fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que, em 27 de Julho de 2005, São Cristóvão e Nevis depositou o seu instrumento de adesão ao Acordo de Nice sobre a Classificação Internacional de Produtos e de Serviços com Fins de Registo de Marcas, concluído em Nice no dia 15 de Junho de 1957, revisto em Estocolmo em 14 de Julho de 1967 e em Genebra em 13 de Maio de 1977 e modificado em 28 de Setembro de 1979.\n\nPortugal é Parte do mesmo Acordo, aprovado pelo [Decreto-Lei n.º 41735](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41735-1958-352675), publicado no Diário do Governo, 1.ª série, n.º 153, de 16 de Julho de 1958, tendo depositado o seu instrumento de ratificação em 2 de Abril de 1959, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 88, de 18 de Abril de 1959.\n\nO Acordo de Nice, revisto e modificado, entrou em vigor para São Cristóvão e Nevis em 27 de Outubro de 2005.\n\nDirecção-Geral dos Assuntos Multilaterais, 23 de Novembro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício."
+  },
+  "074e7f08ed421b8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-02-15",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 334/2006](https://diariodarepublica.pt/dr/detalhe/aviso/334-2006-683854), publicado em 2006-02-15."
+   ],
+   "markdown": "Por ordem superior se torna público que, em 27 de Julho de 2005, São Cristóvão e Nevis depositou o seu instrumento de adesão ao Acordo de Nice sobre a Classificação Internacional de Produtos e de Serviços com Fins de Registo de Marcas, concluído em Nice no dia 15 de Junho de 1957, revisto em Estocolmo em 14 de Julho de 1967 e em Genebra em 13 de Maio de 1977 e modificado em 28 de Setembro de 1979.\n\nPortugal é Parte do mesmo Acordo, aprovado pelo [Decreto-Lei n.º 41735](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41735-1958-352675), publicado no Diário do Governo, 1.ª série, n.º 153, de 16 de Julho de 1958, tendo sido ratificado em 2 de Abril de 1959, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 88, de 18 de Abril de 1959.\n\n> Alterado pelo/a [Aviso n.º 334/2006](https://diariodarepublica.pt/dr/detalhe/aviso/334-2006-683854), publicado em 2006-02-15.\n\nO Acordo de Nice, revisto e modificado, entrou em vigor para São Cristóvão e Nevis em 27 de Outubro de 2005.\n\nDirecção-Geral dos Assuntos Multilaterais, 23 de Novembro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício."
+  }
+ }
+}

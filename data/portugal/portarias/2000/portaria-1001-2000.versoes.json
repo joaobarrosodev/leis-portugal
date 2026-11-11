@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:532864:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-10-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3242c4a8c5083480",
+    "dbadb1ae3b57c099",
+    "3bf8cdb34e7843e2"
+   ]
+  },
+  {
+   "date": "2000-12-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:598701:por",
+     "title": "Portaria n.º 1147/2000",
+     "published": "2000-12-04",
+     "dre_path": "/dr/detalhe/portaria/1147-2000-598701"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 10"
+   ],
+   "fragments": [
+    "b93a67a85333c15e",
+    "dbadb1ae3b57c099",
+    "3bf8cdb34e7843e2"
+   ]
+  }
+ ],
+ "fragments": {
+  "3242c4a8c5083480": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Outubro\n\nSob proposta do Instituto Politécnico do Porto e do seu Instituto Superior de Contabilidade e Administração;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nConsiderando o disposto na [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho, e na [Portaria n.º 457-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/457-a-1998-300227), de 29 de Julho, alterada pela [Portaria n.º 680-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-1998-273989), de 31 de Agosto;\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro) e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso bietápico de licenciatura em Comércio Internacional do Instituto Superior de Contabilidade e Administração do Porto, criado pela [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto, nos regimes diurno e nocturno, nos termos dos anexos à presente portaria.\n\n2.º\n\nNorma revogatória\n\nFindo o processo de transição fixado nos termos do artigo 31.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho, são revogadas:\n\na) A [Portaria n.º 1163/93](https://diariodarepublica.pt/dr/detalhe/portaria/1163-1993-686854), de 8 de Novembro, que autorizou o Instituto Politécnico do Porto, através do seu Instituto Superior de Contabilidade e Administração, a conferir o grau de bacharel em Estudos Superiores de Comércio;\n\nb) A [Portaria n.º 1152/94](https://diariodarepublica.pt/dr/detalhe/portaria/1152-1994-575878), de 27 de Dezembro, que autorizou o Instituto Politécnico do Porto, através do seu Instituto Superior de Contabilidade e Administração, a conferir o diploma de estudos superiores especializados em Comércio Internacional.\n\n3.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 1998-1999, inclusive.\n\nPelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 13 de Setembro de 2000."
+  },
+  "dbadb1ae3b57c099": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Instituto Politécnico do Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Instituto Politécnico do Porto\n\nInstituto Superior de Contabilidade e Administração\n\nCurso de Comércio Internacional\n\n[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/241b00/58385843.pdf)](https://files.diariodarepublica.pt/1s/2000/10/241b00/58385843.pdf)"
+  },
+  "3bf8cdb34e7843e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Instituto Politécnico do Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Instituto Politécnico do Porto\n\nInstituto Superior de Contabilidade e Administração\n\nCurso de Comércio Internacional\n\nRegime nocturno\n\n[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/241b00/58385843.pdf)](https://files.diariodarepublica.pt/1s/2000/10/241b00/58385843.pdf)"
+  },
+  "b93a67a85333c15e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2000-12-09",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 1147/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1147-2000-598701), publicado em 2000-12-04."
+   ],
+   "markdown": "de 18 de Outubro\n\nSob proposta do Instituto Politécnico do Porto e do seu Instituto Superior de Contabilidade e Administração;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nConsiderando o disposto na [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho, e na [Portaria n.º 457-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/457-a-1998-300227), de 29 de Julho, alterada pela [Portaria n.º 680-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-1998-273989), de 31 de Agosto;\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro) e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso bietápico de licenciatura em Comércio Internacional do Instituto Superior de Contabilidade e Administração do Porto, criado pela [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto, nos regimes diurno e nocturno, nos termos dos anexos à presente portaria.\n\n1.º-A\n\nNormas especiais\n\nAo curso aplica-se o disposto na alínea b2) do n.º 1 do artigo 13.º e no n.º 1 do artigo 26.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho.\n\n> Aditado pelo/a [Portaria n.º 1147/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1147-2000-598701), publicado em 2000-12-04.\n\n2.º\n\nNorma revogatória\n\nFindo o processo de transição fixado nos termos do artigo 31.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho, são revogadas:\n\na) A [Portaria n.º 1163/93](https://diariodarepublica.pt/dr/detalhe/portaria/1163-1993-686854), de 8 de Novembro, que autorizou o Instituto Politécnico do Porto, através do seu Instituto Superior de Contabilidade e Administração, a conferir o grau de bacharel em Estudos Superiores de Comércio;\n\nb) A [Portaria n.º 1152/94](https://diariodarepublica.pt/dr/detalhe/portaria/1152-1994-575878), de 27 de Dezembro, que autorizou o Instituto Politécnico do Porto, através do seu Instituto Superior de Contabilidade e Administração, a conferir o diploma de estudos superiores especializados em Comércio Internacional.\n\n3.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 1998-1999, inclusive.\n\nPelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 13 de Setembro de 2000."
+  }
+ }
+}

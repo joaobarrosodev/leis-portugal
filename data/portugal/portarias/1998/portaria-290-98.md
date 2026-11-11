@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-05-30'
+version_history:
+  file: portaria-290-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-05-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-05-30'
+    amending: pt:dre:248873:por
+    amending_title: Declaração de Rectificação n.º 10-M/98
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/290/1998/05/06/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:07:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 10-M/98.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-290-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,7 +142,9 @@ Considerando que, por força da referida alteração orgânica, se torna necess�
 
 Manda o Governo, pelo Ministro da Educação, ao abrigo do disposto na alínea c) do artigo 199.º da Constituição, o seguinte:
 
-1.º É aprovado o modelo, anexo a esta portaria, de cartões de identidade para uso pessoal dos funcionários integrados na carreira técnica superior de inspecção à educação.
+1.º É aprovado o modelo, anexo a esta portaria, de cartões de identidade para uso pessoal dos funcionários integrados na carreira técnica superior de inspecção da Inspecção-Geral da Educação.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 10-M/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-m-1998-248873), publicado em 1998-05-30.
 
 2.º Os cartões serão de cor branca, com faixa vertical, com as cores verde e vermelha no lado esquerdo.
 

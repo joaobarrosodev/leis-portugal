@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-06-13'
+version_history:
+  file: portaria-409-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-06-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-13'
+    amending: pt:dre:494507:por
+    amending_title: Portaria n.º 612/2009
+    changes:
+    - Altera Artigo unidades 3-3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/409/2008/06/09/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:32:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 612/2009. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-409-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,7 +137,9 @@ validation:
 
 de 9 de Junho
 
-Pela [Portaria n.º 1385/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1385-2001-576914), de 7 de Dezembro, foi criada a zona de caça municipal de Geraz do Lima (processo n.º 2709-DGRF), situada no município de Viana do Castelo, válida até 1 de Março de 2008, e transferida a sua gestão para o Clube de Caçadores de Viana do Castelo.
+Pela [Portaria n.º 1385/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1385-2001-576914), de 7 de Dezembro, foi criada a zona de caça municipal de Geraz do Lima (processo n.º 2709-DGRF), situada no município de Viana do Castelo, válida até 1 de Março de 2008, e transferida a sua gestão para o Clube de Caçadores do Vale do Lima.
+
+> Alterado pelo/a [Portaria n.º 612/2009](https://diariodarepublica.pt/dr/detalhe/portaria/612-2009-494507), publicado em 2009-06-08.
 
 Entretanto, a entidade titular veio requerer a sua renovação.
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-04-30'
+version_history:
+  file: portaria-92-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-02-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-04-30'
+    amending: pt:dre:176518:por
+    amending_title: Declaração de Rectificação n.º 60/94
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/92/1994/02/07/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:41:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 60/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-92-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,7 +144,9 @@ b) Motoristas profissionais de veículos automóveis ligeiros de passageiros em 
 
 c) Motoristas profissionais, exercendo a profissão por conta de outrem, residentes no concelho de Oeiras há mais de um ano;
 
-d) Indústrias de transportes com sede ou residência no concelho de Oeiras há mais de um ano;
+d) Industriais de transportes com sede ou residência no concelho de Oeiras há mais de um ano;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 60/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-1994-176518), publicado em 1994-04-30.
 
 e) Concorrentes com carta de condução residentes no concelho de Oeiras há mais de um ano.
 

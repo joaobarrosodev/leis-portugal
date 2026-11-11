@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:516926:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-05-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "275356e2f80f6688",
+    "0d34a08d75527158"
+   ]
+  },
+  {
+   "date": "1998-05-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:248873:por",
+     "title": "Declaração de Rectificação n.º 10-M/98",
+     "published": "1998-05-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/10-m-1998-248873"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "0910e582100326b0",
+    "0d34a08d75527158"
+   ]
+  }
+ ],
+ "fragments": {
+  "275356e2f80f6688": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Maio\n\nPela [Portaria n.º 22968](https://diariodarepublica.pt/dr/detalhe/portaria/22968-1967-388244), de 19 de Outubro de 1967, foi autorizada a criação de cartões de identidade para todos os funcionários dos serviços centrais do Ministério da Educação.\n\nCom a entrada em vigor do [Decreto-Lei n.º 271/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1995-668484), de 23 de Outubro, alterado, por ratificação, pela [Lei n.º 18/96](https://diariodarepublica.pt/dr/detalhe/lei/18-1996-431038), de 20 de Junho, a Inspecção-Geral da Educação passou a dispor de um quadro próprio para o pessoal inspectivo, sendo a sua gestão da competência do inspector-geral face à extinção no quadro único do Ministério da Educação de todos os lugares relativos à anterior carreira de inspecção.\n\nConsiderando que, por força da referida alteração orgânica, se torna necessário proceder a uma adequação do modelo de cartão de identidade aprovado pelo citado diploma:\n\nManda o Governo, pelo Ministro da Educação, ao abrigo do disposto na alínea c) do artigo 199.º da Constituição, o seguinte:\n\n1.º É aprovado o modelo, anexo a esta portaria, de cartões de identidade para uso pessoal dos funcionários integrados na carreira técnica superior de inspecção à educação.\n\n2.º Os cartões serão de cor branca, com faixa vertical, com as cores verde e vermelha no lado esquerdo.\n\n3.º Os cartões serão emitidos pela Inspecção-Geral da Educação, assinados pelo inspector-geral e autenticados com a aposição do selo branco, de modo que este apanhe o canto inferior esquerdo da fotografia.\n\n4.º Os cartões serão restituídos quando se verificar qualquer alteração nos cargos ou categorias dos seus titulares e recolhidos quando estes deixarem de os exercer.\n\n5.º Em caso de extravio, de destruição ou de deterioração será emitida uma 2.ª via, de que se fará referência expressa no cartão, mantendo este o número anterior.\n\nMinistério da Educação.\n\nAssinada em 15 de Abril de 1998.\n\nO Ministro da Educação, Eduardo Carrega Marçal Grilo."
+  },
+  "0d34a08d75527158": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Modelo de cartão de identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Modelo de cartão de identidade\n\n[(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/1998/05/104b00/20802080.pdf)"
+  },
+  "0910e582100326b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1998-05-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 10-M/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-m-1998-248873), publicado em 1998-05-30."
+   ],
+   "markdown": "de 6 de Maio\n\nPela [Portaria n.º 22968](https://diariodarepublica.pt/dr/detalhe/portaria/22968-1967-388244), de 19 de Outubro de 1967, foi autorizada a criação de cartões de identidade para todos os funcionários dos serviços centrais do Ministério da Educação.\n\nCom a entrada em vigor do [Decreto-Lei n.º 271/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1995-668484), de 23 de Outubro, alterado, por ratificação, pela [Lei n.º 18/96](https://diariodarepublica.pt/dr/detalhe/lei/18-1996-431038), de 20 de Junho, a Inspecção-Geral da Educação passou a dispor de um quadro próprio para o pessoal inspectivo, sendo a sua gestão da competência do inspector-geral face à extinção no quadro único do Ministério da Educação de todos os lugares relativos à anterior carreira de inspecção.\n\nConsiderando que, por força da referida alteração orgânica, se torna necessário proceder a uma adequação do modelo de cartão de identidade aprovado pelo citado diploma:\n\nManda o Governo, pelo Ministro da Educação, ao abrigo do disposto na alínea c) do artigo 199.º da Constituição, o seguinte:\n\n1.º É aprovado o modelo, anexo a esta portaria, de cartões de identidade para uso pessoal dos funcionários integrados na carreira técnica superior de inspecção da Inspecção-Geral da Educação.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 10-M/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-m-1998-248873), publicado em 1998-05-30.\n\n2.º Os cartões serão de cor branca, com faixa vertical, com as cores verde e vermelha no lado esquerdo.\n\n3.º Os cartões serão emitidos pela Inspecção-Geral da Educação, assinados pelo inspector-geral e autenticados com a aposição do selo branco, de modo que este apanhe o canto inferior esquerdo da fotografia.\n\n4.º Os cartões serão restituídos quando se verificar qualquer alteração nos cargos ou categorias dos seus titulares e recolhidos quando estes deixarem de os exercer.\n\n5.º Em caso de extravio, de destruição ou de deterioração será emitida uma 2.ª via, de que se fará referência expressa no cartão, mantendo este o número anterior.\n\nMinistério da Educação.\n\nAssinada em 15 de Abril de 1998.\n\nO Ministro da Educação, Eduardo Carrega Marçal Grilo."
+  }
+ }
+}

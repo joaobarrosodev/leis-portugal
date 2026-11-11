@@ -30,10 +30,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-12-02'
+version_history:
+  file: aviso-banco-portugal-6-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-01-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-02'
+    amending: pt:dre:1130139:por
+    amending_title: Aviso do Banco de Portugal n.º 12/2009
+    changes:
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 18-18
+    - Altera Artigo unidades 19-23
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/avbdp/6/2000/01/06/p/dre/pt/html
@@ -59,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:06:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso do Banco de Portugal n.º 12/2009.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/avisos-banco-portugal/2000/aviso-banco-portugal-6-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,7 +154,9 @@ d) Declaração, subscrita pelos respectivos directores, de que se encontram em 
 
 3.º No caso das caixas agrícolas que fazem parte do sistema integrado do crédito agrícola mútuo, deve ainda ser junto ao pedido o parecer favorável da Caixa Central.
 
-4.º Só serão autorizadas a desenvolver alguma ou algumas das actividades a que se refere o n.º 1.º as caixas agrícolas que, satisfazendo todas as restantes condições, disponham de fundos próprios suficientes para o tipo e volume das operações que pretendam realizar, os quais não poderão, em qualquer caso, ser inferiores a 750000 contos.
+4.º Só serão autorizadas a desenvolver alguma ou algumas das actividades a que se refere o n.º 1.º as caixas agrícolas que, satisfazendo todas as restantes condições, disponham de fundos próprios suficientes para o tipo e volume das operações que pretendam realizar, os quais não poderão, em qualquer caso, ser inferiores a 10.000.000 (euro).
+
+> Alterado pelo/a [Aviso do Banco de Portugal n.º 12/2009](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/12-2009-1130139), publicado em 2009-12-02.
 
 5.º A autorização prevista no n.º 1.º poderá ser revogada se:
 
@@ -145,16 +164,20 @@ a) Os fundos próprios da caixa agrícola se tornarem inferiores aos previstos n
 
 b) Se verificar que a caixa agrícola deixou de dispor de algum dos outros pressupostos da autorização referidos no n.º 2.º
 
-6.º As caixas agrícolas que pretendam obter a autorização prevista no n.º 2 do artigo 28.º do regime jurídico do crédito agrícola mútuo e das cooperativas de crédito agrícola, aprovado pelo [Decreto-Lei n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1991-693844), de 11 de Janeiro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 102/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1999-138778), de 31 de Março, devem fazer prova junto do Banco de Portugal de que cumprem, em base individual, as regras prudenciais fixadas ao abrigo do artigo 99.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras.
+6.º Para efeitos de determinação do cumprimento das regras prudenciais previstas na alínea c) do n.º 2.º e do montante mínimo de fundos próprios determinado no n.º 4.º, não deverão ser consideradas as isenções, concedidas pelo Banco de Portugal, aos limites estabelecidos nos n.os 6.º e 7.º do Aviso do Banco de Portugal n.º 12/92.
 
-7.º As caixas agrícolas que fazem parte do sistema integrado do crédito agrícola mútuo devem juntar também ao pedido o parecer favorável da Caixa Central.
+> Alterado pelo/a [Aviso do Banco de Portugal n.º 12/2009](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/12-2009-1130139), publicado em 2009-12-02.
 
-8.º A autorização a que se refere o n.º 6.º poderá ser revogada se a caixa agrícola deixar de cumprir alguma das regras prudenciais mencionadas nesse número.
+7.º - (Revogado.)
 
-9.º O saldo do crédito concedido ao abrigo da autorização a que se refere o mesmo n.º 6.º não pode exceder 20% do activo líquido total da caixa agrícola reportado a 31 de Dezembro do último exercício.
+8.º - (Revogado.)
 
-10.º No caso das caixas agrícolas que tenham iniciado a sua actividade durante o ano que estiver a decorrer, a percentagem referida no número anterior incidirá sobre o activo líquido total da caixa agrícola apurado com base na última «situação analítica mensal» remetida ao Banco de Portugal.
+9.º - (Revogado.)
 
-11.º Tratando-se de caixas agrícolas resultantes de fusão realizada durante o ano que estiver a decorrer, a percentagem referida no n.º 9.º incidirá sobre a soma do activo líquido total das caixas participantes na fusão, reportado a 31 de Dezembro do último exercício.
+10.º - (Revogado.)
+
+11.º - (Revogado.)
+
+> Alterado pelo/a [Aviso do Banco de Portugal n.º 12/2009](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/12-2009-1130139), publicado em 2009-12-02.
 
 Banco de Portugal, 29 de Dezembro de 1999. - O Governador, António de Sousa.

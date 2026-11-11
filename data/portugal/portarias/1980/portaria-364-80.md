@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-05-20'
+version_history:
+  file: portaria-364-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-07-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-05-20'
+    amending: pt:dre:573691:por
+    amending_title: Portaria n.º 403/81
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:18:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 403/81. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-364-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,7 +132,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 2.º Os cartões serão de modelo anexo a esta portaria e sobre a assinatura do presidente da direcção do Instituto do Azeite e Produtos Oleaginosos será aposto o selo branco privativo do organismo.
 
-3.º O fundo dos cartões será de cor branca, tendo impresso, a verde claro, a designação «Instituto do Azeite e Produtos Oleaginosos». Terão na frente uma barra oblíqua, que irá do canto inferior esquerdo ao canto superior direito, contendo as cores da bandeira nacional, com a largura de 10 mm, e no verso, no canto inferior esquerdo, a indicação de que o modelo foi aprovado pela presente portaria.
+3.º O fundo dos cartões será de cor branca, tendo impresso a verde-claro a designação «Instituto do Azeite e Produtos Oleaginosos». Terá na frente uma barra oblíqua, que irá do canto superior esquerdo ao canto inferior direito, contendo as cores da bandeira nacional, com a largura de 10 mm, e no verso, no canto inferior esquerdo, a indicação de que o modelo foi aprovado pela presente portaria.
+
+> Alterado pelo/a [Portaria n.º 403/81](https://diariodarepublica.pt/dr/detalhe/portaria/403-1981-573691), publicado em 1981-05-20.
 
 4.º Os cartões serão emitidos pelo Instituto do Azeite e Produtos Oleaginosos e serão assinados, nos locais respectivos, pelo presidente da direcção e pelo portador.
 

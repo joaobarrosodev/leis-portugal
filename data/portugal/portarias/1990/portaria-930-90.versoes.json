@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:554584:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1990-10-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4d8c694a55f83fe9"
+   ]
+  },
+  {
+   "date": "1992-09-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:234909:por",
+     "title": "Portaria n.º 874/92",
+     "published": "1992-09-08",
+     "dre_path": "/dr/detalhe/portaria/874-1992-234909"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 25-25"
+   ],
+   "fragments": [
+    "e8866efba32eb874"
+   ]
+  }
+ ],
+ "fragments": {
+  "4d8c694a55f83fe9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Outubro\n\nSob proposta das comissões instaladoras do Instituto Politécnico de Faro e da sua Escola Superior de Tecnologia;\n\nAo abrigo do disposto no Capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nObjectivo\n\nA presente portaria visa alterar a designação e a regulamentação do curso de bacharelato em Equipamentos Térmicos ministrado pela Escola Superior de Tecnologia do Instituto Politécnico de Faro e criado pela Portaria n.º 3l7-H/86, de 24 de Junho.\n\n2.º\n\nAlteração de designação\n\nO curso referido no n.º 1.º passa a designar-se por curso de bacharelato em Engenharia Térmica.\n\n3.º\n\nDuração do curso\n\nO curso tem a duração de três anos lectivos.\n\n4.º\n\nPlanos de estudos\n\nO plano de estudos do curso é o constante do anexo à presente portaria.\n\n5.º\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integre o plano de estudos como disciplina de opção é 10.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.\n\n6.º\n\nEstágio\n\n1 - A Escola organizará um estágio com a duração total não inferior a 39 semanas.\n\n2 - O estágio tem carácter escolar, sendo o seu objectivo a aproximação do aluno à realidade da futura actividade profissional.\n\n3 - O estágio será objecto de avaliação, que se traduzirá numa classificação.\n\n4 - A realização e avaliação do estágio obedecerá a regulamento a aprovar pela comissão instaladora da Escola Superior de Tecnologia, sob proposta do conselho científico.\n\n5 - O regulamento a que se refere o n.º 4 será sujeito a homologação da comissão instaladora do Instituto Politécnico de Faro.\n\n7.º\n\nClassificação final\n\n1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o respectivo plano de estudos e do estágio a que se referem os n.os 4.º e 6.º\n\n2 - Os coeficientes de ponderação são fixados pelo conselho cientifico.\n\n8.º\n\nCondições para obtenção do grau\n\nÉ condição para a obtenção do grau de bacharel em Engenharia Térmica a aprovação cumulativa:\n\na) Na totalidade das disciplinas que integram o respectivo plano de estudos;\n\nb) No estágio a que se refere o n.º 6.º\n\n9.º\n\nRegime de transição\n\nAs regras do regime de transição a adoptar para os alunos que hajam estado inscritos no anterior plano de estudos serão fixadas pela comissão instaladora do Instituto, sob proposta da comissão instaladora da Escola, ouvido o conselho científico.\n\n10.º\n\nEntrada em funcionamento\n\nCabe ao presidente da comissão instaladora do Instituto Politécnico de Faro, sob proposta da comissão instaladora da Escola Superior de Tecnologia, ouvido o conselho científico, fixar o ano lectivo em que entrarão em funcionamento os planos de estudos aprovados pela presente portaria.\n\n11.º\n\nDisposição derrogatória\n\nSem prejuízo do período de transição, a que se refere o n.º 9.º, é derrogada a [Portaria n.º 317-H/86](https://diariodarepublica.pt/dr/detalhe/portaria/317-h-1986-621750), de 24 de Junho, na parte referente à regulamentação do curso de bacharelato em Equipamentos Térmicos.\n\nMinistério da Educação.\n\nAssinada em 30 de Agosto de 1990.\n\nPelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/22800/40824083.pdf)"
+  },
+  "e8866efba32eb874": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1992-09-13",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 874/92](https://diariodarepublica.pt/dr/detalhe/portaria/874-1992-234909), publicado em 1992-09-08."
+   ],
+   "markdown": "de 2 de Outubro\n\nSob proposta das comissões instaladoras do Instituto Politécnico de Faro e da sua Escola Superior de Tecnologia;\n\nAo abrigo do disposto no Capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nObjectivo\n\nA presente portaria visa alterar a designação e a regulamentação do curso de bacharelato em Equipamentos Térmicos ministrado pela Escola Superior de Tecnologia do Instituto Politécnico de Faro e criado pela Portaria n.º 3l7-H/86, de 24 de Junho.\n\n2.º\n\nAlteração de designação\n\nO curso referido no n.º 1.º passa a designar-se por curso de bacharelato em Engenharia Térmica.\n\n3.º\n\nDuração do curso\n\nO curso tem a duração de três anos lectivos.\n\n4.º\n\nPlanos de estudos\n\nO plano de estudos do curso é o constante do anexo à presente portaria.\n\n5.º\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integre o plano de estudos como disciplina de opção é 10.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.\n\n6.º\n\nEstágio\n\n1 - A Escola organizará um estágio com duração total não inferior a 18 semanas.\n\n> Alterado pelo/a [Portaria n.º 874/92](https://diariodarepublica.pt/dr/detalhe/portaria/874-1992-234909), publicado em 1992-09-08.\n\n2 - O estágio tem carácter escolar, sendo o seu objectivo a aproximação do aluno à realidade da futura actividade profissional.\n\n3 - O estágio será objecto de avaliação, que se traduzirá numa classificação.\n\n4 - A realização e avaliação do estágio obedecerá a regulamento a aprovar pela comissão instaladora da Escola Superior de Tecnologia, sob proposta do conselho científico.\n\n5 - O regulamento a que se refere o n.º 4 será sujeito a homologação da comissão instaladora do Instituto Politécnico de Faro.\n\n7.º\n\nClassificação final\n\n1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o respectivo plano de estudos e do estágio a que se referem os n.os 4.º e 6.º\n\n2 - Os coeficientes de ponderação são fixados pelo conselho cientifico.\n\n8.º\n\nCondições para obtenção do grau\n\nÉ condição para a obtenção do grau de bacharel em Engenharia Térmica a aprovação cumulativa:\n\na) Na totalidade das disciplinas que integram o respectivo plano de estudos;\n\nb) No estágio a que se refere o n.º 6.º\n\n9.º\n\nRegime de transição\n\nAs regras do regime de transição a adoptar para os alunos que hajam estado inscritos no anterior plano de estudos serão fixadas pela comissão instaladora do Instituto, sob proposta da comissão instaladora da Escola, ouvido o conselho científico.\n\n10.º\n\nEntrada em funcionamento\n\nCabe ao presidente da comissão instaladora do Instituto Politécnico de Faro, sob proposta da comissão instaladora da Escola Superior de Tecnologia, ouvido o conselho científico, fixar o ano lectivo em que entrarão em funcionamento os planos de estudos aprovados pela presente portaria.\n\n11.º\n\nDisposição derrogatória\n\nSem prejuízo do período de transição, a que se refere o n.º 9.º, é derrogada a [Portaria n.º 317-H/86](https://diariodarepublica.pt/dr/detalhe/portaria/317-h-1986-621750), de 24 de Junho, na parte referente à regulamentação do curso de bacharelato em Equipamentos Térmicos.\n\nMinistério da Educação.\n\nAssinada em 30 de Agosto de 1990.\n\nPelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/22800/40824083.pdf)"
+  }
+ }
+}

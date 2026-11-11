@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-10-11'
+version_history:
+  file: despacho-normativo-109-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-05-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-10-11'
+    amending: pt:dre:441159:por
+    amending_title: Despacho Normativo n.º 188/83; Despacho Normativo n.º 188/83
+    changes:
+    - Altera Artigo unidades 8-9
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:22:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 188/83; Despacho
+    Normativo n.º 188/83. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1983/despacho-normativo-109-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,9 +136,11 @@ Ao abrigo do disposto no n.º 3.º da [Portaria n.º 321/79](https://diariodarep
 
 1 - Os preços do tomate destinado à indústria transformadora para a campanha de 1983 são os seguintes:
 
-1.ª qualidade - 5$00;
+1.ª qualidade - 5$20;
 
-2.ª qualidade - 4$20.
+2.ª qualidade - 4$40.
+
+> Alterado pelo/a [Despacho Normativo n.º 188/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/188-1983-441159), publicado em 1983-10-06.
 
 2 - Os preços indicados no número anterior referem-se ao tomate sobre veículo de transporte na plantação.
 

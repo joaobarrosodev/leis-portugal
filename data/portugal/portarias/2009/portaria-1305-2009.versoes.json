@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:482872:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-10-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "30f75992cec1c972"
+   ]
+  },
+  {
+   "date": "2010-02-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:609619:por",
+     "title": "Portaria n.º 111/2010",
+     "published": "2010-02-23",
+     "dre_path": "/dr/detalhe/portaria/111-2010-609619"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "6189226d25712b3c"
+   ]
+  }
+ ],
+ "fragments": {
+  "30f75992cec1c972": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Outubro\n\nPela [Portaria n.º 1280/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1280-2001-604846), de 15 de Novembro, alterada pela [Portaria n.º 1174/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1174-2002-174092), de 29 de Agosto, foi concessionada à Associação de Caçadores de Castelo Branco a zona de caça associativa dos Abrunheiros e Aravil (processo n.º 2676-AFN), situada no município de Castelo Branco.\n\nA concessionária requereu agora a anexação à referida zona de caça de outros prédios rústicos sitos no município de Idanha-a-Nova.\n\nAssim:\n\nCom fundamento no disposto no artigo 11.º e na alínea a) do artigo 40.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a actual redacção, e ouvido o Conselho Cinegético Municipal, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º São anexados à presente zona de caça vários prédios rústicos sitos na freguesia de Penamacor, município de Idanha-a-Nova, com a área de 80 ha, ficando a mesma com a área total de 1050 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n2.º A presente anexação só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 12 de Outubro de 2009.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20200/0787007871.pdf)"
+  },
+  "6189226d25712b3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2010-02-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 111/2010](https://diariodarepublica.pt/dr/detalhe/portaria/111-2010-609619), publicado em 2010-02-23."
+   ],
+   "markdown": "de 19 de Outubro\n\nPela [Portaria n.º 1280/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1280-2001-604846), de 15 de Novembro, alterada pela [Portaria n.º 1174/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1174-2002-174092), de 29 de Agosto, foi concessionada à Associação de Caçadores de Castelo Branco a zona de caça associativa dos Abrunheiros e Aravil (processo n.º 2676-AFN), situada no município de Castelo Branco.\n\nA concessionária requereu agora a anexação à referida zona de caça de outros prédios rústicos sitos no município de Idanha-a-Nova.\n\nAssim:\n\nCom fundamento no disposto no artigo 11.º e na alínea a) do artigo 40.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a actual redacção, e ouvido o Conselho Cinegético Municipal, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º São anexados à zona de caça associativa de Abrunheiros e Aravil (processo n.º 2676-AFN) os prédios rústicos sitos na freguesia de Ladoeiro, município de Idanha-a-Nova, com a área de 80 ha, ficando a mesma com a área total de 1050 ha, conforme planta anexa a esta Portaria e que dela faz parte integrante.\n\n> Alterado pelo/a [Portaria n.º 111/2010](https://diariodarepublica.pt/dr/detalhe/portaria/111-2010-609619), publicado em 2010-02-23.\n\n2.º A presente anexação só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 12 de Outubro de 2009.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20200/0787007871.pdf)"
+  }
+ }
+}

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-08-31'
+version_history:
+  file: despacho-normativo-34-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-02-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-08-31'
+    amending: pt:dre:688444:por
+    amending_title: Declaração de Rectificação n.º 191/91
+    changes:
+    - Altera Artigo unidades 2-2
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/34/1991/02/02/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:52:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 191/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1991/despacho-normativo-34-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,7 +128,9 @@ validation:
 
 # Despacho Normativo n.º 34/91
 
-Considerando que em 28 de Outubro de 1989 cessou a comissão de serviço Fernando Neto Mateus, à data director de serviços da Direcção-Geral dos Equipamentos Educativos;
+Considerando que em 28 de Outubro de 1989 cessou a comissão de serviço Fernando Neto Mateus da Silva, à data director de serviços da Direcção-Geral dos Equipamentos Educativos;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 191/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/191-1991-688444), publicado em 1991-08-31.
 
 Considerando o disposto na alínea a) do n.º 2 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, e nos n.os 4 e 5 do mesmo artigo e diploma:
 

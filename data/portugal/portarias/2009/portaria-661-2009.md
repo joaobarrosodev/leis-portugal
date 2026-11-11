@@ -42,10 +42,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-09-18'
+version_history:
+  file: portaria-661-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-06-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-09-18'
+    amending: pt:dre:341443:por
+    amending_title: Portaria n.º 891/2010
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/661/2009/06/17/p/dre/pt/html
@@ -71,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:41:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 891/2010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-661-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,9 +153,13 @@ Assim:
 
 Com base no disposto no artigo 46.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, e com fundamento no artigo 47.º, na alínea a) do artigo 40.º e ainda no n.º 1 do artigo 118.º, todos do diploma acima identificado e após audição do Conselho Cinegético Municipal do Alandroal no que respeita à concessão da zona de caça turística, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º É desanexado da zona de caça turística da Herdade da Defesa da Bobadela de Baixo e outras (processo n.º 146-AFN) o prédio rústico denominado Herdade da Defesa da Bobadela de Cima, sito na freguesia de Capelins, município do Alandroal, com a área de 530 ha, ficando a mesma com a área total de 992 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+1.º É desanexado da zona de caça turística da Herdade da Defesa da Bobadela de Baixo e outras (processo n.º 146-AFN) o prédio rústico denominado Herdade da Defesa da Bobadela de Cima, sito na freguesia de Capelins, município de Alandroal, com a área de 530 ha, ficando esta zona de caça com a área total de 549 ha, conforme planta anexa a esta portaria e que dela faz parte integrante.
 
-2.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, a João de Almeida Dias Coutinho, com o número de identificação fiscal 105569100 e sede na Herdade da Defesa do Abadel, apartado 39, 7100 Estremoz, a zona de caça turística da Herdade da Defesa do Abadel (processo n.º 4994-AFN), englobando o prédio rústico denominado Herdade da Defesa da Bobadela de Cima, sito na freguesia de Capelins, município do Alandroal, com a área de 530 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+> Alterado pelo/a [Portaria n.º 891/2010](https://diariodarepublica.pt/dr/detalhe/portaria/891-2010-341443), publicado em 2010-09-13.
+
+2.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, a João de Almeida Dias Coutinho, com o número de identificação fiscal 105569100, residente na Herdade da Defesa do Abadel, apartado 39, 7100 Estremoz, a zona de caça turística da Herdade da Defesa do Abadel (processo n.º 4994-AFN), constituída pelo prédio rústico denominado Herdade da Defesa da Bobadela de Cima, sito na freguesia de Capelins, município de Alandroal, com a área de 508 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 891/2010](https://diariodarepublica.pt/dr/detalhe/portaria/891-2010-341443), publicado em 2010-09-13.
 
 3.º A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza até ao máximo de 10 % da área total da zona de caça.
 

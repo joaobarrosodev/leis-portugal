@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-11-29'
+version_history:
+  file: resolucao-conselho-ministros-38-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-10-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-11-29'
+    amending: pt:dre:240797:por
+    amending_title: Resolução do Conselho de Ministros n.º 41/89; Resolução do Conselho de Ministros n.º 41/89
+    changes:
+    - Altera Artigo unidades 14-14
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T20:38:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 41/89; Resolução do Conselho de Ministros n.º 41/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1989/resolucao-conselho-ministros-38-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,7 +164,9 @@ Nos termos das alíneas d) e g) do artigo 202.º da Constituição, o Conselho d
 
 7 - Para efeitos do disposto no n.º 5, será concedido um desconto suplementar de 10% se o pagamento for a pronto.
 
-8 - Para efeitos da presente resolução, consideram-se trabalhadores da Companhia de Seguros Tranquilidade, S. A., todas as pessoas que à data da publicação deste diploma mantenham com aquela sociedade um vínculo laboral, bem como as que hajam mantido vínculo laboral com a Tranquilidade Seguros, E. P., e com a Companhia de Seguros Tranquilidade, S. A., durante mais de três anos.
+8 - Para efeitos da presente resolução, consideram-se trabalhadores da Companhia de Seguros Tranquilidade, S. A., todas as pessoas que, à data da publicação deste diploma, mantenham com aquela sociedade um vínculo laboral, bem como as que hajam mantido vínculo laborar com a Tranquilidade Seguros, E. P., ou com as empresas privadas que por via de nacionalização ou qualquer outra se integraram nesta empresa pública, desde que o tempo de serviço prestado em qualquer dessas empresas, isolada ou cumulativamente, seja superior a três anos.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 41/89](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-1989-240797), publicado em 1989-11-24.
 
 9 - Para efeitos do regime definido no número anterior, consideram-se também abrangidos os titulares dos órgãos sociais e os trabalhadores com contratos a prazo.
 

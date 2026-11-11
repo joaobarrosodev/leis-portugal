@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-01-16'
+version_history:
+  file: portaria-799-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-09-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-01-16'
+    amending: pt:dre:532039:por
+    amending_title: Portaria n.º 27/94
+    changes:
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 17-17
+    - Altera Artigo unidades 18-18
+    - Altera Artigo unidades 19-19
 identifiers:
   celex: null
   eli: null
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:01:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 27/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-799-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,7 +147,9 @@ Manda o Governo, pelos Ministros da Defesa Nacional, da Agricultura, Pescas e Al
 
 5.º A cédula dos marítimos do grupo auxiliar terá obrigatoriamente carimbada no rosto a palavra «auxiliar».
 
-6.º Os averbamentos nas cédulas destinam-se a registar os factos de carácter exclusivamente profissional, constantes do «registo da inscrição marítima», que envolvam a formação, certificação e actividade dos marítimos.
+6.º Os averbamentos nas cédulas destinam-se a registar os factos de carácter exclusivamente profissional, constantes do «registo de inscrição marítima», que envolvam a formação, certificação e actividade dos marítimos, bem como a atestar que a mesma constitui documento de identificação de marítimo do seu titular, para os fins da Convenção n.º 108 da OIT.
+
+> Alterado pelo/a [Portaria n.º 27/94](https://diariodarepublica.pt/dr/detalhe/portaria/27-1994-532039), publicado em 1994-01-11.
 
 7.º Não são permitidos averbamentos de natureza disciplinar e penal e ainda os relativos à qualidade de trabalho.
 
@@ -139,11 +159,19 @@ Manda o Governo, pelos Ministros da Defesa Nacional, da Agricultura, Pescas e Al
 
 a) Cartas de oficial e consequentes mudanças de categoria;
 
-b) Registos de embarques e desembarques quando a embarcação se encontre em porto estrangeiro onde não exista autoridade consular portuguesa ou no alto mar.
+b) Atestar que a cédula constitui documento de identificação de marítimo do seu titular, para fins da Convenção n.º 108 da OIT;
 
-10.º Os averbamentos referidos no número anterior serão efectuados, datados e rubricados, no caso da alínea a), pelo director-geral do Pessoal do Mar e Estudos Náuticos ou, para as categorias específicas da marinha de pesca, pelo director-geral das Pescas e, no caso da alínea b), pelo comandante da embarcação.
+c) Registos de embarques e desembarques quando a embarcação se encontre em porto estrangeiro onde não exista autoridade consular portuguesa ou no alto mar.
 
-11.º As rubricas dos directores-gerais e do comandante da embarcação, referidas no número anterior, serão autenticadas com o selo branco da respectiva direcção-geral ou com o carimbo da embarcação.
+> Alterado pelo/a [Portaria n.º 27/94](https://diariodarepublica.pt/dr/detalhe/portaria/27-1994-532039), publicado em 1994-01-11.
+
+10.º Os averbamentos referidos no número anterior serão efectuados, datados e rubricados, no caso das alíneas a) e b), pelo director-geral de Portos, Navegação e Transportes Marítimos e, no caso da alínea c), pelo comandante da embarcação.
+
+> Alterado pelo/a [Portaria n.º 27/94](https://diariodarepublica.pt/dr/detalhe/portaria/27-1994-532039), publicado em 1994-01-11.
+
+11.º As rubricas do director-geral e do comandante da embarcação, referidas no número anterior, serão autenticadas com o selo branco da Direcção-Geral ou com o carimbo da embarcação.
+
+> Alterado pelo/a [Portaria n.º 27/94](https://diariodarepublica.pt/dr/detalhe/portaria/27-1994-532039), publicado em 1994-01-11.
 
 12.º Os averbamentos, alterações e rectificações que não sejam efectuados na capitania do porto de inscrição do marítimo deverão ser prontamente comunicados a esta capitania, para efeitos de registo.
 

@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-10'
+version_history:
+  file: portaria-218-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-04-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-10'
+    amending: pt:dre:643712:por
+    amending_title: Portaria n.º 817/97
+    changes:
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/218/1997/04/01/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:01:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 817/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-218-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,7 +158,13 @@ d) Projecto do contrato;
 
 e) Cálculo do acréscimo das dotações de carga que se torne necessário à execução do contrato.
 
-6.º As empresas que, em 31 de Dezembro de 1996, detinham veículos licenciados com tonelagem superior a 90% da dotação de carga atribuída podem, através de requerimento fundamentado, pedir aumentos suplementares de dotação de carga que sejam necessários para o licenciamento de novos veículos.
+6.º As empresas de transporte público rodoviário de mercadorias, já detentoras de dotação de carga, podem, através de requerimento devidamente fundamentado, pedir aumentos suplementares de dotações de carga, nos seguintes casos:
+
+a) Quando sejam necessários para o licenciamento de novos veículos;
+
+b) Quando sejam necessários para o licenciamento, em âmbito nacional, de veículos já licenciados para o transporte internacional e que não se encontram plenamente utilizados.
+
+> Alterado pelo/a [Portaria n.º 817/97](https://diariodarepublica.pt/dr/detalhe/portaria/817-1997-643712), publicado em 1997-09-05.
 
 Ministério do Equipamento, do Planeamento e da Administração do Território.
 

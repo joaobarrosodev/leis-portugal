@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-10-01'
+version_history:
+  file: portaria-1060-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-10-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-10-01'
+    amending: pt:dre:232759:por
+    amending_title: Portaria n.º 939/92
+    changes:
+    - Altera Artigo unidades 39-41
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:08:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 939/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-1060-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -204,11 +219,9 @@ Disciplinas de opção
 
 Estágios
 
-1 - A Escola organizará estágios com a seguinte duração:
+1 - A Escola organizará estágio ou estágios com duração total não inferior a 18 semanas.
 
-a) Para o curso ministrado em regime diurno, um estágio, com duração total não inferior a 33 semanas;
-
-b) Para o curso ministrado em regime nocturno, um estágio com duração total não inferior a 20 semanas.
+> Alterado pelo/a [Portaria n.º 939/92](https://diariodarepublica.pt/dr/detalhe/portaria/939-1992-232759), publicado em 1992-09-26.
 
 2 - Os estágios têm carácter escolar, sendo o seu objectivo a aproximação do aluno à realidade da futura actividade profissional.
 

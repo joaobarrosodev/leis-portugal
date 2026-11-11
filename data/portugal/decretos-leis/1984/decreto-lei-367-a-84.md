@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-07-20'
+version_history:
+  file: decreto-lei-367-a-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-11-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-07-20'
+    amending: pt:dre:183431:por
+    amending_title: Decreto-Lei n.º 259/85
+    changes:
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:00:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 259/85. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1984/decreto-lei-367-a-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,11 +142,19 @@ Artigo 1.º - 1 - De harmonia com o disposto no artigo 8.º do [Decreto-Lei n.º
 
 a) Capital inter-regional - contravalor em escudos 47167 dólares dos EUA;
 
-b) Fundo para Operações Especiais - contravalor em escudos 210790 dólares dos EUA.
+b) Fundo para Operações Especiais - 210790 dólares dos Estados Unidos da América.
+
+> Alterado pelo/a [Decreto-Lei n.º 259/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1985-183431), publicado em 1985-07-15.
 
 2 - As promissórias referidas no n.º 1 deste artigo deverão ser emitidas com data de 31 de Outubro de 1984.
 
-Art. 2.º O serviço da emissão ficará a cargo da Junta do Crédito Público e as promissórias serão entregues ao Banco de Portugal, na sua qualidade de depositário dos haveres em escudos do Banco Interamericano de Desenvolvimento, conforme está previsto no artigo 4.º do [Decreto-Lei n.º 40-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1980-218926), de 14 de Março, e na secção 4 do artigo XIV do Convénio Constitutivo deste Banco.
+Art. 2.º - 1 - O serviço da emissão das promissórias referidas no artigo anterior ficará a cargo da junta do Crédito Público.
+
+2 - As promissórias referidas na alínea a) do n.º 1 do artigo anterior serão entregues ao Banco de Portugal, na sua qualidade de depositário dos haveres em escudos do Banco Interamericano de Desenvolvimento, conforme previsto no artigo 4.º do [Decreto-Lei n.º 40-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1980-218926), de 14 de Março, e na secção 4 do artigo XIV do Convénio Constitutivo deste Banco.
+
+3 - As promissórias referidas na alínea b) do n.º 1 do artigo anterior serão entregues ao Banco Interamericano de Desenvolvimento.
+
+> Alterado pelo/a [Decreto-Lei n.º 259/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-1985-183431), publicado em 1985-07-15.
 
 Art. 3.º das promissórias mencionadas no artigo 1.º deste diploma constarão os seguintes elementos:
 

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:483470:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-10-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2a05a81e9945bf8f"
+   ]
+  },
+  {
+   "date": "2002-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:506217:por",
+     "title": "Declaração de Rectificação n.º 3-B/2002",
+     "published": "2002-01-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/3-b-2002-506217"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3"
+   ],
+   "fragments": [
+    "cfaeacc7dd2da378"
+   ]
+  }
+ ],
+ "fragments": {
+  "2a05a81e9945bf8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Segundo comunicação do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, a [Declaração de Rectificação n.º 15-I/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-2001-437855), publicada no Diário da República, 1.ª série-B, n.º 202 (4.º suplemento), de 31 de Agosto de 2001, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:\n\nNo n.º 2.º, onde se lê «com uma área de 13,9070 ha.» deve ler-se «com uma área de 13,9700 ha.».\n\nSecretaria-Geral da Presidência do Conselho de Ministros, 31 de Outubro de 2001. - O Secretário-Geral, Alexandre Figueiredo."
+  },
+  "cfaeacc7dd2da378": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2002-01-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 3-B/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-b-2002-506217), publicado em 2002-01-31."
+   ],
+   "markdown": "Segundo comunicação do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, a [Declaração de Rectificação n.º 15-I/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-2001-437855), publicada no Diário da República, 1.ª série-B, n.º 202 (4.º suplemento), de 31 de Agosto de 2001, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:\n\nNo n.º 2.º, onde se lê «com uma área de 13,9070 ha.» deve ler-se «com uma área de 13907 ha.».\n\n> Alterado pelo/a [Declaração de Rectificação n.º 3-B/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-b-2002-506217), publicado em 2002-01-31.\n\nSecretaria-Geral da Presidência do Conselho de Ministros, 31 de Outubro de 2001. - O Secretário-Geral, Alexandre Figueiredo."
+  }
+ }
+}

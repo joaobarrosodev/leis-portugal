@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:532047:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-10-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e93eb6c43d4c62d9",
+    "3a63db5dca60cd49",
+    "cfe96865ad86fefd"
+   ]
+  },
+  {
+   "date": "2005-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:350137:por",
+     "title": "Portaria n.º 1522/2004",
+     "published": "2004-12-31",
+     "dre_path": "/dr/detalhe/portaria/1522-2004-350137"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 25-25"
+   ],
+   "fragments": [
+    "e93eb6c43d4c62d9",
+    "047c5c0e071cc63e",
+    "cfe96865ad86fefd"
+   ]
+  }
+ ],
+ "fragments": {
+  "e93eb6c43d4c62d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Outubro\n\nA requerimento da Associação Promotora do Ensino de Enfermagem de Chaves, entidade instituidora da Escola Superior de Enfermagem do Dr. José Timóteo Montalvão Machado, reconhecida como de interesse público pelo [Decreto-Lei n.º 99/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1996-413229), de 19 de Julho, ao abrigo do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nInstruído, organizado e apreciado o processo nos termos do referido Estatuto, conjugado com o disposto no artigo 28.º do [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195), de 3 de Setembro;\n\nConsiderando o disposto no [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195);\n\nConsiderando o disposto no Regulamento Geral do Curso de Licenciatura em Enfermagem e no Regulamento Geral do Ano Complementar de Formação em Enfermagem, aprovados, respectivamente, pelas Portarias n.os [799-D/99](https://diariodarepublica.pt/dr/detalhe/portaria/799-d-1999-581591) e [799-F/99](https://diariodarepublica.pt/dr/detalhe/portaria/799-f-1999-581593), de 18 de Setembro;\n\nConsiderando o disposto na [Portaria n.º 848-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/848-a-1999-241430), de 30 de Setembro;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto e nos artigos 15.º e 18.º do [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195):\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\n1 - É aprovado o plano de estudos do curso de licenciatura em Enfermagem da Escola Superior de Enfermagem do Dr. José Timóteo Montalvão Machado, criado pela [Portaria n.º 848-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/848-a-1999-241430), de 30 de Setembro, nos termos do anexo I à presente portaria.\n\n2 - É aprovado o plano de estudos do ano complementar de formação em Enfermagem da Escola Superior de Enfermagem do Dr. José Timóteo Montalvão Machado, constante do anexo II à presente portaria.\n\n2.º\n\nRegulamento\n\n1 - O curso de licenciatura em Enfermagem rege-se pelo disposto no Regulamento Geral do Curso de Licenciatura em Enfermagem, aprovado pela [Portaria n.º 799-D/99](https://diariodarepublica.pt/dr/detalhe/portaria/799-d-1999-581591), de 18 de Setembro.\n\n2 - O ano complementar de formação em Enfermagem rege-se pelo disposto no Regulamento Geral do Ano Complementar de Formação em Enfermagem, aprovado pela [Portaria n.º 799-F/99](https://diariodarepublica.pt/dr/detalhe/portaria/799-f-1999-581593), de 18 de Setembro.\n\n3.º\n\nAplicação\n\nO disposto na presente portaria aplica-se a partir do ano lectivo de 1999-2000, inclusive.\n\nPelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 21 de Setembro de 2000."
+  },
+  "3a63db5dca60cd49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Escola Superior de Enfermagem do Dr. José Timóteo Montalvão Machado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Escola Superior de Enfermagem do Dr. José Timóteo Montalvão Machado\n\nCurso de Enfermagem\n\nGrau de licenciado\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/248b00/60176019.pdf)"
+  },
+  "cfe96865ad86fefd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Escola Superior de Enfermagem do Dr. José Timóteo Montalvão Machado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Escola Superior de Enfermagem do Dr. José Timóteo Montalvão Machado\n\nAno complementar de formação em Enfermagem\n\nGrau de licenciado\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/10/248b00/60176019.pdf)"
+  },
+  "047c5c0e071cc63e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Escola Superior de Enfermagem do Dr. José Timóteo Montalvão Machado",
+   "in_force_from": "2005-01-05",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1522/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1522-2004-350137), publicado em 2004-12-31."
+   ],
+   "markdown": "## ANEXO I — Escola Superior de Enfermagem do Dr. José Timóteo Montalvão Machado\n\nCurso de Enfermagem\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)](https://files.diariodarepublica.pt/1s/2004/12/305b00/74357437.pdf)\n\n> Alterado pelo/a [Portaria n.º 1522/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1522-2004-350137), publicado em 2004-12-31."
+  }
+ }
+}

@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-12-03'
+version_history:
+  file: portaria-643-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-07-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-12-03'
+    amending: pt:dre:498675:por
+    amending_title: Portaria n.º 908/87
+    changes:
+    - Altera Artigo unidades 57-58
+    - Altera Artigo unidades 93-93
 identifiers:
   celex: null
   eli: null
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:13:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 908/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-643-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -250,9 +266,9 @@ passam a ser os constantes dos anexos à presente portaria.
 
 Planos de estudos
 
-1 - Os planos de estudos dos cursos a que se refere a presente portaria serão fixados por despacho reitoral, a publicar no Diário da República, 2.ª série, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), salvo se se verificar a previsão do n.º 4 do artigo 4.º
+Os planos de estudos dos cursos a que se refere a presente portaria serão fixados por despacho reitoral, a publicar na 2.ª série do Diário da República, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), salvo se se verificar a previsão do n.º 4 do artigo 4.º
 
-2 - Do despacho a que refere o número anterior constarão os elementos a que se refere o n.º 2 do n.º 14.º da presente portaria.
+> Alterado pelo/a [Portaria n.º 908/87](https://diariodarepublica.pt/dr/detalhe/portaria/908-1987-498675), publicado em 1987-11-28.
 
 8.º
 
@@ -322,7 +338,9 @@ Classificação final
 
 1 - A classificação final dos cursos será a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas, seminários e projectos ou trabalho de fim do curso integrantes do respectivo plano de estudos.
 
-2 - Os coeficientes de ponderação serão propostos pelo conselho científico, ouvidas as comissões permanentes de curso respectivas, e fixados nos termos do artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690).
+2 - Os coeficientes de ponderação serão propostos pelo conselho científico, ouvidas as comissões permanentes de curso respectivas, e fixados por despacho reitoral, a publicar na 2.ª série do Diário da República.
+
+> Alterado pelo/a [Portaria n.º 908/87](https://diariodarepublica.pt/dr/detalhe/portaria/908-1987-498675), publicado em 1987-11-28.
 
 3 - A classificação final das licenciaturas em ensino é atribuída nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.
 

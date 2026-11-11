@@ -39,10 +39,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-07-16'
+version_history:
+  file: resolucao-conselho-ministros-45-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-05-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-07-16'
+    amending: pt:dre:422866:por
+    amending_title: Resolução do Conselho de Ministros n.º 107/96
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 10-10
+    - Adita Artigo depois da unidade 14
+    - Altera Artigo unidades 20-20
+    - Altera Artigo unidades 25-25
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/45/1995/05/05/p/dre/pt/html
@@ -68,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:34:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 107/96. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1995/resolucao-conselho-ministros-45-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,11 +150,15 @@ Nos termos da alínea c) do artigo 202.º da Constituição, o Conselho de Minis
 
 1 - É criada a Comissão Coordenadora das Corridas e Apostas (CCCA), que iniciará funções imediatamente após a ajudicação provisória do concurso público para adjudicação do direito de explorar apostas mútuas hípicas.
 
-2 - A CCCA é constituída por um representante do Ministério da Agricultura, um representante do Ministério da Educação, um representante do Ministério do Emprego e da Segurança Social, um representante do Ministério do Comércio e Turismo, um representante da Federação Portuguesa Equestre, um representante da Associação Portuguesa de Criadores de Raças Selectas e um representante da sociedade concessionária, devendo o seu presidente ser designado pelo Ministério da Educação e gozar de voto de qualidade.
+2 - Os elementos que constituem a CCCA são nomeados por um período de três anos, sendo um representante do membro do Governo responsável pela área do desporto, um representante do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, um representante do Ministério da Solidariedade e Segurança Social, um representante do Ministério da Economia, um representante da Federação Portuguesa Equestre, um representante da Associação Portuguesa de Criadores de Raças Selectas e um representante da sociedade concessionária, devendo o seu presidente ser designado pelo membro do Governo responsável pela área do desporto e gozar de voto de qualidade.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 107/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-1996-422866), publicado em 1996-07-11.
 
 3 - Compete à CCCA:
 
-a) A elaboração de um projecto de regulamento das apostas mútuas hípicas e um projecto de regulamento das corridas de cavalos, os quais serão objecto de resolução do Conselho de Ministros, mediante proposta conjunta dos Ministros da Agricultura, da Educação e do Comércio e Turismo;
+a) A elaboração de um projecto de regulamento das apostas mútuas hípicas e um projecto de regulamento das corridas de cavalos, os quais serão objecto de resolução do Conselho de Ministros, mediante proposta conjunta do membro do Governo responsável pela área do desporto e dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e da Economia;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 107/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-1996-422866), publicado em 1996-07-11.
 
 b) Prestar apoio técnico e consultivo ao Instituto do Desporto (INDESP) e à Inspecção-Geral de Jogos no exercício das suas competências legais, de modo a assegurar que sejam cumpridos os regulamentos das corridas e das apostas, bem como as obrigações decorrentes do contrato de concessão;
 
@@ -144,6 +167,10 @@ c) Credenciar, nos termos do regulamento respectivo, os cavalos que podem interv
 d) Verificar, nos termos do regulamento respectivo, as características dos hipódromos e credenciá-los para a realização de corridas cujos resultados sejam objecto de apostas mútuas, sem prejuízo dos poderes de inspecção e fiscalização que competem ao INDESP por força da alínea b) do n.º 1 do artigo 7.º do [Decreto-Lei n.º 268/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1992-599730), de 28 de Novembro;
 
 e) Publicar, periodicamente, a lista de cavalos inscritos e respectivo ranking.
+
+f) Elaborar estudos sobre regimes fiscais aplicáveis às apostas mútuas hípicas, com base idêntica aos adoptados nos países com vasta experiência em corridas de cavalos, e consequentemente apresentar propostas legislativas relativas a esta matéria.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 107/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-1996-422866), publicado em 1996-07-11.
 
 4 - O INDESP e a Inspecção-Geral de Jogos assegurarão o apoio logístico, administrativo e financeiro necessário ao funcionamento da CCCA.
 
@@ -155,7 +182,9 @@ a) Proibição da concessionária em facultar a participação nos órgãos soci
 
 b) Atribuição à Inspecção-Geral de Jogos da competência para aprovação das instalações das agências onde se processa a aceitação de apostas mútuas hípicas urbanas;
 
-c) Atribuição aos Ministros da Educação e do Comércio e Turismo da competência para, por despacho conjunto, fixarem o valor anual da aposta unitária para as diferentes modalidades, sob proposta da concessionária e mediante parecer da CCCA;
+c) Atribuição ao membro do Governo responsável pela área do desporto e ao Ministro da Economia de competência para, por despacho conjunto, fixarem o valor anual da aposta unitária para as diferentes modalidades, sob proposta da concessionária e mediante parecer da CCCA;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 107/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-1996-422866), publicado em 1996-07-11.
 
 d) Previsão das seguintes espécies de apostas:
 
@@ -165,7 +194,9 @@ ii) Apostas combinadas, nas modalidades de par-vencedor (PV), par-classificado (
 
 iii) Apostas sucessivas, na modalidade de bolo-acumulado (BA);
 
-e) Permissão de outras espécies e ou modalidades de aposta por despacho conjunto dos Ministros da Educação e do Comércio e Turismo, sob proposta da concessionária e mediante parecer favorável da CCCA;
+e) Permissão de outras espécies e ou modalidades de aposta por despacho conjunto do membro do Governo responsável pela área do desporto e do Ministro da Economia, sob proposta da concessionária e mediante parecer favorável da CCCA;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 107/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/107-1996-422866), publicado em 1996-07-11.
 
 f) Distribuição da receita bruta de cada aposta mútua hípica urbana, nos seguintes termos:
 

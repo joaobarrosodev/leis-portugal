@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-10-10'
+version_history:
+  file: portaria-694-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-10-10'
+    amending: pt:dre:376597:por
+    amending_title: Portaria n.º 956/82
+    changes:
+    - Adita Artigo depois da unidade 7
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:26:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 956/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-694-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,5 +127,11 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 1.º A venda ao público de frango assado será feita a peso.
 
 2.º Em todos os locais de venda ao público de frango assado é obrigatória a afixação, por forma bem visível, de letreiro com indicação do respectivo preço por quilograma.
+
+3.º A venda ao público de frango assado, efectuada com infracção do disposto no n.º 1.º, será punida com a multa de 5000$00 e 10000$00.
+
+4.º A infracção do disposto no n.º 2.º será punida nos termos do [Decreto-Lei n.º 533/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1975-312062), de 26 de Setembro.
+
+> Aditado pelo/a [Portaria n.º 956/82](https://diariodarepublica.pt/dr/detalhe/portaria/956-1982-376597), publicado em 1982-10-09.
 
 Secretaria de Estado do Comércio Interno, 1 de Setembro de 1980. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.

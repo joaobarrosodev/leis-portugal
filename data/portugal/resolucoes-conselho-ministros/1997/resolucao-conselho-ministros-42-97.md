@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-10-16'
+version_history:
+  file: resolucao-conselho-ministros-42-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-10-16'
+    amending: pt:dre:621509:por
+    amending_title: Resolução do Conselho de Ministros n.º 151/2001
+    changes:
+    - Altera Artigo unidades 30-30
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/42/1997/03/13/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:38:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 151/2001. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1997/resolucao-conselho-ministros-42-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -167,7 +182,9 @@ e) Cooperar a nível internacional com as entidades com intervenção na seguran
 
 f) Promover a divulgação junto dos portugueses residentes no estrangeiro das medidas de segurança rodoviária que se revistam de interesse nas suas deslocações a Portugal;
 
-4 - O Conselho poderá convidar para nele tomarem assento outras entidades cuja participação julgue conveniente no desenvolvimento dos trabalhos, nomeadamente a Associação Nacional de Municípios, a Associação Nacional de Seguradoras, a Prevenção Rodoviária Portuguesa, o Automóvel Clube de Portugal, a Liga dos Bombeiros Portugueses e a Brisa.
+4 - O Conselho poderá convidar para nele tomarem assento outras entidades cuja participação julgue conveniente no desenvolvimento dos trabalhos, nomeadamente a Associação Nacional de Municípios, a Associação Nacional de Seguradoras, a Prevenção Rodoviária Portuguesa, o Automóvel Clube de Portugal, a Liga dos Bombeiros Portugueses, a BRISA e o Centro Rodoviário Português.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 151/2001](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/151-2001-621509), publicado em 2001-10-11.
 
 5 - Sempre que o considere necessário, o Conselho poderá constituir grupos de trabalho para o adequado desempenho das suas competências.
 

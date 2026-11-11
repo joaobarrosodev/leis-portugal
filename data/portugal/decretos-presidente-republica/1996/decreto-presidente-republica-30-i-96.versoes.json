@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:440350:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-12-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e9d7006574002fc1"
+   ]
+  },
+  {
+   "date": "1997-01-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:581268:por",
+     "title": "Declaração de Rectificação n.º 3/97",
+     "published": "1997-01-22",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/3-1997-581268"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4"
+   ],
+   "fragments": [
+    "65bdd717ef449541"
+   ]
+  }
+ ],
+ "fragments": {
+  "e9d7006574002fc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro\n\nO Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:\n\nA pena acessória de expulsão do País aplicada a Maria de Lurdes Varela, de 46 anos de idade, no processo n.º 530/92 do 2.º Juízo Criminal do Tribunal Judicial de Oeiras é revogada, por indulto.\n\nAssinado em 20 de Dezembro de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 20 de Dezembro de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "65bdd717ef449541": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1997-01-22",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 3/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-1997-581268), publicado em 1997-01-22."
+   ],
+   "markdown": "de 20 de Dezembro\n\nO Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:\n\nA pena acessória de expulsão do País aplicada a Maria de Lurdes Varela, de 46 anos de idade, no processo n.º 530/92 CC do 2.º Juízo Criminal do Tribunal Judicial de Oeiras é revogada, por indulto.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 3/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-1997-581268), publicado em 1997-01-22.\n\nAssinado em 20 de Dezembro de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 20 de Dezembro de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

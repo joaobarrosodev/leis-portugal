@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:437425:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-11-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3f291d7c87cacf1b",
+    "166f228c26ee0b35"
+   ]
+  },
+  {
+   "date": "2004-02-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:569536:por",
+     "title": "Portaria n.º 178/2004",
+     "published": "2004-02-23",
+     "dre_path": "/dr/detalhe/portaria/178-2004-569536"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 18-18"
+   ],
+   "fragments": [
+    "01705871fcd2b619",
+    "166f228c26ee0b35"
+   ]
+  }
+ ],
+ "fragments": {
+  "3f291d7c87cacf1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Novembro\n\nSob proposta do Instituto Politécnico de Bragança e da sua Escola Superior de Tecnologia e Gestão;\n\nConsiderando o disposto no artigo 13.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro (Lei de Bases do Sistema Educativo), alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro;\n\nConsiderando o disposto no Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho;\n\nConsiderando o disposto na [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto;\n\nConsiderando o disposto na [Portaria n.º 324/99](https://diariodarepublica.pt/dr/detalhe/portaria/324-1999-321934), de 12 de Maio;\n\nAo abrigo do disposto na [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro (estatuto e autonomia dos estabelecimentos de ensino superior politécnico), alterada pelas Leis n.os [20/92](https://diariodarepublica.pt/dr/detalhe/lei/20-1992-283353), de 14 de Agosto, e [71/93](https://diariodarepublica.pt/dr/detalhe/lei/71-1993-593710), de 26 de Novembro, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pela Ministra da Ciência e do Ensino Superior, o seguinte:\n\n1.º\n\nAlteração\n\nO quadro n.º 6 do anexo à [Portaria n.º 324/99](https://diariodarepublica.pt/dr/detalhe/portaria/324-1999-321934), de 12 de Maio, que aprovou o plano de estudos do curso bietápico de licenciatura em Gestão de Empresas ministrado pela Escola Superior de Tecnologia e Gestão do Instituto Politécnico de Bragança, passa a ter a redacção constante do anexo à presente portaria.\n\n2.º\n\nTransição\n\nAs regras de transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n3.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 2003-2004, inclusive.\n\nA Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 11 de Novembro de 2003."
+  },
+  "166f228c26ee0b35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — ([Portaria n.º 324/99](https://diariodarepublica.pt/dr/detalhe/portaria/324-1999-321934), de 12 de Maio - Alteração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ([Portaria n.º 324/99](https://diariodarepublica.pt/dr/detalhe/portaria/324-1999-321934), de 12 de Maio - Alteração)\n\nInstituto Politécnico de Bragança\n\nEscola Superior de Tecnologia e Gestão\n\nCurso de Gestão de Empresas\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 6\n\n3.º ano\n\n2.º semestre\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/275b00/80878087.pdf)"
+  },
+  "01705871fcd2b619": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2004-02-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 178/2004](https://diariodarepublica.pt/dr/detalhe/portaria/178-2004-569536), publicado em 2004-02-23."
+   ],
+   "markdown": "de 27 de Novembro\n\nSob proposta do Instituto Politécnico de Bragança e da sua Escola Superior de Tecnologia e Gestão;\n\nConsiderando o disposto no artigo 13.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro (Lei de Bases do Sistema Educativo), alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro;\n\nConsiderando o disposto no Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho;\n\nConsiderando o disposto na [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto;\n\nConsiderando o disposto na [Portaria n.º 324/99](https://diariodarepublica.pt/dr/detalhe/portaria/324-1999-321934), de 12 de Maio;\n\nAo abrigo do disposto na [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro (estatuto e autonomia dos estabelecimentos de ensino superior politécnico), alterada pelas Leis n.os [20/92](https://diariodarepublica.pt/dr/detalhe/lei/20-1992-283353), de 14 de Agosto, e [71/93](https://diariodarepublica.pt/dr/detalhe/lei/71-1993-593710), de 26 de Novembro, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pela Ministra da Ciência e do Ensino Superior, o seguinte:\n\n1.º\n\nAlteração\n\nO quadro n.º 6 do anexo à [Portaria n.º 324/99](https://diariodarepublica.pt/dr/detalhe/portaria/324-1999-321934), de 12 de Maio, que aprovou o plano de estudos do curso bietápico de licenciatura em Gestão de Empresas ministrado pela Escola Superior de Tecnologia e Gestão do Instituto Politécnico de Bragança, passa a ter a redacção constante do anexo à presente portaria.\n\n2.º\n\nTransição\n\nAs regras de transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n3.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do 2.º semestre do ano lectivo de 2002-2003, inclusive.\n\n> Alterado pelo/a [Portaria n.º 178/2004](https://diariodarepublica.pt/dr/detalhe/portaria/178-2004-569536), publicado em 2004-02-23.\n\nA Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho, em 11 de Novembro de 2003."
+  }
+ }
+}

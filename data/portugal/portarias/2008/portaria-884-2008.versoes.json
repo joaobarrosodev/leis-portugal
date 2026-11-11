@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:455624:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-08-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fd5424e23c655eb6"
+   ]
+  },
+  {
+   "date": "2010-10-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:342777:por",
+     "title": "Portaria n.º 1027/2010",
+     "published": "2010-10-06",
+     "dre_path": "/dr/detalhe/portaria/1027-2010-342777"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-9"
+   ],
+   "fragments": [
+    "b73110dfcc9ca563"
+   ]
+  }
+ ],
+ "fragments": {
+  "fd5424e23c655eb6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Agosto\n\nPela [Portaria n.º 546/2002](https://diariodarepublica.pt/dr/detalhe/portaria/546-2002-153357), de 31 de Maio, foi renovada até 14 de Julho de 2008, a zona de caça associativa de Cardoso e Escrivão (processo n.º 1607-DGRF), situada no município de Avis, concessionada à Associação de Caçadores do Ervedal.\n\nVeio agora a concessionária requerer a renovação e simultaneamente a anexação de outros prédios rústicos.\n\nCumpridos os preceitos legais, com fundamento no disposto nos artigos 11.º e 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, ouvido o Conselho Cinegético Municipal:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É renovada, por um período de seis anos, e com efeitos a partir do dia 15 de Julho de 2008, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos na freguesia de Figueira e Barros, município de Avis, com a área de 470 ha.\n\n2.º São anexados à presente zona de caça vários prédios rústicos com a área de 255 ha, sitos na mesma freguesia e município.\n\n3.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 725 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n4.º Esta anexação só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 1 de Agosto de 2008.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15700/0563105631.pdf)"
+  },
+  "b73110dfcc9ca563": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2010-10-11",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1027/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1027-2010-342777), publicado em 2010-10-06."
+   ],
+   "markdown": "de 14 de Agosto\n\nPela [Portaria n.º 546/2002](https://diariodarepublica.pt/dr/detalhe/portaria/546-2002-153357), de 31 de Maio, foi renovada até 14 de Julho de 2008, a zona de caça associativa de Cardoso e Escrivão (processo n.º 1607-DGRF), situada no município de Avis, concessionada à Associação de Caçadores do Ervedal.\n\nVeio agora a concessionária requerer a renovação e simultaneamente a anexação de outros prédios rústicos.\n\nCumpridos os preceitos legais, com fundamento no disposto nos artigos 11.º e 48.º, em conjugação com o estipulado na alínea a) do artigo 40.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, ouvido o Conselho Cinegético Municipal:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É renovada, por um período de seis anos, e com efeitos a partir do dia 15 de Julho de 2008, a concessão desta zona de caça, abrangendo vários prédios rústicos sitos na freguesia de Figueira e Barros, município de Avis, com a área de 470 ha.\n\n2.º São anexados à presente zona de caça vários prédios rústicos com a área de 255 ha, sitos na mesma freguesia e município.\n\n3.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 710 ha, conforme a planta anexa a esta portaria e que dela faz parte integrante.\n\n> Alterado pelo/a [Portaria n.º 1027/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1027-2010-342777), publicado em 2010-10-06.\n\n4.º Esta anexação só produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 1 de Agosto de 2008.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15700/0563105631.pdf)"
+  }
+ }
+}

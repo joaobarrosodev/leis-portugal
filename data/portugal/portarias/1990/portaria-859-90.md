@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-12-22'
+version_history:
+  file: portaria-859-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-09-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-22'
+    amending: pt:dre:218358:por
+    amending_title: Portaria n.º 1466/2004
+    changes:
+    - Altera Artigo unidades 7-12
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:32:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1466/2004. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-859-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,17 +139,11 @@ Considerando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([L
 
 Manda o Governo, pelo Ministro da Educação, aprovar o seguinte:
 
-1.º
+1.º - (Revogado.)
 
-Carta de curso do grau de bacharel
+2.º - (Revogado.)
 
-O modelo de carta de curso do grau de bacharel conferido pelo Instituto Politécnico de Lisboa através das suas escolas superiores é o constante do anexo I à presente portaria.
-
-2.º
-
-Carta de curso do grau de licenciado
-
-O modelo de carta de curso do grau de licenciado conferido pelo Instituto Politécnico de Lisboa através das suas escolas superiores é o constante do anexo II à presente portaria.
+> Alterado pelo/a [Portaria n.º 1466/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1466-2004-218358), publicado em 2004-12-17.
 
 3.º
 

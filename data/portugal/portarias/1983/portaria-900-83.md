@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-04-24'
+version_history:
+  file: portaria-900-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-09-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-04-24'
+    amending: pt:dre:285173:por
+    amending_title: Portaria n.º 242/88
+    changes:
+    - Altera Artigo unidades 35-58
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:53:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 242/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-900-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -184,50 +199,52 @@ O Ministro da Educação, José Augusto Seabra.
 
 ## ANEXO
 
-1 - Área científica do curso:
+Licenciatura em Planeamento
 
-Planeamento.
+1 - Área científica do curso: Planeamento Regional e Urbano.
 
-2 - Duração normal do curso:
+2 - Duração normal do curso: dez semestres lectivos.
 
-10 semestres lectivos.
-
-3 - Total de unidades de crédito necessárias à conclusão do curso:
-
-170 unidades de crédito.
+3 - Total de unidades de crédito necessárias à conclusão do curso: 170 unidades de crédito.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
 4.1 - Áreas científicas obrigatórias:
 
-Planeamento Regional e Urbano ... 62,5
+Planeamento Regional e Urbano ... 40
 
-Ciências do Ambiente ... 6,5
+Economia ... 14
 
-Ciências Sociais ... 8,5
+Geografia ... 14
+
+Arquitectura ... 13
+
+Engenharia Civil ... 9
+
+Sociologia ... 7
+
+Engenharia do Ambiente ... 6
+
+Administração ... 6
+
+Matemática ... 18
+
+Ciências Físico-Químicas ... 7
+
+Ciências Naturais ... 6
+
+Língua Estrangeira ... 3
+
+4.2 - Conjunto das áreas científicas optativas:
+
+Planeamento Regional e Urbano ... 12
+
+Geografia ... 12
 
 Economia ... 12
 
-Geografia ... 21
+Arquitectura ... 12
 
-Matemática ... 26
+4.3 - Projecto ... 15
 
-Química ... 9
-
-Física ... 4
-
-Geologia ... 6,5
-
-Línguas ... 2
-
-4.2 - Áreas científicas optativas:
-
-Planeamento Regional e Urbano ... 7
-
-Ciências Sociais ... 7
-
-Economia ... 7
-
-Ciências do Ambiente ... 7
-
-4.3 - Projecto ... 5
+> Alterado pelo/a [Portaria n.º 242/88](https://diariodarepublica.pt/dr/detalhe/portaria/242-1988-285173), publicado em 1988-04-19.

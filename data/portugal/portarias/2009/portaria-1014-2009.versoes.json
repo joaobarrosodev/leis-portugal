@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:489982:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-09-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2b8bb519e7e345d4"
+   ]
+  },
+  {
+   "date": "2010-09-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:341819:por",
+     "title": "Portaria n.º 907/2010",
+     "published": "2010-09-15",
+     "dre_path": "/dr/detalhe/portaria/907-2010-341819"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-9"
+   ],
+   "fragments": [
+    "6335736a2bd1e1e3"
+   ]
+  }
+ ],
+ "fragments": {
+  "2b8bb519e7e345d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Setembro\n\nPela [Portaria n.º 789/2003](https://diariodarepublica.pt/dr/detalhe/portaria/789-2003-660686), de 11 de Agosto, alterada pelas Portarias n.os [1161/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1161-2004-617327) e [907/2006](https://diariodarepublica.pt/dr/detalhe/portaria/907-2006-539998), respectivamente de 14 e de 4 de Setembro, foi criada a zona de caça municipal de Beja (processo n.º 2961-AFN), situada no município de Beja, válida até 11 de Agosto de 2009, e transferida a sua gestão para a Associação de Caçadores do Terreno Livre do Distrito de Beja.\n\nEntretanto, a entidade titular veio requerer a sua renovação e ao mesmo tempo a anexação de outros prédios rústicos.\n\nCumpridos os preceitos legais, com fundamento no disposto nos artigos 11.º, 21.º e 26.º, em conjugação com o estipulado na alínea a) do artigo 18.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, ouvido o conselho cinegético municipal;\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria esta zona de caça, bem como a respectiva transferência de gestão, são renovadas, por um período de seis anos, englobando vários terrenos cinegéticos, sitos nas freguesias de São Matias, Santa Maria da Feira, Salvador, São João Batista e Santiago Maior, município de Beja, com a área de 3998 ha.\n\n2.º São anexados à presente zona de caça vários terrenos cinegéticos sitos nas freguesias de São Matias e São Brissos, município de Beja com a área de 811 ha.\n\n3.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 4809 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n4.º A presente portaria produz efeitos a partir do dia 12 de Agosto de 2009.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 1 de Setembro de 2009.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17500/0615906159.pdf)"
+  },
+  "6335736a2bd1e1e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2010-09-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 907/2010](https://diariodarepublica.pt/dr/detalhe/portaria/907-2010-341819), publicado em 2010-09-15."
+   ],
+   "markdown": "de 9 de Setembro\n\nPela [Portaria n.º 789/2003](https://diariodarepublica.pt/dr/detalhe/portaria/789-2003-660686), de 11 de Agosto, alterada pelas Portarias n.os [1161/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1161-2004-617327) e [907/2006](https://diariodarepublica.pt/dr/detalhe/portaria/907-2006-539998), respectivamente de 14 e de 4 de Setembro, foi criada a zona de caça municipal de Beja (processo n.º 2961-AFN), situada no município de Beja, válida até 11 de Agosto de 2009, e transferida a sua gestão para a Associação de Caçadores do Terreno Livre do Distrito de Beja.\n\nEntretanto, a entidade titular veio requerer a sua renovação e ao mesmo tempo a anexação de outros prédios rústicos.\n\nCumpridos os preceitos legais, com fundamento no disposto nos artigos 11.º, 21.º e 26.º, em conjugação com o estipulado na alínea a) do artigo 18.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, ouvido o conselho cinegético municipal;\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria esta zona de caça, bem como a respectiva transferência de gestão, são renovadas, por um período de seis anos, englobando vários terrenos cinegéticos, sitos nas freguesias de São Matias, Santa Maria da Feira, Salvador, São João Batista e Santiago Maior, município de Beja, com a área de 3998 ha.\n\n2.º São anexados à presente zona de caça vários terrenos cinegéticos sitos nas freguesias de São Matias e São Brissos, município de Beja, com a área de 718 ha.\n\n3.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 4716 ha, conforme planta anexa a esta portaria e que dela faz parte integrante.\n\n> Alterado pelo/a [Portaria n.º 907/2010](https://diariodarepublica.pt/dr/detalhe/portaria/907-2010-341819), publicado em 2010-09-15.\n\n4.º A presente portaria produz efeitos a partir do dia 12 de Agosto de 2009.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 1 de Setembro de 2009.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17500/0615906159.pdf)"
+  }
+ }
+}

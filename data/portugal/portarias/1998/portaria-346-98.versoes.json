@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:475972:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-06-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "55b8f5baf8669230",
+    "899975473aebb465",
+    "db4d4ab7ddd93321",
+    "9e7aec7cd59e5f7a",
+    "4a33153446bf96c1",
+    "c6cb0d38278b8c0e",
+    "3cc9d301da057a9b",
+    "23fbbc50e8ce1d76",
+    "3acef58e8fbd52b9"
+   ]
+  },
+  {
+   "date": "2000-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:413396:por",
+     "title": "Portaria n.º 108/2000",
+     "published": "2000-02-25",
+     "dre_path": "/dr/detalhe/portaria/108-2000-413396"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 110-113"
+   ],
+   "fragments": [
+    "55b8f5baf8669230",
+    "899975473aebb465",
+    "db4d4ab7ddd93321",
+    "dbe568b57a3e08cc",
+    "4a33153446bf96c1",
+    "c6cb0d38278b8c0e",
+    "3cc9d301da057a9b",
+    "23fbbc50e8ce1d76",
+    "3acef58e8fbd52b9"
+   ]
+  }
+ ],
+ "fragments": {
+  "55b8f5baf8669230": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Junho\n\nNo âmbito do Regulamento (CEE) n.º [2078/92](http://data.europa.eu/eli/reg/1992/2078/oj?locale=pt), do Conselho, de 30 de Junho, relativo a métodos de produção agrícola compatíveis com as exigências da protecção do ambiente e a preservação do espaço natural, foi aprovado o Programa Zonal de Castro Verde.\n\nO referido Programa tem incidência na área do biótopo Corine de Castro Verde e visa promover a conservação da natureza através da manutenção e melhoria qualitativa do habitat da avifauna estepária.\n\nPretende-se com o presente diploma, à semelhança do ocorrido com as restantes medidas, corrigir ou eliminar algumas limitações às ajudas, bem como actualizar os montantes das mesmas.\n\nEmbora não apresente muitas alterações face à portaria em vigor, optou-se por publicar um novo diploma com vista a facilitar a consulta pelos seus destinatários.\n\nAssim:\n\nAo abrigo do n.º 2 do artigo 10.º do Decreto-Lei n.º 31/94, de 5 de Fevereiro, com a redacção dada pelo Decreto-Lei n.º 351/97, de 5 de Dezembro:\n\nManda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, o seguinte:"
+  },
+  "899975473aebb465": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais\n\n1.º\n\nObjecto\n\nO presente diploma estabelece o regime de aplicação do Programa Zonal de Castro Verde, adiante designado por Programa, aprovado no âmbito das medidas agro-ambientais instituídas pelo Regulamento (CEE) n.º [2078/92](http://data.europa.eu/eli/reg/1992/2078/oj?locale=pt), do Conselho, de 30 de Junho, com a última redacção dada pelo Regulamento (CE) n.º [2772/95](http://data.europa.eu/eli/reg/1995/2772/oj?locale=pt), da Comissão, de 30 de Novembro, que tem por objectivos, nomeadamente, os seguintes:\n\na) Promover a conservação da natureza através da manutenção e melhoria qualitativa do habitat da avifauna estepária;\n\nb) Minimizar as perdas de rendimento agrícola decorrentes da adopção de técnicas de cultura e gestão compatíveis com a conservação da natureza.\n\n2.º\n\nÂmbito geográfico de aplicação\n\nA área geográfica de aplicação do Programa consta do anexo I.\n\n3.º\n\nForma e duração das ajudas\n\nAs ajudas previstas no presente diploma são concedidas sob a forma de prémios anuais durante o período de cinco anos.\n\n4.º\n\nAcumulação de ajudas\n\nAs ajudas a conceder no âmbito do Programa são cumuláveis com:\n\na) A ajuda a conceder à medida referida na alínea a) do artigo 7.º do Regulamento, aprovado pela Portaria n.º 85/98, de 19 de Fevereiro;\n\nb) As ajudas previstas nas alíneas b), c) e d) do artigo 7.º do Regulamento, aprovado pela Portaria n.º 85/98, de 19 de Fevereiro, e com a ajuda prevista na Portaria n.º 693/94, de 23 de Julho, no que se refere aos campos de demonstração, desde que não tenham por objecto a mesma parcela;\n\nc) A ajuda a conceder no âmbito da medida referida no n.º 2 do artigo 21.º do Regulamento, aprovado pela Portaria n.º 85/98, de 19 de Fevereiro.\n\n5.º\n\nBeneficiários e condições de acesso\n\nPodem beneficiar das ajudas previstas neste diploma os agricultores em nome individual ou colectivo titulares de uma exploração agrícola situada, no todo ou em parte, na área de aplicação do Programa e que reúnam as seguintes condições:\n\na) Explorem pelo menos 1 ha de superfície agrícola útil (SAU);\n\nb) Pratiquem uma rotação tradicional ou suas variantes, excepto nas parcelas de solos das classes A e B;\n\nc) A área de cereal seja inferior a 70% da SAU da exploração;\n\nd) O encabeçamento pecuário seja inferior a 0,7 cabeças normais por hectare (CN/ha) ou 0,5 CN/ha, consoante a exploração tenha menos de 100 ha de SAU ou mais de 100 ha de SAU.\n\n6.º\n\nCompromissos dos beneficiários\n\n1 - Para efeitos de atribuição da ajuda, os beneficiários devem comprometer-se, durante o período da sua concessão, a:\n\na) Utilizar exclusivamente as rotações tradicionais constantes do anexo II ou suas variantes, desde que aprovadas pela estrutura local de apoio, excepto nas parcelas constituídas por solos das classes A e B;\n\nb) Nas parcelas sujeitas a monda química, deixar faixas não mondadas, de largura nunca superior a 8 m e com superfície nunca inferior a 3% da área total da parcela;\n\nc) Não utilizar meios aéreos na monda;\n\nd) Utilizar os agro-químicos homologados pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, excepto os enumerados no anexo III;\n\ne) Nas explorações com mais de 100 ha, semear para consumo da fauna bravia, por cada 100 ha, 1 ha das culturas referidas no anexo IV ou outras, desde que aprovadas pela estrutura local, em folhas não contínuas, de dimensão inferior a 0,5 ha;\n\nf) Não manter em pastoreio mais de 0,7 CN/ha nas explorações com menos de 100 ha e mais de 0,5 CN/ha nas restantes;\n\ng) Manter os pontos de água existentes na exploração com água acessível à fauna bravia durante o período de Maio a Novembro, inclusive;\n\nh) Manter em todos os cursos e massas de água a vegetação natural, sem prejuízo das limpezas e regularizações necessárias ao adequado escoamento e ou capacidade de armazenamento;\n\ni) Respeitar o intervalo de datas e as técnicas a aplicar para corte das forragens e ceifa dos cereais, a indicar anualmente pela estrutura local de apoio, tendo em conta as características do ano agrícola e o estado do ciclo anual das espécies animais objecto do Programa;\n\nj) Não proceder à queima do restolho sem parecer prévio favorável da estrutura local;\n\nl) Não executar qualquer obra de irrigação de que resulte uma superfície irrigada superior a 10 ha contínuos ou 10 ha por exploração sem parecer prévio favorável da estrutura local de apoio;\n\nm) Não construir cercas com altura superior a 1,2 m ou de que resulte uma área cercada inferior a 15 ha nem efectuar a instalação de pequenos bosquetes sem parecer prévio favorável da estrutura local.\n\n2 - Os compromissos referidos no número anterior aplicam-se à totalidade ou à parte da exploração agrícola situada na área de aplicação do Programa.\n\n7.º\n\nValores e modulação das ajudas\n\n1 - Os valores das ajudas a conceder no âmbito do presente Programa são de:\n\na) De 1 ha a 10 ha - 102,42 ECU/ha;\n\nb) De 10 ha a 100 ha - 85,27 ECU/ha;\n\nc) De 100 ha a 200 ha - 73,66 ECU/ha;\n\nd) Mais de 200 ha - 37,34 ECU/ha.\n\n2 - Os montantes das ajudas referidos no número anterior são majorados em 25% quando se trate de agrupamentos de beneficiários e no âmbito de um projecto de ordenamento e beneficiação.\n\n8.º\n\nAgrupamento de beneficiários\n\nPara efeitos do n.º 2 do n.º 7.º, considera-se agrupamento de beneficiários aquele que resulte da associação de titulares de diferentes explorações agrícolas situadas na área de intervenção do Programa e que totalizem uma área contígua entre 1000 ha e 3000 ha, de acordo com a modulação constante do anexo V.\n\n9.º\n\nProjectos de ordenamento e beneficiação\n\n1 - Para efeitos de atribuição da majoração referida no n.º 2 do n.º 7.º, os beneficiários devem assumir os compromissos referidos no n.º 6.º e apresentar um projecto de ordenamento e beneficiação que vise, nomeadamente:\n\na) A aplicação de técnicas de gestão visando o aumento das populações faunísticas objecto deste Programa;\n\nb) A adopção de práticas culturais que favoreçam a conservação e a fertilidade dos solos e a diversidade florística.\n\n2 - Para a prossecução dos objectivos enunciados no número anterior, os projectos de ordenamento e beneficiação devem prever as seguintes acções:\n\na) Maneio do habitat e gestão das populações, por forma a beneficiar a fauna objecto deste Programa;\n\nb) Adopção de técnicas de produção que favoreçam a conservação do solo e da água;\n\nc) Implementação de acções que tenham em vista a conservação da flora espontânea;\n\nd) Criação de condições de acesso ao público;\n\ne) Formação na área da conservação da natureza."
+  },
+  "db4d4ab7ddd93321": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Gestão e acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Gestão e acompanhamento\n\n10.º\n\nGestão\n\nÀ gestão do Programa aplica-se o disposto na Portaria n.º 85/98, de 19 de Fevereiro.\n\n11.º\n\nEstrutura local de apoio\n\n1 - No âmbito do Programa, a Direcção Regional de Agricultura do Alentejo é coadjuvada por uma estrutura local de apoio constituída por:\n\na) Um representante da Direcção Regional de Agricultura do Alentejo, que preside;\n\nb) Um representante do Instituto da Conservação da Natureza (ICN);\n\nc) Um representante da Associação de Agricultores do Campo Branco.\n\n2 - Compete à estrutura local:\n\na) Proceder à recepção das candidaturas;\n\nb) Emitir parecer sobre:\n\ni) As obras de irrigação da qual resulte uma área irrigada superior a 10 ha, nos termos da alínea l) do n.º 6.º;\n\nii) A construção de cercas de altura superior a 1,2 m e de que resulte uma área cercada inferior a 15 ha e a instalação de pequenos bosquetes;\n\niii) A queima de restolhos;\n\niv) Os projectos de ordenamento e beneficiação;\n\nc) Aprovar:\n\ni) As variantes às rotações tradicionais;\n\nii) As culturas destinadas ao consumo da fauna bravia;\n\nd) Fixar anualmente as datas e as técnicas a aplicar para o corte das forragens e ceifa dos cereais;\n\ne) Prestar assistência técnica aos agricultores.\n\n12.º\n\nComissão de acompanhamento\n\n1 - O acompanhamento da execução do Programa e a avaliação do impacte estrutural resultante da sua aplicação competem a uma comissão de acompanhamento constituída pelos seguintes elementos:\n\na) Um representante da Direcção-Geral de Desenvolvimento Rural, que preside;\n\nb) As entidades representadas na estrutura local de apoio;\n\nc) Um representante da Comissão de Coordenação da Região do Alentejo;\n\nd) Dois representantes das associações de agricultores;\n\ne) Representantes das câmaras municipais da área geográfica de aplicação do Programa.\n\n2 - O presidente da comissão de acompanhamento pode solicitar a participação consultiva de representantes de outras entidades."
+  },
+  "9e7aec7cd59e5f7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Processo de candidatura e contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Processo de candidatura e contratação\n\n13.º\n\nApresentação das candidaturas\n\n1 - A apresentação de candidaturas ao Programa faz-se junto da Direcção Regional de Agricultura do Alentejo ou da estrutura local.\n\n2 - A candidatura faz-se através de formulário específico, do qual deve constar, designadamente, uma declaração em que sejam assumidos os compromissos exigidos para a concessão das ajudas e ser acompanhado de todos os documentos indicados nas respectivas instruções.\n\n14.º\n\nPrazos\n\n1 - A apresentação de candidaturas é efectuada durante o mês de Janeiro de cada ano.\n\n2 - As candidaturas apresentadas serão objecto de análise e decisão até 30 de Março de cada ano.\n\n3 - Em cada um dos quatro anos seguintes ao da formalização da candidatura, o beneficiário deve confirmar ou rectificar as declarações constantes do formulário de inscrição durante os meses de Fevereiro e Março, devendo a respectiva decisão ter lugar até 30 de Maio.\n\n15.º\n\nContratação e pagamento das ajudas\n\n1 - A atribuição das ajudas faz-se ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).\n\n2 - Compete ao IFADAP proceder ao pagamento das ajudas, até 15 de Outubro de cada ano.\n\n3 - O pagamento da majoração só tem lugar após o início da realização do projecto de ordenamento e beneficiação.\n\n4 - Aos contratos celebrados no âmbito deste Programa aplica-se o disposto nos artigos 41.º a 44.º da Portaria n.º 85/98, de 19 de Fevereiro.\n\n16.º\n\nPrazo excepcional\n\n1 - No corrente ano há lugar a um período excepcional de candidatura, que decorre nos 20 dias úteis a contar da data de entrada em vigor do presente diploma.\n\n2 - As candidaturas ao Programa apresentadas durante o mês de Janeiro de 1998 devem ser reformuladas de acordo com o regime constante do presente diploma, no prazo referido no número anterior.\n\n3 - A confirmação anual das candidaturas referente aos contratos já celebrados deve ser efectuada, no presente ano, no prazo referido no n.º 1.\n\n4 - O regime de ajudas previsto neste diploma aplica-se aos contratos já celebrados, para o período remanescente do contrato, desde que os beneficiários o requeiram durante o prazo referido no número anterior.\n\n17.º\n\nDisposição final\n\nOs anexos I a VI fazem parte integrante do presente diploma.\n\n18.º\n\nNorma revogatória\n\nÉ revogada a Portaria n.º 1177/95, de 26 de Setembro, com a última redacção dada pela Portaria n.º 1336/95, de 10 de Novembro, e o n.º 7.º da Portaria n.º 393/96, de 21 de Agosto.\n\n19.º\n\nEntrada em vigor\n\nO presente diploma entra em vigor na data da sua publicação.\n\nMinistérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.\n\nAssinada em 20 de Maio de 1998.\n\nO Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira."
+  },
+  "4a33153446bf96c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — (a que se refere o n.º 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — (a que se refere o n.º 2.º)\n\nLimites: inicia-se em Castro Verde e segue para noroeste pela estrada municipal n.º 535 até Casével. Inflecte para sudoeste pela mesma rodovia até ao cruzamento com a estrada municipal que se dirige a Messejana. Continua para norte por essa via de comunicação até ao cruzamento com a estrada nacional n.º 263. Acompanha para nordeste esta estrada até Aljustrel. Segue para sul pela estrada nacional n.º 383 até à Estação do Carregueiro. Inflecte para este ao longo da linha de caminho de ferro até à Estação da Figueirinha. Segue depois para sudeste pela estrada municipal n.º 529 em direcção a Albernoa, até à ponte sobre a ribeira de Terges situada no IP 2. Continua para nascente ao longo da margem sul daquela ribeira até ao cruzamento com a linha de limite até à freguesia de Aldernoa. Desenvolve-se para sul ao longo desta linha até à sua intersecção com a ribeira de Cobres, seguindo o caminho que leva ao assento de lavoura do prédio rústico denominado «Corte de Cobres». Daí segue para este acompanhando o traçado do estradão que passa por Monte das Figueiras e Vale de Camelos, terminando na estrada nacional n.º 122, junto ao quilómetro 24,3. Aqui inflecte para sudeste, seguindo ao longo dessa rodovia até ao cruzamento com a estrada municipal n.º 540 junto a Algodor. Segue para sul por essa estrada até ao cruzamento com a estrada nacional n.º 123, perto de Alcaria Ruiva. Segue depois para poente por essa via de comunicação até ao cruzamento com a estrada municipal n.º 509 junto ao quilómetro 92. Daí segue para sul acompanhando o traçado da estrada municipal n.º 509 até Penilhos. Dessa povoação inflecte para oeste pela estrada municipal n.º 1140 até ao cruzamento com a estrada municipal n.º 1139. Desenvolve-se para norte ao longo dessa estrada até ao seu cruzamento com a estrada municipal n.º 508. Continua para noroeste por essa rodovia até ao local da ponte sobre a ribeira de Cobres. Inflecte para sul ao longo dessa ribeira até ao limite sul da Herdade da Pedra Branca. Segue uma linha traçada pelos limites sul dos prédios rústicos denominados «Pedra Branca», «Monte do Serro», «Monte das Oliveiras» e «Monte dos Prazeres», seguindo para norte pelo limite oeste desta última propriedade até à estrada municipal n.º 508. Continua para nascente por esta rodovia até ao seu cruzamento com a estrada municipal n.º 123-2. Segue depois por esta estrada para norte até ao cruzamento com a estrada nacional n.º 123. Inflecte para oeste ao longo dessa rodovia até Castro Verde."
+  },
+  "c6cb0d38278b8c0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — [a que se refere a alínea a) do n.º 1 do n.º 6.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — [a que se refere a alínea a) do n.º 1 do n.º 6.º]\n\nRotações tradicionais na área\n\n[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/06/130b00/25762580.pdf)](https://files.diariodarepublica.pt/1s/1998/06/130b00/25762580.pdf)"
+  },
+  "3cc9d301da057a9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — [a que se refere a alínea d) do n.º 1 do n.º 6.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — [a que se refere a alínea d) do n.º 1 do n.º 6.º]\n\nAgro-químicos de uso interdito, por substâncias activas:\n\nHerbicidas:\n\nClorato de sódio;\n\nDinosebe;\n\nDonoterbe;\n\nDNOC;\n\nLoxinyl;\n\nParaquato.\n\nFungicidas:\n\nDNOC;\n\nArseniato de sódio."
+  },
+  "23fbbc50e8ce1d76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — [a que se refere a alínea e) do n.º 1 do n.º 6.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — [a que se refere a alínea e) do n.º 1 do n.º 6.º]\n\nCulturas destinadas a consumo da fauna bravia:\n\nFeijão-frade (phaseolus vulgaris);\n\nGrão-de-bico (Cicer arietinum);\n\nErvilhaca (Vicia sativa);\n\nChícharo (Lathyrus sativus)."
+  },
+  "3acef58e8fbd52b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO V — (a que se refere o n.º 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — (a que se refere o n.º 8.º)\n\n[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/06/130b00/25762580.pdf)](https://files.diariodarepublica.pt/1s/1998/06/130b00/25762580.pdf)"
+  },
+  "dbe568b57a3e08cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Processo de candidatura e contratação",
+   "in_force_from": "2000-03-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 108/2000](https://diariodarepublica.pt/dr/detalhe/portaria/108-2000-413396), publicado em 2000-02-25."
+   ],
+   "markdown": "#### SECÇÃO III — Processo de candidatura e contratação\n\n13.º\n\nApresentação das candidaturas\n\n1 - A apresentação de candidaturas ao Programa faz-se junto da Direcção Regional de Agricultura do Alentejo ou da estrutura local.\n\n2 - A candidatura faz-se através de formulário específico, do qual deve constar, designadamente, uma declaração em que sejam assumidos os compromissos exigidos para a concessão das ajudas e ser acompanhado de todos os documentos indicados nas respectivas instruções.\n\n14.º\n\nConfirmação ou rectificação das declarações\n\nEm cada um dos anos seguintes ao da formalização da candidatura, o beneficiário deve confirmar ou rectificar as declarações constantes do formulário de inscrição.\n\n> Alterado pelo/a [Portaria n.º 108/2000](https://diariodarepublica.pt/dr/detalhe/portaria/108-2000-413396), publicado em 2000-02-25.\n\n15.º\n\nContratação e pagamento das ajudas\n\n1 - A atribuição das ajudas faz-se ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).\n\n2 - Compete ao IFADAP proceder ao pagamento das ajudas, até 15 de Outubro de cada ano.\n\n3 - O pagamento da majoração só tem lugar após o início da realização do projecto de ordenamento e beneficiação.\n\n4 - Aos contratos celebrados no âmbito deste Programa aplica-se o disposto nos artigos 41.º a 44.º da Portaria n.º 85/98, de 19 de Fevereiro.\n\n16.º\n\nPrazo excepcional\n\n1 - No corrente ano há lugar a um período excepcional de candidatura, que decorre nos 20 dias úteis a contar da data de entrada em vigor do presente diploma.\n\n2 - As candidaturas ao Programa apresentadas durante o mês de Janeiro de 1998 devem ser reformuladas de acordo com o regime constante do presente diploma, no prazo referido no número anterior.\n\n3 - A confirmação anual das candidaturas referente aos contratos já celebrados deve ser efectuada, no presente ano, no prazo referido no n.º 1.\n\n4 - O regime de ajudas previsto neste diploma aplica-se aos contratos já celebrados, para o período remanescente do contrato, desde que os beneficiários o requeiram durante o prazo referido no número anterior.\n\n17.º\n\nDisposição final\n\nOs anexos I a VI fazem parte integrante do presente diploma.\n\n18.º\n\nNorma revogatória\n\nÉ revogada a Portaria n.º 1177/95, de 26 de Setembro, com a última redacção dada pela Portaria n.º 1336/95, de 10 de Novembro, e o n.º 7.º da Portaria n.º 393/96, de 21 de Agosto.\n\n19.º\n\nEntrada em vigor\n\nO presente diploma entra em vigor na data da sua publicação.\n\nMinistérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.\n\nAssinada em 20 de Maio de 1998.\n\nO Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira."
+  }
+ }
+}

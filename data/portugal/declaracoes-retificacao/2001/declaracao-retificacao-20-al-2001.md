@@ -31,10 +31,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-01-31'
+version_history:
+  file: declaracao-retificacao-20-al-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-31'
+    amending: pt:dre:506217:por
+    amending_title: Declaração de Rectificação n.º 3-B/2002
+    changes:
+    - Altera Artigo unidades 3-3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declrectif/20-al/2001/10/31/p/dre/pt/html
@@ -60,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T18:58:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 3-B/2002.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/declaracoes-retificacao/2001/declaracao-retificacao-20-al-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -107,6 +122,8 @@ validation:
 
 Segundo comunicação do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, a [Declaração de Rectificação n.º 15-I/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-2001-437855), publicada no Diário da República, 1.ª série-B, n.º 202 (4.º suplemento), de 31 de Agosto de 2001, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
 
-No n.º 2.º, onde se lê «com uma área de 13,9070 ha.» deve ler-se «com uma área de 13,9700 ha.».
+No n.º 2.º, onde se lê «com uma área de 13,9070 ha.» deve ler-se «com uma área de 13907 ha.».
+
+> Alterado pelo/a [Declaração de Rectificação n.º 3-B/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-b-2002-506217), publicado em 2002-01-31.
 
 Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Outubro de 2001. - O Secretário-Geral, Alexandre Figueiredo.

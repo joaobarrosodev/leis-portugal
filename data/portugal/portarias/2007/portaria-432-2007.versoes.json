@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:519621:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-04-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6a9d31ad47859c8b"
+   ]
+  },
+  {
+   "date": "2010-09-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:341869:por",
+     "title": "Portaria n.º 929/2010",
+     "published": "2010-09-20",
+     "dre_path": "/dr/detalhe/portaria/929-2010-341869"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "f42a7c9225307754"
+   ]
+  }
+ ],
+ "fragments": {
+  "6a9d31ad47859c8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Abril\n\nCom fundamento no disposto na alínea a) do artigo 40.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro;\n\nOuvido o Conselho Cinegético Municipal de Fronteira:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é concessionada, pelo período de 12 anos, a António Xavier de Lima, com o número de pessoa colectiva 502509953, com sede na Rua de 25 de Abril, 11 e 11-A, Paivas, 2845-389 Amora, a zona de caça turística da Herdade da Raposeira e anexas (processo n.º 4597-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de Cabeço de Vide, município de Fronteira, com a área de 989 ha.\n\n2.º A zona de caça concessionada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 20 de Março de 2007.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07400/24012401.pdf)"
+  },
+  "f42a7c9225307754": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2010-09-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 929/2010](https://diariodarepublica.pt/dr/detalhe/portaria/929-2010-341869), publicado em 2010-09-20."
+   ],
+   "markdown": "de 16 de Abril\n\nCom fundamento no disposto na alínea a) do artigo 40.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro;\n\nOuvido o Conselho Cinegético Municipal de Fronteira:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é concessionada, pelo período de 12 anos, a António Xavier de Lima - Empreendimentos Imobiliários e Turísticos, S. A., com o número de identificação de pessoa colectiva 502509953, com sede na Rua de 25 de Abril, 11 e 11-A, Paivas, 2845-389 Amora, a zona de caça turística da Herdade da Raposeira e anexas (processo n.º 4597-AFN), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de Cabeço de Vide, município de Fronteira, com a área de 989 ha.\n\n> Alterado pelo/a [Portaria n.º 929/2010](https://diariodarepublica.pt/dr/detalhe/portaria/929-2010-341869), publicado em 2010-09-20.\n\n2.º A zona de caça concessionada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 20 de Março de 2007.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07400/24012401.pdf)"
+  }
+ }
+}

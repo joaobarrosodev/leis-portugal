@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-03-16'
+version_history:
+  file: portaria-464-a-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-03-16'
+    amending: pt:dre:185091:por
+    amending_title: Portaria n.º 186/95
+    changes:
+    - Altera Artigo unidades 35-180
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:31:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 186/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-464-a-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -220,297 +235,59 @@ Classificação final
 
 A classificação final do curso é calculada nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.
 
-9.º
+9.º - (Revogado.)
 
-Limitações quantitativas
+10.º - (Revogado.)
 
-A matrícula e inscrição no curso está sujeita a limitações quantitativas a fixar anualmente por portaria do Ministro da Educação, sob proposta do reitor da Universidade de Trás-os-Montes e Alto Douro, ouvidos os conselhos científico e pedagógico.
+11.º - (Revogado.)
 
-10.º
+12.º - (Revogado.)
 
-Selecção e seriação
+13.º - (Revogado.)
 
-A selecção e seriação dos candidatos ao curso é feita através de um concurso de acesso organizado pela Universidade nos termos da presente portaria.
+14.º - (Revogado.)
 
-11.º
+15.º - (Revogado.)
 
-Habilitações de acesso
+16.º - (Revogado.)
 
-1 - Podem apresentar-se ao concurso de acesso os titulares de:
+17.º - (Revogado.)
 
-a) Habilitações para a candidatura pelo regime geral de acesso aos cursos de licenciatura em Educação Física e Desporto ou em Ensino da Educação Física de outras universidades, incluindo o exame de aferição;
+18.º - (Revogado.)
 
-b) Exame especial de avaliação de capacidade para acesso a este curso, dentro do respectivo prazo de validade ([Decreto-Lei n.º 198/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1979-381171), de 29 de Junho);
+19.º - (Revogado.)
 
-c) Um curso superior;
+20.º - (Revogado.)
 
-d) Um curso complementar do ensino secundário e o curso de educadores de infância ou o curso do magistério primário.
+21.º - (Revogado.)
 
-2 - Podem igualmente apresentar-se ao concurso de acesso os estudantes que, embora não sendo titulares de uma das habilitações a que se referem as alíneas a) a d) do n.º 1, já hajam estado legalmente matriculados e inscritos em estabelecimento e curso de ensino superior nacional ou estrangeiro.
+22.º - (Revogado.)
 
-3 - Não podem beneficiar do disposto no n.º 2 os estudantes que hajam ingressado no curso superior aí referido através do exame ad hoc para acesso ao ensino superior ou do exame especial de avaliação de capacidade para acesso a outro curso de ensino superior.
+23.º - (Revogado.)
 
-12.º
+24.º - (Revogado.)
 
-Instrução do pedido
+25.º - (Revogado.)
 
-1 - A apresentação ao concurso de acesso deverá ser solicitada pelo interessado ou por seu procurador bastante, através de requerimento dirigido ao reitor.
+26.º - (Revogado.)
 
-2 - Os estudantes residentes no estrangeiro deverão constituir domicílio postal em Portugal e designar procurador bastante.
+27.º - (Revogado.)
 
-3 - O requerimento será entregue na Universidade no prazo fixado nos termos do n.º 25.º
+28.º - (Revogado.)
 
-4 - Do requerimento constarão obrigatoriamente:
+29.º - (Revogado.)
 
-a) Nome do requerente;
+30.º - (Revogado.)
 
-b) Número do bilhete de identidade e entidade emissora;
+31.º - (Revogado.)
 
-c) Endereço postal;
+32.º - (Revogado.)
 
-d) Habilitação de acesso com que se candidata.
+33.º - (Revogado.)
 
-5 - Junto com o requerimento serão entregues obrigatoriamente:
+34.º - (Revogado.)
 
-a) Certificado comprovativo da habilitação de acesso com que se candidata;
-
-b) O dossier médico a que se refere o n.º 17.º;
-
-c) O currículo a que se refere o n.º 19.º
-
-6 - Na altura da entrega do requerimento será exibido o bilhete de identidade, para conferência.
-
-7 - O requerimento poderá ser substituído por um impresso de modelo a fixar por despacho do reitor da Universidade.
-
-13.º
-
-Indeferimento liminar
-
-1 - Serão liminarmente indeferidos os requerimentos de candidatos que, embora reunindo as condições necessárias à candidatura ao curso, se encontrem numa das seguintes situações:
-
-a) Não estejam correctamente preenchidos nos termos do n.º 12.º;
-
-b) Sejam apresentados fora do prazo;
-
-c) Não sejam acompanhados da documentação necessária à sua completa instrução;
-
-d) Expressamente infrinjam alguma das regras fixadas pela presente portaria.
-
-2 - O indeferimento liminar compete ao reitor.
-
-14.º
-
-Concurso de acesso
-
-O concurso de acesso é constituído por duas fases:
-
-a) Fase de selecção;
-
-b) Fase de seriação.
-
-15.º
-
-Júri do concurso de acesso
-
-A organização do concurso de acesso é da competência de um júri designado pelo reitor, sob proposta do conselho científico.
-
-16.º
-
-Fase de selecção
-
-1 - A fase de selecção destina-se a apreciar a aptidão funcional e física dos candidatos.
-
-2 - Os requisitos a que os candidatos deverão satisfazer serão fixados por despacho do reitor, sob proposta do júri.
-
-3 - Compete ao júri proceder à selecção dos candidatos.
-
-4 - O resultado da fase de selecção exprime-se em Apto ou Não apto.
-
-5 - A Universidade de Trás-os-Montes e Alto Douro, os institutos superiores de educação física e as escolas superiores de educação onde seja ministrada a variante de Educação Física do curso de professores de ensino básico poderão acordar entre si a equivalência das provas de aptidão funcional e física a que se refere este número e das provas de igual natureza a que se referem as Portarias n.os [254/86](https://diariodarepublica.pt/dr/detalhe/portaria/254-1986-226843), de 26 de Maio, e [526/87](https://diariodarepublica.pt/dr/detalhe/portaria/526-1987-419779), de 27 de Junho. Deste acordo será dado conhecimento através do edital a que se refere o n.º 20.º
-
-17.º
-
-Dossier médico
-
-1 - Os requisitos de natureza médica da avaliação da aptidão funcional serão apreciados através de um dossier médico cujo conteúdo será fixado pelo júri.
-
-2 - Para a realização dos exames conducentes à obtenção dos elementos referidos no n.º 1, cada candidato optará pelo recurso a médico próprio e ou aos serviços médicos da região onde habita ou aos serviços médicos universitários, onde existentes.
-
-3 - Caso a Universidade não disponha da totalidade dos meios necessários para proceder à apreciação do dossier médico, poderá solicitar a colaboração de serviços dependentes do Ministério da Educação especialmente vocacionados para o efeito.
-
-18.º
-
-Fase de seriação
-
-1 - Só serão considerados na fase de seriação os candidatos declarados aptos na fase de selecção.
-
-2 - A fase de seriação concretiza-se através da apreciação do currículo académico e desportivo - quer como praticante quer como técnico - do candidato.
-
-3 - A fase de seriação é de natureza documental, sem prejuízo de o júri, sempre que o entender, convocar os candidatos para entrevistas individuais para melhor apreciação dos respectivos currículos.
-
-4 - Compete ao júri proceder à fixação dos critérios de seriação dos candidatos e à seriação.
-
-19.º
-
-Currículo
-
-1 - O júri fixará o modelo de currículo que deve ser adoptado obrigatoriamente por todos os candidatos.
-
-2 - O júri poderá solicitar aos candidatos a entrega de documentos comprovativos dos diferentes itens do currículo dos candidatos.
-
-20.º
-
-Divulgação
-
-Até 30 dias antes do prazo de apresentação das candidaturas, o júri promoverá a afixação na Universidade de edital descrevendo:
-
-a) Os requisitos a que os candidatos devem satisfazer no domínio da aptidão funcional e física;
-
-b) O conteúdo do dossier médico a apresentar;
-
-c) Os critérios de seriação que irão ser adoptados;
-
-d) O modelo de currículo a adoptar obrigatoriamente pelos candidatos.
-
-21.º
-
-Resultado final
-
-1 - O resultado final do concurso de acesso traduzir-se-á:
-
-a) Numa lista de candidatos considerados não aptos na fase de selecção;
-
-b) Numa lista ordenada dos candidatos considerados aptos na fase de selecção.
-
-2 - O resultado será submetido pelo júri à homologação do reitor e tornado público através de edital a afixar nas instalações da Universidade.
-
-22.º
-
-Matrículas e inscrições
-
-1 - Estão admitidos à matrícula e inscrição os candidatos que na lista ordenada a que se refere a alínea b) do n.º 1 do n.º 21.º não tenham número de ordem superior ao número de vagas fixado nos termos do n.º 9.º
-
-2 - Os candidatos admitidos à matrícula e inscrição deverão proceder a estas no prazo fixado nos termos do n.º 25.º
-
-3 - Caso algum candidato admitido desista expressamente da matrícula e inscrição ou não compareça a realizar a mesma, a Universidade, no dia imediato ao fim do prazo da matrícula e inscrição, através de carta registada com aviso de recepção, convocará para a inscrição o(s) candidato(s) seguinte(s) da lista ordenada a que se refere a alínea b) do n.º 1 do n.º 21.º, até esgotar as vagas ou os candidatos.
-
-4 - Os candidatos a que se refere o n.º 3 terão um prazo, improrrogável, de três dias úteis após a recepção da notificação para procederem à sua matrícula e inscrição.
-
-23.º
-
-Supranumerários
-
-1 - Poderão igualmente ser admitidos à matrícula e inscrição no curso como supranumerários os estudantes que, cumulativamente:
-
-a) Satisfaçam aos requisitos de um dos regimes de candidatura de supranumerários a que se referem os artigos 29.º a 43.º do regulamento anexo à [Portaria n.º 582-B/84](https://diariodarepublica.pt/dr/detalhe/portaria/582-b-1984-370853), de 8 de Agosto;
-
-b) Sejam considerados aptos na fase de selecção.
-
-2 - Para este fim, estes estudantes requererão a sua apresentação à fase de selecção do concurso juntando ao seu requerimento um documento emitido pelo Gabinete Coordenador do Ingresso no Ensino Suerior comprovativo da satisfação do requisito a que se refere a alínea a) do n.º 1.
-
-3 - O número de supranumerários a admitir no curso não poderá exceder 20% para além das vagas fixadas para o curso, arredondado para o inteiro superior.
-
-24.º
-
-Comunicação ao Gabinete Coordenador do Ingresso no Ensino Superior
-
-1 - Findo o prazo de matrícula e inscrição, a Universidade remeterá ao Gabinete Coordenador do Ingresso no Ensino Superior uma lista de que constem todos os candidatos, incluindo aqueles a que se refere o n.º 23.º, indicando, para cada um:
-
-a) Nome;
-
-b) Número do bilhete de identidade e local de emissão;
-
-c) Resultado das duas fases do concurso de acesso;
-
-d) Data da matrícula e inscrição, se for caso disso.
-
-2 - A lista será acompanhada de fotocópia do certificado a que se refere a alínea a) do n.º 5 do n.º 12.º
-
-25.º
-
-Prazos
-
-Os prazos para a candidatura, selecção, matrícula e inscrição serão fixados por despacho do reitor, devendo salvaguardar sempre a possibilidade de os candidatos serem também opositores aos concursos geral e especial de acesso ao ensino superior.
-
-26.º
-
-Validade do concurso de acesso
-
-O resultado final do concurso de acesso é válido apenas para o ano lectivo para que se realiza.
-
-27.º
-
-Regulamento anexo à [Portaria n.º 582-B/84](https://diariodarepublica.pt/dr/detalhe/portaria/582-b-1984-370853), de 8 de Agosto
-
-À candidatura a este curso não é aplicável o regulamento anexo à [Portaria n.º 582-B/84](https://diariodarepublica.pt/dr/detalhe/portaria/582-b-1984-370853), de 8 de Agosto, sem prejuízo do disposto no n.º 23.º
-
-28.º
-
-Reingresso, mudança de curso e transferência
-
-1 - Ao curso regulado pela presente portaria não é aplicável o regime de mudança de curso.
-
-2 - O reingresso e a transferência estarão sujeitos às regras gerais aplicáveis, com as adaptações que sejam introduzidas pelo reitor, sob proposta do conselho pedagógico, face à especificidade do curso.
-
-29.º
-
-Exclusão de candidatos
-
-1 - Para além do indeferimento liminar a que se refere o n.º 13.º, há lugar à exclusão do concurso de acesso, a todo o tempo, dos candidatos que:
-
-a) Se comprove não reunirem as condições exigidas para a apresentação ao concurso de acesso;
-
-b) Prestem falsas declarações;
-
-c) Actuem, no decurso das provas, de maneira fraudulenta que implique o desvirtuamento dos objectivos daquelas.
-
-2 - É competente para proferir a decisão a que se refere o n.º 1 o reitor, no caso da alínea c), sob informação circunstanciada do júri.
-
-3 - Caso haja sido realizada matrícula na Universidade e se confirme uma das situações previstas no n.º 1, aquela será anulada, bem como todos os actos praticados ao abrigo da mesma.
-
-30.º
-
-Matrículas simultâneas
-
-1 - É proibida a matrícula e inscrição no mesmo ano lectivo:
-
-a) Em dois cursos superiores ministrados em estabelecimentos de ensino superior público, particular ou cooperativo;
-
-b) Num desses cursos superiores referidos na alínea a) e num curso não superior ministrado em estabelecimento público.
-
-2 - Exceptua-se da alínea b) do número anterior a inscrição em curso não superior de Música, Canto ou Dança.
-
-3 - A violação do disposto no n.º 1 determina a anulação da matrícula e inscrição do aluno em causa.
-
-4 - É competente para determinar a anulação da matrícula e inscrição a entidade que na Universidade for competente para a autorizar, sob participação de qualquer entidade que haja tido conhecimento da situação.
-
-31.º
-
-Não utilização de vagas
-
-As vagas não ocupadas resultantes de um número insuficiente de candidatos considerados aptos na fase de selecção e as resultantes da não efectivação da matrícula e inscrição não serão utilizáveis para qualquer fim.
-
-32.º
-
-Processo individual
-
-1 - Para cada candidato será organizado um processo individual, do qual constarão todos os documentos que tenham servido à instrução do respectivo pedido de candidatura.
-
-2 - O processo conterá, igualmente, a documentação referente a anteriores candidaturas que se encontre arquivada na Universidade.
-
-3 - O processo terá todas as suas páginas numeradas sequencialmente.
-
-33.º
-
-Disposição transitória
-
-No ano de 1988 o prazo a que se refere o n.º 20.º é de quinze dias.
-
-34.º
-
-Entrada em vigor
-
-A presente portaria entra em vigor na data da sua publicação.
+> Alterado pelo/a [Portaria n.º 186/95](https://diariodarepublica.pt/dr/detalhe/portaria/186-1995-185091), publicado em 1995-03-11.
 
 Ministério da Educação.
 

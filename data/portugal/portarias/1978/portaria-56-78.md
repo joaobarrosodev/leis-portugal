@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-03-20'
+version_history:
+  file: portaria-56-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-01-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-03-20'
+    amending: pt:dre:383427:por
+    amending_title: Portaria n.º 125/79
+    changes:
+    - Altera Artigo unidades 63-63
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:44:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 125/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-56-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -231,7 +246,9 @@ d) Instrutor mais idoso.
 
 29.º A morte de qualquer sócio de entidade colectiva ocorrida entre a data da apresentação da proposta e a da autorga do alvará não prejudica os direitos do concorrente, designadamente no que se refere à aplicação dos critérios de preferência previstos no presente diploma.
 
-30.º O prazo de cento e vinte dias referido no n.º 23.º da presente portaria poderá ser prorrogado uma única vez e por tempo não superior ao prazo inicial, mediante requerimento justificativo.
+30.º O prazo referido no n.º 23.º pode ser prorrogado, por idênticos períodos, nos casos em que a Direcção-Geral de Viação entender que houve razões justificativas do não cumprimento do disposto naquele número.
+
+> Alterado pelo/a [Portaria n.º 125/79](https://diariodarepublica.pt/dr/detalhe/portaria/125-1979-383427), publicado em 1979-03-20.
 
 31.º O decurso dos prazos sem que tenham sido cumpridas as formalidades referidas no n.º 23.º do presente diploma equivale à desistência, com perda das cauções a favor do Estado.
 

@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-09-29'
+version_history:
+  file: portaria-330-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-06-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-09-29'
+    amending: pt:dre:375249:por
+    amending_title: Portaria n.º 915/82
+    changes:
+    - Altera Artigo unidades 133-133
+    - Adita Artigo depois da unidade 145
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:17:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 915/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-330-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -366,7 +382,9 @@ Informática.
 
 20 - Poderão inscrever-se em cada um dos ciclos de formação específica mencionados nos n.os 3, 4 e 5 os candidatos:
 
-a) Que tenham completado o ciclo de base a que se refere o n.º 2;
+a) Que tenham completado o ciclo de base a que se refere o n.º 2.º ou a quem, nos termos do [Decreto n.º 46646](https://diariodarepublica.pt/dr/detalhe/decreto/46646-1965-512431), de 16 de Novembro de 1965, não falte mais de 2 disciplinas para a sua conclusão.
+
+> Alterado pelo/a [Portaria n.º 915/82](https://diariodarepublica.pt/dr/detalhe/portaria/915-1982-375249), publicado em 1982-09-29.
 
 b) Diplomados com os cursos de Administração, de Administração Ultramarina ou com os que os precederam;
 
@@ -391,6 +409,10 @@ b) Diplomados com um curso superior de Serviço Social por outras escolas.
 25 - Aos alunos referidos na alínea e) do n.º 20 aplicar-se-á o regime previsto no artigo 12.º da [Portaria n.º 663/79](https://diariodarepublica.pt/dr/detalhe/portaria/663-1979-366625), de 10 de Dezembro.
 
 26 - O ensino das línguas professadas no Instituto de Línguas Africanas e Orientais será organizado de forma a permitir a sua frequência pelos alunos inscritos no ciclo de formação específica da licenciatura em Antropologia.
+
+26.º-A - A tabela e o regime de precedências serão fixados pelo conselho científico, ouvido o conselho pedagógico.
+
+> Aditado pelo/a [Portaria n.º 915/82](https://diariodarepublica.pt/dr/detalhe/portaria/915-1982-375249), publicado em 1982-09-29.
 
 27 - As dúvidas suscitadas na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Ciência, ouvido o Conselho Científico do Instituto.
 

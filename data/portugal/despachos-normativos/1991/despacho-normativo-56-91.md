@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-03-30'
+version_history:
+  file: despacho-normativo-56-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-03-30'
+    amending: pt:dre:477103:por
+    amending_title: Declaração de Rectificação n.º 42/91
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/56/1991/03/04/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:53:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 42/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1991/despacho-normativo-56-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,7 +141,9 @@ Considerando o disposto na alínea a) do n.º 2 do artigo 18.º do [Decreto-Lei 
 
 Determina-se:
 
-1 - É criado no quadro de pessoal do Gabinete de Gestão Financeira do Ministério da Justiça, aprovado pelo [Decreto Regulamentar n.º 53/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1983-452521), de 23 de Junho, um lugar de assessor, a extinguir quando vagar.
+1 - É criado no quadro de pessoal do Gabinete de Gestão Financeira do Ministério da Justiça, aprovado pelo [Decreto Regulamentar n.º 55/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1983-452503), de 23 de Junho, um lugar de assessor, a extinguir quando vagar.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 42/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/42-1991-477103), publicado em 1991-03-30.
 
 2 - A criação do lugar referido no número anterior produz efeitos desde 6 de Novembro de 1990.
 

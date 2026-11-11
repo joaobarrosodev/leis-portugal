@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:532060:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-04-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "deb7dca18164d3a9",
+    "8825adf88304be84"
+   ]
+  },
+  {
+   "date": "2003-12-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:423641:por",
+     "title": "Portaria n.º 1407/2003",
+     "published": "2003-12-22",
+     "dre_path": "/dr/detalhe/portaria/1407-2003-423641"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 20-26"
+   ],
+   "fragments": [
+    "deb7dca18164d3a9",
+    "356d107a0675d35b"
+   ]
+  }
+ ],
+ "fragments": {
+  "deb7dca18164d3a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Abril\n\nSob proposta do Instituto Politécnico de Viana do Castelo e da sua Escola Superior de Tecnologia e Gestão;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nConsiderando o disposto nas Portarias n.os [413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, e [413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto;\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro), no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso bietápico de licenciatura em Gestão da Escola Superior de Tecnologia e Gestão de Viana do Castelo, criado pela [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto, nos termos do anexo à presente portaria.\n\n2.º\n\nNorma revogatória\n\nFindo o processo de transição fixado nos termos do artigo 31.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, é revogada a [Portaria n.º 671/90](https://diariodarepublica.pt/dr/detalhe/portaria/671-1990-573704), de 14 de Agosto, alterada pela [Portaria n.º 1278/93](https://diariodarepublica.pt/dr/detalhe/portaria/1278-1993-538004), de 16 de Dezembro, que autorizou o Instituto Politécnico de Viana do Castelo, através da sua Escola Superior de Tecnologia e Gestão, a conferir o grau de bacharel em Gestão.\n\n3.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 1998-1999, inclusive.\n\nPelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior, em 16 de Março de 1999."
+  },
+  "8825adf88304be84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Viana do Castelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Instituto Politécnico de Viana do Castelo\n\nEscola Superior de Tecnologia e Gestão\n\nCurso: Gestão\n\n1.º ciclo\n\nGrau de bacharel\n\n[(ver quadros n.os 1 a 6 no documento original)](https://files.diariodarepublica.pt/1s/1999/04/097b00/22242227.pdf)\n\n2.º ciclo\n\nGrau de licenciado\n\n[(ver quadros n.os 7 a 10 no documento original)](https://files.diariodarepublica.pt/1s/1999/04/097b00/22242227.pdf)"
+  },
+  "356d107a0675d35b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Viana do Castelo",
+   "in_force_from": "2003-12-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1407/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1407-2003-423641), publicado em 2003-12-22."
+   ],
+   "markdown": "## ANEXO — Instituto Politécnico de Viana do Castelo\n\nEscola Superior de Tecnologia e Gestão\n\nCurso de Gestão\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º semestre\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)\n\nQUADRO N.º 2\n\n2.º semestre\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)\n\nQUADRO N.º 3\n\n3.º semestre\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)\n\nQUADRO N.º 4\n\n4.º semestre\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)\n\nQUADRO N.º 5\n\n5.º semestre\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)\n\nQUADRO N.º 6\n\n6.º semestre\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 7\n\n1.º semestre\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)\n\nQUADRO N.º 8\n\n2.º semestre\n\n[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85508552.pdf)\n\n> Alterado pelo/a [Portaria n.º 1407/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1407-2003-423641), publicado em 2003-12-22."
+  }
+ }
+}

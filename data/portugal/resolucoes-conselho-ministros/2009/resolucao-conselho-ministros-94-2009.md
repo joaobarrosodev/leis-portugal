@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-08-25'
+version_history:
+  file: resolucao-conselho-ministros-94-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-09-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-08-25'
+    amending: pt:dre:343597:por
+    amending_title: Resolução do Conselho de Ministros n.º 59/2010
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/94/2009/09/23/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:00:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 59/2010. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2009/resolucao-conselho-ministros-94-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,7 +148,9 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](
 
 1 - Autorizar a realização da despesa com a adjudicação da empreitada de requalificação das instalações do Estabelecimento Prisional do Linhó, até ao montante de (euro) 1 550 000.
 
-2 - Determinar, considerando a urgência de que reveste o procedimento pré-contratual e os interesses da segurança referidos no preâmbulo, o recurso ao ajuste directo no processo de adjudicação da empreitada referida no número anterior, devendo, contudo, por razões de concorrência, serem consultadas três entidades de entre aquelas que estão devidamente credenciadas com grau confidencial junto do Gabinete Nacional de Segurança, nos termos das alíneas c) e f) do n.º 1 do artigo 24.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro.
+2 - Determinar, considerando as exigências de segurança e estrita confidencialidade em causa, o recurso ao ajuste directo no processo de adjudicação da empreitada de requalificação das instalações do Estabelecimento Prisional do Linhó, devendo, por razões de respeito pelo princípio da concorrência, proceder-se à consulta de, pelo menos, três entidades de entre aquelas que estão devidamente credenciadas com o grau confidencial junto do Gabinete Nacional de Segurança, nos termos da alínea f) do n.º 1 do artigo 24.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, alterado pela [Lei n.º 59/2009](https://diariodarepublica.pt/dr/detalhe/lei/59-2009-493991), de 11 de Setembro, pelo [Decreto-Lei n.º 223/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2009-489738), de 11 de Setembro, pelo [Decreto-Lei n.º 278/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2009-491176), de 2 de Outubro, e pela [Lei n.º 3/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-2010-614148), de 27 de Abril.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 59/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-2010-343597), publicado em 2010-08-24.
 
 3 - Delegar, com a faculdade de subdelegação, ao abrigo do artigo 109.º do Código dos Contratos Públicos, no Ministro da Justiça a competência para a prática de todos os actos no âmbito do procedimento referido no número anterior, incluindo a competência para a aprovação das peças procedimentais, para a designação do júri do procedimento, bem como para a outorga do respectivo contrato.
 

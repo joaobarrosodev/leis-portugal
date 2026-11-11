@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-10-12'
+version_history:
+  file: portaria-593-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-10-12'
+    amending: pt:dre:548786:por
+    amending_title: Portaria n.º 868/89
+    changes:
+    - Altera Artigo unidades 75-92
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:43:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 868/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-593-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -258,38 +273,22 @@ História Moderna e Contemporânea.
 
 ## ANEXO II — Mestrado em História Medieval
 
-1 - Área científica do curso:
+1 - Área científica do curso: História Medieval.
 
-História Medieval.
+2 - Duração normal do curso: dois anos lectivos.
 
-2 - Duração normal do curso:
+3 - Número total mínimo de unidades de crédito necessário à concessão do grau: 32.
 
-2 anos lectivos.
+4 - Áreas científicas e distribuição das unidades de crédito:
 
-3 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:
+I - História Medieval ... 21
 
-a) Obrigatórias:
+II - Crítica Textual ... 6
 
-I) História Medieval ... 10
+III - Paleografia ... 5
 
-II) Paleografia ... 2
+5 - Licenciatura a que se refere o n.º 1.º do n.º 5.º: História.
 
-III) Crítica Textual ... 2
+6 - Especialidade a que se refere o n.º 10.º: História da Idade Média.
 
-b) Optativas:
-
-I) Cartografia Histórica ... 6
-
-II) Métodos Quantitativos ... 6
-
-III) Sociologia dos Fatos Religiosos ... 6
-
-Total ... 20
-
-4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
-
-História.
-
-5 - Especialidade a que se refere o n.º 10.º:
-
-História da Idade Média.
+> Alterado pelo/a [Portaria n.º 868/89](https://diariodarepublica.pt/dr/detalhe/portaria/868-1989-548786), publicado em 1989-10-07.

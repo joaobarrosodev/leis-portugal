@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-03-01'
+version_history:
+  file: portaria-346-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-06-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-03-01'
+    amending: pt:dre:413396:por
+    amending_title: Portaria n.º 108/2000
+    changes:
+    - Altera Artigo unidades 110-113
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/346/1998/06/05/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:08:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 108/2000. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-346-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -359,13 +374,11 @@ Apresentação das candidaturas
 
 14.º
 
-Prazos
+Confirmação ou rectificação das declarações
 
-1 - A apresentação de candidaturas é efectuada durante o mês de Janeiro de cada ano.
+Em cada um dos anos seguintes ao da formalização da candidatura, o beneficiário deve confirmar ou rectificar as declarações constantes do formulário de inscrição.
 
-2 - As candidaturas apresentadas serão objecto de análise e decisão até 30 de Março de cada ano.
-
-3 - Em cada um dos quatro anos seguintes ao da formalização da candidatura, o beneficiário deve confirmar ou rectificar as declarações constantes do formulário de inscrição durante os meses de Fevereiro e Março, devendo a respectiva decisão ter lugar até 30 de Maio.
+> Alterado pelo/a [Portaria n.º 108/2000](https://diariodarepublica.pt/dr/detalhe/portaria/108-2000-413396), publicado em 2000-02-25.
 
 15.º
 

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:454351:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-07-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a72e4f9cbc5c527b"
+   ]
+  },
+  {
+   "date": "2009-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:492772:por",
+     "title": "Portaria n.º 797/2009",
+     "published": "2009-07-28",
+     "dre_path": "/dr/detalhe/portaria/797-2009-492772"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "44b3f7764872982c"
+   ]
+  }
+ ],
+ "fragments": {
+  "a72e4f9cbc5c527b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Julho\n\nPela [Portaria n.º 1377/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1377-2003-432446), de 19 de Dezembro, foi renovada até 14 de Junho de 2015 a zona de caça turística do Azinhal, processo n.º 700-DGRF, englobando o prédio rústico denominado «Herdade do Azinhal», sito no município de Grândola, com a área de 577 ha, concessionada a Pedro Cabral Duarte da Silveira.\n\nVem agora Pedro Sacadura Teixeira Cabral Duarte da Silva requerer a transmissão da concessão da zona de caça atrás citada.\n\nAssim:\n\nCom fundamento no disposto no artigo 45.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que pela presente portaria a zona de caça turística do Azinhal, processo n.º 700-DGRF, situada na freguesia de Azinheira de Barros, município de Grândola, seja transferida para Pedro Sacadura Teixeira Cabral Duarte da Silva, com o número de identificação fiscal 182972330 e sede na Avenida do Infante Santo, 66-A, 5.º, direito, 1350-180 Lisboa.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 15 de Julho de 2008."
+  },
+  "44b3f7764872982c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-08-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 797/2009](https://diariodarepublica.pt/dr/detalhe/portaria/797-2009-492772), publicado em 2009-07-28."
+   ],
+   "markdown": "de 23 de Julho\n\nPela [Portaria n.º 1377/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1377-2003-432446), de 19 de Dezembro, foi renovada até 14 de Junho de 2015 a zona de caça turística do Azinhal, processo n.º 700-DGRF, englobando o prédio rústico denominado «Herdade do Azinhal», sito no município de Grândola, com a área de 577 ha, concessionada a Pedro Cabral Duarte da Silveira.\n\nVem agora Pedro Sacadura Teixeira Cabral Duarte da Silva requerer a transmissão da concessão da zona de caça atrás citada.\n\nAssim:\n\nCom fundamento no disposto no artigo 45.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro:\n\nPela presente portaria, a zona de caça turística do Azinhal (processo n.º 700-AFN), situada na freguesia de Azinheira de Barros, município de Grândola, é transferida para Pedro Sacadura Teixeira Cabral Duarte da Silveira, com o número de identificação fiscal 182972330 e sede na Avenida do Infante Santo, 66-A, 5.º, direito, 1350-180 Lisboa.\n\n> Alterado pelo/a [Portaria n.º 797/2009](https://diariodarepublica.pt/dr/detalhe/portaria/797-2009-492772), publicado em 2009-07-28.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 15 de Julho de 2008."
+  }
+ }
+}

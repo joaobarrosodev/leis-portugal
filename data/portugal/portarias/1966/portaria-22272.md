@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1967-03-07'
+version_history:
+  file: portaria-22272.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1966-10-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1967-03-07'
+    amending: pt:dre:503642:por
+    amending_title: Portaria n.º 22557
+    changes:
+    - Altera Artigo unidades 8-8
+    - Adita Artigo depois da unidade 10
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:22:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 22557. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1966/portaria-22272.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,10 +127,18 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 Na relação das taxas a cobrar pela comissão Reguladora dos Produtos Químicos e Farmacêuticos sobre os produtos importados no País afectos à disciplina económica do organismo, relação anexa à [Portaria n.º 19154](https://diariodarepublica.pt/dr/detalhe/portaria/19154-1962-516178), de 28 de Abril de 1962, da qual faz parte integrante, são introduzidas as seguintes alterações:
 
-1.º As actuais subposições 28.40.02 a 28.40.07, 29.14.22, 29.14.23 e 30.03.02 passam a ter, respectivamente, os números 29.40.03 a 28.40.08, 29.14.23, 29.14.24 e 30.03.04;
+1.º As actuais subposições 28.40.02 a 28.40.07, 29.14.22, 29.14.23 e 30.03.02 passam a ter, respectivamente, os números 28.40.03 a 28.40.08, 29.14.23, 29.14.24 e 30.03.04;
+
+> Alterado pelo/a [Portaria n.º 22557](https://diariodarepublica.pt/dr/detalhe/portaria/22557-1967-503642), publicado em 1967-03-07.
 
 2.º A posição 29.44 é desdobrada nas subposições 29.44.01, 29.44.02, 29.44.03, 29.44.04 e 29.44.05, todas com a taxa ad valorem de 0,48 por cento;
 
 3.º É aditada a subposição 30.03.02 com a taxa de 1,5 por cento sobre o preço de venda ao público.
+
+4.º Os medicamentos importados pela subposição 30.03.02 ficam isentos do pagamento da taxa indicada no número anterior enquanto a Comissão Reguladora dos Produtos Químicos e Farmacêuticos não comunicar à alfândega que a indústria nacional está em condições de abastecer o mercado interno.
+
+5.º À relação anexa à [Portaria n.º 19154](https://diariodarepublica.pt/dr/detalhe/portaria/19154-1962-516178), de 28 de Abril de 1962, são aditadas as subposições 28.40.02, 29.14.22, 30.03.01 e 30.03.03, todas isentas do pagamento de taxas.
+
+> Aditado pelo/a [Portaria n.º 22557](https://diariodarepublica.pt/dr/detalhe/portaria/22557-1967-503642), publicado em 1967-03-07.
 
 Secretaria de Estado do Comércio, 28 de Outubro de 1966. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado.

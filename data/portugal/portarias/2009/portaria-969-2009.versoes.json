@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:488781:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-08-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ae6010879e05d6ea",
+    "04723e6c583da2a0"
+   ]
+  },
+  {
+   "date": "2010-05-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:614824:por",
+     "title": "Portaria n.º 277/2010",
+     "published": "2010-05-21",
+     "dre_path": "/dr/detalhe/portaria/277-2010-614824"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 24-25"
+   ],
+   "fragments": [
+    "90b71c3bc59b4417",
+    "04723e6c583da2a0"
+   ]
+  }
+ ],
+ "fragments": {
+  "ae6010879e05d6ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Agosto\n\nSob proposta do Instituto Politécnico de Setúbal e da sua Escola Superior de Saúde;\n\nConsiderando o disposto no [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195), de 3 de Setembro;\n\nConsiderando o disposto no Regulamento Geral dos Cursos de Pós-Licenciatura de Especialização em Enfermagem, aprovado pela [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março;\n\nColhido o parecer da comissão técnica para o ensino da enfermagem, nomeada pelo despacho conjunto n.º 291/2003 (2.ª série), de 27 de Março;\n\nOuvida a Ordem dos Enfermeiros:\n\nAo abrigo do disposto nos artigos 14.º e 15.º do [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195), de 3 de Setembro:\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:\n\n1.º\n\nCriação\n\nÉ criado o curso de pós-licenciatura de especialização em Enfermagem Médico-Cirúrgica na Escola Superior de Saúde do Instituto Politécnico de Setúbal.\n\n2.º\n\nRegulamento\n\nO curso rege-se pelo Regulamento Geral dos Cursos de Pós-Licenciatura de Especialização em Enfermagem, aprovado pela [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março.\n\n3.º\n\nDuração\n\nO curso tem a duração de três semestres lectivos.\n\n4.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso nos termos do anexo à presente portaria.\n\n5.º\n\nNúmero máximo de alunos\n\n1 - O número máximo de novos alunos a admitir anual-mente não pode exceder 40.\n\n2 - A frequência global do curso não pode exceder 55 alunos.\n\n6.º\n\nCondições de acesso\n\nAs condições de acesso ao curso são as fixadas nos termos da lei.\n\n7.º\n\nInício de funcionamento do curso\n\nO curso pode iniciar o seu funcionamento a partir do ano lectivo de 2009-2010, inclusive.\n\nO Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 18 de Agosto de 2009."
+  },
+  "04723e6c583da2a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Setúbal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Instituto Politécnico de Setúbal\n\nEscola Superior de Saúde\n\nCurso de pós-licenciatura de especialização em Enfermagem Médico-Cirúrgica\n\nQUADRO N.º 1\n\n1.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16500/0562905630.pdf)\n\nQUADRO N.º 2\n\n2.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16500/0562905630.pdf)\n\nQUADRO N.º 3\n\n3.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16500/0562905630.pdf)"
+  },
+  "90b71c3bc59b4417": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2010-05-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 277/2010](https://diariodarepublica.pt/dr/detalhe/portaria/277-2010-614824), publicado em 2010-05-21."
+   ],
+   "markdown": "de 26 de Agosto\n\nSob proposta do Instituto Politécnico de Setúbal e da sua Escola Superior de Saúde;\n\nConsiderando o disposto no [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195), de 3 de Setembro;\n\nConsiderando o disposto no Regulamento Geral dos Cursos de Pós-Licenciatura de Especialização em Enfermagem, aprovado pela [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março;\n\nColhido o parecer da comissão técnica para o ensino da enfermagem, nomeada pelo despacho conjunto n.º 291/2003 (2.ª série), de 27 de Março;\n\nOuvida a Ordem dos Enfermeiros:\n\nAo abrigo do disposto nos artigos 14.º e 15.º do [Decreto-Lei n.º 353/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1999-582195), de 3 de Setembro:\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:\n\n1.º\n\nCriação\n\nÉ criado o curso de pós-licenciatura de especialização em Enfermagem Médico-Cirúrgica na Escola Superior de Saúde do Instituto Politécnico de Setúbal.\n\n2.º\n\nRegulamento\n\nO curso rege-se pelo Regulamento Geral dos Cursos de Pós-Licenciatura de Especialização em Enfermagem, aprovado pela [Portaria n.º 268/2002](https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299), de 13 de Março.\n\n3.º\n\nDuração\n\nO curso tem a duração de três semestres lectivos.\n\n4.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso nos termos do anexo à presente portaria.\n\n5.º\n\nNúmero máximo de alunos\n\n1 - O número máximo de novos alunos a admitir anualmente não pode exceder 57.\n\n2 - A frequência global do curso não pode exceder 86 alunos.\n\n> Alterado pelo/a [Portaria n.º 277/2010](https://diariodarepublica.pt/dr/detalhe/portaria/277-2010-614824), publicado em 2010-05-21.\n\n6.º\n\nCondições de acesso\n\nAs condições de acesso ao curso são as fixadas nos termos da lei.\n\n7.º\n\nInício de funcionamento do curso\n\nO curso pode iniciar o seu funcionamento a partir do ano lectivo de 2009-2010, inclusive.\n\nO Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 18 de Agosto de 2009."
+  }
+ }
+}

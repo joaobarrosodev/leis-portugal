@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:534059:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-11-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d000ecb337299b00"
+   ]
+  },
+  {
+   "date": "2005-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:564400:por",
+     "title": "Aviso n.º 77/2005",
+     "published": "2005-03-31",
+     "dre_path": "/dr/detalhe/aviso/77-2005-564400"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 2-2"
+   ],
+   "fragments": [
+    "c70aed1bf392c9c6"
+   ]
+  }
+ ],
+ "fragments": {
+  "d000ecb337299b00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que, em 30 de Setembro de 2004, a Nigéria depositou o seu instrumento de adesão ao Protocolo de Quioto à Convenção Quadro sobre Alterações Climáticas, de 9 de Maio de 1992, concluído em Quioto em 10 de Dezembro de 1997.\n\nPortugal é Parte do mesmo Protocolo, aprovado, para ratificação, pelo [Decreto n.º 7/2002](https://diariodarepublica.pt/dr/detalhe/decreto/7-2002-300578), publicado no Diário da República, 1.ª série-A, n.º 71, de 25 de Março de 2002.\n\nDirecção-Geral dos Assuntos Multilaterais, 10 de Novembro de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício."
+  },
+  "c70aed1bf392c9c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2005-03-31",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 77/2005](https://diariodarepublica.pt/dr/detalhe/aviso/77-2005-564400), publicado em 2005-03-31."
+   ],
+   "markdown": "Por ordem superior se torna público que, em 30 de Setembro de 2004, a Níger depositou o seu instrumento de adesão ao Protocolo de Quioto à Convenção Quadro sobre Alterações Climáticas, de 9 de Maio de 1992, concluído em Quioto em 10 de Dezembro de 1997.\n\n> Alterado pelo/a [Aviso n.º 77/2005](https://diariodarepublica.pt/dr/detalhe/aviso/77-2005-564400), publicado em 2005-03-31.\n\nPortugal é Parte do mesmo Protocolo, aprovado, para ratificação, pelo [Decreto n.º 7/2002](https://diariodarepublica.pt/dr/detalhe/decreto/7-2002-300578), publicado no Diário da República, 1.ª série-A, n.º 71, de 25 de Março de 2002.\n\nDirecção-Geral dos Assuntos Multilaterais, 10 de Novembro de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício."
+  }
+ }
+}

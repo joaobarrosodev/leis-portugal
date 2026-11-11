@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-04-30'
+version_history:
+  file: portaria-134-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-02-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-04-30'
+    amending: pt:dre:459469:por
+    amending_title: Declaração de Rectificação n.º 88/91
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/134/1991/02/18/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:41:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 88/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-134-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +139,9 @@ Considerando que se torna necessário, para o aproveitamento e desenvolvimento d
 
 Atendendo a que o Canadá constitui um dos mercados emissores de turistas que oferece maior interesse e potencialidades para Portugal;
 
-Ao abrigo do disposto no n.º 3 do artigo 3.º do [Decreto-Lei n.º 446/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1989-551256), de 30 de Dezembro:
+Ao abrigo do disposto no n.º 4 do artigo 1.º do [Decreto-Lei n.º 199/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1983-451274), de 19 de Maio:
+
+> Alterado pelo/a [Declaração de Rectificação n.º 88/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/88-1991-459469), publicado em 1991-04-30.
 
 Manda o Governo, pelos Ministros das Finanças, dos Negócios Estrangeiros e do Comércio e Turismo, o seguinte:
 

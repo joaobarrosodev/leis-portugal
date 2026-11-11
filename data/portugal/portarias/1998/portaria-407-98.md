@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-05-17'
+version_history:
+  file: portaria-407-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-07-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-05-17'
+    amending: pt:dre:321950:por
+    amending_title: Portaria n.º 329/99
+    changes:
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 27-27
+    - Altera Artigo unidades 30-30
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/407/1998/07/11/p/dre/pt/html
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:08:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 329/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-407-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,7 +134,9 @@ Nestes termos, ao abrigo do disposto nos n.os 2 e 3 do artigo 10.º do Decreto-L
 
 Manda o Governo, pelo Ministro do Trabalho e da Solidariedade, o seguinte:
 
-1.º É homologado o protocolo que criou o FORMINTER - Centro de Formação e de Inovação Tecnológica, outorgado entre o Instituto do Emprego e Formação Profissional e a Confederação Geral dos Trabalhadores Portugueses - Intersindical Nacional.
+1.º É homologado o protocolo que criou o INOVINTER - Centro de Formação e de Inovação Tecnológica, outorgado entre o Instituto do Emprego e Formação Profissional e a Confederação Geral dos Trabalhadores Portugueses - Intersindical Nacional.
+
+> Alterado pelo/a [Portaria n.º 329/99](https://diariodarepublica.pt/dr/detalhe/portaria/329-1999-321950), publicado em 1999-05-12.
 
 2.º O texto do protocolo, devidamente enquadrado no regime do Decreto-Lei n.º 165/85, de 16 de Maio, é publicado em anexo a esta portaria.
 
@@ -153,13 +172,17 @@ I
 
 Denominação
 
-O centro agora criado adopta a designação de FORMINTER - Centro de Formação e de Inovação Tecnológica.
+O Centro agora criado adopta a designação de INOVINTER - Centro de Formação e de Inovação Tecnológica.
+
+> Alterado pelo/a [Portaria n.º 329/99](https://diariodarepublica.pt/dr/detalhe/portaria/329-1999-321950), publicado em 1999-05-12.
 
 II
 
 Natureza e atribuições
 
-1 - O FORMINTER - Centro de Formação e de Inovação Tecnológica, doravante designado por Centro, é um organismo dotado de personalidade jurídica de direito público, sem fins lucrativos, com autonomia administrativa e financeira e património próprio.
+1 - O INOVINTER - Centro de Formação e de Inovação Tecnológica, doravante designado por Centro, é um organismo dotado de personalidade jurídica de direito público, sem fins lucrativos, com autonomia administrativa e financeira com património próprio.
+
+> Alterado pelo/a [Portaria n.º 329/99](https://diariodarepublica.pt/dr/detalhe/portaria/329-1999-321950), publicado em 1999-05-12.
 
 2 - São atribuições do Centro promover actividades de formação profissional para valorização dos recursos humanos numa perspectiva transversal da actividade económica, quer se trate de seminários, estágios ou acções de formação profissional propriamente ditas, nas suas várias modalidades.
 

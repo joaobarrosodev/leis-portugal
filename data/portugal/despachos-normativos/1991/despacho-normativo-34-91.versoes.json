@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:509392:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-02-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "64ae1f4204a3d740"
+   ]
+  },
+  {
+   "date": "1991-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:688444:por",
+     "title": "Declaração de Rectificação n.º 191/91",
+     "published": "1991-08-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/191-1991-688444"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 2-2"
+   ],
+   "fragments": [
+    "d2a9ec058074595a"
+   ]
+  }
+ ],
+ "fragments": {
+  "64ae1f4204a3d740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que em 28 de Outubro de 1989 cessou a comissão de serviço Fernando Neto Mateus, à data director de serviços da Direcção-Geral dos Equipamentos Educativos;\n\nConsiderando o disposto na alínea a) do n.º 2 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, e nos n.os 4 e 5 do mesmo artigo e diploma:\n\nDetermina-se o seguinte:\n\n1 - É criado no quadro único do pessoal dos organismos e serviços centrais e regionais do Ministério da Educação, aprovado pela [Portaria n.º 226-A/88](https://diariodarepublica.pt/dr/detalhe/portaria/226-a-1988-658883), de 13 de Abril (anexo II), um lugar de assessor principal, a extinguir quando vagar.\n\n2 - A criação do lugar referido no número anterior produz efeitos desde 28 de Outubro de 1989.\n\nMinistérios das Finanças e da Educação, 17 de Janeiro de 1991. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Educação, José Augusto Perestrello de Alarcão Troni, Secretário de Estado Adjunto do Ministro da Educação."
+  },
+  "d2a9ec058074595a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-08-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 191/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/191-1991-688444), publicado em 1991-08-31."
+   ],
+   "markdown": "Considerando que em 28 de Outubro de 1989 cessou a comissão de serviço Fernando Neto Mateus da Silva, à data director de serviços da Direcção-Geral dos Equipamentos Educativos;\n\n> Alterado pelo/a [Declaração de Rectificação n.º 191/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/191-1991-688444), publicado em 1991-08-31.\n\nConsiderando o disposto na alínea a) do n.º 2 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, e nos n.os 4 e 5 do mesmo artigo e diploma:\n\nDetermina-se o seguinte:\n\n1 - É criado no quadro único do pessoal dos organismos e serviços centrais e regionais do Ministério da Educação, aprovado pela [Portaria n.º 226-A/88](https://diariodarepublica.pt/dr/detalhe/portaria/226-a-1988-658883), de 13 de Abril (anexo II), um lugar de assessor principal, a extinguir quando vagar.\n\n2 - A criação do lugar referido no número anterior produz efeitos desde 28 de Outubro de 1989.\n\nMinistérios das Finanças e da Educação, 17 de Janeiro de 1991. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Educação, José Augusto Perestrello de Alarcão Troni, Secretário de Estado Adjunto do Ministro da Educação."
+  }
+ }
+}

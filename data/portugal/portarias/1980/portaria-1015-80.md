@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-05-25'
+version_history:
+  file: portaria-1015-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-05-25'
+    amending: pt:dre:573729:por
+    amending_title: Portaria n.º 427/81
+    changes:
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:07:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 427/81. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-1015-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,7 +165,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde, 
 
 2.º Os referidos Centros de Saúde Mental exercerão a sua actividade na área dos respectivos distritos, com as excepções constantes dos n.os 3.º e 4.º
 
-3.º No distrito de Castelo Branco, os concelhos de Belmonte, Covilhã e Penamacor continuam integrados na área da responsabilidade do Centro de Saúde Mental da Covilhã.
+3.º No distrito de Castelo Branco, os concelhos de Belmonte, Covilhã, Fundão e Penamacor continuam integrados na área de responsabilidade do Centro de Saúde Mental da Covilhã.
+
+> Alterado pelo/a [Portaria n.º 427/81](https://diariodarepublica.pt/dr/detalhe/portaria/427-1981-573729), publicado em 1981-05-25.
 
 4.º No distrito de Setúbal, enquanto não forem organizados os serviços da área metropolitana de Lisboa, os concelhos do Barreiro, Montijo, Seixal, Almada, Moita e Alcochete continuam integrados na área da responsabilidade do Hospital de Miguel Bombarda.
 

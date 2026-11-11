@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-05-19'
+version_history:
+  file: portaria-781-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-05-19'
+    amending: pt:dre:322517:por
+    amending_title: Portaria n.º 345/99
+    changes:
+    - Altera Artigo unidades 7-7
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:30:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 345/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-781-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,11 +147,15 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 1.º Ficam sujeitas ao regime cinegético especial as propriedades constantes da planta anexa, denominadas «Herdade da Malhada», «Sítio das Noras» e outras, situadas na freguesia de Vaqueiros, concelho de Alcoutim, com uma área de 495,9280 ha.
 
-2.º Nesta área, até ao dia 31 de Maio de 2002, é concessionada à URBALGARVE - Imobiliária e Turismo, Lda., a exploração de uma zona de caça turística (processo n.º 349 da Direcção-Geral das Florestas).
+2.º Nesta área, até ao dia 31 de Maio de 2002, é concessionada à URBALGARVE II - Turismo e Construções, S. A., a exploração de uma zona de caça turística (processo n.º 349 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 345/99](https://diariodarepublica.pt/dr/detalhe/portaria/345-1999-322517), publicado em 1999-05-14.
 
 3.º Nesta zona de caça é facultado o exercício venatório a todos os caçadores em igualdade de circunstâncias, quando devidamente licenciados pela entidade gestora.
 
-4.º Nesta zona de caça, a URBALGARVE - Imobiliária e Turismo, Lda., entidade responsável pela sua gestão, fica obrigada a cumprir e fazer cumprir o plano de ordenamento e exploração cinegético aprovado pela Direcção-Geral das Florestas, nomeadamente no respeitante aos limites anuais de cada uma das espécies, períodos processos e meios de caça respectivos.
+4.º Nesta zona de caça, a URBALGARVE II - Turismo e Construções, S. A., entidade responsável pela sua gestão, fica obrigada a cumprir e fazer cumprir o plano de ordenamento e exploração cinegético aprovado pela Direcção-Geral das Florestas, nomeadamente no respeitante aos limites anuais de cada uma das espécies, períodos processos e meios de caça respectivos.
+
+> Alterado pelo/a [Portaria n.º 345/99](https://diariodarepublica.pt/dr/detalhe/portaria/345-1999-322517), publicado em 1999-05-14.
 
 5.º A entidade concessionária fica obrigada a fazer cumprir as disposições legais e regulamentares do exercício da caça e bem assim as regras constantes do plano de ordenamento e exploração respectivo, sem prejuízo da responsabilidade pessoal dos infractores.
 

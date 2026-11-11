@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-05-20'
+version_history:
+  file: portaria-20334.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-01-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-05-20'
+    amending: pt:dre:336139:por
+    amending_title: Portaria n.º 320/75
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:39:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 320/75. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1964/portaria-20334.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -104,7 +119,9 @@ Tornando-se necessário providenciar no sentido do regular funcionamento dos ser
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáutica, que se observe o seguinte:
 
-1.º O subdirector do Serviço de Comunicações e Tráfego Aéreo é piloto aviador ou engenheiro electrotécnico com a patente de coronel ou tenente-coronel.
+1.º O subdirector do Serviço de Electricidade e Telecomunicações é engenheiro electrotécnico com a patente de coronel ou tenente-coronel.
+
+> Alterado pelo/a [Portaria n.º 320/75](https://diariodarepublica.pt/dr/detalhe/portaria/320-1975-336139), publicado em 1975-05-20.
 
 2.º O subdirector do Serviço de Infra-Estruturas é engenheiro de aeródromo com a patente de coronel ou tenente-coronel.
 

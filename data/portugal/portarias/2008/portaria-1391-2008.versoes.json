@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:440793:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-12-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5648e76b29976d21"
+   ]
+  },
+  {
+   "date": "2009-03-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:605370:por",
+     "title": "Portaria n.º 264/2009",
+     "published": "2009-03-16",
+     "dre_path": "/dr/detalhe/portaria/264-2009-605370"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8"
+   ],
+   "fragments": [
+    "0bd84fa4a1684a2a"
+   ]
+  }
+ ],
+ "fragments": {
+  "5648e76b29976d21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Dezembro\n\nCom fundamento no disposto no artigo 26.º e no n.º 1 do artigo 118.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro;\n\nOuvido o Conselho Cinegético Municipal de Arganil:\n\nManda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal do Açor (processo n.º 4945-DGRF) e transferida a sua gestão para a Associação de Caçadores da Serra do Açor, com o número de identificação fiscal 507580486 e sede no Bairro da Coutada, 3305-125 Coja, pelo período de seis anos.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Piódão, município de Arganil, com a área de 3337 ha.\n\n3.º É criada uma área de interdição à caça, devidamente assinalada na planta anexa.\n\n4.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 35 % relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 25 % relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 20 % relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 20 % aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.\n\n6.º A zona de caça criada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 17 de Novembro de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 18 de Novembro de 2008.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/23400/0862208623.pdf)"
+  },
+  "0bd84fa4a1684a2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 264/2009](https://diariodarepublica.pt/dr/detalhe/portaria/264-2009-605370), publicado em 2009-03-16."
+   ],
+   "markdown": "de 3 de Dezembro\n\nCom fundamento no disposto no artigo 26.º e no n.º 1 do artigo 118.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro;\n\nOuvido o Conselho Cinegético Municipal de Arganil:\n\nManda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal do Açor (processo n.º 4945-DGRF) e transferida a sua gestão para a Associação de Caçadores da Serra do Açor, com o número de identificação fiscal 507580486 e sede no Bairro da Coutada, 3305-125 Coja, pelo período de seis anos.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Piódão, município de Arganil, com a área de 3337 ha.\n\n3.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 264/2009](https://diariodarepublica.pt/dr/detalhe/portaria/264-2009-605370), publicado em 2009-03-16.\n\n4.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 35 % relativamente aos caçadores referidos na alínea a) do citado artigo 15.º;\n\nb) 25 % relativamente aos caçadores referidos na alínea b) do citado artigo 15.º;\n\nc) 20 % relativamente aos caçadores referidos na alínea c) do citado artigo 15.º;\n\nd) 20 % aos demais caçadores, conforme é referido na alínea d) do citado artigo 15.º\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.\n\n6.º A zona de caça criada pela presente portaria produz efeitos relativamente a terceiros com a instalação da respectiva sinalização.\n\nPelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 17 de Novembro de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 18 de Novembro de 2008.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/23400/0862208623.pdf)"
+  }
+ }
+}

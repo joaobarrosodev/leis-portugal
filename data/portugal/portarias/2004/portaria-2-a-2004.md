@@ -41,10 +41,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-08-19'
+version_history:
+  file: portaria-2-a-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-01-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-08-19'
+    amending: pt:dre:455603:por
+    amending_title: Portaria n.º 874/2008
+    changes:
+    - Altera Artigo unidades 15-17
+    - Altera Artigo unidades 18-20
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/2-a/2004/01/05/p/dre/pt/html
@@ -70,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:57:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 874/2008. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-2-a-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -166,17 +182,13 @@ Quadro dos magistrados dos tribunais centrais administrativos
 
 Os quadros dos magistrados dos tribunais centrais administrativos são os fixados nos mapas II e III anexos.
 
-3.º
+3.º - (Revogado.)
 
-Quadro dos magistrados dos tribunais administrativos e fiscais
+> Alterado pelo/a [Portaria n.º 874/2008](https://diariodarepublica.pt/dr/detalhe/portaria/874-2008-455603), publicado em 2008-08-14.
 
-Os quadros dos magistrados dos tribunais administrativos e fiscais são os fixados nos mapas IV e V anexos.
+4.º - (Revogado.)
 
-4.º
-
-Quadro dos funcionários de justiça dos tribunais administrativos e fiscais
-
-Os quadros dos funcionários de justiça dos tribunais administrativos e fiscais são os fixados no mapa VI anexo.
+> Alterado pelo/a [Portaria n.º 874/2008](https://diariodarepublica.pt/dr/detalhe/portaria/874-2008-455603), publicado em 2008-08-14.
 
 Em 29 de Dezembro de 2003.
 

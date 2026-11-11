@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:495897:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-01-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bdfb0b2a8e38f0cf"
+   ]
+  },
+  {
+   "date": "1991-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:444264:por",
+     "title": "Declaração de Rectificação n.º 16/91",
+     "published": "1991-01-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/16-1991-444264"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 11-11"
+   ],
+   "fragments": [
+    "529860ddad6a36a0"
+   ]
+  }
+ ],
+ "fragments": {
+  "bdfb0b2a8e38f0cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Janeiro\n\nAo abrigo do disposto no n.º 6 do artigo 4.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1980-678824), de 29 de Fevereiro:\n\nManda o Governo, pelo Ministro do Comércio e Turismo, o seguinte:\n\n1.º São excluídos do regime de preços declarados os bens enquadrados nos desdobramentos da Classificação das Actividades Económicas (CAE, revisão de 1973) que a seguir se indicam:\n\n3851.1.0 - Fabricação de material médico-cirúrgico, dentário e ortopédico.\n\n2.º É revogada a [Portaria n.º 673/81](https://diariodarepublica.pt/dr/detalhe/portaria/673-1981-577101), de 6 de Agosto.\n\n3.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.\n\nMinistério do Comércio e Turismo.\n\nAssinada em 14 de Dezembro de 1990.\n\nPelo Ministro do Comércio e Turismo, Miguel António Igrejas Horta e Costa, Secretário de Estado do Comércio Externo."
+  },
+  "529860ddad6a36a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1991-01-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 16/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1991-444264), publicado em 1991-01-31."
+   ],
+   "markdown": "de 15 de Janeiro\n\nAo abrigo do disposto no n.º 6 do artigo 4.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1980-678824), de 29 de Fevereiro:\n\nManda o Governo, pelo Ministro do Comércio e Turismo, o seguinte:\n\n1.º São excluídos do regime de preços declarados os bens enquadrados nos desdobramentos da Classificação das Actividades Económicas (CAE, revisão de 1973) que a seguir se indicam:\n\n3851.1.0 - Fabricação de material médico-cirúrgico, dentário e ortopédico.\n\n2.º É revogada a [Portaria n.º 673/81](https://diariodarepublica.pt/dr/detalhe/portaria/673-1981-577101), de 6 de Agosto.\n\n3.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.\n\nMinistério do Comércio e Turismo.\n\nAssinada em 14 de Dezembro de 1990.\n\nPelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 16/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1991-444264), publicado em 1991-01-31."
+  }
+ }
+}

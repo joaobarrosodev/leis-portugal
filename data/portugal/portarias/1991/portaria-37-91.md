@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-01-31'
+version_history:
+  file: portaria-37-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-01-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-01-31'
+    amending: pt:dre:444264:por
+    amending_title: Declaração de Rectificação n.º 16/91
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/37/1991/01/15/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:47:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 16/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-37-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,4 +151,6 @@ Ministério do Comércio e Turismo.
 
 Assinada em 14 de Dezembro de 1990.
 
-Pelo Ministro do Comércio e Turismo, Miguel António Igrejas Horta e Costa, Secretário de Estado do Comércio Externo.
+Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 16/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1991-444264), publicado em 1991-01-31.

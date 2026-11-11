@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-05-30'
+version_history:
+  file: portaria-21696.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1965-12-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-05-30'
+    amending: pt:dre:335945:por
+    amending_title: Portaria n.º 331/75
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:09:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 331/75. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1965/portaria-21696.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -108,6 +123,8 @@ Manda o Governo da República Portuguesa, pelos Ministro do Exército e Secretá
 
 1.º Os soldados recrutados ao abrigo da alínea d) do artigo 4.º do [Decreto n.º 42075](https://diariodarepublica.pt/dr/detalhe/decreto/42075-1958-342474), de 31 de Dezembro de 1958, quando não obtenham aproveitamento nos cursos e tirocínios de pára-quedismo são transferidos para o Exército, onde cumprem a sua obrigação normal de serviço.
 
-2.º Os soldados recrutados ao abrigo da alínea e) do artigo 4.º do [Decreto n.º 42075](https://diariodarepublica.pt/dr/detalhe/decreto/42075-1958-342474), de 31 de Dezembro de 1958, quando não obtenham aproveitamento nas escalas de recrutas, nos cursos de pára-quedismo e nos tirocínios de pára-quedismo, passam à sua anterior situação de mancebos.
+2.º Os soldados recrutados ao abrigo da alínea e) do artigo 4.º do Decreto-Lei n.º 42075, de 31 de Dezembro de 1958, quando não obtenham aproveitamento nos cursos de pára-quedismo e nos tirocínios de pára-quedismo, passam a ser considerados como pessoal privativo não permanente da Força Aérea e reclassificados em serviço geral - serviço interno.
+
+> Alterado pelo/a [Portaria n.º 331/75](https://diariodarepublica.pt/dr/detalhe/portaria/331-1975-335945), publicado em 1975-05-30.
 
 Presidência do Conselho e Ministério do Exército, 3 de Dezembro de 1965. - O Ministro do Exército, Joaquim da Luz Cunha. - O Secretário de Estado da Aeronáutica, Francisco António das Chagas.

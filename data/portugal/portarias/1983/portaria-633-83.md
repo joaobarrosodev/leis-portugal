@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-11-16'
+version_history:
+  file: portaria-633-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-11-16'
+    amending: pt:dre:443746:por
+    amending_title: Portaria n.º 971/83
+    changes:
+    - Altera Artigo unidades 15-15
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:45:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 971/83. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-633-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,7 +148,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o
 
 (Âmbito)
 
-O disposto na presente portaria aplica-se aos alunos que, sem terem obtido aprovação em disciplinas de Grego ou Latim no ensino secundário, se matricularam e inscreveram na Faculdade de Letras da Universidade de Lisboa em qualquer das variantes do curso de licenciatura em Línguas e Literaturas Clássicas e nas variantes do curso de licenciatura em Línguas e Literaturas Modernas com disciplinas de Latim no plano de estudos.
+O disposto na presente portaria aplica-se aos alunos que, sem terem obtido aprovação em disciplinas de Grego ou Latim no ensino secundário, se matricularem e inscreverem na Faculdade de Letras da Universidade de Lisboa em qualquer das variantes do curso de licenciatura em Línguas e Literaturas Clássicas e nas variantes do curso de licenciatura em Línguas e Literaturas Modernas com disciplinas de Latim no plano de estudos.
+
+> Alterado pelo/a [Portaria n.º 971/83](https://diariodarepublica.pt/dr/detalhe/portaria/971-1983-443746), publicado em 1983-11-11.
 
 2.º
 

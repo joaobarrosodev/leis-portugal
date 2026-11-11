@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:461002:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-12-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "54a4c3788e24f97e"
+   ]
+  },
+  {
+   "date": "1996-02-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:619733:por",
+     "title": "Declaração de Rectificação n.º 3/96",
+     "published": "1996-02-14",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/3-1996-619733"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4"
+   ],
+   "fragments": [
+    "1d42f9059027c48d"
+   ]
+  }
+ ],
+ "fragments": {
+  "54a4c3788e24f97e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro\n\nO Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:\n\nSão indultadas, na parte não cumprida, as penas de prisão aplicadas a Vítor Manuel Duarte das Neves, de 41 anos de idade, no processo de querela n.º 127/77 do Tribunal Judicial de Penacova, no processo de querela n.º 2023/87 do Tribunal Judicial do Seixal, no processo de querela n.º 779/85 da 3.ª Secção da 4.ª Vara Criminal de Lisboa e no processo de querela n.º 305/81 da 2.ª Secção da 7.ª Vara Criminal de Lisboa.\n\nAssinado em 22 de Dezembro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 22 de Dezembro de 1995.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1d42f9059027c48d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1996-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 3/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-1996-619733), publicado em 1996-02-14."
+   ],
+   "markdown": "de 22 de Dezembro\n\nO Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:\n\nSão indultadas, na parte não cumprida, as penas de prisão aplicadas a Vítor Manuel Duarte das Neves, de 41 anos de idade, no processo de querela n.º 122/77 do Tribunal Judicial de Penacova, no processo de querela n.º 2023/87 do Tribunal Judicial do Seixal, no processo de querela n.º 779/85 da 3.ª Secção da 4.ª Vara Criminal de Lisboa e no processo de querela n.º 305/81 da 2.ª Secção da 7.ª Vara Criminal de Lisboa.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 3/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-1996-619733), publicado em 1996-02-14.\n\nAssinado em 22 de Dezembro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 22 de Dezembro de 1995.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}
