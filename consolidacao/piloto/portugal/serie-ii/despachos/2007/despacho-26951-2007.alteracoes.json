@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "substituição com [...]",
+    "antes": "###### Artigo 1.º — Objecto\n\n1 - É criada a Entidade de Verificação da Admissibilidade da Colheita para Transplante, adiante designada por EVA, nos seguintes Hospitais:\n\na) Hospital Garcia de Orta, E. P. E.;\n\nb) Centro Hospitalar de Lisboa Ocidental, E. P. E.;\n\nc) Hospital de Santa Maria, E. P. E.;\n\nd) Hospital de Santo António, Centro Hospitalar do Porto, E. P. E.;\n\ne) Hospital de São João, E. P. E.;\n\nf) Hospitais da Universidade de Coimbra;\n\ng) Hospital de Curry Cabral;\n\nh) Hospital da Cruz Vermelha Portuguesa.\n\n2 - A EVA é o organismo a quem cabe a emissão de parecer vinculativo em caso de dádiva e colheita em vida de órgãos ou tecidos não regeneráveis para fins terapêuticos ou de transplante.",
+    "depois": "###### Artigo 1.º — Objecto\n\n1 - É criada a Entidade de Verificação da Admissibilidade da Colheita para Transplante, adiante designada por EVA, nos seguintes Hospitais:\n\na) Hospital Garcia de Orta, E. P. E.;\n\nb) Centro Hospitalar de Lisboa Ocidental, E. P. E.;\n\nc) Centro Hospitalar Universitário de Lisboa Norte, E. P. E.;\n\nd) Centro Hospitalar Universitário do Porto, E. P. E.;\n\ne) Centro Hospitalar Universitário de São João, E. P. E.;\n\nf) Centro Hospitalar e Universitário de Coimbra, E. P. E.;\n\ng) Centro Hospitalar Universitário Lisboa Central, E. P. E.,\n\nh) Hospital da Cruz Vermelha Portuguesa.\n\n2 - A EVA é o organismo a quem cabe a emissão de parecer vinculativo em caso de dádiva e colheita em vida de órgãos ou tecidos não regeneráveis para fins terapêuticos ou de transplante.\n\n> Alterado pelo/a Artigo 2.º do/a [Despacho n.º 9252/2019](https://diariodarepublica.pt/dr/detalhe/despacho/9252-2019-125294981), publicado em 2019-10-14.",
+    "excerto": "Os artigos 1.º e 9.º do Despacho n.º 26951/2007, de 26 de novembro, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) Centro Hospitalar de Lisboa Ocidental, E. P. E.;\n\nc) Centro Hospitalar Universitário de Lisboa Norte, E. P. E.;\n\nd) Centro Hospitalar Universitário do Porto, E. P. E.;\n\ne) Centro Hospitalar Universitário de São João, E. P. E.;\n\nf) Centro Hospitalar e Universitário de Coimbra, E. P. E.;\n\ng) Centro Hospitalar Universitário Lisboa Central, E. P. E.,\n\nh) ...\n\n2 - ...\n\nArtigo 9.º\n\n[...]\n\nA EVA elabora, no final de cada ano civil, um relatório sobre a sua atividade, que deverá ser remetido ao conselho de administração do estabelecimento hospitalar respetivo, que dele dará conhecimento ao Instituto Português do Sangue e da Transplantação, I. P.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:909836:por",
+    "alterador": "pt:dre:125294981:por"
+  },
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "substituição integral",
+    "antes": "###### Artigo 9.º — Relatório anual\n\nA EVA elabora, no final de cada ano civil, um relatório sobre a sua actividade, que deverá ser remetido ao conselho de administração do estabelecimento hospitalar respectivo, que dele dará conhecimento à Autoridade para os Serviços de Sangue e Transplantação (ASST).",
+    "depois": "###### Artigo 9.º — Relatório anual\n\nA EVA elabora, no final de cada ano civil, um relatório sobre a sua atividade, que deverá ser remetido ao conselho de administração do estabelecimento hospitalar respetivo, que dele dará conhecimento ao Instituto Português do Sangue e da Transplantação, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Despacho n.º 9252/2019](https://diariodarepublica.pt/dr/detalhe/despacho/9252-2019-125294981), publicado em 2019-10-14.",
+    "excerto": "Os artigos 1.º e 9.º do Despacho n.º 26951/2007, de 26 de novembro, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) Centro Hospitalar de Lisboa Ocidental, E. P. E.;\n\nc) Centro Hospitalar Universitário de Lisboa Norte, E. P. E.;\n\nd) Centro Hospitalar Universitário do Porto, E. P. E.;\n\ne) Centro Hospitalar Universitário de São João, E. P. E.;\n\nf) Centro Hospitalar e Universitário de Coimbra, E. P. E.;\n\ng) Centro Hospitalar Universitário Lisboa Central, E. P. E.,\n\nh) ...\n\n2 - ...\n\nArtigo 9.º\n\n[...]\n\nA EVA elabora, no final de cada ano civil, um relatório sobre a sua atividade, que deverá ser remetido ao conselho de administração do estabelecimento hospitalar respetivo, que dele dará conhecimento ao Instituto Português do Sangue e da Transplantação, I. P.»",
+    "artigo_alterador": "2.º",
+    "metodo": "regra",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:909836:por",
+    "alterador": "pt:dre:125294981:por"
+  }
+]
