@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:223449:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador substitui o plano de estudos do 2.º ano e revoga o quadro n.º 2 do anexo, mas o anexo do original e o do alterador só existem em imagem (ligação ao PDF); não há texto onde aplicar a alteração nem a revogação.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo plano de estudos do 2.º ano (só em imagem) — não aplicado.",
+    "Alterador 1, n.º 2.º: revogação do quadro n.º 2 anexo (quadro só em imagem) — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

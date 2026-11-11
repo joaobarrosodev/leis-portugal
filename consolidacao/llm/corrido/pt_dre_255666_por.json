@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:255666:por",
+  "substituicoes": [
+    {
+      "de": 38,
+      "ate": 42,
+      "texto": "t) (Revogada.)\n\nu) (Revogada.)\n\nv) (Revogada.)\n\nx) (Revogada.)\n\nz) (Revogada.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 165/96), artigo 8.º, alínea b): revoga as alíneas t), u), v), x) e z) do n.º 3.º; unidades 38-42 passam a '(Revogada.)'.",
+    "Artigo 8.º, alíneas a) e c): revogam disposições de outros diplomas; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:242028:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o mapa anexo é substituído por outro que só vem em imagem (ver documento original); não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui o mapa anexo (só em imagem) - não aplicado.",
+    "Alterador 1, 2.º: produção de efeitos da própria portaria alteradora - não textual, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

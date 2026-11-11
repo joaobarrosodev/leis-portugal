@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:225048:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 12,
+      "texto": "d) Período de embarque em função inferior à correspondente ao certificado de que é titular, apenas para oficiais maquinistas.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 48,
+      "texto": "22.º O período de embarque previsto na alínea d) do n.º 1.º tem a duração mínima de três meses, aplicando-se os procedimentos constantes dos n.os 17.º a 21.º anteriores.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 99,
+      "texto": "Regras de classificação da RINAVE - Registo Internacional Naval.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1410/95, 1.º: aditada a alínea d) ao n.º 1.º; inserida depois da unidade 12.",
+    "Portaria 1410/95, 2.º: aditado o n.º 22.º; inserido depois da unidade 48 (n.º 21.º).",
+    "Portaria 1410/95, 3.º: aditado item à alínea f) do anexo A; inserido depois da unidade 99 (último item da alínea f).",
+    "Alterador 2 é o mesmo diploma (Portaria 1410/95) repetido; as instruções aplicam-se uma só vez (alterador 1)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

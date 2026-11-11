@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:274467:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "d) Departamento de Gestão de Recursos Educativos;",
+      "alterador": 1
+    },
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "h) AECOPS - Associação de Empresas de Construção e Obras Públicas.",
+      "alterador": 1
+    },
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "Departamento de Gestão de Recursos Educativos;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção das alíneas d) e h) do n.º 1.º; substituídas as unidades 12 e 16.",
+    "Alterador 1, 2.º: na alínea a) do n.º 3.º, onde se lê Direcção-Geral dos Equipamentos Educativos passa a Departamento de Gestão de Recursos Educativos; substituída a unidade 35, mantido o ponto e vírgula da enumeração.",
+    "Alterador 1, 3.º: altera as Portarias n.os 327/88, 415/91 e 326/88, não o original; ignorado.",
+    "Alterador 2: é o mesmo texto da Portaria n.º 307/94 (repetido); as instruções já foram aplicadas pelo alterador 1, nada mais a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

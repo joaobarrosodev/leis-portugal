@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:274429:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 162/96), 1.º: o modelo de cartão aprovado pelo original é substituído pelos modelos dos anexos I e II da Portaria n.º 162/96, que só vêm em imagem; não é uma alteração textual ao texto do original, não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição do modelo de cartão (anexo em imagem) pelos modelos dos anexos I e II; não textual, não aplicado.",
+    "Alterador 1, 4.º e 5.º: manutenção transitória da validade do cartão antigo; sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

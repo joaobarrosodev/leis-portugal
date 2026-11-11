@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Manda o Governo, pelo Ministro da Economia, que sejam aprovados os critérios gerais e específicos a observar na atribuição do direito ao uso do certificado de artesanato para as filigranas e pratas cinzeladas, anexos ao presente diploma e que dele fazem parte integrante.",
+    "depois": "Manda o Governo, pelo Ministro da Economia, que sejam aprovados os critérios gerais e específicos a observar na atribuição do direito ao uso do certificado de artesanato para as filigranas, pratas cinzeladas, malhas manuais, bolsas de malha, ocos cobertos e chapas cobertas, anexos ao presente diploma e que dele fazem parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226426:por",
+    "alterador": "pt:dre:642971:por"
+  },
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A matéria-prima a utilizar deve ter um toque legal.",
+    "depois": "a) A matéria-prima a utilizar deve ter um toque legal;\n\nb) Na fabricação de artefactos em ouro é factor determinante a utilização de ouro de toque 800(por mil).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226426:por",
+    "alterador": "pt:dre:642971:por"
+  },
+  {
+    "artigo": "depois da unidade 36",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "2.3 - Malhas manuais:\n\na) Conceito de malha manual. - Cadeias formadas por elos de ouro, de prata, ou de platina, encadeados entre si e soldados manualmente;\n\nb) Operações manuais. - As malhas manuais devem ser feitas totalmente à mão, com excepção dos seus terminais, da trefilagem e da laminagem;\n\nc) Soldaduras. - Sem prejuízo do estabelecido no n.º 1.2, as soldas a aplicar nas malhas devem ser da tonalidade da peça.\n\n2.4 - Bolsas de malha:\n\na) Conceito de bolsa de malha. - Saco constituído por uma rede resultante do entrelaçamento e soldadura de argolas de fio de ouro, prata ou platina, usado nomeadamente para o transporte de moedas;\n\nb) Operações manuais. - As bolsas de malha devem ser feitas totalmente à mão, com excepção dos seus bocais, da trefilagem e da laminagem;\n\nc) Soldaduras. - Sem prejuízo do disposto no n.º 1.2, as soldas a aplicar nas bolsas de malha devem ser da tonalidade da peça.\n\n2.5 - Ocos cobertos:\n\na) Conceito de ocos cobertos. - Peças ocas, de ouro, prata ou platina, na superfície das quais são aplicados elementos de fios torcidos, ou lisos, ou granitos, devidamente soldados, que cubram pelo menos 50% da sua superfície;\n\nb) Operações manuais. - Os ocos cobertos devem ser feitos à mão, com excepção da laminagem, da trefilagem e do cadeado onde eles forem enfiados, se o cobrirem na totalidade.\n\n2.6 - Chapas cobertas:\n\na) Conceito de chapas cobertas. - Peças em chapa de ouro, prata ou platina, sobre as quais são aplicados elementos de fio torcido, ou liso ou granitos, devidamente soldados, que cubram pelo menos 50% da sua superfície;\n\nb) Operações manuais. - As chapas cobertas devem ser feitas à mão, com excepção da laminagem e da trefilagem.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226426:por",
+    "alterador": "pt:dre:642971:por"
+  }
+]

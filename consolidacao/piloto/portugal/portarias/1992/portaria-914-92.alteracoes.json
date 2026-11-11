@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º O valor das comparticipações a fundo perdido, calculado nos termos do número anterior, será acrescido de 10% para os fogos referidos no n.º 4 do artigo 5.º do [Decreto-Lei n.º 197/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1992-231141), de 22 de Setembro.",
+    "depois": "2.º O valor das comparticipações a fundo perdido, calculado nos termos do número anterior, será acrescido de 10% para os fogos referidos no n.º 5 do artigo 5.º do [Decreto-Lei n.º 197/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1992-231141), de 22 de Setembro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:231138:por",
+    "alterador": "pt:dre:632002:por"
+  },
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.",
+    "depois": "Ministérios das Finanças, do Planeamento e da Administração do Território e das Obras Públicas, Transportes e Comunicações.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:231138:por",
+    "alterador": "pt:dre:632002:por"
+  },
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.",
+    "depois": "Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:231138:por",
+    "alterador": "pt:dre:632002:por"
+  }
+]

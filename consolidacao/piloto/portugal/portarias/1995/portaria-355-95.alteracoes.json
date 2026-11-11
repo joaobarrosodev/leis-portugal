@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 16-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Docentes de escolas superiores de enfermagem - 10%;\n\nb) Enfermeiros de serviços prestadores de cuidados do Ministério da Saúde - 60%;\n\nc) Enfermeiros de outros serviços dependentes do Ministério da Saúde - 15%;\n\nd) Outros enfermeiros - 10%;\n\ne) Enfermeiros de instituições com quem a Escola estabeleça protocolos - 5%.\n\n2 - As vagas eventualmente não utilizadas num dos contingentes revertem, se necessário, para qualquer outro contingente.",
+    "depois": "a) Enfermeiros provenientes de serviços prestadores de cuidados do Ministério da Saúde - 75%;\n\nb) Enfermeiros provenientes de instituições com que a Escola estabeleça protocolos - 5%;\n\nc) Outros enfermeiros - 20%.\n\n2 - As vagas eventualmente não utilizadas num dos contingentes revertem, se necessário, para qualquer outro contingente, de acordo com regras a fixar pelo órgão competente da Escola e a divulgar através do edital a que se refere o n.º 9.º da [Portaria n.º 239/94](https://diariodarepublica.pt/dr/detalhe/portaria/239-1994-266642).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:223443:por",
+    "alterador": "pt:dre:160519:por"
+  },
+  {
+    "artigo": "unidades 26-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/096b00/23422342.pdf)",
+    "depois": "Escola Superior de Enfermagem de Francisco Gentil\n\nCurso: Enfermagem de Saúde do Idoso e Geriátrica\n\nDiploma de estudos superiores especializados\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/149b00/32133213.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:223443:por",
+    "alterador": "pt:dre:160519:por"
+  }
+]

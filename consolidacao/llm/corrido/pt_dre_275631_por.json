@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:275631:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 75/94): o onde se lê e o deve ler-se só vêm em imagem (ver documento original) e incidem sobre o mapa da unidade 3, também em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: rectificação do mapa de alterações orçamentais, dada só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

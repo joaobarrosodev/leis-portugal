@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:277373:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: substitui os quadros n.os 2 e 3 do anexo (unidades 29-34), mas os quadros novos e os atuais só vêm em imagem (ver quadro no documento original); não se aplica textualmente.",
+  "instrucoes": [
+    "Alterador 1, 1.º: quadros n.os 2 e 3 do anexo passam a ser os do anexo do alterador; só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

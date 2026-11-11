@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:281187:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 69/2004 retifica a coluna 'Categoria' do quadro anexo, que só existe em imagem (unidade 22); o texto a corrigir não está no texto atual.",
+  "instrucoes": [
+    "Rectificação da coluna Categoria do quadro anexo (Especialista de informática -> Técnico de informática, graus 3, 2 e 1): não aplicada, o quadro só existe em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

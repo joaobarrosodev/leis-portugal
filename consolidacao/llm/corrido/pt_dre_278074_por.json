@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:278074:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: altera as taxas do tarifário do anexo (unidade 15), que só vem em imagem no original e no alterador; não é possível aplicar textualmente com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: altera as taxas dos serviços de radiocomunicações do anexo pelas do anexo do alterador; anexo em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

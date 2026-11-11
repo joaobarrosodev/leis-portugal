@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:229930:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 (Declaração de Rectificação n.º 119/94) retifica uma rubrica do mapa de alterações orçamentais (09 - MNE, cap. 50, div. 43, subdiv. 04), que só vem em imagem no texto atual (unidade 3).",
+  "instrucoes": [
+    "Alterador 1: retificação da rubrica 'Inst. equip. serv. diplomát. e consulares' no mapa — mapa só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

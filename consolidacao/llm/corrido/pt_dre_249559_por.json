@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:249559:por",
+  "substituicoes": [
+    {
+      "de": 24,
+      "ate": 25,
+      "texto": "1 - O número máximo de novos alunos a admitir anualmente não pode exceder 30.\n\n2 - A frequência global do curso não pode exceder 45 alunos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: nova redação do 5.º (Número máximo de alunos); epígrafe igual, substituídos os n.os 1 e 2 (unidades 24-25).",
+    "Alterador 1, artigo 2.º: altera a Portaria n.º 330/2008, outro diploma; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

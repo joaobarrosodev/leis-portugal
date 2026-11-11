@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Considerando que, à luz desses novos conhecimentos, a Directiva n.º [91/10/CEE](http://data.europa.eu/eli/dir/1991/10/oj?locale=pt), de 19 de Fevereiro de 1992, publicada no Jornal Oficial das Comunidades Europeias, n.º L70/27, de 17 de Março de 1992, modifica disposições da Directiva n.º [77/93/CEE](http://data.europa.eu/eli/dir/1977/93/oj?locale=pt), no que se refere às exigências fitossanitárias estabelecidas por certos países para efeitos de importação de sementes de soja;",
+    "depois": "Considerando que, à luz desses novos conhecimentos, a Directiva n.º [92/10/CEE](http://data.europa.eu/eli/dir/1992/10/oj?locale=pt), de 19 de Fevereiro de 1992, publicada no Jornal Oficial das Comunidades Europeias, n.º L70/27, de 17 de Março de 1992, modifica disposições da Directiva n.º [77/93/CEE](http://data.europa.eu/eli/dir/1977/93/oj?locale=pt), no que se refere às exigências fitossanitárias estabelecidas por certos países para efeitos de importação de sementes de soja;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:288413:por",
+    "alterador": "pt:dre:275986:por"
+  }
+]

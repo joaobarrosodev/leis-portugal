@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:280924:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 16,
+      "texto": "## ANEXO I — Unidades orgânicas\n\nUnidades orgânicas de natureza administrativa\n\nRepartição de Admissão de Doentes:\n\nSecção de Admissão de Doentes do Hospital de Pedro Hispano;\n\nSecção de Admissão de Doentes do Centro de Saúde de Leça da Palmeira;\n\nSecção de Admissão de Doentes do Centro de Saúde de Matosinhos;\n\nSecção de Admissão de Doentes do Centro de Saúde de São Mamede de Infesta;\n\nSecção de Admissão de Doentes do Centro de Saúde de Senhora da Hora.\n\nRepartição de Aprovisionamento:\n\nSecção de Gestão de Stocks;\n\nSecção de Aquisições e Armazéns;\n\nSecção de Pessoal e Expediente Geral;\n\n#### Secção de Vencimentos.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1: a retificação no mapa anexo (cardiopneumologia, eliminar 'Técnico director.') incide sobre o mapa que só vem em imagem (unidades 14 e 16); não aplicada.",
+  "instrucoes": [
+    "Alterador 1: retificação do mapa anexo (grupo técnico, cardiopneumologia); mapa em imagem, não aplicada.",
+    "Alterador 1: publica o anexo I (unidades orgânicas) em falta, mencionado no n.º 2.º; inserido a seguir à unidade 16, copiado letra a letra."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

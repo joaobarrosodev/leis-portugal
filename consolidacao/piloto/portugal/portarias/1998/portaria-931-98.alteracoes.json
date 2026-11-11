@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 19",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Estabelecimento: Escola Superior de Comunicação Social do Instituto Politécnico de Lisboa.\n\nCurso: Comunicação Empresarial.\n\nVagas: 8.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:239822:por",
+    "alterador": "pt:dre:229519:por"
+  }
+]

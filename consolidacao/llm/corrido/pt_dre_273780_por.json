@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:273780:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "O plano de estudos do curso bietápico de licenciatura em Contabilidade e Administração da Escola Superior de Estudos Industriais e de Gestão do Instituto Politécnico do Porto, criado pela [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto, aprovado pela [Portaria n.º 496/2000](https://diariodarepublica.pt/dr/detalhe/portaria/496-2000-321364), de 24 de Julho, com as alterações introduzidas pela [Portaria n.º 694/2001](https://diariodarepublica.pt/dr/detalhe/portaria/694-2001-348548), de 10 de Julho, passa a ser o constante do anexo à presente portaria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1 do 1.º: os quadros n.os 5 e 7 do anexo passam a ter a redacção do anexo da Portaria n.º 528/2002, mas esses quadros só vêm em imagem (ver quadro no documento original); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: nova redacção dos quadros n.os 5 e 7 do anexo; quadros só em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, 1.º n.º 2: nova redacção do texto do n.º 1.º; substituída a unidade 12 (corpo do 1.º).",
+    "Alterador 1, 2.º: norma de aplicação no tempo do próprio alterador; nada a mudar no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

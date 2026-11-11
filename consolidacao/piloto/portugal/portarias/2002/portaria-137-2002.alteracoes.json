@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O plano de estudos do 2.º ciclo do curso bietápico de licenciatura em Contabilidade e Administração da Escola Superior de Estudos Industriais e de Gestão do Instituto Politécnico do Porto, criado pela [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto, e aprovado pela [Portaria n.º 496/2000](https://diariodarepublica.pt/dr/detalhe/portaria/496-2000-321364), de 24 de Julho, com as alterações introduzidas pela [Portaria n.º 694/2001](https://diariodarepublica.pt/dr/detalhe/portaria/694-2001-348548), de 10 de Julho, passa a ser o constante do anexo à presente portaria.",
+    "depois": "O plano de estudos do curso bietápico de licenciatura em Contabilidade e Administração da Escola Superior de Estudos Industriais e de Gestão do Instituto Politécnico do Porto, criado pela [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto, aprovado pela [Portaria n.º 496/2000](https://diariodarepublica.pt/dr/detalhe/portaria/496-2000-321364), de 24 de Julho, com as alterações introduzidas pela [Portaria n.º 694/2001](https://diariodarepublica.pt/dr/detalhe/portaria/694-2001-348548), de 10 de Julho, passa a ser o constante do anexo à presente portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:273780:por",
+    "alterador": "pt:dre:370409:por"
+  }
+]

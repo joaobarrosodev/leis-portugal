@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:231769:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "2 - Os investimentos superiores a 150000 contos, sempre que promovidos por sociedades de capital de risco que não sejam maioritariamente privadas, devem ser efectuados em consórcio.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação do n.º 2 (unidade 6), 50000 -> 150000 contos: aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

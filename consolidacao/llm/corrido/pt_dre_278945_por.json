@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:278945:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "As promissórias do Tesouro, a emitir através da Direcção-Geral do Tesouro, vencerão juros à taxa de 0,5% acima da taxa de desconto do Banco de Portugal em vigor à data da liquidação dos referidos juros;",
+      "alterador": 1
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "As promissórias apenas poderão ser entregues às instituições de crédito em substituição de efeitos comerciais subscritos por entidades credoras do Estado, através das forças armadas, ou dos estabelecimentos fabris militares, ou ainda em representação de empréstimos contraídos pelo Estado, através das forças armadas, ou por aqueles estabelecimentos militares, por causa da retenção de fundos nos antigos territórios portugueses que tenham sido depositados à ordem do Estado Português.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2; muda o 1.º parágrafo (acrescenta 'em vigor') e o 3.º parágrafo (unidades 8 e 10); o 2.º parágrafo (unidade 9) fica igual.",
+    "Alterador 1: as condições gerais das promissórias (1.º a 4.º) são disposição própria da Resolução n.º 311/77, não redação do original; não inseridas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

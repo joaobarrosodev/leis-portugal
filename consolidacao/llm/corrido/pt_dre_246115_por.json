@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:246115:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o plano de estudos passa a ser o do anexo da Portaria n.º 621/2001, cujos quadros só vêm em imagem (ver quadro no documento original); não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui o plano de estudos do anexo (quadros só em imagem) - não aplicado.",
+    "Alterador 1, 2.º e 3.º: aplicação e transição próprias da portaria alteradora - não dirigidas ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

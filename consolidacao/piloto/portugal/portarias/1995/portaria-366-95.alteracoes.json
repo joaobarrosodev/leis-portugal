@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 19-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Enfermeiros de outros serviços dependentes do Ministério da Saúde - 10%;",
+    "depois": "d) Enfermeiros provenientes da área de prestação directa de cuidados de estabelecimentos de saúde pertencentes a outros Ministérios - 10%;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:223386:por",
+    "alterador": "pt:dre:626975:por"
+  }
+]

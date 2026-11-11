@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Os investimentos superiores a 50000 contos, sempre que promovidos por sociedades de capital de risco que não sejam maioritariamente privadas, devem ser efectuados em consórcio.",
+    "depois": "2 - Os investimentos superiores a 150000 contos, sempre que promovidos por sociedades de capital de risco que não sejam maioritariamente privadas, devem ser efectuados em consórcio.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:231769:por",
+    "alterador": "pt:dre:475098:por"
+  }
+]

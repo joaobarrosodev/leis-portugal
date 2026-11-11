@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:243705:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: inclusão na zona de caça das águas e terrenos do domínio público lacustre, sem alteração de redação do texto (não textual); 2.º: a planta anexa é substituída por outra que só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alarga a zona de caça sem nova redação - não textual, não aplicado.",
+    "Alterador 1, 2.º: substitui a planta anexa (só em imagem) - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

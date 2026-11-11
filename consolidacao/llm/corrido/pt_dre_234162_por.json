@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:234162:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 12,
+      "texto": "c) (euro) 4104,54 por hectare, para a cultura da maçã;\n\nd) (euro) 3247,13 por hectare, para a cultura do pêssego;\n\ne) (euro) 467,96 por hectare, para a cultura de castanha;\n\nf) (euro) 7506,57 por hectare, para as culturas da amora e da framboesa.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Nova redação do anexo a que se refere o n.º 1.º: a tabela só vem em imagem (ver tabela no documento original), não aplicada.",
+  "instrucoes": [
+    "Nova redação do n.º 1 do n.º 2.º: corpo e alíneas a) e b) ficam ('...'); aditadas as alíneas c) a f) depois da unidade 12: aplicado.",
+    "N.º 2 do n.º 2.º ('...'): fica o texto atual.",
+    "Nova redação do anexo: só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

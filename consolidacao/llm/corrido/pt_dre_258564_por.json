@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:258564:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 124/93 rectifica o mapa n.º 2, mas o «onde se lê» e o «deve ler-se» só vêm em imagem (ver documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Rectificação do mapa n.º 2 (ensino secundário, prosseguimento de estudos): conteúdo só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

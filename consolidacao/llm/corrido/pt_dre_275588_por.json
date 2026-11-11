@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:275588:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 47/94): todas as rectificações incidem sobre os mapas de despesa (unidade 4), que só vêm em imagem (ver documento original); não aplicadas.",
+  "instrucoes": [
+    "Alterador 1: rectificações de designações e classificações nos mapas de despesa (Encargos Gerais da Nação, Defesa, Agricultura, Educação, Obras Públicas, Ambiente, Mar); mapas só em imagem, não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Nos termos do artigo 29.º da Convenção, esta entra em vigor em 24 de Dezembro de 2003.",
+    "depois": "Nos termos do artigo 29.º da Convenção, esta entra em vigor a 19 de Dezembro de 2003.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:240388:por",
+    "alterador": "pt:dre:218539:por"
+  }
+]

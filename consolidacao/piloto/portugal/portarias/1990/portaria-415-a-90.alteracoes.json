@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/12801/00020003.pdf)",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/129b00/30713072.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:289838:por",
+    "alterador": "pt:dre:633554:por"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:268673:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 retifica o mapa orçamental com 'onde se lê' e 'deve ler-se' que só vêm em imagem; o mapa original (unidade 3) também é imagem; não há texto onde aplicar.",
+  "instrucoes": [
+    "Alterador 1: retificação do mapa em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

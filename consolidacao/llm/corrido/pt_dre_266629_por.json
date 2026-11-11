@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:266629:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "Considerando que em 7 de Abril de 1993 cessou a comissão de serviço Ana Maria Afonso Gomes Moreira, à data chefe de divisão da ex-Direcção-Geral de Planeamento e Agricultura;",
+      "alterador": 1
+    },
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "2 - A criação do lugar referido no número anterior produz efeitos desde o dia 7 de Abril de 1993, considerando-se tais efeitos como reportados ao quadro da ex-Direcção-Geral de Planeamento e Agricultura até à entrada em vigor da portaria referida no número anterior.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: no 1.º parágrafo do preâmbulo, 'ex-Direcção-Geral de Hidráulica e Engenharia Agrícola' passa a 'ex-Direcção-Geral de Planeamento e Agricultura' (unidade 2; mantida a pontuação final do texto atual, ';').",
+    "Alterador 1: no n.º 2, mesma troca de designação (unidade 6)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

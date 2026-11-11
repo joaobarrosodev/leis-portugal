@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "depois da unidade 12",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "d) Período de embarque em função inferior à correspondente ao certificado de que é titular, apenas para oficiais maquinistas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:225048:por",
+    "alterador": "pt:dre:692459:por"
+  },
+  {
+    "artigo": "depois da unidade 48",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "22.º O período de embarque previsto na alínea d) do n.º 1.º tem a duração mínima de três meses, aplicando-se os procedimentos constantes dos n.os 17.º a 21.º anteriores.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:225048:por",
+    "alterador": "pt:dre:692459:por"
+  },
+  {
+    "artigo": "depois da unidade 99",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Regras de classificação da RINAVE - Registo Internacional Naval.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:225048:por",
+    "alterador": "pt:dre:692459:por"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:241836:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 138/2010: extingue o Serviço de Finanças de Viseu 2 e concentra as freguesias no Serviço de Finanças de Viseu, sem alterar nem revogar expressamente o texto da Portaria 453/96; não é alteração textual.",
+  "instrucoes": [
+    "Art. 1.º extinção do Serviço de Finanças de Viseu 2: sem instrução textual dirigida ao original, não aplicada.",
+    "Arts. 2.º a 6.º e anexo: matérias próprias do alterador, não dirigidas ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

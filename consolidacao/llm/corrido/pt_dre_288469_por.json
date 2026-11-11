@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:288469:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Decreto-Lei 311/75, artigo único: adita lugares aos quadros de pessoal da Inspecção Provincial de Comércio Bancário de Macau, que estão no mapa anexo; o mapa só vem em imagem (unidade 9), por isso não se pode aplicar o aditamento ao texto com segurança.",
+  "instrucoes": [
+    "Decreto-Lei 311/75, artigo único: aditamento de lugares (quadros a) e b), pessoal contratado) ao quadro de Macau do mapa anexo; não aplicado porque o mapa é imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:265704:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A rectificação «Cap. 04, div. 02, subdiv. 03» para «Cap. 04, div. 03, subdiv. 02» incide sobre o mapa, que só vem em imagem (ver documento original); o texto não existe no texto atual.",
+  "instrucoes": [
+    "Rectificação de classificação orçamental no mapa: só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

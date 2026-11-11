@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "É nomeado, sob proposta do Primeiro-Ministro, o engenheiro Emanuel José Leandro Maranha das Neves para o cargo de Secretário de Estado das Obras Públicas.",
+    "depois": "É nomeado, sob proposta do Primeiro-Ministro, o Prof. Doutor Emanuel José Leandro Maranha das Neves para o cargo de Secretário de Estado das Obras Públicas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:243683:por",
+    "alterador": "pt:dre:163595:por"
+  }
+]

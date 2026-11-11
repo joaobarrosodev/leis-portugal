@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º São criadas assinaturas sazonais mensais, durante os meses de Julho, Agosto e Setembro, para caminho de ferro, em 2.ª classe, entre Coimbra-A e Figueira da Foz.",
+    "depois": "1.º São criadas assinaturas sazonais mensais, durante os meses de Julho, Agosto e Setembro, para caminho de ferro, em 2.ª classe, entre Coimbra-A e Figueira da Foz, válidas para os percursos entre esta cidade e Reveles, Marujal, Formoselha, Vila Pouca do Campo e Coimbra-A.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:224177:por",
+    "alterador": "pt:dre:626666:por"
+  },
+  {
+    "artigo": "unidades 8-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Os percursos abrangidos pela assinatura e os respectivos preços, resultantes da redução de 15% sobre o valor das assinaturas de base zonal, são os seguintes:\n\nEntre Figueira da Foz e:\n\nReveles - 270$00;\n\nMarujal - 410$00;\n\nFormoselha - 560$00;\n\nVila Pouca do Campo - 710$00;\n\nCoimbra-A - 860$00.",
+    "depois": "3.º Os preços das assinaturas referidas no n.º 1.º são resultantes da redução de 15% sobre o valor das assinaturas de base zonal aprovadas, arredondados para o múltiplo superior de 5$00, quando for caso disso, de acordo com o estabelecido no artigo 20.º, n.º 7, da Tarifa Geral de Transportes - Passageiros e Bagagens, em vigor para a CP.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:224177:por",
+    "alterador": "pt:dre:626666:por"
+  }
+]

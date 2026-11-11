@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/094b00/23042305.pdf)",
+    "depois": "Escola Superior de Enfermagem de Maria Fernanda Resende\n\nEnfermagem de Saúde Infantil e Pediátrica\n\nDiploma de estudos superiores especializados\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/137b00/29252925.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:223577:por",
+    "alterador": "pt:dre:366671:por"
+  }
+]

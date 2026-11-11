@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:249791:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, por um período de 12 anos, renovável automaticamente por dois períodos de igual duração, à Associação de Caça e Pesca do Tortosendo, com o número de identificação fiscal 508060214 e sede na Rua Direita, 51, 6200-737 Tortosendo, a zona de caça associativa do Tortosendo (processo n.º 4836-AFN), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Cortes do Meio e Tortosendo, município da Covilhã, com uma área de 803 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 65/2010): corrige a delimitação e anexa prédios rústicos (área total 1259 ha) com nova planta só em imagem; não dá nova redação a nenhuma unidade do original, pelo que não é alteração textual aplicável.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 375/2009), artigo único: nova redação do n.º 1.º; unidade 6 substituída, mantendo o número '1.º'.",
+    "Alterador 2 (Portaria n.º 65/2010): anexação de prédios e correção da delimitação, sem nova redação do texto; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

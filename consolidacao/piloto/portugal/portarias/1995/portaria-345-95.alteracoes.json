@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Enfermeiros da Região Autónoma dos Açores - 10%;",
+    "depois": "c) Enfermeiros provenientes da área da prestação directa de cuidados de estabelecimentos de saúde pertencentes a outros ministérios: 10%;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:223581:por",
+    "alterador": "pt:dre:631804:por"
+  }
+]

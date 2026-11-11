@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:233960:por",
+  "substituicoes": [
+    {
+      "de": 99,
+      "ate": 102,
+      "texto": "Artigos 79.º a 97.º - Reservados.",
+      "alterador": 1
+    },
+    {
+      "de": 342,
+      "ate": 349,
+      "texto": "ARTIGOS 79.º a 97.º\n\n(Reservados.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Revogação do capítulo VI do título II da Tarifa e do artigo 85.º, passando a «Reservados» os artigos 79.º a 97.º: no sumário, unidades 99-102 fundidas em 'Artigos 79.º a 97.º - Reservados.'; no corpo, unidades 342-349 (reservados 79-84, epígrafe do capítulo VI, artigo 85.º, reservados 86-97) substituídas por 'ARTIGOS 79.º a 97.º' / '(Reservados.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

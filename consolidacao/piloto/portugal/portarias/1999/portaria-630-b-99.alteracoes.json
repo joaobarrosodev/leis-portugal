@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 44",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Engenharia das Tecnologias da Informação - 20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:240466:por",
+    "alterador": "pt:dre:682832:por"
+  }
+]

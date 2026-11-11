@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 20-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Comprovar que não são devedores ao Estado de quaisquer contribuições, impostos, quotizações e outras importâncias ou que o seu pagamento está assegurado, sendo dispensadas do cumprimento desta obrigação as sociedades constituídas nos 90 dias anteriores à candidatura;",
+    "depois": "c) Comprovar que não são devedores ao Estado e à Segurança Social de quaisquer contribuições, impostos, quotizações e outras importâncias o seu pagamento está assegurado, sendo dispensadas do cumprimento desta obrigação as sociedades constituídas nos 90 dias anteriores à candidatura.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:247203:por",
+    "alterador": "pt:dre:616857:por"
+  }
+]

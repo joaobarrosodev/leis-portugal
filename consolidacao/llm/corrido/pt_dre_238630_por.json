@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:238630:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O artigo 1.º do Decreto-Lei n.º 140/77 extingue o Centro de Estudos de Vasco da Gama, criado pela Portaria n.º 21188, mas não revoga nem altera textualmente a portaria; alteração não textual, não se aplica.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: extinção do Centro de Estudos de Vasco da Gama — não é alteração textual, registada em nao_aplicavel.",
+    "Alterador 1, arts. 2.º e 3.º: doação do património — não dirigidos ao texto do original, ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

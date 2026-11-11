@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:223443:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 21,
+      "texto": "a) Enfermeiros provenientes de serviços prestadores de cuidados do Ministério da Saúde - 75%;\n\nb) Enfermeiros provenientes de instituições com que a Escola estabeleça protocolos - 5%;\n\nc) Outros enfermeiros - 20%.\n\n2 - As vagas eventualmente não utilizadas num dos contingentes revertem, se necessário, para qualquer outro contingente, de acordo com regras a fixar pelo órgão competente da Escola e a divulgar através do edital a que se refere o n.º 9.º da [Portaria n.º 239/94](https://diariodarepublica.pt/dr/detalhe/portaria/239-1994-266642).",
+      "alterador": 1
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "Escola Superior de Enfermagem de Francisco Gentil\n\nCurso: Enfermagem de Saúde do Idoso e Geriátrica\n\nDiploma de estudos superiores especializados\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/149b00/32133213.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º, n.º 1: nova redação do n.º 3.º — epígrafe e corpo do n.º 1 iguais; substituídas as alíneas a) a e) por a) a c) e o n.º 2 (unidades 16 a 21).",
+    "Alterador 1, n.º 1.º, n.º 2: novo anexo I — mantido o título, substituído o conteúdo (unidade 26) pelo do anexo do alterador (plano só em imagem).",
+    "Alterador 1, n.os 2.º e 3.º: transição e entrada em vigor — não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

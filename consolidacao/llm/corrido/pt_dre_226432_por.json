@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:226432:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 (Portaria n.º 1191/2002, 1.º) substitui o 5.º ano do plano de estudos do anexo, mas o novo quadro só vem em imagem; o anexo atual também só remete para o documento original. Os n.os 2.º e 3.º do alterador são normas próprias, não alteram o texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo 5.º ano do plano de estudos (anexo) — quadro só em imagem, não aplicado.",
+    "Alterador 1, 2.º e 3.º: temas de opção e aplicação — normas autónomas, ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

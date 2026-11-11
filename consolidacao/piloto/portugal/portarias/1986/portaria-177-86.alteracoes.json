@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - O valor nacional acrescentado a que se reportam o [Decreto-Lei n.º 405/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1984-220498), de 31 de Dezembro, e o n.º 2.º, n.º 1, deste diploma será o valor do produto à saída de fábrica, depois de deduzido o valor dos componentes estrangeiros incorporados e dos descontos, bónus, reembolsos e outras deduções de efeito equivalente.",
+    "depois": "2 - O valor nacional acrescentado a que se reportam o [Decreto-Lei n.º 405/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1984-220498), de 31 de Dezembro, e o n.º 2.º, n.º 1, deste diploma será definido pela Direcção-Geral da Indústria com base no valor do produto à saída da fábrica, depois de deduzido o valor dos componentes estrangeiros incorporados e dos descontos, bónus, reembolsos e outras deduções de efeito equivalente.\n\nSempre que este cálculo conduza a um valor não inferior a 60% do valor do produto à saída da fábrica, deduzidos os descontos, bónus, reembolsos e outras deduções de efeito equivalente, será este o valor considerado como o valor nacional acrescentado para os efeitos supracitados.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:227432:por",
+    "alterador": "pt:dre:627227:por"
+  }
+]

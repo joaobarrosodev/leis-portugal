@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:240811:por",
+  "substituicoes": [
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 34,
+      "ate": 34,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 37,
+      "ate": 37,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 41,
+      "ate": 41,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 44,
+      "ate": 44,
+      "texto": "[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 1205/2003, 1.º: o novo anexo tem os quadros n.os 1 a 5 só em imagem; o texto do anexo (cabeçalhos) é igual ao atual, pelo que só se trocaram as ligações dos quadros (unidades 31, 34, 37, 41 e 44); o conteúdo dos quadros não é verificável.",
+  "instrucoes": [
+    "Portaria 1205/2003, 1.º: o anexo passa a ter a redação do anexo da portaria; cabeçalhos idênticos, substituídas só as ligações para os quadros (unidades 31, 34, 37, 41, 44).",
+    "2.º (transição) e 3.º (aplicação) não alteram texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

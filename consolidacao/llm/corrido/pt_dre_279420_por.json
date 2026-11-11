@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:279420:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, art. 3.º: o consulado em Bilbau passa a consulado honorário; alterador 2, n.os 1 e 2: extingue o Consulado em Bilbao. Ambas são alterações materiais sem redação nova do texto do original; não textuais.",
+  "instrucoes": [
+    "Alterador 1, art. 3.º: muda a categoria do consulado criado pelo original; não textual, não aplicado.",
+    "Alterador 2, n.os 1 e 2: extingue o consulado em Bilbao e transfere a jurisdição; não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Sob proposta do Governo, é prorrogado por dois anos, com efeitos a partir de 24 de Janeiro de 1998, o período de exercício do cargo de Chefe do Estado-Maior da Força Aérea pelo general Aurélio Benedito Aleixo Corbal.",
+    "depois": "Sob proposta do Governo, é prorrogado por dois anos, com efeitos a partir de 24 de Janeiro de 1998, o período de exercício do cargo de Chefe do Estado-Maior da Força Aérea pelo general Aurélio Benito Aleixo Corbal.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:229757:por",
+    "alterador": "pt:dre:211812:por"
+  }
+]

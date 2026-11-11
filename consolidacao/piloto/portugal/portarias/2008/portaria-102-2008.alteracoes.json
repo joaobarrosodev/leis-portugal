@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Centro Educativo do Mondego, em Cavadoude, Guarda;",
+    "depois": "c) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:248226:por",
+    "alterador": "pt:dre:108238713:por"
+  }
+]

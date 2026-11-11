@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:228415:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 (Portaria n.º 1449/2004, 1.º) dá nova redação ao anexo (plano de estudos), mas os quadros só vêm em imagem. Os n.os 2.º a 4.º do alterador são normas próprias.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo — quadros só em imagem, não aplicado.",
+    "Alterador 1, 2.º a 4.º: duração do ano lectivo, transição e aplicação — normas autónomas, ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

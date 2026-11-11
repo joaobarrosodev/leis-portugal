@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:281181:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 68/2004 retifica a nota e) do anexo, que só existe em imagem (unidade 22); o texto a corrigir não está no texto atual.",
+  "instrucoes": [
+    "Rectificação da nota e) do anexo (Lei n.º 89-F/98 -> Decreto-Lei n.º 89-F/98): não aplicada, o anexo só existe em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

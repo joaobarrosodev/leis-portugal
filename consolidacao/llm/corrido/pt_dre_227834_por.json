@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:227834:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º É retardada a abertura da caça às codornizes e patos para o 1.º domingo de Setembro, data a partir da qual é também permitida a caça às rolas nos locais e pelos processos autorizados para aquelas espécies.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º — substituída a unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

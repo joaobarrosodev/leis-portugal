@@ -1,0 +1,38 @@
+{
+  "id": "pt:dre:288395:por",
+  "substituicoes": [
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "Escola Superior de Educação",
+      "alterador": 1
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 32,
+      "ate": 33,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 36,
+      "ate": 52,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 691/2003, 2.º: os anexos I e II passam a ter a redação do anexo único da portaria; mantido o título do anexo I, trocada a escola para 'Escola Superior de Educação', as ligações dos quadros 1 a 3 (só em imagem), eliminada a 'Opção de Operador Turístico', o quadro n.º 4 da opção e todo o anexo II substituídos pelo 2.º ciclo com o quadro n.º 4.",
+    "1.º (deixa de haver opções e ramos), 3.º, 4.º e 5.º são normas próprias do alterador, sem texto a mudar no original além do anexo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
