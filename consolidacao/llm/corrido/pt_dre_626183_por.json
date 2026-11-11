@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:626183:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, a José Francisco Vilhena de Matos, entidade equiparada a pessoa colectiva com o n.º 807887013 e sede no Monte Novo das Piedades, 7670-171 Garvão, a zona de caça turística do Garvão (processo n.º 3204-DGF), englobando os prédios rústicos, cujos limites constam da planta anexa à presente portaria e que dela faz integrante, sitos nas freguesias de Santa Luzia, Garvão e Panoias, município de Ourique, com uma área de 1864,2965 ha.",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065b00/18431843.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2: anexa prédios rústicos à zona de caça (área total de 2445 ha) e junta nova planta, sem dar nova redação a qualquer ponto nem mandar substituir a planta do original — alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: retificação no n.º 1.º, 'com uma área de 2241,6950 ha.' passa a 'com uma área de 1864,2965 ha.' (no texto atual lê-se 'com a área de') — substituída a unidade 6 com a nova expressão.",
+    "Alterador 1, n.º 2.º: a nova planta substitui a anexa — substituída a ligação da unidade 11.",
+    "Alterador 2, n.os 1.º e 2.º: anexação de prédios e eficácia — não textual (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

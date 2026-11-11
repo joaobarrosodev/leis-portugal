@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:626197:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 46,
+      "texto": "Escola Superior de Tecnologia de Tomar\n\nCurso de Gestão do Território e do Património Cultural\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)\n\n2.º ciclo - Grau de licenciado\n\nRamo de Arqueologia\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)\n\nRamo de Ambiente e Planeamento\n\nQUADRO N.º 5\n\n1.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43734375.pdf)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do quadro n.º 5 do anexo I (unidade 39, ligação de imagem) — absorvida pela substituição integral do anexo I pelo alterador 2, que apaga o quadro n.º 5 antigo; não listada à parte para não sobrepor intervalos.",
+    "Alterador 2, n.º 3.º: o anexo I passa a ter a redação do anexo — substituídas as unidades 20-46 (mantém-se o título da unidade 19).",
+    "Alterador 2, n.os 1.º e 2.º: mudança de denominação do curso e ramos do 2.º ciclo — sem redação nova para o texto do original; refletidas apenas no novo anexo I.",
+    "Alteradores 1 e 2, restantes números (estágio, transição, aplicação, entrada em vigor): próprios — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:621318:por",
+  "substituicoes": [
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/73037304.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/73037304.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/73037304.pdf)](https://files.diariodarepublica.pt/1s/2001/11/265b00/73037304.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação dos anexos I e II; o texto dos anexos (títulos, ciclo, quadro, ano) é igual, só muda a ligação para o quadro em imagem — substituídas as unidades 21 e 28 pelas novas ligações.",
+    "Alterador 2, n.º 1.º: altera os anexos da Portaria n.º 1043/2000 (outro diploma) — ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

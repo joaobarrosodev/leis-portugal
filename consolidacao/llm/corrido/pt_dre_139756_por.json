@@ -1,0 +1,38 @@
+{
+  "id": "pt:dre:139756:por",
+  "substituicoes": [
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 34,
+      "ate": 34,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 35,
+      "ate": 37,
+      "texto": "QUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)](https://files.diariodarepublica.pt/1s/2006/03/048b00/17241726.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os quadros do novo anexo só vêm em imagem: substituídas as ligações aos quadros e o título 'QUADRO N.º 4', não o conteúdo dos quadros.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do anexo; substituídas as ligações dos quadros n.os 1 a 4 e o título do quadro n.º 4 (antes 'QUADRO N.º41'); mantida a epígrafe do anexo.",
+    "Alterador 1, 2.º e 3.º: transição e aplicação; não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

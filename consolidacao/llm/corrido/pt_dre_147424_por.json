@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:147424:por",
+  "substituicoes": [
+    {
+      "de": 27,
+      "ate": 28,
+      "texto": "Diploma de estudos superiores especializados em Enfermagem na Comunidade\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/235b00/54605461.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: o anexo é substituído pelo anexo da Portaria n.º 1047/97; mantive o cabeçalho (unidade 26, igual) e substituí as unidades 27-28 pela designação e a ligação do novo anexo.",
+    "Alt. 1, 2.º: entrada em vigor, norma própria do alterador; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

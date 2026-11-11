@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:632908:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 altera o quadro II e alterador 2 altera o quadro III; os quadros novos (e os originais) só vêm em imagem. Os n.os 2 e 3 do alterador 2 são normas próprias (promoção de um oficial), sem alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1: alteração do quadro II anexo — só em imagem, não aplicada.",
+    "Alterador 2, n.º 1: alteração do quadro III — só em imagem, não aplicada.",
+    "Alterador 2, n.os 2 e 3: promoção e vencimentos de um oficial — normas próprias, nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

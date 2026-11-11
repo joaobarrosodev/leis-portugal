@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:654736:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 7/85 dá nova redacção ao quadro IV do anexo e a Portaria n.º 532/86 dá nova redacção a todo o anexo I; os quadros, no original e nos alteradores, só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1: nova redacção do quadro IV do anexo: não aplicada, quadro só em imagem.",
+    "Alterador 2, 1.º: nova redacção do anexo I (quadros I a V): não aplicada, quadros só em imagem.",
+    "Alterador 2, 2.º: entrada em funcionamento do novo plano, norma própria, não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

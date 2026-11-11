@@ -1,0 +1,53 @@
+{
+  "id": "pt:dre:666545:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "2.º O Programa tem a duração de dez anos, dispondo de orçamento aprovado até 1991.",
+      "alterador": 1
+    },
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "3.º As acções a realizar consistem na construção e beneficiação de:",
+      "alterador": 1
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "Caminhos rurais de enlace à rede viária municipal ou nacional com uma largura de plataforma de 5 m.",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "4.º - 1 - Os investimentos efectuados com a realização das acções previstas no número anterior são subsidiados em 100% do seu custo.\n\n2 - Para efeitos de concessão do subsídio referido no ponto anterior são privilegiadas, pela ordem apresentada, as acções que se insiram em:\n\na) Aproveitamentos hidroagrícolas;\n\nb) Obras de fomento hidroagrícolas a implementar no âmbito do Programa Específico do Desenvolvimento da Agricultura Portuguesa (PEDAP);\n\nc) Zonas objecto de operações de emparcelamento, nomeadamente no que respeita a caminhos de acesso às mesmas;\n\nd) Programas de desenvolvimento agrícola regional (PDAR) e ou nas componentes agrícolas de outras operações de desenvolvimento integrado;\n\ne) Zonas de minifúndio com policultura intensiva.",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 26,
+      "texto": "17.º A execução das obras é da responsabilidade da DRA, como dono da obra, e poderá ser efectuada por adjudicação ou administração directa.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 26,
+      "texto": "17.º-A. Em qualquer dos casos, a DRA pode, mediante protocolo, cometer a execução das obras a outros serviços estatais ou a autarquias locais.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: nova redação do 2.º (unidade 6).",
+    "Alt. 1: nova redação do 3.º; mudam a frase introdutória (unidade 7) e o último travessão (unidade 10); unidades 8 e 9 iguais.",
+    "Alt. 1: nova redação do 4.º, com n.os 1 e 2 e alíneas a) a e) (unidade 11).",
+    "Alt. 2, 1.º: nova redação do 17.º, que substitui o corpo e os dois parágrafos seguintes (unidades 24-26).",
+    "Alt. 2, 2.º: adita o 17.º-A a seguir ao 17.º (depois da unidade 26)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

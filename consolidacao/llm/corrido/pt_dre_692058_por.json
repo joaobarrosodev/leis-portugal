@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:692058:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1129/2004): a nova área (1.º) não é dada como nova redação do texto e a substituição da planta anexa (2.º) só vem em imagem; Alterador 2 (Portaria n.º 580/2005) renova a concessão e anexa prédios, sem alteração textual. Nada aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: redefinição da área da zona de caça, sem nova redação do texto do original; não aplicado.",
+    "Alterador 1, 2.º: substituição da planta anexa (imagem); não aplicado.",
+    "Alterador 2: renovação e anexação de prédios, sem instrução textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

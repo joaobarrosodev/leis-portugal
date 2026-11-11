@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)",
+    "depois": "[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:140781:por",
+    "alterador": "pt:dre:514995:por"
+  },
+  {
+    "artigo": "unidades 31-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)](https://files.diariodarepublica.pt/1s/2002/06/147b00/51075109.pdf)",
+    "depois": "[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:140781:por",
+    "alterador": "pt:dre:514995:por"
+  }
+]

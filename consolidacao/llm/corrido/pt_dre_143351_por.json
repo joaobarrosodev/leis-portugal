@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:143351:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 777/2006, 1.º: extingue a zona de caça municipal de Évoramonte criada pela Portaria 789/2002; é extinção do objeto do diploma (que deixa de produzir efeitos), não alteração textual; nada a aplicar ao texto. 2.º e 3.º concessionam uma nova zona de caça associativa, normas próprias.",
+  "instrucoes": [
+    "Portaria 777/2006, 1.º: extinção da zona de caça criada pelo original; não textual, não aplicada.",
+    "2.º e 3.º: nova zona de caça associativa; não dirigidos ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:668142:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: as três retificações incidem sobre valores da coluna Anulações do mapa de alterações orçamentais, que só vem em imagem (unidade 3).",
+  "instrucoes": [
+    "Alt. 1: retifica 7500 para 7656, 773 para 622 e 1205 para 1200 na coluna Anulações - mapa só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

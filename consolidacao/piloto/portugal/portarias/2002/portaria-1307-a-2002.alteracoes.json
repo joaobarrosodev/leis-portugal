@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, a José Francisco Vilhena de Matos, entidade equiparada a pessoa colectiva com o n.º 807887013 e sede no Monte Novo das Piedades, 7670-171 Garvão, a zona de caça turística do Garvão (processo n.º 3204-DGF), englobando os prédios rústicos, cujos limites constam da planta anexa à presente portaria e que dela faz integrante, sitos nas freguesias de Santa Luzia, Garvão e Panoias, município de Ourique, com a área de 2241,6950 ha.",
+    "depois": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, a José Francisco Vilhena de Matos, entidade equiparada a pessoa colectiva com o n.º 807887013 e sede no Monte Novo das Piedades, 7670-171 Garvão, a zona de caça turística do Garvão (processo n.º 3204-DGF), englobando os prédios rústicos, cujos limites constam da planta anexa à presente portaria e que dela faz integrante, sitos nas freguesias de Santa Luzia, Garvão e Panoias, município de Ourique, com uma área de 1864,2965 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626183:por",
+    "alterador": "pt:dre:216154:por"
+  },
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/09/226b01/00030003.pdf)",
+    "depois": "[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/03/065b00/18431843.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626183:por",
+    "alterador": "pt:dre:216154:por"
+  }
+]

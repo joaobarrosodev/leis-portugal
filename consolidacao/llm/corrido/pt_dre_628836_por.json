@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:628836:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 substitui o anexo (plano de estudos) pela redacção em anexo à Portaria n.º 624/96, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: o anexo passa a ter a redacção do anexo da Portaria n.º 624/96 — anexo só em imagem, não aplicado.",
+    "Alterador 1, n.º 2.º: aplicação a partir de 1996-1997 — norma própria, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

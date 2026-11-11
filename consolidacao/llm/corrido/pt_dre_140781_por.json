@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:140781:por",
+  "substituicoes": [
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50855088.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 979/2004, 3.º (o plano de estudos do curso passa a ser o dos anexos I e II da própria portaria, a partir de 2004-2005): não se dirige expressamente aos anexos da Portaria 760/2002 e seria incompatível com o 6.º, que altera só os quadros 2 e 3 do anexo I; não aplicado ao texto.",
+  "instrucoes": [
+    "Portaria 979/2004, 6.º n.º 1: os quadros n.os 2 e 3 do anexo I passam a ter a redação do anexo III; aplicada substituindo as ligações dos quadros (só em imagem); títulos iguais.",
+    "1.º (nova denominação 'Design'), 2.º (opções e ramos) e 3.º (plano de estudos dos anexos I e II da própria portaria, a partir de 2004-2005) não mandam alterar o texto do original; não aplicados ao texto.",
+    "4.º, 5.º e 6.º n.º 2 (estágio, aplicação) são normas próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

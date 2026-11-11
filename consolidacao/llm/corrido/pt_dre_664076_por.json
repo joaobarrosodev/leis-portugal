@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:664076:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "a) Arbóreo-arbustivas: vinha, macieiras, pereiras, kiwis, pessegueiros, nogueiras, castanheiros, cerejeiras e olival, bem como a cultura da ameixeira na área da Direcção Regional de Agricultura do Alentejo.",
+      "alterador": 3
+    },
+    {
+      "de": 19,
+      "ate": 19,
+      "texto": "2 - As entidades que recorram à linha de crédito de relançamento das actividades agro-pecuárias não têm acesso, na campanha de 1995-1996, para as actividades que constituem o objecto de crédito, às linhas de crédito de curto prazo criadas pelo [Decreto-Lei n.º 145/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1994-269594), de 24 de Maio, excepto se os valores unitários do crédito efectivamente utilizado forem inferiores aos fixados nas referidas linhas, podendo, nesse caso, os beneficiários ter acesso, para o crédito remanescente, às linhas de curto prazo previstas naquele diploma.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2 do n.º 5.º; unidade 19 substituída. 2.º é norma própria.",
+    "Alterador 2: é a mesma Portaria n.º 61/96 repetida, com a mesma instrução; já aplicada pelo alterador 1.",
+    "Alterador 3, 1.º: nova redação da alínea a) do n.º 1.º; unidade 8 substituída. 2.º é norma própria."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

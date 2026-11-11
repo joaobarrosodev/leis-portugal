@@ -1,0 +1,38 @@
+{
+  "id": "pt:dre:626667:por",
+  "substituicoes": [
+    {
+      "de": 50,
+      "ate": 50,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03200/03860388.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 112,
+      "ate": 112,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03200/03860388.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 131,
+      "ate": 131,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03200/03860388.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 134,
+      "ate": 134,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03200/03860388.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: diz que também o anexo é alterado, mas não traz nova versão do anexo separada dos quatro quadros (tudo em imagem) — anexo (unidade 145) não alterado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novos quadros dos n.os 1.2.4, 2.2.2.4, 4.3.1 e 4.3.2 (em imagem) — substituídas as ligações das unidades 50, 112, 131 e 134; a alteração do anexo não tem conteúdo identificável (nao_aplicavel).",
+    "Alterador 1, n.º 2.º: entrada em vigor — ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

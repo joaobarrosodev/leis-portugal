@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:156859:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o quadro n.º 1 do anexo passa a ter a redação do anexo do alterador, mas o quadro só vem em imagem (ver quadro no documento original); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substituição do quadro n.º 1 do anexo (unidade 57), só em imagem; não aplicada.",
+    "Alterador 1, n.º 2.º: produção de efeitos; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

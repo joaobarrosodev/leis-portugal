@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:836630824:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1 - Fica a Unidade Local de Saúde do Alto Minho, E. P. E., autorizada a assumir um encargo plurianual até ao montante de 2 146 541,77 EUR (dois milhões, cento e quarenta e seis mil, quinhentos e quarenta e um euros e setenta e sete cêntimos), a que acresce IVA à taxa legal em vigor (IVA autoliquidação), referente à celebração do contrato de empreitada de requalificação do bloco de partos do Hospital de Santa Luzia de Viana do Castelo.",
+      "alterador": 2
+    },
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2 - Os encargos resultantes do contrato não excederão, em cada ano económico, as seguintes importâncias:\n\n2024: 0,00 EUR;\n\n2025: 825 921,60 EUR, a que acresce IVA à taxa legal em vigor;\n\n2026: 1 320 620,17 EUR, a que acresce IVA à taxa legal em vigor.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação dos n.os 1 e 2; substituída integralmente pela redação posterior do alterador 2 sobre as mesmas unidades.",
+    "Alterador 1, n.os 2 a 4: normas próprias da portaria alteradora; ignoradas.",
+    "Alterador 2, n.º 1: nova redação dos n.os 1 e 2; substituídas as unidades 6 e 7 (texto final em vigor)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

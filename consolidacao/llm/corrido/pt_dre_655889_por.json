@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:655889:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 895/98 substitui o plano de estudos (anexo), que no original e no alterador só vem em imagem; a Portaria n.º 383/2004 altera o anexo da Portaria n.º 895/98, outro diploma.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos (anexo): não aplicado, quadros só em imagem.",
+    "Alterador 1, 2.º e 3.º: aplicação e transição, normas próprias.",
+    "Alterador 2: altera o anexo da Portaria n.º 895/98 e contém normas próprias: não é dirigido ao original, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Minde e Mira de Aire, municípios de Alcanena e Porto de Mós, com a área de 1876,78 ha.»",
+    "depois": "«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Minde e Mira de Aire, municípios de Alcanena e Porto de Mós, com a área de 2761,25 ha.»",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:642898:por",
+    "alterador": "pt:dre:437460:por"
+  }
+]

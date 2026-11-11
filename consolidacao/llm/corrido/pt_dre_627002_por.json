@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:627002:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, a Freita - Clube de Caça e Pesca, com o número de pessoa colectiva 505427931 e sede em Albergaria da Serra, Arouca, a zona de caça associativa da Freita (processo n.º 2994-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Albergaria da Serra e de Cabreiros, município de Arouca, com a área de 1480 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a correcção da planta anexa só vem em imagem. Alterador 2: a anexação de prédios (área total de 1528 ha) e a menção no preâmbulo à área de 1411 ha não são instruções textuais sobre o original; a planta nova só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 1.º (zona de caça da Freita, freguesias de Albergaria da Serra e de Cabreiros, área de 1480 ha) — substituída a unidade 6, mantendo o prefixo 1.º.",
+    "Alterador 1: correcção da planta anexa — só em imagem, não aplicada.",
+    "Alterador 2: anexação de prédios à zona de caça, regime de terrenos em área classificada, extinção da Reserva ARC-2 e produção de efeitos — normas próprias, sem alteração textual do original; não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

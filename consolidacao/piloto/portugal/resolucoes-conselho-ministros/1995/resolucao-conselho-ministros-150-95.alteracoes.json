@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) No caso de salas concessionadas a pessoas colectivas públicas e de utilidade pública - 33%;\n\nb) No caso de salas concessionadas a empresas do sector turístico:\n\ni) 33%, até ao montante de 250000 contos;\n\nii) 22%, na parte da receita que exceda aquele valor.",
+    "depois": "a) (Revogada.)\n\nb) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:692408:por",
+    "alterador": "pt:dre:179552:por"
+  }
+]

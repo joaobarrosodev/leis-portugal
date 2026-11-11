@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:682237:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 substitui os quadros anexos (cargas horárias e planos curriculares) por quadros que só vêm em imagem no documento original; não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: substituição dos quadros anexos (em imagem) - não aplicado, ver nao_aplicavel.",
+    "Alterador 1, n.º 2: efeitos retroactivos, não altera o texto - ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

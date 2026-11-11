@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 36-39",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "11.º - 1 - Além da taxa de concessão de autorização especial de caça são ainda devidas as taxas suplementares constantes das tabelas anexas ao presente diploma nos seguintes casos:\n\na) Na caça à espera ao javali, consoante a dimensão da parte exposta das navalhas dos machos;\n\nb) Na caça de aproximação ao veado ou a gamo - troféu, consoante a pontuação do troféu do animal abatido.\n\n2 - No exercício da caça a espécies de caça maior são devidas taxas eventuais por cada tiro falhado, animal ferido e não cobrado ou desobediência ao guia da caçada, de acordo com as tabelas anexas ao presente diploma.",
+    "depois": "11.º - 1 - Além da taxa de concessão de autorização especial de caça são ainda devidas as taxas suplementares constantes das tabelas anexas ao presente diploma, do qual fazem parte integrante, nos seguintes casos:\n\na) Caça à espera e de aproximação ao javali, consoante a dimensão da parte exposta das navalhas dos machos;\n\nb) Caça de aproximação ao veado ou ao gamo - troféu, consoante a pontuação do troféu do animal abatido;\n\nc) Caça de montaria ao javali e veado, consoante a pontuação do troféu do veado abatido.\n\n2 - No exercício da caça a espécies de caça maior são devidas taxas eventuais por cada tiro falhado, animal ferido e não cobrado ou desobediência ao guia da caçada de acordo com as tabelas anexas ao presente diploma.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:674621:por",
+    "alterador": "pt:dre:282095:por"
+  }
+]

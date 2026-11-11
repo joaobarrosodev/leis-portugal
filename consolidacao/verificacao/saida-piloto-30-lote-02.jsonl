@@ -1,0 +1,40 @@
+{"id": "pt:dre:145595:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Anexo I substituído: 'Escola Superior de Educação'.", "texto_esperado": ""}
+{"id": "pt:dre:145595:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Novo anexo I: '1.º ciclo - Grau de bacharel'.", "texto_esperado": ""}
+{"id": "pt:dre:145595:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Quadro 1 do novo anexo I (ligação nova).", "texto_esperado": ""}
+{"id": "pt:dre:145595:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Quadro 2 do novo anexo I.", "texto_esperado": ""}
+{"id": "pt:dre:145595:por", "artigo": "Trecho 5", "veredicto": "certo", "motivo": "Quadro 3 do novo anexo I.", "texto_esperado": ""}
+{"id": "pt:dre:145595:por", "artigo": "Trecho 6", "veredicto": "certo", "motivo": "Quadro 4 do novo anexo I.", "texto_esperado": ""}
+{"id": "pt:dre:145595:por", "artigo": "Trecho 7", "veredicto": "certo", "motivo": "Anexo II substituído: 'Escola Superior de Educação'.", "texto_esperado": ""}
+{"id": "pt:dre:145595:por", "artigo": "Trecho 8", "veredicto": "certo", "motivo": "Novo anexo II: '2.º ciclo - Grau de licenciado'.", "texto_esperado": ""}
+{"id": "pt:dre:145595:por", "artigo": "Trecho 9", "veredicto": "certo", "motivo": "Quadro 1 do novo anexo II.", "texto_esperado": ""}
+{"id": "pt:dre:145595:por", "artigo": "Trecho 10", "veredicto": "certo", "motivo": "Quadro 2 do novo anexo II.", "texto_esperado": ""}
+{"id": "pt:dre:145595:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:145646:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Anexo substituído pelo anexo da portaria alteradora (cabeçalho e quadros 1 a 6).", "texto_esperado": ""}
+{"id": "pt:dre:145646:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:145664:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Rectificação do título.", "texto_esperado": ""}
+{"id": "pt:dre:145664:por", "instrucoes_em_falta": ["Rectificação '1.º PAR 2007 suplementar' -> '1.º OAR 2007 suplementar' no mapa das receitas: o mapa é só uma ligação para PDF, sem texto a alterar (sem efeito possível no texto)."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:147424:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Anexo substituído (designação do diploma e ligação nova).", "texto_esperado": ""}
+{"id": "pt:dre:147424:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:147636:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 2.º com a nova redacção do 1.º da alteradora.", "texto_esperado": ""}
+{"id": "pt:dre:147636:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "n.º 4.º revogado pelo 4.º da alteradora; formato 'N - (Revogado.)'.", "texto_esperado": ""}
+{"id": "pt:dre:147636:por", "instrucoes_em_falta": ["2.º e 3.º da alteradora: alteração e republicação do plano de estudos anexo (Língua Estrangeira I, II ou III, chamada de nota); o ANEXO N.º 1 do consolidado mantém a ligação original (57985799.pdf) em vez da nova (0583505836.pdf)."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "ANEXO N.º 1 (plano de estudos) não foi substituído pelo republicado (ligação 0583505836.pdf)."}
+{"id": "pt:dre:148408:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 3 substituído e n.º 4 revogado ('4 - (Revogado.)').", "texto_esperado": ""}
+{"id": "pt:dre:148408:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:148860:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Linha de capitão-de-mar-e-guerra com a nova redacção.", "texto_esperado": ""}
+{"id": "pt:dre:148860:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:149051:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 8.º com a nova redacção.", "texto_esperado": ""}
+{"id": "pt:dre:149051:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:149667:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 2.º com a nova redacção do 1.º da alteradora.", "texto_esperado": ""}
+{"id": "pt:dre:149667:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:149831:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Rectificação 'Évora' -> 'Évora (2.º)' na alínea a) do n.º 4.º.", "texto_esperado": ""}
+{"id": "pt:dre:149831:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:150728:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Correcção da entidade gestora no preâmbulo.", "texto_esperado": ""}
+{"id": "pt:dre:150728:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:151904:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Nova redacção do 1.2.1 só tem a primeira frase; parágrafo suprimido.", "texto_esperado": ""}
+{"id": "pt:dre:151904:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:152136:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.os 1.º e 2.º com a nova redacção do 3.º da alteradora.", "texto_esperado": ""}
+{"id": "pt:dre:152136:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:155646:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Alínea a) do n.º 11 com a nova redacção.", "texto_esperado": ""}
+{"id": "pt:dre:155646:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:157789:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 2.º com a nova redacção do 1.º da alteradora.", "texto_esperado": ""}
+{"id": "pt:dre:157789:por", "instrucoes_em_falta": ["2.º da alteradora: planta anexa substituída pela apensa (46234624.pdf); o consolidado mantém a ligação original (59295930.pdf)."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "Ligação da planta no fim do texto não foi substituída pela nova (46234624.pdf)."}

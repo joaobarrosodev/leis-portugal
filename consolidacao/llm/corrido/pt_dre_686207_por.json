@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:686207:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 extinguem os cursos de Técnico de Promoção de Vendas e de Técnico de Marketing e revogam parcialmente a portaria 'nas partes que àqueles cursos respeitam', mantendo os planos em vigor para os alunos que os iniciaram; a revogação não identifica unidades do texto (os n.os 2.º a 4.º respeitam a ambos os cursos), pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, 6.º e 7.º: extinção do curso de Técnico de Promoção de Vendas e revogação parcial nas partes que lhe respeitam - não aplicado, ver nao_aplicavel.",
+    "Alterador 1, restantes números: criação do curso de Técnico de Vendas, norma própria - ignorado.",
+    "Alterador 2, 6.º e 7.º: extinção do curso de Técnico de Marketing e revogação parcial nas partes que lhe respeitam - não aplicado, ver nao_aplicavel.",
+    "Alterador 2, restantes números: criação do novo curso de Técnico de Marketing, norma própria - ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:139422:por",
+  "substituicoes": [
+    {
+      "de": 23,
+      "ate": 31,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/084b00/31783181.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 37,
+      "ate": 58,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/084b00/31783181.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O conteúdo dos novos anexos I e II só vem em imagem: foi substituída a estrutura textual dos anexos e as ligações, não o conteúdo dos quadros. A mudança de denominação do curso (4.º) não é instrução textual sobre o original.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: o 2.º ciclo passa a ter os ramos Engenharia Industrial e Electrónica Industrial; não é alteração textual (reflectida no anexo II).",
+    "Alterador 1, 1.º n.º 2: nova redacção dos anexos I e II; quadros do anexo I substituídos pela ligação nova, retirado o título de ramo e substituídos os quadros e ramos do anexo II pela ligação nova.",
+    "Alterador 1, 2.º e 3.º: estágio e transição, normas próprias; não aplicadas.",
+    "Alterador 1, 4.º: o curso passa a denominar-se Engenharia e Gestão Industrial a partir de 2006-2007; não manda mudar o texto do original, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

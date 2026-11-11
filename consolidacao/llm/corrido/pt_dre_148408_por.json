@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:148408:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 14,
+      "texto": "3 - Estabelecer que os encargos resultantes da adjudicação são suportados no ano económico de 2006 através do orçamento do Serviço Nacional de Saúde, inscrito no Instituto de Gestão Informática e Financeira da Saúde.",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "4 - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: n.os 1, 2, 5 e 6 mantidos ([...]).",
+    "Alt. 1: nova redação do n.º 3, sem a lista anual; unidades 12 a 14 substituídas pelo novo n.º 3.",
+    "Alt. 1: n.º 4 revogado; unidade 15 passa a '4 - (Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

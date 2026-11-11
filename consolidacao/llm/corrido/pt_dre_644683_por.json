@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:644683:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o plano de estudos (anexo, unidades 18-26) passa a ser o do anexo da Portaria 733/2002, cujos quadros só vêm em imagem; Alterador 2, 1.º: o quadro n.º 2 do anexo é substituído por quadro só em imagem. Nenhum aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui o plano de estudos em anexo por quadros só em imagem; não aplicado.",
+    "Alterador 1, 2.º e 3.º, Alterador 2, 2.º e 3.º: transição e aplicação próprias; não alteram o original.",
+    "Alterador 2, 1.º: substitui o quadro n.º 2 do anexo por quadro só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

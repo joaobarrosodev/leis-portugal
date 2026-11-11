@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:692466:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 84/93) retifica apenas o sumário do Diário da República (número da portaria), que não faz parte do texto do original; nada a aplicar.",
+  "instrucoes": [
+    "Alterador 1: retificação do sumário (Portaria n.º 413/93 por 412/93), texto inexistente no original; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

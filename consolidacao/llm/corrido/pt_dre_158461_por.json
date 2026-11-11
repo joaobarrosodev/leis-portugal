@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:158461:por",
+  "substituicoes": [
+    {
+      "de": 32,
+      "ate": 36,
+      "texto": "1 - Para efeitos da presente secção, são consideradas as despesas com a aquisição de:\n\na) Máquinas de colheita automotrizes;\n\nb) Máquinas de colheita rebocáveis;\n\nc) Plantadores, semeadores, armadores, arrancadores e sachadores.\n\n2 - As despesas com a aquisição das máquinas referidas na alínea a) do número anterior só são elegíveis quando se trate de:\n\na) Áreas com, pelo menos, 30 ha;\n\nb) Máquinas cuja potência seja igual ou superior a 70 cv.\n\n3 - As despesas com a aquisição das máquinas referidas na alínea b) do n.º 1 só são elegíveis, no caso da cultura do tomate de indústria, quando se trate de áreas com, pelo menos, 10 ha.\n\n4 - As despesas com a aquisição das máquinas referidas na alínea c) do n.º 1 só são elegíveis quando se trate de áreas com, pelo menos, 2 ha.",
+      "alterador": 1
+    },
+    {
+      "de": 87,
+      "ate": 88,
+      "texto": "Ajudas às culturas protegidas\n\n1 - O processo de candidatura às ajudas a atribuir às acções referidas na alínea b) do n.º 3.º inicia-se com a apresentação pelos interessados, junto do serviço regional de agricultura competente, de uma ficha de inscrição, de acordo com modelo a distribuir por esse serviço, até ao último dia do mês de Fevereiro de cada ano.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 92,
+      "texto": "15.º-A\n\nAjudas à mecanização\n\n1 - No caso das ajudas a atribuir à acção prevista na alínea a) do n.º 3.º, o processo de candidatura inicia-se com a apresentação pelos interessados, junto do serviço regional de agricultura competente, de um projecto de investimento, até ao último dia do mês de Fevereiro de cada ano.\n\n2 - Os projectos apresentados devem ser acompanhados de elementos comprovativos dos requisitos de acesso às ajudas e das declarações em que sejam assumidos os compromissos exigidos para a sua concessão.\n\n3 - Os projectos apresentados serão objecto de análise e decisão até 31 de Março de cada ano.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 5.º (epígrafe igual); substituído o corpo, unidades 32 a 36.",
+    "Alterador 1, n.º 1.º: nova redação do n.º 15.º (nova epígrafe e n.º 1; n.os 2 a 5 com '...' ficam); substituídas as unidades 87 e 88.",
+    "Alterador 1, n.º 2.º: aditado o n.º 15.º-A à secção V; inserido depois da unidade 92."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

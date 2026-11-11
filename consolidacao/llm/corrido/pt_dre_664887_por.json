@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:664887:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "1 - A Escola organizará um estágio, no 6.º semestre curricular, com a duração de trezentas e sessenta horas.",
+      "alterador": 1
+    },
+    {
+      "de": 23,
+      "ate": 25,
+      "texto": "É condição para obtenção do grau de bacharel em Relações Humanas e Comunicação no Trabalho a aprovação na totalidade das unidades curriculares que integram o respectivo plano de estudos.",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações obtidas nas unidades curriculares que integram o respectivo plano de estudos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1 do 1.º: o anexo (plano de estudos) é substituído por um anexo que só vem em imagem. Alterador 2, n.º 2 do 3.º: revogação diferida para o fim do processo de transição (condicional), não aplicada ao texto.",
+  "instrucoes": [
+    "Alt. 1, 1.º n.º 1: substitui o anexo (plano de estudos) - só em imagem, não aplicado.",
+    "Alt. 1, 1.º n.º 2: nova redação do n.º 1 do 3.º (unidade 14); n.os 2 a 4 ficam ('...').",
+    "Alt. 1, 1.º n.º 2: nova redação do 5.º; epígrafe igual, corpo e alíneas a) e b) (unidades 23-25) passam a um só parágrafo.",
+    "Alt. 1, 1.º n.º 2: nova redação do n.º 1 do 6.º (unidade 28); n.º 2 fica ('...').",
+    "Alt. 2, 3.º: cessa a ministração do curso e revoga as portarias findo o processo de transição - revogação condicional/diferida, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

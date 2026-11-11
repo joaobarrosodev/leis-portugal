@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:631002:por",
+  "substituicoes": [
+    {
+      "de": 38,
+      "ate": 38,
+      "texto": "5.1 - É órgão executivo do INFOCID o Secretariado para a Modernização Administrativa.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 5.1 — substituída a unidade 38.",
+    "Alterador 2 (Decreto-Lei n.º 215/2002): extinção do IIAE e transição de atribuições; não contém instrução dirigida ao texto da resolução — nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

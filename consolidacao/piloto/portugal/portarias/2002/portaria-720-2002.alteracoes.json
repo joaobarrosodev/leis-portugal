@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 31-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)](https://files.diariodarepublica.pt/1s/2002/06/145b00/50105012.pdf)",
+    "depois": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/294b00/85408540.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:139759:por",
+    "alterador": "pt:dre:423636:por"
+  }
+]

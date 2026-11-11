@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:647899:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: retifica 'C. F. 8.01.1' para 'C. F. 8.01.0' e '01.02.04 - 1080' para '01.02.04 - 2080', mas esses textos estão no quadro que só vem em imagem (unidade 3); não aplicado.",
+  "instrucoes": [
+    "Alterador 1: retificação de duas referências do mapa de transferências, que só existe em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

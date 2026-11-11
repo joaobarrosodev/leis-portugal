@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:632249:por",
+  "substituicoes": [
+    {
+      "de": 104,
+      "ate": 104,
+      "texto": "Art. 2.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: altera artigos do Código das Custas Judiciais do Trabalho (outro diploma) — ignorado.",
+    "Alterador 1, artigo 2.º: revoga o artigo 2.º do Decreto-Lei n.º 562/71 — unidade 104 passa a (Revogado.).",
+    "Alterador 1, artigo 3.º: substituição de expressão no Código das Custas Judiciais do Trabalho (outro diploma) — ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 104-104: parágrafo que não está no alterador nem no original: Art. 2.º - (Revogado.)"
+  ]
+}

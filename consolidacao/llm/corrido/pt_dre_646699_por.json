@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:646699:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Castro Marim, com a área de 2826 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: a planta anexa (unidade 19) é substituída por outra que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º (área de 2826 ha); unidade 7 substituída.",
+    "Alterador 1, 2.º: substituição da planta anexa, só em imagem; não aplicada.",
+    "Alterador 2: renova a zona de caça com nova área e planta próprias; não altera o texto do original.",
+    "Alterador 3: a zona passa a englobar 2099 ha conforme planta própria; não altera o texto do original.",
+    "Alterador 4: exclui terrenos (fica com 1780 ha) e concessiona outras zonas; não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

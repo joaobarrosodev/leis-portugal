@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:145646:por",
+  "substituicoes": [
+    {
+      "de": 30,
+      "ate": 32,
+      "texto": "Curso de Ciências da Comunicação\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)\n\nRamo de Jornalismo\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)\n\nRamo de Marketing, Publicidade e Relações Públicas\n\nQUADRO N.º 5\n\n4.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)\n\nRamo de Audiovisual\n\nQUADRO N.º 6\n\n4.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17431745.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: o anexo passa a ter a redação do anexo da Portaria n.º 219/2005; mantive o cabeçalho (unidade 29, igual) e substituí as unidades 30-32 pelo novo anexo (curso, grau, ramos e seis quadros, só como ligação ao documento original).",
+    "Alt. 1, 2.º a 4.º: duração do ano lectivo, transição e aplicação, normas próprias do alterador; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

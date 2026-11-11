@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 20-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Taxa de paridade central do escudo face ao ecu oficial, no mecanismo cambial do Sistema Monetário Europeu (SME), à data da primeira colocação do empréstimo;",
+    "depois": "a) Taxa equivalente ao produto da taxa de paridade central do escudo no mecanismo cambial do Sistema Monetário Europeu, à data da primeira colocação do empréstimo, face à moeda que, naquela data, o IGCP tiver por mais conveniente em função das condições prospectivas do mercado, e da taxa estabelecida oficialmente para a conversão de tal moeda em euros;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:155646:por",
+    "alterador": "pt:dre:212805:por"
+  }
+]

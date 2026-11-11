@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:620774:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 13.º: revoga o n.º 2.º apenas no respeitante à 1.ª Tesouraria do Funchal, sem nova redação; é uma revogação parcial de efeito e não uma alteração textual, pelo que não se retira texto do n.º 2.º.",
+  "instrucoes": [
+    "Alterador 1, n.os 1.º a 12.º: criam/extinguem serviços e alteram a Portaria n.º 225/95 — não dirigidos ao original, ignorados.",
+    "Alterador 1, n.º 13.º: revogação parcial do n.º 2.º quanto à 1.ª Tesouraria do Funchal — sem redação nova, não aplicada ao texto (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

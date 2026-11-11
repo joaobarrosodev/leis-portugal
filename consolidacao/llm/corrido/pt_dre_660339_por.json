@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:660339:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "3 - A qualidade de emigrante poderá ser certificada pelo Instituto de Apoio à Emigração e Comunidades Portuguesas ou pelos serviços de emigração das Regiões Autónomas dos Açores e da Madeira quando no país onde reside ou donde procede o emigrante não exista autoridade consular portuguesa.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 3 do n.º 1.º da Portaria n.º 627-A/86; substituída a unidade 9.",
+    "Alteradores 2 e 3 (Portaria n.º 201/94, repetida): alteram o n.º 3.º da Portaria n.º 288-A/86 na redação dada pelo original; é outro diploma, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

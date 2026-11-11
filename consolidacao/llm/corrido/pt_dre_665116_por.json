@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:665116:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 17,
+      "texto": "Condições para a obtenção do grau\n\n1 - São condições para a obtenção do grau de bacharel, cumulativamente:\n\na) A aprovação na totalidade das unidades curriculares que integram o respectivo plano de estudos;\n\nb) A realização, com aproveitamento, do estágio no final do curso.\n\n2 - O estágio é objecto de avaliação, que se traduzirá numa classificação, nos termos a regulamentar pelo órgão legal e estatutariamente competente.",
+      "alterador": 2
+    },
+    {
+      "de": 20,
+      "ate": 21,
+      "texto": "A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o plano de estudos e do estágio a que se refere o n.º 2 do número anterior.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o plano de estudos passa a ser o do anexo, que só vem em imagem (e o original não traz o anexo nas unidades). Alterador 2, 1.º: aditamento do estágio ao plano de estudos não é uma alteração textual do original.",
+  "instrucoes": [
+    "Alt. 1, 1.º: substitui o plano de estudos pelo anexo - só em imagem, não aplicado.",
+    "Alt. 1, 2.º a 4.º: normas autónomas (semestre lectivo, aplicação, transição), não alteram o texto do original.",
+    "Alt. 2, 1.º: adita o estágio ao plano de estudos - não textual, não aplicado.",
+    "Alt. 2, 2.º: nova redação do 4.º; epígrafe muda para 'Condições para a obtenção do grau' e corpo passa a n.os 1 (com alíneas) e 2 (unidades 16-17).",
+    "Alt. 2, 2.º: nova redação do 5.º; epígrafe igual, n.os 1 e 2 (unidades 20-21) passam a um só parágrafo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

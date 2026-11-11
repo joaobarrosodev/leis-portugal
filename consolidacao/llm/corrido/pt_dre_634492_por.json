@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:634492:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "20/ml a 22 (mais ou menos) 1ºC às 72 (mais ou menos) 4 horas;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: rectificação na alínea c) do n.º 2.º («72 (mais ou menos) horas» passa a «72 (mais ou menos) 4 horas») — substituída a unidade 13."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

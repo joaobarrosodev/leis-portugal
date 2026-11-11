@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:674257:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: a tabela do n.º 1 (unidade 8) é substituída por outra que só vem em imagem; não é possível aplicar textualmente.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição da tabela de preços do n.º 1, só em imagem; não aplicado.",
+    "Alterador 1, 2.º: entrada em vigor do alterador, não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

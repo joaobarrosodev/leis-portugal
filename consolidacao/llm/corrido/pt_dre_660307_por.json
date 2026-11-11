@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:660307:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria n.º 309/98) e 2 (Portaria n.º 722/2002) substituem o plano de estudos anexo, cujos quadros só vêm em imagem; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo plano de estudos (quadros em imagem); não aplicado.",
+    "Alterador 2, n.º 1.º: novo plano de estudos (quadros em imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

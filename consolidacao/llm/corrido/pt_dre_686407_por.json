@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:686407:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 8,
+      "texto": "1.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 9,
+      "ate": 13,
+      "texto": "2.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 14,
+      "ate": 20,
+      "texto": "3.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 21,
+      "ate": 23,
+      "texto": "4.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: o novo plano de estudos do anexo só vem em imagem; a mudança de designação do curso para Engenharia Alimentar não tem unidade onde se aplicar (a designação só constava dos n.os 1.º e 2.º, revogados). Alterador 2: o texto fornecido termina no preâmbulo, sem parte dispositiva; nada a aplicar.",
+  "instrucoes": [
+    "Alterador 1, 4.º: revogação dos n.os 1.º, 2.º, 3.º e 4.º - aplicado (unidades 6-8, 9-13, 14-20 e 21-23 passam a 'N.º - (Revogado.)').",
+    "Alterador 1, 1.º, n.º 1: nova designação do curso (Engenharia Alimentar) - sem texto remanescente onde aplicar, ver nao_aplicavel.",
+    "Alterador 1, 1.º, n.º 2: novo plano de estudos (anexo em imagem) - não aplicado.",
+    "Alterador 1, 2.º e 3.º: regime de transição e aplicação, normas próprias - ignorado.",
+    "Alterador 2: texto truncado sem instruções - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

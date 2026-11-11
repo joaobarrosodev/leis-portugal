@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:158459:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o quadro de pessoal anexo é substituído pelo quadro anexo ao alterador, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substituição do quadro de pessoal (unidade 17), só em imagem; não aplicada.",
+    "Alterador 1, n.º 2.º: disposição própria sobre as unidades orgânicas, sem instrução de alteração do n.º 2.º do original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

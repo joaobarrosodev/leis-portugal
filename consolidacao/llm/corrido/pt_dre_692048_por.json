@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:692048:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1287/2003), 1.º n.º 2: o anexo (plano de estudos) passa a ter nova redação, mas os quadros n.os 1 a 8 só vêm em imagem; não aplicado. O n.º 1 (desdobramento do 2.º ciclo em ramos) não altera o texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: desdobramento em ramos, sem alteração textual do original; ignorado.",
+    "Alterador 1, 1.º n.º 2: substituição do anexo com quadros só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

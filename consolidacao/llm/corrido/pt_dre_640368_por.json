@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:640368:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 17,
+      "texto": "MAPA II - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 21,
+      "texto": "MAPA III - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 2.º: revoga os mapas II e III; unidades 14-17 e 18-21 substituídas por 'MAPA II - (Revogado.)' e 'MAPA III - (Revogado.)'.",
+    "Alterador 1, 1.º, 3.º e 4.º: aprovam novos planos em anexo próprio, transição e vigência; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 14-17: parágrafo que não está no alterador nem no original: MAPA II - (Revogado.)",
+    "substituição 18-21: parágrafo que não está no alterador nem no original: MAPA III - (Revogado.)"
+  ]
+}

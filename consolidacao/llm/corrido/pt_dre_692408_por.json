@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:692408:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 9,
+      "texto": "a) (Revogada.)\n\nb) (Revogada.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 3: revogadas as alíneas a) e b) do n.º 1; unidades 6 a 9 (alínea b) com subalíneas i) e ii)) passam a 'a) (Revogada.)' e 'b) (Revogada.)'.",
+    "Alterador 1, n.os 1, 2 e 4: normas próprias da nova resolução, não são nova redação do original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

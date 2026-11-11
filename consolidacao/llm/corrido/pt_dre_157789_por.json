@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:157789:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Abação, Calvos, Costa, Infantas, Mesão Frio, Pinheiro, Serzedo e Urgezes, município de Guimarães, com a área de 2052 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: a planta anexa é substituída pela apensa ao alterador, que só vem em imagem; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 2.º; substituída a unidade 6.",
+    "Alterador 1, n.º 2.º: substituição da planta anexa (unidade 16), só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:680055:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 substitui o plano de estudos do anexo por quadros que só vêm em imagem no documento original; não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos do curso de Arquitectura (quadros em imagem) - não aplicado, ver nao_aplicavel.",
+    "Alterador 1, 2.º a 4.º: normas próprias (número máximo de alunos, aplicação, transição), não alteram o texto do original - ignorado.",
+    "Alterador 2: altera o anexo da Portaria n.º 872/99, não o original - ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

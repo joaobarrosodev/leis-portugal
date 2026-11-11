@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:656989:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é criada a zona de caça municipal de Envendos, Carvoeiro (processo n.º 3172-DGF), pelo período de seis anos, e transferida a sua gestão para a Câmara Municipal de Mação, com sede na Rua do Padre António Pereira Figueiredo, Mação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1199/2008 renova a zona de caça e fixa novos critérios de acesso e área, mas não dá nova redacção expressa a números do texto da Portaria n.º 1334/2002; não aplicada.",
+  "instrucoes": [
+    "Alterador 1: no n.º 1.º, «com sede na Rua da Junta de Freguesia, Benquerença» passa a «com sede na Rua do Padre António Pereira Figueiredo, Mação»: substituída a unidade 6.",
+    "Alterador 2: renovação da zona de caça (nova área e novos critérios de proporcionalidade): acto próprio sem alteração textual expressa do original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

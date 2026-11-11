@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:149667:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Bodiosa, Campo, Couto de Cima, Ribafeita e Vil Souto, município de Viseu, com a área de 1347 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 2.º (freguesias corrigidas); unidade 7 substituída, mantendo o número 2.º.",
+    "Alt. 1, 2.º a 4.º: anexação de terrenos (424 ha, total 1771 ha) com planta própria, efeitos e entrada em vigor; disposições autónomas que não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

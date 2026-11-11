@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - A Escola organizará um estágio, no 6.º semestre curricular, com duração não inferior a 15 semanas, em horário diurno.",
+    "depois": "1 - A Escola organizará um estágio, no 6.º semestre curricular, com a duração de trezentas e sessenta horas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:664887:por",
+    "alterador": "pt:dre:187772:por"
+  },
+  {
+    "artigo": "unidades 23-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "São condições para a obtenção do grau de bacharel, cumulativamente:\n\na) A aprovação na totalidade das unidades curriculares que integram o plano de estudos a que se refere o n.º 2.º;\n\nb) A realização, com aproveitamento, do estágio a que se refere o n.º 4.º",
+    "depois": "É condição para obtenção do grau de bacharel em Relações Humanas e Comunicação no Trabalho a aprovação na totalidade das unidades curriculares que integram o respectivo plano de estudos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:664887:por",
+    "alterador": "pt:dre:187772:por"
+  },
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos a que se refere o n.º 2.º e do estágio a que se refere o n.º 4.º",
+    "depois": "1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações obtidas nas unidades curriculares que integram o respectivo plano de estudos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:664887:por",
+    "alterador": "pt:dre:187772:por"
+  }
+]

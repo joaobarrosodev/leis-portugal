@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 50-50",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03200/03860388.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626667:por",
+    "alterador": "pt:dre:311029:por"
+  },
+  {
+    "artigo": "unidades 112-112",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03200/03860388.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626667:por",
+    "alterador": "pt:dre:311029:por"
+  },
+  {
+    "artigo": "unidades 131-131",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03200/03860388.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626667:por",
+    "alterador": "pt:dre:311029:por"
+  },
+  {
+    "artigo": "unidades 134-134",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00060012.pdf)",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03200/03860388.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:626667:por",
+    "alterador": "pt:dre:311029:por"
+  }
+]

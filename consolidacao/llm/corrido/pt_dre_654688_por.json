@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:654688:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 628/89 extingue o curso superior de Enologia e cria a licenciatura, mas não altera nem revoga expressamente o texto da Portaria n.º 233/84; não é uma alteração textual.",
+  "instrucoes": [
+    "1.º extingue o curso criado pela Portaria n.º 233/84: efeito material, sem alteração nem revogação expressa do texto; nada aplicado.",
+    "2.º a 8.º regulam a nova licenciatura: não são dirigidos ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

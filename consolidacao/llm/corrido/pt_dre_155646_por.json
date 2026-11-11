@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:155646:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "a) Taxa equivalente ao produto da taxa de paridade central do escudo no mecanismo cambial do Sistema Monetário Europeu, à data da primeira colocação do empréstimo, face à moeda que, naquela data, o IGCP tiver por mais conveniente em função das condições prospectivas do mercado, e da taxa estabelecida oficialmente para a conversão de tal moeda em euros;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação da alínea a) do n.º 11 (corpo e alínea b) com '...' ficam); substituída a unidade 20."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

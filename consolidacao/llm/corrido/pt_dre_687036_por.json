@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:687036:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é renovada, por um período de seis anos, renovável automaticamente por um único e igual período, a concessão da zona de caça associativa das Mestras de Baixo (processo n.º 2245-DGRF), abrangendo vários prédios rústicos sitos na freguesia de São Mansos, município de Évora, com uma área de 1256 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 anexa o prédio Herdade das Contendas (área total de 1315 ha, com planta em imagem) sem alterar textualmente o original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, artigo único: no n.º 1.º, 'por um período de 12 anos' passa a 'por um período de seis anos' - aplicado na unidade 6.",
+    "Alterador 2: anexação de prédio e nova área total, sem alteração textual - não aplicado, ver nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

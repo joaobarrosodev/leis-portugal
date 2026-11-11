@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:656079:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 15,
+      "texto": "2.º-A\n\nNúmero máximo de alunos\n\n1 - O número máximo de novos alunos a admitir anualmente ao curso não pode exceder 80.\n\n2 - A frequência global do curso não pode exceder 320 alunos.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: aditado o n.º 2.º-A (Número máximo de alunos): inserido a seguir ao n.º 2.º (unidade 15).",
+    "Alterador 2: altera o anexo I da Portaria n.º 929/2000, outro diploma: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
