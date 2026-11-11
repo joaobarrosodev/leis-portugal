@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-08-09'
+version_history:
+  file: portaria-560-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-08-09'
+    amending: pt:dre:204222:por
+    amending_title: Portaria n.º 629/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/560/1991/06/25/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:52:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 629/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-560-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,7 +161,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Salvador, Santa Iria e Póvoa de Santarém, concelho de Santarém, com uma área de 488,0510 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Salvador, Santa Iria e Póvoa de Santarém, município de Santarém, com a área de 406,7610 ha.
+
+> Alterado pelo/a [Portaria n.º 629/97](https://diariodarepublica.pt/dr/detalhe/portaria/629-1997-204222), publicado em 1997-08-08.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 629/97](https://diariodarepublica.pt/dr/detalhe/portaria/629-1997-204222), publicado em 1997-08-08.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, ao Clube de Caçadores da Portela das Padeiras (registo na Direcção-Geral das Florestas n.º 3.740.90), com sede na Estrada Nacional n.º 3, Portela das Padeiras, Santarém, a zona de caça associativa da Portela das Padeiras (processo n.º 620 da Direcção-Geral das Florestas).
 

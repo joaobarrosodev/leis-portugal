@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-03-21'
+version_history:
+  file: portaria-562-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-08-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-03-21'
+    amending: pt:dre:613749:por
+    amending_title: Portaria n.º 217/89; Portaria n.º 217/89
+    changes:
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 18-22
 identifiers:
   celex: null
   eli: null
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:29:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 217/89; Portaria n.º
+    217/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-562-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,9 +149,13 @@ Nestes termos, ao abrigo do n.º 4 do artigo 30.º da [Lei n.º 6/85](https://di
 
 Manda o Governo da República Portuguesa, pelo Vice-Primeiro-Ministro, pelos Ministros da Defesa Nacional, da Justiça e das Finanças e do Plano e pelo Secretário de Estado da Administração Pública, o seguinte:
 
-1.º As comissões regionais de objecção de consciência, adiante designadas por comissões, com a competência e composição estabelecidas no artigo 30.º da [Lei n.º 6/85](https://diariodarepublica.pt/dr/detalhe/lei/6-1985-152300), de 4 de Maio, funcionam no continente, em Lisboa, Porto, Coimbra e Évora, e nas Regiões Autónomas dos Açores e da Madeira, respectivamente em Ponta Delgada e no Funchal, em instalações a facultar pelo Ministério da Defesa Nacional.
+1.º As comissões regionais de objecção de consciência, adiante designadas por comissões, com a competência e composição estabelecidas no artigo 30.º da [Lei n.º 6/85](https://diariodarepublica.pt/dr/detalhe/lei/6-1985-152300), de 4 de Maio, funcionam no continente, em Lisboa, Porto, Coimbra e Évora, e nas Regiões Autónomas dos Açores e da Madeira, respectivamente em Ponta Delgada e no Funchal.
 
-2.º As entidades que, nos termos do n.º 2 do artigo 30.º da [Lei n.º 6/85](https://diariodarepublica.pt/dr/detalhe/lei/6-1985-152300), de 4 de Maio, constituem as comissões poderão ser nomeadas em regime de tempo inteiro ou em acumulação, por despacho dos membros do Governo competentes e de acordo com as seguintes regras:
+> Alterado pelo/a [Portaria n.º 217/89](https://diariodarepublica.pt/dr/detalhe/portaria/217-1989-613749), publicado em 1989-03-16.
+
+2.º As entidades que, nos termos do n.º 2 do artigo 30.º da [Lei n.º 6/85](https://diariodarepublica.pt/dr/detalhe/lei/6-1985-152300), de 4 de Maio, constituem as comissões poderão ser nomeadas em regime de exclusividade ou em acumulação, por despacho dos membros do governo competentes e de acordo com as seguintes regras:
+
+> Alterado pelo/a [Portaria n.º 217/89](https://diariodarepublica.pt/dr/detalhe/portaria/217-1989-613749), publicado em 1989-03-16.
 
 a) O Ministro da Justiça nomeará, mediante prévia indicação do Conselho Superior da Magistratura, o juiz de direito, que preside, e um cidadão de reconhecido mérito indicado pelo procurador-geral da República;
 
@@ -148,15 +169,19 @@ b) A requerimento do interessado, com a antecedência mínima de 60 dias;
 
 c) Automaticamente, no caso referido no n.º 5 do artigo 30.º da [Lei n.º 6/85](https://diariodarepublica.pt/dr/detalhe/lei/6-1985-152300), de 4 de Maio.
 
-4.º As comissões serão apoiadas no seu funcionamento por uma secretaria privativa, chefiada por um oficial de justiça de categoria não inferior a escrivão de direito, constituída por funcionários de justiça em número a determinar para cada comissão por despacho conjunto dos Ministros da Defesa Nacional, da Justiça e das Finanças e do Plano.
+4.º As entidades que compõem as comissões, nomeadas pelos Ministros da Defesa Nacional e da Justiça, nos termos do n.º 2.º, têm direito a uma gratificação mensal pelas funções que desempenham.
 
-5.º O recrutamento do pessoal referido no número anterior far-se-á, sob proposta dos presidentes das comissões, por recurso aos instrumentos de mobilidade adequados previstos na legislação em vigor.
+5.º A gratificação mensal referida no número anterior equivale ao vencimento mensal dos juízes de direito calculado nos termos do n.º 1 do artigo 22.º da [Lei n.º 21/85](https://diariodarepublica.pt/dr/detalhe/lei/21-1985-393601), de 30 de Julho, quando a nomeação for feita em regime de acumulação.
 
-6.º As comissões entram em funcionamento no dia imediato ao da nomeação das entidades referidas no n.º 2.º
+6.º Quando a nomeação for feita em regime de exclusividade a gratificação mensal será calculada com base nos artigos 22.º, n.º 1, e 23.º, n.º 1, da [Lei n.º 21/85](https://diariodarepublica.pt/dr/detalhe/lei/21-1985-393601), de 30 de Julho.
 
-7.º Os encargos financeiros decorrentes desta portaria serão suportados pelo orçamento do Ministério da Justiça, devendo o Ministério das Finanças e do Plano providenciar a transferência das dotações necessárias.
+7.º As comissões serão apoiadas no seu funcionamento pela secretaria do tribunal da relação do distrito judicial respectivo, no continente, e pela secretaria dos Tribunais Judiciais de Ponta Delgada e do Funchal, nas regiões autónomas, para o que serão dotadas, por despacho do Ministro da Justiça, dos meios humanos e materiais reputados necessários.
 
-8.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
+8.º As comissões entram em funcionamento no dia imediato ao da nomeação das entidades referidas no n.º 2.º
+
+9.º Os encargos financeiros decorrentes desta portaria serão suportados pelo orçamento do Ministério da Justiça, devendo o Ministério das Finanças e do Plano providenciar a transferência das dotações necessárias.
+
+> Alterado pelo/a [Portaria n.º 217/89](https://diariodarepublica.pt/dr/detalhe/portaria/217-1989-613749), publicado em 1989-03-16.
 
 Presidência do Conselho de Ministros e Ministérios da Defesa Nacional, da Justiça e das Finanças e do Plano.
 

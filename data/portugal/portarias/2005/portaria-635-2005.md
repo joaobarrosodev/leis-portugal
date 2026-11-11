@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-09-20'
+version_history:
+  file: portaria-635-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-08-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-09-20'
+    amending: pt:dre:150774:por
+    amending_title: Portaria n.º 840/2005
+    changes:
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 12-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/635/2005/08/02/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:07:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 840/2005. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-635-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,12 +153,16 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 1.º As embarcações da pesca local só podem calar armadilhas de gaiola para além de 1/4 de milha de distância à costa entre 1 de Junho e 31 de Outubro e de 1/2 de milha entre 1 de Novembro e 31 de Maio, excepto no período estabelecido no número seguinte.
 
-2.º Entre 1 e 30 de Setembro de 2005 é proibida a captura, manutenção a bordo, desembarque e comercialização de polvo (Octopus vulgaris), com todas as artes, pelas embarcações polivalentes.
+2.º Entre 1 e 30 de Setembro de 2005 é proibida a captura, manutenação a bordo, desembarque e comercialização do polvo (Octopus vulgaris).
+
+> Alterado pelo/a [Portaria n.º 840/2005](https://diariodarepublica.pt/dr/detalhe/portaria/840-2005-150774), publicado em 2005-09-19.
 
 3.º É proibida a pesca do polvo com utensílios de dilacerar - toneira e piteira - entre 1 de Agosto e 30 de Outubro.
 
 4.º É proibida a captura, manutenção a bordo, desembarque e comercialização de polvo (Octopus vulgaris) ao domingo, entre 1 de Junho e 31 de Outubro.
 
-5.º O presente despacho aplica-se entre 1 de Agosto de 2005 e 31 de Julho de 2006 nas áreas de jurisdição compreendidas entre a Delegação Marítima de Sagres e a Capitania de Vila Real de Santo António.
+5.º A presente portaria aplica-se, até 31 de Julho de 2006, na zona delimitada a norte pela linha da costa, a sul e a leste pelo limite da subárea do continente da ZEE nacional e a oeste pelo meridiano que passa pelo farol do cabo de São Vicente (8º 59'8"W).
+
+> Alterado pelo/a [Portaria n.º 840/2005](https://diariodarepublica.pt/dr/detalhe/portaria/840-2005-150774), publicado em 2005-09-19.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas, em 13 de Julho de 2005.

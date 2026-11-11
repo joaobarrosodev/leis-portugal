@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:280479:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-02-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6dba33122ddd769e"
+   ]
+  },
+  {
+   "date": "2002-04-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:301250:por",
+     "title": "Declaração de Rectificação n.º 16/2002",
+     "published": "2002-04-04",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/16-2002-301250"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-5"
+   ],
+   "fragments": [
+    "16ff80efb0468eef"
+   ]
+  }
+ ],
+ "fragments": {
+  "6dba33122ddd769e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Fevereiro\n\nO Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:\n\nÉ ratificada a Convenção entre a República Portuguesa e o Reino da Dinamarca para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa em 14 de Dezembro de 2000, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 6/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/6-2002-280476), em 20 de Dezembro de 2001.\n\nAssinado em 14 de Fevereiro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Fevereiro de 2002.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "16ff80efb0468eef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2002-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 16/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-2002-301250), publicado em 2002-04-04."
+   ],
+   "markdown": "de 23 de Fevereiro\n\nO Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:\n\nÉ ratificada a Convenção entre a República Portuguesa e o Reino da Dinamarca para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa em 14 de Dezembro de 2000, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 6/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/6-2002-280476), em 20 de Dezembro de 2001.\n\nAssinado em 11 de Fevereiro de 2002.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 16/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-2002-301250), publicado em 2002-04-04.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Fevereiro de 2002.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

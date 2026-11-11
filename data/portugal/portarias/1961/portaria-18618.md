@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-10-11'
+version_history:
+  file: portaria-18618.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-10-11'
+    amending: pt:dre:311823:por
+    amending_title: Portaria n.º 601/75
+    changes:
+    - Altera Artigo unidades 27-27
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:02:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 601/75. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1961/portaria-18618.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,7 +162,9 @@ Os infractores ficarão sujeitos às penalidades previstas nas disposições leg
 
 10.º Os preços referidos nos n.os 8.º e 9.º poderão ser alterados por simples despacho do Secretário de Estado da Agricultura, sob proposta da Direcção-Geral dos Serviços Agrícolas.
 
-11.º A inspecção das culturas para a produção de semente competirá à Estação de Melhoramento de Plantas, que poderá recorrer à colaboração dos organismos produtores da semente-base. A certificação da semente produzida será feita nos termos do que estabelece a [Portaria n.º 16769](https://diariodarepublica.pt/dr/detalhe/portaria/16769-1958-352556), de 17 de Julho de 1958.
+11.º Competirá à Estação de Ensaio de Sementes a inspecção das cultivares para certificação. A certificação de semente produzida será efectuada nos termos da [Portaria n.º 16769](https://diariodarepublica.pt/dr/detalhe/portaria/16769-1958-352556), de 17 de Julho de 1958, e as alterações expressas neste diploma.
+
+> Alterado pelo/a [Portaria n.º 601/75](https://diariodarepublica.pt/dr/detalhe/portaria/601-1975-311823), publicado em 1975-10-11.
 
 12.º Por se reconhecer toda a vantagem em iniciar já em 1961 a produção de híbridos duplos em maior escala, fica a Direcção-Geral dos Serviços Agrícolas, para este ano, autorizada a aceitar inscrições dos produtores sem observância dos prazos legais de inscrição em vigor.
 

@@ -1,0 +1,410 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:385260:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-05-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75bbda465d865b93",
+    "e26b67f35e626dd7",
+    "e73ec5ca1a2e03ab",
+    "7342f7b1dcac3873",
+    "8a6e377efc398548",
+    "0c7a6a7f14bd9994",
+    "396cfe66f6d1ddf2",
+    "c8ff3660f02a530b",
+    "14e0537daeb8742f",
+    "7420219ec6ed5eab",
+    "478a36003bcc9b5a",
+    "f0d4ec083aa32114",
+    "0c6f1396a9bac449",
+    "78ecccdc4f818f14",
+    "91e64baa844e3948",
+    "5c2a465cc17cc91c",
+    "dadd58aceecd07b3",
+    "5ddb6f7ad6c57fbc",
+    "6487e529c0050955",
+    "ca307e3ea5739a97",
+    "01f47faf79be30f5",
+    "fb802fece105f203",
+    "d5338821518d8917",
+    "dfde1923a501cd90",
+    "cdab4f0f8cd1a9a8",
+    "0cf67b5e894d6285",
+    "7884ca82368af2a5",
+    "7343f4c9f048f203",
+    "6ca522390246bac8",
+    "df4d6b0a964f8d66",
+    "55ee6860320e2fb0",
+    "7e855a43bfe79a8d",
+    "6767e1ac6b736398"
+   ]
+  },
+  {
+   "date": "2000-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:515269:por",
+     "title": "Decreto Regulamentar Regional n.º 14/2000/M",
+     "published": "2000-03-21",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/14-2000-515269"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 19.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "75bbda465d865b93",
+    "e26b67f35e626dd7",
+    "e73ec5ca1a2e03ab",
+    "7342f7b1dcac3873",
+    "8a6e377efc398548",
+    "0c7a6a7f14bd9994",
+    "396cfe66f6d1ddf2",
+    "c8ff3660f02a530b",
+    "a91fc0405d749263",
+    "7420219ec6ed5eab",
+    "478a36003bcc9b5a",
+    "f0d4ec083aa32114",
+    "0c6f1396a9bac449",
+    "78ecccdc4f818f14",
+    "91e64baa844e3948",
+    "5c2a465cc17cc91c",
+    "dadd58aceecd07b3",
+    "5ddb6f7ad6c57fbc",
+    "6487e529c0050955",
+    "ca307e3ea5739a97",
+    "01f47faf79be30f5",
+    "fb802fece105f203",
+    "56fb06af45020536",
+    "73942f21a9cd680a",
+    "cdab4f0f8cd1a9a8",
+    "0cf67b5e894d6285",
+    "7884ca82368af2a5",
+    "7343f4c9f048f203",
+    "6ca522390246bac8",
+    "df4d6b0a964f8d66",
+    "55ee6860320e2fb0",
+    "7e855a43bfe79a8d",
+    "6767e1ac6b736398",
+    "9885421df04d2a0d"
+   ]
+  }
+ ],
+ "fragments": {
+  "75bbda465d865b93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprova a orgânica da Direcção Regional das Comunidades Europeias e da Cooperação Externa\n\nO [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, que define as bases da orgânica do novo Governo Regional, remete para este as reestruturações orgânicas decorrentes da sua aplicação.\n\nNestes termos, o [Decreto Regulamentar Regional n.º 4-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-a-1997-230948), de 12 de Fevereiro, aprovou a orgânica da Secretaria Regional de Economia e Cooperação Externa, a qual integra a Direcção Regional das Comunidades Europeias e da Cooperação Externa, pelo que urge proceder à definição da orgânica e funcionamento desta direcção regional.\n\nAssim:\n\nNos termos do n.º 2 do artigo 12.º do [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, e do n.º 2 do artigo 3.º do [Decreto Regulamentar Regional n.º 4-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-a-1997-230948), de 12 de Fevereiro, ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição da República Portuguesa e da alínea c) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "e26b67f35e626dd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovada a orgânica da Direcção Regional das Comunidades Europeias e da Cooperação Externa, adiante designada abreviadamente por DRCE, publicada em anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "e73ec5ca1a2e03ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Conselho do Governo Regional em 20 de Março de 1997.\n\nPelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.\n\nAssinado em 10 de Abril de 1997.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.\n\nORGÂNICA DA DIRECÇÃO REGIONAL DAS COMUNIDADES EUROPEIAS E DA COOPERAÇÃO EXTERNA"
+  },
+  "7342f7b1dcac3873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições"
+  },
+  "8a6e377efc398548": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direcção Regional das Comunidades Europeias e da Cooperação Externa (DRCE) é o departamento do Governo Regional a que se refere a alínea c) do n.º 1 do artigo 3.º do [Decreto Regulamentar Regional n.º 4-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-a-1997-230948), de 12 de Fevereiro, que aprovou a orgânica da Secretaria Regional da Economia e Cooperação Externa, cujas atribuições, estrutura interna, funcionamento e pessoal constam dos artigos seguintes."
+  },
+  "0c7a6a7f14bd9994": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - Cabe à DRCE assessorar o Secretário Regional na execução da política definida pelo Governo Regional nos domínios dos assuntos europeus, do investimento estrangeiro e da cooperação externa.\n\n2 - Incumbe à DRCE, designadamente:\n\na) Promover e assegurar a coordenação com os vários departamentos da administração pública regional, tendo em vista a definição das posições a assumir pelo Governo Regional junto da Comissão Interministerial para os Assuntos Comunitários e das diferentes instituições da União Europeia;\n\nb) Acompanhar, a nível regional, as acções de adaptação e implementação relacionadas com a integração europeia;\n\nc) Propor ao Governo Regional as medidas adequadas à preparação das estruturas regionais face às exigências da integração europeia;\n\nd) Promover os estudos indispensáveis à participação da Região no processo de decisão comunitário e intervir em defesa dos interesse da Região;\n\ne) Preparar um relatório anual sobre a participação da Região no processo de construção da União Europeia;\n\nf) Propor e coordenar, a nível regional, todas as acções de difusão, divulgação e respectiva implementação relacionadas com a integração europeia e com as instituições europeias;\n\ng) Assegurar a coordenação, a nível da administração pública regional, das acções a prosseguir com os Estados membros da União Europeia e da EFTA no domínio das relações bilaterais económicas e com a EFTA, OCDE, OMC e FAO no domínio das relações institucionais;\n\nh) Assegurar, a nível técnico, a coordenação das acções no âmbito das relações institucionais com as organizações internacionais estreitamente relacionadas com a União Europeia, nomeadamente com a Assembleia das Regiões da Europa, a Conferência das Regiões Periféricas Marítimas da Europa, o Centro Europeu de Desenvolvimento Regional e o Conselho da Europa;\n\ni) Assegurar a coordenação e o secretariado das missões do Banco Europeu de Investimento (BEI) e do Fundo de Desenvolvimento Social do Conselho da Europa;\n\nj) Apoiar a participação da Região nas diferentes organizações, conferências e reuniões onde, ainda que indirectamente, sejam tratadas questões institucionais comunitárias ou de cooperação;\n\nk) Assegurar o secretariado das reuniões da Comissão Regional para os Assuntos das Comunidades Europeias;\n\nl) Propor todas as acções de promoção, estímulo e captação de investimento estrangeiro na Região."
+  },
+  "396cfe66f6d1ddf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços"
+  },
+  "c8ff3660f02a530b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I"
+  },
+  "14e0537daeb8742f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEstrutura\n\nA DRCE compreende os seguintes órgãos e serviços:\n\na) Director regional;\n\nb) Direcção de Serviços dos Assuntos Jurídicos;\n\nc) Direcção de Serviços dos Assuntos Europeus;\n\nd) Direcção de Serviços das Relações Externas e Cooperação;\n\ne) Serviços de Informática;\n\nf) Centro de Informação e Documentação;\n\ng) Repartição dos Serviços Administrativos."
+  },
+  "7420219ec6ed5eab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Director regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Director regional"
+  },
+  "478a36003bcc9b5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - Compete ao director regional superintender a acção de todos os órgãos e serviços da DRCE e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou decisão superior.\n\n2 - Compete especificamente ao director regional:\n\na) Assegurar a representação da Região na Comissão Interministerial para os Assuntos Comunitários;\n\nb) Convocar e presidir a Comissão Regional para os Assuntos das Comunidades Europeias;\n\nc) Estabelecer a conveniente articulação com os órgãos nacionais no âmbito do investimento estrangeiro;\n\nd) Assegurar a representação da Região junto das regiões ultraperiféricas, bem como a coordenação das questões que lhes digam respeito.\n\n3 - Para além das competências referidas nos números anteriores, poderão ser atribuídas outras, mediante despacho do Secretário Regional.\n\n4 - O director regional pode delegar ou subdelegar competências nos termos da lei.\n\n5 - O director regional pode, no âmbito do número anterior, avocar as competências dos directores de serviço e chefes de divisão da DRCE.\n\n6 - Nas suas faltas ou impedimentos, será o director regional substituído por um dirigente ou por um técnico superior designado para o efeito."
+  },
+  "f0d4ec083aa32114": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Direcção de Serviços dos Assuntos Jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Direcção de Serviços dos Assuntos Jurídicos"
+  },
+  "0c6f1396a9bac449": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competências e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências e estrutura\n\n1 - À Direcção de Serviços dos Assuntos Jurídicos, abreviadamente designada por DSAJ, compete, nomeadamente:\n\na) Exercer funções de consultoria jurídica em todos os assuntos que lhe sejam submetidos no âmbito das atribuições da DRCE, incluindo o apoio e colaboração na redacção de projectos de diplomas legais;\n\nb) Acompanhar e coordenar, a nível regional, toda a actividade jurídica ligada aos assuntos comunitários relacionados com o seu âmbito de competência;\n\nc) Acompanhar, a nível regional, todas as acções de carácter jurídico de adaptação e implementação relacionadas com a integração nas Comunidades Europeias;\n\nd) Acompanhar a evolução das convenções internacionais no âmbito da União Europeia;\n\ne) Elaborar estudos e emitir pareceres sobre questões relacionadas com o direito comunitário;\n\nf) Assegurar, a nível regional, a coordenação dos assuntos decorrentes da aplicação do direito comunitário nas fases pré-contenciosa e contenciosa em matérias de interesse regional;\n\ng) Prestar assessoria às outras direcções de serviços em matérias de natureza jurídica;\n\nh) Organizar e manter actualizado um ficheiro informático da legislação nacional e regional relativa à aplicação do direito comunitário.\n\n2 - A DSAJ compreende as seguintes divisões:\n\na) Divisão das Questões Jurídico-Institucionais;\n\nb) Divisão da Informação Jurídica."
+  },
+  "78ecccdc4f818f14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Direcção de Serviços dos Assuntos Europeus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Direcção de Serviços dos Assuntos Europeus"
+  },
+  "91e64baa844e3948": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Competências e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências e estrutura\n\n1 - À Direcção de Serviços dos Assuntos Europeus, abreviadamente designada por DSAE, compete, nomeadamente:\n\na) Acompanhar e coordenar, a nível regional, os assuntos relativos às questões de política económica e financeira relacionados com a integração europeia;\n\nb) Preparar as missões do BEI e do Fundo de Desenvolvimento Social;\n\nc) Elaborar informações e estudos económicos;\n\nd) Elaborar estudos e pareceres, em cooperação com os demais organismos regionais, sobre assuntos com especial relevância no domínio das suas atribuições;\n\ne) Organizar e manter actualizada uma base de dados estatísticos da Região, de modo a servir de suporte à negociação, no âmbito da União Europeia, das matérias da competência da DRCE.\n\n2 - Compete especificamente ao director de serviços:\n\na) Nas faltas ou impedimentos do director regional, assegurar, em sua substituição, a representação da Região junto da Comissão Interministerial para os Assuntos Comunitários;\n\nb) A vice-presidência da Comissão Regional para os Assuntos das Comunidades Europeias.\n\n3 - A DSAE compreende as seguintes divisões:\n\na) Divisão das Questões Económicas e Financeiras;\n\nb) Divisão da Agricultura e Pescas."
+  },
+  "5c2a465cc17cc91c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Direcção de Serviços das Relações Externas e Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Direcção de Serviços das Relações Externas e Cooperação"
+  },
+  "dadd58aceecd07b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competências e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências e estrutura\n\n1 - À Direcção de Serviços das Relações Externas e Cooperação, abreviadamente designada por DSRE, compete, nomeadamente:\n\na) Acompanhar e coordenar, a nível regional, os assuntos relativos às relações externas, à cooperação, ao ambiente e ao desenvolvimento;\n\nb) Elaborar estudos e pareceres, em cooperação com os demais organismos regionais, sobre assuntos com especial relevância no domínio das suas atribuições;\n\nc) Acompanhar e coordenar as acções relacionadas com as organizações internacionais;\n\nd) Acolher e orientar os potenciais investidores estrangeiros e prestar-lhes todas as informações e esclarecimentos em matéria da sua competência;\n\ne) Proceder ao registo, para fins de informação administrativa e estatística, da realização das operações de investimento estrangeiro, bem como da respectiva liquidação;\n\nf) Proceder ao envio periódico ao ICEP da informação administrativa e estatística das operações (realização e liquidação) de investimento estrangeiro realizadas na Região;\n\ng) Manter um ficheiro actualizado de todas as empresas com participação de capital estrangeiro e compilar todos os dados estatísticos e outros elementos de informação que interessem.\n\n2 - Compete especificamente ao director de serviços:\n\na) Representar a Região junto da Comissão Nacional da FAO;\n\nb) A vice-presidência da Comissão Regional para os Assuntos das Comunidades Europeias.\n\n3 - A DSRE compreende as seguintes divisões:\n\na) Divisão da Cooperação e Desenvolvimento;\n\nb) Divisão das Relações Externas e Investimento Estrangeiro."
+  },
+  "5ddb6f7ad6c57fbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Serviços de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Serviços de Informática"
+  },
+  "6487e529c0050955": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências\n\n1 - Os Serviços de Informática funcionam na dependência directa do director regional e compete-lhes:\n\na) Proceder ao estudo das aplicações susceptíveis de serem informatizadas e efectuar as respectivas análises funcionais, desenvolvimento e testes de aceitação;\n\nb) Propor as alterações necessárias ao sistema informático - hardware e software -, de modo a torná-lo mais eficiente e adequado às necessidades da DRCE;\n\nc) Assegurar a gestão e o funcionamento do sistema informático da DRCE;\n\nd) Zelar pela manutenção e renovação do equipamento informático.\n\n2 - Os Serviços de Informática são chefiados por um chefe de divisão."
+  },
+  "ca307e3ea5739a97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Centro de Informação e Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Centro de Informação e Documentação"
+  },
+  "01f47faf79be30f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências\n\n1 - O Centro de Informação e Documentação funciona na dependência directa do director regional e compete-lhe:\n\na) Assegurar a organização, tratamento e difusão da documentação relativa à União Europeia;\n\nb) Acompanhar os assuntos no domínio da cultura, educação, investigação, informação, saúde e juventude;\n\nc) Estudar e elaborar propostas no domínio da formação;\n\nd) Assegurar a gestão e funcionamento da biblioteca.\n\n2 - O Centro de Informação e Documentação é dirigido por um chefe de divisão."
+  },
+  "fb802fece105f203": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VIII — Repartição dos Serviços Administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VIII — Repartição dos Serviços Administrativos"
+  },
+  "d5338821518d8917": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Natureza e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Natureza e estrutura\n\n1 - A Repartição dos Serviços Administrativos, abreviadamente designada por RSA, é o serviço de apoio administrativo e logístico da DRCE e funciona na directa dependência do director regional.\n\n2 - A RSA compreende as seguintes secções:\n\na) Secção de Registo e Expediente;\n\nb) Secção do Secretariado Administrativo;\n\nc) Secção de Arquivo;\n\nd) Secção de Pessoal;\n\ne) Secção de Contabilidade e Património."
+  },
+  "dfde1923a501cd90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências\n\nÀ RSA compete:\n\na) Assegurar o apoio administrativo e logístico a todos os serviços dependentes da DRCE, bem como à Comissão Regional para os Assuntos das Comunidades Europeias;\n\nb) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRCE, designadamente organizar e manter actualizados os ficheiros de cadastro e dos processos individuais;\n\nc) Assegurar o registo, encaminhamento, arquivo, expedição de documentação, contabilidade e património;\n\nd) Assegurar e controlar a execução orçamental da DRCE;\n\ne) Assegurar a aquisição do material necessário ao bom funcionamento dos serviços, bem como a respectiva gestão;\n\nf) Velar pela segurança e conservação das instalações e dos equipamentos."
+  },
+  "cdab4f0f8cd1a9a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Pessoal"
+  },
+  "0cf67b5e894d6285": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Grupos de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Grupos de pessoal\n\nO pessoal do quadro da DRCE é agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico-profissional;\n\nd) Pessoal de informática;\n\ne) Pessoal administrativo;\n\nf) Pessoal auxiliar."
+  },
+  "7884ca82368af2a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Quadro de pessoal\n\nO quadro de pessoal da Direcção Regional das Comunidades Europeias é o constante do mapa anexo ao presente diploma."
+  },
+  "7343f4c9f048f203": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime\n\nO regime aplicável ao pessoal da DRCE é, com garantia dos direitos já adquiridos, o genericamente estabelecido para os trabalhadores da administração regional autónoma, sem prejuízo do que esteja ou venha a ser estabelecido relativamente às carreiras de regime especial."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "df4d6b0a964f8d66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transição de pessoal\n\nA transição do pessoal do quadro da Direcção Regional das Comunidades Europeias e da Cooperação Externa para o quadro anexo ao presente diploma far-se-á pela aplicação deste diploma e elaboração da lista nominativa, aprovada pelo Secretário Regional, com dispensa de quaisquer outras formalidades legais, sempre que se tratar de pessoal com vínculo à Administração Pública e o provimento se processar em categoria igual ou equivalente à que detinha no respectivo quadro de origem; quando não se verifique coincidência de índice, o provimento far-se-á para o escalão cujo índice seja imediatamente superior na estrutura da categoria para o qual se processa a integração."
+  },
+  "55ee6860320e2fb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Concursos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Concursos pendentes\n\nOs concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os que lhes correspondam no mapa anexo ao presente diploma."
+  },
+  "7e855a43bfe79a8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Encargos\n\nOs encargos resultantes da aplicação do presente diploma são suportados por dotação a inscrever no orçamento da secretaria regional da tutela."
+  },
+  "6767e1ac6b736398": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Regime retributivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime retributivo\n\nO regime retributivo aplicável ao pessoal da DRCE é o constante do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e demais legislação e regulamentação complementares.\n\nMAPA ANEXO A QUE SE REFERE O ARTIGO 13.º\n\nDirecção Regional das Comunidades Europeias e da Cooperação Externa\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/109b00/22942300.pdf)"
+  },
+  "a91fc0405d749263": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 3.º — Estrutura\n\nA DRCE compreende os seguintes órgãos e serviços:\n\na) Director regional;\n\nb) Direcção de Serviços dos Assuntos Jurídicos;\n\nc) Direcção de Serviços dos Assuntos Europeus;\n\nd) Direcção de Serviços das Relações Externas e Cooperação;\n\ne) Serviços de Informática;\n\nf) Centro de Informação e Documentação;\n\ng) Departamento dos Serviços Administrativos e de Arquivo.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21."
+  },
+  "56fb06af45020536": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Natureza e estrutura",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 10.º — Natureza e estrutura\n\n1 - O Departamento dos Serviços Administrativos e de Arquivo, abreviadamente designado por DSAA, é o serviço de apoio administrativo e logístico da DRCE e funciona na directa dependência do director regional.\n\n2 - O DSAA compreende as seguintes secções:\n\na) Secção do Secretariado Administrativo;\n\nb) Secção de Pessoal;\n\nc) Secção de Registo e Expediente;\n\nd) Secção de Arquivo;\n\ne) Secção de Contabilidade e Património.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21."
+  },
+  "73942f21a9cd680a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 11.º — Competências\n\nAo DSAA compete:\n\na) Assegurar o apoio administrativo e logístico a todos os serviços dependentes da DRCE, bem como à Comissão Regional para os Assuntos das Comunidades Europeias;\n\nb) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRCE, designadamente organizar e manter actualizados os ficheiros de cadastro e dos processos individuais;\n\nc) Assegurar a recepção, classificação, registo e encaminhamento de documentos;\n\nd) Assegurar o tratamento, acondicionamento e gestão de documentos e proceder à organização do serviço de arquivo;\n\ne) Assegurar e controlar a execução orçamental da DRCE;\n\nf) Assegurar a aquisição do material necessário ao bom funcionamento dos serviços, bem como a respectiva gestão;\n\ng) Velar pela segurança e conservação das instalações e dos equipamentos.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21."
+  },
+  "9885421df04d2a0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Chefes de departamento",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 19.º — Chefes de departamento\n\n1 - É criado no quadro de pessoal da DRCE um lugar de chefe de departamento, a extinguir quando vagar.\n\n2 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.\n\n3 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontram posicionados.\n\n4 - Quando da transição resulte um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeito de progressões futuras.\n\n5 - A transição produz efeitos a partir da data de integração na nova categoria.\n\n6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21."
+  }
+ }
+}

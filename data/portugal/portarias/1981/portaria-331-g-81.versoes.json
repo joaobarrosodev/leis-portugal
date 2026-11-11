@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:275669:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1981-04-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8a7a3a89a7abf62c"
+   ]
+  },
+  {
+   "date": "1985-03-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:326324:por",
+     "title": "Decreto-Lei n.º 59/85",
+     "published": "1985-03-11",
+     "dre_path": "/dr/detalhe/decreto-lei/59-1985-326324"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 21-22"
+   ],
+   "fragments": [
+    "f4f6a0c93a3798ee"
+   ]
+  }
+ ],
+ "fragments": {
+  "8a7a3a89a7abf62c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Abril\n\nAo abrigo do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 45835](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45835-1964-579491), de 27 de Julho de 1964, e no artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, o seguinte:\n\n1.º As margarinas ficam sujeitas ao regime de margens de comercialização fixadas, a que se refere a alínea e) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.\n\n2.º As margens máximas de comercialização das margarinas são as seguintes:\n\na) Armazenista: margem de 10% calculada sobre o preço de aquisição à porta da fábrica ou seus armazéns;\n\nb) Retalhista: margem de 15% calculada sobre o preço de aquisição à porta do retalhista, já acrescido do imposto de transacções, quando for devido.\n\n3.º - 1 - Para efeitos da presente portaria, o preço à porta da fábrica é o preço praticado pelo produtor.\n\n2 - Para efeitos da presente portaria, considera-se o importador e as empresas embaladoras equiparadas ao produtor.\n\n4.º Qualquer que seja o número de agentes intervenientes no circuito de comercialização, não é permitida a utilização de margens que, no seu conjunto, ultrapassem os limites fixados no n.º 2.º\n\n5.º - 1 - Os vendedores por grosso são obrigados, no momento da entrega do produto, a fornecer aos compradores documentos de venda, dos quais constarão os seguintes elementos:\n\na) Nome, sede ou domicílio do vendedor e do comprador;\n\nb) Quantidade e tipo do produto transaccionado;\n\nc) Preço de venda no local da entrega.\n\n2 - Os compradores por grosso são obrigados a exibir, quando solicitados pelas entidades competentes, os documentos a que se refere o n.º 1.\n\n3 - A não apresentação pelo comprador do documento de venda, designadamente por não lhe ter sido passado pelo vendedor ou por se ter extraviado, não constitui para aquele circunstância dirimente da sua responsabilidade criminal.\n\n4 - Consideram-se inexistentes os documentos de venda que não contenham os elementos referidos no n.º 1.\n\n5 - A infracção ao disposto no presente número constitui contravenção punível com multa de 10000$00.\n\n6.º As margarinas com as características específicas da Flora e da Becel só poderão ser vendidas pelas fábricas ou seus armazéns aos adquirentes que possuam rede de frio completa (transporte e armazém).\n\n7.º Na embalagem de todas as margarinas deve constar, de forma bem legível e facilmente visível pelo consumidor, a data de fabrico, não podendo a sua comercialização exceder o prazo de cem dias sobre aquela data.\n\n8.º Quando for ultrapassado o prazo de validade da margarina, fica o fabricante obrigado a receber o produto por 50% do seu valor de custo.\n\n9.º - 1 - Os retalhistas poderão abastecer-se nas empresas produtoras ou seus armazéns desde que o produto esteja devidamente embalado, ficando aquelas empresas obrigadas a satisfazer encomendas, aos preços de venda à porta de fábrica, para entregas, por uma só vez, dos seguintes quantitativos mínimos:\n\na) De diversos tipos sortidos em qualquer embalagem - 60 caixas;\n\nb) Apenas em embalagens de 1 kg - 25 caixas.\n\n2 - A infracção ao disposto no n.º 1 constitui contravenção punível com multa de 10000$00.\n\n10.º Os produtos a que se refere esta portaria que à data da sua publicação se encontrem embalados serão obrigatoriamente vendidos, nos diferentes estádios de actividade económica, aos preços anteriormente estabelecidos.\n\n11.º As margens referidas no n.º 2.º poderão ser alteradas por despacho do Secretário de Estado do Comércio.\n\n12.º O disposto no presente diploma aplica-se apenas ao continente.\n\n13.º Fica revogada a [Portaria n.º 42-G/80](https://diariodarepublica.pt/dr/detalhe/portaria/42-g-1980-275788), de 15 de Fevereiro.\n\n14.º As dúvidas resultantes da aplicação da presente portaria serão resolvidas por despacho do Secretário de Estado do Comércio.\n\n15.º Esta portaria entra em vigor no dia imediato ao da sua publicação.\n\nSecretaria de Estado do Comércio, 2 de Abril de 1981. - O Secretário de Estado do Comércio, Walter Waldemar Pego Marques."
+  },
+  "f4f6a0c93a3798ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1985-03-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 59/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1985-326324), publicado em 1985-03-11."
+   ],
+   "markdown": "de 6 de Abril\n\nAo abrigo do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 45835](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45835-1964-579491), de 27 de Julho de 1964, e no artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, o seguinte:\n\n1.º As margarinas ficam sujeitas ao regime de margens de comercialização fixadas, a que se refere a alínea e) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.\n\n2.º As margens máximas de comercialização das margarinas são as seguintes:\n\na) Armazenista: margem de 10% calculada sobre o preço de aquisição à porta da fábrica ou seus armazéns;\n\nb) Retalhista: margem de 15% calculada sobre o preço de aquisição à porta do retalhista, já acrescido do imposto de transacções, quando for devido.\n\n3.º - 1 - Para efeitos da presente portaria, o preço à porta da fábrica é o preço praticado pelo produtor.\n\n2 - Para efeitos da presente portaria, considera-se o importador e as empresas embaladoras equiparadas ao produtor.\n\n4.º Qualquer que seja o número de agentes intervenientes no circuito de comercialização, não é permitida a utilização de margens que, no seu conjunto, ultrapassem os limites fixados no n.º 2.º\n\n5.º - 1 - Os vendedores por grosso são obrigados, no momento da entrega do produto, a fornecer aos compradores documentos de venda, dos quais constarão os seguintes elementos:\n\na) Nome, sede ou domicílio do vendedor e do comprador;\n\nb) Quantidade e tipo do produto transaccionado;\n\nc) Preço de venda no local da entrega.\n\n2 - Os compradores por grosso são obrigados a exibir, quando solicitados pelas entidades competentes, os documentos a que se refere o n.º 1.\n\n3 - A não apresentação pelo comprador do documento de venda, designadamente por não lhe ter sido passado pelo vendedor ou por se ter extraviado, não constitui para aquele circunstância dirimente da sua responsabilidade criminal.\n\n4 - Consideram-se inexistentes os documentos de venda que não contenham os elementos referidos no n.º 1.\n\n5 - A infracção ao disposto no presente número constitui contravenção punível com multa de 10000$00.\n\n6.º As margarinas com as características específicas da Flora e da Becel só poderão ser vendidas pelas fábricas ou seus armazéns aos adquirentes que possuam rede de frio completa (transporte e armazém).\n\n7.º - (Revogado.)\n\n8.º - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 59/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1985-326324), publicado em 1985-03-11.\n\n9.º - 1 - Os retalhistas poderão abastecer-se nas empresas produtoras ou seus armazéns desde que o produto esteja devidamente embalado, ficando aquelas empresas obrigadas a satisfazer encomendas, aos preços de venda à porta de fábrica, para entregas, por uma só vez, dos seguintes quantitativos mínimos:\n\na) De diversos tipos sortidos em qualquer embalagem - 60 caixas;\n\nb) Apenas em embalagens de 1 kg - 25 caixas.\n\n2 - A infracção ao disposto no n.º 1 constitui contravenção punível com multa de 10000$00.\n\n10.º Os produtos a que se refere esta portaria que à data da sua publicação se encontrem embalados serão obrigatoriamente vendidos, nos diferentes estádios de actividade económica, aos preços anteriormente estabelecidos.\n\n11.º As margens referidas no n.º 2.º poderão ser alteradas por despacho do Secretário de Estado do Comércio.\n\n12.º O disposto no presente diploma aplica-se apenas ao continente.\n\n13.º Fica revogada a [Portaria n.º 42-G/80](https://diariodarepublica.pt/dr/detalhe/portaria/42-g-1980-275788), de 15 de Fevereiro.\n\n14.º As dúvidas resultantes da aplicação da presente portaria serão resolvidas por despacho do Secretário de Estado do Comércio.\n\n15.º Esta portaria entra em vigor no dia imediato ao da sua publicação.\n\nSecretaria de Estado do Comércio, 2 de Abril de 1981. - O Secretário de Estado do Comércio, Walter Waldemar Pego Marques."
+  }
+ }
+}

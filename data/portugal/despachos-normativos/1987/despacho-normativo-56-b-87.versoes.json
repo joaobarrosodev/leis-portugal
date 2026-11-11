@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:259913:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1987-07-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4bc1b278a734aebc"
+   ]
+  },
+  {
+   "date": "1987-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:496106:por",
+     "title": "Despacho Normativo n.º 85/87",
+     "published": "1987-10-24",
+     "dre_path": "/dr/detalhe/despacho-normativo/85-1987-496106"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-8"
+   ],
+   "fragments": [
+    "0e27bc264b678aa8"
+   ]
+  }
+ ],
+ "fragments": {
+  "4bc1b278a734aebc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ouvidos os Ministros da República para as Regiões Autónomas dos Açores e da Madeira:\n\nNo âmbito da organização do mercado das frutas e produtos hortícolas e ao abrigo dos n.os 4.º e 10.º da [Portaria n.º 63-J/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-j-1986-245106), de 1 de Março, com a redacção que lhe foi dada pela [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), de 6 de Agosto, determina-se o seguinte:\n\n1 - Para o continente e para o período de 1 de Julho a 31 de Dezembro de 1987 os contingentes relativamente aos produtos abrangidos pelo [Decreto-Lei n.º 519/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1985-546470), de 31 de Dezembro, são repartidos, consoante as origens, nos seguintes termos:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/14801/00020003.pdf)\n\n2 - A inscrição para a distribuição pelos agentes importadores dos contingentes definidos nos termos do n.º 1 encontra-se aberta:\n\na) Para as cebolas, alhos, limões, uvas de mesa, pêssegos, laranjas e peras, a partir da data da publicação do presente despacho normativo e impreterivelmente até às 17 horas e 30 minutos do décimo dia útil a contar do dia da publicação do presente despacho normativo;\n\nb) Para a couve-flor, tomates e tangerinas, incluindo satsumas, durante os primeiros dez dias úteis do mês anterior ao início do período respectivo.\n\n3 - Os pedidos de importação, preenchidos nos termos do n.º 7.º da [Portaria n.º 63-J/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-j-1986-245106), com a redacção que lhe foi dada pelo n.º 7.º da [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), de 6 de Agosto, deverão ainda conter o preço unitário do produto e ser dirigidos, em carta registada com aviso de recepção, à Direcção-Geral do Comércio Externo, Divisão de Licenciamento e Registo Prévio, Avenida da República, 79, rés-do-chão, 1094 Lisboa Codex, ou entregues contra recibo no mesmo local, nos prazos estabelecidos nas alíneas a) e b) do número anterior.\n\n4 - O montante da caução referida no n.º 8.º da [Portaria n.º 63-J/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-j-1986-245106), de 1 de Março, com a redacção que lhe foi dada pelo n.º 8.º da [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), de 6 de Agosto, é fixado em:\n\n2$50/kg de peso líquido para couve-flor, cebola e tomate;\n\n7$50/kg de peso líquido de alho;\n\n4$00/kg de peso líquido para a laranja, tangerina, incluindo satsuma, limão, uva de mesa, pêra e pêssego.\n\n5 - O contingente será distribuído aos interessados de acordo com os respectivos pedidos.\n\n6 - No caso de os pedidos de importação ultrapassarem o montante do contingente estabelecido, a sua distribuição far-se-á mediante a dedução do excesso proporcionalmente ao montante dos pedidos apresentados.\n\n7 - No caso de os contingentes reservados às regiões autónomas, fixados no [Despacho Normativo n.º 31/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-1987-666499), de 17 de Março, não serem totalmente distribuídos, poderão os saldos ser distribuídos pelo continente.\n\n8 - As declarações de importação emitidas nos períodos em que não são aplicadas restrições quantitativas caducam no início do período em que a importação se encontra contingentada.\n\nMinistérios da Agricultura, Pescas e Alimentação e da Indústria e Comércio, 27 de Julho de 1987. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno."
+  },
+  "0e27bc264b678aa8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1987-10-29",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 85/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/85-1987-496106), publicado em 1987-10-24."
+   ],
+   "markdown": "Ouvidos os Ministros da República para as Regiões Autónomas dos Açores e da Madeira:\n\nNo âmbito da organização do mercado das frutas e produtos hortícolas e ao abrigo dos n.os 4.º e 10.º da [Portaria n.º 63-J/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-j-1986-245106), de 1 de Março, com a redacção que lhe foi dada pela [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), de 6 de Agosto, determina-se o seguinte:\n\n1 - Para o continente e para o período de 1 de Julho a 31 de Dezembro de 1987 os contingentes relativamente aos produtos abrangidos pelo [Decreto-Lei n.º 519/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1985-546470), de 31 de Dezembro, são repartidos, consoante as origens, nos seguintes termos:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/14801/00020003.pdf)\n\n2 - A inscrição para a distribuição pelos agentes importadores dos contingentes definidos nos termos do n.º 1 encontra-se aberta:\n\na) Para as cebolas, alhos, limões, uvas de mesa e pêssegos, nos prazos estabelecidos na alínea b) do n.º 4 do [Despacho Normativo n.º 31/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-1987-666499), de 17 de Março, publicado no Diário da República, 1.ª série, n.º 71, de 26 do mesmo mês;\n\nb) Para as laranjas e peras, a partir da data da publicação do presente despacho normativo e impreterivelmente até às 17 horas e 30 minutos do décimo dia útil a contar do dia da publicação deste despacho normativo;\n\nc) Para a couve-flor, tomates e tangerinas, incluindo satsumas, durante os primeiros dez dias úteis do mês anterior ao início do período respectivo.\n\n> Alterado pelo/a [Despacho Normativo n.º 85/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/85-1987-496106), publicado em 1987-10-24.\n\n3 - Os pedidos de importação, preenchidos nos termos do n.º 7.º da [Portaria n.º 63-J/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-j-1986-245106), com a redacção que lhe foi dada pelo n.º 7.º da [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), de 6 de Agosto, deverão ainda conter o preço unitário do produto e ser dirigidos, em carta registada com aviso de recepção, à Direcção-Geral do Comércio Externo, Divisão de Licenciamento e Registo Prévio, Avenida da República, 79, rés-do-chão, 1094 Lisboa Codex, ou entregues contra recibo no mesmo local, nos prazos estabelecidos nas alíneas a) e b) do número anterior.\n\n4 - O montante da caução referida no n.º 8.º da [Portaria n.º 63-J/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-j-1986-245106), de 1 de Março, com a redacção que lhe foi dada pelo n.º 8.º da [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), de 6 de Agosto, é fixado em:\n\n2$50/kg de peso líquido para couve-flor, cebola e tomate;\n\n7$50/kg de peso líquido de alho;\n\n4$00/kg de peso líquido para a laranja, tangerina, incluindo satsuma, limão, uva de mesa, pêra e pêssego.\n\n5 - O contingente será distribuído aos interessados de acordo com os respectivos pedidos.\n\n6 - No caso de os pedidos de importação ultrapassarem o montante do contingente estabelecido, a sua distribuição far-se-á mediante a dedução do excesso proporcionalmente ao montante dos pedidos apresentados.\n\n7 - No caso de os contingentes reservados às regiões autónomas, fixados no [Despacho Normativo n.º 31/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-1987-666499), de 17 de Março, não serem totalmente distribuídos, poderão os saldos ser distribuídos pelo continente.\n\n8 - As declarações de importação emitidas nos períodos em que não são aplicadas restrições quantitativas caducam no início do período em que a importação se encontra contingentada.\n\nMinistérios da Agricultura, Pescas e Alimentação e da Indústria e Comércio, 27 de Julho de 1987. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno."
+  }
+ }
+}

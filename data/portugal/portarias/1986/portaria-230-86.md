@@ -38,10 +38,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-09-02'
+version_history:
+  file: portaria-230-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-05-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-09-02'
+    amending: pt:dre:219143:por
+    amending_title: Portaria n.º 472/86
+    changes:
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 17-22
+    - Altera Artigo unidades 28-28
+    - Altera Artigo unidades 32-34
+    - Altera Artigo unidades 35-36
+    - Altera Artigo unidades 42-42
+    - Altera Artigo unidades 54-54
 identifiers:
   celex: null
   eli: null
@@ -67,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:43:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 472/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-230-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,23 +164,25 @@ a) Início de realização do investimento - a data do primeiro documento compro
 
 b) Termo de realização do investimento - a data mais recente das facturas ou documentos equivalentes definitivos respeitantes ao investimento;
 
-c) Âmbito do crédito bonificável - o montante determinado pelo valor das facturas definitivas posteriores à data do requerimento, respeitado o definido no n.º 3 do artigo 12.º do [Decreto-Lei n.º 132/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1983-310440), cujos recibos estejam datados entre a primeira e última utilização, acrescida esta não mais de 90 dias, definindo-se como o seu limite o crédito aprovado à data da formalização da candidatura e constante da informação prestada pela instituição de crédito nessa data. Encontram-se excluídos deste âmbito os reforços de crédito após o envio daquela informação, exceptuando-se os que forem originados em súbitas flutuações cambiais, que serão objecto de apreciação casuística;
+c) Âmbito do crédito bonificável - o montante determinado pelo valor das facturas definitivas posteriores à data do requerimento, respeitado o definido no n.º 3 do artigo 12.º do [Decreto-Lei n.º 132/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1983-310440), cujos recibos não datem de mais de 180 dias além do termo de utilização do crédito, excepto para requerimentos anteriores a 15 de Outubro de 1980, em que poderão ser integradas facturas definitivas posteriores a 2 de Maio de 1980. Como seu limite é definido o crédito aprovado à data da formalização da candidatura e constante da informação prestada pela instituição de crédito nessa data;
+
+> Alterado pelo/a [Portaria n.º 472/86](https://diariodarepublica.pt/dr/detalhe/portaria/472-1986-219143), publicado em 1986-08-28.
 
 d) Termo de utilização do crédito - o momento em que o mutuário conclui o levantamento dos fundos postos à sua disposição.
 
 Verificação dos investimentos
 
-3.º Compete ao promotor do investimento fornecer à entidade a quem tenha sido apresentado o processo de candidatura ao SIII, no prazo de 90 dias, contados a partir do termo da realização do investimento ou da entrada em vigor da presente portaria, se já ultrapassado aquele prazo, os seguintes elementos:
+3.º Compete ao promotor do investimento fornecer à entidade a quem tenha sido apresentado o processo de candidatura ao SIII, no prazo de 180 dias, contados a partir do termo da realização do investimento, ou da entrada em vigor da presente portaria, se já ultrapassado aquele prazo, os seguintes elementos:
 
-a) Comprovante da realização do investimento em activo fixo;
+a) Comprovantes da realização do investimento em activo fixo;
 
-b) Mapa discriminativo do equipamento integrado no investimento, de acordo com o modelo referido no anexo III;
+b) Mapa discriminativo do equipamento integrado no investimento de acordo com o modelo referido no anexo III;
 
 c) Mapas modelos n.os 1, 2 e 3 constantes do anexo I;
 
-d) Balancete do Razão geral correspondente aos meses imediatamente anterior e posterior à realização do investimento;
+d) Balancete do Razão geral correspondente aos meses imediatamente anterior e posterior à realização do investimento.
 
-e) Declaração de origem nacional relativamente aos equipamentos de origem interna, passada pelo fabricante dos equipamentos, nos termos do [Decreto n.º 37683](https://diariodarepublica.pt/dr/detalhe/decreto/37683-1949-268585), de 24 de Dezembro de 1949.
+> Alterado pelo/a [Portaria n.º 472/86](https://diariodarepublica.pt/dr/detalhe/portaria/472-1986-219143), publicado em 1986-08-28.
 
 4.º Os documentos referidos no número anterior deverão ser autenticados pelo promotor do investimento, com assinatura, data e carimbo da empresa.
 
@@ -171,7 +194,9 @@ e) Declaração de origem nacional relativamente aos equipamentos de origem inte
 
 a) Verificar se o investimento foi realizado de acordo com o previsto, dentro dos correspondentes prazos, analisando eventuais desvios e o montante do crédito bonificável, quando aplicável;
 
-b) Enviar ao Departamento Central de Planeamento os elementos referidos no n.º 3.º alíneas b), c), d) e e), acompanhados do seu parecer e dos elementos sobre a operação de financiamento contratada de acordo com o anexo IV, no prazo de 60 dias após a recepção global dos mesmos.
+b) Enviar ao Departamento Central de Planeamento os elementos referidos no n.º 3.º, alíneas b), c) e d), acompanhados do seu parecer e dos elementos sobre a operação de financiamento contratada de acordo com o anexo IV no prazo de 90 dias após a recepção global dos mesmos.
+
+> Alterado pelo/a [Portaria n.º 472/86](https://diariodarepublica.pt/dr/detalhe/portaria/472-1986-219143), publicado em 1986-08-28.
 
 8.º O Departamento Central de Planeamento, após a recepção dos elementos enviados pela entidade receptora acompanhados do seu parecer, promoverá a análise dos mesmos, verificando eventuais desvios relativamente ao projecto apresentado à candidatura dos incentivos e determinando o âmbito do crédito bonificável.
 
@@ -179,15 +204,21 @@ Cumprimento dos objectivos
 
 9.º Compete ao promotor do investimento fornecer à entidade a quem tenha sido apresentado o processo de candidatura ao SIII os elementos abaixo discriminados:
 
-a) Declaração modelo n.º 2 e anexos A e B à mesma declaração, no caso de se tratar de empresa do grupo A da contribuição industrial, referente ao ano de laboração normal. Declaração modelo n.º 3-A e anexo à mesma declaração, tratando-se de empresa do grupo B, referida igualmente ao ano de laboração normal;
+a) Declaração modelo n.º 2 e anexos A e B à mesma declaração, no caso de se tratar de empresa do grupo A da contribuição industrial, referente ao ano de laboração normal. Declaração modelo n.º 3-A e anexo B, referida igualmente ao ano de laboração normal;
 
-b) Mapa modelo n.º 1, constante do anexo II à presente portaria;
+b) Mapa modelo n.º 1 constante do anexo II à presente portaria;
 
-c) Mapa(s) modelos n.os 5, 7, 7-A, 7-B e 7-C das amortizações e reintegrações correspondente(s) ao(s) ano(s) em que o investimento foi realizado, bem como o(s) do ano anterior ao início do investimento.
+c) Mapa(s) modelos n.os 6, 7, 7-A, 7-B e 7-C das amortizações e reintegrações correspondente(s) ao(s) ano(s) em que o investimento foi realizado, bem como os do ano anterior ao início do investimento e do ano de laboração normal;
 
-10.º Os elementos descritos no n.º 9.º, devidamente autenticados nos termos do n.º 4.º pelo promotor do investimento, deverão ser apresentados até final do 1.º semestre do ano imediatamente posterior ao de laboração normal.
+d) Documentos comprovativos de que se encontra regularizada a situação para com o Estado e a Previdência.
 
-Sendo o ano de laboração normal anterior à entrada em vigor da presente portaria, deverão os mesmos elementos ser entregues no prazo de 90 dias posteriores à data da sua publicação, adoptando-se o tratamento indicado nos números seguintes.
+> Alterado pelo/a [Portaria n.º 472/86](https://diariodarepublica.pt/dr/detalhe/portaria/472-1986-219143), publicado em 1986-08-28.
+
+10.º Os elementos descritos no n.º 9.º, devidamente autenticados nos termos do n.º 4.º pelo promotor do investimento, deverão ser apresentados até ao final do 1.º semestre do ano imediatamente posterior ao de laboração normal.
+
+Sendo o ano de laboração normal anterior à entrada em vigor da presente portaria, deverão os mesmos elementos ser entregues no prazo de 180 dias posteriores à data da sua publicação, adoptando-se o tratamento indicado nos números seguintes.
+
+> Alterado pelo/a [Portaria n.º 472/86](https://diariodarepublica.pt/dr/detalhe/portaria/472-1986-219143), publicado em 1986-08-28.
 
 11.º A quantificação dos efeitos imputados ao investimento, proveitos e custos deverá ser extraída de elementos contabilísticos que permitam conferir expressão individualizada àqueles, relativamente à restante actividade da unidade produtiva, utilizando critério adequado e devidamente justificado.
 
@@ -199,7 +230,9 @@ b) Proceder ao preenchimento do mapa modelo n.º 2 constante do anexo II, após 
 
 c) Emitir parecer sobre o preenchimento das condições de acesso previstas no artigo 6.º do [Decreto-Lei n.º 132/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1983-310440);
 
-d) Remeter, no prazo de 60 dias contados a partir da recepção dos elementos, ao Departamento Central de Planeamento a documentação descrita nas alíneas anteriores.
+d) Remeter, no prazo de 90 dia contados a partir da recepção dos elementos, ao Departamento Central de Planeamento a documentação descrita nas alíneas anteriores.
+
+> Alterado pelo/a [Portaria n.º 472/86](https://diariodarepublica.pt/dr/detalhe/portaria/472-1986-219143), publicado em 1986-08-28.
 
 13.º Ao Departamento Central de Planeamento compete:
 
@@ -223,7 +256,9 @@ Disposições finais
 
 16.º Os critérios de apreciação a seguir nas fases de verificação da realização dos investimentos e seus efeitos deverão ajustar-se aos utilizados na fase de candidatura e que conduziram ao despacho de concessão provisória.
 
-17.º No decurso da apreciação dos processos no âmbito desta portaria, as entidades intervenientes poderão solicitar ao promotor do investimento os esclarecimentos ou meios de prova que se revelem necessários à mesma, ainda que não previstos expressamente neste diploma.
+17.º No decurso da apreciação dos processos no âmbito desta portaria, as entidades intervenientes poderão solicitar ao promotor do investimento os esclarecimentos ou meios de prova que se revelem necessários à mesma, ainda que não previstos expressamente neste diploma, os quais deverão ser apresentados no prazo máximo de 30 dias, findo o qual será emitida proposta de caducidade na sua falta.
+
+> Alterado pelo/a [Portaria n.º 472/86](https://diariodarepublica.pt/dr/detalhe/portaria/472-1986-219143), publicado em 1986-08-28.
 
 18.º O promotor do investimento poderá apresentar, por sua iniciativa, as justificações que entenda necessárias a uma avaliação dos desvios ao investimento e dos seus efeitos, devendo fazer entrega das mesmas junto da entidade receptora do processo.
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-03-23'
+version_history:
+  file: portaria-799-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-07-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-03-23'
+    amending: pt:dre:216162:por
+    amending_title: Portaria n.º 239/2003
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/799/2002/07/04/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:43:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 239/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-799-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +159,9 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolviment
 
 1.º São anexados à zona de caça turística criada pela [Portaria n.º 890/2000](https://diariodarepublica.pt/dr/detalhe/portaria/890-2000-561248), de 27 de Setembro, vários prédios rústicos sitos na freguesia de Martinlongo, município de Alcoutim, com uma área de 150,5720 ha, ficando a mesma com uma área total de 661,5020 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
 
-2.º A presente anexação mereceu, por parte da Direcção-Geral do Turismo, parecer favorável condicionado à aprovação do projecto de arquitectura do pavilhão de caça, à conclusão da obra no prazo de 12 meses a contar da data de notificação da aprovação do referido projecto, à verificação da obra com o projecto aprovado e ainda à legalização do alojamento turístico.
+2.º A presente anexação mereceu, por parte da Direcção-Geral do Turismo, parecer favorável condicionado à aprovação do projecto de arquitectura do pavilhão de caça, à conclusão da obra no prazo de 12 meses a contar da data de notificação da aprovação do referido projecto, à verificação da obra com o projecto aprovado e ainda à legalização do alojamento proposto, caso seja afecto à exploração turística.
+
+> Alterado pelo/a [Portaria n.º 239/2003](https://diariodarepublica.pt/dr/detalhe/portaria/239-2003-216162), publicado em 2003-03-18.
 
 Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo, em 27 de Março de 2002. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 13 de Março de 2002.
 

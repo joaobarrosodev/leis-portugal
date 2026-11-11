@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-06-17'
+version_history:
+  file: portaria-130-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-02-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-06-17'
+    amending: pt:dre:631429:por
+    amending_title: Portaria n.º 1453/95; Portaria n.º 396/97
+    changes:
+    - Altera Artigo unidades 18-18
+    - Altera Artigo unidades 25-26
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/130/1995/02/04/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:50:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1453/95; Portaria n.º
+    396/97. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-130-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,7 +171,9 @@ a) Docentes das escolas superiores de enfermagem - 10%;
 
 b) Enfermeiros de serviços prestadores de cuidados do Ministério da Saúde - 60%;
 
-c) Enfermeiros de outros serviços dependentes do Ministério da Saúde - 15%;
+c) Enfermeiros provenientes da área da prestação directa de cuidados de estabelecimentos de saúde pertencentes a outros ministérios: 15%;
+
+> Alterado pelo/a [Portaria n.º 1453/95](https://diariodarepublica.pt/dr/detalhe/portaria/1453-1995-631429), publicado em 1995-12-06.
 
 d) Outros enfermeiros - 15%.
 
@@ -169,6 +187,10 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 ## ANEXO I — Escola Superior de Enfermagem de Artur Ravara
 
-Diploma de estudos superiores especializados em Enfermagem de Saúde Infantil e Pediátrica
+Enfermagem de Saúde Infantil e Pediátrica
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/030b00/07050706.pdf)
+Diploma de estudos superiores especializados
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/137b00/29262927.pdf)
+
+> Alterado pelo/a [Portaria n.º 396/97](https://diariodarepublica.pt/dr/detalhe/portaria/396-1997-366674), publicado em 1997-06-17.

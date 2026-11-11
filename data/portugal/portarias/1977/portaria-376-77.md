@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-09-15'
+version_history:
+  file: portaria-376-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-06-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-09-15'
+    amending: pt:dre:329810:por
+    amending_title: Portaria n.º 548/78
+    changes:
+    - Altera Artigo unidades 14-17
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:20:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 548/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-376-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,13 +163,15 @@ Manda o Governo da República Portuguesa, pelos Ministros do Comércio e Turismo
 
 2. Aos adubos químicos mistos e químico-orgânicos sujeitos ao regime de preços declarados aplica-se, com as necessárias adaptações, o regime previsto nos n.os 2, 3 e 4 do artigo 4.º e artigos 5.º e 6.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro.
 
-3.º Os preços máximos de venda ao consumidor dos adubos mencionados no n.º 1 são os constantes da lista anexa.
+3.º - (Revogado.)
 
-4.º Os preços máximos fixados referem-se a adubos destinados ao consumo no continente, colocados na estação de destino, quando transportados por caminho de ferro, ou nos depósitos dos revendedores, quando transportados por camionagem, e a adubos a consumir nos Açores e na Madeira, colocados sobre camião nos cais dos portos destes arquipélagos, quando expedidos do continente.
+4.º - (Revogado.)
 
-5.º Aos adubos referidos no n.º 1.º da presente portaria aplicam-se as disposições constantes dos n.os 3.º, 4.º, 5.º, 6.º e 7.º da [Portaria n.º 719/76](https://diariodarepublica.pt/dr/detalhe/portaria/719-1976-406878), de 27 de Novembro.
+5.º - (Revogado.)
 
-6.º As alterações aos preços agora fixados poderão ser feitas por simples despacho, de acordo com o disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro.
+6.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 548/78](https://diariodarepublica.pt/dr/detalhe/portaria/548-1978-329810), publicado em 1978-09-14.
 
 7.º Fica revogada a [Portaria n.º 227/75](https://diariodarepublica.pt/dr/detalhe/portaria/227-1975-161692), de 4 de Abril.
 

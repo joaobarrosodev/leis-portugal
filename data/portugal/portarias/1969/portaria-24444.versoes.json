@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:217286:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1969-11-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "68ef9f55926be232"
+   ]
+  },
+  {
+   "date": "1970-03-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:228657:por",
+     "title": "Portaria n.º 148/70",
+     "published": "1970-03-14",
+     "dre_path": "/dr/detalhe/portaria/148-1970-228657"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 30-30"
+   ],
+   "fragments": [
+    "8cf7c5ccb30ed496"
+   ]
+  }
+ ],
+ "fragments": {
+  "68ef9f55926be232": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando a conveniência de ajustar os serviços médicos do Hospital da Marinha às actuais necessidades da assistência médica ao pessoal da Armada e às pessoas que beneficiem dessa assistência:\n\nManda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:\n\n1. Os serviços médicos do Hospital da Marinha agrupam-se nos seguintes ramos:\n\na) Serviços clínicos;\n\nb) Serviços complementares de diagnóstico e de terapêutica;\n\nc) Serviços especiais.\n\n2. Os serviços clínicos são os seguintes:\n\na) Serviço de clínica geral;\n\nb) Serviço de clínica cirúrgica.\n\n3. Os serviços complementares de diagnóstico e de terapêutica são os seguintes:\n\na) Serviço de radiologia e radioterapia;\n\nb) Serviço de análises clínicas;\n\nc) Serviço de medicina física e reabilitação;\n\nd) Serviço de anestesiologia e reanimação.\n\n4. Os serviços especiais são os seguintes:\n\na) Serviço de otorrinolaringologia;\n\nb) Serviço de oftalmologia;\n\nc) Serviço de urologia;\n\nd) Serviço de estomatologia;\n\ne) Serviços de neurologia e psiquiatria;\n\nf) Serviço de ortopedia e fracturas;\n\ng) Serviço de dermatovenereologia.\n\n5. O provimento dos cargos de chefes dos serviços médicos do Hospital da Marinha realiza-se mediante concurso, a que podem concorrer capitães-tenentes ou primeiros-tenentes tirocinados médicos navais.\n\n6. O provimento dos cargos de assistente dos chefes dos serviços médicos do Hospital da Marinha também se realiza mediante concurso, a que podem concorrer capitães-tenentes ou primeiros-tenentes tirocinados médicos navais ou, na sua falta, segundos-tenentes tirocinados médicos navais.\n\n7. Quando exista apenas um candidato nos concursos referidos nos números anteriores, poderá este ser dispensado de provas, desde que se trate de médico de reconhecida competência e inscrito na respectiva especialidade na Ordem dos Médicos.\n\n8. A dispensa de que trata o número anterior é concedida pelo superintendente dos Serviços do Pessoal da Armada, mediante proposta do director do Hospital da Marinha, informada favoràvelmente pelo director do Serviço de Saúde Naval.\n\n9. Quando não existam médicos navais em condições de prover os cargos de chefes ou de assistentes dos serviços médicos do Hospital da Marinha, poderão ser contratados para esse fim médicos civis nas condições fixadas na legislação em vigor.\n\n10. Enquanto não for possível prover as vagas existententes nos cargos de chefes ou de assistentes dos serviços médicos do Hospital da Marinha nas condições estabelecidas nesta portaria, o superintendente dos Serviços do Pessoal da Armada poderá autorizar, mediante proposta do director do Hospital da Marinha, informada favoràvelmente pelo director do Serviço de Saúde Naval, que os tais cargos sejam exercidos, a título transitório e até se verificar o provimento definitivo, por outros médicos navais.\n\n11. Os postos dos chefes e assistentes dos serviços médicos do Hospital da Marinha e o número de assistentes que pertence a cada serviço serão os fixados na lotação do Hospital da Marinha.\n\n12. As funções que competem aos chefes e assistentes dos serviços médicos do Hospital da Marinha serão as estabelecidas no regulamento interno do mesmo Hospital.\n\n13. As normas que regulam os concursos para chefes e assistentes dos serviços médicos do Hospital da Marinha serão fixadas por despacho do Ministro da Marinha.\n\n14. São revogadas as Portarias n.os 17872, de 30 de Julho de 1960, e 22520, de 13 de Fevereiro de 1967.\n\nMinistério da Marinha, 28 de Novembro de 1969. - O Ministro da Marinha, Manuel Pereira Crespo."
+  },
+  "8cf7c5ccb30ed496": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1970-03-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 148/70](https://diariodarepublica.pt/dr/detalhe/portaria/148-1970-228657), publicado em 1970-03-14."
+   ],
+   "markdown": "Considerando a conveniência de ajustar os serviços médicos do Hospital da Marinha às actuais necessidades da assistência médica ao pessoal da Armada e às pessoas que beneficiem dessa assistência:\n\nManda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:\n\n1. Os serviços médicos do Hospital da Marinha agrupam-se nos seguintes ramos:\n\na) Serviços clínicos;\n\nb) Serviços complementares de diagnóstico e de terapêutica;\n\nc) Serviços especiais.\n\n2. Os serviços clínicos são os seguintes:\n\na) Serviço de clínica geral;\n\nb) Serviço de clínica cirúrgica.\n\n3. Os serviços complementares de diagnóstico e de terapêutica são os seguintes:\n\na) Serviço de radiologia e radioterapia;\n\nb) Serviço de análises clínicas;\n\nc) Serviço de medicina física e reabilitação;\n\nd) Serviço de anestesiologia e reanimação.\n\n4. Os serviços especiais são os seguintes:\n\na) Serviço de otorrinolaringologia;\n\nb) Serviço de oftalmologia;\n\nc) Serviço de urologia;\n\nd) Serviço de estomatologia;\n\ne) Serviços de neurologia e psiquiatria;\n\nf) Serviço de ortopedia e fracturas;\n\ng) Serviço de dermatovenereologia.\n\n5. O provimento dos cargos de chefes dos serviços médicos do Hospital da Marinha realiza-se mediante concurso, a que podem concorrer capitães-tenentes ou primeiros-tenentes tirocinados médicos navais.\n\n6. O provimento dos cargos de assistente dos chefes dos serviços médicos do Hospital da Marinha também se realiza mediante concurso, a que podem concorrer capitães-tenentes ou primeiros-tenentes tirocinados médicos navais ou, na sua falta, segundos-tenentes tirocinados médicos navais.\n\n7. Quando exista apenas um candidato nos concursos referidos nos números anteriores, poderá este ser dispensado de provas, desde que se trate de médico de reconhecida competência e inscrito na respectiva especialidade na Ordem dos Médicos.\n\n8. A dispensa de que trata o número anterior é concedida pelo superintendente dos Serviços do Pessoal da Armada, mediante proposta do director do Hospital da Marinha, informada favoràvelmente pelo director do Serviço de Saúde Naval.\n\n9. Quando não existam médicos navais em condições de prover os cargos de chefes ou de assistentes dos serviços médicos do Hospital da Marinha, poderão ser contratados para esse fim médicos civis nas condições fixadas na legislação em vigor.\n\n10. Enquanto não for possível prover as vagas existententes nos cargos de chefes ou de assistentes dos serviços médicos do Hospital da Marinha nas condições estabelecidas nesta portaria, o superintendente dos Serviços do Pessoal da Armada poderá autorizar, mediante proposta do director do Hospital da Marinha, informada favoràvelmente pelo director do Serviço de Saúde Naval, que os tais cargos sejam exercidos, a título transitório e até se verificar o provimento definitivo, por outros médicos navais.\n\n11. Os postos dos chefes e assistentes dos serviços médicos do Hospital da Marinha serão os compatíveis com a respectiva lotação. O número de assistentes que pertence a cada serviço e respectivas especializações serão fixados por despacho ministerial.\n\n> Alterado pelo/a [Portaria n.º 148/70](https://diariodarepublica.pt/dr/detalhe/portaria/148-1970-228657), publicado em 1970-03-14.\n\n12. As funções que competem aos chefes e assistentes dos serviços médicos do Hospital da Marinha serão as estabelecidas no regulamento interno do mesmo Hospital.\n\n13. As normas que regulam os concursos para chefes e assistentes dos serviços médicos do Hospital da Marinha serão fixadas por despacho do Ministro da Marinha.\n\n14. São revogadas as Portarias n.os 17872, de 30 de Julho de 1960, e 22520, de 13 de Fevereiro de 1967.\n\nMinistério da Marinha, 28 de Novembro de 1969. - O Ministro da Marinha, Manuel Pereira Crespo."
+  }
+ }
+}

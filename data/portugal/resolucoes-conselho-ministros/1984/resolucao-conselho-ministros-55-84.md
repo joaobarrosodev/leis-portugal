@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-01-20'
+version_history:
+  file: resolucao-conselho-ministros-55-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-01-20'
+    amending: pt:dre:663493:por
+    amending_title: Resolução do Conselho de Ministros n.º 3/87
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:30:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 3/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1984/resolucao-conselho-ministros-55-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,7 +148,9 @@ Assim, o Conselho de Ministros, reunido em 8 de Novembro de 1984, resolveu:
 
 2 - Alargar o Programa a todas as regiões do continente, revogando, em consequência, o n.º 3 da [Resolução n.º 159/80](https://diariodarepublica.pt/dr/detalhe/resolucao/159-1980-475334), de 15 de Abril, o n.º 2.4 da [Resolução n.º 245/80](https://diariodarepublica.pt/dr/detalhe/resolucao/245-1980-471944), de 3 de Julho, e os n.os 1.2.5 e 2.2.4 da [Resolução n.º 219/81](https://diariodarepublica.pt/dr/detalhe/resolucao/219-1981-561858), de 7 de Outubro.
 
-3 - Estabelecer que o rendeiro, emparcelante ou herdeiro directo, ainda que tenha idade superior a 60 anos, poderá beneficiar do Programa quando haja um seu descendente em linha recta em condições de assegurar a continuidade da exploração e desde que tal seja reconhecido pelo Ministério da Agricultura.
+3 - Estabelecer que o rendeiro, emparcelante ou herdeiro directo, ainda que tenha idade superior a 60 anos, poderá beneficiar do Programa de Financiamento a Arrendatários Rurais - PAR, quando haja um seu descendente em linha recta, ou o respectivo cônjuge, em condições de assegurar a continuidade da exploração e desde que tal seja reconhecido pelo Ministério da Agricultura.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 3/87](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-1987-663493), publicado em 1987-01-15.
 
 4 - Abranger pelo Programa as sociedades de agricultura do grupo, com prioridade para as constituídas exclusivamente por jovens agricultores, em condições a estabelecer por despacho normativo dos Ministros das Finanças e do Plano e da Agricultura.
 

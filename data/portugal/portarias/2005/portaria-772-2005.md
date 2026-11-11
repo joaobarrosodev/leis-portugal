@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-03-27'
+version_history:
+  file: portaria-772-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-09-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-03-27'
+    amending: pt:dre:667715:por
+    amending_title: Portaria n.º 290/2006
+    changes:
+    - Altera Artigo unidades 3-3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/772/2005/09/05/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:08:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 290/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-772-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,7 +145,9 @@ validation:
 
 de 5 de Setembro
 
-Pela [Portaria n.º 888/95](https://diariodarepublica.pt/dr/detalhe/portaria/888-1995-460231), de 14 de Julho, foi concessionada à São José do Marco - Agricultura, Lda., a zona de caça turística da Herdade de Pães-Água-Apariça (processo n.º 1726-DGRF), situada no município de Castro Verde, válida até 15 de Maio de 2005.
+Pela [Portaria n.º 888/95](https://diariodarepublica.pt/dr/detalhe/portaria/888-1995-460231), de 14 de Julho, foi concessionada à São José do Marco - Agro-Pecuária, Silvicultura e Caça, Lda., a zona de caça turística da Herdade de Pães-Água-Apariça (processo n.º 1726-DGRF), situada no município de Castro Verde, válida até 15 de Maio de 2005.
+
+> Alterado pelo/a [Portaria n.º 290/2006](https://diariodarepublica.pt/dr/detalhe/portaria/290-2006-667715), publicado em 2006-03-22.
 
 Entretanto, a entidade concessionária veio requerer a sua renovação.
 

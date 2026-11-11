@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-05-25'
+version_history:
+  file: portaria-466-c-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-07-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-25'
+    amending: pt:dre:270436:por
+    amending_title: Portaria n.º 540/2004
+    changes:
+    - Altera Artigo unidades 10-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/466-c/2000/07/21/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:23:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 540/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-466-c-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -153,9 +168,13 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 1.º
 
-Alteração de denominação
+Curso de Engenharia da Produção Animal
 
-O curso bietápico de licenciatura em Engenharia da Produção da Escola Superior Agrária de Santarém, criado pela [Portaria n.º 495/99](https://diariodarepublica.pt/dr/detalhe/portaria/495-1999-368775), de 12 de Julho, passa a denominar-se Engenharia da Produção Animal.
+1 - É criado na Escola Superior Agrária do Instituto Politécnico de Santarém o curso de Engenharia da Produção Animal.
+
+2 - O curso de Engenharia da Produção da Escola Superior Agrária do Instituto Politécnico de Santarém, criado pela [Portaria n.º 495/99](https://diariodarepublica.pt/dr/detalhe/portaria/495-1999-368775), de 12 de Julho, com as alterações introduzidas pela [Portaria n.º 466-C/2000](https://diariodarepublica.pt/dr/detalhe/portaria/466-c-2000-203470), de 21 de Julho, cessa o seu funcionamento progressivamente.
+
+> Alterado pelo/a [Portaria n.º 540/2004](https://diariodarepublica.pt/dr/detalhe/portaria/540-2004-270436), publicado em 2004-05-20.
 
 2.º
 

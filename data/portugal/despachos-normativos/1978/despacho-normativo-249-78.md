@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-06-11'
+version_history:
+  file: despacho-normativo-249-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-09-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-06-11'
+    amending: pt:dre:383252:por
+    amending_title: Despacho Normativo n.º 133/79
+    changes:
+    - Adita Artigo depois da unidade 7
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:45:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 133/79. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1978/despacho-normativo-249-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,5 +129,13 @@ Para o ingresso nas categorias que compõem a carreira de inspectores (grupo 2) 
 4 - A categoria de que se parte para o ingresso é reportada a 28 de Maio de 1977 e o tempo de serviço considerado é reportado a 31 de Dezembro de 1977.
 
 5 - As regras e abertura do concurso referido no n.º 2 serão estabelecidas por despacho do Ministro da Agricultura e Pescas.
+
+6 - O pessoal com as condições exigidas pelo n.º 2 poderá antecipadamente ser submetido, desde que o requeira, à avaliação curricular prevista nesse mesmo número, se se encontrar nas seguintes situações:
+
+a) De ser aposentado, por imposição do limite de idade, em data anterior à da concretização do concurso previsto no referido n.º 2;
+
+b) Se tiver requerido a sua aposentação, com base em incapacidade física, em data anterior à da concretização do mesmo referido concurso, com a condição, neste caso, de o provimento resultante dessa avaliação ser anulado se a entidade legalmente competente não conceder a aposentação requerida.
+
+> Aditado pelo/a [Despacho Normativo n.º 133/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/133-1979-383252), publicado em 1979-06-11.
 
 Ministério da Agricultura e Pescas, 4 de Setembro de 1978. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-12-06'
+version_history:
+  file: portaria-261-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-04-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-12-06'
+    amending: pt:dre:408134:por
+    amending_title: Portaria n.º 730/76
+    changes:
+    - Altera Artigo unidades 9-13
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:42:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 730/76. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1975/portaria-261-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,15 +130,9 @@ Manda o Conselho dos Chefes dos Estados-Maiores das Forças Armadas, pelo Chefe 
 
 2. O Centro de Recrutamento n.º 1, localizado em Lisboa, é colocado na dependência da Direcção do Serviço de Pessoal.
 
-2.º São criados os Centros de Instrução n.os 6, 7, 8 e 9, com a localização e finalidade que para cada um se indica:
+2.º - (Revogado.)
 
-Centro de Instrução n.º 6 - a funcionar na Base Aérea n.º 1, para instrução básica de pilotagem;
-
-Centro de Instrução n.º 7 - a funcionar na Base Aérea n.º 2, para instrução elementar de pilotagem e para integração das escolas de formação e preparação militar e técnica;
-
-Centro de Instrução n.º 8 - a funcionar na Base Aérea n.º 3, para instrução complementar de pilotagem e navegação de aviões plurimotores e instrução de pilotagem de helicópteros e para integração das escolas de formação militar básica e complementar;
-
-Centro de Instrução n.º 9 - a funcionar na Base Aérea n.º 7, para instrução básica de pilotagem.
+> Alterado pelo/a [Portaria n.º 730/76](https://diariodarepublica.pt/dr/detalhe/portaria/730-1976-408134), publicado em 1976-12-06.
 
 3.º É alterada de acordo com as presentes disposições, nas partes respectivas, a [Portaria n.º 20362](https://diariodarepublica.pt/dr/detalhe/portaria/20362-1964-469641), de 6 de Fevereiro de 1964.
 

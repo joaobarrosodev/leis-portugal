@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-09-02'
+version_history:
+  file: portaria-909-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-09-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-09-02'
+    amending: pt:dre:640972:por
+    amending_title: Portaria n.º 996/2007
+    changes:
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 24-24
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/909/2005/09/26/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:09:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 996/2007. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-909-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -197,7 +213,9 @@ Manda o Governo, pela Ministra da Educação, o seguinte:
 
 3.º O plano de estudos do curso agora criado é o constante do anexo n.º 1 da presente portaria, da qual faz parte integrante, e que resulta da reestruturação dos cursos profissionais aprovados pelos diplomas a que se refere o n.º 6.º
 
-4.º A componente de formação científica do referido curso é constituída pelas disciplinas de Matemática e Economia, as quais, conjuntamente com a disciplina de Português, serão sujeitas a avaliação sumativa externa concretizada na realização de exames nacionais, nos termos e para os efeitos estabelecidos no artigo 11.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, conjugado com os artigos 26.º, 27.º e 30.º a 33.º da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio.
+4.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 996/2007](https://diariodarepublica.pt/dr/detalhe/portaria/996-2007-640972), publicado em 2007-08-28.
 
 5.º O perfil de desempenho à saída do curso é o constante do anexo n.º 2 do presente diploma.
 
@@ -219,7 +237,9 @@ Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Ed
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185b00/57995801.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16500/0583505835.pdf)
+
+> Alterado pelo/a [Portaria n.º 996/2007](https://diariodarepublica.pt/dr/detalhe/portaria/996-2007-640972), publicado em 2007-08-28.
 
 ## ANEXO N.º 2 — Curso profissional de Técnico de Comércio
 

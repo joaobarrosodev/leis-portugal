@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-01-01'
+version_history:
+  file: portaria-685-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-11-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-01-01'
+    amending: pt:dre:411168:por
+    amending_title: Portaria n.º 904/73
+    changes:
+    - Altera Artigo unidades 15-15
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:55:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 904/73. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1972/portaria-685-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,7 +131,9 @@ b) Farinha de milho com desgerminação.
 
 5.º A farinha de milho com desgerminação será vendida embalada e aos preços seguintes:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/11/27000/16941694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/29500/24652465.pdf)
+
+> Alterado pelo/a [Portaria n.º 904/73](https://diariodarepublica.pt/dr/detalhe/portaria/904-1973-411168), publicado em 1973-12-20.
 
 6.º O governador do Distrito Autónomo do Funchal fica autorizado a regular os preços das farinhas de milho nos concelhos rurais, tendo exclusivamente em conta os respectivos encargos de transporte.
 

@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:138557:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-03-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66a5c20d23ec0f27"
+   ]
+  },
+  {
+   "date": "2009-03-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:313817:por",
+     "title": "Portaria n.º 470/2001",
+     "published": "2001-05-10",
+     "dre_path": "/dr/detalhe/portaria/470-2001-313817"
+    },
+    {
+     "id": "pt:dre:605533:por",
+     "title": "Portaria n.º 286/2009",
+     "published": "2009-03-20",
+     "dre_path": "/dr/detalhe/portaria/286-2009-605533"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-9",
+    "Altera Artigo unidades 10-12",
+    "Altera Artigo unidades 13-13"
+   ],
+   "fragments": [
+    "1f85ff435f7f0c85"
+   ]
+  }
+ ],
+ "fragments": {
+  "66a5c20d23ec0f27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Março\n\nO [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro, que regulamenta e desenvolve o regime jurídico da identificação criminal e de contumazes, estabelece que as taxas a cobrar pelos serviços de identificação criminal pela prática de actos próprios da sua competência são fixadas por portaria conjunta dos Ministros das Finanças e da Justiça, pelo que importa fixar tais taxas.\n\nNo que se refere à forma de pagamento, tendo em vista objectivos de simplificação, modernização e desburocratização, suprime-se a obrigatoriedade de utilização da estampilha fiscal como forma de assegurar a cobrança destas taxas, estabelecendo-se que os serviços onde forem requeridos os certificados de registo criminal e de contumácia possam proceder à cobrança das taxas em numerário e à entrega dos montantes correspondentes nas tesourarias da Fazenda Pública da respectiva área.\n\nAssim:\n\nManda o Governo, pelos Ministros das Finanças e da Justiça, ao abrigo do disposto no artigo 38.º do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro, o seguinte:\n\n1.º As taxas a cobrar pelos serviços de identificação criminal pela prática de actos próprios das suas competências são as seguintes:\n\na) Emissão de certificado do registo criminal requerido nos termos do artigo 10.º do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - 350$00;\n\nb) Emissão de certificado de contumácia requerido nos termos do artigo 23.º, n.º 2, do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - 150$00.\n\n2.º As taxas previstas no número anterior podem ser pagas:\n\na) Por inutilização de estampilhas fiscais;\n\nb) Em numerário, quando os serviços disponham de meios automáticos de processamento e controlo dos pagamentos.\n\n3.º No caso previsto na alínea b) do número anterior, o montante das taxas cobradas é entregue, mensalmente, na tesouraria da Fazenda Pública da respectiva área.\n\n4.º É revogada a [Portaria n.º 243/90](https://diariodarepublica.pt/dr/detalhe/portaria/243-1990-332185), de 5 de Abril, na parte relativa à emissão de certificado do registo criminal.\n\n5.º A presente portaria entra em vigor 30 dias após a data da sua publicação.\n\nPelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento, em 8 de Março de 1999. - O Ministro da Justiça, José Eduardo Vera Cruz Jardim, em 8 de Março de 1999."
+  },
+  "1f85ff435f7f0c85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2009-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 286/2009](https://diariodarepublica.pt/dr/detalhe/portaria/286-2009-605533), publicado em 2009-03-20.",
+    "Alterado pelo/a [Portaria n.º 470/2001](https://diariodarepublica.pt/dr/detalhe/portaria/470-2001-313817), publicado em 2001-05-10.",
+    "Alterado pelo/a [Portaria n.º 470/2001](https://diariodarepublica.pt/dr/detalhe/portaria/470-2001-313817), publicado em 2001-05-10."
+   ],
+   "markdown": "de 29 de Março\n\nO [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro, que regulamenta e desenvolve o regime jurídico da identificação criminal e de contumazes, estabelece que as taxas a cobrar pelos serviços de identificação criminal pela prática de actos próprios da sua competência são fixadas por portaria conjunta dos Ministros das Finanças e da Justiça, pelo que importa fixar tais taxas.\n\nNo que se refere à forma de pagamento, tendo em vista objectivos de simplificação, modernização e desburocratização, suprime-se a obrigatoriedade de utilização da estampilha fiscal como forma de assegurar a cobrança destas taxas, estabelecendo-se que os serviços onde forem requeridos os certificados de registo criminal e de contumácia possam proceder à cobrança das taxas em numerário e à entrega dos montantes correspondentes nas tesourarias da Fazenda Pública da respectiva área.\n\nAssim:\n\nManda o Governo, pelos Ministros das Finanças e da Justiça, ao abrigo do disposto no artigo 38.º do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro, o seguinte:\n\n1.º As taxas a cobrar pelos serviços de identificação criminal pela prática de actos próprios das suas competências são as seguintes:\n\na) Emissão de certificado do registo criminal requerido nos termos do artigo 10.º do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - (euro) 1,75;\n\nb) Emissão de certificado do registo criminal requerido nos termos do artigo 14.º, n.º 3 do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - gratuita;\n\nc) Emissão de certificado de contumácia requerido nos termos do artigo 23.º, n.º 2, do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - (euro) 0,75;\n\nd) Emissão de certificado do registo de medidas tutelares educativas requerido por particular, ao abrigo do disposto no artigo 217.º, n.º 2, da [Lei n.º 166/99](https://diariodarepublica.pt/dr/detalhe/lei/166-1999-570567), de 14 de Setembro - (euro) 1,75.\n\n> Alterado pelo/a [Portaria n.º 286/2009](https://diariodarepublica.pt/dr/detalhe/portaria/286-2009-605533), publicado em 2009-03-20.\n\n2.º As taxas previstas no número anterior são pagas em numerário, devendo o montante cobrado ser entregue, por meio de guia, na tesouraria da Fazenda Pública da respectiva área, nos mesmos termos e prazos aplicáveis ao imposto do selo.\n\n> Alterado pelo/a [Portaria n.º 470/2001](https://diariodarepublica.pt/dr/detalhe/portaria/470-2001-313817), publicado em 2001-05-10.\n\n3.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 470/2001](https://diariodarepublica.pt/dr/detalhe/portaria/470-2001-313817), publicado em 2001-05-10.\n\n4.º É revogada a [Portaria n.º 243/90](https://diariodarepublica.pt/dr/detalhe/portaria/243-1990-332185), de 5 de Abril, na parte relativa à emissão de certificado do registo criminal.\n\n5.º A presente portaria entra em vigor 30 dias após a data da sua publicação.\n\nPelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento, em 8 de Março de 1999. - O Ministro da Justiça, José Eduardo Vera Cruz Jardim, em 8 de Março de 1999."
+  }
+ }
+}

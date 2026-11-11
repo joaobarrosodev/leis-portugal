@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-09-20'
+version_history:
+  file: decreto-572-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-09-20'
+    amending: pt:dre:473286:por
+    amending_title: Decreto-Lei n.º 467/74
+    changes:
+    - Adita Artigo depois da unidade 35
+    - Altera Artigo unidades 268-268
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:25:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 467/74. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1972/decreto-572-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -196,6 +212,10 @@ Art. 6.º - 1. Os membros das «milícias de intervenção» passam a depender d
 4. Os membros das milícias de intervenção» que satisfizerem os requisitos legais poderão, se o requererem dentro do prazo fixado no artigo 4.º, n.º 1, alínea d), ingressar nos quadros da P. S. P. como guardas auxiliares, contando-se-lhes, para todos os efeitos legais, o tempo de serviço prestado nas «milícias» como se o tivesse sido na P. S. P.
 
 5. O ingresso a que se refere o número anterior será feito por despacho do Governador-Geral, anotado pelo Tribunal Administrativo e publicado no Boletim Oficial, considerando-se empossados nos novos lugares na data daquela publicação.
+
+6. Serão designados por guardas rurais os membros das «milícias e intervenção» que passem para a dependência da Polícia de Segurança Pública.
+
+> Aditado pelo/a [Decreto-Lei n.º 467/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1974-473286), publicado em 1974-09-20.
 
 Art. 7.º As despesas com o pessoal decorrentes da integração na P. S. P. de Moçambique da Policia Administrativa e dos membros das «milícias de intervenção» serão cobertas pela transferência para o capítulo 4.º do orçamento da corporação das verbas atribuídos aos distritos para pagamento dos encargos com o referido pessoal disponíveis na altura da sua integração.
 
@@ -661,7 +681,9 @@ Art. 50.º - 1. Os guardas de 2.ª classe serão promovidos, por ordem de antigu
 
 Art. 51.º São condições necessárias para a nomeação provisória, recondução e nomeação definitiva, além das que forem exigidas para os restantes funcionários públicos, estar pelo menos na 2.ª classe do comportamento, a aptidão física e a capacidade para o desempenho da função.
 
-Art. 52.º As promoções a segundo-subchefe serão feitas mediante concurso entre os guardas de 1.ª e de 2.ª classes que reúnam as condições previstas no regulamento.
+Art. 52.º As promoções a segundos-subchefes serão feitas por ordem de classificação no curso ou concurso entre guardas de 1.ª e 2.ª classes que reúnam as condições previstas no regulamento.
+
+> Alterado pelo/a [Decreto-Lei n.º 467/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1974-473286), publicado em 1974-09-20.
 
 Art. 53.º As promoções a primeiro-subchefe serão feitas pela ordem de classificação no curso ou concurso para chefes de esquadra e por antiguidade, devendo observar-se o seguinte:
 

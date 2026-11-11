@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2018-02-19'
+version_history:
+  file: despacho-728-2014.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2014-01-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-02-19'
+    amending: pt:dre:114706562:por
+    amending_title: Despacho n.º 1695/2018
+    changes:
+    - Altera Artigo unidades 8-8
+    - Adita Artigo depois da unidade 10
+    - Altera Artigo unidades 11-16
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T12:22:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho n.º 1695/2018. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos/2014/despacho-728-2014.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,23 +134,31 @@ O presente despacho formaliza as estruturas de apoio à coordenação do PNS 201
 
 Assim, determino:
 
-1 - O Plano Nacional de Saúde 2012-2016, adiante designado por Plano, é coordenado pelo Diretor-Geral da Saúde.
+1 - O Plano Nacional de Saúde, adiante designado por Plano, é coordenado pelo Diretor-Geral da Saúde.
+
+> Alterado pelo/a [Despacho n.º 1695/2018](https://diariodarepublica.pt/dr/detalhe/despacho/1695-2018-114706562), publicado em 2018-02-19.
 
 2 - O Coordenador do Plano é apoiado pelas seguintes entidades:
 
 2.1 - Diretor Executivo do Plano, nomeado por despacho do membro do Governo responsável pela área da saúde, sob proposta do Diretor-Geral de Saúde, o qual desenvolve a sua atividade no âmbito da DGS, com funções técnicas de observatório, planeamento estratégico, operacional e de supervisão, promoção da implementação, desenvolvimento, atualização, dinamização, discussão, monitorização e informação de saúde, assegurando a sua plena concretização.
 
-2.2 - Equipa Técnica, que exerce funções na DGS, a quem compete apoiar as funções do Diretor Executivo do Plano.
+2.2 - Coordenação Técnica da Estratégia e do Plano Nacional de Saúde a quem compete coadjuvar o Diretor Executivo e cujos membros são nomeados por despacho do membro do Governo responsável pela área da saúde, sob proposta do Diretor-Geral da Saúde.
 
-2.3 - Conselho Consultivo e de Acompanhamento do Plano, para acompanhamento do Plano e participação comunitária, constituído por representantes da sociedade civil, de entidades públicas, privadas e parceiros sociais interessados, nomeado por despacho do membro do Governo responsável pela área da saúde, sob proposta do Diretor-Geral de Saúde.
+> Aditado pelo/a [Despacho n.º 1695/2018](https://diariodarepublica.pt/dr/detalhe/despacho/1695-2018-114706562), publicado em 2018-02-19.
 
-2.4 - Grupo de Peritos do Plano, nomeado por despacho do membro do Governo responsável pela área da saúde, sob proposta do Diretor-Geral de Saúde, a quem compete designadamente:
+2.3 - Equipa Técnica, que exerce funções na DGS, a quem compete apoiar as funções do Diretor Executivo do Plano.
 
-2.4.1 - Analisar e discutir o processo de desenvolvimento do Plano, sua implementação, comunicação, monitorização e avaliação;
+2.4 - Conselho Consultivo e de Acompanhamento do Plano, para acompanhamento do Plano e participação comunitária, constituído por representantes da sociedade civil, de entidades públicas, privadas e parceiros sociais interessados, nomeado por despacho do membro do Governo responsável pela área da saúde, sob proposta do Diretor-Geral de Saúde.
 
-2.4.2 - Assegurar critérios de evidência, excelência técnica, qualidade e transparência;
+2.5 - Grupo de Peritos do Plano, nomeado por despacho do membro do Governo responsável pela área da saúde, sob proposta do Diretor-Geral de Saúde, a quem compete designadamente:
 
-2.4.3 - Emitir parecer escrito sobre os relatórios de acompanhamento das atividades e da execução do Plano.
+2.5.1 - Analisar e discutir o processo de desenvolvimento do Plano, sua implementação, comunicação, monitorização e avaliação;
+
+2.5.2 - Assegurar critérios de evidência, excelência técnica, qualidade e transparência;
+
+2.5.3 - Emitir parecer escrito sobre os relatórios de acompanhamento das atividades e da execução do Plano.
+
+> Alterado pelo/a [Despacho n.º 1695/2018](https://diariodarepublica.pt/dr/detalhe/despacho/1695-2018-114706562), publicado em 2018-02-19.
 
 3 - Para efeitos do disposto no ponto 2.1, compete ao Diretor Executivo do Plano:
 

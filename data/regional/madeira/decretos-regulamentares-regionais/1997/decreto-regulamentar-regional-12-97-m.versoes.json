@@ -1,0 +1,483 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:396891:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-05-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a6368cb8e1a32410",
+    "5aab7ca4f94ff9d8",
+    "3c9bab9e96bdc9c3",
+    "7342f7b1dcac3873",
+    "c0a19042b2f869e4",
+    "54711dbcbef7524e",
+    "396cfe66f6d1ddf2",
+    "c8ff3660f02a530b",
+    "f121b3d94b17fe3e",
+    "7420219ec6ed5eab",
+    "88a2ddfdd705d41a",
+    "d2247aa0241d9983",
+    "a065fd0b942376af",
+    "783cf3ca2405f6e1",
+    "7f9b6e8af37a0941",
+    "5137340398c86fab",
+    "08036e772b07ab5c",
+    "51280c959510374b",
+    "cc2f490e00949bdf",
+    "a38d67cb29736807",
+    "76b18429c8c30532",
+    "9a86067f4664776e",
+    "b28d73e18217facc",
+    "94802275f688b73c",
+    "b39940acef155a58",
+    "4c52321e26da5f81",
+    "90f417cce44ae097",
+    "cdab4f0f8cd1a9a8",
+    "e9fe672ddde1d8b6",
+    "8797467f9a58755c",
+    "ff6ffbb962fc90ad",
+    "b4b51be9a2a7d32c",
+    "fe8bdbe67acf1792",
+    "6ca522390246bac8",
+    "8263d9dcf4ab52b2",
+    "ce02b64a389ba01a",
+    "ca0cbed75d787f22",
+    "558662084f196764"
+   ]
+  },
+  {
+   "date": "2000-03-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:411355:por",
+     "title": "Decreto Regulamentar Regional n.º 5/2000/M",
+     "published": "2000-03-15",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/5-2000-411355"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Adita Artigo 13.º-B",
+    "Altera Artigo 3.º",
+    "Revoga Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "a6368cb8e1a32410",
+    "5aab7ca4f94ff9d8",
+    "3c9bab9e96bdc9c3",
+    "7342f7b1dcac3873",
+    "c0a19042b2f869e4",
+    "54711dbcbef7524e",
+    "396cfe66f6d1ddf2",
+    "c8ff3660f02a530b",
+    "58e7218de454bd61",
+    "7420219ec6ed5eab",
+    "88a2ddfdd705d41a",
+    "d2247aa0241d9983",
+    "a065fd0b942376af",
+    "783cf3ca2405f6e1",
+    "7f9b6e8af37a0941",
+    "5137340398c86fab",
+    "08036e772b07ab5c",
+    "51280c959510374b",
+    "cc2f490e00949bdf",
+    "a38d67cb29736807",
+    "76b18429c8c30532",
+    "9a86067f4664776e",
+    "f4abd4ce2a0b0dfe",
+    "94802275f688b73c",
+    "b39940acef155a58",
+    "4c52321e26da5f81",
+    "6b795975c03f31de",
+    "cdab4f0f8cd1a9a8",
+    "e9fe672ddde1d8b6",
+    "8797467f9a58755c",
+    "7fd1256d3aa278b3",
+    "260dd90e145d7ee9",
+    "ff6ffbb962fc90ad",
+    "b4b51be9a2a7d32c",
+    "9fdfcc2c8720e9b6",
+    "6ca522390246bac8",
+    "8263d9dcf4ab52b2",
+    "ce02b64a389ba01a",
+    "ca0cbed75d787f22",
+    "558662084f196764"
+   ]
+  }
+ ],
+ "fragments": {
+  "a6368cb8e1a32410": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprova a orgânica da Direcção Regional do Comércio e Indústria\n\nO [Decreto Regulamentar Regional n.º 4-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-a-1997-230948), de 12 de Fevereiro, que criou a nova estrutura da Secretaria Regional de Economia e Cooperação Externa, determinou que as atribuições, a orgânica, o funcionamento e o pessoal de cada organismo e serviço nela englobado constariam de decreto regulamentar regional.\n\nDeste modo, importa dar execução ao estatuído naquele diploma, aprovando-se a orgânica da Direcção Regional do Comércio e Indústria, com uma estrutura dotada dos meios necessários ao exercício das suas atribuições e competências.\n\nAssim:\n\nNos termos do n.º 2 do artigo 12.º do [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, e do n.º 2 do artigo 3.º do [Decreto Regulamentar Regional n.º 4-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-a-1997-230948), de 12 de Fevereiro, e ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea c) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "5aab7ca4f94ff9d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovada a orgânica da Direcção Regional do Comércio e Indústria, publicada em anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "3c9bab9e96bdc9c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Conselho do Governo Regional em 20 de Março de 1997.\n\nPelo Presidente do Governo Regional, José Paulo Baptista Fontes.\n\nAssinado em 10 de Abril de 1997.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.\n\nORGÂNICA DA DIRECÇÃO REGIONAL DO COMÉRCIO E INDÚSTRIA"
+  },
+  "7342f7b1dcac3873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições"
+  },
+  "c0a19042b2f869e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direcção Regional do Comércio e Indústria, adiante apenas designada por DRCI, é o departamento a que se refere a alínea b) do n.º 1 do artigo 3.º do [Decreto Regulamentar Regional n.º 4-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-a-1997-230948), de 12 de Fevereiro, que aprovou a orgânica da Secretaria Regional de Economia e Cooperação Externa, cujas atribuições, estrutura interna, funcionamento e pessoal constam dos artigos seguintes."
+  },
+  "54711dbcbef7524e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - Cabe, genericamente, à DRCI apoiar o Secretário Regional na execução da política definida pelo Governo Regional para os sectores do comércio, indústria e energia.\n\n2 - Incumbe à DRCI, designadamente:\n\na) Promover a execução da política definida para as áreas do comércio, indústria, energia e promoção do investimento;\n\nb) Executar as acções da política comercial, tanto interna como externa;\n\nc) Estudar os circuitos de distribuição e comercialização e propor medidas tendentes à sua reestruturação, bem como sugerir formas de actuação conducentes à sua concretização;\n\nd) Estudar, propor e licenciar operações de importação, exportação e reexportação de mercadorias, em coordenação com as entidades competentes;\n\ne) Promover e garantir a prática de uma sã concorrência;\n\nf) Executar as acções disciplinadoras do exercício da actividade industrial, mormente o seu licenciamento, inspecção e fiscalização na Região;\n\ng) Coordenar e assegurar a recolha, organização, tratamento e difusão de informação com interesse para o desenvolvimento dos sectores da sua competência, nomeadamente no que se refere à promoção do investimento;\n\nh) Estudar, promover e propor em cooperação com os diversos órgãos e serviços dos governos regional e central e com centros técnicos de cooperação industrial, a execução das medidas que integram a política de apoio às pequenas e médias empresas industriais;\n\ni) Promover e assegurar a gestão dos parques industriais."
+  },
+  "396cfe66f6d1ddf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços"
+  },
+  "c8ff3660f02a530b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I"
+  },
+  "f121b3d94b17fe3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEstrutura\n\nA DRCI compreende os seguintes órgãos e serviços:\n\na) Director regional;\n\nb) Gabinete Jurídico;\n\nc) Gabinete de Estudos e Planeamento;\n\nd) Gabinete de Coordenação do Frio;\n\ne) Direcção de Serviços do Comércio;\n\nf) Direcção de Serviços da Indústria;\n\ng) Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento;\n\nh) Direcção de Serviços de Energia;\n\ni) Repartição dos Serviços Administrativos."
+  },
+  "7420219ec6ed5eab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Director regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Director regional"
+  },
+  "88a2ddfdd705d41a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - Compete, genericamente, ao director regional superintender a acção de todos os órgãos e serviços da DRCI e submeter a despacho do Secretário Regional os assuntos que careçam de apreciação ou decisão superior.\n\n2 - No âmbito do disposto no número anterior, compete, designadamente, ao director regional:\n\na) Promover a execução da política e a prossecução dos objectivos definidos pelo Governo Regional para os sectores do comércio, energia e indústria;\n\nb) Superintender a realização de estudos e outros trabalhos considerados importantes para os referidos sectores;\n\nc) Promover a gestão participativa por objectivos, criando as condições necessárias a uma maior desconcentração e atribuição de responsabilidades que conduzam a um aumento da eficiência dos diversos serviços.\n\n3 - O director regional pode delegar ou subdelegar competências, nos termos da lei.\n\n4 - O director regional pode avocar, no âmbito do número anterior, as competências dos directores de serviços e chefes de divisão da DRCI.\n\n5 - Nas suas faltas ou impedimentos, será o director regional substituído por um director de serviços ou por um técnico superior designado para o efeito."
+  },
+  "d2247aa0241d9983": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Gabinete Jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Gabinete Jurídico"
+  },
+  "a065fd0b942376af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuições\n\nO Gabinete Jurídico, abreviadamente designado por GJ, é o órgão de apoio ao director regional, composto por consultores jurídicos com funções exclusivas de mera consulta jurídica, nomeadamente:\n\na) Emitir pareceres sobre projectos de diplomas que lhes sejam submetidos;\n\nb) Elaborar propostas e projectos de diplomas regionais referentes a matérias da competência da DRCI."
+  },
+  "783cf3ca2405f6e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Gabinete de Estudos e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Gabinete de Estudos e Planeamento"
+  },
+  "7f9b6e8af37a0941": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências\n\n1 - O Gabinete de Estudos e Planeamento, abreviadamente designado por GEP, é dirigido por um director de serviços.\n\n2 - Ao GEP compete, designadamente:\n\na) Prestar apoio técnico e científico ao director regional em matérias que exijam preparação específica contribuindo para o estudo, definição e execução da política de desenvolvimento para os sectores da área das suas competências;\n\nb) Assegurar a elaboração do relatório de actividades da DRCI;\n\nc) Promover e realizar os estudos técnico-económicos necessários à elaboração do planeamento e à definição da estratégia de desenvolvimento para os referidos sectores."
+  },
+  "5137340398c86fab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Gabinete de Coordenação do Frio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Gabinete de Coordenação do Frio"
+  },
+  "08036e772b07ab5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências\n\n1 - O Gabinete de Coordenação do Frio, abreviadamente designado por GCF, é dirigido por um director de serviços.\n\n2 - Ao GCF compete, designadamente:\n\na) Definir a política regional do frio;\n\nb) Planear, controlar e rever a rede de frio;\n\nc) Apoiar tecnicamente a indústria regional;\n\nd) Normalizar e regulamentar a utilização do frio;\n\ne) Elaborar e actualizar o cadastro das instalações frigoríficas;\n\nf) Arbitrar os conflitos de origem técnica no sector do frio, quando para isso seja solicitado;\n\ng) Propor, colaborar ou, por iniciativa própria, desenvolver acções de formação de técnicos de frio;\n\nh) Promover e divulgar a utilização do frio ao nível da Região, mormente junto do consumidor, como meio de defesa deste;\n\ni) Acompanhar e fiscalizar projectos e obras da responsabilidade do Governo Regional na parte respeitante à tecnologia frigorífica;\n\nj) Assegurar a representação oficial do sector do frio em todos os organismos nacionais e internacionais ou em iniciativas em que sejam tratados assuntos da especialidade."
+  },
+  "51280c959510374b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Direcção de Serviços do Comércio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Direcção de Serviços do Comércio"
+  },
+  "cc2f490e00949bdf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Competências e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências e estrutura\n\n1 - À Direcção de Serviços do Comércio, abreviadamente designada por DSC, compete, nomeadamente:\n\na) Propor e executar as acções que se enquadrem na política superiormente definida para o sector comercial, especialmente no âmbito do registo e cadastro de actividades;\n\nb) Estudar e sugerir intervenções que permitam, através de uma reorganização dos circuitos de distribuição, superar eventuais rupturas de abastecimento;\n\nc) Propor e coordenar programas de abastecimento de produtos básicos, tendo em conta as necessidades dos consumidores no que respeita a quantidades, qualidade e preços;\n\nd) Fomentar a defesa da concorrência a nível regional;\n\ne) Organizar e manter actualizado o inventário dos estabelecimentos e dos comerciantes sediados na Região, bem como proceder à instrução dos processos de licenciamento das actividades comerciais;\n\nf) Manter actualizada a informação sobre os preços das mercadorias regionais e proceder à elaboração e actualização de estatísticas, bem como propor as medidas de política mais adequadas para o sector.\n\n2 - A DSC compreende as seguintes divisões:\n\na) Divisão de Registo e Licenciamento Comercial;\n\nb) Divisão de Concorrência e Preços;\n\nc) Divisão do Comércio Internacional."
+  },
+  "a38d67cb29736807": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Direcção de Serviços da Indústria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Direcção de Serviços da Indústria"
+  },
+  "76b18429c8c30532": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competências e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências e estrutura\n\n1 - À Direcção de Serviços da Indústria, abreviadamente designada por DSI, compete, nomeadamente:\n\na) Prestar apoio técnico ao director regional no domínio do sector industrial, bem como no do aproveitamento dos recursos naturais;\n\nb) Coordenar o licenciamento dos estabelecimentos industriais e proceder à respectiva fiscalização;\n\nc) Promover o estudo e a fiscalização das condições técnicas de instalação e laboração dos estabelecimentos industriais;\n\nd) Coordenar o licenciamento de pedreiras e a extracção de areias e similares e fiscalizar estas actividades;\n\ne) Informar os processos de ocupação e expropriação dos terrenos necessários ao aproveitamento de massas minerais, bem como pronunciar-se acerca das respectivas áreas de reserva;\n\nf) Emitir pareceres e submeter a decisão superior os processos de pedidos de licença de instalação, remetidos pelo Gabinete da Zona Franca da Madeira, referentes a estabelecimentos industriais situados naquela zona;\n\ng) Coordenar o licenciamento dos estabelecimentos industriais situados na Zona Franca da Madeira e proceder à respectiva fiscalização;\n\nh) Realizar as vistorias e propor o licenciamento dos recipientes sob pressão, bem como a construção, instalação e utilização de chaminés de descarga de efluentes na atmosfera, velando pelo cumprimento das normas referentes ao seu funcionamento e exercendo a respectiva fiscalização;\n\ni) Velar pelo cumprimento das normas de qualidade;\n\nj) Assegurar a aplicação e fiscalizar o cumprimento da regulamentação relativa ao controlo metrológico e à certificação dos produtos;\n\nk) Assegurar a certificação dos manómetros dos recipientes sob pressão e das cisternas para transporte de combustíveis;\n\nl) Proceder, no exercício das suas atribuições de fiscalização e nos termos legais, ao levantamento de autos de transgressão e à instrução dos processos de contra-ordenação, bem como aplicar, no quadro da legislação em vigor, as respectivas sanções.\n\n2 - A DSI compreende as seguintes divisões:\n\na) Divisão de Fomento e Licenciamento Industrial;\n\nb) Divisão da Qualidade Industrial;\n\nc) Divisão de Geologia e Minas."
+  },
+  "9a86067f4664776e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VIII — Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VIII — Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento"
+  },
+  "b28d73e18217facc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competências e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências e estrutura\n\n1 - O Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento, abreviadamente designado por SAPMEI, é dirigido por um director de serviços e rege-se pelo [Decreto Regulamentar Regional n.º 11/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1981-565186), de 3 de Setembro, competindo-lhe, designadamente:\n\na) O acompanhamento e fiscalização dos investimentos com incentivos comunitários na Região Autónoma da Madeira, incluindo os da Zona Franca Industrial;\n\nb) Assegurar e coordenar a articulação, na Região, dos programas nacionais e comunitários, no âmbito das atribuições da DRCI;\n\nc) Assegurar a representação oficial dos apoios às PME, nomeadamente no que concerne às empresas comerciais e industriais, em todos os organismos nacionais e internacionais e em todas as iniciativas que se reportem a assuntos da especialidade.\n\n2 - O SAPMEI compreende as seguintes divisões:\n\na) Divisão de Parques Industriais e Apoio ao Investimento;\n\nb) Divisão de Apoio às Pequenas e Médias Empresas, Acompanhamento e Controlo de Projectos;\n\nc) Divisão de Apoio à Criação de Empresas."
+  },
+  "94802275f688b73c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IX — Direcção de Serviços de Energia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IX — Direcção de Serviços de Energia"
+  },
+  "b39940acef155a58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competências e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências e estrutura\n\n1 - À Direcção de Serviços de Energia, abreviadamente designada por DSE, compete, nomeadamente:\n\na) Propor, em conformidade com as orientações superiores, o estudo, concepção e execução das políticas no âmbito do sector energético para a Região Autónoma da Madeira;\n\nb) Apoiar e promover a utilização racional das diferentes formas e fontes de energia e a melhor eficiência no seu consumo, numa perspectiva económica e de segurança do abastecimento;\n\nc) Promover a elaboração e adaptação de legislação relativa às actividades do sector e velar pelo seu cumprimento;\n\nd) Aprovar projectos do sector e licenciar instalações e equipamentos que produzam, utilizem, transformem, transportem ou armazenem produtos energéticos, salvaguardando as incidências negativas para o ambiente, e sua fiscalização;\n\ne) Licenciar e inspeccionar instalações de geradores de vapor;\n\nf) Proceder ao licenciamento das instalações de produção e utilização de energia eléctrica;\n\ng) Assegurar o cumprimento dos procedimentos estabelecidos em caso de acidente, perigo, fraude no consumo de energia e outras anomalias relativas ao estabelecimento ou exploração de instalações ou equipamento eléctrico e proceder, nos termos legais, à arbitragem de reclamações;\n\nh) Proceder aos estudos relacionados com a formulação dos preços dos produtos energéticos e suas relações com o desenvolvimento das actividades económicas, assim como aos estudos relativos à fixação do tarifário da energia eléctrica;\n\ni) Decidir, verificados os condicionalismos legais, sobre a interrupção do fornecimento de energia eléctrica relativamente às instalações licenciadas;\n\nj) Assegurar, nos termos legais, ou por solicitação dos interessados, a realização de ensaios de equipamentos energéticos;\n\nk) Controlar a qualidade dos combustíveis armazenados;\n\nl) Credenciar profissionais ou entidades responsáveis por instalações e equipamento energético licenciados pela DSE e acompanhar a sua actividade, assim como o reconhecimento de entidades montadoras e instaladoras de redes de gás;\n\nm) Proceder a exames de candidatos a técnicos responsáveis pela execução de instalações eléctricas e de fogueiros de geradores de vapor;\n\nn) Recolher e tratar os dados estatísticos indicadores da evolução da situação energética regional.\n\n2 - A DSE compreende as seguintes divisões:\n\na) Divisão de Energia Eléctrica;\n\nb) Divisão de Combustíveis."
+  },
+  "4c52321e26da5f81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO X — Repartição dos Serviços Administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO X — Repartição dos Serviços Administrativos"
+  },
+  "90f417cce44ae097": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências\n\nÀ Repartição dos Serviços Administrativos, abreviadamente designada por RSA, compete, nomeadamente:\n\na) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRCI;\n\nb) Coordenar, promover a assegurar os procedimentos administrativos relativos a assuntos de expediente geral e arquivo;\n\nc) Assegurar e controlar a execução orçamental da DRCI;\n\nd) Promover e assegurar a gestão dos recursos patrimoniais, numa perspectiva de optimização dos meios disponíveis, e zelar pela sua conservação, incluindo a dos edifícios e demais instalações afectos à DRCI."
+  },
+  "cdab4f0f8cd1a9a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Pessoal"
+  },
+  "e9fe672ddde1d8b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "8797467f9a58755c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Quadro de pessoal\n\n1 - O pessoal da DRCI é agrupado de acordo com a seguinte classificação:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico;\n\nd) Pessoal técnico-profissional;\n\ne) Pessoal de informática;\n\nf) Pessoal administrativo;\n\ng) Pessoal operário;\n\nh) Pessoal auxiliar.\n\n2 - O quadro de pessoal da DRCI será aprovado por portaria conjunta dos secretários regionais que tutelam as finanças e o sector."
+  },
+  "ff6ffbb962fc90ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime\n\n1 - O pessoal dirigente é provido de acordo com o estabelecido no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, adaptado à Região pelo [Decreto Legislativo Regional n.º 8/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1991-475950), de 18 de Março.\n\n2 - Para além do disposto no presente diploma, o ingresso e acesso dos funcionários da DRCI referidos no artigo anterior nas respectivas carreiras obedecem ao regime estabelecido na legislação aplicável ao funcionalismo público.\n\n3 - O pessoal de informática é recrutado e provido nos termos do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, adaptado à Região pelo [Decreto Regulamentar Regional n.º 8/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1991-616852), de 6 de Maio, com as alterações introduzidas pelo [Decreto-Lei n.º 177/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1995-484987), de 26 de Julho, e demais legislação aplicável."
+  },
+  "b4b51be9a2a7d32c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II"
+  },
+  "fe8bdbe67acf1792": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nCategorias de operador de reprografia e de auxiliar de limpeza\n\n1 - As categorias de operador de reprografia e de auxiliar de limpeza integram o grupo de pessoal auxiliar.\n\n2 - Os escalões salariais das categorias referidas no número anterior constam do anexo n.º 1 ao [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.\n\n3 - As categorias referidas no n.º 1 são consideradas horizontais para efeitos de progressão.\n\n4 - Sem prejuízo dos demais requisitos exigidos por lei, o ingresso naquelas categorias faz-se, mediante concurso, de entre indivíduos possuidores da escolaridade obrigatória."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "8263d9dcf4ab52b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Transição de pessoal\n\nA transição do pessoal da DRCI para o quadro a aprovar nos termos do n.º 2 do artigo 13.º do presente diploma far-se-á pela aplicação deste diploma e elaboração da lista nominativa, aprovada pelo Secretário Regional, com dispensa de quaisquer outras formalidades legais, sempre que o provimento se processar em categoria igual ou equivalente à que detinha no respectivo quadro de origem; quando não se verifique coincidência de índice, o provimento far-se-á para o escalão cujo índice seja imediatamente superior na estrutura da categoria para o qual se processa a integração."
+  },
+  "ce02b64a389ba01a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Concursos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Concursos pendentes\n\nOs concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os que lhes correspondam no quadro a aprovar nos termos do n.º 2 do artigo 13.º do presente diploma."
+  },
+  "ca0cbed75d787f22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Encargos\n\nOs encargos resultantes da aplicação do presente diploma são suportados por dotação a inscrever no orçamento da secretaria regional da tutela."
+  },
+  "558662084f196764": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Regime retributivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime retributivo\n\nSem prejuízo do previsto no presente diploma, o regime retributivo do pessoal da DRCI é o constante do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e demais legislação e regulamentação complementares."
+  },
+  "58e7218de454bd61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura",
+   "in_force_from": "2000-03-16",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15."
+   ],
+   "markdown": "###### Artigo 3.º — Estrutura\n\nA DRCI compreende os seguintes órgãos e serviços:\n\na) Director regional;\n\nb) Gabinete Jurídico;\n\nc) Gabinete de Estudos e Planeamento;\n\nd) Gabinete de Coordenação do Frio;\n\ne) Direcção de Serviços do Comércio;\n\nf) Direcção de Serviços da Indústria;\n\ng) Direcção de Serviços de Energia;\n\nh) O Departamento dos Serviços Administrativos.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15."
+  },
+  "f4abd4ce2a0b0dfe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competências e estrutura",
+   "in_force_from": "2000-03-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15."
+   ],
+   "markdown": "###### Artigo 10.º — Competências e estrutura\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15."
+  },
+  "6b795975c03f31de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competências",
+   "in_force_from": "2000-03-16",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15."
+   ],
+   "markdown": "###### Artigo 12.º — Competências\n\nAo Departamento dos Serviços Administrativos, abreviadamente designado por DSA, compete, nomeadamente:\n\na) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRCI;\n\nb) Coordenar, promover a assegurar os procedimentos administrativos relativos a assuntos de expediente geral e arquivo;\n\nc) Assegurar e controlar a execução orçamental da DRCI;\n\nd) Promover e assegurar a gestão dos recursos patrimoniais, numa perspectiva de optimização dos meios disponíveis, e zelar pela sua conservação, incluindo a dos edifícios e demais instalações afectos à DRCI.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15."
+  },
+  "7fd1256d3aa278b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º-A — Chefes de departamento",
+   "in_force_from": "2000-03-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15."
+   ],
+   "markdown": "###### Artigo 13.º-A — Chefes de departamento\n\n1 - São criados no quadro de pessoal da DRCI dois lugares de chefe de departamento, a extinguir quando vagarem.\n\n2 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.\n\n3 - A transição referida no número anterior faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontra posicionado.\n\n4 - Quando da transição resulte um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeitos de progressão na nova categoria.\n\n5 - A transição produz efeitos a partir da data de integração na nova categoria.\n\n6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15."
+  },
+  "260dd90e145d7ee9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º-B",
+   "in_force_from": "2000-03-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15."
+   ],
+   "markdown": "###### Artigo 13.º-B\n\nCom a entrada em vigor do presente diploma são extintos os lugares de chefe de repartição.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15."
+  },
+  "9fdfcc2c8720e9b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Categorias de operador de reprografia e de auxiliar de limpeza",
+   "in_force_from": "2000-03-16",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15."
+   ],
+   "markdown": "###### Artigo 15.º — Categorias de operador de reprografia e de auxiliar de limpeza\n\n1 - As categorias de operador de reprografia e de auxiliar de limpeza integram o grupo de pessoal auxiliar.\n\n2 - As categorias referidas no n.º 1 são consideradas horizontais para efeitos de progressão.\n\n3 - Sem prejuízo dos demais requisitos exigidos por lei, o ingresso naquelas categorias faz-se, mediante concurso, de entre indivíduos possuidores da escolaridade obrigatória.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15."
+  }
+ }
+}

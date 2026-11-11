@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-09-17'
+version_history:
+  file: portaria-344-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-09-17'
+    amending: pt:dre:177431:por
+    amending_title: Portaria n.º 691/85
+    changes:
+    - Altera Artigo unidades 14-14
+    - Adita Artigo depois da unidade 14
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:25:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 691/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1974/portaria-344-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,7 +150,19 @@ Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado
 
 10.º Permite-se receber, em regime de armazenagem, as mercadorias chegadas ao terminal em contentores, quer vindas por via marítima, quer circulem a coberto da Convenção TIR.
 
-11.º O prazo máximo de armazenagem neste depósito é de quinze dias, a contar da data da entrada do respectivo contentor ou do camião em regime TIR. Findo este prazo, sem que a mercadoria haja sido desembaraçada da acção fiscal, será a mesma remetida, sob fiscalização, para depósito geral franco do porto de Lisboa, processando-se o respectivo bilhete de entrada.
+11.º O prazo de armazenagem neste depósito é de 5 anos, a contar da data da entrada das mercadorias transportadas em contentores ou a coberto do regime TIR.
+
+> Alterado pelo/a [Portaria n.º 691/85](https://diariodarepublica.pt/dr/detalhe/portaria/691-1985-177431), publicado em 1985-09-17.
+
+11.º-A. O director-geral das Alfândegas poderá prorrogar ou reduzir o prazo de armazenagem estabelecido no n.º 11.º, de acordo com a natureza das mercadorias.
+
+11.º-B. As mercadorias armazenadas nestes depósitos poderão ser objecto, nas condições estabelecidas pelas direcções das alfândegas, de manipulações usuais destinadas a assegurar a sua conservação ou a melhorar a sua apresentação ou qualidade comercial.
+
+11.º-C.A lista das manipulações usuais a que se refere o n.º 11.º-B será publicada por portaria do Ministro das Finanças e do Plano.
+
+11.º-D. As mercadorias que sejam submetidas a tratamentos diferentes das manipulações usuais mencionadas no n.º 11.º-B ficarão sujeitas às regras em vigor em matéria de aperfeiçoamento activo.
+
+> Aditado pelo/a [Portaria n.º 691/85](https://diariodarepublica.pt/dr/detalhe/portaria/691-1985-177431), publicado em 1985-09-17.
 
 12.º Os contentores vindos por via marítima serão acompanhados de folhas de descarga e de fiscalização, excepto nos casos em que esta seja de dispensar.
 

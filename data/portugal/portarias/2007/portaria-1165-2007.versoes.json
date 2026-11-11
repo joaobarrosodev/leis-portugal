@@ -1,0 +1,365 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:640579:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-09-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "40ed8803ff3e3846",
+    "88e45161a118643b",
+    "8a1d2f407743be54",
+    "742cdac548145380",
+    "45886a43dc2f9594",
+    "68720f0924d13924",
+    "b47c6b756964c9cf",
+    "83c113597c40e42a",
+    "257c6f7edb29876b",
+    "dbdd31904d975e6f",
+    "0dd329a8e3e034e4",
+    "930e87b480edc49a",
+    "7d95feccccd225b5",
+    "32dbf9c790e19743",
+    "926e9d0b05800da8",
+    "ea0447c314c33eb1",
+    "07af0cae6dd4a1e2",
+    "08beab7a5c748142",
+    "e9e54e7487d8fbe5",
+    "819a7cd1f5e584a5",
+    "84366ed7d40e492f",
+    "30a5a55e873e24d9",
+    "dbcd05e2c5894fb2",
+    "f5fd504d5e51e1d7",
+    "50750c4c57f548a0",
+    "6091c52c65a58423",
+    "6235d51b7568d72f",
+    "fc0c30176bfec595",
+    "a8f5602b8e1b7179",
+    "2c443018c8a4e8b8",
+    "df739bae071c6c65",
+    "7b6bb4a4b01126e2"
+   ]
+  },
+  {
+   "date": "2010-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:306471:por",
+     "title": "Portaria n.º 1307/2010",
+     "published": "2010-12-23",
+     "dre_path": "/dr/detalhe/portaria/1307-2010-306471"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 45-49"
+   ],
+   "fragments": [
+    "e6cb3000909b1edc",
+    "8a1d2f407743be54",
+    "742cdac548145380",
+    "45886a43dc2f9594",
+    "68720f0924d13924",
+    "b47c6b756964c9cf",
+    "83c113597c40e42a",
+    "257c6f7edb29876b",
+    "dbdd31904d975e6f",
+    "0dd329a8e3e034e4",
+    "930e87b480edc49a",
+    "7d95feccccd225b5",
+    "32dbf9c790e19743",
+    "926e9d0b05800da8",
+    "ea0447c314c33eb1",
+    "07af0cae6dd4a1e2",
+    "08beab7a5c748142",
+    "e9e54e7487d8fbe5",
+    "819a7cd1f5e584a5",
+    "84366ed7d40e492f",
+    "30a5a55e873e24d9",
+    "dbcd05e2c5894fb2",
+    "f5fd504d5e51e1d7",
+    "50750c4c57f548a0",
+    "6091c52c65a58423",
+    "6235d51b7568d72f",
+    "fc0c30176bfec595",
+    "a8f5602b8e1b7179",
+    "2c443018c8a4e8b8",
+    "df739bae071c6c65",
+    "7b6bb4a4b01126e2"
+   ]
+  }
+ ],
+ "fragments": {
+  "40ed8803ff3e3846": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Setembro\n\nCom vista a regulamentar o novo regime jurídico das armas e suas munições, aprovado pela [Lei n.º 5/2006](https://diariodarepublica.pt/dr/detalhe/lei/5-2006-676608), de 23 de Fevereiro, a [Portaria n.º 931/2006](https://diariodarepublica.pt/dr/detalhe/portaria/931-2006-540040), de 8 de Setembro, estabeleceu os modelos de licenças, alvarás, certificados e outras autorizações, a emitir pela Polícia de Segurança Pública, e necessários à execução daquela lei.\n\nPor outro lado, a [Portaria n.º 943/2006](https://diariodarepublica.pt/dr/detalhe/portaria/943-2006-540053) definiu o regime de taxas a aplicar na apresentação de requerimentos, concessão de licenças e alvarás e demais actos previstos na lei das armas e suas munições e legislação complementar.\n\nConcluídos os estudos tendentes a dar expressão às orientações estabelecidas pela [Lei n.º 5/2006](https://diariodarepublica.pt/dr/detalhe/lei/5-2006-676608) no tocante à utilização de novas tecnologias de informação e comunicação para desmaterializar procedimentos, simplificar a tramitação de actos e dar a todos os interessados meios fáceis e económicos de cumprir as obrigações legais foi possível desenvolver um sistema de informação e gestão de armas e explosivos (SIGAE), projecto previsto no SIMPLEX 2007, cuja exequibilidade depende, contudo, da adequação dos modelos actualmente em vigor, para outros que integrem dispositivos de segurança.\n\nDa mesma forma e correspondendo à melhoria dos serviços na emissão de documentos aos interessados e às novas funcionalidades e meios colocados ao dispor dos cidadãos, torna-se necessário proceder a alterações no regime das taxas. Nesse âmbito incluem-se ajustamentos pontuais que respeitam a actos praticados pela PSP que não eram objecto de taxa, em particular no âmbito do regime jurídico relativo à segurança de produtos explosivos, cujas taxas foram definidas pela [Portaria n.º 637/2005](https://diariodarepublica.pt/dr/detalhe/portaria/637-2005-240612), de 4 de Agosto, com a redacção dada pela [Portaria n.º 1148/2005](https://diariodarepublica.pt/dr/detalhe/portaria/1148-2005-582997), de 9 de Novembro.\n\nAssim:\n\nManda o Governo, através do Secretário de Estado Adjunto e da Administração Interna, ao abrigo do disposto n.º 2 do artigo 35.º, nos n.os 1 e 4 do artigo 83.º e das alíneas d) e e) do artigo 117.º da [Lei n.º 5/2006](https://diariodarepublica.pt/dr/detalhe/lei/5-2006-676608), de 23 de Fevereiro, e do n.º 1 do artigo 41.º da [Lei n.º 42/2006](https://diariodarepublica.pt/dr/detalhe/lei/42-2006-540663), de 25 de Agosto, bem como do n.º 7 do artigo 9.º do [Decreto-Lei n.º 87/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2005-692396), de 23 de Maio, o seguinte:\n\n1.º\n\nOs anexos i a xxvii e xxix a xxxi a que se refere o n.º 2.º da [Portaria n.º 931/2006](https://diariodarepublica.pt/dr/detalhe/portaria/931-2006-540040), de 8 de Setembro, com a redacção dada pelo n.º 1.º da Portaria n.º 256/2007, de 12 de Março, são substituídos pelos anexos à presente portaria, da qual fazem parte integrante.\n\n2.º\n\nOs n.os 14.º e 16.º do Regulamento aprovado pela [Portaria n.º 934/2006](https://diariodarepublica.pt/dr/detalhe/portaria/934-2006-540043), de 8 de Setembro, passam a ter a seguinte redacção:\n\n«14.º\n\n[...]\n\n...\n\na)...\n\nb)...\n\nc)...\n\nd)...\n\ne)...\n\nf)...\n\ng)...\n\nh)...\n\ni)...\n\nj)...\n\nl)...\n\nm)...\n\nn)...\n\no)...\n\ni)...\n\nii)...\n\np)...\n\nq)...\n\nr)...\n\ns)...\n\nt)...\n\nu)...\n\nv)...\n\nx) Criação e envio de cartas/PIN - (euro) 5;\n\nz) Emissão de documentos com pedido de urgência - (euro) 15;\n\naa) Averbamentos - (euro) 5.\n\n16.º\n\nSegundas vias, renovações e cedência de alvarás\n\nPela emissão unitária de segundas vias de quaisquer autorizações, licenças e alvarás há lugar ao pagamento, à PSP, de uma taxa correspondente a 50 % do valor devido pela prática do acto originário, com excepção das previstas nos artigos 5.º e 13.º do presente Regulamento, as quais dão lugar ao pagamento de montante igual ao devido pela primeira emissão.»\n\n3.º\n\nO anexo iii da tabela relativa às taxas para o Fundo de Fiscalização de Explosivos e Armamento a que se refere o n.º 4.º da [Portaria n.º 637/2005](https://diariodarepublica.pt/dr/detalhe/portaria/637-2005-240612), de 4 de Agosto, alterado pela [Portaria n.º 1148/2005](https://diariodarepublica.pt/dr/detalhe/portaria/1148-2005-582997), de 9 de Novembro, passa a ter a seguinte redacção:"
+  },
+  "88e45161a118643b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — (a que se refere o n.º 4)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — (a que se refere o n.º 4)\n\nTabela relativa às taxas para o Fundo de Fiscalização de Explosivos e Armamento\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)\n\nO Secretário de Estado Adjunto e da Administração Interna, José Manuel dos Santos de Magalhães, em 31 de Agosto de 2007."
+  },
+  "8a1d2f407743be54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo I — (frente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (frente)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)\n\n(verso)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)\n\nCartão em policarbonato, formato ID1 (ISO/IEC 7810:2003 identification cards - phisical characteristics) com design gráfico de segurança"
+  },
+  "742cdac548145380": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo II — (frente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (frente)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)\n\n(verso)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)\n\nCartão em policarbonato, formato ID1 (ISO/IEC 7810:2003 identification cards - phisical characteristics) com design gráfico de segurança"
+  },
+  "45886a43dc2f9594": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "68720f0924d13924": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "b47c6b756964c9cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo V — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "83c113597c40e42a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo VI — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "257c6f7edb29876b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo VII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "dbdd31904d975e6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo VIII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "0dd329a8e3e034e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo IX — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IX — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "930e87b480edc49a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo X — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo X — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "7d95feccccd225b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XI — (frente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XI — (frente)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)\n\n(verso)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)\n\nCartão em policarbonato, formato ID1 (ISO/IEC 7810:2003 identification cards - phisical characteristics) com design gráfico de segurança"
+  },
+  "32dbf9c790e19743": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "926e9d0b05800da8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XIII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XIII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "ea0447c314c33eb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XIV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XIV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "07af0cae6dd4a1e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "08beab7a5c748142": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XVI — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XVI — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "e9e54e7487d8fbe5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XVII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XVII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "819a7cd1f5e584a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XVIII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XVIII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "84366ed7d40e492f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XIX — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XIX — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "30a5a55e873e24d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XX — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XX — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "dbcd05e2c5894fb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XXI — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXI — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "f5fd504d5e51e1d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XXII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "50750c4c57f548a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XXIII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXIII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "6091c52c65a58423": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XXIV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXIV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "6235d51b7568d72f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XXV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "fc0c30176bfec595": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XXVI — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXVI — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "a8f5602b8e1b7179": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XXVII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXVII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "2c443018c8a4e8b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XXIX — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXIX — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "df739bae071c6c65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XXX — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXX — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "7b6bb4a4b01126e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo XXXI — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo XXXI — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)"
+  },
+  "e6cb3000909b1edc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2010-12-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1307/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1307-2010-306471), publicado em 2010-12-23."
+   ],
+   "markdown": "de 13 de Setembro\n\nCom vista a regulamentar o novo regime jurídico das armas e suas munições, aprovado pela [Lei n.º 5/2006](https://diariodarepublica.pt/dr/detalhe/lei/5-2006-676608), de 23 de Fevereiro, a [Portaria n.º 931/2006](https://diariodarepublica.pt/dr/detalhe/portaria/931-2006-540040), de 8 de Setembro, estabeleceu os modelos de licenças, alvarás, certificados e outras autorizações, a emitir pela Polícia de Segurança Pública, e necessários à execução daquela lei.\n\nPor outro lado, a [Portaria n.º 943/2006](https://diariodarepublica.pt/dr/detalhe/portaria/943-2006-540053) definiu o regime de taxas a aplicar na apresentação de requerimentos, concessão de licenças e alvarás e demais actos previstos na lei das armas e suas munições e legislação complementar.\n\nConcluídos os estudos tendentes a dar expressão às orientações estabelecidas pela [Lei n.º 5/2006](https://diariodarepublica.pt/dr/detalhe/lei/5-2006-676608) no tocante à utilização de novas tecnologias de informação e comunicação para desmaterializar procedimentos, simplificar a tramitação de actos e dar a todos os interessados meios fáceis e económicos de cumprir as obrigações legais foi possível desenvolver um sistema de informação e gestão de armas e explosivos (SIGAE), projecto previsto no SIMPLEX 2007, cuja exequibilidade depende, contudo, da adequação dos modelos actualmente em vigor, para outros que integrem dispositivos de segurança.\n\nDa mesma forma e correspondendo à melhoria dos serviços na emissão de documentos aos interessados e às novas funcionalidades e meios colocados ao dispor dos cidadãos, torna-se necessário proceder a alterações no regime das taxas. Nesse âmbito incluem-se ajustamentos pontuais que respeitam a actos praticados pela PSP que não eram objecto de taxa, em particular no âmbito do regime jurídico relativo à segurança de produtos explosivos, cujas taxas foram definidas pela [Portaria n.º 637/2005](https://diariodarepublica.pt/dr/detalhe/portaria/637-2005-240612), de 4 de Agosto, com a redacção dada pela [Portaria n.º 1148/2005](https://diariodarepublica.pt/dr/detalhe/portaria/1148-2005-582997), de 9 de Novembro.\n\nAssim:\n\nManda o Governo, através do Secretário de Estado Adjunto e da Administração Interna, ao abrigo do disposto n.º 2 do artigo 35.º, nos n.os 1 e 4 do artigo 83.º e das alíneas d) e e) do artigo 117.º da [Lei n.º 5/2006](https://diariodarepublica.pt/dr/detalhe/lei/5-2006-676608), de 23 de Fevereiro, e do n.º 1 do artigo 41.º da [Lei n.º 42/2006](https://diariodarepublica.pt/dr/detalhe/lei/42-2006-540663), de 25 de Agosto, bem como do n.º 7 do artigo 9.º do [Decreto-Lei n.º 87/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2005-692396), de 23 de Maio, o seguinte:\n\n1.º\n\nOs anexos i a xxvii e xxix a xxxi a que se refere o n.º 2.º da [Portaria n.º 931/2006](https://diariodarepublica.pt/dr/detalhe/portaria/931-2006-540040), de 8 de Setembro, com a redacção dada pelo n.º 1.º da Portaria n.º 256/2007, de 12 de Março, são substituídos pelos anexos à presente portaria, da qual fazem parte integrante.\n\n2.º\n\nOs n.os 14.º e 16.º do Regulamento aprovado pela [Portaria n.º 934/2006](https://diariodarepublica.pt/dr/detalhe/portaria/934-2006-540043), de 8 de Setembro, passam a ter a seguinte redacção:\n\n«14.º\n\n[...]\n\n...\n\na)...\n\nb)...\n\nc)...\n\nd)...\n\ne)...\n\nf)...\n\ng)...\n\nh)...\n\ni)...\n\nj)...\n\nl)...\n\nm)...\n\nn)...\n\no)...\n\ni)...\n\nii)...\n\np)...\n\nq)...\n\nr)...\n\ns)...\n\nt)...\n\nu)...\n\nv)...\n\nx) Criação e envio de cartas/PIN - (euro) 5;\n\nz) Emissão de documentos com pedido de urgência - (euro) 15;\n\naa) Averbamentos - (euro) 5.\n\n16.º\n\nSegundas vias, renovações e cedência de alvarás\n\nPela emissão unitária de segundas vias de quaisquer autorizações, licenças e alvarás há lugar ao pagamento, à PSP, de uma taxa correspondente a 50 % do valor devido pela prática do acto originário, com excepção das previstas nos artigos 5.º e 13.º do presente Regulamento, as quais dão lugar ao pagamento de montante igual ao devido pela primeira emissão.»\n\n3.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 1307/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1307-2010-306471), publicado em 2010-12-23.\n\nO Secretário de Estado Adjunto e da Administração Interna, José Manuel dos Santos de Magalhães, em 31 de Agosto de 2007."
+  }
+ }
+}

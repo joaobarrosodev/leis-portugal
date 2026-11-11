@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-10-13'
+version_history:
+  file: despacho-normativo-40-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-02-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-10-13'
+    amending: pt:dre:400051:por
+    amending_title: Despacho Normativo n.º 154/84
+    changes:
+    - Altera Artigo unidades 62-62
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:29:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 154/84. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1984/despacho-normativo-40-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -225,7 +240,17 @@ b) Os novos exportadores que não justifiquem a não utilização das quotas que
 
 c) As empresas que não justifiquem a não utilização das extraquotas que lhes tenham sido distribuídas serão penalizadas no exercício seguinte, com o indeferimento de qualquer candidatura aos saldos disponíveis e ser-lhes-á deduzido, na sua quota, o dobro do quantitativo autorizado a título de extraquota e não realizado.
 
-21 - Às empresas que forem, comprovadamente, autoras de cedência ou aquisição de quotas ou extraquotas, a qualquer título ou por qualquer forma, serão recusadas, no ano seguinte, quaisquer quotas a que se candidatem, independentemente do procedimento criminal que seja cabido nos termos da legislação comum.
+21 - a) É proibido exportar produtos têxteis contingentados com desrespeito das regras estabelecidas neste despacho, bem como vender, comprar, ceder ou transaccionar, por qualquer forma ou qualquer título, na sua totalidade ou parcialmente, as quotas ou extraquotas atribuídas.
+
+b) Quem violar o disposto na alínea anterior, independentemente de ficar sujeito ao procedimento criminal que ao Caso caiba e às sanções previstas no domínio do regime jurídico em vigor em matéria de violação das normas reguladoras do exercício de actividade económica, poderá também ser penalizado, no ano imediato, com alguma ou algumas das seguintes medidas, conforme as circunstâncias do caso:
+
+i) Recusa de quaisquer quotas para quaisquer mercados;
+
+ii) Recusa de quaisquer quotas para o mercado relativamente ao qual ocorreu a transacção punível;
+
+iii) Recusa de quota para a categoria de produtos e para o mercado objecto da transacção punível.
+
+> Alterado pelo/a [Despacho Normativo n.º 154/84](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/154-1984-400051), publicado em 1984-10-08.
 
 22 - As categorias de produtos que nos termos dos acordos de autolimitação celebrados estejam sujeitas ao regime de vigilância serão:
 

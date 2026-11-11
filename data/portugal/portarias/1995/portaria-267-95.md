@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-10'
+version_history:
+  file: portaria-267-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-04-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-10'
+    amending: pt:dre:643715:por
+    amending_title: Portaria n.º 822/97
+    changes:
+    - Adita Artigo depois da unidade 112
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/267/1995/04/03/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:58:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 822/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-267-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -336,6 +351,30 @@ São condições para obtenção do diploma de estudos superiores especializados
 a) A aprovação na totalidade das unidades curriculares que integram o respectivo plano de estudos;
 
 b) A realização, com aproveitamento, do projecto a que se refere o n.º 17.º
+
+21-A.º
+
+Grau de licenciado
+
+1 - Aos titulares do diploma de estudos superiores especializados em Gestão e Extensão Agrárias que nele hajam ingressado com a titularidade de um dos bacharelatos a que se refere o n.º 1 do n.º 3.º é conferido o grau de licenciado em Gestão e Extensão Agrárias, desde que se verifique a efectiva formação de um conjunto coerente entre o curso de bacharelato e o curso de estudos superiores especializados, nos termos do disposto no n.º 7 do artigo 13.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro.
+
+2 - Compete ao conselho científico da Escola Superior Agrária do Instituto Politécnico de Coimbra verificar, em cada caso concreto, a existência da referida coerência.
+
+21.º-B
+
+Classificação do grau de licenciado
+
+A classificação do grau de licenciado é a resultante do cálculo da expressão seguinte, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):
+
+(3B + 2D)/5
+
+em que:
+
+B é a classificação final do curso com que ingressou no curso de estudos superiores especializados;
+
+D é a classificação final do curso de estudos superiores especializados.
+
+> Aditado pelo/a [Portaria n.º 822/97](https://diariodarepublica.pt/dr/detalhe/portaria/822-1997-643715), publicado em 1997-09-05.
 
 22.º
 

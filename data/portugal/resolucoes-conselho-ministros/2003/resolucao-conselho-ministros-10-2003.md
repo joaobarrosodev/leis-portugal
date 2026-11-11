@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-07-13'
+version_history:
+  file: resolucao-conselho-ministros-10-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-01-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-07-13'
+    amending: pt:dre:666751:por
+    amending_title: Resolução do Conselho de Ministros n.º 89/2003
+    changes:
+    - Adita Artigo depois da unidade 11
+    - Altera Artigo unidades 12-16
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/10/2003/01/28/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:44:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 89/2003. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2003/resolucao-conselho-ministros-10-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,14 +155,20 @@ c) Se as obrigações do Tesouro forem emitidas por séries, estas são identifi
 
 d) As condições específicas de cada série de obrigações do Tesouro, designadamente o regime de taxa de juro, as condições de pagamento de juros, o regime de reembolso e o destaque de direitos, são estabelecidas e divulgadas pelo Instituto de Gestão do Crédito Público, em função das condições vigentes nos mercados financeiros no momento da primeira emissão e da estratégia de financiamento considerada mais adequada.
 
-3 - A emissão de certificados de aforro é autorizada até ao montante máximo de 2500 milhões de euros.
+3 - A emissão de dívida pública fundada sob a forma de bilhetes do Tesouro é autorizada até ao montante máximo de 5500 milhões de euros, de acordo com o disposto no [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), de 17 de Setembro, na versão introduzida pelo [Decreto-Lei n.º 91/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2003-571434), de 30 de Abril.
 
-4 - A emissão de outra dívida pública fundada, denominada em moeda com ou sem curso legal em Portugal, sob formas de representação distintas das indicadas nos números anteriores, é autorizada até ao montante máximo de 7500 milhões de euros.
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 89/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/89-2003-666751), publicado em 2003-07-08.
 
-5 - O montante total das emissões de empréstimos públicos que sejam realizadas nos termos do disposto nos precedentes n.os 2 a 4 não poderá, em caso algum, ultrapassar o limite fixado no artigo 62.º da [Lei n.º 32-B/2002](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), de 30 de Dezembro.
+4 - A emissão de certificados de aforro é autorizada até ao montante máximo de 2500 milhões de euros.
 
-6 - Por despacho do Ministro das Finanças, podem ser anulados montantes autorizados, mas não colocados, de alguma ou algumas das formas de representação de empréstimos públicos previstas nos números anteriores e aumentados, no mesmo valor, os montantes autorizados para outra ou outras dessas formas.
+5 - A emissão de outra dívida pública fundada, denominada em moeda com ou sem curso legal em Portugal, sob formas de representação distintas das indicadas nos números anteriores, é autorizada até ao montante de 2 milhões de euros.
 
-7 - A presente resolução entra em vigor no dia seguinte ao da sua publicação.
+6 - O montante total das emissões de empréstimos públicos realizadas nos termos do disposto nos precedentes n.os 2 a 5 não pode, em caso algum, ultrapassar o limite fixado no artigo 62.º da [Lei n.º 32-B/2002](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), de 30 de Dezembro.
+
+7 - Por despacho do Ministro das Finanças, podem ser anulados montantes autorizados, mas não colocados, de alguma ou algumas das formas de representação de empréstimos públicos previstas nos números anteriores e aumentados, no mesmo valor, os montantes autorizados para outra ou outras dessas formas.
+
+8 - A presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 89/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/89-2003-666751), publicado em 2003-07-08.
 
 Presidência do Conselho de Ministros, 9 de Janeiro de 2003. - O Primeiro-Ministro, José Manuel Durão Barroso.

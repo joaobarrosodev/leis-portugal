@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-12-07'
+version_history:
+  file: portaria-513-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-09-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-12-07'
+    amending: pt:dre:324520:por
+    amending_title: Portaria n.º 711/78
+    changes:
+    - Altera Artigo unidades 36-37
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:43:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 711/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-513-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -172,9 +187,11 @@ A integração no quadro paralelo far-se-á mediante listas nominativas aprovada
 
 1 - Ao pessoal que vier a ser integrado no quadro paralelo será aplicável o regime geral de pessoal estabelecido para idênticas categorias dos serviços dependentes da Direcção-Geral dos Registos e do Notariado.
 
-2 - Os adidos integrados no quadro paralelo serão, porém, considerados concorrentes obrigatórios em todos os concursos da respectiva categoria.
+2 - Os agentes integrados no quadro paralelo têm acesso aos mesmos concursos que os funcionários dos quadros privativos dos cartórios e conservatórias, dos quais passarão a ser opositores obrigatórios dois anos após a publicação da presente portaria.
 
-3 - Nos concursos de provimento de lugares de escriturário-dactilógrafo é reconhecida preferência legal aos funcionários do quadro paralelo apenas sobre candidatos que não façam parte dos quadros dos serviços dos registos e do notariado ou não sejam nestes assalariados à data da publicação da presente portaria.
+3 - Nos concursos a que se refere o número anterior, os funcionários dos quadros privativos dos cartórios e conservatórias têm preferência sobre os agentes integrados no quadro paralelo, gozando de igual preferência os assalariados existentes à data da publicação da presente portaria quanto aos concursos para provimento de lugares de escriturário-dactilógrafo.
+
+> Alterado pelo/a [Portaria n.º 711/78](https://diariodarepublica.pt/dr/detalhe/portaria/711-1978-324520), publicado em 1978-12-06.
 
 4 - Ao pessoal do quadro paralelo será contado, para todos os efeitos, o tempo de serviço prestado nas ex-colónias e no quadro geral de adidos.
 

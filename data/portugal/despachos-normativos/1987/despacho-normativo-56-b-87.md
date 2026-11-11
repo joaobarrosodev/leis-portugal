@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-10-29'
+version_history:
+  file: despacho-normativo-56-b-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-10-29'
+    amending: pt:dre:496106:por
+    amending_title: Despacho Normativo n.º 85/87
+    changes:
+    - Altera Artigo unidades 7-8
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:38:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 85/87. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1987/despacho-normativo-56-b-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,9 +152,13 @@ No âmbito da organização do mercado das frutas e produtos hortícolas e ao ab
 
 2 - A inscrição para a distribuição pelos agentes importadores dos contingentes definidos nos termos do n.º 1 encontra-se aberta:
 
-a) Para as cebolas, alhos, limões, uvas de mesa, pêssegos, laranjas e peras, a partir da data da publicação do presente despacho normativo e impreterivelmente até às 17 horas e 30 minutos do décimo dia útil a contar do dia da publicação do presente despacho normativo;
+a) Para as cebolas, alhos, limões, uvas de mesa e pêssegos, nos prazos estabelecidos na alínea b) do n.º 4 do [Despacho Normativo n.º 31/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-1987-666499), de 17 de Março, publicado no Diário da República, 1.ª série, n.º 71, de 26 do mesmo mês;
 
-b) Para a couve-flor, tomates e tangerinas, incluindo satsumas, durante os primeiros dez dias úteis do mês anterior ao início do período respectivo.
+b) Para as laranjas e peras, a partir da data da publicação do presente despacho normativo e impreterivelmente até às 17 horas e 30 minutos do décimo dia útil a contar do dia da publicação deste despacho normativo;
+
+c) Para a couve-flor, tomates e tangerinas, incluindo satsumas, durante os primeiros dez dias úteis do mês anterior ao início do período respectivo.
+
+> Alterado pelo/a [Despacho Normativo n.º 85/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/85-1987-496106), publicado em 1987-10-24.
 
 3 - Os pedidos de importação, preenchidos nos termos do n.º 7.º da [Portaria n.º 63-J/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-j-1986-245106), com a redacção que lhe foi dada pelo n.º 7.º da [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), de 6 de Agosto, deverão ainda conter o preço unitário do produto e ser dirigidos, em carta registada com aviso de recepção, à Direcção-Geral do Comércio Externo, Divisão de Licenciamento e Registo Prévio, Avenida da República, 79, rés-do-chão, 1094 Lisboa Codex, ou entregues contra recibo no mesmo local, nos prazos estabelecidos nas alíneas a) e b) do número anterior.
 

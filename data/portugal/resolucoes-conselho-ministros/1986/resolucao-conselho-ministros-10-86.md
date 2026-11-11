@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-05-10'
+version_history:
+  file: resolucao-conselho-ministros-10-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-01-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-05-10'
+    amending: pt:dre:227436:por
+    amending_title: Resolução do Conselho de Ministros n.º 35/86
+    changes:
+    - Altera Artigo unidades 7-7
+    - Adita Artigo depois da unidade 7
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T20:13:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 35/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1986/resolucao-conselho-ministros-10-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,6 +130,12 @@ Nestes termos, o Conselho de Ministros, reunido em 9 de Janeiro de 1986, resolve
 
 2 - Determinar que o disposto no n.º 1 não é aplicável aos subsídios de acção social directa, bem como a quaisquer subsídios de montante inferior a 50000$00.
 
-3 - Determinar que a publicação a que se refere o n.º 1 se efectue na 2.ª série do Diário da República até ao dia 15 do mês seguinte àquele a que os subsídios digam respeito.
+3 - Determinar que a publicação a que se refere o n.º 1 se efectue na 2.ª série do Diário da República até ao último dia útil do mês seguinte àquele a que os subsídios digam respeito.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 35/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-1986-227436), publicado em 1986-05-05.
+
+4 - A publicação a que se refere o n.º 1 compete à Secretaria-Geral da Presidência do Conselho de Ministros, a qual centralizará as operações de recolha dos elementos a publicar, para o que as secretarias-gerais ou organismos equiparados dos diversos ministérios lhe enviarão a lista respectiva até ao dia 15 do mês seguinte àquele a que os subsídios respeitem.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 35/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-1986-227436), publicado em 1986-05-05.
 
 Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.

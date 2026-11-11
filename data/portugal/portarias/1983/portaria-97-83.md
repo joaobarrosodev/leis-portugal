@@ -29,10 +29,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-04-26'
+version_history:
+  file: portaria-97-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-01-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-04-26'
+    amending: pt:dre:177658:por
+    amending_title: Portaria n.º 795/85; Portaria n.º 326/87
+    changes:
+    - Adita Artigo depois da unidade 12
+    - Adita Artigo depois da unidade 74
+    - Altera Artigo unidades 77-77
+    - Adita Artigo depois da unidade 77
 identifiers:
   celex: null
   eli: null
@@ -58,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:55:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 795/85; Portaria n.º
+    326/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-97-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,6 +156,10 @@ b) Ciências Jurídico-Económicas;
 c) Ciências Jurídico-Políticas;
 
 d) Ciências Jurídicas.
+
+e) Direito das Comunidades Europeias.
+
+> Aditado pelo/a [Portaria n.º 326/87](https://diariodarepublica.pt/dr/detalhe/portaria/326-1987-665897), publicado em 1987-04-21.
 
 2.º
 
@@ -263,8 +285,28 @@ d) Área de especialização em Ciências Jurídicas:
 
 Direito Civil;
 
+Filosofia do Direito;
+
+Direito Penal;
+
+> Aditado pelo/a [Portaria n.º 795/85](https://diariodarepublica.pt/dr/detalhe/portaria/795-1985-177658), publicado em 1985-10-19.
+
 Direito Comercial;
 
 Direito Processual.
 
-Nota. - Para os efeitos do n.º 2 do n.º 5.º o aluno optará entre Direito Comercial e Direito Processual.
+Nota. - O conselho científico oferecerá em cada ano Direito Civil e pelo menos mais duas das restantes disciplinas. O aluno cursará necessariamente Direito Civil e deverá optar, para os efeitos do n.º 2 do n.º 5.º, por outra das disciplinas em causa.
+
+> Alterado pelo/a [Portaria n.º 795/85](https://diariodarepublica.pt/dr/detalhe/portaria/795-1985-177658), publicado em 1985-10-19.
+
+e) Área de especialização em Direito das Comunidades Europeias:
+
+Direito Institucional Comunitário;
+
+Direito Económico Comunitário;
+
+Integração Económica.
+
+Nota. - Para os efeitos do n.º 2 do n.º 5.º, o aluno escolherá duas das três áreas científicas indicadas.
+
+> Aditado pelo/a [Portaria n.º 326/87](https://diariodarepublica.pt/dr/detalhe/portaria/326-1987-665897), publicado em 1987-04-21.

@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-12-22'
+version_history:
+  file: portaria-802-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-12-22'
+    amending: pt:dre:567057:por
+    amending_title: Portaria n.º 1091/81
+    changes:
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 11-13
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:31:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1091/81. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-802-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -103,15 +119,19 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Seguran�
 
 1 - É reconhecido aos trabalhadores inscritos marítimos exercendo a sua actividade na pesca, beneficiários da Caixa de Previdência e Abono de Família dos Profissionais de Pesca, integrados em campanhas por um período mínimo de quinze anos, a pensão por desgaste físico, entrando-se em consideração com os coeficientes referidos no número seguinte, para uma diminuição da idade de reforma fixada para o regime geral da Previdência.
 
-2 - Os coeficientes a considerar segundo os vários tipos de pesca e relativamente ao número de anos de serviço efectivamente prestado são os seguintes:
+2 - Os coeficientes a considerar segundo os vários tipos de pesca relativamente ao número de anos de serviço efectivamente prestado são os seguintes:
+
+> Alterado pelo/a [Portaria n.º 1091/81](https://diariodarepublica.pt/dr/detalhe/portaria/1091-1981-567057), publicado em 1981-12-22.
 
 ... Percentagem
 
-Pesca de bacalhau ... 20
+Pesca do bacalhau ... 33
 
-Pesca do arrasto do alto ou longínqua ... 15
+Pesca do arrasto do alto ou longínqua ... 25
 
-Pesca do arrasto costeiro, sardinha, artesanal, atum ou cetáceos ... 10
+Pesca do arrasto costeiro, sardinha, artesanal, atum ou cetáceos ... 15
+
+> Alterado pelo/a [Portaria n.º 1091/81](https://diariodarepublica.pt/dr/detalhe/portaria/1091-1981-567057), publicado em 1981-12-22.
 
 3 - Para efeitos do disposto nos números anteriores será contado um ano efectivo de serviço aos pescadores que façam parte da campanha num período mínimo de cento e cinquenta dias seguidos ou intercalados, dentro do mesmo ano civil.
 

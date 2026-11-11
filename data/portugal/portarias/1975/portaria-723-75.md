@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-03-08'
+version_history:
+  file: portaria-723-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-12-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-03-08'
+    amending: pt:dre:507462:por
+    amending_title: Portaria n.º 127/76
+    changes:
+    - Altera Artigo unidades 72-72
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:53:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 127/76. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1975/portaria-723-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -258,7 +273,9 @@ Destina-se a ministrar a instrução militar complementar, com especial incidên
 
 3) Cursos de formação de primeiros-cabos e soldados;
 
-4) Tirocínios e estágios de adaptação às funções próprias das diferentes especialidades, onde se inclui, para os mecânicos de material terrestre, a condução de viaturas automóveis militares.
+4) Tirocínios e estágios de adaptação às funções próprias das diferentes especialidades, onde se inclui, para os mecânicos de material terrestre, a condução de viaturas automóveis militares e a operação e manutenção do material dos serviços de incêndios.
+
+> Alterado pelo/a [Portaria n.º 127/76](https://diariodarepublica.pt/dr/detalhe/portaria/127-1976-507462), publicado em 1976-03-08.
 
 2. Nos casos em que tal se justifique, a preparação técnica pode ser também ministrada em conjunto com a preparação militar geral.
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-12-03'
+version_history:
+  file: portaria-640-f-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-03'
+    amending: pt:dre:437654:por
+    amending_title: Portaria n.º 1326/2003
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/640-f/1994/07/15/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:33:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1326/2003. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-640-f-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,7 +153,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Tó, município de Mogadouro, com uma área de 1826 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Tó, município de Mogadouro, com uma área de 1941 ha.
+
+> Alterado pelo/a [Portaria n.º 1326/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1326-2003-437654), publicado em 2003-11-28.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Associação de Caça e Pesca de Tó (registo no Instituto Florestal n.º 1.1429.94), com sede em Tó, Mogadouro, a zona de caça associativa de Tó (processo n.º 1691 do Instituto Florestal).
 

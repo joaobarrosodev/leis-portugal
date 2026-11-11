@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-09-11'
+version_history:
+  file: portaria-427-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-08-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-09-11'
+    amending: pt:dre:256646:por
+    amending_title: Decreto-Lei n.º 374-J/79
+    changes:
+    - Altera Artigo unidades 7-12
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:49:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 374-J/79. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1972/portaria-427-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,17 +146,15 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças e pelo Sec
 
 1.º Os produtos sujeitos à disciplina económica da Comissão Reguladora das Oleaginosas e Óleos Vegetais são os constantes da relação A anexa à presente portaria.
 
-2.º Os quantitativos das taxas que constituem receita da Comissão Reguladora das Oleaginosas e Óleos Vegetais e que incidem sobre os produtos sujeitos à sua disciplina, quer sejam produzidos no continente e ilhas, quer provenientes do ultramar, quer importados do estrangeiro, são os que constam da relação B anexa à presente portaria.
+2.º - (Revogado.)
 
-3.º - 1. A Comissão Reguladora das Oleaginosas e Óleos Vegetais, relativamente aos produtos originários da metrópole, procederá à liquidação das quantias correspondentes às taxas devidas, com base nas saídas mensais dos produtos do estabelecimento fabril indicadas nos mapas do movimento fabril.
+3.º - (Revogado.)
 
-2. Os mapas referidos neste número deverão ser enviados à Comissão Reguladora nos prazos fixados pelo organismo para este efeito.
+4.º - (Revogado.)
 
-4.º - 1. As importâncias liquidadas nos termos do número anterior deverão ser depositadas pelos produtores nacionais na Caixa Geral de Depósitos, Crédito e Previdência no prazo de trinta dias, a contar da data da guia de depósito emitida pela Comissão Reguladora.
+5.º - (Revogado.)
 
-2. Exceptuam-se do disposto no n.º 1 deste número as importâncias de montante inferior a 1000$00, as quais poderão ser pagas directamente por vale de correio, cheque ou à boca do cofre da Comissão Reguladora das Oleaginosas e Óleos Vegetais.
-
-5.º A liquidação e cobrança das taxas a pagar pelos importadores, em relação aos produtos provenientes do ultramar e aos importados do estrangeiro, serão efectuadas nos termos do disposto no [Decreto-Lei n.º 47466](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47466-1966-488076), de 31 de Dezembro de 1966.
+> Alterado pelo/a [Decreto-Lei n.º 374-J/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-j-1979-256646), publicado em 1979-09-10.
 
 6.º A presente portaria entrará em vigor sessenta dias após a data da sua publicação.
 

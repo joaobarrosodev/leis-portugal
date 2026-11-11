@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-06-27'
+version_history:
+  file: assento-1-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-05-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-06-27'
+    amending: pt:dre:140141:por
+    amending_title: Declaração de Rectificação n.º 22/2002
+    changes:
+    - Altera Artigo unidades 2-2
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/asst/1/2002/05/21/p/dre/pt/html
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T18:28:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 22/2002.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/assentos/2002/assento-1-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,7 +148,9 @@ validation:
 
 # Assento n.º 1/2002
 
-Processo n.º 255-A/98
+Processo n.º 2235/2001
+
+> Alterado pelo/a [Declaração de Rectificação n.º 22/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2002-140141), publicado em 2002-06-27.
 
 Acordam no pleno das Secções Criminais do Supremo Tribunal de Justiça:
 

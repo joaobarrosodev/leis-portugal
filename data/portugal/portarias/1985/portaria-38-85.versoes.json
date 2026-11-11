@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:328849:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-01-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d18332dd78a2d0fd"
+   ]
+  },
+  {
+   "date": "1989-02-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:611675:por",
+     "title": "Portaria n.º 95/89",
+     "published": "1989-02-04",
+     "dre_path": "/dr/detalhe/portaria/95-1989-611675"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-5"
+   ],
+   "fragments": [
+    "5fb2a433f01df5c4"
+   ]
+  }
+ ],
+ "fragments": {
+  "d18332dd78a2d0fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Janeiro\n\nAo abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, nos n.os 5 e 6 do artigo 4.º do mesmo diploma, com a redacção que lhes foi dada pelo [Decreto-Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1980-678824), de 29 de Fevereiro:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, aprovar o seguinte:\n\n1.º Ficam sujeitas ao regime de preços declarados, a que se refere o artigo 3.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, as leveduras destinadas ao fabrico do pão e dos produtos afins incluídas no desdobramento da classificação das actividades económicas (CAE, revisão de 1973) 3121.4.0, independentemente do volume de facturação das empresas produtoras ou importadoras.\n\n2.º Ficam sujeitos ao regime de preços declarados, a que se refere o artigo 3.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, os aditivos destinados ao fabrico do pão e dos produtos afins, incluídos no desdobramento da classificação das actividades económicas (CAE, revisão de 1973) 3121.9.9, produzidos ou importados por empresas cuja facturação bruta total correspondente a vendas no mercado interno, no ano anterior, tenha sido superior a 250000 contos, e cuja facturação nos produtos incluídos naquele desdobramento CAE tenha sido superior a 80000 contos.\n\n3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.\n\n4.º Ficam revogados a [Portaria n.º 929/82](https://diariodarepublica.pt/dr/detalhe/portaria/929-1982-375411), de 2 de Outubro, e o [Despacho Normativo n.º 211/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/211-1982-375423), publicado no Diário da República, 1.ª série, n.º 229, de 2 de Outubro de 1982.\n\nSecretaria de Estado do Comércio Interno.\n\nAssinada em 8 de Janeiro de 1985.\n\nO Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade."
+  },
+  "5fb2a433f01df5c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1989-02-05",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 95/89](https://diariodarepublica.pt/dr/detalhe/portaria/95-1989-611675), publicado em 1989-02-04."
+   ],
+   "markdown": "de 18 de Janeiro\n\nAo abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, nos n.os 5 e 6 do artigo 4.º do mesmo diploma, com a redacção que lhes foi dada pelo [Decreto-Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1980-678824), de 29 de Fevereiro:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, aprovar o seguinte:\n\n1.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 95/89](https://diariodarepublica.pt/dr/detalhe/portaria/95-1989-611675), publicado em 1989-02-04.\n\n2.º Ficam sujeitos ao regime de preços declarados, a que se refere o artigo 3.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, os aditivos destinados ao fabrico do pão e dos produtos afins, incluídos no desdobramento da classificação das actividades económicas (CAE, revisão de 1973) 3121.9.9, produzidos ou importados por empresas cuja facturação bruta total correspondente a vendas no mercado interno, no ano anterior, tenha sido superior a 250000 contos, e cuja facturação nos produtos incluídos naquele desdobramento CAE tenha sido superior a 80000 contos.\n\n3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.\n\n4.º Ficam revogados a [Portaria n.º 929/82](https://diariodarepublica.pt/dr/detalhe/portaria/929-1982-375411), de 2 de Outubro, e o [Despacho Normativo n.º 211/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/211-1982-375423), publicado no Diário da República, 1.ª série, n.º 229, de 2 de Outubro de 1982.\n\nSecretaria de Estado do Comércio Interno.\n\nAssinada em 8 de Janeiro de 1985.\n\nO Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade."
+  }
+ }
+}

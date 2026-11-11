@@ -28,10 +28,44 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-09-29'
+version_history:
+  file: decreto-47478.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1966-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-09-29'
+    amending: pt:dre:690465:por
+    amending_title: Decreto n.º 433/72; Decreto n.º 149/76; Decreto Regulamentar n.º 59/79; Decreto Regulamentar n.º 22/80;
+      Decreto n.º 97/82; Decreto Regulamentar n.º 1/84; Decreto Regulamentar n.º 32/90
+    changes:
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 99.º
+    - Altera Artigo 32.º
+    - Altera Artigo 84.º
+    - Altera Artigo 85.º
+    - Altera Artigo 86.º
+    - Altera Artigo 87.º
+    - Altera Artigo 89.º
+    - Altera Artigo 52.º
+    - Altera Artigo 56.º
+    - Altera Artigo 143.º
+    - Altera Artigo 158.º
+    - Altera Artigo 159.º
+    - Altera Artigo 111.º
+    - Altera Artigo 113.º
+    - Altera Artigo 145.º
+    - Altera Artigo 162.º
+    - Altera Artigo 163.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +91,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:54:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 433/72; Decreto n.º 149/76;
+    Decreto Regulamentar n.º 59/79; Decreto Regulamentar n.º 22/80; Decreto n.º 97/82; Decreto Regulamentar n.º 1/84; Decreto
+    Regulamentar n.º 32/90. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1966/decreto-47478.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -232,7 +268,9 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo único. É aprovado o Regulamento do Ministério dos Negócios Estrangeiros, a que se refere o artigo 46.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, e que baixa assinado pelo Ministro dos Negócios Estrangeiros.
+###### Artigo único
+
+É aprovado o Regulamento do Ministério dos Negócios Estrangeiros, a que se refere o artigo 46.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, e que baixa assinado pelo Ministro dos Negócios Estrangeiros.
 
 Publique-se e cumpra-se como nele se contém.
 
@@ -246,15 +284,21 @@ REGULAMENTO DO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS
 
 #### SECÇÃO I — Competência do Ministro
 
-Artigo 1.º A direcção da actividade internacional do Estado, atribuída constitucionalmente ao Presidente da República, é exercida por intermédio do Ministro dos Negócios Estrangeiros e executada pelos serviços que constituem o Ministério dos Negócios Estrangeiros.
+###### Artigo 1.º
 
-Art. 2.º Junto do Ministro e por este livremente escolhido funcionará o Gabinete do Ministro, constituído nos termos da lei geral e com as atribuições que por aquele lhe forem conferidas.
+A direcção da actividade internacional do Estado, atribuída constitucionalmente ao Presidente da República, é exercida por intermédio do Ministro dos Negócios Estrangeiros e executada pelos serviços que constituem o Ministério dos Negócios Estrangeiros.
+
+###### Artigo 2.º
+
+Junto do Ministro e por este livremente escolhido funcionará o Gabinete do Ministro, constituído nos termos da lei geral e com as atribuições que por aquele lhe forem conferidas.
 
 #### SECÇÃO II — Organização e competência da Secretaria de Estado
 
 ##### DIVISÃO I — Secretaria-Geral
 
-Art. 3.º A Secretaria de Estado é o órgão central da administração do serviço do Ministério e é constituída:
+###### Artigo 3.º
+
+A Secretaria de Estado é o órgão central da administração do serviço do Ministério e é constituída:
 
 1.º Pela Secretaria-Geral;
 
@@ -264,7 +308,9 @@ Art. 3.º A Secretaria de Estado é o órgão central da administração do serv
 
 4.º Pela Direcção-Geral dos Serviços Centrais.
 
-Art. 4.º A Secretaria-Geral é dirigida pelo secretário-geral do Ministério e compreende os seguintes serviços:
+###### Artigo 4.º
+
+A Secretaria-Geral é dirigida pelo secretário-geral do Ministério e compreende os seguintes serviços:
 
 Serviços Jurídicos e de Tratados;
 
@@ -280,7 +326,9 @@ Repartição do Arquivo e Biblioteca;
 
 Secção do Expediente.
 
-Art. 5.º O secretário-geral é o chefe da Secretaria de Estado e o órgão coordenador dos serviços do Ministério, competindo-lhe nessa qualidade:
+###### Artigo 5.º
+
+O secretário-geral é o chefe da Secretaria de Estado e o órgão coordenador dos serviços do Ministério, competindo-lhe nessa qualidade:
 
 1.º Imprimir unidade e continuidade aos serviços, interpondo a sua autoridade sempre que o exijam a regularidade e a eficiência dos mesmos;
 
@@ -306,7 +354,9 @@ Art. 5.º O secretário-geral é o chefe da Secretaria de Estado e o órgão coo
 
 § único. Será por intermédio do secretário-geral que o Ministro dos Negócios Estrangeiros transmitirá aos diferentes organismos do estado as indicações relativas à eventual actuação destes no estrangeiro, com o fim de assegurar unidade e maior eficiência à actividade internacional portuguesa nos seus diferentes aspectos.
 
-Art. 6.º O secretário-geral deverá convocar em conferência, com a frequência que entender conveniente, os directores-gerais do Ministério para o efeito:
+###### Artigo 6.º
+
+O secretário-geral deverá convocar em conferência, com a frequência que entender conveniente, os directores-gerais do Ministério para o efeito:
 
 1.º De reforçar a solidariedade que deve existir entre a actividade política e a actividade económica na vida internacional do Estado;
 
@@ -314,7 +364,9 @@ Art. 6.º O secretário-geral deverá convocar em conferência, com a frequênci
 
 3.º De obter o melhor rendimento do pessoal em serviço na Secretaria de Estado pela sua equitativa distribuição entre as direcções-gerais.
 
-Art. 7.º Aos Serviços Jurídicos e de Tratados compete:
+###### Artigo 7.º
+
+Aos Serviços Jurídicos e de Tratados compete:
 
 1.º Estabelecer a forma e o processamento dos tratados e mais actos internacionais em que o Estado Português seja parte;
 
@@ -342,7 +394,9 @@ Art. 7.º Aos Serviços Jurídicos e de Tratados compete:
 
 13.º Ocupar-se da transmissão e recebimento de cartas rogatórias.
 
-Art. 8.º Compete aos Serviços de Informação e Imprensa:
+###### Artigo 8.º
+
+Compete aos Serviços de Informação e Imprensa:
 
 1.º Manter as relações do Ministério com os órgãos de informação nacionais e estrangeiros em todos os assuntos que interessem às relações internacionais de Portugal;
 
@@ -360,7 +414,9 @@ Art. 8.º Compete aos Serviços de Informação e Imprensa:
 
 8.º Preparar a visita de entidades estrangeiras que, a convite do Ministério, se deslocarem ao País em missão de informação política.
 
-Art. 9.º Aos Serviços do Protocolo compete:
+###### Artigo 9.º
+
+Aos Serviços do Protocolo compete:
 
 1.º A direcção dos serviços relativos às recepções e solenidades em que tomem parte o Presidente da República, o Presidente do Conselho, o Ministro dos Negócios Estrangeiros ou qualquer outro membro do Governo, especialmente quando àquelas assistirem membros do corpo diplomático ou de missões estrangeiras acreditadas permanente ou temporàriamente em Portugal;
 
@@ -386,11 +442,15 @@ Art. 9.º Aos Serviços do Protocolo compete:
 
 12.º As relações e obrigações sociais do Ministro quando este assim determinar.
 
-Art. 10.º Os serviços do protocolo da Presidência da República são da responsabilidade do Ministério dos Negócios Estrangeiros e neles superintenderá o chefe do protocolo.
+###### Artigo 10.º
+
+Os serviços do protocolo da Presidência da República são da responsabilidade do Ministério dos Negócios Estrangeiros e neles superintenderá o chefe do protocolo.
 
 § único. Ficam a cargo da Secretaria-Geral da Presidência da República as despesas de expediente e quaisquer outras resultantes do serviço do protocolo da Presidência.
 
-Art. 11.º Compete à Inspecção Diplomática e Consular:
+###### Artigo 11.º
+
+Compete à Inspecção Diplomática e Consular:
 
 1.º Verificar o cumprimento das leis, regulamentos e instruções administrativas superiores por parte da Secretaria de Estado, das missões diplomáticas e dos consulados;
 
@@ -412,7 +472,9 @@ Art. 11.º Compete à Inspecção Diplomática e Consular:
 
 § único. Compete à Inspecção Diplomática e Consular assegurar os serviços de expediente e secretaria das comissões temporárias previstas no § 2.º do artigo 185.º, assim como secretariar o instrutor e organizar os processos disciplinares ou de inquérito mandados instaurar pelo Ministro.
 
-Art. 12.º Compete à Repartição do Arquivo e Biblioteca:
+###### Artigo 12.º
+
+Compete à Repartição do Arquivo e Biblioteca:
 
 1.º Conservar, classificar e catalogar toda a correspondência, registos e documentos do Ministério respeitantes a negócios findos;
 
@@ -436,7 +498,9 @@ Art. 12.º Compete à Repartição do Arquivo e Biblioteca:
 
 11.º Elaborar a sinopse dos tratados e fazer a compilação dos actos solenes de carácter internacional de que Portugal tenha sido parte originária ou a que tenha aderido, ou em que tenha interesse, e da legislação e das disposições de execução permanente sobre os serviços do Ministério, das resoluções dos tribunais superiores portugueses em matéria de direito internacional e das decisões dos tribunais internacionais que Portugal tenha reconhecido ou perante os quais tenha sido parte.
 
-Art. 13.º Compete à Secção da Cifra:
+###### Artigo 13.º
+
+Compete à Secção da Cifra:
 
 1.º A recepção, registo, cifração, decifração e distribuição dos telegramas aos serviços e repartições da Secretaria de Estado e a expedição dos telegramas emitidos por esta sob a responsabilidade do Ministro ou de funcionários cuja categoria mínima será a de chefe de secção do quadro diplomático;
 
@@ -446,7 +510,9 @@ Art. 13.º Compete à Secção da Cifra:
 
 § único. Os funcionários colocados na Secção da Cifra consideram-se em serviço permanente.
 
-Art. 14.º À Secção do Expediente compete:
+###### Artigo 14.º
+
+À Secção do Expediente compete:
 
 1.º Dar entrada à correspondência do Ministério, registá-la e distribuí-la pelos serviços competentes;
 
@@ -464,11 +530,17 @@ Art. 14.º À Secção do Expediente compete:
 
 ##### DIVISÃO II — Direcção-Geral dos Negócios Políticos
 
-Art. 15.º Compete à Direcção-Geral dos Negócios Políticos dar efectividade à acção do Estado no plano internacional, no que respeite aos assuntos de carácter político e de carácter cultural, para o que instruirá os serviços externos do Ministério.
+###### Artigo 15.º
 
-Art. 16.º A Direcção-Geral dos Negócios Políticos compreende: a Repartição da Europa e América; a Repartição da África, Ásia e Oceânia; a Repartição das Relações Culturais Externas; a Repartição das Organizações Políticas Internacionais; e a Secção da Organização do Tratado do Atlântico Norte.
+Compete à Direcção-Geral dos Negócios Políticos dar efectividade à acção do Estado no plano internacional, no que respeite aos assuntos de carácter político e de carácter cultural, para o que instruirá os serviços externos do Ministério.
 
-Art. 17.º Às Repartições da Europa e América e da África, Ásia e Oceânia compete, dentro das respectivas áreas geográficas:
+###### Artigo 16.º
+
+A Direcção-Geral dos Negócios Políticos compreende: a Repartição da Europa e América; a Repartição da África, Ásia e Oceânia; a Repartição das Relações Culturais Externas; a Repartição das Organizações Políticas Internacionais; e a Secção da Organização do Tratado do Atlântico Norte.
+
+###### Artigo 17.º
+
+Às Repartições da Europa e América e da África, Ásia e Oceânia compete, dentro das respectivas áreas geográficas:
 
 1.º Reunir as informações de carácter político recebidas na Secretaria de Estado e assegurar a actualização de elementos completos sobre a situação política nos diferentes países estrangeiros das áreas consideradas;
 
@@ -486,7 +558,9 @@ Art. 17.º Às Repartições da Europa e América e da África, Ásia e Oceânia
 
 8.º Registar, dar expediente e arquivar a correspondência recebida ou expedida que respeite aos assuntos da competência da Repartição.
 
-Art. 18.º Compete à Repartição das Relações Culturais Externas:
+###### Artigo 18.º
+
+Compete à Repartição das Relações Culturais Externas:
 
 1.º Manter ligação com o Instituto de Alta Cultura em ordem a assegurar, através das missões do Ministério dos Negócios Estrangeiros, maior eficácia, unidade e continuidade à acção de expansão da cultura portuguesa no estrangeiro;
 
@@ -512,7 +586,9 @@ Art. 18.º Compete à Repartição das Relações Culturais Externas:
 
 12.º Registar, dar expediente e arquivar a correspondência recebida ou expedida que respeite aos assuntos da competência da Repartição.
 
-Art. 19.º À Repartição dos Organismos Políticos Internacionais compete:
+###### Artigo 19.º
+
+À Repartição dos Organismos Políticos Internacionais compete:
 
 1.º Reunir informações sobre os organismos políticos internacionais, assegurando a actualização de elementos a seu respeito, em especial quanto à sua constituição, funcionamento e actividade;
 
@@ -532,9 +608,13 @@ Art. 19.º À Repartição dos Organismos Políticos Internacionais compete:
 
 9.º Registar, dar expediente e arquivar a correspondência recebida ou expedida que respeite aos assuntos da competência da Repartição.
 
-Art. 20.º Ficam excluídas da competência da Repartição dos Organismos Políticos Internacionais os assuntos relativos ao Pacto do Atlântico Norte.
+###### Artigo 20.º
 
-Art. 21.º Compete à Secção do Pacto do Atlântico:
+Ficam excluídas da competência da Repartição dos Organismos Políticos Internacionais os assuntos relativos ao Pacto do Atlântico Norte.
+
+###### Artigo 21.º
+
+Compete à Secção do Pacto do Atlântico:
 
 1.º Assegurar, de acordo com as normas estabelecidas pela Autoridade Nacional de Segurança, o funcionamento do registo central de distribuição dos documentos emitidos pelo Secretariado-Geral do Pacto do Atlântico, procedendo ao registo dos documentos e à sua distribuição pelos sub-registos nacionais;
 
@@ -552,11 +632,17 @@ Art. 21.º Compete à Secção do Pacto do Atlântico:
 
 ##### DIVISÃO III — Direcção-Geral dos Negócios Económicos
 
-Art. 22.º Compete à Direcção-Geral dos Negócios Económicos dar efectividade, no plano internacional, à acção do Estado no que respeita aos assuntos de carácter económico, instruindo em conformidade os serviços externos do Ministério.
+###### Artigo 22.º
 
-Art. 23.º A Direcção-Geral dos Negócios Económicos compreende a Repartição da Europa e América, a Repartição da África, Ásia e Oceânia e a Repartição das Organizações Económicas Internacionais.
+Compete à Direcção-Geral dos Negócios Económicos dar efectividade, no plano internacional, à acção do Estado no que respeita aos assuntos de carácter económico, instruindo em conformidade os serviços externos do Ministério.
 
-Art. 24.º As Repartições da Europa e América e da África, Ásia e Oceânia compete, dentro das respectivas áreas geográficas:
+###### Artigo 23.º
+
+A Direcção-Geral dos Negócios Económicos compreende a Repartição da Europa e América, a Repartição da África, Ásia e Oceânia e a Repartição das Organizações Económicas Internacionais.
+
+###### Artigo 24.º
+
+As Repartições da Europa e América e da África, Ásia e Oceânia compete, dentro das respectivas áreas geográficas:
 
 1.º Reunir as informações de carácter económico recebidas na Secretaria de Estado e assegurar a actualização de elementos completos sobre a situação económica nos diferentes países estrangeiros das áreas consideradas;
 
@@ -584,7 +670,9 @@ Art. 24.º As Repartições da Europa e América e da África, Ásia e Oceânia 
 
 13.º Registar, dar expediente e arquivar a correspondência, recebida ou expedida, que respeite aos assuntos da competência da Repartição.
 
-Art. 25.º À Repartição dos Organismos Económicos Internacionais compete:
+###### Artigo 25.º
+
+À Repartição dos Organismos Económicos Internacionais compete:
 
 1.º Reunir informações sobre os organismos económicos internacionais, assegurando a actualização de elementos completos a seu respeito, em especial quanto à sua constituição, funcionamento e actividade;
 
@@ -606,11 +694,17 @@ Art. 25.º À Repartição dos Organismos Económicos Internacionais compete:
 
 ##### DIVISÃO IV — Direcção-Geral dos Serviços Centrais
 
-Art. 26.º Compete à Direcção-Geral dos Serviços Centrais dar efectividade e continuidade à acção do Estado no que respeita à situação dos portugueses no estrangeiro e aos problemas consulares e ocupar-se das matérias relativas ao estatuto e situação dos funcionários do Ministério à administração da Secretaria de Estado e dos serviços externos do Ministério e dos bens do Estado confiados ao Ministério dos Negócios Estrangeiros.
+###### Artigo 26.º
 
-Art. 27.º A Direcção-Geral dos Serviços Centrais compreende: a Repartição Consular e a Repartição do Pessoal e da Administração.
+Compete à Direcção-Geral dos Serviços Centrais dar efectividade e continuidade à acção do Estado no que respeita à situação dos portugueses no estrangeiro e aos problemas consulares e ocupar-se das matérias relativas ao estatuto e situação dos funcionários do Ministério à administração da Secretaria de Estado e dos serviços externos do Ministério e dos bens do Estado confiados ao Ministério dos Negócios Estrangeiros.
 
-Art. 28.º À Repartição Consular compete:
+###### Artigo 27.º
+
+A Direcção-Geral dos Serviços Centrais compreende: a Repartição Consular e a Repartição do Pessoal e da Administração.
+
+###### Artigo 28.º
+
+À Repartição Consular compete:
 
 1.º Promover a negociação, conclusão e denúncia das convenções consulares;
 
@@ -650,7 +744,9 @@ Art. 28.º À Repartição Consular compete:
 
 19.º Registar, dar expediente e arquivar a correspondência recebida ou expedida que respeite aos assuntos da competência da Repartição.
 
-Art. 29.º Compete à Repartição do Pessoal e da Administração:
+###### Artigo 29.º
+
+Compete à Repartição do Pessoal e da Administração:
 
 1.º Abrir e executar o expediente dos concursos para admissão ou acesso do pessoal do Ministério, sem prejuízo das atribuições conferidas ao Conselho do Ministério para os fins designados no artigo 31.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966;
 
@@ -688,7 +784,9 @@ Art. 29.º Compete à Repartição do Pessoal e da Administração:
 
 § único. O chefe da Repartição do Pessoal e da Administração é solidàriamente responsável com o encarregado daquele depósito pelas faltas que se notarem.
 
-Art. 30.º Ao depósito de impressos e material pertence:
+###### Artigo 30.º
+
+Ao depósito de impressos e material pertence:
 
 1.º Conservar sempre em depósito, nas quantidades necessárias aos serviços, os livros, impressos e mais artigos de correspondência e expediente usados pela Secretaria, embaixadas e consulados, fazendo para esse efeito à Repartição do Pessoal e da Administração, com devida antecedência, as requisições indispensáveis;
 
@@ -706,51 +804,101 @@ Art. 30.º Ao depósito de impressos e material pertence:
 
 ##### DIVISÃO V — Conselhos e comissões que funcionam na Secretaria de Estado
 
-Art. 31.º O conselho do Ministério é presidido pelo secretário-geral e constituído pelos directores-gerais e seus adjuntos e pelo inspector diplomático e consular.
+###### Artigo 31.º
 
-§ único. O chefe da Repartição do Pessoal e da Administração fará parte do conselho, exercendo as funções de secretário, sem voto.
+O conselho do Ministério é presidido pelo secretário-geral e constituído pelos directores-gerais, pelo inspector diplomático e consular, por doze representantes dos funcionários do serviço diplomático, por doze representantes do pessoal do quadro administrativo, por seis representantes do quadro do pessoal auxiliar ou por seis representantes do restante pessoal, eleitos por um período de dezoito meses, que participarão nas reuniões de acordo com o estipulado nos parágrafos 6.º a 8.º deste artigo.
 
-Art. 32.º Compete ao conselho do Ministério:
+§ 1.º Os doze representantes do pessoal do serviço diplomático serão um ministro plenipotenciário de 1.ª classe, dois ministros plenipotenciários de 2.ª classe, dois conselheiros de embaixada, dois primeiros-secretários, dois segundos-secretários e três terceiros-secretários ou adidos de embaixada, eleitos para o efeito, respectivamente, pelos funcionários de cada uma daquelas categorias.
 
-1.º Propor ao Ministro os nomes dos funcionários a promover, sempre que se produza nos quadros alguma vaga a preencher por promoção;
+§ 2.º Os doze representantes do pessoal do quadro administrativo serão dois chefes de secção, dois primeiros-oficiais, dois segundos-oficiais e dois terceiros-oficiais, três escriturários-dactilógrafos e uma telefonista, eleitos para o efeito, respectivamente, pelos funcionários de cada uma daquelas categorias.
 
-2.º Emitir parecer sobre as transferências e substituições de funcionários e gerências interinas dos postos, quando lhe seja determinado pelo Ministro;
+§ 3.º Os seis representantes do quadro do pessoal auxiliar serão eleitos para o efeito pelos funcionários daquele quadro.
 
-3.º Receber as reclamações dos funcionários que se julguem preteridos nos seus direitos e dar sobre aquelas o seu parecer escrito;
+§ 4.º Os seis representantes do restante pessoal serão eleitos, para o efeito, por aquele pessoal de entre os funcionários do sector, devendo dois deles, pelo menos, ser escolhidos de entre os funcionários dos quadros do pessoal adjunto e do pessoal especializado.
 
-4.º Pronunciar-se sobre os requerimentos dos funcionários em matéria cuja resolução envolva ponto de doutrina acerca da interpretação da lei;
+§ 5.º Só serão elegíveis unidades do pessoal colocado na Secretaria de Estado, devendo os representantes do quadro do serviço diplomático, além de satisfazerem aquela condição, pertencer aos quadros.
 
-5.º Defender o prestígio e a dignidade do serviço diplomático, propondo procedimento rigoroso contra aqueles dos seus membros que não exerçam com competência, zelo e elevação moral as funções que lhes estão confiadas;
+§ 6.º Os representantes dos funcionários do serviço diplomático participarão apenas nas reuniões do conselho convocadas para apreciação das matérias referidas nos n.os 1), 6), 7) e 9) do artigo seguinte ou dos assuntos mencionados nos restantes números do mesmo artigo quando respeitem a funcionários daquele serviço.
 
-6.º Rever as informações anuais dos funcionários e propor acção disciplinar contra os responsáveis pela prestação dessas informações quando não cumpram as determinações em vigor.
+§ 7.º Os representantes dos funcionários dos quadros administrativo e auxiliar participarão apenas nas reuniões do conselho convocadas para apreciação dos assuntos referidos nos n.os 2), 3), 4), 5), 7), 8) e 9) do artigo seguinte quando respeitem a funcionários do mesmo quadro ou a serviços em que eles participem directamente.
 
-Art. 33.º O conselho do Ministério reunirá sempre que for convocado pelo seu presidente ou por determinação do Ministro, e as suas decisões constarão de actas lidas e assinadas pelos membros presentes.
+§ 8.º Os representantes do restante pessoal participarão apenas nas reuniões do conselho convocadas para apreciação dos assuntos referidos nos n.os 4), 5) e 7) do artigo seguinte quando respeitem àquele mesmo pessoal.
 
-Art. 34.º O conselho só poderá deliberar com a presença da maioria legal dos seus membros, sendo as deliberações tomadas pela maioria absoluta dos membros presentes.
+> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20.
 
-§ 1.º Em caso de empate, o presidente terá voto de qualidade.
+###### Artigo 32.º
 
-§ 2.º Os votos exprimidos serão afirmativos ou negativos, não sendo permitida a abstenção.
+Compete ao conselho do Ministério:
 
-§ 3.º Os membros vencidos poderão fazer registar na acta as suas declarações de voto.
+1) Apreciar a aptidão dos adidos de embaixada para efeitos de ingresso definitivo no serviço diplomático;
 
-Art. 35.º A Comissão Internacional de Limites entre Portugal e Espanha funcionará nos termos dos acordos em vigor entre os Governos dos dois países e em harmonia com as instruções ministeriais baseadas nesses acordos.
+2) Ordenar os funcionários do serviço diplomático até à categoria de ministro plenipotenciário de 2.ª classe, inclusive, e os funcionários dos quadros administrativos e auxiliares, sempre que se verifique alguma vaga a preencher por promoção não dependente de concurso;
 
-Art. 36.º O Ministro designará por despacho o serviço a que ficarão agregadas as comissões ou organismos previstos no § único do artigo 4.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, quando o seu diploma de constituição não o indicar expressamente.
+3) Propor a colocação e transferência dos funcionários do serviço diplomático, com excepção dos chefes de missão diplomática ou de postos consulares em países em que não haja representação diplomática, e dos titulares dos cargos de direcção na Secretaria de Estado, assim como dos funcionários dos quadros administrativo e auxiliar, atendendo para o efeito às suas aptidões pessoais e profissionais, aos períodos de serviço por eles prestados na Secretaria de Estado e nos serviços externos e ainda à sua passagem pelas diversas classes dos postos;
+
+4) (Revogado.)
+
+5) Examinar as reclamações dos funcionários que se julguem preteridos nos seus direitos e emitir sobre elas pareceres sujeitos a homologação do Ministro;
+
+6) Dar o seu parecer sobre a colocação de funcionários do serviço diplomático na situação de disponibilidade e sobre a sua eventual chamada a serviço;
+
+7) Reunir as informações sobre os diversos serviços do Ministério e propor medidas adequadas à melhoria do seu funcionamento;
+
+8) Propor e dar parecer sobre alterações à Lei Orgânica e ao Regulamento do Ministério e pronunciar-se sobre todos os assuntos submetidos à sua apreciação pelo Ministro, assim como sobre os requerimentos dos funcionários em matéria cuja resolução envolva ponto de doutrina acerca de interpretação da lei;
+
+9) (Revogado.)
+
+> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13.
+
+###### Artigo 33.º
+
+O conselho do Ministério deverá reunir-se ordinariamente uma vez por mês e extraordinariamente sempre que for convocado por determinação do Ministro ou do seu presidente, ou a pedido da maioria dos seus membros. Nestes últimos dois casos o Ministro será obrigatoriamente informado da data da reunião do conselho e da respectiva ordem do dia.
+
+> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20.
+
+###### Artigo 34.º
+
+O conselho só poderá reunir se estiver presente a maioria dos seus membros, devendo as deliberações ser tomadas pela maioria absoluta dos membros presentes, quando não for exigido número superior. As deliberações sobre o mérito dos candidatos ao ingresso definitivo no serviço diplomático, sobre o mérito dos funcionários para efeito de ordenação para promoção, assim como sobre colocações e transferências, carecem de aprovação por maioria de dois terços dos membros presentes, no primeiro escrutínio, e por maioria simples, no segundo.
+
+§ 1.º A participação nas reuniões do conselho é obrigatória e na falta ou impedimento de algum dos seus membros efectivos deverão os respectivos substitutos legais ou suplentes substituí-los.
+
+§ 2.º O voto não poderá ser secreto, excepto quando decidido e expressamente solicitado. É obrigatória a participação na votação, não é permitida a abstenção e os membros do conselho poderão fazer registar na acta as suas declarações de voto.
+
+§ 3.º Em caso de empate, o presidente terá voto de qualidade.
+
+§ 4.º As decisões do conselho constam de actas, que serão lidas e assinadas pelos membros presentes e de que serão fornecidas cópias ao Ministro e aos Secretários de Estado.
+
+> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20.
+
+###### Artigo 35.º
+
+A Comissão Internacional de Limites entre Portugal e Espanha funcionará nos termos dos acordos em vigor entre os Governos dos dois países e em harmonia com as instruções ministeriais baseadas nesses acordos.
+
+###### Artigo 36.º
+
+O Ministro designará por despacho o serviço a que ficarão agregadas as comissões ou organismos previstos no § único do artigo 4.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, quando o seu diploma de constituição não o indicar expressamente.
 
 ### CAPÍTULO II — Serviços externos do Ministério
 
-Art. 37.º Os serviços externos do Ministério dos Negócios Estrangeiros compreendem as missões diplomáticas, os consulados e as delegações e missões oficiais no estrangeiro, permanentes ou temporárias, que não dependam, por lei especial, de outra entidade.
+###### Artigo 37.º
+
+Os serviços externos do Ministério dos Negócios Estrangeiros compreendem as missões diplomáticas, os consulados e as delegações e missões oficiais no estrangeiro, permanentes ou temporárias, que não dependam, por lei especial, de outra entidade.
 
 #### SECÇÃO I — Missões diplomáticas
 
-Art. 38.º O quadro das missões diplomáticas de Portugal compreende embaixadas, delegações permanentes e missões temporárias.
+###### Artigo 38.º
+
+O quadro das missões diplomáticas de Portugal compreende embaixadas, delegações permanentes e missões temporárias.
 
 § único. A criação, modificação ou supressão de missões diplomáticas será feita por lei.
 
-Art. 39.º Os chefes de missão podem ser acreditados em mais de um posto, segundo as conveniências diplomáticas; em tal caso, o Ministro determinará o tempo durante o qual o chefe de missão deve residir na sede de cada posto.
+###### Artigo 39.º
 
-Art. 40.º Às embaixadas compete:
+Os chefes de missão podem ser acreditados em mais de um posto, segundo as conveniências diplomáticas; em tal caso, o Ministro determinará o tempo durante o qual o chefe de missão deve residir na sede de cada posto.
+
+###### Artigo 40.º
+
+Às embaixadas compete:
 
 1.º Representar Portugal junto do Governo do Estado local segundo o direito e usos internacionais e as instruções que lhes forem dadas pelo Ministro dos Negócios Estrangeiros;
 
@@ -778,7 +926,9 @@ Art. 40.º Às embaixadas compete:
 
 § único. O Ministro dos Negócios Estrangeiros deverá, em instruções dadas às missões diplomáticas, indicar a cada uma as obrigações especiais que lhe incumbem de estudar o que de modo particular interesse à Nação e aos portugueses estabelecidos no Estado local, no que respeita designadamente ao regime das relações de vizinhança, à situação jurídica das colónias de portugueses e às instituições locais ou internacionais com sede no Estado local, cujo objectivo seja o regime das relações internacionais.
 
-Art. 41.º Competem às delegações permanentes as atribuições que lhes sejam conferidas pelos respectivos diplomas de constituição, e em especial:
+###### Artigo 41.º
+
+Competem às delegações permanentes as atribuições que lhes sejam conferidas pelos respectivos diplomas de constituição, e em especial:
 
 1.º Representar Portugal nos organismos internacionais junto dos quais se achem acreditados;
 
@@ -786,7 +936,9 @@ Art. 41.º Competem às delegações permanentes as atribuições que lhes sejam
 
 #### SECÇÃO II — Consulados
 
-Art. 42.º O quadro dos serviços consulares é constituído:
+###### Artigo 42.º
+
+O quadro dos serviços consulares é constituído:
 
 1.º Por consulados de carreira com as categorias de consulados-gerais e consulados de 1.ª, 2.ª e 3.ª classes;
 
@@ -796,9 +948,13 @@ Art. 42.º O quadro dos serviços consulares é constituído:
 
 4.º Por consulados honorários e vice-consulados, geridos por nacionais ou estrangeiros.
 
-Art. 43.º A criação, transferência, modificação ou supressão dos consulados de carreira e das secções consulares e dos consulados e vice-consulados honorários serão feitas por portaria do Ministro dos Negócios Estrangeiros, ou por portaria conjunta dos Ministros das Finanças e dos Negócios Estrangeiros quando implicar dotação orçamental especial.
+###### Artigo 43.º
 
-Art. 44.º São atribuições dos consulados de carreira:
+A criação, transferência, modificação ou supressão dos consulados de carreira e das secções consulares e dos consulados e vice-consulados honorários serão feitas por portaria do Ministro dos Negócios Estrangeiros, ou por portaria conjunta dos Ministros das Finanças e dos Negócios Estrangeiros quando implicar dotação orçamental especial.
+
+###### Artigo 44.º
+
+São atribuições dos consulados de carreira:
 
 1.º Executar e fazer executar, no seu distrito, o regulamento consular e todas as disposições da lei tendentes à defesa dos interesses gerais da Nação Portuguesa, designadamente os seus interesses económicos e sanitários, e a protecção dos direitos e interesses, especialmente dos de ordem privada, dos cidadãos portugueses aí estabelecidos ou de passagem;
 
@@ -812,7 +968,9 @@ Art. 44.º São atribuições dos consulados de carreira:
 
 6.º Superintender e fiscalizar os serviços dos consulados não de carreira, vice-consulados e agências consulares dependentes.
 
-Art. 45.º Aos consulados-gerais compete, em especial:
+###### Artigo 45.º
+
+Aos consulados-gerais compete, em especial:
 
 1.º Dirigir superiormente, unificar e fiscalizar a actividade dos consulados portugueses estabelecidos na área da sua jurisdição;
 
@@ -828,7 +986,9 @@ Art. 45.º Aos consulados-gerais compete, em especial:
 
 3.º Nos países onde houver mais de um consulado-geral, pelo consulado-geral situado na capital do país.
 
-Art. 46.º Os consulados não de carreira terão, em geral, a mesma competência que os consulados de carreira, mas não poderão:
+###### Artigo 46.º
+
+Os consulados não de carreira terão, em geral, a mesma competência que os consulados de carreira, mas não poderão:
 
 1.º Celebrar casamentos;
 
@@ -840,7 +1000,9 @@ Art. 46.º Os consulados não de carreira terão, em geral, a mesma competência
 
 #### SECÇÃO III — Casas de Portugal
 
-Art. 47.º Sem prejuízo da sua dependência administrativa e das atribuições que lhes cabem no domínio da sua competência, as casas de Portugal e os centros portugueses de informação, para efeitos de coordenação e execução dos objectivos da actividade internacional do Estado, receberão as directivas e demais indicações das missões diplomáticas acreditadas no país onde aqueles organismos desenvolverem as suas actividades.
+###### Artigo 47.º
+
+Sem prejuízo da sua dependência administrativa e das atribuições que lhes cabem no domínio da sua competência, as casas de Portugal e os centros portugueses de informação, para efeitos de coordenação e execução dos objectivos da actividade internacional do Estado, receberão as directivas e demais indicações das missões diplomáticas acreditadas no país onde aqueles organismos desenvolverem as suas actividades.
 
 § único. A nomeação dos directores das casas de Portugal e dos centros portugueses de informação é feita por despacho conjunto do Presidente do Conselho de Ministros ou do Ministro da Economia e do Ministro dos Negócios Estrangeiros.
 
@@ -848,11 +1010,15 @@ Art. 47.º Sem prejuízo da sua dependência administrativa e das atribuições 
 
 ### CAPÍTULO I — Funcionários de quadro e funcionários estranhos aos quadros
 
-Art. 48.º A execução dos serviços internos e externos do Ministério dos Negócios Estrangeiros compete aos funcionários do serviço diplomático, ao pessoal adjunto e do quadro administrativo e aos funcionários contratados ou eventuais que desempenhem funções no estrangeiro.
+###### Artigo 48.º
+
+A execução dos serviços internos e externos do Ministério dos Negócios Estrangeiros compete aos funcionários do serviço diplomático, ao pessoal adjunto e do quadro administrativo e aos funcionários contratados ou eventuais que desempenhem funções no estrangeiro.
 
 § único. A composição numérica dos quadros segundo as diferentes categorias será fixada por decreto conjunto dos Ministros das Finanças e dos Negócios Estrangeiros.
 
-Art. 49.º O pessoal do serviço diplomático destinado a assegurar o desempenho destes serviços constitui um quadro único de funcionários técnicos, de serventia vitalícia e que compreende, por ordem hierárquica, as seguintes categorias:
+###### Artigo 49.º
+
+O pessoal do serviço diplomático destinado a assegurar o desempenho destes serviços constitui um quadro único de funcionários técnicos, de serventia vitalícia e que compreende, por ordem hierárquica, as seguintes categorias:
 
 1.º Embaixadores;
 
@@ -868,13 +1034,17 @@ Art. 49.º O pessoal do serviço diplomático destinado a assegurar o desempenho
 
 7.º Terceiros-secretários de embaixada.
 
-Art. 50.º Dentro do serviço diplomático os funcionários podem ser livremente transferidos entre as funções diplomáticas e consulares e entre estas e as da Secretaria de Estado, sem quebra das respectivas equivalências, consoante as conveniências de serviço e a necessidade de assegurar a todos os funcionários o conhecimento dos diversos serviços do Ministério.
+###### Artigo 50.º
+
+Dentro do serviço diplomático os funcionários podem ser livremente transferidos entre as funções diplomáticas e consulares e entre estas e as da Secretaria de Estado, sem quebra das respectivas equivalências, consoante as conveniências de serviço e a necessidade de assegurar a todos os funcionários o conhecimento dos diversos serviços do Ministério.
 
 § 1.º Os conselheiros e secretários de embaixada, quando nomeados para chefiarem consulados-gerais ou consulados, serão designados respectivamente por cônsules-gerais ou cônsules.
 
 § 2.º Os funcionários do serviço diplomático colocados em consulados-gerais, mas que neles não exerçam funções de chefia, serão designados cônsules adjuntos.
 
-Art. 51.º O quadro administrativo do Ministério dos Negócios Estrangeiros é constituído por:
+###### Artigo 51.º
+
+O quadro administrativo do Ministério dos Negócios Estrangeiros é constituído por:
 
 1.º Pessoal burocrático, que compreende as seguintes categorias:
 
@@ -904,9 +1074,17 @@ Contínuos de 1.ª classe;
 
 Contínuos de 2.ª classe.
 
-Art. 52.º Os terceiros-oficiais, escriturários-dactilógrafos e pessoal menor podem ser designados para o exercício de cargos correspondentes nas missões diplomáticas e nos consulados.
+###### Artigo 52.º
 
-Art. 53.º Fora dos quadros, estranhos ao serviço diplomático, poderá haver conselheiros ou adidos com funções especializadas, designadamente militares, culturais, comerciais e de imprensa, cônsules, vice-cônsules, agentes consulares, chanceleres e os funcionários técnicos que forem considerados necessários à execução dos serviços.
+1 - O pessoal técnico superior, técnico, técnico-profissional e administrativo e operário e auxiliar do quadro da Secretaria de Estado dos Negócios Estrangeiros poderá ser designado para o exercício de cargos correspondentes nas missões diplomáticas e nos postos consulares.
+
+2 - O disposto no artigo 102.º do presente Regulamento e no artigo 4.º do [Decreto-Lei n.º 550/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1974-472162), de 23 de Outubro, é tornado extensivo ao restante pessoal referido no número anterior.
+
+> Alterado pelo/a [Decreto n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto/97-1982-397475), publicado em 1982-08-19.
+
+###### Artigo 53.º
+
+Fora dos quadros, estranhos ao serviço diplomático, poderá haver conselheiros ou adidos com funções especializadas, designadamente militares, culturais, comerciais e de imprensa, cônsules, vice-cônsules, agentes consulares, chanceleres e os funcionários técnicos que forem considerados necessários à execução dos serviços.
 
 § único. Os vice-cônsules, chanceleres e agentes consulares poderão auxiliar ou substituir temporàriamente os funcionários do serviço diplomático no exercício das suas funções ou gerir vice-consulados ou agências consulares.
 
@@ -914,7 +1092,9 @@ Art. 53.º Fora dos quadros, estranhos ao serviço diplomático, poderá haver c
 
 #### SECÇÃO I — Secretaria de Estado
 
-Art. 54.º Os funcionários dos quadros que executam os serviços da Secretaria de Estado distribuem-se pelas categorias seguintes:
+###### Artigo 54.º
+
+Os funcionários dos quadros que executam os serviços da Secretaria de Estado distribuem-se pelas categorias seguintes:
 
 1.º O secretário-geral terá a categoria de embaixador;
 
@@ -938,7 +1118,9 @@ Art. 54.º Os funcionários dos quadros que executam os serviços da Secretaria 
 
 11.º Funcionários das restantes categorias previstas neste regulamento;
 
-Art. 55.º Ao secretário-geral, além das atribuições que lhe são cometidas pelo artigo 5.º, compete:
+###### Artigo 55.º
+
+Ao secretário-geral, além das atribuições que lhe são cometidas pelo artigo 5.º, compete:
 
 1.º Despachar todos os assuntos de carácter administrativos respeitantes à Secretaria-Geral;
 
@@ -948,7 +1130,9 @@ Art. 55.º Ao secretário-geral, além das atribuições que lhe são cometidas 
 
 4.º Vigiar por que os conselheiros e secretários de embaixada em serviço na Secretaria-Geral elaborem anualmente relatórios sobre os serviços a seu cargo ou sobre os assuntos que lhes tenham sido confiados.
 
-Art. 56.º Aos directores-gerais incumbe, além da execução dos serviços atribuídos à respectiva direcção-geral:
+###### Artigo 56.º
+
+Aos directores-gerais incumbe, além da execução dos serviços atribuídos à respectiva direcção-geral:
 
 1.º Fazer executar ou orientar a execução dos serviços confiados à sua direcção-geral, em conformidade com as leis e instruções do Ministro;
 
@@ -960,11 +1144,17 @@ Art. 56.º Aos directores-gerais incumbe, além da execução dos serviços atri
 
 5.º Fazer cumprir quanto aos seus subordinados o disposto no n.º 4.º do artigo 55.º
 
-§ único. Ao director-geral dos Serviços Centrais compete, além das atribuições conferidas por este artigo aos directores-gerais, o despacho das despesas diversas da Secretaria de Estado, nomeadamente os de fardamentos, resguardos e calçado do pessoal menor, conservação e aproveitamento do material, material de consumo corrente, higiene, saúde e conforto e comunicações, assim como as despesas efectuadas pelas missões diplomáticas e consulados com conservação e aproveitamento de semoventes e móveis, comunicações, foros, censos e pensões, seguros, incluindo os do pessoal, e repatriações e socorros a desvalidos.
+§ único. Ao director-geral dos Serviços Centrais compete, além das funções conferidas por este artigo aos directores-gerais, o despacho das despesas da Secretaria de Estado, das missões diplomáticas e dos postos consulares de carreira e não de carreira subsidiados provenientes de deslocações, telefones individuais, vestuários e artigos pessoais, aquisições de bens de qualquer natureza, excepto os de aquartelamento e alojamento, conservação e aproveitamento de bens e ainda o das despesas gerais de funcionamento, com excepção das de representação e de publicidade e propaganda.
 
-Art. 57.º Aos adjuntos dos directores-gerais compete coadjuvar estes nas suas funções e substituí-los na suas faltas ou impedimentos.
+> Alterado pelo/a [Decreto n.º 433/72](https://diariodarepublica.pt/dr/detalhe/decreto/433-1972-690465), publicado em 1972-11-03.
 
-Art. 58.º Aos dirigentes de serviços e aos chefes de repartição compete:
+###### Artigo 57.º
+
+Aos adjuntos dos directores-gerais compete coadjuvar estes nas suas funções e substituí-los na suas faltas ou impedimentos.
+
+###### Artigo 58.º
+
+Aos dirigentes de serviços e aos chefes de repartição compete:
 
 1.º Orientar e fiscalizar o trabalho do serviço ou da repartição, exigindo ordem e máxima rapidez na sua execução, e distribuí-lo pelos funcionários, com o melhor aproveitamento das suas aptidões.
 
@@ -976,15 +1166,25 @@ Art. 58.º Aos dirigentes de serviços e aos chefes de repartição compete:
 
 5.º Coadjuvar o director-geral e os directores adjuntos no exercício das suas funções.
 
-Art. 59.º Aos chefes de secção cumpre dirigir e executar os serviços que lhes sejam confiados, segundo as instruções e ordens superiores, e coadjuvar os respectivos chefes no exercício das suas funções.
+###### Artigo 59.º
 
-Art. 60.º Aos secretários de embaixada cumpre executar os serviços burocráticos e estudar os assuntos de que forem encarregados pelos respectivos chefes.
+Aos chefes de secção cumpre dirigir e executar os serviços que lhes sejam confiados, segundo as instruções e ordens superiores, e coadjuvar os respectivos chefes no exercício das suas funções.
 
-Art. 61.º Os assuntos serão, em princípio, estudados e informados por funcionários das categorias mais baixas, devendo sobre as informações e conclusões formuladas por aqueles recair parecer dos funcionários de categoria sucessivamente mais alta e que tomarão posição no problema em apreço.
+###### Artigo 60.º
 
-Art. 62.º Aos funcionários do quadro administrativo compete executar fiel e prontamente os trabalhos oficiais para que se mostrem habilitados e que lhes sejam atribuídos pelos respectivos chefes.
+Aos secretários de embaixada cumpre executar os serviços burocráticos e estudar os assuntos de que forem encarregados pelos respectivos chefes.
 
-Art. 63.º Ao contínuo de 1.ª classe encarregado de chefiar o pessoal menor incumbe:
+###### Artigo 61.º
+
+Os assuntos serão, em princípio, estudados e informados por funcionários das categorias mais baixas, devendo sobre as informações e conclusões formuladas por aqueles recair parecer dos funcionários de categoria sucessivamente mais alta e que tomarão posição no problema em apreço.
+
+###### Artigo 62.º
+
+Aos funcionários do quadro administrativo compete executar fiel e prontamente os trabalhos oficiais para que se mostrem habilitados e que lhes sejam atribuídos pelos respectivos chefes.
+
+###### Artigo 63.º
+
+Ao contínuo de 1.ª classe encarregado de chefiar o pessoal menor incumbe:
 
 1.º Dirigir e fiscalizar o serviço de todo o pessoal menor e velar pela correcção do seu vestuário e porte;
 
@@ -992,25 +1192,37 @@ Art. 63.º Ao contínuo de 1.ª classe encarregado de chefiar o pessoal menor in
 
 3.º Cumprir e fazer cumprir as ordens e instruções que receber acerca do pessoal menor.
 
-Art. 64.º Poderá ser facultada residência no edifício da Secretaria de Estado, havendo-a, ao contínuo encarregado de chefiar o pessoal menor, aos condutores de automóveis, ao porteiro e ao correio.
+###### Artigo 64.º
+
+Poderá ser facultada residência no edifício da Secretaria de Estado, havendo-a, ao contínuo encarregado de chefiar o pessoal menor, aos condutores de automóveis, ao porteiro e ao correio.
 
 #### SECÇÃO II — Missões diplomáticas
 
-Art. 65.º As embaixadas serão dirigidas por embaixadores e por ministros de 1.ª classe ou ministros de 2.ª classe com credenciais de embaixador.
+###### Artigo 65.º
+
+As embaixadas serão dirigidas por embaixadores e por ministros de 1.ª classe ou ministros de 2.ª classe com credenciais de embaixador.
 
 § 1.º Aos ministros de 1.ª ou 2.ª classe com credenciais de embaixador é atribuído o título de embaixador enquanto exercerem as referidas funções, devendo, em todos os casos, a seguir ao título ser indicado o país junto do qual estão acreditados.
 
 § 2.º O Ministro dos Negócios Estrangeiros poderá, quando as conveniências do serviço o aconselharem, nomear em comissão conselheiros ou secretários de embaixada para gerirem missões diplomáticas com o título de encarregados de negócios.
 
-Art. 66.º As delegações permanentes serão dirigidas por embaixadores, ministros de 1.ª ou 2.ª classe ou encarregados de negócios, nos termos do artigo anterior.
+###### Artigo 66.º
 
-Art. 67.º Os lugares de conselheiros nas missões diplomáticas podem ser confiados a ministros de 2.ª classe, com o título de ministros conselheiros, se as necessidades de serviço o aconselharem, e sem aumento do quadro respectivo.
+As delegações permanentes serão dirigidas por embaixadores, ministros de 1.ª ou 2.ª classe ou encarregados de negócios, nos termos do artigo anterior.
 
-Art. 68.º Os conselheiros ou secretários de embaixada titulares de consulados nas capitais onde funcionarem embaixadas serão também considerados conselheiros comerciais.
+###### Artigo 67.º
+
+Os lugares de conselheiros nas missões diplomáticas podem ser confiados a ministros de 2.ª classe, com o título de ministros conselheiros, se as necessidades de serviço o aconselharem, e sem aumento do quadro respectivo.
+
+###### Artigo 68.º
+
+Os conselheiros ou secretários de embaixada titulares de consulados nas capitais onde funcionarem embaixadas serão também considerados conselheiros comerciais.
 
 § único. São considerados adidos comerciais às respectivas embaixadas os directores das casas de Portugal e centros portugueses de informação. Os chefes das secções comerciais das casas de Portugal poderão ser considerados adidos comerciais adjuntos.
 
-Art. 69.º Compete aos chefes das missões diplomáticas, para o desempenho das funções a estas atribuídas pelos artigos 40.º e 41.º:
+###### Artigo 69.º
+
+Compete aos chefes das missões diplomáticas, para o desempenho das funções a estas atribuídas pelos artigos 40.º e 41.º:
 
 1.º Dirigir o serviço burocrático da missão, regulando-o convenientemente;
 
@@ -1034,7 +1246,9 @@ Art. 69.º Compete aos chefes das missões diplomáticas, para o desempenho das 
 
 11.º Advertir os funcionários do serviço diplomático sobre o cumprimento dos seus deveres, quando haja motivo; promover, nos casos mais graves, a instauração de processos disciplinares; propor a transferência daqueles cuja presença no posto seja inconveniente; e suspendê-los e mandá-los apresentar na Secretaria de Estado se assim o exigirem as circunstâncias, dando de tudo conhecimento imediato ao Ministério.
 
-Art. 70.º Compete aos conselheiros e secretários de embaixada em serviço nas missões diplomáticas:
+###### Artigo 70.º
+
+Compete aos conselheiros e secretários de embaixada em serviço nas missões diplomáticas:
 
 1.º Coadjuvar o chefe da missão nos estudos e trabalhos que lhe incumbem;
 
@@ -1042,9 +1256,13 @@ Art. 70.º Compete aos conselheiros e secretários de embaixada em serviço nas 
 
 3.º Estudar a organização política e administrativa e a actividade económica e cultural do Estado local, acompanhar a sua política interna e internacional, procurar conhecer as grandes reformas legislativas realizadas, elaborando um relatório anual com os resultados dos seus estudos e observações e sobre os assuntos que no momento sejam de mais interesse para Portugal.
 
-Art. 71.º Aos conselheiros ou adidos militares, culturais e financeiros e aos seus adjuntos compete coadjuvar e aconselhar o chefe de missão nas matérias da sua competência e desempenhar as funções que lhes forem cometidas pela legislação especial que lhes respeite.
+###### Artigo 71.º
 
-Art. 72.º Aos conselheiros e adidos comerciais compete:
+Aos conselheiros ou adidos militares, culturais e financeiros e aos seus adjuntos compete coadjuvar e aconselhar o chefe de missão nas matérias da sua competência e desempenhar as funções que lhes forem cometidas pela legislação especial que lhes respeite.
+
+###### Artigo 72.º
+
+Aos conselheiros e adidos comerciais compete:
 
 1.º Estudar as possibilidades de alargamento do comércio português no Estado local, a concorrência estrangeira que aí lhe é feita, as fraudes e concorrência desleal que o prejudicam e as deficiências de repressão dos processos fraudulentos e desleais, propondo ao chefe da missão as providências adequadas;
 
@@ -1056,7 +1274,9 @@ Art. 72.º Aos conselheiros e adidos comerciais compete:
 
 5.º Colaborar na redacção do Boletim de Informação;
 
-Art. 73.º Aos conselheiros e adidos de imprensa compete:
+###### Artigo 73.º
+
+Aos conselheiros e adidos de imprensa compete:
 
 1.º Manter estreitas relações com a imprensa e outros meios de informação do país local;
 
@@ -1072,15 +1292,25 @@ Art. 73.º Aos conselheiros e adidos de imprensa compete:
 
 #### SECÇÃO III — Consulados
 
-Art. 74.º Os consulados de carreira são geridos por conselheiros ou secretários de embaixada, designados cônsules-gerais ou cônsules, quando colocados, respectivamente, em consulados-gerais ou consulados.
+###### Artigo 74.º
 
-Art. 75.º Os lugares de cônsules-gerais poderão ser confiados a ministros plenipotenciários de 2.ª classe se as necessidades do serviço o aconselharem e sem aumento do quadro respectivo.
+Os consulados de carreira são geridos por conselheiros ou secretários de embaixada, designados cônsules-gerais ou cônsules, quando colocados, respectivamente, em consulados-gerais ou consulados.
 
-Art. 76.º Nos consulados-gerais poderá haver cônsules adjuntos quando o respectivo movimento consular assim o impuser.
+###### Artigo 75.º
 
-Art. 77.º Aos cônsules de carreira é atribuída a competência necessária ao exercício das funções dos consulados de carreira previstas no artigo 44.º deste regulamento, cabendo aos cônsules-gerais, além daquela competência, a relativa ao exercício das funções especiais dos consulados-gerais fixada no artigo 45.º
+Os lugares de cônsules-gerais poderão ser confiados a ministros plenipotenciários de 2.ª classe se as necessidades do serviço o aconselharem e sem aumento do quadro respectivo.
 
-Art. 78.º Aos cônsules adjuntos compete:
+###### Artigo 76.º
+
+Nos consulados-gerais poderá haver cônsules adjuntos quando o respectivo movimento consular assim o impuser.
+
+###### Artigo 77.º
+
+Aos cônsules de carreira é atribuída a competência necessária ao exercício das funções dos consulados de carreira previstas no artigo 44.º deste regulamento, cabendo aos cônsules-gerais, além daquela competência, a relativa ao exercício das funções especiais dos consulados-gerais fixada no artigo 45.º
+
+###### Artigo 78.º
+
+Aos cônsules adjuntos compete:
 
 1.º Auxiliar o cônsul titular do posto em todos os serviços que lhe forem designados e substituí-lo na sua ausência ou impedimento;
 
@@ -1088,11 +1318,15 @@ Art. 78.º Aos cônsules adjuntos compete:
 
 3.º Gerir interinamente, na ausência dos respectivos titulares e quando assim lhes for determinado, postos consulares de carreira com sede no país.
 
-Art. 79.º Os consulados não de carreira serão geridos por agentes consulares nacionais ou por cônsules honorários nacionais ou estrangeiros.
+###### Artigo 79.º
+
+Os consulados não de carreira serão geridos por agentes consulares nacionais ou por cônsules honorários nacionais ou estrangeiros.
 
 § único. Poderá o Ministro, porém, mandar geri-los interinamente por cônsules de carreira quando as circunstâncias do serviço o exigirem.
 
-Art. 80.º Os cônsules não de carreira correspondem-se directamente com a Secretaria de Estado, mas dependem, em tudo que respeita às suas funções consulares, do consulado de carreira a que os seus postos estejam subordinados por decreto, salvo disposição em contrário.
+###### Artigo 80.º
+
+Os cônsules não de carreira correspondem-se directamente com a Secretaria de Estado, mas dependem, em tudo que respeita às suas funções consulares, do consulado de carreira a que os seus postos estejam subordinados por decreto, salvo disposição em contrário.
 
 TITULO III
 
@@ -1102,87 +1336,149 @@ Estatuto dos funcionários do Ministério
 
 #### SECÇÃO I — Admissão e acesso ao quadro diplomático
 
-Art. 81.º A admissão no serviço diplomático depende da aprovação em concurso de provas públicas a que só poderão ser admitidos os cidadãos portugueses originários, do sexo masculino, licenciados em Direito, História, Filosofia, Economia, Finanças ou pelo Instituto Superior de Ciências Sociais e Política Ultramarina, ou ainda diplomados em cursos de escolas superiores estrangeiras que sejam declarados pelo Ministério da Educação Nacional equivalentes a qualquer das referidas licenciaturas e que, além dos requisitos gerais para o provimento em cargos do Estado, possuam condições de virem a pertencer ao serviço diplomático, e que serão apreciadas pelo conselho do Ministério numa prova de apresentação prévia à admissão ao concurso.
+###### Artigo 81.º
 
-Art. 82.º As nomeações serão feitas pela ordem da classificação no concurso e segundo as vagas existentes de terceiro-secretário e os nomeados sê-lo-ão com carácter provisório, por dois anos, com o título de adidos de embaixada, contando-se o serviço assim prestado naquele período como sendo prestado para todos os feitos na categoria de terceiro secretário de embaixada. Todos prestarão serviço na Secretaria de Estado durante esses dois anos, repartidos, na medida do possível, pelos diferentes serviços.
+A admissão no serviço diplomático depende da aprovação em concurso de provas públicas a que só poderão ser admitidos os cidadãos portugueses originários, do sexo masculino, licenciados em Direito, História, Filosofia, Economia, Finanças ou pelo Instituto Superior de Ciências Sociais e Política Ultramarina, ou ainda diplomados em cursos de escolas superiores estrangeiras que sejam declarados pelo Ministério da Educação Nacional equivalentes a qualquer das referidas licenciaturas e que, além dos requisitos gerais para o provimento em cargos do Estado, possuam condições de virem a pertencer ao serviço diplomático, e que serão apreciadas pelo conselho do Ministério numa prova de apresentação prévia à admissão ao concurso.
 
-Art. 83.º No fim de dois anos de serviço efectivo, o conselho do Ministério apreciará as aptidões para o serviço diplomático reveladas pelos adidos de embaixada e proporá ao Ministro os que julgue aptos a ingressar naquele serviço e os que devem ser exonerados sem direito a indemnização. Após livre decisão do Ministro sobre a proposta, os julgados aptos a ingressar no serviço diplomático serão submetidos a exame de línguas francesa e inglesa (redacção e conversação) e se satisfizerem a este exame serão, com a categoria de terceiro-secretário de embaixada, nomeados definitivamente.
+###### Artigo 82.º
+
+As nomeações serão feitas pela ordem da classificação no concurso e segundo as vagas existentes de terceiro-secretário e os nomeados sê-lo-ão com carácter provisório, por dois anos, com o título de adidos de embaixada, contando-se o serviço assim prestado naquele período como sendo prestado para todos os feitos na categoria de terceiro secretário de embaixada. Todos prestarão serviço na Secretaria de Estado durante esses dois anos, repartidos, na medida do possível, pelos diferentes serviços.
+
+###### Artigo 83.º
+
+No fim de dois anos de serviço efectivo, o conselho do Ministério apreciará as aptidões para o serviço diplomático reveladas pelos adidos de embaixada e proporá ao Ministro os que julgue aptos a ingressar naquele serviço e os que devem ser exonerados sem direito a indemnização. Após livre decisão do Ministro sobre a proposta, os julgados aptos a ingressar no serviço diplomático serão submetidos a exame de línguas francesa e inglesa (redacção e conversação) e se satisfizerem a este exame serão, com a categoria de terceiro-secretário de embaixada, nomeados definitivamente.
 
 § único. A fim de facilitar o conhecimento de línguas estrangeiras poderá o Ministro autorizar que seja subsidiado o seu ensino.
 
-Art. 84.º As promoções de terceiro-secretário de embaixada à categoria de segundo-secretário de embaixada, e desta categoria à de primeiro-secretário de embaixada, fazem-se por livre escolha entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente anterior.
+###### Artigo 84.º
 
-Art. 85.º A promoção a conselheiro de embaixada depende, além do período de três anos de bom e efectivo serviço como primeiro-secretário de embaixada, da aprovação em concurso de provas públicas.
+A partir do ingresso no serviço diplomático, as promoções até à categoria de primeiro-secretário de embaixada, inclusive, fazem-se, por mérito ou por antiguidade, de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior.
 
-§ 1.º A ordem das promoções respeitará a graduação das classificações em concurso; no caso de classificações idênticas, prevalecerá o critério da maior antiguidade; no caso da igual antiguidade, o conselho do Ministério formulará propostas, sendo possível, em lista tríplice, sobre a base do mérito relativo para os lugares a preencher.
+> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13.
 
-Art. 86.º A apresentação a concurso para conselheiros de embaixada é obrigatória para os primeiros-secretários de embaixada com mais de dez anos de serviço e de três anos na sua categoria, podendo ser opositores àquele concurso os funcionários da mesma categoria que hajam cumprido dez anos de serviço.
+###### Artigo 85.º
 
-§ 1.º O funcionário que, sem motivos válidos, não se apresentar a dois concursos para conselheiro de embaixada, ou que nos mesmos não obtenha aprovação, será colocado na disponibilidade, ou aposentado, se a isso tiver direito;
+As promoções referidas no artigo anterior obedecem à ordem estabelecida pelo conselho do Ministério, nos termos seguintes:
 
-§ 2.º A validade dos motivos alegados pelo funcionário será apreciada pelo conselho do Ministério, que apresentará o seu parecer, e sobre este será tomada decisão pelo Ministro.
+a) O conselho do Ministério, ao elaborar as listas de promoção, deve, a seguir a cada três propostas de promoção por mérito, indicar para o mesmo efeito o funcionário mais antigo na categoria dos funcionários a promover;
 
-Art. 87.º A promoção a ministro plenipotenciário de 2.ª classe depende, além de três anos de bom e efectivo serviço como conselheiro de embaixada, da prestação durante a carreira de, pelo menos, dois anos de serviço na Secretaria de Estado, numa missão diplomática e num consulado.
+b) O Ministro não poderá deixar de obedecer à ordem estabelecida pelo conselho do Ministério sempre que a promoção for por antiguidade, mas, se pretender efectuar qualquer promoção por mérito não coincidente com a ordem proposta pelo conselho, deverá justificar e fundamentar a sua decisão.
 
-Art. 88.º Os ministros plenipotenciários de 1.ª classe são escolhidos pelo Ministro, na base da livre apreciação dos serviços prestados, entre os ministros plenipotenciários de 2.ª classe com três anos de bom e efectivo serviço nesta categoria.
+> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13.
 
-Art. 89.º As promoções referidas nos artigos anteriores, não dependentes de concurso, são propostas pelo conselho do Ministério, em lista tríplice, sempre que o número de candidatos o permita, sobre a base do melhor direito e da maior aptidão dos funcionários para o exercício do posto ou cargo superior, revelada pelas qualidades pessoais, pelos serviços prestados e pelos trabalhos por ele organizados ou publicados.
+###### Artigo 86.º
 
-§ 1.º Nenhum funcionário poderá ter mais de uma promoção no mesmo posto.
+As promoções a conselheiro de embaixada e a ministro plenipotenciário de 2.ª classe obedecem à ordem estabelecida pelo conselho do Ministério e fazem-se por mérito de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior, dependendo ainda a promoção a conselheiro de embaixada da permanência do funcionário nos serviços externos por tempo não inferior a seis anos.
 
-§ 2.º O Ministro justificará e fundamentará as decisões que se não conformarem com as propostas do conselho do Ministério.
+> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13.
 
-Art. 90.º Os embaixadores são nomeados, por livre escolha do Ministro, entre os ministros plenipotenciários de 1.ª classe, conforme as circunstâncias e atendendo aos méritos excepcionais do funcionário.
+###### Artigo 87.º
+
+Caso o Ministro pretenda efectuar qualquer promoção não coincidente com a ordem constante das listas de promoção estabelecidas pelo conselho, nos termos do artigo anterior, deverá justificar e fundamentar a sua decisão.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13.
+
+###### Artigo 88.º
+
+Os ministros plenipotenciários de 1.ª classe são escolhidos pelo Ministro, na base da livre apreciação dos serviços prestados, entre os ministros plenipotenciários de 2.ª classe com três anos de bom e efectivo serviço nesta categoria.
+
+###### Artigo 89.º
+
+Nenhum funcionário do serviço diplomático poderá ser promovido duas vezes consecutivas no mesmo país.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 59/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903), publicado em 1979-10-13.
+
+###### Artigo 90.º
+
+Os embaixadores são nomeados, por livre escolha do Ministro, entre os ministros plenipotenciários de 1.ª classe, conforme as circunstâncias e atendendo aos méritos excepcionais do funcionário.
 
 § único. A escolha de embaixadores pode igualmente ser feita de entre pessoas estranhas ao quadro do Ministério dos Negócios Estrangeiros que se hajam distinguido por sua capacidade e mérito, mas neste caso pertencerá ao Conselho de Ministros a nomeação.
 
-Art. 91.º Não há correspondência entre os graus hierárquicos dos funcionários do serviço diplomático e a designação e as honras das missões diplomáticas ou consulados que estes funcionários possam chefiar, e que são as que resultarem do direito internacional consuetudinário ou convencional.
+###### Artigo 91.º
+
+Não há correspondência entre os graus hierárquicos dos funcionários do serviço diplomático e a designação e as honras das missões diplomáticas ou consulados que estes funcionários possam chefiar, e que são as que resultarem do direito internacional consuetudinário ou convencional.
 
 #### SECÇÃO II — Admissão e acesso do pessoal administrativo da Secretaria de Estado
 
-Art. 92.º Os funcionários do quadro burocrático da Secretaria de Estado serão contratados, mas os contratos serão dependentes da aprovação em concurso de provas práticas.
+###### Artigo 92.º
 
-Art. 93.º A admissão do pessoal burocrático é feita mediante concurso para dactilógrafo ou terceiro-oficial.
+Os funcionários do quadro burocrático da Secretaria de Estado serão contratados, mas os contratos serão dependentes da aprovação em concurso de provas práticas.
 
-Art. 94.º A admissão ao concurso para dactilógrafo é aberta a todos os cidadãos portugueses originários, de ambos os sexos, maiores ou emancipados, que tenham menos de 35 anos de idade e possuam as habilitações mínimas do 1.º ciclo dos liceus ou equivalência concedida pelo Ministério da Educação Nacional.
+###### Artigo 93.º
 
-Art. 95.º A admissão ao concurso para terceiro-oficial é aberta a todos os cidadãos portugueses originários, de ambos os sexos, maiores ou emancipados, que tenham menos de 35 anos de idade e possuam as habilitações mínimas do 2.º ciclo dos liceus ou equivalência concedida pelo Ministério da Educação Nacional.
+A admissão do pessoal burocrático é feita mediante concurso para dactilógrafo ou terceiro-oficial.
+
+###### Artigo 94.º
+
+A admissão ao concurso para dactilógrafo é aberta a todos os cidadãos portugueses originários, de ambos os sexos, maiores ou emancipados, que tenham menos de 35 anos de idade e possuam as habilitações mínimas do 1.º ciclo dos liceus ou equivalência concedida pelo Ministério da Educação Nacional.
+
+###### Artigo 95.º
+
+A admissão ao concurso para terceiro-oficial é aberta a todos os cidadãos portugueses originários, de ambos os sexos, maiores ou emancipados, que tenham menos de 35 anos de idade e possuam as habilitações mínimas do 2.º ciclo dos liceus ou equivalência concedida pelo Ministério da Educação Nacional.
 
 § único. O concurso para terceiro-oficial incluirá uma prova facultativa de estenografia.
 
-Art. 96.º O limite de idade fixado em 35 anos nos artigos 93.º e 94.º não se aplica aos candidatos que sejam já funcionários públicos.
+###### Artigo 96.º
 
-Art. 97.º As nomeações para dactilógrafo e as promoções a terceiro-oficial serão feitas pela ordem de classificação no concurso.
+O limite de idade fixado em 35 anos nos artigos 93.º e 94.º não se aplica aos candidatos que sejam já funcionários públicos.
 
-Art. 98.º As promoções para os lugares de escriturário serão efectuadas à medida que se verificarem vagas no respectivo quadro e recairão, de harmonia com um critério de antiguidade, sobre os dactilógrafos considerados aptos pelo conselho do Ministério e que reunirem as condições de acesso previstas na lei geral.
+###### Artigo 97.º
 
-Art. 99.º As promoções para os lugares de segundo-oficial, primeiro-oficial e chefe de secção serão efectuadas à medida que se verificarem vagas no respectivo quadro e recairão sobre os funcionários da categoria inferior que reunirem as condições de acesso previstas na lei geral e sobre cuja aptidão se tenha pronunciado favoràvelmente o conselho do Ministério, tendo em conta a antiguidade, os serviços prestados e o conhecimento de línguas estrangeiras e de estenografia.
+As nomeações para dactilógrafo e as promoções a terceiro-oficial serão feitas pela ordem de classificação no concurso.
 
-Art. 100.º Os funcionários do quadro administrativo da Secretaria de Estado que forem destacados para prestar serviço nas missões diplomáticas e consulados mantêm o seu lugar no mesmo quadro, com direito à percepção dos seus vencimentos, que serão satisfeitos pelas dotações dos postos onde prestarem serviços, e continuarão a descontar as quotas legais para a Caixa Geral de Aposentações, sendo-lhes contado para a aposentação o tempo de serviço prestado no estrangeiro com os mesmos aumentos estabelecidos no artigo 178.º para os funcionários do serviço diplomático.
+###### Artigo 98.º
 
-Art. 101.º Quando seja necessário substituir, no serviço da Secretaria de Estado, os funcionários destacados para o estrangeiro, poderão ser admitidos, provisòriamente, como contratados, mediante concurso, indivíduos estranhos ao serviço da mesma Secretaria, na categoria inferior do respectivo quadro.
+As promoções para os lugares de escriturário serão efectuadas à medida que se verificarem vagas no respectivo quadro e recairão, de harmonia com um critério de antiguidade, sobre os dactilógrafos considerados aptos pelo conselho do Ministério e que reunirem as condições de acesso previstas na lei geral.
+
+###### Artigo 99.º
+
+As promoções para os lugares de segundo-oficial, primeiro-oficial e chefe de secção serão efectuadas à medida que se verificarem vagas no respectivo quadro, na proporção de três por mérito e uma por antiguidade.
+
+§ 1.º O conselho do Ministério, ao elaborar a lista de promoções por mérito, deverá ter em conta os serviços prestados e o conhecimento de línguas estrangeiras, para cuja aprendizagem poderá o Ministro autorizar a concessão de subsídios.
+
+§ 2.º Os funcionários do quadro administrativo não poderão ser promovidos mais de uma vez no mesmo país ou permanecer mais de cinco anos no mesmo posto.
+
+> Alterado pelo/a [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), publicado em 1976-02-20.
+
+###### Artigo 100.º
+
+Os funcionários do quadro administrativo da Secretaria de Estado que forem destacados para prestar serviço nas missões diplomáticas e consulados mantêm o seu lugar no mesmo quadro, com direito à percepção dos seus vencimentos, que serão satisfeitos pelas dotações dos postos onde prestarem serviços, e continuarão a descontar as quotas legais para a Caixa Geral de Aposentações, sendo-lhes contado para a aposentação o tempo de serviço prestado no estrangeiro com os mesmos aumentos estabelecidos no artigo 178.º para os funcionários do serviço diplomático.
+
+###### Artigo 101.º
+
+Quando seja necessário substituir, no serviço da Secretaria de Estado, os funcionários destacados para o estrangeiro, poderão ser admitidos, provisòriamente, como contratados, mediante concurso, indivíduos estranhos ao serviço da mesma Secretaria, na categoria inferior do respectivo quadro.
 
 § 1.º Os contratos deverão conter a cláusula de poderem ser rescindidos em qualquer ocasião, satisfazendo-se os vencimentos em relação apenas ao tempo de serviço prestado, e considerar-se-ão rescindidos logo que regresse ao quadro o funcionário destacado para serviço no estrangeiro se este não for substituído por outro do mesmo quadro.
 
 § 2.º Os contratados provisórios com boas informações de serviço terão preferência para preenchimento das vagas que se verificarem no respectivo quadro.
 
-Art. 102.º Aos funcionários destacados para serviço no estrangeiro nas condições do artigo 99.º será abonada uma importância para despesas de residência, fixada para cada caso pelo Ministro.
+###### Artigo 102.º
+
+Aos funcionários destacados para serviço no estrangeiro nas condições do artigo 99.º será abonada uma importância para despesas de residência, fixada para cada caso pelo Ministro.
 
 § único. Os funcionários destacados nos termos dos artigos anteriores terão direito ao abono para despesas de viagem para si e para sua mulher, sendo casados, e para o transporte de bagagem até aos 500 kg, mas não terão direito a transporte de móveis.
 
-Art. 103.º O pessoal menor será recrutado entre concorrentes que, tendo as habilitações da lei geral, dêem prova prática de que são aptos para o serviço que devam prestar.
+###### Artigo 103.º
+
+O pessoal menor será recrutado entre concorrentes que, tendo as habilitações da lei geral, dêem prova prática de que são aptos para o serviço que devam prestar.
 
 #### SECÇÃO III — Admissão dos funcionários estranhos ao serviço diplomático junto das missões diplomáticas e consulares
 
-Art. 104.º Os funcionários estranhos ao serviço diplomático em serviço junto das missões diplomáticas, e que não estejam abrangidos no artigo 53.º, serão contratados sob proposta do chefe de missão.
+###### Artigo 104.º
+
+Os funcionários estranhos ao serviço diplomático em serviço junto das missões diplomáticas, e que não estejam abrangidos no artigo 53.º, serão contratados sob proposta do chefe de missão.
 
 § único. Os intérpretes e tradutores em quaisquer postos diplomáticos ou consulares poderão ser admitidos por assalariamento.
 
-Art. 105.º Os cônsules não de carreira ou honorários são nomeados por iniciativa do Ministro dos Negócios Estrangeiros, ouvida a missão diplomática respectiva.
+###### Artigo 105.º
+
+Os cônsules não de carreira ou honorários são nomeados por iniciativa do Ministro dos Negócios Estrangeiros, ouvida a missão diplomática respectiva.
 
 § único. As nomeações devem recair sobre indivíduos com idoneidade e situação social para o cargo, devendo ser escolhidos, de preferência, portugueses ou estrangeiros que residam na sede do posto.
 
-Art. 106.º Os vice-cônsules ou agentes consulares e os chanceleres dos consulados serão nomeados pelo Ministro dos Negócios Estrangeiros, sob proposta do cônsul, se informada favoràvelmente pela embaixada respectiva, devendo, em igualdade de circunstâncias, ser escolhidos cidadãos portugueses ou estrangeiros que conheçam a língua portuguesa.
+###### Artigo 106.º
+
+Os vice-cônsules ou agentes consulares e os chanceleres dos consulados serão nomeados pelo Ministro dos Negócios Estrangeiros, sob proposta do cônsul, se informada favoràvelmente pela embaixada respectiva, devendo, em igualdade de circunstâncias, ser escolhidos cidadãos portugueses ou estrangeiros que conheçam a língua portuguesa.
 
 § único. Os vice-cônsules em serviço permanente em consulados de carreira e os chanceleres dos mesmos consulados poderão ser contratados quando forem de nacionalidade portuguesa.
 
@@ -1190,7 +1486,9 @@ Art. 106.º Os vice-cônsules ou agentes consulares e os chanceleres dos consula
 
 #### SECÇÃO I — Investidura
 
-Art. 107.º Todos os funcionários do Ministério devem tomar posse, e, salvo disposição especial, a posse é dada:
+###### Artigo 107.º
+
+Todos os funcionários do Ministério devem tomar posse, e, salvo disposição especial, a posse é dada:
 
 a) Ao secretário-geral e aos directores-gerais, pelo Ministro;
 
@@ -1204,7 +1502,9 @@ e) Aos cônsules que sejam nomeados ou transferidos encontrando-se em Portugal, 
 
 f) Aos vice-cônsules, agentes e chanceleres consulares, pelos gerentes dos consulados para que forem nomeados ou de quem forem dependentes.
 
-Art. 108.º Os funcionários deverão apresentar-se nos postos para que tenham sido nomeados, para o efeito de tomar posse legal ou efectivo do seu cargo, nos prazos seguintes:
+###### Artigo 108.º
+
+Os funcionários deverão apresentar-se nos postos para que tenham sido nomeados, para o efeito de tomar posse legal ou efectivo do seu cargo, nos prazos seguintes:
 
 1.º Nos casos de primeira nomeação para a Secretaria ou se da nomeação resultar simples transferência de um para outro lugar nela, no prazo de 30 dias;
 
@@ -1218,29 +1518,49 @@ Art. 108.º Os funcionários deverão apresentar-se nos postos para que tenham s
 
 § 3.º O Ministro pode, por motivos de serviço, alterar o prazo da posse por despacho publicado no Diário do Governo, de que será feita comunicação ao interessado.
 
-Art. 109.º O funcionário nomeado ou transferido continua a prestar serviço no posto onde se encontrar até à partida para o seu novo lugar, salvo ordem do Ministro em contrário.
+###### Artigo 109.º
+
+O funcionário nomeado ou transferido continua a prestar serviço no posto onde se encontrar até à partida para o seu novo lugar, salvo ordem do Ministro em contrário.
 
 § único. A data da partida será fixada de acordo com a Secretaria de Estado.
 
-Art. 110.º Do acto da posse ou da entrada em exercício do cargo em postos situados em país estrangeiro deve ser lavrado auto, em duplicado, assinado pelo novo funcionário e pelo gerente cessante ou efectivo, segundo o novo funcionário for ou não o chefe do posto, devendo o duplicado do auto ser remetido imediatamente à Secretaria de Estado.
+###### Artigo 110.º
+
+Do acto da posse ou da entrada em exercício do cargo em postos situados em país estrangeiro deve ser lavrado auto, em duplicado, assinado pelo novo funcionário e pelo gerente cessante ou efectivo, segundo o novo funcionário for ou não o chefe do posto, devendo o duplicado do auto ser remetido imediatamente à Secretaria de Estado.
 
 #### SECÇÃO II — Situação geral, colocação e substituição dos funcionários
 
-Art. 111.º Os funcionários do serviço diplomático formam um quadro técnico de serventia vitalícia e desempenham os seus cargos, na Secretaria de Estado ou no estrangeiro, em comissão sem limitação de tempo, podendo o Ministro colocá-los e transferi-los segundo as conveniências do serviço e nos termos legais, para o que deverá ter em consideração, além das razões de economia, a preparação dos funcionários e os serviços prestados, e o possível equilíbrio entre a permanência na Secretaria de Estado e em diferentes postos no estrangeiro.
+###### Artigo 111.º
+
+Os funcionários do serviço diplomático formam um quadro técnico de serventia vitalícia e desempenham os seus cargos no Ministério, nos termos gerais, e no estrangeiro, nas condições do artigo 113.º, podendo o Ministro colocá-los e transferi-los segundo as conveniências do serviço e nos termos legais, para o que deverá ter em consideração, além das razões de economia, a preparação dos funcionários, os serviços prestados e o possível equilíbrio entre a permanência no Ministério e em diferentes postos no estrangeiro.
 
 § 1.º Ao Ministro compete igualmente passá-los à disponibilidade e demiti-los, nos termos legais.
 
 § 2.º Os funcionários são obrigados ao desempenho dos cargos para que sejam nomeados, promovidos ou transferidos na Secretaria de Estado ou no estrangeiro, sob pena de demissão.
 
-Art. 112.º As promoções dos funcionários do serviço diplomático serão feitas, em regra, para a Secretaria de Estado e só se procederá diferentemente mediante informação do conselho do Ministério devidamente fundamentada.
+> Alterado pelo/a [Decreto Regulamentar n.º 32/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1990-554867), publicado em 1990-09-24.
 
-Art. 113.º A permanência seguida no estrangeiro dos funcionários do serviço diplomático não deverá, em princípio, exceder o período de seis anos.
+###### Artigo 112.º
 
-§ único. O Ministro ajuizará das conveniências políticas ou de serviço que aconselhem a permanência para além daquele período.
+As promoções dos funcionários do serviço diplomático serão feitas, em regra, para a Secretaria de Estado e só se procederá diferentemente mediante informação do conselho do Ministério devidamente fundamentada.
 
-Art. 114.º Os funcionários do serviço diplomático em serviço na Secretaria conservam o tratamento e as honras devidas à sua categoria.
+###### Artigo 113.º
 
-Art. 115.º Na sua falta ou impedimento, os funcionários do Ministério são substituídos:
+Os funcionários do serviço diplomático exercem os seus cargos no estrangeiro em comissão de serviço, com a duração de três anos, automaticamente renovável por iguais períodos, que se iniciará com a posse efectiva.
+
+§ 1.º A comissão de serviço poderá, porém, ser cessada a todo o tempo, iniciando o funcionário nova comissão pelo mesmo período, se for designado para outro posto.
+
+§ 2.º A presença seguida, no estrangeiro, dos funcionários do serviço diplomático não deverá, em princípio, exceder o período de seis anos, cabendo ao Ministro ajuizar das conveniências políticas ou de serviço que aconselhem a permanência para além daquele período.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 32/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1990-554867), publicado em 1990-09-24.
+
+###### Artigo 114.º
+
+Os funcionários do serviço diplomático em serviço na Secretaria conservam o tratamento e as honras devidas à sua categoria.
+
+###### Artigo 115.º
+
+Na sua falta ou impedimento, os funcionários do Ministério são substituídos:
 
 1.º O secretário-geral, pelo director-geral dos Negócios Políticos e, na falta deste, pelo director-geral dos Negócios Económicos e pelo director-geral dos Serviços Centrais, por esta ordem;
 
@@ -1256,15 +1576,21 @@ Art. 115.º Na sua falta ou impedimento, os funcionários do Ministério são su
 
 § único. Na falta de conselheiro ou de secretário que assuma as funções de encarregado de negócios, poderá o cônsul do serviço diplomático que resida na capital da sede da missão ser encarregado do expediente dos negócios.
 
-Art. 116.º Quando num posto consular de carreira não existam, por não terem sido ainda nomeados, ou se encontrarem por qualquer motivo impedidos, os substitutos previstos neste regulamento, deve o gerente do posto propor à aprovação da Secretaria de Estado pessoa da sua confiança, escolhida de preferência entre os empregados auxiliares da chancelaria, susceptível de o substituir nas suas faltas ou impedimentos e de, em caso de necessidade, gerir interinamente o posto. A proposta será remetida à Secretaria de Estado por intermédio da missão diplomática a que estiver subordinado o posto consular e a pessoa cuja designação for aceite exercerá as funções de substituto do gerente do posto ou as de encarregado da gerência do mesmo tão-sòmente enquanto não tiverem sido nomeados ou se encontrarem impedidos os substitutos previstos no artigo 115.º do Regulamento do Ministério.
+###### Artigo 116.º
 
-Art. 117.º Sempre que num posto consular não de carreira não existam ou se encontrem por qualquer motivo impedidos os substitutos a que se refere o n.º 6.º do artigo 115.º deste regulamento, deve o respectivo gerente designar para o substituir nas suas faltas ou impedimentos e para, em caso de necessidade, gerir interinamente o posto, pessoa de nacionalidade portuguesa ou estrangeira respeitável e suficientemente habilitada para desempenhar as suas funções. Esta designação não carece de ser superiormente confirmada, mas deve ser comunicada ao gerente do posto consular de carreira de que dependa o posto não de carreira, o qual, por intermédio da missão diplomática a que estiver subordinado, dela dará conhecimento à Secretaria de Estado.
+Quando num posto consular de carreira não existam, por não terem sido ainda nomeados, ou se encontrarem por qualquer motivo impedidos, os substitutos previstos neste regulamento, deve o gerente do posto propor à aprovação da Secretaria de Estado pessoa da sua confiança, escolhida de preferência entre os empregados auxiliares da chancelaria, susceptível de o substituir nas suas faltas ou impedimentos e de, em caso de necessidade, gerir interinamente o posto. A proposta será remetida à Secretaria de Estado por intermédio da missão diplomática a que estiver subordinado o posto consular e a pessoa cuja designação for aceite exercerá as funções de substituto do gerente do posto ou as de encarregado da gerência do mesmo tão-sòmente enquanto não tiverem sido nomeados ou se encontrarem impedidos os substitutos previstos no artigo 115.º do Regulamento do Ministério.
+
+###### Artigo 117.º
+
+Sempre que num posto consular não de carreira não existam ou se encontrem por qualquer motivo impedidos os substitutos a que se refere o n.º 6.º do artigo 115.º deste regulamento, deve o respectivo gerente designar para o substituir nas suas faltas ou impedimentos e para, em caso de necessidade, gerir interinamente o posto, pessoa de nacionalidade portuguesa ou estrangeira respeitável e suficientemente habilitada para desempenhar as suas funções. Esta designação não carece de ser superiormente confirmada, mas deve ser comunicada ao gerente do posto consular de carreira de que dependa o posto não de carreira, o qual, por intermédio da missão diplomática a que estiver subordinado, dela dará conhecimento à Secretaria de Estado.
 
 ### CAPÍTULO III — Deveres e direitos dos funcionários
 
 #### SECÇÃO I — Regras gerais
 
-Art. 118.º Os funcionários do Ministério dos Negócios Estrangeiros, além dos deveres comuns a todos os funcionários públicos, têm como deveres profissionais:
+###### Artigo 118.º
+
+Os funcionários do Ministério dos Negócios Estrangeiros, além dos deveres comuns a todos os funcionários públicos, têm como deveres profissionais:
 
 1.º Defender e servir, em conformidade com os tratados, leis e regulamentos, os direitos e interesses do Estado e os dos cidadãos portugueses na ordem internacional;
 
@@ -1280,37 +1606,61 @@ Art. 118.º Os funcionários do Ministério dos Negócios Estrangeiros, além do
 
 § único. Apurada a quebra de sigilo, será a mesma punida com demissão, independentemente de qualquer outro procedimento a que possa dar lugar.
 
-Art. 119.º Concorrentemente com os direitos atribuídos aos funcionários públicos em geral, os funcionários do Ministério dos Negócios Estrangeiros têm os direitos que resultam da lei orgânica do Ministério, deste regulamento e dos usos diplomáticos.
+###### Artigo 119.º
 
-Art. 120.º Os ministros plenipotenciários a que se refere o § 1.º do artigo 65.º terão o título e honras de embaixador, como tal sendo designados em tudo que respeite à sua situação perante a entidade junto da qual se encontram acreditados. Continuarão, porém, para todos os efeitos legais, a ocupar o lugar que lhes competir no quadro dos ministros plenipotenciários de 1.ª ou 2.ª classes e o título e honras atribuídos cessam ao terminar a respectiva comissão por transferência, passagem à disponibilidade, licença ilimitada ou aposentação.
+Concorrentemente com os direitos atribuídos aos funcionários públicos em geral, os funcionários do Ministério dos Negócios Estrangeiros têm os direitos que resultam da lei orgânica do Ministério, deste regulamento e dos usos diplomáticos.
 
-Art. 121.º Os primeiros-secretários de embaixada, bem como os adidos militares, culturais, financeiros, comerciais e de imprensa, colocados no quadro externo e quando não haja legislação especial regulando o assunto, podem ser autorizados, por despacho do Ministro, a usar o título de conselheiros.
+###### Artigo 120.º
 
-Art. 122.º Dentro de cada missão diplomática, as precedências e as equivalências entre os funcionários do serviço diplomático e os referidos no artigo 53.º serão estabelecidas, para cada caso, por despacho do Ministro dos Negócios Estrangeiros e do Ministro de que dependerem os segundos, entendendo-se que o funcionário do serviço diplomático que for substituto do chefe de missão tem sempre precedência sobre todos os demais.
+Os ministros plenipotenciários a que se refere o § 1.º do artigo 65.º terão o título e honras de embaixador, como tal sendo designados em tudo que respeite à sua situação perante a entidade junto da qual se encontram acreditados. Continuarão, porém, para todos os efeitos legais, a ocupar o lugar que lhes competir no quadro dos ministros plenipotenciários de 1.ª ou 2.ª classes e o título e honras atribuídos cessam ao terminar a respectiva comissão por transferência, passagem à disponibilidade, licença ilimitada ou aposentação.
 
-Art. 123.º Os chefes dos serviços da Secretaria de Estado ou dos serviços externos devem, salvo disposição especial, dar andamento no prazo de dez dias úteis aos pedidos ou pretensões que lhes sejam apresentados, considerando-se indeferidos, para efeitos contenciosos ou de reclamação hierárquica, os que não obtiverem despacho naquele prazo.
+###### Artigo 121.º
+
+Os primeiros-secretários de embaixada, bem como os adidos militares, culturais, financeiros, comerciais e de imprensa, colocados no quadro externo e quando não haja legislação especial regulando o assunto, podem ser autorizados, por despacho do Ministro, a usar o título de conselheiros.
+
+###### Artigo 122.º
+
+Dentro de cada missão diplomática, as precedências e as equivalências entre os funcionários do serviço diplomático e os referidos no artigo 53.º serão estabelecidas, para cada caso, por despacho do Ministro dos Negócios Estrangeiros e do Ministro de que dependerem os segundos, entendendo-se que o funcionário do serviço diplomático que for substituto do chefe de missão tem sempre precedência sobre todos os demais.
+
+###### Artigo 123.º
+
+Os chefes dos serviços da Secretaria de Estado ou dos serviços externos devem, salvo disposição especial, dar andamento no prazo de dez dias úteis aos pedidos ou pretensões que lhes sejam apresentados, considerando-se indeferidos, para efeitos contenciosos ou de reclamação hierárquica, os que não obtiverem despacho naquele prazo.
 
 § único. Aos assuntos urgentes será dado expediente imediato.
 
-Art. 124.º Todos os documentos ou papéis que exijam resolução serão sempre devidamente informados pelo funcionário inferior que os submeter a despacho ou apreciação do funcionário superior, tendo em conta o disposto no artigo 61.º
+###### Artigo 124.º
+
+Todos os documentos ou papéis que exijam resolução serão sempre devidamente informados pelo funcionário inferior que os submeter a despacho ou apreciação do funcionário superior, tendo em conta o disposto no artigo 61.º
 
 § 1.º Quando a importância dos assuntos o exija, as informações devem ser dadas por escrito e precisar o ponto de facto a resolver, indicar a disposição de lei a aplicar ou declarar que a lei é omissa sobre o caso, apontar as decisões tomadas sobre casos semelhantes e, na falta de lei e jurisprudência estabelecida, propor a solução que parecer mais justa.
 
 § 2.º O funcionário que, devendo ter informado, e não o fizer, que não tiver dado a informação na forma estabelecida pela lei ou que der informação falsa ou errada, de modo a induzir em erro o funcionário superior, é solidàriamente responsável com aquele que tiver tomado a decisão ou praticado o acto, se de tal decisão ou acto resultar responsabilidade, independentemente da responsabilidade pessoal que lhe possa caber por ter cometido uma falta ou erro de ofício.
 
-Art. 125.º Os funcionários devem considerar confidencial toda a correspondência trocada entre si sobre assuntos pendentes, remetê-la pela via hierárquica e registá-la segundo as instruções superiores.
+###### Artigo 125.º
 
-Art. 126.º Os serviços externos podem corresponder-se directamente entre si, mas darão conhecimento à Secretaria de Estado das comunicações trocadas.
+Os funcionários devem considerar confidencial toda a correspondência trocada entre si sobre assuntos pendentes, remetê-la pela via hierárquica e registá-la segundo as instruções superiores.
 
-Art. 127.º O expediente da Secretaria de Estado deverá ser feito em nome do secretário-geral ou dos directores-gerais, sempre que não envolva transmissão de ordens ou instruções a funcionários de categoria igual ou superior, caso em que é feito em nome do Ministro e sob ordem sua, e o expediente das missões diplomáticas e dos consulados é sempre feito em nome dos chefes de missão ou gerentes.
+###### Artigo 126.º
+
+Os serviços externos podem corresponder-se directamente entre si, mas darão conhecimento à Secretaria de Estado das comunicações trocadas.
+
+###### Artigo 127.º
+
+O expediente da Secretaria de Estado deverá ser feito em nome do secretário-geral ou dos directores-gerais, sempre que não envolva transmissão de ordens ou instruções a funcionários de categoria igual ou superior, caso em que é feito em nome do Ministro e sob ordem sua, e o expediente das missões diplomáticas e dos consulados é sempre feito em nome dos chefes de missão ou gerentes.
 
 § único. Na correspondência com entidades estrangeiras seguir-se-ão os usos consagrados.
 
-Art. 128.º Haverá na Secretaria de Estado, para cada funcionário do Ministério, organizado pela Repartição do Pessoal e da Administração, um processo individual, que compreenderá todos os documentos e factos relativos à sua vida profissional.
+###### Artigo 128.º
 
-Art. 129.º De tudo o que constar do processo individual se fará averbamento em folha especial relativa a cada funcionário, que constituirá a sua folha de serviço. Desta constarão sempre a entrega dos relatórios anuais a que os funcionários são obrigados e as reduções na contagem do tempo para a antiguidade ou para a promoção que, por lei, resultem de faltas ou de facto seu. Das folhas de serviço serão passadas aos funcionários certidões, sempre que as requeiram.
+Haverá na Secretaria de Estado, para cada funcionário do Ministério, organizado pela Repartição do Pessoal e da Administração, um processo individual, que compreenderá todos os documentos e factos relativos à sua vida profissional.
 
-Art. 130.º O serviço de cada funcionário será objecto, anualmente ou quando mude de situação ou de posto, de uma informação individual e confidencial, dada, no primeiro caso, pelo chefe sob cujas ordens servir, e, no segundo, por aquele sob cujas ordens deixar de servir.
+###### Artigo 129.º
+
+De tudo o que constar do processo individual se fará averbamento em folha especial relativa a cada funcionário, que constituirá a sua folha de serviço. Desta constarão sempre a entrega dos relatórios anuais a que os funcionários são obrigados e as reduções na contagem do tempo para a antiguidade ou para a promoção que, por lei, resultem de faltas ou de facto seu. Das folhas de serviço serão passadas aos funcionários certidões, sempre que as requeiram.
+
+###### Artigo 130.º
+
+O serviço de cada funcionário será objecto, anualmente ou quando mude de situação ou de posto, de uma informação individual e confidencial, dada, no primeiro caso, pelo chefe sob cujas ordens servir, e, no segundo, por aquele sob cujas ordens deixar de servir.
 
 § 1.º As informações serão dadas no local em que o funcionário servir, as anuais na 2.ª quinzena do mês de Dezembro de cada ano e as eventuais nos primeiros 15 dias que se seguirem à retirada do funcionário do exercício das suas funções. Umas e outras serão remetidas nos 30 dias imediatos ao secretário-geral do Ministério, como presidente do conselho do Ministério, e por aquele arquivadas sob segredo.
 
@@ -1322,9 +1672,13 @@ Art. 130.º O serviço de cada funcionário será objecto, anualmente ou quando 
 
 ##### DIVISÃO I — Vencimentos de categoria e exercício e abonos para despesas de representação
 
-Art. 131.º Os funcionários do Ministério dos Negócios Estrangeiros têm direito aos vencimentos de categoria e exercício fixados na lei geral ou nos contratos e à aposentação, nos termos da lei comum aos funcionários públicos.
+###### Artigo 131.º
 
-Art. 132.º Serão abonadas aos funcionários do serviço diplomático para despesas de representação as quantias inscritas para esse fim no orçamento.
+Os funcionários do Ministério dos Negócios Estrangeiros têm direito aos vencimentos de categoria e exercício fixados na lei geral ou nos contratos e à aposentação, nos termos da lei comum aos funcionários públicos.
+
+###### Artigo 132.º
+
+Serão abonadas aos funcionários do serviço diplomático para despesas de representação as quantias inscritas para esse fim no orçamento.
 
 § 1.º Estes abonos têm o carácter de ajudas de custo.
 
@@ -1332,23 +1686,31 @@ Art. 132.º Serão abonadas aos funcionários do serviço diplomático para desp
 
 § 3.º A Secretaria de Estado exigirá justificação periódica, de harmonia com as instruções do Ministro, do emprego dado pelos chefes de missão às quantias que lhes forem abonadas para despesas de representação.
 
-Art. 133.º As compensações atribuídas no orçamento em termos globais serão distribuídas pelos funcionários do serviço diplomático por despacho do Ministro.
+###### Artigo 133.º
+
+As compensações atribuídas no orçamento em termos globais serão distribuídas pelos funcionários do serviço diplomático por despacho do Ministro.
 
 § único. Estas compensações terão carácter temporário e, quando atribuídas aos funcionários do serviço diplomático colocados no estrangeiro, consideram-se para todos os efeitos como fazendo parte integrante dos abonos para despesas de representação.
 
-Art. 134.º Os funcionários em serviço no estrangeiro a quem, nos termos regulamentares, competir a substituição de outros funcionários nas suas ausências não terão direito a qualquer vencimento ou abono suplementar por estas substituições quando as ausências não excederem 30 dias anuais. Quando, porém, a ausência for superior a 30 dias, seguidos ou interpolados, o substituto perceberá, a partir do 31.º dia da substituição, metade do abono para despesas de representação atribuído ao funcionário substituído. O direito a este abono suplementar verifica-se, porém, a partir do 1.º dia da gerência, no caso de vacatura do posto.
+###### Artigo 134.º
+
+Os funcionários em serviço no estrangeiro a quem, nos termos regulamentares, competir a substituição de outros funcionários nas suas ausências não terão direito a qualquer vencimento ou abono suplementar por estas substituições quando as ausências não excederem 30 dias anuais. Quando, porém, a ausência for superior a 30 dias, seguidos ou interpolados, o substituto perceberá, a partir do 31.º dia da substituição, metade do abono para despesas de representação atribuído ao funcionário substituído. O direito a este abono suplementar verifica-se, porém, a partir do 1.º dia da gerência, no caso de vacatura do posto.
 
 § 1.º Não poderá, porém, exceder 95 por cento da quantia atribuída ao funcionário substituído a título de abono para despesas de representação o total do abono de idêntica natureza fixado a favor do seu substituto e do que a este funcionário cabe perceber, nos termos deste artigo, pela substituição.
 
 § 2.º Quando o funcionário substituído for um cônsul de carreira e o substituído for remunerado pela dotação orçamental para pagamento do pessoal assalariado, será deduzida do salário do substituto a importância necessária para que o total desse salário e da metade do abono para despesas de representação que lhe cabe pela substituição não exceda 95 por cento da quantia atribuída ao funcionário substituído a título de representação.
 
-Art. 135.º Os vencimentos de categoria e exercício dos funcionários em serviço no estrangeiro começam a contar-se do dia em que partem para o seu destino; desde esse dia até à posse efectiva do cargo contam-se-lhes por metade os abonos para despesas de representação; desde aquela posse têm direito à totalidade dos abonos que competem ao seu posto e situação.
+###### Artigo 135.º
+
+Os vencimentos de categoria e exercício dos funcionários em serviço no estrangeiro começam a contar-se do dia em que partem para o seu destino; desde esse dia até à posse efectiva do cargo contam-se-lhes por metade os abonos para despesas de representação; desde aquela posse têm direito à totalidade dos abonos que competem ao seu posto e situação.
 
 § único. Quando os funcionários saem de um posto para a Secretaria de Estado ou para outro posto consideram-se em viagem desde que entregam a gerência ao seu sucessor ou substituto.
 
 ##### DIVISÃO II — Abonos para instalação dos serviços
 
-Art. 136.º Será posta à disposição dos chefes de missão habitação condigna com a representação que exercem.
+###### Artigo 136.º
+
+Será posta à disposição dos chefes de missão habitação condigna com a representação que exercem.
 
 § 1.º No orçamento do Ministério dos Negócios Estrangeiros serão inscritas para renda de casa as verbas necessárias nos países onde o Estado não possuir para aquele fim edifício próprio.
 
@@ -1362,7 +1724,9 @@ Art. 136.º Será posta à disposição dos chefes de missão habitação condig
 
 § 6.º Quando as circunstâncias especiais assim o exigirem, poderá o Ministro autorizar o chefe de missão a alugar por conta do Estado casa de residência para os outros funcionários do quadro em serviço na missão, ficando a cargo do funcionário o encargo da respectiva renda.
 
-Art. 137.º As verbas inscritas no orçamento do Ministério para rendas das casas onde estiverem instalados os postos diplomáticos no estrangeiro só serão abonadas aos chefes de missão a partir da data em que, com aprovação do Ministro, hajam arrendado casa para a instalação do posto.
+###### Artigo 137.º
+
+As verbas inscritas no orçamento do Ministério para rendas das casas onde estiverem instalados os postos diplomáticos no estrangeiro só serão abonadas aos chefes de missão a partir da data em que, com aprovação do Ministro, hajam arrendado casa para a instalação do posto.
 
 § 1.º As cláusulas do contrato de arrendamento devem ser aprovadas prèviamente pelo Ministro, ao qual devem ser comunicadas todas as informações necessárias acerca da residência e da chancelaria.
 
@@ -1372,13 +1736,17 @@ Art. 137.º As verbas inscritas no orçamento do Ministério para rendas das cas
 
 § 4.º Os chefes de missão ou quem os substituir respondem perante o Estado pelo rigoroso cumprimento dos contratos de arrendamento.
 
-Art. 138.º As chancelarias dos consulados de carreira serão instaladas em casa própria ou arrendada pelo Estado.
+###### Artigo 138.º
+
+As chancelarias dos consulados de carreira serão instaladas em casa própria ou arrendada pelo Estado.
 
 § 1.º Se os compartimentos da casa permitirem a boa instalação da chancelaria e, além disso, a condigna residência do cônsul, poderá esta ser autorizada mediante o pagamento de uma renda, que não será inferior a metade da renda global.
 
 § 2.º Aos contratos de arrendamento e ao pagamento das rendas das casas onde se encontram instalados os consulados são aplicáveis as disposições acima prescritas para os contratos de arrendamento das casas dos postos diplomáticos.
 
-Art. 139.º Nas capitais onde o Estado tiver edifício próprio ou arrendado para a instalação do posto diplomático é obrigatória a residência nesse edifício do chefe da missão.
+###### Artigo 139.º
+
+Nas capitais onde o Estado tiver edifício próprio ou arrendado para a instalação do posto diplomático é obrigatória a residência nesse edifício do chefe da missão.
 
 § 1.º Os edifícios do Estado em que se acharem instalados postos diplomáticos ou consulares serão mobilados pelo Estado e não poderão sofrer modificações na decoração geral sem ordem superior.
 
@@ -1390,7 +1758,9 @@ Art. 139.º Nas capitais onde o Estado tiver edifício próprio ou arrendado par
 
 ##### DIVISÃO III — Abonos para despesas de instalação individual
 
-Art. 140.º Aos funcionários do serviço diplomático pela primeira vez nomeados com carácter definitivo, em relação a cada categoria, para o exercício de cargos no estrangeiro, serão abonadas para despesas de instalação as quantias fixas seguintes:
+###### Artigo 140.º
+
+Aos funcionários do serviço diplomático pela primeira vez nomeados com carácter definitivo, em relação a cada categoria, para o exercício de cargos no estrangeiro, serão abonadas para despesas de instalação as quantias fixas seguintes:
 
 a) Aos terceiros-secretários, 40000$00;
 
@@ -1408,17 +1778,27 @@ f) Aos embaixadores, 180000$00.
 
 § 2.º As importâncias calculadas nos termos do parágrafo anterior serão reduzidas de 10 por cento quando o funcionário seja colocado em posto a que corresponda o direito a residir em casa mobilada e esta lhe seja fornecida pelo Estado.
 
-Art. 141.º Os funcionários com direito a abono para despesas de instalação poderão receber metade desse abono dentro dos quinze dias anteriores ao da portaria e a outra metade a seguir à posse efectiva do cargo.
+###### Artigo 141.º
+
+Os funcionários com direito a abono para despesas de instalação poderão receber metade desse abono dentro dos quinze dias anteriores ao da portaria e a outra metade a seguir à posse efectiva do cargo.
 
 § único. Os chefes de missão, que até seis meses depois de terem tomado posse do seu cargo no estrangeiro não estiverem instalados em casa própria perdem o direito a metade do abono para despesas de instalação, que será reposta por dedução nos abonos de representação a que tiverem direito.
 
-Art. 142.º Os funcionários do quadro administrativo da Secretaria de Estado colocados no estrangeiro terão direito a um abono para instalação correspondente a um duodécimo do vencimento e residência que lhes competir no lugar que vão ocupar.
+###### Artigo 142.º
 
-Art. 143.º Aos funcionários do serviço diplomático colocados com carácter definitivo no estrangeiro que sejam transferidos ou promovidos para a Secretaria de Estado, ou que regressem definitivamente a Portugal por força do disposto no artigo 181.º deste regulamento, serão abonados 50 por cento da verba para despesas de instalação correspondente à sua categoria.
+Os funcionários do quadro administrativo da Secretaria de Estado colocados no estrangeiro terão direito a um abono para instalação correspondente a um duodécimo do vencimento e residência que lhes competir no lugar que vão ocupar.
 
-§ único. O disposto neste artigo é também aplicável aos funcionários que regressem ao País após três anos seguidos de exercício no estrangeiro, qualquer que tenha sido aí a sua situação.
+###### Artigo 143.º
 
-Art. 144.º Às famílias dos funcionários falecidos no estrangeiro será abonada a despesa de instalação que caberia ao funcionário se fosse transferido para a Secretaria de Estado.
+Aos funcionários do serviço diplomático colocados com carácter definitivo no estrangeiro que sejam transferidos ou promovidos para a Secretaria de Estado, ou que regressem definitivamente a Portugal por força do disposto no artigo 181.º deste regulamento, serão abonados 50 por cento da verba para despesas de instalação correspondente à sua categoria.
+
+§ único. Idêntico abono para despesas de instalação será também atribuído aos funcionários do serviço diplomático que regressem ao País após três anos seguidos de exercício no estrangeiro, qualquer que tenha sido aí a situação. Nos casos em que o regresso do funcionário se dê por ter cessado a comissão de serviço por ele desempenhada no estrangeiro nos termos do artigo 152.º do Regulamento, o abono será processado logo que reassuma o exercício do seu cargo na Secretaria de Estado. Nos restantes casos, nomeadamente naqueles em que o regresso do funcionário se tenha dado em seguimento à sua exoneração ou à sua colocação na situação prevista no artigo 169.º deste Regulamento ou tenha resultado de qualquer facto de ordem política internacional, o abono será feito quando, por despacho ministerial, assim for julgado adequado.
+
+> Alterado pelo/a [Decreto n.º 433/72](https://diariodarepublica.pt/dr/detalhe/decreto/433-1972-690465), publicado em 1972-11-03.
+
+###### Artigo 144.º
+
+Às famílias dos funcionários falecidos no estrangeiro será abonada a despesa de instalação que caberia ao funcionário se fosse transferido para a Secretaria de Estado.
 
 § 1.º Este abono será pago, sem dependência de habilitação, à viúva do funcionário ou a outra pessoa de família que residisse habitualmente com o funcionário falecido, conforme o Ministro determinar.
 
@@ -1426,17 +1806,19 @@ Art. 144.º Às famílias dos funcionários falecidos no estrangeiro será abona
 
 ##### DIVISÃO IV — Abonos para despesas de viagem
 
-Art. 145.º Aos funcionários do serviço diplomático nomeados, promovidos ou transferidos da Secretaria de Estado para o estrangeiro, ou de um para outro posto no estrangeiro, ou vindos de regresso a Portugal depois de permanência no estrangeiro, qualquer que seja o título de estada em serviço fora do País, serão feitos para despesas de viagem os seguintes abonos:
+###### Artigo 145.º
+
+Aos funcionários do serviço diplomático nomeados, promovidos ou transferidos da Secretaria de Estado para o estrangeiro, ou de um para outro posto no estrangeiro, ou vindos de regresso a Portugal depois de permanência no estrangeiro, qualquer que seja o título de estada em serviço fora do País, serão feitos para despesas de viagem os seguintes abonos:
 
 a) Importância das despesas do transporte da sua própria pessoa e das pessoas de sua família sem limitação de número, se se tratar sòmente de sua mulher e filhos, ou até ao número de cinco se essas pessoas não atingirem ou não excederem este número;
 
 b) Importância das despesas de transporte de mais uma pessoa, além das previstas na alínea c), sempre que os funcionários levem consigo filhos menores de 10 anos de idade ou que estes vão viver na sua companhia, embora a viagem se não faça conjuntamente;
 
-c) Importância das despesas de embalagem, seguro e transporte de móveis e bagagens nestes termos:
+c) Importância das despesas de embalagem, transporte de móveis, bagagem e viatura e ainda o seguro dos bens abrangidos por esta alínea, nestes termos:
 
-1.º Até 4 t ou 25 m3 para os secretários ou conselheiros de embaixada, solteiros ou casados sem filhos, e até 6 t ou 40 m3 para os casados, divorciados ou viúvos com filhos que viajem em sua companhia;
+1.º Até 4 t ou 25 m3 para os funcionários sem filhos e até 6 t ou 40 m3 para funcionários com filhos que viajam na sua companhia;
 
-2.º Até 6 t ou 40 m3 para os funcionários de categoria igual ou superior à de ministro de 2.ª classe e aos chefes de missão solteiros, e até 10 t ou 60 m3 para os casados, divorciados ou viúvos com filhos que viajem na sua companhia.
+2.º Até 20 vezes o montante da remuneração mensal que, a título de vencimento e abonos de representação, o funcionário vai perceber no posto onde foi colocado ou, no caso de regresso a Portugal, no posto onde prestava serviço no momento desse regresso, como limite máximo da avaliação para efeito de seguro.
 
 d) Para despesas eventuais as quantias fixas seguintes:
 
@@ -1454,81 +1836,123 @@ d) Para despesas eventuais as quantias fixas seguintes:
 
 § 5.º Se o funcionário contrair casamento, encontrando-se em serviço no estrangeiro, ser-lhe-ão abonadas as despesas de viagem de sua mulher do país onde esta resida para aquele onde estiver colocado o funcionário.
 
-Art. 146.º Os funcionários devem declarar, sob sua honra, ao requisitarem as despesas de viagem, quais são as pessoas de família com direito a despesas de viagem que os acompanham desde logo e aquelas para quem pedem que seja reservado o abono. A reserva do abono não pode ser por prazo superior a um ano.
+> Alterado pelo/a [Decreto Regulamentar n.º 1/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1984-531815), publicado em 1984-01-06.
+
+###### Artigo 146.º
+
+Os funcionários devem declarar, sob sua honra, ao requisitarem as despesas de viagem, quais são as pessoas de família com direito a despesas de viagem que os acompanham desde logo e aquelas para quem pedem que seja reservado o abono. A reserva do abono não pode ser por prazo superior a um ano.
 
 § único. Consideram-se pessoas de família para o efeito deste artigo e da alínea a) do artigo 145.º a mulher, a mãe viúva ou pai inválido, os filhos legítimos menores, as filhas legítimas solteiras, os netos órfãos de pai ou de mãe ou de pais divorciados e as irmãs não casadas, que não tenham quaisquer rendimentos ou pensões e que vivam com o funcionário.
 
-Art. 147.º O funcionário que deixar de tomar posse do seu cargo, sem ser por ordem superior ou motivo de doença, será obrigado a restituir o que tiver recebido para despesas de instalação e para despesas eventuais.
+###### Artigo 147.º
 
-Art. 148.º Às pessoas de família dos funcionários falecidos no exercício dos seus cargos no estrangeiro serão abonadas as despesas de viagem se vierem para Portugal no prazo de três meses a contar do falecimento.
+O funcionário que deixar de tomar posse do seu cargo, sem ser por ordem superior ou motivo de doença, será obrigado a restituir o que tiver recebido para despesas de instalação e para despesas eventuais.
 
-Art. 149.º Aos funcionários do Ministério dos Negócios Estrangeiros que, no desempenho de missões, comissões ou serviços dependentes do Ministério, forem obrigados a deslocações temporárias, dentro ou fora do território nacional, serão abonadas as despesas de viagem de ida e regresso.
+###### Artigo 148.º
 
-Art. 150.º O Estado fornecerá directamente aos funcionários os bilhetes de viagem. Em caso contrário, serão feitos os respectivos abonos para despesas de viagem, com antecedência não superior a quinze dias em relação à data da partida.
+Às pessoas de família dos funcionários falecidos no exercício dos seus cargos no estrangeiro serão abonadas as despesas de viagem se vierem para Portugal no prazo de três meses a contar do falecimento.
+
+###### Artigo 149.º
+
+Aos funcionários do Ministério dos Negócios Estrangeiros que, no desempenho de missões, comissões ou serviços dependentes do Ministério, forem obrigados a deslocações temporárias, dentro ou fora do território nacional, serão abonadas as despesas de viagem de ida e regresso.
+
+###### Artigo 150.º
+
+O Estado fornecerá directamente aos funcionários os bilhetes de viagem. Em caso contrário, serão feitos os respectivos abonos para despesas de viagem, com antecedência não superior a quinze dias em relação à data da partida.
 
 § 1.º Aos funcionários do serviço diplomático serão fornecidos os bilhetes e os abonos feitos para passagem em 1.ª classe nos comboios, paquetes e aviões mais rápidos.
 
 § 2.º Será instaurado processo disciplinar aos funcionários que, sem autorização ou ordem superior, viajarem em classe inferior à que lhes compete.
 
-Art. 151.º Os funcionários prestarão contas dos abonos recebidos antecipadamente para despesas de viagem, salvo se, por despacho do Ministro, estiver fixada quantia certa para determinada viagem de ida e regresso, não se aplicando esta obrigação ao abono previsto na alínea d) do artigo 145.º
+###### Artigo 151.º
+
+Os funcionários prestarão contas dos abonos recebidos antecipadamente para despesas de viagem, salvo se, por despacho do Ministro, estiver fixada quantia certa para determinada viagem de ida e regresso, não se aplicando esta obrigação ao abono previsto na alínea d) do artigo 145.º
 
 ##### DIVISÃO V — Abonos para missões extraordinárias ou comissões de serviço no estrangeiro
 
-Art. 152.º A nomeação de funcionários do Ministério para missões extraordinárias de carácter diplomático ou para comissões de serviço no estrangeiro dependentes do Ministério deverá ser feita em documento assinado pelo Ministro e publicado no Diário do Governo, sendo, porém, exceptuados desta publicação os documentos relativos a missões ou comissões que o Ministro em seu despacho considere de carácter confidencial, devendo surtir efeitos imediatos, mesmo antes da publicação, as nomeações consideradas urgentes.
+###### Artigo 152.º
 
-Art. 153.º As remunerações e abonos para as missões e comissões de que trata o artigo anterior serão fixados, em cada caso, pelo Ministro dos Negócios Estrangeiros, segundo tabela estabelecida de acordo com o Ministro das Finanças.
+A nomeação de funcionários do Ministério para missões extraordinárias de carácter diplomático ou para comissões de serviço no estrangeiro dependentes do Ministério deverá ser feita em documento assinado pelo Ministro e publicado no Diário do Governo, sendo, porém, exceptuados desta publicação os documentos relativos a missões ou comissões que o Ministro em seu despacho considere de carácter confidencial, devendo surtir efeitos imediatos, mesmo antes da publicação, as nomeações consideradas urgentes.
+
+###### Artigo 153.º
+
+As remunerações e abonos para as missões e comissões de que trata o artigo anterior serão fixados, em cada caso, pelo Ministro dos Negócios Estrangeiros, segundo tabela estabelecida de acordo com o Ministro das Finanças.
 
 § 1.º Exceptuam-se do disposto neste artigo as missões de serviço no estrangeiro quando se trate de simples substituições temporárias de outros funcionários ou do exercício temporário, em postos diplomáticos ou consulares de carreira, de funções correspondentes à categoria do funcionário nomeado, pois neste caso a fixação de remuneração será feita em despacho do Ministro dos Negócios Estrangeiros. Não poderá, porém, a remuneração mensal de tais comissões ser superior à que ao funcionário caberia se fosse colocado definitivamente no posto que vai ocupar, e não poderá ser atribuída ajuda de custo extraordinária por uma só vez superior a metade dessa remuneração.
 
 § 2.º Aos funcionários do serviço diplomático mandados gerir consulados não de carreira, ao abrigo do disposto no § único do artigo 79.º deste regulamento, serão abonados o vencimento da sua categoria e o abono de representação que for fixado por despacho ministerial.
 
-Art. 154.º Aos funcionários do Ministério dos Negócios Estrangeiros encarregados de comissão no estrangeiro a que seja atribuída remuneração especial e a que não corresponda abono para instalação poderá ser antecipada, no máximo, a importância correspondente a 30 dias de remuneração, quando do diploma de nomeação se reconheça que a comissão deve exceder um mês.
+###### Artigo 154.º
+
+Aos funcionários do Ministério dos Negócios Estrangeiros encarregados de comissão no estrangeiro a que seja atribuída remuneração especial e a que não corresponda abono para instalação poderá ser antecipada, no máximo, a importância correspondente a 30 dias de remuneração, quando do diploma de nomeação se reconheça que a comissão deve exceder um mês.
 
 § único. Se o prazo fixado ou previsto para a comissão for inferior a um mês, adiantar-se-á ao comissionado, por ocasião da sua partida para o estrangeiro, a importância correspondente ao prazo fixado ou previsto.
 
 ##### DIVISÃO VI — Abonos aos funcionários chamados em serviço
 
-Art. 155.º O funcionário chamado em serviço a Portugal receberá durante os primeiros quinze dias de ausência do seu posto os seus vencimentos e abonos como na efectividade do lugar. Durante os quinze dias seguintes receberá o vencimento e metade do abono para despesas de representação. Excedido esse prazo, o funcionário, se se encontrar em Portugal, não terá direito a qualquer abono de representação e perceberá os seus vencimentos como se estivesse colocado na Secretaria de Estado.
+###### Artigo 155.º
 
-Art. 156.º O funcionário chamado em serviço que entretanto for transferido para outro posto e não reassuma as suas funções no posto anterior, passa a ganhar, desde a data da transferência, pela verba do novo posto a que foi destinado.
+O funcionário chamado em serviço a Portugal receberá durante os primeiros quinze dias de ausência do seu posto os seus vencimentos e abonos como na efectividade do lugar. Durante os quinze dias seguintes receberá o vencimento e metade do abono para despesas de representação. Excedido esse prazo, o funcionário, se se encontrar em Portugal, não terá direito a qualquer abono de representação e perceberá os seus vencimentos como se estivesse colocado na Secretaria de Estado.
 
-Art. 157.º A chamada em serviço a Portugal, ou a demora no País, de um funcionário colocado no estrangeiro, constará de documento assinado pelo Ministro e publicado no Diário do Governo, excepto quando o Ministro reputar inconveniente a publicação e assim o declarar em despacho.
+###### Artigo 156.º
+
+O funcionário chamado em serviço que entretanto for transferido para outro posto e não reassuma as suas funções no posto anterior, passa a ganhar, desde a data da transferência, pela verba do novo posto a que foi destinado.
+
+###### Artigo 157.º
+
+A chamada em serviço a Portugal, ou a demora no País, de um funcionário colocado no estrangeiro, constará de documento assinado pelo Ministro e publicado no Diário do Governo, excepto quando o Ministro reputar inconveniente a publicação e assim o declarar em despacho.
 
 ##### DIVISÃO VII — Abonos para despesas com pessoal assalariado e com material de expediente
 
-Art. 158.º Serão feitos às missões diplomáticas e consulados de carreira abonos para despesas de expediente e diverso material não especificado para pagamento do pessoal contratado e do pessoal assalariado e para custeio de casa, quando esta pertencer ao Estado.
+###### Artigo 158.º
 
-§ 1.º Estes abonos serão fixados anualmente em portaria e sairão das verbas globais para tal fim inscritas no orçamento.
+Às missões diplomáticas e aos postos consulares de carreira e aos não de carreira subsidiados serão adiantadas as importâncias necessárias para a realização, independentemente do cumprimento de quaisquer formalidades, das suas despesas correntes e de capital, que serão sempre documentadas e justificadas nos termos e prazos legais.
 
-§ 2.º Nenhuma despesa das referidas no corpo deste artigo poderá ser feita pelos titulares nos postos além da verba que para cada um deles tiver sido fixada.
+§ 1.º O número de unidades do pessoal contratado nos termos do § único do artigo 106.º do presente Regulamento e do pessoal assalariado das missões diplomáticas e dos postos consulares de carreira será estabelecido por portaria e os seus vencimentos e salários serão fixados por despacho ministerial.
 
-§ 3.º As despesas de expediente e diverso material não especificado feitas nas missões diplomáticas e consulados serão sempre justificadas perante a Secretaria de Estado, nos termos e dentro dos prazos legais.
+§ 2.º A Secretaria de Estado fornecerá às missões diplomáticas e aos postos consulares de carreira e não de carreira subsidiados os bens duradouros e não duradouros que julgue conveniente enviar de Portugal.
 
-§ 4.º O número e os vencimentos do pessoal contratado e assalariado têm de ser prèviamente autorizados pela Secretaria de Estado.
+§ 3.º Ao pessoal auxiliar das missões diplomáticas e dos postos consulares de carreira e não de carreira subsidiados poderão ser fornecidos, tendo em consideração as condições climatéricas das localidades onde prestam serviço, fardamentos e outros artigos de vestuário, resguardos e calçado, de uso restrito, a utilizar durante a execução do seu trabalho em serviços de limpeza.
 
-§ 5.º Nas despesas de material e expediente estão incluídas, além das originadas pela aquisição de livros, publicações, revistas, jornais e respectivas encadernações e material de consumo corrente, as pequenas despesas de conservação de móveis, as de transporte e, quando as missões diplomáticas ou os consulados não estiverem instalados em edifício que forem propriedade do Estado, as de higiene, saúde e conforto.
+> Alterado pelo/a [Decreto n.º 433/72](https://diariodarepublica.pt/dr/detalhe/decreto/433-1972-690465), publicado em 1972-11-03.
 
-§ 6.º Das verbas abonadas para pagamento do pessoal contratado e do pessoal assalariado será pago o pessoal menor das missões diplomáticas e consulados e, bem assim, o pessoal encarregado de serviços especiais de escrituração.
+###### Artigo 159.º
 
-§ 7.º A Secretaria de Estado fornecerá às missões diplomáticas e aos consulados, por conta das verbas fixadas para cada posto para expediente e diverso material não especificado, os artigos de expediente que julgue conveniente enviar de Portugal.
+Serão fixados pela Secretaria de Estado os modelos do material de correspondência escrita das missões diplomáticas o dos consulados, tanto com a Secretaria de Estado e entre si como com as autoridades locais.
 
-Art. 159.º Serão fixados pela Secretaria de Estado os modelos do material de correspondência escrita das missões diplomáticas e consulados, tanto com a Secretaria de Estado e entre si como com as autoridades locais. O referido material será fornecido pela Secretaria de Estado, aplicando-se o disposto no § 7.º do artigo anterior.
+> Alterado pelo/a [Decreto n.º 433/72](https://diariodarepublica.pt/dr/detalhe/decreto/433-1972-690465), publicado em 1972-11-03.
 
-Art. 160.º Podem constituir-se nas missões diplomáticas pequenos fundos permanentes para as necessidades urgentes do serviço e para pagamento em dia do pessoal assalariado.
+###### Artigo 160.º
+
+Podem constituir-se nas missões diplomáticas pequenos fundos permanentes para as necessidades urgentes do serviço e para pagamento em dia do pessoal assalariado.
 
 ##### DIVISÃO VIII — Numeração dos funcionários consulares não de carreira e não contratados
 
-Art. 161.º Os cônsules não de carreira, os vice-cônsules titulares de postos e os agentes consulares não têm direito a vencimentos ou abonos e serão remunerados por uma quota-parte dos rendimentos dos postos em que servirem igual a metade dos emolumentos cobrados anualmente, até ao limite de 120000$00.
+###### Artigo 161.º
+
+Os cônsules não de carreira, os vice-cônsules titulares de postos e os agentes consulares não têm direito a vencimentos ou abonos e serão remunerados por uma quota-parte dos rendimentos dos postos em que servirem igual a metade dos emolumentos cobrados anualmente, até ao limite de 120000$00.
 
 § único. Os vice-cônsules e os chanceleres em serviço nos consulados de carreira cujos postos não estejam individualmente inscritos no orçamento serão remunerados pela verba global destinada a pessoal assalariado dos consulados.
 
-Art. 162.º O Ministro poderá, porém, autorizar o pagamento de subsídios aos consulados não de carreira e vice-consulados que entenda deverem ser geridos por cônsules não de carreira de nacionalidade portuguesa. Em tal caso, serão inscritos no orçamento os subsídios destinados a cada um dos postos consulares e não poderão ser excedidas as verbas fixadas para esse efeito, sem embargo de os mesmos cônsules não poderem perceber anualmente pela soma dos seus subsídios e emolumentos quantia superior à atribuída ao cônsul adjunto menos remunerado.
+###### Artigo 162.º
 
-Art. 163.º Poderá o Ministro determinar o pagamento das despesas de viagem para o posto subsidiado do cônsul não de carreira e vice-cônsul e de sua família.
+Os cônsules não pertencentes ao serviço diplomático, os vice-cônsules titulares dos postos e os agentes consulares não têm direito a vencimento ou salário e serão remunerados por uma quota-parte dos rendimentos dos postos em que servirem igual a metade dos emolumentos consulares cobrados anualmente.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 22/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1980-473571), publicado em 1980-06-26.
+
+###### Artigo 163.º
+
+O Ministro poderá autorizar o pagamento de subsídios aos consulados referidos nos n.os 3.º e 4.º do artigo 42.º deste Regulamento e aos vice-consulados que entenda deverem ser geridos por cônsules não pertencentes ao serviço diplomático ou vice-cônsules, de nacionalidade ou de origem portuguesa. Em tal caso, será inscrita no orçamento uma verba para esses subsídios.
+
+§ único. O Ministro poderá determinar o pagamento das despesas de viagens dos cônsules não pertencentes ao serviço diplomático ou dos vice-cônsules, titulares dos postos subsidiados, e de sua família, quando sigam de Portugal para aqueles postos, quando regressem destes a Portugal ou quando sejam transferidos de um para outro posto daquela natureza. Para os efeitos deste parágrafo consideram-se como despesas de viagem as despesas referidas no artigo 145.º deste Regulamento, sendo os cônsules ou vice-cônsules titulares de postos subsidiados equiparados a secretários de embaixada solteiros.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 22/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1980-473571), publicado em 1980-06-26.
 
 #### SECÇÃO II — Licenças
 
-Art. 164.º Os funcionários do Ministério dos Negócios Estrangeiros estão submetidos ao regime geral das licenças dos funcionários, com as modificações constantes dos parágrafos seguintes.
+###### Artigo 164.º
+
+Os funcionários do Ministério dos Negócios Estrangeiros estão submetidos ao regime geral das licenças dos funcionários, com as modificações constantes dos parágrafos seguintes.
 
 § 1.º Será concedida licença registada pelo período de 90 dias aos funcionários que tenham completado três anos de bom e efectivo serviço no estrangeiro, quer nos casos de colocação no quadro externo, quer nos de exercício de funções fora do País, em comissão ou missão extraordinária de serviço público, que forem reconhecidos por despacho ministerial como equivalentes substancialmente àqueles, em razão da qualidade do serviço desempenhado.
 
@@ -1538,7 +1962,9 @@ Art. 164.º Os funcionários do Ministério dos Negócios Estrangeiros estão su
 
 § 4.º Aos cônsules e vice-cônsules titulares de postos consulares não de carreira subsidiados poderá ser concedida licença registada nos termos referidos nos parágrafos deste artigo.
 
-Art. 165.º Os funcionários do Ministério dos Negócios Estrangeiros e os cônsules e vice-cônsules titulares de postos consulares não de carreira subsidiados têm direito durante a licença registada e as respectivas viagens e durante a licença por doença aos abonos seguintes:
+###### Artigo 165.º
+
+Os funcionários do Ministério dos Negócios Estrangeiros e os cônsules e vice-cônsules titulares de postos consulares não de carreira subsidiados têm direito durante a licença registada e as respectivas viagens e durante a licença por doença aos abonos seguintes:
 
 a) Durante a licença registada e respectivas viagens, aos vencimentos de categoria e exercício e por mês a 30 ou 40 por cento do abono de representação, conforme se trate de chefes de missão ou de outras categorias de funcionários;
 
@@ -1550,17 +1976,23 @@ b) Na situação de licença por doença: durante os primeiros 30 dias, à total
 
 #### SECÇÃO IV — Incompatibilidades, proibições e restrições
 
-Art. 166.º O exercício de qualquer cargo no Ministério dos Negócios Estrangeiros, quer na Secretaria de Estado, quer no estrangeiro, é incompatível e inacumulável com o exercício de outro cargo público do Estado ou dos corpos administrativos, nos termos da lei geral. O exercício dos cargos do Ministério na Secretaria de Estado ou no estrangeiro é incompatível e inacumulável com outra profissão ou cargo lucrativo e com o exercício de qualquer cargo ou emprego em empresas privadas, nacionais ou estrangeiras. É também proibido o exercício da advocacia e da procuradoria judicial.
+###### Artigo 166.º
+
+O exercício de qualquer cargo no Ministério dos Negócios Estrangeiros, quer na Secretaria de Estado, quer no estrangeiro, é incompatível e inacumulável com o exercício de outro cargo público do Estado ou dos corpos administrativos, nos termos da lei geral. O exercício dos cargos do Ministério na Secretaria de Estado ou no estrangeiro é incompatível e inacumulável com outra profissão ou cargo lucrativo e com o exercício de qualquer cargo ou emprego em empresas privadas, nacionais ou estrangeiras. É também proibido o exercício da advocacia e da procuradoria judicial.
 
 § único. A proibição constante no corpo deste artigo não se aplica à actividade que resultar da gerência de bens próprios.
 
-Art. 167.º Os funcionários do serviço diplomático não podem contrair casamento sem autorização do Ministro.
+###### Artigo 167.º
+
+Os funcionários do serviço diplomático não podem contrair casamento sem autorização do Ministro.
 
 § 1.º Os funcionários casados com cônjuge que não seja português originário não podem exercer quaisquer funções no país da nacionalidade de origem do outro cônjuge.
 
 § 2.º Ao pessoal do quadro administrativo é aplicável a doutrina deste artigo.
 
-Art. 168.º É proibido aos funcionários do quadro do Ministério dos Negócios Estrangeiros, quer estejam em serviço na Secretaria, quer no estrangeiro, e qualquer que seja a situação em que se encontrem:
+###### Artigo 168.º
+
+É proibido aos funcionários do quadro do Ministério dos Negócios Estrangeiros, quer estejam em serviço na Secretaria, quer no estrangeiro, e qualquer que seja a situação em que se encontrem:
 
 1.º Tornar públicos pela imprensa, ou por outro meio, informações, notícias, críticas, opiniões ou comentários sobre matéria que respeita ao serviço do Ministério, a assuntos que por ele corram ou a questões de política interna ou internacional, sem prévia e expressa autorização do Ministro, salvo se outra coisa for manifestamente exigida pela urgência das circunstâncias, devendo em tal caso ser feita, também com urgência, comunicação ao Ministério;
 
@@ -1572,21 +2004,33 @@ Art. 168.º É proibido aos funcionários do quadro do Ministério dos Negócios
 
 #### SECÇÃO V — Situação de disponibilidade
 
-Art. 169.º Os funcionários do serviço diplomático do Ministério dos Negócios Estrangeiros podem ser colocados na disponibilidade por conveniência de serviço, abrindo vaga.
+###### Artigo 169.º
+
+Os funcionários do serviço diplomático do Ministério dos Negócios Estrangeiros podem ser colocados na disponibilidade por conveniência de serviço, abrindo vaga.
 
 § único. Serão igualmente colocados na disponibilidade os funcionários no regime de assistidos como funcionários civis tuberculosos, aos quais se aplicam as disposições especiais desse regime, com prejuízo do prescrito nesta secção.
 
-Art. 170.º O funcionário colocado na disponibilidade com cinco ou mais anos de serviço perceberá um vencimento, inacumulável com outro vencimento ou pensão, calculado como seria a sua aposentação para o número exacto de anos que lhe são, contados. Se tiver menos de cinco anos de serviço, não terá direito a vencimento algum.
+###### Artigo 170.º
 
-Art. 171.º Os funcionários na disponibilidade podem, por motivo de interesse público e até ao número de cinco, ser chamados ao serviço na Secretaria ou no estrangeiro ou, se houverem passado seis meses depois da passagem à disponibilidade, ser colocados em vaga da sua categoria. Quando chamados ao serviço, têm direito aos vencimentos por inteiro correspondentes à sua categoria.
+O funcionário colocado na disponibilidade com cinco ou mais anos de serviço perceberá um vencimento, inacumulável com outro vencimento ou pensão, calculado como seria a sua aposentação para o número exacto de anos que lhe são, contados. Se tiver menos de cinco anos de serviço, não terá direito a vencimento algum.
 
-Art. 172.º Os funcionários na disponibilidade que não forem chamados ao serviço no prazo de três anos serão aposentados se tiverem direito a aposentação e, se não tiverem esse direito, perdem o lugar.
+###### Artigo 171.º
 
-Art. 173.º Não é contado como tempo de serviço o que tiver sido passado na disponibilidade fora do serviço. Será, porém, esse tempo contado para efeito de aposentação se, durante ele, o funcionário, percebendo vencimento, tiver pago a quota legal.
+Os funcionários na disponibilidade podem, por motivo de interesse público e até ao número de cinco, ser chamados ao serviço na Secretaria ou no estrangeiro ou, se houverem passado seis meses depois da passagem à disponibilidade, ser colocados em vaga da sua categoria. Quando chamados ao serviço, têm direito aos vencimentos por inteiro correspondentes à sua categoria.
+
+###### Artigo 172.º
+
+Os funcionários na disponibilidade que não forem chamados ao serviço no prazo de três anos serão aposentados se tiverem direito a aposentação e, se não tiverem esse direito, perdem o lugar.
+
+###### Artigo 173.º
+
+Não é contado como tempo de serviço o que tiver sido passado na disponibilidade fora do serviço. Será, porém, esse tempo contado para efeito de aposentação se, durante ele, o funcionário, percebendo vencimento, tiver pago a quota legal.
 
 #### SECÇÃO VI — Antiguidade e contagem do tempo para efeitos legais
 
-Art. 174.º A antiguidade dos funcionários do serviço diplomático do Ministério dos Negócios Estrangeiros conta-se:
+###### Artigo 174.º
+
+A antiguidade dos funcionários do serviço diplomático do Ministério dos Negócios Estrangeiros conta-se:
 
 1.º Desde a data da posse efectiva do primeiro cargo no serviço diplomático, para o efeito da antiguidade neste serviço;
 
@@ -1596,11 +2040,17 @@ Art. 174.º A antiguidade dos funcionários do serviço diplomático do Ministé
 
 § único. Quando a lei mandar atender simplesmente à antiguidade dos funcionários, deve entender-se que se refere à antiguidade no serviço diplomático. No caso de igual antiguidade, prevalece a maior antiguidade na categoria.
 
-Art. 175.º A contagem do tempo para efeito de antiguidade ou para outro efeito de serviço público é calculada ùnicamente sobre a base do tempo de exercício efectivo de funções.
+###### Artigo 175.º
 
-Art. 176.º Não se conta para nenhum efeito como tempo de serviço o tempo passado em situação de inactividade como consequência da aplicação de pena disciplinar, de demora ou de viagem além dos prazos legais, excepto quando esta for deduzida na licença registada, de ausência não autorizada da sede do cargo, de licença sem vencimento e de licença para tratamento por mais de seis meses.
+A contagem do tempo para efeito de antiguidade ou para outro efeito de serviço público é calculada ùnicamente sobre a base do tempo de exercício efectivo de funções.
 
-Art. 177.º Conta-se como tempo de serviço:
+###### Artigo 176.º
+
+Não se conta para nenhum efeito como tempo de serviço o tempo passado em situação de inactividade como consequência da aplicação de pena disciplinar, de demora ou de viagem além dos prazos legais, excepto quando esta for deduzida na licença registada, de ausência não autorizada da sede do cargo, de licença sem vencimento e de licença para tratamento por mais de seis meses.
+
+###### Artigo 177.º
+
+Conta-se como tempo de serviço:
 
 1.º O tempo de disponibilidade em serviço e, para efeito de aposentação, o tempo de disponibilidade fora do serviço, nos termos do artigo 173.º;
 
@@ -1612,7 +2062,9 @@ Art. 177.º Conta-se como tempo de serviço:
 
 § único. Nenhum funcionário sofrerá atraso no acesso ou outro prejuízo por virtude do cumprimento dos seus deveres militares.
 
-Art. 178.º Na antiguidade e para efeitos de aposentação conta-se o tempo de serviço, com os seguintes aumentos:
+###### Artigo 178.º
+
+Na antiguidade e para efeitos de aposentação conta-se o tempo de serviço, com os seguintes aumentos:
 
 1.º 20 por cento nos postos diplomáticos e consulares situados entre os paralelos 15 N e 15 S;
 
@@ -1624,9 +2076,13 @@ Art. 178.º Na antiguidade e para efeitos de aposentação conta-se o tempo de s
 
 § 2.º A percentagem considerada no n.º 3.º não é acumulável com as dos n.os 1.º e 2.º, mas prevalece sobre elas.
 
-Art. 179.º O serviço prestado, com aprovação do Governo, pelos funcionários nos quadros do pessoal de qualquer organismo internacional, será considerado, para efeitos de antiguidade, acesso, promoção, aposentação ou reforma, como prestado no quadro do Ministério.
+###### Artigo 179.º
 
-Art. 180.º Para todos os efeitos legais, é equiparado ao serviço próprio do Ministério dos Negócios Estrangeiros aquele que for prestado pelos seus funcionários em qualquer das seguintes situações:
+O serviço prestado, com aprovação do Governo, pelos funcionários nos quadros do pessoal de qualquer organismo internacional, será considerado, para efeitos de antiguidade, acesso, promoção, aposentação ou reforma, como prestado no quadro do Ministério.
+
+###### Artigo 180.º
+
+Para todos os efeitos legais, é equiparado ao serviço próprio do Ministério dos Negócios Estrangeiros aquele que for prestado pelos seus funcionários em qualquer das seguintes situações:
 
 a) Ministro ou Secretário ou Subsecretário de Estado;
 
@@ -1644,21 +2100,29 @@ c) Chefe de gabinete ou secretário de Ministro ou de Secretário ou de Subsecre
 
 #### SECÇÃO VII — Limite de idade e aposentação
 
-Art. 181.º É aplicável aos funcionários do Ministério dos Negócios Estrangeiros, para o serviço na Secretaria de Estado, o limite de idade estabelecida na lei geral. Para o serviço permanente no estrangeiro o limite de idade será de 65 anos.
+###### Artigo 181.º
+
+É aplicável aos funcionários do Ministério dos Negócios Estrangeiros, para o serviço na Secretaria de Estado, o limite de idade estabelecida na lei geral. Para o serviço permanente no estrangeiro o limite de idade será de 65 anos.
 
 § único. Os funcionários que atingirem o limite de idade para o serviço permanente no estrangeiro serão aposentados se tiverem 40 anos de serviço; no caso contrário, poderão ser colocados na Secretaria de Estado em lugar correspondente à sua categoria, se existir vaga, ou ser passados à disponibilidade.
 
-Art. 182.º Os funcionários do Ministério têm direito a aposentação nos termos da lei comum aos funcionários públicos e, quando aposentados, têm direito às honras inerentes à categoria em que o tiverem sido.
+###### Artigo 182.º
+
+Os funcionários do Ministério têm direito a aposentação nos termos da lei comum aos funcionários públicos e, quando aposentados, têm direito às honras inerentes à categoria em que o tiverem sido.
 
 #### SECÇÃO VIII — Fiscalização dos serviços do Ministério
 
-Art. 183.º A fiscalização superior dos serviços do Ministério dos Negócios Estrangeiros pertence ao Ministro, que a exercerá ou directamente ou por intermédio do secretário-geral ou da Inspecção Diplomática e Consular.
+###### Artigo 183.º
+
+A fiscalização superior dos serviços do Ministério dos Negócios Estrangeiros pertence ao Ministro, que a exercerá ou directamente ou por intermédio do secretário-geral ou da Inspecção Diplomática e Consular.
 
 § 1.º Poderá o Ministro determinar as inspecções que julgue conveniente, devendo sempre ser efectuadas por funcionário de categoria superior ou idêntica à do funcionário que dirija o serviço ou o posto inspeccionado.
 
 § 2.º Pode o Ministro designar, em regime de comissão de serviço temporária, para efeitos de inspecção em missões diplomáticas geridas por funcionários com categoria de embaixador ou ministro plenipotenciário de 1.ª classe, funcionários de categoria equivalente que tenham precedência hierárquica sobre os inspeccionados, cessando aquela comissão finda a inspecção.
 
-Art. 184.º O inspector verificará o modo como os funcionários cumprem as leis e ordens superiores e a conduta exigida pela dignidade do Estado e das funções.
+###### Artigo 184.º
+
+O inspector verificará o modo como os funcionários cumprem as leis e ordens superiores e a conduta exigida pela dignidade do Estado e das funções.
 
 § 1.º O inspector poderá propor superiormente a apresentação na Secretaria de Estado de qualquer funcionário cuja presença no estrangeiro julgue inconveniente para o serviço.
 
@@ -1668,7 +2132,9 @@ Art. 184.º O inspector verificará o modo como os funcionários cumprem as leis
 
 ## TÍTULO IV — Publicações do Ministério
 
-Art. 185.º Para tomar conhecidos os factos e documentos que interessam à vida internacional portuguesa o Ministro ordenará as seguintes publicações:
+###### Artigo 185.º
+
+Para tomar conhecidos os factos e documentos que interessam à vida internacional portuguesa o Ministro ordenará as seguintes publicações:
 
 1.º Boletim de Informação;
 
@@ -1688,22 +2154,38 @@ Art. 185.º Para tomar conhecidos os factos e documentos que interessam à vida 
 
 § 1.º O Boletim de Informação será organizado pelos Serviços de Informação e Imprensa e terá uma secção política e outra económica, procurando divulgar no País e no estrangeiro a maior soma possível de informações relativas não só aos pontos de vista políticos do Ministério, como à situação económica portuguesa.
 
-Art. 186.º A Direcção-Geral dos Negócios Económicos publicará, na íntegra ou por extracto, os relatórios económicos elaborados pelos funcionários do serviço diplomático ou pelos conselheiros e adidos comerciais no exercício das suas funções, quando mereçam ser conhecidos e divulgados.
+###### Artigo 186.º
 
-Art. 187.º Os livros brancos serão publicados pela direcção-geral por onde tenham corrido os respectivos processos, sob a direcção do secretário-geral, precedendo sempre determinação especial do Ministro, e conterão documentos relativos a determinadas negociações ou a determinados factos de ordem diplomática.
+A Direcção-Geral dos Negócios Económicos publicará, na íntegra ou por extracto, os relatórios económicos elaborados pelos funcionários do serviço diplomático ou pelos conselheiros e adidos comerciais no exercício das suas funções, quando mereçam ser conhecidos e divulgados.
 
-Art. 188.º O Anuário Diplomático e Consular será publicado pela Repartição do Pessoal e da Administração e inserirá todas as informações e indicações que interessem ao pessoal do Ministério.
+###### Artigo 187.º
 
-Art. 189.º A sinopse de tratados e a colecção de tratados e acordos serão organizadas pela Repartição do Arquivo e Biblioteca.
+Os livros brancos serão publicados pela direcção-geral por onde tenham corrido os respectivos processos, sob a direcção do secretário-geral, precedendo sempre determinação especial do Ministro, e conterão documentos relativos a determinadas negociações ou a determinados factos de ordem diplomática.
 
-Art. 190.º Os documentos da história diplomática portuguesa serão publicados pela Repartição do Arquivo e Biblioteca, segundo o plano estabelecido de acordo entre o Ministério e a Academia Portuguesa da História, e inserirá os documentos diplomáticos existentes tanto no arquivo do Ministério como em quaisquer outros arquivos nacionais ou estrangeiros ou, pelo menos, índices, catálogos e extractos destes últimos documentos que sejam suficientes para tornar conhecida a sua existência.
+###### Artigo 188.º
+
+O Anuário Diplomático e Consular será publicado pela Repartição do Pessoal e da Administração e inserirá todas as informações e indicações que interessem ao pessoal do Ministério.
+
+###### Artigo 189.º
+
+A sinopse de tratados e a colecção de tratados e acordos serão organizadas pela Repartição do Arquivo e Biblioteca.
+
+###### Artigo 190.º
+
+Os documentos da história diplomática portuguesa serão publicados pela Repartição do Arquivo e Biblioteca, segundo o plano estabelecido de acordo entre o Ministério e a Academia Portuguesa da História, e inserirá os documentos diplomáticos existentes tanto no arquivo do Ministério como em quaisquer outros arquivos nacionais ou estrangeiros ou, pelo menos, índices, catálogos e extractos destes últimos documentos que sejam suficientes para tornar conhecida a sua existência.
 
 ## TÍTULO V — Disposições gerais e transitórias
 
-Art. 191.º À nomeação de pessoas estranhas ao Ministério dos Negócios Estrangeiros para missões extraordinárias de carácter diplomático ou internacional e para comissões de serviço no estrangeiro dependentes daquele Ministério são aplicáveis as disposições do artigo 150.º e do corpo do artigo 151.º do presente regulamento, relativas à nomeação e remuneração dos funcionários do Ministério encarregados de missões ou comissões da mesma natureza.
+###### Artigo 191.º
 
-Art. 192.º Para a versão em línguas estrangeiras de documentos na Secretaria de Estado haverá tradutores contratados, que só poderão ser nomeados depois de terem prestado provas práticas apreciadas e classificadas pelo conselho do Ministério.
+À nomeação de pessoas estranhas ao Ministério dos Negócios Estrangeiros para missões extraordinárias de carácter diplomático ou internacional e para comissões de serviço no estrangeiro dependentes daquele Ministério são aplicáveis as disposições do artigo 150.º e do corpo do artigo 151.º do presente regulamento, relativas à nomeação e remuneração dos funcionários do Ministério encarregados de missões ou comissões da mesma natureza.
 
-Art. 193.º O Ministério dos Negócios Estrangeiros inscreverá anualmente no orçamento uma verba destinada à compra de obras de arte de artistas portugueses para as missões diplomáticas cujos edifícios sejam propriedade do Estado.
+###### Artigo 192.º
+
+Para a versão em línguas estrangeiras de documentos na Secretaria de Estado haverá tradutores contratados, que só poderão ser nomeados depois de terem prestado provas práticas apreciadas e classificadas pelo conselho do Ministério.
+
+###### Artigo 193.º
+
+O Ministério dos Negócios Estrangeiros inscreverá anualmente no orçamento uma verba destinada à compra de obras de arte de artistas portugueses para as missões diplomáticas cujos edifícios sejam propriedade do Estado.
 
 Ministério dos Negócios Estrangeiros, 31 de Dezembro de 1966. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.

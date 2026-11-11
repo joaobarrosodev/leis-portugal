@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-11-23'
+version_history:
+  file: resolucao-conselho-ministros-16-2013.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-03-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-11-23'
+    amending: pt:dre:58904669:por
+    amending_title: Resolução do Conselho de Ministros n.º 67/2014
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/16/2013/03/21/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:03:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 67/2014. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2013/resolucao-conselho-ministros-16-2013.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -170,7 +185,13 @@ Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º d
 
 3 - Autorizar a realização da despesa correspondente às quotizações de Portugal nas Organizações Internacionais, de 2013-2018, no montante global de 210 319 000,00 EUR (duzentos e dez milhões e trezentos e dezanove mil euros), e faseada de acordo com o estabelecido no anexo à presente resolução, que dela faz parte integrante.
 
-4 - Determinar que os encargos referidos nos n.ºs 2 e 3 são suportados por verbas adequadas inscritas e a inscrever no orçamento da FCT, I.P.
+4 - Determinar que os encargos referidos nos n.os 2 e 3 são suportados por verbas adequadas inscritas e a inscrever no orçamento da FCT, I. P., com exceção dos encargos referentes às quotizações de Portugal para a Agência Espacial Europeia (ESA) relativas ao ano de 2014, que são suportados da seguinte forma:
+
+a) 9 694 000 EUR (nove milhões, seiscentos e noventa e quatro mil euros), por verbas adequadas inscritas no orçamento da FCT, I. P.;
+
+b) 6 000 000 EUR (seis milhões de euros) a transferir para a ESA, por conta do resultado líquido do ICP - Autoridade Nacional de Comunicações (ICP-ANACOM) a reverter para o Estado, relativo ao ano de 2013.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 67/2014](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/67-2014-58904669), publicado em 2014-11-18.
 
 5 - Autorizar a FCT, I.P., a assumir a posição contratual da Fundação para a Computação Científica Nacional (FCCN) e a realizar a despesa inerente à execução, em 2013-2015, dos contratos celebrados entre esta Fundação e os editores Association for Computing Machinery, American Chemical Society, American Institute of Physics, Annual Reviews, Cambridge University Press, EBSCO, Elsevier, Emerald Group Publishing, IEEE, Institute of Physics Publishing, Nature Publishing Group, Royal Society of Chemistry, Sage, Society for Industrial and Applied Mathematics, Springer Science and Business Media, Taylor & Francis Group, Wiley e Thomson Reuters (Scientific), no montante global de 40 629 000,00 EUR (quarenta milhões e seiscentos e vinte nove mil euros).
 

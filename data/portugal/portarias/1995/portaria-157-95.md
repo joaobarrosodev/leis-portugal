@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-04-19'
+version_history:
+  file: portaria-157-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-02-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-04-19'
+    amending: pt:dre:220744:por
+    amending_title: Portaria n.º 381/2004
+    changes:
+    - Altera Artigo unidades 9-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/157/1995/02/23/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:55:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 381/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-157-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,9 +152,11 @@ Manda o Governo, pela Ministra da Educação, o seguinte:
 
 1.º É autorizado o Instituto Superior de Ciências da Saúde-Sul, reconhecido pelo [Decreto-Lei n.º 250/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1989-619295), de 8 de Agosto, a ministrar o curso de Psicologia Clínica, de acordo com o plano de estudos anexo à presente portaria, em Almada, nas instalações sitas na Quinta da Granja, Travessa da Granja, Monte da Caparica.
 
-2.º Aos diplomas de conclusão do curso referido no número anterior é reconhecido o grau de licenciatura.
+2.º - (Revogado.)
 
-3.º As habilitações mínimas que permitem o ingresso no referido curso de Psicologia Clínica são as exigidas legalmente, sem prejuízo de outros requisitos que sejam estabelecidos no regulamento interno do Instituto Superior de Ciências da Saúde-Sul.
+3.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 381/2004](https://diariodarepublica.pt/dr/detalhe/portaria/381-2004-220744), publicado em 2004-04-14.
 
 4.º Para o ano lectivo de 1994-1995 é fixado em 50 o número máximo de vagas para a matrícula e inscrição no curso a que se refere a presente portaria.
 

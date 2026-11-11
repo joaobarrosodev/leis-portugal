@@ -1,0 +1,797 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:533376:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-12-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b4280199992a8d66",
+    "851977e81bb45111",
+    "de70b1966b63ec84",
+    "af7e31af5fbf0021",
+    "2f9d2b824eaa4e3d",
+    "15a403630416115d",
+    "e7fcd667f351d0ea",
+    "b25136dada8185ec",
+    "4427675b5e1c416c",
+    "3ac65ba210718362",
+    "b5833f5f648f59aa",
+    "835b97485ea8b143",
+    "b13309ad5118456b",
+    "e84847c2802afc67",
+    "d052f82d2f486893",
+    "6c5556919aa8eac8",
+    "4e8536339f04ab37",
+    "8332f5c9369473c6",
+    "9792639543f685e9",
+    "3933627e29b92f31",
+    "f3ff0376cff057bd",
+    "96b9839925536c8d",
+    "66c823ab5d3aad4b",
+    "5619cc380d3c0746",
+    "8f671c957aae577a",
+    "88809a74d980b278",
+    "f95b7a2e96fe3176",
+    "6e0651ba763945d9",
+    "3365ed5358af8569",
+    "51b301b16104c127",
+    "c6a22a6c0b9a101f",
+    "061093b8980c2faf",
+    "465ec1d8ec50e139",
+    "52e625733f25e1c7",
+    "b9e8bfbecceb81fa",
+    "891eb7eba81c8f13",
+    "ef16527317372fe4",
+    "44a8a9294f8cd16c",
+    "6b0e57b96e0381c6",
+    "5c89c701fe548214",
+    "0b5652a3cebb1596",
+    "5f44ade84b68e268",
+    "f746294c0891bdd8",
+    "c0a46b1b2e7ace1d",
+    "412e184486bc0d70",
+    "ff53e625fbc442f4",
+    "91cd27be06f1e4ea",
+    "2f01d2eea2068c3a",
+    "462991fc8c04678a",
+    "a2521e17b2840931",
+    "1af22f61236eccbe",
+    "356e72b763df7d57",
+    "7b76f518aa7b1552",
+    "df6262856e55c4e9",
+    "3a34f456352dcff1",
+    "24827d2b885f96a1",
+    "6ede8141650e88c8",
+    "e08fef6b353added",
+    "6e31a174acfd7131",
+    "243d40c955b20290",
+    "bf91d246827e6abb",
+    "5815931bbd49b3e5",
+    "28b68de01ffce1bc"
+   ]
+  },
+  {
+   "date": "1997-02-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:559038:por",
+     "title": "Decreto-Lei n.º 42/97",
+     "published": "1997-02-07",
+     "dre_path": "/dr/detalhe/decreto-lei/42-1997-559038"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 40.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 46.º",
+    "Altera Artigo 55.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 52.º",
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "b4280199992a8d66",
+    "851977e81bb45111",
+    "de70b1966b63ec84",
+    "af7e31af5fbf0021",
+    "2f9d2b824eaa4e3d",
+    "15a403630416115d",
+    "e7fcd667f351d0ea",
+    "b25136dada8185ec",
+    "4427675b5e1c416c",
+    "3ac65ba210718362",
+    "b5833f5f648f59aa",
+    "835b97485ea8b143",
+    "b13309ad5118456b",
+    "e84847c2802afc67",
+    "d052f82d2f486893",
+    "6c5556919aa8eac8",
+    "4e8536339f04ab37",
+    "8332f5c9369473c6",
+    "9792639543f685e9",
+    "3933627e29b92f31",
+    "f3ff0376cff057bd",
+    "96b9839925536c8d",
+    "66c823ab5d3aad4b",
+    "5619cc380d3c0746",
+    "8f671c957aae577a",
+    "88809a74d980b278",
+    "f95b7a2e96fe3176",
+    "6e0651ba763945d9",
+    "3365ed5358af8569",
+    "51b301b16104c127",
+    "c6a22a6c0b9a101f",
+    "061093b8980c2faf",
+    "136f80f3a630a054",
+    "bf6d5c3c6d11fcb7",
+    "b9e8bfbecceb81fa",
+    "891eb7eba81c8f13",
+    "10a567ac2033d1dc",
+    "cef9f8121ba1ff14",
+    "4781533c6e8d4f87",
+    "bac4831d2992ca62",
+    "cd48843df8db6287",
+    "f3be4bc9c12caa6e",
+    "1141d4ca84a8ed71",
+    "c0a46b1b2e7ace1d",
+    "d236207a6b80716c",
+    "ff53e625fbc442f4",
+    "74f253a4ef27c082",
+    "2f01d2eea2068c3a",
+    "462991fc8c04678a",
+    "a2521e17b2840931",
+    "1af22f61236eccbe",
+    "356e72b763df7d57",
+    "7b76f518aa7b1552",
+    "df6262856e55c4e9",
+    "3a34f456352dcff1",
+    "da9ae071374720bc",
+    "5815931bbd49b3e5",
+    "28b68de01ffce1bc"
+   ]
+  }
+ ],
+ "fragments": {
+  "b4280199992a8d66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Dezembro\n\nA reforma fiscal, iniciada em 1986 com a introdução do imposto sobre o valor acrescentado (IVA) e prosseguida em 1989 com a substituição do sistema de tributação cedular pelo da tributação unitária do rendimento e pela contribuição autárquica, não pode deixar de ter reflexos nas estruturas organizativas da administração fiscal. Reforma fiscal é também a adaptação, racionalização e modernização dos serviços no sentido de melhoria da qualidade e eficiência e maior aproximação ao contribuinte.\n\nNeste sentido, o presente diploma reajusta e adequa a estrutura da Direcção-Geral das Contribuições e Impostos às exigências do novo sistema de tributação directa e indirecta, conferindo maior qualidade e eficácia aos serviços, aligeirando o seu peso no conjunto da máquina da administração fiscal. Por outro lado, são conferidos novos critérios para a gestão dessa estrutura, gizados por uma óptica de maior coordenação, funcionalidade e simplificação.\n\nAs competências e estrutura dos serviços distritais e locais da Direcção-Geral das Contribuições e Impostos foram igualmente definidas tendo em conta a filosofia resultante da reforma fiscal, sendo de realçar o papel que continuam a assegurar na ligação entre a administração fiscal e os contribuintes.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "851977e81bb45111": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nA Direcção-Geral das Contribuições e Impostos, adiante designada por DGCI, é o serviço do Ministério das Finanças que tem por objectivo fundamental a execução da política fiscal, definida pelo Governo."
+  },
+  "de70b1966b63ec84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - As atribuições da DGCI exercem-se nos seguintes domínios:\n\na) Liquidação e cobrança dos impostos;\n\nb) Fiscalização tributária;\n\nc) Justiça tributária;\n\nd) Informação e investigação tributárias.\n\n2 - São atribuições da DGCI:\n\na) Assegurar a liquidação e o controlo da cobrança das contribuições e impostos, nos termos das leis tributárias;\n\nb) Exercer a acção de informação no domínio fiscal;\n\nc) Exercer a acção de fiscalização tributária;\n\nd) Exercer a acção de justiça tributária e assegurar a representação dos interesses da Fazenda Nacional junto dos órgãos judiciais;\n\ne) Contribuir para a investigação científica no domínio da fiscalidade e para o aperfeiçoamento da técnica fiscal;\n\nf) Estudar e propor medidas fiscais de carácter normativo;\n\ng) Cooperar com as administrações fiscais de outros Estados nos termos do direito comunitário e dos acordos internacionais em matéria fiscal e legislação aplicável;\n\nh) Assegurar a participação regular nos trabalhos de organismos internacionais especializados no domínio da fiscalidade;\n\ni) Assegurar a representação portuguesa em reuniões internacionais para o estudo dos problemas tributários;\n\nj) Assegurar a execução dos acordos e convenções internacionais em matéria fiscal, nomeadamente os destinados a evitar a dupla tributação;\n\nl) Assegurar as relações entre a DGCI e as associações e outros organismos nacionais dedicados aos estudos de matérias fiscais."
+  },
+  "af7e31af5fbf0021": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Director-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Director-geral\n\n1 - A DGCI é dirigida por um director-geral, coadjuvado no exercício das suas funções por oito subdirectores-gerais e pelo director do Centro de Estudos Fiscais.\n\n2 - O director-geral pode delegar e subdelegar nos dirigentes referidos no número anterior a prática de actos da sua competência própria ou delegada, desde que não sejam exceptuados por lei."
+  },
+  "2f9d2b824eaa4e3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Organização dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Organização dos serviços\n\n1 - A DGCI dispõe de serviços centrais, distritais e locais.\n\n2 - Os serviços centrais são os serviços de decisão, direcção e apoio, a nível global, de toda a actividade da administração fiscal.\n\n3 - Os serviços distritais são os serviços intermédios de decisão, direcção e apoio dos serviços locais situados na respectiva área fiscal e de execução das actividades cometidas à DGCI que por lei ou decisão superior devem ser prosseguidas a nível distrital.\n\n4 - Os serviços locais são os serviços da administração fiscal responsáveis pelos actos necessários ao apuramento da situação tributária dos contribuintes, nos casos previstos na lei, de execução dos serviços complementares de gestão fiscal, sob coordenação da respectiva direcção distrital, bem como de outras actividades que lhes forem cometidas por lei ou decisão superior."
+  },
+  "15a403630416115d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços centrais\n\n1 - A nível central, são serviços operativos:\n\na) Direcção de Serviços do Imposto sobre o Rendimento das Pessoas Singulares (DSIRS);\n\nb) Direcção de Serviços do Imposto sobre o Rendimento das Pessoas Colectivas (DSIRC);\n\nc) Direcção de Serviços de Cobrança dos Impostos sobre o Rendimento (DSCIR);\n\nd) Direcção de Serviços de Contabilidade e Gestão de Fundos (DSCGF);\n\ne) Direcção de Serviços do Imposto sobre o Valor Acrescentado (DSIVA);\n\nf) Direcção de Serviços de Reembolsos do Imposto sobre o Valor Acrescentado (DSRIVA);\n\ng) Direcção de Serviços de Cobrança do Imposto sobre o Valor Acrescentado (DSCIVA);\n\nh) Direcção de Serviços da Contribuição Autárquica (DSCA);\n\ni) Direcção de Serviços dos Impostos do Selo e das Transmissões do Património (DSISTP);\n\nj) Direcção de Serviços de Avaliações (DSA);\n\nl) Direcção de Serviços de Estudos, Planeamento e Coordenação da Prevenção e Inspecção Tributária (DSEPCPIT);\n\nm) Direcção de Serviços de Prevenção e Inspecção Tributária (DSPIT);\n\nn) Direcção de Serviços de Benefícios Fiscais.\n\n2 - A nível central, são serviços de apoio:\n\na) Centro de Estudos Fiscais (CEF);\n\nb) Gabinete de Auditoria Interna (GAI);\n\nc) Direcção de Serviços Jurídicos e do Contencioso (DSJC);\n\nd) Direcção de Serviços de Justiça Tributária (DSJT);\n\ne) Direcção de Serviços de Gestão de Recursos Humanos (DSGRH);\n\nf) Direcção de Serviços Financeiros (DSF);\n\ng) Direcção de Serviços de Planeamento e Estatística (DSPE);\n\nh) Direcção de Serviços de Informações e Apoio ao Contribuinte (DSIAC);\n\ni) Centro de Formação (CF);\n\nj) Direcção de Serviços de Instalações (DSI);\n\nl) Direcção de Serviços de Cadastro (DSC);\n\nm) Direcção de Serviços de Produção e Suporte Técnico (DSPST);\n\nn) Direcção de Serviços de Sistemas de Informação (DSSI);\n\no) Direcção de Serviços de Planeamento, Controlo e Administração de Dados (DSPCAD);\n\np) Serviço Regional de Informática do Norte (SRIN).\n\n3 - Junto do director-geral funciona um Núcleo de Apoio e Relações Públicas, constituído por pessoal a designar pelo director-geral, bem como uma Secção de Expediente e Microfilmagem."
+  },
+  "e7fcd667f351d0ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nDirecções de Serviços do Imposto sobre o Rendimento das Pessoas Singulares, do Imposto sobre o Rendimento das Pessoas Colectivas e do Imposto sobre o Valor Acrescentado.\n\n1 - À DSIRS, DSIRC e DSIVA incumbe, na respectiva área:\n\na) Efectuar ou colaborar nos estudos e procedimentos indispensáveis à administração dos respectivos impostos;\n\nb) Propor as alterações legislativas e regulamentares julgadas convenientes;\n\nc) Participar na elaboração e apreciação dos projectos legislativos que envolvam matérias da sua competência;\n\nd) Emitir parecer sobre pedidos de isenções, benefícios fiscais, anulações e respectivos reembolsos;\n\ne) Emitir pareceres sobre a aplicação da lei aos casos concretos que sejam submetidos à sua apreciação ou decisão;\n\nf) Sistematizar as decisões administrativas, propor as instruções necessárias à correcta e uniforme aplicação das normas fiscais e definir os procedimentos a adoptar pelos serviços;\n\ng) Conceber e aperfeiçoar as declarações e impressos dos impostos, em articulação com a DSPIT;\n\nh) Propor medidas de simplificação dos procedimentos técnicos;\n\ni) Definir as regras de liquidação e controlo do imposto, bem como as regras de recolha e validação central da informação;\n\nj) Elaborar os manuais de instruções sobre procedimentos a observar nas diversas fases do tratamento informático do imposto e sua actualização;\n\nl) Testar previamente os programas informáticos de recolha, validação e liquidação das declarações;\n\nm) Propor as alterações aos programas informáticos que em cada momento se mostrem necessárias, bem como conceber novos projectos;\n\nn) Assegurar a ligação com os demais serviços intervenientes e acompanhar a exploração dos programas informáticos.\n\n2 - Cada uma das direcções de serviços a que se refere o número anterior compreende as seguintes divisões:\n\na) Divisão de Concepção, que exerce as competências referidas nas alíneas a), b), c), f), g) e h) do número anterior;\n\nb) Divisão de Administração, que exerce as competências referidas nas alíneas d) e e) do mesmo número.\n\n3 - A DSIRS e a DSIRC compreendem ainda uma Divisão de Acompanhamento de Projectos Informáticos, que exerce as competências a que se referem as alíneas i), j), l), m) e n) do n.º 1."
+  },
+  "b25136dada8185ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Direcção de Serviços de Cobrança dos Impostos sobre o Rendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direcção de Serviços de Cobrança dos Impostos sobre o Rendimento\n\n1 - À DSCIR incumbe:\n\na) Supervisionar e controlar a cobrança dos impostos sobre o rendimento;\n\nb) Efectuar ou colaborar nos estudos e procedimentos indispensáveis à cobrança dos respectivos impostos;\n\nc) Propor as alterações legislativas e regulamentares julgadas convenientes;\n\nd) Emitir parecer sobre a aplicação da lei aos casos concretos que sejam submetidos à sua apreciação ou decisão;\n\ne) Sistematizar as decisões administrativas, propor as instruções necessárias à correcta e uniforme aplicação das normas fiscais e definir os procedimentos a adoptar pelos serviços;\n\nf) Controlar a actividade dos serviços e entidades intervenientes na cobrança;\n\ng) Propor medidas de simplificação dos procedimentos técnicos;\n\nh) Assegurar a harmonização dos procedimentos de liquidação e cobrança;\n\ni) Controlar os procedimentos que impliquem a reforma da liquidação;\n\nj) Emitir autorizações relativas aos reembolsos;\n\nl) Proceder a reembolsos.\n\n2 - A DSCIR compreende as seguintes divisões:\n\na) Divisão de Cobrança, que exerce as competências referidas nas alíneas a) a i) do número anterior;\n\nb) Divisão de Anulações e Reembolsos, que exerce as competências referidas nas alíneas j) e l) do mesmo número."
+  },
+  "4427675b5e1c416c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direcção de Serviços de Contabilidade e Gestão de Fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direcção de Serviços de Contabilidade e Gestão de Fundos\n\n1 - À DSCGF compete:\n\na) Efectuar o controlo contabilístico das receitas arrecadadas e dos reembolsos pagos;\n\nb) Assegurar os procedimentos necessários ao controlo contabilístico das receitas arrecadadas, das anulações e dos reembolsos efectuados;\n\nc) Elaborar a conta de gerência;\n\nd) Fornecer dados estatísticos relativos aos impostos sobre o rendimento;\n\ne) Assegurar a gestão das contas bancárias e as transferências de fundos;\n\nf) Assegurar as transferências de fundos para a conta do Tesouro e, bem assim, para as Regiões Autónomas e autarquias locais;\n\ng) Assegurar os reembolsos dos impostos sobre o rendimento.\n\n2 - A DSCGF compreende as seguintes divisões:\n\na) Divisão de Contabilidade, que exerce as competências referidas nas alíneas a) a d) do número anterior;\n\nb) Divisão de Gestão de Fundos, que exerce as competências referidas nas alíneas e) a g) do mesmo número."
+  },
+  "3ac65ba210718362": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcção de Serviços de Reembolsos do Imposto sobre o Valor Acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção de Serviços de Reembolsos do Imposto sobre o Valor Acrescentado\n\n1 - À DSRIVA incumbe:\n\na) Efectuar ou colaborar nos estudos e procedimentos indispensáveis à administração dos respectivos reembolsos;\n\nb) Propor as alterações legislativas e regulamentares julgadas convenientes;\n\nc) Participar na elaboração e apreciação dos projectos legislativos que envolvam matérias da sua competência;\n\nd) Emitir parecer sobre a aplicação da lei aos casos concretos que sejam submetidos à sua apreciação ou decisão;\n\ne) Sistematizar as decisões administrativas, propor as instruções necessárias à correcta e uniforme aplicação das normas fiscais e definir os procedimentos a adoptar pelos serviços;\n\nf) Coordenar e controlar os reembolsos aos sujeitos passivos enquadrados nos regimes normal e especial dos pequenos retalhistas;\n\ng) Coordenar e controlar os reembolsos do imposto às representações diplomáticas, organismos internacionais reconhecidos por Portugal, ou seu pessoal, ou a quaisquer outras entidades, de harmonia com os respectivos diplomas;\n\nh) Coordenar e controlar os reembolsos do imposto aos sujeitos passivos não estabelecidos no interior do País;\n\ni) Assegurar os procedimentos relativos a reembolsos;\n\nj) Organizar, a nível central, um registo de contribuintes com reembolsos.\n\n2 - A DSRIVA compreende as seguintes divisões:\n\na) Divisão de Reembolsos I, que exerce as competências referidas nas alíneas a) a j) do número anterior relativamente a reembolsos de sujeitos passivos enquadrados no regime normal e pequenos retalhistas;\n\nb) Divisão de Reembolsos II, que exerce as competências referidas nas alíneas a) a j) do mesmo número relativamente a reembolsos de sujeitos passivos enquadrados em regimes especiais ou noutros regimes."
+  },
+  "b5833f5f648f59aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Direcção de Serviços de Cobrança do Imposto sobre o Valor Acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de Serviços de Cobrança do Imposto sobre o Valor Acrescentado\n\n1 - À DSCIVA incumbe:\n\na) Proceder à cobrança centralizada do imposto sobre o valor acrescentado;\n\nb) Assegurar o tratamento automático da informação necessária à administração do imposto;\n\nc) Efectuar ou colaborar nos estudos e procedimentos indispensáveis à cobrança do respectivo imposto;\n\nd) Propor as alterações legislativas e regulamentares julgadas convenientes;\n\ne) Participar na elaboração e apreciação dos projectos legislativos que envolvam matérias da sua competência;\n\nf) Emitir parecer sobre a aplicação da lei aos casos concretos que sejam submetidos à sua apreciação ou decisão;\n\ng) Sistematizar as decisões administrativas, propor as instruções necessárias à correcta e uniforme aplicação das normas fiscais e definir os procedimentos a adoptar pelos serviços;\n\nh) Assegurar a recepção e o tratamento das declarações e outros documentos remetidos pelos contribuintes;\n\ni) Emitir as declarações periódicas e controlar a sua entrega regular e o apuramento automático do imposto;\n\nj) Proceder à liquidação dos juros compensatórios eventualmente devidos e enviar aos contribuintes extractos da conta corrente sobre a respectiva situação tributária;\n\nl) Emitir os documentos de cobrança e participar as infracções às entidades competentes;\n\nm) Assegurar a recepção dos meios de pagamento do imposto e proceder ao seu depósito;\n\nn) Promover a microfilmagem dos documentos que devam permanecer nos arquivos, velar pela sua segurança e conservação e fornecer cópias dos mesmos aos serviços, sempre que for necessário e não colidir com o princípio da confidencialidade fiscal;\n\no) Apreciar os pedidos de revisão das liquidações automáticas e promover, quando necessário, a respectiva correcção oficiosa;\n\np) Informar e divulgar os procedimentos relativos ao funcionamento do sistema de cobrança;\n\nq) Assegurar os procedimentos relacionados com o processo de contabilização do imposto;\n\nr) Accionar os meios legais tendentes à regularização dos meios de pagamento rejeitados pelas instituições de crédito;\n\ns) Elaborar a conta anual de responsabilidade a apresentar a julgamento do Tribunal de Contas;\n\nt) Apurar o quantitativo da receita.\n\n2 - A DSCIVA compreende as seguintes divisões:\n\na) Divisão do Processamento Administrativo da Cobrança, que exerce as competências referidas nas alíneas h) a n) do número anterior;\n\nb) Divisão do Controlo da Cobrança e Apoio ao Contencioso, que exerce as competências referidas nas alíneas a) a g) e q) do número anterior;\n\nc) Divisão de Contabilidade e Gestão de Fundos, que exerce as competências referidas nas alíneas r) a t) do mesmo número."
+  },
+  "835b97485ea8b143": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Direcção de Serviços da Contribuição Autárquica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direcção de Serviços da Contribuição Autárquica\n\n1 - À DSCA incumbe:\n\na) Efectuar ou colaborar nos estudos e procedimentos indispensáveis à administração do respectivo imposto;\n\nb) Propor as alterações legislativas e regulamentares julgadas convenientes;\n\nc) Participar na elaboração e apreciação dos projectos legislativos que envolvam matérias da sua competência;\n\nd) Emitir parecer sobre a aplicação da lei aos casos concretos que sejam submetidos à sua apreciação ou decisão;\n\ne) Sistematizar as decisões administrativas, propor as instruções necessárias à correcta e uniforme aplicação das normas fiscais e definir os procedimentos a adoptar pelos serviços;\n\nf) Emitir parecer sobre pedidos de isenções, benefícios fiscais e anulações e respectivos reembolsos;\n\ng) Conceber e aperfeiçoar as declarações e impressos, em articulação com a DSPIT;\n\nh) Promover e orientar a recolha dos elementos necessários à organização e conservação das matrizes prediais e pronunciar-se sobre as reclamações a elas respeitantes;\n\ni) Promover e orientar a recolha de elementos necessários ao lançamento da contribuição autárquica;\n\nj) Controlar a actividade dos serviços e entidades intervenientes na cobrança;\n\nl) Assegurar as autorizações e efectuar os reembolsos que forem devidos;\n\nm) Elaborar a conta anual de responsabilidade a apresentar ao Tribunal de Contas;\n\nn) Assegurar os procedimentos relacionados com o processo de contabilização do imposto;\n\no) Assegurar a transferência de fundos para os municípios e para o Tesouro, nos casos previstos na lei.\n\n2 - A DSCA compreende as seguintes divisões:\n\na) Divisão de Concepção e Administração, que exerce as competências referidas nas alíneas a) a i) do número anterior;\n\nb) Divisão de Contabilidade e Gestão de Fundos, que exerce as competências referidas nas alíneas j) a o) do mesmo número."
+  },
+  "b13309ad5118456b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Direcção de Serviços dos Impostos do Selo e das Transmissões do Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direcção de Serviços dos Impostos do Selo e das Transmissões do Património\n\n1 - À DSISTP incumbe:\n\na) Emitir pareceres e pronunciar-se em reclamações, recursos e pedidos de esclarecimento dos contribuintes;\n\nb) Emitir parecer sobre pedidos de isenções, benefícios fiscais e anulações e respectivos reembolsos;\n\nc) Participar na elaboração e apreciação dos projectos legislativos que envolvam matérias da sua competência;\n\nd) Realizar os estudos necessários à sua eficiente administração;\n\ne) Conceber e aperfeiçoar as declarações e impressos, em articulação com a DSEPCPIT;\n\nf) Sistematizar as decisões administrativas e propor as medidas necessárias à correcta e uniforme aplicação das normas fiscais;\n\ng) Propor as alterações legislativas e regulamentares julgadas convenientes.\n\n2 - A DSISTP compreende as seguintes divisões:\n\na) Divisão da Sisa e do Imposto Municipal sobre Veículos, que exerce as competências referidas no número anterior relativamente a estes impostos;\n\nb) Divisão dos Impostos do Selo e Sucessões e Doações, que exerce as competências referidas no número anterior relativamente a estes impostos, bem como as respeitantes a emolumentos, multas e outras receitas cuja administração não pertença a outro serviço."
+  },
+  "e84847c2802afc67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Direcção de Serviços de Avaliações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção de Serviços de Avaliações\n\n1 - À DSA incumbe:\n\na) Efectuar estudos com vista à actualização dos valores patrimoniais dos prédios e à realização das avaliações gerais;\n\nb) Acompanhar e controlar a actividade dos serviços e entidades intervenientes na realização de avaliações e prestar-lhes o apoio técnico que se mostrar necessário;\n\nc) Efectuar inquéritos relativos às actividades desenvolvidas pelas comissões de avaliação e pelos peritos;\n\nd) Emitir pareceres e pronunciar-se em reclamações, recursos e pedidos de esclarecimento dos contribuintes;\n\ne) Emitir parecer sobre os casos concretos que lhe sejam submetidos;\n\nf) Realizar os estudos tendentes ao aperfeiçoamento das normas, processos e técnicas de avaliação;\n\ng) Conceber e aperfeiçoar as declarações e impressos, em articulação com a DSPIT, DSCA e DSISTP;\n\nh) Participar na elaboração e apreciação dos projectos legislativos que envolvam matérias da sua competência;\n\ni) Propor a adequação permanente das comissões e dos peritos de avaliações às necessidades dos serviços;\n\nj) Organizar e manter actualizada a lista dos peritos de avaliação;\n\nl) Sistematizar as decisões administrativas e propor as instruções necessárias à correcta e uniforme aplicação das normas fiscais e definir os procedimentos a adoptar pelos serviços;\n\nm) Propor as alterações legislativas e regulamentares julgadas convenientes;\n\nn) Coordenar e controlar as despesas com as avaliações.\n\n2 - Junto da DSA funciona uma Divisão de Estudos, que exerce as competências a que se referem as alíneas a), f), g), h), l) e n) do número anterior."
+  },
+  "d052f82d2f486893": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direcção de Serviços de Estudos, Planeamento e Coordenação da Prevenção e Inspecção Tributária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção de Serviços de Estudos, Planeamento e Coordenação da Prevenção e Inspecção Tributária\n\n1 - À DSEPCPIT incumbe:\n\na) Conceber e desenvolver um sistema de informações adequado à satisfação das necessidades operacionais dos serviços centrais e distritais da prevenção e inspecção tributária;\n\nb) Estudar e preparar os dados disponíveis a nível central e distrital, com vista ao fornecimento de informação adequada à melhoria da eficiência, da eficácia e da efectividade da inspecção tributária;\n\nc) Elaborar as instruções para a correcta aplicação da legislação relacionada com a inspecção tributária e realizar estudos e trabalhos técnicos de carácter económico, contabilístico, jurídico ou tecnológico destinados a auxiliar a actuação dos funcionários afectos à inspecção tributária;\n\nd) Elaborar pareceres sobre a aplicação da lei fiscal aos casos concretos que lhe sejam submetidos para apreciação;\n\ne) Assegurar, através dos serviços centrais ou distritais, a participação portuguesa, no âmbito da inspecção tributária, em reuniões internacionais e acompanhar as acções de cooperação técnica e administrativa que decorram dos compromissos e acórdãos assumidos;\n\nf) Preparar os planos de actuação respeitantes à inspecção tributária a nível nacional;\n\ng) Analisar os indicadores que permitam o controlo e a avaliação periódica dos resultados obtidos no domínio da inspecção tributária e propor as medidas correctivas que se revelem necessárias;\n\nh) Promover a reverificação das inspecções efectuadas no âmbito dos serviços centrais e distritais, tendo em vista detectar deficiências ou insuficiências das mesmas, e propor as correcções necessárias, por forma a assegurar a uniformidade de actuação dos serviços;\n\ni) Prestar apoio técnico aos serviços centrais e distritais em matéria de inspecção tributária, nomeadamente no que se refere à verificação de contabilidades informatizadas;\n\nj) Coordenar e controlar, a nível técnico, a execução dos programas e actividades da inspecção tributária a nível nacional.\n\n2 - A DSEPCPIT compreende as seguintes divisões:\n\na) Divisão de Estudos, que exerce as competências a que se referem as alínea a), b), c), d) e e) do n.º 1;\n\nb) Divisão de Planeamento e Controlo, que exerce as competências a que se referem as alíneas f) e g) do mesmo número;\n\nc) Divisão de Coordenação e Apoio Técnico, que exerce as competências a que se referem as alíneas h) a j) do mesmo número."
+  },
+  "6c5556919aa8eac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Direcção de Serviços de Prevenção e Inspecção Tributária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direcção de Serviços de Prevenção e Inspecção Tributária\n\nÀ DSPIT incumbe:\n\na) Analisar, através de elementos declarados ou colhidos para o efeito através de visitas sumárias e de exames às escritas, a situação tributária dos contribuintes que, pela sua natureza, devam ser inspeccionados directamente pelos serviços centrais, sem prejuízo de as referidas inspecções poderem ser efectuadas no âmbito dos serviços distritais, de acordo com as instruções que lhes forem fornecidas;\n\nb) Preparar, em colaboração com a direcção de serviços a que se refere o artigo anterior, e desencadear acções especiais de inspecção que, por razões estratégicas ou outras, devam ser levadas a cabo ou coordenadas pelos serviços centrais."
+  },
+  "4e8536339f04ab37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Direcção de Serviços de Benefícios Fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direcção de Serviços de Benefícios Fiscais\n\nÀ Direcção de Serviços de Benefícios Fiscais incumbe:\n\na) Coordenar, em articulação com os serviços da respectiva área tributária, a atribuição de benefícios fiscais;\n\nb) Conduzir os processos de atribuição de benefícios fiscais que dependam do reconhecimento do director-geral ou do Ministro das Finanças ou que sejam constituídos através de contratos administrativos;\n\nc) Participar na negociação e assegurar a execução das convenções internacionais em matéria tributária;\n\nd) Executar, em articulação com a DSPIT, as acções decorrentes da cooperação internacional no âmbito da prevenção da fraude e da evasão fiscal;\n\ne) Sistematizar as decisões administrativas no âmbito dos benefícios fiscais e propor as instruções necessárias à correcta e uniforme aplicação das respectivas normas e definir os procedimentos a adoptar pelos serviços;\n\nf) Participar na elaboração e apreciação dos projectos legislativos que envolvam matérias da sua competência;\n\ng) Propor as alterações legislativas e regulamentares julgadas convenientes;\n\nh) Conceber e aperfeiçoar as declarações e impressos, em articulação com a DSPIT;\n\ni) Conceber as metodologias e suportes de informação para quantificação e tratamento dos benefícios fiscais."
+  },
+  "8332f5c9369473c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Centro de Estudos Fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Centro de Estudos Fiscais\n\n1 - O CEF é um serviço de apoio técnico, cuja acção se enquadra no âmbito da investigação relacionada com a fiscalidade e o aperfeiçoamento da técnica fiscal, ao qual incumbe:\n\na) Realizar trabalhos de investigação nos domínios respeitantes à fiscalidade e matérias afins;\n\nb) Colaborar nas acções de reforma fiscal, através, designadamente, da elaboração dos estudos de base adequados;\n\nc) Proceder ao estudo sistemático e crítico da aplicação das leis, coligindo, em colaboração com os demais serviços competentes, as dúvidas e dificuldades que eventualmente surjam, tendo em vista esclarecer e corrigir os preceitos em causa;\n\nd) Realizar estudos preparatórios de diplomas legislativos sobre matérias fiscais e participar na respectiva elaboração;\n\ne) Realizar estudos sobre casos concretos e dar parecer nos processos que lhe sejam submetidos;\n\nf) Participar, no domínio da sua competência técnica, na negociação das convenções internacionais em matéria fiscal;\n\ng) Prestar apoio técnico aos serviços competentes da DGCI em matéria de execução das convenções internacionais fiscais e participar no procedimento amigável;\n\nh) Colaborar na formação permanente dos funcionários da DGCI, designadamente na preparação de elementos de estudo para que seja especialmente qualificado;\n\ni) Assegurar a actividade de documentação científica e técnica para a DGCI, bem como gerir a biblioteca da DGCI;\n\nj) Assegurar a publicação da revista Ciência e Técnica Fiscal;\n\nl) Exercer as competências decorrentes do previsto nas alíneas h), i) e l) do n.º 2 do artigo 2.º\n\n2 - O CEF é dirigido por um director, equiparado, para efeitos de regime de provimento e remuneratório, a subdirector-geral, sendo nomeado de entre investigadores da carreira de investigadores tributários da DGCI ou, na sua falta, de entre assessores da mesma carreira.\n\n3 - Junto do CEF funciona uma Divisão de Documentação, que exerce a competência a que se refere a alínea i) do n.º 1."
+  },
+  "9792639543f685e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Gabinete de Auditoria Interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Gabinete de Auditoria Interna\n\n1 - Ao GAI incumbe:\n\na) Desenvolver acções de auditoria interna de gestão, com vista à detecção dos factos e situações condicionantes ou impeditivos da realização dos objectivos definidos para os serviços;\n\nb) Verificar o cumprimento das disposições legais e regulamentares.\n\n2 - O GAI é dirigido por um director, equiparado, para todos os efeitos legais, a director de serviços.\n\n3 - Para a realização das auditorias, poderá ser designado pessoal afecto a outros serviços da DGCI."
+  },
+  "3933627e29b92f31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Direcção de Serviços Jurídicos e do Contencioso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direcção de Serviços Jurídicos e do Contencioso\n\nÀ DSJC incumbe:\n\na) Prestar apoio jurídico, a solicitação do director-geral, aos actos em que intervenha a DGCI;\n\nb) Emitir pareceres em quaisquer processos, requerimentos, exposições ou reclamações dos contribuintes, a solicitação do director-geral;\n\nc) Pronunciar-se, a pedido do director-geral, sobre projectos de instruções ou circulares da administração fiscal;\n\nd) Participar na elaboração, redacção e apreciação de projectos legislativos, em articulação com os serviços operativos da referida área;\n\ne) Instruir processos disciplinares, de inquérito ou de índole similar;\n\nf) Exercer o patrocínio judiciário dos órgãos da administração fiscal junto dos tribunais administrativos e fiscais, nos termos da lei;\n\ng) Assegurar a representação da Fazenda Pública no Supremo Tribunal Administrativo;\n\nh) Representar a administração fiscal constituída assistente nos processos por crimes fiscais."
+  },
+  "f3ff0376cff057bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Direcção de Serviços de Justiça Tributária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Direcção de Serviços de Justiça Tributária\n\nÀ DSJT incumbe:\n\na) A coordenação do exercício da justiça tributária;\n\nb) Esclarecer as dúvidas colocadas pelos serviços no exercício da justiça tributária;\n\nc) Propor e elaborar instruções para a correcta e uniforme aplicação das leis reguladoras da matéria da sua competência;\n\nd) Participar na elaboração e apreciação dos processos legislativos que envolvam matérias da sua competência;\n\ne) Colaborar na administração dos tribunais tributários;\n\nf) Gerir, nos termos da lei, os créditos do Estado em processos de execução fiscal ou de recuperação de empresas;\n\ng) Coordenar e orientar a actividade dos representantes da Fazenda Pública junto dos tribunais tributários;\n\nh) Organizar um registo nacional de infracções fiscais e passar certificados de registo das infracções para instrução dos processos contra-ordenacionais."
+  },
+  "96b9839925536c8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Direcção de Serviços de Gestão de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Direcção de Serviços de Gestão de Recursos Humanos\n\n1 - À DSGRH incumbe:\n\na) Coordenar e assegurar a gestão dos recursos humanos da DGCI, nomeadamente a gestão previsional do quadro de pessoal;\n\nb) Propor a adopção de políticas e técnicas de gestão racional dos recursos humanos, com vista à sua valorização e adequação às necessidades da DGCI;\n\nc) Programar, organizar e acompanhar a realização de acções de recrutamento e selecção, assegurando os respectivos trâmites processuais e prestando apoio aos júris dos concursos;\n\nd) Assegurar a aplicação uniforme das disposições legais relativas ao recrutamento, selecção, provimento, progressão e cessação da relação jurídica de emprego;\n\ne) Proceder à definição de normas e programar e organizar a mobilidade interna dos funcionários;\n\nf) Organizar e assegurar a actualização do registo central dos funcionários e agentes da DGCI e dos respectivos processos individuais, bem como o seu arquivo;\n\ng) Assegurar os procedimentos administrativos relativos à constituição, modificação e extinção da relação jurídica de emprego, bem como, em colaboração com os demais serviços da DGCI, a mobilidade, assiduidade, férias e licenças e benefícios sociais dos funcionários;\n\nh) Elaborar o balanço social.\n\n2 - A DSGRH compreende as seguintes unidades orgânicas:\n\na) Divisão de Gestão de Pessoal, que exerce as competências a que se referem as alíneas a), b), e) e i) do número anterior;\n\nb) Divisão de Recrutamento e Selecção, que exerce as competências a que se referem as alíneas c) e d) do número anterior;\n\nc) Repartição de Administração de Pessoal, que exerce as competências a que se referem as alíneas f), g) e h) do número anterior e compreende a Secção de Pessoal, a Secção de Expediente e Cadastro e a Secção de Assiduidade e Aposentação e ainda duas Secções de Pessoal, a funcionar uma junto das áreas funcionais dos impostos sobre o rendimento, dos impostos sobre o património e da informática tributária e outra junto da área funcional do imposto sobre o valor acrescentado."
+  },
+  "66c823ab5d3aad4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Direcção de Serviços Financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Direcção de Serviços Financeiros\n\n1 - À DSF incumbe:\n\na) Assegurar a gestão orçamental da DGCI, elaborando as propostas de orçamento e controlando a respectiva execução;\n\nb) Verificar a legalidade e eficiência das despesas e garantir o processamento das relativas à aquisição de bens ou serviços, de vencimentos e de outros abonos do pessoal dos serviços centrais;\n\nc) Assegurar, na sua área de actuação, a normalização de procedimentos em todas as unidades orgânicas da DGCI, designadamente elaborando e propondo as instruções adequadas;\n\nd) Elaborar mapas e relatórios de execução e avaliação orçamental que se mostrem necessários ao adequado controlo de gestão orçamental da DGCI;\n\ne) Elaborar a conta de gerência, a submeter à aprovação do Tribunal de Contas;\n\nf) Assegurar os procedimentos relativos ao aprovisionamento de bens ou serviços nas suas vertentes de compra, armazenamento, distribuição e gestão de existências;\n\ng) Organizar e assegurar, em colaboração com os demais serviços da DGCI, a actualização do inventário dos bens patrimoniais e gerir o parque de viaturas da DGCI, assegurar a sua manutenção e superintender no respectivo pessoal;\n\nh) Assegurar a reprodução e distribuição dos impressos e publicações da DGCI.\n\n2 - A DSF compreende as seguintes unidades orgânicas:\n\na) Divisão de Gestão Financeira, à qual incumbe o desempenho das competências mencionadas nas alíneas a), c), d) e e) do n.º 1;\n\nb) Divisão de Apoio Logístico e Património, à qual incumbe o desempenho da competência mencionada na alínea f) do mesmo número;\n\nc) Uma Repartição de Administração, que exerce as competências das alíneas b) e g) e compreende a Secção de Património, a de Contabilidade, a de Expediente e ainda duas Secções de Administração, a funcionar uma junto das áreas funcionais dos impostos sobre o rendimento, dos impostos sobre o património e da informática tributária e outra junto da área funcional do imposto sobre o valor acrescentado;\n\nd) Centro Gráfico, ao qual incumbe o exercício da competência indicada na alínea h) do mesmo número.\n\n3 - O Centro Gráfico é dirigido por um chefe de secção."
+  },
+  "5619cc380d3c0746": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Direcção de Serviços de Planeamento e Estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Direcção de Serviços de Planeamento e Estatística\n\n1 - À DSPE incumbe:\n\na) Preparar os instrumentos necessários à gestão da DGCI, segundo critérios de gestão estratégica e por objectivos;\n\nb) Assegurar a elaboração do plano nacional de actividades da DGCI;\n\nc) Coordenar e avaliar a execução das actividades planeadas;\n\nd) Controlar os resultados obtidos, detectar desvios e propor as medidas correctivas julgadas convenientes;\n\ne) Emitir parecer sobre os programas elaborados pelos serviços e avaliar os resultados potenciais em função do plano estratégico e dos objectivos prioritários da DGCI;\n\nf) Prestar apoio técnico aos serviços da DGCI em matérias relacionadas com a área do planeamento e técnicas do controlo de gestão e informação estatística;\n\ng) Assegurar a elaboração do relatório anual de actividades da DGCI;\n\nh) Preparar e fornecer a informação estatística necessária à formulação de políticas e estratégias globais e sectoriais a definir superiormente;\n\ni) Assegurar, em colaboração com os demais serviços da DGCI, a elaboração das previsões das receitas dos impostos administrados pela DGCI e controlar permanentemente a sua execução;\n\nj) Assegurar o efectivo controlo da dívida fiscal, através da correlação sistemática e regular dos valores liquidados, cobrados e anulados;\n\nl) Assegurar a normalização de impressos e da informação ao nível de toda a DGCI, com vista à sua permanente actualização, catalogação e uniformização.\n\n2 - A DSPE compreende as seguintes divisões:\n\na) Divisão de Planeamento, que exerce as competências a que se referem as alíneas a), b), c), d) e f) do número anterior;\n\nb) Divisão do Controlo da Cobrança, que exerce as competências a que se referem as alíneas g), h), i) e j) do mesmo número."
+  },
+  "8f671c957aae577a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Direcção de Serviços de Informações e Apoio ao Contribuinte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Direcção de Serviços de Informações e Apoio ao Contribuinte\n\nÀ DSIAC incumbe:\n\na) Divulgar o conteúdo e interpretação das leis tributárias, difundindo as informações que transmitam aos contribuintes o conhecimento das suas obrigações fiscais e o modo mais cómodo de lhes dar cumprimento;\n\nb) Coordenar a divulgação da informação pelos serviços de apoio ao contribuinte, assegurando a uniformidade de procedimentos;\n\nc) Promover a realização de campanhas informativas e estudos de opinião;\n\nd) Promover a imagem da administração tributária junto dos contribuintes, sensibilizando-os para o sentido social e económico das medidas de política fiscal."
+  },
+  "88809a74d980b278": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Centro de Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Centro de Formação\n\n1 - Ao CF incumbe:\n\na) Planear, coordenar e realizar as acções de formação dos funcionários da DGCI;\n\nb) Promover a divulgação dos textos de apoio a acções de formação da DGCI;\n\nc) Assegurar a informação a agentes económicos externos à DGCI em matéria fiscal.\n\n2 - O CF é dirigido por um director de serviços."
+  },
+  "f95b7a2e96fe3176": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Direcção de Serviços de Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Direcção de Serviços de Instalações\n\nÀ DSI incumbe:\n\na) Proceder aos estudos, análises e elaboração dos projectos, bem como dos trabalhos técnicos relacionados com os imóveis para instalação dos serviços da DGCI;\n\nb) Executar os projectos de obras necessárias à manutenção e conservação das instalações da DGCI e elaborar os cadernos de encargos respectivos;\n\nc) Elaborar os estudos e propor as medidas e normas relativas às características dos equipamentos a utilizar, à funcionalidade das instalações e à segurança dos edifícios onde estão instalados os serviços da DGCI, promovendo, designadamente, a sua inspecção periódica."
+  },
+  "6e0651ba763945d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Direcção de Serviços de Cadastro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Direcção de Serviços de Cadastro\n\n1 - À DSC incumbe:\n\na) Assegurar a gestão do cadastro dos contribuintes;\n\nb) Organizar e manter actualizado o registo centralizado de contribuintes;\n\nc) Proceder ao tratamento e registo dos dados relacionados com o cadastro;\n\nd) Analisar toda a documentação relativa a sujeitos passivos em situação de anormalidade face ao ficheiro do cadastro;\n\ne) Regularizar todas as situações que originem liquidações oficiosas por deficiências de enquadramento ou qualquer outra;\n\nf) Proceder à manutenção das tabelas de suporte do sistema informático;\n\ng) Controlar os resultados de transacções consideradas críticas para o sistema;\n\nh) Participar na elaboração e apreciação dos projectos legislativos que envolvam matérias da sua competência;\n\ni) Assegurar o bom funcionamento dos circuitos de informação entre os serviços da DGCI.\n\n2 - A DSC compreende as seguintes divisões:\n\na) Divisão do Cadastro do IVA, à qual incumbe o desempenho das competências mencionadas no n.º 1 respeitantes ao imposto sobre o valor acrescentado;\n\nb) Divisão do Cadastro do IR e do Património, à qual incumbe o desempenho das competências mencionadas no mesmo número respeitantes aos impostos sobre o rendimento e património."
+  },
+  "3365ed5358af8569": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Direcção de Serviços de Produção e Suporte Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Direcção de Serviços de Produção e Suporte Técnico\n\n1 - À DSPST incumbe:\n\na) Planear, executar e controlar a utilização de todos os equipamentos informáticos, de comunicação e outros complementares cuja responsabilidade lhe seja cometida;\n\nb) Colaborar na realização dos sistemas informáticos em desenvolvimento, de forma a assegurar a sua funcionalidade e compatibilidade com as regras de exploração em vigor;\n\nc) Participar nos estudos conducentes a alterações no parque de equipamentos e de programas-produto de apoio operacional, de carga dos equipamentos e outros produtos conexos com a actividade do serviço em que se integra;\n\nd) Detectar, analisar e resolver os problemas derivados da utilização do parque informático, nomeadamente os que envolvam vários componentes do sistema, em colaboração com as unidades orgânicas competentes;\n\ne) Gerir a rede de teleprocessamento;\n\nf) Garantir a segurança e a confidencialidade da informação;\n\ng) Estudar, testar, implementar a administrar os suportes lógicos de base e os programas-produto necessários ao funcionamento e manutenção do sistema de processamento central;\n\nh) Prestar apoio técnico na utilização do parque de equipamento central e respectivo suporte lógico;\n\ni) Colaborar na concepção e implantação da rede de comunicação de dados;\n\nj) Administrar os sistemas lógicos de gestão e controlo de comunicações;\n\nl) Coordenar os pedidos de circuitos de transmissão de dados, definir os seus tipos de ligação, efectivar os diversos pedidos de definição nos componentes do sistema e coordenar os seus testes com o planificador;\n\nm) Analisar e controlar os registos das avarias nos equipamentos informáticos e de telecomunicações, bem como a qualidade da manutenção prestada pelos fornecedores com os quais tenham sido estabelecidos acordos de assistência técnica;\n\nn) Promover o estabelecimento de acordos de manutenção dos equipamentos informáticos, com vista à salvaguarda dos interesses do Estado e à eficaz operacionalidade dos mesmos;\n\no) Apoiar os serviços na área do teleprocessamento.\n\n2 - A DSPST compreende as seguintes divisões:\n\na) Divisão de Produção e Suporte Técnico, que exerce as competências a que se referem as alíneas a) a f) do n.º 1;\n\nb) Divisão de Comunicações e Suportes Lógicos, que exerce as competências a que se referem as alíneas g) a j) do mesmo número;\n\nc) Divisão de Exploração (Centro), que exerce as competências a que se referem as alíneas l) a o) do mesmo número."
+  },
+  "51b301b16104c127": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Direcção de Serviços de Sistemas de Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Direcção de Serviços de Sistemas de Informação\n\n1 - À DSSI incumbe:\n\na) Fazer a análise e o planeamento dos sistemas de informação;\n\nb) Conceber, desenvolver e implementar soluções informáticas;\n\nc) Promover a formação e o acompanhamento dos utilizadores;\n\nd) Promover a instalação dos sistemas realizados nos equipamentos e elaborar os respectivos manuais de exploração e utilização;\n\ne) Promover a implantação organizacional dos sistemas informáticos e elaborar os respectivos manuais de utilização;\n\nf) Promover a formação e o acompanhamento dos utilizadores durante a fase de implantação dos sistemas informáticos;\n\ng) Colaborar no estudo e adopção de metodologias de gestão, concepção e desenvolvimento de projectos informáticos, bem como apoiar tecnicamente a tomada de decisões quanto à adopção de novos produtos e soluções;\n\nh) Implementar os programas-produto necessários ao funcionamento e manutenção dos sistemas de processamento central, distrital e local;\n\ni) Conceber e desenvolver projectos de âmbito local ou periférico, sem interferência directa com os sistemas centrais, a implementar em equipamentos departamentais ou locais;\n\nj) Apoiar tecnicamente as equipas de projectos de sistemas informáticos e de comunicações;\n\nl) Apoiar a formação no âmbito da informática;\n\nm) Gerir a documentação técnica informática.\n\n2 - Junto da DSSI funciona uma Divisão de Sistemas Periféricos, que exerce as competências a que se referem as alíneas i), j) e h) do número anterior."
+  },
+  "c6a22a6c0b9a101f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Direcção de Serviços de Planeamento, Controlo e Administração de Dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Direcção de Serviços de Planeamento, Controlo e Administração de Dados\n\n1 - À DSPCAD incumbe:\n\na) Programar, coordenar e controlar a execução dos projectos informáticos;\n\nb) Elaborar o plano director de informática, de acordo com as necessidades dos respectivos sistemas de informação;\n\nc) Criar e promover as condições que permitam orientar o processo de informatização da DGCI dentro de uma linha estratégica de maior participação dos utilizadores, nomeadamente através da implantação de meios de acesso à informação;\n\nd) Proceder à análise de dados;\n\ne) Conceber, representar, normalizar e actualizar os modelos representativos da informação;\n\nf) Colaborar na concepção, desenvolvimento e implementação dos projectos informáticos;\n\ng) Apoiar os serviços na gestão da informação, nomeadamente na determinação de níveis de acesso e protecção de dados e na definição de normas de qualidade, difusão e utilização dos mesmos;\n\nh) Constituir e gerir o dicionário de dados, mantendo-o actualizado com base nas descrições semânticas, físicas e de utilização, de forma a permitir o reconhecimento, interpretação e desenvolvimento do sistema de informação;\n\ni) Implementar e administrar as bases de dados, designadamente através da concepção dos respectivos esquemas e da definição da estrutura física dos dados;\n\nj) Assegurar o cumprimento das normas de qualidade, confidencialidade e salvaguarda dos dados;\n\nl) Apoiar tecnicamente a tomada de decisões quanto à adopção de produtos e soluções que sejam considerados de interesse;\n\nm) Gerar protótipos e aplicações em conjunto com os utilizadores e dar formação no tocante ao emprego das técnicas adequadas a esse fim;\n\nn) Apoiar os utilizadores na obtenção de acesso a dados memorizados nos sistemas centrais e garantir que aquela operação se faça de acordo com os modelos, normas e procedimentos definidos;\n\no) Difundir os produtos e serviços existentes e promover a troca de experiências entre os utilizadores;\n\np) Efectuar a instrução dos processos de tomada de decisão relativamente à aquisição de bens e serviços de informática.\n\n2 - A DSPCAD compreende as seguintes divisões:\n\na) Divisão de Planeamento e Coordenação, que exerce as competências a que se referem as alíneas a), b) e c) do número anterior;\n\nb) Divisão de Administração de Dados, que exerce as competências a que se referem as alíneas d) a p) do mesmo número."
+  },
+  "061093b8980c2faf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Serviço Regional de Informática do Norte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Serviço Regional de Informática do Norte\n\n1 - O SRIN prossegue, a nível distrital e local, as competências previstas nos artigos 28.º a 30.º do presente diploma.\n\n2 - O SRIN está sediado na Direcção de Finanças do Porto e abrange as áreas geográficas que lhe forem cometidas por despacho do director-geral.\n\n3 - O SRIN é dirigido por um director de serviços."
+  },
+  "465ec1d8ec50e139": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Serviços distritais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Serviços distritais\n\n1 - Por cada distrito e região autónoma a DGCI dispõe de uma direcção distrital de finanças, directamente dependente do director-geral, incumbindo-lhes:\n\na) Assegurar as funções de orientação e controlo da administração tributária na respectiva área de actuação e coordenar os respectivos serviços locais;\n\nb) Executar as actividades cometidas à DGCI que, por lei ou decisão superior, devam ser prosseguidas a nível distrital;\n\nc) Praticar os actos de aplicação da lei tributária aos factos concretos nos casos previstos na lei;\n\nd) Executar quaisquer outras actividades que lhes sejam cometidas por lei ou decisão superior.\n\n2 - A Região Autónoma da Madeira e a Região Autónoma dos Açores dispõem, respectivamente, da Direcção Distrital de Finanças do Funchal e da Direcção Distrital de Finanças de Ponta Delgada.\n\n3 - Na Região Autónoma dos Açores, a DGCI poderá manter outras direcções distritais de finanças, sempre que tal se verifique necessário em função das características do arquipélago, por determinação do Ministro das Finanças e com base em protocolo com a administração regional ou local que fixe a correspondente compensação financeira, prevista na alínea a) do artigo 96.º do Estatuto Político-Administrativo da Região Autónoma dos Açores.\n\n4 - As direcções distritais de finanças são dirigidas por directores distritais de finanças, os quais são coadjuvados, de acordo com o previsto no artigo seguinte, por directores de finanças.\n\n5 - Os directores a que se refere o número anterior são equiparados, para efeitos de regime de provimento e remuneratório, a director de serviços, com excepção dos directores distritais de Lisboa e Porto, que, para efeitos remuneratórios, são equiparados a subdirector-geral."
+  },
+  "52e625733f25e1c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Estrutura das direcções distritais de finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Estrutura das direcções distritais de finanças\n\n1 - As Direcções Distritais de Finanças de Beja, Bragança, Castelo Branco, Évora, Guarda, Portalegre, Viana do Castelo e Vila Real e das Regiões Autónomas dos Açores e da Madeira dispõem das seguintes unidades orgânicas:\n\na) Divisão de Tributação e de Justiça Tributária;\n\nb) Divisão de Inspecção Tributária;\n\nc) Repartição de Administração Geral.\n\n2 - As Direcções Distritais de Finanças de Aveiro, Braga, Coimbra, Faro, Leiria, Santarém, Setúbal e Viseu dispõem de um director de finanças e das seguintes unidades orgânicas:\n\na) Divisão de Tributação;\n\nb) Divisão de Justiça Tributária;\n\nc) Divisão de Prevenção e Inspecção Tributária I;\n\nd) Divisão de Prevenção e Inspecção Tributária II;\n\ne) Repartição de Administração Geral.\n\n3 - A Direcção Distrital de Finanças do Porto dispõe de quatro directores de finanças e das seguintes unidades orgânicas:\n\na) Divisão dos Impostos sobre o Rendimento;\n\nb) Divisão dos Impostos sobre o Consumo e Património;\n\nc) Divisão de Justiça Tributária;\n\nd) Divisão de Prevenção e Inspecção Tributária I;\n\ne) Divisão de Prevenção e Inspecção Trubutária II;\n\nf) Divisão de Prevenção e Inspecção Tributária III;\n\ng) Repartição de Administração Geral.\n\n4 - A Direcção Distrital de Finanças de Lisboa dispõe de seis directores de finanças e das seguintes unidades orgânicas:\n\na) Divisão dos Impostos sobre o Rendimento I (IRS);\n\nb) Divisão dos Impostos sobre o Rendimento II (IRC);\n\nc) Divisão dos Impostos sobre o Consumo e o Património;\n\nd) Divisão de Justiça Tributária;\n\ne) Divisão de Prevenção e Inspecção Tributária I;\n\nf) Divisão de Prevenção e Inspecção Tributária II;\n\ng) Divisão de Prevenção e Inspecção Tributária III;\n\nh) Divisão de Prevenção e Inspecção Tributária IV;\n\ni) Repartição de Administração Geral;\n\nj) Repartição não Tributária.\n\n5 - Em todas as direcções distritais de finanças funcionará um centro de recolha de dados, que será coordenado por um funcionário a designar por despacho do director-geral.\n\n6 - As Repartições de Administração Geral das Direcções Distritais de Finanças do Porto e de Lisboa compreendem uma Secção de Pessoal e uma Secção de Administração."
+  },
+  "b9e8bfbecceb81fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Competências das divisões das direcções distritais de finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Competências das divisões das direcções distritais de finanças\n\n1 - Às divisões de tributação e justiça tributária compete, designadamente:\n\na) Executar todas as funções relacionadas com a tributação que lhes sejam cometidas por lei ou por normas administrativas emanadas dos serviços centrais da DGCI;\n\nb) Orientar, coordenar e controlar a actividade dos serviços locais compreendidos nas respectivas áreas funcionais e fiscais;\n\nc) Prestar apoio técnico ao director distrital de finanças no exercício das competências de investigação e averiguação a ele cometidas por lei no domínio da acção penal fiscal, criminal ou contra-ordenacional;\n\nd) Prestar apoio técnico e administrativo à representação da Fazenda Pública;\n\ne) Assegurar a prática dos actos ordenados pelo magistrado judicial competente relativos à tramitação dos processos da competência dos tribunais tributários;\n\nf) Assegurar a tramitação dos processos de natureza administrativa;\n\ng) Participar na elaboração e assegurar a execução dos planos e programas de actividade inspectiva no âmbito distrital, de harmonia com os planos e programas estabelecidos pelos serviços centrais;\n\nh) Assegurar quaisquer funções que lhes sejam cometidas por lei ou por determinação do director distrital de finanças.\n\n2 - Às divisões de inspecção tributária incumbe, designadamente:\n\na) Exercer a acção de controlo e inspecção tributária na respectiva área fiscal;\n\nb) Participar na elaboração e assegurar a execução dos planos e programas de actividade inspectiva no âmbito distrital, de harmonia com os planos e programas estabelecidos pelos serviços centrais;\n\nc) Prestar apoio técnico à instrução de processos judiciais ou administrativos, designadamente no tocante a informações quanto a matéria de facto pertinente à apreciação das questões suscitadas;\n\nd) Executar quaisquer funções que lhes sejam cometidas por lei ou decisão superior.\n\n3 - Aos centros de recolha de dados incumbe, designadamente:\n\na) Administrar o sistema informático instalado nas direcções distritais de finanças, zelando pelo seu bom estado de conservação e funcionamento;\n\nb) Assegurar o tratamento informático da informação nas declarações de rendimento, dos documentos de cobrança, da contabilidade pública das receitas ou quaisquer outros cujo tratamento incumba às direcções distritais de finanças;\n\nc) Proceder ao controlo de qualidade do tratamento informático referido no número anterior, nomeadamente nos processos de correcção de erros;\n\nd) Apoiar e prestar colaboração técnica à informatização dos serviços distritais e locais, na sequência da implementação das diversas aplicações informáticas tributárias."
+  },
+  "891eb7eba81c8f13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Competências das repartições de administração geral das direcções distritais de finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Competências das repartições de administração geral das direcções distritais de finanças\n\n1 - Às repartições de administração geral incumbe, designadamente:\n\na) Exercer a administração dos recursos humanos, financeiros e patrimoniais da unidade orgânica em que estão integradas;\n\nb) Assegurar o expediente relativo à situação funcional do pessoal, designadamente remunerações e outros abonos, segurança social, benefícios sociais, faltas e licenças, e manter actualizado o respectivo registo de pessoal;\n\nc) Distribuir e gerir o equipamento e o material necessários aos serviços e organizar e manter actualizado o respectivo inventário;\n\nd) Zelar pela segurança dos edifícios e assegurar a realização de trabalhos de conservação, reparação e manutenção das instalações e equipamentos;\n\ne) Preparar a proposta de orçamento das direcções distritais de finanças e controlar a sua execução;\n\nf) Assegurar o processamento das despesas que devam ser processadas a nível distrital, propor a constituição e reconstituição de fundos permanentes e garantir a respectiva movimentação;\n\ng) Assegurar o expediente geral da respectiva direcção de finanças;\n\nh) Assegurar o expediente necessário à execução das actividades que, não cabendo especificamente no âmbito das atribuições da DGCI, lhe são cometidas por lei.\n\n2 - Nas Direcções Distritais de Finanças de Lisboa e Porto a competência a que se refere a alínea h) do número anterior é exercida pela Repartição não Tributária."
+  },
+  "ef16527317372fe4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Serviços locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Serviços locais\n\n1 - Ao nível local, a DGCI dispõe de repartições de finanças, directamente dependentes do director distrital de finanças, incumbindo-lhes:\n\na) Executar as operações e praticar os actos necessários ao apuramento da situação tributária dos contribuintes, nos casos previstos na lei;\n\nb) Exercer a actividade de justiça tributária, dentro da respectiva área fiscal;\n\nc) Executar os serviços complementares de administração tributária ou outros, sob coordenação do respectivo serviço distrital;\n\nd) Executar quaisquer outras tarefas que lhes forem cometidas por lei ou determinação superior.\n\n2 - Em Lisboa e Porto as repartições de finanças são designadas por bairros fiscais.\n\n3 - As repartições de finanças são chefiadas por chefes de repartição de finanças.\n\n4 - A criação, agrupamento, extinção e definição da área geográfica das repartições de finanças são determinadas por portaria do Ministro das Finanças.\n\n5 - As repartições de finanças são classificadas, por portaria do Ministro das Finanças, em três níveis, conforme o volume de serviço.\n\n6 - Nas repartições de finanças dos níveis I e II, o chefe de repartição de finanças pode ser coadjuvado por um a três adjuntos.\n\n7 - Para efeitos do previsto no presente diploma e enquanto não for publicada a portaria a que se refere o n.º 5, as repartições de 1.ª, 2.ª e 3.ª classes correspondem, respectivamente, aos níveis I, II e III."
+  },
+  "44a8a9294f8cd16c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Estrutura das repartições de finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Estrutura das repartições de finanças\n\n1 - As repartições de finanças dos níveis I e II dispõem de uma secção de tributação e de uma secção de justiça tributária.\n\n2 - Nas repartições de finanças de nível I, quando devidamente justificado, a secção de tributação pode desdobrar-se em duas secções, por despacho do director-geral."
+  },
+  "6b0e57b96e0381c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Quadro de pessoal\n\n1 - O quadro de pessoal da DGCI é fixado por portaria do Ministro das Finanças.\n\n2 - Por despacho do director-geral, é atribuída uma dotação aos tribunais tributários, serviços centrais e distritais, abrangendo esta última a direcção distrital de finanças e os serviços locais do distrito.\n\n3 - A distribuição da dotação distrital pelos serviços que se inserem na respectiva área será efectuada por despacho do director distrital.\n\n4 - São criados no quadro de pessoal da DGCI os lugares de direcção e de chefia constantes do mapa anexo ao presente diploma."
+  },
+  "5c89c701fe548214": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Directores distritais de finanças e directores de finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Directores distritais de finanças e directores de finanças\n\nO recrutamento para os cargos de director distrital de finanças e de director de finanças faz-se de entre funcionários habilitados com o curso de administração tributária."
+  },
+  "0b5652a3cebb1596": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Directores de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Directores de serviços\n\nOs cargos de director de serviços são providos nos termos da lei geral e ainda por funcionários habilitados com o curso de administração tributária, bem como por funcionários da carreira técnica de administração tributária com categoria igual ou superior a perito tributário de 1.ª classe ou perito de fiscalização tributária de 1.ª classe."
+  },
+  "5f44ade84b68e268": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Chefes de divisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Chefes de divisão\n\nOs cargos de chefe de divisão são providos nos termos da lei geral e ainda por funcionários da carreira técnica de administração tributária com categoria igual ou superior a perito tributário de 2.ª classe ou perito de fiscalização tributária de 2.ª classe com, pelo menos, quatro anos de antiguidade na categoria."
+  },
+  "f746294c0891bdd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Pessoal de chefia tributária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Pessoal de chefia tributária\n\n1 - São cargos de chefia tributária os de chefe de repartição de finanças e adjunto de chefe de repartição de finanças.\n\n2 - O pessoal de chefia tributária é provido em comissão de serviço, nos termos previstos no presente diploma.\n\n3 - A comissão de serviço tem a duração de três anos, cessando automaticamente no fim do respectivo período caso não seja comunicada ao interessado a sua renovação até 30 dias antes do seu termo, sem prejuízo da continuidade no exercício de funções até à nomeação de novo titular.\n\n4 - O provimento do pessoal de chefia tributária é feito por despacho do director-geral das Contribuições e Impostos, sob proposta do director distrital de finanças respectivo, nos seguintes termos:\n\na) Chefes de repartição de finanças de 1.ª classe, de entre peritos tributários de 1.ª classe ou peritos de fiscalização tributária de 1.ª classe com classificação de serviço não inferior a Bom no último triénio;\n\nb) Chefes de repartição de finanças de 2.ª classe e adjuntos de chefes de repartição de finanças de 1.ª classe, de entre peritos tributários de 1.ª ou 2.ª classe ou peritos de fiscalização tributários de 1.ª ou 2.ª classe com classificação de serviço não inferior a Bom no último triénio;\n\nc) Chefes de repartição de finanças de 3.ª classe e adjuntos de chefes de repartição de finanças de 2.ª classe, de entre peritos tributários de 2.ª classe, técnicos tributários, peritos de fiscalização tributários de 2.ª classe ou técnicos verificadores tributários com classificação de serviço não inferior a Bom no último triénio.\n\n5 - Não é permitido o exercício dos cargos de chefe de repartição de finanças de 1.ª ou 2.ª classe sem que anteriormente os funcionários tenham desempenhado, pelo menos durante um ano, as funções de adjunto de chefe de repartição da mesma classe ou de chefe de repartição de finanças de classes inferiores.\n\n6 - O provimento do pessoal de chefia tributária entende-se sempre feito por urgente conveniência de serviço, salvo se o contrário for expressamente declarado no despacho de nomeação.\n\n7 - O previsto no presente artigo aplica-se aos cargos de chefia tributária já providos, caso em que a contagem do prazo da comissão de serviço se inicia com a entrada em vigor do presente diploma."
+  },
+  "c0a46b1b2e7ace1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Suspensão da comissão de serviço do pessoal de chefia tributária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Suspensão da comissão de serviço do pessoal de chefia tributária\n\nAo pessoal de chefia tributária é aplicável o regime de suspensão da comissão de serviço previsto no artigo 6.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro."
+  },
+  "412e184486bc0d70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Cessação da comissão de serviço do pessoal de chefia tributária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Cessação da comissão de serviço do pessoal de chefia tributária\n\n1 - A comissão de serviço do pessoal de chefia tributária cessa automaticamente:\n\na) Pela tomada de posse, seguida de exercício, noutro cargo ou função, a qualquer título, salvo nos casos em que houver lugar a suspensão ou for permitida a acumulação de funções;\n\nb) Pelo acesso a categoria diferente das que constituam a base de recrutamento para o cargo respectivo;\n\nc) Por extinção ou reclassificação da repartição de finanças respectiva.\n\n2 - A comissão de serviço pode, a todo o tempo, ser dada por finda durante a sua vigência:\n\na) Por despacho fundamentado do director-geral, na sequência de procedimento disciplinar em que se tenha concluído pela aplicação de sanção disciplinar;\n\nb) A requerimento do interessado, apresentado nos serviços com a antecedência mínima de 60 dias, o qual será considerado deferido se, no prazo de 30 dias a contar da data da sua entrada, sobre ele não recair despacho de indeferimento.\n\n3 - Os funcionários a quem sejam dadas por findas as comissões de serviço regressam à carreira de origem, na categoria e escalão que nesta detenham."
+  },
+  "ff53e625fbc442f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Mobilidade interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Mobilidade interna\n\nSão instrumentos de mobilidade interna da DGCI a transferência e a deslocação."
+  },
+  "91cd27be06f1e4ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Transferência\n\n1 - Os funcionários da DGCI podem ser transferidos, a seu pedido ou por conveniência de serviço, para dotação de diferente serviço daquele a que se encontram afectos, desde que nela exista vaga na carreira ou categoria.\n\n2 - As regras e critérios a que obedecerá a transferência a pedido do funcionário constam de regulamento interno, a aprovar por despacho do director-geral.\n\n3 - A transferência por conveniência de serviço será sempre fundamentada e carece da anuência do funcionário, caso se faça para serviço situado fora da sua área de residência."
+  },
+  "2f01d2eea2068c3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Deslocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Deslocação\n\n1 - Os funcionários da DGCI podem ser deslocados, a seu pedido ou por conveniência de serviço, para o exercício de funções a título transitório, em serviço diferente daquele a que o funcionário se encontra afecto.\n\n2 - A deslocação por conveniência de serviço tem a duração máxima de um ano e confere o direito ao abono de ajudas de custo, nos termos da lei geral.\n\n3 - A deslocação a pedido não confere direito a ajudas de custo."
+  },
+  "462991fc8c04678a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Pessoal técnico judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Pessoal técnico judicial\n\n1 - É extinta a carreira de pessoal técnico judicial.\n\n2 - Os funcionários com as categorias de técnico de contencioso tributário, perito de contencioso tributário de 2.ª classe, perito de contencioso tributário de 1.ª classe e subdirector de contencioso tributário transitam, respectivamente, para as categorias de técnico tributário, perito tributário de 2.ª classe, perito tributário de 1.ª classe e subdirector tributário, ficando posicionados no escalão a que corresponder idêntico índice remuneratório.\n\n3 - O tempo de serviço prestado na categoria de origem considera-se, para todos os efeitos legais, como prestado na nova categoria."
+  },
+  "a2521e17b2840931": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Técnicos orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Técnicos orientadores\n\n1 - É extinta a categoria de técnico orientador.\n\n2 - Os funcionários com a categoria referida no número anterior transitam para a categoria de subdirector tributário, ficando posicionados no escalão a que corresponder idêntico índice remuneratório.\n\n3 - O tempo de serviço prestado na categoria de origem considera-se, para todos os efeitos legais, como prestado na nova categoria."
+  },
+  "1af22f61236eccbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Correspondentes de informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Correspondentes de informática\n\n1 - É extinta a carreira de correspondente de informática.\n\n2 - Os funcionários integrados na carreira referida no número anterior transitam para a categoria de técnico-adjunto principal, da carreira técnico-profissional, nível 4, ficando posicionados no escalão a que corresponder idêntico índice remuneratório.\n\n3 - O tempo de serviço prestado na categoria de origem considera-se, para todos os efeitos legais, como prestado na nova categoria."
+  },
+  "356e72b763df7d57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Tribunais tributários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Tribunais tributários\n\nA organização e o funcionamento dos tribunais tributários continuam a reger-se pelas normas aplicáveis à data da entrada em vigor do presente diploma, com as necessárias adaptações resultantes do presente diploma."
+  },
+  "7b76f518aa7b1552": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Receitas da DGCI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Receitas da DGCI\n\n1 - Para além das dotações que lhe sejam atribuídas através do Orçamento do Estado, constituem receitas da DGCI:\n\na) O produto da venda de impressos e publicações;\n\nb) O produto da venda de serviços prestados a terceiros;\n\nc) O produto da venda de bens não duradouros;\n\nd) O montante dos emolumentos dos serviços das contribuições e impostos;\n\ne) O montante das custas cobradas nos processos das contribuições e impostos;\n\nf) O produto dos reembolsos das despesas com papel, fotocópias, correio e cadernetas prediais solicitadas pelos interessados;\n\ng) O montante do reembolso dos salários e demais abonos de transportes dos membros das comissões, em relação às avaliações que sejam da iniciativa dos contribuintes;\n\nh) O reembolso dos encargos com a publicidade realizada no âmbito da cobrança coerciva;\n\ni) Quaisquer outras receitas atribuídas por lei.\n\n2 - O saldo das verbas referidas nas alíneas anteriores transita para o ano seguinte."
+  },
+  "df6262856e55c4e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Prestação de serviços\n\nA DGCI pode prestar serviços e realizar trabalhos, no âmbito das suas atribuições, que lhe sejam solicitados por outras entidades, sendo as condições de prestação dos mesmos e respectivos preços fixados por despacho do Ministro das Finanças."
+  },
+  "3a34f456352dcff1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Pessoal dirigente\n\n1 - Com a entrada em vigor do presente diploma são dadas por findas as comissões de serviço dos directores de serviços, chefes de divisão ou cargos a estes equiparados, bem como as dos directores de finanças, mantendo-se, no entanto, em funções os actuais titulares dos cargos até à tomada de posse dos novos titulares.\n\n2 - Mantêm-se as comissões de serviço dos directores distritais de finanças que dirijam as direcções distritais referidas no artigo 32.º"
+  },
+  "24827d2b885f96a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Alterações de legislação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Alterações de legislação\n\n1 - Os artigos 4.º, 9.º e 10.º do [Decreto-Lei n.º 187/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1990-575126), de 7 de Junho, passam a ter a seguinte redacção:"
+  },
+  "6ede8141650e88c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Mobilidade\n\n1 - ...\n\n2 - ...\n\n3 - Os funcionários que, encontrando-se nomeados para cargos de chefia tributária, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção são integrados na nova categoria no escalão que resultar da aplicação das regras previstas no artigo 6.º ao escalão que detinham na categoria de origem."
+  },
+  "e08fef6b353added": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Progressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Progressão\n\n1 - ...\n\n2 - A aplicação do disposto no número anterior aos funcionários que se encontrem nomeados em cargos de chefia tributária far-se-á relativamente à categoria de origem, com a necessária repercussão na escala salarial do cargo."
+  },
+  "6e31a174acfd7131": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Funções de coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Funções de coordenação\n\nOs funcionários designados para a chefia ou coordenação de equipas constituídas na DGCI que não beneficiem de regime remuneratório próprio terão direito a um acréscimo salarial correspondente a 30 pontos indiciários, a adicionar ao índice da respectiva categoria.\n\n2 - O artigo 52.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, passa a ter a seguinte redacção:"
+  },
+  "243d40c955b20290": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Nomeação\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\n2 - Na falta de candidatos com a classificação indicada nas alíneas a) e b) do número anterior, poderão ser admitidos às provas de selecção para juristas e economistas candidatos licenciados nos cursos aí previstos com classificação não inferior a 14 valores ou a Bom e aprovação em mestrado.\n\n3 - O artigo 2.º do [Decreto-Lei n.º 434/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1991-331853), de 8 de Novembro, passa a ter a seguinte redacção:"
+  },
+  "bf91d246827e6abb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Funcionários das câmaras municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Funcionários das câmaras municipais\n\n1 - Os funcionários pertencentes aos quadros de pessoal das câmaras municipais que passaram a exercer funções nos serviços dos juízos dos tribunais tributários referidos no artigo precedente com as categorias de oficial administrativo, escriturário-dactilógrafo, telefonista, auxiliar administrativo e auxiliar de serviços gerais são integrados no quadro de pessoal da DGCI, sendo-lhes aplicável o disposto no artigo 36.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ..."
+  },
+  "5815931bbd49b3e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Disposição transitória\n\nCom a execução do novo regime de tesouraria do Estado serão eliminadas as competências que o contrariem, cometidas pelo presente diploma aos serviços da DGCI."
+  },
+  "28b68de01ffce1bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Legislação revogada\n\nSão revogados pelo presente diploma:\n\na) Os artigos 1.º a 15.º, 17.º a 26.º, 28.º, 29.º, 37.º e 39.º a 45.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro;\n\nb) Os artigos 1.º a 30.º, 32.º, 37.º, 38.º, 40.º, 43.º, 44.º, 46.º, 47.º, as alíneas a) e b) do n.º 1 do artigo 48.º, o artigo 49.º, as alíneas b) e d) do artigo 50.º e os artigos 51.º, 54.º a 66.º, 69.º, 70.º, 77.º a 79.º, 82.º, 89.º, 95.º, 98.º a 109.º e 111.º a 114.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio;\n\nc) Os artigos 1.º a 12.º, o n.º 2 do artigo 13.º e os artigos 14.º a 32.º e 41.º a 51.º do [Decreto Regulamentar n.º 54/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1980-461617), de 30 de Setembro;\n\nd) O [Decreto Regulamentar n.º 16/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1985-327138), de 28 de Fevereiro;\n\ne) O [Decreto Regulamentar n.º 41/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1987-419594), de 2 de Julho;\n\nf) O [Decreto-Lei n.º 6/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1988-283367), de 15 de Janeiro;\n\ng) O [Decreto Regulamentar n.º 40/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1988-357732), de 18 de Novembro;\n\nh) O [Decreto Regulamentar n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1989-619281), de 18 de Agosto;\n\ni) O [Decreto Regulamentar n.º 1/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1990-313798), de 10 de Janeiro;\n\nj) O [Decreto Regulamentar n.º 10/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1992-497436), de 4 de Maio.\n\nVisto e aprovado em Conselho de Ministros de 5 de Agosto de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Jorge Braga de Macedo.\n\nPromulgado em 23 de Novembro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 24 de Novembro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa anexo a que se refere o n.º 4 do artigo 38.º\n\nQuadro de pessoal dirigente e chefia tributária da DGCI\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/290a00/69286943.pdf)"
+  },
+  "136f80f3a630a054": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Direcções distritais de finanças e direcções de finanças",
+   "in_force_from": "1997-02-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+   ],
+   "markdown": "###### Artigo 32.º — Direcções distritais de finanças e direcções de finanças\n\n1 - A DGCI dispõe de uma direcção distrital de finanças em cada um dos distritos do continente, uma direcção de finanças na Região Autónoma da Madeira, situada no Funchal, e três direcções de finanças na Região Autónoma dos Açores, situadas em Angra do Heroísmo, Horta e Ponta Delgada, com as seguintes competências:\n\na) Assegurar as funções de orientação e controlo da administração tributária na respectiva área de actuação e coordenar os respectivos serviços locais;\n\nb) Executar as actividades cometidas à DGCI que, por lei ou decisão superior, devam ser prosseguidas a nível distrital;\n\nc) Praticar os actos de aplicação da lei tributária aos factos concretos nos casos previstos na lei;\n\nd) Executar quaisquer outras actividades que lhes sejam cometidas por lei ou decisão superior.\n\n2 - As direcções de finanças situadas na Região Autónoma dos Açores dispõem da seguinte competência territorial:\n\na) Direcção de Finanças de Angra do Heroísmo: ilhas de Graciosa, São Jorge e Terceira;\n\nb) Direcção de Finanças da Horta: ilhas do Corvo, Faial, Flores e Pico;\n\nc) Direcção de Finanças de Ponta Delgada: ilhas de Santa Maria e São Miguel.\n\n3 - As direcções distritais de finanças são dirigidas por directores distritais de finanças e as direcções de finanças das Regiões Autónomas por directores de finanças, equiparados, para todos os efeitos legais, aos directores distritais de finanças.\n\n4 - Os dirigentes referidos no número anterior dependem hierarquicamente do director-geral, sem prejuízo da dependência funcional dos subdirectores-gerais, e podem ser coadjuvados por directores de finanças.\n\n5 - Sem prejuízo das disposições do presente diploma que lhes sejam directamente aplicáveis, os directores distritais de finanças, directores das direcções de finanças das Regiões Autónomas e directores de finanças são equiparados a directores de serviços, com excepção dos directores distritais de finanças de Lisboa e do Porto, que, para efeitos remuneratórios, são equiparados a subdirectores-gerais.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  },
+  "bf6d5c3c6d11fcb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Estrutura das direcções distritais de finanças e direcções de finanças",
+   "in_force_from": "1997-02-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+   ],
+   "markdown": "###### Artigo 33.º — Estrutura das direcções distritais de finanças e direcções de finanças\n\n1 - As Direcções Distritais de Finanças de Beja, Bragança, Castelo Branco, Évora, Guarda, Portalegre, Viana do Castelo e Vila Real, bem como as direcções de finanças das Regiões Autónomas, dispõem das seguintes unidades orgânicas:\n\na) Divisão de Tributação e de Justiça Tributária;\n\nb) Divisão de Inspecção Tributária;\n\nc) Repartição de Administração Geral.\n\n2 - As Direcções Distritais de Finanças de Aveiro, Braga, Coimbra, Faro, Leiria, Santarém, Setúbal e Viseu dispõem de um director de finanças e das seguintes unidades orgânicas:\n\na) Divisão de Tributação;\n\nb) Divisão de Justiça Tributária;\n\nc) Divisão de Prevenção e Inspecção Tributária I;\n\nd) Divisão de Prevenção e Inspecção Tributária II;\n\ne) Repartição de Administração Geral.\n\n3 - A Direcção Distrital de Finanças do Porto dispõe de quatro directores de finanças e das seguintes unidades orgânicas:\n\na) Divisão dos Impostos sobre o Rendimento;\n\nb) Divisão dos Impostos sobre o Consumo e Património;\n\nc) Divisão de Justiça Tributária;\n\nd) Divisão de Prevenção e Inspecção Tributária I;\n\ne) Divisão de Prevenção e Inspecção Trubutária II;\n\nf) Divisão de Prevenção e Inspecção Tributária III;\n\ng) Repartição de Administração Geral.\n\n4 - A Direcção Distrital de Finanças de Lisboa dispõe de seis directores de finanças e das seguintes unidades orgânicas:\n\na) Divisão dos Impostos sobre o Rendimento I (IRS);\n\nb) Divisão dos Impostos sobre o Rendimento II (IRC);\n\nc) Divisão dos Impostos sobre o Consumo e o Património;\n\nd) Divisão de Justiça Tributária;\n\ne) Divisão de Prevenção e Inspecção Tributária I;\n\nf) Divisão de Prevenção e Inspecção Tributária II;\n\ng) Divisão de Prevenção e Inspecção Tributária III;\n\nh) Divisão de Prevenção e Inspecção Tributária IV;\n\ni) Repartição de Administração Geral;\n\nj) Repartição não Tributária.\n\n5 - Em todas as direcções distritais de finanças funcionará um centro de recolha de dados, que será coordenado por um funcionário a designar por despacho do director-geral.\n\n6 - As Repartições de Administração Geral das Direcções Distritais de Finanças do Porto e de Lisboa compreendem uma Secção de Pessoal e uma Secção de Administração.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  },
+  "10a567ac2033d1dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Serviços locais",
+   "in_force_from": "1997-02-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+   ],
+   "markdown": "###### Artigo 36.º — Serviços locais\n\n1 - Ao nível local, a DGCI dispõe de repartições de finanças, directamente dependentes do director distrital de finanças, incumbindo-lhes:\n\na) Executar as operações e praticar os actos necessários ao apuramento da situação tributária dos contribuintes, nos casos previstos na lei;\n\nb) Exercer as actividades de inspecção e de justiça tributárias, no âmbito da respectiva área fiscal;\n\nc) Executar os serviços complementares de administração tributária ou outros, sob coordenação do respectivo serviço distrital;\n\nd) Executar quaisquer outras tarefas que lhes forem cometidas por lei ou determinação superior.\n\n2 - Em Lisboa e Porto as repartições de finanças são designadas por bairros fiscais.\n\n3 - As repartições de finanças são chefiadas por chefes de repartição de finanças.\n\n4 - A criação, agrupamento, extinção e definição da área geográfica das repartições de finanças são determinadas por portaria do Ministro das Finanças.\n\n5 - As repartições de finanças são classificadas, por portaria do Ministro das Finanças, em três níveis, conforme o volume de serviço.\n\n6 - Nas repartições de finanças de nível I e II, o chefe de repartição de finanças pode ser coadjuvado, respectivamente, por um a quatro ou por um a três adjuntos.\n\n7 - Para efeitos do previsto no presente diploma e enquanto não for publicada a portaria a que se refere o n.º 5, as repartições de 1.ª, 2.ª e 3.ª classes correspondem, respectivamente, aos níveis I, II e III.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  },
+  "cef9f8121ba1ff14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Estrutura das repartições de finanças",
+   "in_force_from": "1997-02-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+   ],
+   "markdown": "###### Artigo 37.º — Estrutura das repartições de finanças\n\n1 - As repartições de finanças de nível I e II dispõem, em regra, de uma secção de tributação e de uma secção de justiça tributária e, sempre que se justifique, de uma secção de fiscalização tributária, chefiada por um perito de fiscalização tributária de 2.ª classe.\n\n2 - Nas repartições de finanças de nível I, quando devidamente justificado, a secção de tributação pode desdobrar-se em duas secções, por despacho do director-geral.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  },
+  "4781533c6e8d4f87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Quadros de pessoal",
+   "in_force_from": "1997-02-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+   ],
+   "markdown": "###### Artigo 38.º — Quadros de pessoal\n\n1 - O quadro geral do pessoal da DGCI é fixado por portaria conjunta do Ministro das Finanças e do membro do Governo que tiver a seu cargo a função pública.\n\n2 - Os lugares do quadro geral são distribuídos pelos seguintes quadros de pessoal, por despacho do director-geral:\n\na) Dos serviços centrais;\n\nb) Do Tribunal Tributário de 2.ª Instância;\n\nc) De cada um dos tribunais tributários de 1.ª instância;\n\nd) De cada uma das direcções distritais de finanças e direcções de finanças, incluindo os respectivos serviços locais.\n\n3 - Os lugares dos quadros referidos na alínea d) do número anterior são distribuídos, por despacho do director-geral, mediante proposta dos directores distritais de finanças e dos directores das direcções de finanças das Regiões Autónomas, por quadros internos de cada uma das direcções distritais de finanças e direcções de finanças, bem como de cada um dos respectivos serviços locais, ouvidos, quanto a estes, os chefes de repartição de finanças.\n\n4 - Os quadros referidos nas alíneas a) a c) do n.º 2 do presente artigo e os mencionados no número anterior consideram-se quadros de contingentação.\n\n5 - As propostas de alteração dos quadros mencionados no n.º 3 deste artigo serão feitas, anualmente, até 31 de Janeiro.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  },
+  "bac4831d2992ca62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Subdirectores-gerais e directores de serviços",
+   "in_force_from": "1997-02-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+   ],
+   "markdown": "###### Artigo 39.º — Subdirectores-gerais e directores de serviços\n\n1 - Os cargos de subdirector-geral são providos, por escolha do Ministro das Finanças, de entre funcionários habilitados com o curso de Administração Tributária e ainda nos termos da lei geral.\n\n2 - Os cargos de director de serviços são providos, por escolha do Ministro das Finanças, de entre funcionários habilitados com o curso de Administração Tributária ou nos termos da lei geral, bem como de entre funcionários do grupo do pessoal técnico de administração fiscal, licenciados, que possuam categoria igual ou superior a perito tributário de 1.ª classe ou perito de fiscalização tributária de 1.ª classe.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  },
+  "cd48843df8db6287": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Directores distritais de finanças e directores de finanças",
+   "in_force_from": "1997-02-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+   ],
+   "markdown": "###### Artigo 40.º — Directores distritais de finanças e directores de finanças\n\nOs cargos de director distrital de finanças e de director de finanças são providos, por escolha do Ministro das Finanças, de entre funcionários da DGCI habilitados com o curso de Administração Tributária.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  },
+  "f3be4bc9c12caa6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Chefes de divisão",
+   "in_force_from": "1997-02-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+   ],
+   "markdown": "###### Artigo 41.º — Chefes de divisão\n\nOs cargos de chefe de divisão são providos de entre funcionários pertencentes ao grupo do pessoal técnico de administração fiscal com categoria igual ou superior a perito tributário de 1.ª classe ou perito de fiscalização tributária de 1.ª classe e ainda nos termos da lei geral.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  },
+  "1141d4ca84a8ed71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Pessoal de chefia tributária",
+   "in_force_from": "1997-02-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+   ],
+   "markdown": "###### Artigo 42.º — Pessoal de chefia tributária\n\n1 - São cargos de chefia tributária os de chefe de repartição de finanças e adjunto de chefe de repartição de finanças.\n\n2 - A nomeação do pessoal de chefia tributária é feita em comissão de serviço, nos termos previstos no presente diploma, podendo os lugares de origem dos funcionários nomeados ser providos, mas sem prejuízo de aqueles manterem o direito a colocação em lugar da categoria que possuírem quando cessarem a comissão.\n\n3 - A comissão de serviço tem a duração de três anos, considerando-se automaticamente prorrogada por igual período caso não seja comunicada ao interessado a sua cessação até um mês antes do seu termo, com fundamento num dos motivos referidos no n.º 2 do artigo 44.º do presente diploma.\n\n4 - O provimento do pessoal de chefia tributária é feito pelo director-geral, nos seguintes termos:\n\na) Chefes de repartição de finanças de nível I, de entre peritos tributários de 1.ª classe e peritos de fiscalização tributária de 1.ª classe com classificação de serviço não inferior a Bom no último triénio ou, não havendo candidatos nas condições indicadas, de entre funcionários aprovados em concurso para as referidas categorias, pela ordem em que se situam nas correspondentes listas classificativas e durante o prazo de validade dos respectivos concursos;\n\nb) Chefes de repartição de finanças de nível II e III e adjuntos de chefe de repartição de finanças de nível I e II, de entre peritos tributários de 2.ª classe e peritos de fiscalização tributária de 2.ª classe com classificação de serviço não inferior a Bom no último triénio ou, não havendo candidatos nas condições indicadas, de entre funcionários aprovados em concurso para as referidas categorias, pela ordem em que se situam nas correspondentes listas classificativas e durante o prazo de validade dos respectivos concursos.\n\n5 - Quando a nomeação para os cargos a que se refere o presente artigo se efectuar de entre funcionários nas condições indicadas na primeira parte das alíneas a) e b) do número anterior, os interessados serão ordenados mediante ponderação da antiguidade na categoria (Ant), expressa em anos completos de serviço, da avaliação do desempenho (Ad), expressa pela média da classificação de serviço no último triénio, e pela experiência de funções de chefe de repartição de finanças (Fc) ou de chefe ou adjunto de chefe de repartição de finanças (Fc), respectivamente, para os cargos de chefe de repartição de finanças de nível I e para os restantes cargos de chefia tributária, nos últimos 10 anos, expressa nos termos previstos para a antiguidade, de acordo com a seguinte fórmula:\n\n(Ant + Ad + 2(Fc))/4\n\n6 - No caso de igualdade de condições decorrente da aplicação da fórmula prevista no número anterior, ter-se-ão em conta, sucessivamente, os seguintes critérios:\n\na) Maior antiguidade na categoria;\n\nb) Maior antiguidade na carreira;\n\nc) Maior antiguidade na DGCI;\n\nd) Maior antiguidade na função pública.\n\n7 - A ordenação dos candidatos nos termos dos n.os 4 e 5 do presente artigo não impede a audiência dos directores distritais de finanças relativamente à existência de circunstâncias que ponham em causa a capacidade dos interessados para o adequado desempenho das funções.\n\n8 - O processo de nomeação a que se refere o presente artigo não se aplica aos funcionários que já estejam providos em cargos de chefia tributária, os quais poderão solicitar transferência para lugares de cargos idênticos aos que possuem ou que correspondam à seguinte equiparação:\n\na) Chefe de repartição de nível II/adjunto de chefe de repartição de nível I;\n\nb) Chefe de repartição de nível III/adjunto de chefe de repartição de nível II.\n\n9 - Os funcionários referidos na segunda parte das alíneas a) e b) do n.º 4 que sejam nomeados para os cargos nas mesmas indicados adquirem, para todos os efeitos, no quadro geral do pessoal da DGCI, as categorias para que possam ser nomeados na sequência do concurso.\n\n10 - Não podem ser nomeados para cargos de chefia tributária os funcionários aos quais nos cinco anos anteriores ao da data da nomeação tenha sido aplicada pena disciplinar superior a repreensão escrita.\n\n11 - Não é permitido o exercício de cargos de chefe de repartição de finanças de nível I e II sem que anteriormente os funcionários tenham desempenhado, pelo menos durante um ano, funções de chefe ou de adjunto de chefe de repartição de finanças.\n\n12 - Os funcionários providos em cargos de chefia tributária podem iniciar as respectivas funções antes da publicação do despacho de nomeação no Diário da República desde que essa intenção conste expressamente do referido despacho.\n\n13 - O procedimento para a nomeação do pessoal de chefia tributária inicia-se mediante despacho do director-geral em que constarão as vagas existentes e o prazo para a apresentação dos pedidos.\n\n14 - O disposto no número anterior não impede que os interessados sejam nomeados para lugares que fiquem vagos em resultado dos movimentos de transferências e de promoções.\n\n15 - Os chefes de repartição de finanças de nível II e os adjuntos de chefe de repartição de finanças de nível I que sejam promovidos à categoria imediata da respectiva carreira podem continuar providos no mesmo lugar até à cessação da comissão de serviço por algum dos motivos enunciados no artigo 44.º\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  },
+  "d236207a6b80716c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Cessação da comissão de serviço do pessoal de chefia tributária",
+   "in_force_from": "1997-02-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+   ],
+   "markdown": "###### Artigo 44.º — Cessação da comissão de serviço do pessoal de chefia tributária\n\n1 - A comissão de serviço do pessoal de chefia tributária cessa automaticamente:\n\na) Pela tomada de posse, seguida de exercício, noutro cargo ou função, a qualquer título, salvo nos casos em que houver lugar a suspensão ou for permitida a acumulação de funções;\n\nb) Pelo acesso a categoria diferente das que constituam a base de recrutamento para o cargo respectivo, sem prejuízo do disposto no n.º 15 do artigo 42.º do presente diploma;\n\nc) Por extinção ou reclassificação da repartição de finanças respectiva.\n\n2 - A comissão de serviço pode, a todo o tempo, ser dada por finda, por despacho fundamentado do director-geral, com base nos seguintes motivos:\n\na) Não comprovação superveniente de capacidades adequadas a garantir a execução das orientações superiormente definidas quanto ao funcionamento dos serviços e à aplicação das leis tributárias e instruções administrativas;\n\nb) Não realização, injustificada e reiteradamente, dos objectivos fixados nos planos de actividades;\n\nc) Na sequência de procedimento disciplinar de que resulte pena superior a repreensão escrita.\n\n3 - A comissão de serviço pode ainda ser dada por finda a requerimento do interessado, apresentado nos serviços com a antecedência mínima de 60 dias a contar da data da respectiva cessação, o qual será considerado deferido se, no prazo de 30 dias a contar da data de entrada do requerimento, o funcionário não for notificado do despacho de indeferimento.\n\n4 - Os funcionários a quem seja dada por finda a comissão de serviço regressam à carreira de origem, na categoria e escalão que lhes corresponder, e passarão a prestar actividade na direcção distrital de finanças ou direcção de finanças de que dependiam enquanto no desempenho de funções de chefia tributária, a menos que expressem outra pretensão que o director-geral entenda dever atender, até serem colocados num dos lugares dos quadros de contingentação, no âmbito do primeiro movimento de transferências que se seguir ao termo da comissão.\n\n5 - Em caso de cessação da comissão de serviço pelos motivos indicados nas alíneas a) e b) do n.º 2 do presente artigo, o funcionário não poderá candidatar-se a cargos de chefia tributária antes de decorridos três anos após a cessação.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  },
+  "74f253a4ef27c082": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Transferência",
+   "in_force_from": "1997-02-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+   ],
+   "markdown": "###### Artigo 46.º — Transferência\n\n1 - Os funcionários da DGCI, com excepção dos pertencentes ao grupo do pessoal dirigente, podem ser transferidos, a seu pedido ou por conveniência de serviço, para serviço a que corresponda quadro de contingentação diferente daquele em que se encontram colocados, desde que nele exista lugar vago na respectiva categoria.\n\n2 - As regras e critérios a que obedecerá a transferência a pedido dos funcionários serão definidas em regulamento a aprovar por despacho do Ministro das Finanças.\n\n3 - A transferência por conveniência de serviço será sempre fundamentada e carece da anuência do funcionário, caso se faça para serviço situado fora da sua área de residência.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  },
+  "da9ae071374720bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Alterações de legislação",
+   "in_force_from": "1997-02-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+   ],
+   "markdown": "###### Artigo 55.º — Alterações de legislação\n\n1 - O artigo 52.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, passa a ter a seguinte redacção:\n\n'Artigo 52.º\n\nNomeação\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\n2 - Na falta de candidatos com a classificação indicada nas alíneas a) e b) do número anterior, poderão ser admitidos às provas de selecção para juristas e economistas candidatos licenciados nos cursos aí previstos com classificação não inferior a 14 valores ou a Bom e aprovação em mestrado.\n\n2 - O artigo 2.º do [Decreto-Lei n.º 434/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1991-331853), de 8 de Novembro, passa a ter a seguinte redacção:\n\n'Artigo 2.º\n\nFuncionários das câmaras municipais\n\n1 - Os funcionários pertencentes aos quadros de pessoal das câmaras municipais que passaram a exercer funções nos serviços dos juízos dos tribunais tributários referidos no artigo precedente com as categorias de oficial administrativo, escriturário-dactilógrafo, telefonista, auxiliar administrativo e auxiliar de serviços gerais são integrados no quadro de pessoal da DGCI, sendo-lhes aplicável o disposto no artigo 36.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...'\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  }
+ }
+}

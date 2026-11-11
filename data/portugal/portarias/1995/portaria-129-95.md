@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-08-13'
+version_history:
+  file: portaria-129-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-02-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-08-13'
+    amending: pt:dre:423898:por
+    amending_title: Portaria n.º 410/98
+    changes:
+    - Altera Artigo unidades 18-21
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/129/1995/02/04/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:50:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 410/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-129-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,13 +179,9 @@ Manda o Governo, pelo Ministro da Indústria e Energia, que para a prestação d
 
 2.3 - Recipientes de 3.ª categoria - 6000$00.
 
-3 - Aprovação de modelo (garrafas de gás), nos termos das Portarias n.os [62-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/62-a-1993-449958), [62-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/62-b-1993-449959) e [62-C/93](https://diariodarepublica.pt/dr/detalhe/portaria/62-c-1993-449960), de 15 de Janeiro:
+3 - (Revogado.)
 
-3.1 - Abertura e instrução do processo e emissão do respectivo certificado, incluindo o certificado CE de tipo - 60000$00;
-
-3.2 - Aprovação de lotes (por garrafa) - 4$00;
-
-Num máximo, por lote - 2000$00.
+> Alterado pelo/a [Portaria n.º 410/98](https://diariodarepublica.pt/dr/detalhe/portaria/410-1998-423898), publicado em 1998-07-14.
 
 4 - Registo dos recipientes sob pressão - 2000$00.
 

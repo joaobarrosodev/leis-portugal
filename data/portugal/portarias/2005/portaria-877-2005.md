@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-05-17'
+version_history:
+  file: portaria-877-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-09-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-05-17'
+    amending: pt:dre:632188:por
+    amending_title: Portaria n.º 444/2006
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/877/2005/09/26/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:08:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 444/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-877-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,7 +146,9 @@ Ouvido o Conselho Cinegético Municipal de Ourique:
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Pela presente portaria é concessionada, pelo período de 12 anos, renováveis automaticamente por um período igual, a Silvino Fernando Raposo Soares, com o número de identificação fiscal 182332004, a zona de caça turística do Monte do Algaremo (processo n.º 4061-DGRF), com sede na Rua do Frei Amador Arrais, bloco B, 2, rés-do-chão, 7670 Ourique, englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Panoias, município de Ourique, com a área de 563 ha.
+1.º Pela presente portaria é concessionada, pelo período de 12 anos, renováveis automaticamente por um período igual, a Sílvio Fernando Raposo Soares, com o número de identificação fiscal 182332004, a zona de caça turística do Monte do Algaremo (processo n.º 4061-DGRF), com sede na Rua do Frei Amador Arrais, bloco B, 2, rés-do-chão, 7670 Ourique, englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Panoias, município de Ourique, com a área de 563 ha.
+
+> Alterado pelo/a [Portaria n.º 444/2006](https://diariodarepublica.pt/dr/detalhe/portaria/444-2006-632188), publicado em 2006-05-12.
 
 2.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
 

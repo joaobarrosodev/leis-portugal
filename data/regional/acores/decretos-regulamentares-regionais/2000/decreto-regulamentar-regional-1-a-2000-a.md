@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-01-22'
+version_history:
+  file: decreto-regulamentar-regional-1-a-2000-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-01-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-22'
+    amending: pt:dre:233713:por
+    amending_title: Decreto Regulamentar Regional n.º 4-A/2002/A
+    changes:
+    - Altera Artigo 23.º
+    - Altera Artigo 43.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/1-a/2000/01/03/a/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:29:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    4-A/2002/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/2000/decreto-regulamentar-regional-1-a-2000-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -532,9 +548,21 @@ b) Indivíduos detentores de habilitação profissional adequada para o exercíc
 
 3 - Condicionado à disponibilidade de meios humanos e materiais para garantia do processo de profissionalização em exercício, nos termos estabelecidos no artigo 122.º do Estatuto da Carreira Docente, e com o objectivo de satisfazer necessidades de grupos carenciados, podem ser fixados por portaria do secretário regional que tutele o sector da educação contingentes de lugares nos quadros de zona pedagógica, a serem preenchidos por indivíduos portadores de habilitação própria, nos termos da lei em vigor.
 
-4 - Os opositores ao concurso devem preencher os requisitos gerais e específicos constantes do artigo 22.º do Estatuto da Carreira Docente.
+4 - Podem concorrer a provimento por período não inferior a três anos, nos termos dos n.os 4 e 5 do artigo 25.º do presente Regulamento, os candidatos que satisfaçam, pelo menos, uma das seguintes condições:
 
-5 - No âmbito da afectação às escolas em lugares disponíveis não considerados para efeito do concurso interno, os docentes dos quadros de escola que pretendam ser opositores em situação de prioridade devem candidatar-se nos termos do disposto no artigo 35.º do presente Regulamento.
+a) Tenham sido bolseiros da Região Autónoma dos Açores durante pelo menos um dos anos lectivos do curso que lhes confere habilitação para a docência;
+
+b) Tenham realizado o estágio profissionalizante, mesmo quando este não seja remunerado, em escola da rede pública da Região Autónoma dos Açores;
+
+c) Tenham prestado pelo menos três anos de serviço docente, como docente profissionalizado, em escola da rede pública da Região Autónoma dos Açores;
+
+d) Tenham acedido ao ensino superior, para o curso que lhe confere habilitação para a docência, integrados no contingente da Região Autónoma dos Açores.
+
+5 - Os opositores ao concurso devem preencher os requisitos gerais e específicos constantes do artigo 22.º do Estatuto da Carreira Docente.
+
+6 - No âmbito da afectação às escolas em lugares disponíveis não considerados para efeito do concurso interno, os docentes dos quadros de escola que pretendam ser opositores em situação de prioridade devem candidatar-se nos termos do disposto no artigo 35.º do presente Regulamento.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 4-A/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-a-2002-233713), publicado em 2002-01-21.
 
 ###### Artigo 24.º — Candidatura
 
@@ -808,17 +836,23 @@ d) Tempo de serviço docente prestado em estabelecimento do ensino oficial e o p
 
 4 - Na ordenação dos candidatos consideram-se as seguintes prioridades:
 
-a) Professor profissionalizado não pertencente aos quadros que tenha sido opositor aos concursos externos para quadro de escola e ou quadro de zona pedagógica e que se candidata nessa qualidade;
+a) Candidato detentor de habilitação profissional, não pertencente aos quadros, que tenha sido opositor aos concursos externos para quadro de escola e ou quadro de zona pedagógica, concorrendo a provimento por período não inferior a três anos, e que se candidata nessa qualidade;
 
-b) Professor profissionalizado não pertencente aos quadros que se candidata nessa qualidade;
+b) Candidato detentor de habilitação profissional, não pertencente aos quadros, que se encontre em qualquer das condições estabelecidas no n.º 4 do artigo 23.º do presente Regulamento, e que se candidata nessa qualidade;
 
-c) Candidato que tenha concorrido ao concurso externo para os quadros de zona pedagógica com habilitação própria e que se candidata nessa qualidade;
+c) Candidato detentor de habilitação profissional, não pertencente aos quadros, que tenha sido opositor aos concursos externos para quadro de escola e ou quadro de zona pedagógica, e que se candidata nessa qualidade;
 
-d) Candidato portador de habilitação própria que se candidata nessa qualidade;
+d) Candidato detentor de habilitação profissional, não pertencente aos quadros, e que se candidata nessa qualidade;
 
-e) Candidato que tenha concorrido ao concurso externo para os quadros de zona pedagógica, com habilitação própria, para um grupo, subgrupo, disciplina ou especialidade e que se candidata a outro grupo na qualidade de portador de habilitação suficiente;
+e) Candidato que tenha concorrido ao concurso externo para os quadros de zona pedagógica, com habilitação própria e que se candidata nessa qualidade;
 
-f) Candidato portador de habilitação suficiente que deseje ser colocado em grupo, subgrupo, disciplina ou especialidade para que possua essa habilitação.
+f) Candidato portador de habilitação própria que se candidata nessa qualidade;
+
+g) Candidato que tenha concorrido ao concurso externo para os quadros de zona pedagógica, com habilitação própria, para um grupo, subgrupo, disciplina ou especialidade e que se candidata a outro grupo na qualidade de portador de habilitação suficiente;
+
+h) Candidato portador de habilitação suficiente, que deseje ser colocado em grupo, subgrupo, disciplina ou especialidade para que possua essa habilitação.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 4-A/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-a-2002-233713), publicado em 2002-01-21.
 
 ###### Artigo 44.º — Preferências
 

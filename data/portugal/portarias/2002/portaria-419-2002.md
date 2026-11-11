@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-10-04'
+version_history:
+  file: portaria-419-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-04-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-10-04'
+    amending: pt:dre:149396:por
+    amending_title: Portaria n.º 949/2005
+    changes:
+    - Altera Artigo unidades 41-41
+    - Altera Artigo unidades 44-44
+    - Altera Artigo unidades 47-47
+    - Altera Artigo unidades 50-50
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/419/2002/04/19/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:41:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 949/2005. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-419-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -229,22 +247,30 @@ QUADRO N.º 1
 
 1.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)
+
+> Alterado pelo/a [Portaria n.º 949/2005](https://diariodarepublica.pt/dr/detalhe/portaria/949-2005-149396), publicado em 2005-09-29.
 
 QUADRO N.º 2
 
 2.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)
+
+> Alterado pelo/a [Portaria n.º 949/2005](https://diariodarepublica.pt/dr/detalhe/portaria/949-2005-149396), publicado em 2005-09-29.
 
 QUADRO N.º 3
 
 3.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)
+
+> Alterado pelo/a [Portaria n.º 949/2005](https://diariodarepublica.pt/dr/detalhe/portaria/949-2005-149396), publicado em 2005-09-29.
 
 QUADRO N.º 4
 
 4.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39113913.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)](https://files.diariodarepublica.pt/1s/2005/09/188b00/58705872.pdf)
+
+> Alterado pelo/a [Portaria n.º 949/2005](https://diariodarepublica.pt/dr/detalhe/portaria/949-2005-149396), publicado em 2005-09-29.

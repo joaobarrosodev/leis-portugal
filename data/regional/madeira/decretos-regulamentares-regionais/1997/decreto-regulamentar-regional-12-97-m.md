@@ -38,10 +38,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-03-16'
+version_history:
+  file: decreto-regulamentar-regional-12-97-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-05-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-03-16'
+    amending: pt:dre:411355:por
+    amending_title: Decreto Regulamentar Regional n.º 5/2000/M
+    changes:
+    - Adita Artigo 13.º-A
+    - Adita Artigo 13.º-B
+    - Altera Artigo 3.º
+    - Revoga Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/12/1997/05/15/m/dre/pt/html
@@ -67,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    5/2000/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1997/decreto-regulamentar-regional-12-97-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -210,9 +230,7 @@ i) Promover e assegurar a gestão dos parques industriais.
 
 #### SECÇÃO I
 
-###### Artigo 3.º
-
-Estrutura
+###### Artigo 3.º — Estrutura
 
 A DRCI compreende os seguintes órgãos e serviços:
 
@@ -228,11 +246,11 @@ e) Direcção de Serviços do Comércio;
 
 f) Direcção de Serviços da Indústria;
 
-g) Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento;
+g) Direcção de Serviços de Energia;
 
-h) Direcção de Serviços de Energia;
+h) O Departamento dos Serviços Administrativos.
 
-i) Repartição dos Serviços Administrativos.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15.
 
 #### SECÇÃO II — Director regional
 
@@ -374,21 +392,9 @@ c) Divisão de Geologia e Minas.
 
 ###### Artigo 10.º — Competências e estrutura
 
-1 - O Serviço de Apoio às Pequenas e Médias Empresas e ao Investimento, abreviadamente designado por SAPMEI, é dirigido por um director de serviços e rege-se pelo [Decreto Regulamentar Regional n.º 11/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1981-565186), de 3 de Setembro, competindo-lhe, designadamente:
+(Revogado.)
 
-a) O acompanhamento e fiscalização dos investimentos com incentivos comunitários na Região Autónoma da Madeira, incluindo os da Zona Franca Industrial;
-
-b) Assegurar e coordenar a articulação, na Região, dos programas nacionais e comunitários, no âmbito das atribuições da DRCI;
-
-c) Assegurar a representação oficial dos apoios às PME, nomeadamente no que concerne às empresas comerciais e industriais, em todos os organismos nacionais e internacionais e em todas as iniciativas que se reportem a assuntos da especialidade.
-
-2 - O SAPMEI compreende as seguintes divisões:
-
-a) Divisão de Parques Industriais e Apoio ao Investimento;
-
-b) Divisão de Apoio às Pequenas e Médias Empresas, Acompanhamento e Controlo de Projectos;
-
-c) Divisão de Apoio à Criação de Empresas.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15.
 
 #### SECÇÃO IX — Direcção de Serviços de Energia
 
@@ -434,7 +440,7 @@ b) Divisão de Combustíveis.
 
 ###### Artigo 12.º — Competências
 
-À Repartição dos Serviços Administrativos, abreviadamente designada por RSA, compete, nomeadamente:
+Ao Departamento dos Serviços Administrativos, abreviadamente designado por DSA, compete, nomeadamente:
 
 a) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRCI;
 
@@ -443,6 +449,8 @@ b) Coordenar, promover a assegurar os procedimentos administrativos relativos a 
 c) Assegurar e controlar a execução orçamental da DRCI;
 
 d) Promover e assegurar a gestão dos recursos patrimoniais, numa perspectiva de optimização dos meios disponíveis, e zelar pela sua conservação, incluindo a dos edifícios e demais instalações afectos à DRCI.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15.
 
 ### CAPÍTULO III — Pessoal
 
@@ -470,6 +478,28 @@ h) Pessoal auxiliar.
 
 2 - O quadro de pessoal da DRCI será aprovado por portaria conjunta dos secretários regionais que tutelam as finanças e o sector.
 
+###### Artigo 13.º-A — Chefes de departamento
+
+1 - São criados no quadro de pessoal da DRCI dois lugares de chefe de departamento, a extinguir quando vagarem.
+
+2 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.
+
+3 - A transição referida no número anterior faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontra posicionado.
+
+4 - Quando da transição resulte um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeitos de progressão na nova categoria.
+
+5 - A transição produz efeitos a partir da data de integração na nova categoria.
+
+6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15.
+
+###### Artigo 13.º-B
+
+Com a entrada em vigor do presente diploma são extintos os lugares de chefe de repartição.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15.
+
 ###### Artigo 14.º — Regime
 
 1 - O pessoal dirigente é provido de acordo com o estabelecido no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, adaptado à Região pelo [Decreto Legislativo Regional n.º 8/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1991-475950), de 18 de Março.
@@ -480,17 +510,15 @@ h) Pessoal auxiliar.
 
 #### SECÇÃO II
 
-###### Artigo 15.º
-
-Categorias de operador de reprografia e de auxiliar de limpeza
+###### Artigo 15.º — Categorias de operador de reprografia e de auxiliar de limpeza
 
 1 - As categorias de operador de reprografia e de auxiliar de limpeza integram o grupo de pessoal auxiliar.
 
-2 - Os escalões salariais das categorias referidas no número anterior constam do anexo n.º 1 ao [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+2 - As categorias referidas no n.º 1 são consideradas horizontais para efeitos de progressão.
 
-3 - As categorias referidas no n.º 1 são consideradas horizontais para efeitos de progressão.
+3 - Sem prejuízo dos demais requisitos exigidos por lei, o ingresso naquelas categorias faz-se, mediante concurso, de entre indivíduos possuidores da escolaridade obrigatória.
 
-4 - Sem prejuízo dos demais requisitos exigidos por lei, o ingresso naquelas categorias faz-se, mediante concurso, de entre indivíduos possuidores da escolaridade obrigatória.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 5/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2000-411355), publicado em 2000-03-15.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 

@@ -38,10 +38,32 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-09-01'
+version_history:
+  file: decreto-lei-10-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-01-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-09-01'
+    amending: pt:dre:56152680:por
+    amending_title: Decreto-Lei n.º 125/2014
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/10/2003/01/18/p/dre/pt/html
@@ -67,7 +89,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:36:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 125/2014. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-10-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -235,63 +258,35 @@ Objecto
 
 ###### Artigo 2.º — Natureza e regime jurídico
 
-A Autoridade é uma pessoa colectiva de direito público, de natureza institucional, dotada de órgãos, serviços, pessoal e património próprios e de autonomia administrativa e financeira, sendo o seu regime jurídico definido nos Estatutos anexos ao presente diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18.
 
 ###### Artigo 3.º — Estatutos da Autoridade
 
-São aprovados os Estatutos da Autoridade, os quais constam de anexo ao presente diploma, de que fazem parte integrante.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18.
 
 ### CAPÍTULO II — Disposições finais e transitórias
 
 ###### Artigo 4.º — Período de instalação
 
-1 - A Autoridade é considerada como estando em condições de desempenhar a plenitude das suas atribuições no prazo de 60 dias contados a partir da data da entrada em vigor do presente decreto-lei.
+(Revogado.)
 
-2 - Os membros do conselho da Autoridade devem ser nomeados no prazo máximo de 30 dias contados a partir da data da entrada em vigor do presente diploma.
-
-3 - Compete aos membros do conselho da Autoridade, no decurso do prazo referido no n.º 1 deste artigo, praticar os actos necessários à assunção, pela Autoridade, da plenitude das suas atribuições, designadamente aprovar os regulamentos internos a que se referem os artigos 26.º e 27.º dos Estatutos e contratar o pessoal indispensável ao início das suas actividades.
-
-4 - Os encargos decorrentes do funcionamento da Autoridade, até ao termo do prazo referido no n.º 1 deste artigo, são suportados pelo orçamento do Ministério da Economia, podendo, para o efeito, ser movimentadas verbas dos capítulos I e II do referido orçamento.
-
-5 - A Secretaria-Geral do Ministério da Economia assegurará as instalações, equipamentos e outros meios necessários à actividade da Autoridade, durante o período referido no n.º 1 do presente artigo.
+> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18.
 
 ###### Artigo 5.º — Conselho da Concorrência e Direcção-Geral do Comércio e da Concorrência
 
-1 - No termo do prazo referido no n.º 1 do artigo anterior:
+(Revogado.)
 
-a) É extinto o Conselho da Concorrência;
-
-b) A Autoridade passa a exercer as competências conferidas à Direcção-Geral do Comércio e da Concorrência pelo [Decreto-Lei n.º 370/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1993-664318), de 29 de Outubro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 140/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), de 16 de Maio, sem prejuízo do disposto no número seguinte.
-
-2 - A Direcção-Geral do Comércio e da Concorrência continua a exercer, até à publicação de novo diploma orgânico, as competências que lhe estão legalmente conferidas que não colidam com as atribuições cometidas à Autoridade pelo presente diploma.
+> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18.
 
 ###### Artigo 6.º — Articulação com autoridades reguladoras sectoriais
 
-1 - As atribuições cometidas à Autoridade pelos Estatutos anexos ao presente diploma são por aquela desempenhadas sem prejuízo do respeito pelo quadro normativo aplicável às entidades reguladoras sectoriais.
+(Revogado.)
 
-2 - A lei definirá os modos de intervenção ou participação da Autoridade em questões ou processos relativos a domínios submetidos a regulação sectorial, na medida necessária à salvaguarda dos objectivos prosseguidos pela legislação de concorrência.
-
-3 - A lei definirá, igualmente, as obrigações das autoridades reguladoras sectoriais relativamente às práticas restritivas da concorrência de que tenham conhecimento no desempenho das suas atribuições, bem como à colaboração com a Autoridade em matérias sujeitas a regulação sectorial.
-
-4 - Para efeitos do disposto neste artigo, constituem entidades reguladoras sectoriais, entre outras, as seguintes:
-
-a) Banco de Portugal (BP);
-
-b) Instituto de Seguros de Portugal (ISP);
-
-c) Comissão do Mercado de Valores Mobiliários (CMVM);
-
-d) Entidade Reguladora dos Serviços Energéticos (ERSE);
-
-e) ICP - Autoridade Nacional de Comunicações (ICP - ANACOM);
-
-f) Instituto Regulador das Águas e Resíduos (IRAR);
-
-g) Instituto Nacional do Transporte Ferroviário (INTF);
-
-h) Instituto Nacional de Aviação Civil (INAC);
-
-i) Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário (IMOPPI).
+> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18.
 
 ###### Artigo 7.º — Referências legais
 
@@ -299,35 +294,27 @@ As referências, contidas em preceitos legais não revogados pelo presente diplo
 
 ###### Artigo 8.º — Transmissão de processos
 
-1 - Os processos que se encontrem pendentes na Direcção-Geral do Comércio e da Concorrência e no Conselho da Concorrência no 30.º dia anterior ao termo do prazo referido no n.º 1 do artigo 4.º do presente diploma são, nessa data, remetidos oficiosamente à Autoridade.
+(Revogado.)
 
-2 - Nos casos a que se refere o número anterior, os prazos procedimentais, processuais ou substantivos consideram-se automaticamente suspensos, na primeira data ali referida, reiniciando-se a sua contagem no 30.º dia posterior ao termo do prazo referido no n.º 1 do artigo 4.º deste diploma, sem prejuízo do disposto no número seguinte
-
-3 - Os prazos procedimentais em procedimentos de autorização prévia de operações de concentração de empresas abrangidos pelo disposto no n.º 1 do presente artigo interrompem-se no 30.º dia anterior ao termo do prazo referido no n.º 1 do artigo 4.º do presente diploma, iniciando-se nova contagem no dia seguinte ao termo do referido prazo.
-
-4 - Nos casos abrangidos pelo disposto no número anterior, o prazo máximo de decisão do Conselho é, sob pena de deferimento tácito, de 30 ou 60 dias, consoante estejam em causa processos que se encontravam pendentes, na data referida no n.º 1 do presente artigo, respectivamente, no Conselho da Concorrência ou na Direcção-Geral do Comércio e da Concorrência.
-
-5 - As notificações, denúncias, comunicações e demais documentos recebidos na Direcção-Geral do Comércio e da Concorrência ou no Conselho da Concorrência posteriormente ao 30.º dia anterior ao termo do prazo referido no n.º 1 do artigo 4.º deste diploma são imediatamente remetidos à Autoridade, iniciando-se, nestes casos, o cômputo dos prazos procedimentais, processuais ou substantivos a que houver lugar no dia seguinte ao termo do prazo referido no citado preceito legal.
+> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18.
 
 ###### Artigo 9.º — Operações de concentração
 
-Até à publicação de diploma que estabeleça novas regras procedimentais em matéria de procedimentos de autorização prévia de operações de concentração de empresas, o n.º 1 do artigo 31.º do [Decreto-Lei n.º 371/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1993-664319), de 29 de Outubro, passa a ter a seguinte redacção:
+(Revogado.)
 
-«A Autoridade decide no prazo máximo de 60 dias, contado a partir da data da recepção da notificação, valendo a ausência de decisão no referido prazo como não oposição à operação de concentração.»
+> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18.
 
 ###### Artigo 10.º — Recursos
 
-Até à entrada em vigor de diploma que estabeleça o regime processual dos recursos a que refere o n.º 2 do artigo 38.º dos Estatutos anexos a este diploma, as decisões aí previstas são impugnáveis junto dos tribunais administrativos, de acordo com as regras gerais aplicáveis ao contencioso administrativo.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18.
 
 ###### Artigo 11.º — Norma revogatória
 
-No termo do prazo referido no n.º 1 do artigo 4.º, são revogados:
+(Revogado.)
 
-a) Os artigos 12.º a 20.º, 27.º, 28.º, 32.º, 33.º, 34.º, n.os 1 e 2, 35.º e 39.º, todos do [Decreto-Lei n.º 371/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1993-664319), de 29 de Outubro, na redacção que lhe foi dada pela [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de Janeiro;
-
-b) O n.º 3 do artigo 5.º, o artigo 6.º, na parte respeitante à competência para instrução de processos, e o artigo 7.º, todos do [Decreto-Lei n.º 370/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1993-664318), de 29 de Outubro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 140/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), de 16 de Maio;
-
-c) A alínea a) do artigo 9.º e o artigo 33.º do [Decreto-Lei n.º 222/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846), de 25 de Novembro.
+> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18.
 
 Visto e aprovado em Conselho de Ministros de 20 de Novembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
 

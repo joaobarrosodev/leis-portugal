@@ -38,10 +38,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-04-30'
+version_history:
+  file: despacho-normativo-41-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-04-30'
+    amending: pt:dre:544665:por
+    amending_title: Despacho Normativo n.º 23/2003; Despacho Normativo n.º 28/2005
+    changes:
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 20-20
+    - Altera Artigo unidades 26-26
+    - Altera Artigo unidades 29-29
+    - Altera Artigo unidades 30-30
+    - Altera Artigo unidades 39-39
+    - Altera Artigo unidades 42-42
+    - Altera Artigo unidades 44-45
+    - Altera Artigo unidades 48-48
+    - Altera Artigo unidades 52-54
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/41/2002/07/30/p/dre/pt/html
@@ -67,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:39:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 23/2003; Despacho
+    Normativo n.º 28/2005. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2002/despacho-normativo-41-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +168,9 @@ O Sistema de Incentivos à Aquisição de Alevins não Selvagens visa incentivar
 
 Condições de acesso
 
-1 - As candidaturas a este apoio são apresentadas pelos titulares dos estabelecimentos de culturas de espécies marinhas, devidamente legalizados à data da sua apresentação, devendo as mesmas dizer respeito a estabelecimentos com produção declarada no ano anterior ao da apresentação da candidatura ou, caso contrário, apresentar justificação, que será apreciada pela Direcção-Geral das Pescas e Aquicultura (DGPA).
+1 - As candidaturas a este apoio são apresentadas pelos titulares dos estabelecimentos de culturas de espécies marinhas, devidamente legalizados à data da sua apresentação, devendo as mesmas dizer respeito a estabelecimentos com produção declarada nos dois anos imediatamente anteriores ao da candidatura ou, caso contrário, apresentar justificação que será apreciada pela Direcção-Geral das Pescas e Aquicultura (DGPA).
+
+> Alterado pelo/a [Despacho Normativo n.º 28/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2005-532431), publicado em 2005-04-29.
 
 2 - Os promotores devem ter a situação regularizada perante a administração fiscal, a segurança social e as entidades pagadoras de qualquer apoio público.
 
@@ -152,7 +178,9 @@ Condições de acesso
 
 Critérios de prioridade
 
-Para efeitos de atribuição da concessão de apoio financeiro, considera-se prioritário o apoio às candidaturas relativas ao repovoamento dos estabelecimentos que funcionam em regime de exploração semi-intensivo, seguindo-se os explorados em regimes intensivo e extensivo.
+Para efeitos de atribuição da concessão de apoio financeiro, considera-se prioritário o apoio às candidaturas relativas ao repovoamento dos estabelecimentos que funcionam em regime de exploração semi-intensivo, seguindo-se os explorados em regimes extensivo e intensivo.
+
+> Alterado pelo/a [Despacho Normativo n.º 28/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2005-532431), publicado em 2005-04-29.
 
 4.º
 
@@ -164,15 +192,27 @@ Não são elegíveis as despesas relativas a repovoamentos verificados antes da 
 
 Montante dos apoios
 
-Os apoios a conceder correspondem a uma comparticipação do Estado de 25% do custo elegível dos alevins a adquirir.
+Os apoios a conceder correspondem a uma comparticipação do Estado que pode representar até 25% do custo elegível dos alevins a adquirir.
+
+> Alterado pelo/a [Despacho Normativo n.º 23/2003](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2003-544665), publicado em 2003-05-26.
 
 6.º
 
 Apresentação das candidaturas e decisão
 
-1 - As candidaturas são formalizadas através do preenchimento de impressos próprios, que são entregues na DGPA ou nos respectivos serviços regionais, acompanhados de requerimento, dirigido ao Ministro da Agricultura, Desenvolvimento Rural e Pescas, e dos documentos constantes da listagem anexa aos referidos impressos.
+1 - O processo de candidatura deverá ser entregue na DGPA ou respectivos serviços regionais, instruído com:
 
-2 - As candidaturas são entregues na DGPA até 15 de Maio, devendo ser objecto de decisão até 31 de Outubro, salvo se não estiverem disponíveis as necessárias dotações orçamentais.
+a) Impressos próprios, devidamente preenchidos, acompanhados de requerimento dirigido ao membro do Governo responsável pelo sector das pescas e dos documentos constantes da listagem anexa aos referidos impressos;
+
+b) Fotocópia das declarações do IRS/IRC relativas aos dois últimos anos;
+
+c) Declaração da produção por espécie (quantidades), por estabelecimento e por empresa, nos últimos dois anos.
+
+> Alterado pelo/a [Despacho Normativo n.º 28/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2005-532431), publicado em 2005-04-29.
+
+2 - A data limite de apresentação de candidaturas é 31 de Março de cada ano, devendo as mesmas ser objecto de decisão até 7 de Outubro do ano em causa.
+
+> Alterado pelo/a [Despacho Normativo n.º 28/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2005-532431), publicado em 2005-04-29.
 
 3 - A decisão sobre as candidaturas é da competência do membro do Governo responsável pelo sector das pescas.
 
@@ -190,25 +230,51 @@ Acompanhamento de execução material
 
 Prazos para execução dos projectos
 
-Os projectos aprovados são executados no prazo máximo de um ano contado a partir da data em que o beneficiário é notificado da concessão de apoio, sendo que a libertação dos subsídios está condicionada à finalização (material e financeira) de projectos anteriores com eles relacionados.
+1 - Os projectos aprovados devem ser executados no prazo máximo de 90 dias contado a partir da data em que o beneficiário é notificado da concessão do apoio, com ressalva do disposto no número seguinte.
+
+2 - Caso o pagamento do apoio tenha lugar antecipadamente, nos termos do disposto na alínea b) do n.º 2 do artigo seguinte, o prazo para execução material e financeira do projecto é de um ano a contar da data em que ocorrer aquele pagamento.
+
+> Alterado pelo/a [Despacho Normativo n.º 28/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2005-532431), publicado em 2005-04-29.
 
 9.º
 
 Pagamento dos apoios
 
-1 - O pagamento dos apoios financeiros poderá revestir uma das seguintes modalidades:
+1 - O pagamento dos apoios financeiros relativos aos projectos aprovados será efectuado por conta das dotações inscritas no Orçamento do Estado do ano seguinte ao da aprovação daqueles.
+
+2 - O pagamento dos apoios financeiros poderá efectuar-se de acordo com uma das seguintes modalidades:
+
+> Alterado pelo/a [Despacho Normativo n.º 28/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2005-532431), publicado em 2005-04-29.
 
 a) O apoio atribuído é pago ao beneficiário, via transferência bancária, após a conclusão material do projecto, comprovada mediante a realização de uma vistoria pela DGPA e a apresentação, pelo beneficiário, dos documentos de despesa definitivos que comprovam o investimento realizado;
 
-b) O apoio atribuído é pago antes da conclusão material e financeira do projecto contra a apresentação de garantia bancária ou seguro-caução, pelo valor do subsídio líquido, válidos por um período indeterminado ou por um período automaticamente renovável, prestada pelo beneficiário, fornecedores ou associações/organizações de produtores ou de industriais.
+b) O apoio atribuído é pago ao beneficiário, via transferência bancária, antes da conclusão material e financeira do projecto contra a apresentação de garantia bancária ou seguro-caução, prestada pelo mesmo, pelo valor do subsídio líquido, válidos por um período indeterminado ou por um período automaticamente renovável.
 
-2 - Os beneficiários comparticipam nas despesas inerentes ao acompanhamento dos projectos pela DGPA com o valor de 1% sobre o montante ilíquido de cada subsídio atribuído.
+3 - Para efeitos do disposto na alínea a) do número anterior, deverão os beneficiários remeter à DGPA, no prazo máximo de 90 dias contados da data de envio do ofício de notificação da concessão do apoio, a seguinte documentação:
+
+a) Documentos de despesa originais (facturas e recibos que poderão ser substituídos por documentos afins), numerados e com data igual ou posterior à data de entrada da candidatura na DGPA;
+
+b) Pedido(s) de vistoria(s), de acordo com o estipulado no artigo 7.º, complementados pelas correspondentes guias de transporte/remessa;
+
+c) Certidões comprovativas em como está regularizada a situação contributiva junto da administração fiscal e da segurança social.
+
+4 - A opção pela modalidade de pagamento prevista na alínea b) do n.º 2 está sujeita a autorização prévia da DGPA, devendo a garantia bancária ou o seguro-caução, bem como as certidões referidas na alínea c) do número anterior, ser apresentados na referida Direcção-Geral até final do 3.º trimestre do ano em que ocorre o pagamento.
+
+5 - Os beneficiários comparticipam nas despesas inerentes ao acompanhamento dos projectos pela DGPA com o valor de 1% sobre o montante líquido de cada subsídio atribuído.
+
+6 - Excepcionalmente, havendo disponibilidade financeira, o membro do Governo responsável pelo sector das pescas pode autorizar o pagamento do apoio por verbas respeitantes ao próprio ano de entrada da candidatura na DGPA.
+
+> Alterado pelo/a [Despacho Normativo n.º 28/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2005-532431), publicado em 2005-04-29.
 
 10.º
 
 Libertação de garantias bancárias e seguros-caução
 
-A libertação das garantias bancárias ou dos seguros-caução tem lugar após a confirmação pela DGPA de que os projectos a que respeitam se encontram material e financeiramente concluídos, mediante a realização de vistoria e verificação dos documentos definitivos de despesa apresentados pelos beneficiários.
+1 - A libertação das garantias bancárias ou dos seguros-caução tem lugar após a confirmação pela DGPA de que os projectos a que respeitam se encontram material e financeiramente concluídos.
+
+2 - Para efeitos do disposto no número anterior, os beneficiários devem remeter à DGPA no prazo de 30 dias a contar da data referida no n.º 2 do artigo 8.º os documentos referidos nas alíneas a) e b) do n.º 3 do artigo anterior.
+
+> Alterado pelo/a [Despacho Normativo n.º 28/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2005-532431), publicado em 2005-04-29.
 
 11.º
 
@@ -216,11 +282,15 @@ Incumprimento
 
 1 - A não utilização dos apoios concedidos, sem justificação aceite pelo membro do Governo responsável pelo sector das pescas, determina o impedimento da apresentação da nova candidatura no âmbito deste Regulamento, ou de outro que o substitua, por um período de dois anos.
 
-2 - Nos casos em que os beneficiários não tenham dado cumprimento ao disposto no n.º 8.º, deverão os mesmos repor nos cofres do Estado a totalidade ou a parte do subsídio não aplicada. Quando se verifique ter havido a libertação prévia do subsídio e haja incumprimento na execução dos projectos, ao montante a repor nos cofres do Estado deverão ser acrescidos os respectivos juros legais, nos termos do disposto no artigo 559.º do Código Civil.
+2 - O incumprimento pelos beneficiários das obrigações decorrentes do presente diploma constitui fundamento para ser determinada a perda total ou parcial do apoio atribuído.
 
-3 - A entrega destas verbas deverá efectuar-se num prazo máximo de 15 dias úteis após a notificação do beneficiário explicitando a quantia a devolver.
+3 - Quando se verifique ter havido o pagamento prévio do subsídio, de acordo com o previsto na alínea b) do n.º 2 do artigo 9.º, e haja incumprimento na execução dos projectos, ao montante a repor nos cofres do Estado deverão ser acrescidos os respectivos juros legais, nos termos do disposto no artigo 559.º do Código Civil.
 
-4 - A não reposição deste montante no prazo indicado implicará o envio do processo à repartição de finanças correspondente ao domicílio do beneficiário para efeitos de execução fiscal.
+4 - A reposição da verba referida no número anterior nos cofres do Estado deverá efectuar-se num prazo máximo de 15 dias úteis após a notificação do beneficiário, explicitando a quantia a devolver.
+
+5 - A não reposição deste montante no prazo indicado implicará o envio do processo à repartição de finanças correspondente ao domicílio do beneficiário para efeitos de execução fiscal.
+
+> Alterado pelo/a [Despacho Normativo n.º 28/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-2005-532431), publicado em 2005-04-29.
 
 12.º
 

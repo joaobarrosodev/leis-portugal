@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-07-13'
+version_history:
+  file: portaria-907-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-10-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-07-13'
+    amending: pt:dre:2644757:por
+    amending_title: Portaria n.º 987/2000 (2.ª série)
+    changes:
+    - Adita Artigo depois da unidade 23
+    - Adita Artigo depois da unidade 36
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/907/1999/10/13/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:18:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 987/2000 (2.ª série).
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-907-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,6 +175,12 @@ p) Um representante da APIEE - Associação Portuguesa dos Industriais de Energi
 
 q) Um representante da APORBET - Associação Portuguesa de Fabricantes de Misturas Betuminosas.
 
+r) Um representante de um serviço do Governo Regional dos Açores ou de um organismo autónomo com funções no âmbito das obras públicas e particulares;
+
+s) Um representante de um serviço do Governo Regional da Madeira ou de um organismo autónomo com funções no âmbito das obras públicas e particulares;
+
+> Aditado pelo/a [Portaria n.º 987/2000 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/987-2000-2644757), publicado em 2000-07-12.
+
 2.º Da 1.ª secção da CCEOPP fazem parte as entidades referidas no número anterior, com excepção das previstas nas alíneas g), h) e i).
 
 3.º Da 2.ª secção fazem parte as entidades referidas no número anterior, com excepção das previstas nas alíneas g), h), i), l), m) e n) do n.º 1.º
@@ -184,6 +206,12 @@ h) Um representante da AECOPS - Associação de Empresas de Construção de Obra
 i) Um representante da ANEOP - Associação Nacional de Empreiteiros de Obras Públicas;
 
 j) Um representante da APCMC - Associação Portuguesa dos Comerciantes de Materiais de Construção.
+
+l) Um representante de um serviço do Governo Regional dos Açores ou de um organismo autónomo com funções no âmbito das obras públicas e particulares;
+
+m) Um representante de um serviço do Governo Regional da Madeira ou de um organismo autónomo com funções no âmbito das obras públicas e particulares;
+
+> Aditado pelo/a [Portaria n.º 987/2000 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/987-2000-2644757), publicado em 2000-07-12.
 
 5.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-03-23'
+version_history:
+  file: portaria-331-g-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-04-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-03-23'
+    amending: pt:dre:326324:por
+    amending_title: Decreto-Lei n.º 59/85
+    changes:
+    - Altera Artigo unidades 21-22
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:43:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 59/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-331-g-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,9 +180,11 @@ c) Preço de venda no local da entrega.
 
 6.º As margarinas com as características específicas da Flora e da Becel só poderão ser vendidas pelas fábricas ou seus armazéns aos adquirentes que possuam rede de frio completa (transporte e armazém).
 
-7.º Na embalagem de todas as margarinas deve constar, de forma bem legível e facilmente visível pelo consumidor, a data de fabrico, não podendo a sua comercialização exceder o prazo de cem dias sobre aquela data.
+7.º - (Revogado.)
 
-8.º Quando for ultrapassado o prazo de validade da margarina, fica o fabricante obrigado a receber o produto por 50% do seu valor de custo.
+8.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 59/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1985-326324), publicado em 1985-03-11.
 
 9.º - 1 - Os retalhistas poderão abastecer-se nas empresas produtoras ou seus armazéns desde que o produto esteja devidamente embalado, ficando aquelas empresas obrigadas a satisfazer encomendas, aos preços de venda à porta de fábrica, para entregas, por uma só vez, dos seguintes quantitativos mínimos:
 

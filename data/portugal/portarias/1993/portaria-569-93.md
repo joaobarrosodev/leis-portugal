@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-04'
+version_history:
+  file: portaria-569-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-06-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-04'
+    amending: pt:dre:641995:por
+    amending_title: Decreto-Lei n.º 229/97
+    changes:
+    - Altera Artigo unidades 26-26
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/569/1993/06/02/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:59:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 229/97. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-569-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,7 +179,9 @@ m) Definir e promover sistemas de orientação escolar e profissional;
 
 n) Colaborar na definição de prioridades para a educação física e desporto escolar e coordenar as actividades neste domínio;
 
-o) Coordenar a elaboração das provas de exame e de aferição e verificar o normal processo de avaliação dos alunos do ensino secundário;
+o) (Revogada.)
+
+> Alterado pelo/a [Decreto-Lei n.º 229/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1997-641995), publicado em 1997-08-30.
 
 p) Conceber e coordenar um sistema de educação recorrente de adultos, ao nível do ensino secundário;
 

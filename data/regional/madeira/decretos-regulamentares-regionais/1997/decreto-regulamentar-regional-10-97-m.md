@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-03-22'
+version_history:
+  file: decreto-regulamentar-regional-10-97-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-05-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-03-22'
+    amending: pt:dre:515269:por
+    amending_title: Decreto Regulamentar Regional n.º 14/2000/M
+    changes:
+    - Adita Artigo 19.º
+    - Altera Artigo 3.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/10/1997/05/12/m/dre/pt/html
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    14/2000/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1997/decreto-regulamentar-regional-10-97-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -193,9 +211,7 @@ l) Propor todas as acções de promoção, estímulo e captação de investiment
 
 #### SECÇÃO I
 
-###### Artigo 3.º
-
-Estrutura
+###### Artigo 3.º — Estrutura
 
 A DRCE compreende os seguintes órgãos e serviços:
 
@@ -211,7 +227,9 @@ e) Serviços de Informática;
 
 f) Centro de Informação e Documentação;
 
-g) Repartição dos Serviços Administrativos.
+g) Departamento dos Serviços Administrativos e de Arquivo.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21.
 
 #### SECÇÃO II — Director regional
 
@@ -361,35 +379,41 @@ d) Assegurar a gestão e funcionamento da biblioteca.
 
 ###### Artigo 10.º — Natureza e estrutura
 
-1 - A Repartição dos Serviços Administrativos, abreviadamente designada por RSA, é o serviço de apoio administrativo e logístico da DRCE e funciona na directa dependência do director regional.
+1 - O Departamento dos Serviços Administrativos e de Arquivo, abreviadamente designado por DSAA, é o serviço de apoio administrativo e logístico da DRCE e funciona na directa dependência do director regional.
 
-2 - A RSA compreende as seguintes secções:
+2 - O DSAA compreende as seguintes secções:
 
-a) Secção de Registo e Expediente;
+a) Secção do Secretariado Administrativo;
 
-b) Secção do Secretariado Administrativo;
+b) Secção de Pessoal;
 
-c) Secção de Arquivo;
+c) Secção de Registo e Expediente;
 
-d) Secção de Pessoal;
+d) Secção de Arquivo;
 
 e) Secção de Contabilidade e Património.
 
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21.
+
 ###### Artigo 11.º — Competências
 
-À RSA compete:
+Ao DSAA compete:
 
 a) Assegurar o apoio administrativo e logístico a todos os serviços dependentes da DRCE, bem como à Comissão Regional para os Assuntos das Comunidades Europeias;
 
 b) Promover e assegurar todas as acções relativas à gestão corrente e previsional do pessoal da DRCE, designadamente organizar e manter actualizados os ficheiros de cadastro e dos processos individuais;
 
-c) Assegurar o registo, encaminhamento, arquivo, expedição de documentação, contabilidade e património;
+c) Assegurar a recepção, classificação, registo e encaminhamento de documentos;
 
-d) Assegurar e controlar a execução orçamental da DRCE;
+d) Assegurar o tratamento, acondicionamento e gestão de documentos e proceder à organização do serviço de arquivo;
 
-e) Assegurar a aquisição do material necessário ao bom funcionamento dos serviços, bem como a respectiva gestão;
+e) Assegurar e controlar a execução orçamental da DRCE;
 
-f) Velar pela segurança e conservação das instalações e dos equipamentos.
+f) Assegurar a aquisição do material necessário ao bom funcionamento dos serviços, bem como a respectiva gestão;
+
+g) Velar pela segurança e conservação das instalações e dos equipamentos.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21.
 
 ### CAPÍTULO III — Pessoal
 
@@ -440,3 +464,19 @@ MAPA ANEXO A QUE SE REFERE O ARTIGO 13.º
 Direcção Regional das Comunidades Europeias e da Cooperação Externa
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/109b00/22942300.pdf)
+
+###### Artigo 19.º — Chefes de departamento
+
+1 - É criado no quadro de pessoal da DRCE um lugar de chefe de departamento, a extinguir quando vagar.
+
+2 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.
+
+3 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontram posicionados.
+
+4 - Quando da transição resulte um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeito de progressões futuras.
+
+5 - A transição produz efeitos a partir da data de integração na nova categoria.
+
+6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 14/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-515269), publicado em 2000-03-21.

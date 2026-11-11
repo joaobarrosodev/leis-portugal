@@ -1,0 +1,962 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:576568:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1964-05-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bb5e2940a8bfde93",
+    "390e83cedf0e6d46",
+    "0be51609249c2cbf",
+    "8249254fba43da3b",
+    "d9d5612ac827a84f",
+    "f36972f1ff92dbbe",
+    "1542c0a4631c36c8",
+    "058fd1eff7124b9a",
+    "6a20cd8c1e02c5ab",
+    "c23979fc55bdb7f4",
+    "af6de83ac164d8b3",
+    "5af4a8b452214549",
+    "76f87c7452f844f9",
+    "9c896e981f9a7a4d",
+    "24f9deee4904067f",
+    "4361bce89502f877",
+    "da9a40a911299ca8",
+    "748b759ca1ff3462",
+    "4e95d917b657c216",
+    "aed3501388cdbd70",
+    "dc910d4c82a2d30e"
+   ]
+  },
+  {
+   "date": "1969-09-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:214915:por",
+     "title": "Decreto n.º 49227",
+     "published": "1969-09-05",
+     "dre_path": "/dr/detalhe/decreto/49227-1969-214915"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "7697534d30be78e8",
+    "41ac2242bae70d93",
+    "390e83cedf0e6d46",
+    "fc60aac71117f603",
+    "5d4bad695c81d10f",
+    "86f68c2c29dab324",
+    "9d32dc2ede70a831",
+    "bad4fb02a09ebeb6",
+    "8249254fba43da3b",
+    "f49ca575a6a95cb3",
+    "41cc9d51013a045d",
+    "3d1f6331ce91b323",
+    "c9173f8d939bc204",
+    "8941ec1fbb304428",
+    "6884f51db107d081",
+    "2c34d77cafafbd60",
+    "c8e62ae97db98d8b",
+    "b321a5be137869be",
+    "d2488d774b2c2f7a",
+    "77666c9d3ee9577b",
+    "3229eff064ce85c7",
+    "21058ac56c4c3055",
+    "4493e3d15e3c906c",
+    "c1a3cd3694968a28",
+    "835f7d4be349388c",
+    "7f3e5a01ef145263",
+    "cc51d76d3b645f71",
+    "af6de83ac164d8b3",
+    "f49ca575a6a95cb3",
+    "544e9b28d2d71418",
+    "a86b3292683e8d2e",
+    "76f87c7452f844f9",
+    "484decff277ccfc3",
+    "47238fc8ee917b58",
+    "24f9deee4904067f",
+    "89bbe7307d5ab097",
+    "06a847d6e8cefd8d",
+    "6ac598992441a33f",
+    "0ee4f6eefd39dc97",
+    "4dc3a4124bbd28b8",
+    "a67f4ee5b551743d",
+    "6b57f30dfb4c01c3",
+    "abb96858ddcbcbc3",
+    "d32860a3e78a251e",
+    "988f06688ebcff3c",
+    "ba82537cd6f6c7e5",
+    "551d69341cc93227",
+    "a8105f5cacc297ee",
+    "fd9f4f7361bcab0f",
+    "a2dd74d823c379a2",
+    "012fa9a45ef31cfd",
+    "18182093669a9245",
+    "ef70e889af2271ff",
+    "ddbb6beb3dcfe1c1",
+    "41ffc57c6c2e9d1e",
+    "8247ccf74f31ad4b",
+    "b4dd793c70da5a8e",
+    "0e5a31f8983c4e7f",
+    "7961368b9379adda",
+    "c1025a5268b36e24",
+    "9b05399ad9364426",
+    "3e7a5fc45c67097d",
+    "748b785e0598deba",
+    "7c8900834e6f6d62",
+    "ee9c749cc0a39856",
+    "3f9d26653689d137",
+    "eb2d9716988251dd",
+    "6221fa7ad3bea163",
+    "b7489e777562951c",
+    "634e7184e337e4ef",
+    "6424fb2af67ba583",
+    "24f775a7f1698e70",
+    "e00851fcb8430059",
+    "974253dac2004c71",
+    "a3a54648753bf581",
+    "3aadab02d9ace589",
+    "3685e3b2a374e4e0",
+    "7d40648b129ce1e9",
+    "c4ae8068ebb6774f",
+    "de4785d3097dbd8b",
+    "b7194d09847261a4",
+    "0f1d9dbef42a2a93",
+    "3f4c2f16344c1faa",
+    "d745e74a7e120c50",
+    "c7684c647133f4bc",
+    "3a0ef7245f13b371",
+    "7e7c30c164617315"
+   ]
+  }
+ ],
+ "fragments": {
+  "bb5e2940a8bfde93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Desde a sua criação que o Corpo de Polícia de Segurança Pública da Guiné se vem regulando por um diploma cuja publicação data de 1944 e de há muito deixou de satisfazer as exigências do serviço, quer sob o aspecto funcional quer sob o aspecto orgânico.\n\nAs correspondentes corporações de Angola e Moçambique viram já publicados os seus estatutos privativos com os necessários ajustamentos, cabendo agora à província da Guiné possuir também o seu estatuto.\n\nCircunstâncias especiais impedem por agora alargar os seus quadros e melhorar a situação do seu pessoal, como era desejo do Governo, o que será feito à medida que as possibilidades o permitam.\n\nNestes termos:\n\nOuvido o Conselho Ultramarino e sob proposta do Governo da província da Guiné;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:\n\nArtigo único. É aprovado o Estatuto do Corpo de Polícia de Segurança Pública da Guiné, que faz parte integrante deste diploma e vai assinado pelo Ministro do Ultramar.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 29 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.\n\nPara ser publicado no Boletim Oficial da Guiné. - Peixoto Correia.\n\nESTATUTO DO CORPO DE POLÍCIA DE SEGURANÇA PÚBLICA DA GUINÉ"
+  },
+  "390e83cedf0e6d46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Da organização do Corpo de Polícia de Segurança Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Da organização do Corpo de Polícia de Segurança Pública"
+  },
+  "0be51609249c2cbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições preliminares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições preliminares\n\nArtigo 1.º O Corpo de Polícia de Segurança Pública da Guiné constitui um organismo militarizado directamente dependente do Governo da província.\n\nArt. 2.º O Corpo de Polícia de Segurança Pública tem por missão assegurar, de um modo geral, a tranquilidade e a ordem pública e a prevenção e repressão da criminalidade.\n\nArt. 3.º Compete especialmente ao Corpo de Polícia de Segurança Pública:\n\n1.º Exercer o policiamento das ruas e lugares públicos, bem como de todas as solenidades, festas, espectáculos e reuniões públicas.\n\n2.º Exercer a fiscalização sobre a viação e trânsito e a mais que lhe for confiada.\n\n3.º Proteger os fracos e os indefesos e promover a prestação de socorros aos doentes e sinistrados.\n\n4.º Impedir a prática de crimes, transgressões e actos contrários aos bons costumes e à moral e decência públicas.\n\n5.º Reprimir a mendicidade.\n\n6.º Vigiar os vadios, rufiões, prostitutas, receptadores e, de um modo geral, todos os indivíduos supeitos ou perigosos, propondo às entidades competentes as medidas adequadas.\n\n7.º Vigiar e fiscalizar as actividades e locais favoráveis à preparação de crimes, à exploração dos seus resultados ou à ocultação de criminosos, tais como tabernas, cantinas, bares, casas suspeitas de exercício da prostituição e de jogos ilícitos, estabelecimentos hoteleiros e de diversões.\n\n8.º Vigiar as casas de penhores e fiscalizar as agências de informações.\n\n9.º Exercer a acção penal relativamente às infracções que devem ser julgadas em processo sumário e a todas as contravenções, bem como proceder à instrução preparatória quanto aos crimes a que correspondem as penas referidas no artigo 65.º do Código do Processo Penal.\n\n10.º Proceder à captura dos delinquentes e à detenção das pessoas que devem ser detidas nos termos da lei e regulamento em vigor.\n\n11.º Receber todas as queixas, denúncias, participações e reclamações e dar-lhes o devido andamento.\n\n12.º Prestar às autoridades administrativas, policiais e judiciais a colaboração que lhe for solicitada dentro do âmbito das suas atribuições.\n\n13.º Velar pela segurança da propriedade e vida dos cidadãos, prestando-lhes todo o auxílio.\n\n14.º Fiscalizar e zelar pelo bom cumprimento das posturas, editais e regulamentos policiais e administrativos.\n\nArt. 4.º O Corpo de Polícia de Segurança Pública da Guiné exerce as suas funções em toda a área da província, de acordo com as disposições reguladoras da competência territorial dos elementos que a constituem."
+  },
+  "8249254fba43da3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Do comando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Do comando"
+  },
+  "d9d5612ac827a84f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Disposições preliminares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Disposições preliminares\n\nArt. 5.º O comando do Corpo de Polícia de Segurança Pública da Guiné será exercido por um comandante, coadjuvado por um adjunto do comando, e disporá de:\n\na) Secretaria;\n\nb) Serviços do comando;\n\nc) Secções de comando."
+  },
+  "f36972f1ff92dbbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Do comandante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Do comandante\n\nArt. 6.º Compete ao comandante o comando das forças da Polícia de Segurança Pública, assim como a orientação técnica e inspecção de todos os serviços a cargo do Corpo de Polícia de Segurança Pública, submetendo a despacho do governador, devidamente informados, os assuntos que careçam de resolução deste e, bem assim, a execução das medidas de coordenação que pelo mesmo lhe forem determinadas."
+  },
+  "1542c0a4631c36c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Adjunto do comando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Adjunto do comando\n\nArt. 7.º Compete ao adjunto do comando coadjuvar o comandante no exercício das suas funções e substituí-lo nas suas ausências e impedimentos legais."
+  },
+  "058fd1eff7124b9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV — Da secretaria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV — Da secretaria\n\nArt. 8.º A secretaria do comando é constituída por duas secções:\n\na) 1.ª secção - expediente geral e arquivo;\n\nb) 2.ª secção - pessoal.\n\nArt. 9.º A secretaria do comando será chefiada por um comissário."
+  },
+  "6a20cd8c1e02c5ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO V — Dos serviços do comando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO V — Dos serviços do comando\n\nArt. 10.º Os serviços do comando compreendem:\n\na) Serviços administrativos;\n\nb) Serviços técnicos.\n\nArt. 11.º Os serviços administrativos são dirigidos por um chefe de secção, que será o exactor de Fazenda, e compreendem duas subsecções:\n\na) 1.ª subsecção - contabilidade e património;\n\nb) 2.ª subsecção - operações de tesouraria, relativas a arrecadação de receitas e execução do respectivo movimento.\n\nArt. 12.º Os serviços técnicos são coordenados pelo adjunto do comando, coadjuvado por um ou mais graduados, e compreendem:\n\na) Serviços de instrução e operações;\n\nb) Serviços de comunicações;\n\nc) Serviços de material.\n\nArt. 13.º Aos serviços de instrução e operações compete:\n\nElaborar os planos de instrução e fixar os meios a utilizar;\n\nElaborar os programas de cursos;\n\nPlanear o emprego das forças do Corpo de Polícia.\n\n§ 1.º No comando poderá funcionar uma escola de polícia, onde serão organizados cursos de preparação destinados a pessoal de ingresso de toda a província, e cursos de especialização e aperfeiçoamento destinados a guardas e subchefes de esquadra.\n\n2.º No comando existirão uma biblioteca e um museu.\n\nArt. 14.º Aos serviços de comunicações compete assegurar as ligações privativas do Corpo de Polícia.\n\nArt. 15.º Aos serviços de material compete o estudo, a recepção, a distribuição, a manutenção e o movimento de carga de material de defesa e segurança pública."
+  },
+  "c23979fc55bdb7f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO VI — Das secções do comando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO VI — Das secções do comando\n\nArt. 16.º As secções do comando são dirigidas por chefes de secção ou chefes de esquadra, sob a orientação directa do comandante, e compreendem:\n\nArmas e munições;\n\nJustiça, investigação e cadastro;\n\nViação e trânsito.\n\n§ único. As funções e competência de cada uma das secções serão fixadas no regulamento."
+  },
+  "af6de83ac164d8b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Dos serviços de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Dos serviços de segurança"
+  },
+  "5af4a8b452214549": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Disposições preliminares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Disposições preliminares\n\nArt. 17.º As esquadras são comandadas por chefes de esquadra e, na sua falta, por subchefes.\n\nArt. 18.º Os postos e destacamentos são comandados por subchefes.\n\n§ único. Quando as circunstâncias o aconselhem, os postos poderão ser comandados por chefes de esquadra."
+  },
+  "76f87c7452f844f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Do pessoal"
+  },
+  "9c896e981f9a7a4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Dos quadros e categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Dos quadros e categorias\n\nArt. 19.º O pessoal do Corpo de Polícia de Segurança Pública da Guiné é o constante do mapa anexo a este diploma e distribui-se pelos quadros e categorias seguintes:\n\nDos quadros permanentes:\n\n1.º Oficiais do Exército;\n\n2.º Agentes de polícia - comissários, chefes de secção, chefes de esquadra, subchefes de esquadra, guardas de 1.ª e 2.ª classes.\n\nDos quadros de pessoal auxiliar:\n\n1.º Agentes de polícia - cabos motoristas auxiliares de 1.ª, 2.ª e 3.ª classes, cabos auxiliares e guardas auxiliares de 1.ª e 2.ª classes."
+  },
+  "24f9deee4904067f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Do provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Do provimento"
+  },
+  "4361bce89502f877": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Dos oficiais do Exército",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Dos oficiais do Exército\n\nArt. 20.º Os oficiais do Exército em serviço no Corpo de Polícia de Segurança Pública terão as seguintes categorias:\n\na) Comandante - major ou capitão;\n\nb) Adjunto do comando - capitão ou tenente.\n\nArt. 21.º Para o serviço do Corpo de Polícia de Segurança Pública os oficiais do Exército serão nomeados pelo Ministério do Ultramar de entre os oficiais de qualquer arma ou serviço, do activo ou da reserva, mediante prévia requisição ao Ministério do Exército."
+  },
+  "da9a40a911299ca8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Dos agentes de polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Dos agentes de polícia\n\nDo pessoal auxiliar\n\nArt. 22.º A admissão dos cabos motoristas auxiliares de 3.ª classe e guardas auxiliares de 2.ª classe será feita pelo governador da província, mediante concurso, conforme for estabelecido em regulamento.\n\nArt. 23.º O recrutamento do pessoal será feito entre as praças do Exército naturais da província, na situação de serviço activo ou de licenciados e que satisfaçam as condições do regulamento.\n\nArt. 24.º Os guardas de 2.ª classe do Corpo de Polícia de Segurança Pública serão admitidos nos termos dos artigos anteriores para servir um ano em tirocínio, findo o qual, se satisfizerem a um exame de aptidão profissional, serão nomeados por três anos, mediante requerimento feito pelos interessados ao governador da província.\n\nArt. 25.º Terminado o período de três anos, poderão ser reconduzidos, por iguais períodos, os guardas que o requeiram ao governador da província e satisfaçam às condições exigidas.\n\n§ único. A admissão e recondução dos cabos motoristas auxiliares é feita nas condições dos artigos anteriores.\n\nArt. 26.º Os lugares de guarda de 1.ª classe, serão preenchidos pelos guardas de 2.ª classe que satisfaçam às condições exigidas pelo regulamento.\n\nArt. 27.º O preenchimento dos lugares de cabo auxiliar do Corpo de Polícia de Segurança Pública será feito, mediante concurso e nos termos do regulamento, pelos guardas de 1.ª classe e, eventualmente, pelos guardas de 2.ª classe que, pela natureza dos serviços prestados, o mereçam.\n\nDos quadros permanentes\n\nArt. 28.º O provimento dos lugares de guarda de 2.ª classe é feito por concurso documental.\n\nArt. 29.º Só poderão ser admitidos ao concurso os indivíduos que, sendo praças de outras polícias, da Guarda Nacional Republicana, da Guarda Fiscal ou de qualquer outro ramo das forças armadas ou que tendo já prestado serviço militar, reúnam as condições previstas pelo Regulamento do Corpo de Polícia de Segurança Pública em vigor na província.\n\nArt. 30.º A admissão a concurso será solicitada em requerimento dirigido ao governador e instruído segundo as condições estabelecidas no regulamento.\n\nArt. 31.º Os candidatos serão nomeados segundo a ordem de classificação que obtiverem no concurso, apreciada por uma comissão nomeada pelo comandante, sendo motivo de preferência as condições expressas no regulamento.\n\nArt. 32.º A nomeação terá carácter provisório durante cinco anos, sendo inicialmente por um período de dois anos considerados de tirocínio, e reconduzidos por mais três anos os que tiverem boas informações.\n\nArt. 33.º Após os cinco anos de serviço provisório os agentes serão nomeados definitivamente se possuírem boas informações referentes às suas qualidades morais e profissionais.\n\nArt. 34.º A promoção a guarda de 1.ª classe é feita entre os guardas de 2.ª classe reconduzidos, nos termos do artigo 32.º, segundo uma lista organizada de acordo com a classificação obtida conjugando a antiguidade com as informações de serviço.\n\nArt. 35.º A promoção e admissão de subchefe de esquadra será feita mediante concurso, nos termos do regulamento em vigor.\n\nArt. 36.º A chefes de esquadra serão promovidos os subchefes pela ordem de classificação obtida pela conjugação de antiguidade e informação de serviço.\n\nArt. 37.º A promoção a chefe de secção será obtida pelos chefes de esquadra aprovados em concurso de provas públicas.\n\nArt. 38.º A promoção a comissário será feita entre os chefes de secção que reúnam as condições previstas no regulamento.\n\nArt. 39.º Poderá haver promoções por distinção, destinadas a galardoar condutas excepcionais, comprovadas em processo a organizar para o efeito. Estas promoções serão feitas mediante proposta do comandante."
+  },
+  "748b759ca1ff3462": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Das substituições e acumulações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Das substituições e acumulações\n\nArt. 40.º As substituições, salvo casos especialmente previstos neste diploma e no regulamento, recaem nos funcionários e agentes da mesma categoria e, na sua falta, nos de categoria imediatamente inferior.\n\n§ único. O funcionário que substitua outro de categoria superior terá direito, a partir da data em que haja tido início a substituição, ao vencimento de categoria do seu cargo, acrescido de uma importância igual ao vencimento de exercício do funcionário substituído.\n\nArt. 41.º A acumulação de funções será determinada pelo governador civil sob proposta do comandante.\n\n§ único. No caso de acumulação o funcionário receberá o vencimento total próprio e uma importância correspondente ao vencimento de exercício do cargo acumulado, nos termos gerais de direito."
+  },
+  "4e95d917b657c216": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV — Das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV — Das licenças\n\nArt. 42.º A todo o pessoal da Polícia de Segurança Pública podem ser concedidas, sempre que as condições de serviço o permitam e conforme o que for estabelecido em regulamento, as seguintes licenças:\n\na) Licença disciplinar;\n\nb) Licença de prémio;\n\nc) Licença graciosa;\n\nd) Licença por doença;\n\ne) Licença registada;\n\nf) Licença ilimitada.\n\nArt. 43.º Pelo governador poderá ser concedida, em cada ano civil, licença disciplinar até trinta dias, sem perda de vencimento, no pessoal do quadro permanente do Corpo de Polícia de Segurança Pública que, depois de ter servido um ano na corporação, reúna as condições previstas no regulamento.\n\nArt. 44.º A licença disciplinar é inacumulável e só poderá ser mandada interromper por motivos de doença, disciplinar ou de interesse público.\n\n§ único. A interrupção de licença disciplinar por motivo de interesse público dá ao pessoal o direito de continuar o gozo de licença logo que cesse este motivo.\n\nArt. 45.º A concessão de licença de prémio compete ao governador, até quinze dias em cada ano.\n\nArt. 46.º As licenças graciosas, por doença, registada ou ilimitada serão reguladas nos termos do Estatuto do Funcionalismo Ultramarino."
+  },
+  "aed3501388cdbd70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Dos vencimentos, abonos e regalias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Dos vencimentos, abonos e regalias\n\nArt. 47.º Os vencimentos, abonos e gratificações a que o pessoal do Corpo de Polícia de Segurança Pública tem direito são os da legislação em vigor na província, em conformidade com a classificação constante do mapa anexo.\n\nArt. 48.º O pessoal do Corpo de Polícia de Segurança Pública do quadro permanente e auxiliar tem direito a um subsídio para fardamento nas condições a estabelecer pelo Governo da província.\n\nArt. 49.º Constituem encargo do Estado as refeições fornecidas durante os períodos de prevenção geral e simples ou equivalente.\n\nArt. 50.º O pessoal do Corpo de Polícia de Segurança Pública terá direito ao transporte por conta do Estado para si e sua família nas condições da legislação vigente.\n\nArt. 51.º O agente de polícia que deva responder perante os tribunais fora da área em que presta serviço por actos cometidos no exercício das suas funções terá direito a transporte e ajudas de custo, ficando, porém, sujeito a reposição das respectivas importâncias se for condenado.\n\nArt. 52.º Os funcionários do Corpo de Polícia de Segurança Pública que em consequência de acidente em serviço ou por acidente originado por motivo de serviço ficarem impossibilitados de exercer as suas funções, temporàriamente, perceberão todos os seus vencimentos e para todos os efeitos serão considerados dispensados dos serviços incompatíveis com a sua doença nos termos regulamentares.\n\n§ único. Toda a comunicação de desastre em serviço ou por motivo de serviço será objecto de um processo de averiguações organizado no Corpo de Polícia, nos moldes estabelecidos no regulamento.\n\nArt. 53.º O pessoal do Corpo de Polícia, quando lhe for fornecido transporte por conta do Estado, viajará, conforme a sua categoria, nas classes seguintes:\n\nEm 1.ª classe - os funcionários de categoria igual ou superior à do grupo L;\n\nEm 2.ª classe - os funcionários de categorias incluídas nos grupos M a S;\n\nEm 3.ª classe - os funcionários de categoria igual ou inferior à do grupo T.\n\nArt. 54.º Os serviços extraordinários prestados a requisição de particulares, precedendo designação do comando, são remunerados pelos respectivos requisitantes, segundo a tabela em vigor.\n\n§ 1.º Os serviços remunerados serão desempenhados pelo pessoal que se encontre de folga.\n\n§ 2.º A dotação orçamental destinada ao pagamento da comparticipação ao pessoal que executou o serviço será reforçada, sendo necessário, pela totalidade da importância arrecadada.\n\nArt. 55.º Os oficiais do Exército do Corpo de Polícia de Segurança Pública servirão em comissão de serviço amovível.\n\nArt. 56.º Os agentes de polícia terão direito a aposentação nos termos da legislação em vigor."
+  },
+  "dc910d4c82a2d30e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Disposições gerais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Disposições gerais e transitórias\n\nArt. 57.º O Corpo de Polícia de Segurança Pública, na parte que não for especialmente prevista em regulamento, pauta o seu procedimento em matéria de justiça, continências e honras pelo disposto na legislação em vigor no Ministério do Exército.\n\nArt. 58.º Os agentes de polícia estão sujeitos à jurisdição dos tribunais militares, nos termos da alínea a) do n.º 5 do artigo 365.º do Código de Justiça Militar.\n\nArt. 59.º O arguido que deva ser submetido a julgamento do Tribunal Militar por delito a que corresponda pena superior à referida no artigo 461.º do Código de Justiça Militar será posto à disposição do Comando Territorial Independente da Guiné, ficando, porém, à responsabilidade do comando do Corpo de Polícia de Segurança Pública, para efeitos de prisão preventiva.\n\nArt. 60.º Os oficiais do Exército em serviço no Corpo de Polícia de Segurança Pública e os agentes de polícia gozam de garantia administrativa.\n\nAra. 61.º Em todos os espectáculos públicos haverá lugares reservados para o comando da Polícia ou seu representante.\n\nArt. 62.º Os serviços sociais do Corpo de Polícia de Segurança Pública estão a cargo do cofre privativo, nos termos do regulamento.\n\nArt. 63.º Para o casamento do pessoal do quadro permanente do Corpo de Polícia de Segurança Pública é necessária autorização do governador, que é dada depois de comprovada a idoneidade moral da noiva, por averiguação sumária.\n\nArt. 64.º Em todos os casos que não estejam expressamente previstos neste diploma aplicar-se-á a legislação em vigor para o funcionalismo ultramarino.\n\nArt. 65.º Mediante portaria, fica o governador autorizado, independentemente de quaisquer outras formalidades, a fazer transitar o pessoal do actual quadro do Corpo de Polícia de Segurança Pública para o novo quadro aprovado por este diploma.\n\nArt. 66.º O número de unidades constantes do mapa anexo que excedam os efectivos actuais serão providos à medida que forem dotados no orçamento da província.\n\nMinistério do Ultramar, 29 de Maio de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.\n\nMapa dos efectivos e categorias do pessoal do Corpo de Polícia de Segurança Pública da Guiné\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/05/12700/07290733.pdf)\n\nMinistério do Ultramar, 29 de Maio de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia."
+  },
+  "7697534d30be78e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Desde a sua criação que o Corpo de Polícia de Segurança Pública da Guiné se vem regulando por um diploma cuja publicação data de 1944 e de há muito deixou de satisfazer as exigências do serviço, quer sob o aspecto funcional quer sob o aspecto orgânico.\n\nAs correspondentes corporações de Angola e Moçambique viram já publicados os seus estatutos privativos com os necessários ajustamentos, cabendo agora à província da Guiné possuir também o seu estatuto.\n\nCircunstâncias especiais impedem por agora alargar os seus quadros e melhorar a situação do seu pessoal, como era desejo do Governo, o que será feito à medida que as possibilidades o permitam.\n\nNestes termos:\n\nOuvido o Conselho Ultramarino e sob proposta do Governo da província da Guiné;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:"
+  },
+  "41ac2242bae70d93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo único\n\nÉ aprovado o Estatuto do Corpo de Polícia de Segurança Pública da Guiné, que faz parte integrante deste diploma e vai assinado pelo Ministro do Ultramar.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 29 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.\n\nPara ser publicado no Boletim Oficial da Guiné. - Peixoto Correia.\n\nESTATUTO DO CORPO DE POLÍCIA DE SEGURANÇA PÚBLICA DA GUINÉ"
+  },
+  "fc60aac71117f603": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições preliminares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições preliminares"
+  },
+  "5d4bad695c81d10f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Corpo de Polícia de Segurança Pública da Guiné constitui um organismo militarizado directamente dependente do Governo da província."
+  },
+  "86f68c2c29dab324": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Corpo de Polícia de Segurança Pública tem por missão assegurar, de um modo geral, a tranquilidade e a ordem pública e a prevenção e repressão da criminalidade."
+  },
+  "9d32dc2ede70a831": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nCompete especialmente ao Corpo de Polícia de Segurança Pública:\n\n1.º Exercer o policiamento das ruas e lugares públicos, bem como de todas as solenidades, festas, espectáculos e reuniões públicas.\n\n2.º Exercer a fiscalização sobre a viação e trânsito e a mais que lhe for confiada.\n\n3.º Proteger os fracos e os indefesos e promover a prestação de socorros aos doentes e sinistrados.\n\n4.º Impedir a prática de crimes, transgressões e actos contrários aos bons costumes e à moral e decência públicas.\n\n5.º Reprimir a mendicidade.\n\n6.º Vigiar os vadios, rufiões, prostitutas, receptadores e, de um modo geral, todos os indivíduos supeitos ou perigosos, propondo às entidades competentes as medidas adequadas.\n\n7.º Vigiar e fiscalizar as actividades e locais favoráveis à preparação de crimes, à exploração dos seus resultados ou à ocultação de criminosos, tais como tabernas, cantinas, bares, casas suspeitas de exercício da prostituição e de jogos ilícitos, estabelecimentos hoteleiros e de diversões.\n\n8.º Vigiar as casas de penhores e fiscalizar as agências de informações.\n\n9.º Exercer a acção penal relativamente às infracções que devem ser julgadas em processo sumário e a todas as contravenções, bem como proceder à instrução preparatória quanto aos crimes a que correspondem as penas referidas no artigo 65.º do Código do Processo Penal.\n\n10.º Proceder à captura dos delinquentes e à detenção das pessoas que devem ser detidas nos termos da lei e regulamento em vigor.\n\n11.º Receber todas as queixas, denúncias, participações e reclamações e dar-lhes o devido andamento.\n\n12.º Prestar às autoridades administrativas, policiais e judiciais a colaboração que lhe for solicitada dentro do âmbito das suas atribuições.\n\n13.º Velar pela segurança da propriedade e vida dos cidadãos, prestando-lhes todo o auxílio.\n\n14.º Fiscalizar e zelar pelo bom cumprimento das posturas, editais e regulamentos policiais e administrativos."
+  },
+  "bad4fb02a09ebeb6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO Corpo de Polícia de Segurança Pública da Guiné exerce as suas funções em toda a área da província, de acordo com as disposições reguladoras da competência territorial dos elementos que a constituem."
+  },
+  "f49ca575a6a95cb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Disposições preliminares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Disposições preliminares"
+  },
+  "41cc9d51013a045d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO comando do Corpo de Polícia de Segurança Pública da Guiné será exercido por um comandante, coadjuvado por um adjunto do comando, e disporá de:\n\na) Secretaria;\n\nb) Serviços do comando;\n\nc) Secções de comando."
+  },
+  "3d1f6331ce91b323": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Do comandante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Do comandante"
+  },
+  "c9173f8d939bc204": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nCompete ao comandante o comando das forças da Polícia de Segurança Pública, assim como a orientação técnica e inspecção de todos os serviços a cargo do Corpo de Polícia de Segurança Pública, submetendo a despacho do governador, devidamente informados, os assuntos que careçam de resolução deste e, bem assim, a execução das medidas de coordenação que pelo mesmo lhe forem determinadas."
+  },
+  "8941ec1fbb304428": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Adjunto do comando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Adjunto do comando"
+  },
+  "6884f51db107d081": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nCompete ao adjunto do comando coadjuvar o comandante no exercício das suas funções e substituí-lo nas suas ausências e impedimentos legais."
+  },
+  "2c34d77cafafbd60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV — Da secretaria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV — Da secretaria"
+  },
+  "c8e62ae97db98d8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA secretaria do comando é constituída por duas secções:\n\na) 1.ª secção - expediente geral e arquivo;\n\nb) 2.ª secção - pessoal."
+  },
+  "b321a5be137869be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA secretaria do comando será chefiada por um comissário."
+  },
+  "d2488d774b2c2f7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO V — Dos serviços do comando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO V — Dos serviços do comando"
+  },
+  "77666c9d3ee9577b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs serviços do comando compreendem:\n\na) Serviços administrativos;\n\nb) Serviços técnicos."
+  },
+  "3229eff064ce85c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs serviços administrativos são dirigidos por um chefe de secção, que será o exactor de Fazenda, e compreendem duas subsecções:\n\na) 1.ª subsecção - contabilidade e património;\n\nb) 2.ª subsecção - operações de tesouraria, relativas a arrecadação de receitas e execução do respectivo movimento."
+  },
+  "21058ac56c4c3055": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs serviços técnicos são coordenados pelo adjunto do comando, coadjuvado por um ou mais graduados, e compreendem:\n\na) Serviços de instrução e operações;\n\nb) Serviços de comunicações;\n\nc) Serviços de material."
+  },
+  "4493e3d15e3c906c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAos serviços de instrução e operações compete:\n\nElaborar os planos de instrução e fixar os meios a utilizar;\n\nElaborar os programas de cursos;\n\nPlanear o emprego das forças do Corpo de Polícia.\n\n§ 1.º No comando poderá funcionar uma escola de polícia, onde serão organizados cursos de preparação destinados a pessoal de ingresso de toda a província, e cursos de especialização e aperfeiçoamento destinados a guardas e subchefes de esquadra.\n\n2.º No comando existirão uma biblioteca e um museu."
+  },
+  "c1a3cd3694968a28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAos serviços de comunicações compete assegurar as ligações privativas do Corpo de Polícia."
+  },
+  "835f7d4be349388c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAos serviços de material compete o estudo, a recepção, a distribuição, a manutenção e o movimento de carga de material de defesa e segurança pública."
+  },
+  "7f3e5a01ef145263": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO VI — Das secções do comando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO VI — Das secções do comando"
+  },
+  "cc51d76d3b645f71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nAs secções do comando são dirigidas por chefes de secção ou chefes de esquadra, sob a orientação directa do comandante, e compreendem:\n\nArmas e munições;\n\nJustiça, investigação e cadastro;\n\nViação e trânsito.\n\n§ único. As funções e competência de cada uma das secções serão fixadas no regulamento."
+  },
+  "544e9b28d2d71418": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nAs esquadras são comandadas por chefes de esquadra e, na sua falta, por subchefes."
+  },
+  "a86b3292683e8d2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs postos e destacamentos são comandados por subchefes.\n\n§ único. Quando as circunstâncias o aconselhem, os postos poderão ser comandados por chefes de esquadra."
+  },
+  "484decff277ccfc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Dos quadros e categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Dos quadros e categorias"
+  },
+  "47238fc8ee917b58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO pessoal do Corpo de Polícia de Segurança Pública da Guiné é o constante do mapa anexo a este diploma e distribui-se pelos quadros e categorias seguintes:\n\nDos quadros permanentes:\n\n1.º Oficiais do Exército;\n\n2.º Agentes de polícia - comissários, chefes de secção, chefes de esquadra, subchefes de esquadra, guardas de 1.ª e 2.ª classes.\n\nDos quadros de pessoal auxiliar:\n\n1.º Agentes de polícia - cabos motoristas auxiliares de 1.ª, 2.ª e 3.ª classes, cabos auxiliares e guardas auxiliares de 1.ª e 2.ª classes."
+  },
+  "89bbe7307d5ab097": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Dos oficiais do Exército",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Dos oficiais do Exército"
+  },
+  "06a847d6e8cefd8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nOs oficiais do Exército em serviço no Corpo de Polícia de Segurança Pública terão as seguintes categorias:\n\na) Comandante - major ou capitão;\n\nb) Adjunto do comando - capitão ou tenente."
+  },
+  "6ac598992441a33f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nPara o serviço do Corpo de Polícia de Segurança Pública os oficiais do Exército serão nomeados pelo Ministério do Ultramar de entre os oficiais de qualquer arma ou serviço, do activo ou da reserva, mediante prévia requisição ao Ministério do Exército."
+  },
+  "0ee4f6eefd39dc97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Dos agentes de polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Dos agentes de polícia\n\nDo pessoal auxiliar"
+  },
+  "4dc3a4124bbd28b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nA admissão dos cabos motoristas auxiliares de 3.ª classe e guardas auxiliares de 2.ª classe será feita pelo governador da província, mediante concurso, conforme for estabelecido em regulamento."
+  },
+  "a67f4ee5b551743d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nO recrutamento do pessoal será feito entre as praças do Exército naturais da província, na situação de serviço activo ou de licenciados e que satisfaçam as condições do regulamento."
+  },
+  "6b57f30dfb4c01c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs guardas de 2.ª classe do Corpo de Polícia de Segurança Pública serão admitidos nos termos dos artigos anteriores para servir um ano em tirocínio, findo o qual, se satisfizerem a um exame de aptidão profissional, serão nomeados por três anos, mediante requerimento feito pelos interessados ao governador da província."
+  },
+  "abb96858ddcbcbc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nTerminado o período de três anos, poderão ser reconduzidos, por iguais períodos, os guardas que o requeiram ao governador da província e satisfaçam às condições exigidas.\n\n§ único. A admissão e recondução dos cabos motoristas auxiliares é feita nas condições dos artigos anteriores."
+  },
+  "d32860a3e78a251e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs lugares de guarda de 1.ª classe, serão preenchidos pelos guardas de 2.ª classe que satisfaçam às condições exigidas pelo regulamento."
+  },
+  "988f06688ebcff3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nO preenchimento dos lugares de cabo auxiliar do Corpo de Polícia de Segurança Pública será feito, mediante concurso e nos termos do regulamento, pelos guardas de 1.ª classe e, eventualmente, pelos guardas de 2.ª classe que, pela natureza dos serviços prestados, o mereçam.\n\nDos quadros permanentes"
+  },
+  "ba82537cd6f6c7e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nO provimento dos lugares de guarda de 2.ª classe é feito por concurso documental."
+  },
+  "551d69341cc93227": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": "1969-09-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 49227](https://diariodarepublica.pt/dr/detalhe/decreto/49227-1969-214915), publicado em 1969-09-05."
+   ],
+   "markdown": "###### Artigo 29.º\n\nSó poderão ser admitidos ao concurso os cabos auxiliares e os cabos auxiliares motoristas do Corpo de Polícia de Segurança Pública da Guiné e os guardas de outras polícias ou praças da Guarda Nacional Republicana, da Guarda Fiscal ou de qualquer ramo das forças armadas, no activo ou na disponibilidade, que reúnam as condições regulamentares.\n\n> Alterado pelo/a [Decreto n.º 49227](https://diariodarepublica.pt/dr/detalhe/decreto/49227-1969-214915), publicado em 1969-09-05."
+  },
+  "a8105f5cacc297ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nA admissão a concurso será solicitada em requerimento dirigido ao governador e instruído segundo as condições estabelecidas no regulamento."
+  },
+  "fd9f4f7361bcab0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nOs candidatos serão nomeados segundo a ordem de classificação que obtiverem no concurso, apreciada por uma comissão nomeada pelo comandante, sendo motivo de preferência as condições expressas no regulamento."
+  },
+  "a2dd74d823c379a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nA nomeação terá carácter provisório durante cinco anos, sendo inicialmente por um período de dois anos considerados de tirocínio, e reconduzidos por mais três anos os que tiverem boas informações."
+  },
+  "012fa9a45ef31cfd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nApós os cinco anos de serviço provisório os agentes serão nomeados definitivamente se possuírem boas informações referentes às suas qualidades morais e profissionais."
+  },
+  "18182093669a9245": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nA promoção a guarda de 1.ª classe é feita entre os guardas de 2.ª classe reconduzidos, nos termos do artigo 32.º, segundo uma lista organizada de acordo com a classificação obtida conjugando a antiguidade com as informações de serviço."
+  },
+  "ef70e889af2271ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nA promoção e admissão de subchefe de esquadra será feita mediante concurso, nos termos do regulamento em vigor."
+  },
+  "ddbb6beb3dcfe1c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nA chefes de esquadra serão promovidos os subchefes pela ordem de classificação obtida pela conjugação de antiguidade e informação de serviço."
+  },
+  "41ffc57c6c2e9d1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nA promoção a chefe de secção será obtida pelos chefes de esquadra aprovados em concurso de provas públicas."
+  },
+  "8247ccf74f31ad4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nA promoção a comissário será feita entre os chefes de secção que reúnam as condições previstas no regulamento."
+  },
+  "b4dd793c70da5a8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nPoderá haver promoções por distinção, destinadas a galardoar condutas excepcionais, comprovadas em processo a organizar para o efeito. Estas promoções serão feitas mediante proposta do comandante."
+  },
+  "0e5a31f8983c4e7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Das substituições e acumulações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Das substituições e acumulações"
+  },
+  "7961368b9379adda": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nAs substituições, salvo casos especialmente previstos neste diploma e no regulamento, recaem nos funcionários e agentes da mesma categoria e, na sua falta, nos de categoria imediatamente inferior.\n\n§ único. O funcionário que substitua outro de categoria superior terá direito, a partir da data em que haja tido início a substituição, ao vencimento de categoria do seu cargo, acrescido de uma importância igual ao vencimento de exercício do funcionário substituído."
+  },
+  "c1025a5268b36e24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nA acumulação de funções será determinada pelo governador civil sob proposta do comandante.\n\n§ único. No caso de acumulação o funcionário receberá o vencimento total próprio e uma importância correspondente ao vencimento de exercício do cargo acumulado, nos termos gerais de direito."
+  },
+  "9b05399ad9364426": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV — Das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV — Das licenças"
+  },
+  "3e7a5fc45c67097d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nA todo o pessoal da Polícia de Segurança Pública podem ser concedidas, sempre que as condições de serviço o permitam e conforme o que for estabelecido em regulamento, as seguintes licenças:\n\na) Licença disciplinar;\n\nb) Licença de prémio;\n\nc) Licença graciosa;\n\nd) Licença por doença;\n\ne) Licença registada;\n\nf) Licença ilimitada."
+  },
+  "748b785e0598deba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nPelo governador poderá ser concedida, em cada ano civil, licença disciplinar até trinta dias, sem perda de vencimento, no pessoal do quadro permanente do Corpo de Polícia de Segurança Pública que, depois de ter servido um ano na corporação, reúna as condições previstas no regulamento."
+  },
+  "7c8900834e6f6d62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nA licença disciplinar é inacumulável e só poderá ser mandada interromper por motivos de doença, disciplinar ou de interesse público.\n\n§ único. A interrupção de licença disciplinar por motivo de interesse público dá ao pessoal o direito de continuar o gozo de licença logo que cesse este motivo."
+  },
+  "ee9c749cc0a39856": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nA concessão de licença de prémio compete ao governador, até quinze dias em cada ano."
+  },
+  "3f9d26653689d137": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nAs licenças graciosas, por doença, registada ou ilimitada serão reguladas nos termos do Estatuto do Funcionalismo Ultramarino."
+  },
+  "eb2d9716988251dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Dos vencimentos, abonos e regalias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Dos vencimentos, abonos e regalias"
+  },
+  "6221fa7ad3bea163": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nOs vencimentos, abonos e gratificações a que o pessoal do Corpo de Polícia de Segurança Pública tem direito são os da legislação em vigor na província, em conformidade com a classificação constante do mapa anexo."
+  },
+  "b7489e777562951c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nO pessoal do Corpo de Polícia de Segurança Pública do quadro permanente e auxiliar tem direito a um subsídio para fardamento nas condições a estabelecer pelo Governo da província."
+  },
+  "634e7184e337e4ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nConstituem encargo do Estado as refeições fornecidas durante os períodos de prevenção geral e simples ou equivalente."
+  },
+  "6424fb2af67ba583": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nO pessoal do Corpo de Polícia de Segurança Pública terá direito ao transporte por conta do Estado para si e sua família nas condições da legislação vigente."
+  },
+  "24f775a7f1698e70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nO agente de polícia que deva responder perante os tribunais fora da área em que presta serviço por actos cometidos no exercício das suas funções terá direito a transporte e ajudas de custo, ficando, porém, sujeito a reposição das respectivas importâncias se for condenado."
+  },
+  "e00851fcb8430059": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nOs funcionários do Corpo de Polícia de Segurança Pública que em consequência de acidente em serviço ou por acidente originado por motivo de serviço ficarem impossibilitados de exercer as suas funções, temporàriamente, perceberão todos os seus vencimentos e para todos os efeitos serão considerados dispensados dos serviços incompatíveis com a sua doença nos termos regulamentares.\n\n§ único. Toda a comunicação de desastre em serviço ou por motivo de serviço será objecto de um processo de averiguações organizado no Corpo de Polícia, nos moldes estabelecidos no regulamento."
+  },
+  "974253dac2004c71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\nO pessoal do Corpo de Polícia, quando lhe for fornecido transporte por conta do Estado, viajará, conforme a sua categoria, nas classes seguintes:\n\nEm 1.ª classe - os funcionários de categoria igual ou superior à do grupo L;\n\nEm 2.ª classe - os funcionários de categorias incluídas nos grupos M a S;\n\nEm 3.ª classe - os funcionários de categoria igual ou inferior à do grupo T."
+  },
+  "a3a54648753bf581": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nOs serviços extraordinários prestados a requisição de particulares, precedendo designação do comando, são remunerados pelos respectivos requisitantes, segundo a tabela em vigor.\n\n§ 1.º Os serviços remunerados serão desempenhados pelo pessoal que se encontre de folga.\n\n§ 2.º A dotação orçamental destinada ao pagamento da comparticipação ao pessoal que executou o serviço será reforçada, sendo necessário, pela totalidade da importância arrecadada."
+  },
+  "3aadab02d9ace589": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\nOs oficiais do Exército do Corpo de Polícia de Segurança Pública servirão em comissão de serviço amovível."
+  },
+  "3685e3b2a374e4e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\nOs agentes de polícia terão direito a aposentação nos termos da legislação em vigor."
+  },
+  "7d40648b129ce1e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Disposições gerais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Disposições gerais e transitórias"
+  },
+  "c4ae8068ebb6774f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\nO Corpo de Polícia de Segurança Pública, na parte que não for especialmente prevista em regulamento, pauta o seu procedimento em matéria de justiça, continências e honras pelo disposto na legislação em vigor no Ministério do Exército."
+  },
+  "de4785d3097dbd8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\nOs agentes de polícia estão sujeitos à jurisdição dos tribunais militares, nos termos da alínea a) do n.º 5 do artigo 365.º do Código de Justiça Militar."
+  },
+  "b7194d09847261a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\nO arguido que deva ser submetido a julgamento do Tribunal Militar por delito a que corresponda pena superior à referida no artigo 461.º do Código de Justiça Militar será posto à disposição do Comando Territorial Independente da Guiné, ficando, porém, à responsabilidade do comando do Corpo de Polícia de Segurança Pública, para efeitos de prisão preventiva."
+  },
+  "0f1d9dbef42a2a93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\nOs oficiais do Exército em serviço no Corpo de Polícia de Segurança Pública e os agentes de polícia gozam de garantia administrativa.\n\nAra. 61.º Em todos os espectáculos públicos haverá lugares reservados para o comando da Polícia ou seu representante."
+  },
+  "3f4c2f16344c1faa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\nOs serviços sociais do Corpo de Polícia de Segurança Pública estão a cargo do cofre privativo, nos termos do regulamento."
+  },
+  "d745e74a7e120c50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\nPara o casamento do pessoal do quadro permanente do Corpo de Polícia de Segurança Pública é necessária autorização do governador, que é dada depois de comprovada a idoneidade moral da noiva, por averiguação sumária."
+  },
+  "c7684c647133f4bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º\n\nEm todos os casos que não estejam expressamente previstos neste diploma aplicar-se-á a legislação em vigor para o funcionalismo ultramarino."
+  },
+  "3a0ef7245f13b371": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\nMediante portaria, fica o governador autorizado, independentemente de quaisquer outras formalidades, a fazer transitar o pessoal do actual quadro do Corpo de Polícia de Segurança Pública para o novo quadro aprovado por este diploma."
+  },
+  "7e7c30c164617315": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º\n\nO número de unidades constantes do mapa anexo que excedam os efectivos actuais serão providos à medida que forem dotados no orçamento da província.\n\nMinistério do Ultramar, 29 de Maio de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.\n\nMapa dos efectivos e categorias do pessoal do Corpo de Polícia de Segurança Pública da Guiné\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/05/12700/07290733.pdf)\n\nMinistério do Ultramar, 29 de Maio de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia."
+  }
+ }
+}

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-03-14'
+version_history:
+  file: portaria-24444.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-03-14'
+    amending: pt:dre:228657:por
+    amending_title: Portaria n.º 148/70
+    changes:
+    - Altera Artigo unidades 30-30
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:08:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 148/70. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1969/portaria-24444.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,7 +163,9 @@ g) Serviço de dermatovenereologia.
 
 10. Enquanto não for possível prover as vagas existententes nos cargos de chefes ou de assistentes dos serviços médicos do Hospital da Marinha nas condições estabelecidas nesta portaria, o superintendente dos Serviços do Pessoal da Armada poderá autorizar, mediante proposta do director do Hospital da Marinha, informada favoràvelmente pelo director do Serviço de Saúde Naval, que os tais cargos sejam exercidos, a título transitório e até se verificar o provimento definitivo, por outros médicos navais.
 
-11. Os postos dos chefes e assistentes dos serviços médicos do Hospital da Marinha e o número de assistentes que pertence a cada serviço serão os fixados na lotação do Hospital da Marinha.
+11. Os postos dos chefes e assistentes dos serviços médicos do Hospital da Marinha serão os compatíveis com a respectiva lotação. O número de assistentes que pertence a cada serviço e respectivas especializações serão fixados por despacho ministerial.
+
+> Alterado pelo/a [Portaria n.º 148/70](https://diariodarepublica.pt/dr/detalhe/portaria/148-1970-228657), publicado em 1970-03-14.
 
 12. As funções que competem aos chefes e assistentes dos serviços médicos do Hospital da Marinha serão as estabelecidas no regulamento interno do mesmo Hospital.
 

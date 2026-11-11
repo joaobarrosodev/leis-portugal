@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-06-19'
+version_history:
+  file: portaria-420-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-07-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-06-19'
+    amending: pt:dre:181579:por
+    amending_title: Portaria n.º 361/85
+    changes:
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 12-14
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:21:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 361/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-420-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,15 +136,17 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguint
 
 4.º A nomeação dos candidatos será feita pelo Almirante-Chefe do Estado-Maior da Armada, sob proposta do superintendente dos Serviços do Pessoal da Armada, e com base na ordenação estabelecida pelo júri referido no número seguinte.
 
-5.º A constituição do júri que fará o ordenamento relativo a que se refere o n.º 3.º é o seguinte:
+5.º A constituição do júri, a nomear por despacho do Chefe do Estado-Maior da Armada, que fará o ordenamento relativo a que se refere o n.º 3.º é a seguinte:
+
+> Alterado pelo/a [Portaria n.º 361/85](https://diariodarepublica.pt/dr/detalhe/portaria/361-1985-181579), publicado em 1985-06-14.
 
 Director-geral do Instituto Hidrográfico;
 
-Chefe da 1.ª Repartição da Direcção do Serviço de Instrução;
+2 oficiais superiores da classe de marinha, das áreas do pessoal e da instrução, a propor pelo superintendente dos Serviços do Pessoal da Armada;
 
-Chefe da 1.ª Repartição da Direcção do Serviço do Pessoal;
+2 oficiais superiores, engenheiros hidrógrafos, a propor pelo director-geral do Instituto Hidrográfico.
 
-Dois oficiais superiores, engenheiros hidrógrafos, a indicar pelo Instituto Hidrográfico.
+> Alterado pelo/a [Portaria n.º 361/85](https://diariodarepublica.pt/dr/detalhe/portaria/361-1985-181579), publicado em 1985-06-14.
 
 6.º É revogada a [Portaria n.º 23439](https://diariodarepublica.pt/dr/detalhe/portaria/23439-1968-272266), de 19 de Junho de 1968.
 

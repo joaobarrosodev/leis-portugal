@@ -1,0 +1,72 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:300449:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-03-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "44377f6cdb1b2309",
+    "1438c0b568a5ae1e"
+   ]
+  },
+  {
+   "date": "2003-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:491940:por",
+     "title": "Portaria n.º 1070/2003",
+     "published": "2003-09-26",
+     "dre_path": "/dr/detalhe/portaria/1070-2003-491940"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 46-46",
+    "Altera Artigo unidades 49-49",
+    "Altera Artigo unidades 52-52",
+    "Altera Artigo unidades 55-55"
+   ],
+   "fragments": [
+    "44377f6cdb1b2309",
+    "252596ebe7178c82"
+   ]
+  }
+ ],
+ "fragments": {
+  "44377f6cdb1b2309": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Março\n\nA requerimento da Cruz Vermelha Portuguesa, entidade instituidora da Escola Superior de Enfermagem da Cruz Vermelha Portuguesa de Oliveira de Azeméis, reconhecida como de interesse público pelo [Decreto n.º 3/2002](https://diariodarepublica.pt/dr/detalhe/decreto/3-2002-272182), de 6 de Fevereiro, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nInstruído, organizado e apreciado o processo nos termos dos artigos 57.º e 59.º do Estatuto;\n\nConsiderando o disposto no Regulamento Geral do Curso de Licenciatura em Enfermagem, aprovado pela [Portaria n.º 799-D/99](https://diariodarepublica.pt/dr/detalhe/portaria/799-d-1999-581591), de 18 de Setembro;\n\nColhido o parecer da comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto;\n\nAo abrigo do disposto na alínea b) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, alterado pelo [Decreto-Lei n.º 99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de Março, e no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAutorização de funcionamento\n\nÉ autorizado o funcionamento do curso de licenciatura em Enfermagem na Escola Superior de Enfermagem da Cruz Vermelha Portuguesa de Oliveira de Azeméis, nas instalações que estejam autorizadas nos termos da lei.\n\n2.º\n\nRegulamento\n\nAo curso aplica-se o Regulamento Geral do Curso de Licenciatura em Enfermagem, aprovado pela [Portaria n.º 799-D/99](https://diariodarepublica.pt/dr/detalhe/portaria/799-d-1999-581591), de 18 de Setembro.\n\n3.º\n\nNúmero máximo de alunos\n\n1 - O número máximo de novos alunos a admitir anualmente não pode exceder os 45.\n\n2 - A frequência global do curso não pode exceder 180 alunos.\n\n4.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso, nos termos do anexo à presente portaria.\n\n5.º\n\nGrau\n\nA conclusão com aproveitamento de todas as unidades curriculares que integram o plano de estudos do curso confere o direito à atribuição do grau de licenciado.\n\n6.º\n\nInício de funcionamento do curso\n\nO curso pode começar e funcionar a partir do 2.º semestre do ano lectivo de 2001-2002, inclusive, de forma progressiva.\n\n7.º\n\nCondições de acesso\n\nAs condições de acesso ao curso são as fixadas nos termos da lei.\n\n8.º\n\nCondicionamento\n\nA autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino de cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Educação, quer por não cumprimento dos pressupostos de autorização e reconhecimento quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo.\n\n9.º\n\nVagas para o ano lectivo de 2001-2002\n\nO número de vagas para a candidatura à matrícula e inscrição no ano lectivo de 2001-2002 (entrada no 2.º semestre) é de 50.\n\n10.º\n\nEntrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação.\n\nPelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior, em 1 de Março de 2002."
+  },
+  "1438c0b568a5ae1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Escola Superior de Enfermagem da Cruz Vermelha Portuguesa de Oliveira de Azeméis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Escola Superior de Enfermagem da Cruz Vermelha Portuguesa de Oliveira de Azeméis\n\nCurso de Enfermagem\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)"
+  },
+  "252596ebe7178c82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Escola Superior de Enfermagem da Cruz Vermelha Portuguesa de Oliveira de Azeméis",
+   "in_force_from": "2003-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1070/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1070-2003-491940), publicado em 2003-09-26.",
+    "Alterado pelo/a [Portaria n.º 1070/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1070-2003-491940), publicado em 2003-09-26.",
+    "Alterado pelo/a [Portaria n.º 1070/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1070-2003-491940), publicado em 2003-09-26.",
+    "Alterado pelo/a [Portaria n.º 1070/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1070-2003-491940), publicado em 2003-09-26."
+   ],
+   "markdown": "## ANEXO — Escola Superior de Enfermagem da Cruz Vermelha Portuguesa de Oliveira de Azeméis\n\nCurso de Enfermagem\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223b00/63026304.pdf)\n\n> Alterado pelo/a [Portaria n.º 1070/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1070-2003-491940), publicado em 2003-09-26.\n\nQUADRO N.º 2\n\n2.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223b00/63026304.pdf)\n\n> Alterado pelo/a [Portaria n.º 1070/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1070-2003-491940), publicado em 2003-09-26.\n\nQUADRO N.º 3\n\n3.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223b00/63026304.pdf)\n\n> Alterado pelo/a [Portaria n.º 1070/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1070-2003-491940), publicado em 2003-09-26.\n\nQUADRO N.º 4\n\n4.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223b00/63026304.pdf)\n\n> Alterado pelo/a [Portaria n.º 1070/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1070-2003-491940), publicado em 2003-09-26."
+  }
+ }
+}

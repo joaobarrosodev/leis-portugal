@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-08-09'
+version_history:
+  file: portaria-424-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-08-09'
+    amending: pt:dre:204196:por
+    amending_title: Portaria n.º 637/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/424/1994/06/29/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:27:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 637/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-424-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,7 +155,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Almargem do Bispo, município de Sintra, com uma área de 660 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Almargem do Bispo, município de Sintra, com a área de 472 ha.
+
+> Alterado pelo/a [Portaria n.º 637/97](https://diariodarepublica.pt/dr/detalhe/portaria/637-1997-204196), publicado em 1997-08-08.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 637/97](https://diariodarepublica.pt/dr/detalhe/portaria/637-1997-204196), publicado em 1997-08-08.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Associação de Caçadores de Aruil (registo no Instituto Florestal n.º 3.157.88), com sede no Largo do Rossio, Aruil, Pêro Pinheiro, a zona de caça associativa da freguesia de Almargem do Bispo (processo n.º 1399 do Instituto Florestal).
 

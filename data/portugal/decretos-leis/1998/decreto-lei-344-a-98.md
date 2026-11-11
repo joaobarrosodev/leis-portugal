@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-03-02'
+version_history:
+  file: decreto-lei-344-a-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-11-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-03-02'
+    amending: pt:dre:144217:por
+    amending_title: Decreto-Lei n.º 29-A/2011
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/344-a/1998/11/06/p/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:02:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 29-A/2011. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-344-a-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -192,11 +207,19 @@ O presente Regulamento tem por objecto estabelecer as regras a que devem obedece
 
 2 - A fiscalização do cumprimento das regras de segurança das embarcações e da disciplina da navegação é da responsabilidade da Capitania do Porto do Douro.
 
-###### Artigo 4.º — Taxas de circulação
+###### Artigo 4.º — Taxas de circulação e de exploração
 
-1 - Pela circulação de embarcações na via navegável é devido, nos termos do disposto na alínea m) do artigo 6.º do [Decreto-Lei n.º 138-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-1997-230302), de 3 de Junho, o pagamento de taxas de circulação, a fixar em portaria dos Ministros do Equipamento, do Planeamento e da Administração do Território e do Ambiente.
+1 - Pela circulação de embarcações na via navegável do Douro é devido o pagamento de taxas de circulação.
 
-2 - As taxas mencionadas no número anterior reportam à utilização de cada eclusa, podendo ser pagas pelas formas a identificar na portaria aí referida.
+2 - As taxas mencionadas no número anterior reportam à utilização de cada eclusa, à utilização do canal de navegação e à utilização das infra-estruturas e dos equipamentos fluviais.
+
+3 - Pelo fornecimento ou uso de bens e prestação de serviços aos utentes da via navegável do Douro, relativos à exploração da via navegável do Douro, é devido o pagamento de taxas de exploração.
+
+4 - O valor das taxas previstas nos números anteriores, bem como a identificação da forma de pagamento, é fixado por portaria dos membros do Governo responsáveis pela área das finanças e pelo sector dos transportes.
+
+5 - O valor das taxas previstas nos números anteriores é revisto, em Janeiro de cada ano, com base na evolução do índice de preços no consumidor, com exclusão da habitação no Continente, publicado pelo Instituto Nacional de Estatística, I. P.
+
+> Alterado pelo/a [Decreto-Lei n.º 29-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), publicado em 2011-03-01.
 
 ###### Artigo 5.º — Definições
 

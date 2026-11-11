@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:678851:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1980-03-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "433f3732b71d4edf"
+   ]
+  },
+  {
+   "date": "1980-06-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:472934:por",
+     "title": "Portaria n.º 334/80",
+     "published": "1980-06-18",
+     "dre_path": "/dr/detalhe/portaria/334-1980-472934"
+    },
+    {
+     "id": "pt:dre:472934:por",
+     "title": "Portaria n.º 334/80",
+     "published": "1980-06-18",
+     "dre_path": "/dr/detalhe/portaria/334-1980-472934"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6",
+    "Adita Artigo depois da unidade 6",
+    "Adita Artigo depois da unidade 13"
+   ],
+   "fragments": [
+    "37e6e7f72dcdedbd"
+   ]
+  }
+ ],
+ "fragments": {
+  "433f3732b71d4edf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Março\n\nPara execução do disposto no [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, ratificado pela [Lei n.º 55/78](https://diariodarepublica.pt/dr/detalhe/lei/55-1978-297012), de 27 de Julho, e de acordo com o n.º 3 do artigo 1.º do [Decreto n.º 79/79](https://diariodarepublica.pt/dr/detalhe/decreto/79-1979-381356), de 2 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social:\n\nI\n\nSão integrados orgânica e funcionalmente no Centro Regional de Segurança Social de Beja os seguintes órgãos, serviços e instituições oficiais existentes na área do distrito:\n\na) Dependentes da Direcção-Geral da Previdência:\n\nA Caixa de Previdência e Abono de Família do Distrito de Beja.\n\nb) Dependentes da Direcção-Geral da Assistência Social:\n\nOs serviços de acção directa do Instituto da Família e Acção Social.\n\nc) Dependentes do Instituto de Obras Sociais:\n\nO Centro Infantil de Ferreira do Alentejo.\n\nd) A extensão, no distrito de Beja, do Instituto de Apoio ao Retorno de Nacionais.\n\nII\n\nSerão ainda integrados neste Centro Regional, nos termos e nas datas que forem fixados por despacho do Ministro dos Assuntos Sociais, os contribuintes, beneficiários, acções e serviços das caixas de actividade e de empresa de âmbito nacional da área geográfica do distrito.\n\nIII\n\nDe acordo com o previsto no n.º 1 do artigo 2.º do [Decreto n.º 79/79](https://diariodarepublica.pt/dr/detalhe/decreto/79-1979-381356), de 2 de Agosto, o Centro Regional de Segurança Social de Beja entra em regime de instalação, aplicando-se-lhe o disposto nos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.\n\nMinistério dos Assuntos Sociais, 5 de Fevereiro de 1980. - O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix."
+  },
+  "37e6e7f72dcdedbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1980-06-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 334/80](https://diariodarepublica.pt/dr/detalhe/portaria/334-1980-472934), publicado em 1980-06-18.",
+    "Aditado pelo/a [Portaria n.º 334/80](https://diariodarepublica.pt/dr/detalhe/portaria/334-1980-472934), publicado em 1980-06-18.",
+    "Aditado pelo/a [Portaria n.º 334/80](https://diariodarepublica.pt/dr/detalhe/portaria/334-1980-472934), publicado em 1980-06-18."
+   ],
+   "markdown": "de 1 de Março\n\nPara execução do disposto no [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, ratificado pela [Lei n.º 55/78](https://diariodarepublica.pt/dr/detalhe/lei/55-1978-297012), de 27 de Julho, e de acordo com o n.º 3 do artigo 1.º do [Decreto n.º 79/79](https://diariodarepublica.pt/dr/detalhe/decreto/79-1979-381356), de 2 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social:\n\nI\n\nSão integrados no Centro Regional de Segurança Social de Beja os seguintes órgãos, serviços e instituições oficiais existentes na área do distrito:\n\n> Alterado pelo/a [Portaria n.º 334/80](https://diariodarepublica.pt/dr/detalhe/portaria/334-1980-472934), publicado em 1980-06-18.\n\n1) Integração completa (orgânica e funcional):\n\n> Aditado pelo/a [Portaria n.º 334/80](https://diariodarepublica.pt/dr/detalhe/portaria/334-1980-472934), publicado em 1980-06-18.\n\na) Dependentes da Direcção-Geral da Previdência:\n\nA Caixa de Previdência e Abono de Família do Distrito de Beja.\n\nb) Dependentes da Direcção-Geral da Assistência Social:\n\nOs serviços de acção directa do Instituto da Família e Acção Social.\n\nc) Dependentes do Instituto de Obras Sociais:\n\nO Centro Infantil de Ferreira do Alentejo.\n\nd) A extensão, no distrito de Beja, do Instituto de Apoio ao Retorno de Nacionais.\n\n2) Integração apenas funcional:\n\nO Centro de Apoio à Terceira Idade de Beja.\n\n> Aditado pelo/a [Portaria n.º 334/80](https://diariodarepublica.pt/dr/detalhe/portaria/334-1980-472934), publicado em 1980-06-18.\n\nII\n\nSerão ainda integrados neste Centro Regional, nos termos e nas datas que forem fixados por despacho do Ministro dos Assuntos Sociais, os contribuintes, beneficiários, acções e serviços das caixas de actividade e de empresa de âmbito nacional da área geográfica do distrito.\n\nIII\n\nDe acordo com o previsto no n.º 1 do artigo 2.º do [Decreto n.º 79/79](https://diariodarepublica.pt/dr/detalhe/decreto/79-1979-381356), de 2 de Agosto, o Centro Regional de Segurança Social de Beja entra em regime de instalação, aplicando-se-lhe o disposto nos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.\n\nMinistério dos Assuntos Sociais, 5 de Fevereiro de 1980. - O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix."
+  }
+ }
+}

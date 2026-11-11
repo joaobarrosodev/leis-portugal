@@ -1,0 +1,1266 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:272053:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-11-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "55566a2bfae8c5a6",
+    "36738b0e3f65c368",
+    "63bd6a34098b6966",
+    "23836370ae405d04",
+    "b6ff2b2b35db11fb",
+    "6b52730d67b167b1",
+    "4cd40922304cded3",
+    "706ca2caec052f6b",
+    "2e73743f20100ad3",
+    "9070f945b1db7981",
+    "1e0cc6da35b88c6b",
+    "e65833e4088ad7b1",
+    "dc53f037b2159df8",
+    "cd48e9211e08f4fe",
+    "6f81624b08086498",
+    "6154d0c8e4ac9c86",
+    "93f6371d72305f32",
+    "47f4d59bf2f04e17",
+    "8cf7ae9492e0cfab",
+    "5d49041dfa0d7e94",
+    "1e7d610d7d2914fc",
+    "3f255ebdf48f986c",
+    "9e44b39d5ea985b8",
+    "d0d44b5cb6b8fb40",
+    "406c56bec5d6522a",
+    "93712ab84a03d7c6",
+    "702e59b8490e9aaa",
+    "af43010df6cc73f6",
+    "cadbca709ddc828d",
+    "32a123127e6b4db2",
+    "8eeccf2951c4b3a7",
+    "027d3a76b6524e7f",
+    "4a809f3f1474ae1d",
+    "017e136f8379fe95",
+    "1ce3c922f97531bf",
+    "fe5cfcd9bd50d486",
+    "dbd7addfb2f76fd0",
+    "8aeb731c1e9dfbfd",
+    "e5494920cbf3d121",
+    "fa2733c11939da1b",
+    "ea0216006b54bb03",
+    "ddce519fc1cd08c6",
+    "eca35f133fa2b2a7",
+    "740c1118368644b6",
+    "e3fe2402ba9b0425",
+    "831e8eee0967a287",
+    "f6901dd1ae529d8d",
+    "20295b5d440f9e70",
+    "d29380bcda2c77fe",
+    "a6848a84de3ebad4",
+    "75cb46611ee29922",
+    "4446cfb98f6eb0da",
+    "e324db5ca908f845",
+    "f5786d15c506949e",
+    "ebffeb41a7fdad27",
+    "ab5dd291a0ff099d",
+    "d62558dfbf6f366f",
+    "94bb1027e9e8174c",
+    "042a6deadc5475a2",
+    "dd2b45e936b933c6",
+    "79af2dc41a3946ec",
+    "b03840a660edddde",
+    "8d4a407cbf4a5b33",
+    "d844992682f291fd",
+    "45a6dfbac8498967",
+    "dec4d5217e1aaba2",
+    "514b47c00d247dcb",
+    "cb807a70a2be4087",
+    "8cbea7817c984347",
+    "70b10cd86fd68d7a",
+    "bccb95d3124ff74f",
+    "ec80c0aeeb7b1f17",
+    "bacdcfcc4ce1621f",
+    "eb6076650edf6fbe",
+    "d6fb040c231a26d6",
+    "10bbb103fd51c98d",
+    "860d05c3dee9e5d4",
+    "3eb49bdc8460e783",
+    "a602f7af32fbb86d",
+    "060cc22380fcf96a",
+    "2b4a260961b2d126",
+    "6abfcf139f18855a",
+    "bfca6d6f11dd762a",
+    "75ff6df622030c1c",
+    "d384862569240b57",
+    "4e88b59473ddd0a0",
+    "01cfad17a6d352cb",
+    "00713ec078c03fdb",
+    "f490161807154f63",
+    "5f9d7d3c20b86d55",
+    "7cf5e236cce23962",
+    "e9094caa9df0f452",
+    "4a4d7e1f65b918e8",
+    "122edd4e004b8185",
+    "a498e83b28f03e93",
+    "4a66f9038e5a154d",
+    "e8268b60ad37af86",
+    "1d1d18178a6e9daf",
+    "3fbed820910c0816",
+    "445144819f1d043a",
+    "0142badee7987bd3",
+    "6d278c4bb679936d",
+    "ca7bbcb4884e17ca",
+    "499d0fbac3f3782e",
+    "2f66867565e62e4b",
+    "9337d7bf70874cb4",
+    "d051a4005a757d98",
+    "02d6f0b87d6ede90",
+    "2733ef1b84bd9b2a",
+    "8a422ee95d0f2597",
+    "116f11f95f9a303e",
+    "994ffd1bde9531c9",
+    "50c8fb0e513cd829",
+    "0a8794083e249d6b",
+    "a7a65bbf926d87fe",
+    "041d34ad115b835d",
+    "38469946afdd7f4b",
+    "732a887982225747",
+    "3de3e6d1dc542784",
+    "8c63aae5d5d6e572",
+    "25a6bf9a51797339",
+    "5769b83768e01a38"
+   ]
+  },
+  {
+   "date": "2011-03-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:144217:por",
+     "title": "Decreto-Lei n.º 29-A/2011",
+     "published": "2011-03-01",
+     "dre_path": "/dr/detalhe/decreto-lei/29-a-2011-144217"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "55566a2bfae8c5a6",
+    "36738b0e3f65c368",
+    "63bd6a34098b6966",
+    "23836370ae405d04",
+    "b6ff2b2b35db11fb",
+    "6b52730d67b167b1",
+    "4cd40922304cded3",
+    "9a2277978473bbc3",
+    "2e73743f20100ad3",
+    "9070f945b1db7981",
+    "1e0cc6da35b88c6b",
+    "e65833e4088ad7b1",
+    "dc53f037b2159df8",
+    "cd48e9211e08f4fe",
+    "6f81624b08086498",
+    "6154d0c8e4ac9c86",
+    "93f6371d72305f32",
+    "47f4d59bf2f04e17",
+    "8cf7ae9492e0cfab",
+    "5d49041dfa0d7e94",
+    "1e7d610d7d2914fc",
+    "3f255ebdf48f986c",
+    "9e44b39d5ea985b8",
+    "d0d44b5cb6b8fb40",
+    "406c56bec5d6522a",
+    "93712ab84a03d7c6",
+    "702e59b8490e9aaa",
+    "af43010df6cc73f6",
+    "cadbca709ddc828d",
+    "32a123127e6b4db2",
+    "8eeccf2951c4b3a7",
+    "027d3a76b6524e7f",
+    "4a809f3f1474ae1d",
+    "017e136f8379fe95",
+    "1ce3c922f97531bf",
+    "fe5cfcd9bd50d486",
+    "dbd7addfb2f76fd0",
+    "8aeb731c1e9dfbfd",
+    "e5494920cbf3d121",
+    "fa2733c11939da1b",
+    "ea0216006b54bb03",
+    "ddce519fc1cd08c6",
+    "eca35f133fa2b2a7",
+    "740c1118368644b6",
+    "e3fe2402ba9b0425",
+    "831e8eee0967a287",
+    "f6901dd1ae529d8d",
+    "20295b5d440f9e70",
+    "d29380bcda2c77fe",
+    "a6848a84de3ebad4",
+    "75cb46611ee29922",
+    "4446cfb98f6eb0da",
+    "e324db5ca908f845",
+    "f5786d15c506949e",
+    "ebffeb41a7fdad27",
+    "ab5dd291a0ff099d",
+    "d62558dfbf6f366f",
+    "94bb1027e9e8174c",
+    "042a6deadc5475a2",
+    "dd2b45e936b933c6",
+    "79af2dc41a3946ec",
+    "b03840a660edddde",
+    "8d4a407cbf4a5b33",
+    "d844992682f291fd",
+    "45a6dfbac8498967",
+    "dec4d5217e1aaba2",
+    "514b47c00d247dcb",
+    "cb807a70a2be4087",
+    "8cbea7817c984347",
+    "70b10cd86fd68d7a",
+    "bccb95d3124ff74f",
+    "ec80c0aeeb7b1f17",
+    "bacdcfcc4ce1621f",
+    "eb6076650edf6fbe",
+    "d6fb040c231a26d6",
+    "10bbb103fd51c98d",
+    "860d05c3dee9e5d4",
+    "3eb49bdc8460e783",
+    "a602f7af32fbb86d",
+    "060cc22380fcf96a",
+    "2b4a260961b2d126",
+    "6abfcf139f18855a",
+    "bfca6d6f11dd762a",
+    "75ff6df622030c1c",
+    "d384862569240b57",
+    "4e88b59473ddd0a0",
+    "01cfad17a6d352cb",
+    "00713ec078c03fdb",
+    "f490161807154f63",
+    "5f9d7d3c20b86d55",
+    "7cf5e236cce23962",
+    "e9094caa9df0f452",
+    "4a4d7e1f65b918e8",
+    "122edd4e004b8185",
+    "a498e83b28f03e93",
+    "4a66f9038e5a154d",
+    "e8268b60ad37af86",
+    "1d1d18178a6e9daf",
+    "3fbed820910c0816",
+    "445144819f1d043a",
+    "0142badee7987bd3",
+    "6d278c4bb679936d",
+    "ca7bbcb4884e17ca",
+    "499d0fbac3f3782e",
+    "2f66867565e62e4b",
+    "9337d7bf70874cb4",
+    "d051a4005a757d98",
+    "02d6f0b87d6ede90",
+    "2733ef1b84bd9b2a",
+    "8a422ee95d0f2597",
+    "116f11f95f9a303e",
+    "994ffd1bde9531c9",
+    "50c8fb0e513cd829",
+    "0a8794083e249d6b",
+    "a7a65bbf926d87fe",
+    "041d34ad115b835d",
+    "38469946afdd7f4b",
+    "732a887982225747",
+    "3de3e6d1dc542784",
+    "8c63aae5d5d6e572",
+    "25a6bf9a51797339",
+    "5769b83768e01a38"
+   ]
+  }
+ ],
+ "fragments": {
+  "55566a2bfae8c5a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Novembro\n\nO [Decreto-Lei n.º 138-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-1997-230302), de 3 de Junho, criou o Instituto de Navegabilidade do Douro (IND), com o objectivo primordial de promoção e incentivo da navegação no rio Douro.\n\nA cabal prossecução desta finalidade determina a existência de um regulamento cujas normas garantam a segurança da navegação, disciplinando, nomeadamente, a utilização da via navegável pelos diversos tipos de embarcações, as condições a que devem obedecer as estruturas, fixas ou móveis, de apoio à navegação, a forma por que se hão-de processar as eclusagens.\n\nPor outro lado, revela-se ainda necessária a definição cartográfica dos conceitos, inseridos no citado decreto-lei, de «via navegável» e de «canal navegável», seja porque dela depende o exercício de muitas das competências detidas pelo IND, seja porque é no «canal navegável» do rio Douro, cuja sinalização ora se prevê, que se encontram garantidas as condições para uma navegação segura.\n\nAssim:\n\nNos termos do disposto na alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "36738b0e3f65c368": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado o Regulamento da Via Navegável do Douro, anexo ao presente diploma e que dele faz parte integrante."
+  },
+  "63bd6a34098b6966": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Regulamento da Via Navegável do Douro entra em vigor 30 dias após a data da publicação do presente diploma.\n\nVisto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - Emanuel José Leandro Maranha das Neves - António Ricardo Rocha de Magalhães.\n\nPromulgado em 10 de Outubro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Outubro de 1998.\n\nPelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.\n\nREGULAMENTO DA VIA NAVEGÁVEL DO DOURO"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "b6ff2b2b35db11fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento tem por objecto estabelecer as regras a que devem obedecer os utilizadores da via navegável do Douro."
+  },
+  "6b52730d67b167b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente Regulamento aplica-se em toda a extensão da via navegável do troço nacional do rio Douro, tal como se encontra definida na alínea a) do artigo 3.º do [Decreto-Lei n.º 138-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-1997-230302), de 3 de Junho.\n\n2 - A via navegável do rio Douro bem como o seu canal navegável são os referidos nos anexos I e II ao presente diploma, que dele fazem parte integrante.\n\n3 - Os originais das cartas constantes do anexo I encontram-se depositados, em plantas, à escala de 1:2000, na sede do Instituto de Navegabilidade do Douro (IND)."
+  },
+  "4cd40922304cded3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - A aplicação das regras constantes do presente Regulamento compete ao IND, nos termos do disposto no artigo 6.º do [Decreto-Lei n.º 138-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-1997-230302), de 3 de Junho.\n\n2 - A fiscalização do cumprimento das regras de segurança das embarcações e da disciplina da navegação é da responsabilidade da Capitania do Porto do Douro."
+  },
+  "706ca2caec052f6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Taxas de circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Taxas de circulação\n\n1 - Pela circulação de embarcações na via navegável é devido, nos termos do disposto na alínea m) do artigo 6.º do [Decreto-Lei n.º 138-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-1997-230302), de 3 de Junho, o pagamento de taxas de circulação, a fixar em portaria dos Ministros do Equipamento, do Planeamento e da Administração do Território e do Ambiente.\n\n2 - As taxas mencionadas no número anterior reportam à utilização de cada eclusa, podendo ser pagas pelas formas a identificar na portaria aí referida."
+  },
+  "2e73743f20100ad3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Definições\n\nPara efeitos da aplicação do presente Regulamento, entende-se por:\n\na) Embarcação - todo o engenho ou aparelho de qualquer natureza, excepto um hidroavião amarado, utilizado ou susceptível de ser utilizado como meio de transporte sobre a água;\n\nb) Embarcação motorizada - toda a embarcação utilizando os seus próprios meios mecânicos de propulsão, com excepção das embarcações cujo motor só é utilizado para aumentar a sua manobrabilidade quando não rebocados ou para efectuar pequenos deslocamentos, designadamente nos portos e em lugares de carga e descarga;\n\nc) Embarcação de comércio - todas as embarcações destinadas ao transporte de mercadorias, incluindo o batelão de impelir, e as embarcações destinadas ao transporte de mais de 12 passageiros;\n\nd) Embarcação de recreio - todo o engenho ou aparelho, de qualquer natureza, com comprimento entre 2,5 m e 24 m, utilizado ou susceptível de ser utilizado como meio de deslocação na água, aplicado a desportos náuticos ou em simples lazer, sem fins lucrativos. As motas de água, independentemente do seu comprimento, integram o conceito de embarcação de recreio;\n\ne) Embarcação de pequeno porte - toda a embarcação de arqueação bruta igual ou inferior a 20 t, com excepção das embarcações:\n\ni) Construídas ou preparadas para rebocar, impelir embarcações ou rebocar em formação a par outras embarcações que não sejam de pequeno porte;\n\nii) Autorizadas ao transporte de mais de 12 passageiros; e\n\niii) «Barcas de passagem»;\n\nf) Barca de passagem - toda a embarcação que assegura um serviço de travessia da via navegável e que é classificada como tal pela entidade competente;\n\ng) Comboio rebocado - qualquer agrupamento de duas ou mais embarcações, equipamentos flutuantes, estabelecimentos flutuantes ou materiais flutuantes rebocados por uma ou mais embarcações, fazendo estas últimas parte do comboio;\n\nh) Comboio impelido - o conjunto composto por embarcações interligadas, alinhadas em coluna, e em que uma, pelo menos, é colocada à frente da embarcação motorizada, a qual assegura a propulsão do «comboio» e que é denominada «impelidor»;\n\ni) Formação a par - um conjunto composto exclusivamente das embarcações amarradas bordo contra bordo e das quais pelo menos uma é motorizada e assegura a propulsão da formação;\n\nj) Equipamento flutuante - qualquer construção flutuante que possui instalações mecânicas destinadas a trabalhar nas vias navegáveis ou nos portos, tal como dragas, elevadores, guindastes ou cábreas;\n\nk) Estabelecimento flutuante - toda a instalação flutuante que não é normalmente destinada a ser deslocada, como é o caso, nomeadamente, das docas, embarcadouros e hangares para barcos;\n\nl) Material flutuante - jangadas, bem como toda a construção, conjunto ou objecto apto a navegar, que não uma embarcação ou um equipamento flutuante;\n\nm) Noite - o período compreendido entre o pôr do Sol e o nascer do Sol;\n\nn) Dia - o período compreendido entre o nascer e o pôr do Sol;\n\no) Som breve - um som com uma duração de cerca de um segundo;\n\np) Som prolongado - um som com uma duração de cerca de quatro segundos; o intervalo entre dois sons consecutivos é de cerca de um segundo;\n\nq) Série de sons muito breves - uma série de pelo menos seis sons de uma duração de cerca de um quarto de segundo cada, separados por intervalos da mesma duração."
+  },
+  "9070f945b1db7981": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condutor\n\n1 - Toda a embarcação, material flutuante ou comboio que utilize a via navegável do Douro estará obrigatoriamente sob a responsabilidade e autoridade de uma pessoa, designada por condutor.\n\n2 - São abrangidos pelo termo «condutor», designadamente, os nomes correntemente utilizados de comandante, mestre e arrais.\n\n3 - Todo o «comboio» ou «formação a par» deverá estar igualmente sob a autoridade de um condutor da embarcação motorizada.\n\n4 - Num comboio impelido, as embarcações, excepção feita ao impelidor, não necessitam de condutor, mas encontram-se sob a autoridade do condutor do impelidor."
+  },
+  "1e0cc6da35b88c6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Reconhecimento de cartas estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Reconhecimento de cartas estrangeiras\n\nAs cartas de condutor ou documento equivalente emitidos pelos países da União Europeia são reconhecidos para efeitos da navegação na via navegável, nos termos da legislação aplicável."
+  },
+  "e65833e4088ad7b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Deveres da tripulação e das outras pessoas a bordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres da tripulação e das outras pessoas a bordo\n\n1 - Os membros da tripulação devem executar as ordens que lhes são dadas pelo condutor no âmbito da sua responsabilidade.\n\n2 - Todas as outras pessoas que se encontrem a bordo devem conformar-se às ordens que lhes são dadas pelo condutor no interesse da segurança e da ordem a bordo."
+  },
+  "dc53f037b2159df8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Regime de pilotagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime de pilotagem\n\n1 - De acordo com o disposto no [Decreto-Lei n.º 219/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1985-182850), de 3 de Julho, não se aplica à via navegável do Douro o regime geral previsto no Regulamento dos Serviços de Pilotagem dos Portos e Barras, devendo as embarcações que nela navegarem manter obrigatoriamente embarcado um condutor.\n\n2 - Excepciona-se do disposto no número anterior a área da barra do Douro, a qual fica sujeita ao Regulamento dos Serviços de Pilotagem dos Portos e Barras."
+  },
+  "cd48e9211e08f4fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Utilização da via navegável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Utilização da via navegável\n\n1 - O comprimento, a boca, a altura acima da linha de água, o calado e a velocidade das embarcações deve ser compatível com as características da via navegável e das obras de arte ao longo do seu percurso.\n\n2 - A circulação de uma embarcação na via navegável exige um certificado emitido pelo IND comprovando, nomeadamente, a adequação das características da embarcação à via navegável.\n\n3 - Sempre que o IND tenha dúvidas sobre a adequação das características da embarcação à navegação no canal, tendo em conta certas especificidades de alguns troços daquela via, deverá solicitar o parecer de peritos das áreas da engenharia naval e da navegação.\n\n4 - O IND poderá nomear uma comissão de peritos ou recorrer a pareceres pontuais de peritos nas áreas referidas."
+  },
+  "6f81624b08086498": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Carga máxima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Carga máxima\n\n1 - As embarcações não devem ser carregadas por forma a pôr em causa a estabilidade e nunca para além da linha de maior imersão autorizada.\n\n2 - As embarcações destinadas ao transporte de passageiros não devem ter a bordo um número de passageiros superior ao estabelecido na lotação."
+  },
+  "6154d0c8e4ac9c86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Documentos de bordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Documentos de bordo\n\n1 - A bordo das embarcações devem encontrar-se os documentos e certificados impostos pelas leis e regulamentos em vigor.\n\n2 - Estes documentos devem ser apresentados a pedido dos agentes de autoridade competentes."
+  },
+  "93f6371d72305f32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Regulamento da Via Navegável do Douro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamento da Via Navegável do Douro\n\nTodos os condutores estão obrigados a conhecer o Regulamento da Via Navegável do Douro, sendo obrigatória a sua existência a bordo das embarcações, com excepção das de pequeno porte e dos batelões de impelir."
+  },
+  "47f4d59bf2f04e17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Dever geral de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Dever geral de vigilância\n\nO condutor deve tomar todas as medidas de precaução para evitar:\n\na) Causar prejuízos a outras embarcações ou materiais flutuantes, às margens, às obras ou instalações de toda a natureza que se encontrem nas margens ou nas proximidades;\n\nb) Criar entraves à navegação;\n\nc) Pôr em perigo a vida de pessoas."
+  },
+  "8cf7ae9492e0cfab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Embarcação naufragada ou encalhada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Embarcação naufragada ou encalhada\n\nO condutor de uma embarcação ou material flutuante encalhado ou naufragado deve:\n\na) Avisar o mais rapidamente possível o IND e a Capitania do Porto do Douro, mantendo um membro da tripulação a bordo ou nas proximidades do local do acidente enquanto não for superiormente autorizada a sua saída;\n\nb) Sinalizar a embarcação ou material flutuante acidentado;\n\nc) Avisar as embarcações ou materiais flutuantes que se aproximem, a fim de que possam tomar em tempo útil as disposições necessárias à sua segurança."
+  },
+  "5d49041dfa0d7e94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Obrigação de desimpedir a via navegável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Obrigação de desimpedir a via navegável\n\n1 - O condutor deve empenhar-se no imediato desimpedimento da via navegável quando:\n\na) Uma embarcação ou qualquer material flutuante encalhado ou afundado, bem como qualquer objecto perdido por uma embarcação, obstrua ou ameace obstruir, total ou parcialmente, a via navegável;\n\nb) Uma embarcação esteja impossibilitada de manobrar ou corra o risco de naufragar.\n\n2 - Com excepção dos casos previstos no número anterior, quando um objecto susceptível de constituir um obstáculo à navegação caia à água, o proprietário desse objecto, ou seu representante, ou o causador da queda, é obrigado a proceder, com urgência, à sua recuperação, salvo se não lhe for possível fazê-lo imediatamente, caso em que deverá avisar, com urgência, as autoridades e tomar as medidas necessárias para evitar qualquer acidente e para garantir a manutenção da navegação.\n\n3 - A recuperação referida no número anterior deverá efectuar-se no prazo indicado pelo IND.\n\n4 - Quando uma embarcação ou material flutuante se afundar, o condutor é obrigado a:\n\na) Avisar, com urgência, o IND e a Capitania do Porto do Douro e tomar, de imediato, as medidas necessárias para evitar qualquer acidente e para garantir a manutenção da navegação;\n\nb) Tomar as medidas necessárias para remover ou pôr a flutuar a embarcação ou material flutuante dentro dos prazos fixados pelo IND, sem prejuízo das responsabilidades em que eventualmente incorram terceiros.\n\n5 - Logo que o IND considere possível reiniciar a navegação, o obstáculo deverá ficar devidamente sinalizado, constituindo as correspondentes despesas encargo do proprietário do objecto que criou o obstáculo."
+  },
+  "1e7d610d7d2914fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Objectos salientes das embarcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Objectos salientes das embarcações\n\n1 - É proibido deixar salientes das embarcações, dos materiais flutuantes ou de equipamentos flutuantes objectos que possam provocar os inconvenientes referidos no artigo 14.º\n\n2 - Quando as âncoras estão içadas, devem ser recolhidas de modo a ficarem acima da linha de água."
+  },
+  "3f255ebdf48f986c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Objectos e mercadorias caídos na via navegável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Objectos e mercadorias caídos na via navegável\n\n1 - Os objectos e mercadorias caídos da embarcação, quer quando navega quer durante as operações de carga e descarga, devem ser de imediato recuperados com os próprios meios da embarcação.\n\n2 - Se a recuperação imediata não for possível, deve o condutor avisar com a maior urgência o IND e a Capitania do Porto do Douro, indicando as dimensões e o peso do objecto ou mercadoria caída e o local preciso onde a queda ocorreu, salvo se este aviso não puder ser feito directamente, caso em que se recorrerá à forma mais rápida, através, designadamente, de outra embarcação ou dos serviços da eclusa mais próxima.\n\n3 - Se o objecto se afundar, o local deverá ser assinalado com uma bóia de arinque, devendo a recuperação do objecto efectuar-se no prazo indicado pelo IND.\n\n4 - Quando uma embarcação detectar algum obstáculo na via navegável, o seu condutor deverá comunicar o facto ao IND e à Polícia Marítima, indicando, tão exactamente quanto possível, o local desse obstáculo."
+  },
+  "9e44b39d5ea985b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Avarias provocadas no canal navegável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Avarias provocadas no canal navegável\n\n1 - Quando uma embarcação ou material flutuante provocar danos, nomeadamente numa ponte, eclusa ou no sistema de sinalização, o condutor deve avisar imediatamente o IND.\n\n2 - Os danos referidos no número anterior são da responsabilidade do proprietário da embarcação ou material flutuante que os causou."
+  },
+  "d0d44b5cb6b8fb40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Descargas para a via navegável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Descargas para a via navegável\n\n1 - É proibido lançar ou deixar escoar para a via navegável:\n\na) Resíduos de combustível ou de lubrificantes sob qualquer forma, bem como misturas destes;\n\nb) Esgotos sanitários e águas sujas;\n\nc) Produtos químicos;\n\nd) Lixos; e\n\ne) Objectos ou substâncias de natureza tal que possam vir a constituir um obstáculo ou perigo para a navegação ou para os outros utilizadores da via navegável.\n\n2 - Para cumprimento do disposto no número anterior, deverão os condutores das embarcações bombear as águas sujas ou esgotos dos tanques para estações sanitárias existentes nos cais.\n\n3 - Os condutores das embarcações, salvo das embarcações de pequeno porte, deverão entregar, contra recibo, nas instalações para o efeito autorizadas, os resíduos petrolíferos ou as suas misturas com água a intervalos regulares, que lhes serão fixados face ao estado de conservação da sua embarcação.\n\n4 - Para garantia do cumprimento do disposto no número anterior, todas as entregas são registadas num livro, que será conservado a bordo, sendo o modelo do livro e a data de entrada em vigor dos respectivos registos determinados pelo IND.\n\n5 - É proibido aplicar óleos minerais novos ou usados no exterior das embarcações ou de qualquer material flutuante."
+  },
+  "406c56bec5d6522a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Sinalização de embarcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Sinalização de embarcações"
+  },
+  "93712ab84a03d7c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Sinalização visual de embarcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Sinalização visual de embarcações"
+  },
+  "702e59b8490e9aaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Generalidades\n\n1 - Sem prejuízo de outras disposições aplicáveis, designadamente o Regulamento Internacional para Evitar Abalroamentos no Mar (RIEAM), estão em vigor na via navegável do rio Douro os sinais constantes do presente capítulo.\n\n2 - Durante o dia, aplica-se o disposto nos artigos 27.º a 30.º à navegação e o disposto nos artigos 31.º a 34.º às embarcações fundeadas.\n\n3 - Durante a noite, ou sempre que as condições climatéricas determinem uma redução na visibilidade, aplica-se o disposto nos artigos 35.º a 38.º à navegação e o disposto nos artigos 39.º a 43.º às embarcações fundeadas.\n\n4 - No anexo III ao presente Regulamento, que dele faz parte integrante, são indicados os sinais visuais usados pelas embarcações nos termos prescritos no presente capítulo."
+  },
+  "af43010df6cc73f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Luzes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Luzes\n\n1 - As luzes a que se refere o presente capítulo devem ser visíveis à distância e apresentar uma luz contínua e uniforme.\n\n2 - As luzes das embarcações são designadas, de acordo com a sua intensidade, por luzes intensas, luzes claras ou luzes normais."
+  },
+  "cadbca709ddc828d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Bandeiras e placas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Bandeiras e placas\n\n1 - As bandeiras e placas prescritas no presente capítulo devem ser rectangulares.\n\n2 - As cores não devem estar nem desbotadas nem sujas.\n\n3 - As dimensões devem ser suficientes para assegurar uma boa visibilidade, sendo esta condição considerada como satisfeita se o comprimento e largura forem de, pelo menos, 1 m."
+  },
+  "32a123127e6b4db2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Cilindros, balões e cones",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Cilindros, balões e cones\n\n1 - Os cilindros, balões e cones prescritos no presente capítulo podem ser substituídos por dispositivos apresentando, à distância, a mesma aparência.\n\n2 - As cores não devem estar nem desbotadas nem sujas.\n\n3 - As dimensões devem ser suficientes para assegurar uma boa visibilidade, sendo esta condição satisfeita se, em todos os casos:\n\na) Nos cilindros, a altura for de, pelo menos, 80 cm e o diâmetro de, pelo menos, 50 cm;\n\nb) Nos balões, o diâmetro for de, pelo menos, 80 cm;\n\nc) Nos cones, a altura for de, pelo menos, 80 cm e o diâmetro de base de, pelo menos, 65 cm."
+  },
+  "8eeccf2951c4b3a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Luzes e sinais interditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Luzes e sinais interditos\n\n1 - É proibido fazer uso de luzes ou sinais que não sejam os mencionados no presente Regulamento ou fazer uso de luzes ou sinais mencionados nas condições que não as prescritas ou admitidas pelo presente Regulamento, salvo quando esse uso se destine à comunicação entre duas embarcações ou entre uma embarcação e terra e desde que não induza em erro a navegação.\n\n2 - É proibido o uso de bandeiras que sejam susceptíveis de prejudicar a visibilidade ou de dificultar a identificação dos sinais previstos no presente Regulamento."
+  },
+  "027d3a76b6524e7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Luzes e projectores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Luzes e projectores\n\nÉ proibido fazer uso de luzes ou de projectores que:\n\na) Possam ser confundidos com as luzes ou sinais mencionados no presente Regulamento ou possam prejudicar a visibilidade destas luzes ou sinais; ou\n\nb) Produzam encandeamento, constituindo um perigo ou embaraço para a navegação ou para a circulação nas margens."
+  },
+  "4a809f3f1474ae1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Sinalização de dia navegando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Sinalização de dia navegando"
+  },
+  "017e136f8379fe95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Sinalização de dia de comboios rebocados navegando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Sinalização de dia de comboios rebocados navegando\n\n1 - As disposições do presente artigo não são aplicáveis a pequenas embarcações rebocando apenas pequenas embarcações nem às pequenas embarcações rebocadas.\n\n2 - A embarcação motorizada à testa de um comboio rebocado deve trazer um cilindro amarelo bordado, tanto em cima como em baixo, por duas bandas, negra e branca, sendo as bandas brancas as da extremidade do cilindro, devendo este ser colocado verticalmente a vante, a uma altura suficiente para ser visível à distância.\n\n3 - O cilindro a que se refere o número anterior deve ser conservado pela embarcação, ainda que esta seja precedida temporariamente, num curto sector, por uma embarcação motorizada de reforço, devendo esta também trazer o cilindro.\n\n4 - No caso em que um comboio comporta, à testa, duas embarcações motorizadas navegando uma ao lado da outra, emparelhadas ou não, cada uma destas embarcações deve trazer o cilindro prescrito nos números anteriores, aplicando-se a cada rebocador a mesma prescrição, caso se trate de uma embarcação, uma jangada, um estabelecimento flutuante ou de outra construção flutuante manobrada por vários rebocadores.\n\n5 - A última embarcação de um comboio rebocado deve trazer um balão amarelo colocado em lugar apropriado e a uma altura tal que seja visível à distância, da seguinte forma:\n\na) Se o comboio terminar com duas embarcações de braço dado, cada uma delas deve trazer o balão;\n\nb) Se o comboio terminar com uma fila de mais de duas embarcações de braço dado, só as duas embarcações exteriores da fila devem trazer o balão.\n\n6 - As pequenas embarcações que terminem o comboio não serão tidas em conta para a aplicação do disposto no número anterior.\n\n7 - As embarcações de um comboio rebocado, encontrando-se entre a embarcação à testa do comboio e ou as embarcações sujeitas a trazer o balão amarelo previsto no n.º 5, devem trazer um pavilhão vermelho com um quadrado branco no meio, colocado a uma altura tal que seja visível à distância, sendo esta condição satisfeita se a altura for de, pelo menos, 4 m acima do plano das marcas de imersão."
+  },
+  "1ce3c922f97531bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Sinalização de dia suplementar de embarcações utilizando ao mesmo tempo velas e motor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Sinalização de dia suplementar de embarcações utilizando ao mesmo tempo velas e motor\n\n1 - Uma embarcação navegando à vela que faça, simultaneamente, uso de motor deve trazer um cone preto cuja ponta esteja dirigida para cima, devendo este cone ser colocado a, pelo menos, 3 m acima do plano das marcas de imersão e em local onde seja bem visível.\n\n2 - As disposições do presente artigo não se aplicam às pequenas embarcações."
+  },
+  "fe5cfcd9bd50d486": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Sinalização de dia suplementar de embarcações navegando e efectuando transportes de matérias inflamáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Sinalização de dia suplementar de embarcações navegando e efectuando transportes de matérias inflamáveis\n\nAs embarcações-tanque efectuando ou tendo efectuado transportes de matérias líquidas inflamáveis definidas no Acordo Europeu Relativo ao Transporte Internacional de Mercadorias Perigosas por Via de Navegação Interior devem trazer, além da sinalização prescrita pelas outras disposições do presente Regulamento ou por outras disposições aplicáveis, um cone azul, ponta para baixo, em lugar apropriado e a uma altura tal que seja visível à distância."
+  },
+  "dbd7addfb2f76fd0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Sinalização de dia suplementar de embarcações navegando e efectuando transportes de matérias explosivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Sinalização de dia suplementar de embarcações navegando e efectuando transportes de matérias explosivas\n\nAs embarcações transportando matérias explosivas definidas no Acordo Europeu Relativo ao Transporte Internacional de Mercadorias Perigosas por Via de Navegação Interior devem trazer, além da sinalização prescrita por outras disposições deste Regulamento ou por outras disposições aplicáveis, um cone vermelho, ponta para baixo, colocado em lugar apropriado e a uma altura tal que seja visível à distância."
+  },
+  "8aeb731c1e9dfbfd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Sinalização de dia fundeado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Sinalização de dia fundeado"
+  },
+  "e5494920cbf3d121": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Sinalização de dia de embarcações fundeadas e efectuando transportes de matérias inflamáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Sinalização de dia de embarcações fundeadas e efectuando transportes de matérias inflamáveis\n\nAs embarcações citadas no artigo 29.º devem trazer o cone azul aí prescrito."
+  },
+  "fa2733c11939da1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Sinalização de dia de embarcações fundeadas e efectuando transportes de matérias explosivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Sinalização de dia de embarcações fundeadas e efectuando transportes de matérias explosivas\n\nAs embarcações citadas no artigo 30.º devem trazer o cone vermelho aí prescrito."
+  },
+  "ea0216006b54bb03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Sinalização de dia de equipamentos flutuantes a trabalhar, assim como de embarcações encalhadas ou afundadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Sinalização de dia de equipamentos flutuantes a trabalhar, assim como de embarcações encalhadas ou afundadas\n\nOs equipamentos flutuantes a trabalhar, bem como as embarcações encalhadas ou afundadas, devem trazer, do lado em que o canal está livre, dois pavilhões, colocados um acima do outro, em que o superior é vermelho e o inferior branco, e, do lado em que o canal não está livre, um pavilhão vermelho, colocado à mesma altura do pavilhão vermelho do outro lado."
+  },
+  "ddce519fc1cd08c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Sinalização de dia de âncoras das embarcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Sinalização de dia de âncoras das embarcações\n\nSalvo prescrição em contrário, as embarcações cujas âncoras estejam mergulhadas de tal maneira que possam causar um perigo para a navegação devem assinalar cada uma dessas âncoras com um flutuador amarelo."
+  },
+  "eca35f133fa2b2a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Sinalização de noite navegando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Sinalização de noite navegando"
+  },
+  "740c1118368644b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Sinalização de noite de embarcações motorizadas isoladas a navegar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Sinalização de noite de embarcações motorizadas isoladas a navegar\n\nAs embarcações motorizadas isoladas navegando devem trazer as luzes seguintes:\n\na) Uma luz de mastro, constituída por uma luz intensa branca; esta luz deve ser visível sobre um arco de horizonte de 225º, ou seja, 112º 30' de cada lado da embarcação (a contar da proa até 22º 30' para ré do través de cada bordo), e não deve ser visível senão neste arco;\n\nb) Os faróis de borda, constituídos, a estibordo, por uma luz verde-clara e, a bombordo, por uma luz vermelho-clara; cada uma destas luzes deve ser visível sobre um arco de horizonte de 112º 30' (desde a proa até 22º 30' para ré do través de cada bordo, e não deve ser visível senão neste arco);\n\nc) As luzes referidas na alínea anterior devem encontrar-se à mesma altura e sobre a mesma perpendicular no eixo da embarcação e devem estar ocultas interiormente de tal maneira que a luz verde não possa ser vista de bombordo nem a luz vermelha de estibordo;\n\nd) Um farol de popa, constituído por uma luz normal branca, visível sobre um arco de horizonte de 135º, ou seja, 67º 30' sobre cada bordo a partir de ré, e somente sobre este arco."
+  },
+  "e3fe2402ba9b0425": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Sinalização de noite de comboios rebocados navegando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Sinalização de noite de comboios rebocados navegando\n\n1 - As disposições constantes do presente artigo não são aplicáveis nem às pequenas embarcações que reboquem apenas pequenas embarcações nem a pequenas embarcações rebocadas.\n\n2 - A embarcação motorizada à testa de um comboio rebocado deve trazer:\n\na) Além da luz do mastro e das luzes de borda previstas no artigo 35.º do presente Regulamento, uma segunda luz intensa, branca, visível sobre o mesmo arco de horizonte que a luz do mastro, colocada a 1 m, pouco mais ou menos, abaixo daquele, e, tanto quanto possível, 1 m, pelo menos, mais alta que os faróis de borda;\n\nb) Em lugar do farol da popa indicado no artigo 35.º do presente Regulamento, uma luz normal, amarela, visível sobre o mesmo arco de horizonte daquela, devendo esta luz ser colocada num local apropriado e a uma altura suficiente para que seja bem visível pela unidade rebocada que segue a embarcação.\n\n3 - A embarcação deve conservar as luzes referidas no número anterior, mesmo que seja precedida temporariamente, num curto sector, por uma embarcação motorizada de reforço, devendo esta última trazer também estas luzes.\n\n4 - No caso em que um comboio rebocado leva à testa duas embarcações motorizadas navegando uma ao lado da outra, de braço dado ou não, cada uma das embarcações deve trazer uma terceira luz intensa, branca, visível sobre o mesmo arco de horizonte da luz de mastro e colocada aproximadamente a 2 m abaixo desta, mas, tanto quanto possível, 1 m, pelo menos, mais alta que os faróis de borda.\n\n5 - Aplica-se o disposto no número anterior a cada uma das embarcações motorizadas manobrando em conjunto com uma outra embarcação, uma jangada, um estabelecimento flutuante ou uma outra construção flutuante.\n\n6 - As embarcações de um comboio rebocado, seguindo-o, ou as embarcações motorizadas citadas nos n.os 2 e 3, devem trazer uma luz no mastro, clara, branca, visível à distância, colocada, pelo menos, 6 m acima do plano das marcas de imersão, salvo se um comprimento de um comboio compreende uma fila de mais de duas embarcações de braço dado, devendo estas luzes ser trazidas somente pelas duas embarcações exteriores da fila.\n\n7 - As luzes de mastro a que se refere o número anterior de todas as embarcações rebocadas de um comboio devem, tanto quanto possível, ser colocadas a uma mesma altura, acima do plano de água.\n\n8 - A ou as embarcações formando o último comprimento de um comboio rebocado devem trazer, além da luz de mastro prescrita no n.º 6, o farol de popa prescrito no artigo 35.º deste Regulamento, salvo se o comboio terminar com uma fila de mais de duas embarcações de braço dado, caso em que esta luz deve ser trazida somente pelas duas embarcações exteriores da fila."
+  },
+  "831e8eee0967a287": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Sinalização de noite suplementar de embarcações navegando e efectuando certos transportes de matérias inflamáveis ou explosivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Sinalização de noite suplementar de embarcações navegando e efectuando certos transportes de matérias inflamáveis ou explosivas\n\nOs navios ou embarcações-tanque efectuando ou tendo efectuado transportes de matérias líquidas inflamáveis devem trazer, para além das luzes prescritas por outras disposições do presente Regulamento e por outras disposições aplicáveis, uma luz normal, azul, sobre a parte de trás, num lugar apropriado e a uma altura tal que seja visível à distância."
+  },
+  "f6901dd1ae529d8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Sinalização de noite suplementar de embarcações navegando e efectuando certos transportes de matérias explosivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Sinalização de noite suplementar de embarcações navegando e efectuando certos transportes de matérias explosivas\n\nAs embarcações transportando matérias explosivas definidas no Acordo Europeu Relativo ao Transporte Internacional de Mercadorias Perigosas devem trazer, para além das luzes prescritas por outras disposições aplicáveis, uma luz vermelha na parte de ré, em lugar apropriado e a uma altura tal que seja visível à distância, devendo esta luz ser clara nas embarcações motorizadas e normal nas embarcações não motorizadas."
+  },
+  "20295b5d440f9e70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Sinalização de noite fundeado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Sinalização de noite fundeado"
+  },
+  "d29380bcda2c77fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Sinalização de noite de embarcações fundeadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Sinalização de noite de embarcações fundeadas\n\n1 - Toda a embarcação, salvo se se tratar de uma pequena embarcação, deve trazer:\n\na) Uma luz normal, branca, colocada do lado do canal e 3 m, pelo menos, acima do plano das marcas de imersão, quando esteja amarrada directa ou indirectamente à margem;\n\nb) Duas luzes normais, brancas, colocadas em lugares apropriados, uma na metade de vante e outra na metade de ré da embarcação, a 3 m, pelo menos, acima da linha de água, quando esteja fundeada afastada da margem, sem acesso directo a esta.\n\n2 - Toda a pequena embarcação fundeada deve ter uma luz normal, branca, do lado do canal."
+  },
+  "a6848a84de3ebad4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Sinalização de noite suplementar de embarcações fundeadas e efectuando certos transportes de matérias inflamáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Sinalização de noite suplementar de embarcações fundeadas e efectuando certos transportes de matérias inflamáveis\n\nAs embarcações citadas no artigo 37.º devem trazer, além das luzes prescritas no artigo 39.º, uma luz normal, azul, na parte de ré, em local apropriado e a uma altura tal que seja visível à distância."
+  },
+  "75cb46611ee29922": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Sinalização de noite suplementar de embarcações fundeadas e efectuando certos transportes de matérias explosivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Sinalização de noite suplementar de embarcações fundeadas e efectuando certos transportes de matérias explosivas\n\nAs embarcações citadas no artigo 38.º devem trazer, além das luzes prescritas no artigo 39.º, uma luz vermelha, normal ou clara, que deve estar colocada a cerca de 1 m abaixo da luz branca prescrita na alínea a) do n.º 1 do artigo 39.º ou da luz de ré prescrita na alínea b) do n.º 1 do mesmo artigo."
+  },
+  "4446cfb98f6eb0da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Sinalização de noite de equipamentos flutuantes a trabalhar e embarcações encalhadas ou afundadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Sinalização de noite de equipamentos flutuantes a trabalhar e embarcações encalhadas ou afundadas\n\n1 - Os equipamentos flutuantes a trabalhar e as embarcações encalhadas devem trazer:\n\na) Do ou dos lados em que o canal está livre, uma luz vermelha e uma luz normal, branca, ou uma luz clara, vermelha, e uma luz clara, branca, colocadas cerca de 1 m acima uma da outra, sendo a luz vermelha a mais alta; e\n\nb) Do lado em que o canal não está livre, uma luz normal, vermelha, colocada à mesma altura que a luz vermelha prescrita na alínea a) acima e da mesma intensidade desta.\n\n2 - As luzes referidas no número anterior devem ser colocadas a uma altura tal que sejam vistas de todo o horizonte.\n\n3 - As embarcações afundadas devem estar sinalizadas por bóias empregadas normalmente para indicar os obstáculos da via navegável."
+  },
+  "e324db5ca908f845": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Sinalização de noite suplementar de embarcações cujas amarras podem representar um perigo para a navegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Sinalização de noite suplementar de embarcações cujas amarras podem representar um perigo para a navegação\n\nAs embarcações cujas âncoras estão mergulhadas de tal maneira que possam representar um perigo para a navegação devem trazer, além das luzes prescritas pelas outras disposições do presente Regulamento e por outras disposições aplicáveis, uma segunda luz normal, branca, colocada a cerca de 1 m abaixo da luz prescrita na alínea a) do n.º 1 do artigo 39.º, ou da luz de vante prescrita na alínea b) do n.º 1 do mesmo artigo, sendo que, caso existam equipamentos flutuantes a trabalhar, cada uma das âncoras deve estar assinalada por uma bóia com luz normal, branca."
+  },
+  "f5786d15c506949e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Sinalização sonora das embarcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Sinalização sonora das embarcações"
+  },
+  "ebffeb41a7fdad27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Generalidades\n\n1 - Desde que os sinais sonoros, diferentes dos toques de sino, sejam previstos pelas prescrições do presente Regulamento ou de outras disposições aplicáveis, os sinais sonoros devem ser emitidos:\n\na) A bordo das embarcações motorizadas, excepção feita no caso de certas pequenas embarcações citadas na alínea b), por meio de avisos sonoros accionados mecanicamente, colocados suficientemente altos, desimpedidos pela frente e, tanto quanto possível, por trás; os sinais sonoros produzidos por estes avisos sonoros devem corresponder às prescrições definidas no anexo IV ao presente Regulamento, que dele faz parte integrante;\n\nb) A bordo das embarcações não motorizadas e a bordo das pequenas embarcações motorizadas cuja maquinaria não comporta aparelho para emissão de sinais, por meio de uma trompa ou corneta apropriada, devendo estes sinais corresponder às prescrições previstas no anexo IV do presente Regulamento.\n\n2 - Os sinais sonoros de embarcações motorizadas, com excepção das pequenas embarcações, podem ser acompanhados de sinais luminosos sincronizados com eles; estes sinais luminosos serão amarelos, claros e visíveis à distância.\n\n3 - Quando as embarcações naveguem em comboio ou em formação a par, os sinais sonoros prescritos não têm de ser dados senão pela embarcação a bordo da qual se encontra o condutor do comboio ou formação.\n\n4 - Quando uma embarcação em perigo queira pedir socorro, pode emitir toques de sino ou sons prolongados repetidos.\n\n5 - Para assegurar a audibilidade dos sinais sonoros, o nível de pressão acústica ponderado do ruído na casa do leme, no local da cabeça do homem do leme, não deverá ultrapassar 80 dB, navegando as embarcações nas condições normais de exploração."
+  },
+  "ab5dd291a0ff099d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Uso de sinais sonoros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Uso de sinais sonoros\n\nSem prejuízo das outras disposições do presente Regulamento, toda a embarcação, com excepção das pequenas embarcações isoladas ou que não reboquem ou não tendo a par senão pequenas embarcações, deve usar, em caso de necessidade, os sinais sonoros além do toque de sino e do sinal de três sons de tonalidades diferentes seguindo-se sem interrupção e que devem ser constituídos pela emissão de um som ou de vários sons consecutivos com as características previstas nas alíneas o), p) e q) do artigo 5.º do presente Regulamento."
+  },
+  "d62558dfbf6f366f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Sinais sonoros interditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Sinais sonoros interditos\n\n1 - É proibido fazer uso de sinais sonoros que não sejam os mencionados neste Regulamento ou fazer uso dos sinais mencionados em condições que não sejam as prescritas ou admitidas pelo presente Regulamento.\n\n2 - Contudo, para a comunicação entre embarcações ou entre uma embarcação e terra, o uso de outros sinais sonoros é permitido, com a condição de não se prestarem a confusão com os sinais mencionados no presente Regulamento."
+  },
+  "94bb1027e9e8174c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Sinalização da via navegável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Sinalização da via navegável"
+  },
+  "042a6deadc5475a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Sinalização da via",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Sinalização da via\n\n1 - Tendo em vista a segurança da navegação de embarcações, designadamente daquelas com dimensões similares às referidas no artigo 67.º, existe um sistema de sinalização e balizagem da via navegável constituído actualmente por bóias, de acordo com as normas internacionais, sendo que as bóias vermelhas, que assinalam os limites navegáveis do lado da margem direita, possuem reflectores de radar rectangulares e as verdes, que assinalam o limite da via do lado da margem esquerda, reflectores de radar pontiagudos.\n\n2 - Além da sinalização no leito do rio, deverá haver marcas e painéis com indicações complementares colocados na margem.\n\n3 - As embarcações de reduzido calado poderão navegar para além dos limites sinalizados do canal navegável, embora o devam fazer com precaução e sob sua inteira responsabilidade.\n\n4 - O anexo V ao presente Regulamento, que dele faz parte integrante, define os sinais de interdição, obrigação, restrição, recomendação e de indicação, assim como os sinais auxiliares da via navegável."
+  },
+  "dd2b45e936b933c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Sinalização sob as pontes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Sinalização sob as pontes\n\n1 - A sinalização sob as pontes é feita por meio de placas onde se encontram representados losangos divididos verticalmente em duas metades, uma branca e outra verde ou vermelha.\n\n2 - No caso de os losangos brancos e verdes, as partes coloridas a verde apontam uma para a outra, para indicarem que o intervalo entre elas é o recomendável para a navegação.\n\n3 - No caso dos losangos brancos e vermelhos, as partes brancas apontam uma para a outra, para indicarem o único vão em que é permitida a navegação no sentido em que a embarcação se movimenta."
+  },
+  "79af2dc41a3946ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Protecção da sinalização da via",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Protecção da sinalização da via\n\n1 - É interdito amarrar qualquer embarcação aos meios de sinalização constituídos, designadamente, por bóias, flutuadores, balizas e painéis.\n\n2 - Quando uma embarcação ou material flutuante desloque ou danifique qualquer peça de sinalização da via navegável, o condutor obriga-se a dar conhecimento do facto ao IND.\n\n3 - O condutor deve dar conhecimento imediato ao IND e à Polícia Marítima sempre que constate existirem anomalias na sinalização, designadamente desaparecimento ou deslocamento de bóias ou destruição de sinais."
+  },
+  "b03840a660edddde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Regras de circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Regras de circulação"
+  },
+  "8d4a407cbf4a5b33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Barra do Douro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Barra do Douro"
+  },
+  "d844992682f291fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Entrada e saída da barra do Douro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Entrada e saída da barra do Douro\n\nA entrada e saída da barra do Douro efectuar-se-á de acordo com as normas aplicáveis ao serviço de pilotagem."
+  },
+  "45a6dfbac8498967": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Circulação na via navegável do Douro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Circulação na via navegável do Douro"
+  },
+  "dec4d5217e1aaba2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Princípios gerais\n\nA navegação é efectuada de acordo com o Regulamento Internacional para Evitar Abalroamentos no Mar, aprovado pelo [Decreto-Lei n.º 55/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1978-446954), de 27 de Junho, com a emenda de 19 de Novembro de 1987, adoptada pela 15.ª Assembleia da Organização Marítima Internacional, e com as regras específicas deste Regulamento."
+  },
+  "514b47c00d247dcb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Comunicações\n\nNa via navegável do rio Douro aplica-se o plano de comunicações em VHF aprovado pelo Instituto de Comunicações de Portugal (ICP) constante do anexo VI ao presente Regulamento, que dele faz parte integrante."
+  },
+  "cb807a70a2be4087": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Velocidade de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Velocidade de segurança\n\nToda a embarcação deve manter uma velocidade de segurança tal que lhe permita tomar as medidas apropriadas e eficazes para evitar o abalroamento e para parar numa distância adequada às circunstâncias e condições existentes."
+  },
+  "8cbea7817c984347": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Velocidade das embarcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Velocidade das embarcações\n\n1 - As embarcações devem regular a sua velocidade e a sua distância à margem, de modo a não criar agitação na água capaz de causar prejuízos ou dificuldades de navegação a embarcações ou material flutuante, estacionadas ou em trânsito, nem provocar ondulação susceptível de causar prejuízos nas margens.\n\n2 - As embarcações devem reduzir, em tempo útil, a sua velocidade, sem, contudo, descer abaixo da velocidade necessária para governar com segurança, nos seguintes locais:\n\na) Junto a portos ou cais;\n\nb) Perto de embarcações que se encontrem amarradas ou que estejam atracadas ao cais;\n\nc) Na proximidade de embarcações rebocadas.\n\n3 - O IND poderá fixar a velocidade máxima de circulação permitida na via navegável, variável para os diversos tipos de embarcações ou troços do rio."
+  },
+  "70b10cd86fd68d7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Horário de navegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Horário de navegação\n\n1 - As embarcações de comércio e marítimo-turísticas só poderão navegar de dia.\n\n2 - Poderá ser permitida, a título excepcional, a navegação a embarcações durante a noite em determinados troços da via navegável, desde que se encontrem equipadas com as adequadas ajudas à navegação e o respectivo condutor demonstre conhecimentos de navegação em tais condições.\n\n3 - A passagem nas eclusas processa-se dentro de um horário variável com a época do ano, definido e publicitado pelo IND."
+  },
+  "bccb95d3124ff74f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Embarcações de pequeno porte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Embarcações de pequeno porte\n\n1 - As embarcações de pequeno porte não devem interferir no movimento das embarcações de maior porte, não podendo exigir-lhes que se afastem em seu favor.\n\n2 - As regras de circulação que as embarcações de pequeno porte devem respeitar são, designadamente, as seguintes:\n\na) As embarcações de pequeno porte propulsionadas por motor devem afastar-se da rota de todas as embarcações de maior porte;\n\nb) As embarcações não propulsionadas por motor devem afastar-se da rota das embarcações de pequeno porte navegando à vela."
+  },
+  "ec80c0aeeb7b1f17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Cruzamento e ultrapassagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Cruzamento e ultrapassagem\n\n1 - O cruzamento e a ultrapassagem só são permitidos quando a via apresente largura suficiente para a passagem simultânea, tendo em conta todas as circunstâncias locais e o movimento das outras embarcações.\n\n2 - Em caso de cruzamento ou de ultrapassagem, as embarcações que seguem uma rota sem perigo de colisão não devem modificar nem a sua rota nem a sua velocidade de tal modo que possam provocar perigo de colisão.\n\n3 - As embarcações devem deslocar-se para estibordo para que o cruzamento se possa efectuar sem perigo, bombordo por bombordo e, em caso de ultrapassagem, a que pretende ultrapassar possa passar por bombordo da ultrapassada.\n\n4 - Nos troços do canal navegável indicados no anexo VII ao presente Regulamento, que dele faz parte integrante, é interdita a passagem simultânea de embarcações de comprimento superior a 20 m, devendo os respectivos condutores, antes de iniciar a navegação nesses troços, informar-se acerca do movimento de outras embarcações e, se necessário, aguardar nas áreas de espera correspondentes."
+  },
+  "bacdcfcc4ce1621f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Mudança de rumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Mudança de rumo\n\n1 - As embarcações só podem inverter o rumo depois de se terem assegurado de que o movimento das outras embarcações lhes permite efectuar a manobra sem perigo e sem que essas outras embarcações sejam obrigadas a alterar bruscamente a sua rota ou a sua velocidade.\n\n2 - Se a marcha pretendida obrigar outras embarcações a desviarem-se da sua rota ou a alterarem a sua velocidade, a embarcação que deseje inverter o rumo deve, antes de o fazer, anunciar a manobra, em tempo útil, emitindo:\n\na) Um som prolongado seguido de um som breve, se desejar virar por estibordo;\n\nb) Um som prolongado seguido de dois sons breves, se desejar virar por bombordo.\n\n3 - As outras embarcações devem, então, na medida em que seja necessário e possível, alterar a sua velocidade e a sua rota, para que a mudança de rumo se possa efectuar sem perigo.\n\n4 - Quando a embarcação deseje inverter o rumo para passar a navegar contra a corrente, as outras devem contribuir para que essa manobra possa ser efectuada em tempo útil."
+  },
+  "eb6076650edf6fbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Travessia da via navegável, atracação e desatracação nos portos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Travessia da via navegável, atracação e desatracação nos portos\n\n1 - As embarcações só podem atravessar a via navegável após se terem certificado de que o podem fazer sem perigo e sem que outras embarcações sejam obrigadas a alterar bruscamente o seu rumo ou a sua velocidade.\n\n2 - Quando uma embarcação que se dirige para jusante é obrigada a aproar a montante para poder acostar a um cais, deve dar prioridade às embarcações que, navegando para montante, desejem igualmente atracar ao mesmo cais.\n\n3 - Com excepção das barcas de passagem, as embarcações que ao fazerem as manobras referidas nos dois números anteriores possam ou devam obrigar outras embarcações a alterar o seu rumo ou a sua velocidade devem anunciar essa manobra, emitindo, em tempo útil:\n\na) Três sons prolongados seguidos de um som breve quando, para entrar num porto ou depois da saída, pretendam rodar para estibordo;\n\nb) Três sons prolongados seguidos de dois sons breves quando, para entrar no porto ou depois da saída, pretendam rodar para bombordo;\n\nc) Três sons prolongados quando, depois de deixar o porto, queiram atravessar a via navegável, devendo antes do fim do atravessamento emitir, em caso de necessidade, um som prolongado seguido de um som breve, se desejarem rodar para estibordo, ou um som prolongado seguido de dois sons breves, se desejarem rodar para bombordo.\n\n4 - As outras embarcações devem, então, durante o tempo que for necessário, alterar o seu rumo e a sua velocidade.\n\n5 - Uma barca de passagem não pode efectuar a travessia da via navegável senão após se ter assegurado de que o movimento das outras embarcações lhe permite efectuar a travessia sem perigo e sem que essas embarcações sejam obrigadas a modificar bruscamente o seu rumo ou a sua velocidade."
+  },
+  "d6fb040c231a26d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Navegação em paralelo: interdição de se aproximar de uma embarcação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Navegação em paralelo: interdição de se aproximar de uma embarcação\n\n1 - As embarcações não deverão navegar em paralelo, salvo se a largura disponível o permitir sem incómodo ou perigo para a navegação.\n\n2 - É interdito navegar a menos de 50 m de outra embarcação, com excepção das situações de cruzamento ou ultrapassagem, em que deverá ser mantida uma distância de segurança."
+  },
+  "10bbb103fd51c98d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Proibição de arrastar âncoras, cabos ou correntes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Proibição de arrastar âncoras, cabos ou correntes\n\n1 - É proibido arrastar âncoras, cabos ou correntes.\n\n2 - Esta interdição não se aplica nem à navegação à deriva, quando seja autorizada, nem aos pequenos movimentos nos locais de estacionamento de carga ou descarga."
+  },
+  "860d05c3dee9e5d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Navegação à deriva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Navegação à deriva\n\n1 - É interdita a navegação à deriva sem licença emitida para o efeito pelo IND.\n\n2 - Esta interdição não se aplica aos pequenos movimentos que possam ocorrer nos lugares de estacionamento ou nos lugares de carga e descarga.\n\n3 - As embarcações que se deixem descair com a proa para montante e com as máquinas a trabalhar avante são consideradas como navegando para montante e não como navegando à deriva."
+  },
+  "3eb49bdc8460e783": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Situações especiais"
+  },
+  "a602f7af32fbb86d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — Prescrições de carácter temporário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Prescrições de carácter temporário\n\n1 - Estando a via navegável sujeita a assoreamento ou outra limitação à navegação, os condutores devem respeitar e estar atentos à emissão de prescrições de carácter temporário publicitadas pelo IND.\n\n2 - Se for necessário efectuar um abaixamento do nível da água para além do mínimo navegável, as embarcações, estabelecimento flutuante, comboio ou material flutuante deverão ser:\n\na) Colocados em locais onde não impeçam o livre curso das águas nem ocasionem qualquer prejuízo na margem ou estrutura;\n\nb) Solidamente amarrados, sob os cuidados e responsabilidade dos seus condutores."
+  },
+  "060cc22380fcf96a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Interrupção da navegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Interrupção da navegação\n\n1 - A suspensão da navegação poderá verificar-se por:\n\na) Ocorrência de caudais de cheia;\n\nb) Necessidade de realização de trabalhos;\n\nc) Avarias.\n\n2 - A suspensão da navegação será determinada pelo IND, que a publicitará por meio de avisos à navegação.\n\n3 - Os avisos à navegação referidos no número anterior serão feitos, sempre que as circunstâncias o permitam, com antecedência."
+  },
+  "2b4a260961b2d126": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — Medidas em caso de caudais elevados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Medidas em caso de caudais elevados\n\n1 - A partir de certos valores de caudal, a navegação pode ser interrompida pelo IND, não só devido ao valor da velocidade de escoamento mas também à insuficiência de altura livre nas portas de jusante das eclusas.\n\n2 - Durante a época do Inverno, quando se verificarem aumentos significativos de caudal, o condutor da embarcação, comboio ou de material flutuante deve estar atento às indicações fornecidas pelas autoridades e, conforme os casos, dirigir-se ao local seguro para amarração que estas lhe indiquem, onde aguardará a passagem da cheia, ou sair para o mar, a fim de evitar ficar retido no rio durante o período da cheia.\n\n3 - Ao primeiro aviso de perigo de inundação, as mercadorias susceptíveis de serem arrastadas pela corrente, nomeadamente as poluentes, que se encontrem nos portos, margens ou dependências portuárias deverão ser removidas para locais cuja cota não seja atingida pela cheia.\n\n4 - O trabalho mencionado no número anterior reveste carácter de urgência e deverá prosseguir, se necessário, durante a noite, constituindo obrigação e encargo do proprietário das mercadorias ou de quem esteja obrigado à sua guarda."
+  },
+  "6abfcf139f18855a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Passagem nas eclusas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Passagem nas eclusas"
+  },
+  "bfca6d6f11dd762a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — Autoridade na eclusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Autoridade na eclusa\n\n1 - A eclusa, os seus anteportos e todo o equipamento respectivo estão sob a responsabilidade do operador da eclusa, entendendo-se por anteporto o troço da via navegável entre uma porta da eclusa e o extremo do muro de guiamento mais longo que a ela conduz.\n\n2 - Os condutores de todas as embarcações deverão cumprir as ordens que recebam do operador da eclusa quando se encontram na eclusa ou seus anteportos."
+  },
+  "75ff6df622030c1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — Características das embarcações que podem usar as eclusas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Características das embarcações que podem usar as eclusas\n\n1 - As dimensões máximas das embarcações que podem ser eclusadas são as seguintes:\n\na) Comprimento:\n\naa) Crestuma/Lever - 89 m;\n\nbb) Carrapatelo - 87 m;\n\ncc) Régua - 87 m;\n\ndd) Valeira - 87 m;\n\nee) Pocinho - 86,5 m;\n\nb) Boca - 11,4 m;\n\nc) Calado - 3,8 m, sendo a soleira das eclusas da Régua e da Valeira mais alta 50 cm que o canal de jusante e na situação mais desfavorável (central parada e cota mínima a jusante) as eclusas nestas duas centrais têm apenas 3,7 m de profundidade;\n\nd) A altura mínima normal livre acima do plano de água é de 7,2 m sob a ponte da Ferradosa (fora do período de estiagem este valor pode descer até 6,6 m).\n\n2 - A utilização das eclusas por embarcações de comprimento ou calado superior aos indicados no número anterior está dependente de autorização para o efeito dada pelo IND.\n\n3 - Quando ocorram circunstâncias que justifiquem alterações às dimensões indicadas no n.º 1, o IND determinará essa alteração, dando conhecimento do facto através de avisos à navegação.\n\n4 - Nas eclusas em que as soleiras das caldeiras se encontrem a uma cota superior à da soleira do seu anteporto de jusante (Régua e Valeira), o condutor da embarcação deve certificar-se se tem ou não profundidade para poder utilizar a eclusa, sendo que no caso de acesso por jusante à eclusa de Crestuma, como a cota da superfície da água é função da maré e do estado de assoreamento do rio, os 4,2 m de profundidade só se verificam para marés de 0,9 m, podendo, em circunstâncias excepcionais, com uma baixa-mar de maré viva e a central parada, a profundidade ser de 3,6 m.\n\n5 - Exceptuando-se as defensas usuais, não é permitida a passagem nas eclusas de embarcações com correntes, cabos ou quaisquer outros elementos suspensos para o lado de fora, quer toquem ou não o fundo da via.\n\n6 - Ao utilizar a eclusa, a embarcação deverá ter a âncora recolhida, de modo a ficar acima da linha de água."
+  },
+  "d384862569240b57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — Prioridade de passagem nas eclusas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Prioridade de passagem nas eclusas\n\n1 - A sequência de passagem nas eclusas é estabelecida pelo IND.\n\n2 - A entrada na eclusa é feita por ordem decrescente do porte da embarcação, podendo ser alterada pelo operador da eclusa.\n\n3 - Quando não for possível efectuar todas as eclusagens solicitadas para um mesmo horário, o IND determinará a prioridade de passagem, pela ordem a seguir indicada, às embarcações que:\n\na) Transportem explosivos, que serão eclusadas isoladamente;\n\nb) Se desloquem por razões urgentes de serviço e pertençam ao Estado ou sejam utilizadas em trabalhos públicos;\n\nc) Estejam avariadas, constituindo a sua presença perigo para a segurança da navegação;\n\nd) Transportem passageiros em serviço regular;\n\ne) Transportem material de salvamento ou de reparação e que se dirijam para um local de acidente, tendo estas embarcações prioridade absoluta em caso de urgência;\n\nf) Fluvio-marítimas provenientes ou a caminho do mar.\n\n4 - Sem prejuízo do disposto no número anterior, o operador da eclusa tem poderes para dar prioridade da eclusagem tendo em conta as embarcações já admitidas na eclusa e as que aguardam entrada, sempre que possa com elas completar a capacidade da caldeira, desde que a eclusagem dessas embarcações tenha sido autorizada pelo IND."
+  },
+  "4e88b59473ddd0a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — Horário de funcionamento das eclusas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Horário de funcionamento das eclusas\n\n1 - São eclusagens ordinárias as que têm horário predeterminado pelo IND, em função do tráfego, e extraordinárias as que são realizadas a pedido do utilizador, a uma hora diferente.\n\n2 - Os horários de funcionamento das eclusas serão definidos pelo IND."
+  },
+  "01cfad17a6d352cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — Pedido de eclusagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Pedido de eclusagem\n\n1 - A embarcação que deseje utilizar uma eclusa deverá solicitar essa utilização ao IND, por qualquer meio ao seu dispor, nomeadamente através de telefone, telefax ou nas instalações daquele Instituto, fornecendo os dados necessários para o cálculo da taxa de circulação.\n\n2 - O IND informa o requerente do(s) dia(s) e hora(s) conveniente(s) para a(s) eclusagem(ns) e da respectiva taxa de circulação.\n\n3 - É condição da utilização da eclusa o pagamento antecipado da taxa de circulação, salvo quando o utilizador tenha previamente outorgado contrato com o IND relativo a esta matéria.\n\n4 - Excepcionalmente, o pagamento poderá ser efectuado ao operador da eclusa, se para isso receber instruções do IND.\n\n5 - Até ao dia anterior ao da eclusagem é entregue ou enviado ao requerente o programa de passagem autorizado.\n\n6 - O pedido de eclusagem deve ser feito, durante os dias úteis e nas horas de expediente, aos serviços do IND, com uma antecedência adequada a que o pedido chegue, pelo menos, na véspera do último dia útil antes da primeira passagem pretendida.\n\n7 - O IND pode autorizar, a título excepcional, eclusagens pedidas fora do período previsto no número anterior.\n\n8 - Se, posteriormente ao pedido de eclusagem, o condutor de uma embarcação verificar que vai comparecer na eclusa para além da hora prevista, deverá, de imediato, comunicar o facto ao IND e à própria eclusa, indicando, no caso de atraso, a hora a que prevê efectivamente chegar.\n\n9 - Se tal procedimento não for adoptado e uma ou mais embarcações comparecerem na eclusa, proceder-se-á à eclusagem quinze minutos após a hora marcada e as embarcações retardatárias perderão o direito à eclusagem solicitada e já paga.\n\n10 - Se o procedimento referido no n.º 1 foi adoptado e uma ou mais embarcações comparecerem na eclusa à hora marcada, a eclusagem será efectuada:\n\na) Na hora marcada, com as embarcações presentes, tendo os retardatários de utilizar a eclusagem ordinária seguinte, que poderá não ser no mesmo dia, ou solicitar uma eclusagem extraordinária;\n\nb) O mais tardar trinta minutos após a hora marcada, no caso de as embarcações terem avisado que chegariam nesse período, sendo que caso as embarcações retardatárias não compareçam neste período, apesar de terem avisado que o fariam, perdem o direito à eclusagem.\n\n11 - Se trinta minutos após a hora marcada nenhuma embarcação comparecer na eclusa, será cancelada a eclusagem.\n\n12 - Se, posteriormente ao pedido de eclusagem, o condutor de uma embarcação desistir da mesma, deverá, de imediato, comunicar o facto ao IND e à própria eclusa.\n\n13 - A não comunicação da desistência até, pelo menos, às 17 horas do dia útil anterior à data marcada implica a perda do direito à eclusagem já paga."
+  },
+  "00713ec078c03fdb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — Formalidades a cumprir na passagem das eclusas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Formalidades a cumprir na passagem das eclusas\n\nA embarcação que circule na via navegável do Douro e pretenda utilizar as eclusas deverá fornecer os elementos que lhe sejam solicitados com fins estatísticos."
+  },
+  "f490161807154f63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º — Procedimento de uma embarcação que deseje ser eclusada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Procedimento de uma embarcação que deseje ser eclusada\n\n1 - A embarcação que deseje uma eclusagem deve aguardar a hora da eclusagem em local seguro próximo da eclusa, indicando, logo que possível, as suas características e avisando o operador da eclusa da sua intenção de a transpor, a fim de ser registada a sua ordem de chegada.\n\n2 - Quando a embarcação se encontrar a uma distância de cerca de 700 m da eclusa, deve contactar o operador via rádio ou, na sua falta, emitir três sons prolongados de sirene, observando o procedimento seguinte:\n\na) Não tentar ultrapassar outras embarcações, mantendo-se a uma distância delas equivalente a duas vezes o seu comprimento;\n\nb) Reduzir a marcha, preparando-se para parar caso o operador da eclusa não lhe permita a entrada imediata ou não responda ao seu contacto pela rádio ou por meio de sinal acústico;\n\nc) Se a eclusa não estiver livre, deverá amarrar a sua embarcação no anteporto, se o operador da eclusa o autorizar, ou noutro local autorizado, ou fundeá-la de modo a não prejudicar a circulação de outras embarcações.\n\n3 - A embarcação deve ainda respeitar as disposições a seguir indicadas:\n\na) Não entrar na caldeira da eclusa quando:\n\naa) O semáforo da porta da eclusa não tiver a luz verde acesa ou o operador não tiver respondido ao seu pedido de eclusagem com três sons prolongados;\n\nbb) A profundidade existente sobre a soleira da porta não exceder o calado da embarcação pelo menos em 15 cm;\n\ncc) A embarcação tiver saliências capazes de danificar as portas, paredes ou defensas, a menos que esteja provida de pára-choques ou defensas efectivas;\n\nb) Acatar as instruções dadas pelo operador da eclusa, nomeadamente quando se encontrar mais de uma embarcação aguardando a oportunidade de eclusagem;\n\nc) Entrar e sair da eclusa com precaução, para tentar evitar danos nesta, nomeadamente nas suas portas, muros ou defensas;\n\nd) Aguardar a autorização do operador da eclusa para pôr em movimento a embarcação ou engenho flutuante, quer na eclusa, quer nos seus anteportos;\n\ne) Amarrar por cabos a embarcação à proa e à popa, logo após a sua entrada na caldeira da eclusa, unicamente aos cabeços de amarração flutuantes existentes para esse efeito, sendo proibido amarrar os cabos a escadas, a outras embarcações ou a qualquer outro dispositivo que não esteja destinado a esse efeito, e devendo igualmente a subida e descida da embarcação ser acompanhada por forma a permitir uma intervenção rápida no caso de ocorrer uma prisão do cabeço de amarração;\n\nf) Parar as hélices da embarcação logo que esta, uma vez entrada na eclusa, esteja devidamente amarrada;\n\ng) Não desamarrar a embarcação antes de ter sido dado o sinal autorizando a saída da eclusa;\n\nh) Não apoiar os croques ou qualquer outro equipamento semelhante em órgãos não destinados a facilitar as manobras;\n\ni) Não permanecer na eclusa senão o tempo exclusivamente necessário à eclusagem;\n\nj) Não embarcar ou desembarcar passageiros, salvo quando tenha sido previamente emitida pelo IND autorização para o efeito;\n\nk) Não efectuar carga, descarga ou transbordo de mercadorias, salvo quando tenha sido previamente emitida pelo IND autorização para o efeito.\n\n4 - Exceptuam-se da obrigação prevista na alínea e) do número anterior as embarcações de pequeno porte para as quais o operador da eclusa indique o procedimento a adoptar.\n\n5 - Este Regulamento não altera as responsabilidades dos proprietários e operadores das embarcações por qualquer dano provocado pelas suas manobras na eclusa ou noutras estruturas."
+  },
+  "5f9d7d3c20b86d55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º — Manobra da eclusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Manobra da eclusa\n\nLogo que o operador da eclusa tenha conhecimento de que se aproxima uma embarcação a eclusar, deve, se possível, proceder à sua preparação, abrindo a porta da eclusa, descer os freios de cabos, se existirem, e ligar o semáforo verde."
+  },
+  "7cf5e236cce23962": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º — Embarcações transportando cargas perigosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Embarcações transportando cargas perigosas\n\n1 - Só em situações muito excepcionais e obrigatoriamente sujeitas a autorização prévia do IND serão permitidas eclusagens de embarcações transportando cargas perigosas.\n\n2 - Em caso de eclusagem de embarcações transportando cargas perigosas, designadamente hidrocarbonetos ou gás comprimido sob pressão superior a 15 b, liquefeito ou dissolvido, devem ser tomadas medidas especiais de segurança, nomeadamente:\n\na) As embarcações deverão parar pelo menos a 100 m das obras de arte da eclusa e, simultaneamente, ficar mais de 15 m para jusante de outras embarcações paradas;\n\nb) A sua eclusagem deve ser feita imediatamente;\n\nc) Durante a eclusagem devem ser tomadas as medidas habituais para evitar, designadamente, as causas de incêndio, parar todos os trabalhos de soldadura, afastar as botijas de oxigénio ou acetileno, parar motores existentes no interior da caldeira;\n\nd) Interditar a visitantes os espaços próximos da eclusa."
+  },
+  "e9094caa9df0f452": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º — Ocorrência de acidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Ocorrência de acidentes\n\n1 - Em caso de acidente, o operador da eclusa deve tomar nota da ocorrência, dar conhecimento ao IND e, se necessário, solicitar a presença da Capitania do Porto do Douro.\n\n2 - Se do acidente resultar uma avaria grave na embarcação, o operador da eclusa deve avisar imediatamente o condutor desta e tomar as medidas necessárias para proceder à evacuação, particularmente se o acidente ocorrer dentro da caldeira.\n\n3 - Todo o acidente de navegação que provoque estragos na eclusa ou nos seus anteportos deve ser objecto de uma participação feita pelo operador da eclusa com a descrição dos estragos."
+  },
+  "4a4d7e1f65b918e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º — Incêndio de embarcação no interior da caldeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Incêndio de embarcação no interior da caldeira\n\n1 - No caso de ocorrência de incêndio numa embarcação durante a eclusagem, o operador da eclusa deve fazer actuar os meios de combate ao incêndio existentes, chamando os bombeiros, se for caso disso, e prevenir imediatamente o responsável do aproveitamento hidroeléctrico onde a eclusa se situa e o IND, indicando com a maior precisão:\n\na) A natureza da carga;\n\nb) O estado de enchimento da eclusa;\n\nc) A posição e número de embarcações no interior da caldeira.\n\n2 - Se o fogo se declarar com a eclusa vazia, o operador da eclusa deve:\n\na) Fazer sair imediatamente o barco para jusante, no caso de ser possível tal manobra;\n\nb) Se o fogo for importante e a manobra do barco impossível, deverá encher a eclusa para facilitar o salvamento da tripulação e permitir o ataque ao incêndio com maior eficácia.\n\n3 - Se o incêndio se declarar com a eclusa cheia, o operador da eclusa deve abrir a porta de montante e:\n\na) Se o condutor puder manobrar o barco, fazê-lo sair o mais rapidamente possível;\n\nb) Se não for possível manobrar o barco incendiado, fazer sair, se possível, os barcos não atingidos que se encontrem na caldeira."
+  },
+  "122edd4e004b8185": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Regras de estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Regras de estacionamento"
+  },
+  "a498e83b28f03e93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º — Local de estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Local de estacionamento\n\n1 - As embarcações e o material flutuante devem escolher o seu local de estacionamento à menor distância possível da margem compatível com o seu calado e com as circunstâncias locais, de modo a não dificultar a navegação.\n\n2 - A paragem e amarração de uma embarcação ao longo da via navegável deve ser feita em local em que não prejudique a navegação.\n\n3 - Os cais flutuantes ou pontos de amarração para barcos de recreio devem ser colocados de modo a deixar a via livre à navegação.\n\n4 - Os estabelecimentos flutuantes devem estar fundeados em locais exteriores ao canal navegável."
+  },
+  "4a66f9038e5a154d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º — Segurança da ancoragem e amarração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Segurança da ancoragem e amarração\n\n1 - As embarcações, o material flutuante estacionado e os estabelecimentos flutuantes devem estar ancorados e amarrados de modo suficientemente sólido, tendo em conta a agitação da água provocada pelas outras embarcações.\n\n2 - A amarração e a ancoragem devem permitir que a embarcação acompanhe as variações do nível da água, que, imediatamente a jusante das barragens, podem atingir, em resultado da variação do caudal turbinado, valores entre 2 m e 3 m, dependente da central que lhe fique a montante."
+  },
+  "e8268b60ad37af86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — Proibição de estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Proibição de estacionamento\n\n1 - É proibido o estacionamento:\n\na) Nas zonas estreitas da via e nas suas imediações, bem como nos sectores que, em consequência do estacionamento, se tornem estreitos para a circulação de outras embarcações;\n\nb) Nas bacias de manobra ou de acesso aos portos;\n\nc) Na rota de passagem das barcas de passagem que fazem o atravessamento do rio entre dois pontos fixos;\n\nd) Na linha de rota das embarcações que necessitam de atracar aos cais ou de partir destes;\n\ne) Sob as pontes ou linhas eléctricas de alta tensão, salvo quando tenha sido previamente emitida pelo IND autorização para o efeito;\n\nf) Nos anteportos de acesso às eclusas, salvo quando a embarcação se encontre a aguardar eclusagem.\n\n2 - O estacionamento nos anteportos pode, porém, ser autorizado pelo IND durante a noite ou em caso de nevoeiro, sob condição de não dificultar a passagem de outras embarcações."
+  },
+  "1d1d18178a6e9daf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º — Amarração proibida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Amarração proibida\n\nAlém do referido no n.º 1 do artigo 49.º, é proibido amarrar embarcações ou material flutuante, designadamente a guardas de protecção, postes, colunas, escadas metálicas e árvores que pelo seu porte não ofereçam resistência à amarração."
+  },
+  "3fbed820910c0816": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º — Guarda e vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Guarda e vigilância\n\n1 - As embarcações utilizadas no transporte de produtos inflamáveis ou explosivos, quando estacionadas, deverão ter a bordo em permanência uma equipa capaz de actuar em caso de acidente, salvo se descarregadas e isentas de gases perigosos.\n\n2 - As restantes embarcações, quando estacionadas, deverão estar sob vigilância de pessoa capaz de intervir rapidamente em caso de necessidade, a menos que o IND as dispense ou as circunstâncias locais não exijam essa vigilância.\n\n3 - As embarcações de mar deverão ter sempre a bordo o pessoal mínimo necessário para a sua segurança, não podendo permanecer abandonadas."
+  },
+  "445144819f1d043a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Navegação de recreio e actividades desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Navegação de recreio e actividades desportivas"
+  },
+  "0142badee7987bd3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82.º — Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Geral\n\nPara além de outras disposições legais a que se encontrem sujeitas, as embarcações de recreio estão obrigadas ao cumprimento das regras contidas neste Regulamento relativas às embarcações de pequeno porte, bem como das disposições constantes do presente capítulo."
+  },
+  "6d278c4bb679936d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º — Circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Circulação\n\n1 - As embarcações de recreio devem manter-se a mais de 10 m dos navios em movimento, equipamento flutuante a trabalhar, bem como de todos os estaleiros de trabalho na via navegável.\n\n2 - É proibido lançar a âncora ou amarrar dentro do canal sinalizado.\n\n3 - É proibida a navegação a montante de um navio fluvio-marítimo a uma distância inferior a 50 m."
+  },
+  "ca7bbcb4884e17ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º — Estacionamento permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Estacionamento permanente\n\nAs embarcações ou equipamentos flutuantes de recreio destinados a aluguer só podem estacionar na via navegável nos locais adequados a esse fim e desde que previamente autorizados para o efeito."
+  },
+  "499d0fbac3f3782e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 85.º — Desportos náuticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Desportos náuticos\n\n1 - É interdito aos esquiadores ou nadadores aproximarem-se a menos de 15 m quer das embarcações ou material flutuante em movimento quer dos equipamentos flutuantes a trabalhar.\n\n2 - A prática de desportos náuticos, nomeadamente o esqui aquático e o uso de motas de água e veículos a motor, está sujeita ao cumprimento das disposições constantes de regulamentos próprios, designadamente do Regulamento da Náutica de Recreio."
+  },
+  "2f66867565e62e4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º — Autorização de manifestações desportivas e outras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Autorização de manifestações desportivas e outras\n\nAs manifestações desportivas, festas náuticas e outras de que possa resultar concentração de embarcações na via navegável só podem realizar-se com autorização do IND, uma vez obtidos os pareceres da Direcção Regional do Ambiente - Norte e da Capitania do Porto do Douro."
+  },
+  "9337d7bf70874cb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Portos e cais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Portos e cais"
+  },
+  "d051a4005a757d98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 87.º — Embarcações de passageiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Embarcações de passageiros\n\n1 - Para embarque ou desembarque, as embarcações de passageiros, salvo as embarcações de pequeno porte que não sejam de transporte público de passageiros, só podem atracar nos cais autorizados para o efeito.\n\n2 - Salvo autorização concedida pelo IND, os barcos de passageiros não devem estacionar no cais além do tempo necessário ao embarque ou desembarque de passageiros ou eventualmente a carga ou descarga de mercadorias.\n\n3 - Quando o embarque ou desembarque de passageiros se faça por meio de um passadiço, este deverá ter uma largura mínima de 80 cm, protegido de ambos os lados por guardas laterais com, pelo menos, 1 m de altura.\n\n4 - Em caso de concorrência de pretensões para embarque ou desembarque de passageiros num mesmo cais, as horas de partida ou chegada serão estabelecidas pelo IND."
+  },
+  "02d6f0b87d6ede90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 88.º — Carga, descarga e transbordo de mercadorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Carga, descarga e transbordo de mercadorias\n\nA carga, descarga e transbordo de mercadorias são proibidos fora do cais, do porto ou dos locais indicados para o efeito pelo IND."
+  },
+  "2733ef1b84bd9b2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Contra-ordenações"
+  },
+  "8a422ee95d0f2597": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 89.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima qualquer infracção ao disposto no presente diploma e, como tal, tipificada nos artigos seguintes.\n\n2 - A negligência e a tentativa são sempre puníveis.\n\n3 - Às contra-ordenações previstas no presente diploma é aplicável o regime geral das contra-ordenações previsto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com as alterações introduzidas pelo [Decreto-Lei n.º 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro, e pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de Setembro."
+  },
+  "116f11f95f9a303e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 90.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Coimas\n\nÀs infracções a preceitos específicos deste Regulamento correspondem as coimas a seguir identificadas:\n\na) Infracção ao disposto nos artigos 7.º, 13.º, 14.º a 19.º, 22.º a 46.º, 56.º, 58.º a 63.º, 65.º a 68.º, 71.º, 72.º, 77.º, 78.º e 83.º a 87.º, coima mínima de 750$00 e máxima de 100000$00;\n\nb) Infracção ao disposto nos artigos 12.º, 55.º, 57.º, 79.º e 80.º, coima mínima de 750$00 e máxima de 150000$00;\n\nc) Infracção ao previsto nos artigos 6.º, 11.º, 49.º, 53.º e 54.º, coima mínima de 750$00 e máxima de 300000$00;\n\nd) Infracção ao cominado nos artigos 10.º, 20.º, 74.º, 81.º e 88.º, por pessoas singulares, coima mínima de 750$00 e máxima de 500000$00 e, por pessoas colectivas, coima mínima de 10000$00 e máxima de 3000000$00."
+  },
+  "994ffd1bde9531c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 91.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Sanções acessórias\n\n1 - Simultaneamente com a aplicação da coima que ao caso couber e em função da gravidade da infracção e da culpa do agente, podem ser aplicadas as seguintes sanções acessórias, nos termos do artigo 21.º, n.º 1, alínea b), do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com as alterações introduzidas pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de Setembro:\n\na) Interdição do exercício da actividade de condutor de embarcações;\n\nb) Interdição de governar embarcações de recreio na via navegável do rio Douro.\n\n2 - As sanções previstas no número anterior terão a duração mínima de 30 dias e a máxima de 2 anos, contando-se este prazo a partir de decisão condenatória definitiva."
+  },
+  "50c8fb0e513cd829": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 92.º — Afectação do montante da coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Afectação do montante da coima\n\nA afectação do produto das coimas aplicadas faz-se da seguinte forma:\n\na) 60% para o Estado;\n\nb) 15% para a entidade autuante;\n\nc) 15% para a entidade instrutora;\n\nd) 10% para o IND."
+  },
+  "0a8794083e249d6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 93.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Fiscalização\n\nCompete à Capitania do Porto do Douro e ao IND a fiscalização do cumprimento das normas deste Regulamento."
+  },
+  "a7a65bbf926d87fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 94.º — Instrução dos processos de contra-ordenação e aplicação de coimas e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Instrução dos processos de contra-ordenação e aplicação de coimas e sanções acessórias\n\n1 - Salvo o disposto no n.º 2, compete à Capitania do Porto do Douro a instrução dos processos de contra-ordenação previstos neste Regulamento e a aplicação das respectivas coimas e sanções acessórias.\n\n2 - Nos processos relativos ao incumprimento das disposições constantes da\n\nsecção IV do capítulo IV e do capítulo VII do presente Regulamento, as competências referidas no n.º 1 são exercidas pelo IND."
+  },
+  "041d34ad115b835d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — [(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/257a01/00020032.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — [(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/257a01/00020032.pdf)"
+  },
+  "38469946afdd7f4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Portos e cais fluviais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Portos e cais fluviais\n\nPortos para navegação comercial de carga\n\nSardoura. - Cais acostável com 80 m de comprimento, que dispõe no rio de uma profundidade mínima garantida de 4,2 m, que permite a atracação dos maiores navios de mar que podem subir o Douro. Para apoio ao cais conta com um terrapleno de 0,6 ha à cota de 16 m.\n\nLocalizado no concelho de Castelo de Paiva, na margem esquerda, tem acesso a partir da EN 224, à saída da Ponte de Hintz Ribeiro, por um estradão pavimentado com paralelepípedos.\n\nCom vista a salvaguardar a possibilidade de expansão do porto e da instalação, nas suas proximidades, de actividades ligadas à via navegável, foi, pelo [Decreto-Lei n.º 331/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1986-221716), de 1 de Outubro, definida como zona non aedificandi uma faixa marginal ao Douro desde o extremo de montante do cais até à ponte.\n\nLamego. - Localizado no concelho de Lamego, na margem esquerda, em frente à cidade da Régua, este cais tem 160 m de comprimento, dispõe de uma profundidade mínima garantida do lado do rio de 4,2 m, podendo, pois, ter atracados ao mesmo tempo dois dos maiores navios fluvio-marítimos que podem utilizar as eclusas do Douro.\n\nTerrapleno à cota do coroamento do cais com 0,5 ha e a cota mais elevada com cerca de 6 ha.\n\nO acesso é feito a partir da EN 222, por um estradão com cerca de 300 m de comprimento.\n\nPocinho. - Muro-cais construído em gabions, com cerca de 30 m de comprimento, dispondo de uma profundidade garantida do lado do rio de 4,2 m e de um pequeno terrapleno com umas centenas de metros quadrados.\n\nEstá situado no concelho de Vila Nova de Foz Côa, cerca de 200 m a montante da barragem do Pocinho, e tem acesso em terra batida a partir da EN 102, junto ao extremo da margem esquerda do viaduto existente sobre a barragem.\n\nCais para embarcações turísticas e de recreio\n\nA maioria dos cais aqui indicados tem condições para a atracação de embarcações com menos de 2 m de calado e estão situados fora da área de jurisdição da APDL.\n\nRampa do Areinho. - Fica situado na margem esquerda, cerca do quilómetro 7, a montante da Ponte de São João.\n\nFreixo. - Fica situado na margem direita, junto ao Palácio do Freixo e ao Museu da Imprensa.\n\nEsteiro de Avintes. - Fica situado na margem esquerda, a montante da ribeira de Avintes.\n\nClube náutico. - Fica situado na margem direita, ao quilómetro 11,5.\n\nCrestuma. - Fica situado na margem esquerda, cerca de 1 km a jusante da barragem de Crestuma.\n\nPombal. - Fica situado no concelho de Gondomar, na margem direita do Douro, ao quilómetro 23.\n\nLagoa Leverinho. - Fica no concelho de Gondomar, na margem direita do Douro, ao quilómetro 25.\n\nPorto Carvoeiro. - Concelho de Santa Maria da Feira, margem esquerda do Douro, ao quilómetro 27.\n\nCampidouro. - Fica no concelho de Gondomar, na margem direita do Douro, ao quilómetro 29. Insere-se num parque de campismo.\n\nPé de Moura. - Situado no concelho de Gondomar, na margem esquerda do Douro, ao quilómetro 30, tem acesso de autocarro a cerca de 400 m do cais.\n\nMarina de Melres. - Situado no concelho de Gondomar, na margem direita do Douro, ao quilómetro 34, insere-se no aglomerado de Melres.\n\nRampa de Pedorido. - Situado no concelho de Castelo de Paiva, na margem esquerda do Douro, ao quilómetro 38, insere-se no aglomerado de Pedorido.\n\nPedorido. - Situado no concelho de Castelo de Paiva, na margem esquerda do Douro, ao quilómetro 38, insere-se no aglomerado de Pedorido.\n\nRio Mau. - Fica situado no concelho de Penafiel, na margem direita do Douro, ao quilómetro 39, logo a montante da foz do rio Mau, e tem acesso para autocarro a partir da EN 108.\n\nEntre-os-Rios. - Situado no concelho de Penafiel, na margem direita do Douro, ao quilómetro 48,5, insere-se no aglomerado do mesmo nome.\n\nTorrão. - Situado no concelho de Marco de Canaveses, na margem direita do Douro, ao quilómetro 49, logo a montante da foz do Tâmega, junto à povoação do Torrão e em frente a Entre-os-Rios, tem acesso para autocarro a partir da EN 108.\n\nCastelo. - Situado no concelho de Castelo de Paiva, na margem esquerda do Douro, ao quilómetro 52, insere-se no aglomerado do mesmo nome.\n\nEscamarão. - Situado no concelho de Cinfães, na margem esquerda, ao quilómetro 53, insere-se no aglomerado do mesmo nome.\n\nBitetos. - Situado no concelho de Marco de Canaveses, na margem direita do Douro, ao quilómetro 53, junto à povoação de Bitetos, tem acesso para autocarro a partir da EN 108-1.\n\nAlpendurada. - Situado no concelho de Marco de Canaveses, na margem direita do Douro, ao quilómetro 55,5.\n\nRampa da Seara. - Situado no concelho de Marco de Canaveses, na margem direita do Douro, ao quilómetro 58,5.\n\nRampa de Mourilhe. - Situado no concelho de Cinfães, na margem direita do Douro, ao quilómetro 66, junto à barragem do Carrapatelo.\n\nPala. - Fica situado no concelho de Baião, na margem direita do Douro, ao quilómetro 70, junto à povoação da Pala. Tem acesso a partir da EN 321.\n\nPorto Antigo. - Situado no concelho de Cinfães, na margem esquerda, ao quilómetro 71, imediatamente a jusante da ponte de Mosteirô, este cais tem cerca de 40 m de comprimento, dispõe de profundidade mínima garantida de cerca de 4 m e tem o seu coroamento cerca de 2 m acima da superfície máxima normal da albufeira. Tem acesso a partir da EN 222.\n\nEstação de Aregos. - Situado no concelho de Baião, na margem direita do Douro, ao quilómetro 78.\n\nCaldas de Aregos. - Fica situado no concelho de Resende, na margem esquerda do Douro, junto às termas de Caldas de Aregos, com acesso à EN 222.\n\nErmida. - Situado no concelho de Baião, na margem direita do Douro, ao quilómetro 84.\n\nMogueira. - Situado no concelho de Resende, na margem esquerda do Douro, ao quilómetro 84.\n\nRede. - Situado no concelho de Mesão Frio, na margem direita do Douro, ao quilómetro 94, junto à estação de caminho de ferro de Rede, tem acesso à EN 108.\n\nCaldas do Moledo. - Situado no concelho da Régua, na margem direita do Douro, ao quilómetro 96,5, faz parte das instalações das Termas das Caldas de Moledo.\n\nRégua. - Fica situado no concelho da Régua, na margem direita do Douro, ao quilómetro 102, em plena cidade da Régua. Tem um comprimento de cerca de 30 m, com uma rampa para cada lado entrando no rio e um pequeno terrapleno à cota do coroamento com 7,5 m de largura; tem profundidade mínima garantida de 3 m.\n\nCais do Clube de Caça e Pesca. - Situado no concelho de Lamego, na margem esquerda, ao quilómetro 107, a cerca de 200 m a montante da barragem da Régua, fica à face da EN 222 e possui uma rampa.\n\nRampa da Folgosa. - Situado no concelho de Armamar, na margem esquerda do Douro, ao quilómetro 112, junto ao aglomerado do mesmo nome.\n\nRampa de Covelinhas. - Situado no concelho da Régua, na margem direita do Douro, ao quilómetro 112, junto ao aglomerado do mesmo nome.\n\nRampa da Fábrica. - Situado no concelho de Armamar, na margem esquerda do Douro, ao quilómetro 113.\n\nQuinta de São Luís. - Situado no concelho de Tabuaço, na margem esquerda do Douro, ao quilómetro 119, junto à Quinta de São Luís.\n\nFerrão. - Situado no concelho de Sabrosa, na margem direita do Douro, ao quilómetro 119.\n\nSabrosa. - Situado no concelho de Sabrosa, na margem direita do Douro, ao quilómetro 125, a uma centena de metros a jusante da foz do rio Pinhão, é constituído pelo aproveitamento de um muro vertical já existente, melhorado com a construção de uma rampa para lançamento de barcos de recreio; permite a atracação de navios de grandes dimensões.\n\nPinhão. - Constituído por uma plataforma flutuante e por dois duques de alba constituídos por estacas de eucalipto cravadas no leito do rio para amarração das embarcações. Está situado na povoação de Pinhão, concelho de Alijó, na margem direita do Douro, ao quilómetro 126.\n\nTua. - Situado no concelho de Carrazeda de Ansiães, na margem direita do Douro, ao quilómetro 139,5, junto à estação de caminho de ferro do Tua, é constituído por um pequeno muro de gabions face ao canal navegável.\n\nSão Martinho. - Situado no concelho de Carrazeda de Ansiães, na margem direita do Douro, ao quilómetro 141, junto a uma concessão mineira abandonada, próximo da Quinta do Zimbro.\n\nFerradosa. - Cais acostável situado no concelho de São João da Pesqueira, na margem esquerda do Douro, a jusante da ponte com o mesmo nome.\n\nQuinta do Bartol. - Situado no concelho de Carrazeda de Ansiães, na margem direita do Douro, ao quilómetro 153,5, junto à Quinta de Bartol.\n\nSenhora da Ribeira. - Cais de atracagem flutuante, localizado na margem direita do Douro, quase em frente à estação do Vesúvio, fica situado no concelho de Carrazeda de Ansiães, ao quilómetro 159.\n\nFreixo de Numão. - Situado no concelho de Foz Côa, na margem esquerda do Douro, ao quilómetro 163, junto a uma reserva ecológica.\n\nCockburn. - Situado no concelho de Torre de Moncorvo, na margem direita do Douro, ao quilómetro 163.\n\nFoz do Sabor. - Situado no concelho de Torre de Moncorvo, na margem direita do Douro, ao quilómetro 178.\n\nPocinho. - Situado no concelho de Foz Côa, na margem esquerda do Douro, ao quilómetro 183.\n\nBarca de Alva. - Fica situado na margem esquerda, no concelho de Figueira de Castelo Rodrigo, ao quilómetro 209, imediatamente a montante da ponte rodoviária de Barca de Alva."
+  },
+  "732a887982225747": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Sinais visuais das embarcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Sinais visuais das embarcações\n\nI - Generalidades\n\n1 - Os esquemas seguintes aplicam-se à sinalização prevista nos artigos do capítulo II do Regulamento da Via Navegável do Douro.\n\n2 - Os símbolos adoptados nos esquemas que dizem respeito à sinalização de noite têm a significação seguinte:\n\n[(ver símbolos no documento original)](https://files.diariodarepublica.pt/1s/1998/11/257a01/00020032.pdf)\n\n3 - Os esquemas não têm senão um carácter indicativo, convindo referir-se ao texto do Regulamento.\n\n[(ver esquemas no documento original)](https://files.diariodarepublica.pt/1s/1998/11/257a01/00020032.pdf)"
+  },
+  "3de3e6d1dc542784": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Sinais sonoros das embarcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Sinais sonoros das embarcações\n\n1 - Sonoridade dos sinais. - Os aparelhos sonoros accionados mecanicamente utilizados pelas embarcações de navegação interior deverão ser capazes de produzir sinais sonoros apresentando as características seguintes:\n\n1.1 - Frequência:\n\na) Para as embarcações motorizadas, com excepção das pequenas embarcações citadas na alínea b), a frequência fundamental será de 200 Hz, com uma tolerância de mais ou menos 20%;\n\nb) Para as embarcações não motorizadas e para as pequenas embarcações que não estejam preparadas ou empregadas para rebocar embarcações, ou que não sejam pequenas embarcações, a frequência fundamental deverá ser superior a 350 Hz;\n\nc) Para os sinais de três sons utilizados pelas embarcações navegando com radar em tempo cerrado, as frequências fundamentais dos sons estarão compreendidas entre 165 Hz e 297 Hz, com intervalos de pelo menos dois tons inteiros entre o som mais alto e o som mais baixo.\n\n1.2 - Nível de pressão acústica. - Os níveis de pressão acústica indicados abaixo são medidos ou referidos a 1 m à frente da abertura do pavilhão, sendo a medida efectuada, tanto quanto possível, em campo livre:\n\na) Para as embarcações motorizadas, com excepção das pequenas embarcações citadas na alínea b), o nível de pressão acústica ponderada deverá estar compreendido entre 130 dB e 140 dB;\n\nb) Para as embarcações não motorizadas e para as pequenas embarcações que não estejam preparadas ou empregadas para rebocar embarcações ou que não sejam pequenas embarcações, o nível de pressão acústica ponderada deverá estar compreendido entre 100 dB e 125 dB;\n\nc) Para os sinais de três sons utilizados pelas embarcações navegando por radar com tempo cerrado, o nível de pressão acústica de cada som deverá estar compreendido entre 130 dB e 140 dB.\n\n2 - Controlo do nível de pressão acústica. - O controlo do nível de pressão acústica será efectuado pelas autoridades competentes com a ajuda do sonómetro normalizado pela Comissão Electrónica Internacional - CEI (referência CEI 179) ou com a ajuda do sonómetro corrente normalizado pela CEI (referência 123).\n\n3 - Sinais sonoros a utilizar pelas embarcações. - Os sinais sonoros, além do toque de sino e do sinal de três sons de tonalidade diferente seguindo-se sem interrupção, devem ser constituídos pela emissão de um som ou de vários sons consecutivos, tendo as características seguintes:\n\nSom breve: som com uma duração de cerca de um segundo;\n\nSom prolongado: som com uma duração de cerca de quatro segundos.\n\nEntre dois sons consecutivos o intervalo deve ser de cerca de um segundo.\n\nNo entanto, o sinal «uma série de sons muito breves» deve ser constituído por uma série de pelo menos seis sons, com uma duração de pelo menos um quarto de segundo, separados por pausas com a mesma duração."
+  },
+  "8c63aae5d5d6e572": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO V — Sinais de interdição, obrigação, restrição, recomendação e de indicação, sinais auxiliares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Sinais de interdição, obrigação, restrição, recomendação e de indicação, sinais auxiliares\n\nA. Sinais de interdição:\n\n1. Proibição de passar;\n\n2. Proibição de cruzar e ultrapassar;\n\n3. Proibição de estacionar;\n\n4. Proibição de ancorar;\n\n5. Proibição de amarrar à margem;\n\n6. Proibição de virar;\n\n7. Proibição de passar para além do espaço indicado.\n\nB. Sinais de obrigação:\n\n1. Obrigação de tomar a direcção indicada;\n\n2. Obrigação de se dirigir para o lado do canal indicado;\n\n3. Obrigação de tomar o lado do canal indicado BB/EB;\n\n4. Obrigação de não ultrapassar a velocidade indicada;\n\n5. Obrigação de observar uma vigilância particular.\n\nC. Sinais de restrição:\n\n1. A profundidade é limitada;\n\n2. A altura livre acima da linha de água é limitada;\n\n3. A largura da passagem ou do canal é limitada;\n\n4. O canal está afastado da margem ... (o número assinalado em metros).\n\nD. Sinais de recomendação:\n\n1. Passagem recomendada;\n\n2. Manter-se no espaço indicado;\n\n3. Recomendação para se dirigir no sentido da flecha.\n\nE. Sinais de indicação:\n\n1. Autorização para passar;\n\n2. Barragem;\n\n3. Autorização para estacionar;\n\n4. Autorização para ancorar;\n\n5. Autorização para amarrar à margem;\n\n6. Área de viragem;\n\n7. Vias afluentes;\n\n8. Fim de uma proibição.\n\nF. Sinais auxiliares:\n\n1. Paragem a ... metros;\n\n2. Barca a ... metros.\n\n[(ver sinais no documento original)](https://files.diariodarepublica.pt/1s/1998/11/257a01/00020032.pdf)"
+  },
+  "25a6bf9a51797339": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VI — Plano de comunicação em VHF na faixa de 156-174 Mhz para a via navegável do rio Douro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — Plano de comunicação em VHF na faixa de 156-174 Mhz para a via navegável do rio Douro\n\n[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/257a01/00020032.pdf)"
+  },
+  "5769b83768e01a38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VII — Troços do canal navegável do rio Douro onde é interdita a passagem simultânea de embarcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — Troços do canal navegável do rio Douro onde é interdita a passagem simultânea de embarcações\n\nNos troços do canal navegável abaixo indicados é interdita a passagem simultânea de embarcações com comprimento superior a 20 m, devendo os mestres ou responsáveis pelas embarcações, antes de inicia r a navegação nesses troços, informar-se acerca do movimento de outras embarcações e, se necessário, aguardar nas áreas de espera correspondentes:\n\nTroço I: Quinta da Seara (quilómetro 59) - Barragem do Carrapatelo\n\nÁreas de espera:\n\nQuinta da Seara (entre os quilómetros 58 e 59).\n\nBarragem do Carrapatelo (anteportos de jusante e montante).\n\nTroço II: Porto de Rei (quilómetro 87) - Barqueiros (quilómetro 90)\n\nÁreas de espera:\n\nPorto de Rei (quilómetro 87).\n\nBarqueiros (entre os quilómetros 90 e 91).\n\nTroço III: Moledo (quilómetro 97) - Porto da Régua (quilómetro 101)\n\nÁreas de espera:\n\nMoledo (frente à estação da CP).\n\nRégua (frente ao cais comercial).\n\nTroço IV: Porto da Régua (quilómetro 101) - Barragem de Bagauste\n\nÁreas de espera:\n\nRégua (frente ao cais comercial).\n\nBagauste (anteporto de montante).\n\nTroço V: Ponte do Pinhão - Barragem da Valeira\n\nÁreas de espera:\n\nPinhão (quilómetro 126).\n\nBarragem da Valeira (anteporto de montante).\n\nTroço VI: Foz do Sabor (quilómetro 176) - Barragem do Pocinho\n\nÁreas de espera:\n\nFoz do Sabor (quilómetro 176).\n\nBarragem do Pocinho (anteporto de montante)."
+  },
+  "9a2277978473bbc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Taxas de circulação e de exploração",
+   "in_force_from": "2011-03-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 29-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), publicado em 2011-03-01."
+   ],
+   "markdown": "###### Artigo 4.º — Taxas de circulação e de exploração\n\n1 - Pela circulação de embarcações na via navegável do Douro é devido o pagamento de taxas de circulação.\n\n2 - As taxas mencionadas no número anterior reportam à utilização de cada eclusa, à utilização do canal de navegação e à utilização das infra-estruturas e dos equipamentos fluviais.\n\n3 - Pelo fornecimento ou uso de bens e prestação de serviços aos utentes da via navegável do Douro, relativos à exploração da via navegável do Douro, é devido o pagamento de taxas de exploração.\n\n4 - O valor das taxas previstas nos números anteriores, bem como a identificação da forma de pagamento, é fixado por portaria dos membros do Governo responsáveis pela área das finanças e pelo sector dos transportes.\n\n5 - O valor das taxas previstas nos números anteriores é revisto, em Janeiro de cada ano, com base na evolução do índice de preços no consumidor, com exclusão da habitação no Continente, publicado pelo Instituto Nacional de Estatística, I. P.\n\n> Alterado pelo/a [Decreto-Lei n.º 29-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), publicado em 2011-03-01."
+  }
+ }
+}

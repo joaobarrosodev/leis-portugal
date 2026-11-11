@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-05-10'
+version_history:
+  file: regimento-conselho-estado-1-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-04-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-05-10'
+    amending: pt:dre:313841:por
+    amending_title: Declaração de Rectificação n.º 13/2001
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/rgtconsest/1/2001/04/26/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:01:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 13/2001.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/regimentos/2001/regimento-conselho-estado-1-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -107,7 +122,9 @@ Primeira alteração ao Regimento do Conselho de Estado, publicado no Diário da
 
 4 - As actas do Conselho de Estado não podem ser consultadas nem divulgadas, durante um período de 30 anos a contar do final do mandato presidencial em que se realizaram as reuniões a que respeitam.
 
-5 - Ficam ressalvadas a consulta e divulgação das actas, no todo em parte, em casos excepcionais por decisão do Presidente da República.
+5 - Ficam ressalvadas a consulta e divulgação das actas, no todo ou em parte, em casos excepcionais por decisão do Presidente da República.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 13/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-2001-313841), publicado em 2001-05-10.
 
 6 - Após o referido período de 30 anos, a consulta e a divulgação das actas podem ser efectuadas por solicitação dirigida ao Presidente da República.
 

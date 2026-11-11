@@ -1,0 +1,107 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1435181:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2010-07-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2a840db8420ae304",
+    "5ad6918d438c1866",
+    "3d68219394e23076"
+   ]
+  },
+  {
+   "date": "2021-03-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159219777:por",
+     "title": "Aviso n.º 4498/2021",
+     "published": "2021-03-11",
+     "dre_path": "/dr/detalhe/aviso/4498-2021-159219777"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-6",
+    "Altera Artigo unidades 8-9",
+    "Adita Artigo depois da unidade 9"
+   ],
+   "fragments": [
+    "3b54d5829282850e",
+    "7535d1ffae1a6778",
+    "600e0eb676d95ab7",
+    "d687cae7c2ec1c6b"
+   ]
+  }
+ ],
+ "fragments": {
+  "2a840db8420ae304": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A região vinhateira do Alto Douro ou Alto Douro Vinhateiro é uma área do Nordeste de Portugal com mais de 26 000 ha rodeada de montanhas que lhe dão características particulares. Esta região, que é banhada pelo rio Douro, produz vinho há mais de 2000 anos, entre os quais o mundialmente célebre vinho do Porto.\n\nA longa tradição da viticultura produziu uma paisagem cultural de beleza excepcional que reflecte a sua evolução tecnológica, social e económica, representando um exemplo único da relação do homem com o meio ambiente através da monumental combinação do trabalho daquele com a acção da natureza.\n\nAssim:\n\n1 - Nos termos e para os efeitos do disposto no n.º 3 do artigo 72.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de Outubro, torna-se público que, em 2001, foi incluído na lista indicativa do Património Mundial da UNESCO o Alto Douro Vinhateiro, na categoria de Paisagem Cultural, englobando os concelhos de Mesão Frio, Peso da Régua, Santa Marta de Penaguião, Vila Real, Alijó, Sabrosa, Carrazeda de Ansiães, Torre de Moncorvo, Lamego, Armamar, Tabuaço, São João da Pesqueira e Vila Nova de Foz Côa.\n\n2 - Publicam-se, no anexo i, a planta de implantação, incluindo a respectiva zona especial de protecção, e, no anexo ii, a planta de localização.\n\n22 de Julho de 2010. - Pela Ministra da Cultura, Elísio Costa Santos Summavielle, Secretário de Estado da Cultura."
+  },
+  "5ad6918d438c1866": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4095040950.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4095040950.pdf)"
+  },
+  "3d68219394e23076": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4095040950.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4095040950.pdf)\n\n203525755"
+  },
+  "3b54d5829282850e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2021-03-11",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 4498/2021](https://diariodarepublica.pt/dr/detalhe/aviso/4498-2021-159219777), publicado em 2021-03-11."
+   ],
+   "markdown": "A região vinhateira do Alto Douro ou Alto Douro Vinhateiro é uma área do Nordeste de Portugal com mais de 26 000 ha rodeada de montanhas que lhe dão características particulares. Esta região, que é banhada pelo rio Douro, produz vinho há mais de 2000 anos, entre os quais o mundialmente célebre vinho do Porto.\n\nA longa tradição da viticultura produziu uma paisagem cultural de beleza excepcional que reflecte a sua evolução tecnológica, social e económica, representando um exemplo único da relação do homem com o meio ambiente através da monumental combinação do trabalho daquele com a acção da natureza.\n\nAssim:\n\n1 - Nos termos e para os efeitos do disposto no n.º 3 do artigo 72.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, torna-se público que em 2001, na 25.ª Sessão do Comité do Património Mundial (25COM/2001) que teve lugar em Helsínquia, na Finlândia, em dezembro, foi inscrito na Lista do Património Mundial da UNESCO o Alto Douro Vinhateiro, na categoria de Paisagem Cultural, englobando os concelhos de Mesão Frio, Peso da Régua, Santa Marta de Penaguião, Vila Real, Alijó, Sabrosa, Carrazeda de Ansiães, Torre de Moncorvo, Lamego, Armamar, Tabuaço, São João da Pesqueira e Vila Nova de Foz Côa.\n\n2 - Publicam-se no anexo i a planta de implantação, no anexo ii a planta da zona tampão que, para todos os efeitos, nos termos do n.º 2 do artigo 72.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, corresponde a uma zona especial de proteção, e no anexo iii a planta de localização, que podem ser consultadas nos locais e páginas eletrónicas das seguintes entidades: Direção-Geral do Património Cultural; Comissão Nacional da UNESCO; Câmaras Municipais dos concelhos de Mesão Frio, Peso da Régua, Santa Marta de Penaguião, Vila Real, Alijó, Sabrosa, Carrazeda de Ansiães, Torre de Moncorvo, Lamego, Armamar, Tabuaço, São João da Pesqueira e Vila Nova de Foz Côa; Direção Regional de Cultura do Norte; e Centro do Património Mundial da UNESCO\n\n> Alterado pelo/a [Aviso n.º 4498/2021](https://diariodarepublica.pt/dr/detalhe/aviso/4498-2021-159219777), publicado em 2021-03-11.\n\n22 de Julho de 2010. - Pela Ministra da Cultura, Elísio Costa Santos Summavielle, Secretário de Estado da Cultura."
+  },
+  "7535d1ffae1a6778": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/049000000/0009300095.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/049000000/0009300095.pdf)"
+  },
+  "600e0eb676d95ab7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/049000000/0009300095.pdf)",
+   "in_force_from": "2021-03-11",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 4498/2021](https://diariodarepublica.pt/dr/detalhe/aviso/4498-2021-159219777), publicado em 2021-03-11."
+   ],
+   "markdown": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/049000000/0009300095.pdf)\n\n> Alterado pelo/a [Aviso n.º 4498/2021](https://diariodarepublica.pt/dr/detalhe/aviso/4498-2021-159219777), publicado em 2021-03-11."
+  },
+  "d687cae7c2ec1c6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/049000000/0009300095.pdf)",
+   "in_force_from": "2021-03-11",
+   "changed_by": [
+    "Aditado pelo/a [Aviso n.º 4498/2021](https://diariodarepublica.pt/dr/detalhe/aviso/4498-2021-159219777), publicado em 2021-03-11."
+   ],
+   "markdown": "## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/049000000/0009300095.pdf)\n\n> Aditado pelo/a [Aviso n.º 4498/2021](https://diariodarepublica.pt/dr/detalhe/aviso/4498-2021-159219777), publicado em 2021-03-11.\n\n203525755"
+  }
+ }
+}

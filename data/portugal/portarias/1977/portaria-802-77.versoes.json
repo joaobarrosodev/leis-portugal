@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:276605:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "973ecabf9a046cd7"
+   ]
+  },
+  {
+   "date": "1981-12-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:567057:por",
+     "title": "Portaria n.º 1091/81",
+     "published": "1981-12-22",
+     "dre_path": "/dr/detalhe/portaria/1091-1981-567057"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-9",
+    "Altera Artigo unidades 11-13"
+   ],
+   "fragments": [
+    "23f3a72f8c15c85b"
+   ]
+  }
+ ],
+ "fragments": {
+  "973ecabf9a046cd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro\n\nConsiderando que os pescadores exercem a sua actividade em diversos sectores da pesca em condições de trabalho particularmente desgastantes;\n\nConsiderando a diferença sensível no desgaste físico provocado nos vários tipos de pesca;\n\nConsiderando ainda que o risco a que são submetidos, aliado aos condicionalismos atrás apontados, provoca necessariamente um envelhecimento precoce;\n\nTornando-se necessário tomar medidas imediatas tendentes a atenuar as graves consequências daí resultantes, independentemente do seu futuro enquadramento numa política global a adaptar relativamente a profissões desgastantes:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social:\n\n1 - É reconhecido aos trabalhadores inscritos marítimos exercendo a sua actividade na pesca, beneficiários da Caixa de Previdência e Abono de Família dos Profissionais de Pesca, integrados em campanhas por um período mínimo de quinze anos, a pensão por desgaste físico, entrando-se em consideração com os coeficientes referidos no número seguinte, para uma diminuição da idade de reforma fixada para o regime geral da Previdência.\n\n2 - Os coeficientes a considerar segundo os vários tipos de pesca e relativamente ao número de anos de serviço efectivamente prestado são os seguintes:\n\n... Percentagem\n\nPesca de bacalhau ... 20\n\nPesca do arrasto do alto ou longínqua ... 15\n\nPesca do arrasto costeiro, sardinha, artesanal, atum ou cetáceos ... 10\n\n3 - Para efeitos do disposto nos números anteriores será contado um ano efectivo de serviço aos pescadores que façam parte da campanha num período mínimo de cento e cinquenta dias seguidos ou intercalados, dentro do mesmo ano civil.\n\n4 - É revogada, no que refere aos pescadores, a portaria de 18 de Dezembro de 1975, publicada no Diário do Governo, 2.ª série, de 2 de Janeiro de 1976.\n\n5 - A presente portaria produz efeitos a partir de 1 de Janeiro de 1978.\n\nSecretaria de Estado da Segurança Social, 19 de Dezembro de 1977. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques."
+  },
+  "23f3a72f8c15c85b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1981-12-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1091/81](https://diariodarepublica.pt/dr/detalhe/portaria/1091-1981-567057), publicado em 1981-12-22.",
+    "Alterado pelo/a [Portaria n.º 1091/81](https://diariodarepublica.pt/dr/detalhe/portaria/1091-1981-567057), publicado em 1981-12-22."
+   ],
+   "markdown": "de 31 de Dezembro\n\nConsiderando que os pescadores exercem a sua actividade em diversos sectores da pesca em condições de trabalho particularmente desgastantes;\n\nConsiderando a diferença sensível no desgaste físico provocado nos vários tipos de pesca;\n\nConsiderando ainda que o risco a que são submetidos, aliado aos condicionalismos atrás apontados, provoca necessariamente um envelhecimento precoce;\n\nTornando-se necessário tomar medidas imediatas tendentes a atenuar as graves consequências daí resultantes, independentemente do seu futuro enquadramento numa política global a adaptar relativamente a profissões desgastantes:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social:\n\n1 - É reconhecido aos trabalhadores inscritos marítimos exercendo a sua actividade na pesca, beneficiários da Caixa de Previdência e Abono de Família dos Profissionais de Pesca, integrados em campanhas por um período mínimo de quinze anos, a pensão por desgaste físico, entrando-se em consideração com os coeficientes referidos no número seguinte, para uma diminuição da idade de reforma fixada para o regime geral da Previdência.\n\n2 - Os coeficientes a considerar segundo os vários tipos de pesca relativamente ao número de anos de serviço efectivamente prestado são os seguintes:\n\n> Alterado pelo/a [Portaria n.º 1091/81](https://diariodarepublica.pt/dr/detalhe/portaria/1091-1981-567057), publicado em 1981-12-22.\n\n... Percentagem\n\nPesca do bacalhau ... 33\n\nPesca do arrasto do alto ou longínqua ... 25\n\nPesca do arrasto costeiro, sardinha, artesanal, atum ou cetáceos ... 15\n\n> Alterado pelo/a [Portaria n.º 1091/81](https://diariodarepublica.pt/dr/detalhe/portaria/1091-1981-567057), publicado em 1981-12-22.\n\n3 - Para efeitos do disposto nos números anteriores será contado um ano efectivo de serviço aos pescadores que façam parte da campanha num período mínimo de cento e cinquenta dias seguidos ou intercalados, dentro do mesmo ano civil.\n\n4 - É revogada, no que refere aos pescadores, a portaria de 18 de Dezembro de 1975, publicada no Diário do Governo, 2.ª série, de 2 de Janeiro de 1976.\n\n5 - A presente portaria produz efeitos a partir de 1 de Janeiro de 1978.\n\nSecretaria de Estado da Segurança Social, 19 de Dezembro de 1977. - O Secretário de Estado da Segurança Social, Vítor Manuel Gomes Vasques."
+  }
+ }
+}

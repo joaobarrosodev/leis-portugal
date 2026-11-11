@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-04-04'
+version_history:
+  file: decreto-presidente-republica-5-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-02-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-04-04'
+    amending: pt:dre:301250:por
+    amending_title: Declaração de Rectificação n.º 16/2002
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decpresrep/5/2002/02/23/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:42:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 16/2002.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-presidente-republica/2002/decreto-presidente-republica-5-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -109,7 +124,9 @@ O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da 
 
 É ratificada a Convenção entre a República Portuguesa e o Reino da Dinamarca para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa em 14 de Dezembro de 2000, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 6/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/6-2002-280476), em 20 de Dezembro de 2001.
 
-Assinado em 14 de Fevereiro de 2002.
+Assinado em 11 de Fevereiro de 2002.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 16/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-2002-301250), publicado em 2002-04-04.
 
 Publique-se.
 

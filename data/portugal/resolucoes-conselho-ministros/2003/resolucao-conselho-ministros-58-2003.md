@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-05-31'
+version_history:
+  file: resolucao-conselho-ministros-58-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-04-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-05-31'
+    amending: pt:dre:487944:por
+    amending_title: Declaração de Rectificação n.º 7-I/2003
+    changes:
+    - Altera Artigo unidades 354-357
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/58/2003/04/11/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:48:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 7-I/2003.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2003/resolucao-conselho-ministros-58-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -832,13 +847,15 @@ Até 50 ha - (euro) 150;
 
 100 ha-200 ha - (euro) 70;
 
-A atribuir à área semeada com cultura arvense anual [cereais para grão (excepto trigo-mole ou duro); leguminosas secas para grão (excepto feijão), girassol, colza e linho oleaginoso]:
+A atribuir à área semeada com cultura arvense anual [cereais para grão (excepto trigo-mole ou duro), leguminosas secas para grão (excepto feijão), girassol, colza e linho oleaginoso]:
 
-Até 50 ha - (euro) 150;
+Até 50 ha - (euro) 100;
 
-50 ha-100 ha - (euro) 115;
+50 ha-100 ha - (euro) 75;
 
-100 ha-200 ha - (euro) 70;
+100 ha-200 ha - (euro) 50;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 7-I/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-i-2003-487944), publicado em 2003-05-31.
 
 Ajuda complementar para o uso de técnicas de mobilização mínima por hectares:
 

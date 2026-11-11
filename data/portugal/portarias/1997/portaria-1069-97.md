@@ -40,10 +40,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-04-10'
+version_history:
+  file: portaria-1069-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-10-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-04-10'
+    amending: pt:dre:323955:por
+    amending_title: Portaria n.º 365/99; Portaria n.º 351/2001
+    changes:
+    - Altera Artigo unidades 20-20
+    - Adita Artigo depois da unidade 20
+    - Altera Artigo unidades 43-45
+    - Altera Artigo unidades 47-49
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1069/1997/10/23/p/dre/pt/html
@@ -69,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:42:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 365/99; Portaria n.º
+    351/2001. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-1069-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -172,7 +190,15 @@ Edição e venda do livro de reclamações
 
 1 - Sem prejuízo do disposto no número seguinte, o livro de reclamações é editado e vendido pela Direcção-Geral do Turismo.
 
-2 - O livro de reclamações pode ainda ser editado e vendido pelas entidades para tanto autorizadas mediante despacho do director-geral do Turismo, a emitir no prazo de 30 dias a contar da data de entrada do requerimento dos interessados.
+2 - O livro de reclamações pode ainda ser vendido pelas entidades para tanto autorizadas, mediante despacho do director-geral do Turismo, a emitir no prazo de 30 dias a contar da data de entrada do requerimento dos interessados.
+
+> Alterado pelo/a [Portaria n.º 365/99](https://diariodarepublica.pt/dr/detalhe/portaria/365-1999-323955), publicado em 1999-05-19.
+
+3 - Para efeitos do estabelecido no n.º 4.º do presente diploma, as entidades a que se refere o número anterior devem fornecer à Direcção-Geral do Turismo, no prazo de 30 dias contados a partir da data da venda dos livros de reclamações a terceiros, as referências previstas nas alíneas a) a c) daquele número, por forma que as mesmas sejam objecto de registo na Direcção-Geral do Turismo.
+
+4 - Entendem-se transferidas para as entidades previstas no n.º 2 as competências atribuídas à Direcção-Geral do Turismo nos n.os 2 e 3 do n.º 8.º do presente diploma, devendo tais entidades informar a Direcção-Geral do Turismo, no prazo previsto no número anterior, das referências dos livros de reclamações perdidos ou extraviados, bem como dos livros de reclamações encerrados e ou totalmente preenchidos.
+
+> Aditado pelo/a [Portaria n.º 365/99](https://diariodarepublica.pt/dr/detalhe/portaria/365-1999-323955), publicado em 1999-05-19.
 
 4.º
 
@@ -218,19 +244,37 @@ Análise preliminar
 
 Aquisição de um novo livro de reclamações
 
-1 - O encerramento do livro de reclamações determina a obrigação de aquisição de um novo livro pela entidade exploradora do empreendimento ou estabelecimento em causa.
+1 - Os estabelecimentos de restauração e de bebidas que ainda possuam um livro de reclamações adquirido ao abrigo do disposto no artigo 41.º do [Decreto Regulamentar n.º 8/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1989-613898), de 21 de Março, e de despacho do director-geral do Turismo de 23 de Março de 1989, ou de legislação anterior, devem adquirir um novo livro de reclamações.
 
-2 - Quando estiver preenchida a totalidade dos impressos do livro de reclamações, este deve ser entregue à Direcção-Geral do Turismo, para os efeitos previstos na alínea d) do artigo 4.º
+2 - O encerramento do livro de reclamações determina a obrigação de aquisição de um novo livro pela entidade exploradora do empreendimento ou estabelecimento em causa.
 
-3 - A perda ou extravio do livro de reclamações determina igualmente a obrigação da aquisição de um novo livro e deve ser comunicada à Direcção-Geral do Turismo, para os efeitos previstos na alínea e) do artigo 4.º
+3 - Quando estiver preenchida a totalidade dos impressos do livro de reclamações, este deve ser entregue à Direcção-Geral do Turismo, para os efeitos previstos na alínea d) do artigo 4.º
+
+4 - A perda ou extravio do livro de reclamações determina igualmente a obrigação de aquisição de um novo livro e deve ser comunicada à Direcção-Geral do Turismo, para os efeitos previstos na alínea e) do artigo 4.º
+
+> Alterado pelo/a [Portaria n.º 351/2001](https://diariodarepublica.pt/dr/detalhe/portaria/351-2001-354545), publicado em 2001-04-09.
 
 9.º
 
-Preço do livro de reclamações
+Preço e condições de pagamento do livro de reclamações
 
-1 - O preço do livro é de 5000$00.
+1 - Sem prejuízo do disposto nos números seguintes, o preço de venda ao público do livro de reclamações pela Direcção-Geral do Turismo é de 5000$00 por unidade.
 
-2 - O preço referido no número anterior é expresso em escudos com poder aquisitivo referente ao ano de 1997 e será actualizado com efeitos a partir de 1 de Março de cada ano, tendo em conta o índice médio de preços do consumidor no continente, excluindo a habitação, publicado pelo Instituto Nacional de Estatística, arredondando-se para a dezena de escudos imediatamente superior.
+2 - Quando o livro de reclamações for vendido pela Direcção-Geral do Turismo às câmaras municipais, aos órgãos regionais e locais de turismo e às federações e associações patronais do sector, tendo em vista a sua distribuição pelos interessados, por cada encomenda até 1000 unidades o preço é de 4500$00 por unidade.
+
+3 - Quando o livro de reclamações for vendido pela Direcção-Geral do Turismo às câmaras municipais, aos órgãos regionais e locais de turismo e às federações e associações patronais do sector, tendo em vista a sua distribuição pelos interessados, por cada encomenda de 1000 a 25000 unidades o preço é de 4000$00 por unidade.
+
+4 - Quando o livro de reclamações for vendido pela Direcção-Geral do Turismo às câmaras municipais, aos órgãos regionais e locais de turismo e às federações e associações patronais do sector, tendo em vista a sua distribuição pelos interessados, por cada encomenda em número superior a 25000 unidades o preço é de 2000$00 por unidade.
+
+5 - O livro de reclamações, quando for vendido pela Direcção-Geral do Turismo nos termos previstos nos n.os 1 e 2 do presente número, deve ser pago no momento da sua aquisição.
+
+6 - O livro de reclamações, quando for vendido pela Direcção-Geral do Turismo nos termos previstos no n.º 3 do presente número, pode ser pago em duas prestações de valor igual a liquidar no ano económico da aquisição.
+
+7 - O livro de reclamações, quando for vendido pela Direcção-Geral do Turismo nos termos previstos no n.º 4 do presente número, pode ser pago em quatro prestações de valor igual a liquidar no ano económico da aquisição.
+
+8 - Os preços referidos nos n.os 1 a 4 são expressos em escudos, com poder aquisitivo referente ao ano de 1999, e serão actualizados com efeitos a partir de 1 de Março de cada ano, tendo em conta o índice médio de preços ao consumidor no continente, excluindo a habitação, publicado pelo Instituto Nacional de Estatística, arredondando-se para a dezena de escudos imediatamente superior.
+
+> Alterado pelo/a [Portaria n.º 365/99](https://diariodarepublica.pt/dr/detalhe/portaria/365-1999-323955), publicado em 1999-05-19.
 
 10.º
 

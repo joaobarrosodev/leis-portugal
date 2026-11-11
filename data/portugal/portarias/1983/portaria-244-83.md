@@ -28,10 +28,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-02-26'
+version_history:
+  file: portaria-244-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-03-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-02-26'
+    amending: pt:dre:548385:por
+    amending_title: Portaria n.º 861/89; Portaria n.º 147/90
+    changes:
+    - Altera Artigo unidades 17-17
+    - Altera Artigo unidades 19-22
+    - Altera Artigo unidades 24-27
+    - Altera Artigo unidades 28-28
+    - Altera Artigo unidades 31-31
+    - Altera Artigo unidades 54-58
 identifiers:
   celex: null
   eli: null
@@ -57,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:35:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 861/89; Portaria n.º
+    147/90. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-244-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,35 +163,47 @@ A área científica do curso é a Economia.
 
 (Áreas científicas e unidades de crédito)
 
-As áreas científicas e as unidades de crédito necessárias à conclusão do curso distribuem-se da seguinte forma:
+As área científicas e as unidades de crédito necessárias à conclusão do curso distribuem-se da seguinte forma:
+
+> Alterado pelo/a [Portaria n.º 147/90](https://diariodarepublica.pt/dr/detalhe/portaria/147-1990-332909), publicado em 1990-02-21.
 
 a) Obrigatórias:
 
-I) Microeconomia ... 4
+I) Microeconomia ... 3
 
-II) Macroeconomia ... 4
+II) Macroeconomia ... 3
 
-III) Métodos Quantitativos ... 4
+III) Métodos Quantitativos ... 3
 
-IV) Relações Económicas Internacionais ... 4
+> Alterado pelo/a [Portaria n.º 861/89](https://diariodarepublica.pt/dr/detalhe/portaria/861-1989-548385), publicado em 1989-10-04.
 
 b) Optativas:
 
-I) Economia Pública e Financeira ... 8
+I) Economia Industrial e da Empresa ... 12
 
-II) Economia da Empresa ... 8
+II) Economia Regional e do Desenvolvimento ... 12
 
-III) Economia Espacial e dos Recursos ... 8
+III) Economia e Finanças Internacionais ... 12
 
-IV) Economia do Desenvolvimento ... 8
+IV) Política Económica ... 12
 
-Total ... 24
+V) Métodos Quantitativos Aplicados à Economia ... 12
+
+VI) Teoria Económica ... 12
+
+> Alterado pelo/a [Portaria n.º 861/89](https://diariodarepublica.pt/dr/detalhe/portaria/861-1989-548385), publicado em 1989-10-04.
+
+Total ... 21
+
+> Alterado pelo/a [Portaria n.º 147/90](https://diariodarepublica.pt/dr/detalhe/portaria/147-1990-332909), publicado em 1990-02-21.
 
 5.º
 
 (Duração normal)
 
-A duração normal do curso é de 3 semestres lectivos.
+A duração da parte escolar do curso é de dois semestres lectivos.
+
+> Alterado pelo/a [Portaria n.º 861/89](https://diariodarepublica.pt/dr/detalhe/portaria/861-1989-548385), publicado em 1989-10-04.
 
 6.º
 
@@ -217,15 +249,23 @@ As regras de matrícula e inscrição, bem como o regime de faltas, de avaliaç�
 
 10.º
 
-(«Numerus clausus»)
+Limitações quantitativas
 
-1 - O numerus clausus do curso será fixado anualmente por despacho do Ministro da Educação, sob proposta da Universidade.
+1 - A matrícula e inscrição no curso está sujeita a limitações quantitativas a fixar anualmente por despacho do reitor da Universidade do Porto, ao abrigo do disposto na alínea e) do artigo 2.º do [Decreto-Lei n.º 323/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032), de 9 de Outubro, sob proposta do conselho científico da Faculdade de Economia.
 
-2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.
+2 - O curso não poderá funcionar com um número de inscrições inferior a vinte.
 
-3 - Poderá igualmente ser fixado no mesmo despacho um número mínimo de inscrições indispensável ao funcionamento do curso.
+3 - O despacho a que se refere o n.º 1 estabelecerá ainda:
 
-4 - Cada proposta de numerus clausus deverá ser acompanhada de um relatório comprovativo de estarem satisfeitas as condições referidas no n.º 12.º
+a) Qual a percentagem das vagas que será reservada prioritariamente a docentes de estabelecimentos de ensino superior;
+
+b) Qual a percentagem das vagas que será reservada prioritariamente a candidatos que não sejam docentes de estabelecimentos de ensino superior, a qual não poderá ser inferior a 50%;
+
+c) Qual o número mínimo de inscrições indispensáveis ao funcionamento do curso, se mais elevado que o referido no n.º 2.
+
+4 - O despacho a que se refere o n.º 1 deverá ser publicado na 2.ª série do Diário da República antes do início do prazo de candidatura.
+
+> Alterado pelo/a [Portaria n.º 861/89](https://diariodarepublica.pt/dr/detalhe/portaria/861-1989-548385), publicado em 1989-10-04.
 
 11.º
 

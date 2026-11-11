@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:288211:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-04-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9fee5fa44c425045"
+   ]
+  },
+  {
+   "date": "2007-09-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:640576:por",
+     "title": "Portaria n.º 1166/2007",
+     "published": "2007-09-13",
+     "dre_path": "/dr/detalhe/portaria/1166-2007-640576"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6",
+    "Adita Artigo depois da unidade 6"
+   ],
+   "fragments": [
+    "e1761fe812a15bf2"
+   ]
+  }
+ ],
+ "fragments": {
+  "9fee5fa44c425045": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Abril\n\nCom fundamento no disposto na alínea a) do n.º 1 do artigo 36.º e no n.º 1 do artigo 114.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro;\n\nOuvido o Conselho Cinegético Municipal de Silves:\n\nManda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, o seguinte:\n\n1.º Pela presente portaria é concessionada, pelo período de seis anos, renovável automaticamente por um único e igual período, à Associação de Caçadores do Monte da Oliveira, com o número de pessoa colectiva 505274132 e sede no cruzamento de São Marcos da Serra, Silves, a zona de caça associativa do Monte Branco (processo n.º 2754-DGF), englobando vários prédios rústicos sitos na freguesia de São Marcos da Serra, município de Silves, com a área de 418 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n2.º A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 4 e sinal do modelo n.º 10, definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.\n\n3.º A eficácia da concessão está dependente de prévia sinalização, de acordo com as condições definidas na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974).\n\n4.º A presente portaria produz efeitos a partir do dia 1 de Março de 2002.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 4 de Janeiro de 2002. - Pelo Ministro do Ambiente e do Ordenamento do Território, Manuel Pedro Cunha da Silva Pereira, Secretário de Estado do Ordenamento do Território e da Conservação da Natureza, em 12 de Março de 2002.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/04/098b00/40974097.pdf)"
+  },
+  "e1761fe812a15bf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2007-09-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1166/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1166-2007-640576), publicado em 2007-09-13.",
+    "Aditado pelo/a [Portaria n.º 1166/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1166-2007-640576), publicado em 2007-09-13."
+   ],
+   "markdown": "de 27 de Abril\n\nCom fundamento no disposto na alínea a) do n.º 1 do artigo 36.º e no n.º 1 do artigo 114.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro;\n\nOuvido o Conselho Cinegético Municipal de Silves:\n\nManda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, o seguinte:\n\n1.º Pela presente portaria é concessionada, pelo período de 12 anos, à Associação de Caçadores do Monte da Oliveira, com o número de pessoa colectiva 505274132 e sede no cruzamento de São Marcos da Serra, Silves, a zona de caça associativa do Monte Branco (processo n.º 2754-DGF), englobando vários prédios rústicos sitos na freguesia de São Marcos da Serra, município de Silves, com a área de 418 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n> Alterado pelo/a [Portaria n.º 1166/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1166-2007-640576), publicado em 2007-09-13.\n\n1.º-A A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza até ao máximo de 10 % da área total da zona de caça.\n\n> Aditado pelo/a [Portaria n.º 1166/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1166-2007-640576), publicado em 2007-09-13.\n\n2.º A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 4 e sinal do modelo n.º 10, definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.\n\n3.º A eficácia da concessão está dependente de prévia sinalização, de acordo com as condições definidas na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974).\n\n4.º A presente portaria produz efeitos a partir do dia 1 de Março de 2002.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 4 de Janeiro de 2002. - Pelo Ministro do Ambiente e do Ordenamento do Território, Manuel Pedro Cunha da Silva Pereira, Secretário de Estado do Ordenamento do Território e da Conservação da Natureza, em 12 de Março de 2002.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/04/098b00/40974097.pdf)"
+  }
+ }
+}

@@ -39,10 +39,32 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-11-08'
+version_history:
+  file: portaria-473-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-06-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-11-08'
+    amending: pt:dre:666165:por
+    amending_title: Portaria n.º 1129/93
+    changes:
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 15-15
+    - Altera Artigo unidades 17-17
+    - Altera Artigo unidades 25-25
+    - Altera Artigo unidades 28-28
+    - Altera Artigo unidades 29-29
+    - Altera Artigo unidades 39-39
+    - Adita Artigo depois da unidade 39
+    - Altera Artigo unidades 42-42
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/473/1992/06/05/p/dre/pt/html
@@ -68,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:21:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1129/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-473-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,13 +160,19 @@ b) Comprovem, documentalmente e por meio de currículo, experiência prática de
 
 5.º Para efeitos de início de actividade, o requisito de capacidade financeira consiste num capital social mínimo de 50 milhões de escudos.
 
-6.º Durante o exercício da actividade transportadora, as empresas devem ainda dispor de capitais próprios de montante igual ou superior a 600000$00 por cada veículo licenciado ou 30000$00 por lugar sentado dos veículos utilizados pela empresa.
+6.º Durante o exercício da actividade transportadora, as empresas devem ainda dispor de capitais próprios de montante igual ou superior a 600000$00 por cada veículo licenciado ou igual ou superior a 30000$00 por cada lugar sentado.
 
-7.º O requisito de capacidade financeira previsto no número anterior poderá ser substituído por garantia bancária.
+> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.
+
+7.º A comprovação do disposto no número anterior deverá ser feita por meio de balanço apresentado na repartição de finanças competente para efeitos do imposto sobre o rendimento das pessoas colectivas (IRC) ou, em alternativa, por meio de garantia bancária.
+
+> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.
 
 8.º A comprovação do disposto no n.º 5.º deverá ser feita por certidão de registo comercial donde conste o respectivo capital social.
 
-9.º A comprovação do disposto no n.º 6.º deverá ser feita por meio de balanço, apresentado na repartição de finanças competente, para efeitos do imposto sobre o rendimento de pessoas colectivas (IRC).
+9.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
@@ -159,15 +188,21 @@ a) Tenham capacidade profissional para o exercício da profissão de transportad
 
 b) Se inscrevam para o efeito nos serviços competentes da Direcção-Geral de Transportes Terrestres, mediante o pagamento de 10000$00.
 
-2.º O júri de exame para avaliação de conhecimentos das matérias constantes do anexo II será constituído por um presidente e três vogais escolhidos em razão da sua competência de entre pessoal dos quadros da Direcção-Geral de Transportes Terrestres e da Direcção-Geral das Alfândegas, nomeados por despacho do director-geral de Transportes Terrestres, ouvido o director-geral das Alfândegas.
+2.º O júri de exame para avaliação de conhecimentos das matérias constantes do anexo II será constituído por um presidente e dois vogais escolhidos em razão da sua competência e nomeados por despacho do director-geral de Transportes Terrestres.
+
+> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.
 
 3.º As decisões do júri serão tomadas por maioria, tendo o presidente voto de qualidade.
 
 4.º O presidente do júri, em caso de impedimento, designará o seu substituto de entre os restantes membros.
 
-5.º A Direcção-Geral de Transportes Terrestres realizará exames pelo menos duas vezes por ano, nos meses de Abril e Novembro.
+5.º A Direcção-Geral de Transportes Terrestres realizará exames, pelo menos duas vezes por ano, nos meses de Março e Novembro.
 
-6.º As inscrições deverão ser feitas até 30 dias antes da data fixada para a realização dos exames.
+> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.
+
+6.º Serão admitidos a exame os candidatos inscritos até ao último dia útil do mês imediatamente anterior ao da realização dos exames.
+
+> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.
 
 7.º Só serão admitidos à realização das provas os candidatos que:
 
@@ -187,12 +222,20 @@ A aprovação depende da obtenção de pelo menos 50% de respostas certas em cad
 
 12.º A revisão de provas será feita pelo respectivo júri nos oito dias úteis a contar da data do pedido de revisão.
 
-13.º Os candidatos que tenham reprovado só poderão inscrever-se para novo exame decorridos, no mínimo, seis meses a contar da data da afixação das listas a que se refere o n.º 10.º
+13.º Quando os exames a que se refere o presente Regulamento se realizarem simultaneamente com os exames para obtenção de capacidade profissional para transportes nacionais rodoviários de passageiros previsto no anexo I da [Portaria n.º 77/93](https://diariodarepublica.pt/dr/detalhe/portaria/77-1993-585231), de 21 de Janeiro, será constituído apenas um júri.
+
+> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.
+
+14.º Quando os exames se realizem nas condições previstas no número anterior, a publicação dos resultados das provas relativas às matérias enunciadas no anexo II desta portaria fica condicionada à aprovação nas matérias cujo conhecimento é exigido para o reconhecimento de capacidade profissional para os transportes rodoviários nacionais de passageiros.
+
+> Aditado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.
 
 ## ANEXO II — Matérias objecto de exame
 
 1 - Regulamentação aplicável ao transporte intracomunitário de passageiros por estrada, assim como ao transporte internacional entre a Comunidade e países terceiros, decorrente da legislação nacional, das normas comunitárias, das convenções e acordos internacionais.
 
-2 - Práticas aduaneiras e outras formalidades referentes aos controlos dos transportes.
+2 - Práticas e formalidades respeitantes à passagem das fronteiras.
+
+> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.
 
 3 - Principais regulamentações de circulação nos Estados membros.

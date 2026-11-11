@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:280240:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-12-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fa0d8385c76a3572"
+   ]
+  },
+  {
+   "date": "1978-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:647324:por",
+     "title": "Portaria n.º 63-A/78",
+     "published": "1978-01-31",
+     "dre_path": "/dr/detalhe/portaria/63-a-1978-647324"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "39ba83999d00cb15"
+   ]
+  }
+ ],
+ "fragments": {
+  "fa0d8385c76a3572": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Dezembro\n\nTornando-se necessário alterar o tempo de permanência no posto, estabelecido no Estatuto do Oficial da Armada, para a promoção ao posto de capitão-de-fragata das diversas classes do quadro dos oficiais do activo da Armada:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo do disposto no artigo 247.º do Estatuto do Oficial da Armada, aprovado e posto em execução pelo [Decreto n.º 46960](https://diariodarepublica.pt/dr/detalhe/decreto/46960-1966-487748), de 14 de Abril de 1966, o seguinte:\n\n1.º No mapa n.º 3 a que se refere o § único do artigo 146.º do Estatuto do Oficial da Armada é fixado em quatro anos o tempo de permanência no posto para a promoção ao posto de capitão-de-fragata de todas as classes do quadro dos oficiais do activo da Armada, com excepção das classes de oficiais técnicos e do serviço geral, esta em extinção.\n\n2.º No mapa anteriormente citado é eliminada a alínea b).\n\n3.º O disposto no n.º 1.º não é aplicável aos oficiais que, à data da publicação da presente portaria, completem, ou tenham completado, no posto de capitão-tenente o tempo de permanência até agora exigido.\n\nEstado-Maior da Armada, 14 de Novembro de 1977. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante."
+  },
+  "39ba83999d00cb15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1978-01-31",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 63-A/78](https://diariodarepublica.pt/dr/detalhe/portaria/63-a-1978-647324), publicado em 1978-01-31."
+   ],
+   "markdown": "de 21 de Dezembro\n\nTornando-se necessário alterar o tempo de permanência no posto, estabelecido no Estatuto do Oficial da Armada, para a promoção ao posto de capitão-de-fragata das diversas classes do quadro dos oficiais do activo da Armada:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo do disposto no artigo 247.º do Estatuto do Oficial da Armada, aprovado e posto em execução pelo [Decreto n.º 46960](https://diariodarepublica.pt/dr/detalhe/decreto/46960-1966-487748), de 14 de Abril de 1966, o seguinte:\n\n1.º No mapa n.º 3 a que se refere o § único do artigo 146.º do Estatuto do Oficial da Armada é fixado em quatro anos o tempo de permanência no posto para a promoção ao posto de capitão-de-fragata de todas as classes do quadro dos oficiais do activo da Armada, com excepção das classes de oficiais técnicos e do serviço geral, esta em extinção.\n\n2.º O estabelecido na alínea b) do mapa anteriormente citado não é aplicável aos oficiais abrangidos pelo disposto no n.º 1.º da presente portaria.\n\n> Alterado pelo/a [Portaria n.º 63-A/78](https://diariodarepublica.pt/dr/detalhe/portaria/63-a-1978-647324), publicado em 1978-01-31.\n\n3.º O disposto no n.º 1.º não é aplicável aos oficiais que, à data da publicação da presente portaria, completem, ou tenham completado, no posto de capitão-tenente o tempo de permanência até agora exigido.\n\nEstado-Maior da Armada, 14 de Novembro de 1977. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante."
+  }
+ }
+}

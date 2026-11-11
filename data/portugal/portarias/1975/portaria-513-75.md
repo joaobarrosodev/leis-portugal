@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-05-18'
+version_history:
+  file: portaria-513-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-08-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-05-18'
+    amending: pt:dre:381678:por
+    amending_title: Portaria n.º 516/84; Portaria n.º 150/96
+    changes:
+    - Altera Artigo unidades 5-6
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:48:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 516/84; Portaria n.º
+    150/96. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1975/portaria-513-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,11 +128,15 @@ Tendo em conta o disposto no artigo 4.º do [Decreto-Lei n.º 377/75](https://di
 
 Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguinte:
 
-1.º É criada uma unidade da Armada destinada a integrar o pessoal dos três ramos das forças armadas nomeado para prestar serviço no Quartel-General do Comando da Área Ibero-Atlântica e centralizar todos os assuntos relativos à sua administração, designada por Unidade de Apoio ao Comando da Área Ibero-Atlântica e abreviadamente por UAAI.
+1.º É criada uma unidade da Armada destinada a integrar o pessoal dos três ramos das Forças Armadas nomeado para prestar serviço no Quartel-General do Comando-Chefe da Área Ibero-Atlântica e a centralizar todos os assuntos relativos à sua administração, designada por Unidade de Apoio ao Comando-Chefe da Área Ibero-Atlântica e abreviadamente por UAAI.
 
-2.º O comandante da UAAI será o oficial general da Armada em serviço naquele Quartel-General, que desempenhará essas funções em acumulação com as que ali exerce, e o imediato um oficial superior da classe de marinha.
+2.º O comandante da UAAI será o mais antigo capitão-de-mar-e-guerra da classe de Marinha em serviço naquele Quartel-General, que desempenhará essas funções em acumulação com as que ali exerce, e o imediato um oficial superior da classe de Marinha.
 
-3.º O oficial general referido no número anterior, na sua qualidade de comandante da UAAI, fica directamente subordinado ao Chefe do Estado-Maior da Armada.
+> Alterado pelo/a [Portaria n.º 516/84](https://diariodarepublica.pt/dr/detalhe/portaria/516-1984-381678), publicado em 1984-07-27.
+
+3.º O comandante da UAAI fica directamente subordinado ao comandante naval.
+
+> Alterado pelo/a [Portaria n.º 150/96](https://diariodarepublica.pt/dr/detalhe/portaria/150-1996-468469), publicado em 1996-05-13.
 
 4.º Para o exercício das atribuições que lhe competem, o comandante da UAAI estabelecerá as ligações que forem indispensáveis com os departamentos a que pertence o pessoal integrado nesta unidade.
 

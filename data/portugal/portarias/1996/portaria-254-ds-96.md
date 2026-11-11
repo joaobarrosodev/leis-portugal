@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-08-26'
+version_history:
+  file: portaria-254-ds-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-08-26'
+    amending: pt:dre:193418:por
+    amending_title: Portaria n.º 733/97
+    changes:
+    - Altera Artigo unidades 9-9
+    - Adita Artigo depois da unidade 9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/254-ds/1996/07/15/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:23:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 733/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-254-ds-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,7 +163,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de São Simão, município de Nisa, com uma área de 918,8425 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de São Simão, município de Nisa, com a área de 917,1050 ha.
+
+> Alterado pelo/a [Portaria n.º 733/97](https://diariodarepublica.pt/dr/detalhe/portaria/733-1997-193418), publicado em 1997-08-25.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 733/97](https://diariodarepublica.pt/dr/detalhe/portaria/733-1997-193418), publicado em 1997-08-25.
 
 2.º Pelo presente diploma é concessionada, até 23 de Junho de 2004, ao Clube Amadores de Caça de Pé da Serra (registo no Instituto Florestal n.º 4.734.90), com sede em Pé da Serra, Nisa, a zona de caça associativa de Pé da Serra (processo n.º 899 do Instituto Florestal).
 

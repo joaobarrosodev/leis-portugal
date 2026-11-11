@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-08-13'
+version_history:
+  file: portaria-319-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-03-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-13'
+    amending: pt:dre:145207:por
+    amending_title: Portaria n.º 673/2002; Portaria n.º 747/2003
+    changes:
+    - Altera Artigo unidades 53-53
+    - Altera Artigo unidades 63-63
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/319/2002/03/23/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:40:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 673/2002; Portaria n.º
+    747/2003. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-319-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -247,7 +263,9 @@ QUADRO N.º 1
 
 1.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28072809.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28072809.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28072809.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28072809.pdf)
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/182b00/47454745.pdf)
+
+> Alterado pelo/a [Portaria n.º 747/2003](https://diariodarepublica.pt/dr/detalhe/portaria/747-2003-647120), publicado em 2003-08-08.
 
 QUADRO N.º 2
 
@@ -267,4 +285,6 @@ QUADRO N.º 4
 
 1.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28072809.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28072809.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28072809.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28072809.pdf)
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/138b00/48724873.pdf)
+
+> Alterado pelo/a [Portaria n.º 673/2002](https://diariodarepublica.pt/dr/detalhe/portaria/673-2002-145207), publicado em 2002-06-18.

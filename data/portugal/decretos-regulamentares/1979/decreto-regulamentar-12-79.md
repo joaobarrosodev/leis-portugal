@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-12-22'
+version_history:
+  file: decreto-regulamentar-12-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-04-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-12-22'
+    amending: pt:dre:365890:por
+    amending_title: Decreto-Lei n.º 500/79
+    changes:
+    - Altera Artigo 63.º
+    - Altera Artigo 109.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:59:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 500/79. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1979/decreto-regulamentar-12-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1243,7 +1259,7 @@ Os cargos de chefes de secção dos Tribunais das Contribuições e Impostos de 
 
 2 - Os chefes dos serviços de administração interna das direcções distritais de finanças são nomeados, mediante provas de selecção de entre os chefes de secção, sendo as nomeações efectuadas segundo a graduação estabelecida com base nos n.os 1 a 3 do artigo 70.º
 
-###### Artigo 63.º — (Nomeação do pessoal dirigente dos serviços locais)
+###### Artigo 63.º — Nomeação do pessoal dirigente dos serviços locais
 
 1 - A nomeação do pessoal dirigente dos serviços locais é feita nos seguintes termos:
 
@@ -1251,7 +1267,7 @@ a) Os chefes de repartição de finanças de 1.ª classe, mediante concurso docu
 
 b) Os chefes de repartição de finanças de 2.ª classe e os adjuntos dos chefes de repartição de finanças de 1.ª classe, mediante provas de selecção de entre funcionários pertencentes ao grupo do pessoal técnico de administração fiscal com a categoria de técnico tributário de 1.ª classe ou equivalente, sendo as nomeações efectuadas segundo a graduação estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º;
 
-c) Os chefes de repartição de finanças de 3.ª classe e os adjuntos dos chefes de repartição de finanças de 2.ª classe, mediante concurso documental de entre funcionários pertencentes ao grupo do pessoal técnico de administração fiscal com a categoria de técnico tributário de 2.ª classe ou equivalente ou de entre liquidadores tributários de 1.ª classe com, pelo menos, dois anos de serviço na categoria e aprovação no curso II indicado no mapa II anexo ao presente decreto, sendo as nomeações efectuadas segundo a graduação estabelecida com base no disposto nos n.os 1 e 3 do artigo 70.º
+c) Os chefes de repartição de finanças de 3.ª classe e os adjuntos dos chefes de repartição de finanças de 2.ª classe, mediante concurso documental de entre funcionários pertencentes ao grupo do pessoal técnico de administração fiscal com a categoria de técnico tributário de 1.ª ou 2.ª classes ou equivalente e ainda de entre liquidadores tributários de 1.ª classe com, pelo menos, dois anos de serviço na categoria e aprovados no curso II indicado no mapa II anexo ao presente decreto, sendo as nomeações efectuadas segundo a graduação estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º
 
 2 - Os liquidadores tributários de 1.ª classe nomeados directamente para os cargos de chefes de repartição de finanças de 3.ª classe ou de adjuntos de chefes de repartição de finanças de 2.ª classe, nos termos da alínea e) do número anterior, adquirem, para todos os efeitos, no quadro geral do pessoal da Direcção-Geral, a categoria de técnico tributário de 2.ª classe.
 
@@ -1260,6 +1276,8 @@ c) Os chefes de repartição de finanças de 3.ª classe e os adjuntos dos chefe
 4 - Os chefes de repartição de finanças de 2.ª classe e os adjuntos dos chefes de repartição de finanças de 1.ª classe que puderem ser nomeados para lugares de perito tributário de 2.ª classe, nos termos da alínea e) do artigo 36.º deste decreto, poderão permanecer no exercício daqueles cargos sem prejuízo da referida nomeação, mas só até serem providos na categoria de perito tributário de 1.ª classe e desde que não tenham informação de serviço inferior a 12 ou a Suficiente.
 
 5 - Nas nomeações para os cargos mencionados nas alíneas a), b) e c) do n.º 1 do presente artigo será dada preferência, em igualdade de circunstâncias, aos candidatos que tenham exercido, isolada ou cumulativamente, durante pelo menos três anos, funções de chefe ou de adjunto do chefe de repartição de finanças.
+
+> Alterado pelo/a [Decreto-Lei n.º 500/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1979-365890), publicado em 1979-12-22.
 
 #### SECÇÃO IV — Provas de selecção
 
@@ -1689,7 +1707,7 @@ O prémio de cobrança será distribuído por duodécimos até ao valor do limit
 
 2 - Os restantes aspirantes de finanças transitam para a categoria de liquidador tributário de 2.ª classe.
 
-###### Artigo 109.º — (Secretários de finanças de 3.ª classe)
+###### Artigo 109.º — Secretários de finanças de 3.ª classe
 
 1 - Os secretários de finanças de 3.ª classe que possuam, pelo menos, três anos de serviço na categoria e informação de serviço não inferior a 12 ou a Suficiente no último ano transitam para a categoria de técnico tributário de 1.ª classe.
 
@@ -1698,6 +1716,10 @@ O prémio de cobrança será distribuído por duodécimos até ao valor do limit
 3 - Os secretários de finanças de 3.ª classe que à data da entrada em vigor do presente decreto estejam colocados em lugares de chefe de repartição de finanças de 3.ª classe mantêm-se no desempenho do actual cargo e os que exerçam funções de subchefe nas repartições de finanças de 2.ª classe passarão a desempenhar o cargo de adjunto de chefe de repartição de finanças de 2.ª classe.
 
 4 - Os secretários de finanças de 3.ª classe aprovados em concurso para a categoria de técnico verificador de 3.ª classe podem solicitar colocação em lugares vagos de técnico verificador auxiliar, dentro do prazo de validade do respectivo concurso, nas categorias de 2.ª ou 1.ª classes, conforme tenham menos de três ou três ou mais anos na categoria de secretário de finanças de 3.ª classe.
+
+5 - Os funcionários que transitam para as categorias mencionadas nos n.os 1 e 2 deste artigo poderão ser nomeados, no prazo de três anos a contar da data da publicação das listas classificativas correspondentes ao respectivo concurso para secretário de finanças de 3.ª classe, para lugares vagos de técnico verificador auxiliar, de 2.ª ou 1.ª classes, conforme tenham menos de três ou três ou mais anos conjuntamente nas categorias de secretário de finanças de 3.ª classe e de técnico tributário.
+
+> Alterado pelo/a [Decreto-Lei n.º 500/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1979-365890), publicado em 1979-12-22.
 
 ###### Artigo 110.º — (Secretário de finanças de 2.ª classe)
 

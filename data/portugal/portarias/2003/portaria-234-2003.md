@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-09-15'
+version_history:
+  file: portaria-234-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-03-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-09-15'
+    amending: pt:dre:142347:por
+    amending_title: Portaria n.º 810/2005
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/234/2003/03/17/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:48:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 810/2005. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-234-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,7 +177,9 @@ Manda o Governo, pela Ministra da Justiça, o seguinte:
 
 3.º Mediante autorização da Direcção-Geral da Administração da Justiça, o requerimento de injunção pode ser apresentado através de ficheiro informático, em formato e suporte definidos pela mesma.
 
-4.º Quando o requerimento de injunção for apresentado nos termos do número anterior, o pagamento da taxa de justiça pode ser efectuado através de depósito em conta.
+4.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 810/2005](https://diariodarepublica.pt/dr/detalhe/portaria/810-2005-142347), publicado em 2005-09-09.
 
 5.º A autorização referida no n.º 3.º pode ser limitada a determinadas secretarias judiciais, produzindo efeitos a partir da data em que é concedida.
 

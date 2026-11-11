@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:621930:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-12-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fe2ed4c2b521a8cd"
+   ]
+  },
+  {
+   "date": "1987-01-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:663493:por",
+     "title": "Resolução do Conselho de Ministros n.º 3/87",
+     "published": "1987-01-15",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/3-1987-663493"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-10"
+   ],
+   "fragments": [
+    "4cc37e043331acac"
+   ]
+  }
+ ],
+ "fragments": {
+  "fe2ed4c2b521a8cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Programa de Financiamento a Arrendatários Rurais - PAR, adiante designado por «Programa», criado pela [Resolução n.º 159/80](https://diariodarepublica.pt/dr/detalhe/resolucao/159-1980-475334), de 15 de Abril, insere-se no quadro actual da política agrícola do Governo em domínios de actuação relevante, tais como:\n\nAcesso à terra de rendeiros e, bem assim, de novos agricultores, especialmente jovens, contribuindo deste modo para o estabelecimento de maior número de agricultores empresários e, ainda, para o rejuvenescimento e modernização do empresariado agrícola;\n\nApoio à reestruturação fundiária nas zonas do minifúndio, através da concentração de parcelas e do alargamento da área de cada unidade de exploração, visando aumentos de produtividade e adequada dimensão em termos de viabilidade económica;\n\nPreservação da unidade das explorações existentes, especialmente as familiares, quando, por virtude de herança, tal implique o pagamento de tornas a herdeiros directos.\n\nA experiência obtida na execução do Programa recomenda a introdução de alguns ajustamentos que se traduzem, essencialmente, na fixação de condições mais favoráveis de acesso e de apoio técnico e financeiro previstos nas Resoluções n.os [245/80](https://diariodarepublica.pt/dr/detalhe/resolucao/245-1980-471944) e [219/81](https://diariodarepublica.pt/dr/detalhe/resolucao/219-1981-561858), de 3 de Julho e de 7 de Outubro, respectivamente, visando, em geral, a sua dinamização.\n\nAssim, o Conselho de Ministros, reunido em 8 de Novembro de 1984, resolveu:\n\n1 - Aumentar para 10000 contos o limite máximo de financiamento estabelecido no n.º 4.9 da [Resolução n.º 245/80](https://diariodarepublica.pt/dr/detalhe/resolucao/245-1980-471944), de 3 de Julho.\n\n2 - Alargar o Programa a todas as regiões do continente, revogando, em consequência, o n.º 3 da [Resolução n.º 159/80](https://diariodarepublica.pt/dr/detalhe/resolucao/159-1980-475334), de 15 de Abril, o n.º 2.4 da [Resolução n.º 245/80](https://diariodarepublica.pt/dr/detalhe/resolucao/245-1980-471944), de 3 de Julho, e os n.os 1.2.5 e 2.2.4 da [Resolução n.º 219/81](https://diariodarepublica.pt/dr/detalhe/resolucao/219-1981-561858), de 7 de Outubro.\n\n3 - Estabelecer que o rendeiro, emparcelante ou herdeiro directo, ainda que tenha idade superior a 60 anos, poderá beneficiar do Programa quando haja um seu descendente em linha recta em condições de assegurar a continuidade da exploração e desde que tal seja reconhecido pelo Ministério da Agricultura.\n\n4 - Abranger pelo Programa as sociedades de agricultura do grupo, com prioridade para as constituídas exclusivamente por jovens agricultores, em condições a estabelecer por despacho normativo dos Ministros das Finanças e do Plano e da Agricultura.\n\n5 - Incluir as caixas de crédito agrícola mútuo no sistema das instituições financiadoras do Programa, nas mesmas condições estabelecidas para as instituições actualmente participantes.\n\n6 - Accionar o escrupuloso cumprimento, pela Comissão de Avaliação do Crédito PAR, dos prazos estabelecidos no despacho conjunto de 5 de Setembro de 1980, publicado no Diário da República, 2.ª série, n.º 211.\n\n7 - Criar um grupo de trabalho composto por representantes, a designar pelos respectivos ministros, dos Ministérios da Justiça, das Finanças e do Plano e da Agricultura, visando propor medidas que permitam simplificar e acelerar o registo dos prédios rústicos nas conservatórias do Registo Predial, constituindo-se, nomeadamente, a possibilidade de vir a ser prestado apoio directo aos interessados por parte dos serviços regionais de agricultura.\n\n8 - Anualmente, será fixado pelos Ministros das Finanças e do Plano e da Agricultura o montante global das operações de crédito a aprovar ao abrigo do Programa, tendo em atenção o valor global do crédito aprovado em anos anteriores, as disponibilidades financeiras do Estado a afectar a esta finalidade e a política de crédito prosseguida pelo Governo.\n\nPresidência do Conselho de Ministros. - O Primeiro-Ministro, Mário Soares."
+  },
+  "4cc37e043331acac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1987-01-20",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 3/87](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-1987-663493), publicado em 1987-01-15."
+   ],
+   "markdown": "O Programa de Financiamento a Arrendatários Rurais - PAR, adiante designado por «Programa», criado pela [Resolução n.º 159/80](https://diariodarepublica.pt/dr/detalhe/resolucao/159-1980-475334), de 15 de Abril, insere-se no quadro actual da política agrícola do Governo em domínios de actuação relevante, tais como:\n\nAcesso à terra de rendeiros e, bem assim, de novos agricultores, especialmente jovens, contribuindo deste modo para o estabelecimento de maior número de agricultores empresários e, ainda, para o rejuvenescimento e modernização do empresariado agrícola;\n\nApoio à reestruturação fundiária nas zonas do minifúndio, através da concentração de parcelas e do alargamento da área de cada unidade de exploração, visando aumentos de produtividade e adequada dimensão em termos de viabilidade económica;\n\nPreservação da unidade das explorações existentes, especialmente as familiares, quando, por virtude de herança, tal implique o pagamento de tornas a herdeiros directos.\n\nA experiência obtida na execução do Programa recomenda a introdução de alguns ajustamentos que se traduzem, essencialmente, na fixação de condições mais favoráveis de acesso e de apoio técnico e financeiro previstos nas Resoluções n.os [245/80](https://diariodarepublica.pt/dr/detalhe/resolucao/245-1980-471944) e [219/81](https://diariodarepublica.pt/dr/detalhe/resolucao/219-1981-561858), de 3 de Julho e de 7 de Outubro, respectivamente, visando, em geral, a sua dinamização.\n\nAssim, o Conselho de Ministros, reunido em 8 de Novembro de 1984, resolveu:\n\n1 - Aumentar para 10000 contos o limite máximo de financiamento estabelecido no n.º 4.9 da [Resolução n.º 245/80](https://diariodarepublica.pt/dr/detalhe/resolucao/245-1980-471944), de 3 de Julho.\n\n2 - Alargar o Programa a todas as regiões do continente, revogando, em consequência, o n.º 3 da [Resolução n.º 159/80](https://diariodarepublica.pt/dr/detalhe/resolucao/159-1980-475334), de 15 de Abril, o n.º 2.4 da [Resolução n.º 245/80](https://diariodarepublica.pt/dr/detalhe/resolucao/245-1980-471944), de 3 de Julho, e os n.os 1.2.5 e 2.2.4 da [Resolução n.º 219/81](https://diariodarepublica.pt/dr/detalhe/resolucao/219-1981-561858), de 7 de Outubro.\n\n3 - Estabelecer que o rendeiro, emparcelante ou herdeiro directo, ainda que tenha idade superior a 60 anos, poderá beneficiar do Programa de Financiamento a Arrendatários Rurais - PAR, quando haja um seu descendente em linha recta, ou o respectivo cônjuge, em condições de assegurar a continuidade da exploração e desde que tal seja reconhecido pelo Ministério da Agricultura.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 3/87](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-1987-663493), publicado em 1987-01-15.\n\n4 - Abranger pelo Programa as sociedades de agricultura do grupo, com prioridade para as constituídas exclusivamente por jovens agricultores, em condições a estabelecer por despacho normativo dos Ministros das Finanças e do Plano e da Agricultura.\n\n5 - Incluir as caixas de crédito agrícola mútuo no sistema das instituições financiadoras do Programa, nas mesmas condições estabelecidas para as instituições actualmente participantes.\n\n6 - Accionar o escrupuloso cumprimento, pela Comissão de Avaliação do Crédito PAR, dos prazos estabelecidos no despacho conjunto de 5 de Setembro de 1980, publicado no Diário da República, 2.ª série, n.º 211.\n\n7 - Criar um grupo de trabalho composto por representantes, a designar pelos respectivos ministros, dos Ministérios da Justiça, das Finanças e do Plano e da Agricultura, visando propor medidas que permitam simplificar e acelerar o registo dos prédios rústicos nas conservatórias do Registo Predial, constituindo-se, nomeadamente, a possibilidade de vir a ser prestado apoio directo aos interessados por parte dos serviços regionais de agricultura.\n\n8 - Anualmente, será fixado pelos Ministros das Finanças e do Plano e da Agricultura o montante global das operações de crédito a aprovar ao abrigo do Programa, tendo em atenção o valor global do crédito aprovado em anos anteriores, as disponibilidades financeiras do Estado a afectar a esta finalidade e a política de crédito prosseguida pelo Governo.\n\nPresidência do Conselho de Ministros. - O Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

@@ -1,0 +1,744 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176336:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-01-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "64c14b11cfb86ca9",
+    "6aba7700b5dfe3f0",
+    "aa5973533df5429c",
+    "ed23aae8acbad295",
+    "7fd4f65caed7ad11",
+    "6419b18d464fb568",
+    "60ae0dc077fe0a93",
+    "cebbc3a7ca8f79b2",
+    "f6cbab1e9af74bdc",
+    "e85b49305b5b9e09",
+    "2b8a767f254f5b1f",
+    "fc3fb46b9c6db9ec",
+    "bbbe8ffba6903538",
+    "70e600c706fd1f8f",
+    "23836370ae405d04",
+    "5f8f39c642dceff0",
+    "63551ea2e695afcc",
+    "42a866b122bd74a6",
+    "629d1a45f090010d",
+    "ae0960e31b5872f3",
+    "8cf66629c9a6a799",
+    "f67fea216785d44e",
+    "b685984518289570",
+    "e1d50e9f8f977aa3",
+    "ae97fcb57f63785e",
+    "c8ff3660f02a530b",
+    "e31beca30601484a",
+    "163685c42b45286e",
+    "ccdd509777a3fc42",
+    "6b9b524aae4aefdf",
+    "f8eadd58b4e70c4a",
+    "a7c04830e1a04fb5",
+    "56418d27d3657f4e",
+    "d38cd4d031020184",
+    "e777b249fd9c5d83",
+    "a5a4825662b338cd",
+    "ac117a396e9b7d7e",
+    "aac90495d894b0e1",
+    "56b629cd907aa4da",
+    "f5122e20cd2be85e",
+    "2639ec85d192e1d9",
+    "eaa9b1f50b2510c8",
+    "fda5ce128e90cbe7",
+    "9bca5b7a589e72f6",
+    "ee2103cc9891b6fd",
+    "961728558ce8dae1",
+    "c6ba80e84cfaaea8",
+    "9883ea4f62e81cc1",
+    "526823ffc9febb20",
+    "dbd3451e89303b8a",
+    "9294a2820256ab76",
+    "41ae9560c5616e48",
+    "7ced23d6b7aec95e",
+    "24b4ea34c472f83e",
+    "879b849720822c37",
+    "c6ffa3f387afef85",
+    "c51fad60f4715af4",
+    "47e4569bae96d674",
+    "ff188c006a688b12",
+    "71ef84a21d4e64fe",
+    "0d1f38495e3bacbc"
+   ]
+  },
+  {
+   "date": "2014-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:56152680:por",
+     "title": "Decreto-Lei n.º 125/2014",
+     "published": "2014-08-18",
+     "dre_path": "/dr/detalhe/decreto-lei/125-2014-56152680"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "64c14b11cfb86ca9",
+    "6aba7700b5dfe3f0",
+    "aa5973533df5429c",
+    "b58326345e900237",
+    "8bab7dd6b4bf057e",
+    "6419b18d464fb568",
+    "0531306d5d9227c0",
+    "a6dbdbd3ff5e15ac",
+    "5266baa8204fc748",
+    "e85b49305b5b9e09",
+    "b2cdaf8e1c88339e",
+    "80f5dc12d0f45837",
+    "eed6508d4e36ba85",
+    "ff5fc9389a9028c0",
+    "23836370ae405d04",
+    "5f8f39c642dceff0",
+    "63551ea2e695afcc",
+    "42a866b122bd74a6",
+    "629d1a45f090010d",
+    "ae0960e31b5872f3",
+    "8cf66629c9a6a799",
+    "f67fea216785d44e",
+    "b685984518289570",
+    "e1d50e9f8f977aa3",
+    "ae97fcb57f63785e",
+    "c8ff3660f02a530b",
+    "e31beca30601484a",
+    "163685c42b45286e",
+    "ccdd509777a3fc42",
+    "6b9b524aae4aefdf",
+    "f8eadd58b4e70c4a",
+    "a7c04830e1a04fb5",
+    "56418d27d3657f4e",
+    "d38cd4d031020184",
+    "e777b249fd9c5d83",
+    "a5a4825662b338cd",
+    "ac117a396e9b7d7e",
+    "aac90495d894b0e1",
+    "56b629cd907aa4da",
+    "f5122e20cd2be85e",
+    "2639ec85d192e1d9",
+    "eaa9b1f50b2510c8",
+    "fda5ce128e90cbe7",
+    "9bca5b7a589e72f6",
+    "ee2103cc9891b6fd",
+    "961728558ce8dae1",
+    "c6ba80e84cfaaea8",
+    "9883ea4f62e81cc1",
+    "526823ffc9febb20",
+    "dbd3451e89303b8a",
+    "9294a2820256ab76",
+    "41ae9560c5616e48",
+    "7ced23d6b7aec95e",
+    "24b4ea34c472f83e",
+    "879b849720822c37",
+    "c6ffa3f387afef85",
+    "c51fad60f4715af4",
+    "47e4569bae96d674",
+    "ff188c006a688b12",
+    "71ef84a21d4e64fe",
+    "0d1f38495e3bacbc"
+   ]
+  }
+ ],
+ "fragments": {
+  "64c14b11cfb86ca9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Janeiro\n\n1 - A competitividade internacional da economia portuguesa não depende apenas da eficácia das suas empresas, mas também da qualidade do seu enquadramento normativo e da resposta do sistema jurídico às exigências da vida económica num contexto de mercado aberto.\n\nNum tal contexto, as decisões dos operadores económicos quanto à escolha e à localização dos seus investimentos e quanto aos modos e métodos de prosseguimento das suas actividades têm cada vez mais em conta não só a qualidade das regras de concorrência em vigor, mas também, muito em particular, a eficácia com que são aplicadas pelas autoridades reguladoras e pelos tribunais competentes.\n\nEm Portugal, após 20 anos de experiência de aplicação dos diplomas que instituíram o regime nacional de promoção e defesa da concorrência (essencialmente o [Decreto-Lei n.º 422/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1983-442950), de 3 de Dezembro, o [Decreto-Lei n.º 428/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1988-267177), de 19 de Novembro, e, por último, o [Decreto-Lei n.º 371/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1993-664319), de 29 de Outubro, que procedeu à revogação dos primeiros), vem-se sentindo com especial premência a necessidade de criação de uma autoridade prestigiada e independente, que contribua, em primeira linha, para assegurar o respeito das regras de concorrência pelos operadores económicos e outras entidades e para criar em Portugal uma verdadeira cultura da concorrência.\n\n2 - O diploma que agora se publica constitui o primeiro passo para a reforma que se impõe no quadro jurídico da concorrência em Portugal, indispensável à modernização e competitividade da nossa vida económica.\n\nProcede-se assim à criação da Autoridade da Concorrência e aprovam-se os respectivos estatutos, revogando-se, em consequência, o [Decreto-Lei n.º 371/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1993-664319), de 29 de Outubro, no que respeita à estrutura institucional de aplicação da legislação de concorrência aí prevista.\n\nO presente diploma será seguido, a muito curto prazo, pela revisão dos aspectos substantivos e processuais da legislação da concorrência, vertidos igualmente no [Decreto-Lei n.º 371/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1993-664319), de 29 de Outubro, diploma cuja modernização e actualização se impõem no actual quadro comunitário e no contexto de internacionalização e de globalização crescente das economias.\n\n3 - Ao reconhecer à Autoridade o estatuto de independência compatível com a lei e a Constituição da República e ao conferir-lhe as atribuições, os poderes e os órgãos indispensáveis ao cumprimento da sua missão, o Governo pretende, antes de mais, restaurar a credibilidade das instituições responsáveis pela defesa da concorrência em Portugal e assegurar a sua plena integração no sistema comunitário e internacional de reguladores da concorrência.\n\nEm especial, a profunda evolução em curso na legislação comunitária impõe a existência de uma autoridade da concorrência que seja efectivamente capaz de promover a aplicação das normas comunitárias em vigor e de se inserir com eficácia na rede de reguladores da concorrência que, sob a égide da Comissão Europeia, se estenderá a todos os Estados membros da Comunidade.\n\n4 - O primeiro traço característico desta nova entidade é o seu carácter transversal no que respeita à missão de defesa da concorrência: a nova Autoridade terá pois a sua jurisdição alargada a todos os sectores da actividade económica.\n\nAlém disso, reunirá quer os poderes de investigação e de punição de práticas anticoncorrenciais e a instrução dos correspondentes processos, quer os de aprovação das operações de concentração de empresas sujeitas a notificação prévia, sem prejuízo, relativamente aos sectores objecto de regulação, da desejável e necessária articulação com as respectivas autoridades reguladoras sectoriais.\n\nDesta forma, por um lado, confere-se unidade orgânica às funções actualmente repartidas, em termos nem sempre claros, entre a Direcção-Geral do Comércio e da Concorrência (DGCC) e o Conselho da Concorrência, pondo-se termo a uma experiência que, com a prática, se revelou fonte de ineficiências e divergências de orientação susceptíveis de minar a credibilidade da política de concorrência em Portugal.\n\nPor outro lado, acentua-se, sem prejuízo da criação de vias de recurso extraordinárias, a desgovernamentalização do processo de apreciação prévia das operações de concentração.\n\nFinalmente, sublinha-se o estatuto de independência que, pelo presente diploma, é conferido à Autoridade, seja pela sua qualificação como pessoa colectiva de direito público de carácter institucional, seja pela atribuição de autonomia patrimonial e financeira, seja ainda pelos requisitos de nomeação, duração do mandato e regime de incompatibilidades e impedimentos dos membros do seu órgão directivo.\n\n5 - São igualmente de realçar as alterações introduzidas no actual regime dos recursos das decisões em matéria de concorrência, as quais passam a ser impugnáveis junto do Tribunal de Comércio de Lisboa, independentemente de serem proferidas em sede de processos de contra-ordenação ou de procedimentos administrativos, evitando-se assim, no contexto de uma indispensável e progressiva especialização dos nossos tribunais, que decisões sobre matérias da mesma natureza sejam apreciadas ora por tribunais judiciais, ora por tribunais administrativos.\n\nÉ ainda de referir, relativamente ao sistema de controlo prévio das concentrações, a possibilidade, inovadora e inspirada no regime alemão, de os autores da notificação interporem, para o ministro responsável pela área da economia, com fundamento no interesse geral para a economia nacional, um recurso extraordinário das decisões da Autoridade que proíbam operações de concentração de empresas.\n\n6 - Finalmente, em sede de disposições finais e transitórias, registe-se a preocupação de regular com o maior cuidado os problemas suscitados pela transferência de competências dos actuais organismos responsáveis pela aplicação da política de concorrência - Direcção-Geral do Comércio e da Concorrência e Conselho da Concorrência - para a nova Autoridade, no período que medeia entre a sua criação e o momento em que a Autoridade será considerada como estando em condições de exercer a plenitude das suas atribuições.\n\nDefine-se igualmente um regime transitório para alguns aspectos processuais e de competência jurisdicional, na medida necessária a evitar situações de vazio legal enquanto não se procede à revisão dos aspectos substantivos e processuais da legislação de concorrência contidos no [Decreto-Lei n.º 371/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1993-664319), de 29 de Outubro. É assim que, entre outros aspectos, se prevê que, transitoriamente, a fiscalização das decisões em matéria de controlo prévio das concentrações continue a ser assegurada pelos tribunais administrativos, mas de acordo com as regras gerais do contencioso administrativo.\n\n7 - Está o Governo plenamente consciente de que a criação da Autoridade da Concorrência, juntamente com a modernização e aperfeiçoamento da legislação de defesa e promoção da concorrência, abre uma nova era no quadro legal de funcionamento da economia portuguesa, assegurando a sua plena inserção nos sistemas mais evoluídos e permitindo aos agentes económicos dispor de um ordenamento concorrencial seguro e moderno, capaz de promover o funcionamento eficiente dos mercados, a repartição eficaz dos recursos nacionais e, sobretudo, a satisfação dos interesses dos consumidores.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela [Lei n.º 24/2002](https://diariodarepublica.pt/dr/detalhe/lei/24-2002-425934), de 31 de Outubro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "6aba7700b5dfe3f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I"
+  },
+  "aa5973533df5429c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nObjecto\n\nÉ criada a Autoridade da Concorrência, adiante designada por Autoridade, à qual caberá assegurar o respeito pelas regras de concorrência, tendo em vista o funcionamento eficiente dos mercados, a repartição eficaz dos recursos e os interesses dos consumidores."
+  },
+  "ed23aae8acbad295": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Natureza e regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza e regime jurídico\n\nA Autoridade é uma pessoa colectiva de direito público, de natureza institucional, dotada de órgãos, serviços, pessoal e património próprios e de autonomia administrativa e financeira, sendo o seu regime jurídico definido nos Estatutos anexos ao presente diploma."
+  },
+  "7fd4f65caed7ad11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estatutos da Autoridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estatutos da Autoridade\n\nSão aprovados os Estatutos da Autoridade, os quais constam de anexo ao presente diploma, de que fazem parte integrante."
+  },
+  "6419b18d464fb568": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Disposições finais e transitórias"
+  },
+  "60ae0dc077fe0a93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Período de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Período de instalação\n\n1 - A Autoridade é considerada como estando em condições de desempenhar a plenitude das suas atribuições no prazo de 60 dias contados a partir da data da entrada em vigor do presente decreto-lei.\n\n2 - Os membros do conselho da Autoridade devem ser nomeados no prazo máximo de 30 dias contados a partir da data da entrada em vigor do presente diploma.\n\n3 - Compete aos membros do conselho da Autoridade, no decurso do prazo referido no n.º 1 deste artigo, praticar os actos necessários à assunção, pela Autoridade, da plenitude das suas atribuições, designadamente aprovar os regulamentos internos a que se referem os artigos 26.º e 27.º dos Estatutos e contratar o pessoal indispensável ao início das suas actividades.\n\n4 - Os encargos decorrentes do funcionamento da Autoridade, até ao termo do prazo referido no n.º 1 deste artigo, são suportados pelo orçamento do Ministério da Economia, podendo, para o efeito, ser movimentadas verbas dos capítulos I e II do referido orçamento.\n\n5 - A Secretaria-Geral do Ministério da Economia assegurará as instalações, equipamentos e outros meios necessários à actividade da Autoridade, durante o período referido no n.º 1 do presente artigo."
+  },
+  "cebbc3a7ca8f79b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conselho da Concorrência e Direcção-Geral do Comércio e da Concorrência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho da Concorrência e Direcção-Geral do Comércio e da Concorrência\n\n1 - No termo do prazo referido no n.º 1 do artigo anterior:\n\na) É extinto o Conselho da Concorrência;\n\nb) A Autoridade passa a exercer as competências conferidas à Direcção-Geral do Comércio e da Concorrência pelo [Decreto-Lei n.º 370/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1993-664318), de 29 de Outubro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 140/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), de 16 de Maio, sem prejuízo do disposto no número seguinte.\n\n2 - A Direcção-Geral do Comércio e da Concorrência continua a exercer, até à publicação de novo diploma orgânico, as competências que lhe estão legalmente conferidas que não colidam com as atribuições cometidas à Autoridade pelo presente diploma."
+  },
+  "f6cbab1e9af74bdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Articulação com autoridades reguladoras sectoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Articulação com autoridades reguladoras sectoriais\n\n1 - As atribuições cometidas à Autoridade pelos Estatutos anexos ao presente diploma são por aquela desempenhadas sem prejuízo do respeito pelo quadro normativo aplicável às entidades reguladoras sectoriais.\n\n2 - A lei definirá os modos de intervenção ou participação da Autoridade em questões ou processos relativos a domínios submetidos a regulação sectorial, na medida necessária à salvaguarda dos objectivos prosseguidos pela legislação de concorrência.\n\n3 - A lei definirá, igualmente, as obrigações das autoridades reguladoras sectoriais relativamente às práticas restritivas da concorrência de que tenham conhecimento no desempenho das suas atribuições, bem como à colaboração com a Autoridade em matérias sujeitas a regulação sectorial.\n\n4 - Para efeitos do disposto neste artigo, constituem entidades reguladoras sectoriais, entre outras, as seguintes:\n\na) Banco de Portugal (BP);\n\nb) Instituto de Seguros de Portugal (ISP);\n\nc) Comissão do Mercado de Valores Mobiliários (CMVM);\n\nd) Entidade Reguladora dos Serviços Energéticos (ERSE);\n\ne) ICP - Autoridade Nacional de Comunicações (ICP - ANACOM);\n\nf) Instituto Regulador das Águas e Resíduos (IRAR);\n\ng) Instituto Nacional do Transporte Ferroviário (INTF);\n\nh) Instituto Nacional de Aviação Civil (INAC);\n\ni) Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário (IMOPPI)."
+  },
+  "e85b49305b5b9e09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Referências legais\n\nAs referências, contidas em preceitos legais não revogados pelo presente diploma, ao Conselho da Concorrência e à Direcção-Geral do Comércio e da Concorrência, neste último caso apenas quando estejam em causa aspectos relacionados com as atribuições deste serviço em matéria de concorrência, consideram-se feitas à Autoridade, a partir do termo do prazo referido no n.º 1 do artigo 4.º do presente diploma."
+  },
+  "2b8a767f254f5b1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Transmissão de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Transmissão de processos\n\n1 - Os processos que se encontrem pendentes na Direcção-Geral do Comércio e da Concorrência e no Conselho da Concorrência no 30.º dia anterior ao termo do prazo referido no n.º 1 do artigo 4.º do presente diploma são, nessa data, remetidos oficiosamente à Autoridade.\n\n2 - Nos casos a que se refere o número anterior, os prazos procedimentais, processuais ou substantivos consideram-se automaticamente suspensos, na primeira data ali referida, reiniciando-se a sua contagem no 30.º dia posterior ao termo do prazo referido no n.º 1 do artigo 4.º deste diploma, sem prejuízo do disposto no número seguinte\n\n3 - Os prazos procedimentais em procedimentos de autorização prévia de operações de concentração de empresas abrangidos pelo disposto no n.º 1 do presente artigo interrompem-se no 30.º dia anterior ao termo do prazo referido no n.º 1 do artigo 4.º do presente diploma, iniciando-se nova contagem no dia seguinte ao termo do referido prazo.\n\n4 - Nos casos abrangidos pelo disposto no número anterior, o prazo máximo de decisão do Conselho é, sob pena de deferimento tácito, de 30 ou 60 dias, consoante estejam em causa processos que se encontravam pendentes, na data referida no n.º 1 do presente artigo, respectivamente, no Conselho da Concorrência ou na Direcção-Geral do Comércio e da Concorrência.\n\n5 - As notificações, denúncias, comunicações e demais documentos recebidos na Direcção-Geral do Comércio e da Concorrência ou no Conselho da Concorrência posteriormente ao 30.º dia anterior ao termo do prazo referido no n.º 1 do artigo 4.º deste diploma são imediatamente remetidos à Autoridade, iniciando-se, nestes casos, o cômputo dos prazos procedimentais, processuais ou substantivos a que houver lugar no dia seguinte ao termo do prazo referido no citado preceito legal."
+  },
+  "fc3fb46b9c6db9ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Operações de concentração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Operações de concentração\n\nAté à publicação de diploma que estabeleça novas regras procedimentais em matéria de procedimentos de autorização prévia de operações de concentração de empresas, o n.º 1 do artigo 31.º do [Decreto-Lei n.º 371/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1993-664319), de 29 de Outubro, passa a ter a seguinte redacção:\n\n«A Autoridade decide no prazo máximo de 60 dias, contado a partir da data da recepção da notificação, valendo a ausência de decisão no referido prazo como não oposição à operação de concentração.»"
+  },
+  "bbbe8ffba6903538": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Recursos\n\nAté à entrada em vigor de diploma que estabeleça o regime processual dos recursos a que refere o n.º 2 do artigo 38.º dos Estatutos anexos a este diploma, as decisões aí previstas são impugnáveis junto dos tribunais administrativos, de acordo com as regras gerais aplicáveis ao contencioso administrativo."
+  },
+  "70e600c706fd1f8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nNo termo do prazo referido no n.º 1 do artigo 4.º, são revogados:\n\na) Os artigos 12.º a 20.º, 27.º, 28.º, 32.º, 33.º, 34.º, n.os 1 e 2, 35.º e 39.º, todos do [Decreto-Lei n.º 371/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1993-664319), de 29 de Outubro, na redacção que lhe foi dada pela [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de Janeiro;\n\nb) O n.º 3 do artigo 5.º, o artigo 6.º, na parte respeitante à competência para instrução de processos, e o artigo 7.º, todos do [Decreto-Lei n.º 370/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1993-664318), de 29 de Outubro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 140/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1998-521596), de 16 de Maio;\n\nc) A alínea a) do artigo 9.º e o artigo 33.º do [Decreto-Lei n.º 222/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846), de 25 de Novembro.\n\nVisto e aprovado em Conselho de Ministros de 20 de Novembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.\n\nPromulgado em 8 de Janeiro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Janeiro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\nESTATUTOS DA AUTORIDADE DA CONCORRÊNCIA"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "5f8f39c642dceff0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza e finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e finalidade\n\n1 - A Autoridade da Concorrência, adiante designada por Autoridade, é uma pessoa colectiva de direito público, de natureza institucional, dotada de património próprio e de autonomia administrativa e financeira.\n\n2 - A Autoridade tem por missão assegurar a aplicação das regras de concorrência em Portugal, no respeito pelo princípio da economia de mercado e de livre concorrência, tendo em vista o funcionamento eficiente dos mercados, a repartição eficaz dos recursos e os interesses dos consumidores, nos termos previstos na lei e nos presentes Estatutos."
+  },
+  "63551ea2e695afcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime jurídico\n\nA Autoridade rege-se pelos presentes Estatutos, pelas disposições legais que lhe sejam especificamente aplicáveis e, supletivamente, pelo regime aplicável aos fundos e serviços autónomos."
+  },
+  "42a866b122bd74a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede\n\nA Autoridade tem sede em Lisboa."
+  },
+  "629d1a45f090010d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Independência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Independência\n\nA Autoridade é independente no desempenho das suas atribuições, no quadro da lei, sem prejuízo dos princípios orientadores de política da concorrência fixados pelo Governo, nos termos constitucionais e legais, e dos actos sujeitos a tutela ministerial, nos termos previstos na lei e nos presentes Estatutos."
+  },
+  "ae0960e31b5872f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Capacidade\n\n1 - A capacidade jurídica da Autoridade abrange os direitos e obrigações necessários à prossecução das suas atribuições.\n\n2 - A Autoridade goza de capacidade judiciária activa e passiva."
+  },
+  "8cf66629c9a6a799": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atribuições\n\n1 - Para garantia da realização das finalidades previstas no artigo 1.º dos presentes Estatutos, incumbe à Autoridade:\n\na) Velar pelo cumprimento das leis, regulamentos e decisões destinados a promover a defesa da concorrência;\n\nb) Fomentar a adopção de práticas que promovam a concorrência e a generalização de uma cultura de concorrência junto dos agentes económicos e do público em geral;\n\nc) Difundir, em especial junto dos agentes económicos, as orientações consideradas relevantes para a política da concorrência;\n\nd) Acompanhar a actividade das autoridades de defesa da concorrência em outros países e estabelecer, com elas e com os organismos comunitários e internacionais competentes relações de cooperação;\n\ne) Promover a investigação em matéria de defesa da concorrência, desenvolvendo as iniciativas e estabelecendo os protocolos de associação ou de cooperação com entidades públicas ou privadas que se revelarem adequados para esse efeito;\n\nf) Contribuir para o aperfeiçoamento do sistema normativo português em todos os domínios que possam afectar a livre concorrência, por sua iniciativa ou a pedido do Governo;\n\ng) Exercer todas as competências que o direito comunitário confira às autoridades administrativas nacionais no domínio das regras de concorrência aplicáveis às empresas;\n\nh) Assegurar a representação técnica do Estado Português nos organismos comunitários ou internacionais em matéria de política de concorrência;\n\ni) Exercer as demais atribuições que lhe sejam legalmente cometidas.\n\n2 - O ministro responsável pela área da economia pode solicitar à Autoridade da Concorrência a elaboração de estudos e análises relativos a práticas ou métodos de concorrência que possam afectar o fornecimento e distribuição de bens ou serviços ou a qualquer outra matéria relacionada com a concorrência.\n\n3 - Os estudos e análises mencionados no número anterior serão objecto de relatório a enviar ao ministro responsável pela área da economia."
+  },
+  "f67fea216785d44e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Poderes\n\n1 - Para o desempenho das suas atribuições, a Autoridade dispõe de poderes sancionatórios, de supervisão e de regulamentação.\n\n2 - No exercício dos seus poderes sancionatórios, cumpre à Autoridade:\n\na) Identificar e investigar as práticas susceptíveis de infringir a legislação de concorrência nacional e comunitária, proceder à instrução e decidir sobre os respectivos processos, aplicando, se for caso disso, as sanções previstas na lei;\n\nb) Adoptar medidas cautelares, quando necessário.\n\n3 - No exercício dos seus poderes de supervisão, compete à Autoridade:\n\na) Proceder à realização de estudos, inquéritos, inspecções ou auditorias que, em matéria de concorrência, se revelem necessários;\n\nb) Instruir e decidir procedimentos administrativos relativos à compatibilidade de acordos ou categorias de acordos entre empresas com as regras de concorrência;\n\nc) Instruir e decidir procedimentos administrativos respeitantes a operações de concentração de empresas sujeitas a notificação prévia.\n\n4 - No exercício dos seus poderes de regulamentação, pode a Autoridade:\n\na) Aprovar ou propor a aprovação de regulamentos, nos termos legalmente previstos;\n\nb) Emitir recomendações e directivas genéricas;\n\nc) Propor e homologar códigos de conduta e manuais de boas práticas de empresas ou associações de empresas."
+  },
+  "b685984518289570": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Obrigações das empresas quanto à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações das empresas quanto à informação\n\nAs empresas, associações de empresas ou quaisquer outras pessoas ou entidades devem prestar à Autoridade todas as informações e fornecer todos documentos que esta lhes solicite em ordem ao cabal desempenho das suas atribuições."
+  },
+  "e1d50e9f8f977aa3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Cooperação de autoridades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cooperação de autoridades públicas\n\nAs autoridades e serviços públicos integrantes da administração directa, indirecta ou autónoma do Estado colaborarão com a Autoridade em tudo o que for necessário ao cabal desempenho das atribuições desta."
+  },
+  "ae97fcb57f63785e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Organização"
+  },
+  "c8ff3660f02a530b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I"
+  },
+  "e31beca30601484a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nÓrgãos\n\nSão órgãos da Autoridade:\n\na) O conselho;\n\nb) O fiscal único."
+  },
+  "163685c42b45286e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho"
+  },
+  "ccdd509777a3fc42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conselho\n\nO conselho é o órgão máximo da Autoridade, responsável pela aplicação da legislação de promoção e defesa da concorrência, bem como pela direcção dos respectivos serviços, nos termos definidos nos presentes Estatutos."
+  },
+  "6b9b524aae4aefdf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Composição e nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição e nomeação\n\n1 - O conselho é composto por um presidente e dois ou quatro vogais, devendo, neste último caso, ser designado, de entre estes, um vice-presidente.\n\n2 - Os membros do conselho são nomeados por resolução do Conselho de Ministros, sob proposta do ministro responsável pela área da economia, ouvidos os ministros responsáveis pelas áreas das finanças e da justiça, de entre pessoas de reconhecida competência, com experiência em domínios relevantes para o desempenho das atribuições cometidas à Autoridade.\n\n3 - Não pode haver nomeação de membros do conselho depois da demissão do Governo ou da convocação de eleições para a Assembleia da República nem antes da confirmação parlamentar do Governo recém-nomeado."
+  },
+  "f8eadd58b4e70c4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Duração do mandato\n\n1 - O mandato dos membros do conselho tem a duração de cinco anos, renovável uma vez nos termos do número seguinte.\n\n2 - Na primeira nomeação do conselho, ou após dissolução, os membros serão divididos em dois grupos, sendo um deles nomeado por três anos, renováveis por mais cinco, e os demais nomeados por cinco anos.\n\n3 - Em caso de vaga, os novos membros são designados por um novo mandato de cinco anos."
+  },
+  "a7c04830e1a04fb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Incompatibilidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Incompatibilidades e impedimentos\n\n1 - Durante o seu mandato, os membros do conselho não podem:\n\na) Desempenhar quaisquer outras funções públicas ou privadas, ainda que não remuneradas, com excepção das funções docentes no ensino superior em regime de tempo parcial;\n\nb) Participar em deliberações do conselho relativas a empresas em que detenham interesses significativos, tal como definidas no artigo 8.º da [Lei n.º 64/93](https://diariodarepublica.pt/dr/detalhe/lei/64-1993-632407), de 26 de Agosto, na redacção que lhe foi dada pela [Lei n.º 28/95](https://diariodarepublica.pt/dr/detalhe/lei/28-1995-434626), de 18 de Agosto, ou com as quais tenham mantido relações profissionais de qualquer tipo, nos últimos dois anos.\n\n2 - Os membros do conselho estão sujeitos às demais incompatibilidades e impedimentos dos titulares de altos cargos públicos, em geral, e do pessoal dirigente dos institutos públicos, em especial, bem como aos deveres de discrição e reserva exigidos pela natureza das suas funções, quer durante quer após o termo dos seus mandatos.\n\n3 - Nos dois anos seguintes à cessação do seu mandato, os membros do conselho não podem estabelecer qualquer vínculo ou entrar em qualquer relação profissional, remunerada ou não, com entidades que durante esse período tenham participado em operações de concentração de empresas sujeitas a jurisdição da Autoridade ou que tenham sido objecto de processos de contra-ordenação pela adopção de comportamentos restritivos da concorrência."
+  },
+  "56418d27d3657f4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Cessação do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Cessação do mandato\n\n1 - Os membros do conselho não podem ser exonerados do cargo antes de terminar o mandato, salvo o disposto nos números seguintes.\n\n2 - O conselho só pode ser dissolvido mediante resolução do Conselho de Ministros, em caso de falta grave, de responsabilidade colectiva.\n\n3 - Constituem falta grave, para efeitos do número anterior:\n\na) O desrespeito grave ou reiterado dos Estatutos ou das normas por que se rege a Autoridade;\n\nb) O incumprimento substancial e injustificado do plano de actividades ou do orçamento.\n\n4 - O mandato dos membros do conselho cessa também colectivamente com a extinção da Autoridade ou com a sua fusão com outro organismo.\n\n5 - Os mandatos individuais podem cessar:\n\na) Por incapacidade permanente;\n\nb) Por renúncia;\n\nc) Por incompatibilidade;\n\nd) Por condenação por crime doloso ou em pena de prisão;\n\ne) Por falta grave, nos termos do n.º 3.\n\n6 - No caso de cessação do mandato, os membros do conselho mantêm-se no exercício de funções até à sua efectiva substituição, salvo declaração ministerial de cessação de funções."
+  },
+  "d38cd4d031020184": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Estatuto remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Estatuto remuneratório\n\n1 - Os membros do conselho estão sujeitos, para efeitos remuneratórios, ao estatuto do gestor público, sendo a sua remuneração fixada em despacho conjunto dos ministros responsáveis pelas áreas das finanças, economia e administração pública.\n\n2 - É aplicável aos membros do conselho o regime geral da segurança social, salvo quando pertencerem aos quadros da função pública, caso em que lhes será aplicável o regime próprio do seu lugar de origem.\n\n3 - Nos dois anos seguintes à cessação do seu mandato, os antigos membros do conselho têm direito a um subsídio equivalente a dois terços da respectiva remuneração, cessando esse abono a partir do momento em que estes sejam contratados ou nomeados para o desempenho, remunerado, de qualquer função ou serviço público ou privado.\n\n4 - O subsídio a que se refere o número anterior não é acumulável com indemnizações a que haja lugar por força da cessação de funções nos termos do n.º 4 do artigo 15.º, podendo, neste caso, os membros do conselho optar entre o subsídio e a indemnização."
+  },
+  "e777b249fd9c5d83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competências do conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências do conselho\n\n1 - Compete ao conselho:\n\na) Ordenar a abertura e decidir os processos relativos às práticas restritivas da concorrência, aplicando as coimas previstas na lei e adoptando as medidas cautelares que se revelarem necessárias, no quadro da legislação nacional ou comunitária;\n\nb) Tomar as decisões que por lei são atribuídas à Autoridade relativamente às operações de concentração de empresas sujeitas a notificação prévia;\n\nc) Decidir procedimentos administrativos relativos à compatibilidade de acordos ou categorias de acordos entre empresas com as regras de concorrência;\n\nd) Ordenar a realização de investigações, inquéritos, inspecções ou auditorias;\n\ne) Pronunciar-se, nos termos previstos na lei, relativamente a auxílios públicos susceptíveis de afectar a concorrência;\n\nf) Pronunciar-se, por sua iniciativa ou a pedido do Governo, sobre quaisquer questões ou normas que possam pôr em causa a liberdade de concorrência;\n\ng) Propor ao Governo quaisquer alterações legislativas ou regulamentares que contribuam para o aperfeiçoamento do regime jurídico de defesa da concorrência;\n\nh) Aprovar regulamentos, sempre que tal competência se encontre legalmente atribuída à Autoridade, incluindo a definição das taxas a que se refere o artigo 31.º dos presentes Estatutos;\n\ni) Adoptar e dirigir às empresas e agentes económicos as recomendações e directrizes que se mostrem necessárias à boa aplicação das regras de concorrência e ao desenvolvimento de uma cultura favorável à liberdade de concorrência.\n\n2 - Compete ao conselho, no que respeita ao funcionamento da Autoridade:\n\na) Definir a orientação geral dos serviços da Autoridade e acompanhar a sua execução, sem prejuízo do disposto no n.º 2 do artigo 20.º;\n\nb) Decidir sobre a contratação de pessoal e exercer os poderes de direcção, gestão e disciplina do mesmo;\n\nc) Aprovar os regulamentos internos relativos à organização e funcionamento dos órgãos e serviços da Autoridade, bem como praticar os demais actos de gestão necessários ao bom funcionamento dos mesmos;\n\nd) Constituir mandatários e designar representantes da Autoridade junto de outras entidades, nacionais ou estrangeiras;\n\ne) Administrar o património da Autoridade, arrecadar as receitas e autorizar a realização das despesas;\n\nf) Proceder à aquisição de bens e à contratação de serviços necessários ao exercício das funções da Autoridade;\n\ng) Elaborar os planos de actividades e os orçamentos, bem como os relatórios de actividades e contas da Autoridade.\n\n3 - Compete ainda ao conselho praticar todos os demais actos necessários à realização das atribuições cometidas à Autoridade para que não seja competente outro órgão."
+  },
+  "a5a4825662b338cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Delegação de poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Delegação de poderes\n\n1 - O conselho pode delegar, por acta, poderes em um ou mais dos seus membros, no que respeita à direcção dos serviços da Autoridade, e autorizar a que se proceda à subdelegação desses poderes, estabelecendo em cada caso os respectivos limites e condições.\n\n2 - Sem prejuízo da inclusão de outros poderes, a atribuição de um pelouro a um membro do conselho implica a delegação das competências necessárias para dirigir e fiscalizar os serviços respectivos e para praticar os actos de gestão corrente das unidades organizacionais envolvidas."
+  },
+  "ac117a396e9b7d7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Funcionamento\n\n1 - O conselho reúne ordinariamente com a periodicidade que o seu regulamento interno fixar e extraordinariamente sempre que for convocado pelo seu presidente ou a pedido de, pelo menos, dois dos seus membros.\n\n2 - Os directores dos serviços da Autoridade, bem como outros funcionários da mesma, podem ser chamados a participar nas reuniões do conselho, sem direito a voto.\n\n3 - As deliberações são tomadas por maioria dos votos dos membros presentes, não sendo admitidas abstenções.\n\n4 - Das reuniões do conselho são lavradas actas, as quais serão assinadas pelos membros presentes."
+  },
+  "aac90495d894b0e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Competência do presidente do conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competência do presidente do conselho\n\n1 - Compete ao presidente do conselho:\n\na) Convocar, presidir e dirigir as reuniões do conselho;\n\nb) Assegurar as relações da Autoridade com as autoridades públicas nacionais e comunitárias, bem como com instituições internacionais e com as autoridades de concorrência de outros países;\n\nc) Assegurar a representação da Autoridade em juízo e fora dele.\n\n2 - Compete ainda ao presidente da Autoridade, sem faculdade de delegação, definir a orientação geral dos serviços em matéria de investigação e instrução de práticas anticoncorrenciais e acompanhar a respectiva execução.\n\n3 - O presidente do conselho é substituído, nas suas ausências ou impedimentos, pelo vice-presidente e, na falta deste, pelo vogal mais antigo ou, em caso de igual antiguidade, pelo vogal de mais idade.\n\n4 - Por razões de urgência, devidamente fundamentadas, o presidente do conselho, ou quem o substituir nas suas ausências e impedimentos, pode praticar quaisquer actos da competência do conselho, os quais deverão, no entanto, ser sujeitos a ratificação na primeira reunião realizada após a prática do acto."
+  },
+  "56b629cd907aa4da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Responsabilidade dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Responsabilidade dos membros\n\n1 - Os membros do conselho são solidariamente responsáveis pelos actos praticados no exercício das suas funções.\n\n2 - São isentos de responsabilidade os membros que, tendo estado presentes na reunião em que foi tomada a deliberação, tiverem manifestado o seu desacordo, em declaração registada em acta, bem como os membros ausentes que tenham declarado por escrito o seu desacordo, que igualmente será registado em acta."
+  },
+  "f5122e20cd2be85e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Vinculação\n\n1 - A Autoridade obriga-se pela assinatura:\n\na) Do presidente do conselho ou, no caso de ausência ou impedimento deste, do vice-presidente;\n\nb) De dois membros do conselho, no caso de ausência ou impedimento do presidente e do vice-presidente;\n\nc) Do membro do conselho que, para tanto, tenha recebido, em acta, delegação do conselho para a prática de acto ou actos determinados.\n\n2 - Os actos de mero expediente podem ser assinados por qualquer membro do conselho ou por funcionários da Autoridade a quem tal poder tenha sido expressamente conferido por deliberação do conselho.\n\n3 - A Autoridade obriga-se ainda pela assinatura de mandatários, no âmbito restrito dos poderes que lhes hajam sido conferidos."
+  },
+  "2639ec85d192e1d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Fiscal único"
+  },
+  "eaa9b1f50b2510c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Fiscal único\n\nO fiscal único é o órgão responsável pelo controlo da legalidade e economia da gestão financeira e patrimonial da Autoridade e de consulta do conselho, nos termos previstos nos artigos seguintes."
+  },
+  "fda5ce128e90cbe7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Nomeação, mandato e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Nomeação, mandato e remuneração\n\n1 - O fiscal único é um revisor oficial de contas ou uma sociedade de revisores oficiais de contas, nomeado por despacho conjunto dos ministros responsáveis pelas áreas das finanças e da economia, após consulta do conselho.\n\n2 - O mandato do fiscal único tem a duração de três anos, sendo renovável por igual período de três anos, pela forma prevista no número anterior.\n\n3 - À cessação do mandato do fiscal único aplica-se, com as devidas adaptações, o disposto no artigo 15.º dos presentes Estatutos.\n\n4 - A remuneração do fiscal único é fixada em despacho conjunto dos ministros responsáveis pelas áreas das finanças, economia e administração pública."
+  },
+  "9bca5b7a589e72f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competências\n\nCompete ao fiscal único:\n\na) Acompanhar e controlar a gestão financeira e patrimonial da Autoridade;\n\nb) Examinar periodicamente a situação financeira e económica da Autoridade e verificar o cumprimento das normas que regulam a sua actividade;\n\nc) Emitir parecer sobre a aquisição, alienação, oneração ou arrendamento de bens imóveis;\n\nd) Emitir parecer sobre o orçamento e as contas anuais da Autoridade;\n\ne) Emitir parecer sobre o plano anual de actividades, na perspectiva da sua cobertura orçamental;\n\nf) Emitir parecer sobre qualquer assunto que lhe seja submetido pelo conselho da Autoridade, no âmbito das suas competências genéricas;\n\ng) Participar às entidades competentes as irregularidades que detecte."
+  },
+  "ee2103cc9891b6fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Serviços e pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Serviços e pessoal"
+  },
+  "961728558ce8dae1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Serviços\n\nA Autoridade dispõe dos serviços necessários ao desempenho das suas atribuições, sendo a respectiva organização e funcionamento fixados em regulamento interno, sem prejuízo do disposto no artigo seguinte."
+  },
+  "c6ba80e84cfaaea8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Pessoal\n\n1 - A Autoridade dispõe de um quadro de pessoal próprio estabelecido em regulamento interno.\n\n2 - O pessoal da Autoridade encontra-se sujeito ao regime do contrato individual de trabalho, sendo abrangido pelo regime geral da segurança social.\n\n3 - As condições de prestação e de disciplina de trabalho são definidas em regulamento próprio da Autoridade.\n\n4 - O regulamento de carreiras e o regime retributivo do pessoal da Autoridade carece de homologação dos ministros responsáveis pelas áreas das finanças, economia e administração pública.\n\n5 - A Autoridade pode ser parte em instrumentos de regulamentação colectiva de trabalho.\n\n6 - O pessoal da Autoridade não pode prestar trabalho ou outros serviços, remunerados ou não, quer a empresas quer a outras entidades cuja actividade colida com as atribuições da Autoridade."
+  },
+  "9883ea4f62e81cc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Mobilidade\n\n1 - A Autoridade pode solicitar a colaboração de pessoal vinculado à Administração Pública ou pertencente a quadros de empresas públicas ou privadas, para o desempenho de funções inerentes às respectivas atribuições.\n\n2 - Ao pessoal vinculado à Administração Pública aplica-se o regime de destacamento e requisição ou de comissão de serviço, com garantia do lugar de origem e dos direitos nele adquiridos.\n\n3 - O período de destacamento, requisição ou de comissão conta-se como tempo de serviço prestado nos quadros de proveniência, designadamente para efeitos de aposentação.\n\n4 - A Autoridade suporta todas as despesas inerentes à requisição ou comissão de serviço, podendo o pessoal requisitado optar pelo vencimento de origem ou pelo correspondente às suas funções na Autoridade.\n\n5 - A Autoridade contribuirá para o financiamento da Caixa Geral de Aposentações com uma importância mensal de montante igual ao das quotas pagas pelos trabalhadores abrangidos pelo regime de protecção social da função pública ao seu serviço.\n\n6 - A requisição de outros trabalhadores depende igualmente de solicitação da Autoridade aos órgãos dirigentes das empresas em cujos quadros o funcionário se integra, bem como da aquiescência deste."
+  },
+  "526823ffc9febb20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Gestão financeira e patrimonial"
+  },
+  "dbd3451e89303b8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Regime orçamental e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regime orçamental e financeiro\n\nA Autoridade encontra-se sujeita ao regime orçamental e financeiro dos serviços e fundos autónomos."
+  },
+  "9294a2820256ab76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Património\n\n1 - A Autoridade dispõe de património próprio, constituído pela universalidade dos seus bens, direitos, garantias ou obrigações de conteúdo económico.\n\n2 - A Autoridade pode ter sob a sua administração bens do património do Estado que sejam afectados ao exercício das suas funções, por lei ou por despacho conjunto dos ministros responsáveis pelas áreas das finanças e da economia.\n\n3 - Os bens da Autoridade que se revelem desnecessários ou inadequados ao cumprimento das suas atribuições serão incorporados no património do Estado, salvo quando devam ser alienados, sendo essa incorporação determinada por despacho conjunto dos ministros responsáveis pelas áreas das finanças e da economia.\n\n4 - Em caso de extinção, o património da Autoridade reverte para o Estado, salvo quando se tratar de fusão ou incorporação, caso em que o património pode reverter para o novo organismo."
+  },
+  "41ae9560c5616e48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Receitas\n\nConstituem receitas da Autoridade:\n\na) As taxas cobradas pelos serviços prestados;\n\nb) 40% do produto das coimas aplicadas pelas infracções que lhe compete investigar e sancionar, revertendo os 60% remanescentes para o Estado;\n\nc) O produto da venda de estudos, publicações ou outros documentos;\n\nd) Quaisquer outras receitas, rendimentos ou valores que provenham da sua actividade ou que por lei ou contrato lhe venham a pertencer ou a ser atribuídos, bem como quaisquer doações, legados ou outras formas de apoio financeiro;\n\ne) Supletivamente, as dotações do Orçamento do Estado, na medida necessária a assegurar o cabal desempenho das suas atribuições, inscritas para o efeito no orçamento do ministério responsável pela área da economia."
+  },
+  "7ced23d6b7aec95e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Despesas\n\nConstituem despesas da Autoridade as que, realizadas no exercício das atribuições e competências que lhe estão cometidas, respeitem a encargos decorrentes da sua actividade e da aquisição de bens de imobilizado."
+  },
+  "24b4ea34c472f83e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Tutela e responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Tutela e responsabilidade"
+  },
+  "879b849720822c37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Tutela\n\n1 - No estrito respeito pela sua independência, a Autoridade está sujeita à tutela do ministro responsável pela área da economia, nos termos dos presentes Estatutos e demais legislação aplicável.\n\n2 - Carecem de aprovação do ministro da tutela:\n\na) O plano de actividades e o orçamento;\n\nb) O relatório de actividades e as contas anuais;\n\nc) A aquisição ou alienação de bens imóveis, nos termos da lei;\n\nd) Outros actos de incidência financeira ou orçamental previstos na lei.\n\n3 - Carecem também de aprovação do ministro responsável pela área das finanças os documentos e actos previstos nas alíneas b), c) e d) do número anterior."
+  },
+  "c6ffa3f387afef85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Recurso extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Recurso extraordinário\n\n1 - Em recurso para o efeito interposto pelos autores da notificação, o membro do Governo responsável pela área da economia pode, mediante decisão fundamentada, autorizar uma operação de concentração proibida por decisão da Autoridade, quando os benefícios dela resultantes para a prossecução de interesses fundamentais da economia nacional superem as desvantagens para a concorrência inerentes à sua realização.\n\n2 - A decisão ministerial que autorize uma operação de concentração nos termos do número anterior pode ser acompanhada de condições e obrigações tendentes a minorar o impacte negativo sobre a concorrência decorrente da sua realização.\n\n3 - O recurso extraordinário previsto neste artigo é interposto no prazo de 30 dias contados da data de notificação da decisão da Autoridade que proíbe a operação de concentração, suspendendo-se com a sua interposição o prazo de impugnação judicial desta decisão."
+  },
+  "c51fad60f4715af4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Responsabilidade financeira, civil, penal e disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Responsabilidade financeira, civil, penal e disciplinar\n\n1 - Os titulares dos órgãos da Autoridade, bem como o seu pessoal, respondem financeira, civil e criminalmente pelos actos e omissões que pratiquem no exercício das suas funções, nos termos da Constituição e demais legislação aplicável, sem prejuízo da responsabilidade disciplinar a que houver lugar.\n\n2 - A responsabilidade financeira é efectivada pelo Tribunal de Contas, nos termos da respectiva legislação."
+  },
+  "47e4569bae96d674": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Sigilo\n\nOs titulares dos órgãos da Autoridade, bem como o seu pessoal, estão especialmente obrigados a guardar sigilo dos factos cujo conhecimento lhes advenha pelo exercício das suas funções e que não possam ser divulgados, nos termos do disposto na lei."
+  },
+  "ff188c006a688b12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Responsabilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Responsabilidade pública\n\nA Autoridade elabora e envia, anualmente, ao Governo, que o remete, nesse momento, à Assembleia da República, um relatório sobre a respectiva actividade no domínio da defesa e promoção da concorrência, o qual será publicado."
+  },
+  "71ef84a21d4e64fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Controlo jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Controlo jurisdicional\n\n1 - As decisões da Autoridade proferidas em processos de contra-ordenação são impugnáveis junto do Tribunal de Comércio de Lisboa.\n\n2 - As decisões da Autoridade em procedimentos administrativos, respeitantes a matéria de concorrência, bem como a decisão ministerial a que alude o artigo 34.º deste diploma, são igualmente impugnáveis junto do Tribunal de Comércio de Lisboa."
+  },
+  "0d1f38495e3bacbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Página electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Página electrónica\n\nA Autoridade deve disponibilizar um sítio na Internet, com todos os dados relevantes, nomeadamente os diplomas legislativos que lhe dizem respeito, os Estatutos e regulamentos internos, a composição dos seus órgãos, incluindo os correspondentes elementos biográficos, os planos, orçamentos, relatórios e contas dos últimos dois anos, bem como os principais instrumentos regulatórios em vigor."
+  },
+  "b58326345e900237": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Natureza e regime jurídico",
+   "in_force_from": "2014-09-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+   ],
+   "markdown": "###### Artigo 2.º — Natureza e regime jurídico\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+  },
+  "8bab7dd6b4bf057e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estatutos da Autoridade",
+   "in_force_from": "2014-09-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+   ],
+   "markdown": "###### Artigo 3.º — Estatutos da Autoridade\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+  },
+  "0531306d5d9227c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Período de instalação",
+   "in_force_from": "2014-09-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+   ],
+   "markdown": "###### Artigo 4.º — Período de instalação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+  },
+  "a6dbdbd3ff5e15ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conselho da Concorrência e Direcção-Geral do Comércio e da Concorrência",
+   "in_force_from": "2014-09-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+   ],
+   "markdown": "###### Artigo 5.º — Conselho da Concorrência e Direcção-Geral do Comércio e da Concorrência\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+  },
+  "5266baa8204fc748": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Articulação com autoridades reguladoras sectoriais",
+   "in_force_from": "2014-09-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+   ],
+   "markdown": "###### Artigo 6.º — Articulação com autoridades reguladoras sectoriais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+  },
+  "b2cdaf8e1c88339e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Transmissão de processos",
+   "in_force_from": "2014-09-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+   ],
+   "markdown": "###### Artigo 8.º — Transmissão de processos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+  },
+  "80f5dc12d0f45837": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Operações de concentração",
+   "in_force_from": "2014-09-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+   ],
+   "markdown": "###### Artigo 9.º — Operações de concentração\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+  },
+  "eed6508d4e36ba85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Recursos",
+   "in_force_from": "2014-09-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+   ],
+   "markdown": "###### Artigo 10.º — Recursos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+  },
+  "ff5fc9389a9028c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": "2014-09-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+   ],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18.\n\nVisto e aprovado em Conselho de Ministros de 20 de Novembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.\n\nPromulgado em 8 de Janeiro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Janeiro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\nESTATUTOS DA AUTORIDADE DA CONCORRÊNCIA"
+  }
+ }
+}

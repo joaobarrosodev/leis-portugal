@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-04-24'
+version_history:
+  file: portaria-405-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-07-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-04-24'
+    amending: pt:dre:285165:por
+    amending_title: Portaria n.º 244/88
+    changes:
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 120-146
 identifiers:
   celex: null
   eli: null
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:47:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 244/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-405-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -153,7 +169,9 @@ a) Análise e Organização do Ensino;
 
 b) Ensino das Ciências da Natureza;
 
-c) Ensino da Língua Portuguesa;
+c) Ensino da Língua e da Literatura Portuguesas;
+
+> Alterado pelo/a [Portaria n.º 244/88](https://diariodarepublica.pt/dr/detalhe/portaria/244-1988-285165), publicado em 1988-04-19.
 
 d) Administração Escolar;
 
@@ -371,59 +389,51 @@ g) Química (ramos de especialização científica e de formação educacional).
 
 Metodologia do Ensino das Ciências.
 
-## ANEXO III — Mestrado em Educação na área de especialização em ensino da Língua Portuguesa
+## ANEXO III — Mestrado em Educação na área de especialização em Ensino da Língua e da Literatura Portuguesas
 
-1 - Área científica do curso:
+1 - Área científica do curso: Educação.
 
-Educação.
+2 - Duração normal do curso: três semestres lectivos.
 
-2 - Duração normal do curso:
+3 - Número total de unidades de crédito necessárias à conclusão do curso: 24.
 
-Três semestres lectivos.
+4 - Áreas científicas e distribuição das unidades de crédito:
 
-3 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:
+4.1 - Obrigatórias:
 
-a) Obrigatórias:
+I - Estudos Linguísticos ... 8
 
-I) História da Educação ... 2
+II - Estudos Literários ... 6
 
-II) Língua Portuguesa ... 6
+III - Metodologias de Ensino ... 4
 
-III) Metodologia do Ensino da Língua Portuguesa ... 3
+4.2 - Conjunto das optativas:
 
-IV) Metodologia da Investigação em Educação ... 6
+I - Educação ... 6
 
-V) Psicologia da Educação ... 2
+II - Linguística ... 6
 
-VI) Teoria do Desenvolvimento Curricular ... 3
+III - Literatura ... 6
 
-b) Optativas:
+IV - Cultura ... 6
 
-I) Filosofia da Educação ... 2
+V - Informática ... 6
 
-II) História da Educação ... 2
+5 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
 
-III) Psicologia da Educação ... 2
+a) Em Ensino que incluam a componente de Português;
 
-IV) Sociologia da Educação ... 2
+b) Línguas e Literaturas Modernas que incluam a componente de Português;
 
-Total ... 24
+c) Filologia Românica;
 
-4 - Licenciaturas a que se refere o n.º 1 de n.º 5.º:
+d) Línguas e Literaturas Clássicas que incluam a componente de Português;
 
-a) Ensino de Francês e Português;
+e) Humanidades da Universidade Católica Portuguesa.
 
-b) Ensino de Inglês e Português;
+6 - Especialidades a que se refere o n.º 11.º: Metodologia do Ensino do Português.
 
-c) Línguas e Literaturas Clássicas, variante de Estudos Clássicos e Portugueses;
-
-e) Ensino de Português e Francês;
-
-f) Ensino de Português e Inglês.
-
-5 - Especialidades a que se refere o n.º 10.º:
-
-Metodologia do Ensino do Português.
+> Alterado pelo/a [Portaria n.º 244/88](https://diariodarepublica.pt/dr/detalhe/portaria/244-1988-285165), publicado em 1988-04-19.
 
 ## ANEXO IV — Mestrado em Educação no área de especialização em Administração Escolar
 

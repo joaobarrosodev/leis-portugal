@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-06-23'
+version_history:
+  file: portaria-599-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-09-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-06-23'
+    amending: pt:dre:473711:por
+    amending_title: Portaria n.º 344/80
+    changes:
+    - Altera Artigo unidades 36-36
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:45:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 344/80. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-599-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -187,7 +202,9 @@ b) Uma secção da Escola Secundária de Campos Melo, na Covilhã, em Aldeia do 
 
 13 - Em resultado do disposto no número anterior, aos quadros de pessoal administrativo e auxiliar da Escola Preparatória de Santiago do Cacém e da Escola Secundária de Campos Melo, na Covilhã, passam a ser os constantes do mapa n.º 3 anexo a esta portaria.
 
-14 - O primeiro-oficial e o escriturário-dactilógrafo providos no quadro da agora extinta Escola Secundária de Aldeia do Souto transita, independentemente de quaisquer formalidades legais, salvo visto do Tribunal de Contas, para idênticos lugares do quadro da Escola Secundária de Campos Melo, na Covilhã.
+14 - O primeiro-oficial e o escriturário-dactilógrafo providos no quadro da Escola Secundária de Aldeia do Souto aquando da sua extinção por este diploma transitam, independentemente de quaisquer formalidades legais, salvo anotação do Tribunal de Contas, para idênticos lugares do quadro da Escola Secundária de Campos Melo, na Covilhã, com efeitos a partir de 1 de Outubro de 1978.
+
+> Alterado pelo/a [Portaria n.º 344/80](https://diariodarepublica.pt/dr/detalhe/portaria/344-1980-473711), publicado em 1980-06-23.
 
 15 - O pessoal docente, administrativo e auxiliar não pertencente aos quadros da extinta Escola Secundária de Aldeia do Souto transita, em idênticas circunstâncias, para a Escola Secundária de Campos Melo, na Covilhã, respeitando-se, porém, no que se refere ao pessoal docente provisório, o disposto nos Decretos-Leis n.os [262/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1977-316748), de 23 de Junho, e [13/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1978-447962), de 14 de Janeiro.
 

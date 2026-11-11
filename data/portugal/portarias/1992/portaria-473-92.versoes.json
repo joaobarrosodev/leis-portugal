@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:300659:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-06-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cb93477c27636d36",
+    "f8f0e00cb507c651",
+    "b4632220a8e0b988"
+   ]
+  },
+  {
+   "date": "1993-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:666165:por",
+     "title": "Portaria n.º 1129/93",
+     "published": "1993-11-03",
+     "dre_path": "/dr/detalhe/portaria/1129-1993-666165"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 14-14",
+    "Altera Artigo unidades 15-15",
+    "Altera Artigo unidades 17-17",
+    "Altera Artigo unidades 25-25",
+    "Altera Artigo unidades 28-28",
+    "Altera Artigo unidades 29-29",
+    "Altera Artigo unidades 39-39",
+    "Adita Artigo depois da unidade 39",
+    "Altera Artigo unidades 42-42"
+   ],
+   "fragments": [
+    "634dc2ab5a9a290b",
+    "e25d5c1242dbd9b6",
+    "ba8f597a53346355"
+   ]
+  }
+ ],
+ "fragments": {
+  "cb93477c27636d36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Junho\n\nO [Decreto-Lei n.º 53/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1992-199794), de 11 de Abril, veio estabelecer o novo regime jurídico aplicável ao transporte internacional rodoviário de passageiros.\n\nImporta agora proceder à sua regulamentação, designadamente no que se refere à capacidade profissional e capacidade financeira.\n\nAssim, nos termos e ao abrigo do disposto no n.º 1 do artigo 8.º e no artigo 9.º do [Decreto-Lei n.º 53/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1992-199794), de 11 de Abril:\n\nManda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, o seguinte:\n\n1.º A capacidade profissional para o exercício da profissão de transportador internacional rodoviário de passageiros será atestada por certificado emitido pela Direcção-Geral de Transportes Terrestres.\n\n2.º O certificado referido no número anterior será emitido aos candidatos que:\n\na) Possuam capacidade profissional para o transporte público nacional rodoviário de passageiros e obtenham aprovação nas matérias constantes do anexo II, em exame a realizar nas condições fixadas no anexo I, ambos do presente diploma; ou\n\nb) Comprovem, documentalmente e por meio de currículo, experiência prática de, pelo menos, cinco anos numa empresa de transportes rodoviários de passageiros como directores, administradores ou gerentes.\n\n3.º As pessoas diplomadas com cursos superiores que impliquem conhecimento de alguma das matérias constantes do anexo II serão dispensadas do exame referente a essas matérias, desde que apresentem certificado do respectivo curso comprovativo da aprovação naquelas matérias.\n\n4.º São reconhecidos como prova de capacidade profissional os certificados emitidos pelos restantes Estados membros da Comunidade Europeia para o exercício da profissão de transportador internacional rodoviário de passageiros, desde que devidamente atestados pelas autoridades competentes do respectivo Estado membro.\n\n5.º Para efeitos de início de actividade, o requisito de capacidade financeira consiste num capital social mínimo de 50 milhões de escudos.\n\n6.º Durante o exercício da actividade transportadora, as empresas devem ainda dispor de capitais próprios de montante igual ou superior a 600000$00 por cada veículo licenciado ou 30000$00 por lugar sentado dos veículos utilizados pela empresa.\n\n7.º O requisito de capacidade financeira previsto no número anterior poderá ser substituído por garantia bancária.\n\n8.º A comprovação do disposto no n.º 5.º deverá ser feita por certidão de registo comercial donde conste o respectivo capital social.\n\n9.º A comprovação do disposto no n.º 6.º deverá ser feita por meio de balanço, apresentado na repartição de finanças competente, para efeitos do imposto sobre o rendimento de pessoas colectivas (IRC).\n\nMinistério das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 14 de Maio de 1992.\n\nPelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes."
+  },
+  "f8f0e00cb507c651": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Regulamento de Exame para Obtenção de Capacidade Profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Regulamento de Exame para Obtenção de Capacidade Profissional\n\n1.º Só podem submeter-se a exame as pessoas que obedeçam às seguintes condições:\n\na) Tenham capacidade profissional para o exercício da profissão de transportador nacional rodoviário de passageiros;\n\nb) Se inscrevam para o efeito nos serviços competentes da Direcção-Geral de Transportes Terrestres, mediante o pagamento de 10000$00.\n\n2.º O júri de exame para avaliação de conhecimentos das matérias constantes do anexo II será constituído por um presidente e três vogais escolhidos em razão da sua competência de entre pessoal dos quadros da Direcção-Geral de Transportes Terrestres e da Direcção-Geral das Alfândegas, nomeados por despacho do director-geral de Transportes Terrestres, ouvido o director-geral das Alfândegas.\n\n3.º As decisões do júri serão tomadas por maioria, tendo o presidente voto de qualidade.\n\n4.º O presidente do júri, em caso de impedimento, designará o seu substituto de entre os restantes membros.\n\n5.º A Direcção-Geral de Transportes Terrestres realizará exames pelo menos duas vezes por ano, nos meses de Abril e Novembro.\n\n6.º As inscrições deverão ser feitas até 30 dias antes da data fixada para a realização dos exames.\n\n7.º Só serão admitidos à realização das provas os candidatos que:\n\na) Se identifiquem através de bilhete de identidade ou passaporte actualizados;\n\nb) Se apresentem à hora marcada.\n\n8.º Os exames serão constituídos por provas escritas, que poderão revestir a forma de perguntas de escolha múltipla.\n\n9.º A classificação final do examinando será expressa pelas designações Aprovado ou Reprovado.\n\nA aprovação depende da obtenção de pelo menos 50% de respostas certas em cada um dos grupos de matérias.\n\n10.º Os resultados finais dos exames constarão de listas que serão afixadas na Direcção-Geral de Transportes Terrestres.\n\n11.º As pessoas que tenham sido reprovadas poderão requerer ao presidente do júri a revisão de provas nos oito dias úteis imediatos à afixação das listas.\n\n12.º A revisão de provas será feita pelo respectivo júri nos oito dias úteis a contar da data do pedido de revisão.\n\n13.º Os candidatos que tenham reprovado só poderão inscrever-se para novo exame decorridos, no mínimo, seis meses a contar da data da afixação das listas a que se refere o n.º 10.º"
+  },
+  "b4632220a8e0b988": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Matérias objecto de exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Matérias objecto de exame\n\n1 - Regulamentação aplicável ao transporte intracomunitário de passageiros por estrada, assim como ao transporte internacional entre a Comunidade e países terceiros, decorrente da legislação nacional, das normas comunitárias, das convenções e acordos internacionais.\n\n2 - Práticas aduaneiras e outras formalidades referentes aos controlos dos transportes.\n\n3 - Principais regulamentações de circulação nos Estados membros."
+  },
+  "634dc2ab5a9a290b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1993-11-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.",
+    "Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.",
+    "Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03."
+   ],
+   "markdown": "de 5 de Junho\n\nO [Decreto-Lei n.º 53/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1992-199794), de 11 de Abril, veio estabelecer o novo regime jurídico aplicável ao transporte internacional rodoviário de passageiros.\n\nImporta agora proceder à sua regulamentação, designadamente no que se refere à capacidade profissional e capacidade financeira.\n\nAssim, nos termos e ao abrigo do disposto no n.º 1 do artigo 8.º e no artigo 9.º do [Decreto-Lei n.º 53/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1992-199794), de 11 de Abril:\n\nManda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, o seguinte:\n\n1.º A capacidade profissional para o exercício da profissão de transportador internacional rodoviário de passageiros será atestada por certificado emitido pela Direcção-Geral de Transportes Terrestres.\n\n2.º O certificado referido no número anterior será emitido aos candidatos que:\n\na) Possuam capacidade profissional para o transporte público nacional rodoviário de passageiros e obtenham aprovação nas matérias constantes do anexo II, em exame a realizar nas condições fixadas no anexo I, ambos do presente diploma; ou\n\nb) Comprovem, documentalmente e por meio de currículo, experiência prática de, pelo menos, cinco anos numa empresa de transportes rodoviários de passageiros como directores, administradores ou gerentes.\n\n3.º As pessoas diplomadas com cursos superiores que impliquem conhecimento de alguma das matérias constantes do anexo II serão dispensadas do exame referente a essas matérias, desde que apresentem certificado do respectivo curso comprovativo da aprovação naquelas matérias.\n\n4.º São reconhecidos como prova de capacidade profissional os certificados emitidos pelos restantes Estados membros da Comunidade Europeia para o exercício da profissão de transportador internacional rodoviário de passageiros, desde que devidamente atestados pelas autoridades competentes do respectivo Estado membro.\n\n5.º Para efeitos de início de actividade, o requisito de capacidade financeira consiste num capital social mínimo de 50 milhões de escudos.\n\n6.º Durante o exercício da actividade transportadora, as empresas devem ainda dispor de capitais próprios de montante igual ou superior a 600000$00 por cada veículo licenciado ou igual ou superior a 30000$00 por cada lugar sentado.\n\n> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.\n\n7.º A comprovação do disposto no número anterior deverá ser feita por meio de balanço apresentado na repartição de finanças competente para efeitos do imposto sobre o rendimento das pessoas colectivas (IRC) ou, em alternativa, por meio de garantia bancária.\n\n> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.\n\n8.º A comprovação do disposto no n.º 5.º deverá ser feita por certidão de registo comercial donde conste o respectivo capital social.\n\n9.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.\n\nMinistério das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 14 de Maio de 1992.\n\nPelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes."
+  },
+  "e25d5c1242dbd9b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Regulamento de Exame para Obtenção de Capacidade Profissional",
+   "in_force_from": "1993-11-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.",
+    "Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.",
+    "Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.",
+    "Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.",
+    "Aditado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03."
+   ],
+   "markdown": "## ANEXO I — Regulamento de Exame para Obtenção de Capacidade Profissional\n\n1.º Só podem submeter-se a exame as pessoas que obedeçam às seguintes condições:\n\na) Tenham capacidade profissional para o exercício da profissão de transportador nacional rodoviário de passageiros;\n\nb) Se inscrevam para o efeito nos serviços competentes da Direcção-Geral de Transportes Terrestres, mediante o pagamento de 10000$00.\n\n2.º O júri de exame para avaliação de conhecimentos das matérias constantes do anexo II será constituído por um presidente e dois vogais escolhidos em razão da sua competência e nomeados por despacho do director-geral de Transportes Terrestres.\n\n> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.\n\n3.º As decisões do júri serão tomadas por maioria, tendo o presidente voto de qualidade.\n\n4.º O presidente do júri, em caso de impedimento, designará o seu substituto de entre os restantes membros.\n\n5.º A Direcção-Geral de Transportes Terrestres realizará exames, pelo menos duas vezes por ano, nos meses de Março e Novembro.\n\n> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.\n\n6.º Serão admitidos a exame os candidatos inscritos até ao último dia útil do mês imediatamente anterior ao da realização dos exames.\n\n> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.\n\n7.º Só serão admitidos à realização das provas os candidatos que:\n\na) Se identifiquem através de bilhete de identidade ou passaporte actualizados;\n\nb) Se apresentem à hora marcada.\n\n8.º Os exames serão constituídos por provas escritas, que poderão revestir a forma de perguntas de escolha múltipla.\n\n9.º A classificação final do examinando será expressa pelas designações Aprovado ou Reprovado.\n\nA aprovação depende da obtenção de pelo menos 50% de respostas certas em cada um dos grupos de matérias.\n\n10.º Os resultados finais dos exames constarão de listas que serão afixadas na Direcção-Geral de Transportes Terrestres.\n\n11.º As pessoas que tenham sido reprovadas poderão requerer ao presidente do júri a revisão de provas nos oito dias úteis imediatos à afixação das listas.\n\n12.º A revisão de provas será feita pelo respectivo júri nos oito dias úteis a contar da data do pedido de revisão.\n\n13.º Quando os exames a que se refere o presente Regulamento se realizarem simultaneamente com os exames para obtenção de capacidade profissional para transportes nacionais rodoviários de passageiros previsto no anexo I da [Portaria n.º 77/93](https://diariodarepublica.pt/dr/detalhe/portaria/77-1993-585231), de 21 de Janeiro, será constituído apenas um júri.\n\n> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.\n\n14.º Quando os exames se realizem nas condições previstas no número anterior, a publicação dos resultados das provas relativas às matérias enunciadas no anexo II desta portaria fica condicionada à aprovação nas matérias cujo conhecimento é exigido para o reconhecimento de capacidade profissional para os transportes rodoviários nacionais de passageiros.\n\n> Aditado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03."
+  },
+  "ba8f597a53346355": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Matérias objecto de exame",
+   "in_force_from": "1993-11-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03."
+   ],
+   "markdown": "## ANEXO II — Matérias objecto de exame\n\n1 - Regulamentação aplicável ao transporte intracomunitário de passageiros por estrada, assim como ao transporte internacional entre a Comunidade e países terceiros, decorrente da legislação nacional, das normas comunitárias, das convenções e acordos internacionais.\n\n2 - Práticas e formalidades respeitantes à passagem das fronteiras.\n\n> Alterado pelo/a [Portaria n.º 1129/93](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1993-666165), publicado em 1993-11-03.\n\n3 - Principais regulamentações de circulação nos Estados membros."
+  }
+ }
+}

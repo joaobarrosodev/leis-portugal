@@ -40,10 +40,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-11-01'
+version_history:
+  file: portaria-552-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-08-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-11-01'
+    amending: pt:dre:177821:por
+    amending_title: Portaria n.º 820/85
+    changes:
+    - Altera Artigo unidades 35-35
+    - Altera Artigo unidades 40-40
+    - Altera Artigo unidades 49-51
+    - Adita Artigo depois da unidade 55
+    - Adita Artigo depois da unidade 85
 identifiers:
   celex: null
   eli: null
@@ -69,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:29:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 820/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-552-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,7 +200,9 @@ c) Documentos que provem estar nas condições exigíveis para a respectiva moda
 
 14 - É condição de admissão ao concurso fazer prova de que à data do início da bolsa o candidato possui um curso superior que permite o acesso ao doutoramento ou ao mestrado, de acordo com a lei vigente.
 
-15 - Estas bolsas de estudo são anuais, podendo ser prorrogáveis por períodos iguais ou inferiores, até ao limite de 4 anos, no que respeita ao doutoramento, e de 2 anos, no concernente ao mestrado.
+15 - Estas bolsas de estudo, cuja duração global não poderá exceder o limite máximo de 4 anos, são anuais, podendo ser prorrogáveis por períodos iguais ou inferiores, até ao limite de 4 anos, no que respeita ao doutoramento, e de 2 anos, no concernente ao mestrado.
+
+> Alterado pelo/a [Portaria n.º 820/85](https://diariodarepublica.pt/dr/detalhe/portaria/820-1985-177821), publicado em 1985-10-29.
 
 16 - A prorrogação das bolsas de estudo está dependente da apresentação, com a antecedência mínima de 60 dias em relação ao termo da bolsa, de pedido formulado por escrito, em impresso a fornecer pelo INIC.
 
@@ -191,7 +212,9 @@ c) Documentos que provem estar nas condições exigíveis para a respectiva moda
 
 19 - Sempre que se verifiquem prorrogações sucessivas por períodos inferiores a 1 ano, o período de férias será calculado proporcionalmente e por forma que não seja ultrapassado o limite de 30 dias por cada ano de prorrogação.
 
-20 - Durante os períodos de duração das bolsas conducentes ao doutoramento no País, quer iniciais, quer resultantes de prorrogações, os bolseiros poderão beneficiar de estágios em instituições estrangeiras, até ao máximo de duas, com uma duração que não exceda um quarto do tempo já usufruído no País e que não ultrapasse, no total, o período de 12 meses.
+20 - Durante os períodos de duração das bolsas conducentes ao doutoramento no País, quer iniciais quer resultantes de prorrogações, os bolseiros poderão beneficiar de estágios em instituições estrangeiras, até ao máximo de dois, com a duração que não exceda um quarto do tempo já usufruído no País e que não ultrapasse, no total, o período de 12 meses.
+
+> Alterado pelo/a [Portaria n.º 820/85](https://diariodarepublica.pt/dr/detalhe/portaria/820-1985-177821), publicado em 1985-10-29.
 
 21 - Será considerado para efeitos de prorrogação das bolsas de estudo atribuídas pelo INIC o período de tempo em que o bolseiro beneficiou de bolsas de estudo concedidas por outras instituições públicas ou privadas.
 
@@ -209,11 +232,13 @@ e) No caso de bolsas para mestrado, o subsídio anual a conceder à entidade que
 
 f) Os subsídios referidos nas duas alíneas anteriores serão pagos na totalidade no início da bolsa;
 
-g) Aos servidores do Estado serão mantidos, pelas instituições a que estiverem vinculados, os vencimentos correspondentes às respectivas categorias, não havendo lugar à atribuição de qualquer subsídio mensal de manutenção aos bolseiros, mas apenas às entidades que os recebam, nos termos do estabelecido nas três alíneas precedentes;
+g) Aos servidores do Estado serão mantidas, pelas instituições a que estiverem vinculados, as remunerações que percebem, não havendo lugar à atribuição de qual quer subsídio mensal de manutenção aos bolseiros, mas apenas às entidades que os recebam, nos termos do estabelecido nas 3 alíneas precedentes;
 
-h) Os bolseiros servidores do Estado que tenham de frequentar no País cursos de pós-licenciatura legalmente aprovados ou realizar trabalhos de investigação, considerados absolutamente indispensáveis pelos respectivos supervisores, para a realização das suas teses de doutoramento ou mestrado e que impliquem deslocações temporárias para fora das suas residências oficiais poderão receber um subsídio mensal adicional, durante os meses em que se encontrem deslocados, correspondente a 50% da letra E ou G da tabela de vencimentos da função pública, consoante se trate de bolseiros com ou sem mestrado na área científica para que é concedida a bolsa;
+h) Os bolseiros servidores do Estado que tenham de frequentar no País cursos de pós-licenciatura legalmente aprovados ou realizar trabalhos de investigação considerados absolutamente indispensáveis pelos respectivos supervisores para a realização das suas teses de doutoramento ou mestrado e que impliquem permanência superior a um mês, fora das suas residências oficiais, na localidade na qual se encontram a usufruir a bolsa poderão receber um subsídio mensal adicional, durante os meses em que se encontrem deslocados, correspondente a 50% das letras E ou G da tabela de vencimentos da função pública, consoante se trate de bolseiro com ou sem mestrado na área científica para que é concedida a bolsa;
 
-i) Os bolseiros, quer estejam ou não vinculados à função pública, quando tiverem de se deslocar temporariamente para fora do local onde estão a usufruir a bolsa de estudo para realizar trabalhos de investigação considerados absolutamente indispensáveis pelos respectivos supervisores, terão direito a um subsídio adicional diário correspondente a 80% das ajudas de custo no País, previsto para funcionários da letra E, até ao montante máximo correspondente a 50% da letra E;
+i) Os bolseiros, quer estejam ou não vinculados à função pública, quando tiverem de se deslocar temporariamente para fora da localidade onde se encontram a usufruir a bolsa de estudo, desde que esse local não seja o da sua residência oficial referida na alínea anterior, a fim de realizar trabalhos de investigação considerados absolutamente indispensáveis pelos respectivos supervisores terão direito a um subsídio diário, a adicionar ao subsídio de manutenção a que se refere a alínea a) deste número, correspondente às ajudas de custo no País, previsto para funcionários da letra E, não podendo estas deslocações exceder anualmente períodos superior a 180 dias;
+
+> Alterado pelo/a [Portaria n.º 820/85](https://diariodarepublica.pt/dr/detalhe/portaria/820-1985-177821), publicado em 1985-10-29.
 
 j) A bolsa de estudo concedida pelo INIC não pode ser acumulada com qualquer outro subsídio, remuneração ou complemento de vencimento, excepto com os previstos no presente diploma;
 
@@ -222,6 +247,10 @@ l) A violação do disposto no número anterior implica o cancelamento da bolsa 
 m) Quando o bolseiro para doutoramento no País tiver de se deslocar ao estrangeiro, terá direito ao subsídio adicional de manutenção no estrangeiro de montante correspondente ao da letra C da tabela de vencimentos da função pública e ainda a subsídios para viagem, inscrição, matrícula e propinas, se as houver;
 
 n) Sempre que a estada no estrangeiro for superior a 6 meses, será pago ao bolseiro, no início dessa estada, um subsídio de instalação de montante igual ao do subsídio adicional de manutenção que percebe mensalmente.
+
+o) O cálculo de subsídio de manutenção previsto nas alíneas h), m) e h) quando não corresponda a meses completos far-se-á proporcionalmente ao número de dias com base nos montantes estabelecidos nas mesmas alíneas.
+
+> Aditado pelo/a [Portaria n.º 820/85](https://diariodarepublica.pt/dr/detalhe/portaria/820-1985-177821), publicado em 1985-10-29.
 
 23 - As bolsas de estudo para doutoramento no estrangeiro regem-se pelas seguintes condições financeiras:
 
@@ -282,6 +311,10 @@ d) Ausentar-se da localidade de estudo, salvo para deslocações normais de fim-
 37 - A bolsa de estudo não será concedida sem que do processo inicial conste uma declaração de compromisso, devidamente autenticada pelo notário, relativa à obrigação referida no número anterior.
 
 38 - A presente portaria revoga a [Portaria n.º 957/81](https://diariodarepublica.pt/dr/detalhe/portaria/957-1981-569109), de 7 de Novembro.
+
+39 - O presente diploma entra em vigor no dia 1 do mês imediato à sua publicação.
+
+> Aditado pelo/a [Portaria n.º 820/85](https://diariodarepublica.pt/dr/detalhe/portaria/820-1985-177821), publicado em 1985-10-29.
 
 Ministério da Educação.
 

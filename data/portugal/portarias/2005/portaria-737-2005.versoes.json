@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:245322:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-08-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "83463d5e00ecedb8"
+   ]
+  },
+  {
+   "date": "2007-12-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:628532:por",
+     "title": "Portaria n.º 1518/2007",
+     "published": "2007-12-03",
+     "dre_path": "/dr/detalhe/portaria/1518-2007-628532"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "b5afdd57c327856f"
+   ]
+  }
+ ],
+ "fragments": {
+  "83463d5e00ecedb8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Agosto\n\nCom fundamento no disposto no n.º 3 do artigo 164.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, e no artigo 25.º e no n.º 1 do artigo 114.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Mourão:\n\nManda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal da freguesia de Mourão (processo n.º 3960-DGRF), pelo período de seis anos, e transferida a sua gestão para a Junta de Freguesia de Mourão, com o número de pessoa colectiva 680017615 e sede na Tapada dos Celeiros, lote 5, 7240 Mourão.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Mourão, com a área de 1074 ha.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 40% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 10% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 20% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 30% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.\n\n6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n7.º A sinalização da zona de caça deve obedecer ao disposto no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro, com a redacção que lhe foi conferida pela [Portaria n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/portaria/45-2004-603031), de 14 de Janeiro.\n\nPelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 6 de Agosto de 2005. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 27 de Junho de 2005.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/08/165b00/50795079.pdf)"
+  },
+  "b5afdd57c327856f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2007-12-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1518/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1518-2007-628532), publicado em 2007-12-03."
+   ],
+   "markdown": "de 29 de Agosto\n\nCom fundamento no disposto no n.º 3 do artigo 164.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, e no artigo 25.º e no n.º 1 do artigo 114.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Mourão:\n\nManda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal da freguesia de Mourão (processo n.º 3960-DGRF), pelo período de seis anos, e transferida a sua gestão para a Junta de Freguesia de Mourão, com o número de pessoa colectiva 680017615 e sede na Tapada dos Celeiros, lote 5, 7240 Mourão.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Mourão, com a área de 1045 ha.\n\n> Alterado pelo/a [Portaria n.º 1518/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1518-2007-628532), publicado em 2007-12-03.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 40% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 10% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 20% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 30% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão.\n\n6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n7.º A sinalização da zona de caça deve obedecer ao disposto no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro, com a redacção que lhe foi conferida pela [Portaria n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/portaria/45-2004-603031), de 14 de Janeiro.\n\nPelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 6 de Agosto de 2005. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 27 de Junho de 2005.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/08/165b00/50795079.pdf)"
+  }
+ }
+}

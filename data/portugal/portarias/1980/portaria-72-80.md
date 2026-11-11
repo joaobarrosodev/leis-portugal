@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-06-18'
+version_history:
+  file: portaria-72-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-03-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-06-18'
+    amending: pt:dre:472934:por
+    amending_title: Portaria n.º 334/80; Portaria n.º 334/80
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
+    - Adita Artigo depois da unidade 13
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:27:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 334/80; Portaria n.º
+    334/80. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-72-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,7 +136,13 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Seguran�
 
 I
 
-São integrados orgânica e funcionalmente no Centro Regional de Segurança Social de Beja os seguintes órgãos, serviços e instituições oficiais existentes na área do distrito:
+São integrados no Centro Regional de Segurança Social de Beja os seguintes órgãos, serviços e instituições oficiais existentes na área do distrito:
+
+> Alterado pelo/a [Portaria n.º 334/80](https://diariodarepublica.pt/dr/detalhe/portaria/334-1980-472934), publicado em 1980-06-18.
+
+1) Integração completa (orgânica e funcional):
+
+> Aditado pelo/a [Portaria n.º 334/80](https://diariodarepublica.pt/dr/detalhe/portaria/334-1980-472934), publicado em 1980-06-18.
 
 a) Dependentes da Direcção-Geral da Previdência:
 
@@ -134,6 +157,12 @@ c) Dependentes do Instituto de Obras Sociais:
 O Centro Infantil de Ferreira do Alentejo.
 
 d) A extensão, no distrito de Beja, do Instituto de Apoio ao Retorno de Nacionais.
+
+2) Integração apenas funcional:
+
+O Centro de Apoio à Terceira Idade de Beja.
+
+> Aditado pelo/a [Portaria n.º 334/80](https://diariodarepublica.pt/dr/detalhe/portaria/334-1980-472934), publicado em 1980-06-18.
 
 II
 

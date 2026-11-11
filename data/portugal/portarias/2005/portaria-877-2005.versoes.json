@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:147645:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-09-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "76bf1c068867daad"
+   ]
+  },
+  {
+   "date": "2006-05-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632188:por",
+     "title": "Portaria n.º 444/2006",
+     "published": "2006-05-12",
+     "dre_path": "/dr/detalhe/portaria/444-2006-632188"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "1c5554a5abb8d588"
+   ]
+  }
+ ],
+ "fragments": {
+  "76bf1c068867daad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Setembro\n\nCom fundamento no disposto no artigo 160.º e na alínea a) do artigo 40.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto;\n\nOuvido o Conselho Cinegético Municipal de Ourique:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é concessionada, pelo período de 12 anos, renováveis automaticamente por um período igual, a Silvino Fernando Raposo Soares, com o número de identificação fiscal 182332004, a zona de caça turística do Monte do Algaremo (processo n.º 4061-DGRF), com sede na Rua do Frei Amador Arrais, bloco B, 2, rés-do-chão, 7670 Ourique, englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Panoias, município de Ourique, com a área de 563 ha.\n\n2.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n3.º A sinalização da zona de caça deve obedecer ao disposto no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro, com a redacção que lhe foi conferida pela [Portaria n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/portaria/45-2004-603031), de 14 de Janeiro.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 8 de Setembro de 2005.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185b00/57615761.pdf)"
+  },
+  "1c5554a5abb8d588": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-05-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 444/2006](https://diariodarepublica.pt/dr/detalhe/portaria/444-2006-632188), publicado em 2006-05-12."
+   ],
+   "markdown": "de 26 de Setembro\n\nCom fundamento no disposto no artigo 160.º e na alínea a) do artigo 40.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto;\n\nOuvido o Conselho Cinegético Municipal de Ourique:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é concessionada, pelo período de 12 anos, renováveis automaticamente por um período igual, a Sílvio Fernando Raposo Soares, com o número de identificação fiscal 182332004, a zona de caça turística do Monte do Algaremo (processo n.º 4061-DGRF), com sede na Rua do Frei Amador Arrais, bloco B, 2, rés-do-chão, 7670 Ourique, englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Panoias, município de Ourique, com a área de 563 ha.\n\n> Alterado pelo/a [Portaria n.º 444/2006](https://diariodarepublica.pt/dr/detalhe/portaria/444-2006-632188), publicado em 2006-05-12.\n\n2.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n3.º A sinalização da zona de caça deve obedecer ao disposto no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro, com a redacção que lhe foi conferida pela [Portaria n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/portaria/45-2004-603031), de 14 de Janeiro.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 8 de Setembro de 2005.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185b00/57615761.pdf)"
+  }
+ }
+}

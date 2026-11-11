@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-02-04'
+version_history:
+  file: portaria-98-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-02-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-02-04'
+    amending: pt:dre:276209:por
+    amending_title: Portaria n.º 95/2002
+    changes:
+    - Altera Artigo unidades 7-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/98/1998/02/23/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:12:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 95/2002. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-98-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,13 +146,19 @@ Assim, sob proposta do Instituto do Vinho do Porto e audição prévia da Comiss
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º O valor da taxa incidente sobre o vinho do Porto destinado à comercialização é fixado em 6$00 por litro, para o vinho engarrafado, e em 20$00 por litro, para o vinho a granel e para o desclassificado para uso na indústria agro-alimentar.
+1.º O valor da taxa incidente sobre o vinho do Porto destinado à comercialização é fixado em (euro) 0,0299 por litro, para o vinho engarrafado, e em (euro) 0,0998 por litro, para o vinho em granel e para o desclassificado para uso na indústria agro-alimentar.
 
-2.º O valor da taxa incidente sobre a aguardente vínica destinada à beneficiação dos mostos e ao tratamento do vinho generoso da Região Demarcada do Douro é fixado em 5$00 por litro.
+2.º O valor da taxa incidente sobre a aguardente vínica destinada à beneficiação dos mostos e ao tratamento do vinho generoso da Região Demarcada do Douro é fixado em (euro) 0,0249 por litro.
 
-3.º Os selos de garantia fornecidos pelo Instituto do Vinho do Porto para aposição nas garrafas de vinho do Porto passam a ter o valor de 4$00.
+3.º Os selos de garantia fornecidos pelo Instituto do Vinho do Porto para aposição nas garrafas de vinho do Porto passam a ter o valor de (euro) 0,0200.
 
-4.º As cápsulas-selos de garantia para aposição nas garrafas de vinho do Porto com capacidade de 5 cl a 20 cl passam a ter o valor de 5$50.
+4.º As cápsulas-selos de garantia para aposição nas garrafas de vinho do Porto com capacidade de 5 cl a 20 cl passam a ter os seguintes valores:
+
+Dimensões até 28 mm x 18 mm - (euro) 0,0274;
+
+Dimensões de 30 mm x 35 mm - (euro) 0,0499.
+
+> Alterado pelo/a [Portaria n.º 95/2002](https://diariodarepublica.pt/dr/detalhe/portaria/95-2002-276209), publicado em 2002-01-30.
 
 5.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
 

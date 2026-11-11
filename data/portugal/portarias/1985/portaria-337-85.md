@@ -38,10 +38,32 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-04-05'
+version_history:
+  file: portaria-337-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-06-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-04-05'
+    amending: pt:dre:138782:por
+    amending_title: Decreto-Lei n.º 108/99
+    changes:
+    - Altera Artigo unidades 8-11
+    - Altera Artigo unidades 12-14
+    - Altera Artigo unidades 15-15
+    - Altera Artigo unidades 16-31
+    - Altera Artigo unidades 52-58
+    - Altera Artigo unidades 59-59
+    - Altera Artigo unidades 62-64
+    - Altera Artigo unidades 65-65
+    - Altera Artigo unidades 66-66
 identifiers:
   celex: null
   eli: null
@@ -67,7 +89,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:24:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 108/99. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-337-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,53 +152,21 @@ Assim, ao abrigo do disposto no n.º 2 do artigo 1.º no artigo 3.º no artigo 5
 
 Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, o seguinte:
 
-1.º Os métodos tecnológicos a utilizar na preparação dos vinhos espumantes naturais são os seguintes:
+1.º - (Revogado.)
 
-a) Método clássico ou de fermentação em garrafa (também designado «champanhês»), caracterizado por a segunda fermentação do vinho ser efectuada em garrafa, devendo a mesma permanecer nas instalações tecnológicas do preparador por um período mínimo de 6 meses a partir do engarrafamento, não podendo o período até ao dégorgement ser inferior a 60 dias;
+> Alterado pelo/a [Decreto-Lei n.º 108/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1999-138782), publicado em 1999-03-31.
 
-b) Método de cuba fechada (também designado «charmat»), caracterizado por se efectuar a segunda fermentação em recipientes apropriados de grandes dimensões, não podendo o período de permanência do vinho no recipiente de fermentação ser inferior a 18 dias;
+2.º - (Revogado.)
 
-c) Método contínuo, caracterizado por se efectuar a segunda fermentação em recipientes apropriados de grandes dimensões e ligados entre si, com entrada e saída contínua de vinho, não podendo o tempo de permanência no sistema ser inferior a 18 dias e decorrendo a fermentação sob pressão constante.
+> Alterado pelo/a [Decreto-Lei n.º 108/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1999-138782), publicado em 1999-03-31.
 
-2.º Sem prejuízo do emprego de outras substâncias autorizadas em enologia na preparação dos vinhos de que trata este diploma, a composição dos produtos intervenientes na sua tecnologia será a seguinte:
+3.º - (Revogado.)
 
-a) Licor de fermentação (para vinhos espumantes naturais) - além de leveduras só poderá conter mosto, parcialmente fermentado, mosto concentrado ou solução de sacarose e vinho;
+> Alterado pelo/a [Decreto-Lei n.º 108/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1999-138782), publicado em 1999-03-31.
 
-b) Licor de expedição - só poderá conter, de forma simples ou misturada, sacarose, mosto, mosto parcialmente fermentado, mosto concentrado ou vinho e, eventualmente, aguardente vinícola.
+4.º - (Revogado.)
 
-3.º O vinho base para a preparação destes vinhos deverá obedecer à lei geral.
-
-4.º Independentemente das características analíticas exigidas pela lei geral para os vinhos e seus derivados, estes vinhos especiais deverão apresentar:
-
-a) As características organolépticas correspondentes a produtos com qualidade;
-
-b) Teor alcoólico volumétrico adquirido (expresso em percentagem volumétrica):
-
-Vinhos espumantes naturais - mínimo 10,5;
-
-Vinhos espumosos gaseificados - mínimo 10,0;
-
-c) Acidez volátil corrigida (expressa em gramas de ácido acético por litro):
-
-Nos vinhos espumantes naturais - máxima 0,8;
-
-Nos vinhos espumosos gaseificados - máxima 1,0;
-
-d) Anidrido sulfuroso total (expresso em miligramas por litro):
-
-Nos vinhos espumantes naturais - máximo 150;
-
-Nos vinhos espumosos gaseificados - máximo 200;
-
-e) Extracto não redutor - para os vinhos espumantes naturais é admitida a tolerância de 10% em relação aos limites fixados na lei geral;
-
-f) Sobrepressão na garrafa, referida a 20ºC (expressa em bar):
-
-Para um volume nominal superior a 375 ml - mínima 3,5;
-
-Para um volume nominal igual ou inferior a 375 ml - mínima 3;
-
-g) Nos vinhos de reconhecido envelhecimento a sobrepressão poderá apresentar uma redução de 20%.
+> Alterado pelo/a [Decreto-Lei n.º 108/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1999-138782), publicado em 1999-03-31.
 
 5.º As indicações tradicionais relativas ao grau de doçura (expresso em gramas de açúcar por litro) dos vinhos de que trata este diploma poderão ser as seguintes:
 
@@ -217,35 +208,29 @@ b) Na indicação do método tecnológico utilizado, que deverá seguir-se imedi
 
 c) Nos designativos de qualidade e de teor em açúcar residual, não superior aos referidos na alínea a).
 
-13.º As existências mínimas obrigatórias são as seguintes:
+13.º - (Revogado.)
 
-a) Vinhos espumantes naturais fermentados em garrafa:
+> Alterado pelo/a [Decreto-Lei n.º 108/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1999-138782), publicado em 1999-03-31.
 
-10% do número de garrafas preparadas no ano anterior, mas nunca inferior a 25000 garrafas, referidas à capacidade de 0,75 l;
+14.º - (Revogado.)
 
-b) Vinhos espumantes naturais fermentados em cuba fechada ou pelo método contínuo:
-
-5% do número de garrafas preparadas no ano anterior e 25000 l de vinho base devidamente individualizado;
-
-c) Vinhos espumosos gaseificados:
-
-25000 l em vinho base ou engarrafado.
-
-14.º Os preparadores-vitivinicultores previstos na alínea a) do n.º 2 do artigo 17.º do [Decreto-Lei n.º 12/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1985-328874) não estão sujeitos ao regime de existências mínimas obrigatórias.
+> Alterado pelo/a [Decreto-Lei n.º 108/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1999-138782), publicado em 1999-03-31.
 
 15.º A venda dos vinhos já engarrafados ou em fase de preparação abrangidos no presente diploma, bem como a utilização de material de embalagem, designadamente de caixas, garrafas, rolhas, cápsulas e rótulos já em poder dos preparadores, serão permitidas durante o prazo de um ano, devendo, para tanto, os interessados solicitar aos organismos competentes, no prazo de 60 dias, a verificação dos produtos e materiais que pretendam ainda utilizar.
 
 16.º O prazo referido no número anterior poderá ser alargado quando se trate de produtos em fase de preparação relativamente aos quais se pretenda o uso de designativos de qualidade.
 
-17.º Os preparadores dos vinhos espumantes naturais devem comunicar ao organismo disciplinador responsável, com a antecedência mínima de 10 dias:
+17.º - (Revogado.)
 
-O início de engarrafamento no método clássico de preparação;
+> Alterado pelo/a [Decreto-Lei n.º 108/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1999-138782), publicado em 1999-03-31.
 
-O período previsto de laboração nos outros métodos de preparação.
+18.º - (Revogado.)
 
-18.º A sacarose necessária para a composição dos produtos referidos no n.º 2.º do presente diploma deverá constar de conta corrente específica.
+> Alterado pelo/a [Decreto-Lei n.º 108/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1999-138782), publicado em 1999-03-31.
 
-19.º As dúvidas e casos omissos serão resolvidos por simples despacho do Secretário de Estado do Comércio e Indústria Agrícolas.
+19.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 108/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1999-138782), publicado em 1999-03-31.
 
 20.º Esta portaria entra em vigor simultaneamente com o decreto-lei a que se reporta.
 

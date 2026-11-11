@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-09-18'
+version_history:
+  file: portaria-502-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-04-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-09-18'
+    amending: pt:dre:640576:por
+    amending_title: Portaria n.º 1166/2007
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/502/2002/04/27/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:41:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1166/2007. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-502-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,7 +143,13 @@ Ouvido o Conselho Cinegético Municipal de Silves:
 
 Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, o seguinte:
 
-1.º Pela presente portaria é concessionada, pelo período de seis anos, renovável automaticamente por um único e igual período, à Associação de Caçadores do Monte da Oliveira, com o número de pessoa colectiva 505274132 e sede no cruzamento de São Marcos da Serra, Silves, a zona de caça associativa do Monte Branco (processo n.º 2754-DGF), englobando vários prédios rústicos sitos na freguesia de São Marcos da Serra, município de Silves, com a área de 418 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+1.º Pela presente portaria é concessionada, pelo período de 12 anos, à Associação de Caçadores do Monte da Oliveira, com o número de pessoa colectiva 505274132 e sede no cruzamento de São Marcos da Serra, Silves, a zona de caça associativa do Monte Branco (processo n.º 2754-DGF), englobando vários prédios rústicos sitos na freguesia de São Marcos da Serra, município de Silves, com a área de 418 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 1166/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1166-2007-640576), publicado em 2007-09-13.
+
+1.º-A A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza até ao máximo de 10 % da área total da zona de caça.
+
+> Aditado pelo/a [Portaria n.º 1166/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1166-2007-640576), publicado em 2007-09-13.
 
 2.º A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 4 e sinal do modelo n.º 10, definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.
 

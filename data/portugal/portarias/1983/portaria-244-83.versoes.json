@@ -1,0 +1,72 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:309548:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-03-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d7c4f56bde72778c"
+   ]
+  },
+  {
+   "date": "1990-02-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:548385:por",
+     "title": "Portaria n.º 861/89",
+     "published": "1989-10-04",
+     "dre_path": "/dr/detalhe/portaria/861-1989-548385"
+    },
+    {
+     "id": "pt:dre:332909:por",
+     "title": "Portaria n.º 147/90",
+     "published": "1990-02-21",
+     "dre_path": "/dr/detalhe/portaria/147-1990-332909"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 17-17",
+    "Altera Artigo unidades 19-22",
+    "Altera Artigo unidades 24-27",
+    "Altera Artigo unidades 28-28",
+    "Altera Artigo unidades 31-31",
+    "Altera Artigo unidades 54-58"
+   ],
+   "fragments": [
+    "84da022ee8e740e9"
+   ]
+  }
+ ],
+ "fragments": {
+  "d7c4f56bde72778c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Março\n\nSob proposta do conselho científico da Faculdade de Economia da Universidade do Porto;\n\nAo abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade do Porto, através da Faculdade de Economia, concede o grau de mestre em Economia.\n\n2.º\n\n(Organização do curso)\n\nO curso especializado conducente ao mestrado indicado no n.º 1.º, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Área científica)\n\nA área científica do curso é a Economia.\n\n4.º\n\n(Áreas científicas e unidades de crédito)\n\nAs áreas científicas e as unidades de crédito necessárias à conclusão do curso distribuem-se da seguinte forma:\n\na) Obrigatórias:\n\nI) Microeconomia ... 4\n\nII) Macroeconomia ... 4\n\nIII) Métodos Quantitativos ... 4\n\nIV) Relações Económicas Internacionais ... 4\n\nb) Optativas:\n\nI) Economia Pública e Financeira ... 8\n\nII) Economia da Empresa ... 8\n\nIII) Economia Espacial e dos Recursos ... 8\n\nIV) Economia do Desenvolvimento ... 8\n\nTotal ... 24\n\n5.º\n\n(Duração normal)\n\nA duração normal do curso é de 3 semestres lectivos.\n\n6.º\n\n(Habilitação de acesso)\n\n1 - São admitidos à candidatura à matrícula no curso os licenciados em Economia ou titulares de habilitação legalmente equivalente com a classificação mínima de 14 valores.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.\n\n3 - Excepcionalmente, em casos devidamente justificados e nos termos no n.º 4 do n.º 7.º, o conselho científico poderá admitir à candidatura à matrícula no curso os titulares de outra licenciatura pelas universidades portuguesas, ou legalmente equivalente, cujo currículo demonstre uma adequada preparação científica de base.\n\n7.º\n\n(Critérios de selecção)\n\n1 - Os candidatos à matrícula em cada curso serão seleccionados pelo conselho científico tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 6.º ou de outros graus já obtidos pelo candidato;\n\nb) Currículo académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 2 do n.º 10.º, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino superior.\n\n3 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção, para avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco das licenciaturas ou outras como condição prévia à matrícula no curso.\n\n4 - Os candidatos a que se refere o n.º 3 do n.º 6.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n5 - A selecção a que se refere o presente número será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.\n\n8.º\n\n(Precedências)\n\nA tabela e o regime de precedências serão fixados pelo conselho científico, ouvido o conselho pedagógico.\n\n9.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão as previstas na lei para os cursos de licenciatura, naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza do curso.\n\n10.º\n\n(«Numerus clausus»)\n\n1 - O numerus clausus do curso será fixado anualmente por despacho do Ministro da Educação, sob proposta da Universidade.\n\n2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.\n\n3 - Poderá igualmente ser fixado no mesmo despacho um número mínimo de inscrições indispensável ao funcionamento do curso.\n\n4 - Cada proposta de numerus clausus deverá ser acompanhada de um relatório comprovativo de estarem satisfeitas as condições referidas no n.º 12.º\n\n11.º\n\n(Calendário)\n\nOs prazos de candidatura e de inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o número anterior.\n\n12.º\n\n(Entrada em funcionamento)\n\nA entrada em funcionamento do curso ficará dependente da existência na Universidade da totalidade dos recursos humanos e materiais necessários à sua completa concretização.\n\nMinistério da Educação, 4 de Fevereiro de 1983. - Pelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensino Superior."
+  },
+  "84da022ee8e740e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1990-02-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 147/90](https://diariodarepublica.pt/dr/detalhe/portaria/147-1990-332909), publicado em 1990-02-21.",
+    "Alterado pelo/a [Portaria n.º 861/89](https://diariodarepublica.pt/dr/detalhe/portaria/861-1989-548385), publicado em 1989-10-04.",
+    "Alterado pelo/a [Portaria n.º 861/89](https://diariodarepublica.pt/dr/detalhe/portaria/861-1989-548385), publicado em 1989-10-04.",
+    "Alterado pelo/a [Portaria n.º 147/90](https://diariodarepublica.pt/dr/detalhe/portaria/147-1990-332909), publicado em 1990-02-21.",
+    "Alterado pelo/a [Portaria n.º 861/89](https://diariodarepublica.pt/dr/detalhe/portaria/861-1989-548385), publicado em 1989-10-04.",
+    "Alterado pelo/a [Portaria n.º 861/89](https://diariodarepublica.pt/dr/detalhe/portaria/861-1989-548385), publicado em 1989-10-04."
+   ],
+   "markdown": "de 3 de Março\n\nSob proposta do conselho científico da Faculdade de Economia da Universidade do Porto;\n\nAo abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade do Porto, através da Faculdade de Economia, concede o grau de mestre em Economia.\n\n2.º\n\n(Organização do curso)\n\nO curso especializado conducente ao mestrado indicado no n.º 1.º, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Área científica)\n\nA área científica do curso é a Economia.\n\n4.º\n\n(Áreas científicas e unidades de crédito)\n\nAs área científicas e as unidades de crédito necessárias à conclusão do curso distribuem-se da seguinte forma:\n\n> Alterado pelo/a [Portaria n.º 147/90](https://diariodarepublica.pt/dr/detalhe/portaria/147-1990-332909), publicado em 1990-02-21.\n\na) Obrigatórias:\n\nI) Microeconomia ... 3\n\nII) Macroeconomia ... 3\n\nIII) Métodos Quantitativos ... 3\n\n> Alterado pelo/a [Portaria n.º 861/89](https://diariodarepublica.pt/dr/detalhe/portaria/861-1989-548385), publicado em 1989-10-04.\n\nb) Optativas:\n\nI) Economia Industrial e da Empresa ... 12\n\nII) Economia Regional e do Desenvolvimento ... 12\n\nIII) Economia e Finanças Internacionais ... 12\n\nIV) Política Económica ... 12\n\nV) Métodos Quantitativos Aplicados à Economia ... 12\n\nVI) Teoria Económica ... 12\n\n> Alterado pelo/a [Portaria n.º 861/89](https://diariodarepublica.pt/dr/detalhe/portaria/861-1989-548385), publicado em 1989-10-04.\n\nTotal ... 21\n\n> Alterado pelo/a [Portaria n.º 147/90](https://diariodarepublica.pt/dr/detalhe/portaria/147-1990-332909), publicado em 1990-02-21.\n\n5.º\n\n(Duração normal)\n\nA duração da parte escolar do curso é de dois semestres lectivos.\n\n> Alterado pelo/a [Portaria n.º 861/89](https://diariodarepublica.pt/dr/detalhe/portaria/861-1989-548385), publicado em 1989-10-04.\n\n6.º\n\n(Habilitação de acesso)\n\n1 - São admitidos à candidatura à matrícula no curso os licenciados em Economia ou titulares de habilitação legalmente equivalente com a classificação mínima de 14 valores.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.\n\n3 - Excepcionalmente, em casos devidamente justificados e nos termos no n.º 4 do n.º 7.º, o conselho científico poderá admitir à candidatura à matrícula no curso os titulares de outra licenciatura pelas universidades portuguesas, ou legalmente equivalente, cujo currículo demonstre uma adequada preparação científica de base.\n\n7.º\n\n(Critérios de selecção)\n\n1 - Os candidatos à matrícula em cada curso serão seleccionados pelo conselho científico tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 6.º ou de outros graus já obtidos pelo candidato;\n\nb) Currículo académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 2 do n.º 10.º, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino superior.\n\n3 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção, para avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco das licenciaturas ou outras como condição prévia à matrícula no curso.\n\n4 - Os candidatos a que se refere o n.º 3 do n.º 6.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n5 - A selecção a que se refere o presente número será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.\n\n8.º\n\n(Precedências)\n\nA tabela e o regime de precedências serão fixados pelo conselho científico, ouvido o conselho pedagógico.\n\n9.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão as previstas na lei para os cursos de licenciatura, naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza do curso.\n\n10.º\n\nLimitações quantitativas\n\n1 - A matrícula e inscrição no curso está sujeita a limitações quantitativas a fixar anualmente por despacho do reitor da Universidade do Porto, ao abrigo do disposto na alínea e) do artigo 2.º do [Decreto-Lei n.º 323/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032), de 9 de Outubro, sob proposta do conselho científico da Faculdade de Economia.\n\n2 - O curso não poderá funcionar com um número de inscrições inferior a vinte.\n\n3 - O despacho a que se refere o n.º 1 estabelecerá ainda:\n\na) Qual a percentagem das vagas que será reservada prioritariamente a docentes de estabelecimentos de ensino superior;\n\nb) Qual a percentagem das vagas que será reservada prioritariamente a candidatos que não sejam docentes de estabelecimentos de ensino superior, a qual não poderá ser inferior a 50%;\n\nc) Qual o número mínimo de inscrições indispensáveis ao funcionamento do curso, se mais elevado que o referido no n.º 2.\n\n4 - O despacho a que se refere o n.º 1 deverá ser publicado na 2.ª série do Diário da República antes do início do prazo de candidatura.\n\n> Alterado pelo/a [Portaria n.º 861/89](https://diariodarepublica.pt/dr/detalhe/portaria/861-1989-548385), publicado em 1989-10-04.\n\n11.º\n\n(Calendário)\n\nOs prazos de candidatura e de inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o número anterior.\n\n12.º\n\n(Entrada em funcionamento)\n\nA entrada em funcionamento do curso ficará dependente da existência na Universidade da totalidade dos recursos humanos e materiais necessários à sua completa concretização.\n\nMinistério da Educação, 4 de Fevereiro de 1983. - Pelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensino Superior."
+  }
+ }
+}

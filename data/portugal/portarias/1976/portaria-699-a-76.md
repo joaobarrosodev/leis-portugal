@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-12-20'
+version_history:
+  file: portaria-699-a-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-11-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-12-20'
+    amending: pt:dre:280250:por
+    amending_title: Portaria n.º 766/77; Portaria n.º 766/77
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:10:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 766/77; Portaria n.º
+    766/77. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-699-a-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,7 +127,9 @@ Em cumprimento do disposto no artigo 15.º do [Decreto n.º 762/76](https://diar
 
 1. As revisões pessoal e de bagagem serão realizadas por pessoal convenientemente especializado para o efeito, sob orientação directa de pessoal do quadro auxiliar técnico, em termos a definir.
 
-A Direcção-Geral das Alfândegas providenciará no sentido de estarem concluídos, no final do ano de 1977, os cursos de formação adequados a esta especialização.
+A Direcção-Geral das Alfândegas providenciará no sentido de estarem concluídos, no final do ano de 1978, os cursos de formação adequados a esta especialização.
+
+> Alterado pelo/a [Portaria n.º 766/77](https://diariodarepublica.pt/dr/detalhe/portaria/766-1977-280250), publicado em 1977-12-20.
 
 Os participantes nos cursos de formação serão recrutados de entre os actuais fiéis do quadro do tráfego, com idade não superior a 55 anos.
 

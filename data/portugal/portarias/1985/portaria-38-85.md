@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-02-05'
+version_history:
+  file: portaria-38-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-01-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-02-05'
+    amending: pt:dre:611675:por
+    amending_title: Portaria n.º 95/89
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:25:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 95/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-38-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,7 +146,9 @@ Ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](htt
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, aprovar o seguinte:
 
-1.º Ficam sujeitas ao regime de preços declarados, a que se refere o artigo 3.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, as leveduras destinadas ao fabrico do pão e dos produtos afins incluídas no desdobramento da classificação das actividades económicas (CAE, revisão de 1973) 3121.4.0, independentemente do volume de facturação das empresas produtoras ou importadoras.
+1.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 95/89](https://diariodarepublica.pt/dr/detalhe/portaria/95-1989-611675), publicado em 1989-02-04.
 
 2.º Ficam sujeitos ao regime de preços declarados, a que se refere o artigo 3.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, os aditivos destinados ao fabrico do pão e dos produtos afins, incluídos no desdobramento da classificação das actividades económicas (CAE, revisão de 1973) 3121.9.9, produzidos ou importados por empresas cuja facturação bruta total correspondente a vendas no mercado interno, no ano anterior, tenha sido superior a 250000 contos, e cuja facturação nos produtos incluídos naquele desdobramento CAE tenha sido superior a 80000 contos.
 

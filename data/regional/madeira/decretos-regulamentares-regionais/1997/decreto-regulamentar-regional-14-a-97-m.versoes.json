@@ -1,0 +1,671 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:363920:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f666bd6d84f12ea8",
+    "f1c4a041e9f12232",
+    "18d68220a1f2b9e3",
+    "7342f7b1dcac3873",
+    "d011b49d57c18b07",
+    "5cb524fedde32917",
+    "396cfe66f6d1ddf2",
+    "a605bfbe154c58bf",
+    "b43c4bf6e1b18345",
+    "f83ca3d5127f03ea",
+    "c302e3c325882fd5",
+    "2e8b405719f9371c",
+    "84f781235cae0079",
+    "03935c6713a68b27",
+    "05bf5aa979d74ba2",
+    "bcb6c071a4a4c299",
+    "262f1a238dd700cc",
+    "4f0fcc9d3cd02128",
+    "64115b81801596f5",
+    "315dc4e8021d90c7",
+    "7879e546b0f556c3",
+    "acea49e160bcbe7d",
+    "84f781235cae0079",
+    "832a5e8ac4a17ac0",
+    "2f00a3abe6fca9a6",
+    "05bf5aa979d74ba2",
+    "946361b4e38e134b",
+    "1f793de085646462",
+    "0a740de26256de82",
+    "f0f7ab7513411dc2",
+    "84f781235cae0079",
+    "04cd3d469a70729e",
+    "4dfbcc6cd3b47d60",
+    "05bf5aa979d74ba2",
+    "24ed29514bafcbcb",
+    "802d1a9e916ffeae",
+    "e853284bf9cb273e",
+    "c2d33b86efd0d6e0",
+    "84f781235cae0079",
+    "539834db11c910eb",
+    "d2525c78cf0b978b",
+    "05bf5aa979d74ba2",
+    "f1b0404b3e3b8504",
+    "dbf8c46d705819f2",
+    "262f1a238dd700cc",
+    "572d1dcd7417638f",
+    "2a13c04282bbb259",
+    "27fa45ed439dd8bc",
+    "01aba6b1bb55f9b1",
+    "84f781235cae0079",
+    "021082fbdee309e8",
+    "3efc1a9c733808b0",
+    "05bf5aa979d74ba2",
+    "bd51d5142ac08449",
+    "cc15653d3ecbb2dd",
+    "1e26268e477e362f",
+    "f04a4b4fc1aa99b6",
+    "9beebd665d7f511d",
+    "09b2decd4abbe23c",
+    "348b04f8e94b3ad4",
+    "6ca522390246bac8",
+    "05d3f64c9e2ac192",
+    "7bf3eb6153ac4ac4",
+    "b66f9151b1d03169"
+   ]
+  },
+  {
+   "date": "1999-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:639911:por",
+     "title": "Decreto Regulamentar Regional n.º 22/99/M",
+     "published": "1999-11-30",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/22-1999-639911"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 23.º",
+    "Adita Artigo 23.º-A",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Adita Artigo 29.º"
+   ],
+   "fragments": [
+    "f666bd6d84f12ea8",
+    "f1c4a041e9f12232",
+    "18d68220a1f2b9e3",
+    "7342f7b1dcac3873",
+    "d011b49d57c18b07",
+    "5cb524fedde32917",
+    "396cfe66f6d1ddf2",
+    "949d3a0150f2d49a",
+    "b43c4bf6e1b18345",
+    "f83ca3d5127f03ea",
+    "c302e3c325882fd5",
+    "2e8b405719f9371c",
+    "84f781235cae0079",
+    "03935c6713a68b27",
+    "05bf5aa979d74ba2",
+    "bcb6c071a4a4c299",
+    "262f1a238dd700cc",
+    "4f0fcc9d3cd02128",
+    "64115b81801596f5",
+    "315dc4e8021d90c7",
+    "7879e546b0f556c3",
+    "acea49e160bcbe7d",
+    "84f781235cae0079",
+    "832a5e8ac4a17ac0",
+    "2f00a3abe6fca9a6",
+    "05bf5aa979d74ba2",
+    "946361b4e38e134b",
+    "1f793de085646462",
+    "0a740de26256de82",
+    "f0f7ab7513411dc2",
+    "84f781235cae0079",
+    "04cd3d469a70729e",
+    "4dfbcc6cd3b47d60",
+    "05bf5aa979d74ba2",
+    "24ed29514bafcbcb",
+    "802d1a9e916ffeae",
+    "e853284bf9cb273e",
+    "c2d33b86efd0d6e0",
+    "84f781235cae0079",
+    "539834db11c910eb",
+    "d2525c78cf0b978b",
+    "05bf5aa979d74ba2",
+    "f1b0404b3e3b8504",
+    "dbf8c46d705819f2",
+    "262f1a238dd700cc",
+    "572d1dcd7417638f",
+    "2a13c04282bbb259",
+    "27fa45ed439dd8bc",
+    "01aba6b1bb55f9b1",
+    "84f781235cae0079",
+    "021082fbdee309e8",
+    "3efc1a9c733808b0",
+    "05bf5aa979d74ba2",
+    "bd51d5142ac08449",
+    "cc15653d3ecbb2dd",
+    "1e26268e477e362f",
+    "889283de8360eac7",
+    "132600dc226312cd",
+    "9beebd665d7f511d",
+    "09b2decd4abbe23c",
+    "348b04f8e94b3ad4",
+    "6ca522390246bac8",
+    "05d3f64c9e2ac192",
+    "7bc0c6cf6d1db6af",
+    "7efabdce52fcea3c",
+    "ca74bc4562682516"
+   ]
+  }
+ ],
+ "fragments": {
+  "f666bd6d84f12ea8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprova a orgânica da Direcção Regional do Planeamento\n\nO [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, estabeleceu as bases da orgânica do novo Governo Regional, remetendo para o mesmo a definição das estruturas orgânicas dos respectivos departamentos.\n\nNestes termos, o [Decreto Regulamentar Regional n.º 2-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-a-1997-182203), de 29 de Janeiro, definiu a orgânica, atribuições e funcionamento da Secretaria Regional do Plano e da Coordenação - SRP, que integra a Direcção Regional do Planeamento.\n\nA actual orgânica daquela Direcção Regional, aprovada pelo [Decreto Regulamentar Regional n.º 10/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1993-274413), de 10 de Maio, apresenta-se desajustada face:\n\nAo âmbito mais alargado de atribuições e competências que lhe têm vindo a ser conferidas, decorrentes, sobretudo, das reformulações introduzidas nos regulamentos que definem o processo de atribuição dos fundos estruturais, o qual assenta actualmente numa programação estratégica de médio prazo (privilegiadamente através da integração dos diversos instrumentos de política estrutural) e recorre a sistemas de gestão, acompanhamento e controlo descentralizados e eficazes e a mecanismos de avaliação;\n\nÀ necessidade de reforço de coordenação das intervenções dos fundos comunitários de finalidade estrutural;\n\nÀ criação do Fundo de Coesão em 1993 e respectiva aplicação a Portugal em 1994, de acordo com o previsto no Tratado da União Europeia, o qual contribui financeiramente para a realização de projectos nos domínios do ambiente e das redes transeuropoias de transportes, funcionando de acordo com regras próprias e intervindo através de apoio a projectos;\n\nÀ natureza das tarefas cada vez mais exigentes em conhecimentos especializados que caracterizam actualmente as funções privilegiadas da actividade de planeamento, num contexto de globalização, em que se acentuam as interdependências a nível internacional e em que ocorrem profundas transformações económicas e sociais que deverão ser acompanhadas num posicionamento activo;\n\nÀ necessidade de reforçar mecanismos que assegurem uma afectação eficiente de recursos, numa perspectiva de desenvolvimento sustentável e, particularmente, que promovam o aumento da eficiência e da eficácia na aplicação dos dinheiros públicos.\n\nPelas razões acima referidas, torna-se necessário proceder à definição da orgânica e funcionamento da Direcção Regional do Planeamento, reforçando os seus meios humanos e adoptando uma estrutura organizativa mais ajustada à natureza e complexidade das funções a desenvolver.\n\nAssim, ao abrigo do disposto no n.º 1, alínea d), do artigo 229.º da Constituição da República Portuguesa e da alínea c) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, conjugado com o n.º 2 do artigo 12.º do [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "f1c4a041e9f12232": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovada a orgânica da Direcção Regional do Planeamento, adiante designada, abreviadamente, por DRP, publicada em anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "18d68220a1f2b9e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma entra imediatamente em vigor.\n\nAprovado em Conselho do Governo Regional em 10 de Julho de 1997.\n\nPelo Presidente do Governo Regional, José Paulo Baptista Fontes.\n\nAssinado em 29 de Julho de 1997.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.\n\nORGÂNICA DA DIRECÇÃO REGIONAL DO PLANEAMENTO"
+  },
+  "7342f7b1dcac3873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições"
+  },
+  "d011b49d57c18b07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direcção Regional do Planeamento, adiante designada, abreviadamente, por DRP, é o organismo da Secretaria Regional do Plano e da Coordenação, a que se refere a alínea g) do n.º 2 do artigo 4.º e o artigo 25.º do [Decreto Regulamentar Regional n.º 2-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-a-1997-182203), de 29 de Janeiro, responsável pela preparação, elaboração e acompanhamento da execução do plano regional, pela coordenação das intervenções dos fundos comunitários de finalidade estrutural na Região, pela preparação e execução das acções co-financiadas pelo Fundo Europeu de Desenvolvimento Regional (FEDER) e pelo Fundo de Coesão, bem como pela realização de estudos de base e de índole sócio-económica necessários ao exercício das suas competências e cuja estrutura orgânica, funcionamento e pessoal constam dos artigos seguintes."
+  },
+  "5cb524fedde32917": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições da DRP:\n\na) Analisar a evolução económico-social mundial em geral e comunitária e nacional em particular e acompanhar os estudos de prospectiva realizados no âmbito respectivo;\n\nb) Analisar e acompanhar a evolução económica e social da Região, identificando os principais estrangulamentos e estudando as perspectivas de desenvolvimento da Região, tendo em conta as oportunidades e riscos associados à internacionalização, em estreita ligação com outros serviços da administração regional e com entidades interessadas e vocacionadas para o estudo dos problemas do desenvolvimento regional;\n\nc) Desenvolver os estudos necessários à fundamentação e formulação de propostas relativas às grandes linhas da estratégia de desenvolvimento, integrando e articulando as políticas sectoriais e espaciais, em ordem à preparação dos planos regionais;\n\nd) Coordenar e elaborar a versão final dos planos regionais e das intervenções operacionais de âmbito regional co-financiadas pelos fundos estruturais comunitários, articulando as acções nelas previstas em colaboração com organismos das diversas secretarias regionais e com outras entidades envolvidas;\n\ne) Preparar o enquadramento dos planos e programas sectoriais de desenvolvimento económico;\n\nf) Participar nas acções de definição, selecção e apresentação de projectos de investimento público e privado com vista à sua candidatura a fundos da União Europeia e a outros organismos internacionais de ajuda ao desenvolvimento;\n\ng) Preparar e elaborar a proposta técnica do Programa de Investimentos e Despesas de Desenvolvimento da Administração Regional - PIDDAR e proceder ao acompanhamento e avaliação da sua execução;\n\nh) Propor medidas de apoio à actividade económica no âmbito da Região, participar na sua aplicação e proceder ao acompanhamento e avaliação do respectivo impacte;\n\ni) Assegurar as funções técnico-administrativas inerentes à coordenação da gestão global, ao controlo e ao acompanhamento da execução das intervenções operacionais de âmbito regional com co-financiamento comunitário;\n\nj) Assegurar as funções de apoio técnico, administrativo e financeiro à gestão das acções co-financiadas pelo FEDER e pelo Fundo de Coesão;\n\nl) Promover, em colaboração com a Direcção-Geral de Desenvolvimento Regional (DGDR), a aplicação à Região dos regulamentos relativos ao FEDER e ao Fundo de Coesão;\n\nm) Participar no processo de controlo da aplicação à Região dos recursos relativos ao FEDER e ao Fundo de Coesão;\n\nn) Promover a avaliação do impacte e dos efeitos de aplicação dos instrumentos de desenvolvimento, em particular das intervenções operacionais co-financiadas pelos fundos estruturais comunitários e pelo Fundo de Coesão, em estreita articulação com os departamentos mais directamente envolvidos;\n\no) Estabelecer a necessária ligação aos organismos de planeamento do desenvolvimento regional e cooperar com outras entidades no domínio das suas actividades;\n\np) Assegurar a representação da Região nos órgãos de planeamento de âmbito nacional e nos órgãos de gestão e acompanhamento do Quadro Comunitário de Apoio (QCA);\n\nq) Promover a cooperação com os serviços regionais de estatística, tendo em vista o desenvolvimento de planos de actividade estatística com interesse para a Região;\n\nr) Assegurar o funcionamento de um centro de informação e documentação, ao qual incumbirá recolher, analisar e manter actualizados a documentação e informação técnica necessária à actividade de planeamento e manter ligações com serviços idênticos de outras entidades;\n\ns) Assegurar o exercício das competências legalmente atribuídas à DRP, no âmbito do ordenamento do território;\n\nt) Promover a difusão de estudos e trabalhos elaborados no âmbito da competência da DRP ou com a sua colaboração;\n\nu) Assegurar a divulgação de normas e procedimentos relativos às intervenções operacionais de âmbito regional ou sectorial."
+  },
+  "396cfe66f6d1ddf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços"
+  },
+  "a605bfbe154c58bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura\n\n1 - A DRP é dirigida por um director equiparado para todos os efeitos a director regional, ao qual compete, além das competências que lhe são genericamente atribuídas pela lei geral, as competências específicas que constam deste diploma.\n\n2 - A DRP compreende os seguintes serviços:\n\na) Órgãos de concepção e apoio;\n\nb) Direcção de Serviços de Estudos e Planeamento;\n\nc) Direcção de Serviços de Investimentos do Sector Público Administrativo;\n\nd) Direcção de Serviços de Fundos Comunitários;\n\ne) Direcção de Serviços de Acompanhamento, Controlo e Avaliação;\n\nf) Repartição de Serviços Administrativos e de Contabilidade."
+  },
+  "b43c4bf6e1b18345": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Do director regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Do director regional"
+  },
+  "f83ca3d5127f03ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - No desempenho das suas funções, compete, designadamente, ao director regional:\n\na) Dirigir e coordenar as actividades da DRP nas suas diferentes áreas;\n\nb) Promover a elaboração das normas e regulamentos necessários ao cumprimento das atribuições que estão cometidas à DRP;\n\nc) Acompanhar e coordenar as negociações das intervenções operacionais de âmbito regional, bem como os contactos técnicos com a Comissão das Comunidades Europeias;\n\nd) Assegurar a representação externa da DRP;\n\ne) Propor o orçamento anual da DRP;\n\nf) Apresentar o plano e o relatório anual de actividades;\n\ng) Exercer as demais competências que lhe forem atribuídas ou que lhe forem delegadas pelo membro do Governo responsável pelo departamento governamental em que se integra a DRP.\n\n2 - O director regional é substituído nas suas ausências e impedimentos pelo dirigente para o efeito designado.\n\n3 - O director regional pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia."
+  },
+  "c302e3c325882fd5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Órgãos de concepção e apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Órgãos de concepção e apoio"
+  },
+  "2e8b405719f9371c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estrutura\n\n1 - Os órgãos de concepção e apoio da DRP são os seguintes:\n\na) Gabinete de Ordenamento do Território;\n\nb) Gabinete de Coordenação das Intervenções Comunitárias;\n\nc) Gabinete de Apoio Jurídico;\n\nd) Centro de Informação e Documentação.\n\n2 - Os órgãos a que se referem as alíneas a), b) e c) do número anterior são dirigidos por um chefe de divisão.\n\n3 - Os órgãos citados no n.º 1 funcionam na directa dependência do director regional."
+  },
+  "84f781235cae0079": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I"
+  },
+  "03935c6713a68b27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nGabinete de Ordenamento do Território\n\n1 - O Gabinete de Ordenamento do Território - GOT e o órgão de acompanhamento do processo de desenvolvimento e organização territorial.\n\n2 - Ao GOT compete:\n\na) Desenvolver os estudos necessários ao conhecimento do processo de desenvolvimento e de ocupação do espaço regional e das interdependências territoriais;\n\nb) Estudar os comportamentos de localização dos diferentes agentes económicos e sociais;\n\nc) Perspectivar tendências de estruturação regional face às tendências de desenvolvimento e de organização do espaço a nível nacional e comunitário;\n\nd) Acompanhar as acções sectoriais e avaliar o impacte das políticas globais e sectoriais, bem como dos programas e projectos de desenvolvimento no ordenamento do território;\n\ne) Elaborar estudos estratégicos relativos ao ordenamento do território, na perspectiva da optimização e racionalização da ocupação do espaço, com vista ao seu desenvolvimento integrado, harmonioso e sustentável."
+  },
+  "05bf5aa979d74ba2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II"
+  },
+  "bcb6c071a4a4c299": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nGabinete de Coordenação das Intervenções Comunitárias\n\n1 - O Gabinete de Coordenação das Intervenções Comunitárias - GACIC é o órgão que promove a coordenação dos diversos instrumentos de finalidade estrutural.\n\n2 - Ao GACIC compete:\n\na) Assegurar o exercício das competências da DRP no que respeita à participação nos órgãos de gestão, acompanhamento e controlo das intervenções operacionais de âmbito regional ou sectorial;\n\nb) Apoiar tecnicamente o exercício das competências da DRP em matéria de gestão e acompanhamento global do Programa Operacional Plurifundos para a RAM;\n\nc) Reunir e sistematizar as informações relativas às intervenções co-financiadas na Região pelos Fundos Comunitários com finalidade estrutural;\n\nd) Acompanhar o processo de transferências financeiras comunitárias;\n\ne) Desenvolver, em estreita ligação com os departamentos envolvidos, metodologias de acompanhamento das intervenções operacionais de âmbito regional;\n\nf) Promover a edição de estudos e trabalhos relacionados com as intervenções comunitárias, elaborados no âmbito da DRP ou com a sua colaboração;\n\ng) Sistematizar e normalizar a recolha de informação relacionada com as intervenções comunitárias da competência da DRP, em colaboração com as diferentes entidades;\n\nh) Propor as medidas de correcção que venham a revelar-se necessárias face a eventuais desvios na evolução das intervenções operacionais;\n\ni) Participar na avaliação do impacte e dos efeitos das intervenções operacionais de âmbito regional incluídas no QCA, em estreita ligação com os departamentos mais directamente envolvidos;\n\nj) Colaborar na preparação da informação e assegurar a divulgação de normas e procedimentos relativos às intervenções comunitárias de âmbito regional ou sectorial."
+  },
+  "262f1a238dd700cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III"
+  },
+  "4f0fcc9d3cd02128": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nGabinete de Apoio Jurídico\n\n1 - O Gabinete de Apoio Jurídico - GAJ é um órgão com funções exclusivamente de mera consulta jurídica, emitindo pareceres e elaborando estudos jurídicos.\n\n2 - Ao GAJ compete:\n\na) Emitir pareceres e elaborar estudos jurídicos sobre todas as matérias da competência da DRP;\n\nb) Emitir pareceres sobre propostas de portarias, de decretos regulamentares regionais e de decretos legislativos regionais, com incidência no desenvolvimento regional;\n\nc) Participar na elaboração de pareceres de projectos e propostas de outros diplomas legislativos."
+  },
+  "64115b81801596f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV"
+  },
+  "315dc4e8021d90c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nCentro de Informação e Documentação\n\n1 - O Centro de Informação e Documentação - CID é o órgão de apoio informativo e documental da DRP.\n\n2 - Ao CID compete:\n\na) Recolher, analisar, tratar e difundir a documentação e a informação técnica necessária à actividade da DRP;\n\nb) Organizar e manter actualizados os ficheiros da documentação existentes, ou outros, necessários ao bom funcionamento do serviço;\n\nc) Propor e providenciar a aquisição de livros, revistas, jornais e outros documentos técnicos de interesse para os serviços;\n\nd) Cooperar com serviços idênticos de outras entidades."
+  },
+  "7879e546b0f556c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Direcção de Serviços de Estudos e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Direcção de Serviços de Estudos e Planeamento"
+  },
+  "acea49e160bcbe7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competências e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências e estrutura\n\n1 - Compete à Direcção de Serviços de Estudos e Planeamento - DSEP, designadamente:\n\na) Analisar tendências de evolução da economia mundial com especial relevância para a Região e para a sua inserção internacional;\n\nb) Acompanhar a evolução da economia nacional e mundial com destaque para as economias dos países que integram a União Europeia;\n\nc) Acompanhar a evolução económica e social da Região através de indicadores adequados ou de estudos específicos;\n\nd) Promover estudos e actividades tendo em vista perspectivar o desenvolvimento da Região e identificar as condições de inserção equilibrada nas economias mundial, europeia e nacional em ordem a fundamentar as grandes opções de desenvolvimento económico e social;\n\ne) Contribuir para a concepção de estratégias de desenvolvimento e de especialização produtiva, em estreita articulação com as entidades sectoriais responsáveis;\n\nf) Participar na definição de medidas de carácter global e sectorial, nomeadamente medidas de apoio à actividade económica a incluir em cada plano;\n\ng) Colaborar na avaliação do impacte sócio-económico dos programas de desenvolvimento;\n\nh) Analisar o impacte da política de investimento a nível global, sectorial e intra-regional;\n\ni) Manter actualizada uma base de dados sócio-económicos que permita a caracterização da realização da realidade regional, em estreita articulação com os organismos com competência na área da estatística;\n\nj) Preparar a informação e assegurar a divulgação de normas e procedimentos relativos às intervenções operacionais de âmbito regional ou sectorial;\n\nl) Promover a edição de estudos e trabalhos relacionados com as intervenções operacionais, elaborados no âmbito da DRP ou com a sua colaboração.\n\n2 - A DSEP compreende os seguintes serviços:\n\na) Divisão de Estudos;\n\nb) Divisão de Planeamento."
+  },
+  "832a5e8ac4a17ac0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Estudos"
+  },
+  "2f00a3abe6fca9a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências\n\nÀ Divisão de Estudos - DES compete:\n\na) Analisar tendências de evolução da economia mundial com especial relevância para a Região e para a sua inserção internacional;\n\nb) Acompanhar a evolução da economia nacional e mundial com destaque para as economias dos países que integram a União Europeia;\n\nc) Acompanhar a evolução económica e social da Região através de indicadores adequados ou de estudos específicos;\n\nd) Colaborar na avaliação do impacte sócio-económico dos programas de desenvolvimento;\n\ne) Analisar o impacte da política de investimento a nível global, sectorial e intra-regional;\n\nf) Manter actualizada uma base de dados sócio-económicos que permita a caracterização da realidade regional em estreita articulação com os organismos com competência na área da estatística."
+  },
+  "946361b4e38e134b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Planeamento"
+  },
+  "1f793de085646462": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências\n\nÀ Divisão de Planeamento - DPLA compete:\n\na) Promover estudos e actividades tendo em vista perspectivar o desenvolvimento da Região e identificar as condições de inserção equilibrada nas economias mundial, europeia e nacional em ordem a fundamentar as grandes opções de desenvolvimento económico e social;\n\nb) Contribuir para a concepção de estratégias de desenvolvimento e de especialização produtiva, em estreita articulação com as entidades sectoriais responsáveis;\n\nc) Participar na definição de medidas de carácter global e sectorial, nomeadamente medidas de apoio à actividade económica a incluir em cada plano."
+  },
+  "0a740de26256de82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Direcção de Serviços de Investimentos do Sector Público Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Direcção de Serviços de Investimentos do Sector Público Administrativo"
+  },
+  "f0f7ab7513411dc2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Competências e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências e estrutura\n\n1 - Compete à Direcção de Serviços de Investimentos do Sector Público Administrativo - DSISPA, designadamente:\n\na) Participar no processo de definição do enquadramento e da estratégia da política de investimento público;\n\nb) Promover a eficiência de aplicação dos dinheiros públicos na execução da política de desenvolvimento adoptada;\n\nc) Preparar e elaborar a proposta técnica do Programa de Investimentos e Despesas de Desenvolvimento da Administração Regional (PIDDAR);\n\nd) Promover estudos metodológicos para a definição dos critérios de programação dos investimentos públicos;\n\ne) Proceder ao acompanhamento da execução financeira e física e à avaliação dos programas e projectos da administração regional;\n\nf) Efectuar o controlo da execução financeira dos programas e projectos incluídos no plano em estreita colaboração com os organismos envolvidos;\n\ng) Participar na elaboração de estudos no campo do investimento público face às tendências prováveis da evolução económico-social, recolhendo, sistematizando e analisando a informação disponível nesta área;\n\nh) Preparar o programa de investimentos, anual e plurianual, da Secretaria Regional do Plano e da Coordenação em colaboração com os restantes organismos da Secretaria e acompanhar a execução financeira e material dos programas e projectos que dele fazem parte;\n\ni) Colaborar com os órgãos de gestão, acompanhamento e controlo das intervenções operacionais que impliquem a afectação de meios financeiros ao programa de investimentos.\n\n2 - A DSISPA compreende os seguintes serviços:\n\na) Divisão de Coordenação, Acompanhamento e Avaliação dos Programas e Projectos;\n\nb) Divisão de Controlo da Execução Financeira do PIDDAR."
+  },
+  "04cd3d469a70729e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Coordenação, Acompanhamento e Avaliação dos Programas e Projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Coordenação, Acompanhamento e Avaliação dos Programas e Projectos"
+  },
+  "4dfbcc6cd3b47d60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências\n\nÀ Divisão de Coordenação, Acompanhamento e Avaliação dos Programas e Projectos - DCAAPP compete:\n\na) Desenvolver metodologias de apresentação, acompanhamento e avaliação dos programas e projectos de investimento a incluir no PIDDAR, em colaboração com outros organismos;\n\nb) Proceder à apreciação dos projectos de investimento da administração regional;\n\nc) Proceder ao acompanhamento da execução física e financeira dos projectos de investimento da administração regional;\n\nd) Elaborar e manter actualizado um painel de indicadores de realização física dos principais programas do PIDDAR, em colaboração com os departamentos envolvidos;\n\ne) Desenvolver e promover estudos de impacte dos grandes projectos do PIDDAR;\n\nf) Colaborar na definição de metodologias visando a elaboração e alimentação de um painel de indicadores sobre o investimento público;\n\ng) Desenvolver e promover estudos de análise do investimento público e do seu impacte na evolução sócio-económica da Região."
+  },
+  "24ed29514bafcbcb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Controlo da Execução Financeira do PIDDAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Controlo da Execução Financeira do PIDDAR"
+  },
+  "802d1a9e916ffeae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competências\n\nÀ Divisão de Controlo da Execução Financeira do PIDDAR - DCEF compete:\n\na) Acompanhar a execução financeira do PIDDAR em estreita colaboração com os organismos mais directamente envolvidos;\n\nb) Participar na preparação da programação financeira dos investimentos do Plano;\n\nc) Preparar o programa de investimentos da Secretaria Regional do Plano e da Coordenação em colaboração com os restantes organismos da Secretaria e acompanhar a sua execução financeira e material;\n\nd) Colaborar na elaboração dos relatórios de execução do PIDDAR."
+  },
+  "e853284bf9cb273e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Direcção de Serviços de Fundos Comunitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Direcção de Serviços de Fundos Comunitários"
+  },
+  "c2d33b86efd0d6e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Competências e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências e estrutura\n\n1 - São competências da Direcção de Serviços de Fundos Comunitários - DSEFUC, designadamente:\n\na) Colaborar nas actividades necessárias à preparação dos instrumentos de planeamento no âmbito da formulação e execução da política regional, nacional e comunitária;\n\nb) Apoiar tecnicamente o exercício das competências da DRP em matéria de execução e acompanhamento dos programas/projectos co-financiados pela União Europeia, designadamente o Programa Operacional Plurifundos da Região Autónoma da Madeira - POPRAM;\n\nc) Reunir e sistematizar as informações relativas às intervenções co-financiadas pelos fundos comunitários com finalidade estrutural;\n\nd) Coordenar a preparação dos relatórios de execução dos programas/projectos co-financiados pela União Europeia;\n\ne) Acompanhar o processo de transferências financeiras comunitárias em colaboração com os outros organismos intervenientes no processo;\n\nf) Formalizar os pedidos de pagamento das contribuições do FEDER e do Fundo de Coesão;\n\ng) Assegurar o controlo contabilístico-financeiro dos pedidos de pagamento dos projectos co-financiados pela União Europeia, em particular pelo FEDER e pelo Fundo de Coesão;\n\nh) Colaborar com a DGDR no estabelecimento de normas sobre a preparação de candidaturas ao Fundo de Coesão;\n\ni) Promover as acções necessárias à apresentação de pedidos de contribuição ao Fundo de Coesão, sob a forma de projectos ou estudos, e assegurar, em ligação com as entidades responsáveis pela sua execução, a transmissão de quaisquer informações ou esclarecimentos complementares;\n\nj) Dinamizar a implementação e desenvolvimento, na RAM, dos programas de iniciativa comunitária, em articulação com as entidades responsáveis pela respectiva gestão e coordenação;\n\nl) Elaborar propostas ou colaborar na promoção de iniciativas adequadas a incentivar o desenvolvimento produtivo regional, no que respeita às intervenções dirigidas aos beneficiários privados;\n\nm) Preparar a informação e assegurar a divulgação de normas e procedimentos relativos às intervenções comunitárias de âmbito regional ou sectorial.\n\n2 - A DSEFUC compreende os seguintes serviços:\n\na) Divisão do POPRAM;\n\nb) Divisão de Incentivos Regionais;\n\nc) Divisão do Fundo de Coesão e Iniciativas Comunitárias."
+  },
+  "539834db11c910eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão do POPRAM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão do POPRAM"
+  },
+  "d2525c78cf0b978b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências\n\nÀ Divisão do POPRAM - DIP compete:\n\na) Assegurar o exercício das competências atribuídas à DRP no que se refere à aplicação dos recursos do POPRAM;\n\nb) Analisar e dar parecer sobre o interesse regional dos projectos candidatos a comparticipação comunitária;\n\nc) Formalizar os pedidos de pagamentos das contribuições do FEDER;\n\nd) Assegurar a verificação dos pedidos de pagamento dos projectos co-financiados pela União Europeia, em particular pelo FEDER;\n\ne) Acompanhar o processo de transferências financeiras comunitárias;\n\nf) Elaborar os relatórios de execução e acompanhamento do POPRAM."
+  },
+  "f1b0404b3e3b8504": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Incentivos Regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Incentivos Regionais"
+  },
+  "dbf8c46d705819f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competências\n\nÀ Divisão de Incentivos Regionais - DIR compete:\n\na) Apoiar tecnicamente o exercício das competências da DRP em matéria de divulgação dos incentivos de âmbito regional;\n\nb) Assegurar o exercício das competências da DRP no que respeita à participação nos órgãos de gestão, acompanhamento e controlo dos incentivos de finalidade regional;\n\nc) Participar na análise e elaboração de parecer sobre o interesse regional dos projectos candidatos a comparticipação da comunidade;\n\nd) Desenvolver, em estreita ligação com os organismos envolvidos, metodologias de acompanhamento dos incentivos de âmbito regional;\n\ne) Colaborar na preparação da informação e assegurar a divulgação de normas e procedimentos relativos aos incentivos de finalidade regional;\n\nf) Colaborar na preparação dos pedidos de financiamento para os estudos e medidas de assistência técnica relacionados com os incentivos regionais."
+  },
+  "572d1dcd7417638f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão do Fundo de Coesão e Iniciativas Comunitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão do Fundo de Coesão e Iniciativas Comunitárias"
+  },
+  "2a13c04282bbb259": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competências\n\nÀ Divisão do Fundo de Coesão e Iniciativas Comunitárias - DFUCIC compete:\n\na) Acompanhar os processos de instrução e aprovação das candidaturas pela Comissão Europeia e adoptar as medidas necessárias para assegurar uma adequada publicidade às contribuições do Fundo de Coesão;\n\nb) Promover a preparação dos pedidos de pagamento das contribuições do Fundo de Coesão e das iniciativas comunitárias, bem como a sua transmissão aos organismos competentes;\n\nc) Assegurar a verificação dos pedidos de pagamento dos projectos co-financiados pela União Europeia, em particular pelo Fundo de Coesão e pelas iniciativas comunitárias;\n\nd) Organizar e manter actualizadas as informações relativas aos projectos e estudos comparticipados pelo Fundo de Coesão e pelas iniciativas comunitárias;\n\ne) Apoiar as entidades interessadas fornecendo todas as informações necessárias à apresentação e desenvolvimento dos projectos tanto no âmbito do Fundo de Coesão como das iniciativas comunitárias."
+  },
+  "27fa45ed439dd8bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Direcção de Serviços de Acompanhamento, Controlo e Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Direcção de Serviços de Acompanhamento, Controlo e Avaliação"
+  },
+  "01aba6b1bb55f9b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Competências e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências e estrutura\n\n1 - Compete à Direcção de Serviços de Acompanhamento, Controlo e Avaliação - DSACA, designadamente:\n\na) Desenvolver, em estreita ligação com os departamentos envolvidos, metodologias de acompanhamento das intervenções operacionais de âmbito regional;\n\nb) Promover, em cooperação com a DGDR, a adopção das medidas e acções necessárias à eficácia dos controlos nacionais e comunitários a nível da Região, no que respeita aos projectos e programas de investimento co-financiados pelo FEDER e pelo Fundo de Coesão e garantir o seu cumprimento;\n\nc) Analisar, o impacte físico das intervenções operacionais, em particular as apoiadas pelo FEDER e pelo Fundo de Coesão;\n\nd) Propor as medidas de correcção que venham a revelar-se necessárias face a eventuais desvios na evolução das intervenções operacionais;\n\ne) Colaborar na concepção e divulgação da metodologia de avaliação dos programas de investimento público co-financiados pelos fundos estruturais comunitários e, em particular, pelo FEDER;\n\nf) Promover a avaliação, designadamente através do recurso a consultores externos, do impacte e dos efeitos das intervenções operacionais na Região, em estreita ligação com os departamentos mais directamente envolvidos.\n\n2 - A DSACA compreende os seguintes serviços:\n\na) Divisão de Acompanhamento e Controlo;\n\nb) Divisão de Avaliação."
+  },
+  "021082fbdee309e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Acompanhamento e Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Acompanhamento e Controlo"
+  },
+  "3efc1a9c733808b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competências\n\nÀ Divisão de Acompanhamento e Controlo - DAC compete:\n\na) Promover acções de acompanhamento técnico dos fundos estruturais, podendo, sempre que necessário, solicitar a colaboração de outras entidades;\n\nb) Promover o acompanhamento factual dos pedidos de financiamento dos fundos estruturais;\n\nc) Garantir o controlo contabilístico-financeiro durante a execução dos projectos;\n\nd) Propor a adopção das medidas adequadas tendo em vista a melhoria dos níveis de eficiência e eficácia dos apoios concedidos e garantir o cumprimento das decisões de aprovação."
+  },
+  "bd51d5142ac08449": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Avaliação"
+  },
+  "cc15653d3ecbb2dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competências\n\nÀ Divisão de Avaliação - DAV compete:\n\na) Colaborar na concepção e divulgação da metodologia de avaliação dos programas de investimento público co-financiados pelos fundos estruturais comunitários e, em particular, pelo FEDER e pelo Fundo de Coesão;\n\nb) Participar no processo de avaliação, designadamente através do recurso a consultores externos, do impacte e dos efeitos das intervenções operacionais em execução na Região, em estreita ligação com os departamentos mais directamente envolvidos."
+  },
+  "1e26268e477e362f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Repartição de Serviços Administrativos e de Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Repartição de Serviços Administrativos e de Contabilidade"
+  },
+  "f04a4b4fc1aa99b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Competências e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competências e estrutura\n\n1 - À Repartição de Serviços Administrativos e de Contabilidade - RSAC compete:\n\na) Organizar e executar o serviço de expediente geral, registo, reprodução de documentos e arquivo, incluindo os processos dos projectos com comparticipação comunitária;\n\nb) Organizar e manter actualizados o ficheiro e o registo biográfico do pessoal da DRP;\n\nc) Executar os projectos de orçamento de despesa;\n\nd) Elaborar a informação que permita verificar e controlar o processamento das despesas;\n\ne) Promover as aquisições de bens e serviços necessários ao bom funcionamento da DRP;\n\nf) Organizar e manter actualizada a contabilidade, conferindo, processando e liquidando as despesas relativas à execução dos orçamentos;\n\ng) Assegurar o serviço de economato e organizar e manter actualizado o inventário dos bens móveis e assegurar a gestão, conservação e segurança dos bens móveis e imóveis, equipamentos, instalações e meios de comunicação;\n\nh) Superintender o pessoal auxiliar e coordenar a organização do respectivo trabalho;\n\ni) Realizar tarefas relacionadas com o tratamento da documentação.\n\n2 - A RSAC compreende quatro secções:\n\na) Secção de Pessoal, Expediente Geral e Arquivo;\n\nb) Secção de Contabilidade, Economato e Património;\n\nc) Secção de Apoio ao Centro de Informação e Documentação;\n\nd) Secção de Apoio Administrativo aos Fundos Estruturais e Comunitários."
+  },
+  "9beebd665d7f511d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Do pessoal"
+  },
+  "09b2decd4abbe23c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Quadro de pessoal\n\n1 - O pessoal do quadro da DRP é agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico;\n\nd) Pessoal de chefia;\n\ne) Pessoal administrativo;\n\nf) Pessoal auxiliar.\n\n2 - O quadro de pessoal da DRP é o constante do mapa anexo ao presente diploma."
+  },
+  "348b04f8e94b3ad4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Regime do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regime do pessoal\n\nO regime aplicável ao pessoal da DRP é o genericamente estabelecido para os trabalhadores da administração regional autónoma."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "05d3f64c9e2ac192": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Funcionamento\n\n1 - O funcionamento dos serviços da DRP deverá processar-se por equipas de projectos ou grupos de trabalho, sempre que a natureza dos objectivos o aconselhar.\n\n2 - A acção dos serviços da DRP será conjunta na realização dos projectos comuns."
+  },
+  "7bf3eb6153ac4ac4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Concursos e estágios pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Concursos e estágios pendentes\n\n1 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os correspondentes aos que constam do mapa anexo a este diploma.\n\n2 - Os actuais estagiários prosseguem os respectivos estágios, transitando, findos os mesmos, se neles obtiverem aproveitamento, para as categorias objecto de concurso e constantes do quadro anexo ao presente diploma."
+  },
+  "b66f9151b1d03169": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Norma revogatória\n\nSão revogadas as disposições do [Decreto Regulamentar Regional n.º 10/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1993-274413), de 10 de Maio.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b03/00120019.pdf)"
+  },
+  "949d3a0150f2d49a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30."
+   ],
+   "markdown": "###### Artigo 3.º — Estrutura\n\n1 - A DRP é dirigida por um director equiparado para todos os efeitos a director regional, ao qual compete, além das competências que lhe são genericamente atribuídas pela lei geral, as competências específicas que constam deste diploma.\n\n2 - A DRP compreende os seguintes serviços:\n\na) Órgãos de concepção e apoio;\n\nb) Direcção de Serviços de Estudos e Planeamento;\n\nc) Direcção de Serviços de Investimentos do Sector Público Administrativo;\n\nd) Direcção de Serviços de Fundos Comunitários;\n\ne) Direcção de Serviços de Acompanhamento, Controlo e Avaliação;\n\nf) Departamento Administrativo, de Pessoal e de Contabilidade.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30."
+  },
+  "889283de8360eac7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Natureza e atribuições",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30."
+   ],
+   "markdown": "###### Artigo 23.º — Natureza e atribuições\n\nO Departamento Administrativo, de Pessoal e de Contabilidade, abreviadamente designado por DAPC, é o órgão de apoio e de execução técnico administrativo ao director regional e serviços de apoio, que tem por atribuições assegurar o apoio administrativo nos actos de administração geral, de pessoal, contabilidade, património, fundos estruturais e comunitários.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30."
+  },
+  "132600dc226312cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º-A — Competências",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Aditado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30."
+   ],
+   "markdown": "###### Artigo 23.º-A — Competências\n\n1 - Ao DAPC compete, designadamente:\n\na) Organizar e executar o serviço de expediente geral, registo, reprodução de documentos e arquivo;\n\nb) Organizar e manter actualizado o ficheiro e o registo biográfico do pessoal da DRP;\n\nc) Assegurar a execução de procedimentos administrativos relativos ao recrutamento, selecção, nomeação, contratação, promoção, progressão, mobilidade, aposentação e exoneração ou demissão do pessoal da DRP;\n\nd) Assegurar a organização do processo anual de classificação de serviço do pessoal da DRP;\n\ne) Efectuar o processamento de vencimentos e outras remunerações devidas ao pessoal;\n\nf) Elaborar os documentos que sirvam de suporte ao tratamento informático das remunerações e abonos e respectivos descontos;\n\ng) Elaborar a proposta anual de orçamento;\n\nh) Instruir processos que permitam verificar e controlar o processamento das despesas, nomeadamente quanto à sua legalidade e respectivo cabimento;\n\ni) Promover as aquisições de bens e serviços necessários ao bom funcionamento da DRP;\n\nj) Organizar e manter actualizada a contabilidade, conferindo, processando e liquidando as despesas relativas à execução dos orçamentos;\n\nl) Assegurar o serviço de economato e organizar e manter actualizado o inventário dos bens móveis e assegurar a gestão, conservação e segurança dos bens móveis e imóveis, equipamentos, instalações e meios de comunicação;\n\nm) Organizar os processos/dossiers específicos dos projectos comparticipados pelo FEDER, Fundo de Coesão e iniciativas comunitárias;\n\nn) Recepcionar as candidaturas, os pedidos de pagamento e relatórios de execução dos projectos co-financiados pela União Europeia;\n\no) Dar apoio logístico à realização de reuniões, nomeadamente comissões de selecção de projectos, unidades de gestão e comités (unidades) de acompanhamento de programas co-financiados pela União Europeia;\n\np) Organizar a legislação e mantê-la permanentemente actualizada;\n\nq) Realizar tarefas relacionadas com o tratamento da documentação;\n\nr) Superintender o pessoal auxiliar e coordenar o respectivo trabalho.\n\n2 - O DAPC compreende cinco secções:\n\na) Secção de Expediente Geral e Arquivo;\n\nb) Secção de Pessoal;\n\nc) Secção de Contabilidade, Economato e Património;\n\nd) Secção de Apoio Administrativo aos Fundos Comunitários;\n\ne) Secção de Apoio ao Centro de Informação e de Documentação.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30."
+  },
+  "7bc0c6cf6d1db6af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Concursos e estágios pendentes",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30."
+   ],
+   "markdown": "###### Artigo 27.º — Concursos e estágios pendentes\n\n1 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm a sua validade, sendo os lugares a prover os constantes do mapa anexo ao presente diploma.\n\n2 - Os actuais estagiários prosseguem os respectivos estágios, ingressando findos os mesmos, e se nele ficarem aprovados, nas categorias constantes dos mapas anexos ao presente diploma.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30."
+  },
+  "7efabdce52fcea3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Regras de transição a chefe de departamento",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30."
+   ],
+   "markdown": "###### Artigo 28.º — Regras de transição a chefe de departamento\n\n1 - O chefe de repartição transita, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.\n\n2 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontra posicionado.\n\n3 - Quando da transição resultar um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeito de progressões futuras.\n\n4 - A transição produz efeitos a partir da data de integração na nova categoria.\n\n5 - O lugar de chefe de departamento é a extinguir quando vagar.\n\n6 - O disposto no presente artigo não prejudica a faculdade de o actual chefe de repartição optar pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30."
+  },
+  "ca74bc4562682516": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Aditado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30."
+   ],
+   "markdown": "###### Artigo 29.º\n\nO quadro de pessoal anexo ao [Decreto Regulamentar Regional n.º 14-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-a-1997-363920), de 29 de Julho, é alterado de acordo com o mapa anexo ao presente diploma.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30."
+  }
+ }
+}

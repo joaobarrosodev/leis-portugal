@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-07-09'
+version_history:
+  file: portaria-276-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-04-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-07-09'
+    amending: pt:dre:424146:por
+    amending_title: Portaria n.º 239/96
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/276/1995/04/06/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:58:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 239/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-276-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +155,9 @@ Manda o Governo, pelo Ministro do Mar, o seguinte:
 
 2.º A actualização dos montantes dos subsídios de turno e de isenção de horário de trabalho, calculados, respectivamente, nos termos do n.º 1 do n.º 1.º e do n.º 1 do n.º 9.º da [Portaria n.º 493/88](https://diariodarepublica.pt/dr/detalhe/portaria/493-1988-378489), de 27 de Julho, só produzirá efeitos a partir de 1 de Agosto de 1995, mantendo-se até então os valores resultantes da aplicação do n.º 2.º da [Portaria n.º 229/94](https://diariodarepublica.pt/dr/detalhe/portaria/229-1994-266076), de 15 de Abril.
 
-3.º A remuneração horária para efeito de trabalho extraordinário, subsídio de prevenção e subsídio compensatório do trabalho por turnos mantém os valores resultantes da aplicação dos n.os 2.º e 3.º da [Portaria n.º 229/94](https://diariodarepublica.pt/dr/detalhe/portaria/229-1994-266076), de 15 de Abril.
+3.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 239/96](https://diariodarepublica.pt/dr/detalhe/portaria/239-1996-424146), publicado em 1996-07-04.
 
 4.º É aditado o n.º 5 ao n.º 9.º da [Portaria n.º 493/88](https://diariodarepublica.pt/dr/detalhe/portaria/493-1988-378489), de 27 de Julho, que terá a seguinte redacção:
 

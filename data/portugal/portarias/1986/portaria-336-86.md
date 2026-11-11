@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-07-12'
+version_history:
+  file: portaria-336-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-07-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-07-12'
+    amending: pt:dre:345293:por
+    amending_title: Portaria n.º 566-A/87
+    changes:
+    - Altera Artigo unidades 29-29
+    - Altera Artigo unidades 63-63
+    - Adita Artigo depois da unidade 75
 identifiers:
   celex: null
   eli: null
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:46:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 566-A/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-336-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -167,7 +184,9 @@ O número de embalagem do lote, entendendo-se por lote de fabrico a quantidade d
 
 8.º Os fabricantes só podem entregar ao organismo de intervenção manteiga da sua própria produção.
 
-9.º O pagamento da manteiga é efectuado no prazo de 60 dias a contar da data da entrega do produto ao organismo de intervenção.
+9.º O pagamento da manteiga é efectuado pelo organismo de intervenção entre os 90 e os 120 dias seguintes à data da entrega do produto no entreposto frigorífico.
+
+> Alterado pelo/a [Portaria n.º 566-A/87](https://diariodarepublica.pt/dr/detalhe/portaria/566-a-1987-345293), publicado em 1987-07-07.
 
 10.º Sempre que o produto apresentado à intervenção não estiver conforme com as normas de qualidade exigidas nos termos desta portaria o vendedor deverá:
 
@@ -235,7 +254,9 @@ O número da embalagem do lote, entendendo-se por lote de fabrico a quantidade d
 
 23.º Os fabricantes só podem entregar ao organismo de intervenção leite em pó magro da sua própria produção.
 
-24.º O pagamento do leite em pó é efectuado num prazo de 60 dias a contar da data da entrega do produto ao organismo de intervenção.
+24.º O pagamento do leite em pó é efectuado pelo organismo de intervenção entre os 90 e os 120 dias seguintes à data da entrega do produto no armazém.
+
+> Alterado pelo/a [Portaria n.º 566-A/87](https://diariodarepublica.pt/dr/detalhe/portaria/566-a-1987-345293), publicado em 1987-07-07.
 
 25.º Sempre que o produto apresentado à intervenção não estiver conforme com as normas de qualidade exigidas nos termos desta portaria o vendedor deverá:
 
@@ -260,6 +281,10 @@ c) Se o pagamento já tiver sido efectuado, as despesas financeiras são calcula
 29.º As ofertas apresentadas com vista a uma adjudicação só serão tomadas em consideração mediante a constituição de uma caução a determinar pelo organismo de intervenção.
 
 30.º O leite em pó só pode ser armazenado em armazéns designados pelo organismo de intervenção.
+
+31.º O Governo, nos despachos referidos nos n.os 7.º e 22.º desta portaria, poderá prever ainda outras condições de aplicação do regime de intervenção que visem suspender a aceitação de pedidos de compra ao organismo de intervenção, designadamente quando forem ultrapassados os limites quantitativos fixados para a compra por aquele organismo de intervenção, sem que, no mercado, os preços tenham descido em correspondência com o excesso de produção verificado.
+
+> Aditado pelo/a [Portaria n.º 566-A/87](https://diariodarepublica.pt/dr/detalhe/portaria/566-a-1987-345293), publicado em 1987-07-07.
 
 Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
 

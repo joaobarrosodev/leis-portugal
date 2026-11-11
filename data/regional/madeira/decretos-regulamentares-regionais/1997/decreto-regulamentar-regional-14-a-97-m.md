@@ -28,10 +28,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-12-01'
+version_history:
+  file: decreto-regulamentar-regional-14-a-97-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-12-01'
+    amending: pt:dre:639911:por
+    amending_title: Decreto Regulamentar Regional n.º 22/99/M
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 23.º
+    - Adita Artigo 23.º-A
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Adita Artigo 29.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/14-a/1997/07/29/m/dre/pt/html
@@ -57,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    22/99/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1997/decreto-regulamentar-regional-14-a-97-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -229,7 +249,9 @@ d) Direcção de Serviços de Fundos Comunitários;
 
 e) Direcção de Serviços de Acompanhamento, Controlo e Avaliação;
 
-f) Repartição de Serviços Administrativos e de Contabilidade.
+f) Departamento Administrativo, de Pessoal e de Contabilidade.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30.
 
 #### SECÇÃO I — Do director regional
 
@@ -643,37 +665,63 @@ b) Participar no processo de avaliação, designadamente através do recurso a c
 
 #### SECÇÃO VII — Repartição de Serviços Administrativos e de Contabilidade
 
-###### Artigo 23.º — Competências e estrutura
+###### Artigo 23.º — Natureza e atribuições
 
-1 - À Repartição de Serviços Administrativos e de Contabilidade - RSAC compete:
+O Departamento Administrativo, de Pessoal e de Contabilidade, abreviadamente designado por DAPC, é o órgão de apoio e de execução técnico administrativo ao director regional e serviços de apoio, que tem por atribuições assegurar o apoio administrativo nos actos de administração geral, de pessoal, contabilidade, património, fundos estruturais e comunitários.
 
-a) Organizar e executar o serviço de expediente geral, registo, reprodução de documentos e arquivo, incluindo os processos dos projectos com comparticipação comunitária;
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30.
 
-b) Organizar e manter actualizados o ficheiro e o registo biográfico do pessoal da DRP;
+###### Artigo 23.º-A — Competências
 
-c) Executar os projectos de orçamento de despesa;
+1 - Ao DAPC compete, designadamente:
 
-d) Elaborar a informação que permita verificar e controlar o processamento das despesas;
+a) Organizar e executar o serviço de expediente geral, registo, reprodução de documentos e arquivo;
 
-e) Promover as aquisições de bens e serviços necessários ao bom funcionamento da DRP;
+b) Organizar e manter actualizado o ficheiro e o registo biográfico do pessoal da DRP;
 
-f) Organizar e manter actualizada a contabilidade, conferindo, processando e liquidando as despesas relativas à execução dos orçamentos;
+c) Assegurar a execução de procedimentos administrativos relativos ao recrutamento, selecção, nomeação, contratação, promoção, progressão, mobilidade, aposentação e exoneração ou demissão do pessoal da DRP;
 
-g) Assegurar o serviço de economato e organizar e manter actualizado o inventário dos bens móveis e assegurar a gestão, conservação e segurança dos bens móveis e imóveis, equipamentos, instalações e meios de comunicação;
+d) Assegurar a organização do processo anual de classificação de serviço do pessoal da DRP;
 
-h) Superintender o pessoal auxiliar e coordenar a organização do respectivo trabalho;
+e) Efectuar o processamento de vencimentos e outras remunerações devidas ao pessoal;
 
-i) Realizar tarefas relacionadas com o tratamento da documentação.
+f) Elaborar os documentos que sirvam de suporte ao tratamento informático das remunerações e abonos e respectivos descontos;
 
-2 - A RSAC compreende quatro secções:
+g) Elaborar a proposta anual de orçamento;
 
-a) Secção de Pessoal, Expediente Geral e Arquivo;
+h) Instruir processos que permitam verificar e controlar o processamento das despesas, nomeadamente quanto à sua legalidade e respectivo cabimento;
 
-b) Secção de Contabilidade, Economato e Património;
+i) Promover as aquisições de bens e serviços necessários ao bom funcionamento da DRP;
 
-c) Secção de Apoio ao Centro de Informação e Documentação;
+j) Organizar e manter actualizada a contabilidade, conferindo, processando e liquidando as despesas relativas à execução dos orçamentos;
 
-d) Secção de Apoio Administrativo aos Fundos Estruturais e Comunitários.
+l) Assegurar o serviço de economato e organizar e manter actualizado o inventário dos bens móveis e assegurar a gestão, conservação e segurança dos bens móveis e imóveis, equipamentos, instalações e meios de comunicação;
+
+m) Organizar os processos/dossiers específicos dos projectos comparticipados pelo FEDER, Fundo de Coesão e iniciativas comunitárias;
+
+n) Recepcionar as candidaturas, os pedidos de pagamento e relatórios de execução dos projectos co-financiados pela União Europeia;
+
+o) Dar apoio logístico à realização de reuniões, nomeadamente comissões de selecção de projectos, unidades de gestão e comités (unidades) de acompanhamento de programas co-financiados pela União Europeia;
+
+p) Organizar a legislação e mantê-la permanentemente actualizada;
+
+q) Realizar tarefas relacionadas com o tratamento da documentação;
+
+r) Superintender o pessoal auxiliar e coordenar o respectivo trabalho.
+
+2 - O DAPC compreende cinco secções:
+
+a) Secção de Expediente Geral e Arquivo;
+
+b) Secção de Pessoal;
+
+c) Secção de Contabilidade, Economato e Património;
+
+d) Secção de Apoio Administrativo aos Fundos Comunitários;
+
+e) Secção de Apoio ao Centro de Informação e de Documentação.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30.
 
 ### CAPÍTULO III — Do pessoal
 
@@ -709,12 +757,30 @@ O regime aplicável ao pessoal da DRP é o genericamente estabelecido para os tr
 
 ###### Artigo 27.º — Concursos e estágios pendentes
 
-1 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os correspondentes aos que constam do mapa anexo a este diploma.
+1 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm a sua validade, sendo os lugares a prover os constantes do mapa anexo ao presente diploma.
 
-2 - Os actuais estagiários prosseguem os respectivos estágios, transitando, findos os mesmos, se neles obtiverem aproveitamento, para as categorias objecto de concurso e constantes do quadro anexo ao presente diploma.
+2 - Os actuais estagiários prosseguem os respectivos estágios, ingressando findos os mesmos, e se nele ficarem aprovados, nas categorias constantes dos mapas anexos ao presente diploma.
 
-###### Artigo 28.º — Norma revogatória
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30.
 
-São revogadas as disposições do [Decreto Regulamentar Regional n.º 10/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1993-274413), de 10 de Maio.
+###### Artigo 28.º — Regras de transição a chefe de departamento
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b03/00120019.pdf)
+1 - O chefe de repartição transita, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.
+
+2 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontra posicionado.
+
+3 - Quando da transição resultar um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeito de progressões futuras.
+
+4 - A transição produz efeitos a partir da data de integração na nova categoria.
+
+5 - O lugar de chefe de departamento é a extinguir quando vagar.
+
+6 - O disposto no presente artigo não prejudica a faculdade de o actual chefe de repartição optar pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30.
+
+###### Artigo 29.º
+
+O quadro de pessoal anexo ao [Decreto Regulamentar Regional n.º 14-A/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-a-1997-363920), de 29 de Julho, é alterado de acordo com o mapa anexo ao presente diploma.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 22/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1999-639911), publicado em 1999-11-30.

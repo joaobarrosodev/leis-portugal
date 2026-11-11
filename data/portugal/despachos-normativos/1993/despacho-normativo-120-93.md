@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-08-31'
+version_history:
+  file: despacho-normativo-120-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-08-31'
+    amending: pt:dre:285682:por
+    amending_title: Declaração de Rectificação n.º 158/93
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/120/1993/06/28/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:00:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 158/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-120-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,7 +138,9 @@ Considerando o disposto na alínea a) do n.º 2 e nos n.os 4 e 5 do artigo 18.º
 
 Determina-se o seguinte:
 
-1 - É criado no quadro de pessoal da Direcção-Geral dos Serviços de Gestão e Organização, aprovado pela [Portaria n.º 110/93](https://diariodarepublica.pt/dr/detalhe/portaria/110-1993-599877), de 30 de Janeiro, um lugar de assessor principal, a extinguir quando vagar.
+1 - É criado no quadro de pessoal da Direcção-Geral dos Serviços de Gestão e Organização, aprovado pela [Portaria n.º 110/93](https://diariodarepublica.pt/dr/detalhe/portaria/110-1993-599877), de 30 de Janeiro, um lugar de assessor principal da carreira de técnico superior, a extinguir quando vagar.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 158/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/158-1993-285682), publicado em 1993-08-31.
 
 2 - A criação do lugar referido no número anterior produz efeitos desde 10 de Junho de 1992, considerando-se tais efeitos como reportados ao quadro da ex-Direcção-Geral dos Serviços Centrais até à entrada em vigor da portaria referida no número anterior.
 

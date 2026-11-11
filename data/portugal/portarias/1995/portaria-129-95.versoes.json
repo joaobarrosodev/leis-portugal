@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:143290:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-02-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bfee7e57f0a3291a"
+   ]
+  },
+  {
+   "date": "1998-08-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:423898:por",
+     "title": "Portaria n.º 410/98",
+     "published": "1998-07-14",
+     "dre_path": "/dr/detalhe/portaria/410-1998-423898"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 18-21"
+   ],
+   "fragments": [
+    "414d6b767a056c40"
+   ]
+  }
+ ],
+ "fragments": {
+  "bfee7e57f0a3291a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Fevereiro\n\nConsiderando que se torna necessário estabelecer as importâncias a cobrar pelas entidades do Ministério da Indústria e Energia intervenientes nos actos previstos no [Decreto-Lei n.º 131/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1992-288225), de 6 de Julho:\n\nManda o Governo, pelo Ministro da Indústria e Energia, que para a prestação dos serviços previstos no n.º 1 do artigo 4.º do [Decreto-Lei n.º 131/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1992-288225), de 6 de Julho, sejam fixadas as seguintes importâncias, a cobrar pelos organismos competentes do Ministério da Indústria e Energia:\n\n1 - Aprovação de modelo, nos termos da [Portaria n.º 1125/92](https://diariodarepublica.pt/dr/detalhe/portaria/1125-1992-617345), de 9 de Dezembro:\n\n1.1 - Apreciação do projecto de construção:\n\n1.1.1 - Recipientes de 1.ª categoria - 35000$00;\n\n1.1.2 - Recipientes de 2.ª categoria - 18000$00;\n\n1.1.3 - Recipientes de 3.ª categoria - 12000$00;\n\n1.2 - Verificação da conformidade da construção:\n\n1.2.1 - Recipientes de 1.ª categoria - 15000$00;\n\n1.2.2 - Recipientes de 2.ª categoria - 10000$00;\n\n1.2.3 - Recipientes de 3.ª categoria - 6000$00.\n\n2 - Verificação da conformidade da construção com o modelo aprovado:\n\n2.1 - Recipientes de 1.ª categoria - 15000$00;\n\n2.2 - Recipientes de 2.ª categoria - 10000$00;\n\n2.3 - Recipientes de 3.ª categoria - 6000$00.\n\n3 - Aprovação de modelo (garrafas de gás), nos termos das Portarias n.os [62-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/62-a-1993-449958), [62-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/62-b-1993-449959) e [62-C/93](https://diariodarepublica.pt/dr/detalhe/portaria/62-c-1993-449960), de 15 de Janeiro:\n\n3.1 - Abertura e instrução do processo e emissão do respectivo certificado, incluindo o certificado CE de tipo - 60000$00;\n\n3.2 - Aprovação de lotes (por garrafa) - 4$00;\n\nNum máximo, por lote - 2000$00.\n\n4 - Registo dos recipientes sob pressão - 2000$00.\n\n5 - As importâncias devidas pela intervenção dos organismos competentes do Ministério da Indústria e Energia decorrentes da aplicação do artigo 6.º da [Portaria n.º 1125/92](https://diariodarepublica.pt/dr/detalhe/portaria/1125-1992-617345), de 9 de Dezembro, são as fixadas nos correspondentes números da presente portaria.\n\n6 - As importâncias devidas serão pagas pelos interessados nas instituições bancárias a indicar pelas delegações regionais da indústria e energia intervenientes, mediante guia a emitir por estas, sendo-lhes devolvido um dos exemplares como prova do pagamento efectuado.\n\n7 - As delegações regionais da indústria e energia remeterão trimestralmente ao Instituto Português da Qualidade 20% das verbas arrecadadas ao abrigo da presente portaria.\n\nMinistério da Indústria e Energia.\n\nAssinada em 12 de Janeiro de 1995.\n\nPelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria."
+  },
+  "414d6b767a056c40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1998-08-13",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 410/98](https://diariodarepublica.pt/dr/detalhe/portaria/410-1998-423898), publicado em 1998-07-14."
+   ],
+   "markdown": "de 4 de Fevereiro\n\nConsiderando que se torna necessário estabelecer as importâncias a cobrar pelas entidades do Ministério da Indústria e Energia intervenientes nos actos previstos no [Decreto-Lei n.º 131/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1992-288225), de 6 de Julho:\n\nManda o Governo, pelo Ministro da Indústria e Energia, que para a prestação dos serviços previstos no n.º 1 do artigo 4.º do [Decreto-Lei n.º 131/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1992-288225), de 6 de Julho, sejam fixadas as seguintes importâncias, a cobrar pelos organismos competentes do Ministério da Indústria e Energia:\n\n1 - Aprovação de modelo, nos termos da [Portaria n.º 1125/92](https://diariodarepublica.pt/dr/detalhe/portaria/1125-1992-617345), de 9 de Dezembro:\n\n1.1 - Apreciação do projecto de construção:\n\n1.1.1 - Recipientes de 1.ª categoria - 35000$00;\n\n1.1.2 - Recipientes de 2.ª categoria - 18000$00;\n\n1.1.3 - Recipientes de 3.ª categoria - 12000$00;\n\n1.2 - Verificação da conformidade da construção:\n\n1.2.1 - Recipientes de 1.ª categoria - 15000$00;\n\n1.2.2 - Recipientes de 2.ª categoria - 10000$00;\n\n1.2.3 - Recipientes de 3.ª categoria - 6000$00.\n\n2 - Verificação da conformidade da construção com o modelo aprovado:\n\n2.1 - Recipientes de 1.ª categoria - 15000$00;\n\n2.2 - Recipientes de 2.ª categoria - 10000$00;\n\n2.3 - Recipientes de 3.ª categoria - 6000$00.\n\n3 - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 410/98](https://diariodarepublica.pt/dr/detalhe/portaria/410-1998-423898), publicado em 1998-07-14.\n\n4 - Registo dos recipientes sob pressão - 2000$00.\n\n5 - As importâncias devidas pela intervenção dos organismos competentes do Ministério da Indústria e Energia decorrentes da aplicação do artigo 6.º da [Portaria n.º 1125/92](https://diariodarepublica.pt/dr/detalhe/portaria/1125-1992-617345), de 9 de Dezembro, são as fixadas nos correspondentes números da presente portaria.\n\n6 - As importâncias devidas serão pagas pelos interessados nas instituições bancárias a indicar pelas delegações regionais da indústria e energia intervenientes, mediante guia a emitir por estas, sendo-lhes devolvido um dos exemplares como prova do pagamento efectuado.\n\n7 - As delegações regionais da indústria e energia remeterão trimestralmente ao Instituto Português da Qualidade 20% das verbas arrecadadas ao abrigo da presente portaria.\n\nMinistério da Indústria e Energia.\n\nAssinada em 12 de Janeiro de 1995.\n\nPelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria."
+  }
+ }
+}

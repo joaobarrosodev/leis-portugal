@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-01-28'
+version_history:
+  file: despacho-78-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-01-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-28'
+    amending: pt:dre:2857486:por
+    amending_title: Despacho n.º 1950/2010
+    changes:
+    - Altera Artigo unidades 73-73
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T11:08:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho n.º 1950/2010. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos/2010/despacho-78-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -347,7 +362,9 @@ h) Autorizar a concessão de bolsas de investigação, mediante a celebração d
 
 i) Despachar requerimentos sobre reclamações e recursos apresentados pelo pessoal dos serviços e institutos do Ministério, nomeadamente em processos de concurso de pessoal;
 
-7 - As competências delegadas em cada um dos Secretários de Estado compreendem os poderes necessários para decidirem sobre os procedimentos instruídos nos serviços e organismos mencionados nos n.os 3 e 4, bem como as competências para a prática de actos decisórios ou de aprovação tutelar.
+7 - As competências delegadas em cada um dos Secretários de Estado compreendem os poderes necessários para decidirem sobre os procedimentos instruídos nos serviços e organismos mencionados, respectivamente, nos n.os 3 e 4, bem como as competências para a prática de actos decisórios ou de aprovação tutelar, incluindo as decisões relativas ao reconhecimento ou declaração de interesse público, de utilidade pública, de interesse geral ou similar, no âmbito das suas competências.
+
+> Alterado pelo/a [Despacho n.º 1950/2010](https://diariodarepublica.pt/dr/detalhe/despacho/1950-2010-2857486), publicado em 2010-01-28.
 
 8 - Os assuntos referentes à gestão de recursos humanos, financeiros e patrimoniais deverão ser remetidos à Secretaria-Geral para análise prévia, à excepção dos oriundos das entidades referidas neste despacho dotadas de personalidade jurídica, autonomia administrativa e financeira e património próprio.
 

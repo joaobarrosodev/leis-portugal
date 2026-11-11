@@ -1,0 +1,127 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:218716:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-07-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bf102c0aecce1a9d",
+    "675f33459f6856d7",
+    "37d00ae714ffdac3",
+    "ae9b540c27d6910e",
+    "3f00a3d6b7c31986",
+    "8e47384be5e61658",
+    "2509a3002e8699dc"
+   ]
+  },
+  {
+   "date": "1988-04-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:285165:por",
+     "title": "Portaria n.º 244/88",
+     "published": "1988-04-19",
+     "dre_path": "/dr/detalhe/portaria/244-1988-285165"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 11-11",
+    "Altera Artigo unidades 120-146"
+   ],
+   "fragments": [
+    "4df90d0da52d0d93",
+    "675f33459f6856d7",
+    "37d00ae714ffdac3",
+    "3e7e88add08655ba",
+    "3f00a3d6b7c31986",
+    "8e47384be5e61658",
+    "2509a3002e8699dc"
+   ]
+  }
+ ],
+ "fragments": {
+  "bf102c0aecce1a9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Julho\n\nSob proposta da Universidade do Minho:\n\nAo abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446), de 7 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade do Minho concede o grau de mestre em Educação nas seguintes áreas de especialização:\n\na) Análise e Organização do Ensino;\n\nb) Ensino das Ciências da Natureza;\n\nc) Ensino da Língua Portuguesa;\n\nd) Administração Escolar;\n\ne) Filosofia da Educação;\n\nf) Informática no Ensino.\n\n2.º\n\n(Organização do curso)\n\nO curso especializado conducente ao mestrado em Educação, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Estrutura curricular)\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são os descritos nos anexos I a VI à presente portaria.\n\n4.º\n\n(Precedências)\n\nA tabela e regime de precedências são fixados pelo conselho científico.\n\n5.º\n\n(«Numerus clausus»)\n\n1 - A matrícula e a inscrição no curso estão sujeitas a limitações quantitativas a fixar anualmente por despacho do reitor da Universidade do Minho, ao abrigo do disposto na alínea e) do artigo 2.º do [Decreto-Lei n.º 323/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032), de 9 de Outubro, sob proposta do conselho científico.\n\n2 - 25% das vagas serão reservadas prioritariamente a docentes de estabelecimentos de ensino particular ou cooperativo a quem hajam sido atribuídas pelo Ministério da Educação e Cultura bolsas tendo em vista a formação de docentes para aquelas instituições.\n\n3 - Sem prejuízo do disposto no número anterior, o despacho a que se refere o n.º 1 deste número estabelecerá, para os restantes 75% das vagas:\n\na) Qual a percentagem do numerus clausus que será reservada prioritariamente a docentes de estabelecimentos de ensino superior;\n\nb) Qual o número mínimo de inscrições indispensável ao funcionamento do curso.\n\n4 - O despacho a que se refere o n.º 1 deverá ser publicado na 2.ª série do Diário da República antes do início do prazo de candidatura.\n\n6.º\n\n(Habilitações de acesso)\n\n1 - São admitidos à candidatura à matrícula no curso os titulares das licenciaturas descritas nos anexos I a VI ou os titulares de habilitações legalmente equivalentes.\n\n2 - Excepcionalmente, em casos devidamente justificados e nos termos do n.º 3 do n.º 8.º, o conselho científico poderá admitir à candidatura à matrícula no curso candidatos titulares de outras licenciaturas ou os titulares de habilitações legalmente equivalentes cujo currículo demonstre uma adequada preparação científica de base.\n\n7.º\n\n(Selecção dos candidatos a que se refere o n.º 2 do n.º 5.º)\n\n1 - Os candidatos à matrícula no curso referido no n.º 2 do n.º 5.º desta portaria serão seleccionados por uma comissão com a seguinte constituição:\n\na) Director-geral do Ensino Particular e Cooperativo, que presidirá;\n\nb) Um representante da Universidade do Minho, nomeado pelo Ministro da Educação e Cultura de acordo com proposta do respectivo reitor;\n\nc) Até três individualidades nomeadas pelo Ministro da Educação e Cultura.\n\n2 - A comissão referida no número anterior submeterá a homologação prévia do Ministro da Educação e Cultura os critérios de selecção dos candidatos.\n\n8.º\n\n(Selecção dos candidatos a que se refere o n.º 3 do n.º 5.º)\n\n1 - Os candidatos à matrícula no curso serão seleccionados pelo conselho científico tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 5.º ou de outros graus já obtidos pelo candidato;\n\nb) Currículo académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção para avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciatura ou outras como condição prévia para a candidatura à matrícula do curso.\n\n3 - Os candidatos a que se refere o n.º 3 do n.º 6.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n4 - A selecção a que se refere o presente número será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.\n\n9.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso serão os previstos na lei para os cursos de licenciatura naquilo em que não forem contrariados pelo disposto na presente portaria e pela natureza do curso.\n\n10.º\n\n(Calendário)\n\nOs prazos de candidatura e de inscrição e o calendário lectivo serão fixados pelo despacho a que refere o n.º 5.º\n\n11.º\n\n(Dispensa das provas complementares de doutoramento)\n\nOs titulares de aprovação no curso especializado conducente ao mestrado em Educação terão dispensa das provas a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para obtenção do grau de doutor em Educação, nas especialidades indicadas nos anexos I a VI.\n\n12.º\n\n(Início de funcionamento)\n\nO início de funcionamento do curso ficará dependente de autorização expressa do Ministro da Educação e Cultura, exarada sobre relatório da Universidade do Minho comprovativo da existência da totalidade dos recursos humanos e materiais necessários à sua completa concretização.\n\n13.º\n\n(Disposição revogatória)\n\nÉ revogada a [Portaria n.º 850/82](https://diariodarepublica.pt/dr/detalhe/portaria/850-1982-374234), de 7 de Setembro.\n\nMinistério da Educação e Cultura.\n\nAssinada em 8 de Julho de 1986.\n\nO Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro."
+  },
+  "675f33459f6856d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Mestrado em Educação na área de especialização em Análise e Organização do Ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Mestrado em Educação na área de especialização em Análise e Organização do Ensino\n\n1 - Área científica do curso:\n\nEducação.\n\n2 - Duração normal do curso:\n\nTrês semestres lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:\n\na) Obrigatórias:\n\nI) História da Educação ... 2\n\nII) Metodologia da Investigação em Educação ... 6\n\nIII) Psicologia da Educação ... 2\n\nIV) Teoria do Desenvolvimento Curricular ... 6\n\nb) Optativas:\n\nI) História da Educação ... 6\n\nII) Filosofia da Educação ... 6\n\nIII) Psicologia da Educação ... 6\n\nIV) Sociologia da Educação ... 6\n\nTotal ... 22\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\nTodas as licenciaturas pelas universidades portuguesas que sejam habilitação própria para a docência no ensino básico ou no ensino secundário.\n\n5 - Especialidades a que se refere o n.º 10.º:\n\nDesenvolvimento Curricular."
+  },
+  "37d00ae714ffdac3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Mestrado em Educação na área de especialização em ensino das Ciências da Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Mestrado em Educação na área de especialização em ensino das Ciências da Natureza\n\n1 - Área científica do curso:\n\nEducação.\n\n2 - Duração normal do curso:\n\nTrês semestres lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:\n\na) Obrigatórias:\n\nI) Ciências da Natureza ... 6,5\n\nII) História da Educação ... 2\n\nIII) Metodologia do Ensino das Ciências ... 3\n\nIV) Metodologia da Investigação em Educação ... 6\n\nV) Psicologia da Educação ... 2\n\nVI) Teoria do Desenvolvimento Curricular ... 3\n\nb) Optativas:\n\nI) Filosofia da Educação ... 2\n\nII) História da Educação ... 2\n\nIII) Psicologia da Educação ... 2\n\nIV) Sociologia da Educação ... 2\n\nTotal ... 24,5\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Biologia (ramos de especialização científica e de formação educacional);\n\nb) Ensino de Biologia e Geologia;\n\nc) Bioquímica;\n\nd) Física (ramos de especialização científica e de formação educacional);\n\ne) Ensino de Física e Química;\n\nf) Geologia (ramos de especialização científica e de formação educacional);\n\ng) Química (ramos de especialização científica e de formação educacional).\n\n5 - Especialidades a que se refere o n.º 10.º:\n\nMetodologia do Ensino das Ciências."
+  },
+  "ae9b540c27d6910e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Mestrado em Educação na área de especialização em ensino da Língua Portuguesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Mestrado em Educação na área de especialização em ensino da Língua Portuguesa\n\n1 - Área científica do curso:\n\nEducação.\n\n2 - Duração normal do curso:\n\nTrês semestres lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:\n\na) Obrigatórias:\n\nI) História da Educação ... 2\n\nII) Língua Portuguesa ... 6\n\nIII) Metodologia do Ensino da Língua Portuguesa ... 3\n\nIV) Metodologia da Investigação em Educação ... 6\n\nV) Psicologia da Educação ... 2\n\nVI) Teoria do Desenvolvimento Curricular ... 3\n\nb) Optativas:\n\nI) Filosofia da Educação ... 2\n\nII) História da Educação ... 2\n\nIII) Psicologia da Educação ... 2\n\nIV) Sociologia da Educação ... 2\n\nTotal ... 24\n\n4 - Licenciaturas a que se refere o n.º 1 de n.º 5.º:\n\na) Ensino de Francês e Português;\n\nb) Ensino de Inglês e Português;\n\nc) Línguas e Literaturas Clássicas, variante de Estudos Clássicos e Portugueses;\n\ne) Ensino de Português e Francês;\n\nf) Ensino de Português e Inglês.\n\n5 - Especialidades a que se refere o n.º 10.º:\n\nMetodologia do Ensino do Português."
+  },
+  "3f00a3d6b7c31986": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Mestrado em Educação no área de especialização em Administração Escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Mestrado em Educação no área de especialização em Administração Escolar\n\n1 - Área científica do curso:\n\nEducação.\n\n2 - Duração normal do curso:\n\nTrês semestres lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:\n\na) Obrigatórias:\n\nI) Administração Escolar ... 9,5\n\nII) Análise Social da Educação ... 8\n\nIII) Metodologia da Investigação em Educação ... 4\n\nb) Optativas:\n\nI) Filosofia da Educação ... 3\n\nII) História da Educação ... 3\n\nIII) Psicologia da Educação ... 3\n\nIV) Teoria do Desenvolvimento Curricular ... 3\n\nTotal ... 24,5\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\nTodas as licenciaturas pelas universidades portuguesas que sejam habilitação própria para a docência no ensino básico ou no ensino secundário.\n\n5 - Especialidades a que se refere o n.º 10.º:\n\na) Organização e Administração Escolar;\n\nb) Sociologia da Educação."
+  },
+  "8e47384be5e61658": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO V — Mestrado em Educação na área de especialização em Filosofia da Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Mestrado em Educação na área de especialização em Filosofia da Educação\n\n1 - Área científica do curso:\n\nEducação.\n\n2 - Duração normal do curso:\n\nTrês semestres lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:\n\na) Obrigatórias:\n\nI) Filosofia da Educação ... 7\n\nII) História do Pensamento Educacional ... 6\n\nIII) Metodologia da Investigação em Filosofia da Educação ... 5\n\nb) Optativas:\n\nI) História da Educação ... 4\n\nII) Psicologia da Educação ... 4\n\nIII) Sociologia da Educação ... 4\n\nIV) Desenvolvimento Curricular ... 4\n\nV) Tecnologia Educativa ... 4\n\nTotal ... 22\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Filosofia;\n\nb) Ciências Histórico-Filosóficas.\n\n5 - Especialidades a que se refere o n.º 10.º:\n\na) Filosofia da Educação;\n\nb) História da Educação."
+  },
+  "2509a3002e8699dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VI — Mestrado em Educação na área de especialização em Informática no Ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — Mestrado em Educação na área de especialização em Informática no Ensino\n\n1 - Área científica do curso:\n\nEducação.\n\n2 - Duração normal do curso:\n\nTrês semestres lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:\n\na) Obrigatórias:\n\nI) Metodologia do Ensino das Ciências ... 5\n\nII) Informática ... 9\n\nIII) Metodologia da Investigação em Educação ... 6\n\nb) Optativas:\n\nI) Aquisição e Desenvolvimento da Linguagem ... 3\n\nII) Desenvolvimento e Avaliação Curricular ... 3\n\nIII) Psicologia da Aprendizagem ... 3\n\nIV) Psicologia do Desenvolvimento ... 3\n\nV) Filosofia da Educação ... 3\n\nVI) Sociologia da Educação ... 3\n\nTotal ... 23\n\n4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Informática;\n\nb) Matemática (ramos de especialização científica e de formação educacional);\n\nc) Biologia (ramos de especialização científica e de formação educacional);\n\nd) Geologia (ramos de especialização científica e de formação educacional);\n\ne) Química (ramos de especialização científica e de formação educacional);\n\nf) Física (ramos de especialização científica e de formação educacional);\n\ng) Ensino de Biologia e Geologia;\n\nh) Ensino de Física e Química;\n\ni) Bioquímica;\n\nj) Ciências Biológicas;\n\nk) Ciências Geológicas;\n\nl) Ciências Físico-Químicas.\n\n5 - Especialidades a que se refere o n.º 10.º:\n\na) Metodologia do Ensino da Matemática;\n\nb) Metodologia do Ensino das Ciências."
+  },
+  "4df90d0da52d0d93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1988-04-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 244/88](https://diariodarepublica.pt/dr/detalhe/portaria/244-1988-285165), publicado em 1988-04-19."
+   ],
+   "markdown": "de 26 de Julho\n\nSob proposta da Universidade do Minho:\n\nAo abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446), de 7 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade do Minho concede o grau de mestre em Educação nas seguintes áreas de especialização:\n\na) Análise e Organização do Ensino;\n\nb) Ensino das Ciências da Natureza;\n\nc) Ensino da Língua e da Literatura Portuguesas;\n\n> Alterado pelo/a [Portaria n.º 244/88](https://diariodarepublica.pt/dr/detalhe/portaria/244-1988-285165), publicado em 1988-04-19.\n\nd) Administração Escolar;\n\ne) Filosofia da Educação;\n\nf) Informática no Ensino.\n\n2.º\n\n(Organização do curso)\n\nO curso especializado conducente ao mestrado em Educação, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Estrutura curricular)\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são os descritos nos anexos I a VI à presente portaria.\n\n4.º\n\n(Precedências)\n\nA tabela e regime de precedências são fixados pelo conselho científico.\n\n5.º\n\n(«Numerus clausus»)\n\n1 - A matrícula e a inscrição no curso estão sujeitas a limitações quantitativas a fixar anualmente por despacho do reitor da Universidade do Minho, ao abrigo do disposto na alínea e) do artigo 2.º do [Decreto-Lei n.º 323/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032), de 9 de Outubro, sob proposta do conselho científico.\n\n2 - 25% das vagas serão reservadas prioritariamente a docentes de estabelecimentos de ensino particular ou cooperativo a quem hajam sido atribuídas pelo Ministério da Educação e Cultura bolsas tendo em vista a formação de docentes para aquelas instituições.\n\n3 - Sem prejuízo do disposto no número anterior, o despacho a que se refere o n.º 1 deste número estabelecerá, para os restantes 75% das vagas:\n\na) Qual a percentagem do numerus clausus que será reservada prioritariamente a docentes de estabelecimentos de ensino superior;\n\nb) Qual o número mínimo de inscrições indispensável ao funcionamento do curso.\n\n4 - O despacho a que se refere o n.º 1 deverá ser publicado na 2.ª série do Diário da República antes do início do prazo de candidatura.\n\n6.º\n\n(Habilitações de acesso)\n\n1 - São admitidos à candidatura à matrícula no curso os titulares das licenciaturas descritas nos anexos I a VI ou os titulares de habilitações legalmente equivalentes.\n\n2 - Excepcionalmente, em casos devidamente justificados e nos termos do n.º 3 do n.º 8.º, o conselho científico poderá admitir à candidatura à matrícula no curso candidatos titulares de outras licenciaturas ou os titulares de habilitações legalmente equivalentes cujo currículo demonstre uma adequada preparação científica de base.\n\n7.º\n\n(Selecção dos candidatos a que se refere o n.º 2 do n.º 5.º)\n\n1 - Os candidatos à matrícula no curso referido no n.º 2 do n.º 5.º desta portaria serão seleccionados por uma comissão com a seguinte constituição:\n\na) Director-geral do Ensino Particular e Cooperativo, que presidirá;\n\nb) Um representante da Universidade do Minho, nomeado pelo Ministro da Educação e Cultura de acordo com proposta do respectivo reitor;\n\nc) Até três individualidades nomeadas pelo Ministro da Educação e Cultura.\n\n2 - A comissão referida no número anterior submeterá a homologação prévia do Ministro da Educação e Cultura os critérios de selecção dos candidatos.\n\n8.º\n\n(Selecção dos candidatos a que se refere o n.º 3 do n.º 5.º)\n\n1 - Os candidatos à matrícula no curso serão seleccionados pelo conselho científico tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 5.º ou de outros graus já obtidos pelo candidato;\n\nb) Currículo académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção para avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciatura ou outras como condição prévia para a candidatura à matrícula do curso.\n\n3 - Os candidatos a que se refere o n.º 3 do n.º 6.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.\n\n4 - A selecção a que se refere o presente número será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.\n\n9.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso serão os previstos na lei para os cursos de licenciatura naquilo em que não forem contrariados pelo disposto na presente portaria e pela natureza do curso.\n\n10.º\n\n(Calendário)\n\nOs prazos de candidatura e de inscrição e o calendário lectivo serão fixados pelo despacho a que refere o n.º 5.º\n\n11.º\n\n(Dispensa das provas complementares de doutoramento)\n\nOs titulares de aprovação no curso especializado conducente ao mestrado em Educação terão dispensa das provas a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para obtenção do grau de doutor em Educação, nas especialidades indicadas nos anexos I a VI.\n\n12.º\n\n(Início de funcionamento)\n\nO início de funcionamento do curso ficará dependente de autorização expressa do Ministro da Educação e Cultura, exarada sobre relatório da Universidade do Minho comprovativo da existência da totalidade dos recursos humanos e materiais necessários à sua completa concretização.\n\n13.º\n\n(Disposição revogatória)\n\nÉ revogada a [Portaria n.º 850/82](https://diariodarepublica.pt/dr/detalhe/portaria/850-1982-374234), de 7 de Setembro.\n\nMinistério da Educação e Cultura.\n\nAssinada em 8 de Julho de 1986.\n\nO Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro."
+  },
+  "3e7e88add08655ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Mestrado em Educação na área de especialização em Ensino da Língua e da Literatura Portuguesas",
+   "in_force_from": "1988-04-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 244/88](https://diariodarepublica.pt/dr/detalhe/portaria/244-1988-285165), publicado em 1988-04-19."
+   ],
+   "markdown": "## ANEXO III — Mestrado em Educação na área de especialização em Ensino da Língua e da Literatura Portuguesas\n\n1 - Área científica do curso: Educação.\n\n2 - Duração normal do curso: três semestres lectivos.\n\n3 - Número total de unidades de crédito necessárias à conclusão do curso: 24.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Obrigatórias:\n\nI - Estudos Linguísticos ... 8\n\nII - Estudos Literários ... 6\n\nIII - Metodologias de Ensino ... 4\n\n4.2 - Conjunto das optativas:\n\nI - Educação ... 6\n\nII - Linguística ... 6\n\nIII - Literatura ... 6\n\nIV - Cultura ... 6\n\nV - Informática ... 6\n\n5 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Em Ensino que incluam a componente de Português;\n\nb) Línguas e Literaturas Modernas que incluam a componente de Português;\n\nc) Filologia Românica;\n\nd) Línguas e Literaturas Clássicas que incluam a componente de Português;\n\ne) Humanidades da Universidade Católica Portuguesa.\n\n6 - Especialidades a que se refere o n.º 11.º: Metodologia do Ensino do Português.\n\n> Alterado pelo/a [Portaria n.º 244/88](https://diariodarepublica.pt/dr/detalhe/portaria/244-1988-285165), publicado em 1988-04-19."
+  }
+ }
+}

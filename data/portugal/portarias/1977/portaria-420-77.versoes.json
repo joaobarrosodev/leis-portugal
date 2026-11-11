@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:250623:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-07-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "685b97f60b1d6dc6"
+   ]
+  },
+  {
+   "date": "1985-06-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:181579:por",
+     "title": "Portaria n.º 361/85",
+     "published": "1985-06-14",
+     "dre_path": "/dr/detalhe/portaria/361-1985-181579"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-10",
+    "Altera Artigo unidades 12-14"
+   ],
+   "fragments": [
+    "c81249cba9cd13cf"
+   ]
+  }
+ ],
+ "fragments": {
+  "685b97f60b1d6dc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Julho\n\nSendo necessário estabelecer as condições de admissão ao concurso para frequência do curso de engenheiro hidrógrafo e regular a constituição e funcionamento do júri para a selecção dos candidatos, nos termos do § único do artigo 1.º do [Decreto-Lei n.º 43972](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43972-1961-182646), de 20 de Outubro de 1961;\n\nConsiderando que a experiência já adquirida na formação dos engenheiros hidrógrafos portugueses e as tendências actuais no mundo internacional da hidrografia recomendam o aproveitamento da formação já adquirida em navio, cursos de especialização, actividades hidrográficas ou oceanográficas e noutras situações:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguinte:\n\n1.º Aos concursos documentais abertos na Direcção do Serviço de Pessoal da Superintendência dos Serviços de Pessoal para a frequência dos cursos de engenheiros hidrógrafos poderão concorrer os primeiros-tenentes ou segundos-tenentes da classe de Marinha.\n\n2.º Para os cursos a iniciar até 1980, inclusive, poderão concorrer os capitães-tenentes da classe de Marinha com idade não superior a 36 anos, feitos no ano civil do concurso.\n\n3.º O ordenamento relativo dos oficiais concorrentes será efectuado por um júri que apreciará em conjunto a classificação escolar da Escola Naval, a actividade desenvolvida nas diferentes unidades em que serviram e a frequência de cursos de especialização ou outros.\n\n4.º A nomeação dos candidatos será feita pelo Almirante-Chefe do Estado-Maior da Armada, sob proposta do superintendente dos Serviços do Pessoal da Armada, e com base na ordenação estabelecida pelo júri referido no número seguinte.\n\n5.º A constituição do júri que fará o ordenamento relativo a que se refere o n.º 3.º é o seguinte:\n\nDirector-geral do Instituto Hidrográfico;\n\nChefe da 1.ª Repartição da Direcção do Serviço de Instrução;\n\nChefe da 1.ª Repartição da Direcção do Serviço do Pessoal;\n\nDois oficiais superiores, engenheiros hidrógrafos, a indicar pelo Instituto Hidrográfico.\n\n6.º É revogada a [Portaria n.º 23439](https://diariodarepublica.pt/dr/detalhe/portaria/23439-1968-272266), de 19 de Junho de 1968.\n\nEstado-Maior da Armada, 24 de Junho de 1977. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante."
+  },
+  "c81249cba9cd13cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1985-06-19",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 361/85](https://diariodarepublica.pt/dr/detalhe/portaria/361-1985-181579), publicado em 1985-06-14.",
+    "Alterado pelo/a [Portaria n.º 361/85](https://diariodarepublica.pt/dr/detalhe/portaria/361-1985-181579), publicado em 1985-06-14."
+   ],
+   "markdown": "de 13 de Julho\n\nSendo necessário estabelecer as condições de admissão ao concurso para frequência do curso de engenheiro hidrógrafo e regular a constituição e funcionamento do júri para a selecção dos candidatos, nos termos do § único do artigo 1.º do [Decreto-Lei n.º 43972](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43972-1961-182646), de 20 de Outubro de 1961;\n\nConsiderando que a experiência já adquirida na formação dos engenheiros hidrógrafos portugueses e as tendências actuais no mundo internacional da hidrografia recomendam o aproveitamento da formação já adquirida em navio, cursos de especialização, actividades hidrográficas ou oceanográficas e noutras situações:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguinte:\n\n1.º Aos concursos documentais abertos na Direcção do Serviço de Pessoal da Superintendência dos Serviços de Pessoal para a frequência dos cursos de engenheiros hidrógrafos poderão concorrer os primeiros-tenentes ou segundos-tenentes da classe de Marinha.\n\n2.º Para os cursos a iniciar até 1980, inclusive, poderão concorrer os capitães-tenentes da classe de Marinha com idade não superior a 36 anos, feitos no ano civil do concurso.\n\n3.º O ordenamento relativo dos oficiais concorrentes será efectuado por um júri que apreciará em conjunto a classificação escolar da Escola Naval, a actividade desenvolvida nas diferentes unidades em que serviram e a frequência de cursos de especialização ou outros.\n\n4.º A nomeação dos candidatos será feita pelo Almirante-Chefe do Estado-Maior da Armada, sob proposta do superintendente dos Serviços do Pessoal da Armada, e com base na ordenação estabelecida pelo júri referido no número seguinte.\n\n5.º A constituição do júri, a nomear por despacho do Chefe do Estado-Maior da Armada, que fará o ordenamento relativo a que se refere o n.º 3.º é a seguinte:\n\n> Alterado pelo/a [Portaria n.º 361/85](https://diariodarepublica.pt/dr/detalhe/portaria/361-1985-181579), publicado em 1985-06-14.\n\nDirector-geral do Instituto Hidrográfico;\n\n2 oficiais superiores da classe de marinha, das áreas do pessoal e da instrução, a propor pelo superintendente dos Serviços do Pessoal da Armada;\n\n2 oficiais superiores, engenheiros hidrógrafos, a propor pelo director-geral do Instituto Hidrográfico.\n\n> Alterado pelo/a [Portaria n.º 361/85](https://diariodarepublica.pt/dr/detalhe/portaria/361-1985-181579), publicado em 1985-06-14.\n\n6.º É revogada a [Portaria n.º 23439](https://diariodarepublica.pt/dr/detalhe/portaria/23439-1968-272266), de 19 de Junho de 1968.\n\nEstado-Maior da Armada, 24 de Junho de 1977. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante."
+  }
+ }
+}

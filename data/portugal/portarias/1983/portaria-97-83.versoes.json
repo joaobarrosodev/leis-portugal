@@ -1,0 +1,87 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:308538:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-01-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "21ab736ee59c2906",
+    "72692d58adbc0bf0"
+   ]
+  },
+  {
+   "date": "1987-04-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177658:por",
+     "title": "Portaria n.º 795/85",
+     "published": "1985-10-19",
+     "dre_path": "/dr/detalhe/portaria/795-1985-177658"
+    },
+    {
+     "id": "pt:dre:665897:por",
+     "title": "Portaria n.º 326/87",
+     "published": "1987-04-21",
+     "dre_path": "/dr/detalhe/portaria/326-1987-665897"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 12",
+    "Adita Artigo depois da unidade 74",
+    "Altera Artigo unidades 77-77",
+    "Adita Artigo depois da unidade 77"
+   ],
+   "fragments": [
+    "3fc2951c37a36300",
+    "f4bef583b56ca038"
+   ]
+  }
+ ],
+ "fragments": {
+  "21ab736ee59c2906": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Janeiro\n\nSob proposta do conselho científico da Faculdade de Direito da Universidade de Lisboa;\n\nAo abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto;\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade de Lisboa, através da Faculdade de Direito, confere o grau de mestre em Direito, em 4 áreas de especialização:\n\na) Ciências Histórico-Jurídicas;\n\nb) Ciências Jurídico-Económicas;\n\nc) Ciências Jurídico-Políticas;\n\nd) Ciências Jurídicas.\n\n2.º\n\n(Organização do curso)\n\nO curso especializado conducente ao mestrado em Direito a que se refere o n.º 1, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Área científica)\n\nA área científica do curso é o Direito.\n\n4.º\n\n(Áreas científicas obrigatórias e optativas)\n\n1 - As áreas científicas obrigatórias são, para cada área de especialização, as constantes do quadro anexo à presente portaria.\n\n2 - As áreas científicas optativas serão as que, de entre as Ciências Histórico-Jurídicas, Ciências Jurídico-Económicas, Ciências Jurídico-Políticas e Ciências Jurídicas, o conselho científico indique, em cada ano, para cada área de especialização.5.º\n\n(Unidades de crédito)\n\n1 - A cada área científica obrigatória ou optativa correspondem 5 unidades de crédito.\n\n2 - As unidades de crédito necessárias à conclusão do curso em cada área de especialização são assim distribuídas:\n\na) Áreas científicas obrigatórias ... 10\n\nb) Áreas científicas optativas ... 5\n\nTotal ... 15\n\n6.º\n\n(Duração normal)\n\nA duração normal do curso é de 1 ano lectivo.\n\n7.º\n\n(Habilitação de acesso)\n\n1 - São admitidos à candidatura à matrícula no curso os licenciados em Direito ou titulares de habilitação legalmente equivalente com a classificação mínima de 14 valores.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.\n\n8.º\n\n(Critérios de selecção)\n\n1 - Os candidatos à matrícula no curso serão seleccionados pelo conselho científico, tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 7.º ou de outros graus já obtidos pelo candidato;\n\nb) Currículo académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - A selecção a que se refere o presente número será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.\n\n9.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição, bem como o regime de frequência, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão as previstas na lei para os cursos de licenciatura, naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza do curso.\n\n10.º\n\n(«Numerus clausus»)\n\n1 - O numerus clausus do curso será fixado anualmente por despacho do Ministro da Educação, sob proposta da Universidade.\n\n2 - Poderá igualmente ser fixado no mesmo despacho um número mínimo de inscrições indispensável ao funcionamento do curso.\n\n3 - Cada proposta do numerus clausus deverá ser acompanhada de um relatório comprovativo de estarem satisfeitas as condições referidas no n.º 12.º\n\n11.º\n\n(Calendário)\n\nOs prazos de candidatura e de inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o número anterior.\n\n12.º\n\n(Entrada em funcionamento)\n\nA entrada em funcionamento do curso ficará dependente da existência na Universidade da totalidade dos recursos humanos e materiais necessários à sua completa concretização.\n\n13.º\n\n(Dispensa das provas complementares de doutoramento)\n\nNos termos do n.º 2 do artigo 10.º do [Decreto-Lei n.º 263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446), de 7 de Agosto, os candidatos aprovados no curso serão dispensados da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor em Direito na mesma especialidade.\n\nMinistério da Educação, 13 de Janeiro de 1983. - O Ministro da Educação, João José Fraústo da Silva."
+  },
+  "72692d58adbc0bf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Áreas científicas obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Áreas científicas obrigatórias\n\na) Área de especialização em Ciências Histórico-Jurídicas:\n\nHistória do Direito;\n\nDireito Romano.\n\nb) Área de especialização em Ciências Jurídico-Económicas:\n\nEconomia Política;\n\nDireito Financeiro.\n\nc) Área de especialização em Ciências Jurídico-Políticas:\n\nDireito Constitucional;\n\nDireito Administrativo;\n\nDireito Internacional Público.\n\nNota. - Para os efeitos do n.º 2 do n.º 5.º o aluno escolherá 2 das 3 áreas científicas indicadas.\n\nd) Área de especialização em Ciências Jurídicas:\n\nDireito Civil;\n\nDireito Comercial;\n\nDireito Processual.\n\nNota. - Para os efeitos do n.º 2 do n.º 5.º o aluno optará entre Direito Comercial e Direito Processual."
+  },
+  "3fc2951c37a36300": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1987-04-26",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 326/87](https://diariodarepublica.pt/dr/detalhe/portaria/326-1987-665897), publicado em 1987-04-21."
+   ],
+   "markdown": "de 29 de Janeiro\n\nSob proposta do conselho científico da Faculdade de Direito da Universidade de Lisboa;\n\nAo abrigo do disposto nos Decretos-Leis n.os [173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e [263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446) e [264/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439), de 7 de Agosto;\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade de Lisboa, através da Faculdade de Direito, confere o grau de mestre em Direito, em 4 áreas de especialização:\n\na) Ciências Histórico-Jurídicas;\n\nb) Ciências Jurídico-Económicas;\n\nc) Ciências Jurídico-Políticas;\n\nd) Ciências Jurídicas.\n\ne) Direito das Comunidades Europeias.\n\n> Aditado pelo/a [Portaria n.º 326/87](https://diariodarepublica.pt/dr/detalhe/portaria/326-1987-665897), publicado em 1987-04-21.\n\n2.º\n\n(Organização do curso)\n\nO curso especializado conducente ao mestrado em Direito a que se refere o n.º 1, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Área científica)\n\nA área científica do curso é o Direito.\n\n4.º\n\n(Áreas científicas obrigatórias e optativas)\n\n1 - As áreas científicas obrigatórias são, para cada área de especialização, as constantes do quadro anexo à presente portaria.\n\n2 - As áreas científicas optativas serão as que, de entre as Ciências Histórico-Jurídicas, Ciências Jurídico-Económicas, Ciências Jurídico-Políticas e Ciências Jurídicas, o conselho científico indique, em cada ano, para cada área de especialização.5.º\n\n(Unidades de crédito)\n\n1 - A cada área científica obrigatória ou optativa correspondem 5 unidades de crédito.\n\n2 - As unidades de crédito necessárias à conclusão do curso em cada área de especialização são assim distribuídas:\n\na) Áreas científicas obrigatórias ... 10\n\nb) Áreas científicas optativas ... 5\n\nTotal ... 15\n\n6.º\n\n(Duração normal)\n\nA duração normal do curso é de 1 ano lectivo.\n\n7.º\n\n(Habilitação de acesso)\n\n1 - São admitidos à candidatura à matrícula no curso os licenciados em Direito ou titulares de habilitação legalmente equivalente com a classificação mínima de 14 valores.\n\n2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.\n\n8.º\n\n(Critérios de selecção)\n\n1 - Os candidatos à matrícula no curso serão seleccionados pelo conselho científico, tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 7.º ou de outros graus já obtidos pelo candidato;\n\nb) Currículo académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - A selecção a que se refere o presente número será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.\n\n9.º\n\n(Regime geral)\n\nAs regras de matrícula e inscrição, bem como o regime de frequência, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão as previstas na lei para os cursos de licenciatura, naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza do curso.\n\n10.º\n\n(«Numerus clausus»)\n\n1 - O numerus clausus do curso será fixado anualmente por despacho do Ministro da Educação, sob proposta da Universidade.\n\n2 - Poderá igualmente ser fixado no mesmo despacho um número mínimo de inscrições indispensável ao funcionamento do curso.\n\n3 - Cada proposta do numerus clausus deverá ser acompanhada de um relatório comprovativo de estarem satisfeitas as condições referidas no n.º 12.º\n\n11.º\n\n(Calendário)\n\nOs prazos de candidatura e de inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o número anterior.\n\n12.º\n\n(Entrada em funcionamento)\n\nA entrada em funcionamento do curso ficará dependente da existência na Universidade da totalidade dos recursos humanos e materiais necessários à sua completa concretização.\n\n13.º\n\n(Dispensa das provas complementares de doutoramento)\n\nNos termos do n.º 2 do artigo 10.º do [Decreto-Lei n.º 263/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1980-470446), de 7 de Agosto, os candidatos aprovados no curso serão dispensados da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para a obtenção do grau de doutor em Direito na mesma especialidade.\n\nMinistério da Educação, 13 de Janeiro de 1983. - O Ministro da Educação, João José Fraústo da Silva."
+  },
+  "f4bef583b56ca038": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Áreas científicas obrigatórias",
+   "in_force_from": "1987-04-26",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 795/85](https://diariodarepublica.pt/dr/detalhe/portaria/795-1985-177658), publicado em 1985-10-19.",
+    "Alterado pelo/a [Portaria n.º 795/85](https://diariodarepublica.pt/dr/detalhe/portaria/795-1985-177658), publicado em 1985-10-19.",
+    "Aditado pelo/a [Portaria n.º 326/87](https://diariodarepublica.pt/dr/detalhe/portaria/326-1987-665897), publicado em 1987-04-21."
+   ],
+   "markdown": "## ANEXO — Áreas científicas obrigatórias\n\na) Área de especialização em Ciências Histórico-Jurídicas:\n\nHistória do Direito;\n\nDireito Romano.\n\nb) Área de especialização em Ciências Jurídico-Económicas:\n\nEconomia Política;\n\nDireito Financeiro.\n\nc) Área de especialização em Ciências Jurídico-Políticas:\n\nDireito Constitucional;\n\nDireito Administrativo;\n\nDireito Internacional Público.\n\nNota. - Para os efeitos do n.º 2 do n.º 5.º o aluno escolherá 2 das 3 áreas científicas indicadas.\n\nd) Área de especialização em Ciências Jurídicas:\n\nDireito Civil;\n\nFilosofia do Direito;\n\nDireito Penal;\n\n> Aditado pelo/a [Portaria n.º 795/85](https://diariodarepublica.pt/dr/detalhe/portaria/795-1985-177658), publicado em 1985-10-19.\n\nDireito Comercial;\n\nDireito Processual.\n\nNota. - O conselho científico oferecerá em cada ano Direito Civil e pelo menos mais duas das restantes disciplinas. O aluno cursará necessariamente Direito Civil e deverá optar, para os efeitos do n.º 2 do n.º 5.º, por outra das disciplinas em causa.\n\n> Alterado pelo/a [Portaria n.º 795/85](https://diariodarepublica.pt/dr/detalhe/portaria/795-1985-177658), publicado em 1985-10-19.\n\ne) Área de especialização em Direito das Comunidades Europeias:\n\nDireito Institucional Comunitário;\n\nDireito Económico Comunitário;\n\nIntegração Económica.\n\nNota. - Para os efeitos do n.º 2 do n.º 5.º, o aluno escolherá duas das três áreas científicas indicadas.\n\n> Aditado pelo/a [Portaria n.º 326/87](https://diariodarepublica.pt/dr/detalhe/portaria/326-1987-665897), publicado em 1987-04-21."
+  }
+ }
+}

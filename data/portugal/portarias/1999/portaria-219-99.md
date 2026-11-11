@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-03-21'
+version_history:
+  file: portaria-219-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-03-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-03-21'
+    amending: pt:dre:313817:por
+    amending_title: Portaria n.º 470/2001; Portaria n.º 286/2009
+    changes:
+    - Altera Artigo unidades 8-9
+    - Altera Artigo unidades 10-12
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/219/1999/03/29/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:14:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 470/2001; Portaria n.º
+    286/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-219-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,17 +157,23 @@ Manda o Governo, pelos Ministros das Finanças e da Justiça, ao abrigo do dispo
 
 1.º As taxas a cobrar pelos serviços de identificação criminal pela prática de actos próprios das suas competências são as seguintes:
 
-a) Emissão de certificado do registo criminal requerido nos termos do artigo 10.º do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - 350$00;
+a) Emissão de certificado do registo criminal requerido nos termos do artigo 10.º do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - (euro) 1,75;
 
-b) Emissão de certificado de contumácia requerido nos termos do artigo 23.º, n.º 2, do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - 150$00.
+b) Emissão de certificado do registo criminal requerido nos termos do artigo 14.º, n.º 3 do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - gratuita;
 
-2.º As taxas previstas no número anterior podem ser pagas:
+c) Emissão de certificado de contumácia requerido nos termos do artigo 23.º, n.º 2, do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - (euro) 0,75;
 
-a) Por inutilização de estampilhas fiscais;
+d) Emissão de certificado do registo de medidas tutelares educativas requerido por particular, ao abrigo do disposto no artigo 217.º, n.º 2, da [Lei n.º 166/99](https://diariodarepublica.pt/dr/detalhe/lei/166-1999-570567), de 14 de Setembro - (euro) 1,75.
 
-b) Em numerário, quando os serviços disponham de meios automáticos de processamento e controlo dos pagamentos.
+> Alterado pelo/a [Portaria n.º 286/2009](https://diariodarepublica.pt/dr/detalhe/portaria/286-2009-605533), publicado em 2009-03-20.
 
-3.º No caso previsto na alínea b) do número anterior, o montante das taxas cobradas é entregue, mensalmente, na tesouraria da Fazenda Pública da respectiva área.
+2.º As taxas previstas no número anterior são pagas em numerário, devendo o montante cobrado ser entregue, por meio de guia, na tesouraria da Fazenda Pública da respectiva área, nos mesmos termos e prazos aplicáveis ao imposto do selo.
+
+> Alterado pelo/a [Portaria n.º 470/2001](https://diariodarepublica.pt/dr/detalhe/portaria/470-2001-313817), publicado em 2001-05-10.
+
+3.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 470/2001](https://diariodarepublica.pt/dr/detalhe/portaria/470-2001-313817), publicado em 2001-05-10.
 
 4.º É revogada a [Portaria n.º 243/90](https://diariodarepublica.pt/dr/detalhe/portaria/243-1990-332185), de 5 de Abril, na parte relativa à emissão de certificado do registo criminal.
 

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-07-25'
+version_history:
+  file: portaria-249-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-07-25'
+    amending: pt:dre:420579:por
+    amending_title: Portaria n.º 634/87
+    changes:
+    - Altera Artigo unidades 16-27
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:35:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 634/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-249-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,29 +159,41 @@ A área científica do curso é a Matemática Aplicada.
 
 4.º
 
-(Áreas científicas e unidades de crédito)
+Estrutura curricular
 
-As áreas científicas e as unidades de crédito necessárias à conclusão do curso distribuem-se da seguinte forma:
+As áreas científicas e as unidades de crédito necessárias à conclusão do curso são as seguintes:
 
-a) Áreas científicas obrigatórias:
+I) Áreas científicas obritatórias:
 
-I) Análise Funcional ... 6
+a) Análise Funcional ... (ver nota a) 18
 
-II) Equações Diferenciais ... 4
+b) Equações Diferenciais ... (ver nota a) 18
 
-III) Análise Numérica ... 4
+c) Análise Numérica ... (ver nota a) 18
 
-b) Áreas científicas optativas:
+d) Probabilidades Aplicadas ... (ver nota a) 18
 
-I) Análise Funcional ... 8
+e) Computação ... (ver nota a) 18
 
-II) Equações Diferenciais ... 8
+II) Áreas científicas optativas:
 
-III) Análise Numérica ... 8
+a) Análise Funcional ... 6
 
-IV) Probabilidades Aplicadas ... 8
+b) Equações Diferenciais ... 6
 
-Total ... 22
+c) Análise Numérica ... 6
+
+d) Probabilidades Aplicadas ... 6
+
+e) Computação ... 6
+
+f) Aplicações à Engenharia e à Física ... 6
+
+Total ... 24
+
+(nota a) Sendo destas 12 unidades de crédito obtidas numa das áreas científicas e 6 unidades de crédito em áreas científicas diferentes da anterior.
+
+> Alterado pelo/a [Portaria n.º 634/87](https://diariodarepublica.pt/dr/detalhe/portaria/634-1987-420579), publicado em 1987-07-20.
 
 5.º
 

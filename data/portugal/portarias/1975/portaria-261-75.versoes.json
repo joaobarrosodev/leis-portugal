@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:161964:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1975-04-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "96ed40b623bfdc4d"
+   ]
+  },
+  {
+   "date": "1976-12-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:408134:por",
+     "title": "Portaria n.º 730/76",
+     "published": "1976-12-06",
+     "dre_path": "/dr/detalhe/portaria/730-1976-408134"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-13"
+   ],
+   "fragments": [
+    "03832645e4cc8de2"
+   ]
+  }
+ ],
+ "fragments": {
+  "96ed40b623bfdc4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Abril\n\nConvindo alterar a dependência das unidades de base estabelecida pela [Portaria n.º 20362](https://diariodarepublica.pt/dr/detalhe/portaria/20362-1964-469641), de 6 de Fevereiro de 1964, tendo em vista possibilitar uma melhor coordenação no aproveitamento dos meios aéreos;\n\nConsiderando que a direcção e inspecção da instrução sob o aspecto técnico pode exercer-se através de centros de instrução;\n\nUsando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho:\n\nManda o Conselho dos Chefes dos Estados-Maiores das Forças Armadas, pelo Chefe do Estado-Maior da Força Aérea, o seguinte:\n\n1.º - 1. As Bases Aéreas n.os 1, 2, 3 e 7, mantendo as mesmas localizações, são colocadas na dependência do Comando da 1.ª Região Aérea.\n\n2. O Centro de Recrutamento n.º 1, localizado em Lisboa, é colocado na dependência da Direcção do Serviço de Pessoal.\n\n2.º São criados os Centros de Instrução n.os 6, 7, 8 e 9, com a localização e finalidade que para cada um se indica:\n\nCentro de Instrução n.º 6 - a funcionar na Base Aérea n.º 1, para instrução básica de pilotagem;\n\nCentro de Instrução n.º 7 - a funcionar na Base Aérea n.º 2, para instrução elementar de pilotagem e para integração das escolas de formação e preparação militar e técnica;\n\nCentro de Instrução n.º 8 - a funcionar na Base Aérea n.º 3, para instrução complementar de pilotagem e navegação de aviões plurimotores e instrução de pilotagem de helicópteros e para integração das escolas de formação militar básica e complementar;\n\nCentro de Instrução n.º 9 - a funcionar na Base Aérea n.º 7, para instrução básica de pilotagem.\n\n3.º É alterada de acordo com as presentes disposições, nas partes respectivas, a [Portaria n.º 20362](https://diariodarepublica.pt/dr/detalhe/portaria/20362-1964-469641), de 6 de Fevereiro de 1964.\n\nEstado-Maior da Força Aérea, 4 de Fevereiro de 1975. - O Chefe do Estado-Maior da Força Aérea, Narciso Mendes Dias, general."
+  },
+  "03832645e4cc8de2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1976-12-06",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 730/76](https://diariodarepublica.pt/dr/detalhe/portaria/730-1976-408134), publicado em 1976-12-06."
+   ],
+   "markdown": "de 16 de Abril\n\nConvindo alterar a dependência das unidades de base estabelecida pela [Portaria n.º 20362](https://diariodarepublica.pt/dr/detalhe/portaria/20362-1964-469641), de 6 de Fevereiro de 1964, tendo em vista possibilitar uma melhor coordenação no aproveitamento dos meios aéreos;\n\nConsiderando que a direcção e inspecção da instrução sob o aspecto técnico pode exercer-se através de centros de instrução;\n\nUsando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho:\n\nManda o Conselho dos Chefes dos Estados-Maiores das Forças Armadas, pelo Chefe do Estado-Maior da Força Aérea, o seguinte:\n\n1.º - 1. As Bases Aéreas n.os 1, 2, 3 e 7, mantendo as mesmas localizações, são colocadas na dependência do Comando da 1.ª Região Aérea.\n\n2. O Centro de Recrutamento n.º 1, localizado em Lisboa, é colocado na dependência da Direcção do Serviço de Pessoal.\n\n2.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 730/76](https://diariodarepublica.pt/dr/detalhe/portaria/730-1976-408134), publicado em 1976-12-06.\n\n3.º É alterada de acordo com as presentes disposições, nas partes respectivas, a [Portaria n.º 20362](https://diariodarepublica.pt/dr/detalhe/portaria/20362-1964-469641), de 6 de Fevereiro de 1964.\n\nEstado-Maior da Força Aérea, 4 de Fevereiro de 1975. - O Chefe do Estado-Maior da Força Aérea, Narciso Mendes Dias, general."
+  }
+ }
+}

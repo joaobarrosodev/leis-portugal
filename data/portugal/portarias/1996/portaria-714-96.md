@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-03-15'
+version_history:
+  file: portaria-714-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-03-15'
+    amending: pt:dre:515241:por
+    amending_title: Portaria n.º 175/97
+    changes:
+    - Altera Artigo unidades 26-26
+    - Altera Artigo unidades 28-28
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/714/1996/12/09/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:37:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 175/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-714-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -227,11 +243,15 @@ Manda o Governo, pelo Ministro da Cultura, o seguinte:
 
 2.4 - Por receitas brutas a gerar pelo filme beneficiado devem entender-se todas aquelas que o produtor fizer com a comercialização do filme, seja para exibição em sala de cinema seja por venda em suporte vídeo;
 
-2.5 - No final do período de reembolso, seja ele de cinco anos ou inferior, caso entretanto o capital mutuado não se encontre totalmente liquidado, a dívida remanescente considerar-se-á extinta para todos os efeitos legais e contratuais, designadamente para a libertação do penhor eventualmente constituído sobre o negativo do filme;
+2.5 - No final do período do reembolso estabelecido, seja ele de cinco anos ou inferior, caso entretanto o capital mutuado não se encontre totalmente liquidado, a dívida remanescente será objecto de renegociação, caso a caso, entre o IPACA e os produtores com vista à sua extinção, após homologação do Ministro da Cultura.
+
+> Alterado pelo/a [Portaria n.º 175/97](https://diariodarepublica.pt/dr/detalhe/portaria/175-1997-515241), publicado em 1997-03-10.
 
 2.6 - Os montantes das dívidas a considerar no âmbito dos acordos escritos a celebrar não terão em conta os juros, legais ou contratuais, vencidos ou vincendos;
 
-2.7 - Anualmente e até a dívida se encontrar totalmente liquidada ou o prazo de reembolso chegar ao seu termo, ficará o produtor obrigado a enviar ao IPACA, no limite até 31 de Maio, uma listagem, certificada por um revisor oficial de contas ou por um técnico de contas, com as receitas de cada filme objecto do acordo, discriminando o valor por cada distribuidor, exibidor, operador de televisão ou qualquer outra pessoa ou entidade que proceda à comercialização do filme, quer seja nacional ou estrangeira;
+2.7 - Anualmente e até a dívida se encontrar totalmente liquidada ou o prazo do reembolso chegar ao seu termo, ficará o produtor obrigado a enviar ao IPACA, no limite até 31 de Maio, uma listagem, certificada por um revisor oficial de contas, com as receitas de cada filme objecto de acordo, discriminando o valor por cada distribuidor, exibidor, operador de televisão ou qualquer outra pessoa ou entidade que proceda à comercialização do filme, quer seja nacional ou estrangeira.
+
+> Alterado pelo/a [Portaria n.º 175/97](https://diariodarepublica.pt/dr/detalhe/portaria/175-1997-515241), publicado em 1997-03-10.
 
 2.8 - O IPACA será autorizado pelo produtor a solicitar às diversas pessoas ou entidades que procedam à comercialização do filme os comprovativos dos pagamentos a este efectuados.
 

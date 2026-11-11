@@ -38,10 +38,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-12-27'
+version_history:
+  file: portaria-205-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-12-27'
+    amending: pt:dre:612809:por
+    amending_title: Portaria n.º 178/89; Portaria n.º 1188/92
+    changes:
+    - Altera Artigo unidades 5-5
+    - Altera Artigo unidades 15-15
+    - Altera Artigo unidades 22-22
+    - Altera Artigo unidades 23-23
+    - Adita Artigo depois da unidade 23
+    - Altera Artigo unidades 25-25
 identifiers:
   celex: null
   eli: null
@@ -67,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:24:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 178/89; Portaria n.º
+    1188/92. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-205-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,7 +138,9 @@ Considerando que, no âmbito do Regulamento (CEE) n.º [3828/85](http://data.eur
 
 Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo do artigo 9.º do Decreto-Lei n.º 96/87, de 4 de Março, o seguinte:
 
-1.º O Programa de Electrificação das Explorações Agrícolas integrado no PEDAP tem a duração de dez anos, dispondo de orçamento aprovado para uma primeira fase de três anos.
+1.º O Programa dispõe de orçamento aprovado até 31 de Dezembro de 1993.
+
+> Alterado pelo/a [Portaria n.º 1188/92](https://diariodarepublica.pt/dr/detalhe/portaria/1188-1992-624396), publicado em 1992-12-22.
 
 2.º A execução do Programa é concretizada através de subprogramas da responsabilidade das direcções regionais de agricultura (DRAs), sendo a Direcção-Geral de Hidráulica e Engenharia Agrícola (DGHEA) a entidade coordenadora.
 
@@ -138,7 +160,9 @@ c) Entidades colectivas com personalidade jurídica, designadamente associaçõe
 
 7.º Analisado o interesse agrícola das electrificações solicitadas e ouvido o distribuidor local, por forma a conjugar-se o interesse agrícola com critérios de racionalidade técnica e económica do desenvolvimento da rede eléctrica, as DRAs estabelecerão o planeamento das electrificações agrícolas a contemplar prioritariamente e comunicarão aos candidatos a sua decisão por escrito.
 
-8.º No caso de decisão desfavorável, o interessado pode interpor recurso hierárquico necessário para o Ministro da Agricultura, Pescas e Alimentação, em requerimento a apresentar no prazo de 30 dias, o qual, antes de ser submetido a despacho, deverá ser acompanhado de parecer da DGHEA.
+8.º Havendo lugar a recurso hierárquico necessário, dentro do prazo legal de 30 dias a contar da data da notificação, na sequência de decisão desfavorável caberá à DGHEA a elaboração de parecer sobre o mesmo a apresentar ao Ministro da Agricultura, Pescas e Alimentação para efeito da decisão.
+
+> Alterado pelo/a [Portaria n.º 178/89](https://diariodarepublica.pt/dr/detalhe/portaria/178-1989-612809), publicado em 1989-03-04.
 
 9.º Será dada prioridade aos projectos de electrificação que envolvam mais de uma exploração.
 
@@ -152,13 +176,25 @@ c) Entidades colectivas com personalidade jurídica, designadamente associaçõe
 
 14.º Montantes dos subsídios:
 
-1 - O montante global do subsídio não poderá exceder 7500 contos por exploração agrícola.
+1 - O montante global do subsídio não poderá exceder 10000 contos por exploração agrícola.
 
-2 - O montante dos subsídios é fixado para o triénio 1988-1990 nos seguintes valores percentuais:
+> Alterado pelo/a [Portaria n.º 1188/92](https://diariodarepublica.pt/dr/detalhe/portaria/1188-1992-624396), publicado em 1992-12-22.
+
+2 - O limite referido no ponto anterior pode, no caso de explorações associadas, ser multiplicado pelo número dessas explorações, não podendo, no entanto, o resultado exceder os 30000 contos. Para efeitos do disposto neste ponto, a exploração agrícola abrange as fracções dela autonomizadas e individualmente geridas.
+
+> Alterado pelo/a [Portaria n.º 1188/92](https://diariodarepublica.pt/dr/detalhe/portaria/1188-1992-624396), publicado em 1992-12-22.
+
+3 - O montante dos subsídios é fixado para o triénio 1988-1990 nos seguintes valores percentuais:
+
+> Aditado pelo/a [Portaria n.º 178/89](https://diariodarepublica.pt/dr/detalhe/portaria/178-1989-612809), publicado em 1989-03-04.
 
 a) Linhas eléctricas de alta tensão, postos de transformação, redes de distribuição de energia eléctrica em baixa tensão ou ramais - 100%;
 
-b) Instalações eléctricas de baixa tensão a construir dentro das explorações agrícolas, nomeadamente redes de baixa tensão, instalações eléctricas em edifícios agrícolas e em estações de bombagem, excluindo as instalações eléctricas nas habitações e as instalações ou parte das instalações eléctricas destinadas a aquecimento ambiente, de águas sanitárias ou de processo ou à preparação de alimentos - 55%.
+b) Instalações eléctricas de baixa tensão a construir dentro das explorações agrícolas, nomeadamente redes de baixa tensão, instalações eléctricas em edifícios agrícolas e em estações de bombagem, excluindo as instalações eléctricas nas habitações e as instalações ou parte das instalações eléctricas destinadas a aquecimento ambiente, de águas sanitárias ou de processo ou à preparação de alimentos - 45% nas regiões não desfavorecidas e 55% nas regiões desfavorecidas, delimitadas ao abrigo da Directiva n.º [75/268/CEE](http://data.europa.eu/eli/dir/1975/268/oj?locale=pt);
+
+c) As percentagens referidas na alínea anterior são majoradas de 25% no caso de os agricultores beneficiários se enquadrarem no regime de jovem agricultor, nos termos do artigo 14.º do Decreto-Lei n.º 79-A/78, de 18 de Fevereiro.
+
+> Alterado pelo/a [Portaria n.º 178/89](https://diariodarepublica.pt/dr/detalhe/portaria/178-1989-612809), publicado em 1989-03-04.
 
 15.º Compete à DGHEA e às DRAs acompanhar e fiscalizar o andamento dos trabalhos relativos às obras de electrificação, sem prejuízo da competência da Direcção-Geral de Energia.
 

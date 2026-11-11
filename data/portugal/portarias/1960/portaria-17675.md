@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1960-06-06'
+version_history:
+  file: portaria-17675.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-04-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1960-06-06'
+    amending: pt:dre:503778:por
+    amending_title: Portaria n.º 17762
+    changes:
+    - Adita Artigo depois da unidade 81
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:42:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 17762. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1960/portaria-17675.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -263,6 +278,10 @@ b) Manter os serviços administrativos necessários à boa actuação das brigad
 § único. Em caso de impedimento os membros da comissão administrativa poderão ser substituídos por outros elementos da brigada, mediante autorização do governador-geral, sob proposta do chefe da brigada.
 
 10.º Os encargos de qualquer natureza decorrentes do funcionamento das brigadas serão suportados pela dotação inscrita na rubrica «Aproveitamento de recursos - Fomento agrário, florestal e pecuário» do Plano do Fomento, da província de Moçambique.
+
+§ único. Sob proposta do governador-geral de Moçambique, simultânea ou posterior à da criação de qualquer brigada, poderá o Ministro do Ultramar determinar, por despacho, que as despesas decorrentes do seu funcionamento sejam imputadas a outra rubrica do II Plano de Fomento, quando a haja especificamente consignada à finalidade própria da brigada em referência.
+
+> Aditado pelo/a [Portaria n.º 17762](https://diariodarepublica.pt/dr/detalhe/portaria/17762-1960-503778), publicado em 1960-06-06.
 
 Ministério do Ultramar, 15 de Abril de 1960. - Pelo Ministro do Ultramar, Carlos Krus Abecasis, Subsecretário de Estado do Fomento Ultramarino.
 

@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-10-19'
+version_history:
+  file: portaria-397-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-04-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-10-19'
+    amending: pt:dre:355128:por
+    amending_title: Portaria n.º 690/88
+    changes:
+    - Altera Artigo unidades 16-20
+    - Altera Artigo unidades 32-32
+    - Adita Artigo depois da unidade 32
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:39:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 690/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-397-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,15 +150,11 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Seguran�
 
 4.º Às subcomissões de participação e consulta compete pronunciarem-se sobre todas as propostas e pareceres da subcomissão técnica e sugerirem a esta as alterações à tabela que entenderem convenientes.
 
-5.º A subcomissão técnica é composta pelos seguintes elementos, que funcionam como peritos técnicos:
+5.º A subcomissão técnica é composta pelos seguintes elementos:
 
-a) 1 representante da Secretaria de Estado da Segurança Social, que coordenará os trabalhos;
+a) Dois representantes da Secretaria de Estado da Segurança Social, um dos quais coordenará os trabalhos.
 
-b) 1 representante da Direcção-Geral da Segurança Social;
-
-c) 1 representante da Caixa Nacional de Seguros de Doenças Profissionais;
-
-d) 1 representante do Instituto de Seguros de Portugal.
+> Alterado pelo/a [Portaria n.º 690/88](https://diariodarepublica.pt/dr/detalhe/portaria/690-1988-355128), publicado em 1988-10-14.
 
 6.º As subcomissões de participação e consulta são constituídas pelos seguintes membros:
 
@@ -165,7 +178,23 @@ c) 2 representantes dos trabalhadores designados pelas associações sindicais;
 
 d) 2 representantes dos empregadores designados pelas associações patronais.
 
-7.º A comissão permanente é presidida pelo representante da Secretaria de Estado da Segurança Social, ao qual competirá definir as normas de articulação e funcionamento das subcomissões.
+7.º A comissão permanente terá um presidente e um vice-presidente, que serão os representantes designados pela Secretaria de Estado da Segurança Social.
+
+> Alterado pelo/a [Portaria n.º 690/88](https://diariodarepublica.pt/dr/detalhe/portaria/690-1988-355128), publicado em 1988-10-14.
+
+7.º-A. Compete ao presidente:
+
+a) Convocar as reuniões da comissão permanente e das subcomissões;
+
+b) Orientar globalmente os trabalhos da comissão permanente e da subcomissão técnica.
+
+7.º-B. Compete ao vice-presidente:
+
+a) Apoiar tecnicamente e substituir o presidente no exercício das suas funções;
+
+b) Orientar e coordenar as reuniões de trabalho dos peritos médicos responsáveis pela elaboração dos capítulos relativos às várias especialidades.
+
+> Aditado pelo/a [Portaria n.º 690/88](https://diariodarepublica.pt/dr/detalhe/portaria/690-1988-355128), publicado em 1988-10-14.
 
 8.º Por deliberação do presidente da comissão permanente, ouvidos os demais elementos, poderão ser solicitados a tomar parte nos seus trabalhos técnicos especializados nas matérias em discussão.
 

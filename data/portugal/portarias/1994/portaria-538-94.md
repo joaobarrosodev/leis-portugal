@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-16'
+version_history:
+  file: portaria-538-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-16'
+    amending: pt:dre:649083:por
+    amending_title: Portaria n.º 968/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/538/1994/07/08/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:30:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 968/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-538-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,7 +155,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Amiais de Baixo, município de Santarém, com uma área de 644,3750 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Amiais de Baixo, município de Santarém, com a área de 504,35 ha.
+
+> Alterado pelo/a [Portaria n.º 968/97](https://diariodarepublica.pt/dr/detalhe/portaria/968-1997-649083), publicado em 1997-09-15.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 968/97](https://diariodarepublica.pt/dr/detalhe/portaria/968-1997-649083), publicado em 1997-09-15.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, ao Clube de Caçadores Amiense (registo no Instituto Florestal n.º 3.913.91), com sede em Amiais de Baixo, Santarém, a zona de caça associativa de Amiais de Baixo (processo n.º 1488 do Instituto Florestal).
 
