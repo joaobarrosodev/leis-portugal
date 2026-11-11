@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:666280:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "h) Um representante da Polícia de Segurança Pública e um representante da Guarda Nacional Republicana;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: retificação da alínea h) do n.º 2.º (unidade 16), que passa a «Um representante da Polícia de Segurança Pública e um representante da Guarda Nacional Republicana;». O texto atual tem «Repúblicana» (com acento) e a retificação cita «Republicana»; alvo inequívoco, aplicado com o texto da retificação."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

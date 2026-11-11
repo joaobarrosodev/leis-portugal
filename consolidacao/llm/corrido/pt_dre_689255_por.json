@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:689255:por",
+  "substituicoes": [
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "Mínimo de cobrança - 800$00;",
+      "alterador": 1
+    },
+    {
+      "de": 39,
+      "ate": 39,
+      "texto": "Mínimo de cobrança - 800$00;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: os quadros de tarifas do n.º 1.º são substituídos, mas os novos quadros só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição dos quadros do n.º 1.º, só em imagem; não aplicada.",
+    "Alterador 1, 2.º: o mínimo de cobrança do n.º 15.º passa a 800$00; apliquei às duas linhas de mínimo de cobrança (Lisboa-Madeira e Madeira-Açores, ambas 805$00)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

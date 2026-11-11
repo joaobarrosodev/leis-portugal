@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:673070:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "De acordo com os princípios adoptados na elaboração das anteriores cartas da Reserva Agrícola Nacional relativas à área de intervenção da Direcção Regional de Agricultura do Ribatejo e Oeste, procede-se agora à aprovação da carta da reserva Agrícola de Almeirim.",
+      "alterador": 1
+    },
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "4.º Os pareceres favoráveis emitidos pela Comissão Regional da Reserva Agrícola do Ribatejo e Oeste até à entrada em vigor do presente regulamento carecem da confirmação do mesmo órgão.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: no preâmbulo, «Direcção Regional de Agricultura da Beira Litoral» passa a «Direcção Regional de Agricultura do Ribatejo e Oeste» (unidade 3).",
+    "Alterador 1: no n.º 4.º, «Comissão Regional da Reserva Agrícola de Entre Doutro e Minho» (no texto atual «Entre Douro e Minho», alvo único) passa a «Comissão Regional da Reserva Agrícola do Ribatejo e Oeste» (unidade 9)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

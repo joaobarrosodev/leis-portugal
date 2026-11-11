@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:1989437:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "Representante da Autoridade Florestal Nacional - José Caimoto e Sousa.",
+      "alterador": 1
+    },
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "Representante do Instituto da Conservação da Natureza e da Biodiversidade - Luís Carloto Marques.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1152/2009, artigo único: nova redação do n.º 1.º; substituídas as unidades 14 (representante da AFN em vez da DRA do Alentejo) e 16 (designação do ICNB); restantes iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

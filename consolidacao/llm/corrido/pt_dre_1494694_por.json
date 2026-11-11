@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:1494694:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 18,
+      "texto": "Autarca de freguesia - Luís Adriano Areias da Silva.\n\nRepresentante da Autoridade Florestal Nacional - Augusto João Barbosa Maia.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade - José Marcos Ferreira de Azevedo Guerra Liberal.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do n.º 1.º; unidades 6-12 iguais; substituídas as unidades 13-18 (autarca, Autoridade Florestal Nacional em vez da DRAEDM, ICNB) pela nova redação."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

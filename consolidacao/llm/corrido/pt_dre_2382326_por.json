@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:2382326:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 5 (Portarias n.os 925/2009, 1389/2009, 1390/2009, 186/2010 e 1147/2010) só aditam CPA ao anexo da Portaria n.º 579/2009, e esses anexos só vêm em imagem (ver documento original); nada textual a aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 3.º: adita CPA do anexo ii ao anexo; anexo só em imagem, não aplicado.",
+    "Alterador 2, n.º 3.º: adita CPA do anexo ii ao anexo; anexo só em imagem, não aplicado.",
+    "Alterador 3, n.º 3.º: adita CPA do anexo ii ao anexo; anexo só em imagem, não aplicado.",
+    "Alterador 4, n.º 3.º: adita CPA do anexo ii ao anexo; anexo só em imagem, não aplicado.",
+    "Alterador 5, artigo 2.º, n.º 2: adita CPA do anexo ii aos anexos; anexo só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

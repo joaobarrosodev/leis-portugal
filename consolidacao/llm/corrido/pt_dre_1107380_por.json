@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:1107380:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 17,
+      "texto": "Representante das organizações não governamentais do ambiente:\n\nArmando Emanuel Rainha Simões Pacheco.\n\nRepresentante da Autoridade Florestal Nacional:\n\nArmando José Pereira.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do n.º 1.º; a DRA de Trás-os-Montes e Abílio Rodrigues dão lugar ao representante das ONGA e ao da Autoridade Florestal Nacional, e o ICN passa a ICNB; substituídas as unidades 15-17 (Domingos Amaro mantém-se)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

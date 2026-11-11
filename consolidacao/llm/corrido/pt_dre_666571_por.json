@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:666571:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º O Programa cobre todo o território continental e tem uma duração de dez anos, dispondo de orçamento aprovado até 1991.",
+      "alterador": 1
+    },
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "5.º Os projectos de investimento para beneficiação dos regadios tradicionais são subsidiados em 90% do seu custo.",
+      "alterador": 1
+    },
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "7.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 15,
+      "texto": "Construção e reparação de pequenas barragens;\n\nInstalação de contadores.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 2.º (unidade 7).",
+    "Alt. 1, 1.º: nova redação do n.º 1) do n.º 3.º; os seis primeiros itens ficam iguais, acrescentados dois itens depois da unidade 15.",
+    "Alt. 1, 1.º: nova redação do n.º 5.º (unidade 20).",
+    "Alt. 1, 2.º: revogado o n.º 7.º (unidade 22)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

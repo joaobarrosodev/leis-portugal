@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:689417:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o anexo passa a ter a redacção do anexo da Portaria n.º 813/97, mas o plano de estudos só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo anexo (plano de estudos) só em imagem; não aplicado.",
+    "Alterador 1, 2.º: norma de aplicação própria, não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

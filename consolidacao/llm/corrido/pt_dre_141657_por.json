@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:141657:por",
+  "substituicoes": [
+    {
+      "de": 34,
+      "ate": 43,
+      "texto": "O distintivo a que se refere o n.º 1 deve obedecer às seguintes características:\n\n1) O distintivo deve ser aplicado directamente no rótulo;\n\n2) O distintivo é constituído por dois círculos concêntricos, com os diâmetros máximos de 39 mm e 26 mm, respectivamente;\n\n3) A coroa exterior é dividida ao meio com uma mediatriz amarela (a) e pintada de cor verde (b), no lado esquerdo, e de cor vermelha (c), no lado direito;\n\n4) O círculo interior é de cor branca e deve conter, em caracteres latinos de cor preta, a inscrição: «Rótulo aprovado pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas».\n\n[(ver distintivo no documento original)](https://files.diariodarepublica.pt/1s/2000/07/154b00/29572958.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 2: o anexo do Despacho Normativo n.º 16/99 é substituído pelo anexo do alterador; substituídas as unidades 34-43 (corpo do anexo, incluindo as notas de cor) pelo texto do novo anexo, mantendo o título ANEXO.",
+    "Alterador 1, n.os 1 e 3: dirigidos a outros produtos e a prazo transitório para as empresas — não alteram o texto do original, ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

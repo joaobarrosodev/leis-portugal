@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:673623:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 8-H/2002 rectifica a col. 1.ª, l. 2, do anexo I (onde se lê «10 40» deve ler-se «TAB >= 40»), mas o anexo I só existe em imagem no texto atual (unidade 51), pelo que não há texto onde aplicar.",
+  "instrucoes": [
+    "Alterador 1: rectificação da col. 1.ª, l. 2, do anexo I («10 40» → «TAB >= 40»); não aplicada porque o quadro do anexo I só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

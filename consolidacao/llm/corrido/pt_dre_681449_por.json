@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:681449:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 77/93 rectifica o mapa da Declaração n.º 47/93, mas o «onde se lê» e o «deve ler-se» só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1: rectificação do mapa orçamental — não aplicada (texto só em imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

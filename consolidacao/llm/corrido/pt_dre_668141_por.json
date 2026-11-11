@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:668141:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A rectificação («Capítulo 01» passa a «Capítulo 03», na p. 3403) incide sobre o mapa de alterações orçamentais que só existe em imagem (ver documento original); o texto «Capítulo 01» não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: rectifica «Capítulo 01» para «Capítulo 03» na p. 3403 — não aplicado, o mapa só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

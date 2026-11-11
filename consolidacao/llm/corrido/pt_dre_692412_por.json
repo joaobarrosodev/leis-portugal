@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:692412:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: os quadros do anexo I passam a ter a redacção dos quadros do anexo I da Portaria n.º 407/96, que só vêm em imagem no documento original (e o anexo I do original também é só imagem); não se aplica.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui os quadros do anexo I — não aplicado: quadros só em imagem.",
+    "Alterador 1, n.º 2.º: entrada em vigor — norma própria, ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

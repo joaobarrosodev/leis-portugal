@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:687031:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o plano de estudos passa a ser o do anexo da Portaria n.º 46/2002, mas os quadros só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos (anexo) só em imagem; não aplicado.",
+    "Alterador 1, 2.º a 4.º: normas próprias (semestre, transição, aplicação), não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

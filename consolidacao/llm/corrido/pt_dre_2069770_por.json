@@ -1,0 +1,37 @@
+{
+  "id": "pt:dre:2069770:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º O Conselho Cinegético Municipal de Vieira do Minho é constituído pelos seguintes vogais:",
+      "alterador": 1
+    },
+    {
+      "de": 8,
+      "ate": 10,
+      "texto": "Domingos Manuel Pereira Fraga;\n\nJosé Luís Batoca;\n\nJosé Maria Dias Canela.",
+      "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 13,
+      "texto": "João Paulo Carneiro Ribeiro;\n\nJosé António Matos Vieira Leite.",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 19,
+      "texto": "Carlos Manuel Silva Pereira.\n\nRepresentante da Autoridade Florestal Nacional:\n\nÁlvaro Manuel Vieira Gonçalves.\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade:\n\nMaria do Carmo Miranda.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1082/2009, artigo único: nova redação do n.º 1.º; substituídas as unidades que mudam (6 grafia de constituído, 8-10 e 12-13 pontuação, 15-19 pontuação, representante da AFN em vez da DGRF e novo vogal)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

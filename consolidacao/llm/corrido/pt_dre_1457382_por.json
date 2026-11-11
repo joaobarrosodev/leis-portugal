@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:1457382:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º É autorizado o Chefe do Estado-Maior-General das Forças Armadas, a aprontar, sustentar e empregar o contingente nacional de apoio à ISAF com o respetivo comandante, perfazendo um efetivo máximo de 235 militares no TO, integrando a Advisor Team (AT) de Divisão (12 militares), as Equipas de Formadores/Instrutores (20 militares), a Unidade de Apoio (93 militares), a Força de Proteção (FP) para o KAIA FP (65 militares), a Célula de Informações Militares (6 militares) e o pessoal destacado no QG e no KAIA (32 militares). As equipas de Formadores/Instrutores incluem uma componente da Guarda Nacional Republicana, com 15 militares;",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do n.º 1.º (235 militares, 81 formadores, Unidade de Apoio 116, etc.) — aplicada à unidade 8 e depois substituída pela redação do alterador 2.",
+    "Alterador 2, n.º 1: nova composição do contingente, que o preâmbulo diz alterar o n.º 1 da Portaria n.º 735/2010; aplicada como redação final da unidade 8, mantendo a numeração 1.º do original e o resto letra a letra (incluindo o ';' final).",
+    "Alterador 2, n.º 2: revoga a Portaria n.º 416/2011 (o alterador 1), não o original — sem efeito textual próprio."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

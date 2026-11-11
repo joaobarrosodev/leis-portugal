@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:687033:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "Com fundamento no estabelecido pelos artigos 19.º, 20.º e 25.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 64.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 546/99): suspende a actividade cinegética na zona por 180 dias; não é alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1: rectificação no preâmbulo, Decreto-Lei n.º 251/82 passa a 251/92; o trecho citado («e pelo artigo 64.º») não coincide letra a letra com a unidade 8 («e 64.º»), apliquei só a troca da referência ao decreto-lei (com a ligação do rectificador).",
+    "Alterador 2: suspensão da actividade cinegética, não textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

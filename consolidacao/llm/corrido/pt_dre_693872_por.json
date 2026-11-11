@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:693872:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "Modelo n.º 1 - para uso do pessoal nomeado para os gabinetes dos membros do Governo do Ministério do Trabalho e da Solidariedade Social (MTSS), dos titulares dos cargos de direcção superior, previstos no n.º 3 do artigo 2.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, na redacção dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, dos directores de segurança social, dos directores-adjuntos de segurança social, dos delegados regionais, dos subdelegados regionais dos serviços e organismos sob a superintendência e tutela do Ministro do Trabalho e da Solidariedade Social, bem como para uso do pessoal cuja especificidade da função exercida assim o exija (anexo n.º 1);",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º; corpo («1.º ...») e Modelo n.º 2 ([...]) mantidos; substituída só a unidade 7 (Modelo n.º 1)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "pt:dre:678220:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "1.º Por disposição testamentária do Doutor Jayme Eduardo Rios de Sousa, é instituído na Faculdade de Ciências da Universidade do Porto um prémio anual com a designação «Prémio Prof. Doutor Jayme Rios de Sousa», constituído pelo rendimento anual do fundo depositado para o efeito na Caixa Económica de Lisboa, anexa ao Montepio Geral, pelo prazo que garanta a mais elevada taxa de juro.",
+      "alterador": 1
+    },
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "2.º - 1 - O prémio será atribuído anualmente ao aluno mais classificado na disciplina de Geometria, da licenciatura de Matemática, que tiver obtido nota não inferior a 16 valores.",
+      "alterador": 1
+    },
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "3 - Em caso de supressão da disciplina de Geometria da licenciatura em Matemática, competirá ao conselho científico da Faculdade de Ciências da Universidade do Porto indicar a disciplina que no n.º 1 deste n.º 2.º substituirá a de Geometria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 9,
+      "texto": "5.º Devido à não atribuição do prémio nos anos lectivos de 1980-1981 e seguintes, a primeira vez que este venha a ser distribuído será repartido por todos os alunos que a ele tiverem direito desde aquela date e cujos nomes foram sucessivamente indicados pelo conselho científico da Faculdade de Ciências da Universidade do Porto.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (unidade 4)",
+    "Alterador 1, 2.º: nova redação dos n.os 1 e 3 do n.º 2.º (unidades 5 e 7); n.º 2 fica",
+    "Alterador 1, 3.º: aditado n.º 5.º depois do 4.º (inserção após unidade 9)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

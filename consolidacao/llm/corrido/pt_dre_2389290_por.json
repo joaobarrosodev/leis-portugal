@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:2389290:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "Por ter sido publicado com inexactidão no Diário da República, 2.ª Série, n.º 72, de 14 de Abril de 2009, o despacho n.º 9975/2009, rectifica-se que no anexo, na epígrafe do artigo 2.º, onde se lê «Cálculo do valor da caução para clientes em MAT, AT, MT e Boletim do Trabalho e Emprego» deve ler-se «Cálculo do valor da caução para clientes em MAT, AT, MT e BTE».",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retifica o texto que se deve ler na declaração (BTE em vez de Boletim do Trabalho e Emprego); trocada a segunda ocorrência na unidade 2."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

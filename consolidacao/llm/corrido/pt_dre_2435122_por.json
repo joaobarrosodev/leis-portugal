@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:2435122:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 16,
+      "texto": "Autarca de freguesia - Fernando Manuel de Barros Gonçalves.\n\nRepresentante da Autoridade Florestal Nacional - Augusto João Barbosa Maia.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do n.º 1.º; unidades 6-12 iguais, substituídas as 13-16 (autarca numa linha e novo representante da Autoridade Florestal Nacional)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

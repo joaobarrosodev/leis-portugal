@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:905291906:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1 - Fica o Instituto Português de Oncologia de Coimbra Francisco Gentil, E. P. E., autorizado a assumir um encargo plurianual até ao montante 3 102 350,49 € (três milhões cento e dois mil trezentos e cinquenta euros e quarenta e nove cêntimos), a que acresce IVA à taxa legal em vigor, referente à requalificação do posto de transformação.",
+      "alterador": 1
+    },
+    {
+      "de": 7,
+      "ate": 8,
+      "texto": "2025: 0,00 €;\n\n2026: 1 219 512,20 €, a que acresce IVA à taxa legal em vigor;\n\n2027: 1 882 838,29 €, a que acresce IVA à taxa legal em vigor.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação dos n.os 1 e 2; n.º 1 substituído (unidade 5); proémio do n.º 2 igual, substituídas as importâncias anuais (unidades 7-8) pelas três novas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

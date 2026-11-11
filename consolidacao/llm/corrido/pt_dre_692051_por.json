@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:692051:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o anexo (plano de estudos) passa a ter a redacção do anexo da Portaria n.º 92/2005, mas os quadros n.os 1 a 4 desse anexo só vêm em imagem no documento original; não se aplica por não haver texto seguro para o novo anexo.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui o anexo do original pelo anexo da Portaria n.º 92/2005 — não aplicado: quadros só em imagem.",
+    "Alterador 1, n.os 2.º a 4.º: normas próprias (Estágio e Trabalho de Projecto, transição, aplicação) — ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

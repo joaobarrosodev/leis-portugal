@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:684850:por",
+  "substituicoes": [
+    {
+      "de": 65,
+      "ate": 83,
+      "texto": "Miringotomia com ou sem tubos de ventilação - 30;\n\nMastoidectomias e timpanomastoidectomias - 10;\n\nTimpanoplastias - 10;\n\nEstapedectomias/estapedotomias - 2.\n\nCirurgia de nariz e seios perinasais:\n\nSeptoplastias - 10;\n\nRinoseptoplastias - 2;\n\nCirurgia de seios perinasais, técnica convencional/microendoscópica - 10;\n\nFracturas nasais - 5.\n\nCirurgia da laringe e traqueia:\n\nTraqueotomias - 8;\n\nMicrocirurgia laríngea - 15;\n\nCirurgia oncológica da laringe - 2.\n\nCirurgia oral, faringe e esófago:\n\nAdenoidectomia - 30;\n\nAdenoamigdalectomia - 20;\n\nAmigdalectomia - 10.\n\nCirurgia do pescoço:\n\nCirurgia cervical - 5.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do n.º 11 do programa (acrescenta o número mínimo de cada acto cirúrgico) — substituídas as unidades 65 a 83; o proémio do n.º 11 (63) e 'Cirurgia do ouvido:' (64) ficam iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

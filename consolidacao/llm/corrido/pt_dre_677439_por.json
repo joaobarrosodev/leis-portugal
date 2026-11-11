@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:677439:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "a) Organizações de produtores e outras empresas de produção, empresários de comércio grossista ou equiparado e respectivas organizações representativas, bem como as autarquias locais, para as acções descritas nas alíneas a) e b) do n.º 1;",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "b) O montante máximo de financiamento é de 80%, até um máximo de 7500 contos por candidatura.",
+      "alterador": 1
+    },
+    {
+      "de": 26,
+      "ate": 29,
+      "texto": "7 - A decisão sobre a aceitação e o financiamento das candidaturas será comunicada ao interessado nos 60 dias subsequentes à data da apresentação das mesmas.\n\n8 - No prazo de vigência do Programa as entidades beneficiárias podem:\n\na) Candidatar-se às acções de formação e comunicação mais de uma vez, apenas se estas forem complemento de outras já efectuadas e se revelem de particular interesse;\n\nb) Beneficiar de uma 2.ª candidatura para as acções de concepção e realização de embalagens desde que incida sobre outros produtos e ou outro tipo de embalagens.\n\n9 - As entidades beneficiárias comprometem-se a realizar as acções num prazo máximo de um ano a partir da data da comunicação da sua aprovação, findo o qual o financiamento poderá ser cancelado.\n\n10 - As entidades beneficiárias comprometem-se a cumprir a normalização das frutas e produtos hortícolas frescos, podendo o financiamento ser retirado em consequência de penalizações de acções de controlo e inspecção.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: n.º 2, alínea a), nova redação (unidade 13); corpo e alínea b) ficam ('...')",
+    "Alterador 1: n.º 5, alínea b), nova redação (unidade 24); corpo e alínea a) ficam",
+    "Alterador 1: n.os 7, 8 (agora com alíneas a) e b)), 9 e 10, nova redação (unidades 26-29)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

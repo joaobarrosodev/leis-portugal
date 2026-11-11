@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:665728:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "2.º As organizações da produção promoverão a concentração das lãs não churras isentas de marcas com tinta plástica e alcatrão dos efectivos ovinos dos seus associados, em armazéns regionais, para venda em leilão, com prévia classificação e avaliação pelo Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA);",
+      "alterador": 1
+    },
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "Penteados brancos:\n\nValor por quilograma\n\nMerinos extra ... 640$00\n\nMerinos finos ... 588$00\n\nMerinos correntes ... 491$00\n\nPrimas ... 416$00\n\nCruzados finos ... 372$00\n\nLavados brancos (para carda):\n\nMerinos extra ... 508$00\n\nMerinos finos ... 473$00\n\nMerinos correntes ... 402$00\n\nPrimas ... 321$00\n\nCruzados finos ... 293$00\n\nCruzados médios ... 250$00\n\nCruzados lustrosos ... 222$00\n\nPeças e aninhos fortes ... 192$00\n\nPontas e chocas ... 161$00\n\nLavados e penteados pigmentados:\n\nDesvalorização de 20% em todas as classe.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º da Portaria n.º 301/94: nova redação do n.º 2.º — unidade 10 substituída (mantido o número 2.º).",
+    "2.º: tabela anexa substituída pela tabela da Portaria n.º 301/94 — unidade 27 (tabela em imagem) substituída pelo texto da nova tabela; título (25) e subtítulo Lãs brancas não churras de tosquia (26) mantidos.",
+    "3.º (entrada em vigor do alterador): não altera o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:1331433:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "António da Cruz Forte",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 16,
+      "texto": "Representante da Autoridade Florestal Nacional:\n\nMaria João Martins Gonçalves Pinheiro.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do n.º 1.º; o representante da DRA de Trás-os-Montes passa a ser o da Autoridade Florestal Nacional (unidades 15-16); a unidade 12 copiada do alterador, que a traz sem ponto final."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

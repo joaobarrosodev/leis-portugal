@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:675258:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a retificação (Capítulo 04/Divisão 01 para Divisão 04/Subdivisão 01, p. 4068) incide sobre o mapa que só vem em imagem (unidade 3); o texto a retificar não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação de designações no mapa da p. 4068 — mapa só em imagem; não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

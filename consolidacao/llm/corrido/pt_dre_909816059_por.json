@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:909816059:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 24,
+      "texto": "1 - Autorizar a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), e a Administração do Porto de Lisboa, S. A. (APL, S. A.), a realizar despesa para a realização da empreitada de alimentação artificial das praias do concelho de Almada (Costa da Caparica e São João da Caparica), no montante máximo global de 7 672 024,18 €, ao qual acresce o imposto sobre o valor acrescentado (IVA), à taxa legal em vigor, de acordo com a seguinte repartição:\n\na) A APA, I. P., até ao montante máximo de 5 512 024,18 €, assim distribuído:\n\ni) 2025: 1 588 384,23 €;\n\nii) 2026: 3 923 639,14 €;\n\niii) 2027: 0,81 €;\n\nb) A APL, S. A., até ao montante máximo de 2 160 000,00 €, assim distribuído:\n\ni) 2025: 0,00 €;\n\nii) 2026: 2 159 999,00 €;\n\niii) 2027: 1,00 €.\n\n2 - Determinar que aos valores referidos no número anterior acresce imposto sobre o valor acrescentado à taxa legal em vigor.\n\n3 - Estabelecer que o montante fixado no n.º 1, para cada ano económico, pode ser acrescido do saldo apurado no ano anterior.\n\n4 - Determinar que os encargos financeiros a executar pela APA, I. P., têm financiamento europeu através do Programa Temático para a Ação Climática e Sustentabilidade - Sustentável 2030, com um montante aprovado de 5 365 369,77 €, ficando a APA., I. P., responsável por instruir os procedimentos necessários para obter financiamento comunitário adicional, concorrendo para a redução do financiamento nacional, sendo o encargo remanescente financiado através de verbas inscritas, ou a inscrever, nas fontes de financiamento de receitas próprias do orçamento da APA, I. P.\n\n5 - Estabelecer que os encargos financeiros previstos na alínea b) do n.º 1 são suportados pelas verbas inscritas e devidamente previstas no plano de atividades e orçamento da APL, S. A.\n\n6 - Estabelecer que caso haja financiamento europeu adicional, o financiamento nacional será reduzido na respetiva proporção\n\n7 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área do ambiente e energia, a competência para a prática de todos os atos subsequentes necessários à execução da presente resolução.\n\n8 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação dos n.os 1 a 6 (unidades 17-22 substituídas) e aditamento dos n.os 7 e 8 que são os anteriores n.os 5 e 6 renumerados (unidades 23-24 com o texto atual e nova numeração)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 17-24: troca que não está no alterador nem no original: «ao qual acresce o imposto sobre o valor acrescentado ( IVA )» em 1 - Autorizar a Agência Portuguesa do Ambiente, I."
+  ]
+}

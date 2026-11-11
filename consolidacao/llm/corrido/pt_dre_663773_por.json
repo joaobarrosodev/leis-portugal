@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:663773:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 362/98 substitui o anexo I (plano de estudos), mas tanto o anexo original como o novo só vêm em imagem (quadros no documento original); não há texto a aplicar.",
+  "instrucoes": [
+    "1.º: anexo I passa a ter a redação do anexo da Portaria n.º 362/98 — anexo só em imagem; não aplicado.",
+    "2.º e 3.º (aplicação e vagas): normas próprias do alterador, não alteram o texto do original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

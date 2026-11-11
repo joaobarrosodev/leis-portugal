@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:673804:por",
+  "substituicoes": [
+    {
+      "de": 43,
+      "ate": 43,
+      "texto": "O número de vagas para a candidatura à matrícula e inscrição no ano lectivo de 1999-2000 é fixado em 32.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 9.º (vagas 1999-2000 fixadas em 32); número e epígrafe iguais, substituído só o corpo (unidade 43).",
+    "Alterador 1, 2.º: produção de efeitos; norma própria, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

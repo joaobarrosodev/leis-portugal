@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:675029:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a mudança de denominação (1.º) e o novo plano de estudos (2.º) não são instruções de alteração textual de pontos do original, e o anexo de substituição só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: curso passa a designar-se Matemática Aplicada e Computação — norma autónoma, sem nova redação de ponto do original; não aplicado",
+    "Alterador 1, 2.º e anexo: novo plano de estudos (alteração à Portaria n.º 1097/97) — quadros só em imagem; não aplicado",
+    "Alterador 1, 3.º-5.º: normas autónomas — não alteram o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

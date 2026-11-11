@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:2271375:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 10,
+      "texto": "Álvaro Manuel Gonçalves Arriaga;\n\nAntónio Claro Mergulhão;\n\nJoão Marques Aço;",
+      "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 17,
+      "texto": "Eduardo António dos Reis Monteiro;\n\nJosé Casimiro Miranda dos Reis;\n\nRepresentante das zonas de caça turísticas - Armando da Graça Mendes da Rosa;\n\nAutarca de freguesia - Vitorino Oliveira Carvalho;\n\nRepresentante da Autoridade Florestal Nacional - Joaquim Fernando Pinheiro Brito;\n\nRepresentante do Instituto da Conservação da Natureza e da Biodiversidade - João Mário Madeira Pargana.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação do n.º 1.º; substituídas as unidades que mudam (8-10 e 12-17), mantidas as 6, 7 e 11 iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

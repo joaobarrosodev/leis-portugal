@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:666890:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1311/2006 (n.º 7.º) revoga por inteiro a Portaria n.º 917/99.",
+  "instrucoes": [
+    "Alt. 1, 5.º: extingue o curso criado pelo original; sem alteração textual.",
+    "Alt. 1, 7.º: revoga todo o original; nada a devolver."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

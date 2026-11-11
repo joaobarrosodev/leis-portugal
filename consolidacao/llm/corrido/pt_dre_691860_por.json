@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:691860:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: o aditamento de um n.º 1.º-A é dirigido à 'Portaria n.º 572/72, de 26 de Junho', mas o contexto (zona de caça associativa, n.º 1.º sobre regime cinegético) mostra que se trata da Portaria n.º 572/92, de 26 de Junho; o original (Portaria n.º 572/72, de 3 de Outubro, sobre abonos ao Consulado-Geral em S. Paulo) não tem n.º 1.º, pelo que não se aplica.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redacção do n.º 1.º da Portaria n.º 572/92 — outro diploma, ignorada.",
+    "Alterador 1, n.º 1.º (2.ª parte): aditamento do n.º 1.º-A à 'Portaria n.º 572/72, de 26 de Junho' — gralha por 572/92; não aplicado ao original.",
+    "Alterador 1, n.os 2.º e 3.º: respeitam à Portaria n.º 572/92 e à Portaria n.º 993-E/97 — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

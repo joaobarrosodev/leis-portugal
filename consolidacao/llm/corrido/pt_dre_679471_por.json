@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:679471:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o novo plano de estudos (anexo) só vem em imagem (quadros n.os 1 a 6); não se pode substituir o anexo do original. Os pontos 2.º a 4.º são normas próprias da Portaria n.º 858/99, não alteram o texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: plano de estudos passa a ser o do anexo da Portaria n.º 858/99 — anexo só em imagem; não aplicado",
+    "Alterador 1, 2.º-4.º: normas autónomas (número de alunos, aplicação, transição) — não são alterações textuais ao original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

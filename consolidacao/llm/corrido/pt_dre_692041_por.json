@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:692041:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: o anexo (plano de estudos) passa a ter a redacção do anexo da Portaria n.º 64/2005, mas os quadros n.os 1 a 4 desse anexo só vêm em imagem no documento original; não se aplica por não haver texto seguro para o novo anexo.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: eliminação dos ramos de Tradução e de Interpretação no 2.º ciclo — norma própria; os ramos só aparecem no anexo, cuja substituição não se aplica.",
+    "Alterador 1, n.º 2.º: substitui o anexo do original pelo anexo da Portaria n.º 64/2005 — não aplicado: quadros só em imagem.",
+    "Alterador 1, n.os 3.º a 5.º: normas próprias (Projecto Profissional, transição, aplicação) — ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

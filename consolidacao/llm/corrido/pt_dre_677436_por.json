@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:677436:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: as retificações incidem sobre o sumário (que não faz parte do texto) e sobre valores do mapa, que só vem em imagem (unidade 3); não aplicadas.",
+  "instrucoes": [
+    "Alterador 1: sumário 360000 para 60000 contos — sumário não está no texto; não aplicado",
+    "Alterador 1: anulação de valores do cap. 10, correção no cap. 13 e nos totais do Ministério — mapa só em imagem; não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

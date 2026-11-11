@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:2000084:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1.º Autorizar, nos termos do artigo 1.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a cessão ao município de Nisa do prédio rústico designado 'Viveiros', inscrito na matriz predial rústica da freguesia de Nossa Senhora da Graça sob o artigo 626 da secção E, registado na Conservatória do Registo Predial de Nisa com a descrição n.º 01688/261000 e inscrito a favor do Estado Português pela inscrição G-1.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 165/2005, n.º 2.º (o prazo de 90 dias do n.º 5.º conta-se da publicação da portaria 165/2005) e Portaria 669/2007, n.os 1.º e 2.º (prorrogação por dois anos do prazo do n.º 4.º e prazo para o aditamento ao auto de cessão) não alteram o texto do original: são disposições autónomas, não textuais.",
+  "instrucoes": [
+    "Portaria 165/2005, 1.º: nova redação do n.º 1.º; substituída a unidade 5.",
+    "Portaria 165/2005, 2.º: contagem do prazo do n.º 5.º - não textual; não aplicado.",
+    "Portaria 669/2007, 1.º e 2.º: prorrogação do prazo e prazo do aditamento ao auto - não textuais; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

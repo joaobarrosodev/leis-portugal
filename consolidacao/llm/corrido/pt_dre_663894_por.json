@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:663894:por",
+  "substituicoes": [
+    {
+      "de": 24,
+      "ate": 39,
+      "texto": "Lista das raças bovinas a que alude o n.º 6 que não poderão ser consideradas para efeitos de atribuição do prémio para manutenção de vacas aleitantes pelo Regulamento (CEE) n.º [1357/80](http://data.europa.eu/eli/reg/1980/1357/oj?locale=pt), com a última alteração que lhe foi introduzida pelo Regulamento (CEE) n.º [2769/90](http://data.europa.eu/eli/reg/1990/2769/oj?locale=pt):\n\nAngler Rotvieh (Angeln)-Red Dansk Maelkerace (RDM);\n\nAyreshire;\n\nArmoricaine;\n\nBretonne Pie Noire;\n\nFries-Holand (FH), Française Frisonne Pie Noire (FFPN), Friesien-Holstein, Holstein, Black and White Friesian, Red and White Friesian, Frisona Italiana, Zwartbonten van Belgie/Pie Noire de Belgique, Sortbroget Dansk Maelkerace (SDM), Deutsche Schwarzbunte;\n\nFrisona Espagnola;\n\nGroninger Blaaarkop;\n\nGuernsey;\n\nJersey;\n\nKerry;\n\nMalkekorthorn;\n\nMontbéliarde;\n\nReggiana;\n\nTarentaise-Tarina;\n\nValdostana Nera;\n\nSchwarzbunte Milchrasse (SMR).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "N.º 1 do Despacho Normativo n.º 218/91: anexo substituído pelo novo anexo — unidades 24 a 39 substituídas pelo texto do novo anexo (mantido o título ## ANEXO).",
+    "N.º 2 (entrada em vigor do alterador): não altera o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

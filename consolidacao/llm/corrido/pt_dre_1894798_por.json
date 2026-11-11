@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:1894798:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "Estêvão Manuel Cruz Lobo.",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 19,
+      "texto": "Representante da Autoridade Florestal Nacional:\n\nSilvestre Manuel Valente Marques.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação do n.º 1.º: 'Estêvão' (unidade 9) e novo representante da Autoridade Florestal Nacional (unidades 18-19)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

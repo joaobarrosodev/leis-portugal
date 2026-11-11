@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:139219:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1433/2006, 1.º) muda os limites da zona vulnerável n.º 1 definidos pela Portaria n.º 833/2005 para os do seu anexo, que só vem em imagem; alterador 2 (Portaria n.º 164/2010, art. 1.º e 3.º) aprova nova lista e cartas e redefine/redesigna a zona Elvas-Vila Boim (agora Elvas) por anexo que só vem em imagem. Nenhuma instrução dá nova redação textual a unidades do original; o anexo do original também é só imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: limites da zona vulnerável n.º 1 passam a ser os do anexo (imagem) — não aplicado, anexo só em imagem.",
+    "Alterador 1, 2.º: limites da zona n.º 5, Tejo, da Portaria n.º 1100/2004 — dirigido a outro diploma, ignorado.",
+    "Alterador 2, art. 1.º e 3.º: nova lista e cartas; zona Elvas-Vila Boim passa a Elvas com limites do anexo I (imagem) — não aplicado, não é alteração textual e o anexo só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

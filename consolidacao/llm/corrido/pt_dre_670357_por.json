@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:670357:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 908/2003 altera o anexo II-B na parte da Escola Superior de Artes Aplicadas de Castelo Branco, mas tanto o anexo II-B original (unidade 34) como a nova redação só existem em tabela em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo II-B na parte da ESAA de Castelo Branco — não aplicada, tabela só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
