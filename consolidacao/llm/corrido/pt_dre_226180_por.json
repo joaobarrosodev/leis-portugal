@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:226180:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 724/2002, 1.º, n.º 2: o anexo da Portaria 594/96 passa a ter a redação do anexo da 724/2002, cujos quadros só existem em imagem (ver quadro no documento original); não há texto a aplicar.",
+  "instrucoes": [
+    "Portaria 724/2002, 1.º, n.º 1: desdobramento do curso em ramos; norma autónoma, não altera o texto do original.",
+    "Portaria 724/2002, 1.º, n.º 2: substituição do anexo; não aplicada por os quadros só virem em imagem.",
+    "Portaria 724/2002, 2.º a 5.º: normas próprias (número de alunos, opções, aplicação, transição) sem instrução de alteração do original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:238807:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 183/92 corrige «Cap. 01, Div. 32 - Universidade Técnica de Lisboa», que está nos mapas das alterações orçamentais publicados só em imagem (unidade 3); o texto a corrigir não existe no texto atual, não se aplica.",
+  "instrucoes": [
+    "Alterador 1: rectificação de uma rubrica dos mapas (só em imagem) — não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

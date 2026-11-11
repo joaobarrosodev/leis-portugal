@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:231485:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 100/2007 extingue a zona de caça associativa renovada pelo original e concessiona nova zona de caça turística; não é alteração textual nem revogação expressa do texto do original.",
+  "instrucoes": [
+    "1.º: extinção da zona de caça associativa — efeito material, sem alteração textual; não aplicada.",
+    "2.º e 3.º: nova concessão própria do alterador, não dirigida ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

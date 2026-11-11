@@ -1,0 +1,42 @@
+{"id": "pt:dre:231769:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "O n.º 2 passa a 150000 contos, texto restante igual ao original.", "texto_esperado": ""}
+{"id": "pt:dre:231769:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:233164:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Aditamento do n.º 1.º-A, letra a letra igual ao diploma que altera.", "texto_esperado": ""}
+{"id": "pt:dre:233164:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:233960:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Sumário: capítulo VI e artigo 85.º revogados, artigos 79.º a 97.º passam a Reservados.", "texto_esperado": ""}
+{"id": "pt:dre:233960:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Capítulo VI e artigo 85.º removidos; os artigos 79.º a 97.º ficam agrupados como Reservados.", "texto_esperado": ""}
+{"id": "pt:dre:233960:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:234162:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Alíneas c) a f) do n.º 1 do n.º 2.º iguais ao diploma que altera; a) e b) mantidas (\"...\").", "texto_esperado": ""}
+{"id": "pt:dre:234162:por", "instrucoes_em_falta": ["A Portaria n.º 1293/2005 manda o anexo passar a ter nova redacção (ligação 70827083.pdf); o anexo do consolidado continua com a ligação original (40184019.pdf) e não aparece nos trechos que diferem."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "O anexo devia ter mudado (nova ligação para o PDF) e não mudou."}
+{"id": "pt:dre:239822:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Aditamento do par estabelecimento/curso/vagas ao anexo, igual ao diploma que altera (a nota 'Aditado pelo/a' não faz parte do texto).", "texto_esperado": ""}
+{"id": "pt:dre:239822:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:239990:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Portaria n.º 269/2006: o número 'Regulamento' (9.º) passa a ter a redacção indicada; consolidado igual.", "texto_esperado": ""}
+{"id": "pt:dre:239990:por", "instrucoes_em_falta": ["A Portaria n.º 1212/2004 manda o anexo à Portaria n.º 915/98 passar a ter a redacção do seu anexo (ligação 60446045.pdf); o consolidado mantém a ligação original (54805481.pdf)."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "O anexo devia ter mudado (novo quadro/ligação) e não mudou."}
+{"id": "pt:dre:240388:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Retificação da data de entrada em vigor para 19 de Dezembro de 2003; a preposição 'a' vem da fórmula do aviso rectificativo (o original dizia 'em'), não é erro.", "texto_esperado": ""}
+{"id": "pt:dre:240388:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:240466:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Aditamento ao anexo da linha 'Engenharia das Tecnologias da Informação - 20.', igual ao anexo do diploma que altera.", "texto_esperado": ""}
+{"id": "pt:dre:240466:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:240811:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Quadro n.º 1 substituído pela ligação do novo anexo (67666768.pdf).", "texto_esperado": ""}
+{"id": "pt:dre:240811:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Quadro n.º 2 substituído pelo novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:240811:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Quadro n.º 3 substituído pelo novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:240811:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Quadro n.º 4 substituído pelo novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:240811:por", "artigo": "Trecho 5", "veredicto": "certo", "motivo": "Quadro n.º 5 substituído pelo novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:240811:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:240817:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Quadro n.º 1 substituído pela ligação do novo anexo (37653767.pdf).", "texto_esperado": ""}
+{"id": "pt:dre:240817:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Quadro n.º 2 substituído pelo novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:240817:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Quadro n.º 3 substituído pelo novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:240817:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Quadro n.º 4 substituído pelo novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:240817:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:240818:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Anexo substituído (1.º da Portaria 132/2004); quadro n.º 1 com a ligação do novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:240818:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Anexo substituído; quadro n.º 2 com a ligação do novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:240818:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Anexo substituído; quadro n.º 3 com a ligação do novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:240818:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Anexo substituído; quadro n.º 4 com a ligação do novo anexo.", "texto_esperado": ""}
+{"id": "pt:dre:240818:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:241027:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 2.º com a nova redação letra a letra (10036 ha, sem vírgulas).", "texto_esperado": ""}
+{"id": "pt:dre:241027:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Planta substituída pela apensa à Portaria 292/2006.", "texto_esperado": ""}
+{"id": "pt:dre:241027:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:243683:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Retificação aplicada: 'engenheiro' passa a 'Prof. Doutor'.", "texto_esperado": ""}
+{"id": "pt:dre:243683:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:243758:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 1.º com nova redação, área de 1109,35 ha.", "texto_esperado": ""}
+{"id": "pt:dre:243758:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:247203:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Alínea c) do n.º 2.º com a redação do Despacho Normativo 97/91, letra a letra (incluindo a pontuação final).", "texto_esperado": ""}
+{"id": "pt:dre:247203:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:241590:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 386-A/75: extingue as delegações provinciais do Fundo criadas pela portaria e revoga as disposições em contrário; não é alteração textual nem revogação expressa do texto (revogação condicional), pelo que nada se aplica.",
+  "instrucoes": [
+    "1.º extinção das delegações de Angola e Moçambique: não textual, não aplicada.",
+    "2.º receitas dos Estados: não dirigida ao texto.",
+    "3.º revogação das disposições em contrário: condicional, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

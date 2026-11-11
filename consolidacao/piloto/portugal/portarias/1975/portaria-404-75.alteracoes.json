@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 99-102",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Artigos 79.º a 84.º - Reservados.\n\nCapítulo VI - Outros bilhetes:\n\nArtigo 85.º - Bilhetes sem data.\n\nArtigos 86.º a 97.º - Reservados.",
+    "depois": "Artigos 79.º a 97.º - Reservados.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:233960:por",
+    "alterador": "pt:dre:281245:por"
+  },
+  {
+    "artigo": "unidades 342-349",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "ARTIGOS 79.º a 84.º\n\n(Reservados.)\n\n### CAPÍTULO VI — Outros bilhetes\n\n###### ARTIGO 85.º — Bilhetes sem data\n\n1. Podem ser adquiridos nas estações bilhetes em qualquer quantidade, que só poderão ser utilizados depois de validados pelo seu portador nas marcadoras para esse fim existentes nas estações, antes de serem usados, nas condições previstas no n.º 1 do artigo 8.º\n\n2. A validade destes bilhetes é independente do sentido da viagem.\n\nARTIGOS 86.º a 97.º\n\n(Reservados.)",
+    "depois": "ARTIGOS 79.º a 97.º\n\n(Reservados.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:233960:por",
+    "alterador": "pt:dre:281245:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 45-46",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Troféu de 155,1 a 163 pontos - 400000$00.\n\nCaça de montaria ao javali e veado - de acordo com a tabela acima (caça de aproximação ao veado - troféu).",
+    "depois": "Troféu de 155,1 a 163 pontos - 275000$00;\n\nTroféu acima de 163 pontos - 400000$00;\n\nCaça de montaria ao javali e veado:\n\nPara os veados cuja caça esteja autorizada e com pontuação inferior a 120 pontos - 40000$00;\n\nPara os veados de pontuação igual ou superior a 120 pontos - de acordo com a tabela acima (caça de aproximação ao veado - troféu).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:282095:por",
+    "alterador": "pt:dre:159142:por"
+  }
+]

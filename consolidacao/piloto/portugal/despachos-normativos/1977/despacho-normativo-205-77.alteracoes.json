@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Os preços de aquisição à lavoura pelo Instituto dos Cereais de arroz para semente são os preços base do arroz comum, acrescidos dos seguintes bónus, por tonelada:\n\n1.ª geração ... 3000$00\n\n2.ª geração ... 2500$00\n\n3.º Os preços de venda pelo Instituto dos Cereais de semente certificada de arroz são os seguintes, por tonelada:\n\n1.ª geração ... 13400$00\n\n2.ª geração ... 12700$00",
+    "depois": "2.º - (Revogado.)\n\n3.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:277166:por",
+    "alterador": "pt:dre:446676:por"
+  }
+]

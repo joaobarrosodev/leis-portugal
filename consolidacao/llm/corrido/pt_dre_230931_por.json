@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:230931:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 (Declaração de Rectificação n.º 16-F/96) retifica o anexo I (quadro de pessoal), mas tanto o texto errado como o correto só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1: retificação do anexo I — quadro só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

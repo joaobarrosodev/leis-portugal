@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Considerando que em 7 de Abril de 1993 cessou a comissão de serviço Ana Maria Afonso Gomes Moreira, à data chefe de divisão da ex-Direcção-Geral de Hidráulica e Engenharia Agrícola;",
+    "depois": "Considerando que em 7 de Abril de 1993 cessou a comissão de serviço Ana Maria Afonso Gomes Moreira, à data chefe de divisão da ex-Direcção-Geral de Planeamento e Agricultura;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:266629:por",
+    "alterador": "pt:dre:576685:por"
+  },
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - A criação do lugar referido no número anterior produz efeitos desde o dia 7 de Abril de 1993, considerando-se tais efeitos como reportados ao quadro da ex-Direcção-Geral de Hidráulica e Engenharia Agrícola até à entrada em vigor da portaria referida no número anterior.",
+    "depois": "2 - A criação do lugar referido no número anterior produz efeitos desde o dia 7 de Abril de 1993, considerando-se tais efeitos como reportados ao quadro da ex-Direcção-Geral de Planeamento e Agricultura até à entrada em vigor da portaria referida no número anterior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:266629:por",
+    "alterador": "pt:dre:576685:por"
+  }
+]

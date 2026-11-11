@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:286731:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "e) Um representante da comissão de coordenação regional da área respectiva.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redação da alínea e) do n.º 1.º (vogais); unidade 17 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

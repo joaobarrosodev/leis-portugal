@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:240842:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Declaração de Rectificação 195/92: retifica a coluna «Categoria» do mapa anexo, que no texto atual só existe em imagem (unidade 13); o texto a corrigir não existe no texto atual.",
+  "instrucoes": [
+    "Retificação da coluna «Categoria» do mapa anexo (Assessor principal / Assessor, técnico superior principal... passa a uma só linha): não aplicada, mapa só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

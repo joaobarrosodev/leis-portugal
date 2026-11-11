@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:263714:por",
+  "substituicoes": [
+    {
+      "de": 73,
+      "ate": 73,
+      "texto": "Finalidade: financiamento parcial do projecto 'Estradas das XI' - construção de diversos lanços de estrada em quatro IP, três IC e três EN.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Rectificação da finalidade da ficha técnica n.º 6: unidade 73 substituída pelo texto do deve ler-se (o onde se lê difere só na grafia dos números, alvo inequívoco)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

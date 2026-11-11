@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:282095:por",
+  "substituicoes": [
+    {
+      "de": 45,
+      "ate": 46,
+      "texto": "Troféu de 155,1 a 163 pontos - 275000$00;\n\nTroféu acima de 163 pontos - 400000$00;\n\nCaça de montaria ao javali e veado:\n\nPara os veados cuja caça esteja autorizada e com pontuação inferior a 120 pontos - 40000$00;\n\nPara os veados de pontuação igual ou superior a 120 pontos - de acordo com a tabela acima (caça de aproximação ao veado - troféu).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Rectificação da tabela C) da zona de caça da Contenda: as unidades 40-44 ficam iguais; as unidades 45-46 são substituídas pela nova redação (escalão 155,1-163 a 275000$00, novo escalão acima de 163, nova regra da montaria ao javali e veado)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

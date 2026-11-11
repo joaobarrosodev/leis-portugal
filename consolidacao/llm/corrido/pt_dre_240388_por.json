@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:240388:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "Nos termos do artigo 29.º da Convenção, esta entra em vigor a 19 de Dezembro de 2003.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: onde se lê «esta entra em vigor a 24 de Dezembro de 2003» deve ler-se «esta entra em vigor a 19 de Dezembro de 2003» — aplicado à unidade 4 (o texto atual diz «em 24 de Dezembro»; a frase foi trocada pela do alterador)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

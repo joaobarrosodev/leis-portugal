@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:283139:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "Considerando que em 7 de Abril de 1993 cessou a comissão de serviço Anabela Alves Ferreira Lima Teixeira, à data chefe de divisão da ex-Direcção-Geral das Florestas;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Rectificação do nome: 'Anabela Alves Pereira Lima Teixeira' passa a 'Anabela Alves Ferreira Lima Teixeira' (unidade 2)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

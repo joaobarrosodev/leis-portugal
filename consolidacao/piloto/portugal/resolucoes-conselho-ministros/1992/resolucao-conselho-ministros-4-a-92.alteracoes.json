@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 33-33",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "8 - As acções subscritas ou adquiridas por trabalhadores devem conter no texto do respectivo título menção da impossibilidade da sua transacção durante o período de três meses após a sua aquisição, conforme resulta do disposto no artigo 9.º do [Decreto-Lei n.º 1/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1992-169420), de 14 de Janeiro, devendo, ainda, a totalidade das acções a subscrever e a alienar referir também a sua sujeição ao limite estabelecido no artigo 12.º do [Decreto-Lei n.º 321-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-a-1990-667146), de 15 de Outubro, aplicável por força do disposto no artigo 9.º supramencionado.",
+    "depois": "8 - As acções subscritas ou adquiridas por trabalhadores devem conter no texto do respectivo título menção da impossibilidade da sua transacção durante o período de 12 meses após a sua aquisição, conforme resulta do disposto no artigo 9.º do [Decreto-Lei n.º 1/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1992-169420), de 14 de Janeiro, devendo, ainda, a totalidade das acções a subscrever e a alienar referir também a sua sujeição ao limite estabelecido no artigo 12.º do [Decreto-Lei n.º 321-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-a-1990-667146), de 15 de Outubro, aplicável por força do disposto no artigo 9.º supramencionado.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:281823:por",
+    "alterador": "pt:dre:581252:por"
+  }
+]

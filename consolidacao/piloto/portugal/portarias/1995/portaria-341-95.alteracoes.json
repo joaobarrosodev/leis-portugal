@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 19-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Mestrado em Matemática\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/094b00/23032304.pdf)",
+    "depois": "## ANEXO — Universidade Lusíada (Lisboa)\n\nCurso de Matemática\n\nEspecialização em Matemática Aplicada\n\nGrau de mestre\n\nQUADRO N.º 1\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06420643.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06420643.pdf)\n\nEspecialização em Ensino da Matemática\n\nGrau de mestre\n\nQUADRO N.º 2\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06420643.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06420643.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:223576:por",
+    "alterador": "pt:dre:319890:por"
+  }
+]

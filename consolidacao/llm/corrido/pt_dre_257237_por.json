@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:257237:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 765/96), 1.º: substitui o mapa 'Quadros de zona pedagógica - Direcção Regional de Educação do Alentejo' do anexo, que só existe em imagem (o original tem uma única ligação para todos os mapas); não é possível aplicar sem inventar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo mapa da DRE do Alentejo, só em imagem; não aplicado.",
+    "Alterador 1, 2.º e 3.º: efeitos e envio ao Tribunal de Contas; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

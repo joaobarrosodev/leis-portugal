@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:248226:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "c) (Revogada.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 3.º: revoga a alínea c) do n.º 1.º - unidade 13 passa a \"c) (Revogada.)\".",
+    "Alterador 1, artigos 1.º, 2.º e 4.º: extinção do centro, afetação de recursos e entrada em vigor - não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

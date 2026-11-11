@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:263709:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 77/94 rectifica o mapa do Ministério do Ambiente e Recursos Naturais, mas o «onde se lê» e o «deve ler-se» só vêm em imagem; não há texto para aplicar.",
+  "instrucoes": [
+    "Rectificação no Ministério do Ambiente e Recursos Naturais: conteúdo só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

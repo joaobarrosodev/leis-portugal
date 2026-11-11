@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:262081:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "3.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo 1.º da Portaria n.º 39/2011: norma autónoma de isenção, sem instrução de alteração textual do original; nada a mudar no texto.",
+    "Artigo 2.º da Portaria n.º 39/2011 revoga o 3.º: unidade 14 passa a 3.º - (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

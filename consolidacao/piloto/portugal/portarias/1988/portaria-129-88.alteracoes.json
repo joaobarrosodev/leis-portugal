@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) Representante da Direcção-Geral do Ordenamento do Território.",
+    "depois": "e) Um representante da comissão de coordenação regional da área respectiva.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:286731:por",
+    "alterador": "pt:dre:615230:por"
+  }
+]

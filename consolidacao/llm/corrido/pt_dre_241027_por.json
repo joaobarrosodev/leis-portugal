@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:241027:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante sitos nas freguesias de Cercal do Alentejo e Vale d'Água, município de Santiago do Cacém, com a área de 10036 ha.",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2006/03/058b00/21062107.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 292/2006, 2.º: a nova planta só vem em imagem; trocou-se apenas a ligação (unidade 18), o conteúdo da planta não é verificável.",
+  "instrucoes": [
+    "Portaria 292/2006, 1.º: nova redação do n.º 2.º (área 10036 ha, pontuação nova); unidade 7 substituída mantendo o número 2.º.",
+    "Portaria 292/2006, 2.º: planta anexa substituída pela apensa; ligação da unidade 18 trocada pela nova."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

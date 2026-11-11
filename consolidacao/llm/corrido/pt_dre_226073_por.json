@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:226073:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 414/2010, artigo 4.º: revoga a Portaria 589/96 'na parte respeitante à zona FUN-4'; é uma revogação parcial por matéria, sem alvo textual identificado (afeta o trecho do concelho do Fundão no n.º 1.º, unidades 10-11, e a carta anexa em imagem); não aplicada ao texto para não inventar a forma.",
+  "instrucoes": [
+    "Portaria 414/2010, artigos 1.º-3.º: anexação de prédios a zona de caça associativa; não alteram o texto do original.",
+    "Portaria 414/2010, artigo 4.º: revogação na parte respeitante à zona FUN-4; não aplicada (sem alvo textual seguro)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Nos empréstimos para aquisição ou construção de habitação própria já aprovados nos termos da resolução do Conselho de Ministros de 24 de Fevereiro de 1976, cujos contratos se encontrem por assinar à data da entrada em vigor do [Decreto-Lei n.º 515/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1977-279595), de 14 de Dezembro, será aplicado o regime definido no mesmo decreto-lei.",
+    "depois": "1 - Nos empréstimos para aquisição ou construção de habitação própria já aprovados nos termos da resolução do Conselho de Ministros de 24 de Fevereiro de 1976, cujos contratos se encontrem por assinar à data da entrada em vigor do [Decreto-Lei n.º 515/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1977-279595), de 14 de Dezembro, será aplicado o regime definido pela mesma resolução, salvo se os interessados não apresentarem, até 15 de Janeiro de 1978, os elementos necessários para a celebração do contrato, caso em que será aplicado o regime do referido decreto-lei.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:279597:por",
+    "alterador": "pt:dre:243319:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:223581:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "c) Enfermeiros provenientes da área da prestação directa de cuidados de estabelecimentos de saúde pertencentes a outros ministérios: 10%;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1455/95, 1.º: nova redação do n.º 3.º, só muda a alínea c) do n.º 1; substituída a unidade 18 (resto com [...]/... mantém-se)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

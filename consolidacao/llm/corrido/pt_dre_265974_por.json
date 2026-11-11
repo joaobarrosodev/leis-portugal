@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:265974:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 retifica uma rubrica do mapa orçamental (cap. 50, div. 10, subdiv. 12), que só existe em imagem (unidade 3, 'ver documento original'); não há texto onde aplicar.",
+  "instrucoes": [
+    "Alterador 1: retificação da rubrica 'DREL - Acção social escolar no ensino superior' no quadro em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

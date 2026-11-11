@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:223819:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 81/97, 1.º: substitui o quadro I do anexo, que só existe em imagem (ver documento original) no original e no alterador; não há texto a aplicar.",
+  "instrucoes": [
+    "Portaria 81/97, 1.º: nova redação do quadro I do anexo; não aplicada por o quadro só vir em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

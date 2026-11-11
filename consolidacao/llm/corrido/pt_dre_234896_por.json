@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:234896:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 4.º da Portaria n.º 637/71 revoga por inteiro a Portaria n.º 23281; o diploma original deixa de vigorar, pelo que não se devolve texto (a substituição do quadro do n.º 1.º, que só vem em imagem, fica absorvida pela revogação total).",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo quadro da Brigada (só em imagem) — absorvido pela revogação total.",
+    "Alterador 1, n.º 4.º: revoga a Portaria n.º 23281 por inteiro — registado em nao_aplicavel, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

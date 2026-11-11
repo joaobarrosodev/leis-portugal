@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 73-73",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Finalidade: financiamento parcial do projecto designado «Estradas XII» - construção de diversos lanços de estrada em 4 IP, 3 IC, e 3 CN.",
+    "depois": "Finalidade: financiamento parcial do projecto 'Estradas das XI' - construção de diversos lanços de estrada em quatro IP, três IC e três EN.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:263714:por",
+    "alterador": "pt:dre:249181:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:233164:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 17,
+      "texto": "1.º-A - Exceptuam-se da condição da alínea c) do n.º 1 os estudantes que se inscrevam nos seguintes cursos e anos:\n\na) Universidade de Coimbra, Faculdade de Letras:\n\n1.º ano dos cursos a que se refere o n.º 3.º da [Portaria n.º 844/87](https://diariodarepublica.pt/dr/detalhe/portaria/844-1987-496109), de 28 de Outubro;\n\nb) Universidade de Lisboa, Faculdade de Letras:\n\nI) 1.º ano dos cursos a que se refere o n.º 3.º da [Portaria n.º 852/87](https://diariodarepublica.pt/dr/detalhe/portaria/852-1987-497468), de 4 de Novembro;\n\nII) 1.º ano dos cursos a que se referem as alíneas a) e e) a q) do n.º 2.º da [Portaria n.º 852/87](https://diariodarepublica.pt/dr/detalhe/portaria/852-1987-497468);\n\nc) Universidade Nova de Lisboa, Faculdade de Ciências Sociais e Humanas:\n\nI) 1.º ano dos cursos a que se refere o n.º 2.º da [Portaria n.º 853/87](https://diariodarepublica.pt/dr/detalhe/portaria/853-1987-497469), de 4 de Novembro;\n\nII) 1.º ano dos cursos a que se referem as alíneas d), II), e), II), f), II), g), II), e h), II), do n.º 1 do n.º 3.º da [Portaria n.º 853/87](https://diariodarepublica.pt/dr/detalhe/portaria/853-1987-497469);\n\nd) Universidade do Porto, Faculdade de Letras:\n\nI) 1.º ano dos cursos a que se refere o n.º 3.º da [Portaria n.º 850/87](https://diariodarepublica.pt/dr/detalhe/portaria/850-1987-497458), de 3 de Novembro;\n\nII) Cursos a que se refere o n.º 4.º da [Portaria n.º 850/87](https://diariodarepublica.pt/dr/detalhe/portaria/850-1987-497458).",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º da Portaria 948/87: aditamento do n.º 1.º-A a seguir ao n.º 1.º (depois da unidade 17): aplicado.",
+    "2.º (entrada em vigor): norma própria do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

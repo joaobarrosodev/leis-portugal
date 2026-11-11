@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:248019:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, artigo único: a planta anexa é substituída por outra que só vem em imagem; não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, artigo único: substitui a planta anexa (só em imagem) - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:226812:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 (Portaria n.º 695/2003) fixa a duração do curso em quatro anos (1.º), sem alterar texto do original, e substitui o anexo (2.º) por quadros que só vêm em imagem. Os n.os 3.º a 5.º são normas próprias.",
+  "instrucoes": [
+    "Alterador 1, 1.º: duração do curso de quatro anos — não é alteração textual do original, não aplicado.",
+    "Alterador 1, 2.º: nova redação do anexo — quadros só em imagem, não aplicado.",
+    "Alterador 1, 3.º a 5.º: duração do ano lectivo, transição e aplicação — normas autónomas, ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

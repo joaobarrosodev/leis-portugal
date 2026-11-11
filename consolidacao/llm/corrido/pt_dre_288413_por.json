@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:288413:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "Considerando que, à luz desses novos conhecimentos, a Directiva n.º [92/10/CEE](http://data.europa.eu/eli/dir/1992/10/oj?locale=pt), de 19 de Fevereiro de 1992, publicada no Jornal Oficial das Comunidades Europeias, n.º L70/27, de 17 de Março de 1992, modifica disposições da Directiva n.º [77/93/CEE](http://data.europa.eu/eli/dir/1977/93/oj?locale=pt), no que se refere às exigências fitossanitárias estabelecidas por certos países para efeitos de importação de sementes de soja;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Declaração de Rectificação 116/92: no 3.º parágrafo do preâmbulo, 'a Directiva n.º 91/10/CEE' passa a 'a Directiva n.º 92/10/CEE' (unidade 5)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

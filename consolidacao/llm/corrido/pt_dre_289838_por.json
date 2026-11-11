@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:289838:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/129b00/30713072.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 512/91, 1.º: a tabela anexa é substituída pela tabela anexa à portaria (só em imagem); substituída a ligação da tabela (unidade 17).",
+    "2.º e 3.º são normas próprias do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

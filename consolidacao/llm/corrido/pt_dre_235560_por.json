@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:235560:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 383/2004 dá nova redação ao anexo (plano de estudos), cujos quadros só vêm em imagem no documento original; não se aplica. Os n.os 2.º a 6.º da Portaria n.º 383/2004 são disposições próprias e não alteram o texto da Portaria n.º 895/98.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do anexo, quadros só em imagem — não aplicada (nao_aplicavel).",
+    "Alterador 1, n.os 2.º a 6.º: normas próprias do alterador, não dirigidas ao texto do original — ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

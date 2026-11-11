@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:235335:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 6-I/97 manda ler «Vh = 0,15 x Lh x (Bo x Do + B20 [...]» onde se lê «Vh = 0,15 x Lh x (Bo + Bo + B20 [...]», mas o texto atual usa outra notação (V(índice h), B(índice o)) e a expressão a corrigir não existe literalmente: «(B(índice o) + B(índice o) + B(índice 20)» está na parte «onde se lê», enquanto a parte «deve ler-se» tem «B(índice o) x B(índice o)». O alvo é ambíguo; não se aplica.",
+  "instrucoes": [
+    "Alterador 1: rectificação da fórmula do n.º 7.1 do anexo II citada na unidade 3 — alvo ambíguo e texto não coincidente, não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

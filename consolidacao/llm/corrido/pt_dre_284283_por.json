@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:284283:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 279/2007, 1.º: extingue a zona de caça municipal criada pelo original (efeito material sobre todo o diploma, não é alteração textual); os n.os 2.º e 3.º dizem respeito à nova zona de caça turística da própria portaria.",
+  "instrucoes": [
+    "Alterador 1, 1.º: extinção da zona de caça criada pelo original; não é alteração textual, não aplicada (nao_aplicavel).",
+    "Alterador 1, 2.º e 3.º: concessão nova da própria portaria; não dirigidos ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

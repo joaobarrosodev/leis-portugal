@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 217",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "8.5.1.3.1 - Medicamentos para o tratamento da endometriose",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:25681511:por",
+    "alterador": "pt:dre:897796669:por"
+  }
+]

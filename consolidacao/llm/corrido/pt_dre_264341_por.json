@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:264341:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1 - É criado no quadro de pessoal da Direcção-Geral das Contribuições e Impostos um lugar de técnico economista assessor principal, contingentado nos serviços centrais, a extinguir quando vagar.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redacção do n.º 1 pelo Despacho Normativo n.º 44/95: unidade 5 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

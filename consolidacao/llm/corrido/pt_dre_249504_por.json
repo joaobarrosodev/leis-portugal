@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:249504:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 733-L/86 não contém instruções textuais dirigidas à Portaria n.º 894-G/85: aprova novos preços das tabelas da Tarifa Geral em anexo que só vem em imagem (documento original), sem alterar o texto do original. O alterador 2 (Decreto-Lei n.º 58/2008) não traz texto que mencione o original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 733-L/86): fixa novos preços das tabelas n.os 1, 2, 3 e 22 'aprovados pela Portaria n.º 894-G/85' em anexo só em imagem; não é alteração textual do original, nada aplicado.",
+    "Alterador 2 (Decreto-Lei n.º 58/2008): sem texto que mencione o original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

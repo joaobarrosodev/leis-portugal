@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 32-32",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)",
+    "depois": "[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/017b00/03960397.pdf)](https://files.diariodarepublica.pt/1s/2004/01/017b00/03960397.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:288399:por",
+    "alterador": "pt:dre:606967:por"
+  },
+  {
+    "artigo": "unidades 42-42",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)",
+    "depois": "[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/017b00/03960397.pdf)](https://files.diariodarepublica.pt/1s/2004/01/017b00/03960397.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:288399:por",
+    "alterador": "pt:dre:606967:por"
+  }
+]

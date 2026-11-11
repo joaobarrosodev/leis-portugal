@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:288399:por",
+  "substituicoes": [
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/017b00/03960397.pdf)](https://files.diariodarepublica.pt/1s/2004/01/017b00/03960397.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/017b00/03960397.pdf)](https://files.diariodarepublica.pt/1s/2004/01/017b00/03960397.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 90/2004, 1.º: o quadro n.º 2 do anexo I e o quadro n.º 1 do anexo II passam a ter nova redação; só vêm em imagem, por isso substituída a ligação de cada quadro (unidades 32 e 42); cabeçalhos iguais.",
+    "2.º (produção de efeitos) é norma própria do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

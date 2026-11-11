@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "As promissórias do Tesouro, a emitir através da Direcção-Geral do Tesouro, vencerão juros à taxa de 0,5% acima da taxa de desconto do Banco de Portugal, à data da liquidação dos referidos juros;",
+    "depois": "As promissórias do Tesouro, a emitir através da Direcção-Geral do Tesouro, vencerão juros à taxa de 0,5% acima da taxa de desconto do Banco de Portugal em vigor à data da liquidação dos referidos juros;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:278945:por",
+    "alterador": "pt:dre:243318:por"
+  },
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "As promissórias apenas poderão ser entregues às instituições de crédito em substituição de efeitos comerciais subscritos por entidades credoras do Estado, através das forças armadas, e dos estabelecimentos fabris militares por causa da retenção de fundos nos antigos territórios portugueses que tenham sido depositados à ordem do Estado Português.",
+    "depois": "As promissórias apenas poderão ser entregues às instituições de crédito em substituição de efeitos comerciais subscritos por entidades credoras do Estado, através das forças armadas, ou dos estabelecimentos fabris militares, ou ainda em representação de empréstimos contraídos pelo Estado, através das forças armadas, ou por aqueles estabelecimentos militares, por causa da retenção de fundos nos antigos territórios portugueses que tenham sido depositados à ordem do Estado Português.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:278945:por",
+    "alterador": "pt:dre:243318:por"
+  }
+]

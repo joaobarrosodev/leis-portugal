@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:240466:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 44,
+      "texto": "Engenharia das Tecnologias da Informação - 20.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1006/99, 1.º: adita ao anexo, no Instituto Politécnico de Castelo Branco / Escola Superior de Tecnologia de Castelo Branco, o curso Engenharia das Tecnologias da Informação - 20; inserido a seguir à unidade 44 (último curso dessa escola), sem repetir os cabeçalhos que já existem.",
+    "2.º (produção de efeitos) não altera texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

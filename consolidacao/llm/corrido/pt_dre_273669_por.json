@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:273669:por",
+  "substituicoes": [
+    {
+      "de": 25,
+      "ate": 27,
+      "texto": "1.º ciclo - Grau de bacharel",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 33,
+      "ate": 33,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 36,
+      "ate": 39,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)\n\n2.º ciclo - Grau de licenciado",
+      "alterador": 1
+    },
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 2.º: o anexo passa a ter a redação do anexo da Portaria 217/2005; aplicadas as diferenças de texto (ciclos sem opções nem ramos: unidades 25-27 e 37-39) e substituídas as ligações dos quadros n.os 1 a 4 (só em imagem) pelas novas; unidades iguais mantidas.",
+    "Alterador 1, n.º 1.º: o curso deixa de se desdobrar em opções e ramos; refletido apenas pela nova redação do anexo, sem outra mudança textual no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pt:dre:223246:por",
+  "substituicoes": [
+    {
+      "de": 49,
+      "ate": 49,
+      "texto": "Licenciatura em Serviço Social",
+      "alterador": 1
+    },
+    {
+      "de": 53,
+      "ate": 53,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 56,
+      "ate": 56,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 59,
+      "ate": 59,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 62,
+      "ate": 62,
+      "texto": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)](https://files.diariodarepublica.pt/1s/2005/01/012b00/04020403.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: o anexo passa a ter a redação do anexo da Portaria n.º 46/2005 — substituídos o subtítulo (Curso → Licenciatura em Serviço Social) e as ligações dos quadros n.os 1 a 4 (só em imagem) pelas do novo anexo; restantes unidades do anexo iguais.",
+    "Alterador 1, n.º 2.º: norma de aplicação no tempo — não é alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:265973:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As duas rectificações (Ministério da Saúde, cap. 02, div. 05, subdiv. 01, rubricas 01.01.xx; Ministério do Ambiente e Recursos Naturais, CF 8.01.0 para CF 6.03.0) incidem sobre os mapas, que só vêm em imagem; o texto não existe no texto atual.",
+  "instrucoes": [
+    "Rectificação das rubricas do Ministério da Saúde: só em imagem, não aplicada.",
+    "Rectificação de CF no Ministério do Ambiente e Recursos Naturais: só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

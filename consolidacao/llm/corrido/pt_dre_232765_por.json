@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:232765:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo 16.º do DL 227/2005 revoga o DL 219/97 (outro diploma), mantendo em vigor as tabelas do anexo II retificadas pela Declaração 15-D/97: não é dirigido ao texto do original; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

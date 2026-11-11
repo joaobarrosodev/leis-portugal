@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:275866:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 43/94): o texto a rectificar (Cap. 01, div. 21, subdiv. 99 - Governo Civil do Distrito de Setúbal) está no mapa da unidade 3, que só vem em imagem, e não existe no texto atual; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: onde se lê Cap. 01, div. 21, subdiv. 99 deve ler-se Cap. 01, div. 21; texto só no mapa em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

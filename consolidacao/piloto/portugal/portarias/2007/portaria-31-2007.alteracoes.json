@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Estão insentos da taxa de acesso os condutores que sejam residentes ou naturais do concelho de Terras de Bouro, mediante a apresentação de bilhete de identidade ou de outro documento comprovativo da sua naturalidade ou residência.",
+    "depois": "3.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:262081:por",
+    "alterador": "pt:dre:280893:por"
+  }
+]

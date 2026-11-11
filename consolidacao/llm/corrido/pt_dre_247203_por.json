@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:247203:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "c) Comprovar que não são devedores ao Estado e à Segurança Social de quaisquer contribuições, impostos, quotizações e outras importâncias o seu pagamento está assegurado, sendo dispensadas do cumprimento desta obrigação as sociedades constituídas nos 90 dias anteriores à candidatura.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação da alínea c) do n.º 1 do 2.º (1 -, a) e b) ficam como estão) - substituída a unidade 20.",
+    "Alterador 2: mesmo texto e mesma instrução que o alterador 1 (duplicado) - nada a acrescentar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

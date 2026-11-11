@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Considerando que em 7 de Abril de 1993 cessou a comissão de serviço Anabela Alves Pereira Lima Teixeira, à data chefe de divisão da ex-Direcção-Geral das Florestas;",
+    "depois": "Considerando que em 7 de Abril de 1993 cessou a comissão de serviço Anabela Alves Ferreira Lima Teixeira, à data chefe de divisão da ex-Direcção-Geral das Florestas;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:283139:por",
+    "alterador": "pt:dre:576688:por"
+  }
+]

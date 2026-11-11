@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:280970:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 70/2004 retifica apenas o quadro anexo (inserção da carreira de tesoureiro e um 'onde se lê/deve ler-se'), que só existe em imagem no texto atual (unidade 22) e cujo conteúdo da retificação também só vem em imagem.",
+  "instrucoes": [
+    "Rectificação do quadro anexo (inserir carreira de tesoureiro no grupo de pessoal administrativo; outra correção só em imagem): não aplicada, o quadro só existe em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

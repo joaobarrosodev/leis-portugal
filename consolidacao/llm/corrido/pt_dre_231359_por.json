@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:231359:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 238/98 dá nova redação ao anexo (plano de estudos), mas o anexo novo e o atual só existem em imagem (ver quadros no documento original); não se pode aplicar textualmente.",
+  "instrucoes": [
+    "1.º da Portaria n.º 238/98: nova redação do anexo (plano de estudos) — só em imagem, não aplicada.",
+    "2.º e 3.º (aplicação e transição): normas próprias do alterador, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Direcção-Geral dos Equipamentos Educativos;",
+    "depois": "d) Departamento de Gestão de Recursos Educativos;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:274467:por",
+    "alterador": "pt:dre:262600:por"
+  },
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "h) Associação de Empresas de Construção e Obras Públicas do Sul;",
+    "depois": "h) AECOPS - Associação de Empresas de Construção e Obras Públicas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:274467:por",
+    "alterador": "pt:dre:262600:por"
+  },
+  {
+    "artigo": "unidades 35-35",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Direcção-Geral dos Equipamentos Educativos;",
+    "depois": "Departamento de Gestão de Recursos Educativos;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:274467:por",
+    "alterador": "pt:dre:262600:por"
+  }
+]

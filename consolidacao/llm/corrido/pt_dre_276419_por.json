@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:276419:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 9,
+      "texto": "2.º Pelo presente diploma é concessionada pelo período de 12 anos à Associação Caça e Pesca de Amieira do Tejo e Arez (registo na Direcção-Geral das Florestas n.º 4.1062.91), com sede na Estrada de Arez, 37, Amieira do Tejo, Nisa, a zona de caça associativa da freguesia de Amieira do Tejo (processo n.º 1680 da Direcção-Geral das Florestas).\n\n3.º A Associação Caça e Pesca de Amieira do Tejo e Arez, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.\n\n4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados da Associação Caça e Pesca de Amieira do Tejo e Arez, com observância das regras legais e das suas normas estatutárias e regulamentares.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redacção dos n.os 2.º, 3.º e 4.º (nova denominação da associação); substituídas as unidades 7 a 9."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

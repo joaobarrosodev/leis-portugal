@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:270436:por",
+  "substituicoes": [
+    {
+      "de": 93,
+      "ate": 93,
+      "texto": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/133b00/36033604.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: o quadro n.º 6 do anexo III passa a ter a redação do anexo da Portaria 624/2004; o quadro só existe em imagem, substituída a ligação do quadro (unidade 93) pela nova; epígrafes iguais mantidas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

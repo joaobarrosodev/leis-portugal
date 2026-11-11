@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:266076:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 276/95 não altera o texto da Portaria n.º 229/94: atualiza os montantes das tabelas, mantém valores resultantes dos n.os 2.º e 3.º e extingue o prémio de rendibilidade fixado no n.º 5.º, sem lhe dar nova redação nem o revogar expressamente; alterações não textuais.",
+  "instrucoes": [
+    "Alterador 1, n.os 1.º-3.º e 6.º: atualização de montantes e manutenção de valores; não textual, nada aplicado.",
+    "Alterador 1, n.º 5.º: extinção do prémio de rendibilidade do n.º 5.º da Portaria 229/94; não é revogação textual, nada aplicado.",
+    "Alterador 1, n.os 4.º e 7.º: alteram a Portaria n.º 493/88; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

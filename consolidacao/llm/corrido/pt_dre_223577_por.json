@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:223577:por",
+  "substituicoes": [
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "Escola Superior de Enfermagem de Maria Fernanda Resende\n\nEnfermagem de Saúde Infantil e Pediátrica\n\nDiploma de estudos superiores especializados\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/137b00/29252925.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo anexo I — mantido o título, substituído o conteúdo (unidade 25) pelo do anexo do alterador (plano só em imagem).",
+    "Alterador 1, n.os 2.º e 3.º: transição e entrada em vigor — não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

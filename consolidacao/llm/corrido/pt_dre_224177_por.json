@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:224177:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º São criadas assinaturas sazonais mensais, durante os meses de Julho, Agosto e Setembro, para caminho de ferro, em 2.ª classe, entre Coimbra-A e Figueira da Foz, válidas para os percursos entre esta cidade e Reveles, Marujal, Formoselha, Vila Pouca do Campo e Coimbra-A.",
+      "alterador": 1
+    },
+    {
+      "de": 8,
+      "ate": 14,
+      "texto": "3.º Os preços das assinaturas referidas no n.º 1.º são resultantes da redução de 15% sobre o valor das assinaturas de base zonal aprovadas, arredondados para o múltiplo superior de 5$00, quando for caso disso, de acordo com o estabelecido no artigo 20.º, n.º 7, da Tarifa Geral de Transportes - Passageiros e Bagagens, em vigor para a CP.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 1338/82, 5.º: nova redação do n.º 1.º; substituída a unidade 6.",
+    "Portaria 1338/82, 5.º: nova redação do n.º 3.º (um só parágrafo, sem a lista de preços); substituídas as unidades 8 a 14.",
+    "Restantes números da Portaria 1338/82 alteram a Tarifa Geral, não o original: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
