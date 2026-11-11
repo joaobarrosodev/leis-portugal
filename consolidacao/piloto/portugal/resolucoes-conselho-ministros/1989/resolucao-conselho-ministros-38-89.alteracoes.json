@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "8 - Para efeitos da presente resolução, consideram-se trabalhadores da Companhia de Seguros Tranquilidade, S. A., todas as pessoas que à data da publicação deste diploma mantenham com aquela sociedade um vínculo laboral, bem como as que hajam mantido vínculo laboral com a Tranquilidade Seguros, E. P., e com a Companhia de Seguros Tranquilidade, S. A., durante mais de três anos.",
+    "depois": "8 - Para efeitos da presente resolução, consideram-se trabalhadores da Companhia de Seguros Tranquilidade, S. A., todas as pessoas que, à data da publicação deste diploma, mantenham com aquela sociedade um vínculo laboral, bem como as que hajam mantido vínculo laborar com a Tranquilidade Seguros, E. P., ou com as empresas privadas que por via de nacionalização ou qualquer outra se integraram nesta empresa pública, desde que o tempo de serviço prestado em qualquer dessas empresas, isolada ou cumulativamente, seja superior a três anos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:423237:por",
+    "alterador": "pt:dre:240797:por"
+  }
+]

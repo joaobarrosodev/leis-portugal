@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:480101:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os 1.º a 4.º do alterador 1 acrescem/extinguem lugares e substituem os quadros de zona pedagógica do Norte e do Alentejo, que só existem em imagem (anexo, unidade 10); não há alteração textual aplicável.",
+  "instrucoes": [
+    "1.º e 2.º do alterador 1 alteram o número de lugares nos quadros (imagem): não aplicado",
+    "3.º do alterador 1 é norma de transição própria: nada feito",
+    "4.º do alterador 1 substitui os quadros do Norte e do Alentejo pelos do seu anexo (imagem): não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

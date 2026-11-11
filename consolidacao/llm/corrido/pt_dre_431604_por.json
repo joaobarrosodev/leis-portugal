@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:431604:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o anexo (plano de estudos) passa a ter a redacção do anexo à Portaria n.º 139/2004, cujo quadro só vem em imagem (ver quadro no documento original); não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redacção do anexo; o quadro do plano de estudos só vem em imagem e os cabeçalhos do anexo ficam iguais: não aplicada (nao_aplicavel).",
+    "Alterador 1, n.os 2.º e 3.º: regras de transição e aplicação no tempo; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

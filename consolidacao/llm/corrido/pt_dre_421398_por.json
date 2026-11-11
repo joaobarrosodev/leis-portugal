@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:421398:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: os mapas I e II são substituídos pelos mapas anexos à Portaria n.º 680/88, que só vêm em imagem (ver documento original); não se pode aplicar textualmente.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui os mapas I e II; mapas só em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º: encargos no ano corrente, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

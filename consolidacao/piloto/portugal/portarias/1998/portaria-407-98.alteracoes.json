@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É homologado o protocolo que criou o FORMINTER - Centro de Formação e de Inovação Tecnológica, outorgado entre o Instituto do Emprego e Formação Profissional e a Confederação Geral dos Trabalhadores Portugueses - Intersindical Nacional.",
+    "depois": "1.º É homologado o protocolo que criou o INOVINTER - Centro de Formação e de Inovação Tecnológica, outorgado entre o Instituto do Emprego e Formação Profissional e a Confederação Geral dos Trabalhadores Portugueses - Intersindical Nacional.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:484828:por",
+    "alterador": "pt:dre:321950:por"
+  },
+  {
+    "artigo": "unidades 27-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O centro agora criado adopta a designação de FORMINTER - Centro de Formação e de Inovação Tecnológica.",
+    "depois": "O Centro agora criado adopta a designação de INOVINTER - Centro de Formação e de Inovação Tecnológica.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:484828:por",
+    "alterador": "pt:dre:321950:por"
+  },
+  {
+    "artigo": "unidades 30-30",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - O FORMINTER - Centro de Formação e de Inovação Tecnológica, doravante designado por Centro, é um organismo dotado de personalidade jurídica de direito público, sem fins lucrativos, com autonomia administrativa e financeira e património próprio.",
+    "depois": "1 - O INOVINTER - Centro de Formação e de Inovação Tecnológica, doravante designado por Centro, é um organismo dotado de personalidade jurídica de direito público, sem fins lucrativos, com autonomia administrativa e financeira com património próprio.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:484828:por",
+    "alterador": "pt:dre:321950:por"
+  }
+]

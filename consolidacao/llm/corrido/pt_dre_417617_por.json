@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:417617:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O 1.º da Portaria n.º 766/88 substitui a tabela anexa, que só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição da tabela anexa; só em imagem, não aplicada.",
+    "Alterador 1, 2.º: regra própria sobre tributação das remunerações, não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

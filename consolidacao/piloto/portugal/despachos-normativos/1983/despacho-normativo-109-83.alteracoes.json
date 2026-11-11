@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.ª qualidade - 5$00;\n\n2.ª qualidade - 4$20.",
+    "depois": "1.ª qualidade - 5$20;\n\n2.ª qualidade - 4$40.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:450868:por",
+    "alterador": "pt:dre:441159:por"
+  }
+]

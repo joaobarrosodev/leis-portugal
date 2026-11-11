@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:477665:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "b) Fundo para Operações Especiais - 210790 dólares dos Estados Unidos da América.",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "Art. 2.º - 1 - O serviço da emissão das promissórias referidas no artigo anterior ficará a cargo da junta do Crédito Público.\n\n2 - As promissórias referidas na alínea a) do n.º 1 do artigo anterior serão entregues ao Banco de Portugal, na sua qualidade de depositário dos haveres em escudos do Banco Interamericano de Desenvolvimento, conforme previsto no artigo 4.º do [Decreto-Lei n.º 40-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-a-1980-218926), de 14 de Março, e na secção 4 do artigo XIV do Convénio Constitutivo deste Banco.\n\n3 - As promissórias referidas na alínea b) do n.º 1 do artigo anterior serão entregues ao Banco Interamericano de Desenvolvimento.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação da alínea b) do n.º 1 do artigo 1.º (corpo, a) e n.º 2 com '...' ficam); substituída a unidade 9.",
+    "Alterador 1, art. 1.º: nova redação do artigo 2.º, agora com três números; substituída a unidade 11.",
+    "Alterador 1, segundo 'Art. 2.º': produção de efeitos — norma própria, ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

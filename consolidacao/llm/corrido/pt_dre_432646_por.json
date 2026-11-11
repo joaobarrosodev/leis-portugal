@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:432646:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 1000/2005 extingue a zona de caça municipal de Ribafeita criada pelo original; é uma extinção do objeto, não uma alteração textual de nenhuma unidade, pelo que não há texto a mudar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: extingue a zona de caça municipal criada pelo original; não é alteração textual, nada aplicado (nao_aplicavel).",
+    "Alterador 1, n.os 2.º e 3.º: concessionam nova zona de caça associativa; não se dirigem ao texto do original, ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

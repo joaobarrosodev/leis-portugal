@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:431074:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, arts. 1.º, n.º 2, e 7.º: substitui os quadros relativos à captação JK1 dos anexos I e III pelos quadros do anexo VI da Portaria n.º 97/2011, que só vêm em imagem (ver documento original); não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1, arts. 2.º a 6.º: alteram as Portarias n.os 689/2008, 983/2010, 1186/2010, 1187/2010 e 1188/2010; dirigidos a outros diplomas: ignorados.",
+    "Alterador 1, arts. 1.º, n.º 2, e 7.º: substituição dos quadros da captação JK1 nos anexos I e III; quadros só em imagem: não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º São anexados à presente zona de caça vários prédios rústicos sitos na freguesia de Penamacor, município de Idanha-a-Nova, com a área de 80 ha, ficando a mesma com a área total de 1050 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "depois": "1.º São anexados à zona de caça associativa de Abrunheiros e Aravil (processo n.º 2676-AFN) os prédios rústicos sitos na freguesia de Ladoeiro, município de Idanha-a-Nova, com a área de 80 ha, ficando a mesma com a área total de 1050 ha, conforme planta anexa a esta Portaria e que dela faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:482872:por",
+    "alterador": "pt:dre:609619:por"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:461991:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 509/2003 altera o quadro de pessoal (anexo I) através de um mapa anexo que só existe em imagem, e extingue áreas funcionais e a carreira de costureira nesse quadro; não há alteração textual aplicável ao texto do original.",
+  "instrucoes": [
+    "1.º do alterador 1: quadro de pessoal alterado de acordo com mapa anexo em imagem - não aplicado (anexo só em imagem).",
+    "2.º do alterador 1: extinção de áreas funcionais e da carreira de costureira no quadro - não é alteração textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

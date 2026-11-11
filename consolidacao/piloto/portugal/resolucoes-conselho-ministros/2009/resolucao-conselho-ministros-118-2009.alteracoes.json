@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - Determinar que o máximo de despesa, a inscrever no orçamento do Ministério da Educação, financiada por receitas gerais do Estado, não exceda (euro) 45 000 000.",
+    "depois": "4 - O montante máximo da despesa com a aquisição autorizada no n.º 1 é suportado por receitas gerais do Estado, com observância dos seguintes limites anuais a inscrever para o efeito, acrescidos do imposto sobre o valor acrescentado:\n\na) 2010 - (euro) 25 699 913;\n\nb) 2011 - (euro) 24 300 087.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:482137:por",
+    "alterador": "pt:dre:343589:por"
+  }
+]

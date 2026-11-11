@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:475974:por",
+  "substituicoes": [
+    {
+      "de": 41,
+      "ate": 44,
+      "texto": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 592/2004), n.º 1.º: nova redação do anexo (plano de estudos), que só vem em imagem ('ver quadro no documento original'); não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui o anexo (quadro em imagem) — não aplicado (nao_aplicavel). N.os 2.º a 4.º: normas próprias, não alteram o texto do original.",
+    "Alterador 2, n.º 1.º: nova redação do número com a epígrafe 'Regulamento' (n.º 9.º) das portarias do anexo (lista em imagem; assume-se que inclui esta, por vir indicada como alteradora); substituído o corpo (unidades 41 a 44) por um só parágrafo, mantendo número e epígrafe."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

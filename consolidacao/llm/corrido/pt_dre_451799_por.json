@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:451799:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 401/90), 1.º e 12.º: extingue o mestrado em Antropologia Cultural e Social e Sociologia da Cultura e derroga a Portaria n.º 613/83 no que se refere a esse grau e curso, com regime de transição para os alunos inscritos; é uma derrogação parcial sem instrução textual (não revoga nem altera expressamente a alínea b) do n.º 1.º nem o anexo II), por isso não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º e 12.º: extinção do curso e derrogação parcial da portaria quanto a esse grau, com transição: não aplicada ao texto (não textual).",
+    "Alterador 1, 2.º a 11.º e 13.º: criam e regulam o novo mestrado em Antropologia; não se dirigem ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

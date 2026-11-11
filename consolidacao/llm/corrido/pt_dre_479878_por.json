@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:479878:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 11,
+      "texto": "Processos de privatização do BTA, do BESCL, do Jornal de Notícias, do Diário de Notícias, da Tranquilidade e da Mundial-Confiança;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 dá nova redação ao n.º 2 (objecto): casos das unidades 6 a 10 eliminados, unidade 11 com nova redação; unidades 5 e 12 iguais"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "No n.º 2.º, onde se lê «com uma área de 13,9070 ha.» deve ler-se «com uma área de 13,9700 ha.».",
+    "depois": "No n.º 2.º, onde se lê «com uma área de 13,9070 ha.» deve ler-se «com uma área de 13907 ha.».",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:483470:por",
+    "alterador": "pt:dre:506217:por"
+  }
+]

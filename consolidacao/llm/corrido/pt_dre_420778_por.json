@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:420778:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o plano de estudos (anexo) passa a ser o do anexo à Portaria n.º 1170/2000, cujos quadros só vêm em imagem (ver quadros no documento original); não se pode aplicar textualmente.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui o plano de estudos do anexo; quadros só em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º a 4.º: normas próprias do alterador (semanas lectivas, aplicação, transição), não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

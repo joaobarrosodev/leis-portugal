@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:433782:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º, n.º 2, da Portaria n.º 1414/2003 dá nova redação ao anexo do original (plano de estudos), mas os quadros do novo anexo só vêm em imagem; não se aplica com segurança. O n.º 1 (duração do 2.º ciclo em três semestres) não é alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º, n.º 1: fixa a duração do 2.º ciclo em três semestres; não altera texto do original, não aplicado.",
+    "Alterador 1, n.º 1.º, n.º 2: substitui o anexo do original pelo anexo da portaria; quadros só em imagem, não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

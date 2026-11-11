@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:489758:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Artigo único da Portaria 375/2010 substitui a planta anexa, que só existe em imagem (ver documento original): não aplicável ao texto.",
+  "instrucoes": [
+    "Artigo único: substitui a planta anexa (imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:478652:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º As actuais subposições 28.40.02 a 28.40.07, 29.14.22, 29.14.23 e 30.03.02 passam a ter, respectivamente, os números 28.40.03 a 28.40.08, 29.14.23, 29.14.24 e 30.03.04;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 10,
+      "texto": "4.º Os medicamentos importados pela subposição 30.03.02 ficam isentos do pagamento da taxa indicada no número anterior enquanto a Comissão Reguladora dos Produtos Químicos e Farmacêuticos não comunicar à alfândega que a indústria nacional está em condições de abastecer o mercado interno.\n\n5.º À relação anexa à [Portaria n.º 19154](https://diariodarepublica.pt/dr/detalhe/portaria/19154-1962-516178), de 28 de Abril de 1962, são aditadas as subposições 28.40.02, 29.14.22, 30.03.01 e 30.03.03, todas isentas do pagamento de taxas.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º do alterador 1 adita os n.os 4.º e 5.º: inseridos depois da unidade 10",
+    "2.º do alterador 1 retifica o n.º 1.º (29.40.03 -> 28.40.03): unidade 8 substituída"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:448482:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "7.º (transitório) - A transferência referida a 1 de Outubro de 1977 será realizada em 15 de Julho de 1978.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 7.º (data passa a 15 de Julho de 1978); substituída a unidade 22."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

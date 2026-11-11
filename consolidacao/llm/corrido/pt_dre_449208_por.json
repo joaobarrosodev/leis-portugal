@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:449208:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º, n.os 1 e 2: alteram as tabelas dos anexos I (supressão da referência à UTAD, Chaves) e II (vagas da UTAD, Chaves, para 40), que só existem em imagem no documento original; não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º, n.º 1: suprime referência à UTAD no anexo I (tabela em imagem): não aplicado.",
+    "Alterador 1, 1.º, n.º 2: altera vagas no anexo II (tabela em imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

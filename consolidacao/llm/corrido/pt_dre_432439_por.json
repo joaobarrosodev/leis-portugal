@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:432439:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: as rectificações (Maruca, Atum, Cherne, Pota, Sardinela, Solha, Truta, Vieira) incidem sobre a lista do anexo I republicado, que só vem em imagem (ver lista no documento original); o texto a rectificar não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: rectificações de nomes científicos e designações na lista do anexo I; lista só em imagem: não aplicadas (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

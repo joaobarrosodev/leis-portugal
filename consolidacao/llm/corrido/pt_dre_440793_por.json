@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:440793:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "3.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "N.º 2.º da Portaria n.º 264/2009: substitui a planta anexa, que só existe em imagem no documento original; não há texto a alterar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: revoga o n.º 3.º — unidade 8 passa a «3.º - (Revogado.)».",
+    "Alterador 1, n.º 2.º: substituição da planta anexa (imagem) — não aplicada, registada em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

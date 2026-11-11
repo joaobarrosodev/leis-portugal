@@ -1,0 +1,41 @@
+---
+id: pt:dre:490429:por
+title: Resolução do Conselho de Ministros n.º 94/2009
+original: data/portugal/resolucoes-conselho-ministros/2009/resolucao-conselho-ministros-94-2009.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:343597:por
+    title: Resolução do Conselho de Ministros n.º 59/2010
+    publication_date: '2010-08-24'
+---
+
+# Resolução do Conselho de Ministros n.º 94/2009
+
+O Ministério da Justiça, através do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P., está a proceder ao melhoramento das condições existentes em diversos estabelecimentos prisionais, tendo sido dado início a um vasto conjunto de obras de aperfeiçoamento das condições de habitabilidade e segurança.
+
+Um destes estabelecimentos é o Estabelecimento Prisional do Linhó, o qual, actualmente, por causa das referidas obras de melhoria, dispõe de uma capacidade de alojamento bastante diminuída, uma vez que 117 celas de alojamento se encontram desactivadas, para obras de requalificação das infra-estruturas e melhoria das condições de segurança.
+
+A inactividade das celas em questão torna a gestão deste estabelecimento mais exigente, face aos riscos de agravamento das condições de segurança e de diminuição das condições de habitabilidade no mesmo.
+
+A opção pela via concursal para a adjudicação da empreitada de requalificação do estabelecimento acima referido, com a morosidade que lhe está associada, seria intolerável ante os já identificados riscos para a gestão do meio prisional, impondo-se, antes, o recurso ao procedimento pré-contratual de ajuste directo, com carácter de urgência.
+
+Por outro lado, qualquer intervenção neste tipo de instalações deve ser acompanhada de especiais exigências de segurança e de estrita confidencialidade, relacionadas, nomeadamente, com a configuração do espaço, as suas funcionalidades e com os sistemas e procedimentos de vigilância e controlo que se afiguram necessários.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a realização da despesa com a adjudicação da empreitada de requalificação das instalações do Estabelecimento Prisional do Linhó, até ao montante de (euro) 1 550 000.
+
+2 - Determinar, considerando as exigências de segurança e estrita confidencialidade em causa, o recurso ao ajuste directo no processo de adjudicação da empreitada de requalificação das instalações do Estabelecimento Prisional do Linhó, devendo, por razões de respeito pelo princípio da concorrência, proceder-se à consulta de, pelo menos, três entidades de entre aquelas que estão devidamente credenciadas com o grau confidencial junto do Gabinete Nacional de Segurança, nos termos da alínea f) do n.º 1 do artigo 24.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, alterado pela [Lei n.º 59/2009](https://diariodarepublica.pt/dr/detalhe/lei/59-2009-493991), de 11 de Setembro, pelo [Decreto-Lei n.º 223/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2009-489738), de 11 de Setembro, pelo [Decreto-Lei n.º 278/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2009-491176), de 2 de Outubro, e pela [Lei n.º 3/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-2010-614148), de 27 de Abril.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 59/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-2010-343597), publicado em 2010-08-24.
+
+3 - Delegar, com a faculdade de subdelegação, ao abrigo do artigo 109.º do Código dos Contratos Públicos, no Ministro da Justiça a competência para a prática de todos os actos no âmbito do procedimento referido no número anterior, incluindo a competência para a aprovação das peças procedimentais, para a designação do júri do procedimento, bem como para a outorga do respectivo contrato.
+
+4 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 27 de Agosto de 2009. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

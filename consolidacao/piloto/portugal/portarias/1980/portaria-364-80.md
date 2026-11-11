@@ -1,0 +1,45 @@
+---
+id: pt:dre:473289:por
+title: Portaria n.º 364/80
+original: data/portugal/portarias/1980/portaria-364-80.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:573691:por
+    title: Portaria n.º 403/81
+    publication_date: '1981-05-20'
+---
+
+# Portaria n.º 364/80
+
+de 2 de Julho
+
+Considerando a conveniência de, em cumprimento do disposto no [Decreto-Lei n.º 426/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1972-291610), de 31 de Outubro, criar para todos os funcionários do Instituto do Azeite e Produtos Oleaginosos um meio de identificação que permita o fácil reconhecimento da sua qualidade:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, ao abrigo da alínea d) do artigo 202.º da Constituição e dos artigos 20.º e 21.º do [Decreto-Lei n.º 426/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1972-291610), de 31 de Outubro, o seguinte:
+
+1.º São criados, nos termos da presente portaria, cartões especiais de identificação para uso do pessoal do Instituto do Azeite e Produtos Oleaginosos.
+
+2.º Os cartões serão de modelo anexo a esta portaria e sobre a assinatura do presidente da direcção do Instituto do Azeite e Produtos Oleaginosos será aposto o selo branco privativo do organismo.
+
+3.º O fundo dos cartões será de cor branca, tendo impresso a verde-claro a designação «Instituto do Azeite e Produtos Oleaginosos». Terá na frente uma barra oblíqua, que irá do canto superior esquerdo ao canto inferior direito, contendo as cores da bandeira nacional, com a largura de 10 mm, e no verso, no canto inferior esquerdo, a indicação de que o modelo foi aprovado pela presente portaria.
+
+> Alterado pelo/a [Portaria n.º 403/81](https://diariodarepublica.pt/dr/detalhe/portaria/403-1981-573691), publicado em 1981-05-20.
+
+4.º Os cartões serão emitidos pelo Instituto do Azeite e Produtos Oleaginosos e serão assinados, nos locais respectivos, pelo presidente da direcção e pelo portador.
+
+5.º Os cartões destinados a ser utilizados pelo presidente da direcção, directores e funcionários da fiscalização terão impresso no verso o «artigo 20.º e os n.os 1 e 2 do artigo 21.º do [Decreto-Lei n.º 426/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1972-291610), de 31 de Outubro».
+
+6.º Os cartões deverão ser substituídos quando se verifique qualquer alteração nos elementos deles constantes e serão obrigatoriamente recolhidos quando os seus titulares cessem o exercício das respectivas funções.
+
+7.º Em caso de extravio, de destruição ou deterioração, será passada uma 2.ª via, de que se fará referência expressa no cartão, mantendo este, todavia, o número anterior.
+
+8.º Esta portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Secretaria de Estado do Comércio Interno, 17 de Junho de 1980. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
+
+Modelo a que se refere o n.º 2.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/15000/15241524.pdf)

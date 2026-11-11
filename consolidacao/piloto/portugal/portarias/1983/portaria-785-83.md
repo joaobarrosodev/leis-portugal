@@ -1,0 +1,53 @@
+---
+id: pt:dre:454303:por
+title: Portaria n.º 785/83
+original: data/portugal/portarias/1983/portaria-785-83.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:386039:por
+    title: Portaria n.º 484/84
+    publication_date: '1984-07-20'
+---
+
+# Portaria n.º 785/83
+
+de 27 de Julho
+
+1. Dentro da gradualidade que, atentas as características especiais do distrito, necessário se torna observar na implementação do Centro Regional de Segurança Social de Lisboa, foram nele integradas pela [Portaria n.º 84/83](https://diariodarepublica.pt/dr/detalhe/portaria/84-1983-308512), de 27 de Janeiro, as ex-Caixas de Previdência e Abono de Família do Comércio, da Indústria e dos Serviços, objecto, em momento anterior, de integração funcional.
+
+2. Bem longe de uma transformação meramente formal, este último processo evolutivo do Centro Regional de Segurança Social de Lisboa representou, para além da extinção das 3 Caixas, a total e efectiva transferência para o Centro de Recursos e Responsabilidades, a gerir e a exercer, a partir de então, de uma forma muito mais aproximada do modelo final que se pretende ver concretizado.
+
+3. A experiência entretanto colhida permite já, e até aconselha, ultrapassar a solução anteriormente adoptada. Ditam-no, sobretudo, as acções já desenvolvidas no domínio dos serviços comuns de apoio técnico e administrativo e, no concernente aos fins, a necessidade sentida de se operar gradualmente a transformação do actual sistema organizativo por clientelas, substituindo-o, num cenário mais integrado, lógico e sequencial, por outro que corresponda ao encadeamento das tarefas exigidas à prossecução conjunta daqueles fins e da prestação dos respectivos benefícios.
+
+4. Como consequência do que se afirmou no número anterior impõe-se, assim, no plano estrutural e organizativo, terminar com a diferenciação dos serviços criados pela [Portaria n.º 84/83](https://diariodarepublica.pt/dr/detalhe/portaria/84-1983-308512), de 27 de Janeiro, e, em sua substituição, criar um único departamento capaz de propiciar e garantir a melhor resposta às solicitações que o desenvolvimento do processo já contém e vai crescentemente conter.
+
+5. A par da transformação a operar na área dos regimes de segurança social é também possível e conveniente estabelecer desde já o embrião de uma estrutura homóloga no domínio da acção social, igualmente capaz de permitir, no seu desenvolvimento, as respostas, diversas e complexas, que o distrito de Lisboa inequivocamente exige.
+
+Nestes termos, para execução do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, ratificado pela [Lei n.º 55/78](https://diariodarepublica.pt/dr/detalhe/lei/55-1978-297012), de 27 de Julho, de acordo com o n.º 3 do artigo 1.º do [Decreto n.º 79/79](https://diariodarepublica.pt/dr/detalhe/decreto/79-1979-381356), de 2 de Agosto, e os n.os 1, 2 e 3 do artigo 2.º do [Decreto Regulamentar n.º 3/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1981-390388), de 15 de Janeiro:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Trabalho e Segurança Social, o seguinte:
+
+1.º É criado no Centro Regional de Segurança Social de Lisboa, como único serviço operativo do Centro Regional em tal domínio, o Departamento de Regimes de Segurança Social.
+
+2.º Como estrutura de resposta organizada visando proteger as crianças, os jovens, os deficientes e os idosos, satisfazer as carências das famílias, promover a integração social e desenvolver a acção social comunitária, é criado no Centro Regional de Segurança Social de Lisboa o Departamento de Acção Social.
+
+3.º A comissão instaladora do Centro Regional de Segurança Social de Lisboa pode delegar, no todo ou em parte, em funcionários dos 2 departamentos, a competência para a prática, em cada um deles, dos actos respeitantes à realização das atribuições que lhe estão ou venham a estar cometidas, bem como dos relativos à sua administração geral, designadamente no domínio dos recursos humanos, materiais e financeiros.
+
+4.º Será fixado por despacho ministerial o modelo organizativo e funcional a que deve obedecer, nesta fase, o desenvolvimento dos 2 departamentos agora criados.
+
+5.º A Comissão Instaladora do Centro Regional de Segurança Social de Lisboa prosseguirá as acções, já iniciadas, de reordenamento e unificação dos serviços de apoio técnico e administrativo com vista à oportuna criação do respectivo departamento.
+
+6.º São revogados os n.os 2.º, 3.º e 4.º da [Portaria n.º 84/83](https://diariodarepublica.pt/dr/detalhe/portaria/84-1983-308512), de 27 de Janeiro.
+
+> Alterado pelo/a [Portaria n.º 484/84](https://diariodarepublica.pt/dr/detalhe/portaria/484-1984-386039), publicado em 1984-07-20.
+
+7.º A presente portaria entra imediatamente em vigor.
+
+Ministério do Trabalho e Segurança Social
+
+Assinada em 18 de Julho de 1983.
+
+O Ministro do Trabalho e Segurança Social, Amândio Anes de Azevedo.

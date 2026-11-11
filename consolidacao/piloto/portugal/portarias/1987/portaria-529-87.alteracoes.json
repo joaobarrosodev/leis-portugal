@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 194-194",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Lisboa, 6 de Março de 1987. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral. - Pelo Instituto do Emprego e Formação Profissional, Álvaro Gonçalves Martins. - Pela Associação dos Industriais Metalúrgicos e Metalomecânicos do Norte, (Assinatura ilegível.) - Pela Associação dos Industriais Metalúrgicos e Metalomecânicos do Sul, (Assinatura ilegível.)",
+    "depois": "Lisboa, 6 de Março de 1987. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral. - Pelo Instituto do Emprego e Formação Profissional, Álvaro Gonçalves Martins. - Pela Associação dos Industriais Metalúrgicos, Metalomecânicos e Afins de Portugal (AIMMAP), (Assinatura ilegível.) - Pela Associação Nacional das Empresas Metalúrgicas e Electromecânicas (ANEMM), (Assinatura ilegível.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:419775:por",
+    "alterador": "pt:dre:324162:por"
+  }
+]

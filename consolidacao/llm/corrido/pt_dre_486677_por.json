@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:486677:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 17,
+      "texto": "3.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 20,
+      "texto": "4.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 5.º: revoga os artigos 3.º e 4.º da Portaria n.º 2-A/2004 (unidades 15-17 e 18-20), que ficam com a numeração e (Revogado.).",
+    "Alterador 1, artigos 1.º e 2.º: fixam quadros em mapas anexos próprios; não revogam nem substituem expressamente os mapas IV a VI do original: nada alterado nesses mapas.",
+    "Alterador 1, artigos 3.º, 4.º e 6.º e revogação da Portaria n.º 2-B/2004: normas próprias ou de outro diploma, ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

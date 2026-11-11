@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:430027:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: altera os valores da tabela de preços de garantia anexa ao despacho; os novos valores só vêm em imagem (ver documento original); não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1: nova tabela de preços de garantia por litro de azeite; tabela só em imagem: não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

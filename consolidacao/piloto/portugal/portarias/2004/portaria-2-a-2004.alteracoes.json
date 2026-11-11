@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 15-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º\n\nQuadro dos magistrados dos tribunais administrativos e fiscais\n\nOs quadros dos magistrados dos tribunais administrativos e fiscais são os fixados nos mapas IV e V anexos.",
+    "depois": "3.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:486677:por",
+    "alterador": "pt:dre:455603:por"
+  },
+  {
+    "artigo": "unidades 18-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º\n\nQuadro dos funcionários de justiça dos tribunais administrativos e fiscais\n\nOs quadros dos funcionários de justiça dos tribunais administrativos e fiscais são os fixados no mapa VI anexo.",
+    "depois": "4.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:486677:por",
+    "alterador": "pt:dre:455603:por"
+  }
+]

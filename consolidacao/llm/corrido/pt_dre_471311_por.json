@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:471311:por",
+  "substituicoes": [
+    {
+      "de": 34,
+      "ate": 35,
+      "texto": "5.º - (Revogado.)\n\n6.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º a 3.º do alterador 1: regime autónomo de marcação de preços, não altera o texto do original - nada a aplicar.",
+    "4.º do alterador 1: revoga os n.os 5.º e 6.º - unidades 34 e 35 passam a (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

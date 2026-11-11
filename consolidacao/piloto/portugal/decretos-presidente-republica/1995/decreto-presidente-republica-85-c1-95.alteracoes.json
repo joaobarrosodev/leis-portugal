@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "São indultadas, na parte não cumprida, as penas de prisão aplicadas a Vítor Manuel Duarte das Neves, de 41 anos de idade, no processo de querela n.º 127/77 do Tribunal Judicial de Penacova, no processo de querela n.º 2023/87 do Tribunal Judicial do Seixal, no processo de querela n.º 779/85 da 3.ª Secção da 4.ª Vara Criminal de Lisboa e no processo de querela n.º 305/81 da 2.ª Secção da 7.ª Vara Criminal de Lisboa.",
+    "depois": "São indultadas, na parte não cumprida, as penas de prisão aplicadas a Vítor Manuel Duarte das Neves, de 41 anos de idade, no processo de querela n.º 122/77 do Tribunal Judicial de Penacova, no processo de querela n.º 2023/87 do Tribunal Judicial do Seixal, no processo de querela n.º 779/85 da 3.ª Secção da 4.ª Vara Criminal de Lisboa e no processo de querela n.º 305/81 da 2.ª Secção da 7.ª Vara Criminal de Lisboa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:461002:por",
+    "alterador": "pt:dre:619733:por"
+  }
+]

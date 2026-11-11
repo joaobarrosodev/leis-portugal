@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:452886:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 62/2008 retifica o sumário do decreto («Tirociano» por «Tirocinado»), que não faz parte do texto das unidades; o corpo já diz «Tirocinado».",
+  "instrucoes": [
+    "Alterador 1: retificação do sumário (Tirociano -> Tirocinado); o sumário não está no texto e o corpo já está correto; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

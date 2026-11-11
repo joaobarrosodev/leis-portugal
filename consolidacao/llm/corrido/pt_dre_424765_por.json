@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:424765:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: revoga a Portaria n.º 541/74 por inteiro, a partir das 0 horas de 7 de Outubro de 1974.",
+  "instrucoes": [
+    "Alterador 1, 1.º: dá por finda a mobilização da TAP — não textual.",
+    "Alterador 1, 2.º: revogação total do original — nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

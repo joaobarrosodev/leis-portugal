@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A pena acessória de expulsão do País aplicada a Maria de Lurdes Varela, de 46 anos de idade, no processo n.º 530/92 do 2.º Juízo Criminal do Tribunal Judicial de Oeiras é revogada, por indulto.",
+    "depois": "A pena acessória de expulsão do País aplicada a Maria de Lurdes Varela, de 46 anos de idade, no processo n.º 530/92 CC do 2.º Juízo Criminal do Tribunal Judicial de Oeiras é revogada, por indulto.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:440350:por",
+    "alterador": "pt:dre:581268:por"
+  }
+]

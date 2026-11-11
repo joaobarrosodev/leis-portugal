@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:455624:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "3.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 710 ha, conforme a planta anexa a esta portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, artigo 1.º, n.º 2: substituição da planta anexa, que só existe em imagem (alteração não textual).",
+  "instrucoes": [
+    "Alterador 1, artigo 1.º, n.º 1: nova redação do n.º 3.º - substituída a unidade 9.",
+    "Alterador 1, artigo 1.º, n.º 2: substituição da planta - não aplicada (imagem).",
+    "Alterador 1, artigos 2.º a 6.º: dizem respeito à zona de caça municipal de Figueira e Barros - ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

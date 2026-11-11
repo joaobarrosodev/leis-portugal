@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:448283:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o anexo passa a ter a redacção do anexo da Portaria n.º 1072/2003, cujos quadros só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição do anexo (plano de estudos) por quadros em imagem; não aplicada.",
+    "Alterador 1, 2.º a 5.º: disposições autónomas da portaria alteradora (não aditadas ao original); ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

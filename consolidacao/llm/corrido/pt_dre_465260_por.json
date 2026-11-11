@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:465260:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 177/2006 (alterador 2), artigo 13.º, revoga por inteiro a Portaria n.º 1250/2003; as alterações anteriores da Portaria n.º 425/2005 ficam sem efeito útil.",
+  "instrucoes": [
+    "1.º do alterador 1: nova redação do proémio do n.º 4.º - consumida pela revogação total.",
+    "2.º do alterador 1: aditamento dos n.os 4.º-A e 4.º-B - consumido pela revogação total.",
+    "3.º do alterador 1: revogação dos n.os 5.º, 6.º, 7.º e 9.º - consumida pela revogação total.",
+    "Artigo 13.º do alterador 2: revoga a Portaria n.º 1250/2003 - revogação total, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

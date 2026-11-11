@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:432438:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: extingue a zona de caça municipal da Madreana criada pela portaria; é uma extinção do objecto, não uma alteração textual nem uma revogação expressa do texto; não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: extinção da zona de caça municipal criada pelo original; não textual: não aplicada (nao_aplicavel).",
+    "Alterador 1, n.os 2.º e 3.º: concessão de nova zona de caça associativa; não dirigidos ao texto do original: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

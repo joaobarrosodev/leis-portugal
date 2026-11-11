@@ -570,3 +570,7 @@ Mais 120 diplomas (`llm/corrido-ids-bloco16.txt`, de 977 candidatos; 45 saltados
 ### Bloco 17 (ronda 34)
 
 Mais 120 diplomas (`llm/corrido-ids-bloco17.txt`, de 857 candidatos; 46 saltados por tamanho). 59 sem alterações, 60 juntados, 1 recusado. Ronda 34: 60 verificados às cegas, **52 sem reparos: 43 % do bloco (87 % dos verificados)**. Acumulado das rondas 17 a 34: **887 em 1 960 (45 %)**. Ficam cerca de 740 candidatos.
+
+### Bloco 18 (ronda 35)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco18.txt`, de 737 candidatos; 46 saltados por tamanho). 61 sem alterações, 59 juntados, 0 recusados. Ronda 35: 59 verificados às cegas, **52 sem reparos: 43 % do bloco (88 % dos verificados)**. Acumulado das rondas 17 a 35: **939 em 2 080 (45 %)**. Ficam cerca de 620 candidatos.

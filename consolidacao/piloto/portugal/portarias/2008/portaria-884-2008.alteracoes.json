@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 725 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "depois": "3.º Esta zona de caça, após a sua renovação e anexação dos terrenos acima referidos, ficará com a área total de 710 ha, conforme a planta anexa a esta portaria e que dela faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:455624:por",
+    "alterador": "pt:dre:342777:por"
+  }
+]

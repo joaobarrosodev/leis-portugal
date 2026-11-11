@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:437218:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 16-G/98 corrige «Cartório Notarial de Matosinhos» para «Secretaria Notarial de Matosinhos» no quadro anexo, que só vem em imagem; o texto a corrigir não existe no texto atual.",
+  "instrucoes": [
+    "Alterador 1: retificação no quadro anexo (Cartório -> Secretaria Notarial de Matosinhos); quadro só em imagem, não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

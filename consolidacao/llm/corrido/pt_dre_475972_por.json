@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:475972:por",
+  "substituicoes": [
+    {
+      "de": 110,
+      "ate": 113,
+      "texto": "Confirmação ou rectificação das declarações\n\nEm cada um dos anos seguintes ao da formalização da candidatura, o beneficiário deve confirmar ou rectificar as declarações constantes do formulário de inscrição.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º, 2.º e 4.º: alteram a Portaria n.º 85/98 — outro diploma, ignorados.",
+    "Alterador 1, n.º 3.º: nova redação dos n.os 1 e 2 do n.º 14.º (unidades 111-112); fica absorvida pela substituição integral do n.º 14.º pelo alterador 2, pelo que se devolve só o resultado final.",
+    "Alterador 2, n.º 4.º: nova redação integral do n.º 14.º (epígrafe e corpo de um só parágrafo); substituídas as unidades 110 a 113, mantendo o número '14.º' (unidade 109).",
+    "Alterador 2, n.os 1.º, 2.º, 3.º e 5.º: regras sobre candidaturas/contratos e alteração da Portaria n.º 85/98 — não textuais no original ou de outro diploma, ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

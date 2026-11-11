@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:484828:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "1.º É homologado o protocolo que criou o INOVINTER - Centro de Formação e de Inovação Tecnológica, outorgado entre o Instituto do Emprego e Formação Profissional e a Confederação Geral dos Trabalhadores Portugueses - Intersindical Nacional.",
+      "alterador": 1
+    },
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "O Centro agora criado adopta a designação de INOVINTER - Centro de Formação e de Inovação Tecnológica.",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "1 - O INOVINTER - Centro de Formação e de Inovação Tecnológica, doravante designado por Centro, é um organismo dotado de personalidade jurídica de direito público, sem fins lucrativos, com autonomia administrativa e financeira com património próprio.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 1.º da portaria (unidade 9).",
+    "Alterador 1, n.º 2.º: nova redação da cláusula I do protocolo (unidade 27).",
+    "Alterador 1, n.º 3.º: nova redação do n.º 1 da cláusula II (unidade 30).",
+    "Alterador 1, n.º 4.º: produção de efeitos, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

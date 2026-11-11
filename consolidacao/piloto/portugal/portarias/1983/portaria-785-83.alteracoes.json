@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º É revogada a [Portaria n.º 84/83](https://diariodarepublica.pt/dr/detalhe/portaria/84-1983-308512), de 27 de Janeiro.",
+    "depois": "6.º São revogados os n.os 2.º, 3.º e 4.º da [Portaria n.º 84/83](https://diariodarepublica.pt/dr/detalhe/portaria/84-1983-308512), de 27 de Janeiro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:454303:por",
+    "alterador": "pt:dre:386039:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:451667:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "O disposto na presente portaria aplica-se aos alunos que, sem terem obtido aprovação em disciplinas de Grego ou Latim no ensino secundário, se matricularem e inscreverem na Faculdade de Letras da Universidade de Lisboa em qualquer das variantes do curso de licenciatura em Línguas e Literaturas Clássicas e nas variantes do curso de licenciatura em Línguas e Literaturas Modernas com disciplinas de Latim no plano de estudos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (matricularam e inscreveram -> matricularem e inscreverem); número e epígrafe iguais, substituída só a unidade 15."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

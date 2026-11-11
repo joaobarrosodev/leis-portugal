@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 7",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "3.º A venda ao público de frango assado, efectuada com infracção do disposto no n.º 1.º, será punida com a multa de 5000$00 e 10000$00.\n\n4.º A infracção do disposto no n.º 2.º será punida nos termos do [Decreto-Lei n.º 533/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1975-312062), de 26 de Setembro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:460614:por",
+    "alterador": "pt:dre:376597:por"
+  }
+]

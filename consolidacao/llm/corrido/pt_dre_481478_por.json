@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:481478:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "a) Licenciamento de fornecedor - (euro) 125;",
+      "alterador": 2
+    },
+    {
+      "de": 18,
+      "ate": 27,
+      "texto": "b) Exercício anual da actividade de fornecedor - (euro) 65;\n\nc) Pedido de inscrição no Registo Nacional de Materiais de Base de Pomares de Semente, Clones, Mistura Coloniais e Progenitores Familiares - (euro) 1000;\n\nd) Certificação de MFR:\n\ni) Sementes e partes de plantas (por certificado) - (euro) 6;\n\ne) Certificação da qualidade externa de plantas para arborização:\n\ni) Primeira visita para certificação - (euro) 140;\n\nii) Cada visita suplementar - (euro) 190;\n\niii) Por cada 100 plantas certificadas ou fracção - (euro) 0,14.\n\n2 - Os fornecedores licenciados ao abrigo do artigo 50.º do [Decreto-Lei n.º 205/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), de 12 de Setembro, estão isentos do pagamento da taxa referida na alínea a) do n.º 1 deste número.\n\n3 - Os fornecedores que cumpram os requisitos previstos no n.º 3 do artigo 35.º do [Decreto-Lei n.º 205/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2003-505211), de 12 de Setembro, estão apenas sujeitos ao pagamento de uma taxa única pela emissão do certificado de qualidade externa de plantas destinadas a arborização, no montante de (euro) 0,50 por cada 1000 plantas ou fracção.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 27,
+      "texto": "4 - A taxa referida na alínea a) do n.º 1, já inclui o custo da inspeção inicial obrigatória decorrente da inscrição no registo oficial como operador económico.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (n.º 5.º): nova redação do n.º 2.º; corpo do n.º 1 mantém-se ('1 - ...'), alíneas a) a e) com subalíneas substituem as alíneas antigas e o antigo n.º 2; os antigos n.os 3 e 4 passam a n.os 2 e 3 com novo valor (0,50): substituídas as unidades 17-27.",
+    "Alterador 1: restantes números (n.os 1.º, 3.º, 4.º, 6.º a 11.º) alteram outras portarias ou são normas próprias: ignorados.",
+    "Alterador 2 (artigo 1.º): alínea a) do n.º 1 do n.º 2.º passa a (euro) 125 (unidade 17); restantes alíneas e n.os 2 e 3 mantêm-se ('...'); aditado n.º 4, inserido após a unidade 27."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

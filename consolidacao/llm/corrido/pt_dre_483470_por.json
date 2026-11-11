@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:483470:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "No n.º 2.º, onde se lê «com uma área de 13,9070 ha.» deve ler-se «com uma área de 13907 ha.».",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retifica a própria declaração 20-AL/2001: a leitura correta do n.º 2.º passa de «13,9700 ha.» a «13907 ha.»; trocado esse valor na unidade 3 (o resto mantém-se)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
