@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Secretário de Estado da Administração Interna;",
+    "depois": "a) Secretário de Estado da Administração Interna, que coordena;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:256587:por",
+    "alterador": "pt:dre:258745:por"
+  },
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Secretário de Estado da Administração Local e Reforma Administrativa, que coordena;",
+    "depois": "d) Secretária de Estado da Administração Local e Reforma Administrativa;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:256587:por",
+    "alterador": "pt:dre:258745:por"
+  }
+]

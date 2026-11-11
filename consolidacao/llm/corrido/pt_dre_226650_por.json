@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:226650:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "1.º É alterado para 500000$00 o limite fixado no n.º 1.º da [Portaria n.º 19720](https://diariodarepublica.pt/dr/detalhe/portaria/19720-1963-193270), de 21 de Fevereiro de 1963, respeitante à soma dos valores faciais dos certificados de aforro que podem ser emitidos a favor de uma mesma pessoa.",
+      "alterador": 2
+    },
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "2.º Durante o mesmo ano económico não podem, porém, ser emitidos a favor de cada pessoa certificados de aforro cujos valores faciais ultrapassem 50000$00.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 309/70), n.os 4.º a 6.º: fixam de novo, em texto próprio, o limite anual (100000$00) e as exclusões e exceções, sem instrução expressa dirigida aos n.os 2.º a 4.º do original; não aplicado ao texto por não ser alteração textual expressa.",
+  "instrucoes": [
+    "Alt. 1, art. 6.º: alterado para 50000$00 o limite do n.º 2.º — substituído o valor na unidade 5.",
+    "Alt. 1, restantes artigos: dirigidos ao regime dos certificados de aforro ou a outros diplomas (Decreto n.º 43454) — ignorados.",
+    "Alt. 2, n.º 3.º: elevado de 300000$00 para 500000$00 o limite do n.º 1 — substituído o valor na unidade 4.",
+    "Alt. 2, n.os 1.º, 2.º: tabela de amortização do Decreto-Lei n.º 48214 — outro diploma, ignorado. N.os 4.º a 6.º: ver nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

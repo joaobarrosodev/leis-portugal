@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:300783:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 294/2005 (1.º) extingue a zona de caça municipal do Monte Palma criada pelo original e concessiona uma zona de caça associativa; não revoga nem altera o texto do original, pelo que não há mudança textual a aplicar.",
+  "instrucoes": [
+    "Alt. 1, 1.º: extinção da zona de caça criada pelo original; não é alteração textual, nada aplicado.",
+    "Alt. 1, 2.º a 4.º: concessão de nova zona de caça associativa; não dirigidos ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

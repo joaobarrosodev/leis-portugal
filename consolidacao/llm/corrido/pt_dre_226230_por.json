@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:226230:por",
+  "substituicoes": [
+    {
+      "de": 354,
+      "ate": 357,
+      "texto": "A atribuir à área semeada com cultura arvense anual [cereais para grão (excepto trigo-mole ou duro), leguminosas secas para grão (excepto feijão), girassol, colza e linho oleaginoso]:\n\nAté 50 ha - (euro) 100;\n\n50 ha-100 ha - (euro) 75;\n\n100 ha-200 ha - (euro) 50;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (Declaração de Rectificação n.º 7-I/2003): medida n.º 1.8, alínea d), onde se lê o parágrafo da cultura arvense anual e os três escalões 150/115/70 deve ler-se com vírgula em vez de ponto e vírgula e escalões 100/75/50 — substituídas as unidades 354 a 357 (o segundo bloco; o bloco do trigo-mole, unidades 350-353, não tem o texto do parágrafo e fica). Mantido o ';' final da unidade 357 do texto atual, já que o '.' do «onde se lê» é só o fecho da citação."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

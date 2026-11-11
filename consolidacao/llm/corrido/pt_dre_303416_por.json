@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:303416:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Mira, Praia de Mira e Seixo, município de Mira, com a área de 1639,9750 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alt. 2 (Portaria n.º 1033-CU/2004) renova a concessão com 1949 ha e diz no preâmbulo que a área de 1639,9750 ha foi lapso, mas não dá nova redação nem retifica o n.º 1.º; não é alteração textual.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º (1639,9750 ha); substituída a unidade 6, mantendo o número '1.º'.",
+    "Alt. 1, 1.º (2.º parágrafo): aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alt. 2, 1.º a 3.º: renovação da concessão, regime de áreas classificadas e efeitos; não textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

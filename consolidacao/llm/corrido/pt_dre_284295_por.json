@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:284295:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 e n.º 2.º do alterador 2: anexação de prédios com nova área total e planta anexa, sem instrução de nova redação do texto (alteração não textual; planta em imagem). Alterador 2, n.º 1.º: manda substituir «, por um período de seis anos, à Associação de Caçadores e Pescadores Courela dos Passarinhos», mas o texto atual do n.º 1.º diz «, pelo período de seis anos, à Associação…»; o trecho citado não existe no texto atual, pelo que não foi aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: anexa prédios (área total 1695 ha) por planta anexa; sem redação nova do texto; não aplicado.",
+    "Alterador 2, n.º 1.º: retificação 'onde se lê … deve ler-se … renovável automaticamente' no n.º 1.º; o trecho citado ('por um período') não coincide com o texto atual ('pelo período'); não aplicado.",
+    "Alterador 2, n.º 2.º: anexa prédios (área total 2031 ha) por planta anexa; não textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

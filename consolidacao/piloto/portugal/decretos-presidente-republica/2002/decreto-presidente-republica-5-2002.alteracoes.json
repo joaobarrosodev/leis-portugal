@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Assinado em 14 de Fevereiro de 2002.",
+    "depois": "Assinado em 11 de Fevereiro de 2002.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:280479:por",
+    "alterador": "pt:dre:301250:por"
+  }
+]

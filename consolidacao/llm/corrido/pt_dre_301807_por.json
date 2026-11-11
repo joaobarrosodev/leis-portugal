@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:301807:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 434/2005 anexa um prédio à zona de caça (área total 988 ha, nova planta) sem dar nova redação a nenhum ponto do original; a Portaria n.º 766/2006 extingue a zona de caça e concessiona outra associativa. Nenhuma das instruções é alteração textual do original.",
+  "instrucoes": [
+    "Alt. 1, 1.º a 3.º: anexação da Herdade das Freiras e sinalização; sem nova redação do texto, nada aplicado.",
+    "Alt. 2, 1.º: extinção da zona de caça municipal; não é alteração textual, nada aplicado.",
+    "Alt. 2, 2.º a 4.º: concessão de zona de caça associativa; não dirigidos ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

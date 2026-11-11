@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:218716:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "c) Ensino da Língua e da Literatura Portuguesas;",
+      "alterador": 1
+    },
+    {
+      "de": 120,
+      "ate": 146,
+      "texto": "## ANEXO III — Mestrado em Educação na área de especialização em Ensino da Língua e da Literatura Portuguesas\n\n1 - Área científica do curso: Educação.\n\n2 - Duração normal do curso: três semestres lectivos.\n\n3 - Número total de unidades de crédito necessárias à conclusão do curso: 24.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Obrigatórias:\n\nI - Estudos Linguísticos ... 8\n\nII - Estudos Literários ... 6\n\nIII - Metodologias de Ensino ... 4\n\n4.2 - Conjunto das optativas:\n\nI - Educação ... 6\n\nII - Linguística ... 6\n\nIII - Literatura ... 6\n\nIV - Cultura ... 6\n\nV - Informática ... 6\n\n5 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Em Ensino que incluam a componente de Português;\n\nb) Línguas e Literaturas Modernas que incluam a componente de Português;\n\nc) Filologia Românica;\n\nd) Línguas e Literaturas Clássicas que incluam a componente de Português;\n\ne) Humanidades da Universidade Católica Portuguesa.\n\n6 - Especialidades a que se refere o n.º 11.º: Metodologia do Ensino do Português.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, n.º 1.º, 2, a): nova redação da alínea c) do n.º 1.º — substituída a unidade 11.",
+    "Alt. 1, n.º 1.º, 2, b): anexo III passa a ter a redação do anexo — substituídas as unidades 120 a 146 (título e conteúdo do anexo III).",
+    "Alt. 1, n.º 1.º, 1 (mudança de designação) concretiza-se pelas duas alterações acima; n.º 2.º (regime de transição) não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

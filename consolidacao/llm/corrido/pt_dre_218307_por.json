@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:218307:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de São Bartolomeu de Messines, município de Silves, com uma área de 3350 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: a nova planta anexa só vem em imagem; alterador 2 (Portaria n.º 942/2006): extinção da zona de caça e anexação de prédios a outra zona, sem alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º (área de 3350 ha): unidade 7 substituída.",
+    "Alterador 1, 2.º: substituição da planta anexa (imagem): não aplicado.",
+    "Alterador 2, 1.º a 3.º: extinção da zona de caça municipal dos Estevais e anexação de prédios à zona de Vale Fontes: não aplicado (não textual)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

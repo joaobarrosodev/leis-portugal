@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:259424:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "4 - Determinar que os encargos referidos nos n.os 2 e 3 são suportados por verbas adequadas inscritas e a inscrever no orçamento da FCT, I. P., com exceção dos encargos referentes às quotizações de Portugal para a Agência Espacial Europeia (ESA) relativas ao ano de 2014, que são suportados da seguinte forma:\n\na) 9 694 000 EUR (nove milhões, seiscentos e noventa e quatro mil euros), por verbas adequadas inscritas no orçamento da FCT, I. P.;\n\nb) 6 000 000 EUR (seis milhões de euros) a transferir para a ESA, por conta do resultado líquido do ICP - Autoridade Nacional de Comunicações (ICP-ANACOM) a reverter para o Estado, relativo ao ano de 2013.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 4 (unidade 11), com proémio e alíneas a) e b) novas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

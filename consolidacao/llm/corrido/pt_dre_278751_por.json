@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:278751:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 309/2003 (alterador 2), n.º 10.º, alínea b), revoga por inteiro a Portaria n.º 149/2002; a alteração anterior do n.º 2.º pela Portaria n.º 1279/2002 fica sem efeito no texto.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º (100 novos alunos, 500 alunos); não devolvida porque o diploma é depois revogado por inteiro.",
+    "Alterador 2, n.º 10.º, b): revogação total da Portaria n.º 149/2002; nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

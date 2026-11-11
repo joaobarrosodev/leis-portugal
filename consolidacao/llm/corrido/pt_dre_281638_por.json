@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:281638:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 81,
+      "texto": "§ único. Sob proposta do governador-geral de Moçambique, simultânea ou posterior à da criação de qualquer brigada, poderá o Ministro do Ultramar determinar, por despacho, que as despesas decorrentes do seu funcionamento sejam imputadas a outra rubrica do II Plano de Fomento, quando a haja especificamente consignada à finalidade própria da brigada em referência.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 adita um § único ao n.º 10.º: inserido a seguir à unidade 81."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

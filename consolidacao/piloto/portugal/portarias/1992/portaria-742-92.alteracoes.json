@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Leite fermentado - o produto coagulado obtido por fermentação devido à acção de microrganismos específicos sobre o leite e produtos lácteos indicados no n.º 1 do n.º 6.º e com ou sem os produtos indicados no n.º 7.º, devendo a flora estar viva e abundante no produto final.",
+    "depois": "c) Leite fermentado - o produto coagulado obtido por fermentação devido à acção de microrganismos específicos sobre o leite e produtos lácteos indicados no n.º 1 do n.º 6.º e com ou sem os produtos indicados no n.º 7.º.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:292747:por",
+    "alterador": "pt:dre:527384:por"
+  },
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Leite fermentado aromatizado - o produto coagulado obtido por fermentação devido à acção de microrganismos específicas sobre o leite e produtos lácteos indicados no n.º 1 do n.º 6.º, com adição de produtos indicados no n.º 2 desse número e no n.º 8.º e com ou sem os ingredientes indicados no n.º 7.º, não podendo a parte láctea ser inferior a 75% (m/m) do produto final, no qual a flora deve estar viva e ser abundante.",
+    "depois": "d) Leite fermentado aromatizado - o produto coagulado obtido por fermentação devido à acção de microrganismos específicas sobre o leite e produtos lácteos indicados no n.º 1 do n.º 6.º, com adição de produtos indicados no n.º 2 desse número e no n.º 8.º e com ou sem os ingredientes indicados no n.º 7.º, não podendo a parte láctea ser inferior a 75% (m/m) do produto final.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:292747:por",
+    "alterador": "pt:dre:527384:por"
+  },
+  {
+    "artigo": "unidades 91-93",
+    "operacao": "remover",
+    "regra": "llm",
+    "antes": "b) A lista dos ingredientes, por ordem decrescente da proporção ponderal no momento da sua incorporação, precedida da palavra «ingredientes», sendo obrigatório declarar o teor de todos os ingredientes que sejam conservados quimicamente, bem como dos microrganismos específicos presentes;\n\nc) A data limite do consumo indicada pela expressão «consumir até ...», com a indicação do dia e do mês, não podendo o prazo de validade ultrapassar 24 dias;\n\nd) A quantidade líquida, expressa em gramas, se o iogurte, o iogurte aromatizado, o leite fermentado e o leite fermentado aromatizado forem sólidos ou batidos, e em centilitros, se forem líquidos;",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:292747:por",
+    "alterador": "pt:dre:527384:por"
+  },
+  {
+    "artigo": "unidades 108-108",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - É permitida a comercialização de iogurtes e leites fermentados legalmente produzidos e comercializados num Estado membro da Comunidade com especificações técnicas diferentes das previstas no presente diploma, desde que assegurem um nível de protecção das exigências essenciais relativas à saúde equivalentes e apresentem flora específica viva e abundante no produto final.",
+    "depois": "1 - É permitida a comercialização de iogurtes e leites fermentados legalmente produzidos e comercializados num Estado membro da União Europeia com especificações técnicas diferentes das previstas no presente diploma desde que assegurem um nível de protecção das exigências essenciais relativas à saúde equivalentes e apresentem ainda, quanto aos iogurtes, flora específica viva e abundante no produto final.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:292747:por",
+    "alterador": "pt:dre:527384:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Para as cebolas, alhos, limões, uvas de mesa, pêssegos, laranjas e peras, a partir da data da publicação do presente despacho normativo e impreterivelmente até às 17 horas e 30 minutos do décimo dia útil a contar do dia da publicação do presente despacho normativo;\n\nb) Para a couve-flor, tomates e tangerinas, incluindo satsumas, durante os primeiros dez dias úteis do mês anterior ao início do período respectivo.",
+    "depois": "a) Para as cebolas, alhos, limões, uvas de mesa e pêssegos, nos prazos estabelecidos na alínea b) do n.º 4 do [Despacho Normativo n.º 31/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-1987-666499), de 17 de Março, publicado no Diário da República, 1.ª série, n.º 71, de 26 do mesmo mês;\n\nb) Para as laranjas e peras, a partir da data da publicação do presente despacho normativo e impreterivelmente até às 17 horas e 30 minutos do décimo dia útil a contar do dia da publicação deste despacho normativo;\n\nc) Para a couve-flor, tomates e tangerinas, incluindo satsumas, durante os primeiros dez dias úteis do mês anterior ao início do período respectivo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:259913:por",
+    "alterador": "pt:dre:496106:por"
+  }
+]

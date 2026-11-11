@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 21-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º Na embalagem de todas as margarinas deve constar, de forma bem legível e facilmente visível pelo consumidor, a data de fabrico, não podendo a sua comercialização exceder o prazo de cem dias sobre aquela data.\n\n8.º Quando for ultrapassado o prazo de validade da margarina, fica o fabricante obrigado a receber o produto por 50% do seu valor de custo.",
+    "depois": "7.º - (Revogado.)\n\n8.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:275669:por",
+    "alterador": "pt:dre:326324:por"
+  }
+]

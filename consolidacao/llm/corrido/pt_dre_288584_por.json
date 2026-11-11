@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:288584:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante na planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia e município de Mira, com a área de 1880,1906 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (renovação da concessão por 12 anos, área de 1940 ha, condição sobre área classificada) e alterador 3 (anexação de prédios, área total de 4131 ha) são disposições autónomas sem nova redação de unidades do original; a correção de áreas aparece só no preâmbulo.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º — substituída a unidade 6.",
+    "Alt. 1, 1.º (2.º parágrafo): adita n.º 1-A — inserido depois da unidade 6.",
+    "Alt. 2: renovação da concessão — não textual, não aplicado.",
+    "Alt. 3: anexação de prédios — não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

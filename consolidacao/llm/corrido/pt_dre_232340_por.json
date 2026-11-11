@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:232340:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 302/95: o novo plano de estudos (anexo) só vem em imagem e o anexo do original também é imagem (unidade 30); não aplicado. Portaria n.º 733/2005, 5.º, alínea b): revoga a portaria na parte em que autorizou a conferir o grau de bacharel em Engenharia Mecânica de Transportes, o que corresponde a todo o seu objecto, mas só findo o processo de transição; não aplicado ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui o plano de estudos pelo anexo em imagem; não aplicado.",
+    "Alterador 2, 1.º a 4.º e 6.º: aprovam planos de outro curso; não dirigidos ao original. 5.º b): revogação do original, condicionada ao fim da transição; nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

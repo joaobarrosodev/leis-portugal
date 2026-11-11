@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:288211:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, à Associação de Caçadores do Monte da Oliveira, com o número de pessoa colectiva 505274132 e sede no cruzamento de São Marcos da Serra, Silves, a zona de caça associativa do Monte Branco (processo n.º 2754-DGF), englobando vários prédios rústicos sitos na freguesia de São Marcos da Serra, município de Silves, com a área de 418 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza até ao máximo de 10 % da área total da zona de caça.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 3/2008): anexação de prédios (área total 1335 ha, planta em imagem), condição sobre áreas classificadas e eficácia da anexação são disposições autónomas, não alteram o texto do original.",
+  "instrucoes": [
+    "Alt. 1, 1.º: no n.º 1.º troca 'seis anos, renovável automaticamente por um único e igual período' por '12 anos' — substituída a unidade 6.",
+    "Alt. 1, 2.º: adita n.º 1.º-A — inserido depois da unidade 6.",
+    "Alt. 2: anexação de prédios e regras próprias, sem alteração textual — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

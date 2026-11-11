@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 52-52",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Não será autorizada a combinação de grupos de participantes num voo de inscrição antecipada com grupos pertencentes a voos de outras categorias.",
+    "depois": "b) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:288452:por",
+    "alterador": "pt:dre:140514:por"
+  }
+]

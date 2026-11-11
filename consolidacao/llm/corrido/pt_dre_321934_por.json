@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:321934:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1, 1.º: nova redação do quadro n.º 6 do anexo; o quadro só vem em imagem (no original os quadros 1 a 6 estão numa só imagem); não aplicado.",
+  "instrucoes": [
+    "Alt. 1, 1.º: substituição do quadro n.º 6 do anexo — não aplicada, quadro só em imagem.",
+    "Alt. 1, 2.º e 3.º: normas próprias do alterador, não alteram o original.",
+    "Alt. 2: altera o n.º 3.º da Portaria n.º 1314/2003, não o original — ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

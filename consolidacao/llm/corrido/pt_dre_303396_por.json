@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:303396:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Vilar Torpim, município de Figueira de Castelo Rodrigo, com a área de 1340,10 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alt. 2 (Portaria n.º 636/2004) renova a concessão com 1333 ha e Alt. 3 (Portaria n.º 1003/2006) desanexa prédios (área total 1284 ha), sem dar nova redação a nenhum ponto do original; não são alterações textuais.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º (1340,10 ha); substituída a unidade 6, mantendo o número '1.º'.",
+    "Alt. 1, 1.º (2.º parágrafo): aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alt. 2, 1.º e 2.º: renovação da concessão; não textual, nada aplicado.",
+    "Alt. 3: desanexação de prédios; não textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

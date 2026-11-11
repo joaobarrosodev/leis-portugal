@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A Direcção-Geral das Alfândegas providenciará no sentido de estarem concluídos, no final do ano de 1977, os cursos de formação adequados a esta especialização.",
+    "depois": "A Direcção-Geral das Alfândegas providenciará no sentido de estarem concluídos, no final do ano de 1978, os cursos de formação adequados a esta especialização.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:212219:por",
+    "alterador": "pt:dre:280250:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 36-36",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "14 - O primeiro-oficial e o escriturário-dactilógrafo providos no quadro da agora extinta Escola Secundária de Aldeia do Souto transita, independentemente de quaisquer formalidades legais, salvo visto do Tribunal de Contas, para idênticos lugares do quadro da Escola Secundária de Campos Melo, na Covilhã.",
+    "depois": "14 - O primeiro-oficial e o escriturário-dactilógrafo providos no quadro da Escola Secundária de Aldeia do Souto aquando da sua extinção por este diploma transitam, independentemente de quaisquer formalidades legais, salvo anotação do Tribunal de Contas, para idênticos lugares do quadro da Escola Secundária de Campos Melo, na Covilhã, com efeitos a partir de 1 de Outubro de 1978.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:329020:por",
+    "alterador": "pt:dre:473711:por"
+  }
+]

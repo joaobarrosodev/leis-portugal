@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:230719:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O anexo I só existe em imagem: a nova redacção da parte relativa à FCT da Universidade Nova de Lisboa e às Faculdades de Belas-Artes e de Engenharia da Universidade do Porto (Portaria n.º 743/2006, anexo em imagem) e o aditamento do curso de Matemática e Ciências da Computação na Universidade de Évora (Portaria n.º 757/2006) não se podem aplicar ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: altera parte do anexo I (imagem); não aplicado.",
+    "Alterador 2, 1.º: adita um curso ao anexo I (imagem); não aplicado. 3.º altera a Portaria n.º 714-B/2006; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:276391:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Pombal, com a área de 1200,6250 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 (renovação com 1178 ha), 3 (anexação de 1399 ha, área total de 2577 ha) e 4 (desanexação de 640 ha, área total de 1937 ha, e concessão de outra zona de caça) não dão nova redação a nenhum ponto do original e as plantas só vêm em imagem; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 1.º (1200,6250 ha); aplicado na unidade 6.",
+    "Alterador 1, n.º 1.º: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 2: renovação da concessão; sem alteração textual, não aplicado.",
+    "Alterador 3: anexação de prédios; sem alteração textual, não aplicado.",
+    "Alterador 4: desanexação de prédios e concessão de outra zona; sem alteração textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

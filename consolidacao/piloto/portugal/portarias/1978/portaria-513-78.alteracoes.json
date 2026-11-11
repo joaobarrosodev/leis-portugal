@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 36-37",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Os adidos integrados no quadro paralelo serão, porém, considerados concorrentes obrigatórios em todos os concursos da respectiva categoria.\n\n3 - Nos concursos de provimento de lugares de escriturário-dactilógrafo é reconhecida preferência legal aos funcionários do quadro paralelo apenas sobre candidatos que não façam parte dos quadros dos serviços dos registos e do notariado ou não sejam nestes assalariados à data da publicação da presente portaria.",
+    "depois": "2 - Os agentes integrados no quadro paralelo têm acesso aos mesmos concursos que os funcionários dos quadros privativos dos cartórios e conservatórias, dos quais passarão a ser opositores obrigatórios dois anos após a publicação da presente portaria.\n\n3 - Nos concursos a que se refere o número anterior, os funcionários dos quadros privativos dos cartórios e conservatórias têm preferência sobre os agentes integrados no quadro paralelo, gozando de igual preferência os assalariados existentes à data da publicação da presente portaria quanto aos concursos para provimento de lugares de escriturário-dactilógrafo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:329850:por",
+    "alterador": "pt:dre:324520:por"
+  }
+]

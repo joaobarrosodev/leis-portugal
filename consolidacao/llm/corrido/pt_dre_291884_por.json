@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:291884:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria n.º 11/2003) e 2 (Portaria n.º 750/2005) substituem o anexo (plano de estudos) por quadros que só vêm em imagem; a alteração da duração do 2.º ciclo (alterador 1) e a mudança de denominação do curso (alterador 2) não são instruções textuais dirigidas ao texto do original.",
+  "instrucoes": [
+    "Alterador 1: duração do 2.º ciclo passa a dois semestres, sem instrução textual; não aplicada.",
+    "Alterador 1: novo anexo com quadros em imagem; não aplicado.",
+    "Alterador 2: denominação do curso passa a Gestão e Negócios Internacionais, sem instrução textual; não aplicada.",
+    "Alterador 2: novo anexo com quadros em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

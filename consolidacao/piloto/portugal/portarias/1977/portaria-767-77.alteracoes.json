@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º No mapa anteriormente citado é eliminada a alínea b).",
+    "depois": "2.º O estabelecido na alínea b) do mapa anteriormente citado não é aplicável aos oficiais abrangidos pelo disposto no n.º 1.º da presente portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:280240:por",
+    "alterador": "pt:dre:647324:por"
+  }
+]

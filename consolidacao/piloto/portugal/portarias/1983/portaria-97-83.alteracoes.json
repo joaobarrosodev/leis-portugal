@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "depois da unidade 12",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "e) Direito das Comunidades Europeias.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:308538:por",
+    "alterador": "pt:dre:665897:por;pt:dre:177658:por"
+  },
+  {
+    "artigo": "depois da unidade 74",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "Filosofia do Direito;\n\nDireito Penal;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:308538:por",
+    "alterador": "pt:dre:665897:por;pt:dre:177658:por"
+  },
+  {
+    "artigo": "unidades 77-77",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Nota. - Para os efeitos do n.º 2 do n.º 5.º o aluno optará entre Direito Comercial e Direito Processual.",
+    "depois": "Nota. - O conselho científico oferecerá em cada ano Direito Civil e pelo menos mais duas das restantes disciplinas. O aluno cursará necessariamente Direito Civil e deverá optar, para os efeitos do n.º 2 do n.º 5.º, por outra das disciplinas em causa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:308538:por",
+    "alterador": "pt:dre:665897:por;pt:dre:177658:por"
+  },
+  {
+    "artigo": "depois da unidade 77",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "e) Área de especialização em Direito das Comunidades Europeias:\n\nDireito Institucional Comunitário;\n\nDireito Económico Comunitário;\n\nIntegração Económica.\n\nNota. - Para os efeitos do n.º 2 do n.º 5.º, o aluno escolherá duas das três áreas científicas indicadas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:308538:por",
+    "alterador": "pt:dre:665897:por;pt:dre:177658:por"
+  }
+]

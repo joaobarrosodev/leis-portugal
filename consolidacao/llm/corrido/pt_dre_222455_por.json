@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:222455:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 18,
+      "texto": "1.º-A\n\nCurso de Educadores de Infância\n\n1 - O curso de Educadores de Infância poderá ser ministrado em Faro e em Vila Real de Santo António.\n\n2 - À transferência de alunos entre as duas localidades onde a Escola Superior de Educação poderá ministrar o curso aplicam-se, com as necessárias adaptações, as regras do regime de transferência.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1073/90): os quadros dos anexos I, IV, V e VI passam a ter a redação dos anexos, que só vêm em imagem (ver documento original); os anexos do original também só existem em imagem.",
+  "instrucoes": [
+    "Alt. 1, n.º 1.º: substituição dos quadros dos anexos I, IV, V e VI — só em imagem, não aplicada.",
+    "Alt. 2, n.º 1.º: aditado o n.º 1.º-A — inserido a seguir à unidade 18 (fim do n.º 1.º).",
+    "Alt. 2, n.º 2.º: aditamento à Portaria n.º 1117/90 — outro diploma, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 6",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "5 - O pessoal com as condições exigidas pelo n.º 2 poderá antecipadamente ser submetido, desde que o requeira, à avaliação curricular prevista nesse mesmo número, se se encontrar nas seguintes situações:\n\na) De ser aposentado, por imposição do limite de idade, em data anterior à da concretização do concurso previsto no referido n.º 2;\n\nb) Se tiver requerido a sua aposentação, com base em incapacidade física, em data anterior à da concretização do mesmo referido concurso, com a condição, neste caso, de o provimento resultante dessa avaliação ser anulado se a entidade legalmente competente não conceder a aposentação requerida.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:329443:por",
+    "alterador": "pt:dre:383397:por"
+  }
+]

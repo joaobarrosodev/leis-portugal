@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 29-29",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "9.º O pagamento da manteiga é efectuado no prazo de 60 dias a contar da data da entrega do produto ao organismo de intervenção.",
+    "depois": "9.º O pagamento da manteiga é efectuado pelo organismo de intervenção entre os 90 e os 120 dias seguintes à data da entrega do produto no entreposto frigorífico.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:228259:por",
+    "alterador": "pt:dre:345293:por"
+  },
+  {
+    "artigo": "unidades 63-63",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "24.º O pagamento do leite em pó é efectuado num prazo de 60 dias a contar da data da entrega do produto ao organismo de intervenção.",
+    "depois": "24.º O pagamento do leite em pó é efectuado pelo organismo de intervenção entre os 90 e os 120 dias seguintes à data da entrega do produto no armazém.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:228259:por",
+    "alterador": "pt:dre:345293:por"
+  },
+  {
+    "artigo": "depois da unidade 75",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "31.º O Governo, nos despachos referidos nos n.os 7.º e 22.º desta portaria, poderá prever ainda outras condições de aplicação do regime de intervenção que visem suspender a aceitação de pedidos de compra ao organismo de intervenção, designadamente quando forem ultrapassados os limites quantitativos fixados para a compra por aquele organismo de intervenção, sem que, no mercado, os preços tenham descido em correspondência com o excesso de produção verificado.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:228259:por",
+    "alterador": "pt:dre:345293:por"
+  }
+]

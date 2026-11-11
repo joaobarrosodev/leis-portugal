@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 72-72",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4) Tirocínios e estágios de adaptação às funções próprias das diferentes especialidades, onde se inclui, para os mecânicos de material terrestre, a condução de viaturas automóveis militares.",
+    "depois": "4) Tirocínios e estágios de adaptação às funções próprias das diferentes especialidades, onde se inclui, para os mecânicos de material terrestre, a condução de viaturas automóveis militares e a operação e manutenção do material dos serviços de incêndios.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:311417:por",
+    "alterador": "pt:dre:507462:por"
+  }
+]

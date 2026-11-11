@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:239988:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 28,
+      "texto": "5.º-A\n\nDuração\n\nO curso de especialização tem a duração de dois semestres lectivos.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o novo anexo (plano de estudos) só vem como quadro em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui o anexo; o quadro só existe em imagem, ficou em nao_aplicavel.",
+    "Alterador 1, n.º 2.º: adita o n.º 5.º-A; inserido a seguir ao n.º 5.º (unidade 28).",
+    "Alterador 1, n.os 3.º e 4.º: transição e aplicação, sem texto a mudar no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

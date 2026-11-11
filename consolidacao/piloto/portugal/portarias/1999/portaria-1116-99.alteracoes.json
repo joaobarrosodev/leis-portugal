@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 25-31",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso de Engenharia Civil\n\nOpção de Estruturas e Construção\n\nGrau de bacharel - 1.º ciclo\n\n[(ver quadros n.os 1 a 3 no documento original)](https://files.diariodarepublica.pt/1s/1999/12/300b00/92979300.pdf)\n\nRamo de Estruturas e Construção\n\nGrau de licenciado - 2.º ciclo\n\n[(ver quadros n.os 4 e 5 no documento original)](https://files.diariodarepublica.pt/1s/1999/12/300b00/92979300.pdf)",
+    "depois": "Instituto Superior Autónomo de Estudos Politécnicos\n\nCurso de Engenharia Civil\n\nGrau de bacharel - 1.º ciclo\n\nQUADRO N.º 1\n\n1.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/188b00/51705173.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/188b00/51705173.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/188b00/51705173.pdf)\n\nGrau de licenciado - 2.º ciclo\n\nQUADRO N.º 4\n\n1.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/188b00/51705173.pdf)\n\nQUADRO N.º 5\n\n2.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/188b00/51705173.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:291886:por",
+    "alterador": "pt:dre:512625:por"
+  }
+]

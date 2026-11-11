@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 354-357",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A atribuir à área semeada com cultura arvense anual [cereais para grão (excepto trigo-mole ou duro); leguminosas secas para grão (excepto feijão), girassol, colza e linho oleaginoso]:\n\nAté 50 ha - (euro) 150;\n\n50 ha-100 ha - (euro) 115;\n\n100 ha-200 ha - (euro) 70;",
+    "depois": "A atribuir à área semeada com cultura arvense anual [cereais para grão (excepto trigo-mole ou duro), leguminosas secas para grão (excepto feijão), girassol, colza e linho oleaginoso]:\n\nAté 50 ha - (euro) 100;\n\n50 ha-100 ha - (euro) 75;\n\n100 ha-200 ha - (euro) 50;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226230:por",
+    "alterador": "pt:dre:487944:por"
+  }
+]

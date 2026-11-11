@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:300228:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: substitui no anexo II o curso de bacharelato em Comunicação Social da Escola Superior de Jornalismo pelo curso bietápico de licenciatura, com 100 vagas; o anexo II só vem em imagem, por isso não se pode aplicar ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alteração do quadro do anexo II (curso e vagas); anexo em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

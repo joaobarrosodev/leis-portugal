@@ -1,0 +1,60 @@
+{
+  "id": "pt:dre:227050:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "c) Âmbito do crédito bonificável - o montante determinado pelo valor das facturas definitivas posteriores à data do requerimento, respeitado o definido no n.º 3 do artigo 12.º do [Decreto-Lei n.º 132/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1983-310440), cujos recibos não datem de mais de 180 dias além do termo de utilização do crédito, excepto para requerimentos anteriores a 15 de Outubro de 1980, em que poderão ser integradas facturas definitivas posteriores a 2 de Maio de 1980. Como seu limite é definido o crédito aprovado à data da formalização da candidatura e constante da informação prestada pela instituição de crédito nessa data;",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 22,
+      "texto": "3.º Compete ao promotor do investimento fornecer à entidade a quem tenha sido apresentado o processo de candidatura ao SIII, no prazo de 180 dias, contados a partir do termo da realização do investimento, ou da entrada em vigor da presente portaria, se já ultrapassado aquele prazo, os seguintes elementos:\n\na) Comprovantes da realização do investimento em activo fixo;\n\nb) Mapa discriminativo do equipamento integrado no investimento de acordo com o modelo referido no anexo III;\n\nc) Mapas modelos n.os 1, 2 e 3 constantes do anexo I;\n\nd) Balancete do Razão geral correspondente aos meses imediatamente anterior e posterior à realização do investimento.",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "b) Enviar ao Departamento Central de Planeamento os elementos referidos no n.º 3.º, alíneas b), c) e d), acompanhados do seu parecer e dos elementos sobre a operação de financiamento contratada de acordo com o anexo IV no prazo de 90 dias após a recepção global dos mesmos.",
+      "alterador": 1
+    },
+    {
+      "de": 32,
+      "ate": 34,
+      "texto": "a) Declaração modelo n.º 2 e anexos A e B à mesma declaração, no caso de se tratar de empresa do grupo A da contribuição industrial, referente ao ano de laboração normal. Declaração modelo n.º 3-A e anexo B, referida igualmente ao ano de laboração normal;\n\nb) Mapa modelo n.º 1 constante do anexo II à presente portaria;\n\nc) Mapa(s) modelos n.os 6, 7, 7-A, 7-B e 7-C das amortizações e reintegrações correspondente(s) ao(s) ano(s) em que o investimento foi realizado, bem como os do ano anterior ao início do investimento e do ano de laboração normal;\n\nd) Documentos comprovativos de que se encontra regularizada a situação para com o Estado e a Previdência.",
+      "alterador": 1
+    },
+    {
+      "de": 35,
+      "ate": 36,
+      "texto": "10.º Os elementos descritos no n.º 9.º, devidamente autenticados nos termos do n.º 4.º pelo promotor do investimento, deverão ser apresentados até ao final do 1.º semestre do ano imediatamente posterior ao de laboração normal.\n\nSendo o ano de laboração normal anterior à entrada em vigor da presente portaria, deverão os mesmos elementos ser entregues no prazo de 180 dias posteriores à data da sua publicação, adoptando-se o tratamento indicado nos números seguintes.",
+      "alterador": 1
+    },
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "d) Remeter, no prazo de 90 dia contados a partir da recepção dos elementos, ao Departamento Central de Planeamento a documentação descrita nas alíneas anteriores.",
+      "alterador": 1
+    },
+    {
+      "de": 54,
+      "ate": 54,
+      "texto": "17.º No decurso da apreciação dos processos no âmbito desta portaria, as entidades intervenientes poderão solicitar ao promotor do investimento os esclarecimentos ou meios de prova que se revelem necessários à mesma, ainda que não previstos expressamente neste diploma, os quais deverão ser apresentados no prazo máximo de 30 dias, findo o qual será emitida proposta de caducidade na sua falta.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, n.º 1.º: alínea c) do n.º 2.º da Portaria n.º 229/86 — outro diploma, ignorado.",
+    "Alt. 1, n.º 2.º: nova redação da alínea c) do n.º 2.º — substituída a unidade 14.",
+    "Alt. 1, n.º 3.º: novas redações do n.º 3.º (unidades 17-22, alínea e) desaparece), da alínea b) do n.º 7.º (unidade 28), do n.º 9.º (corpo igual; alíneas a)-c) substituídas e aditada d), unidades 32-34) e do n.º 10.º (unidades 35-36).",
+    "Alt. 1, n.º 4.º: só para a Portaria n.º 229/86 — ignorado.",
+    "Alt. 1, n.º 5.º: nova redação da alínea d) do n.º 12.º (unidade 42) e do n.º 17.º (unidade 54).",
+    "Alt. 1, n.º 6.º (aplicação): não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

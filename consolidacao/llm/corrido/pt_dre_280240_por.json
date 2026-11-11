@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:280240:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "2.º O estabelecido na alínea b) do mapa anteriormente citado não é aplicável aos oficiais abrangidos pelo disposto no n.º 1.º da presente portaria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º; unidade 6 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

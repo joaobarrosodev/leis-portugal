@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:321371:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1, 1.º: nova redação do anexo, e alt. 2, 1.º: nova redação dos quadros n.os 1 e 2 (do anexo da Portaria n.º 22/2002, que é o anexo do original); os quadros só vêm em imagem no documento original; não aplicado.",
+  "instrucoes": [
+    "Alt. 1, 1.º: substituição do anexo — não aplicada, quadros só em imagem.",
+    "Alt. 1, 2.º a 4.º: normas próprias do alterador, não alteram o original.",
+    "Alt. 2, 1.º: substituição dos quadros n.os 1 e 2 — não aplicada, quadros só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

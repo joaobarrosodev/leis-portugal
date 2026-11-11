@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:283169:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 (Portaria n.º 252/2005) vem sem texto no pedido: não há instrução que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1: texto vazio no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

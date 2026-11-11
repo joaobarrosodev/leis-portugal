@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:223579:por",
+  "substituicoes": [
+    {
+      "de": 19,
+      "ate": 19,
+      "texto": "d) Enfermeiros provenientes da área de prestação directa de cuidados de estabelecimentos de saúde pertencentes a outros Ministérios - 10%;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, n.º 1.º: nova redação do n.º 3.º em que só muda a alínea d) do n.º 1 (o resto é [...] / ...) — substituída a unidade 19.",
+    "Alt. 1, n.º 2.º (entrada em vigor): não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

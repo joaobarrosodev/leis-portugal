@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:287988:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1291/2008): anexação de prédios com nova área total (916 ha) por planta anexa, sem nova redação do texto (alteração não textual).",
+  "instrucoes": [
+    "Alterador 1: anexa prédios à zona de caça (área total 916 ha) por planta; não textual; não aplicado.",
+    "Alterador 2 (Portaria n.º 1278/2009): dirige-se a outra Portaria n.º 476/2002 (2.ª série, de 12 de Março de 2002, Conselho Cinegético Municipal de Celorico de Basto), não ao original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "pt:dre:309548:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "As área científicas e as unidades de crédito necessárias à conclusão do curso distribuem-se da seguinte forma:",
+      "alterador": 2
+    },
+    {
+      "de": 19,
+      "ate": 22,
+      "texto": "I) Microeconomia ... 3\n\nII) Macroeconomia ... 3\n\nIII) Métodos Quantitativos ... 3",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 27,
+      "texto": "I) Economia Industrial e da Empresa ... 12\n\nII) Economia Regional e do Desenvolvimento ... 12\n\nIII) Economia e Finanças Internacionais ... 12\n\nIV) Política Económica ... 12\n\nV) Métodos Quantitativos Aplicados à Economia ... 12\n\nVI) Teoria Económica ... 12",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "Total ... 21",
+      "alterador": 2
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "A duração da parte escolar do curso é de dois semestres lectivos.",
+      "alterador": 1
+    },
+    {
+      "de": 54,
+      "ate": 58,
+      "texto": "Limitações quantitativas\n\n1 - A matrícula e inscrição no curso está sujeita a limitações quantitativas a fixar anualmente por despacho do reitor da Universidade do Porto, ao abrigo do disposto na alínea e) do artigo 2.º do [Decreto-Lei n.º 323/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032), de 9 de Outubro, sob proposta do conselho científico da Faculdade de Economia.\n\n2 - O curso não poderá funcionar com um número de inscrições inferior a vinte.\n\n3 - O despacho a que se refere o n.º 1 estabelecerá ainda:\n\na) Qual a percentagem das vagas que será reservada prioritariamente a docentes de estabelecimentos de ensino superior;\n\nb) Qual a percentagem das vagas que será reservada prioritariamente a candidatos que não sejam docentes de estabelecimentos de ensino superior, a qual não poderá ser inferior a 50%;\n\nc) Qual o número mínimo de inscrições indispensáveis ao funcionamento do curso, se mais elevado que o referido no n.º 2.\n\n4 - O despacho a que se refere o n.º 1 deverá ser publicado na 2.ª série do Diário da República antes do início do prazo de candidatura.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º-1: nova redação do n.º 4.º; substituídas as obrigatórias (unidades 19-22, IV eliminada) e as optativas (24-27); epígrafe e corpo iguais.",
+    "Alterador 1, 1.º-2: nova redação do n.º 5.º; substituído o corpo (unidade 31).",
+    "Alterador 1, 1.º-3: nova redação do n.º 10.º; substituídas a epígrafe e os números (unidades 54-58).",
+    "Alterador 1, 2.º: regime de transição; norma própria, sem alteração textual.",
+    "Alterador 2: nova redação do n.º 4.º; difere da do alterador 1 só no corpo ('As área científicas', unidade 17) e no total (21, unidade 28)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

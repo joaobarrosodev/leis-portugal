@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:252799:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 730/79) substitui o quadro do pessoal da Direcção-Geral das Alfândegas (mapa anexo, unidades 29 a 31) pelo quadro anexo à portaria, que só existe em imagem (ver documento original); não aplicado.",
+  "instrucoes": [
+    "Alterador 1: substituição do quadro de pessoal anexo pelo quadro anexo à Portaria n.º 730/79; o novo quadro só vem em imagem, por isso não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

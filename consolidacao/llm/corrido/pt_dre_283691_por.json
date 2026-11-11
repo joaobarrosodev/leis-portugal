@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:283691:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 (Portaria n.º 423/95) e 2 (Portaria n.º 1202/95) alteram o mapa anexo (quadro de pessoal), que só existe em imagem no original e nos alteradores; não há texto a mudar.",
+  "instrucoes": [
+    "Alterador 1: altera o mapa anexo na parte do pessoal técnico superior (mapa em imagem); não aplicado.",
+    "Alterador 2: adita um lugar da carreira técnica superior ao mapa anexo (mapa em imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

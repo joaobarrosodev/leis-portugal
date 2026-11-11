@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 30-30",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "11. Os postos dos chefes e assistentes dos serviços médicos do Hospital da Marinha e o número de assistentes que pertence a cada serviço serão os fixados na lotação do Hospital da Marinha.",
+    "depois": "11. Os postos dos chefes e assistentes dos serviços médicos do Hospital da Marinha serão os compatíveis com a respectiva lotação. O número de assistentes que pertence a cada serviço e respectivas especializações serão fixados por despacho ministerial.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:217286:por",
+    "alterador": "pt:dre:228657:por"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 46-46",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)",
+    "depois": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223b00/63026304.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300449:por",
+    "alterador": "pt:dre:491940:por"
+  },
+  {
+    "artigo": "unidades 49-49",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)",
+    "depois": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223b00/63026304.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300449:por",
+    "alterador": "pt:dre:491940:por"
+  },
+  {
+    "artigo": "unidades 52-52",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)",
+    "depois": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223b00/63026304.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300449:por",
+    "alterador": "pt:dre:491940:por"
+  },
+  {
+    "artigo": "unidades 55-55",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)](https://files.diariodarepublica.pt/1s/2002/03/070b00/28102812.pdf)",
+    "depois": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223b00/63026304.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:300449:por",
+    "alterador": "pt:dre:491940:por"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "id": "pt:dre:300659:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "6.º Durante o exercício da actividade transportadora, as empresas devem ainda dispor de capitais próprios de montante igual ou superior a 600000$00 por cada veículo licenciado ou igual ou superior a 30000$00 por cada lugar sentado.",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "7.º A comprovação do disposto no número anterior deverá ser feita por meio de balanço apresentado na repartição de finanças competente para efeitos do imposto sobre o rendimento das pessoas colectivas (IRC) ou, em alternativa, por meio de garantia bancária.",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "9.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "2.º O júri de exame para avaliação de conhecimentos das matérias constantes do anexo II será constituído por um presidente e dois vogais escolhidos em razão da sua competência e nomeados por despacho do director-geral de Transportes Terrestres.",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "5.º A Direcção-Geral de Transportes Terrestres realizará exames, pelo menos duas vezes por ano, nos meses de Março e Novembro.",
+      "alterador": 1
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "6.º Serão admitidos a exame os candidatos inscritos até ao último dia útil do mês imediatamente anterior ao da realização dos exames.",
+      "alterador": 1
+    },
+    {
+      "de": 39,
+      "ate": 39,
+      "texto": "13.º Quando os exames a que se refere o presente Regulamento se realizarem simultaneamente com os exames para obtenção de capacidade profissional para transportes nacionais rodoviários de passageiros previsto no anexo I da [Portaria n.º 77/93](https://diariodarepublica.pt/dr/detalhe/portaria/77-1993-585231), de 21 de Janeiro, será constituído apenas um júri.",
+      "alterador": 1
+    },
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "2 - Práticas e formalidades respeitantes à passagem das fronteiras.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 39,
+      "texto": "14.º Quando os exames se realizem nas condições previstas no número anterior, a publicação dos resultados das provas relativas às matérias enunciadas no anexo II desta portaria fica condicionada à aprovação nas matérias cujo conhecimento é exigido para o reconhecimento de capacidade profissional para os transportes rodoviários nacionais de passageiros.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação dos n.os 6.º e 7.º; substituídas as unidades 14 e 15.",
+    "Alt. 1, 2.º: revogado o n.º 9.º; unidade 17 passa a '9.º - (Revogado.)'.",
+    "Alt. 1, 3.º: nova redação dos n.os 2.º, 5.º, 6.º e 13.º do anexo I; substituídas as unidades 25, 28, 29 e 39.",
+    "Alt. 1, 4.º: aditado o n.º 14.º ao anexo I; inserido depois da unidade 39.",
+    "Alt. 1, 5.º: nova redação do n.º 2 do anexo II; substituída a unidade 42.",
+    "Alt. 2 (DL 12/99): altera o artigo 14.º do DL 209/97, que só remete para o n.º 5.º da portaria; não é instrução dirigida ao original, ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

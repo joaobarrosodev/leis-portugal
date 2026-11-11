@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:276605:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2 - Os coeficientes a considerar segundo os vários tipos de pesca relativamente ao número de anos de serviço efectivamente prestado são os seguintes:",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 13,
+      "texto": "Pesca do bacalhau ... 33\n\nPesca do arrasto do alto ou longínqua ... 25\n\nPesca do arrasto costeiro, sardinha, artesanal, atum ou cetáceos ... 15",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 2 (frase introdutória e coeficientes 33/25/15); unidades 9 e 11 a 13 substituídas, mantido o cabeçalho '... Percentagem' (unidade 10).",
+    "Alterador 1, n.os 2.º a 5.º: normas autónomas da portaria alteradora; nada aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

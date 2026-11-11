@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:276256:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Santo Antão do Tojal, município de Loures, com a área de 562,4721 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 (renovação da concessão e anexação de 131 ha, área total de 855 ha) e 3 (anexação de 456 ha, área total de 1311 ha) não dão nova redação a nenhum ponto do original e as plantas só vêm em imagem; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 1.º (562,4721 ha); aplicado na unidade 6.",
+    "Alterador 1, n.º 1.º: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 2: renovação e anexação de prédios; sem alteração textual, não aplicado.",
+    "Alterador 3: anexação de prédios; sem alteração textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Ensino da Língua Portuguesa;",
+    "depois": "c) Ensino da Língua e da Literatura Portuguesas;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:218716:por",
+    "alterador": "pt:dre:285165:por"
+  },
+  {
+    "artigo": "unidades 120-146",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO III — Mestrado em Educação na área de especialização em ensino da Língua Portuguesa\n\n1 - Área científica do curso:\n\nEducação.\n\n2 - Duração normal do curso:\n\nTrês semestres lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à conclusão do curso:\n\na) Obrigatórias:\n\nI) História da Educação ... 2\n\nII) Língua Portuguesa ... 6\n\nIII) Metodologia do Ensino da Língua Portuguesa ... 3\n\nIV) Metodologia da Investigação em Educação ... 6\n\nV) Psicologia da Educação ... 2\n\nVI) Teoria do Desenvolvimento Curricular ... 3\n\nb) Optativas:\n\nI) Filosofia da Educação ... 2\n\nII) História da Educação ... 2\n\nIII) Psicologia da Educação ... 2\n\nIV) Sociologia da Educação ... 2\n\nTotal ... 24\n\n4 - Licenciaturas a que se refere o n.º 1 de n.º 5.º:\n\na) Ensino de Francês e Português;\n\nb) Ensino de Inglês e Português;\n\nc) Línguas e Literaturas Clássicas, variante de Estudos Clássicos e Portugueses;\n\ne) Ensino de Português e Francês;\n\nf) Ensino de Português e Inglês.\n\n5 - Especialidades a que se refere o n.º 10.º:\n\nMetodologia do Ensino do Português.",
+    "depois": "## ANEXO III — Mestrado em Educação na área de especialização em Ensino da Língua e da Literatura Portuguesas\n\n1 - Área científica do curso: Educação.\n\n2 - Duração normal do curso: três semestres lectivos.\n\n3 - Número total de unidades de crédito necessárias à conclusão do curso: 24.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Obrigatórias:\n\nI - Estudos Linguísticos ... 8\n\nII - Estudos Literários ... 6\n\nIII - Metodologias de Ensino ... 4\n\n4.2 - Conjunto das optativas:\n\nI - Educação ... 6\n\nII - Linguística ... 6\n\nIII - Literatura ... 6\n\nIV - Cultura ... 6\n\nV - Informática ... 6\n\n5 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:\n\na) Em Ensino que incluam a componente de Português;\n\nb) Línguas e Literaturas Modernas que incluam a componente de Português;\n\nc) Filologia Românica;\n\nd) Línguas e Literaturas Clássicas que incluam a componente de Português;\n\ne) Humanidades da Universidade Católica Portuguesa.\n\n6 - Especialidades a que se refere o n.º 11.º: Metodologia do Ensino do Português.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:218716:por",
+    "alterador": "pt:dre:285165:por"
+  }
+]

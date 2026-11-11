@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:263891:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "De harmonia com o disposto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 46/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1984-660512), de 4 de Fevereiro, se publica que foram autorizadas as seguintes transferências de verbas, nos termos da primeira parte do n.º 2 e da alínea a) do n.º 3 do artigo 5.º do mesmo diploma, da alínea l) do artigo 5.º da [Lei n.º 30-C/92](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), de 28 de Dezembro, [Decreto-Lei n.º 96/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1993-680636), de 2 de Abril, e artigo 12.º do [Decreto-Lei n.º 83/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1993-634688), de 18 de Março (Orçamento de 1993):",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 105/94): as duas rectificações (cap. 03, div. 11, subd. 01 -> 99; cap. 03, div. 14, subd. 99 -> 01) incidem sobre o mapa de transferências, que só existe em imagem (unidade 3); não aplicadas.",
+  "instrucoes": [
+    "Alterador 1: duas rectificações de códigos no mapa (imagem); não aplicadas (nao_aplicavel).",
+    "Alterador 2: rectificação do cabeçalho (unidade 2); o trecho 'alínea a) do n.º 3 do artigo 5.º do mesmo diploma e do artigo 12.º do Decreto-Lei n.º 83/93,' (o texto atual tem 'e do artigo', a rectificação cita 'e artigo') substituído pela redação rectificada copiada da declaração."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

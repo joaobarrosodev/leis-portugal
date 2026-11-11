@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Os coeficientes a considerar segundo os vários tipos de pesca e relativamente ao número de anos de serviço efectivamente prestado são os seguintes:",
+    "depois": "2 - Os coeficientes a considerar segundo os vários tipos de pesca relativamente ao número de anos de serviço efectivamente prestado são os seguintes:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:276605:por",
+    "alterador": "pt:dre:567057:por"
+  },
+  {
+    "artigo": "unidades 11-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pesca de bacalhau ... 20\n\nPesca do arrasto do alto ou longínqua ... 15\n\nPesca do arrasto costeiro, sardinha, artesanal, atum ou cetáceos ... 10",
+    "depois": "Pesca do bacalhau ... 33\n\nPesca do arrasto do alto ou longínqua ... 25\n\nPesca do arrasto costeiro, sardinha, artesanal, atum ou cetáceos ... 15",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:276605:por",
+    "alterador": "pt:dre:567057:por"
+  }
+]
