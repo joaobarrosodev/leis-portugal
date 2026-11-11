@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:217714:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (RCM n.º 123/2000, artigo 77.º): revoga o Plano Director Municipal de Beja ratificado pela portaria, não uma parte do texto da portaria; não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Alterador 1, artigo 77.º: revogação do PDM de Beja ratificado pela Portaria n.º 359/92: não aplicada ao texto (revoga o plano, não dá redação nova)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

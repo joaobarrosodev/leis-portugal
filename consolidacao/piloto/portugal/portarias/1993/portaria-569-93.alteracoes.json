@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 26-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "o) Coordenar a elaboração das provas de exame e de aferição e verificar o normal processo de avaliação dos alunos do ensino secundário;",
+    "depois": "o) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:255665:por",
+    "alterador": "pt:dre:641995:por"
+  }
+]

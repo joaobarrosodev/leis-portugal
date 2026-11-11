@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:300633:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: renova a zona de caça por seis anos com nova planta (em imagem), sem alterar o texto da portaria (não textual). Alterador 2: altera o n.º 1.º de outra Portaria n.º 328/2002 (2.ª série, de 21 de Fevereiro de 2002, Conselho Cinegético Municipal de Monção), não dirigida a este original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: renovação da zona de caça; não textual, não aplicada.",
+    "Alterador 2, artigo único: dirigido a outra portaria com o mesmo número (2.ª série); ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Esta zona de caça social é concessionada por um período de seis anos e a entidade gestora é o Instituto Florestal.",
+    "depois": "2.º A administração da zona de caça social da serra da Lousã é atribuída à Direcção Regional de Agricultura da Beira Litoral.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:276402:por",
+    "alterador": "pt:dre:581065:por"
+  },
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Nesta zona de caça o acesso dos caçadores será feito por inscrição prévia e sorteio público, ou outra forma que garanta a igualdade de acessibilidade, sendo reservada uma parte das admissões para caçadores com residência, registada na carta de caçador, nas autarquias envolvidas.",
+    "depois": "4.º O acesso dos caçadores a esta zona de caça bem como as demais regras de funcionamento da mesma obedecem ao disposto na [Portaria n.º 893/98](https://diariodarepublica.pt/dr/detalhe/portaria/893-1998-235558), de 10 de Outubro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:276402:por",
+    "alterador": "pt:dre:581065:por"
+  },
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º As demais regras de funcionamento desta zona de caça social, após aprovação por despacho do Ministro da Agricultura, serão publicadas em edital do Instituto Florestal.",
+    "depois": "7.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:276402:por",
+    "alterador": "pt:dre:581065:por"
+  }
+]

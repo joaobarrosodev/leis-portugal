@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:194443:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto-Lei n.º 48691: art. 1.º fixa novo quadro e art. 26.º extingue os lugares criados pela portaria; não há instrução textual dirigida ao texto do original, nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

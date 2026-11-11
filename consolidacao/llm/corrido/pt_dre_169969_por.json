@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:169969:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 13,
+      "texto": "2.º-A\n\nPlano transitório\n\nO plano de estudos aplicado nos anos de 1996-1997 e de 1997-1998 é o constante do anexo II.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, alínea a): o anexo II aditado só vem em quadros em imagem. Alterador 2: o novo plano de estudos (anexo) só vem em quadros em imagem.",
+  "instrucoes": [
+    "Alterador 1, b): aditado o n.º 2.º-A (Plano transitório) depois da unidade 13.",
+    "Alterador 1, a): aditamento do anexo II só em imagem; não aplicado.",
+    "Alterador 2, 1.º: novo plano de estudos só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

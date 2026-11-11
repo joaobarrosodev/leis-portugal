@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:223387:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 21,
+      "texto": "a) Enfermeiros provenientes de serviços prestadores de cuidados do Ministério da Saúde - 75%;\n\nb) Enfermeiros provenientes de instituições com que a Escola estabeleça protocolos - 5%;\n\nc) Outros enfermeiros - 20%.\n\n2 - As vagas eventualmente não utilizadas num dos contingentes revertem, se necessário, para qualquer outro contingente, de acordo com regras a fixar pelo órgão competente da Escola e a divulgar através do edital a que se refere o n.º 9.º da [Portaria n.º 239/94](https://diariodarepublica.pt/dr/detalhe/portaria/239-1994-266642).",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 443/97), n.º 1.º, 2: o anexo I passa a ter a redação do anexo, que só vem em imagem (ver documento original); não aplicado.",
+  "instrucoes": [
+    "Alt. 1, n.º 1.º: nova redação da alínea c) do n.º 1 do n.º 3.º (unidade 18) — aplicada, mas depois absorvida pela nova redação integral do n.º 3.º dada pelo alterador 2, que é a que se devolve.",
+    "Alt. 2, n.º 1.º, 1: nova redação do n.º 3.º — epígrafe e corpo do n.º 1 iguais ao atual; substituídas as unidades 16 a 21 (alíneas a) a e) e n.º 2) pelas novas alíneas a) a c) e novo n.º 2.",
+    "Alt. 2, n.º 1.º, 2: anexo I substituído — só em imagem, não aplicado.",
+    "Alt. 2, n.os 2.º e 3.º (transição, entrada em vigor): não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

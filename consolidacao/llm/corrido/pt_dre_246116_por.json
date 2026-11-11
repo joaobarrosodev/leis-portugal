@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:246116:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2: substituem o plano de estudos (anexo), cujos quadros só vêm em imagem; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo plano de estudos em anexo, só em imagem; em nao_aplicavel. N.os 2.º e 3.º: aplicação e transição, sem texto a mudar.",
+    "Alterador 2, n.º 1.º: novo plano de estudos em anexo, só em imagem; em nao_aplicavel. N.os 2.º e 3.º: transição e aplicação, sem texto a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

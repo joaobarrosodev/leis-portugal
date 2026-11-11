@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Pela presente portaria é concessionada, pelo período de seis anos, renovável automaticamente por um único e igual período, à Associação de Caçadores do Monte da Oliveira, com o número de pessoa colectiva 505274132 e sede no cruzamento de São Marcos da Serra, Silves, a zona de caça associativa do Monte Branco (processo n.º 2754-DGF), englobando vários prédios rústicos sitos na freguesia de São Marcos da Serra, município de Silves, com a área de 418 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "depois": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, à Associação de Caçadores do Monte da Oliveira, com o número de pessoa colectiva 505274132 e sede no cruzamento de São Marcos da Serra, Silves, a zona de caça associativa do Monte Branco (processo n.º 2754-DGF), englobando vários prédios rústicos sitos na freguesia de São Marcos da Serra, município de Silves, com a área de 418 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:288211:por",
+    "alterador": "pt:dre:640576:por"
+  },
+  {
+    "artigo": "depois da unidade 6",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza até ao máximo de 10 % da área total da zona de caça.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:288211:por",
+    "alterador": "pt:dre:640576:por"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:621930:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "3 - Estabelecer que o rendeiro, emparcelante ou herdeiro directo, ainda que tenha idade superior a 60 anos, poderá beneficiar do Programa de Financiamento a Arrendatários Rurais - PAR, quando haja um seu descendente em linha recta, ou o respectivo cônjuge, em condições de assegurar a continuidade da exploração e desde que tal seja reconhecido pelo Ministério da Agricultura.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 3 (acrescenta «ou o respectivo cônjuge» e o nome do Programa), dada no dispositivo «resolveu estabelecer que...» — substituída a unidade 10 com o texto do alterador precedido de «3 - Estabelecer que»."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

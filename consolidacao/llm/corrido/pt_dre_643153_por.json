@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:643153:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 253/2004), 1.º: o anexo I passa a ter a redacção do anexo da portaria alteradora, cujos quadros do plano de estudos só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 253/2004), 1.º: nova redacção do anexo I (quadros em imagem); não aplicada.",
+    "Alterador 1, 2.º e 3.º: regras de transição e aplicação; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

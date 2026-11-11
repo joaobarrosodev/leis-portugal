@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:138551:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1120/2000 substitui o plano de estudos do anexo, cujos quadros só vêm em imagem no documento original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o plano de estudos passa a ser o constante do anexo (quadros só em imagem) - não aplicado; 2.º a 6.º são normas próprias do alterador, não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

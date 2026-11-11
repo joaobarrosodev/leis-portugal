@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:290385:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 137/94) retifica o quadro anexo, que só vem em imagem; alterador 2 (Portaria n.º 376/2003) substitui o quadro de pessoal por um novo quadro anexo que também só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1: retificação do quadro anexo em imagem; não aplicada.",
+    "Alterador 2: substituição do quadro de pessoal por quadro em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

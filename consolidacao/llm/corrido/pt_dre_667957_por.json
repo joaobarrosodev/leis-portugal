@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:667957:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 (anexo III) e 2 (mapa) alteram o quadro de pessoal do mapa anexo, que só existe em imagem; não há texto a aplicar.",
+  "instrucoes": [
+    "Alterador 1: alteração do quadro do pessoal da Junta Autónoma do Porto de Setúbal pelo anexo III, só em imagem; não aplicada.",
+    "Alterador 2, n.º 1.º: alteração do quadro pelo mapa, só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

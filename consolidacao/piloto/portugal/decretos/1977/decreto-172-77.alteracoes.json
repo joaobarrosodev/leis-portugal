@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 34-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A presente concessão é outorgada por prazo indeterminado.",
+    "depois": "A presente concessão é outorgada por prazo indeterminado, mas não inferior a setenta e cinco anos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:280246:por",
+    "alterador": "pt:dre:295783:por"
+  }
+]

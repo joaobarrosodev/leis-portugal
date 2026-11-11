@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:660308:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: o anexo (plano de estudos) passa a ter a redação do anexo da Portaria n.º 392/97, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do anexo; só em imagem, não aplicado.",
+    "Alterador 2, n.º 3.º, alínea b): caducidade da autorização do curso no fim da transição; não é alteração textual nem revogação do texto; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

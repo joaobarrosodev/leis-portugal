@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:158621:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "Processo n.º 2235/2001",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Declaração de Rectificação 22/2002: onde se lê 'Processo n.º 255-A/98' deve ler-se 'Processo n.º 2235/2001'; aplicada na unidade 2 (única ocorrência)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

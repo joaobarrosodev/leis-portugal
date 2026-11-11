@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:157393:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 563/2000) anexa um prédio (área total 704,3540 ha, nova planta) e alterador 2 (Portaria 1151/2004) extingue a concessão e cria uma área de refúgio; nenhum dá nova redação nem revoga expressamente o texto do original, pelo que nada se aplica textualmente.",
+  "instrucoes": [
+    "Portaria 563/2000: anexação de prédio, sem alteração textual; não aplicada.",
+    "Portaria 1151/2004: extinção da concessão e criação de área de refúgio, sem alteração textual nem revogação expressa; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

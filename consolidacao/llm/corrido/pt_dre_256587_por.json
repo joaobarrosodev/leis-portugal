@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:256587:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "a) Secretário de Estado da Administração Interna, que coordena;",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "d) Secretária de Estado da Administração Local e Reforma Administrativa;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 1; proémio e alíneas b), c) e e) com [...] ficam; alínea a) (unidade 12) passa a incluir 'que coordena'; alínea d) (unidade 15) passa a 'Secretária ...' sem 'que coordena'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

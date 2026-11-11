@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:216095:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 430/2003): o novo quadro n.º 2 do anexo só vem em imagem (ver quadro no documento original), não se pode aplicar textualmente.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do quadro n.º 2 do anexo (2.º ano), só em imagem: não aplicado.",
+    "Alterador 2 (Portaria n.º 1049/2005), 1.º: altera o anexo da Portaria n.º 1105/94, outro diploma: ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:674435:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 13,
+      "texto": "Art. 4.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 21,
+      "ate": 24,
+      "texto": "Art. 8.º - (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 474-A/99 (Lei Orgânica do XIV Governo): nenhuma instrução dirigida ao DL 312/91; nada aplicado.",
+    "DL 34/2000, art. 1.º: altera artigos do DL 122/98 (outro diploma): ignorado; a remissão para os n.os 2 e 3 do art. 10.º do DL 312/91 não o altera.",
+    "DL 34/2000, art. 2.º (art. 18.º, n.º 2, aditado ao DL 122/98): revoga os artigos 4.º e 8.º do DL 312/91: unidades 12-13 e 21-24 passam a (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 12-13: parágrafo que não está no alterador nem no original: Art. 4.º - (Revogado.)",
+    "substituição 21-24: parágrafo que não está no alterador nem no original: Art. 8.º - (Revogado.)"
+  ]
+}

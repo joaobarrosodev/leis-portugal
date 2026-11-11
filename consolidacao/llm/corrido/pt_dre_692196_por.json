@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:692196:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1112/94): cria um lugar no quadro de pessoal, sem alteração textual. Alterador 2 (Portaria n.º 537/95): altera o quadro de pessoal por quadro anexo só em imagem. Alterador 3 (Portaria n.º 413/98): substitui o quadro por mapa só em imagem e fixa unidades orgânicas e conteúdos funcionais em texto próprio, sem mandar alterar ou substituir o texto do original (nem os anexos I e II).",
+  "instrucoes": [
+    "Alterador 1: criação de um lugar de escriturário-dactilógrafo; não textual, não aplicada.",
+    "Alterador 2: novo quadro de pessoal só em imagem; não aplicado.",
+    "Alterador 3: quadro substituído por mapa em imagem, unidades orgânicas e conteúdos funcionais definidos na própria portaria sem instrução textual sobre o original; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

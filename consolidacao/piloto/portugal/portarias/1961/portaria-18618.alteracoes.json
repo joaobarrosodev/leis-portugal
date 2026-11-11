@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 27-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "11.º A inspecção das culturas para a produção de semente competirá à Estação de Melhoramento de Plantas, que poderá recorrer à colaboração dos organismos produtores da semente-base. A certificação da semente produzida será feita nos termos do que estabelece a [Portaria n.º 16769](https://diariodarepublica.pt/dr/detalhe/portaria/16769-1958-352556), de 17 de Julho de 1958.",
+    "depois": "11.º Competirá à Estação de Ensaio de Sementes a inspecção das cultivares para certificação. A certificação de semente produzida será efectuada nos termos da [Portaria n.º 16769](https://diariodarepublica.pt/dr/detalhe/portaria/16769-1958-352556), de 17 de Julho de 1958, e as alterações expressas neste diploma.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:173367:por",
+    "alterador": "pt:dre:311823:por"
+  }
+]

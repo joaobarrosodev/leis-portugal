@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:168422:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 retifica o mapa II, mas o 'onde se lê' e o 'deve ler-se' só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1: retificação do mapa II só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

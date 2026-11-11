@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:288452:por",
+  "substituicoes": [
+    {
+      "de": 52,
+      "ate": 52,
+      "texto": "b) (Revogada.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º (prorrogação até 31 de Março de 1978 do limite dos voos de afinidade) e 2.º (redução de sessenta para quarenta e cinco dias para voos ABC originados nos EUA) não dão nova redação a nenhuma unidade; a autorização de combinar até três categorias no 3.º também não é textual.",
+  "instrucoes": [
+    "Alt. 1, 1.º: prorroga o limite do n.º 2.º — não textual, não aplicado.",
+    "Alt. 1, 2.º: reduz prazo da condição 2.ª para voos dos EUA — não textual, não aplicado.",
+    "Alt. 1, 3.º: revoga a alínea b) da condição 6.ª do anexo — unidade 52 passa a 'b) (Revogada.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

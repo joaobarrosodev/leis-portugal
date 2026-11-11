@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 16-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º A subcomissão técnica é composta pelos seguintes elementos, que funcionam como peritos técnicos:\n\na) 1 representante da Secretaria de Estado da Segurança Social, que coordenará os trabalhos;\n\nb) 1 representante da Direcção-Geral da Segurança Social;\n\nc) 1 representante da Caixa Nacional de Seguros de Doenças Profissionais;\n\nd) 1 representante do Instituto de Seguros de Portugal.",
+    "depois": "5.º A subcomissão técnica é composta pelos seguintes elementos:\n\na) Dois representantes da Secretaria de Estado da Segurança Social, um dos quais coordenará os trabalhos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:313025:por",
+    "alterador": "pt:dre:355128:por"
+  },
+  {
+    "artigo": "unidades 32-32",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º A comissão permanente é presidida pelo representante da Secretaria de Estado da Segurança Social, ao qual competirá definir as normas de articulação e funcionamento das subcomissões.",
+    "depois": "7.º A comissão permanente terá um presidente e um vice-presidente, que serão os representantes designados pela Secretaria de Estado da Segurança Social.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:313025:por",
+    "alterador": "pt:dre:355128:por"
+  },
+  {
+    "artigo": "depois da unidade 32",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "7.º-A. Compete ao presidente:\n\na) Convocar as reuniões da comissão permanente e das subcomissões;\n\nb) Orientar globalmente os trabalhos da comissão permanente e da subcomissão técnica.\n\n7.º-B. Compete ao vice-presidente:\n\na) Apoiar tecnicamente e substituir o presidente no exercício das suas funções;\n\nb) Orientar e coordenar as reuniões de trabalho dos peritos médicos responsáveis pela elaboração dos capítulos relativos às várias especialidades.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:313025:por",
+    "alterador": "pt:dre:355128:por"
+  }
+]

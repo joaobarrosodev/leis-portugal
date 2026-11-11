@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:278749:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A rectificação no quadro n.º 7 ('Dentisteria' passa a 'Dentisteria V') não é aplicável: o quadro só existe em imagem no documento original.",
+  "instrucoes": [
+    "Alterador 1: rectificação no quadro n.º 7 do anexo; não aplicada (quadro só em imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

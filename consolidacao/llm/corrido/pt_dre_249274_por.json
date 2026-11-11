@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:249274:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa de São João das Lampas (processo n.º 838-DGRF), abragendo vários prédios rústicos sitos na freguesia de São João das Lampas, município de Sintra, com a área de 941 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: a nova planta só vem em imagem. Alterador 2: mudança de denominação, anexação de prédios (984 ha) e área de condicionamento, sem nova redação de pontos do original e com planta em imagem; não são alterações textuais, não aplicadas.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 1.º (941 ha); unidade 7 substituída, mantida a numeração \"1.º\" e a gralha \"abragendo\".",
+    "Alterador 1, n.º 2.º: substitui a planta, só em imagem; em nao_aplicavel.",
+    "Alterador 2: denominação, anexação e condicionamento sem texto do original; em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

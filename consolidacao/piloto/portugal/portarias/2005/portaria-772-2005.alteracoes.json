@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pela [Portaria n.º 888/95](https://diariodarepublica.pt/dr/detalhe/portaria/888-1995-460231), de 14 de Julho, foi concessionada à São José do Marco - Agricultura, Lda., a zona de caça turística da Herdade de Pães-Água-Apariça (processo n.º 1726-DGRF), situada no município de Castro Verde, válida até 15 de Maio de 2005.",
+    "depois": "Pela [Portaria n.º 888/95](https://diariodarepublica.pt/dr/detalhe/portaria/888-1995-460231), de 14 de Julho, foi concessionada à São José do Marco - Agro-Pecuária, Silvicultura e Caça, Lda., a zona de caça turística da Herdade de Pães-Água-Apariça (processo n.º 1726-DGRF), situada no município de Castro Verde, válida até 15 de Maio de 2005.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:142130:por",
+    "alterador": "pt:dre:667715:por"
+  }
+]

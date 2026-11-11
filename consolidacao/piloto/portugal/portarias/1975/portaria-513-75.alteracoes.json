@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 5-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É criada uma unidade da Armada destinada a integrar o pessoal dos três ramos das forças armadas nomeado para prestar serviço no Quartel-General do Comando da Área Ibero-Atlântica e centralizar todos os assuntos relativos à sua administração, designada por Unidade de Apoio ao Comando da Área Ibero-Atlântica e abreviadamente por UAAI.\n\n2.º O comandante da UAAI será o oficial general da Armada em serviço naquele Quartel-General, que desempenhará essas funções em acumulação com as que ali exerce, e o imediato um oficial superior da classe de marinha.",
+    "depois": "1.º É criada uma unidade da Armada destinada a integrar o pessoal dos três ramos das Forças Armadas nomeado para prestar serviço no Quartel-General do Comando-Chefe da Área Ibero-Atlântica e a centralizar todos os assuntos relativos à sua administração, designada por Unidade de Apoio ao Comando-Chefe da Área Ibero-Atlântica e abreviadamente por UAAI.\n\n2.º O comandante da UAAI será o mais antigo capitão-de-mar-e-guerra da classe de Marinha em serviço naquele Quartel-General, que desempenhará essas funções em acumulação com as que ali exerce, e o imediato um oficial superior da classe de Marinha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:314905:por",
+    "alterador": "pt:dre:381678:por;pt:dre:468469:por"
+  },
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º O oficial general referido no número anterior, na sua qualidade de comandante da UAAI, fica directamente subordinado ao Chefe do Estado-Maior da Armada.",
+    "depois": "3.º O comandante da UAAI fica directamente subordinado ao comandante naval.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:314905:por",
+    "alterador": "pt:dre:381678:por;pt:dre:468469:por"
+  }
+]

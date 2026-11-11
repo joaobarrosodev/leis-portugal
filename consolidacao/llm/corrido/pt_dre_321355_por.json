@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:321355:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1, 1.º: nova redação do quadro n.º 3 do anexo, e alt. 2, 1.º: nova redação de todo o anexo; os quadros só vêm em imagem no documento original (e o original tem os quadros do 1.º ciclo numa só imagem, sem quadro n.º 3 isolável); não aplicado.",
+  "instrucoes": [
+    "Alt. 1, 1.º: substituição do quadro n.º 3 do anexo — não aplicada, quadro só em imagem.",
+    "Alt. 2, 1.º: substituição do anexo — não aplicada, quadros só em imagem.",
+    "Restantes números dos alteradores (transição, estágio e projecto, aplicação) são normas próprias, não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

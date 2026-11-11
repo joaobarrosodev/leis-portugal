@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:332959:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 2 (Portaria n.º 1404/2003, n.º 11.º) revoga por inteiro a Portaria n.º 521/2001. Antes disso, o alterador 1 (Portaria n.º 1274/2002) substituía os quadros n.os 6 e 7 do anexo, que só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação dos quadros n.os 6 e 7 do anexo, só em imagem; não aplicada.",
+    "Alterador 2, n.º 11.º: revoga a Portaria n.º 521/2001 por inteiro; nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

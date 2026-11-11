@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:217286:por",
+  "substituicoes": [
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "11. Os postos dos chefes e assistentes dos serviços médicos do Hospital da Marinha serão os compatíveis com a respectiva lotação. O número de assistentes que pertence a cada serviço e respectivas especializações serão fixados por despacho ministerial.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 11: unidade 30 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

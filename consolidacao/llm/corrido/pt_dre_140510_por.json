@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:140510:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 15.º da Portaria n.º 789/77 revoga o Despacho Normativo n.º 54/77 (no que diz respeito aos produtos siderúrgicos, que são todo o seu objeto): revogação do diploma por inteiro.",
+  "instrucoes": [
+    "Alterador 1, 15.º: revoga o Despacho Normativo n.º 54/77 quanto aos produtos siderúrgicos, isto é, todo o texto - nada a devolver."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

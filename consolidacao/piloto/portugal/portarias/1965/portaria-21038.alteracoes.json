@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É alterado para 300000$00 o limite fixado no n.º 1.º da [Portaria n.º 19720](https://diariodarepublica.pt/dr/detalhe/portaria/19720-1963-193270), de 21 de Fevereiro de 1963, respeitante à soma dos valores faciais dos certificados de aforro que podem ser emitidos a favor de uma mesma pessoa.",
+    "depois": "1.º É alterado para 500000$00 o limite fixado no n.º 1.º da [Portaria n.º 19720](https://diariodarepublica.pt/dr/detalhe/portaria/19720-1963-193270), de 21 de Fevereiro de 1963, respeitante à soma dos valores faciais dos certificados de aforro que podem ser emitidos a favor de uma mesma pessoa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226650:por",
+    "alterador": "pt:dre:140863:por;pt:dre:233142:por"
+  },
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Durante o mesmo ano económico não podem, porém, ser emitidos a favor de cada pessoa certificados de aforro cujos valores faciais ultrapassem 150000$00.",
+    "depois": "2.º Durante o mesmo ano económico não podem, porém, ser emitidos a favor de cada pessoa certificados de aforro cujos valores faciais ultrapassem 50000$00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:226650:por",
+    "alterador": "pt:dre:140863:por;pt:dre:233142:por"
+  }
+]

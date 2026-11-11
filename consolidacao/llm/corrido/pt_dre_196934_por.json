@@ -1,0 +1,82 @@
+{
+  "id": "pt:dre:196934:por",
+  "substituicoes": [
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "Os apoios a conceder correspondem a uma comparticipação do Estado que pode representar até 25% do custo elegível dos alevins a adquirir.",
+      "alterador": 1
+    },
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "1 - As candidaturas a este apoio são apresentadas pelos titulares dos estabelecimentos de culturas de espécies marinhas, devidamente legalizados à data da sua apresentação, devendo as mesmas dizer respeito a estabelecimentos com produção declarada nos dois anos imediatamente anteriores ao da candidatura ou, caso contrário, apresentar justificação que será apreciada pela Direcção-Geral das Pescas e Aquicultura (DGPA).",
+      "alterador": 2
+    },
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "Para efeitos de atribuição da concessão de apoio financeiro, considera-se prioritário o apoio às candidaturas relativas ao repovoamento dos estabelecimentos que funcionam em regime de exploração semi-intensivo, seguindo-se os explorados em regimes extensivo e intensivo.",
+      "alterador": 2
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "1 - O processo de candidatura deverá ser entregue na DGPA ou respectivos serviços regionais, instruído com:\n\na) Impressos próprios, devidamente preenchidos, acompanhados de requerimento dirigido ao membro do Governo responsável pelo sector das pescas e dos documentos constantes da listagem anexa aos referidos impressos;\n\nb) Fotocópia das declarações do IRS/IRC relativas aos dois últimos anos;\n\nc) Declaração da produção por espécie (quantidades), por estabelecimento e por empresa, nos últimos dois anos.",
+      "alterador": 2
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "2 - A data limite de apresentação de candidaturas é 31 de Março de cada ano, devendo as mesmas ser objecto de decisão até 7 de Outubro do ano em causa.",
+      "alterador": 2
+    },
+    {
+      "de": 39,
+      "ate": 39,
+      "texto": "1 - Os projectos aprovados devem ser executados no prazo máximo de 90 dias contado a partir da data em que o beneficiário é notificado da concessão do apoio, com ressalva do disposto no número seguinte.\n\n2 - Caso o pagamento do apoio tenha lugar antecipadamente, nos termos do disposto na alínea b) do n.º 2 do artigo seguinte, o prazo para execução material e financeira do projecto é de um ano a contar da data em que ocorrer aquele pagamento.",
+      "alterador": 2
+    },
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "1 - O pagamento dos apoios financeiros relativos aos projectos aprovados será efectuado por conta das dotações inscritas no Orçamento do Estado do ano seguinte ao da aprovação daqueles.\n\n2 - O pagamento dos apoios financeiros poderá efectuar-se de acordo com uma das seguintes modalidades:",
+      "alterador": 2
+    },
+    {
+      "de": 44,
+      "ate": 45,
+      "texto": "b) O apoio atribuído é pago ao beneficiário, via transferência bancária, antes da conclusão material e financeira do projecto contra a apresentação de garantia bancária ou seguro-caução, prestada pelo mesmo, pelo valor do subsídio líquido, válidos por um período indeterminado ou por um período automaticamente renovável.\n\n3 - Para efeitos do disposto na alínea a) do número anterior, deverão os beneficiários remeter à DGPA, no prazo máximo de 90 dias contados da data de envio do ofício de notificação da concessão do apoio, a seguinte documentação:\n\na) Documentos de despesa originais (facturas e recibos que poderão ser substituídos por documentos afins), numerados e com data igual ou posterior à data de entrada da candidatura na DGPA;\n\nb) Pedido(s) de vistoria(s), de acordo com o estipulado no artigo 7.º, complementados pelas correspondentes guias de transporte/remessa;\n\nc) Certidões comprovativas em como está regularizada a situação contributiva junto da administração fiscal e da segurança social.\n\n4 - A opção pela modalidade de pagamento prevista na alínea b) do n.º 2 está sujeita a autorização prévia da DGPA, devendo a garantia bancária ou o seguro-caução, bem como as certidões referidas na alínea c) do número anterior, ser apresentados na referida Direcção-Geral até final do 3.º trimestre do ano em que ocorre o pagamento.\n\n5 - Os beneficiários comparticipam nas despesas inerentes ao acompanhamento dos projectos pela DGPA com o valor de 1% sobre o montante líquido de cada subsídio atribuído.\n\n6 - Excepcionalmente, havendo disponibilidade financeira, o membro do Governo responsável pelo sector das pescas pode autorizar o pagamento do apoio por verbas respeitantes ao próprio ano de entrada da candidatura na DGPA.",
+      "alterador": 2
+    },
+    {
+      "de": 48,
+      "ate": 48,
+      "texto": "1 - A libertação das garantias bancárias ou dos seguros-caução tem lugar após a confirmação pela DGPA de que os projectos a que respeitam se encontram material e financeiramente concluídos.\n\n2 - Para efeitos do disposto no número anterior, os beneficiários devem remeter à DGPA no prazo de 30 dias a contar da data referida no n.º 2 do artigo 8.º os documentos referidos nas alíneas a) e b) do n.º 3 do artigo anterior.",
+      "alterador": 2
+    },
+    {
+      "de": 52,
+      "ate": 54,
+      "texto": "2 - O incumprimento pelos beneficiários das obrigações decorrentes do presente diploma constitui fundamento para ser determinada a perda total ou parcial do apoio atribuído.\n\n3 - Quando se verifique ter havido o pagamento prévio do subsídio, de acordo com o previsto na alínea b) do n.º 2 do artigo 9.º, e haja incumprimento na execução dos projectos, ao montante a repor nos cofres do Estado deverão ser acrescidos os respectivos juros legais, nos termos do disposto no artigo 559.º do Código Civil.\n\n4 - A reposição da verba referida no número anterior nos cofres do Estado deverá efectuar-se num prazo máximo de 15 dias úteis após a notificação do beneficiário, explicitando a quantia a devolver.\n\n5 - A não reposição deste montante no prazo indicado implicará o envio do processo à repartição de finanças correspondente ao domicílio do beneficiário para efeitos de execução fiscal.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do 5.º do Regulamento; substituído o corpo (unidade 26).",
+    "Alterador 1, 2.º e 3.º: aplicação e vigência; não são do texto.",
+    "Alterador 2, n.º 1, 2.º: nova redação do n.º 1 (unidade 16); n.º 2 mantém-se.",
+    "Alterador 2, n.º 1, 3.º: nova redação do corpo (unidade 20).",
+    "Alterador 2, n.º 1, 6.º: novo n.º 1 com alíneas a) a c) (unidade 29) e novo n.º 2 (unidade 30); n.os 3 e 4 mantêm-se.",
+    "Alterador 2, n.º 1, 8.º: corpo substituído por n.os 1 e 2 (unidade 39).",
+    "Alterador 2, n.º 1, 9.º: novos n.os 1 a 6; unidade 42 dá os n.os 1 e 2, a alínea a) (unidade 43) fica igual, unidades 44-45 dão a alínea b) e os n.os 3 a 6.",
+    "Alterador 2, n.º 1, 10.º: corpo substituído por n.os 1 e 2 (unidade 48).",
+    "Alterador 2, n.º 1, 11.º: n.º 1 mantém-se; unidades 52-54 substituídas pelos novos n.os 2 a 5.",
+    "Alterador 2, n.os 2 e 3: regra transitória para 2005 e vigência; não são do texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

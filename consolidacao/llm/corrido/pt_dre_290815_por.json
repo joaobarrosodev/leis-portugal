@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:290815:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1191/2000) substitui o plano de estudos anexo por um novo anexo cujos quadros só vêm em imagem; o seu n.º 2.º (regulamento) é norma própria, não altera o texto do original. Alterador 2 (Portaria n.º 1285/2001) altera o anexo da Portaria n.º 1191/2000, não o original, e os quadros também só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1: substituição do plano de estudos anexo por quadros em imagem; não aplicada.",
+    "Alterador 1: regime de registo do regulamento, norma autónoma; não é alteração do original.",
+    "Alterador 2: altera o anexo da Portaria n.º 1191/2000 (outro diploma), quadros em imagem; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

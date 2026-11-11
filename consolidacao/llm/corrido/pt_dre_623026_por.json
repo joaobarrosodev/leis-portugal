@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:623026:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (nova redação dos quadros n.os 3 e 1 dos anexos I e II) e alterador 2 (nova redação dos anexos I e II, plano de estudos) só trazem os quadros em imagem; não se pode aplicar o texto com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui os quadros n.os 3 (anexo I) e 1 (anexo II), só em imagem — não aplicado.",
+    "Alterador 2, 1.º: substitui os anexos I e II, quadros só em imagem — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:676008:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 12,
+      "texto": "2.º - (Revogado.)\n\n3.º - (Revogado.)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 374-J/79, art. 7.º, b): revogados os n.os 2.º a 5.º da Portaria 427/72: unidades 7-12 substituídas por 2.º a 5.º (Revogado.); a Relação B não é revogada expressamente e fica.",
+    "DL 374-J/79, art. 7.º, a) e c): revogam outros diplomas: ignoradas.",
+    "DL 374-J/79, arts. 1.º a 6.º: novo regime próprio de taxas, sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

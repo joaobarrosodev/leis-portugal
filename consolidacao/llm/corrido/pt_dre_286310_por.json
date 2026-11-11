@@ -1,0 +1,51 @@
+{
+  "id": "pt:dre:286310:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1.º O Programa dispõe de orçamento aprovado até 31 de Dezembro de 1993.",
+      "alterador": 2
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "8.º Havendo lugar a recurso hierárquico necessário, dentro do prazo legal de 30 dias a contar da data da notificação, na sequência de decisão desfavorável caberá à DGHEA a elaboração de parecer sobre o mesmo a apresentar ao Ministro da Agricultura, Pescas e Alimentação para efeito da decisão.",
+      "alterador": 1
+    },
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "1 - O montante global do subsídio não poderá exceder 10000 contos por exploração agrícola.",
+      "alterador": 2
+    },
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "2 - O limite referido no ponto anterior pode, no caso de explorações associadas, ser multiplicado pelo número dessas explorações, não podendo, no entanto, o resultado exceder os 30000 contos. Para efeitos do disposto neste ponto, a exploração agrícola abrange as fracções dela autonomizadas e individualmente geridas.",
+      "alterador": 2
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "b) Instalações eléctricas de baixa tensão a construir dentro das explorações agrícolas, nomeadamente redes de baixa tensão, instalações eléctricas em edifícios agrícolas e em estações de bombagem, excluindo as instalações eléctricas nas habitações e as instalações ou parte das instalações eléctricas destinadas a aquecimento ambiente, de águas sanitárias ou de processo ou à preparação de alimentos - 45% nas regiões não desfavorecidas e 55% nas regiões desfavorecidas, delimitadas ao abrigo da Directiva n.º [75/268/CEE](http://data.europa.eu/eli/dir/1975/268/oj?locale=pt);\n\nc) As percentagens referidas na alínea anterior são majoradas de 25% no caso de os agricultores beneficiários se enquadrarem no regime de jovem agricultor, nos termos do artigo 14.º do Decreto-Lei n.º 79-A/78, de 18 de Fevereiro.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 23,
+      "texto": "3 - O montante dos subsídios é fixado para o triénio 1988-1990 nos seguintes valores percentuais:",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação dos n.os 1.º, 8.º e 14.º. N.º 1.º (unidade 5) depois substituído pelo alterador 2; n.º 8.º substituído (unidade 15); no n.º 14.º o antigo 2 passa a 3 (inserido após a unidade 23, que recebe o novo 2), a alínea a) fica igual e a b) é substituída e seguida da nova c) (unidade 25).",
+    "Alterador 2, n.º 1.º: nova redação do n.º 1.º (unidade 5) e dos pontos 1 e 2 do n.º 14.º (unidades 22 e 23, 10000 e 30000 contos); '3 - ...' mantém o ponto 3 e as suas alíneas.",
+    "Alterador 2, n.º 2.º: norma de aplicação no tempo do próprio alterador, não dirigida ao texto do original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

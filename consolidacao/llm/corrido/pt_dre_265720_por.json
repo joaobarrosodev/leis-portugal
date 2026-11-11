@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:265720:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1 - É criado no quadro de pessoal da Direcção-Geral dos Serviços de Gestão e Organização, aprovado pela [Portaria n.º 110/93](https://diariodarepublica.pt/dr/detalhe/portaria/110-1993-599877), de 30 de Janeiro, um lugar de assessor principal da carreira de técnico superior, a extinguir quando vagar.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (retificação): no n.º 1, 'um lugar de assessor principal' passa a 'um lugar de assessor principal da carreira de técnico superior'; aplicado na unidade 5.",
+    "Alterador 2 altera o quadro de pessoal aprovado pela Portaria n.º 681/98 (outro diploma); ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

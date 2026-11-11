@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:280479:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "Assinado em 11 de Fevereiro de 2002.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: rectificação da data de assinatura (14 para 11 de Fevereiro de 2002); unidade 5 substituída, 'Publique-se.' fica igual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

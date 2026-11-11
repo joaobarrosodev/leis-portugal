@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:250623:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "5.º A constituição do júri, a nomear por despacho do Chefe do Estado-Maior da Armada, que fará o ordenamento relativo a que se refere o n.º 3.º é a seguinte:",
+      "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 14,
+      "texto": "2 oficiais superiores da classe de marinha, das áreas do pessoal e da instrução, a propor pelo superintendente dos Serviços do Pessoal da Armada;\n\n2 oficiais superiores, engenheiros hidrógrafos, a propor pelo director-geral do Instituto Hidrográfico.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 5.º; substituído o proémio (unidade 10) e a composição do júri (unidades 12 a 14 passam a dois membros); a unidade 11 (Director-geral) fica igual.",
+    "Alterador 1, n.os 2.º e 3.º: alteram as Portarias n.os 394/81 e 395/81, não o original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

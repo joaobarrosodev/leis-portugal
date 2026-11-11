@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Processo n.º 255-A/98",
+    "depois": "Processo n.º 2235/2001",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:158621:por",
+    "alterador": "pt:dre:140141:por"
+  }
+]

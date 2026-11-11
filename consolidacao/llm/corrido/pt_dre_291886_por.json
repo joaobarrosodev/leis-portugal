@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:291886:por",
+  "substituicoes": [
+    {
+      "de": 25,
+      "ate": 31,
+      "texto": "Instituto Superior Autónomo de Estudos Politécnicos\n\nCurso de Engenharia Civil\n\nGrau de bacharel - 1.º ciclo\n\nQUADRO N.º 1\n\n1.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/188b00/51705173.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/188b00/51705173.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/188b00/51705173.pdf)\n\nGrau de licenciado - 2.º ciclo\n\nQUADRO N.º 4\n\n1.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/188b00/51705173.pdf)\n\nQUADRO N.º 5\n\n2.º ano\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/188b00/51705173.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os quadros do novo anexo (alterador 1) só vêm em imagem; substituiu-se apenas a parte textual do anexo, mantendo o título da unidade 24. O alterador 2 diz alterar o anexo da Portaria n.º 1116/99 (Engenharia Civil), mas o anexo que publica é o da Portaria n.º 730/2001 (Engenharia Mecânica), com quadros só em imagem: alvo contraditório, não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o anexo passa a ter a redacção do anexo da portaria; substituídas as unidades 25 a 31 pelo texto do novo anexo (quadros em imagem).",
+    "Alterador 2, 1.º: nova redacção do anexo, mas o anexo publicado é de outro curso e outra portaria; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

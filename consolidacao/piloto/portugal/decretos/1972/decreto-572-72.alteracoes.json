@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "depois da unidade 35",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "6. Serão designados por guardas rurais os membros das «milícias e intervenção» que passem para a dependência da Polícia de Segurança Pública.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:665173:por",
+    "alterador": "pt:dre:473286:por"
+  },
+  {
+    "artigo": "unidades 268-268",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 52.º As promoções a segundo-subchefe serão feitas mediante concurso entre os guardas de 1.ª e de 2.ª classes que reúnam as condições previstas no regulamento.",
+    "depois": "Art. 52.º As promoções a segundos-subchefes serão feitas por ordem de classificação no curso ou concurso entre guardas de 1.ª e 2.ª classes que reúnam as condições previstas no regulamento.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:665173:por",
+    "alterador": "pt:dre:473286:por"
+  }
+]

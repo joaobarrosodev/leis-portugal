@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:313025:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 20,
+      "texto": "5.º A subcomissão técnica é composta pelos seguintes elementos:\n\na) Dois representantes da Secretaria de Estado da Segurança Social, um dos quais coordenará os trabalhos.",
+      "alterador": 1
+    },
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "7.º A comissão permanente terá um presidente e um vice-presidente, que serão os representantes designados pela Secretaria de Estado da Segurança Social.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 32,
+      "texto": "7.º-A. Compete ao presidente:\n\na) Convocar as reuniões da comissão permanente e das subcomissões;\n\nb) Orientar globalmente os trabalhos da comissão permanente e da subcomissão técnica.\n\n7.º-B. Compete ao vice-presidente:\n\na) Apoiar tecnicamente e substituir o presidente no exercício das suas funções;\n\nb) Orientar e coordenar as reuniões de trabalho dos peritos médicos responsáveis pela elaboração dos capítulos relativos às várias especialidades.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 5.º (corpo e só a alínea a), sem [...]) — substituí as unidades 16-20 pelo novo texto, desaparecendo as antigas alíneas b) a d).",
+    "Alt. 1, 1.º: nova redação do n.º 7.º — substituí a unidade 32.",
+    "Alt. 1, 2.º: aditados os n.os 7.º-A e 7.º-B — inseridos depois da unidade 32."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

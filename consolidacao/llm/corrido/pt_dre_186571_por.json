@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:186571:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 3-H/99 rectifica o quadro de pessoal anexo, que só existe em imagem no original; não aplicável ao texto.",
+  "instrucoes": [
+    "Rectificação no quadro (acrescenta 'Inspector superior assessor - 3'): quadro em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

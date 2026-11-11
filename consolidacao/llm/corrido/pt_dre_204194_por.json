@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:204194:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Balazar, município de Póvoa do Varzim, com uma área de 504 ha, e na freguesia de Fradelos, município de Vila Nova de Famalicão, com uma área de 1373 ha, perfazendo uma área de 1877 ha.»",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: substituição da planta anexa, que só existe em imagem; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: retificação no n.º 1.º (unidade 9); o trecho citado («municípios de Póvoa do Varzim ... com uma área de 1537 ha») difere ligeiramente do texto atual («municípios da Póvoa de Varzim ... com a área de 1537 ha»), mas o alvo é inequívoco; trecho substituído pelo novo.",
+    "Alterador 1, n.º 2.º: substituição da planta (imagem); não aplicada.",
+    "Alteradores 2 e 3: anexação de prédios e renovação da zona de caça, sem instrução textual dirigida ao original; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

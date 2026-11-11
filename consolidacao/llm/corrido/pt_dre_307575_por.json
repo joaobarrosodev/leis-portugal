@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:307575:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a designação «Marinha» (unidade 11) é substituída por «Oficiais técnicos» ou «Serviço geral»; a instrução dá duas alternativas sem dizer qual se aplica, alvo do texto novo ambíguo, não aplicada.",
+  "instrucoes": [
+    "Alterador 1: substituição da designação «Marinha» na lotação anexa por «Oficiais técnicos» ou «Serviço geral»; não aplicada por ambiguidade."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

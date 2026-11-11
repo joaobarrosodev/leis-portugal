@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:280246:por",
+  "substituicoes": [
+    {
+      "de": 34,
+      "ate": 34,
+      "texto": "A presente concessão é outorgada por prazo indeterminado, mas não inferior a setenta e cinco anos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A prorrogação por 5 anos do prazo de execução das obras do artigo 6.º do caderno de encargos (Decreto do Governo n.º 36/84) não altera o texto do artigo; não aplicada.",
+  "instrucoes": [
+    "Alterador 1: nova redação do artigo 7.º do caderno de encargos (epígrafe igual); unidade 34 substituída.",
+    "Alterador 2: prorrogação do prazo do artigo 6.º até 22 de Dezembro de 1989; não textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 14-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Os preços máximos de venda ao consumidor dos adubos mencionados no n.º 1 são os constantes da lista anexa.\n\n4.º Os preços máximos fixados referem-se a adubos destinados ao consumo no continente, colocados na estação de destino, quando transportados por caminho de ferro, ou nos depósitos dos revendedores, quando transportados por camionagem, e a adubos a consumir nos Açores e na Madeira, colocados sobre camião nos cais dos portos destes arquipélagos, quando expedidos do continente.\n\n5.º Aos adubos referidos no n.º 1.º da presente portaria aplicam-se as disposições constantes dos n.os 3.º, 4.º, 5.º, 6.º e 7.º da [Portaria n.º 719/76](https://diariodarepublica.pt/dr/detalhe/portaria/719-1976-406878), de 27 de Novembro.\n\n6.º As alterações aos preços agora fixados poderão ser feitas por simples despacho, de acordo com o disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro.",
+    "depois": "3.º - (Revogado.)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n6.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:250065:por",
+    "alterador": "pt:dre:329810:por"
+  }
+]

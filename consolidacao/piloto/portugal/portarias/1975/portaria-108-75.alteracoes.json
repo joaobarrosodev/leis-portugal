@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 26-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Elaborar, para cada classe e posto, as seguintes listas ordenadas, com base numa votação secreta;",
+    "depois": "b) Elaborar para cada classe e posto as seguintes listas, ordenadas com base numa votação secreta, não se admitindo abstenções:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:160283:por",
+    "alterador": "pt:dre:337043:por"
+  },
+  {
+    "artigo": "unidades 34-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "16.º Na elaboração das listas referidas em b) do n.º 11.º, quando não exista maioria de dois terços na votação, proceder-se-á a nova votação e a tantas votações quantas as necessárias até conseguir essa maioria, não se admitindo abstenções.",
+    "depois": "16.º A inclusão de qualquer sargento nas listas referidas em 2) e 3) da alínea b) do n.º 11.º exige que na respectiva votação seja obtida uma maioria de dois terços, podendo o CR, sempre que o entender necessário, proceder a mais que uma votação em relação a qualquer sargento.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:160283:por",
+    "alterador": "pt:dre:337043:por"
+  }
+]

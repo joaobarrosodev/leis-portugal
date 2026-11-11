@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 16-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "(Áreas científicas e unidades de crédito)\n\nAs áreas científicas e as unidades de crédito necessárias à conclusão do curso distribuem-se da seguinte forma:\n\na) Áreas científicas obrigatórias:\n\nI) Análise Funcional ... 6\n\nII) Equações Diferenciais ... 4\n\nIII) Análise Numérica ... 4\n\nb) Áreas científicas optativas:\n\nI) Análise Funcional ... 8\n\nII) Equações Diferenciais ... 8\n\nIII) Análise Numérica ... 8\n\nIV) Probabilidades Aplicadas ... 8\n\nTotal ... 22",
+    "depois": "Estrutura curricular\n\nAs áreas científicas e as unidades de crédito necessárias à conclusão do curso são as seguintes:\n\nI) Áreas científicas obritatórias:\n\na) Análise Funcional ... (ver nota a) 18\n\nb) Equações Diferenciais ... (ver nota a) 18\n\nc) Análise Numérica ... (ver nota a) 18\n\nd) Probabilidades Aplicadas ... (ver nota a) 18\n\ne) Computação ... (ver nota a) 18\n\nII) Áreas científicas optativas:\n\na) Análise Funcional ... 6\n\nb) Equações Diferenciais ... 6\n\nc) Análise Numérica ... 6\n\nd) Probabilidades Aplicadas ... 6\n\ne) Computação ... 6\n\nf) Aplicações à Engenharia e à Física ... 6\n\nTotal ... 24\n\n(nota a) Sendo destas 12 unidades de crédito obtidas numa das áreas científicas e 6 unidades de crédito em áreas científicas diferentes da anterior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:309751:por",
+    "alterador": "pt:dre:420579:por"
+  }
+]

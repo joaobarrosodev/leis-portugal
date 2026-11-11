@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - Estabelecer que o rendeiro, emparcelante ou herdeiro directo, ainda que tenha idade superior a 60 anos, poderá beneficiar do Programa quando haja um seu descendente em linha recta em condições de assegurar a continuidade da exploração e desde que tal seja reconhecido pelo Ministério da Agricultura.",
+    "depois": "3 - Estabelecer que o rendeiro, emparcelante ou herdeiro directo, ainda que tenha idade superior a 60 anos, poderá beneficiar do Programa de Financiamento a Arrendatários Rurais - PAR, quando haja um seu descendente em linha recta, ou o respectivo cônjuge, em condições de assegurar a continuidade da exploração e desde que tal seja reconhecido pelo Ministério da Agricultura.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:621930:por",
+    "alterador": "pt:dre:663493:por"
+  }
+]

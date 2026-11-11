@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:309751:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 27,
+      "texto": "Estrutura curricular\n\nAs áreas científicas e as unidades de crédito necessárias à conclusão do curso são as seguintes:\n\nI) Áreas científicas obritatórias:\n\na) Análise Funcional ... (ver nota a) 18\n\nb) Equações Diferenciais ... (ver nota a) 18\n\nc) Análise Numérica ... (ver nota a) 18\n\nd) Probabilidades Aplicadas ... (ver nota a) 18\n\ne) Computação ... (ver nota a) 18\n\nII) Áreas científicas optativas:\n\na) Análise Funcional ... 6\n\nb) Equações Diferenciais ... 6\n\nc) Análise Numérica ... 6\n\nd) Probabilidades Aplicadas ... 6\n\ne) Computação ... 6\n\nf) Aplicações à Engenharia e à Física ... 6\n\nTotal ... 24\n\n(nota a) Sendo destas 12 unidades de crédito obtidas numa das áreas científicas e 6 unidades de crédito em áreas científicas diferentes da anterior.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 4.º; totalmente substituída depois pela do alterador 2, sem efeito no texto final.",
+    "Alterador 2, 1.º: nova redação do n.º 4.º; substituídas a epígrafe e o corpo (unidades 16-27).",
+    "Alterador 2, 2.º: aplicação a partir de 1987-1988; sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

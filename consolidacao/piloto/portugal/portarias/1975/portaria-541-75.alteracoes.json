@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º escalão - Professores agregados que exerceram, no ano lectivo de 1974-1975, no continente ou ilhas adjacentes;\n\n2.º escalão - Professores que exerceram, em 1974-1975, nos territórios de expressão portuguesa e ex-colónias;",
+    "depois": "1.º escalão - Professores agregados que exerceram no ano lectivo de 1974-1975, no continente ou ilhas adjacentes, em qualquer grau ou ramo de ensino, e as regentes escolares que terminaram o curso do magistério no ano lectivo de 1974-1975;\n\n2.º escalão - Professores que exerceram em 1974-1975, nos territórios de expressão portuguesa e ex-colónias, excepto as professoras agregadas casadas com militares que aí se encontravam em comissão de serviço militar obrigatório, as quais serão abrangidas pelo 1.º escalão. Deverão estas professoras apresentar, no acto do concurso, documento comprovativo da referida comissão passado pela entidade militar e declaração de como prestaram serviço docente no ano lectivo de 1974-1975;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:307604:por",
+    "alterador": "pt:dre:402685:por"
+  }
+]

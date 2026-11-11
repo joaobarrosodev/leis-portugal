@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:195592:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 fixa o período de vigência das taxas (31-3-1963 a 30-3-1966) sem alterar o texto da portaria; alterador 2 altera para 10$70 a taxa global do n.º 1.º sem dar nova redação (não é claro se a sobretaxa de 1$50 mencionada no texto se mantém), pelo que não se reescreve o texto.",
+  "instrucoes": [
+    "Alterador 1: fixação do período de vigência das taxas, sem alteração textual; não aplicado.",
+    "Alterador 2, n.º 1.º: taxa global do n.º 1.º passa a 10$70 por tonelada, sem nova redação; não aplicado por não ser alteração textual segura.",
+    "Alterador 2, n.º 2.º: entrada em vigor da alteração; não é do texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

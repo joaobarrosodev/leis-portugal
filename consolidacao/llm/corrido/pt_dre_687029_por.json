@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:687029:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 21,
+      "texto": "4.º-A\n\nRamos\n\nO curso desdobra-se nos seguintes ramos:\n\na) Gestão Industrial;\n\nb) Automóvel.\n\n4.º-B\n\nDuração do semestre lectivo\n\nO número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.",
+      "alterador": 4
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 947/99) e alterador 4 (Portaria n.º 123/2003, n.º 1.º): substituem o plano de estudos (anexo) por quadros que só vêm em imagem. Alterador 3 (Portaria n.º 25/2002): muda a denominação do curso para Engenharia e Gestão Industrial sem dar nova redação ao texto do original (alteração não textual).",
+  "instrucoes": [
+    "Alterador 1: novo plano de estudos em anexo só em imagem; não aplicado.",
+    "Alterador 2: altera o quadro n.º 1 do anexo à Portaria n.º 947/99, que é outro diploma; ignorado.",
+    "Alterador 3: mudança de denominação do curso, sem instrução textual; não aplicada.",
+    "Alterador 4, n.º 1.º: novo anexo (plano de estudos) só em imagem; não aplicado.",
+    "Alterador 4, n.º 2.º: aditados os n.os 4.º-A (Ramos) e 4.º-B (Duração do semestre lectivo), inseridos depois do 4.º."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

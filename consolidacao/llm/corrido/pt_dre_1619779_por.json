@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:1619779:por",
+  "substituicoes": [
+    {
+      "de": 73,
+      "ate": 73,
+      "texto": "7 - As competências delegadas em cada um dos Secretários de Estado compreendem os poderes necessários para decidirem sobre os procedimentos instruídos nos serviços e organismos mencionados, respectivamente, nos n.os 3 e 4, bem como as competências para a prática de actos decisórios ou de aprovação tutelar, incluindo as decisões relativas ao reconhecimento ou declaração de interesse público, de utilidade pública, de interesse geral ou similar, no âmbito das suas competências.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Despacho 1950/2010, n.º 1: nova redação do n.º 7 (unidade 73)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

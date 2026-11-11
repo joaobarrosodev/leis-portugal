@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:166398:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 16,
+      "texto": "4 - A emissão de certificados de aforro é autorizada até ao montante máximo de 2500 milhões de euros.\n\n5 - A emissão de outra dívida pública fundada, denominada em moeda com ou sem curso legal em Portugal, sob formas de representação distintas das indicadas nos números anteriores, é autorizada até ao montante de 2 milhões de euros.\n\n6 - O montante total das emissões de empréstimos públicos realizadas nos termos do disposto nos precedentes n.os 2 a 5 não pode, em caso algum, ultrapassar o limite fixado no artigo 62.º da [Lei n.º 32-B/2002](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), de 30 de Dezembro.\n\n7 - Por despacho do Ministro das Finanças, podem ser anulados montantes autorizados, mas não colocados, de alguma ou algumas das formas de representação de empréstimos públicos previstas nos números anteriores e aumentados, no mesmo valor, os montantes autorizados para outra ou outras dessas formas.\n\n8 - A presente resolução entra em vigor no dia seguinte ao da sua publicação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 11,
+      "texto": "3 - A emissão de dívida pública fundada sob a forma de bilhetes do Tesouro é autorizada até ao montante máximo de 5500 milhões de euros, de acordo com o disposto no [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), de 17 de Setembro, na versão introduzida pelo [Decreto-Lei n.º 91/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2003-571434), de 30 de Abril.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: n.os 1 e 2 mantêm-se ('...').",
+    "Alterador 1: novo n.º 3 (bilhetes do Tesouro) inserido depois da unidade 11.",
+    "Alterador 1: anterior n.º 3 passa a n.º 4 (unidade 12 renumerada).",
+    "Alterador 1: novo n.º 5 substitui o anterior n.º 4 (unidade 13).",
+    "Alterador 1: novo n.º 6 substitui o anterior n.º 5 (unidade 14).",
+    "Alterador 1: anteriores n.os 6 e 7 passam a 7 e 8 (unidades 15 e 16 renumeradas)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

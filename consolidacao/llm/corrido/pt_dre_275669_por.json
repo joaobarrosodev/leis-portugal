@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:275669:por",
+  "substituicoes": [
+    {
+      "de": 21,
+      "ate": 22,
+      "texto": "7.º - (Revogado.)\n\n8.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 7.º, alínea e): revoga os n.os 7.º e 8.º da Portaria n.º 331-G/81; unidades 21 e 22 passam a '(Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

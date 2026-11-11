@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:250065:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 17,
+      "texto": "3.º - (Revogado.)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n6.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 6.º: revoga os n.os 3.º, 4.º, 5.º e 6.º do original; unidades 14 a 17 passam a (Revogado.). A revogação das Portarias 719/76 e 39/77 e do Despacho Normativo 203/77 não é do original.",
+    "Alterador 1, restantes números: novo regime de preços próprio, sem texto do original a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:147645:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renováveis automaticamente por um período igual, a Sílvio Fernando Raposo Soares, com o número de identificação fiscal 182332004, a zona de caça turística do Monte do Algaremo (processo n.º 4061-DGRF), com sede na Rua do Frei Amador Arrais, bloco B, 2, rés-do-chão, 7670 Ourique, englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Panoias, município de Ourique, com a área de 563 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: no n.º 1.º, 'a Silvino Fernando Raposo Soares' passa a 'a Sílvio Fernando Raposo Soares'; substituída a unidade 6.",
+    "Alterador 2: anexação de prédios à zona de caça; não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

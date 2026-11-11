@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:255665:por",
+  "substituicoes": [
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "o) (Revogada.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 12.º, alínea b): revoga a alínea o) do n.º 2.º; unidade 26 passa a 'o) (Revogada.)'.",
+    "Alterador 1, art. 12.º, alínea a): revoga alínea do Decreto-Lei n.º 137/93, não o original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

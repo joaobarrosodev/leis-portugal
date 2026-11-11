@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:667106:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 7,
+      "texto": "3.º Nos casos em que não seja possível proporcionar alojamento a praças em serviço militar obrigatório, é-lhes devido o abono de ajudas de custo no quantitativo fixado para «outras praças do grupo A da Armada e praças readmitidas, contratadas e convocadas do Exército e da Força Aérea».",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2, n.º 1.º: substitui a tabela de ajudas de custo, que só existe em imagem (unidade 6); não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: aditado o n.º 3.º depois do n.º 2.º (unidade 7).",
+    "Alterador 2, n.º 1.º: substituição da tabela, só em imagem; não aplicada.",
+    "Alterador 2, n.º 2.º: regra própria da portaria alteradora, sem instrução de alteração do texto do original; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

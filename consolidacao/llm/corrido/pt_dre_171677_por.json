@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:171677:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Santa Vitória e Mombeja, município de Beja, com uma área de 369,6950 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: a nova planta só vem em imagem. Alterador 2: a exclusão de prédios (zona passa a 283 ha) e a nova planta não são alteração textual do original (não indica texto a substituir) e a planta só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º (área de 369,6950 ha); substituída a unidade 7.",
+    "Alterador 1, 2.º: substituição da planta só em imagem; não aplicada.",
+    "Alterador 2: exclusão de terrenos e nova área de 283 ha sem instrução textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

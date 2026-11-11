@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:291816:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Pela presente portaria é concessionada, pelo período de 12 anos, renováveis automaticamente por dois períodos iguais, ao Clube de Caçadores do Barranco do Velho, com o número de pessoa colectiva 502590785 e sede na Eira da Cevada, Salir, Loulé, a zona de caça associativa da Moita da Guerra (processo n.º 2593-DGF).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 7,
+      "texto": "2.º-A A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, por criação de zonas de interdição à caça (ao abrigo do artigo 115.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro), ou ser sujeita a condicionantes adicionais sempre que sejam introduzidas alterações de condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade com a actividade cinegética, até um máximo de 10% da área total da zona de caça.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 1175/2007) anexa prédios rústicos à zona de caça por planta (área total 1876 ha); não contém instrução de alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º; substituída a unidade 7.",
+    "Alterador 1: aditado o n.º 2.º-A; inserido depois da unidade 7.",
+    "Alterador 2: anexação de prédios por planta; sem alteração textual, registado em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

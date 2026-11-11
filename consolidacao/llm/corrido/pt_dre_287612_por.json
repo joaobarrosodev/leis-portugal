@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:287612:por",
+  "substituicoes": [
+    {
+      "de": 46,
+      "ate": 63,
+      "texto": "2.1 - Formato - o novo modelo de livrança tem o formato normalizado de 211 mm x 102 mm.\n\n2.2 - Texto - o novo modelo de livrança tem um texto geral e um texto adicional, dispostos da forma indicada no desenho IV anexo, contendo:\n\n2.2.1 - Texto geral:\n\na) Num sector superior, com a área de 211 mm x 86 mm, as seguintes indicações:\n\nLocal e data de emissão (ano, mês, dia); vencimento (ano, mês, dia); importância; valor; «No seu vencimento pagarei(emos) por esta única via de livrança a»; livrança n.º ...; assinatura(s) do(s) subscritor(es); local de pagamento/domiciliação; (banco/localidade); (NIB - número de identificação bancária); nome e morada do subscritor;\n\nb) No canto superior esquerdo, a indicação seguinte:\n\n«Imposto do selo pago por meio de guia»;\n\nc) Num sector inferior, com a área de 211 mm x 16 mm, a indicação seguinte:\n\n«É favor não escrever nem carimbar neste espaço.»\n\n2.2.2 - Texto adicional:\n\nNum sector superior esquerdo:\n\nA designação, iniciais e ou logótipo da entidade emissora ou tomadora.\n\n2.3 - Impressão - o novo modelo de livrança tem o fundo geral de segurança, cobrindo o sector superior, com as dimensões de 211 mm x 86 mm, e o texto geral referido em 2.2.1, ambos impressos em litografia.\n\n2.4 - Cores - o novo modelo de livrança tem o fundo geral de segurança e texto, conforme o n.º 2.2, em cores, de acordo com escolha da entidade emissora ou tomadora.\n\n2.5 - Tintas - o novo modelo de livrança tem o fundo geral impresso em tinta litográfica de segurança anti-rasura.\n\n2.6 - Papel - o novo modelo de livrança pode ser impresso em papel branco, liso, com gramagem contida entre 85 g/m2 e 95 g/m2.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 64,
+      "texto": "4.º A inserção do logótipo da emissora/sacadora nos impressos de letras de emissão particular, bem como nos das livranças, poderá ser feita por qualquer tipo de impressão ou através de carimbo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, n.º 4.º: substitui inscrições nos desenhos III e IV anexos, que só existem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: elimina o n.º 2.2 (unidade 63); absorvido pela nova redação do n.º 2.º.",
+    "Alterador 1, n.º 2.º: nova redação do n.º 2.º; a epígrafe '2.º Livranças:' (unidade 45) fica igual e as unidades 46 a 63 são substituídas pelo novo texto.",
+    "Alterador 1, n.º 3.º: adita o n.º 4.º; inserido após a unidade 64.",
+    "Alterador 1, n.º 4.º: altera inscrições nos desenhos anexos (imagem); não aplicado.",
+    "Alterador 1, n.os 5.º a 7.º: aprovam novos modelos e regras próprias do alterador, sem alterar o texto do original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

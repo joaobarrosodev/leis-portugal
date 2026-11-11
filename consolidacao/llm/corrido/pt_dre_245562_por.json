@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:245562:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Pela presente portaria a zona de caça turística de Vale do Freixo, processo n.º 1089-DGF, situada na freguesia e município de Penamacor, é transferida para Frederico José Oliveira Gaspar, entidade equiparada a pessoa colectiva, com o n.º 807712680, residente em Penha Garcia, Idanha-a-Nova.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2: nova transmissão da concessão para a ALCOGADO, sem nova redação de nenhum ponto do original; não é alteração textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1: retificação no n.º 1.º, \"Francisco\" passa a \"Frederico\"; unidade 8 substituída.",
+    "Alterador 2: transfere a concessão para a ALCOGADO por ato próprio, sem texto do original a mudar; em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

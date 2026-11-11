@@ -1,0 +1,37 @@
+{
+  "id": "pt:dre:300449:por",
+  "substituicoes": [
+    {
+      "de": 46,
+      "ate": 46,
+      "texto": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223b00/63026304.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 49,
+      "texto": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223b00/63026304.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 52,
+      "ate": 52,
+      "texto": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223b00/63026304.pdf)",
+      "alterador": 1
+    },
+    {
+      "de": 55,
+      "ate": 55,
+      "texto": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/223b00/63026304.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O conteúdo dos quadros n.os 1 a 4 do novo anexo só vem em imagem; substituíram-se apenas as ligações para o documento da Portaria n.º 1070/2003 (o texto do enquadramento do anexo é igual).",
+  "instrucoes": [
+    "Alterador 1, 1.º: o anexo passa a ter a redacção do anexo da portaria; texto igual ao atual salvo os quadros (em imagem), cujas ligações nas unidades 46, 49, 52 e 55 foram substituídas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

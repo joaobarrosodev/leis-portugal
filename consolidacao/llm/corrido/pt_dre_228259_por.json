@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:228259:por",
+  "substituicoes": [
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "9.º O pagamento da manteiga é efectuado pelo organismo de intervenção entre os 90 e os 120 dias seguintes à data da entrega do produto no entreposto frigorífico.",
+      "alterador": 1
+    },
+    {
+      "de": 63,
+      "ate": 63,
+      "texto": "24.º O pagamento do leite em pó é efectuado pelo organismo de intervenção entre os 90 e os 120 dias seguintes à data da entrega do produto no armazém.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 75,
+      "texto": "31.º O Governo, nos despachos referidos nos n.os 7.º e 22.º desta portaria, poderá prever ainda outras condições de aplicação do regime de intervenção que visem suspender a aceitação de pedidos de compra ao organismo de intervenção, designadamente quando forem ultrapassados os limites quantitativos fixados para a compra por aquele organismo de intervenção, sem que, no mercado, os preços tenham descido em correspondência com o excesso de produção verificado.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "1.º: nova redacção dos n.os 9.º (unidade 29) e 24.º (unidade 63).",
+    "2.º: aditado o n.º 31.º, inserido a seguir ao n.º 30.º (unidade 75)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

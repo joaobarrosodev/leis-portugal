@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:292747:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "c) Leite fermentado - o produto coagulado obtido por fermentação devido à acção de microrganismos específicos sobre o leite e produtos lácteos indicados no n.º 1 do n.º 6.º e com ou sem os produtos indicados no n.º 7.º.",
+      "alterador": 2
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "d) Leite fermentado aromatizado - o produto coagulado obtido por fermentação devido à acção de microrganismos específicas sobre o leite e produtos lácteos indicados no n.º 1 do n.º 6.º, com adição de produtos indicados no n.º 2 desse número e no n.º 8.º e com ou sem os ingredientes indicados no n.º 7.º, não podendo a parte láctea ser inferior a 75% (m/m) do produto final.",
+      "alterador": 2
+    },
+    {
+      "de": 91,
+      "ate": 93,
+      "texto": "",
+      "alterador": 2
+    },
+    {
+      "de": 108,
+      "ate": 108,
+      "texto": "1 - É permitida a comercialização de iogurtes e leites fermentados legalmente produzidos e comercializados num Estado membro da União Europeia com especificações técnicas diferentes das previstas no presente diploma desde que assegurem um nível de protecção das exigências essenciais relativas à saúde equivalentes e apresentem ainda, quanto aos iogurtes, flora específica viva e abundante no produto final.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: prorroga até 30 de Junho de 1993 o prazo do n.º 17.º sem alterar o seu texto (alteração não textual). Alterador 2, 2.º: a supressão dos teores de flora específica dos leites fermentados fixados no anexo não se aplica porque o anexo só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: prorrogação do prazo do n.º 17.º; não textual, não aplicada.",
+    "Alterador 2, 1.º: alíneas b), c) e d) do n.º 12.º suprimidas; unidades 91 a 93 eliminadas.",
+    "Alterador 2, 2.º: suprimidas as referências à flora viva e abundante nas alíneas c) e d) do n.º 1.º (unidades 12 e 13); teores do anexo não aplicados (imagem).",
+    "Alterador 2, 3.º: nova redacção do n.º 1 do n.º 16.º (unidade 108); o n.º 2 fica (...)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:318971:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1, 1.º: o anexo (plano de estudos) passa a ter nova redação, mas os quadros n.os 1 a 4 só vêm em imagem no documento original; não aplicado.",
+  "instrucoes": [
+    "Alt. 1, 1.º: substituição do anexo — não aplicada, quadros só em imagem.",
+    "Alt. 1, 2.º e 3.º: normas próprias do alterador (transição, aplicação), não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

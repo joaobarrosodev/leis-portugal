@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:174874:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1484/95), n.º 1.º: o quadro do anexo I passa a ter a redação do quadro do anexo I do alterador, que só vem em imagem (tal como o quadro original); não há texto a aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do quadro do anexo I (imagem); não aplicável.",
+    "Alterador 1, 2.º: entrada em vigor do próprio alterador; sem efeito no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

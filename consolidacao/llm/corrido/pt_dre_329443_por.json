@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:329443:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "5 - O pessoal com as condições exigidas pelo n.º 2 poderá antecipadamente ser submetido, desde que o requeira, à avaliação curricular prevista nesse mesmo número, se se encontrar nas seguintes situações:\n\na) De ser aposentado, por imposição do limite de idade, em data anterior à da concretização do concurso previsto no referido n.º 2;\n\nb) Se tiver requerido a sua aposentação, com base em incapacidade física, em data anterior à da concretização do mesmo referido concurso, com a condição, neste caso, de o provimento resultante dessa avaliação ser anulado se a entidade legalmente competente não conceder a aposentação requerida.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: adita o n.º 5 (com alíneas a) e b)); inserido depois da unidade 6."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:199172:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de São Manços, município de Évora, com uma área de 4001 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: a nova planta só vem em imagem. Alterador 2: renovação da zona de caça (seis anos, 1572 ha) sem nova redação do texto. Alterador 3: extinção da zona de caça municipal, sem revogação ou alteração textual da portaria; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º (unidade 7), mantendo a numeração 2.º.",
+    "Alterador 1, 2.º: substituição da planta, só em imagem; não aplicado.",
+    "Alterador 2, 1.º e 2.º: renovação e produção de efeitos, sem alteração textual; não aplicado.",
+    "Alterador 3, 1.º: extinção da zona de caça municipal, não é alteração textual; 2.º a 4.º dizem respeito a outra zona e a outra portaria; não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:668284:por",
+  "substituicoes": [
+    {
+      "de": 60,
+      "ate": 60,
+      "texto": "12.º Nos hospitais psiquiátricos e serviços de saúde mental equiparados a hospitais centrais especializados, designadamente Hospital de Júlio de Matos, Hospital de Miguel Bombarda, Hospital de Sobral Cid, Hospital do Lorvão, Hospital do Conde de Ferreira, Centro de Saúde Mental Ocidental do Porto (Magalhães Lemos), Centro de Saúde Mental Infantil de Lisboa, Centro de Saúde Mental Infantil de Coimbra, Centro de Saúde Mental Infantil do Porto e Centro de Saúde Mental de Vila Nova de Gaia, são aplicáveis as tabelas referidas nos n.os 10.º e 11.º para hospitais centrais.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Retificações aos n.os 10.º e 11.º («ortópica», «vasculação pulmonar»), a tabela corrigida (só em imagem), «Potências evocados auditivos» e «Transplante em helicópteros da FAP» incidem sobre tabelas que no texto atual só existem em imagem (ver documento original): não aplicadas.",
+  "instrucoes": [
+    "N.º 10.º: «Tratamento de ortópica» -> «Tratamento de ortóptica»: tabela só em imagem (unidade 57), não aplicada.",
+    "N.º 11.º: «Estudos de vasculação pulmonar» -> «vascularização»: tabela só em imagem (unidade 59), não aplicada.",
+    "Onde se lê/deve ler-se com quadro em imagem: não aplicada.",
+    "«Potências evocados auditivos» e «Transplante em helicópteros da FAP»: texto não existe no texto atual (tabelas em imagem), não aplicadas.",
+    "N.º 12.º: «serviço de saúde mental» -> «serviços de saúde mental»: aplicada na unidade 60.",
+    "«Hospital de Júlo de Matos» -> «Hospital de Júlio de Matos»: aplicada na unidade 60."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

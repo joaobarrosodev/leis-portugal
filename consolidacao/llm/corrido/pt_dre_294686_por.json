@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:294686:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia do Luso, município da Mealhada, com a área de 620,9375 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "As substituições da planta anexa (alteradores 1 e 2) não se aplicam: a planta só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 1.º (1336,25 ha) e substituição da planta; o n.º 1.º foi depois de novo alterado pelo alterador 2, ficando só a redacção final; planta não aplicada (imagem).",
+    "Alterador 2, 1.º: nova redacção do n.º 1.º (620,9375 ha) na unidade 6.",
+    "Alterador 2, 1.º: aditado o n.º 1.º-A, inserido a seguir à unidade 6."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

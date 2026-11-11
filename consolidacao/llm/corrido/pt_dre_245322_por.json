@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:245322:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Mourão, com a área de 1045 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: exclusão de prédios (área passa a 1052 ha) com nova planta em imagem, sem nova redação textual; a área ficou absorvida pela nova redação do n.º 2.º dada pelo alterador 2. As plantas (unidade 18) só vêm em imagem; não aplicadas.",
+  "instrucoes": [
+    "Alterador 1: exclui prédios da zona de caça (1052 ha) e anexa planta; não é alteração textual, não aplicada à parte.",
+    "Alterador 2: nova redação do n.º 2.º (1045 ha); unidade 7 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

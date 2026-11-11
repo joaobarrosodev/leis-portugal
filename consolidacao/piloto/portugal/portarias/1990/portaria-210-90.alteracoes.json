@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 6-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º O n.º 3.º da [Portaria n.º 242/89](https://diariodarepublica.pt/dr/detalhe/portaria/242-1989-614634), de 1 de Abril, passa a ter a seguinte redacção:\n\n3.º Os agricultores estão obrigados a apresentar, no acto de inscrição:\n\na) Documento comprovativo de que se encontram inscritos na Segurança Social como produtores agrícolas ou, no caso dos agrupamentos, como contribuintes no âmbito de uma actividade agrícola;\n\nb) Boletim de vacinação da febre aftosa, no caso dos bovinos, excepto quando não tenha havido campanhas de vacinação.",
+    "depois": "1.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:333339:por",
+    "alterador": "pt:dre:152136:por;pt:dre:571265:por"
+  },
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Para o corrente ano e relativamente às indemnizações compensatórias com vencimento em 1 de Setembro próximo, o prazo de inscrição decorre durante o mês de Abril.",
+    "depois": "2.º Para o corrente ano e relativamente às indemnizações compensatórias com vencimento em 1 de Setembro próximo, o prazo de inscrição decorre durante o mês de Abril e até 11 de Maio.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:333339:por",
+    "alterador": "pt:dre:152136:por;pt:dre:571265:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Os quantitativos das taxas que constituem receita da Comissão Reguladora das Oleaginosas e Óleos Vegetais e que incidem sobre os produtos sujeitos à sua disciplina, quer sejam produzidos no continente e ilhas, quer provenientes do ultramar, quer importados do estrangeiro, são os que constam da relação B anexa à presente portaria.\n\n3.º - 1. A Comissão Reguladora das Oleaginosas e Óleos Vegetais, relativamente aos produtos originários da metrópole, procederá à liquidação das quantias correspondentes às taxas devidas, com base nas saídas mensais dos produtos do estabelecimento fabril indicadas nos mapas do movimento fabril.\n\n2. Os mapas referidos neste número deverão ser enviados à Comissão Reguladora nos prazos fixados pelo organismo para este efeito.\n\n4.º - 1. As importâncias liquidadas nos termos do número anterior deverão ser depositadas pelos produtores nacionais na Caixa Geral de Depósitos, Crédito e Previdência no prazo de trinta dias, a contar da data da guia de depósito emitida pela Comissão Reguladora.\n\n2. Exceptuam-se do disposto no n.º 1 deste número as importâncias de montante inferior a 1000$00, as quais poderão ser pagas directamente por vale de correio, cheque ou à boca do cofre da Comissão Reguladora das Oleaginosas e Óleos Vegetais.\n\n5.º A liquidação e cobrança das taxas a pagar pelos importadores, em relação aos produtos provenientes do ultramar e aos importados do estrangeiro, serão efectuadas nos termos do disposto no [Decreto-Lei n.º 47466](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47466-1966-488076), de 31 de Dezembro de 1966.",
+    "depois": "2.º - (Revogado.)\n\n3.º - (Revogado.)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:676008:por",
+    "alterador": "pt:dre:256646:por"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:216330:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 406/99): acrescenta a opção V - Ortopédica às observações do quadro anexo, que só existe em imagem; alterador 2 (Portaria n.º 1308/2006): o texto dado acaba no preâmbulo, sem nenhuma instrução dirigida ao original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: aditamento da opção «V - Ortopédica» em «Opções (Próteses)» no quadro anexo (imagem): não aplicado.",
+    "Alterador 1, 2.º: produção de efeitos retroativa: não textual, nada a fazer.",
+    "Alterador 2: texto truncado depois de \"Manda o Governo ... o seguinte:\", sem instrução visível: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

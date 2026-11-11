@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos nas freguesias de Achete, Alcanhões, Póvoa de Santarém, São Vicente do Paul e Vale Figueira, município de Santarém, com uma área de 1632,28 ha.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Achete, São Vicente do Paul, Alcanhões, Póvoa de Santarém e Vale Figueira, município de Santarém, com a área de 1544,7088 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:617963:por",
+    "alterador": "pt:dre:241661:por"
+  }
+]

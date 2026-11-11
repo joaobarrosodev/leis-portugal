@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:307604:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 9,
+      "texto": "1.º escalão - Professores agregados que exerceram no ano lectivo de 1974-1975, no continente ou ilhas adjacentes, em qualquer grau ou ramo de ensino, e as regentes escolares que terminaram o curso do magistério no ano lectivo de 1974-1975;\n\n2.º escalão - Professores que exerceram em 1974-1975, nos territórios de expressão portuguesa e ex-colónias, excepto as professoras agregadas casadas com militares que aí se encontravam em comissão de serviço militar obrigatório, as quais serão abrangidas pelo 1.º escalão. Deverão estas professoras apresentar, no acto do concurso, documento comprovativo da referida comissão passado pela entidade militar e declaração de como prestaram serviço docente no ano lectivo de 1974-1975;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º; corpo e 3.º escalão com '...' mantidos; substituídas as unidades 8-9 (1.º e 2.º escalões).",
+    "Alterador 1, 2.º: altera a Portaria n.º 426-A/75, não o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

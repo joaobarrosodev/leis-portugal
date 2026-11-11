@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:674014:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 7,
+      "texto": "1.º-A\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 90.\n\n2 - A frequência global do curso não pode exceder 360 alunos.\n\n1.º-B\n\nUnidades curriculares de opção\n\nO elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Os novos planos de estudos (anexo) da Portaria n.º 65/2001 (1.º) e da Portaria n.º 706/2005 (1.º) só vêm em quadros em imagem (ver quadro no documento original): não aplicados.",
+  "instrucoes": [
+    "Portaria 65/2001, 1.º: novo plano de estudos (anexo) só em imagem: não aplicado.",
+    "Portaria 65/2001, 2.º a 4.º (duração do ano lectivo, transição, aplicação): normas próprias do alterador, não são alterações textuais do original.",
+    "Portaria 706/2005, 1.º: nova redação do anexo, quadros só em imagem: não aplicada.",
+    "Portaria 706/2005, 2.º, 4.º e 5.º: normas próprias do alterador, nada a mudar.",
+    "Portaria 706/2005, 3.º: aditados os n.os 1.º-A e 1.º-B: inseridos depois do n.º 1.º (unidade 7)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

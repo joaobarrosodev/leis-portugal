@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:228222:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O quadro anexo (unidade 9) só existe em imagem: a extinção do lugar de subinspector de material de voo e o aditamento de lugares (Portaria n.º 384/88) e a criação de um lugar de engenheiro civil de 2.ª classe (Portaria n.º 981/98) alteram esse quadro e não se podem aplicar ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º a 3.º: extingue e acrescenta lugares no quadro anexo (imagem); não aplicado.",
+    "Alterador 2: cria um lugar no quadro anexo (imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

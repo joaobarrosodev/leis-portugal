@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:640579:por",
+  "substituicoes": [
+    {
+      "de": 45,
+      "ate": 49,
+      "texto": "3.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 1307/2010), artigo 3.º: revoga o n.º 3.º da Portaria 1165/2007; as unidades 45 a 49 (número, corpo e anexo III que ele introduzia) passam a «3.º - (Revogado.)».",
+    "Alterador 1, artigos 1.º, 2.º e 4.º: novo anexo III próprio, actualizações e produção de efeitos; não alteram o texto do original.",
+    "Alterador 2 (Portaria 140/2017): altera a Portaria 931/2006 e os seus anexos, não o original; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

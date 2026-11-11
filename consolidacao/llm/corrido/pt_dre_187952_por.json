@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:187952:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 10,
+      "texto": "2.º - (Revogado.)\n\n3.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A revogação do n.º 1.º 'na parte que se refere ao plano de estudos do curso' é parcial sem texto delimitado no n.º 1.º, e o 3.º da Portaria n.º 381/2004 substitui o plano de estudos anexo, que só vem em imagem. Não aplicados.",
+  "instrucoes": [
+    "9.º, a): revoga os n.os 2.º e 3.º: unidades 9 e 10 passam a '(Revogado.)'.",
+    "9.º, a): revogação do n.º 1.º só na parte do plano de estudos: alvo não delimitável no texto, não aplicada.",
+    "3.º: novo plano de estudos (anexo em imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

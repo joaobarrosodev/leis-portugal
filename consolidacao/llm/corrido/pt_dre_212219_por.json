@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:212219:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "A Direcção-Geral das Alfândegas providenciará no sentido de estarem concluídos, no final do ano de 1978, os cursos de formação adequados a esta especialização.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: prazo dos cursos de formação do n.º 1 passa para o final do ano de 1978: substituído \"1977\" por \"1978\" na unidade 5.",
+    "Alterador 2: é o mesmo diploma (Portaria n.º 766/77) repetido; a mesma instrução já está aplicada, nada mais a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

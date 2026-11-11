@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:197517:por",
+  "substituicoes": [
+    {
+      "de": 39,
+      "ate": 42,
+      "texto": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2: o novo plano de estudos (anexo) só vem em imagem; a mudança de denominação do curso (alterador 2, 1.º) não é alteração textual com nova redação; o 2.º do alterador 1 (Regulamento) é norma própria, sem instrução de alteração do 9.º do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos em anexo, só em imagem; não aplicado.",
+    "Alterador 1, 2.º a 4.º: regulamento, aplicação e transição como normas próprias; não aplicados ao texto.",
+    "Alterador 2, 1.º: nova denominação do curso (Espaço Lusófono: Lusofonia e Relações Internacionais), sem nova redação do texto; não aplicado.",
+    "Alterador 2, 2.º: novo anexo, só em imagem; não aplicado. 3.º a 6.º: normas próprias.",
+    "Alterador 3, 1.º: nova redação do número com a epígrafe Regulamento (9.º); n.os 1 a 4 (unidades 39-42) substituídos pelo novo corpo; epígrafe mantém-se.",
+    "Alterador 3, 2.º e 3.º: produção de efeitos e vigência; não são do texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

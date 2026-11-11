@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:670358:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 2.º da Portaria n.º 653/2004 revoga a Portaria n.º 608/2003 só na parte respeitante aos aeroportos e aeródromos dos Açores; as taxas estão em tabelas só em imagem, pelo que a revogação parcial não é textual: não aplicada.",
+  "instrucoes": [
+    "2.º: revogação parcial (aeroportos e aeródromos dos Açores) sobre tabelas em imagem: não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

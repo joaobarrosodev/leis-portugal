@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:147651:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "4.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16500/0583505835.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "As alterações do n.º 1.º ao plano de estudos (Comunicar em Espanhol, Língua Estrangeira I, II ou III, chamada de nota) incidem sobre um quadro que só vem em imagem; aplicaram-se apenas através da troca da ligação para o plano republicado (n.º 2.º).",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: alterações a designações no plano de estudos do anexo n.º 1 (quadro em imagem); não aplicáveis ao texto.",
+    "Alterador 1, n.º 2.º: republicação do plano de estudos; substituída a ligação da unidade 24 pela do anexo republicado.",
+    "Alterador 1, n.º 3.º: revogado o n.º 4.º; unidade 13 passa a '4.º - (Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

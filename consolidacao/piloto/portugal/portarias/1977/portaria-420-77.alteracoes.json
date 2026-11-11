@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º A constituição do júri que fará o ordenamento relativo a que se refere o n.º 3.º é o seguinte:",
+    "depois": "5.º A constituição do júri, a nomear por despacho do Chefe do Estado-Maior da Armada, que fará o ordenamento relativo a que se refere o n.º 3.º é a seguinte:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:250623:por",
+    "alterador": "pt:dre:181579:por"
+  },
+  {
+    "artigo": "unidades 12-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Chefe da 1.ª Repartição da Direcção do Serviço de Instrução;\n\nChefe da 1.ª Repartição da Direcção do Serviço do Pessoal;\n\nDois oficiais superiores, engenheiros hidrógrafos, a indicar pelo Instituto Hidrográfico.",
+    "depois": "2 oficiais superiores da classe de marinha, das áreas do pessoal e da instrução, a propor pelo superintendente dos Serviços do Pessoal da Armada;\n\n2 oficiais superiores, engenheiros hidrógrafos, a propor pelo director-geral do Instituto Hidrográfico.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:250623:por",
+    "alterador": "pt:dre:181579:por"
+  }
+]

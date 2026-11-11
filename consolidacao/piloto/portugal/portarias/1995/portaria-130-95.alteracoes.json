@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Enfermeiros de outros serviços dependentes do Ministério da Saúde - 15%;",
+    "depois": "c) Enfermeiros provenientes da área da prestação directa de cuidados de estabelecimentos de saúde pertencentes a outros ministérios: 15%;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:143297:por",
+    "alterador": "pt:dre:631429:por;pt:dre:366674:por"
+  },
+  {
+    "artigo": "unidades 25-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Diploma de estudos superiores especializados em Enfermagem de Saúde Infantil e Pediátrica\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/030b00/07050706.pdf)",
+    "depois": "Enfermagem de Saúde Infantil e Pediátrica\n\nDiploma de estudos superiores especializados\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/137b00/29262927.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:143297:por",
+    "alterador": "pt:dre:631429:por;pt:dre:366674:por"
+  }
+]

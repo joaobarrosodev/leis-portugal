@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:185492:por",
+  "substituicoes": [
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "2 - As vagas eventualmente não utilizadas num dos contingentes revertem, se necessário, para qualquer outro contingente, de acordo com regras a fixar pelo órgão competente da Escola e a divulgar através do edital a que se refere o n.º 9.º da [Portaria n.º 239/94](https://diariodarepublica.pt/dr/detalhe/portaria/239-1994-266642).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1, 1.º, n.º 1: nova redação do anexo I (plano de estudos), que só vem em imagem, no original e no alterador.",
+  "instrucoes": [
+    "Alt. 1, 1.º, n.º 1: anexo I substituído - só imagem, não aplicado.",
+    "Alt. 1, 1.º, n.º 2: nova redação do n.º 2 do n.º 3.º (unidade 21) - substituída.",
+    "Alt. 1, 2.º e 3.º: transição e entrada em vigor - normas próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

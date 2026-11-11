@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:302139:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Alqueva e Amieira, município de Portel, com a área de 1563 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1, 2.º: a substituição da planta anexa não se aplica, a planta só existe em imagem no documento original.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 2.º (área 1563 ha); substituída a unidade 7, mantendo o número '2.º'.",
+    "Alt. 1, 2.º: substituição da planta anexa; só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

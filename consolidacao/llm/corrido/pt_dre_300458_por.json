@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:300458:por",
+  "substituicoes": [
+    {
+      "de": 53,
+      "ate": 53,
+      "texto": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/182b00/47454745.pdf)",
+      "alterador": 2
+    },
+    {
+      "de": 63,
+      "ate": 63,
+      "texto": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/138b00/48724873.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os novos quadros n.º 4 (alterador 1) e n.º 1 (alterador 2) só vêm em imagem; substituíram-se apenas as ligações para o documento original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do quadro n.º 4 do anexo; ligação da unidade 63 substituída (quadro em imagem).",
+    "Alterador 2: nova redacção do quadro n.º 1 do anexo; ligação da unidade 53 substituída (quadro em imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

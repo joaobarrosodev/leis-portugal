@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:265493:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 527/2002) altera o quadro n.º 4 do anexo e alterador 2 (Portaria n.º 749/2003) altera o quadro n.º 1 do anexo; os quadros novos só vêm em imagem (ver quadro no documento original), e os cabeçalhos são iguais aos atuais; não aplicados.",
+  "instrucoes": [
+    "Alterador 1: nova redação do quadro n.º 4 do anexo (unidade 64); só em imagem, não aplicada.",
+    "Alterador 2: nova redação do quadro n.º 1 do anexo (unidade 53); só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

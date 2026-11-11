@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:201638:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 52/78) extingue a Companhia de Adidos a que se referem os n.os 3.º e 4.º, sem dar nova redação nem revogar esses números: é uma alteração que não é textual.",
+  "instrucoes": [
+    "Alterador 1: extinção da Companhia de Adidos (n.os 3.º e 4.º) sem alteração textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

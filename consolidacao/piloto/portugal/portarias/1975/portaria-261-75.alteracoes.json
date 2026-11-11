@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º São criados os Centros de Instrução n.os 6, 7, 8 e 9, com a localização e finalidade que para cada um se indica:\n\nCentro de Instrução n.º 6 - a funcionar na Base Aérea n.º 1, para instrução básica de pilotagem;\n\nCentro de Instrução n.º 7 - a funcionar na Base Aérea n.º 2, para instrução elementar de pilotagem e para integração das escolas de formação e preparação militar e técnica;\n\nCentro de Instrução n.º 8 - a funcionar na Base Aérea n.º 3, para instrução complementar de pilotagem e navegação de aviões plurimotores e instrução de pilotagem de helicópteros e para integração das escolas de formação militar básica e complementar;\n\nCentro de Instrução n.º 9 - a funcionar na Base Aérea n.º 7, para instrução básica de pilotagem.",
+    "depois": "2.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:161964:por",
+    "alterador": "pt:dre:408134:por"
+  }
+]

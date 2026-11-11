@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:209060:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: novo plano de estudos (anexo só em imagem) e novos ramos enunciados como disposição própria, sem instrução de nova redação do n.º 2.º; alterador 2: mudança de denominação do curso (não textual), nova estrutura de ramos sem instrução de nova redação do n.º 2.º, e novo anexo só em imagem. Nada aplicado com segurança.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo plano de estudos (imagem); não aplicado.",
+    "Alterador 1, n.º 2.º: lista de ramos própria, sem alterar expressamente o n.º 2.º do original; não aplicada.",
+    "Alterador 2, n.º 1.º: nova denominação do curso (não textual); não aplicada.",
+    "Alterador 2, n.º 2.º: nova estrutura de ramos, sem alterar expressamente o n.º 2.º; não aplicada.",
+    "Alterador 2, n.º 3.º: novo anexo (quadros em imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

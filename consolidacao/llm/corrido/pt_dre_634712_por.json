@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:634712:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "4.º Não são permitidas quaisquer emendas, rasuras ou entrelinhas no preenchimento dos documentos, admitindo-se o uso de algarismos nas referências numéricas.",
+      "alterador": 1
+    },
+    {
+      "de": 14,
+      "ate": 15,
+      "texto": "a) Nome completo, estado civil, naturalidade, residência habitual dos outorgantes, bem como das pessoas singulares por estes representadas, a firma e o tipo das sociedades e as denominações das pessoas colectivas que os outorgantes representem, com indicação da respectiva sede, e ainda a menção do nome do cônjuge e do regime de bens, sendo casado, ou, sendo solteiro, a indicação de ser maior;\n\nb) Nacionalidade, se algum dos outorgantes não for português, salvo se intervier na qualidade de representante;\n\nc) Número de contribuinte, caso seja pessoa singular, ou, tratando-se de pessoa colectiva, o seu número de identificação, respectivo número de matrícula na conservatória do registo comercial e montante do capital social, quando devido.",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "7.º São obrigatoriamente preenchidos todos os espaços referidos no número anterior, devendo inutilizar-se os não inteiramente ocupados pelo texto e trancar-se os campos alternativos ou as quadrículas não utilizadas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "N.º 2.º do alterador 1 (e do alterador 2, idêntico): substituição dos campos D e E dos modelos A e B, que só vêm em imagem no anexo; não aplicada.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 882/94), 1.º: nova redacção do n.º 4.º; substituída a unidade 12.",
+    "Alterador 1, 1.º: n.º 5.º com corpo «...» (mantém-se a unidade 13), nova alínea a), nova alínea b) e alínea c) aditada; substituídas as unidades 14 e 15.",
+    "Alterador 1, 1.º: nova redacção do n.º 7.º; substituída a unidade 17.",
+    "Alterador 1, 2.º: campos D e E dos modelos em anexo (só em imagem); não aplicado.",
+    "Alterador 2: é a mesma Portaria 882/94 repetida; as mesmas alterações já ficaram aplicadas pelo alterador 1, nada a acrescentar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

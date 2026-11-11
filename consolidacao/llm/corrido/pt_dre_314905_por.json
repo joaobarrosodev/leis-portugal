@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:314905:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 6,
+      "texto": "1.º É criada uma unidade da Armada destinada a integrar o pessoal dos três ramos das Forças Armadas nomeado para prestar serviço no Quartel-General do Comando-Chefe da Área Ibero-Atlântica e a centralizar todos os assuntos relativos à sua administração, designada por Unidade de Apoio ao Comando-Chefe da Área Ibero-Atlântica e abreviadamente por UAAI.\n\n2.º O comandante da UAAI será o mais antigo capitão-de-mar-e-guerra da classe de Marinha em serviço naquele Quartel-General, que desempenhará essas funções em acumulação com as que ali exerce, e o imediato um oficial superior da classe de Marinha.",
+      "alterador": 1
+    },
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "3.º O comandante da UAAI fica directamente subordinado ao comandante naval.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: nova redação dos n.os 1.º, 2.º e 3.º — substituí as unidades 5 e 6; a redação do 3.º foi depois substituída pelo alterador 2.",
+    "Alt. 2: nova redação do n.º 3.º — substituí a unidade 7 (redação final)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

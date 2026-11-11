@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:142706:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os dois alteradores mudam linhas da tabela de vagas do anexo, que só vem em imagem (unidade 16): a Portaria n.º 1338/2005 traz a nova tabela também em imagem e a Portaria n.º 207/2006 ('Escola Superior de Saúde de Portalegre - 140.') não tem linha correspondente no texto atual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação da parte do anexo relativa à Escola Superior de Saúde de Beja (tabela em imagem) - não aplicada.",
+    "Alterador 2, 1.º: nova redação da parte do anexo relativa à Escola Superior de Saúde de Portalegre - tabela original só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

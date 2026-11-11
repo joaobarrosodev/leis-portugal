@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:673385:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação «Div. 06» -> «Div. 03» no cap. 80 incide sobre o mapa de transferências de verbas, que só existe em imagem (ver documento original): não aplicada.",
+  "instrucoes": [
+    "Cap. 80: «Div. 06» -> «Div. 03»: mapa só em imagem (unidade 3), não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

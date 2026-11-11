@@ -1,0 +1,38 @@
+{
+  "id": "pt:dre:308538:por",
+  "substituicoes": [
+    {
+      "de": 77,
+      "ate": 77,
+      "texto": "Nota. - O conselho científico oferecerá em cada ano Direito Civil e pelo menos mais duas das restantes disciplinas. O aluno cursará necessariamente Direito Civil e deverá optar, para os efeitos do n.º 2 do n.º 5.º, por outra das disciplinas em causa.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 74,
+      "texto": "Filosofia do Direito;\n\nDireito Penal;",
+      "alterador": 1
+    },
+    {
+      "depois_de": 12,
+      "texto": "e) Direito das Comunidades Europeias.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 77,
+      "texto": "e) Área de especialização em Direito das Comunidades Europeias:\n\nDireito Institucional Comunitário;\n\nDireito Económico Comunitário;\n\nIntegração Económica.\n\nNota. - Para os efeitos do n.º 2 do n.º 5.º, o aluno escolherá duas das três áreas científicas indicadas.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação da alínea d) do anexo; inseridas Filosofia do Direito e Direito Penal depois da unidade 74 e substituída a nota (unidade 77).",
+    "Alterador 2, 2.º-I: aditada a alínea e) ao n.º 1.º; inserida depois da unidade 12.",
+    "Alterador 2, 2.º-II: aditada a alínea e) ao anexo, com nota; inserida depois da unidade 77.",
+    "Alterador 2, 1.º e 3.º: criação da especialização e entrada em funcionamento; normas próprias, sem alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

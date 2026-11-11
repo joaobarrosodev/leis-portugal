@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:329850:por",
+  "substituicoes": [
+    {
+      "de": 36,
+      "ate": 37,
+      "texto": "2 - Os agentes integrados no quadro paralelo têm acesso aos mesmos concursos que os funcionários dos quadros privativos dos cartórios e conservatórias, dos quais passarão a ser opositores obrigatórios dois anos após a publicação da presente portaria.\n\n3 - Nos concursos a que se refere o número anterior, os funcionários dos quadros privativos dos cartórios e conservatórias têm preferência sobre os agentes integrados no quadro paralelo, gozando de igual preferência os assalariados existentes à data da publicação da presente portaria quanto aos concursos para provimento de lugares de escriturário-dactilógrafo.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 10.º: nova redação dos n.os 2 e 3 do n.º 6.º (1 e 4 ficam); substituídas as unidades 36 e 37. O resto da Portaria n.º 711/78 cria outro quadro paralelo e não altera o original.",
+    "Alterador 2: despacho que altera a estrutura do quadro paralelo ao abrigo do n.º 2.º, 1, sem instrução textual dirigida ao original; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

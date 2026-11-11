@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:276400:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Santo Isodoro, município de Mafra, com a área de 1055,1377 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "A substituição da planta anexa (Portaria n.º 1067/94 e Portaria n.º 957/97) não é aplicável: a planta só existe em imagem no documento original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (área 1891,9874 ha); substituída depois pela redação do alterador 2 na mesma unidade 6.",
+    "Alterador 1: a planta anexa substitui a anterior; não aplicada (só em imagem).",
+    "Alterador 2: nova redação do n.º 1.º (área 1055,1377 ha), mantendo o número 1.º; unidade 6 substituída.",
+    "Alterador 2: aditado o n.º 1.º-A; inserido a seguir à unidade 6."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 28",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "5.º-A\n\nDuração\n\nO curso de especialização tem a duração de dois semestres lectivos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:239988:por",
+    "alterador": "pt:dre:239778:por"
+  }
+]

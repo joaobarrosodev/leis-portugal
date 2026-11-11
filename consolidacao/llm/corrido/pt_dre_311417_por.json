@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:311417:por",
+  "substituicoes": [
+    {
+      "de": 72,
+      "ate": 72,
+      "texto": "4) Tirocínios e estágios de adaptação às funções próprias das diferentes especialidades, onde se inclui, para os mecânicos de material terrestre, a condução de viaturas automóveis militares e a operação e manutenção do material dos serviços de incêndios.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do 4) da alínea b) do n.º 1 do n.º 5.º; substituída a unidade 72."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

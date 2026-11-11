@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:272597:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Aljustrel, Messejana, Rio de Moinhos e São João de Negrilhos, município de Aljustrel, com a área de 7870 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: substituição da planta anexa, que só vem em imagem. Alteradores 2 (renovação da transferência de gestão, área de 5802 ha) e 3 (exclusão de 214 ha, área total de 5588 ha, e nova planta) não dão nova redação a nenhum ponto do original e as plantas só vêm em imagem; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 2.º (área de 7870 ha); aplicado na unidade 7.",
+    "Alterador 1, n.º 2.º: planta anexa substituída; só imagem, não aplicado.",
+    "Alterador 2: renova a transferência de gestão por seis anos com 5802 ha e nova planta; sem alteração textual do original, não aplicado.",
+    "Alterador 3, artigo 1.º: exclui terrenos (214 ha), área total 5588 ha e nova planta; sem alteração textual do original, não aplicado. Artigo 2.º concessiona outra zona de caça; não é do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

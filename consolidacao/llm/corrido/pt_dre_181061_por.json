@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:181061:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "7 - (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1 (Despacho Normativo n.º 102/85), n.º 3: a classificação de cursos anexa (unidades 23-24) é substituída pelo anexo III do alterador, que não vem no texto (só imagem no original); n.º 2: alargamento da rede escolar do anexo III às escolas do anexo II do alterador, cujo conteúdo também não vem em texto. Não aplicados.",
+  "instrucoes": [
+    "Alt. 1, n.º 1: cria cursos (norma própria), não altera o texto do original.",
+    "Alt. 1, n.º 2: alarga a rede escolar do anexo III - conteúdo não disponível em texto, não aplicado.",
+    "Alt. 1, n.º 3: substitui a classificação de cursos anexa - anexo do alterador não disponível, não aplicado.",
+    "Alt. 2, n.os 1 a 4: dirigidos ao Despacho Normativo n.º 142/84 ou normas próprias - ignorados.",
+    "Alt. 2, n.º 5: revoga o n.º 7 do Despacho Normativo n.º 84/85 - unidade 16 passa a '7 - (Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

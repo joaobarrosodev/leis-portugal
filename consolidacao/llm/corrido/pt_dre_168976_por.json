@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:168976:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 (a mesma Portaria n.º 276-A/94) substituem as taxas do anexo por um novo tarifário que só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novas taxas (anexo) só em imagem; não aplicadas.",
+    "Alterador 2: repete o alterador 1; não aplicado pelo mesmo motivo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
