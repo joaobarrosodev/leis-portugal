@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-12-21'
+version_history:
+  file: portaria-747-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-12-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-12-21'
+    amending: pt:dre:195460:por
+    amending_title: Portaria n.º 911/73
+    changes:
+    - Altera Artigo unidades 53-57
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:56:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 911/73. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1972/portaria-747-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -206,15 +221,17 @@ e) O valor das entregas suplementares relativas a cada ano contratual não será
 
 1. Os depósitos de poupança vencerão juros de taxa progressiva, com os seguintes limites máximos:
 
-a) 5,75 por cento, no primeiro ano de duração do depósito;
+a) 6,5%, no primeiro ano de duração do depósito;
 
-b) 6 por cento, no segundo ano;
+b) 6,75%, no segundo ano;
 
-c) 6,25 por cento, no terceiro ano;
+c) 7%, no terceiro ano:
 
-d) 6,5 por cento, no quarto e quinto anos;
+d) 7,25%, no quarto e quinto anos;
 
-e) 6,75 por cento, nos anos subsequentes.
+e) 7,5%, nos anos subsequentes.
+
+> Alterado pelo/a [Portaria n.º 911/73](https://diariodarepublica.pt/dr/detalhe/portaria/911-1973-195460), publicado em 1973-12-21.
 
 2. Os juros contar-se-ão anualmente sobre as importâncias sucessivamente entregues, pelo tempo em que permaneçam na conta do depósito, e poderão ser liquidados ao depositante ou capitalizados na mesma conta, considerando-se, neste último caso, como entregas suplementares, nos termos do n.º 8.º, ou, se o depositante o preferir, como prestações regulares, para os efeitos do n.º 7.º
 

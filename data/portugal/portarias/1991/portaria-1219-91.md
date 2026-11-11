@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-05-01'
+version_history:
+  file: portaria-1219-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-12-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-05-01'
+    amending: pt:dre:152540:por
+    amending_title: Portaria n.º 265-A/94
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1219/1991/12/26/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:40:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 265-A/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-1219-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -169,7 +184,9 @@ Manda o Governo, pelo Ministro das Finanças, o seguinte:
 
 1.º A taxa de juro anual nominal aplicável no cálculo do valor trimestral de reembolso dos certificados de aforro será igual à média das taxas anuais nominais praticadas nos depósitos de residentes, em moeda nacional, com prazo superior a 180 dias, mas não a um ano, pelas três instituições de crédito com maior saldo desse tipo de depósitos, ponderada pelos respectivos saldos e que estejam em vigor no último dia do mês anterior ao início do trimestre a que respeitar o juro, expressa em décimas de milésimas.
 
-2.º À taxa referida no número anterior acrescerá um adicional de 24% dessa taxa, sendo a soma arredondada para o 1/16 de ponto percentual superior.
+2.º No trimestre de capitalização a iniciar-se durante o mês de Maio de 1994, à taxa referida no número anterior acrescerá um adicional de 9% dessa taxa, sendo a soma arredondada para o 1/16 de ponto percentual superior.
+
+> Alterado pelo/a [Portaria n.º 265-A/94](https://diariodarepublica.pt/dr/detalhe/portaria/265-a-1994-152540), publicado em 1994-05-02.
 
 3.º A taxa calculada de harmonia com os n.os 1.º e 2.º será acrescida das seguintes percentagens:
 

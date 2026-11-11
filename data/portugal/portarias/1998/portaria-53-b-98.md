@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-03-29'
+version_history:
+  file: portaria-53-b-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-02-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-03-29'
+    amending: pt:dre:612855:por
+    amending_title: Portaria n.º 604-B/99; Portaria n.º 182-B/2000
+    changes:
+    - Altera Artigo unidades 7-7
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/53-b/1998/02/04/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:09:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 604-B/99; Portaria n.º
+    182-B/2000. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-53-b-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -264,7 +280,9 @@ Neste termos:
 
 Manda o Governo, pelos Ministros das Finanças e da Economia, em cumprimento do n.º 1 do artigo 1.º do [Decreto-Lei n.º 124/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1994-262357), de 18 de Maio, ouvidos os órgãos próprios daquela Região, o seguinte:
 
-1.º A taxa do imposto sobre os produtos petrolíferos (ISP) aplicável à gasolina com teor de chumbo igual ou inferior a 0,013 g por litro, classificada pelos códigos NC 2710 00 27 a 2710 00 32, é igual a 95500$00 por 1000 l.
+1.º A taxa do imposto sobre os produtos petrolíferos (ISP) aplicável à gasolina com teor de chumbo igual ou inferior a 0,013 g por litro, classificada pelos códigos NC 2710 00 27 a 2710 00 32, é igual a 61800$00 por 1000 l.
+
+> Alterado pelo/a [Portaria n.º 182-B/2000](https://diariodarepublica.pt/dr/detalhe/portaria/182-b-2000-435179), publicado em 2000-03-29.
 
 2.º A taxa do ISP aplicável à gasolina com teor de chumbo superior a 0,013 g por litro, classificada pelos códigos NC 2710 00 34 a 2710 00 39, é igual a 100800$00 por 1000 l.
 
@@ -272,7 +290,9 @@ Manda o Governo, pelos Ministros das Finanças e da Economia, em cumprimento do 
 
 4.º A taxa do ISP aplicável ao petróleo colorido e marcado, classificado pelos códigos NC 2710 00 51 a 2710 00 59, é igual a 18600$00 por 1000 l.
 
-5.º A taxa do ISP aplicável ao gasóleo, classificado pelos códigos NC 2710 00 66 a 2710 00 68, é igual a 55100$00 por 1000 l.
+5.º A taxa do ISP aplicável ao gasóleo, classificado pelos códigos NC 2710 00 66 a 2710 00 68 é igual a 49300$00 por 1000 l.
+
+> Alterado pelo/a [Portaria n.º 604-B/99](https://diariodarepublica.pt/dr/detalhe/portaria/604-b-1999-612855), publicado em 1999-08-04.
 
 6.º A taxa do ISP aplicável ao fuelóleo com teor de enxofre igual ou inferior a 1%, classificado pelo código NC 2710 00 74, é igual a 1000$00 por 1000 kg.
 

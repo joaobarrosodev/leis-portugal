@@ -38,10 +38,37 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-01-31'
+version_history:
+  file: decreto-lei-435-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-11-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-01-31'
+    amending: pt:dre:239975:por
+    amending_title: Declaração de Rectificação n.º 1/92
+    changes:
+    - Altera Artigo unidades 3-3
+    - Altera Artigo unidades 4-4
+    - Altera Artigo unidades 5-5
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 17-17
+    - Altera Artigo unidades 27-27
+    - Altera Artigo unidades 28-28
+    - Altera Artigo unidades 29-29
+    - Altera Artigo unidades 40-40
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/435/1991/11/08/p/dre/pt/html
@@ -67,7 +94,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:13:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 1/92.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-435-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,35 +139,55 @@ validation:
 
 de 8 de Novembro
 
-O presente diploma visa transformar a Companhia de Seguros Açoriana, E. P., resultante da nacionalização das empresas seguradoras operada pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março, e organizada como empresa pública pelo Decreto-Lei n.º 72/76, de 27 de Janeiro, em sociedade anónima, com vista à sua reprivatização, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
+O presente diploma visa transformar a Companhia de Seguros Açoreana, E. P., resultante da nacionalização das empresas seguradoras operada pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março, e organizada como empresa pública pelo Decreto-Lei n.º 72/76, de 27 de Janeiro, em sociedade anónima, com vista à sua reprivatização, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-O processo de reprivatização da Açoriana de Seguros, como usualmente é designada, será, contudo, precedido de algumas acções de reestruturação da empresa e daí não definir o presente decreto-lei os processos e modalidades de reprivatização daquela empresa, o que será efectuado em diploma ulterior.
+> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.
 
-Foram ouvidas a Comissão de Trabalhadores da Companhia de Seguros Açoriana, E. P., e os órgãos de governo próprio da Região Autónoma dos Açores.
+O processo de reprivatização da Açoreana de Seguros, como usualmente é designada, será, contudo, precedido de algumas acções de reestruturação da empresa e daí não definir o presente decreto-lei os processos e modalidades de reprivatização daquela empresa, o que será efectuado em diploma ulterior.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.
+
+Foram ouvidas a Comissão de Trabalhadores da Companhia de Seguros Açoreana, E. P., e os órgãos de governo próprio da Região Autónoma dos Açores.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.
 
 Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - A Companhia de Seguros Açoriana, E. P., organizada como empresa pública por força do Decreto-Lei n.º 72/76, de 27 de Janeiro, na sequência da nacionalização operada pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março, é transformada, pelo presente diploma, em sociedade anónima de capitais maioritariamente públicos, com a denominação de Companhia de Seguros Açoriana, S. A.
+Artigo 1.º - 1 - A Companhia de Seguros Açoreana, E. P., organizada como empresa pública por força do Decreto-Lei n.º 72/76, de 27 de Janeiro, na sequência da nacionalização operada pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março, é transformada, pelo presente diploma, em sociedade anónima de capitais maioritariamente públicos, com a denominação de Companhia de Seguros Açoreana, S. A.
 
-2 - A Companhia de Seguros Açoriana, S. A., rege-se pelo presente diploma, pelas normas especiais cuja aplicação decorra do objecto da sociedade, pelas normas reguladoras das sociedades anónimas e pelos seus estatutos.
+> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.
 
-Art. 2.º - 1 - A Companhia de Seguros Açoriana, S. A., continua, sob a forma de sociedade anónima, a personalidade jurídica da Companhia de Seguros Açoriana, E. P., conservando a universalidade dos direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
+2 - A Companhia de Seguros Açoreana, S. A., rege-se pelo presente diploma, pelas normas especiais cuja aplicação decorra do objecto da sociedade, pelas normas reguladoras das sociedades anónimas e pelos seus estatutos.
 
-2 - O presente diploma constitui título bastante para a comprovação do previsto no artigo anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da Companhia de Seguros Açoriana, S. A.
+> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.
+
+Art. 2.º - 1 - A Companhia de Seguros Açoreana, S. A., continua, sob a forma de sociedade anónima, a personalidade jurídica da Companhia de Seguros Açoreana, E. P., conservando a universalidade dos direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.
+
+2 - O presente diploma constitui título bastante para a comprovação do previsto no artigo anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da Companhia de Seguros Açoreana, S. A.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.
 
 Art. 3.º As acções representativas do capital subscrito pela Região Autónoma dos Açores e respectivos direitos, como accionista da sociedade, serão detidas e geridas por entidades a designar pelo Governo Regional dos Açores, sob proposta do Secretário Regional das Finanças e Planeamento.
 
-Art. 4.º - 1 - O capital social inicial da Companhia de Seguros Açoriana, S. A., é de 550000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
+Art. 4.º - 1 - O capital social inicial da Companhia de Seguros Açoreana, S. A., é de 550000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.
 
 2 - O Governo Regional dos Açores poderá, ponderados o interesse regional e as exigências da actividade empresarial, alienar acções representativas do capital social a entidades do sector público empresarial.
 
 3 - O conselho de administração fica autorizado a aumentar o capital social, uma ou mais vezes, por entradas em dinheiro, até ao limite de 3000000000$00.
 
-Art. 5.º - 1 - São aprovados os estatutos da Companhia de Seguros Açoriana, S. A., anexos a este diploma.
+Art. 5.º - 1 - São aprovados os estatutos da Companhia de Seguros Açoreana, S. A., anexos a este diploma.
 
-2 - A transformação efectuada pelo artigo 1.º, bem como os estatutos da Companhia de Seguros Açoriana, S. A., agora aprovados, produzem efeitos relativamente a terceiros independentemente de registo, que, no entanto, deve ser efectuado oficiosamente, sem taxas ou emolumentos, nos 30 dias seguintes à entrada em vigor deste diploma.
+> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.
+
+2 - A transformação efectuada pelo artigo 1.º, bem como os estatutos da Companhia de Seguros Açoreana, S. A., agora aprovados, produzem efeitos relativamente a terceiros independentemente de registo, que, no entanto, deve ser efectuado oficiosamente, sem taxas ou emolumentos, nos 30 dias seguintes à entrada em vigor deste diploma.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.
 
 3 - As futuras alterações dos estatutos far-se-ão nos termos da lei comercial.
 
@@ -159,11 +207,17 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 3 - O conselho fiscal enviará trimestralmente ao Secretário Regional das Finanças e Planeamento um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-Art. 8.º - 1 - Os trabalhadores ao serviço e os pensionistas da Companhia de Seguros Açoriana, E. P., mantêm, perante a Companhia de Seguros Açoriana, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
+Art. 8.º - 1 - Os trabalhadores ao serviço e os pensionistas da Companhia de Seguros Açoreana, E. P., mantêm, perante a Companhia de Seguros Açoreana, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
 
-2 - Os funcionários do Estado, da administração regional autónoma, de institutos públicos e de autarquias, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções na Companhia de Seguros Açoriana, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros que usufruiriam, por antiguidade, se tivessem permanecido naquele quadro.
+> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.
 
-3 - A situação dos trabalhadores da Companhia de Seguros Açoriana, S. A., que forem chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções noutras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando os trabalhadores aos seus lugares logo que terminem o mandato ou o tempo de requisição.
+2 - Os funcionários do Estado, da administração regional autónoma, de institutos públicos e de autarquias, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções na Companhia de Seguros Açoreana, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros que usufruiriam, por antiguidade, se tivessem permanecido naquele quadro.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.
+
+3 - A situação dos trabalhadores da Companhia de Seguros Açoreana, S. A., que forem chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções noutras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando os trabalhadores aos seus lugares logo que terminem o mandato ou o tempo de requisição.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.
 
 Art. 9.º A privatização das acções, quando o Governo Regional dos Açores o entenda conveniente e oportuno, será regulada, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei.
 
@@ -185,7 +239,9 @@ Estatutos
 
 ### CAPÍTULO I — Firma, sede e objecto
 
-Artigo 1.º - 1 - A sociedade anónima que, por força do Decreto-Lei n.º 435/91, de 8 de Novembro, continua a personalidade jurídica da empresa pública Companhia de Seguros Açoriana, E. P., adopta a denominação de Companhia de Seguros Açoriana, S. A.
+Artigo 1.º - 1 - A sociedade anónima que, por força do Decreto-Lei n.º 435/91, de 8 de Novembro, continua a personalidade jurídica da empresa pública Companhia de Seguros Açoreana, E. P., adopta a denominação de Companhia de Seguros Açoreana, S. A.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.
 
 2 - A sociedade rege-se pelo Decreto-Lei n.º 435/91, de 8 de Novembro, pelas normas reguladoras das sociedades anónimas, pelas normas especiais cuja aplicação decorra do objecto da sociedade e pelos presentes estatutos.
 

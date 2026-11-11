@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:425882:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-05-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "348a65f730b2e93c",
+    "8d260f8d1ba45d30",
+    "efe53221443a6697"
+   ]
+  },
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124324704:por",
+     "title": "Decreto-Lei n.º 132/2019",
+     "published": "2019-08-30",
+     "dre_path": "/dr/detalhe/decreto-lei/132-2019-124324704"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 14-34"
+   ],
+   "fragments": [
+    "348a65f730b2e93c",
+    "8d260f8d1ba45d30",
+    "41ca3b0754cbf540"
+   ]
+  }
+ ],
+ "fragments": {
+  "348a65f730b2e93c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Maio\n\nA entrada em vigor do mercado único e a consequente abolição das fronteiras entre os Estados membros impuseram a necessidade de a estrutura e o funcionamento da Direcção-Geral das Alfândegas se adaptarem a uma nova realidade, cujos contornos se caracterizam, fundamentalmente, por um lado, pela diminuição das cargas de trabalho resultante da livre circulação de mercadorias no espaço comunitário, com supressão dos respectivos controlos e formalidades, e, por outro, pela adopção de novos métodos, técnicas e instrumentos de gestão, dirigidos a uma qualificação da actuação aduaneira e fiscal sustentada por sistemas automáticos de informação.\n\nEstes factores determinam que se proceda, desde já, ao ajustamento do respectivo quadro de pessoal.\n\nAssim:\n\nManda o Governo, pelo Ministro das Finanças, ao abrigo do n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, e de acordo com o disposto na alínea c) do n.º I do artigo 2.º do [Decreto-Lei n.º 247/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1992-216106), de 7 de Novembro, o seguinte:\n\n1.º O quadro de pessoal da Direcção-Geral das Alfândegas e os conteúdos funcionais das carreiras aduaneiras são os constantes, respectivamente, dos anexos I e II à presente portaria.\n\n2.º Sem prejuízo do disposto no número anterior, mantém-se em vigor o quadro do pessoal dirigente fixado na [Portaria n.º 54/88](https://diariodarepublica.pt/dr/detalhe/portaria/54-1988-282698), de 27 de Janeiro, com as alterações introduzidas pelo [Decreto-Lei n.º 49/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), de 7 de Fevereiro, e pela [Portaria n.º 1086/89](https://diariodarepublica.pt/dr/detalhe/portaria/1086-1989-550264), de 16 de Dezembro.\n\nMinistério das Finanças.\n\nAssinada em 7 de Abril de 1993.\n\nPelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento."
+  },
+  "8d260f8d1ba45d30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/117b01/00020006.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/117b01/00020006.pdf)"
+  },
+  "efe53221443a6697": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Conteúdos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Conteúdos funcionais\n\n1 - Técnico superior aduaneiro. - O técnico superior aduaneiro desenvolve funções consultivas e de investigação, estudo, concepção e adaptação de métodos e processos científico-técnicos na área fiscal e aduaneira, competindo-lhe, nomeadamente:\n\nExercer os Cargos de direcção ou de chefia para que for nomeado;\n\nEfectuar estudos de carácter económico, jurídico e outros de natureza técnico-aduaneira e fiscal;\n\nInstruir os processos por crimes e contra-ordenações que lhe forem distribuídos;\n\nProceder às auditorias, inspecções, exames e peritagens de que for incumbido;\n\nEfectuar as reverificações e as verificações que, pela sua natureza ou quaisquer outras circunstâncias, o justifiquem;\n\nSuperintender e proceder a conferência final dos bilhetes de despacho e dos documentos que com eles se relacionem;\n\nSuperintender e coordenar Os núcleos funcionais destinados a conferir maior eficácia aos actos inerentes ao controlo fiscal e ao desalfandegamento das mercadorias.\n\n2 - Técnico superior aduaneiro de laboratório. - O técnico Superior aduaneiro de laboratório desenvolve funções consultivas e de investigação, estudo e adaptação de métodos e processos cientifico-técnicos na área de laboratório, competindo-lhe, nomeadamente:\n\nEfectuar as análises que exijam maior complexidade, solicitadas pelos serviços implicados no processo de verificação de mercadorias, prevenção e repressão da fraude;\n\nIntervir no processo de classificação pautas dos diversos produtos químicos;\n\nColaborar em estudos analíticos com outros laboratórios aduaneiros comunitários.\n\n3 - Técnico verificador aduaneiro. - O técnico verificados aduaneiro desenvolve funções de estudo e aplicação de métodos e processos de natureza técnica, competindo-lhe, nomeadamente:\n\nExercer os cargos de chefia para que for nomeado;\n\nProceder as fiscalizações de que for incumbido;\n\nEfectuar as verificações para que for nomeado;\n\nOrientar directamente a execução dos serviços de conferência de carga e descarga e de revisão pessoal, de bagagem e de meios de transporte.\n\n4 - Analista aduaneiro de laboratório. - O analista aduaneiro de laboratório desenvolve funções de estudo e aplicação de métodos e processos de natureza técnica, competindo-lhe, nomeadamente:\n\nExecutar as análises que lhe forem distribuídas;\n\nProceder à verificação da exactidão dos instrumentos;\n\nCoadjuvar o pessoal superior do laboratório nos trabalhos de estudo e pesquisa.\n\n5 - Secretário aduaneiro. - O secretário aduaneiro desenvolve funções de natureza executiva de aplicação técnica que se enquadram em directivas gerais técnico-administrativas, relativas ao expediente, arquivo, organização dos processos técnicos, fiscais e administrativos aduaneiros e contabilidade, tendo em vista assegurar o funcionamento dos serviços aduaneiros, competindo-lhe, nomeadamente:\n\nConferir manifestos de carga;\n\nPrestar assistência a exames prévios;\n\nEfectuar as contas correntes dos regimes de aperfeiçoamento activo e passivo e de restituição de direitos;\n\nEfectuar o controlo dos depósitos e das canções e elaborar os termos de responsabilidade;\n\nPreparar e executar as contas de gerência;\n\nClassificar as despesas públicas e elaborar o respectivo processamento.\n\n6 - Analista aduaneiro auxiliar de laboratório. - O analista aduaneiro auxiliar de laboratório funções de natureza executiva de aplicação técnica que se enquadram em directivas gerais relativas ao funcionamento do laboratório, competindo-lhe, nomeadamente:\n\nCoadjuvar o pessoal técnico superior e técnico do laboratório;\n\nProceder à preparação de soluções reagentes;\n\nProceder à conservação e manutenção do material de laboratório;\n\nOrganizar os stocks de material e reagentes;\n\nOrganizar as análises de carácter corrente.\n\n7 - Verificador auxiliar aduaneiro. - O verificados auxiliar aduaneiro desenvolve funções de natureza executiva de aplicação técnica que se enquadram em directivas gerais técnico-administrativas nas arcas da fiscalização e verificação das mercadorias, competindo-lhe, nomeadamente:\n\nCoadjuvar os técnicos superiores aduaneiros e os técnicos de verificação aduaneiros no exercício das funções da sua competência;\n\nParticipar nos serviços de conferência de carga e descarga de mercadorias;\n\nParticipar em equipas de fiscalização da competência dos serviços aduaneiros;\n\nProceder sempre que necessário à movimentação, abertura, manipulação e fecho de volumes;\n\nProceder à marcação e selagem de volumes e à selagem dos meios de transporte;\n\nEfectuar a pesagem e medição de mercadorias;\n\nConferir e controlar a entrada e saída dos volumes nas casas de despacho;\n\nVelar pela conservação e guarda do material afecto às operações de verificação e reverificação de mercadorias;\n\nControlar a entrada, saída e permanência de volumes nos armazéns aduaneiros, bem como as entradas e saídas de equipamentos em estabelecimentos fabris sob jurisdição aduaneira;\n\nRegistar e preencher as guias necessárias ao controlo de circulação dos produtos sujeitos a impostos especiais sobre o consumo;\n\nExecutar o serviço de revisão pessoal, de bagagem e de meios de transporte, nos termos definidos na lei e nos regulamentos;\n\nDesempenhar outras tarefas que, na esfera da sua competência, lhes sejam superiormente determinadas."
+  },
+  "41ca3b0754cbf540": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Conteúdos funcionais",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+   ],
+   "markdown": "## ANEXO II — Conteúdos funcionais\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.\n\n5 - Secretário aduaneiro. - O secretário aduaneiro desenvolve funções de natureza executiva de aplicação técnica que se enquadram em directivas gerais técnico-administrativas, relativas ao expediente, arquivo, organização dos processos técnicos, fiscais e administrativos aduaneiros e contabilidade, tendo em vista assegurar o funcionamento dos serviços aduaneiros, competindo-lhe, nomeadamente:\n\nConferir manifestos de carga;\n\nPrestar assistência a exames prévios;\n\nEfectuar as contas correntes dos regimes de aperfeiçoamento activo e passivo e de restituição de direitos;\n\nEfectuar o controlo dos depósitos e das canções e elaborar os termos de responsabilidade;\n\nPreparar e executar as contas de gerência;\n\nClassificar as despesas públicas e elaborar o respectivo processamento.\n\n6 - Analista aduaneiro auxiliar de laboratório. - O analista aduaneiro auxiliar de laboratório funções de natureza executiva de aplicação técnica que se enquadram em directivas gerais relativas ao funcionamento do laboratório, competindo-lhe, nomeadamente:\n\nCoadjuvar o pessoal técnico superior e técnico do laboratório;\n\nProceder à preparação de soluções reagentes;\n\nProceder à conservação e manutenção do material de laboratório;\n\nOrganizar os stocks de material e reagentes;\n\nOrganizar as análises de carácter corrente.\n\n7 - Verificador auxiliar aduaneiro. - O verificados auxiliar aduaneiro desenvolve funções de natureza executiva de aplicação técnica que se enquadram em directivas gerais técnico-administrativas nas arcas da fiscalização e verificação das mercadorias, competindo-lhe, nomeadamente:\n\nCoadjuvar os técnicos superiores aduaneiros e os técnicos de verificação aduaneiros no exercício das funções da sua competência;\n\nParticipar nos serviços de conferência de carga e descarga de mercadorias;\n\nParticipar em equipas de fiscalização da competência dos serviços aduaneiros;\n\nProceder sempre que necessário à movimentação, abertura, manipulação e fecho de volumes;\n\nProceder à marcação e selagem de volumes e à selagem dos meios de transporte;\n\nEfectuar a pesagem e medição de mercadorias;\n\nConferir e controlar a entrada e saída dos volumes nas casas de despacho;\n\nVelar pela conservação e guarda do material afecto às operações de verificação e reverificação de mercadorias;\n\nControlar a entrada, saída e permanência de volumes nos armazéns aduaneiros, bem como as entradas e saídas de equipamentos em estabelecimentos fabris sob jurisdição aduaneira;\n\nRegistar e preencher as guias necessárias ao controlo de circulação dos produtos sujeitos a impostos especiais sobre o consumo;\n\nExecutar o serviço de revisão pessoal, de bagagem e de meios de transporte, nos termos definidos na lei e nos regulamentos;\n\nDesempenhar outras tarefas que, na esfera da sua competência, lhes sejam superiormente determinadas."
+  }
+ }
+}

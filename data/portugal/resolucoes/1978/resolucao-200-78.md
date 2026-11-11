@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-04-03'
+version_history:
+  file: resolucao-200-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-11-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-04-03'
+    amending: pt:dre:382807:por
+    amending_title: Resolução n.º 92/79
+    changes:
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:13:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução n.º 92/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/resolucoes/1978/resolucao-200-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,7 +143,9 @@ Considerando que se dispõe já da maior parte do equipamento necessário, cuja 
 
 O Conselho de Ministros, reunido em 2 de Novembro de 1978, resolveu:
 
-a) Dar o seu acordo à instalação de uma nova unidade de produção de pasta celulósica, com a capacidade de 25000 t por ano, na região delimitada pelos rios Douro e Tejo, através de uma sociedade anónima de economia mista, cujo capital deverá ser maioritariamente detido pelo sector público;
+a) Dar o seu acordo à instalação de uma nova unidade de produção de pasta celulósica, com a capacidade de 250000 t por ano, na região delimitada pelos rios Douro e Tejo.
+
+> Alterado pelo/a [Resolução n.º 92/79](https://diariodarepublica.pt/dr/detalhe/resolucao/92-1979-382807), publicado em 1979-04-03.
 
 b) Determinar que parte do capital da referida sociedade resulta da conversão dos créditos concedidos pela Sociedade Financeira Portuguesa para a aquisição do equipamento já fabricado, devendo a subscrição da parte restante ser aberta ao público e a empresas privadas nacionais ou estrangeiras;
 

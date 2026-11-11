@@ -41,10 +41,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-11-08'
+version_history:
+  file: portaria-532-e-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-11-08'
+    amending: pt:dre:621712:por
+    amending_title: Portaria n.º 1063/2000
+    changes:
+    - Adita Artigo depois da unidade 76
+    - Altera Artigo unidades 173-173
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/532-e/2000/07/31/p/dre/pt/html
@@ -70,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:24:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1063/2000. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-532-e-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -316,6 +332,14 @@ Contabilidade e Auditoria - 10.
 
 Gestão de Empresas - 4.
 
+Instituto Superior de Engenharia de Coimbra:
+
+Engenharia Informática e de Sistemas - 1.
+
+Engenharia Mecânica, ramo Térmica - 1.
+
+> Aditado pelo/a [Portaria n.º 1063/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1063-2000-621712), publicado em 2000-11-03.
+
 Universidade do Algarve:
 
 Escola Superior de Educação de Faro:
@@ -508,7 +532,9 @@ Instrumento, área de Música Antiga - 2.
 
 Instrumento, área de Percussão - 1.
 
-Instrumento, área de Sopros - 4.
+Instrumento, área de Sopros - 5.
+
+> Alterado pelo/a [Portaria n.º 1063/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1063-2000-621712), publicado em 2000-11-03.
 
 Instrumento, área de Teatro - 20.
 

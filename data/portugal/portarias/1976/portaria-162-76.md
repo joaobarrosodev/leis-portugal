@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-03-12'
+version_history:
+  file: portaria-162-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-03-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-03-12'
+    amending: pt:dre:383808:por
+    amending_title: Portaria n.º 114/79
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:57:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 114/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-162-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,7 +174,9 @@ Manda o Governo da República Portuguesa, pelo Primeiro-Ministro, como gestor da
 
 2 - Quando no [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, e na presente portaria constar «direito de opção», tal expressão, ou similar, significa: o direito de os DFA poderem optar ou pelo serviço activo em regime que dispense plena validez, ou pela situação de reforma extraordinária ou de beneficiário de pensão de invalidez.
 
-3 - A revisão do processo efectuar-se-á sempre a pedido do interessado, mediante requerimento dirigido ao chefe do estado-maior do ramo respectivo, que deverá dar entrada na repartição competente, no prazo de cento e oitenta dias, contados a partir da data da publicação da presente portaria, excepto nos casos previstos nos n.os 18 e 19 deste diploma.
+3 - A revisão do processo efectuar-se-á sempre a pedido do interessado, mediante requerimento dirigido ao Chefe do Estado-Maior do ramo respectivo.
+
+> Alterado pelo/a [Portaria n.º 114/79](https://diariodarepublica.pt/dr/detalhe/portaria/114-1979-383808), publicado em 1979-03-12.
 
 4 - Nos casos de revisão do processo, a apreciação será feita pela nova definição de DFA, constante no artigo 1.º e complementado no artigo 2.º do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro; em caso afirmativo, deve continuar pela verificação da percentagem da incapacidade atribuída, terminando por concluir claramente se o requerente é ou não DFA.
 

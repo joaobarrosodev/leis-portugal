@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:460844:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1980-09-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3b20ea18154be176"
+   ]
+  },
+  {
+   "date": "1982-01-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:601154:por",
+     "title": "Portaria n.º 51/82",
+     "published": "1982-01-13",
+     "dre_path": "/dr/detalhe/portaria/51-1982-601154"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-10"
+   ],
+   "fragments": [
+    "3c6cff09c2591d3a"
+   ]
+  }
+ ],
+ "fragments": {
+  "3b20ea18154be176": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Setembro\n\nEm execução do disposto no artigo 2.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, segundo a nova redacção dada pelo [Decreto-Lei n.º 96/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1980-298998), de 5 de Maio, e em conformidade com o artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Assuntos Sociais e pelo Secretário de Estado da Reforma Administrativa, o seguinte:\n\n1.º É aprovado o quadro de pessoal do Hospital Distrital de Bragança, anexo à presente portaria.\n\n2.º A colocação do pessoal ao serviço nos lugares do presente quadro será feita mediante lista nominativa aprovada por despacho do Secretário de Estado da Saúde, independentemente de quaisquer formalidades, salvo a anotação do Tribunal de Contas e respectiva publicação no Diário da República.\n\nPresidência do Conselho de Ministros e Ministérios das Finanças e do Plano e dos Assuntos Sociais, 27 de Agosto de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Assuntos Sociais, João António Morais Leitão. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.\n\nQuadro de pessoal do Hospital Distrital de Bragança\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/26712672.pdf)\n\nNota. - O funcionário administrativo que exercer as funções de tesoureiro será abonado de 500$00 mensais para falhas."
+  },
+  "3c6cff09c2591d3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1982-01-13",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 51/82](https://diariodarepublica.pt/dr/detalhe/portaria/51-1982-601154), publicado em 1982-01-13."
+   ],
+   "markdown": "de 16 de Setembro\n\nEm execução do disposto no artigo 2.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, segundo a nova redacção dada pelo [Decreto-Lei n.º 96/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1980-298998), de 5 de Maio, e em conformidade com o artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Assuntos Sociais e pelo Secretário de Estado da Reforma Administrativa, o seguinte:\n\n1.º É aprovado o quadro de pessoal do Hospital Distrital de Bragança, anexo à presente portaria.\n\n2.º A colocação do pessoal ao serviço nos lugares do presente quadro será feita mediante lista nominativa aprovada por despacho do Secretário de Estado da Saúde, independentemente de quaisquer formalidades, salvo a anotação do Tribunal de Contas e respectiva publicação no Diário da República.\n\nPresidência do Conselho de Ministros e Ministérios das Finanças e do Plano e dos Assuntos Sociais, 27 de Agosto de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Assuntos Sociais, João António Morais Leitão. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.\n\nQuadro de pessoal do Hospital Distrital de Bragança\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/26712672.pdf)\n\nNota. - O funcionário administrativo que exercer as funções de tesoureiro será abonado de 600$00 mensais para falhas.\n\n> Alterado pelo/a [Portaria n.º 51/82](https://diariodarepublica.pt/dr/detalhe/portaria/51-1982-601154), publicado em 1982-01-13."
+  }
+ }
+}

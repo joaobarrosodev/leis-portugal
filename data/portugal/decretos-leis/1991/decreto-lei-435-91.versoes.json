@@ -1,0 +1,171 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:331854:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-11-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "be1d217e51aee766",
+    "f8a5362462cdec62",
+    "b89a42f8a3f194b4",
+    "1514f7218b218dc1",
+    "a313fb6f37f19c2e",
+    "33355c18c1499083",
+    "3b1ae69a5fc031f2",
+    "c8611104ee642726",
+    "31b7d54085a58025"
+   ]
+  },
+  {
+   "date": "1992-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:239975:por",
+     "title": "Declaração de Rectificação n.º 1/92",
+     "published": "1992-01-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/1-1992-239975"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3",
+    "Altera Artigo unidades 4-4",
+    "Altera Artigo unidades 5-5",
+    "Altera Artigo unidades 8-8",
+    "Altera Artigo unidades 9-9",
+    "Altera Artigo unidades 10-10",
+    "Altera Artigo unidades 11-11",
+    "Altera Artigo unidades 13-13",
+    "Altera Artigo unidades 16-16",
+    "Altera Artigo unidades 17-17",
+    "Altera Artigo unidades 27-27",
+    "Altera Artigo unidades 28-28",
+    "Altera Artigo unidades 29-29",
+    "Altera Artigo unidades 40-40"
+   ],
+   "fragments": [
+    "06e5759c58f79935",
+    "7cb6af92b54a1a0b",
+    "b89a42f8a3f194b4",
+    "1514f7218b218dc1",
+    "a313fb6f37f19c2e",
+    "33355c18c1499083",
+    "3b1ae69a5fc031f2",
+    "c8611104ee642726",
+    "31b7d54085a58025"
+   ]
+  }
+ ],
+ "fragments": {
+  "be1d217e51aee766": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Novembro\n\nO presente diploma visa transformar a Companhia de Seguros Açoriana, E. P., resultante da nacionalização das empresas seguradoras operada pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março, e organizada como empresa pública pelo Decreto-Lei n.º 72/76, de 27 de Janeiro, em sociedade anónima, com vista à sua reprivatização, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.\n\nO processo de reprivatização da Açoriana de Seguros, como usualmente é designada, será, contudo, precedido de algumas acções de reestruturação da empresa e daí não definir o presente decreto-lei os processos e modalidades de reprivatização daquela empresa, o que será efectuado em diploma ulterior.\n\nForam ouvidas a Comissão de Trabalhadores da Companhia de Seguros Açoriana, E. P., e os órgãos de governo próprio da Região Autónoma dos Açores.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º - 1 - A Companhia de Seguros Açoriana, E. P., organizada como empresa pública por força do Decreto-Lei n.º 72/76, de 27 de Janeiro, na sequência da nacionalização operada pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março, é transformada, pelo presente diploma, em sociedade anónima de capitais maioritariamente públicos, com a denominação de Companhia de Seguros Açoriana, S. A.\n\n2 - A Companhia de Seguros Açoriana, S. A., rege-se pelo presente diploma, pelas normas especiais cuja aplicação decorra do objecto da sociedade, pelas normas reguladoras das sociedades anónimas e pelos seus estatutos.\n\nArt. 2.º - 1 - A Companhia de Seguros Açoriana, S. A., continua, sob a forma de sociedade anónima, a personalidade jurídica da Companhia de Seguros Açoriana, E. P., conservando a universalidade dos direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.\n\n2 - O presente diploma constitui título bastante para a comprovação do previsto no artigo anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da Companhia de Seguros Açoriana, S. A.\n\nArt. 3.º As acções representativas do capital subscrito pela Região Autónoma dos Açores e respectivos direitos, como accionista da sociedade, serão detidas e geridas por entidades a designar pelo Governo Regional dos Açores, sob proposta do Secretário Regional das Finanças e Planeamento.\n\nArt. 4.º - 1 - O capital social inicial da Companhia de Seguros Açoriana, S. A., é de 550000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.\n\n2 - O Governo Regional dos Açores poderá, ponderados o interesse regional e as exigências da actividade empresarial, alienar acções representativas do capital social a entidades do sector público empresarial.\n\n3 - O conselho de administração fica autorizado a aumentar o capital social, uma ou mais vezes, por entradas em dinheiro, até ao limite de 3000000000$00.\n\nArt. 5.º - 1 - São aprovados os estatutos da Companhia de Seguros Açoriana, S. A., anexos a este diploma.\n\n2 - A transformação efectuada pelo artigo 1.º, bem como os estatutos da Companhia de Seguros Açoriana, S. A., agora aprovados, produzem efeitos relativamente a terceiros independentemente de registo, que, no entanto, deve ser efectuado oficiosamente, sem taxas ou emolumentos, nos 30 dias seguintes à entrada em vigor deste diploma.\n\n3 - As futuras alterações dos estatutos far-se-ão nos termos da lei comercial.\n\nArt. 6.º - 1 - Enquanto não forem eleitos os membros dos órgãos sociais, os membros do conselho de gestão e os membros da comissão de fiscalização da empresa pública constituirão, respectivamente, o conselho de administração e o conselho fiscal da sociedade.\n\n2 - Nos 30 dias seguintes à publicação do presente diploma, o conselho de administração convocará a assembleia geral para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.\n\n3 - A assembleia geral referida no número anterior será presidida pelo presidente do conselho de administração da sociedade, servindo de secretário uma pessoa por aquele designada.\n\nArt. 7.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará ao Secretário Regional das Finanças e Planeamento, pelo menos 30 dias antes da data da assembleia geral anual:\n\na) O relatório de gestão e as contas do exercício;\n\nb) Quaisquer elementos adequados à compreensão integral da situação económica e financeira da empresa, eficiência da gestão e perspectivas da sua evolução.\n\n2 - O relatório e contas referidos na alínea a) do número anterior deverão ser acompanhados de documento comprovativo da concessão do visto formal pelo Instituto de Seguros de Portugal.\n\n3 - O conselho fiscal enviará trimestralmente ao Secretário Regional das Finanças e Planeamento um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.\n\nArt. 8.º - 1 - Os trabalhadores ao serviço e os pensionistas da Companhia de Seguros Açoriana, E. P., mantêm, perante a Companhia de Seguros Açoriana, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.\n\n2 - Os funcionários do Estado, da administração regional autónoma, de institutos públicos e de autarquias, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções na Companhia de Seguros Açoriana, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros que usufruiriam, por antiguidade, se tivessem permanecido naquele quadro.\n\n3 - A situação dos trabalhadores da Companhia de Seguros Açoriana, S. A., que forem chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções noutras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando os trabalhadores aos seus lugares logo que terminem o mandato ou o tempo de requisição.\n\nArt. 9.º A privatização das acções, quando o Governo Regional dos Açores o entenda conveniente e oportuno, será regulada, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei.\n\nArt. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 12 de Setembro de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.\n\nPromulgado em 24 de Outubro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 28 de Outubro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nEstatutos"
+  },
+  "f8a5362462cdec62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Firma, sede e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Firma, sede e objecto\n\nArtigo 1.º - 1 - A sociedade anónima que, por força do Decreto-Lei n.º 435/91, de 8 de Novembro, continua a personalidade jurídica da empresa pública Companhia de Seguros Açoriana, E. P., adopta a denominação de Companhia de Seguros Açoriana, S. A.\n\n2 - A sociedade rege-se pelo Decreto-Lei n.º 435/91, de 8 de Novembro, pelas normas reguladoras das sociedades anónimas, pelas normas especiais cuja aplicação decorra do objecto da sociedade e pelos presentes estatutos.\n\nArt. 2.º - 1 - A sociedade tem a sede no Largo da Matriz, Ponta Delgada.\n\n2 - O conselho de administração, ouvido o conselho fiscal e nos termos da legislação aplicável às empresas seguradoras, pode criar e encerrar, em qualquer ponto do território nacional ou fora dele, agências, delegações ou quaisquer formas de representação.\n\nArt. 3.º - 1 - O objecto da sociedade é o exercício da actividade de seguros e resseguros, em todos os ramos e operações, salvo no que respeita ao seguro de crédito com garantia do Estado, podendo ainda exercer actividades conexas com as de seguro e resseguros.\n\n2 - A sociedade pode participar em agrupamentos complementares de empresas, em agrupamentos europeus de interesse económico e, bem assim, adquirir, originária e subsequentemente, acções ou quotas em sociedades de responsabilidade limitada, qualquer que seja o objecto destas, embora sujeitas a leis especiais."
+  },
+  "b89a42f8a3f194b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Capital, acções e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Capital, acções e obrigações\n\nArt. 4.º - 1 - O capital da sociedade é de 550000000$00 e encontra-se totalmente realizado pelos valores integrantes do património da sociedade.\n\n2 - O capital social é representado por 550000 acções com o valor nominal de 1000$00 cada uma.\n\nArt. 5.º - 1 - As acções são nominativas, não podendo ser convertidas em acções ao portador.\n\n2 - As acções podem revestir forma escritural.\n\n3 - Poderão ser emitidos títulos de 1, 5, 10, 50 e 100 acções e de múltiplos de 100, até 100000 acções.\n\n4 - A sociedade pode emitir acções preferenciais sem voto, nos termos do artigo 341.º do Código das Sociedades Comerciais."
+  },
+  "1514f7218b218dc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Órgãos sociais\n\nArt. 6.º - 1 - São órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal.\n\n2 - A mesa da assembleia geral e os membros do conselho de administração e do conselho fiscal serão eleitos pela assembleia geral, que designará igualmente os respectivos presidentes.\n\n3 - Os membros dos órgãos sociais exercem as suas funções por períodos de três anos, renováveis.\n\n4 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício das suas funções até à eleição de quem deva substituí-los."
+  },
+  "a313fb6f37f19c2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Assembleia geral\n\nArt. 7.º - 1 - A assembleia geral é composta pelos accionistas com direito a voto, não sendo permitido que às suas reuniões assistam accionistas sem direito a voto.\n\n2 - A cada 100 acções corresponde um voto na assembleia geral.\n\n3 - Não são consideradas para efeito de participação em assembleia geral as transmissões de acções efectuadas durante os oito dias que precedam a reunião de cada assembleia, em primeira convocação.\n\nArt. 8.º A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei."
+  },
+  "33355c18c1499083": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho de administração\n\nArt. 9.º - 1 - O conselho de administração é composto por três a cinco administradores, conforme for deliberado pela assembleia geral, podendo ser eleitos suplentes nos termos da lei.\n\n2 - O presidente do conselho de administração tem voto de qualidade.\n\nArt. 10.º - 1 - O conselho de administração pode delegar poderes, nos termos do artigo 407.º do Código das Sociedades Comerciais.\n\n2 - A aquisição, alienação e oneração de participações sociais, quer quando sejam apenas da competência do conselho, quer quando autorizadas pela assembleia geral, não se incluem nos actos delegáveis.\n\nArt. 11.º - 1 - A sociedade é representada:\n\na) Por dois administradores;\n\nb) Pelos administradores-delegados, dentro dos limites da delegação do conselho;\n\nc) Por procuradores, quanto aos actos ou categorias de actos definidos nas procurações.\n\n2 - O conselho de administração poderá deliberar, nos termos e dentro dos limites legais, que certos documentos da sociedade sejam assinados por processos mecânicos ou chancela.\n\n3 - Em assuntos de mero expediente bastará a assinatura de um administrador.\n\nArt. 12.º - 1 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros.\n\n2 - Não é permitida a representação de mais de um administrador em cada reunião.\n\nArt. 13.º - 1 - As remunerações dos administradores serão fixadas pela assembleia geral ou por uma comissão de accionistas por aquela nomeada por períodos de três anos.\n\n2 - A remuneração pode consistir parcialmente numa percentagem que não poderá exceder globalmente 1% dos lucros de exercício, deduzidos da importância da reserva legal.\n\nArt. 14.º O conselho de administração reunirá ordinariamente pelo menos uma vez por mês e extraordinariamente sempre que convocado pelo presidente ou pela maioria dos seus membros.\n\nArt. 15.º Os administradores terão direito a reforma por velhice ou invalidez, ou a complementos de pensão de reforma, nos termos que vierem a constar de regulamentos a aprovar pela assembleia geral."
+  },
+  "3b1ae69a5fc031f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho fiscal\n\nArt. 16.º - 1 - O conselho fiscal é composto por três membros.\n\n2 - Haverá dois suplentes.\n\nArt. 17.º O conselho fiscal reúne ordinariamente pelo menos uma vez por mês e extraordinariamente sempre que convocado pelo presidente ou pela maioria dos seus membros.\n\nArt. 18.º As remunerações dos membros do conselho fiscal serão fixadas pela assembleia geral ou por uma comissão de accionistas por aquela nomeada e devem ser certas."
+  },
+  "c8611104ee642726": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Aplicação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Aplicação dos resultados\n\nArt. 19.º Os lucros de exercício, apurados em conformidade com a lei, terão, sucessivamente, a seguinte aplicação:\n\na) Cobertura dos prejuízos de exercícios anteriores;\n\nb) Constituição e eventualmente reintegração da reserva legal e de outras reservas que a lei determinar;\n\nc) Remuneração dos administradores e gratificação a atribuir aos trabalhadores, se disso for caso, segundo critério a definir em assembleia geral;\n\nd) Constituição, reforço ou reintegração de outras reservas, conforme a assembleia geral deliberar;\n\ne) Dividendos a distribuir aos accionistas;\n\nf) Outras finalidades que a assembleia geral deliberar."
+  },
+  "31b7d54085a58025": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais\n\nArt. 20.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.\n\n2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral."
+  },
+  "06e5759c58f79935": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1992-01-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31."
+   ],
+   "markdown": "de 8 de Novembro\n\nO presente diploma visa transformar a Companhia de Seguros Açoreana, E. P., resultante da nacionalização das empresas seguradoras operada pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março, e organizada como empresa pública pelo Decreto-Lei n.º 72/76, de 27 de Janeiro, em sociedade anónima, com vista à sua reprivatização, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.\n\nO processo de reprivatização da Açoreana de Seguros, como usualmente é designada, será, contudo, precedido de algumas acções de reestruturação da empresa e daí não definir o presente decreto-lei os processos e modalidades de reprivatização daquela empresa, o que será efectuado em diploma ulterior.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.\n\nForam ouvidas a Comissão de Trabalhadores da Companhia de Seguros Açoreana, E. P., e os órgãos de governo próprio da Região Autónoma dos Açores.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º - 1 - A Companhia de Seguros Açoreana, E. P., organizada como empresa pública por força do Decreto-Lei n.º 72/76, de 27 de Janeiro, na sequência da nacionalização operada pelo [Decreto-Lei n.º 135-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-a-1975-620081), de 15 de Março, é transformada, pelo presente diploma, em sociedade anónima de capitais maioritariamente públicos, com a denominação de Companhia de Seguros Açoreana, S. A.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.\n\n2 - A Companhia de Seguros Açoreana, S. A., rege-se pelo presente diploma, pelas normas especiais cuja aplicação decorra do objecto da sociedade, pelas normas reguladoras das sociedades anónimas e pelos seus estatutos.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.\n\nArt. 2.º - 1 - A Companhia de Seguros Açoreana, S. A., continua, sob a forma de sociedade anónima, a personalidade jurídica da Companhia de Seguros Açoreana, E. P., conservando a universalidade dos direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.\n\n2 - O presente diploma constitui título bastante para a comprovação do previsto no artigo anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da Companhia de Seguros Açoreana, S. A.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.\n\nArt. 3.º As acções representativas do capital subscrito pela Região Autónoma dos Açores e respectivos direitos, como accionista da sociedade, serão detidas e geridas por entidades a designar pelo Governo Regional dos Açores, sob proposta do Secretário Regional das Finanças e Planeamento.\n\nArt. 4.º - 1 - O capital social inicial da Companhia de Seguros Açoreana, S. A., é de 550000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.\n\n2 - O Governo Regional dos Açores poderá, ponderados o interesse regional e as exigências da actividade empresarial, alienar acções representativas do capital social a entidades do sector público empresarial.\n\n3 - O conselho de administração fica autorizado a aumentar o capital social, uma ou mais vezes, por entradas em dinheiro, até ao limite de 3000000000$00.\n\nArt. 5.º - 1 - São aprovados os estatutos da Companhia de Seguros Açoreana, S. A., anexos a este diploma.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.\n\n2 - A transformação efectuada pelo artigo 1.º, bem como os estatutos da Companhia de Seguros Açoreana, S. A., agora aprovados, produzem efeitos relativamente a terceiros independentemente de registo, que, no entanto, deve ser efectuado oficiosamente, sem taxas ou emolumentos, nos 30 dias seguintes à entrada em vigor deste diploma.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.\n\n3 - As futuras alterações dos estatutos far-se-ão nos termos da lei comercial.\n\nArt. 6.º - 1 - Enquanto não forem eleitos os membros dos órgãos sociais, os membros do conselho de gestão e os membros da comissão de fiscalização da empresa pública constituirão, respectivamente, o conselho de administração e o conselho fiscal da sociedade.\n\n2 - Nos 30 dias seguintes à publicação do presente diploma, o conselho de administração convocará a assembleia geral para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.\n\n3 - A assembleia geral referida no número anterior será presidida pelo presidente do conselho de administração da sociedade, servindo de secretário uma pessoa por aquele designada.\n\nArt. 7.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará ao Secretário Regional das Finanças e Planeamento, pelo menos 30 dias antes da data da assembleia geral anual:\n\na) O relatório de gestão e as contas do exercício;\n\nb) Quaisquer elementos adequados à compreensão integral da situação económica e financeira da empresa, eficiência da gestão e perspectivas da sua evolução.\n\n2 - O relatório e contas referidos na alínea a) do número anterior deverão ser acompanhados de documento comprovativo da concessão do visto formal pelo Instituto de Seguros de Portugal.\n\n3 - O conselho fiscal enviará trimestralmente ao Secretário Regional das Finanças e Planeamento um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.\n\nArt. 8.º - 1 - Os trabalhadores ao serviço e os pensionistas da Companhia de Seguros Açoreana, E. P., mantêm, perante a Companhia de Seguros Açoreana, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.\n\n2 - Os funcionários do Estado, da administração regional autónoma, de institutos públicos e de autarquias, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções na Companhia de Seguros Açoreana, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros que usufruiriam, por antiguidade, se tivessem permanecido naquele quadro.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.\n\n3 - A situação dos trabalhadores da Companhia de Seguros Açoreana, S. A., que forem chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções noutras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando os trabalhadores aos seus lugares logo que terminem o mandato ou o tempo de requisição.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.\n\nArt. 9.º A privatização das acções, quando o Governo Regional dos Açores o entenda conveniente e oportuno, será regulada, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, por decreto-lei.\n\nArt. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 12 de Setembro de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.\n\nPromulgado em 24 de Outubro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 28 de Outubro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nEstatutos"
+  },
+  "7cb6af92b54a1a0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Firma, sede e objecto",
+   "in_force_from": "1992-01-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31."
+   ],
+   "markdown": "### CAPÍTULO I — Firma, sede e objecto\n\nArtigo 1.º - 1 - A sociedade anónima que, por força do Decreto-Lei n.º 435/91, de 8 de Novembro, continua a personalidade jurídica da empresa pública Companhia de Seguros Açoreana, E. P., adopta a denominação de Companhia de Seguros Açoreana, S. A.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 1/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1992-239975), publicado em 1992-01-31.\n\n2 - A sociedade rege-se pelo Decreto-Lei n.º 435/91, de 8 de Novembro, pelas normas reguladoras das sociedades anónimas, pelas normas especiais cuja aplicação decorra do objecto da sociedade e pelos presentes estatutos.\n\nArt. 2.º - 1 - A sociedade tem a sede no Largo da Matriz, Ponta Delgada.\n\n2 - O conselho de administração, ouvido o conselho fiscal e nos termos da legislação aplicável às empresas seguradoras, pode criar e encerrar, em qualquer ponto do território nacional ou fora dele, agências, delegações ou quaisquer formas de representação.\n\nArt. 3.º - 1 - O objecto da sociedade é o exercício da actividade de seguros e resseguros, em todos os ramos e operações, salvo no que respeita ao seguro de crédito com garantia do Estado, podendo ainda exercer actividades conexas com as de seguro e resseguros.\n\n2 - A sociedade pode participar em agrupamentos complementares de empresas, em agrupamentos europeus de interesse económico e, bem assim, adquirir, originária e subsequentemente, acções ou quotas em sociedades de responsabilidade limitada, qualquer que seja o objecto destas, embora sujeitas a leis especiais."
+  }
+ }
+}

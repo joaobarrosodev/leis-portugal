@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:192597:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-04-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "693d71df1db88766"
+   ]
+  },
+  {
+   "date": "2007-03-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:518871:por",
+     "title": "Portaria n.º 221/2007",
+     "published": "2007-03-01",
+     "dre_path": "/dr/detalhe/portaria/221-2007-518871"
+    },
+    {
+     "id": "pt:dre:518983:por",
+     "title": "Portaria n.º 220/2007",
+     "published": "2007-03-01",
+     "dre_path": "/dr/detalhe/portaria/220-2007-518983"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-9",
+    "Altera Artigo unidades 10-10"
+   ],
+   "fragments": [
+    "14a1152a677d22ef"
+   ]
+  }
+ ],
+ "fragments": {
+  "693d71df1db88766": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Abril\n\nO [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, cria as escolas profissionais no quadro do «relançamento do ensino profissional e reforço das diversas modalidades de formação profissional, que se pretendem levar a cabo fundamentalmente através da acção conjunta dos Ministérios da Educação e do Emprego e da Segurança Social, em estreita cooperação com outros ministérios e ainda com várias entidades públicas ou privadas, tentando capitalizar estruturas e recursos disponíveis, o que, aliás, vem na sequência de orientações definidas em conjunto pelos Ministérios».\n\nPor força das referidas disposições legais e em particular dos n.os 1, 2 e 4 do artigo 4.º e dos n.os 1, 2 e 3 do artigo 6.º do [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, torna-se necessário criar os cursos a funcionar na Escola Profissional de Instrumentistas e Cantores da Academia de Amadores de Música, criada por contrato-programa outorgado entre o GETAP - Gabinete de Educação Tecnológica, Artística e Profissional, como primeiro outorgante, e a Academia de Amadores de Música, como segundo outorgante.\n\nAssim:\n\nManda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Social, o seguinte:\n\n1.º São criados os cursos de:\n\na) Canto;\n\nb) Instrumento harmónico;\n\nc) Instrumento melódico;\n\ncujos planos de estudo se anexam.\n\n2.º Aos alunos que concluírem, com aproveitamento, os cursos aprovados no n.º 1.º será atribuído um certificado de nível 3 de qualificação profissional e um certificado equivalente ao 12.º ano.\n\nMinistérios da Educação e do Emprego e da Segurança Social.\n\nAssinada em 25 de Fevereiro de 1992.\n\nO Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/079b00/16161617.pdf)"
+  },
+  "14a1152a677d22ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2007-03-06",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 220/2007](https://diariodarepublica.pt/dr/detalhe/portaria/220-2007-518983), publicado em 2007-03-01.",
+    "Alterado pelo/a [Portaria n.º 221/2007](https://diariodarepublica.pt/dr/detalhe/portaria/221-2007-518871), publicado em 2007-03-01."
+   ],
+   "markdown": "de 3 de Abril\n\nO [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, cria as escolas profissionais no quadro do «relançamento do ensino profissional e reforço das diversas modalidades de formação profissional, que se pretendem levar a cabo fundamentalmente através da acção conjunta dos Ministérios da Educação e do Emprego e da Segurança Social, em estreita cooperação com outros ministérios e ainda com várias entidades públicas ou privadas, tentando capitalizar estruturas e recursos disponíveis, o que, aliás, vem na sequência de orientações definidas em conjunto pelos Ministérios».\n\nPor força das referidas disposições legais e em particular dos n.os 1, 2 e 4 do artigo 4.º e dos n.os 1, 2 e 3 do artigo 6.º do [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, torna-se necessário criar os cursos a funcionar na Escola Profissional de Instrumentistas e Cantores da Academia de Amadores de Música, criada por contrato-programa outorgado entre o GETAP - Gabinete de Educação Tecnológica, Artística e Profissional, como primeiro outorgante, e a Academia de Amadores de Música, como segundo outorgante.\n\nAssim:\n\nManda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Social, o seguinte:\n\n1.º São criados os cursos de:\n\na) Canto;\n\nb) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 220/2007](https://diariodarepublica.pt/dr/detalhe/portaria/220-2007-518983), publicado em 2007-03-01.\n\nc) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 221/2007](https://diariodarepublica.pt/dr/detalhe/portaria/221-2007-518871), publicado em 2007-03-01.\n\ncujos planos de estudo se anexam.\n\n2.º Aos alunos que concluírem, com aproveitamento, os cursos aprovados no n.º 1.º será atribuído um certificado de nível 3 de qualificação profissional e um certificado equivalente ao 12.º ano.\n\nMinistérios da Educação e do Emprego e da Segurança Social.\n\nAssinada em 25 de Fevereiro de 1992.\n\nO Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/079b00/16161617.pdf)"
+  }
+ }
+}

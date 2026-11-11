@@ -1,0 +1,1414 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:576886:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-12-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1eba77e046899f5f",
+    "d7c5ba3bd8b21fac",
+    "1ecaf0e0ddd5f643",
+    "2006819739d6dd3b",
+    "055243650de3b716",
+    "92101e7ee1298b56",
+    "557a8291dc057ca0",
+    "a2cf5db25b6f078a",
+    "23836370ae405d04",
+    "94de9d2bd2a58fd9",
+    "bc0d45e08793cec5",
+    "26c3b456e3024b18",
+    "0467bffb32cd6c28",
+    "3208aadbd0fb4b35",
+    "818b76829cdc9ebe",
+    "4c03582420d99baf",
+    "89c3183ee89a70d0",
+    "a58a78088c8fd5fa",
+    "b1b9d6340943eda7",
+    "a2db66441ba3b6ea",
+    "f26daa760cd0aa06",
+    "b0d1b667214fffe8",
+    "799270b5cceafd50",
+    "bfcb98d75dcdfbf6",
+    "96de3cce3dc4340c",
+    "80c20ccf6e4efdb3",
+    "1b56f8f90bbf8d86",
+    "9f88d2d32b35db2d",
+    "335f61cda91aa5f6",
+    "fe8b466098ae8459",
+    "a27e77bc5da14e6e",
+    "956440a4dcc60c8f",
+    "5ff34ba1451910d3",
+    "54f36dba11b4dd4e",
+    "f3e4636610182e91",
+    "06e92dfd02043f76",
+    "ceb29afe49d8351b",
+    "026109b44ca7e3b1",
+    "49b408048fdef4e0",
+    "e5b8f455100c19b9",
+    "ba19ca3d47a5bf77",
+    "7bd84c3bde5aec0f",
+    "7e976a7291c1a098",
+    "75e2e8f4b312f45d",
+    "9e31d109522ebacb",
+    "61f26ed42098e29c",
+    "ea4ec05d64612a01",
+    "46ec28cccab2d4c1",
+    "47816d8c027c030a",
+    "f60914b5e2c656ae",
+    "e16a50008b630898",
+    "1f75d49da69256fb",
+    "576710b88c0e3f0f",
+    "2827d375d06cfe50",
+    "1b841bf4c19af2d8",
+    "fa0dcf7277a247de",
+    "a45a0d74c979fed8",
+    "c2f8498fc37e7283",
+    "7fec1bb5fda43a56",
+    "7b1cfd6ac0ed8a80",
+    "95eac53d55b4182f",
+    "e1cae893aa532b99",
+    "eeac822d441ba46e",
+    "eb204f00dab196ba",
+    "a8b5ce8e58d85fbf",
+    "bc751b50e0c7994a",
+    "e23773086bab59e7",
+    "b4b545f473083492",
+    "8431a3727b358863",
+    "884ba1e3d7885071",
+    "ff1d09a746efed50",
+    "583ca33223d8f1cd",
+    "f3fe43ee8479dc90"
+   ]
+  },
+  {
+   "date": "2015-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66761449:por",
+     "title": "Decreto-Lei n.º 39/2015",
+     "published": "2015-03-16",
+     "dre_path": "/dr/detalhe/decreto-lei/39-2015-66761449"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::1.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::2.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::3.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::4.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::5.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::6.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::7.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::8.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::9.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::10.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::11.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::12.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::13.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::14.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::15.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::16.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::17.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::18.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::19.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::20.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::21.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::22.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::23.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::24.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::25.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::26.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::27.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::28.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::29.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::30.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::31.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::32.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::33.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::34.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::35.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::36.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::37.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::38.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::39.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::40.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::41.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::42.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::43.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::44.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::45.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::46.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::47.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::48.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::49.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::50.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::51.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::52.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::53.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::54.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)::55.º"
+   ],
+   "fragments": [
+    "1eba77e046899f5f",
+    "ea9108ccee07139f",
+    "11fd59395c02c4f2",
+    "2006819739d6dd3b",
+    "2dc496c801162266",
+    "92101e7ee1298b56",
+    "e6f33b98a815082a",
+    "a2cf5db25b6f078a",
+    "23836370ae405d04",
+    "c3e96d8cb79c1e91",
+    "8101b9f78288be93",
+    "7cf43199d4133f2e",
+    "14cecc5b540d4fb3",
+    "1f2db7ea45ec1e7d",
+    "818b76829cdc9ebe",
+    "ef257865e1365241",
+    "69bf071da79991c6",
+    "7c989382e172edca",
+    "2b6eeb5a9cede97b",
+    "8596faa7ae2740a7",
+    "3abc01a8920e121e",
+    "ff40585cf66aab59",
+    "e0c4894bd05d99bf",
+    "935a192fe9d49a17",
+    "839f9df6551b78de",
+    "ddf7f45ef55c381f",
+    "2d5365386bfa6e2e",
+    "f2f6a55a21b11350",
+    "335f61cda91aa5f6",
+    "0881ba01a84563e6",
+    "a27e77bc5da14e6e",
+    "331fb50219619782",
+    "6af705dca129455f",
+    "1fa7c41c8928187f",
+    "19c404b4e555ccc7",
+    "0d14b84c02aae5f2",
+    "6a6926996fc1863a",
+    "72e119d8a4334aae",
+    "639077a8a1e097d8",
+    "dcce2702dd39d45b",
+    "2157d888e51a3b52",
+    "85b59d94c3780ac2",
+    "7e976a7291c1a098",
+    "ba109a4773888374",
+    "5ddb2e63aafe7caa",
+    "fda3d30e6a4a1e82",
+    "7a2f5ae2b8a23bec",
+    "46ec28cccab2d4c1",
+    "91fb626595ef3556",
+    "532f269fd0bce76c",
+    "31bb14495ed86eb4",
+    "f483dc06cb03f5cf",
+    "576710b88c0e3f0f",
+    "efd641e0fa302d3d",
+    "64e361ecc6a98396",
+    "fa0dcf7277a247de",
+    "93b64c54cc24387f",
+    "2bd4407925568b97",
+    "fff3cbd094c06628",
+    "d5d35d00f2cefcc2",
+    "95eac53d55b4182f",
+    "434f5afb51abcd34",
+    "ed504aaf89c83ade",
+    "127c1472a6d22dbe",
+    "fb3169fda9fcc17c",
+    "1cc8170ace28aa97",
+    "e23773086bab59e7",
+    "7a1442ddbe716846",
+    "7312d1e7990c7fcd",
+    "c6c590cd0d85306a",
+    "91ba78ea4af45284",
+    "13b32b73b599c8cd",
+    "0aa3db38dbe9faca"
+   ]
+  }
+ ],
+ "fragments": {
+  "1eba77e046899f5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Dezembro\n\nO Instituto das Comunicações de Portugal (ICP), criado pelo [Decreto-Lei n.º 188/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1981-578692), de 2 de Julho, dispõe de estatutos aprovados desde 1989, os quais, ao longo de mais de uma década de actividade, sofreram sucessivas alterações, por forma a clarificar aspectos do seu funcionamento e a acolher diferentes exigências decorrentes da evolução do sector.\n\nNão obstante tais alterações pontuais, facto é que as suas funções e enquadramento institucional foram, directa ou indirectamente, influenciadas pelas transformações económicas e legislativas do sector das comunicações, impulsionadas pelo efeito do direito comunitário no sentido da liberalização e da intervenção da concorrência no sector, sem prejuízo da permanência de serviços universais sujeitos a obrigações de serviço público.\n\nCom efeito, nos últimos 10 anos, a liberalização progressiva do sector das comunicações, especialmente das telecomunicações, essencialmente marcada pela influência do direito comunitário, conduziu à incorporação no direito interno de todo um acervo de normas que se consubstanciaram no reconhecimento ao ICP de diversas atribuições, entre as quais se destaca a expressa qualificação como «entidade reguladora» do sector das telecomunicações, efectivada pela [Lei n.º 91/97](https://diariodarepublica.pt/dr/detalhe/lei/91-1997-141831), de 1 de Agosto, que definiu as bases gerais a que deve obedecer o estabelecimento, gestão e exploração de redes de telecomunicações e a prestação de serviços de telecomunicações.\n\nAlém de intervir no sector das telecomunicações, o ICP é também a entidade reguladora postal, nos termos do disposto no artigo 18.º, n.º 2, da [Lei n.º 102/99](https://diariodarepublica.pt/dr/detalhe/lei/102-1999-353348), de 26 de Julho, que definiu as bases gerais a que deve obedecer o estabelecimento, gestão e exploração de serviços postais no território nacional.\n\nÀs atribuições apontadas acrescem, entre outras, a de garantir a existência e disponibilidade de um serviço universal de comunicações, assegurar a concorrência efectiva no mercado das comunicações, promover o esclarecimento dos consumidores, assegurar a gestão da numeração no sector das comunicações, envolvendo a atribuição dos recursos e a sua fiscalização, conceder títulos do exercício da actividade postal e de telecomunicações, fiscalizar o cumprimento das leis e regulamentos aplicáveis ao sector, arbitrar e resolver os conflitos que surjam no âmbito das comunicações, assessorar o Governo, a pedido deste, ou por iniciativa própria, na definição das linhas estratégicas e das políticas gerais das comunicações, bem como emitir pareceres e elaborar projectos de legislação no domínio das comunicações.\n\nA dispersão das atribuições apontadas por vários diplomas legais avulsos torna imperioso que se proceda à sua consolidação num único texto, com vista a concretizar e até clarificar ou explicitar o alcance de algumas delas, de modo a contribuir para a compreensão global e integrada do papel do ICP e para o reforço da sua coesão, enquanto autoridade de regulação e supervisão das comunicações, o que, de resto, justifica a necessidade de proceder a alterações, quer do respectivo desenho orgânico-institucional quer da própria designação que passa a ser ICP - Autoridade Nacional de Comunicações (ICP - ANACOM).\n\nA concretização cabal das atribuições cometidas ao ICP - ANACOM fazem deste uma verdadeira entidade de regulação e supervisão das comunicações, o que exige não só uma rigorosa identificação mas também o reforço dos seus poderes e procedimentos de autoridade. Além de emitir actos individuais e concretos vinculativos e formular recomendações concretas, instaurar e instruir os processos e punir as infracções que sejam da sua competência, fiscalizar o cumprimento da leis e regulamentos aplicáveis ao sector das comunicações, vigiar a actividade das entidades sujeitas à sua supervisão e o funcionamento do mercado das telecomunicações, o ICP - ANACOM há-de poder emitir os regulamentos que se revelem indispensáveis à prossecução das suas funções.\n\nNa verdade, a especificidade técnica do sector das comunicações associada às inovações constantes do mesmo impõem a existência de um amplo espaço para a intervenção ordenadora da autoridade de regulação. Trata-se de um poder normativo que assenta no reconhecimento de que só o ICP - ANACOM, fruto da especialização técnica e do conhecimento acumulado, está preparado para responder de forma rápida e flexível às necessidades e mutações constantes que se produzem no sector, em especial no mercado das telecomunicações.\n\nA necessidade de adequação às inovações provocadas pelo constante progresso técnico e a globalização impõem também que se habilite a entidade reguladora das comunicações de instrumentos que lhe confiram flexibilidade, não só no plano jurídico-material, mas também ao nível do regime económico-financeiro e dos contratos de aquisição de bens e serviços.\n\nNeste sentido, o regime jurídico adequado às funções do ICP - ANACOM será um regime misto que conjugue as prerrogativas de direito público, indispensáveis para o desempenho dos seus poderes de autoridade, com a flexibilidade e eficiência do direito privado, uma vez que intervém num sector em mutação constante.\n\nÀ medida que cresce a liberalização do sector, a autoridade reguladora das comunicações é cada vez mais chamada a assegurar uma real e efectiva concorrência no sector e a actuar como um árbitro neutro e imparcial. O que significa que a garantia da existência de uma concorrência efectiva entre os operadores e prestadores de serviços, não apenas no acesso como também na actuação no mercado, impõe uma maior independência funcional e orgânica do ICP - ANACOM.\n\nPor último, sem prejuízo de uma possível evolução do quadro regulatório aplicável aos sectores das comunicações e audiovisual no sentido da convergência, o presente diploma consagra, a um tempo, uma matriz de regulação moderna e efectiva, bem como um novo modelo organizacional flexível e coerente com os objectivos programáticos do Governo em matéria de reforma do Estado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "d7c5ba3bd8b21fac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Estatuto do ICP - Autoridade Nacional de Comunicações (ICP - ANACOM)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estatuto do ICP - Autoridade Nacional de Comunicações (ICP - ANACOM)\n\n1 - O Instituto das Comunicações de Portugal (ICP), criado pelo [Decreto-Lei n.º 188/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1981-578692), de 2 de Julho, passa a denominar-se ICP - Autoridade Nacional de Comunicações, abreviadamente designado por ICP - ANACOM.\n\n2 - O ICP - ANACOM continua a personalidade jurídica do ICP, instituído pelo [Decreto-Lei n.º 188/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1981-578692), de 2 de Julho, mantendo todos os direitos e obrigações legais ou contratuais, que integram a respectiva esfera jurídica.\n\n3 - A partir da entrada em vigor do presente diploma, as referências feitas ao ICP constantes de lei ou contrato consideram-se feitas ao ICP - ANACOM.\n\n4 - O presente diploma será título bastante da comprovação do previsto no número anterior para todos os efeitos legais, incluindo os de registo, devendo as repartições competentes realizar, com isenção de quaisquer taxas ou emolumentos e mediante simples comunicação do presidente do conselho de administração, os actos necessários à regularização da situação."
+  },
+  "1ecaf0e0ddd5f643": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Equiparação ao Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Equiparação ao Estado\n\nNo exercício das suas atribuições, o ICP - ANACOM assume os direitos e obrigações atribuídos ao Estado nas disposições legais e regulamentares aplicáveis, designadamente quanto:\n\na) À cobrança coerciva de taxas, rendimentos do serviço e outros créditos;\n\nb) À protecção das suas instalações e do seu pessoal;\n\nc) À utilidade pública dos serviços de comunicações, sua fiscalização, definição de infracções respectivas e aplicação das competentes penalidades;\n\nd) À fiscalização radioeléctrica e às intimações, aplicação de sanções e demais actos daquela resultantes."
+  },
+  "2006819739d6dd3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Isenções\n\nO ICP - ANACOM está isento de todas as taxas, custas e emolumentos de qualquer natureza nos processos e actos notariais em que intervenha."
+  },
+  "055243650de3b716": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Actuais mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Actuais mandatos\n\n1 - A aprovação dos presentes Estatutos não implica o termo dos mandatos dos membros dos órgãos do ICP - ANACOM em exercício de funções à data da entrada em vigor do presente diploma, os quais se mantêm inalterados.\n\n2 - O novo estatuto dos membros do conselho de administração não se aplica aos membros do conselho de administração em exercício, salvo mediante declaração dos próprios, a apresentar no prazo de 30 dias após a entrada em vigor do presente diploma."
+  },
+  "92101e7ee1298b56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nSão revogados os Decretos-Leis n.os 283/89, de 23 de Agosto, excepto o n.º 3 do artigo 28.º, 379/90, de 7 de Dezembro, 165/92, de 5 de Agosto, 95/96, de 17 de Julho, e 100/98, de 21 de Abril."
+  },
+  "557a8291dc057ca0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente diploma entra em vigor no 30.º dia após a sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 20 de Setembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Rui Eduardo Ferreira Rodrigues Pena - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Luís Garcia Braga da Cruz - Augusto Ernesto Santos Silva - José Mariano Rebelo Pires Gago - António José Martins Seguro.\n\nPromulgado em 20 de Novembro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Novembro de 2001.\n\nO Primeiro-Ministro, em exercício, Guilherme d'Oliveira Martins."
+  },
+  "a2cf5db25b6f078a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ESTATUTOS DO ICP - AUTORIDADE NACIONAL DE COMUNICAÇÕES (ICP - ANACOM)"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "94de9d2bd2a58fd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza jurídica e finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza jurídica e finalidade\n\n1 - O ICP - Autoridade Nacional de Comunicações, abreviadamente designado por ICP - ANACOM, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e de património próprio.\n\n2 - O ICP - ANACOM tem por objecto a regulação, supervisão e representação do sector das comunicações, nos termos dos presentes Estatutos e da lei."
+  },
+  "bc0d45e08793cec5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Sede e delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede e delegações\n\n1 - O ICP - ANACOM tem sede em Lisboa.\n\n2 - O ICP - ANACOM pode ter delegações, agências ou qualquer outra forma de representação no território nacional."
+  },
+  "26c3b456e3024b18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime jurídico\n\nO ICP - ANACOM rege-se pelo disposto nos presentes Estatutos, pelas disposições legais que lhe sejam especificamente aplicáveis e, subsidiariamente, pelo regime jurídico das entidades públicas empresariais, ressalvadas as especificidades previstas nos presentes Estatutos, bem como as regras incompatíveis com a natureza não empresarial daquele."
+  },
+  "0467bffb32cd6c28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Independência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Independência\n\nO ICP - ANACOM é independente no exercício das suas funções, no quadro da lei, sem prejuízo dos princípios orientadores de política de comunicações fixados pelo Governo, nos termos constitucionais e legais, e dos actos sujeitos a tutela ministerial, nos termos previstos na lei e nos presentes Estatutos."
+  },
+  "3208aadbd0fb4b35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Princípio da especialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípio da especialidade\n\n1 - A capacidade jurídica do ICP - ANACOM abrange os direitos e obrigações necessários à prossecução do seu objecto.\n\n2 - O ICP - ANACOM não pode exercer actividades ou usar os seus poderes fora das suas atribuições nem dedicar os seus recursos a finalidades diversas das que lhe estão cometidas."
+  },
+  "818b76829cdc9ebe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Atribuições e poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Atribuições e poderes"
+  },
+  "4c03582420d99baf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atribuições\n\n1 - São atribuições do ICP - ANACOM:\n\na) Coadjuvar o Governo, a pedido deste ou por iniciativa própria, na definição das linhas estratégicas e das políticas gerais das comunicações e da actividade dos operadores de comunicações, incluindo a emissão de pareceres e elaboração de projectos de legislação no domínio das comunicações;\n\nb) Assegurar a regulação e a supervisão do sector das comunicações;\n\nc) Assegurar a gestão do espectro radioeléctrico, envolvendo a planificação, a atribuição dos recursos espectrais e a sua supervisão, bem como assegurar a coordenação entre as comunicações civis, militares e paramilitares;\n\nd) Assegurar o cumprimento das obrigações inerentes ao serviço universal de comunicações;\n\ne) Garantir o acesso dos operadores de comunicações às redes, em condições de transparência e igualdade, nos termos previstos na lei;\n\nf) Promover a competitividade e o desenvolvimento nos mercados das comunicações, nomeadamente no contexto da convergência das comunicações, dos meios de comunicação social e das tecnologias da informação;\n\ng) Coordenar com a entidade competente a aplicação da lei da concorrência no sector das comunicações;\n\nh) Proteger os interesses dos consumidores, especialmente os utentes do serviço universal, em coordenação com as entidades competentes, promovendo designadamente o esclarecimento dos consumidores, assegurando a divulgação de informação inerente ao uso público das comunicações;\n\ni) Atribuir os títulos de exercício da actividade postal e de telecomunicações;\n\nj) Proceder à avaliação da conformidade de equipamentos e materiais, bem como definir os requisitos necessários para a sua comercialização;\n\nl) Promover a normalização técnica, em colaboração com outras organizações, no sector das comunicações e áreas relacionadas;\n\nm) Promover processos de consulta pública e de manifestação de interesse, nomeadamente no âmbito da introdução de novos serviços ou tecnologias;\n\nn) Velar pela aplicação e fiscalização do cumprimento das leis, regulamentos e requisitos técnicos aplicáveis no âmbito das suas atribuições, bem como o cumprimento, por parte dos operadores de comunicações, das disposições dos respectivos títulos de exercício da actividade ou contratos de concessão;\n\no) Participar na definição estratégica global de desenvolvimento das comunicações, nomeadamente no contexto da convergência das telecomunicações, dos meios de comunicação social e das tecnologias da informação, realizando os estudos adequados para o efeito;\n\np) Colaborar na definição das políticas de planeamento civil de emergência do sector das comunicações;\n\nq) Arbitrar e resolver os litígios que surjam no âmbito das comunicações, nos termos definidos na lei;\n\nr) Assegurar a representação técnica do Estado Português nos organismos internacionais congéneres, quando de outro modo não for determinado;\n\ns) Assegurar a realização de estudos nas áreas das comunicações postais e de telecomunicações, bem como a execução de projectos no âmbito da promoção do desenvolvimento do acesso à sociedade de informação e do conhecimento, nomeadamente quando envolvam a introdução de redes e serviços avançados, a redução de assimetrias regionais, a adopção de medidas aplicáveis a cidadãos com necessidades especiais, quer directos quer sob a forma de apoio a entidades públicas ou privadas;\n\nt) Desempenhar as demais funções que lhe sejam atribuídas por lei.\n\n2 - Incumbe ainda ao ICP - ANACOM:\n\na) Colaborar com outras entidades públicas e privadas na promoção da investigação científica aplicada às comunicações, bem como na divulgação nacional e internacional do sector;\n\nb) Acompanhar a actividade das entidades reguladoras afins e as experiências estrangeiras de regulação das comunicações e estabelecer relações com outras entidades reguladoras, bem como, no plano técnico, com os organismos comunitários e internacionais;\n\nc) Proceder à divulgação do quadro regulatório em vigor e das suas competências e iniciativas, bem como dos direitos e obrigações dos operadores e dos consumidores de comunicações;\n\nd) Apoiar tecnicamente os organismos e serviços aos quais incumbe o acompanhamento do processo de estabelecimento e gestão da rede integrada de comunicações de emergência."
+  },
+  "89c3183ee89a70d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competência consultiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência consultiva\n\n1 - O ICP - ANACOM pronunciar-se-á sobre todos os assuntos da sua esfera de atribuições que lhe sejam submetidos pela Assembleia da República ou pelo Governo e pode, por sua iniciativa, sugerir ou propor medidas de natureza política ou legislativa nas matérias atinentes às suas atribuições.\n\n2 - O ICP - ANACOM responderá no prazo máximo de 60 dias às consultas que lhe sejam feitas pelas concessionárias ou entidades licenciadas sobre assuntos da sua competência."
+  },
+  "a58a78088c8fd5fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Colaboração de outras autoridades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Colaboração de outras autoridades\n\nO ICP - ANACOM dispõe da cooperação das autoridades e serviços competentes em tudo o que for necessário ao desempenho das suas funções."
+  },
+  "b1b9d6340943eda7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Procedimentos de regulação e supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimentos de regulação e supervisão\n\nNo âmbito das suas competências de regulação e supervisão, o ICP - ANACOM pode adoptar, nos termos da lei, os seguintes procedimentos:\n\na) Elaborar regulamentos nos casos previstos na lei e quando se mostrem indispensáveis ao exercício das suas atribuições;\n\nb) Acompanhar a actividade das entidades sujeitas à sua supervisão e o funcionamento dos mercados das comunicações;\n\nc) Fiscalizar o cumprimento da lei e dos regulamentos aplicáveis ao sector das comunicações;\n\nd) Aprovar os actos previstos na lei;\n\ne) Efectuar os registos previstos na lei;\n\nf) Instaurar e instruir os processos sancionatórios e punir as infracções que sejam da sua competência;\n\ng) Dar ordens e formular recomendações concretas;\n\nh) Difundir informações;\n\ni) Publicar estudos;\n\nj) Outros previstos na lei."
+  },
+  "a2db66441ba3b6ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Procedimentos sancionatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimentos sancionatórios\n\n1 - Compete ao ICP - ANACOM processar e punir as infracções administrativas às leis e regulamentos cuja implementação ou supervisão lhe compete, bem como as resultantes do incumprimento das suas próprias determinações.\n\n2 - Os procedimentos sancionatórios respeitam o princípio da audiência dos interessados, do contraditório e demais princípios constantes do Código do Procedimento Administrativo e, quando for caso disso, do regime das contra-ordenações.\n\n3 - Incumbe ainda ao ICP - ANACOM participar às autoridades competentes as infracções de que tome conhecimento no desempenho das suas funções."
+  },
+  "f26daa760cd0aa06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Procedimento regulamentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento regulamentar\n\n1 - Os regulamentos do ICP - ANACOM devem observar os princípios da legalidade, da necessidade, da clareza, da participação e da publicidade.\n\n2 - Previamente à aprovação ou alteração de qualquer regulamento cuja emissão seja da sua competência, o ICP - ANACOM deve dar conhecimento ao ministro da tutela, às entidades concessionárias ou licenciadas, aos operadores, aos demais prestadores de serviços registados, bem como às associações de consumidores de interesse genérico ou específico na área das comunicações, facultando-lhes o acesso aos textos respectivos e disponibilizando-os no seu website.\n\n3 - Para efeitos do número anterior, podem os interessados emitir os seus comentários e apresentar sugestões durante um período de 30 dias.\n\n4 - As entidades previstas no n.º 2 anterior podem ter acesso a todas as sugestões que tenham sido apresentadas nos termos do presente artigo.\n\n5 - O relatório preambular dos regulamentos fundamenta as decisões tomadas, com necessária referência às críticas ou sugestões que tenham sido feitas ao projecto.\n\n6 - Os regulamentos do ICP - ANACOM que contenham normas de eficácia externa são publicados na 2.ª série do Diário da República e disponibilizados no respectivo website, sem prejuízo da sua publicitação por outros meios considerados mais adequados à situação.\n\n7 - Os regulamentos do ICP - ANACOM, que apenas visem regular procedimentos de carácter interno de uma ou mais categorias de operadores ou de prestadores de serviços, denominam-se instruções, são notificadas aos respectivos destinatários, quando identificáveis, e entram em vigor cinco dias após a notificação ou na data nelas referida."
+  },
+  "b0d1b667214fffe8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Exercício da supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Exercício da supervisão\n\n1 - Nos termos da lei, o ICP - ANACOM pode proceder a averiguações e exames em qualquer entidade ou local, no quadro do desempenho dessas funções.\n\n2 - Para efeitos dos números anteriores, o ICP - ANACOM pode credenciar pessoas ou entidades especialmente qualificadas e habilitadas."
+  },
+  "799270b5cceafd50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Obrigações dos operadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Obrigações dos operadores\n\n1 - As entidades concessionárias ou licenciadas, os operadores bem como os demais prestadores de serviços registados devem prestar ao ICP - ANACOM toda a cooperação que esta lhes solicite para o cabal desempenho das suas funções, designadamente as informações e documentos que lhe sejam solicitados, os quais devem ser fornecidos no prazo máximo de 30 dias, salvo se outro prazo menor for estabelecido por motivos de urgência.\n\n2 - O ICP - ANACOM pode proceder à divulgação das informações obtidas, sempre que isso seja relevante para a regulação do sector, salvo se se tratar de matéria sensível para as entidades em causa.\n\n3 - O ICP - ANACOM pode divulgar a identidade dos operadores sujeitos a processos de investigação, bem como a matéria a investigar, nomeadamente quando desencadeados por efeito de queixa."
+  },
+  "bfcb98d75dcdfbf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sigilo\n\n1 - Os titulares dos órgãos do ICP - ANACOM, respectivos mandatários, pessoas ou entidades qualificadas devidamente credenciadas, bem como os seus trabalhadores eventuais ou permanentes, estão especialmente obrigados a guardar sigilo de factos cujo conhecimento lhes advenha exclusivamente pelo exercício das suas funções.\n\n2 - A violação do dever de segredo profissional previsto no número anterior é, para além da inerente responsabilidade disciplinar e civil, punível nos termos do Código Penal."
+  },
+  "96de3cce3dc4340c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Cooperação com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Cooperação com outras entidades\n\nO ICP - ANACOM pode estabelecer relações de cooperação ou associação, no âmbito das suas atribuições, com outras entidades públicas ou privadas, nacionais ou estrangeiras, nomeadamente no quadro da União Europeia, desde que isso não implique delegação ou partilha das suas competências reguladoras."
+  },
+  "80c20ccf6e4efdb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Queixas dos consumidores e utilizadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Queixas dos consumidores e utilizadores\n\n1 - O ICP - ANACOM pode inspeccionar, regularmente, os registos das queixas e reclamações dos consumidores e demais utilizadores apresentadas às entidades concessionárias ou licenciadas, as quais devem preservar adequados registos das mesmas.\n\n2 - O ICP - ANACOM pode ordenar a investigação das queixas ou reclamações dos consumidores e utilizadores apresentadas às próprias entidades concessionárias ou licenciadas ou directamente à própria entidade reguladora, desde que se integrem no âmbito das suas competências.\n\n3 - O ICP - ANACOM pode igualmente recomendar ou determinar às entidades concessionárias ou licenciadas as providências necessárias à reparação das justas queixas dos utentes."
+  },
+  "1b56f8f90bbf8d86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Cumprimento das obrigações legais ou contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cumprimento das obrigações legais ou contratuais\n\n1 - Em caso de incumprimento das obrigações inerentes à prestação do serviço universal, das obrigações legais e contratuais em geral ou dos padrões de qualidade regulamentarmente definidos, o ICP - ANACOM pode recomendar ou determinar às entidades concessionárias ou licenciadas a adopção das competentes medidas correctivas.\n\n2 - Se as acções definidas não forem executadas, ou não houver cumprimento do calendário estabelecido para a sua execução, o ICP - ANACOM pode, conforme os casos, accionar ou propor ao Governo o accionamento das medidas sancionatórias previstas para a violação da lei ou incumprimento do contrato de concessão ou das condições da licença."
+  },
+  "9f88d2d32b35db2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Arbitragem\n\n1 - O ICP - ANACOM deve fomentar a arbitragem voluntária para a resolução de conflitos de natureza comercial ou contratual entre as entidades concessionárias e licenciadas de produção, transporte e de distribuição e entre elas e os consumidores.\n\n2 - Para cumprimento do disposto no número anterior, o ICP - ANACOM pode cooperar na criação de centros de arbitragem institucionalizada e estabelecer acordos com centros de arbitragem institucionalizada já existentes."
+  },
+  "335f61cda91aa5f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Organização do ICP - ANACOM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Organização do ICP - ANACOM"
+  },
+  "fe8b466098ae8459": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Órgãos\n\nSão órgãos do ICP - ANACOM o conselho de administração, o conselho fiscal e o conselho consultivo."
+  },
+  "a27e77bc5da14e6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Conselho de administração"
+  },
+  "956440a4dcc60c8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Função\n\nO conselho de administração é o órgão colegial responsável pela definição e implementação da actividade reguladora do ICP - ANACOM, bem como pela direcção dos respectivos serviços."
+  },
+  "5ff34ba1451910d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Composição e nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Composição e nomeação\n\n1 - O conselho de administração é constituído por um presidente e dois ou quatro vogais, devendo, neste último caso, ser designado um vice-presidente.\n\n2 - Os membros do conselho de administração são nomeados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área das comunicações.\n\n3 - Os membros do conselho de administração são nomeados de entre pessoas com reconhecida idoneidade, independência e competência técnica e profissional.\n\n4 - Não pode ser nomeado quem seja ou tenha sido membro dos corpos gerentes das empresas dos sectores das comunicações nos últimos dois anos, ou seja ou tenha sido trabalhador ou colaborador permanente das mesmas com funções de direcção ou chefia no mesmo período de tempo.\n\n5 - Os membros do conselho de administração não podem ter interesses de natureza financeira ou participações nas empresas reguladas dos sectores das comunicações.\n\n6 - Os membros do conselho de administração são nomeados por um período de cinco anos, não renovável, continuando os seus membros em exercício até à efectiva substituição ou declaração de cessação de funções."
+  },
+  "54f36dba11b4dd4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Estatuto\n\n1 - Os membros do conselho de administração estão sujeitos ao estatuto do gestor público em tudo o que não resultar dos presentes Estatutos, sendo a sua remuneração estabelecida por despacho conjunto dos Ministros das Finanças e da Tutela e do membro do Governo responsável pela Reforma do Estado e da Administração Pública de conformidade com esse estatuto.\n\n2 - É aplicável aos membros do conselho de administração o regime geral da segurança social, salvo quando pertencerem aos quadros da função pública, caso em que lhes será aplicável o regime próprio do seu lugar de origem.\n\n3 - Os membros do conselho de administração não podem, durante o seu mandato, exercer qualquer outra função pública ou actividade profissional, excepto no que se refere ao exercício de funções docentes no ensino superior em tempo parcial.\n\n4 - Os membros do conselho de administração estão sujeitos às incompatibilidades e impedimentos dos titulares de altos cargos públicos."
+  },
+  "f3e4636610182e91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Cessação de funções\n\n1 - Os membros do conselho de administração cessam o exercício das suas funções:\n\na) Pelo decurso do prazo por que foram designados;\n\nb) Por incapacidade permanente ou por incompatibilidade superveniente do titular;\n\nc) Por renúncia;\n\nd) Por demissão decidida por resolução do Conselho de Ministros em caso de falta grave, comprovadamente cometida pelo titular no desempenho das suas funções ou no cumprimento de qualquer obrigação inerente ao cargo;\n\ne) Por motivo de condenação pela prática de qualquer crime doloso.\n\n2 - O mandato dos membros do conselho de administração caducará caso esse órgão seja dissolvido ou o ICP - ANACOM seja legalmente extinto ou fundido com outra entidade reguladora.\n\n3 - Em caso de cessação individual de mandato, o novo membro é sempre nomeado pelo período de cinco anos.\n\n4 - Após o termo das suas funções, os membros do conselho de administração ficam impedidos, pelo período de dois anos, de desempenhar qualquer função ou prestar qualquer serviço às empresas dos sectores regulados.\n\n5 - Durante o período de impedimento estabelecido no número anterior, a entidade reguladora continuará a abonar aos ex-membros do conselho de administração dois terços da remuneração correspondente ao cargo, cessando esse abono a partir do momento em que estes sejam contratados ou nomeados para o desempenho de qualquer função ou serviço público ou privado remunerados, ressalvadas as funções previstas no n.º 3 do artigo 22.º"
+  },
+  "06e92dfd02043f76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Dissolução do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Dissolução do conselho de administração\n\n1 - O conselho de administração só pode ser dissolvido por resolução do Conselho de Ministros, precedendo parecer do conselho consultivo do ICP - ANACOM, nos seguintes casos:\n\na) Graves irregularidades no funcionamento do órgão;\n\nb) Considerável excesso das despesas realizadas sobre as orçamentadas, sem justificação adequada.\n\n2 - Em caso de dissolução do conselho de administração, os novos membros são nomeados para os seguintes mandatos:\n\na) No caso de um conselho de três membros, um membro por cinco anos, um por quatro anos e um por três anos;\n\nb) No caso de um conselho de cinco membros, dois membros por cinco anos, dois por quatro anos e um por um ano."
+  },
+  "ceb29afe49d8351b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Independência dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Independência dos membros\n\nSem prejuízo do disposto no artigo 4.º e nos artigos precedentes, os membros do conselho de administração são independentes no exercício das suas funções, não estando sujeitos a instruções ou orientações específicas."
+  },
+  "026109b44ca7e3b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Competências do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Competências do conselho de administração\n\nSão competências do conselho de administração:\n\na) Definir a orientação geral do ICP - ANACOM e acompanhar a sua execução;\n\nb) Aprovar os regulamentos e tomar as deliberações previstas no presente diploma ou necessárias ao exercício das suas funções;\n\nc) Elaborar os pareceres previstos nos presentes Estatutos;\n\nd) Elaborar anualmente um relatório sobre a situação das comunicações e sobre a sua actividade de regulação e supervisão e proceder à sua divulgação pública, pelos meios mais adequados, apresentando-o ao ministro da tutela até à data fixada para a elaboração do relatório e contas;\n\ne) Aprovar a organização e funcionamento do ICP - ANACOM;\n\nf) Constituir mandatários e designar representantes do ICP - ANACOM junto de outras entidades;\n\ng) Arrecadar receitas e autorizar a realização das despesas;\n\nh) Gerir o património do ICP - ANACOM, podendo adquirir, alienar ou onerar bens móveis e imóveis e aceitar donativos, heranças ou legados;\n\ni) Submeter à aprovação tutelar os planos de actividades e financeiros plurianuais, os orçamentos e o relatório e contas do ICP - ANACOM;\n\nj) Submeter à aprovação do ministro da tutela a criação ou encerramento de delegações ou de agências do ICP - ANACOM;\n\nl) Praticar todos os demais actos necessários à realização das atribuições do ICP - ANACOM para que não seja competente outro órgão."
+  },
+  "49b408048fdef4e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Delegação de poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Delegação de poderes\n\n1 - O conselho de administração pode delegar, por acta, poderes em um ou mais dos seus membros ou em trabalhadores do ICP - ANACOM e autorizar que se proceda à subdelegação desses poderes, estabelecendo em cada caso os respectivos limites e condições.\n\n2 - Sem prejuízo da inclusão de outros poderes, a atribuição de um pelouro implica a delegação das competências necessárias para dirigir e fiscalizar os serviços respectivos e para praticar os actos de gestão corrente das unidades organizacionais envolvidas.\n\n3 - As deliberações que envolvam delegação de poderes devem ser objecto de publicação na 2.ª série do Diário da República."
+  },
+  "e5b8f455100c19b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Funcionamento\n\n1 - O conselho de administração reúne ordinariamente uma vez por semana e extraordinariamente quando for convocado pelo seu presidente, por iniciativa sua ou a solicitação de dois dos restantes membros.\n\n2 - O conselho de administração poderá designar um funcionário para o assessorar, competindo-lhe, entre outras tarefas, promover as respectivas convocatórias e elaborar as actas das reuniões."
+  },
+  "ba19ca3d47a5bf77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Presidente do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Presidente do conselho de administração\n\n1 - Compete ao presidente do conselho de administração:\n\na) Convocar e presidir ao conselho de administração e dirigir as suas reuniões;\n\nb) Coordenar a actividade do conselho de administração;\n\nc) Representar o ICP - ANACOM em juízo ou fora dele, salvo quando a lei ou os Estatutos exijam outra forma de representação;\n\nd) Assegurar as relações do ICP - ANACOM com o Governo e outras autoridades.\n\n2 - O presidente do conselho de administração, quando não haja vice-presidente, designa o vogal que o substitui nas suas ausências e impedimentos, sendo substituído, na falta de tal designação, pelo vogal mais antigo ou, em caso de igual antiguidade, pelo vogal de mais idade.\n\n3 - Por razões de urgência devidamente fundamentadas, o presidente do conselho de administração ou quem o substituir nas suas ausências e impedimentos, pode praticar quaisquer actos da competência do conselho de administração, os quais deverão, no entanto, ser sujeitos a ratificação na primeira reunião ordinária seguinte do conselho.\n\n4 - O presidente do conselho de administração pode delegar o exercício de parte da sua competência em qualquer dos restantes membros do conselho."
+  },
+  "7bd84c3bde5aec0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Vinculação do ICP - ANACOM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Vinculação do ICP - ANACOM\n\n1 - O ICP - ANACOM obriga-se pela assinatura:\n\na) Do presidente do conselho de administração ou de outros dois membros, se outra forma não for deliberada pelo mesmo conselho;\n\nb) De quem estiver habilitado para o efeito, nos termos e âmbito do respectivo mandato.\n\n2 - Os actos de mero expediente podem ser assinados por qualquer membro do conselho de administração ou por trabalhadores do ICP - ANACOM a quem tal poder tenha sido expressamente conferido.\n\n3 - Sem prejuízo do disposto nos números anteriores, o ICP - ANACOM obriga-se, ainda, pela assinatura de mandatários, no âmbito restrito dos poderes que lhe hajam sido conferidos."
+  },
+  "7e976a7291c1a098": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho fiscal"
+  },
+  "75e2e8f4b312f45d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Função\n\nO conselho fiscal é o órgão responsável pelo controlo da legalidade e economicidade da gestão financeira e patrimonial do ICP - ANACOM e de consulta do conselho de administração nesse domínio."
+  },
+  "9e31d109522ebacb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Composição e estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Composição e estatuto\n\n1 - O conselho fiscal é constituído por um presidente e dois vogais, sendo um dos vogais revisor oficial de contas, designados por despacho conjunto do Ministro das Finanças e do ministro da tutela, por um período de três anos, renovável.\n\n2 - A remuneração dos membros do conselho fiscal é estabelecida nos termos do n.º 1 do artigo 22.º"
+  },
+  "61f26ed42098e29c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Competência\n\nCompete, designadamente, ao conselho fiscal:\n\na) Acompanhar e controlar a gestão financeira e patrimonial do ICP - ANACOM;\n\nb) Examinar periodicamente a situação financeira e económica do ICP - ANACOM e verificar o cumprimento das normas reguladoras da sua actividade;\n\nc) Emitir parecer sobre a aquisição, oneração, arrendamento e alienação de bens imóveis;\n\nd) Emitir parecer sobre o orçamento e o relatório e contas do ICP - ANACOM;\n\ne) Emitir parecer sobre qualquer assunto que lhe seja submetido pelos órgãos do ICP - ANACOM;\n\nf) Participar às entidades competentes as irregularidades que detecte."
+  },
+  "ea4ec05d64612a01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Funcionamento\n\nO conselho fiscal reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa, ou a solicitação de qualquer dos restantes membros, ou a pedido do presidente do conselho de administração."
+  },
+  "46ec28cccab2d4c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho consultivo"
+  },
+  "47816d8c027c030a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Função\n\nO conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de actuação do ICP - ANACOM."
+  },
+  "f60914b5e2c656ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Composição\n\n1 - O conselho consultivo tem a seguinte composição:\n\na) Um representante do ministro da tutela, que presidirá;\n\nb) Um representante de cada um dos membros do Governo responsáveis pelas áreas da defesa nacional, da administração interna, da economia, da cultura, da ciência e tecnologia, da comunicação social e da defesa do consumidor;\n\nc) Um representante de cada uma das Regiões Autónomas dos Açores e da Madeira;\n\nd) Um representante da Associação Nacional de Municípios;\n\ne) Um representante do Conselho da Concorrência;\n\nf) Um representante da entidade concessionária do serviço universal de correios;\n\ng) Um representante da entidade concessionária da rede básica de telecomunicações;\n\nh) Um representante dos operadores de redes públicas de telecomunicações;\n\ni) Um representante dos operadores de plataformas digitais de radiodifusão terrestre;\n\nj) Dois representantes dos operadores e prestadores de serviços de telecomunicações móveis;\n\nl) Um representante dos prestadores de serviços de acesso à Internet;\n\nm) Um representante dos prestadores de serviço fixo de telefone;\n\nn) Um representante dos operadores de redes de distribuição por cabo;\n\no) Um representante dos prestadores de serviços postais explorados em regime de concorrência;\n\np) Um representante a designar pelos comerciantes e instaladores de sistemas de telecomunicações;\n\nq) Um representante a designar pelos fabricantes de equipamentos, infra-estruturas ou suportes lógicos;\n\nr) Dois representantes das empresas utilizadoras de comunicações, designados pelas respectivas associações de âmbito nacional;\n\ns) Dois representantes dos consumidores individuais dos serviços de comunicações, a designar pelas associações de consumidores de interesse genérico ou específico na área das comunicações, nos termos da [Lei n.º 24/96](https://diariodarepublica.pt/dr/detalhe/lei/24-1996-406882), de 31 de Julho.\n\n2 - A nomeação dos membros do conselho consultivo é da competência das entidades representadas e, no caso dos representantes mencionados nas alíneas i) a s) do n.º 1, as nomeações serão feitas em reunião dos interessados convocada pelo presidente do conselho consultivo.\n\n3 - Os representantes referidos no n.º 1, bem como de os seus substitutos, não mais de um por cada representante, devem ser comunicados ao presidente do conselho nos 30 dias anteriores ao termo do mandato dos membros cessantes ou nos 30 dias subsequentes à vagatura.\n\n4 - A nomeação dos membros do conselho consultivo é feita por um período de três anos, renovável, sem prejuízo de poderem ser substituídos a qualquer momento pelas entidades que os nomeiam.\n\n5 - Os membros do conselho de administração e do conselho fiscal, bem como outras entidades convidadas pelo presidente do conselho consultivo aquando da discussão e análise de matérias específicas, podem assistir às reuniões do conselho consultivo e participar, nos trabalhos, sem direito de voto.\n\n6 - Os membros do conselho consultivo têm direito ao pagamento das despesas de viagem e às ajudas de custo devidas por deslocação, quando residam fora da localidade da reunião, suportadas pelo orçamento do ICP - ANACOM."
+  },
+  "e16a50008b630898": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Competência\n\nCompete ao conselho consultivo dar parecer, designadamente, sobre:\n\na) As linhas gerais do plano de actividades e do orçamento do ICP - ANACOM;\n\nb) O relatório de actividades anual, bem como o relatório previsto no artigo 51.º;\n\nc) Os preços e tarifas do serviço universal;\n\nd) A estratégia global de desenvolvimento das comunicações e as suas relações com a participação nacional na sociedade global de informação;\n\ne) Qualquer outro assunto que o conselho de administração do ICP - ANACOM, por iniciativa própria ou por iniciativa do Governo, submeter à sua apreciação."
+  },
+  "1f75d49da69256fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Funcionamento\n\n1 - O conselho consultivo reúne ordinariamente, por convocação do seu presidente, duas vezes por ano, especialmente para efeitos do disposto nas alíneas a) e b) do artigo anterior, e extraordinariamente por iniciativa do presidente ou a pedido de, pelo menos, um terço dos seus membros.\n\n2 - O conselho consultivo considera-se constituído para todos os efeitos desde que se encontre designada a maioria dos seus membros."
+  },
+  "576710b88c0e3f0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Disposições comuns aos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Disposições comuns aos órgãos"
+  },
+  "2827d375d06cfe50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Procedimento\n\n1 - Às deliberações dos órgãos colegiais do ICP - ANACOM é aplicável o regime previsto no Código do Procedimento Administrativo, com as excepções previstas nos números seguintes.\n\n2 - Nas votações não pode haver abstenções.\n\n3 - As actas das reuniões devem ser subscritas por todos os membros presentes na reunião, salvo no caso do conselho consultivo, em que serão subscritas somente pelo respectivo presidente e secretário.\n\n4 - Cada órgão aprova o respectivo regulamento interno de funcionamento."
+  },
+  "1b841bf4c19af2d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Convocações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Convocações\n\n1 - Os órgãos do ICP - ANACOM reúnem por convocação do respectivo presidente, endereçada a cada um dos seus membros, sem prejuízo do disposto no número seguinte.\n\n2 - Consideram-se validamente convocadas as reuniões que se realizem periodicamente em local, dias e horas preestabelecidos e ainda as reuniões cuja realização tenha sido deliberada em reunião anterior, na presença ou com conhecimento de todos os membros do órgão convocado e com indicação do local, dia e hora."
+  },
+  "fa0dcf7277a247de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Gestão financeira e patrimonial"
+  },
+  "a45a0d74c979fed8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Regras gerais\n\n1 - A actividade patrimonial e financeira do ICP - ANACOM rege-se pelo disposto nos presentes Estatutos e, subsidiariamente, pelo regime jurídico aplicável às entidades públicas empresariais, ressalvado o disposto no presente diploma.\n\n2 - A gestão patrimonial e financeira do ICP - ANACOM rege-se segundo princípios de direito privado, não lhe sendo aplicável o regime geral da actividade financeira dos fundos e serviços autónomos, sem prejuízo do cumprimento das regras do direito comunitário e internacional sobre mercados públicos.\n\n3 - Em qualquer caso o ICP - ANACOM deve adoptar procedimentos contratuais regidos pelos requisitos de publicidade, da concorrência e da não discriminação, bem como da qualidade e economicidade.\n\n4 - O orçamento do ICP - ANACOM, que constará do Orçamento Geral do Estado, é elaborado de acordo com o Plano Oficial de Contabilidade, não lhe sendo aplicável o regime da contabilidade pública.\n\n5 - A contabilidade do ICP - ANACOM é elaborada de acordo com o Plano Oficial de Contabilidade, não lhe sendo aplicável o regime da contabilidade pública, devendo, contudo, ser apresentados mapas consolidados, de acordo com o Plano Oficial de Contabilidade Pública, a aprovar pelo Ministro das Finanças."
+  },
+  "c2f8498fc37e7283": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Património\n\nO património do ICP - ANACOM é constituído pela universalidade dos bens, direitos e garantias que adquira ou contraia no desempenho das suas atribuições e por aqueles que lhe sejam atribuídos por lei."
+  },
+  "7fec1bb5fda43a56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Receitas\n\nConstituem receitas do ICP - ANACOM:\n\na) As taxas e outras receitas cobradas no âmbito da gestão do espectro radioeléctrico e do plano nacional de numeração;\n\nb) As taxas e outras receitas cobradas no âmbito da atribuição de títulos de exercício de actividade e fiscalização dos operadores e prestadores de serviços de comunicações;\n\nc) O produto da aplicação de multas contratuais, bem como das coimas aplicadas nos termos da lei;\n\nd) As receitas provenientes da prestação de serviços, designadamente dos seus laboratórios;\n\ne) Quaisquer outras receitas, rendimentos ou valores que provenham da sua actividade ou que por lei ou contrato lhe venham a pertencer ou a ser atribuídos, bem como quaisquer doações, subsídios ou outras formas de apoio financeiro;\n\nf) O produto da alienação de bens próprios e da constituição de direitos sobre eles;\n\ng) Os juros decorrentes de aplicações financeiras."
+  },
+  "7b1cfd6ac0ed8a80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Despesas\n\nConstituem despesas do ICP - ANACOM as que, realizadas no âmbito do exercício das atribuições e competências que lhe estão cometidas, respeitem a encargos decorrentes da sua actividade e a aquisição de bens de imobilizado."
+  },
+  "95eac53d55b4182f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Serviços e pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Serviços e pessoal"
+  },
+  "e1cae893aa532b99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Serviços\n\nO ICP - ANACOM dispõe dos serviços de apoio administrativo e técnico, aprovados pelo conselho de administração em função da aprovação do plano de actividades e orçamento."
+  },
+  "eeac822d441ba46e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Regime do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Regime do pessoal\n\n1 - O pessoal do ICP - ANACOM está sujeito ao regime jurídico do contrato individual de trabalho e está abrangido pelo regime geral da segurança social.\n\n2 - O ICP - ANACOM pode ser parte em instrumentos de regulamentação colectiva de trabalho.\n\n3 - O recrutamento de pessoal será precedido de anúncio público e será efectuado segundo critérios objectivos de selecção, a estabelecer em regulamento do ICP - ANACOM.\n\n4 - As condições de prestação e de disciplina do trabalho são definidas em regulamento próprio do ICP - ANACOM, com observância das disposições legais imperativas do regime do contrato individual de trabalho."
+  },
+  "eb204f00dab196ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Incompatibilidades\n\nO pessoal do ICP - ANACOM não pode prestar trabalho ou outros serviços, remunerados ou não, a empresas sujeitas à sua supervisão ou outras cuja actividade colida com as atribuições e competências do ICP - ANACOM."
+  },
+  "a8b5ce8e58d85fbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Funções de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Funções de fiscalização\n\n1 - Os trabalhadores do ICP - ANACOM, os respectivos mandatários, bem como as pessoas ou entidades qualificadas devidamente credenciadas que desempenhem funções de fiscalização, quando se encontrem no exercício das suas funções, são equiparados a agentes de autoridade e gozam, nomeadamente, das seguintes prerrogativas:\n\na) Aceder às instalações, equipamentos e serviços das entidades sujeitas a inspecção e controlo do ICP - ANACOM;\n\nb) Requisitar documentos para análise, bem como equipamentos e materiais para a realização de testes;\n\nc) Identificar, para posterior actuação, todos os indivíduos que infrinjam a legislação e regulamentação cuja observância devem respeitar;\n\nd) Reclamar a colaboração das autoridades competentes quando o julguem necessário ao desempenho das suas funções.\n\n2 - Aos trabalhadores do ICP - ANACOM, respectivos mandatários, bem como pessoas ou entidades qualificadas devidamente credenciadas que desempenhem as funções a que se refere o número anterior serão atribuídos cartões de identificação, cujo modelo e condições de emissão constam de portaria do membro do Governo responsável pelas comunicações."
+  },
+  "bc751b50e0c7994a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Mobilidade\n\n1 - Os funcionários da administração directa ou indirecta do Estado, das Regiões Autónomas e das autarquias locais, bem como os empregados, quadros ou administradores de empresas públicas ou privadas, podem ser requisitados para desempenhar funções no ICP - ANACOM em regime de comissão de serviço, com garantia do seu lugar de origem e dos direitos nele adquiridos, considerando-se o período da comissão como tempo de serviço prestado nos quadros de que provenham, suportando o ICP - ANACOM as despesas inerentes.\n\n2 - Os trabalhadores do ICP - ANACOM podem desempenhar funções noutras entidades, sem prejuízo do disposto no artigo 47.º, em regime de destacamento, requisição ou outros, nos termos da lei, com garantia do seu lugar de origem e dos direitos nele adquiridos, considerando-se tal período como tempo de serviço efectivamente prestado no ICP - ANACOM."
+  },
+  "e23773086bab59e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Tutela, responsabilidade e controlo judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Tutela, responsabilidade e controlo judicial"
+  },
+  "b4b545f473083492": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Tutela\n\n1 - Sem prejuízo da sua independência orgânica e funcional, o ICP - ANACOM está sujeito, nos termos dos presentes Estatutos, à tutela do membro do Governo responsável pelas comunicações e, quando for caso disso, do Ministro das Finanças, nos termos dos presentes Estatutos e demais legislação aplicável.\n\n2 - Carecem de aprovação ministerial:\n\na) O plano de actividades e o orçamento;\n\nb) O relatório de actividades e as contas;\n\nc) Outros actos previstos na lei.\n\n3 - A aprovação considera-se tacitamente concedida ao fim de 60 dias."
+  },
+  "8431a3727b358863": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Relatório ao Governo e à Assembleia da República e audições parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Relatório ao Governo e à Assembleia da República e audições parlamentares\n\n1 - O ICP - ANACOM enviará ao Governo, para ser presente igualmente à Assembleia da República, um relatório anual sobre as suas actividades de regulação.\n\n2 - O presidente do conselho de administração corresponderá, sempre que lhe for solicitado, aos pedidos de audição que sejam dirigidos pela comissão competente da Assembleia da República, para prestar informações ou esclarecimentos sobre as suas actividades."
+  },
+  "884ba1e3d7885071": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Responsabilidade jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Responsabilidade jurídica\n\nOs titulares dos órgãos do ICP - ANACOM e os seus trabalhadores e agentes respondem civil, criminal, disciplinar e financeiramente pelos actos e omissões que pratiquem no exercício das suas funções, nos termos da Constituição e demais legislação aplicável."
+  },
+  "ff1d09a746efed50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Controlo judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Controlo judicial\n\n1 - A actividade dos órgãos e agentes do ICP - ANACOM de natureza administrativa fica sujeita à jurisdição administrativa, nos termos da respectiva legislação.\n\n2 - As sanções por infracções contra-ordenacionais são impugnáveis, nos termos gerais, junto dos tribunais judiciais.\n\n3 - Das decisões proferidas no âmbito da resolução de litígios cabe recurso para os tribunais judiciais ou arbitrais, nos termos previstos na lei."
+  },
+  "583ca33223d8f1cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Fiscalização do Tribunal de Contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Fiscalização do Tribunal de Contas\n\n1 - O ICP - ANACOM está sujeito à jurisdição do Tribunal de Contas, nos termos da legislação competente.\n\n2 - Os actos e contratos do ICP - ANACOM não estão sujeitos a visto do Tribunal de Contas, sendo, no entanto, obrigatória a apresentação das contas anuais para efeitos de julgamento."
+  },
+  "f3fe43ee8479dc90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Página electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Página electrónica\n\n1 - O ICP - ANACOM deve disponibilizar um sítio na Internet, com todos os dados relevantes, nomeadamente o diploma de criação, os estatutos e regulamentos, bem como a composição dos seus órgãos, incluindo os planos, orçamentos, relatórios e contas referentes aos dois últimos anos da sua actividade e ainda os regulamentos, as deliberações e as instruções genéricas emitidas.\n\n2 - A página electrónica serve de suporte para a divulgação de modelos e formulários para a apresentação de requerimentos por via electrónica, visando a satisfação dos respectivos pedidos e obtenção de informações on line, nos termos legalmente admitidos."
+  },
+  "ea9108ccee07139f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Estatuto do ICP - Autoridade Nacional de Comunicações (ICP - ANACOM)",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 1.º — Estatuto do ICP - Autoridade Nacional de Comunicações (ICP - ANACOM)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "11fd59395c02c4f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Equiparação ao Estado",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 2.º — Equiparação ao Estado\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "2dc496c801162266": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Actuais mandatos",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 4.º — Actuais mandatos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "e6f33b98a815082a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16.\n\nVisto e aprovado em Conselho de Ministros de 20 de Setembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Rui Eduardo Ferreira Rodrigues Pena - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Luís Garcia Braga da Cruz - Augusto Ernesto Santos Silva - José Mariano Rebelo Pires Gago - António José Martins Seguro.\n\nPromulgado em 20 de Novembro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Novembro de 2001.\n\nO Primeiro-Ministro, em exercício, Guilherme d'Oliveira Martins."
+  },
+  "c3e96d8cb79c1e91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza jurídica e finalidade",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza jurídica e finalidade\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "8101b9f78288be93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Sede e delegações",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 2.º — Sede e delegações\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "7cf43199d4133f2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Regime jurídico",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 3.º — Regime jurídico\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "14cecc5b540d4fb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Independência",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 4.º — Independência\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "1f2db7ea45ec1e7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Princípio da especialidade",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 5.º — Princípio da especialidade\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "ef257865e1365241": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Atribuições",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 6.º — Atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "69bf071da79991c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competência consultiva",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 7.º — Competência consultiva\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "7c989382e172edca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Colaboração de outras autoridades",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 8.º — Colaboração de outras autoridades\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "2b6eeb5a9cede97b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Procedimentos de regulação e supervisão",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 9.º — Procedimentos de regulação e supervisão\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "8596faa7ae2740a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Procedimentos sancionatórios",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 10.º — Procedimentos sancionatórios\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "3abc01a8920e121e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Procedimento regulamentar",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 11.º — Procedimento regulamentar\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "ff40585cf66aab59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Exercício da supervisão",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 12.º — Exercício da supervisão\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "e0c4894bd05d99bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Obrigações dos operadores",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 13.º — Obrigações dos operadores\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "935a192fe9d49a17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Sigilo",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 14.º — Sigilo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "839f9df6551b78de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Cooperação com outras entidades",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 15.º — Cooperação com outras entidades\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "ddf7f45ef55c381f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Queixas dos consumidores e utilizadores",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 16.º — Queixas dos consumidores e utilizadores\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "2d5365386bfa6e2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Cumprimento das obrigações legais ou contratuais",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 17.º — Cumprimento das obrigações legais ou contratuais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "f2f6a55a21b11350": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Arbitragem",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 18.º — Arbitragem\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "0881ba01a84563e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Órgãos",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 19.º — Órgãos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "331fb50219619782": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Função",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 20.º — Função\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "6af705dca129455f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Composição e nomeação",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 21.º — Composição e nomeação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "1fa7c41c8928187f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Estatuto",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 22.º — Estatuto\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "19c404b4e555ccc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Cessação de funções",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 23.º — Cessação de funções\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "0d14b84c02aae5f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Dissolução do conselho de administração",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 24.º — Dissolução do conselho de administração\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "6a6926996fc1863a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Independência dos membros",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 25.º — Independência dos membros\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "72e119d8a4334aae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Competências do conselho de administração",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 26.º — Competências do conselho de administração\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "639077a8a1e097d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Delegação de poderes",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 27.º — Delegação de poderes\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "dcce2702dd39d45b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Funcionamento",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 28.º — Funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "2157d888e51a3b52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Presidente do conselho de administração",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 29.º — Presidente do conselho de administração\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "85b59d94c3780ac2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Vinculação do ICP - ANACOM",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 30.º — Vinculação do ICP - ANACOM\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "ba109a4773888374": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Função",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 31.º — Função\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "5ddb2e63aafe7caa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Composição e estatuto",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 32.º — Composição e estatuto\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "fda3d30e6a4a1e82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Competência",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 33.º — Competência\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "7a2f5ae2b8a23bec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Funcionamento",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 34.º — Funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "91fb626595ef3556": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Função",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 35.º — Função\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "532f269fd0bce76c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Composição",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 36.º — Composição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "31bb14495ed86eb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Competência",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 37.º — Competência\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "f483dc06cb03f5cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Funcionamento",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 38.º — Funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "efd641e0fa302d3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Procedimento",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 39.º — Procedimento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "64e361ecc6a98396": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Convocações",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 40.º — Convocações\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "93b64c54cc24387f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Regras gerais",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 41.º — Regras gerais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "2bd4407925568b97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Património",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 42.º — Património\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "fff3cbd094c06628": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Receitas",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 43.º — Receitas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "d5d35d00f2cefcc2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Despesas",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 44.º — Despesas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "434f5afb51abcd34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Serviços",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 45.º — Serviços\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "ed504aaf89c83ade": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Regime do pessoal",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 46.º — Regime do pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "127c1472a6d22dbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Incompatibilidades",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 47.º — Incompatibilidades\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "fb3169fda9fcc17c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Funções de fiscalização",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 48.º — Funções de fiscalização\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "1cc8170ace28aa97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Mobilidade",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 49.º — Mobilidade\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "7a1442ddbe716846": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Tutela",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 50.º — Tutela\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "7312d1e7990c7fcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Relatório ao Governo e à Assembleia da República e audições parlamentares",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 51.º — Relatório ao Governo e à Assembleia da República e audições parlamentares\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "c6c590cd0d85306a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Responsabilidade jurídica",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 52.º — Responsabilidade jurídica\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "91ba78ea4af45284": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Controlo judicial",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 53.º — Controlo judicial\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "13b32b73b599c8cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Fiscalização do Tribunal de Contas",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 54.º — Fiscalização do Tribunal de Contas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  },
+  "0aa3db38dbe9faca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Página electrónica",
+   "in_force_from": "2015-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+   ],
+   "markdown": "###### Artigo 55.º — Página electrónica\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), publicado em 2015-03-16."
+  }
+ }
+}

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-11'
+version_history:
+  file: portaria-1102-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-11-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-11'
+    amending: pt:dre:491397:por
+    amending_title: Decreto-Lei n.º 281/2009
+    changes:
+    - Altera Artigo unidades 16-16
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1102/1997/11/03/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:43:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 281/2009. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-1102-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -189,7 +204,9 @@ a) Escolarização de alunos com necessidades educativas especiais associadas a 
 
 b) Actividades de apoio às escolas de ensino regular, em parceria com as equipas de coordenação dos apoios educativos;
 
-c) Actividades de intervenção precoce dirigidas a crianças com deficiência ou em situação de alto risco, em parceria com as equipas de coordenação dos apoios educativos.
+c) (Revogada.)
+
+> Alterado pelo/a [Decreto-Lei n.º 281/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-2009-491397), publicado em 2009-10-06.
 
 2.º
 

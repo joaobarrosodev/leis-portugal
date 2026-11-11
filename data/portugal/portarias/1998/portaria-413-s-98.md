@@ -39,10 +39,32 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-03-17'
+version_history:
+  file: portaria-413-s-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-07-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-03-17'
+    amending: pt:dre:533660:por
+    amending_title: Portaria n.º 263/2004
+    changes:
+    - Altera Artigo unidades 23-23
+    - Altera Artigo unidades 25-25
+    - Altera Artigo unidades 37-38
+    - Altera Artigo unidades 40-40
+    - Altera Artigo unidades 45-45
+    - Altera Artigo unidades 50-56
+    - Adita Artigo depois da unidade 56
+    - Altera Artigo unidades 59-59
+    - Adita Artigo depois da unidade 64
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/413-s/1998/07/17/p/dre/pt/html
@@ -68,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:08:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 263/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-413-s-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -197,11 +220,15 @@ Ramos
 
 O 2.º ciclo do curso desdobra-se nos ramos de:
 
-a) Cargas;
+a) Carga e Passageiros;
+
+> Alterado pelo/a [Portaria n.º 263/2004](https://diariodarepublica.pt/dr/detalhe/portaria/263-2004-533660), publicado em 2004-03-12.
 
 b) Pescas;
 
-c) Navios-Tanques.
+c) Navios-Tanque.
+
+> Alterado pelo/a [Portaria n.º 263/2004](https://diariodarepublica.pt/dr/detalhe/portaria/263-2004-533660), publicado em 2004-03-12.
 
 4.º
 
@@ -225,13 +252,17 @@ Aos alunos que obtenham aprovação na totalidade das unidades curriculares que 
 
 Grau de licenciado
 
-Aos alunos que obtenham aprovação na totalidade das unidades curriculares que integram o plano de estudos de um dos ramos do 2.º ciclo do curso é conferido o grau de licenciado em:
+Aos alunos que obtenham aprovação na totalidade das unidades curriculares que integram o plano de estudos de um dos ramos do 2.º ciclo é conferido, conforme o caso, grau de licenciado em:
 
-a) Pilotagem, ramo de Cargas;
+a) Pilotagem, ramo de Carga e Passageiros;
+
+> Alterado pelo/a [Portaria n.º 263/2004](https://diariodarepublica.pt/dr/detalhe/portaria/263-2004-533660), publicado em 2004-03-12.
 
 b) Pilotagem, ramo de Pescas;
 
-c) Pilotagem, ramo de Navios-Tanques.
+c) Pilotagem, ramo de Navios-Tanque.
+
+> Alterado pelo/a [Portaria n.º 263/2004](https://diariodarepublica.pt/dr/detalhe/portaria/263-2004-533660), publicado em 2004-03-12.
 
 8.º
 
@@ -241,7 +272,9 @@ Classificação final
 
 2 - A classificação final do grau de licenciado é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas) das classificações das unidades curriculares que integram o plano de estudos do 1.º e 2.º ciclos do curso.
 
-3 - Os coeficientes de ponderação são os constantes do plano de estudos anexo à presente portaria.
+3 - Os coeficientes de ponderação correspondem aos créditos atribuídos a cada unidade curricular.
+
+> Alterado pelo/a [Portaria n.º 263/2004](https://diariodarepublica.pt/dr/detalhe/portaria/263-2004-533660), publicado em 2004-03-12.
 
 9.º
 
@@ -251,25 +284,87 @@ Certificação
 
 2 - A conclusão com aproveitamento da totalidade das unidades curriculares que integram o 1.º e o 2.º ciclos do curso de Pilotagem satisfaz os requisitos obrigatórios para certificação de comandantes e imediatos de navios com arqueação bruta igual ou superior a 500, conforme previsto nos parágrafos 2.2 e 4.3 da regra II/2 da Convenção STCW 1978, emendada em 1995, bem como possibilita a obtenção dos respectivos certificados de competência, desde que estejam satisfeitos os restantes requisitos exigidos para a respectiva certificação.
 
-3 - A conclusão com aproveitamento da totalidade das unidades curriculares que integram o 1.º ciclo do curso de Pilotagem possibilita ainda a obtenção dos seguintes certificados de qualificação previstos na Convenção STCW 1978, emendada em 1995:
+3 - A conclusão com aproveitamento da totalidade das unidades curriculares que integram o 1.º ciclo do curso possibilita ainda a obtenção dos seguintes certificados de qualificação e provas documentais previstos na Convenção STCW e Emendas, desde que estejam satisfeitos os restantes requisitos exigidos para a sua emissão:
 
-a) Certificado de qualificação para a condução de embarcações de salvamento rápidas;
+a) Operador geral do Sistema Mundial Marítimo de Socorro e Segurança (GMDSS), tabela A-IV/2;
 
-b) Certificado de qualificação para o exercício de funções específicas nos navios-tanques (petroleiros, químicos e gases liquefeitos);
+b) Curso de simulador de radar, tabelas A-II/1 e A-II/2;
 
-c) Certificado de familiarização em navios RO-RO de passageiros;
+c) ARPA em simulador (radar and automatic radar plotting aids), tabelas A-II/1 e A-II/2;
 
-d) Certificado de segurança de passageiros, carga e integridade do casco em navios RO-RO de passageiros;
+d) Segurança básica, tabela A-VI/1;
 
-e) Certificado de gestão de crises e comportamento humano.
+e) Condução de embarcações salva-vidas e de salvamento, tabela A-VI/2-1;
 
-f) ARPA.
+f) Condução de embarcações de salvamento rápidas, tabela A-VI/2-2;
+
+g) Primeiros socorros, tabela A-VI/4-1;
+
+h) Controlo das operações de combate a incêndio, tabela A-VI/3;
+
+i) Exercício de funções específicas (familiarização) em navios-tanque (petroleiros, químicos e de gás liquefeito), §§ 2.º a 7.º da secção A-V/1;
+
+j) Controlo de multidões em navios de passageiros Ro-Ro, § 1.º da secção A-V/2;
+
+l) Familiarização em navios de passageiros Ro-Ro, § 2.º da secção A-V/2;
+
+m) Segurança na comunicação com os passageiros em navios de passageiros Ro-Ro, § 3.º da secção A-V/2.
+
+> Alterado pelo/a [Portaria n.º 263/2004](https://diariodarepublica.pt/dr/detalhe/portaria/263-2004-533660), publicado em 2004-03-12.
+
+4 - A conclusão com aproveitamento da totalidade das unidades curriculares que integram os 1.º e 2.º ciclos do curso possibilita ainda, conforme o ramo, a obtenção dos seguintes certificados de qualificação e provas documentais previstos na convenção STCW e Emendas, desde que estejam satisfeitos os restantes requisitos exigidos para a sua emissão:
+
+i) Ramo de Carga e Passageiros:
+
+a) Responsável pelos cuidados de saúde a bordo das embarcações, tabela A-VI/4-2;
+
+b) ARPA em simulador (radar and automatic radar plotting aids), tabelas A-II/1 e A-II/2;
+
+c) Controlo de multidões em navios de passageiros Ro-Ro, § 1.º da secção A-V/2;
+
+d) Familiarização em navios de passageiros Ro-Ro, § 2.º da secção A-V/2;
+
+e) Segurança na comunicação com os passageiros em navios de passageiros Ro-Ro, § 3.º da secção A-V/2;
+
+f) Segurança dos passageiros, da carga e integridade do casco nos navios de passageiros Ro-Ro, § 4.º da secção A-V/2;
+
+g) Gestão de crises e comportamento humanos, § 5.º da secção A-V/2;
+
+h) 'Bridge resource management', secções A-II/2 e B-VIII/2, parte 3.1-5;
+
+ii) Ramo de Pescas:
+
+a) Responsável pelos cuidados de saúde a bordo das embarcações, tabela A-VI/4-2;
+
+b) ARPA em simulador (radar and automatic radar plotting aids), tabelas A-II/1 e A-II/2;
+
+c) 'Bridge resource managent', secções A-II/2 e B-VIII/2, parte 3.1-5;
+
+iii) Ramo de Navios-Tanque:
+
+a) Responsável pelos cuidados de saúde a bordo das embarcações, tabela A-VI/4-2;
+
+b) ARPA em simulador (radar and automatic radar plotting aids), tabelas A-II/1 e A-II/2;
+
+c) Exercício de funções de responsabilidade nos navios-tanque petroleiros, químicos e de gás liquefeito, §§ 9.º a 34.º da secção A-V/1;
+
+d) 'Brige resource management', secções A-II/2 e B-VIII/2, parte 3.1-5;
+
+5 - A conclusão com aproveitamento da totalidade das unidades curriculares que integram os 1.º e 2.º ciclos do curso confere a formação em 'Oficial de protecção de navios e companhia', exigida no âmbito do Código ISPS e Emendas 2002 à SOLAS, capítulo XI-2, e satisfaz as condições para a emissão da respectiva prova documental.
+
+6 - Os alunos inscritos no 4.º ano poderão frequentar, extracurricularmente e apenas para efeitos de certificação, unidades curriculares de outros ramos.
+
+7 - A certificação referida no número anterior depende do aproveitamento nas respectivas unidades curriculares e da satisfação dos requisitos exigidos pela legislação em vigor.
+
+> Aditado pelo/a [Portaria n.º 263/2004](https://diariodarepublica.pt/dr/detalhe/portaria/263-2004-533660), publicado em 2004-03-12.
 
 10.º
 
 Inscrição no 2.º ciclo
 
-1 - O acesso ao 2.º ciclo do curso de Pilotagem está condicionado a um período de experiência profissional a bordo, com a duração de 12 meses, realizado nas condições estabelecidas na Convenção STCW 1978, emendada em 1995, e será:
+1 - O acesso ao 2.º ciclo do curso de Pilotagem está condicionado a um período de experiência profissional a bordo, com a duração de 12 meses, realizado nas condições estabelecidas pela Convenção STCW e Emendas, e será:
+
+> Alterado pelo/a [Portaria n.º 263/2004](https://diariodarepublica.pt/dr/detalhe/portaria/263-2004-533660), publicado em 2004-03-12.
 
 a) Sem limitações quantitativas para os estudantes que tenham concluído o 1.º ciclo do curso de Pilotagem na Escola Náutica Infante D. Henrique no ano lectivo imediatamente anterior ao período de experiência profissional referido no n.º 1;
 
@@ -280,6 +375,10 @@ b1) Para os estudantes que tenham concluído o 1.º ciclo do curso de Pilotagem 
 b2) Para os estudantes que tenham obtido um grau de bacharel na área do curso cujo plano de estudos garanta, globalmente, uma formação correspondente à do 1.º ciclo do curso.
 
 2 - Compete ao júri a que se refere o n.º 14.º verificar se os cursos a que se refere a alínea b2) do n.º 1 satisfazem à condição nela expressa.
+
+3 - Para o ramo de Pescas, a experiência profissional referida no n.º 1 pode ser realizada em embarcações de pesca de comprimento entre perpendiculares igual ou superior a 33 m.
+
+> Aditado pelo/a [Portaria n.º 263/2004](https://diariodarepublica.pt/dr/detalhe/portaria/263-2004-533660), publicado em 2004-03-12.
 
 11.º
 

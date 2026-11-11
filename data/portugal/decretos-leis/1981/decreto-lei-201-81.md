@@ -38,10 +38,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-10-16'
+version_history:
+  file: decreto-lei-201-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-10-16'
+    amending: pt:dre:178374:por
+    amending_title: Decreto-Lei n.º 401/85
+    changes:
+    - Adita Artigo depois da unidade 9
+    - Altera Artigo unidades 18-20
+    - Altera Artigo unidades 22-24
+    - Altera Artigo unidades 26-28
+    - Altera Artigo unidades 31-33
+    - Altera Artigo unidades 35-41
+    - Altera Artigo unidades 43-53
+    - Altera Artigo unidades 71-73
 identifiers:
   celex: null
   eli: null
@@ -67,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:37:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 401/85. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1981/decreto-lei-201-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,6 +149,10 @@ Art. 2.º - 1 - Considera-se residência oficial, para efeitos de abono de ajuda
 
 2 - O domicílio necessário é determinado pelo local onde o militar tomou posse do cargo, se aí ficou a prestar serviço, por aquele onde exercer as respectivas funções, se for colocado noutro local, ou, não havendo local certo, por aquele onde se situe o centro da sua actividade funcional, desde que aí esteja colocado com carácter de permanência, e ainda pelo estabelecido em lei especial.
 
+3 - Para efeitos do n.º 1, a periferia da cidade de Lisboa considera-se limitada por uma linha envolvendo Cascais, Sintra, Granja do Marquês, Loures, Vila Franca de Xira, Alcochete (futuro quartel da GNR), Moita, Montijo, Coina, Monte de Caparica e Cascais, e a do Porto por uma linha envolvendo Perafita, Moreira, Maia, Alfena, Valongo, Gondomar, Avintes, Moura, Granja e Perafita.
+
+> Aditado pelo/a [Decreto-Lei n.º 401/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1985-178374), publicado em 1985-10-11.
+
 Art. 3.º As modalidades de ajudas de custo a considerar nos termos deste diploma são as seguintes:
 
 a) Ajudas de custo de marcha ou simples deslocação, compreendendo as deslocações diárias e as deslocações por dias sucessivos;
@@ -143,77 +169,83 @@ Art. 6.º Só haverá direito ao abono de ajudas de custo nas deslocações diá
 
 Art. 7.º - 1 - O abono de ajudas de custo corresponderá ao pagamento de uma parte da importância diária que estiver fixada ou da sua totalidade, conforme o disposto nos números seguintes.
 
-2 - Nas deslocações diárias abonar-se-ão as seguintes percentagens de ajudas de custo diárias:
+2 - Nas deslocações diárias abonar-se-ão as seguintes percentagens de ajuda de custo diária:
 
-a) Se a deslocação abranger o período compreendido entre as 13 e as 14 horas - 25%;
+a) Se a deslocação abranger o período compreendido entre as 13 horas e as 14 horas - 25%;
 
-b) Se a deslocação abranger o período compreendido entre as 20 e as 21 horas - 25%;
+b) Se a deslocação abranger o período compreendido entre as 20 horas e as 21 horas - 25%;
+
+> Alterado pelo/a [Decreto-Lei n.º 401/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1985-178374), publicado em 1985-10-11.
 
 c) Se a deslocação implicar dormida - 50%.
 
-3 - As despesas de alojamento só poderão ser consideradas nas deslocações diárias que se não prolonguem para o dia seguinte quando o militar não dispuser de meios de transporte fáceis que lhe permitam regressar ao seu domicílio até às 22 horas.
+3 - Atendendo a que as percentagens referidas no número anterior correspondem ao pagamento de uma ou duas refeições e dormida, não haverá lugar aos respectivos abonos quando a correspondente prestação seja fornecida em espécie.
 
-4 - Nas deslocações por dias sucessivos os abonos são efectuados como segue:
+4 - Quando se trate de deslocações a unidades ou estabelecimentos com messe constituída, os períodos horários indicados no número anterior são substituídos pelos horários oficialmente fixados para as respectivas refeições.
 
-a) Dia de partida:
+5 - As despesas de alojamento só poderão ser consideradas nas deslocações diárias quando estas se prolongarem para o dia seguinte.
+
+6 - Nas deslocações por dias sucessivos os abonos são efectuados como segue:
+
+a) Dia da partida:
+
+> Alterado pelo/a [Decreto-Lei n.º 401/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1985-178374), publicado em 1985-10-11.
 
 Horas de partida:
 
-Até às 13 horas - 100%.
+Até às 13 horas - 100%;
 
-Depois das 13 horas e até às 21 horas - 75%.
+Depois das 13 horas e até às 21 horas - 75%;
 
-Depois das 21 horas - 50%.
+Depois das 21 horas - 50%;
+
+> Alterado pelo/a [Decreto-Lei n.º 401/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1985-178374), publicado em 1985-10-11.
 
 b) Dia do regresso:
 
 Horas de chegada:
 
-Até às 13 horas - 0%.
+Até às 13 horas - 0%;
 
-Depois das 13 horas e até às 20 horas - 25%.
+Depois das 13 horas e até às 20 horas - 25%;
 
-Depois das 20 horas - 50%.
+Depois das 20 horas - 50%;
+
+> Alterado pelo/a [Decreto-Lei n.º 401/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1985-178374), publicado em 1985-10-11.
 
 c) Restantes dias - 100%.
 
-5 - Nas deslocações por dias sucessivos em que sejam fornecidos, sem encargos para o militar deslocado, alimentação e alojamento, ou apenas uma destas prestações, abonar-se-ão as ajudas de custo nas seguintes percentagens:
+7 - Nas deslocações por dias sucessivos em que sejam fornecidos, sem encargos para o militar deslocado, alimentação e alojamento, ou apenas uma destas prestações, abonar-se-ão as ajudas de custo nas seguintes percentagens:
 
-Apenas com o fornecimento de uma refeição (almoço ou jantar) - 75%.
+Apenas com o fornecimento de uma refeição (almoço ou jantar) - 75%;
 
-Com o fornecimento do almoço e do jantar - 50%.
+Com o fornecimento do almoço e do jantar - 50%;
 
-Apenas com o fornecimento do alojamento - 50%
+Apenas com o fornecimento do alojamento - 50%;
 
-Com o fornecimento de alojamento e uma refeição (almoço ou jantar) - 25%.
+Com o fornecimento do alojamento e uma refeição (almoço ou jantar) - 25%;
 
-Com o fornecimento do alojamento, do almoço e do jantar - 20%.
+Com o fornecimento do alojamento, do almoço e do jantar - 10%.
 
-6 - Quando as despesas de alojamento e ou alimentação forem suportadas pelo Estado, os respectivos encargos não podem exceder a despesa correspondente ao quantitativo das ajudas de custo a que houver lugar, de acordo com a tabela em vigor, deduzidas as percentagens referidas no número anterior.
+8 - Quando as despesas do alojamento e ou alimentação forem suportadas pelo Estado, os respectivos encargos não podem exceder a despesa correspondente ao quantitativo das ajudas de custo a que houver lugar, de acordo com a tabela em vigor, deduzidas as percentagens referidas no número anterior.
+
+9 - Os oficiais que acompanhem os oficiais generais no desempenho de missões de serviço têm direito a ajudas de custo iguais às atribuídas na tabela para oficiais generais.
+
+> Alterado pelo/a [Decreto-Lei n.º 401/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1985-178374), publicado em 1985-10-11.
 
 Art. 8.º As despesas com ajudas de custo abonadas aos militares que vão desempenhar funções noutros serviços devem onerar as correspondentes dotações dos organismos onde os deslocados vão exercer a sua actividade.
 
-Art. 9.º Em casos especiais, poderá ser excepcionado o disposto no artigo 6.º da forma e nas condições seguintes, a apreciar pelo comandante-geral:
+Art. 9.º - 1 - Em casos especiais, poderá excepcionar-se o disposto no artigo 6.º pela forma e nas condições seguintes, a apreciar e a despachar pelo comandante-geral:
 
-1.ª Abono para despesa de almoço de uma importância equivalente a 25% da ajuda de custo diária nas deslocações até 5 km, se o militar não dispuser de transporte que lhe permita almoçar na sua residência ou no quartel;
+a) Abono para despesas de almoço de uma importância até ao limite de 25% da ajuda de custo diária nas deslocações até 5 km, se o militar não dispuser de transporte que lhe permita almoçar na sua residência ou no quartel;
 
-2.ª Abono dos quantitativos correspondentes às percentagens previstas no n.º 4 do artigo 7.º, para deslocações entre 5 km e 20 km, mediante justificação circunstanciada, que deverá referenciar:
+b) Abono dos quantitativos correspondentes às percentagens previstas no n.º 6 do artigo 7.º para as deslocações entre 5 km e 20 km;
 
-a) Distância entre a sua residência oficial e a localidade onde se encontra;
+c) Abono dos quantitativos correspondentes às percentagens previstas no n.º 2 do artigo 7.º para deslocações além de 20 km, se o comandante-geral reconhecer, em despacho fundamentado, sob proposta, apenas haver lugar a tais abonos.
 
-b) Meio de transporte utilizado na deslocação;
+2 - Igualmente em casos especiais poderá excepcionar-se o disposto no n.º 3 do artigo 2.º, concedendo o abono de ajudas de custo por deslocação dentro das referidas áreas, mediante despacho fundamentado do comandante-geral, sob proposta apresentada.
 
-c) Transportes colectivos que estabelecem ligações entre as - localidades referidas na alínea a) e respectivos horários mais compatíveis (devem referir-se não só os horários que permitam respeitar o horário normal de trabalho mas ainda outros mais aproximados);
-
-d) Distância aproximada entre a sua residência ou o local de trabalho e os locais mais próximos onde os transportes referidos na alínea c) podem ser tomados;
-
-e) Meios de transporte utilizados nos percursos referidos na alínea d);
-
-f) Tempo normal gasto nas deslocações referidas nas alíneas c) e d);
-
-g) Incómodo da deslocação.
-
-3.ª Abono dos quantitativos correspondentes às percentagens previstas no n.º 2 do artigo 7.º, para deslocações além de 20 km, se o comandante-geral reconhecer, em despacho fundamentado, apenas haver lugar a tais abonos, tendo em atenção, designadamente, os pressupostos constantes das alíneas do número anterior.
+> Alterado pelo/a [Decreto-Lei n.º 401/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1985-178374), publicado em 1985-10-11.
 
 Art. 10.º Em casos excepcionais de representação, os encargos com a alimentação e alojamento inerentes a deslocações em serviço público, no território nacional, poderão ser satisfeitos contra declaração, devidamente visada, das despesas efectuadas.
 
@@ -249,11 +281,15 @@ Art. 15.º - 1 - As faltas por motivo de nojo não interrompem o abono de ajudas
 
 2 - Os militares que adoeçam, quando deslocados da sua residência oficial, mantêm o direito ao abono de ajudas de custo quando a doença os obrigue a permanecer em casa ou o período previsível do estado de doença for tão curto que os serviços entendam não haver prejuízo em que eles se mantenham nessa situação, desde que participem de imediato a sua incapacidade e apresentem, nos prazos legais, o competente atestado médico, se for caso disso.
 
-Art. 16.º A mudança efectiva de residência do militar que, por motivo de nova colocação, seja transferido para outra localidade dá direito ao abono, por uma só vez, de ajudas de custo por mudança de residência, de quantitativo igual a trinta dias de ajudas de custo, com a observância das seguintes regras:
+Art. 16.º A mudança de residência do militar que, por motivo de nova colocação, seja transferido para outra localidade dá direito ao abono, por uma só vez, de ajudas de custo por mudança de residência, de quantitativo igual a 30 dias de ajudas de custo, com a observância das seguintes regras:
 
-1.ª O direito à percepção da ajuda de custo por mudança de residência constituí-se na data em que se concretize a mudança do militar para a nova residência;
+1.ª O direito à percepção de ajudas de custo por mudança de residência verifica-se em relação à data em que se concretize a apresentação do militar na nova situação;
 
-2.ª Aplicam-se ao abono de ajudas de custo por mudança de residência os preceitos estabelecidos no artigo 14.º
+2.ª Não há direito ao abono de ajudas de custo por mudança de residência sem que hajam decorrido 6 meses sobre a data de abono da mesma natureza;
+
+3.ª Aplicam-se ao abono de ajudas de custo por mudança de residência os preceitos estabelecidos no artigo 14.º
+
+> Alterado pelo/a [Decreto-Lei n.º 401/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1985-178374), publicado em 1985-10-11.
 
 Art. 17.º - 1 - Os militares que tenham ingressado na Guarda só podem adquirir direito ao abono de ajudas de custo por actos de serviço posteriores à sua primeira colocação.
 

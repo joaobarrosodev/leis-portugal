@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-12-16'
+version_history:
+  file: portaria-913-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-08-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-12-16'
+    amending: pt:dre:628803:por
+    amending_title: Portaria n.º 1568/2007
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/913/2007/08/14/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:26:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1568/2007. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-913-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,7 +147,9 @@ Vieram entretanto vários proprietários de terrenos incluídos na zona de caça
 
 Assim:
 
-Com fundamento no disposto no n.º 1 do artigo 28.º em conjugação com o estipulado no n.º 1 do artigo 167.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, que sejam excluídos da presente zona de caça vários prédios rústicos, sitos nas freguesias de Monchique e Marmelete, município de Monchique, com uma área de 475 ha, ficando a mesma com uma área de 11 524 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+Com fundamento no disposto no n.º 1 do artigo 28.º em conjugação com o estipulado no n.º 1 do artigo 167.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, que sejam excluídos da presente zona de caça vários prédios rústicos, sitos nas freguesias de Monchique e Marmelete, município de Monchique com a área de 252 ha, ficando a mesma com a área de 11 747 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 1568/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1568-2007-628803), publicado em 2007-12-11.
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 31 de Julho de 2007. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 1 de Agosto de 2007.
 

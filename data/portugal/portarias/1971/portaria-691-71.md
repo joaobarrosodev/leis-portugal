@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-12-29'
+version_history:
+  file: portaria-691-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-12-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-12-29'
+    amending: pt:dre:421633:por
+    amending_title: Decreto-Lei n.º 376/97
+    changes:
+    - Altera Artigo unidades 15-18
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:39:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 376/97. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-691-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,13 +170,15 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comérci
 
 2. Os organismos vitivinícolas competentes deverão assegurar o cumprimento do disposto neste número, adoptando as providências que julgarem aconselháveis.
 
-6.º Os vinhos considerados de qualidade, com prévia concordância e sob fiscalização dos organismos vitivinícolas competentes, podem ser engarrafados em recipientes tidos como de luxo com capacidade superior a 7,5 dl e conhecidos pelas designações de magnum e outras, capsulados com rolha de cortiça e rótulo de papel ou alumínio, devendo apresentar ou podendo beneficiar das características estabelecidas no mapa anexo a esta portaria para os vinhos engarrafados em moldes tradicionais em recipientes de capacidade inferior a 1 l.
+6.º - (Revogado.)
 
-7.º Carece de aprovação dos organismos vitivinícolas respectivos o emprego na rotulagem de indicações consagradas comprovativas de qualidade e quaisquer referências, directas ou indirectas, à idade dos produtos, incluindo letras, estrelas ou outros símbolos geralmente usados com o sentido de idade.
+7.º - (Revogado.)
 
-8.º Os vinhos especiais, jeropigas, abafados e aguardentes de origem vínica e vinagres destinados ao consumo só podem ser comercializados no mercado interno quando contidos em recipientes de capacidade até 1 l, convenientemente rotulados e com marcas registadas.
+8.º - (Revogado.)
 
-9.º Para os vinhos comuns contidos em recipientes de capacidade até 5,3 l, exceptuados os vinhos típicos regionais, é obrigatória a indicação na rotulagem do respectivo grau alcoólico volumétrico, admitindo-se a tolerância para mais ou para menos de 0,2.
+9.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 376/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1997-421633), publicado em 1997-12-24.
 
 10.º - 1. Qualquer que seja o mercado do destino dos vinhos e derivados, será impedida a sua venda sempre que os mesmos, embora satisfazendo as características analíticas, não revelem à prova uma qualidade conveniente, em particular quanto à vinosidade, para o que poderão ser estabelecidos padrões adequados pelos organismos competentes.
 

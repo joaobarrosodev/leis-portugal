@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-06-17'
+version_history:
+  file: portaria-690-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-10-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-06-17'
+    amending: pt:dre:579298:por
+    amending_title: Portaria n.º 494/81
+    changes:
+    - Altera Artigo unidades 15-36
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:33:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 494/81. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1974/portaria-690-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -219,48 +234,42 @@ Manda o Governo Provisório da República Portuguesa, pelo Ministro dos Assuntos
 
 Ministério dos Assuntos Sociais, 4 de Outubro de 1974. - O Ministro dos Assuntos Sociais, Maria de Lourdes Pintasilgo.
 
-## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1974/10/24800/12681274.pdf)
+Quadro a que se refere o n.º 1.º da Portaria n.º 494/81
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/13700/13661373.pdf)
 
 NOTAS
 
-1) Na colocação do pessoal neste quadro observar-se-á o preceituado nos n.os 1, 2 e 3 do artigo 65.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, por força do disposto no artigo 12.º do [Decreto-Lei n.º 692/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/692-1970-414417), de 31 de Dezembro.
+(1) Os funcionários que exerçam funções que sejam desempenhadas cumulativamente com outros lugares da Santa Casa serão retribuídos mediante gratificação a fixar por despacho do Ministro dos Assuntos Sociais.
 
-2) O pessoal que transite do anterior quadro de direcção e chefia para lugares previstos nesta portaria será colocado sem redução de todo e qualquer direito adquirido.
+(2) Quando as funções de secretário da Provedoria forem exercidas por funcionário incluído no quadro de pessoal, ser-lhe-á abonada a gratificação mensal de 1000$00 enquanto estiver no exercício dessas funções.
 
-3) O pessoal que na distribuição pelos lugares previstos nesta portaria for colocado em cargo dotado com vencimento inferior ao da função que desempenha manterá, enquanto estiver nesta situação, o direito ao vencimento que auferia à data da referida distribuição, em conformidade com o n.º 1 do artigo 65.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+(3) Ao funcionário designado para exercer as funções de secretário do conselho directivo do Centro de Medicina de Reabilitação será abonada, enquanto estiver no exercício dessas funções, a gratificação mensal de 500$00.
 
-4) Todos os ajustamentos e alterações que forem estabelecidos por lei nas carreiras profissionais abrangidas neste quadro deverão ser aplicados automaticamente na Misericórdia de Lisboa.
+(4) Aos professores e à educadora de infância do Instituto de Cegos de Branco Rodrigues será abonada a gratificação mensal de 300$00; quando habilitados com o curso de especialização, a gratificação será de 800$00. Às educadoras de infância do Internato de Santa Joana Princesa, quando habilitadas com o curso de especialização, será abonada a gratificação mensal de 800$00. Estas gratificações serão abonadas se e enquanto o pessoal que a elas tiver direito estiver no exercício de funções.
 
-5) Os funcionários que exerçam funções que sejam desempenhadas cumulativamente com outros lugares da Santa Casa serão retribuídos mediante gratificação a fixar por despacho do Ministro dos Assuntos Sociais.
+(5) Aos enfermeiros e auxiliares que prestem serviço no Centro de Medicina de Reabilitação em regime de rotação e horário completo poderá ser abonado, em substituição da residência em lar, um subsídio de alojamento, no montante e condições a fixar pela Mesa da Santa Casa da Misericórdia de Lisboa.
 
-6) Quando as funções de secretário da Provedoria forem exercidas por um funcionário incluído no quadro do pessoal, ser-lhe-á abonada a gratificação mensal de 1000$00 enquanto se mantiver no exercício dessas funções.
+(6) Aos 2 funcionários que forem encarregados do serviço de tesouraria do Centro de Medicina de Reabilitação e da secção do Porto das Apostas Mútuas Desportivas será abonada, enquanto estiverem no exercício dessas funções, a gratificação mensal de 600$00 para falhas, sem prejuízo das actualizações que vierem a ser definidas nos termos do artigo 6.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
 
-7) Ao funcionário designado para exercer as funções de secretário do conselho directivo do Centro de Medicina de Reabilitação será abonada, enquanto estiver no exercício dessas funções, a gratificação mensal de 500$00.
+(7) O primeiro-ajudante e os segundos-ajudantes de tesoureiro terão direito ao abono mensal de 500$00 para falhas; os fiéis de tesouraria terão direito ao abono mensal de 400$00 para falhas (artigo 17.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), actualizado pelo artigo 6.º do [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614)), sem prejuízo da actualização que venha a ser definida, nos termos do artigo 6.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
 
-8) Aos professores e à educadora de infância do Instituto de Cegos de Branco Rodrigues será abonada a gratificação mensal de 300$00; quando habilitados com o curso de especialização, a gratificação será de 800$00. Às educadoras de infância do Instituto Infantil de Santa Joana Princesa, quando habilitadas com o curso de especialização, será abonada a gratificação mensal de 800$00.
+(8) Aos 13 motoristas responsáveis pela recolha de apostas no continente será abonada, enquanto estiverem no exercício dessas funções, a gratificação mensal de 600$00.
 
-9) Aos enfermeiros e auxiliares de enfermagem que prestam serviço no Centro de Medicina de Reabilitação em regime de rotação e horário completo poderá ser abonado, em substituição da residência em lar, um subsídio de alojamento, no montante e condições a fixar pela mesa da Santa Casa da Misericórdia de Lisboa.
+(9) Aos 2 operadores da central telefónica dos serviços centrais e do Centro de Medicina de Reabilitação com funções de encarregados será abonada, enquanto estiverem no exercício dessas funções, a gratificação mensal de 300$00.
 
-10) A carreira de técnicos administrativos, prevista neste quadro, será objecto de regulamentação própria a aprovar pelo Ministro dos Assuntos Sociais sobre proposta da mesa da Santa Casa da Misericórdia de Lisboa.
+(10) Aos contínuos que desempenham funções de serviço externo, até ao montante máximo de 15, será abonada, enquanto estiverem no exercício dessas funções, a gratificação mensal de 300$00.
 
-11) Aos quatro funcionários que forem encarregados do serviço de tesouraria do Centro de Medicina de Reabilitação, das delegações de Angola e Moçambique e na secção do Porto das Apostas Mútuas Desportivas será abonada, enquanto estiverem no exercício dessas funções, a gratificação mensal de 600$00 para falhas.
+(11) Às costureiras habilitadas com o curso de corte que desempenhem funções de corte em regime de rotação anual será abonada a gratificação mensal de 500$00. Um destes lugares destina-se ao Centro de Medicina de Reabilitação.
 
-12) O primeiro-ajudante e os segundos-ajudantes de tesoureiro terão direito ao abono mensal de 500$00 para falhas; os fiéis de tesouraria terão direito ao abono mensal de 400$00 para falhas (artigo 17.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), actualizado pelo artigo 6.º do [Decreto-Lei n.º 40872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40872-1956-298614)).
+(12) Na categoria de empregado diferenciado serão incluídos os funcionários que exerçam funções de ajudante de motorista, ajudante, cozinheira, lavadeira, ajudante de enfermaria e jardineiro. A discriminação dessas funções constará dos respectivos diplomas de provimento.
 
-13) Aos treze motoristas-distribuidores responsáveis pela recolha de apostas no continente será abonada, enquanto estiverem no exercício dessas funções, a gratificação mensal de 600$00.
+(13) Na categoria de empregado auxiliar serão incluídos os funcionários que exerçam funções de ajudante de cozinha, auxiliar de limpeza e auxiliar de dispensário. A discriminação dessas funções constará dos respectivos diplomas de provimento.
 
-14) Aos dois operadores de central telefónica dos serviços centrais e do Centro de Medicina de Reabilitação com funções de encarregados será abonada, enquanto estiverem no exercício dessas funções, a gratificação mensal de 300$00.
+(14) O pessoal médico permanente da carreira hospitalar pode ser autorizado a trabalhar em regime de tempo completo com o vencimento correspondente, nos termos do artigo 46.º, n.º 2, do Estatuto Hospitalar, aprovado pelo [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968.
 
-15) Aos três funcionários encarregados de orientar o pessoal com funções de porteiro e de guarda nos serviços centrais, no museu e no Centro de Medicina de Reabilitação será abonada, enquanto estiverem no exercício dessas funções, a gratificação mensal de 300$00.
+(15) O médico encarregado da direcção do Centro de Saúde e Assistência do Dr. José Domingos Barreiro bem como os médicos que desempenham funções no laboratório de análises clínicas poderão trabalhar em regime de tempo completo com o vencimento correspondente.
 
-16) Aos contínuos que desempenhem funções de serviço externo será abonada, enquanto estiverem no exercício dessas funções, a gratificação mensal de 300$00.
-
-17) Às três costureiras habilitadas com o curso de corte que desempenhem as funções de corte em regime de rotação anual será abonada a gratificação mensal de 500$00. Um destes lugares destina-se ao Centro de Medicina de Reabilitação
-
-18) Na categoria de empregado diferenciado serão incluídos os funcionários que exerçam funções de porteiro, contínuo, ajudante de motorista, ajudante, cozinheiro, costureira, lavadeira, ajudante de enfermaria e jardineiro. A discriminação destas funções constará dos respectivos contratos de trabalho.
-
-19) Na categoria de empregado auxiliar serão incluídos os funcionários que exerçam funções de ajudante de cozinha, auxiliar de limpeza e auxiliar de dispensário. A discriminação destas funções constará dos respectivos contratos de trabalho.
-
-20) A dotação de auxiliar de enfermagem de saúde pública de 1.ª classe e auxiliar de enfermagem de 1.ª classe será conjunta com a dotação de enfermeiro de 3.ª classe das carreiras de enfermagem de saúde pública e hospitalar.
+> Alterado pelo/a [Portaria n.º 494/81](https://diariodarepublica.pt/dr/detalhe/portaria/494-1981-579298), publicado em 1981-06-17.
 
 O Ministro dos Assuntos Sociais, Maria de Lourdes Pintasilgo.

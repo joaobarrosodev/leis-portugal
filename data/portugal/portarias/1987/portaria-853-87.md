@@ -39,10 +39,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-01-30'
+version_history:
+  file: portaria-853-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-11-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-01-30'
+    amending: pt:dre:283167:por
+    amending_title: Portaria n.º 100/88; Portaria n.º 66/91
+    changes:
+    - Altera Artigo unidades 34-34
+    - Altera Artigo unidades 81-81
+    - Altera Artigo unidades 122-122
+    - Adita Artigo depois da unidade 123
+    - Adita Artigo depois da unidade 133
+    - Altera Artigo unidades 152-152
+    - Adita Artigo depois da unidade 155
 identifiers:
   celex: null
   eli: null
@@ -68,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:18:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 100/88; Portaria n.º
+    66/91. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-853-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -220,7 +241,15 @@ a) Antropologia;
 
 b) Ciências Musicais;
 
-c) Comunicação Social;
+c) Comunicação Social, nos ramos:
+
+I) Áudio-Visual;
+
+II) Científico;
+
+III) Jornalismo.
+
+> Alterado pelo/a [Portaria n.º 66/91](https://diariodarepublica.pt/dr/detalhe/portaria/66-1991-508448), publicado em 1991-01-25.
 
 d) Filosofia, nos ramos:
 
@@ -314,7 +343,15 @@ a) Antropologia: 4 anos;
 
 b) Ciências Musicais: 4 anos;
 
-c) Comunicação Social: 4 anos;
+c) Comunicação Social, nos ramos de:
+
+I) Áudio-Visual: quatro anos (parte escolar) e estágio;
+
+II) Científico: quatro anos (parte escolar) e estágio;
+
+III) Jornalismo: quatro anos (parte escolar) e estágio.
+
+> Alterado pelo/a [Portaria n.º 66/91](https://diariodarepublica.pt/dr/detalhe/portaria/66-1991-508448), publicado em 1991-01-25.
 
 d) Filosofia, nos ramos:
 
@@ -396,9 +433,29 @@ o) Sociologia: 4 anos.
 
 Planos de estudos
 
-1 - Os planos de estudos dos cursos a que se referem as alíneas a) e c) a o) do n.º 1.º e o n.º 2.º são os constantes em anexo à presente portaria.
+1 - Os planos de estudos dos cursos a que se referem as alíneas a) e d) a o) do n.º 1.º e o n.º 2.º são os constantes em anexo à presente portaria.
+
+> Alterado pelo/a [Portaria n.º 100/88](https://diariodarepublica.pt/dr/detalhe/portaria/100-1988-283167), publicado em 1988-02-11.
 
 2 - O plano de estudos do curso de licenciatura em Ciências Musicais continua a ser regulado pela [Portaria n.º 660/86](https://diariodarepublica.pt/dr/detalhe/portaria/660-1986-221087), de 6 de Novembro.
+
+3 - O plano de estudos do curso de licenciatura em Comunicação Social é constituído por:
+
+a) Uma parte escolar que integra as unidades curriculares constantes do anexo II à presente portaria;
+
+b) Um estágio.
+
+4 - A regulamentação do estágio e do trabalho de fim de curso do curso de licenciatura em Comunicação Social é da competência do conselho científico, ouvido o conselho pedagógico.
+
+4.º-A
+
+Estágio do curso de licenciatura em Comunicação Social
+
+1 - O estágio do curso de licenciatura em Comunicação Social tem a duração máxima de três meses.
+
+2 - A inscrição, realização e avaliação do estágio serão objecto de um regulamento a aprovar pelo director, sob proposta do conselho científico, ouvido o conselho pedagógico.
+
+> Aditado pelo/a [Portaria n.º 100/88](https://diariodarepublica.pt/dr/detalhe/portaria/100-1988-283167), publicado em 1988-02-11.
 
 5.º
 
@@ -419,6 +476,14 @@ Opções complementares
 1 - Sem prejuízo da inscrição nas opções previstas no plano de estudos de cada curso de licenciatura o aluno poderá, complementarmente e a partir do 2.º ano, inscrever-se noutras disciplinas de opção.
 
 2 - A aprovação nestas disciplinas constará do certificado de estudos de licenciatura e poderá ser considerada para o cálculo da classificação final nos termos do n.º 2 do n.º 11.º
+
+6.º-A
+
+Línguas vivas estrangeiras na licenciatura em Comunicação Social
+
+Os alunos inscritos no curso de licenciatura em Comunicação Social deverão demonstrar conhecimento de uma língua viva estrangeira, de entre o elenco, ao nível e pela forma que foram fixados em regulamento a aprovar pelo conselho científico, ouvido o conselho pedagógico.
+
+> Aditado pelo/a [Portaria n.º 66/91](https://diariodarepublica.pt/dr/detalhe/portaria/66-1991-508448), publicado em 1991-01-25.
 
 7.º
 
@@ -456,13 +521,33 @@ Estágio pedagógico
 
 Classificação final
 
-1 - A classificação final de cada curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o respectivo plano de estudos e da classificação do trabalho final no caso do curso de Filosofia.
+1 - A classificação final de cada curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares (disciplinas, seminários, trabalho final, estágio) que integram o respectivo plano de estudos.
+
+> Alterado pelo/a [Portaria n.º 66/91](https://diariodarepublica.pt/dr/detalhe/portaria/66-1991-508448), publicado em 1991-01-25.
 
 2 - As disciplinas de opção complementar serão consideradas para o cálculo da classificação final na medida em que beneficiem esta.
 
 3 - Os coeficientes de ponderação são fixados pelo conselho científico, ouvido o conselho pedagógico.
 
 4 - Os coeficientes de ponderação para os ramos de Formação Educacional são fixados em portaria do Ministro da Educação.
+
+11.º-A
+
+Acesso aos ramos do curso de licenciatura em Comunicação Social
+
+1 - A inscrição nos ramos do curso de licenciatura em Comunicação Social está sujeita a limitações quantitativas a fixar anualmente por despacho do reitor, sob proposta do conselho científico.
+
+2 - Se num determinado ano o número de alunos que se pretende inscrever num ramo for inferior a quinze, esse ramo não poderá abrir inscrições nesse ano.
+
+3 - Aos alunos admitidos à inscrição no curso é assegurada sempre a inscrição num dos ramos.
+
+4 - Podem concorrer à inscrição em cada um dos ramos os estudantes inscritos no 2.º ano que reúnam as condições de transição para o 3.º ano.
+
+5 - As regras e prazos de candidatura e de selecção para inscrição nos ramos serão fixadas por despacho do reitor, sob proposta do conselho científico.
+
+6 - Os despachos a que se referem os n.os 1 e 5 serão objecto de publicação na 2.ª série do Diário da República e de afixação pública na faculdade, com a antecedência, respectivamente, de um mês antes da data da candidatura e de seis meses antes do início do ano lectivo a que dizem respeito.
+
+> Aditado pelo/a [Portaria n.º 66/91](https://diariodarepublica.pt/dr/detalhe/portaria/66-1991-508448), publicado em 1991-01-25.
 
 ### CAPÍTULO II — Acesso aos ramos do curso de Línguas e Literaturas Modernas
 

@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:241457:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-09-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8c3ecddebaaa68f7"
+   ]
+  },
+  {
+   "date": "1999-12-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:655316:por",
+     "title": "Portaria n.º 1092/99",
+     "published": "1999-12-17",
+     "dre_path": "/dr/detalhe/portaria/1092-1999-655316"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8",
+    "Altera Artigo unidades 13-13"
+   ],
+   "fragments": [
+    "519f355dc1f592f0"
+   ]
+  }
+ ],
+ "fragments": {
+  "8c3ecddebaaa68f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Setembro\n\nPela [Portaria n.º 815/95](https://diariodarepublica.pt/dr/detalhe/portaria/815-1995-461269), de 13 de Julho, foi concessionada ao Clube de Caça e Pesca de Miranda do Douro uma zona de caça associativa, processo n.º 1767-DGF, situada no município de Miranda do Douro, com uma área de 1980 ha.\n\nVerificou-se entretanto existirem integrados na zona de caça terrenos para os quais os respectivos titulares de direitos reais sobre os mesmos não produziram uma efectiva manifestação de vontade no sentido dessa integração.\n\nAssim, com fundamento no Acórdão do Tribunal Constitucional n.º 866/96, de 18 de Dezembro, e no artigo 2.º da Lei n.º 28/82, de 15 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O n.º 1.º da [Portaria n.º 815/95](https://diariodarepublica.pt/dr/detalhe/portaria/815-1995-461269), de 13 de Julho, passa a ter a seguinte redacção:\n\n«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Duas Igrejas e Miranda do Douro, município de Miranda do Douro, com a área de 1871,3790 ha.»\n\n2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 1 de Setembro de 1998.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/09/217b00/48684869.pdf)"
+  },
+  "519f355dc1f592f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1999-12-22",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1092/99](https://diariodarepublica.pt/dr/detalhe/portaria/1092-1999-655316), publicado em 1999-12-17.",
+    "Alterado pelo/a [Portaria n.º 1092/99](https://diariodarepublica.pt/dr/detalhe/portaria/1092-1999-655316), publicado em 1999-12-17."
+   ],
+   "markdown": "de 19 de Setembro\n\nPela [Portaria n.º 815/95](https://diariodarepublica.pt/dr/detalhe/portaria/815-1995-461269), de 13 de Julho, foi concessionada ao Clube de Caça e Pesca de Miranda do Douro uma zona de caça associativa, processo n.º 1767-DGF, situada no município de Miranda do Douro, com uma área de 1980 ha.\n\nVerificou-se entretanto existirem integrados na zona de caça terrenos para os quais os respectivos titulares de direitos reais sobre os mesmos não produziram uma efectiva manifestação de vontade no sentido dessa integração.\n\nAssim, com fundamento no Acórdão do Tribunal Constitucional n.º 866/96, de 18 de Dezembro, e no artigo 2.º da Lei n.º 28/82, de 15 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º O n.º 1.º da [Portaria n.º 815/95](https://diariodarepublica.pt/dr/detalhe/portaria/815-1995-461269), de 13 de Julho, passa a ter a seguinte redacção:\n\n«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Duas Igrejas e Miranda do Douro, município de Miranda do Douro, com a área de 1853 ha.»\n\n> Alterado pelo/a [Portaria n.º 1092/99](https://diariodarepublica.pt/dr/detalhe/portaria/1092-1999-655316), publicado em 1999-12-17.\n\n2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 1 de Setembro de 1998.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/12/292b00/90379037.pdf)\n\n> Alterado pelo/a [Portaria n.º 1092/99](https://diariodarepublica.pt/dr/detalhe/portaria/1092-1999-655316), publicado em 1999-12-17."
+  }
+ }
+}

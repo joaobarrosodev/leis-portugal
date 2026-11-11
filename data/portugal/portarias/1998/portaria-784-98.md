@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-12-22'
+version_history:
+  file: portaria-784-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-09-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-12-22'
+    amending: pt:dre:655316:por
+    amending_title: Portaria n.º 1092/99
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/784/1998/09/19/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:11:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1092/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-784-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,7 +143,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 1.º O n.º 1.º da [Portaria n.º 815/95](https://diariodarepublica.pt/dr/detalhe/portaria/815-1995-461269), de 13 de Julho, passa a ter a seguinte redacção:
 
-«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Duas Igrejas e Miranda do Douro, município de Miranda do Douro, com a área de 1871,3790 ha.»
+«Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Duas Igrejas e Miranda do Douro, município de Miranda do Douro, com a área de 1853 ha.»
+
+> Alterado pelo/a [Portaria n.º 1092/99](https://diariodarepublica.pt/dr/detalhe/portaria/1092-1999-655316), publicado em 1999-12-17.
 
 2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
@@ -137,4 +155,6 @@ Assinada em 1 de Setembro de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/09/217b00/48684869.pdf)
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/12/292b00/90379037.pdf)
+
+> Alterado pelo/a [Portaria n.º 1092/99](https://diariodarepublica.pt/dr/detalhe/portaria/1092-1999-655316), publicado em 1999-12-17.

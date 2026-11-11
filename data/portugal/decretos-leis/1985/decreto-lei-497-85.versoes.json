@@ -1,0 +1,389 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:169972:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-12-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7dd41fa04d1b7a54"
+   ]
+  },
+  {
+   "date": "1986-11-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220076:por",
+     "title": "Decreto-Lei n.º 278/86",
+     "published": "1986-09-05",
+     "dre_path": "/dr/detalhe/decreto-lei/278-1986-220076"
+    },
+    {
+     "id": "pt:dre:221089:por",
+     "title": "Decreto-Lei n.º 371/86",
+     "published": "1986-11-05",
+     "dre_path": "/dr/detalhe/decreto-lei/371-1986-221089"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Adita Artigo 13.º-A"
+   ],
+   "fragments": [
+    "5855f973780576a2",
+    "1771db4135faa0f9",
+    "3f4c2d791d1e3179",
+    "c87a5c8cb6052f3a",
+    "94d8c9772c4dbdb3",
+    "eaf5095788903e76",
+    "a057250c8d111124",
+    "54a00899b7fb720f",
+    "9b88f9c326daf5d4",
+    "11b124c0d435fdf4",
+    "ba7e004de931d79f",
+    "5370225631d5292d",
+    "c78db732903b1035",
+    "84a3fabb178635a9",
+    "4885b2109a424089",
+    "a82debb8774a0a11",
+    "bf4bda4697ca38aa",
+    "17cfea3214f36fc0",
+    "557be0f652e633fe",
+    "ec605e967c74c9db",
+    "978c0662a33f1c38",
+    "8175076a218b166a",
+    "d0aafa82db0bfdff",
+    "0caf40a83d73e381",
+    "04309e2b7f1be4c7",
+    "ac01e23e7bb96990",
+    "291c1d468c5913ba",
+    "12836c8b64c301e9",
+    "c09a493bff9be627",
+    "7ff82629ef32ac23",
+    "9ef478b3a122a487",
+    "6ee3a5fe21fee013",
+    "9c158bac1888821a",
+    "81e361b8c678a9cb",
+    "21c8beba4a57e16b",
+    "3f1167f9d3a4f933",
+    "1bb672b8be495c40"
+   ]
+  }
+ ],
+ "fragments": {
+  "7dd41fa04d1b7a54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Dezembro\n\n1. A Lei Orgânica do Governo deve não apenas reflectir a sua estrutura real, mas ser também expressão da filosofia que o enforma. Por isso, o presente diploma vem reproduzir as profundas alterações que o X Governo Constitucional deseja introduzir na orgânica da Administração. Estas alterações traduzem uma das mais significativas modificações dos últimos anos na organização administrativa do Estado.\n\n2. Desde logo foi preocupação fundamental proceder a uma redução de ministérios e eliminação de secretarias de Estado, ditadas por critérios de funcionamento e de eficácia.\n\n3. Por outro lado, e em termos de expressão jurídica, preferiu-se, ao contrário do que aconteceu em leis orgânicas de governos anteriores, concentrar num único artigo a criação do ministério, a denominação das suas secretarias de Estado e a respectiva estrutura administrativa básica.\n\n4. Não sendo viável concretizar neste diploma todas as alterações que dele decorrerão na estrutura de cada ministério, consignou-se a obrigação de cada membro do Governo responsável submeter, no prazo de 120 dias contados da data da entrada em vigor deste decreto-lei, à aprovação do Conselho de Ministros os diplomas orgânicos que consubstanciarão, em cada departamento, tais modificações.\n\n5. Pelo presente decreto-lei procede-se ainda à distribuição de vários organismos, anteriormente integrados na Presidência do Conselho de Ministros, pelos ministérios competentes em razão das suas atribuições fundamentais.\n\nAssim:\n\nO Governo decreta, nos termos do n.º 2 do artigo 201.º da Constituição, o seguinte:\n\nI\n\nDo Governo\n\nArtigo 1.º O Governo é constituído pelo Primeiro-Ministro, pelo Ministro de Estado, pelos ministros e pelos secretários de Estado.\n\nArt. 2.º O Governo compreende os seguintes Ministros:\n\na) Ministro de Estado;\n\nb) Ministro Adjunto e para os Assuntos Parlamentares;\n\nc) Ministro da Defesa Nacional;\n\nd) Ministro das Finanças;\n\ne) Ministro da Administração Interna;\n\nf) Ministro do Plano e da Administração do Território;\n\ng) Ministro da Justiça;\n\nh) Ministro dos Negócios Estrangeiros;\n\ni) Ministro da Agricultura, Pescas e Alimentação;\n\nj) Ministro da Indústria e Comércio;\n\nl) Ministro da Educação e Cultura;\n\nm) Ministro das Obras Públicas, Transportes e Comunicações;\n\nn) Ministro da Saúde;\n\no) Ministro do Trabalho e Segurança Social.\n\nArt. 3.º Compete ao Ministro de Estado substituir o Primeiro-Ministro nas suas ausências e impedimentos e exercer os poderes que lhe forem delegados pelo Primeiro-Ministro ou pelo Conselho de Ministros.\n\nArt. 4.º Compete ao Ministro Adjunto e para os Assuntos Parlamentares ocupar-se das relações do Governo com a Assembleia da República e os partidos políticos e exercer os poderes que lhe forem delegados pelo Primeiro-Ministro ou pelo Conselho de Ministros.\n\nArt. 5.º - 1 - Os secretários de Estado existentes junto do Primeiro-Ministro ou dos ministros exercerão, em cada caso, a competência que neles for delegada pelo Primeiro-Ministro ou pelo ministro respectivo, com possibilidade de conferir poderes de subdelegação.\n\n2 - Ficam revogadas todas as disposições legais que confiram competências próprias a secretários de Estado.\n\nArt. 6.º No domínio dos assuntos correntes da Administração Pública, a competência atribuída por lei ao Conselho de Ministros considera-se delegada no Primeiro-Ministro, que a poderá subdelegar em qualquer membro do Governo.\n\nArt. 7.º A Presidência do Conselho de Ministros compreende todos os serviços dependentes do Primeiro-Ministro, do Ministro de Estado e do Ministro Adjunto e para os Assuntos Parlamentares, bem como os seguintes secretários de Estado:\n\na) Secretário de Estado da Presidência do Conselho de Ministros;\n\nb) Secretário de Estado do Turismo;\n\nc) Secretário de Estado da Juventude;\n\nd) Secretário de Estado dos Assuntos Parlamentares;\n\ne) Secretário de Estado Adjunto do Ministro Adjunto e para os Assuntos Parlamentares.\n\nArt. 8.º - 1 - O Primeiro-Ministro poderá delegar em qualquer membro do Governo, com possibilidade de conferir poderes de subdelegação, a competência relativa aos seguintes organismos e serviços que se consideram integrados na Presidência do Conselho de Ministros:\n\na) Secretaria-Geral da Presidência do Conselho de Ministros;\n\nb) Auditoria Jurídica da Presidência do Conselho de Ministros;\n\nc) Serviços Sociais da Presidência do Conselho de Ministros;\n\nd) Direcção-Geral da Comunicação Social;\n\ne) Direcção-Geral da Família;\n\nf) Todos os organismos e serviços anteriormente integrados na Secretaria de Estado do Turismo, do Ministério do Comércio e Turismo;\n\ng) O Fundo de Apoio aos Organismos Juvenis;\n\nh) Instituto Nacional de Administração;\n\ni) Gabinete de Macau;\n\nj) Gabinete de Estudos e Coordenação da Reforma Administrativa;\n\nl) Conselho Superior de Informações;\n\nm) Conselho Permanente da Concertação Social;\n\nn) Conselho Nacional de Telecomunicações;\n\no) Secretariado para a Desconcentração;\n\np) Comissão da Condição Feminina;\n\nq) Comissão para o Ano Internacional da Juventude;\n\nr) Comissão Organizadora do Dia da Liberdade;\n\ns) Comissão Organizadora do Dia de Portugal, de Camões e das Comunidades Portuguesas;\n\nt) Comissão Liquidatária da Empresa do Jornal O Século;\n\nu) Outros serviços integrados na Presidência do Conselho de Ministros, por diploma anterior a esta lei orgânica, e não indicados nas alíneas antecedentes, que não tenham sido expressamente integrados noutros departamentos.\n\n2 - O Primeiro-Ministro exerce a tutela, que poderá delegar em qualquer membro do Governo, com a possibilidade de conferir poderes de subdelegação sobre as seguintes empresas públicas:\n\na) ENATUR, E. P.;\n\nb) Radiodifusão Portuguesa, E. P.;\n\nc) Radiotelevisão Portuguesa, E. P.;\n\nd) Agência Noticiosa Portuguesa, E. P.;\n\ne) Empresa Pública dos Jornais Notícias e Capital;\n\nf) Empresa Pública do Jornal Diário Popular.\n\n3 - São criados na Presidência do Conselho de Ministros a Direcção-Geral da Juventude e o Secretariado para a Modernização Administrativa.\n\nArt. 9.º O Ministro Adjunto e para os Assuntos Parlamentares é coadjuvado, no exercício das suas funções, pelo Secretário de Estado da Presidência do Conselho de Ministros, pelo Secretário de Estado dos Assuntos Parlamentares e pelo Secretário de Estado Adjunto do Ministro Adjunto e para os Assuntos Parlamentares.\n\nArt. 10.º O Ministro da Defesa Nacional é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Ministro da Defesa Nacional.\n\nArt. 11.º - 1 - É criado o Ministério das Finanças, que compreende os seguintes secretários de Estado:\n\na) Secretário de Estado do Tesouro;\n\nb) Secretário de Estado do Orçamento;\n\nc) Secretário de Estado para os Assuntos Fiscais.\n\n2 - O Ministro das Finanças é coadjuvado, no exercício das suas funções, por um Secretário de Estado Adjunto, que é também o Secretário de Estado do Tesouro.\n\n3 - São integrados no Ministério das Finanças, para além dos organismos e serviços integrados no anterior Ministério das Finanças e do Plano e que não sejam integrados por este diploma em outros departamentos, todos os organismos e serviços da anterior Secretaria de Estado da Administração Pública, os quais serão objecto de reestruturação, fusão ou extinção, à excepção do Gabinete de Estudos e Coordenação da Reforma Administrativa, que é integrado na Presidência do Conselho de Ministros.\n\nArt. 12.º - 1 - O Ministro da Administração Interna é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Ministro da Administração Interna.\n\n2 - O Ministério da Administração Interna integra os organismos e serviços integrados no anterior Ministério com a mesma designação e que não sejam integrados por este diploma em outros departamentos.\n\nArt. 13.º - 1 - É criado o Ministério do Plano e da Administração do Território, que compreende os seguintes secretários de Estado:\n\na) Secretário de Estado do Planeamento e Desenvolvimento Regional;\n\nb) Secretário de Estado da Administração Local e Ordenamento do Território;\n\nc) Secretário de Estado do Ambiente e dos Recursos Naturais;\n\nd) Secretário de Estado da Investigação Científica.\n\n2 - São integrados no Ministério do Plano e da Administração do Território:\n\na) A Secretaria-Geral do extinto Ministério da Qualidade de Vida, a Direcção-Geral do Ordenamento, a Direcção-Geral da Qualidade do Ambiente, o Instituto Nacional de Defesa do Consumidor, o Instituto António Sérgio do Sector Cooperativo, a Junta Nacional de Investigação Científica e Tecnológica, o Gabinete de Estudos e Planeamento do extinto Ministério da Qualidade de Vida, o Conselho Nacional de Publicidade, o Conselho Nacional para a Investigação Científica e Tecnológica, o Conselho Nacional de Prevenção do Tabagismo, o Serviço Nacional de Parques, Reservas e Conservação da Natureza, as Comissões de Gestão do Ar, as Comissões de Saneamento Básico do Algarve e do Concelho da Feira, a Comissão de Gestão Integrada da Bacia Hidrográfica do Ave e a comissão encarregada de preparar uma carteira de sítios para a localização de centrais térmicas a carvão, anteriormente integrados na Presidência do Conselho de Ministros;\n\nb) A Inspecção-Geral da Administração Interna, a Direcção-Geral de Administração Local, a Direcção-Geral do Desenvolvimento Regional, o Centro de Estudos e Formação Autárquica, o Gabinete de Apoio às Autarquias Locais, os gabinetes de apoio técnico às autarquias locais, os gabinetes coordenadores de programas integrados de desenvolvimento regional e as Comissões de Coordenação Regional do Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve, anteriormente integrados no Ministério da Administração Interna;\n\nc) A Secretaria-Geral (Plano), o Instituto Nacional de Estatística, o Instituto de Análise da Conjuntura e Estudos de Planeamento, o Departamento Central de Planeamento, o Gabinete Coordenador do Alqueva, o Gabinete do Aeroporto de Santa Catarina, a Comissão Técnica Interministerial de Planeamento e a comissão para o estudo das formas institucionais da gestão da água, anteriormente integrados no Ministério das Finanças e do Plano;\n\nd) A Divisão de Parques e Reservas da Direcção-Geral das Florestas, anteriormente integrada no Ministério da Agricultura;\n\ne) A Divisão de Controle do Ambiente do Gabinete da Área de Sines, anteriormente integrada no Ministério da Indústria e Energia;\n\nf) A Secretaria-Geral, a Auditoria Jurídica, a Direcção-Geral do Equipamento Regional e Urbano, a Direcção-Geral do Planeamento Urbanístico, a Direcção-Geral do Saneamento Básico, a Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos e a Estação de Tratamento do Lixo de Lisboa, anteriormente integradas no Ministério do Equipamento Social.\n\n3 - É criada no Ministério do Plano e da Administração do Território a Secretaria-Geral do Ministério do Plano e da Administração do Território, que resulta da fusão da Secretaria-Geral do extinto Ministério da Qualidade de Vida, da Secretaria-Geral do Ministério das Finanças e do Plano (Plano) e da Secretaria-Geral do Ministério do Equipamento Social.\n\n4 - É criado no Ministério do Plano e da Administração do Território o Gabinete de Estudos do Ordenamento do Território e do Ambiente, que resulta da fusão do Gabinete de Estudos e Planeamento, anteriormente integrado no extinto Ministério da Qualidade de Vida, e dos núcleos do urbanismo e recursos hídricos e saneamento básico do Gabinete de Estudos e Planeamento da Habitação e Obras Públicas, anteriormente integrado no Ministério do Equipamento Social.\n\n5 - O Ministro do Plano e da Administração do Território exerce a tutela sobre a Empresa Pública dos Parques Industriais e a Empresa Pública das Águas Livres.\n\n6 - O Ministro do Plano e da Administração do Território exerce a tutela sobre as assembleias distritais.\n\nArt. 14.º - 1 - O Ministério dos Negócios Estrangeiros compreende os seguintes secretários de Estado:\n\na) Secretário de Estado dos Negócios Estrangeiros e Cooperação;\n\nb) Secretário de Estado da Integração Europeia;\n\nc) Secretário de Estado das Comunidades Portuguesas.\n\n2 - São integrados no Ministério dos Negócios Estrangeiros a Comissão para a Integração Europeia, o Secretariado para a Integração Europeia, bem como os demais serviços e órgãos previstos no [Decreto-Lei n.º 185/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1979-381117), de 20 de Junho.\n\nArt. 15.º - 1 - É criado o Ministério da Agricultura, Pescas e Alimentação, que compreende os seguintes secretários de Estado:\n\na) Secretário de Estado da Alimentação;\n\nb) Secretário de Estado da Agricultura;\n\nc) Secretário de Estado das Pescas.\n\n2 - São integrados no Ministério da Agricultura, Pescas e Alimentação os organismos, serviços e empresas públicas anteriormente integrados dependentes ou tutelados pelo Ministério da Agricultura, bem como os organismos, serviços e empresas públicas anteriormente integrados dependentes ou tutelados pela Secretaria de Estado das Pescas, do Ministério do Mar.\n\n3 - É criado no Ministério da Agricultura, Pescas e Alimentação o Gabinete de Estudos e Planeamento das Pescas.\n\n4 - Dependem do Ministro da Agricultura, Pescas e Alimentação a Comissão Reguladora do Comércio do Bacalhau, o Instituto Português de Conservas de Peixe e o Instituto do Vinho do Porto.\n\nArt. 16.º - 1 - É criado o Ministério da Indústria e Comércio, que compreende os seguintes secretários de Estado:\n\na) Secretário de Estado do Comércio Interno;\n\nb) Secretário de Estado da Indústria e Energia;\n\nc) Secretário de Estado do Comércio Externo.\n\n2 - São integrados no Ministério da Indústria e Comércio os organismos e serviços anteriormente integrados no Ministério da Indústria e Energia e no Ministério do Comércio e Turismo, à excepção dos integrados na Secretaria de Estado do Turismo e dos organismos e serviços integrados em outros ministérios por este diploma.\n\n3 - Dependem do Ministro da Indústria e Comércio o Instituto dos Têxteis, o Instituto de Produtos Florestais, a Comissão Reguladora dos Produtos Químicos e Farmacêuticos e o Gabinete da Área de Sines, à excepção, quanto a este último, da Divisão de Controle do Ambiente.\n\n4 - São criados no Ministério da Indústria e Comércio os seguintes serviços:\n\na) A Secretaria-Geral do Ministério da Indústria e Comércio, que resulta da fusão das secretarias-gerais anteriormente integradas no Ministério da Indústria e Energia e no Ministério do Comércio e Turismo;\n\nb) A Auditoria Jurídica do Ministério da Indústria e Comércio, que resulta da fusão da Auditoria jurídica anteriormente integrada no Ministério da Indústria e Energia com o Gabinete Jurídico anteriormente integrado no Ministério do Comércio e Turismo;\n\nc) O Gabinete de Estudos e Planeamento do Ministério da Indústria e Comércio, que resulta da fusão dos Gabinetes de Estudos e Planeamento anteriormente integrados no Ministério da Indústria e Energia e no Ministério do Comércio e Turismo.\n\n5 - O Ministro da Indústria e Comércio exerce a tutela sobre as empresas públicas anteriormente tuteladas pelo Ministro da Indústria e Energia e pelo Ministro do Comércio e Turismo, à excepção da ENATUR e da EPPI.\n\nArt. 17.º - 1 - É criado o Ministério da Educação e Cultura, que compreende os seguintes secretários de Estado:\n\na) Secretário de Estado do Ensino Superior;\n\nb) Secretário de Estado da Administração Escolar;\n\nc) Secretário de Estado do Ensino Básico e Secundário;\n\nd) Secretário de Estado da Cultura.\n\n2 - São integrados no Ministério da Educação e Cultura todos os organismos e serviços anteriormente integrados no Ministério da Educação e no Ministério da Cultura, à excepção do Fundo de Apoio aos Organismos juvenis.\n\n3 - São integrados no Ministério da Educação e Cultura os organismos e serviços anteriormente integrados na Secretaria de Estado dos Desportos, da Presidência do Conselho de Ministros.\n\n4 - É criada no Ministério da Educação e Cultura a Direcção-Geral dos Equipamentos Educativos, que resulta da fusão da Direcção-Geral do Equipamento Escolar e da Direcção-Geral das Construções Escolares, anteriormente integradas no Ministério do Equipamento Social.\n\nArt. 18.º - 1 - É criado o Ministério das Obras Públicas, Transportes e Comunicações, que compreende os seguintes secretários de Estado:\n\na) Secretário de Estado dos Transportes e Comunicações;\n\nb) Secretário de Estado das Vias de Comunicação;\n\nc) Secretário de Estado da Construção e Habitação.\n\n2 - São integrados no Ministério das Obras Públicas, Transportes e Comunicações:\n\na) A Comissão para o Estudo e Implementação de Teledifusão, anteriormente integrada na Presidência do Conselho de Ministros;\n\nb) A Obra Social do extinto Ministério da Habitação, Obras Públicas e Transportes, o Laboratório Nacional de Engenharia Civil, o Fundo Especial de Transportes Terrestres, o Gabinete de Estudos e Planeamento dos Transportes e Comunicações e o Gabinete da Ponte Ferroviária sobre o Rio Douro, anteriormente integrados no Ministério do Equipamento Social;\n\nc) A Direcção-Geral dos Edifícios e Monumentos Nacionais e a Junta Autónoma de Estradas, anteriormente integradas na Secretaria de Estado das Obras Públicas, do Ministério do Equipamento Social;\n\nd) O ex-Fundo de Fomento da Habitação e o Instituto Nacional da Habitação, anteriormente integrados na Secretaria de Estado da Habitação e Urbanismo, do Ministério do Equipamento Social;\n\ne) Os organismos e serviços anteriormente integrados na Secretaria de Estado dos Transportes e na Secretaria de Estado das Comunicações, do Ministério do Equipamento Social;\n\nf) A Secretaria-Geral, o Gabinete Jurídico, a Inspecção Técnica e Administrativa, a Direcção-Geral de Portos, o Instituto do Trabalho Portuário, o Instituto Nacional de Pilotagem de Portos, a Administração do Porto de Sines, a Administração-Geral do Porto de Lisboa, a Administração dos Portos do Douro e Leixões e o Conselho Nacional de Portos, anteriormente integrados no Ministério do Mar;\n\ng) Os organismos e serviços anteriormente integrados na Secretaria de Estado da Marinha Mercante, do Ministério do Mar.\n\n3 - É criada no Ministério das Obras Públicas, Transportes e Comunicações a Auditoria Jurídica do Ministério das Obras Públicas, Transportes e Comunicações, que resulta da fusão da Auditoria Jurídica dos Transportes e Comunicações, anteriormente integrada no Ministério do Equipamento Social, e do Gabinete Jurídico do Ministério do Mar, anteriormente integrado no Ministério do Mar.\n\n4 - É criado no Ministério das Obras Públicas, Transportes e Comunicações o Gabinete de Estudos e Planeamento do Ministério das Obras Públicas, Transportes e Comunicações, que resulta da fusão do Gabinete de Estudos e Planeamento de Transportes e Comunicações, anteriormente integrado no Ministério do Equipamento Social, e do Gabinete de Estudos e Planeamento da Habitação e Obras Públicas, anteriormente integrado no extinto Ministério da Habitação e Obras Públicas.\n\n5 - A Secretaria-Geral do Ministério do Mar passa a denominar-se Secretaria-Geral do Ministério das Obras Públicas, Transportes e Comunicações.\n\nArt. 19.º - 1 - É criada no Ministério da Saúde a Direcção-Geral das Instalações e Equipamentos de Saúde, que resulta da fusão da Direcção-Geral das Construções Hospitalares, anteriormente integrada no Ministério do Equipamento Social, com o Gabinete de Instalações e Equipamentos de Saúde.\n\n2 - É integrado no Ministério da Saúde o Gabinete do Novo Hospital Central de Coimbra, anteriormente integrado no Ministério do Equipamento Social.\n\nArt. 20.º - 1 - O Ministério do Trabalho e Segurança Social compreende os seguintes secretários de Estado:\n\na) Secretário de Estado do Emprego e Formação Profissional;\n\nb) Secretário de Estado da Segurança Social.\n\n2 - É integrado no Ministério do Trabalho e Segurança Social o Secretariado Nacional de Reabilitação, anteriormente integrado na Presidência do Conselho de Ministros.\n\nII\n\nDo Conselho de Ministros\n\nArt. 21.º - 1 - O Conselho de Ministros é constituído pelo Primeiro-Ministro, pelo Ministro de Estado e pelos ministros.\n\n2 - Os ministros da República para as regiões autónomas têm assento em Conselho de Ministros nas reuniões que tratem de assuntos de interesse para a respectiva região.\n\n3 - Salvo determinação em contrário do Primeiro-Ministro, participa ainda nas reuniões do Conselho de Ministros, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros.\n\n4 - Podem também participar nas reuniões do Conselho de Ministros, igualmente sem direito a voto, os secretários de Estado que venham, em cada caso, a ser especialmente convocados por indicação do Primeiro-Ministro.\n\nArt. 22.º - 1 - Haverá um Conselho de Ministros para os Assuntos Económicos, de que fazem parte, além do Primeiro-Ministro, o Ministro de Estado, o Ministro Adjunto e para os Assuntos Parlamentares, o Ministro das Finanças, o Ministro do Plano e da Administração do Território, o Ministro dos Negócios Estrangeiros, o Ministro da Agricultura, Pescas e Alimentação, o Ministro da Indústria e Comércio, o Ministro das Obras Públicas, Transportes e Comunicações e o Ministro do Trabalho e Segurança Social.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participa ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros.\n\n3 - Por decisão do Primeiro-Ministro, podem ser convocados outros ministros ou secretários de Estado, igualmente sem direito a voto, quando os assuntos a tratar se relacionem com os respectivos departamentos.\n\nArt. 23.º Compete ao Conselho de Ministros para os Assuntos Económicos:\n\na) Definir as linhas da política económica e financeira do Governo, bem como os aspectos económicos e financeiros das políticas de cooperação decorrentes da política externa geral;\n\nb) Acompanhar e coordenar a execução das medidas aprovadas;\n\nc) Apreciar os assuntos de carácter sectorial que lhe sejam apresentados pelos respectivos ministros;\n\nd) Exercer outras atribuições que lhe sejam conferidas por lei ou por delegação do Conselho de Ministros.\n\nIII\n\nDisposições finais e transitórias\n\nArt. 24.º - 1 - A estrutura orgânica constante do [Decreto-Lei n.º 344-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-a-1983-408485), de 25 de Julho, com as alterações entretanto introduzidas, é substituída pela prevista no presente diploma.\n\n2 - Todos os serviços que são transferidos ou cuja estrutura ministerial é alterada mantêm a mesma natureza jurídica, modificando-se apenas, e conforme os casos, o superior hierárquico ou o órgão da tutela, ou equiparados.\n\n3 - No prazo de 120 dias a partir da entrada em vigor do presente decreto-lei, devem ser submetidos a Conselho de Ministros os projectos de diploma que consagrem, para cada ministério, organismos ou serviço, as alterações decorrentes da nova estrutura orgânica do Governo.\n\nArt. 25.º São extintos os seguintes ministérios:\n\na) Ministério das Finanças e do Plano;\n\nb) Ministério da Educação;\n\nc) Ministério da Agricultura;\n\nd) Ministério da Indústria e Energia;\n\ne) Ministério do Comércio e Turismo;\n\nf) Ministério da Cultura;\n\ng) Ministério do Equipamento Social;\n\nh) Ministério do Mar.\n\nArt. 26.º São extintas as seguintes secretarias de Estado:\n\na) Secretaria de Estado da Administração Pública;\n\nb) Secretaria de Estado do Fomento Cooperativo;\n\nc) Secretaria de Estado do Desenvolvimento Regional;\n\nd) Secretaria de Estado da Administração Autárquica;\n\ne) Secretaria de Estado da Cooperação;\n\nf) Secretaria de Estado da Emigração;\n\ng) Secretaria de Estado das Finanças;\n\nh) Secretaria de Estado do Planeamento;\n\ni) Secretaria de Estado do Trabalho;\n\nj) Secretaria de Estado da Produção Agrícola;\n\nl) Secretaria de Estado do Comércio e Indústria Agrícola;\n\nm) Secretaria de Estado da Indústria;\n\nn) Secretaria de Estado da Energia;\n\no) Secretaria de Estado das Obras Públicas;\n\np) Secretaria de Estado da Habitação e Urbanismo;\n\nq) Secretaria de Estado dos Transportes;\n\nr) Secretaria de Estado das Comunicações;\n\ns) Secretaria de Estado dos Desportos;\n\nt) Secretaria de Estado do Ambiente;\n\nu) Secretaria de Estado da Marinha Mercante.\n\nArt. 27.º São extintos os seguintes cargos de secretários de Estado:\n\na) Secretário de Estado Adjunto do Primeiro-Ministro;\n\nb) Secretário de Estado Adjunto do Vice-Primeiro-Ministro;\n\nc) Secretário de Estado Adjunto do Ministro de Estado;\n\nd) Secretário de Estado da Defesa Nacional;\n\ne) Secretário de Estado Adjunto do Ministro da Educação.\n\nArt. 28.º É extinto o cargo de Subsecretário de Estado do Orçamento.\n\nArt. 29.º - 1 - O Ministro da Saúde e o Ministro do Trabalho e Segurança Social exercerão a superintendência e a tutela, respectivamente, do Conselho Superior da Acção Social e da Santa Casa da Misericórdia de Lisboa.\n\n2 - A gestão corrente dos organismos referidos no número anterior será regulamentada por despacho conjunto dos dois ministros.\n\nArt. 30.º O Conselho Superior de Obras Públicas e Transportes mantém a competência para se pronunciar sobre os problemas técnicos e económicos do Ministério do Plano e da Administração do Território, do Ministério da Educação e Cultura e do Ministério da Saúde, nos termos do disposto no [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, que os respectivos ministros lhe submetam.\n\nArt. 31.º O activo, o passivo, os direitos e as obrigações, incluindo as posições contratuais, de que eram titulares os departamentos, organismos ou serviços objecto de alterações por força do presente diploma são automaticamente transferidos para os novos departamentos, organismos ou serviços que substituem aqueles, sem dependência de qualquer formalidade.\n\nArt. 32.º - 1 - Até à aprovação do Orçamento do Estado para 1986 mantém-se a expressão orçamental da estrutura governativa anterior, com as alterações estabelecidas nos números seguintes.\n\n2 - Os encargos com os gabinetes dos membros do Governo criados ou reestruturados pelo presente diploma serão satisfeitos por conta das verbas dos correspondentes gabinetes extintos ou integrados noutros departamentos, ou por conta da dotação global inscrita no actual orçamento da Secretaria-Geral da Presidência do Conselho de Ministros, sem prejuízo do disposto nos números seguintes.\n\n3 - Os encargos com o Gabinete do Secretário de Estado da Juventude serão satisfeitos por conta das verbas do extinto Gabinete do Secretário de Estado da Administração Pública. Até à aprovação do Orçamento para 1986, os encargos com a instalação da Direcção-Geral da juventude serão suportados pelas verbas inscritas no orçamento da Secretaria-Geral da Presidência do Conselho de Ministros.\n\n4 - Os encargos com o Gabinete do Secretário de Estado Adjunto do Ministro da Administração Interna serão satisfeitos por conta das verbas do extinto Gabinete do Secretário de Estado do Desenvolvimento Regional e do Gabinete do Ministro da Administração Interna.\n\n5 - Os encargos com o Gabinete do Ministro do Plano e da Administração do Território serão satisfeitos por conta das verbas do extinto Gabinete do Ministro do Equipamento Social.\n\n6 - Os encargos com o Gabinete do Secretário de Estado da Investigação Científica serão satisfeitos por conta das verbas do extinto Gabinete do Secretário de Estado da Habitação.\n\n7 - Os encargos com o Gabinete do Secretário de Estado da Cultura serão satisfeitos por conta das verbas do extinto Gabinete do Ministro da Cultura.\n\n8 - Os encargos com o Gabinete do Ministro das Obras Públicas, Transportes e Comunicações serão satisfeitos por conta das verbas do extinto Gabinete do Ministro do Mar.\n\n9 - Os encargos com o Gabinete do Secretário de Estado dos Transportes e Comunicações serão satisfeitos por conta das verbas dos extintos Gabinetes do Secretário de Estado dos Transportes e do Secretário de Estado da Marinha Mercante.\n\n10 - Os encargos com o Gabinete do Secretário de Estado das Vias de Comunicação serão satisfeitos por conta das verbas do extinto Gabinete do Secretário de Estado das Comunicações.\n\n11 - Os encargos com o Gabinete do Secretário de Estado da Construção e Habitação serão satisfeitos por conta das verbas do extinto Gabinete do Secretário de Estado das Obras Públicas.\n\n12 - Os encargos relativos aos serviços ou organismos que transitam, no todo ou em parte, para departamentos diferentes continuarão a ser processados por conta das verbas que lhes estão atribuídas.\n\nArt. 33.º - 1 - A alteração na estrutura orgânica é acompanhada pelo consequente movimento do pessoal, sem que daí resulte perca de direitos adquiridos e sem que seja necessária qualquer formalidade.\n\n2 - Cessam em 31 de Dezembro de 1985 todas as comissões de serviço que estejam a ser exercidas por secretários-gerais, adjuntos de secretários-gerais, directores-gerais, subdirectores-gerais ou equiparados dos serviços fundidos pelo presente diploma.\n\n3 - O disposto no número anterior é aplicável aos titulares dos cargos referidos em organismos ou serviços cuja fusão ou extinção tenha sido já determinada por anterior diploma.\n\nArt. 34.º Todos os actos do Governo que envolvam aumento de despesas ou diminuição de receitas serão obrigatoriamente referendados pelo Ministro das Finanças.\n\nArt. 35.º O presente decreto-lei produz efeitos desde 6 de Novembro de 1985.\n\nVisto e aprovado em Conselho de Ministros de 22 de Novembro de 1985. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Pedro José Rodrigues Pires de Miranda - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Luís Fernando Mira Amaral.\n\nPromulgado em 9 de Dezembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 9 de Dezembro de 1985.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "5855f973780576a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Dezembro\n\n1. A Lei Orgânica do Governo deve não apenas reflectir a sua estrutura real, mas ser também expressão da filosofia que o enforma. Por isso, o presente diploma vem reproduzir as profundas alterações que o X Governo Constitucional deseja introduzir na orgânica da Administração. Estas alterações traduzem uma das mais significativas modificações dos últimos anos na organização administrativa do Estado.\n\n2. Desde logo foi preocupação fundamental proceder a uma redução de ministérios e eliminação de secretarias de Estado, ditadas por critérios de funcionamento e de eficácia.\n\n3. Por outro lado, e em termos de expressão jurídica, preferiu-se, ao contrário do que aconteceu em leis orgânicas de governos anteriores, concentrar num único artigo a criação do ministério, a denominação das suas secretarias de Estado e a respectiva estrutura administrativa básica.\n\n4. Não sendo viável concretizar neste diploma todas as alterações que dele decorrerão na estrutura de cada ministério, consignou-se a obrigação de cada membro do Governo responsável submeter, no prazo de 120 dias contados da data da entrada em vigor deste decreto-lei, à aprovação do Conselho de Ministros os diplomas orgânicos que consubstanciarão, em cada departamento, tais modificações.\n\n5. Pelo presente decreto-lei procede-se ainda à distribuição de vários organismos, anteriormente integrados na Presidência do Conselho de Ministros, pelos ministérios competentes em razão das suas atribuições fundamentais.\n\nAssim:\n\nO Governo decreta, nos termos do n.º 2 do artigo 201.º da Constituição, o seguinte:\n\nI\n\nDo Governo"
+  },
+  "1771db4135faa0f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Governo é constituído pelo Primeiro-Ministro, pelo Ministro de Estado, pelos ministros e pelos secretários de Estado."
+  },
+  "3f4c2d791d1e3179": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Governo compreende os seguintes Ministros:\n\na) Ministro de Estado;\n\nb) Ministro Adjunto e para os Assuntos Parlamentares;\n\nc) Ministro da Defesa Nacional;\n\nd) Ministro das Finanças;\n\ne) Ministro da Administração Interna;\n\nf) Ministro do Plano e da Administração do Território;\n\ng) Ministro da Justiça;\n\nh) Ministro dos Negócios Estrangeiros;\n\ni) Ministro da Agricultura, Pescas e Alimentação;\n\nj) Ministro da Indústria e Comércio;\n\nl) Ministro da Educação e Cultura;\n\nm) Ministro das Obras Públicas, Transportes e Comunicações;\n\nn) Ministro da Saúde;\n\no) Ministro do Trabalho e Segurança Social."
+  },
+  "c87a5c8cb6052f3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nCompete ao Ministro de Estado substituir o Primeiro-Ministro nas suas ausências e impedimentos e exercer os poderes que lhe forem delegados pelo Primeiro-Ministro ou pelo Conselho de Ministros."
+  },
+  "94d8c9772c4dbdb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nCompete ao Ministro Adjunto e para os Assuntos Parlamentares ocupar-se das relações do Governo com a Assembleia da República e os partidos políticos e exercer os poderes que lhe forem delegados pelo Primeiro-Ministro ou pelo Conselho de Ministros."
+  },
+  "eaf5095788903e76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Os secretários de Estado existentes junto do Primeiro-Ministro ou dos ministros exercerão, em cada caso, a competência que neles for delegada pelo Primeiro-Ministro ou pelo ministro respectivo, com possibilidade de conferir poderes de subdelegação.\n\n2 - Ficam revogadas todas as disposições legais que confiram competências próprias a secretários de Estado."
+  },
+  "a057250c8d111124": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNo domínio dos assuntos correntes da Administração Pública, a competência atribuída por lei ao Conselho de Ministros considera-se delegada no Primeiro-Ministro, que a poderá subdelegar em qualquer membro do Governo."
+  },
+  "54a00899b7fb720f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA Presidência do Conselho de Ministros compreende todos os serviços dependentes do Primeiro-Ministro, do Ministro de Estado e do Ministro Adjunto e para os Assuntos Parlamentares, bem como os seguintes secretários de Estado:\n\na) Secretário de Estado da Presidência do Conselho de Ministros;\n\nb) Secretário de Estado do Turismo;\n\nc) Secretário de Estado da Juventude;\n\nd) Secretário de Estado dos Assuntos Parlamentares;\n\ne) Secretário de Estado Adjunto do Ministro Adjunto e para os Assuntos Parlamentares."
+  },
+  "9b88f9c326daf5d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1986-11-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 371/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1986-221089), publicado em 1986-11-05."
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - O Primeiro-Ministro poderá delegar em qualquer membro do Governo, com possibilidade de conferir poderes de subdelegação, a competência relativa aos seguintes organismos e serviços que se consideram integrados na Presidência do Conselho de Ministros:\n\na) Secretaria-Geral da Presidência do Conselho de Ministros;\n\nb) Auditoria Jurídica da Presidência do Conselho de Ministros;\n\nc) Serviços Sociais da Presidência do Conselho de Ministros;\n\nd) Direcção-Geral da Comunicação Social;\n\ne) Direcção-Geral da Família;\n\nf) Todos os organismos e serviços anteriormente integrados na Secretaria de Estado do Turismo, do Ministério do Comércio e Turismo;\n\ng) O Fundo de Apoio aos Organismos Juvenis;\n\nh) Instituto Nacional de Administração;\n\ni) Gabinete de Macau;\n\nj) Gabinete de Estudos e Coordenação da Reforma Administrativa;\n\nl) Conselho Superior de Informações;\n\nm) Conselho Permanente da Concertação Social;\n\nn) Conselho Nacional de Telecomunicações;\n\no) Secretariado para a Desconcentração;\n\np) Comissão da Condição Feminina;\n\nq) Comissão para o Ano Internacional da Juventude;\n\nr) Comissão Organizadora do Dia da Liberdade;\n\ns) Comissão Organizadora do Dia de Portugal, de Camões e das Comunidades Portuguesas;\n\nt) Comissão Liquidatária da Empresa do Jornal O Século;\n\nu) Outros serviços integrados na Presidência do Conselho de Ministros, por diploma anterior a esta lei orgânica, e não indicados nas alíneas antecedentes, que não tenham sido expressamente integrados noutros departamentos.\n\n2 - O Primeiro-Ministro exerce a tutela, que poderá delegar em qualquer membro do Governo, com a possibilidade de conferir poderes de subdelegação sobre as seguintes empresas públicas:\n\na) ENATUR, E. P.;\n\nb) Radiodifusão Portuguesa, E. P.;\n\nc) Radiotelevisão Portuguesa, E. P.;\n\nd) Agência Noticiosa Portuguesa, E. P.;\n\ne) Empresa Pública dos Jornais Notícias e Capital;\n\nf) Empresa Pública do Jornal Diário Popular.\n\n3 - São criados na Presidência do Conselho de Ministros a Direcção-Geral da Juventude e o Secretariado para a Modernização Administrativa.\n\n4 - É integrado na Presidência do Conselho de Ministros o Gabinete de Apoio Técnico-Legislativo, criado pelo [Decreto-Lei n.º 245/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1984-385848), de 19 de Julho.\n\n> Alterado pelo/a [Decreto-Lei n.º 371/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1986-221089), publicado em 1986-11-05."
+  },
+  "11b124c0d435fdf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO Ministro Adjunto e para os Assuntos Parlamentares é coadjuvado, no exercício das suas funções, pelo Secretário de Estado da Presidência do Conselho de Ministros, pelo Secretário de Estado dos Assuntos Parlamentares e pelo Secretário de Estado Adjunto do Ministro Adjunto e para os Assuntos Parlamentares."
+  },
+  "ba7e004de931d79f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO Ministro da Defesa Nacional é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Ministro da Defesa Nacional."
+  },
+  "5370225631d5292d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - É criado o Ministério das Finanças, que compreende os seguintes secretários de Estado:\n\na) Secretário de Estado do Tesouro;\n\nb) Secretário de Estado do Orçamento;\n\nc) Secretário de Estado para os Assuntos Fiscais.\n\n2 - O Ministro das Finanças é coadjuvado, no exercício das suas funções, por um Secretário de Estado Adjunto, que é também o Secretário de Estado do Tesouro.\n\n3 - São integrados no Ministério das Finanças, para além dos organismos e serviços integrados no anterior Ministério das Finanças e do Plano e que não sejam integrados por este diploma em outros departamentos, todos os organismos e serviços da anterior Secretaria de Estado da Administração Pública, os quais serão objecto de reestruturação, fusão ou extinção, à excepção do Gabinete de Estudos e Coordenação da Reforma Administrativa, que é integrado na Presidência do Conselho de Ministros."
+  },
+  "c78db732903b1035": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - O Ministro da Administração Interna é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Ministro da Administração Interna.\n\n2 - O Ministério da Administração Interna integra os organismos e serviços integrados no anterior Ministério com a mesma designação e que não sejam integrados por este diploma em outros departamentos."
+  },
+  "84a3fabb178635a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - É criado o Ministério do Plano e da Administração do Território, que compreende os seguintes secretários de Estado:\n\na) Secretário de Estado do Planeamento e Desenvolvimento Regional;\n\nb) Secretário de Estado da Administração Local e Ordenamento do Território;\n\nc) Secretário de Estado do Ambiente e dos Recursos Naturais;\n\nd) Secretário de Estado da Investigação Científica.\n\n2 - São integrados no Ministério do Plano e da Administração do Território:\n\na) A Secretaria-Geral do extinto Ministério da Qualidade de Vida, a Direcção-Geral do Ordenamento, a Direcção-Geral da Qualidade do Ambiente, o Instituto Nacional de Defesa do Consumidor, o Instituto António Sérgio do Sector Cooperativo, a Junta Nacional de Investigação Científica e Tecnológica, o Gabinete de Estudos e Planeamento do extinto Ministério da Qualidade de Vida, o Conselho Nacional de Publicidade, o Conselho Nacional para a Investigação Científica e Tecnológica, o Conselho Nacional de Prevenção do Tabagismo, o Serviço Nacional de Parques, Reservas e Conservação da Natureza, as Comissões de Gestão do Ar, as Comissões de Saneamento Básico do Algarve e do Concelho da Feira, a Comissão de Gestão Integrada da Bacia Hidrográfica do Ave e a comissão encarregada de preparar uma carteira de sítios para a localização de centrais térmicas a carvão, anteriormente integrados na Presidência do Conselho de Ministros;\n\nb) A Inspecção-Geral da Administração Interna, a Direcção-Geral de Administração Local, a Direcção-Geral do Desenvolvimento Regional, o Centro de Estudos e Formação Autárquica, o Gabinete de Apoio às Autarquias Locais, os gabinetes de apoio técnico às autarquias locais, os gabinetes coordenadores de programas integrados de desenvolvimento regional e as Comissões de Coordenação Regional do Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve, anteriormente integrados no Ministério da Administração Interna;\n\nc) A Secretaria-Geral (Plano), o Instituto Nacional de Estatística, o Instituto de Análise da Conjuntura e Estudos de Planeamento, o Departamento Central de Planeamento, o Gabinete Coordenador do Alqueva, o Gabinete do Aeroporto de Santa Catarina, a Comissão Técnica Interministerial de Planeamento e a comissão para o estudo das formas institucionais da gestão da água, anteriormente integrados no Ministério das Finanças e do Plano;\n\nd) A Divisão de Parques e Reservas da Direcção-Geral das Florestas, anteriormente integrada no Ministério da Agricultura;\n\ne) A Divisão de Controle do Ambiente do Gabinete da Área de Sines, anteriormente integrada no Ministério da Indústria e Energia;\n\nf) A Secretaria-Geral, a Auditoria Jurídica, a Direcção-Geral do Equipamento Regional e Urbano, a Direcção-Geral do Planeamento Urbanístico, a Direcção-Geral do Saneamento Básico, a Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos e a Estação de Tratamento do Lixo de Lisboa, anteriormente integradas no Ministério do Equipamento Social.\n\n3 - É criada no Ministério do Plano e da Administração do Território a Secretaria-Geral do Ministério do Plano e da Administração do Território, que resulta da fusão da Secretaria-Geral do extinto Ministério da Qualidade de Vida, da Secretaria-Geral do Ministério das Finanças e do Plano (Plano) e da Secretaria-Geral do Ministério do Equipamento Social.\n\n4 - É criado no Ministério do Plano e da Administração do Território o Gabinete de Estudos do Ordenamento do Território e do Ambiente, que resulta da fusão do Gabinete de Estudos e Planeamento, anteriormente integrado no extinto Ministério da Qualidade de Vida, e dos núcleos do urbanismo e recursos hídricos e saneamento básico do Gabinete de Estudos e Planeamento da Habitação e Obras Públicas, anteriormente integrado no Ministério do Equipamento Social.\n\n5 - O Ministro do Plano e da Administração do Território exerce a tutela sobre a Empresa Pública dos Parques Industriais e a Empresa Pública das Águas Livres.\n\n6 - O Ministro do Plano e da Administração do Território exerce a tutela sobre as assembleias distritais."
+  },
+  "4885b2109a424089": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º-A",
+   "in_force_from": "1986-11-10",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 278/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1986-220076), publicado em 1986-09-05."
+   ],
+   "markdown": "###### Artigo 13.º-A\n\nO Ministro da Justiça é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Ministro da Justiça.\n\n> Aditado pelo/a [Decreto-Lei n.º 278/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1986-220076), publicado em 1986-09-05."
+  },
+  "a82debb8774a0a11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - O Ministério dos Negócios Estrangeiros compreende os seguintes secretários de Estado:\n\na) Secretário de Estado dos Negócios Estrangeiros e Cooperação;\n\nb) Secretário de Estado da Integração Europeia;\n\nc) Secretário de Estado das Comunidades Portuguesas.\n\n2 - São integrados no Ministério dos Negócios Estrangeiros a Comissão para a Integração Europeia, o Secretariado para a Integração Europeia, bem como os demais serviços e órgãos previstos no [Decreto-Lei n.º 185/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1979-381117), de 20 de Junho."
+  },
+  "bf4bda4697ca38aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - É criado o Ministério da Agricultura, Pescas e Alimentação, que compreende os seguintes secretários de Estado:\n\na) Secretário de Estado da Alimentação;\n\nb) Secretário de Estado da Agricultura;\n\nc) Secretário de Estado das Pescas.\n\n2 - São integrados no Ministério da Agricultura, Pescas e Alimentação os organismos, serviços e empresas públicas anteriormente integrados dependentes ou tutelados pelo Ministério da Agricultura, bem como os organismos, serviços e empresas públicas anteriormente integrados dependentes ou tutelados pela Secretaria de Estado das Pescas, do Ministério do Mar.\n\n3 - É criado no Ministério da Agricultura, Pescas e Alimentação o Gabinete de Estudos e Planeamento das Pescas.\n\n4 - Dependem do Ministro da Agricultura, Pescas e Alimentação a Comissão Reguladora do Comércio do Bacalhau, o Instituto Português de Conservas de Peixe e o Instituto do Vinho do Porto."
+  },
+  "17cfea3214f36fc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - É criado o Ministério da Indústria e Comércio, que compreende os seguintes secretários de Estado:\n\na) Secretário de Estado do Comércio Interno;\n\nb) Secretário de Estado da Indústria e Energia;\n\nc) Secretário de Estado do Comércio Externo.\n\n2 - São integrados no Ministério da Indústria e Comércio os organismos e serviços anteriormente integrados no Ministério da Indústria e Energia e no Ministério do Comércio e Turismo, à excepção dos integrados na Secretaria de Estado do Turismo e dos organismos e serviços integrados em outros ministérios por este diploma.\n\n3 - Dependem do Ministro da Indústria e Comércio o Instituto dos Têxteis, o Instituto de Produtos Florestais, a Comissão Reguladora dos Produtos Químicos e Farmacêuticos e o Gabinete da Área de Sines, à excepção, quanto a este último, da Divisão de Controle do Ambiente.\n\n4 - São criados no Ministério da Indústria e Comércio os seguintes serviços:\n\na) A Secretaria-Geral do Ministério da Indústria e Comércio, que resulta da fusão das secretarias-gerais anteriormente integradas no Ministério da Indústria e Energia e no Ministério do Comércio e Turismo;\n\nb) A Auditoria Jurídica do Ministério da Indústria e Comércio, que resulta da fusão da Auditoria jurídica anteriormente integrada no Ministério da Indústria e Energia com o Gabinete Jurídico anteriormente integrado no Ministério do Comércio e Turismo;\n\nc) O Gabinete de Estudos e Planeamento do Ministério da Indústria e Comércio, que resulta da fusão dos Gabinetes de Estudos e Planeamento anteriormente integrados no Ministério da Indústria e Energia e no Ministério do Comércio e Turismo.\n\n5 - O Ministro da Indústria e Comércio exerce a tutela sobre as empresas públicas anteriormente tuteladas pelo Ministro da Indústria e Energia e pelo Ministro do Comércio e Turismo, à excepção da ENATUR e da EPPI."
+  },
+  "557be0f652e633fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - É criado o Ministério da Educação e Cultura, que compreende os seguintes secretários de Estado:\n\na) Secretário de Estado do Ensino Superior;\n\nb) Secretário de Estado da Administração Escolar;\n\nc) Secretário de Estado do Ensino Básico e Secundário;\n\nd) Secretário de Estado da Cultura.\n\n2 - São integrados no Ministério da Educação e Cultura todos os organismos e serviços anteriormente integrados no Ministério da Educação e no Ministério da Cultura, à excepção do Fundo de Apoio aos Organismos juvenis.\n\n3 - São integrados no Ministério da Educação e Cultura os organismos e serviços anteriormente integrados na Secretaria de Estado dos Desportos, da Presidência do Conselho de Ministros.\n\n4 - É criada no Ministério da Educação e Cultura a Direcção-Geral dos Equipamentos Educativos, que resulta da fusão da Direcção-Geral do Equipamento Escolar e da Direcção-Geral das Construções Escolares, anteriormente integradas no Ministério do Equipamento Social."
+  },
+  "ec605e967c74c9db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - É criado o Ministério das Obras Públicas, Transportes e Comunicações, que compreende os seguintes secretários de Estado:\n\na) Secretário de Estado dos Transportes e Comunicações;\n\nb) Secretário de Estado das Vias de Comunicação;\n\nc) Secretário de Estado da Construção e Habitação.\n\n2 - São integrados no Ministério das Obras Públicas, Transportes e Comunicações:\n\na) A Comissão para o Estudo e Implementação de Teledifusão, anteriormente integrada na Presidência do Conselho de Ministros;\n\nb) A Obra Social do extinto Ministério da Habitação, Obras Públicas e Transportes, o Laboratório Nacional de Engenharia Civil, o Fundo Especial de Transportes Terrestres, o Gabinete de Estudos e Planeamento dos Transportes e Comunicações e o Gabinete da Ponte Ferroviária sobre o Rio Douro, anteriormente integrados no Ministério do Equipamento Social;\n\nc) A Direcção-Geral dos Edifícios e Monumentos Nacionais e a Junta Autónoma de Estradas, anteriormente integradas na Secretaria de Estado das Obras Públicas, do Ministério do Equipamento Social;\n\nd) O ex-Fundo de Fomento da Habitação e o Instituto Nacional da Habitação, anteriormente integrados na Secretaria de Estado da Habitação e Urbanismo, do Ministério do Equipamento Social;\n\ne) Os organismos e serviços anteriormente integrados na Secretaria de Estado dos Transportes e na Secretaria de Estado das Comunicações, do Ministério do Equipamento Social;\n\nf) A Secretaria-Geral, o Gabinete Jurídico, a Inspecção Técnica e Administrativa, a Direcção-Geral de Portos, o Instituto do Trabalho Portuário, o Instituto Nacional de Pilotagem de Portos, a Administração do Porto de Sines, a Administração-Geral do Porto de Lisboa, a Administração dos Portos do Douro e Leixões e o Conselho Nacional de Portos, anteriormente integrados no Ministério do Mar;\n\ng) Os organismos e serviços anteriormente integrados na Secretaria de Estado da Marinha Mercante, do Ministério do Mar.\n\n3 - É criada no Ministério das Obras Públicas, Transportes e Comunicações a Auditoria Jurídica do Ministério das Obras Públicas, Transportes e Comunicações, que resulta da fusão da Auditoria Jurídica dos Transportes e Comunicações, anteriormente integrada no Ministério do Equipamento Social, e do Gabinete Jurídico do Ministério do Mar, anteriormente integrado no Ministério do Mar.\n\n4 - É criado no Ministério das Obras Públicas, Transportes e Comunicações o Gabinete de Estudos e Planeamento do Ministério das Obras Públicas, Transportes e Comunicações, que resulta da fusão do Gabinete de Estudos e Planeamento de Transportes e Comunicações, anteriormente integrado no Ministério do Equipamento Social, e do Gabinete de Estudos e Planeamento da Habitação e Obras Públicas, anteriormente integrado no extinto Ministério da Habitação e Obras Públicas.\n\n5 - A Secretaria-Geral do Ministério do Mar passa a denominar-se Secretaria-Geral do Ministério das Obras Públicas, Transportes e Comunicações."
+  },
+  "978c0662a33f1c38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1 - É criada no Ministério da Saúde a Direcção-Geral das Instalações e Equipamentos de Saúde, que resulta da fusão da Direcção-Geral das Construções Hospitalares, anteriormente integrada no Ministério do Equipamento Social, com o Gabinete de Instalações e Equipamentos de Saúde.\n\n2 - É integrado no Ministério da Saúde o Gabinete do Novo Hospital Central de Coimbra, anteriormente integrado no Ministério do Equipamento Social."
+  },
+  "8175076a218b166a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - O Ministério do Trabalho e Segurança Social compreende os seguintes secretários de Estado:\n\na) Secretário de Estado do Emprego e Formação Profissional;\n\nb) Secretário de Estado da Segurança Social.\n\n2 - É integrado no Ministério do Trabalho e Segurança Social o Secretariado Nacional de Reabilitação, anteriormente integrado na Presidência do Conselho de Ministros.\n\nII\n\nDo Conselho de Ministros"
+  },
+  "d0aafa82db0bfdff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - O Conselho de Ministros é constituído pelo Primeiro-Ministro, pelo Ministro de Estado e pelos ministros.\n\n2 - Os ministros da República para as regiões autónomas têm assento em Conselho de Ministros nas reuniões que tratem de assuntos de interesse para a respectiva região.\n\n3 - Salvo determinação em contrário do Primeiro-Ministro, participa ainda nas reuniões do Conselho de Ministros, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros.\n\n4 - Podem também participar nas reuniões do Conselho de Ministros, igualmente sem direito a voto, os secretários de Estado que venham, em cada caso, a ser especialmente convocados por indicação do Primeiro-Ministro."
+  },
+  "0caf40a83d73e381": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - Haverá um Conselho de Ministros para os Assuntos Económicos, de que fazem parte, além do Primeiro-Ministro, o Ministro de Estado, o Ministro Adjunto e para os Assuntos Parlamentares, o Ministro das Finanças, o Ministro do Plano e da Administração do Território, o Ministro dos Negócios Estrangeiros, o Ministro da Agricultura, Pescas e Alimentação, o Ministro da Indústria e Comércio, o Ministro das Obras Públicas, Transportes e Comunicações e o Ministro do Trabalho e Segurança Social.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participa ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros.\n\n3 - Por decisão do Primeiro-Ministro, podem ser convocados outros ministros ou secretários de Estado, igualmente sem direito a voto, quando os assuntos a tratar se relacionem com os respectivos departamentos."
+  },
+  "04309e2b7f1be4c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nCompete ao Conselho de Ministros para os Assuntos Económicos:\n\na) Definir as linhas da política económica e financeira do Governo, bem como os aspectos económicos e financeiros das políticas de cooperação decorrentes da política externa geral;\n\nb) Acompanhar e coordenar a execução das medidas aprovadas;\n\nc) Apreciar os assuntos de carácter sectorial que lhe sejam apresentados pelos respectivos ministros;\n\nd) Exercer outras atribuições que lhe sejam conferidas por lei ou por delegação do Conselho de Ministros.\n\nIII\n\nDisposições finais e transitórias"
+  },
+  "ac01e23e7bb96990": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - A estrutura orgânica constante do [Decreto-Lei n.º 344-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-a-1983-408485), de 25 de Julho, com as alterações entretanto introduzidas, é substituída pela prevista no presente diploma.\n\n2 - Todos os serviços que são transferidos ou cuja estrutura ministerial é alterada mantêm a mesma natureza jurídica, modificando-se apenas, e conforme os casos, o superior hierárquico ou o órgão da tutela, ou equiparados.\n\n3 - No prazo de 120 dias a partir da entrada em vigor do presente decreto-lei, devem ser submetidos a Conselho de Ministros os projectos de diploma que consagrem, para cada ministério, organismos ou serviço, as alterações decorrentes da nova estrutura orgânica do Governo."
+  },
+  "291c1d468c5913ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nSão extintos os seguintes ministérios:\n\na) Ministério das Finanças e do Plano;\n\nb) Ministério da Educação;\n\nc) Ministério da Agricultura;\n\nd) Ministério da Indústria e Energia;\n\ne) Ministério do Comércio e Turismo;\n\nf) Ministério da Cultura;\n\ng) Ministério do Equipamento Social;\n\nh) Ministério do Mar."
+  },
+  "12836c8b64c301e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nSão extintas as seguintes secretarias de Estado:\n\na) Secretaria de Estado da Administração Pública;\n\nb) Secretaria de Estado do Fomento Cooperativo;\n\nc) Secretaria de Estado do Desenvolvimento Regional;\n\nd) Secretaria de Estado da Administração Autárquica;\n\ne) Secretaria de Estado da Cooperação;\n\nf) Secretaria de Estado da Emigração;\n\ng) Secretaria de Estado das Finanças;\n\nh) Secretaria de Estado do Planeamento;\n\ni) Secretaria de Estado do Trabalho;\n\nj) Secretaria de Estado da Produção Agrícola;\n\nl) Secretaria de Estado do Comércio e Indústria Agrícola;\n\nm) Secretaria de Estado da Indústria;\n\nn) Secretaria de Estado da Energia;\n\no) Secretaria de Estado das Obras Públicas;\n\np) Secretaria de Estado da Habitação e Urbanismo;\n\nq) Secretaria de Estado dos Transportes;\n\nr) Secretaria de Estado das Comunicações;\n\ns) Secretaria de Estado dos Desportos;\n\nt) Secretaria de Estado do Ambiente;\n\nu) Secretaria de Estado da Marinha Mercante."
+  },
+  "c09a493bff9be627": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nSão extintos os seguintes cargos de secretários de Estado:\n\na) Secretário de Estado Adjunto do Primeiro-Ministro;\n\nb) Secretário de Estado Adjunto do Vice-Primeiro-Ministro;\n\nc) Secretário de Estado Adjunto do Ministro de Estado;\n\nd) Secretário de Estado da Defesa Nacional;\n\ne) Secretário de Estado Adjunto do Ministro da Educação."
+  },
+  "7ff82629ef32ac23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nÉ extinto o cargo de Subsecretário de Estado do Orçamento."
+  },
+  "9ef478b3a122a487": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1 - O Ministro da Saúde e o Ministro do Trabalho e Segurança Social exercerão a superintendência e a tutela, respectivamente, do Conselho Superior da Acção Social e da Santa Casa da Misericórdia de Lisboa.\n\n2 - A gestão corrente dos organismos referidos no número anterior será regulamentada por despacho conjunto dos dois ministros."
+  },
+  "6ee3a5fe21fee013": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nO Conselho Superior de Obras Públicas e Transportes mantém a competência para se pronunciar sobre os problemas técnicos e económicos do Ministério do Plano e da Administração do Território, do Ministério da Educação e Cultura e do Ministério da Saúde, nos termos do disposto no [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, que os respectivos ministros lhe submetam."
+  },
+  "9c158bac1888821a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nO activo, o passivo, os direitos e as obrigações, incluindo as posições contratuais, de que eram titulares os departamentos, organismos ou serviços objecto de alterações por força do presente diploma são automaticamente transferidos para os novos departamentos, organismos ou serviços que substituem aqueles, sem dependência de qualquer formalidade."
+  },
+  "81e361b8c678a9cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1 - Até à aprovação do Orçamento do Estado para 1986 mantém-se a expressão orçamental da estrutura governativa anterior, com as alterações estabelecidas nos números seguintes.\n\n2 - Os encargos com os gabinetes dos membros do Governo criados ou reestruturados pelo presente diploma serão satisfeitos por conta das verbas dos correspondentes gabinetes extintos ou integrados noutros departamentos, ou por conta da dotação global inscrita no actual orçamento da Secretaria-Geral da Presidência do Conselho de Ministros, sem prejuízo do disposto nos números seguintes.\n\n3 - Os encargos com o Gabinete do Secretário de Estado da Juventude serão satisfeitos por conta das verbas do extinto Gabinete do Secretário de Estado da Administração Pública. Até à aprovação do Orçamento para 1986, os encargos com a instalação da Direcção-Geral da juventude serão suportados pelas verbas inscritas no orçamento da Secretaria-Geral da Presidência do Conselho de Ministros.\n\n4 - Os encargos com o Gabinete do Secretário de Estado Adjunto do Ministro da Administração Interna serão satisfeitos por conta das verbas do extinto Gabinete do Secretário de Estado do Desenvolvimento Regional e do Gabinete do Ministro da Administração Interna.\n\n5 - Os encargos com o Gabinete do Ministro do Plano e da Administração do Território serão satisfeitos por conta das verbas do extinto Gabinete do Ministro do Equipamento Social.\n\n6 - Os encargos com o Gabinete do Secretário de Estado da Investigação Científica serão satisfeitos por conta das verbas do extinto Gabinete do Secretário de Estado da Habitação.\n\n7 - Os encargos com o Gabinete do Secretário de Estado da Cultura serão satisfeitos por conta das verbas do extinto Gabinete do Ministro da Cultura.\n\n8 - Os encargos com o Gabinete do Ministro das Obras Públicas, Transportes e Comunicações serão satisfeitos por conta das verbas do extinto Gabinete do Ministro do Mar.\n\n9 - Os encargos com o Gabinete do Secretário de Estado dos Transportes e Comunicações serão satisfeitos por conta das verbas dos extintos Gabinetes do Secretário de Estado dos Transportes e do Secretário de Estado da Marinha Mercante.\n\n10 - Os encargos com o Gabinete do Secretário de Estado das Vias de Comunicação serão satisfeitos por conta das verbas do extinto Gabinete do Secretário de Estado das Comunicações.\n\n11 - Os encargos com o Gabinete do Secretário de Estado da Construção e Habitação serão satisfeitos por conta das verbas do extinto Gabinete do Secretário de Estado das Obras Públicas.\n\n12 - Os encargos relativos aos serviços ou organismos que transitam, no todo ou em parte, para departamentos diferentes continuarão a ser processados por conta das verbas que lhes estão atribuídas."
+  },
+  "21c8beba4a57e16b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1 - A alteração na estrutura orgânica é acompanhada pelo consequente movimento do pessoal, sem que daí resulte perca de direitos adquiridos e sem que seja necessária qualquer formalidade.\n\n2 - Cessam em 31 de Dezembro de 1985 todas as comissões de serviço que estejam a ser exercidas por secretários-gerais, adjuntos de secretários-gerais, directores-gerais, subdirectores-gerais ou equiparados dos serviços fundidos pelo presente diploma.\n\n3 - O disposto no número anterior é aplicável aos titulares dos cargos referidos em organismos ou serviços cuja fusão ou extinção tenha sido já determinada por anterior diploma."
+  },
+  "3f1167f9d3a4f933": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nTodos os actos do Governo que envolvam aumento de despesas ou diminuição de receitas serão obrigatoriamente referendados pelo Ministro das Finanças."
+  },
+  "1bb672b8be495c40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nO presente decreto-lei produz efeitos desde 6 de Novembro de 1985.\n\nVisto e aprovado em Conselho de Ministros de 22 de Novembro de 1985. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Pedro José Rodrigues Pires de Miranda - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Luís Fernando Mira Amaral.\n\nPromulgado em 9 de Dezembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 9 de Dezembro de 1985.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

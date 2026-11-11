@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-02-19'
+version_history:
+  file: despacho-normativo-194-a-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-10-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-02-19'
+    amending: pt:dre:611504:por
+    amending_title: Despacho Normativo n.º 15/89
+    changes:
+    - Altera Artigo unidades 33-42
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:24:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 15/89. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1983/despacho-normativo-194-a-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -171,25 +186,13 @@ II - Rede escolar
 
 III - Estruturas de direcção e coordenação de experiência
 
-15 - Compete à Direcção-Geral do Ensino Secundário a orientação e coordenação geral da experiência pedagógica instituída pelo presente despacho.
+15 - (Revogado.)
 
-16 - Cabe às comissões regionais para o ensino técnico-profissional, criados pelo Despacho n.º 88/ME/83:
+16 - (Revogado.)
 
-a) Participar na planificação geral do ensino técnico-profissional, pelo estudo das carências de formação destes níveis nas diferentes áreas ocupacionais, no âmbito geográfico da sua acção, da possibilidade e oportunidade da criação de novos cursos e da manutenção dos existentes, bem como da adequação dos planos de estudo e programas às necessidades reais do respectivo mercado de trabalho;
+17 - (Revogado.)
 
-b) Propor ao Ministério da Educação, através da Direcção-Geral do Ensino Secundário, a criação de cursos técnico-profissionais ou profissionais e as alterações a introduzir na rede escolar e noutros aspectos das experiências em curso;
-
-c) Apoiar e acompanhar o lançamento desta experiência, em estreita colaboração com o Ministério;
-
-d) Participar na avaliação das experiências em curso na sua área, propondo as medidas adequadas para o bom funcionamento deste tipo de ensaio.
-
-17 - Compete em especial aos coordenadores das comissões regionais para o ensino técnico-profissional:
-
-a) Dirigir e coordenar os trabalhos das respectivas comissões;
-
-b) Assegurar a ligação das mesmas com o Ministério da Educação, designadamente com a Direcção-Geral do Ensino Secundário;
-
-c) Assegurar as ligações entre a comissão regional e os órgãos directivos dos estabelecimentos de ensino em que funcionam as experiências do ensino técnico-profissional, bem como com os respectivos professores responsáveis, podendo para o efeito participar em reuniões na escola ou convocar reuniões com os professores responsáveis da sua zona.
+> Alterado pelo/a [Despacho Normativo n.º 15/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/15-1989-611504), publicado em 1989-02-14.
 
 18 - Cabe aos órgãos directivos do estabelecimento de ensino apoiar as experiências pedagógicas dos cursos que nele funcionam nos termos do presente despacho, tomando todas as medidas necessárias ao bom funcionamento dos mesmos.
 

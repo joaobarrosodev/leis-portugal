@@ -1,0 +1,101 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:245106:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-03-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "acb00ff156d08e13",
+    "fb569e8f4073f805"
+   ]
+  },
+  {
+   "date": "1987-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:228613:por",
+     "title": "Portaria n.º 329/86",
+     "published": "1986-06-30",
+     "dre_path": "/dr/detalhe/portaria/329-1986-228613"
+    },
+    {
+     "id": "pt:dre:214005:por",
+     "title": "Portaria n.º 426-B/86",
+     "published": "1986-08-06",
+     "dre_path": "/dr/detalhe/portaria/426-b-1986-214005"
+    },
+    {
+     "id": "pt:dre:214552:por",
+     "title": "Portaria n.º 776/86",
+     "published": "1986-12-31",
+     "dre_path": "/dr/detalhe/portaria/776-1986-214552"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-10",
+    "Altera Artigo unidades 11-11",
+    "Altera Artigo unidades 12-12",
+    "Altera Artigo unidades 13-13",
+    "Altera Artigo unidades 14-14",
+    "Altera Artigo unidades 15-16",
+    "Altera Artigo unidades 21-21",
+    "Altera Artigo unidades 27-27"
+   ],
+   "fragments": [
+    "07a94d923d1f7fad",
+    "7067701f824a19de"
+   ]
+  }
+ ],
+ "fragments": {
+  "acb00ff156d08e13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Março\n\nConsiderando que poderão ser aplicadas restrições quantitativas à importação dos produtos agrícolas sujeitos ao regime de transição por etapas, durante a primeira etapa, nos termos dos artigos 269.º e 280.º do Acto de Adesão, sob a forma de contingentes anuais abertos sem discriminação entre os operadores económicos;\n\nConsiderando que se torna necessária a definição de regras para garantir o acesso sem discriminação de todos os agentes económicos àqueles contingentes:\n\nOuvidos os Governos das Regiões Autónomas dos Açores e da Madeira:\n\nManda o Governo da República Portuguesa, pelos Ministros da Agricultura, Pescas e Alimentação e da Indústria e Comércio, ao abrigo do n.º 11 do artigo 13.º do [Decreto-Lei n.º 513/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1985-546419), do n.º 10 do artigo 6.º do [Decreto-Lei n.º 514/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1985-546420), do n.º 10 do artigo 9.º do [Decreto-Lei n.º 516/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1985-546423), do n.º 9 do artigo 11.º do [Decreto-Lei n.º 517/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1985-546424) e ainda do n.º 14 do artigo 15.º do [Decreto-Lei n.º 519/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1985-546470), todos de 31 de Dezembro, o seguinte:\n\n1.º A importação quer da Comunidade Económica Europeia, na sua composição em 31 de Dezembro de 1985, quer de Espanha, quer ainda de países terceiros, dos produtos constantes dos mapas anexos aos Decretos-Leis n.os [513/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1985-546419), [514/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1985-546420), [516/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1985-546423), [517/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1985-546424) (anexo III) e [519/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1985-546470), todos de 31 de Dezembro, está sujeita a restrições quantitativas, sob forma de contingentes, fixadas anualmente por regulamentos das instituições comunitárias.\n\n2.º A gestão dos contingentes referidos no número anterior fica sujeita às regras constantes desta portaria.\n\n3.º - 1 - Os contingentes anuais são distribuídos por trimestres, com início em 1 de Janeiro de cada ano, à excepção dos contingentes anuais estabelecidos para o sector das frutas e legumes frescos, que, de acordo com o n.º 14 do artigo 15.º do [Decreto-Lei n.º 519/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1985-546470), apresentam uma delimitação temporal específica.\n\n2 - Para o ano de 1986, o primeiro período de distribuição de contingentes terá início em 1 de Março e terminará em 30 de Junho.\n\n4.º - 1 - Os montantes dos contingentes periódicos, o montante da caução referida no n.º 8.º e os respectivos critérios de distribuição pelos agentes importadores são fixados por despacho dos Ministros da Agricultura, Pescas e Alimentação e da Indústria e Comércio, ouvidos os Ministros da República para as Regiões Autónomas dos Açores e da Madeira, mediante proposta, no continente, da Junta Nacional dos Produtos Pecuários, para o caso de importação de produtos relativos aos mercados do leite e produtos lácteos, aves e ovos e carne de suíno, da Junta Nacional do Vinho, para a importação de produtos do mercado do vinho, e da Junta Nacional das Frutas, para o caso de importação de produtos do mercado das frutas e produtos hortícolas, e, nas Regiões Autónomas dos Açores e da Madeira, das respectivas autoridades competentes.\n\n2 - As propostas das entidades referidas no número anterior serão elaboradas em colaboração com a Direcção-Geral do Comércio Externo.\n\n5.º A distribuição pelos agentes importadores dos contingentes é efectuada de acordo com o despacho referido no número anterior, mediante aviso publicado pela Direcção-Geral do Comércio Externo ou, nas regiões autónomas, pelas autoridades competentes, nos primeiros cinco dias úteis do mês anterior ao início do período respectivo, na 3.ª série do Diário da República e em dois jornais diários de grande expansão do continente e das regiões autónomas, conforme o caso.\n\n6.º Do aviso referido nos números anteriores constarão os montantes dos contingentes, os respectivos critérios de distribuição, bem como as condições a observar pelos agentes interessados.\n\n7.º Os pedidos de importação deverão conter os elementos referidos no anexo à presente portaria, para além dos que forem especificamente referidos no aviso, e ser enviados em carta registada com aviso de recepção à entidade licenciadora.\n\n8.º Só são considerados os pedidos de importação quando acompanhados da constituição de uma caução, cujo valor constará do aviso referido nos n.os 4.º e seguintes, que garanta o cumprimento das obrigações assumidas pelo importador, a qual será depositada à ordem da entidade licenciadora.\n\n9.º A caução será restituída, no todo ou em parte, em conformidade com os resultados da distribuição efectiva do contingente pelos agentes económicos e proporcionalmente ao quantitativo não atribuído.\n\n10.º Os quantitativos dos contingentes não distribuídos ou distribuídos mas não utilizados poderão ser objecto de nova distribuição dentro do mesmo período ou transferidos para os períodos seguintes, de acordo com a situação do mercado, em termos a definir.\n\n11.º A importação dos produtos inseridos nos contingentes está condicionada, nos termos legais, à apresentação na estância aduaneira competente de uma licença de importação, que é passada pela entidade licenciadora.\n\n12.º O desembaraço aduaneiro dos produtos cuja importação foi autorizada terá de ser feito impreterivelmente até ao último dia do respectivo período.\n\n13.º A caução referida nos termos do n.º 7.º é libertada, total ou parcialmente, em proporção da utilização aduaneira da licença, mediante a apresentação de certificação comprovativa da realização do respectivo despacho aduaneiro pelo menos em 95%.\n\n14.º Para o período que tem início em 1 de Março de 1986, os prazos previstos no n.º 4.º desta portaria serão alterados na medida do necessário.\n\n15.º A presente portaria entra em vigor no dia 1 de Março de 1986.\n\nMinistérios da Agricultura, Pescas e Alimentação e da Indústria e Comércio.\n\nAssinada em 28 de Fevereiro de 1986.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins."
+  },
+  "fb569e8f4073f805": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Elementos a que se refere o n.º 6.º desta portaria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Elementos a que se refere o n.º 6.º desta portaria\n\n1 - Nome ou designação social e endereço do importador.\n\n2 - Origem e ou procedência da mercadoria.\n\n3 - Designação da mercadoria, sua classificação pautal e quantitativo respectivo."
+  },
+  "07a94d923d1f7fad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1987-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 776/86](https://diariodarepublica.pt/dr/detalhe/portaria/776-1986-214552), publicado em 1986-12-31.",
+    "Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.",
+    "Alterado pelo/a [Portaria n.º 329/86](https://diariodarepublica.pt/dr/detalhe/portaria/329-1986-228613), publicado em 1986-06-30.",
+    "Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.",
+    "Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.",
+    "Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.",
+    "Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06."
+   ],
+   "markdown": "de 1 de Março\n\nConsiderando que poderão ser aplicadas restrições quantitativas à importação dos produtos agrícolas sujeitos ao regime de transição por etapas, durante a primeira etapa, nos termos dos artigos 269.º e 280.º do Acto de Adesão, sob a forma de contingentes anuais abertos sem discriminação entre os operadores económicos;\n\nConsiderando que se torna necessária a definição de regras para garantir o acesso sem discriminação de todos os agentes económicos àqueles contingentes:\n\nOuvidos os Governos das Regiões Autónomas dos Açores e da Madeira:\n\nManda o Governo da República Portuguesa, pelos Ministros da Agricultura, Pescas e Alimentação e da Indústria e Comércio, ao abrigo do n.º 11 do artigo 13.º do [Decreto-Lei n.º 513/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1985-546419), do n.º 10 do artigo 6.º do [Decreto-Lei n.º 514/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1985-546420), do n.º 10 do artigo 9.º do [Decreto-Lei n.º 516/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1985-546423), do n.º 9 do artigo 11.º do [Decreto-Lei n.º 517/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1985-546424) e ainda do n.º 14 do artigo 15.º do [Decreto-Lei n.º 519/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1985-546470), todos de 31 de Dezembro, o seguinte:\n\n1.º A importação quer da Comunidade Económica Europeia, na sua composição em 31 de Dezembro de 1985, quer de Espanha, quer ainda de países terceiros, dos produtos constantes dos mapas anexos aos Decretos-Leis n.os [513/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1985-546419), [514/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1985-546420), [516/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1985-546423), [517/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1985-546424) (anexo III) e [519/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1985-546470), todos de 31 de Dezembro, está sujeita a restrições quantitativas, sob forma de contingentes, fixadas anualmente por regulamentos das instituições comunitárias.\n\n2.º A gestão dos contingentes referidos no número anterior fica sujeita às regras constantes desta portaria.\n\n3.º - 1 - Sem prejuízo do disposto nos números seguintes, os contingentes anuais são distribuídos por trimestres, com início em 1 de Janeiro de cada ano, à excepção dos contingentes estabelecidos para o sector das frutas e legumes frescos, de acordo com o n.º 14 do artigo 15.º do [Decreto-Lei n.º 519/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1985-546470), de 31 de Dezembro, os quais apresentam uma delimitação temporal específica.\n\n2 - Os contingentes anuais dos produtos do sector das aves e ovos, estabelecidos de acordo com o n.º 10 do artigo 6.º do [Decreto-Lei n.º 514/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1985-546420), de 31 de Dezembro, são distribuídos num único período anual, com início em Janeiro de cada ano.\n\n3 - Os contingentes anuais dos produtos do sector da carne de suíno estabelecidos de acordo com o n.º 10 de artigo 9.º do [Decreto-Lei n.º 516/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1985-546423), de 31 de Dezembro, são distribuídos por dois períodos, com início em Janeiro e Maio de cada ano, na proporção de 40% para o primeiro período e 60% para o segundo.\n\n> Alterado pelo/a [Portaria n.º 776/86](https://diariodarepublica.pt/dr/detalhe/portaria/776-1986-214552), publicado em 1986-12-31.\n\n4.º - 1 - Os montantes e os critérios de distribuição dos contingentes periódicos, o montante da caução referida no n.º 8.º, a abertura da inscrição e as condições a serem observadas pelos agentes interessados nas importações contingentadas são fixados por despacho dos Ministros da Agricultura, Pescas e Alimentação e da Indústria e Comércio, ouvidos os Ministros da República para as Regiões Autónomas dos Açores e da Madeira, mediante proposta, no continente, da Junta Nacional dos Produtos Pecuários, para o caso de importação de produtos relativos aos mercados do leite e produtos lácteos, aves e ovos e carne de suíno, da Junta Nacional do Vinho, para a importação de produtos do mercado do vinho, e da Junta Nacional das Frutas, para o caso de importação de produtos do mercado das frutas e produtos hortícolas, e, nas Regiões Autónomas dos Açores e da Madeira, das respectivas autoridades competentes.\n\n> Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.\n\n2 - As propostas das entidades referidas no número anterior são elaboradas, ouvidas as comissões consultivas dos mercados para os sectores em que estas existam, em colaboração com a Direcção-Geral do Comércio Externo.\n\n> Alterado pelo/a [Portaria n.º 329/86](https://diariodarepublica.pt/dr/detalhe/portaria/329-1986-228613), publicado em 1986-06-30.\n\n5.º O despacho referido no n.º 4.º será publicado no Diário da República, 1.ª série, nos primeiros cinco dias úteis do mês anterior ao início do período respectivo, e publicitado em dois jornais diários de grande expansão do continente e das regiões autónomas pela Direcção-Geral do Comércio Externo ou pelas autoridades autonómicas competentes, conforme o caso.\n\n> Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.\n\n6.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.\n\n7.º Os pedidos de importação deverão conter os elementos referidos em anexo à presente portaria, para além dos que foram especificamente indicados no despacho referido no n.º 4.º, e ser enviados em carta registada com aviso de recepção à entidade licenciadora.\n\n8.º Só são considerados os pedidos de importação quando acompanhados da constituição de uma caução, cujo valor constará do despacho referido no n.º 4.º, que garanta o cumprimento das obrigações assumidas pelo importador, a qual será depositada à ordem da entidade licenciadora.\n\n> Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.\n\n9.º A caução será restituída, no todo ou em parte, em conformidade com os resultados da distribuição efectiva do contingente pelos agentes económicos e proporcionalmente ao quantitativo não atribuído.\n\n10.º Os quantitativos dos contingentes não distribuídos ou distribuídos mas não utilizados poderão ser objecto de nova distribuição dentro do mesmo período ou transferidos para os períodos seguintes, de acordo com a situação do mercado, em termos a definir.\n\n11.º A importação dos produtos inseridos nos contingentes está condicionada, nos termos legais, à apresentação na estância aduaneira competente de uma licença de importação, que é passada pela entidade licenciadora.\n\n12.º O desembaraço aduaneiro dos produtos cuja importação foi autorizada terá de ser feito impreterivelmente até ao último dia do respectivo período.\n\n13.º A caução referida nos termos do n.º 8.º é libertada total ou parcialmente, em proporção da utilização aduaneira da licença, mediante a apresentação do documento comprovativo da realização do respectivo despacho aduaneiro pelo menos em 95%.\n\n> Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.\n\n14.º Para o período que tem início em 1 de Março de 1986, os prazos previstos no n.º 4.º desta portaria serão alterados na medida do necessário.\n\n15.º A presente portaria entra em vigor no dia 1 de Março de 1986.\n\nMinistérios da Agricultura, Pescas e Alimentação e da Indústria e Comércio.\n\nAssinada em 28 de Fevereiro de 1986.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins."
+  },
+  "7067701f824a19de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Elementos a que se refere o n.º 7.º desta portaria",
+   "in_force_from": "1987-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06."
+   ],
+   "markdown": "## ANEXO — Elementos a que se refere o n.º 7.º desta portaria\n\n> Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.\n\n1 - Nome ou designação social e endereço do importador.\n\n2 - Origem e ou procedência da mercadoria.\n\n3 - Designação da mercadoria, sua classificação pautal e quantitativo respectivo."
+  }
+ }
+}

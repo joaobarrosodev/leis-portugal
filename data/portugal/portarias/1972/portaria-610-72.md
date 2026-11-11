@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-06-21'
+version_history:
+  file: portaria-610-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-10-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-06-21'
+    amending: pt:dre:337046:por
+    amending_title: Portaria n.º 379/75
+    changes:
+    - Altera Artigo unidades 71-71
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:53:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 379/75. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1972/portaria-610-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -251,7 +266,31 @@ Em relação a sulfatos, cloretos e ácido cítrico, aplicar-se-ão os limites c
 
 A) Vinhos generosos
 
-Mantêm-se as características actualmente em vigor, até que se proceda à sua revisão.
+a) Vinho do Porto:
+
+Em relação às características não especificadas, aplicar-se-ão os limites em vigor até que se proceda à sua revisão.
+
+Massa volúmica a 20ºC:
+
+Vinhos doces - superior a 1018;
+
+Vinhos meio secos - entre 1008 e 1018,5;
+
+Vinhos secos - inferior a 1008.
+
+Nas designações reforçativas:
+
+Vinhos muito doces ou lágrima - entre 1034 e 1048;
+
+Vinhos extra-secos - inferior a 998.
+
+Grau alcoólico volumétrico (teor alcoólico em volume a 20ºC) - compreendido entre 19º e 22º, salvo no referente ao vinho branco seco, que pode ter um mínimo de 16,5º, devendo em tal caso ser obrigatoriamente designado, quer nos rótulos, quer nos certificados de origem, como «Vinho do Porto - leve seco» e levar no rótulo a indicação do seu teor alcoólico.
+
+b) Outros vinhos generosos:
+
+Mantêm-se as características actualmente em vigor até que se proceda à sua revisão.
+
+> Alterado pelo/a [Portaria n.º 379/75](https://diariodarepublica.pt/dr/detalhe/portaria/379-1975-337046), publicado em 1975-06-21.
 
 B) Outros vinhos licorosos e abafados
 

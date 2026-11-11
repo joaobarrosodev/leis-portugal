@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-09-28'
+version_history:
+  file: portaria-338-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-06-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-09-28'
+    amending: pt:dre:442930:por
+    amending_title: Portaria n.º 899/83
+    changes:
+    - Altera Artigo unidades 7-8
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:38:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 899/83. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-338-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,9 +149,11 @@ Relativamente às vendas de cimento em parcelas inferiores ao saco completo de 5
 
 Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comércio Interno e da Energia e Indústrias de Base, ao abrigo do disposto no n.º 1 do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, e do n.º 4 do artigo 13.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o seguinte:
 
-1 - Ficam submetidas ao regime de margens de comercialização a que se refere o n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Junho, as vendas de cimento portland normal embalado em sacos de 50 kg de três folhas, bem como as vendas ao consumidor final de cimento portland normal em quantidades inferiores a 50 kg.
+1 - (Revogado.)
 
-2 - As margens a que se refere a norma anterior serão fixadas por despacho conjunto dos Secretários de Estado do Comércio Interno e da Energia e Indústrias de Base.
+2 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 899/83](https://diariodarepublica.pt/dr/detalhe/portaria/899-1983-442930), publicado em 1983-09-27.
 
 3 - Fica revogada a norma 1.ª da [Portaria n.º 658/77](https://diariodarepublica.pt/dr/detalhe/portaria/658-1977-277275), mantendo-se em vigor as restantes disposições do referido diploma.
 

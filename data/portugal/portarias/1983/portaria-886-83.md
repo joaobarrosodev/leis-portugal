@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-08-03'
+version_history:
+  file: portaria-886-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-09-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-08-03'
+    amending: pt:dre:218566:por
+    amending_title: Portaria n.º 410/86
+    changes:
+    - Adita Artigo depois da unidade 58
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:53:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 410/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-886-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -236,6 +251,16 @@ Cabe a cada estabelecimento de ensino:
 a) Fixar as regras gerais de avaliação de conhecimentos;
 
 b) Fixar o calendário das 3 épocas de exames finais.
+
+13.º-A
+
+(Estabelecimentos de ensino superior politécnico)
+
+1 - A competência atribuída aos reitores das universidades pelos n.os 8.º e 12.º será, em relação aos estabelecimentos de ensino superior politécnico agrupados em institutos politécnicos, exercida pelos presidentes das comissões instaladoras dos institutos.
+
+2 - A competência atribuída aos reitores das universidades pelos n.os 8.º e 12.º será, em relação aos estabelecimentos de ensino superior politécnico não agrupados em institutos politécnicos, exercida pelo director-geral do Ensino Superior.
+
+> Aditado pelo/a [Portaria n.º 410/86](https://diariodarepublica.pt/dr/detalhe/portaria/410-1986-218566), publicado em 1986-07-29.
 
 14.º
 

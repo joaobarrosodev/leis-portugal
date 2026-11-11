@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-09'
+version_history:
+  file: resolucao-conselho-ministros-155-a-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-11-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-09'
+    amending: pt:dre:491240:por
+    amending_title: Resolução do Conselho de Ministros n.º 110/2009
+    changes:
+    - Altera Artigo unidades 21-21
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/155-a/2006/11/17/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:53:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 110/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2006/resolucao-conselho-ministros-155-a-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -201,7 +216,9 @@ f) Assegurar em geral a gestão técnica, administrativa e financeira dos Fundos
 
 4 - Nomear a licenciada Maria Gabriela Certã Ventura encarregada de missão, a quem compete, enquanto autoridade nacional responsável para efeitos dos normativos comunitários aplicáveis, a gestão do Programa e a coordenação da estrutura de missão, com estatuto equiparado a presidente de conselho de administração de empresa pública do grupo B, nível 1.
 
-5 - Criar uma estrutura de apoio técnico, na dependência da encarregada de missão, composta por um máximo de 10 elementos, 1 dos quais especificamente responsável pela orientação e gestão do Fundo Europeu para a Integração, nomeado pelo Ministro da Presidência.
+5 - Criar uma estrutura de apoio técnico, na dependência do encarregado de missão, composta por um máximo de 20 elementos, um dos quais especificamente responsável pela orientação e gestão do Fundo Europeu para a Integração, nomeado pelo Ministro da Presidência.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/110-2009-491240), publicado em 2009-10-08.
 
 6 - Estabelecer que a encarregada de missão é coadjuvada por um responsável para a área de gestão administrativa e financeira e outro para a área de gestão de programas e projectos, incluídos na composição referida no número anterior, nomeados por despacho do Ministro da Administração Interna e equiparados, para efeitos de remuneração, incluindo despesas de representação, a director de serviços.
 

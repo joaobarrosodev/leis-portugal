@@ -1,0 +1,72 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:275632:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-03-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5bf53a681a73ebe0"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:225834:por",
+     "title": "Portaria n.º 598/96",
+     "published": "1996-10-19",
+     "dre_path": "/dr/detalhe/portaria/598-1996-225834"
+    },
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6",
+    "Altera Artigo unidades 7-7",
+    "Altera Artigo unidades 9-9",
+    "Adita Artigo depois da unidade 11",
+    "Altera Artigo unidades 12-12",
+    "Altera Artigo unidades 13-13"
+   ],
+   "fragments": [
+    "ed232094e301c866"
+   ]
+  }
+ ],
+ "fragments": {
+  "5bf53a681a73ebe0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Março\n\nConsiderando que a prossecução das atribuições da Direcção-Geral do Património do Estado, quer no âmbito da gestão de bens, quer no do aprovisionamento público, envolve custos de natureza variável, em função do número e volume de operações a realizar, e cuja concretização não pode ficar dependente das transferências típicas de dotações orçamentais através do Orçamento do Estado;\n\nConsiderando o disposto no artigo 5.º da [Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), de 20 de Fevereiro:\n\nManda o Governo, pelo Ministro das Finanças, o seguinte:\n\n1.º São consignadas à Direcção-Geral do Património do Estado (DGPE), quando por ela arrecadadas, as seguintes receitas:\n\na) As quantias cobradas por serviços prestados, designadamente de avaliação de imóveis;\n\nb) O produto da venda de publicações e impressos;\n\nc) 5% do produto da alienação de bens em hasta pública promovida pela DGPE;\n\nd) Quaisquer outras receitas que lhe sejam atribuídas por lei, regulamento, acto ou contrato;\n\ne) Os saldos das receitas consignadas.\n\n2.º As receitas enumeradas no número anterior ficam afectas ao pagamento das despesas da DGPE, mediante a inscrição de dotações com compensação em receita.\n\n3.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1994.\n\nMinistério das Finanças.\n\nAssinada em 18 de Fevereiro de 1994.\n\nO Ministro das Finanças, Eduardo de Almeida Catroga."
+  },
+  "ed232094e301c866": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19.",
+    "Alterado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19.",
+    "Alterado pelo/a [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), publicado em 2012-12-31.",
+    "Aditado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19.",
+    "Alterado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19.",
+    "Alterado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19."
+   ],
+   "markdown": "de 4 de Março\n\nConsiderando que a prossecução das atribuições da Direcção-Geral do Património do Estado, quer no âmbito da gestão de bens, quer no do aprovisionamento público, envolve custos de natureza variável, em função do número e volume de operações a realizar, e cuja concretização não pode ficar dependente das transferências típicas de dotações orçamentais através do Orçamento do Estado;\n\nConsiderando o disposto no artigo 5.º da [Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), de 20 de Fevereiro:\n\nManda o Governo, pelo Ministro das Finanças, o seguinte:\n\n1.º São consignadas à Direcção-Geral do Património (DGP), quando por ela arrecadadas, as seguintes receitas:\n\n> Alterado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19.\n\na) As quantias cobradas por serviços prestados, designadamente de avaliação de imóveis, de acordo com tabela praticada pela DGP;\n\n> Alterado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19.\n\nb) O produto da venda de publicações e impressos;\n\nc) (Revogada.)\n\n> Alterado pelo/a [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), publicado em 2012-12-31.\n\nd) Quaisquer outras receitas que lhe sejam atribuídas por lei, regulamento, acto ou contrato;\n\ne) Os saldos das receitas consignadas.\n\n2.º Para os efeitos do disposto na alínea a) do n.º 1.º devem as entidades requerentes da avaliação proceder à entrega da quantia de 50000$00 à DGP, a título de antecipação de pagamento, no momento da apresentação do respectivo pedido.\n\n> Aditado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19.\n\n3.º As receitas enumeradas no número anterior ficam afectas ao pagamento das despesas da DGPE, mediante a inscrição de dotações com compensação em receita.\n\n> Alterado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19.\n\n4.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1994.\n\n> Alterado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19.\n\nMinistério das Finanças.\n\nAssinada em 18 de Fevereiro de 1994.\n\nO Ministro das Finanças, Eduardo de Almeida Catroga."
+  }
+ }
+}

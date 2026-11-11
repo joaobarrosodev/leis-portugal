@@ -29,10 +29,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-03-17'
+version_history:
+  file: despacho-normativo-387-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-03-17'
+    amending: pt:dre:285935:por
+    amending_title: Despacho Normativo n.º 12/88
+    changes:
+    - Altera Artigo unidades 14-19
+    - Altera Artigo unidades 72-125
+    - Altera Artigo unidades 127-147
+    - Altera Artigo unidades 149-171
 identifiers:
   celex: null
   eli: null
@@ -58,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:05:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 12/88. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1980/despacho-normativo-387-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,17 +153,9 @@ Normas reguladoras dos acordos de cooperação entre os centros regionais de seg
 
 ### CAPÍTULO I — Fins e forma de cooperação
 
-I
+I - (Revogada.)
 
-(Objectivos e forma de cooperação)
-
-1 - A cooperação entre os centros regionais de segurança social e as instituições privadas de solidariedade social tem por objectivos fundamentais contribuir para a concessão, por estas, de prestações sociais, designadamente em serviços de acção social e familiar e em equipamento social, bem como facilitar a expressão do dever moral de solidariedade e de justiça, própria das mesmas instituições.
-
-2 - As prestações podem abranger, de harmonia com os fins próprios de cada uma das instituições, actividades de protecção à infância e juventude, à família, comunidade e população activa, aos idosos e aos deficientes, bem como outras acções cuja inclusão seja autorizada por despacho do Ministro dos Assuntos Sociais.
-
-3 - A cooperação entre os centros regionais de segurança social e as instituições será estabelecida mediante acordos expressos, nos termos das presentes normas.
-
-4 - Pela concessão de prestações de segurança social, efectuadas nos termos dos acordos celebrados, a instituição receberá mensalmente do centro regional, se diferente periodicidade não for estabelecida, uma comparticipação financeira calculada de harmonia com as regras definidas em despacho do Ministro dos Assuntos Sociais.
+> Alterado pelo/a [Despacho Normativo n.º 12/88](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-1988-285935), publicado em 1988-03-12.
 
 II
 
@@ -251,204 +261,50 @@ d) Os lares de transição, que se destinam a proporcionar residência a deficie
 
 ### CAPÍTULO II — Acordos de cooperação
 
-VIII
+VIII - (Revogada.)
 
-(Celebração e formalização dos acordos)
+IX - (Revogada.)
 
-1 - Os acordos de cooperação são subscritos pela direcção da instituição privada e pelo órgão de gestão do centro regional de segurança social.
+X - (Revogada.)
 
-2 - Os acordos serão elaborados em triplicado, destinando-se o original ao centro regional, o duplicado à instituição e o triplicado à Direcção-Geral da Segurança Social, devendo o original e as cópias ser remetidos à mesma Direcção-Geral, se o acordo carecer de homologação.
+XI - (Revogada.)
 
-IX
+XII - (Revogada.)
 
-(Homologação dos acordos)
+XIII - (Revogada.)
 
-Os acordos de cooperação carecem de homologação do director-geral da Segurança Social sempre que:
+XIV - (Revogada.)
 
-a) Contenham matéria inovadora, diferente das normas gerais estabelecidas neste diploma;
-
-b) Incluam cláusulas contendo regras especiais;
-
-c) Incluam cláusulas contendo regras que ultrapassem as orientações estabelecidas para os centros regionais por aquela Direcção-Geral.
-
-X
-
-(Cláusulas sujeitas a negociação)
-
-1 - As cláusulas do acordo conterão obrigatoriamente:
-
-a) Fins prosseguidos pela instituição no âmbito das actividades definidas nas normas II a VI;
-
-b) Regras aplicáveis quanto à comparticipação das famílias e dos interessados na concessão das prestações;
-
-c) Lotação máxima de utentes permitida pelo estabelecimento;
-
-d) As regras de composição qualitativa e quantitativa dos quadros de pessoal de cada estabelecimento da instituição;
-
-e) Entrada em vigor e condições de modificação ou cessação dos acordos.
-
-2 - As cláusulas do acordo conterão ainda, em casos devidamente fundamentados:
-
-a) A definição de direitos e obrigações especiais de ambos os intervenientes;
-
-b) A adopção de regras especiais, sempre que se tornem indispensáveis, pela particularidade do funcionamento da instituição ou por exigências funcionais na concessão das prestações.
-
-XI
-
-(Anexos aos acordos)
-
-1 - Constarão de protocolo anexo ao acordo:
-
-a) A indicação do número de utentes admitidos ou a admitir, até ao limite da lotação do estabelecimento;
-
-b) A indicação dos efectivos do quadro de pessoal de cada estabelecimento;
-
-c) A indicação do montante da comparticipação financeira do Estado, a fixar de harmonia com as normas que para o efeito estiverem em vigor.
-
-2 - Os anexos a que se refere o n.º 1 são alteráveis a todo o tempo, de harmonia com as circunstâncias e o funcionamento concreto dos estabelecimentos das instituições.
-
-XII
-
-(Cláusulas adaptadas por adesão)
-
-A celebração do acordo implica, ainda, e sem prejuízo das cláusulas a negociar, a adopção, por adesão, das regras constantes das presentes normas.
-
-XIII
-
-(Obrigações dos centros regionais)
-
-Os centros regionais de segurança social, com a celebração de acordos de cooperação com instituições privadas de solidariedade social, obrigam-se a:
-
-a) Prestar apoio no estudo da situação dos utentes a admitir em regimes de internato, designadamente tratando-se de crianças e jovens, bem como em qualquer modalidade de apoio a deficientes, salvo se outra coisa for acordada, por iniciativa de qualquer das partes;
-
-b) Dar apoio ao funcionamento do equipamento social de acordo com os requisitos técnicos estabelecidos, bem como o que for necessário e solicitado pelas instituições na organização administrativa e no lançamento de programas de acção;
-
-c) Assegurar o pagamento regular das comparticipações financeiras estabelecidas;
-
-d) Promover ou apoiar acções tendentes à valorização profissional do pessoal, em colaboração com os serviços centrais competentes;
-
-e) Contribuir para a avaliação da situação global da instituição e apoiá-la, se solicitados, na definição dos seus planos de acção e de desenvolvimento;
-
-f) Acompanhar as actividades da instituição, propondo, quando necessário, outros tipos de resposta ou o encaminhamento dos utentes para outro estabelecimento da mesma ou diferente instituição;
-
-g) Promover, nos termos da lei, a fiscalização da acção das instituições e apoiar a intervenção da Inspecção-Geral da Segurança Social;
-
-h) Cumprir as cláusulas estipuladas no acordo e as demais obrigações estabelecidas no Estatuto das Instituições Privadas de Solidariedade Social.
-
-XIV
-
-(Obrigações das instituições privadas)
-
-As instituições privadas, com a celebração de acordos de cooperação com os centros regionais, obrigam-se a:
-
-a) Garantir o bom funcionamento dos equipamentos sociais de harmonia com os requisitos técnicos estabelecidos;
-
-b) Cooperar com os serviços do centro regional, designadamente através de reuniões de trabalho e visitas, sempre que necessário;
-
-c) Proceder à admissão dos utentes nos termos estabelecidos em diploma normativo ou de harmonia com as recomendações técnicas do centro regional;
-
-d) Assegurar a permanência e o tratamento adequado à situação dos utentes;
-
-e) Manter ao serviço o pessoal constante do respectivo quadro;
-
-f) Fornecer ao centro regional de segurança social, dentro dos prazos e pelos meios estabelecidos, as informações e outros dados de natureza estatística, os planos de acções ou de investimentos e os elementos necessários à avaliação das actividades desenvolvidas;
-
-g) Enviar ao centro regional de segurança social, com a necessária antecedência, a documentação relativa a actos ou decisões que careçam de homologação, registo ou avaliação dos serviços, nos termos do Estatuto das Instituições Privadas de Solidariedade Social;
-
-h) Cumprir as cláusulas estipuladas no acordo e as demais obrigações estabelecidas no Estatuto das Instituições Privadas de Solidariedade Social;
-
-i) Dar cumprimento às determinações ou recomendações decorrentes das acções de inspecção efectuadas pelos centros regionais ou pela Inspecção-Geral da Segurança Social.
+> Alterado pelo/a [Despacho Normativo n.º 12/88](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-1988-285935), publicado em 1988-03-12.
 
 ### CAPÍTULO III — Modificação, suspensão e cessação dos acordos de cooperação
 
-XV
+XV - (Revogada.)
 
-(Duração dos acordos de cooperação)
+XVI - (Revogada.)
 
-Os acordos de cooperação vigoram pelo período de um ano, automática e sucessivamente renovável por igual período, salvo se ocorrer alguma das circunstâncias referidas nas normas seguintes.
+XVII - (Revogada.)
 
-XVI
+XVIII - (Revogada.)
 
-(Cessação dos acordos de cooperação)
-
-1 - A vigência dos acordos pode cessar a todo o tempo se ambos os organismos intervenientes o decidirem expressamente e se do facto não resultarem prejuízos para os utentes da segurança social ou for estabelecida uma alternativa adequada.
-
-2 - Os acordos podem ainda ser denunciados por qualquer dos outorgantes, com antecedência não inferior a três meses, quando ocorrer alguma circunstância que pela sua natureza inviabilize a subsistência da cooperação estabelecida, designadamente:
-
-a) Se forem violadas, de modo reiterado ou por forma grave, as cláusulas do acordo, as normas deste despacho ou demais disposições aplicáveis, de modo a impedir ou dificultar a obtenção dos objectivos, designadamente quanto à regularidade e qualidade mínima das prestações sociais à população;
-
-b) Se ocorrer alguma das circunstâncias que, nos termos do Estatuto das Instituições Privadas de Solidariedade Social, determinem o encerramento do estabelecimento.
-
-3 - O director-geral da Segurança Social poderá anular o acto de denúncia do acordo pelo centro regional de segurança social se a instituição o requerer no prazo de quinze dias a contar da data da comunicação da denúncia.
-
-4 - O requerimento a que se refere o número anterior terá efeito suspensivo em relação ao acto de denúncia.
-
-XVII
-
-(Suspensão dos acordos de cooperação)
-
-1 - Ocorrendo alguma das circunstâncias que, nos termos da alínea a) do n.º 2 da norma anterior, justifique a denúncia do acordo, o organismo interessado pode optar pela suspensão da vigência do acordo, se for previsível a possibilidade de restabelecimento da normalidade do seu funcionamento e o interesse social na concessão das prestações o aconselhar.
-
-2 - Na suspensão dos acordos são aplicáveis, com as necessárias adaptações, os n.os 3 e 4 da norma anterior.
-
-XVIII
-
-(Revisão dos acordos de cooperação)
-
-Os acordos de cooperação deverão ser revistos sempre que ocorram motivos que o justifiquem, designadamente:
-
-a) Quando se alterem os pressupostos em que se baseou a sua celebração, com efeitos nas cláusulas negociadas, nos termos da norma X;
-
-b) Sempre que essa revisão seja indispensável para adequar o acordo aos objectivos prosseguidos;
-
-c) Em qualquer outro caso, com respeito pelas presentes normas, quando haja consenso nesse sentido entre o centro regional e a instituição.
+> Alterado pelo/a [Despacho Normativo n.º 12/88](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-1988-285935), publicado em 1988-03-12.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-XIX
+XIX - (Revogada.)
 
-(Resolução de conflitos e dúvidas)
+XX - (Revogada.)
 
-Os conflitos que se suscitarem entre os organismos intervenientes nos acordos de cooperação, as dificuldades que surgirem na sua execução, bem como a resolução das dúvidas delas emergentes ou resultantes da aplicação destas normas serão submetidos à apreciação da Direcção-Geral da Segurança Social.
+XXI - (Revogada.)
 
-XX
+XXII - (Revogada.)
 
-(Instruções de execução)
+XXIII - (Revogada.)
 
-A Direcção-Geral da Segurança Social elaborará as instruções indispensáveis à conveniente execução pelos centros regionais das presentes normas, bem como, caso se mostre conveniente, de harmonia com as circunstâncias, modelos de acordos de cooperação a utilizar pelos centros regionais.
+XXIV - (Revogada.)
 
-XXI
+XXV - (Revogada.)
 
-(Acordos de cooperação no distrito de Lisboa)
-
-1 - Enquanto não estiver em funcionamento o centro regional de segurança social de Lisboa, a celebração de acordos de cooperação com as instituições privadas de solidariedade social incumbirá à comissão organizadora criada pelo Despacho n.º 34/80, de 18 de Junho (Diário da República, 2.ª série, de 2 de Julho).
-
-2 - À celebração de acordos entre a Santa Casa da Misericórdia de Lisboa e as instituições privadas de solidariedade social são aplicáveis as presentes normas, com as adaptações consideradas indispensáveis, decorrentes da identidade própria daquele organismo, da natureza específica da sua actuação ou de compromissos anteriormente assumidos.
-
-XXII
-
-(Regime transitório de financiamento)
-
-Enquanto não se encontrarem em vigor as regras de financiamento fixadas nos termos previstos no n.º 4 da norma I, são aplicáveis os critérios anteriormente praticados pelo Instituto da Família e Acção Social e pela Direcção-Geral da Assistência Social, com as correcções pontuais que tenham sido autorizadas.
-
-XXIII
-
-(Aplicação das Normas à cooperação com casas do povo)
-
-As presentes normas aplicam-se à cooperação com as casas do povo, com as adaptações a estabelecer por despacho do Ministro dos Assuntos Sociais.
-
-XXIV
-
-(Início da vigência)
-
-1 - As presentes normas serão aplicadas a partir de 1 de Janeiro de 1981, sem prejuízo do disposto na norma XXV.
-
-2 - A aplicação gradual das normas, nos termos do n.º 1 será feita programadamente, por proposta da Direcção-Geral ou a solicitação do respectivo centro regional.
-
-XXV
-
-(Substituição dos acordos existentes)
-
-No prazo de sessenta dias após a entrada em vigor destas normas poderão os centros regionais e as instituições interessadas proceder à celebração de acordos, sempre que a respectiva cooperação, embora efectiva, não se encontre formalizada, ou o tenha sido por forma diversa da prevista nestas normas.
+> Alterado pelo/a [Despacho Normativo n.º 12/88](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-1988-285935), publicado em 1988-03-12.
 
 O Ministro dos Assuntos Sociais, João António Morais Leitão.

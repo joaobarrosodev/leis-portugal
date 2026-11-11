@@ -200,6 +200,9 @@ def main() -> int:
         juntados |= {r["id"]: r for r in _lista(PASTA / "llm" / "juntados-escala.jsonl") if r["id"] not in juntados}
     if (PASTA / "llm" / "juntados-completo.jsonl").exists():
         juntados |= {r["id"]: r for r in _lista(PASTA / "llm" / "juntados-completo.jsonl") if r["estado"] == "aplicado com LLM"}  # o pedido completo substitui o parcial
+    if (PASTA / "llm" / "juntados-corrido.jsonl").exists():
+        # Os originais sem artigos (texto corrido por unidades, `llm_corrido.py`), lidos também por `cegas.py`.
+        juntados |= {r["id"]: r for r in _lista(PASTA / "llm" / "juntados-corrido.jsonl") if r["estado"] == "aplicado com LLM"}
     for id_, juntado in juntados.items():
         if juntado["estado"] == "aplicado com LLM":
             resultados[id_] = resultados[id_] | {k: juntado[k] for k in ("estado", "consolidado", "alteradores_ids") if k in juntado}

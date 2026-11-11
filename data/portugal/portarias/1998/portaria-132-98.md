@@ -41,10 +41,37 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-03-23'
+version_history:
+  file: portaria-132-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-03-23'
+    amending: pt:dre:584215:por
+    amending_title: Portaria n.º 1213/2001; Portaria n.º 1001-A/2007; Portaria n.º 290/2009
+    changes:
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 22-22
+    - Adita Artigo depois da unidade 22
+    - Altera Artigo unidades 23-24
+    - Altera Artigo unidades 25-25
+    - Altera Artigo unidades 28-28
+    - Altera Artigo unidades 29-29
+    - Adita Artigo depois da unidade 29
+    - Altera Artigo unidades 30-44
+    - Adita Artigo depois da unidade 51
+    - Altera Artigo unidades 52-52
+    - Altera Artigo unidades 53-53
+    - Adita Artigo depois da unidade 53
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/132/1998/03/04/p/dre/pt/html
@@ -70,7 +97,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:06:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1213/2001; Portaria
+    n.º 1001-A/2007; Portaria n.º 290/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-132-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -170,7 +198,9 @@ Nestes termos, e ao abrigo do disposto no n.º 3 do artigo 24.º do [Decreto-Lei
 
 Manda o Governo, pelo Ministro das Finanças, o seguinte:
 
-1.º - 1 - O acréstimo de produtividade que serve de fundamento à atribuição do suplemento previsto nos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 335/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1997-406321), de 2 de Dezembro, será avaliado no 1.º mês do ano seguinte àquele a que diga respeito, através da comparação entre os objectivos efectivamente atingidos e os definidos nos planos de actividades.
+1.º - 1 - O acréscimo de produtividade dos funcionários e agentes da Direcção-Geral de Impostos (DGCI) e da Direcção-Geral de Informática e Apoio aos Serviços Tributário e Aduaneiros (DGITA), que serve de fundamento à atribuição do suplemento previsto nos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 335/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1997-406321), de 2 de Dezembro, é avaliado no 1.º mês do ano seguinte àquele a que diga respeito, através da comparação entre os objectivos definidos no plano de actividades e os resultados efectivamente alcançados.
+
+> Alterado pelo/a [Portaria n.º 1001-A/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1001-a-2007-145824), publicado em 2007-08-29.
 
 2 - O director-geral dos Impostos deve apresentar ao Ministro das Finanças uma declaração anual das cobranças coercivas derivadas de processos instaurados nos serviços da Direcção-Geral dos Impostos (DGCI), bem como das receitas de natureza fiscal arrecadadas, no âmbito da aplicação do [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684), de 10 de Agosto, nos termos do n.º 3 do artigo 24.º do [Decreto-Lei n.º 158/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), de 3 de Setembro, com a redacção que lhe foi introduzida pelo [Decreto-Lei n.º 107/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1997-383444), de 8 de Maio, até ao dia 31 de Janeiro do ano seguinte àquele a que a declaração disser respeito.
 
@@ -182,7 +212,9 @@ Manda o Governo, pelo Ministro das Finanças, o seguinte:
 
 6 - Os suplementos referidos no n.º 1 são pagos no ano seguinte àquele em que o acréscimo de produtividade teve lugar e por conta desse acréscimo.
 
-2.º - 1 - O limite máximo do suplemento respeitante a compensações de produtividade a atribuir através do Fundo de Estabilização Tributário (FET) aos funcionários e agentes da DGCI e da Direcção-Geral da Informática e Apoio aos Serviços Tributários e Aduaneiros (DGITA) será estabelecido, em cada ano, da seguinte forma:
+2.º - 1 - O limite máximo do suplemento a que se refere o n.º 1 do artigo anterior, a atribuir através do Fundo de Estabilização Tributário (FET) aos funcionários e agentes da DGCI e da DGITA, é estabelecido em cada ano da seguinte forma:
+
+> Alterado pelo/a [Portaria n.º 1001-A/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1001-a-2007-145824), publicado em 2007-08-29.
 
 a) Para o pessoal provido em cargos dirigentes ou em cargos a estes legalmente equiparados, pela aplicação às respectivas remunerações base de uma percentagem correspondente à que resultar do valor do suplemento atribuído, nos termos do n.º 1 do artigo 4.º do [Decreto-Lei n.º 274/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1990-556660), de 7 de Setembro, ao cargo de director-geral;
 
@@ -194,23 +226,49 @@ c) Para os demais funcionários e agentes, pela aplicação à remuneração cor
 
 3 - O suplemento referido no n.º 1 do presente artigo é calculado e devido 12 meses em cada ano.
 
-4 - O valor do suplemento a atribuir, em cada ano, por cargos e categorias será definido em função das verbas anuais para o efeito disponibilizadas pelo conselho de administração do FET, tendo em conta a situação financeira do Fundo e a adequada gestão do mesmo, não podendo ser superior ao que resultar da aplicação das percentagens referidas nas alíneas a) a c) do n.º 1 do presente artigo.
+4 - O valor do suplemento a atribuir, em cada ano, por cargos e categorias é definido em função das verbas anuais para o efeito disponibilizadas pelo conselho de administração do FET, tendo em conta a situação financeira do Fundo e a adequada gestão do mesmo, não podendo ser superior ao que resultar da aplicação das percentagens referidas nas alíneas a) a c) do n.º 1, acrescida da majoração a que se refere o número seguinte.
 
-3.º - 1 - Sem prejuízo do disposto no artigo seguinte, os suplementos a que se refere o artigo anterior são pagos aos funcionários e agentes que reúnam, cumulativamente, as seguintes condições:
+> Alterado pelo/a [Portaria n.º 290/2009](https://diariodarepublica.pt/dr/detalhe/portaria/290-2009-605550), publicado em 2009-03-23.
 
-a) Exerçam efectivamente funções na DGCI ou na DGITA no momento em que sejam pagos os suplementos, com excepção dos aposentados nesse ano;
+5 - O limite máximo do suplemento previsto no n.º 1 é majorado, em relação aos trabalhadores que exercem funções públicas na DGCI e na DGITA e que se encontrem no exercício de cargos dirigentes ou de chefia tributária, ou exclusivamente afectos a funções de concepção, administração, inspecção e justiça tributária ou a funções de concepção, implementação e exploração de sistemas informáticos de apoio à administração tributária, num montante equivalente ao valor, individual e anual, dos encargos correspondentes à contratação de seguro de responsabilidade civil profissional para cobertura do risco inerente ao desempenho das respectivas funções.
 
-b) Tenham sido classificados no ano a que diga respeito o acréscimo de produtividade com menção qualitativa não inferior a Bom;
+> Aditado pelo/a [Portaria n.º 290/2009](https://diariodarepublica.pt/dr/detalhe/portaria/290-2009-605550), publicado em 2009-03-23.
+
+3.º - 1 - Sem prejuízo do disposto no número seguinte, os suplementos a que se refere o número anterior são pagos aos funcionários e agentes que reúnam, cumulativamente, as seguintes condições:
+
+a) Exerçam, efectivamente, funções na DGCI ou na DGITA no momento em que sejam pagos os suplementos, com excepção dos aposentados, a quem será paga a totalidade do suplemento correspondente ao acréscimo de produtividade até à data da aposentação;
+
+> Alterado pelo/a [Portaria n.º 1213/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1213-2001-584215), publicado em 2001-10-22.
+
+b) Tenham obtido:
+
+i) A menção máxima ou a imediatamente inferior a ela, na avaliação do seu desempenho do ano a que respeita o acréscimo de produtividade;
+
+ii) No ano a que respeita o acréscimo de produtividade e nos dois anos sucessivamente anteriores, menções imediatamente inferiores às referidas na subalínea anterior;
+
+> Alterado pelo/a [Portaria n.º 1001-A/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1001-a-2007-145824), publicado em 2007-08-29.
 
 c) Não tenham sido punidos, no ano a que diga respeito o acréscimo de produtividade, com pena disciplinar superior a repreensão escrita.
 
 2 - Para efeitos do disposto na alínea a) do número anterior, consideram-se em efectividade de funções os funcionários e agentes que, em representação do Ministério das Finanças ou das direcções-gerais a que pertençam, prestem actividade noutros departamentos ou participem em comissões ou grupos de trabalho que funcionem fora do âmbito da DGCI e da DGITA.
 
-3 - O disposto no número anterior aplica-se ainda aos funcionários e agentes que prestem serviço em gabinetes dos membros do Governo ou no serviço de apoio ao Defensor do Contribuinte, na situação de requisitados ou destacados, que não recebam remunerações certas e permanentes pagas pelos respectivos orçamentos.
+3 - O disposto no número anterior aplica-se, ainda, aos funcionários e agentes da DGCI e da DGITA que:
 
-4 - A suspensão do pagamento dos montantes indicados no n.º 1 do artigo anterior em virtude da falta do requisito da classificação de serviço poderá terminar a partir do 2.º semestre do ano a que respeita, no caso de o responsável pela classificação do funcionário ou agente, em relatório fundamentado, confirmar a melhoria do desempenho do mesmo.
+a) Prestem serviço na administração geral tributária (AGT) em comissão de serviço, requisição ou destacamento;
 
-4.º - 1 - Implicam a perda dos abonos referidos no artigo 1.º da presente portaria as faltas ao serviço, com excepção das dadas:
+b) Prestem serviço em gabinetes dos membros do Governo ou no serviço de apoio ao Defensor do Contribuinte na situação de requisitados ou destacados e que não recebam remunerações certas e permanentes pagas pelos respectivos orçamentos.
+
+> Alterado pelo/a [Portaria n.º 1213/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1213-2001-584215), publicado em 2001-10-22.
+
+4 - O suplemento a que se refere o n.º 1 do artigo anterior pode ainda ser atribuído por despacho do membro do Governo responsável pela área das finanças e da Administração Pública, que reconheça a particular incidência das funções desempenhadas na produtividade dos serviços ou na melhoria do desempenho dos funcionários e agentes, consoante o caso, sem dependência da verificação de quaisquer outros requisitos estabelecidos na presente portaria.
+
+> Alterado pelo/a [Portaria n.º 1001-A/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1001-a-2007-145824), publicado em 2007-08-29.
+
+5 - Em caso de falecimento de funcionários e agentes abrangidos pelo disposto nos números anteriores, os herdeiros legais terão direito ao recebimento do suplemento, nos mesmos termos em que aos funcionários seria devido se se tivessem aposentado.
+
+> Aditado pelo/a [Portaria n.º 1213/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1213-2001-584215), publicado em 2001-10-22.
+
+4.º - 1 - Implicam a perda dos abonos referidos no n.º 1.º da presente portaria as faltas ao serviço, com excepção das dadas:
 
 a) Por casamento;
 
@@ -226,19 +284,29 @@ f) Por falecimento de familiar;
 
 g) Por acidente em serviço ou doença profissional;
 
-h) Para assistência a familiares;
+h) Por doença prolongada incapacitante;
 
-i) Por doação de sangue e socorrismo;
+i) Por doença infecto-contagiosa e por isolamento profiláctico;
 
-j) Para cumprimento de obrigações;
+j) Para assistência a familiares;
 
-l) Para prestação de provas de concursos;
+k) Por doação de sangue e socorrismo;
 
-m) Por conta do período de férias;
+l) Para cumprimento de obrigações;
 
-n) Por actividade sindical, nos casos previstos na lei.
+m) Para prestação de provas de concursos;
 
-2 - As faltas a que alude o artigo 63.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, implicam a perda integral do direito ao abono do suplemento a que se refere o artigo 1.º da presente portaria, a menos que se verifique o condicionalismo previsto no n.º 2 do referido preceito legal.
+n) Por conta do período de férias;
+
+o) Por actividade sindical, nos casos previstos na lei;
+
+p) Ao abrigo do Estatuto do Trabalhador-Estudante.
+
+2 - As faltas a que alude o artigo 64.º do [Decreto-Lei n.º 100/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1999-138777), de 31 de Março, implicam a perda integral do direito ao abono do suplemento a que se refere o n.º 1.º da presente portaria, a menos que se verifique o condicionalismo previsto no n.º 2 do referido preceito legal.
+
+3 - As faltas a que se refere a alínea h) do n.º 1 do presente número são as que constarem do despacho previsto no n.º 2 do artigo 49.º do [Decreto-Lei n.º 100/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1999-138777), de 31 de Março.
+
+> Alterado pelo/a [Portaria n.º 1213/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1213-2001-584215), publicado em 2001-10-22.
 
 5.º - 1 - Não beneficiam do suplemento os funcionários e agentes que se encontrem em situação de que resulte dispensa parcial ou total do exercício de funções, salvo em situações especiais de dispensa parcial que a lei expressamente equipare a serviço efectivo.
 
@@ -254,9 +322,21 @@ n) Por actividade sindical, nos casos previstos na lei.
 
 2 - Compete ao conselho de administração do FET definir a forma de pagamento dos suplementos relativamente a 1997 e, bem assim, o montante a distribuir, atendendo aos condicionalismos a que alude o n.º 4 do artigo 2.º da presente portaria.
 
-3 - São proibidas todas as formas de pagamento adiantado de suplementos.
+3 - O conselho de administração pode contratar apólices de seguro de responsabilidade civil profissional para cobertura do risco inerente ao desempenho das funções a que se refere o n.º 5 do artigo 2.º, tendo por base listagens elaboradas e periodicamente actualizadas pela DGCI e pela DGITA dos trabalhadores que devam ser objecto do seguro.
 
-8.º A gestão e movimentação dos montantes transferidos para o FET terão como instrumento o orçamento privativo, de acordo com o disposto na legislação aplicável.
+> Aditado pelo/a [Portaria n.º 290/2009](https://diariodarepublica.pt/dr/detalhe/portaria/290-2009-605550), publicado em 2009-03-23.
+
+4 - São proibidas todas as formas de pagamento adiantado de suplementos.
+
+> Alterado pelo/a [Portaria n.º 290/2009](https://diariodarepublica.pt/dr/detalhe/portaria/290-2009-605550), publicado em 2009-03-23.
+
+8.º - 1 - A gestão e movimentação dos montantes transferidos para o FET terão como instrumento o orçamento privativo, de acordo com o disposto na legislação aplicável.
+
+> Alterado pelo/a [Portaria n.º 290/2009](https://diariodarepublica.pt/dr/detalhe/portaria/290-2009-605550), publicado em 2009-03-23.
+
+2 - O complemento do suplemento abonado, nos termos do disposto no n.º 5 do artigo 2.º, é retido no acto do seu processamento, sendo afecto e contabilizado em conta especificamente destinada a fazer face à contratação de seguros de responsabilidade civil profissional.
+
+> Aditado pelo/a [Portaria n.º 290/2009](https://diariodarepublica.pt/dr/detalhe/portaria/290-2009-605550), publicado em 2009-03-23.
 
 9.º O disposto no n.º 2 do artigo 5.º desta portaria não se aplica aos funcionários e agentes que se encontrem requisitados ou destacados na DGCI e na DGITA à data da sua entrada em vigor.
 

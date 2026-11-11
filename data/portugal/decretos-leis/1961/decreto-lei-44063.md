@@ -37,10 +37,55 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1972-12-20'
+version_history:
+  file: decreto-lei-44063.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-11-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1972-12-20'
+    amending: pt:dre:227266:por
+    amending_title: Decreto-Lei n.º 15/70; Decreto-Lei n.º 530/72
+    changes:
+    - Altera Artigo unidades 11-11
+    - Adita Artigo depois da unidade 14
+    - Altera Artigo unidades 15-15
+    - Adita Artigo depois da unidade 18
+    - Adita Artigo depois da unidade 35
+    - Altera Artigo unidades 47-47
+    - Adita Artigo depois da unidade 59
+    - Altera Artigo unidades 63-63
+    - Adita Artigo depois da unidade 67
+    - Altera Artigo unidades 76-76
+    - Altera Artigo unidades 80-80
+    - Altera Artigo unidades 83-83
+    - Altera Artigo unidades 84-84
+    - Altera Artigo unidades 91-94
+    - Altera Artigo unidades 95-95
+    - Altera Artigo unidades 98-98
+    - Altera Artigo unidades 110-113
+    - Altera Artigo unidades 115-115
+    - Altera Artigo unidades 121-121
+    - Altera Artigo unidades 123-123
+    - Adita Artigo depois da unidade 123
+    - Adita Artigo depois da unidade 125
+    - Altera Artigo unidades 127-127
+    - Altera Artigo unidades 132-132
+    - Altera Artigo unidades 134-146
+    - Altera Artigo unidades 157-157
+    - Altera Artigo unidades 164-164
+    - Altera Artigo unidades 176-179
+    - Altera Artigo unidades 186-186
+    - Altera Artigo unidades 192-192
+    - Adita Artigo depois da unidade 218
+    - Altera Artigo unidades 219-219
 identifiers:
   celex: null
   eli: null
@@ -66,7 +111,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:39:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 15/70; Decreto-Lei
+    n.º 530/72. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-44063.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -184,7 +230,9 @@ Usando da faculdade conferida pela 1.ª parte de n.º 2.º do artigo 109.º da C
 
 #### SECÇÃO I — Registos centrais
 
-Artigo 1.º Junto da Direcção-Geral dos Registos e de Notariado funciona a Conservatória dos Registos Centrais, à qual compete em especial:
+Artigo 1.º - 1. Junto da Direcção-Geral dos Registos e do Notariado funciona a Conservatória dos Registos Centrais, à qual compete em especial:
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 a) O registo central da nacionalidade;
 
@@ -192,13 +240,29 @@ b) O registo central do estado civil;
 
 c) O registo central das escrituras e testamentos.
 
-Art. 2.º O director-geral pode confiar à Conservatória dos Registos Centrais não só a organização da estatística anual dos actos de registo e notariais, como parte do serviço técnico de consultas a cargo da 2.ª Repartição da Direcção-Geral dos Registos e do Notariado.
+2. À Conservatória dos Registos Centrais compete ainda a organização da estatística anual dos actos de registo e notariais, bem como a parte do serviço de consultas, a cargo do Gabinete Técnico da Direcção-Geral, que lhe for distribuída por despacho do director-geral.
+
+> Aditado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
+
+Art. 2.º - 1. Nas sedes dos concelhos de Lisboa e do Porto pode haver um arquivo central, para onde serão transferidos anualmente os livros findos dos actos de registo civil e notariais pertencentes às conservatórias e cartórios do respectivo concelho.
+
+2. Aos arquivos centrais competirá lavrar, nos livros neles arquivados, os averbamentos devidos e o serviço de passagem de certidões ou fotocópias que desses livros hajam de ser extraídas.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 #### SECÇÃO II — Conservatórias do registo civil, predial, comercial e de automóveis
 
 Art. 3.º - 1. Na sede de cada concelho do continente e das ilhas adjacentes haverá uma conservatória do registo civil, uma conservatória do registo predial e uma conservatória do registo comercial, cuja competência se estende a toda a área do concelho.
 
 2. Na sede dos concelhos de Lisboa e Porto pode haver mais de uma conservatória do registo civil e do registo predial.
+
+3. Nos concelhos onde, nos termos da alínea b) do § 2.º do artigo 1.º do Código Administrativo, sejam criados bairros administrativos pode haver delegações dos serviços de registo com sede nos respectivos núcleos populacionais.
+
+4. As delegações a que se refere o número anterior pertencem e ficam subordinadas às conservatórias em cuja área territorial se situem.
+
+5. Os actos da competência das delegações são os determinados no Regulamento do presente diploma.
+
+> Aditado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 Art. 4.º - 1. A adaptação da competência territorial dos serviços de registo predial e comercial às áreas concelhias, mediante a criação de conservatórias privativas na sede de cada concelho, só será efectuada à medida que o incremento dos serviços o justifique.
 
@@ -234,6 +298,10 @@ Art. 11.º - 1. Na sede de cada concelho do continente e das ilhas adjacentes ha
 
 2. Em Lisboa e Porto haverá cartórios privativos para os serviços de protesto de letras e de outros títulos de crédito.
 
+3. Os cartórios a que se refere o número anterior têm competência para lavrar termos de abertura de sinal e efectuar reconhecimentos de letra e assinatura apostas em documentos particulares, bem como para lavrar termos de autenticação dos mesmos documentos.
+
+> Aditado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
+
 Art. 12.º - 1. Em todos os concelhos, excluídos os de Lisboa e Porto, onde haja mais do que um cartório os serviços notariais funcionam em regime de secretaria.
 
 2. Em igual regime funcionam, nos concelhos de Lisboa e Porto, os cartórios privativos do protesto de letras.
@@ -256,7 +324,9 @@ Art. 14.º - 1. As conservatórias do registo civil e predial e os cartórios no
 
 #### SECÇÃO VII — Instalações e funcionamento dos serviços
 
-Art. 15.º - 1. Constitui encargo obrigatório das câmaras municipais o fornecimento de casa, água e luz para a conveniente instalação e funcionamento das conservatórias do registo civil e predial.
+Art. 15.º - 1. Constitui encargo obrigatório das câmaras municipais o fornecimento de casa, água e luz para a conveniente instalação e funcionamento das conservatórias dos registos civil e predial, bem como das respectivas delegações.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 2. O encargo é extensivo a todos os serviços de registo e do notariado, quando instalados em edifício cuja construção tenha sido subsidiada pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
@@ -282,13 +352,21 @@ Art. 19.º - 1. Cada conservatória e cada cartório notarial é chefiado respec
 
 4. Os serviços anexados funcionam, conforme os casos, sob a chefia de um só conservador ou conservador-notário.
 
+5. Os arquivos centrais são chefiados por um conservador.
+
+6. As delegações dos serviços de registo são chefiadas por ajudantes dos quadros auxiliares das conservatórias a que pertençam.
+
+> Aditado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
+
 Art. 20.º - 1. O ingresso nos quadros de conservador ou notário é reservado aos cidadãos portugueses, de ambos os sexos, aprovados em concurso de habilitação, comum a essas funções.
 
 2. São dispensados do concurso de habilitação:
 
 a) Os magistrados judiciais e do Ministério Público, ou chefes de repartição, assessores e inspectores da Direcção-Geral dos Registos e do Notariado com mais de dois anos de bom e efectivo serviço;
 
-b) Os primeiros e segundos-oficiais, licenciados em Direito, da Direcção-Geral dos Registos e do Notariado, com mais de quatro anos de bom e efectivo serviço prestado na repartição técnica;
+b) Os primeiros-oficiais e os primeiros-ajudantes licenciados em Direito da Direcção-Geral dos Registos e do Notariado e da Conservatória dos Registos Centrais com mais de quatro anos de bom e efectivo serviço;
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 c) Os licenciados com a classificação mínima de 14 valores nos cursos complementares a que se refere o [Decreto-Lei n.º 34850](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34850-1945-521831), de 21 de Agosto de 1945, e os que se encontram nas condições previstas no artigo 2.º do [Decreto n.º 35489](https://diariodarepublica.pt/dr/detalhe/decreto/35489-1946-337605), de 5 de Fevereiro de 1946.
 
@@ -297,6 +375,10 @@ c) Os licenciados com a classificação mínima de 14 valores nos cursos complem
 Art. 21.º - 1. Os conservadores e notários são funcionários públicos vitalícios e exercem as suas funções na área de jurisdição da respectiva conservatória ou cartório.
 
 2. Os conservadores e notários são substituídos, na sua falta ou impedimento, pelos respectivos ajudantes ou por conservador ou notário da mesma localidade e, na falta ou impedimento de uns e outros, pelo secretário da câmara municipal, enquanto não for designada outra pessoa idónea pelo director-geral.
+
+3. Os ajudantes das delegações, na sua falta ou impedimento, são substituídos pelo funcionário do quadro auxiliar da respectiva conservatória designado pelo director-geral.
+
+> Aditado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 Art. 22.º - 1. O exercício do cargo de conservador ou notário é incompatível:
 
@@ -314,7 +396,9 @@ Art. 23.º - 1. Os conservadores e notários são integrados em três quadros di
 
 3. O número de funcionários de cada classe é igual ao número de lugares da mesma classe.
 
-4. O conservador dos Registos Centrais faz parte do quadro de 1.ª classe do registo civil e os conservadores privativos do registo comercial e de automóveis pertencem ao quadro do registo predial.
+4. Os conservadores da Conservatória dos Registos Centrais e dos arquivos centrais fazem parte do quadro de 1.ª classe do registo civil, e os conservadores privativos dos registos comercial e de automóveis pertencem ao quadro de 1.ª classe do registo predial.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 5. Os funcionários providos em lugares anexados nos termos do artigo 13.º serão colocados simultâneamente nos quadros a que pertençam os lugares que ocupam, enquanto durar a acumulação das respectivas funções.
 
@@ -322,15 +406,23 @@ Art. 24.º O acesso dos conservadores e notários à classe imediata é realizad
 
 Art. 25.º - 1. Os lugares vagos de conservador e notário são providos mediante concurso documental aberto perante a Direcção-Geral dos Registos e do Notariado, nos termos previstos no regulamento do presente diploma, salvo em caso de transferência compulsiva ou determinada por conveniência de serviço.
 
-2. Os magistrados judiciais e do Ministério Público, bem como o chefe da repartição técnica, os assessores e inspectores da Direcção-Geral dos Registos e do Notariado podem concorrer às vagas de 2.ª classe, quando tenham, pelo menos, oito anos de bom e efectivo serviço, e às de 1.ª classe quando tiverem dezasseis anos de serviço nas mesmas condições.
+2. O director do Gabinete Técnico, os técnicos de 1.ª classe e os inspectores da Direcção-Geral dos Registos e do Notariado podem concorrer às vagas de 2.ª classe, quando tenham, pelo menos, oito anos de bom e efectivo serviço, e às de 1.ª classe quando tiverem dezasseis anos de serviço nas mesmas condições.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 3. Os conservadores e notários dos quadros do ultramar, habilitados com o concurso a que se refere o artigo 20.º, podem concorrer, como conservadores e notários de 3.ª classe, às vagas dos quadros correspondentes da metrópole.
 
 4. Os agentes do Ministério Público a que se refere o artigo 346.º do Estatuto Judiciário são providos, independentemente de concurso, em lugares de conservadores ou notários, nos termos daquele preceito.
 
-Art. 26.º Os funcionários que sejam nomeados conservadores ou notários, nos termos do artigo anterior, ocupam nos respectivos quadros o lugar correspondente ao tempo de serviço que tiverem nas funções anteriores, independentemente da classe do lugar em que foram providos.
+Art. 26.º - 1. Os funcionários que sejam nomeados conservadores ou notários, nos termos do n.º 2 do artigo anterior, ocupam nos respectivos quadros o lugar correspondente ao tempo de serviço que tiverem nas funções anteriores, independentemente da classe do lugar em que forem providos.
 
-Art. 27.º - 1. Os lugares de conservador dos Registos Centrais e seu adjunto serão providos, por livre escolha do Ministro da Justiça, entre os chefes de repartição e inspectores da Direcção-Geral dos Registos e do Notariado ou conservadores e notários com mais de dez anos de bom e efectivo serviço.
+2. Os conservadores e notários que transitem de um para outro quadro ocupam no quadro de 3.ª classe do serviço em que venham a ser colocados o lugar correspondente ao tempo de serviço que tiverem nas funções anteriores.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
+
+Art. 27.º - 1. Os lugares de conservador dos Registos Centrais, do seu adjunto e de conservadores dos arquivos centrais são providos, por livre escolha do Ministro da Justiça, entre o director de serviços, chefes de repartição e inspectores da Direcção-Geral dos Registos e do Notariado ou conservadores e notários com mais de cinco anos de bom e efectivo serviço.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 2. O provimento do lugar de adjunto é sempre feito em comissão de serviço por períodos trienais renováveis.
 
@@ -344,21 +436,29 @@ Art. 29.º - 1. Os conservadores e notários que terminem o desempenho de uma co
 
 #### SECÇÃO II — Pessoal auxiliar
 
-Art. 30.º O pessoal auxiliar dos serviços do registo e do notariado compreende as seguintes categorias de funcionários:
+Art. 30.º - 1. O pessoal auxiliar dos serviços de registo e do notariado compreende as seguintes categorias de funcionários:
 
 a) Primeiros, segundos e terceiros-ajudantes;
 
-b) Escriturários de 1.ª e 2.ª classes;
+b) Escriturários-dactilógrafos de 1.ª e 2.ª classes;
 
-c) Contínuos.
+c) Contínuos de 1.ª e 2.ª classes.
 
-Art. 31.º - 1. Cada conservatória ou cartório notarial tem um quadro do pessoal auxiliar privativo com a composição determinada pelo regulamento do presente diploma.
+2. O pessoal auxiliar da Conservatória dos Registos Centrais, além das categorias previstas no número anterior, compreende a categoria de chefe de secção.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
+
+Art. 31.º - 1. Cada conservatória, cartório ou secretaria notarial e arquivo central tem um quadro de pessoal auxiliar privativo com a composição determinada pelo Regulamento do presente diploma
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 2. O quadro do pessoal dos serviços organizados em regime de secretaria é comum a todas as secções ou cartórios que a constituam.
 
 3. Sempre que as circunstâncias o exijam, tem o Ministro da Justiça a faculdade de autorizar a admissão temporária de pessoal assalariado, além do quadro, para a execução de trabalhos extraordinários.
 
-Art. 32.º O provimento dos lugares dos quadros auxiliares é feito por contrato, de harmonia com as disposições consignadas no regulamento do presente diploma.
+Art. 32.º O provimento em lugares dos quadros auxiliares rege-se pelas normas consignadas no regulamento do presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 Art. 33.º - 1. Os funcionários dos quadros auxiliares gozam de todos os direitos e estão sujeitos a todos os deveres dos funcionários contratados dos quadros permanentes dos serviços do Estado.
 
@@ -382,17 +482,21 @@ Art. 35.º - 1. Cada posto do registo civil é chefiado por um ajudante nomeado 
 
 Art. 36.º A remuneração dos conservadores e notários é constituída por uma parte fixa ou ordenado e pela participação no rendimento emolumentar líquido da respectiva repartição.
 
-Art. 37.º - 1. Os ordenados dos conservadores e notários quando sirvam em lugares da classe correspondente à sua classe pessoal são os seguintes:
+Art. 37.º - 1. Os ordenados dos conservadores e notários, quando sirvam em lugares de classe igual à sua classe pessoal, são os correspondentes às letras do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, a seguir indicadas:
 
-a) Na 1.ª classe - 5400$00.
+a) Na 1.ª classe ... G
 
-b) Na 2.ª classe - 4500$00.
+b) Na 2.ª classe ... I
 
-c) Na 3.ª classe - 3000$00.
+c) Na 3.ª classe ... L
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 2. Para os conservadores e notários que sirvam em lugares de classe diferente da sua classe pessoal o ordenado é determinado pela média dos ordenados correspondentes à classe do lugar e à classe do funcionário.
 
-3. O ordenado do conservador dos Registos Centrais e do seu adjunto é o de conservador de 1.ª classe em lugar da mesma classe.
+3. O ordenado do conservador dos Registos Centrais e do seu adjunto, bem como o dos conservadores dos arquivos centrais, é o de conservador de 1.ª classe em lugar da mesma classe.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 4. O ordenado equivale, para todos os efeitos, ao vencimento da categoria e é abonado sempre que, segundo a lei geral, se mantém o direito a esse vencimento.
 
@@ -404,19 +508,39 @@ b) Sobre o excedente até 10000$00 na 3.ª classe, 15000$00 na 2.ª classe e 200
 
 c) Sobre o excedente até 50000$00 - 5 por cento para os conservadores e 10 por cento para os notários.
 
-2. A participação emolumentar do conservador e adjunto dos Registos Centrais é determinada por aplicação das percentagens previstas para os notários, nas alíneas a) a c) do número anterior, e do seu produto pertencem dois terços ao conservador e um terço ao adjunto.
+2. A participação emolumentar do conservador dos Registos Centrais é determinada por aplicação das percentagens previstas para os notários nas alíneas a) a c) do número anterior; ao adjunto será abonada pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, a título de participação emolumentar, a importância equivalente a metade da participação apurada para o conservador.
+
+> Alterado pelo/a [Decreto-Lei n.º 530/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1972-685465), publicado em 1972-12-20.
 
 3. Nas conservatórias divididas em secções e nas secretarias notariais a importância a considerar para a aplicação das percentagens referidas no n.º 1 é a que resultar da divisão da receita líquida de cada repartição pelo número dos seus conservadores ou notários.
 
-4. Sobre a participação emolumentar dos conservadores ou notários incide a contribuição industrial de 15 por cento, nos termos do artigo 2.º do [Decreto-Lei n.º 26644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26644-1936-361368), de 28 de Maio de 1936.
+4. Da receita mensal líquida cobrada nos arquivos centrais cabe ao respectivo conservador a participação de 5 por cento; o restante rendimento constitui receita da conservatória ou cartório a cujos livros respeitem os serviços que o hajam produzido.
+
+5. Sobre a participação emolumentar dos conservadores ou notários incide a contribuição industrial de 15 por cento, nos termos do artigo 2.º do [Decreto-Lei n.º 26644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26644-1936-361368), de 28 de Maio de 1936.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
+
+6. Aos funcionários dos quadros do pessoal auxiliar, a partir da categoria de escriturário-dactilógrafo, será abonada, a título de participação emolumentar, uma percentagem não superior a 5% da receita global líquida da totalidade dos serviços apurada, em cada mês, a favor do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+
+7. A percentagem a que se refere o número anterior, a proporção da sua distribuição pelo pessoal dos quadros das diversas repartições e as normas a que deve obedecer a respectiva liquidação serão fixadas em portaria do Ministro da Justiça.
+
+8. É aplicável à participação emolumentar abonada ao pessoal auxiliar o disposto no n.º 5 deste artigo.
+
+> Aditado pelo/a [Decreto-Lei n.º 530/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1972-685465), publicado em 1972-12-20.
 
 Art. 39.º - 1. O conservador ou notário que exerça funções em serviços anexados recebe sòmente o ordenado de um dos lugares acumulados, mas tem direito à participação emolumentar de todos eles, tomando-se a soma das respectivas receitas líquidas para a determinação da percentagem aplicável.
 
 2. Se os lugares anexados forem de classe diferente atender-se-á ao da classe superior para a fixação do ordenado e aplicação dos escalões relativos à participação emolumentar.
 
+3. No caso de estarem anexados serviços de registo com o notariado, a participação no rendimento emolumentar correspondente às alíneas b) e c) do artigo 38.º é determinada pela média das percentagens previstas nas alíneas referidas, ou seja, 15 por cento na primeira e 7,5 por cento na segunda.
+
+> Aditado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
+
 Art. 40.º - 1. A participação emolumentar corresponde ao vencimento de exercício e só é de abonar nos casos em que a este haja direito.
 
-2. Nos casos de vacatura do lugar, ausência ou impedimento do respectivo titular, ou quaisquer outros em que, segundo a lei geral, haja lugar a perda ou desconto do vencimento de exercício, pode o Ministro da Justiça autorizar que a participação emolumentar perdida seja abonada, no todo ou em parte, ao respectivo substituto ou, nas conservatórias divididas em secções e nas secretarias notariais, aos restantes conservadores ou notários.
+2. Nos casos de vacatura do lugar, ausência ou impedimento do respectivo titular, ou quaisquer outros em que, segundo a lei geral, haja lugar a perda ou desconto do vencimento de exercício, o Ministro da Justiça pode autorizar que a participação emolumentar perdida seja abonada, no todo ou em parte, ao substituto ou, tratando-se de serviços anexados com mais de um ajudante, aos respectivos ajudantes, ou ainda, nas conservatórias divididas em secções e nas secretarias notariais, aos restantes conservadores ou notários.
+
+> Alterado pelo/a [Decreto-Lei n.º 530/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1972-685465), publicado em 1972-12-20.
 
 Art. 41.º No caso de provimento interino do lugar, em virtude de o titular efectivo se encontrar suspenso, ao abrigo da assistência aos funcionários civis tuberculosos, no desempenho de qualquer comissão de serviço ou em qualquer outra situação que importe um afastamento prolongado, observar-se-á o seguinte:
 
@@ -426,35 +550,45 @@ b) Se ao efectivo for descontada a parte emolumentar, constituirá esta a remune
 
 c) Se a situação do efectivo importar perda total do vencimento, o interino recebe o ordenado correspondente à classe e a participação emolumentar ou a parte dela que o Ministro da Justiça fixar.
 
-Art. 42. Aos conservadores e notários que sejam desligados do serviço a aguardar aposentação é abonada pelo Cofre dos Conservadores, Notários e Funcionários de Justiça a pensão provisória que lhes for fixada pela Caixa Geral de Aposentações.
+Art. 42.º Aos conservadores, notários e funcionários dos quadros auxiliares que sejam desligados do serviço a aguardar a aposentação é abonada pelo Cofre dos Conservadores, Notários e Funcionários de Justiça a pensão provisória que lhes for fixada pela Caixa Geral de Aposentações.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 Art. 43.º A quota legal para a Caixa Geral de Aposentações é paga pelo conservador e notário sobre a totalidade das respectivas remunerações, líquidas de contribuição industrial.
 
-Art. 44.º Ao pessoal do quadro auxiliar dos serviços de registo e do notariado correspondem os vencimentos seguintes:
+Art. 44.º - 1. Os vencimentos das diferentes categorias de pessoal do quadro auxiliar dos serviços de registo e do notariado são os correspondentes às letras do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, a seguir indicadas:
 
-1.º Ajudantes:
+a) Chefes de secção ... J
 
-a) Em lugares de 1.ª classe:
+b) Ajudantes em lugares de 1.ª classe:
 
-Primeiro-ajudante - 3600$00.
+Primeiros-ajudantes ... L
 
-Segundo-ajudante - 2900$00.
+Segundos-ajudantes ... N
 
-Terceiro-ajudante - 2200$00.
+Terceiros-ajudantes ... Q
 
-b) Em lugares de 2.ª e 3.ª classes:
+c) Ajudantes em lugares de 2.ª e 3.ª classes:
 
-Segundo-ajudante - 2000$00.
+Segundos-ajudantes ... Q
 
-Terceiro-ajudante - 1750$00.
+Terceiros-ajudantes ... R
 
-2.º Escriturários:
+d) Escriturários-dactilógrafos:
 
-De 1.ª classe - 1750$00.
+De 1.ª classe ... S
 
-De 2.ª classe - 1500$00.
+De 2.ª classe ... U
 
-3.º Contínuos - 1300$00.
+e) Contínuos:
+
+De 1.ª classe ... V
+
+De 2.ª classe ... X
+
+2. Pela chefia das delegações de registos o respectivo ajudante, além do vencimento correspondente à categoria do quadro a que pertença, tem direito à gratificação mensal de 500$00.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 Art. 45.º - 1. Do emolumento especial que for devido pela realização de actos fora da repartição reverterá:
 
@@ -476,7 +610,9 @@ c) À totalidade dos emolumentos cobrados pela requisição, realizada por seu i
 
 #### SECÇÃO II — Receita e despesa
 
-Art. 47.º - 1. Constitui receita líquida de cada conservatória, secretaria ou cartório notarial o total dos emolumentos cobrados em cada mês, depois de deduzidas as verbas que, nos termos da lei, devam reverter para os funcionários, para a Conservatória dos Registos Centrais ou para outras entidades, bem como a importância necessária para pagar os vencimentos e outros abonos a que tenha direito o pessoal do respectivo quadro auxiliar, quando não constituam encargo do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+Art. 47.º - 1. Constitui receita liquida de cada conservatória, secretaria ou cartório notarial e arquivo central o total dos emolumentos cobrados em cada mês, incluindo, pelo que respeita às conservatórias e cartórios, a parte que lhes couber na receita do respectivo arquivo central, depois de deduzidas as verbas que, nos termos da lei, devam reverter para os funcionários, para a Conservatória dos Registos Centrais ou para outras entidades, bem como a importância necessária para pagar os vencimentos e outros abonos a que tenha direito o pessoal do respectivo quadro auxiliar, quando não constituam encargo do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 2. Da receita líquida de cada serviço sai a participação emolumentar do conservador ou notário, revertendo o restante, integralmente, para o Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
@@ -490,7 +626,9 @@ b) Os vencimentos do pessoal auxiliar da Conservatória dos Registos Centrais, b
 
 c) Os vencimentos do pessoal auxiliar das conservatórias ou cartórios nomeado interinamente, quando os titulares efectivos dos respectivos lugares, afastados do serviço, mantenham o direito ao vencimento;
 
-d) Os vencimentos, gratificações, ajudas de custo e despesas de transporte dos inspectores extraordinários e dos secretários dos serviços de inspecção;
+d) Os vencimentos, ajudas de custo e despesas de transporte dos inspectores extraordinários e dos secretários dos serviços de inspecção, bem como a gratificação de chefia das delegações dos serviços de registo;
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 e) O pagamento de abono de família ao pessoal referido nas alíneas anteriores e ao pessoal auxiliar de todas as conservatórias e cartórios notariais;
 
@@ -514,13 +652,17 @@ n) A aquisição de mobiliário para as conservatórias e cartórios, bem como a
 
 o) O fornecimento dos livros necessários ao início do funcionamento de novas conservatórias do registo predial e as demais despesas com a transcrição oficiosa dos registos em todos os casos de alteração de áreas da competência territorial.
 
-2. Nas conservatórias, cartórios e secretarias notariais cujo rendimento mensal líquido não ultrapasse o segundo escalão previsto na alínea b) do artigo 38.º, será suportado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça o pagamento de um quinto dos vencimentos do pessoal auxiliar do respectivo quadro.
+2. Nas conservatórias, cartórios e secretarias notariais cujo rendimento mensal líquido não ultrapasse o escalão previsto na alínea a) do n.º 1 do artigo 38.º o pagamento dos vencimentos do pessoal auxiliar do respectivo quadro será suportado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
-3. Os conservadores e notários que exerçam a advocacia comparticipam no pagamento da renda devida pela instalação da respectiva repartição, na proporção que, em cada caso, for fixada por despacho do Ministro da Justiça.
+3. Nas repartições cujo rendimento mensal líquido não ultrapasse o escalão previsto no alínea b) do n.º 1 do citado artigo 38.º, será de um terço a quota-parte dos vencimentos do pessoal auxiliar a suportar pelo Cofre.
 
-4. Os salários do pessoal a que se refere o n.º 3 do artigo 31.º ficam excepcionalmente a cargo do Cofre, na sua totalidade, quando o Ministro da Justiça assim o determine.
+4. Os conservadores e notários que exerçam a advocacia comparticipam no pagamento da renda devida pela instalação da respectiva repartição, na proporção que, em cada caso, for fixada por despacho do Ministro da Justiça.
 
-5. Nas despesas de apetrechamento e aquisição de mobiliário a cargo do Cofre considera-se compreendido o fornecimento de todos os objectos de utilização permanente necessários ao funcionamento dos serviços.
+5. Os salários do pessoal a que se refere o n.º 3 do artigo 31.º ficam excepcionalmente a cargo do Cofre, na sua totalidade, quando o Ministro da Justiça assim o determine.
+
+6. Nas despesas de apetrechamento e aquisição de mobiliário a cargo do Cofre considera-se compreendido o fornecimento de todos os objectos de utilização permanente necessários ao funcionamento dos serviços.
+
+> Alterado pelo/a [Decreto-Lei n.º 530/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1972-685465), publicado em 1972-12-20.
 
 Art. 49.º - 1. Serão satisfeitos pelos conservadores e notários, por força das taxas de reembolso e da participação que lhes couber na receita emolumentar, os encargos dos serviços resultantes de:
 
@@ -534,7 +676,9 @@ d) Comunicações, higiene e limpeza das instalações, compreendendo o consumo 
 
 e) O pagamento de metade do salário do pessoal a que se refere a alínea g) do n.º 1 do artigo anterior, sem prejuízo do disposto no n.º 3 do mesmo artigo.
 
-2. O Ministro da Justiça pode determinar, por despacho, em relação a qualquer serviço, que as despesas compreendidas nas alíneas a) a d) fiquem a cargo do Cofre, revertendo a seu favor a receita das correspondentes taxas de reembolso.
+2. O Ministro da Justiça pode determinar, por despacho, em relação a qualquer serviço, que a totalidade ou parte das despesas a que se refere o número anterior fique a cargo do Cofre dos Conservadores, Notários e Funcionários de Justiça, revertendo a seu favor, na proporção em cada caso fixada, a receita das correspondentes taxas de reembolso.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 3. As taxas de reembolso devidas aos conservadores e notários podem ser, a todo o tempo, actualizadas por despacho do Ministro da Justiça e não serão cobradas nos actos isentos de emolumentos.
 
@@ -546,7 +690,9 @@ Art. 50.º - 1. É mantida a área de competência actual das conservatórias do
 
 Art. 51.º Os serviços de protesto de letras e de outros títulos de crédito em Coimbra e Funchal continuam a cargo das conservatórias a que se acham actualmente adstritos, até vagarem os respectivos lugares de conservador.
 
-Art. 52.º Nas freguesias que não sejam sede de concelho são mantidos até vagarem os cartórios notariais nelas existentes à data da publicação do presente diploma.
+Art. 52.º São extintos os postos rurais do registo civil das freguesias que venham a ser sede de delegações dos serviços de registo.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
 
 Art. 53.º Nas conservatórias, secretarias e cartórios notariais cuja receita atinja o escalão previsto na alínea d) do n.º 1 do artigo 150.º da [Lei n.º 2049](https://diariodarepublica.pt/dr/detalhe/lei/2049-1951-592766), de 6 de Agosto de 1951, continuar-se-á a liquidar, a favor dos actuais conservadores e notários, a percentagem aí prevista, até à vacatura dos respectivos lugares.
 
@@ -600,7 +746,13 @@ Art. 64.º - 1. O Ministro da Justiça pode determinar que os livros e impressos
 
 2. No caso previsto no número anterior os livros serão legalizados na Direcção-Geral dos Registos e do Notariado, nos termos estabelecidos no artigo 40.º do Código do Notariado.
 
-Art. 65.º O prazo previsto no n.º 2 do artigo 13.º do [Decreto-Lei n.º 42644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42644-1959-438927), de 14 de Novembro de 1959, pode ser prorrogado por despacho do Ministro da Justiça.
+3. O saldo líquido do produto da venda dos livros e impressos, bem como das taxas de reembolso de fotocópias a cargo do Cofre dos Conservadores, Notários e Funcionários de Justiça, constitui receita do Serviço Social, criado pelo [Decreto-Lei n.º 47210](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47210-1966-480172), de 22 de Setembro de 1966.
+
+> Aditado pelo/a [Decreto-Lei n.º 15/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1970-227266), publicado em 1970-01-14.
+
+Art. 65.º Em caso de alteração da composição de algum dos quadros do pessoal auxiliar, os novos lugares que venham a ser criados podem ser preenchidos, em primeiro provimento, independentemente de concurso, por funcionários da respectiva repartição que reúnam os requisitos legais, mediante proposta do director-geral.
+
+> Alterado pelo/a [Decreto-Lei n.º 530/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1972-685465), publicado em 1972-12-20.
 
 Art. 66.º Os lugares de chefe de secção da Direcção-Geral dos Registos e do Notariado são providos, por livre escolha do Ministro, entre os primeiros-oficiais do respectivo quadro, com mais de três anos de bom e efectivo serviço, ou entre licenciados em Direito de comprovada competência.
 

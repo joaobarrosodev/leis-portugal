@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:298433:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-06-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8616d650df719395"
+   ]
+  },
+  {
+   "date": "1983-09-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:442930:por",
+     "title": "Portaria n.º 899/83",
+     "published": "1983-09-27",
+     "dre_path": "/dr/detalhe/portaria/899-1983-442930"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-8"
+   ],
+   "fragments": [
+    "6fcb7ee8ca80722f"
+   ]
+  }
+ ],
+ "fragments": {
+  "8616d650df719395": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Junho\n\nO acompanhamento de aplicação do regime de preços máximos de venda ao consumidor final previsto na [Portaria n.º 658/77](https://diariodarepublica.pt/dr/detalhe/portaria/658-1977-277275) permitiu a detecção de algumas limitações a montante e a jusante, pelo que o presente diploma actua no sentido da sua adaptação a outro regime, de margens globais de comercialização, incluindo encargos de transporte que, além da venda em saco completo de 50 kg, abrange ainda a venda em parcelas inferiores a 50 kg.\n\nO valor máximo de venda ao consumidor final de cimento embalado em sacos de 50 kg será obtido por adição ao preço do cimento à porta de fábrica, das margens globais que vierem a ser definidas por despacho dos Secretários de Estado do Comércio Interno e da Energia e Indústrias de Base e do imposto de transacções.\n\nRelativamente às vendas de cimento em parcelas inferiores ao saco completo de 50 kg, destinadas sobretudo a pequenas reparações e arranjos, ocasionando perdas e derrames do produto, o preço de venda será obtido por adição da margem de comercialização ao preço de aquisição do comerciante.\n\nManda o Governo da República Portuguesa, pelos Secretários de Estado do Comércio Interno e da Energia e Indústrias de Base, ao abrigo do disposto no n.º 1 do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, e do n.º 4 do artigo 13.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o seguinte:\n\n1 - Ficam submetidas ao regime de margens de comercialização a que se refere o n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Junho, as vendas de cimento portland normal embalado em sacos de 50 kg de três folhas, bem como as vendas ao consumidor final de cimento portland normal em quantidades inferiores a 50 kg.\n\n2 - As margens a que se refere a norma anterior serão fixadas por despacho conjunto dos Secretários de Estado do Comércio Interno e da Energia e Indústrias de Base.\n\n3 - Fica revogada a norma 1.ª da [Portaria n.º 658/77](https://diariodarepublica.pt/dr/detalhe/portaria/658-1977-277275), mantendo-se em vigor as restantes disposições do referido diploma.\n\n4 - As dúvidas e os casos omissos suscitados na aplicação deste diploma serão resolvidos por despacho conjunto dos Secretários de Estado do Comércio Interno e da Energia e Indústrias de Base.\n\n5 - Esta portaria entra em vigor no dia imediato ao da sua publicação.\n\nMinistérios da Indústria e Tecnologia e do Comércio e Turismo, 9 de Junho de 1978. - O Secretário de Estado da Energia e Indústrias de Base, Joaquim Leitão da Rocha Cabral. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves."
+  },
+  "6fcb7ee8ca80722f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1983-09-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 899/83](https://diariodarepublica.pt/dr/detalhe/portaria/899-1983-442930), publicado em 1983-09-27."
+   ],
+   "markdown": "de 24 de Junho\n\nO acompanhamento de aplicação do regime de preços máximos de venda ao consumidor final previsto na [Portaria n.º 658/77](https://diariodarepublica.pt/dr/detalhe/portaria/658-1977-277275) permitiu a detecção de algumas limitações a montante e a jusante, pelo que o presente diploma actua no sentido da sua adaptação a outro regime, de margens globais de comercialização, incluindo encargos de transporte que, além da venda em saco completo de 50 kg, abrange ainda a venda em parcelas inferiores a 50 kg.\n\nO valor máximo de venda ao consumidor final de cimento embalado em sacos de 50 kg será obtido por adição ao preço do cimento à porta de fábrica, das margens globais que vierem a ser definidas por despacho dos Secretários de Estado do Comércio Interno e da Energia e Indústrias de Base e do imposto de transacções.\n\nRelativamente às vendas de cimento em parcelas inferiores ao saco completo de 50 kg, destinadas sobretudo a pequenas reparações e arranjos, ocasionando perdas e derrames do produto, o preço de venda será obtido por adição da margem de comercialização ao preço de aquisição do comerciante.\n\nManda o Governo da República Portuguesa, pelos Secretários de Estado do Comércio Interno e da Energia e Indústrias de Base, ao abrigo do disposto no n.º 1 do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro, e do n.º 4 do artigo 13.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o seguinte:\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 899/83](https://diariodarepublica.pt/dr/detalhe/portaria/899-1983-442930), publicado em 1983-09-27.\n\n3 - Fica revogada a norma 1.ª da [Portaria n.º 658/77](https://diariodarepublica.pt/dr/detalhe/portaria/658-1977-277275), mantendo-se em vigor as restantes disposições do referido diploma.\n\n4 - As dúvidas e os casos omissos suscitados na aplicação deste diploma serão resolvidos por despacho conjunto dos Secretários de Estado do Comércio Interno e da Energia e Indústrias de Base.\n\n5 - Esta portaria entra em vigor no dia imediato ao da sua publicação.\n\nMinistérios da Indústria e Tecnologia e do Comércio e Turismo, 9 de Junho de 1978. - O Secretário de Estado da Energia e Indústrias de Base, Joaquim Leitão da Rocha Cabral. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves."
+  }
+ }
+}

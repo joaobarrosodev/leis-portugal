@@ -1,0 +1,167 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:559043:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1961-04-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2715492a2f45fc5f",
+    "20b0727ac77102b4",
+    "d2871bc32157a5f7",
+    "19dca253d11b943e",
+    "2df54efb5b9fafec",
+    "ac63e5640dcba81a",
+    "4dae8890d181a8ce",
+    "3f5cae1129841c73",
+    "78fea708847eaab2",
+    "e197df98015770e3"
+   ]
+  },
+  {
+   "date": "1987-01-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:631263:por",
+     "title": "Decreto-Lei n.º 487/71",
+     "published": "1971-11-09",
+     "dre_path": "/dr/detalhe/decreto-lei/487-1971-631263"
+    },
+    {
+     "id": "pt:dre:599750:por",
+     "title": "Lei n.º 1/87",
+     "published": "1987-01-06",
+     "dre_path": "/dr/detalhe/lei/1-1987-599750"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 18-18",
+    "Altera Artigo unidades 21-21",
+    "Altera Artigo unidades 24-27",
+    "Altera Artigo unidades 48-51"
+   ],
+   "fragments": [
+    "2715492a2f45fc5f",
+    "20b0727ac77102b4",
+    "28db20d2fed6617a",
+    "438f8c20a2b4519b",
+    "2df54efb5b9fafec",
+    "ac63e5640dcba81a",
+    "4dae8890d181a8ce",
+    "3f5cae1129841c73",
+    "78fea708847eaab2",
+    "e197df98015770e3"
+   ]
+  }
+ ],
+ "fragments": {
+  "2715492a2f45fc5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em nome da Nação, a Assembleia Nacional decreta e eu promulgo a lei seguinte:"
+  },
+  "20b0727ac77102b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Generalidades\n\nBASE I\n\n1. O Governo assegurará, em conformidade com esta lei e no menor prazo possível, a execução do Plano de construções para o ensino primário no continente e ilhas adjacentes, constante do mapa anexo e que substituirá, na parte ainda por executar, o Plano dos Centenários aprovado em Conselho de Ministros de 15 de Julho de 1941.\n\n2. O plano aprovado pela presente lei será designado abreviadamente no seguimento deste diploma por «Plano».\n\nQuando se não disponha expressamente por outra forma, a designação «construções escolares» abrangerá as escolas e as cantinas, incluindo mobiliário e apetrechamento.\n\n3. As disposições desta lei são aplicáveis às construções escolares que se encontrem em execução ao abrigo do Plano dos Centenários.\n\nBASE II\n\n1. O Governo poderá aprovar, por simples decreto, os ajustamentos que for necessário introduzir no Plano, para atender à evolução das condições que presidiram à sua elaboração.\n\n2. A distribuição dos edifícios e salas de aula pelos concelhos, freguesias e lugares será publicada pelo Governo no prazo de um mês, a partir da data da presente lei, em correspondência com o inquérito do Ministério da Educação Nacional para actualização do plano da rede escolar.\n\nEste prazo poderá ser ampliado até seis meses para as ilhas adjacentes.\n\n3. Poderão ser aprovados por portaria dos Ministros das Obras Públicas e da Educação Nacional os futuros ajustamentos, relativos à localização dos edifícios escolares ou à forma de agrupamento das salas de aula previstas, que não afectem a economia do Plano.\n\nBASE III\n\nAs construções escolares executadas ao abrigo desta lei constituirão propriedade dos corpos administrativos, em cujo património serão integradas."
+  },
+  "d2871bc32157a5f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Financiamento do Plano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Financiamento do Plano\n\nBASE IV\n\n1. Os encargos da realização do plano aprovado pela presente lei, excluídos os da aquisição ou expropriação dos terrenos, serão suportados pelas dotações que o Ministério das Finanças fará inscrever anualmente para este fim no orçamento da despesa extraordinária do Ministério das Obras Públicas.\n\n2. Os saldos das dotações orçamentais referidas no número anterior poderão adicionar-se às dotações do ano seguinte.\n\nBASE V\n\n1. As câmaras municipais suportarão directamente os encargos provenientes da aquisição ou expropriação dos terrenos necessários, salvo o disposto no n.º 3 da base XI, e participarão nas demais despesas resultantes da execução do Plano com 50 por cento do respectivo montante.\n\n2. O reembolso ao Tesouro das comparticipações devidas pelas câmaras municipais nos termos do número anterior, será efectuado mediante o pagamento de anuidades que não excedam para cada obra 1/20 da respectiva comparticipação, Estas anuidades serão fixadas de modo que as despesas municipais provenientes da execução do Plano dos Centenários e do novo plano, para reembolso do Estado, não excedam em cada ano 10 por cento das receitas ordinárias, excluídas as consignadas e deduzidos os encargos de empréstimos não caucionados por receitas especiais e os de vencimentos e salários do pessoal dos quadros.\n\n3. Os donativos, subsídios ou outras importâncias com que as entidades privadas concorram para o financiamento das construções escolares executadas ao abrigo da presente lei deverão ser entregues nos cofres do Estado e abatidos às comparticipações dos corpos administrativos a que respeitem.\n\nBASE VI\n\n1. A Direcção-Geral dos Edifícios e Monumentos Nacionais remeterá à Direcção-Geral da Contabilidade Pública, no 1.º trimestre de cada ano, os elementos relativos ao ano anterior necessários para a actualização da conta corrente com cada um dos corpos administrativos devedores. Esta Direcção-Geral comunicará às câmaras municipais, até 30 de Junho, quais as importâncias que terão de liquidar no ano seguinte.\n\n2. As guias de receita serão emitidas até 31 de Janeiro e pagas até 31 de Março.\n\nSe o pagamento se não fizer dentro deste prazo, as competentes secções de finanças deduzirão as importâncias devidas na primeira entrega dos adicionais sobre as contribuições gerais do Estado liquidados a favor dos corpos administrativos devedores."
+  },
+  "19dca253d11b943e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Execução do Plano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Execução do Plano\n\nBASE VII\n\nSalvo o disposto nas bases VIII e X, compete à Direcção-Geral dos Edifícios e Monumentos Nacionais, pela Delegação para as Obras de Construção de Escolas Primárias:\n\n1.º Promover a construção nos terrenos para o efeito adquiridos, ou por empreitada ou por outra forma mais adequada às circunstâncias e de acordo com os projectos-tipo aprovados pelo Governo, das escolas primárias abrangidas por esta lei;\n\n2.º Promover, nos mesmos termos, a construção das cantinas escolares, satisfeitas as condições estabelecidas na legislação especial aplicável.\n\nBASE VIII\n\n1. O Ministro das Obras Públicas poderá autorizar as câmaras municipais interessadas que disponham de serviços técnicos satisfatórios a assumirem a incumbência da execução de construções escolares incluídas nos programas estabelecidos ou de trabalhos complementares da obra executada pelo Estado, tais como arranjos exteriores e vedações, desde que razões de economia e a rapidez de execução o recomendem e não resultem inconvenientes para a boa realização dos mesmos programas.\n\n2. Nos casos previstos no número anterior, as câmaras municipais terão de respeitar os projectos-tipo e orçamentos aprovados pelo Governo e, bem assim, os cadernos de encargos elaborados pela Direcção-Geral dos Edifícios e Monumentos Nacionais, com as eventuais alterações que, para cada caso, forem prèviamente autorizadas mediante proposta da câmara municipal interessada.\n\nA Direcção-Geral dos Edifícios e Monumentos Nacionais fiscalizará a execução dos trabalhos por intermédio da Delegação para as Obras de Construção de Escolas Primárias.\n\n3. São aplicáveis às construções escolares e aos trabalhos complementares executados pelas câmaras municipais ao abrigo do preceituado nesta base as disposições da presente lei relativas ao financiamento do Plano. Será efectuada mensalmente a favor das câmaras municipais, mediante auto de medição, a liquidação dos trabalhos executados.\n\n4. Se as câmaras municipais não concluírem os trabalhos que se propuseram executar dentro do prazo fixado no caderno de encargos e não se verificar caso de força maior reconhecido por despacho do Ministro das Obras Públicas, compete ao Ministério das Obras Públicas promover a sua conclusão.\n\nAs câmaras municipais suportarão integralmente a diferença entre o custo real da obra e o valor inicialmente fixado para a sua execução. A cobrança do excesso será feita nas condições expressas no n.º 2 da base seguinte.\n\nBASE IX\n\n1. O Ministério das Obras Públicas é autorizado a conceder às câmaras municipais que aproveitem das disposições da base anterior adiantamentos por conta das dotações do Plano até ao limite de 25 por cento da importância dos orçamentos aprovados para as obras que se proponham executar.\n\n2. Se as obras não forem iniciadas no prazo de 90 dias após a concessão do adiantamento, salvo caso de força maior reconhecido por despacho do Ministro das Obras Públicas, proceder-se-á ao seu reembolso pelo Estado.\n\nPara este efeito, a Direcção-Geral dos Edifícios e Monumentos Nacionais promoverá o processamento das guias de receita pela Direcção-Geral da Contabilidade Pública, devendo estas ser pagas no prazo de 30 dias. Findo este prazo, proceder-se-á de harmonia com o disposto no n.º 2 da base VI.\n\nBASE X\n\n1. O Ministro das Obras Públicas poderá autorizar, quando o julgar justificado, que nos centros urbanos mais importantes sejam executadas pelas câmaras municipais respectivas, conforme o regime geral de financiamento estabelecido nesta lei, construções escolares do Plano obedecendo a projectos especiais a aprovar pelo Ministro, desde que as mesmas câmaras se responsabilizem pelo aumento de custo.\n\n2. Nos casos previstos nesta base, a Direcção-Geral dos Edifícios e Monumentos Nacionais porá à disposição do município interessado, depois de aprovado o projecto da construção escolar a realizar e autorizada a sua execução, a importância do orçamento fixado para o projecto-tipo correspondente.\n\nBASE XI\n\n1. As câmaras municipais devem submeter à aprovação do Ministério das Obras Públicas, no prazo de 90 dias a contar da data da comunicação pelo Ministério da Educação Nacional dos programas parciais fixados para a realização do Plano, a localização para as construções escolares abrangidas por esses programas.\n\n2. Os terrenos para as construções escolares a executar pelo Ministério das Obras Públicas devem ser postos à disposição da Delegação para as Obras de Construção de Escolas Primárias no prazo máximo de 180 dias a partir da data em que for comunicada a aprovação a que se refere o número anterior.\n\n3. Findo o prazo fixado no n.º 2, o Ministro das Obras Públicas poderá determinar que a Delegação adquira ou exproprie terrenos pelas dotações orçamentais consignadas às obras do Plano, debitando às câmaras municipais as importâncias que tiver despendido.\n\nO reembolso far-se-á por uma só vez e na forma estabelecida pela base VI, sem dependência do limite da importância da anuidade a que se refere o n.º 2 da base V."
+  },
+  "2df54efb5b9fafec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Aproveitamento das construções escolares existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Aproveitamento das construções escolares existentes\n\nBASE XII\n\n1. O regime definido na presente lei para as construções escolares do Plano é aplicável às obras de reparação e adaptação das escolas e cantinas que hajam sido construídas à margem do Plano dos Centenários, desde que o seu aproveitamento tenha sido previsto pelo Governo.\n\nTais escolas e cantinas poderão beneficiar ulteriormente do regime de conservação estabelecido nesta lei para as construções escolares do Plano.\n\n2. As obras de reparação e adaptação serão realizadas de harmonia com projectos, orçamentos e cadernos de encargos aprovados para cada caso pelo Ministério das Obras Públicas, por conta das dotações inscritas para esse fim no seu orçamento.\n\n3. As importâncias das comparticipações das câmaras municipais nos encargos assumidos pelo Estado com a execução das obras a que se refere esta base serão adicionadas, para os efeitos da aplicação do disposto na base V quanto ao regime do reembolso ao Tesouro, às devidas pela execução das novas construções escolares."
+  },
+  "ac63e5640dcba81a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Conservação das construção escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Conservação das construção escolares\n\nBASE XIII\n\n1. Ficam sujeitos às disposições especiais constantes das bases seguintes os trabalhos de conservação das construções escolares executadas ao abrigo do Plano dos Centenários e do novo plano, incluídos nas modalidades:\n\na) Conservação corrente - abrangendo as pequenas reparações de carácter eventual e urgente;\n\nb) Conservação periódica - abrangendo as reparações gerais, exigidas pelo desgaste normal das construções, a realizar de cinco em cinco anos.\n\n2. Compete às câmaras municipais a execução oportuna de quaisquer trabalhos de reparação não compreendidos nas modalidades definidas no número anterior que se tornem necessários para manter sempre em bom estado as construções escolares e seus logradouros. As dúvidas na interpretação deste preceito serão esclarecidas por despacho do Ministro das Obras Públicas.\n\nBASE XIV\n\n1. A conservação corrente das construções escolares e o tratamento dos seus logradouros incumbem às câmaras municipais e constituem encargo destas, sem prejuízo do disposto no número seguinte.\n\n2. Os directores das escolas e os delegados do Ministério da Educação Nacional junto das comissões administrativas das cantinas são competentes para promover, sob fiscalização dos directores dos distritos escolares ou dos seus delegados, a execução de pequenas reparações de carácter eventual e urgente nas escolas ou cantinas, respectivamente.\n\nSerá inscrita anualmente no orçamento da despesa ordinária da Direcção-Geral do Ensino Primário a verba necessária para este efeito, calculada a partir do índice de custo médio de 200$00 por cada sala de aula ou de cantina em funcionamento.\n\nBASE XV\n\n1. Salvo o disposto no número seguinte, a conservação periódica das construções escolares abrangidas pelo n.º 1 da base XIII pertencerá normalmente à Direcção-Geral dos Edifícios e Monumentos Nacionais, por intermédio da Delegação para as Obras de Construção de Escolas Primárias, quando os edifícios hajam sido construídos pelo Estado, e às câmaras municipais, nos demais casos.\n\n2. O Ministro das Obras Públicas poderá autorizar, quando o julgue conveniente, que a conservação periódica das escolas e cantinas construídas pelo Estado passe a ser assegurada, a partir do segundo período da conservação, inclusive, pelas câmaras municipais que assim o requeiram.\n\n3. Será inscrita anualmente no orçamento da despesa ordinária da Direcção-Geral dos Edifícios e Monumentos Nacionais a verba necessária para o cumprimento do disposto no n.º 1, calculada a partir dos seguintes índices do custo médio estabelecido independentemente do disposto nos números anteriores quanto à incumbência da execução das obras:\n\nPrimeira conservação periódica - 2400$00 por sala;\n\nSeguintes conservações periódicas - 4300$00 por sala.\n\n4. Não serão contadas na aplicação do n.º 3 desta base as escolas e cantinas construídas ao abrigo da faculdade concedida pela base X, cuja conservação constituirá encargo directo das câmaras municipais.\n\nBASE XVI\n\nPoderão ser alterados por simples despacho do Ministro das Finanças, sob proposta fundamentada do Ministro das Obras Públicas, os índices de custo médio estabelecidos no n.º 2 da base XIV e no n.º 3 da base XV.\n\nBASE XVII\n\n1. As câmaras municipais que executarem obras de conservação periódica ao abrigo do disposto nos n.os 1 e 2 da base XV, com a excepção prevista no n.º 4 da mesma base, terão de respeitar, para poderem beneficiar do financiamento do Estado, os orçamentos e cadernos de encargos aprovados pela Direcção-Geral dos Edifícios e Monumentos Nacionais, que exercerá a fiscalização por intermédio da Delegação para as Obras de Construção de Escolas Primárias.\n\n2. A liquidação da importância do custo real das obras será efectuada a favor da câmara municipal interessada, até ao limite do orçamento aprovado, mediante auto de verificação final dos trabalhos executados.\n\n3. Se os trabalhos não estiverem terminados dentro do prazo fixado no caderno de encargos, salvo caso de força maior reconhecido pelo Ministério das Obras Públicas, poderá este chamar a si a sua conclusão.\n\nNeste caso, a importância a liquidar a favor da câmara municipal não poderá exceder a diferença entre o montante do orçamento aprovado e o das despesas realizadas pelo Ministério das Obras Públicas.\n\nBASE XVIII\n\nAs importâncias despendidas por conta do Orçamento Geral do Estado com a conservação periódica das construções escolares, nos termos da presente lei, serão reembolsadas pela seguinte forma:\n\na) O Comissariado do Desemprego entrará anualmente nos cofres do Estado com 50 por cento das importâncias efectivamente despendidas no ano anterior, por conta da dotação a inscrever para este efeito no orçamento do Fundo de Desemprego;\n\nb) Os outros 50 por cento serão adicionados aos débitos das câmaras municipais ao Estado provenientes das obras de construções escolares, para serem liquidados conforme o regime estabelecido nas bases V e VI desta lei."
+  },
+  "4dae8890d181a8ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Casas para professores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Casas para professores\n\nBASE XIX\n\nO Ministério das Obras Públicas é autorizado a comparticipar na construção, promovida pelas autarquias locais ou pelos organismos corporativos, de casas destinadas aos professores do ensino primário nas localidades rurais em que se reconheça a necessidade de providências especiais para assegurar o seu alojamento.\n\nAs casas a construir subordinar-se-ão a projectos aprovados pelo Ministério das Obras Públicas que assegurará a fiscalização necessária.\n\nBASE XX\n\nA construção das casas a que se refere a base anterior poderá beneficiar de subsídios do Estado, não reembolsáveis, até ao máximo de 18000$00 por habitação, incluindo mobiliário essencial. Estes subsídios serão satisfeitos pelas dotações a inscrever para tal fim no orçamento da Direcção-Geral dos Edifícios e Monumentos Nacionais.\n\nBASE XXI\n\nÀs casas construídas ao abrigo da presente lei não poderá ser dada, sem autorização expressa do Governo, aplicação diferente daquela para que foram construídas.\n\nA sua ocupação será concedida nas condições que forem estabelecidas em regulamento a publicar pelo Ministro da Educação Nacional, com o acordo do Ministro das Finanças quanto ao regime de fixação das rendas.\n\nBASE XXII\n\nAs casas para professores do ensino primário gozam de isenção da contribuição predial."
+  },
+  "3f5cae1129841c73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Disposição diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Disposição diversas\n\nBASE XXIII\n\nAs expropriações necessárias para a execução da presente lei são declaradas de utilidade pública urgente.\n\nBASE XXIV\n\nSão isentas do pagamento de sisa e de imposto sobre as sucessões e doações as aquisições ou expropriações de terrenos e edifícios para os fins deste diploma.\n\nBASE XXV\n\n1. O Ministério das Obras Públicas é autorizado a promover concursos de projectos-tipo de construções escolares, a aquisição ou a construção de protótipos para estudos experimentais e a execução de ensaios laboratoriais destinados ao aperfeiçoamento das soluções construtivas adoptadas na realização do Plano.\n\n2. Os encargos provenientes da aplicação do disposto no número anterior serão contados nas despesas gerais da Delegação para as Obras de Construção de Escolas Primárias, sem prejuízo do limite máximo legal da percentagem para estas despesas.\n\nPublique-se e cumpra-se como nela se contém.\n\nPaços do Governo da República, 5 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar."
+  },
+  "78fea708847eaab2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Estimativa das despesas para a conclusão do Plano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Estimativa das despesas para a conclusão do Plano\n\n... Contos\n\nA) Novas construções escolares:\n\n1) Escolas primárias:\n\na) Construção dos edifícios - 15000 salas de aula, a 63.000$00 ... 945000\n\nb) Mobiliário e apetrechamento - 15000 salas de aula, a 10000$00 ... 150000\n\nc) Arranjo dos logradouros, vedações, abastecimento de água, esgotos e outras despesas complementares - 15000 salas de aula, a 14.000$00 ... 210000\n\n2) Cantinas escolares ... 40000\n\nB) Conclusão das construções escolares em execução ao abrigo do Plano dos Centenários ... 40000\n\nC) Aproveitamento de construções escolares existentes ... 50000\n\nD) Casas para professores - Subsídio de 18.000$00 por casa, para 1000 casas ... 18000\n\nE) Estudos, projectos e fiscalização (5 por cento) ... 72650\n\nF) Imprevistos ... 154350\n\nTotal ... 1680000"
+  },
+  "e197df98015770e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Escolas a construir",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Escolas a construir\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/04/07900/03770381.pdf)"
+  },
+  "28db20d2fed6617a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Financiamento do Plano",
+   "in_force_from": "1987-01-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 487/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1971-631263), publicado em 1971-11-09.",
+    "Alterado pelo/a [Decreto-Lei n.º 487/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1971-631263), publicado em 1971-11-09.",
+    "Alterado pelo/a [Lei n.º 1/87](https://diariodarepublica.pt/dr/detalhe/lei/1-1987-599750), publicado em 1987-01-06."
+   ],
+   "markdown": "### CAPÍTULO II — Financiamento do Plano\n\nBASE IV\n\n1. Os encargos da realização do Plano aprovado pela presente lei serão suportados pelas dotações que o Ministério das Finanças fará inscrever anualmente para este fim no orçamento da despesa extraordinária do Ministério das Obras Públicas.\n\n> Alterado pelo/a [Decreto-Lei n.º 487/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1971-631263), publicado em 1971-11-09.\n\n2. Os saldos das dotações orçamentais referidas no número anterior poderão adicionar-se às dotações do ano seguinte.\n\nBASE V\n\n1. As câmaras municipais participarão nas despesas resultantes da execução do Plano com 50 por cento do respectivo montante.\n\n> Alterado pelo/a [Decreto-Lei n.º 487/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1971-631263), publicado em 1971-11-09.\n\n2. O reembolso ao Tesouro das comparticipações devidas pelas câmaras municipais nos termos do número anterior, será efectuado mediante o pagamento de anuidades que não excedam para cada obra 1/20 da respectiva comparticipação, Estas anuidades serão fixadas de modo que as despesas municipais provenientes da execução do Plano dos Centenários e do novo plano, para reembolso do Estado, não excedam em cada ano 10 por cento das receitas ordinárias, excluídas as consignadas e deduzidos os encargos de empréstimos não caucionados por receitas especiais e os de vencimentos e salários do pessoal dos quadros.\n\n3. Os donativos, subsídios ou outras importâncias com que as entidades privadas concorram para o financiamento das construções escolares executadas ao abrigo da presente lei deverão ser entregues nos cofres do Estado e abatidos às comparticipações dos corpos administrativos a que respeitem.\n\nBASE VI\n\n(Revogada.)\n\n> Alterado pelo/a [Lei n.º 1/87](https://diariodarepublica.pt/dr/detalhe/lei/1-1987-599750), publicado em 1987-01-06."
+  },
+  "438f8c20a2b4519b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Execução do Plano",
+   "in_force_from": "1987-01-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 487/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1971-631263), publicado em 1971-11-09."
+   ],
+   "markdown": "### CAPÍTULO III — Execução do Plano\n\nBASE VII\n\nSalvo o disposto nas bases VIII e X, compete à Direcção-Geral dos Edifícios e Monumentos Nacionais, pela Delegação para as Obras de Construção de Escolas Primárias:\n\n1.º Promover a construção nos terrenos para o efeito adquiridos, ou por empreitada ou por outra forma mais adequada às circunstâncias e de acordo com os projectos-tipo aprovados pelo Governo, das escolas primárias abrangidas por esta lei;\n\n2.º Promover, nos mesmos termos, a construção das cantinas escolares, satisfeitas as condições estabelecidas na legislação especial aplicável.\n\nBASE VIII\n\n1. O Ministro das Obras Públicas poderá autorizar as câmaras municipais interessadas que disponham de serviços técnicos satisfatórios a assumirem a incumbência da execução de construções escolares incluídas nos programas estabelecidos ou de trabalhos complementares da obra executada pelo Estado, tais como arranjos exteriores e vedações, desde que razões de economia e a rapidez de execução o recomendem e não resultem inconvenientes para a boa realização dos mesmos programas.\n\n2. Nos casos previstos no número anterior, as câmaras municipais terão de respeitar os projectos-tipo e orçamentos aprovados pelo Governo e, bem assim, os cadernos de encargos elaborados pela Direcção-Geral dos Edifícios e Monumentos Nacionais, com as eventuais alterações que, para cada caso, forem prèviamente autorizadas mediante proposta da câmara municipal interessada.\n\nA Direcção-Geral dos Edifícios e Monumentos Nacionais fiscalizará a execução dos trabalhos por intermédio da Delegação para as Obras de Construção de Escolas Primárias.\n\n3. São aplicáveis às construções escolares e aos trabalhos complementares executados pelas câmaras municipais ao abrigo do preceituado nesta base as disposições da presente lei relativas ao financiamento do Plano. Será efectuada mensalmente a favor das câmaras municipais, mediante auto de medição, a liquidação dos trabalhos executados.\n\n4. Se as câmaras municipais não concluírem os trabalhos que se propuseram executar dentro do prazo fixado no caderno de encargos e não se verificar caso de força maior reconhecido por despacho do Ministro das Obras Públicas, compete ao Ministério das Obras Públicas promover a sua conclusão.\n\nAs câmaras municipais suportarão integralmente a diferença entre o custo real da obra e o valor inicialmente fixado para a sua execução. A cobrança do excesso será feita nas condições expressas no n.º 2 da base seguinte.\n\nBASE IX\n\n1. O Ministério das Obras Públicas é autorizado a conceder às câmaras municipais que aproveitem das disposições da base anterior adiantamentos por conta das dotações do Plano até ao limite de 25 por cento da importância dos orçamentos aprovados para as obras que se proponham executar.\n\n2. Se as obras não forem iniciadas no prazo de 90 dias após a concessão do adiantamento, salvo caso de força maior reconhecido por despacho do Ministro das Obras Públicas, proceder-se-á ao seu reembolso pelo Estado.\n\nPara este efeito, a Direcção-Geral dos Edifícios e Monumentos Nacionais promoverá o processamento das guias de receita pela Direcção-Geral da Contabilidade Pública, devendo estas ser pagas no prazo de 30 dias. Findo este prazo, proceder-se-á de harmonia com o disposto no n.º 2 da base VI.\n\nBASE X\n\n1. O Ministro das Obras Públicas poderá autorizar, quando o julgar justificado, que nos centros urbanos mais importantes sejam executadas pelas câmaras municipais respectivas, conforme o regime geral de financiamento estabelecido nesta lei, construções escolares do Plano obedecendo a projectos especiais a aprovar pelo Ministro, desde que as mesmas câmaras se responsabilizem pelo aumento de custo.\n\n2. Nos casos previstos nesta base, a Direcção-Geral dos Edifícios e Monumentos Nacionais porá à disposição do município interessado, depois de aprovado o projecto da construção escolar a realizar e autorizada a sua execução, a importância do orçamento fixado para o projecto-tipo correspondente.\n\nBASE XI\n\n1. As câmaras municipais devem submeter à aprovação do Ministério das Obras Públicas, no prazo de noventa dias, a contar da data da comunicação dos programas parciais fixados para a realização do Plano, a localização para as construções escolares abrangidas por esses programas.\n\n2. Os terrenos para as construções escolares a executar pelo Ministério das Obras Públicas serão adquiridos ou expropriados pelas câmaras municipais, que para o efeito deverão ser habilitadas pela Direcção-Geral das Construções Escolares com a totalidade das quantias necessárias.\n\n3. Os terrenos deverão ser postos à disposição da Direcção-Geral das Construção Escolares no prazo máximo de cento e oitenta dias, a partir da data em que for comunicada a aprovação a que se refere o n.º 1.\n\n> Alterado pelo/a [Decreto-Lei n.º 487/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1971-631263), publicado em 1971-11-09."
+  }
+ }
+}

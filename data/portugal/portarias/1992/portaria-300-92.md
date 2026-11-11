@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-03-06'
+version_history:
+  file: portaria-300-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-04-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-03-06'
+    amending: pt:dre:518871:por
+    amending_title: Portaria n.º 221/2007; Portaria n.º 220/2007
+    changes:
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/300/1992/04/03/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:16:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 221/2007; Portaria n.º
+    220/2007. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-300-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,9 +148,13 @@ Manda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Soci
 
 a) Canto;
 
-b) Instrumento harmónico;
+b) (Revogada.)
 
-c) Instrumento melódico;
+> Alterado pelo/a [Portaria n.º 220/2007](https://diariodarepublica.pt/dr/detalhe/portaria/220-2007-518983), publicado em 2007-03-01.
+
+c) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 221/2007](https://diariodarepublica.pt/dr/detalhe/portaria/221-2007-518871), publicado em 2007-03-01.
 
 cujos planos de estudo se anexam.
 

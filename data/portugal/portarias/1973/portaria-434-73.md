@@ -29,10 +29,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-04-28'
+version_history:
+  file: portaria-434-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-06-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-04-28'
+    amending: pt:dre:256070:por
+    amending_title: Portaria n.º 535/77; Portaria n.º 103/80; Portaria n.º 489/83
+    changes:
+    - Altera Artigo unidades 23-23
+    - Altera Artigo unidades 42-43
+    - Altera Artigo unidades 63-64
+    - Altera Artigo unidades 116-117
+    - Altera Artigo unidades 152-152
 identifiers:
   celex: null
   eli: null
@@ -58,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:06:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 535/77; Portaria n.º
+    103/80; Portaria n.º 489/83. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1973/portaria-434-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -174,7 +193,9 @@ K(índice 1) a K(índice 6): são os coeficientes definidos no artigo 5.º e a q
 
 Áreas industriais - 100$00/m2.
 
-2. Os valores do número anterior serão corrigidos, no início de cada ano, para aplicação a novos contratos, e de cinco em cinco anos, para os contratos existentes ou as suas prorrogações, de acordo com a evolução da média aritmética dos índices ponderados de salários e de materiais de construção publicados pelo Ministério das Obras Públicas, nos termos do artigo 8.º do [Decreto-Lei n.º 47945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47945-1967-391026), de 16 de Setembro de 1967.
+2. Os valores do número anterior serão corrigidos no início de cada ano, para aplicação a novos contratos, e de cinco em cinco anos, para os contratos existentes ou suas prorrogações, de acordo com a evolução da média aritmética dos índices ponderados de salários e materiais de construção publicados entre os meses de Junho de 1973 e Junho do ano precedente pelo Ministério das Obras Públicas, nos termos do artigo 9.º do [Decreto-Lei n.º 273-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-b-1975-626600), de 3 de Junho de 1975.
+
+> Alterado pelo/a [Portaria n.º 535/77](https://diariodarepublica.pt/dr/detalhe/portaria/535-1977-256070), publicado em 1977-08-24.
 
 5.º São os seguintes os significados dos diversos coeficientes:
 
@@ -212,9 +233,11 @@ d) K(índice 4) = 0,8, para as áreas periféricas do novo centro urbano;
 
 lagoa de Santo André, até à distância de 500 m da linha de nível máximo da lagoa;
 
-e) K(índice 5) = 0,8, para contratos celebrados até 31 de Dezembro de 1975;
+e) K(índice 5) = 0,9, para contratos celebrados até 31 de Dezembro de 1980;
 
-= 1,0, para contratos posteriores;
+= 1,0, para contratos posteriores.
+
+> Alterado pelo/a [Portaria n.º 103/80](https://diariodarepublica.pt/dr/detalhe/portaria/103-1980-678212), publicado em 1980-03-13.
 
 f) K(índice 6) = 0,5, para actividades económicas e para habitação própria ou dos tipos económicos, durante o primeiro ano de vigência do contrato;
 
@@ -254,9 +277,11 @@ d) K(índice 4) = 1,0, a distância do porto superior a 4 km, medidos pela liga�
 
 = 2,0, a distância ao porto inferior a 4 km, para actividades de qualquer outra natureza;
 
-e) K(índice 5) = 0,8, para contratos celebrados durante a 1.ª fase dos investimentos públicos (até 31 de Dezembro de 1975);
+e) K(índice 5) = 0,9, para contratos celebrados durante a 1.ª fase dos investimentos públicos (até 31 de Dezembro de 1980);
 
-= 1,0, para contratos posteriores;
+= 1,0, para contratos posteriores.
+
+> Alterado pelo/a [Portaria n.º 103/80](https://diariodarepublica.pt/dr/detalhe/portaria/103-1980-678212), publicado em 1980-03-13.
 
 f) K(índice 6) = 0,5, nos primeiros três anos de duração do contrato;
 
@@ -360,9 +385,9 @@ Contrato entre o Gabinete da Área de Sines (O. A. S.) e ..., pelo qual é const
 
 3. A prestação anual será paga, na sede do G. A. S., nos primeiros trinta dias do ano a que respeite; ou, 3-A. A prestação anual será paga em duodécimos, na sede do G. A. S., nos primeiros oito dias de cada mês.
 
-4. Pela mora no cumprimento vencer-se-ão juros à taxa anual de 12%; ou,
+4 - Pela mora no cumprimento vencer-se-ão juros à taxa anual igual à taxa básica de desconto do Banco de Portugal acrescida de 1%.
 
-4-A. Pela mora no cumprimento vencer-se-ão juros à taxa de 1% por cada mês ou fracção.
+> Alterado pelo/a [Portaria n.º 489/83](https://diariodarepublica.pt/dr/detalhe/portaria/489-1983-311600), publicado em 1983-04-28.
 
 5. O superficiário poderá antecipar, total ou parcialmente, o pagamento das prestações em dívida, não se aplicando então às prestações antecipadas o disposto no n.º 2 do presente artigo, salvo se a antecipação se fizer dentro do prazo de um ano antes da data em que se deva proceder à revisão do preço, nos termos do mesmo número.
 
@@ -432,7 +457,9 @@ O superficiário pode resolver o contrato nos casos e termos gerais de direito.
 
 4. No caso de o antigo superficiário assim o requerer, a comissão poderá fixar sumariamente um valor provisório para indemnização, do qual serão logo devidos dois terços.
 
-5. O pagamento pelo G. A. S. da indemnização de que trata este artigo poderá, ser feito em prestações distribuídas por um prazo máximo de cinco anos, pagando então o G. A. S. um juro anual de 6% sobre es quantias cujo pagamento seja diferido.
+5 - O pagamento pelo GAS da indemnização de que trata este artigo poderá ser feito em prestações distribuídas por um prazo máximo de 5 anos, pagando então o GAS um juro anual igual à taxa básica de desconto do Banco de Portugal acrescido de 1%.
+
+> Alterado pelo/a [Portaria n.º 489/83](https://diariodarepublica.pt/dr/detalhe/portaria/489-1983-311600), publicado em 1983-04-28.
 
 ###### ARTIGO 9.º — (Caução)
 

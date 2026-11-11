@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-07-16'
+version_history:
+  file: decreto-lei-459-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-11-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-07-16'
+    amending: pt:dre:471327:por
+    amending_title: Decreto-Lei n.º 231/80
+    changes:
+    - Altera Artigo unidades 22-22
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:23:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 231/80. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-459-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,7 +163,9 @@ Art. 64.º - 1 - Serão obrigatoriamente remidas as pensões devidas a sinistrad
 
 Art. 65.º O capital da remição será igual a 95% do valor actual da pensão vitalícia remível.
 
-Art. 2.º O presente diploma legislativo produz os seus efeitos a partir do dia 1 de Outubro de 1979, sendo apenas aplicável às incapacidades e remições a partir desta data.
+Art. 2.º O presente diploma produz os seus efeitos a partir de 1 de Outubro de 1979, sendo apenas aplicável às pensões, incapacidades e remições fixadas a partir dessa data.
+
+> Alterado pelo/a [Decreto-Lei n.º 231/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1980-471327), publicado em 1980-07-16.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
 

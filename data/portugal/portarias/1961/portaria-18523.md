@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-10-19'
+version_history:
+  file: portaria-18523.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-06-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-10-19'
+    amending: pt:dre:412390:por
+    amending_title: Portaria n.º 723/73
+    changes:
+    - Altera Artigo unidades 48-48
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:00:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 723/73. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1961/portaria-18523.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -183,7 +198,9 @@ a) Habilitações literárias, comprovadas documentalmente;
 
 b) Robustez física necessária ao exercício da profissão;
 
-c) Idade mínima tal que, quando terminado o curso, o candidato tenha atingido os 21 anos;
+c) Idade mínima de 16 anos completos até ao dia 31 de Dezembro do ano em que sejam admitidos ao curso.
+
+> Alterado pelo/a [Portaria n.º 723/73](https://diariodarepublica.pt/dr/detalhe/portaria/723-1973-412390), publicado em 1973-10-19.
 
 d) Bom comportamento moral.
 

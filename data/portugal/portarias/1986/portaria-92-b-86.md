@@ -40,10 +40,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-02-16'
+version_history:
+  file: portaria-92-b-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-03-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-02-16'
+    amending: pt:dre:663349:por
+    amending_title: Portaria n.º 55/87; Portaria n.º 946/87; Portaria n.º 560/88; Portaria n.º 116/89
+    changes:
+    - Altera Artigo unidades 56-56
+    - Adita Artigo depois da unidade 56
+    - Altera Artigo unidades 105-105
+    - Adita Artigo depois da unidade 151
+    - Adita Artigo depois da unidade 160
+    - Altera Artigo unidades 191-191
 identifiers:
   celex: null
   eli: null
@@ -69,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:59:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 55/87; Portaria n.º
+    946/87; Portaria n.º 560/88; Portaria n.º 116/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-92-b-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -282,7 +302,29 @@ d) Candidatos titulares dos bacharelatos e das licenciaturas a que se referem as
 
 2 - Os candidatos que satisfaçam simultaneamente os requisitos para a inclusão nos contingentes a que se referem as alíneas d) e c) ou as alíneas d) e a) serão considerados no contingente a que se refere a alínea c).
 
-3 - As percentagens do numerus clausus a efectuar a cada contingente serão fixadas por portaria do Ministro da Educação e Cultura.
+3 - A percentagem do numerus clausus afectada a cada contingente, em cada curso, é a seguinte:
+
+a) Contingente a que se refere a alínea a) do n.º 1 do n.º 5.º - 42%;
+
+b) Contingente a que se refere a alínea b) do n.º 1 do n.º 5.º - 38%;
+
+c) Contingente a que se refere a alínea c) do n.º 1 do n.º 5.º - 17%;
+
+d) Contingente a que se refere a alínea d) do n.º 1 do n.º 5.º - 3%.
+
+> Alterado pelo/a [Portaria n.º 116/89](https://diariodarepublica.pt/dr/detalhe/portaria/116-1989-611359), publicado em 1989-02-16.
+
+5.º-A
+
+Supranumerários
+
+1 - Para cada um dos cursos poderá ainda ser criado um contingente especial, para além das vagas fixadas nos termos do n.º 3.º, destinado a estudantes nacionais das Repúblicas Popular de Angola, de Cabo Verde, da Guiné-Bissau, Popular de Moçambique e Democrática de São Tomé e Príncipe, desde que a sua candidatura seja apresentada previamente pela via diplomática, através do Gabinete Coordenador do Ingresso no Ensino Superior, no âmbito dos acordos de cooperação firmados pelo Estado Português.
+
+2 - Os estudantes a que se refere o n.º 1 têm de ser titulares de habilitação de acesso adequada nos termos do n.º 2.º e estarão sujeitos, se excederem o número de vagas fixadas, às regras de seriação fixadas pela presente portaria.
+
+3 - O número de vagas a afectar em cada curso a este contingente será fixado nos termos do n.º 3.º e não poderá ser superior a 10% das vagas fixadas para cada curso.
+
+> Aditado pelo/a [Portaria n.º 116/89](https://diariodarepublica.pt/dr/detalhe/portaria/116-1989-611359), publicado em 1989-02-16.
 
 6.º
 
@@ -380,7 +422,9 @@ e) Classificação da componente de formação contínua do currículo fixada no
 
 2 - Se o número de candidatos para o contingente a que se refere a alínea b) do n.º 1 do n.º 5.º exceder o número de vagas respectivo, os candidatos serão seriados pela sua classificação de candidatura.
 
-3 - Em cada contingente, se, esgotada a utilização dos critérios fixados nos n.os 1 ou 2, se verificar uma situação de empate relevante para a escolha dos candidatos a colocar, o conselho científico procederá à escolha entre os candidatos empatados através de sorteio.
+3 - Quando num curso e contingente, esgotada a utilização dos critérios fixados nos n.os 1 ou 2, se verificar uma situação de empate relevante para a escolha dos candidatos a colocar, o conselho científico do Instituto Superior de Contabilidade e Administração de Lisboa procederá à escolha entre os candidatos empatados.
+
+> Alterado pelo/a [Portaria n.º 116/89](https://diariodarepublica.pt/dr/detalhe/portaria/116-1989-611359), publicado em 1989-02-16.
 
 11.º
 
@@ -474,6 +518,14 @@ c) Excluído.
 
 Os casos omissos no concurso de acesso são regulados por analogia com o disposto na portaria que regulamenta, para esse ano lectivo, o regime geral de candidatura à matrícula e inscrição em estabelecimentos e cursos do ensino superior.
 
+16.º-A
+
+Resultados
+
+O resultado das candidaturas aos cursos, bem como o número de alunos matriculados e inscritos, deve ser comunicado ao Gabinete Coordenador do Ingresso no Ensino Superior no prazo que for fixado nos termos do n.º 26.º
+
+> Aditado pelo/a [Portaria n.º 946/87](https://diariodarepublica.pt/dr/detalhe/portaria/946-1987-499491), publicado em 1987-12-18.
+
 17.º
 
 (Planos de estudos)
@@ -491,6 +543,14 @@ A duração dos cursos é de quatro semestres lectivos, correspondendo a cada se
 (Classes de alunos)
 
 As classes de alunos dos cursos são as fixadas nos artigos 57.º e 64.º do Decreto-Lei n.º 18717, de 27 de Julho de 1930, e nos artigos 72.º, 73.º e 74.º do Decreto-Lei n.º 42857, de 20 de Fevereiro de 1960, conforme o disposto no [Decreto n.º 21170](https://diariodarepublica.pt/dr/detalhe/decreto/21170-1932-524031), de 20 de Abril de 1932.
+
+19.º-A
+
+Regime de frequência
+
+É obrigatória a frequência de, pelo menos, 50% das aulas de cada disciplina integrante do plano de estudos de cada curso.
+
+> Aditado pelo/a [Portaria n.º 55/87](https://diariodarepublica.pt/dr/detalhe/portaria/55-1987-663349), publicado em 1987-01-22.
 
 20.º
 
@@ -552,7 +612,11 @@ Aos alunos que satisfaçam as condições do n.º 24.º será emitido um diploma
 
 (Prazos)
 
-Os prazos para a candidatura, selecção, matrícula e inscrição serão fixados anualmente pela portaria a que se refere o n.º 3.º
+1 - Os prazos para a candidatura, selecção, matrícula e inscrição serão fixados anualmente por despacho do presidente da comissão instaladora do Instituto Politécnico de Lisboa, sob proposta do conselho directivo do Instituto Superior de Contabilidade e Administração de Lisboa (ISCAL).
+
+2 - O despacho a que se refere o n.º 1 será objecto de afixação pública nas instalações do Instituto Politécnico e do ISCAL, bem como de publicação na 2.ª série do Diário da República antes do início dos prazos a que o mesmo se refere.
+
+> Alterado pelo/a [Portaria n.º 560/88](https://diariodarepublica.pt/dr/detalhe/portaria/560-1988-376870), publicado em 1988-08-17.
 
 27.º
 

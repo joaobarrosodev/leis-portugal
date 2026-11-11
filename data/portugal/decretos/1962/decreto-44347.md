@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1964-12-28'
+version_history:
+  file: decreto-44347.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-05-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1964-12-28'
+    amending: pt:dre:553971:por
+    amending_title: Decreto n.º 46109
+    changes:
+    - Adita Artigo depois da unidade 32
+    - Altera Artigo unidades 33-33
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:29:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 46109. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1962/decreto-44347.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -184,7 +200,13 @@ b) Na província da Guiné, por um capitão, que terá como adjuntos dois subalt
 
 Art. 9.º O comando das circunscrições fiscais será exercido por oficiais subalternos com a patente de tenente e o das secções fiscais por chefes de secção do quadro privativo da Guarda Fiscal; o das secções nas sedes das circunscrições fiscais será exercido por um chefe-ajudante.
 
-§ único. Na província da Guiné, um dos adjuntos do comando exercerá periòdicamente as funções de inspecção das secções e postos fiscais, podendo assumir o comando de uma ou mais secções quando se verifiquem as circunstâncias previstas no artigo 3.º e assim lhe seja determinado pelo comando do corpo.
+§ 1.º Se durante o período da comissão referida no corpo do artigo o oficial for promovido ao posto de capitão, poderá continuar na comissão até o seu termo.
+
+> Aditado pelo/a [Decreto n.º 46109](https://diariodarepublica.pt/dr/detalhe/decreto/46109-1964-553971), publicado em 1964-12-28.
+
+§ 2.º Na província da Guiné, um dos adjuntos do comando exercerá periòdicamente as funções de inspecção das secções e postos fiscais, podendo assumir o comando de uma ou mais secções quando se verifiquem as circunstâncias previstas no artigo 3.º e assim lhe seja determinado pelo comando do corpo.
+
+> Alterado pelo/a [Decreto n.º 46109](https://diariodarepublica.pt/dr/detalhe/decreto/46109-1964-553971), publicado em 1964-12-28.
 
 Art. 10.º Os oficiais referidos nos artigos 8.º e 9.º pertencerão ao serviço activo das armas de infantaria, de cavalaria ou de artilharia, ou ao quadro geral dos serviços do Exército ou dos serviços do material, quando sejam oriundos daquelas armas, sendo nomeados pelo Ministro do Ultramar, em comissão civil, nos termos da segunda parte do artigo 2.º do [Decreto n.º 42937](https://diariodarepublica.pt/dr/detalhe/decreto/42937-1960-281607), de 22 de Abril de 1960, e demais legislação vigente.
 

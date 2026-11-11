@@ -38,10 +38,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-11-04'
+version_history:
+  file: portaria-834-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-08-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-11-04'
+    amending: pt:dre:328860:por
+    amending_title: Portaria n.º 41/85; Portaria n.º 678/88; Portaria n.º 1413/2007; Portaria n.º 1415/2007
+    changes:
+    - Altera Artigo unidades 99-100
+    - Adita Artigo depois da unidade 100
+    - Altera Artigo unidades 101-101
+    - Altera Artigo unidades 103-103
+    - Altera Artigo unidades 105-105
+    - Altera Artigo unidades 117-121
+    - Altera Artigo unidades 122-125
 identifiers:
   celex: null
   eli: null
@@ -67,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:52:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 41/85; Portaria n.º
+    678/88; Portaria n.º 1413/2007; Portaria n.º 1415/2007. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-834-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -438,19 +459,31 @@ Vila do Porto.
 
 2 - Cada repartição abrange a área das seguintes freguesias:
 
-1.ª Repartição - Alte, Ameixial, São Clemente, São Sebastião, Querença e Salir;
+1.ª Repartição - Almansil, Alte, Ameixial, Boliqueime, São Clemente, São Sebastião, Querença e Salir;
 
-2.ª Repartição - Almansil, Boliqueime e Quarteira.
+2.ª Repartição - Quarteira.
 
-17.º - 1 - O concelho de Loures é dividido em 5 repartições de finanças.
+> Alterado pelo/a [Portaria n.º 41/85](https://diariodarepublica.pt/dr/detalhe/portaria/41-1985-328860), publicado em 1985-01-21.
+
+3 - A sede da 1.ª Repartição é em Loulé e a da 2.ª Repartição é em Quarteira.
+
+> Aditado pelo/a [Portaria n.º 41/85](https://diariodarepublica.pt/dr/detalhe/portaria/41-1985-328860), publicado em 1985-01-21.
+
+17.º - 1 - O concelho de Loures é dividido em cinco repartições de finanças.
+
+> Alterado pelo/a [Portaria n.º 678/88](https://diariodarepublica.pt/dr/detalhe/portaria/678-1988-354722), publicado em 1988-10-11.
 
 2 - Cada repartição abrange a área das seguintes freguesias:
 
-1.ª Repartição - Bucelas, Fanhões, Frielas, Loures, Lousa, Póvoa de Santo Adrião, Santo Antão do Tojal e São Julião do Tojal;
+1.ª Repartição - Bucelas, Fanhões, Frielas, Loures, Lousa, Póvoa de Santo Adrião, Santo António do Tojal e São Julião do Tojal;
+
+> Alterado pelo/a [Portaria n.º 678/88](https://diariodarepublica.pt/dr/detalhe/portaria/678-1988-354722), publicado em 1988-10-11.
 
 2.ª Repartição - Caneças e Odivelas;
 
-3.ª Repartição - Moscavide;
+3.ª Repartição - Moscavide e Portela;
+
+> Alterado pelo/a [Portaria n.º 678/88](https://diariodarepublica.pt/dr/detalhe/portaria/678-1988-354722), publicado em 1988-10-11.
 
 4.ª Repartição - Apelação, Camarate, Sacavém e Unhos;
 
@@ -474,23 +507,13 @@ Vila do Porto.
 
 2.ª Repartição - Baixa da Banheira.
 
-20.º - 1 - O concelho de Oliveira de Azeméis é dividido em 3 repartições de finanças.
+20.º - (Revogado.)
 
-2 - Cada repartição abrange a área das seguintes freguesias:
+> Alterado pelo/a [Portaria n.º 1415/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1415-2007-628846), publicado em 2007-10-30.
 
-1.ª Repartição - Loureiro, Macinhata de Seixa, Oliveira de Azeméis, Ossela, Palmaz, Pindelo, Pinheiro da Bemposta, Santiago de Riba-Ul, São Martinho da Gândara, Travanca, Ul, Vila Chã de São Roque e Madail;
+21.º - (Revogado.)
 
-2.ª Repartição - Vila de Cucujães;
-
-3.ª Repartição - Carregosa, Cesar, Fajões, Macieira de Sarnes e Nogueira do Cravo.
-
-21.º - 1 - O concelho de Ovar é dividido em 2 repartições de finanças.
-
-2 - Cada repartição abrange a área das seguintes freguesias:
-
-1.ª Repartição - Ovar, São Vicente de Pereira Jusã e Válega;
-
-2.ª Repartição - Arada, Cortegaça, Esmoriz e Maceda.
+> Alterado pelo/a [Portaria n.º 1413/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1413-2007-628844), publicado em 2007-10-30.
 
 22.º - 1 - O concelho de Palmela é dividido em 2 repartições de finanças.
 

@@ -39,10 +39,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-01-01'
+version_history:
+  file: portaria-63-j-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-03-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-01-01'
+    amending: pt:dre:228613:por
+    amending_title: Portaria n.º 329/86; Portaria n.º 426-B/86; Portaria n.º 776/86
+    changes:
+    - Altera Artigo unidades 9-10
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 15-16
+    - Altera Artigo unidades 21-21
+    - Altera Artigo unidades 27-27
 identifiers:
   celex: null
   eli: null
@@ -68,7 +89,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:54:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 329/86; Portaria n.º
+    426-B/86; Portaria n.º 776/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-63-j-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,21 +184,35 @@ Manda o Governo da República Portuguesa, pelos Ministros da Agricultura, Pescas
 
 2.º A gestão dos contingentes referidos no número anterior fica sujeita às regras constantes desta portaria.
 
-3.º - 1 - Os contingentes anuais são distribuídos por trimestres, com início em 1 de Janeiro de cada ano, à excepção dos contingentes anuais estabelecidos para o sector das frutas e legumes frescos, que, de acordo com o n.º 14 do artigo 15.º do [Decreto-Lei n.º 519/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1985-546470), apresentam uma delimitação temporal específica.
+3.º - 1 - Sem prejuízo do disposto nos números seguintes, os contingentes anuais são distribuídos por trimestres, com início em 1 de Janeiro de cada ano, à excepção dos contingentes estabelecidos para o sector das frutas e legumes frescos, de acordo com o n.º 14 do artigo 15.º do [Decreto-Lei n.º 519/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1985-546470), de 31 de Dezembro, os quais apresentam uma delimitação temporal específica.
 
-2 - Para o ano de 1986, o primeiro período de distribuição de contingentes terá início em 1 de Março e terminará em 30 de Junho.
+2 - Os contingentes anuais dos produtos do sector das aves e ovos, estabelecidos de acordo com o n.º 10 do artigo 6.º do [Decreto-Lei n.º 514/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1985-546420), de 31 de Dezembro, são distribuídos num único período anual, com início em Janeiro de cada ano.
 
-4.º - 1 - Os montantes dos contingentes periódicos, o montante da caução referida no n.º 8.º e os respectivos critérios de distribuição pelos agentes importadores são fixados por despacho dos Ministros da Agricultura, Pescas e Alimentação e da Indústria e Comércio, ouvidos os Ministros da República para as Regiões Autónomas dos Açores e da Madeira, mediante proposta, no continente, da Junta Nacional dos Produtos Pecuários, para o caso de importação de produtos relativos aos mercados do leite e produtos lácteos, aves e ovos e carne de suíno, da Junta Nacional do Vinho, para a importação de produtos do mercado do vinho, e da Junta Nacional das Frutas, para o caso de importação de produtos do mercado das frutas e produtos hortícolas, e, nas Regiões Autónomas dos Açores e da Madeira, das respectivas autoridades competentes.
+3 - Os contingentes anuais dos produtos do sector da carne de suíno estabelecidos de acordo com o n.º 10 de artigo 9.º do [Decreto-Lei n.º 516/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1985-546423), de 31 de Dezembro, são distribuídos por dois períodos, com início em Janeiro e Maio de cada ano, na proporção de 40% para o primeiro período e 60% para o segundo.
 
-2 - As propostas das entidades referidas no número anterior serão elaboradas em colaboração com a Direcção-Geral do Comércio Externo.
+> Alterado pelo/a [Portaria n.º 776/86](https://diariodarepublica.pt/dr/detalhe/portaria/776-1986-214552), publicado em 1986-12-31.
 
-5.º A distribuição pelos agentes importadores dos contingentes é efectuada de acordo com o despacho referido no número anterior, mediante aviso publicado pela Direcção-Geral do Comércio Externo ou, nas regiões autónomas, pelas autoridades competentes, nos primeiros cinco dias úteis do mês anterior ao início do período respectivo, na 3.ª série do Diário da República e em dois jornais diários de grande expansão do continente e das regiões autónomas, conforme o caso.
+4.º - 1 - Os montantes e os critérios de distribuição dos contingentes periódicos, o montante da caução referida no n.º 8.º, a abertura da inscrição e as condições a serem observadas pelos agentes interessados nas importações contingentadas são fixados por despacho dos Ministros da Agricultura, Pescas e Alimentação e da Indústria e Comércio, ouvidos os Ministros da República para as Regiões Autónomas dos Açores e da Madeira, mediante proposta, no continente, da Junta Nacional dos Produtos Pecuários, para o caso de importação de produtos relativos aos mercados do leite e produtos lácteos, aves e ovos e carne de suíno, da Junta Nacional do Vinho, para a importação de produtos do mercado do vinho, e da Junta Nacional das Frutas, para o caso de importação de produtos do mercado das frutas e produtos hortícolas, e, nas Regiões Autónomas dos Açores e da Madeira, das respectivas autoridades competentes.
 
-6.º Do aviso referido nos números anteriores constarão os montantes dos contingentes, os respectivos critérios de distribuição, bem como as condições a observar pelos agentes interessados.
+> Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.
 
-7.º Os pedidos de importação deverão conter os elementos referidos no anexo à presente portaria, para além dos que forem especificamente referidos no aviso, e ser enviados em carta registada com aviso de recepção à entidade licenciadora.
+2 - As propostas das entidades referidas no número anterior são elaboradas, ouvidas as comissões consultivas dos mercados para os sectores em que estas existam, em colaboração com a Direcção-Geral do Comércio Externo.
 
-8.º Só são considerados os pedidos de importação quando acompanhados da constituição de uma caução, cujo valor constará do aviso referido nos n.os 4.º e seguintes, que garanta o cumprimento das obrigações assumidas pelo importador, a qual será depositada à ordem da entidade licenciadora.
+> Alterado pelo/a [Portaria n.º 329/86](https://diariodarepublica.pt/dr/detalhe/portaria/329-1986-228613), publicado em 1986-06-30.
+
+5.º O despacho referido no n.º 4.º será publicado no Diário da República, 1.ª série, nos primeiros cinco dias úteis do mês anterior ao início do período respectivo, e publicitado em dois jornais diários de grande expansão do continente e das regiões autónomas pela Direcção-Geral do Comércio Externo ou pelas autoridades autonómicas competentes, conforme o caso.
+
+> Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.
+
+6.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.
+
+7.º Os pedidos de importação deverão conter os elementos referidos em anexo à presente portaria, para além dos que foram especificamente indicados no despacho referido no n.º 4.º, e ser enviados em carta registada com aviso de recepção à entidade licenciadora.
+
+8.º Só são considerados os pedidos de importação quando acompanhados da constituição de uma caução, cujo valor constará do despacho referido no n.º 4.º, que garanta o cumprimento das obrigações assumidas pelo importador, a qual será depositada à ordem da entidade licenciadora.
+
+> Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.
 
 9.º A caução será restituída, no todo ou em parte, em conformidade com os resultados da distribuição efectiva do contingente pelos agentes económicos e proporcionalmente ao quantitativo não atribuído.
 
@@ -186,7 +222,9 @@ Manda o Governo da República Portuguesa, pelos Ministros da Agricultura, Pescas
 
 12.º O desembaraço aduaneiro dos produtos cuja importação foi autorizada terá de ser feito impreterivelmente até ao último dia do respectivo período.
 
-13.º A caução referida nos termos do n.º 7.º é libertada, total ou parcialmente, em proporção da utilização aduaneira da licença, mediante a apresentação de certificação comprovativa da realização do respectivo despacho aduaneiro pelo menos em 95%.
+13.º A caução referida nos termos do n.º 8.º é libertada total ou parcialmente, em proporção da utilização aduaneira da licença, mediante a apresentação do documento comprovativo da realização do respectivo despacho aduaneiro pelo menos em 95%.
+
+> Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.
 
 14.º Para o período que tem início em 1 de Março de 1986, os prazos previstos no n.º 4.º desta portaria serão alterados na medida do necessário.
 
@@ -198,7 +236,9 @@ Assinada em 28 de Fevereiro de 1986.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.
 
-## ANEXO — Elementos a que se refere o n.º 6.º desta portaria
+## ANEXO — Elementos a que se refere o n.º 7.º desta portaria
+
+> Alterado pelo/a [Portaria n.º 426-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/426-b-1986-214005), publicado em 1986-08-06.
 
 1 - Nome ou designação social e endereço do importador.
 

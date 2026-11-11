@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-03-29'
+version_history:
+  file: portaria-384-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-05-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-03-29'
+    amending: pt:dre:671919:por
+    amending_title: Portaria n.º 307/2006
+    changes:
+    - Altera Artigo unidades 20-21
+    - Altera Artigo unidades 30-31
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/384/2003/05/14/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:48:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 307/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-384-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -161,9 +177,11 @@ d) Uma descrição sumária das medidas de salvaguarda da segurança no trabalho
 
 e) A descrição quantificada da situação actual do sector do tabaco, acompanhada de directrizes sobre as acções de reconversão, bem como das explorações abrangidas e do contexto sócio-económico das zonas de produção, nomeadamente no que respeita ao emprego e ao potencial de desenvolvimento, no caso de projectos respeitantes a acções de interesse geral.
 
-2 - Os projectos relativos às acções específicas devem ser apresentados até 15 de Fevereiro do ano seguinte ao ano de resgate da quota junto das DRA da área onde se localiza a exploração do produtor de tabaco, que procede à respectiva instrução, emite parecer sobre o interesse regional dos mesmos e os remete ao Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) até 15 de Março do mesmo ano.
+2 - Os projectos relativos às acções específicas devem ser apresentados até ao dia 30 de Março de 2006 junto das DRA da área onde se localiza a exploração do produtor de tabaco, que procede à respectiva instrução, emite parecer sobre o interesse regional dos mesmos e os remete ao Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) até 15 de Abril de 2006.
 
-3 - Os projectos relativos às acções de interesse geral serão apresentados até 15 de Fevereiro de cada ano junto do GPPAA, podendo este organismo, sempre que o entenda necessário, solicitar às DRA parecer sobre o interesse regional do projecto em questão.
+3 - Os projectos relativos às acções de interesse geral devem ser apresentados até 30 de Março de 2006 junto do GPPAA, podendo este organismo, sempre que entenda necessário, solicitar às DRA parecer sobre o interesse regional do projecto em questão.
+
+> Alterado pelo/a [Portaria n.º 307/2006](https://diariodarepublica.pt/dr/detalhe/portaria/307-2006-671919), publicado em 2006-03-28.
 
 5.º - 1 - São prioritários todos os projectos respeitantes às acções específicas.
 
@@ -181,9 +199,11 @@ d) Projectos que tenham em consideração a preservação e melhoria do ambiente
 
 e) Projectos que promovam o desenvolvimento de actividades e práticas potenciadoras do aproveitamento das condições edafo-climáticas regionais.
 
-6.º - 1 - O GPPAA procede à apreciação de todos os projectos pronunciando-se sobre a sua viabilidade técnica e económica e, durante o mês de Junho, após repartição definitiva do Fundo por cada Estado membro, procede à notificação de todos os beneficiários sobre o resultado definitivo da respectiva aprovação.
+6.º - 1 - O GPPAA procede à apreciação de todos os projectos, pronunciando-se sobre a sua viabilidade técnica e económica, e, durante o mês de Julho, após repartição definitiva do Fundo por cada Estado membro, procede à notificação de todos os beneficiários sobre o resultado definitivo da respectiva aprovação.
 
-2 - Os projectos serão executados no prazo máximo de dois anos a contar da data de notificação do beneficiário.
+2 - Os projectos devem ser executados no prazo máximo de 30 meses a contar da data de notificação do beneficiário.
+
+> Alterado pelo/a [Portaria n.º 307/2006](https://diariodarepublica.pt/dr/detalhe/portaria/307-2006-671919), publicado em 2006-03-28.
 
 7.º - O GPPAA procederá à elaboração de um quadro referente às estimativas de financiamento para a totalidade dos projectos seleccionados, comunicando-as à Comissão Europeia dentro do prazo previsto no Regulamento (CE) n.º [2182/2002](http://data.europa.eu/eli/reg/2002/2182/oj?locale=pt).
 

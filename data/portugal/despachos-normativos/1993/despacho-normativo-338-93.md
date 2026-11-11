@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-04-24'
+version_history:
+  file: despacho-normativo-338-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-10-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-04-24'
+    amending: pt:dre:179543:por
+    amending_title: Despacho Normativo n.º 45/96; Despacho Normativo n.º 25/2006
+    changes:
+    - Altera Artigo unidades 105-110
+    - Adita Artigo depois da unidade 131
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/338/1993/10/21/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:05:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 45/96; Despacho
+    Normativo n.º 25/2006. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-338-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -363,17 +379,19 @@ b) Nas disciplinas plurianuais, da média aritmética simples, arredondada às u
 
 41 - A aprovação em disciplinas do 12.º ano, sujeitas a exame final, verifica-se quando, na respectiva avaliação, o aluno obtém uma classificação final, igual ou superior a 10 valores, calculada nos termos do número seguinte.
 
-42 - A classificação final das disciplinas referidas no número anterior é o resultado da média ponderada, arredondada às unidades, das classificações obtidas na avaliação interna, relativa aos anos em que a disciplina foi ministrada, e da classificação obtida em exame final, de acordo com a seguinte fórmula:
+42 - A classificação final das disciplinas referidas no número anterior é o resultado da média ponderada, arredondada às unidades, da classificação obtida na avaliação interna final da disciplina e da classificação obtida em exame final, de acordo com a seguinte fórmula:
 
-CFD = (3CI + 2CE)/5
+CFD = (7 CIF + 3 CE)/10
 
 em que:
 
-CFD = Classificação final da disciplina;
+CFD - classificação final da disciplina;
 
-CI = Média aritmética simples, arredondada às unidades, das classificações obtidas na avaliação interna, referente aos anos em que a disciplina é ministrada;
+CIF - classificação interna final, que é a média aritmética simples, arredondada às unidades, das classificações obtidas na avaliação interna referente aos anos em que a disciplina foi ministrada;
 
-CE = Classificação em exame final.
+CE - classificação do exame final.
+
+> Alterado pelo/a [Despacho Normativo n.º 45/96](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/45-1996-179543), publicado em 1996-10-31.
 
 43 - A aprovação e classificação final em disciplinas terminais, qualquer que seja o ano a que pertencem, pode também obter-se, pelo recurso à realização exclusiva de provas de exame, nos termos dos números seguintes.
 
@@ -416,6 +434,14 @@ Conclusão e classificação do ensino secundário
 57 - Consideram-se aprovados e como tendo concluído o ensino secundário os alunos que, nos termos dos números anteriores, obtiveram aprovação em todas as disciplinas do plano de estudos do respectivo curso.
 
 58 - A classificação final do ensino secundário é o resultado da média aritmética simples, arredondada às unidades, da classificação final obtida pelo aluno em todas as disciplinas do respectivo curso.
+
+58.1 - A classificação interna de frequência obtida pelo aluno que efectuou a matrícula ao abrigo do disposto no n.º 1 do despacho n.º 16068/2005 (2.ª série), de 22 de Julho, é considerada para o cálculo da classificação final da disciplina, independentemente do ano de aprovação no curso já concluído.
+
+58.2 - A faculdade prevista no número anterior é exercida uma única vez para todo o curso.
+
+58.3 - Para os efeitos do disposto no n.º 58 do [Despacho Normativo n.º 338/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/338-1993-668953), de 21 de Outubro, é considerada a classificação final mais elevada obtida na disciplina.
+
+> Aditado pelo/a [Despacho Normativo n.º 25/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/25-2006-650365), publicado em 2006-04-19.
 
 Apoios e complementos educativos
 

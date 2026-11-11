@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-11-28'
+version_history:
+  file: portaria-697-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-10-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-11-28'
+    amending: pt:dre:594974:por
+    amending_title: Portaria n.º 1103/2000
+    changes:
+    - Altera Artigo unidades 7-7
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 11-20
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:37:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1103/2000. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-697-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,33 +151,37 @@ Assim, com fundamento no disposto no artigo 32.º do [Decreto-Lei n.º 274-A/88]
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º Os sinais e tabuletas a utilizar na balizagem dos terrenos em que o exercício da caça é proibido ou está sujeito a restrições, nos termos do disposto na [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e no [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto, são dos modelos definidos em anexo a este diploma e terão as dimensões e cores indicadas.
+1.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), publicado em 2000-11-23.
 
 2.º São aplicáveis na balizagem dos terrenos submetidos a regime cinegético especial os modelos do anexo a seguir indicados:
 
-a) Zonas de caça nacionais - modelo 1;
+a) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), publicado em 2000-11-23.
 
 b) Zonas de caça sociais - modelo 2;
 
-c) Zonas de caça associativas - modelo 3;
+c) (Revogada.)
 
-d) Zonas de caça turísticas - modelo 4.
+d) (Revogada.)
 
-3.º O sinal do modelo 5 do anexo é aplicável na balizagem dos terrenos onde, nos termos da legislação em vigor, é proibido o exercício da caça.
+3.º - (Revogado.)
 
-4.º O sinal do modelo 6 do anexo é aplicável na balizagem dos terrenos onde, nos termos da legislação em vigor, o exercício da caça só é permitido com consentimento de quem de direito.
+4.º - (Revogado.)
 
-5.º O sinal do modelo 7 do anexo é aplicável na balizagem das reservas de caça criadas ao abrigo do disposto no artigo 31.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto.
+5.º - (Revogado.)
 
-6.º - 1 - Os sinais e tabuletas definidos neste diploma devem ser colocados com a face sinalizada voltada para o exterior dos terrenos a balizar, na sua linha perimetral, em postes verticais, à altura mínima de 1,5 m do solo, em lugares bem visíveis, a distâncias iguais ou inferiores a 100 m, de forma que de cada um deles se aviste bem o imediato e o anterior, e ainda em todos os locais de passagem.
+6.º - (Revogado.)
 
-2 - No caso de sinalização de reservas e de terrenos submetidos a regime cinegético especial, nos pontos de inflexão dominantes e característicos da linha perimetral deverão ser colocados, respectivamente, dois sinais ou duas tabuletas num poste, assimetricamente em relação a este e fixados pelo lado menor, de tal modo que a sua linha de projecção sobre o solo coincida com as directrizes dominantes da linha perimetral.
+7.º - (Revogado.)
 
-7.º Quando um terreno a sinalizar for atravessado por uma estrada, além da sua linha perimetral devem ser sinalizadas as duas margens dessa estrada.
+8.º - (Revogado.)
 
-8.º Quando no interior de um terreno a sinalizar, ou em parte do seu perímetro, existir uma albufeira em que o exercício da caça não esteja sujeita aos condicionalismos cinegéticos do terreno circundante, deve a margem da albufeira ser sinalizada com os sinais ou tabuletas virados para a massa hídrica.
+9.º - (Revogado.)
 
-9.º Quando no interior de um terreno a sinalizar, ou em parte do seu perímetro, existir uma albufeira em que o exercício da caça esteja sujeito aos mesmos condicionalismos cinegéticos do terreno circundante, deve a margem da albufeira ser sinalizada com dois sinais ou tabuletas em cada poste, um virado para a albufeira e outro virado para o interior do terreno.
+> Alterado pelo/a [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), publicado em 2000-11-23.
 
 Ministério da Agricultura, Pescas e Alimentação.
 

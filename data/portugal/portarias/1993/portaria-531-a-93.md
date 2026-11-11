@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2020-01-01'
+version_history:
+  file: portaria-531-a-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-01-01'
+    amending: pt:dre:124324704:por
+    amending_title: Decreto-Lei n.º 132/2019
+    changes:
+    - Altera Artigo unidades 14-34
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/531-a/1993/05/20/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:58:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 132/2019. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-531-a-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -245,47 +260,15 @@ Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de E
 
 ## ANEXO II — Conteúdos funcionais
 
-1 - Técnico superior aduaneiro. - O técnico superior aduaneiro desenvolve funções consultivas e de investigação, estudo, concepção e adaptação de métodos e processos científico-técnicos na área fiscal e aduaneira, competindo-lhe, nomeadamente:
+1 - (Revogado.)
 
-Exercer os Cargos de direcção ou de chefia para que for nomeado;
+2 - (Revogado.)
 
-Efectuar estudos de carácter económico, jurídico e outros de natureza técnico-aduaneira e fiscal;
+3 - (Revogado.)
 
-Instruir os processos por crimes e contra-ordenações que lhe forem distribuídos;
+4 - (Revogado.)
 
-Proceder às auditorias, inspecções, exames e peritagens de que for incumbido;
-
-Efectuar as reverificações e as verificações que, pela sua natureza ou quaisquer outras circunstâncias, o justifiquem;
-
-Superintender e proceder a conferência final dos bilhetes de despacho e dos documentos que com eles se relacionem;
-
-Superintender e coordenar Os núcleos funcionais destinados a conferir maior eficácia aos actos inerentes ao controlo fiscal e ao desalfandegamento das mercadorias.
-
-2 - Técnico superior aduaneiro de laboratório. - O técnico Superior aduaneiro de laboratório desenvolve funções consultivas e de investigação, estudo e adaptação de métodos e processos cientifico-técnicos na área de laboratório, competindo-lhe, nomeadamente:
-
-Efectuar as análises que exijam maior complexidade, solicitadas pelos serviços implicados no processo de verificação de mercadorias, prevenção e repressão da fraude;
-
-Intervir no processo de classificação pautas dos diversos produtos químicos;
-
-Colaborar em estudos analíticos com outros laboratórios aduaneiros comunitários.
-
-3 - Técnico verificador aduaneiro. - O técnico verificados aduaneiro desenvolve funções de estudo e aplicação de métodos e processos de natureza técnica, competindo-lhe, nomeadamente:
-
-Exercer os cargos de chefia para que for nomeado;
-
-Proceder as fiscalizações de que for incumbido;
-
-Efectuar as verificações para que for nomeado;
-
-Orientar directamente a execução dos serviços de conferência de carga e descarga e de revisão pessoal, de bagagem e de meios de transporte.
-
-4 - Analista aduaneiro de laboratório. - O analista aduaneiro de laboratório desenvolve funções de estudo e aplicação de métodos e processos de natureza técnica, competindo-lhe, nomeadamente:
-
-Executar as análises que lhe forem distribuídas;
-
-Proceder à verificação da exactidão dos instrumentos;
-
-Coadjuvar o pessoal superior do laboratório nos trabalhos de estudo e pesquisa.
+> Alterado pelo/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30.
 
 5 - Secretário aduaneiro. - O secretário aduaneiro desenvolve funções de natureza executiva de aplicação técnica que se enquadram em directivas gerais técnico-administrativas, relativas ao expediente, arquivo, organização dos processos técnicos, fiscais e administrativos aduaneiros e contabilidade, tendo em vista assegurar o funcionamento dos serviços aduaneiros, competindo-lhe, nomeadamente:
 

@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-11-05'
+version_history:
+  file: portaria-320-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-11-05'
+    amending: pt:dre:451659:por
+    amending_title: Portaria n.º 635/83; Portaria n.º 824/85
+    changes:
+    - Adita Artigo depois da unidade 16
+    - Altera Artigo unidades 35-35
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:24:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 635/83; Portaria n.º
+    824/85. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1974/portaria-320-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,6 +189,26 @@ A falta de pagamento da 2.ª prestação até à data indicada terá por consequ
 
 11. A entrega dos documentos para instruir os processos de concurso de bolsas de estudo, isenção e redução de propinas pode ser feita dentro dos trinta primeiros dias a contar da data da inscrição, sem necessidade de requerimento.
 
+12 - (Revogado.)
+
+13 - (Revogado.)
+
+14 - (Revogado.)
+
+15 - (Revogado.)
+
+16 - (Revogado.)
+
+17 - (Revogado.)
+
+18 - (Revogado.)
+
+19 - (Revogado.)
+
+20 - (Revogado.)
+
+> Aditado pelo/a [Portaria n.º 824/85](https://diariodarepublica.pt/dr/detalhe/portaria/824-1985-171482), publicado em 1985-10-31.
+
 2.º - 1. A desistência ou perda de frequência durante o ano lectivo não isenta o aluno do pagamento da 2.ª prestação das propinas de inscrição.
 
 2. O requerimento de desistência não será aceite se não for paga a prestação a que se refere o número anterior.
@@ -209,7 +245,9 @@ Durante este período somente podem ser passadas certidões ou quaisquer documen
 
 3. Quando qualquer prazo termine em sábado, domingo ou dia feriado, o acto a que disser respeito pode ser validamente praticado no primeiro dia útil que se seguir.
 
-9.º Findos os prazos de inscrição, os alunos gozam, ainda, da faculdade concedida pelo artigo 69.º do [Decreto n.º 39001](https://diariodarepublica.pt/dr/detalhe/decreto/39001-1952-669494), de 20 de Novembro de 1952.
+9.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 635/83](https://diariodarepublica.pt/dr/detalhe/portaria/635-1983-451659), publicado em 1983-05-31.
 
 10.º - 1. Decorrido o prazo relativo a determinado acto, este só poderá ser validamente praticado em caso de justo impedimento.
 

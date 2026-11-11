@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-09-22'
+version_history:
+  file: portaria-996-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-11-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-09-22'
+    amending: pt:dre:375216:por
+    amending_title: Portaria n.º 888/82
+    changes:
+    - Altera Artigo unidades 54-54
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:34:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 888/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-996-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -268,7 +283,9 @@ deve ler-se:
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26900/39273929.pdf)
 
-Os lugares de motorista de pesados de 1.ª ou de 2.ª que vagarem pela integração do pessoal que exerce esta função no mapa anexo IV a que se refere o n.º 2 do artigo 57.º do [Decreto-Lei n.º 361/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1977-286520), de 1 de Setembro, acrescerão aos lugares de motorista de ligeiros de 1.ª ou de 2.ª
+Dos lugares de motorista de pesados de 1.ª classe ou de 2.ª classe que vagarem pela integração do pessoal que exerce esta função no âmbito do mapa anexo IV a que se refere o n.º 2 do artigo 57.º do [Decreto-Lei n.º 361/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1977-286520), de 1 de Setembro, acrescerão 10 aos lugares de motorista de ligeiros de 1.ª classe ou de 2.ª classe, mantendo-se 1 em motorista de pesados de 1.ª classe ou de 2.ª classe.
+
+> Alterado pelo/a [Portaria n.º 888/82](https://diariodarepublica.pt/dr/detalhe/portaria/888-1982-375216), publicado em 1982-09-22.
 
 8.º No quadro anexo XI da [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), Direcção-Geral das Indústrias Transformadoras Ligeiras, os lugares de adjunto administrativo e de secretária esteno-dactilógrafa serão extintos quando vagarem.
 

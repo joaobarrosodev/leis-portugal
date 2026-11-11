@@ -38,10 +38,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-01-01'
+version_history:
+  file: portaria-131-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-01'
+    amending: pt:dre:225834:por
+    amending_title: Portaria n.º 598/96; Lei n.º 66-B/2012
+    changes:
+    - Altera Artigo unidades 6-6
+    - Altera Artigo unidades 7-7
+    - Altera Artigo unidades 9-9
+    - Adita Artigo depois da unidade 11
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/131/1994/03/04/p/dre/pt/html
@@ -67,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:20:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 598/96; Lei n.º 66-B/2012.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-131-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,21 +147,35 @@ Considerando o disposto no artigo 5.º da [Lei n.º 8/90](https://diariodarepubl
 
 Manda o Governo, pelo Ministro das Finanças, o seguinte:
 
-1.º São consignadas à Direcção-Geral do Património do Estado (DGPE), quando por ela arrecadadas, as seguintes receitas:
+1.º São consignadas à Direcção-Geral do Património (DGP), quando por ela arrecadadas, as seguintes receitas:
 
-a) As quantias cobradas por serviços prestados, designadamente de avaliação de imóveis;
+> Alterado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19.
+
+a) As quantias cobradas por serviços prestados, designadamente de avaliação de imóveis, de acordo com tabela praticada pela DGP;
+
+> Alterado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19.
 
 b) O produto da venda de publicações e impressos;
 
-c) 5% do produto da alienação de bens em hasta pública promovida pela DGPE;
+c) (Revogada.)
+
+> Alterado pelo/a [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), publicado em 2012-12-31.
 
 d) Quaisquer outras receitas que lhe sejam atribuídas por lei, regulamento, acto ou contrato;
 
 e) Os saldos das receitas consignadas.
 
-2.º As receitas enumeradas no número anterior ficam afectas ao pagamento das despesas da DGPE, mediante a inscrição de dotações com compensação em receita.
+2.º Para os efeitos do disposto na alínea a) do n.º 1.º devem as entidades requerentes da avaliação proceder à entrega da quantia de 50000$00 à DGP, a título de antecipação de pagamento, no momento da apresentação do respectivo pedido.
 
-3.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1994.
+> Aditado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19.
+
+3.º As receitas enumeradas no número anterior ficam afectas ao pagamento das despesas da DGPE, mediante a inscrição de dotações com compensação em receita.
+
+> Alterado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19.
+
+4.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1994.
+
+> Alterado pelo/a [Portaria n.º 598/96](https://diariodarepublica.pt/dr/detalhe/portaria/598-1996-225834), publicado em 1996-10-19.
 
 Ministério das Finanças.
 

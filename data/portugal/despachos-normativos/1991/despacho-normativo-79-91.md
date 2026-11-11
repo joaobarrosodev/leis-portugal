@@ -38,10 +38,45 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-04-18'
+version_history:
+  file: despacho-normativo-79-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-04-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-04-18'
+    amending: pt:dre:264749:por
+    amending_title: Despacho Normativo n.º 247/94; Despacho Normativo n.º 247/94
+    changes:
+    - Altera Artigo unidades 7-7
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 15-15
+    - Altera Artigo unidades 18-18
+    - Altera Artigo unidades 19-19
+    - Altera Artigo unidades 20-20
+    - Altera Artigo unidades 21-21
+    - Altera Artigo unidades 23-23
+    - Altera Artigo unidades 24-24
+    - Altera Artigo unidades 25-25
+    - Altera Artigo unidades 26-26
+    - Altera Artigo unidades 29-29
+    - Altera Artigo unidades 30-30
+    - Altera Artigo unidades 31-31
+    - Altera Artigo unidades 33-33
+    - Altera Artigo unidades 34-34
+    - Altera Artigo unidades 35-35
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/79/1991/04/05/p/dre/pt/html
@@ -67,7 +102,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:53:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 247/94; Despacho
+    Normativo n.º 247/94. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1991/despacho-normativo-79-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,63 +160,107 @@ I - Nas áreas do Parque Nacional Peneda-Gerês e dos parques naturais, situados
 
 a) Agricultores individuais:
 
-i) Para as primeiras 10 CN (1 a 10) - 66 ECU/CN;
+i) Para as primeiras 10 CN (1 a 10) - 78 ECU/CN;
 
-ii) Para as 10 CN seguintes (11 a 20) - 48 ECU/CN;
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
-iii) Para as 10 CN seguintes (21 a 30) - 36 ECU/CN;
+ii) Para as 10 CN seguintes (11 a 20) - 56,8 ECU/CN;
 
-iv) Por hectare de superfície cultivada, observado o disposto no n.º 8 do artigo 48.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, e apenas para as zonas de montanha - 36 ECU/ha.
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
+
+iii) Para as 10 CN seguintes (21 a 30) - 42,6 ECU/CN;
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
+
+iv) Por hectare de superfície cultivada, observado o disposto no n.º 8 do artigo 48.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, e apenas para as zonas de montanha - 42,6 ECU/ha.
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
 b) Agrupamentos de agricultores:
 
-i) Para as primeiras 30 CN (1 a 30) - 66 ECU/CN;
+i) Para as primeiras 30 CN (1 a 30) - 78 ECU/CN;
 
-ii) Para as 30 CN seguintes (31 a 60) - 48 ECU/CN;
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
-iii) Para as 30 CN seguintes (61 a 90) - 36 ECU/CN;
+ii) Para as 30 CN seguintes (31 a 60) - 56,8 ECU/CN;
 
-iv) De 1 ha a 100 ha de superfície cultivada, observado o disposto no n.º 8 do artigo 48.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, e apenas para as zonas de montanha - 36 ECU/ha.
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
+
+iii) Para as 30 CN seguintes (61 a 90) - 42,6 ECU/CN;
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
+
+iv) De 1 ha a 100 ha de superfície cultivada, observado o disposto no n.º 8 do artigo 48.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro, e apenas para as zonas de montanha - 42,6 ECU/ha.
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
 II - Nas regiões de montanha, excepto nos casos referidos em I
 
 a) Agricultores individuais:
 
-i) Para as primeiras 10 CN (1 a 10) - 55 ECU/CN;
+i) Para as primeiras 10 CN (1 a 10) - 65 ECU/CN;
 
-ii) Para as 10 CN seguintes (11 a 20) - 40 ECU/CN;
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
-iii) Para as 10 CN seguintes (21 a 30) - 30 ECU/CN;
+ii) Para as 10 CN seguintes (11 a 20) - 47,3 ECU/CN;
 
-iv) Por hectare de superfície cultivada, observado o disposto no n.º 8 do artigo 48.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro - 30 ECU/ha.
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
+
+iii) Para as 10 CN seguintes (21 a 30) - 35,5 ECU/CN;
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
+
+iv) Por hectare de superfície cultivada, observado o disposto no n.º 8 do artigo 48.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro - 35,5 ECU/ha.
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
 b) Agrupamentos de agricultores:
 
-i) Para as primeiras 30 CN (1 a 30) - 55 ECU/CN;
+i) Para as primeiras 30 CN (1 a 30) - 65 ECU/CN;
 
-ii) Para as 30 CN seguintes (31 a 60) - 40 ECU/CN;
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
-iii) Para as 30 CN seguintes (61 a 90) - 30 ECU/CN;
+ii) Para as 30 CN seguintes (31 a 60) - 47,3 ECU/CN;
 
-iv) De 1 ha a 100 ha de superfície cultivada, observado o disposto no n.º 8 do artigo 48.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro - 30 ECU/ha.
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
+
+iii) Para as 30 CN seguintes (61 a 90) - 35,5 ECU/CN;
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
+
+iv) De 1 ha a 100 ha de superfície cultivada, observado o disposto no n.º 8 do artigo 48.º do [Decreto-Lei n.º 81/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1991-487700), de 19 de Fevereiro - 35,5 ECU/ha.
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
 III - Nas restantes regiões desfavorecidas, excepto nos casos referidos em I
 
 a) Agricultores individuais:
 
-i) Para as primeiras 10 CN (1 a 10) - 50 ECU/CN;
+i) Para as primeiras 10 CN (1 a 10) - 59,1 ECU/CN;
 
-ii) Para as 10 CN seguintes (11 a 20) - 36 ECU/CN;
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
-iii) Para as 10 CN seguintes (21 a 30) - 25 ECU/CN.
+ii) Para as 10 CN seguintes (11 a 20) - 42,6 ECU/CN;
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
+
+iii) Para as 10 CN seguintes (21 a 30) - 29,6 ECU/CN.
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
 b) Agrupamentos de agricultores:
 
-i) Para as primeiras 30 CN (1 a 30) - 50 ECU/CN;
+i) Para as primeiras 30 CN (1 a 30) - 59,1 ECU/CN;
 
-ii) Para as 30 CN seguintes (31 a 60) - 36 ECU/CN;
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
-iii) Para as 30 CN seguintes (61 a 90) - 25 ECU/CN.
+ii) Para as 30 CN seguintes (31 a 60) - 42,6 ECU/CN;
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
+
+iii) Para as 30 CN seguintes (61 a 90) - 29,6 ECU/CN.
+
+> Alterado pelo/a [Despacho Normativo n.º 247/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/247-1994-264749), publicado em 1994-04-18.
 
 2 - No cálculo das indemnizações compensatórias a atribuir deverão ser respeitadas as seguintes relações de CN por hectare de superfície forrageira:
 

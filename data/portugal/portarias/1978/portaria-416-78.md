@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-01-09'
+version_history:
+  file: portaria-416-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-07-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-01-09'
+    amending: pt:dre:508778:por
+    amending_title: Portaria n.º 26-Z/80
+    changes:
+    - Altera Artigo unidades 14-14
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:40:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 26-Z/80. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-416-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,6 +146,8 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano
 
 3.º - 1 - É fixada em 10% a comissão de garantia devida pelas instituições de crédito nacionais, a que se refere o n.º 2 do artigo 7.º do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), de 19 de Junho.
 
-2 - A importância devida pelas instituições de crédito, a título de comissão de garantia, será paga diferidamente em três prestações de 25%, 50% e 25%, que se vencerão respectivamente nos dias 30 de Novembro dos anos de 1978, 1979 e 1980.
+2 - A importância devida pelas instituições de crédito, a título de comissão de garantia, será paga diferidamente em três prestações de 25%, 50% e 25%, que se vencerão, respectivamente, nos dias 30 de Novembro imediatamente anteriores às primeira, segunda e terceira datas de vencimento do juro remuneratório do empréstimo obrigacionista.
+
+> Alterado pelo/a [Portaria n.º 26-Z/80](https://diariodarepublica.pt/dr/detalhe/portaria/26-z-1980-508778), publicado em 1980-01-09.
 
 Ministério das Finanças e do Plano, 7 de Julho de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio.

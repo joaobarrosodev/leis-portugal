@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-11-19'
+version_history:
+  file: portaria-20921.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-11-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-11-19'
+    amending: pt:dre:412019:por
+    amending_title: Portaria n.º 820/73
+    changes:
+    - Altera Artigo unidades 86-86
+    - Adita Artigo depois da unidade 88
+    - Altera Artigo unidades 136-136
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:52:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 820/73. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1964/portaria-20921.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -287,11 +304,19 @@ d) Para as flores e produtos que obedeçam às normas fixadas para a categoria �
 
 23.º Sempre que as transacções tenham lugar nos mercados abastecedores, os preços ali praticados consideram-se como de venda ao comércio retalhista, mesmo para os produtos de que trata este diploma e que venham ainda a ser comercializados posteriormente entre armazenistas, pelo que, em tal caso, só podem ser acrescidos das percentagens referidas nas alíneas b) e c) do n.º 20.º e das despesas previstas no n.º 21.º e pela forma neles expressa.
 
-24.º Na comercialização por grosso dos produtos de que trata este diploma, quer nos mercados abastecedores, quer fora deles, é obrigatório, para o vendedor ou seu mandatário, passar documento de venda, do qual constem os nomes e moradas dos compradores e vendedores, a qualidade em que intervêm, a indicação da quantidade, espécie, variedade (sempre que esta seja fàcilmente identificável) e preço e, ainda, a categoria comercial dos mesmos produtos, documento esse que o comprador terá de apresentar sempre que lhe seja exigido por quem de direito.
+24.º Na comercialização por groso dos produtos de que trata este diploma, quer nos mercados abastecedores, quer fora deles, é obrigatório, para o vendedor ou seu mandatário, passar documento de venda, do qual constem os nomes e moradas dos compradores e vendedores, a qualidade em que intervêm, a indicação da quantidade, espécie, variedade (sempre que esta seja facilmente identificável), preço e data da transacção e ainda a categoria comercial dos mesmos produtos, documento esse que o comprador terá de apresentar sempre que lhe seja exigido por quem de direito.
+
+> Alterado pelo/a [Portaria n.º 820/73](https://diariodarepublica.pt/dr/detalhe/portaria/820-1973-412019), publicado em 1973-11-19.
 
 § 1.º Considera-se como inexistente o documento de venda referido neste número, quando não contenha todos os elementos nele mencionados.
 
 § 2.º A não apresentação pelo comprador do documento de venda, a que alude o presente número, designadamente por não lhe ter sido passado pelo vendedor ou por se ter extraviado, não constitui, para aquele, circunstância dirimente da sua responsabilidade criminal.
+
+§ 3.º Independentemente do disposto no parágrafo anterior, cabe ainda ao comprador a obrigação de identificar o vendedor.
+
+§ 4.º Em todos os mercados abastecedores que venham a adoptar novos processos mecanográficos na passagem dos documentos de compra e venda dos produtos de que trata este diploma o nome das respectivas espécies, bem como o do comprador e sua morada poderão ser substituídos por números correspondentes a um código previamente estabelecido e aprovado pela Inspecção-Geral das Actividades Económicas.
+
+> Aditado pelo/a [Portaria n.º 820/73](https://diariodarepublica.pt/dr/detalhe/portaria/820-1973-412019), publicado em 1973-11-19.
 
 25.º No comércio dos produtos de que trata este diploma, quer por grosso, quer a retalho, deverão ser observadas as normas que, por despacho do Secretário de Estado do Comércio, vierem a ser estabelecidas quanto a classificação, taras a utilizar, formas de acondicionamento e de exposição.
 
@@ -387,7 +412,9 @@ e) Armazenagem de taras vazias, por dia ... $05
 
 47.º A infracção do disposto no n.º 16.º será punida nos termos do artigo 34.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668).
 
-48.º Constituem contravenções puníveis com a multa de 500$00 a 10000$00 as infracções do disposto nos n.os 4.º, 5.º, 6.º, 7.º, 8.º, 12.º, 17.º, 18.º, 19.º, 24.º, 32.º, 33.º e 34.º
+48.º Constituem contravenções puníveis com a multa de 1000$00 a 10000$00 as infracções do disposto nos n.os 4.º, 5.º, 6.º, 7.º, 8.º, 12.º, 17.º, 18.º, 19.º, 24.º, 32.º, 33.º e 34.º
+
+> Alterado pelo/a [Portaria n.º 820/73](https://diariodarepublica.pt/dr/detalhe/portaria/820-1973-412019), publicado em 1973-11-19.
 
 49.º Independentemente das sanções penais aplicáveis, as infracções do disposto na presente portaria cometidas pelas entidades inscritas na Junta Nacional das Frutas ou nos grémios obrigatórios existentes serão punidas, conforme a gravidade da falta praticada, com as sanções disciplinares previstas no artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 43861](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43861-1961-173157), de 16 de Agosto de 1961.
 

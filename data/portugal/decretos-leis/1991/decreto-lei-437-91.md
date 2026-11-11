@@ -38,10 +38,63 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-09-23'
+version_history:
+  file: decreto-lei-437-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-11-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-09-23'
+    amending: pt:dre:286105:por
+    amending_title: Decreto-Lei n.º 412/98; Decreto-Lei n.º 248/2009
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/437/1991/11/08/p/dre/pt/html
@@ -67,7 +120,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:13:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 412/98; Decreto-Lei
+    n.º 248/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-437-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -215,59 +269,45 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objecto
 
-1 - O presente diploma aprova o regime legal da carreira de enfermagem.
+(Revogado.)
 
-2 - Ao pessoal integrado nesta carreira aplica-se o disposto no [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, com as especialidades constantes deste diploma.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 2.º — Âmbito de aplicação
 
-1 - O presente diploma aplica-se aos enfermeiros providos em lugares de quadro ou mapas de pessoal dos estabelecimentos e serviços dependentes do Ministério da Saúde.
+(Revogado.)
 
-2 - O disposto no presente diploma é ainda aplicável aos enfermeiros dos organismos dependentes de outros ministérios, ou por eles tutelados, onde se encontra prevista a carreira de enfermagem, e às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências administrativas dos serviços regionais.
-
-3 - As normas previstas neste diploma são igualmente aplicáveis aos agentes dos estabelecimentos e serviços referidos nos números anteriores.
-
-4 - Mediante decreto-lei, o regime aprovado pelo presente diploma poderá ainda aplicar-se a instituições privadas de solidariedade social.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 3.º — Estrutura da carreira
 
-1 - A carreira de enfermagem aplica-se a três áreas de actuação correspondentes, respectivamente, à prestação de cuidados, gestão e assessoria técnica.
+(Revogado.)
 
-2 - A presente carreira estrutura-se e desenvolve-se por categorias, agrupadas em níveis, as quais implicam formação adequada e a que correspondem funções diferenciadas pela sua natureza, âmbito e nível remuneratório.
-
-3 - Os enfermeiros detentores de categorias integradas num determinado nível podem concorrer a qualquer das categorias integradas no nível seguinte, desde que possuam formação adequada.
-
-4 - Os enfermeiros detentores de categorias integradas no mesmo nível podem ainda concorrer a categoria diferente do mesmo nível, sem exigência do tempo de serviço na respectiva categoria, desde que possuam formação adequada.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 4.º — Níveis e categorias
 
-1 - São os seguintes os níveis e categorias da carreira de enfermagem:
+(Revogado.)
 
-O nível 1, que integra as categorias de enfermeiro e de enfermeiro graduado;
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 412/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1998-286105), publicado em 1998-12-30.
 
-O nível 2, que integra as categorias de enfermeiro especialista e de enfermeiro-chefe;
-
-O nível 3, que integra as categorias de enfermeiro-supervisor e de assessor técnico regional de enfermagem;
-
-O nível 4, que integra a categoria de assessor técnico de enfermagem.
-
-2 - Às categorias indicadas nos números anteriores correspondem as remunerações base constantes da tabela I anexa ao presente diploma, que dele faz parte integrante.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 5.º — Remuneração base
 
-1 - A remuneração base mensal correspondente ao índice 100 da tabela I anexa ao presente diploma consta de portaria do Primeiro-Ministro e do Ministro das Finanças.
+(Revogado.)
 
-2 - A remuneração base mensal do cargo de enfermeiro-director corresponde aos índices constantes da tabela II anexa ao presente diploma, que dele faz parte integrante.
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 412/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1998-286105), publicado em 1998-12-30.
 
-3 - Sempre que os enfermeiros integrem órgãos de gestão de estabelecimentos ou serviços, serão remunerados nos termos do que estiver previsto para os membros daqueles órgãos.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 6.º — Áreas de actuação
 
-1 - À área de actuação da prestação de cuidados correspondem as categorias de enfermeiro, de enfermeiro graduado e de enfermeiro especialista.
+(Revogado.)
 
-2 - À área de actuação da gestão correspondem as categorias de enfermeiro-chefe e de enfermeiro-supervisor e o cargo de enfermeiro-director.
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 412/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1998-286105), publicado em 1998-12-30.
 
-3 - À área de actuação da assessoria técnica correspondem as categorias de assessor técnico regional de enfermagem e de assessor técnico de enfermagem.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ### CAPÍTULO II — Conteúdo funcional
 
@@ -275,215 +315,25 @@ O nível 4, que integra a categoria de assessor técnico de enfermagem.
 
 ###### Artigo 7.º — Conteúdo funcional das categorias de enfermeiro, enfermeiro graduado e enfermeiro especialista
 
-1 - Ao enfermeiro do nível 1 compete:
+(Revogado.)
 
-a) Colher dados para identificação das necessidades em cuidados de enfermagem, com base num modelo teórico de enfermagem;
-
-b) Elaborar o plano de cuidados de enfermagem em função dos problemas identificados e estabelecer prioridades, tendo em conta os recursos disponíveis;
-
-c) Executar os cuidados de enfermagem planeados, favorecendo um clima de confiança que suscite a implicação do utente (indivíduo, família, grupos e comunidade) nos cuidados de enfermagem e integrando um processo educativo que promova o autocuidado;
-
-d) Integrar no planeamento e execução dos cuidados de enfermagem ao indivíduo e à família a preparação de alta ou internamento hospitalar;
-
-e) Responsabilizar-se por prestar cuidados de enfermagem à família, como unidade de cuidados, no âmbito dos cuidados de saúde primários;
-
-f) Participar nas acções que visem a articulação entre os cuidados de saúde primários e os cuidados de saúde diferenciados;
-
-g) Avaliar os cuidados de enfermagem prestados, efectuando os respectivos registos e analisando os factores que contribuíram para os resultados obtidos;
-
-h) Reavaliar as necessidades do utente em cuidados de enfermagem;
-
-i) Realizar ou colaborar em estudos sobre problemas de enfermagem, visando a melhoria dos cuidados de enfermagem;
-
-j) Utilizar os resultados de estudos e de trabalhos de investigação para a melhoria dos cuidados de enfermagem;
-
-l) Colaborar na formação realizada na unidade de cuidados.
-
-2 - Ao enfermeiro graduado compete executar o conteúdo funcional descrito para a categoria de enfermeiro (nível 1) e ainda as funções de orientação e coordenação de equipas de enfermagem na prestação de cuidados.
-
-3 - Ao enfermeiro especialista compete executar o conteúdo funcional inerente às categorias de enfermeiro (nível 1) e de enfermeiro graduado e ainda o seguinte:
-
-a) Prestar os cuidados de enfermagem que requerem um nível mais profundo de conhecimentos e habilidades, actuando, especificamente, junto do utente (indivíduo, família ou grupos) em situações de crise ou risco, no âmbito da especialidade que possui;
-
-b) Estabelecer prioridades de intervenção do enfermeiro no atendimento do doente em situação de urgência;
-
-c) Definir e utilizar indicadores que lhe permitam, assim como à equipa de enfermagem, avaliar, de uma forma sistemática, as mudanças verificadas na situação de saúde do utente (indivíduo, família, grupos e comunidade) e introduzir as medidas correctivas julgadas necessárias;
-
-d) Responsabilizar-se pela área de enfermagem, nas equipas multiprofissionais, no que diz respeito ao diagnóstico de saúde da comunidade e à consecução das intervenções de enfermagem dele decorrentes;
-
-e) Emitir pareceres sobre localização, instalações e equipamento, pessoal e organização de unidades prestadoras de cuidados, na área da sua especialidade;
-
-f) Colaborar na determinação de custos/benefícios na área da prestação de cuidados;
-
-g) Responsabilizar-se pela formação em serviço do pessoal de enfermagem e outro pessoal da unidade de cuidados, elaborando, em articulação com o enfermeiro-chefe, o respectivo plano anual de actividades;
-
-h) Elaborar o relatório das actividades de formação em serviço;
-
-i) Colaborar nos projectos de formação realizados no estabelecimento ou serviço;
-
-j) Realizar ou colaborar em trabalhos de investigação em enfermagem, visando a melhoria dos cuidados de enfermagem.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 #### SECÇÃO II — Área de actuação da gestão
 
 ###### Artigo 8.º — Conteúdo funcional das categorias de enfermeiro-chefe e de enfermeiro-supervisor e do cargo de enfermeiro-director
 
-1 - Ao enfermeiro-chefe compete, a nível de uma unidade de cuidados:
+(Revogado.)
 
-a) Integrar o órgão de gestão das unidades de cuidados, sempre que este for colegial;
-
-b) Promover e colaborar na definição ou actualização de normas e critérios para a prestação de cuidados de enfermagem;
-
-c) Determinar as necessidades em enfermeiros, tendo em vista os cuidados de enfermagem a prestar, cabendo-lhe a responsabilidade de os distribuir e adequar às necessidades existentes, nomeadamente através da elaboração de horários e planos de férias;
-
-d) Propor o nível e tipo de qualificações exigidas ao pessoal de enfermagem, em função dos cuidados de enfermagem a prestar;
-
-e) Participar na elaboração do plano e do relatório globais da unidade de cuidados, desenvolvendo, de forma articulada, o plano e o relatório anuais, referentes às actividades de enfermagem;
-
-f) Incrementar métodos de trabalho que favoreçam um melhor nível de desempenho do pessoal de enfermagem e responsabilizar-se pela garantia da qualidade dos cuidados de enfermagem prestados;
-
-g) Planear e concretizar, com a equipa de enfermagem, acções que visem a melhoria da qualidade dos cuidados de enfermagem, procedendo à respectiva avaliação;
-
-h) Determinar os recursos materiais necessários para prestar cuidados de enfermagem;
-
-i) Participar nas comissões de escolha de material e equipamento para prestação de cuidados na unidade;
-
-j) Conhecer os custos dos recursos utilizados na prestação de cuidados na unidade e encontrar mecanismos que garantam a sua utilização correcta e o controlo dos gastos efectuados;
-
-l) Participar na determinação de custos/benefícios no âmbito dos cuidados de enfermagem;
-
-m) Favorecer boas relações interpessoais na equipa de enfermagem e outro pessoal;
-
-n) Avaliar o pessoal de enfermagem da unidade de cuidados e colaborar na avaliação de outro pessoal;
-
-o) Promover a divulgação na unidade de cuidados, da informação com interesse para o pessoal de enfermagem;
-
-p) Criar condições para que sejam efectuados estudos e trabalhos de investigação pelo pessoal de enfermagem da unidade de cuidados;
-
-q) Realizar ou colaborar em trabalhos de investigação sobre a gestão de serviços de enfermagem/cuidados de enfermagem;
-
-r) Utilizar os resultados de estudos e trabalhos de investigação na melhoria da gestão do serviço de enfermagem da unidade de cuidados;
-
-s) Responsabilizar-se pela concretização, na unidade de cuidados, das políticas ou directivas formativas emanadas pelo órgão de gestão do estabelecimento ou serviço;
-
-t) Responsabilizar-se pela concretização dos compromissos assumidos pelo órgão de gestão do estabelecimento ou serviço com os estabelecimentos de ensino, relativamente à formação básica e pós-básica de enfermeiros;
-
-u) Criar condições para a realização de actividades de formação de outro pessoal na unidade de cuidados e colaborar nessa formação, quando tal se justifique.
-
-2 - Ao enfermeiro-supervisor compete, a nível de um sector (conjunto de unidades prestadoras de cuidados):
-
-a) Colaborar com o enfermeiro-director na definição dos padrões de cuidados de enfermagem para o estabelecimento ou serviço;
-
-b) Promover o intercâmbio de experiências dos enfermeiros-chefes na gestão das unidades de cuidados, coordenando reuniões periódicas;
-
-c) Orientar os enfermeiros-chefes na definição de normas e critérios para prestar cuidados de enfermagem, visando a concretização dos padrões de cuidados de enfermagem definidos para o estabelecimento ou serviço;
-
-d) Colaborar com o enfermeiro-director na admissão de enfermeiros e sua distribuição pelas unidades de cuidados, tendo em conta as necessidades qualitativas e quantitativas;
-
-e) Colaborar com o enfermeiro-director no estabelecimento de critérios referentes à mobilidade de pessoal de enfermagem;
-
-f) Avaliar os enfermeiros-chefes e participar na avaliação de enfermeiros de outras categorias;
-
-g) Elaborar um plano de acção anual, relativamente ao seu sector, em articulação com os dos enfermeiros-chefes desse sector, assim como o respectivo relatório;
-
-h) Colaborar com o enfermeiro-director na avaliação da qualidade dos cuidados de enfermagem prestados no estabelecimento ou serviço, tendo em conta os recursos humanos e materiais das unidades de cuidados;
-
-i) Orientar os enfermeiros-chefes relativamente à avaliação da qualidade dos cuidados de enfermagem prestados;
-
-j) Participar nas comissões de escolha de material e equipamento a adquirir para prestação de cuidados;
-
-l) Colaborar na definição de prioridades para projectos de investigação previstos para o estabelecimento ou serviço;
-
-m) Realizar ou colaborar em trabalhos de investigação sobre gestão de serviços de enfermagem;
-
-n) Divulgar pelas unidades de cuidados do seu sector a informação com interesse para o respectivo pessoal de enfermagem;
-
-o) Utilizar os resultados dos trabalhos de investigação na melhoria da gestão das unidades de cuidados;
-
-p) Participar nos estudos que visem a determinação de custos/benefícios, no âmbito dos cuidados de enfermagem;
-
-q) Colaborar com o enfermeiro-director na definição, divulgação e avaliação das políticas ou directivas formativas do estabelecimento ou serviço;
-
-r) Colaborar com o enfermeiro-director na elaboração de protocolos com os estabelecimentos de ensino relativamente à formação básica e pós-básica de enfermeiros;
-
-s) Promover a concretização das políticas ou directivas formativas do estabelecimento ou serviço.
-
-3 - Ao enfermeiro-director de serviço de enfermagem, a nível de um estabelecimento ou serviço prestador de cuidados de saúde ou região de saúde, compete:
-
-a) Integrar os órgãos de gestão;
-
-b) Elaborar um plano de acção anual para o serviço de enfermagem em articulação com o plano global do estabelecimento, serviço ou região de saúde;
-
-c) Definir padrões de cuidados de enfermagem e indicadores de avaliação do serviço de enfermagem do estabelecimento ou serviço;
-
-d) Definir as políticas ou directivas formativas em enfermagem;
-
-e) Definir as políticas no âmbito da investigação;
-
-f) Compatibilizar os objectivos do estabelecimento ou serviço com a filosofia e objectivos da profissão de enfermagem;
-
-g) Elaborar propostas referentes a quadros ou mapas de pessoal de enfermagem;
-
-h) Elaborar propostas referentes à admissão de enfermeiros e proceder à sua distribuição;
-
-i) Participar na mobilidade de enfermeiros, mediante critério previamente estabelecidos;
-
-j) Criar e ou manter um efectivo sistema de classificação de utentes/doentes que permita determinar necessidades em cuidados de enfermagem;
-
-l) Coordenar estudos para determinação de custos/benefícios no âmbito dos cuidados de enfermagem;
-
-m) Coordenar o trabalho dos enfermeiros-supervisores;
-
-n) Avaliar os enfermeiros-supervisores e colaborar na avaliação de enfermeiros de outras categorias.
-
-4 - Ao enfermeiro-director de serviço de enfermagem, a nível de região de saúde, compete ainda:
-
-a) Orientar, coordenar, supervisar e avaliar os assessores técnicos regionais de enfermagem;
-
-b) Avaliar se os assessores técnicos regionais de enfermagem em comissão de serviço revelam, ao fim dos dois anos, aptidão para o lugar e, em caso afirmativo, propor o seu provimento em lugar do quadro.
-
-5 - Ao assessor técnico de enfermagem que exerça funções de enfermeiro-director nos serviços de âmbito nacional compete:
-
-a) Participar na definição das políticas de saúde;
-
-b) Elaborar anualmente o plano e o relatório das actividades do serviço, em articulação com o plano e relatório globais do respectivo organismo onde se integra;
-
-c) Orientar, coordenar, supervisar e avaliar os assessores técnicos de enfermagem e outro pessoal do serviço;
-
-d) Avaliar a eficácia e a eficiência do respectivo serviço;
-
-e) Avaliar se os assessores técnicos de enfermagem em comissão de serviço revelam, ao fim dos dois anos, aptidão para o lugar e, em caso afirmativo, propor o seu provimento em lugar do quadro;
-
-f) Promover estudos que visem a melhoria do exercício de enfermagem;
-
-g) Estabelecer as necessárias ligações entre o serviço que coordena e o organismo central onde este serviço está integrado.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 #### SECÇÃO III — Área de actuação da assessoria
 
-###### Artigo 9.º — Conteúdo funcional das categorias de assessor técnico regional de enfermagem e assessor técnico de enfermagem
+###### Artigo 9.º — Conteúdo funcional do cargo de assessor de enfermagem
 
-Ao assessor técnico regional de enfermagem e ao assessor técnico de enfermagem compete, respectivamente, a nível de serviços de âmbito regional ou a nível de serviços de âmbito nacional:
+(Revogado.)
 
-a) Promover e participar na avaliação das necessidades da população e dos recursos existentes em matéria de enfermagem;
-
-b) Determinar os recursos humanos necessários em função das necessidades existentes;
-
-c) Definir critérios que permitam adequar os recursos humanos existentes às necessidades identificadas, mediante prioridades estabelecidas;
-
-d) Estudar e propor a política geral em matéria de exercício da enfermagem e formação contínua em enfermagem, de acordo com as necessidades do País;
-
-e) Participar nos estudos necessários à reestruturação, actualização e valorização da carreira de enfermagem;
-
-f) Conceber, promover, realizar e participar em trabalhos de investigação que visem o progresso científico da enfermagem em particular e da saúde em geral;
-
-g) Emitir pareceres técnicos e prestar esclarecimentos e informações em matéria de enfermagem, tendo em vista preparar a tomada de decisão sobre medidas de política e gestão;
-
-h) Elaborar e divulgar normas orientadoras para os serviços de enfermagem de estabelecimentos e outras instituições de saúde, assim como proceder ao controlo da sua aplicação;
-
-i) Promover acções que visem a coordenação dos serviços de enfermagem dos estabelecimentos e outras instituições de saúde;
-
-j) Dar apoio técnico aos serviços de enfermagem, designadamente através de contactos directos nos respectivos estabelecimentos e outras instituições de saúde;
-
-l) Efectuar auditorias no âmbito do exercício da enfermagem, consoante as competências do serviço a que pertence.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ### CAPÍTULO III — Ingresso, acesso e progressão
 
@@ -491,427 +341,201 @@ l) Efectuar auditorias no âmbito do exercício da enfermagem, consoante as comp
 
 ###### Artigo 10.º — Condições de ingresso
 
-O ingresso na carreira de enfermagem faz-se:
+(Revogado.)
 
-a) Pela categoria de enfermeiro (nível 1), de entre os que possuam o título profissional de enfermeiro;
-
-b) Pela categoria de enfermeiro especialista, de entre os enfermeiros habilitados com um curso de estudos superiores especializados em enfermagem ou equivalente que habilite para a prestação de cuidados de enfermagem numa área de especialização em enfermagem.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 #### SECÇÃO II — Acesso na carreira
 
-###### Artigo 11.º — Promoção
+###### Artigo 11.º — Condições de acesso
 
-1 - O acesso à categoria de enfermeiro graduado faz-se de entre os enfermeiros (nível 1) com três anos de serviço na categoria e avaliação de desempenho de Satisfaz.
+(Revogado.)
 
-2 - O acesso à categoria de enfermeiro especialista faz-se:
-
-a) De entre os enfermeiros graduados habilitados com um curso de especialização em enfermagem estruturado nos termos do n.º 1 do artigo 14.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, ou com um curso de estudos superiores especializados em enfermagem que habilite para a prestação de cuidados de enfermagem numa área de especialização em enfermagem, independentemente do tempo na categoria, e avaliação de desempenho de Satisfaz;
-
-b) De entre os enfermeiros (nível 1) habilitados com um curso de estudos superiores especializados em enfermagem ou equivalente que habilite para a prestação de cuidados de enfermagem numa área de especialização em enfermagem, independentemente do tempo na categoria, e avaliação de desempenho de Satisfaz;
-
-c) De entre os enfermeiros (nível 1) habilitados com um curso de especialização em enfermagem estruturado nos termos do n.º 1 do artigo 14.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, com três anos de serviço na categoria e avaliação de desempenho de Satisfaz.
-
-3 - O acesso à categoria de enfermeiro-chefe faz-se de entre os enfermeiros (nível 1) com seis anos na categoria, os enfermeiros graduados e os enfermeiros especialistas, independentemente do tempo na categoria, desde que detentores de seis anos de exercício profissional, com avaliação de desempenho de Satisfaz e que possuam uma das seguintes habilitações:
-
-a) Curso de estudos superiores especializados em enfermagem que habilite para a gestão dos serviços de enfermagem;
-
-b) Curso de administração de serviços de enfermagem ou a secção de administração do curso de enfermagem complementar;
-
-c) Um curso de especialização em enfermagem estruturado nos termos do n.º 1 do artigo 14.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio;
-
-d) Curso no âmbito da gestão que confira, só por si, pelo menos, o grau académico de bacharel.
-
-4 - O acesso à categoria de enfermeiro-supervisor faz-se de entre os enfermeiros-chefes e os enfermeiros especialistas com três anos na respectiva categoria ou no conjunto das duas categorias, com avaliação de desempenho de Satisfaz e que possuam, pelo menos, uma das seguintes habilitações:
-
-a) Curso de estudos superiores especializados em enfermagem que habilite para a gestão dos serviços de enfermagem;
-
-b) Curso de administração de serviços de enfermagem ou a secção de administração do curso de enfermagem complementar;
-
-c) Curso no âmbito da gestão que confira, pelo menos, o grau académico de licenciado.
-
-5 - O acesso à categoria de assessor técnico regional de enfermagem faz-se de entre os enfermeiros-supervisores, independentemente do tempo na categoria, os enfermeiros-chefes e os enfermeiros especialistas com três anos na respectiva categoria ou no conjunto das duas categorias, com avaliação de desempenho de Satisfaz e com, pelo menos, uma das seguintes habilitações:
-
-a) Curso de estudos superiores especializados em enfermagem que habilite para a prestação de cuidados de enfermagem numa área de especialização em enfermagem ou para a gestão dos serviços de enfermagem;
-
-b) Curso de administração de serviços de enfermagem ou a secção de administração do curso de enfermagem complementar, desde que o titular seja detentor de equivalência ao diploma de estudos superiores especializados em enfermagem;
-
-c) Curso de especialização em enfermagem estruturado nos termos do n.º 1 do artigo 14.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, desde que o titular seja detentor de equivalência ao diploma de estudos superiores especializados em enfermagem;
-
-d) Curso no âmbito da gestão que confira, pelo menos, o grau académico de licenciado.
-
-6 - Para efeitos de acesso à categoria de assessor técnico regional de enfermagem, do aviso de abertura do respectivo concurso deve constar se é exigida formação no âmbito da gestão ou no da prestação de cuidados de enfermagem especializados.
-
-7 - O acesso à categoria de assessor técnico de enfermagem faz-se de entre os assessores técnicos regionais de enfermagem e os enfermeiros-supervisores com três anos na respectiva categoria ou no conjunto das duas categorias, com avaliação de desempenho de Satisfaz e com, pelo menos, uma das seguintes habilitações:
-
-a) Curso de estudos superiores especializados em enfermagem que habilite para a gestão dos serviços de enfermagem;
-
-b) Curso de administração de serviços de enfermagem ou a secção de administração do curso de enfermagem complementar, desde que o titular seja detentor de equivalência ao diploma de estudos superiores especializados em enfermagem;
-
-c) Curso no âmbito da gestão que confira, pelo menos, o grau académico de licenciado.
-
-8 - Para efeitos de acesso à categoria de assessor técnico de enfermagem pode, para além de uma das habilitações mencionadas no número anterior, ser exigido um curso que habilite para a prestação de cuidados de enfermagem especializados, o que deve constar do respectivo aviso de abertura do concurso.
-
-9 - Os enfermeiros integrados na carreira docente das escolas superiores de enfermagem podem candidatar-se a concursos para categorias da presente carreira, desde que sejam detentores das habilitações exigidas neste artigo.
-
-10 - Os assistentes podem candidatar-se à categoria de enfermeiro-chefe, desde que possuam seis anos de exercício profissional.
-
-11 - Os professores-adjuntos e os professores-coordenadores podem candidatar-se à categoria de enfermeiro-chefe (nível 2) e às categorias dos níveis 3 e 4, desde que possuam, respectivamente, 6, 9 ou 12 anos de exercício profissional.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 12.º — Escalão de promoção
 
-A promoção a categoria superior faz-se da seguinte forma:
+(Revogado.)
 
-a) Para o escalão 1 da categoria para a qual se faz a promoção;
-
-b) Para o escalão a que na estrutura remuneratória da categoria para a qual se faz a promoção corresponda o índice superior mais aproximado, se o interessado vier já auferindo remuneração igual ou superior à do escalão 1, ou para o escalão seguinte, sempre que a remuneração que caberia em caso de progressão na categoria fosse superior.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 13.º — Preenchimento do cargo de enfermeiro-director
 
-1 - O enfermeiro-director de serviço de enfermagem, a nível de estabelecimento ou serviço prestador de cuidados de saúde ou de região de saúde, é nomeado, em comissão de serviço, de entre os enfermeiros de categorias integradas nos níveis 4 ou 3 que possuam uma das habilitações mencionadas no n.º 7 do artigo 11.º, por despacho ministerial, mediante proposta do dirigente máximo do serviço ou estabelecimento, ouvido o órgão de apoio técnico de enfermagem, quando exista.
+(Revogado.)
 
-2 - Nos serviços centrais de ministérios e demais serviços de âmbito nacional onde a carreira de enfermagem é aplicada, o preenchimento do cargo de enfermeiro-director é feito, em comissão de serviço, de entre os assessores técnicos de enfermagem que possuam uma das habilitações mencionadas no n.º 7 do artigo 11.º, por despacho ministerial, mediante proposta do dirigente máximo do respectivo serviço.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
-3 - A escolha dos enfermeiros-directores deve ter por base as qualificações e a experiência profissional mais adequada ao exercício das funções a desempenhar.
+###### Artigo 14.º — Cessação da comissão de serviço do cargo de enfermeiro-director
 
-4 - A comissão de serviço mencionada nos n.os 1 e 2 do presente artigo terá a duração de três anos e poderá ser renovada, nos termos fixados para o pessoal dirigente dos serviços e organismos da administração central.
+(Revogado.)
 
-5 - O tempo de serviço prestado no cargo de enfermeiro-director é contado para efeitos de progressão na categoria de origem e de promoção na carreira.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
-###### Artigo 14.º — Índices remuneratórios atribuídos ao enfermeiro-director
+###### Artigo 15.º — Preenchimento do cargo de assessor de enfermagem
 
-1 - O enfermeiro-director é posicionado no índice remuneratório, de entre os previstos para o referido cargo, a que corresponda a remuneração imediatamente superior à que é devida ao respectivo titular pela sua categoria de origem, salvaguardando um impulso salarial não inferior a 10 pontos.
+(Revogado.)
 
-2 - A cessação da comissão de serviço no cargo de enfermeiro-director determina, quando do regresso à categoria de que é titular, o posicionamento no índice remuneratório imediatamente superior.
-
-###### Artigo 15.º — Preenchimento dos lugares de assessor técnico regional de enfermagem
-
-1 - O preenchimento dos lugares de assessor técnico regional de enfermagem é feito, em comissão de serviço, por um período de dois anos, findo o qual a sua nomeação se converte automaticamente em nomeação definitiva, independentemente de quaisquer formalidades, a menos que o enfermeiro não tenha revelado aptidão para o lugar, o que implica o seu regresso à categoria que detinha antes da nomeação.
-
-2 - O tempo de serviço prestado em regime de comissão de serviço é contado para efeitos de progressão na categoria de origem e promoção na carreira.
-
-###### Artigo 16.º — Preenchimento dos lugares de assessor técnico de enfermagem
-
-1 - O preenchimento dos lugares de assessor técnico de enfermagem é feito, em comissão de serviço, por um período de dois anos, no caso de a nomeação recair em enfermeiro com a categoria de enfermeiro-supervisor, e obedecerá aos trâmites previstos no n.º 1 do artigo anterior.
-
-2 - É dispensada a nomeação em comissão de serviço aos assessores técnicos regionais de enfermagem já providos em lugar de quadro nesta categoria.
-
-3 - Se a nomeação recair em assessor técnico regional de enfermagem que não tenha ainda completado dois anos em comissão de serviço nesta categoria, será a mesma efectuada em comissão de serviço pelo período de tempo necessário para perfazer os dois anos contados no conjunto desta categoria e de assessor técnico de enfermagem, seguindo-se os trâmites previstos no n.º 1 do artigo anterior.
-
-4 - O tempo de serviço prestado em regime de comissão de serviço é contado para efeitos de progressão na categoria de origem e promoção na carreira.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 #### SECÇÃO III — Progressão na categoria
 
 ###### Artigo 17.º — Progressão
 
-A mudança de escalão dentro de cada categoria verifica-se após a permanência de três anos no escalão anterior e avaliação de desempenho de Satisfaz.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ### CAPÍTULO IV — Concursos
 
 ###### Artigo 18.º — Princípios gerais
 
-1 - O concurso é o processo de recrutamento e selecção normal e obrigatório para o pessoal abrangido pela aplicação do presente diploma.
+(Revogado.)
 
-2 - O disposto no número anterior não se aplica ao recrutamento para o cargo de enfermeiro-director, o qual se processa nos termos do artigo 13.º
-
-3 - O concurso obedece aos seguintes princípios:
-
-a) Liberdade de candidatura;
-
-b) Igualdade de condições e oportunidades para todos os candidatos;
-
-c) Divulgação atempada dos métodos de selecção e do sistema de classificação final a utilizar;
-
-d) Aplicação de métodos e critérios objectivos de avaliação;
-
-e) Neutralidade da composição do júri;
-
-f) Direito de recurso.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 19.º — Tipos de concurso e objectivos
 
-1 - Os concursos podem ser de ingresso ou de acesso, externos ou internos.
+(Revogado.)
 
-2 - O concurso é de ingresso quando se destina à integração na carreira e de acesso quando visa a promoção na mesma.
-
-3 - O concurso é externo quando, no respeito pela legislação vigente sobre restrições à admissão de pessoal na Administração Pública, seja aberto a todos os indivíduos, estejam ou não vinculados aos serviços e organismos da Administração Pública e aos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos.
-
-4 - O concurso é interno geral quando aberto a todos os funcionários e agentes, independentemente do serviço ou organismo a que pertençam, exigindo-se a estes últimos que desempenhem funções em regime de tempo completo, estejam sujeitos à disciplina, hierarquia e horário do respectivo serviço e contem mais de três anos de serviço ininterrupto.
-
-5 - Os concursos podem ser abertos para provimento de todos ou alguns lugares vagos existentes à data da sua abertura, abrangendo, ou não, os lugares que vierem a vagar no decurso do respectivo prazo de validade e que correspondam a necessidades concretas do estabelecimento ou serviço.
-
-6 - A constituição de reservas de recrutamento visa a satisfação de necessidades previsionais de pessoal, independentemente de existirem vagas à data da abertura do concurso, mas no pressuposto de que estas ocorrerão no decurso do respectivo prazo de validade.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 20.º — Obrigatoriedade de abertura de concursos de acesso
 
-São abertos obrigatoriamente concursos de acesso quando existam pelo menos três vagas orçamentadas na mesma categoria e conforme o plano de actividade, desde que existam nos estabelecimentos ou serviços candidatos que satisfaçam os requisitos de promoção.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 21.º — Restrições à abertura de concursos
 
-Sob pena de inexistência jurídica, só pode haver lugar à abertura de concursos externos na sequência de despachos de descongelamento das categorias cujos lugares se pretendam prover e após consulta à Direcção-Geral da Administração Pública sobre a existência de excedentes ou de funcionários ou agentes considerados subutilizados, qualificados para o exercício das correspondentes funções.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 22.º — Competência para abertura de concurso
 
-A abertura de concurso é autorizada por despacho do dirigente máximo do serviço ou organismo competente, ou do órgão colegial, quando exista.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 23.º — Prazo de validade
 
-1 - O prazo de validade do concurso é de dois anos, contado da data da publicação da respectiva lista de classificação final.
+(Revogado.)
 
-2 - O disposto no número precedente não se aplica aos concursos que visem exclusivamente o provimento das vagas existentes à data da sua abertura, caso em que o concurso se esgota com o preenchimento daquelas.
-
-3 - Os concursos que visem a constituição de reservas de recrutamento são válidos para as vagas que ocorram no prazo máximo de dois anos contado da data de publicação da respectiva lista de classificação final.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 24.º — Constituição e composição do júri
 
-1 - O júri é constituído por despacho da entidade competente para autorizar a abertura do concurso, mediante proposta do enfermeiro-director nos estabelecimentos ou serviços onde exista, podendo a sua composição ser alterada, por motivos ponderosos e devidamente justificados, até à data do início da aplicação dos métodos de selecção.
+(Revogado.)
 
-2 - O júri é composto por um presidente e por dois vogais efectivos, nomeados de entre enfermeiros integrados na carreira de enfermagem e, sempre que possível, do próprio estabelecimento ou serviço.
-
-3 - O despacho constitutivo do júri designará, para as situações de falta e impedimento, o vogal efectivo que substituirá o presidente, bem como vogais suplentes em número idêntico ao dos efectivos.
-
-4 - Nenhum dos membros do júri poderá ter categoria inferior àquela para que é aberto concurso, mesmo que nomeado para o cargo de enfermeiro-director.
-
-5 - O presidente do júri terá obrigatoriamente categoria superior àquela a que o concurso respeitar, salvo o disposto nos n.os 6, 7 e 8 deste artigo.
-
-6 - Nos concursos de acesso à categoria de enfermeiro-supervisor, o presidente do júri e o seu substituto deverão ser designados de entre enfermeiros-directores, assessores técnicos de enfermagem ou assessores técnicos regionais de enfermagem com formação que habilite para a gestão de serviços de enfermagem.
-
-7 - Nos concursos de acesso à categoria de assessor técnico regional de enfermagem, o presidente do júri e o seu substituto deverão ser designados de entre assessores técnicos de enfermagem, assessores técnicos regionais de enfermagem ou enfermeiros-directores.
-
-8 - Nos concursos de acesso à categoria de assessor técnico de enfermagem, todos os membros do júri deverão possuir essa categoria.
-
-9 - Nos concursos para a categoria de enfermeiro especialista, pelo menos um dos vogais efectivos e um dos suplentes deverá ser detentor de formação na área de especialização para que o concurso é aberto.
-
-10 - O disposto no número anterior aplica-se igualmente aos concursos de acesso à categoria de assessor técnico de enfermagem e de assessor técnico regional de enfermagem, sempre que do aviso de abertura conste a exigência de formação que habilite para a prestação de cuidados de enfermagem especializados.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 25.º — Competência do júri
 
-1 - O júri é responsável por todas as operações do concurso.
+(Revogado.)
 
-2 - A competência prevista no número precedente não prejudica a faculdade do júri, mediante prévia autorização do respectivo dirigente ou órgão máximo de gestão, poder solicitar a organismos públicos ou privados especializados na matéria a realização do exame psicológico.
-
-3 - O júri poderá solicitar aos serviços a que pertençam os concorrentes os elementos considerados necessários, designadamente os seus processos individuais.
-
-4 - O júri poderá ainda exigir dos candidatos a apresentação de documentos comprovativos de factos por eles referidos que possam relevar para apreciação do seu mérito e, bem assim, a indicação de elementos complementares dos respectivos curricula relacionados com os factores e critérios de apreciação em função dos quais promoverá a classificação e ordenação daqueles.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 26.º — Funcionamento do júri
 
-1 - O júri só pode funcionar quando estiverem presentes todos os seus membros, devendo as respectivas deliberações ser tomadas por maioria.
+(Revogado.)
 
-2 - Das reuniões do júri serão lavradas actas contendo os fundamentos das decisões tomadas.
-
-3 - As actas são confidenciais, devendo ser presentes, em caso de recurso, à entidade que sobre ele tenha de decidir.
-
-4 - Os interessados terão acesso, em caso de recurso, à parte das actas em que se definam os factores e critérios de apreciação aplicáveis a todos os candidatos e, bem assim, àquela em que são directamente apreciados.
-
-5 - As certidões das actas deverão ser passadas no prazo de três dias contado da data da entrada do requerimento.
-
-6 - O júri será secretariado por um vogal por ele escolhido ou por funcionário a designar para o efeito.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 27.º — Requisitos gerais e especiais de admissão a concurso
 
-1 - Só podem ser admitidos a concurso os candidatos que satisfaçam os requisitos gerais referidos neste artigo e os requisitos especiais previstos nos artigos 10.º e 11.º deste diploma.
+(Revogado.)
 
-2 - Os candidatos deverão reunir os requisitos referidos no número anterior até ao termo do prazo fixado para a apresentação das candidaturas.
-
-3 - São requisitos gerais para admissão a concurso:
-
-a) Ter nacionalidade portuguesa, salvo nos casos exceptuados por lei especial ou convenção internacional;
-
-b) Ter cumprido os deveres militares ou de serviço cívico, quando obrigatório;
-
-c) Não estar inibido do exercício de funções públicas ou interdito para o exercício das funções a que se candidata;
-
-d) Encontrar-se física e psiquicamente apto para o desempenho das funções e ter cumprido as leis de vacinação obrigatória.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 28.º — Formas de publicitação
 
-1 - O processo de concurso inicia-se com a publicação do respectivo aviso de abertura na 2.ª série do Diário da República.
+(Revogado.)
 
-2 - A publicitação poderá ainda fazer-se através de órgãos de comunicação social de expansão nacional, sendo obrigatória quando se trate de concursos externos.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 29.º — Conteúdo do aviso de abertura
 
-1 - Do aviso de abertura deve constar, obrigatoriamente:
+(Revogado.)
 
-a) Identificação do despacho de autorização da abertura do concurso e das disposições legais permissivas;
-
-b) Menção obrigatória à existência de despacho de descongelamento e ao parecer da Direcção-Geral da Administração Pública a que se refere o artigo 21.º, no caso de concursos externos;
-
-c) Tipo de concurso e prazo de validade;
-
-d) Localidade e estabelecimento ou serviço a que o concurso respeita;
-
-e) Categoria, número de vagas a preencher e sua distribuição;
-
-f) Índices remuneratórios correspondentes à categoria publicitada;
-
-g) Descrição sumária das funções inerentes aos lugares a preencher;
-
-h) Indicação dos requisitos gerais e especiais de admissão;
-
-i) Entidade, e respectivo endereço, à qual devem ser apresentadas as candidaturas;
-
-j) Prazo para apresentação das candidaturas;
-
-l) Elementos que devem constar do requerimento e os documentos que o devem acompanhar;
-
-m) Indicação expressa do presente diploma;
-
-n) Composição do júri;
-
-o) Métodos de selecção a utilizar, seu carácter eliminatório e sistema de classificação final;
-
-p) Quaisquer outras indicações julgadas necessárias para melhor esclarecimento dos interessados;
-
-q) Indicação do local ou locais onde serão afixadas, quando for caso disso, a lista dos candidatos e a lista de classificação final, bem como quaisquer outros elementos julgados necessários para melhor esclarecimento dos interessados.
-
-2 - Quando se tratar de concurso em que se torne necessária uma especialização em enfermagem, deverá o aviso de abertura mencionar expressamente a área de especialização exigida para o efeito.
-
-3 - Sempre que o concurso vise a constituição de reservas de recrutamento, deverá tal objectivo constar expressamente do aviso de abertura.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 30.º — Apresentação das candidaturas
 
-1 - A candidatura a um concurso faz-se através de requerimento dirigido à entidade que autorizou a abertura do concurso acompanhado da documentação indicada no respectivo aviso de abertura.
+(Revogado.)
 
-2 - Os requerimentos de admissão a concurso, assim como os documentos que os devam instruir, podem ser entregues pessoalmente ou remetidos pelo correio, com aviso de recepção, expedido até ao termo do prazo fixado.
-
-3 - No aviso de abertura poderá ser determinado que o envio dos requerimentos se faça exclusivamente pelo correio, quando se trate de concursos externos.
-
-4 - Os serviços e organismos poderão adoptar requerimentos de modelo tipo a utilizar obrigatoriamente pelos candidatos em substituição dos requerimentos a que aludem os números precedentes.
-
-5 - No caso previsto no número precedente, os serviços e organismos deverão enviar em tempo útil os requerimentos de modelo tipo aos candidatos que, residindo noutra localidade, o solicitem.
-
-6 - Na entrega pessoal do requerimento de admissão é obrigatória a passagem de recibo pela entidade que o receba.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 31.º — Prazo para apresentação de candidaturas
 
-O prazo para apresentação de candidaturas não pode ser inferior a 15 nem superior a 30 dias, contado a partir da data da publicação do respectivo aviso de abertura no Diário da República.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 32.º — Documentação a apresentar pelos candidatos
 
-1 - Os requerimentos de admissão a concurso deverão ser acompanhados da documentação exigida no respectivo aviso de abertura, sob pena de exclusão, salvo se a sua apresentação for declarada temporariamente dispensável, caso em que os candidatos declararão nos requerimentos, sob compromisso de honra, a situação precisa em que se encontram relativamente a cada um dos requisitos gerais ou especiais de admissão.
+(Revogado.)
 
-2 - Os serviços e organismos públicos deverão emitir a documentação exigível para admissão a concurso dentro do prazo estabelecido para apresentação das candidaturas, desde que requerida com uma antecência mínima de três dias.
-
-3 - Os funcionários e agentes pertencentes aos serviços ou organismos para cujos lugares o concurso é aberto são dispensados da apresentação dos documentos comprovativos dos requisitos que constem do respectivo processo individual.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 33.º — Elaboração e publicitação da lista de candidatos
 
-1 - Findo o prazo de apresentação das candidaturas, o júri elaborará no prazo máximo de 30 dias a lista dos candidatos admitidos e excluídos do concurso, com indicação sucinta dos motivos de exclusão, prazo esse que poderá ser prorrogado por igual período em casos devidamente fundamentados, designadamente o elevado número de candidatos, por despacho da entidade competente para a abertura do concurso.
+(Revogado.)
 
-2 - Concluída a elaboração da lista, o júri promoverá a sua imediata remessa para publicação na 2.ª série do Diário da República.
-
-3 - Os candidatos excluídos podem recorrer para a entidade que autorizou a abertura do concurso, no prazo de 10 dias a contar da data da publicação ou afixação da lista.
-
-4 - A interposição do recurso não suspende as operações do concurso, as quais prosseguirão até à fase de elaboração da lista de classificação final, exclusive.
-
-5 - A entidade recorrida deverá decidir do recurso no prazo máximo de 10 dias a contar da sua interposição.
-
-6 - Sempre que seja dado provimento ao recurso, o júri promoverá, no prazo de cinco dias contado da data da decisão o envio para publicação na 2.ª série do Diário da República, ou a afixação, nos termos do n.º 2 da alteração à lista dos candidatos.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 34.º — Métodos de selecção
 
-1 - No concurso serão utilizados os seguintes métodos de selecção, isolada ou conjuntamente:
+(Revogado.)
 
-a) Avaliação curricular;
-
-b) Prova pública de discussão curricular;
-
-c) Exame psicológico de selecção.
-
-2 - Os resultados obtidos na aplicação dos métodos de selecção serão classificados de 0 a 20 valores, excepto no exame psicológico, ao qual serão atribuídas as seguintes menções qualificativas: Favorável preferencialmente, Bastante favorável, Favorável, Favorável com reservas e Não favorável, correspondendo-lhes as classificações de 20, 18, 12, 8 e 4 valores, respectivamente.
-
-3 - Os métodos de selecção previstos nas alíneas a) e b) do n.º 1 terão carácter eliminatório.
-
-4 - O método de selecção previsto na alínea c) do mesmo número só poderá ser utilizado conjuntamente com um ou com dois outros métodos nele referidos.
-
-5 - Nos concursos para a categoria de enfermeiro, de enfermeiro graduado e de enfermeiro especialista o método de selecção utilizado é o de avaliação curricular.
-
-6 - Nos concursos para as restantes categorias serão obrigatoriamente utilizados os métodos referidos nas alíneas a) e b) do n.º 1.
-
-7 - O método de selecção referido na alínea c) do n.º 1 poderá ser utilizado por decisão da entidade competente para autorizar a abertura do concurso no acesso às categorias de enfermeiro-chefe e de enfermeiro-supervisor.
-
-8 - É garantida a privacidade do exame psicológico de selecção, sendo transmitidos aos júris dos concursos os resultados sob a forma de uma apreciação global referente à aptidão dos candidatos relativamente às funções a exercer.
-
-9 - A revelação ou transmissão dos resultados do exame psicológico de selecção a outra pessoa que não o próprio candidato ou o júri do concurso implica quebra do dever de sigilo.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 35.º — Objectivos dos métodos de selecção
 
-1 - Os métodos de selecção referidos no artigo anterior visam os seguintes objectivos:
+(Revogado.)
 
-a) A avaliação curricular - avaliar a qualificação profissional dos candidatos, ponderando, de acordo com as exigências da função, a habilitação académica, a formação profissional, a experiência profissional e outros elementos considerados relevantes;
-
-b) A prova pública de discussão curricular - determinar a competência profissional e ou científica dos candidatos, tendo como referência o perfil de exigências profissionais, genéricas e específicas, da função posta a concurso;
-
-c) O exame psicológico de selecção - avaliar as capacidades e características de personalidade dos candidatos através da utilização de técnicas psicológicas, visando determinar a sua adequação à função.
-
-2 - A prova pública de discussão curricular tem a duração máxima de sessenta minutos, dos quais quinze destinados ao candidato para uma exposição sobre o seu curriculum, no início da prova.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 36.º — Aplicação dos métodos de selecção
 
-1 - A avaliação curricular deverá estar concluída no prazo de 30 dias, contado da data de publicação da lista de candidatos, sendo o prazo alargado para 60 dias quando o número de candidatos for superior a 30 e inferior a 50 ou 90 dias quando o número de candidatos for de 50 ou mais.
+(Revogado.)
 
-2 - As provas públicas de discussão curricular devem iniciar-se no prazo de 30 dias, contado da data da conclusão da avaliação curricular.
-
-3 - O calendário das provas será afixado, devendo ainda ser enviado aos candidatos ofício registado, por forma que cada candidato tenha conhecimento da data, hora e local da sua prova com, pelo menos, quarenta e oito horas de antecedência.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 37.º — Classificação final dos candidatos
 
-1 - Finda a aplicação dos métodos de selecção, o júri procederá, no prazo máximo de 15 dias, à classificação e ordenação dos candidatos e elaborará acta da qual constará a lista de classificação final e sua fundamentação.
+(Revogado.)
 
-2 - O prazo previsto no número anterior poderá ser excepcionalmente prorrogado até 30 dias pela entidade competente para autorizar a abertura do concurso quando o número de candidatos o justifique.
-
-3 - A acta a que se refere o n.º 1 será homologada pela entidade competente para autorizar a abertura do concurso, no prazo máximo de 10 dias.
-
-4 - Na classificação final adoptar-se-á a escala de 0 a 20 valores, considerando-se excluídos os candidatos que nos métodos de selecção eliminatórios ou na classificação final obtenham classificação inferior a 9,5 valores.
-
-5 - A classificação final resultará da média aritmética simples ou ponderada das classificações obtidas em todas as operações de selecção.
-
-6 - Em caso de igualdade de classificação nos concursos internos, preferem, sucessivamente, os candidatos já detentores da categoria a que concorrem e os que desempenhem funções no estabelecimento ou serviço interessado.
-
-7 - Em caso de igualdade de classificação nos concursos para enfermeiro-supervisor, preferem, sucessivamente, os candidatos detentores do diploma de estudos superiores especializados em enfermagem ou equivalente, os já detentores da categoria a que concorrem e os que desempenhem funções no estabelecimento ou serviço interessado.
-
-8 - Havendo igualdade de classificação nos concursos externos, preferem, sucessivamente, os candidatos possuidores de habilitação académica de grau mais elevado, de melhor nota final nos cursos de formação básica ou pós-básica exigidos para a admissão ao concurso e que desempenhem funções há mais tempo no estabelecimento ou serviço interessado.
-
-9 - Subsistindo a igualdade de classificação após a aplicação dos critérios referidos nos números anteriores, competirá ao júri estabelecer outros critérios de desempate.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 38.º — Publicação da lista de classificação final
 
-Homologada a acta a que se refere o n.º 1 do artigo 37.º, a lista de classificação final deverá ser publicitada nos termos estabelecidos no artigo 33.º, n.º 2, no prazo máximo de cinco dias.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 39.º — Recurso
 
-1 - Da homologação cabe recurso, com efeito suspensivo, a interpor para o membro do Governo competente, observando-se, quanto ao prazo, o estabelecido no n.º 3 do artigo 33.º
+(Revogado.)
 
-2 - O membro do Governo competente deve decidir no prazo máximo de 15 dias a contar da data da interposição do recurso.
-
-3 - A decisão é passível de recurso contencioso, nos termos gerais.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 40.º — Prazos
 
-Na contagem dos prazos estabelecidos no presente capítulo serão observados os seguintes princípios:
+(Revogado.)
 
-a) Os prazos são contínuos, não se considerando, porém, o dia em que ocorra o evento;
-
-b) Sempre que os prazos terminem num sábado, domingo ou dia feriado, o seu termo transfere-se para o 1.º dia útil seguinte.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 41.º — Ordem de nomeação
 
-1 - Os candidatos aprovados serão nomeados para os lugares vagos segundo a ordenação das respectivas listas de classificação final.
+(Revogado.)
 
-2 - Serão abatidos à lista de classificação final os candidatos aprovados que:
-
-a) Recusem ser nomeados no lugar a que têm direito de acordo com a sua ordenação;
-
-b) Não compareçam para aceitar o lugar no prazo legal por motivos que lhes sejam imputáveis;
-
-c) Apresentem documentos que não façam prova das condições necessárias para a nomeação ou não façam a sua apresentação nos prazos legais.
-
-3 - Os despachos de nomeação não poderão ser proferidos antes de decorrido o prazo estabelecido para a interposição do recurso da homologação.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 42.º — Regulamentação dos concursos
 
-Serão regulamentados por despacho conjunto dos Ministros da Saúde e das Finanças os aspectos processuais e administrativos atinentes à tramitação dos concursos previstos no presente diploma, bem como eventuais mecanismos que se mostrem necessários à realização e ultimação do processo de concurso.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ### CAPÍTULO V — Avaliação do desempenho
 
@@ -929,9 +553,13 @@ c) Detectar factores que influenciam o rendimento profissional do enfermeiro;
 
 d) Detectar necessidades de formação.
 
-###### Artigo 44.º — Casos em que é considerada a menção qualitativa da avaliação do desempenho
+###### Artigo 44.º — Casos em que é considerada a menção qualitativa da avaliação de desempenho
 
-A menção qualitativa da avaliação do desempenho é obrigatoriamente considerada na progressão e promoção na carreira.
+1 - A menção qualitativa da avaliação do desempenho é obrigatoriamente considerada na progressão e promoção na carreira.
+
+2 - A menção qualitativa atribuída nos termos do número anterior é relevante, para todos os efeitos legais, até à atribuição de nova menção.
+
+> Alterado pelo/a [Decreto-Lei n.º 412/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1998-286105), publicado em 1998-12-30.
 
 ###### Artigo 45.º — Menções a atribuir
 
@@ -987,17 +615,17 @@ d) As expectativas futuras do enfermeiro relativamente ao desempenho das suas fu
 
 5 - A avaliação do desempenho do enfermeiro-supervisor é efectuada pelo enfermeiro-director.
 
-6 - A avaliação do desempenho do assessor técnico regional de enfermagem é efectuada pelo enfermeiro-director que exercer funções em serviços de âmbito regional.
+6 - A avaliação do desempenho do assessor técnico de enfermagem é efectuada pelo assessor técnico de enfermagem que exercer funções de enfermeiro-director.
 
-7 - A avaliação do desempenho do assessor técnico de enfermagem é efectuada pelo assessor técnico de enfermagem que exercer funções de enfermeiro-director em serviços de âmbito nacional.
+7 - O enfermeiro-director e o assessor de enfermagem não estão sujeitos à avaliação do desempenho nos termos previstos neste diploma.
 
-8 - O enfermeiro-director não está sujeito à avaliação do desempenho nos termos previstos neste diploma.
+8 - Quando não existirem dois enfermeiros avaliadores nas condições previstas nos números anteriores, a avaliação será efectuada apenas por um dos enfermeiros, desde que sejam respeitados os demais condicionalismos previstos neste artigo.
 
-9 - Quando não existirem dois enfermeiros avaliadores nas condições previstas nos números anteriores, a avaliação será efectuada apenas por um dos enfermeiros, desde que sejam respeitados os demais condicionalismos previstos neste artigo.
+9 - Pelo menos um dos avaliadores tem de possuir, no mínimo, um ano de contacto funcional com o enfermeiro avaliado.
 
-10 - Pelo menos um dos avaliadores tem de possuir, no mínimo, um ano de contacto funcional com o enfermeiro avaliado.
+10 - Os enfermeiros avaliadores podem, no caso de não terem tido contacto funcional com o enfermeiro avaliado durante todo o triénio, solicitar ao avaliado que comprove as actividades que refere no relatório crítico.
 
-11 - Os enfermeiros avaliadores podem, no caso de não terem tido contacto funcional com o enfermeiro avaliado durante todo o triénio, solicitar ao avaliado que comprove as actividades que refere no relatório crítico.
+> Alterado pelo/a [Decreto-Lei n.º 412/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1998-286105), publicado em 1998-12-30.
 
 ###### Artigo 49.º — Efeitos da menção qualitativa de Não satisfaz
 
@@ -1099,13 +727,19 @@ c) Regime de horário acrescido, com a duração de quarenta e duas horas semana
 
 6 - Os enfermeiros podem trabalhar por turnos e ou jornada contínua, tendo direito a um intervalo de trinta minutos para refeição dentro do próprio estabelecimento ou serviço, que será considerado como trabalho efectivamente prestado.
 
-7 - Os enfermeiros com idade superior a 50 anos poderão, se o requererem, ser dispensados do trabalho nocturno e por turnos, desde que daí não advenham graves prejuízos para o serviço.
+7 - Os enfermeiros em regime de jornada contínua têm direito, para além do intervalo a que se refere o número anterior, a dois períodos de descanso, nunca superiores a quinze minutos.
 
-8 - As enfermeiras que, comprovadamente, amamentem os filhos têm direito, durante um período de 12 meses a partir da data do parto, a requerer a isenção de horário por turnos e de trabalho nocturno, assim como durante os três últimos meses de gravidez, desde que daí não advenham graves prejuízos para o serviço.
+8 - Os períodos de descanso referidos no número anterior não podem coincidir com o início ou o fim da jornada de trabalho.
 
-9 - São aplicáveis a todos os enfermeiros, independentemente dos estabelecimentos ou serviços em que prestem funções, as disposições contidas no [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de Março, que não colidam com o presente decreto-lei.
+9 - Os enfermeiros com idade superior a 50 anos poderão, se o requererem, ser dispensados do trabalho nocturno e por turnos, desde que daí não advenham graves prejuízos para o serviço.
 
-10 - As disposições constantes dos números anteriores serão objecto de regulamentação pelos órgãos competentes.
+10 - As enfermeiras que, comprovadamente, amamentem os filhos têm direito, durante um período de 12 meses a partir da data do parto, a requerer a isenção de horário por turnos e de trabalho nocturno, assim como durante os três últimos meses de gravidez, desde que daí não advenham graves prejuízos para o serviço.
+
+11 - São aplicáveis a todos os enfermeiros, independentemente dos estabelecimentos ou serviços em que prestem funções, as disposições contidas no [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de Março, que não colidam com o presente decreto-lei.
+
+12 - As disposições constantes dos números anteriores que não sejam susceptíveis de aplicação imediata serão objecto de regulamentação pelos órgãos competentes.
+
+> Alterado pelo/a [Decreto-Lei n.º 412/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1998-286105), publicado em 1998-12-30.
 
 ### CAPÍTULO VII — Incentivos e bonificações
 
@@ -1119,265 +753,77 @@ c) Regime de horário acrescido, com a duração de quarenta e duas horas semana
 
 ###### Artigo 58.º — Incentivos para fixação na periferia
 
-1 - Aplica-se aos enfermeiros integrados na presente carreira o [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro, e demais legislação complementar.
+(Revogado.)
 
-2 - Por portaria conjunta dos Ministros do Planeamento e da Administração do Território, das Finanças e da Saúde, serão estabelecidos os municípios que integram as zonas de reduzida, média e extrema periferia, para efeitos de atribuição aos enfermeiros dos incentivos para fixação na periferia.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 59.º — Incentivo para o exercício de funções na área de cuidados de saúde primários
 
-1 - É criado um incentivo para o exercício de funções na área de cuidados de saúde primários, que consiste na redução do tempo necessário para a progressão na carreira.
+(Revogado.)
 
-2 - O tempo de serviço prestado em estabelecimento da área de cuidados de saúde primários determinará, em cada ano, a redução de dois meses para mudança de escalão.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 60.º — Bonificação por estudos ou trabalhos de investigação
 
-1 - Após cada oito anos de efectivo serviço, podem os enfermeiros requerer a avaliação de estudos ou trabalhos de investigação que realizaram, desde que estes se integrem em áreas ou temas previamente definidos pelo órgão máximo de gestão do estabelecimento ou serviço, o qual deverá estabelecer anualmente as áreas ou temas prioritários sobre os quais deverão recair os estudos ou trabalhos de investigação a efectuar.
+(Revogado.)
 
-2 - A avaliação referida no número anterior consiste em:
-
-a) Apresentação e discussão de um estudo sobre um problema de enfermagem, se se tratar das categorias profissionais de enfermeiro (nível 1) e de enfermeiro graduado;
-
-b) Apresentação e discussão de um trabalho de investigação em enfermagem, se se tratar das restantes categorias profissionais.
-
-3 - A obtenção na última avaliação periódica de desempenho da menção qualitativa de Não satisfaz impede que o enfermeiro requeira a avaliação de estudos ou trabalhos de investigação antes que tenha decorrido uma menção qualitativa de Satisfaz.
-
-4 - A avaliação dos estudos ou trabalhos de investigação é feita por um júri nacional, nomeado pelo Ministro da Saúde e constituído por três enfermeiros de categoria profissional superior ou igual à do enfermeiro que requer a avaliação.
-
-5 - Tratando-se de um trabalho de investigação, um dos enfermeiros do júri deverá estar habilitado com formação pós-básica na mesma área que a do enfermeiro que requer a avaliação.
-
-6 - Ao estudo ou trabalho de investigação será atribuída a menção qualitativa de Satisfaz ou Não satisfaz.
-
-7 - A obtenção do resultado de Satisfaz determina, para efeitos de progressão na categoria, a bonificação de dois anos de serviço.
-
-8 - Não poderão ser aceites estudos ou trabalhos de investigação que já tenham sido apresentados e ou avaliados em âmbito diferente.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 61.º — Bonificação por aquisição de graus académicos
 
-1 - A aquisição do grau de mestre por enfermeiros integrados na carreira determina, quando do acesso a categoria superior, o posicionamento no escalão imediatamente superior àquele a que terá direito nos termos do artigo 12.º
+(Revogado.)
 
-2 - A habilitação com doutoramento determina, na situação prevista no número anterior, o posicionamento dois escalões acima daquele a que terá direito nos termos do artigo 12.º
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 62.º — Aposentação
 
-Os enfermeiros podem aposentar-se voluntariamente, com direito à pensão completa, independentemente de apresentação a junta médica, desde que reúnam 35 anos de serviço e 57 de idade.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ### CAPÍTULO VIII — Formação contínua
 
 ###### Artigo 63.º — Formação contínua
 
-1 - As estruturas de formação dos estabelecimentos ou serviços prestadores de cuidados de saúde devem assegurar a formação contínua dos enfermeiros.
+(Revogado.)
 
-2 - Os enfermeiros têm direito à utilização de um período correspondente a quarenta e duas horas por ano, em comissão gratuita de serviço, para efeitos de actualização e aperfeiçoamento profissional, mediante despacho do respectivo órgão máximo de gestão do estabelecimento ou serviço.
-
-3 - Poderá o órgão de gestão do estabelecimento ou serviço, para os efeitos previstos anteriormente, autorizar comissões gratuitas de serviço por períodos que ultrapassem as quarenta e duas horas anuais, quando daí resultem benefícios para a instituição.
-
-4 - Depois de cada triénio de serviço efectivo, os assessores técnicos de enfermagem, os assessores técnicos regionais de enfermagem, os enfermeiros-supervisores, os enfermeiros-chefes e os enfermeiros especialistas poderão ser dispensados da prestação do seu trabalho normal, sem qualquer perda de direitos ou regalias, durante um período nunca superior a seis meses, seguidos ou interpolados, para efeitos de actualização científica e técnica.
-
-5 - Consideram-se para efeitos de actualização científica e técnica, nomeadamente, a realização de trabalhos de investigação e estágios não integrados em planos de cursos de enfermagem ou de qualquer outro curso.
-
-6 - Em caso algum as dispensas de cada triénio são susceptíveis de acumulação com as eventualmente concedidas noutro triénio.
-
-7 - O enfermeiro compromete-se a, terminado o período de dispensa, apresentar, no prazo de 60 dias, o relatório da actividade desenvolvida ou cópia do trabalho de investigação realizado.
-
-8 - O não cumprimento do estabelecido no número anterior retira a possibilidade de concessão de nova dispensa e obriga à reposição de todos os vencimentos percebidos pelo enfermeiro durante o período de dispensa.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 #### SECÇÃO I — Formação em serviço
 
 ###### Artigo 64.º — Formação em serviço
 
-1 - A concretização da formação em serviço em cada unidade prestadora de cuidados é cometida, por um período de três anos, renováveis, a um enfermeiro especialista da referida unidade.
+(Revogado.)
 
-2 - A escolha desses enfermeiros é feita mediante o seguinte processo:
-
-a) Manifestação de interesse por parte dos enfermeiros especialistas;
-
-b) Selecção dos enfermeiros, efectuada pelo enfermeiro-chefe da respectiva unidade e pelo enfermeiro-supervisor de quem o enfermeiro-chefe depende funcionalmente.
-
-3 - A selecção destes enfermeiros terá por base o seu curriculum profissional, relevando ainda a formação em técnicas e métodos no âmbito da pedagogia, a sua experiência profissional e, bem assim, as características pessoais facilitadoras do processo de aprendizagem.
-
-4 - Ao enfermeiro especialista poderá ainda ser cometida a formação em serviço de mais de uma unidade prestadora de cuidados, nos casos em que a dimensão, características, organizações e recursos humanos das unidades de cuidados o justifiquem.
-
-5 - A actividade dos referidos enfermeiros deve ser exercida sob a responsabilidade do enfermeiro-chefe das respectivas unidades.
-
-6 - A formação em serviço deve visar a satisfação das necessidades de formação do pessoal de enfermagem da unidade, considerado como um grupo profissional com objectivo comum, e das necessidades individuais de cada membro do grupo.
-
-7 - O trabalho desenvolvido no âmbito da formação em serviço em cada unidade deve ser planeado, programado e avaliado de forma coordenada com a estrutura de formação do respectivo estabelecimento ou serviço prestador de cuidados de saúde.
-
-8 - Os enfermeiros especialistas a quem for cometida a formação em serviço serão integrados em escalão a que corresponda um índice remuneratório imediatamente superior àquele que detêm a partir da data em que iniciarem as respectivas actividades, o que deve ser confirmado, por escrito, pelo enfermeiro-chefe.
-
-9 - O tempo de serviço detido no escalão em que os enfermeiros especialistas se encontram posicionados no momento da atribuição do novo escalão releva para efeitos de progressão ao escalão seguinte, desde que aqueles tenham exercido pelo menos por um período de três anos as funções referidas no n.º 1 deste artigo.
-
-10 - Nos casos em que os enfermeiros especialistas não desempenhem pelo menos durante um período de três anos, serão reposicionados no escalão que detinham à data em que lhes foi cometida a formação em serviço, contando-lhes neste escalão o tempo de serviço prestado naquelas actividades.
-
-11 - Quando não existam nos estabelecimentos e serviços enfermeiros especialistas a quem possa ser cometida formação em serviço, nos termos dos números anteriores, esta competência poderá ser atribuída aos enfermeiros graduados, cujo processo de selecção deverá obedecer ao disposto no n.º 3 do presente artigo.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ### CAPÍTULO IX — Transições para as novas categorias
 
 ###### Artigo 65.º — Transições
 
-1 - Os enfermeiros que no âmbito deste diploma se encontrem integrados na carreira de enfermagem são providos na nova carreira, de acordo com as seguintes regras:
+(Revogado.)
 
-a) Como enfermeiro do nível 1, os enfermeiros do grau 1;
-
-b) Como enfermeiro graduado, os enfermeiros graduados;
-
-c) Como enfermeiro especialista, os enfermeiros detentores desta categoria;
-
-d) Como enfermeiro-chefe, os enfermeiros detentores desta categoria;
-
-e) Como enfermeiro-supervisor, os enfermeiros detentores desta categoria;
-
-f) Como assessor técnico de enfermagem, os enfermeiros detentores da categoria de técnico de enfermagem;
-
-g) Como enfermeiro-director, os enfermeiros-directores que se encontram no desempenho deste cargo.
-
-2 - Os enfermeiros de grau 1 e os enfermeiros graduados que se encontrem, à data da entrada em vigor deste diploma, habilitados com um curso de especialização em enfermagem nos termos do n.º 1 do artigo 14.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, poderão, mediante requerimento a apresentar durante o prazo de um ano contado a partir da data da entrada em vigor do presente diploma, transitar para a categoria de enfermeiro especialista, desde que existam no respectivo estabelecimento ou serviço vagas na categoria, dentro do número fixado para a correspondente especialidade.
-
-3 - Sempre que o número de vagas na categoria de enfermeiro especialista, dentro do número fixado para a correspondente especialidade, for insuficiente para englobar os enfermeiros provenientes de categorias dos graus 1 e 2 habilitados com um curso de especialização em enfermagem nos termos do n.º 1 do artigo 14.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, transitam para a categoria de enfermeiro especialista os enfermeiros nas seguintes condições:
-
-a) Os enfermeiros há mais tempo habilitados com o curso de especialização em enfermagem;
-
-b) Os enfermeiros detentores de equivalência ao diploma de estudos superiores especializados em enfermagem.
-
-4 - Aos enfermeiros-directores que se encontrem nomeados em comissão de serviço por três anos são aplicáveis, findo esse período, as regras previstas para a respectiva renovação nos termos do n.º 4 do artigo 13.º
-
-5 - Os enfermeiros-directores transitam para o índice imediatamente superior ao que detêm à data da transição.
-
-6 - Aos enfermeiros-directores que se encontrem nomeados em comissão de serviço por tempo indeterminado ser-lhes-á mantida esta nomeação, por tempo indeterminado.
-
-7 - A transição para as categorias da nova carreira faz-se para escalão igual àquele em que o enfermeiro se encontra posicionado.
-
-8 - Se entre o índice remuneratório anterior e o índice remuneratório correspondente ao escalão onde ficar posicionado houver uma valorização superior a 15 pontos, a contagem de tempo de serviço para efeitos de progressão só se inicia a partir da data da transição.
-
-9 - Sempre que na nova carreira não existe escalão correspondente ao que o enfermeiro detinha na anterior carreira, por efeito de diminuição de escalões, transita para o último escalão da categoria respectiva.
-
-10 - Os enfermeiros do grau 1 e os enfermeiros graduados que transitem para a categoria de enfermeiro especialista de acordo com o n.º 2 deste artigo são posicionados no escalão a que corresponda o índice remuneratório a que teriam direito se transitassem para a categoria de que são detentores ou para a imediatamente superior se não houver coincidência.
-
-11 - A transição para os escalões efectua-se, sem quaisquer formalidades, para além das referidas nas alíneas seguintes:
-
-a) Cada estabelecimento ou serviço deve elaborar lista de transição para as novas categorias e cargo, a afixar em local apropriado e a possibilitar a sua consulta pelos interessados;
-
-b) Deve ser publicado no Diário da República o aviso de afixação da lista referida na alínea anterior;
-
-c) Da transição cabe reclamação para o órgão máximo do estabelecimento ou serviço, no prazo de 15 dias a contar da data da publicação do aviso, a qual deve ser decidida em idêntico prazo;
-
-d) Da lista referida na alínea a) é enviada cópia à Direcção-Geral da Contabilidade Pública e à Direcção-Geral da Administração Pública.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ### CAPÍTULO X — Disposições transitórias e finais
 
 ###### Artigo 66.º — Disposições transitórias
 
-1 - A habilitação com um curso pós-básico de enfermagem que seja necessário para acesso a categoria diferente daquela em que o enfermeiro se encontra posicionado confere, mediante requerimento, para efeitos de progressão na categoria de que o enfermeiro é detentor, a seguinte bonificação:
+(Revogado.)
 
-a) De três anos, quando se trate de um curso de especialização em enfermagem nos termos do n.º 1 do artigo 14.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, ou de um curso de administração de serviços de enfermagem;
-
-b) De quatro anos, no caso de a estes enfermeiros ser concedida a equivalência ao diploma de estudos superiores especializados em enfermagem;
-
-c) De quatro anos, quando se trate de um curso de estudos superiores especializados em enfermagem.
-
-2 - O disposto no número anterior aplica-se durante um período transitório de cinco anos, contado da data de entrada em vigor do presente diploma.
-
-3 - Os enfermeiros e os enfermeiros graduados habilitados com um curso de especialização em enfermagem nos termos do n.º 1 do artigo 14.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, que não transitem para a categoria de enfermeiro especialista de acordo com o n.º 2 do artigo 65.º deste diploma, poderão, mediante requerimento, transitar para essa categoria em lugar de quadro ou mapa de pessoal de estabelecimento ou serviço diferente.
-
-4 - O disposto no número anterior aplica-se transitoriamente durante um período de dois anos contado da data da entrada em vigor deste diploma.
-
-5 - Aos enfermeiros e aos enfermeiros graduados que, à data da entrada em vigor deste diploma, se encontrem a frequentar ou tenham sido seleccionados para frequência de um curso de especialização em enfermagem nos termos do n.º 1 do artigo 14.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, é aplicado, após a conclusão deste, o disposto no n.º 2 do artigo 65.º do presente diploma.
-
-6 - Os enfermeiros referidos no número anterior poderão ainda beneficiar do disposto no n.º 3 até ao termo do prazo fixado no seu n.º 4.
-
-7 - Os enfermeiros que tenham usufruído da bonificação referida no n.º 1 não poderão posteriormente transitar para a categoria de enfermeiro especialista segundo as regras previstas no n.º 2 do artigo 65.º ou as referidas no n.º 3 do presente artigo, a menos que o façam para o escalão a que corresponda o índice remuneratório que detinham antes da bonificação.
-
-8 - Enquanto existirem nos estabelecimentos ou serviços auxiliares de enfermagem e enfermeiros de 3.ª classe, serão mantidos nos quadros ou mapas de pessoal os respectivos lugares, ficando estes profissionais na situação de fora de carreira.
-
-9 - Os lugares previstos no número anterior serão extintos quando vagarem, sendo criado, nos respectivos quadros ou mapas de pessoal, igual número de lugares da categoria de enfermeiro do nível 1.
-
-10 - Aos auxiliares de enfermagem e enfermeiros de 3.ª classe compete, essencialmente, sob a directa orientação dos enfermeiros, colaborar na prestação dos cuidados de enfermagem, executando tarefas que requeiram menores exigências técnicas.
-
-11 - Os enfermeiros da área de actuação da docência que não transitarem para a carreira docente das escolas superiores de enfermagem poderão, mediante requerimento, transitar para as categorias previstas nesta carreira, de acordo com as seguintes regras:
-
-a) Para enfermeiro graduado, os enfermeiros-monitores;
-
-b) Para enfermeiro especialista, os enfermeiros-assistentes habilitados com um curso de especialização em enfermagem, nos termos do n.º 1 do artigo 14.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio;
-
-c) Para enfermeiro-chefe, os enfermeiros-assistentes habilitados com um curso de especialização em enfermagem, nos termos do n.º 1 do artigo 14.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, ou com o curso de administração de serviços de enfermagem ou com o curso de enfermagem complementar - secção de administração;
-
-d) Como enfermeiro-supervisor, os enfermeiros-professores habilitados com o curso de administração de serviços de enfermagem ou com o curso de enfermagem complementar - secção de administração.
-
-12 - A possibilidade de transição prevista no número anterior termina um ano após a entrada em vigor do diploma que vier a regular a carreira docente das escolas superiores de enfermagem.
-
-13 - A transição prevista no n.º 11 implica a existência de vaga na respectiva categoria, no estabelecimento ou serviço para cujo quadro ou mapa de pessoal o enfermeiro docente pretenda transitar.
-
-14 - A aplicação do disposto no n.º 3 do artigo 57.º será faseada nos seguintes termos:
-
-a) À data da entrada em vigor do presente diploma, aos enfermeiros com 12 ou mais anos de serviço;
-
-b) Um ano após aquela data, aos enfermeiros que contem seis ou mais anos de serviço;
-
-c) Dois anos decorridos sobre a mesma data, aos enfermeiros com três ou mais anos de serviço.
-
-15 - Durante um período de três anos a partir da entrada em vigor do presente diploma, poderão os enfermeiros ser admitidos, a título transitório, por contrato administrativo de provimento.
-
-16 - O contrato administrativo de provimento é celebrado por escrito e dele consta, obrigatoriamente:
-
-a) O nome dos outorgantes;
-
-b) A categoria, a remuneração e a data de início do contrato;
-
-c) A data e a assinatura dos outorgantes.
-
-17 - O contrato administrativo de provimento considera-se celebrado por um ano, tácita e sucessivamente renovável por iguais períodos, se não for oportunamente denunciado.
-
-18 - O recrutamento do pessoal contratado nos termos do n.º 15 obedece a um processo de selecção sumário, de que faz parte:
-
-a) A publicitação da oferta de emprego em jornal de expansão regional e nacional, incluindo obrigatoriamente a indicação do tipo de contrato a celebrar, o serviço a que se destina, a categoria, os requisitos exigidos e aqueles que constituem condição de preferência, bem como a remuneração a atribuir;
-
-b) A apreciação das candidaturas por um júri especialmente designado para o efeito;
-
-c) A elaboração da acta contendo obrigatoriamente os fundamentos da decisão tomada e os critérios adoptados para a admissão.
-
-19 - A acta referida na alínea c) do número anterior é fornecida em certidão a qualquer candidato que a solicite.
-
-20 - Só pode ser contratado o pessoal que possua as habilitações previstas no presente diploma.
-
-21 - O tempo de serviço prestado na situação de contratado conta para todos os efeitos legais, desde que se verifique, sem interrupção de funções, a subsequente nomeação na categoria de enfermeiro.
-
-22 - O prazo referido no n.º 15 poderá ser renovado, por despacho conjunto dos Ministros da Saúde e das Finanças, enquanto se verificarem carências de pessoal de enfermagem a nível nacional.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 67.º — Disposições finais
 
-1 - Pela aplicação deste diploma consideram-se automaticamente actualizados os quadros ou mapas de pessoal de enfermagem dos respectivos estabelecimentos ou serviços.
+(Revogado.)
 
-2 - Os lugares de técnico de enfermagem são automaticamente convertidos em lugares de assessor técnico de enfermagem.
-
-3 - Os lugares de assessor técnico regional de enfermagem serão a criar consoante as necessidades.
-
-4 - Os cursos referidos no artigo 11.º, n.º 3, alínea d), n.º 4, alínea c), n.º 5, alínea d), e n.º 7, alínea c), devem situar-se no âmbito da administração geral, da Administração Pública ou da administração da saúde.
-
-5 - Sempre que, para efeitos de admissão a concurso, surjam dúvidas quanto ao enquadramento dos cursos que os candidatos possuam no âmbito referido no número anterior, as mesmas serão esclarecidas pelo Departamento de Recursos Humanos da Saúde.
-
-6 - Os concursos cujo aviso de abertura se encontre publicado à data da entrada em vigor deste diploma mantêm-se válidos apenas para as vagas postas a concurso, existentes à data da respectiva abertura.
-
-7 - Os candidatos aprovados nos concursos a que se refere o número anterior serão nomeados nas categorias para que transitaram os actuais detentores das categorias a que se candidataram.
-
-8 - O regime previsto no capítulo IV deste diploma não se aplica aos concursos abertos antes da sua entrada em vigor e até ao termo do seu prazo de validade.
-
-9 - O presente diploma entra em vigor no dia 1 de Janeiro de 1992, incluindo os efeitos de natureza remuneratória.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 ###### Artigo 68.º — Revogações
 
-1 - Ficam revogados:
+(Revogado.)
 
-a) O [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio, e legislação complementar;
-
-b) O [Decreto-Lei n.º 134/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1987-662139), de 17 de Março, com excepção do artigo 5.º;
-
-c) O [Decreto-Lei n.º 34/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1990-335235), de 24 de Janeiro, com excepção do artigo 10.º, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 38/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1991-146916), de 18 de Janeiro;
-
-d) O [Decreto-Lei n.º 38/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1991-146916), de 18 de Janeiro, com excepção dos artigos 1.º e 2.º;
-
-e) O [Decreto Regulamentar n.º 6/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1991-484410), de 26 de Fevereiro.
-
-2 - Até à entrada em vigor da carreira dos docentes das escolas superiores de enfermagem mantêm-se as disposições contidas nos diplomas referidos no número anterior que sejam aplicáveis à área de actuação da docência.
+> Revogado pelo/a [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), publicado em 2009-09-22.
 
 Visto e aprovado em Conselho de Ministros de 12 de Setembro de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Jorge Augusto Pires.
 
