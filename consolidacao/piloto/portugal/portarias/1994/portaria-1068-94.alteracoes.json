@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º\n\nPlano de estudos\n\nO plano de estudos do curso é o constante do anexo à presente portaria.",
+    "depois": "4.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:555618:por",
+    "alterador": "pt:dre:518809:por"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:551671:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1307/2005 extingue a zona de caça municipal criada pela Portaria n.º 228/2004 e concessiona uma nova zona de caça associativa; não revoga nem altera o texto da portaria original (não é alteração textual).",
+  "instrucoes": [
+    "Alterador 1, 1.º: extinção da zona de caça municipal dos Porteirinhos; não é instrução textual sobre o original, nada aplicado.",
+    "Alterador 1, 2.º e 3.º: concessão de nova zona de caça associativa; disposições próprias, não dirigidas ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

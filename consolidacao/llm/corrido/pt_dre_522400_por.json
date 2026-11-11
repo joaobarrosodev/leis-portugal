@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:522400:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 4/2001): no anexo, rubrica de despesas de representação, '010303' passa a '010301', mas esse código está nos quadros do orçamento, que só vêm em imagem (unidade 7); não aplicado.",
+  "instrucoes": [
+    "Alterador 1: troca de '010303' por '010301' na designação da despesa — texto só nos quadros em imagem, não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

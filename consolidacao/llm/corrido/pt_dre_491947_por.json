@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:491947:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 6/2005 substitui o anexo (plano de estudos), cujos quadros só existem em imagem no documento original; não há alteração textual segura a aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do anexo (quadros n.os 1 a 4 só em imagem) — não aplicado.",
+    "Alterador 1, n.os 2.º e 3.º: normas próprias (transição, aplicação), não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

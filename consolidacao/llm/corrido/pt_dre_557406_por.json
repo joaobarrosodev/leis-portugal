@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:557406:por",
+  "substituicoes": [
+    {
+      "de": 34,
+      "ate": 36,
+      "texto": "Curso de Ciências Sociais\n\nGrau: licenciatura\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/06/146b00/27312733.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: o plano de estudos passa a ser o do anexo da Portaria n.º 379/2000 - unidades 34 a 36 substituídas pelo novo anexo (cabeçalho da unidade 33 igual, mantido)",
+    "Alterador 1, 2.º a 4.º: regras próprias (semanas lectivas, aplicação, transição) - não alteram o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

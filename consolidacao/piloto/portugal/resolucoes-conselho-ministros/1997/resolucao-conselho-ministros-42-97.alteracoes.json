@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 30-30",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - O Conselho poderá convidar para nele tomarem assento outras entidades cuja participação julgue conveniente no desenvolvimento dos trabalhos, nomeadamente a Associação Nacional de Municípios, a Associação Nacional de Seguradoras, a Prevenção Rodoviária Portuguesa, o Automóvel Clube de Portugal, a Liga dos Bombeiros Portugueses e a Brisa.",
+    "depois": "4 - O Conselho poderá convidar para nele tomarem assento outras entidades cuja participação julgue conveniente no desenvolvimento dos trabalhos, nomeadamente a Associação Nacional de Municípios, a Associação Nacional de Seguradoras, a Prevenção Rodoviária Portuguesa, o Automóvel Clube de Portugal, a Liga dos Bombeiros Portugueses, a BRISA e o Centro Rodoviário Português.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:517261:por",
+    "alterador": "pt:dre:621509:por"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:510389:por",
+  "substituicoes": [
+    {
+      "de": 38,
+      "ate": 39,
+      "texto": "1 - O número máximo de novos alunos a admitir anualmente não pode exceder 250.\n\n2 - A frequência global do curso não pode exceder 1520 alunos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 974/2004 n.º 1.º: nova redacção do n.º 5.º (n.os 1 e 2) — unidades 38 e 39 substituídas; epígrafe e número do ponto mantidos.",
+    "Portaria 974/2004 n.os 2.º e 3.º: vagas para 2004-2005 e aplicação, normas próprias do alterador; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

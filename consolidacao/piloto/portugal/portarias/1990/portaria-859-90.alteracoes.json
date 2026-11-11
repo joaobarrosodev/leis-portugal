@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º\n\nCarta de curso do grau de bacharel\n\nO modelo de carta de curso do grau de bacharel conferido pelo Instituto Politécnico de Lisboa através das suas escolas superiores é o constante do anexo I à presente portaria.\n\n2.º\n\nCarta de curso do grau de licenciado\n\nO modelo de carta de curso do grau de licenciado conferido pelo Instituto Politécnico de Lisboa através das suas escolas superiores é o constante do anexo II à presente portaria.",
+    "depois": "1.º - (Revogado.)\n\n2.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:557602:por",
+    "alterador": "pt:dre:218358:por"
+  }
+]

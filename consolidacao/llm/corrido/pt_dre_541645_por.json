@@ -1,0 +1,42 @@
+{
+  "id": "pt:dre:541645:por",
+  "substituicoes": [
+    {
+      "de": 45,
+      "ate": 45,
+      "texto": "Contabilidade e Finanças Públicas ... 6",
+      "alterador": 1
+    },
+    {
+      "de": 160,
+      "ate": 160,
+      "texto": "Radiologia ... 20",
+      "alterador": 1
+    },
+    {
+      "de": 311,
+      "ate": 311,
+      "texto": "Conservação e Restauro ... 2\n\nGestão do Território e do Património Cultural ... 6",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 330,
+      "texto": "Escola Superior Agrária de Viseu\n\nEngenharia Agrária ... 10\n\nEngenharia Agrícola ...10\n\nEngenharia das Ciências Vitivinícolas ... 10\n\nEngenharia das Indústrias Agro-Alimentares ... 10\n\nEngenharia Zootécnica ... 10",
+      "alterador": 1
+    },
+    {
+      "depois_de": 332,
+      "texto": "Escola Superior de Tecnologia e Gestão de Lamego\n\nEngenharia Informática e Telecomunicações ... 3\n\nGestão e Informática ... 3\n\nGestão Turística, Cultural e Patrimonial ... 3\n\nEscola Superior de Tecnologia de Viseu\n\nContabilidade e Administração ... 10\n\nEngenharia do Ambiente ... 15\n\nEngenharia Civil ... 10\n\nEngenharia Electrotécnica ... 15\n\nEngenharia Mecânica e Gestão Industrial ... 15\n\nEngenharia de Sistemas e Informática ... 15\n\nGestão Comercial e da Produção ... 2\n\nTurismo ... 5",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nova redação do anexo nas partes: Contabilidade e Finanças Públicas (Cávado e Ave) 5→6 (unidade 45); Radiologia (ESS Faro) 10→20 (unidade 160); ESTT Tomar: Conservação e Restauro 8→2 e novo curso Gestão do Território e do Património Cultural ... 6 (unidade 311); Instituto Politécnico de Viseu: inserida a Escola Superior Agrária de Viseu antes da ESE (após 330) e as ESTG Lamego e EST Viseu após a ESE (após 332); restantes linhas iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:518416:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "Portugal é Parte destas Convenções, aprovadas, para ratificação, pelo [Decreto-Lei n.º 42991](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42991-1960-504545), publicado no Diário do Governo, 1.ª série, n.º 123, de 26 de Maio de 1960, tendo depositado o seu instrumento de ratificação em 14 de Março de 1961, conforme o Aviso publicado no Diário do Governo, 1.ª série, n.º 93, de 21 de Abril de 1961.\n\nPortugal é Parte destes Protocolos, aprovados, para ratificação, pela [Resolução da Assembleia da República n.º 10/92](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/10-1992-189078), publicada no Diário da República, 1.ª série, n.º 77, de 1 de Abril de 1992, e ratificados pelo [Decreto do Presidente da República n.º 10/92](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/10-1992-189077), publicado no Diário da República, 1.ª série-A, n.º 77, de 1 de Abril de 1992, tendo depositado o seu instrumento de ratificação em 27 de Maio de 1992, conforme o [Aviso n.º 100/92](https://diariodarepublica.pt/dr/detalhe/aviso/100-1992-291942), publicado no Diário da República, 1.ª série, n.º 163, de 17 de Julho de 1992.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Aviso 205/2007): retificação do 2.º parágrafo ('onde se lê ... deve ler-se') — unidade 3 substituída pelos dois parágrafos do 'deve ler-se'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

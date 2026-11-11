@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:509392:por",
+  "substituicoes": [
+    {
+      "de": 2,
+      "ate": 2,
+      "texto": "Considerando que em 28 de Outubro de 1989 cessou a comissão de serviço Fernando Neto Mateus da Silva, à data director de serviços da Direcção-Geral dos Equipamentos Educativos;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Rectificação n.º 191/91: no preâmbulo, onde se lê «Fernando Neto Mateus» deve ler-se «Fernando Neto Mateus da Silva» — unidade 2 substituída com o nome rectificado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

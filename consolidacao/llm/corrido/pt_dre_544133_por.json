@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:544133:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 1399/2003, 2.º: o anexo passa a ter nova redação, mas os quadros do novo anexo só vêm em imagem (ver quadro no documento original); não se aplica.",
+  "instrucoes": [
+    "Alterador 1, 1.º: desdobramento do 2.º ciclo em ramos - norma própria, não altera o texto do original",
+    "Alterador 1, 2.º: substitui o anexo - quadros só em imagem, não aplicado",
+    "Alterador 1, 3.º a 5.º: normas próprias"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

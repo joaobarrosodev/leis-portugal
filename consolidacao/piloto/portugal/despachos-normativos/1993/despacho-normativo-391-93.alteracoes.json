@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Considerando que em 29 de Maio de 1993 cessou a comissão de serviço da licenciada Áurea Bebiano e Moura, à data chefe de divisão na extinta Direcção-Geral da Qualidade do Ambiente;",
+    "depois": "Considerando que em 29 de Maio de 1993 cessou a comissão de serviço da licenciada Áurea Bebiano Costa e Moura, à data chefe de divisão na extinta Direcção-Geral da Qualidade do Ambiente;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:551633:por",
+    "alterador": "pt:dre:151483:por"
+  }
+]

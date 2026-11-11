@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:491399:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 1086/2010 substitui a planta anexa, que só existe em imagem no documento original; não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Alterador 1, artigo único: substitui a planta anexa por outra (só em imagem) — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

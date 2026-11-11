@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:527585:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Declaração de Rectificação n.º 73/2004: as duas rectificações (inserção da Escola Superior de Tecnologia do Mar de Peniche no anexo I e Universidade do Minho/Educação/2 para /5 no anexo II) incidem sobre tabelas dos anexos que só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1: rectifica o anexo I (inserção de estabelecimento após o curso Solicitadoria da ESTG de Leiria) — tabela só em imagem, não aplicada.",
+    "Alterador 1: rectifica o anexo II (Universidade do Minho/Educação/2 para /5) — tabela só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

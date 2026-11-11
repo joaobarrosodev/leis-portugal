@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pelo Ministro do Comércio e Turismo, Miguel António Igrejas Horta e Costa, Secretário de Estado do Comércio Externo.",
+    "depois": "Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:495897:por",
+    "alterador": "pt:dre:444264:por"
+  }
+]

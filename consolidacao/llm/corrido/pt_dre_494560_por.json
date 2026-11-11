@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:494560:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º É desanexado da zona de caça turística da Herdade da Defesa da Bobadela de Baixo e outras (processo n.º 146-AFN) o prédio rústico denominado Herdade da Defesa da Bobadela de Cima, sito na freguesia de Capelins, município de Alandroal, com a área de 530 ha, ficando esta zona de caça com a área total de 549 ha, conforme planta anexa a esta portaria e que dela faz parte integrante.",
+      "alterador": 1
+    },
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, a João de Almeida Dias Coutinho, com o número de identificação fiscal 105569100, residente na Herdade da Defesa do Abadel, apartado 39, 7100 Estremoz, a zona de caça turística da Herdade da Defesa do Abadel (processo n.º 4994-AFN), constituída pelo prédio rústico denominado Herdade da Defesa da Bobadela de Cima, sito na freguesia de Capelins, município de Alandroal, com a área de 508 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, artigo 1.º, n.º 3: substitui as plantas anexas, que só existem em imagem — não aplicado.",
+  "instrucoes": [
+    "Alterador 1, artigo 1.º, n.º 1: nova redação do n.º 1.º — substituída a unidade 8.",
+    "Alterador 1, artigo 1.º, n.º 2: nova redação do n.º 2.º — substituída a unidade 9.",
+    "Alterador 1, artigo 1.º, n.º 3: substituição das plantas anexas (imagem) — não aplicado.",
+    "Alterador 1, artigo 2.º: produção de efeitos da própria portaria alteradora, não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

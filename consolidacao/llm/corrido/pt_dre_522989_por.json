@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:522989:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 80/92): todas as rectificações (quadro em imagem; '267 contos' por '367 contos' no Ministério do Planeamento; 'Gabinete do Secretário de Estado Adjunto do Ministro' por 'Gabinete do Subsecretário de Estado Adjunto do Ministro' no Ministério da Agricultura; aditamento omitido no Ministério do Ambiente) incidem sobre os mapas de alterações orçamentais, que no original só vêm em imagem (unidade 3); não aplicado.",
+  "instrucoes": [
+    "Alterador 1: rectificação de quadro (onde se lê / deve ler-se em imagem) — não aplicada.",
+    "Alterador 1: '267 contos' por '367 contos' (Min. Planeamento, cap. 01, div. 03) — texto só em imagem, não aplicada.",
+    "Alterador 1: 'Secretário de Estado Adjunto' por 'Subsecretário de Estado Adjunto' (Min. Agricultura, cap. 01, div. 05) — texto só em imagem, não aplicada.",
+    "Alterador 1: aditamento omitido no Ministério do Ambiente — conteúdo só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

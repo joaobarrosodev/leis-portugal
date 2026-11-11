@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:527057:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 254/2002, 1.º: o novo plano de estudos da variante de Educação Física (quadros do anexo) só vem em imagem; não há texto para aplicar ao anexo do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos da variante de Educação Física — quadros só em imagem, não aplicado.",
+    "Alterador 1, 2.º a 5.º: normas próprias (número máximo de alunos, semanas lectivas, aplicação, transição), não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

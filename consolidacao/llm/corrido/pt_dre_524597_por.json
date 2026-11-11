@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:524597:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 1101/2001, 1.º: os quadros n.os 2 e 4 do anexo passam a ter nova redação, mas os quadros novos só vêm em imagem (ver quadro no documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos quadros n.os 2 e 4 do anexo — só em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º: norma de aplicação própria do alterador, não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

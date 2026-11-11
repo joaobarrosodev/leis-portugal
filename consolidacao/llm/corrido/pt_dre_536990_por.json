@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:536990:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1079/2009 altera o n.º 1.º de outra Portaria n.º 1449/2001 (2.ª série, DR n.º 199 de 28 de Agosto de 2001, Conselho Cinegético Municipal de Vila Pouca de Aguiar), não esta portaria de 22 de Dezembro sobre raças autóctones; não se aplica.",
+  "instrucoes": [
+    "Nova redação do n.º 1.º (composição do Conselho Cinegético) dirigida a diploma homónimo da 2.ª série — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:533386:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os anexos I e II passam a ter a redação dos anexos da Portaria n.º 202/2004, cujos quadros só vêm em imagem no documento original.",
+  "instrucoes": [
+    "1.º: nova redação dos anexos I e II (plano de estudos): quadros só em imagem, não aplicado. 2.º e 3.º (transição, aplicação) são normas próprias do alterador, sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

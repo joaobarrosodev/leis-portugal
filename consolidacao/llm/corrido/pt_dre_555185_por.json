@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:555185:por",
+  "substituicoes": [
+    {
+      "de": 39,
+      "ate": 41,
+      "texto": "1 - A Escola organizará estágio ou estágios com duração total não inferior a 18 semanas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1 do 1.º: o novo plano de estudos (anexo) só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º, n.º 1: substituição do plano de estudos anexo (só em imagem); não aplicada.",
+    "Alterador 1, 1.º, n.º 2: nova redação do n.º 1 do n.º 7.º, sem alíneas; substituídas as unidades 39 a 41 (corpo e alíneas a) e b) do n.º 1)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

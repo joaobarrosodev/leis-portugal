@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:500431:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a retificação na p. 2108 ('Cap. 01 - div. 03' para 'Cap. 01 - div. 03 - subdiv. 01') incide sobre o mapa que só existe em imagem (unidade 3); não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1: retifica designação no mapa da p. 2108; mapa só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

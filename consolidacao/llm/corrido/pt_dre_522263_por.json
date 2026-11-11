@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:522263:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Declaração de Rectificação n.º 7-I/2000): rectifica o quadro IV (Direcção Regional dos Assuntos Culturais), mas o 'onde se lê' e o 'deve ler-se' só vêm em imagem e não se sabe qual dos quadros em imagem do original (unidades 16/18) é o visado; não aplicado.",
+  "instrucoes": [
+    "Alterador 1: rectificação do quadro IV — quadros só em imagem, não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

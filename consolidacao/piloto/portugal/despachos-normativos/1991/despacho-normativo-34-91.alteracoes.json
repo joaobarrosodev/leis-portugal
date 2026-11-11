@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Considerando que em 28 de Outubro de 1989 cessou a comissão de serviço Fernando Neto Mateus, à data director de serviços da Direcção-Geral dos Equipamentos Educativos;",
+    "depois": "Considerando que em 28 de Outubro de 1989 cessou a comissão de serviço Fernando Neto Mateus da Silva, à data director de serviços da Direcção-Geral dos Equipamentos Educativos;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:509392:por",
+    "alterador": "pt:dre:688444:por"
+  }
+]

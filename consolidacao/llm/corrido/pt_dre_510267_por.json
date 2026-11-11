@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:510267:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 730/2001, n.os 1.º e 2.º: elimina os ramos de Produção Automóvel e Energia do 2.º ciclo e dá nova redacção ao plano de estudos (anexo); o anexo original e o novo só existem como quadros em imagem (ver documento original), pelo que a alteração não pode ser aplicada textualmente com segurança.",
+  "instrucoes": [
+    "Portaria 730/2001 n.º 1.º: eliminação dos ramos Produção Automóvel e Energia — os ramos não constam do texto (só nos quadros em imagem); não aplicado.",
+    "Portaria 730/2001 n.º 2.º: plano de estudos passa a ter a redacção do anexo — anexo só em imagem; não aplicado.",
+    "Portaria 730/2001 n.os 3.º e 4.º: transição e aplicação, normas próprias do alterador; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

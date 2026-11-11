@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Só serão autorizadas a desenvolver alguma ou algumas das actividades a que se refere o n.º 1.º as caixas agrícolas que, satisfazendo todas as restantes condições, disponham de fundos próprios suficientes para o tipo e volume das operações que pretendam realizar, os quais não poderão, em qualquer caso, ser inferiores a 750000 contos.",
+    "depois": "4.º Só serão autorizadas a desenvolver alguma ou algumas das actividades a que se refere o n.º 1.º as caixas agrícolas que, satisfazendo todas as restantes condições, disponham de fundos próprios suficientes para o tipo e volume das operações que pretendam realizar, os quais não poderão, em qualquer caso, ser inferiores a 10.000.000 (euro).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:510387:por",
+    "alterador": "pt:dre:1130139:por"
+  },
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º As caixas agrícolas que pretendam obter a autorização prevista no n.º 2 do artigo 28.º do regime jurídico do crédito agrícola mútuo e das cooperativas de crédito agrícola, aprovado pelo [Decreto-Lei n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1991-693844), de 11 de Janeiro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 102/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1999-138778), de 31 de Março, devem fazer prova junto do Banco de Portugal de que cumprem, em base individual, as regras prudenciais fixadas ao abrigo do artigo 99.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras.",
+    "depois": "6.º Para efeitos de determinação do cumprimento das regras prudenciais previstas na alínea c) do n.º 2.º e do montante mínimo de fundos próprios determinado no n.º 4.º, não deverão ser consideradas as isenções, concedidas pelo Banco de Portugal, aos limites estabelecidos nos n.os 6.º e 7.º do Aviso do Banco de Portugal n.º 12/92.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:510387:por",
+    "alterador": "pt:dre:1130139:por"
+  },
+  {
+    "artigo": "unidades 19-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º As caixas agrícolas que fazem parte do sistema integrado do crédito agrícola mútuo devem juntar também ao pedido o parecer favorável da Caixa Central.\n\n8.º A autorização a que se refere o n.º 6.º poderá ser revogada se a caixa agrícola deixar de cumprir alguma das regras prudenciais mencionadas nesse número.\n\n9.º O saldo do crédito concedido ao abrigo da autorização a que se refere o mesmo n.º 6.º não pode exceder 20% do activo líquido total da caixa agrícola reportado a 31 de Dezembro do último exercício.\n\n10.º No caso das caixas agrícolas que tenham iniciado a sua actividade durante o ano que estiver a decorrer, a percentagem referida no número anterior incidirá sobre o activo líquido total da caixa agrícola apurado com base na última «situação analítica mensal» remetida ao Banco de Portugal.\n\n11.º Tratando-se de caixas agrícolas resultantes de fusão realizada durante o ano que estiver a decorrer, a percentagem referida no n.º 9.º incidirá sobre a soma do activo líquido total das caixas participantes na fusão, reportado a 31 de Dezembro do último exercício.",
+    "depois": "7.º - (Revogado.)\n\n8.º - (Revogado.)\n\n9.º - (Revogado.)\n\n10.º - (Revogado.)\n\n11.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:510387:por",
+    "alterador": "pt:dre:1130139:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 40-43",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) e as respectivas alterações estão sujeitos a registo.\n\n2 - O registo efectua-se através de despacho do Ministro da Educação, ouvida a comissão de especialistas a que se refere o n.º 3 do artigo 52.º do Estatuto.\n\n3 - O Ministro da Educação recusa o registo do regulamento se o mesmo for desconforme com a lei ou com os Estatutos da Universidade Fernando Pessoa.\n\n4 - Após o registo, a entidade instituidora faz publicar o regulamento, bem como as suas alterações, na 2.ª série do Diário da República.",
+    "depois": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:558067:por",
+    "alterador": "pt:dre:667161:por;pt:dre:172734:por"
+  },
+  {
+    "artigo": "unidades 49-56",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso: Sistemas Interactivos\n\nGrau de mestre\n\nQUADRO N.º 1\n\n1.º semestre\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)\n\nQUADRO N.º 2\n\n2.º semestre\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)",
+    "depois": "Curso de Sistemas de Informação e Multimédia\n\nGrau de mestre\n\nQUADRO N.º 1\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)\n\nQUADRO N.º 2\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:558067:por",
+    "alterador": "pt:dre:667161:por;pt:dre:172734:por"
+  }
+]

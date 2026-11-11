@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:527198:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Declaração de Rectificação n.º 80/2004, n.os 1 e 2: as rectificações às tabelas dos anexos I e II (onde se lê / deve ler-se) só vêm em imagem; não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1: rectificação da tabela do anexo I — só em imagem, não aplicada.",
+    "Alterador 1, n.º 2: rectificação da tabela do anexo II — só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

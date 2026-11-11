@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 2-2",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Por ordem superior se torna público que, em 30 de Setembro de 2004, a Nigéria depositou o seu instrumento de adesão ao Protocolo de Quioto à Convenção Quadro sobre Alterações Climáticas, de 9 de Maio de 1992, concluído em Quioto em 10 de Dezembro de 1997.",
+    "depois": "Por ordem superior se torna público que, em 30 de Setembro de 2004, a Níger depositou o seu instrumento de adesão ao Protocolo de Quioto à Convenção Quadro sobre Alterações Climáticas, de 9 de Maio de 1992, concluído em Quioto em 10 de Dezembro de 1997.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:534059:por",
+    "alterador": "pt:dre:564400:por"
+  }
+]

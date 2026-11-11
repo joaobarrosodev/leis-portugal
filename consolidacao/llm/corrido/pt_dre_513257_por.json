@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:513257:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1 elimina as notas (n) e (m) do mapa anexo, que só existe em imagem (unidade 17); não há texto onde aplicar.",
+  "instrucoes": [
+    "Alt. 1: eliminação das notas (n) e (m) do mapa anexo -> não aplicável, mapa só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:524391:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1007/2009), n.º 1.º: a planta anexa (unidade 10) é substituída pela apensa à portaria alteradora, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição da planta anexa — só em imagem, não aplicada (nao_aplicavel).",
+    "Alterador 1, 2.º a 6.º: dizem respeito à zona de caça municipal da Granja do Ulmeiro, não ao original — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - A CCCA é constituída por um representante do Ministério da Agricultura, um representante do Ministério da Educação, um representante do Ministério do Emprego e da Segurança Social, um representante do Ministério do Comércio e Turismo, um representante da Federação Portuguesa Equestre, um representante da Associação Portuguesa de Criadores de Raças Selectas e um representante da sociedade concessionária, devendo o seu presidente ser designado pelo Ministério da Educação e gozar de voto de qualidade.",
+    "depois": "2 - Os elementos que constituem a CCCA são nomeados por um período de três anos, sendo um representante do membro do Governo responsável pela área do desporto, um representante do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, um representante do Ministério da Solidariedade e Segurança Social, um representante do Ministério da Economia, um representante da Federação Portuguesa Equestre, um representante da Associação Portuguesa de Criadores de Raças Selectas e um representante da sociedade concessionária, devendo o seu presidente ser designado pelo membro do Governo responsável pela área do desporto e gozar de voto de qualidade.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:512819:por",
+    "alterador": "pt:dre:422866:por"
+  },
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) A elaboração de um projecto de regulamento das apostas mútuas hípicas e um projecto de regulamento das corridas de cavalos, os quais serão objecto de resolução do Conselho de Ministros, mediante proposta conjunta dos Ministros da Agricultura, da Educação e do Comércio e Turismo;",
+    "depois": "a) A elaboração de um projecto de regulamento das apostas mútuas hípicas e um projecto de regulamento das corridas de cavalos, os quais serão objecto de resolução do Conselho de Ministros, mediante proposta conjunta do membro do Governo responsável pela área do desporto e dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e da Economia;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:512819:por",
+    "alterador": "pt:dre:422866:por"
+  },
+  {
+    "artigo": "depois da unidade 14",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "f) Elaborar estudos sobre regimes fiscais aplicáveis às apostas mútuas hípicas, com base idêntica aos adoptados nos países com vasta experiência em corridas de cavalos, e consequentemente apresentar propostas legislativas relativas a esta matéria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:512819:por",
+    "alterador": "pt:dre:422866:por"
+  },
+  {
+    "artigo": "unidades 20-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Atribuição aos Ministros da Educação e do Comércio e Turismo da competência para, por despacho conjunto, fixarem o valor anual da aposta unitária para as diferentes modalidades, sob proposta da concessionária e mediante parecer da CCCA;",
+    "depois": "c) Atribuição ao membro do Governo responsável pela área do desporto e ao Ministro da Economia de competência para, por despacho conjunto, fixarem o valor anual da aposta unitária para as diferentes modalidades, sob proposta da concessionária e mediante parecer da CCCA;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:512819:por",
+    "alterador": "pt:dre:422866:por"
+  },
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) Permissão de outras espécies e ou modalidades de aposta por despacho conjunto dos Ministros da Educação e do Comércio e Turismo, sob proposta da concessionária e mediante parecer favorável da CCCA;",
+    "depois": "e) Permissão de outras espécies e ou modalidades de aposta por despacho conjunto do membro do Governo responsável pela área do desporto e do Ministro da Economia, sob proposta da concessionária e mediante parecer favorável da CCCA;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:512819:por",
+    "alterador": "pt:dre:422866:por"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:499510:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: as duas retificações (cap. 03, div. 03 e div. 10) incidem sobre o mapa de transferências que só existe em imagem (unidade 3, documento original); não se aplicam ao texto.",
+  "instrucoes": [
+    "Alterador 1: retifica designações no mapa (subdiv. 08 e subdiv. 02); mapa só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

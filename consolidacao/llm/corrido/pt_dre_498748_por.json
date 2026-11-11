@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:498748:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1219/2000) manda substituir «Escola Profissional de Pesca de Lisboa (EPPL)» por «Escola de Pesca e da Marinha de Comércio (EPMC)», mas essa expressão não existe no texto atual da Portaria n.º 924/87 (a instrução visa de facto a Portaria n.º 489/87, referida no preâmbulo).",
+  "instrucoes": [
+    "Alterador 1: substituição de «Escola Profissional de Pesca de Lisboa (EPPL)»; texto inexistente no original; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:512648:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 18966 n.º 1.º: altera os quantitativos diários da tabela anexa para praças de 3.ª em Angola; a tabela só existe em imagem (ver documento original), pelo que não pode ser alterada textualmente.",
+  "instrucoes": [
+    "Portaria 18966 n.º 1.º: altera valores da tabela anexa — tabela só em imagem; não aplicado.",
+    "Portaria 18966 n.º 2.º: data de início do abono, norma própria; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

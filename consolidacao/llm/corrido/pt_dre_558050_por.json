@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:558050:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: manda substituir o anexo I da Portaria n.º 823/2000 (plano de estudos do curso de Enfermagem da Escola Superior de Enfermagem de Artur Ravara), mas o original é uma portaria de zona de caça sem anexo I nem plano de estudos; alvo inexistente no texto (e o novo anexo só vem em imagem).",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição do anexo I (plano de estudos) - não aplicada, alvo inexistente no original",
+    "Alterador 1, 2.º e 3.º: transição e aplicação - não alteram o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

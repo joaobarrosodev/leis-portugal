@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:519993:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "O curso tem a duração de dois semestres letivos.",
+      "alterador": 1
+    },
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "O número de créditos, segundo o sistema europeu de transferência e acumulação de créditos, necessário à obtenção do diploma de especialização em Enfermagem de Reabilitação é de 60.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 374/2017), art. 2.º: o plano de estudos (anexo) passa a ter a redação do anexo da portaria, cujo quadro só vem em imagem (ver documento original); não aplicável com segurança.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do 3.º (duração: dois semestres letivos) — unidade 18 substituída; epígrafe mantida ([...]).",
+    "Alterador 1, art. 1.º: nova redação do 4.º (créditos: 60) — unidade 21 substituída; epígrafe mantida ([...]).",
+    "Alterador 1, art. 2.º: substituição do plano de estudos — quadro só em imagem, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:527045:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 1557/2002: o pedido não traz nenhum texto do alterador (secção vazia), pelo que não há instrução que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1: texto ausente no pedido — nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

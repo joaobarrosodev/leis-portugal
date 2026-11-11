@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:507233:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: a substituição da planta anexa à Portaria n.º 938/2004 não é aplicável ao texto, porque a planta só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 2.º da Portaria n.º 771/2003 (outro diploma); ignorada.",
+    "Alterador 1, 2.º: substitui a planta anexa à Portaria n.º 938/2004; planta só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Assinada em 29 de Março de 1999.",
+    "depois": "Assinada em 29 de Dezembro de 1998.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:549051:por",
+    "alterador": "pt:dre:408907:por"
+  }
+]

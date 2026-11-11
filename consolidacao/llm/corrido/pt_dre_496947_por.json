@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:496947:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1264-AQ/2004), n.º 1.º: extingue a zona de caça municipal do Sítio das Naves criada pela portaria; não é uma alteração textual nem uma revogação expressa do texto, pelo que nada se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: extinção da zona de caça criada pelo original; efeito material, sem alteração textual; não aplicado. Os n.os 2.º a 5.º dizem respeito a nova zona de caça associativa, não ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

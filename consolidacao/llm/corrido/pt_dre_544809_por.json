@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:544809:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 70/2002, 1.º: substitui o quadro n.º 3 do anexo, que só vem em imagem tanto no original como no alterador; não se aplica.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo quadro n.º 3 do anexo - só em imagem, não aplicado",
+    "Alterador 1, 2.º: aplicação - norma própria"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

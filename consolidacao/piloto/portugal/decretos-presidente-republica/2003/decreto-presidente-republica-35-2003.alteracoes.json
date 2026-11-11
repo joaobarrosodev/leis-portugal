@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "É ratificado o Acordo entre a República Portuguesa e a República da Estónia sobre Readmissão de Pessoas em Situação Irregular, assinado em Lisboa em 12 de Novembro de 2001, aprovado, para ratificação, pela Resolução da Assembleia da República, n.º 46/2003, em 20 de Março.",
+    "depois": "É ratificado o Acordo entre a República Portuguesa e a República da Estónia sobre Readmissão de Pessoas em Situação Irregular, assinado em Lisboa em 12 de Novembro de 2001, aprovado pela Resolução da Assembleia da República, n.º 46/2003, em 20 de Março.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:540846:por",
+    "alterador": "pt:dre:683195:por"
+  }
+]

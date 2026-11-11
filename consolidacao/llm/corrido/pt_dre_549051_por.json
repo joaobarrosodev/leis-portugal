@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:549051:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "Assinada em 29 de Dezembro de 1998.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: retifica a data da assinatura para 29 de Dezembro de 1998 (unidade 13)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

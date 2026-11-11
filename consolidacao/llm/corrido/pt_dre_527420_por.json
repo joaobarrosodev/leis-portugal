@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:527420:por",
+  "substituicoes": [
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "6.º As empresas de transporte público rodoviário de mercadorias, já detentoras de dotação de carga, podem, através de requerimento devidamente fundamentado, pedir aumentos suplementares de dotações de carga, nos seguintes casos:\n\na) Quando sejam necessários para o licenciamento de novos veículos;\n\nb) Quando sejam necessários para o licenciamento, em âmbito nacional, de veículos já licenciados para o transporte internacional e que não se encontram plenamente utilizados.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 6.º (corpo e alíneas a) e b)) — substituída a unidade 17.",
+    "Alterador 1, 2.º: entrada em vigor do alterador, não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

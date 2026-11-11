@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:547197:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "6.º Os averbamentos nas cédulas destinam-se a registar os factos de carácter exclusivamente profissional, constantes do «registo de inscrição marítima», que envolvam a formação, certificação e actividade dos marítimos, bem como a atestar que a mesma constitui documento de identificação de marítimo do seu titular, para os fins da Convenção n.º 108 da OIT.",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "b) Atestar que a cédula constitui documento de identificação de marítimo do seu titular, para fins da Convenção n.º 108 da OIT;\n\nc) Registos de embarques e desembarques quando a embarcação se encontre em porto estrangeiro onde não exista autoridade consular portuguesa ou no alto mar.",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "10.º Os averbamentos referidos no número anterior serão efectuados, datados e rubricados, no caso das alíneas a) e b), pelo director-geral de Portos, Navegação e Transportes Marítimos e, no caso da alínea c), pelo comandante da embarcação.",
+      "alterador": 1
+    },
+    {
+      "de": 19,
+      "ate": 19,
+      "texto": "11.º As rubricas do director-geral e do comandante da embarcação, referidas no número anterior, serão autenticadas com o selo branco da Direcção-Geral ou com o carimbo da embarcação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º a 5.º: normas próprias sobre a cédula como documento da Convenção n.º 108, não alteram o texto",
+    "Alterador 1, 6.º: nova redação do n.º 6.º (unidade 12)",
+    "Alterador 1, 6.º: n.º 9.º - corpo e alínea a) mantêm-se; nova alínea b) e antiga b) passa a c) (unidade 17)",
+    "Alterador 1, 6.º: nova redação dos n.os 10.º e 11.º (unidades 18 e 19)",
+    "Alterador 1, 7.º: revoga a Portaria n.º 474/72 - outro diploma, ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:520230:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 837/2009), n.º 1.º: o anexo (plano de estudos) passa a ter a redacção do anexo da portaria alteradora, mas os quadros n.os 1 a 3 só vêm em imagem no documento original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redacção do anexo (plano de estudos) — quadros só em imagem, não aplicado (nao_aplicavel).",
+    "Alterador 1, 2.º e 3.º: transição e aplicação no tempo — disposições próprias, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

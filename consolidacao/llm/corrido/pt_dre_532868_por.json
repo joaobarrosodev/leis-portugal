@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:532868:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 15,
+      "texto": "1 - O número de novos alunos a admitir anualmente não pode exceder 30.\n\n2 - A frequência global do curso não pode exceder 150 alunos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os quadros n.os 1 e 2 do anexo passam a ter a redação do anexo da Portaria n.º 1122/2000, que só vem em imagem no documento original.",
+  "instrucoes": [
+    "N.º 1 do 1.º: substitui os quadros n.os 1 e 2 do anexo: só em imagem, não aplicado.",
+    "N.º 2 do 1.º: nova redação do n.º 2.º (30 novos alunos, 150 no total): substituídas as unidades 14 a 15."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

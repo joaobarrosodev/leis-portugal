@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "d) Indústrias de transportes com sede ou residência no concelho de Oeiras há mais de um ano;",
+    "depois": "d) Industriais de transportes com sede ou residência no concelho de Oeiras há mais de um ano;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:521634:por",
+    "alterador": "pt:dre:176518:por"
+  }
+]

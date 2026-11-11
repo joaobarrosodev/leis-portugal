@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:541672:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 757/2007), n.º 1.º: adita o anexo VI, cujo conteúdo só vem em imagem (quadro no documento original); não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: aditamento do anexo VI (quadro em imagem) - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

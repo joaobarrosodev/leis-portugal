@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:544129:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 708/2001), n.º 1.º: nova redação do quadro n.º 3 do anexo, que só vem em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do quadro n.º 3 do anexo (imagem) - não aplicado; 2.º e 3.º são normas próprias, não alteram o texto"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
