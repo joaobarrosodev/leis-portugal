@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:525608:por",
+  "substituicoes": [
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "6.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 21.º: revoga o n.º 6.º; unidade 21 passa a 6.º - (Revogado.). O resto do Despacho Normativo n.º 23/2005 são normas próprias, não alteram o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

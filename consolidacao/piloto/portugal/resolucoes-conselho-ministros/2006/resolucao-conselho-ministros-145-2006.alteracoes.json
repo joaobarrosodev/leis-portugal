@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Estabelecer que o âmbito territorial do plano de ordenamento da Paisagem Protegida da Arriba Fóssil da Costa da Caparica é o constante do mapa anexo ao [Decreto-Lei n.º 168/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1984-383996), de 22 de Maio, conforme referido no n.º 1 do artigo 2.º desse mesmo decreto-lei, abrangendo unicamente áreas pertencentes ao município de Almada.",
+    "depois": "2 - Estabelecer que o âmbito territorial do plano de ordenamento da Paisagem Protegida da Arriba Fóssil da Costa da Caparica é o constante do mapa anexo ao [Decreto-Lei n.º 168/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1984-383996), de 22 de Maio, conforme referido no n.º 1 do artigo 2.º desse mesmo decreto-lei, abrangendo parte dos municípios de Almada e Sesimbra.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:546010:por",
+    "alterador": "pt:dre:518189:por"
+  },
+  {
+    "artigo": "unidades 26-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "j) Um representante da Capitania do Porto de Sesimbra;",
+    "depois": "j) Um representante da Capitania do Porto de Setúbal;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:546010:por",
+    "alterador": "pt:dre:518189:por"
+  },
+  {
+    "artigo": "depois da unidade 28",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "n) Um representante da Câmara Municipal de Sesimbra;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:546010:por",
+    "alterador": "pt:dre:518189:por"
+  },
+  {
+    "artigo": "unidades 29-30",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "n) Um representante do Ministério das Obras Públicas, Transportes e Comunicações;\n\no) Um representante das organizações não governamentais de ambiente, a designar pela Confederação Portuguesa das Associações de Defesa do Ambiente.",
+    "depois": "o) Um representante do Ministério das Obras Públicas, Transportes e Comunicações;\n\np) Um representante das organizações não governamentais de ambiente, a designar pela Confederação Portuguesa das Associações de Defesa do Ambiente.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:546010:por",
+    "alterador": "pt:dre:518189:por"
+  }
+]

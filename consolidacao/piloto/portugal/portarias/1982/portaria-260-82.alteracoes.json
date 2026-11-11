@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Aos peritos é atribuída uma gratificação mensal fixa de 12000$00.",
+    "depois": "4.º Aos peritos é atribuída uma gratificação mensal ilíquida no valor de 30% da remuneração correspondente à letra B, sem diuturnidades, da tabela de remunerações dos funcionários e agentes da Administração Pública.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:599936:por",
+    "alterador": "pt:dre:355508:por"
+  }
+]

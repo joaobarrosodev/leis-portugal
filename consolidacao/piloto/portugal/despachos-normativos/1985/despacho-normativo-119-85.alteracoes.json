@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Seja apresentada dentro do prazo legal a declaração onde for feito o pedido de reembolso; e",
+    "depois": "a) Seja apresentada dentro do prazo legal a declaração onde foi feito o pedido de reembolso e a mesma não contenha inexactidões ou omissões que prejudiquem a correcta apreciação do pedido;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:546425:por",
+    "alterador": "pt:dre:666507:por"
+  },
+  {
+    "artigo": "depois da unidade 16",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "c) Exista conta bancária já confirmada pelo Serviço de Administração do IVA e pela respectiva instituição de crédito.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:546425:por",
+    "alterador": "pt:dre:666507:por"
+  },
+  {
+    "artigo": "depois da unidade 18",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "8 - Em qualquer caso, a Direcção-Geral das Contribuições e Impostos poderá suspender o prazo de concessão dos reembolsos sempre que por facto imputável ao sujeito passivo não seja possível averiguar da legitimidade do reembolso solicitado, nomeadamente quando os elementos referidos no artigo 44.º do Código do Imposto sobre o Valor Acrescentado não sejam postos à disposição dos serviços competentes ou os mesmos se encontrem em condições tais que não permitam o correcto apuramento do imposto a restituir.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:546425:por",
+    "alterador": "pt:dre:666507:por"
+  }
+]

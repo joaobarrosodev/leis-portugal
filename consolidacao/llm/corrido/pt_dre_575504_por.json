@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:575504:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria n.º 483/97) e 2 (Portaria n.º 48/2004) substituem o plano de estudos (anexo I), que não consta das unidades do texto original e cujos quadros só vêm em imagem no documento original; não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 483/97): novo plano de estudos em anexo (só em imagem); não aplicado.",
+    "Alterador 2 (Portaria n.º 48/2004): nova redação do anexo I (quadros só em imagem); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

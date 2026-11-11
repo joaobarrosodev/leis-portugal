@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:563611:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: os anexos n.os 1 e 2 são substituídos pelos anexos n.os 1, 2 e 3 da Portaria n.º 39/94, cujo conteúdo só vem em imagem; não se aplica com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: substituição dos anexos 1 e 2 por três anexos novos (só em imagem); não aplicado.",
+    "Alterador 1, 2.º a 5.º: disposições autónomas da portaria alteradora; nada a fazer.",
+    "Alterador 2: Decreto Regulamentar n.º 3/97 fixa índices de directores escolares, só refere o original; nenhuma instrução dirigida ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

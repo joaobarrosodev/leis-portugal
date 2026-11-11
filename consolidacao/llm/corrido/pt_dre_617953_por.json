@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:617953:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 521/2003) só suspende o exercício da caça, sem alteração textual. Alterador 2 (Portaria n.º 1033-E/2004) revoga a concessão da zona de caça turística atribuída pelo original: é um ato administrativo sobre a concessão, não uma alteração ao texto; nada a aplicar.",
+  "instrucoes": [
+    "Alterador 1: suspensão do exercício da caça - não textual, não aplicado",
+    "Alterador 2: revogação da concessão atribuída pelo original - não textual, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

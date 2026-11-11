@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:496502:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 manda ler «Siemens-Nixdorf» em vez de «Nixdorf» no quadro I, e o alterador 2 retifica uma linha do quadro II (Unisys por IBM); os quadros I e II só existem em imagem (ver documento original), por isso nenhuma das duas mudanças se pode aplicar ao texto.",
+  "instrucoes": [
+    "Alterador 1: no quadro I, «Nixdorf» passa a «Siemens-Nixdorf»; o quadro só existe em imagem, não aplicado.",
+    "Alterador 2: retificação no quadro II (Unisys por IBM, protocolo C 043698); o quadro só existe em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

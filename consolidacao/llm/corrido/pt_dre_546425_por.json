@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:546425:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "a) Seja apresentada dentro do prazo legal a declaração onde foi feito o pedido de reembolso e a mesma não contenha inexactidões ou omissões que prejudiquem a correcta apreciação do pedido;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 16,
+      "texto": "c) Exista conta bancária já confirmada pelo Serviço de Administração do IVA e pela respectiva instituição de crédito.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 18,
+      "texto": "8 - Em qualquer caso, a Direcção-Geral das Contribuições e Impostos poderá suspender o prazo de concessão dos reembolsos sempre que por facto imputável ao sujeito passivo não seja possível averiguar da legitimidade do reembolso solicitado, nomeadamente quando os elementos referidos no artigo 44.º do Código do Imposto sobre o Valor Acrescentado não sejam postos à disposição dos serviços competentes ou os mesmos se encontrem em condições tais que não permitam o correcto apuramento do imposto a restituir.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redacção do n.º 5; corpo e alínea b) ficam ('...'); alínea a) substituída (unidade 15); nova alínea c) inserida depois da unidade 16 (alínea b) mantida letra a letra).",
+    "Alterador 1, n.º 2: aditado o n.º 8, inserido depois do n.º 7 (unidade 18)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

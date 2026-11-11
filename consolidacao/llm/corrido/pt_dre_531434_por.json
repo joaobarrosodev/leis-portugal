@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:531434:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 605/2007), 2.º: substitui a planta anexa, que só existe em imagem; não aplicado. O 1.º desse alterador e os alteradores 2 a 5 (renovação, exclusões, concessões e novas áreas da zona de caça) não dão nova redação a nenhum número do original; não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova delimitação e área (3868 ha) da zona de caça, sem redação nova do texto; não aplicado.",
+    "Alterador 1, 2.º: substitui a planta anexa, só em imagem; não aplicado.",
+    "Alteradores 2 a 5: renovação da zona, exclusões de prédios e concessão de outras zonas, sem alterar o texto do original; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

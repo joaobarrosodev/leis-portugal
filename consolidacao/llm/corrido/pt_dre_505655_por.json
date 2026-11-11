@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:505655:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 894/2005 (alterador 1) extingue o curso criado pela Portaria n.º 889/2004 (6.º) e revoga esse diploma por inteiro (7.º: são revogados os diplomas mencionados no número anterior); o original fica revogado em todo o texto.",
+  "instrucoes": [
+    "Alterador 1, 6.º e 7.º: extinção do curso e revogação da Portaria n.º 889/2004 e da Declaração de Rectificação n.º 79/2004; revogação total, nada a aplicar ao texto.",
+    "Alterador 1, restantes números: criam um curso novo e não alteram o texto do original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

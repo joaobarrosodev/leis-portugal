@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:558047:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 anexa um prédio de 24,2750 ha (área total 1025,2650 ha, planta só em imagem) sem dar nova redação ao 1.º; alterador 2 extingue a zona de caça associativa e concessiona uma zona turística, sem revogar nem alterar o texto do original. Nenhuma das duas é alteração textual.",
+  "instrucoes": [
+    "Alterador 1: anexação de prédio à zona de caça, com planta em imagem — sem alteração textual; não aplicada.",
+    "Alterador 2, 1.º: extinção da zona de caça associativa — não é revogação textual do original; não aplicada.",
+    "Alterador 2, 2.º e 3.º: nova concessão de zona de caça turística, norma própria; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

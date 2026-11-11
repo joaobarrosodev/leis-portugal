@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:532845:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 857/99): substitui os quadros n.os 5 e 8 do anexo II, que só existem em imagem, no original e no alterador; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novos quadros n.os 5 e 8 do anexo II, só em imagem; não aplicado. O 2.º é norma própria do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

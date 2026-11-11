@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:512652:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Declarações de Rectificação n.os 30/94 e 93/94 rectificam classificações, valores e totais dos mapas da despesa e da receita, que no original só vêm em imagem (unidades 4 e 7); o conteúdo novo do cap. 12, div. 13, subdiv. 99 também só vem em imagem. Nada se pode aplicar ao texto.",
+  "instrucoes": [
+    "Alterador 1: quatro rectificações de valores nos mapas (imagem); não aplicadas.",
+    "Alterador 2: novo conteúdo de uma subdivisão da despesa (imagem) e rectificações de valores e totais nos mapas (imagem); não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

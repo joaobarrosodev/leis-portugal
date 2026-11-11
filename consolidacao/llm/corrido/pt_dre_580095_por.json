@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:580095:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 293/82) substitui as tabelas A e B do anexo, que só vêm em imagem (ver documento original); não há texto a aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substitui as tabelas de retribuições do anexo pelas do seu anexo (só em imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

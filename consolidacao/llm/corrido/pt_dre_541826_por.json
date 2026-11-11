@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:541826:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 12,
+      "texto": "2.º O perímetro do projecto de emparcelamento de Maiorca abrange terrenos das freguesias de Maiorca e de Santana, situadas no concelho da Figueira da Foz, e é assim delimitado:\n\nA Norte inicia-se no ponto de intersecção entre a vala da Veia e o caminho de ligação desta mesma com a Estrada Nacional n.º 111, passando a Sul dos Montes de Santa Olaia e Ferrestelo e seguindo pelo troço antigo da Estrada Nacional n.º 111 até ao limite da freguesia de Santana com a de Montemor-o-Velho. Segue este limite até à intersecção com a vala da Tabueira ou dos Malhões. De seguida inflecte para Sudoeste, acompanhando esta vala até ao cruzamento com a estrada Santa Eulália - Ereira, coincidindo com esta estrada até à Ponte da Ereira. Desenvolve-se para Sudoeste, acompanhando o Rio Mondego Velho até à estação elevatória de enxugo de Foja, após o que segue o leito regularizado do Rio Mondego até ao início do prédio n.º 25592 da carta n.º 5, escala 1:5000 da Direcção-Geral dos Serviços Hidráulicos. Inflecte para Nordeste, acompanhando a vala que se desenvolve ao longo do prédio n.º 25588 da carta 15, escala 1:5000 da Direcção-Geral dos Serviços Hidráulicos, até à intersecção com a A14. Neste troço, o limite coincide com a A14 até ao fim da estrema do prédio n.º 25548 da carta 5, escala 1:5000 da Direcção-Geral dos Serviços Hidráulicos, ponto em que inflecte para Sudeste até ao rio Foja. O limite acompanha o leito do rio até ao início da estrema do prédio 25509 da carta 14, escala 1:5000 da Direcção-Geral dos Serviços Hidráulicos. Flectindo para Noroeste na direcção dos prédios n.os 25541 e 25542 da carta 14, escala 1:5000 da Direcção-Geral dos Serviços Hidráulicos, até encontrar a vala do Simonte, que passa a acompanhar até ao ponto inicial desta descrição.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo 1.º: nova redação do 2.º (perímetro) — unidades 8 a 12 substituídas pelo novo texto, mantendo o número 2.º no estilo do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

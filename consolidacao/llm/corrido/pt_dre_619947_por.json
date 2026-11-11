@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:619947:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "3.º Depois de aplicada a fórmula de cálculo consagrada no Estatuto da Aposentação ou na legislação aplicável a cada caso, será o valor resultante ajustado de forma que a pensão mantenha o valor líquido de IRS - categoria H -, considerando-se para o efeito o modelo referido na parte final do número anterior.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 3.º - substituída a unidade 11",
+    "Alterador 1, 2.º: norma de aplicação no tempo da própria portaria - não é do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

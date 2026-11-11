@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:508597:por",
+  "substituicoes": [
+    {
+      "de": 27,
+      "ate": 73,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298b03/00120014.pdf)\n\n(nota a) Nos casos em que o matadouro só possa efectuar parte dos serviços e for o utente a executar os restantes, apenas serão cobrados os serviços efectivamente prestados pelo matadouro.\n\nNota. - No que se refere à espécie suína, e para efeitos de cobrança, deverão ser deduzidos 2% ao peso da carcaça quando esta for pesada com banha e rins.\n\nII - Da entrada fora do horário normal e dos abates de urgência\n\n1 - Admissão de reses:\n\n1.1 - Bovinos adultos e equídeos ... 485$00\n\n1.2 - Bovinos adolescentes ... 290$00\n\n1.3 - Suínos ... 100$00\n\n1.4 - Ovinos e caprinos ... 75$00\n\n2 - Tratamento de gado, por animal e por dia, para além do período normal de repouso, instalação, mão-de-obra, abeberamento e alimentação:\n\n2.1 - Bovinos adultos ... 265$00\n\n2.2 - Bovinos adolescentes ... 48$00\n\n2.3 - Suínos ... 55$00\n\n2.4 - Ovinos e caprinos ... 55$00\n\n3 - Abates de urgência e preparação das respectivas carcaças, por quilograma de carcaça:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298b03/00120014.pdf)\n\nIII - Da utilização das câmaras frigoríficas\n\n1 - Armazenagem em câmaras frigoríficas de carne refrigerada proveniente de abates efectuados no matadouro, para além das vinte e quatro horas iniciais, quando a permanência adicional for de interesse do utente, por quilograma e por dia:\n\nNas vinte e quatro horas seguintes ... 3$00\n\nEm cada dia subsequente ... 5$00\n\nNota. - Se o abate tiver lugar à sexta-feira ou na véspera de um feriado, a armazenagem será gratuita até ao primeiro dia útil seguinte.\n\nIV - Do transporte extraordinário de carnes provenientes de abates efectuados no matadouro\n\n1 - Considera-se transporte extraordinário de carnes provenientes de abates efectuados no matadouro o executado, a pedido dos utentes, fora da área de serviço ou fora do programa normal dentro da área de serviço do matadouro.\n\n2 - O custo a cobrar pela utilização do serviço extraordinário de transporte e distribuição fora da área de serviço do matadouro será calculado pela seguinte fórmula:\n\np = (Q x tkg) + (D x tkm)\n\nem que:\n\nQ = quantidade em quilograma a transportar;\n\ntkg = taxa normal de transporte por quilograma;\n\nD = distância em quilómetros de ida e volta;\n\ntkm = custo por quilómetro percorrido, sendo:\n\nPara viaturas até 8000 kg de carga útil ... 135$00\n\nPara viaturas com mais de 8000 kg de carga útil ... 200$00\n\n3 - O custo a cobrar pela utilização do serviço extraordinário de transporte e distribuição fora do programa normal dentro da área do serviço do matadouro será calculado pela seguinte fórmula:\n\np = C x tkg\n\nem que:\n\nC = carga útil da viatura;\n\ntkg = taxa normal de transporte por quilograma.\n\n4 - Nos dias úteis depois das 20 horas e aos sábados, domingos e feriados, o custo a cobrar por transporte extraordinário será o dobro do resultado da aplicação das fórmulas anteriores.\n\nV - Da armazenagem de peles, couros e cabeças durante as quinzenas seguintes ao período de salga e armazenagem normal (17 dias para bovinos e 3 dias para pequenos ruminantes).\n\nArmazenagem de peles e couros, indivisível\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/298b03/00120014.pdf)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: substitui a tabela anexa ao original pela tabela anexa à Portaria n.º 435/92; aplicada, mas toda ela é depois substituída pelo alterador 2, pelo que não fica texto seu no resultado.",
+    "Alterador 2, 1.º: substitui a tabela anexa à Portaria n.º 435/92 (a tabela em vigor do original) pela tabela anexa à Portaria n.º 1152-F/94; substituídas as unidades 27 a 73 (títulos 'Tabela de custos' e 'I - Dos serviços prestados nos matadouros (ver nota a)' ficam iguais); a nova tabela termina na parte V, deixando de existir as partes VI e VII.",
+    "Alteradores 1 e 2, 2.º: entrada em vigor, não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

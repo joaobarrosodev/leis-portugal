@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:618076:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Quinta de Pêro Martins, município de Figueira de Castelo Rodrigo, com a área de 1465 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 370/2000) extingue a concessão atribuída pelo original: é um ato sobre a concessão, não uma alteração ao texto; nada a aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (Quinta de Pêro Martins, 1465 ha) - substituída a unidade 6, mantendo o número 1.º",
+    "Alterador 1, 1.º: aditado o n.º 1.º-A - inserido a seguir à unidade 6",
+    "Alterador 1, 2.º: mantêm-se direitos e obrigações - nada a mudar",
+    "Alterador 2: extinção da concessão - não textual, não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

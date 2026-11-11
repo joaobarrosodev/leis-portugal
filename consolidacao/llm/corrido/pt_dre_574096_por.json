@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:574096:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria n.º 889/2005) e 2 (Portaria n.º 892/2005), n.º 7.º, revogam parcialmente a Portaria 717/90 'nas partes que àqueles cursos respeitam' (técnico de electrónica hardware e técnico de electrónica áudio, vídeo, TV) — revogações sem alvo textual preciso, não aplicadas ao texto.",
+  "instrucoes": [
+    "Alt. 1, 6.º e 7.º: extingue o curso de técnico de electrónica hardware e revoga parcialmente a 717/90 nessa parte — sem alvo textual, não aplicado.",
+    "Alt. 2, 6.º e 7.º: extingue o curso de técnico de electrónica áudio, vídeo, TV e revoga parcialmente a 717/90 nessa parte — sem alvo textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

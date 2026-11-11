@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:617512:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 suspende o exercício da caça na zona e alterador 2 revoga a concessão; são atos administrativos sobre a concessão, não alterações nem revogação textual do original.",
+  "instrucoes": [
+    "Alterador 1: suspensão do exercício da caça e prazo de 90 dias, sem alteração textual; não aplicado",
+    "Alterador 2: revogação da concessão da zona de caça, não do texto da portaria; não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

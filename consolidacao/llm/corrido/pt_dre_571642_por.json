@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:571642:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 174/2001 (art. 1.º) substitui o plano de estudos anexo e a Portaria n.º 72/2003 (n.º 1.º) altera esse anexo; os quadros só vêm em imagem. As restantes normas (semestre lectivo, aplicação, transição, opções, número máximo de alunos) são autónomas e não alteram o texto do original.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: novo plano de estudos em anexo só em imagem; não aplicado. Arts. 2.º a 4.º: normas autónomas, não dirigidas ao texto do original.",
+    "Alterador 2, n.º 1.º: altera o anexo da Portaria 174/2001 (quadros em imagem); não aplicado. N.os 2.º a 5.º: normas autónomas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:570677:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1.º Os preços limiares de importação para efeitos de construção dos direitos niveladores aplicáveis à importação de cereal em grão são os seguintes, por tonelada de cereal, a partir das seguintes datas:",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 18,
+      "texto": "A partir de 1 de Setembro de 1989, inclusive:\n\nMilho ... 40500$00",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 1.º; mudam o corpo (sem o 'e' antes de 'a partir', unidade 5) e a data e preço do milho (1 de Setembro, 40500$00, unidades 17-18); o resto é igual ao texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 45-45",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - As candidaturas serão entregues na DGPA até 30 de Setembro, sendo objecto de decisão até 31 de Outubro do ano a que respeitam.",
+    "depois": "1 - As candidaturas entregues na DGPA até 30 de Setembro serão objecto de decisão até 31 de Outubro e as entregues até 15 de Dezembro serão decididas até 31 de Dezembro do ano a que respeitam.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:582031:por",
+    "alterador": "pt:dre:660494:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "8.º A aplicação das tarifas para cidadãos portugueses residentes na Madeira ficará sujeita às condições especificadas no anexo I a esta portaria.",
+    "depois": "8.º A aplicação das tarifas para cidadãos portugueses residentes na Madeira ficará sujeita às condições especificadas no anexo I a esta portaria. São equiparados a cidadãos nacionais todos os cidadãos dos Estados membros da Comunidade Económica Europeia.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:594891:por",
+    "alterador": "pt:dre:498695:por"
+  },
+  {
+    "artigo": "depois da unidade 58",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "No caso dos cidadãos equiparados a nacionais, o bilhete de identidade e o cartão de contribuinte poderão ser substituídos, respectivamente, por outro documento de identificação e por carta de residência de nacional de um Estado membro da CEE de que conste residir, há pelo menos seis meses, na Região Autónoma da Madeira.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:594891:por",
+    "alterador": "pt:dre:498695:por"
+  }
+]

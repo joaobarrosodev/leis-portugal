@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:517208:por",
+  "substituicoes": [
+    {
+      "de": 48,
+      "ate": 52,
+      "texto": "Motorista prático de 3.ª classe;\n\nMotorista prático de 2.ª classe.\n\n2) Nível III:\n\nMecânico de bordo;\n\nMotorista prático de 1.ª classe.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Rectificação 139/92, capítulo II, c) transportes marítimos: Motorista prático de 3.ª e de 2.ª classe passam para o nível II e o nível III fica com Mecânico de bordo e Motorista prático de 1.ª classe; substituídas as unidades 48 a 52 pela ordem retificada (a 47 já estava certa)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

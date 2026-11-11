@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:539415:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1186/2006) dá nova redação a partes do anexo I e alterador 2 (Portaria n.º 420/2007) adita pares estabelecimento/curso aos anexos I e II; os anexos, no original e nos alteradores, só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do anexo I quanto a três cursos — anexo só em imagem, não aplicado.",
+    "Alterador 2, 1.º, n.os 1 e 2: aditamento de pares aos anexos I e II — anexos só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

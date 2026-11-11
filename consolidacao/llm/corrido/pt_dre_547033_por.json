@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:547033:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: o anexo passa a ser o do anexo da Portaria n.º 1526/2004, cujos quadros só vêm em imagem (ver quadro no documento original); não se pode reproduzir o texto. Os 2.º a 6.º (número de alunos, duração, estágio, transição, aplicação) são normas próprias do alterador, sem alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo anexo (plano de estudos) com quadros só em imagem; não aplicado.",
+    "Alterador 1, 2.º a 6.º: disposições autónomas do alterador; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:583803:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 613/88) dá nova redação aos quadros I e IV do anexo I, que só vêm em imagem e não existem como unidades no texto atual (o anexo I é uma única imagem).",
+  "instrucoes": [
+    "Alterador 1, 1.º, n.º 1: nova redação do quadro I do anexo I (imagem): não aplicado.",
+    "Alterador 1, 1.º, n.º 2: nova redação do quadro IV do anexo I (imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

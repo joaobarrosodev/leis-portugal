@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:552367:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 21,
+      "texto": "(E) O Despacho Conjunto dos Senhores Ministros de Estado e das Finanças, das Obras Públicas, Transportes e Comunicações e do Trabalho e da Solidariedade Social, de [ ], proferido na sequência do recurso hierárquico interposto pela adjudicatária, determinou a inclusão de uma cláusula destinada a regular os efeitos do deslocamento das lajes de cobertura dos silos ocorrido em 18 e 19 de Maio de 2006;\n\n(F) O Governo Português aprovou a minuta do Contrato de Concessão, através da Resolução do Conselho de Ministros n.º [ ] de [ ];",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (retificação): os considerandos (E) e (F) da minuta passam a ter nova redação — substituídas as unidades 20 e 21; o considerando (G) mantém-se."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

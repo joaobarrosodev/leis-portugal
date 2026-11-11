@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:586826:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 37,
+      "texto": "Instituto de Oftalmologia do Dr. Gama Pinto.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Rectificação 184/94: no anexo, Hospitais centrais, acrescenta 'Instituto de Oftalmologia do Dr. Gama Pinto.' a seguir ao IPO do Porto; inserido depois da unidade 37."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

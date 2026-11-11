@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:611174:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º, e alterador 2, 3.º: aditamento de vagas ao anexo da portaria, que só existe em imagem (unidade 15 remete para o documento original); o alterador 1 traz as vagas também só em imagem. Não aplicável ao texto com segurança.",
+  "instrucoes": [
+    "Alterador 1, 2.º: aditamento de vagas ao anexo (imagem); não aplicado.",
+    "Alterador 1, 1.º e 3.º: início de cursos e entrada em vigor do próprio alterador; não dirigidos ao texto do original.",
+    "Alterador 2, 2.º: altera o regulamento da Portaria n.º 173/86, outro diploma; ignorado.",
+    "Alterador 2, 3.º: aditamento de vagas (Escola Superior de Educação da Madeira, código 98702) ao anexo em imagem; não aplicado.",
+    "Alterador 2, 1.º, 4.º e 5.º: não dirigidos ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

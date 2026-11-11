@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:598703:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Rectificação 83/93 corrige uma designação no mapa de transferências de verbas, que no original só existe em imagem (unidade 3); não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Rectificação 83/93): no cap. 01, div. 02, subdiv. 03, C. E. 04.01.03, al. H, acrescenta 'FDUL - ' à designação; o mapa só vem em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

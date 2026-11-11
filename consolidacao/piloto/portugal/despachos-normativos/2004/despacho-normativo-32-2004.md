@@ -1,0 +1,67 @@
+---
+id: pt:dre:525608:por
+title: Despacho Normativo n.º 32/2004
+original: data/portugal/despachos-normativos/2004/despacho-normativo-32-2004.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:568359:por
+    title: Despacho Normativo n.º 23/2005
+    publication_date: '2005-04-07'
+---
+
+# Despacho Normativo n.º 32/2004
+
+O Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 29 de Setembro, que estabelece regras comuns para os regimes de apoio directo no âmbito da política agrícola comum e institui determinados regimes de apoio aos agricultores, estipula que os Estados membros deverão tomar algumas decisões relativamente a opções decorrentes da aplicação do regime de pagamento único.
+
+Estão neste caso a implementação regional e facultativa, consubstanciada nos artigos 58.º a 63.º do Regulamento, a implementação parcial, decorrente das disposições dos artigos 64.º a 69.º, as exclusões facultativas, definidas no artigo 70.º e a transição facultativa, referida no artigo 71.º
+
+Em conformidade com os estudos de impacte e análises efectuados pelos serviços do Ministério da Agricultura, Desenvolvimento Rural e Pescas com o objectivo de determinar as opções mais adequadas à realidade da agricultura portuguesa, caracterizada por uma grande diversidade de sistemas produtivos, e depois de auscultadas as organizações representativas dos sectores abrangidos pela reforma da política agrícola comum, foram tidos em conta os objectivos estratégicos de desenvolvimento agrícola, nomeadamente as possibilidades de reconversão da produção.
+
+Nestes termos, estão reunidas as condições que permitem estabelecer o calendário e a definição das modalidades de implementação do regime do pagamento único em Portugal, de acordo com o disposto no Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho.
+
+Assim, ao abrigo do disposto nos artigos 58.º a 71.º do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 29 de Setembro, e após consulta dos representantes dos órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira, determino o seguinte:
+
+1.º O regime de pagamento único é implementado em Portugal a partir de:
+
+a) 1 de Janeiro de 2005, para as ajudas comunitárias aos sectores das culturas arvenses de arroz, de leguminosas para grão, de forragens secas, de lúpulo e de carnes de bovinos, ovinos e caprinos;
+
+b) 1 de Janeiro de 2007, para as ajudas comunitárias ao sector do leite e produtos lácteos;
+
+c) 1 de Janeiro de 2006, para as ajudas comunitárias relativas aos sectores do azeite, do tabaco e do algodão.
+
+2.º Para efeitos da aplicação do regime do pagamento único, o montante de referências será determinado com base nos pagamentos concedidos a título individual a cada agricultor, no período de referência, conforme estabelecido nos artigos 37.º e 38.º do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho.
+
+3.º A partir de 1 de Janeiro de 2005, os pagamentos relativos às culturas arvenses, incluindo o complemento ao trigo duro referido no anexo VI do referido regulamento, e ao lúpulo serão integrados no regime do pagamento único na sua totalidade.
+
+4.º - 1 - Os prémios no sector da carne de ovino e caprino serão integrados no regime do pagamento único, a partir de 1 de Janeiro de 2005, nas seguintes percentagens:
+
+a) 50% do prémio por ovelha e cabra;
+
+b) 50% do prémio complementar para as zonas desfavorecidas;
+
+c) 100% dos pagamentos complementares estabelecidos no Despacho Normativo n.º 37/2002, publicado no Diário da República, 1.ª série-B, de 1 de Julho de 2002.
+
+2 - Os restantes 50% do prémio por ovelha e cabra e do prémio complementar para as zonas desfavorecidas serão concedidos aos produtores de ovinos e caprinos nos termos do capítulo 11 do título IV do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho.
+
+5.º - 1 - No sector da carne de bovino, a partir de 1 de Janeiro de 2005, são integrados no regime do pagamento único o prémio especial para bovinos machos, o pagamento por extensificação e os pagamentos complementares estabelecidos no Despacho Normativo n.º 2/2000, publicado no Diário da República, 1.ª série-B, de 10 de Janeiro de 2002.
+
+2 - O prémio ao abate de bovinos adultos é integrado no regime do pagamento único em 60%, sendo os restantes 40% concedidos aos produtores de bovinos nos termos do capítulo 12 do título IV do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho.
+
+3 - O prémio por vaca em aleitamento, o prémio nacional suplementar por vaca em aleitamento e o prémio ao abate de vitelos serão concedidos aos produtores de bovinos nos termos do capítulo 12 do título IV do mencionado regulamento.
+
+6.º - (Revogado.)
+
+> Alterado pelo/a [Despacho Normativo n.º 23/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2005-568359), publicado em 2005-04-07.
+
+7.º O regime de apoio às sementes, instituído pelo Regulamento (CE) n.º [2358/71](http://data.europa.eu/eli/reg/1971/2358/oj?locale=pt), do Conselho, de 26 de Outubro, não será integrado no regime do pagamento único.
+
+8.º As Regiões Autónomas dos Açores e da Madeira serão excluídas da aplicação do regime de pagamento único.
+
+9.º O Gabinete de Planeamento e Política Agro-Alimentar procede à comunicação destas decisões às autoridades comunitárias competentes, no prazo de cinco dias após a publicação do presente despacho.
+
+10.º Serão estabelecidas em legislação específica as normas de execução do disposto no presente despacho.
+
+Ministério da Agricultura, Desenvolvimento Rural e Pescas, 24 de Junho de 2004. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.

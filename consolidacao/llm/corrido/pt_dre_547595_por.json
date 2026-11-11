@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:547595:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: despacho normativo que fixa, nos termos do 5.º da portaria, a lista de produtos e montantes das restituições e revoga o Despacho Normativo n.º 90/89; é acto de execução, não contém instrução de alteração do texto da portaria; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

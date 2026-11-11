@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:554842:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (1.º) dá nova redação ao anexo (plano de estudos), mas o novo anexo só vem em imagem no documento original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o anexo passa a ter a redação do anexo da Portaria 595/96 — só em imagem; não aplicado.",
+    "Alterador 1, 2.º: aplicação a partir de 1996-1997, norma própria; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

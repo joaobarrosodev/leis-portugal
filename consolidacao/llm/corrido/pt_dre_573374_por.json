@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:573374:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2.º Nesta área, até ao dia 14 de Outubro de 2001, é concedida à Associação de Caçadores da Abegoaria (registo na Direcção-Geral das Florestas n.º 3.501.89) a exploração de uma zona de caça associativa (processo n.º 157 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1: no n.º 2.º, «até ao dia 31 de Maio de 2001» passa a «até ao dia 14 de Outubro de 2001» — aplicado na unidade 9.",
+    "Alt. 2: suspensão do exercício da caça — norma própria, não altera o texto.",
+    "Alt. 3: renovação da concessão por 12 anos e revogação da Portaria 1203-B/2001 — não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:594890:por",
+  "substituicoes": [
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "10.º A aplicação das tarifas para cidadãos portugueses residentes nos Açores ficará sujeita às condições especificadas no anexo I a esta portaria. São equiparados a cidadãos nacionais todos os cidadãos dos Estados membros da Comunidade Económica Europeia.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 57,
+      "texto": "No caso dos cidadãos equiparados a nacionais, o bilhete de identidade e o cartão de contribuinte poderão ser substituídos, respectivamente, por outro documento de identificação e por carta de residência de nacional de um Estado membro da CEE de que conste residir, há pelo menos seis meses, na Região Autónoma dos Açores.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 733-F/86): aprova novas tarifas e regras próprias e mantém os n.os 5.º a 10.º e anexos I e II do original; não contém instruções textuais dirigidas ao original, nada aplicado.",
+    "Alterador 2 (Portaria 905/87), 1.º: nova redacção do 'n.º 8.º'; o texto dado é o do 10.º do original (tarifas de residentes, anexo I) com a frase da equiparação aos cidadãos da CEE acrescentada, pelo que se substituiu a unidade 21 (10.º) mantendo o número.",
+    "Alterador 2, 2.º: acrescenta parágrafo à rubrica Documentação do anexo I; inserido depois da unidade 57, último parágrafo dessa rubrica."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

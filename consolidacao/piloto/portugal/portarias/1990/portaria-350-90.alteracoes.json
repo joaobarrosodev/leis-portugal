@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Esta área, até 31 de Maio de 2001, é concessionada à TECNOCAÇA, Criação e Gestão dos Recursos Cinegéticos, Lda.",
+    "depois": "3.º Esta área, 29 de Setembro de 1996, é concessionada à TECNOCAÇA, Criação e Gestão dos Recursos Cinegéticos, Lda.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:571229:por",
+    "alterador": "pt:dre:344946:por"
+  }
+]

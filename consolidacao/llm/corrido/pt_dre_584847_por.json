@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:584847:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 603/2003) muda a denominação do curso sem dar nova redação a nenhum texto do original (alteração não textual); alterador 2 (Portaria n.º 150/2006) substitui o anexo, cujos quadros só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o curso passa a denominar-se Engenharia Mecânica (sem alteração textual): não aplicado.",
+    "Alterador 2, 1.º: nova redação do anexo (quadros em imagem): não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

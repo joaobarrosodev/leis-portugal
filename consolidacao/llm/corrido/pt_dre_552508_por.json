@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:552508:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 anexa prédios à zona de caça (área total de 2343 ha, planta só em imagem) sem dar nova redação a nenhum ponto do original; não é alteração textual. Alterador 2 dirige-se a outra Portaria n.º 938/2000 (regulamento do concurso de subchefes da PSP, 2.ª série), não a este diploma.",
+  "instrucoes": [
+    "Alterador 1, 1.º: anexação de 510,70 ha, área total 2343 ha, com planta em imagem — sem alteração textual do 1.º; não aplicado.",
+    "Alterador 1, 2.º a 4.º: parecer, eficácia e sinalização da anexação, normas próprias; ignoradas.",
+    "Alterador 2, artigos 1.º e 2.º: alteram o regulamento do concurso de subchefes da PSP aprovado por outra portaria com o mesmo número (2.ª série); não são do original; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

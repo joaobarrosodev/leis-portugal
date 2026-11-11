@@ -1,0 +1,40 @@
+{
+  "id": "pt:dre:546010:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "2 - Estabelecer que o âmbito territorial do plano de ordenamento da Paisagem Protegida da Arriba Fóssil da Costa da Caparica é o constante do mapa anexo ao [Decreto-Lei n.º 168/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1984-383996), de 22 de Maio, conforme referido no n.º 1 do artigo 2.º desse mesmo decreto-lei, abrangendo parte dos municípios de Almada e Sesimbra.",
+      "alterador": 1
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "j) Um representante da Capitania do Porto de Setúbal;",
+      "alterador": 1
+    },
+    {
+      "de": 29,
+      "ate": 30,
+      "texto": "o) Um representante do Ministério das Obras Públicas, Transportes e Comunicações;\n\np) Um representante das organizações não governamentais de ambiente, a designar pela Confederação Portuguesa das Associações de Defesa do Ambiente.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 28,
+      "texto": "n) Um representante da Câmara Municipal de Sesimbra;",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redacção do n.º 2 (Almada e Sesimbra); substituída a unidade 14.",
+    "Alterador 1, n.º 1: nova redacção da alínea j) do n.º 4 (Capitania do Porto de Setúbal); substituída a unidade 26.",
+    "Alterador 1, n.º 1: nova alínea n) do n.º 4 (Câmara Municipal de Sesimbra) inserida depois da unidade 28; anteriores alíneas n) e o) renumeradas como o) e p) (unidades 29 e 30).",
+    "Alterador 1, n.º 2: efeitos retroactivos; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:558196:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: o anexo (plano de estudos) passa a ter nova redação, mas os quadros n.os 1 a 5 só vêm em imagem; não se aplica com segurança.",
+  "instrucoes": [
+    "Alterador 1, 1.º: desdobramento do curso em ramos, disposição autónoma da portaria alteradora, não altera texto do original; nada a fazer.",
+    "Alterador 1, 2.º: nova redação do anexo, com quadros só em imagem; não aplicado (nao_aplicavel).",
+    "Alterador 1, 3.º e 4.º: transição e aplicação da própria portaria alteradora; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

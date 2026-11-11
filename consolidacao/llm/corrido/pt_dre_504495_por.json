@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:504495:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de São João Baptista e Nossa Senhora da Expectação, município de Campo Maior, com a área de 7630 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: a planta anexa é substituída por outra que só existe em imagem, não aplicado. Alterador 2: renova a zona de caça (área de 6885 ha, novas percentagens de acesso) por disposição própria, sem nova redação dos n.os 2.º ou 3.º, não aplicado. Alterador 3: exclui um prédio (área de 6803 ha) por disposição própria, sem alteração textual, não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 2.º; substituída a unidade 7 (mantido o número 2.º).",
+    "Alterador 1, n.º 2.º: substituição da planta, que só existe em imagem; não aplicado.",
+    "Alterador 2: renovação por seis anos com nova área e novas percentagens, por ato próprio; não aplicado ao texto.",
+    "Alterador 3: exclusão da Herdade dos Vicentes, por ato próprio; não aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

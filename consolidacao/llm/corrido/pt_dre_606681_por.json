@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:606681:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 1.º: nova redação da posição CAE 38.11.10 - Cutelaria no quadro anexo, que só existe em imagem tanto no original como no alterador; não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alteração da posição 38.11.10 do quadro anexo (imagem); não aplicado.",
+    "Alterador 1, 2.º: entrada em vigor do próprio alterador; não dirigida ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

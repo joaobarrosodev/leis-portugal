@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:599936:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "4.º Aos peritos é atribuída uma gratificação mensal ilíquida no valor de 30% da remuneração correspondente à letra B, sem diuturnidades, da tabela de remunerações dos funcionários e agentes da Administração Pública.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 384/86): nova redacção do n.º 4.º (gratificação de 23000$00); substituída depois pelo alterador 2.",
+    "Alterador 2 (Portaria 650/88), 1.º: nova redacção do n.º 4.º (30% da letra B); aplicada à unidade 12 como redacção final. 2.º revoga a Portaria 384/86 (outro diploma), sem efeito textual adicional."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

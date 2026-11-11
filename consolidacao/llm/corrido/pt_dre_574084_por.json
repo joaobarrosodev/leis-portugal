@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:574084:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Revogação total: o Alterador 2 (Portaria n.º 1305/2006), n.º 7.º, alínea b), revoga 'as restantes portarias mencionadas no n.º 5.º', entre as quais a Portaria n.º 716/90 (não incluída na alínea a)). O Alterador 1 (Portaria n.º 289/92) só alterava os planos de estudo por mapas em imagem.",
+  "instrucoes": [
+    "Alt. 1, 1.º: planos de estudo alterados por mapas anexos — só em imagem, não aplicado.",
+    "Alt. 2, 5.º: extingue os cursos de técnico de arquivo e de técnico de biblioteca e documentação criados pela 716/90 — norma própria.",
+    "Alt. 2, 7.º b): revoga totalmente a Portaria 716/90 — diploma revogado por inteiro, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

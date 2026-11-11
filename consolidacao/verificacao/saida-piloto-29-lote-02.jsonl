@@ -1,0 +1,48 @@
+{"id": "pt:dre:546425:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 5 alínea a) com a nova redacção do n.º 1 do DN 32/87, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:546425:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Alínea c) nova do n.º 5, igual ao diploma que altera; a alínea b) fica a do original ('b) ...').", "texto_esperado": ""}
+{"id": "pt:dre:546425:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "N.º 8 aditado, igual ao n.º 2 do DN 32/87.", "texto_esperado": ""}
+{"id": "pt:dre:546425:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:551651:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 3-A aditado pelo n.º 1 do DN 22/2004, texto igual; a numeração '3.º-A' segue a forma do original.", "texto_esperado": ""}
+{"id": "pt:dre:551651:por", "instrucoes_em_falta": ["DN 24/2004, n.º 1: prorroga até 30 de Abril de 2004 o prazo do n.º 7.º, n.º 1, do DN 11/2004 (23 de Abril); o consolidado mantém 'entre os dias 16 de Fevereiro e 23 de Abril'. É uma prorrogação e não uma substituição de texto, por isso pode ser intencional (possível dúvida)."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:552367:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "A rectificação substitui as alíneas (E) e (F) pelas novas (E) e (F); consolidado igual à Declaração, e a (G) fica igual ao original.", "texto_esperado": ""}
+{"id": "pt:dre:552367:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:559436:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 5.º com a redacção do n.º 1.º da Portaria 660/99, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:559436:por", "instrucoes_em_falta": ["Portaria 660/99, n.º 2.º: o anexo I passa a ter nova redacção (inclui a linha 'Empreiteiro de obras públicas' e o quadro com ligação 54465451.pdf). O anexo I do consolidado continua igual ao original (sem aquela linha e com a ligação 00100014.pdf)."], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "Anexo I: não foi substituído pela nova redacção do n.º 2.º da Portaria 660/99 (ver instrucoes_em_falta)."}
+{"id": "pt:dre:563606:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "N.º 2.º do Regulamento com a redacção do n.º 1.º da Portaria 232/93, letra a letra.", "texto_esperado": ""}
+{"id": "pt:dre:563606:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Portaria 144/94 revoga o n.º 11.º; consolidado '11.º - (Revogado.)'.", "texto_esperado": ""}
+{"id": "pt:dre:563606:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:566596:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Os dois diplomas aditam um n.º 1.º-A (Curso de Gestão): o da Portaria 569/91 (Faro e Vila Real de Santo António) e o da 969/92 (Faro e Portimão). O consolidado tem o da 969/92, posterior e com o mesmo número, que prevalece. A parte da 569/91 sobre a Portaria 588/86 não é do original.", "texto_esperado": ""}
+{"id": "pt:dre:566596:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Base II n.º 1 do DL 360/77 copiada letra a letra; n.º 2 ('...') mantido.", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Base IV n.º 1 do DL 360/77: 'regra geral' e segundo parágrafo fundido, igual ao alterador.", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 3", "veredicto": "certo", "motivo": "Base IV n.º 3: corte do limite de 5 por cento, igual ao alterador.", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 4", "veredicto": "certo", "motivo": "Base V n.os 1 a 4 iguais à redacção do DL 360/77 (JAE, 5%, 'Plano de Viação Rural', 'ou à Junta Autónoma de Estradas').", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 5", "veredicto": "certo", "motivo": "Base VI n.º 2: 90% conforme DL 360/77.", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 6", "veredicto": "certo", "motivo": "Base VI passa a ter só n.os 1 a 3 ('1. ...', 2, '3. ...'); o n.º 4 original não consta da nova redacção da base e desaparece (como no n.º 2 e 3 da Base XIV).", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 7", "veredicto": "certo", "motivo": "Base VIII n.os 1 e 2 iguais ao DL 360/77.", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 8", "veredicto": "certo", "motivo": "Base VIII n.º 4 igual ao DL 360/77; cai a frase dos 75 por cento.", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 9", "veredicto": "certo", "motivo": "Base XI n.os 3 e 4 (JAE) e novos n.os 5 e 6 iguais ao DL 360/77; n.os 1 e 2 mantidos.", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 10", "veredicto": "certo", "motivo": "Base XII igual ao DL 360/77.", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 11", "veredicto": "certo", "motivo": "Base XIII n.º 2 igual ao DL 360/77; n.os 1 e 3 mantidos.", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 12", "veredicto": "certo", "motivo": "Base XIV: n.º 1 com 10000 contos e n.º 2 (antigo 4); antigos n.os 2 e 3 ausentes da nova redacção.", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 13", "veredicto": "certo", "motivo": "Base XV n.º 1 (corpo) igual ao DL 360/77.", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 14", "veredicto": "certo", "motivo": "Base XV: nova alínea b) e antiga b) passa a c), conforme DL 360/77; a) igual; n.º 2 mantido ('...').", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "artigo": "Trecho 15", "veredicto": "certo", "motivo": "Base XVI igual ao DL 360/77 (alínea c), JAE, sem o segundo parágrafo).", "texto_esperado": ""}
+{"id": "pt:dre:569531:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:570677:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 1.º, corpo: retirado o 'e' antes de 'a partir', conforme Portaria 700/89.", "texto_esperado": ""}
+{"id": "pt:dre:570677:por", "artigo": "Trecho 2", "veredicto": "certo", "motivo": "Milho: 1 de Setembro de 1989, 40500$00, conforme Portaria 700/89.", "texto_esperado": ""}
+{"id": "pt:dre:570677:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:571229:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "Substituição literal de 'até 31 de Maio de 2001,' por '29 de Setembro de 1996,' (redacção resultante é desajeitada mas é a do alterador).", "texto_esperado": ""}
+{"id": "pt:dre:571229:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:573374:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 2.º: 'até ao dia 14 de Outubro de 2001' conforme Portaria 63/2000. As Portarias 1203-B/2001 e 182/2002 (suspensão e renovação) não alteram o texto.", "texto_esperado": ""}
+{"id": "pt:dre:573374:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:574938:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 1.º: 'Andrães' substituído por 'Nogueira' conforme Portaria 1480/2004. A Portaria 907/2009 (renovação) não altera o texto.", "texto_esperado": ""}
+{"id": "pt:dre:574938:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:574964:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 2.º: 'até ao dia 12 de Agosto de 2001' conforme Portaria 65/2000.", "texto_esperado": ""}
+{"id": "pt:dre:574964:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:575281:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 1.º: lista de freguesias com 'Rio Frio, Senharei e Sabadim' conforme Portaria 439/2005. A Portaria 1422/2008 (renovação) não altera o texto.", "texto_esperado": ""}
+{"id": "pt:dre:575281:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:576924:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "n.º 2.º: área 3815 ha conforme Portaria 678/2003. A Portaria 475/2004 (extinção) não altera o texto; o n.º 2 da Portaria 678/2003 (planta) não é textual.", "texto_esperado": ""}
+{"id": "pt:dre:576924:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}
+{"id": "pt:dre:577114:por", "artigo": "Trecho 1", "veredicto": "certo", "motivo": "O Despacho Normativo 91/83 revoga o n.º 2 do DN 196/81 (apesar da fórmula 'o DN 221/82 passa a ter a redacção', o conteúdo revoga o n.º 2 do original); consolidado '2 - (Revogado.)' está de acordo.", "texto_esperado": ""}
+{"id": "pt:dre:577114:por", "instrucoes_em_falta": [], "artigos_a_mais": [], "artigos_em_falta": [], "fora_dos_artigos": "sem alterações"}

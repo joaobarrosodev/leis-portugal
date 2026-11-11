@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:617955:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante na planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia e município de Penamacor, com a área de 775,9912 ha.",
+      "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 668/2000) anexa prédios (área total 1455,9662 ha) sem dar nova redação a nenhum ponto do original; planta só em imagem. Não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (área 775,9912 ha) - substituída a unidade 6, mantendo o número 1.º",
+    "Alterador 1, 1.º: aditado o n.º 1.º-A - inserido a seguir à unidade 6",
+    "Alterador 1, 2.º: o n.º 6.º passa a obrigar a manter um guarda florestal auxiliar dotado de meio de transporte - trocada essa expressão na unidade 12",
+    "Alterador 2: anexação de prédios sem alteração textual - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

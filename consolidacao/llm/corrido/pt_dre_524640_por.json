@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:524640:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1095/99) substitui o quadro n.º 3 do anexo e alterador 2 (Portaria n.º 722/2002) substitui o plano de estudos (quadros 1 a 4); os quadros só existem em imagem, no original e nos alteradores. Não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo quadro n.º 3 do anexo, só em imagem; não aplicado.",
+    "Alterador 2, 1.º: novo plano de estudos (quadros n.os 1 a 4), só em imagem; não aplicado. Os n.os 2.º a 4.º são normas próprias do alterador, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

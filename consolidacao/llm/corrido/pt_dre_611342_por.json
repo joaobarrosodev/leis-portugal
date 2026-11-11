@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:611342:por",
+  "substituicoes": [
+    {
+      "de": 87,
+      "ate": 88,
+      "texto": "1 - A primeira chamada da prova terá lugar no dia 3 de Abril de 1989.\n\n2 - A segunda chamada da prova terá lugar no dia 10 de Abril de 1989.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 11.º; epígrafe e número iguais, só mudam os n.os 1 e 2 (unidades 87 e 88).",
+    "Alterador 2: é o mesmo diploma (Portaria n.º 207-A/89) repetido, com a mesma redação; nada mais a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

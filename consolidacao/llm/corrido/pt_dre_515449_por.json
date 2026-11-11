@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:515449:por",
+  "substituicoes": [
+    {
+      "de": 23,
+      "ate": 23,
+      "texto": "O disposto na presente portaria produz efeitos desde o ano lectivo de 2002-2003, inclusive.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redacção do n.º 5.º; substituída a unidade 23 (a epígrafe 'Produção de efeitos' fica).",
+    "Alterador 2, 1.º: fixa o plano de estudos do curso de Gestão Ambiental, que é o anexo da Portaria n.º 1269/97 (outro diploma), e não altera o texto da Portaria n.º 1032/2004; ignorada (além disso, os quadros só vêm em imagem). 2.º e 3.º: normas próprias, não textuais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:513065:por",
+  "substituicoes": [
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "Universidade Lusíada\n\nGrau de mestre em Direito\n\nEstrutura curricular do curso de especialização\n\n1 - Área científica - Direito.\n\n2 - Áreas de especialização:\n\na) Ciências Jurídico-Civilísticas;\n\nb) Ciências Jurídico-Empresariais;\n\nc) Ciências Jurídico-Políticas;\n\nd) Ciências Jurídico-Criminais.\n\n3 - Duração normal do curso - dois semestres lectivos.\n\n4 - Total de unidades de crédito necessárias para a conclusão do curso de especialização - 15.\n\n5 - Unidades de crédito:\n\n5.1 - Área de especialização em Ciências Jurídico-Civilísticas:\n\n5.1.1 - Obrigatórias:\n\nDireito Civil - 5;\n\nProcesso Civil - 5;\n\n5.1.2 - Opcionais:\n\nDireito Internacional Privado - 5;\n\nDireito Comercial - 5;\n\n5.2 - Áreas de especialização em Ciências Jurídico-Empresariais:\n\n5.2.1 - Obrigatórias:\n\nDireito Comercial - 5;\n\nDireito do Trabalho - 5;\n\n5.2.2 - Opcionais:\n\nDireito das Empresas - 5;\n\nDireito Fiscal - 5;\n\nDireito da Segurança Social - 5;\n\n5.3 - Área de especialização em Ciências Jurídico-Políticas:\n\n5.3.1 - Obrigatórias:\n\nDireito Constitucional - 5;\n\nDireito Administrativo - 5;\n\nDireito Internacional Público - 5;\n\n5.3.2 - Opcionais - não tem.\n\n5.4 - Área de especialização em Ciências Jurídico-Criminais:\n\n5.4.1 - Obrigatórias:\n\nDireito Penal - 5;\n\nProcesso Penal - 5;\n\n5.4.2 - Opcionais:\n\nProcesso Civil - 5;\n\nDireito Constitucional - 5;\n\nDireito Internacional Penal - 5.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 1173/2000): o novo plano de estudos do mestrado em Direito (dirigido à Portaria n.º 750/89, alterada pela Portaria n.º 399/95) só vem em imagem; não se substitui o anexo textual dado pelo alterador 1.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o anexo passa a ter a redacção do anexo da Portaria n.º 887/97; substituída a unidade 31 (imagem) pelo texto do novo anexo, mantendo o título do anexo (unidade 30).",
+    "Alterador 1, 2.º: aplicação, não textual.",
+    "Alterador 2, 1.º: novo plano de estudos só em imagem; não aplicado. 2.º e 3.º: regulamento e aplicação, normas próprias, não textuais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Nave da Silva e Carriçal», «Petisca», «Serra da Murrachinha» e outros, sitos na freguesia de Monfortinho, município de Castelo Branco, com uma área de 510,34 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados 'Nave da Silva e Carriçal', 'Petisca', 'Serra da Murrachinha' e outros, sitos na freguesia de Monfortinho, município de Idanha-a-Nova, com uma área de 510,34 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:617928:por",
+    "alterador": "pt:dre:322513:por"
+  }
+]

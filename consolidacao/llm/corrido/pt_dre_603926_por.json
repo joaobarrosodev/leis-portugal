@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:603926:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: substituição da planta anexa, que só existe em imagem (unidade 11 remete para o documento original), não aplicável ao texto; o 1.º do alterador 1 corrige a área/terrenos sem instrução textual sobre o n.º 1.º. Alteradores 2 e 3 renovam, anexam e extinguem a zona de caça e revogam a Portaria n.º 1068/2008, sem alterar textualmente a Portaria n.º 58/2004.",
+  "instrucoes": [
+    "Alterador 1, 1.º: integração de terrenos com 1803 ha, sem nova redação do texto do original; não aplicado.",
+    "Alterador 1, 2.º: substituição da planta anexa (imagem); não aplicado.",
+    "Alterador 2: renovação e anexação de prédios, não textual; nada a aplicar.",
+    "Alterador 3: extinção da zona de caça e revogação da Portaria n.º 1068/2008, não dirigida ao texto do original; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

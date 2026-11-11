@@ -1,0 +1,36 @@
+{
+  "id": "pt:dre:609287:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "4.º Os concursos cuja abertura tenha sido decidida em data anterior à da entrada em vigor do [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro, independentemente da data de publicação do respectivo aviso, devem continuar a sua tramitação normal, processando-se as formalidades necessárias ao preenchimento das vagas existentes nos actuais mapas ou quadros dos estabelecimentos ou serviços dependentes do Ministério dos Assuntos Sociais.",
+      "alterador": 1
+    },
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "5.º (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "8.º (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 4.º; unidade 7 substituída.",
+    "Alterador 1, 2.º: revogação do n.º 5.º; unidade 8 passa a (Revogado.).",
+    "Alterador 2: revogação do n.º 8.º; unidade 11 passa a (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 8-8: parágrafo que não está no alterador nem no original: 5.º (Revogado.)",
+    "substituição 11-11: parágrafo que não está no alterador nem no original: 8.º (Revogado.)"
+  ]
+}

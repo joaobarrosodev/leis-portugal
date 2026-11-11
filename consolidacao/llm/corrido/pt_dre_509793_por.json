@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:509793:por",
+  "substituicoes": [
+    {
+      "de": 117,
+      "ate": 118,
+      "texto": "50. Das deliberações do júri de admissões e promoções cabe recurso para o Secretário de Estado da Agricultura, que ouvirá a Procuradoria-Geral da República sempre que se invoque preterição ou ofensa de qualquer formalidade essencial do processo.\n\n§ 1.º O recurso será interposto no prazo de quinze dias, a contar da data da publicação no Diário do Governo da lista de classificação.\n\n§ 2.º Até ao termo do prazo de interposição dos recursos, assiste aos candidatos nos respectivos concursos o direito de consultarem, na Repartição dos Serviços Administrativos, as actas a que se refere o n.º 48.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 50 e seu § único (que passa a §§ 1.º e 2.º); substituídas as unidades 117 e 118."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:565229:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Declaração de Rectificação n.º 22/91 rectifica 'Soure - Vale de Anços' para 'Soure - Vila Nova de Anços' no quadro anexo, que só existe em imagem (ver documento original); não há esse texto nas unidades.",
+  "instrucoes": [
+    "Alterador 1: rectificação do nome da freguesia de Soure no quadro anexo; quadro só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:617891:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Almofala, Castro Daire, Cujó, São Joaninho e Monteiras, município de Castro Daire, com a área de 2283 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alteradores 2 (Portaria n.º 663/2004, renovação com 1301 ha) e 3 (Portaria n.º 1267/2005, anexação/desanexação, 2490 ha) não dão nova redação a nenhum ponto do original; as plantas vêm só em imagem. Não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º (área 2283 ha) - substituída a unidade 6, mantendo o número 1.º",
+    "Alterador 1, 1.º: aditado o n.º 1.º-A - inserido a seguir à unidade 6",
+    "Alterador 1, 2.º: mantêm-se direitos e obrigações - nada a mudar",
+    "Alteradores 2 e 3: renovação e anexação/desanexação sem alteração textual - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

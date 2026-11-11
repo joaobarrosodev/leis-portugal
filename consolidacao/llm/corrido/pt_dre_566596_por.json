@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:566596:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 8,
+      "texto": "1.º-A\n\nCurso de Gestão\n\n1 - O curso de Gestão poderá ser ministrado em Faro e em Portimão.\n\n2 - À transferência de alunos entre as duas localidades onde a Escola Superior de Gestão, Hotelaria e Turismo de Faro poderá ministrar o curso aplicam-se, com as necessárias adaptações, as regras do regime de transferência.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 2.º: adita o n.º 1.º-A (Curso de Gestão, Faro e Vila Real de Santo António) a seguir ao n.º 1.º; o n.º 1.º da Portaria 569/91 é dirigido à Portaria 588/86 e foi ignorado.",
+    "Alterador 2, n.º único: adita de novo o n.º 1.º-A com nova redacção (Faro e Portimão), que substitui a do alterador 1; inserido depois da unidade 8 só o texto final, do alterador 2."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

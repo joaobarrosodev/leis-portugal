@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:501415:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 1 só mantém a taxa de 13$00 em 1977, e o alterador 2 fixa uma nova taxa de 15$70 a partir de 1978 por disposição própria (com entrada em vigor própria), sem mandar alterar a redação do n.º 1.º da Portaria n.º 154/76; não são alterações textuais, não aplicadas.",
+  "instrucoes": [
+    "Alterador 1: mantém a taxa de 13$00 durante 1977; não muda o texto, nada a fazer.",
+    "Alterador 2: altera a taxa para 15$70 a partir de 1 de janeiro de 1978 como ato próprio, sem nova redação do n.º 1.º; não aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

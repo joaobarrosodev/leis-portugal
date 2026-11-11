@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:532850:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 883/99) dá nova redação ao quadro n.º 4 do anexo, que só vem em imagem (ver quadro no documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do quadro n.º 4 do anexo — quadro só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
