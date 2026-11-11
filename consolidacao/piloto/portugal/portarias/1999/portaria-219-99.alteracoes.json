@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 8-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Emissão de certificado do registo criminal requerido nos termos do artigo 10.º do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - 350$00;\n\nb) Emissão de certificado de contumácia requerido nos termos do artigo 23.º, n.º 2, do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - 150$00.",
+    "depois": "a) Emissão de certificado do registo criminal requerido nos termos do artigo 10.º do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - (euro) 1,75;\n\nb) Emissão de certificado do registo criminal requerido nos termos do artigo 14.º, n.º 3 do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - gratuita;\n\nc) Emissão de certificado de contumácia requerido nos termos do artigo 23.º, n.º 2, do [Decreto-Lei n.º 381/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324), de 27 de Novembro - (euro) 0,75;\n\nd) Emissão de certificado do registo de medidas tutelares educativas requerido por particular, ao abrigo do disposto no artigo 217.º, n.º 2, da [Lei n.º 166/99](https://diariodarepublica.pt/dr/detalhe/lei/166-1999-570567), de 14 de Setembro - (euro) 1,75.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:138557:por",
+    "alterador": "pt:dre:605533:por;pt:dre:313817:por"
+  },
+  {
+    "artigo": "unidades 10-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º As taxas previstas no número anterior podem ser pagas:\n\na) Por inutilização de estampilhas fiscais;\n\nb) Em numerário, quando os serviços disponham de meios automáticos de processamento e controlo dos pagamentos.",
+    "depois": "2.º As taxas previstas no número anterior são pagas em numerário, devendo o montante cobrado ser entregue, por meio de guia, na tesouraria da Fazenda Pública da respectiva área, nos mesmos termos e prazos aplicáveis ao imposto do selo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:138557:por",
+    "alterador": "pt:dre:605533:por;pt:dre:313817:por"
+  },
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º No caso previsto na alínea b) do número anterior, o montante das taxas cobradas é entregue, mensalmente, na tesouraria da Fazenda Pública da respectiva área.",
+    "depois": "3.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:138557:por",
+    "alterador": "pt:dre:605533:por;pt:dre:313817:por"
+  }
+]

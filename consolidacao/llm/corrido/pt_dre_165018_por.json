@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:165018:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "5 - Ficam ressalvadas a consulta e divulgação das actas, no todo ou em parte, em casos excepcionais por decisão do Presidente da República.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 retifica o n.º 5: 'no todo em parte' passa a 'no todo ou em parte'; substituída a unidade 8."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:618933:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os três alteradores mexem só no quadro de pessoal anexo, que no original só existe em imagem (unidade 14): o alterador 1 cria dois lugares de pedreiro, o alterador 2 altera o quadro por um quadro anexo em imagem e o alterador 3 substitui o quadro por um mapa em imagem (os seus anexos I e II são do próprio alterador, sem instrução de substituir o texto do original). Nada se pode aplicar ao texto com segurança.",
+  "instrucoes": [
+    "Alterador 1: criação de dois lugares de pedreiro no quadro (imagem) — não aplicado.",
+    "Alterador 2: alteração do quadro de pessoal por quadro anexo em imagem — não aplicado.",
+    "Alterador 3: substituição do quadro por mapa em imagem; anexos I e II próprios, sem instrução dirigida ao texto do original — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

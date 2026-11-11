@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Aos diplomas de conclusão do curso referido no número anterior é reconhecido o grau de licenciatura.\n\n3.º As habilitações mínimas que permitem o ingresso no referido curso de Psicologia Clínica são as exigidas legalmente, sem prejuízo de outros requisitos que sejam estabelecidos no regulamento interno do Instituto Superior de Ciências da Saúde-Sul.",
+    "depois": "2.º - (Revogado.)\n\n3.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:187952:por",
+    "alterador": "pt:dre:220744:por"
+  }
+]

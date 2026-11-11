@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:627250:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2: a escola de Recarei, Paredes, passa a designar-se Escola Preparatória e Secundária (C + S) de Sobreira, Paredes; é uma mudança de designação da escola, não uma alteração textual da portaria (não manda substituir a unidade 48). O n.º 2.º do alterador 2 é revogação condicional (disposições que contrariem), que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 496/87): mudança de designação da escola de Recarei para Sobreira; não é alteração textual, não aplicada.",
+    "Alterador 2 (Portaria 841/87), 1.º: repete a mudança de designação; não aplicada. 2.º: revogação condicional; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 21",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "4.º-A\n\nRamos\n\nO curso desdobra-se nos seguintes ramos:\n\na) Gestão Industrial;\n\nb) Automóvel.\n\n4.º-B\n\nDuração do semestre lectivo\n\nO número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:687029:por",
+    "alterador": "pt:dre:200423:por"
+  }
+]

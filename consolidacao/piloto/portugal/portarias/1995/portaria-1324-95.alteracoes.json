@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "depois da unidade 7",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 90.\n\n2 - A frequência global do curso não pode exceder 360 alunos.\n\n1.º-B\n\nUnidades curriculares de opção\n\nO elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:674014:por",
+    "alterador": "pt:dre:246133:por"
+  }
+]

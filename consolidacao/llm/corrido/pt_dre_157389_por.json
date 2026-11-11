@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:157389:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de São Simão, município de Nisa, com a área de 917,1050 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 9,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria 215/99) anexa prédios à zona de caça (área total 1015,43 ha, nova planta) sem dar nova redação a nenhum ponto do original; não se aplica textualmente.",
+  "instrucoes": [
+    "Portaria 733/97, n.º 1.º: nova redação do n.º 1.º (unidade 9).",
+    "Portaria 733/97, n.º 1.º: aditado n.º 1.º-A, inserido a seguir à unidade 9.",
+    "Portaria 215/99: anexação de prédios, sem alteração textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

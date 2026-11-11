@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:197153:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 (Portaria n.º 1556/2002) e 2 (Portaria n.º 369/2005) substituem o anexo (plano de estudos), cujos quadros só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o anexo passa a ser o da Portaria n.º 1556/2002, só em imagem; não aplicado.",
+    "Alterador 1, 2.º e 3.º: transição e aplicação; não são do texto.",
+    "Alterador 2, 1.º: novo plano de estudos, só em imagem; não aplicado.",
+    "Alterador 2, 2.º a 4.º: estágio, transição e aplicação; normas próprias, não do texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

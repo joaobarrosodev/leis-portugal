@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:681460:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 11,
+      "texto": "O Jardim-de-Infância da ex-OMEN.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 418/83): passa o Centro de Apoio à Terceira Idade de S. Martinho do Bispo para integração orgânica e funcional, mas não dá nova redação à norma I nem manda mudar o texto; alteração não textual.",
+  "instrucoes": [
+    "Alterador 1: nova redação da norma I; corpo e restantes alíneas iguais ('...'), acrescentado na alínea b) o Jardim-de-Infância da ex-OMEN depois dos serviços do Instituto da Família e Acção Social.",
+    "Alterador 2: integração orgânica do Centro de S. Martinho do Bispo sem instrução textual; não aplicada (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

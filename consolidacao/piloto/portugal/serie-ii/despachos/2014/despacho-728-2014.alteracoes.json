@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - O Plano Nacional de Saúde 2012-2016, adiante designado por Plano, é coordenado pelo Diretor-Geral da Saúde.",
+    "depois": "1 - O Plano Nacional de Saúde, adiante designado por Plano, é coordenado pelo Diretor-Geral da Saúde.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1390986:por",
+    "alterador": "pt:dre:114706562:por"
+  },
+  {
+    "artigo": "depois da unidade 10",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "2.2 - Coordenação Técnica da Estratégia e do Plano Nacional de Saúde a quem compete coadjuvar o Diretor Executivo e cujos membros são nomeados por despacho do membro do Governo responsável pela área da saúde, sob proposta do Diretor-Geral da Saúde.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1390986:por",
+    "alterador": "pt:dre:114706562:por"
+  },
+  {
+    "artigo": "unidades 11-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.2 - Equipa Técnica, que exerce funções na DGS, a quem compete apoiar as funções do Diretor Executivo do Plano.\n\n2.3 - Conselho Consultivo e de Acompanhamento do Plano, para acompanhamento do Plano e participação comunitária, constituído por representantes da sociedade civil, de entidades públicas, privadas e parceiros sociais interessados, nomeado por despacho do membro do Governo responsável pela área da saúde, sob proposta do Diretor-Geral de Saúde.\n\n2.4 - Grupo de Peritos do Plano, nomeado por despacho do membro do Governo responsável pela área da saúde, sob proposta do Diretor-Geral de Saúde, a quem compete designadamente:\n\n2.4.1 - Analisar e discutir o processo de desenvolvimento do Plano, sua implementação, comunicação, monitorização e avaliação;\n\n2.4.2 - Assegurar critérios de evidência, excelência técnica, qualidade e transparência;\n\n2.4.3 - Emitir parecer escrito sobre os relatórios de acompanhamento das atividades e da execução do Plano.",
+    "depois": "2.3 - Equipa Técnica, que exerce funções na DGS, a quem compete apoiar as funções do Diretor Executivo do Plano.\n\n2.4 - Conselho Consultivo e de Acompanhamento do Plano, para acompanhamento do Plano e participação comunitária, constituído por representantes da sociedade civil, de entidades públicas, privadas e parceiros sociais interessados, nomeado por despacho do membro do Governo responsável pela área da saúde, sob proposta do Diretor-Geral de Saúde.\n\n2.5 - Grupo de Peritos do Plano, nomeado por despacho do membro do Governo responsável pela área da saúde, sob proposta do Diretor-Geral de Saúde, a quem compete designadamente:\n\n2.5.1 - Analisar e discutir o processo de desenvolvimento do Plano, sua implementação, comunicação, monitorização e avaliação;\n\n2.5.2 - Assegurar critérios de evidência, excelência técnica, qualidade e transparência;\n\n2.5.3 - Emitir parecer escrito sobre os relatórios de acompanhamento das atividades e da execução do Plano.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1390986:por",
+    "alterador": "pt:dre:114706562:por"
+  }
+]

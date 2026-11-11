@@ -1,0 +1,67 @@
+{
+  "id": "pt:dre:151886:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 11,
+      "texto": "1.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 14,
+      "texto": "2.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "3.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 16,
+      "ate": 31,
+      "texto": "4.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 52,
+      "ate": 58,
+      "texto": "13.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 59,
+      "ate": 59,
+      "texto": "14.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 62,
+      "ate": 64,
+      "texto": "17.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 65,
+      "ate": 65,
+      "texto": "18.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 66,
+      "ate": 66,
+      "texto": "19.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 108/99, art. 5.º, al. b): revoga os n.os 1.º a 4.º, 13.º, 14.º e 17.º a 19.º da Portaria; cada ponto (com as suas alíneas) substituído por 'N.º - (Revogado.)'. A al. a) diz respeito ao DL 12/85: ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

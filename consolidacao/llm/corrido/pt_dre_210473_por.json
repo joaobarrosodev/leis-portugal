@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:210473:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 10,
+      "texto": "1.º O valor da taxa incidente sobre o vinho do Porto destinado à comercialização é fixado em (euro) 0,0299 por litro, para o vinho engarrafado, e em (euro) 0,0998 por litro, para o vinho em granel e para o desclassificado para uso na indústria agro-alimentar.\n\n2.º O valor da taxa incidente sobre a aguardente vínica destinada à beneficiação dos mostos e ao tratamento do vinho generoso da Região Demarcada do Douro é fixado em (euro) 0,0249 por litro.\n\n3.º Os selos de garantia fornecidos pelo Instituto do Vinho do Porto para aposição nas garrafas de vinho do Porto passam a ter o valor de (euro) 0,0200.\n\n4.º As cápsulas-selos de garantia para aposição nas garrafas de vinho do Porto com capacidade de 5 cl a 20 cl passam a ter os seguintes valores:\n\nDimensões até 28 mm x 18 mm - (euro) 0,0274;\n\nDimensões de 30 mm x 35 mm - (euro) 0,0499.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 4.º (unidade 10); ficou absorvida pela redação posterior do alterador 2, que cobre a mesma unidade.",
+    "Alterador 2: nova redação dos n.os 1.º a 4.º (unidades 7-10) em euros; substituídas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

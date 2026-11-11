@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:173367:por",
+  "substituicoes": [
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "11.º Competirá à Estação de Ensaio de Sementes a inspecção das cultivares para certificação. A certificação de semente produzida será efectuada nos termos da [Portaria n.º 16769](https://diariodarepublica.pt/dr/detalhe/portaria/16769-1958-352556), de 17 de Julho de 1958, e as alterações expressas neste diploma.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: altera a Portaria n.º 16769, não o original; ignorado.",
+    "Alterador 1, 2.º: nova redação do n.º 11.º; substituída a unidade 27."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

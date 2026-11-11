@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:166793:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 substituem o plano de estudos (anexo), que só vem em quadros em imagem; as restantes normas do alterador 2 (duração do ano e semestre, opções, transição, aplicação) são próprias desse diploma e não alteram o texto do original.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos (anexo) só em imagem; não aplicado.",
+    "Alterador 2, 1.º: novo plano de estudos (anexo) só em imagem; não aplicado.",
+    "Alterador 2, 2.º a 5.º: normas autónomas, não dirigidas ao texto do original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

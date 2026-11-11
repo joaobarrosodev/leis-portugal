@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:661494:por",
+  "substituicoes": [
+    {
+      "de": 62,
+      "ate": 62,
+      "texto": "21 - a) É proibido exportar produtos têxteis contingentados com desrespeito das regras estabelecidas neste despacho, bem como vender, comprar, ceder ou transaccionar, por qualquer forma ou qualquer título, na sua totalidade ou parcialmente, as quotas ou extraquotas atribuídas.\n\nb) Quem violar o disposto na alínea anterior, independentemente de ficar sujeito ao procedimento criminal que ao Caso caiba e às sanções previstas no domínio do regime jurídico em vigor em matéria de violação das normas reguladoras do exercício de actividade económica, poderá também ser penalizado, no ano imediato, com alguma ou algumas das seguintes medidas, conforme as circunstâncias do caso:\n\ni) Recusa de quaisquer quotas para quaisquer mercados;\n\nii) Recusa de quaisquer quotas para o mercado relativamente ao qual ocorreu a transacção punível;\n\niii) Recusa de quota para a categoria de produtos e para o mercado objecto da transacção punível.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 21 (unidade 62) substituída pelas alíneas a) e b) com as subalíneas i) a iii)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 5-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Nos termos e para os efeitos do disposto no n.º 3 do artigo 72.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de Outubro, torna-se público que, em 2001, foi incluído na lista indicativa do Património Mundial da UNESCO o Alto Douro Vinhateiro, na categoria de Paisagem Cultural, englobando os concelhos de Mesão Frio, Peso da Régua, Santa Marta de Penaguião, Vila Real, Alijó, Sabrosa, Carrazeda de Ansiães, Torre de Moncorvo, Lamego, Armamar, Tabuaço, São João da Pesqueira e Vila Nova de Foz Côa.\n\n2 - Publicam-se, no anexo i, a planta de implantação, incluindo a respectiva zona especial de protecção, e, no anexo ii, a planta de localização.",
+    "depois": "1 - Nos termos e para os efeitos do disposto no n.º 3 do artigo 72.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, torna-se público que em 2001, na 25.ª Sessão do Comité do Património Mundial (25COM/2001) que teve lugar em Helsínquia, na Finlândia, em dezembro, foi inscrito na Lista do Património Mundial da UNESCO o Alto Douro Vinhateiro, na categoria de Paisagem Cultural, englobando os concelhos de Mesão Frio, Peso da Régua, Santa Marta de Penaguião, Vila Real, Alijó, Sabrosa, Carrazeda de Ansiães, Torre de Moncorvo, Lamego, Armamar, Tabuaço, São João da Pesqueira e Vila Nova de Foz Côa.\n\n2 - Publicam-se no anexo i a planta de implantação, no anexo ii a planta da zona tampão que, para todos os efeitos, nos termos do n.º 2 do artigo 72.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, corresponde a uma zona especial de proteção, e no anexo iii a planta de localização, que podem ser consultadas nos locais e páginas eletrónicas das seguintes entidades: Direção-Geral do Património Cultural; Comissão Nacional da UNESCO; Câmaras Municipais dos concelhos de Mesão Frio, Peso da Régua, Santa Marta de Penaguião, Vila Real, Alijó, Sabrosa, Carrazeda de Ansiães, Torre de Moncorvo, Lamego, Armamar, Tabuaço, São João da Pesqueira e Vila Nova de Foz Côa; Direção Regional de Cultura do Norte; e Centro do Património Mundial da UNESCO",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1435181:por",
+    "alterador": "pt:dre:159219777:por"
+  },
+  {
+    "artigo": "unidades 8-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4095040950.pdf)\n\n## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/2s/2010/07/147000000/4095040950.pdf)",
+    "depois": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/049000000/0009300095.pdf)\n\n## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/049000000/0009300095.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1435181:por",
+    "alterador": "pt:dre:159219777:por"
+  },
+  {
+    "artigo": "depois da unidade 9",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/2s/2021/03/049000000/0009300095.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1435181:por",
+    "alterador": "pt:dre:159219777:por"
+  }
+]

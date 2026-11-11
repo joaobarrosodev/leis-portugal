@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:179478:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 231/2007), n.os 5.º e 7.º: extingue o curso de artes circenses e revoga a Portaria n.º 196/92 'nas partes que àqueles cursos respeitam'; revogação de âmbito material, sem indicar unidades do texto (a alínea a) e o respetivo plano de estudos em imagem), pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, 5.º: extinção do curso de artes circenses; não textual.",
+    "Alterador 1, 7.º: revogação parcial 'nas partes que àqueles cursos respeitam'; não aplicada, registada em nao_aplicavel.",
+    "Alterador 1, restantes números: criação do novo curso e regime transitório; sem efeito no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

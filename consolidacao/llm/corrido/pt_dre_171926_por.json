@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:171926:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 896/91), n.º 3.º: revoga a Portaria n.º 867/85 'no que respeita ao desdobramento da Tesouraria da Fazenda Pública do Concelho de Ílhavo', que é todo o objeto do diploma; revogação de âmbito material, não textual, sem alvo de unidades identificado. Os n.os 5.º e 6.º (redução do quadro e extinção das tesourarias desdobradas) não alteram o texto e o mapa só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, 3.º: revogação da Portaria n.º 867/85 no que respeita ao desdobramento da Tesouraria de Ílhavo; não aplicada ao texto (revogação de âmbito, equivalente ao objeto inteiro do diploma), registada em nao_aplicavel.",
+    "Alterador 1, 1.º, 2.º e 4.º: dirigidos a outras portarias ou ao pessoal; ignorados.",
+    "Alterador 1, 5.º e 6.º: redução do quadro (mapa em imagem) e extinção das tesourarias; sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

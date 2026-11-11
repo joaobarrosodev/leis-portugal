@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 60-60",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "12.º Nos hospitais psiquiátricos e serviço de saúde mental equiparados a hospitais centrais especializados, designadamente Hospital de Júlo de Matos, Hospital de Miguel Bombarda, Hospital de Sobral Cid, Hospital do Lorvão, Hospital do Conde de Ferreira, Centro de Saúde Mental Ocidental do Porto (Magalhães Lemos), Centro de Saúde Mental Infantil de Lisboa, Centro de Saúde Mental Infantil de Coimbra, Centro de Saúde Mental Infantil do Porto e Centro de Saúde Mental de Vila Nova de Gaia, são aplicáveis as tabelas referidas nos n.os 10.º e 11.º para hospitais centrais.",
+    "depois": "12.º Nos hospitais psiquiátricos e serviços de saúde mental equiparados a hospitais centrais especializados, designadamente Hospital de Júlio de Matos, Hospital de Miguel Bombarda, Hospital de Sobral Cid, Hospital do Lorvão, Hospital do Conde de Ferreira, Centro de Saúde Mental Ocidental do Porto (Magalhães Lemos), Centro de Saúde Mental Infantil de Lisboa, Centro de Saúde Mental Infantil de Coimbra, Centro de Saúde Mental Infantil do Porto e Centro de Saúde Mental de Vila Nova de Gaia, são aplicáveis as tabelas referidas nos n.os 10.º e 11.º para hospitais centrais.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:668284:por",
+    "alterador": "pt:dre:682201:por"
+  }
+]

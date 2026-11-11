@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:668723:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 1177/97 dá nova redação ao anexo (plano de estudos), mas o novo anexo só vem em imagem (ver documento original): não aplicado.",
+  "instrucoes": [
+    "1.º: anexo passa a ter a redação do anexo da Portaria n.º 1177/97: novo quadro só em imagem, não aplicado.",
+    "2.º e 3.º (aplicação e transição): normas próprias do alterador, nada a mudar no original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

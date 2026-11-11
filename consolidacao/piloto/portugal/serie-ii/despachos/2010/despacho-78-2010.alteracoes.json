@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 73-73",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7 - As competências delegadas em cada um dos Secretários de Estado compreendem os poderes necessários para decidirem sobre os procedimentos instruídos nos serviços e organismos mencionados nos n.os 3 e 4, bem como as competências para a prática de actos decisórios ou de aprovação tutelar.",
+    "depois": "7 - As competências delegadas em cada um dos Secretários de Estado compreendem os poderes necessários para decidirem sobre os procedimentos instruídos nos serviços e organismos mencionados, respectivamente, nos n.os 3 e 4, bem como as competências para a prática de actos decisórios ou de aprovação tutelar, incluindo as decisões relativas ao reconhecimento ou declaração de interesse público, de utilidade pública, de interesse geral ou similar, no âmbito das suas competências.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1619779:por",
+    "alterador": "pt:dre:2857486:por"
+  }
+]

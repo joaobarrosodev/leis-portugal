@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:655136:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1, 2 e 3, n.º 1.º: os planos de estudos dos cursos de Gestão de Recursos Humanos, Informática de Gestão e Contabilidade e Administração passam a ser os dos anexos dos alteradores; os quadros só vêm em imagem e o original não tem anexo com plano de estudos; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo plano de estudos de Gestão de Recursos Humanos; só em imagem e sem anexo correspondente no original, não aplicado.",
+    "Alterador 2, n.º 1.º: novo plano de estudos de Informática de Gestão; só em imagem, não aplicado.",
+    "Alterador 3, n.º 1.º: novo plano de estudos de Contabilidade e Administração; só em imagem, não aplicado.",
+    "Alteradores 1 a 3, n.os 2.º e 3.º: disposições próprias dos alteradores; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

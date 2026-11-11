@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:184698:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1 (Portaria n.º 1263/2006): extingue a zona de caça municipal de Casas Novas e concessiona uma zona de caça associativa; não há alteração textual nem revogação expressa da portaria.",
+  "instrucoes": [
+    "Alt. 1, 1.º: extinção da zona de caça - não aplicado; 2.º e 3.º: nova zona associativa, norma própria."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

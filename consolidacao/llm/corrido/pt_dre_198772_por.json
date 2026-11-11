@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:198772:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 (Portaria n.º 246/2003) e 2 (Portaria n.º 953/2005) substituem o anexo (plano de estudos), cujos quadros só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo anexo, só em imagem; não aplicado. 2.º: produção de efeitos.",
+    "Alterador 2, 1.º: novo anexo, só em imagem; não aplicado. 2.º e 3.º: transição e aplicação."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

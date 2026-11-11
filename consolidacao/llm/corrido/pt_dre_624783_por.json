@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:624783:por",
+  "substituicoes": [
+    {
+      "de": 46,
+      "ate": 47,
+      "texto": "14 - (Revogado.)\n\n15 - (Revogado.)",
+      "alterador": 4
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (exoneração da gestora nomeada no n.º 4 e nomeação de novo gestor), alterador 3 (extinção da estrutura de apoio do eixo n.º 3 do POEFDS e sucessão pelo GGPOAP) e alterador 4, n.º 1 (nova duração da estrutura de missão) não dão nova redação ao texto: não são alterações textuais. O alterador 1 (Decreto-Lei n.º 79/2005) não contém instrução dirigida ao original.",
+  "instrucoes": [
+    "Alterador 1: lei orgânica do Governo, sem instrução dirigida ao original — nada a fazer.",
+    "Alterador 2: exoneração e nomeação de gestor, sem alteração textual — não aplicado.",
+    "Alterador 3: extinção de estrutura do POEFDS, sem alteração textual — não aplicado.",
+    "Alterador 4, n.º 1: duração do GGPOAP e da estrutura de missão, sem alteração textual — não aplicado.",
+    "Alterador 4, n.º 2: revogados os n.os 14 e 15 — unidades 46 e 47 substituídas por «(Revogado.)»."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

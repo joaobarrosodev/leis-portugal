@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:149435:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: altera o quadro n.º 3 do anexo, mas no original o anexo é uma única imagem (unidade 40) sem quadro n.º 3 identificado no texto; não aplicável com segurança. Alterador 2: revogação da portaria condicionada ao fim do processo de transição (n.º 3.º, n.º 2), não aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do quadro n.º 3 do anexo (imagem); não aplicada, sem unidade correspondente.",
+    "Alterador 2, n.º 3.º: cessação do curso e revogação condicional da portaria findo o período de transição; não aplicada. O resto aprova outro plano de estudos e não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

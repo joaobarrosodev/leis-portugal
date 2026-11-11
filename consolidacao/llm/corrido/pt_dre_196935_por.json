@@ -1,0 +1,61 @@
+{
+  "id": "pt:dre:196935:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 23,
+      "texto": "a) Serem apresentadas pelo proprietário ou arrendatário da salina objecto do projecto, desde que devidamente legalizada à data da apresentação da candidatura;\n\nb) Dizerem respeito a salinas em actividade, com produção declarada nos dois anos imediatamente anteriores ao da apresentação da candidatura ou, em caso de inactividade, com justificação que será apreciada pela Direcção-Geral das Pescas e Aquicultura (DGPA);",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 50,
+      "texto": "1 - O processo de candidatura deverá ser entregue na DGPA ou respectivos serviços regionais, instruído com:\n\na) Impressos próprios, devidamente preenchidos, acompanhados de requerimento dirigido ao membro do Governo responsável pelo sector das pescas e dos documentos constantes da listagem anexa aos referidos impressos;\n\nb) Fotocópia das declarações do IRS/IRC relativas aos dois últimos anos;\n\nc) Declaração da produção (quantidades), por salina e por empresa, nos últimos dois anos.\n\n2 - As candidaturas entregues na DGPA até 31 de Março de cada ano devem ser objecto de decisão até 7 de Outubro do mesmo ano.",
+      "alterador": 1
+    },
+    {
+      "de": 55,
+      "ate": 55,
+      "texto": "1 - O prazo para execução dos projectos é determinado, caso a caso, no despacho de concessão do apoio, tendo em conta o tipo de investimento em causa, podendo ser fixado em 90 dias ou um ano, contado, em qualquer dos casos, a partir da data em que o beneficiário é notificado daquele despacho, com ressalva do disposto no número seguinte.\n\n2 - Caso o pagamento do apoio tenha lugar antecipadamente, nos termos do disposto na alínea b) do n.º 3 do artigo seguinte, o prazo para execução material e financeira do projecto é de um ano contado a partir da data em que ocorrer aquele pagamento.",
+      "alterador": 1
+    },
+    {
+      "de": 58,
+      "ate": 61,
+      "texto": "1 - Para os projectos cujo prazo de execução seja fixado em 90 dias, o pagamento dos apoios financeiros será efectuado por conta das dotações inscritas no Orçamento do Estado do ano seguinte ao da aprovação do projecto.\n\n2 - Para os projectos cujo prazo de execução seja fixado em um ano, o pagamento dos apoios financeiros será efectuado por conta das dotações inscritas no Orçamento do Estado relativo ao segundo ano após a data da aprovação do projecto.\n\n3 - O pagamento dos apoios financeiros poderá efectuar-se de acordo com uma das seguintes modalidades:\n\na) O apoio atribuído é pago ao beneficiário, via transferência bancária, após a conclusão material do projecto, comprovada mediante a realização de uma vistoria pela DGPA, e a apresentação, pelo beneficiário, dos documentos de despesa definitivos que comprovam o investimento realizado;\n\nb) O apoio atribuído é pago ao beneficiário, via transferência bancária, antes da conclusão material e financeira do projecto contra a apresentação de garantia bancária ou seguro-caução, prestada pelo mesmo, pelo valor do subsídio líquido, válidos por um período indeterminado ou por um período automaticamente renovável.\n\n4 - Para efeitos do disposto na alínea a) do número anterior, deverão os beneficiários remeter à DGPA, no prazo máximo de 90 dias ou um ano, contado da data de envio do ofício de notificação da concessão de apoio, conforme se trate dos projectos referidos no n.º 1 ou 2 do presente artigo, a seguinte documentação:\n\na) Documentos de despesa originais (facturas e recibos que poderão ser substituídos por documentos afins), numerados e com data igual ou posterior à data de entrada da candidatura na DGPA;\n\nb) Certidões comprovativas em como está regularizada a situação contributiva junto da administração fiscal e da segurança social.\n\n5 - A opção pela modalidade de pagamento prevista na alínea b) do n.º 3 está sujeita a autorização prévia da DGPA, devendo a garantia bancária ou o seguro-caução bem como as certidões referidas na alínea b) do número anterior ser apresentadas na DGPA até ao final do 3.º trimestre do ano em que ocorrer o pagamento.\n\n6 - Salvo a situação prevista na alínea b) do n.º 3, o pagamento dos apoios será sempre precedido de vistoria efectuada pela DGPA, para comprovação da realização material do projecto.\n\n7 - Os beneficiários comparticipam nas despesas inerentes ao acompanhamento dos projectos pela DGPA com o valor de 1% sobre o montante ilíquido de cada subsídio atribuído.\n\n8 - Excepcionalmente, havendo disponibilidade financeira, o membro do Governo responsável pelo sector das pescas pode autorizar o pagamento do apoio por verbas respeitantes ao próprio ano de entrada da candidatura na DGPA.",
+      "alterador": 1
+    },
+    {
+      "de": 64,
+      "ate": 64,
+      "texto": "1 - A libertação das garantias bancárias ou dos seguros-caução tem lugar após a confirmação pela DGPA de que os projectos a que respeitam se encontram material e financeiramente concluídos.\n\n2 - Para efeitos do disposto no número anterior, os beneficiários devem remeter à DGPA, no prazo de 30 dias a contar da data referida no n.º 2 do artigo 7.º, os documentos referidos na alínea a) do n.º 4 do artigo anterior.",
+      "alterador": 1
+    },
+    {
+      "de": 68,
+      "ate": 70,
+      "texto": "2 - O incumprimento pelos beneficiários das obrigação decorrentes do presente diploma constitui fundamento para ser determinada a perda total ou parcial do apoio atribuído.\n\n3 - Quando se verifique ter havido o pagamento prévio do subsídio, de acordo com o previsto na alínea b) do n.º 3 do artigo 8.º, e haja incumprimento na execução dos projectos, ao montante a repor nos cofres do Estado deverão ser acrescidos os respectivos juros legais, nos termos do disposto no artigo 559.º do Código Civil.\n\n4 - A reposição da verba referida no número anterior nos cofres do Estado deverá efectuar-se num prazo máximo de 15 dias úteis após a notificação do beneficiário explicitando a quantia a devolver.\n\n5 - A não reposição deste montante no prazo indicado implicará o envio do processo à repartição de finanças correspondente ao domicílio do beneficiário para efeitos de execução fiscal.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 52,
+      "texto": "5 - As candidaturas entradas na DGPA em data posterior à prevista no n.º 2 do presente artigo transitarão para o ano seguinte, para análise e decisão, podendo, excepcionalmente, ser decididas no próprio ano de entrada caso haja disponibilidade financeira para o efeito.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "n.º 1, 2.º: novas alíneas a) e b) (unidades 22-23); proémio e c) mantêm-se.",
+    "n.º 1, 6.º: novo n.º 1 com alíneas e novo n.º 2 (unidades 49-50); n.os 3 e 4 mantêm-se; n.º 5 aditado depois da unidade 52.",
+    "n.º 1, 7.º: corpo substituído por n.os 1 e 2 (unidade 55).",
+    "n.º 1, 8.º: n.os 1 a 8 novos substituem as unidades 58-61.",
+    "n.º 1, 9.º: corpo substituído por n.os 1 e 2 (unidade 64).",
+    "n.º 1, 10.º: n.º 1 mantém-se; unidades 68-70 substituídas pelos novos n.os 2 a 5.",
+    "n.os 2 e 3: regra transitória para 2005 e vigência; não são do texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

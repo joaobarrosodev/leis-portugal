@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º A componente de formação científica do referido curso é constituída pelas disciplinas de Matemática e Economia, as quais, conjuntamente com a disciplina de Português, serão sujeitas a avaliação sumativa externa concretizada na realização de exames nacionais, nos termos e para os efeitos estabelecidos no artigo 11.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, conjugado com os artigos 26.º, 27.º e 30.º a 33.º da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio.",
+    "depois": "4.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:147651:por",
+    "alterador": "pt:dre:640972:por"
+  },
+  {
+    "artigo": "unidades 24-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/09/185b00/57995801.pdf)",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16500/0583505835.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:147651:por",
+    "alterador": "pt:dre:640972:por"
+  }
+]

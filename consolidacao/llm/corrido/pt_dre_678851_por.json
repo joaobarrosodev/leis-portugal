@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:678851:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "São integrados no Centro Regional de Segurança Social de Beja os seguintes órgãos, serviços e instituições oficiais existentes na área do distrito:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1) Integração completa (orgânica e funcional):",
+      "alterador": 1
+    },
+    {
+      "depois_de": 13,
+      "texto": "2) Integração apenas funcional:\n\nO Centro de Apoio à Terceira Idade de Beja.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação da norma I; mudado o corpo (unidade 6), acrescentado o título 1) antes das alíneas a) a d) (que ficam, '...') e acrescentado o 2) com o Centro de Apoio à Terceira Idade de Beja depois da alínea d).",
+    "Alterador 2: é o mesmo texto da Portaria n.º 334/80, repetido; já aplicado pelo alterador 1, nada mais a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "São integrados orgânica e funcionalmente no Centro Regional de Segurança Social de Beja os seguintes órgãos, serviços e instituições oficiais existentes na área do distrito:",
+    "depois": "São integrados no Centro Regional de Segurança Social de Beja os seguintes órgãos, serviços e instituições oficiais existentes na área do distrito:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:678851:por",
+    "alterador": "pt:dre:472934:por"
+  },
+  {
+    "artigo": "depois da unidade 6",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1) Integração completa (orgânica e funcional):",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:678851:por",
+    "alterador": "pt:dre:472934:por"
+  },
+  {
+    "artigo": "depois da unidade 13",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "2) Integração apenas funcional:\n\nO Centro de Apoio à Terceira Idade de Beja.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:678851:por",
+    "alterador": "pt:dre:472934:por"
+  }
+]

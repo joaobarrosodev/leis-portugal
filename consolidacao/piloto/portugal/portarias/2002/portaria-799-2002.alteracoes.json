@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º A presente anexação mereceu, por parte da Direcção-Geral do Turismo, parecer favorável condicionado à aprovação do projecto de arquitectura do pavilhão de caça, à conclusão da obra no prazo de 12 meses a contar da data de notificação da aprovação do referido projecto, à verificação da obra com o projecto aprovado e ainda à legalização do alojamento turístico.",
+    "depois": "2.º A presente anexação mereceu, por parte da Direcção-Geral do Turismo, parecer favorável condicionado à aprovação do projecto de arquitectura do pavilhão de caça, à conclusão da obra no prazo de 12 meses a contar da data de notificação da aprovação do referido projecto, à verificação da obra com o projecto aprovado e ainda à legalização do alojamento proposto, caso seja afecto à exploração turística.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:143306:por",
+    "alterador": "pt:dre:216162:por"
+  }
+]

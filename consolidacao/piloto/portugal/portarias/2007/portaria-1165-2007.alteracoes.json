@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 45-49",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º\n\nO anexo iii da tabela relativa às taxas para o Fundo de Fiscalização de Explosivos e Armamento a que se refere o n.º 4.º da [Portaria n.º 637/2005](https://diariodarepublica.pt/dr/detalhe/portaria/637-2005-240612), de 4 de Agosto, alterado pela [Portaria n.º 1148/2005](https://diariodarepublica.pt/dr/detalhe/portaria/1148-2005-582997), de 9 de Novembro, passa a ter a seguinte redacção:\n\n## ANEXO III — (a que se refere o n.º 4)\n\nTabela relativa às taxas para o Fundo de Fiscalização de Explosivos e Armamento\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17700/0648706497.pdf)",
+    "depois": "3.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:640579:por",
+    "alterador": "pt:dre:306471:por"
+  }
+]

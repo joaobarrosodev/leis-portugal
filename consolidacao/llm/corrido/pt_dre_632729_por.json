@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:632729:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º Pela presente portaria é renovada, por um período de seis anos, renováveis por dois períodos iguais, a concessão da zona de caça associativa da Figueirinha, Alcaria do Coelho e outras (processo n.º 1857-DGF), abrangendo vários prédios rústicos sitos nas freguesias de São Marcos da Ataboeira, Santa Bárbara de Padrões, São João dos Caldeireiros e São Miguel do Pinheiro, municípios de Castro Verde e Mértola, com a área de 1961,24 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 760/2006): no n.º 1.º, onde se lê «por um período de seis anos» passa a ler-se «por um período de seis anos, renováveis por dois períodos iguais»; substituída a unidade 7.",
+    "Alterador 2 (Portaria 1442/2007): anexação de prédios e áreas de condicionamento; o lapso no nome da associação vem só no preâmbulo; não há instrução textual dirigida ao original.",
+    "Alterador 3 (Portaria 142/2009): renovação da concessão; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

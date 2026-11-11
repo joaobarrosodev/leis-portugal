@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:157233:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Alcoentre, município de Azambuja, com a área de 906,1946 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 9,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Portaria 748/2004) renova a concessão por 12 anos com 816 ha e nova planta, e alterador 3 (Portaria 110/2006) transfere a concessão para outra associação: nenhum dá nova redação ao texto do original, pelo que não se aplicam textualmente.",
+  "instrucoes": [
+    "Portaria 631/97, n.º 1.º: nova redação do n.º 1.º (unidade 9), mantendo o número '1.º'.",
+    "Portaria 631/97, n.º 1.º: aditado n.º 1.º-A, inserido a seguir à unidade 9.",
+    "Portaria 748/2004: renovação da concessão, sem alteração textual; não aplicada.",
+    "Portaria 110/2006: transmissão da concessão, sem alteração textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

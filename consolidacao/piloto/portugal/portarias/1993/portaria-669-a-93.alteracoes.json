@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Não são permitidas quaisquer emendas, rasuras ou entrelinhas no preenchimento dos documentos referidos no n.º 2.º",
+    "depois": "4.º Não são permitidas quaisquer emendas, rasuras ou entrelinhas no preenchimento dos documentos, admitindo-se o uso de algarismos nas referências numéricas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:634712:por",
+    "alterador": "pt:dre:600130:por"
+  },
+  {
+    "artigo": "unidades 14-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Nome completo, estado civil, naturalidade, residência habitual dos outorgantes, bem como das pessoas singulares por estes representadas, as firmas das sociedades e as denominações das pessoas colectivas que os outorgantes representem, com indicação da respectiva sede e, ainda, a menção do nome do cônjuge e do regime de bens, sendo casado, ou, sendo solteiro, a indicação de ser maior;\n\nb) Número de contribuinte, caso seja pessoa singular, ou número de identificação de pessoa colectiva e respectivo número de matrícula na conservatória do registo comercial, caso seja pessoa colectiva.",
+    "depois": "a) Nome completo, estado civil, naturalidade, residência habitual dos outorgantes, bem como das pessoas singulares por estes representadas, a firma e o tipo das sociedades e as denominações das pessoas colectivas que os outorgantes representem, com indicação da respectiva sede, e ainda a menção do nome do cônjuge e do regime de bens, sendo casado, ou, sendo solteiro, a indicação de ser maior;\n\nb) Nacionalidade, se algum dos outorgantes não for português, salvo se intervier na qualidade de representante;\n\nc) Número de contribuinte, caso seja pessoa singular, ou, tratando-se de pessoa colectiva, o seu número de identificação, respectivo número de matrícula na conservatória do registo comercial e montante do capital social, quando devido.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:634712:por",
+    "alterador": "pt:dre:600130:por"
+  },
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º São obrigatoriamente preenchidos todos os espaços referidos no número anterior, devendo trancar-se os campos alternativos não utilizados e o campo referente à autorização do cônjuge, quando não necessário.",
+    "depois": "7.º São obrigatoriamente preenchidos todos os espaços referidos no número anterior, devendo inutilizar-se os não inteiramente ocupados pelo texto e trancar-se os campos alternativos ou as quadrículas não utilizadas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:634712:por",
+    "alterador": "pt:dre:600130:por"
+  }
+]

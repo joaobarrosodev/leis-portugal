@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:651688:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 (o mesmo diploma, Portaria n.º 1159/95), n.º 1.º, n.º 1: os quadros n.os 1 a 4 do anexo passam a ter a redação dos quadros anexos ao alterador, que só vêm em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1/2, n.º 1.º, n.º 1: substituição dos quadros n.os 1 a 4 do anexo; só em imagem, não aplicado.",
+    "Alterador 1/2, n.º 1.º, n.º 2, e n.º 2.º: alteram e revogam números da Portaria n.º 90/91, outro diploma; ignorado.",
+    "Alterador 2 repete o alterador 1; nada de novo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

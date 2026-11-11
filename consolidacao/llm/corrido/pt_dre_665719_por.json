@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:665719:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 e 2 substituem o plano de estudos do anexo, que só existe em imagem no documento original; não há texto a aplicar.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: novo plano de estudos (anexo), só em imagem; não aplicado. O 2.º regula a entrada em funcionamento da própria alteração.",
+    "Alterador 2, n.º 1.º: nova redação do anexo, só em imagem; não aplicado. Os n.os 2.º e 3.º são aplicação e transição da própria portaria."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

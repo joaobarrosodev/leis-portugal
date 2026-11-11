@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:692213:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 437/2000): o quadro n.º 1 do anexo passa a ser o do seu anexo, que só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1: novo quadro n.º 1 do anexo só em imagem; não aplicado.",
+    "Alterador 2 (Portaria n.º 123/2003): altera o anexo e adita números à Portaria n.º 1156/97, que é outro diploma; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

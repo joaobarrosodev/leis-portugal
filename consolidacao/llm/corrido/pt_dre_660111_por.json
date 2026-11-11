@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:660111:por",
+  "substituicoes": [
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "1 - O 1.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2003-2004, inclusive, um ano curricular em cada ano lectivo.\n\n2 - O 2.º ciclo do curso pode começar a funcionar a partir do ano lectivo de 2004-2005, inclusive.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: nova redação do quadro n.º 4 do anexo, só em imagem; alterador 3, n.º 1.º: nova redação do anexo (quadros n.os 1 a 4), só em imagem; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: quadro n.º 4 do anexo substituído; só em imagem, não aplicado.",
+    "Alterador 2, n.º 1.º, n.º 1: nova redação do n.º 8.º; substituído o corpo (unidade 36), mantendo número e epígrafe.",
+    "Alterador 2, n.º 1.º, n.os 2 e 3: alteram as Portarias n.os 820/2003 e 821/2003, outros diplomas; ignorado.",
+    "Alterador 3, n.º 1.º: nova redação do anexo; quadros só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

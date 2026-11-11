@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:665173:por",
+  "substituicoes": [
+    {
+      "de": 268,
+      "ate": 268,
+      "texto": "Art. 52.º As promoções a segundos-subchefes serão feitas por ordem de classificação no curso ou concurso entre guardas de 1.ª e 2.ª classes que reúnam as condições previstas no regulamento.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 35,
+      "texto": "6. Serão designados por guardas rurais os membros das «milícias e intervenção» que passem para a dependência da Polícia de Segurança Pública.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 4.º: aditado o n.º 6 ao artigo 6.º do decreto, depois do n.º 5 (unidade 35).",
+    "Alterador 1, art. 5.º: nova redação do artigo 52.º do Estatuto (unidade 268).",
+    "Alterador 1, arts. 1.º a 3.º e 6.º a 11.º: dizem respeito a S. Tomé e Príncipe, Angola, Macau, Timor e a disposições comuns de outros diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

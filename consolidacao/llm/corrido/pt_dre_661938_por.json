@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:661938:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 e 2 substituem os planos de estudos do anexo (Pedagogia Social e Supervisão Educativa), que só existem em imagem no documento original; não há texto a aplicar.",
+  "instrucoes": [
+    "Alterador 1: nova redação do anexo, plano de estudos de Pedagogia Social, só em imagem; não aplicado.",
+    "Alterador 2: nova redação do anexo, plano de estudos de Supervisão Educativa, só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

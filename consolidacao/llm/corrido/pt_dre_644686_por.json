@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:644686:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 16,
+      "texto": "## ANEXO I — (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 18,
+      "texto": "## ANEXO II — (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 691/2009), artigo 12.º, n.º 1, alínea a): revoga os anexos I e II da Portaria 1047/99 (de acordo com a produção de efeitos do artigo 11.º); as unidades 15-16 e 17-18 passam a anexo revogado.",
+    "Restantes disposições do alterador 1: criam novos cursos e revogam outros diplomas; não se dirigem ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 15-16: parágrafo que não está no alterador nem no original: ## ANEXO I — (Revogado.)",
+    "substituição 17-18: parágrafo que não está no alterador nem no original: ## ANEXO II — (Revogado.)"
+  ]
+}

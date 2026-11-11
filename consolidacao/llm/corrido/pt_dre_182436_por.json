@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:182436:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1 (Portaria n.º 316/2005): anexa prédios rústicos (área total 5102 ha, planta só em imagem) e refere no preâmbulo um lapso na área (4415,30 ha e não 4428,20 ha), sem instrução que altere o texto do n.º 2.º. Alt. 2 (Portaria n.º 448/2006): extingue a zona de caça e concessiona outra; não é revogação nem alteração textual da portaria.",
+  "instrucoes": [
+    "Alt. 1, 1.º a 3.º: anexação de terrenos, efeitos e sinalização - normas próprias, sem alteração textual; o lapso de área só vem no preâmbulo, não aplicado.",
+    "Alt. 2, 1.º: extinção da zona de caça - não é alteração textual; 2.º e 3.º: nova zona associativa, norma própria."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

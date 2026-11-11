@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:194790:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "3 - Determinar que a publicação a que se refere o n.º 1 se efectue na 2.ª série do Diário da República até ao último dia útil do mês seguinte àquele a que os subsídios digam respeito.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 7,
+      "texto": "4 - A publicação a que se refere o n.º 1 compete à Secretaria-Geral da Presidência do Conselho de Ministros, a qual centralizará as operações de recolha dos elementos a publicar, para o que as secretarias-gerais ou organismos equiparados dos diversos ministérios lhe enviarão a lista respectiva até ao dia 15 do mês seguinte àquele a que os subsídios respeitem.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "N.º 1: nova redação do n.º 3: substituída a unidade 7.",
+    "N.º 2: aditado o n.º 4: inserido depois da unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

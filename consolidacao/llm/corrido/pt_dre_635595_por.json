@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:635595:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 381/96): o quadro de pessoal é alterado pelo quadro anexo, que só vem em imagem, e é extinto um lugar de dietética (alteração do quadro, não textual). Alterador 2 (Portaria 26/98): criação de um lugar de chefe de serviço de ginecologia no quadro (anexo só em imagem). Alterador 3 (Portaria 1374/2002): acréscimo de lugares em anexo só em imagem. Nenhuma destas alterações é aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 381/96): alteração do quadro de pessoal anexo (imagem) e extinção de um lugar; não aplicada.",
+    "Alterador 2 (Portaria 26/98): criação de um lugar no quadro; não aplicada.",
+    "Alterador 3 (Portaria 1374/2002): lugares acrescidos ao quadro pelo anexo n.º 2 (imagem); não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

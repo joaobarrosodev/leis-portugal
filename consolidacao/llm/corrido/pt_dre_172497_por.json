@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:172497:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 925/95): o n.º 1.º substitui o plano de estudos do 3.º ano, 1.º semestre, e o n.º 2.º revoga o quadro n.º 5 do anexo I; o anexo só existe em imagem no original e no alterador, pelo que não há texto a alterar.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo plano de estudos do 3.º ano, 1.º semestre (anexo em imagem); não aplicável.",
+    "Alterador 1, 2.º: revogação do quadro n.º 5 do anexo I (anexo em imagem); não aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

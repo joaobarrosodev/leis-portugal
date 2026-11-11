@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:138544:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1282/97 substitui o anexo (plano de estudos), que só vem em imagem no documento original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o anexo passa a ter a redacção do anexo da portaria (só em imagem) - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7 - Os professores que leccionam disciplinas nos cursos técnico-profissionais ou profissionais no ano lectivo em que é lançado pela primeira vez cada um dos anos curriculares de um novo curso na sua escola terão duas horas semanais, equiparadas a serviço docente, destinadas ao trabalho de preparação e de coordenação do lançamento do novo curso.",
+    "depois": "7 - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:181061:por",
+    "alterador": "pt:dre:288263:por"
+  }
+]

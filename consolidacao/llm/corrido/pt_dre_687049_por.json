@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:687049:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Alpiarça, com a área de 1361,1640 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Plantas anexas (alteradores 1 e 2) só em imagem; não substituída a ligação da planta. Alteradores 3 (Portaria n.º 784/2005, renovação da concessão), 4 (Portaria n.º 1284/2005) e 5 (Portaria n.º 1161/2006) (anexação de prédios e novas áreas) não dão nova redação a nenhum número do original; alterações não textuais.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (área de 1778,6920 ha), depois substituída pela do alterador 2; nova planta só em imagem.",
+    "Alterador 2: nova redação do n.º 1.º (área de 1361,1640 ha), mantendo o número 1.º; aditado o n.º 1.º-A depois do 1.º.",
+    "Alterador 3: renovação da concessão por 12 anos com nova área; não textual, não aplicada.",
+    "Alteradores 4 e 5: anexação de prédios rústicos (áreas totais 1920 ha e 1980 ha); não textuais, não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

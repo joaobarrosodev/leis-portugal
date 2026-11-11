@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:209058:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 16,
+      "texto": "3.º-A\n\nDuração do curso\n\nO curso tem a duração de cinco anos.\n\n3.º-B\n\nDuração do semestre lectivo\n\nO número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n3.º-C\n\nUnidades curriculares de opção\n\nO elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente do estabelecimento de ensino.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, n.º 1.º: nova redação do anexo (plano de estudos), cujos quadros só vêm em imagem; não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: substituição do anexo (quadros em imagem); não aplicada.",
+    "Alterador 1, n.º 2.º: aditados os n.os 3.º-A, 3.º-B e 3.º-C; inseridos depois da unidade 16 (fim do n.º 3.º).",
+    "Alterador 1, n.os 3.º e 4.º (transição, aplicação): disposições próprias; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

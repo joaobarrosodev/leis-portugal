@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:160283:por",
+  "substituicoes": [
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "b) Elaborar para cada classe e posto as seguintes listas, ordenadas com base numa votação secreta, não se admitindo abstenções:",
+      "alterador": 1
+    },
+    {
+      "de": 34,
+      "ate": 34,
+      "texto": "16.º A inclusão de qualquer sargento nas listas referidas em 2) e 3) da alínea b) do n.º 11.º exige que na respectiva votação seja obtida uma maioria de dois terços, podendo o CR, sempre que o entender necessário, proceder a mais que uma votação em relação a qualquer sargento.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: os quadros n.os 1 a 3 anexos são substituídos por novos quadros que só existem em imagem (documento original), não se podendo transcrever. Alterador 2 (Portaria 613/75): prorroga os prazos dos n.os 19.º e 20.º sem dar nova redação ao texto; não é alteração textual.",
+  "instrucoes": [
+    "Portaria 382/75, n.º 1.º: nova redação da alínea b) do n.º 11.º (unidade 26); a), 1), 2) e 3) com '...' ficam como estão.",
+    "Portaria 382/75, n.º 1.º: nova redação do n.º 16.º (unidade 34).",
+    "Portaria 382/75, n.º 2.º: substituição dos quadros anexos, só em imagem; não aplicada.",
+    "Portaria 613/75: prorrogação dos prazos dos n.os 19.º e 20.º, sem nova redação; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

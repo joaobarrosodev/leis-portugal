@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:194619:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "1.º da Portaria n.º 950/2005 determina que o curso deixa de ser desdobrado em ramos, sem revogar nem alterar textualmente o n.º 2.º (alteração não textual); 2.º substitui o anexo (plano de estudos), que só vem em imagem. Não aplicados.",
+  "instrucoes": [
+    "1.º: o curso deixa de ter ramos, sem instrução textual sobre o n.º 2.º: não aplicado.",
+    "2.º: novo anexo (quadros em imagem): não aplicado.",
+    "3.º a 5.º: normas próprias da portaria alteradora (duração, transição, aplicação), não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

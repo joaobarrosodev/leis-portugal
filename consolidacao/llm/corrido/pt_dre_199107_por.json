@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:199107:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, à Associação de Caçadores de Querença, com o número de pessoa colectiva 502706767 e sede na aldeia de Querença, Casa do Povo, Loulé, a zona de caça associativa de Querença (processo n.º 2884-DGF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Querença, município de Loulé, com uma área de 1130,1411 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, 2.º: a nova planta só vem em imagem. Alterador 2: anexação de prédios (67 ha, área total de 1197 ha) sem nova redação do texto, e planta só em imagem; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, 1.º: no n.º 1.º, onde se lê com uma área de 1142,8105 ha passa a com uma área de 1130,1411 ha; o texto atual diz com a área de 1142,8105 ha, alvo único, substituído pela expressão nova (unidade 6).",
+    "Alterador 1, 2.º: substituição da planta, só em imagem; não aplicado.",
+    "Alterador 2, 1.º a 3.º: anexação de terrenos, efeitos e sinalização, sem alteração textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

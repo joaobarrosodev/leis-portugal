@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:143297:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "c) Enfermeiros provenientes da área da prestação directa de cuidados de estabelecimentos de saúde pertencentes a outros ministérios: 15%;",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 26,
+      "texto": "Enfermagem de Saúde Infantil e Pediátrica\n\nDiploma de estudos superiores especializados\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/137b00/29262927.pdf)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a nova redação do n.º 1 do n.º 3.º lista ainda 'e) ...', mas o texto atual não tem alínea e) e a instrução não manda renumerar; só se aplicou a nova alínea c). Alterador 2: o novo anexo I só vem em imagem; substituiu-se apenas o título e a ligação ao documento original.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação da alínea c) do n.º 1 do n.º 3.º; substituída a unidade 18. As restantes alíneas e o n.º 2 vêm com '...' e ficam. A alínea e) com '...' não existe no texto atual.",
+    "Alterador 2, n.º 1.º: o anexo I passa a ter a redação em anexo (imagem); substituídas as unidades 25 e 26 pelo novo título e ligação. O n.º 2.º (transição) e o 3.º não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

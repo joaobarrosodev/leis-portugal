@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:142130:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "Pela [Portaria n.º 888/95](https://diariodarepublica.pt/dr/detalhe/portaria/888-1995-460231), de 14 de Julho, foi concessionada à São José do Marco - Agro-Pecuária, Silvicultura e Caça, Lda., a zona de caça turística da Herdade de Pães-Água-Apariça (processo n.º 1726-DGRF), situada no município de Castro Verde, válida até 15 de Maio de 2005.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 151/2010): a desanexação de prédios (área passa a 712 ha) não é uma alteração textual do original; não aplicada.",
+  "instrucoes": [
+    "Alterador 1: retificação do preâmbulo, 'foi concessionada à São José do Marco - Agricultura, Lda.' passa a 'foi concessionada à São José do Marco - Agro-Pecuária, Silvicultura e Caça, Lda.' - unidade 3 substituída.",
+    "Alterador 2, artigo 1.º: desanexação de prédios da zona de caça - não textual, não aplicada; artigos 2.º a 5.º são normas próprias do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:685662:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 934/2000): muda o nome do curso para Marketing Farmacêutico sem mandar alterar o texto do original (alteração não textual) e substitui o plano de estudos por um anexo que só vem em imagem. Alterador 2 (Portaria n.º 1292/2002): novo plano de estudos com quadros só em imagem.",
+  "instrucoes": [
+    "Alterador 1: alteração do nome do curso, sem redação nova do original; não aplicada.",
+    "Alterador 1: novo plano de estudos (anexo) só em imagem; não aplicado.",
+    "Alterador 2: novo plano de estudos (anexo) só em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

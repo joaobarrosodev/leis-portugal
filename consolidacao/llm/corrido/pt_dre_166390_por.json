@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:166390:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a mudança de designação do curso para Gestão do Ambiente e do Território não é uma alteração textual ao articulado (não diz que texto substituir); o novo plano de estudos (anexo) só vem em quadros em imagem. Alterador 2: o novo anexo (plano de estudos) só vem em quadros em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: o curso passa a designar-se Gestão do Ambiente e do Território; não é instrução textual, não aplicada.",
+    "Alterador 1, 2.º: novo plano de estudos (anexo) só em imagem; não aplicado.",
+    "Alterador 2, 1.º: nova redação do anexo (plano de estudos) só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

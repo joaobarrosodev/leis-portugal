@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:186552:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O artigo 5.º do Decreto Regulamentar Regional n.º 30/2000/M altera o quadro de pessoal do Centro Regional de Saúde 'aprovado pela Portaria n.º 173/98, de 11 de Novembro', que não corresponde ao texto deste original (curso de Técnico de Turismo de Beja, de 16 de Março); além disso o novo quadro só vem em imagem (mapa I). Não aplicado.",
+  "instrucoes": [
+    "Arts. 1.º e 2.º alteram e aditam artigos ao Decreto Regulamentar Regional n.º 27/92/M: outro diploma, ignorado.",
+    "Art. 5.º altera o quadro de pessoal de uma Portaria n.º 173/98 de 11 de Novembro (mapa em imagem): não corresponde a este original, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

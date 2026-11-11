@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:172512:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Herdade de Pincaros e outras (processo n.º 454-DGF), abrangendo vários prédios rústicos sitos na freguesia e município de Mora, com uma área de 2508,2250 ha e na freguesia de Montargil, município de Ponte de Sor, com uma área de 241,7750 ha, prefazendo uma área total de 2750 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 971/2003): anexa prédios rústicos à zona de caça (área total de 2898,4750 ha, planta em imagem) sem dar nova redação a qualquer número da Portaria n.º 1075/2002; alteração não textual.",
+  "instrucoes": [
+    "Alterador 1: no n.º 1.º, 'com uma área de 2462,3250 ha' (Ponte de Sor) passa a 'com uma área de 241,7750 ha'; aplicado na unidade 7.",
+    "Alterador 2, 1.º a 4.º: anexação de prédios e regras de sinalização, sem alteração textual do original; registado em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

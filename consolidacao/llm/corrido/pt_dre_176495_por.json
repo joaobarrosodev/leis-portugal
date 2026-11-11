@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:176495:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 837/2004): muda a denominação do curso para Engenharia Electrotécnica e de Computadores sem dar nova redação a qualquer passagem do original; alteração não textual. Alterador 2 (Portaria n.º 457/2006): o 2.º ciclo deixa de se desdobrar em ramos e o anexo passa a ter a redação do anexo do alterador, que só vem em imagem; não há texto seguro para substituir as unidades 20 a 76.",
+  "instrucoes": [
+    "Alterador 1, 1.º: alteração da denominação do curso; não textual, não aplicada.",
+    "Alterador 1, 2.º e 3.º: aplicação e entrada em vigor do alterador; sem efeito no texto.",
+    "Alterador 2, 1.º: fim do desdobramento em ramos; não textual.",
+    "Alterador 2, 2.º: nova redação do anexo (quadros em imagem); não aplicável.",
+    "Alterador 2, 3.º e 4.º: transição e aplicação; sem efeito no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

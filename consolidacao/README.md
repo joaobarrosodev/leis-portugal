@@ -534,3 +534,7 @@ Mais 120 diplomas (`llm/corrido-ids-bloco7.txt`, de 2 057 candidatos; 37 saltado
 ### Bloco 8 (rondas 24 e 25)
 
 Mais 120 diplomas (`llm/corrido-ids-bloco8.txt`, de 1 937 candidatos; 38 saltados por tamanho). 52 sem alterações, 68 juntados (65 na ronda 24 e 3 na ronda 25, porque o último agente respondeu depois de a ronda 24 estar aberta), 4 recusados. 68 verificados às cegas, **54 sem reparos: 45 % do bloco (79 % dos verificados)**. Acumulado das rondas 17 a 25: **401 em 880 (46 %)**. Ficam cerca de 1 820 candidatos. Lição: antes de `importar` conferir que há as 30 respostas do bloco.
+
+### Bloco 9 (ronda 26)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco9.txt`, de 1 817 candidatos; 39 saltados por tamanho). 48 sem alterações, 70 juntados, 2 recusados. Ronda 26: 70 verificados às cegas, **43 sem reparos: 36 % do bloco (61 % dos verificados)**. Menos que nos blocos 5 a 8: muitos "dúvida" por áreas e prazos alterados sem redação literal e anexos em imagem. Acumulado das rondas 17 a 26: **444 em 1 000 (44 %)**. Ficam cerca de 1 700 candidatos.

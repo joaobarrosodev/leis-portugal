@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:180777:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alt. 1 (Portaria n.º 452/86) substitui os quadros I, II e IV do anexo e alt. 2 (Portaria n.º 164/88) substitui os quadros I a VI do anexo I; os quadros só existem em imagem (ver documento original), no original e nos alteradores, pelo que não há texto a aplicar.",
+  "instrucoes": [
+    "Alt. 1, 1.º: quadros I, II e IV do anexo com nova redação, só em imagem - não aplicado; 2.º e 3.º são normas próprias (aplicação, transição), não alteram o original.",
+    "Alt. 2, 1.º: quadros I a VI do anexo I com nova redação, só em imagem - não aplicado; 2.º e 3.º são normas próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
