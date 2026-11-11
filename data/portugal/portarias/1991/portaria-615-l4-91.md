@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-11-18'
+version_history:
+  file: portaria-615-l4-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-11-18'
+    amending: pt:dre:316765:por
+    amending_title: Portaria n.º 1165/91
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/615-l4/1991/07/08/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:55:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1165/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-615-l4-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,7 +161,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna e obtido parecer
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdades dos Pernes, Taipinhas e Taberneiras», sitos na freguesia de Amieira, concelho de Portel, com uma área de 1452,7050 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdade dos Pernes», «Taipinhas» e «Teberneiras», sitos na freguesia de Amieira, concelho de Portel, com uma área de 1222,50 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 1165/91](https://diariodarepublica.pt/dr/detalhe/portaria/1165-1991-316765), publicado em 1991-11-13.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à SECIFAM - Sociedade de Exploração Cinegética Família Murteira, Lda., com o número de pessoa colectiva 971390681 e sede na Rua de D. Manuel da Conceição Santos, 15, Évora, a zona de caça turística da Herdade de Pernes e anexas (processo n.º 771 da Direcção-Geral das Florestas).
 

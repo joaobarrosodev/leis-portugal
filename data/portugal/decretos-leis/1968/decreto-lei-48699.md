@@ -30,10 +30,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-09-08'
+version_history:
+  file: decreto-lei-48699.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-11-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-09-08'
+    amending: pt:dre:500937:por
+    amending_title: Decreto-Lei n.º 217/76; Decreto-Lei n.º 362/82
+    changes:
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 12-13
+    - Altera Artigo unidades 14-14
 identifiers:
   celex: null
   eli: null
@@ -59,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:07:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 217/76; Decreto-Lei
+    n.º 362/82. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48699.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,13 +155,33 @@ Artigo 1.º - 1. As certidões de dívidas exequendas enviadas aos tribunais de 
 
 4. Quando o julgue conveniente, o Ministro das Finanças pode, por despacho, mandar aplicar o disposto neste artigo, com as necessárias adaptações, aos demais serviços de justiça fiscal e relativamente a quaisquer outras dívidas exequendas.
 
-Art. 2.º Nos processos de execução fiscal cuja quantia exequenda não exceda 1000$00, a citação efectuar-se-á independentemente de despacho do juiz e mediante postal registado com aviso de recepção, nos termos aplicáveis dos n.os 2 e 3 do artigo 254.º do Código de Processo Civil.
+Art. 2.º - 1. Nos processos de execução fiscal cuja quantia exequenda não exceda 1000000$00, a citação efectuar-se-á independentemente de despacho do juiz e mediante simples aviso postal.
 
-Art. 3.º - 1. Quando não se possa efectuar a citação, por o citando ou seu representante estarem ausentes em parte incerta e não haver quem possa recebê-la, proceder-se-á logo à diligência da penhora, depois de colhidas as informações previstas no artigo 70.º do Código de Processo das Contribuições e Impostos que forem julgadas necessárias.
+2. Decorridos vinte dias para o executado efectuar o pagamento, se o aviso postal não vier devolvido, ou, sendo devolvido, não indicar a nova morada do executado, proceder-se-á logo à penhora.
 
-2. No caso de se penhorarem bens, deve o executado ser citado editalmente, com dispensa de publicação de anúncios no Diário do Governo.
+3. Se, na diligência da penhora, houver possibilidade, citar-se-á o executado pessoalmente; caso contrário, enviar-se-á carta registada com aviso de recepção com a informação de que, se não efectuar o pagamento ou não deduzir oposição no prazo de dez dias, será designado dia para a venda em hasta pública.
 
-Art. 4.º É atribuída aos chefes das repartições de finanças competência para o julgamento em falhas dos processos de execução fiscal de quantia não superior a 1000$00, depois de observado o disposto no artigo 248.º do Código de Processo das Contribuições e Impostos.
+4. Se não for conhecida a morada do executado, este será citado por éditos afixados à porta do tribunal e da última residência ou sede, indicando-se no mesmo edital a natureza dos bens penhorados, o prazo de pagamento e de oposição e a data e o local designados para a hasta pública.
+
+5. Os anúncios são publicados em dos números seguidos de um dos jornais mais lidos no último local da residência ou da sede conhecidas e da localização dos bens.
+
+6. O dia para a venda em hasta pública não poderá ter lugar antes de decorridos vinte dias sobre o termo do prazo para a oposição e será comunicado nos termos dos números anteriores.
+
+7. Só haverá citação por edital quando forem penhorados bens ao executado, não havendo lugar à publicação de anúncios no Diário do Governo.
+
+> Alterado pelo/a [Decreto-Lei n.º 217/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1976-500937), publicado em 1976-03-25.
+
+Art. 3.º - 1. Nas execuções de valor superior ao limite previsto no artigo anterior, quando o executado, ou o seu legal representante, não for encontrado, o funcionário encarregado da citação averiguará logo se é conhecida a actual morada do executado e se possui bens penhoráveis.
+
+2. Se ao executado não forem conhecidos bens penhoráveis e não houver responsáveis solidários ou subsidiários, lavrar-se-á certidão da diligência, a fim de a dívida exequenda ser julgada em falhas, sem prejuízo de quaisquer averiguações ou diligência posteriores.
+
+3. Se forem encontrados bens penhoráveis, proceder-se-á logo à penhora, cumprindo-se o formalismo prescrito nos n.os 3 a 7 do artigo anterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 217/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1976-500937), publicado em 1976-03-25.
+
+Art. 4.º É atribuída aos chefes das repartições de finanças competência para o julgamento em falhas dos processos de execução fiscal de quantia não superior a 200000$00, depois de observado o disposto no artigo 248.º do Código de Processo das Contribuições e Impostos.
+
+> Alterado pelo/a [Decreto-Lei n.º 362/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1982-374384), publicado em 1982-09-08.
 
 Art. 5.º Os artigos 49.º, 66.º, 127.º, 128.º, 135.º, 166.º e 264.º do Código de Processo das Contribuições e Impostos passam a ter a seguinte redacção:
 

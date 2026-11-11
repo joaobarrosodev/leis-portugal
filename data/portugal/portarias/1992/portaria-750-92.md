@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-08-31'
+version_history:
+  file: portaria-750-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-08-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-08-31'
+    amending: pt:dre:159141:por
+    amending_title: Declaração de Rectificação n.º 140/92
+    changes:
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 22-22
+    - Altera Artigo unidades 28-28
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/750/1992/08/01/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:34:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 140/92.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-750-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,7 +151,9 @@ e) As do Centro de Saúde Mental de Bragança, para o Hospital Distrital de Brag
 
 f) As do Centro de Saúde Mental de Castelo Branco, para o Hospital Distrital de Castelo Branco;
 
-g) As do Centro de Saúde Mental Infantil e Juvenil de Coimbra, para o Hospital Pediátrico de Celas;
+g) As do Centro de Saúde Mental Infantil e Juvenil de Coimbra, para o Centro Hospitalar de Coimbra;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 140/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/140-1992-159141), publicado em 1992-08-31.
 
 h) As do Centro de Saúde Mental da Covilhã, para o Hospital Distrital da Covilhã;
 
@@ -152,7 +171,9 @@ o) As do Centro de Saúde Mental Infantil e Juvenil de Lisboa, para o Hospital d
 
 p) As do Centro de Saúde Mental de Penafiel, prosseguidas no concelho de Amarante, bem como nas freguesias de Campelo, Covelas, Gestaçô, Gove, Loivos do Monte, Ovil, Santa Cruz do Douro, Teixeira, Teixeiró e Viariz, do concelho de Baião, nas freguesias de Folhada, Tabuado, Várzea de Ovelha e Aliviada, do concelho de Marco de Canaveses, nas freguesias de Borba de Godim, Caramos, Friande, Macieira da Lixa, Moure, Pinheiro, Pombeiro de Ribavizela, Refontoura, Sendim, Várzea e Vila Cova da Lixa, do concelho de Felgueiras, e nas freguesias de Agilde e Fervença, do concelho de Celorico de Basto, para o Hospital Distrital de Amarante;
 
-q) As do Centro de Saúde Mental de Penafiel, prosseguidas nos concelhos de Penafiel, Paredes e Lousada, bem como nas freguesias dos concelhos de Felgueiras, Baião e Marco de Canaveses não mencionadas na alínea anterior para o Hospital Distrital de Penafiel;
+q) As do Centro de Saúde Mental de Penafiel, prosseguidas nos concelhos de Penafiel, Paredes e Lousada, bem como nas freguesias dos concelhos de Felgueiras, Baião e Marco de Canaveses não mencionadas na alínea anterior para o Centro Hospitalar do Vale do Sousa;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 140/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/140-1992-159141), publicado em 1992-08-31.
 
 r) As do Centro de Saúde Mental de Portalegre para o Hospital Distrital de Portalegre;
 
@@ -164,7 +185,9 @@ u) As do Centro de Saúde Mental de Setúbal, para o Hospital Distrital de Setú
 
 v) As do Centro de Saúde Mental de Viana do Castelo, para o Hospital Distrital de Viana do Castelo;
 
-x) As do Centro de Saúde Mental de Vila Nova de Gaia, para o Hospital Distrital de Vila Nova de Gaia;
+x) As do Centro de Saúde Mental de Vila Nova de Gaia, para o Centro Hospitalar de Vila Nova de Gaia;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 140/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/140-1992-159141), publicado em 1992-08-31.
 
 z)As do Centro de Saúde Mental de Vila Real, para o Hospital Distrital de Vila Real;
 

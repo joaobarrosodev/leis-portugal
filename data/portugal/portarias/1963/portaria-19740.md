@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-12-30'
+version_history:
+  file: portaria-19740.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-12-30'
+    amending: pt:dre:693239:por
+    amending_title: Portaria n.º 19925; Portaria n.º 671/70
+    changes:
+    - Altera Artigo unidades 6-7
+    - Adita Artigo depois da unidade 42
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:26:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 19925; Portaria n.º
+    671/70. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1963/portaria-19740.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,9 +135,9 @@ Plano de estudos para o Colégio Militar
 
 1.º No 3.º ciclo observar-se-á, em especial, o seguinte:
 
-a) Só aos alunos filhos de militares é permitida a opção indicada no § único do artigo 2.º do [Decreto n.º 44745](https://diariodarepublica.pt/dr/detalhe/decreto/44745-1962-155434), de 30 de Novembro de 1962.
+a) (Revogada.)
 
-Aos alunos filhos de civis só é permitida a matrícula nas disciplinas da alínea f) do artigo 5.º do [Decreto-Lei n.º 36507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36507-1947-637471), de 17 de Setembro de 1947;
+> Alterado pelo/a [Portaria n.º 671/70](https://diariodarepublica.pt/dr/detalhe/portaria/671-1970-154427), publicado em 1970-12-30.
 
 b) Haverá ainda uma disciplina de Cultura Portuguesa, com duas aulas semanais;
 
@@ -192,6 +208,10 @@ m) Haverá provas orais de todas as disciplinas, excepto nas de Desenho do 1.º 
 n) Nas provas orais do 1.º e 2.º ciclos, o interrogatório em cada disciplina terá a duração mínima de dez minutos; a duração máxima será de quinze minutos no 1.º ciclo e de vinte minutos no 2.º ciclo, salvo autorização especial do presidente do júri.
 
 No 3.º ciclo estes limites serão, respectivamente, de quinze e trinta minutos.
+
+o) Os alunos que obtenham, na frequência de cada um dos anos que constituem o 1.º e 2.º ciclos, a classificação final de 14 valores ou superior e que em todos os períodos escolares, dentro de cada ciclo, hajam obtido em todas as disciplinas nota igual ou superior a 10 valores, podem ser, se assim o desejarem, dispensados do respectivo exame.
+
+> Aditado pelo/a [Portaria n.º 19925](https://diariodarepublica.pt/dr/detalhe/portaria/19925-1963-693239), publicado em 1963-06-29.
 
 5.º Na classificação das provas de exame observar-se-ão as seguintes normas:
 

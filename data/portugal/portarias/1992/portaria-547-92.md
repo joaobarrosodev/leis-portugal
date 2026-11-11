@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-10-06'
+version_history:
+  file: portaria-547-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-06-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-10-06'
+    amending: pt:dre:244926:por
+    amending_title: Portaria n.º 839/98
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/547/1992/06/23/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:22:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 839/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-547-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -170,7 +185,9 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdade de Jugens», sito na freguesia de Santa Susana, município de Alcácer do Sal, com uma área de 671,0750 ha, e «Herdade do Ferrenho», «Courela do Norte», «Courela da Palmira» e outras, sitos na freguesia de São Cristóvão, município de Montemor-o-Novo, com uma área de 1332,5750 ha, perfazendo uma área de 2003,65 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
 
-2.º Pelo presente diploma é concessionada, até 31 de Maio de 2002, à Sociedade Agrícola da Quinta dos Anjos e Quinta do Poço, Lda., com o número de pessoa colectiva 501834044 e sede na Quinta dos Anjos, Santarém, a zona de caça turística da Herdade de Jugens e outras (processo n.º 557 da Direcção-Geral das Florestas).
+2.º Pelo presente diploma é concessionada, 31 de Maio de 1999, à Sociedade Agrícola da Quinta dos Anjos e Quinta do Poço, Lda., com o número de pessoa colectiva 501834044 e sede na Quinta dos Anjos, Santarém, a zona de caça turística da Herdade de Jugens e outras (processo n.º 557 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 839/98](https://diariodarepublica.pt/dr/detalhe/portaria/839-1998-244926), publicado em 1998-10-01.
 
 3.º A Sociedade Agrícola da Quinta dos Anjos e Quinta do Poço, Lda., como entidade gestora da zona de caça turística concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir os respectivos planos de ordenamento e exploração cinegética e de aproveitamento turístico aprovados e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

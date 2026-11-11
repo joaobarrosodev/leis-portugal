@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-04-18'
+version_history:
+  file: despacho-normativo-52-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-03-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-04-18'
+    amending: pt:dre:681635:por
+    amending_title: Despacho Normativo n.º 134/80
+    changes:
+    - Altera Artigo unidades 31-44
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:57:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 134/80. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1979/despacho-normativo-52-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,33 +188,27 @@ c) Os licenciados com seis ou mais anos de serviço em actividades de I-D e que 
 
 9 - Quando da aplicação das normas 2 a 7 resultarem excedentes de pessoal relativamente ao número de lugares em cada uma das categorias que constam do mapa anexo ao [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro, será feito recurso ao previsto nos n.os 4 e 5 do artigo 52.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
-10 - Quando da aplicação da norma 3 resultarem vagas, poderão transitar, mediante requerimento, para lugares da categoria de investigador principal e desde que obtenham parecer favorável em provas de apreciação curricular:
+10 - (Revogado.)
 
-a) Os investigadores que transitaram para esta categoria ao abrigo do disposto no n.º 4, com quinze ou mais anos em actividade de I-D e que possuam notável currículo profissional e científico de reconhecido mérito nacional e internacional;
+11 - (Revogado.)
 
-b) Os especialistas que transitaram para esta categoria ao abrigo do disposto no n.º 5, com vinte ou mais anos em actividades de I-D e que possuam notável currículo profissional e científico de reconhecido mérito nacional e internacional.
+12 - (Revogado.)
 
-11 - Quando da aplicação da norma 4 resultarem vagas, poderão transitar, mediante requerimento, para lugares da categoria de investigador, desde que obtenham parecer favorável em provas de apreciação curricular:
+13 - (Revogado.)
 
-a) Os especialistas que transitaram para esta categoria ao abrigo do disposto no n.º 5, com doze ou mais anos de serviço em actividades de I-D;
+14 - (Revogado.)
 
-b) Os licenciados com quinze ou mais anos de serviço em actividades de I-D.
+15 - (Revogado.)
 
-12 - Quando da aplicação da norma 5 resultarem vagas, poderão transitar, mediante requerimento, para lugares das categorias de especialista os licenciados com quinze ou mais anos de serviço em actividades de I-D, desde que obtenham parecer favorável em provas de apreciação curricular.
+16.1 - (Revogado.)
 
-13 - As provas de avaliação curricular a que se referem os n.os 10, 11 e 12 serão unicamente de natureza documental e dirão respeito ao mérito absoluto e relativo dos concorrentes, condicionado às vagas existentes, e deverão processar-se e concluir-se dentro do ano corrente, de acordo com as normas constantes deste despacho.
+16.2 - (Revogado.)
 
-14 - O júri da apreciação curricular referido no n.º 10, a nomear pelo Ministro da Agricultura e Pescas e publicado no Diário da República, será constituído pelo director do INIA, que preside, por três investigadores coordenadores do INIA ou investigadores de letra B de outros organismos de investigação científica e por três professores catedráticos nacionais ou estrangeiros, de preferência especialistas nas áreas de especialização dos candidatos.
+17 - (Revogado.)
 
-15 - Os júris das apreciações curriculares referidas nos n.os 11 e 12, a nomear pelo Ministro da Agricultura e Pescas, serão constituídos, cada um, pelo director do INIA, que preside, por dois investigadores coordenadores do INIA ou investigadores de letra B de outros organismos de investigação científica e por dois professores universitários, de preferência especialistas nas áreas de especialização dos candidatos.
+18 - (Revogado.)
 
-16.1 - Uma cópia do curriculum vitae de cada um dos candidatos será enviada a cada um dos membros do júri, que no prazo de trinta dias após a publicação mencionada se reunirá para analisar e discutir a admissão dos candidatos a concurso, elaborando-se, no caso da exclusão dos candidatos, um relatório, assinado por todos os membros do júri, justificando a posição assumida e que será publicado no Diário da República.
-
-16.2 - No prazo de sessenta dias após a publicação da constituição do júri, este decidirá por maioria simples de voto do mérito absoluto e relativo dos candidatos, publicando-se no Diário da República o relatório da decisão, fazendo constar nele a posição dos membros do júri.
-
-17 - As reuniões do júri serão convocadas pelo presidente, que só votará em questão de empate.
-
-18 - Nas apreciações curriculares referidas nos n.os 10, 11 e 12, o júri de apreciação deve obrigatoriamente tomar em conta, além das publicações científicas e técnicas produzidas, parâmetros como diferenciação profissional adquirida, acção em organização e gestão científicas, divulgação de conhecimento através de palestras e colóquios e participação activa em congressos e reuniões científicas e técnicas, formação de pessoal (exercício de ensino formal e informal), montagem de estruturas e serviços científicos e técnicos, com a respectiva formação de equipas especializadas de trabalho, e, ainda, missões especiais.
+> Alterado pelo/a [Despacho Normativo n.º 134/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/134-1980-681635), publicado em 1980-04-18.
 
 19 - Os processos já organizados de acordo com o [Despacho Normativo n.º 260/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/260-1978-329017), de 18 de Setembro, e respeitantes a funcionários que pelo presente despacho normativo mantenham a mesma categoria de ingresso consideram-se elaborados em termos de satisfazerem os requisitos agora impostos para ingresso nas mesmas categorias.
 

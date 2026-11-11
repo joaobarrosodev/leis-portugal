@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-04-09'
+version_history:
+  file: decreto-lei-47797.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-04-09'
+    amending: pt:dre:225842:por
+    amending_title: Decreto-Lei n.º 143/70
+    changes:
+    - Altera Artigo unidades 44-44
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:01:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 143/70. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-47797.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -206,7 +221,13 @@ Art. 2.º São aditados ao artigo 27.º do [Decreto-Lei n.º 42596](https://diar
 
 § 4.º Para obtenção do pagamento das responsabilidades declaradas contra câmaras municipais, a comunicação prevista no parágrafo anterior será feita à Direcção-Geral da Fazenda Pública, a fim de que esta proceda de harmonia com o disposto no n.º 4 do artigo 34.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710), de 27 de Abril de 1965.
 
-Art. 3.º A solicitação do Ministro da Saúde e Assistência, poderá ser aplicável às comissões arbitrais de assistência o disposto no n.º 2 do artigo 26.º do Estatuto Judiciário, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, sendo os respectivos encargos satisfeitos pela verba a que se refere o artigo 5.º do [Decreto-Lei n.º 42596](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42596-1959-440479). A competência a que alude a parte final do referido n.º 2 será, neste caso, exercida pelo Ministro da Saúde e Assistência.
+Art. 3.º - 1. Quando, por circunstâncias de carácter transitório, nas Comissões Arbitrais de Lisboa e Porto, o respectivo serviço se encontrar atrasado, poderão, a solicitação do Ministro da Saúde e Assistência, ser destacados, em comissão de serviço, pelo período de dois anos, só excepcionalmente prorrogável uma vez, os juízes que se reputarem necessários para completa normalização de tais serviços.
+
+2. O exercício da comissão referida no número anterior é considerado, para todos os efeitos, como efectivo serviço judicial, não sendo deduzido na antiguidade dos magistrados o tempo durante o qual a desempenhem.
+
+3. Os encargos a que der origem o exercício da comissão de serviço referida no n.º 1 serão satisfeitos pela verba a que alude o artigo 5.º do [Decreto-Lei n.º 42596](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42596-1959-440479), de 19 de Outubro de 1959.
+
+> Alterado pelo/a [Decreto-Lei n.º 143/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1970-225842), publicado em 1970-04-09.
 
 Publique-se e cumpra-se como nele se contém.
 

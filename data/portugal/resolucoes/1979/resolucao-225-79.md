@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-08-19'
+version_history:
+  file: resolucao-225-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-08-19'
+    amending: pt:dre:471120:por
+    amending_title: Resolução n.º 287/80
+    changes:
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 14-15
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:19:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução n.º 287/80. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/resolucoes/1979/resolucao-225-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,13 +149,19 @@ O Conselho de Ministros, reunido em 4 de Julho de 1979, resolveu:
 
 5 - Autorizar a prestação do aval a uma operação intercalar no montante de 1 milhão de contos e respectivos encargos financeiros futuros, a repartir pelos bancos comerciais credores da empresa nas seguintes proporções, tomando-se em consideração a sua dimensão e posicionamento face aos actuais condicionalismos quantitativos do crédito:
 
-BESCL, BNU, BPSM e BPA - 16% cada um;
+BESCL, BNU, BPSM e BPA - 15% cada um;
+
+> Alterado pelo/a [Resolução n.º 287/80](https://diariodarepublica.pt/dr/detalhe/resolucao/287-1980-471120), publicado em 1980-08-19.
 
 UBP e BTA - 10,5% cada um;
 
-BFP, BBI e CPP - 5% cada um.
+BFB, BBI e CPP - 5% cada um.
 
-O produto deste empréstimo destinar-se-á exclusivamente à liquidação de dívidas vencidas aos caminhos de ferro estrangeiros e as respectivas transferências serão efectuadas pelos bancos acima referidos até à concorrência da parcela de financiamento assegurada por cada um.
+O produto deste empréstimo terá a seguinte aplicação: 86% destinar-se-ão à liquidação de dívidas vencidas aos caminhos de ferro estrangeiros e as respectivas transferências serão efectuadas pelos bancos acima referidos, dentro da parcela de financiamento assegurada por cada um; os restantes 14% destinar-se-ão à liquidação de dívidas vencidas a fornecedores estrangeiros, segundo proposta a apresentar pela empresa ao Banco de Portugal, que assegurará, junto da banca, a coordenação desta aplicação.
+
+As transferências serão efectuadas directamente pelos bancos intervenientes no financiamento.
+
+> Alterado pelo/a [Resolução n.º 287/80](https://diariodarepublica.pt/dr/detalhe/resolucao/287-1980-471120), publicado em 1980-08-19.
 
 6 - Por forma a permitir o completamento de alguns investimentos em curso, que na situação actual dificultam a recuperação económica da empresa, o Estado ou o FETT concederá o aval a uma operação até 250000 contos, em condições a negociar com a Caixa Geral de Depósitos e o Banco de Fomento Nacional.
 

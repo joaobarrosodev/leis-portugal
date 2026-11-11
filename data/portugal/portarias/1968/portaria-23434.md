@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-02-22'
+version_history:
+  file: portaria-23434.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-06-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-02-22'
+    amending: pt:dre:527452:por
+    amending_title: Portaria n.º 23933
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:46:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 23933. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1968/portaria-23434.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,7 +142,11 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 2.º As especializações referidas no número anterior são obtidas mediante cursos de especialização frequentados por grumetes e marinheiros das classes referidas no número anterior.
 
-3.º As praças especializadas em clarim, condutor de automóveis ou sapador submarino deixam automàticamente de ser consideradas como especializadas quando forem promovidos a cabo na classe a que pertencem, a menos que nessa data estejam nos cursos de conversão para ingresso, respectivamente, nas classes de mestres clarins, de condutores mecânicos de automóveis ou de mergulhadores. Quando assim suceder, a especialização manter-se-á até ao ingresso nas citadas classes.
+3.º As praças especializadas em clarim, condutor de automóveis ou sapador submarino deixam automàticamente de ser consideradas especializadas quando forem promovidas a cabo na classe a que pertencem, a menos que nessa data tenham logrado aprovação nos concursos de admissão aos cursos de conversão e aguardem o início ou estejam a frequentar os referidos cursos para ingresso, respectivamente, nas classes de mestres clarins, de condutores mecânicos de automóveis ou de mergulhadores, ou ainda, no caso dos sapadores submarinos, tenham declarado ser voluntários para ingressar na classe de mergulhadores, e a declaração tenha sido aceite em função das informações e conveniência de serviço.
+
+Quando assim suceder, a especialização manter-se-á até ao ingresso nas citadas classes.
+
+> Alterado pelo/a [Portaria n.º 23933](https://diariodarepublica.pt/dr/detalhe/portaria/23933-1969-527452), publicado em 1969-02-22.
 
 4.º Às praças habilitadas com as especializações referidas no n.º 1.º competem, particularmente, as seguintes atribuições:
 

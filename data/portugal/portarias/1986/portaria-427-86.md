@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-08-22'
+version_history:
+  file: portaria-427-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-08-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-08-22'
+    amending: pt:dre:573561:por
+    amending_title: Portaria n.º 676/90
+    changes:
+    - Adita Artigo depois da unidade 19
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:48:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 676/90. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-427-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -172,6 +187,18 @@ são os constantes dos anexos dos anexos I, II e III à presente portaria.
 3 - A realização e avaliação do trabalho de fim de curso obedecerão a regulamento a aprovar pela comissão instaladora da Escola Superior Agrária, sob proposta do conselho científico.
 
 4 - O regulamento a que se refere o n.º 3 será sujeito a homologação da comissão instaladora do Instituto.
+
+2.º-A
+
+Disciplinas de opção
+
+1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integre o plano de estudos como disciplina de opção é de 10.
+
+2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas a que é obrigado por lei.
+
+3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.
+
+> Aditado pelo/a [Portaria n.º 676/90](https://diariodarepublica.pt/dr/detalhe/portaria/676-1990-573561), publicado em 1990-08-17.
 
 3.º
 

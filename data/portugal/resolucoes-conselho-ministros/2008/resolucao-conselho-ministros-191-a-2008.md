@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-04-04'
+version_history:
+  file: resolucao-conselho-ministros-191-a-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-04-04'
+    amending: pt:dre:603503:por
+    amending_title: Resolução do Conselho de Ministros n.º 29/2009
+    changes:
+    - Altera Artigo unidades 23-23
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/191-a/2008/11/27/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:57:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 29/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2008/resolucao-conselho-ministros-191-a-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -186,7 +201,9 @@ c) A adaptação do modelo de reembolso dos pagamentos efectuados pelo Fundo a t
 
 8 - Criar uma segunda fase de candidaturas de acesso à linha de financiamento de médio e longo prazos a conceder às Regiões Autónomas e aos municípios para pagamento de dívidas a fornecedores, que se desenvolve nos termos da [Resolução do Conselho de Ministros n.º 34/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-2008-247676), de 22 de Fevereiro, com as alterações constantes dos números seguintes.
 
-9 - Permitir a adesão à segunda fase de candidaturas de acesso à linha de financiamento de médio e longo prazos de todas as Regiões Autónomas e de todos os municípios, com excepção dos municípios que preencham pelo menos três das situações previstas no n.º 1 do artigo 8.º do [Decreto-Lei n.º 38/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2008-247247), de 7 de Março, e que não tenham declarado a situação de desequilíbrio financeiro estrutural ou de ruptura financeira, nos termos da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, e do referido decreto-lei, até à data de 31 de Dezembro de 2008.
+9 - Permitir a adesão à segunda fase de candidaturas de acesso à linha de financiamento de médio e longo prazos das Regiões Autónomas e dos municípios, com excepção dos municípios que preencham pelo menos três das situações previstas no n.º 1 do artigo 8.º do [Decreto-Lei n.º 38/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2008-247247), de 7 de Março, e que não tenham declarado a situação de desequilíbrio financeiro estrutural ou de ruptura financeira, nos termos da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, e do referido decreto-lei, até à data de apresentação da candidatura.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 29/2009](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/29-2009-603503), publicado em 2009-03-30.
 
 10 - Estabelecer que a adesão das Regiões Autónomas e dos municípios à segunda fase de candidaturas de acesso à linha de financiamento de médio e longo prazos deve ser solicitada por escrito, junto da Direcção-Geral do Tesouro e Finanças, até 15 de Janeiro de 2009, especificando o montante de financiamento pretendido e anexando a ficha técnica do empréstimo a conceder pela instituição de crédito seleccionada.
 

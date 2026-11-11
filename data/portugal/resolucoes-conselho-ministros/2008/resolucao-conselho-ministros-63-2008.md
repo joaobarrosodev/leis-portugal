@@ -38,10 +38,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-06-06'
+version_history:
+  file: resolucao-conselho-ministros-63-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-06'
+    amending: pt:dre:449403:por
+    amending_title: Resolução do Conselho de Ministros n.º 93/2008
+    changes:
+    - Altera Artigo unidades 16-16
+    - Adita Artigo depois da unidade 21
+    - Adita Artigo depois da unidade 26
+    - Adita Artigo depois da unidade 31
+    - Altera Artigo unidades 35-35
+    - Altera Artigo unidades 37-37
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/63/2008/04/07/p/dre/pt/html
@@ -67,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:57:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 93/2008. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2008/resolucao-conselho-ministros-63-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,7 +193,9 @@ Assim:
 
 Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
 
-1 - Determinar o lançamento de uma nova fase do INOV-JOVEM e do INOV Contacto, com o reforço substancial dos beneficiários abrangidos, bem como a criação do INOV-ART, como medida específica no domínio das artes e cultura, e do INOV Vasco da Gama, como medida específica para apoiar a qualificação internacional de jovens empresários e quadros de empresas nacionais, nos termos dos números seguintes.
+1 - Determinar o lançamento de uma nova fase do INOV Jovem e do INOV Contacto, com reforço substancial dos beneficiários abrangidos bem como a criação do INOV-ART, como medida específica no domínio das artes e cultura, do INOV Vasco Gama, como medida específica para apoiar a qualificação internacional de jovens empresários e quadros de empresas nacionais, e do INOV Mundus, como medida específica no domínio da cooperação para o desenvolvimento, nos termos dos números seguintes.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 93/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/93-2008-449403), publicado em 2008-06-05.
 
 2 - Determinar, assim, o desenvolvimento das seguintes medidas:
 
@@ -185,6 +207,10 @@ c) O INOV-ART, em que se apoia a realização de estágios internacionais de jov
 
 d) O INOV Vasco da Gama, destinado à qualificação internacional de jovens empresários e gestores de empresas nacionais, visando gerar novas oportunidades que venham a ser materializadas em factores de competitividade de natureza colectiva e a induzir efeitos de crescimento nas empresas e na economia portuguesa, através de uma maior exposição à escala mundial, visando abranger, anualmente, 150 jovens.
 
+e) O INOV Mundus, destinado à qualificação e inserção profissional de jovens licenciados junto de entidades e organizações nacionais e internacionais, públicas e privadas, vocacionadas para o desenvolvimento de acções na área do desenvolvimento, contribuindo para a dinâmica de geração de emprego e aumento de competitividade nacional em sede de negociação internacional, visando abranger 250 jovens, nos próximos três anos.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 93/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/93-2008-449403), publicado em 2008-06-05.
+
 3 - Estabelecer como entidades abrangidas pelas medidas referidas no n.º 1, respectivamente:
 
 a) No caso do INOV-JOVEM, as pequenas e médias empresas empenhadas em processos de inovação e desenvolvimento empresarial, em particular as que visam ganhar e reforçar posições na produção de bens e serviços transaccionáveis;
@@ -194,6 +220,10 @@ b) No caso do INOV Contacto, as empresas portuguesas com estruturas em mercados 
 c) No caso do INOV-ART, as entidades de referência no contexto internacional do sector das artes e da cultura;
 
 d) No caso do INOV Vasco da Gama, as empresas e organizações de referência internacional seleccionadas para o efeito, nos mercados considerados prioritários para a economia portuguesa.
+
+e) No caso do INOV Mundus, organizações internacionais, entidades públicas nacionais e de países parceiros, organizações da sociedade civil que desenvolvam acções, projectos ou programas na área da cooperação, bem como entidades privadas ou empresas que desenvolvam actividades na área da cooperação, na vertente de responsabilidade social empresarial.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 93/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/93-2008-449403), publicado em 2008-06-05.
 
 4 - Estabelecer como destinatários habilitados das medidas referidas no n.º 1, respectivamente:
 
@@ -205,17 +235,25 @@ c) No caso do INOV-ART, os jovens com qualificações específicas ou aptidões 
 
 d) No caso do INOV Vasco da Gama, os jovens com qualificações de nível superior, fluentes em línguas estrangeiras e que sejam empresários ou quadros de empresas com potencial de internacionalização comprovado e ou com projecto de internacionalização delineado.
 
+e) No caso do INOV Mundus, os jovens com qualificações de nível superior, relevantes para a área da cooperação, fluentes em línguas estrangeiras e com comprovada apetência para desenvolver uma carreira nesta área.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 93/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/93-2008-449403), publicado em 2008-06-05.
+
 5 - Determinar que as presentes medidas são coordenadas por uma unidade própria de coordenação e acompanhamento, integrando representantes das entidades gestoras de cada Ministério envolvido, e ainda, se e quando for considerado necessário para o cumprimento das suas funções, outras instituições, públicas e privadas, e personalidades de reconhecido mérito.
 
 6 - Estabelecer o princípio de que as empresas que recebam apoio das presentes medidas têm prioridade no acesso a outras medidas públicas de incentivo à inovação, ao desenvolvimento empresarial, ao emprego e ao investimento em formação contínua dos seus trabalhadores, nomeadamente às inseridas no Programa Operacional Potencial Humano e no Programa Operacional Factores de Competitividade.
 
 7 - Definir que o envolvimento dos jovens e das entidades promotoras ou de acolhimento contempla acções de acompanhamento e orientação, a desenvolver pelas entidades gestoras, com o apoio da unidade de coordenação e acompanhamento, com o objectivo de assegurar a sua qualificação a níveis mais elevados e de organizar uma rede que facilite os contactos e a troca de experiências entre os jovens e entre as entidades envolvidas.
 
-8 - Estabelecer que, ao abrigo do disposto no artigo 17.º do [Decreto-Lei n.º 132/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1999-534598), de 21 de Abril, as normas de funcionamento, acompanhamento e o regime de concessão dos apoios técnicos e financeiros das presentes medidas são definidas através de portaria conjunta dos Ministros do Trabalho e da Solidariedade Social, da Economia e da Inovação e da Cultura.
+8 - Estabelecer que, ao abrigo do disposto no artigo 17.º do [Decreto-Lei n.º 132/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1999-534598), de 21 de Abril, as normas de funcionamento e acompanhamento e o regime de concessão de apoios técnicos e financeiros das presentes medidas são definidas através de portaria conjunta dos Ministérios dos Negócios Estrangeiros, do Trabalho e da Solidariedade Social, da Economia e da Inovação e da Cultura.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 93/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/93-2008-449403), publicado em 2008-06-05.
 
 9 - Determinar que o regime previsto no número anterior obedece aos princípios da simplificação e desburocratização, de modo que o mesmo seja de utilização amigável, sem prejuízo da observância dos adequados mecanismos de controlo.
 
-10 - Determinar que as presentes medidas são financiadas por verbas dos Ministérios do Trabalho e da Solidariedade Social, da Economia e da Inovação e da Cultura, com o apoio, nomeadamente, do Programa Operacional Potencial Humano.
+10 - Determinar que as presentes medidas são financiadas por verbas dos Ministérios dos Negócios Estrangeiros, do Trabalho e da Solidariedade Social, da Economia e da Inovação e da Cultura, com o apoio, nomeadamente, do Programa Operacional Potencial Humano.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 93/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/93-2008-449403), publicado em 2008-06-05.
 
 11 - Estabelecer que as presentes medidas são avaliadas por uma entidade externa de reconhecida competência, antes do final do seu prazo de vigência, previsto para três anos.
 

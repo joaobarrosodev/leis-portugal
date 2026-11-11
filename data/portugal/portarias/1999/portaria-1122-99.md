@@ -38,10 +38,35 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-07-03'
+version_history:
+  file: portaria-1122-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-07-03'
+    amending: pt:dre:348688:por
+    amending_title: Portaria n.º 664/2001
+    changes:
+    - Altera Artigo unidades 28-29
+    - Altera Artigo unidades 53-53
+    - Altera Artigo unidades 55-55
+    - Altera Artigo unidades 56-56
+    - Adita Artigo depois da unidade 56
+    - Altera Artigo unidades 67-69
+    - Altera Artigo unidades 99-99
+    - Adita Artigo depois da unidade 102
+    - Altera Artigo unidades 112-113
+    - Altera Artigo unidades 118-118
+    - Altera Artigo unidades 122-123
+    - Adita Artigo depois da unidade 123
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1122/1999/12/29/p/dre/pt/html
@@ -67,7 +92,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:13:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 664/2001. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-1122-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,9 +214,21 @@ a) Encontrarem-se regularmente constituídas à data de apresentação da candid
 
 b) Terem a sua situação regularizada perante a administração fiscal e a segurança social;
 
-c) Respeitarem os requisitos aplicáveis de pequena e média empresa (PME), nos termos definidos pela recomendação da Comissão Europeia de 3 de Abril de 1996;
+c) Não se encontrarem em situação de incumprimento no que respeita a apoios comunitários ou nacionais, independentemente da sua natureza e objectivos, designadamente os concedidos pelo Instituto do Emprego e Formação Profissional (IEFP), pelos gestores de intervenções operacionais ou por entidades gestoras de regimes de incentivos;
 
-d) Disporem de contabilidade organizada de acordo com o Plano Oficial de Contabilidade (POC) ou comprometerem-se a proceder à respectiva adaptação em conformidade com aquele Plano até à data de assinatura do contrato de concessão de incentivos.
+d) Não se encontrarem em situação de não pagamento pontual da retribuição devida aos seus trabalhadores;
+
+e) Cumprir as disposições, de natureza legal ou convencional, aplicáveis ao trabalho de menores e à não discriminação no trabalho e no emprego, nomeadamente em função do sexo;
+
+f) Cumprir as condições ambientais e de higiene e segurança no trabalho, designadamente as obrigações previstas no Decreto-Lei n.º109/2000, de 30 de Junho;
+
+g) Respeitarem os requisitos aplicáveis de pequena e média empresa (PME), nos termos definidos pela recomendação da Comissão Europeia de 3 de Abril de 1996;
+
+h) Disporem de contabilidade organizada de acordo com o Plano Oficial de Contabilidade (POC) ou comprometerem-se a proceder à respectiva adaptação em conformidade com aquele Plano até à data de assinatura do contrato de concessão de incentivos.
+
+i) Terem a situação económico-financeira equilibrada.
+
+> Alterado pelo/a [Portaria n.º 664/2001](https://diariodarepublica.pt/dr/detalhe/portaria/664-2001-348688), publicado em 2001-06-28.
 
 4.º
 
@@ -238,13 +276,25 @@ b) Não ter sido iniciada a respectiva execução, à data de apresentação da 
 
 c) Assegurar a manutenção ou criação líquida de postos de trabalho, aferida pela diferença entre o número total de trabalhadores vinculados à entidade antes de ter sido dado início à execução do projecto e 12 meses após a celebração do contrato de concessão de incentivos;
 
-d) Ter viabilidade económico-financeira.
+d) Encontrar-se garantida a manutenção da respectiva localização por período não inferior a quatro anos, contado a partir da data de assinatura do contrato de concessão de incentivos;
+
+e) Ter viabilidade económico-financeira.
+
+> Alterado pelo/a [Portaria n.º 664/2001](https://diariodarepublica.pt/dr/detalhe/portaria/664-2001-348688), publicado em 2001-06-28.
 
 4 - A data de início do projecto, nos termos do disposto na alínea b) do n.º 3, é determinada considerando, para o efeito, a data da factura mais antiga relativa a investimentos elegíveis em activos corpóreos.
 
-5 - O projecto deve ser executado no prazo de um ano a contar a partir da data de assinatura do contrato de concessão de incentivos.
+5 - O projecto deve ser executado, na sua totalidade, no prazo de um ano contado a partir da data de assinatura do contrato de concessão de incentivos.
 
-6 - Para efeitos do disposto na alínea c) do n.º 3, o número total de postos de trabalho existentes antes de se ter dado início ao projecto corresponde ao nível mais elevado verificado durante os meses de Janeiro, Julho e Dezembro do ano anterior ou do mês anterior ao da realização do investimento ou do mês anterior ao da apresentação da candidatura, caso não tenha havido lugar ao início do projecto.
+> Alterado pelo/a [Portaria n.º 664/2001](https://diariodarepublica.pt/dr/detalhe/portaria/664-2001-348688), publicado em 2001-06-28.
+
+6 - Para efeitos do disposto na alínea c) do n.º 3, o número total de postos de trabalho existentes antes de se ter dado início ao projecto corresponde ao nível mais elevado verificado durante os meses de Janeiro, Julho e Dezembro do ano anterior e do mês anterior ao da realização do investimento ou do mês anterior ao da apresentação da candidatura, caso não tenha havido lugar ao início do projecto.
+
+> Alterado pelo/a [Portaria n.º 664/2001](https://diariodarepublica.pt/dr/detalhe/portaria/664-2001-348688), publicado em 2001-06-28.
+
+7 - Nos casos em que a actividade principal do promotor seja de natureza essencialmente sazonal, os acréscimos no volume de emprego, que decorram manifestamente de necessidades sazonais de mão-de-obra, podem não ser considerados, por determinação, devidamente fundamentada, da unidade de gestão do FAIA.
+
+> Aditado pelo/a [Portaria n.º 664/2001](https://diariodarepublica.pt/dr/detalhe/portaria/664-2001-348688), publicado em 2001-06-28.
 
 7.º
 
@@ -266,11 +316,15 @@ f) Equipamento social;
 
 g) Equipamento destinado à protecção do ambiente e ao cumprimento de normas específicas de exercício da actividade;
 
-h) Material de carga e transporte;
+h) Outro imobilizado corpóreo;
 
-i) Formação profissional;
+i) Material de carga e transporte;
 
-j) Estudos e projectos, desde que não hajam sido realizados há mais de um ano em relação à data de apresentação da candidatura e se encontrem directamente ligados à realização do investimento.
+j) Formação profissional;
+
+k) Estudos e projectos, desde que não hajam sido realizados há mais de um ano em relação à data de apresentação da candidatura e se encontrem directamente ligados à realização do investimento.
+
+> Alterado pelo/a [Portaria n.º 664/2001](https://diariodarepublica.pt/dr/detalhe/portaria/664-2001-348688), publicado em 2001-06-28.
 
 2 - As despesas elegíveis previstas no número anterior serão consideradas até aos seguintes limites máximos em termos de investimento elegível:
 
@@ -330,13 +384,23 @@ iv) Pessoas com deficiência;
 
 d) 10% sempre que haja lugar à criação de um mínimo de cinco postos de trabalho e os mesmos não sejam preenchidos em mais de 60% por pessoas do mesmo sexo.
 
-3 - O incentivo concedido nos termos deste número obriga ao preenchimento dos postos de trabalho por trabalhadores desempregados e à sua manutenção, bem como das condições que determinaram a respectiva concessão, pelo período mínimo de quatro anos.
+3 - O incentivo concedido nos termos deste número obriga ao seguinte:
+
+a) Preenchimento dos postos de trabalho por trabalhadores desempregados;
+
+b) Manutenção do nível de emprego, bem como das condições que determinaram a concessão do incentivo, pelo período mínimo de quatro anos, contado a partir da data de criação do último posto de trabalho.
+
+> Alterado pelo/a [Portaria n.º 664/2001](https://diariodarepublica.pt/dr/detalhe/portaria/664-2001-348688), publicado em 2001-06-28.
 
 4 - É ainda atribuído um prémio, sob a forma de isenção, total ou parcial, do pagamento da última anuidade de reembolso do empréstimo, desde que o número de postos de trabalho efectivamente criados exceda o inicialmente previsto em sede de candidatura, nos seguintes termos:
 
 a) Isenção de 100% da última anuidade quando o número de postos de trabalho criados, desde que igual ou superior a cinco, exceda em pelo menos 50% o inicialmente estimado, não podendo a mesma corresponder, em qualquer caso, a um valor superior a 18 vezes a remuneração mínima mensal por cada posto de trabalho criado;
 
 b) Isenção de 50% da última anuidade nos restantes casos, não podendo a mesma corresponder, em qualquer caso, a um valor superior a 12 vezes a remuneração mínima mensal por cada posto de trabalho criado.
+
+c) O pedido de isenção deve ser solicitado à unidade de gestão do FAIA, mediante requerimento, a ser apresentado até ao final do terceiro ano de execução do projecto.
+
+> Aditado pelo/a [Portaria n.º 664/2001](https://diariodarepublica.pt/dr/detalhe/portaria/664-2001-348688), publicado em 2001-06-28.
 
 9.º
 
@@ -356,9 +420,13 @@ Acumulação
 
 1 - Os apoios financeiros previstos e concedidos no âmbito do presente regime de incentivos não são cumuláveis com quaisquer outros que revistam a mesma natureza e finalidade.
 
-2 - Os apoios referidos no número anterior não podem exceder, por entidade, o montante máximo total do auxílio de minimis, de (Euro) 100000, nas condições definidas pela Comissão Europeia.
+2 - Para efeitos do disposto no número anterior, entende-se que os incentivos atribuídos nos termos do presente diploma são, com excepção do prémio de isenção regulado nas alíneas a) e b) do n.º 4 do n.º 8.º, cumuláveis com os destinados a apoiar em exclusivo a criação de postos de trabalho, tal como previstos, designadamente, no [Decreto-Lei n.º 34/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1996-571651), de 18 de Abril, e nos n.os 8.º e 10.º da [Portaria n.º 196-A/2001](https://diariodarepublica.pt/dr/detalhe/portaria/196-a-2001-644358), de 10 de Março.
 
-3 - O incumprimento injustificado das obrigações assumidas como contrapartida da concessão dos apoios mencionados nos números anteriores determina o seu reembolso integral.
+3 - Os apoios referidos no número anterior não podem exceder, por entidade, o montante máximo total do auxílio de minimis, de (Euro) 100000, nas condições definidas pela Comissão Europeia.
+
+4 - O incumprimento injustificado das obrigações assumidas como contrapartida da concessão dos apoios mencionados nos números anteriores determina o seu reembolso integral.
+
+> Alterado pelo/a [Portaria n.º 664/2001](https://diariodarepublica.pt/dr/detalhe/portaria/664-2001-348688), publicado em 2001-06-28.
 
 11.º
 
@@ -368,7 +436,9 @@ O pagamento dos incentivos previstos nos n.os 8.º e 9.º às entidades processa
 
 a) Um primeiro adiantamento correspondente a 40% do montante total do incentivo aprovado, após o início da execução do investimento;
 
-b) Um segundo adiantamento de valor idêntico ao referido na alínea anterior, quando a entidade comprovar documentalmente as despesas relativas ao primeiro pagamento e, bem assim, o preenchimento dos postos de trabalho conforme previsto em sede de candidatura;
+b) Um segundo adiantamento de valor idêntico ao referido na alínea anterior, quando a entidade comprovar documentalmente as despesas relativas a 40% da totalidade do investimento e, bem assim, o preenchimento dos postos de trabalho conforme previsto em sede de candidatura;
+
+> Alterado pelo/a [Portaria n.º 664/2001](https://diariodarepublica.pt/dr/detalhe/portaria/664-2001-348688), publicado em 2001-06-28.
 
 c) Os restantes 20% após verificação física, documental e contabilística da totalidade das despesas de investimento.
 
@@ -376,9 +446,17 @@ c) Os restantes 20% após verificação física, documental e contabilística da
 
 Reembolso do incentivo
 
-1 - O reembolso dos incentivos concedidos nos termos dos n.os 8.º e 9.º terá lugar, mediante o pagamento de prestações semestrais de igual montante, no prazo máximo de cinco anos, nele se incluindo um de carência.
+1 - O reembolso dos incentivos concedidos nos termos dos n.os 8.º e 9.º terá lugar, mediante o pagamento de prestações semestrais de igual montante, no prazo máximo de cinco anos, nele se incluindo dois de carência.
 
-2 - Em casos excepcionais, devidamente fundamentados, pode ser autorizado, pela unidade de gestão do FAIA, um prazo máximo de sete anos para reembolso do incentivo, nele se incluindo um de carência.
+2 - Em casos excepcionais, devidamente fundamentados, pode ser autorizado, pela unidade de gestão do FAIA, um prazo máximo de sete anos para reembolso do incentivo, nele se incluindo dois de carência.
+
+> Alterado pelo/a [Portaria n.º 664/2001](https://diariodarepublica.pt/dr/detalhe/portaria/664-2001-348688), publicado em 2001-06-28.
+
+3 - A contagem do período de carência inicia-se a partir da data de concessão do segundo adiantamento.
+
+4 - Caso haja lugar à execução parcial do projecto, o respectivo promotor pode solicitar, mediante requerimento a apresentar à unidade de gestão do FAIA, a restituição parcial do apoio concedido, desde que a parte não executada não ponha em causa a viabilidade económico-financeira do projecto.
+
+> Aditado pelo/a [Portaria n.º 664/2001](https://diariodarepublica.pt/dr/detalhe/portaria/664-2001-348688), publicado em 2001-06-28.
 
 ### CAPÍTULO III — Quadro institucional de gestão do regime de incentivos
 

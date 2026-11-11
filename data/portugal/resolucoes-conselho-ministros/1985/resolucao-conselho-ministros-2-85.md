@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-03-19'
+version_history:
+  file: resolucao-conselho-ministros-2-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-01-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-03-19'
+    amending: pt:dre:326923:por
+    amending_title: Resolução do Conselho de Ministros n.º 13/85
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:30:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 13/85. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1985/resolucao-conselho-ministros-2-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,7 +127,9 @@ Considerando ainda que a experiência tem revelado que as reformas claudicam, po
 
 O Conselho de Ministros, reunido em 27 de Dezembro de 1984, resolveu:
 
-1 - É criada uma Comissão Interministerial para a Reestruturação da Administração Pública, abreviadamente CIRAP, composta pelo Ministro da Justiça, que assegurará a sua coordenação, pelo Secretário de Estado da Administração Pública e pelo Secretário de Estado do Orçamento.
+1 - É criada uma Comissão Interministerial para a Reestruturação da Administração Pública, abreviadamente CIRAP, composta pelo Vice-Primeiro-Ministro, que assegurará a sua coordenação, pelo Secretário de Estado da Administração Pública e pelo Secretário de Estado do Orçamento.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 13/85](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-1985-326923), publicado em 1985-03-14.
 
 2 - A CIRAP tem por missão propor ao Conselho de Ministros as medidas necessárias à reestruturação e racionalização da Administração Pública e ao aumento da produtividade.
 

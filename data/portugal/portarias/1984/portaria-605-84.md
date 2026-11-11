@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-08-21'
+version_history:
+  file: portaria-605-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-08-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-08-21'
+    amending: pt:dre:376816:por
+    amending_title: Portaria n.º 552/88
+    changes:
+    - Adita Artigo depois da unidade 57
+    - Altera Artigo unidades 58-61
+    - Adita Artigo depois da unidade 64
+    - Altera Artigo unidades 75-78
+    - Altera Artigo unidades 79-79
 identifiers:
   celex: null
   eli: null
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:08:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 552/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-605-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -222,19 +241,37 @@ c) Todas as fichas de classificação parcelares;
 
 d) Registo de todas as ocorrências que o responsável de estágio ou o próprio estagiário considerem relevantes para efeitos de avaliação final.
 
-8 - A avaliação final dos estagiários será efectuada por um júri nomeado pelo Ministro da Saúde e de que farão parte:
+7.7 - O responsável de estágio poderá propor ao órgão de gestão do respectivo estabelecimento a prorrogação da duração do estágio por período de tempo que entenda adequado relativamente a estagiários sob a sua responsabilidade que, para além da licença para férias a que tiverem direito, registem outras licenças ou faltas justificadas que se revelem determinantes de perda de aproveitamento.
 
-a) Um funcionário dirigente do serviço que no Ministério da Saúde for competente em matéria de recursos humanos, com funções relacionadas com a carreira de técnico superior de saúde, que presidirá;
+7.8 - As prorrogações previstas no n.º 7.7 não podem exceder três meses, devendo acarretar a exclusão do estágio as perdas de aproveitamento que não sejam recuperáveis naquele período de tempo.
 
-b) Um técnico superior de saúde de classe não inferior a 1.ª;
+7.9 - Sem prejuízo do disposto no número anterior, a relação contratual dos estagiários mantém-se até à avaliação final e poderá ser prorrogada para além desta, até ao ingresso do interessado em lugar de quadro de serviço público, mas nunca por período superior a seis meses.
 
-c) O responsável de estágio de cada estagiário.
+> Aditado pelo/a [Portaria n.º 552/88](https://diariodarepublica.pt/dr/detalhe/portaria/552-1988-376816), publicado em 1988-08-16.
+
+8 - O Ministro da Saúde nomeará, por despacho, três elementos efectivos e um vogal suplente do júri que efectuar a avaliação final dos estagiários, todos do ramo de actividade a que se refere o concurso, do qual farão parte:
+
+a) Um funcionário com categoria não inferior a técnico superior de saúde principal, que presidirá;
+
+b) Um funcionário com categoria não inferior a técnico superior de saúde de 1.ª classe, ao qual competirá substituir o presidente nos seus impedimentos;
+
+c) O responsável de estágio de cada estagiário, como 2.º vogal efectivo, ou, na sua falta, quem exerça a respectiva função;
+
+d) Como vogal suplente, um funcionário com categoria não inferior a técnico superior de saúde de 1.ª classe, ao qual competirá substituir, nos seus impedimentos, o 1.º vogal efectivo.
+
+> Alterado pelo/a [Portaria n.º 552/88](https://diariodarepublica.pt/dr/detalhe/portaria/552-1988-376816), publicado em 1988-08-16.
 
 8.1 - Deverão ser publicados no Diário da República, com a antecedência mínima de 30 dias relativamente à data da conclusão dos estágios:
 
 a) A constituição do júri de avaliação final;
 
 b) A forma concreta de divulgação da data, hora e local da avaliação de cada estagiário.
+
+8.2 - Existirão, anualmente, duas épocas de avaliação final dos estagiários, que serão determinadas por despacho do Ministro da Saúde.
+
+8.3 - Os estagiários terão de se submeter à avaliação final na época que imediatamente se seguir à data da conclusão do estágio.
+
+> Aditado pelo/a [Portaria n.º 552/88](https://diariodarepublica.pt/dr/detalhe/portaria/552-1988-376816), publicado em 1988-08-16.
 
 9 - Para efeitos de avaliação final, o responsável de cada estagiário fará entrega ao júri do respectivo processo de estágio, organizado nos termos do n.º 7.6 do presente Regulamento, com a antecedência mínima de 20 dias em relação à data fixada para a avaliação final.
 
@@ -256,15 +293,19 @@ b) A forma concreta de divulgação da data, hora e local da avaliação de cada
 
 12 - A habilitação decorrente da aprovação do estagiário poderá, independentemente da publicação referida no n.º 11, ser comprovada através de certificado a emitir pelo serviço onde o estágio tiver sido efectuado.
 
-12.1 - A habilitação referida no número anterior tem a validade de 2 anos, contados a partir da data da publicação referida no mesmo número.
+12.1 - (Revogado.)
 
-12.2 - O prazo fixado no número anterior não caduca se o habilitado se candidatar a concurso cujo aviso de abertura seja publicado dentro do mesmo prazo.
+12.2 - (Revogado.)
 
-13 - Terminada a avaliação final, cessa o direito à remuneração a que se refere o n.º 4 do artigo 4.º do [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho.
+13 - (Revogado.)
 
-14 - O disposto no presente Regulamento aplicar-se-á apenas aos estágios da carreira de técnico superior de saúde que se iniciarem após a sua entrada em vigor.
+14 - (Revogado.)
 
-14.1 - Serão considerados válidos, para efeitos de futuro ingresso na carreira de técnico superior de saúde, os estágios efectuados ao abrigo de legislação anterior, desde que ultimados até 2 anos antes do referido ingresso, e, bem assim, a preparação profissional adquirida em serviços nacionais ou estrangeiros a que tenha sido concedida, nos termos da legislação aplicável no âmbito do Ministério da Saúde, equiparação ao estágio referido no presente Regulamento.
+> Alterado pelo/a [Portaria n.º 552/88](https://diariodarepublica.pt/dr/detalhe/portaria/552-1988-376816), publicado em 1988-08-16.
+
+14.1 - Será considerada válida, para efeitos de ingresso na carreira de técnico superior de saúde, a preparação profissional adquirida em serviços oficiais, nacionais ou estrangeiros, à qual tenha sido concedida, nos termos da regulamentação vigente no Ministério da Saúde, equiparação ao estágio referido no presente Regulamento.
+
+> Alterado pelo/a [Portaria n.º 552/88](https://diariodarepublica.pt/dr/detalhe/portaria/552-1988-376816), publicado em 1988-08-16.
 
 Presidência do Conselho de Ministros e Ministério da Saúde.
 

@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-01-01'
+version_history:
+  file: portaria-805-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-10-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-01-01'
+    amending: pt:dre:546457:por
+    amending_title: Decreto-Lei n.º 522/85
+    changes:
+    - Altera Artigo unidades 8-9
+    - Altera Artigo unidades 12-14
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:13:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 522/85. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-805-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,19 +135,23 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna e das Finanças e do Plano, ao abrigo do artigo 11.º do [Decreto-Lei n.º 408/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1979-365506), de 25 de Setembro, o seguinte:
 
-1.º O cartão de responsabilidade civil referido no artigo 11.º do [Decreto-Lei n.º 408/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1979-365506), de 25 de Setembro, pode consubstanciar-se num recibo que, contendo os elementos prescritos no n.º 1.º da [Portaria n.º 650/79](https://diariodarepublica.pt/dr/detalhe/portaria/650-1979-366663), de 6 de Dezembro, ou no n.º 2.º da [Portaria n.º 558/84](https://diariodarepublica.pt/dr/detalhe/portaria/558-1984-381542), de 3 de Agosto, se encontre devidamente validado através da aposição de uma vinheta com o símbolo da seguradora ou da vinheta dos CTT.
+1.º - (Revogado.)
 
-2.º As seguradoras que pretendam adoptar o sistema previsto no número anterior devem utilizar, para cobrança dos prémios de seguro de responsabilidade civil automóvel, avisos-recibos que podem ser liquidados quer nos seus escritórios quer nas estações dos CTT.
+2.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), publicado em 1985-12-31.
 
 3.º No momento da liquidação do prémio deverá ser entregue ao segurado o recibo com a respectiva vinheta oficial dos CTT ou com a vinheta com o símbolo da seguradora, que deve seguir o seguinte modelo:
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23800/31993200.pdf)
 
-4.º Os recibos validados nos termos dos números anteriores devem, para todos os efeitos, ser considerados como prova da existência do seguro de responsabilidade civil automóvel.
+4.º - (Revogado.)
 
-5.º Aos recibos referidos na presente portaria é aplicável o disposto nos n.os 3.º a 5.º da [Portaria n.º 650/79](https://diariodarepublica.pt/dr/detalhe/portaria/650-1979-366663), de 6 de Dezembro, cabendo ao Instituto de Seguros de Portugal controlar o seu cumprimento pelas seguradoras.
+5.º - (Revogado.)
 
-6.º O disposto no presente diploma entra em vigor no primeiro dia do terceiro mês seguinte à data da sua publicação.
+6.º - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), publicado em 1985-12-31.
 
 Ministérios da Administração Interna e das Finanças e do Plano.
 

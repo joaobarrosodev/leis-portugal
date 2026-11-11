@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-07-28'
+version_history:
+  file: portaria-57-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-01-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-07-28'
+    amending: pt:dre:546417:por
+    amending_title: Decreto-Lei n.º 511/85; Decreto-Lei n.º 275/99
+    changes:
+    - Altera Artigo unidades 6-6
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 16-16
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:43:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 511/85; Decreto-Lei
+    n.º 275/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-57-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,11 +129,15 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 1.º Para efeitos do disposto no n.º 6.º do § 1.º do artigo 140.º da Reforma Aduaneira, entende-se por terminal aeroportuário o complexo de instalações e serviços situados na área de jurisdição dos aeroportos e que se destinam à movimentação e armazenagem das mercadorias sujeitas à acção aduaneira, transportadas por via aérea.
 
-2.º É autorizada a empresa pública Aeroportos e Navegação Aérea - ANA, E. P., a estabelecer terminais aeroportuários nos aeroportos de Lisboa, Porto e Faro.
+2.º O disposto na presente portaria aplica-se ao estabelecimento de terminais aeroportuários nos aeroportos nacionais.
+
+> Alterado pelo/a [Decreto-Lei n.º 275/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1999-352525), publicado em 1999-07-23.
 
 3.º Todo o movimento de entrada e saída de mercadorias em terminais aeroportuários fica sujeito a fiscalização permanente da Guarda Fiscal, observando-se ainda as disposições que forem determinadas pela alfândega, de forma a tornar fácil e eficaz a acção aduaneira.
 
-4.º - 1 - A exploração dos terminais abrangidos por esta portaria poderá ser feita directamente pela ANA, E. P., ou ser objecto de licença de uso privativo do domínio público aeroportuário por ela concedida nos termos da lei.
+4.º - 1 - A exploração dos terminais abrangidos por esta portaria está sujeita à legislação aplicável à actividade de assistência em escala e ao licenciamento do uso privativo do domínio público aeroportuário.
+
+> Alterado pelo/a [Decreto-Lei n.º 275/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1999-352525), publicado em 1999-07-23.
 
 2 - A concessão da licença a que se refere o artigo antecedente depende de parecer favorável da Direcção-Geral das Alfândegas sobre a idoneidade fiscal da entidade beneficiária, sendo-lhe ainda dados a conhecer os termos em que a mesma vigorará.
 
@@ -132,7 +153,9 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 6.º - 1 - Os serviços dos terminais aeroportuários procederão à conferência das descargas e ficarão responsáveis pelo recebimento e entrega das mercadorias neles movimentadas, incluindo em regime de descarga directa, tudo nos termos dos respectivos regulamentos de exploração.
 
-2 - Sem embargo do disposto no número anterior, a alfândega tem a faculdade de proceder à conferência das descargas, sempre que o julgue conveniente.
+2 - Sem embargo do disposto no número anterior, a alfândega tem a faculdade de superintender ou proceder directamente à conferência das descargas, sempre que o entenda conveniente.
+
+> Alterado pelo/a [Decreto-Lei n.º 511/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1985-546417), publicado em 1985-12-31.
 
 7.º Processar-se-ão, igualmente nos termos dos respectivos regulamentos de exploração, a efectivação de exames prévios e a reentrada de mercadorias nos armazéns dos terminais.
 

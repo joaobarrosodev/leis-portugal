@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-05-26'
+version_history:
+  file: portaria-58-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-01-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-05-26'
+    amending: pt:dre:227047:por
+    amending_title: Portaria n.º 231/86
+    changes:
+    - Altera Artigo unidades 18-24
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:43:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 231/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-58-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,19 +156,11 @@ c) Os médicos cujo currículo seja considerado equiparável ao grau de assisten
 
 6.º É revogado o n.º 8 do artigo 17.º
 
-7.º O artigo 30.º passa a ter a seguinte redacção:
+7.º - (Revogado.)
 
-Art. 30.º Podem concorrer ao concurso referido no artigo anterior:
+8.º - (Revogado.)
 
-a) Os médicos com o grau de assistente hospitalar há mais de 5 anos, desde que tenham sido aprovados em, pelo menos, 2 concursos públicos com provas práticas eliminatórias;
-
-b) Os médicos que, à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, ocupem lugares da carreira como especialistas há, pelo menos, 3 anos, desde que tenham sido aprovados em, pelo menos, 2 concursos públicos com provas práticas eliminatórias.
-
-c) Os médicos cujo currículo seja considerado equiparável ao nível definido na alínea a) do presente artigo, por despacho do Ministro dos Assuntos Sociais, sob parecer favorável da direcção médica de um hospital central e da Direcção-Geral dos Hospitais.
-
-8.º O n.º 2 do artigo 46.º passa a ter a seguinte redacção:
-
-2 - As decisões são tomadas por maioria.
+> Alterado pelo/a [Portaria n.º 231/86](https://diariodarepublica.pt/dr/detalhe/portaria/231-1986-227047), publicado em 1986-05-21.
 
 9.º O n.º 1 do artigo 54.º passa a ter a seguinte redacção:
 

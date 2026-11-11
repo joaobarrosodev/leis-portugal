@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-05-31'
+version_history:
+  file: resolucao-conselho-ministros-40-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-05-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-05-31'
+    amending: pt:dre:347301:por
+    amending_title: Declaração de Rectificação n.º 10-AL/99
+    changes:
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/40/1999/05/08/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:41:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 10-AL/99.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1999/resolucao-conselho-ministros-40-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,7 +153,9 @@ Finalmente, nas bebidas destiladas o valor consumido tem-se estimado em 0,8 l de
 
 A gravidade do problema não se limita a Portugal. Quer a União Europeia quer a OMS - Europa têm vindo a definir orientações específicas para os países membros.
 
-Em Portugal desde 1998, e pela primeira vez, têm-se definido metas e objectivos sobre a matéria (em saúde em Portugal, uma estratégia para o virar do século - 1998-2002 e no plano de acção da Direcção-Geral da Saúde). Entretanto foi publicada nova legislação referente à condução sob o efeito do álcool e de outros psicotrópicos, na sequência da revisão do Código da Estrada pelo [Decreto-Lei n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 3 de Janeiro - o [Decreto Regulamentar n.º 24/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1998-229115), de 30 de Outubro, e as Portarias n.os [1005/98](https://diariodarepublica.pt/dr/detalhe/portaria/1005-1998-210186) e [1006/98](https://diariodarepublica.pt/dr/detalhe/portaria/1006-1998-210187), de 30 de Novembro - enquanto se ultima a revisão da legislação relacionada com os centros regionais de alcoologia. Em Novembro próximo e com financiamento da União Europeia irá decorrer, na cidade do Porto, um seminário europeu dedicado aos problemas do álcool nos jovens, com ênfase nas novas bebidas desenhadas e dirigidas aos jovens («alcopos») e tendo em vista também a promoção de uma rede europeia para a prevenção comunitária, pesquisa e avaliação dos problemas ligados ao álcool.
+Em Portugal desde 1998, e pela primeira vez, têm-se definido metas e objectivos sobre a matéria (em saúde em Portugal, uma estratégia para o virar do século - 1998-2002 e no plano de acção da Direcção-Geral da Saúde). Entretanto foi publicada nova legislação referente à condução sob o efeito do álcool e de outros psicotrópicos, na sequência da revisão do Código da Estrada pelo [Decreto-Lei n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 3 de Janeiro - o [Decreto Regulamentar n.º 24/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1998-229115), de 30 de Outubro, e as Portarias n.os [1005/98](https://diariodarepublica.pt/dr/detalhe/portaria/1005-1998-210186) e [1006/98](https://diariodarepublica.pt/dr/detalhe/portaria/1006-1998-210187), de 30 de Novembro - enquanto se ultima a revisão da legislação relacionada com os centros regionais de alcoologia. Em Novembro próximo e com financiamento da União Europeia irá decorrer, na cidade do Porto, um seminário europeu dedicado aos problemas do álcool nos jovens, com ênfase nas novas bebidas desenhadas e dirigidas aos jovens («alcopops») e tendo em vista também a promoção de uma rede europeia para a prevenção comunitária, pesquisa e avaliação dos problemas ligados ao álcool.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 10-AL/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-al-1999-347301), publicado em 1999-05-31.
 
 Pela amplitude e gravidade do problema em termos da saúde pública importa, porém, tomar medidas imediatas mais amplas, quer de educação e promoção da saúde, quer de natureza legislativa e fiscalizadora que concorram para a redução efectiva dos PLA.
 
@@ -146,12 +165,16 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 1 - Estabelecer uma comissão interministerial para analisar e integrar os múltiplos aspectos associados à luta contra o alcoolismo num plano de acção que reforça e aprofunda a implementação do disposto na estratégia da saúde.
 
-Esta comissão será constituída por um representante do Ministério da Saúde, que preside, e dos Ministérios da Educação, do Trabalho e da Solidariedade, da Agricultura, do Desenvolvimento Rural e das Pescas, da Administração Interna, da Justiça e da Economia.
+Esta comissão será constituída por um representante do Ministério da Saúde, que preside, e dos Ministérios da Educação, do Trabalho e da Solidariedade, da Agricultura, do Desenvolvimento Rural e das Pescas, da Administração Interna, da Justiça, da Economia e Secretaria de Estado da Juventude.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 10-AL/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-al-1999-347301), publicado em 1999-05-31.
 
 A proposta do plano de acção deve ser ultimada até 15 de Setembro.
 
 2 - Solicitar ao Ministério da Saúde que em colaboração com os ministérios acima referidos organizem, durante o ano corrente, uma conferência consultiva que permita reunir, analisar e debater diversos projectos sobre a luta contra o alcoolismo.
 
-3 - Intensificar a colaboração internacional nesta matéria, principalmente no âmbito da União Europeia, na sequência da coordenação portuguesa do projecto sobre álcool e juventude, que inclui o 2.º Simpósio Europeu sobre Prevenção Comunitária dos Problemas Ligados ao Álcool - «Álcool, Juventude e Novas Bebidas Desenhadas» - (Porto, 15 a 17 de Novembro).
+3 - Intensificar a colaboração internacional nesta matéria, principalmente no âmbito da União Europeia, na sequência da coordenação portuguesa do projecto sobre álcool e juventude, que inclui o 2.º Simpósio Europeu sobre Prevenção Comunitária dos Problemas Ligados ao Álcool - «Álcool, Juventude e Novas Bebidas Desenhadas» - (Porto, 18 a 20 de Novembro).
+
+> Alterado pelo/a [Declaração de Rectificação n.º 10-AL/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-al-1999-347301), publicado em 1999-05-31.
 
 Aprovada em Conselho de Ministros de 22 de Abril de 1999. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:382380:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-08-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a1dc48c48a2f41c3",
+    "b6adbb1a04a28476"
+   ]
+  },
+  {
+   "date": "1989-12-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:550466:por",
+     "title": "Portaria n.º 1078/89",
+     "published": "1989-12-13",
+     "dre_path": "/dr/detalhe/portaria/1078-1989-550466"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 36-57"
+   ],
+   "fragments": [
+    "a1dc48c48a2f41c3",
+    "6f0b06ba78855d26"
+   ]
+  }
+ ],
+ "fragments": {
+  "a1dc48c48a2f41c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Agosto\n\nSob proposta do conselho científico da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho, e no [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:\n\n1.º\n\n(Criação)\n\nA Universidade Nova de Lisboa, através da Faculdade de Ciências e Tecnologia, confere o grau de licenciado em Engenharia Geológica, ministrando, em consequência, o respectivo curso.\n\n2.º\n\n(Organização)\n\nO curso de licenciatura em Engenharia Geológica pela Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.\n\n3.º\n\n(Estrutura curricular)\n\nOs elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são os constantes do anexo à presente portaria.\n\n4.º\n\n(Precedências)\n\nA tabela e o regime de precedências serão propostos pelo conselho científico, ouvido o conselho pedagógico, e sujeitos a aprovação e publicação nos termos do disposto no artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.\n\n5.º\n\n(Classificação final)\n\n1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos.\n\n2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico, e aprovados e publicados nos termos do artigo 4.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio.\n\n6.º\n\n(Extinção)\n\nÉ extinto o ramo de Engenharia Geológica da licenciatura em Engenharia do Ambiente a que se refere o n.º 1, alínea d), do n.º 2.º da [Portaria n.º 617/83](https://diariodarepublica.pt/dr/detalhe/portaria/617-1983-451807), de 26 de Maio.\n\n7.º\n\n(Entrada em funcionamento e integração curricular)\n\n1 - A entrada em funcionamento do curso de licenciatura em Engenharia Geológica ficará dependente da existência na Faculdade de Ciências e Tecnologia dos recursos humanos e materiais necessários à sua concretização e será determinada por despacho do reitor, sob proposta da Faculdade.\n\n2 - Os alunos inscritos no ramo de Engenharia Geológica da licenciatura em Engenharia do Ambiente serão integrados no plano de estudos do curso.\n\n3 - Os alunos actualmente inscritos no curso de Engenharia do Ambiente que ainda não hajam procedido à opção por um ramo e que optarem pela inscrição neste curso serão nele integrados até um máximo a fixar nos termos do número seguinte.\n\n4 - Compete ao reitor, sob proposta do conselho científico, ouvido o conselho pedagógico, fixar o processo de integração dos alunos do curso de licenciatura em Engenharia do Ambiente, ramo de Engenharia Geológica, criado pelo [Decreto Regulamentar n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1978-468861), de 10 de Janeiro, no curso de licenciatura em Engenharia Geológica criado pela presente portaria.\n\nMinistério da Educação.\n\nAssinada em 1 de Julho de 1984.\n\nO Ministro da Educação, José Augusto Seabra."
+  },
+  "b6adbb1a04a28476": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Licenciatura em Engenharia Geológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Licenciatura em Engenharia Geológica\n\n1 - Áreas científicas do curso:\n\nGeologia.\n\nGeologia de Engenharia.\n\n2 - Duração normal do curso:\n\n5 anos.\n\n3 - Número total de unidades de crédito necessário à concessão do grau:\n\n162.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Geologia ... 60,5\n\nb) Geologia de Engenharia ... 18\n\nc) Matemática ... 13,5\n\nd) Informática ... 2,5\n\ne) Física ... 11\n\nf) Química ... 10\n\ng) Ciências Humanas e Sociais ... 11,5\n\nh) Ciências de Engenharia ... 10\n\ni) Engenharia do Ambiente ... 10\n\nj) Ecologia e Ciências Biológicas ... 7\n\n4.2 - Áreas científicas optativas:\n\na) Geologia ... 4\n\nb) Geologia de Engenharia ... 4\n\n4.3 - Seminário ... 4"
+  },
+  "6f0b06ba78855d26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Licenciatura em Engenharia Geológica",
+   "in_force_from": "1989-12-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1078/89](https://diariodarepublica.pt/dr/detalhe/portaria/1078-1989-550466), publicado em 1989-12-13."
+   ],
+   "markdown": "## ANEXO — Licenciatura em Engenharia Geológica\n\n1 - Áreas científicas do curso:\n\na) Geologia;\n\nb) Geologia de Engenharia.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n160.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Geologia ... 69\n\nb) Geologia de Engenharia ... 18\n\nc) Matemática ... 20\n\nd) Informática ... 3\n\ne) Física ... 11\n\nf) Química ... 11\n\ng) Ciências de Engenharia ... 10\n\nh) Ambiente ... 3\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Geologia ... (ver nota *) 9\n\nb) Geologia de Engenharia ... (ver nota *) 9\n\nc) Ambiente ... (ver nota *) 9\n\nd) Ciências Sociais e Humanas ... (ver nota *) 9\n\n4.3 - Estágio ... 6\n\n(nota *) Do número de unidades de crédito atribuído ao conjunto das áreas científicas optativas os alunos só poderão realizar um máximo de três unidades de crédito na área científica do Ambiente.\n\n> Alterado pelo/a [Portaria n.º 1078/89](https://diariodarepublica.pt/dr/detalhe/portaria/1078-1989-550466), publicado em 1989-12-13."
+  }
+ }
+}

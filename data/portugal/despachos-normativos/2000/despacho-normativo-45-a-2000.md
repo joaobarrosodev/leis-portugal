@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-09-08'
+version_history:
+  file: despacho-normativo-45-a-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-12-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-09-08'
+    amending: pt:dre:509235:por
+    amending_title: Despacho Normativo n.º 36/2003
+    changes:
+    - Altera Artigo unidades 31-31
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/45-a/2000/12/21/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:37:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 36/2003. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2000/despacho-normativo-45-a-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -177,7 +192,9 @@ b) Criação, recuperação ou requalificação de pavilhões de exposições mu
 
 a) A primeira fracção, até 25% do total da comparticipação, sob a forma de adiantamento, com a celebração do contrato-programa;
 
-b) As segunda e terceira fracções, de 25% cada uma, mediante prova da conclusão de 25% e 50%, respectivamente, dos trabalhos executados;
+b) As segunda e terceira fracções, até 25% cada uma, mediante prova da conclusão de 25% e de 50%, respectivamente, dos trabalhos executados.
+
+> Alterado pelo/a [Despacho Normativo n.º 36/2003](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-2003-509235), publicado em 2003-09-03.
 
 c) A quarta fracção, do valor remanescente, após a confirmação da conclusão dos trabalhos.
 

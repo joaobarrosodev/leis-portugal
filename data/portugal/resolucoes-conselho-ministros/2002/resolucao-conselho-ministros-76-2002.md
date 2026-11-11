@@ -39,10 +39,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-11-16'
+version_history:
+  file: resolucao-conselho-ministros-76-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-04-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-11-16'
+    amending: pt:dre:546386:por
+    amending_title: Resolução do Conselho de Ministros n.º 162/2004
+    changes:
+    - Altera Artigo unidades 27-27
+    - Altera Artigo unidades 29-29
+    - Altera Artigo unidades 30-30
+    - Altera Artigo unidades 41-47
+    - Altera Artigo unidades 99-99
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/76/2002/04/11/p/dre/pt/html
@@ -68,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:42:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 162/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2002/resolucao-conselho-ministros-76-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -172,13 +191,21 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 2 - Incumbir a Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano de promover a elaboração do PNPOT, com o apoio de uma equipa de projecto a criar nos termos do artigo 23.º do [Decreto-Lei n.º 120/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2000-300841), de 4 de Julho.
 
-3 - A elaboração do PNPOT será acompanhada por um sistema de pontos focais que integra as diferentes direcções regionais de ambiente e ordenamento do território e comissões de coordenação regional, entidades das Regiões Autónomas, bem como entidades da Administração Pública com atribuições sectoriais relevantes nas áreas da indústria, energia, turismo, comércio, agricultura, desenvolvimento rural, florestas, pescas, administração portuária, transportes, comunicações, habitação, recursos geológicos, conservação da natureza, património arquitectónico e arqueológico, educação, saúde, desporto, segurança, protecção civil e defesa nacional.
+3 - A elaboração do PNPOT é acompanhada por um sistema de pontos focais que integra representantes das Regiões Autónomas dos Açores e da Madeira, das comissões de coordenação e desenvolvimento regional, bem como das entidades e serviços da Administração Pública com atribuições sectoriais relevantes nas áreas das finanças, indústria, energia, turismo, comércio, agricultura, desenvolvimento rural, florestas, pescas, administração portuária, transportes, comunicações, habitação, recursos geológicos, conservação da natureza, património arquitectónico e arqueológico, educação, cultura, saúde, desporto, segurança, protecção civil e defesa nacional, bem como de quaisquer outros interesses a salvaguardar.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 162/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-2004-546386), publicado em 2004-11-11.
 
 4 - Os pontos focais referidos no número anterior serão designados junto da Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano (DGOTDU) por despacho dos ministros competentes em razão da matéria.
 
-5 - A DGPTDU ou o coordenador da equipa de projecto a que se refere o n.º 2 da presente resolução promoverá a realização de reuniões com todas ou algumas das entidades integrantes do sistema de pontos focais, as quais deverão prestar toda a colaboração necessária ao bom desenvolvimento dos trabalhos de elaboração do PNPOT.
+5 - A DGOTDU ou o coordenador da equipa de projecto a que se refere o n.º 2 da presente resolução promoverá a realização de reuniões com todas ou algumas das entidades integrantes da comissão consultiva, incluindo do sistema de pontos focais, sendo que estas últimas deverão prestar toda a colaboração e informação necessárias ao bom desenvolvimento dos trabalhos de elaboração do PNPOT.
 
-6 - A elaboração do PNPOT é acompanhada por uma comissão consultiva, composta por um representante das seguintes entidades:
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 162/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-2004-546386), publicado em 2004-11-11.
+
+6 - A elaboração do PNPOT é acompanhada por uma comissão consultiva, com a seguinte composição:
+
+6.1 - Um representante de cada uma das seguintes entidades:
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 162/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-2004-546386), publicado em 2004-11-11.
 
 a) Associação Nacional dos Municípios Portugueses;
 
@@ -200,19 +227,27 @@ i) Confederação Geral dos Trabalhadores Portugueses;
 
 j) União Geral de Trabalhadores;
 
-k) Federação Portuguesa da Indústria da Construção e Obras Públicas;
+l) Federação Portuguesa da Indústria da Construção e Obras Públicas;
 
-l) Ordem dos Arquitectos;
+m) Ordem dos Arquitectos;
 
-m) Ordem dos Engenheiros;
+n) Ordem dos Engenheiros;
 
-n) Associação dos Urbanistas Portugueses;
+o) Associação dos Urbanistas Portugueses;
 
-o) Associação Portuguesa de Arquitectos Paisagistas;
+p) Associação Portuguesa de Arquitectos Paisagistas;
 
-p) Associação Portuguesa de Geógrafos;
+q) Associação Portuguesa de Geógrafos;
 
-q) Confederação Portuguesa das Associações de Defesa do Ambiente.
+r) Associação Profissional de Arqueólogos;
+
+s) Confederação Portuguesa das Associações de Defesa do Ambiente.
+
+6.2 - A comissão consultiva integra ainda o sistema de pontos focais previsto no n.º 3 da presente resolução, sem prejuízo de poderem funcionar como instâncias diferenciadas de acompanhamento da elaboração do PNPOT, nos termos a definir nos respectivos regimentos.
+
+6.3 - A comissão consultiva deve emitir parecer sobre a proposta de PNPOT no prazo de 15 dias a contar da respectiva recepção.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 162/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-2004-546386), publicado em 2004-11-11.
 
 7 - Compete à DGOTDU ou, se tal incumbência lhe vier a ser atribuída, ao coordenador da equipa de projecto referida no n.º 2 da presente resolução, convocar e presidir às reuniões da comissão consultiva, bem como solicitar às entidades nela representadas a apresentação de propostas, sugestões ou recomendações.
 
@@ -316,7 +351,9 @@ b) Uma Administração Pública aberta e transparente quanto aos processos de de
 
 c) Uma gestão descentralizada do território, mobilizadora dos agentes regionais e locais e respeitadora do princípio da subsidiariedade.
 
-16 - Os objectivos e as orientações estratégicos enunciados nos n.os 6 a 11 devem ser desde já adoptados no acompanhamento da elaboração dos planos municipais de ordenamento do território previsto nos n.os 2 a 7 do artigo 75.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro.
+16 - Os objectivos estratégicos enunciados nos n.os 9 a 14 devem ser desde já adoptados no acompanhamento da elaboração dos planos municipais de ordenamento do território previsto nos n.os 2 a 10 do artigo 75.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na redacção conferida pelo [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 162/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-2004-546386), publicado em 2004-11-11.
 
 17 - A elaboração do PNPOT deve estar concluída no prazo máximo de um ano a contar da data de entrada em vigor da presente resolução.
 

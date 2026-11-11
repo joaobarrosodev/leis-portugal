@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-03-04'
+version_history:
+  file: portaria-1017-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-10-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-03-04'
+    amending: pt:dre:485580:por
+    amending_title: Portaria n.º 243/93
+    changes:
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1017/1992/10/29/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:06:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 243/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-1017-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,6 +137,12 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 1.º O exame nacional que constitui a prova de aferição a prestar pelos candidatos ao ensino superior no ano de 1993 incide sobre a matéria da disciplina que, para cada um dos cursos do ensino secundário, é indicada no anexo à presente portaria.
 
 2.º Os programas a considerar para a elaboração das provas de exame são os oficialmente em vigor no curso concluído pelo estudante, quer no caso das disciplinas do 12.º ano de escolaridade e dos cursos complementares diurnos e nocturnos, quer no caso das disciplinas do 12.º ano dos cursos ministrados nas escolas profissionais.
+
+2.º-A. Os estudantes titulares de habilitação estrangeira equivalente a um curso do 12.º ano de escolaridade ou a outro curso português do mesmo nível prestarão prova de aferição na disciplina correspondente ao curso a que lhes tenha sido concedida equivalência.
+
+2.º-B. Os titulares de dois ou mais cursos de entre os referidos no anexo a esta portaria prestarão prova de aferição na disciplina correspondente ao curso cuja classificação pretendam utilizar na candidatura ao ensino superior.
+
+> Aditado pelo/a [Portaria n.º 243/93](https://diariodarepublica.pt/dr/detalhe/portaria/243-1993-485580), publicado em 1993-02-27.
 
 3.º O modo de inscrição e demais condições de realização da prova de aferição são fixados em regulamento a publicar no Diário da República.
 

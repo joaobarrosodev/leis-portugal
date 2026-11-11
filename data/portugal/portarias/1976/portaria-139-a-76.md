@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-12-20'
+version_history:
+  file: portaria-139-a-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-03-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-12-20'
+    amending: pt:dre:365957:por
+    amending_title: Portaria n.º 697/79
+    changes:
+    - Altera Artigo unidades 7-10
+    - Altera Artigo unidades 20-20
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:57:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 697/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-139-a-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,13 +141,69 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Investig
 
 2 - O plano desses cursos será constituído pelas seguintes disciplinas e actividades:
 
-1.º ano - Português, História e Geografia de Portugal, Matemática, Ciências da Natureza e Prática Pedagógica (Educação Visual, Educação Musical e Exploração do Meio), cabendo a cada uma destas disciplinas três tempos lectivos semanais.
+1.º ano
 
-2.º ano - Pedagogia Geral, Introdução à Psicologia, Didáctica Geral e Prática Pedagógica, todas com três tempos lectivos semanais.
+Português, quatro horas.
 
-3.º ano - Estágio em exercício, supervisado pelos serviços de inspecção da Direcção de Serviços do Ensino Primário.
+História e Geografia de Portugal, três horas.
 
-Para os alunos referidos no n.º 2 do artigo 3.º do [Decreto-Lei n.º 111/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1976-506643), o plano do 3.º ano será constituído por um curso teórico-prático análogo ao previsto na alínea b) do n.º 2 do artigo 8.º do mesmo diploma.
+Matemática, quatro horas.
+
+Ciências da Natureza, três horas.
+
+Prática Pedagógica, doze horas:
+
+Oito horas a nível teórico:
+
+Educação Visual, duas horas;
+
+Educação Musical, duas horas;
+
+Educação Física, duas horas;
+
+Exploração do meio, duas horas;
+
+Quatro horas a nível prático:
+
+Três horas com intervenção em actividades das crianças e uma hora de coordenação.
+
+Total, vinte e seis horas.
+
+2.º ano
+
+Pedagogia Geral, quatro horas.
+
+Int. à Psicologia, quatro horas.
+
+Didáctica Geral, quatro horas.
+
+Português, três horas.
+
+Matemática, duas horas.
+
+Prática Pedagógica, nove horas:
+
+Cinco horas a nível teórico:
+
+Educação Visual, uma hora.
+
+Educação Musical, uma hora;
+
+Educação Física, uma hora;
+
+Exploração do meio, duas horas,
+
+Quatro horas a nível prático:
+
+Três horas com intervenção em actividades das crianças e uma hora de coordenação.
+
+Total, vinte e seis horas.
+
+3. ano
+
+Um currículo igual ao 3.º ano do curso geral.
+
+> Alterado pelo/a [Portaria n.º 697/79](https://diariodarepublica.pt/dr/detalhe/portaria/697-1979-365957), publicado em 1979-12-20.
 
 3 - Os programas de cada disciplina, a aprovar por despacho ministerial, terão em vista as exigências de cultura e prática pedagógica necessárias ao exercício da função docente do ensino primário.
 
@@ -151,7 +223,13 @@ c) Certidão de idade ou pública-forma do bilhete de identidade ou da cédula p
 
 8 - Os candidatos que transitem dos cursos intensivos ou que hajam frequentado os cursos especiais no ano anterior terão, para efeitos de matrícula, apenas de apresentar o respectivo boletim.
 
-9 - Será vedada a matrícula aos candidatos que não tenham obtido aproveitamento em dois anos lectivos consecutivos ou em três alternados.
+9 - 1 - São vedadas as matrículas aos candidatos que por duas vezes perderem a frequência do mesmo ano.
+
+2 - Os alunos abrangidos pelo disposto no número anterior poderão repetir a matrícula do ano em que, por duas vezes, perderem a frequência por excesso de faltas desde que estas tenham por base motivos que, pela sua imperiosidade, força maior e imponderabilidade, as possam justificar.
+
+3 - Compete ao director-geral do Ensino Básico considerar, caso a caso, como justificativos ou não os motivos que fundamentarem as faltas referidas no número anterior.
+
+> Alterado pelo/a [Portaria n.º 697/79](https://diariodarepublica.pt/dr/detalhe/portaria/697-1979-365957), publicado em 1979-12-20.
 
 10 - O Ministério da Educação e Investigação Científica fixará, anualmente, mediante despacho, a publicar no Diário do Governo, o número mínimo de alunos necessário para o funcionamento dos cursos especiais em cada escola do magistério primário.
 

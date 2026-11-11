@@ -1,0 +1,90 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:374426:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1988-05-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8e85452c3e688cc0"
+   ]
+  },
+  {
+   "date": "1994-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:524060:por",
+     "title": "Portaria n.º 407/92",
+     "published": "1992-05-15",
+     "dre_path": "/dr/detalhe/portaria/407-1992-524060"
+    },
+    {
+     "id": "pt:dre:288418:por",
+     "title": "Portaria n.º 721/92",
+     "published": "1992-07-13",
+     "dre_path": "/dr/detalhe/portaria/721-1992-288418"
+    },
+    {
+     "id": "pt:dre:274467:por",
+     "title": "Portaria n.º 757/92",
+     "published": "1992-08-04",
+     "dre_path": "/dr/detalhe/portaria/757-1992-274467"
+    },
+    {
+     "id": "pt:dre:262600:por",
+     "title": "Portaria n.º 307/94",
+     "published": "1994-05-18",
+     "dre_path": "/dr/detalhe/portaria/307-1994-262600"
+    },
+    {
+     "id": "pt:dre:262600:por",
+     "title": "Portaria n.º 307/94",
+     "published": "1994-05-18",
+     "dre_path": "/dr/detalhe/portaria/307-1994-262600"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-11",
+    "Altera Artigo unidades 13-13",
+    "Altera Artigo unidades 15-15",
+    "Altera Artigo unidades 20-20",
+    "Altera Artigo unidades 30-30",
+    "Altera Artigo unidades 31-32"
+   ],
+   "fragments": [
+    "7535c7d23965bce3"
+   ]
+  }
+ ],
+ "fragments": {
+  "8e85452c3e688cc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Maio\n\nCom a entrada em vigor do [Decreto-Lei n.º 99/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1988-285743) de 23 de Março, que cria o Conselho de Mercados de Obras Públicas e Particulares (CMOPP), é necessário definir as entidades que terão assento no plenário.\n\nAssim:\n\nManda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, nos termos e em execução do n.º 2 do artigo 4.º do [Decreto-Lei n.º 99/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1988-285743), de 23 de Março, o seguinte:\n\nSão membros do plenário do Conselho de Mercados de Obras Públicas e Particulares (CMOPP), para além das individualidades referidas nos n.os 1 e 5 do artigo 4.º, as seguintes entidades:\n\na) Como representantes da administração central e regional e organismos autónomos:\n\nLaboratório Nacional de Engenharia Civil (LNEC);\n\nJunta Autónoma de Estradas (JAE);\n\nInstituto Nacional de Habitação (INH);\n\nInstituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE);\n\nDirecção-Geral das Instalações e Equipamentos de Saúde;\n\nDirecção-Geral dos Equipamentos Educativos;\n\nDepartamento Central de Planeamento do Ministério do Planeamento e da Administração do Território;\n\nGabinete de Estudos e Planeamento do Ministério das Obras Públicas, Transportes e Comunicações (GEP/MOPTC).\n\nb) Como representante das autarquias:\n\nAssociação Nacional de Municípios;\n\nc) Como representantes das associações de empresas de obras públicas, de construção civil e de materiais de construção:\n\nAssociação de Industriais de Construção Civil e Obras Públicas do Norte (AICCOPN);\n\nAssociação de Empresas de Construção e Obras Públicas do Sul (AECOPS);\n\nAssociação da Indústria, Associação da Construção - Região Autónoma da Madeira (ASSICOM);\n\nAssociação Nacional de Empreiteiros de Obras Públicas (ANEOP);\n\nAssociação dos Industriais da Construção de Edifícios (AICE);\n\nAssociação Portuguesa dos Comerciantes de Materiais de Construção;\n\nAssociação Técnica da Indústria do Cimento;\n\nAssociação Portuguesa das Empresas de Mediação Imobiliária;\n\nd) Como representantes de associações profissionais do sector:\n\nOrdem dos Engenheiros;\n\nAssociação dos Arquitectos Portugueses;\n\nAssociação Profissional dos Engenheiros Técnicos Portugueses;\n\nSindicato dos Agentes Técnicos de Arquitectura e Engenharia, enquanto associação profissional;\n\nAssociação Portuguesa de Projectistas e Consultores;\n\ne) Como representantes das empresas públicas e de capitais públicos:\n\nElectricidade de Portugal, (EDP), E. P.;\n\nCorreios e Telecomunicações de Portugal, E. P. (CTT);\n\nCaminhos de Ferro Portugueses, E. P. (CP);\n\nSiderurgia Nacional, E. P.\n\nMinistério das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 11 de Maio de 1988.\n\nO Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins."
+  },
+  "7535c7d23965bce3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1994-05-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 757/92](https://diariodarepublica.pt/dr/detalhe/portaria/757-1992-274467), publicado em 1992-08-04.",
+    "Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.",
+    "Alterado pelo/a [Portaria n.º 757/92](https://diariodarepublica.pt/dr/detalhe/portaria/757-1992-274467), publicado em 1992-08-04.",
+    "Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.",
+    "Alterado pelo/a [Portaria n.º 721/92](https://diariodarepublica.pt/dr/detalhe/portaria/721-1992-288418), publicado em 1992-07-13.",
+    "Alterado pelo/a [Portaria n.º 407/92](https://diariodarepublica.pt/dr/detalhe/portaria/407-1992-524060), publicado em 1992-05-15."
+   ],
+   "markdown": "de 24 de Maio\n\nCom a entrada em vigor do [Decreto-Lei n.º 99/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1988-285743) de 23 de Março, que cria o Conselho de Mercados de Obras Públicas e Particulares (CMOPP), é necessário definir as entidades que terão assento no plenário.\n\nAssim:\n\nManda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, nos termos e em execução do n.º 2 do artigo 4.º do [Decreto-Lei n.º 99/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1988-285743), de 23 de Março, o seguinte:\n\nSão membros do plenário do Conselho de Mercados de Obras Públicas e Particulares (CMOPP), para além das individualidades referidas nos n.os 1 e 5 do artigo 4.º, as seguintes entidades:\n\na) Como representantes da administração central e regional e organismos autónomos:\n\nLaboratório Nacional de Engenharia Civil;\n\nJunta Autónoma de Estradas;\n\nInstituto Nacional de Habitação;\n\nInstituto de Gestão e Alienação do Património Habitacional do Estado;\n\nDirecção-Geral dos Edifícios e Monumentos Nacionais;\n\n> Alterado pelo/a [Portaria n.º 757/92](https://diariodarepublica.pt/dr/detalhe/portaria/757-1992-274467), publicado em 1992-08-04.\n\nDirecção-Geral das Instalações e Equipamentos de Saúde;\n\nDepartamento de Gestão de Recursos Educativos;\n\n> Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.\n\nDepartamento Central de Planeamento do Ministério do Planeamento e da Administração do Território;\n\nGabinete de Estudos e Planeamento do Ministério das Obras Públicas, Transportes e Comunicações.\n\n> Alterado pelo/a [Portaria n.º 757/92](https://diariodarepublica.pt/dr/detalhe/portaria/757-1992-274467), publicado em 1992-08-04.\n\nb) Como representante das autarquias:\n\nAssociação Nacional de Municípios;\n\nc) Como representantes das associações de empresas de obras públicas, de construção civil e de materiais de construção:\n\nAssociação de Industriais de Construção Civil e Obras Públicas do Norte (AICCOPN);\n\nAECOPS - Associação de Empresas de Construção e Obras Públicas (AECOPS);\n\n> Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.\n\nAssociação da Indústria, Associação da Construção - Região Autónoma da Madeira (ASSICOM);\n\nAssociação Nacional de Empreiteiros de Obras Públicas (ANEOP);\n\nAssociação dos Industriais da Construção de Edifícios (AICE);\n\nAssociação Portuguesa dos Comerciantes de Materiais de Construção;\n\nAssociação Técnica da Indústria do Cimento;\n\nAssociação Portuguesa das Empresas de Mediação Imobiliária;\n\nd) Como representantes de associações profissionais do sector:\n\nOrdem dos Engenheiros;\n\nAssociação dos Arquitectos Portugueses;\n\nAssociação Portuguesa de Engenheiros Técnicos;\n\n> Alterado pelo/a [Portaria n.º 721/92](https://diariodarepublica.pt/dr/detalhe/portaria/721-1992-288418), publicado em 1992-07-13.\n\nAssociação dos Agentes Técnicos de Arquitectura e Engenharia;\n\nAssociação Portuguesa de Projectistas e Consultores.\n\n> Alterado pelo/a [Portaria n.º 407/92](https://diariodarepublica.pt/dr/detalhe/portaria/407-1992-524060), publicado em 1992-05-15.\n\ne) Como representantes das empresas públicas e de capitais públicos:\n\nElectricidade de Portugal, (EDP), E. P.;\n\nCorreios e Telecomunicações de Portugal, E. P. (CTT);\n\nCaminhos de Ferro Portugueses, E. P. (CP);\n\nSiderurgia Nacional, E. P.\n\nMinistério das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 11 de Maio de 1988.\n\nO Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins."
+  }
+ }
+}

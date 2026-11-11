@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-11-01'
+version_history:
+  file: portaria-432-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-09-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-11-01'
+    amending: pt:dre:692212:por
+    amending_title: Portaria n.º 946/99
+    changes:
+    - Altera Artigo unidades 7-7
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 11-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/432/1996/09/02/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:29:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 946/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-432-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,17 +142,27 @@ Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das 
 
 1.º A presente portaria regula as condições de acreditação dos técnicos que pretendam exercer a sua actividade junto das associações de agricultores na área da protecção integrada e produção integrada.
 
-2.º Para efeitos do estabelecido na alínea c) do n.º 2 do artigo 6.º do Decreto-Lei n.º 180/95, de 26 de Julho, na redacção dada pelo Decreto-Lei n.º 110/96, de 2 de Agosto, os técnicos a acreditar para o exercício da protecção integrada e produção integrada das culturas devem possuir pelo menos grau de bacharelato ou equivalente.
+2.º Para efeitos do estabelecido na alínea c) do n.º 2 do artigo 6.º do [Decreto-Lei n.º 180/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1995-484981), de 26 de Julho, na redacção dada pelo [Decreto-Lei n.º 110/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1996-407734), de 2 de Agosto, os técnicos a acreditar pela Direcção-Geral de Protecção das Culturas para o exercício da protecção integrada e produção integrada das culturas devem possuir um dos seguintes requisitos:
 
-3.º Para além do disposto no número anterior, os técnicos a acreditar pela Direcção-Geral da Protecção das Culturas devem satisfazer pelo menos uma das seguintes condições:
+a) Curso de mestrado em Protecção Integrada ou Produção Integrada;
+
+b) Licenciatura em Engenharia Agronómica no ramo da Protecção das Plantas;
+
+c) Pelo menos grau de bacharelato, ou equivalente, cujos curricula incluam disciplinas na área da protecção das culturas.
+
+> Alterado pelo/a [Portaria n.º 946/99](https://diariodarepublica.pt/dr/detalhe/portaria/946-1999-692212), publicado em 1999-10-27.
+
+3.º Os técnicos a acreditar que possuam a habilitação referida na alínea c) do número anterior devem igualmente satisfazer pelo menos uma das seguintes condições:
+
+> Alterado pelo/a [Portaria n.º 946/99](https://diariodarepublica.pt/dr/detalhe/portaria/946-1999-692212), publicado em 1999-10-27.
 
 a) Frequência, com aproveitamento, de curso de formação para técnicos na área da protecção integrada ou produção integrada, ministrada ou reconhecida pela Direcção-Geral da Protecção das Culturas;
 
 b) Frequência, com aproveitamento, de curso de formação para técnicos na área da protecção integrada ou produção integrada, realizado no âmbito do Regulamento (CEE) n.º [2078/92](http://data.europa.eu/eli/reg/1992/2078/oj?locale=pt), do Conselho, de 30 de Junho, relativo a métodos de produção agrícola compatíveis com as exigências da protecção do ambiente e à preservação do espaço natural;
 
-c) Curso de mestrado em Protecção Integrada, ministrado pelo Instituto Superior de Agronomia, da Universidade Técnica de Lisboa;
+c) Exercício, devidamente comprovado, de acções ou actividades desenvolvidas no âmbito da protecção integrada ou produção integrada, por um período mínimo de cinco anos.
 
-d) Exercício, devidamente comprovado, de acções ou actividades desenvolvidas no âmbito da protecção integrada ou produção integrada, por um período mínimo de cinco anos.
+> Alterado pelo/a [Portaria n.º 946/99](https://diariodarepublica.pt/dr/detalhe/portaria/946-1999-692212), publicado em 1999-10-27.
 
 Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.
 

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:403327:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-08-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c91eb5e5396b8610"
+   ]
+  },
+  {
+   "date": "1995-12-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:644081:por",
+     "title": "Portaria n.º 1468/95",
+     "published": "1995-12-20",
+     "dre_path": "/dr/detalhe/portaria/1468-1995-644081"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-12"
+   ],
+   "fragments": [
+    "af85aa089549b14f"
+   ]
+  }
+ ],
+ "fragments": {
+  "c91eb5e5396b8610": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Agosto\n\nSob proposta das comissões instaladores do Instituto Politécnico de Castelo Branco e da sua Escola Superior de Tecnologia e Gestão;\n\nAo abrigo do disposto no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nCriação\n\n1 - O Instituto Politécnico de Castelo Branco, através da sua Escola Superior de Tecnologia e Gestão, confere o grau de bacharel em Contabilidade e Gestão de Pessoal, ministrando, em consequência, o respectivo curso.\n\n2 - O curso a que se refere o n.º 1 poderá ser ministrado em Idanha-a-Nova.\n\n2.º\n\nPlano de estudos\n\nO plano de estudos do curso de bacharelato a que se refere o n.º 1.º é o cosntante do anexo à presente portaria.\n\n3.º\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de 10.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.\n\n4.º\n\nRegimes escolares\n\nOs regimes de frequência, avaliação de conhecimentos, transição de ano e de precedências são fixados pela Escola através do seu órgão competente.\n\n5.º\n\nCondições para a obtenção do grau\n\nSão condições para a obtenção do grau de bacharel a aprovação na totalidade das disciplinas que integram o respectivo plano de estudos.\n\n6.º\n\nClassificação final\n\n1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos.\n\n2 - Os coeficientes de ponderação são fixados pelo conselho científico.\n\n7.º\n\nEntrada em funcionamento\n\nO curso referido no n.º 1.º entra em funcionamento progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1991-1992, inclusive.\n\nMinistério da Educação.\n\nAssinada em 31 de Julho de 1991.\n\nPelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/192b00/43534354.pdf)"
+  },
+  "af85aa089549b14f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1995-12-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1468/95](https://diariodarepublica.pt/dr/detalhe/portaria/1468-1995-644081), publicado em 1995-12-20."
+   ],
+   "markdown": "de 22 de Agosto\n\nSob proposta das comissões instaladores do Instituto Politécnico de Castelo Branco e da sua Escola Superior de Tecnologia e Gestão;\n\nAo abrigo do disposto no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nCriação\n\n1 - O Instituto Politécnico de Castelo Branco, através da sua Escola Superior de Tecnologia e Gestão, confere o grau de bacharel em Contabilidade e Gestão de Pessoal, ministrando, em consequência, o respectivo curso.\n\n2 - O curso a que se refere o n.º 1 poderá ser ministrado em Idanha-a-Nova.\n\n2.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 1468/95](https://diariodarepublica.pt/dr/detalhe/portaria/1468-1995-644081), publicado em 1995-12-20.\n\n3.º\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de 10.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.\n\n4.º\n\nRegimes escolares\n\nOs regimes de frequência, avaliação de conhecimentos, transição de ano e de precedências são fixados pela Escola através do seu órgão competente.\n\n5.º\n\nCondições para a obtenção do grau\n\nSão condições para a obtenção do grau de bacharel a aprovação na totalidade das disciplinas que integram o respectivo plano de estudos.\n\n6.º\n\nClassificação final\n\n1 - A classificação final é a média aritmética ponderada, arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos.\n\n2 - Os coeficientes de ponderação são fixados pelo conselho científico.\n\n7.º\n\nEntrada em funcionamento\n\nO curso referido no n.º 1.º entra em funcionamento progressivamente, um ano curricular em cada ano lectivo, a partir do ano lectivo de 1991-1992, inclusive.\n\nMinistério da Educação.\n\nAssinada em 31 de Julho de 1991.\n\nPelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/192b00/43534354.pdf)"
+  }
+ }
+}

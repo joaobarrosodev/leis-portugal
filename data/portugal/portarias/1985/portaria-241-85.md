@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-08-01'
+version_history:
+  file: portaria-241-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-08-01'
+    amending: pt:dre:180007:por
+    amending_title: Portaria n.º 512/85
+    changes:
+    - Altera Artigo unidades 20-20
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:21:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 512/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-241-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,7 +163,13 @@ x = direitos aduaneiros e demais imposições.
 
 5.º Para efeitos do cálculo referido no artigo anterior, a junta Nacional dos Produtos Pecuários determinará mensalmente o preço arbitrado de cada um dos produtos constantes do anexo I, tendo em conta as condições normais nos mercados nacional e internacional, nos termos do n.º 2 do artigo 4.º do [Decreto-Lei n.º 115-G/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-g-1985-477173), de 18 de Abril.
 
-6.º Os direitos compensadores a que se refere a presente portaria serão cobrados pelas alfândegas que procederem ao despacho de importação e constituem receita do Fundo de Abastecimento.
+6.º - 1 - Os direitos compensadores a que se refere a presente portaria serão cobrados pelas alfândegas que procederem ao despacho de importação e constituem receita do Fundo de Abastecimento.
+
+2 - Na importação de produtos constantes do anexo I à presente portaria que se destinem a transformação e posterior exportação previamente contratada, o importador poderá ser dispensado do pagamento dos direitos compensadores, mediante apresentação da respectiva garantia bancária, a qual só será liberada após prova da efectivação da exportação.
+
+3 - A dispensa de pagamento dos direitos compensadores prevista no número antecedente dependerá de parecer favorável da Junta Nacional dos Produtos Pecuários, a qual definirá, para cada operação em concreto, a relação da transformação.
+
+> Alterado pelo/a [Portaria n.º 512/85](https://diariodarepublica.pt/dr/detalhe/portaria/512-1985-180007), publicado em 1985-07-27.
 
 7.º O presente diploma entrará em vigor, relativamente a cada produto ou grupo de produtos constantes do anexo I, no dia 1 do mês seguinte à primeira publicação no Diário da República do aviso a que se refere o n.º 3.º
 

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:308350:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-01-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "633be8dcd71261ec"
+   ]
+  },
+  {
+   "date": "1986-05-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:227047:por",
+     "title": "Portaria n.º 231/86",
+     "published": "1986-05-21",
+     "dre_path": "/dr/detalhe/portaria/231-1986-227047"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 18-24"
+   ],
+   "fragments": [
+    "39fad9bf093be43e"
+   ]
+  }
+ ],
+ "fragments": {
+  "633be8dcd71261ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Janeiro\n\nO Regulamento dos Concursos para os Graus e Lugares dos Quadros de Pessoal da Carreira Médica Hospitalar, que foi aprovado pela [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro, permitiu, na redacção que foi adoptada, algumas dúvidas e alguma confusão entre o seu espírito e certas possibilidades de interpretação. Deste modo, pretende o presente diploma introduzir-lhe algumas alterações clarificadoras. Assim, ao abrigo do n.º 7 do artigo 12.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Ministro dos Assuntos Sociais, aprovar as seguintes alterações à [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro:\n\n1.º O artigo 10.º do Regulamento dos Concursos para os Graus e Lugares do Quadro de Pessoal da Carreira Médica Hospitalar, aprovado pela [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro, passa a ter a seguinte redacção:\n\nArt. 10.º Podem concorrer ao concurso referido no artigo 9.º:\n\na) Os médicos habilitados com o grau de assistente hospitalar;\n\nb) Os médicos que, ocupando já um lugar de assistente hospitalar, o queiram fazer para fins curriculares;\n\nc) Os médicos cujo currículo seja considerado equiparável ao grau de assistente hospitalar por despacho do Ministro dos Assuntos Sociais, sob parecer favorável de uma comissão técnica.\n\n2.º É eliminado o n.º 2 do artigo 12.º do referido Regulamento.\n\n3.º O n.º 2 do artigo 14.º passa a ter a seguinte redacção:\n\n2 - As decisões são tomadas por maioria.\n\n4.º A este mesmo artigo é acrescentado um n.º 4, com a seguinte redacção:\n\n4 - No caso de impossibilidade da constituição dos júris segundo o estipulado no n.º 1, a comissão inter-hospitalar da zona nomeará elementos estranhos ao estabelecimento sob proposta do seu director, obedecendo aos mesmos critérios.\n\n5.º O n.º 4 do artigo 16.º passa a ter a seguinte redacção:\n\n4 - Aplica-se a este concurso curricular o disposto no artigo 18.º deste Regulamento.\n\n6.º É revogado o n.º 8 do artigo 17.º\n\n7.º O artigo 30.º passa a ter a seguinte redacção:\n\nArt. 30.º Podem concorrer ao concurso referido no artigo anterior:\n\na) Os médicos com o grau de assistente hospitalar há mais de 5 anos, desde que tenham sido aprovados em, pelo menos, 2 concursos públicos com provas práticas eliminatórias;\n\nb) Os médicos que, à data da publicação do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, ocupem lugares da carreira como especialistas há, pelo menos, 3 anos, desde que tenham sido aprovados em, pelo menos, 2 concursos públicos com provas práticas eliminatórias.\n\nc) Os médicos cujo currículo seja considerado equiparável ao nível definido na alínea a) do presente artigo, por despacho do Ministro dos Assuntos Sociais, sob parecer favorável da direcção médica de um hospital central e da Direcção-Geral dos Hospitais.\n\n8.º O n.º 2 do artigo 46.º passa a ter a seguinte redacção:\n\n2 - As decisões são tomadas por maioria.\n\n9.º O n.º 1 do artigo 54.º passa a ter a seguinte redacção:\n\n1 - O prazo de 3 meses a que se referem os n.os 2 e 3 do artigo 33.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, começa a partir da data de abertura dos primeiros concursos assistentes hospitalares a realizar ao abrigo da [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro.\n\n10.º Estas alterações vigoram para os concursos que tenham sido abertos ao abrigo da [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro.\n\nMinistério dos Assuntos Sociais, 6 de Janeiro de 1983. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde."
+  },
+  "39fad9bf093be43e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1986-05-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 231/86](https://diariodarepublica.pt/dr/detalhe/portaria/231-1986-227047), publicado em 1986-05-21."
+   ],
+   "markdown": "de 25 de Janeiro\n\nO Regulamento dos Concursos para os Graus e Lugares dos Quadros de Pessoal da Carreira Médica Hospitalar, que foi aprovado pela [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro, permitiu, na redacção que foi adoptada, algumas dúvidas e alguma confusão entre o seu espírito e certas possibilidades de interpretação. Deste modo, pretende o presente diploma introduzir-lhe algumas alterações clarificadoras. Assim, ao abrigo do n.º 7 do artigo 12.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Ministro dos Assuntos Sociais, aprovar as seguintes alterações à [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro:\n\n1.º O artigo 10.º do Regulamento dos Concursos para os Graus e Lugares do Quadro de Pessoal da Carreira Médica Hospitalar, aprovado pela [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro, passa a ter a seguinte redacção:\n\nArt. 10.º Podem concorrer ao concurso referido no artigo 9.º:\n\na) Os médicos habilitados com o grau de assistente hospitalar;\n\nb) Os médicos que, ocupando já um lugar de assistente hospitalar, o queiram fazer para fins curriculares;\n\nc) Os médicos cujo currículo seja considerado equiparável ao grau de assistente hospitalar por despacho do Ministro dos Assuntos Sociais, sob parecer favorável de uma comissão técnica.\n\n2.º É eliminado o n.º 2 do artigo 12.º do referido Regulamento.\n\n3.º O n.º 2 do artigo 14.º passa a ter a seguinte redacção:\n\n2 - As decisões são tomadas por maioria.\n\n4.º A este mesmo artigo é acrescentado um n.º 4, com a seguinte redacção:\n\n4 - No caso de impossibilidade da constituição dos júris segundo o estipulado no n.º 1, a comissão inter-hospitalar da zona nomeará elementos estranhos ao estabelecimento sob proposta do seu director, obedecendo aos mesmos critérios.\n\n5.º O n.º 4 do artigo 16.º passa a ter a seguinte redacção:\n\n4 - Aplica-se a este concurso curricular o disposto no artigo 18.º deste Regulamento.\n\n6.º É revogado o n.º 8 do artigo 17.º\n\n7.º - (Revogado.)\n\n8.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 231/86](https://diariodarepublica.pt/dr/detalhe/portaria/231-1986-227047), publicado em 1986-05-21.\n\n9.º O n.º 1 do artigo 54.º passa a ter a seguinte redacção:\n\n1 - O prazo de 3 meses a que se referem os n.os 2 e 3 do artigo 33.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, começa a partir da data de abertura dos primeiros concursos assistentes hospitalares a realizar ao abrigo da [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro.\n\n10.º Estas alterações vigoram para os concursos que tenham sido abertos ao abrigo da [Portaria n.º 1103/82](https://diariodarepublica.pt/dr/detalhe/portaria/1103-1982-380121), de 23 de Novembro.\n\nMinistério dos Assuntos Sociais, 6 de Janeiro de 1983. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde."
+  }
+ }
+}

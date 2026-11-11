@@ -38,10 +38,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-05-23'
+version_history:
+  file: portaria-327-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-05-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-05-23'
+    amending: pt:dre:524060:por
+    amending_title: Portaria n.º 407/92; Portaria n.º 721/92; Portaria n.º 757/92; Portaria n.º 307/94; Portaria n.º 307/94
+    changes:
+    - Altera Artigo unidades 8-11
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 15-15
+    - Altera Artigo unidades 20-20
+    - Altera Artigo unidades 30-30
+    - Altera Artigo unidades 31-32
 identifiers:
   celex: null
   eli: null
@@ -67,7 +86,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:27:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 407/92; Portaria n.º
+    721/92; Portaria n.º 757/92; Portaria n.º 307/94; Portaria n.º 307/94. Método e verificação: consolidacao/README.md e
+    consolidacao/piloto/portugal/portarias/1988/portaria-327-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,21 +156,29 @@ São membros do plenário do Conselho de Mercados de Obras Públicas e Particula
 
 a) Como representantes da administração central e regional e organismos autónomos:
 
-Laboratório Nacional de Engenharia Civil (LNEC);
+Laboratório Nacional de Engenharia Civil;
 
-Junta Autónoma de Estradas (JAE);
+Junta Autónoma de Estradas;
 
-Instituto Nacional de Habitação (INH);
+Instituto Nacional de Habitação;
 
-Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE);
+Instituto de Gestão e Alienação do Património Habitacional do Estado;
+
+Direcção-Geral dos Edifícios e Monumentos Nacionais;
+
+> Alterado pelo/a [Portaria n.º 757/92](https://diariodarepublica.pt/dr/detalhe/portaria/757-1992-274467), publicado em 1992-08-04.
 
 Direcção-Geral das Instalações e Equipamentos de Saúde;
 
-Direcção-Geral dos Equipamentos Educativos;
+Departamento de Gestão de Recursos Educativos;
+
+> Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.
 
 Departamento Central de Planeamento do Ministério do Planeamento e da Administração do Território;
 
-Gabinete de Estudos e Planeamento do Ministério das Obras Públicas, Transportes e Comunicações (GEP/MOPTC).
+Gabinete de Estudos e Planeamento do Ministério das Obras Públicas, Transportes e Comunicações.
+
+> Alterado pelo/a [Portaria n.º 757/92](https://diariodarepublica.pt/dr/detalhe/portaria/757-1992-274467), publicado em 1992-08-04.
 
 b) Como representante das autarquias:
 
@@ -159,7 +188,9 @@ c) Como representantes das associações de empresas de obras públicas, de cons
 
 Associação de Industriais de Construção Civil e Obras Públicas do Norte (AICCOPN);
 
-Associação de Empresas de Construção e Obras Públicas do Sul (AECOPS);
+AECOPS - Associação de Empresas de Construção e Obras Públicas (AECOPS);
+
+> Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.
 
 Associação da Indústria, Associação da Construção - Região Autónoma da Madeira (ASSICOM);
 
@@ -179,11 +210,15 @@ Ordem dos Engenheiros;
 
 Associação dos Arquitectos Portugueses;
 
-Associação Profissional dos Engenheiros Técnicos Portugueses;
+Associação Portuguesa de Engenheiros Técnicos;
 
-Sindicato dos Agentes Técnicos de Arquitectura e Engenharia, enquanto associação profissional;
+> Alterado pelo/a [Portaria n.º 721/92](https://diariodarepublica.pt/dr/detalhe/portaria/721-1992-288418), publicado em 1992-07-13.
 
-Associação Portuguesa de Projectistas e Consultores;
+Associação dos Agentes Técnicos de Arquitectura e Engenharia;
+
+Associação Portuguesa de Projectistas e Consultores.
+
+> Alterado pelo/a [Portaria n.º 407/92](https://diariodarepublica.pt/dr/detalhe/portaria/407-1992-524060), publicado em 1992-05-15.
 
 e) Como representantes das empresas públicas e de capitais públicos:
 

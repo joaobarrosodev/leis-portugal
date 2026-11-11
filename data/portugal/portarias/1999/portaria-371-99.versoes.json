@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:323703:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-05-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "22e7a6c14ec349e8",
+    "496d44b4f5f656dc"
+   ]
+  },
+  {
+   "date": "2005-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:246123:por",
+     "title": "Portaria n.º 701/2005",
+     "published": "2005-08-23",
+     "dre_path": "/dr/detalhe/portaria/701-2005-246123"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 20-26"
+   ],
+   "fragments": [
+    "22e7a6c14ec349e8",
+    "2e473285ea8beb25"
+   ]
+  }
+ ],
+ "fragments": {
+  "22e7a6c14ec349e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Maio\n\nSob proposta do Instituto Politécnico de Portalegre e da sua Escola Superior de Tecnologia e Gestão;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nConsiderando o disposto nas Portarias n.os [413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, e [413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto;\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro), no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso bietápico de licenciatura em Gestão Estratégica, da Escola Superior de Tecnologia e Gestão de Portalegre, criado pela [Portaria n.º 413-E/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-e-1998-429593), de 17 de Julho, alterada pela [Portaria n.º 680-C/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-c-1998-273991), de 31 de Agosto, nos termos do anexo à presente portaria.\n\n2.º\n\nNorma revogatória\n\nFindo o processo de transição fixado nos termos do artigo 31.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, é revogada a [Portaria n.º 827/90](https://diariodarepublica.pt/dr/detalhe/portaria/827-1990-557837), de 12 de Setembro, que autorizou o Instituto Politécnico de Portalegre, através da sua Escola Superior de Tecnologia e Gestão, a conferir o grau de bacharel em Gestão e Criação de Empresas.\n\n3.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 1998-1999, inclusive.\n\nPelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior, em 21 de Abril de 1999."
+  },
+  "496d44b4f5f656dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Portalegre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Instituto Politécnico de Portalegre\n\nEscola Superior de Tecnologia e Gestão\n\nCurso: Gestão Estratégica\n\n1.º ciclo\n\nGrau: bacharel\n\n[(ver quadros n.os 1 a 3 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/117b00/27232724.pdf)\n\n2.º ciclo\n\nGrau: licenciado\n\n[(ver quadro n.º 4 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/117b00/27232724.pdf)"
+  },
+  "2e473285ea8beb25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico de Portalegre",
+   "in_force_from": "2005-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 701/2005](https://diariodarepublica.pt/dr/detalhe/portaria/701-2005-246123), publicado em 2005-08-23."
+   ],
+   "markdown": "## ANEXO — Instituto Politécnico de Portalegre\n\nEscola Superior de Tecnologia e Gestão\n\nCurso de Gestão Empresarial\n\nDo QUADRO N.º 1 ao QUADRO N.º 12\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2005/08/161b00/48824885.pdf)\n\n> Alterado pelo/a [Portaria n.º 701/2005](https://diariodarepublica.pt/dr/detalhe/portaria/701-2005-246123), publicado em 2005-08-23."
+  }
+ }
+}

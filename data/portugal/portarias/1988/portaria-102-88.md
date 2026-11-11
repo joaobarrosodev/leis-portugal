@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-08-14'
+version_history:
+  file: portaria-102-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-02-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-08-14'
+    amending: pt:dre:619340:por
+    amending_title: Portaria n.º 640/89; Portaria n.º 640/89
+    changes:
+    - Altera Artigo unidades 30-30
+    - Altera Artigo unidades 31-31
+    - Adita Artigo depois da unidade 31
 identifiers:
   celex: null
   eli: null
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:22:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 640/89; Portaria n.º
+    640/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-102-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,9 +185,25 @@ d) No 6.º ano e seguintes, os criadores suportarão 20% das despesas.
 
 18.º A entrega aos beneficiários das ajudas concedidas será efectuada pelo IFADAP, à medida da execução do projecto, em quatro prestações trimestrais, conformes à aplicação do programa sanitário referido na Portaria n.º 63/86 e na sequência da apresentação pelo gestor regional das informações e justificativos necessários à sua confirmação.
 
-19.º Para ocorrer, em cada ano, à prossecução dos projectos, o IFADAP porá à disposição dos beneficiários, no decurso do mês de Janeiro, avanços máximos correspondentes a 25% das despesas elegíveis, sem prejuízo do estabelecido nos artigos 18.º e 20.º Para fazer face às despesas de lançamento, excepcionalmente, no ano de constituição de cada ADS, o avanço poderá atingir os 40%, dentro dos quinze dias consecutivos de assinatura do contrato de concessão.
+19.º - a) Para permitir a execução dos projectos, o IFADAP põe à disposição dos beneficiários avanços das ajudas até ao limite de 25% das suas despesas anuais elegíveis.
 
-20.º Os pagamentos seguintes serão efectuados tendo em conta os comprovativos apresentados ao sector pelo ADS, não podendo, contudo, ultrapassar, sem justificação, em qualquer momento, 25% do total anual. Com o último pagamento anual deverá ser comprovada a totalidade da verba posta à disposição.
+b) Excepcionalmente, no ano de constituição dos ADS, e para fazer face às despesas de lançamento, essa percentagem pode elevar-se até 40%.
+
+> Alterado pelo/a [Portaria n.º 640/89](https://diariodarepublica.pt/dr/detalhe/portaria/640-1989-619340), publicado em 1989-08-09.
+
+20.º Os pagamentos seguintes são efectuados após apresentação ao gestor, pelo ADS, dos comprovativos das despesas realizadas, não podendo exceder, sem justificação, 25% do total anual das despesas elegíveis.
+
+> Alterado pelo/a [Portaria n.º 640/89](https://diariodarepublica.pt/dr/detalhe/portaria/640-1989-619340), publicado em 1989-08-09.
+
+21.º A partir do segundo ano de funcionamento de cada ADS, a antecipação referida no n.º 19.º é calculada com base nos montantes consignados no projecto do ano anterior e tem lugar na data fixada no contrato de concessão da ajuda.
+
+22.º A justificação perante o IFADAP dos montantes anuais recebidos por cada ADS tem lugar até 30 dias após o termo do projecto.
+
+23.º O gestor, caso preveja a não aplicação da totalidade das verbas postas à disposição do ADS em cada ano, solicitará ao IFADAP, até 45 dias antes do termo da vigência do projecto, a dedução do montante não aplicado às ajudas a conceder no ano seguinte.
+
+24.º A ocorrer a situação prevista no número anterior, os ADS estarão em situação de incumprimento se, em tempo útil, não alertarem o gestor para aquele facto.
+
+> Aditado pelo/a [Portaria n.º 640/89](https://diariodarepublica.pt/dr/detalhe/portaria/640-1989-619340), publicado em 1989-08-09.
 
 Ministério da Agricultura, Pescas e Alimentação.
 

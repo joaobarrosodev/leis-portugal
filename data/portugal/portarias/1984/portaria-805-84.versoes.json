@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:399990:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-10-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7bf017aee90d3173"
+   ]
+  },
+  {
+   "date": "1986-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:546457:por",
+     "title": "Decreto-Lei n.º 522/85",
+     "published": "1985-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/522-1985-546457"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-9",
+    "Altera Artigo unidades 12-14"
+   ],
+   "fragments": [
+    "31c5253b4c9e342f"
+   ]
+  }
+ ],
+ "fragments": {
+  "7bf017aee90d3173": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Outubro\n\nConsiderando que, com vista a facilitar a cobrança dos prémios de seguros, algumas seguradoras têm vindo a implementar um novo sistema que se traduz na adopção do aviso-recibo que pode ser liquidado quer nos escritórios da própria seguradora quer nas estações dos CTT, devendo essa cobrança ser comprovada através da aposição de uma vinheta com o símbolo da seguradora ou com a vinheta oficial dos CTT;\n\nConsiderando que, no que concerne ao ramo automóvel, haverá toda a conveniência, quer para o segurado quer para a seguradora, que um recibo, devidamente validado com a aposição das referidas vinhetas, possa funcionar como cartão de responsabilidade civil, constituindo, para os efeitos do artigo 11.º do [Decreto-Lei n.º 408/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1979-365506), de 25 de Setembro, prova da realização do seguro de responsabilidade civil;\n\nVerificando-se ainda a necessidade de definir os elementos que devem constar do aviso-recibo em causa, sob pena de as autoridades fiscalizadoras da existência do seguro obrigatório terem a sua acção consideravelmente dificultada:\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelos Ministros da Administração Interna e das Finanças e do Plano, ao abrigo do artigo 11.º do [Decreto-Lei n.º 408/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1979-365506), de 25 de Setembro, o seguinte:\n\n1.º O cartão de responsabilidade civil referido no artigo 11.º do [Decreto-Lei n.º 408/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1979-365506), de 25 de Setembro, pode consubstanciar-se num recibo que, contendo os elementos prescritos no n.º 1.º da [Portaria n.º 650/79](https://diariodarepublica.pt/dr/detalhe/portaria/650-1979-366663), de 6 de Dezembro, ou no n.º 2.º da [Portaria n.º 558/84](https://diariodarepublica.pt/dr/detalhe/portaria/558-1984-381542), de 3 de Agosto, se encontre devidamente validado através da aposição de uma vinheta com o símbolo da seguradora ou da vinheta dos CTT.\n\n2.º As seguradoras que pretendam adoptar o sistema previsto no número anterior devem utilizar, para cobrança dos prémios de seguro de responsabilidade civil automóvel, avisos-recibos que podem ser liquidados quer nos seus escritórios quer nas estações dos CTT.\n\n3.º No momento da liquidação do prémio deverá ser entregue ao segurado o recibo com a respectiva vinheta oficial dos CTT ou com a vinheta com o símbolo da seguradora, que deve seguir o seguinte modelo:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23800/31993200.pdf)\n\n4.º Os recibos validados nos termos dos números anteriores devem, para todos os efeitos, ser considerados como prova da existência do seguro de responsabilidade civil automóvel.\n\n5.º Aos recibos referidos na presente portaria é aplicável o disposto nos n.os 3.º a 5.º da [Portaria n.º 650/79](https://diariodarepublica.pt/dr/detalhe/portaria/650-1979-366663), de 6 de Dezembro, cabendo ao Instituto de Seguros de Portugal controlar o seu cumprimento pelas seguradoras.\n\n6.º O disposto no presente diploma entra em vigor no primeiro dia do terceiro mês seguinte à data da sua publicação.\n\nMinistérios da Administração Interna e das Finanças e do Plano.\n\nAssinada em 2 de Outubro de 1984.\n\nO Ministro da Administração Interna, Eduardo Ribeiro Pereira. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes."
+  },
+  "31c5253b4c9e342f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1986-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), publicado em 1985-12-31.",
+    "Alterado pelo/a [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), publicado em 1985-12-31."
+   ],
+   "markdown": "de 13 de Outubro\n\nConsiderando que, com vista a facilitar a cobrança dos prémios de seguros, algumas seguradoras têm vindo a implementar um novo sistema que se traduz na adopção do aviso-recibo que pode ser liquidado quer nos escritórios da própria seguradora quer nas estações dos CTT, devendo essa cobrança ser comprovada através da aposição de uma vinheta com o símbolo da seguradora ou com a vinheta oficial dos CTT;\n\nConsiderando que, no que concerne ao ramo automóvel, haverá toda a conveniência, quer para o segurado quer para a seguradora, que um recibo, devidamente validado com a aposição das referidas vinhetas, possa funcionar como cartão de responsabilidade civil, constituindo, para os efeitos do artigo 11.º do [Decreto-Lei n.º 408/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1979-365506), de 25 de Setembro, prova da realização do seguro de responsabilidade civil;\n\nVerificando-se ainda a necessidade de definir os elementos que devem constar do aviso-recibo em causa, sob pena de as autoridades fiscalizadoras da existência do seguro obrigatório terem a sua acção consideravelmente dificultada:\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelos Ministros da Administração Interna e das Finanças e do Plano, ao abrigo do artigo 11.º do [Decreto-Lei n.º 408/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1979-365506), de 25 de Setembro, o seguinte:\n\n1.º - (Revogado.)\n\n2.º - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), publicado em 1985-12-31.\n\n3.º No momento da liquidação do prémio deverá ser entregue ao segurado o recibo com a respectiva vinheta oficial dos CTT ou com a vinheta com o símbolo da seguradora, que deve seguir o seguinte modelo:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23800/31993200.pdf)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n6.º - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 522/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1985-546457), publicado em 1985-12-31.\n\nMinistérios da Administração Interna e das Finanças e do Plano.\n\nAssinada em 2 de Outubro de 1984.\n\nO Ministro da Administração Interna, Eduardo Ribeiro Pereira. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes."
+  }
+ }
+}

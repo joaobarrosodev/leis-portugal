@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-01-01'
+version_history:
+  file: portaria-923-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-09-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-01-01'
+    amending: pt:dre:496132:por
+    amending_title: Decreto-Lei n.º 19/94
+    changes:
+    - Altera Artigo unidades 70-70
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/923/1992/09/24/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:38:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 19/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-923-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -246,7 +261,9 @@ a) Investimento em activo fixo corpóreo, incluindo terrenos, até 10% do custo 
 
 b) Investimento em activo fixo incorpóreo e despesas com aquisição de software para a gestão, incluindo as aplicações administrativo-contabilísticas, estando limitado apenas às despesas com aquisições de serviços relativas a estudos e assistência técnica relacionadas com o projecto.
 
-2 - Não poderão ser apoiadas despesas com aquisições de veículos ligeiros de passageiros.
+2 - Não poderão ser apoiadas despesas com aquisições de veículos automóveis.
+
+> Alterado pelo/a [Decreto-Lei n.º 19/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1994-496132), publicado em 1994-01-25.
 
 3 - Não poderão ser apoiadas despesas com aquisições de equipamentos usados, a não ser em condições excepcionais, devidamente fundamentadas pelo promotor do projecto.
 

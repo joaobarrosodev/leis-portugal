@@ -28,10 +28,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-12-10'
+version_history:
+  file: portaria-352-a-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-07-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-12-10'
+    amending: pt:dre:473700:por
+    amending_title: Portaria n.º 338/80; Portaria n.º 1041/80
+    changes:
+    - Altera Artigo unidades 17-20
+    - Altera Artigo unidades 21-21
+    - Altera Artigo unidades 32-33
+    - Altera Artigo unidades 47-47
+    - Altera Artigo unidades 49-50
+    - Altera Artigo unidades 71-71
 identifiers:
   celex: null
   eli: null
@@ -57,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:56:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 338/80; Portaria n.º
+    1041/80. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-352-a-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,15 +166,13 @@ e) Ficha profissional modelo n.º 433-A, editada pela Imprensa Nacional-Casa da 
 
 5 - Sempre que for possível, as direcções dos distritos escolares divulgarão também aquela data através dos meios de comunicação social da sua área.
 
-6 - Expirado o prazo referido no n.º 3 desta portaria, as direcções dos distritos escolares apreciarão as reclamações e elaborarão seguidamente a lista definitiva, que já deverá incluir as colocações atribuídas de acordo com:
+6 - Expirado o prazo referido no n.º 3 desta portaria, as direcções dos distritos escolares apreciarão as reclamações e elaborarão seguidamente a lista definitiva, que já deverá incluir as colocações atribuídas de acordo com os lugares vagos criados, lugares a afectar às escolas e lugares conhecidos até 31 de Julho como disponíveis para todo o ano lectivo seguinte, uns e outros com decisão de funcionamento para esse mesmo ano, tomada desde o apuramento final de matrículas até 31 de Julho, à excepção daqueles que forem atribuídos aos titulares de lugares suspensos e extintos.
 
-a) Os lugares vagos criados e os lugares a afectar às escolas para o ano lectivo seguinte, uns e outros previstos como necessários no apuramento final das matrículas, excepto aqueles que forem atribuídos aos titulares de lugares suspensos ou extintos;
+> Alterado pelo/a [Portaria n.º 338/80](https://diariodarepublica.pt/dr/detalhe/portaria/338-1980-473700), publicado em 1980-06-21.
 
-b) Os lugares providos conhecidos até 10 de Julho como disponíveis para todo o ano lectivo seguinte e cujo funcionamento haja sido previsto como necessário no apuramento final das matrículas, excepto aqueles que forem atribuídos aos titulares de lugares suspensos ou extintos;
+7 - Aos professores que vierem a obter colocação em resultado do concurso ao abrigo da preferência conjugal será passado alvará até ao dia 20 de Agosto.
 
-c) Os lugares vagos criados, ou os lugares a afectar às escolas e os lugares providos conhecidos até 10 de Julho como disponíveis para o ano lectivo seguinte, todos eles tidos como necessários após o apuramento final das matrículas e até 10 de Julho, por motivos de matrículas fora de prazo feitas entre essas datas, excepto aqueles que forem atribuídos aos titulares de lugares suspensos ou extintos.
-
-7 - Aos professores que vierem a obter colocação em resultado do concurso ao abrigo da preferência conjugal será passado alvará até ao final do mês de Julho.
+> Alterado pelo/a [Portaria n.º 338/80](https://diariodarepublica.pt/dr/detalhe/portaria/338-1980-473700), publicado em 1980-06-21.
 
 8 - Os professores referidos no número anterior que pertençam ao mesmo distrito escolar farão no dia 1 de Setembro a sua apresentação na escola mencionada no alvará. Tratando-se de professores de outro distrito escolar, devem os mesmos solicitar à respectiva direcção a passagem de uma guia de marcha, contra entrega do alvará recebido, para que, naquela data, possam igualmente fazer a sua apresentação oficial na escola.
 
@@ -176,9 +194,11 @@ c) Declaração de que desejam inscrever-se noutro distrito, se tal for o caso, 
 
 12 - Expirado o prazo de reclamações à lista ordenada provisória dos candidatos à recondução, será elaborada a lista definitiva, a qual incluirá as colocações atribuídas, tendo em conta:
 
-a) Todos os lugares referidos nas alíneas do n.º 6 desta portaria que não tenham sido preenchidos ao abrigo do concurso da preferência conjugal;
+a) Os lugares referidos no n.º 6 que não tenham sido preenchidos no concurso a que o mesmo diz respeito;
 
-b) Os lugares vagos criados, os lugares a afectar às escolas e os lugares providos conhecidos desde 11 a 18 de Julho como disponíveis para todo o ano lectivo seguinte, uns e outros tidos como necessários, dentro de idêntico período, por razão de matrículas fora do prazo, feitas entre essas datas.
+b) Os lugares vagos criados, os lugares a afectar às escolas e os lugares providos, conhecidos desde 1 a 10 de Agosto como disponíveis para todo o ano lectivo seguinte, uns e outros com decisão de funcionamento para esse mesmo ano, tomada entre aquelas datas.
+
+> Alterado pelo/a [Portaria n.º 338/80](https://diariodarepublica.pt/dr/detalhe/portaria/338-1980-473700), publicado em 1980-06-21.
 
 13 - Aos professores que vierem a obter recondução será passado alvará nos primeiros dias do mês de Setembro, devendo fazer a sua apresentação imediatamente, excepto aqueles que se encontrarem em gozo de licença para férias, aos quais será aplicado o disposto no n.º 9 desta portaria.
 
@@ -206,13 +226,17 @@ a) Os escalões de preferência definidos no n.º 1 do artigo 13.º do [Decreto-
 
 b) A graduação profissional e demais prioridades fixadas de acordo com as normas estabelecidas para o concurso ao quadro geral;
 
-c) O disposto no artigo 4.º do [Decreto-Lei n.º 111/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1976-506643), de 7 de Fevereiro, tratando-se de candidatos habilitados com os cursos especiais criados por este decreto-lei.
+c) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 338/80](https://diariodarepublica.pt/dr/detalhe/portaria/338-1980-473700), publicado em 1980-06-21.
 
 17 - A lista provisória referida no número anterior será afixada até 14 de Agosto, juntamente com a relação:
 
-a) De todos os lugares referidos nas alíneas dos n.os 6 e 12 desta portaria que não tenham sido preenchidos ao abrigo dos concursos a que os mesmos dizem respeito;
+a) Dos lugares referidos nos n.os 6 e 12 que não tenham sido preenchidos nos concursos a que os mesmos dizem respeito;
 
-b) De lugares vagos criados, lugares a afectar às escolas e lugares providos conhecidos como disponíveis desde 19 de Julho até à data de afixação da lista provisória, uns e outros tidos como necessários, para o ano lectivo seguinte, de 19 de Julho até à afixação da lista ordenada provisória dos concorrentes, por razão de matrículas fora de prazo, feitas entre essas datas.
+b) Dos lugares vagos criados, dos lugares a afectar às escolas e dos lugares providos, conhecidos desde 11 a 14 de Agosto como disponíveis para todo o ano lectivo seguinte, uns e outros com decisão de funcionamento para esse mesmo ano, tomada entre aquelas datas.
+
+> Alterado pelo/a [Portaria n.º 338/80](https://diariodarepublica.pt/dr/detalhe/portaria/338-1980-473700), publicado em 1980-06-21.
 
 18 - A relação de lugares correspondentes às alíneas do número anterior poderá ser actualizada até 14 de Agosto se a sua afixação tiver sido feita antes desta data.
 
@@ -254,7 +278,9 @@ Do preenchimento dos lugares que venham a ficar vagos ou disponíveis após o en
 
 32 - O estabelecido no número anterior não contraria o que se dispõe no n.º 26 desta portaria relativamente às colocações de professores nas escolas das regiões autónomas.
 
-33 - No movimento que em cada escola seja preciso efectuar, ao longo do ano lectivo, de professores colocados ao abrigo do artigo 20.º do [Decreto-Lei n.º 214/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1979-382178), será respeitada sempre a posição que os mesmos ocupam na respectiva lista ordenada e os direitos daí decorrentes, tendo em vista que os concursos e as colocações respeitam a escolas e não a lugares.
+33 - No movimento que em cada escola seja preciso efectuar, ao longo do ano lectivo, de professores colocados ao abrigo do artigo 20.º do [Decreto-Lei n.º 214/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1979-382178), com a redacção dada pelo [Decreto-Lei n.º 211/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1980-471734), de 5 de Julho, procurar-se-á assegurar, tendo em conta o primado da pedagogia, a continuidade do ensino pelo mesmo docente, sem prejuízo dos direitos decorrentes da posição que outros professores ocupam na respectiva lista ordenada, assegurando-se, em consequência, a imediata colocação dos que for necessário deslocar, garantindo-lhes a continuidade da sua prestação de serviço e consequente contagem do mesmo para todos os efeitos legais, nomeadamente abono de vencimentos.
+
+> Alterado pelo/a [Portaria n.º 1041/80](https://diariodarepublica.pt/dr/detalhe/portaria/1041-1980-459639), publicado em 1980-12-10.
 
 V
 

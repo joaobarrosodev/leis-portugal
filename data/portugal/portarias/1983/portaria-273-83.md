@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-08-01'
+version_history:
+  file: portaria-273-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-03-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-08-01'
+    amending: pt:dre:381741:por
+    amending_title: Portaria n.º 547/84
+    changes:
+    - Altera Artigo unidades 86-141
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:36:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 547/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-273-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -271,117 +286,11 @@ Teoria da Literatura.
 
 Cultura Portuguesa.
 
-4.º
+4.º - (Revogado.)
 
-(Licenciatura em Línguas e Literaturas Modernas Variante de Estudos Franceses e Portugueses)
+5.º - (Revogado.)
 
-O plano de estudos da variante de Estudos Franceses e Portugueses da licenciatura em Línguas e Literaturas Modernas pela Faculdade de Letras da Universidade de Coimbra passa a ser o seguinte:
-
-1.º ano:
-
-Introdução aos Estudos Linguísticos.
-
-Introdução aos Estudos Literários.
-
-Francês I.
-
-Inglês I.
-
-Cultura Francesa.
-
-2.º ano:
-
-Francês II.
-
-Inglês II.
-
-Linguística Inglesa.
-
-Literatura Francesa I.
-
-Literatura Inglesa I.
-
-Cultura Inglesa.
-
-3.º ano:
-
-Francês III.
-
-Inglês III.
-
-Literatura Francesa II.
-
-Literatura Inglesa II.
-
-Literatura Norte-Americana.
-
-4.º ano:
-
-Francês IV (Língua e Linguística).
-
-Inglês IV.
-
-Literatura Francesa III ou Literatura Inglesa III.
-
-Teoria da Literatura.
-
-Opção.
-
-5.º
-
-(Licenciatura em Línguas e Literaturas Modernas Variante de Estudos Franceses e Alemães)
-
-O plano de estudos da variante de Estudos Franceses e Alemães da licenciatura em Línguas e Literaturas Modernas pela Faculdade de Letras da Universidade de Coimbra passa a ser o seguinte:
-
-1.º ano:
-
-Introdução aos Estudos Linguísticos.
-
-Introdução aos Estudos Literários.
-
-Francês I.
-
-Alemão I.
-
-Cultura Francesa.
-
-2.º ano:
-
-Francês II.
-
-Alemão II.
-
-Literatura Francesa I.
-
-Literatura Alemã I.
-
-Cultura Alemã.
-
-3.º ano:
-
-Francês III.
-
-Alemão III.
-
-Linguística Alemã.
-
-Literatura Francesa II.
-
-Literatura Alemã II.
-
-Opção.
-
-4.º ano:
-
-Francês IV (Língua e Linguística).
-
-Alemão IV.
-
-Literatura Francesa III ou Literatura Alemã III.
-
-Teoria da Literatura.
-
-Opção.
+> Alterado pelo/a [Portaria n.º 547/84](https://diariodarepublica.pt/dr/detalhe/portaria/547-1984-381741), publicado em 1984-08-01.
 
 6.º
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-02-24'
+version_history:
+  file: portaria-18-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-01-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-02-24'
+    amending: pt:dre:414224:por
+    amending_title: Portaria n.º 80/2000
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:14:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 80/2000. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-18-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,7 +173,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 1.º Ficam sujeitas ao regime cinegético especial as propriedades englobadas pela poligonal constante da planta anexa, denominadas «Herdade da Defesa da Bobadela de Baixo» e «Herdade da Defesa da Bobadela de Cima», situadas na freguesia de Capelins, concelho de Alandroal, perfazendo uma área total de 1521,7000 ha.
 
-2.º Nesta área, até 31 de Maio de 2001, é concessionada à SOCAÇA - Coutadas da Bobadela, Lda., a exploração de uma zona de caça turística (processo n.º 146 da Direcção-Geral das Florestas).
+2.º Nesta área, até 14 de Outubro de 2001, é concessionada à SOCAÇA - Coutadas da Bobadela, Lda., a exploração de uma zona de caça turística (processo n.º 146 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 80/2000](https://diariodarepublica.pt/dr/detalhe/portaria/80-2000-414224), publicado em 2000-02-19.
 
 3.º Nesta zona de caça e facultado o exercício venatório a todos os caçadores em igualdade de circunstâncias, quando devidamente licenciados pela entidade gestora.
 

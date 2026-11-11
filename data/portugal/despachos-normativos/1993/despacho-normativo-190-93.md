@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-20'
+version_history:
+  file: despacho-normativo-190-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-08-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-20'
+    amending: pt:dre:649078:por
+    amending_title: Despacho Normativo n.º 56/97
+    changes:
+    - Altera Artigo unidades 23-30
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/190/1993/08/09/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:02:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 56/97. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-190-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -160,18 +175,20 @@ Ministérios da Defesa Nacional, da Educação e do Emprego e da Segurança Soci
 
 ## ANEXO — Estrutura curricular dos cursos de alistamento de electrotécnicos e maquinistas navais
 
-A.1 - Curso de alistamento de electrotécnicos:
+A.1. - Curso de alistamento de electrotécnicos:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/185b00/42464247.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/213b00/49424944.pdf)
 
-A.2 - Equiparação ao nível 3 de qualificação profissional e equivalência ao 12.º ano de escolaridade:
+A.2. - Equiparação ao nível 3 da qualificação profissional e equivalência ao 12.º ano de escolaridade:
 
-Curso de alistamento de electrotécnico - técnico de electrónica
+Curso de alistamento de electrotécnico - técnico de electrónica.
 
-B.1 - Curso de alistamento de maquinistas navais:
+B.1. - Curso de alistamento de maquinistas navais:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/185b00/42464247.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/213b00/49424944.pdf)
 
-B.2 - Equiparação ao nível 3 de qualificação profissional e equivalência ao 12.º ano de escolaridade:
+B.2. - Equiparação ao nível 3 da qualificação profissional e equivalência ao 12.º ano de escolaridade:
 
 Curso de alistamento de maquinistas navais - técnico de mecânica/máquinas marítimas.
+
+> Alterado pelo/a [Despacho Normativo n.º 56/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/56-1997-649078), publicado em 1997-09-15.

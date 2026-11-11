@@ -37,10 +37,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-04-23'
+version_history:
+  file: portaria-626-c-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-11-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-04-23'
+    amending: pt:dre:444445:por
+    amending_title: Portaria n.º 268-A/97
+    changes:
+    - Altera Artigo unidades 30-31
+    - Adita Artigo depois da unidade 33
+    - Altera Artigo unidades 40-40
+    - Altera Artigo unidades 45-45
+    - Altera Artigo unidades 48-48
+    - Adita Artigo depois da unidade 48
+    - Altera Artigo unidades 60-60
+    - Altera Artigo unidades 69-71
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/626-c/1996/11/04/p/dre/pt/html
@@ -66,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:35:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 268-A/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-626-c-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -177,13 +199,27 @@ b) As referências dos nacionais cujos processos não tenham tido movimentação
 
 6 - Os boletins de voto são de forma rectangular, com as dimensões apropriadas para neles caber a indicação de todas as listas submetidas à votação em cada círculo, e são impressos ou fotocopiados em papel branco, igual, liso e não transparente.
 
-7 - Em cada boletim de voto são impressas as letras correspondentes às listas, incluindo outras designações que eventualmente lhes tenham sido atribuídas, dispostas horizontalmente, umas abaixo das outras, pela ordem resultante do sorteio efectuado nos termos do n.º 1.
+7 - Para além de eventual autenticação, através de carimbo aposto a tinta azul pelo respectivo consulado, da indicação da eleição e do círculo eleitoral de que se trata, o boletim de voto deve conter os seguintes elementos relativos a cada lista apresentada a votação:
 
-8 - Na linha correspondente a cada lista figura um quadrado em branco, destinado a ser assinalado com a escolha do eleitor.
+a) Letra que lhe coube no sorteio a que se refere o n.º 10.º, n.º 3;
+
+b) Outra designação que, eventualmente, lhe tenha sido atribuída;
+
+c) Nomes dos candidatos, pelo menos no que se refere aos efectivos;
+
+d) Designação da organização não governamental de portugueses no estrangeiro pelo qual os candidatos sejam propostos, com indicação da área consular da respectiva sede ou lugar onde exerce actividade, ou, sendo caso disso, a designação de 'independente'.
+
+8 - Os elementos relativos a cada lista apresentada a votação referidos no número anterior são dispostos no boletim de voto, sequencialmente, pela ordem resultante do sorteio efectuado nos termos do n.º 1, com o arranjo gráfico mais adequado ao número de listas concorrentes e ao número de elementos de cada lista, figurando, no espaço destinado a cada uma, um quadrado em branco destinado a assinalar a escolha do eleitor.
+
+> Alterado pelo/a [Portaria n.º 268-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-1997-444445), publicado em 1997-04-18.
 
 9 - A multiplicação dos boletins de voto e a respectiva entrega ou remessa, em número igual ao dos eleitores inscritos na assembleia ou secção de voto, mais 20%, em sobrescrito fechado e lacrado, aos presidentes das mesas que funcionem na sua área de jurisdição é da responsabilidade dos cônsules de Portugal ou de quem desempenhe as suas funções.
 
 10 - A difusão ou distribuição dos boletins de voto não poderá ter início antes de 23 de Abril de 1997.
+
+11 - À entrada de cada sala onde tenha lugar o acto eleitoral, do lado de fora da porta, são afixadas as listas na sua forma completa, incluindo nomes e referências de todos os candidatos, efectivos e suplentes.
+
+> Aditado pelo/a [Portaria n.º 268-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-1997-444445), publicado em 1997-04-18.
 
 11.º - 1 - Até 20 de Março de 1997, os cônsules de Portugal designam os representantes dos respectivos postos nas comissões eleitorais a que se refere o artigo 9.º da [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro.
 
@@ -197,7 +233,9 @@ b) As referências dos nacionais cujos processos não tenham tido movimentação
 
 a) Possa como tal ser considerada de acordo com o n.º 3 do artigo 1.º da mesma lei;
 
-b) Se encontre localizada em zona considerada de fácil acesso para um número de eleitores que se presume não inferior a 1000;
+b) Se encontre localizada em zona considerada de fácil acesso para um mínimo de 1000 eleitores, número que poderá ser inferior se a comissão eleitoral considerar de atender fundamentos que lhe sejam apresentados para o efeito, designadamente em matéria de segurança, de distância geográfica ou de dificuldade de acesso ou de transporte;
+
+> Alterado pelo/a [Portaria n.º 268-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-1997-444445), publicado em 1997-04-18.
 
 c) Seja considerada, por todos os elementos da comissão eleitoral, idónea para o efeito, tendo em conta o disposto no n.º 4 do artigo 12.º;
 
@@ -207,13 +245,21 @@ e) Declare que a realização do acto eleitoral na sua sede não envolve encargo
 
 3 - As organizações não governamentais que pretendam apresentar candidatura à realização do acto eleitoral na respectiva sede devem fazê-lo perante a comissão eleitoral até 27 de Março de 1997, para efeitos de deliberação desta.
 
-4 - Em caso de manifesta impossibilidade de as instalações consulares poderem abrir ao público no dia das eleições, a comissão eleitoral delibera sobre o local em que as mesmas terão lugar, à luz dos critérios referidos no n.º 10.º, n.º 2.
+4 - Em caso de impossibilidade de o acto eleitoral poder ter lugar nas instalações consulares, designadamente por estas não poderem abrir ao público no dia das eleições, a comissão eleitoral delibera sobre o local em que as mesmas terão lugar, à luz dos critérios referidos no n.º 2.
+
+> Alterado pelo/a [Portaria n.º 268-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-1997-444445), publicado em 1997-04-18.
 
 5 - O presidente da comissão eleitoral, até 3 de Abril de 1997, notifica as organizações não governamentais que apresentaram candidatura à realização do acto eleitoral na respectiva sede da deliberação daquela comissão eleitoral sobre a aceitação ou recusa, acompanhada da respectiva justificação.
 
 6 - A partir de 3 de Abril de 1997, as autoridades portuguesas, o cônsul de Portugal e os representantes das listas divulgam junto da comunidade portuguesa o local em que funcionarão a assembleia eleitoral e os seus eventuais desdobramentos, também designados secções de voto.
 
-7 - Nos casos em que se verifique desdobramento da assembleia eleitoral e salvo quando o número de eleitores constantes nos cadernos eleitorais de um posto consular seja inferior, os cadernos eleitorais serão divididos de modo que cada volume contenha as referências de, pelo menos, 1000 eleitores.
+7 - Sem prejuízo dos ajustamentos decorrentes da parte final da alínea b) do n.º 2 e do n.º 8, bem como das situações em que o número de eleitores constantes nos cadernos eleitorais de um posto consular seja inferior, nos casos em que se verifique desdobramento da assembleia eleitoral, os cadernos eleitorais serão divididos de modo que cada volume contenha as referências de, pelo menos, 1000 eleitores.
+
+> Alterado pelo/a [Portaria n.º 268-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-1997-444445), publicado em 1997-04-18.
+
+8 - Em situações de natureza excepcional, por proposta fundamentada do respectivo cônsul e com a concordância da maioria de dois terços das listas candidatas no círculo eleitoral de que se trate, poderá o Secretário de Estado das Comunidades Portuguesas, sem prejuízo e critérios de rigor e fiabilidade, autorizar a realização do acto eleitoral com dispensa dos requisitos previstos na alínea d) do n.º 12.º, n.º 2.
+
+> Aditado pelo/a [Portaria n.º 268-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-1997-444445), publicado em 1997-04-18.
 
 13.º - 1 - O período de campanha eleitoral inicia-se em 1 de Abril de 1997 e finda às 24 horas de 25 de Abril de 1997.
 
@@ -237,7 +283,9 @@ e) Declare que a realização do acto eleitoral na sua sede não envolve encargo
 
 16.º - 1 - Constituída a mesa, o presidente declara iniciadas as operações eleitorais, procede com os restantes membros da mesa e os delegados das listas à revista da câmara de voto e dos documentos de trabalho da mesa e exibe a urna perante os presentes, para que todos possam verificar que está vazia.
 
-2 - Não havendo nenhuma irregularidade, votam imediatamente os membros da mesa, desde que se encontrem inscritos nessa assembleia ou secção de voto.
+2 - Não havendo nenhuma irregularidade, votam imediatamente os membros da mesa e os representantes das listas que se encontrem inscritos nos cadernos eleitorais dessa assembleia ou secção de voto ou que exibam certidão de eleitor emitida pelo consulado em que estão inscritos e de cujos cadernos eleitorais constem.
+
+> Alterado pelo/a [Portaria n.º 268-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-1997-444445), publicado em 1997-04-18.
 
 3 - A assembleia eleitoral é considerada em funcionamento até serem concluídas todas as operações de votação e apuramento.
 
@@ -255,11 +303,13 @@ e) Declare que a realização do acto eleitoral na sua sede não envolve encargo
 
 4 - Reconhecido o eleitor, o presidente diz em voz alta o seu número de inscrição consular e o seu nome e, depois de verificada a inscrição, entrega-lhe o boletim de voto.
 
-5 - Em seguida, o eleitor dirige-se ao local de voto situado na assembleia ou secção de voto em zona em que é assegurada privacidade, e aí, sozinho, marca uma cruz no quadrado respectivo da lista em que vota e dobra o boletim em quatro.
+5 - Em seguida, o eleitor dirige-se ao local de voto situado na assembleia ou secção de voto em zona em que é assegurada privacidade, e aí, sozinho, marca uma cruz no quadrado respectivo da lista em que vota e dobra o boletim de voto em quatro ou oito, conforme a respectiva dimensão.
 
-6 - Enquanto o eleitor vota, o presidente copia as referências do documento utilizado para a identificação para o correspondente espaço do caderno eleitoral, ou, no caso do n.º 2, colhe, no mesmo espaço, as rubricas de dois eleitores que tenham procedido ao reconhecimento.
+6 - Enquanto o eleitor vota, o presidente copia os elementos pertinentes do documento utilizado para a identificação para os correspondentes espaços da folha de caderno eleitoral de que se trate, e, no caso do n.º 2, colhe, no local destinado à referenciação, as rubricas de dois eleitores que tenham procedido ao reconhecimento.
 
-7 - Voltando para junto da mesa, o eleitor entrega o boletim ao presidente, que o introduz na urna, enquanto os escrutinadores descarregam o voto, rubricando, com o eleitor, os cadernos eleitorais na coluna a isso destinada e na linha correspondente ao nome do eleitor.
+7 - Voltando para junto da mesa, o eleitor entrega o boletim de voto ao presidente, que o introduz na urna, enquanto os escrutinadores descarregam o voto, rubricando a folha de caderno eleitoral de que se trate, na coluna a isso destinada e na linha correspondente ao nome do eleitor, o qual, se puder, também rubricará no lugar próprio, devendo constar da acta todos os casos de impossibilidade.
+
+> Alterado pelo/a [Portaria n.º 268-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-1997-444445), publicado em 1997-04-18.
 
 8 - Se, por inadvertência, o eleitor deteriorar o boletim, deve pedir outro ao presidente, devolvendo-lhe o primeiro.
 

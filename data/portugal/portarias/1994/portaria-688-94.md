@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-06-10'
+version_history:
+  file: portaria-688-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-06-10'
+    amending: pt:dre:584818:por
+    amending_title: Portaria n.º 745-O/96; Portaria n.º 345/98
+    changes:
+    - Altera Artigo unidades 28-30
+    - Altera Artigo unidades 31-39
+    - Altera Artigo unidades 40-53
+    - Altera Artigo unidades 54-89
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/688/1994/07/22/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:35:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 745-O/96; Portaria n.º
+    345/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-688-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -182,129 +200,29 @@ Limites das ajudas
 
 2 - Só podem ser concedidas ajudas quando o respectivo encargo tiver cabimento na dotação orçamental do regime de ajudas instituído pelo presente diploma.
 
-5.º
+5.º - (Revogado.)
 
-Gestão
+> Alterado pelo/a [Portaria n.º 345/98](https://diariodarepublica.pt/dr/detalhe/portaria/345-1998-475973), publicado em 1998-06-05.
 
-A gestão das medidas agro-ambientais é assegurada por uma unidade de gestão nacional e, ao nível de cada direcção regional de agricultura (DRA), por unidades de gestão regionais.
+6.º - (Revogado.)
 
-6.º
+> Alterado pelo/a [Portaria n.º 745-O/96](https://diariodarepublica.pt/dr/detalhe/portaria/745-o-1996-584818), publicado em 1996-12-18.
 
-Composição da unidade de gestão nacional
+7.º - (Revogado.)
 
-1 - A unidade de gestão nacional tem a seguinte composição:
+> Alterado pelo/a [Portaria n.º 345/98](https://diariodarepublica.pt/dr/detalhe/portaria/345-1998-475973), publicado em 1998-06-05.
 
-a) Um representante do Instituto de Estruturas Agrárias e Desenvolvimento Rural (IEADR), que preside;
+8.º - (Revogado.)
 
-b) Um representante do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP);
+9.º - (Revogado.)
 
-c) Um representante do Instituto de Protecção da Produção Agro-Alimentar;
+10.º - (Revogado.)
 
-d) Um representante do Instituto Florestal (IF);
+11.º - (Revogado.)
 
-e) Um representante do Instituto da Conservação da Natureza (ICN).
+12.º - (Revogado.)
 
-2 - Os membros referidos nas alíneas c), d) e e) do número anterior são considerados membros não permanentes, sendo convocados quando estiver em causa a apreciação de candidaturas respeitantes à sua área de atribuições.
-
-7.º
-
-Competências da unidade de gestão nacional
-
-Compete à unidade de gestão nacional o seguinte:
-
-a) Aprovar o seu regulamento interno;
-
-b) Coordenar as unidades de gestão regionais, nomeadamente estabelecendo com estas os circuitos de informação;
-
-c) Propor a afectação regional do orçamento deste regime de ajudas;
-
-d) Exercer a iniciativa de regulamentação da organização dos processos de candidatura;
-
-e) Estabelecer os critérios de prioridade propostos pelas unidades de gestão regionais;
-
-f) Verificar o cumprimento das condições estabelecidas nos n.os 3.º e 4.º;
-
-g) Seleccionar e aprovar candidaturas quando tal competência lhe seja atribuída no âmbito da regulamentação específica de cada medida;
-
-h) No âmbito das candidaturas referidas na alínea anterior, assegurar a respectiva cobertura orçamental;
-
-i) Assegurar o acompanhamento e a fiscalização das candidaturas aprovadas em colaboração com as DRA ou através de contratos com outras entidades e comunicar ao IFADAP as situações de incumprimento;
-
-j) Reunir e tratar toda a informação necessária à avaliação do impacte sócio-económico e estrutural resultante da execução das medidas e elaborar os respectivos relatórios;
-
-l) Praticar os demais actos necessários à regular e plena execução das ajudas.
-
-8.º
-
-Composição das unidades de gestão regionais
-
-1 - As unidades de gestão regionais têm a seguinte composição:
-
-a) Um representante da DRA;
-
-b) Um representante do IFADAP;
-
-c) Um representante do IF;
-
-d) Um representante do ICN.
-
-2 - Os representantes referidos nas alíneas c) e d) do número anterior são considerados membros não permanentes, sendo convocados quando estiver em causa a apreciação de candidaturas respeitantes à sua área de atribuições.
-
-9.º
-
-Competências das unidades de gestão regionais
-
-1 - Compete às unidades de gestão regionais:
-
-a) Aprovar o seu regulamento interno;
-
-b) Propor à unidade de gestão nacional o estabelecimento de critérios de prioridade para aprovação das candidaturas;
-
-c) Seleccionar e aprovar candidaturas quando tal competência lhe seja atribuída no âmbito da regulamentação específica de cada medida;
-
-d) No âmbito das candidaturas referidas na alínea anterior, assegurar a respectiva cobertura orçamental;
-
-e) Proceder ao acompanhamento e fiscalização das candidaturas aprovadas e verificar o cumprimento dos compromissos assumidos pelos beneficiários, por sua iniciativa ou a pedido da unidade de gestão nacional;
-
-f) Comunicar à unidade de gestão nacional as situações de incumprimento;
-
-g) Acompanhar a execução financeira regional da aplicação das ajudas;
-
-h) Elaborar o relatório de execução das medidas na respectiva área de actuação;
-
-i) Praticar os demais actos necessários à regular e plena execução das ajudas.
-
-2 - As deliberações das unidades de gestão regionais só se tornam definitivas e executórias após verificação pela unidade de gestão nacional de que se encontram reunidas as condições estabelecidas nos n.os 3.º e 4.º
-
-10.º
-
-Secretariados
-
-1 - As unidades de gestão nacional e regionais serão apoiadas no exercício das suas funções por um secretariado que funciona junto do organismo que assegure a respectiva presidência.
-
-2 - Compete aos secretariados, nomeadamente, o seguinte:
-
-a) Instruir e apreciar as candidaturas, verificando, designadamente, o respectivo enquadramento e o cumprimento das condições de acesso;
-
-b) Proceder ao tratamento informático das candidaturas;
-
-c) Preparar as reuniões das unidades de gestão;
-
-d) Enviar aos membros das unidades de gestão as listas das candidaturas, organizadas de acordo com os normativos estabelecidos por aquelas;
-
-e) Apoiar as unidades de gestão na preparação dos relatórios de execução das medidas e nos demais actos necessários à regular e plena execução das suas competências.
-
-11.º
-
-Vistorias
-
-Para efeitos da alínea a) do n.º 2 do número anterior, os serviços do Ministério da Agricultura efectuam visitas às áreas de incidência das candidaturas.
-
-12.º
-
-Constituição das unidades de gestão
-
-Os membros das unidades de gestão são designados por despacho do Ministro da Agricultura.
+> Alterado pelo/a [Portaria n.º 745-O/96](https://diariodarepublica.pt/dr/detalhe/portaria/745-o-1996-584818), publicado em 1996-12-18.
 
 Ministérios da Agricultura e do Ambiente e Recursos Naturais.
 

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-08-22'
+version_history:
+  file: portaria-346-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-08-22'
+    amending: pt:dre:378767:por
+    amending_title: Portaria n.º 448/79
+    changes:
+    - Altera Artigo unidades 18-18
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:38:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 448/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-346-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,7 +163,13 @@ c) Para os automóveis antigos de que trata a alínea d) - 2000 km de percurso e
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14800/11681173.pdf)
 
-5.º - É fixado em 50$00, a título de reembolso do custo do papel e impressão, o preço dos títulos de isenção modelo n.º 1 e dos dísticos modelos n.os 2 e 7.
+5.º A título de reembolso do custo do papel e impressão, são fixados:
+
+a) Em 60$00, o preço dos títulos de isenção modelo n.º 1 e dos dísticos modelos n.os 2 e 7;
+
+b) Em 2$50, o preço das declarações modelo n.º 11.
+
+> Alterado pelo/a [Portaria n.º 448/79](https://diariodarepublica.pt/dr/detalhe/portaria/448-1979-378767), publicado em 1979-08-22.
 
 6.º - 1 - Em conformidade com o disposto no artigo 2.º do [Decreto-Lei n.º 143/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1978-426138), de 12 de Junho, são aprovados os impressos modelos n.os 1 a 11, que ficam fazendo parte do Regulamento do Imposto sobre Veículos, aprovado pelo mesmo decreto-lei, e da presente portaria.
 

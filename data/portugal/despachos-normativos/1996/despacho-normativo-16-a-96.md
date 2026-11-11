@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-12-10'
+version_history:
+  file: despacho-normativo-16-a-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-04-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-12-10'
+    amending: pt:dre:563977:por
+    amending_title: Despacho Normativo n.º 4/97; Despacho Normativo n.º 71-A/97
+    changes:
+    - Altera Artigo unidades 59-59
+    - Altera Artigo unidades 69-72
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/16-a/1996/04/22/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:29:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 4/97; Despacho
+    Normativo n.º 71-A/97. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1996/despacho-normativo-16-a-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -245,7 +261,9 @@ Outras acções
 
 Apresentação das candidaturas e decisão
 
-1 - As candidaturas entregues na Direcção-Geral das Pescas até 31 de Maio serão objecto de decisão até 15 de Outubro e as entregues entre 31 de Maio e 30 de Setembro até 31 de Dezembro.
+1 - As candidaturas entregues na Direcção-Geral das Pescas e Aquicultura até 1 de Março serão objecto de decisão até 31 de Maio e as entregues entre 31 de Maio e 31 de Agosto até 31 de Outubro.
+
+> Alterado pelo/a [Despacho Normativo n.º 4/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-1997-563977), publicado em 1997-02-05.
 
 2 - A decisão sobre as candidaturas é da competência do membro do Governo responsável pelo sector das pescas.
 
@@ -265,13 +283,17 @@ Projectos de modernização - oito meses.
 
 Atribuição dos apoios
 
-1 - O apoio atribuído é entregue ao beneficiário após a realização de uma vistoria pela Direcção-Geral das Pescas, para confirmação da execução material do projecto, e da apresentação pelo beneficiário dos documentos de despesa definitivos que comprovem o investimento realizado.
+1 - O apoio atribuído é entregue ao beneficiário após a realização de uma vistoria pela Direcção-Geral das Pescas e Aquicultura, para confirmação da execução material do projecto, e da apresentação pelo beneficiário dos documentos de despesa definitivos que comprovem o investimento realizado.
 
-2 - A entrega do subsídio aprovado antes da conclusão material e financeira dos projectos só poderá verificar-se contra a apresentação de garantia bancária ou seguro-caução, válidos pelo período de um ano, contado a partir da notificação da aprovação do projecto, prestado pelo armador, estaleiro, casas fornecedoras ou associações de armadores.
+2 - A entrega do subsídio aprovado antes da conclusão material e financeira dos projectos só poderá verificar-se contra a apresentação de garantia bancária ou seguro-caução, prestado pelo armador, estaleiro, casas fornecedoras ou associações de armadores.
 
-3 - A libertação da garantia bancária ou do seguro-caução terá lugar após a confirmação pela Direcção-Geral das Pescas de que o projecto se encontra material e financeiramente concluído e mediante vistoria a realizar para o efeito.
+3 - A libertação da garantia bancária ou do seguro-caução terá lugar após a confirmação pela Direcção-Geral das Pescas e Aquicultura de que o projecto se encontra material e financeiramente concluído e mediante vistoria a realizar para o efeito.
 
-4 - A não utilização, sem justificação aceite pelo membro do Governo responsável pelo sector das pescas, dos subsídios concedidos através do SIPESCA determina o impedimento de apresentação de nova candidatura a apoio financeiro no âmbito deste Sistema de Incentivos no período da sua vigência.
+4 - O beneficiário comparticipará nas despesas inerentes ao acompanhamento com o valor de 1% sobre o montante do subsídio ilíquido atribuído.
+
+5 - A não utilização, sem justificação aceite pelo membro do Governo responsável pelo sector das pescas, dos subsídios concedidos através do SIPESCA determina o impedimento de apresentação de nova candidatura a apoio financeiro no âmbito deste Sistema de Incentivos no período da sua vigência.
+
+> Alterado pelo/a [Despacho Normativo n.º 71-A/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/71-a-1997-305581), publicado em 1997-12-05.
 
 10.º
 

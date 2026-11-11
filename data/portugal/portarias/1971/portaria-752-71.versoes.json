@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:368260:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "27e881c208bd2c9a"
+   ]
+  },
+  {
+   "date": "1982-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:393048:por",
+     "title": "Portaria n.º 448/82",
+     "published": "1982-04-30",
+     "dre_path": "/dr/detalhe/portaria/448-1982-393048"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-5"
+   ],
+   "fragments": [
+    "87d40603ea173eab"
+   ]
+  }
+ ],
+ "fragments": {
+  "27e881c208bd2c9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Informação e Turismo e sob proposta da Comissão Regional de Turismo da Serra da Arrábida, ao abrigo do disposto no § 1.º do artigo 14.º do [Decreto n.º 41035](https://diariodarepublica.pt/dr/detalhe/decreto/41035-1957-653691), de 20 de Março de 1957, o seguinte:\n\nÉ aprovado o quadro de pessoal da Comissão Regional de Turismo da Serra da Arrábida, assim constituído, o qual substitui o anteriormente aprovado:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/30401/00050005.pdf)\n\nO Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista."
+  },
+  "87d40603ea173eab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1982-04-30",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 448/82](https://diariodarepublica.pt/dr/detalhe/portaria/448-1982-393048), publicado em 1982-04-30."
+   ],
+   "markdown": "de 31 de Dezembro\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Informação e Turismo e sob proposta da Comissão Regional de Turismo da Serra da Arrábida, ao abrigo do disposto no § 1.º do artigo 14.º do [Decreto n.º 41035](https://diariodarepublica.pt/dr/detalhe/decreto/41035-1957-653691), de 20 de Março de 1957, o seguinte:\n\nÉ aprovado o quadro de pessoal da Comissão Regional de Turismo da Serra da Arrábida, assim constituído, o qual substitui o anteriormente aprovado:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/10000/10991100.pdf)\n\n> Alterado pelo/a [Portaria n.º 448/82](https://diariodarepublica.pt/dr/detalhe/portaria/448-1982-393048), publicado em 1982-04-30.\n\nO Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista."
+  }
+ }
+}

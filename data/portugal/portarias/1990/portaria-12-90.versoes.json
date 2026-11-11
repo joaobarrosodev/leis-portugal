@@ -1,0 +1,114 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:313790:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1990-01-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c8cff62a1177e5b8",
+    "0f038832c173b804",
+    "bbc2be715c845bbf",
+    "425775b6881cc8eb"
+   ]
+  },
+  {
+   "date": "2001-02-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:218694:por",
+     "title": "Portaria n.º 765/94",
+     "published": "1994-08-23",
+     "dre_path": "/dr/detalhe/portaria/765-1994-218694"
+    },
+    {
+     "id": "pt:dre:386218:por",
+     "title": "Portaria n.º 122/2001",
+     "published": "2001-02-23",
+     "dre_path": "/dr/detalhe/portaria/122-2001-386218"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 14-15",
+    "Altera Artigo unidades 18-18",
+    "Altera Artigo unidades 20-29"
+   ],
+   "fragments": [
+    "c8cff62a1177e5b8",
+    "5a247429e409d028",
+    "aceb4899ddb68a61",
+    "2157aa31d7691974"
+   ]
+  }
+ ],
+ "fragments": {
+  "c8cff62a1177e5b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Janeiro\n\nTendo em consideração que pelo [Decreto-Lei n.º 70/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1989-612857), de 2 de Março, foi definida a Lei Orgânica da Agência de Controlo das Ajudas Comunitárias ao Sector do Azeite (ACACSA), estipulando o seu artigo 17.º que o quadro de pessoal será aprovado por portaria do Ministro da Agricultura, Pescas e Alimentação:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo do disposto no referido artigo 17.º do citado [Decreto-Lei n.º 70/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1989-612857), de 2 de Março, o seguinte:\n\n1.º É aprovado o quadro de pessoal da Agência de Controlo das Ajudas Comunitárias ao Sector do Azeite (ACACSA), do qual fazem parte integrante os anexos I, II e III à presente portaria.\n\n2.º De harmonia com o disposto no artigo 18.º do mencionado [Decreto-Lei n.º 70/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1989-612857), o pessoal do quadro da ACACSA fica sujeito as normas de contrato individual de trabalho e ao disposto em regulamento interno aprovado nos termos do mesmo preceito legal.\n\n3.º Para efeitos de actualização da tabela salarial, os valores correspondentes aos respectivos índices são equivalentes aos que vierem a ser fixados para a tabela do regime geral da função pública.\n\nMinistério da Agricultura, Pescas e Alimentação.\n\nAssinada em 18 de Dezembro de 1989.\n\nPelo Ministro da Agricultura, Pescas e Alimentação, Luís Gonzaga de Sousa Morais Cardoso, Secretário de Estado da Alimentação."
+  },
+  "0f038832c173b804": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Quadro de pessoal\n\nCarreira de agente auxiliar ... 3\n\nCarreira de agente administrativo ... 7\n\nCarreira de agente técnico ... 34\n\nCarreira de agente sénior ... 8\n\n... 52"
+  },
+  "bbc2be715c845bbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Categorias profissionais e respectivo enquadramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Categorias profissionais e respectivo enquadramento\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/00700/00880090.pdf)"
+  },
+  "425775b6881cc8eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Caracterização das carreiras profissionais (conteúdo funcional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Caracterização das carreiras profissionais (conteúdo funcional)\n\nAuxiliar administrativo. - Desempenha tarefas rotineiras não especificadas, de apoio geral.\n\nMotorista. - Assegura o transporte de pessoas, carga, correio e materiais conduzindo diversos tipos de veículos motorizados, ligeiros e pesados, e zelando pela conservação dos mesmos.\n\nEmpregado Administrativo. - Executa tarefas de âmbito administrativo, de acordo com a área em que se encontra integrado, podendo nessas tarefas utilizar meios tecnologicamente adequados.\n\nSecretária. - Assegura, por sua iniciativa, de forma mais conveniente, apoio administrativo, documental e as comunicações à direcção; dactilografa cartas, relatórios e outros textos; dá entrada da correspondência e encaminha-a para os destinatários competentes.\n\nAgente de controlo/agente sénior de controlo. - Executa, com autonomia crescente, funções de inspecção de acordo com as directrizes recebidas e no estrito cumprimento da legislação aplicável, especialmente a consignada no artigo 21.º do [Decreto-Lei n.º 70/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1989-612857), de 2 de Março; pode coordenar as actividades de outros técnicos.\n\nOperador de computador. - Opera e controla computadores e equipamentos periféricos através de consola; procede à introdução de dados; dá formação a outros utilizadores.\n\nTécnico de contabilidade. - Executa com autonomia funções na área da gestão contabilístico-financeira de acordo com as directrizes recebidas e no estrito cumprimento da legislação aplicável; assegura a contabilidade da ACACSA; pode coordenar as actividades de outros técnicos.\n\nBacharel. - Executa trabalho técnico individualizado, adequado à formação do titular, e sob controlo de outro profissional do mesmo ramo ou apoiado em orientação técnica por ele bem definida.\n\nProgramador-analista. - Analisa as necessidades de tratamento de informação apresentada pelos utilizadores; elabora os fluxogramas; desenvolve a programação respectiva e procede aos testes adequados; elabora os manuais de análise e programação; emite opinião sobre equipamentos e aplicações; assegura a gestão do centro de dados; dá formação aos utilizadores e coordena a actividade de outros profissionais no âmbito da sua especialidade.\n\nLicenciado. - Realiza estudos e projectos que requerem elevada qualificação técnica com vista à solução de problemas globais; executa actividades e ou interpreta normas, procedimentos e instruções de carácter técnico no âmbito da sua especialidade (direito, economia, contabilidade e agronomia); pode coordenar as actividades de outros técnicos."
+  },
+  "5a247429e409d028": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Quadro de pessoal",
+   "in_force_from": "2001-02-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 765/94](https://diariodarepublica.pt/dr/detalhe/portaria/765-1994-218694), publicado em 1994-08-23."
+   ],
+   "markdown": "## ANEXO I — Quadro de pessoal\n\nCarreira de agente auxiliar ... 3\n\nCarreira de agente administrativo ... 7\n\nCarreira de agente técnico ... 28\n\nCarreira de agente sénior ... 14\n\n> Alterado pelo/a [Portaria n.º 765/94](https://diariodarepublica.pt/dr/detalhe/portaria/765-1994-218694), publicado em 1994-08-23.\n\n... 52"
+  },
+  "aceb4899ddb68a61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Categorias profissionais e respectivo enquadramento",
+   "in_force_from": "2001-02-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 122/2001](https://diariodarepublica.pt/dr/detalhe/portaria/122-2001-386218), publicado em 2001-02-23."
+   ],
+   "markdown": "## ANEXO II — Categorias profissionais e respectivo enquadramento\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10481050.pdf)\n\n> Alterado pelo/a [Portaria n.º 122/2001](https://diariodarepublica.pt/dr/detalhe/portaria/122-2001-386218), publicado em 2001-02-23."
+  },
+  "2157aa31d7691974": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Caracterização das carreiras profissionais (conteúdo funcional)",
+   "in_force_from": "2001-02-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 122/2001](https://diariodarepublica.pt/dr/detalhe/portaria/122-2001-386218), publicado em 2001-02-23."
+   ],
+   "markdown": "## ANEXO III — Caracterização das carreiras profissionais (conteúdo funcional)\n\nAuxiliar administrativo. - Vigia as entradas e saídas, controlando a presença de pessoas estranhas à Agência; presta informações aos visitantes, encaminhando-os para os serviços ou funcionários devidos; entrega e recebe a correspondência no correio ou outro local; executa recados; assegura reproduções por fotocópia e arquivo de documentos e publicações.\n\nMotorista. - Assegura o transporte de pessoas, correio e cargas, conduzindo diversos tipos de veículos motorizados e zelando pela conservação dos mesmos.\n\nEmpregado administrativo. - Preparam, dactilografam, classificam, registam e arquivam documentos e correspondência, registam e tratam dados contabilísticos ou outros, servindo-se para tanto dos processos de tratamento de texto ou de cálculo que sejam determinados.\n\nEmpregado administrativo principal. - Executa as tarefas de empregado administrativo com autonomia significativa quanto às metodologias empregues.\n\nSecretária de departamento. - Estenografam e dactilografam documentos e correspondência; classificam e distribuem correspondência; marcam e registam os compromissos profissionais dos seus superiores hierárquicos, relembrando-os aos interessados; mantém actualizadas as suas agendas de trabalho; estabelece as ligações por telefone e transmite mensagens; recebe, anuncia e encaminha pessoas; prepara dossiers, reuniões e sessões de trabalho; assegura o arquivo do departamento.\n\nSecretária de direcção. - Além das tarefas cometidas às secretárias de departamento, redige e dactilografa, em português ou outra língua, documentos e correspondência a partir de notas por si tomadas ou de indicações sumárias que lhe sejam fornecidas; reúne elementos de suporte para decisões superiores, compilando documentação e informação pertinentes; transmite decisões; redige actas, dactilografa-as e assegura a sua distribuição, bem como das circulares e ordens de serviço.\n\nOperador do sistema informático. - Assegura e controla o funcionamento de computadores e equipamentos periféricos; instala programas; regista e trata dados em suporte informático; identifica avarias e promove a sua reparação; apoia e dá formação a outros operadores do sistema.\n\nAgente técnico especializado. - Executa tarefas que exigem formação técnica específica, conformes à sua formação escolar ou profissional, sob a orientação de um agente sénior especializado ou da direcção.\n\nAgente de controlo. - Executa acções de inspecção e controlo da aplicação das regras de candidatura e atribuição e pagamento das ajudas ao sector do azeite, junto dos seus beneficiários, suas associações e lagares, bem como junto de outros agentes económicos, dentro ou fora da fileira oleícola, com os quais os beneficiários da ajuda tenham procedido a transacções relevantes, com vista a verificar a existência e regularidade das operações relatadas pelos beneficiários. Registam o resultado das suas verificações nos impressos próprios e elaboram relatórios da sua actuação que acompanham ou não das suas conclusões. Deparando-se com situações irregulares, registam os seus factos constitutivos, recolhem prova dos mesmos e tentam identificar os seus responsáveis. Podem participar em outras acções de controlo por determinação superior. Pode orientar a actividade de outros técnicos.\n\nAgente sénior especializado. - Realiza estudos e executa tarefas que requerem qualificações específicas conformes à sua formação escolar e profissional; elabora, no âmbito da sua autonomia, interpreta e aplica conjuntos de normas, regras de procedimento e instruções da sua área de especialidade; prepara directrizes para aprovação superior; pode exercer funções de coordenação ou similares.\n\nAgente sénior de controlo. - Executa as tarefas de agente de controlo com autonomia significativa quanto às metodologias empregues, elabora relatórios sectoriais; pode exercer funções de coordenação ou similares.\n\nAnalista de sistemas informáticos. - Avalia as necessidades da Agência em matéria de processamento e tratamento automático da informação; avalia e determina as soluções que melhor correspondem às necessidades da Agência, tendo em conta o quadro de referência de opções que lhe seja fixado pela direcção; testa as soluções fornecidas, com vistas à sua aceitação ou rejeição; analisa os resultados obtidos com os meios empregues e promove a optimização destes, determinando os procedimentos a observar por operadores e utilizadores. Pode dirigir a instalação de soluções informáticas. Pode exercer funções de coordenação ou similares.\n\n> Alterado pelo/a [Portaria n.º 122/2001](https://diariodarepublica.pt/dr/detalhe/portaria/122-2001-386218), publicado em 2001-02-23."
+  }
+ }
+}

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-04-30'
+version_history:
+  file: portaria-304-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-04-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-04-30'
+    amending: pt:dre:515793:por
+    amending_title: Declaração de Rectificação n.º 54/92
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/304/1992/04/06/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:16:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 54/92.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-304-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,7 +137,9 @@ de 6 de Abril
 
 O [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho, veio estabelecer o novo estatuto das carreiras de pessoal específicas das áreas funcionais de biblioteca e documentação e de arquivo;
 
-Considerando a necessidade de adoptar o quadro de pessoal da Secretaria-Geral do Ministério do Planeamento e da Administração do Território ao regime estabelecido naquele diploma:
+Considerando a necessidade de adaptar o quadro de pessoal da Secretaria-Geral do Ministério do Planeamento e da Administração do Território ao regime estabelecido naquele diploma:
+
+> Alterado pelo/a [Declaração de Rectificação n.º 54/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/54-1992-515793), publicado em 1992-04-30.
 
 Manda o Governo, pelos Ministros das Finanças e do Planeamento e da Administração do Território, ao abrigo do disposto no n.º 1 do artigo 14.º do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho, e nos termos do n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, o seguinte:
 

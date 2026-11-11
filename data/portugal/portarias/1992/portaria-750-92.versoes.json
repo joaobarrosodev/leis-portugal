@@ -1,0 +1,60 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:275236:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-08-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7c6de83ce3214b67"
+   ]
+  },
+  {
+   "date": "1992-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159141:por",
+     "title": "Declaração de Rectificação n.º 140/92",
+     "published": "1992-08-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/140-1992-159141"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 13-13",
+    "Altera Artigo unidades 22-22",
+    "Altera Artigo unidades 28-28"
+   ],
+   "fragments": [
+    "e192665783998cab"
+   ]
+  }
+ ],
+ "fragments": {
+  "7c6de83ce3214b67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Agosto\n\nO [Decreto-Lei n.º 127/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1992-288074), de 3 de Julho, extinguiu os centros de saúde mental criados ao abrigo do [Decreto-Lei n.º 46102](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46102-1964-535218), de 23 de Dezembro de 1964, determinando a transferência das suas atribuições para hospitais gerais, centrais ou distritais.\n\nNestes termos, ao abrigo do disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 127/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1992-288074), de 3 de Julho:\n\nManda o Governo, pelo Ministro da Saúde, o seguinte:\n\n1.º As atribuições dos centros de saúde mental criados ao abrigo do [Decreto-Lei n.º 46102](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46102-1964-535218), de 23 de Dezembro de 1964, e extintos por força do artigo 8.º do [Decreto-Lei n.º 127/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1992-288074), de 3 de Julho, são transferidas nos termos seguintes:\n\na) As do Centro de Saúde Mental de Aveiro, para o Hospital Distrital de Aveiro;\n\nb) As do Centro de Saúde Mental de Beja, para o Hospital Distrital de Beja;\n\nc) As do Centro de Saúde Mental de Braga, para o Hospital Distrital de Braga;\n\nd) As do Centro de Saúde Mental do Barreiro/Montijo, para o Hospital Distrital do Barreiro;\n\ne) As do Centro de Saúde Mental de Bragança, para o Hospital Distrital de Bragança;\n\nf) As do Centro de Saúde Mental de Castelo Branco, para o Hospital Distrital de Castelo Branco;\n\ng) As do Centro de Saúde Mental Infantil e Juvenil de Coimbra, para o Hospital Pediátrico de Celas;\n\nh) As do Centro de Saúde Mental da Covilhã, para o Hospital Distrital da Covilhã;\n\ni) As do Centro de Saúde Mental de Évora, para o Hospital Distrital de Évora;\n\nj) As do Centro de Saúde Mental de Faro, para o Hospital Distrital de Faro;\n\nl) As do Centro de Saúde Mental da Guarda, para o Hospital Distrital da Guarda;\n\nm) As do Centro de Saúde Mental de Leiria, para o Hospital Distrital de Leiria;\n\nn) As do Centro de Saúde Mental de Lisboa - Oeiras, para o Hospital de São Francisco Xavier;\n\no) As do Centro de Saúde Mental Infantil e Juvenil de Lisboa, para o Hospital de D. Estefânia;\n\np) As do Centro de Saúde Mental de Penafiel, prosseguidas no concelho de Amarante, bem como nas freguesias de Campelo, Covelas, Gestaçô, Gove, Loivos do Monte, Ovil, Santa Cruz do Douro, Teixeira, Teixeiró e Viariz, do concelho de Baião, nas freguesias de Folhada, Tabuado, Várzea de Ovelha e Aliviada, do concelho de Marco de Canaveses, nas freguesias de Borba de Godim, Caramos, Friande, Macieira da Lixa, Moure, Pinheiro, Pombeiro de Ribavizela, Refontoura, Sendim, Várzea e Vila Cova da Lixa, do concelho de Felgueiras, e nas freguesias de Agilde e Fervença, do concelho de Celorico de Basto, para o Hospital Distrital de Amarante;\n\nq) As do Centro de Saúde Mental de Penafiel, prosseguidas nos concelhos de Penafiel, Paredes e Lousada, bem como nas freguesias dos concelhos de Felgueiras, Baião e Marco de Canaveses não mencionadas na alínea anterior para o Hospital Distrital de Penafiel;\n\nr) As do Centro de Saúde Mental de Portalegre para o Hospital Distrital de Portalegre;\n\ns) As do Centro de Saúde Mental Infantil e Juvenil do Porto, para o Hospital Central Especializado de Crianças Maria Pia:\n\nt) As do Centro de Saúde Mental de Santarém, para o Hospital Distrital de Santarém;\n\nu) As do Centro de Saúde Mental de Setúbal, para o Hospital Distrital de Setúbal;\n\nv) As do Centro de Saúde Mental de Viana do Castelo, para o Hospital Distrital de Viana do Castelo;\n\nx) As do Centro de Saúde Mental de Vila Nova de Gaia, para o Hospital Distrital de Vila Nova de Gaia;\n\nz)As do Centro de Saúde Mental de Vila Real, para o Hospital Distrital de Vila Real;\n\naa) As do Centro de Saúde Mental de Viseu, para o Hospital Distrital de Viseu.\n\n2.º Os hospitais referidos nas alíneas p) e q) do número anterior deverão celebrar entre si protocolos relativos ao internamento hospitalar e à utilização de bens afectos ao centro de saúde mental extinto.\n\n3.º A presente portaria produz efeitos desde a entrada em vigor do [Decreto-Lei n.º 127/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1992-288074), de 3 de Julho.\n\nMinistério da Saúde.\n\nAssinada em 16 de Julho de 1992.\n\nO Ministro da Saúde, Arlindo Gomes de Carvalho."
+  },
+  "e192665783998cab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1992-08-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 140/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/140-1992-159141), publicado em 1992-08-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 140/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/140-1992-159141), publicado em 1992-08-31.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 140/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/140-1992-159141), publicado em 1992-08-31."
+   ],
+   "markdown": "de 1 de Agosto\n\nO [Decreto-Lei n.º 127/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1992-288074), de 3 de Julho, extinguiu os centros de saúde mental criados ao abrigo do [Decreto-Lei n.º 46102](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46102-1964-535218), de 23 de Dezembro de 1964, determinando a transferência das suas atribuições para hospitais gerais, centrais ou distritais.\n\nNestes termos, ao abrigo do disposto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 127/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1992-288074), de 3 de Julho:\n\nManda o Governo, pelo Ministro da Saúde, o seguinte:\n\n1.º As atribuições dos centros de saúde mental criados ao abrigo do [Decreto-Lei n.º 46102](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46102-1964-535218), de 23 de Dezembro de 1964, e extintos por força do artigo 8.º do [Decreto-Lei n.º 127/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1992-288074), de 3 de Julho, são transferidas nos termos seguintes:\n\na) As do Centro de Saúde Mental de Aveiro, para o Hospital Distrital de Aveiro;\n\nb) As do Centro de Saúde Mental de Beja, para o Hospital Distrital de Beja;\n\nc) As do Centro de Saúde Mental de Braga, para o Hospital Distrital de Braga;\n\nd) As do Centro de Saúde Mental do Barreiro/Montijo, para o Hospital Distrital do Barreiro;\n\ne) As do Centro de Saúde Mental de Bragança, para o Hospital Distrital de Bragança;\n\nf) As do Centro de Saúde Mental de Castelo Branco, para o Hospital Distrital de Castelo Branco;\n\ng) As do Centro de Saúde Mental Infantil e Juvenil de Coimbra, para o Centro Hospitalar de Coimbra;\n\n> Alterado pelo/a [Declaração de Rectificação n.º 140/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/140-1992-159141), publicado em 1992-08-31.\n\nh) As do Centro de Saúde Mental da Covilhã, para o Hospital Distrital da Covilhã;\n\ni) As do Centro de Saúde Mental de Évora, para o Hospital Distrital de Évora;\n\nj) As do Centro de Saúde Mental de Faro, para o Hospital Distrital de Faro;\n\nl) As do Centro de Saúde Mental da Guarda, para o Hospital Distrital da Guarda;\n\nm) As do Centro de Saúde Mental de Leiria, para o Hospital Distrital de Leiria;\n\nn) As do Centro de Saúde Mental de Lisboa - Oeiras, para o Hospital de São Francisco Xavier;\n\no) As do Centro de Saúde Mental Infantil e Juvenil de Lisboa, para o Hospital de D. Estefânia;\n\np) As do Centro de Saúde Mental de Penafiel, prosseguidas no concelho de Amarante, bem como nas freguesias de Campelo, Covelas, Gestaçô, Gove, Loivos do Monte, Ovil, Santa Cruz do Douro, Teixeira, Teixeiró e Viariz, do concelho de Baião, nas freguesias de Folhada, Tabuado, Várzea de Ovelha e Aliviada, do concelho de Marco de Canaveses, nas freguesias de Borba de Godim, Caramos, Friande, Macieira da Lixa, Moure, Pinheiro, Pombeiro de Ribavizela, Refontoura, Sendim, Várzea e Vila Cova da Lixa, do concelho de Felgueiras, e nas freguesias de Agilde e Fervença, do concelho de Celorico de Basto, para o Hospital Distrital de Amarante;\n\nq) As do Centro de Saúde Mental de Penafiel, prosseguidas nos concelhos de Penafiel, Paredes e Lousada, bem como nas freguesias dos concelhos de Felgueiras, Baião e Marco de Canaveses não mencionadas na alínea anterior para o Centro Hospitalar do Vale do Sousa;\n\n> Alterado pelo/a [Declaração de Rectificação n.º 140/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/140-1992-159141), publicado em 1992-08-31.\n\nr) As do Centro de Saúde Mental de Portalegre para o Hospital Distrital de Portalegre;\n\ns) As do Centro de Saúde Mental Infantil e Juvenil do Porto, para o Hospital Central Especializado de Crianças Maria Pia:\n\nt) As do Centro de Saúde Mental de Santarém, para o Hospital Distrital de Santarém;\n\nu) As do Centro de Saúde Mental de Setúbal, para o Hospital Distrital de Setúbal;\n\nv) As do Centro de Saúde Mental de Viana do Castelo, para o Hospital Distrital de Viana do Castelo;\n\nx) As do Centro de Saúde Mental de Vila Nova de Gaia, para o Centro Hospitalar de Vila Nova de Gaia;\n\n> Alterado pelo/a [Declaração de Rectificação n.º 140/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/140-1992-159141), publicado em 1992-08-31.\n\nz)As do Centro de Saúde Mental de Vila Real, para o Hospital Distrital de Vila Real;\n\naa) As do Centro de Saúde Mental de Viseu, para o Hospital Distrital de Viseu.\n\n2.º Os hospitais referidos nas alíneas p) e q) do número anterior deverão celebrar entre si protocolos relativos ao internamento hospitalar e à utilização de bens afectos ao centro de saúde mental extinto.\n\n3.º A presente portaria produz efeitos desde a entrada em vigor do [Decreto-Lei n.º 127/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1992-288074), de 3 de Julho.\n\nMinistério da Saúde.\n\nAssinada em 16 de Julho de 1992.\n\nO Ministro da Saúde, Arlindo Gomes de Carvalho."
+  }
+ }
+}

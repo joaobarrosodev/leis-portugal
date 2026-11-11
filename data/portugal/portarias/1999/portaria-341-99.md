@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-03-24'
+version_history:
+  file: portaria-341-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-05-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-03-24'
+    amending: pt:dre:215479:por
+    amending_title: Portaria n.º 252/2003
+    changes:
+    - Altera Artigo unidades 3-3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/341/1999/05/13/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:14:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 252/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-341-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,7 +146,9 @@ validation:
 
 de 13 de Maio
 
-Pela [Portaria n.º 411/94](https://diariodarepublica.pt/dr/detalhe/portaria/411-1994-290627), de 27 de Junho, foi concessionada à Clérigos - Agro-Pecuária e Cinegética, Lda., a zona de caça turística da Herdade dos Clérigos (processo n.º 1426-DGF), situada no município de Arraiolos, com uma área de 399,75 ha, válida até 27 de Junho de 2004.
+Pela [Portaria n.º 411/94](https://diariodarepublica.pt/dr/detalhe/portaria/411-1994-290627), de 27 de Junho, foi concessionada à Clérigos - Agro-Pecuária e Cinegética, Lda., a zona de caça turística da Herdade dos Clérigos (processo n.º 1426-DGF), situada no município de Arraiolos, com uma área de 399,75 ha, válida até 27 de Junho de 2014.
+
+> Alterado pelo/a [Portaria n.º 252/2003](https://diariodarepublica.pt/dr/detalhe/portaria/252-2003-215479), publicado em 2003-03-19.
 
 Vem agora Joaquim Manuel Ramalho requerer a transmissão da concessão da zona de caça atrás citada.
 

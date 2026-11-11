@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:357527:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-08-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "52d89780dffef7df",
+    "5cde5f61f211e500"
+   ]
+  },
+  {
+   "date": "1997-09-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:649078:por",
+     "title": "Despacho Normativo n.º 56/97",
+     "published": "1997-09-15",
+     "dre_path": "/dr/detalhe/despacho-normativo/56-1997-649078"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 23-30"
+   ],
+   "fragments": [
+    "52d89780dffef7df",
+    "756e09f6f5b49785"
+   ]
+  }
+ ],
+ "fragments": {
+  "52d89780dffef7df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A [Portaria n.º 347/93](https://diariodarepublica.pt/dr/detalhe/portaria/347-1993-643572), de 24 de Março, regulamentadora dos cursos de alistamento de electrotécnicos e de maquiniastas navais ministrados na Marinha, estabelece, no seu n.º 4.º, os condicionalismos a respeitar na certificação profissional e equivalência académica conferida pelos mencionados cursos.\n\nPor outro lado, as características técnico-profissionais dos cursos supracitados ajustam-se ao modelo de organização curricular das escolas profissionais, englobando áreas de formação sócio-cultural, científica e técnica, embora com as adaptações determinadas pela especificidade da formação militar.\n\nNestes termos, e para os efeitos previstos no n.º 4.º da citada portaria, determina-se o seguinte:\n\n1 - Os cursos de alistamento de electrotécnicos e de maquinistas navais têm uma duração de três anos lectivos, na qual se inclui a frequência de um estágio.\n\n2 - O referido estágio tem lugar no último ano curricular dos cursos e destina-se a exercitar as capacidades do formando para o desempenho das funções que lhe serão cometidas no âmbito da sua categoria, classe e regime de prestação de serviço militar.\n\n3 - A estrutura curricular dos cursos é a que consta do anexo ao presente despacho.\n\n4 - Faz parte integrante dos cursos a realização de uma prova de aptidão profissional, a avaliar por um júri, a qual deverá integrar conhecimentos, perícias e atitudes adquiridos e desenvolvidos ao longo da formação.\n\n5 - A natureza da prova referida no número anterior, os critérios de avaliação e a constituição dos respectivos júris são estabelecidos em despacho do Chefe do Estado-Maior da Armada.\n\n6 - A classificação final dos cursos é obtida através da seguinte fórmula:\n\nCF = (2PC + PAP)/3\n\nsendo:\n\nCF = classificação final do curso;\n\n2PC = classificação final do plano curricular x 2;\n\nPAP = classificação da prova de aptidão profissional.\n\n7 - A creditação dos cursos para efeitos de qualificação profissional e de equivalência académica decorre da obtenção, pelos alunos que os tenham frequentado, de uma classificação mínima de 10 valores no final do plano curricular e na prova de aptidão profissional.\n\n8 - A frequência dos cursos de alistamento de electrotécnicos e de maquinistas navais, com satisfação dos requisitos mínimos mencionados no número anterior, confere:\n\na) Certificado de aptidão e de qualificação profissional de nível 3, nas áreas constantes no anexo referenciado no n.º 3, em equiparação com cursos do ensino oficial ou oficialmente reconhecido;\n\nb) Equivalência ao 12.º ano de escolaridade para todos os efeitos legais, nomeadamente para o acesso ao ensino superior.\n\n9 - O disposto no presente despacho é aplicável aos cursos iniciados no ano lectivo de 1991-1992 e seguintes.\n\nMinistérios da Defesa Nacional, da Educação e do Emprego e da Segurança Social, 9 de Julho de 1993. - O Secretário de Estado da Defesa Nacional, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Ensino Básico e Secundário, Manuel Joaquim Pinho Moreira de Azevedo. - O Secretário de Estado do Emprego e Formação Profissional, António Morgado Pinto Cardoso."
+  },
+  "5cde5f61f211e500": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Estrutura curricular dos cursos de alistamento de electrotécnicos e maquinistas navais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Estrutura curricular dos cursos de alistamento de electrotécnicos e maquinistas navais\n\nA.1 - Curso de alistamento de electrotécnicos:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/185b00/42464247.pdf)\n\nA.2 - Equiparação ao nível 3 de qualificação profissional e equivalência ao 12.º ano de escolaridade:\n\nCurso de alistamento de electrotécnico - técnico de electrónica\n\nB.1 - Curso de alistamento de maquinistas navais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/185b00/42464247.pdf)\n\nB.2 - Equiparação ao nível 3 de qualificação profissional e equivalência ao 12.º ano de escolaridade:\n\nCurso de alistamento de maquinistas navais - técnico de mecânica/máquinas marítimas."
+  },
+  "756e09f6f5b49785": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Estrutura curricular dos cursos de alistamento de electrotécnicos e maquinistas navais",
+   "in_force_from": "1997-09-20",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 56/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/56-1997-649078), publicado em 1997-09-15."
+   ],
+   "markdown": "## ANEXO — Estrutura curricular dos cursos de alistamento de electrotécnicos e maquinistas navais\n\nA.1. - Curso de alistamento de electrotécnicos:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/213b00/49424944.pdf)\n\nA.2. - Equiparação ao nível 3 da qualificação profissional e equivalência ao 12.º ano de escolaridade:\n\nCurso de alistamento de electrotécnico - técnico de electrónica.\n\nB.1. - Curso de alistamento de maquinistas navais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/213b00/49424944.pdf)\n\nB.2. - Equiparação ao nível 3 da qualificação profissional e equivalência ao 12.º ano de escolaridade:\n\nCurso de alistamento de maquinistas navais - técnico de mecânica/máquinas marítimas.\n\n> Alterado pelo/a [Despacho Normativo n.º 56/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/56-1997-649078), publicado em 1997-09-15."
+  }
+ }
+}

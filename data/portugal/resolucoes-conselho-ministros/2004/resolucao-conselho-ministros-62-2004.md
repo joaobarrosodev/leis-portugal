@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-01-11'
+version_history:
+  file: resolucao-conselho-ministros-62-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-05-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-11'
+    amending: pt:dre:168042:por
+    amending_title: Resolução do Conselho de Ministros n.º 3/2006
+    changes:
+    - Altera Artigo unidades 18-18
+    - Altera Artigo unidades 20-23
+    - Adita Artigo depois da unidade 36
+    - Altera Artigo unidades 49-49
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/62/2004/05/17/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:50:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 3/2006. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2004/resolucao-conselho-ministros-62-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -167,17 +185,21 @@ c) Avaliar as tipologias e dimensões dos apoios de praia e dos equipamentos com
 
 d) Ponderar a alteração de disposições regulamentares que se encontram desadequadas relativamente à situação actual.
 
-3 - Cometer ao Instituto da Conservação da Natureza a elaboração da alteração do Plano de Ordenamento de Caminha-Espinho, a qual deve estar concluída no prazo de nove meses.
+3 - Cometer ao Instituto da Água e elaboração da alteração do Plano de Ordenamento da Orla Costeira de Caminha-Espinho, a qual deve estar concluída no prazo de 12 meses.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 3/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2006-168042), publicado em 2006-01-10.
 
 4 - Fixar em 15 dias o prazo para formulação de sugestões e apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do procedimento de alteração do presente Plano de Ordenamento.
 
-5 - Estabelecer, nos termos do n.º 1 do artigo 47.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, a composição da comissão mista de coordenação, que integra as seguintes entidades:
+5 - Estabelecer, nos termos do n.º 1 do artigo 47.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na redacção dada pelo [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro, a composição da comissão mista de coordenação, que integra as seguintes entidades:
 
-a) Um representante do Instituto da Conservação da Natureza, que presidirá;
+a) Um representante do Instituto da Água, que preside;
 
 b) Um representante da Comissão de Coordenação e Desenvolvimento Regional do Norte;
 
-c) Um representante do Instituto da Água;
+c) Um representante do Instituto da Conservação da Natureza;
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 3/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2006-168042), publicado em 2006-01-10.
 
 d) Um representante da Autoridade Marítima;
 
@@ -205,6 +227,16 @@ p) Um representante da Câmara Municipal de Vila Nova de Gaia;
 
 q) Um representante das associações de concessionários de praia e bares da área de intervenção do POOC de Caminha-Espinho.
 
+r) Um representante do Instituto Portuário e dos Transportes Marítimos, I. P.;
+
+s) Um representante da Direcção-Geral de Infra-Estruturas do Ministério da Defesa Nacional;
+
+t) Um representante do Instituto Português do Património Arquitectónico;
+
+u) Um representante das organizações não governamentais de ambiente, a designar pela Confederação Portuguesa das Associações de Defesa do Ambiente.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 3/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2006-168042), publicado em 2006-01-10.
+
 6 - Nas áreas actualmente abrangidas pelos planos de praia e nas áreas de protecção costeira são suspensas as seguintes disposições do POOC de Caminha-Espinho, mantendo-se em vigor todas as demais:
 
 a) A alínea f) do artigo 11.º do Regulamento, nas situações em que as vias de comunicação ou acessos se destinem a permitir a adequada infra-estruturação viária de parcelas com capacidade construtiva e contíguas a área de protecção costeira;
@@ -229,6 +261,8 @@ b) Sujeição a prévia autorização da Comissão de Coordenação e Desenvolvi
 
 11 - A suspensão vigora pelo prazo previsto para a vigência das medidas preventivas.
 
-12 - São competentes para promover o cumprimento das medidas preventivas e proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o Instituto da Conservação da Natureza, na área de paisagem protegida do litoral de Esposende, e a Comissão de Coordenação e Desenvolvimento Regional do Norte.
+12 - São competentes para promover o cumprimento das medidas preventivas e proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o Instituto da Conservação da Natureza, no Parque Natural do Litoral Norte, e a Comissão de Coordenação e Desenvolvimento Regional do Norte.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 3/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-2006-168042), publicado em 2006-01-10.
 
 Presidência do Conselho de Ministros, 22 de Abril de 2004. - O Primeiro-Ministro, José Manuel Durão Barroso.

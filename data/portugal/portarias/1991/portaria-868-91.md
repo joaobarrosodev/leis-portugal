@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-12-25'
+version_history:
+  file: portaria-868-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-08-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-12-25'
+    amending: pt:dre:644081:por
+    amending_title: Portaria n.º 1468/95
+    changes:
+    - Altera Artigo unidades 10-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/868/1991/08/22/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:02:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1468/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-868-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,11 +153,9 @@ Criação
 
 2 - O curso a que se refere o n.º 1 poderá ser ministrado em Idanha-a-Nova.
 
-2.º
+2.º - (Revogado.)
 
-Plano de estudos
-
-O plano de estudos do curso de bacharelato a que se refere o n.º 1.º é o cosntante do anexo à presente portaria.
+> Alterado pelo/a [Portaria n.º 1468/95](https://diariodarepublica.pt/dr/detalhe/portaria/1468-1995-644081), publicado em 1995-12-20.
 
 3.º
 

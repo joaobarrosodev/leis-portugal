@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-08-31'
+version_history:
+  file: portaria-115-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-08-31'
+    amending: pt:dre:447739:por
+    amending_title: Portaria n.º 613/98
+    changes:
+    - Altera Artigo unidades 3-3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/115/1998/02/28/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:06:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 613/98. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-115-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,7 +147,9 @@ validation:
 
 de 28 de Fevereiro
 
-Pela [Portaria n.º 562/92](https://diariodarepublica.pt/dr/detalhe/portaria/562-1992-303450), de 24 de Junho, foi concessionada ao Clube de Caça da Tapada a zona de caça associativa de Lezíria da Palmeira e outras (processo n.º 110-DGF), situada no município de Almeirim, com uma área de 1142,7680 ha, válida até 18 de Setembro de 1998.
+Pela [Portaria n.º 562/92](https://diariodarepublica.pt/dr/detalhe/portaria/562-1992-303450), de 24 de Junho, foi concessionada ao Clube de Caça da Tapada a zona de caça associativa de Lezíria da Palmeira e outras (processo n.º 110-DGF), situada no município de Almeirim, com uma área de 1142,7680 ha, renovada pela [Portaria n.º 1149/95](https://diariodarepublica.pt/dr/detalhe/portaria/1149-1995-565393), de 18 de Setembro, até 13 de Agosto de 2001.
+
+> Alterado pelo/a [Portaria n.º 613/98](https://diariodarepublica.pt/dr/detalhe/portaria/613-1998-447739), publicado em 1998-08-26.
 
 A concessionária requereu agora a anexação à referida zona de caça de alguns prédios rústicos com uma área de 238,4719 ha.
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-03-22'
+version_history:
+  file: portaria-568-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-10-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-03-22'
+    amending: pt:dre:662140:por
+    amending_title: Portaria n.º 188/87; Portaria n.º 188/87
+    changes:
+    - Adita Artigo depois da unidade 77
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:52:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 188/87; Portaria n.º
+    188/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-568-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -317,6 +332,288 @@ Ministério da Educação e Cultura.
 Assinada em 21 de Agosto de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
+
+## ANEXO I — Licenciatura em Ensino da Biologia
+
+1 - Área científica do curso:
+
+1.1 - Biologia;
+
+1.2 - Ciências da Educação.
+
+2 - Duração normal: cinco anos lectivos.
+
+3 - Áreas científicas e unidades de crédito:
+
+3.1 - Áreas científicas obrigatórias:
+
+3.1.1 - Biologia - 54,5;
+
+3.1.2 - Química - 15;
+
+3.1.3 - Matemática - 8;
+
+3.1.4 - Física - 8;
+
+3.1.5 - Ciências Sociais - 5,5;
+
+3.1.6 - Ciências da Educação - 28;
+
+3.1.7 - Geologia - 15;
+
+3.2 - Monografia - 6.
+
+4 - Condições necessárias à obtenção do grau:
+
+4.1 - Obtenção de 140 unidades de crédito;
+
+4.2 - Aprovação em estágio pedagógico.
+
+## ANEXO II — Licenciatura em Engenharia Agrícola
+
+1 - Área científica do curso: Engenharia Agrícola.
+
+2 - Duração normal: cinco anos lectivos.
+
+3 - Áreas científicas e unidades de crédito necessárias à conclusão do curso e obtenção do grau:
+
+3.1 - Obrigatórias:
+
+3.1.1 - Ciências Exactas - 27;
+
+3.1.2 - Ciências Biológicas - 24,5;
+
+3.1.3 - Geociências - 12;
+
+3.1.4 - Fitotécnicas - 43,5;
+
+3.1.5 - Ciências Económicas - 11,5;
+
+3.1.6 - Engenharia - 23;
+
+3.1.7 - Ciências Humanas e Sociais - 2,5;
+
+3.1.8 - Língua Estrangeira (Inglês) - 4;
+
+3.2 - Optativas:
+
+3.2.1 - Ciências Biológicas - 2,5;
+
+3.2.2 - Zootecnias - 5;
+
+3.2.3 - Tecnologias - 5;
+
+3.2.4 - Engenharia - 2,5;
+
+3.2.5 - Ciências Humanas e Sociais - 2,5;
+
+3.3 - Estágio - 15.
+
+4 - Número total de unidades de crédito necessárias à obtenção do grau: 170 unidades de crédito.
+
+## ANEXO III — Licenciatura em Engenharia Zootécnica
+
+1 - Área científica do curso: Engenharia Zootécnica.
+
+2 - Duração normal: cinco anos lectivos.
+
+3 - Áreas científicas e unidades de crédito necessárias à conclusão do grau:
+
+3.1 - Obrigatórias:
+
+3.1.1 - Ciências Exactas - 27;
+
+3.1.2 - Ciências Biológicas - 24,5;
+
+3.1.3 - Ciências Zootécnicas - 51;
+
+3.1.4 - Ciências Geológicas - 6;
+
+3.1.5 - Ciências Económicas - 10;
+
+3.1.6 - Ciências Agronómicas - 9;
+
+3.1.7 - Engenharia - 9;
+
+3.1.8 - Língua Estrangeira (Inglês) - 4;
+
+3.1.9 - Ciências Humanas e Sociais - 2,5
+
+3.2 - Optativas:
+
+3.2.1 - Tecnologias - 5;
+
+3.2.2 - Zootecnias - 5;
+
+3.2.3 - Engenharias - 5;
+
+3.2.4 - Ciências Biológicas - 5;
+
+3.2.5 - Ciências Humanas e Sociais - 5;
+
+3.3 - Estágio - 15.
+
+4 - Número total de unidades de crédito necessárias à obtenção do grau: 165 unidades de crédito.
+
+## ANEXO IV — Licenciatura em Ensino da Geologia
+
+1 - Área científica do curso:
+
+1.1 - Geologia;
+
+1.2 - Ciências da Educação.
+
+2 - Duração normal: cinco anos lectivos.
+
+3 - Áreas científicas e unidades de crédito:
+
+3.1 - Áreas científicas obrigatórias:
+
+3.1.1 - Matemática - 8;
+
+3.1.2 - Química - 12;
+
+3.1.3 - Física - 8;
+
+3.1.4 - Biologia - 15,5;
+
+3.1.5 - Ciências Sociais - 5,5;
+
+3.1.6 - Ciências da Educação - 28;
+
+3.1.7 - Geologia - 57;
+
+3.2 - Monografia - 6.
+
+4 - Condições para a obtenção do grau:
+
+4.1 - Obtenção de 140 unidades de crédito;
+
+4.2 - Aprovação no estágio pedagógico.
+
+## ANEXO V — Licenciatura em Matemática
+
+1 - Área científica do curso: Matemática.
+
+2 - Duração normal: quatro anos lectivos.
+
+3 - Áreas científicas obrigatórias e unidades de crédito: Matemática - 120.
+
+4 - Número total de unidades de crédito necessárias à obtenção do grau: 120 unidades de crédito.
+
+## ANEXO VI — Licenciatura em Ensino da Matemática
+
+1 - Área científica do curso:
+
+1.1 - Matemática;
+
+1.2 - Ciências da Educação.
+
+2 - Duração normal: cinco anos lectivos.
+
+3 - Áreas científicas e unidades de crédito:
+
+3.1 - Áreas científicas obrigatórias:
+
+3.1.1 - Matemática - 87;
+
+3.1.2 - Ciências da Educação - 24;
+
+3.2 - Áreas científicas optativas:
+
+3.2.1 - Matemática - 7;
+
+3.2.2 - Informática - 7.
+
+4 - Monografia - 7.
+
+5 - Condições para a obtenção do grau:
+
+5.1 - Obtenção de 125 unidades de crédito;
+
+5.2 - Aprovação em estágio pedagógico.
+
+## ANEXO VII — Licenciatura em Matemática/Informática
+
+1 - Área científica do curso: Matemática/Informática.
+
+2 - Duração normal: cinco anos lectivos.
+
+3 - Áreas científicas e unidades de crédito:
+
+3.1 - Áreas científicas obrigatórias:
+
+3.1.1 - Matemática - 87;
+
+3.1.2 - Informática - 48;
+
+3.2 - Áreas científicas optativas:
+
+3.2.1 - Matemática - 7;
+
+3.2.2 - Informática - 7;
+
+3.3 - Estágio - 18.
+
+4 - Número total de unidades de crédito necessárias à obtenção do grau: 160 unidades de crédito.
+
+## ANEXO VIII — Licenciatura em Organização e Gestão de Empresas
+
+1 - Área cientifica do curso:
+
+Organização e Gestão de Empresas.
+
+2 - Duração normal:
+
+Dez semestres lectivos.
+
+3 - Número total de unidades de crédito necessário a obtenção do grau:
+
+135.
+
+4 - Áreas científicas e distribuição das unidades de crédito:
+
+4.1 - Áreas científicas obrigatórias:
+
+4.1.1 - Gestão ... 40
+
+4.1.2 - Matemática ... 24
+
+4.1.3 - Economia ... 15
+
+4.1.4 - História Económica ... 3
+
+4.1.5 - Direito ... 9
+
+4.1.6 - Inglês ... 6
+
+4.2 - Conjunto das áreas científicas optativas:
+
+4.2.1 - Economia ... 38
+
+4.2.2 - Matemática ... 38
+
+4.2.3 - Gestão ... 38
+
+4.2.4 - História Económica ... 38
+
+4.2.5 - Sociologia ... 38
+
+4.2.6 - Psicologia Económica ... 38
+
+4.2.7 - Ciência Política ... 38
+
+4.2.8 - Direito ... 38
+
+4.2.9 - Demografia ... 38
+
+4.2.10 - Informática ... 38
+
+## ANEXO IX — Licenciatura em História
+
+O plano de estudos é o constante do [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio, alterado pelo [Decreto n.º 131/82](https://diariodarepublica.pt/dr/detalhe/decreto/131-1982-379910), de 27 de Novembro, e Decreto n.º 75/84, de 27 de Novembro.
+
+> Aditado pelo/a [Portaria n.º 188/87](https://diariodarepublica.pt/dr/detalhe/portaria/188-1987-662140), publicado em 1987-03-17.
 
 Do ANEXO X ao ANEXO XVIII
 

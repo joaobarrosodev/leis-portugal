@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-03-15'
+version_history:
+  file: despacho-normativo-199-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-10-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-03-15'
+    amending: pt:dre:678064:por
+    amending_title: Despacho Normativo n.º 91/80
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:37:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 91/80. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1977/despacho-normativo-199-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,7 +129,9 @@ Nestes termos, determina-se:
 
 1.1 - Empreguem mais de 5 e não mais de 400 pessoas;
 
-1.2 - Não ultrapassem os 150000 contos de vendas anuais;
+1.2 - Não ultrapassem os 225000 contos de vendas anuais.
+
+> Alterado pelo/a [Despacho Normativo n.º 91/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/91-1980-678064), publicado em 1980-03-15.
 
 1.3 - Não possuam nem sejam possuídas em mais de 50% por outra empresa ou não sejam possuídas por accionista, sócio ou conjunto de sócios, que simultaneamente detenham mais de 50% do capital da empresa em causa e de outra empresa, salvo se, em ambos os casos, as empresas envolvidas, tomadas em conjunto, se enquadrem nas condições dos parágrafos 1.1 e 1.2.
 

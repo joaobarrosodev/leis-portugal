@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:309903:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-03-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d248ba869df763ec"
+   ]
+  },
+  {
+   "date": "1984-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:381741:por",
+     "title": "Portaria n.º 547/84",
+     "published": "1984-08-01",
+     "dre_path": "/dr/detalhe/portaria/547-1984-381741"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 86-141"
+   ],
+   "fragments": [
+    "deef154b0ee8b8e7"
+   ]
+  }
+ ],
+ "fragments": {
+  "d248ba869df763ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Março\n\nSob proposta do conselho científico da Faculdade de Letras da Universidade de Coimbra;\n\nAo abrigo do disposto no artigo 5.º do [Decreto n.º 131/82](https://diariodarepublica.pt/dr/detalhe/decreto/131-1982-379910), de 27 de Novembro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:\n\n1.º\n\n(Licenciatura em Filosofia)\n\nO plano de estudos da licenciatura em Filosofia pela Faculdade de Letras da Universidade de Coimbra passa a ser o seguinte:\n\n1.º ano:\n\nIntrodução à Filosofia.\n\nEpistemologia Geral.\n\nFilosofia do Conhecimento.\n\nFilosofia Antiga.\n\n2.º ano:\n\nLógica.\n\nFilosofia Medieval.\n\nFilosofia de Portugal.\n\nOpção.\n\n3.º ano:\n\nOntologia.\n\nAxiologia e Ética.\n\nFilosofia Moderna.\n\nFilosofia Social e Política.\n\nOpção.\n\n4.º ano:\n\nHermenêutica Filosófica.\n\nFilosofia Contemporânea.\n\nAntropologia Filosófica.\n\nEstética.\n\n2.º\n\n(Licenciatura em Línguas e Literaturas Modernas Variante de Estudos Portugueses e Ingleses)\n\nO plano de estudos da variante de Estudos Portugueses e Ingleses da licenciatura em Línguas e Literaturas Modernas pela Faculdade de Letras da Universidade de Coimbra passa a ser o seguinte:\n\n1.º ano:\n\nIntrodução aos Estudos Linguísticos.\n\nIntrodução aos Estudos Literários.\n\nTécnicas de Expressão do Português.\n\nInglês I.\n\nCultura Inglesa.\n\n2.º ano:\n\nFonética e Morfologia do Português.\n\nInglês II.\n\nLinguística Inglesa.\n\nLiteratura Portuguesa I.\n\nLiteratura Inglesa I.\n\nOpção.\n\n3.º ano:\n\nSintaxe e Semântica do Português.\n\nInglês III.\n\nLiteratura Portuguesa II.\n\nLiteratura Inglesa II.\n\nLiteratura Norte-Americana.\n\n4.º ano:\n\nHistória da Língua Portuguesa.\n\nInglês IV.\n\nLiteratura Portuguesa III ou Literatura Inglesa III.\n\nTeoria da Literatura.\n\nCultura Portuguesa.\n\n3.º\n\n(Licenciatura em Línguas e Literaturas Modernas Variante de Estudos Portugueses e Alemães)\n\nO plano de estudos da variante de Estudos Portugueses e Alemães da licenciatura em Línguas e Literaturas Modernas pela Faculdade de Letras da Universidade de Coimbra passa a ser o seguinte:\n\n1.º ano:\n\nIntrodução aos Estudos Linguísticos.\n\nIntrodução aos Estudos Literários.\n\nTécnicas de Expressão do Português.\n\nAlemão I.\n\nCultura Alemã.\n\n2.º ano:\n\nFonética e Morfologia do Português.\n\nAlemão II.\n\nLiteratura Portuguesa I.\n\nLiteratura Alemã I.\n\nOpção.\n\n3.º ano:\n\nSintaxe e Semântica do Português.\n\nAlemão III.\n\nLinguística Alemã.\n\nLiteratura Portuguesa II.\n\nLiteratura Alemã II.\n\nOpção.\n\n4.º ano:\n\nHistória da Língua Portuguesa.\n\nAlemão IV.\n\nLiteratura Portuguesa III ou Literatura Alemã III.\n\nTeoria da Literatura.\n\nCultura Portuguesa.\n\n4.º\n\n(Licenciatura em Línguas e Literaturas Modernas Variante de Estudos Franceses e Portugueses)\n\nO plano de estudos da variante de Estudos Franceses e Portugueses da licenciatura em Línguas e Literaturas Modernas pela Faculdade de Letras da Universidade de Coimbra passa a ser o seguinte:\n\n1.º ano:\n\nIntrodução aos Estudos Linguísticos.\n\nIntrodução aos Estudos Literários.\n\nFrancês I.\n\nInglês I.\n\nCultura Francesa.\n\n2.º ano:\n\nFrancês II.\n\nInglês II.\n\nLinguística Inglesa.\n\nLiteratura Francesa I.\n\nLiteratura Inglesa I.\n\nCultura Inglesa.\n\n3.º ano:\n\nFrancês III.\n\nInglês III.\n\nLiteratura Francesa II.\n\nLiteratura Inglesa II.\n\nLiteratura Norte-Americana.\n\n4.º ano:\n\nFrancês IV (Língua e Linguística).\n\nInglês IV.\n\nLiteratura Francesa III ou Literatura Inglesa III.\n\nTeoria da Literatura.\n\nOpção.\n\n5.º\n\n(Licenciatura em Línguas e Literaturas Modernas Variante de Estudos Franceses e Alemães)\n\nO plano de estudos da variante de Estudos Franceses e Alemães da licenciatura em Línguas e Literaturas Modernas pela Faculdade de Letras da Universidade de Coimbra passa a ser o seguinte:\n\n1.º ano:\n\nIntrodução aos Estudos Linguísticos.\n\nIntrodução aos Estudos Literários.\n\nFrancês I.\n\nAlemão I.\n\nCultura Francesa.\n\n2.º ano:\n\nFrancês II.\n\nAlemão II.\n\nLiteratura Francesa I.\n\nLiteratura Alemã I.\n\nCultura Alemã.\n\n3.º ano:\n\nFrancês III.\n\nAlemão III.\n\nLinguística Alemã.\n\nLiteratura Francesa II.\n\nLiteratura Alemã II.\n\nOpção.\n\n4.º ano:\n\nFrancês IV (Língua e Linguística).\n\nAlemão IV.\n\nLiteratura Francesa III ou Literatura Alemã III.\n\nTeoria da Literatura.\n\nOpção.\n\n6.º\n\n(Licenciatura em Línguas e Literaturas Modernas Variante de Estudos Ingleses e Alemães)\n\nO plano de estudos da variante de Estudos Ingleses e Alemães da licenciatura em Línguas e Literaturas Modernas pela Faculdade de Letras da Universidade de Coimbra passa a ser o seguinte:\n\n1.º ano:\n\nIntrodução aos Estudos Linguísticos.\n\nIntrodução aos Estudos Literários.\n\nInglês I.\n\nAlemão I.\n\nCultura Inglesa.\n\n2.º ano:\n\nInglês II.\n\nLinguística Inglesa.\n\nAlemão II.\n\nLiteratura Inglesa I.\n\nLiteratura Alemã I.\n\nCultura Alemã.\n\n3.º ano:\n\nInglês III.\n\nAlemão III.\n\nLinguística Alemã.\n\nLiteratura Inglesa II.\n\nLiteratura Alemã II.\n\nLiteratura Norte-Americana.\n\n4.º ano:\n\nInglês IV.\n\nAlemão IV.\n\nLiteratura Inglesa III ou Literatura Alemã III.\n\nTeoria da Literatura.\n\nOpção.\n\nMinistério da Educação, 17 de Fevereiro de 1983. - O Ministro da Educação, João José Fraústo da Silva."
+  },
+  "deef154b0ee8b8e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1984-08-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 547/84](https://diariodarepublica.pt/dr/detalhe/portaria/547-1984-381741), publicado em 1984-08-01."
+   ],
+   "markdown": "de 10 de Março\n\nSob proposta do conselho científico da Faculdade de Letras da Universidade de Coimbra;\n\nAo abrigo do disposto no artigo 5.º do [Decreto n.º 131/82](https://diariodarepublica.pt/dr/detalhe/decreto/131-1982-379910), de 27 de Novembro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:\n\n1.º\n\n(Licenciatura em Filosofia)\n\nO plano de estudos da licenciatura em Filosofia pela Faculdade de Letras da Universidade de Coimbra passa a ser o seguinte:\n\n1.º ano:\n\nIntrodução à Filosofia.\n\nEpistemologia Geral.\n\nFilosofia do Conhecimento.\n\nFilosofia Antiga.\n\n2.º ano:\n\nLógica.\n\nFilosofia Medieval.\n\nFilosofia de Portugal.\n\nOpção.\n\n3.º ano:\n\nOntologia.\n\nAxiologia e Ética.\n\nFilosofia Moderna.\n\nFilosofia Social e Política.\n\nOpção.\n\n4.º ano:\n\nHermenêutica Filosófica.\n\nFilosofia Contemporânea.\n\nAntropologia Filosófica.\n\nEstética.\n\n2.º\n\n(Licenciatura em Línguas e Literaturas Modernas Variante de Estudos Portugueses e Ingleses)\n\nO plano de estudos da variante de Estudos Portugueses e Ingleses da licenciatura em Línguas e Literaturas Modernas pela Faculdade de Letras da Universidade de Coimbra passa a ser o seguinte:\n\n1.º ano:\n\nIntrodução aos Estudos Linguísticos.\n\nIntrodução aos Estudos Literários.\n\nTécnicas de Expressão do Português.\n\nInglês I.\n\nCultura Inglesa.\n\n2.º ano:\n\nFonética e Morfologia do Português.\n\nInglês II.\n\nLinguística Inglesa.\n\nLiteratura Portuguesa I.\n\nLiteratura Inglesa I.\n\nOpção.\n\n3.º ano:\n\nSintaxe e Semântica do Português.\n\nInglês III.\n\nLiteratura Portuguesa II.\n\nLiteratura Inglesa II.\n\nLiteratura Norte-Americana.\n\n4.º ano:\n\nHistória da Língua Portuguesa.\n\nInglês IV.\n\nLiteratura Portuguesa III ou Literatura Inglesa III.\n\nTeoria da Literatura.\n\nCultura Portuguesa.\n\n3.º\n\n(Licenciatura em Línguas e Literaturas Modernas Variante de Estudos Portugueses e Alemães)\n\nO plano de estudos da variante de Estudos Portugueses e Alemães da licenciatura em Línguas e Literaturas Modernas pela Faculdade de Letras da Universidade de Coimbra passa a ser o seguinte:\n\n1.º ano:\n\nIntrodução aos Estudos Linguísticos.\n\nIntrodução aos Estudos Literários.\n\nTécnicas de Expressão do Português.\n\nAlemão I.\n\nCultura Alemã.\n\n2.º ano:\n\nFonética e Morfologia do Português.\n\nAlemão II.\n\nLiteratura Portuguesa I.\n\nLiteratura Alemã I.\n\nOpção.\n\n3.º ano:\n\nSintaxe e Semântica do Português.\n\nAlemão III.\n\nLinguística Alemã.\n\nLiteratura Portuguesa II.\n\nLiteratura Alemã II.\n\nOpção.\n\n4.º ano:\n\nHistória da Língua Portuguesa.\n\nAlemão IV.\n\nLiteratura Portuguesa III ou Literatura Alemã III.\n\nTeoria da Literatura.\n\nCultura Portuguesa.\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 547/84](https://diariodarepublica.pt/dr/detalhe/portaria/547-1984-381741), publicado em 1984-08-01.\n\n6.º\n\n(Licenciatura em Línguas e Literaturas Modernas Variante de Estudos Ingleses e Alemães)\n\nO plano de estudos da variante de Estudos Ingleses e Alemães da licenciatura em Línguas e Literaturas Modernas pela Faculdade de Letras da Universidade de Coimbra passa a ser o seguinte:\n\n1.º ano:\n\nIntrodução aos Estudos Linguísticos.\n\nIntrodução aos Estudos Literários.\n\nInglês I.\n\nAlemão I.\n\nCultura Inglesa.\n\n2.º ano:\n\nInglês II.\n\nLinguística Inglesa.\n\nAlemão II.\n\nLiteratura Inglesa I.\n\nLiteratura Alemã I.\n\nCultura Alemã.\n\n3.º ano:\n\nInglês III.\n\nAlemão III.\n\nLinguística Alemã.\n\nLiteratura Inglesa II.\n\nLiteratura Alemã II.\n\nLiteratura Norte-Americana.\n\n4.º ano:\n\nInglês IV.\n\nAlemão IV.\n\nLiteratura Inglesa III ou Literatura Alemã III.\n\nTeoria da Literatura.\n\nOpção.\n\nMinistério da Educação, 17 de Fevereiro de 1983. - O Ministro da Educação, João José Fraústo da Silva."
+  }
+ }
+}

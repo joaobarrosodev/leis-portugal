@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-08-26'
+version_history:
+  file: portaria-620-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-08-26'
+    amending: pt:dre:193421:por
+    amending_title: Portaria n.º 740/97
+    changes:
+    - Altera Artigo unidades 6-6
+    - Adita Artigo depois da unidade 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/620/1992/06/29/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:24:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 740/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-620-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,7 +159,13 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Meca, município de Alenquer, com uma área de 1408 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Meca, município de Alenquer, com a área de 968,0760 ha.
+
+> Alterado pelo/a [Portaria n.º 740/97](https://diariodarepublica.pt/dr/detalhe/portaria/740-1997-193421), publicado em 1997-08-25.
+
+1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
+
+> Aditado pelo/a [Portaria n.º 740/97](https://diariodarepublica.pt/dr/detalhe/portaria/740-1997-193421), publicado em 1997-08-25.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, ao Clube de Caçadores do Município de Alenquer (registo da Direcção-Geral das Florestas n.º 3.482.89), com sede na Rua de Sacadura Cabral, bloco social, cave, esquerdo, Alenquer, a zona de caça associativa da freguesia de Meca (processo n.º 908 da Direcção-Geral das Florestas).
 

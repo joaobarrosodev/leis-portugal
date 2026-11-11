@@ -1,0 +1,143 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:221713:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-10-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ccb38f1ee684bb70"
+   ]
+  },
+  {
+   "date": "1987-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:662140:por",
+     "title": "Portaria n.º 188/87",
+     "published": "1987-03-17",
+     "dre_path": "/dr/detalhe/portaria/188-1987-662140"
+    },
+    {
+     "id": "pt:dre:662140:por",
+     "title": "Portaria n.º 188/87",
+     "published": "1987-03-17",
+     "dre_path": "/dr/detalhe/portaria/188-1987-662140"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 77"
+   ],
+   "fragments": [
+    "ab67b02abdff4f63",
+    "2388d904b3f277c5",
+    "1b4f7705473c813a",
+    "d87121a9dfcccde4",
+    "63b66a211a6745de",
+    "d28a3380c9ab23dc",
+    "46c1e89086ec05e4",
+    "e84259fe6f2a89d7",
+    "6cc34ff950f4c348",
+    "4f9ff51e72755ee3"
+   ]
+  }
+ ],
+ "fragments": {
+  "ccb38f1ee684bb70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Outubro\n\nSob proposta da Universidade dos Açores;\n\nOuvido o Governo Regional da Região Autónoma dos Açores, nos termos do [Decreto-Lei n.º 252/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1980-472131), de 25 de Julho, alterado pelo [Decreto-Lei n.º 138/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1983-312593), de 26 de Março;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho, e no [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:\n\n1.º\n\n(Criação de cursos)\n\nA Universidade dos Açores passa a conferir o grau de licenciado em:\n\na) Ensino de Biologia;\n\nb) Ensino de Geologia;\n\nc) Ensino de Matemática;\n\nd) Matemática;\n\ne) Matemática/Informática;\n\npassando, em consequência, a ministrar os respectivos cursos.\n\n2.º\n\n(Alteração de designações)\n\n1 - O curso de licenciatura em Ciências Agrárias, ramo de Produção Agrícola, passa a designar-se curso de Engenharia Agrícola.\n\n2 - O curso de licenciatura em Ciências Agrárias, ramo de Produção Animal, passa a designar-se curso de Engenharia Zootécnica.\n\n3.º\n\n(Extinção de cursos)\n\n1 - A Universidade dos Açores deixa de conferir o grau de licenciado em:\n\na) Ensino de Biologia e Geologia;\n\nb) Ensino de Física e Química;\n\nc) Ensino de Matemática e Desenho;\n\ncessando, em consequência, de ministrar os respectivos cursos.\n\n2 - A cessação da ministração dos cursos a que se referem as alíneas a) e c) do n.º 1 será feita progressivamente à medida que forem entrando em funcionamento os cursos a que se referem, respectivamente, as alíneas a) e c) do n.º 1.º\n\n3 - Os planos de estudos dos cursos agora extintos são os constantes dos anexos XVI a XVIII à presente portaria.\n\n4.º\n\n(Graus conferidos)\n\nA Universidade dos Açores passa, em consequência do disposto nos números anteriores, a conferir o grau de licenciado em:\n\na) Biologia (Ensino de);\n\nb) Engenharia Agrícola;\n\nc) Engenharia Zootécnica;\n\nd) Geologia (Ensino de);\n\ne) História;\n\nf) História e Ciências Sociais (Ensino de);\n\ng) História e Filosofia (Ensino de);\n\nh) Línguas e Literaturas Modernas (variantes de):\n\nI) Estudos Portugueses e Franceses;\n\nII) Estudos Portugueses e Ingleses;\n\ni) Matemática;\n\nj) Matemática (Ensino de);\n\nl) Matemática/Informática;\n\nm) Organização e Gestão de Empresas;\n\nn) Português e Francês (Ensino de);\n\no) Português e Inglês (Ensino de).\n\n5.º\n\n(Cursos organizados em regime de unidades de crédito)\n\n1 - Organizam-se pelo regime de unidades de crédito os cursos a que se referem as alíneas a) a d) e i) a m) do n.º 4.º\n\n2 - Os elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são, para os restantes cursos, os constantes dos anexos I a VIII à presente portaria.\n\n3 - Os planos de estudos dos cursos serão fixados por despacho reitoral, a publicar na 2.ª série do Diário da república, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de, Maio.\n\n6.º\n\n(Outros cursos)\n\nOs planos de estudos dos cursos de licenciatura a que se referem as alíneas e) a g), n) e o) do n.º 5.º são os constantes dos anexos IX a XV à presente portaria.\n\n7.º\n\n(Estágios)\n\n1 - O estágio dos cursos de licenciatura em ensino é regulado pela [Portaria n.º 431/79](https://diariodarepublica.pt/dr/detalhe/portaria/431-1979-377538), de 16 de Agosto, com as alterações introduzidas pelas Portarias n.os [791/80](https://diariodarepublica.pt/dr/detalhe/portaria/791-1980-462201), de 6 de Outubro, [176/83](https://diariodarepublica.pt/dr/detalhe/portaria/176-1983-309694), de 21 de Março, e [494/84](https://diariodarepublica.pt/dr/detalhe/portaria/494-1984-386070), de 23 de Julho.\n\n2 - Os estágios dos cursos de licenciatura em Engenharia Agrícola e em Engenharia Zootécnica revestem carácter profissionalizante e são realizados sob a orientação da universidade de, acordo com regulamento a aprovar pelo reitor.\n\n8.º\n\n(Classificação final)\n\n1 - A Classificação final dos cursos de licenciatura em ensino é calculada nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.\n\n2 - A classificação final dos cursos organizados em regime de unidades de crédito é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas, seminários e estágios em que o aluno realizou os créditos necessários à conclusão do curso.\n\n3 - A classificação final dos restantes cursos é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas, seminários e estágios integrantes do respectivo plano de estudos.\n\n4 - Os coeficientes de ponderação serão aprovados pelo conselho científico, ouvido o conselho pedagógico.\n\n9.º\n\n(Aplicação e regime de transição)\n\n1 - A entrada em vigor das alterações decorrentes da presente portaria será decidida por despacho do reitor, a publicar na 2.ª série do Diário da República, uma vez reunidas as condições necessárias à sua concretização.\n\n2 - Do despacho a que se refere o número anterior constarão o calendário de aplicação e as regras de transição, as quais serão fixadas sob proposta do conselho científico, ouvido o conselho pedagógico.\n\n3 - O regime de transição deverá, nas regras que fixar, respeitar os seguintes princípios:\n\na) Os novos cursos, ramos e planos entrarão em funcionamento progressivamente;\n\nb) Os cursos, ramos e planos que cessam de ser ministrados deixarão de o ser à medida que forem entrando em funcionamento os novos cursos, ramos e planos;\n\nc) Os graus de licenciatura nos cursos e ramos extintos serão conferidos pela última vez no ano lectivo em que for ministrado pela última vez o plano respectivo;\n\nd) Os alunos que por força da cessação da ministração dos cursos, ramos e planos em que hajam estado inscritos e da cessação da concessão dos respectivos graus não os possam concluir e obter serão integrados nos novos cursos, ramos e planos, mediante a fixação de um plano de estudos próprio. Esta regra aplica-se quer aos alunos que não consigam acompanhar a cessação da ministração dos planos de estudos actualmente em vigor por razões de não transição de ano quer a quaisquer outros, nomeadamente aqueles que reingressem.\n\nMinistério da Educação e Cultura.\n\nAssinada em 21 de Agosto de 1986.\n\nPelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.\n\nDo ANEXO X ao ANEXO XVIII\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/22600/28322838.pdf)"
+  },
+  "ab67b02abdff4f63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Outubro\n\nSob proposta da Universidade dos Açores;\n\nOuvido o Governo Regional da Região Autónoma dos Açores, nos termos do [Decreto-Lei n.º 252/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1980-472131), de 25 de Julho, alterado pelo [Decreto-Lei n.º 138/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1983-312593), de 26 de Março;\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho, e no [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:\n\n1.º\n\n(Criação de cursos)\n\nA Universidade dos Açores passa a conferir o grau de licenciado em:\n\na) Ensino de Biologia;\n\nb) Ensino de Geologia;\n\nc) Ensino de Matemática;\n\nd) Matemática;\n\ne) Matemática/Informática;\n\npassando, em consequência, a ministrar os respectivos cursos.\n\n2.º\n\n(Alteração de designações)\n\n1 - O curso de licenciatura em Ciências Agrárias, ramo de Produção Agrícola, passa a designar-se curso de Engenharia Agrícola.\n\n2 - O curso de licenciatura em Ciências Agrárias, ramo de Produção Animal, passa a designar-se curso de Engenharia Zootécnica.\n\n3.º\n\n(Extinção de cursos)\n\n1 - A Universidade dos Açores deixa de conferir o grau de licenciado em:\n\na) Ensino de Biologia e Geologia;\n\nb) Ensino de Física e Química;\n\nc) Ensino de Matemática e Desenho;\n\ncessando, em consequência, de ministrar os respectivos cursos.\n\n2 - A cessação da ministração dos cursos a que se referem as alíneas a) e c) do n.º 1 será feita progressivamente à medida que forem entrando em funcionamento os cursos a que se referem, respectivamente, as alíneas a) e c) do n.º 1.º\n\n3 - Os planos de estudos dos cursos agora extintos são os constantes dos anexos XVI a XVIII à presente portaria.\n\n4.º\n\n(Graus conferidos)\n\nA Universidade dos Açores passa, em consequência do disposto nos números anteriores, a conferir o grau de licenciado em:\n\na) Biologia (Ensino de);\n\nb) Engenharia Agrícola;\n\nc) Engenharia Zootécnica;\n\nd) Geologia (Ensino de);\n\ne) História;\n\nf) História e Ciências Sociais (Ensino de);\n\ng) História e Filosofia (Ensino de);\n\nh) Línguas e Literaturas Modernas (variantes de):\n\nI) Estudos Portugueses e Franceses;\n\nII) Estudos Portugueses e Ingleses;\n\ni) Matemática;\n\nj) Matemática (Ensino de);\n\nl) Matemática/Informática;\n\nm) Organização e Gestão de Empresas;\n\nn) Português e Francês (Ensino de);\n\no) Português e Inglês (Ensino de).\n\n5.º\n\n(Cursos organizados em regime de unidades de crédito)\n\n1 - Organizam-se pelo regime de unidades de crédito os cursos a que se referem as alíneas a) a d) e i) a m) do n.º 4.º\n\n2 - Os elementos a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, são, para os restantes cursos, os constantes dos anexos I a VIII à presente portaria.\n\n3 - Os planos de estudos dos cursos serão fixados por despacho reitoral, a publicar na 2.ª série do Diário da república, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de, Maio.\n\n6.º\n\n(Outros cursos)\n\nOs planos de estudos dos cursos de licenciatura a que se referem as alíneas e) a g), n) e o) do n.º 5.º são os constantes dos anexos IX a XV à presente portaria.\n\n7.º\n\n(Estágios)\n\n1 - O estágio dos cursos de licenciatura em ensino é regulado pela [Portaria n.º 431/79](https://diariodarepublica.pt/dr/detalhe/portaria/431-1979-377538), de 16 de Agosto, com as alterações introduzidas pelas Portarias n.os [791/80](https://diariodarepublica.pt/dr/detalhe/portaria/791-1980-462201), de 6 de Outubro, [176/83](https://diariodarepublica.pt/dr/detalhe/portaria/176-1983-309694), de 21 de Março, e [494/84](https://diariodarepublica.pt/dr/detalhe/portaria/494-1984-386070), de 23 de Julho.\n\n2 - Os estágios dos cursos de licenciatura em Engenharia Agrícola e em Engenharia Zootécnica revestem carácter profissionalizante e são realizados sob a orientação da universidade de, acordo com regulamento a aprovar pelo reitor.\n\n8.º\n\n(Classificação final)\n\n1 - A Classificação final dos cursos de licenciatura em ensino é calculada nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.\n\n2 - A classificação final dos cursos organizados em regime de unidades de crédito é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas, seminários e estágios em que o aluno realizou os créditos necessários à conclusão do curso.\n\n3 - A classificação final dos restantes cursos é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas, seminários e estágios integrantes do respectivo plano de estudos.\n\n4 - Os coeficientes de ponderação serão aprovados pelo conselho científico, ouvido o conselho pedagógico.\n\n9.º\n\n(Aplicação e regime de transição)\n\n1 - A entrada em vigor das alterações decorrentes da presente portaria será decidida por despacho do reitor, a publicar na 2.ª série do Diário da República, uma vez reunidas as condições necessárias à sua concretização.\n\n2 - Do despacho a que se refere o número anterior constarão o calendário de aplicação e as regras de transição, as quais serão fixadas sob proposta do conselho científico, ouvido o conselho pedagógico.\n\n3 - O regime de transição deverá, nas regras que fixar, respeitar os seguintes princípios:\n\na) Os novos cursos, ramos e planos entrarão em funcionamento progressivamente;\n\nb) Os cursos, ramos e planos que cessam de ser ministrados deixarão de o ser à medida que forem entrando em funcionamento os novos cursos, ramos e planos;\n\nc) Os graus de licenciatura nos cursos e ramos extintos serão conferidos pela última vez no ano lectivo em que for ministrado pela última vez o plano respectivo;\n\nd) Os alunos que por força da cessação da ministração dos cursos, ramos e planos em que hajam estado inscritos e da cessação da concessão dos respectivos graus não os possam concluir e obter serão integrados nos novos cursos, ramos e planos, mediante a fixação de um plano de estudos próprio. Esta regra aplica-se quer aos alunos que não consigam acompanhar a cessação da ministração dos planos de estudos actualmente em vigor por razões de não transição de ano quer a quaisquer outros, nomeadamente aqueles que reingressem.\n\nMinistério da Educação e Cultura.\n\nAssinada em 21 de Agosto de 1986.\n\nPelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior."
+  },
+  "2388d904b3f277c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Licenciatura em Ensino da Biologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Licenciatura em Ensino da Biologia\n\n1 - Área científica do curso:\n\n1.1 - Biologia;\n\n1.2 - Ciências da Educação.\n\n2 - Duração normal: cinco anos lectivos.\n\n3 - Áreas científicas e unidades de crédito:\n\n3.1 - Áreas científicas obrigatórias:\n\n3.1.1 - Biologia - 54,5;\n\n3.1.2 - Química - 15;\n\n3.1.3 - Matemática - 8;\n\n3.1.4 - Física - 8;\n\n3.1.5 - Ciências Sociais - 5,5;\n\n3.1.6 - Ciências da Educação - 28;\n\n3.1.7 - Geologia - 15;\n\n3.2 - Monografia - 6.\n\n4 - Condições necessárias à obtenção do grau:\n\n4.1 - Obtenção de 140 unidades de crédito;\n\n4.2 - Aprovação em estágio pedagógico."
+  },
+  "1b4f7705473c813a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Licenciatura em Engenharia Agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Licenciatura em Engenharia Agrícola\n\n1 - Área científica do curso: Engenharia Agrícola.\n\n2 - Duração normal: cinco anos lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à conclusão do curso e obtenção do grau:\n\n3.1 - Obrigatórias:\n\n3.1.1 - Ciências Exactas - 27;\n\n3.1.2 - Ciências Biológicas - 24,5;\n\n3.1.3 - Geociências - 12;\n\n3.1.4 - Fitotécnicas - 43,5;\n\n3.1.5 - Ciências Económicas - 11,5;\n\n3.1.6 - Engenharia - 23;\n\n3.1.7 - Ciências Humanas e Sociais - 2,5;\n\n3.1.8 - Língua Estrangeira (Inglês) - 4;\n\n3.2 - Optativas:\n\n3.2.1 - Ciências Biológicas - 2,5;\n\n3.2.2 - Zootecnias - 5;\n\n3.2.3 - Tecnologias - 5;\n\n3.2.4 - Engenharia - 2,5;\n\n3.2.5 - Ciências Humanas e Sociais - 2,5;\n\n3.3 - Estágio - 15.\n\n4 - Número total de unidades de crédito necessárias à obtenção do grau: 170 unidades de crédito."
+  },
+  "d87121a9dfcccde4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Licenciatura em Engenharia Zootécnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Licenciatura em Engenharia Zootécnica\n\n1 - Área científica do curso: Engenharia Zootécnica.\n\n2 - Duração normal: cinco anos lectivos.\n\n3 - Áreas científicas e unidades de crédito necessárias à conclusão do grau:\n\n3.1 - Obrigatórias:\n\n3.1.1 - Ciências Exactas - 27;\n\n3.1.2 - Ciências Biológicas - 24,5;\n\n3.1.3 - Ciências Zootécnicas - 51;\n\n3.1.4 - Ciências Geológicas - 6;\n\n3.1.5 - Ciências Económicas - 10;\n\n3.1.6 - Ciências Agronómicas - 9;\n\n3.1.7 - Engenharia - 9;\n\n3.1.8 - Língua Estrangeira (Inglês) - 4;\n\n3.1.9 - Ciências Humanas e Sociais - 2,5\n\n3.2 - Optativas:\n\n3.2.1 - Tecnologias - 5;\n\n3.2.2 - Zootecnias - 5;\n\n3.2.3 - Engenharias - 5;\n\n3.2.4 - Ciências Biológicas - 5;\n\n3.2.5 - Ciências Humanas e Sociais - 5;\n\n3.3 - Estágio - 15.\n\n4 - Número total de unidades de crédito necessárias à obtenção do grau: 165 unidades de crédito."
+  },
+  "63b66a211a6745de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Licenciatura em Ensino da Geologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Licenciatura em Ensino da Geologia\n\n1 - Área científica do curso:\n\n1.1 - Geologia;\n\n1.2 - Ciências da Educação.\n\n2 - Duração normal: cinco anos lectivos.\n\n3 - Áreas científicas e unidades de crédito:\n\n3.1 - Áreas científicas obrigatórias:\n\n3.1.1 - Matemática - 8;\n\n3.1.2 - Química - 12;\n\n3.1.3 - Física - 8;\n\n3.1.4 - Biologia - 15,5;\n\n3.1.5 - Ciências Sociais - 5,5;\n\n3.1.6 - Ciências da Educação - 28;\n\n3.1.7 - Geologia - 57;\n\n3.2 - Monografia - 6.\n\n4 - Condições para a obtenção do grau:\n\n4.1 - Obtenção de 140 unidades de crédito;\n\n4.2 - Aprovação no estágio pedagógico."
+  },
+  "d28a3380c9ab23dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO V — Licenciatura em Matemática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Licenciatura em Matemática\n\n1 - Área científica do curso: Matemática.\n\n2 - Duração normal: quatro anos lectivos.\n\n3 - Áreas científicas obrigatórias e unidades de crédito: Matemática - 120.\n\n4 - Número total de unidades de crédito necessárias à obtenção do grau: 120 unidades de crédito."
+  },
+  "46c1e89086ec05e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VI — Licenciatura em Ensino da Matemática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — Licenciatura em Ensino da Matemática\n\n1 - Área científica do curso:\n\n1.1 - Matemática;\n\n1.2 - Ciências da Educação.\n\n2 - Duração normal: cinco anos lectivos.\n\n3 - Áreas científicas e unidades de crédito:\n\n3.1 - Áreas científicas obrigatórias:\n\n3.1.1 - Matemática - 87;\n\n3.1.2 - Ciências da Educação - 24;\n\n3.2 - Áreas científicas optativas:\n\n3.2.1 - Matemática - 7;\n\n3.2.2 - Informática - 7.\n\n4 - Monografia - 7.\n\n5 - Condições para a obtenção do grau:\n\n5.1 - Obtenção de 125 unidades de crédito;\n\n5.2 - Aprovação em estágio pedagógico."
+  },
+  "e84259fe6f2a89d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VII — Licenciatura em Matemática/Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — Licenciatura em Matemática/Informática\n\n1 - Área científica do curso: Matemática/Informática.\n\n2 - Duração normal: cinco anos lectivos.\n\n3 - Áreas científicas e unidades de crédito:\n\n3.1 - Áreas científicas obrigatórias:\n\n3.1.1 - Matemática - 87;\n\n3.1.2 - Informática - 48;\n\n3.2 - Áreas científicas optativas:\n\n3.2.1 - Matemática - 7;\n\n3.2.2 - Informática - 7;\n\n3.3 - Estágio - 18.\n\n4 - Número total de unidades de crédito necessárias à obtenção do grau: 160 unidades de crédito."
+  },
+  "6cc34ff950f4c348": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VIII — Licenciatura em Organização e Gestão de Empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII — Licenciatura em Organização e Gestão de Empresas\n\n1 - Área cientifica do curso:\n\nOrganização e Gestão de Empresas.\n\n2 - Duração normal:\n\nDez semestres lectivos.\n\n3 - Número total de unidades de crédito necessário a obtenção do grau:\n\n135.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\n4.1.1 - Gestão ... 40\n\n4.1.2 - Matemática ... 24\n\n4.1.3 - Economia ... 15\n\n4.1.4 - História Económica ... 3\n\n4.1.5 - Direito ... 9\n\n4.1.6 - Inglês ... 6\n\n4.2 - Conjunto das áreas científicas optativas:\n\n4.2.1 - Economia ... 38\n\n4.2.2 - Matemática ... 38\n\n4.2.3 - Gestão ... 38\n\n4.2.4 - História Económica ... 38\n\n4.2.5 - Sociologia ... 38\n\n4.2.6 - Psicologia Económica ... 38\n\n4.2.7 - Ciência Política ... 38\n\n4.2.8 - Direito ... 38\n\n4.2.9 - Demografia ... 38\n\n4.2.10 - Informática ... 38"
+  },
+  "4f9ff51e72755ee3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IX — Licenciatura em História",
+   "in_force_from": "1987-03-22",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 188/87](https://diariodarepublica.pt/dr/detalhe/portaria/188-1987-662140), publicado em 1987-03-17."
+   ],
+   "markdown": "## ANEXO IX — Licenciatura em História\n\nO plano de estudos é o constante do [Decreto n.º 53/78](https://diariodarepublica.pt/dr/detalhe/decreto/53-1978-294565), de 31 de Maio, alterado pelo [Decreto n.º 131/82](https://diariodarepublica.pt/dr/detalhe/decreto/131-1982-379910), de 27 de Novembro, e Decreto n.º 75/84, de 27 de Novembro.\n\n> Aditado pelo/a [Portaria n.º 188/87](https://diariodarepublica.pt/dr/detalhe/portaria/188-1987-662140), publicado em 1987-03-17.\n\nDo ANEXO X ao ANEXO XVIII\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/22600/28322838.pdf)"
+  }
+ }
+}

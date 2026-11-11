@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:218945:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-08-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7bfd2324b5be8125"
+   ]
+  },
+  {
+   "date": "1990-08-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:573561:por",
+     "title": "Portaria n.º 676/90",
+     "published": "1990-08-17",
+     "dre_path": "/dr/detalhe/portaria/676-1990-573561"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 19"
+   ],
+   "fragments": [
+    "038839d283dcc5aa"
+   ]
+  }
+ ],
+ "fragments": {
+  "7bfd2324b5be8125": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Agosto\n\nSob proposta das comissões instaladoras do Instituto Politécnico de Castelo Branco e da sua Escola Superior Agrária;\n\nConsiderando o disposto na [Portaria n.º 855/83](https://diariodarepublica.pt/dr/detalhe/portaria/855-1983-455906), de 26 de Agosto:\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:\n\n1.º\n\n(Planos de estudos)\n\nOs planos de estudos dos cursos ministrados pela Escola Superior Agrária do Instituto Politécnico de Castelo Branco conducentes aos bacharelatos em:\n\na) Produção Agrícola;\n\nb) Produção Animal;\n\nc) Produção Florestal;\n\nsão os constantes dos anexos dos anexos I, II e III à presente portaria.\n\n2.º\n\n(Trabalho de fim de curso)\n\n1 - No decurso do último ano curricular os alunos realizarão um trabalho de fim de curso.\n\n2 - O trabalho de fim de curso reveste-se de carácter profissionalizante nas áreas das disciplinas de aplicação e terá como tempo mínimo de duração 240 horas em situação profissional.\n\n3 - A realização e avaliação do trabalho de fim de curso obedecerão a regulamento a aprovar pela comissão instaladora da Escola Superior Agrária, sob proposta do conselho científico.\n\n4 - O regulamento a que se refere o n.º 3 será sujeito a homologação da comissão instaladora do Instituto.\n\n3.º\n\n(Precedências e regime de transição de ano)\n\n1 - A tabela e o regime de precedências são fixados pelo conselho científico.\n\n2 - O regime de transição de ano é parte integrante do regime de precedências.\n\n3 - Na fixação do regime de transição de ano, o número máximo de disciplinas a que se refere o n.º 1 do artigo único do [Decreto n.º 46646](https://diariodarepublica.pt/dr/detalhe/decreto/46646-1965-512431), de 16 de Novembro de 1965, não pode ser excedido, podendo ser condicionado ao ano curricular a que as disciplinas devam pertencer ou assumir o valor zero.\n\n4.º\n\n(Condições para a obtenção do grau)\n\nSão condições para a obtenção do grau de bacharel nos cursos a que se refere o n.º 1.º a aprovação cumulativa:\n\na) Na totalidade das disciplinas que integram o respectivo plano de estudos;\n\nb) No trabalho de fim de curso a que se refere o n.º 2.º\n\n5.º\n\n(Classificação final)\n\n1 - A classificação final dos cursos é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o respectivo plano de estudos e da classificação do trabalho de fim de curso.\n\n2 - Os coeficientes de ponderação são fixados pelo conselho científico.\n\nMinistério da Educação e Cultura.\n\nAssinada em 26 de Junho de 1986.\n\nPelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/18000/19571962.pdf)"
+  },
+  "038839d283dcc5aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1990-08-22",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 676/90](https://diariodarepublica.pt/dr/detalhe/portaria/676-1990-573561), publicado em 1990-08-17."
+   ],
+   "markdown": "de 7 de Agosto\n\nSob proposta das comissões instaladoras do Instituto Politécnico de Castelo Branco e da sua Escola Superior Agrária;\n\nConsiderando o disposto na [Portaria n.º 855/83](https://diariodarepublica.pt/dr/detalhe/portaria/855-1983-455906), de 26 de Agosto:\n\nAo abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:\n\n1.º\n\n(Planos de estudos)\n\nOs planos de estudos dos cursos ministrados pela Escola Superior Agrária do Instituto Politécnico de Castelo Branco conducentes aos bacharelatos em:\n\na) Produção Agrícola;\n\nb) Produção Animal;\n\nc) Produção Florestal;\n\nsão os constantes dos anexos dos anexos I, II e III à presente portaria.\n\n2.º\n\n(Trabalho de fim de curso)\n\n1 - No decurso do último ano curricular os alunos realizarão um trabalho de fim de curso.\n\n2 - O trabalho de fim de curso reveste-se de carácter profissionalizante nas áreas das disciplinas de aplicação e terá como tempo mínimo de duração 240 horas em situação profissional.\n\n3 - A realização e avaliação do trabalho de fim de curso obedecerão a regulamento a aprovar pela comissão instaladora da Escola Superior Agrária, sob proposta do conselho científico.\n\n4 - O regulamento a que se refere o n.º 3 será sujeito a homologação da comissão instaladora do Instituto.\n\n2.º-A\n\nDisciplinas de opção\n\n1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integre o plano de estudos como disciplina de opção é de 10.\n\n2 - Exceptuam-se do disposto no n.º 1 os casos em que o docente assegure a docência da disciplina para além do número máximo de horas a que é obrigado por lei.\n\n3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.\n\n> Aditado pelo/a [Portaria n.º 676/90](https://diariodarepublica.pt/dr/detalhe/portaria/676-1990-573561), publicado em 1990-08-17.\n\n3.º\n\n(Precedências e regime de transição de ano)\n\n1 - A tabela e o regime de precedências são fixados pelo conselho científico.\n\n2 - O regime de transição de ano é parte integrante do regime de precedências.\n\n3 - Na fixação do regime de transição de ano, o número máximo de disciplinas a que se refere o n.º 1 do artigo único do [Decreto n.º 46646](https://diariodarepublica.pt/dr/detalhe/decreto/46646-1965-512431), de 16 de Novembro de 1965, não pode ser excedido, podendo ser condicionado ao ano curricular a que as disciplinas devam pertencer ou assumir o valor zero.\n\n4.º\n\n(Condições para a obtenção do grau)\n\nSão condições para a obtenção do grau de bacharel nos cursos a que se refere o n.º 1.º a aprovação cumulativa:\n\na) Na totalidade das disciplinas que integram o respectivo plano de estudos;\n\nb) No trabalho de fim de curso a que se refere o n.º 2.º\n\n5.º\n\n(Classificação final)\n\n1 - A classificação final dos cursos é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o respectivo plano de estudos e da classificação do trabalho de fim de curso.\n\n2 - Os coeficientes de ponderação são fixados pelo conselho científico.\n\nMinistério da Educação e Cultura.\n\nAssinada em 26 de Junho de 1986.\n\nPelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/18000/19571962.pdf)"
+  }
+ }
+}

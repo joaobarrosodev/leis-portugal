@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:381527:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-07-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1f900aeac180a468"
+   ]
+  },
+  {
+   "date": "1980-08-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:471120:por",
+     "title": "Resolução n.º 287/80",
+     "published": "1980-08-19",
+     "dre_path": "/dr/detalhe/resolucao/287-1980-471120"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 12-12",
+    "Altera Artigo unidades 14-15"
+   ],
+   "fragments": [
+    "55f32ccfabc4e3cd"
+   ]
+  }
+ ],
+ "fragments": {
+  "1f900aeac180a468": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando as medidas previstas para o saneamento financeiro pontual da CP - Caminhos de Ferro Portugueses, E. P., e sua possível concretização a curto prazo, na sequência da análise elaborada pela comissão de apreciação da proposta de acordo de reequilíbrio económico-financeiro, nomeada nos termos do despacho conjunto de 4 de Abril passado, inserto no Diário da República, 2.ª série, n.º 95, de 24 do mesmo mês;\n\nConsiderando que da análise efectuada se conclui pela necessidade de reforço do capital estatutário e consolidação de passivos num valor global não inferior a 17,5 milhões de contos;\n\nConsiderando que a empresa não tem conseguido libertar fundos suficientes ao pagamento das suas responsabilidades, daí resultando, em alguns casos, situações de mora (capital e juros) que se impõe regularizar dado o volume atingido e pelo facto de respeitarem a entidades estrangeiras ou nacionais igualmente em dificuldades financeiras;\n\nConsiderando que tal situação obriga a que sejam tomadas medidas de emergência, porquanto não é possível desde já efectuar a emissão de obrigações, a processar nos termos e condições do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), de 19 de Junho:\n\nO Conselho de Ministros, reunido em 4 de Julho de 1979, resolveu:\n\n1 - Autorizar o Ministro das Finanças e do Plano a conceder à CP - Caminhos de Ferro Portugueses, E. P., um financiamento intercalar no montante de 1500000 contos, ao abrigo do [Decreto-Lei n.º 49240](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49240-1969-214030), de 15 de Setembro de 1969, à taxa de juro de 10% ao ano, a regularizar logo que seja tomado o empréstimo representado por obrigações que a empresa irá emitir.\n\n2 - A aplicação do montante referido no n.º 1 far-se-á de acordo com o esquema a aprovar por despacho do Secretário de Estado do Tesouro, ficando desde já definido que, pelo menos, 50% deverão ser afectados a dívidas contraídas pela empresa junto de fornecedores nacionais, desde que estes hajam recorrido ao desconto dos seus créditos nas instituições bancárias e se encontrem numa situação de incumprimento para com as mesmas instituições, às quais deverá ser processada directamente a correspondente regularização.\n\n3 - Se atribua à CP - Caminhos de Ferro Portugueses, E. P., uma dotação de capital no montante de 650000 contos destinada ao seu saneamento económico e financeiro, sendo 150000 contos a retirar da verba orçamental em 1978, de acordo com a [Resolução n.º 102/78](https://diariodarepublica.pt/dr/detalhe/resolucao/102-1978-681393), de 21 de Junho, e 500000 contos por conta do Orçamento Geral do Estado para 1979.\n\n4 - A verba de 650000 contos indicada no n.º 3 deverá ser aplicada preferentemente na liquidação de dívidas ao Estado e à Previdência, segundo proposta a apresentar pela empresa.\n\n5 - Autorizar a prestação do aval a uma operação intercalar no montante de 1 milhão de contos e respectivos encargos financeiros futuros, a repartir pelos bancos comerciais credores da empresa nas seguintes proporções, tomando-se em consideração a sua dimensão e posicionamento face aos actuais condicionalismos quantitativos do crédito:\n\nBESCL, BNU, BPSM e BPA - 16% cada um;\n\nUBP e BTA - 10,5% cada um;\n\nBFP, BBI e CPP - 5% cada um.\n\nO produto deste empréstimo destinar-se-á exclusivamente à liquidação de dívidas vencidas aos caminhos de ferro estrangeiros e as respectivas transferências serão efectuadas pelos bancos acima referidos até à concorrência da parcela de financiamento assegurada por cada um.\n\n6 - Por forma a permitir o completamento de alguns investimentos em curso, que na situação actual dificultam a recuperação económica da empresa, o Estado ou o FETT concederá o aval a uma operação até 250000 contos, em condições a negociar com a Caixa Geral de Depósitos e o Banco de Fomento Nacional.\n\nA CP facultará a relação pormenorizada dos investimentos a concluir, devendo a utilização do empréstimo efectuar-se à medida da sua concretização, cabendo àquelas instituições de crédito controlar as correspondentes aplicações.\n\n7 - A comissão de apreciação da proposta de acordo de reequilíbrio económico e financeiro deverá prestar todo o apoio no desenvolvimento das negociações entre a empresa e os respectivos credores tendentes ao estabelecimento do protocolo financeiro e consequente emissão de obrigações, devendo este processo estar concluído em 31 de Agosto de 1979.\n\nPresidência do Conselho de Ministros, 4 de Julho de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto."
+  },
+  "55f32ccfabc4e3cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1980-08-19",
+   "changed_by": [
+    "Alterado pelo/a [Resolução n.º 287/80](https://diariodarepublica.pt/dr/detalhe/resolucao/287-1980-471120), publicado em 1980-08-19.",
+    "Alterado pelo/a [Resolução n.º 287/80](https://diariodarepublica.pt/dr/detalhe/resolucao/287-1980-471120), publicado em 1980-08-19."
+   ],
+   "markdown": "Considerando as medidas previstas para o saneamento financeiro pontual da CP - Caminhos de Ferro Portugueses, E. P., e sua possível concretização a curto prazo, na sequência da análise elaborada pela comissão de apreciação da proposta de acordo de reequilíbrio económico-financeiro, nomeada nos termos do despacho conjunto de 4 de Abril passado, inserto no Diário da República, 2.ª série, n.º 95, de 24 do mesmo mês;\n\nConsiderando que da análise efectuada se conclui pela necessidade de reforço do capital estatutário e consolidação de passivos num valor global não inferior a 17,5 milhões de contos;\n\nConsiderando que a empresa não tem conseguido libertar fundos suficientes ao pagamento das suas responsabilidades, daí resultando, em alguns casos, situações de mora (capital e juros) que se impõe regularizar dado o volume atingido e pelo facto de respeitarem a entidades estrangeiras ou nacionais igualmente em dificuldades financeiras;\n\nConsiderando que tal situação obriga a que sejam tomadas medidas de emergência, porquanto não é possível desde já efectuar a emissão de obrigações, a processar nos termos e condições do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), de 19 de Junho:\n\nO Conselho de Ministros, reunido em 4 de Julho de 1979, resolveu:\n\n1 - Autorizar o Ministro das Finanças e do Plano a conceder à CP - Caminhos de Ferro Portugueses, E. P., um financiamento intercalar no montante de 1500000 contos, ao abrigo do [Decreto-Lei n.º 49240](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49240-1969-214030), de 15 de Setembro de 1969, à taxa de juro de 10% ao ano, a regularizar logo que seja tomado o empréstimo representado por obrigações que a empresa irá emitir.\n\n2 - A aplicação do montante referido no n.º 1 far-se-á de acordo com o esquema a aprovar por despacho do Secretário de Estado do Tesouro, ficando desde já definido que, pelo menos, 50% deverão ser afectados a dívidas contraídas pela empresa junto de fornecedores nacionais, desde que estes hajam recorrido ao desconto dos seus créditos nas instituições bancárias e se encontrem numa situação de incumprimento para com as mesmas instituições, às quais deverá ser processada directamente a correspondente regularização.\n\n3 - Se atribua à CP - Caminhos de Ferro Portugueses, E. P., uma dotação de capital no montante de 650000 contos destinada ao seu saneamento económico e financeiro, sendo 150000 contos a retirar da verba orçamental em 1978, de acordo com a [Resolução n.º 102/78](https://diariodarepublica.pt/dr/detalhe/resolucao/102-1978-681393), de 21 de Junho, e 500000 contos por conta do Orçamento Geral do Estado para 1979.\n\n4 - A verba de 650000 contos indicada no n.º 3 deverá ser aplicada preferentemente na liquidação de dívidas ao Estado e à Previdência, segundo proposta a apresentar pela empresa.\n\n5 - Autorizar a prestação do aval a uma operação intercalar no montante de 1 milhão de contos e respectivos encargos financeiros futuros, a repartir pelos bancos comerciais credores da empresa nas seguintes proporções, tomando-se em consideração a sua dimensão e posicionamento face aos actuais condicionalismos quantitativos do crédito:\n\nBESCL, BNU, BPSM e BPA - 15% cada um;\n\n> Alterado pelo/a [Resolução n.º 287/80](https://diariodarepublica.pt/dr/detalhe/resolucao/287-1980-471120), publicado em 1980-08-19.\n\nUBP e BTA - 10,5% cada um;\n\nBFB, BBI e CPP - 5% cada um.\n\nO produto deste empréstimo terá a seguinte aplicação: 86% destinar-se-ão à liquidação de dívidas vencidas aos caminhos de ferro estrangeiros e as respectivas transferências serão efectuadas pelos bancos acima referidos, dentro da parcela de financiamento assegurada por cada um; os restantes 14% destinar-se-ão à liquidação de dívidas vencidas a fornecedores estrangeiros, segundo proposta a apresentar pela empresa ao Banco de Portugal, que assegurará, junto da banca, a coordenação desta aplicação.\n\nAs transferências serão efectuadas directamente pelos bancos intervenientes no financiamento.\n\n> Alterado pelo/a [Resolução n.º 287/80](https://diariodarepublica.pt/dr/detalhe/resolucao/287-1980-471120), publicado em 1980-08-19.\n\n6 - Por forma a permitir o completamento de alguns investimentos em curso, que na situação actual dificultam a recuperação económica da empresa, o Estado ou o FETT concederá o aval a uma operação até 250000 contos, em condições a negociar com a Caixa Geral de Depósitos e o Banco de Fomento Nacional.\n\nA CP facultará a relação pormenorizada dos investimentos a concluir, devendo a utilização do empréstimo efectuar-se à medida da sua concretização, cabendo àquelas instituições de crédito controlar as correspondentes aplicações.\n\n7 - A comissão de apreciação da proposta de acordo de reequilíbrio económico e financeiro deverá prestar todo o apoio no desenvolvimento das negociações entre a empresa e os respectivos credores tendentes ao estabelecimento do protocolo financeiro e consequente emissão de obrigações, devendo este processo estar concluído em 31 de Agosto de 1979.\n\nPresidência do Conselho de Ministros, 4 de Julho de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto."
+  }
+ }
+}

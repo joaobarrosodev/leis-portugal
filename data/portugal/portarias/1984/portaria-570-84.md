@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-12-18'
+version_history:
+  file: portaria-570-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-08-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-12-18'
+    amending: pt:dre:550466:por
+    amending_title: Portaria n.º 1078/89
+    changes:
+    - Altera Artigo unidades 36-57
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:07:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1078/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-570-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -196,46 +211,50 @@ O Ministro da Educação, José Augusto Seabra.
 
 1 - Áreas científicas do curso:
 
-Geologia.
+a) Geologia;
 
-Geologia de Engenharia.
+b) Geologia de Engenharia.
 
 2 - Duração normal do curso:
 
-5 anos.
+Cinco anos lectivos.
 
-3 - Número total de unidades de crédito necessário à concessão do grau:
+3 - Número total mínimo de unidades de crédito necessário à concessão do grau:
 
-162.
+160.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
 4.1 - Áreas científicas obrigatórias:
 
-a) Geologia ... 60,5
+a) Geologia ... 69
 
 b) Geologia de Engenharia ... 18
 
-c) Matemática ... 13,5
+c) Matemática ... 20
 
-d) Informática ... 2,5
+d) Informática ... 3
 
 e) Física ... 11
 
-f) Química ... 10
+f) Química ... 11
 
-g) Ciências Humanas e Sociais ... 11,5
+g) Ciências de Engenharia ... 10
 
-h) Ciências de Engenharia ... 10
+h) Ambiente ... 3
 
-i) Engenharia do Ambiente ... 10
+4.2 - Conjunto das áreas científicas optativas:
 
-j) Ecologia e Ciências Biológicas ... 7
+a) Geologia ... (ver nota *) 9
 
-4.2 - Áreas científicas optativas:
+b) Geologia de Engenharia ... (ver nota *) 9
 
-a) Geologia ... 4
+c) Ambiente ... (ver nota *) 9
 
-b) Geologia de Engenharia ... 4
+d) Ciências Sociais e Humanas ... (ver nota *) 9
 
-4.3 - Seminário ... 4
+4.3 - Estágio ... 6
+
+(nota *) Do número de unidades de crédito atribuído ao conjunto das áreas científicas optativas os alunos só poderão realizar um máximo de três unidades de crédito na área científica do Ambiente.
+
+> Alterado pelo/a [Portaria n.º 1078/89](https://diariodarepublica.pt/dr/detalhe/portaria/1078-1989-550466), publicado em 1989-12-13.

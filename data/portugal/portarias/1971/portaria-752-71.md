@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-04-30'
+version_history:
+  file: portaria-752-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-04-30'
+    amending: pt:dre:393048:por
+    amending_title: Portaria n.º 448/82
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:40:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 448/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-752-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,6 +126,8 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Informa�
 
 É aprovado o quadro de pessoal da Comissão Regional de Turismo da Serra da Arrábida, assim constituído, o qual substitui o anteriormente aprovado:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/30401/00050005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/10000/10991100.pdf)
+
+> Alterado pelo/a [Portaria n.º 448/82](https://diariodarepublica.pt/dr/detalhe/portaria/448-1982-393048), publicado em 1982-04-30.
 
 O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista.

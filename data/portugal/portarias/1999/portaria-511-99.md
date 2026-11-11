@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-10-30'
+version_history:
+  file: portaria-511-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-07-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-10-30'
+    amending: pt:dre:531674:por
+    amending_title: Portaria n.º 1020/2000
+    changes:
+    - Altera Artigo unidades 23-38
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/511/1999/07/16/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:15:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1020/2000. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-511-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -211,34 +226,8 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 Escola Superior de Gestão
 
-Curso de Gestão de Empresas
+Curso: Gestão de Empresas
 
-1.º ciclo - Grau de bacharel
+[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/247b00/59955998.pdf)
 
-[(ver quadros n.os 1 a 4 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44504455.pdf)
-
-Opção de Organização e Gestão de Empresas
-
-[(ver quadros n.os 5 e 6 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44504455.pdf)
-
-Opção de Gestão Financeira
-
-[(ver quadros n.os 7 e 8 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44504455.pdf)
-
-Opção de Gestão de Comércio e Serviços
-
-[(ver quadros n.os 9 e 10 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44504455.pdf)
-
-2.º ciclo - Grau de licenciado
-
-Ramo de Organização e Gestão de Empresas
-
-[(ver quadros n.os 11 e 12 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44504455.pdf)
-
-Ramo de Gestão Financeira
-
-[(ver quadros n.os 13 e 14 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44504455.pdf)
-
-Ramo de Gestão de Comércio e Serviços
-
-[(ver quadros n.os 15 e 16 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44504455.pdf)
+> Alterado pelo/a [Portaria n.º 1020/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1020-2000-531674), publicado em 2000-10-25.
