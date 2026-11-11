@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:356691:por",
+  "substituicoes": [
+    {
+      "de": 23,
+      "ate": 38,
+      "texto": "Curso: Gestão de Empresas\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/247b00/59955998.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: o conteúdo do novo anexo (quadros do plano de estudos) só vem em imagem; substituí apenas a parte textual do anexo e a ligação para os quadros.",
+  "instrucoes": [
+    "Alterador 1, 2.º: o anexo passa a ter a redação do anexo da Portaria 1020/2000; substituídas as unidades 23-38 pelo texto e ligação do novo anexo (quadros só em imagem).",
+    "Alterador 1, 1.º, 3.º e 4.º: desdobramento em opções/ramos, aplicação e transição são normas próprias do alterador, sem alteração textual ao original.",
+    "Alterador 2: altera o n.º 4.º da Portaria 1020/2000, não o original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

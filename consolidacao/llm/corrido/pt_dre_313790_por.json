@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:313790:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 15,
+      "texto": "Carreira de agente técnico ... 28\n\nCarreira de agente sénior ... 14",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10481050.pdf)",
+      "alterador": 3
+    },
+    {
+      "de": 20,
+      "ate": 29,
+      "texto": "Auxiliar administrativo. - Vigia as entradas e saídas, controlando a presença de pessoas estranhas à Agência; presta informações aos visitantes, encaminhando-os para os serviços ou funcionários devidos; entrega e recebe a correspondência no correio ou outro local; executa recados; assegura reproduções por fotocópia e arquivo de documentos e publicações.\n\nMotorista. - Assegura o transporte de pessoas, correio e cargas, conduzindo diversos tipos de veículos motorizados e zelando pela conservação dos mesmos.\n\nEmpregado administrativo. - Preparam, dactilografam, classificam, registam e arquivam documentos e correspondência, registam e tratam dados contabilísticos ou outros, servindo-se para tanto dos processos de tratamento de texto ou de cálculo que sejam determinados.\n\nEmpregado administrativo principal. - Executa as tarefas de empregado administrativo com autonomia significativa quanto às metodologias empregues.\n\nSecretária de departamento. - Estenografam e dactilografam documentos e correspondência; classificam e distribuem correspondência; marcam e registam os compromissos profissionais dos seus superiores hierárquicos, relembrando-os aos interessados; mantém actualizadas as suas agendas de trabalho; estabelece as ligações por telefone e transmite mensagens; recebe, anuncia e encaminha pessoas; prepara dossiers, reuniões e sessões de trabalho; assegura o arquivo do departamento.\n\nSecretária de direcção. - Além das tarefas cometidas às secretárias de departamento, redige e dactilografa, em português ou outra língua, documentos e correspondência a partir de notas por si tomadas ou de indicações sumárias que lhe sejam fornecidas; reúne elementos de suporte para decisões superiores, compilando documentação e informação pertinentes; transmite decisões; redige actas, dactilografa-as e assegura a sua distribuição, bem como das circulares e ordens de serviço.\n\nOperador do sistema informático. - Assegura e controla o funcionamento de computadores e equipamentos periféricos; instala programas; regista e trata dados em suporte informático; identifica avarias e promove a sua reparação; apoia e dá formação a outros operadores do sistema.\n\nAgente técnico especializado. - Executa tarefas que exigem formação técnica específica, conformes à sua formação escolar ou profissional, sob a orientação de um agente sénior especializado ou da direcção.\n\nAgente de controlo. - Executa acções de inspecção e controlo da aplicação das regras de candidatura e atribuição e pagamento das ajudas ao sector do azeite, junto dos seus beneficiários, suas associações e lagares, bem como junto de outros agentes económicos, dentro ou fora da fileira oleícola, com os quais os beneficiários da ajuda tenham procedido a transacções relevantes, com vista a verificar a existência e regularidade das operações relatadas pelos beneficiários. Registam o resultado das suas verificações nos impressos próprios e elaboram relatórios da sua actuação que acompanham ou não das suas conclusões. Deparando-se com situações irregulares, registam os seus factos constitutivos, recolhem prova dos mesmos e tentam identificar os seus responsáveis. Podem participar em outras acções de controlo por determinação superior. Pode orientar a actividade de outros técnicos.\n\nAgente sénior especializado. - Realiza estudos e executa tarefas que requerem qualificações específicas conformes à sua formação escolar e profissional; elabora, no âmbito da sua autonomia, interpreta e aplica conjuntos de normas, regras de procedimento e instruções da sua área de especialidade; prepara directrizes para aprovação superior; pode exercer funções de coordenação ou similares.\n\nAgente sénior de controlo. - Executa as tarefas de agente de controlo com autonomia significativa quanto às metodologias empregues, elabora relatórios sectoriais; pode exercer funções de coordenação ou similares.\n\nAnalista de sistemas informáticos. - Avalia as necessidades da Agência em matéria de processamento e tratamento automático da informação; avalia e determina as soluções que melhor correspondem às necessidades da Agência, tendo em conta o quadro de referência de opções que lhe seja fixado pela direcção; testa as soluções fornecidas, com vistas à sua aceitação ou rejeição; analisa os resultados obtidos com os meios empregues e promove a optimização destes, determinando os procedimentos a observar por operadores e utilizadores. Pode dirigir a instalação de soluções informáticas. Pode exercer funções de coordenação ou similares.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O conteúdo do anexo II (categorias profissionais e enquadramento), na redação dos alteradores 2 e 3, só vem em imagem: apenas se trocou a ligação para o documento do alterador 3, sem transcrever o quadro.",
+  "instrucoes": [
+    "Alterador 1: anexo I substituído — só mudam as linhas do agente técnico (28) e do agente sénior (14), unidades 14 a 15",
+    "Alterador 2: anexos II e III substituídos pelos seus anexos I e II — depois substituídos de novo pelo alterador 3",
+    "Alterador 3: anexo II substituído (quadro só em imagem) — unidade 18 passa a ligação do alterador 3",
+    "Alterador 3: anexo III substituído pelo seu anexo II — unidades 20 a 29 com o texto do alterador 3"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

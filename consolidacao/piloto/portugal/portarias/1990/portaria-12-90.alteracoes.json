@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 14-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Carreira de agente técnico ... 34\n\nCarreira de agente sénior ... 8",
+    "depois": "Carreira de agente técnico ... 28\n\nCarreira de agente sénior ... 14",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:313790:por",
+    "alterador": "pt:dre:218694:por;pt:dre:386218:por"
+  },
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/00700/00880090.pdf)",
+    "depois": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/046b00/10481050.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:313790:por",
+    "alterador": "pt:dre:218694:por;pt:dre:386218:por"
+  },
+  {
+    "artigo": "unidades 20-29",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Auxiliar administrativo. - Desempenha tarefas rotineiras não especificadas, de apoio geral.\n\nMotorista. - Assegura o transporte de pessoas, carga, correio e materiais conduzindo diversos tipos de veículos motorizados, ligeiros e pesados, e zelando pela conservação dos mesmos.\n\nEmpregado Administrativo. - Executa tarefas de âmbito administrativo, de acordo com a área em que se encontra integrado, podendo nessas tarefas utilizar meios tecnologicamente adequados.\n\nSecretária. - Assegura, por sua iniciativa, de forma mais conveniente, apoio administrativo, documental e as comunicações à direcção; dactilografa cartas, relatórios e outros textos; dá entrada da correspondência e encaminha-a para os destinatários competentes.\n\nAgente de controlo/agente sénior de controlo. - Executa, com autonomia crescente, funções de inspecção de acordo com as directrizes recebidas e no estrito cumprimento da legislação aplicável, especialmente a consignada no artigo 21.º do [Decreto-Lei n.º 70/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1989-612857), de 2 de Março; pode coordenar as actividades de outros técnicos.\n\nOperador de computador. - Opera e controla computadores e equipamentos periféricos através de consola; procede à introdução de dados; dá formação a outros utilizadores.\n\nTécnico de contabilidade. - Executa com autonomia funções na área da gestão contabilístico-financeira de acordo com as directrizes recebidas e no estrito cumprimento da legislação aplicável; assegura a contabilidade da ACACSA; pode coordenar as actividades de outros técnicos.\n\nBacharel. - Executa trabalho técnico individualizado, adequado à formação do titular, e sob controlo de outro profissional do mesmo ramo ou apoiado em orientação técnica por ele bem definida.\n\nProgramador-analista. - Analisa as necessidades de tratamento de informação apresentada pelos utilizadores; elabora os fluxogramas; desenvolve a programação respectiva e procede aos testes adequados; elabora os manuais de análise e programação; emite opinião sobre equipamentos e aplicações; assegura a gestão do centro de dados; dá formação aos utilizadores e coordena a actividade de outros profissionais no âmbito da sua especialidade.\n\nLicenciado. - Realiza estudos e projectos que requerem elevada qualificação técnica com vista à solução de problemas globais; executa actividades e ou interpreta normas, procedimentos e instruções de carácter técnico no âmbito da sua especialidade (direito, economia, contabilidade e agronomia); pode coordenar as actividades de outros técnicos.",
+    "depois": "Auxiliar administrativo. - Vigia as entradas e saídas, controlando a presença de pessoas estranhas à Agência; presta informações aos visitantes, encaminhando-os para os serviços ou funcionários devidos; entrega e recebe a correspondência no correio ou outro local; executa recados; assegura reproduções por fotocópia e arquivo de documentos e publicações.\n\nMotorista. - Assegura o transporte de pessoas, correio e cargas, conduzindo diversos tipos de veículos motorizados e zelando pela conservação dos mesmos.\n\nEmpregado administrativo. - Preparam, dactilografam, classificam, registam e arquivam documentos e correspondência, registam e tratam dados contabilísticos ou outros, servindo-se para tanto dos processos de tratamento de texto ou de cálculo que sejam determinados.\n\nEmpregado administrativo principal. - Executa as tarefas de empregado administrativo com autonomia significativa quanto às metodologias empregues.\n\nSecretária de departamento. - Estenografam e dactilografam documentos e correspondência; classificam e distribuem correspondência; marcam e registam os compromissos profissionais dos seus superiores hierárquicos, relembrando-os aos interessados; mantém actualizadas as suas agendas de trabalho; estabelece as ligações por telefone e transmite mensagens; recebe, anuncia e encaminha pessoas; prepara dossiers, reuniões e sessões de trabalho; assegura o arquivo do departamento.\n\nSecretária de direcção. - Além das tarefas cometidas às secretárias de departamento, redige e dactilografa, em português ou outra língua, documentos e correspondência a partir de notas por si tomadas ou de indicações sumárias que lhe sejam fornecidas; reúne elementos de suporte para decisões superiores, compilando documentação e informação pertinentes; transmite decisões; redige actas, dactilografa-as e assegura a sua distribuição, bem como das circulares e ordens de serviço.\n\nOperador do sistema informático. - Assegura e controla o funcionamento de computadores e equipamentos periféricos; instala programas; regista e trata dados em suporte informático; identifica avarias e promove a sua reparação; apoia e dá formação a outros operadores do sistema.\n\nAgente técnico especializado. - Executa tarefas que exigem formação técnica específica, conformes à sua formação escolar ou profissional, sob a orientação de um agente sénior especializado ou da direcção.\n\nAgente de controlo. - Executa acções de inspecção e controlo da aplicação das regras de candidatura e atribuição e pagamento das ajudas ao sector do azeite, junto dos seus beneficiários, suas associações e lagares, bem como junto de outros agentes económicos, dentro ou fora da fileira oleícola, com os quais os beneficiários da ajuda tenham procedido a transacções relevantes, com vista a verificar a existência e regularidade das operações relatadas pelos beneficiários. Registam o resultado das suas verificações nos impressos próprios e elaboram relatórios da sua actuação que acompanham ou não das suas conclusões. Deparando-se com situações irregulares, registam os seus factos constitutivos, recolhem prova dos mesmos e tentam identificar os seus responsáveis. Podem participar em outras acções de controlo por determinação superior. Pode orientar a actividade de outros técnicos.\n\nAgente sénior especializado. - Realiza estudos e executa tarefas que requerem qualificações específicas conformes à sua formação escolar e profissional; elabora, no âmbito da sua autonomia, interpreta e aplica conjuntos de normas, regras de procedimento e instruções da sua área de especialidade; prepara directrizes para aprovação superior; pode exercer funções de coordenação ou similares.\n\nAgente sénior de controlo. - Executa as tarefas de agente de controlo com autonomia significativa quanto às metodologias empregues, elabora relatórios sectoriais; pode exercer funções de coordenação ou similares.\n\nAnalista de sistemas informáticos. - Avalia as necessidades da Agência em matéria de processamento e tratamento automático da informação; avalia e determina as soluções que melhor correspondem às necessidades da Agência, tendo em conta o quadro de referência de opções que lhe seja fixado pela direcção; testa as soluções fornecidas, com vistas à sua aceitação ou rejeição; analisa os resultados obtidos com os meios empregues e promove a optimização destes, determinando os procedimentos a observar por operadores e utilizadores. Pode dirigir a instalação de soluções informáticas. Pode exercer funções de coordenação ou similares.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:313790:por",
+    "alterador": "pt:dre:218694:por;pt:dre:386218:por"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:288220:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Lei n.º 9/2009, artigo 55.º, n.º 1, alínea t)) revoga a Portaria n.º 325/2000 por inteiro (o n.º 2 só a mantém em vigor transitoriamente quanto às profissões e autoridades até nova portaria). Antes disso, o alterador 1 (Portaria n.º 41/2008) dá nova redação ao mapa anexo, que só existe em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do mapa anexo (imagem) - não aplicada.",
+    "Alterador 2, artigo 55.º, n.º 1, alínea t): revogação de toda a portaria - nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

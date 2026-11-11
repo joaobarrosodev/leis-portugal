@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º As praças especializadas em clarim, condutor de automóveis ou sapador submarino deixam automàticamente de ser consideradas como especializadas quando forem promovidos a cabo na classe a que pertencem, a menos que nessa data estejam nos cursos de conversão para ingresso, respectivamente, nas classes de mestres clarins, de condutores mecânicos de automóveis ou de mergulhadores. Quando assim suceder, a especialização manter-se-á até ao ingresso nas citadas classes.",
+    "depois": "3.º As praças especializadas em clarim, condutor de automóveis ou sapador submarino deixam automàticamente de ser consideradas especializadas quando forem promovidas a cabo na classe a que pertencem, a menos que nessa data tenham logrado aprovação nos concursos de admissão aos cursos de conversão e aguardem o início ou estejam a frequentar os referidos cursos para ingresso, respectivamente, nas classes de mestres clarins, de condutores mecânicos de automóveis ou de mergulhadores, ou ainda, no caso dos sapadores submarinos, tenham declarado ser voluntários para ingressar na classe de mergulhadores, e a declaração tenha sido aceite em função das informações e conveniência de serviço.\n\nQuando assim suceder, a especialização manter-se-á até ao ingresso nas citadas classes.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:272222:por",
+    "alterador": "pt:dre:527452:por"
+  }
+]

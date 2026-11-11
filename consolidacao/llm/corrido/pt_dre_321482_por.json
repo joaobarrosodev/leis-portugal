@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:321482:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Decreto Regulamentar 11/96, artigo 1.º: altera o mapa I do anexo I (quadro de pessoal) na parte das carreiras de técnico-adjunto de laboratório e de electrotecnia; o mapa só existe em imagem, não se pode aplicar textualmente.",
+  "instrucoes": [
+    "DR 11/96, art. 1.º: novo mapa I (parcial) do quadro de pessoal, em imagem - não aplicado.",
+    "DR 11/96, art. 2.º: transição de pessoal - não é alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

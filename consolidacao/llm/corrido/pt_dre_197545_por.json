@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:197545:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 957/98 substitui o plano de estudos anexo, mas o plano novo (e o original) só vem em quadros em imagem; não se pode aplicar ao texto.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: o plano de estudos passa a ser o do anexo novo (só em imagem); não aplicado.",
+    "Alterador 1, n.os 2.º e 3.º: aplicação a partir de 1998-1999 e regras de transição; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

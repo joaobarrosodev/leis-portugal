@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:283277:por",
+  "substituicoes": [
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "19.º - a) Para permitir a execução dos projectos, o IFADAP põe à disposição dos beneficiários avanços das ajudas até ao limite de 25% das suas despesas anuais elegíveis.\n\nb) Excepcionalmente, no ano de constituição dos ADS, e para fazer face às despesas de lançamento, essa percentagem pode elevar-se até 40%.",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "20.º Os pagamentos seguintes são efectuados após apresentação ao gestor, pelo ADS, dos comprovativos das despesas realizadas, não podendo exceder, sem justificação, 25% do total anual das despesas elegíveis.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 31,
+      "texto": "21.º A partir do segundo ano de funcionamento de cada ADS, a antecipação referida no n.º 19.º é calculada com base nos montantes consignados no projecto do ano anterior e tem lugar na data fixada no contrato de concessão da ajuda.\n\n22.º A justificação perante o IFADAP dos montantes anuais recebidos por cada ADS tem lugar até 30 dias após o termo do projecto.\n\n23.º O gestor, caso preveja a não aplicação da totalidade das verbas postas à disposição do ADS em cada ano, solicitará ao IFADAP, até 45 dias antes do termo da vigência do projecto, a dedução do montante não aplicado às ajudas a conceder no ano seguinte.\n\n24.º A ocorrer a situação prevista no número anterior, os ADS estarão em situação de incumprimento se, em tempo útil, não alertarem o gestor para aquele facto.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 19.º - substituída a unidade 30.",
+    "Alterador 1, 2.º: nova redação do n.º 20.º - substituída a unidade 31.",
+    "Alterador 1, 3.º: aditados os n.os 21.º a 24.º - inseridos depois da unidade 31.",
+    "Alterador 2 é o mesmo diploma (Portaria n.º 640/89) repetido; as mesmas instruções já ficaram aplicadas pelo alterador 1, nada mais a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

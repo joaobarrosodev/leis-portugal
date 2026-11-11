@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/30401/00050005.pdf)",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/10000/10991100.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:368260:por",
+    "alterador": "pt:dre:393048:por"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 27-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - A elaboração do PNPOT será acompanhada por um sistema de pontos focais que integra as diferentes direcções regionais de ambiente e ordenamento do território e comissões de coordenação regional, entidades das Regiões Autónomas, bem como entidades da Administração Pública com atribuições sectoriais relevantes nas áreas da indústria, energia, turismo, comércio, agricultura, desenvolvimento rural, florestas, pescas, administração portuária, transportes, comunicações, habitação, recursos geológicos, conservação da natureza, património arquitectónico e arqueológico, educação, saúde, desporto, segurança, protecção civil e defesa nacional.",
+    "depois": "3 - A elaboração do PNPOT é acompanhada por um sistema de pontos focais que integra representantes das Regiões Autónomas dos Açores e da Madeira, das comissões de coordenação e desenvolvimento regional, bem como das entidades e serviços da Administração Pública com atribuições sectoriais relevantes nas áreas das finanças, indústria, energia, turismo, comércio, agricultura, desenvolvimento rural, florestas, pescas, administração portuária, transportes, comunicações, habitação, recursos geológicos, conservação da natureza, património arquitectónico e arqueológico, educação, cultura, saúde, desporto, segurança, protecção civil e defesa nacional, bem como de quaisquer outros interesses a salvaguardar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:303382:por",
+    "alterador": "pt:dre:546386:por"
+  },
+  {
+    "artigo": "unidades 29-29",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5 - A DGPTDU ou o coordenador da equipa de projecto a que se refere o n.º 2 da presente resolução promoverá a realização de reuniões com todas ou algumas das entidades integrantes do sistema de pontos focais, as quais deverão prestar toda a colaboração necessária ao bom desenvolvimento dos trabalhos de elaboração do PNPOT.",
+    "depois": "5 - A DGOTDU ou o coordenador da equipa de projecto a que se refere o n.º 2 da presente resolução promoverá a realização de reuniões com todas ou algumas das entidades integrantes da comissão consultiva, incluindo do sistema de pontos focais, sendo que estas últimas deverão prestar toda a colaboração e informação necessárias ao bom desenvolvimento dos trabalhos de elaboração do PNPOT.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:303382:por",
+    "alterador": "pt:dre:546386:por"
+  },
+  {
+    "artigo": "unidades 30-30",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6 - A elaboração do PNPOT é acompanhada por uma comissão consultiva, composta por um representante das seguintes entidades:",
+    "depois": "6 - A elaboração do PNPOT é acompanhada por uma comissão consultiva, com a seguinte composição:\n\n6.1 - Um representante de cada uma das seguintes entidades:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:303382:por",
+    "alterador": "pt:dre:546386:por"
+  },
+  {
+    "artigo": "unidades 41-47",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "k) Federação Portuguesa da Indústria da Construção e Obras Públicas;\n\nl) Ordem dos Arquitectos;\n\nm) Ordem dos Engenheiros;\n\nn) Associação dos Urbanistas Portugueses;\n\no) Associação Portuguesa de Arquitectos Paisagistas;\n\np) Associação Portuguesa de Geógrafos;\n\nq) Confederação Portuguesa das Associações de Defesa do Ambiente.",
+    "depois": "l) Federação Portuguesa da Indústria da Construção e Obras Públicas;\n\nm) Ordem dos Arquitectos;\n\nn) Ordem dos Engenheiros;\n\no) Associação dos Urbanistas Portugueses;\n\np) Associação Portuguesa de Arquitectos Paisagistas;\n\nq) Associação Portuguesa de Geógrafos;\n\nr) Associação Profissional de Arqueólogos;\n\ns) Confederação Portuguesa das Associações de Defesa do Ambiente.\n\n6.2 - A comissão consultiva integra ainda o sistema de pontos focais previsto no n.º 3 da presente resolução, sem prejuízo de poderem funcionar como instâncias diferenciadas de acompanhamento da elaboração do PNPOT, nos termos a definir nos respectivos regimentos.\n\n6.3 - A comissão consultiva deve emitir parecer sobre a proposta de PNPOT no prazo de 15 dias a contar da respectiva recepção.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:303382:por",
+    "alterador": "pt:dre:546386:por"
+  },
+  {
+    "artigo": "unidades 99-99",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "16 - Os objectivos e as orientações estratégicos enunciados nos n.os 6 a 11 devem ser desde já adoptados no acompanhamento da elaboração dos planos municipais de ordenamento do território previsto nos n.os 2 a 7 do artigo 75.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro.",
+    "depois": "16 - Os objectivos estratégicos enunciados nos n.os 9 a 14 devem ser desde já adoptados no acompanhamento da elaboração dos planos municipais de ordenamento do território previsto nos n.os 2 a 10 do artigo 75.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na redacção conferida pelo [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:303382:por",
+    "alterador": "pt:dre:546386:por"
+  }
+]

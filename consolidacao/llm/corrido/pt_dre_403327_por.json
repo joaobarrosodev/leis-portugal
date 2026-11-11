@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:403327:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 12,
+      "texto": "2.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A substituição do plano de estudos anexo (n.º 1.º do alterador 1) não é aplicável: o anexo só existe em imagem.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: novo plano de estudos anexo; só em imagem, não aplicado",
+    "Alterador 1, n.º 4.º: revogado o n.º 2.º; unidades 10 a 12 passam a 2.º - (Revogado.)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

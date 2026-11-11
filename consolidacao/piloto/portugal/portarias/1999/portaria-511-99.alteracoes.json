@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 23-38",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso de Gestão de Empresas\n\n1.º ciclo - Grau de bacharel\n\n[(ver quadros n.os 1 a 4 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44504455.pdf)\n\nOpção de Organização e Gestão de Empresas\n\n[(ver quadros n.os 5 e 6 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44504455.pdf)\n\nOpção de Gestão Financeira\n\n[(ver quadros n.os 7 e 8 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44504455.pdf)\n\nOpção de Gestão de Comércio e Serviços\n\n[(ver quadros n.os 9 e 10 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44504455.pdf)\n\n2.º ciclo - Grau de licenciado\n\nRamo de Organização e Gestão de Empresas\n\n[(ver quadros n.os 11 e 12 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44504455.pdf)\n\nRamo de Gestão Financeira\n\n[(ver quadros n.os 13 e 14 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44504455.pdf)\n\nRamo de Gestão de Comércio e Serviços\n\n[(ver quadros n.os 15 e 16 no documento original)](https://files.diariodarepublica.pt/1s/1999/07/164b00/44504455.pdf)",
+    "depois": "Curso: Gestão de Empresas\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/247b00/59955998.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:356691:por",
+    "alterador": "pt:dre:531674:por"
+  }
+]

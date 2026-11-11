@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:338993:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 substitui o quadro n.º 3 do anexo I e alterador 2 os anexos I e II por quadros que só vêm em imagem; alterador 3, 1.º (o 2.º ciclo deixa de se desdobrar em ramos) não dá nova redação ao 5.º (não textual) e o 2.º substitui o anexo por quadros que só vêm em imagem.",
+  "instrucoes": [
+    "Alterador 1, 1.º: novo quadro n.º 3 (só em imagem) - não aplicado",
+    "Alterador 2, 1.º: novos anexos I e II (quadros só em imagem) - não aplicado",
+    "Alterador 3, 1.º: fim dos ramos do 2.º ciclo sem nova redação do texto - não aplicado",
+    "Alterador 3, 2.º: novo anexo (quadros só em imagem) - não aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:303093:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Pelo presente diploma é concessionada, pelo período de 12 anos, a Farizeus - Associação de Caça e Pesca de Ventozelo (registo na Direcção-Geral das Florestas n.º 1.936.91), com sede em Ventozelo, Mogadouro, a zona de caça associativa de Ventozelo (processo n.º 863 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (suspensão) e alterador 3 (renovação com área de 1937 ha e condições) não alteram o texto do original.",
+  "instrucoes": [
+    "Alt. 1: retificação do n.º 2.º (o 'onde se lê' difere ligeiramente do texto atual, mas o alvo é inequívoco) — substituída a unidade 7 pelo 'deve ler-se'.",
+    "Alt. 2: suspensão da caça — não textual, não aplicada.",
+    "Alt. 3: renovação da concessão e revogação da Portaria 732/2004 — não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

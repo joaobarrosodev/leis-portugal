@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos nas freguesias de Maiorca e Alhadas, município da Figueira da Foz, com uma área de 2502,50 ha.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Maiorca e Alhadas, município da Figueira da Foz, com uma área de 1968,8750 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:402139:por",
+    "alterador": "pt:dre:184954:por;pt:dre:642883:por"
+  },
+  {
+    "artigo": "depois da unidade 6",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:402139:por",
+    "alterador": "pt:dre:184954:por;pt:dre:642883:por"
+  },
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se o concessionário a manter dois guardas florestais auxiliares dotados de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
+    "depois": "6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se o concessionário a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:402139:por",
+    "alterador": "pt:dre:184954:por;pt:dre:642883:por"
+  }
+]

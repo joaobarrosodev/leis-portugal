@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:194466:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 7,
+      "texto": "a) (Revogada.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 42,
+      "texto": "o) Os alunos que obtenham, na frequência de cada um dos anos que constituem o 1.º e 2.º ciclos, a classificação final de 14 valores ou superior e que em todos os períodos escolares, dentro de cada ciclo, hajam obtido em todas as disciplinas nota igual ou superior a 10 valores, podem ser, se assim o desejarem, dispensados do respectivo exame.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: adita a alínea o) ao n.º 4.º; inserida a seguir à unidade 42 (fim da alínea n)).",
+    "Alterador 2: revoga a alínea a) do n.º 1.º; as unidades 6-7 (alínea a) e o seu segundo parágrafo) passam a 'a) (Revogada.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

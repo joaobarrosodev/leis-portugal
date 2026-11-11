@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:196908:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por dois iguais períodos, à Associação Sócio Cultural de Quintã de Pêro Martins, com o número de pessoa colectiva 505031370 e sede na Escola do 1.º Ciclo de Quintã de Pêro Martins, a zona de caça associativa de Quintã de Pêro Martins (processo n.º 2918-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Quintã de Pêro Martins e de Penha de Águia, município de Figueira de Castelo Rodrigo, com uma área de 1860 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 1331/2009, artigo único: prédios da planta nova, freguesia e área de 1853 ha) e alterador 3 (Portaria n.º 1115/2010: anexação de 591 ha, total de 2444 ha) não dão nova redação ao n.º 1.º nem mandam substituir texto; são alterações não textuais com plantas só em imagem. Não aplicados.",
+  "instrucoes": [
+    "Alterador 1: no n.º 1.º, 'sitos nas freguesias de Quintã de Pêro Martins e Penha Garcia' passa a 'sitos nas freguesias de Quintã de Pêro Martins e de Penha de Águia'; aplicado na unidade 6.",
+    "Alterador 2, artigo único: redefine prédios, freguesia e área (1853 ha) por planta nova; não textual, não aplicado.",
+    "Alterador 3, artigos 1.º a 3.º: anexação de terrenos (área total de 2444 ha); não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Considerando a necessidade de adoptar o quadro de pessoal da Secretaria-Geral do Ministério do Planeamento e da Administração do Território ao regime estabelecido naquele diploma:",
+    "depois": "Considerando a necessidade de adaptar o quadro de pessoal da Secretaria-Geral do Ministério do Planeamento e da Administração do Território ao regime estabelecido naquele diploma:",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:198307:por",
+    "alterador": "pt:dre:515793:por"
+  }
+]

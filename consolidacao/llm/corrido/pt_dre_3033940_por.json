@@ -1,0 +1,67 @@
+{
+  "id": "pt:dre:3033940:por",
+  "substituicoes": [
+    {
+      "de": 33,
+      "ate": 34,
+      "texto": "4 - (Revogado.)\n\n5 - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "6 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "7 - Ao coordenador do grupo de trabalho compete a supervisão pedagógica, em especial:",
+      "alterador": 1
+    },
+    {
+      "de": 38,
+      "ate": 38,
+      "texto": "b) Elaborar documentos orientadores para os subgrupos;",
+      "alterador": 1
+    },
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "d) Propor ao Ministro da Educação e Ciência os membros para cada subgrupo a constituir, em articulação com o coordenador geral e com a Direção-Geral da Educação;",
+      "alterador": 1
+    },
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "8 - A articulação entre o grupo de trabalho e o Ministro da Educação e Ciência e a coordenação geral do processo de elaboração das metas e dos programas cabem a Maria Isabel Ribeiro do Rosário Hormigo, adjunta do seu Gabinete.",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 49,
+      "texto": "13 - O mandato do grupo de trabalho termina em 31 de julho de 2015.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 42,
+      "texto": "8-A - A organização, acompanhamento e coordenação de todo o processo de formação nacional de professores no âmbito das metas curriculares do ensino básico e secundário é assegurado por Célia Valente Folgado Esteves que, na Direção-Geral da Educação, articula com as entidades formadoras o apoio logístico necessário à implementação daquela formação.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 7 (corpo e alíneas b) e d); a), c) e e) com [...] ficam) — substituídas as unidades 36, 38 e 40",
+    "Alterador 1, n.º 1: nova redação do n.º 8 — unidade 42",
+    "Alterador 1, n.º 1: nova redação do n.º 13 (31 de julho de 2014) — depois substituída pela do alterador 2 na unidade 49",
+    "Alterador 1, n.º 2: aditado o n.º 8-A — inserido depois da unidade 42",
+    "Alterador 1, n.º 3: revogado o n.º 6 — unidade 35 '6 - (Revogado.)'",
+    "Alterador 2, n.º 1: nova redação do n.º 13 (31 de julho de 2015) — unidade 49",
+    "Alterador 2, n.º 2: revogados os n.os 4 e 5 — unidades 33 a 34"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

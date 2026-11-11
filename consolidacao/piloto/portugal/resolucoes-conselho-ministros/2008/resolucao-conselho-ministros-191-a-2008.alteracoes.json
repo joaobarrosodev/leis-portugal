@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 23-23",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "9 - Permitir a adesão à segunda fase de candidaturas de acesso à linha de financiamento de médio e longo prazos de todas as Regiões Autónomas e de todos os municípios, com excepção dos municípios que preencham pelo menos três das situações previstas no n.º 1 do artigo 8.º do [Decreto-Lei n.º 38/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2008-247247), de 7 de Março, e que não tenham declarado a situação de desequilíbrio financeiro estrutural ou de ruptura financeira, nos termos da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, e do referido decreto-lei, até à data de 31 de Dezembro de 2008.",
+    "depois": "9 - Permitir a adesão à segunda fase de candidaturas de acesso à linha de financiamento de médio e longo prazos das Regiões Autónomas e dos municípios, com excepção dos municípios que preencham pelo menos três das situações previstas no n.º 1 do artigo 8.º do [Decreto-Lei n.º 38/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2008-247247), de 7 de Março, e que não tenham declarado a situação de desequilíbrio financeiro estrutural ou de ruptura financeira, nos termos da [Lei n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei/2-2007-522789), de 15 de Janeiro, e do referido decreto-lei, até à data de apresentação da candidatura.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:337042:por",
+    "alterador": "pt:dre:603503:por"
+  }
+]

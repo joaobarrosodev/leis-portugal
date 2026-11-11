@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:314381:por",
+  "substituicoes": [
+    {
+      "de": 44,
+      "ate": 44,
+      "texto": "Art. 3.º - 1. Quando, por circunstâncias de carácter transitório, nas Comissões Arbitrais de Lisboa e Porto, o respectivo serviço se encontrar atrasado, poderão, a solicitação do Ministro da Saúde e Assistência, ser destacados, em comissão de serviço, pelo período de dois anos, só excepcionalmente prorrogável uma vez, os juízes que se reputarem necessários para completa normalização de tais serviços.\n\n2. O exercício da comissão referida no número anterior é considerado, para todos os efeitos, como efectivo serviço judicial, não sendo deduzido na antiguidade dos magistrados o tempo durante o qual a desempenhem.\n\n3. Os encargos a que der origem o exercício da comissão de serviço referida no n.º 1 serão satisfeitos pela verba a que alude o artigo 5.º do [Decreto-Lei n.º 42596](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42596-1959-440479), de 19 de Outubro de 1959.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 143/70, artigo único: nova redação do artigo 3.º do DL 47797 (unidade 44), substituída pelos três números novos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

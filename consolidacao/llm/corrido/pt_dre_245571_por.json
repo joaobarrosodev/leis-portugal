@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:245571:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Pela presente portaria é concessionada pelo período de 10 anos à Bis-Caça, Desporto Venatório e Gestão de Caça, Lda., com o número de pessoa colectiva 502277041 e com sede na Expansão Sul, lote A, loja 3, Loulé, a zona de caça turística do Tesouro (processo n.º 2094 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2 e 3: anexação de prédios, renovação da concessão e nova área (planta em imagem) por normas próprias, sem instrução de alteração textual do original — não aplicados.",
+  "instrucoes": [
+    "Alterador 1: no n.º 2.º, «é concessionada pelo período de seis anos» passa a «é concessionada pelo período de 10 anos»: unidade 7 substituída.",
+    "Alterador 2: anexa prédios (área total 819,8280 ha), planta em imagem — não é alteração textual, não aplicado.",
+    "Alterador 3: renova a concessão por 10 anos e anexa 62 ha (1032 ha), planta em imagem — não é alteração textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

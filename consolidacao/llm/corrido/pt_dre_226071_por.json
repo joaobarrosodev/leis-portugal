@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:226071:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 12,
+      "texto": "2.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "Podem candidatar-se à matrícula e inscrição no curso de estudos superiores especializados em Engenharia Industrial os titulares de um bacharelato ou de uma licenciatura nas áreas de Engenharia Industrial, de Engenharia Mecânica ou de Engenharia Electromecânica.",
+      "alterador": 1
+    },
+    {
+      "de": 82,
+      "ate": 87,
+      "texto": "16.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 9,
+      "texto": "1.º-A\n\nOpções\n\n1 - O curso desdobra-se nas seguintes opções:\n\na) Engenharia de Produção Mecânica;\n\nb) Engenharia Térmica Industrial.\n\n2 - O número mínimo de alunos necessários ao funcionamento de cada uma das opções é de 10, sem prejuízo de ser sempre assegurado o funcionamento de uma delas.\n\n3 - Exceptuam-se do disposto no n.º 2 os casos em que o docente assegure a docência para além do número máximo de horas de serviço de aulas a que é obrigado por lei sem encargos adicionais para o Instituto.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, n.os 1 e 2 do 1.º (o curso passa a designar-se Engenharia Industrial): mudança de designação sem nova redação de qualquer número do original, não é textual; n.º 6 (novo anexo I): o anexo só vem em imagem. Não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.os 1 e 2: mudança de designação do curso para Engenharia Industrial, sem redação textual — não aplicado.",
+    "Alterador 1, 1.º n.º 3: revogados os n.os 2.º (unidades 10-12) e 16.º (unidades 82-87) — substituídos por '2.º - (Revogado.)' e '16.º - (Revogado.)'.",
+    "Alterador 1, 1.º n.º 4: nova redação do n.º 3.º; número e epígrafe iguais, muda só o corpo — substituída a unidade 15.",
+    "Alterador 1, 1.º n.º 5: aditado o n.º 1.º-A (Opções) — inserido depois da unidade 9.",
+    "Alterador 1, 1.º n.º 6: novo anexo I, só em imagem — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

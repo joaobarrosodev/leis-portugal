@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Técnico de Gestão de Sistemas Informáticos;",
+    "depois": "a) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:241449:por",
+    "alterador": "pt:dre:147643:por;pt:dre:157576:por;pt:dre:147616:por"
+  },
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) Técnico de Telecomunicações;",
+    "depois": "b) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:241449:por",
+    "alterador": "pt:dre:147643:por;pt:dre:157576:por;pt:dre:147616:por"
+  },
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Técnico de Electrónica Industrial e Automação.",
+    "depois": "c) (Revogada.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:241449:por",
+    "alterador": "pt:dre:147643:por;pt:dre:157576:por;pt:dre:147616:por"
+  }
+]

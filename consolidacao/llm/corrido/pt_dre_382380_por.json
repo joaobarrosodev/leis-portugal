@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:382380:por",
+  "substituicoes": [
+    {
+      "de": 36,
+      "ate": 57,
+      "texto": "a) Geologia;\n\nb) Geologia de Engenharia.\n\n2 - Duração normal do curso:\n\nCinco anos lectivos.\n\n3 - Número total mínimo de unidades de crédito necessário à concessão do grau:\n\n160.\n\n4 - Áreas científicas e distribuição das unidades de crédito:\n\n4.1 - Áreas científicas obrigatórias:\n\na) Geologia ... 69\n\nb) Geologia de Engenharia ... 18\n\nc) Matemática ... 20\n\nd) Informática ... 3\n\ne) Física ... 11\n\nf) Química ... 11\n\ng) Ciências de Engenharia ... 10\n\nh) Ambiente ... 3\n\n4.2 - Conjunto das áreas científicas optativas:\n\na) Geologia ... (ver nota *) 9\n\nb) Geologia de Engenharia ... (ver nota *) 9\n\nc) Ambiente ... (ver nota *) 9\n\nd) Ciências Sociais e Humanas ... (ver nota *) 9\n\n4.3 - Estágio ... 6\n\n(nota *) Do número de unidades de crédito atribuído ao conjunto das áreas científicas optativas os alunos só poderão realizar um máximo de três unidades de crédito na área científica do Ambiente.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 8.º: o anexo passa a ter a redação do anexo III da Portaria 317-A/86; substituída depois pela redação do alterador 2, que é a que fica. Os restantes números do alterador 1 dizem respeito a outros cursos e à Portaria 617/83; ignorados.",
+    "Alterador 2, 1.º: o anexo passa a ter a redação do anexo da Portaria 1078/89; substituídas as unidades 36-57 (o título e o n.º 1 ficam). Os 2.º a 4.º são normas próprias do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

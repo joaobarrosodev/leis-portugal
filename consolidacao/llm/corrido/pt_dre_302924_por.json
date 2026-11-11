@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:302924:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Louriceira, município de Alcanena, com a área de 722,4112 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (suspensão do exercício da caça) e alterador 3 (renovação da concessão por 12 anos, com nova área e planta) não alteram o texto do original; a planta só vem em imagem.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º — substituída a unidade 6.",
+    "Alt. 1, 1.º: aditado o n.º 1.º-A — inserido depois da unidade 6.",
+    "Alt. 1, 2.º: mantêm-se direitos e obrigações — nada a fazer.",
+    "Alt. 2: suspensão da caça — não textual, não aplicada.",
+    "Alt. 3: renovação da concessão e revogação da Portaria 712/2002 — não textual quanto ao original, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

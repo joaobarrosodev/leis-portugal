@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) As acções do tipo B são nominativas ou ao portador, podendo delas ser titulares entidades públicas ou privadas.",
+    "depois": "b) As acções do tipo B são nominativas ou ao portador em regime de registo, podendo delas ser titulares entidades públicas ou privadas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:354763:por",
+    "alterador": "pt:dre:612829:por"
+  },
+  {
+    "artigo": "unidades 24-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de dois anos e são obrigatoriamente nominativas ou ao portador registadas, embora convertíveis em acções ao portador findo este prazo.",
+    "depois": "2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de dois anos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:354763:por",
+    "alterador": "pt:dre:612829:por"
+  },
+  {
+    "artigo": "unidades 61-61",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) As acções do tipo B serão nominativas ou ao portador, podendo ser detidas por entidades públicas ou privadas.",
+    "depois": "b) As acções do tipo B são nominativas ou ao portador em regime de registo, podendo delas ser titulares entidades públicas ou privadas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:354763:por",
+    "alterador": "pt:dre:612829:por"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Em Portugal desde 1998, e pela primeira vez, têm-se definido metas e objectivos sobre a matéria (em saúde em Portugal, uma estratégia para o virar do século - 1998-2002 e no plano de acção da Direcção-Geral da Saúde). Entretanto foi publicada nova legislação referente à condução sob o efeito do álcool e de outros psicotrópicos, na sequência da revisão do Código da Estrada pelo [Decreto-Lei n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 3 de Janeiro - o [Decreto Regulamentar n.º 24/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1998-229115), de 30 de Outubro, e as Portarias n.os [1005/98](https://diariodarepublica.pt/dr/detalhe/portaria/1005-1998-210186) e [1006/98](https://diariodarepublica.pt/dr/detalhe/portaria/1006-1998-210187), de 30 de Novembro - enquanto se ultima a revisão da legislação relacionada com os centros regionais de alcoologia. Em Novembro próximo e com financiamento da União Europeia irá decorrer, na cidade do Porto, um seminário europeu dedicado aos problemas do álcool nos jovens, com ênfase nas novas bebidas desenhadas e dirigidas aos jovens («alcopos») e tendo em vista também a promoção de uma rede europeia para a prevenção comunitária, pesquisa e avaliação dos problemas ligados ao álcool.",
+    "depois": "Em Portugal desde 1998, e pela primeira vez, têm-se definido metas e objectivos sobre a matéria (em saúde em Portugal, uma estratégia para o virar do século - 1998-2002 e no plano de acção da Direcção-Geral da Saúde). Entretanto foi publicada nova legislação referente à condução sob o efeito do álcool e de outros psicotrópicos, na sequência da revisão do Código da Estrada pelo [Decreto-Lei n.º 2/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1998-223835), de 3 de Janeiro - o [Decreto Regulamentar n.º 24/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1998-229115), de 30 de Outubro, e as Portarias n.os [1005/98](https://diariodarepublica.pt/dr/detalhe/portaria/1005-1998-210186) e [1006/98](https://diariodarepublica.pt/dr/detalhe/portaria/1006-1998-210187), de 30 de Novembro - enquanto se ultima a revisão da legislação relacionada com os centros regionais de alcoologia. Em Novembro próximo e com financiamento da União Europeia irá decorrer, na cidade do Porto, um seminário europeu dedicado aos problemas do álcool nos jovens, com ênfase nas novas bebidas desenhadas e dirigidas aos jovens («alcopops») e tendo em vista também a promoção de uma rede europeia para a prevenção comunitária, pesquisa e avaliação dos problemas ligados ao álcool.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:331010:por",
+    "alterador": "pt:dre:347301:por"
+  },
+  {
+    "artigo": "unidades 14-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Esta comissão será constituída por um representante do Ministério da Saúde, que preside, e dos Ministérios da Educação, do Trabalho e da Solidariedade, da Agricultura, do Desenvolvimento Rural e das Pescas, da Administração Interna, da Justiça e da Economia.",
+    "depois": "Esta comissão será constituída por um representante do Ministério da Saúde, que preside, e dos Ministérios da Educação, do Trabalho e da Solidariedade, da Agricultura, do Desenvolvimento Rural e das Pescas, da Administração Interna, da Justiça, da Economia e Secretaria de Estado da Juventude.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:331010:por",
+    "alterador": "pt:dre:347301:por"
+  },
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - Intensificar a colaboração internacional nesta matéria, principalmente no âmbito da União Europeia, na sequência da coordenação portuguesa do projecto sobre álcool e juventude, que inclui o 2.º Simpósio Europeu sobre Prevenção Comunitária dos Problemas Ligados ao Álcool - «Álcool, Juventude e Novas Bebidas Desenhadas» - (Porto, 15 a 17 de Novembro).",
+    "depois": "3 - Intensificar a colaboração internacional nesta matéria, principalmente no âmbito da União Europeia, na sequência da coordenação portuguesa do projecto sobre álcool e juventude, que inclui o 2.º Simpósio Europeu sobre Prevenção Comunitária dos Problemas Ligados ao Álcool - «Álcool, Juventude e Novas Bebidas Desenhadas» - (Porto, 18 a 20 de Novembro).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:331010:por",
+    "alterador": "pt:dre:347301:por"
+  }
+]

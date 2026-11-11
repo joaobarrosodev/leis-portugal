@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pela [Portaria n.º 562/92](https://diariodarepublica.pt/dr/detalhe/portaria/562-1992-303450), de 24 de Junho, foi concessionada ao Clube de Caça da Tapada a zona de caça associativa de Lezíria da Palmeira e outras (processo n.º 110-DGF), situada no município de Almeirim, com uma área de 1142,7680 ha, válida até 18 de Setembro de 1998.",
+    "depois": "Pela [Portaria n.º 562/92](https://diariodarepublica.pt/dr/detalhe/portaria/562-1992-303450), de 24 de Junho, foi concessionada ao Clube de Caça da Tapada a zona de caça associativa de Lezíria da Palmeira e outras (processo n.º 110-DGF), situada no município de Almeirim, com uma área de 1142,7680 ha, renovada pela [Portaria n.º 1149/95](https://diariodarepublica.pt/dr/detalhe/portaria/1149-1995-565393), de 18 de Setembro, até 13 de Agosto de 2001.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:221731:por",
+    "alterador": "pt:dre:447739:por"
+  }
+]

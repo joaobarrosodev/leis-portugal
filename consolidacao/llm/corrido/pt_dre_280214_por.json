@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:280214:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 340/78) acrescenta dois lugares de servente e deduz um de contínuo no quadro da Escola Preparatória de Loriga do mapa II, e alterador 2 (Portaria n.º 672/79) acrescenta quatro lugares de contínuo no quadro da Escola Preparatória de Tarouca do mapa I; os mapas só existem em imagem (ver documento original), pelo que não há texto a alterar.",
+  "instrucoes": [
+    "Alterador 1: alteração do quadro de pessoal auxiliar de Loriga no mapa II (imagem) - não aplicada.",
+    "Alterador 2: alteração do quadro de pessoal auxiliar de Tarouca no mapa I (imagem) - não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

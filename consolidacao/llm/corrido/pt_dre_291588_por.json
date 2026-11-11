@@ -1,0 +1,36 @@
+{
+  "id": "pt:dre:291588:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Alcobertas, município de Rio Maior, com a área de 1806,8732 ha.",
+      "alterador": 2
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1: substituição da planta anexa (só em imagem). Alterador 3 (renovação por seis anos e anexação, 1408 ha) não dá nova redação a nenhuma unidade: não textual.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (1941,65 ha) — aplicada à unidade 6, depois substituída pela do alterador 2.",
+    "Alterador 1: nova redação do n.º 6.º (um guarda em vez de dois) — substituída a unidade 12.",
+    "Alterador 1: planta anexa substituída — só em imagem, não aplicada.",
+    "Alterador 2, 1.º: nova redação do n.º 1.º (1806,8732 ha) — unidade 6 com o texto final, mantida a numeração 1.º.",
+    "Alterador 2: aditado o n.º 1.º-A — inserido depois da unidade 6, com a numeração 1.º-A.",
+    "Alterador 3: renovação e anexação — não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

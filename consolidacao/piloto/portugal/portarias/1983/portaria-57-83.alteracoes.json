@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º É autorizada a empresa pública Aeroportos e Navegação Aérea - ANA, E. P., a estabelecer terminais aeroportuários nos aeroportos de Lisboa, Porto e Faro.",
+    "depois": "2.º O disposto na presente portaria aplica-se ao estabelecimento de terminais aeroportuários nos aeroportos nacionais.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:308353:por",
+    "alterador": "pt:dre:352525:por;pt:dre:546417:por"
+  },
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º - 1 - A exploração dos terminais abrangidos por esta portaria poderá ser feita directamente pela ANA, E. P., ou ser objecto de licença de uso privativo do domínio público aeroportuário por ela concedida nos termos da lei.",
+    "depois": "4.º - 1 - A exploração dos terminais abrangidos por esta portaria está sujeita à legislação aplicável à actividade de assistência em escala e ao licenciamento do uso privativo do domínio público aeroportuário.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:308353:por",
+    "alterador": "pt:dre:352525:por;pt:dre:546417:por"
+  },
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Sem embargo do disposto no número anterior, a alfândega tem a faculdade de proceder à conferência das descargas, sempre que o julgue conveniente.",
+    "depois": "2 - Sem embargo do disposto no número anterior, a alfândega tem a faculdade de superintender ou proceder directamente à conferência das descargas, sempre que o entenda conveniente.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:308353:por",
+    "alterador": "pt:dre:352525:por;pt:dre:546417:por"
+  }
+]

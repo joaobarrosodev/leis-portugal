@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:205996:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdade dos Pernes», «Taipinhas» e «Teberneiras», sitos na freguesia de Amieira, concelho de Portel, com uma área de 1222,50 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2.º: substituição da planta anexa (só em imagem). Alterador 2 (Portaria n.º 589/2003: suspensão da caça) e alterador 3 (Portaria n.º 101/2004: renovação da concessão, área de 1162 ha, planta nova, revogação da Portaria n.º 589/2003) não dão nova redação ao texto do original; não aplicados.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 1.º; unidade 6 substituída, mantendo o número '1.º' e copiando o texto novo letra a letra (incluindo as aspas internas dos nomes dos prédios, que fazem parte do texto).",
+    "Alterador 1, n.º 2.º: planta nova substitui a anexa; só em imagem, não aplicada.",
+    "Alterador 2: suspende a caça até à renovação; não textual, não aplicado.",
+    "Alterador 3: renova a concessão por 12 anos com 1162 ha e revoga a Portaria n.º 589/2003 (outro diploma); não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

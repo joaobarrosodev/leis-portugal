@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:256071:por",
+  "substituicoes": [
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "Direcção-Geral do Equipamento Regional e Urbano;\n\nFundo de Fomento da Habitação.",
+      "alterador": 1
+    },
+    {
+      "de": 44,
+      "ate": 44,
+      "texto": "a) Coordenar os programas nacionais de estudos urbanos e regionais, promovendo, designadamente, a informação mútua e pronta sobre programas de estudo em curso, a análise dos seus resultados, a difusão dos documentos produzidos, a detecção de carências e consequente proposta de áreas novas de estudos ou iniciativas de estudo interentidades e análise e eventual proposta de financiamento e suas fontes;",
+      "alterador": 2
+    },
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "d) Emitir pareceres, quando solicitados, sobre programas de cooperação externa no domínio dos estudos urbanos e regionais.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2, n.º 1: a Comissão passa a designar-se Comissão Interministerial de Estudos Urbanos e Regionais - CEUR e a funcionar na dependência do Ministério do Plano e da Administração do Território — norma própria, sem nova redacção dos n.os 1, 3, 4 ou 5 do original; não aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1: nova redacção da alínea i) do n.º 1 — acrescenta «Direcção-Geral do Equipamento Regional e Urbano;» e o Fundo de Fomento da Habitação passa a terminar em ponto: unidade 36 substituída.",
+    "Alterador 2, n.º 1: mudança de designação e de dependência da Comissão, sem alteração textual — não aplicada.",
+    "Alterador 2, n.º 2: nova redacção das alíneas a) e d) do n.º 2 (unidades 44 e 47 substituídas)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

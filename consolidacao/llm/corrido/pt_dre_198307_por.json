@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:198307:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "Considerando a necessidade de adaptar o quadro de pessoal da Secretaria-Geral do Ministério do Planeamento e da Administração do Território ao regime estabelecido naquele diploma:",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A retificação do mapa anexo só vem em imagem (onde se lê / deve ler-se); não aplicada.",
+  "instrucoes": [
+    "Alterador 1: no 2.º parágrafo do preâmbulo, 'a necessidade de adoptar o quadro' passa a 'a necessidade de adaptar o quadro'; aplicado na unidade 4.",
+    "Alterador 1: retificação do mapa anexo, só em imagem; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

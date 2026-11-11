@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 20-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso: Gestão Estratégica\n\n1.º ciclo\n\nGrau: bacharel\n\n[(ver quadros n.os 1 a 3 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/117b00/27232724.pdf)\n\n2.º ciclo\n\nGrau: licenciado\n\n[(ver quadro n.º 4 no documento original)](https://files.diariodarepublica.pt/1s/1999/05/117b00/27232724.pdf)",
+    "depois": "Curso de Gestão Empresarial\n\nDo QUADRO N.º 1 ao QUADRO N.º 12\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2005/08/161b00/48824885.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:323703:por",
+    "alterador": "pt:dre:246123:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º O cartão de responsabilidade civil referido no artigo 11.º do [Decreto-Lei n.º 408/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1979-365506), de 25 de Setembro, pode consubstanciar-se num recibo que, contendo os elementos prescritos no n.º 1.º da [Portaria n.º 650/79](https://diariodarepublica.pt/dr/detalhe/portaria/650-1979-366663), de 6 de Dezembro, ou no n.º 2.º da [Portaria n.º 558/84](https://diariodarepublica.pt/dr/detalhe/portaria/558-1984-381542), de 3 de Agosto, se encontre devidamente validado através da aposição de uma vinheta com o símbolo da seguradora ou da vinheta dos CTT.\n\n2.º As seguradoras que pretendam adoptar o sistema previsto no número anterior devem utilizar, para cobrança dos prémios de seguro de responsabilidade civil automóvel, avisos-recibos que podem ser liquidados quer nos seus escritórios quer nas estações dos CTT.",
+    "depois": "1.º - (Revogado.)\n\n2.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:399990:por",
+    "alterador": "pt:dre:546457:por"
+  },
+  {
+    "artigo": "unidades 12-14",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Os recibos validados nos termos dos números anteriores devem, para todos os efeitos, ser considerados como prova da existência do seguro de responsabilidade civil automóvel.\n\n5.º Aos recibos referidos na presente portaria é aplicável o disposto nos n.os 3.º a 5.º da [Portaria n.º 650/79](https://diariodarepublica.pt/dr/detalhe/portaria/650-1979-366663), de 6 de Dezembro, cabendo ao Instituto de Seguros de Portugal controlar o seu cumprimento pelas seguradoras.\n\n6.º O disposto no presente diploma entra em vigor no primeiro dia do terceiro mês seguinte à data da sua publicação.",
+    "depois": "4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n6.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:399990:por",
+    "alterador": "pt:dre:546457:por"
+  }
+]

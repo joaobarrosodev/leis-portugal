@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:389645:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 96/98 altera o n.º 1.º e adita um n.º 1.º-A a uma Portaria n.º 668/93 que concessiona uma zona de caça associativa no Sardoal; o original é a Portaria n.º 668/93 sobre o quadro da Conservatória do Registo de Automóveis do Porto, sem n.º 1.º nem esse conteúdo: alvo não corresponde ao texto atual, nada aplicado.",
+  "instrucoes": [
+    "Alt. 1, 1.º: nova redação do n.º 1.º (zona de caça): texto inexistente no original: não aplicada.",
+    "Alt. 1, aditamento do n.º 1.º-A: não aplicado pela mesma razão.",
+    "Alt. 1, 3.º: revoga a Portaria n.º 973-A/97: outro diploma: ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

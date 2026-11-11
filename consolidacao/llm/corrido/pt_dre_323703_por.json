@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:323703:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 26,
+      "texto": "Curso de Gestão Empresarial\n\nDo QUADRO N.º 1 ao QUADRO N.º 12\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2005/08/161b00/48824885.pdf)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria 774/99: nova redação do quadro n.º 4 do anexo, só em imagem (o anexo foi depois substituído por inteiro pela Portaria 701/2005).",
+  "instrucoes": [
+    "Portaria 774/99, 1.º: quadro n.º 4 do anexo em imagem - não aplicado (absorvido pela substituição do anexo pela Portaria 701/2005).",
+    "Portaria 701/2005, 1.º, 3.º e 4.º: ramos do 2.º ciclo, estágio e transição - não textuais.",
+    "Portaria 701/2005, 2.º: nova redação do anexo; substituídas as unidades 20 a 26 pelo texto do novo anexo (mantêm-se o título e a escola, unidades 18-19)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

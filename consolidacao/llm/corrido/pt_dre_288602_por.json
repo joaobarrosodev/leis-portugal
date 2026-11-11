@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:288602:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Coz, município de Alcobaça, com a área de 921,4081 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (suspensão do exercício da caça) e alterador 3 (renovação da concessão por 12 anos, com 921 ha, e revogação da Portaria n.º 1014/2004) não alteram o texto do original: atos não textuais.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º — substituída a unidade 6.",
+    "Alterador 1: aditado o n.º 1.º-A — inserido depois da unidade 6.",
+    "Alterador 2: suspensão da caça — não textual, não aplicado.",
+    "Alterador 3: renovação da concessão e revogação da Portaria n.º 1014/2004 (outro diploma) — não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

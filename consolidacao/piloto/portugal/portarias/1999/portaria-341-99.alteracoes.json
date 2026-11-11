@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pela [Portaria n.º 411/94](https://diariodarepublica.pt/dr/detalhe/portaria/411-1994-290627), de 27 de Junho, foi concessionada à Clérigos - Agro-Pecuária e Cinegética, Lda., a zona de caça turística da Herdade dos Clérigos (processo n.º 1426-DGF), situada no município de Arraiolos, com uma área de 399,75 ha, válida até 27 de Junho de 2004.",
+    "depois": "Pela [Portaria n.º 411/94](https://diariodarepublica.pt/dr/detalhe/portaria/411-1994-290627), de 27 de Junho, foi concessionada à Clérigos - Agro-Pecuária e Cinegética, Lda., a zona de caça turística da Herdade dos Clérigos (processo n.º 1426-DGF), situada no município de Arraiolos, com uma área de 399,75 ha, válida até 27 de Junho de 2014.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:321707:por",
+    "alterador": "pt:dre:215479:por"
+  }
+]

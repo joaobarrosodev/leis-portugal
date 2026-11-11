@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdades dos Pernes, Taipinhas e Taberneiras», sitos na freguesia de Amieira, concelho de Portel, com uma área de 1452,7050 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdade dos Pernes», «Taipinhas» e «Teberneiras», sitos na freguesia de Amieira, concelho de Portel, com uma área de 1222,50 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:205996:por",
+    "alterador": "pt:dre:316765:por"
+  }
+]

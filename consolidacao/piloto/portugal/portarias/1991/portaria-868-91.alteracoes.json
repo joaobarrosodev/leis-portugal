@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º\n\nPlano de estudos\n\nO plano de estudos do curso de bacharelato a que se refere o n.º 1.º é o cosntante do anexo à presente portaria.",
+    "depois": "2.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:403327:por",
+    "alterador": "pt:dre:644081:por"
+  }
+]

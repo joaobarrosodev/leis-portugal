@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:216305856:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O texto do Regulamento (RQS) só existe no documento original em PDF; os artigos 2.º, alínea kk), 98.º, 99.º, 100.º e 102.º e o ponto VI do Anexo I alterados pela Diretiva n.º 21/2024 e pelo Regulamento n.º 8/2026 não estão no texto atual, pelo que não se podem aplicar.",
+  "instrucoes": [
+    "Alterador 1, art. 2.º: nova redação dos artigos 98.º, 99.º e 100.º do RQS — texto não disponível, não aplicada.",
+    "Alterador 1, art. 3.º: nova redação do ponto VI do Anexo I — texto não disponível, não aplicada.",
+    "Alterador 2, art. 5.º: alteração da alínea kk) do artigo 2.º e do artigo 102.º (novo n.º 5, renumeração do n.º 6) — texto não disponível, não aplicada.",
+    "Alterador 2, arts. 2.º a 4.º e 6.º: alteram outros regulamentos — ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

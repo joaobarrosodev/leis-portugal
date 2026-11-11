@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Nesta área, até 31 de Maio de 2001, é concessionada à SOCAÇA - Coutadas da Bobadela, Lda., a exploração de uma zona de caça turística (processo n.º 146 da Direcção-Geral das Florestas).",
+    "depois": "2.º Nesta área, até 14 de Outubro de 2001, é concessionada à SOCAÇA - Coutadas da Bobadela, Lda., a exploração de uma zona de caça turística (processo n.º 146 da Direcção-Geral das Florestas).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:313780:por",
+    "alterador": "pt:dre:414224:por"
+  }
+]

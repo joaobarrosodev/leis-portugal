@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 59-59",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - As candidaturas entregues na Direcção-Geral das Pescas até 31 de Maio serão objecto de decisão até 15 de Outubro e as entregues entre 31 de Maio e 30 de Setembro até 31 de Dezembro.",
+    "depois": "1 - As candidaturas entregues na Direcção-Geral das Pescas e Aquicultura até 1 de Março serão objecto de decisão até 31 de Maio e as entregues entre 31 de Maio e 31 de Agosto até 31 de Outubro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:338040:por",
+    "alterador": "pt:dre:563977:por;pt:dre:305581:por"
+  },
+  {
+    "artigo": "unidades 69-72",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - O apoio atribuído é entregue ao beneficiário após a realização de uma vistoria pela Direcção-Geral das Pescas, para confirmação da execução material do projecto, e da apresentação pelo beneficiário dos documentos de despesa definitivos que comprovem o investimento realizado.\n\n2 - A entrega do subsídio aprovado antes da conclusão material e financeira dos projectos só poderá verificar-se contra a apresentação de garantia bancária ou seguro-caução, válidos pelo período de um ano, contado a partir da notificação da aprovação do projecto, prestado pelo armador, estaleiro, casas fornecedoras ou associações de armadores.\n\n3 - A libertação da garantia bancária ou do seguro-caução terá lugar após a confirmação pela Direcção-Geral das Pescas de que o projecto se encontra material e financeiramente concluído e mediante vistoria a realizar para o efeito.\n\n4 - A não utilização, sem justificação aceite pelo membro do Governo responsável pelo sector das pescas, dos subsídios concedidos através do SIPESCA determina o impedimento de apresentação de nova candidatura a apoio financeiro no âmbito deste Sistema de Incentivos no período da sua vigência.",
+    "depois": "1 - O apoio atribuído é entregue ao beneficiário após a realização de uma vistoria pela Direcção-Geral das Pescas e Aquicultura, para confirmação da execução material do projecto, e da apresentação pelo beneficiário dos documentos de despesa definitivos que comprovem o investimento realizado.\n\n2 - A entrega do subsídio aprovado antes da conclusão material e financeira dos projectos só poderá verificar-se contra a apresentação de garantia bancária ou seguro-caução, prestado pelo armador, estaleiro, casas fornecedoras ou associações de armadores.\n\n3 - A libertação da garantia bancária ou do seguro-caução terá lugar após a confirmação pela Direcção-Geral das Pescas e Aquicultura de que o projecto se encontra material e financeiramente concluído e mediante vistoria a realizar para o efeito.\n\n4 - O beneficiário comparticipará nas despesas inerentes ao acompanhamento com o valor de 1% sobre o montante do subsídio ilíquido atribuído.\n\n5 - A não utilização, sem justificação aceite pelo membro do Governo responsável pelo sector das pescas, dos subsídios concedidos através do SIPESCA determina o impedimento de apresentação de nova candidatura a apoio financeiro no âmbito deste Sistema de Incentivos no período da sua vigência.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:338040:por",
+    "alterador": "pt:dre:563977:por;pt:dre:305581:por"
+  }
+]

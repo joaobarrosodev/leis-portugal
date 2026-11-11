@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:303433:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2.º Pelo presente diploma é concessionada, 31 de Maio de 1999, à Sociedade Agrícola da Quinta dos Anjos e Quinta do Poço, Lda., com o número de pessoa colectiva 501834044 e sede na Quinta dos Anjos, Santarém, a zona de caça turística da Herdade de Jugens e outras (processo n.º 557 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2 a 5 (suspensão, renovações da concessão e transmissão para a FAIMGER) não dão instrução textual ao original: não aplicados ao texto.",
+  "instrucoes": [
+    "Alterador 1: no n.º 2.º, onde se lê 'até 31 de Maio de 2002,' passa a ler-se '31 de Maio de 1999,' — aplicado letra a letra na unidade 9",
+    "Alterador 2: suspensão da actividade cinegética — não textual, não aplicada",
+    "Alterador 3: renovação até 31 de Dezembro de 2005 e revogação da Portaria n.º 444/99 — não textual quanto ao original, não aplicada",
+    "Alterador 4: renovação por seis anos — não textual, não aplicada",
+    "Alterador 5: transmissão da concessão para a FAIMGER — não textual, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

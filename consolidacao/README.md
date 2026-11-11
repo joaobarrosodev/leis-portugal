@@ -526,3 +526,7 @@ Mais 120 diplomas (`llm/corrido-ids-bloco5.txt`, de 2 297 candidatos; 37 saltado
 ### Bloco 6 (ronda 22)
 
 Mais 120 diplomas (`llm/corrido-ids-bloco6.txt`, de 2 177 candidatos; 37 saltados por tamanho). 39 sem alterações, 76 juntados, 5 recusados. Ronda 22: 76 verificados às cegas, **59 sem reparos: 49 % do bloco (78 % dos verificados)**. Acumulado das rondas 17 a 22: **265 em 640 (41 %)**. Ficam cerca de 2 060 candidatos. Os reparos que se repetem: "dois guardas" passa a "um guarda" nas portarias de zonas de caça (instrução descritiva, sem redação literal, que o LLM não aplica) e alterações de área ou prazo sem redação nova.
+
+### Bloco 7 (ronda 23)
+
+Mais 120 diplomas (`llm/corrido-ids-bloco7.txt`, de 2 057 candidatos; 37 saltados por tamanho). 20 sem alterações, 97 juntados, 3 recusados. Ronda 23: 97 verificados às cegas, **82 sem reparos: 68 % do bloco (85 % dos verificados)**. A subida (38, 32, 29, 38, 59, 49, 68 %) acompanha o peso de portarias de zonas de caça e de alterações com redação literal; os blocos de cursos e quadros de pessoal em imagem puxam para baixo. Acumulado das rondas 17 a 23: **347 em 760 (46 %)**. Ficam cerca de 1 940 candidatos.

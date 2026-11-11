@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:272222:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "3.º As praças especializadas em clarim, condutor de automóveis ou sapador submarino deixam automàticamente de ser consideradas especializadas quando forem promovidas a cabo na classe a que pertencem, a menos que nessa data tenham logrado aprovação nos concursos de admissão aos cursos de conversão e aguardem o início ou estejam a frequentar os referidos cursos para ingresso, respectivamente, nas classes de mestres clarins, de condutores mecânicos de automóveis ou de mergulhadores, ou ainda, no caso dos sapadores submarinos, tenham declarado ser voluntários para ingressar na classe de mergulhadores, e a declaração tenha sido aceite em função das informações e conveniência de serviço.\n\nQuando assim suceder, a especialização manter-se-á até ao ingresso nas citadas classes.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria 24226) dá nova redação ao n.º 1.º, mas o quadro de especializações só vem em imagem; o proémio é igual ao atual (unidade 5), pelo que nada foi mudado. Alterador 3 (Portaria 219/72) vem sem texto.",
+  "instrucoes": [
+    "Alt. 1, 1.º a 4.º: alteram a Portaria 23431, não o original -> ignorados.",
+    "Alt. 1, 5.º: nova redação do n.º 3.º -> substituída a unidade 8.",
+    "Alt. 2: nova redação do n.º 1.º com quadro só em imagem -> não aplicada.",
+    "Alt. 3: sem texto -> nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

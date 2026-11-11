@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:308350:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 24,
+      "texto": "7.º - (Revogado.)\n\n8.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 2.º: revogados os n.os 7.º e 8.º da Portaria n.º 58/83 — unidades 18 a 24 (7.º com o artigo 30.º transcrito, 8.º com o n.º 2 transcrito)",
+    "Alterador 1, 2.º: revogação dos capítulos III e IV da Portaria n.º 1103/82 — outro diploma, ignorada",
+    "Alterador 1, 1.º: aprova novo Regulamento — não dirigido ao original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

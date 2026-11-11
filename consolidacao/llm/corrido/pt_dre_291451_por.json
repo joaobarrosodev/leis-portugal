@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:291451:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Areias, Paio Mendes e Águas Belas, município de Ferreira do Zêzere, com a área de 798,0345 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 6,
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (anexação de prédios, 859,1265 ha) e alterador 3 (renovação e anexação, 1264 ha; correção da área para 1076 ha só no preâmbulo) não dão nova redação a nenhuma unidade do original: atos não textuais.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 1.º — substituída a unidade 6, mantida a numeração 1.º.",
+    "Alterador 1: aditado o n.º 1.º-A — inserido depois da unidade 6, com a numeração 1.º-A.",
+    "Alterador 2: anexação de prédios — não textual, não aplicado.",
+    "Alterador 3: renovação e anexação — não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

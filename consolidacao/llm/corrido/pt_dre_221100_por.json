@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:221100:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 (Portarias n.os 523/88 e 356/90): nova redação dos quadros do anexo I, que só existem em imagem no documento original. Alterador 3 (Portaria n.º 1140/2000), 8.º: revoga a portaria 'na parte que se refere ao bacharelato em 1.º Ciclo do Ensino Básico', sem prejuízo do processo de transição; como todo o texto respeita a esse bacharelato, equivale a revogação por inteiro, pelo que não se devolve nada.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do quadro n.º 3 do anexo I — só em imagem, não aplicada.",
+    "Alterador 2, 1.º: nova redação dos quadros do anexo I — só em imagem, não aplicada.",
+    "Alterador 3, 8.º: revogação na parte do bacharelato em 1.º Ciclo (todo o objeto da portaria) — tratada como revogação total, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

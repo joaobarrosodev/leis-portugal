@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º - É fixado em 50$00, a título de reembolso do custo do papel e impressão, o preço dos títulos de isenção modelo n.º 1 e dos dísticos modelos n.os 2 e 7.",
+    "depois": "5.º A título de reembolso do custo do papel e impressão, são fixados:\n\na) Em 60$00, o preço dos títulos de isenção modelo n.º 1 e dos dísticos modelos n.os 2 e 7;\n\nb) Em 2$50, o preço das declarações modelo n.º 11.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:298254:por",
+    "alterador": "pt:dre:378767:por"
+  }
+]
