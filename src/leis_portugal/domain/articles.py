@@ -278,8 +278,24 @@ def _parse_headings(lines: list[str]) -> list[Article]:
     ended = False
     depth = 0
     pending_heading = False
+    previous: list[str] = []  # as duas últimas linhas não vazias
+    quoted_next: str | None = None  # o número a seguir ao último artigo citado
     for line in lines:
         stripped = line.strip()
+        if depth and not stripped.startswith("#"):
+            seguinte = _PLAIN_ARTICLE.match(stripped.lstrip("«"))
+            numero = number_slug(seguinte.group("number")) if seguinte else None
+            if (seguinte and not seguinte.group("rest").strip() and _division_before(previous)
+                    and numero == _next_number(builder) and numero != quoted_next):
+                # Uma nova redação citada a que falta o "»" do fim: um título de divisão em texto
+                # corrido ("CAPÍTULO IV", a epígrafe) seguido do artigo seguinte do diploma
+                # ("Artigo 7.º" sozinho na linha) fecha as aspas. Não quando o número é também o
+                # seguinte ao último artigo citado: aí é a nova redação que continua.
+                depth = 0
+            elif seguinte and (digits := re.fullmatch(r"(\d+)", numero or "")):
+                quoted_next = str(int(digits.group(1)) + 1)
+        if stripped:
+            previous = (previous + [stripped])[-2:]
         plain = _PLAIN_ARTICLE.match(stripped) if depth == 0 and not stripped.startswith("#") else None
         if plain and not plain.group("rest").strip() and number_slug(plain.group("number")) == _next_number(builder):
             # Registos mistos: depois de uma nova redação citada, o DRE deixa às vezes os artigos
@@ -331,6 +347,14 @@ def _parse_headings(lines: list[str]) -> list[Article]:
         builder.add(line)
     builder.close()
     return builder.articles
+
+
+_PLAIN_DIVISION = re.compile(r"^(?:CAPÍTULO|SECÇÃO|SECÇAO|SUBSECÇÃO|TÍTULO|PARTE|LIVRO)\s+(?:[IVXLCDM]+|ÚNIC[OA]|\d+\.?º?)$")
+
+
+def _division_before(previous: list[str]) -> bool:
+    """As duas linhas anteriores são um título de divisão em texto corrido e a sua epígrafe."""
+    return len(previous) == 2 and bool(_PLAIN_DIVISION.match(previous[0])) and not previous[1].endswith((".", ";", ":", "»"))
 
 
 def _parse_plain(lines: list[str]) -> list[Article]:

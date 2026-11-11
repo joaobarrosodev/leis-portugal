@@ -32,9 +32,8 @@ A contagem é aproximada (classificação por palavras-chave, não por leitura).
 
 ### 3. Por pedir: grandes demais para o método atual
 
-- **13 sem artigos com pedido acima de 270 mil caracteres** (`llm_corrido.candidatos()` devolve só estes): Portaria 413-E/98 (307 mil, 239 citações), DL 394-B/84 (2,1 milhões, 154), DL 400/82 (1,5 milhões, 127), DL 43335, Decreto 46982, RCM 27/2000, DL 44278, DL 44305, DL 45399, DL 740/74, Portaria 721-A/2000, RCM 92/2000 e RCM 81-A/2026. A fazer partindo o pedido por grupos de alteradores, como nos 93 grandes, e não pelo diploma inteiro.
-- **4 dos 93 grandes com o próprio texto grande demais** (DL 63-A/2013, DL 55-A/2000, DL 202/2000, DLR 5/2006/A): a fazer partindo também o texto atual.
-- **DL 38/2003:** o original está mal segmentado em artigos; precisa de correção do parser antes.
+Os 18 desta lista foram feitos em 11/11/2026, na ronda 70, com `llm_gigantes.py`. Ver "Os 18 grandes demais (ronda 70)", no fim. Ficaram assim: 5 aplicáveis, 8 verificados com reparos, 3 sem nada a aplicar e 2 que não se pedem, porque o DRE já os consolida noutro registo. O DL 38/2003 é um dos 5 aplicáveis, depois de corrigido o parser.
+
 - **18 leis de orçamento** dos 93 grandes: deixadas de fora por decisão (pouco valor para o RAG; quase todos os alteradores visam os códigos fiscais e não o próprio texto). Lista em "Bloco 3 dos 93 grandes".
 
 ### 4. Nunca chegam à verificação
@@ -791,3 +790,116 @@ Rendimento: **8 em 25 (32%) sobre o bloco**, 8 em 18 (44%) sobre os verificados.
 - **Os 4 com pedido grande demais**, a fazer partindo o texto atual: os DL 63-A/2013, 55-A/2000 e 202/2000, e o DLR n.º 5/2006/A.
 - **O DL 38/2003**, com o original mal segmentado.
 - **As causas que dependem do acervo e não do LLM:** anexos em imagem, bases em falta e republicações cortadas pelos 60 mil caracteres.
+
+## Os 18 grandes demais (ronda 70)
+
+Feito em 2026-11-11 no ramo `claude/frente-b-gigantes-a1e827`, sem alterar `data/` nem o `acervo.py`. São os 18 do ponto 3 de "O que falha e porquê":
+
+- 13 sem artigos com um pedido acima de 270 mil caracteres;
+- 4 dos 93 grandes em que o próprio texto é grande demais;
+- o DL 38/2003.
+
+As 18 leis de orçamento continuam de fora.
+
+| | Diplomas |
+| --- | --: |
+| Não pedidos: o DRE consolida-os noutro registo | 2 |
+| Sem nada a aplicar: só quadros em imagem | 3 |
+| Juntados e verificados às cegas | 13 |
+| Sem reparos às cegas (`acervo.py --dry-run`: aplicáveis) | **5** |
+| Com reparos | 8 |
+
+Rendimento: **5 dos 18** (28%), ou 5 dos 13 verificados (38%). Os 5 são o DL 43335, o DL 38/2003, o DL 63-A/2013, a Portaria 721-A/2000 e a RCM 81-A/2026. O `acervo.py --dry-run` dá-os como aplicáveis; aplicam-se a partir do `main`.
+
+### Método (`llm_gigantes.py`)
+
+O original divide-se em **unidades**, os parágrafos, como em `llm_corrido.py`. Isto vale também para os 5 que têm artigos (DL 63-A/2013, 55-A/2000, 202/2000, 38/2003 e DLR 5/2006/A). Uma alteração a um número de um artigo de 2.000 linhas é assim uma troca de uma unidade, e a resposta não tem de reescrever o artigo inteiro.
+
+- **Passagens.** Os alteradores partem-se em grupos, por ordem de data, até ~230 mil caracteres por pedido. Cada passagem pede só o seu grupo, sobre o texto que as anteriores deixaram, com as unidades renumeradas. O DL 44278 levou 4 passagens (206 alteradores), o DL 44305 4, o DL 45399 3, e o DL 38/2003, a RCM 27/2000 e a Portaria 413-E/98 2 cada.
+- **Texto atual em ficheiro.** Acima de 90 mil caracteres, o texto atual vai num ficheiro à parte (`texto-K.md`, com `{{N}}` antes de cada unidade). O pedido leva só um índice dos títulos, e o subagente procura no ficheiro as unidades que as instruções visam. O mesmo se faz com um alterador acima de 150 mil caracteres: o DL 214-C/2015 tem 452 mil.
+- **Alteradores grandes pelo nome.** Acima de 100 mil caracteres, um alterador vai só com os artigos que mencionam o original, pelo título ou pelo nome do que ele aprova ("Código do Imposto Profissional", "Estatuto Judiciário", tirados do texto ou do sumário). Antes só se procurava o título.
+- **Copiar do alterador.** Uma resposta pode mandar copiar um intervalo de parágrafos de um alterador (`"copiar": {"alterador", "primeiro", "ultimo"}`) em vez de os escrever. É o programa que copia, letra a letra. Foi assim que entrou a republicação das bases do DL 55-A/2000: 967 unidades de uma vez.
+- **Verificação letra a letra por passagem.** Cada parágrafo novo vem de um alterador, do original ou do texto que as passagens anteriores deixaram, que já passou a mesma verificação. Há três extensões:
+  - "Art. 20.º - (Revogado.)" e "§ 1.º (Revogado.)" contam como revogações;
+  - um título "###### Artigo N.º — Epígrafe" posto no formato do original verifica-se pelas duas partes;
+  - uma troca enorme verifica-se palavra a palavra. É o caso da unidade 697 do DL 202/2000, uma linha única de 393 mil caracteres. Cada sequência nova tem de ser feita de pedaços de 4 ou mais palavras seguidas numa fonte, e uma palavra ou um número trocados sozinhos não passam.
+- **Fusão.** No fim, as passagens fundem-se numa resposta sobre as unidades do original, com o alterador de cada troca, em `llm/corrido/<id>.json`. `juntar` escreve o consolidado com `llm_corrido._junto` e põe a linha em `llm/juntados-corrido.jsonl`, que o `cegas.py` e o `acervo.py` já leem.
+  - A verificação da resposta fundida contra o original fica em `avisos` e não recusa o diploma. Um parágrafo mudado por dois alteradores já não se parece com o original, mas cada passo foi verificado.
+  - As respostas e o estado de cada passagem estão em `llm/gigantes/<id>/`. Os pedidos e os textos intermédios refazem-se com `passagem`.
+- **Verificação às cegas por passagem** (`vistas` e `saida`; prompt em `verificacao/PROMPT-verificador-passagens.md`). Uma vista com todos os alteradores não cabe num verificador. Cada passagem tem a sua vista, com:
+  - os alteradores dessa passagem;
+  - o texto antes dela, num ficheiro quando é grande;
+  - os trechos que mudam entre o texto antes e o texto depois, comparados por `difflib` sem nada da resposta. Um trecho longo vai num ficheiro, e a vista leva o princípio e o fim.
+
+  Ao todo, 23 vistas e 23 verificadores Sonnet. A `saida` junta as passagens na linha do diploma. A chave de cada trecho é "Passagem K, Trecho N". A entrada é a de `cegas.linha_de`, por isso o `acervo.py` compara o consolidado como nas outras rondas.
+
+**Um erro apanhado e corrigido:** a nota "> Alterado pelo/a …" no fim do texto. Quando a última troca cai no fim do original, a nota fica sem uma quebra de linha depois dela. O `cegas.py` e o `acervo.py` só a tiram com essa quebra, por isso a nota entrava no texto verificado às cegas. O `juntar` destes 18 acaba agora o ficheiro com "\n". Três diplomas foram verificados de novo: o DL 63-A/2013 passou outra vez, e os DL 55-A/2000 e 202/2000 já tinham reparos de outra ordem. **Fica por fazer:** em rondas anteriores, 138 diplomas foram verificados com essa nota no texto. Os que entraram em `data/` têm-na no fim, como texto. Não mexi neles, porque o `acervo.py` está a ser corrigido noutra sessão. Aviso também que `llm_corrido.py juntar`, se voltar a correr, reescreve os consolidados destes 18 sem a quebra de linha final: os 3 afetados deixariam de bater com a entrada.
+
+### DL 38/2003: o parser
+
+O registo tem `###### Artigo` só nos artigos 1.º a 6.º. Do 7.º ao 23.º e no anexo, os artigos estão em texto corrido. O artigo 6.º cita a nova redação de artigos do Código do Registo Predial e falta o "»" que a fecha. O parser da fase 3 (`_parse_headings`) achava que o resto do diploma estava todo dentro de aspas, e o "artigo 6.º" engolia os artigos 7.º a 23.º e o anexo.
+
+**A correção** está em `src/leis_portugal/domain/articles.py`. Quando há aspas abertas e aparecem seguidos um título de divisão em texto corrido ("CAPÍTULO IV"), a sua epígrafe e "Artigo N.º" sozinho na linha, as aspas fecham-se se N é o número a seguir ao último artigo do diploma. Há uma exceção: se N é também o número a seguir ao último artigo citado, é a nova redação que continua, e as aspas ficam abertas. Foi essa guarda que afastou um falso positivo no DRR 13/2002/M.
+
+**Antes e depois**, em todo o `data/` (340.556 registos): mudam **10**, todos com a mesma falha. Um artigo que engolia o resto passa a estar dividido nos artigos seguintes. São eles:
+
+- Decreto 43367: 65 → 103 artigos;
+- Decreto do Governo 2/84: 2 → 73;
+- DL 38/2003: 6 → 23;
+- DL 1/2008: 20 → 239;
+- DL 97/2020: 23 → 47;
+- Lei 127-B/97: 39 → 59;
+- Lei 16/2008: 536 → 609;
+- Lei 119/2019: 24 → 26;
+- RCM 137/96: 4 → 34;
+- Aviso do BdP 10/2011: 2 → 21.
+
+Sem a guarda, mudavam também o DL 28/2010, o DRR 21/2022/A e o DRR 13/2002/M (este, um falso positivo); com ela, ficam como estavam.
+
+Os testes passam. Na consolidação nada muda para os outros diplomas, por construção: `texto.dividir` não usa este parser, e `com_titulos` só serve originais sem nenhum `###### Artigo`. O DL 38/2003 foi feito por unidades, como os outros: o artigo 1.º tem 2.350 linhas de novas redações do CPC.
+
+### Os 18, um a um
+
+**Aplicáveis (5):**
+
+- **RCM 81-A/2026:** a Declaração de Retificação 18/2026/1 troca o Despacho 4223/2025 pelo 675/2026 em 59 unidades. Às cegas: 59 certos.
+- **DL 43335:** o art. 67.º é revogado pela Lei 20/2023, e o art. 46.º das Condições Gerais tem a redação do DL 116/87. O art. 49.º fica o original, porque o Acórdão 33/88 declarou inconstitucional a redação do DL 296/82.
+- **DL 38/2003:** só o DL 199/2003 muda o próprio texto (os n.os 3 a 5 do art. 21.º). Os outros 22 alteradores alteram o CPC e os outros códigos, não ele.
+- **DL 63-A/2013:** a Lei 16/2015 revoga o Regime Jurídico dos OIC aprovado em anexo, que fica "(Revogado.)". O decreto-lei fica como estava.
+- **Portaria 721-A/2000:** a Portaria 161/2014 revoga a parte da 1.ª instância, e a Portaria 170/2009 muda o Ministério Público da Relação de Coimbra. As alterações dos outros alteradores à 1.ª instância ficam absorvidas pela revogação.
+
+**Com reparos (8)**, todos com os trechos `certo` ou quase. O que os trava é sobretudo o que não está no texto:
+
+- **DL 44278 (Estatuto Judiciário):** 206 alteradores em 4 passagens, 498 de 500 trechos certos. Um errado: o art. 318.º perdeu o "3. ..." que o DL 414/73 manda manter. Uma dúvida: se o DL 414/73 substitui o art. 49.º inteiro. Há ainda entradas dos mapas VIII ("Cascais", "Barreiro") que não existem no texto antes.
+- **DL 44305 (Código do Imposto Profissional):** 133 trechos certos. Um erro do LLM: a alínea b) do § 2.º do art. 1.º não recebeu a redação do DL 209/75. O resto são tabelas de taxas e de actividades que só existem em PDF.
+- **DL 45399 (Código do Imposto Complementar):** 165 trechos certos. Faltam só as tabelas do art. 33.º, do art. 94.º e do art. 15.º-A, que só existem em PDF.
+- **Decreto 46982:** 25 certos. Falta a tabela de vencimentos do Decreto 268/70, que só existe em PDF.
+- **DL 740/74:** 7 certos. Falta a redação dos arts. 3.º e 4.º do Regulamento de Instalações Colectivas, que o DR 90/84 remete para o seu próprio regulamento anexo, que não vem no pedido.
+- **DL 55-A/2000:** 117 certos (a republicação). Em 3 pontos, a republicação "com a redação atual" difere do articulado do DL 214-C/2015: o n.º 7 da base IX e duas epígrafes de secção. É a mesma decisão por tomar que no DLR 13/98/A: conta a republicação ou as instruções?
+- **DL 202/2000:** 44 de 45 certos. Faltam os anexos que o art. 4.º do DL 224/2003 dá numa redação que não está no acervo, o n.º 6.6 do anexo 24.º e quadros em imagem.
+- **RCM 27/2000:** 6 certos. O verificador conta como em falta as nomeações, exonerações e "considerar alterado … em consonância", que não dão texto novo. O consolidador tratou-as como alterações não textuais. Decidir se uma nomeação muda o texto de uma resolução que nomeia é leitura jurídica, por isso fica com reparos.
+
+**Sem nada a aplicar (3):** em todos, as instruções visam quadros ou tabelas que só existem em imagem ("ver quadro no documento original").
+
+- RCM 92/2000: a tabela 4.8;
+- DLR 5/2006/A: o quadro n.º 1;
+- Portaria 413-E/98: o quadro do anexo, nas 34 alterações.
+
+**Não pedidos (2):**
+
+- **DL 394-B/84 (Código do IVA):** o próprio registo diz "Consulte a versão consolidada … na republicação publicada no anexo IV ao Decreto-Lei n.º 102/2008". O DL 102/2008 já está no acervo como "Versão consolidada pelo DRE" (consolidada a 2026-05-25).
+- **DL 400/82 (Código Penal):** o registo remete para a republicação em anexo ao DL 48/95, que está no acervo como "Versão consolidada pelo DRE" (2026-08-24).
+
+Consolidar os originais de 1982 e 1984, com 68 e 137 alteradores, duplicaria por LLM um texto que o DRE já dá consolidado. O certo é que o registo original aponte para o consolidado do DRE, e não refazê-lo.
+
+**Ficheiros:**
+
+- `llm_gigantes.py`;
+- `llm/gigantes-ids.txt` (os 16 pedidos);
+- `llm/gigantes/<id>/` (o estado e as respostas de cada passagem);
+- `llm/corrido/<id>.json` (as respostas fundidas);
+- `piloto/…` (os consolidados);
+- `verificacao/entrada-piloto-70-lote-01.jsonl` e `saida-piloto-70-lote-01.jsonl`;
+- `verificacao/PROMPT-verificador-passagens.md`.
+
+As vistas e as respostas dos verificadores ficaram no scratchpad da sessão. `vistas` refá-las a partir da entrada e das respostas.

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 228-229",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 67.º Todas as concessões do Estado outorgadas ou revistas nos termos deste decreto-lei serão isentas de contribuição industrial, com excepção das que digam respeito a produção térmica em centrais que utilizem combustíveis estrangeiros.\n\n§ único. Não se consideram abrangidas pela excepção referida no corpo do artigo as centrais que utilizem combustíveis estrangeiros apenas para arranque e suporte da queima de combustíveis nacionais ou cobertura de pontas, desde que o peso dos combustíveis estrangeiros utilizados não exceda 10 por cento do total na média de cada ano.",
+    "depois": "Art. 67.º - (Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514387:por",
+    "alterador": "pt:dre:213132930:por;pt:dre:662314:por"
+  },
+  {
+    "artigo": "unidades 614-615",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 46.º Caução. - O distribuidor tem o direito de exigir, antes da assinatura do contrato, o depósito em caução de uma quantia equivalente ao valor do consumo de energia, durante um mês, correspondente à utilização de 100 horas da potência contratada.\n\n§ único. No fim do contrato, ou no caso de cessação de fornecimento, será o depósito restituído ao consumidor, com dedução das quantias eventualmente em dívida.",
+    "depois": "Art. 46.º Caução. - O distribuidor tem o direito de exigir, antes da assinatura do contrato, garantia bancária ou depósito em dinheiro de uma quantia equivalente ao valor do consumo de energia, durante um mês, correspondente à utilização de 100 horas da potência contratada.\n\n§ único. No fim do contrato, no caso de cessação de fornecimento, será o depósito restituído ao consumidor, com dedução das quantias eventualmente em dívida.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514387:por",
+    "alterador": "pt:dre:213132930:por;pt:dre:662314:por"
+  }
+]

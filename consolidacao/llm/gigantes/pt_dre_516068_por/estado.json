@@ -1,0 +1,61 @@
+{
+ "id": "pt:dre:516068:por",
+ "passagens": [
+  {
+   "n": 1,
+   "alteradores": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "chars": 200754,
+   "texto_em_ficheiro": false
+  },
+  {
+   "n": 2,
+   "alteradores": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "chars": 218781,
+   "texto_em_ficheiro": false
+  },
+  {
+   "n": 3,
+   "alteradores": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+   ],
+   "chars": 145069,
+   "texto_em_ficheiro": false
+  },
+  {
+   "n": 4,
+   "alteradores": [
+    26,
+    27
+   ],
+   "chars": 183575,
+   "texto_em_ficheiro": false
+  }
+ ],
+ "feito": true
+}

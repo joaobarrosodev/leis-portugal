@@ -1,0 +1,365 @@
+{
+ "id": "pt:dre:516068:por",
+ "substituicoes": [
+  {
+   "de": 57,
+   "ate": 57,
+   "texto": "",
+   "alterador": 13
+  },
+  {
+   "de": 60,
+   "ate": 60,
+   "texto": "b) As pensões e subsídios de aposentação, reforma, invalidez e sobrevivência, ainda que concedidos facultativamente, incluindo os complementos de pensões;",
+   "alterador": 14
+  },
+  {
+   "de": 61,
+   "ate": 61,
+   "texto": "c) Os abonos para falhas até à importância correspondente a 5% da remuneração mensal fixa; e as ajudas de custo até ao limite dos quantitativos estabelecidos para os servidores do Estado com remunerações fixas equivalentes ou mais aproximadas;",
+   "alterador": 13
+  },
+  {
+   "de": 72,
+   "ate": 72,
+   "texto": "",
+   "alterador": 13
+  },
+  {
+   "de": 75,
+   "ate": 75,
+   "texto": "",
+   "alterador": 13
+  },
+  {
+   "de": 77,
+   "ate": 77,
+   "texto": "Art. 5.º Ficam igualmente isentos de imposto os contribuintes cujo rendimento colectável anual não seja superior a 92000$00.",
+   "alterador": 18
+  },
+  {
+   "de": 80,
+   "ate": 80,
+   "texto": "Art. 6.º As pessoas sujeitas a imposto apresentarão, durante o mês de Janeiro de cada ano, uma declaração, conforme o modelo n.º 1, de todas as remunerações ou rendimentos por elas recebidos ou postos à sua disposição no ano antecedente, quando superiores ao limite estabelecido no artigo 5.º Sendo caso disso, a declaração deverá especificar o valor das remunerações em espécie, alimentação ou aposentadoria e ser acompanhada dos documentos referidos na alínea a) do artigo 3.º e no § 1.º do artigo 10.º, devidamente classificados e relacionados, os quais serão restituídos ao contribuinte depois de verificada a sua conformidade.",
+   "alterador": 13
+  },
+  {
+   "de": 83,
+   "ate": 84,
+   "texto": "Art. 7.º A matéria colectável determinar-se-á com base nos elementos constantes da declaração referida no artigo anterior e de harmonia com as regras estabelecidas nos artigos 7.º-A, 10.º e seguintes.\n\n§ único. Quando as remunerações sejam estipuladas em moeda estrangeira ou de território sob administração portuguesa, a sua equivalência em escudos será estabelecida pelas cotações à data do vencimento.",
+   "alterador": 16
+  },
+  {
+   "de": 85,
+   "ate": 88,
+   "texto": "Art. 8.º Os contribuintes a que se refere a alínea c) do artigo 2.º ficam obrigados:\n\na) A passar recibos, na data da cobrança e em impressos modelo n.º 2, de todas as importâncias recebidas dos seus clientes, a título de remunerações, de provisões ou adiantamentos ou a qualquer outro;\n\nb) A escriturar o livro de registo de receitas e despesas, modelo n.º 4, com base nos talões dos recibos exigidos na alínea anterior e nos documentos justificativos das despesas a que se referem o § 4.º do presente artigo e o n.º 1.º do corpo do artigo 10.º\n\n§ 1.º Os recibos são isentos do imposto do selo e constituem exclusivo da Imprensa Nacional-Casa da Moeda, sendo o custo das respectivas cadernetas fixado por portaria do Secretário de Estado do Orçamento.\n\n§ 2.º Serão fornecidas aos contribuintes cadernetas de recibos, mediante a requisição modelo n.º 3, a apresentar na repartição de finanças competente nos termos do § 1.º do artigo 6.º\n\n§ 3.º Os talões dos recibos, os livros de registo de receitas e despesas e, bem assim, a demais documentação a que se refere o presente artigo, deverão ser conservados, em boa ordem e durante os cinco anos civis subsequentes, na instalação fixa utilizada pelo contribuinte no exercício da actividade ou, na falta de instalação, no respectivo domicílio.\n\n§ 4.º Na escrituração do livro de registo de receitas e despesas observar-se-ão as seguintes regras:\n\na) Não serão permitidos atrasos superiores a noventa dias, que, porém, não poderão ultrapassar o dia 15 de Janeiro do ano imediato ao da efectivação da receita ou despesa, salvo o disposto na alínea seguinte;\n\nb) As importâncias cobradas a título de provisão ou adiantamento, ou a qualquer outro, destinadas a custear despesas ou outras obrigações da responsabilidade dos clientes poderão ser contabilizadas no prazo de um ano a partir da data da sua percepção, sem no entanto exceder o momento da apresentação da conta final relativa ao trabalho prestado;\n\nc) As despesas ou outras obrigações da responsabilidade dos clientes a que se reportam os n.º 1.º, alínea h), e 3.º do §1.º do artigo 10.º não poderão ser contabilizadas sem que as importâncias referidas na alínea anterior, destinadas a custeá-las, sejam igualmente contabilizadas;\n\nd) Os lançamentos deverão ser apoiados nos respectivos documentos comprovativos ou, na impossibilidade de os obter, em elementos que, nos termos usuais, os comprovem;\n\ne) Sem prejuízo do disposto nas alíneas anteriores, a escrituração das despesas poderá ser efectuada globalmente, quando apoiada em contas-correntes individuais dos clientes em que as mesmas se encontrem devidamente discriminadas e documentadas;\n\nf) dispensada a escrituração das despesas previstas no n.º 1 do corpo do artigo 10.º relativamente aos contribuintes que, utilizando instalação fixa e permanente, se encontrem abrangidos pelo disposto no n.º 1.º do § 1.º do citado artigo, caso em que deixarão de ter direito à dedução das despesas efectivamente suportadas.",
+   "alterador": 14
+  },
+  {
+   "de": 89,
+   "ate": 93,
+   "texto": "Art. 9.º Os contribuintes que exerçam por conta própria profissões constantes da tabela anexa e utilizem instalação fixa para o exercício da actividade são obrigados a afixar, na respectiva instalação e em local bem visível, um aviso com os seguintes dizeres: «De todas as importâncias pagas ou entregues pelos clientes é obrigatória a exigência do respectivo recibo.»\n\n§ único. De todos os pagamentos ou entregas efectuados aos contribuintes abrangidos pela alínea a) do artigo 8.º é obrigatória a exigência do respectivo recibo por parte dos clientes e, salvo outro destino justificado, a sua conservação, por estes, durante um ano, sem prejuízo da observância do disposto no artigo 134.º do Código da Contribuição Industrial.",
+   "alterador": 14
+  },
+  {
+   "de": 94,
+   "ate": 102,
+   "texto": "Art. 10.º No apuramento da matéria colectável dos contribuintes que exerçam, por conta própria, actividades constantes da tabela anexa serão deduzidos às receitas os seguintes encargos:\n\n1.º Despesas com:\n\na) Renda da instalação ou valor locativo a ela correspondente quando o imóvel pertença ao contribuinte;\n\nb) Remuneração do pessoal permanente ou eventual e de outros colaboradores que exerçam a mesma ou quaisquer outras actividades profissionais, industrais ou comerciais;\n\nc) Consumo de água, gás e electricidade;\n\nd) Telefone, telex e telegramas;\n\ne) Seguros conexos com o exercício da actividade;\n\nf) Encargos obrigatoriamente suportados pelo contribuinte relativamente à remuneração do seu pessoal permanente ou eventual;\n\ng) Trabalhos laboratoriais efectuados em estabelecimentos diferenciados dos que estejam afectos ao exercício da actividade profissional do contribuinte;\n\nh) Viagens e deslocações do contribuinte para além da área do concelho ou concelhos onde exerce a actividade, se aí dispuser de instalação fixa e permanente, ou, na falta desta, para além da área do concelho do domicílio e, bem assim, outras obrigações da responsabilidade dos clientes, desde que não custeadas por estes;\n\ni) Materiais e outras substâncias utilizáveis e consumidas no exercício específico da actividade profissional;\n\nj) Outros encargos de natureza administrativa, indispensáveis ao exercício da actividade, designadamente impressos, livros de escrituração ou contabilidade, papel, estampilhas fiscais e outros valores selados, selos postais.",
+   "alterador": 19
+  },
+  {
+   "de": 103,
+   "ate": 103,
+   "texto": "2.º Outras despesas indispensáveis à formação do rendimento, designadamente as verbas destinadas a:\n\na) Reintegração das instalações e do seu equipamento;\n\nb) Representação e valorização profissional do contribuinte;\n\nc) Deslocações na área do concelho ou concelhos onde o contribuinte exerce a actividade, se aí dispuser de instalação fixa e permanente, ou, na falta desta, na do domicílio.\n\n§ 1.º As despesas mencionadas no n.º 1.º do corpo deste artigo serão deduzidas nos seguintes termos:\n\n1.º Pelas percentagens estabelecidas na tabela anexa, desde que, para o exercício da actividade, o contribuinte careça de instalação fixa e permanente e a utilize:\n\n2.º Pelas verbas que o contribuinte prove documentalmente ter pago quando:\n\na) Utilizando instalação fixa e permanente, as referidas verbas excedam o produto global decorrente da aplicação da correspondente percentagem constante da tabela anexa;\n\nb) Não possua instalação fixa e permanente para o exercício da actividade.",
+   "alterador": 14
+  },
+  {
+   "de": 104,
+   "ate": 104,
+   "texto": "3.º As despesas previstas no n.º 1.º do corpo deste artigo serão documentadas nos termos indicados na alínea d) do § 4.º do artigo 8.º, relativamente aos encargos a que se refere a alínea h) do citado n.º 1.º, as despesas não poderão exceder, em caso algum:",
+   "alterador": 19
+  },
+  {
+   "de": 105,
+   "ate": 105,
+   "texto": "a) No que se refere a despesas de viagens e quando o contribuinte utilize automóvel próprio - o montante do subsídio de viagem abonado pelo Estado aos seus funcionários, nas mesmas condições e por cada quilómetro percorrido;\n\nb) Relativamente a despesas de deslocação - os montantes máximos atribuídos pelo Estado aos seus servidores, a título de ajudas de custo.\n\n§ 2.º As despesas referidas no n.º 2.º do corpo deste artigo serão deduzidas pela aplicação das percentagens indicadas na tabela anexa ao rendimento ilíquido anual, incluindo o auferido em anos posteriores ao da cessação da actividade profissional.\n\n§ 3.º Para os efeitos do disposto no artigo 8.º e seguintes, apenas se consideram encargos os que, dentro de limites tidos como razoáveis pelo chefe da repartição de finanças ou pela comissão distrital, no âmbito da competência conferida pelos artigos 11.º e 15.º, se tornarem indispensáveis suportar para a formação do rendimento.",
+   "alterador": 14
+  },
+  {
+   "de": 106,
+   "ate": 113,
+   "texto": "Art. 11.º Em face da declaração dos contribuintes, bem como, quando se mostre conveniente, de informação devidamente fundamentada dos serviços de fiscalização e de quaisquer outros elementos de que disponha, o chefe da repartição de finanças fixará a matéria colectável.\n\n§ 1.º Quando a matéria colectável divergir da resultante da declaração deverá o chefe da repartição fundamentar a sua decisão, comunicando o facto ao contribuinte, através de aviso, sob registo postal, para efeitos do disposto no artigo 15.º\n\n§ 2.º As declarações dos contribuintes que exerçam apenas actividades por conta de outrem serão verificadas através das relações e notas modelos n.os 8 e 8-A, a que se refere o artigo 47.º, e demais elementos existentes, procedendo-se à fixação nos termos previstos no presente artigo somente quando na declaração se reconheça existirem quaisquer faltas, insuficiências ou inexactidões e, bem assim, quando os rendimentos declarados compreendam remunerações das seguintes proveniências:\n\na) Abonos para falhas, ajudas de custo ou verbas para representação, viagens ou deslocações de que não foram prestadas contas até ao termo do exercício;\n\nb) Subsídios eventuais destinados a despesas com assistência médica ou hospitalização;\n\nc) Rendimentos em espécie, alimentação e aposentadoria.",
+   "alterador": 13
+  },
+  {
+   "de": 114,
+   "ate": 115,
+   "texto": "Art. 12.º Quando os contribuintes exerçam a actividade fora do concelho ou bairro do seu domicílio, a repartição de finanças competente para a liquidação do imposto requisitará às dos concelhos ou bairros onde a actividade é exercida os elementos necessários para habilitar o chefe da repartição a fixar o rendimento colectável.",
+   "alterador": 13
+  },
+  {
+   "de": 117,
+   "ate": 117,
+   "texto": "Art. 14.º As correcções das declarações e demais elementos apresentados pelos contribuintes nos termos do artigo 6.º, ou a junção de novos documentos, somente serão considerados se o facto se verificar antes da determinação da matéria colectável, sem prejuízo, sendo caso disso, das penalidades aplicáveis às infracções cometidas.",
+   "alterador": 13
+  },
+  {
+   "de": 118,
+   "ate": 123,
+   "texto": "Art. 15.º A fixação da matéria colectável poderá, mediante reclamação dos contribuintes ou da Fazenda Nacional, representada pelo Ministério Público, ser objecto de revisão pelo chefe da repartição de finanças ou, no caso de este a desatender no todo ou em parte, por uma comissão distrital assim constituída:\n\nPresidente - o director de finanças.\n\nVogais:\n\nUm delegado da Fazenda Nacional, nomeado pelo director-geral das Contribuições e Impostos.\n\nDois delegados da respectiva categoria de contribuintes, designados pelo sindicato ou organismo representativo da respectiva categoria profissional.",
+   "alterador": 13
+  },
+  {
+   "de": 125,
+   "ate": 125,
+   "texto": "§ 2.º Na falta de organismo que represente os contribuintes ou quando pelo mesmo não seja feita a comunicação referida no parágrafo anterior, será solicitado, no continente, à assembleia distrital e, nas Regiões Autónomas dos Açores e da Madeira, à respectiva Secretaria Regional de Finanças, que, no prazo de oito dias, designem os respectivos delegados, de entre os contribuintes do mesmo ramo.",
+   "alterador": 16
+  },
+  {
+   "de": 126,
+   "ate": 126,
+   "texto": "Art. 16.º A reclamação nos termos do artigo anterior deverá ser apresentada de 1 a 15 de Abril, e, sendo reclamante a Fazenda Nacional, o contribuinte será notificado para alegar dentro de cinco dias o que tiver por conveniente, entregando-se-lhe cópia da reclamação.",
+   "alterador": 13
+  },
+  {
+   "de": 127,
+   "ate": 128,
+   "texto": "Art. 17.º As reclamações deverão ser apreciadas pelo chefe da repartição de finanças até 30 de Abril e, sendo caso disso, remetidas dentro do mesmo prazo à comissão distrital acompanhadas dos processos individuais dos contribuintes, dos elementos de fiscalização existentes e, bem assim, de quaisquer outros documentos ou informações considerados úteis ao esclarecimento dos factos.\n\n§ 1.º O director de finanças deverá tomar as providências necessárias para que a apreciação das reclamações e sua devolução às repartições de finanças respectivas se faça até 31 de Maio.",
+   "alterador": 13
+  },
+  {
+   "de": 130,
+   "ate": 130,
+   "texto": "Art. 18.º O chefe da repartição de finanças e o director de finanças, na qualidade de presidente da comissão distrital, poderão requisitar aos serviços do Estado, ou que estejam sob a superintendência ou fiscalização deste, bem como aos das autarquias locais e a outras entidades, os elementos de que precisem para a fixação dos rendimentos ou apreciação das reclamações.",
+   "alterador": 13
+  },
+  {
+   "de": 133,
+   "ate": 133,
+   "texto": "§ 2.º O funcionamento e as deliberações das comissões serão válidos para todos os efeitos ainda que faltem os delegados representantes dos contribuintes, quer por não comparecerem, quando tenham sido devidamente convocados, quer por não terem sido designados.",
+   "alterador": 14
+  },
+  {
+   "de": 135,
+   "ate": 136,
+   "texto": "Art. 20.º O rendimento colectável fixado pelo chefe da repartição de finanças ou pela comissão distrital não é susceptível de reclamação ou impugnação nos termos do Código de Processo das Contribuições e Impostos.\n\n§ 1.º No caso de preterição de formalidades legais, poderão os contribuintes recorrer da decisão do chefe da repartição de finanças ou da deliberação da comissão distrital de revisão para o Tribunal de 1.ª Instância das Contribuições e Impostos.",
+   "alterador": 13
+  },
+  {
+   "de": 137,
+   "ate": 137,
+   "texto": "§ 2.º Quando, determinada a matéria colectável, os contribuintes se não conformem com o critério de razoabilidade aplicado nos termos do § 3.º do artigo 10.º, ou face a invocada injustiça grave ou notória, poderão os mesmos, em termos devidamente fundamentados, requerer ao director-geral das Contribuições e Impostos, ou este oficiosamente promover, a correcção de tal critério e, ou, a revisão da matéria colectável por parte da entidade que proferiu a decisão.",
+   "alterador": 14
+  },
+  {
+   "de": 139,
+   "ate": 139,
+   "texto": "Art. 21.º As taxas do imposto profissional são as seguintes:",
+   "alterador": 16
+  },
+  {
+   "de": 147,
+   "ate": 147,
+   "texto": "a) Quando a remuneração anual ajustada exceda o limite estabelecido no artigo 5.º;",
+   "alterador": 13
+  },
+  {
+   "de": 150,
+   "ate": 152,
+   "texto": "§ 1.º A taxa a aplicar nos termos do corpo deste artigo será a correspondente à remuneração anual ajustada no início de cada ano ou no início da actividade profissional do contribuinte.\n\n§ 2.º As importâncias que se considerarem a mais ou a menos deduzidas e entregues ao Estado no decurso do ano serão compensadas, sempre que possível, nas importâncias a deduzir às remunerações a pagar ou a atribuir durante o último trimestre do respectivo ano, sem prejuízo das liquidações ou restituições previstas nos artigos 32.º e 33.º\n\n§ 3.º Para efeitos de determinação do limite estabelecido no artigo 5.º e da taxa a aplicar, poderão ser tomados em consideração os rendimentos pagos ou atribuídos por outras entidades, desde que o contribuinte o solicite e forneça a cada uma delas os indispensáveis elementos.\n\n§ 4.º Na actividade de pesca em regime de companha compete ao dono da embarcação o cumprimento do disposto no presente artigo relativamente à quota-parte do produto do pescado atribuída aos pescadores sujeitos a imposto.",
+   "alterador": 13
+  },
+  {
+   "de": 153,
+   "ate": 153,
+   "texto": "Art. 27.º As pessoas que contratarem artistas de teatro, bailado, cinema, rádio, televisão, variedades ou circo, músicos, cantores, toureiros ou desportistas, bem como conferencistas, cientistas ou técnicos, domiciliados no estrangeiro, deduzirão às remunerações que lhes atribuírem ou pagarem a importância referida no artigo 26.º, no mínimo de 5%, ainda que as respectivas remunerações não excedam o limite estabelecido no artigo 5.º\n\n§ único. Tratando-se de contribuintes que actuem integrados em agrupamentos e contratados em conjunto, deverão os responsáveis pelos agrupamentos fornecer às pessoas que os contratarem os elementos relativos à decomposição das remunerações auferidas por cada componente.",
+   "alterador": 13
+  },
+  {
+   "de": 154,
+   "ate": 154,
+   "texto": "",
+   "alterador": 13
+  },
+  {
+   "de": 157,
+   "ate": 157,
+   "texto": "§ 2.º Os donos de empresas em nome individual deverão entregar, nos mesmos termos, o imposto calculado de harmonia com o preceituado no artigo 26.º relativamente às importâncias que contabilizarem a título de remuneração do seu trabalho, quando excedam o limite estabelecido no artigo 5.º",
+   "alterador": 13
+  },
+  {
+   "de": 158,
+   "ate": 158,
+   "texto": "Art. 30.º A repartição de finanças competente para a liquidação do imposto organizará verbetes individuais em que serão escrituradas, perante as relações e notas a que aludem os artigos 47.º e 52.º, as importâncias entregues nos cofres do Estado e que foram deduzidas ao abrigo dos artigos 26.º e 27.º e § 2.º do artigo 29.º",
+   "alterador": 13
+  },
+  {
+   "de": 159,
+   "ate": 164,
+   "texto": "Art. 31.º - (Revogado.)",
+   "alterador": 16
+  },
+  {
+   "de": 165,
+   "ate": 165,
+   "texto": "Art. 32.º Apurado o rendimento colectável, proceder-se-á ao cálculo do imposto no verbete individual, devendo abater-se as importâncias que porventura já tenham sido deduzidas a cada contribuinte, ou entregues, nos termos dos artigos 26.º e 27.º e § 2.º do artigo 29.º, e fazer-se a liquidação pela diferença, se a houver.",
+   "alterador": 13
+  },
+  {
+   "de": 166,
+   "ate": 167,
+   "texto": "Art. 33.º Quando no apuramento do rendimento colectável se verificar que, relativamente às remunerações das pessoas abrangidas pelas alíneas a) e b) do artigo 2.º, foi deduzida e entregue ao Estado importância superior à devida, restituir-se-á o excesso, mediante título de anulação a processar oficiosamente a favor dos contribuintes, cujo recebimento a dinheiro será documentado com o certificado da importância entregue.\n\n§ único. Não se fará anulação oficiosa aos contribuintes referidos no artigo 27.º",
+   "alterador": 13
+  },
+  {
+   "de": 172,
+   "ate": 172,
+   "texto": "Art. 37.º Não se procederá a qualquer liquidação, ainda que adicional, nem a anulação oficiosa, quando o seu quantitativo for inferior a 100$00.",
+   "alterador": 13
+  },
+  {
+   "de": 173,
+   "ate": 173,
+   "texto": "Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 12% ao ano, sem prejuízo da multa cominada ao infractor.",
+   "alterador": 16
+  },
+  {
+   "de": 191,
+   "ate": 195,
+   "texto": "Art. 47.º Durante o mês de Janeiro de cada ano as pessoas referidas no artigo anterior deverão apresentar na repartição de finanças do concelho ou bairro a que alude o artigo 29.º relação nominal, em duplicado, acompanhada de notas individuais, em singelo, conforme modelos n.os 8 e 8-A, das pessoas abrangidas pelas alíneas a) e b) do artigo 2.º a quem, no ano anterior, hajam pago ou atribuído remunerações ou rendimentos, ainda que não tenha havido lugar a dedução de imposto.\n\nA relação será organizada por ordem alfabética dos contribuintes e dela deverão constar as remunerações ou rendimentos ilíquidos, a importância deduzida e a soma desta, bem como a designação e residência ou sede da entidade responsável.\n\nAs notas individuais indicarão, além dos elementos contidos na relação modelo n.º 8, o domicílio do contribuinte e a repartição de finanças a que pertence.\n\n§ 1.º No caso de a empresa haver cessado a sua actividade, a obrigação de apresentar a relação e as notas individuais incumbe aos administradores ou gerentes do último exercício, aos liquidatários ou ao administrador da massa falida, conforme as circunstâncias.\n\n§ 2.º As empresas individuais deverão incluir na relação respeitante a remunerações ou rendimentos que pagaram ou atribuíram aquelas que tiverem sido contabilizadas a favor dos seus donos e as importâncias entregues nos termos do § 2.º do artigo 29.º\n\n§ 3.º As relações e notas referidas neste artigo poderão, mediante prévia autorização da Direcção-Geral das Contribuições e Impostos, adaptar-se ao sistema de organização das empresas, nomeadamente com apoio da informática, sem prejuízo do formato e dos elementos nelas exigidos; a aposição da assinatura nas notas poderá ser feita mecanicamente ou por chancela.",
+   "alterador": 13
+  },
+  {
+   "de": 197,
+   "ate": 198,
+   "texto": "Art. 49.º Os chefes, directores, administradores ou outros responsáveis dos serviços públicos, civis ou militares, das pessoas colectivas de utilidade pública administrativa, dos sindicatos ou outros organismos representativos das categorias profissionais, das associações patronais e de quaisquer outras entidades públicas, de sociedades e organizações ou associações privadas, bem como os donos de empresas em nome individual, comunicarão à repartição de finanças do concelho ou bairro da respectiva sede, durante o mês de Janeiro, as remunerações que por eles foram pagas ou atribuídas, no ano anterior, às pessoas abrangidas pela alínea c) do artigo 2.º\n\nA comunicação será feita por meio de notas individuais do modelo n.º 9, em duplicado, agrupadas por concelhos ou bairros e ordem alfabética dos contribuintes.",
+   "alterador": 13
+  },
+  {
+   "de": 204,
+   "ate": 204,
+   "texto": "§ único. Da comunicação, feita através da nota modelo n.º 9, deverão constar os honorários, preços ou remunerações, quando conhecidos, assim como o nome e residência do beneficiário.",
+   "alterador": 13
+  },
+  {
+   "de": 207,
+   "ate": 207,
+   "texto": "Art. 53.º Instaurado procedimento executivo com base em falta de pagamento de imposto por contribuinte constante da tabela anexa, o juiz, decorridos dez dias sobre a citação sem terem sido deduzidos oposição ou embargos ou requerida a suspensão da execução nos termos legais, comunicará o facto ao respectivo organismo profissional, quando o haja, para que este imediatamente suspenda o contribuinte do exercício das suas funções até satisfazer o débito ou estar assegurado o pagamento.",
+   "alterador": 13
+  },
+  {
+   "de": 216,
+   "ate": 216,
+   "texto": "§ 1.º Os prazos de reclamação, ordinária ou extraordinária, e de impugnação, nos casos em que, feito o apuramento do rendimento colectável, não haja lugar a liquidação ou anulação de imposto nos termos dos artigos 32.º e 33.º, serão contados a partir do dia 2 de Julho do ano seguinte àquele em que as remunerações forem pagas ou atribuídas.\n\n§ 2.º Os prazos de reclamação, ordinária ou extraordinária, e de impugnação para anulação do excesso de imposto deduzido e entregue nos termos dos artigos 27.º e 29.º serão contados a partir de 1 de Janeiro do ano seguinte àquele em que as remunerações forem pagas ou atribuídas.",
+   "alterador": 18
+  },
+  {
+   "de": 219,
+   "ate": 219,
+   "texto": "§ 1.º Contar-se-ão juros de 12% ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em processo gracioso ou judicial, de que na liquidação houve erro de facto imputável aos serviços.",
+   "alterador": 16
+  },
+  {
+   "de": 223,
+   "ate": 224,
+   "texto": "Art. 59.º A falta ou inexactidão das declarações ou relações e notas a que aludem os artigos 6.º e 47.º, bem como as omissões nelas praticadas, serão punidas, no caso de simples negligência, com multa de 100$00 a 20000$00, não podendo esta, porém, exceder o quantitativo do imposto não liquidado.\n\n§ 1.º Havendo dolo, a multa será igual ao dobro do imposto não liquidado, no mínimo de 200$00.\n\nQuando da infracção dolosa não resulte liquidação do imposto inferior ao devido, aplicar-se-á a multa de 200$00 a 20000$00.\n\n§ 2.º Considera-se dolosa a omissão de remunerações, ou a sua indicação por quantitativos inexactos, quando as infracções do contribuinte e das entidades referidas nos artigos 26.º e 27.º forem coincidentes.",
+   "alterador": 13
+  },
+  {
+   "de": 226,
+   "ate": 228,
+   "texto": "Art. 61.º As infracções ao disposto no corpo do artigo 8.º e nos seus §§ 3.º e 4.º serão punidas com multa de 1000$00 a 50000$00.\n\n§ 1.º A recusa de apresentação dos talões dos recibos passados ou das cadernetas e livros de registo de receitas e despesas a que se refere o artigo 8.º e seu § 3.º ou da demais documentação exigida na alínea b) do corpo do mesmo artigo, bem como a ocultação, destruição, inutilização, falsificação ou viciação dos mencionados elementos, serão punidas com multa de 2500$00 a 500000$00.\n\n§ 2.º Considera-se recusada a exibição da escrita e dos documentos com ela relacionados quando não sejam postos à disposição dos funcionários competentes nos termos do artigo 54.º-A.",
+   "alterador": 14
+  },
+  {
+   "de": 229,
+   "ate": 229,
+   "texto": "Art. 62.º As infracções ao disposto no corpo do artigo 9.º serão punidas com multa de 1000$00 a 50000$00.\n\n§ único. A falta de exigência dos recibos ou a falta da sua conservação, nos termos previstos no § único do artigo 9.º, ou, ainda, a recusa de apresentação, quando exigida pelos funcionários competentes para a respectiva fiscalização, serão punidas com a multa de 100$00 a 20000$00.",
+   "alterador": 14
+  },
+  {
+   "de": 233,
+   "ate": 233,
+   "texto": "Art. 66.º A falta de entrega nos cofres do Estado das importâncias deduzidas nos termos dos artigos 26.º e 27.º, ou a entrega de quantia inferior à descontada, será punida com multa igual ao quantitativo em falta, no mínimo de 500$00, sem prejuízo das sanções previstas no artigo 453.º do Código Penal, se houver abuso de confiança.",
+   "alterador": 16
+  },
+  {
+   "de": 234,
+   "ate": 234,
+   "texto": "Art. 67.º A entrega nos cofres do Estado fora do prazo legal das importâncias deduzidas nos termos dos artigos 26.º e 27.º será punida com multa igual a metade dessas importâncias, no mínimo de 250$00.",
+   "alterador": 16
+  },
+  {
+   "de": 235,
+   "ate": 235,
+   "texto": "Art. 68.º As pessoas singulares ou colectivas que atribuam ou paguem remunerações pela prestação de trabalho e tomem sobre si os impostos ou outros encargos legais devidos pelas pessoas que lhes prestem os serviços incorrem em infracção, que será punida com multa igual ao dobro dos impostos ou encargos indevidamente assumidos.",
+   "alterador": 13
+  },
+  {
+   "de": 262,
+   "ate": 262,
+   "texto": "Art. 83.º As repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações, notas ou participações a que se referem os artigos 6.º, 9.º, 47.º, 49.º e 50.º, quando apresentadas em duplicado.",
+   "alterador": 13
+  }
+ ],
+ "insercoes": [
+  {
+   "depois_de": 48,
+   "texto": "e) As importâncias, qualquer que seja a sua natureza, recebidas pelos empregados por conta de outrem no exercício da sua actividade, ainda que não atribuídas pela respectiva entidade patronal;\n\nf) Os subsídios e outros benefícios ou regalias sociais auferidos no exercício ou em razão do exercício da actividade profissional.",
+   "alterador": 18
+  },
+  {
+   "depois_de": 63,
+   "texto": "f) Os subsídios de refeição até ao limite do quantitativo estabelecido para os servidores do Estado.",
+   "alterador": 18
+  },
+  {
+   "depois_de": 84,
+   "texto": "Art. 7-A - Os deficientes cujo grau de invalidez seja igual ou superior a 60% terão direito à dedução, na matéria colectável, da importância correspondente a 20% do rendimento líquido, a qual não poderá exceder 60000$00.\n\n§ único. Para efeitos do disposto neste artigo, deverão os contribuintes juntar à declaração modelo n.º 1 documento comprovativo do grau de invalidez, emitido por entidade competente.",
+   "alterador": 16
+  },
+  {
+   "depois_de": 84,
+   "texto": "Art. 7.º-B. Os rendimentos devidos pelo exercício de actividades por conta de outrem que, por motivos alheios à vontade dos respectivos titulares, não forem pagos ou postos à sua disposição no ano em que foram produzidos, poderão ser reportados ao ano a que respeitarem e pelas taxas correspondentes, desde que o contribuinte e a entidade responsável pelo pagamento façam a necessária discriminação na declaração modelo n.º 1, na relação modelo n.º 8 e na nota modelo n.º 8-A, bem como no registo, a que se refere o artigo 46.º\n\n§ único. A faculdade prevista no presente artigo não poderá ser aplicada para além dos três anos imediatamente anteriores àquele em que as remunerações forem recebidas ou postas à disposição dos seus titulares.",
+   "alterador": 19
+  },
+  {
+   "depois_de": 88,
+   "texto": "§ 5.º O regime estabelecido neste artigo é facultativo para os contribuintes que exerçam as actividades de enfermeiro, auxiliar de enfermagem, parteira e massagista, podendo ainda o mesmo regime ser dispensado, por despacho ministerial, a outros contribuintes que o requeiram e cuja actividade seja exercida em condições que não permitam ou em que se torne impraticável a passagem de recibos nos termos previstos neste artigo.",
+   "alterador": 13
+  },
+  {
+   "depois_de": 105,
+   "texto": "§ 4.º Os encargos referidos nos n.os 1.º e 2.º do corpo deste artigo poderão ser revistos, sempre que se julgue conveniente, por portaria do Secretário de Estado do Orçamento.",
+   "alterador": 19
+  },
+  {
+   "depois_de": 116,
+   "texto": "§ 1.º Os rendimentos colectáveis que, por qualquer motivo, não sejam apurados até 31 de Março serão notificados aos interessados para, nos quinze dias imediatos à notificação, poderem usar do direito de reclamação previsto no artigo 15.º, observando-se em tudo o mais as disposições aplicáveis com as necessárias adaptações.\n\n§ 2.º Qualquer contribuinte poderá, dentro do prazo previsto para a reclamação, tomar conhecimento dos rendimentos respeitantes aos que exerçam a mesma profissão ou actividade.",
+   "alterador": 15
+  },
+  {
+   "depois_de": 137,
+   "texto": "§ 3.º O director-geral das Contribuições e Impostos poderá, também, ordenar oficiosamente a revisão da matéria colectável, quando, em face de elementos concretos, se verifique ter havido prejuízo para a Fazenda Nacional, ressalvado, porém, o disposto no artigo 35.º\n\n§ 4.º O recurso e o pedido de revisão previstos nos §§ 1.º e 2.º não têm efeito suspensivo e deverão ser apresentados no prazo de um ano a contar da data da decisão ou da deliberação; a revisão oficiosa a que se refere o § 3.º só poderá ser ordenada dentro do mesmo prazo.\n\n§ 5.º A revisão efectuada nos termos dos §§ 2.º e 3.º será notificada ao contribuinte por meio de postal registado, com aviso de recepção, podendo aquele, no caso de revisão efectuada pelo chefe da repartição de finanças, reclamar nos termos do artigo 15.º e no prazo de quinze dias a contar da data da assinatura do aviso de recepção.",
+   "alterador": 13
+  },
+  {
+   "depois_de": 213,
+   "texto": "Art. 54.º-A Os contribuintes quando solicitados devem facultar aos funcionários referidos no § 1.º do artigo 54.º e, bem assim, aos incumbidos de exame à escrita nos termos deste Código ou que desempenhem funções no Serviço de Prevenção e Fiscalização Tributária todos os elementos de escrita e documentos com ela relacionados, a fim de serem examinados e fiscalizados na instalação fixa utilizada para o exercício da actividade ou, na falta de instalação, no respectivo domicílio, em conformidade com o disposto no § 3.º do artigo 8.º\n\n§ único. Se, por motivo de ausência ou impedimento do contribuinte, não forem facultados os elementos de escrita e respectiva documentação, os funcionários notificá-lo-ão, na pessoa do seu representante ou na de qualquer empregado, familiar ou porteiro, do dia e hora em que deve assegurar a efectivação da diligência, a realizar, do mesmo modo, no local previsto no corpo deste artigo.",
+   "alterador": 14
+  }
+ ],
+ "nao_aplicavel": "Tabelas só em imagem, não aplicadas: taxas do art. 21.º (alts. 12 art. 7.º, 13, 15 e 16 - só o corpo do art. 21.º foi atualizado) e tabela das actividades exercidas por conta própria substituída pelos alts. 12 (art. 8.º), 13 (art. 2.º), 14 (art. 2.º) e 16 (art. 3.º) - u140 e u270 ficam como estão. Alt. 17 (Resolução 62/79): declaração de inconstitucionalidade parcial da alínea e) do § 2.º do art. 1.º, não textual (alínea reescrita pela alt. 18).",
+ "instrucoes": [
+  "Alt. 12 (DL 375/74): art. 6.º eleva a isenção do art. 5.º para 50000$00 - absorvido pelas redacções posteriores do art. 5.º (alts. 13, 14, 16, 18); fica 92000$00 (alt. 18).",
+  "Alt. 12: art. 7.º novas taxas do art. 21.º e art. 8.º nova tabela das actividades - só em imagem: não aplicado (ver nao_aplicavel). Arts. 25.º/26.º (proibição de tomar o imposto a cargo) não alteram texto do código; a matéria entra no art. 68.º pela alt. 13.",
+  "Alt. 13 (DL 209/75): eliminados § 4.º do art. 2.º (u57), alínea g) e § 1.º do art. 4.º (u72, u75) e art. 28.º (u154): unidades removidas.",
+  "Alt. 13: nova redacção dos arts. 1.º (§ 2.º b)), 3.º (b), c)), 5.º, 6.º a 12.º, 14.º a 18.º, 20.º, 21.º, 26.º, 27.º, 29.º a 33.º, 37.º, 47.º, 49.º, 50.º, 53.º, 55.º, 59.º, 61.º, 62.º, 68.º e 83.º; aplicada onde não foi substituída por alteradores seguintes (3.º b), 8.º, 9.º, 10.º, 20.º § 2.º, 31.º, 55.º, 61.º, 62.º, 5.º e 7.º têm redacção final posterior). Art. 8.º § 5.º vem da alt. 13 (a alt. 14 manteve-o com '...'); art. 12.º fica só com o corpo novo; art. 14.º novo substitui a parte final da u117; art. 26.º: alínea a) e §§ 1.º a 4.º novos; art. 21.º: tabela só em imagem.",
+  "Alt. 14 (DL 312/76): adita art. 54.º-A (inserido após u213) e dá nova redacção a 3.º b), 5.º, 8.º, 9.º, 10.º, 19.º § 2.º, 20.º § 2.º, 31.º § 5.º, 61.º e 62.º; aplicado (31.º revogado depois pela alt. 16; 5.º superado). Art. 10.º final combina alt. 14 (n.º 2.º, § 1.º 1.º e 2.º, 3.º a) e b), §§ 2.º e 3.º) com alt. 19. Nova tabela: só em imagem.",
+  "Alt. 15 (DL 667/76): art. 13.º - corpo mantido, § único passa a §§ 1.º e 2.º (inserção após u116); art. 21.º corpo 'As taxas do imposto profissional são as seguintes:' (igual à alt. 16) e tabela só em imagem.",
+  "Alt. 16 (DL 138/78): revoga o art. 31.º (u159-164 -> 'Art. 31.º - (Revogado.)'); nova redacção dos arts. 1.º (§ 2.º e)), 5.º, 7.º, 15.º § 2.º, 21.º (corpo; tabela em imagem), 38.º, 57.º § 1.º, 66.º e 67.º; adita art. 7.º-A (inserido após u84). Alínea e) do art. 1.º substituída depois pela alt. 18. Nova tabela: só em imagem.",
+  "Alt. 17 (Resolução 62/79): declara inconstitucional, em parte, a alínea e) do § 2.º do art. 1.º na redacção do DL 138/78 - não é alteração textual; a alínea foi de seguida reescrita pela alt. 18.",
+  "Alt. 18 (DL 297/79): art. 1.º § 2.º novas alíneas e) e f) (inseridas após u48), art. 3.º nova alínea f) (após u63), art. 5.º 92000$00 (u77), art. 55.º § único substituído por §§ 1.º e 2.º (u216).",
+  "Alt. 19 (DL 374-E/79): adita art. 7.º-B (inserido após u84, a seguir ao 7.º-A) e nova redacção do art. 10.º: corpo e n.º 1.º a)-j) (u94-102), § 1.º 3.º (u104), novo § 4.º (após u105); '...' mantém o resto."
+ ]
+}

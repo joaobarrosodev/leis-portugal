@@ -1,0 +1,106 @@
+{
+ "id": "pt:dre:516068:por",
+ "substituicoes": [
+  {
+   "de": 81,
+   "ate": 81,
+   "texto": "Art. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 410000$00.",
+   "alterador": 27
+  },
+  {
+   "de": 107,
+   "ate": 107,
+   "texto": "c) As despesas ou outras obrigações da responsabilidade dos clientes a que se reporta o n.º 1.º, alínea h), e o § 1.º do artigo 10.º poderão ser contabilizadas no prazo referido na alínea anterior, mas não o poderão ser sem que as importâncias a que alude a mesma alínea, destinadas a custeá-las, sejam igualmente contabilizadas;",
+   "alterador": 27
+  },
+  {
+   "de": 130,
+   "ate": 130,
+   "texto": "a) Reintegrações das instalações e do seu equipamento;",
+   "alterador": 27
+  },
+  {
+   "de": 132,
+   "ate": 132,
+   "texto": "c) Deslocações na área do concelho ou concelhos onde o contribuinte exerce a actividade, se aí dispuser de instalação fixa e permanente, ou, na falta desta, na do domicílio.",
+   "alterador": 27
+  },
+  {
+   "de": 133,
+   "ate": 140,
+   "texto": "§ 1.º As despesas mencionadas no n.º 1.º do corpo deste artigo serão deduzidas pelas verbas que o contribuinte prove documentalmente ter pago e serão documentadas nos termos indicados na alínea d) do § 4.º do artigo 8.º, não podendo, porém, os encargos referidos na alínea h) do citado n.º 1.º exceder, em caso algum:\n\na) No que se refere a despesas de viagens e quando o contribuinte utilize automóvel próprio - o montante do subsídio de viagem abonado pelo Estado aos seus funcionários nas mesmas condições e por cada quilómetro percorrido;\n\nb) Relativamente a despesas de deslocação - os montantes máximos atribuídos pelo Estado aos seus funcionários a título de ajudas de custo.",
+   "alterador": 27
+  },
+  {
+   "de": 143,
+   "ate": 143,
+   "texto": "§ 4.º Para efeitos da aplicação das percentagens estabelecidas na tabela anexa, em conformidade com o § 2.º do presente artigo, o rendimento ilíquido anual do contribuinte será apurado depois de abatidos:",
+   "alterador": 27
+  },
+  {
+   "de": 188,
+   "ate": 188,
+   "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06800/12181221.pdf)",
+   "alterador": 27
+  },
+  {
+   "de": 301,
+   "ate": 302,
+   "texto": "Art. 61.º As infracções ao disposto no corpo do artigo 8.º e nos seus §§ 3.º, 4.º, 6.º e 7.º serão punidas com multa de 10000$00 a 500000$00.\n\n§ 1.º A recusa da apresentação dos talões dos recibos passados ou das cadernetas e livros de registo de receitas e despesas e de reintegrações a que se refere o artigo 8.º e seus §§ 3.º e 6.º ou da demais documentação exigida neste último parágrafo e na alínea b) do corpo do mesmo artigo, bem como a ocultação, destruição, inutilização, falsificação ou viciação dos mencionados elementos, serão punidas com multa de 50000$00 a 1000000$00.",
+   "alterador": 27
+  },
+  {
+   "de": 343,
+   "ate": 343,
+   "texto": "Art. 83.º As repartições de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações, notas, mapas ou participações a que se referem os artigos 6.º e seu § 4.º, 9.º, 27.º-A, § 1.º, 44.º-A, § único, 45.º-A, 47.º, 47.º-A, 49.º e 50.º, quando apresentados em duplicado ou triplicado.",
+   "alterador": 27
+  },
+  {
+   "de": 353,
+   "ate": 354,
+   "texto": "Tabela das actividades exercidas por conta própria, a que se referem os artigos 2.º, alínea c), e 10.º do Código do Imposto Profissional e o artigo 2.º do Decreto-Lei n.º 98/88.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06800/12181221.pdf)",
+   "alterador": 27
+  }
+ ],
+ "insercoes": [
+  {
+   "depois_de": 48,
+   "texto": "e) Metade das importâncias, qualquer que seja a sua natureza, recebidas pelos empregados por conta de outrem no exercício da sua actividade, quando não atribuídas pela respectiva entidade patronal;",
+   "alterador": 27
+  },
+  {
+   "depois_de": 87,
+   "texto": "§ 4.º Para efeitos do disposto no § 2.º-A do artigo 10.º, deverão os contribuintes juntar, em duplicado, à declaração referida no corpo do presente artigo o mapa modelo n.º 12 das reintegrações contabilizadas.",
+   "alterador": 27
+  },
+  {
+   "depois_de": 111,
+   "texto": "§ 6.º Os contribuintes que pretenderem usar da faculdade prevista no § 2.º-A do artigo 10.º ficam obrigados:\n\na) A escriturar o livro de registo das reintegrações das instalações e do seu equipamento, modelo n.º 4-A, com base nos documentos comprovativos da sua aquisição, não sendo permitidos atrasos superiores a 90 dias;\n\nb) A arquivar em boa ordem, durante o período em que as referidas reintegrações podem ser efectuadas, os documentos mencionados na alínea anterior.\n\n§ 7.º Os livros referidos neste artigo deverão ser apresentados na repartição de finanças a que se refere o § 1.º do artigo 6.º, antes de utilizados, para que o respectivo chefe assine os termos de abertura e encerramento, numere as folhas e as rubrique.",
+   "alterador": 27
+  },
+  {
+   "depois_de": 128,
+   "texto": "p) Rendas dos bens de equipamento utilizados no exercício da actividade pagas por força de contratos de locação financeira mobiliária;",
+   "alterador": 27
+  },
+  {
+   "depois_de": 141,
+   "texto": "§ 2.º-A As verbas destinadas às reintegrações das instalações e do seu equipamento poderão ser deduzidas pelas importâncias determinadas de harmonia com a regulamentação aplicável à contribuição industrial, desde que os contribintes possuam o livro modelo n.º 4-A devidamente escriturado.",
+   "alterador": 27
+  }
+ ],
+ "nao_aplicavel": "Lei n.º 2/88 (alterador 26), art. 28.º, n.º 1: autorizações legislativas ao Governo, não alteram o texto (exercidas pelo DL n.º 98/88). Lei n.º 2/88, art. 28.º, n.º 2: nova tabela das taxas do art. 21.º só em imagem; foi de novo substituída pelo DL n.º 98/88, cuja ligação ficou na unidade 188 (o conteúdo das tabelas das taxas e das actividades não é verificável, só em imagem). DL n.º 98/88, art. 10.º: a alínea o) do n.º 1.º vem com '...' mas não existe no texto atual (só até n)); inseriu-se a p) a seguir à n). DL n.º 98/88, art. 5.º: vêm '§ 1.º ...' e '§ 2.º ...', mas o texto atual só tem § único, que se manteve.",
+ "instrucoes": [
+  "Alt. 26 (Lei 2/88) art. 28.º n.º 1: autorização legislativa ao Governo; não aplicada (nao_aplicavel).",
+  "Alt. 26 art. 28.º n.º 2: substitui a tabela das taxas (art. 21.º), só em imagem; ultrapassada pela do alt. 27 (unidade 188).",
+  "Alt. 27 art. 1.º, art. 1.º do Código: aditada a alínea e) do § 2.º, inserida depois da d) (u48).",
+  "Alt. 27, art. 5.º: corpo substituído (u81); § único mantido.",
+  "Alt. 27, art. 6.º: aditado § 4.º depois do § 3.º (u87).",
+  "Alt. 27, art. 8.º: nova alínea c) do § 4.º (u107); aditados § 6.º com a) e b) e § 7.º depois do § 5.º (u111).",
+  "Alt. 27, art. 10.º: aditada alínea p) do n.º 1.º depois da n) (u128); novas alíneas a) e c) do n.º 2.º (u130, u132); § 1.º substituído por nova redação com a) e b) (u133-140); aditado § 2.º-A depois do § 2.º (u141); novo corpo do § 4.º (u143).",
+  "Alt. 27, art. 21.º: corpo igual; tabela das taxas substituída (ligação da u188 para a do DL 98/88).",
+  "Alt. 27, art. 61.º: novos corpo e § 1.º (u301-302).",
+  "Alt. 27, art. 83.º: nova redação (u343).",
+  "Alt. 27, art. 2.º: tabela das actividades exercidas por conta própria substituída pela tabela anexa (título e ligação, u353-354)."
+ ]
+}
