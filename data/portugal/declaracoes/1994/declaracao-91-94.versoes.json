@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:223259:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-08-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a08ef8a6e31e12a2"
+   ]
+  },
+  {
+   "date": "1994-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:355892:por",
+     "title": "Declaração de Rectificação n.º 222/94",
+     "published": "1994-11-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/222-1994-355892"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 2-2"
+   ],
+   "fragments": [
+    "ebb31bcd93379a81"
+   ]
+  }
+ ],
+ "fragments": {
+  "a08ef8a6e31e12a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "De harmonia com o disposto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 46/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1984-660512), de 4 de Fevereiro, se publica que foram autorizadas as seguintes transferências de verbas, nos termos da primeira parte do n.º 2 e alíneas a) e c) do n.º 3 do artigo 5.º do mesmo diploma, da alínea 1) do artigo 5.º da [Lei n.º 30-C/92](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), de 28 de Dezembro, e do artigo 12.º do [Decreto-Lei n.º 83/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1993-634688), de 18 de Março (Orçamento de 1993):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/180b00/44694485.pdf)\n\n8.ª Delegação da Direcção-Geral da Contabilidade Pública, 3 de Junho de 1994. - O Director, João da Graça Fernandes."
+  },
+  "ebb31bcd93379a81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1994-11-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 222/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/222-1994-355892), publicado em 1994-11-30."
+   ],
+   "markdown": "De harmonia com o disposto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 46/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1984-660512), de 4 de Fevereiro, se publica que foram autorizadas as seguintes transferências de verbas, nos termos da primeira parte do n.º 2 e alíneas a) e c) do n.º 3 do artigo 5.º do mesmo diploma, da alínea l) do artigo 5.º da [Lei n.º 30-C/92](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), de 28 de Dezembro, [Decreto-Lei n.º 96/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1993-680636), de 2 de Abril, e do artigo 12.º do [Decreto-Lei n.º 83/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1993-634688), de 18 de Março (Orçamento de 1993):\n\n> Alterado pelo/a [Declaração de Rectificação n.º 222/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/222-1994-355892), publicado em 1994-11-30.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/180b00/44694485.pdf)\n\n8.ª Delegação da Direcção-Geral da Contabilidade Pública, 3 de Junho de 1994. - O Director, João da Graça Fernandes."
+  }
+ }
+}

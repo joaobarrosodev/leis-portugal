@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-12-08'
+version_history:
+  file: portaria-731-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-09-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-12-08'
+    amending: pt:dre:584454:por
+    amending_title: Portaria n.º 1162/2000
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/731/1998/09/10/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:10:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1162/2000. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-731-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,7 +148,9 @@ Ouvidos o Conselho Cinegético Municipal e o Conselho Nacional da Caça e da Con
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Ervedosa do Douro, município de São João da Pesqueira, com uma área de 1327 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Ervedosa do Douro, município de São João da Pesqueira, com uma área de 1109,35 ha.
+
+> Alterado pelo/a [Portaria n.º 1162/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1162-2000-584454), publicado em 2000-12-07.
 
 2.º Pela presente portaria é concessionada, pelo período de seis anos, ao Clube de Caça e Pesca de Ervedosa do Douro (registo na Direcção-Geral das Florestas n.º 1.572.89), com sede em Ervedosa do Douro, São João da Pesqueira, a zona de caça associativa de Ervedosa do Douro (processo n.º 2066 da Direcção-Geral das Florestas).
 

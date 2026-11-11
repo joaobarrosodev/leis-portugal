@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-03-27'
+version_history:
+  file: portaria-9-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-01-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-03-27'
+    amending: pt:dre:667710:por
+    amending_title: Portaria n.º 292/2006
+    changes:
+    - Altera Artigo unidades 7-7
+    - Altera Artigo unidades 18-18
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/9/2004/01/10/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:01:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 292/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-9-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,7 +148,9 @@ Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o
 
 1.º Pela presente portaria é criada a zona de caça municipal da freguesia de Cercal do Alentejo (processo n.º 3546-DGF), pelo período de seis anos, e transferida a sua gestão para a Associação de Caçadores e Pescadores do Regime Livre de Santiago do Cacém, com o número de pessoa colectiva 506121410 e sede no Bairro de Zeca Afonso, 7555 Cercal do Alentejo.
 
-2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, e que dela faz parte integrante, sitos nas freguesias de Cercal do Alentejo e Vale d'Água, município de Santiago do Cacém, com a área de 10409 ha.
+2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante sitos nas freguesias de Cercal do Alentejo e Vale d'Água, município de Santiago do Cacém, com a área de 10036 ha.
+
+> Alterado pelo/a [Portaria n.º 292/2006](https://diariodarepublica.pt/dr/detalhe/portaria/292-2006-667710), publicado em 2006-03-22.
 
 3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:
 
@@ -154,4 +172,6 @@ d) 20% aos demais caçadores conforme é referido na alínea d) do citado artigo
 
 Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 11 de Dezembro de 2003.
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/01/008b00/01610161.pdf)
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2006/03/058b00/21062107.pdf)
+
+> Alterado pelo/a [Portaria n.º 292/2006](https://diariodarepublica.pt/dr/detalhe/portaria/292-2006-667710), publicado em 2006-03-22.

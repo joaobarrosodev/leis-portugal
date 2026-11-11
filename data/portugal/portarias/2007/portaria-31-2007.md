@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-01-19'
+version_history:
+  file: portaria-31-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-01-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-19'
+    amending: pt:dre:280893:por
+    amending_title: Portaria n.º 39/2011
+    changes:
+    - Altera Artigo unidades 14-14
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/31/2007/01/08/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:22:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 39/2011. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-31-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +155,9 @@ Ao abrigo do disposto no artigo 17.º do [Decreto n.º 187/71](https://diariodar
 
 2.º A taxa de acesso é cobrada pelo Instituto da Conservação da Natureza entre 1 de Junho e 30 de Setembro de cada ano.
 
-3.º Estão insentos da taxa de acesso os condutores que sejam residentes ou naturais do concelho de Terras de Bouro, mediante a apresentação de bilhete de identidade ou de outro documento comprovativo da sua naturalidade ou residência.
+3.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 39/2011](https://diariodarepublica.pt/dr/detalhe/portaria/39-2011-280893), publicado em 2011-01-18.
 
 4.º A taxa de acesso constitui receita própria do Instituto da Conservação da Natureza, devendo ser afecta a acções de gestão e conservação da biodiversidade na Mata de Albergaria.
 

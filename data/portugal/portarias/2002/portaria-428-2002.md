@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-08-04'
+version_history:
+  file: portaria-428-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-04-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-04'
+    amending: pt:dre:651746:por
+    amending_title: Portaria n.º 691/2003
+    changes:
+    - Altera Artigo unidades 24-24
+    - Altera Artigo unidades 29-29
+    - Altera Artigo unidades 32-33
+    - Altera Artigo unidades 36-52
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/428/2002/04/19/p/dre/pt/html
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:41:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 691/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-428-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -191,7 +209,9 @@ Pelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Est
 
 ## ANEXO I — Instituto Politécnico de Leiria
 
-Escola Superior de Educação de Leiria
+Escola Superior de Educação
+
+> Alterado pelo/a [Portaria n.º 691/2003](https://diariodarepublica.pt/dr/detalhe/portaria/691-2003-651746), publicado em 2003-07-30.
 
 Curso de Turismo
 
@@ -201,50 +221,30 @@ QUADRO N.º 1
 
 1.º ano
 
-[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)
+
+> Alterado pelo/a [Portaria n.º 691/2003](https://diariodarepublica.pt/dr/detalhe/portaria/691-2003-651746), publicado em 2003-07-30.
 
 QUADRO N.º 2
 
 2.º ano
 
-[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)
 
-Opção de Operador Turístico
+> Alterado pelo/a [Portaria n.º 691/2003](https://diariodarepublica.pt/dr/detalhe/portaria/691-2003-651746), publicado em 2003-07-30.
 
 QUADRO N.º 3
 
 3.º ano
 
-[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)
-
-Opção de Turismo e Ambiente
-
-QUADRO N.º 4
-
-3.º ano
-
-[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)
-
-## ANEXO II — Instituto Politécnico de Leiria
-
-Escola Superior de Educação de Leiria
-
-Curso de Turismo
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)
 
 2.º ciclo - Grau de licenciado
 
-Ramo de Operador Turístico
-
-QUADRO N.º 1
+QUADRO N.º 4
 
 1.º ano
 
-[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)
 
-Ramo de Turismo e Ambiente
-
-QUADRO N.º 2
-
-1.º ano
-
-[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)
+> Alterado pelo/a [Portaria n.º 691/2003](https://diariodarepublica.pt/dr/detalhe/portaria/691-2003-651746), publicado em 2003-07-30.

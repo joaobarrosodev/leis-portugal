@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-11-30'
+version_history:
+  file: declaracao-66-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-05-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-11-30'
+    amending: pt:dre:355902:por
+    amending_title: Declaração de Rectificação n.º 223/94
+    changes:
+    - Altera Artigo unidades 2-2
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decl/66/1994/05/16/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T11:26:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 223/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/declaracoes/1994/declaracao-66-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -104,7 +119,9 @@ validation:
 
 # Declaração n.º 66/94
 
-De harmonia com o disposto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 46/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1984-660512), de 4 de Fevereiro, se publica que foram autorizadas as seguintes transferências de verbas, nos termos da primeira parte do n.º 2 e alínea a) do n.º 3 do artigo 5.º do mesmo diploma, alínea 1) do artigo 5.º da [Lei n.º 30-C/92](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), de 28 de Dezembro, e artigo 12.º do [Decreto-Lei n.º 83/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1993-634688), de 18 de Março (orçamento de 1993):
+De harmonia com o disposto no n.º 2 do artigo 6.º do [Decreto-Lei n.º 46/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1984-660512), de 4 de Fevereiro, se publica que foram autorizadas as seguintes transferências de verbas, nos termos da primeira parte do n.º 2 e alínea a) do n.º 3 do artigo 5.º do mesmo diploma, alínea l) do artigo 5.º da [Lei n.º 30-C/92](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), de 28 de Dezembro, [Decreto-Lei n.º 96/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1993-680636), de 2 de Abril, e artigo 12.º do [Decreto-Lei n.º 83/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1993-634688), de 18 de Março (orçamento de 1993):
+
+> Alterado pelo/a [Declaração de Rectificação n.º 223/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/223-1994-355902), publicado em 1994-11-30.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/113b00/25602571.pdf)
 

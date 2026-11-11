@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-11-29'
+version_history:
+  file: portaria-404-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-11-29'
+    amending: pt:dre:281245:por
+    amending_title: Portaria n.º 735/77
+    changes:
+    - Altera Artigo unidades 99-102
+    - Altera Artigo unidades 342-349
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:45:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 735/77. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1975/portaria-404-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -309,13 +325,9 @@ Capítulo V - Bilhetes especiais:
 
 Artigo 78.º - Bilhetes para crianças.
 
-Artigos 79.º a 84.º - Reservados.
+Artigos 79.º a 97.º - Reservados.
 
-Capítulo VI - Outros bilhetes:
-
-Artigo 85.º - Bilhetes sem data.
-
-Artigos 86.º a 97.º - Reservados.
+> Alterado pelo/a [Portaria n.º 735/77](https://diariodarepublica.pt/dr/detalhe/portaria/735-1977-281245), publicado em 1977-11-29.
 
 ## Título III - Bagagens
 
@@ -795,21 +807,11 @@ ARTIGOS 64.º a 77.º
 
 As crianças de idade igual ou superior a 4 anos e inferior a 12 são transportadas com uma redução de 50% sobre os bilhetes a preço inteiro e têm direito a um lugar distinto. No entanto, em caso de necessidade, cada grupo de duas crianças deve apenas ocupar o espaço correspondente ao lugar de um passageiro.
 
-ARTIGOS 79.º a 84.º
+ARTIGOS 79.º a 97.º
 
 (Reservados.)
 
-### CAPÍTULO VI — Outros bilhetes
-
-###### ARTIGO 85.º — Bilhetes sem data
-
-1. Podem ser adquiridos nas estações bilhetes em qualquer quantidade, que só poderão ser utilizados depois de validados pelo seu portador nas marcadoras para esse fim existentes nas estações, antes de serem usados, nas condições previstas no n.º 1 do artigo 8.º
-
-2. A validade destes bilhetes é independente do sentido da viagem.
-
-ARTIGOS 86.º a 97.º
-
-(Reservados.)
+> Alterado pelo/a [Portaria n.º 735/77](https://diariodarepublica.pt/dr/detalhe/portaria/735-1977-281245), publicado em 1977-11-29.
 
 ## TÍTULO III — Bagagens
 

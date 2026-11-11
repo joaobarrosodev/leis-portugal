@@ -39,10 +39,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-10-18'
+version_history:
+  file: portaria-344-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-10-18'
+    amending: pt:dre:481374:por
+    amending_title: Portaria n.º 1205/2003
+    changes:
+    - Altera Artigo unidades 31-31
+    - Altera Artigo unidades 34-34
+    - Altera Artigo unidades 37-37
+    - Altera Artigo unidades 41-41
+    - Altera Artigo unidades 44-44
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/344/2003/04/29/p/dre/pt/html
@@ -68,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:48:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1205/2003. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-344-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -216,19 +235,25 @@ QUADRO N.º 1
 
 1.º ano
 
-[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)
+
+> Alterado pelo/a [Portaria n.º 1205/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1205-2003-481374), publicado em 2003-10-13.
 
 QUADRO N.º 2
 
 2.º ano
 
-[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)
+
+> Alterado pelo/a [Portaria n.º 1205/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1205-2003-481374), publicado em 2003-10-13.
 
 QUADRO N.º 3
 
 3.º ano
 
-[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)
+
+> Alterado pelo/a [Portaria n.º 1205/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1205-2003-481374), publicado em 2003-10-13.
 
 2.º ciclo - Grau de licenciado
 
@@ -236,10 +261,14 @@ QUADRO N.º 4
 
 1.º ano
 
-[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)
+
+> Alterado pelo/a [Portaria n.º 1205/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1205-2003-481374), publicado em 2003-10-13.
 
 QUADRO N.º 5
 
 2.º ano
 
-[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27522754.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)](https://files.diariodarepublica.pt/1s/2003/10/237b00/67666768.pdf)
+
+> Alterado pelo/a [Portaria n.º 1205/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1205-2003-481374), publicado em 2003-10-13.

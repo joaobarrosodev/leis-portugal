@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-05-31'
+version_history:
+  file: resolucao-conselho-ministros-30-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-05-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-05-31'
+    amending: pt:dre:249181:por
+    amending_title: Declaração de Rectificação n.º 76/94
+    changes:
+    - Altera Artigo unidades 73-73
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/30/1994/05/12/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:04:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 76/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1994/resolucao-conselho-ministros-30-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -248,7 +263,9 @@ Mutuário: República Portuguesa.
 
 Executor do projecto: Junta Autónoma de Estradas (JAE).
 
-Finalidade: financiamento parcial do projecto designado «Estradas XII» - construção de diversos lanços de estrada em 4 IP, 3 IC, e 3 CN.
+Finalidade: financiamento parcial do projecto 'Estradas das XI' - construção de diversos lanços de estrada em quatro IP, três IC e três EN.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 76/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/76-1994-249181), publicado em 1994-05-31.
 
 Montante: até ao equivalente a PTE 12000 milhões - 1.ª parcela.
 

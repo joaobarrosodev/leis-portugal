@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-06-11'
+version_history:
+  file: portaria-415-a-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-06-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-06-11'
+    amending: pt:dre:633554:por
+    amending_title: Portaria n.º 512/91
+    changes:
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:20:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 512/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-415-a-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -170,4 +185,6 @@ O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castr
 
 Tabela anexa
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/12801/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/129b00/30713072.pdf)
+
+> Alterado pelo/a [Portaria n.º 512/91](https://diariodarepublica.pt/dr/detalhe/portaria/512-1991-633554), publicado em 1991-06-06.

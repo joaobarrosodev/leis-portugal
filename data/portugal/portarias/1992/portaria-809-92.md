@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-08-31'
+version_history:
+  file: portaria-809-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-08-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-08-31'
+    amending: pt:dre:159142:por
+    amending_title: Declaração de Rectificação n.º 141/92
+    changes:
+    - Altera Artigo unidades 45-46
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/809/1992/08/18/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:36:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 141/92.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-809-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -192,9 +207,17 @@ Troféu de 120 a 147 pontos - 75000$00;
 
 Troféu de 147,1 a 155 pontos - 175000$00;
 
-Troféu de 155,1 a 163 pontos - 400000$00.
+Troféu de 155,1 a 163 pontos - 275000$00;
 
-Caça de montaria ao javali e veado - de acordo com a tabela acima (caça de aproximação ao veado - troféu).
+Troféu acima de 163 pontos - 400000$00;
+
+Caça de montaria ao javali e veado:
+
+Para os veados cuja caça esteja autorizada e com pontuação inferior a 120 pontos - 40000$00;
+
+Para os veados de pontuação igual ou superior a 120 pontos - de acordo com a tabela acima (caça de aproximação ao veado - troféu).
+
+> Alterado pelo/a [Declaração de Rectificação n.º 141/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/141-1992-159142), publicado em 1992-08-31.
 
 Zona de caça nacional da Tapada Nacional de Mafra
 

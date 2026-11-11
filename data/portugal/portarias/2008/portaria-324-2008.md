@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-09-03'
+version_history:
+  file: portaria-324-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-09-03'
+    amending: pt:dre:174790:por
+    amending_title: Portaria n.º 263/2012
+    changes:
+    - Altera Artigo unidades 24-25
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/324/2008/04/24/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:31:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 263/2012. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-324-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -179,9 +194,11 @@ Plano de estudos
 
 Número máximo de alunos
 
-1 - O número máximo de novos alunos a admitir anualmente não pode exceder 25.
+1 - O número máximo de novos alunos a admitir anualmente não pode exceder 30.
 
-2 - A frequência global do curso não pode exceder 38 alunos.
+2 - A frequência global do curso não pode exceder 45 alunos.
+
+> Alterado pelo/a [Portaria n.º 263/2012](https://diariodarepublica.pt/dr/detalhe/portaria/263-2012-174790), publicado em 2012-08-29.
 
 6.º
 

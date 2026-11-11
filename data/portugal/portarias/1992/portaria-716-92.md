@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-07-31'
+version_history:
+  file: portaria-716-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-07-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-07-31'
+    amending: pt:dre:275986:por
+    amending_title: Declaração de Rectificação n.º 116/92
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/716/1992/07/13/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:26:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 116/92.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-716-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,7 +138,9 @@ Considerando que as Portarias n.os 661/88, de 30 de Setembro, e 968/90, de 10 de
 
 Considerando que alguns desses anexos sofreram alterações devido à evolução dos conhecimentos científicos e técnicos;
 
-Considerando que, à luz desses novos conhecimentos, a Directiva n.º [91/10/CEE](http://data.europa.eu/eli/dir/1991/10/oj?locale=pt), de 19 de Fevereiro de 1992, publicada no Jornal Oficial das Comunidades Europeias, n.º L70/27, de 17 de Março de 1992, modifica disposições da Directiva n.º [77/93/CEE](http://data.europa.eu/eli/dir/1977/93/oj?locale=pt), no que se refere às exigências fitossanitárias estabelecidas por certos países para efeitos de importação de sementes de soja;
+Considerando que, à luz desses novos conhecimentos, a Directiva n.º [92/10/CEE](http://data.europa.eu/eli/dir/1992/10/oj?locale=pt), de 19 de Fevereiro de 1992, publicada no Jornal Oficial das Comunidades Europeias, n.º L70/27, de 17 de Março de 1992, modifica disposições da Directiva n.º [77/93/CEE](http://data.europa.eu/eli/dir/1977/93/oj?locale=pt), no que se refere às exigências fitossanitárias estabelecidas por certos países para efeitos de importação de sementes de soja;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 116/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/116-1992-275986), publicado em 1992-07-31.
 
 Ao abrigo do disposto no n.º 2 do artigo 15.º, nos n.os 1 e 2 do artigo 17.º e no artigo 18.º do Decreto-Lei n.º 348/88, de 30 de Janeiro:
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-10-31'
+version_history:
+  file: despacho-normativo-222-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-10-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-10-31'
+    amending: pt:dre:406726:por
+    amending_title: Declaração de Rectificação n.º 241/91
+    changes:
+    - Altera Artigo unidades 2-2
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/222/1991/10/08/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:51:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 241/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1991/despacho-normativo-222-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,7 +133,9 @@ validation:
 
 # Despacho Normativo n.º 222/91
 
-Considerando que em 31 de Janeiro de 1991 cessou a comissão de serviço da licenciada Maria Isabel da Veiga Sarmento como chefe de divisão da Direcção-Geral de Planeamento e Agricultura, por ser transferida para o Gabinete para os Assuntos Agrícolas Comunitários, criado pelo [Decreto-Lei n.º 254/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1990-573534), de 6 de Agosto, e estruturado pelo [Decreto Regulamentar n.º 39/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1990-564835), de 28 de Novembro, como técnica superior principal, torna-se necessário proceder à criação de um lugar de assessor na carreira técnica superior do quadro de pessoal daquele Gabinete, em execução do disposto na alínea a) do n.º 2 e dos n.os 3 e 4 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
+Considerando que em 31 de Janeiro de 1991 cessou a comissão de serviço da licenciada Maria Isabel Chaves da Veiga Sarmento como chefe de divisão da Direcção-Geral de Planeamento e Agricultura, por ser transferida para o Gabinete para os Assuntos Agrícolas Comunitários, criado pelo [Decreto-Lei n.º 254/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1990-573534), de 6 de Agosto, e estruturado pelo [Decreto Regulamentar n.º 39/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1990-564835), de 28 de Novembro, como técnica superior principal, torna-se necessário proceder à criação de um lugar de assessor na carreira técnica superior do quadro de pessoal daquele Gabinete, em execução do disposto na alínea a) do n.º 2 e dos n.os 3 e 4 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 241/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/241-1991-406726), publicado em 1991-10-31.
 
 Nestes termos, ao abrigo do n.º 5 do citado artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, os Ministros das Finanças e da Agricultura, Pescas e Alimentação determinam o seguinte:
 

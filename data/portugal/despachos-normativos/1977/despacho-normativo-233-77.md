@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-12-17'
+version_history:
+  file: despacho-normativo-233-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-12-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-12-17'
+    amending: pt:dre:243319:por
+    amending_title: Despacho Normativo n.º 239-A/77
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:38:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 239-A/77.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1977/despacho-normativo-233-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -100,7 +115,9 @@ Considerando a existência de empréstimos negociados e aprovados nos termos da 
 
 Considerando ainda a necessidade de as instituições de crédito intervenientes neste tipo de financiamentos seguirem critério uniforme relativamente às operações aprovadas e aguardando escritura, esclarece-se qual a interpretação a dar ao n.º 1 do artigo 10.º do decreto-lei acima referido:
 
-1 - Nos empréstimos para aquisição ou construção de habitação própria já aprovados nos termos da resolução do Conselho de Ministros de 24 de Fevereiro de 1976, cujos contratos se encontrem por assinar à data da entrada em vigor do [Decreto-Lei n.º 515/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1977-279595), de 14 de Dezembro, será aplicado o regime definido no mesmo decreto-lei.
+1 - Nos empréstimos para aquisição ou construção de habitação própria já aprovados nos termos da resolução do Conselho de Ministros de 24 de Fevereiro de 1976, cujos contratos se encontrem por assinar à data da entrada em vigor do [Decreto-Lei n.º 515/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1977-279595), de 14 de Dezembro, será aplicado o regime definido pela mesma resolução, salvo se os interessados não apresentarem, até 15 de Janeiro de 1978, os elementos necessários para a celebração do contrato, caso em que será aplicado o regime do referido decreto-lei.
+
+> Alterado pelo/a [Despacho Normativo n.º 239-A/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/239-a-1977-243319), publicado em 1977-12-17.
 
 2 - Para efeitos da aplicação do novo regime, considerar-se-ão, nos mesmos empréstimos, os rendimentos anuais per capita superiores a 120000$00 incluídos no escalão V.
 

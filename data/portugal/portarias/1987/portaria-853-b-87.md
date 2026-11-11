@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-12-18'
+version_history:
+  file: portaria-853-b-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-11-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-12-18'
+    amending: pt:dre:499486:por
+    amending_title: Portaria n.º 948/87
+    changes:
+    - Adita Artigo depois da unidade 17
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:18:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 948/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-853-b-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,6 +169,32 @@ e) Que não possuam, por si ou através do agregado familiar em que se integram,
 3 - Os estudantes que mudarem de curso poderão ainda beneficiar de bolsa de estudo durante tantos anos quantos os que faltem para terminar o curso que vão frequentar.
 
 4 - Não perderão o direito a bolsa de estudo os estudantes que não obtenham aproveitamento por motivo de doença prolongada devidamente comprovada ou outras situações consideradas especialmente graves e participadas aos serviços em tempo oportuno.
+
+1.º-A - Exceptuam-se da condição da alínea c) do n.º 1 os estudantes que se inscrevam nos seguintes cursos e anos:
+
+a) Universidade de Coimbra, Faculdade de Letras:
+
+1.º ano dos cursos a que se refere o n.º 3.º da [Portaria n.º 844/87](https://diariodarepublica.pt/dr/detalhe/portaria/844-1987-496109), de 28 de Outubro;
+
+b) Universidade de Lisboa, Faculdade de Letras:
+
+I) 1.º ano dos cursos a que se refere o n.º 3.º da [Portaria n.º 852/87](https://diariodarepublica.pt/dr/detalhe/portaria/852-1987-497468), de 4 de Novembro;
+
+II) 1.º ano dos cursos a que se referem as alíneas a) e e) a q) do n.º 2.º da [Portaria n.º 852/87](https://diariodarepublica.pt/dr/detalhe/portaria/852-1987-497468);
+
+c) Universidade Nova de Lisboa, Faculdade de Ciências Sociais e Humanas:
+
+I) 1.º ano dos cursos a que se refere o n.º 2.º da [Portaria n.º 853/87](https://diariodarepublica.pt/dr/detalhe/portaria/853-1987-497469), de 4 de Novembro;
+
+II) 1.º ano dos cursos a que se referem as alíneas d), II), e), II), f), II), g), II), e h), II), do n.º 1 do n.º 3.º da [Portaria n.º 853/87](https://diariodarepublica.pt/dr/detalhe/portaria/853-1987-497469);
+
+d) Universidade do Porto, Faculdade de Letras:
+
+I) 1.º ano dos cursos a que se refere o n.º 3.º da [Portaria n.º 850/87](https://diariodarepublica.pt/dr/detalhe/portaria/850-1987-497458), de 3 de Novembro;
+
+II) Cursos a que se refere o n.º 4.º da [Portaria n.º 850/87](https://diariodarepublica.pt/dr/detalhe/portaria/850-1987-497458).
+
+> Aditado pelo/a [Portaria n.º 948/87](https://diariodarepublica.pt/dr/detalhe/portaria/948-1987-499486), publicado em 1987-12-18.
 
 2.º A candidatura a bolsa de estudo e isenção de propinas far-se-á pela entrega, no prazo anualmente estabelecido, nunca inferior a 30 dias, de um boletim devidamente preenchido, o qual poderá ser completado com outros documentos que os serviços entendam necessários ao total esclarecimento da situação sócio-económica do agregado familiar.
 

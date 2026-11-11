@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-02-29'
+version_history:
+  file: resolucao-conselho-ministros-4-a-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-02-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-02-29'
+    amending: pt:dre:581252:por
+    amending_title: Declaração de Rectificação n.º 19/92
+    changes:
+    - Altera Artigo unidades 33-33
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/4-a/1992/02/04/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T20:49:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 19/92.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1992/resolucao-conselho-ministros-4-a-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -179,7 +194,9 @@ r) A alienação dos direitos de subscrição do Estado, em qualquer dos casos r
 
 7 - Para efeitos das quantidades mínimas e máximas de acções que cada pequeno subscritor ou emigrante poderá adquirir, estas serão consideradas conjuntamente com as acções a subscrever referidas na alínea p) do n.º 1, sendo aplicáveis os limites ali referidos.
 
-8 - As acções subscritas ou adquiridas por trabalhadores devem conter no texto do respectivo título menção da impossibilidade da sua transacção durante o período de três meses após a sua aquisição, conforme resulta do disposto no artigo 9.º do [Decreto-Lei n.º 1/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1992-169420), de 14 de Janeiro, devendo, ainda, a totalidade das acções a subscrever e a alienar referir também a sua sujeição ao limite estabelecido no artigo 12.º do [Decreto-Lei n.º 321-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-a-1990-667146), de 15 de Outubro, aplicável por força do disposto no artigo 9.º supramencionado.
+8 - As acções subscritas ou adquiridas por trabalhadores devem conter no texto do respectivo título menção da impossibilidade da sua transacção durante o período de 12 meses após a sua aquisição, conforme resulta do disposto no artigo 9.º do [Decreto-Lei n.º 1/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1992-169420), de 14 de Janeiro, devendo, ainda, a totalidade das acções a subscrever e a alienar referir também a sua sujeição ao limite estabelecido no artigo 12.º do [Decreto-Lei n.º 321-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-a-1990-667146), de 15 de Outubro, aplicável por força do disposto no artigo 9.º supramencionado.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 19/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-1992-581252), publicado em 1992-02-29.
 
 9 - Os condicionalismos impostos no n.º 5 do artigo 8.º e no artigo 12.º do [Decreto-Lei n.º 321-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-a-1990-667146), de 15 de Outubro, serão respeitados, sequencial e cumulativamente, com as adaptações adequadas, nas operações reguladas nos números anteriores.
 

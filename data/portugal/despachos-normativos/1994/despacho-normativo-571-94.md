@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-06-20'
+version_history:
+  file: despacho-normativo-571-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-06-20'
+    amending: pt:dre:475098:por
+    amending_title: Despacho Normativo n.º 43/98
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/571/1994/07/29/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:22:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 43/98. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-571-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,6 +137,8 @@ Nestes termos, ao abrigo do disposto no n.º 3 do artigo 8.º do [Despacho Norma
 
 1 - O limite máximo da intervenção das sociedades de capital de risco, em resultado das acções referidas no n.º 1 do artigo 8.º do Regime de Apoio à Dinamização do Capital de Risco, não poderá ultrapassar um terço do capital das empresas participadas.
 
-2 - Os investimentos superiores a 50000 contos, sempre que promovidos por sociedades de capital de risco que não sejam maioritariamente privadas, devem ser efectuados em consórcio.
+2 - Os investimentos superiores a 150000 contos, sempre que promovidos por sociedades de capital de risco que não sejam maioritariamente privadas, devem ser efectuados em consórcio.
+
+> Alterado pelo/a [Despacho Normativo n.º 43/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/43-1998-475098), publicado em 1998-06-15.
 
 Ministério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indútria e Energia, Luís Fernando Mira Amaral.

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:283139:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-03-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "06b88c30175d8edc"
+   ]
+  },
+  {
+   "date": "1994-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:576688:por",
+     "title": "Declaração de Rectificação n.º 97/94",
+     "published": "1994-06-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/97-1994-576688"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 2-2"
+   ],
+   "fragments": [
+    "63bbb206f445fb91"
+   ]
+  }
+ ],
+ "fragments": {
+  "06b88c30175d8edc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que em 7 de Abril de 1993 cessou a comissão de serviço Anabela Alves Pereira Lima Teixeira, à data chefe de divisão da ex-Direcção-Geral das Florestas;\n\nConsiderando o disposto no artigo 3.º do [Decreto-Lei n.º 34/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1993-648134), de 13 de Fevereiro, e nos n.os 6 e 8 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:\n\nDetermina-se o seguinte:\n\n1 - É criado no quadro de pessoal do Instituto Florestal, constante do mapa I anexo à [Portaria n.º 781/93](https://diariodarepublica.pt/dr/detalhe/portaria/781-1993-629870), de 6 de Setembro, um lugar de assessor, da carreira de engenheiro, a extinguir quando vagar.\n\n2 - A criação do lugar referido no número anterior produz efeitos desde o dia 7 de Abril de 1993, considerando-se tais efeitos como reportados ao quadro da ex-Direcção-Geral das Florestas até à entrada em vigor da portaria referida no número anterior.\n\nMinistérios das Finanças e da Agricultura, 23 de Fevereiro de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  },
+  "63bbb206f445fb91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1994-06-30",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 97/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1994-576688), publicado em 1994-06-30."
+   ],
+   "markdown": "Considerando que em 7 de Abril de 1993 cessou a comissão de serviço Anabela Alves Ferreira Lima Teixeira, à data chefe de divisão da ex-Direcção-Geral das Florestas;\n\n> Alterado pelo/a [Declaração de Rectificação n.º 97/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1994-576688), publicado em 1994-06-30.\n\nConsiderando o disposto no artigo 3.º do [Decreto-Lei n.º 34/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1993-648134), de 13 de Fevereiro, e nos n.os 6 e 8 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:\n\nDetermina-se o seguinte:\n\n1 - É criado no quadro de pessoal do Instituto Florestal, constante do mapa I anexo à [Portaria n.º 781/93](https://diariodarepublica.pt/dr/detalhe/portaria/781-1993-629870), de 6 de Setembro, um lugar de assessor, da carreira de engenheiro, a extinguir quando vagar.\n\n2 - A criação do lugar referido no número anterior produz efeitos desde o dia 7 de Abril de 1993, considerando-se tais efeitos como reportados ao quadro da ex-Direcção-Geral das Florestas até à entrada em vigor da portaria referida no número anterior.\n\nMinistérios das Finanças e da Agricultura, 23 de Fevereiro de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  }
+ }
+}

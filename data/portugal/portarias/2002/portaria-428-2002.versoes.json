@@ -1,0 +1,81 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:288395:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-04-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "993379832781ae45",
+    "b46a614b9403ac4d",
+    "dcc8d00160bbb27b"
+   ]
+  },
+  {
+   "date": "2003-08-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:651746:por",
+     "title": "Portaria n.º 691/2003",
+     "published": "2003-07-30",
+     "dre_path": "/dr/detalhe/portaria/691-2003-651746"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 24-24",
+    "Altera Artigo unidades 29-29",
+    "Altera Artigo unidades 32-33",
+    "Altera Artigo unidades 36-52"
+   ],
+   "fragments": [
+    "993379832781ae45",
+    "bf1e2ef26a8429b2"
+   ]
+  }
+ ],
+ "fragments": {
+  "993379832781ae45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Abril\n\nSob proposta do Instituto Politécnico de Leiria e da sua Escola Superior de Educação;\n\nConsiderando o disposto no artigo 13.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro (Lei de Bases do Sistema Educativo), alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro;\n\nConsiderando o disposto no Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho;\n\nConsiderando o disposto na [Portaria n.º 466-G/2000](https://diariodarepublica.pt/dr/detalhe/portaria/466-g-2000-203474), de 21 de Julho;\n\nAo abrigo do disposto na [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro (estatuto e autonomia dos estabelecimentos de ensino superior politécnico), alterada pelas Leis n.os [20/92](https://diariodarepublica.pt/dr/detalhe/lei/20-1992-283353), de 14 de Agosto, e [71/93](https://diariodarepublica.pt/dr/detalhe/lei/71-1993-593710), de 25 de Novembro, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso bietápico de licenciatura em Turismo da Escola Superior de Educação de Leiria, criado pela [Portaria n.º 466-G/2000](https://diariodarepublica.pt/dr/detalhe/portaria/466-g-2000-203474), de 21 de Julho, nos termos dos anexos I e II à presente portaria.\n\n2.º\n\nEstágio\n\nA unidade curricular Estágio realiza-se nos termos fixados por regulamento a aprovar pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n3.º\n\nDisposição revogatória\n\n1 - Com a entrada em funcionamento do curso, cessa a ministração do curso de bacharelato em Turismo, criado pela [Portaria n.º 680/97](https://diariodarepublica.pt/dr/detalhe/portaria/680-1997-202580), de 12 de Agosto, nos termos que forem fixados pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n2 - Findo o processo de transição fixado nos termos do número anterior, é revogada a portaria nele referida.\n\n4.º\n\nAplicação\n\nO disposto na presente portaria aplica-se a partir do ano lectivo de 2000-2001, inclusive.\n\nPelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior, em 19 de Março de 2002."
+  },
+  "b46a614b9403ac4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Instituto Politécnico de Leiria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Instituto Politécnico de Leiria\n\nEscola Superior de Educação de Leiria\n\nCurso de Turismo\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)\n\nOpção de Operador Turístico\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)\n\nOpção de Turismo e Ambiente\n\nQUADRO N.º 4\n\n3.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)"
+  },
+  "dcc8d00160bbb27b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Instituto Politécnico de Leiria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Instituto Politécnico de Leiria\n\nEscola Superior de Educação de Leiria\n\nCurso de Turismo\n\n2.º ciclo - Grau de licenciado\n\nRamo de Operador Turístico\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)\n\nRamo de Turismo e Ambiente\n\nQUADRO N.º 2\n\n1.º ano\n\n[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39293932.pdf)"
+  },
+  "bf1e2ef26a8429b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Instituto Politécnico de Leiria",
+   "in_force_from": "2003-08-04",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 691/2003](https://diariodarepublica.pt/dr/detalhe/portaria/691-2003-651746), publicado em 2003-07-30.",
+    "Alterado pelo/a [Portaria n.º 691/2003](https://diariodarepublica.pt/dr/detalhe/portaria/691-2003-651746), publicado em 2003-07-30.",
+    "Alterado pelo/a [Portaria n.º 691/2003](https://diariodarepublica.pt/dr/detalhe/portaria/691-2003-651746), publicado em 2003-07-30.",
+    "Alterado pelo/a [Portaria n.º 691/2003](https://diariodarepublica.pt/dr/detalhe/portaria/691-2003-651746), publicado em 2003-07-30."
+   ],
+   "markdown": "## ANEXO I — Instituto Politécnico de Leiria\n\nEscola Superior de Educação\n\n> Alterado pelo/a [Portaria n.º 691/2003](https://diariodarepublica.pt/dr/detalhe/portaria/691-2003-651746), publicado em 2003-07-30.\n\nCurso de Turismo\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)\n\n> Alterado pelo/a [Portaria n.º 691/2003](https://diariodarepublica.pt/dr/detalhe/portaria/691-2003-651746), publicado em 2003-07-30.\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)\n\n> Alterado pelo/a [Portaria n.º 691/2003](https://diariodarepublica.pt/dr/detalhe/portaria/691-2003-651746), publicado em 2003-07-30.\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/45024503.pdf)\n\n> Alterado pelo/a [Portaria n.º 691/2003](https://diariodarepublica.pt/dr/detalhe/portaria/691-2003-651746), publicado em 2003-07-30."
+  }
+ }
+}

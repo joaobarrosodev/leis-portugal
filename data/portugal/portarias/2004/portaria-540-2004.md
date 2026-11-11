@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-06-12'
+version_history:
+  file: portaria-540-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-06-12'
+    amending: pt:dre:277119:por
+    amending_title: Portaria n.º 624/2004
+    changes:
+    - Altera Artigo unidades 93-93
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/540/2004/05/20/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:59:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 624/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-540-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -322,7 +337,9 @@ QUADRO N.º 6
 
 6.º semestre
 
-[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)](https://files.diariodarepublica.pt/1s/2004/05/118b00/31873193.pdf)
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/133b00/36033604.pdf)
+
+> Alterado pelo/a [Portaria n.º 624/2004](https://diariodarepublica.pt/dr/detalhe/portaria/624-2004-277119), publicado em 2004-06-07.
 
 2.º ciclo - Grau de licenciado
 

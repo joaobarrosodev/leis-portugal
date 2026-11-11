@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-01-05'
+version_history:
+  file: portaria-177-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-05-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-01-05'
+    amending: pt:dre:627227:por
+    amending_title: Portaria n.º 788/86
+    changes:
+    - Altera Artigo unidades 15-15
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:41:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 788/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-177-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,7 +150,11 @@ e) D(índice E) será o valor em escudos das despesas no estrangeiro inerentes �
 
 f) E será o valor nacional acrescentado de exportações a que se refere o n.º 4 do artigo 10.º do [Decreto-Lei n.º 405/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1984-220498), de 31 de Dezembro.
 
-2 - O valor nacional acrescentado a que se reportam o [Decreto-Lei n.º 405/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1984-220498), de 31 de Dezembro, e o n.º 2.º, n.º 1, deste diploma será o valor do produto à saída de fábrica, depois de deduzido o valor dos componentes estrangeiros incorporados e dos descontos, bónus, reembolsos e outras deduções de efeito equivalente.
+2 - O valor nacional acrescentado a que se reportam o [Decreto-Lei n.º 405/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1984-220498), de 31 de Dezembro, e o n.º 2.º, n.º 1, deste diploma será definido pela Direcção-Geral da Indústria com base no valor do produto à saída da fábrica, depois de deduzido o valor dos componentes estrangeiros incorporados e dos descontos, bónus, reembolsos e outras deduções de efeito equivalente.
+
+Sempre que este cálculo conduza a um valor não inferior a 60% do valor do produto à saída da fábrica, deduzidos os descontos, bónus, reembolsos e outras deduções de efeito equivalente, será este o valor considerado como o valor nacional acrescentado para os efeitos supracitados.
+
+> Alterado pelo/a [Portaria n.º 788/86](https://diariodarepublica.pt/dr/detalhe/portaria/788-1986-627227), publicado em 1986-12-31.
 
 3 - Não será considerado para efeitos de incorporação nacional o valor das caixas de carga e sistemas basculantes dos veículos châssis-cabina.
 

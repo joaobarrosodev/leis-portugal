@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-05-11'
+version_history:
+  file: despacho-normativo-180-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-05-11'
+    amending: pt:dre:616857:por
+    amending_title: Despacho Normativo n.º 97/91; Despacho Normativo n.º 97/91
+    changes:
+    - Altera Artigo unidades 20-20
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:46:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 97/91; Despacho
+    Normativo n.º 97/91. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1990/despacho-normativo-180-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,7 +158,9 @@ a) Demonstrar que possuem capacidade técnica, científica, organizativa, econó
 
 b) Comprovar que dispõem de contabilidade adequada às análises requeridas pelo acompanhamento dos projectos;
 
-c) Comprovar que não são devedores ao Estado de quaisquer contribuições, impostos, quotizações e outras importâncias ou que o seu pagamento está assegurado, sendo dispensadas do cumprimento desta obrigação as sociedades constituídas nos 90 dias anteriores à candidatura;
+c) Comprovar que não são devedores ao Estado e à Segurança Social de quaisquer contribuições, impostos, quotizações e outras importâncias o seu pagamento está assegurado, sendo dispensadas do cumprimento desta obrigação as sociedades constituídas nos 90 dias anteriores à candidatura.
+
+> Alterado pelo/a [Despacho Normativo n.º 97/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/97-1991-616857), publicado em 1991-05-06.
 
 d) No caso de exercerem actividade industrial, comprovar ter requerido o registo para efeitos de cadastro industrial ou comprometer-se a requerê-lo no prazo de 30 dias.
 

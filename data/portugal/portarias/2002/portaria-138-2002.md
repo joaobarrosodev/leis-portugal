@@ -39,10 +39,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-03-01'
+version_history:
+  file: portaria-138-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-02-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-03-01'
+    amending: pt:dre:608036:por
+    amending_title: Portaria n.º 217/2005
+    changes:
+    - Altera Artigo unidades 25-27
+    - Altera Artigo unidades 30-30
+    - Altera Artigo unidades 33-33
+    - Altera Artigo unidades 36-39
+    - Altera Artigo unidades 42-42
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/138/2002/02/09/p/dre/pt/html
@@ -68,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:38:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 217/2005. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-138-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -184,38 +203,40 @@ Escola Superior de Música e das Artes do Espectáculo
 
 Curso de Jazz
 
-1.º ciclo
+1.º ciclo - Grau de bacharel
 
-Grau de bacharel
-
-Opções: Piano, Contrabaixo, Bateria, Saxofone, Trompete, Trombone
+> Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24.
 
 QUADRO N.º 1
 
 1.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)
+
+> Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24.
 
 QUADRO N.º 2
 
 2.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)
+
+> Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24.
 
 QUADRO N.º 3
 
 3.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)
 
-2.º ciclo
+2.º ciclo - Grau de licenciado
 
-Grau de licenciado
-
-Ramos: Piano, Contrabaixo, Bateria, Saxofone, Trompete, Trombone
+> Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24.
 
 QUADRO N.º 4
 
 1.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)
+
+> Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24.

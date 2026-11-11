@@ -1,0 +1,215 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:461606:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1980-10-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "82ca9dc8a29496c4"
+   ]
+  },
+  {
+   "date": "1987-04-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:225788:por",
+     "title": "Decreto-Lei n.º 237-A/83",
+     "published": "1983-06-08",
+     "dre_path": "/dr/detalhe/decreto-lei/237-a-1983-225788"
+    },
+    {
+     "id": "pt:dre:666325:por",
+     "title": "Decreto-Lei n.º 179/87",
+     "published": "1987-04-20",
+     "dre_path": "/dr/detalhe/decreto-lei/179-1987-666325"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "92c6d7465f54b7d4",
+    "cd00d661f6d3cad6",
+    "66450d7fe464e0cc",
+    "4033152585ff2981",
+    "8a3a65d12199af73",
+    "d1212560c72498df",
+    "0b007ca210e18a4c",
+    "130b6840ad134d02",
+    "6482ec7959ace0e3",
+    "ea1de0ba055e1049",
+    "6a393d285973f574",
+    "7f87d5ba794c294f",
+    "e09481ca6ee06ec3",
+    "d41aebe4f0347177",
+    "c90bc36bddafe468",
+    "6c2174aa80c69da5",
+    "9e867f5b8cbff6e0"
+   ]
+  }
+ ],
+ "fragments": {
+  "82ca9dc8a29496c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Outubro\n\nA genética médica constitui actualmente uma área médica em profundo desenvolvimento, na qual se alicerçam algumas das melhores esperanças da humanidade de melhoria da qualidade de vida. O acesso à informação fornecida pela moderna tecnologia científica, que constitui elemento do direito dos cidadãos à informação, exige um esforço de estruturação neste sector. Não se pode, pois, deixar de reflectir na importância crescente desta área em termos de prevenção e no significado que ela rapidamente vai ganhando nas sociedades modernas.\n\nA patologia hereditária e malformativa toma uma importância relativamente crescente na mortalidade e na morbilidade infantil, dadas as acções de contrôle das doenças infecciosas e das de nutrição.\n\nCom o prolongamento de vida de indivíduos portadores deste tipo de deficiências esta patologia vai tornar-se cada vez mais pesada nos sistemas de segurança social e no custo da saúde.\n\nO homem contemporâneo está cada vez mais preocupado com a perfeita integridade física e psíquica dos filhos que deseja ter. Por outro lado, as preocupações relativas à qualidade da vida pressionam de modo notavelmente sensível as estruturas sociais e manifesta-se uma inquietação sobre os perigos da sociedade técnica e das diversas poluições. Pode-se, certamente, pensar que há em tudo isto um certo exagero, mas não pode, no entanto, subestimar-se a relevância do problema justificando-se plenamente o seu estudo objectivo. Por todas estas razões, parece que o conjunto dos trabalhos assistenciais, de investigação e de ensino pós-graduado relativos à genética médica devem ser colocados numa estrutura organizada, que será o Instituto de Genética Médica, que integrará o actual Serviço de Genética do Hospital de Maria Pia.\n\nNestes termos:\n\nO Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - É criado na dependência da Direcção-Geral dos Hospitais o Instituto de Genética Médica, adiante designado apenas por Instituto.\n\n2 - Este Instituto integra o equipamento, infra-estruturas e pessoal pertencentes ao Serviço de Genética do Hospital de Crianças de Maria Pia.\n\nArt. 2.º O Instituto tem personalidade jurídica e é dotado de autonomia administrativa e financeira.\n\nArt. 3.º Ao Instituto compete a programação e realização de estudos de genética médica, tendo atribuições assistenciais, de investigação e de ensino.\n\nArt. 4.º O Instituto funcionará em instalações cedidas pelo Hospital Central Especializado de Crianças de Maria Pia.\n\nArt. 5.º O Instituto dispõe do quadro de pessoal anexo ao presente diploma, cujo provimento fará extinguir os correspondentes lugares no quadro do referido Hospital de Maria Pia.\n\nArt. 6.º O Instituto será orientado por um director e disporará de um conselho administrativo.\n\nArt. 7.º - 1 - O director será licenciado em Medicina e possuirá qualificação profissional não inferior à de chefe de clínica de genética médica.\n\n2 - Ao director compete:\n\na) Superintender nos serviços do Instituto e coordenar as suas actividades;\n\nb) Promover a elaboração dos planos e programas de trabalho do Instituto;\n\nc) Promover a elaboração do relatório anual de actividade do Instituto, que submeterá ao Director-Geral dos Hospitais;\n\nd) Promover o recrutamento do pessoal e exercer a competência disciplinar que por lei lhe for atribuída;\n\ne) Submeter a despacho do Director-Geral dos Hospitais os assuntos que careçam de decisão superior;\n\nf) Promover e presidir as reuniões do conselho administrativo;\n\ng) Assegurar a representação do Instituto, directamente ou por delegação;\n\nh) Tomar todas as iniciativas necessárias à prossecução das actividades do Instituto e à sua valorização.\n\nArt. 8.º - 1 - O conselho administrativo do Instituto será constituído pelo director, que presidirá, e terá como vogais o mais qualificado dos chefes de clínica do Instituto e o administrador ou quem desempenhe as suas funções.\n\n2 - Compete ao conselho administrativo:\n\na) Elaborar os projectos de orçamento do Instituto;\n\nb) Administrar as verbas consignadas nos orçamentos;\n\nc) Fiscalizar a cobrança das receitas e o processamento das despesas;\n\nd) Fiscalizar a escrituração do Instituto;\n\ne) Requisitar, se necessário, à respectiva Repartição da Direcção-Geral da Contabilidade Pública as importâncias das dotações inscritas no Orçamento Geral do Estado a favor do Instituto;\n\nf) Autorizar, nos termos legais, a dispensa de concurso público ou limitado e do contrato escrito quanto a obras ou aquisições de material;\n\ng) Aceitar heranças, legados e donativos feitos a favor do Instituto;\n\nh) Proceder à verificação dos fundos em cofre e em depósito;\n\ni) Elaborar anualmente a conta de gerência anterior e submeter a mesma ao Tribunal de Contas nos termos e prazos legais;\n\nj) Zelar pela conservação e bom aproveitamento dos bens materiais do Instituto;\n\nl) Promover a organização e permanente actualização do cadastro dos imóveis e do inventário dos móveis pertencentes ao Instituto ou na sua posse.\n\n3 - O conselho reunirá sempre que necessário ou por convocação do presidente.\n\nArt. 9.º - 1 - O provimento do lugar de director do Instituto será feito por nomeação do Ministro dos Assuntos Sociais, devendo a respectiva proposta ser feita pelo corpo clínico do Instituto.\n\n2 - O provimento do restante pessoal dos quadros do Instituto terá lugar segundo as normas vigentes para os serviços dependentes da Secretaria de Estado da Saúde.\n\n3 - Quando para o pessoal mencionado no número anterior já existam carreiras definidas no âmbito da SES, o provimento dos lugares correspondentes obedecerá às respectivas normas.\n\nArt. 10.º O Ministro dos Assuntos Sociais poderá autorizar o Instituto a celebrar contratos de tarefa com indivíduos ou organismos nacionais ou estrangeiros, quando essa forma de contratação se revele a mais económica ou quando se revele necessária à prossecução dos fins do Instituto.\n\nArt. 11.º Os encargos resultantes do funcionamento do Instituto serão cobertos pelos donativos, produtos de heranças, legados ou doações que lhe sejam feitos e por qualquer outras receitas ou subsídios legalmente atribuídos.\n\nArt. 12.º O Instituto ficará em regime de instalação, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.\n\nArt. 13.º A comissão instaladora elaborará o regulamento interno do Instituto, que será aprovado pelo Ministro dos Assuntos Sociais, e no qual serão definidas as relações entre o Instituto e os hospitais.\n\nArt. 14.º Os casos omissos e as dúvidas resultantes da aplicação do presente diploma serão resolvidos por despacho do Ministro dos Assuntos Sociais.\n\nArt. 15.º É revogada a portaria da Secretaria de Estado da Saúde referente à matéria do presente diploma, com data de 31 de Janeiro de 1980, publicada no Diário da República, 2.ª série, n.º 33, de 8 de Fevereiro de 1980.\n\nArt. 16.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 4 de Setembro de 1980. - Francisco Sá Carneiro.\n\nPromulgado em 19 de Setembro de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "92c6d7465f54b7d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Outubro\n\nA genética médica constitui actualmente uma área médica em profundo desenvolvimento, na qual se alicerçam algumas das melhores esperanças da humanidade de melhoria da qualidade de vida. O acesso à informação fornecida pela moderna tecnologia científica, que constitui elemento do direito dos cidadãos à informação, exige um esforço de estruturação neste sector. Não se pode, pois, deixar de reflectir na importância crescente desta área em termos de prevenção e no significado que ela rapidamente vai ganhando nas sociedades modernas.\n\nA patologia hereditária e malformativa toma uma importância relativamente crescente na mortalidade e na morbilidade infantil, dadas as acções de contrôle das doenças infecciosas e das de nutrição.\n\nCom o prolongamento de vida de indivíduos portadores deste tipo de deficiências esta patologia vai tornar-se cada vez mais pesada nos sistemas de segurança social e no custo da saúde.\n\nO homem contemporâneo está cada vez mais preocupado com a perfeita integridade física e psíquica dos filhos que deseja ter. Por outro lado, as preocupações relativas à qualidade da vida pressionam de modo notavelmente sensível as estruturas sociais e manifesta-se uma inquietação sobre os perigos da sociedade técnica e das diversas poluições. Pode-se, certamente, pensar que há em tudo isto um certo exagero, mas não pode, no entanto, subestimar-se a relevância do problema justificando-se plenamente o seu estudo objectivo. Por todas estas razões, parece que o conjunto dos trabalhos assistenciais, de investigação e de ensino pós-graduado relativos à genética médica devem ser colocados numa estrutura organizada, que será o Instituto de Genética Médica, que integrará o actual Serviço de Genética do Hospital de Maria Pia.\n\nNestes termos:\n\nO Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "cd00d661f6d3cad6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É criado na dependência da Direcção-Geral dos Hospitais o Instituto de Genética Médica, adiante designado apenas por Instituto.\n\n2 - Este Instituto integra o equipamento, infra-estruturas e pessoal pertencentes ao Serviço de Genética do Hospital de Crianças de Maria Pia."
+  },
+  "66450d7fe464e0cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Instituto tem personalidade jurídica e é dotado de autonomia administrativa e financeira."
+  },
+  "4033152585ff2981": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAo Instituto compete a programação e realização de estudos de genética médica, tendo atribuições assistenciais, de investigação e de ensino."
+  },
+  "8a3a65d12199af73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1987-04-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 237-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-1983-225788), publicado em 1983-06-08."
+   ],
+   "markdown": "###### Artigo 4.º\n\nO Instituto funcionará em instalações cedidas pelo Hospital Central Especializado de Crianças de Maria Pia e noutras que eventualmente adquira por qualquer título.\n\n> Alterado pelo/a [Decreto-Lei n.º 237-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-1983-225788), publicado em 1983-06-08."
+  },
+  "d1212560c72498df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO Instituto dispõe do quadro de pessoal anexo ao presente diploma, cujo provimento fará extinguir os correspondentes lugares no quadro do referido Hospital de Maria Pia."
+  },
+  "0b007ca210e18a4c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO Instituto será orientado por um director e disporará de um conselho administrativo."
+  },
+  "130b6840ad134d02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1987-04-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 237-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-1983-225788), publicado em 1983-06-08."
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - O director será licenciado em Medicina e possuirá qualificação profissional não inferior à de chefe de clínica de genética médica.\n\n2 - Ao director compete:\n\na) Superintender nos serviços do Instituto e coordenar as suas actividades;\n\nb) Promover a elaboração dos planos e programas de trabalho do Instituto;\n\nc) Promover a elaboração do relatório anual de actividade do Instituto, que submeterá ao Director-Geral dos Hospitais;\n\nd) Promover o recrutamento do pessoal e exercer a competência disciplinar que por lei lhe for atribuída;\n\ne) Submeter a despacho do Director-Geral dos Hospitais os assuntos que careçam de decisão superior;\n\nf) Promover e presidir as reuniões do conselho administrativo;\n\ng) Assegurar a representação do Instituto, directamente ou por delegação;\n\nh) Tomar todas as iniciativas necessárias à prossecução das actividades do Instituto e à sua valorização.\n\ni) Designar, de entre os chefes de serviço, os que desempenharão funções de director de serviços.\n\n3 - O regime de trabalho do director do Instituto é o de tempo completo prolongado, sendo as funções de direcção remuneradas de acordo com o previsto no quadro anexo ao presente diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 237-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-1983-225788), publicado em 1983-06-08."
+  },
+  "6482ec7959ace0e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1987-04-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 179/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1987-666325), publicado em 1987-04-20."
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - O conselho administrativo do Instituto será constituído pelo director, que presidirá, e terá como vogais o adjunto do director e o administrador ou quem desempenhe as suas funções.\n\n2 - Compete ao conselho administrativo:\n\na) Elaborar os projectos de orçamento do Instituto;\n\nb) Administrar as verbas consignadas nos orçamentos;\n\nc) Fiscalizar a cobrança das receitas e o processamento das despesas;\n\nd) Fiscalizar a escrituração do Instituto;\n\ne) Requisitar, se necessário, à respectiva Repartição da Direcção-Geral da Contabilidade Pública as importâncias das dotações inscritas no Orçamento Geral do Estado a favor do Instituto;\n\nf) Autorizar, nos termos legais, a dispensa de concurso público ou limitado e do contrato escrito quanto a obras ou aquisições de material;\n\ng) Aceitar heranças, legados e donativos feitos a favor do Instituto;\n\nh) Proceder à verificação dos fundos em cofre e em depósito;\n\ni) Elaborar anualmente a conta de gerência anterior e submeter a mesma ao Tribunal de Contas nos termos e prazos legais;\n\nj) Zelar pela conservação e bom aproveitamento dos bens materiais do Instituto;\n\nl) Promover a organização e permanente actualização do cadastro dos imóveis e do inventário dos móveis pertencentes ao Instituto ou na sua posse.\n\n3 - O conselho reunirá sempre que necessário ou por convocação do presidente.\n\n> Alterado pelo/a [Decreto-Lei n.º 179/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1987-666325), publicado em 1987-04-20."
+  },
+  "ea1de0ba055e1049": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1987-04-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 179/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1987-666325), publicado em 1987-04-20."
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - O provimento do lugar de director do Instituto será feito por nomeação do Ministro da Saúde.\n\n2 - O provimento do restante pessoal dos quadros do Instituto terá lugar segundo as normas vigentes para os serviços dependentes da Secretaria de Estado da Saúde.\n\n3 - Quando para o pessoal mencionado no número anterior já existam carreiras definidas no âmbito da SES, o provimento dos lugares correspondentes obedecerá às respectivas normas.\n\n> Alterado pelo/a [Decreto-Lei n.º 179/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1987-666325), publicado em 1987-04-20."
+  },
+  "6a393d285973f574": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO Ministro dos Assuntos Sociais poderá autorizar o Instituto a celebrar contratos de tarefa com indivíduos ou organismos nacionais ou estrangeiros, quando essa forma de contratação se revele a mais económica ou quando se revele necessária à prossecução dos fins do Instituto."
+  },
+  "7f87d5ba794c294f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs encargos resultantes do funcionamento do Instituto serão cobertos pelos donativos, produtos de heranças, legados ou doações que lhe sejam feitos e por qualquer outras receitas ou subsídios legalmente atribuídos."
+  },
+  "e09481ca6ee06ec3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO Instituto ficará em regime de instalação, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro."
+  },
+  "d41aebe4f0347177": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA comissão instaladora elaborará o regulamento interno do Instituto, que será aprovado pelo Ministro dos Assuntos Sociais, e no qual serão definidas as relações entre o Instituto e os hospitais."
+  },
+  "c90bc36bddafe468": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs casos omissos e as dúvidas resultantes da aplicação do presente diploma serão resolvidos por despacho do Ministro dos Assuntos Sociais."
+  },
+  "6c2174aa80c69da5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nÉ revogada a portaria da Secretaria de Estado da Saúde referente à matéria do presente diploma, com data de 31 de Janeiro de 1980, publicada no Diário da República, 2.ª série, n.º 33, de 8 de Fevereiro de 1980."
+  },
+  "9e867f5b8cbff6e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 4 de Setembro de 1980. - Francisco Sá Carneiro.\n\nPromulgado em 19 de Setembro de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

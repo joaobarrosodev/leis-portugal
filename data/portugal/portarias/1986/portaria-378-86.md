@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-09-03'
+version_history:
+  file: portaria-378-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-07-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-09-03'
+    amending: pt:dre:656602:por
+    amending_title: Portaria n.º 478-C/86
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:47:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 478-C/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-378-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,7 +132,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricult
 
 1.º A caça às espécies cinegéticas cuja abertura está legalmente prevista para o 1.º domingo de Outubro é retardada para o 3.º domingo de Outubro.
 
-2.º Não há abertura da caça às rolas, retardando-se a abertura da caça às codornizes e patos para o 1.º domingo de Setembro.
+2.º É retardada a abertura da caça às codornizes e patos para o 1.º domingo de Setembro, data a partir da qual é também permitida a caça às rolas nos locais e pelos processos autorizados para aquelas espécies.
+
+> Alterado pelo/a [Portaria n.º 478-C/86](https://diariodarepublica.pt/dr/detalhe/portaria/478-c-1986-656602), publicado em 1986-08-29.
 
 3.º No período que decorre do 1.º ao 3.º domingo de Outubro apenas é permitida a caça das espécies constantes dos editais publicados pela Direcção-Geral das Florestas nos locais e com os condicionamentos legalmente estabelecidos.
 

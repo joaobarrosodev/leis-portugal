@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-07-01'
+version_history:
+  file: portaria-355-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-07-01'
+    amending: pt:dre:160519:por
+    amending_title: Portaria n.º 436/97
+    changes:
+    - Altera Artigo unidades 16-21
+    - Altera Artigo unidades 26-26
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/355/1995/04/24/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:00:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 436/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-355-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,17 +162,15 @@ Contingentes
 
 1 - As vagas fixadas nos termos do n.º 6.º da [Portaria n.º 239/94](https://diariodarepublica.pt/dr/detalhe/portaria/239-1994-266642), de 16 de Abril, distribuem-se pelos seguintes contingentes:
 
-a) Docentes de escolas superiores de enfermagem - 10%;
+a) Enfermeiros provenientes de serviços prestadores de cuidados do Ministério da Saúde - 75%;
 
-b) Enfermeiros de serviços prestadores de cuidados do Ministério da Saúde - 60%;
+b) Enfermeiros provenientes de instituições com que a Escola estabeleça protocolos - 5%;
 
-c) Enfermeiros de outros serviços dependentes do Ministério da Saúde - 15%;
+c) Outros enfermeiros - 20%.
 
-d) Outros enfermeiros - 10%;
+2 - As vagas eventualmente não utilizadas num dos contingentes revertem, se necessário, para qualquer outro contingente, de acordo com regras a fixar pelo órgão competente da Escola e a divulgar através do edital a que se refere o n.º 9.º da [Portaria n.º 239/94](https://diariodarepublica.pt/dr/detalhe/portaria/239-1994-266642).
 
-e) Enfermeiros de instituições com quem a Escola estabeleça protocolos - 5%.
-
-2 - As vagas eventualmente não utilizadas num dos contingentes revertem, se necessário, para qualquer outro contingente.
+> Alterado pelo/a [Portaria n.º 436/97](https://diariodarepublica.pt/dr/detalhe/portaria/436-1997-160519), publicado em 1997-07-01.
 
 Ministérios da Educação e da Saúde.
 
@@ -166,4 +180,12 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 ## ANEXO I — Diploma de estudos superiores especializados em Enfermagem de Saúde do Idoso e Geriátrica
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/096b00/23422342.pdf)
+Escola Superior de Enfermagem de Francisco Gentil
+
+Curso: Enfermagem de Saúde do Idoso e Geriátrica
+
+Diploma de estudos superiores especializados
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/149b00/32133213.pdf)
+
+> Alterado pelo/a [Portaria n.º 436/97](https://diariodarepublica.pt/dr/detalhe/portaria/436-1997-160519), publicado em 1997-07-01.

@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-05-23'
+version_history:
+  file: portaria-757-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-08-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-05-23'
+    amending: pt:dre:262600:por
+    amending_title: Portaria n.º 307/94; Portaria n.º 307/94
+    changes:
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 16-16
+    - Altera Artigo unidades 35-35
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/757/1992/08/04/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:34:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 307/94; Portaria n.º
+    307/94. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-757-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +161,9 @@ b) Direcção-Geral dos Edifícios e Monumentos Nacionais;
 
 c) Direcção-Geral das Instalações e Equipamentos de Saúde;
 
-d) Direcção-Geral dos Equipamentos Educativos;
+d) Departamento de Gestão de Recursos Educativos;
+
+> Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.
 
 e) Direcção-Geral de Portos;
 
@@ -152,7 +171,9 @@ f) Associação Nacional de Municípios Portugueses;
 
 g) Associação de Industriais da Construção Civil e Obras Públicas do Norte;
 
-h) Associação de Empresas de Construção e Obras Públicas do Sul;
+h) AECOPS - Associação de Empresas de Construção e Obras Públicas.
+
+> Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.
 
 i) Associação da Indústria, Associação da Construção - Região Autónoma da Madeira;
 
@@ -190,7 +211,9 @@ Direcção-Geral dos Edifícios e Monumentos Nacionais;
 
 Direcção-Geral das Instalações e Equipamentos de Saúde;
 
-Direcção-Geral dos Equipamentos Educativos;
+Departamento de Gestão de Recursos Educativos;
+
+> Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.
 
 Departamento Central de Planeamento do Ministério do Planeamento e da Administração do Território;
 

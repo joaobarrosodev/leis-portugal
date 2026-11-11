@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-01-26'
+version_history:
+  file: portaria-426-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-04-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-01-26'
+    amending: pt:dre:606967:por
+    amending_title: Portaria n.º 90/2004
+    changes:
+    - Altera Artigo unidades 32-32
+    - Altera Artigo unidades 42-42
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/426/2002/04/19/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:41:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 90/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-426-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -213,7 +229,9 @@ QUADRO N.º 2
 
 2.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/017b00/03960397.pdf)](https://files.diariodarepublica.pt/1s/2004/01/017b00/03960397.pdf)
+
+> Alterado pelo/a [Portaria n.º 90/2004](https://diariodarepublica.pt/dr/detalhe/portaria/90-2004-606967), publicado em 2004-01-21.
 
 QUADRO N.º 3
 
@@ -233,4 +251,6 @@ QUADRO N.º 1
 
 1.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39263927.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/017b00/03960397.pdf)](https://files.diariodarepublica.pt/1s/2004/01/017b00/03960397.pdf)
+
+> Alterado pelo/a [Portaria n.º 90/2004](https://diariodarepublica.pt/dr/detalhe/portaria/90-2004-606967), publicado em 2004-01-21.

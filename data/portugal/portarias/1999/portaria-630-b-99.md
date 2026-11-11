@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-11-17'
+version_history:
+  file: portaria-630-b-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-08-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-11-17'
+    amending: pt:dre:682832:por
+    amending_title: Portaria n.º 1006/99
+    changes:
+    - Adita Artigo depois da unidade 44
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/630-b/1999/08/10/p/dre/pt/html
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:16:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1006/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-630-b-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -247,6 +262,10 @@ Engenharia Electrotécnica ... 22
 Engenharia Industrial ... 20
 
 Engenharia Informática ... 20
+
+Engenharia das Tecnologias da Informação - 20.
+
+> Aditado pelo/a [Portaria n.º 1006/99](https://diariodarepublica.pt/dr/detalhe/portaria/1006-1999-682832), publicado em 1999-11-12.
 
 Instituto Politécnico do Cávado e do Ave:
 

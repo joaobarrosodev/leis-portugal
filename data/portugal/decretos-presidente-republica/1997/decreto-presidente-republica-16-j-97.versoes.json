@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:243683:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-04-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7503be9a82c2aa50"
+   ]
+  },
+  {
+   "date": "1997-06-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:163595:por",
+     "title": "Declaração de Rectificação n.º 11/97",
+     "published": "1997-06-25",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/11-1997-163595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4"
+   ],
+   "fragments": [
+    "467aa487b3033c98"
+   ]
+  }
+ ],
+ "fragments": {
+  "7503be9a82c2aa50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Abril\n\nO Presidente da República decreta, nos termos do artigo 136.º, alínea h), da Constituição, o seguinte:\n\nÉ nomeado, sob proposta do Primeiro-Ministro, o engenheiro Emanuel José Leandro Maranha das Neves para o cargo de Secretário de Estado das Obras Públicas.\n\nAssinado em 22 de Abril de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Abril de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "467aa487b3033c98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1997-06-25",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 11/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-1997-163595), publicado em 1997-06-25."
+   ],
+   "markdown": "de 22 de Abril\n\nO Presidente da República decreta, nos termos do artigo 136.º, alínea h), da Constituição, o seguinte:\n\nÉ nomeado, sob proposta do Primeiro-Ministro, o Prof. Doutor Emanuel José Leandro Maranha das Neves para o cargo de Secretário de Estado das Obras Públicas.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 11/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-1997-163595), publicado em 1997-06-25.\n\nAssinado em 22 de Abril de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Abril de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

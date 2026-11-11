@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:274467:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-08-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "23416c818f99de54"
+   ]
+  },
+  {
+   "date": "1994-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:262600:por",
+     "title": "Portaria n.º 307/94",
+     "published": "1994-05-18",
+     "dre_path": "/dr/detalhe/portaria/307-1994-262600"
+    },
+    {
+     "id": "pt:dre:262600:por",
+     "title": "Portaria n.º 307/94",
+     "published": "1994-05-18",
+     "dre_path": "/dr/detalhe/portaria/307-1994-262600"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 12-12",
+    "Altera Artigo unidades 16-16",
+    "Altera Artigo unidades 35-35"
+   ],
+   "fragments": [
+    "ae4997b63218a495"
+   ]
+  }
+ ],
+ "fragments": {
+  "23416c818f99de54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Agosto\n\nPara a prossecução das funções que lhe foram legalmente cometidas pelo [Decreto-Lei n.º 99/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1988-285743), de 23 de Março, o Conselho de Mercados de Obras Públicas e Particulares (CMOPP) integra diversas comissões, cuja composição foi fixada através das Portarias n.os [326/88](https://diariodarepublica.pt/dr/detalhe/portaria/326-1988-374420) e [327/88](https://diariodarepublica.pt/dr/detalhe/portaria/327-1988-374426), ambas de 24 de Maio, alteradas pela [Portaria n.º 407/92](https://diariodarepublica.pt/dr/detalhe/portaria/407-1992-524060), de 15 de Maio.\n\nConsiderando a importância crescente das competências da Direcção-Geral dos Edifícios e Monumentos Nacionais, justifica-se que a mesma passe a integrar a composição da Comissão de Alvarás de Empresas de Obras Públicas e Particulares.\n\nAssim:\n\nManda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, nos termos do n.º 2 do artigo 8.º do [Decreto-Lei n.º 99/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1988-285743), de 23 de Março, o seguinte:\n\n1.º O n.º 1.º da [Portaria n.º 326/88](https://diariodarepublica.pt/dr/detalhe/portaria/326-1988-374420), de 24 de Maio, passa a ter a seguinte redacção:\n\n1.º A Comissão de Alvarás de Empresas de Obras Públicas e Particulares (CAEOPP), para além das individualidades referidas na alínea a) do n.º 1 do artigo 7.º e do n.º 3 do artigo 8.º, é composta pelas seguintes entidades:\n\na) Junta Autónoma de Estradas;\n\nb) Direcção-Geral dos Edifícios e Monumentos Nacionais;\n\nc) Direcção-Geral das Instalações e Equipamentos de Saúde;\n\nd) Direcção-Geral dos Equipamentos Educativos;\n\ne) Direcção-Geral de Portos;\n\nf) Associação Nacional de Municípios Portugueses;\n\ng) Associação de Industriais da Construção Civil e Obras Públicas do Norte;\n\nh) Associação de Empresas de Construção e Obras Públicas do Sul;\n\ni) Associação da Indústria, Associação da Construção - Região Autónoma da Madeira;\n\nj) Associação Nacional dos Empreiteiros de Obras Públicas;\n\nl) Associação dos Industriais da Construção de Edifícios;\n\nm) Ordem dos Engenheiros;\n\nn) Associação dos Arquitectos Portugueses;\n\no) Associação Portuguesa de Engenheiros Técnicos;\n\np) Associação dos Agentes Técnicos de Arquitectura e Engenharia.\n\n2.º O n.º 2.º da referida portaria passa a ter a seguinte redacção:\n\n2.º - a) Da 1.ª Secção da CAEOPP fazem parte as entidades referidas nas alíneas a) a j) e m) a p) do número anterior.\n\nb) Da 2.ª Secção da CAEOPP fazem parte as entidades referidas nas alíneas f) a i) e l) a p).\n\n3.º A alínea a) da [Portaria n.º 327/88](https://diariodarepublica.pt/dr/detalhe/portaria/327-1988-374426), de 24 de Maio, passa a ter a seguinte redacção:\n\na) Como representantes da administração central e regional e organismos autónomos:\n\nLaboratório Nacional de Engenharia Civil;\n\nJunta Autónoma de Estradas;\n\nInstituto Nacional de Habitação;\n\nInstituto de Gestão e Alienação do Património Habitacional do Estado;\n\nDirecção-Geral dos Edifícios e Monumentos Nacionais;\n\nDirecção-Geral das Instalações e Equipamentos de Saúde;\n\nDirecção-Geral dos Equipamentos Educativos;\n\nDepartamento Central de Planeamento do Ministério do Planeamento e da Administração do Território;\n\nGabinete de Estudos e Planeamento do Ministério das Obras Públicas, Transportes e Comunicações.\n\nMinistério das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 29 de Junho de 1992.\n\nPelo Ministro das Obras Públicas, Transportes e Comunicações, Álvaro Severiano da Silva Magalhães, Secretário de Estado das Obras Públicas."
+  },
+  "ae4997b63218a495": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1994-05-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.",
+    "Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.",
+    "Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18."
+   ],
+   "markdown": "de 4 de Agosto\n\nPara a prossecução das funções que lhe foram legalmente cometidas pelo [Decreto-Lei n.º 99/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1988-285743), de 23 de Março, o Conselho de Mercados de Obras Públicas e Particulares (CMOPP) integra diversas comissões, cuja composição foi fixada através das Portarias n.os [326/88](https://diariodarepublica.pt/dr/detalhe/portaria/326-1988-374420) e [327/88](https://diariodarepublica.pt/dr/detalhe/portaria/327-1988-374426), ambas de 24 de Maio, alteradas pela [Portaria n.º 407/92](https://diariodarepublica.pt/dr/detalhe/portaria/407-1992-524060), de 15 de Maio.\n\nConsiderando a importância crescente das competências da Direcção-Geral dos Edifícios e Monumentos Nacionais, justifica-se que a mesma passe a integrar a composição da Comissão de Alvarás de Empresas de Obras Públicas e Particulares.\n\nAssim:\n\nManda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, nos termos do n.º 2 do artigo 8.º do [Decreto-Lei n.º 99/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1988-285743), de 23 de Março, o seguinte:\n\n1.º O n.º 1.º da [Portaria n.º 326/88](https://diariodarepublica.pt/dr/detalhe/portaria/326-1988-374420), de 24 de Maio, passa a ter a seguinte redacção:\n\n1.º A Comissão de Alvarás de Empresas de Obras Públicas e Particulares (CAEOPP), para além das individualidades referidas na alínea a) do n.º 1 do artigo 7.º e do n.º 3 do artigo 8.º, é composta pelas seguintes entidades:\n\na) Junta Autónoma de Estradas;\n\nb) Direcção-Geral dos Edifícios e Monumentos Nacionais;\n\nc) Direcção-Geral das Instalações e Equipamentos de Saúde;\n\nd) Departamento de Gestão de Recursos Educativos;\n\n> Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.\n\ne) Direcção-Geral de Portos;\n\nf) Associação Nacional de Municípios Portugueses;\n\ng) Associação de Industriais da Construção Civil e Obras Públicas do Norte;\n\nh) AECOPS - Associação de Empresas de Construção e Obras Públicas.\n\n> Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.\n\ni) Associação da Indústria, Associação da Construção - Região Autónoma da Madeira;\n\nj) Associação Nacional dos Empreiteiros de Obras Públicas;\n\nl) Associação dos Industriais da Construção de Edifícios;\n\nm) Ordem dos Engenheiros;\n\nn) Associação dos Arquitectos Portugueses;\n\no) Associação Portuguesa de Engenheiros Técnicos;\n\np) Associação dos Agentes Técnicos de Arquitectura e Engenharia.\n\n2.º O n.º 2.º da referida portaria passa a ter a seguinte redacção:\n\n2.º - a) Da 1.ª Secção da CAEOPP fazem parte as entidades referidas nas alíneas a) a j) e m) a p) do número anterior.\n\nb) Da 2.ª Secção da CAEOPP fazem parte as entidades referidas nas alíneas f) a i) e l) a p).\n\n3.º A alínea a) da [Portaria n.º 327/88](https://diariodarepublica.pt/dr/detalhe/portaria/327-1988-374426), de 24 de Maio, passa a ter a seguinte redacção:\n\na) Como representantes da administração central e regional e organismos autónomos:\n\nLaboratório Nacional de Engenharia Civil;\n\nJunta Autónoma de Estradas;\n\nInstituto Nacional de Habitação;\n\nInstituto de Gestão e Alienação do Património Habitacional do Estado;\n\nDirecção-Geral dos Edifícios e Monumentos Nacionais;\n\nDirecção-Geral das Instalações e Equipamentos de Saúde;\n\nDepartamento de Gestão de Recursos Educativos;\n\n> Alterado pelo/a [Portaria n.º 307/94](https://diariodarepublica.pt/dr/detalhe/portaria/307-1994-262600), publicado em 1994-05-18.\n\nDepartamento Central de Planeamento do Ministério do Planeamento e da Administração do Território;\n\nGabinete de Estudos e Planeamento do Ministério das Obras Públicas, Transportes e Comunicações.\n\nMinistério das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 29 de Junho de 1992.\n\nPelo Ministro das Obras Públicas, Transportes e Comunicações, Álvaro Severiano da Silva Magalhães, Secretário de Estado das Obras Públicas."
+  }
+ }
+}

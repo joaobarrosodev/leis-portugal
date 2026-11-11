@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:281270:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-11-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ab63e681e561f305"
+   ]
+  },
+  {
+   "date": "1978-01-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:448939:por",
+     "title": "Portaria n.º 55/78",
+     "published": "1978-01-27",
+     "dre_path": "/dr/detalhe/portaria/55-1978-448939"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 3"
+   ],
+   "fragments": [
+    "714dd05a5714c52a"
+   ]
+  }
+ ],
+ "fragments": {
+  "ab63e681e561f305": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Novembro\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Transportes e Comunicações, nos termos do n.º 3 do artigo 37.º do estatuto da empresa pública Correios e Telecomunicações de Portugal, anexo I ao [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969, atendendo ao que por ela foi solicitado, autorizar a referida empresa a contrair no Montepio Geral - Caixa Económica de Lisboa um empréstimo no montante de 300000 contos, a uma taxa variável durante a vigência do contrato até 2,25% acima da taxa de juro que a mesma Caixa Económica de Lisboa for autorizada a praticar nos depósitos a prazo superior a um ano. A operação liquidar-se-á, no máximo, por vinte e oito semestralidades constantes, cujo pagamento poderá, porém, ser antecipado mediante acordo de mutuante e mutuário. A primeira semestralidade só se vencerá dezoito meses após a celebração do contrato.\n\nMinistérios das Finanças e dos Transportes e Comunicações, 14 de Novembro de 1977. - Pelo Ministro das Finanças, Maria Manuela Matos Morgado Santiago Baptista, Secretário de Estado das Finanças e do Tesouro. - O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar."
+  },
+  "714dd05a5714c52a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1978-01-27",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 55/78](https://diariodarepublica.pt/dr/detalhe/portaria/55-1978-448939), publicado em 1978-01-27."
+   ],
+   "markdown": "de 26 de Novembro\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Transportes e Comunicações, nos termos do n.º 3 do artigo 37.º do estatuto da empresa pública Correios e Telecomunicações de Portugal, anexo I ao [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969, atendendo ao que por ela foi solicitado, autorizar a referida empresa a contrair no Montepio Geral - Caixa Económica de Lisboa um empréstimo no montante de 300000 contos, a uma taxa variável durante a vigência do contrato até 2,25% acima da taxa de juro que a mesma Caixa Económica de Lisboa for autorizada a praticar nos depósitos a prazo superior a um ano. A operação liquidar-se-á, no máximo, por vinte e oito semestralidades constantes, cujo pagamento poderá, porém, ser antecipado mediante acordo de mutuante e mutuário. A primeira semestralidade só se vencerá dezoito meses após a celebração do contrato.\n\nDurante o primeiro ano serão pagos apenas os juros em prestações trimestrais. Este empréstimo será garantido por uma emissão de obrigações no valor de 300000 contos, cujo prazo de amortização será de quinze anos e à taxa nominal de 18,25%.\n\n> Aditado pelo/a [Portaria n.º 55/78](https://diariodarepublica.pt/dr/detalhe/portaria/55-1978-448939), publicado em 1978-01-27.\n\nMinistérios das Finanças e dos Transportes e Comunicações, 14 de Novembro de 1977. - Pelo Ministro das Finanças, Maria Manuela Matos Morgado Santiago Baptista, Secretário de Estado das Finanças e do Tesouro. - O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar."
+  }
+ }
+}

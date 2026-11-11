@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-02-14'
+version_history:
+  file: portaria-346-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-02-14'
+    amending: pt:dre:580624:por
+    amending_title: Portaria n.º 132/2004
+    changes:
+    - Altera Artigo unidades 31-31
+    - Altera Artigo unidades 34-34
+    - Altera Artigo unidades 37-37
+    - Altera Artigo unidades 41-41
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/346/2003/04/29/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:48:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 132/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-346-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -217,19 +235,25 @@ QUADRO N.º 1
 
 1.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)
+
+> Alterado pelo/a [Portaria n.º 132/2004](https://diariodarepublica.pt/dr/detalhe/portaria/132-2004-580624), publicado em 2004-02-09.
 
 QUADRO N.º 2
 
 2.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)
+
+> Alterado pelo/a [Portaria n.º 132/2004](https://diariodarepublica.pt/dr/detalhe/portaria/132-2004-580624), publicado em 2004-02-09.
 
 QUADRO N.º 3
 
 3.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)
+
+> Alterado pelo/a [Portaria n.º 132/2004](https://diariodarepublica.pt/dr/detalhe/portaria/132-2004-580624), publicado em 2004-02-09.
 
 2.º ciclo - Grau de licenciado
 
@@ -237,4 +261,6 @@ QUADRO N.º 4
 
 1.º ano
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)
+
+> Alterado pelo/a [Portaria n.º 132/2004](https://diariodarepublica.pt/dr/detalhe/portaria/132-2004-580624), publicado em 2004-02-09.

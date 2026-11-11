@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-11-28'
+version_history:
+  file: portaria-753-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-08-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-11-28'
+    amending: pt:dre:692459:por
+    amending_title: Portaria n.º 1410/95; Portaria n.º 1410/95
+    changes:
+    - Adita Artigo depois da unidade 12
+    - Adita Artigo depois da unidade 48
+    - Adita Artigo depois da unidade 99
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/753/1994/08/16/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:37:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1410/95; Portaria n.º
+    1410/95. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-753-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,6 +154,10 @@ a) Cursos de reciclagem para oficiais de pilotagem, de máquinas e de radiotecni
 b) Exame ou teste a realizar na ENIDH;
 
 c) Período de embarque extralotação.
+
+d) Período de embarque em função inferior à correspondente ao certificado de que é titular, apenas para oficiais maquinistas.
+
+> Aditado pelo/a [Portaria n.º 1410/95](https://diariodarepublica.pt/dr/detalhe/portaria/1410-1995-692459), publicado em 1995-11-23.
 
 2.º A modalidade referida na alínea c) do número anterior só pode ser utilizada pelos oficiais de pilotagem e de máquinas.
 
@@ -209,6 +230,10 @@ Equipamentos electrónicos de navegação (vinte horas).
 20.º Findo o embarque, o comandante da embarcação onde aquele se efectuou registará no documento referido no número anterior a sua realização e funções em que o mesmo se processou.
 
 21.º A validade do embarque a que se referem os números anteriores caduca se o oficial não assumir efectivamente a função para que o habilita o certificado de que é titular no prazo máximo de 60 dias.
+
+22.º O período de embarque previsto na alínea d) do n.º 1.º tem a duração mínima de três meses, aplicando-se os procedimentos constantes dos n.os 17.º a 21.º anteriores.
+
+> Aditado pelo/a [Portaria n.º 1410/95](https://diariodarepublica.pt/dr/detalhe/portaria/1410-1995-692459), publicado em 1995-11-23.
 
 Ministério do Mar.
 
@@ -311,6 +336,10 @@ Sociedades de classificação e registo;
 Regras de classificação da Lloyd's Register of Shipping;
 
 Regras de classificação da American Bureau of Shipping;
+
+Regras de classificação da RINAVE - Registo Internacional Naval.
+
+> Aditado pelo/a [Portaria n.º 1410/95](https://diariodarepublica.pt/dr/detalhe/portaria/1410-1995-692459), publicado em 1995-11-23.
 
 g) Máquinas principais e auxiliares:
 

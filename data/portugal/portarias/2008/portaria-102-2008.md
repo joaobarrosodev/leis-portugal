@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2017-11-01'
+version_history:
+  file: portaria-102-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-02-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-11-01'
+    amending: pt:dre:108238713:por
+    amending_title: Portaria n.º 294/2017
+    changes:
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/102/2008/02/01/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:27:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 294/2017. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-102-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,7 +170,9 @@ a) Centro Educativo de Santa Clara, em Vila do Conde;
 
 b) Centro Educativo de Santo António, no Porto;
 
-c) Centro Educativo do Mondego, em Cavadoude, Guarda;
+c) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 294/2017](https://diariodarepublica.pt/dr/detalhe/portaria/294-2017-108238713), publicado em 2017-10-02.
 
 d) Centro Educativo dos Olivais, em Coimbra;
 

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-06-25'
+version_history:
+  file: decreto-presidente-republica-16-j-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-04-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-06-25'
+    amending: pt:dre:163595:por
+    amending_title: Declaração de Rectificação n.º 11/97
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decpresrep/16-j/1997/04/22/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:23:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 11/97.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-presidente-republica/1997/decreto-presidente-republica-16-j-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -99,7 +114,9 @@ de 22 de Abril
 
 O Presidente da República decreta, nos termos do artigo 136.º, alínea h), da Constituição, o seguinte:
 
-É nomeado, sob proposta do Primeiro-Ministro, o engenheiro Emanuel José Leandro Maranha das Neves para o cargo de Secretário de Estado das Obras Públicas.
+É nomeado, sob proposta do Primeiro-Ministro, o Prof. Doutor Emanuel José Leandro Maranha das Neves para o cargo de Secretário de Estado das Obras Públicas.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 11/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-1997-163595), publicado em 1997-06-25.
 
 Assinado em 22 de Abril de 1997.
 

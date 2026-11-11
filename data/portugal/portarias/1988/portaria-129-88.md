@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-04-20'
+version_history:
+  file: portaria-129-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-02-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-04-20'
+    amending: pt:dre:615230:por
+    amending_title: Portaria n.º 283/89
+    changes:
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:22:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 283/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-129-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,7 +173,9 @@ c) Representante da Inspecção-Geral de Jogos;
 
 d) Representante do Fundo de Turismo;
 
-e) Representante da Direcção-Geral do Ordenamento do Território.
+e) Um representante da comissão de coordenação regional da área respectiva.
+
+> Alterado pelo/a [Portaria n.º 283/89](https://diariodarepublica.pt/dr/detalhe/portaria/283-1989-615230), publicado em 1989-04-15.
 
 2.º É revogada a [Portaria n.º 34/73](https://diariodarepublica.pt/dr/detalhe/portaria/34-1973-683591), de 20 de Janeiro.
 

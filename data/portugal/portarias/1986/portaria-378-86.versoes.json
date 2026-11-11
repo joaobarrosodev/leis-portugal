@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:227834:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-07-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "58d97de6385f3811"
+   ]
+  },
+  {
+   "date": "1986-09-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:656602:por",
+     "title": "Portaria n.º 478-C/86",
+     "published": "1986-08-29",
+     "dre_path": "/dr/detalhe/portaria/478-c-1986-656602"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "8edc476fb46ffc12"
+   ]
+  }
+ ],
+ "fragments": {
+  "58d97de6385f3811": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Julho\n\nCom vista a evitar uma maior delapidação do já depauperado património cinegético do nosso território, e atendendo a que se prevê para breve a regulamentação da nova lei da caça, entende-se como necessário um retardamento na abertura da caça às espécies indígenas e a não abertura da caça às rolas, medidas que receberam concordância de um número significativo tanto de associações de caçadores como das comissões venatórias.\n\nAssim, e com fundamento no disposto no artigo 85.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), de 14 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, o seguinte:\n\n1.º A caça às espécies cinegéticas cuja abertura está legalmente prevista para o 1.º domingo de Outubro é retardada para o 3.º domingo de Outubro.\n\n2.º Não há abertura da caça às rolas, retardando-se a abertura da caça às codornizes e patos para o 1.º domingo de Setembro.\n\n3.º No período que decorre do 1.º ao 3.º domingo de Outubro apenas é permitida a caça das espécies constantes dos editais publicados pela Direcção-Geral das Florestas nos locais e com os condicionamentos legalmente estabelecidos.\n\n4.º As disposições deste diploma vigoram somente durante a época venatória de 1986-1987 e aplicam-se exclusivamente ao território do continente.\n\nSecretaria de Estado da Agricultura.\n\nAssinada em 7 de Julho de 1986.\n\nO Secretário de Estado da Agricultura, Joaquim António Rosado Gusmão."
+  },
+  "8edc476fb46ffc12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1986-09-03",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 478-C/86](https://diariodarepublica.pt/dr/detalhe/portaria/478-c-1986-656602), publicado em 1986-08-29."
+   ],
+   "markdown": "de 22 de Julho\n\nCom vista a evitar uma maior delapidação do já depauperado património cinegético do nosso território, e atendendo a que se prevê para breve a regulamentação da nova lei da caça, entende-se como necessário um retardamento na abertura da caça às espécies indígenas e a não abertura da caça às rolas, medidas que receberam concordância de um número significativo tanto de associações de caçadores como das comissões venatórias.\n\nAssim, e com fundamento no disposto no artigo 85.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), de 14 de Agosto:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, o seguinte:\n\n1.º A caça às espécies cinegéticas cuja abertura está legalmente prevista para o 1.º domingo de Outubro é retardada para o 3.º domingo de Outubro.\n\n2.º É retardada a abertura da caça às codornizes e patos para o 1.º domingo de Setembro, data a partir da qual é também permitida a caça às rolas nos locais e pelos processos autorizados para aquelas espécies.\n\n> Alterado pelo/a [Portaria n.º 478-C/86](https://diariodarepublica.pt/dr/detalhe/portaria/478-c-1986-656602), publicado em 1986-08-29.\n\n3.º No período que decorre do 1.º ao 3.º domingo de Outubro apenas é permitida a caça das espécies constantes dos editais publicados pela Direcção-Geral das Florestas nos locais e com os condicionamentos legalmente estabelecidos.\n\n4.º As disposições deste diploma vigoram somente durante a época venatória de 1986-1987 e aplicam-se exclusivamente ao território do continente.\n\nSecretaria de Estado da Agricultura.\n\nAssinada em 7 de Julho de 1986.\n\nO Secretário de Estado da Agricultura, Joaquim António Rosado Gusmão."
+  }
+ }
+}

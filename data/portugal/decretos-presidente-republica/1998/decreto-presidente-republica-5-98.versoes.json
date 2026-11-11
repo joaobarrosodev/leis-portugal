@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:229757:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-02-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e5292bf0cbea604c"
+   ]
+  },
+  {
+   "date": "1998-02-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211812:por",
+     "title": "Declaração de Rectificação n.º 6/98",
+     "published": "1998-02-27",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/6-1998-211812"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4"
+   ],
+   "fragments": [
+    "c699ee00774e6059"
+   ]
+  }
+ ],
+ "fragments": {
+  "e5292bf0cbea604c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Fevereiro\n\nO Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição e ao abrigo do disposto nos artigos 38.º, n.º 4, alínea e), e 59.º, n.º 1, da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, o seguinte:\n\nSob proposta do Governo, é prorrogado por dois anos, com efeitos a partir de 24 de Janeiro de 1998, o período de exercício do cargo de Chefe do Estado-Maior da Força Aérea pelo general Aurélio Benedito Aleixo Corbal.\n\nAssinado em 26 de Janeiro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Janeiro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "c699ee00774e6059": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1998-02-27",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 6/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-1998-211812), publicado em 1998-02-27."
+   ],
+   "markdown": "de 7 de Fevereiro\n\nO Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição e ao abrigo do disposto nos artigos 38.º, n.º 4, alínea e), e 59.º, n.º 1, da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, o seguinte:\n\nSob proposta do Governo, é prorrogado por dois anos, com efeitos a partir de 24 de Janeiro de 1998, o período de exercício do cargo de Chefe do Estado-Maior da Força Aérea pelo general Aurélio Benito Aleixo Corbal.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 6/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-1998-211812), publicado em 1998-02-27.\n\nAssinado em 26 de Janeiro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Janeiro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

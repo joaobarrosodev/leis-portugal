@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-09-10'
+version_history:
+  file: portaria-570-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-06-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-09-10'
+    amending: pt:dre:241670:por
+    amending_title: Decreto-Lei n.º 165/96
+    changes:
+    - Altera Artigo unidades 38-42
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/570/1993/06/02/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:59:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 165/96. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-570-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -184,15 +199,17 @@ r) Apoiar o ensino da língua portuguesa como segunda língua e língua viva;
 
 s) Conceber uma organização articulada entre a educação física e o desporto escolar;
 
-t) Concretizar a integração do desporto escolar nas actividades da escola e fomentar a sua ligação com os clubes e federações desportivas;
+t) (Revogada.)
 
-u) Estabelecer princípios regulamentadores de actividades lúdicas de iniciação desportiva nas escolas do 1.º ciclo;
+u) (Revogada.)
 
-v) Planear, em articulação com as direcções regionais de educação, as tarefas de incidência nacional de educação física e do desporto escolar resultantes da harmonização entre estas e as actividades programadas a nível regional;
+v) (Revogada.)
 
-x) Preparar e organizar as reuniões das estruturas de coordenação do desporto escolar, em colaboração com o Departamento do Ensino Secundário;
+x) (Revogada.)
 
-z) Celebrar acordos com entidades nacionais e estrangeiras, tendo em vista a cooperação e o financiamento de programas internacionais de desporto escolar.
+z) (Revogada.)
+
+> Alterado pelo/a [Decreto-Lei n.º 165/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1996-241670), publicado em 1996-09-05.
 
 4.º Ao Núcleo de Organização Pedagógica e Apoios Educativos cabe:
 

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-02-25'
+version_history:
+  file: despacho-normativo-205-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-10-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-02-25'
+    amending: pt:dre:446676:por
+    amending_title: Despacho Normativo n.º 76/78
+    changes:
+    - Altera Artigo unidades 7-12
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:38:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 76/78. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1977/despacho-normativo-205-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,17 +129,11 @@ A - Taxas relativas a secagem de arroz
 
 B - Preços de compra e venda de arroz para semente pelo Instituto dos Cereais
 
-2.º Os preços de aquisição à lavoura pelo Instituto dos Cereais de arroz para semente são os preços base do arroz comum, acrescidos dos seguintes bónus, por tonelada:
+2.º - (Revogado.)
 
-1.ª geração ... 3000$00
+3.º - (Revogado.)
 
-2.ª geração ... 2500$00
-
-3.º Os preços de venda pelo Instituto dos Cereais de semente certificada de arroz são os seguintes, por tonelada:
-
-1.ª geração ... 13400$00
-
-2.ª geração ... 12700$00
+> Alterado pelo/a [Despacho Normativo n.º 76/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/76-1978-446676), publicado em 1978-02-25.
 
 4.º Ficam revogados os n.os 15.º e 16.º do despacho de 11 de Outubro de 1976, publicado no Diário da República, 1.ª série, n.º 248, de 22 de Outubro de 1976.
 

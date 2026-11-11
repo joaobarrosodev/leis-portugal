@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-04-25'
+version_history:
+  file: decreto-lei-431-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-10-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-04-25'
+    amending: pt:dre:225788:por
+    amending_title: Decreto-Lei n.º 237-A/83; Decreto-Lei n.º 179/87
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:32:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 237-A/83; Decreto-Lei
+    n.º 179/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-431-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,21 +199,37 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - É criado na dependência da Direcção-Geral dos Hospitais o Instituto de Genética Médica, adiante designado apenas por Instituto.
+###### Artigo 1.º
+
+1 - É criado na dependência da Direcção-Geral dos Hospitais o Instituto de Genética Médica, adiante designado apenas por Instituto.
 
 2 - Este Instituto integra o equipamento, infra-estruturas e pessoal pertencentes ao Serviço de Genética do Hospital de Crianças de Maria Pia.
 
-Art. 2.º O Instituto tem personalidade jurídica e é dotado de autonomia administrativa e financeira.
+###### Artigo 2.º
 
-Art. 3.º Ao Instituto compete a programação e realização de estudos de genética médica, tendo atribuições assistenciais, de investigação e de ensino.
+O Instituto tem personalidade jurídica e é dotado de autonomia administrativa e financeira.
 
-Art. 4.º O Instituto funcionará em instalações cedidas pelo Hospital Central Especializado de Crianças de Maria Pia.
+###### Artigo 3.º
 
-Art. 5.º O Instituto dispõe do quadro de pessoal anexo ao presente diploma, cujo provimento fará extinguir os correspondentes lugares no quadro do referido Hospital de Maria Pia.
+Ao Instituto compete a programação e realização de estudos de genética médica, tendo atribuições assistenciais, de investigação e de ensino.
 
-Art. 6.º O Instituto será orientado por um director e disporará de um conselho administrativo.
+###### Artigo 4.º
 
-Art. 7.º - 1 - O director será licenciado em Medicina e possuirá qualificação profissional não inferior à de chefe de clínica de genética médica.
+O Instituto funcionará em instalações cedidas pelo Hospital Central Especializado de Crianças de Maria Pia e noutras que eventualmente adquira por qualquer título.
+
+> Alterado pelo/a [Decreto-Lei n.º 237-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-1983-225788), publicado em 1983-06-08.
+
+###### Artigo 5.º
+
+O Instituto dispõe do quadro de pessoal anexo ao presente diploma, cujo provimento fará extinguir os correspondentes lugares no quadro do referido Hospital de Maria Pia.
+
+###### Artigo 6.º
+
+O Instituto será orientado por um director e disporará de um conselho administrativo.
+
+###### Artigo 7.º
+
+1 - O director será licenciado em Medicina e possuirá qualificação profissional não inferior à de chefe de clínica de genética médica.
 
 2 - Ao director compete:
 
@@ -215,7 +249,15 @@ g) Assegurar a representação do Instituto, directamente ou por delegação;
 
 h) Tomar todas as iniciativas necessárias à prossecução das actividades do Instituto e à sua valorização.
 
-Art. 8.º - 1 - O conselho administrativo do Instituto será constituído pelo director, que presidirá, e terá como vogais o mais qualificado dos chefes de clínica do Instituto e o administrador ou quem desempenhe as suas funções.
+i) Designar, de entre os chefes de serviço, os que desempenharão funções de director de serviços.
+
+3 - O regime de trabalho do director do Instituto é o de tempo completo prolongado, sendo as funções de direcção remuneradas de acordo com o previsto no quadro anexo ao presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 237-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-a-1983-225788), publicado em 1983-06-08.
+
+###### Artigo 8.º
+
+1 - O conselho administrativo do Instituto será constituído pelo director, que presidirá, e terá como vogais o adjunto do director e o administrador ou quem desempenhe as suas funções.
 
 2 - Compete ao conselho administrativo:
 
@@ -243,25 +285,45 @@ l) Promover a organização e permanente actualização do cadastro dos imóveis
 
 3 - O conselho reunirá sempre que necessário ou por convocação do presidente.
 
-Art. 9.º - 1 - O provimento do lugar de director do Instituto será feito por nomeação do Ministro dos Assuntos Sociais, devendo a respectiva proposta ser feita pelo corpo clínico do Instituto.
+> Alterado pelo/a [Decreto-Lei n.º 179/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1987-666325), publicado em 1987-04-20.
+
+###### Artigo 9.º
+
+1 - O provimento do lugar de director do Instituto será feito por nomeação do Ministro da Saúde.
 
 2 - O provimento do restante pessoal dos quadros do Instituto terá lugar segundo as normas vigentes para os serviços dependentes da Secretaria de Estado da Saúde.
 
 3 - Quando para o pessoal mencionado no número anterior já existam carreiras definidas no âmbito da SES, o provimento dos lugares correspondentes obedecerá às respectivas normas.
 
-Art. 10.º O Ministro dos Assuntos Sociais poderá autorizar o Instituto a celebrar contratos de tarefa com indivíduos ou organismos nacionais ou estrangeiros, quando essa forma de contratação se revele a mais económica ou quando se revele necessária à prossecução dos fins do Instituto.
+> Alterado pelo/a [Decreto-Lei n.º 179/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1987-666325), publicado em 1987-04-20.
 
-Art. 11.º Os encargos resultantes do funcionamento do Instituto serão cobertos pelos donativos, produtos de heranças, legados ou doações que lhe sejam feitos e por qualquer outras receitas ou subsídios legalmente atribuídos.
+###### Artigo 10.º
 
-Art. 12.º O Instituto ficará em regime de instalação, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+O Ministro dos Assuntos Sociais poderá autorizar o Instituto a celebrar contratos de tarefa com indivíduos ou organismos nacionais ou estrangeiros, quando essa forma de contratação se revele a mais económica ou quando se revele necessária à prossecução dos fins do Instituto.
 
-Art. 13.º A comissão instaladora elaborará o regulamento interno do Instituto, que será aprovado pelo Ministro dos Assuntos Sociais, e no qual serão definidas as relações entre o Instituto e os hospitais.
+###### Artigo 11.º
 
-Art. 14.º Os casos omissos e as dúvidas resultantes da aplicação do presente diploma serão resolvidos por despacho do Ministro dos Assuntos Sociais.
+Os encargos resultantes do funcionamento do Instituto serão cobertos pelos donativos, produtos de heranças, legados ou doações que lhe sejam feitos e por qualquer outras receitas ou subsídios legalmente atribuídos.
 
-Art. 15.º É revogada a portaria da Secretaria de Estado da Saúde referente à matéria do presente diploma, com data de 31 de Janeiro de 1980, publicada no Diário da República, 2.ª série, n.º 33, de 8 de Fevereiro de 1980.
+###### Artigo 12.º
 
-Art. 16.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+O Instituto ficará em regime de instalação, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+
+###### Artigo 13.º
+
+A comissão instaladora elaborará o regulamento interno do Instituto, que será aprovado pelo Ministro dos Assuntos Sociais, e no qual serão definidas as relações entre o Instituto e os hospitais.
+
+###### Artigo 14.º
+
+Os casos omissos e as dúvidas resultantes da aplicação do presente diploma serão resolvidos por despacho do Ministro dos Assuntos Sociais.
+
+###### Artigo 15.º
+
+É revogada a portaria da Secretaria de Estado da Saúde referente à matéria do presente diploma, com data de 31 de Janeiro de 1980, publicada no Diário da República, 2.ª série, n.º 33, de 8 de Fevereiro de 1980.
+
+###### Artigo 16.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1980. - Francisco Sá Carneiro.
 

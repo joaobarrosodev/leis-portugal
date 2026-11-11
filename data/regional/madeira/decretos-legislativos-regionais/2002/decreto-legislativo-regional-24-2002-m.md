@@ -38,10 +38,51 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2020-02-01'
+version_history:
+  file: decreto-legislativo-regional-24-2002-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-02-01'
+    amending: pt:dre:673642:por
+    amending_title: Decreto Legislativo Regional n.º 18/2003/M; Decreto Legislativo Regional n.º 1/2005/M; Decreto Legislativo
+      Regional n.º 19/2005/M; Decreto Legislativo Regional n.º 2-A/2008/M; Decreto Legislativo Regional n.º 8/2011/M; Decreto
+      Legislativo Regional n.º 11/2011/M; Decreto Legislativo Regional n.º 17/2015/M; Decreto Legislativo Regional n.º 42-A/2016/M;
+      Decreto Legislativo Regional n.º 1-A/2020/M
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 6.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 6.º
+    - Altera Artigo 13.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Adita Artigo 19.º-A
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/24/2002/12/23/m/dre/pt/html
@@ -67,7 +108,11 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    18/2003/M; Decreto Legislativo Regional n.º 1/2005/M; Decreto Legislativo Regional n.º 19/2005/M; Decreto Legislativo
+    Regional n.º 2-A/2008/M; Decreto Legislativo Regional n.º 8/2011/M; Decreto Legislativo Regional n.º 11/2011/M; Decreto
+    Legislativo Regional n.º 17/2015/M; Decreto Legislativo Regional n.º 42-A/2016/M; Decreto Legislativo Regional n.º 1-A/2020/M.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2002/decreto-legislativo-regional-24-2002-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -225,13 +270,25 @@ A assunção de avales pela Região apenas poderá ser realizada de acordo com a
 
 ###### Artigo 4.º — Operações a garantir e beneficiários
 
-1 - Poderão ser avalizadas pela Região as operações de crédito, nacionais ou internacionais, a realizar por qualquer sujeito de direito.
+1 - Poderão ser avalizadas pela Região as operações de crédito ou outras operações financeiras, nacionais ou internacionais, a contratar por qualquer sujeito de direito, incluindo o reforço de garantias de empréstimos já contraídos por entidades com capitais maioritariamente públicos.
 
-2 - A garantia prestada pela Região a operações de crédito a realizar por empresas privadas apenas poderá ser concedida quando se trate de empresas que tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira e aí exerçam a sua actividade principal.
+2 - A garantia prestada pela Região a operações de crédito ou outras operações financeiras a realizar por entidades privadas apenas poderá ser concedida quando se trate de entidades que tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira e aí exerçam a sua actividade principal.
+
+3 - Sem prejuízo do disposto nos números anteriores, a Região poderá igualmente avalizar operações de cobertura de risco de taxa de juro destinadas exclusivamente à cobertura dos riscos suportados pelas entidades referidas no número anterior em virtude da realização de operações de crédito garantidas por aval da Região.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2011-670489), publicado em 2011-07-06.
 
 ###### Artigo 5.º — Finalidade das operações
 
-O aval será prestado a operações de crédito que tenham por finalidade a elaboração e execução de projectos de investimento ou acções enquadráveis na estratégia de desenvolvimento regional, vertida no Plano de Desenvolvimento Económico e Social da Região Autónoma da Madeira.
+1 - O aval será prestado a operações que tenham por finalidade o financiamento de projetos de investimento ou ações enquadráveis na estratégia de desenvolvimento regional, vertida no Plano de Desenvolvimento Económico e Social da Região Autónoma da Madeira, bem como o reforço de garantias, a reestruturação de setores, de empresas públicas regionais, de empréstimos e de operações de cobertura de risco de taxa de juro, incluindo encargos com juros e despesas conexas, o saneamento do setor público empresarial e a substituição de empréstimos, nos termos do artigo 6.º deste diploma.
+
+2 - Nas situações previstas no n.º 3 do artigo 4.º do presente diploma, as operações deverão ter por finalidade exclusiva a cobertura dos riscos suportados em virtude da realização das operações de crédito referidas no número anterior.
+
+> Alterado pelo/a Artigo único do/a [Decreto Legislativo Regional n.º 18/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2003-673642), publicado em 2003-07-24.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), publicado em 2008-01-16.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), publicado em 2016-12-30.
 
 ###### Artigo 6.º — Condições para a autorização
 
@@ -243,9 +300,9 @@ b) Existir um projecto de investimento ou um estudo especificado da operação a
 
 c) Apresentar o beneficiário do aval características económicas, financeiras e organizacionais suficientes para fazer face às responsabilidades que pretende assumir;
 
-d) Ser o aval imprescindível para a realização da operação de crédito, designadamente por inexistência ou insuficiência de outras garantias, aferido por declaração emitida pela entidade credora.
+d) Ser o aval imprescindível para a realização da operação, designadamente por inexistência ou insuficiência de outras garantias.
 
-2 - Sem prejuízo do disposto no número anterior, o aval destina-se a assegurar a elaboração e execução de projectos de investimento ou acções que visem pelo menos um dos seguintes objectivos:
+2 - Sem prejuízo do disposto no número anterior, o aval destina-se a assegurar a elaboração e execução de projectos de investimento, acções ou projectos de reestruturação que visem pelo menos um dos seguintes objectivos:
 
 a) Realização de investimentos ainda que de reduzida rentabilidade, mas que estejam integrados nos objectivos do Plano de Desenvolvimento Económico e Social da Região Autónoma da Madeira;
 
@@ -253,43 +310,75 @@ b) Realização de investimentos de rentabilidade adequada, mas em que a entidad
 
 c) Financiamento de campanhas de produção, de transformação ou de comercialização de produtos relacionados com actividades tradicionais e de interesse económico e social.
 
-3 - Salvo no caso previsto na alínea c) do número anterior, a garantia prestada pela Região nunca poderá ser concedida para garantir operações tendentes a mero reforço de tesouraria da entidade beneficiária.
+d) Financiamento de operações de reestruturação de sectores económicos tradicionais, sociais, culturais e ambientais, bem como de empresas públicas regionais;
+
+e) Financiamento de operações de regularização de dívida comercial do sector público empresarial;
+
+f) Operações de substituição de empréstimos já avalizados, desde que daí não resulte o acréscimo dos valores inicialmente avalizados;
+
+g) Operações de reforço de garantias de empréstimos, de reestruturação e de substituição de empréstimos não avalizados, contraídos por entidades com capitais maioritariamente públicos;
+
+h) Cobertura através de operações de derivados dos riscos associados a operações de crédito que tenham respeitado pelo menos um dos objectivos referidos nas alíneas anteriores.
+
+3 - Apenas nos casos previstos nas alíneas c), d) e e) do número anterior, a garantia prestada pela Região poderá ser concedida para garantir operações tendentes a mero reforço de tesouraria da entidade beneficiária.
+
+> Alterado pelo/a Artigo único do/a [Decreto Legislativo Regional n.º 18/2003/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2003-673642), publicado em 2003-07-24.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 1/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-604588), publicado em 2005-02-18.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 19/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2005-481501), publicado em 2005-11-24.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2011-670489), publicado em 2011-07-06.
 
 ###### Artigo 7.º — Contragarantias
 
-O aval da Região poderá ficar dependente da prestação de contragarantias pelas entidades beneficiárias do mesmo, nos termos a fixar pela secretaria regional com a tutela das finanças.
+1 - O aval da Região poderá ficar dependente da prestação de contragarantias pelas entidades beneficiárias do mesmo, nos termos a fixar pela secretaria regional com a tutela das finanças.
+
+2 - Pode ser dispensada a apresentação de contragarantias pelas entidades beneficiárias quando se trate de uma empresa pública ou de uma entidade com o estatuto de utilidade pública.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 8/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2011-277585), publicado em 2011-04-01.
 
 ###### Artigo 8.º — Prazos de utilização e reembolso
 
-Os créditos garantidos terão prazos de utilização não superiores a 5 anos e deverão ser totalmente reembolsados no prazo máximo de 25 anos a contar das datas dos respectivos contratos.
+1 - As operações garantidas terão prazos de utilização não superiores a 5 anos e deverão ser totalmente reembolsados no prazo máximo de 30 anos a contar das datas dos respectivos contratos.
+
+2 - O secretário regional com a tutela da área das finanças pode alterar os prazos previstos no número anterior, excecionalmente, e desde que devidamente fundamentado pela entidade requerente.
+
+3 - Sendo o aval prestado para garantia das obrigações emergentes das operações de cobertura de risco de taxa de juro previstas no n.º 3 do artigo 4.º do presente diploma, o prazo de vigência de cada uma dessas operações não poderá exceder o prazo de reembolso da operação de crédito subjacente.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), publicado em 2008-01-16.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 17/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), publicado em 2015-12-30.
 
 ### CAPÍTULO III — Do processo de concessão e execução de aval
 
 ###### Artigo 9.º — Apresentação e instrução do pedido
 
-1 - O pedido de concessão de aval da Região será dirigido ao secretário regional com a tutela das finanças, pela entidade beneficiária da operação de crédito.
+1 - O pedido de concessão de aval da Região será dirigido ao secretário regional com a tutela das finanças, pela entidade beneficiária da operação a garantir.
 
 2 - O pedido de concessão de aval da Região deverá ser obrigatoriamente instruído com os seguintes elementos:
 
-a) Apreciação da situação económico-financeira da entidade beneficiária e apresentação de indicadores de funcionamento em perspectiva evolutiva;
+a) Documentos previsionais que permitam uma apreciação da situação económica e financeira da entidade;
 
 b) Documentos de prestação de contas e respectivos anexos reportados aos últimos três exercícios económicos;
 
 c) Declaração anual de informação contabilística e fiscal relativa ao último exercício fiscal;
 
-d) Declaração comprovativa da situação contributiva da entidade beneficiária perante o Estado, as Regiões Autónomas e a segurança social;
+d) Documentos comprovativos da situação tributária e contributiva da entidade beneficiária perante o Estado, as Regiões Autónomas e a segurança social;
 
-e) Identificação da operação de crédito a garantir nos termos do presente diploma;
+e) Documentos emitidos pelos serviços de finanças comprovativos dos bens inscritos a favor da entidade beneficiária, e respectivos sócios, quando aplicável;
 
-f) Demonstração do preenchimento dos critérios de concessão de aval previstos no presente diploma;
+f) Minuta do contrato da operação a avalizar, mapa do serviço da dívida e demonstração da sua compatibilidade com a capacidade financeira previsível da entidade;
 
-g) Minuta do contrato de concessão de crédito, plano de utilização do crédito e esquema de reembolso e demonstração da sua compatibilidade com a capacidade financeira previsível da empresa;
-
-h) Indicação de eventuais contragarantias a facultar à Região Autónoma da Madeira.
+g) Indicação de eventuais contragarantias a facultar à Região Autónoma da Madeira.
 
 3 - São dispensadas do cumprimento do disposto nas alíneas b) e c) do n.º 2 do presente artigo as pessoas colectivas cuja data de constituição, devidamente comprovada, não permita a apresentação da totalidade dos elementos aí referidos, mantendo-se, no entanto, a obrigatoriedade da apresentação dos elementos disponíveis.
 
-4 - A secretaria regional com a tutela das finanças poderá solicitar outros elementos instrutórios que considere necessários para determinar o risco do aval a conceder.
+4 - A secretaria regional com a tutela das finanças poderá solicitar outros elementos instrutórios que considere necessários para avaliar o risco do aval a conceder.
+
+5 - O pedido de concessão de aval será tacitamente indeferido ao fim de 180 dias após a sua solicitação, sempre que por motivos imputáveis à entidade requerente não seja possível dar seguimento ao processo.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 8/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2011-277585), publicado em 2011-04-01.
 
 ###### Artigo 10.º — Pareceres
 
@@ -301,69 +390,117 @@ b) Apreciação do papel da entidade beneficiária no conjunto do sector ou da r
 
 c) Medidas de política económica e financeira eventualmente previstas durante o período de vigência do crédito que possam influenciar a situação económica e financeira da entidade;
 
-d) Estrutura organizacional da entidade beneficiária e adequação da mesma para fazer face às responsabilidades que pretende assumir.
+d) Capacidade de gestão da entidade beneficiária para fazer face às responsabilidades que pretende assumir, tendo em conta, nomeadamente, a sua estrutura organizacional.
 
 2 - O aval da Região apenas poderá ser concedido caso o respectivo processo obtenha parecer favorável da secretaria regional da tutela.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 8/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2011-277585), publicado em 2011-04-01.
+
 ###### Artigo 11.º — Autorização do pedido de concessão de aval
 
-A concessão de aval da Região será autorizada por deliberação do Conselho do Governo Regional na sequência de despacho de aprovação do secretário regional com a tutela das finanças, o qual será precedido de uma análise fundamentada do respectivo processo, que será instruído com todos os elementos exigíveis nos termos do presente diploma.
+A concessão de aval da Região será autorizada por deliberação do Conselho do Governo Regional na sequência de despacho do secretário regional com a tutela das finanças, o qual será precedido de uma análise fundamentada do respectivo processo, que será instruído com todos os elementos exigíveis nos termos do presente diploma.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 8/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2011-277585), publicado em 2011-04-01.
 
 ###### Artigo 12.º — Certificado de aval
 
-1 - O aval da Região será titulado mediante um certificado, cuja emissão é da competência do secretário regional com a tutela das finanças.
+1 - O aval da Região será titulado por um certificado de aval, cuja emissão é da competência do secretário regional com a tutela das finanças, que poderá outorgar noutros documentos necessários para tornar efectivo o aval.
 
 2 - O certificado de aval deverá conter a identificação da entidade beneficiária e a ficha técnica da operação de crédito a garantir, bem como as eventuais contragarantias a prestar à Região.
 
-3 - A ficha técnica da operação de crédito avalizada apenas poderá ser alterada mediante fundamentação adequada e por despacho do secretário regional com a tutela das finanças.
+3 - O certificado de aval poderá ser alterado de acordo com as regras previstas no presente diploma, mediante a emissão de um anexo ao certificado de aval, a outorgar pelo secretário regional com a tutela das finanças.
 
-###### Artigo 13.º — Utilização do crédito
+4 - A alteração referida no número anterior abrange, designadamente, o prazo, a finalidade do financiamento e as operações de cobertura de risco de taxa de juro associadas às operações de crédito garantidas por aval da Região, desde que cumpram os princípios gerais de rigor e eficiência definidos para a gestão da dívida pública directa e constantes do artigo 2.º da [Lei n.º 7/98](https://diariodarepublica.pt/dr/detalhe/lei/7-1998-223628), de 3 de Fevereiro.
 
-1 - A utilização do crédito avalizado deverá ter início nos 120 dias seguintes à data de emissão do certificado de aval.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 8/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2011-277585), publicado em 2011-04-01.
 
-2 - No prazo máximo de 30 dias após a assinatura do contrato de concessão de crédito, a entidade beneficiária enviará à secretaria regional com a tutela das finanças um exemplar do respectivo contrato, devidamente assinado pelas partes contratantes.
+###### Artigo 13.º — Utilização do financiamento
 
-3 - A utilização do crédito carece da prévia autorização da secretaria regional com a tutela das finanças.
+1 - Nos casos aplicáveis, a utilização do financiamento avalizado deverá ter início nos 120 dias seguintes à data da emissão do certificado de aval, salvo fixação expressa e devidamente fundamentada de prazo superior no respectivo acto de concessão.
+
+2 - A utilização do financiamento carece da prévia autorização do secretário regional com a tutela das finanças, que poderá delegar esta competência noutras entidades sob a sua tutela.
+
+3 - A utilização do financiamento pode ser alterada por despacho do secretário regional com a tutela da área das finanças, mediante requerimento fundamentado do beneficiário do aval.
+
+4 - A utilização do financiamento por empresas públicas regionais poderá ser ainda alterada, excepcionalmente, mediante requerimento fundamentado e através de resolução do Conselho do Governo Regional, para as seguintes finalidades:
+
+a) Realização de participações financeiras em empresas públicas regionais;
+
+b) Concessão de empréstimos a empresas públicas regionais desde que o produto dos mesmos se destine a uma das finalidades previstas no artigo 5.º e respeitem as condições impostas no artigo 6.º do presente diploma.
+
+5 - O incumprimento do disposto nos números anteriores determina a caducidade do aval da Região, salvo em caso de manifesto interesse público devidamente fundamentado e mediante despacho do secretário regional com a tutela das finanças.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 19/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2005-481501), publicado em 2005-11-24.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 1-A/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), publicado em 2020-01-31.
 
 ###### Artigo 14.º — Caducidade do aval
 
-O aval da Região caduca nas seguintes situações:
+1 - Sem prejuízo do disposto no número seguinte, o aval da Região caduca nas seguintes situações:
 
-a) Utilização total ou parcial do crédito por outras entidades diferentes da beneficiária do aval;
+a) Utilização total ou parcial do financiamento por outras entidades diferentes da beneficiária do aval;
 
-b) Utilização do crédito para um fim diferente dos previstos na resolução de autorização do aval;
+b) Utilização do financiamento para um fim diferente dos previstos na resolução de autorização do aval;
 
 c) Incumprimento dos prazos definidos no artigo 8.º do presente diploma;
 
-d) Incumprimento do disposto no artigo 13.º do presente diploma, bem como no caso de se verificarem divergências entre a minuta do contrato e o contrato definitivo que sejam lesivas dos interesses dos beneficiários do aval e da Região Autónoma da Madeira;
+d) Alteração da ficha técnica da operação garantida sem que tenham sido observadas as regras estipuladas neste diploma para o efeito;
 
-e) Incumprimento das obrigações previstas no artigo 16.º do presente diploma.
+e) Incumprimento do prazo e procedimentos definidos no artigo 13.º;
+
+f) Incumprimento das obrigações previstas nos n.os 1 e 2 do artigo 16.º do presente diploma.
+
+2 - Na situação referida na alínea b) do número anterior, o aval da Região poderá manter-se activo nas seguintes condições:
+
+a) Reposição do montante indevidamente utilizado na conta do financiamento para reutilização;
+
+b) Amortização antecipada do financiamento avalizado, num montante igual ou superior ao indevidamente utilizado.
+
+3 - As situações de reincidência dos comportamentos descritos nas alíneas b) e e) do n.º 1 do presente artigo podem ser consideradas violação grave da lei, para efeitos da alínea b) do n.º 1 do artigo 20.º do Decreto Legislativo Regional n.º 12/2010/M, de 5 de agosto, alterado pelos Decretos Legislativos Regionais n.os 2/2011/M, de 10 de janeiro, 31/2013/M, de 26 de dezembro, 6/2015/M, de 13 de agosto e 42-A/2016/M, de 30 de dezembro.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 1/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-604588), publicado em 2005-02-18.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 1-A/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), publicado em 2020-01-31.
 
 ### CAPÍTULO IV — Das garantias da Região pela prestação de aval
 
-###### Artigo 15.º — Comunicações dos beneficiários
+###### Artigo 15.º — Obrigações dos beneficiários
 
-1 - As entidades beneficiárias de aval da Região enviarão à secretaria regional com a tutela das finanças, no prazo de 30 dias a contar da data de vencimento dos encargos, cópia dos documentos comprovativos das amortizações do capital e do pagamento de juros, indicando as importâncias que deixam de constituir objecto de garantia da Região.
+1 - No prazo máximo de 30 dias após a assinatura do contrato de financiamento, a entidade beneficiária enviará à secretaria regional com a tutela das finanças um exemplar do respectivo contrato, devidamente assinado pelas partes, que deverá incluir o mapa de serviço da dívida definitivo.
 
-2 - As entidades beneficiárias, sempre que reconheçam que não se encontram habilitadas a satisfazer os encargos de amortização e de juros nas datas fixadas para o respectivo pagamento, darão do facto conhecimento à secretaria regional com a tutela das finanças, com a antecedência mínima de 15 dias em relação ao vencimento dos referidos encargos.
+2 - As entidades beneficiárias de aval da Região enviarão à secretaria regional com a tutela das finanças, no prazo de 30 dias a contar da data de vencimento dos encargos, cópia dos documentos comprovativos das amortizações do capital e do pagamento de juros, indicando as importâncias em dívida.
 
-3 - Em caso de incumprimento da obrigação referida no número anterior, só poderá ser accionado o aval da Região mediante interpelação feita pelo credor, a qual deverá ocorrer até ao dia seguinte ao vencimento dos encargos.
+3 - As entidades beneficiárias do aval da Região enviarão, até 30 de Abril de cada ano, à secretaria regional com a tutela das finanças os documentos de prestação de contas e respectivos anexos relativos ao exercício anterior, bem como outros elementos necessários à verificação de eventuais dificuldades no cumprimento das correspondentes obrigações.
 
-4 - As entidades beneficiárias de aval da Região enviarão, até 31 de Julho de cada ano, à secretaria regional com a tutela das finanças, os documentos de prestação de contas e respectivos anexos relativos ao exercício anterior, bem como os demais elementos previsionais necessários ao apuramento de eventuais dificuldades no cumprimento das correspondentes obrigações.
+4 - As entidades beneficiárias, sempre que reconheçam que não se encontram habilitadas a satisfazer os encargos de amortização e de juros nas datas fixadas para o respectivo pagamento, darão do facto conhecimento à secretaria regional com a tutela das finanças, com a antecedência mínima de 15 dias em relação ao vencimento dos referidos encargos.
 
-###### Artigo 16.º — Comunicações dos credores
+5 - Em caso de incumprimento da obrigação referida no número anterior, só poderá ser accionado o aval da Região mediante interpelação feita pelo credor, a qual deverá ocorrer até ao dia seguinte ao vencimento dos encargos.
 
-1 - A entidade credora enviará à secretaria regional com a tutela das finanças, no prazo de 120 dias a contar da data de emissão do certificado de aval, cópia dos documentos comprovativos da realização da hipoteca, fiança, penhor, seguro-caução ou qualquer outra garantia exigida a seu favor, bem como dos documentos comprovativos da realização do respectivo registo, quando exigido.
+6 - O secretário regional com a tutela na área das finanças poderá alterar os prazos previstos nos números anteriores.
 
-2 - Até 31 de Março de cada ano, as entidades credoras informarão a secretaria regional com a tutela das finanças da situação da dívida garantida pela Região relativa a 31 de Dezembro do ano anterior.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 8/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2011-277585), publicado em 2011-04-01.
 
-###### Artigo 17.º — Fiscalização
+###### Artigo 16.º — Obrigações dos credores
+
+1 - A entidade emissora de títulos ou a entidade credora enviarão à secretaria regional com a tutela das finanças, no prazo de 120 dias a contar da data de emissão do certificado de aval, cópia dos documentos comprovativos da realização da hipoteca, fiança, penhor, seguro-caução ou qualquer outra garantia exigida a seu favor, bem como dos documentos comprovativos da realização do respectivo registo, quando exigido.
+
+2 - Até 31 de Março de cada ano, as entidades emissoras de títulos ou as entidades credoras informarão a secretaria regional com a tutela das finanças da situação da dívida garantida pela Região relativa a 31 de Dezembro do ano anterior.
+
+3 - O secretário regional com tutela na área das finanças poderá alterar os prazos previstos nos números anteriores.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 1/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-604588), publicado em 2005-02-18.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 8/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2011-277585), publicado em 2011-04-01.
+
+###### Artigo 17.º — Fiscalização e acompanhamento
 
 1 - A concessão de aval da Região confere ao Governo Regional, através da secretaria regional com a tutela das finanças, o direito de proceder à fiscalização da actividade da entidade beneficiária de aval da Região, tanto do ponto de vista financeiro como operacional.
 
-2 - A secretaria regional com a tutela das finanças poderá solicitar o apoio técnico da secretaria regional que tutela o sector de actividade da entidade beneficiária de aval, a qual verificará a conformidade da execução material dos projectos ou acções com a finalidade da operação objecto de aval.
+2 - A secretaria regional com a tutela das finanças poderá solicitar o apoio técnico da secretaria que tutela o sector de actividade da entidade beneficiária do aval, a qual verificará a conformidade da execução material e financeira dos projectos ou acções com a finalidade da operação objecto de aval.
 
-3 - Compete à secretaria regional com a tutela das finanças assegurar e fiscalizar o cumprimento dos encargos emergentes da execução de avales concedidos pela Região.
+3 - Compete à secretaria regional com a tutela das finanças assegurar e fiscalizar o cumprimento dos encargos emergentes dos avales concedidos pela Região.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 8/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2011-277585), publicado em 2011-04-01.
 
 ###### Artigo 18.º — Garantias da Região
 
@@ -373,7 +510,15 @@ e) Incumprimento das obrigações previstas no artigo 16.º do presente diploma.
 
 ###### Artigo 19.º — Taxa de aval
 
-Pelo aval da Região prestado será cobrada às entidades beneficiárias uma taxa de aval, cujo valor e condições de aplicação serão fixadas por portaria do secretário regional com a tutela das finanças, tendo em linha de conta as condições de mercado.
+Pelo aval da Região prestado será cobrada às entidades beneficiárias uma taxa de aval, cujo valor e condições de aplicação serão fixados por portaria do secretário regional com a tutela das finanças, tendo em linha de conta as condições de mercado e o seu nível de risco.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 8/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2011-277585), publicado em 2011-04-01.
+
+###### Artigo 19.º-A — Regime supletivo
+
+Sem prejuízo das garantias especiais atribuídas à Região pela legislação vigente e do disposto neste diploma, as relações entre os vários intervenientes nas operações disciplinadas pela presente lei estão sujeitas supletivamente ao regime jurídico da fiança previsto no Código Civil, excepto quando seja aposta assinatura no título cambiário, caso em que serão aplicáveis os regimes da lei uniforme sobre letras e livranças e da lei uniforme relativa ao cheque.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 8/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2011-277585), publicado em 2011-04-01.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 

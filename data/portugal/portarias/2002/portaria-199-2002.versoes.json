@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:253033:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-03-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9814f084dc698ba1",
+    "9918683e94472eab"
+   ]
+  },
+  {
+   "date": "2002-04-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:288792:por",
+     "title": "Portaria n.º 465/2002",
+     "published": "2002-04-23",
+     "dre_path": "/dr/detalhe/portaria/465-2002-288792"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 32-50"
+   ],
+   "fragments": [
+    "9814f084dc698ba1",
+    "1d76d4bc4977f049"
+   ]
+  }
+ ],
+ "fragments": {
+  "9814f084dc698ba1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Março\n\nA requerimento da COFAC - Cooperativa de Formação e Animação Cultural, C. R. L., entidade instituidora da Universidade Lusófona de Humanidades e Tecnologias, reconhecida como de interesse público pelo [Decreto-Lei n.º 92/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1998-167074), de 14 de Abril, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nConsiderando o disposto na [Portaria n.º 640/98](https://diariodarepublica.pt/dr/detalhe/portaria/640-1998-448308), de 28 de Agosto;\n\nTendo em vista o disposto no artigo 67.º e no n.º 5 do artigo 53.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nAlterações\n\n1 - O n.º 2 da [Portaria n.º 640/98](https://diariodarepublica.pt/dr/detalhe/portaria/640-1998-448308) passa a ter a seguinte redacção:\n\n«O curso desdobra-se nos ramos:\n\na) Estudos Portugueses e Lusófonos;\n\nb) Desenvolvimento e Cooperação.»\n\n2 - O anexo à [Portaria n.º 640/98](https://diariodarepublica.pt/dr/detalhe/portaria/640-1998-448308) passa a ter a redacção constante do anexo à presente portaria.\n\n2.º\n\nAditamentos\n\nÀ [Portaria n.º 640/98](https://diariodarepublica.pt/dr/detalhe/portaria/640-1998-448308) são aditados os n.os 4.º-A e 4.º-B com a seguinte redacção:\n\n«4.º-A\n\nUnidades curriculares de opção\n\nO elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente da Universidade.\n\n4.º-B\n\nDuração do ano e semestre lectivos\n\n1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.»\n\n3.º\n\nTransição\n\nAs regras de transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente da Universidade.\n\n4.º\n\nAplicação\n\nO disposto na presente portaria aplica-se a partir do ano lectivo de 2001-2002, inclusive.\n\nPelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior, em 23 de Janeiro de 2002."
+  },
+  "9918683e94472eab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — ([Portaria n.º 640/98](https://diariodarepublica.pt/dr/detalhe/portaria/640-1998-448308), de 28 de Agosto - alteração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ([Portaria n.º 640/98](https://diariodarepublica.pt/dr/detalhe/portaria/640-1998-448308), de 28 de Agosto - alteração)\n\nUniversidade Lusófona de Humanidades e Tecnologias\n\nCurso de Estudos Lusófonos\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)\n\nQUADRO N.º 5\n\n5.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)"
+  },
+  "1d76d4bc4977f049": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — ([Portaria n.º 199/2002](https://diariodarepublica.pt/dr/detalhe/portaria/199-2002-253033), de 5 de Março - Alteração)",
+   "in_force_from": "2002-04-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 465/2002](https://diariodarepublica.pt/dr/detalhe/portaria/465-2002-288792), publicado em 2002-04-23."
+   ],
+   "markdown": "## ANEXO — ([Portaria n.º 199/2002](https://diariodarepublica.pt/dr/detalhe/portaria/199-2002-253033), de 5 de Março - Alteração)\n\nUniversidade Lusófona de Humanidades e Tecnologias\n\nCurso de Estudos Lusófonos\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)\n\nRamo de Estudos Portugueses e Lusófonos\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)\n\nRamo de Desenvolvimento e Cooperação\n\nQUADRO N.º 5\n\n4.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)\n\n> Alterado pelo/a [Portaria n.º 465/2002](https://diariodarepublica.pt/dr/detalhe/portaria/465-2002-288792), publicado em 2002-04-23."
+  }
+ }
+}

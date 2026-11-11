@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-02-27'
+version_history:
+  file: decreto-presidente-republica-5-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-02-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-02-27'
+    amending: pt:dre:211812:por
+    amending_title: Declaração de Rectificação n.º 6/98
+    changes:
+    - Altera Artigo unidades 4-4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decpresrep/5/1998/02/07/p/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:28:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 6/98.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-presidente-republica/1998/decreto-presidente-republica-5-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -104,7 +119,9 @@ de 7 de Fevereiro
 
 O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição e ao abrigo do disposto nos artigos 38.º, n.º 4, alínea e), e 59.º, n.º 1, da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, o seguinte:
 
-Sob proposta do Governo, é prorrogado por dois anos, com efeitos a partir de 24 de Janeiro de 1998, o período de exercício do cargo de Chefe do Estado-Maior da Força Aérea pelo general Aurélio Benedito Aleixo Corbal.
+Sob proposta do Governo, é prorrogado por dois anos, com efeitos a partir de 24 de Janeiro de 1998, o período de exercício do cargo de Chefe do Estado-Maior da Força Aérea pelo general Aurélio Benito Aleixo Corbal.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 6/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-1998-211812), publicado em 1998-02-27.
 
 Assinado em 26 de Janeiro de 1998.
 

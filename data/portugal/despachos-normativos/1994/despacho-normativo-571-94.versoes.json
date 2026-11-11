@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:231769:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9bb28649beea0bb1"
+   ]
+  },
+  {
+   "date": "1998-06-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:475098:por",
+     "title": "Despacho Normativo n.º 43/98",
+     "published": "1998-06-15",
+     "dre_path": "/dr/detalhe/despacho-normativo/43-1998-475098"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "b507d4b307266697"
+   ]
+  }
+ ],
+ "fragments": {
+  "9bb28649beea0bb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "(IIDE050102)\n\nO [Despacho Normativo n.º 563/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/563-1994-231884) (IIDE0501), que regulamenta o Regime de Apoio à Dinamização do Capital de Risco, estabelece no n.º 3 do seu artigo 8.º a competência do Ministro da Indústria e Energia para a definição dos limites de intervenção das sociedades de capital de risco em resultado das acções definidas no diploma.\n\nNestes termos, ao abrigo do disposto no n.º 3 do artigo 8.º do [Despacho Normativo n.º 563/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/563-1994-231884) (IIDE0501), determina-se o seguinte:\n\n1 - O limite máximo da intervenção das sociedades de capital de risco, em resultado das acções referidas no n.º 1 do artigo 8.º do Regime de Apoio à Dinamização do Capital de Risco, não poderá ultrapassar um terço do capital das empresas participadas.\n\n2 - Os investimentos superiores a 50000 contos, sempre que promovidos por sociedades de capital de risco que não sejam maioritariamente privadas, devem ser efectuados em consórcio.\n\nMinistério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indútria e Energia, Luís Fernando Mira Amaral."
+  },
+  "b507d4b307266697": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1998-06-20",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 43/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/43-1998-475098), publicado em 1998-06-15."
+   ],
+   "markdown": "(IIDE050102)\n\nO [Despacho Normativo n.º 563/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/563-1994-231884) (IIDE0501), que regulamenta o Regime de Apoio à Dinamização do Capital de Risco, estabelece no n.º 3 do seu artigo 8.º a competência do Ministro da Indústria e Energia para a definição dos limites de intervenção das sociedades de capital de risco em resultado das acções definidas no diploma.\n\nNestes termos, ao abrigo do disposto no n.º 3 do artigo 8.º do [Despacho Normativo n.º 563/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/563-1994-231884) (IIDE0501), determina-se o seguinte:\n\n1 - O limite máximo da intervenção das sociedades de capital de risco, em resultado das acções referidas no n.º 1 do artigo 8.º do Regime de Apoio à Dinamização do Capital de Risco, não poderá ultrapassar um terço do capital das empresas participadas.\n\n2 - Os investimentos superiores a 150000 contos, sempre que promovidos por sociedades de capital de risco que não sejam maioritariamente privadas, devem ser efectuados em consórcio.\n\n> Alterado pelo/a [Despacho Normativo n.º 43/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/43-1998-475098), publicado em 1998-06-15.\n\nMinistério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indútria e Energia, Luís Fernando Mira Amaral."
+  }
+ }
+}

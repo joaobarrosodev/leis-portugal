@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-02-27'
+version_history:
+  file: portaria-638-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-10-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-02-27'
+    amending: pt:dre:446690:por
+    amending_title: Portaria n.º 121/78
+    changes:
+    - Altera Artigo unidades 20-23
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:27:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 121/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-638-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,13 +163,15 @@ e) Documento comprovativo do resultado do exame final do internato policlínico,
 
 7.º Enquanto não estiver constituído o Conselho Nacional do Internato Médico ficam suspensas todas as funções e competências que lhe são atribuídas pela [Portaria n.º 760/73](https://diariodarepublica.pt/dr/detalhe/portaria/760-1973-412614).
 
-8.º Os resultados do exame serão afixados nos mesmos hospitais de afixação das listas e na comissão inter-hospitalar da respectiva zona, devendo os candidatos não excluídos entregar, nos cinco dias subsequentes à afixação, na secretaria da comissão inter-hospitalar da zona ou no Hospital Distrital do Funchal, declaração onde se indiquem, por ordem de preferência, três hospitais e três especialidades de entre as vagas existentes.
+8.º Os resultados do exame serão afixados nos mesmos hospitais em que foram afixadas as listas dos candidatos e na comissão inter-hospitalar da respectiva zona; em seguida o júri apreciará esses resultados em conjunto com os demais elementos documentais referidos no n.º 4.º desta portaria e, depois de observado o item V do n.º 2.º do despacho citado de 15 de Novembro de 1976, com a redacção do despacho de 25 de Janeiro de 1977, ordenará os candidatos em mérito relativo, elaborando três listas, correspondendo, respectivamente, aos classificados com Muito bom, Bom e Suficiente.
 
-9.º Fixados os resultados do exame, o júri apreciará esses resultados em conjunto com os demais elementos documentais referidos no n.º 4.º desta portaria e, depois de observado o item v do n.º 2.º do despacho citado de 15 de Novembro de 1976, com a redacção do despacho de 25 de Janeiro de 1977, ordenará os candidatos em mérito relativo, elaborando uma única lista nacional.
+9.º Os candidatos aprovados que obtiverem a classificação de Muito bom dispõem de dois dias, a partir da afixação dos resultados, para apresentar, na secretaria da comissão inter-hospitalar da zona ou no Hospital Distrital do Funchal, declaração onde se indiquem, por ordem de preferência, três hospitais e três especialidades de entre as vagas existentes; publicadas as vagas sobrantes, os candidatos aprovados com classificação de Bom dispõem de dois dias para apresentarem as suas opções, nos mesmos termos dos anteriores; seguindo-se depois o mesmo processo para os aprovados com a classificação de Suficiente.
 
-10.º O júri remeterá a documentação e a lista à Direcção-Geral dos Hospitais, que, com a proposta de distribuição dos concorrentes dela constantes por hospitais e especialidades, a submeterá à aprovação do Secretário de Estado da Saúde, após a qual promoverá a publicação no Diário da República.
+10.º Finalmente, o júri remeterá a documentação e a lista final à Direcção-Geral dos Hospitais, que, com a proposta de distribuição dos concorrentes dela constantes por hospitais e especialidades, a submeterá à aprovação do Secretário de Estado da Saúde.
 
-11.º Na distribuição proposta pela Direcção-Geral dos Hospitais esta atenderá, pela ordem de preferência das opções feitas pelos candidatos, nos termos do n.º 8.º, às respectivas classificações na lista nacional e, sempre que houver impossibilidade de atender às preferências manifestadas ou quando não tenha sido apresentada a declaração, fará as colocações por hospitais e especialidades conforme as vagas e as conveniências de serviço.
+11.º Na distribuição proposta pela Direcção-Geral dos Hospitais esta atenderá, pela ordem de preferência das opções feitas pelos candidatos, nos termos do n.º 9.º, às respectivas classificações, e, sempre que houver impossibilidade de atender às preferências manifestadas ou quando não tenha sido apresentada a declaração, fará as colocações por hospitais e especialidades, conforme as vagas e as conveniências de serviço.
+
+> Alterado pelo/a [Portaria n.º 121/78](https://diariodarepublica.pt/dr/detalhe/portaria/121-1978-446690), publicado em 1978-02-27.
 
 12.º Consideram-se habilitados com o internato de policlínica os médicos que hajam frequentado com aproveitamento o respectivo estágio.
 

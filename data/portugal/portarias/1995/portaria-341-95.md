@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-02-12'
+version_history:
+  file: portaria-341-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-04-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-02-12'
+    amending: pt:dre:319890:por
+    amending_title: Portaria n.º 74/2001
+    changes:
+    - Altera Artigo unidades 19-20
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/341/1995/04/21/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:00:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 74/2001. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-341-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,6 +164,24 @@ Assinada em 15 de Março de 1995.
 
 Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensino Superior.
 
-## ANEXO — Mestrado em Matemática
+## ANEXO — Universidade Lusíada (Lisboa)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/094b00/23032304.pdf)
+Curso de Matemática
+
+Especialização em Matemática Aplicada
+
+Grau de mestre
+
+QUADRO N.º 1
+
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06420643.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06420643.pdf)
+
+Especialização em Ensino da Matemática
+
+Grau de mestre
+
+QUADRO N.º 2
+
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06420643.pdf)](https://files.diariodarepublica.pt/1s/2001/02/032b00/06420643.pdf)
+
+> Alterado pelo/a [Portaria n.º 74/2001](https://diariodarepublica.pt/dr/detalhe/portaria/74-2001-319890), publicado em 2001-02-07.

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-01-27'
+version_history:
+  file: portaria-730-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-11-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-01-27'
+    amending: pt:dre:448939:por
+    amending_title: Portaria n.º 55/78
+    changes:
+    - Adita Artigo depois da unidade 3
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:29:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 55/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-730-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -104,5 +119,9 @@ validation:
 de 26 de Novembro
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Transportes e Comunicações, nos termos do n.º 3 do artigo 37.º do estatuto da empresa pública Correios e Telecomunicações de Portugal, anexo I ao [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969, atendendo ao que por ela foi solicitado, autorizar a referida empresa a contrair no Montepio Geral - Caixa Económica de Lisboa um empréstimo no montante de 300000 contos, a uma taxa variável durante a vigência do contrato até 2,25% acima da taxa de juro que a mesma Caixa Económica de Lisboa for autorizada a praticar nos depósitos a prazo superior a um ano. A operação liquidar-se-á, no máximo, por vinte e oito semestralidades constantes, cujo pagamento poderá, porém, ser antecipado mediante acordo de mutuante e mutuário. A primeira semestralidade só se vencerá dezoito meses após a celebração do contrato.
+
+Durante o primeiro ano serão pagos apenas os juros em prestações trimestrais. Este empréstimo será garantido por uma emissão de obrigações no valor de 300000 contos, cujo prazo de amortização será de quinze anos e à taxa nominal de 18,25%.
+
+> Aditado pelo/a [Portaria n.º 55/78](https://diariodarepublica.pt/dr/detalhe/portaria/55-1978-448939), publicado em 1978-01-27.
 
 Ministérios das Finanças e dos Transportes e Comunicações, 14 de Novembro de 1977. - Pelo Ministro das Finanças, Maria Manuela Matos Morgado Santiago Baptista, Secretário de Estado das Finanças e do Tesouro. - O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.

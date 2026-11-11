@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:273669:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-02-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7f99deba287af360",
+    "35e1af5617364641"
+   ]
+  },
+  {
+   "date": "2005-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:608036:por",
+     "title": "Portaria n.º 217/2005",
+     "published": "2005-02-24",
+     "dre_path": "/dr/detalhe/portaria/217-2005-608036"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 25-27",
+    "Altera Artigo unidades 30-30",
+    "Altera Artigo unidades 33-33",
+    "Altera Artigo unidades 36-39",
+    "Altera Artigo unidades 42-42"
+   ],
+   "fragments": [
+    "7f99deba287af360",
+    "77e0efb0792745e1"
+   ]
+  }
+ ],
+ "fragments": {
+  "7f99deba287af360": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Fevereiro\n\nSob proposta do Instituto Politécnico do Porto e da sua Escola Superior de Música e das Artes do Espectáculo;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nConsiderando o disposto no Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho;\n\nConsiderando o disposto na [Portaria n.º 692/2001](https://diariodarepublica.pt/dr/detalhe/portaria/692-2001-348545), de 10 de Julho;\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro) e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso bietápico de licenciatura em Jazz da Escola Superior de Música e das Artes do Espectáculo do Instituto Politécnico do Porto, criado pela [Portaria n.º 692/2001](https://diariodarepublica.pt/dr/detalhe/portaria/692-2001-348545), de 10 de Julho, nos termos do anexo à presente portaria.\n\n2.º\n\nNormas especiais\n\nAo curso aplica-se o disposto nas alíneas b2) e b3) do n.º 1 do artigo 13.º e no n.º 1 do artigo 26.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho.\n\n3.º\n\nUnidades curriculares de opção\n\nO elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente.\n\n4.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 2001-2002, inclusive.\n\nPelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior, em 4 de Janeiro de 2002."
+  },
+  "35e1af5617364641": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico do Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Instituto Politécnico do Porto\n\nEscola Superior de Música e das Artes do Espectáculo\n\nCurso de Jazz\n\n1.º ciclo\n\nGrau de bacharel\n\nOpções: Piano, Contrabaixo, Bateria, Saxofone, Trompete, Trombone\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)\n\n2.º ciclo\n\nGrau de licenciado\n\nRamos: Piano, Contrabaixo, Bateria, Saxofone, Trompete, Trombone\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10701072.pdf)"
+  },
+  "77e0efb0792745e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Politécnico do Porto",
+   "in_force_from": "2005-03-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24.",
+    "Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24.",
+    "Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24.",
+    "Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24.",
+    "Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24."
+   ],
+   "markdown": "## ANEXO — Instituto Politécnico do Porto\n\nEscola Superior de Música e das Artes do Espectáculo\n\nCurso de Jazz\n\n1.º ciclo - Grau de bacharel\n\n> Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24.\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)\n\n> Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24.\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)\n\n> Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24.\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)\n\n2.º ciclo - Grau de licenciado\n\n> Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24.\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)](https://files.diariodarepublica.pt/1s/2005/02/039b00/17401742.pdf)\n\n> Alterado pelo/a [Portaria n.º 217/2005](https://diariodarepublica.pt/dr/detalhe/portaria/217-2005-608036), publicado em 2005-02-24."
+  }
+ }
+}

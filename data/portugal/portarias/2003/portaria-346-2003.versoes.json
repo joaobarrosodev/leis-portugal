@@ -1,0 +1,72 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:240818:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-04-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bbdd15cb75195853",
+    "b3afcc3da515bf46"
+   ]
+  },
+  {
+   "date": "2004-02-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:580624:por",
+     "title": "Portaria n.º 132/2004",
+     "published": "2004-02-09",
+     "dre_path": "/dr/detalhe/portaria/132-2004-580624"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 31-31",
+    "Altera Artigo unidades 34-34",
+    "Altera Artigo unidades 37-37",
+    "Altera Artigo unidades 41-41"
+   ],
+   "fragments": [
+    "bbdd15cb75195853",
+    "fb07a12e13925ccc"
+   ]
+  }
+ ],
+ "fragments": {
+  "bbdd15cb75195853": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril\n\nA requerimento da CEP - Cooperativa de Ensino Politécnico, C. R. L., entidade instituidora da Escola Superior de Ciência e Tecnologia do Instituto Superior Politécnico Gaya, reconhecida, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo ([Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto), pela [Portaria n.º 1061/90](https://diariodarepublica.pt/dr/detalhe/portaria/1061-1990-565457), de 18 de Outubro;\n\nConsiderando o disposto no Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho;\n\nConsiderando o disposto na [Portaria n.º 457-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/457-a-1998-300227), de 29 de Julho, alterada pela [Portaria n.º 680-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-1998-273989), de 31 de Agosto;\n\nInstruído, organizado e apreciado o processo nos termos dos artigos 57.º e 59.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março) e do [Decreto-Lei n.º 234-C/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-c-1998-289611), de 28 de Julho;\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Ciência e do Ensino Superior, o seguinte:\n\n1.º\n\nPlano de estudos\n\nÉ aprovado o plano de estudos do curso bietápico de licenciatura em Informática de Gestão da Escola Superior de Ciência e Tecnologia do Instituto Superior Politécnico Gaya, cujo funcionamento foi autorizado pela [Portaria n.º 457-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/457-a-1998-300227), de 29 de Julho, alterada pela [Portaria n.º 680-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/680-a-1998-273989), de 31 de Agosto, nos termos do anexo da presente portaria.\n\n2.º\n\nNúmero máximo de alunos\n\n1 - O número de novos alunos a admitir anualmente não pode exceder 50.\n\n2 - A frequência global do curso não pode exceder 200 alunos.\n\n3.º\n\nCaducidade da autorização de funcionamento\n\nFindo o processo de transição fixado nos termos do artigo 31.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho, caduca a autorização de funcionamento dos seguintes cursos:\n\na) Bacharelato em Informática de Gestão, cujo funcionamento foi autorizado pela [Portaria n.º 1061/90](https://diariodarepublica.pt/dr/detalhe/portaria/1061-1990-565457), de 18 de Outubro, alterada pela [Portaria n.º 1160/92](https://diariodarepublica.pt/dr/detalhe/portaria/1160-1992-616659), de 16 de Dezembro;\n\nb) Curso de estudos superiores especializados em Finanças Empresariais, cujo funcionamento foi autorizado pela [Portaria n.º 1097/95](https://diariodarepublica.pt/dr/detalhe/portaria/1097-1995-551466), de 6 de Setembro.\n\n4.º\n\nProdução de efeitos\n\nO disposto na presente portaria produz efeitos a partir do ano lectivo 1998-1999, inclusive.\n\nO Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 8 de Abril de 2003."
+  },
+  "b3afcc3da515bf46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Superior Politécnico Gaya",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Instituto Superior Politécnico Gaya\n\nEscola Superior de Ciência e Tecnologia\n\nCurso de Informática de Gestão\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)"
+  },
+  "fb07a12e13925ccc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Instituto Superior Politécnico Gaya",
+   "in_force_from": "2004-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 132/2004](https://diariodarepublica.pt/dr/detalhe/portaria/132-2004-580624), publicado em 2004-02-09.",
+    "Alterado pelo/a [Portaria n.º 132/2004](https://diariodarepublica.pt/dr/detalhe/portaria/132-2004-580624), publicado em 2004-02-09.",
+    "Alterado pelo/a [Portaria n.º 132/2004](https://diariodarepublica.pt/dr/detalhe/portaria/132-2004-580624), publicado em 2004-02-09.",
+    "Alterado pelo/a [Portaria n.º 132/2004](https://diariodarepublica.pt/dr/detalhe/portaria/132-2004-580624), publicado em 2004-02-09."
+   ],
+   "markdown": "## ANEXO — Instituto Superior Politécnico Gaya\n\nEscola Superior de Ciência e Tecnologia\n\nCurso de Informática de Gestão\n\n1.º ciclo - Grau de bacharel\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)\n\n> Alterado pelo/a [Portaria n.º 132/2004](https://diariodarepublica.pt/dr/detalhe/portaria/132-2004-580624), publicado em 2004-02-09.\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)\n\n> Alterado pelo/a [Portaria n.º 132/2004](https://diariodarepublica.pt/dr/detalhe/portaria/132-2004-580624), publicado em 2004-02-09.\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)\n\n> Alterado pelo/a [Portaria n.º 132/2004](https://diariodarepublica.pt/dr/detalhe/portaria/132-2004-580624), publicado em 2004-02-09.\n\n2.º ciclo - Grau de licenciado\n\nQUADRO N.º 4\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)](https://files.diariodarepublica.pt/1s/2004/02/033b00/07800781.pdf)\n\n> Alterado pelo/a [Portaria n.º 132/2004](https://diariodarepublica.pt/dr/detalhe/portaria/132-2004-580624), publicado em 2004-02-09."
+  }
+ }
+}

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-06-17'
+version_history:
+  file: portaria-342-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-04-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-06-17'
+    amending: pt:dre:366671:por
+    amending_title: Portaria n.º 395/97
+    changes:
+    - Altera Artigo unidades 25-25
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/342/1995/04/21/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:00:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 395/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-342-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -163,4 +178,12 @@ Pela Ministra da Educação, Pedro Lynce de Faria, Secretário de Estado do Ensi
 
 ## ANEXO I — Diploma de estudos superiores especializados em Enfermagem de Saúde Infantil e Pediátrica
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/094b00/23042305.pdf)
+Escola Superior de Enfermagem de Maria Fernanda Resende
+
+Enfermagem de Saúde Infantil e Pediátrica
+
+Diploma de estudos superiores especializados
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/137b00/29252925.pdf)
+
+> Alterado pelo/a [Portaria n.º 395/97](https://diariodarepublica.pt/dr/detalhe/portaria/395-1997-366671), publicado em 1997-06-17.

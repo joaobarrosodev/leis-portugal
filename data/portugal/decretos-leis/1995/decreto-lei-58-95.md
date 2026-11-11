@@ -37,10 +37,49 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-12-20'
+version_history:
+  file: decreto-lei-58-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-12-20'
+    amending: pt:dre:655934:por
+    amending_title: Decreto-Lei n.º 552/99
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 26.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 49.º
+    - Altera Artigo 71.º
+    - Altera Artigo 72.º
+    - Altera Artigo 116.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/58/1995/03/31/p/dre/pt/html
@@ -66,7 +105,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:42:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 552/99. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-58-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -264,11 +304,13 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 O Instituto de Reinserção Social, adiante designado Instituto, é uma pessoa colectiva de direito público, dotada de autonomia administrativa, financeira e patrimonial, sob a tutela do Ministro da Justiça.
 
-###### Artigo 2.º — Objectivo
+###### Artigo 2.º — Objectivos
 
-1 - O Instituto é o órgão auxiliar da administração da justiça que tem como missão assegurar a intervenção social com o objectivo de proteger os direitos e interesses dos menores, prevenir a marginalização social e a delinquência, contribuindo para uma vida jurídica e socialmente integrada de menores, jovens e adultos.
+1 - O Instituto é o órgão auxiliar da administração da justiça que tem como objectivos a reintegração social de delinquentes, imputáveis e inimputáveis, e o apoio à protecção judiciária de menores.
 
-2 - A intervenção social de justiça assegurada pelo Instituto é desenvolvida através de assessoria técnica aos tribunais, de apoio a crianças, jovens e adultos e da articulação interinstitucional e cooperação comunitária.
+2 - O Instituto pode ainda prosseguir finalidades de prevenção criminal mediante acções especificamente orientadas para a limitação da possibilidade de cometimento de crimes e que contribuam simultaneamente para o desenvolvimento social.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 ###### Artigo 3.º — Atribuições
 
@@ -280,7 +322,7 @@ b) Contribuir, no âmbito do seu objectivo e atribuições, para a elaboração 
 
 c) Promover a investigação técnica e estudos no âmbito das respectivas atribuições;
 
-d) Assegurar o apoio técnico aos tribunais na tomada de decisões, designadamente no âmbito das jurisdições de família e de menores e da jurisdição penal;
+d) Assegurar o apoio técnico aos tribunais na tomada de decisões no âmbito das jurisdições de família e de menores e da jurisdição penal, nos termos do presente diploma;
 
 e) Intervir na execução de medidas judiciais aplicadas a menores em articulação, sempre que necessário, com outras entidades públicas e particulares;
 
@@ -290,7 +332,7 @@ g) Intervir na execução da prisão preventiva e das penas de prisão e medidas
 
 h) Intervir, nos termos da legislação aplicável, na instrução de processos de indulto;
 
-i) Assegurar apoio psicológico e social a crianças, jovens e adultos intervenientes em processos judiciais, em articulação com as competentes entidades públicas e particulares;
+i) Assegurar o apoio a crianças, jovens e adultos intervenientes em processos judiciais, em articulação com as competentes entidades públicas e particulares;
 
 j) Desenvolver acções de prevenção da marginalidade e delinquência, preferencialmente em articulação com outras entidades públicas e particulares;
 
@@ -301,6 +343,8 @@ m) Contribuir para a articulação entre o sistema de administração da justiç
 n) Assegurar, no âmbito do seu objectivo e atribuições, a articulação com entidades similares estrangeiras e organizações internacionais;
 
 o) Prosseguir outras atribuições que lhe sejam conferidas por lei.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 #### SECÇÃO II — Áreas de intervenção
 
@@ -318,29 +362,29 @@ c) Articulação interinstitucional e cooperação comunitária.
 
 ###### Artigo 5.º — Âmbito
 
-1 - A assessoria técnica a prestar pelo Instituto aos tribunais abrange, nos termos da legislação aplicável, o apoio técnico a decisões judiciárias e a intervenção na execução de medidas judiciais aplicadas a menores e de penas e medidas executadas na comunidade e privativas de liberdade.
+1 - A assessoria técnica a prestar pelo Instituto aos tribunais abrange, nos termos da legislação aplicável, o apoio a decisões judiciárias dos tribunais com competência em matéria penal, de execução das penas, de menores e de família e a intervenção na execução de medidas judiciais aplicadas a menores e de penas e medidas executadas na comunidade e privativas de liberdade.
 
-2 - A assessoria técnica é prestada em resposta às solicitações das competentes autoridades judiciárias, designadamente no âmbito das jurisdições de menores e de família, penal e de execução das penas ou por iniciativa do Instituto no âmbito da sua competência.
+2 - A assessoria técnica do Instituto aos tribunais, no âmbito da jurisdição de família, é prestada nas providências previstas nas alíneas a), b), d), e), na parte relativa a menores, e f) a l) do n.º 1 e a), b) e d) a f) do n.º 2 do artigo 82.º da [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de Janeiro.
 
-3 - A assessoria técnica do Instituto desenvolve-se tendo em conta a situação jurídica e psico-sócio-cultural da criança, do jovem ou do adulto e na procura de soluções que permitam, a cada um, uma vida social e juridicamente integrada.
+3 - A assessoria técnica referida no número anterior é prestada segundo critérios de prioridade, definidos em função das necessidades concretas de protecção dos direitos e interesses dos menores, tendo, designadamente, em conta a gravidade do conflito familiar e a indispensabilidade da intervenção por ausência de apoio técnico por parte de outras entidades públicas e privadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 ###### Artigo 6.º — Apoio a decisões judiciárias
 
-O apoio técnico a decisões judiciárias relativas a menores, jovens e adultos, nos termos da legislação aplicável, abrange, designadamente:
+O apoio técnico a decisões judiciárias a prestar aos tribunais, nos termos da legislação aplicável, abrange, designadamente:
 
-a) A elaboração de relatórios que consubstanciam o diagnóstico e prognóstico da situação de menores, seus progenitores ou outras pessoas a quem sejam confiados, para apoio a decisões judiciárias, nomeadamente para aplicação de medida adequada;
+a) A elaboração de relatórios e outras informações sobre a situação de menores, seus progenitores ou outras pessoas a quem sejam confiados;
 
-b) A elaboração de relatórios sociais, perícias sobre a personalidade e outras informações relativas a arguidos e a vítimas, nomeadamente para efeitos de reexame dos pressupostos da prisão preventiva ou outra medida de coacção, da suspensão provisória do processo e da escolha e medida da reacção penal;
+b) A elaboração dos relatórios sociais, informações e perícias sobre a personalidade relativos a arguidos e a vítimas;
 
-c) O acompanhamento do menor, do jovem ou adulto durante o processo decisório, no âmbito do direito de menores, de família e penal, por solicitação da competente autoridade judiciária ou em cumprimento de disposição legal;
+c) A participação em audiência e em diligências judiciárias decorrentes da assessoria técnica assegurada no processo;
 
-d) A elaboração e envio ao tribunal de relatórios de avaliação dos processos de acompanhamento referidos na alínea anterior ou que se realizem no âmbito da execução de outra medida judicial confiada ao Instituto;
+d) A dinamização de acções na comunidade, visando o envolvimento de entidades públicas e particulares, por forma a serem criadas condições favoráveis à tomada de decisões judiciais e respectiva execução;
 
-e) O desenvolvimento de acções na comunidade, visando o envolvimento de entidades públicas e particulares, por forma a serem criadas condições favoráveis à tomada de decisões judiciais e respectiva execução, no âmbito das jurisdições de menores, família, penal e outras, e à prevenção de situações de carência e de marginalização social;
+e) A elaboração de relatórios para apoio a decisões nos processos de reabilitação.
 
-f) A participação em audiência e em diligências judiciárias, por solicitação ou mediante autorização do juiz ou do Ministério Público, no âmbito da respectiva competência;
-
-g) A elaboração de relatórios para apoio a decisões nos processos de reabilitação.
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 ###### Artigo 7.º — Execução na comunidade de medidas aplicadas a menores
 
@@ -360,7 +404,7 @@ e) A cooperação com a família e com entidades públicas e particulares interv
 
 1 - A intervenção do Instituto na execução de medidas aplicadas no âmbito do direito de menores e cumpridas nos colégios ou outros equipamentos sociais de acolhimento, educação e formação previstos no presente diploma abrange, designadamente:
 
-a) O acolhimento do menor e, quando necessário, o aprofundamento ou actualização do diagnóstico da sua situação;
+a) O acolhimento do menor e, quando necessário, a elaboração de relatórios e informações sobre a sua situação;
 
 b) A elaboração e permanente actualização do plano individualizado de execução da medida judicial aplicada;
 
@@ -377,6 +421,8 @@ g) O acompanhamento e apoio, sempre que necessário e adequado, na fase inicial 
 2 - Compete ao Instituto definir o colégio em que o menor é acolhido, bem como proceder às transferências que, em cada caso, se mostrem adequadas, sem prejuízo de comunicação ao competente tribunal.
 
 3 - O disposto nos números anteriores aplica-se também aos jovens imputáveis em cumprimento de medidas do direito de menores.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 ###### Artigo 9.º — Execução de penas e medidas na comunidade
 
@@ -430,29 +476,27 @@ d) A articulação e cooperação com entidades públicas e particulares que int
 
 ###### Artigo 12.º — Princípios gerais
 
-1 - O apoio do Instituto a crianças, jovens e adultos intervenientes em processos judiciais, na resolução de problemas e situações de carência, traduz-se em acção social complementar da intervenção das demais entidades públicas responsáveis por essas situações na comunidade e visa a criação de condições facilitadoras dos processos de inserção e reinserção social.
+1 - O apoio a menores, jovens e adultos intervenientes em processos judiciais em que o Instituto preste assessoria técnica deve respeitar os princípios de proporcionalidade da intervenção e da sua adequação às respectivas finalidades no respeito da vida privada e da dignidade do indivíduo e da sua família.
 
-2 - O apoio referido no número anterior tem carácter facultativo e pressupõe a solicitação e a participação responsável e empenhada do indivíduo e da família.
+2 - O apoio sócio-económico prestado pelo Instituto, no âmbito das suas atribuições, é complementar da intervenção das demais entidades públicas competentes e pressupõe a participação responsável do indivíduo.
+
+3 - O Instituto pode ainda assegurar apoio a menores, jovens e adultos que tenham cumprido penas e medidas.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 ###### Artigo 13.º — Âmbito
 
-1 - O apoio do Instituto a crianças, jovens e adultos abrange:
+1 - O apoio do Instituto a menores, jovens e adultos, no âmbito das suas atribuições, abrange:
 
-a) O atendimento, o estudo adequado do problema ou situação de carência e a elaboração de diagnósticos;
+a) O atendimento, informação e encaminhamento, em articulação com entidades públicas e particulares competentes;
 
-b) A informação e os esclarecimentos sobre direitos e regalias sociais, condições de acesso e entidades responsáveis;
+b) A concessão supletiva e pontual de apoio sócio-económico na medida dos meios disponíveis;
 
-c) O encaminhamento e a articulação, com entidades particulares e entidades públicas competentes, para a resolução dos problemas, nomeadamente de educação, acção social, segurança social, emprego e formação profissional, habitação, cultura, desporto, ocupação de tempos livres e de saúde, designadamente em matéria de saúde mental, toxicodependência, alcoolismo, doenças transmissíveis e reabilitação;
+c) O acolhimento temporário em equipamentos sociais geridos pelo Instituto ou por outras entidades no âmbito de acordos ou contratos celebrados;
 
-d) O acompanhamento e apoio psicossocial directo, com o contributo de outras entidades;
+d) A integração em projectos e acções de aprendizagem, de formação e colocação profissional e de ocupação temporária, com eventual apoio sócio-económico;
 
-e) A concessão supletiva de apoio sócio-económico pontual à acção das competentes entidades públicas e entidades particulares, na medida das necessidades e dos meios disponíveis;
-
-f) O acolhimento temporário em equipamentos sociais geridos pelo Instituto ou por outras entidades no âmbito de acordos ou contratos celebrados;
-
-g) A integração em projectos e acções de aprendizagem, de formação e colocação profissional e de ocupação temporária, com eventual apoio sócio-económico;
-
-h) A eventual cobertura de riscos e danos no âmbito dos serviços de acolhimento, da execução de medidas de trabalho a favor da comunidade e da integração em projectos e acções referidos nas alíneas anteriores, através da celebração de contratos de seguro.
+e) A eventual cobertura de riscos e danos no âmbito dos serviços de acolhimento, da execução de medidas de trabalho a favor da comunidade e da integração em projectos e acções referidos nas alíneas anteriores, através da celebração de contratos de seguro.
 
 2 - O apoio sócio-económico visa atenuar as necessidades prementes na comunidade, facilitando a execução de pequenos projectos, designadamente de obtenção de meios e instrumentos de reinserção social.
 
@@ -470,13 +514,15 @@ h) A eventual cobertura de riscos e danos no âmbito dos serviços de acolhiment
 
 9 - O apoio referido no presente artigo pode ser organizado através de programas e projectos a desenvolver pelo Instituto ou em cooperação com outras entidades públicas e particulares.
 
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
+
 ##### SUBSECÇÃO III — Articulação interinstitucional e cooperação comunitária
 
 ###### Artigo 14.º — Princípio geral
 
-1 - O Instituto desenvolve a sua missão em articulação sistemática com as entidades públicas competentes em matéria de protecção dos direitos e interesses dos menores, de marginalidade e delinquência e de prevenção em geral.
+O Instituto prossegue os seus objectivos em articulação com as demais entidades públicas e particulares, procurando promover e apoiar iniciativas e dinâmicas comunitárias.
 
-2 - A intervenção social da justiça assegurada pelo Instituto deverá integrar-se nas iniciativas e dinâmicas sociais geradas na comunidade, por entidades particulares e públicas, apoiando e promovendo projectos e acções que visem, directa ou indirectamente, a protecção e o enquadramento social da criança, a reinserção social do jovem e adulto e a prevenção da marginalidade e da delinquência.
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 ###### Artigo 15.º — Tribunais
 
@@ -484,7 +530,9 @@ A articulação do Instituto com os tribunais, para além da que é exigida pela
 
 ###### Artigo 16.º — Comissões de protecção de menores
 
-O Instituto desenvolve a sua actividade em articulação e cooperação com as comissões de protecção de menores, nos termos da legislação aplicável, nomeadamente dando-lhes a conhecer factos ou situações que, em concreto, afectem os direitos e interesses de menores.
+O Instituto coopera com as comissões de protecção de menores, nos termos da legislação aplicável, dando-lhes a conhecer factos ou situações que sejam da sua competência.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 ###### Artigo 17.º — Autoridades policiais
 
@@ -612,13 +660,13 @@ d) Convocar e presidir às reuniões do conselho geral e do conselho de gestão;
 
 e) Autorizar os acordos de cooperação e os contratos-programa, os contratos de seguro e outros previstos no presente diploma;
 
-f) Autorizar a concessão de apoios financeiros a destinatários e famílias;
+f) Determinar a realização de auditorias internas;
 
-g) Determinar a realização de auditorias internas;
+g) Submeter a despacho do Ministro da Justiça os assuntos que requeiram a sua apreciação;
 
-h) Submeter a despacho do Ministro da Justiça os assuntos que requeiram a sua apreciação;
+h) Representar o Instituto em juízo ou fora dele;
 
-i) Representar o Instituto em juízo ou fora dele;
+i) Representar o Ministério da Justiça no conselho de administração do Centro Protocolar de Formação Profissional para o Sector da Justiça;
 
 j) Exercer os demais poderes que, por lei ou por delegação, lhe sejam conferidos.
 
@@ -631,6 +679,8 @@ j) Exercer os demais poderes que, por lei ou por delegação, lhe sejam conferid
 5 - Considera-se desde já delegada nos delegados regionais a competência para a aplicação das penas disciplinares até à inactividade, inclusive.
 
 6 - Os cargos de presidente e de vice-presidente são, para todos os efeitos, equiparados aos de director-geral e subdirector-geral, respectivamente.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 ###### Artigo 27.º — Delegação de competência
 
@@ -684,7 +734,9 @@ a) O presidente do Instituto, que preside;
 
 b) Os vice-presidentes do Instituto;
 
-c) O director do Departamento de Finanças e Património.
+c) O director do Departamento de Gestão Financeira e Patrimonial.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 ###### Artigo 32.º — Competência do conselho de gestão
 
@@ -718,7 +770,7 @@ n) Aprovar, nos termos legais, os projectos de alteração orçamental e autoriz
 
 o) Aprovar as minutas dos acordos de cooperação, dos contratos-programa ou outros;
 
-p) Autorizar a concessão de apoios financeiros a outras entidades;
+p) Autorizar a concessão de apoios financeiros a destinatários e suas famílias e a outras entidades;
 
 q) Autorizar, nos termos legais, a constituição de fundos de maneio;
 
@@ -735,6 +787,8 @@ v) Aprovar a realização de obras.
 2 - O conselho de gestão pode delegar no presidente ou noutros dirigentes, bem como nos coordenadores de equipas e chefias, algumas das suas competências, fixando-lhes os respectivos limites.
 
 3 - O conselho de gestão obriga-se mediante a assinatura de dois dos seus membros.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 ###### Artigo 33.º — Funcionamento do conselho de gestão
 
@@ -804,47 +858,55 @@ Para a prossecução das suas atribuições, o Instituto dispõe de serviços ce
 
 1 - Os serviços centrais do Instituto compreendem:
 
-a) O Departamento de Finanças e Património;
+a) O Departamento de Gestão Financeira e Patrimonial;
 
-b) O Departamento de Pessoal;
+b) O Departamento de Gestão de Recursos Humanos;
 
-c) O Departamento de Coordenação Técnica;
+c) O Departamento de Coordenação da Actividade Técnico-Operativa;
 
-d) O Departamento de Coordenação da Gestão dos Colégios;
+d) O Departamento de Coordenação dos Serviços de Execução das Medidas Tutelares de Internamento;
 
-e) O Departamento de Prevenção e Acção Comunitária;
+e) O Departamento de Desenvolvimento e Cooperação;
 
-f) O Departamento de Estudos, Relações Internacionais e Informação;
+f) O Departamento de Organização e Informática.
 
-g) O Departamento de Formação;
+2 - Os serviços centrais compreendem ainda as seguintes unidades funcionais:
 
-h) O Departamento de Auditoria e Inspecção;
+a) Auditoria e Inspecção;
 
-i) O Gabinete de Informática.
+b) Gabinete Jurídico;
 
-2 - Os dirigentes dos serviços referidos no número anterior são, para todos os efeitos, equiparados a director de serviços.
+c) Gabinete de Imprensa e Relações Públicas.
 
-###### Artigo 39.º — Departamento de Finanças e Património
+3 - Os serviços referidos no n.º 1 são dirigidos por directores, equiparados, para todos os efeitos, a directores de serviços.
 
-1 - Ao Departamento de Finanças e Património (DFP) compete a coordenação dos sistemas de gestão financeira e patrimonial do Instituto.
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
-2 - O DFP compreende os seguintes serviços:
+###### Artigo 39.º — Departamento de Gestão Financeira e Patrimonial
 
-a) Divisão de Finanças;
+1 - Ao Departamento de Gestão Financeira e Patrimonial (DGFP) compete a coordenação dos sistemas de gestão financeira e patrimonial do Instituto e assegurar a gestão directa de recursos que lhe seja cometida, designadamente:
 
-b) Divisão de Património;
+a) Assegurar o funcionamento dos sistemas de gestão e administração financeira;
 
-c) Repartição de Finanças e Património;
+b) Assegurar o funcionamento dos sistemas de gestão e administração patrimonial;
 
-d) Repartição de Tesouraria.
+c) Conceber os projectos a realizar em obras e em instalações do Instituto;
 
-3 - À Divisão de Finanças (DIF) compete:
+d) Assegurar, directa ou indirectamente, a execução dos projectos referidos na alínea anterior.
 
-a) Promover e acompanhar a elaboração dos instrumentos de gestão previsional e os documentos de prestação de contas de cada exercício;
+2 - O DGFP compreende os seguintes serviços:
+
+a) Divisão de Gestão e Administração Financeira;
+
+b) Divisão de Gestão e Administração do Património.
+
+3 - À Divisão de Gestão e Administração Financeira (DIGAF) compete:
+
+a) Promover e acompanhar a elaboração dos instrumentos de gestão previsional e os documentos de prestação de contas de cada exercício do Instituto;
 
 b) Elaborar e acompanhar a execução dos projectos de investimentos a incluir no PIDDAC ou em instrumento similar;
 
-c) Acompanhar a execução dos orçamentos;
+c) Acompanhar a execução dos orçamentos dos serviços do Instituto;
 
 d) Organizar, orientar e acompanhar o funcionamento do sistema de contabilidade do Instituto;
 
@@ -852,15 +914,37 @@ e) Elaborar o relatório anual das verbas atribuídas e despendidas com os difer
 
 f) Propor os indicadores necessários que permitam acompanhar a evolução da situação financeira do Instituto.
 
-4 - À Divisão de Património (DIP) compete:
+g) Processar as despesas dos serviços centrais e as requisições de fundos;
+
+h) Processar vencimentos e outros abonos de pessoal dos serviços centrais e dos serviços desconcentrados;
+
+i) Liquidar as despesas dos serviços centrais e despesas dos serviços desconcentrados;
+
+j) Liquidar as receitas do Instituto;
+
+l) Cobrar as receitas e pagar as despesas dos serviços centrais e despesas dos serviços desconcentrados;
+
+m) Controlar os movimentos e as disponibilidades financeiras e de tesouraria;
+
+n) Emitir meios de pagamento e de recebimento;
+
+o) Registar e controlar os adiantamentos ao pessoal dos serviços centrais e os das missões no estrangeiro;
+
+p) Controlar as transferências bancárias;
+
+q) Assegurar a reconciliação das contas;
+
+r) Controlar os movimentos das caixas e os dos fundos de maneio dos serviços centrais e desconcentrados.
+
+4 - À Divisão de Gestão e Administração do Património (DIGAP) compete:
 
 a) Elaborar os programas de aquisição de instalações do Instituto e acompanhar a sua execução;
 
-b) Promover e assegurar a articulação com os serviços da Secretaria-Geral do Ministério da Justiça competentes, designadamente em matéria de aquisição de imóveis e de projectos de obras novas;
+b) Promover e assegurar a articulação com outros serviços públicos competentes em assuntos de gestão do património, designadamente em matéria de aquisição e alienação de imóveis;
 
 c) Orientar tecnicamente a gestão do património do Instituto;
 
-d) Coordenar a gestão dos contingentes de viaturas dos serviços centrais e desconcentrados do Instituto;
+d) Coordenar a gestão dos contingentes de viaturas do Instituto;
 
 e) Organizar, orientar e acompanhar o programa de apetrechamento em mobiliário e equipamento dos serviços centrais e dos serviços desconcentrados;
 
@@ -870,91 +954,61 @@ g) Promover a organização e actualização dos processos de atribuição e des
 
 h) Preparar os planos de amortização e de reavaliação dos activos patrimoniais;
 
-i) Organizar os concursos e a celebração de contratos para a aquisição de bens e serviços.
+i) Gerir o contingente de viaturas dos serviços centrais;
 
-5 - À Repartição de Finanças e Património compete:
+j) Zelar pelo estado de conservação das instalações, do equipamento e do material dos serviços centrais;
 
-a) Processar as despesas dos serviços centrais e as requisições de fundos;
+l) Coordenar e assegurar processos de aquisição de bens e prestação de serviços necessários;
 
-b) Processar vencimentos e outros abonos de pessoal dos serviços centrais e de serviços desconcentrados;
+m) Manter em depósito o material de uso corrente indispensável ao regular funcionamento do Instituto, em especial dos serviços centrais;
 
-c) Liquidar despesas dos serviços centrais e dos serviços desconcentrados;
+n) Velar pela segurança e vigilância das instalações dos serviços centrais;
 
-d) Liquidar as receitas do Instituto;
+o) Organizar e manter actualizados os processos de atribuição de equipamento e mobiliário aos serviços e de casas de função;
 
-e) Gerir o contingente de viaturas dos serviços centrais;
+p) Organizar e manter actualizado o inventário dos bens móveis e imóveis do Instituto.
 
-f) Zelar pelo estado de conservação das instalações, do equipamento e do material;
+5 - A DIGAF compreende as seguintes secções:
 
-g) Coordenar e assegurar os processos de aquisição de bens e prestação de serviços necessários;
+a) Secção de Processamento e Liquidação, à qual incumbe exercer as competências previstas nas alíneas g) a i) do n.º 3;
 
-h) Manter em depósito o material de uso corrente indispensável ao regular funcionamento do Instituto;
+b) Secção de Movimentos Financeiros e Controlo de Disponibilidades, à qual incumbe exercer as competências previstas nas alíneas j) a n) do n.º 3;
 
-i) Velar pela segurança e vigilância das instalações;
+c) Secção de Reconciliação de Contas, à qual incumbe exercer as competências previstas nas alíneas o) a r) do n.º 3.
 
-j) Organizar e manter actualizados os processos de atribuição de equipamento e mobiliário aos serviços e de casas de função;
+6 - A DIGAP compreende a Secção de Economato e Inventário, à qual incumbe executar as competências previstas nas alíneas i) a p) do n.º 4.
 
-l) Organizar e manter actualizado o inventário dos bens móveis e imóveis do Instituto.
+7 - Para o exercício de competências referidas nas alíneas c) e d) do n.º 1, pode ser constituída uma unidade funcional de obras e infra-estruturas.
 
-6 - A Repartição de Finanças e Património compreende as seguintes secções:
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
-a) Secção de Processamento e Liquidação, à qual incumbe executar as tarefas previstas nas alíneas a) a d) do número anterior e dar apoio administrativo à Divisão de Finanças;
+###### Artigo 40.º — Departamento de Gestão de Recursos Humanos
 
-b) Secção de Economato e de Inventário, à qual incumbe executar as tarefas previstas nas alíneas e) a l) do número anterior e dar apoio administrativo à Divisão de Património.
+1 - Ao Departamento de Gestão de Recursos Humanos (DRH) compete promover, executar e coordenar a actividade dos sistemas de gestão e administração de recursos humanos do Instituto e assegurar o apoio geral aos órgãos e serviços centrais, designadamente:
 
-7 - À Repartição de Tesouraria compete:
+a) Manter o diagnóstico da situação dos recursos humanos do Instituto em função do seu objectivo e dos indicadores de gestão;
 
-a) Pagar as despesas e cobrar as receitas;
+b) Assegurar a execução de acções de recrutamento, selecção e admissão de pessoal e apoiar a tramitação de concursos;
 
-b) Controlar os movimentos e as disponibilidades financeiras e de tesouraria;
-
-c) Emitir os meios de pagamento e de recebimento;
-
-d) Registar e controlar os adiantamentos ao pessoal e os das missões no estrangeiro;
-
-e) Controlar as transferências bancárias;
-
-f) Assegurar a reconciliação das contas;
-
-g) Controlar os movimentos das caixas e os dos fundos de maneio dos serviços centrais e desconcentrados.
-
-8 - A Repartição de Tesouraria compreende as seguintes secções:
-
-a) Secção de Movimentos Financeiros e Controlo de Disponibilidades, à qual incumbe executar as tarefas previstas nas alíneas a) a d) do número anterior;
-
-b) Secção de Reconciliação de Contas, à qual incumbe executar as tarefas previstas nas alíneas e) a g).
-
-###### Artigo 40.º — Departamento de Pessoal
-
-1 - Ao Departamento de Pessoal (DP) compete promover, executar e coordenar a actividade de gestão e administração de pessoal do Instituto, numa perspectiva integrada de recrutamento e selecção, enquadramento, motivação e rentabilização dos recursos humanos e assegurar o apoio geral aos órgãos e serviços centrais.
-
-2 - O DP compreende os seguintes serviços:
-
-a) Divisão de Gestão de Pessoal;
-
-b) Repartição de Administração de Pessoal e Apoio Geral.
-
-3 - À Divisão de Gestão de Pessoal (DIGEP) compete:
-
-a) Propor planos, programas e projectos de gestão de pessoal na sequência de diagnósticos elaborados em função do objectivo do Instituto e dos indicadores de gestão;
-
-b) Promover e assegurar projectos e acções de recrutamento, selecção e admissão de pessoal e apoiar a tramitação de concursos;
-
-c) Organizar, testar e aplicar instrumentos de avaliação de perfil, através de provas psicológicas a utilizar como factor de selecção de candidatos ou de orientação de gestão;
+c) Organizar, testar e aplicar instrumentos de avaliação de perfil, através de provas psicológicas a utilizar como factor de selecção de candidatos ou de orientação e gestão;
 
 d) Coordenar e acompanhar as propostas de afectação e reafectação de recursos humanos às diferentes unidades orgânicas;
 
 e) Zelar pela coerente interpretação e aplicação, por todos os serviços, dos normativos aplicáveis ao pessoal do Instituto;
 
-f) Providenciar a elaboração e avaliação da aplicação de regulamentos e orientações relativos a gestão e administração de pessoal, nomeadamente em matéria de estágios de ingresso e horários de trabalho;
+f) Providenciar a elaboração e avaliação da aplicação de regulamentos e orientações relativos à gestão e administração de pessoal, nomeadamente em matéria de estágios de ingresso e horários de trabalho;
 
 g) Promover e acompanhar a aplicação dos instrumentos de apreciação do mérito no desempenho de funções e avaliar e promover as necessárias adequações;
 
-h) Conceber e manter em funcionamento o sistema estatístico relativo à gestão e administração de pessoal;
+h) Conceber e manter em funcionamento o subsistema estatístico relativo à gestão e administração de pessoal e proceder à análise dos dados dele resultantes;
 
-i) Elaborar os estudos de caracterização dos recursos humanos do Instituto, nomeadamente o balanço social, e assegurar a sistematização de dados em função de adequados indicadores de gestão.
+i) Elaborar os estudos de caracterização dos recursos humanos do Instituto, nomeadamente o balanço social, e assegurar a sistematização de dados em função de adequados indicadores de gestão;
 
-4 - À Repartição de Administração de Pessoal e Apoio Geral compete:
+j) Acompanhar a situação dos serviços, em matéria de higiene e segurança no trabalho, e propor medidas que assegurem o cumprimento da legislação em vigor sobre a matéria;
+
+l) Exercer as competências nos domínios da administração de pessoal, nos termos do número seguinte.
+
+2 - O DRH compreende a Divisão de Administração de Pessoal e Apoio Geral (DIAPAG), à qual compete:
 
 a) Informar os processos de pessoal;
 
@@ -966,157 +1020,161 @@ d) Assegurar as inscrições e demais procedimentos inerentes à efectivação d
 
 e) Assegurar a gestão corrente de ficheiros e arquivos de pessoal, manuais e automatizados, mantendo os processos individuais devidamente organizados e assegurando a preparação das respectivas certidões;
 
-f) Assegurar as demais tarefas inerentes à administração de pessoal do Instituto em articulação com os restantes serviços;
+f) Assegurar os demais procedimentos inerentes à administração de pessoal do Instituto em articulação com os restantes serviços;
 
-g) Assegurar as tarefas administrativas inerentes à recepção, distribuição, expedição e arquivo de correspondência e outros documentos;
+g) Assegurar a recepção, distribuição, expedição e arquivo de correspondência e outros documentos;
 
 h) Assegurar a execução de trabalhos de reprografia necessários ao funcionamento dos serviços centrais;
 
 i) Coordenar a actividade do pessoal operário e auxiliar afecto aos serviços centrais;
 
-j) Assegurar a realização de outras tarefas de apoio aos órgãos e serviços do Instituto que lhe forem cometidas pelo presidente.
+j) Prestar apoio aos órgãos e serviços do Instituto nos termos em que lhe for determinado pelo presidente.
 
-5 - A Repartição de Administração de Pessoal e Apoio Geral compreende as seguintes secções:
+3 - A DIAPAG compreende as seguintes secções:
 
-a) Secção de Pessoal, à qual incumbe executar as tarefas previstas nas alíneas a) a f) do número anterior;
+a) Secção de Pessoal, à qual incumbe exercer as competências previstas nas alíneas a) a f) do número anterior;
 
-b) Secção de Apoio Geral, à qual incumbe executar as tarefas previstas nas alíneas g) a j) do número anterior.
+b) Secção de Apoio Geral, à qual incumbe exercer as competências previstas nas alíneas g) a j) do número anterior.
 
-###### Artigo 41.º — Departamento de Coordenação Técnica
+4 - Para o exercício de competências referidas nas alíneas a) a j) do n.º 1, pode ser constituída uma unidade funcional de gestão de recursos humanos.
 
-1 - Ao Departamento de Coordenação Técnica (DCT) compete coordenar a actividade técnico-operativa do Instituto desenvolvida em apoio técnico aos tribunais, nomeadamente no âmbito das jurisdições penal, de família e de menores.
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
-2 - Ao DCT compete, designadamente:
+###### Artigo 41.º — Departamento de Coordenação da Actividade Técnico-Operativa
 
-a) Conceber e avaliar a aplicação de orientações técnicas para a elaboração de relatórios sociais e perícias sobre a personalidade e outras informações e pareceres relativos a arguidos e vítimas, nos termos da legislação aplicável;
+1 - Ao Departamento de Coordenação da Actividade Técnico-Operativa (DCATO) compete coordenar a actividade técnico-operativa do Instituto desenvolvida em apoio técnico aos tribunais, no âmbito das jurisdições penal, de família e de menores, designadamente:
 
-b) Conceber e avaliar a aplicação de orientações técnicas para a elaboração de relatórios sociais, observações psicológicas e outras informações com diagnóstico e prognóstico da situação de menores, de seus pais ou outras pessoas a quem sejam confiados;
+a) Proceder à elaboração de estudos e de medidas legislativas que se enquadrem no âmbito das competências do Departamento;
 
-c) Conceber e avaliar a aplicação de orientações técnicas sobre planificação, execução e avaliação de medidas judiciais aplicadas a menores e executadas na comunidade e de penas e medidas aplicadas a jovens e adultos, de execução na comunidade ou privativas de liberdade;
+b) Conceber e avaliar a aplicação de orientações técnicas para a elaboração de relatórios sociais e perícias sobre a personalidade e outras informações e pareceres relativos a arguidos e vítimas, nos termos da legislação aplicável;
 
-d) Definir metodologias psicossociais adequadas à execução de penas e medidas executadas na comunidade, nomeadamente tendo em conta problemáticas específicas nos domínios da saúde mental, alcoolismo, toxicodependência e doenças transmissíveis;
+c) Conceber e avaliar a aplicação de orientações técnicas sobre planificação, execução e avaliação de penas e medidas aplicadas a jovens e adultos, de execução na comunidade ou privativas de liberdade;
+
+d) Definir metodologias adequadas à execução de penas e medidas penais executadas na comunidade;
 
 e) Conceber e avaliar o funcionamento do sistema de execução de medidas de trabalho a favor da comunidade;
 
-f) Estudar e propor orientações sobre questões de segurança no atendimento e acompanhamento de delinquentes cumprindo penas e medidas de execução na comunidade, nomeadamente dos que ofereçam perigosidade;
+f) Coordenar e avaliar o funcionamento dos sistemas de controlo electrónico de arguidos, nos termos da legislação aplicável;
 
-g) Colaborar na concepção e funcionamento do sistema de estatística das solicitações dos tribunais e da actividade operativa e analisar os dados relacionados com a sua área de competência;
+g) Conceber e avaliar a aplicação de orientações técnicas para a elaboração de relatórios sociais, observações psicológicas e outras informações com diagnóstico e prognóstico da situação de menores, de seus pais ou outras pessoas a quem sejam confiados, em articulação com o DCSEMTI;
 
-h) Assegurar o funcionamento do sistema de ficheiros;
+h) Conceber e avaliar a aplicação de orientações técnicas sobre planificação, execução e avaliação de medidas tutelares não institucionais;
 
-i) Contribuir, com informação, estudos de avaliação e indicadores de gestão, para os demais sistemas e actividades do Instituto, designadamente de formação, prevenção e acção comunitária, estudos, investigação e gestão de recursos.
+i) Definir metodologias adequadas à execução de medidas tutelares não institucionais;
 
-3 - O DCT organizar-se-á, em regra, por projectos ou unidades funcionais.
+j) Assegurar o funcionamento dos sistemas de execução de penas e medidas.
 
-###### Artigo 42.º — Departamento de Coordenação da Gestão dos Colégios
+2 - O DCATO compreende a Divisão de Apoio ao Funcionamento dos Sistemas de Execução de Penas e Medidas (DAFP), à qual compete:
 
-1 - Ao Departamento de Coordenação da Gestão dos Colégios (DCGC) compete coordenar a actividade do Instituto na gestão técnica dos equipamentos de acolhimento, educação e formação de menores e jovens em execução de medidas judiciais.
+a) Colaborar na elaboração do plano e relatório de actividades do Instituto, na área da competência do Departamento;
 
-2 - Ao DCGC compete, designadamente:
+b) Conceber e assegurar o funcionamento do subsistema de estatística das solicitações dos tribunais e da actividade operativa relacionada com a área de competência do Departamento e proceder à análise destes dados;
 
-a) Conceber e avaliar a aplicação de orientações técnicas sobre planificação, execução e avaliação de medidas judiciais aplicadas a menores e a executar em instituição do sistema de justiça;
+c) Assegurar o funcionamento do sistema de ficheiros e coordenar os circuitos de mobilidade de processos individuais dos destinatários da acção do Instituto, bem como a organização dos respectivos arquivos;
 
-b) Conceber e coordenar o funcionamento do sistema de colocação e enquadramento de menores e definir indicadores sobre recursos para a execução de medidas judiciais nos colégios e outros equipamentos de acolhimento;
+d) Estudar e propor orientações sobre questões de segurança no atendimento e acompanhamento de delinquentes cumprindo penas e medidas de execução na comunidade, nomeadamente dos que ofereçam perigosidade, em articulação com o DRH;
 
-c) Conceber e avaliar a aplicação de orientações técnicas relativas ao acolhimento de menores, nomeadamente em matéria de alimentação, vestuário e calçado, saúde, higiene, segurança, disciplina, actividades desportivas, recreativas e culturais;
+e) Conceber e assegurar a produção de indicadores de gestão sobre exposições e queixas dos destinatários da acção do Instituto relacionados com a área de competência do Departamento;
 
-d) Conceber e sistematizar modelos de orientação pedagógica e instrumentos técnicos necessários à organização e funcionamento dos colégios e outros equipamentos sociais, geridos directa ou indirectamente pelo Instituto, visando assegurar aos menores um desenvolvimento harmonioso para uma vida em responsabilidade e autonomia, em articulação com as famílias e as comunidades locais;
+f) Conceber e assegurar a produção de indicadores de gestão sobre o apoio sócio-económico prestado aos destinatários da acção do Instituto, em colaboração com a DIGAF;
 
-e) Definir orientações técnicas sobre educação escolar a ser assegurada e outras actividades, designadamente de educação física e desporto, educação musical, expressão corporal, salas de estudo, bibliotecas, expressão plástica e visitas de interesse recreativo e cultural;
+g) Contribuir com informação, estudos e indicadores de gestão para os demais sistemas e actividades do Instituto, designadamente de desenvolvimento, cooperação e gestão de recursos.
 
-f) Definir orientações técnicas sobre programas e actividades de despiste e orientação vocacional, pré-aprendizagem, aprendizagem e formação profissional de menores;
+3 - Para o exercício de competências referidas nas alíneas a) a i) do n.º 1, podem ser constituídas duas unidades funcionais para coordenação da actividade na jurisdição penal e na de família e menores.
 
-g) Conceber programas para enquadramento de menores que, nos equipamentos de acolhimento, apresentem problemáticas específicas, nomeadamente nos domínios da saúde mental, toxicodependência e reabilitação;
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
-h) Contribuir, com informação e estudos de avaliação da actividade desenvolvida nos equipamentos de acolhimento de menores, para os demais sistemas e actividades do Instituto, designadamente de formação, coordenação técnica, estatísticas, estudos, investigação e gestão de recursos.
+###### Artigo 42.º — Departamento de Coordenação dos Serviços de Execução das Medidas Tutelares de Internamento
 
-3 - O DCGC organiza-se, em regra, por projectos ou unidades funcionais.
+1 - Ao Departamento de Coordenação dos Serviços de Execução das Medidas Tutelares de Internamento (DCSEMTI) compete coordenar a actividade do Instituto na gestão técnica dos equipamentos de acolhimento, educação e formação de menores e jovens, em execução de medidas tutelares de internamento, designadamente:
 
-###### Artigo 43.º — Departamento de Prevenção e Acção Comunitária
+a) Proceder à elaboração de estudos e de medidas legislativas que se enquadrem no âmbito das competências do Departamento;
 
-1 - Ao Departamento de Prevenção e Acção Comunitária (DPAC) compete genericamente assegurar o apoio técnico aos órgãos e serviços do Instituto em matéria de programas e projectos de prevenção da marginalidade e da delinquência e de apoio a conceder a crianças, jovens e adultos intervenientes em processos judiciais.
+b) Conceber e avaliar a aplicação de orientações técnicas para a elaboração de diagnósticos sobre a situação de menores, em articulação com o DCATO;
 
-2 - Ao DPAC compete:
+c) Conceber e avaliar a aplicação de orientações técnicas sobre planificação, execução e avaliação de medidas judiciais aplicadas a menores e a executar em instituição do sistema de justiça;
 
-a) Coordenar tecnicamente projectos e acções de prevenção desenvolvidos pelo Instituto;
+d) Conceber e sistematizar modelos de orientação terapêutica e instrumentos técnicos gerais necessários à organização e funcionamento dos colégios e outros equipamentos, geridos directa ou indirectamente pelo Instituto, visando assegurar aos menores um desenvolvimento harmonioso para uma vida em responsabilidade e autonomia, em articulação com as famílias e as comunidades locais;
 
-b) Conceber, implementar e avaliar formas de cooperação com entidades públicas e particulares nos domínios da prevenção da marginalidade e da delinquência, designadamente através de projectos interinstitucionais, de acordos e de contratos-programa, bem como desenvolver as actividades técnicas necessárias a uma adequada articulação entre o Instituto e outras entidades competentes, nomeadamente nos domínios da educação, acção social, segurança social, emprego e formação profissional, habitação, cultura, desporto, ocupação de tempos livres e saúde, designadamente em matéria de saúde mental, toxicodependência, alcoolismo, reabilitação e doenças transmissíveis;
+e) Conceber programas para enquadramento de menores que, nos equipamentos de acolhimento, apresentem problemáticas específicas, nomeadamente nos domínios da saúde mental, toxicodependência e reabilitação;
 
-c) Promover a criação e desenvolvimento de redes de cooperadores voluntários, concebendo e avaliando a aplicação de regulamentos, de orientações técnicas e instrumentos de trabalho relativos à cooperação voluntária;
+f) Conceber e avaliar a aplicação de orientações técnicas em matéria de alimentação, vestuário e calçado, saúde, higiene, actividades desportivas, recreativas e culturais;
 
-d) Coordenar a actividade desenvolvida pelo Instituto em apoio a comissões de protecção de menores e a outras estruturas que prossigam objectivos de protecção e defesa dos interesses de menores e jovens;
+g) Definir orientações técnicas sobre educação escolar a ser assegurada e outras actividades, designadamente de educação física e desporto, educação para as artes, organização de bibliotecas e visitas de interesse recreativo e cultural;
 
-e) Assegurar a sistematização actualizada dos recursos existentes na comunidade e que sejam instrumentos necessários e adequados à actividade técnico-operativa do Instituto;
+h) Definir orientações técnicas sobre programas e actividades de despiste e orientação vocacional, pré-aprendizagem, aprendizagem e formação profissional de menores;
 
-f) Assegurar a articulação entre o Instituto e as competentes entidades, programas e projectos de apoio a grupos sociais específicos;
+i) Acompanhar a situação dos equipamentos de acolhimento, em matéria de higiene e segurança no trabalho, e propor medidas que assegurem o cumprimento da legislação em vigor sobre a matéria;
 
-g) Desenvolver as actividades técnicas necessárias a uma adequada articulação e cooperação entre o Instituto e entidades particulares.
+j) Assegurar a articulação com outros serviços públicos nos domínios da sua competência;
 
-3 - O DPAC organiza-se, em regra, por projectos ou unidades funcionais.
+l) Assegurar o funcionamento dos sistemas de execução de medidas tutelares de internamento.
 
-###### Artigo 44.º — Departamento de Estudos, Relações Internacionais e Informação
+2 - O DCSEMTI compreende a Divisão de Apoio ao Funcionamento dos Sistemas de Execução das Medidas Tutelares de Internamento (DAFMTI), à qual compete:
 
-1 - Ao Departamento de Estudos, Relações Internacionais e Informação (DERII) compete desenvolver actividades de estudo e investigação que habilitem os órgãos do Instituto a contribuir para a definição e avaliação da política de apoio e protecção de menores e política criminal e dos instrumentos de cooperação internacional, bem como conceber e manter o sistema de informação e documentação do Instituto.
+a) Colaborar na elaboração do plano e relatório de actividades do Instituto, na área de competência do Departamento;
 
-2 - O DERII compreende os seguintes serviços:
+b) Conceber e coordenar o funcionamento do sistema de colocação e enquadramento de menores e definir indicadores sobre recursos para a execução de medidas tutelares de internamento;
 
-a) Divisão de Estudos e Relações Internacionais;
+c) Conceber e assegurar o funcionamento do subsistema de estatística da actividade dos serviços de execução das medidas tutelares de internamento e proceder à análise dos dados por ele produzidos;
 
-b) Divisão de Informação e Documentação.
+d) Conceber e assegurar a produção de indicadores de gestão sobre a actividade dos serviços de execução das medidas tutelares de internamento;
 
-3 - À Divisão de Estudos e Relações Internacionais (DIERI) compete:
+e) Contribuir, com informação e estudos de avaliação da actividade desenvolvida nos equipamentos de acolhimento de menores, para os demais sistemas e actividades do Instituto, designadamente de coordenação da actividade operativa, desenvolvimento, cooperação e gestão de recursos.
 
-a) Desenvolver projectos de investigação e estudos nas áreas de intervenção do Instituto e sobre problemáticas com elas relacionadas;
+3 - Para o exercício de competências referidas nas alíneas a) a j) do n.º 1, podem ser constituídas duas unidades funcionais para a coordenação técnica e coordenação de actividades educativas.
 
-b) Desenvolver estudos e propostas que habilitem o Instituto a contribuir para a elaboração de medidas legislativas e regulamentares, designadamente no âmbito das jurisdições de menores, de família, penal e da execução das penas;
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
+
+###### Artigo 43.º — Departamento de Desenvolvimento e Cooperação
+
+1 - Ao Departamento de Desenvolvimento e Cooperação (DDC) compete executar actividades que visam assegurar o desenvolvimento técnico do Instituto e a cooperação com entidades externas, designadamente:
+
+a) Proceder à elaboração de estudos e de propostas de medidas legislativas e regulamentares no âmbito das atribuições do Instituto;
+
+b) Conceber e assegurar o funcionamento do sistema de planeamento do Instituto, designadamente procedendo à elaboração dos projectos do plano de actividades e do relatório de actividades e acompanhando, em especial, a execução de projectos que permitam o desenvolvimento posterior de novas actividades do Instituto ou de novas metodologias de intervenção operativa, nos termos definidos nos instrumentos de planeamento;
 
 c) Desenvolver estudos que habilitem o Instituto a contribuir para a elaboração e avaliação de instrumentos de cooperação judiciária internacional;
 
 d) Assegurar os procedimentos resultantes de convenções internacionais em que o Instituto seja autoridade central;
 
-e) Recolher e sistematizar informação sobre a actividade de organismos similares estrangeiros e de organizações internacionais;
+e) Assegurar a cooperação com outras entidades nacionais, públicas e particulares, com actividades relevantes nos domínios da reintegração social de delinquentes e no da protecção dos direitos das crianças e jovens;
 
-f) Assegurar, no âmbito das atribuições do Instituto, a articulação com entidades estrangeiras, e ainda com cidadãos nacionais residentes no estrangeiro;
+f) Conceber, executar e avaliar os programas de formação dos recursos humanos do Instituto;
 
-g) Conceber o sistema de estatística sobre actividade técnico-operativa do Instituto, assegurar o seu funcionamento e analisar os dados dele resultantes, em articulação com os demais serviços do Instituto;
+g) Assegurar o funcionamento do sistema de documentação e informação científica e técnica do Instituto;
 
-h) Assegurar a concepção de publicações da responsabilidade do Instituto e promover os demais procedimentos relacionados com a sua execução.
+h) Acompanhar as alterações da organização judiciária e administrativa do Ministério da Justiça, em especial as que produzam impacte na organização dos serviços do Instituto;
 
-4 - À Divisão de Informação e Documentação (DID) compete:
+i) Assegurar, no âmbito das atribuições do Instituto, a articulação com entidades estrangeiras e ainda com cidadãos nacionais residentes no estrangeiro;
 
-a) Organizar e orientar tecnicamente o sistema de informação científica e técnica e de documentação do Instituto e promover o seu relacionamento com sistemas similares nacionais e internacionais;
+j) Coordenar a concepção do sistema de estatística do Instituto, acompanhar o seu funcionamento e analisar globalmente os dados deles resultantes, em articulação com os demais serviços do Instituto;
 
-b) Programar e coordenar a aquisição, permuta e oferta de publicações ou quaisquer outros documentos com interesse no âmbito das atribuições do Instituto;
+l) Assegurar a concepção de publicações da responsabilidade do Instituto e promover os demais procedimentos relacionados com a sua execução.
 
-c) Assegurar o tratamento técnico das espécies bibliográficas e promover a sua divulgação pelos serviços do Instituto;
+2 - O DDC compreende os seguintes serviços:
 
-d) Providenciar quanto à organização e funcionamento de um centro documental;
+a) Divisão de Cooperação Interinstitucional;
 
-e) Coordenar a instalação e o funcionamento de unidades descentralizadas de apoio documental e colaborar na formação de pessoal especializado;
+b) Divisão de Formação;
 
-f) Preparar, propor e desenvolver suportes de informação e sensibilização de agentes comunitários e da comunidade em geral sobre a intervenção social de Justiça, em articulação com o DPAC;
+c) Divisão de Documentação e Informação Científica e Técnica.
 
-g) Assegurar a promoção e a manutenção de uma imagem adequada do Instituto junto da opinião pública e, em especial, junto das entidades da administração da justiça;
+3 - À Divisão de Cooperação Interinstitucional (DCI) compete:
 
-h) Conceber e executar instrumentos de informação, sensibilização e formação geral, designadamente com utilização e construção significativa e plástica de imagens, signos, palavras e sons com recurso a artes e técnicas gráficas e áudio-visuais;
+a) Conceber, implementar e avaliar formas de cooperação com entidades públicas e particulares nos domínios da prevenção da marginalidade e da delinquência, designadamente através de projectos interinstitucionais, de acordos e de contratos-programa, bem como desenvolver as actividades técnicas necessárias a uma adequada articulação entre o Instituto e outras entidades competentes, nomeadamente nos domínios da acção social, segurança social, emprego e formação profissional, habitação, cultura, desporto, ocupação de tempos livres e saúde, designadamente em matéria de saúde mental, toxicodependência, alcoolismo, reabilitação e doenças transmissíveis;
 
-i) Assegurar a execução de trabalhos de desenho necessários ao funcionamento de serviços do Instituto;
+b) Coordenar a actividade de cooperação do Instituto com outras estruturas públicas e privadas que prossigam objectivos de protecção dos direitos de crianças e jovens, designadamente comissões de protecção de menores;
 
-j) Recolher, analisar e difundir pelos serviços centrais e desconcentrados a informação noticiosa de interesse para o Instituto;
+c) Promover a criação e desenvolvimento de redes de cooperadores voluntários, concebendo e avaliando a aplicação de regulamentos, de orientações técnicas e instrumentos de trabalho relativos à cooperação voluntária;
 
-l) Manter os funcionários informados sobre a vida e actividade do Instituto;
+d) Assegurar a sistematização actualizada dos recursos existentes na comunidade e que sejam instrumentos necessários e adequados à actividade técnico-operativa do Instituto;
 
-m) Assegurar actividades relacionadas com a recepção e encaminhamento de utentes e visitantes de serviços do Instituto;
+e) Assegurar a articulação entre o Instituto e as competentes entidades, programas e projectos de apoio a grupos sociais específicos;
 
-n) Assegurar os procedimentos inerentes à edição e distribuição de publicações da responsabilidade do Instituto.
+f) Desenvolver as actividades técnicas necessárias a uma adequada articulação e cooperação entre o Instituto e entidades particulares.
 
-5 - O DERII desenvolve a sua actividade em estreita articulação com os demais serviços do Instituto e em particular com os Departamentos de Coordenação Técnica, de Coordenação da Gestão dos Colégios, de Prevenção e Acção Comunitária e de Formação.
-
-###### Artigo 45.º — Departamento de Formação
-
-1 - Ao Departamento de Formação (DF) compete conceber, propor e assegurar a execução da actividade de formação, visando uma eficiente prossecução dos objectivos do Instituto e a permanente valorização e adequação dos funcionários e agentes dos vários grupos de pessoal.
-
-2 - Ao DF compete, designadamente:
+4 - À Divisão de Formação (DF) compete:
 
 a) Elaborar, coordenar e avaliar planos e programas de formação inicial e permanente do pessoal, especialmente do que exerça funções de direcção, coordenação, técnicas e de apoio geral nos serviços desconcentrados;
 
@@ -1124,91 +1182,119 @@ b) Participar na organização de estágios, com formação, para ingresso em ca
 
 c) Promover a realização de acções de formação e aperfeiçoamento profissional e coordenar iniciativas dos demais serviços do Instituto, designadamente através de centros de formação;
 
-d) Promover, coordenar e avaliar projectos e acções de supervisão e consulta técnica, de âmbito geral ou especializado, para o pessoal das unidades operativas;
+d) Assegurar a preparação e organização de cursos, seminários, conferências, colóquios, em articulação com outros serviços ou em regime de intercâmbio internacional, e preparar a participação em iniciativas estrangeiras ou internacionais;
 
-e) Assegurar a preparação e organização de cursos, seminários, conferências, colóquios, estágios académicos e profissionais, em articulação com outros serviços ou em regime de intercâmbio internacional e preparar a participação em iniciativas estrangeiras ou internacionais;
+e) Assegurar a recolha e divulgação interna de informação sobre actividades de formação desenvolvidas por outras entidades e promover a participação de pessoal do Instituto, quando se justifique;
 
-f) Assegurar a recolha e divulgação interna de informação sobre actividades de formação desenvolvidas por outras entidades e promover a participação de pessoal do Instituto, quando se justifique;
+f) Conceber e organizar programas e acções de formação e avaliação inicial do perfil e do desempenho de agentes voluntários;
 
-g) Conceber e organizar programas e acções de formação e de avaliação inicial do perfil e de desempenho de agentes voluntários;
+g) Providenciar a elaboração e actualização de orientações relativas à actividade de formação;
 
-h) Conceber e organizar acções de informação e formação relacionadas com as problemáticas da acção de intervenção do Instituto e destinadas a agentes de outras entidades públicas ou particulares;
+h) Contribuir para a elaboração do orçamento da actividade de formação e elaborar os planos e relatórios de actividade;
 
-i) Providenciar a elaboração e actualização de orientações relativas à actividade de formação;
+i) Preparar a celebração com entidades públicas e particulares, nacionais ou estrangeiras, de acordos de cooperação ou contratos para a realização de programas, projectos e acções de formação.
 
-j) Contribuir para a elaboração do orçamento da actividade de formação e elaborar os planos e relatórios de actividade;
+5 - À Divisão de Documentação e Informação Científica e Técnica (DICT) compete:
 
-l) Preparar a celebração com entidades públicas e particulares, nacionais ou estrangeiras, de acordos de cooperação ou contratos para a realização de programas, projectos e acções de formação, supervisão e consultadoria técnicas.
+a) Organizar e orientar tecnicamente o sistema de informação científica e técnica e de documentação do Instituto e promover o seu relacionamento com sistemas similares nacionais e internacionais;
 
-3 - No exercício das suas competências, o DF actua em sistemática articulação com:
+b) Programar e coordenar a aquisição, permuta e oferta de publicações ou quaisquer outros documentos com interesse no âmbito das atribuições do Instituto;
 
-a) Os demais serviços centrais e desconcentrados do Instituto em ordem a assegurar a coerência da política de formação e da sua execução;
+c) Assegurar o tratamento técnico das espécies bibliográficas e promover a sua divulgação pelos serviços do Instituto;
 
-b) As demais estruturas de formação existentes no Ministério da Justiça, visando a harmonização das políticas de formação e a rentabilização de iniciativas e de meios;
+d) Assegurar a organização e funcionamento de um centro de documentação e respectivas unidades desconcentradas;
 
-c) Outras entidades públicas e particulares que desenvolvem actividades formativas e de investigação, nomeadamente com universidades, escolas superiores e organizações profissionais e científicas.
+e) Assegurar a execução de trabalhos de desenho necessários ao funcionamento de serviços do Instituto;
 
-4 - O DF organiza-se, sempre que necessário, por projectos e centros de formação.
+f) Recolher, analisar e difundir pelos serviços centrais e desconcentrados a informação noticiosa de interesse para o Instituto;
 
-###### Artigo 46.º — Departamento de Auditoria e Inspecção
+g) Manter os funcionários informados sobre a vida e actividade do Instituto;
 
-1 - Ao Departamento de Auditoria e Inspecção (DAI) compete desenvolver auditorias internas sistemáticas e inspecções regulares, verificando e prevenindo tudo o que pode comprometer a realização dos objectivos do Instituto, a qualidade do serviço prestado, o sistema de gestão, a observância da legalidade e a regularidade financeira dos serviços.
+h) Assegurar os procedimentos inerentes à edição e distribuição de publicações da responsabilidade do Instituto;
 
-2 - Ao DAI compete, designadamente:
+i) Promover a organização do ficheiro de legislação, jurisprudência, convenções, recomendações e de toda a documentação normativa com interesse para o Instituto e o acesso à consulta de ficheiros de outras entidades.
 
-a) Analisar e verificar a adequação e eficácia da actividade dos serviços do Instituto em função dos objectivos, das políticas definidas e dos sistemas de gestão;
+6 - Para o exercício de competências referidas nas alíneas c) e d) do n.º 1, pode ser constituída uma unidade funcional de convenções internacionais.
 
-b) Emitir pareceres, elaborar informações e proceder a estudos sobre quaisquer assuntos que lhe sejam submetidos;
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
-c) Apreciar e elaborar regulamentos internos, acordos e quaisquer outros actos de gestão ou administração que lhe sejam solicitados;
+###### Artigo 44.º — Departamento de Organização e Informática
 
-d) Preparar os projectos de resposta em recursos de contencioso administrativo;
+1 - Ao Departamento de Organização e Informática (DOI) compete:
 
-e) Acompanhar o andamento dos processos de recurso nos tribunais;
+a) Definir e caracterizar os sistemas de informação do Instituto e propor a sua reorganização, quando necessário;
 
-f) Organizar os processos administrativos relativos aos recursos em que tenha intervindo;
+b) Dar apoio técnico a acções de reorganização e racionalização administrativa;
 
-g) Intervir em auditorias, inquéritos, sindicâncias e em processos disciplinares e judiciais que lhe forem cometidos;
+c) Planear e propor a automatização de sistemas de informação, procedendo aos estudos técnicos necessários, nomeadamente os de oportunidade, económico-financeiros e de caracterização e adequação de equipamentos ou serviços a adquirir;
 
-h) Assegurar a actividade de inspecção;
+d) Assegurar a gestão global do sistema de equipamentos informáticos;
 
-i) Propor, na sequência das suas actividades de auditoria e de inspecção, a instauração de processos disciplinares ou quaisquer outros procedimentos julgados convenientes;
+e) Conceber e desenvolver aplicações informáticas;
 
-j) Promover a organização do ficheiro de legislação, jurisprudência, convenções, recomendações e de toda a documentação normativa com interesse para o Instituto e o acesso à consulta de ficheiros de outras entidades, designadamente do sector da Justiça, em articulação com a Divisão de Informação e Documentação e demais serviços do Instituto;
+f) Apoiar os demais serviços do Instituto na exploração de aplicações informáticas;
 
-l) Suscitar oficiosamente quaisquer questões de natureza jurídica, financeira, de gestão ou administração de que tenha tomado conhecimento por via do exercício da sua competência;
-
-m) Conceber o sistema de produção normativa interna do Instituto e acompanhar o seu funcionamento.
-
-3 - Ao DAI compete ainda realizar auditorias a equipamentos sociais, programas, projectos e actividades de instituições que sejam apoiadas técnica ou financeiramente pelo Instituto, nos termos de acordos de cooperação e de contratos-programa celebrados, e a centros de acolhimento, educação e formação ou unidades funcionais cuja gestão tenha sido confiada a outras entidades.
-
-4 - As auditorias cometidas ao DAI são asseguradas por equipas de técnicos superiores com formação e experiência adequadas a cada acção ou projecto de auditoria.
-
-5 - As equipas de auditoria devem estar sempre e em cada processo sujeitas a uma supervisão adequada.
-
-6 - O director do Departamento, ou funcionário designado pelo presidente, serve de oficial público nos contratos em que o Instituto seja outorgante.
-
-###### Artigo 47.º — Gabinete de Informática
-
-1 - Ao Gabinete de Informática (GI) compete:
-
-a) Definir e caracterizar os sistemas de informação do Instituto e propor a sua reorganização quando necessário;
-
-b) Planear e propor a automatização de sistemas de informação, procedendo aos estudos técnicos necessários, nomeadamente os de oportunidade, económico-financeiros e de caracterização e adequação de equipamentos ou serviços a adquirir;
-
-c) Assegurar a gestão global do sistema de equipamentos informáticos;
-
-d) Conceber e desenvolver aplicações informáticas;
-
-e) Apoiar os demais serviços do Instituto na exploração de aplicações informáticas;
-
-f) Explorar as aplicações informáticas da sua directa responsabilidade, transmitindo aos órgãos e serviços competentes os resultados obtidos;
-
-g) Dar apoio técnico a acções de reorganização e racionalização administrativa;
+g) Explorar as aplicações informáticas da sua directa responsabilidade, transmitindo aos órgãos e serviços competentes os resultados obtidos;
 
 h) Desenvolver projectos de conservação de massas documentais, nomeadamente com utilização de técnicas micrográficas.
 
-2 - O GI organiza-se, sempre que necessário, por projectos.
+2 - O DOI organiza-se, sempre que necessário, por projectos.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
+
+###### Artigo 45.º — Auditoria e Inspecção
+
+1 - À Auditoria e Inspecção compete desenvolver auditorias internas sistemáticas e inspecções regulares, verificando e prevenindo tudo o que pode comprometer a realização dos objectivos do Instituto, a qualidade do serviço prestado, o sistema de gestão, a observância da legalidade e a regularidade financeira dos serviços.
+
+2 - À Auditoria e Inspecção compete ainda realizar auditorias a equipamentos sociais, programas, projectos e actividades de instituições que sejam apoiadas técnica ou financeiramente pelo Instituto, nos termos de acordos de cooperação e de contratos-programa celebrados, e a centros de acolhimento, educação e formação ou unidades funcionais cuja gestão tenha sido confiada a outras entidades.
+
+3 - A Auditoria e Inspecção é dirigida pelo presidente ou por quem por ele for designado.
+
+4 - A Auditoria e Inspecção é constituída por equipas de funcionários com formação e experiência adequadas a cada acção ou projecto de auditoria e inspecção e coordenada por quem for designado pelo presidente ou vice-presidente.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
+
+###### Artigo 46.º — Gabinete Jurídico
+
+1 - Ao Gabinete Jurídico compete prestar assessoria jurídica aos órgãos do Instituto.
+
+2 - Ao Gabinete Jurídico compete, designadamente:
+
+a) Preparar os projectos de resposta em recursos de contencioso administrativo;
+
+b) Acompanhar o andamento dos processos de recurso nos tribunais;
+
+c) Organizar os processos administrativos relativos aos recursos em que tenha intervindo;
+
+d) Intervir em processos de averiguações, inquéritos, sindicâncias e em processos disciplinares e judiciais que lhe forem cometidos;
+
+e) Emitir pareceres, elaborar informações e proceder a estudos sobre quaisquer assuntos que lhe sejam submetidos;
+
+f) Apreciar e elaborar regulamentos internos, acordos e quaisquer outros actos de gestão ou administração que lhe sejam solicitados;
+
+g) Conceber o sistema de produção normativa interna do Instituto e controlar o seu funcionamento;
+
+h) Suscitar oficiosamente quaisquer questões de natureza jurídica, financeira, de gestão ou administração de que tenha tomado conhecimento por via do exercício da sua competência.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
+
+###### Artigo 47.º — Gabinete de Imprensa e Relações Públicas
+
+1 - Ao Gabinete de Imprensa e Relações Públicas compete prestar apoio aos órgãos do Instituto em matéria de relações públicas e, em especial, de relações com os órgãos de comunicação social.
+
+2 - Ao Gabinete de Imprensa e Relações Públicas compete, designadamente:
+
+a) Propor e participar no desenvolvimento de suportes de informação e sensibilização de agentes comunitários e da comunidade em geral sobre a actividade desenvolvida pelo Instituto;
+
+b) Desenvolver actividades que assegurem a promoção e a manutenção de uma imagem adequada das actividades do Instituto junto da opinião pública;
+
+c) Assegurar os contactos com os órgãos de comunicação social, em estreita articulação com os mecanismos de coordenação do Ministério da Justiça para este sector;
+
+d) Apresentar propostas sobre a estratégia de divulgação e distribuição externa das publicações da responsabilidade do Instituto;
+
+e) Assegurar actividades relacionadas com a recepção e encaminhamento de utentes e visitantes de serviços do Instituto.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 #### SECÇÃO II — Dos serviços desconcentrados
 
@@ -1238,9 +1324,11 @@ c) Os colégios de acolhimento, educação e formação.
 
 ###### Artigo 49.º — Delegações regionais
 
-1 - O Instituto compreende as Delegações Regionais de Lisboa, Porto, Coimbra e Évora, a que corresponde a área dos respectivos distritos judiciais.
+1 - O Instituto compreende as Delegações Regionais de Lisboa, Porto, Coimbra e Faro, a que corresponde a área dos distritos judiciais.
 
 2 - Excepcionalmente e sempre que se revele conveniente para a gestão, podem ser enquadrados por outra delegação regional serviços localizados em distrito judicial não correspondente.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 ###### Artigo 50.º — Competência das delegações regionais
 
@@ -1596,9 +1684,9 @@ f) Exercer os demais poderes que, por delegação ou subdelegação, lhe sejam a
 
 ###### Artigo 71.º — Competência dos colégios
 
-1 - Aos colégios compete assegurar o acolhimento e enquadramento educativo e formativo de menores que cumpram em instituições medidas judiciais e outros menores e jovens que ao Instituto sejam confiados, nos termos da legislação aplicável.
+1 - Aos colégios compete executar as medidas tutelares de internamento previstas na legislação específica, bem como assegurar a realização de todas as diligências que, nos termos daquela legislação, tenham de ser cumpridas através de internamento em estabelecimento tutelar.
 
-2 - No acolhimento e enquadramento de menores cumprindo em instituição medidas aplicadas no âmbito do direito de menores, os colégios asseguram, nomeadamente:
+2 - No acolhimento e enquadramento educativo de menores, cumprindo em instituição as medidas e diligências referidas no número anterior, os colégios asseguram, nomeadamente:
 
 a) O acolhimento do menor visando uma adequada integração na vida do colégio;
 
@@ -1614,15 +1702,15 @@ f) A articulação e cooperação com a família, directamente ou através de ou
 
 g) A articulação com o tribunal competente pela aplicação e execução da medida.
 
-3 - Aos colégios compete ainda assegurar a elaboração de diagnósticos e prognósticos, ou o seu aprofundamento e actualização, em apoio técnico a decisões judiciárias, nomeadamente nos casos em que o acolhimento residencial em CAEF for considerado, pelo tribunal competente, condição necessária àquela elaboração e à protecção imediata dos interesses do menor.
+3 - Aos colégios compete ainda assegurar a elaboração de relatórios e informações, ou o seu aprofundamento e actualização, em apoio técnico a decisões judiciárias, nomeadamente nos casos em que o acolhimento residencial em CAEF for considerado, pelo tribunal competente, condição necessária àquela elaboração e à protecção imediata dos interesses do menor.
 
 4 - O acolhimento residencial, a tempo integral ou parcial, para efeitos de diagnóstico referido no número anterior, subordina-se aos princípios da necessidade e da proporcionalidade, e a elaboração, aprofundamento ou actualização dos diagnósticos não deve ultrapassar o prazo de dois meses, sem prejuízo de prorrogação pela competente autoridade, mediante proposta do Instituto em casos devidamente fundamentados.
 
 5 - Os colégios podem acolher, segundo critérios de necessidade e de disponibilidade de meios, filhos de menores acolhidos e que deles não devam ser separados.
 
-6 - O enquadramento em CAEF de menores e jovens não abrangidos por disposição legal que o preveja nem sujeitos a medida judicial cumprida em instituição é autorizado por despacho do presidente ou por sua delegação e orienta-se pelo disposto no n.º 2, com as devidas adaptações decorrentes da sua situação jurídica.
+6 - Para além das situações referidas no n.º 1, o enquadramento em CAEF de menores e jovens pode ser excepcionalmente autorizado por despacho do presidente ou por sua delegação, orientando-se pelo disposto no n.º 2, com as devidas adaptações decorrentes da sua situação jurídica.
 
-7 - As situações previstas no número anterior pressupõem, no caso de menores, a autorização de entidade competente e a solicitação dos interessados, no caso de jovens com mais de dezoito anos, sem prejuízo do conhecimento ou autorização, quando necessário, da competente autoridade judiciária.
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 ###### Artigo 72.º — Princípios de organização e funcionamento
 
@@ -1632,7 +1720,9 @@ g) A articulação com o tribunal competente pela aplicação e execução da me
 
 3 - Os colégios desenvolvem as suas actividades segundo uma orientação de abertura à comunidade em que o colégio se insere e em articulação com os demais serviços do Instituto, nomeadamente com as equipas de reinserção social actuantes no meio de origem ou no meio de inserção social dos menores.
 
-4 - A dinâmica pedagógica e a organização e funcionamento dos colégios é fixada através do regulamento de orientação pedagógica e de organização e funcionamento aprovado por despacho do presidente.
+4 - A dinâmica pedagógica e a organização e funcionamento dos colégios é fixada através de regulamento de orientação pedagógica e de organização e funcionamento, a aprovar por diploma próprio.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 ###### Artigo 73.º — Órgãos dos colégios
 
@@ -2162,9 +2252,11 @@ As comissões de protecção de menores que actualmente funcionam nos termos do 
 
 5 - No presente diploma, as medidas relativas a menores cumpridas ou executadas em instituição referem-se às medidas previstas nas alíneas i) a l) do artigo 18.º do [Decreto-Lei n.º 314/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1978-327823), de 27 de Outubro.
 
-6 - Os inquéritos e a observação referidos no [Decreto-Lei n.º 314/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1978-327823), de 27 de Outubro, excepto os previstos no processo de adopção, traduzir-se-ão nos relatórios e informações que integram os diagnósticos e prognósticos referidos na alínea a) do artigo 6.º, na alínea a) do n.º 1 do artigo 8.º e no n.º 3 do artigo 71.º do presente diploma, competindo ao Instituto definir os serviços desconcentrados ou outros em que, concretamente, devam ser realizados.
+6 - Os inquéritos e a observação referidos no [Decreto-Lei n.º 314/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1978-327823), de 27 de Outubro, excepto os referidos no processo de adopção, traduzir-se-ão nos relatórios e informações previstos na alínea a) do artigo 6.º, na alínea a) do n.º 1 do artigo 8.º e no n.º 3 do artigo 71.º do presente diploma, competindo ao Instituto definir os serviços desconcentrados ou outros em que, concretamente, devam ser realizados.
 
 7 - O regime de transição previsto no n.º 1 do artigo 121.º do [Decreto-Lei n.º 314/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1978-327823), de 27 de Outubro, que visa assegurar a transição do acolhimento institucional a tempo integral para a vida social, pelo enquadramento progressivo do menor nas condições comuns de vida e de trabalho, será cumprido em unidade residencial que se revele adequada.
+
+> Alterado pelo/a [Decreto-Lei n.º 552/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/552-1999-655934), publicado em 1999-12-15.
 
 ###### Artigo 117.º — Federação Nacional das Instituições de Protecção à Infância
 

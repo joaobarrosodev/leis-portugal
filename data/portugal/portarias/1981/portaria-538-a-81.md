@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-01-01'
+version_history:
+  file: portaria-538-a-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-01-01'
+    amending: pt:dre:626666:por
+    amending_title: Portaria n.º 1338/82
+    changes:
+    - Altera Artigo unidades 6-6
+    - Altera Artigo unidades 8-14
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:48:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1338/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-538-a-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,23 +130,15 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, do Comércio e Turismo e dos Transportes e Comunicações, o seguinte:
 
-1.º São criadas assinaturas sazonais mensais, durante os meses de Julho, Agosto e Setembro, para caminho de ferro, em 2.ª classe, entre Coimbra-A e Figueira da Foz.
+1.º São criadas assinaturas sazonais mensais, durante os meses de Julho, Agosto e Setembro, para caminho de ferro, em 2.ª classe, entre Coimbra-A e Figueira da Foz, válidas para os percursos entre esta cidade e Reveles, Marujal, Formoselha, Vila Pouca do Campo e Coimbra-A.
+
+> Alterado pelo/a [Portaria n.º 1338/82](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1982-626666), publicado em 1982-12-31.
 
 2.º O direito ao transporte é titulado por um cartão emitido pela CP, válido para uma viagem diária de ida e volta, a iniciar-se, obrigatoriamente, no sentido Coimbra-A-Figueira da Foz.
 
-3.º Os percursos abrangidos pela assinatura e os respectivos preços, resultantes da redução de 15% sobre o valor das assinaturas de base zonal, são os seguintes:
+3.º Os preços das assinaturas referidas no n.º 1.º são resultantes da redução de 15% sobre o valor das assinaturas de base zonal aprovadas, arredondados para o múltiplo superior de 5$00, quando for caso disso, de acordo com o estabelecido no artigo 20.º, n.º 7, da Tarifa Geral de Transportes - Passageiros e Bagagens, em vigor para a CP.
 
-Entre Figueira da Foz e:
-
-Reveles - 270$00;
-
-Marujal - 410$00;
-
-Formoselha - 560$00;
-
-Vila Pouca do Campo - 710$00;
-
-Coimbra-A - 860$00.
+> Alterado pelo/a [Portaria n.º 1338/82](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1982-626666), publicado em 1982-12-31.
 
 4.º O FETT pagará à CP indemnizações compensatórias calculadas com base na redução do preço da assinatura de base zonal prevista no n.º 3.º
 

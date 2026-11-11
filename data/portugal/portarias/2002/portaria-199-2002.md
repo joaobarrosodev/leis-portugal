@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-04-28'
+version_history:
+  file: portaria-199-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-03-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-04-28'
+    amending: pt:dre:288792:por
+    amending_title: Portaria n.º 465/2002
+    changes:
+    - Altera Artigo unidades 32-50
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/199/2002/03/05/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:39:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 465/2002. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-199-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -185,7 +200,7 @@ O disposto na presente portaria aplica-se a partir do ano lectivo de 2001-2002, 
 
 Pelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior, em 23 de Janeiro de 2002.
 
-## ANEXO — ([Portaria n.º 640/98](https://diariodarepublica.pt/dr/detalhe/portaria/640-1998-448308), de 28 de Agosto - alteração)
+## ANEXO — ([Portaria n.º 199/2002](https://diariodarepublica.pt/dr/detalhe/portaria/199-2002-253033), de 5 de Março - Alteração)
 
 Universidade Lusófona de Humanidades e Tecnologias
 
@@ -197,28 +212,34 @@ QUADRO N.º 1
 
 1.º ano
 
-[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)
+
+Ramo de Estudos Portugueses e Lusófonos
 
 QUADRO N.º 4
 
 4.º ano
 
-[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)
+
+Ramo de Desenvolvimento e Cooperação
 
 QUADRO N.º 5
 
-5.º ano
+4.º ano
 
-[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18521854.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)](https://files.diariodarepublica.pt/1s/2002/04/095b00/40474049.pdf)
+
+> Alterado pelo/a [Portaria n.º 465/2002](https://diariodarepublica.pt/dr/detalhe/portaria/465-2002-288792), publicado em 2002-04-23.

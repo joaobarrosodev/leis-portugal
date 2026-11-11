@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-12-17'
+version_history:
+  file: portaria-640-o1-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-12-17'
+    amending: pt:dre:188738:por
+    amending_title: Portaria n.º 737/96
+    changes:
+    - Altera Artigo unidades 7-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/640-o1/1994/07/15/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:33:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 737/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-640-o1-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,11 +150,13 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia da Amieira do Tejo, município de Nisa, com uma área de 1228,3125 ha.
 
-2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Associação Casa do Povo da Amieira do Tejo (registo no Instituto Florestal n.º 4.1062.91), com sede em Amieira do Tejo, a zona de caça associativa da freguesia da Amieira do Tejo (processo n.º 1680 do Instituto Florestal).
+2.º Pelo presente diploma é concessionada pelo período de 12 anos à Associação Caça e Pesca de Amieira do Tejo e Arez (registo na Direcção-Geral das Florestas n.º 4.1062.91), com sede na Estrada de Arez, 37, Amieira do Tejo, Nisa, a zona de caça associativa da freguesia de Amieira do Tejo (processo n.º 1680 da Direcção-Geral das Florestas).
 
-3.º A Associação Casa do Povo da Amieira do Tejo, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
+3.º A Associação Caça e Pesca de Amieira do Tejo e Arez, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 
-4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados da Associação Casa do Povo da Amieira do Tejo, com observância das regras legais e das suas normas estatutárias e regulamentares.
+4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados da Associação Caça e Pesca de Amieira do Tejo e Arez, com observância das regras legais e das suas normas estatutárias e regulamentares.
+
+> Alterado pelo/a [Portaria n.º 737/96](https://diariodarepublica.pt/dr/detalhe/portaria/737-1996-188738), publicado em 1996-12-12.
 
 5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.
 

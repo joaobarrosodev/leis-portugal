@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-06-30'
+version_history:
+  file: despacho-normativo-179-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-03-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-06-30'
+    amending: pt:dre:576688:por
+    amending_title: Declaração de Rectificação n.º 97/94
+    changes:
+    - Altera Artigo unidades 2-2
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/179/1994/03/22/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:12:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 97/94.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-179-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,7 +129,9 @@ validation:
 
 # Despacho Normativo n.º 179/94
 
-Considerando que em 7 de Abril de 1993 cessou a comissão de serviço Anabela Alves Pereira Lima Teixeira, à data chefe de divisão da ex-Direcção-Geral das Florestas;
+Considerando que em 7 de Abril de 1993 cessou a comissão de serviço Anabela Alves Ferreira Lima Teixeira, à data chefe de divisão da ex-Direcção-Geral das Florestas;
+
+> Alterado pelo/a [Declaração de Rectificação n.º 97/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/97-1994-576688), publicado em 1994-06-30.
 
 Considerando o disposto no artigo 3.º do [Decreto-Lei n.º 34/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1993-648134), de 13 de Fevereiro, e nos n.os 6 e 8 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:
 
