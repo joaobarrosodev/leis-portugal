@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:520043:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Aviso n.º 10590/2013): altera os artigos 14.º, 29.º e 33.º do Regulamento do PDM de Loulé, outro diploma — ignorado.",
+    "Alterador 2 (Aviso n.º 7430/2017), art. 3.º: revogações e renumerações no Regulamento do PDM de Loulé (outro diploma) — ignoradas; o n.º 7 diz expressamente que não revoga a suspensão aprovada pelo Decreto Regulamentar n.º 40/2007, pelo que o original fica igual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

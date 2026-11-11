@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:892988:por",
+  "substituicoes": [
+    {
+      "de": 19,
+      "ate": 19,
+      "texto": "Representante da Direcção-Geral dos Recursos Florestais:",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 20,
+      "texto": "Representante da Autoridade Florestal Nacional:\n\nRui Fernando Sameiro Santana Correia.\n\nRepresentante das associações de defesa do ambiente:\n\nManuel Emílio Moitas de Jesus.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 415/2006): altera a composição para 'Representante da Direcção-Geral dos Recursos Florestais: Rui Fernando Sameiro Santana Correia.'; substituída a unidade 19 (o representante do ICN passa a ser da DGRF, mesmo vogal).",
+    "Alterador 2 (Portaria 1060/2009, artigo único): nova redação do n.º 1.º; unidades 6 a 14 iguais, e as unidades 15 a 20 substituídas: sai o representante da Direcção Regional de Agricultura do Alentejo, Rui Correia passa a representante da Autoridade Florestal Nacional e segue-se o representante das associações de defesa do ambiente."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituições que se sobrepõem em 15-20"
+  ]
+}

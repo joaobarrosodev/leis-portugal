@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-06-24'
+version_history:
+  file: portaria-524-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-24'
+    amending: pt:dre:3594945:por
+    amending_title: Portaria n.º 638/2009
+    changes:
+    - Altera Artigo unidades 18-20
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:20:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 638/2009. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2009/portaria-524-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,11 +147,9 @@ António Bastos Teixeira.
 
 Representante da Autoridade Florestal Nacional:
 
-Luís Corte Real.
+Julieta Manuela Ribeiro Sampaio Calçada Duarte.
 
-Representante do Instituto da Conservação da Natureza:
-
-Cristina Maria Faria Alves da Costa.
+> Alterado pelo/a [Portaria n.º 638/2009](https://diariodarepublica.pt/dr/detalhe/portaria/638-2009-3594945), publicado em 2009-06-24.
 
 2.º Em caso de impedimento de qualquer dos vogais, pode o mesmo fazer-se representar por um substituto devidamente credenciado pela organização que representa.
 

@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:115668051:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O texto do original (Diretiva n.º 10/2018, manual MPGGS/MPIPE) só existe em imagem ('ver documento original'); não há unidades de texto onde aplicar as alterações. Alterador 1 (Diretiva 1/2019: pontos 4.1, 4.2 do Procedimento n.º 1, Parte III, revogação dos pontos 4.3 a 4.16, Partes IV e V), alterador 2 (Diretiva 4/2021: ponto 4 do Procedimento 13-A, com quadro em imagem), alterador 3 (Diretiva 13/2021: n.º 2 do Procedimento n.º 5 e quadro em imagem), alterador 4 (Diretiva 16/2021: Procedimentos 1, 4, 6, 21 e aditamento do 13-B, todos em anexo só em imagem), alterador 5 (Diretiva 13-A/2022, só em imagem), alterador 6 (Diretiva 20/2022: lista de Áreas de Balanço em imagem) e alterador 7 (Diretiva 8/2023, só em imagem) ficam por aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Diretiva 1/2019): nova redação do ponto 4.1 e 4.2 do Procedimento n.º 1, Parte III com a redação da Parte IV, revogação dos pontos 4.3 a 4.16, Partes IV e V - não aplicado: original só em imagem.",
+    "Alterador 2 (Diretiva 4/2021): nova redação do ponto 4 do Procedimento n.º 13-A - não aplicado: original só em imagem (e parte da nova redação em imagem).",
+    "Alterador 3 (Diretiva 13/2021): quadro e nova redação do n.º 2 do Procedimento n.º 5 - não aplicado: original só em imagem.",
+    "Alterador 4 (Diretiva 16/2021): alteração dos Procedimentos 1, 4, 6 e 21 e aditamento do 13-B pelo anexo I - não aplicado: original e anexo só em imagem.",
+    "Alterador 5 (Diretiva 13-A/2022): texto só em imagem - não aplicado.",
+    "Alterador 6 (Diretiva 20/2022): nova constituição da lista de Áreas de Balanço - não aplicado: lista só em imagem e original só em imagem.",
+    "Alterador 7 (Diretiva 8/2023): texto só em imagem - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

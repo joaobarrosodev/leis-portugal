@@ -1,0 +1,556 @@
+{
+  "id": "pt:dre:607118:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objectivo e âmbito de aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Composição",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Vinculação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Prazo de vigência",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Objectivo e domínios de intervenção",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Âmbito e estatuto de uso e ocupação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Âmbito e estatuto de uso e ocupação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Âmbito",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Estatuto de uso e ocupação do leito e margens dos cursos de água e zonas ameaçadas pelas cheias",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Estatuto de uso e ocupação da faixa de protecção à albufeira de Queimadela",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Âmbito",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Estatuto de uso e ocupação do perímetro de protecção à exploração da água de nascente da Lameirinha",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Estatuto de uso e ocupação dos depósitos minerais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Estatuto de uso e ocupação das massas minerais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Estatuto de uso e ocupação nas áreas de protecção aos imóveis classificados e em vias de classificação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Valores arqueológicos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Estatuto de uso e ocupação nas áreas arqueológicas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Classificação de conjuntos e imóveis de valor local",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Estatuto de uso e ocupação nos conjuntos e imóveis de valor local",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Estatuto de uso e ocupação dos adros das igrejas paroquiais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Rede primária do Plano Rodoviário Nacional",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Rede complementar do Plano Rodoviário Nacional",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Rede rodoviária municipal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Linha férrea",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Perímetros de protecção a captações de águas públicas subterrâneas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Estatuto de uso e ocupação nos perímetros de protecção próxima",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Estatuto de uso e ocupação nos perímetros de protecção à distância",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Redes de água e redes de esgoto",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Lixeira de Estorãos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Linhas eléctricas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Oficinas de pirotecnia",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Campo de tiro",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Instalações escolares, hospitalares, desportivas, administrativas e religiosas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Marcos geodésicos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Caracterização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Áreas da Reserva Agrícola Nacional",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Áreas agrícolas não incluídas na Reserva Agrícola Nacional",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Alterações de uso",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Caracterização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "Categorias de espaços",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "Floresta de protecção ecológica",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Floresta de protecção e ou produção de serviços",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "Floresta de reconversão condicionada",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "Floresta de produção de material lenhoso",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "Alterações de uso",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "Edificabilidade",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "Condicionamentos à edificabilidade",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "Prevenção contra incêndios",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "Caracterização e estatuto de uso e ocupação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "Rede viária local",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "Construção de vedações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "Construção para habitação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "Indicadores urbanísticos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "Condicionamentos à construção para habitação e anexos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "55.º",
+      "epigrafe": "Equipamentos de uso colectivo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "Estabelecimentos de comércio a retalho, hoteleiros e similares, de serviços e de escritórios",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "Âmbito",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "Instalação industrial no interior dos aglomerados",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "59.º",
+      "epigrafe": "Instalação industrial fora dos aglomerados",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "60.º",
+      "epigrafe": "Implementação de zonas industriais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "61.º",
+      "epigrafe": "Rede viária local",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "62.º",
+      "epigrafe": "Construção de vedações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "63.º",
+      "epigrafe": "Alinhamento das construções",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "Altura máxima das construções",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "65.º",
+      "epigrafe": "Estacionamento privado",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "66.º",
+      "epigrafe": "Indicadores urbanísticos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "67.º",
+      "epigrafe": "Condicionamentos ao lote e parcela",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "68.º",
+      "epigrafe": "Redes de infra-estruturas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "69.º",
+      "epigrafe": "Âmbito",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "70.º",
+      "epigrafe": "Condicionamentos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "71.º",
+      "epigrafe": "Interdições",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "72.º",
+      "epigrafe": "Edificabilidade",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "73.º",
+      "epigrafe": "Construção de vedações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "74.º",
+      "epigrafe": "Operações de loteamento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "75.º",
+      "epigrafe": "Construção de conjuntos e aldeamentos turísticos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "76.º",
+      "epigrafe": "Construção para habitação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "77.º",
+      "epigrafe": "Anexos à habitação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "78.º",
+      "epigrafe": "Estabelecimentos hoteleiros e similares",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "79.º",
+      "epigrafe": "Instalações agro-pecuárias",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "80.º",
+      "epigrafe": "Instalação industrial fora dos aglomerados",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "81.º",
+      "epigrafe": "Anexos à actividade agrícola, pecuária e florestal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "82.º",
+      "epigrafe": "Obras e instalações especiais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "83.º",
+      "epigrafe": "Hierarquia da rede viária",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "84.º",
+      "epigrafe": "Características técnicas da rede viária",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "85.º",
+      "epigrafe": "Construção de vedações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "86.º",
+      "epigrafe": "Construção para habitação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "87.º",
+      "epigrafe": "Anexos à actividade agrícola, pecuária e florestal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "88.º",
+      "epigrafe": "Outras construções isoladas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "89.º",
+      "epigrafe": "Ajustamento de limites entre espaços",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "90.º",
+      "epigrafe": "Parâmetros para o dimensionamento de áreas de cedência",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 2 (Aviso n.º 9327/2012): suspensão parcial do PDM na área de Fornelo e medidas preventivas por dois anos; não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1 (RCM n.º 13/99): nova redação dos artigos 7.º, 10.º, 25.º a 28.º, 37.º, 42.º, 46.º, 49.º a 54.º, 56.º a 60.º, 62.º a 64.º, 66.º a 68.º, 76.º e 83.º (excluído de ratificação o n.º 9 do artigo 7.º); fica sem efeito no texto final por causa da revogação total pelo alterador 3.",
+    "Alterador 2 (Aviso n.º 9327/2012): suspensão parcial; não textual, em nao_aplicavel.",
+    "Alterador 3 (Aviso n.º 10198/2015), artigo 120.º: revoga o PDM de Fafe ratificado pela RCM n.º 92/94; os artigos 1.º a 90.º do Regulamento ficam '(Revogado.)', com as epígrafes atuais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

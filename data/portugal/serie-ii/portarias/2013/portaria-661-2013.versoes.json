@@ -1,0 +1,118 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1095505:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2013-10-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f2976d5278037142",
+    "eed9ffa9b20f713a",
+    "1fb8209e0326138d",
+    "8cc1722c5901ce49",
+    "f33e0c81bb7f14af"
+   ]
+  },
+  {
+   "date": "2015-06-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67458304:por",
+     "title": "Portaria n.º 436/2015",
+     "published": "2015-06-11",
+     "dre_path": "/dr/detalhe/portaria/436-2015-67458304"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "f2976d5278037142",
+    "6520bb7c9b8f0c88",
+    "f86475d1ea5c622a",
+    "8324bf8131be178a",
+    "f33e0c81bb7f14af"
+   ]
+  }
+ ],
+ "fragments": {
+  "f2976d5278037142": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), encontra-se a desenvolver o sexto Inventário Florestal Nacional (IFN6), no âmbito do qual foi estabelecido um protocolo de cooperação com a Agência Portuguesa do Ambiente (APA), Fundo Português de Carbono. O IFN6 é um projeto fulcral para o cumprimento dos compromissos assumidos por Portugal no Protocolo de Quioto e na Convenção Quadro para as Alterações Climáticas.\n\nO ICNF, I. P., necessita de dar início a um procedimento pré-contratual, com a possibilidade de adjudicações por lotes, cujo objeto consiste na aquisição de serviços de recolha de dados biométricos no terreno, em parcelas de inventário para caraterização dos espaços florestais, no âmbito do IFN6;\n\nConsiderando que a contratualização a celebrar, pelo prazo de cinco meses e com o preço total máximo de 860 000 EUR, acrescido do imposto sobre o valor acrescentado (IVA) à taxa legal, terá uma execução plurianual, repartida por dois anos económicos;\n\nNos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, em vigor por força da alínea f) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, e nos do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, a assunção de compromissos plurianuais e a abertura de procedimentos relativos a despesas que deem lugar as encargos orçamentais em mais de um ano económico e não se encontrem excecionadas pelo mesmo preceito legal, não pode ser efetivada sem prévia autorização dos membros do Governo responsáveis pela área das finanças e da tutela.\n\nAssim:\n\nAo abrigo do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, manda o Governo, pelos Ministros de Estado e das Finanças e da Agricultura e do Mar, o seguinte:"
+  },
+  "eed9ffa9b20f713a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Autorização de abertura de procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Autorização de abertura de procedimento\n\nFica o Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), autorizado a proceder à abertura de procedimento para a aquisição de serviços de recolha de dados biométricos no terreno em parcelas de inventário para caraterização dos espaços florestais no âmbito do sexto Inventário Florestal Nacional (IFN6), bem como a assumir os compromissos plurianuais decorrentes, até ao montante de 860 000,00 EUR, a que acresce o imposto sobre o valor acrescentado (IVA), à taxa legal em vigor."
+  },
+  "1fb8209e0326138d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Encargos anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Encargos anuais\n\n1 - Os encargos orçamentados decorrentes da aquisição de serviços não podem exceder, em cada ano económico, os seguintes montantes, a que acresce IVA à taxa legal em vigor:\n\na) 2013: 215 000,00 EUR;\n\nb) 2014: 645.000,00 EUR.\n\n2 - O montante fixado para o ano económico de 2014 pode ser acrescido do saldo apurado no ano anterior."
+  },
+  "8cc1722c5901ce49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Enquadramento orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Enquadramento orçamental\n\nOs encargos emergentes da presente portaria são satisfeitos, em 2013, pela verba inscrita no orçamento do ICNF, I. P., na classificação económica D.02.02.20.C0.00, e no ano seguinte, por verbas adequadas a inscrever no respetivo orçamento, tendo a informação prévia do cabimento."
+  },
+  "f33e0c81bb7f14af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nA presente portaria produz efeitos a partir da data de assinatura.\n\n24 de setembro de 2013. - Pela Ministra da Agricultura e do Mar, Francisco Ramos Lopes Gomes da Silva, Secretário de Estado das Florestas e do Desenvolvimento Rural, em substituição. - O Secretário de Estado Adjunto e do Orçamento, Hélder Manuel Gomes dos Reis.\n\n207288051"
+  },
+  "6520bb7c9b8f0c88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Autorização de abertura de procedimento",
+   "in_force_from": "2015-06-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 436/2015](https://diariodarepublica.pt/dr/detalhe/portaria/436-2015-67458304), publicado em 2015-06-11."
+   ],
+   "markdown": "###### Artigo 1.º — Autorização de abertura de procedimento\n\nFica o Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.) autorizado a proceder à abertura de procedimento para a aquisição de serviços de recolha de dados biométricos no terreno em parcelas de inventário para caraterização dos espaços florestais no âmbito do sexto Inventário Florestal Nacional (IFN6), bem como a assumir os compromissos plurianuais decorrentes, até ao montante de 470 868,00 EUR, a que acresce o imposto sobre o valor acrescentado (IVA), à taxa legal em vigor.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 436/2015](https://diariodarepublica.pt/dr/detalhe/portaria/436-2015-67458304), publicado em 2015-06-11."
+  },
+  "f86475d1ea5c622a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Encargos anuais",
+   "in_force_from": "2015-06-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 436/2015](https://diariodarepublica.pt/dr/detalhe/portaria/436-2015-67458304), publicado em 2015-06-11."
+   ],
+   "markdown": "###### Artigo 2.º — Encargos anuais\n\nOs encargos orçamentados decorrentes da aquisição de serviços não podem exceder, no ano económico de 2015, o montante de 470 868,00 EUR, a que acresce IVA à taxa legal em vigor.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 436/2015](https://diariodarepublica.pt/dr/detalhe/portaria/436-2015-67458304), publicado em 2015-06-11."
+  },
+  "8324bf8131be178a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Enquadramento orçamental",
+   "in_force_from": "2015-06-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 436/2015](https://diariodarepublica.pt/dr/detalhe/portaria/436-2015-67458304), publicado em 2015-06-11."
+   ],
+   "markdown": "###### Artigo 3.º — Enquadramento orçamental\n\nOs encargos emergentes da presente portaria são satisfeitos, em 2015, pela verba inscrita no orçamento do ICNF, I. P., na classificação económica D.02.02.20.C0.00, tendo a informação prévia do cabimento.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 436/2015](https://diariodarepublica.pt/dr/detalhe/portaria/436-2015-67458304), publicado em 2015-06-11."
+  }
+ }
+}

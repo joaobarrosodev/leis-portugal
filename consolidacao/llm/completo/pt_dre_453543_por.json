@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:453543:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "1 - São criados, com a natureza de entidades públicas empresariais, os seguintes hospitais, constantes do anexo ao presente decreto-lei, do qual faz parte integrante:\n\na) (Revogada.)\n\nb) Hospitais da Universidade de Coimbra, E. P. E.;\n\nc) Centro Hospitalar Póvoa de Varzim/Vila do Conde, E. P. E.\n\n2 - São aprovados para as entidades públicas empresariais previstas no número anterior os estatutos, constantes do anexo ii do [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de Dezembro, e com as especificidades estatutárias que constam do anexo ao presente decreto-lei.\n\n3 - As unidades de saúde que dão origem às entidades públicas empresariais agora criadas consideram-se extintas para todos os efeitos legais, com dispensa de todas as formalidades legais.",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Capital estatutário",
+      "texto": "1 - O capital estatutário dos hospitais E. P. E. é detido pelo Estado e pode ser aumentado ou reduzido por despacho conjunto dos Ministros das Finanças e da Saúde, que constitui título bastante para todos os efeitos legais, incluindo os de registo.\n\n2 - O capital estatutário dos hospitais E. P. E. agora criados é o fixado no anexo ao presente decreto-lei, sendo as dotações em numerário subscritas e integralmente realizadas pelo Estado.\n\n3 - (Revogado.)\n\n4 - O capital estatutário dos Hospitais da Universidade de Coimbra, E. P. E., é constituído por uma dotação em numerário de (euro) 5 241 000.\n\n5 - O capital estatutário do Centro Hospitalar Póvoa de Varzim/Vila do Conde, E. P. E., é constituído por uma dotação em numerário de (euro) 1 753 000.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "A revogação do anexo na parte relativa ao Hospital de Faro, E.P.E. (DL 69/2013, art. 9.º, a)) não se aplica: o anexo não está no texto atual (só o título). O Despacho n.º 28828/2008 (cessação do serviço de urgência de Vila do Conde), o DL 30/2011 (fusão dos Hospitais da Universidade de Coimbra no CHUC) e o DL 102/2023 (reestruturação do Centro Hospitalar Póvoa de Varzim/Vila do Conde em ULS) não contêm instruções textuais dirigidas a este decreto-lei; as alterações e aditamentos do DL 102/2023 visam outros diplomas (DL 52/2022, 23/2019, 61/2022, 318/2009).",
+  "instrucoes": [
+    "Despacho 28828/2008: sem instrução textual dirigida ao original.",
+    "DL 30/2011: cria o CHUC por fusão dos HUC; sem instrução textual dirigida ao original.",
+    "DL 69/2013, art. 9.º, a): revogada a alínea a) do n.º 1 do art. 1.º ('a) (Revogada.)') e o n.º 3 do art. 3.º ('3 - (Revogado.)'); revogação parcial do anexo não aplicável.",
+    "DL 102/2023: reestrutura o CH Póvoa de Varzim/Vila do Conde em ULS e altera outros diplomas; nada aplicado ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

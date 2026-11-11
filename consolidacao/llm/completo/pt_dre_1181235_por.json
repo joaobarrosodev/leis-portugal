@@ -1,0 +1,56 @@
+{
+  "id": "pt:dre:1181235:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Âmbito pessoal",
+      "texto": "1 - São abrangidos pelo presente Regulamento os estudantes inscritos numa instituição de ensino superior:\n\na) Num ciclo de estudos de licenciatura;\n\nb) Num ciclo de estudos integrado de mestrado;\n\nc) Num ciclo de estudos de mestrado;\n\nd) Num curso de especialização tecnológica.\n\ne) Num Curso Técnico Superior Profissional.\n\n2 - Os ciclos de estudos e cursos a que se refere o número anterior são adiante designados cursos.",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Aproveitamento excepcional",
+      "texto": "Para os fins do presente Regulamento considera-se que teve aproveitamento excepcional o estudante que satisfaça, cumulativamente, as seguintes condições:\n\na) No ano letivo a que se refere a atribuição da bolsa, tenha obtido aprovação em todas as unidades curriculares que integram o plano de estudos do ano curricular;\n\nb) A média das classificações das unidades curriculares a que se refere a alínea a) não tenha sido inferior a Muito bom (16).",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Comunicação do número de bolsas a atribuir",
+      "texto": "1 - No prazo fixado nos termos do artigo 16.º, a Direção-Geral do Ensino Superior comunica a cada instituição de ensino superior o número máximo de bolsas de estudo por mérito que podem ser atribuídas nessa instituição, com base na informação estatística oficial fornecida pela Direção-Geral de Estatísticas da Educação e Ciência.\n\n2 - A informação a que se refere o número anterior é igualmente divulgada no sítio da Internet da Direcção-Geral do Ensino Superior.",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Atribuição das bolsas",
+      "texto": "3 - As bolsas de estudo por mérito são atribuídas anualmente, por cada instituição de ensino superior, aos que, no ano letivo a que diz respeito a atribuição da bolsa, nela tenham tido aproveitamento excecional, até ao limite fixado no artigo 7.º",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Comunicação das bolsas atribuídas",
+      "texto": "No prazo fixado nos termos do artigo 16.º, cada instituição de ensino superior remete à Direcção-Geral do Ensino Superior:\n\na) A lista dos estudantes a quem foi atribuída a bolsa de estudo por mérito, indicando, para cada um:\n\ni) O nome;\n\nii) A unidade orgânica (se for caso disso), o curso e ano curricular em que se estava inscrito e a média a que se refere a alínea b) do artigo 5.º;\n\niii) O endereço de correio electrónico;\n\niv) O número internacional de conta bancária (IBAN) necessário ao processamento da transferência bancária.\n\nb) Um relatório sumário do processo de atribuição.",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Transferência da verba",
+      "texto": "No prazo fixado nos termos do artigo 16.º, a Direção-Geral do Ensino Superior procede ao pagamento da bolsa de mérito, diretamente ao estudante, através de transferência bancária para a conta com o número internacional de conta bancária (IBAN) indicada por este.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, art. 1.º: art. 3.º, aditada a alínea e) ao n.º 1. Aplicado.",
+    "Art. 5.º: nova alínea a); o corpo e a alínea b) mantêm-se. Aplicado.",
+    "Art. 8.º: novo n.º 1; o n.º 2 mantém-se. Aplicado.",
+    "Art. 9.º: a nova redação vem como '... / 3 - As bolsas...', mas o artigo atual tem um só parágrafo, sem números, que o novo texto substitui. Pus o novo texto letra a letra, com o '3 - ' do alterador.",
+    "Art. 11.º: a nova redação usa as alíneas c) e d) com a subalínea iv) nova, mas o artigo atual só tem as alíneas a) (com i) a iii)) e b). Apliquei como aditamento da subalínea iv) à alínea a); o resto mantém-se.",
+    "Art. 13.º: corpo novo; epígrafe mantida ([...]). Aplicado.",
+    "Alt. 1, art. 2.º: entrada em vigor; não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

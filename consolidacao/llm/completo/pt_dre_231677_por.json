@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:231677:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (Deliberação n.º 1572/2008, Regulamento do PUVSC), artigo 58.º, n.º 1: altera os limites do Plano de Pormenor da Quinta do Mosteiro (RCM n.º 25/98), que passam a ser os constantes da planta de zonamento do PUVSC. É uma alteração gráfica (da área de intervenção na planta), não textual: nenhum artigo do regulamento é alterado. O artigo 5.º do PUVSC apenas refere o Plano de Pormenor como instrumento a observar.",
+  "instrucoes": [
+    "Alterador 1, art. 5.º: menção ao Plano de Pormenor como instrumento de gestão territorial a observar; não altera o texto; nada feito.",
+    "Alterador 1, art. 58.º, n.º 1: alteração dos limites do Plano de Pormenor para os da planta de zonamento do PUVSC; alteração cartográfica, não textual; em nao_aplicavel.",
+    "Alterador 1, art. 58.º, n.º 2: revogação do PDM (RCM n.º 85/95), outro diploma; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:2539140:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "Divisão dos Assuntos Multilaterais Económicos e Financeiros do Desenvolvimento, do Desenvolvimento Sustentável, das Migrações, da Agricultura, da Saúde e do Trabalho.",
+      "texto": "À Divisão dos Assuntos Multilaterais Económicos e Financeiros do Desenvolvimento, do Desenvolvimento Sustentável, da Agricultura, da Saúde e do Trabalho compete:\n\na) A coordenação geral do Conselho Económico e Social das Nações Unidas (ECOSOC), da 2.ª Comissão da AGNU, da UNCTAD, das Comissões Económicas Regionais, e da Comissão de População e Desenvolvimento;\n\nb) Analisar e acompanhar, no plano multilateral, as questões económicas e financeiras do âmbito das organizações e dos fóruns financeiros internacionais, incluindo o Banco Mundial, o Fundo Monetário Internacional, o G-7, o G-20 e os bancos multilaterais de desenvolvimento;\n\nc) Analisar e acompanhar, no plano multilateral, os temas da área do desenvolvimento sustentável, do ambiente, das alterações climáticas, da desertificação e da biodiversidade, em particular no âmbito das Nações Unidas, das migrações, das suas agências especializadas e programas;\n\nd) Analisar e acompanhar as questões da Organização Internacional para as Migrações e do Compacto Global das Migrações;\n\ne) Acompanhar as organizações internacionais que operam no âmbito da agricultura, da segurança alimentar, do desenvolvimento rural, das florestas, principalmente a Organização das Nações Unidas para a Agricultura e Alimentação (FAO) e o Fórum das Nações Unidas paras as Florestas (FNUF);\n\nf) Analisar e acompanhar as questões da Organização Internacional do Trabalho;\n\ng) Analisar e acompanhar as questões da Organização Mundial de Saúde e do Programa ONU/SIDA;\n\nh) Proceder à negociação e participar no processo de conclusão ou denúncia de tratados e convenções que respeitem à sua área de competência, sem prejuízo das competências que caibam a outros serviços;\n\ni) Apoiar as candidaturas e a participação de nacionais portugueses nos organismos internacionais na sua área de competência.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Despacho 3019/2015), n.º 1: nova redação do art. 10.º; substituída depois pelo alterador 2.",
+    "Alterador 1, n.º 2: nova redação do art. 11.º; é a redação atual, substituída depois pelo alterador 2.",
+    "Alterador 2 (Despacho 10964/2018), n.os 1 e 2: nova redação das alíneas i) e j) do art. 1.º; já aplicadas no texto atual.",
+    "Alterador 2, n.º 3: nova redação do art. 10.º; já aplicada no texto atual.",
+    "Alterador 2, n.º 4: nova redação do art. 11.º (epígrafe, proémio e alíneas a) a i)); o texto atual tinha ficado na redação de 2015; aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

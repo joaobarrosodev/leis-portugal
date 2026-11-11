@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:319908:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "2) Universidade Católica Portuguesa, autorizada, pelo despacho ministerial n.º 5285/2003, de 7 de Março, a criar um centro de âmbito nacional e com carácter geral, substituindo na sua titularidade o Centro de Estudos Aplicados, da Faculdade de Ciências Humanas, na sequência do despacho ministerial n.º 30/87, de 9 de Março, ficando sediado na Universidade Católica, Palma de Cima, 1649-023 Lisboa.",
+      "alterador": 3
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "9) Associação de Arbitragem Voluntária de Litígios do Sector Automóvel, autorizada, pelo despacho ministerial n.º 532/99, de 23 de Dezembro de 1998, a criar um centro de arbitragem de carácter especializado e de âmbito nacional, tendo como objectivo a resolução de litígios ocorridos em território nacional relativos à assistência, manutenção e reparação automóvel, à revenda de combustíveis, óleos e lubrificantes, à compra e venda de peças, órgãos ou quaisquer outros materiais destinados a serem aplicados em veículos automóveis e à compra e venda de veículos automóveis novos ou usados.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Despacho n.º 3637/2018 (alterador 4) autoriza a alteração da designação e da competência em razão do valor do centro do Vale do Ave, mas não dá nova redação ao n.º 17) da portaria: não é alteração textual.",
+  "instrucoes": [
+    "Portaria n.º 350/2001: nova redação do n.º 9) do n.º 1.º (unidade 17) — aplicada, mas substituída depois pela redação da Portaria n.º 1516/2002; devolve-se só a redação final.",
+    "Portaria n.º 1516/2002: nova redação do n.º 9) do n.º 1.º — unidade 17 substituída, mantendo o número 9).",
+    "Portaria n.º 709/2003: nova redação da alínea 2) do n.º 1.º — unidade 10 substituída, mantendo o número 2).",
+    "Despacho n.º 3637/2018: autorização de mudança de designação e competência do centro do Vale do Ave — sem nova redação, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 10-10: parágrafo que não está no alterador nem no original: 2) Universidade Católica Portuguesa, autorizada, pelo despacho ministerial n.º 5",
+    "substituição 17-17: parágrafo que não está no alterador nem no original: 9) Associação de Arbitragem Voluntária de Litígios do Sector Automóvel, autoriza"
+  ]
+}

@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-06-03'
+version_history:
+  file: portaria-83-a-2014.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2014-02-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-06-03'
+    amending: pt:dre:25681477:por
+    amending_title: Portaria n.º 486-A/2014; Portaria n.º 331/2015
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:43:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 486-A/2014; Portaria
+    n.º 331/2015. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2014/portaria-83-a-2014.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,13 +145,17 @@ Manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento, ao abrigo d
 
 ###### Artigo 1.º
 
-Fica autorizada a Autoridade Tributária e Aduaneira (AT) a assumir os encargos orçamentais decorrentes da contratação em causa, que não poderão, em cada ano económico, exceder as seguintes importâncias:
+Fica autorizada a Autoridade Tributária e Aduaneira (AT) a assumir os encargos orçamentais decorrentes da aquisição centralizada de equipamentos de cópia e impressão, com a respetiva assistência técnica e consumíveis de impressão, que não poderão, em cada ano económico, exceder as seguintes importâncias:
 
-[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/02/024000002/0000400004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/06/107000000/1425514255.pdf)
+
+> Alterado pelo/a [Portaria n.º 331/2015](https://diariodarepublica.pt/dr/detalhe/portaria/331-2015-67377735), publicado em 2015-06-03.
 
 ###### Artigo 2.º
 
-As importâncias fixadas para o ano económico de 2015 poderão ser acrescidas do saldo que se apurar na execução orçamental do ano anterior.
+A importância fixada para cada ano económico poderá ser acrescida do saldo apurado nos anos económicos anteriores.
+
+> Alterado pelo/a [Portaria n.º 486-A/2014](https://diariodarepublica.pt/dr/detalhe/portaria/486-a-2014-25681477), publicado em 2014-06-23.
 
 ###### Artigo 3.º
 

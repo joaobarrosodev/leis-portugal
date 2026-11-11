@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2016-11-10'
+version_history:
+  file: portaria-829-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-10-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-11-10'
+    amending: pt:dre:70510006:por
+    amending_title: Portaria n.º 781/2015; Portaria n.º 391/2016
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:15:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 781/2015; Portaria n.º
+    391/2016. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2008/portaria-829-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,9 +145,13 @@ Ao abrigo do disposto nos artigos 41.º, n.º 1, e 44.º, n.º 1 e alínea d) do
 
 Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
-1.º Autorizar o Chefe do Estado-Maior-General das Forças Armadas, com vista à participação portuguesa na UNAMA, no Afeganistão, a aprontar e empregar uma missão militar, constituída por um oficial superior, a qual ficará colocada na sua dependência directa.
+1.º Autorizar o Chefe do Estado-Maior-General das Forças Armadas a empregar e a sustentar, como contributo de Portugal para a United Nations Assistance Mission in Afghanistan (UNAMA), um efetivo de dois oficiais superiores para exercer funções no quartel-general da missão, no Afeganistão.
 
-2.º A duração da missão será de um ano.
+> Alterado pelo/a [Portaria n.º 391/2016](https://diariodarepublica.pt/dr/detalhe/portaria/391-2016-75702038), publicado em 2016-11-10.
+
+2.º A duração da missão será de um ano, automaticamente renovável por iguais períodos, até se manter o interesse do Estado português de nela participar.
+
+> Alterado pelo/a [Portaria n.º 781/2015](https://diariodarepublica.pt/dr/detalhe/portaria/781-2015-70510006), publicado em 2015-10-13.
 
 3.º De acordo com o n.º 5 da [Portaria n.º 87/99](https://diariodarepublica.pt/dr/detalhe/portaria/87-1999-184957) (2.ª série), de 30 de Dezembro de 1998, publicada no Diário da República, 2.ª série, n.º 23, de 28 de Janeiro de 1999, o militar que integra o contingente nacional desempenha funções em país da classe C.
 

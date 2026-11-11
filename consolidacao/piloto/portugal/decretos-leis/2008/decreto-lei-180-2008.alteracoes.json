@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Objecto\n\n1 - São criados, com a natureza de entidades públicas empresariais, os seguintes hospitais, constantes do anexo ao presente decreto-lei, do qual faz parte integrante:\n\na) Hospital de Faro, E. P. E.;\n\nb) Hospitais da Universidade de Coimbra, E. P. E.;\n\nc) Centro Hospitalar Póvoa de Varzim/Vila do Conde, E. P. E.\n\n2 - São aprovados para as entidades públicas empresariais previstas no número anterior os estatutos, constantes do anexo ii do [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de Dezembro, e com as especificidades estatutárias que constam do anexo ao presente decreto-lei.\n\n3 - As unidades de saúde que dão origem às entidades públicas empresariais agora criadas consideram-se extintas para todos os efeitos legais, com dispensa de todas as formalidades legais.",
+    "depois": "###### Artigo 1.º — Objecto\n\n1 - São criados, com a natureza de entidades públicas empresariais, os seguintes hospitais, constantes do anexo ao presente decreto-lei, do qual faz parte integrante:\n\na) (Revogada.)\n\nb) Hospitais da Universidade de Coimbra, E. P. E.;\n\nc) Centro Hospitalar Póvoa de Varzim/Vila do Conde, E. P. E.\n\n2 - São aprovados para as entidades públicas empresariais previstas no número anterior os estatutos, constantes do anexo ii do [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de Dezembro, e com as especificidades estatutárias que constam do anexo ao presente decreto-lei.\n\n3 - As unidades de saúde que dão origem às entidades públicas empresariais agora criadas consideram-se extintas para todos os efeitos legais, com dispensa de todas as formalidades legais.\n\n> Alterado pelo/a [Decreto-Lei n.º 69/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2013-261078), publicado em 2013-05-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453543:por",
+    "alterador": "pt:dre:261078:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Capital estatutário\n\n1 - O capital estatutário dos hospitais E. P. E. é detido pelo Estado e pode ser aumentado ou reduzido por despacho conjunto dos Ministros das Finanças e da Saúde, que constitui título bastante para todos os efeitos legais, incluindo os de registo.\n\n2 - O capital estatutário dos hospitais E. P. E. agora criados é o fixado no anexo ao presente decreto-lei, sendo as dotações em numerário subscritas e integralmente realizadas pelo Estado.\n\n3 - O capital estatutário do Hospital de Faro, E. P. E., é constituído por uma dotação em numerário de (euro) 4 672 000.\n\n4 - O capital estatutário dos Hospitais da Universidade de Coimbra, E. P. E., é constituído por uma dotação em numerário de (euro) 5 241 000.\n\n5 - O capital estatutário do Centro Hospitalar Póvoa de Varzim/Vila do Conde, E. P. E., é constituído por uma dotação em numerário de (euro) 1 753 000.",
+    "depois": "###### Artigo 3.º — Capital estatutário\n\n1 - O capital estatutário dos hospitais E. P. E. é detido pelo Estado e pode ser aumentado ou reduzido por despacho conjunto dos Ministros das Finanças e da Saúde, que constitui título bastante para todos os efeitos legais, incluindo os de registo.\n\n2 - O capital estatutário dos hospitais E. P. E. agora criados é o fixado no anexo ao presente decreto-lei, sendo as dotações em numerário subscritas e integralmente realizadas pelo Estado.\n\n3 - (Revogado.)\n\n4 - O capital estatutário dos Hospitais da Universidade de Coimbra, E. P. E., é constituído por uma dotação em numerário de (euro) 5 241 000.\n\n5 - O capital estatutário do Centro Hospitalar Póvoa de Varzim/Vila do Conde, E. P. E., é constituído por uma dotação em numerário de (euro) 1 753 000.\n\n> Alterado pelo/a [Decreto-Lei n.º 69/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2013-261078), publicado em 2013-05-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453543:por",
+    "alterador": "pt:dre:261078:por"
+  }
+]

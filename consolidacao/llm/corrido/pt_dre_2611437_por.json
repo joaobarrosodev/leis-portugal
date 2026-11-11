@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:2611437:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "4 - A inclusão de medicamentos no presente regime especial de comparticipação depende de requerimentos dos seus titulares de autorização de introdução no mercado, nos termos definidos no regime geral das comparticipações do Estado no preço dos medicamentos, aprovado em anexo ao [Decreto-Lei n.º 48-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-a-2010-227779), de 13 de maio.",
+      "alterador": 4
+    },
+    {
+      "de": 12,
+      "ate": 79,
+      "texto": "São comparticipados pelo escalão B, os medicamentos contendo as seguintes substâncias ativas, destinadas ao tratamento da infertilidade, em especial os da procriação medicamente assistida, devendo o médico prescritor fazer na receita menção expressa do presente despacho:\n\nGrupos e subgrupos farmacoterapêuticos\n\nAntagonistas hipofisários\n\nCetrorrelix\n\nGanirrelix\n\nEstimulantes da ovulação e gonadotropinas\n\nCorifolitropina alfa\n\nFolitropina alfa\n\nFolitropina alfa + Lutropina alfa\n\nFolitropina beta\n\nGonadotropina coriónica\n\nLutropina alfa\n\nMenotropina\n\nUrofolitropina\n\nAnálogos da hormona libertadora de gonadotropina\n\nGoserrelina Triptorrelina",
+      "alterador": 5
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Despacho n.º 15443/2009) dá nova redação ao anexo (lista de medicamentos): substituída depois por inteiro pelos alteradores 2, 3, 4 e 5; não fica nada dela no texto final.",
+    "Alterador 2 (Despacho n.º 5643/2010) dá nova redação ao anexo: substituída depois pelos alteradores 3, 4 e 5.",
+    "Alterador 3 (Despacho n.º 8905/2010) dá nova redação ao anexo: substituída depois pelos alteradores 4 e 5.",
+    "Alterador 4 (Despacho n.º 13796/2012), n.º 1: nova redação do n.º 4 do despacho; aplicada à unidade 8.",
+    "Alterador 4, n.º 2: nova redação do anexo (grupos e subgrupos): substituída depois pelo alterador 5.",
+    "Alterador 5 (Despacho n.º 56/2014): nova redação do anexo; aplicada às unidades 12 a 79 (corpo do anexo), mantendo a epígrafe ANEXO da unidade 11; 'Goserrelina Triptorrelina' copiado tal como vem, num só parágrafo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

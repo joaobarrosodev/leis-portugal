@@ -38,10 +38,40 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-07-29'
+version_history:
+  file: resolucao-conselho-ministros-4-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-01-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-29'
+    amending: pt:dre:559024:por
+    amending_title: Resolução do Conselho de Ministros n.º 106/99; Aviso n.º 8690/2014
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 44.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/4/1994/01/19/p/dre/pt/html
@@ -67,7 +97,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:02:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 106/99; Aviso n.º 8690/2014. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1994/resolucao-conselho-ministros-4-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -369,13 +400,33 @@ Sótãos não habitáveis;
 
 m) «Densidade bruta», quociente entre o número de fogos, ou habitantes, e a área total do terreno onde estes se localizam, nela se incluindo os espaços verdes públicos e de utilização colectiva, infra-estruturas, designadamente arruamentos viários e pedonais, e os espaços destinados a equipamentos;
 
-n) «Índice de construção bruta», quociente entre a área total de pavimentos e a área total do terreno onde se localizam as construções, nela se incluindo os espaços verdes públicos e de utilização colectiva, infra-estruturas, designadamente arruamentos viários e pedonais, e os espaços destinados a equipamentos;
+n) «CAS», coeficiente de afectação do solo, é o quociente entre a área total de implantação e a área urbanizável;
 
-o) «Índice de implantação líquido», relação entra a área de implantação da construção e a área total do terreno que lhe está afecta indicada em termos de percentagem;
+o) «COS», coeficiente de ocupação do solo, é o quociente entre a área total de construção e a área urbanizável;
 
-p) «Índice de ocupação volumétrico (m3/m2) ou índice volumétrico», relação entre o volume da construção acima do solo e a área do terreno, que lhe está afecta.
+p) «CIS», coeficiente de impermeabilização do solo, é o quociente entre a área total de impermeabilização e a área urbanizável;
+
+q) «Índice de ocupação volumétrico (m3/m2) ou índice volumétrico», relação entre o volume da construção acima do solo e a área do terreno que lhe está afecta;
+
+r) «Número de pisos», número de pisos acima da cota média do terreno. Os pisos totalmente em cave não são contabilizados para o número total de pisos;
+
+s) «Implantação máxima», quociente entre a área total de implantação e a área do terreno;
+
+t) «Construção máxima», quociente entre a área máxima de construção e a área do terreno;
+
+u) «Impermeabilização máxima», quociente entre a área total de impermeabilização e a área total do terreno;
+
+v) «Área total do terreno (AT)», área global que se considera em qualquer apreciação de carácter urbanístico e que consta da descrição matricial;
+
+x) «Área urbanizável (AU)», área de parte ou da totalidade de um ou mais prédios a infra-estrutura, ou susceptível de ocupação para efeitos de construção, excluindo, designadamente, as áreas da RAN e da REN;
+
+y) «Área total de construção (ATC)», somatório das áreas brutas de todos os pisos dos edifícios, acima e abaixo do solo, excluindo as garagens, quando situadas totalmente em cave, superfícies de serviços técnicos (postos de transformação, central térmica, central de bombagem) e galerias exteriores públicas, arruamentos ou outros espaços livres de uso público, cobertos pela edificação;
+
+z) «Área total de implantação (ATI)», somatório das áreas resultantes da projecção horizontal de todos os edifícios sobre o terreno, excluindo varandas e platibandas.
 
 2 - Os parâmetros e índices urbanísticos aplicam-se às áreas ou parcelas dos espaços urbanos, dos espaços urbanizáveis e zonas de ocupação turística, depois de descontadas as áreas de condicionantes de outra natureza.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
 
 ### CAPÍTULO II — Condicionamentos, restrições e servidões
 
@@ -423,35 +474,43 @@ Albufeira e faixa de protecção.
 
 1 - O património protegido existente na área do município é o seguinte:
 
-a) Valor concelhio:
+a) Interesse público:
 
-Convento de Nossa Senhora do Desterro - determinada classificação por despacho do Secretário de Estado da Cultura de 6 de Julho de 1981;
+Araucaria heterophylla (salisbury Franco), na Quinta do Viador;
 
-Plátano no barranco dos Pisões - classificado pelo Diário do Governo, 2.ª série, n.º 105, de 8 de Maio de 1947;
+Araucaria heterophylla, na Quinta da Vila;
 
-Magnólia no Convento de Nossa Senhora do Desterro - classificada pelo Diário do Governo, 2.ª série, n.º 105, de 8 de Maio de 1947.
+Quercus canariensis Willd, situado na EN 267, Monchique-Alferce;
 
-2 - O património que a seguir se enumera, em vias de classificação, fica sujeito às disposições gerais constantes da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho, designadamente ao disposto no seu artigo 14.º:
+Alameda de 17 Platanus hybrida Brot, situada na EN 266, no lugar do Pé da Cruz.
 
-Igreja matriz, em Monchique;
+(Foram todos classificados pelo Diário do Governo, 2.ª série, n.º 190, de 14 de Agosto de 1993.)
 
-Araucária, Quinta das Laranjeiras;
+Quercus canariensis Willd, no Pomar Velho, ou Porto Escuro (Diário da República, 2.ª série, n.º 129, de 5 de Junho de 1997);
 
-Araucária, Quinta do Viador;
+Magnólia junto ao Convento de Nossa Senhora do Desterro (Diário do Governo, 2.ª série, n.º 105, de 8 de Maio de 1947);
 
-Conjunto de plátanos, Pontão das Seixas.
+Plátano no Barranco dos Pisões (classificado pelo Diário do Governo, 2.ª série, n.º 105, de 8 de Maio de 1947);
+
+b) Valor concelhio:
+
+Convento de Nossa Senhora do Desterro (determinada classificação por despacho do Secretário de Estado da Cultura de 6 de Julho de 1981).
+
+2 - O património que a seguir se enumera, em vias de classificação como imóvel de interesse público, fica sujeito às disposições gerais constantes da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho, designadamente no disposto no seu artigo 14.º, do [Decreto-Lei n.º 205/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1988-372201), de 16 de Junho, e do [Decreto-Lei n.º 106-F/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-f-1992-410287), de 1 de Junho:
+
+Igreja matriz, em Monchique.
 
 3 - Os valores arqueológicos conhecidos ou que vierem a ser encontrados regem-se pelo disposto na [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874).
 
 4 - Zonas de protecção:
 
-a) Nas zonas de protecção não é permitido executar quaisquer obras de demolição, instalação, construção ou reconstrução em edifícios ou terrenos sem a prévia autorização do IPPAAR.
-
-Igual autorização é necessária para a criação ou transformação de zonas verdes por aquelas abrangidas, bem como para quaisquer movimentos de terras ou dragagens.
+a) Nas zonas de protecção não é permitido executar quaisquer obras de demolição, instalação, construção ou reconstrução em edifícios ou terrenos sem prévia autorização do Instituto Português do Património Arquitectónico (IPPAR) e da Direcção-Geral das Florestas (DGF). Igual autorização é necessária para a criação ou transformação de zonas verdes por aquelas abrangidas, bem como para quaisquer movimentos de terras ou dragagens;
 
 b) Na fase de instrução do processo de classificação de um imóvel, os terrenos ou edifícios localizados na respectiva zona de protecção não podem ser alienados, demolidos, expropriados, restaurados ou transformados sem autorização expressa da entidade competente para o efeito.
 
 c) Nas zonas de protecção de imóveis classificados, os projectos de construção ou reconstrução só poderão ser subscritos por arquitectos.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
 
 ###### Artigo 11.º — Condicionamentos decorrentes da protecção de infra-estruturas e equipamentos
 
@@ -525,13 +584,13 @@ Depósitos enterrados de hidrocarbonetos líquidos e de resíduos tóxicos.
 
 A partir de 1000 m de raio - sem condicionamentos.
 
-3 - Os perímetros de protecção a captações subterrâneas são de dois tipos:
+4 - Os perímetros de protecção a captações subterrâneas são de dois tipos:
 
-a) Perímetros de protecção próxima, um raio de 20 m em torno da captação;
+a) Perímetros de protecção próxima, num raio de 20 m em torno da captação;
 
 b) Perímetros de protecção à distância, num raio de 100 m em torno da captação.
 
-3.1 - Nos perímetros de protecção próxima não devem existir:
+4.1 - Nos perímetros de protecção próxima não devem existir:
 
 a) Depressões onde se possam acumular águas pluviais;
 
@@ -547,7 +606,7 @@ f) Culturas adubadas, estrumadas ou regadas;
 
 g) Outras captações.
 
-3.2 - Nos perímetros de protecção à distância não devem existir:
+4.2 - Nos perímetros de protecção à distância não devem existir:
 
 a) Sumidouros de águas negras abertas na camada aquífera captada;
 
@@ -557,15 +616,21 @@ c) Rega com águas negras;
 
 d) A menos que providos de esgoto distante ou tratamento completo:
 
-Nitreiros, currais, estábulos, matadouros, etc.;
+Nitreiras, currais, estábulos, matadouros, etc.;
 
 Instalações sanitárias;
 
 Indústrias com efluentes poluentes.
 
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
+
 ###### Artigo 13.º — Água mineral das Caldas de Monchique
 
 A área concessionada de exploração tem uma superfície de 50 ha, conforme o articulado no Diário da República, 3.ª série, n.º 253, de 28 de Outubro de 1963.
+
+A [Portaria n.º 318/94](https://diariodarepublica.pt/dr/detalhe/portaria/318-1994-301223), de 26 de Maio, fixa o perímetro de protecção da água mineral natural HN-6, denominada «Caldas de Monchique».
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
 
 ###### Artigo 14.º — Servidões militares
 
@@ -677,6 +742,44 @@ d) Em caso algum se verifique a descarga directa de águas residuais nas linhas 
 
 4 - Nas cabeceiras dos cursos de água e em áreas em risco de erosão, são permitidas acções de florestação.
 
+5 - Nas áreas fora da REN os índices para a recuperação, reconstrução, alteração e ampliação de edifícios existentes destinados à habitação, equipamentos, comércio, turismo rural, agro-turismo e turismo de habitação são os seguintes:
+
+5.1 - Para edifícios destinados a equipamentos, turismo rural, agro-turismo ou turismo de habitação:
+
+a) Não seja ultrapassado o máximo de dois pisos ou 7 m de cércea;
+
+b) Sejam mantidas as características arquitectónicas e construtivas existentes;
+
+c) No caso das ampliações, o aumento da superfície do 1.º piso ou rés-do-chão não deverá exceder 250 m2 de implantação e o 2.º piso 60% da área do 1.º piso ou rés-do-chão;
+
+5.2 - Para edifícios destinados a habitação:
+
+a) Não seja ultrapassado o máximo de dois pisos ou 7 m de cércea;
+
+b) Sejam mantidas as características arquitectónicas e construtivas existentes;
+
+c) No caso de ampliações, a superfície total de construção não deverá exceder 300 m2, nos casos de dois pisos, e o 2.º piso ou o 1.º andar não deverá ultrapassar 40% do 1.º piso ou rés-do-chão;
+
+d) No caso de se pretender um armazém como apoio à actividade do requerente, este não deverá ser superior a 50 m2 nem afastar-se da habitação mais de 20 m;
+
+e) Nos casos de armazéns existentes com área superior, não podem ser aumentados;
+
+f) As garagens devem ser contíguas à habitação. Nos casos de impossibilidade, não devem afastar-se mais de 10 m destas;
+
+5.3 - Para edifícios destinados a comércio:
+
+a) É permitido somente um piso;
+
+b) Sejam mantidas as características arquitectónicas e construtivas existentes;
+
+c) A superfície de pavimento poderá ser acrescida, desde que o total não exceda 50 m2;
+
+d) No caso de o edifício já possuir área superior, não poderá ser aumentado;
+
+5.4 - Todos os efluentes domésticos serão obrigatoriamente ligados à rede pública ou a sistemas autónomos individuais.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
+
 ###### Artigo 24.º — Espaços naturais de grau II
 
 1 - Correspondem às áreas de protecção das albufeiras da Bravura e de Odelouca - área da faixa de 500 m contados a partir do NPA.
@@ -699,7 +802,7 @@ d) Novas construções quando não se trate de construção, alteração ou ampl
 
 a) Em nenhum caso é permitida a descarga directa de águas residuais nas linhas de água e de drenagem natural;
 
-b) Todos os efluentes domésticos serão obrigatoriamente ligados à rede pública ou objecto de tratamento completo em instalação própria;
+b) Todos os efluentes domésticos serão obrigatoriamente ligados à rede pública ou sistemas autónomos individuais;
 
 c) O licenciamento de novas actividades nesta área carece de apresentação prévia do projecto das instalações de tratamento de efluentes, referidas na alínea anterior.
 
@@ -711,9 +814,9 @@ a) A rede viária deve ser hierarquizada, não sendo os caminhos de peões reves
 
 b) Os edifícios e infra-estruturas deverão ser enquadrados correctamente na paisagem e respeitarão a topografia, rede de drenagem e coberto vegetal;
 
-c) A rede eléctrica deverá privilegiar o abastecimento mediante a implantação de cabos subterrâneos;
+c) A rede eléctrica deverá, sempre que possível, privilegiar o abastecimento mediante a implantação de cabos subterrâneos;
 
-d) O abastecimento domiciliário de água deverá recorrer às redes e não às captações de carácter individual;
+d) O abastecimento domiciliário de água deverá prever sistema autónomo individual de acordo com a legislação em vigor, com possibilidade no futuro de ligação à rede;
 
 e) No arranjo dos espaços exteriores deverá optar-se por espécies clímace.
 
@@ -724,6 +827,16 @@ a) São interditas alterações ao carácter fisiográfico das margens da albufe
 b) É interdito o acesso e o estacionamento automóvel, à excepção de veículos de emergência;
 
 c) Altura máxima das construções dos equipamentos de apoio e infra-estruturas - 4 m.
+
+6 - Nas áreas fora da REN os índices para a recuperação, reconstrução, alteração e ampliação de edifícios existentes destinados à habitação, equipamentos, comércio, turismo rural, agro-turismo e turismo de habitação são os seguintes:
+
+6.1 - Para edifícios destinados a turismo rural, agro-turismo, turismo de habitação ou equipamentos, deverá ser cumprido o estipulado no artigo 23.º, n.os 5 e 5.1;
+
+6.2 - Para edifícios destinados a habitação, deverá ser cumprido o estipulado no artigo 23.º, n.os 5 e 5.2;
+
+6.3 - Para edifícios destinados a comércio, deverá ser cumprido o estipulado no artigo 23.º, n.os 5 e 5.3.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
 
 ### CAPÍTULO IV — Espaços agrícolas
 
@@ -737,9 +850,9 @@ c) Altura máxima das construções dos equipamentos de apoio e infra-estruturas
 
 ###### Artigo 26.º
 
-1 - As áreas florestais correspondem às identificadas como tal na carta de ordenamento e às áreas que virão a ser florestadas com parecer favorável do Instituto de Gestão Florestal, sendo a sua gestão disciplinada pela legislação especial em vigor.
+1 - As áreas florestais correspondem às identificadas como tal na carta de ordenamento e às áreas que virão a ser florestadas com parecer favorável da Direcção-Geral das Florestas, sendo a sua gestão disciplinada pela legislação especial em vigor.
 
-2 - Sem prejuízo das relações de vizinhança e de compatibilidade entre si, são permitidas instalações pecuárias, equipamento turístico e infra-estruturas na área florestal de produção, desde que não colidam com áreas da REN e satisfaçam as seguintes disposições:
+2 - Sem prejuízo das relações de vizinhança e de compatibilidade entre si, são permitidas instalações pecuárias, legalização de instalações pecuárias existentes, equipamentos, serviços, unidades hoteleiras, construções ao abrigo do n.º 2 do artigo 39.º, ampliações, reconstruções, recuperações, alterações e infra-estruturas na área florestal de produção desde que não colidam com áreas da REN e satisfaçam as seguintes disposições:
 
 a) Construção de instalações pecuárias:
 
@@ -749,27 +862,61 @@ a) Construção de instalações pecuárias:
 
 Infra-estruturas autónomas a construir pelo interessado;
 
-b) Construção de unidades hoteleiras com um mínimo de 40 quartos:
+b) Legalização de instalações pecuárias existentes - é possível a legalização de instalações de suinicultura existentes desde que seja cumprida a legislação em vigor sobre a matéria e sejam consultadas as entidades que intervêm no processo;
 
-Área mínima de terreno - 6 ha;
+c) Construção de unidades hoteleiras:
 
-Índice máximo de construção - 0,05;
+c.1) Implantação máxima (quociente entre a área total de implantação e a área do terreno) - 0,04;
 
-Infra-estruturas - sistemas autónomos de acordo com legislação específica;
+c.2) Construção máxima (quociente entre a área máxima de construção e a área do terreno) - 0, 1;
 
-Dotação do número de camas de acordo com o estipulado no artigo 38.º;
+c.3) Impermeabilização máxima (quociente entre a área total de impermeabilização e a área total do terreno) - 0,07;
 
-Número máximo de pisos - três visíveis, a contar da cota mais desfavorável do terreno.
+c.4) Infra-estruturas - sistema autónomo de acordo com legislação específica;
+
+c.5) Dotação do número de camas de acordo com o estipulado no artigo 37.º;
+
+c.6) Numero máximo de pisos - três visíveis, a contar da cota mais desfavorável do terreno;
+
+d) Para edifícios destinados a equipamentos, turismo rural, agro-turismo ou turismo de habitação, deverá ser cumprido o estipulado no artigo 23.º, n.os 5 e 5.1;
+
+e) Para edifícios destinados a habitação, deverá ser cumprido o estipulado no artigo 23.º, n.os 5 e 5.3, com as necessárias adaptações;
+
+f) Para edifícios destinados a serviços e comércio, deverá ser cumprido o estipulado no artigo 23.º, n.os 5 e 5.3, com as necessárias adaptações;
+
+g) Construções de apoio à actividade agrícola ou florestal:
+
+g.1) Número máximo de pisos - um;
+
+g.2) Superfície máxima de pavimento - 100 m2;
+
+g.3) Nos casos em que a construção já exceda o máximo permitido, não é possível o aumento de área;
+
+g.4) Todos os efluentes domésticos serão obrigatoriamente ligados à rede pública ou sistemas autónomos individuais;
+
+h) É permitida a utilização de construções existentes para indústrias destinadas à fabricação de produtos à base de carnes, de fabrico tradicional, desde que a potência a utilizar seja a mesma das indústrias compatíveis com o espaço urbano:
+
+h.1) É permitido somente um piso;
+
+h.2) Sejam mantidas as características arquitectónicas e construtivas existentes;
+
+h.3) A superfície de pavimento poderá ser acrescida desde que o total não exceda os 150 m2;
+
+h.4) No caso de o edifício já possuir área superior, não poderá ser aumentado;
+
+h.5) Todos os efluentes domésticos serão obrigatoriamente ligados à rede pública ou sistemas autónomos individuais.
 
 3 - Para efeitos de zonamento de risco de incêndio das áreas florestais considera-se que o concelho de Monchique está inserido, na sua totalidade, na categoria «Muito sensível», a que se refere o [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043).
 
 Propõe-se que, após a conclusão do PDM, se procedam a estudos de pormenor visando aprofundar a categorização incluída neste PDM, mediante o levantamento exaustivo dos recursos humanos e materiais disponíveis, do tipo e continuidade de povoamentos existentes e das redes de caminhos e aceiros presentes no concelho.
 
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
+
 ### CAPÍTULO VI — Espaços urbanos e urbanizáveis
 
 ###### Artigo 27.º — Âmbito, usos e categorias
 
-1 - Destinam-se à ocupação habitacional, podendo agregar actividades de comércio, serviços e equipamentos turísticos.
+1 - Destinam-se à ocupação habitacional, comercial, serviços, equipamentos turísticos e equipamentos.
 
 2 - As categorias das áreas urbanas são as seguintes:
 
@@ -779,97 +926,133 @@ b) Áreas urbanas de nível II - Alferce, Marmelete e Casais;
 
 c) Áreas urbanas de nível III - Fornalha, Rua Nova, Pacil, Romeiras, Três Figos, Corsino, Corte Grande, Mata Porcas, Meia-Viana, Portela da Nave, Peso e Alcaria do Peso.
 
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
+
 ###### Artigo 28.º — Indústria nos espaços urbanos
 
-1 - Nos espaços urbanos, é permitida a instalação de unidades industriais não poluidoras, compatíveis com o uso habitacional de acordo com o disposto no [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547) e de armazéns que não gerem grandes movimentos de cargas e descargas.
+1 - Nos espaços urbanos é permitida a instalação de unidades industriais compatíveis com o uso habitacional, de acordo com o disposto no [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto, e na [Portaria n.º 744-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-b-1993-620754), de 18 de Agosto, e de armazéns que não gerem grandes movimentos de cargas e descargas.
 
 2 - É interdita a instalação de armazenagens de produtos que, pela sua perigosidade, possam afectar os espaços urbanos envolventes.
 
-3 - Nos edifícios habitacionais é permitida a instalação ao nível do rés-do-chão, de unidades industriais não poluidoras compatíveis com o uso habitacional de acordo com o disposto no [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), e de armazéns, excepto quando se destinem a materiais explosivos, tóxicos ou que disponham de equipamentos de movimentação de cargas ou outros que provoquem ruídos ou vibrações incómodos.
+3 - Nos edifícios habitacionais é permitida a instalação, ao nível do rés-do-chão, de unidades industriais compatíveis com o uso habitacional, de acordo com o disposto no [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto, e na [Portaria n.º 744-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-b-1993-620754), de 18 de Agosto, e de armazéns, excepto quando se destinem a materiais explosivos, tóxicos ou que disponham de equipamentos de movimentação de cargas ou outros que provoquem ruídos ou vibrações incómodos.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
 
 ###### Artigo 29.º — Áreas urbanas de nível I
 
 Sem prejuízo de planos municipais de ordem inferior, ficam sujeitas às seguintes regras:
 
-1) Loteamentos urbanos destinados à habitação, comércio e serviços e equipamentos:
+1) Loteamentos urbanos destinados à habitação, comércio, indústria compatível com o uso habitacional, serviços e equipamento:
 
-Densidade máxima - 40 fogos/ha;
+COS - 0,50;
 
-Índice máximo de construção - 0,4;
+CAS - 0,35;
 
 Altura máxima dos edifícios - três pisos;
 
-Estacionamento - conforme o disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro;
+Respeito pelo disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro;
 
-2) Construção em lotes ou parcelas já existentes (preenchimento de espaços intersticiais):
+2) Construção, alteração, ampliação e reconstrução em lotes ou parcelas já existentes:
 
-Área mínima da parcela ou lote - 300 m2;
+a) Número máximo de pisos - três. Tratando-se de empreendimentos turísticos, admite-se, pontualmente, um piso acima do estipulado para as restantes construções;
 
-Frente mínima - 15 m;
+b) Infra-estruturas ligadas à rede pública;
 
-Número máximo de pisos - três;
+c) Estacionamentos - um lugar por fogo, salvo em casos devidamente justificados da sua impossibilidade, aplicável somente a construções novas. Tratando-se de empreendimentos turísticos, o estacionamento tem que cumprir o estabelecido em portaria. Para os estabelecimentos hoteleiros de 1 a 3 estrelas e para os hotéis rurais a dotação mínima de estacionamentos é de 20 % das unidades de alojamento, situado no empreendimento ou na sua proximidade.
 
-Infra-estruturas ligadas à rede.
+3) (Revogado.)
+
+4) Loteamentos urbanos destinados à habitação social, regem-se pelos seguintes condicionalismos:
+
+COS - 1,00;
+
+CAS - 0,60;
+
+Altura máxima dos edifícios - três pisos;
+
+Respeito pelo disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro.
+
+> Alterado pelo/a [Aviso n.º 8690/2014](https://diariodarepublica.pt/dr/detalhe/aviso/8690-2014-55029527), publicado em 2014-07-29.
 
 ###### Artigo 30.º — Áreas urbanas de nível II
 
 Sem prejuízo de planos municipais de ordem inferior ficam sujeitas às seguintes regras:
 
-1) Operações de loteamento:
+1) Loteamentos urbanos destinados à habitação, comércio, indústria compatível com o uso habitacional, serviços e equipamentos:
 
-Densidade máxima - 20 fogos ha;
+COS - 0,30;
 
-Índice máximo de construção - 0,2;
+CAS - 0,25;
 
 Altura máxima dos edifícios - dois pisos;
 
-2) É permitida a reconstrução e ampliação de habitação desde que:
+Respeito pelo disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro;
 
-Não seja ultrapassado o número máximo de dois pisos ou 6,5 m de cércea, salvo casos pontuais resultantes da topografia do terreno;
+2) É permitida a construção, reconstrução, alteração e ampliação de edifícios desde que:
 
-O aumento da superfície de pavimento não exceda 50% da superfície existente e desde que a área total construída não exceda 250 m2, exceptuando-se os edifícios que já tenham área superior, caso em que não será permitido qualquer aumento de área;
+a) Não seja ultrapassado o número máximo de dois pisos ou 7,0 m de cércea, salvo situações pontuais resultantes da topografia do terreno. No caso de se tratar de empreendimentos turísticos, admite-se pontualmente, um piso acima do estipulado para as restantes construções;
 
-Sejam mantidas as características arquitectónicas e construtivas preexistentes;
+b) Sejam mantidas as características arquitectónicas e construtivas preexistentes;
 
-3) A construção de unidades hoteleiras é permitida desde que não sejam ultrapassados os seguintes valores:
+c) Estacionamento - um lugar por fogo, salvo em casos devidamente justificados da sua impossibilidade, aplicável somente a construções novas. Tratando-se de empreendimentos turísticos, o estacionamento tem que cumprir o estabelecido em portaria. Para os estabelecimentos hoteleiros de 1 a 3 estrelas e para os hotéis rurais a dotação mínima de estacionamentos é de 20 % das unidades de alojamento, situado no empreendimento ou na sua proximidade.
 
-Índice de construção - 0,2;
-
-Número máximo de pisos - três;
+3) (Revogado.)
 
 4) Infra-estruturas:
 
-Rede pública ou sistemas autónomos de acordo com legislação específica;
+Água - rede pública ou sistema autónomo de acordo com a legislação específica, desde que não seja possível ligar à rede pública, mas com possibilidade de ligação no futuro;
 
-Esgotos - são permitidos sistemas autónomos ou individuais ou colectivos com possibilidade de ligação à rede pública.
+Esgotos - são permitidos sistemas autónomos ou individuais ou colectivos, desde que não seja possível ligação à rede pública, mas com possibilidade de ligação no futuro;
+
+5) Loteamentos urbanos destinados à habitação social, regem-se pelos seguintes condicionalismos:
+
+COS - 0,70;
+
+CAS - 0,40;
+
+Altura máxima dos edifícios - três pisos;
+
+Respeito pelo disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro.
+
+> Alterado pelo/a [Aviso n.º 8690/2014](https://diariodarepublica.pt/dr/detalhe/aviso/8690-2014-55029527), publicado em 2014-07-29.
 
 ###### Artigo 31.º — Áreas urbanas de nível III
 
 Na ausência de plano municipal de ordem inferior ficam sujeitas às seguintes regras:
 
-1) Operações de loteamento:
+1) Loteamentos urbanos destinados à habitação, comércio, indústria compatível com o uso habitacional, serviços e equipamentos:
 
-Densidade máxima - 15 fogos/ha;
+COS - 0,25;
 
-Índice máximo de construção - 0,15;
+CAS - 0,20;
 
 Altura máxima dos edifícios - dois pisos;
 
-Área mínima de parcela - 700 m2;
+Respeito pelo disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro;
 
-Frente mínima de parcela - 15 m;
+2) É permitida a construção, alteração, reconstrução e ampliação desde que:
 
-Número de fogos máximo/parcela - um;
+a) Número máximo de pisos - dois, salvo situações pontuais resultantes da topografia do terreno;
 
-Implantação do edifício (afastamento mínimo ao eixo da via de acesso) - 10 m, excepto nos casos de preenchimento de áreas urbanas consolidadas;
+b) Sejam mantidas as características arquitectónicas e construtivas preexistentes;
 
-2) A construção de edifícios (destinados a habitação) não precedida de operação de loteamento é permitida desde que sejam respeitados os parâmetros constantes do n.º 1).
+c) Estacionamento - um lugar por fogo, salvo em casos devidamente justificados da sua impossibilidade, aplicável somente a construções novas;
+
+3) Infra-estruturas:
+
+Água - rede pública ou sistema autónomo de acordo com a legislação específica, desde que não seja possível ligar à rede pública, mas com possibilidade de ligação no futuro;
+
+Esgotos - são permitidos sistemas autónomos ou individuais ou colectivos, desde que não seja possível ligação à rede pública, mas com possibilidade de ligação no futuro.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
 
 ###### Artigo 32.º — Áreas urbanizáveis
 
-1 - As categorias das áreas urbanizáveis são as que constam no n.º 2 do artigo 26.º
+1 - As categorias das áreas urbanizáveis são as que constam no n.º 2 do artigo 27.º
 
 2 - As regras a que ficam sujeitas as áreas urbanizáveis de nível I, nível II e nível III são as descritas, respectivamente, nos artigos 29.º, 30.º e 31.º
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
 
 ### CAPÍTULO VII — Áreas de aptidão turística
 
@@ -1027,21 +1210,27 @@ O número máximo de camas a instalar nas unidades hoteleiras localizadas nos es
 
 2 - Por razões ponderosas demonstradas pelo interessado podem, excepcionalmente, ser autorizadas edificações isoladas desde que daí não resultem derrogações ao presente Regulamento.
 
-3 - Nos casos previstos no número anterior, as autorizações só poderão ter lugar para construções destinadas a habitação, comércio, serviços e equipamentos, em parcelas já constituídas ou resultantes de destaque nos termos da legislação em vigor desde que:
+3 - Nos casos previstos no número anterior, as autorizações só poderão ter lugar para construções destinadas a habitação, turismo, comércio, serviços e equipamentos, em parcelas já constituídas ou resultantes de destaque nos termos da legislação em vigor, desde que:
 
-Área mínima da parcela - 1000 m2;
+3.1 - Para edifícios destinados a turismo rural, agro-turismo, turismo de habitação ou equipamentos, deverá ser cumprido o estipulado no artigo 23.º, n.os 5 e 5.1, alíneas a) e c);
 
-Superfície máxima de pavimento - 250 m2;
+3.2 - Para edifícios destinados a habitação, deverá ser cumprido o estipulado no artigo 23.º, n.os 5 e 5.2, alíneas a), c), d) e f);
 
-Acesso por caminho público;
+3.3 - Para edifícios destinados a comércio e serviços, deverá ser cumprido o estipulado no artigo 23.º, n.os 5 e 5.3, alíneas a) e c);
 
-Infra-estruturas:
+3.4 - Construções de apoio à actividade agrícola ou florestal:
 
-Água - rede pública ou sistemas autónomos de acordo com legislação específica em vigor;
+a) Número máximo de pisos - um;
 
-Esgoto - admitem-se sistemas autónomos individuais com possibilidade de ligação futura à rede púbica.
+b) Superfície máxima de pavimento - 100 m2;
 
-4 - As principais áreas de edificação dispersa são as delimitadas na carta de ordenamento, que a seguir se discriminam:
+3.5 - Infra-estruturas:
+
+Água - rede pública ou sistema autónomo de acordo com legislação específica em vigor;
+
+Esgotos - admitem-se sistemas autónomos individuais com possibilidade de ligação futura à rede pública.
+
+4 - As principais áreas de edificação dispersa são as delimitadas na carta de ordenamento que a seguir se discriminam:
 
 Venda;
 
@@ -1053,7 +1242,7 @@ Brejão;
 
 Portela da Viúva;
 
-Cordo do Vale;
+Corgo do Vale;
 
 Barracão;
 
@@ -1073,39 +1262,51 @@ Farelo;
 
 Pocilgais;
 
-Umbria.
+Umbria;
+
+Alto.
 
 5 - É interdito o loteamento urbano.
 
-6 - É permitida a reconstrução, alteração e ampliação de edifícios existentes destinados a habitação, turismo rural, agro-turismo ou turismo de habitação, desde que:
+6 - É permitida a reconstrução, alteração, recuperação e ampliação de edifícios existentes desde que:
 
-a) Número máximo de pisos - dois ou 6,5 m de cércea, salvo casos pontuais resultantes da topografia do terreno;
+6.1 - Para edifícios destinados a turismo rural, agro-turismo, turismo de habitação ou equipamentos, deverá ser cumprido o estipulado no artigo 23.º, n.os 5 e 5.1;
 
-b) A superfície de pavimento poderá ser acrescida desde que o total da construção não exceda 250 m2, exceptuando-se:
+6.2 - Para edifícios destinados a habitação, deverá ser cumprido o estipulado no artigo 23.º, n.os 5 e 5.2;
 
-Os edifícios habitacionais que já tenham área superior, caso em que não será permitido qualquer aumento de área;
+6.3 - Para edifícios destinados a comércio e serviços, deverá ser cumprido o estipulado no artigo 23.º, n.os 5 e 5.3;
 
-Os edifícios destinados a turismo rural, agro-turismo e turismo de habitação, regulados por legislação específica;
+6.4 - Construções de apoio à actividade agrícola ou florestal, deverá ser cumprido o estipulado no artigo 26.º, n.º 2, alínea g);
 
-c) Infra-estruturas:
+6.5 - É permitida a utilização de construções existentes para indústrias destinadas à fabricação de produtos à base de carnes, de fabrico tradicional, desde que a potência a utilizar seja a mesma das indústrias compatíveis com o espaço urbano:
 
-Água de rede pública;
+a) É permitido somente um piso;
 
-Esgoto - rede pública ou sistema autónomo;
+b) Sejam mantidas as características arquitectónicas e construtivas existentes;
 
-d) Em nenhum caso é permitida a descarga de águas residuais nas linhas de água e de drenagem natural.
+c) A superfície de pavimento poderá ser acrescida, desde que o total não exceda 150 m2;
+
+d) No caso de o edifício já possuir área superior, não poderá ser aumentado;
+
+6.6 - Infra-estruturas:
+
+Água - rede pública ou sistema autónomo de acordo com legislação específica em vigor;
+
+Esgotos - admitem-se sistemas autónomos individuais com possibilidade de ligação futura à rede pública.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
 
 ### CAPÍTULO IX — Espaços industriais e de serviços
 
 ###### Artigo 40.º — Caracterização
 
-1 - A construção de edifícios industriais e de serviços no espaço indicado, com a área aproximada de 15 ha, deverá ser precedido de plano de pormenor ou projecto de loteamento e seja conforme com o [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, e Declaração de rectificação n.º 131-B/91, de 12 de Junho.
+1 - A construção de edifícios industriais e de serviços no espaço indicado, com a área aproximada de 15 ha, deverá ser precedida de plano de pormenor ou projecto de loteamento e ser conforme com o [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, com a alteração introduzida pelo [Decreto-Lei n.º 282/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1993-329987), de 17 de Agosto, o [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto, e a [Portaria n.º 744-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-b-1993-620754), de 18 de Agosto.
 
-2 - Os estabelecimentos industriais a instalar deverão ser das classes B e C, de acordo com o artigo 1.º do [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março.
+2 - Os estabelecimentos industriais a instalar deverão ser das classes B, C e D, de acordo com o [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto, e a [Portaria n.º 744-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-b-1993-620754), de 18 de Agosto.
 
 3 - A construção de edifícios industriais e de serviços nestas áreas fica sujeita às regras a seguir discriminadas:
 
-a) Índice de construção máximo - 5 m3/m2, variando entre 3 m3/m 2 e 5 m3/m 2, consoante as características do terreno;
+a) Índice de ocupação volumétrico - 5 m3/m2, variando entre 3 m3/m2 e 5 m3/m2, consoante as características do terreno;
 
 b) Índice de implantação máximo - 0,60;
 
@@ -1113,11 +1314,13 @@ c) Altura máxima dos edifícios - 9,5 m, salvo situações especiais justificad
 
 d) Área de estacionamento no interior do lote - igual ou superior a metade da superfície de construção;
 
-e) Arruamentos - faixa de rodagem maior ou igual a 7 m em vias com trânsito nos dois sentidos; bermas e passeios maiores ou iguais a 2 m;
+e) Arruamentos - faixa de rodagem maior ou igual a 9 m em vias com trânsito nos dois sentidos; bermas e passeios maiores ou iguais que 2 m;
 
 f) Envolvimento por uma protecção vegetal, bem como em cada um dos lotes, junto ao seu limite.
 
 4 - Os valores referidos no n.º 3 são valores brutos aplicáveis à totalidade da área urbanizável.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
 
 ### CAPÍTULO X — Indústria extractiva
 
@@ -1125,13 +1328,15 @@ f) Envolvimento por uma protecção vegetal, bem como em cada um dos lotes, junt
 
 1 - Os espaços de indústrias extractivas englobam duas categorias:
 
-a) As pedreiras actualmente em actividade;
+a) As pedreiras devidamente registadas;
 
 b) As áreas delimitadas na carta de ordenamento como de potencial extracção de sienito nefelínico.
 
 2 - A actividade extractiva rege-se pelo articulado nos Decretos-Leis n.os [88/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1990-333161), [89/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1990-333156) e [90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de Março, e [162/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1990-571472), de 22 de Maio, e na [Portaria n.º 598/90](https://diariodarepublica.pt/dr/detalhe/portaria/598-1990-573290), de 31 de Julho.
 
 3 - As explorações deverão localizar-se preferencialmente nas vertentes expostas a norte e nas áreas indicadas na planta de ordenamento.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
 
 ### CAPÍTULO XI — Nascentes de águas minerais naturais ou nascente com potencialidades
 
@@ -1161,9 +1366,11 @@ Sem prejuízo dos espaços necessários à implantação de sistemas de abasteci
 
 ###### Artigo 44.º — Identificação
 
-1 - Integram os espaços culturais do concelho o centro histórico de Monchique, bem como os cascos das áreas urbanas de nível I e nível II identificadas no artigo 26.º
+1 - Integram os espaços culturais do concelho o centro histórico de Monchique, bem como os cascos das áreas urbanas de nível I, II e III identificadas no artigo 27.º
 
 2 - As regras de ocupação, uso ou transformação destes espaços serão definidas em sede de regulamento dos planos de salvaguarda a elaborar para o efeito.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 106/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/106-1999-559024), publicado em 1999-09-22.
 
 ### CAPÍTULO XIV — Pecuária
 

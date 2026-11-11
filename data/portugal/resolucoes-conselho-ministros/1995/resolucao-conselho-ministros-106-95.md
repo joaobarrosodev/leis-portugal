@@ -38,10 +38,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-02-09'
+version_history:
+  file: resolucao-conselho-ministros-106-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-10-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-02-09'
+    amending: pt:dre:165191:por
+    amending_title: Resolução do Conselho de Ministros n.º 10/99; Resolução do Conselho de Ministros n.º 161-A/2007; Aviso
+      n.º 4215/2011
+    changes:
+    - Altera Artigo 17.º
+    - Altera Artigo 23.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/106/1995/10/16/p/dre/pt/html
@@ -67,7 +86,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:14:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 10/99; Resolução do Conselho de Ministros n.º 161-A/2007; Aviso n.º 4215/2011. Método e verificação: consolidacao/README.md
+    e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1995/resolucao-conselho-ministros-106-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -448,13 +469,63 @@ ii) Outros espaços agrícolas, constituídos por áreas ocupadas por vinha, oli
 
 Ficam incluídos nesta classe de espaços as infra-estruturas rodoviárias e ferroviárias do concelho de Reguengos de Monsaraz, que correspondem a vias que integram a rede rodoviária nacional e municipal, bem como as linhas de caminho de ferro.
 
-###### Artigo 17.º — Localizações de elevado potencial turístico
+###### Artigo 17.º — Áreas com aptidão para a implantação de empreendimentos turísticos
 
-1 - A indicação destas localizações tem como principal objectivo potenciar os recursos naturais vocacionados para o lazer, através da localização criteriosa dos empreendimentos, atendendo aos impactes previsíveis nas zonas de maior sensibilidade ecológica.
+1 - As áreas com aptidão para a implantação de empreendimentos turísticos definidas no presente plano correspondem às áreas de localização preferencial de empreendimentos turísticos estruturantes previstas no Plano Regional de Ordenamento da Zona Envolvente da Albufeira do Alqueva e às áreas com vocação turística previstas no Plano de Ordenamento das Albufeiras do Alqueva e Pedrógão.
 
-2 - Ficam apontadas as seguintes localizações:
+2 - Nestas áreas são admitidos, para além dos empreendimentos turísticos, instalações desportivas e equipamentos de recreio e lazer vocacionados nomeadamente para sectores como a caça, o turismo ecológico, o turismo de aventura e o artesanato.
 
-Monsaraz e Roncão.
+3 - Identificam-se as seguintes áreas com aptidão para a implantação de empreendimentos turísticos, localizadas nos espaços agro-silvo-pastoris e de protecção e valorização ambiental:
+
+a) Corval Monsaraz;
+
+b) Arraieiras - Pipas;
+
+c) Campo/Campinho;
+
+d) Campo;
+
+e) Campinho.
+
+4 - A área identificada na alínea c) do número anterior deverá possibilitar a fruição do plano de água em articulação directa com as áreas previstas nas alíneas d) e e) do mesmo número.
+
+5 - A ocupação das áreas identificadas no n.º 3 do presente artigo depende da prévia elaboração de plano de pormenor.
+
+6 - Na área de intervenção do Plano de Ordenamento das Albufeiras do Alqueva e Pedrógão prevalece a disciplina constante daquele instrumento de gestão territorial.
+
+7 - Fora da área de intervenção do Plano de Ordenamento das Albufeiras do Alqueva e Pedrógão, a elaboração dos planos de pormenor observa as seguintes disposições:
+
+a) A dimensão mínima da área de aptidão para a implantação de empreendimentos turísticos é de 10 ha no caso da área prevista na alínea b) do n.º 3 do presente artigo e de 50 ha nas restantes.
+
+b) O número mínimo de camas para cada área definida no n.º 3 do presente artigo é de 100;
+
+c) A densidade máxima populacional para cada área definida no n.º 3 do presente artigo é de 9 hab/ha;
+
+d) O índice máximo de impermeabilização para cada área definida no n.º 3 do presente artigo é de 0,06:
+
+e) O número máximo de pisos é de dois, excepto no caso dos estabelecimentos hoteleiros em que é de três pisos;
+
+f) É interdita a destruição do coberto vegetal, com excepção do estritamente necessário à implantação das construções, sendo obrigatórios a arborização e o tratamento paisagístico adequado nas áreas envolventes de novas construções, a executar de acordo com projecto realizado para o efeito, o qual deve assegurar a redução de impactes visuais negativos e a integração paisagística, bem como objectivos de minimização das alterações das condições naturais e paisagísticas e de valorização de ecossistemas e de outros valores naturais e paisagísticos existentes;
+
+g) Mesmo quando não directamente articulada com a albufeira, a implantação dos empreendimentos turísticos deve representar um complemento ao tipo de turismo induzido pela albufeira e possibilitar a fruição dos empreendimentos vocacionados para a utilização do plano de água;
+
+h) Deve ser assegurado o respeito por indicadores de sustentabilidade ambiental, designadamente minimização e optimização do consumo de recursos naturais, racionalização dos consumos de água, energia, resíduos e transportes associados aos empreendimentos turísticos e às infra-estruturas, minimização dos níveis de poluição sonora, do ar, da água e do solo e compatibilização do aumento da biomassa com a manutenção da biodiversidade;
+
+i) Deve ser assegurado o modelo tradicional e sedimentado de povoamento do território, assente em edificações organizadas de forma concentrada ou nucleada, respeitando as características morfológicas e paisagísticas da área em que se inserem, nomeadamente adaptando as cérceas às características morfológicas dos terrenos, de modo a não criar intrusões na paisagem e assegurando a conformidade formal, funcional e de materiais relativamente às características urbanísticas da região do Alentejo;
+
+j) Deve ser incentivada a reabilitação do património edificado existente;
+
+k) Devem ser identificados os espaços agrícolas, florestais e silvo-pastoris e as respectivas propostas de exploração e valorização;
+
+l) Devem ser identificadas as estruturas de protecção e valorização ambiental.
+
+8 - As áreas destinadas à urbanização pelos planos de pormenor mencionados no número anterior, serão consideradas como espaços urbanizáveis, nos termos do artigo 11.º
+
+9 - Os planos de pormenor das áreas com aptidão para a implantação de empreendimentos turísticos localizadas na área de intervenção do Plano de Ordenamento das Albufeiras do Alqueva e Pedrógão devem observar também as disposições das alíneas k) e l) do n.º 7 do presente artigo.
+
+10 - No quadro das garantias de equidade na aplicação das regras deste Plano para a elaboração dos planos mencionados no n.º 7, a Câmara Municipal de Reguengos de Monsaraz publicitará, através da divulgação de avisos, as deliberações que determinam a elaboração dos planos, por forma a permitir, durante o prazo estabelecido nas mesmas, a formulação de sugestões, bem como a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 161-A/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/161-a-2007-457036), publicado em 2007-10-11.
 
 ### CAPÍTULO III — Condicionamentos ao uso e transformação do solo
 
@@ -504,9 +575,7 @@ A delimitação desta unidade baseia-se na necessidade de integrar a conservaç�
 
 3 - O enquadramento regulamentar desta área far-se-á recorrendo quer à legislação ambiental - Lei de Bases do Ambiente - quer à legislação relativa ao património edificado e arqueológico - Lei do Património.
 
-4 - As alterações ao uso do solo, bem como as transformações de bens imóveis, na área a que se refere o presente artigo carecem de parecer das entidades competentes em razão de matéria, nomeadamente a Comissão de Coordenação da Região do Alentejo, a Direcção Regional do Ambiente e Recursos Naturais do Alentejo e o Instituto Português do Património Arquitectónico e Arqueológico, bem como dos serviços culturais da Câmara Municipal.
-
-5 - Exceptua-se ao disposto no número anterior as áreas incluídas nos perímetros urbanos.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 10/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-1999-165191), publicado em 1999-02-27.
 
 ###### Artigo 24.º — Indústria extractiva
 
@@ -1160,27 +1229,55 @@ f) Na ausência de planos de urbanização ou de pormenor ou de traçados preest
 
 1 - Os espaços agro-silvo-pastoris são zonas cujo uso dominante actual se relaciona com actividades agrícolas e florestais e onde não existem, de momento, condições ou razões positivas para a sua programação para usos urbanos. Sobre estas áreas não incidem disposições de salvaguarda absoluta relativamente a recursos ecológicos e agrícolas.
 
-2 - Nas áreas de que trata o presente artigo poderão ser autorizadas construções isoladas para a habitação/comércio - duas unidades -, em edifício único, indústria e turismo, desde que directamente relacionadas com o uso dominante desta classe de espaço, a edificar em área igual ou superior a 7,5 ha, excepto para os agricultores a título principal, que poderão construir nos prédios legalmente constituídos.
+2 - Nas áreas de que trata o presente artigo poderão ser autorizadas construções isoladas para, habitação/comércio - duas unidades -, em edifício único, indústria, desde que directamente relacionada com o uso dominante desta classe de espaço e turismo, a edificar em área igual ou superior a 7,50 ha, excepto para os agricultores a título principal, que poderão construir nos prédios legalmente constituídos, com excepção para edifícios existentes.
 
-Nas construções de que trata o número anterior o número máximo de pisos admitido é de um, com uma altura máxima de 3,5 m, sem prejuízo das necessárias adaptações ao terreno. O índice máximo de construção (IC) para as referidas construções é de 0,006, incluindo a habitação e os anexos.
+3 - As construções isoladas para habitação de que trata o número anterior devem respeitar as seguintes condições:
 
-3 - Salvo no caso referido no número anterior, a construção isolada ou os empreendimentos só podem ser autorizados:
+a) O requerente é agricultor, nos termos regulamentares sectoriais, responsável pela exploração agrícola e proprietário do prédio onde se pretende localizar a habitação, facto que deve ser comprovado pelas entidades competentes;
 
-a) Através de operações de destaque, nos termos do disposto no artigo 5.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro;
+b) A área mínima do prédio não poderá ser inferior a 4 ha;
 
-b) De acordo com o disposto, relativamente ao licenciamento e às acções de transformação de uso do solo associadas aos empreendimentos industriais, no [Decreto-Lei n.º 282/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1993-329987), de 17 de Agosto, e no [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto;
+c) A cércea máxima admitida é de 3,5 m;
 
-c) Respeitando as disposições relativas à implantação de empreendimentos turísticos consagradas no [Decreto-Lei n.º 326/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1986-221694), de 30 de Setembro.
+d) O índice de construção (IC) é de 0,006 até um máximo de 500 m2;
 
-Nos casos previstos nas alíneas anteriores, e por razões ecológicas ou de impacte paisagístico, a Câmara poderá condicionar a viabilidade das operações de transformação do uso do solo que ocorrerem nas áreas de que trata o presente artigo à prévia associação de proprietários confinantes, bem como a sua localização.
+e) O número máximo de pisos admitido acima da cota de soleira é um;
 
-4 - Os empreendimentos referidos no n.º 3 serão autorizados quando:
+f) Os prédios que constituem a exploração agrícola em que se localiza a edificação são inalienáveis durante o prazo de 10 anos subsequentes à construção, salvo por dívidas relacionadas com a aquisição de bens imóveis da exploração e de que esta seja garantia, ou por dívidas fiscais, devendo esse ónus constar do registo predial da habitação. Este ónus não se aplica quando a transmissão de quaisquer direitos reais sobre esses prédios ocorrer entre agricultores e desde que se mantenha a afectação da edificação ao uso exclusivo da habitação para residência própria do adquirente-agricultor.
 
-a) For reconhecido o interesse económico, nomeadamente no sector turístico e industrial e as características de paisagem o aconselhem;
+4 - De acordo com o disposto, relativamente ao licenciamento e às acções de transformação de uso do solo associadas aos empreendimentos industriais, estes só podem ser autorizados nos termos da legislação em vigor.
+
+Nos casos previstos no número anterior, e por razões ecológicas ou de impacte paisagístico, a Câmara poderá condicionar a viabilidade das operações de transformação do uso do solo que ocorrerem nas áreas de que trata o presente artigo à prévia associação de proprietários confinantes, bem como a sua localização.
+
+5 - Os empreendimentos referidos no n.º 4 serão autorizados quando:
+
+a) For reconhecido o interesse económico, nomeadamente no sector industrial e as características de paisagem o aconselhem;
 
 b) Não for excedida a edificabilidade máxima correspondente a uma densidade de seis fogos por hectare.
 
-5 - No caso de não haver rede pública de saneamento básico ou que pela localização da edificação não seja possível efectuar a ligação, seja garantida, pelo interessado, uma solução autónoma a aprovar pela Câmara Municipal, e que as descargas de efluentes previamente tratados nas linhas de água sejam licenciadas.
+6 - No caso de não haver rede pública de saneamento básico ou que pela localização da edificação não seja possível efectuar a ligação, seja garantida, pelo interessado, uma solução autónoma a aprovar pela Câmara Municipal, e que as descargas de efluentes previamente tratados nas linhas de água sejam licenciadas.
+
+7 - Nesta classe de espaço são igualmente admitidos, empreendimentos turísticos isolados nas tipologias de estabelecimentos hoteleiros associados a temáticas específicas (saúde, desporto, actividades cinegéticas, da natureza, educativas, culturais, sociais, etc.), empreendimentos de turismo em espaço rural, empreendimentos de turismo de habitação, parques de campismo, de caravanismo, de autocaravanismo e estações de serviço e empreendimentos de turismo da natureza, bem como os previstos no artigo 17.º do presente Regulamento, devendo ser respeitados os seguintes requisitos:
+
+i) Os edifícios não podem ter mais que dois pisos acima da cota de soleira;
+
+ii) O índice de impermeabilização do solo não pode ser superior a 0,2 (20 % da área total do prédio), excepto nos empreendimentos de turismo no espaço rural, nas modalidades de casas de campo e agro -turismo e nos empreendimentos de turismo de habitação;
+
+iii) A capacidade máxima admitida, com excepção para os Parques de Campismo e Caravanismo, é de 200 camas;
+
+iv) Parques de Campismo, Caravanismo, Autocaravanismo e Estações de Serviço, os quais deverão responder aos seguintes requisitos complementares aos estabelecidos em legislação específica:
+
+Adaptação ao relevo existente de todas as componentes do parque de campismo: áreas para acampamento, vias, caminhos de peões, estacionamentos e instalações complementares - de forma a garantir a drenagem natural, a predominância de superfícies permeáveis e a adequada integração no local;
+
+Organização criteriosa do espaço, equilibrando a privacidade e o sossego das instalações, com a animação e segurança dos espaços de uso comum;
+
+Adopção de soluções ecologicamente sustentáveis e eficientes para as origens e redes de abastecimento, saneamento, energia, resíduos e acessibilidades;
+
+Utilização de materiais apropriados à sua adequada integração paisagística;
+
+Valorização de vistas, do território e da respectiva inserção paisagística.
+
+> Alterado pelo/a [Aviso n.º 4215/2011](https://diariodarepublica.pt/dr/detalhe/aviso/4215-2011-2913620), publicado em 2011-02-09.
 
 ###### Artigo 34.º — Condicionamentos nos espaços de protecção e valorização ambiental
 
@@ -1208,7 +1305,7 @@ d) Nas áreas de infiltração máxima são proibidas todas as acções que cont
 
 e) Nas áreas com riscos de erosão são proibidas todas as acções susceptíveis de provocar ou agravar directa ou indirectamente a erosão do solo.
 
-3 - Exceptuam-se do disposto nos números anteriores o seguinte:
+3 - Exceptua-se do disposto nos números anteriores o seguinte:
 
 a) A realização de acções de reconhecido interesse público, nacional, regional ou local, desde que seja demonstrado não haver alternativa económica aceitável para a sua realização;
 
@@ -1218,41 +1315,87 @@ c) As instalações de interesse para a defesa nacional, como tal reconhecidas p
 
 d) As operações relativas à florestação e exploração florestal, quando decorrentes de projectos aprovados ou autorizados pelas entidades competentes.
 
+e) Empreendimentos turísticos isolados nas tipologias de estabelecimentos hoteleiros associados a temáticas específicas (saúde, desporto, actividades cinegéticas, da natureza, educativas, culturais, sociais, etc.), empreendimentos de TER, empreendimentos de turismo de habitação, parques de campismo, de caravanismo, de autocaravanismo e estações de serviço e empreendimentos de turismo da natureza, bem como os previstos no artigo 17.º do presente Regulamento, devendo ser respeitados os seguintes requisitos:
+
+i) Os edifícios não podem ter mais que dois pisos acima da cota de soleira;
+
+ii) O índice de impermeabilização do solo não pode ser superior a 0,2 (20 % da área total do prédio), excepto nos empreendimentos de turismo no espaço rural, nas modalidades de casas de campo e agro -turismo e nos empreendimentos de turismo de habitação;
+
+iii) A capacidade máxima admitida, com excepção para os Parques de Campismo e Caravanismo, é de 200 camas;
+
+iv) Parques de Campismo, Caravanismo, Autocaravanismo e estações de serviço, os quais deverão responder aos seguintes requisitos complementares aos estabelecidos em legislação específica:
+
+Adaptação ao relevo existente de todas as componentes do parque de campismo: áreas para acampamento, vias, caminhos de peões, estacionamentos e instalações complementares - de forma a garantir a drenagem natural, a predominância de superfícies permeáveis e a adequada integração no local;
+
+Organização criteriosa do espaço, equilibrando a privacidade e o sossego das instalações, com a animação e segurança dos espaços de uso comum;
+
+Adopção de soluções ecologicamente sustentáveis e eficientes para as origens e redes de abastecimento, saneamento, energia, resíduos e acessibilidades;
+
+Utilização de materiais apropriados à sua adequada integração paisagística;
+
+Valorização de vistas, do território e da respectiva inserção paisagística.
+
 4 - Constituem ainda excepção as seguintes acções:
 
-a) Remodelações, beneficiações e ampliações de instalações agrícolas e de habitações para os proprietários ou titulares dos direitos de exploração e trabalhadores permanentes e as destinadas ao turismo rural, turismo de habitação e agro-turismo, nos termos da legislação aplicável;
+a) Remodelações, beneficiações e ampliações de instalações agrícolas e de habitações para os proprietários ou titulares dos direitos de exploração e trabalhadores permanentes e as destinadas ao turismo rural, turismo de habitação, agro-turismo, turismo de aldeia e casas de campo, nos termos da legislação aplicável;
 
-b) O licenciamento de construção nas propriedades constituídas exclusivamente por solos da Reserva Ecológica Nacional só será permitido desde que as construções requeridas se destinem a obras com finalidade exclusivamente agrícola ou para habitação dos agricultores ou trabalhadores permanentes na exploração.
-
-Nas áreas de máxima infiltração, leitos dos cursos de água, zonas ameaçadas pelas cheias e margens de albufeiras não será permitido qualquer tipo de construção;
+b) O licenciamento de construção nas propriedades constituídas exclusivamente por solos da Reserva Ecológica Nacional só será permitido desde que as construções requeridas se destinem a obras com finalidade exclusivamente agrícola ou para habitação do proprietário-agricultor de exploração agrícola.
 
 c) O arranque ou destruição do coberto vegetal, desde que integrado nas técnicas normais de produção vegetal;
 
-d) O índice de construção (IC) nestas áreas é de 0,006, incluindo a habitação e os anexos, até um máximo de 300 m2.
+d) (Revogada.)
 
 5 - As construções requeridas ao abrigo do número anterior só poderão ser autorizadas desde que:
 
 a) As obras com finalidade exclusivamente agrícola se integrem em explorações que as justifiquem e não excedam a altura de 3,5 m, exceptuando-se silos, depósitos de água e instalações tecnicamente justificadas;
 
-b) As construções para habitação dos agricultores se integrem numa propriedade com uma área igual ou superior à definida pela legislação em vigor, sejam em edifício único e não excedam dois fogos;
+b) As construções para habitação dos agricultores sejam em edifício único e não excedam dois fogos, respeitando as seguintes condições:
+
+i) O requerente é agricultor, nos termos regulamentares sectoriais, responsável pela exploração agrícola e proprietário do prédio onde se pretende localizar a habitação, facto que deve ser comprovado pelas entidades competentes;
+
+ii) A área mínima do prédio não poderá ser inferior a 4 ha;
+
+iii) A área de construção máxima admitida para habitação é de 250 m2;
+
+iv) A área de construção máxima admitida para anexos agrícolas é de 300 m2;
+
+v) O número máximo de pisos admitido acima da cota de soleira é dois;
+
+vi) Os prédios que constituem a exploração agrícola em que se localiza a edificação são inalienáveis durante o prazo de 10 anos subsequentes à construção, salvo por dívidas relacionadas com a aquisição de bens imóveis da exploração e de que esta seja garantia, ou por dívidas fiscais, devendo esse ónus constar do registo predial da habitação. Este ónus não se aplica quando a transmissão de quaisquer direitos reais sobre esses prédios ocorrer entre agricultores e desde que se mantenha a afectação da edificação ao uso exclusivo da habitação para residência própria do adquirente-agricultor;
+
+Nas áreas de máxima infiltração, leitos dos cursos de água, zonas ameaçadas pelas cheias e margens de albufeiras não será permitido qualquer tipo de construção;
 
 c) Nas zonas de cabeceira das linhas de água e nas áreas de riscos de erosão sejam utilizados sistemas de tratamento adequados para as descargas de poluentes de qualquer natureza;
 
 d) Nas zonas declivosas com riscos de erosão os aterros e escavações, que se tornem indispensáveis para a implantação das construções e caminhos, sejam acompanhados de medidas minimizadoras e de protecção contra a erosão.
 
+> Alterado pelo/a [Aviso n.º 4215/2011](https://diariodarepublica.pt/dr/detalhe/aviso/4215-2011-2913620), publicado em 2011-02-09.
+
 ###### Artigo 35.º — Condicionamentos nos espaços agrícolas
 
 1 - Sem prejuízo do disposto na legislação em vigor, nos solos dos espaços agrícolas são proibidas todas as acções que diminuam ou destruam as suas potencialidades, nomeadamente obras hidráulicas, vias de comunicação e acessos, construção de edifícios, aterros e escavações ou quaisquer outras formas de utilização não agrícola.
 
-2 - Nos espaços agrícolas preferenciais aplicar-se-á a legislação relativa à Reserva Agrícola Nacional. Nos outros espaços agrícolas são permitidas as seguintes acções:
+2 - Nos espaços agrícolas preferenciais aplicar-se-á a legislação relativa à Reserva Agrícola Nacional, desde que em parcelas com um mínimo de 4 ha para construção isolada de edifícios de habitação. Nos outros espaços agrícolas são permitidas as seguintes acções:
 
-a) As obras com finalidades exclusivamente agrícolas, quando integradas e utilizadas em explorações que as justifiquem; e
+a) As obras com finalidades exclusivamente agrícolas, quando integradas e utilizadas em explorações que as justifiquem, não poderão exceder a cércea máxima de 3,5 m, exceptuando silos, depósitos de água e instalações tecnicamente justificadas; e
 
-b) As habitações para fixação dos agricultores, em regime de residência permanente, quando integradas em explorações que as justifiquem e desde que não existam alternativas válidas de localização em solos não incluídos nesta classe de espaço.
+b) As habitações para fixação do proprietário-agricultor de exploração agrícola, respeitando as seguintes condições:
 
-3 - As obras referidas na alínea a) do n.º 2 não poderão exceder a altura de 3,5 m, exceptuando silos, depósitos de água e instalações tecnicamente justificadas.
+i) O requerente é agricultor, nos termos regulamentares sectoriais, responsável pela exploração agrícola e proprietário do prédio onde se pretende localizar a habitação, facto que deve ser comprovado pelas entidades competentes;
 
-4 - As construções requeridas na alínea b) do n.º 2 só serão autorizadas desde que a parcela tenha uma área igual ou superior ao dobro da definida pela unidade mínima de cultura ou inferior, desde que a propriedade tenha sido legalmente constituída, sejam em edifício único, não excedam dois fogos e tenham uma área total construída igual ou inferior a 300 m2, incluindo a habitação e os anexos.
+ii) A área mínima do prédio não poderá ser inferior a 4 ha;
+
+iii) A área de construção máxima admitida é 300 m2;
+
+iv) O número máximo de pisos admitido acima da cota de soleira é dois;
+
+v) Os prédios que constituem a exploração agrícola em que se localiza a edificação são inalienáveis durante o prazo de 10 anos subsequentes à construção, salvo por dívidas relacionadas com a aquisição de bens imóveis da exploração e de que esta seja garantia, ou por dívidas fiscais, devendo esse ónus constar do registo predial da habitação. Este ónus não se aplica quando a transmissão de quaisquer direitos reais sobre esses prédios ocorrer entre agricultores e desde que se mantenha a afectação da edificação ao uso exclusivo da habitação para residência própria do adquirente-agricultor.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a [Aviso n.º 4215/2011](https://diariodarepublica.pt/dr/detalhe/aviso/4215-2011-2913620), publicado em 2011-02-09.
 
 ###### Artigo 36.º — Condicionamentos nos espaços-canais
 

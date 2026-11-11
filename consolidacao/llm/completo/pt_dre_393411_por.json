@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:393411:por",
+  "artigos": [
+    {
+      "chave": "20.º",
+      "epigrafe": "(Primeiro provimento)",
+      "texto": "1 - O primeiro provimento do pessoal afecto ao Instituto far-se-á de acordo com as seguintes regras:\n\na) Para qualquer lugar do quadro e com respeito pelas habilitações literárias exigidas no presente diploma;\n\nb) Para lugar do quadro de categoria equivalente a que o interessado já possui;\n\nc) Para lugar do quadro que integre as funções efectivamente exercidas pelo interessado, independentemente do lugar em que se encontre provido.\n\n2 - O provimento referido no número anterior será feito mediante lista ou listas nominativas aprovadas pelo Secretário de Estado da Segurança Social, onde conste o lugar em que cada funcionário fica provido, sem dependência de quaisquer outras formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.\n\n3 - O pessoal provido ao abrigo das alíneas b) e c) do n.º 1 do presente artigo poderá ascender à categoria superior se, entretanto, tiver obtido as habilitações literárias exigidas nos artigos 7.º, 8.º, 9.º e 10.º ou, independentemente dessas habilitações, se for aprovado em concurso, a definir, quanto à preparação e condições, por despacho conjunto do Secretário de Estado da Segurança Social e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n4 - Para efeitos do n.º 1 deste artigo, considera-se afecto ao Instituto o pessoal a que se refere o n.º 1 do artigo 16.º e ainda todo aquele que, a qualquer título, se encontra adstrito aos serviços do Instituto.",
+      "alterador": 1
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "(Remunerações)",
+      "texto": "1 - O pessoal provido nos termos do artigo 20.º tem direito ao vencimento pelos novos lugares com efeitos reportados a 1 de Março de 1979.\n\n2 - Quando as remunerações líquidas das categorias atribuídas ao pessoal referido no artigo 20.º forem inferiores às remunerações líquidas que o mesmo pessoal vem auferindo, estas manter-se-ão até que, por promoção ou revisão salarial, sejam alcançadas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "As alterações ao quadro de pessoal (mapa anexo ao artigo 2.º) feitas pelo Decreto-Lei n.º 290/80 (art. 4.º), pelas Portarias n.os 850/80, 910/80, 472/82, 420/84, 504/84, 78/87, 94/87, 4/88, 168/88, 75/89, 484/90, 287/2003 e 297/2003 e pelo Decreto-Lei n.º 269/85 incidem sobre o mapa, que só vem em imagem e não está no texto atual, e não são textuais. O art. 1.º do Decreto-Lei n.º 290/80 (composição do conselho directivo) é norma autónoma e os seus arts. 2.º e 3.º alteram o Decreto Regulamentar n.º 24/77; o art. 2.º do Decreto-Lei n.º 139/79 (equiparação de cargos) é norma autónoma.",
+  "instrucoes": [
+    "DL 139/79, art. 1.º: aditado o n.º 4 ao art. 20.º (n.os 1 a 3 mantêm-se) e nova redação do art. 21.º, agora com n.os 1 e 2.",
+    "DL 139/79, art. 2.º: equiparação dos cargos de director e subdirector; norma autónoma, sem alteração textual.",
+    "DL 290/80: art. 1.º norma autónoma; arts. 2.º e 3.º alteram o DR 24/77 (ignorados); art. 4.º acresce lugares ao quadro (mapa em imagem, não aplicável).",
+    "Portarias 850/80 a 297/2003 e DL 269/85: alteram ou aumentam o mapa de pessoal (imagem), não aplicável ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,362 @@
+{
+  "id": "pt:dre:690650:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Âmbito territorial",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Regime",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Composição",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Vigência",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Classes de uso dominante do solo",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Coeficiente de ocupação do solo",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Níveis de planeamento urbanístico",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Urbanização e edificação prioritárias",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Intervenção municipal",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Implantação das edificações",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Imagem urbana",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Indústria, comércio e armazenagem",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Garagens, estações de serviço e oficinas de reparação de veículos automóveis",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Estacionamento das edificações",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Legislação geral",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Hierarquização",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Espaços-canais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Acessibilidade marginal",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Estacionamento",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Áreas verdes públicas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Áreas verdes privadas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Áreas livres",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Zonas naturais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Zona florestal estruturante",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Zona florestal de enquadramento",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Zona de ambiente natural",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Edificabilidade em zonas naturais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Protecção de valores patrimoniais e naturais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Unidades operativas de planeamento e gestão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Zonas florestais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Zona florestal de produção",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Zona florestal condicionada ou silvo-pastoril",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Zona florestal sob regime legal específico parcial",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Edificabilidade em zonas florestais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Reserva Agrícola Nacional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Edificabilidade em Reserva Agrícola Nacional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Zonas agro-florestais complementares",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Alteração de uso",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "Edificabilidade em zona agro-florestal complementar",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "Zonas industriais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Enquadramento urbanístico",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "Edificabilidade em zona industrial",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "Unidades operativas de planeamento e gestão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "Pedreiras, concessões mineiras e nascentes",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "Licenciamento",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "Edificabilidade em zona extractiva e zona extractiva complementar",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "Zonas urbanas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "Ocupação com construção",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "Indústria e armazenagem",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "Infra-estruturação urbanística",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "Edificabilidade nas zonas urbanas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "Unidades operativas de planeamento e gestão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "Comissão de protecção de valores patrimoniais e naturais",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "55.º",
+      "epigrafe": "Qualidade ambiental",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "Condicionantes de ordem superior, protecções, servidões e restrições",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "Regime transitório para licenciamento",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "Acerto ou rectificação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Aviso n.º 14490/2012), artigo 105.º: revoga o Plano Diretor Municipal de Amares ratificado pela RCM n.º 144/95; revogação total e imediata do Regulamento, aplicada a cada um dos 58 artigos com o corpo \"(Revogado.)\", epígrafes mantidas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

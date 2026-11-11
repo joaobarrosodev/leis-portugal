@@ -1,0 +1,1561 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:621309:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-11-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ae1e43e77dddf1e7",
+    "cdceb1e4ae0351d4",
+    "beef56083190374a",
+    "668a6b7b57347278",
+    "176ca6e012be77f2",
+    "5e6718471de0a336",
+    "b96a49a45845f935",
+    "7622270c792d9025",
+    "91daa613fa42b7d2",
+    "8b17746d576246ce",
+    "212063434e163374",
+    "de982cfa301bfd2b",
+    "648029b2a6a39b31",
+    "82db5beb34078139",
+    "ea006b2f272009f6",
+    "f740e109bb1b9ae2",
+    "bd9c110b4e6eb526",
+    "9d8962dd3d989d98",
+    "45581c73f8c31dc1",
+    "a7a313f10946c511",
+    "52fa344d943bf97b",
+    "91320c24790be26e",
+    "400da8b1443dda4e",
+    "0d73fcfc113cbe02",
+    "ed26e7f794ffce68",
+    "c034d9e2d031951f",
+    "35c3b8c282342488",
+    "47b1e40fcac5a2d9",
+    "cbd6591691e9fbb7",
+    "3099dce41805e611",
+    "eeea936563cdc463",
+    "ccc5469f9fc3ed6f",
+    "0e180cffcb829160",
+    "b7ba5bc4bbd111ac",
+    "9ae70f020f9df932",
+    "2d7ed4293b867a40",
+    "88387c982c5c8fee",
+    "836b9f0eee529241",
+    "7ecdab4d5caec1d7",
+    "c02864860137953d",
+    "81392fc0861d63a0",
+    "de982cfa301bfd2b",
+    "9f4c40d8174cc187",
+    "2a26904f1d4a9f06",
+    "f2c71279dad20292",
+    "5e7ee12ce1b11c2f",
+    "8a94f25d2b51e9de",
+    "42dbf6b1ed825094",
+    "2caacad13b7fc3bf",
+    "ba5d6b7eb6bdb986",
+    "42d676b58b3059ae",
+    "e50d0439f5fa49d0",
+    "51e583274885d39b",
+    "a1abbcce80ce2d35",
+    "34c313df6c0f403f",
+    "f396727c893ff8c7",
+    "c1b99d07c6589e5e",
+    "c1aeb71e51536690",
+    "0be03bbed9dcbec2",
+    "5e52543a48e2c99d",
+    "2946d0f523a088a5",
+    "ca0a8545ab37a9b3",
+    "b06f28f795f0cb0e",
+    "040f38d0f92ff5ba",
+    "494a25b2f2f51dbc",
+    "ce8b7e2abfd38a19",
+    "94f7dcc066cb7d2d",
+    "03c45a50553290bf",
+    "e2d5bcc3a1920788",
+    "7c1d4efe27c722ef",
+    "1a5666a07721e733",
+    "cdc050f5883b447d",
+    "a5b8836d8d56aae4",
+    "0f9e91e939f56edf",
+    "c7e642a5ab7dcace",
+    "69f81e375c8944c2",
+    "be0a8e9b05657535",
+    "b33eff08d5514376",
+    "77fccdc9f8a5b903",
+    "4a4037f2041e5b13",
+    "e716655fbfa30cdd",
+    "eee749c485eb5dad",
+    "a12514aee1e639a5",
+    "68515164c40c2a96",
+    "a6545cc662c5d0fb",
+    "5154ff0c20c9d26e",
+    "ba23614956a5aa6f",
+    "9d73c16d347823dc",
+    "fde5fcbfbdcf6dc6",
+    "2c27fc2f0d6dd716",
+    "fd7427a1006d30df",
+    "66bb2f56cc27aad7",
+    "3e5866b64bfbb7d0",
+    "0f01b79d9d50c1e7",
+    "81999001eca2aad9",
+    "0cd906fb94f34a7a",
+    "8f6ed5ac468e5635",
+    "918b5fc56e98c966",
+    "63ad436c0c3343ff",
+    "b9bb9ff0aead0db4",
+    "2040e046a79139db",
+    "5865d08f909c5bb2",
+    "f95c6d65038d89ae",
+    "0e29ecdfdcc1ee75",
+    "35bd5fd82ceea7e0",
+    "8881e526a0e0aa21",
+    "49d4cbcec31fa868",
+    "11fd7ec634113815",
+    "c8e361acc0ebac55",
+    "8baba5800bb92aaa",
+    "d45639cf81bf751e",
+    "84de4d57a3f6383c",
+    "cb764e3d05fee5ed",
+    "274ef9f78ce152ad",
+    "e7d4d50004e91184",
+    "f7282a2448d2bff3",
+    "fd0ef146201df99c",
+    "a670433f00d237a1",
+    "782f569ba19da9ad",
+    "3df7a28d6c7c36bd",
+    "cd5d2595d80243ec",
+    "1b03682c1a9bc7c7",
+    "32af9b163d16a8c5",
+    "6b90a430e216f2c2",
+    "f9622257e85a2ac2",
+    "d9ca583a98d01063",
+    "e30125bd56f65c02"
+   ]
+  },
+  {
+   "date": "1997-10-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:668289:por",
+     "title": "Resolução do Conselho de Ministros n.º 175/97",
+     "published": "1997-10-17",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/175-1997-668289"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 40.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 45.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 55.º",
+    "Altera Artigo 56.º",
+    "Altera Artigo 62.º",
+    "Altera Artigo 66.º",
+    "Altera Artigo 68.º",
+    "Altera Artigo 73.º",
+    "Altera Artigo 74.º",
+    "Altera Artigo 75.º",
+    "Altera Artigo 79.º",
+    "Altera Artigo 80.º",
+    "Altera Artigo 86.º",
+    "Altera Artigo 92.º",
+    "Altera Artigo 93.º"
+   ],
+   "fragments": [
+    "ae1e43e77dddf1e7",
+    "cdceb1e4ae0351d4",
+    "beef56083190374a",
+    "668a6b7b57347278",
+    "176ca6e012be77f2",
+    "5e6718471de0a336",
+    "b96a49a45845f935",
+    "7622270c792d9025",
+    "91daa613fa42b7d2",
+    "8b17746d576246ce",
+    "212063434e163374",
+    "de982cfa301bfd2b",
+    "648029b2a6a39b31",
+    "82db5beb34078139",
+    "ea006b2f272009f6",
+    "bf6b780ed009d374",
+    "bd9c110b4e6eb526",
+    "9d8962dd3d989d98",
+    "45581c73f8c31dc1",
+    "a7a313f10946c511",
+    "97d948743c9426d1",
+    "91320c24790be26e",
+    "400da8b1443dda4e",
+    "0d73fcfc113cbe02",
+    "ed26e7f794ffce68",
+    "c034d9e2d031951f",
+    "35c3b8c282342488",
+    "2ccdc065fc709c69",
+    "cbd6591691e9fbb7",
+    "3099dce41805e611",
+    "eeea936563cdc463",
+    "ccc5469f9fc3ed6f",
+    "0e180cffcb829160",
+    "b7ba5bc4bbd111ac",
+    "9ae70f020f9df932",
+    "2d7ed4293b867a40",
+    "88387c982c5c8fee",
+    "836b9f0eee529241",
+    "7ecdab4d5caec1d7",
+    "c02864860137953d",
+    "81392fc0861d63a0",
+    "de982cfa301bfd2b",
+    "9f4c40d8174cc187",
+    "2a26904f1d4a9f06",
+    "f2c71279dad20292",
+    "5e7ee12ce1b11c2f",
+    "8a94f25d2b51e9de",
+    "42dbf6b1ed825094",
+    "2caacad13b7fc3bf",
+    "6292a4f6198a4235",
+    "1595b1b722595ccf",
+    "de57828fe40adf46",
+    "51e583274885d39b",
+    "a1abbcce80ce2d35",
+    "ef974f1bab86f4e6",
+    "f396727c893ff8c7",
+    "c1b99d07c6589e5e",
+    "9b628b1f3b706701",
+    "0be03bbed9dcbec2",
+    "112a7bd7670e32ea",
+    "acb57f6f10c9522a",
+    "887552f297025ebb",
+    "b06f28f795f0cb0e",
+    "040f38d0f92ff5ba",
+    "494a25b2f2f51dbc",
+    "ce8b7e2abfd38a19",
+    "94f7dcc066cb7d2d",
+    "03c45a50553290bf",
+    "e2d5bcc3a1920788",
+    "7c1d4efe27c722ef",
+    "1a5666a07721e733",
+    "5daadec392263462",
+    "162c59ce03c5a0cc",
+    "0f9e91e939f56edf",
+    "c7e642a5ab7dcace",
+    "69f81e375c8944c2",
+    "be0a8e9b05657535",
+    "b33eff08d5514376",
+    "77fccdc9f8a5b903",
+    "4a4037f2041e5b13",
+    "ee0e5f3e5698c4fa",
+    "eee749c485eb5dad",
+    "a12514aee1e639a5",
+    "68515164c40c2a96",
+    "a6545cc662c5d0fb",
+    "5036ef919fec3f02",
+    "ba23614956a5aa6f",
+    "9d73c16d347823dc",
+    "2db95b20162cb6b3",
+    "2c27fc2f0d6dd716",
+    "fd7427a1006d30df",
+    "66bb2f56cc27aad7",
+    "3e5866b64bfbb7d0",
+    "0f01b79d9d50c1e7",
+    "6ba6012042aff796",
+    "cf8c4d411cfc9cff",
+    "fc5c4cb7cb87ec2f",
+    "918b5fc56e98c966",
+    "63ad436c0c3343ff",
+    "b9bb9ff0aead0db4",
+    "2040e046a79139db",
+    "27af6b161617d89c",
+    "3a54c51c61cf94b0",
+    "0e29ecdfdcc1ee75",
+    "35bd5fd82ceea7e0",
+    "8881e526a0e0aa21",
+    "49d4cbcec31fa868",
+    "11fd7ec634113815",
+    "c8e361acc0ebac55",
+    "8baba5800bb92aaa",
+    "d8bd68c07ca4f35e",
+    "84de4d57a3f6383c",
+    "cb764e3d05fee5ed",
+    "274ef9f78ce152ad",
+    "e7d4d50004e91184",
+    "f7282a2448d2bff3",
+    "fd0ef146201df99c",
+    "a670433f00d237a1",
+    "782f569ba19da9ad",
+    "d4f70631c1b71fb5",
+    "0df6fcb99bdd9b68",
+    "1b03682c1a9bc7c7",
+    "32af9b163d16a8c5",
+    "6b90a430e216f2c2",
+    "f9622257e85a2ac2",
+    "d9ca583a98d01063",
+    "e30125bd56f65c02"
+   ]
+  }
+ ],
+ "fragments": {
+  "ae1e43e77dddf1e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia Municipal de Mirandela aprovou, em 14 de Julho de 1994, o seu Plano Director Municipal.\n\nNa sequência desta aprovação, a Câmara Municipal respectiva iniciou o processo de ratificação daquele instrumento de planeamento, conforme dispõe o n.º 5 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.\n\nO Plano Director Municipal de Mirandela foi objecto de parecer favorável da comissão técnica que, nos termos da legislação em vigor, acompanhou a elaboração daquele plano.\n\nEste parecer favorável está consubstanciado no relatório final daquela comissão, subscrito por todos os representantes dos serviços da administração central que a compõem.\n\nForam cumpridas todas as formalidades exigidas pelo [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 Outubro, designadamente no que se refere ao inquérito público.\n\nVerifica-se ainda a conformidade formal do Plano Director Municipal de Mirandela com as demais disposições legais e regulamentares em vigor, com excepção:\n\nDa parte final do n.º 1 do artigo 11.º «considerando-se non aedificandi uma faixa mínima de 5 m», por se tratar de matéria da competência do Ministério do Ambiente e Recursos Naturais, nos termos do disposto no [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro;\n\nDo n.º 6 do artigo 16.º, por se tratar de uma excepção ao regime da Reserva Ecológica Nacional, não enquadrável nas acções insusceptíveis de prejudicar o equilíbrio ecológico, violando, deste modo, o disposto no [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, com a redacção dada pelo [Decreto-Lei n.º 213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro;\n\nDo disposto no n.º 7 do artigo 40.º e nos n.os 1 e 4 do artigo 41.º do Regulamento do Plano, por ausência de fundamento legal e violação do disposto no artigo 68.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro;\n\nDa expressão «caça», constante da alínea i) do n.º 2 do artigo 79.º, por violação da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, designadamente do seu artigo 13.º, e do [Decreto-Lei n.º 261/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1992-598154), de 12 de Novembro, designadamente dos seus artigos 24.º e 25.º\n\nImporta ainda acrescentar que a legislação em vigor só permite cedências de parcelas de terreno em caso de realização de operações de loteamento e nos termos do artigo 16.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, pelo que o disposto no artigo 44.º do Regulamento do Plano deve ser interpretado de acordo com a referida legislação.\n\nMais importa salientar que, quando o n.º 3 do artigo 75.º do Regulamento se refere a estudos de impacte ambiental, os mesmos só serão exigíveis se tal for determinado pela legislação que regula essa matéria.\n\nPor outro lado, importa referir que o disposto no artigo 86.º deve ser articulado com o [Decreto-Lei n.º 502/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1971-631657), de 18 de Novembro, que define o regime de albufeiras classificadas.\n\nDeve também ser referido que o disposto no artigo 96.º deve ser articulado com o [Decreto-Lei n.º 117/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1994-250666), de 3 de Maio, que regula a localização e o licenciamento de parques de sucata.\n\nNa aplicação prática do Plano há ainda a considerar as servidões e restrições de utilidade pública, constantes da planta de condicionantes, a qual, embora não seja publicada, constitui elemento fundamental do Plano, a atender no âmbito da respectiva gestão.\n\nConsiderando o disposto no [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, alterado pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, e ainda o [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro:\n\nAssim:\n\nNos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:\n\n1 - Ratificar o Plano Director Municipal de Mirandela.\n\n2 - Excluir de ratificação a parte final do n.º 1 do artigo 11.º, «considerando-se non aedificandi uma faixa mínima de 5 m», o n.º 6 do artigo 16.º, o n.º 7 do artigo 40.º, os n.os 1 e 4 do artigo 41.º e a expressão «caça», constante da alínea i) do n.º 2 do artigo 79.º do Regulamento do Plano.\n\nPresidência do Conselho de Ministros, 6 de Outubro de 1994. - O Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nRegulamento do Plano Director Municipal de Mirandela"
+  },
+  "cdceb1e4ae0351d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Disposições gerais"
+  },
+  "beef56083190374a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito territorial\n\nA área abrangida pelo Plano Director Municipal de Mirandela, adiante designado por PDMM, e regida pelo presente Regulamento corresponde a todo o território do concelho de Mirandela, cuja delimitação se encontra assinalada na planta de ordenamento."
+  },
+  "668a6b7b57347278": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente Regulamento e as plantas que graficamente o traduzem estabelecem as principais regras a que deve obedecer a ocupação, uso e transformação do solo na área abrangida pelo PDMM."
+  },
+  "176ca6e012be77f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime\n\n1 - Sem prejuízo do estabelecido na lei geral, rege-se pelo disposto no presente diploma a apreciação e aprovação de qualquer plano ou projecto, bem como o licenciamento de qualquer obra ou actividade de iniciativa pública ou privada que implique a ocupação, uso ou transformação do solo na área do PDMM.\n\n2 - Constitui ilegalidade, nos termos do disposto na legislação em vigor, o licenciamento de qualquer obra ou actividade em violação do PDMM.\n\n3 - A realização de obras, bem como a utilização de edificações ou do solo em violação do PDMM, constitui contra-ordenação, punível com coima, nos termos da legislação em vigor."
+  },
+  "5e6718471de0a336": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Alterações à legislação e ou às entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alterações à legislação e ou às entidades\n\nQuando se verificarem alterações à legislação e ou às entidades referidas neste Regulamento, as remissões que aqui a elas se fazem consideram-se automaticamente transferidas para as correspondentes que as substituírem ou complementarem."
+  },
+  "b96a49a45845f935": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Prazo de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prazo de vigência\n\n1 - O PDMM vigorará pelo prazo máximo de 10 anos, contados a partir da data da sua publicação no Diário da República, sem prejuízo da sua revisão nos termos da legislação em vigor.\n\n2 - O presente Regulamento só poderá ser alterado em sede de revisão ou de alteração do PDMM e de acordo com a legislação aplicável a estes procedimentos."
+  },
+  "7622270c792d9025": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objectivos\n\nConstituem objectivos do PDMM:\n\n1) Definir e estabelecer princípios e regras para a ocupação, uso e transformação do solo;\n\n2) Salvaguardar e valorizar o património cultural e natural existente;\n\n3) Promover e acautelar o desenvolvimento económico e social;\n\n4) Servir de enquadramento à elaboração de planos de actividades do município;\n\n5) Fornecer orientações para o planeamento municipal;\n\n6) Salvaguardar os direitos e interesses legalmente protegidos dos cidadãos."
+  },
+  "91daa613fa42b7d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Composição\n\n1 - O PDMM tem a seguinte composição:\n\nParte I - Elementos fundamentais do Plano;\n\nParte II - Elementos complementares e anexos do Plano.\n\n2 - Os elementos fundamentais do Plano são constituídos pelas seguintes peças:\n\na) Regulamento do PDMM;\n\nb) Planta de ordenamento;\n\nc) Planta actualizada de condicionantes.\n\n3 - Os elementos complementares e anexos do Plano são constituídos pelas seguintes peças:\n\na) Planta de enquadramento;\n\nb) Estudos de caracterização e diagnóstico;\n\nc) Planta da situação existente;\n\nd) Relatório de propostas."
+  },
+  "8b17746d576246ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Natureza jurídica\n\nO PDMM tem a natureza de regulamento administrativo."
+  },
+  "212063434e163374": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO II — Servidões administrativas e outras restrições de utilidade pública ao uso dos solos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Servidões administrativas e outras restrições de utilidade pública ao uso dos solos"
+  },
+  "de982cfa301bfd2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Generalidades"
+  },
+  "648029b2a6a39b31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Identificação e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Identificação e regime\n\n1 - As servidões administrativas e outras restrições de utilidade pública ao uso dos solos encontram-se delimitadas ou identificadas na planta actualizada de condicionantes e regem-se pela lei geral e especial e pelo presente Regulamento.\n\n2 - As servidões administrativas e outras restrições de utilidade pública ao uso dos solos identificadas neste Regulamento são as seguintes:\n\na) Domínio público hídrico;\n\nb) Margens e zonas inundáveis;\n\nc) Albufeiras, zonas reservadas e de protecção;\n\nd) Zona de defesa e ou protecção aos recursos geológicos;\n\ne) Reserva Ecológica Nacional (REN);\n\nf) Reserva Agrícola Nacional (RAN);\n\ng) Perímetros de rega;\n\nh) Perímetros florestais;\n\ni) Reservas de caça;\n\nj) Perímetro de protecção a monumentos nacionais, imóveis de interesse público e outros sítios histórico-arqueológicos protegidos;\n\nk) Perímetros de protecção e servidões a redes de abastecimento de água, redes de drenagem de esgotos e condutas e canais de rega;\n\nl) Perímetro de protecção a estações de tratamento de águas residuais;\n\nm) Perímetro de protecção à lixeira e ou aterros sanitários;\n\nn) Servidão à passagem de linhas eléctricas;\n\no) Servidão radioeléctrica;\n\np) Servidão non aedificandi às estradas da rede nacional;\n\nq) Servidão non aedificandi às vias municipais;\n\nr) Servidão non aedificandi às vias férreas;\n\ns) Servidão e outros condicionamentos aeronáuticos;\n\nt) Perímetro de protecção a marcos geodésicos."
+  },
+  "82db5beb34078139": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Património natural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Património natural"
+  },
+  "ea006b2f272009f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Domínio público hídrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Domínio público hídrico\n\nFazem parte do domínio público hídrico e encontram-se protegidos, segundo a legislação em vigor, as águas públicas e os leitos e as margens dos cursos de água não navegáveis nem flutuáveis, nos troços em que atravessem terrenos públicos do Estado, bem como as águas públicas, os leitos e as margens dos cursos de água navegáveis e flutuáveis."
+  },
+  "f740e109bb1b9ae2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Margens e zonas inundáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Margens e zonas inundáveis\n\n1 - Nas margens das águas não navegáveis nem flutuáveis de 10 m de largura a ocupação ou utilização do solo encontra-se condicionada e rege-se pela legislação em vigor, considerando-se non aedificandi uma faixa mínima de 5 m.\n\n2 - Nas margens do rio Tua e na zona de influência da ponte-açude de Mirandela, de 50 m de largura, a ocupação ou utilização do solo encontra-se condicionada e rege-se pela legislação em vigor.\n\n3 - Nas zonas inundáveis dos rios Tua, Tuela e Rabaçal e da ribeira de Carvalhais a ocupação do solo encontra-se condicionada e rege-se pela legislação em vigor."
+  },
+  "bd9c110b4e6eb526": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Albufeiras, zonas reservadas e de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Albufeiras, zonas reservadas e de protecção\n\n1 - O PDMM propõe a classificação de Protegida para a albufeira do Cachão.\n\n2 - O PDMM propõe a classificação de Utilização limitada para a albufeira da ponte-açude de Mirandela.\n\n3 - A albufeira referida no n.º 1 do presente artigo possui uma zona reservada de 50 m e uma zona de protecção de largura nunca inferior a 500 m, medidos a partir do nível de pleno armazenamento, que se encontram delimitadas na planta actualizada de condicionantes e na planta de ordenamento.\n\n4 - A albufeira referida no n.º 2 possui uma zona reservada de 50 m e uma zona de protecção delimitada na planta actualizada de condicionantes e na planta de ordenamento."
+  },
+  "9d8962dd3d989d98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Zona de defesa e ou protecção aos recursos geológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Zona de defesa e ou protecção aos recursos geológicos\n\n1 - Integram-se no domínio público do Estado os depósitos minerais.\n\n2 - Os recursos geológicos mencionados no número anterior e a sua protecção regem-se pela legislação em vigor.\n\n3 - As zonas de defesa à exploração das massas minerais terão valores nunca inferiores aos da legislação em vigor."
+  },
+  "45581c73f8c31dc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Reserva Ecológica Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Reserva Ecológica Nacional\n\nAs áreas da REN referenciadas na planta de condicionantes correspondem à delimitação aprovada das áreas a integrar na REN relativas ao concelho e que são as seguintes:\n\n1) Leitos e cursos de água e ínsuas;\n\n2) Zonas ameaçadas pelas cheias;\n\n3) Albufeiras e faixa de protecção;\n\n4) Cabeceiras das linhas de água;\n\n5) Áreas de infiltração máxima;\n\n6) Áreas com risco de erosão."
+  },
+  "a7a313f10946c511": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Reserva Ecológica Nacional - Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reserva Ecológica Nacional - Regime jurídico\n\nÀs áreas da REN é aplicável o seu regime jurídico, tendo em conta o estabelecido nos números seguintes deste artigo.\n\n1 - Nas cabeceiras das linhas de água deverá assegurar-se a defesa contra a erosão e evitar-se obstruções ao escoamento superficial da água, favorecendo a infiltração das águas pluviais.\n\n2 - Para efeitos do número anterior deverá proteger-se o coberto vegetal existente e reduzir as áreas não revestidas, privilegiando os seguintes tipos de revestimento vegetal:\n\na) Nas áreas agrícolas, os prados e as pastagens permanentes;\n\nb) Nas áreas florestais, com baixo risco de erosão, a vegetação espontânea para pastagem extensiva;\n\nc) Nas partes mais altas das linhas de água de regime torrencial e nas encostas de declives acentuados, a floresta de protecção predominantemente de carvalhal e mistos de folhosas.\n\n3 - Nas áreas de infiltração máxima deverá assegurar-se a implantação de coberto vegetal que favoreça a retenção de água e aumente a permeabilidade ao nível superficial do solo, contribuindo para o retardamento da escorrência superficial da água das chuvas, de acordo com o seguinte:\n\na) Nas áreas agrícolas serão recomendáveis os prados permanentes e as práticas culturais adequadas, com lavouras segundo as curvas de nível e rotações que contrariem a ocorrência de solo nu na época das chuvas;\n\nb) Nas áreas florestais deverá assegurar-se a sua função de retenção das águas, privilegiando os mistos de folhosas nos maciços e cortinas de protecção nas áreas agrícolas;\n\nc) Nos núcleos florestais existentes deverão contrariar-se os cortes rasos e deverá proceder-se à reflorestação das áreas ardidas com espécies adequadas à sua função de protecção.\n\n4 - Nas áreas de infiltração máxima não é permitido o depósito de resíduos sólidos poluentes e a descarga directa de efluentes líquidos poluentes de qualquer natureza.\n\n5 - Nas áreas com risco de erosão deverá assegurar-se a fixação e melhoramento do solo, através da protecção e extensão das áreas com vegetação natural.\n\n6 - Para efeitos do número anterior, deverão proteger-se as áreas de floresta autóctone e alargar-se a sua área com plantação de folhosas nas linhas de água e nas encostas mais declivosas não protegidas."
+  },
+  "52fa344d943bf97b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Reserva Ecológica Nacional - Regime de excepção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reserva Ecológica Nacional - Regime de excepção\n\nCom regime de excepção poderão ser licenciadas, em áreas da REN, acções que, pela sua natureza e dimensão, sejam insusceptíveis de prejudicar o equilíbrio ecológico daquelas áreas, de acordo com os seguintes condicionamentos e disposições:\n\n1) A realização de acções que tenham por objecto a beneficiação da actividade agrícola e ou florestal, nomeadamente através da alteração do relevo para adaptação dos terrenos às culturas e a criação de acessos rurais com largura não superior a 4 m, desde que autorizadas pelos organismos competentes da tutela;\n\n2) As construções, ampliações e remodelações de edifícios tradicionais de apoio às actividades agrícolas e silvícolas, desde que satisfaçam cumulativamente os seguintes condicionamentos:\n\na) Não existência fora da REN de alternativa viável para a sua localização;\n\nb) Não comprometimento de áreas pertencentes aos ecossistemas referidos nos n.os 1, 2 e 5 do artigo 14.º;\n\nc) Altura máxima acima do solo de 6 m, salvo instalações com satisfatória justificação técnica;\n\nd) Área de implantação não superior a 250 m2, salvo instalações com satisfatória justificação técnica;\n\ne) Área mínima da parcela de 5 ha;\n\nf) Declive do terreno inferior ou igual a 45%;\n\ng) Alta qualidade arquitectónica e de saneamento, com integração paisagística adequada;\n\n3) As construções, ampliações ou remodelações de habitações destinadas à residência habitual do proprietário ou do titular dos direitos de exploração ou ainda destinadas à habitação dos trabalhadores permanentes da exploração agrícola, silvícola ou agro-florestal, desde que satisfaçam cumulativamente o estabelecido nas alíneas a) e b) do n.º 2 e ainda:\n\na) Altura máxima acima do solo de dois pisos ou 6 m;\n\nb) Área de implantação não superior a 250 m2;\n\nc) Área mínima da parcela de 5 ha;\n\nd) Área impermeabilizada não superior a 400 m2;\n\ne) Declive do terreno inferior ou igual a 35%;\n\n4) As construções, ampliações ou remodelações de edifícios no âmbito do turismo rural são permitidas, desde que satisfaçam cumulativamente o estabelecido nas alíneas a) e b) do n.º 2 e ainda:\n\na) Área mínima da parcela de 4 ha;\n\nb) As novas construções apenas poderão ser edificadas se o declive do terreno não exceder 35%;\n\nc) Para as novas construções e ampliações é obrigatória a elaboração de um estudo de integração paisagística e ambiental, certificando a manutenção do equilíbrio ecológico;\n\nd) Em todas as obras deverá ser impermeabilizada a menor área possível do ponto de vista técnico;\n\n5) Parques de campismo;\n\n6) Conjuntos turísticos, meios complementares de alojamento turístico, estabelecimentos hoteleiros e similares localizados na faixa de protecção às albufeiras, desde que não integrados em qualquer outro ecossistema da REN;\n\n7) Obras com finalidade agrícola ou florestal, nomeadamente tanques para rega, pequenas barragens e pontos de água contra incêndios."
+  },
+  "91320c24790be26e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Reserva Ecológica Nacional - Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reserva Ecológica Nacional - Disposições complementares\n\n1 - As alterações topográficas necessárias à implementação das acções licenciadas ao abrigo do artigo 16.º deverão garantir o restabelecimento e ou compensação da drenagem natural do terreno.\n\n2 - As áreas em que se verifique alteração de relevo, decorrente da execução de projectos devidamente aprovados ao abrigo do artigo 16.º, deverão ser revestidas com vegetação adequada, de modo a evitar-se o arrastamento de solo por escorrência superficial.\n\n3 - As construções em encostas com declive superior a 25% deverão adaptar-se ao terreno de forma escalonada.\n\n4 - Em todas as albufeiras, abaixo do nível de pleno armazenamento, é interdita toda e qualquer acção de edificabilidade, incluindo as reconstruções."
+  },
+  "400da8b1443dda4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Reserva Agrícola Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reserva Agrícola Nacional\n\nEncontram-se delimitadas na planta actualizada de condicionantes e na planta de ordenamento as áreas integradas na RAN e que se regem pelo regime da RAN, nos termos da legislação em vigor."
+  },
+  "0d73fcfc113cbe02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Perímetros de rega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Perímetros de rega\n\n1 - Encontram-se delimitados na planta actualizada de condicionantes e na planta de ordenamento os perímetros de rega.\n\n2 - Os perímetros de rega regem-se pela legislação em vigor e demais condicionamentos estabelecidos neste Regulamento."
+  },
+  "ed26e7f794ffce68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Perímetros florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Perímetros florestais\n\n1 - Encontram-se delimitados na planta actualizada de condicionantes e na planta de ordenamento os perímetros florestais integrados no território do concelho.\n\n2 - Os perímetros florestais são espaços tutelados pelo Instituto Florestal e encontram-se submetidos ao regime legal específico - regime florestal."
+  },
+  "c034d9e2d031951f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Reservas de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reservas de caça\n\n1 - Encontram-se delimitadas na planta actualizada de condicionantes e na planta de ordenamento as reservas de caça.\n\n2 - As reservas de caça são espaços tutelados pelo Instituto Florestal e encontram-se protegidas segundo a legislação em vigor."
+  },
+  "35c3b8c282342488": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Património histórico-arqueológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Património histórico-arqueológico"
+  },
+  "47b1e40fcac5a2d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Perímetros de protecção a monumentos nacionais, imóveis de interesse público e outros sítios histórico-arqueológicos protegidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Perímetros de protecção a monumentos nacionais, imóveis de interesse público e outros sítios histórico-arqueológicos protegidos\n\n1 - Encontram-se classificados como monumentos nacionais e protegidos, segundo a legislação em vigor, os seguintes monumentos:\n\na) Ponte da Pedra, sobre o rio Tuela - Torre de D. Chama;\n\nb) Ponte românica sobre o rio Tua - Mirandela.\n\n2 - Encontram-se classificados como imóveis de interesse público e protegidos, segundo a legislação em vigor, os seguintes valores:\n\na) Castelo de Mirandela - lugar de São Martinho, Mirandela;\n\nb) Castro de São Juzenda - Vale Prados, Múrias;\n\nc) Igreja de São Tomé - Abambres;\n\nd) Paço dos Távoras - Praça do Município, Mirandela;\n\ne) Pelourinho de Abreiro - Abreiro;\n\nf) Pelourinho de Frechas - Frechas;\n\ng) Pelourinho de Lamas de Orelhão - Lamas de Orelhão;\n\nh) Pelourinho de Mirandela - Mirandela;\n\ni) Pelourinho de Torre de D. Chama - Torre de D. Chama;\n\nj) Castro de São Brás, Torre de D. Chama - Torre de D. Chama;\n\nl) Igreja barroca de Avantos - Avantos;\n\nm) Igreja paroquial de Guide - Guide, Torre de D. Chama;\n\nn) Abrigos rupestres do regato das Bouças - Passos;\n\no) Igreja da misericórdia - Mirandela;\n\np) Solar dos Condes de Vinhais - Mirandela.\n\n3 - São propostos para classificação como imóveis de interesse público e delimitados os respectivos perímetros de protecção na planta actualizada de condicionantes os seguintes valores:\n\na) Fonte dos Engaranhados - Frechas;\n\nb) Povoado fortificado do Regato da Vacaria - Múrias;\n\nc) Castro romanizado de Nossa Senhora do Monte - Aguieiras;\n\nd) Solar dos Barbosas - Alvites;\n\ne) Casa quinhentista - Vale de Telhas;\n\nf) Fraga do Corvo, gravuras rupestres - Avidagos;\n\ng) Castro do Alto do Prado Castelo - Cedães;\n\nh) Castelo do Rei de Orelhão - Lamas de Orelhão;\n\ni) Castro do Cabeço do Murado - Caravelas;\n\nj) Mina romana do Buraco da Gralheira - Avidagos;\n\nl) Anta de Caravelas - Caravelas;\n\nm) Caminho medieval - Quinta da Pendurada, Abreiro;\n\nn) Porta de Santo António - Mirandela;\n\no) Ponte romana de São Sebastião - Mirandela;\n\np) Ponte romana sobre o ribeiro do Arquinho - Torre de D. Chama.\n\n4 - São propostos para classificação como imóveis de interesse concelhio e delimitados os respectivos perímetros de protecção na planta actualizada de condicionantes os seguintes valores:\n\na) Santuário e castro romanizado da Senhora do Viso - Mascarenhas;\n\nb) Povoado romanizado da Fraga do Penedo - Mascarenhas;\n\nc) Núcleo rural de Guribanes - Mascarenhas;\n\nd) Povoado fortificado do Abreiro - Abreiro;\n\ne) Povoado fortificado do Arasto - Suçães;\n\nf) Complexo Industrial de Moagem de Guribanes - Mascarenhas;\n\ng) Igreja de Abambres - Abambres;\n\nh) Casa dos Barrosos e capela - Abambres;\n\ni) Solar dos Mendonças - Abreiro;\n\nj) Casa do Cruzeiro - Abreiro;\n\nl) Casa dos Pastorinhos - Abreiro;\n\nm) Casa brasonada na Rua do Outeiro - Abreiro;\n\nn) Igreja de Abreiro - Abreiro;\n\no) Casa brasonada nas Aguieiras - Aguieiras;\n\np) Igreja da Soutilha - Soutilha;\n\np) Igreja de Alvites - Alvites;\n\nr) Casa brasonada nos Avantos - Avantos;\n\ns) Igreja dos Avidagos - Avidagos;\n\nt) Casa brasonada na Bouça - Bouça;\n\nu) Igreja da Ferradosa - Ferradosa;\n\nv) Casa Castro - Ferradosa;\n\nx) Igreja de Cabanelas - Cabanelas;\n\nz) Solar de Cabanelas - Cabanelas;\n\naa) Igreja de Caravelas - Caravelas;\n\nab) Casa dos Távoras - Carvalhais;\n\nac) Casa de Manuel António de Carvalho - Carvalhais;\n\nad) Casa brasonada em Contins - Contins;\n\nae) Antiga Abadia Conventual dos Frades de São Jerónimo - Vila Nova das Patas;\n\naf) Igreja de Cedães;\n\nag) Igreja do Cobro - Rego de Vide;\n\nah) Igreja da Fradizela - Fradizela;\n\nai) Igreja da Ribeirinha - Ribeirinha;\n\naj) Igreja do Franco - Franco;\n\nal) Casa com capela e ponte no Franco - Franco;\n\nam) Solar em Frechas - Frechas;\n\nan) Igreja de Frechas - Frechas;\n\nao) Igreja da Freixeda - Freixeda;\n\nap) Igreja de Lamas de Orelhão - Lamas de Orelhão;\n\naq) Casa brasonada 1 em Lamas de Orelhão;\n\nar) Casa brasonada 2 em Lamas de Orelhão;\n\nas) Casa Lima e capela - São Pedro de Vale do Conde;\n\nat) Igreja de São Pedro de Vale do Conde;\n\nau) Igreja de Mascarenhas;\n\nav) Casa brasonada 1 em Mascarenhas;\n\nax) Casa brasonada 2 em Mascarenhas;\n\naz) Igreja de Paradela;\n\nba) Casa solar em Valbom dos Figos;\n\nbb) Casa e capela em Paradela;\n\nbc) Casa de cima e Capela de São Miguel - Mirandela;\n\nbd) Casa e Capela de São Francisco - Mirandela;\n\nbe) Igreja de Vale de Prados;\n\nbf) Igreja dos Passos;\n\nbg) Restaurante e Museu Maria Rita - Romeu;\n\nbh) Igreja do Romeu de Cima - Romeu;\n\nbi) Núcleo da Quinta de Menéres em Romeu de Baixo - Romeu;\n\nbj) Núcleo urbano do Largo da Igreja do Vimieiro - Vimieiro;\n\nbl) Igreja de São Pedro Velho - São Pedro Velho;\n\nbm) Casa brasonada e Capela de São Salvador;\n\nbn) Igreja de São Salvador;\n\nbo) Solar dos Pavões 1 - Suçães;\n\nbp) Solar dos Pavões 2 - Suçães;\n\nbq) Igreja de Suçães;\n\nbr) Igreja de Torre de D. Chama;\n\nbs) Igreja de Vale de Asnes;\n\nbt) Igreja de Vale de Gouvinhas;\n\nbu) Igreja de Vale de Salgueiro;\n\nbv) Casa brasonada em Vale de Salgueiro;\n\nbx) Igreja de Vale de Telhas;\n\nbz) Fonte romana em Vale de Telhas;\n\nca) Casa brasonada em Vale de Telhas;\n\ncb) Casa e torrinha em Vale de Telhas;\n\ncc) Igreja de Vila Boa;\n\ncd) Azenha na Ponte dos Vilares, no rio de Macedo - Torre de D. Chama;\n\nce) Ponte de Vale de Telhas sobre o rio Rabaçal - Vale de Telhas;\n\ncf) Ponte da Formigosa sobre o rio Tuela - Vale de Juncal;\n\ncg) Ponte do Franco, EN 15 - Franco;\n\nch) Ponte de Vale Verde da Gestosa sobre o rio Tua - Vale Verde da Gestosa.\n\nci) Capela da Casa Mesquita - Mascarenhas;\n\ncj) Freixedinho - Mirandela;\n\ncl) Aldeia do Romeu.\n\n5 - O regime de protecção no interior dos perímetros de protecção referidos nos n.os 3 e 4 do presente artigo obedecerá ao estabelecido, nos termos da lei, para os imóveis de interesse público.\n\n6 - São ainda identificados, e delimitados os respectivos perímetros de protecção na planta actualizada de condicionantes os seguintes valores histórico-arqueológicos:\n\na) Santuário de Nossa Senhora do Monte - Aguieiras;\n\nb) Povoado fortificado do Cabeço do Mouro - Vila Verde;\n\nc) Povoado fortificado de Vila Verde - Vila Verde;\n\nd) Solar dos Bacelares - Alvites;\n\ne) Castelo de Passos - Passos;\n\nf) Povoado romano - Lamas de Orelhão;\n\ng) Castro romanizado da Fraga do Castelo - Vale de Sancha, Frechas;\n\nh) Atalaia medieval do Soalheiro - Lamas de Orelhão;\n\ni) Santuário e castro romanizado de Santa Catarina - Marmelos;\n\nj) Marco romano da Igreja de Lamas de Orelhão - Lamas de Orelhão;\n\nl) Berrão de Torre de D. Chama - Torre de D. Chama;\n\nm) Restos da mamoa de Esterquiço - Marmelos;\n\nn) Marco miliário de Vale de Gouvinhas - Vale de Gouvinhas;\n\no) Ruínas da ponte medieval de Abreiro - Abreiro;\n\np) Cruzeiro de Abreiro - Abreiro;\n\nq) Anta de Arcã - Abreiro;\n\nr) Povoado antigo da Quinta da Pendurada - Abreiro;\n\ns) Povoado de Freixeda - Vale de Telhas;\n\nt) Marco miliário de Vale de Telhas - Vale de Telhas;\n\nu) Capela e castro romanizado de Santa Catarina - Abreiro;\n\nv) Cemitério dos Mouros - povoado da Idade do Bronze - Abreiro.\n\nx) Dólmen do Prado Santo - Abambres;\n\nz) Mamoa da Madorra - Caravelas;\n\naa) Mamoa do Malhado - Caravelas;\n\nab) Mamoa de Prado - Caravelas;\n\nac) Póvoa medieval de São Martinho - Marmelos;\n\nad) Abrigo calcolítico do Buraco da Pala - Passos;\n\nae) Mina de São Salvador - São Salvador;\n\naf) Casal rural romana de Saínça - Suçães;\n\nag) Castro romanizado de Vale de Telhas - muralha - Vale de Telhas;\n\nah) Povoado medieval da Quinta da Ponte;\n\nai) Castro romanizado do Cabeço - Vale de Telhas."
+  },
+  "cbd6591691e9fbb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Infra-estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Infra-estruturas"
+  },
+  "3099dce41805e611": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Perímetros de protecção e servidões às redes de abastecimento de água, redes de drenagem de esgotos e condutas e canais de rega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Perímetros de protecção e servidões às redes de abastecimento de água, redes de drenagem de esgotos e condutas e canais de rega\n\n1 - Estão protegidas, nos termos da legislação em vigor, todas as infra-estruturas de abastecimento de água e de drenagem de esgotos, nomeadamente as captações de águas públicas subterrâneas, as adutoras, as condutas e canais de rega, os reservatórios e estações de tratamento de água e os emissários e colectores de esgotos.\n\n2 - São definidos perímetros de protecção às captações de águas públicas subterrâneas, num raio de 300 m, onde são proibidos todos os despejos de águas e lamas residuais, a deposição de detritos sólidos e semi-sólidos e todas as acções susceptíveis de alterar as características físicas, químicas a bacteriológicas da água.\n\n3 - É proibida a edificação ou a plantação de árvores a menos de 20 m de qualquer estação de tratamento de água.\n\n4 - É proibida a edificação a menos de 5 m e a plantação de árvores a menos de 10 m de qualquer adutora para abastecimento de água e dos emissários e colectores de esgotos.\n\n5 - É proibida a edificação ou a plantação de árvores a menos de 20 m de qualquer reservatório para abastecimento de água.\n\n6 - É proibida a edificação ou a plantação de árvores a menos de 20 m de qualquer fossa séptica de uso colectivo.\n\n7 - É proibida a plantação de árvores a menos de 5 m das condutas e canais de rega."
+  },
+  "eeea936563cdc463": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Perímetro de protecção a estações de tratamento de águas residuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Perímetro de protecção a estações de tratamento de águas residuais\n\n1 - As estações de tratamento de águas residuais encontram-se protegidas, sem prejuízo da legislação em vigor, por uma faixa envolvente com a largura mínima de 50 m, na qual é interdita a edificação para funções residenciais ou actividades hoteleiras e similares.\n\n2 - É proibida a abertura de poços, furos ou captações de água que se destinem a rega ou ao consumo doméstico a menos de 50 m das áreas afectas a qualquer estação de tratamento de águas residuais."
+  },
+  "ccc5469f9fc3ed6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Perímetro de protecção à lixeira e aos aterros sanitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Perímetro de protecção à lixeira e aos aterros sanitários\n\n1 - A lixeira e os aterros sanitários encontram-se protegidos, sem prejuízo da legislação em vigor, por uma faixa envolvente com a largura mínima de 200 m, na qual é interdita a edificação para funções residenciais ou actividades hoteleiras e similares.\n\n2 - É proibida a abertura de poços, furos ou captações de água que se destinem a rega ou ao consumo doméstico a menos de 1000 m das áreas afectas a qualquer lixeira ou aterro sanitário."
+  },
+  "0e180cffcb829160": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Servidão à passagem de linhas eléctricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Servidão à passagem de linhas eléctricas\n\nAs linhas de energia eléctrica encontram-se protegidas por servidão à sua passagem, de acordo com a legislação em vigor, que estabelece distâncias mínimas dos edifícios às linhas eléctricas, em função da tensão instalada na rede."
+  },
+  "b7ba5bc4bbd111ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Servidão radioeléctrica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Servidão radioeléctrica\n\nA servidão radioeléctrica é constituída pelas áreas envolventes dos centros radioeléctricos, zonas de libertação, e pelas faixas que unem dois centros, faixas de desobstrução, devidamente assinaladas na planta actualizada de condicionantes e regida de acordo com a legislação em vigor."
+  },
+  "9ae70f020f9df932": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Servidão non aedificandi às estradas da rede nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Servidão non aedificandi às estradas da rede nacional\n\n1 - Integram a rede fundamental do Plano Rodoviário Nacional, no território do concelho, o IP4 e a EN 102.\n\n2 - Integra a rede complementar - outras estradas do Plano Rodoviário Nacional no território do concelho a EN 213 entre o limite do concelho nas proximidades de Eixes, por Mirandela, e o limite do concelho nas proximidades do Cachão.\n\n3 - Estão ainda sob jurisdição da Junta Autónoma de Estradas as seguintes estradas desclassificadas:\n\na) EN 15, desde o limite do concelho nas proximidades do Franco ao limite do concelho nas proximidades do Vimieiro;\n\nb) EN 315, desde o limite do concelho nas proximidades de Chairos, por Vale de Salgueiro, ao limite do concelho nas proximidades de Vale de Asnes;\n\nc) EN 206, desde o limite do concelho - ponte de Vale de Telhas - por Torre de D. Chama até ao limite do concelho;\n\nd) EN 314, desde o limite do concelho até proximidades de Abreiro;\n\ne) EN 15-4, desde o cruzamento com a EN 15, por São Pedro de Vale do Conde, até ao limite do concelho;\n\nf) EN 206-1, desde Torre de D. Chama, por Valbom dos Figos, até Vila Nova das Patas;\n\ng) EN 102-1, desde o limite do concelho até à EN 15.\n\n4 - As faixas de servidão non aedificandi adjacentes às vias referidas nos n.os 1, 2 e 3 do presente artigo nunca serão inferiores ao estabelecido na legislação em vigor."
+  },
+  "2d7ed4293b867a40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Servidão non aedificandi às vias municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Servidão non aedificandi às vias municipais\n\nAs vias municipais, com excepção das estradas desclassificadas sob jurisdição da Junta Autónoma de Estradas, serão protegidas com faixas de servidão non aedificandi e outras condicionantes à edificação, com valores nunca inferiores aos da legislação em vigor e de acordo com a hierarquia da rede viária municipal estabelecida."
+  },
+  "88387c982c5c8fee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Servidão non aedificandi às vias férreas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Servidão non aedificandi às vias férreas\n\nAs vias férreas estão protegidas com faixas de servidão non aedificandi e outras condicionantes à edificação, com valores nunca inferiores aos da legislação em vigor."
+  },
+  "836b9f0eee529241": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Servidão e outros condicionamentos aeronáuticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Servidão e outros condicionamentos aeronáuticos\n\n1 - O Aeródromo de Mirandela está sujeito a áreas e superfícies de desobstrução condicionantes à utilização do solo nos termos da legislação em vigor, devidamente assinaladas na planta actualizada de condicionantes.\n\n2 - As zonas vizinhas do Aeródromo de Mirandela são consideradas áreas de maior risco estatístico de acidentes, têm uma largura de 300 m simétrica em relação ao eixo da pista e respectivo prolongamento e estendem-se por 500 m para além de cada extremidade da pista."
+  },
+  "7ecdab4d5caec1d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Cartografia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Cartografia"
+  },
+  "c02864860137953d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Perímetros de protecção a marcos geodésicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Perímetros de protecção a marcos geodésicos\n\n1 - Os marcos geodésicos encontram-se protegidos por uma área envolvente mínima de 15 m de raio, na qual é estritamente proibida qualquer acção que ameace o seu bom estado de conservação, a sua localização geográfica e a sua visibilidade a partir de pontos distantes.\n\n2 - Todas as intervenções nas suas proximidades carecem de autorização do Instituto Geográfico e Cadastral."
+  },
+  "81392fc0861d63a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO III — Uso dominante do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Uso dominante do solo"
+  },
+  "9f4c40d8174cc187": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Classes de espaços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Classes de espaços\n\nEm função do uso dominante do solo e sem prejuízo das condicionantes decorrentes dos regimes da REN, da RAN e de outras servidões administrativas ou restrições de utilidade pública, são consideradas as classes seguintes de espaços, que se encontram delimitadas na planta de ordenamento:\n\n1) Espaços urbanos;\n\n2) Espaços urbanizáveis;\n\n3) Espaços industriais;\n\n4) Espaços destinados à indústria extractiva;\n\n5) Áreas de recreio e lazer;\n\n6) Espaços agrícolas:\n\na) Espaços agrícolas pertencentes à RAN;\n\nb) Outros espaços agrícolas;\n\n7) Espaços florestais:\n\na) Perímetros florestais;\n\nb) Projectos florestais;\n\nc) Núcleos florestais;\n\n8) Espaços naturais de utilização múltipla;\n\n9) Áreas de protecção ao património histórico-arqueológico;\n\n10) Áreas de importante valor paisagístico;\n\n11) Áreas de protecção à fauna e flora;\n\n12) Espaços-canais;\n\n13) Albufeiras;\n\n14) Sítios de interesse geológico;\n\n15) Lixeira."
+  },
+  "2a26904f1d4a9f06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Alteração às classes de espaços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Alteração às classes de espaços\n\nA alteração ou transposição de qualquer parcela do território para uma classe distinta daquela que lhe está consignada na planta de ordenamento só poderá realizar-se através de processo adequado de alteração ou de revisão do PDMM ou decorrente da elaboração de plano de urbanização ou plano de pormenor, ratificado superiormente, nos termos da legislação em vigor."
+  },
+  "f2c71279dad20292": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Ajustamento de limites entre espaços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Ajustamento de limites entre espaços\n\nNos casos em que haja dúvidas acerca da classificação de locais junto aos limites entre classes, devido à falta de pormenor da escala utilizada na planta de ordenamento de 1:25000, caberá à Câmara Municipal decidir da inclusão numa ou noutra classe, tendo por base elementos facilmente identificáveis, designadamente:\n\na) Vias existentes ou propostas;\n\nb) Cadastro da área;\n\nc) Curvas de nível;\n\nd) Marcos geodésicos;\n\ne) Elementos permanentes na paisagem."
+  },
+  "5e7ee12ce1b11c2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Espaços urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Espaços urbanos"
+  },
+  "8a94f25d2b51e9de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Caracterização\n\nOs espaços urbanos caracterizam-se pelo uso do solo predominantemente edificado e infra-estruturado, apresentando condições para habitação, equipamentos, comércio e serviços e outras actividades compatíveis com as anteriores."
+  },
+  "42dbf6b1ed825094": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Uso dominante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Uso dominante\n\nO uso dominante dos espaços urbanos é a edificação para habitação."
+  },
+  "2caacad13b7fc3bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Usos supletivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Usos supletivos\n\nSão usos supletivos nos espaços urbanos a edificação para equipamentos, comércio e serviços e as áreas verdes urbanas."
+  },
+  "ba5d6b7eb6bdb986": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Outros usos compatíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Outros usos compatíveis\n\nSão consideradas compatíveis com o uso dominante e com os usos supletivos, estabelecidos, respectivamente, nos artigos 37.º e 38.º, as seguintes instalações:\n\n1) A instalação de indústrias das classes D e C, desde que não ofereçam riscos de poluição nem apresentem perigosidade ou outros inconvenientes, nomeadamente de aparcamento e de circulação para as áreas vizinhas;\n\n2) A instalação de armazéns que, pelo estacionamento, cargas e descargas e volume de tráfego gerados, não causem:\n\na) Congestionamento da circulação viária;\n\nb) Congestionamento dos espaços para estacionamento disponíveis;\n\nc) Diminuição da segurança rodoviária;\n\nd) Riscos de incêndio ou explosão."
+  },
+  "42d676b58b3059ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Edificabilidade\n\n1 - Todas as edificações respeitarão os planos de urbanização, de pormenor ou os loteamentos aprovados, só existirem.\n\n2 - No caso de não existir qualquer plano de urbanização ou de pormenor plenamente eficazes ou loteamentos aprovados, só serão autorizadas as edificações que conduzam à qualificação do espaço urbano, através de soluções arquitectónicas que concretizem uma integração harmoniosa com os edifícios e funções envolventes, nomeadamente no que se refere a tráfego e estacionamento.\n\n3 - No caso de não existir qualquer plano de urbanização, de pormenor ou loteamento plenamente eficazes, não serão autorizados os edifícios que:\n\na) Ultrapassem a altura dominante do conjunto onde irão inserir-se ou o plano de cérceas estabelecido pela Câmara Municipal para o local;\n\nb) Contrariem o alinhamento dominante do conjunto onde irão inserir-se ou o plano de alinhamento estabelecido para o local.\n\n4 - Exceptuam-se do disposto no n.º 3 do presente artigo as edificações referentes a equipamentos, unidades hoteleiras ou outras que conduzam à qualificação do espaço urbano, através de soluções arquitectónicas e urbanísticas que concretizem uma integração harmoniosa com os edifícios e funções envolventes, através de projecto realizado por arquitecto.\n\n5 - Será sempre encargo do requerente a realização das obras de ligação à rede pública de infra-estruturas, estando neste caso, para além de outras que possam ser determinadas pela Câmara Municipal:\n\na) Ligação à rede viária e ou a sua beneficiação;\n\nb) Ligação à rede de águas residuais;\n\nc) Ligação à rede de abastecimento de água;\n\nd) Ligação à rede de energia eléctrica.\n\n6 - No caso de não existir rede pública de abastecimento de água, de águas residuais ou de energia eléctrica, fica o requerente obrigado a realizar as obras necessárias para assegurar aquelas infra-estruturas básicas em regime de auto-suficiência, com obrigatoriedade de ligação às referidas redes públicas logo que elas existam.\n\n7 - Todas as edificações são obrigadas a ceder, a título gratuito, as áreas necessárias para passeios e estacionamentos determinados pela Câmara Municipal.\n\n8 - A edificação nos espaços urbanos fora do perímetro urbano da cidade de Mirandela e do perímetro urbano de Torre de D. Chama respeitará os seguintes parâmetros:\n\na) Altura máxima de três pisos - rés-do-chão, 1.º e 2.º andares a partir da cota de serventia;\n\nb) Habitação isolada unifamiliar, dupla, geminada bifamiliar ou em banda descontínua;\n\nc) A percentagem máxima construída no lote é de 60%.\n\n9 - Enquanto não forem elaborados planos de urbanização, a edificação na área urbana da cidade de Mirandela e da vila de Torre de D. Chama respeitará os parâmetros definidos no n.º 8 do presente artigo, com excepção da alínea a), sendo a altura máxima de seis pisos - rés-do-chão, 1.º, 2.º, 3.º, 4º e 5.º andares - para a cidade de Mirandela e de quatro pisos - rés-do-chão, 1.º, 2.º e 3.º andares - para a vila de Torre de D. Chama, sendo os pisos contados a partir da cota de serventia."
+  },
+  "e50d0439f5fa49d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Regime de cedências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Regime de cedências\n\n1 - Para efeito de edificação em parcela isolada e indivisa, os proprietários são obrigados a ceder à Câmara Municipal, a título gratuito, devidamente arranjadas, as áreas necessárias com as seguintes obras:\n\na) Construção e ou alargamento de vias de acesso - passeios e arruamentos;\n\nb) Estacionamento automóvel público - 1,5 lugares por fogo sem estacionamento privativo e 1 lugar por fogo com estacionamento privativo;\n\nc) Estacionamento automóvel público - 1 lugar por cada 50 m2 de área comercial, armazéns e serviços.\n\n2 - Para efeito da divisão da propriedade, decorrente de plano de urbanização, plano de pormenor ou operação de loteamento, com vista à sua implementação urbanística, os proprietários e demais titulares de direitos reais sobre o terreno são obrigados a ceder à Câmara Municipal, a título gratuito e devidamente arranjadas, as áreas necessárias com as seguintes obras:\n\na) Construção e ou alargamento de vias de acesso - passeios e arruamentos;\n\nb) Estacionamento automóvel público - dois lugares por fogo e por 50 m2 de área comercial, armazéns e serviços;\n\nc) Instalação de equipamentos colectivos;\n\nd) Construção de outras infra-estruturas;\n\ne) Espaços verdes.\n\n3 - A área total de cedência, incluindo a área afecta a vias e a área de estacionamento, referida no n.º 2 do presente artigo, não será inferior a 25% do total da área a urbanizar na cidade de Mirandela e na vila de Torre de D. Chama.\n\n4 - Poderá a cedência da área para estacionamento referida no n.º 1 do presente artigo ser substituída por compensação em numerário ou espécie, a aprovar em assembleia municipal, quando a parcela não dispuser, justificadamente, de área disponível para o efeito.\n\n5 - Poderá a cedência da área para estacionamento automóvel público referida no n.º 2 do presente artigo ser dispensada se as construções dispuserem de áreas de estacionamento cobertas, de acesso público, embora pago, sendo, neste caso, a área total de cedência não inferior a 15% da área a urbanizar."
+  },
+  "51e583274885d39b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Espaços urbanizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Espaços urbanizáveis"
+  },
+  "a1abbcce80ce2d35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Caracterização\n\nOs espaços urbanizáveis caracterizam-se pela sua boa aptidão geral para a urbanização, constituindo a reserva prevista, durante o prazo de validade do PDMM, para expansão do espaço urbano da sede do concelho."
+  },
+  "34c313df6c0f403f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Edificabilidade\n\n1 - A edificação nos espaços urbanizáveis deverá decorrer da elaboração e aprovação de plano de urbanização e ou de planos de pormenor.\n\n2 - Enquanto não existirem planos de urbanização e ou de pormenor para os espaços urbanizáveis da sede do concelho, a edificação poderá decorrer de operações de loteamento ou da construção em parcelas isoladas, que se regerão, com carácter transitório, pelas seguintes disposições:\n\na) Número máximo de três pisos - rés-do-chão, 1.º e 2.º andares, a partir da cota de serventia - em construção isolada e quatro pisos - rés-do-chão, 1.º, 2.º e 3.º andares, a partir da cota de serventia - em operações de loteamento;\n\nb) Todas as ligações às redes de infra-estruturas constituirão encargo do requerente;\n\nc) O arranjo dos passeios será realizado pela Câmara Municipal, mas o encargo será do requerente, em toda a extensão da frente do lote;\n\nd) A fachada não sobressairá da linha de fachadas dominante ou estabelecida;\n\ne) A percentagem máxima construída no lote é de 60%;\n\nf) Satisfação de parâmetros de qualidade arquitectónica e urbanística.\n\n3 - Com carácter de excepção, poderá ser admitida a construção de edifícios com um número de pisos superior ao estabelecido na alínea a) do n.º 2 do presente artigo, nomeadamente a construção de equipamentos colectivos e de unidades hoteleiras e similares, desde que justificado o seu interesse municipal e satisfeitos adequados padrões de qualidade arquitectónica e de integração urbanística.\n\n4 - A construção em espaços que não disponham de rede pública de abastecimento de água, de águas residuais ou de energia eléctrica fica condicionada à realização, pelo promotor, das obras necessárias para assegurar aquelas infra-estruturas básicas em regime de auto-suficiência, com obrigatoriedade de ligação às referidas redes públicas, logo que elas existam."
+  },
+  "f396727c893ff8c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Regime de cedências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Regime de cedências\n\nOs proprietários e demais titulares dos direitos reais sobre os terrenos são obrigados a ceder à Câmara Municipal, a título gratuito e devidamente arranjadas, as áreas necessárias para a construção e alargamento das vias de acesso, estacionamento público, construção de equipamentos colectivos e construção de outras infra-estruturas e espaços verdes, de acordo com o estabelecido no artigo 41.º"
+  },
+  "c1b99d07c6589e5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Espaços industriais e localização industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Espaços industriais e localização industrial"
+  },
+  "c1aeb71e51536690": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Caracterização\n\nSão definidas como espaços industriais e assinaladas na planta de ordenamento as seguintes zonas industriais:\n\na) Zona Industrial de Mirandela;\n\nb) Complexo Agro-Industrial do Cachão;\n\nc) Zona Industrial da Formigosa."
+  },
+  "0be03bbed9dcbec2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Uso dominante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Uso dominante\n\n1 - O uso dominante nas zonas industriais referidas nas alíneas a) e b) do artigo anterior será o da implantação de unidades industriais das classes A, B e C.\n\n2 - O uso dominante na zona industrial referida na alínea c) do artigo anterior será o da implantação de unidades industriais das classes C e D."
+  },
+  "5e52543a48e2c99d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Usos complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Usos complementares\n\nNos espaços industriais referidos no artigo 45.º são considerados os seguintes usos complementares:\n\na) Instalação de armazéns;\n\nb) Instalação de serviços de apoio às empresas, nomeadamente cantinas, zonas de convívio, postos de saúde, correios e telecomunicações, bombeiros e espaço para exposições."
+  },
+  "2946d0f523a088a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Estatuto de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Estatuto de utilização\n\n1 - A implementação da Zona Industrial de Mirandela e da Zona Industrial da Formigosa, referidas nas alíneas a) e c) do artigo 45.º, decorrem de operações de loteamento industrial ou de plano de pormenor.\n\n2 - As operações de loteamento ou o plano de pormenor referidos no n.º 1 do presente artigo têm obrigatoriamente de incluir, sem prejuízo da legislação em vigor:\n\na) A definição de lotes industriais;\n\nb) A estrutura viária e o parqueamento;\n\nc) A rede de abastecimento de água;\n\nd) A rede de drenagem das águas pluviais;\n\ne) A rede de águas residuais;\n\nf) A rede de abastecimento de energia eléctrica;\n\ng) A rede de telecomunicações;\n\nh) A estação de tratamento de águas residuais ou a estação de pré-tratamento para ligação à rede doméstica;\n\ni) A definição do destino adequado dos resíduos sólidos;\n\nj) Os espaços verdes, no mínimo 15% da área total, incluindo uma faixa envolvente de protecção arbórea;\n\nk) A área de reserva para serviços e equipamentos de apoio às empresas;\n\nl) O regulamento do uso do solo e condições gerais de edificação.\n\n3 - Sem prejuízo do estabelecido na legislação em vigor, os pedidos de construção no interior das zonas industriais referidas no artigo 45.º serão acompanhados de uma memória descritiva, que satisfará, cumulativamente, os seguintes itens:\n\na) Percentagem máxima de lote impermeabilizado de 75%;\n\nb) Estudo de impacte ambiental, quando se justifique;\n\nc) Natureza das actividades industriais e respectivas classificações;\n\nd) Descrição do processo tecnológico;\n\ne) Caracterização dos efluentes líquidos, resíduos sólidos, poluentes atmosféricos e fumos produzidos;\n\nf) Soluções para o tratamento dos efluentes líquidos, resíduos sólidos, poluentes atmosféricos e fumos, de forma a adequá-los aos parâmetros permitidos pela legislação em vigor nessa matéria e à protecção do meio ambiente;\n\ng) Destino final dos efluentes líquidos e dos resíduos sólidos."
+  },
+  "ca0a8545ab37a9b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Localização industrial e novos espaços industriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Localização industrial e novos espaços industriais\n\n1 - O licenciamento da localização e construção de estabelecimentos industriais fora dos espaços industriais referidos no artigo 45.º poderá ocorrer nas seguintes situações:\n\na) Em espaço urbano, de acordo com o estabelecido no artigo 39.º;\n\nb) Em espaço urbano ou urbanizável, em zona industrial a criar, através de operação de loteamento ou plano de pormenor;\n\nc) Instalação de indústria isolada da classe C ou D, em área classificada como espaço natural de utilização múltipla;\n\nd) Instalação em novas zonas industriais a criar, em área múltipla, de acordo com o estabelecido no artigo 34.º\n\n2 - A localização dos estabelecimentos industriais referidos no número anterior deverá satisfazer cumulativamente os seguintes condicionamentos:\n\na) Confrontar com arruamento público, quando se trate de indústria isolada;\n\nb) Dispor de acesso directo a arruamento público, quando se trate de zona industrial;\n\nc) Dispor de auto-abastecimento de água ou ligação à rede pública;\n\nd) Dispor de fossa séptica ou ligação à rede de esgotos;\n\ne) Dispor de energia eléctrica.\n\n3 - O licenciamento da construção de estabelecimentos industriais fora das zonas industriais e do espaço urbano ou urbanizável fica ainda sujeito aos seguintes condicionamentos:\n\na) Apresentação e execução de projecto de arranjos exteriores;\n\nb) Satisfação de parâmetros de qualidade e de enquadramento paisagístico;\n\nc) Justificação satisfatória da localização pretendida."
+  },
+  "b06f28f795f0cb0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Espaços destinados à indústria extractiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Espaços destinados à indústria extractiva"
+  },
+  "040f38d0f92ff5ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Caracterização geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Caracterização geral\n\nSão espaços destinados à exploração de massas e depósitos minerais, de acordo com a legislação em vigor, encontrando-se assinalados na planta de ordenamento e na planta actualizada de condicionantes."
+  },
+  "494a25b2f2f51dbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Massas minerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Massas minerais"
+  },
+  "ce8b7e2abfd38a19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Âmbito\n\n1 - Encontram-se delimitadas na planta de ordenamento e na planta actualizada de condicionantes as áreas de exploração das massas minerais e as sujeitas a processos de licenciamento em curso.\n\n2 - É permitida a instalação de explorações de massas minerais, denominadas no âmbito deste Regulamento por novas pedreiras, e que serão reguladas de acordo com a legislação em vigor e ainda pelos números seguintes do presente artigo.\n\n3 - Sem prejuízo da legislação em vigor, deverá a Câmara Municipal ser informada do pedido de licenciamento de novas pedreiras, no qual deverá constar:\n\na) Relatórios técnico e económico;\n\nb) Medidas a implementar para a atenuação do impacte ambiental das respectivas actividades;\n\nc) Projecto de recuperação paisagística, após cessação da exploração.\n\n4 - Todas as novas pedreiras são obrigadas a implementar uma faixa de protecção arbórea de 20 m de largura mínima, em torno da área afecta à exploração, no prazo máximo de seis meses após o início da sua laboração.\n\n5 - É proibida a exploração de novas pedreiras em todos os espaços protegidos pelo PDMM, correspondentes às áreas classificadas de acordo com os n.os 5, 9, 10, 11 e 14 do artigo 33.º, e ainda nos seguintes casos:\n\na) Espaços urbanos e urbanizáveis e faixa envolvente de 1000 m de largura;\n\nb) Espaços florestais e faixa envolvente de 100 m de largura;\n\nc) Áreas de protecção ao património histórico-arqueológico e faixa envolvente de 500 m de largura;\n\nd) Espaços industriais e faixa envolvente de 100 m de largura;\n\ne) Cursos de água e faixa de protecção de 50 m de largura para cada lado do respectivo leito."
+  },
+  "94f7dcc066cb7d2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Restrições\n\n1 - A ampliação das áreas de exploração das pedreiras não violará os espaços protegidos pelo PDMM e o estabelecido nos n.os 3 e 5 do artigo 51.º\n\n2 - É proibida a edificabilidade numa zona de defesa de 100 m inerente à exploração de massas minerais, excepto no caso de se tratarem de anexos de pedreira.\n\n3 - Não serão permitidas nas zonas de defesa referidas no número anterior quaisquer instalações industriais, nomeadamente de unidades de transformação das matérias-primas extraídas nas pedreiras.\n\n4 - Excluem-se do exposto no número anterior as instalações com vista à fabricação exclusiva de britas e de paralelepípedos de calçadas e pavimentos."
+  },
+  "03c45a50553290bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Depósitos minerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Depósitos minerais"
+  },
+  "e2d5bcc3a1920788": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Estatuto de uso e ocupação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Estatuto de uso e ocupação\n\n1 - Sem prejuízo da legislação em vigor, as áreas abrangidas por direitos de prospecção e pesquisa e ou por concessão de exploração de depósitos minerais podem suportar ainda os seguintes usos:\n\na) Uso natural;\n\nb) Floresta de protecção;\n\nc) Floresta de produção, com mobilizações do solo controladas;\n\nd) Uso agrícola condicionado.\n\n2 - Nas áreas referidas no n.º 1 do presente artigo são proibidas, sem prejuízo da lei geral, as seguintes acções:\n\na) A edificação;\n\nb) A implantação de infra-estruturas;\n\nc) A construção de barragens."
+  },
+  "7c1d4efe27c722ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Áreas de recreio e lazer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Áreas de recreio e lazer"
+  },
+  "1a5666a07721e733": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Caracterização e usos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Caracterização e usos específicos\n\nSão áreas vocacionadas para uma utilização de recreio e lazer, nas suas mais diversas vertentes."
+  },
+  "cdc050f5883b447d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Estatuto de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Estatuto de utilização\n\nNestas áreas apenas serão permitidos usos específicos ou compatíveis com actividades de recreio e ou lazer, definidas pela Câmara Municipal."
+  },
+  "a5b8836d8d56aae4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Edificabilidade\n\n1 - É permitida a edificação, com carácter permanente, de instalações e equipamentos de apoio às actividades de recreio e lazer, com projecto obrigatoriamente elaborado por um arquitecto, devendo satisfazer cumulativamente aos seguintes condicionamentos:\n\na) Uma integração cuidada na paisagem envolvente;\n\nb) Um cuidado especial em não poluir o meio ambiente, devendo os empreendimentos caracterizar-se por uma alta qualidade ao nível da arquitectura e do saneamento básico.\n\n2 - Em projectos especiais de recreio e lazer será obrigatória a participação de arquitecto paisagista, para além da satisfação dos condicionamentos estabelecidos no n.º 1 do presente artigo.\n\n3 - Compete à Câmara Municipal definir os projectos que, pela sua natureza, dimensão e ou complexidade, serão classificados como especiais.\n\n4 - É permitida a construção, a título precário, de instalações compatíveis com as actividades de recreio e lazer e sujeita a condicionamentos."
+  },
+  "0f9e91e939f56edf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Espaços agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Espaços agrícolas"
+  },
+  "c7e642a5ab7dcace": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Caracterização\n\nOs espaços agrícolas caracterizam-se pela sua elevada aptidão para as actividades agrícolas e dividem-se em:\n\na) Espaços agrícolas pertencentes à RAN;\n\nb) Outros espaços agrícolas."
+  },
+  "69f81e375c8944c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Espaços agrícolas pertencentes à Reserva Agrícola Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Espaços agrícolas pertencentes à Reserva Agrícola Nacional\n\nOs espaços agrícolas pertencentes à RAN encontram-se delimitados na planta de ordenamento e na planta actualizada de condicionantes e regem-se pelo seu regime jurídico e demais legislação complementar em vigor."
+  },
+  "be0a8e9b05657535": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Outros espaços agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Outros espaços agrícolas\n\n1 - Os outros espaços agrícolas correspondem a áreas que tenham sido submetidas a importantes investimentos destinados a aumentar com carácter duradouro a capacidade produtiva dos solos e a outros solos cujo aproveitamento seja determinante para a viabilidade económica de explorações agrícolas existentes.\n\n2 - Incluem-se nesta classe de espaços as áreas integradas nos perímetros de rega.\n\n3 - Aos outros espaços agrícolas é aplicável o regime da RAN."
+  },
+  "b33eff08d5514376": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Espaços florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Espaços florestais"
+  },
+  "77fccdc9f8a5b903": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Caracterização\n\nOs espaços florestais são identificados na planta de ordenamento com as seguintes designações:\n\na) Perímetros florestais;\n\nb) Projectos florestais aprovados pelo Instituto Florestal;\n\nc) Núcleos florestais, com áreas mínimas de 50 ha."
+  },
+  "4a4037f2041e5b13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Estatuto do uso e ocupação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Estatuto do uso e ocupação\n\n1 - Os perímetros florestais são destinados ao aproveitamento florestal, segundo planos de exploração elaborados pelo Instituto Florestal, e encontram-se submetidos ao regime legal específico, o regime florestal.\n\n2 - Os restantes espaços florestais, referidos nas alíneas b) e c) do artigo 60.º, serão regulados pela legislação em vigor e demais condicionamentos estabelecidos por este Regulamento."
+  },
+  "e716655fbfa30cdd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Edificabilidade\n\nA edificação nos espaços florestais é permitida nas seguintes situações:\n\n1) Reconstrução, recuperação ou reabilitação de edificações já existentes;\n\n2) Construção de edifícios e anexos de apoio às actividades e usos permitidos."
+  },
+  "eee749c485eb5dad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Espaços naturais de utilização múltipla",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Espaços naturais de utilização múltipla"
+  },
+  "a12514aee1e639a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — Caracterização e objectivo fundamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Caracterização e objectivo fundamental\n\n1 - São espaços complexos, fracamente humanizados, e fundamentais quer na manutenção e incremento da qualidade dos recursos naturais, quer na melhoria da própria qualidade de vida das populações do concelho.\n\n2 - Constitui objectivo fundamental da regulamentação referente a esta classe de espaços a exploração racional dos recursos naturais, permitindo a sua renovação e o seu incremento qualitativo."
+  },
+  "68515164c40c2a96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Usos permitidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Usos permitidos\n\nSão permitidos os seguintes usos:\n\n1) Agricultura tradicional e ou biológica;\n\n2) Pastorícia;\n\n3) Silvicultura, que respeitará as seguintes regras:\n\na) Nas áreas a arborizar ou a rearborizar com dimensão inferior a 50 ha os povoamentos incluirão preferencialmente espécies folhosas e resinosas indígenas e ou exóticas tradicionais;\n\nb) Nas áreas a arborizar ou a rearborizar com dimensão igual ou superior a 50 ha os povoamentos deverão ser sempre compartimentados e privilegiar as espécies folhosas e resinosas indígenas e ou exóticas tradicionais, nomeadamente o castanheiro, a cerejeira, o sobreiro e o pinheiro-bravo;\n\n4) Recolha de lenha para utilização própria como combustível, desde que não seja irremediavelmente danificado qualquer espécime pertencente a uma espécie de porte arbóreo, mesmo ainda jovem;\n\n5) Caça e pesca, reguladas pela lei geral;\n\n6) Apicultura;\n\n7) Actividades de recreio e lazer não incompatíveis com o objectivo fundamental exposto no n.º 2 do artigo 63.º do presente Regulamento;\n\n8) Recolha de plantas aromáticas;\n\n9) Outros, desde que não incompatíveis com o objectivo fundamental exposto no n.º 2 do artigo 63.º do presente Regulamento."
+  },
+  "a6545cc662c5d0fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — Restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Restrições\n\nNo espaço natural de uso múltiplo são proibidas todas as obras ou acções que impliquem a destruição da vegetação arbórea existente e a alteração do relevo natural, excepto quando decorrentes da execução de projectos devidamente aprovados."
+  },
+  "5154ff0c20c9d26e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Edificabilidade\n\nA edificação nos espaços naturais de utilização múltipla é permitida nas seguintes situações:\n\n1) Reconstrução, recuperação ou reabilitação de edificações já existentes;\n\n2) Execução de obras necessárias ao aproveitamento turístico, no âmbito do turismo rural, contemplando a modernização interior e recuperação exterior das edificações rurais preexistentes, a ampliação de instalações e a construção de anexos e de equipamentos, devendo satisfazer aos seguintes condicionamentos:\n\na) Em edifícios e conjuntos classificados ou em vias de classificação só serão permitidas alterações à fachada e à volumetria original desde que o projecto seja da responsabilidade de arquitecto e aprovado pela entidade competente de tutela;\n\nb) É permitida a construção de novos edifícios e ou a ampliação de edifícios e conjuntos existentes, não classificados, desde que o aumento da área edificada não ultrapasse 100% da área coberta anteriormente existente;\n\nc) A volumetria das novas construções referidas na alínea anterior deverá respeitar a volumetria dos edifícios anteriormente existentes;\n\nd) As novas construções deverão integrar-se, paisagística e arquitectonicamente, no conjunto de edifícios anteriormente existentes;\n\n3) Construção de edifícios e de anexos de apoio às actividades e usos permitidos;\n\n4) Construção de habitação, em regime de residêncial habitual do proprietário ou titular dos direitos de exploração, em explorações agrícolas, agro-pecuárias ou agro-florestais com área igual ou superior a 3 ha;\n\n5) Habitação dos trabalhadores permanentes de exploração agrícola, agro-pecuária ou agro-florestal com área igual ou superior a 5 ha;\n\n6) Empreendimentos turísticos de carácter permanente, cujos projectos serão, obrigatoriamente, elaborados por arquitecto e nos quais serão respeitados os seguintes aspectos:\n\na) Integração cuidada na paisagem envolvente;\n\nb) Satisfação de parâmetros de qualidade ao nível da arquitectura, do ambiente e do saneamento básico;\n\n7) Instalações industriais isoladas das classes C e D e de armazéns, desde que não ofereçam riscos de poluição nem apresentem perigosidade ou outros inconvenientes."
+  },
+  "ba23614956a5aa6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — Condicionamentos à edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Condicionamentos à edificabilidade\n\n1 - A edificabilidade estabelecida no artigo anterior fica ainda sujeita à satisfação cumulativa dos seguintes condicionamentos:\n\na) Dispor de acesso directo à rede viária pública;\n\nb) Dispor de ligação à rede pública de água ou de auto-abastecimento;\n\nc) Dispor de ligação à rede de esgotos ou de fossa séptica;\n\nd) Dispor de energia eléctrica.\n\n2 - Exceptuam-se ao disposto no número anterior a construção de anexos de apoio à actividade agro-florestal."
+  },
+  "9d73c16d347823dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO X — Áreas de protecção ao património histórico-arqueológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X — Áreas de protecção ao património histórico-arqueológico"
+  },
+  "fde5fcbfbdcf6dc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — Caracterização e objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Caracterização e objectivo\n\n1 - São áreas de protecção aos sítios histórico-arqueológicos as delimitadas, igualmente, na planta actualizada de condicionantes e referidas no artigo 22.º do presente Regulamento.\n\n2 - É objectivo da delimitação destas áreas a salvaguarda e valorização do património existente."
+  },
+  "2c27fc2f0d6dd716": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — Estatuto de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Estatuto de utilização\n\nNas áreas de protecção delimitadas só serão permitidos usos que não coloquem em risco a conservação dos valores patrimoniais e a futura possibilidade de escavações com fins científicos e ou de investigação."
+  },
+  "fd7427a1006d30df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — Restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Restrições\n\nNas áreas de protecção delimitadas serão estritamente proibidas as seguintes acções:\n\na) A lavra mecânica da terra;\n\nb) A edificação;\n\nc) A execução de obras;\n\nd) A arborização e a rearborização."
+  },
+  "66bb2f56cc27aad7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — Excepções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Excepções\n\n1 - Exceptuam-se ao estabelecido na alínea c) do artigo anterior as obras necessárias à conservação, consolidação e valorização do património, tendo em vista a sua divulgação cultural e desde que:\n\na) O respectivo projecto seja realizado por arquitecto e aprovado pela entidade competente;\n\nb) A realização das obras seja integralmente acompanhada por um técnico designado pela Câmara Municipal.\n\n2 - No caso de património classificado, cabe ao IPPAR a nomeação de um técnico para o acompanhamento do projecto e das obras, que agirá de acordo com a lei geral e especial em vigor."
+  },
+  "3e5866b64bfbb7d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XI — Áreas de importante valor paisagístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XI — Áreas de importante valor paisagístico"
+  },
+  "0f01b79d9d50c1e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Caracterização\n\nSão áreas caracterizadas pelo seu elevado valor paisagístico e onde deverão ser tomados cuidados especiais na protecção da paisagem."
+  },
+  "81999001eca2aad9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º — Usos permitidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Usos permitidos\n\n1 - Os usos permitidos são os estabelecidos nos n.os 1, 2, 4, 5, 6 e 8 do artigo 64.º e ainda os usos estabelecidos nos números seguintes do presente artigo.\n\n2 - Silvicultura, que respeitará as seguintes regras:\n\na) Nas áreas a arborizar ou a rearborizar, os povoamentos incluirão preferencialmente espécies folhosas e resinosas indígenas e ou exóticas tradicionais;\n\nb) Nas áreas a arborizar ou a rearborizar com dimensão igual ou superior a 50 ha, os povoamentos deverão ser sempre compartimentados.\n\n3 - O recreio passivo."
+  },
+  "0cd906fb94f34a7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Edificabilidade\n\nA edificação em áreas de importante valor paisagístico é permitida nas seguintes situações:\n\n1) Reconstrução, recuperação ou reabilitação de edificações já existentes;\n\n2) Construções de edifícios e de anexos de apoio às actividades e usos permitidos."
+  },
+  "8f6ed5ac468e5635": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º — Condicionamentos ao uso e à edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Condicionamentos ao uso e à edificabilidade\n\n1 - Os usos e as alterações de uso estabelecidos de acordo com o artigo 74.º deverão preservar as características essenciais destas áreas e garantir o equilíbrio ambiental e paisagístico.\n\n2 - Os projectos de construção serão obrigatoriamente acompanhados de estudo de enquadramento paisagístico, não podendo a sua localização, volumetria ou aspecto exterior perturbar o equilíbrio da paisagem.\n\n3 - Os projectos de construção serão também acompanhados de estudo de impacte ambiental sempre que a dimensão, a natureza ou a área de incidência do projecto o aconselhe.\n\n4 - A edificabilidade estabelecida no artigo 74.º fica ainda sujeita à satisfação cumulativa dos condicionamentos referidos no artigo 65.º, excepto quando daí resultar em prejuízo do estabelecido nos n.os 1 e 2 do presente artigo."
+  },
+  "918b5fc56e98c966": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XII — Áreas de protecção à fauna e flora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XII — Áreas de protecção à fauna e flora"
+  },
+  "63ad436c0c3343ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Caracterização\n\nSão áreas identificadas pela DIEE/DSCN, no âmbito do projecto «Inventário de sítios com interesse ornitológico», com importância para a sobrevivência de inúmeras espécies a nível europeu e que são consideradas reservas biológicas municipais, encontrando-se igualmente delimitadas na planta actualizada de condicionantes."
+  },
+  "b9bb9ff0aead0db4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Estatuto\n\nEstas áreas de protecção à fauna e flora são equiparadas a áreas de paisagem protegida e regem se pela legislação em vigor e demais condicionantes estabelecidos por este Regulamento."
+  },
+  "2040e046a79139db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º — Usos permitidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Usos permitidos\n\nNas áreas de protecção à fauna e flora são permitidos os usos agrícolas e silvícolas tradicionais e ou biológicos, a pastorícia e o recreio passivo."
+  },
+  "5865d08f909c5bb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — Restrições aos usos e à edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Restrições aos usos e à edificabilidade\n\n1 - As áreas de protecção à fauna e flora são áreas de construção condicionada, de acordo com o estabelecido nos n.os 1 e 2 do artigo 74º.\n\n2 - Nas áreas de protecção à fauna e flora são proibidas as acções seguintes:\n\na) A alteração do uso actual dos solos;\n\nb) A alteração do relevo natural;\n\nc) A execução de obras;\n\nd) A descarga de águas residuais;\n\ne) O emprego de pesticidas;\n\nf) A deposição de lixos, entulhos, sucata ou ferro-velho;\n\ng) A introdução de espécies biológicas exóticas ou estranhas ao ambiente;\n\nh) A colheita e detenção, total ou parcial, de qualquer espécime biológico natural;\n\ni) Todas as actividades susceptíveis de perturbar o ambiente natural, nomeadamente a caça, a pesca e outras actividades produtoras de poluição, inclusive sonora;\n\nj) Actividades minerais e de recolha de inertes, nomeadamente a exploração de areias fluviais e saibros das vertentes."
+  },
+  "f95c6d65038d89ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º — Excepções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Excepções\n\nRelativamente às restrições constantes nas alíneas b) e c) do n.º 2 do artigo anterior, exceptua-se a realização de obras de beneficiação em vias já existentes e ou decorrentes da execução de projectos devidamente aprovados."
+  },
+  "0e29ecdfdcc1ee75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XIII — Espaços-canais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XIII — Espaços-canais"
+  },
+  "35bd5fd82ceea7e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º — Estradas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Estradas nacionais\n\nIntegram a rede de estradas nacionais as seguintes vias:\n\na) IP 4, do limite do concelho, nas proximidades de Franco, ao limite do concelho, na proximidade do Vimieiro;\n\nb) EN 102, entre os limites do concelho, nas proximidades de Caravelas;\n\nc) EN 213, entre o limite do concelho, nas proximidades de Eixes, por Mirandela, e o limite do concelho, nas proximidades do Cachão."
+  },
+  "8881e526a0e0aa21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82.º — Hierarquia da rede viária municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Hierarquia da rede viária municipal\n\n1 - Para efeito deste Regulamento, a hierarquia da rede viária municipal estabelecida, representada na planta de ordenamento, é a seguinte:\n\na) Rede intermunicipal;\n\nb) Rede municipal principal;\n\nc) Rede municipal secundária;\n\nd) Outras vias municipais.\n\n2 - Integram a rede intermunicipal as seguintes vias:\n\na) EN 15, troço desclassificado, desde o limite do concelho, nas proximidades do Franco, ao limite do concelho, nas proximidades do Vimieiro;\n\nb) EN 206, troço desclassificado, desde o limite do concelho - ponte de Vale de Telhas -, por Torre de D. Chama, ao limite do concelho;\n\nc) EN 314, troço desclassificado, do limite do concelho, até proximidades de Abreiro;\n\nd) EN 315, troço desclassificado, desde o limite do concelho, nas proximidades de Chairos, por Vale de Salgueiro, até ao limite do concelho, na proximidade de Vale de Asnes;\n\ne) EM 578, entre a EN 213 e o limite do concelho, a seguir a Freixeda;\n\nf) EM 582, entre o entroncamento com a EN 314 e o entroncamento na EN 15.\n\n3 - Integram a rede municipal principal:\n\na) EN 206-1, troço desclassificado, desde Torre de D. Chama, por Valbom dos Figos, até Vila Nova das Patas;\n\nb) EM 532, desde o cruzamento com a EN 206 até à EN 315;\n\nc) VM 1, desde Abreiro até Longra;\n\nd) CM 1093, desde Longra até ao cruzamento com a EM 604;\n\ne) EM 604, desde o limite do concelho, junto ao Cachão, até ao entroncamento na EN 213;\n\nf) EM 560, desde Mascarenhas até à EN 15, passando por Paradela e Avantos;\n\ng) EM 561, desde o entroncamento com a EM 560 até Alvites;\n\nh) CM 1079, desde Mirandela até ao cruzamento com a EN 15-4;\n\ni) EM 584, desde o cruzamento com a EN 15-4 até Rego de Vide;\n\nj) VM 3, desde Rego de Vide até Avidagos;\n\nk) EN 15-4, troço desclassificado, desde o cruzamento com a EN 15, por São Pedro de Vale do Conde, até ao limite do concelho;\n\nl) EN 102-1, troço desclassificado, desde o limite do concelho até à EN 15.\n\n4 - Integram a rede municipal secundária as seguintes vias:\n\na) EM 555, desde o cruzamento com a EN 315 até Vale de Gouvinhas;\n\nb) EM 557, desde o cruzamento com a EN 315 até Cabanelas;\n\nc) EM 558, desde o cruzamento com a EN 315 até ao cruzamento com o CM 1069;\n\nd) CM 1069, desde a EM 558 até Quintas;\n\ne) EM 581, desde o cruzamento da EN 15 até Lamas de Orelhão;\n\nf) EM 534, desde o cruzamento com a EN 315 até Fradizela;\n\ng) EM 556, desde o cruzamento com a EN 315 até Vale de Salgueiro;\n\nh) VM 8, desde Vale de Lagoa até à EN 15;\n\ni) EM 561-1, desde Alvites até Vale de Lagoa;\n\nj) CM 1096, desde Vale de Sancha ao entroncamento com a EM 578;\n\nk) VM 5, desde a EN 315 até ao Parque de Campismo da Maravilha;\n\nl) EM 572, desde Jerusalém do Romeu até Romeu;\n\nm) CM 1085, desde o cruzamento com a EN 15 até Vila Verdinho;\n\nn) EM 603, desde o cruzamento com a EN 213 até ao cruzamento com o CM 1095;\n\no) CM 1095, desde o cruzamento com a EM 603 até Vale da Sancha;\n\np) EM 571, entre a EN 15 e Suçães.\n\n5 - Integram as outras vias municipais as restantes vias do concelho, nomeadamente as ligações de acesso local e as serventias a zonas agrícolas e florestais."
+  },
+  "49d4cbcec31fa868": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º — Vias férreas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Vias férreas\n\nIntegra as vias férreas a linha do Tua, entre o limite do concelho, junto ao Cachão, e o limite do concelho, a seguir a Vale do Couço."
+  },
+  "11fd7ec634113815": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º — Faixas de servidão non aedificandi",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Faixas de servidão non aedificandi\n\n1 - As vias referidas no artigo 81.º serão protegidas por faixas de servidão non aedificandi com valores nunca inferiores aos definidos na legislação em vigor.\n\n2 - As vias municipais referidas nos n.os 2 e 3 do artigo 82.º serão protegidas por faixas de servidão non aedificandi não inferiores a 10 m da zona da estrada e nunca inferiores a 5 m dos taludes, caso existam.\n\n3 - As vias municipais referidas no n.º 4 do artigo 82.º serão protegidas por faixas de servidão non aedificandi não inferiores a 8 m da zona da estrada e nunca inferiores a 4 m dos taludes, caso existam.\n\n4 - A reclassificação de qualquer via referida no artigo 82.º implica a redefinição da respectiva faixa de servidão non aedificandi, para a nova classificação e de acordo com o estabelecido nos artigos 28.º, 29.º e 84.º\n\n5 - As vias férreas referidas no artigo 83.º serão protegidas por faixas non aedificandi com valores nunca inferiores aos definidos na legislação em vigor."
+  },
+  "c8e361acc0ebac55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XIV — Albufeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XIV — Albufeiras"
+  },
+  "8baba5800bb92aaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 85.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Caracterização\n\nO espaço «albufeiras» integra todas as zonas alagadas pelas albufeiras existentes no concelho, bem como as zonas reservadas e de protecção envolventes, de acordo com o estabelecido no artigo 12.º"
+  },
+  "d45639cf81bf751e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º — Condicionamentos ao uso e à edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Condicionamentos ao uso e à edificabilidade\n\nNas zonas de protecção às albufeiras não é permitido:\n\n1) Destruir o coberto vegetal ou alterar o relevo natural;\n\n2) Instalar vazadouros, lixeiras, parques de sucata ou outros depósitos de materiais ou de resíduos sólidos;\n\n3) Proceder à descarga ou infiltração no terreno de esgotos de qualquer natureza não devidamente tratados e, mesmo tratados, quando seja viável o seu lançamento a jusante da albufeira;\n\n4) Implantar quaisquer construções que não sejam de infra-estruturas de apoio à sua utilização ou de apoio às actividades de recreio, turismo ou lazer, com projecto arquitectónico adequado e correcta integração paisagística;\n\n5) Exceptua-se ao estabelecido nos n.os 1 e 4 do presente artigo as acções e a edificação permitidas no PDMM para a área urbana da cidade de Mirandela, na zona de protecção da albufeira da ponte-açude de Mirandela, fora da respectiva zona reservada."
+  },
+  "84de4d57a3f6383c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XV — Sítios de interesse geológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XV — Sítios de interesse geológico"
+  },
+  "cb764e3d05fee5ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 87.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Caracterização\n\nOs sítios de interesse geológico são locais cuja total preservação é indispensável do ponto de vista científico."
+  },
+  "274ef9f78ce152ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 88.º — Usos permitidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Usos permitidos\n\nNos sítios de interesse geológico são permitidos apenas os usos que não causem dano ou não coloquem, de forma alguma, em risco o seu interesse científico."
+  },
+  "e7d4d50004e91184": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 89.º — Restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Restrições\n\nSão proibidas, nos sítios de interesse geológico, todas as obras e acções que impliquem movimentos de terras ou alterações no coberto vegetal e, nomeadamente:\n\na) Actividades da indústria extractiva;\n\nb) Lavra mecânica;\n\nc) Obras de construção civil, nomeadamente de vias e edificações;\n\nd) Acções de florestação;\n\ne) Despejos e deposição de qualquer tipo de resíduos;\n\nf) Instalações de qualquer tipo, mesmo precárias."
+  },
+  "f7282a2448d2bff3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XVI — Lixeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XVI — Lixeira"
+  },
+  "fd0ef146201df99c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 90.º — Caracterização e uso permitido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Caracterização e uso permitido\n\nA lixeira é a área reservada para deposição dos resíduos sólidos."
+  },
+  "a670433f00d237a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 91.º — Restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Restrições\n\nSão proibidas na lixeira todas as acções e usos que não sejam os conducentes ao saneamento da mesma e ou à construção de aterro sanitário."
+  },
+  "782f569ba19da9ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO IV — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Disposições complementares"
+  },
+  "3df7a28d6c7c36bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 92.º — Edificação isolada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Edificação isolada\n\n1 - A edificação isolada, fora dos espaços urbanos e urbanizáveis, é permitida, de acordo com o estabelecido nos artigos 56.º, 62.º, 66.º, 67.º, 74.º, 75.º, 79.º e 86.º, desde que a construção não exceda os dois pisos de altura e seja assegurada a auto-suficiência em relação às infra-estruturas de abastecimento de água, de águas residuais e de energia eléctrica e a ligação à rede viária.\n\n2 - A instalação de armazéns isolados, fora dos espaços urbanos e urbanizáveis e de zonas industriais, é permitida de acordo com o estabelecido no n.º 7 do artigo 66.º e desde que a construção seja de um só piso, com 6,5 m de altura máxima, disponha de auto-suficiência em relação às infra-estruturas de abastecimento de água, de águas residuais e de energia eléctrica e de acesso directo à rede viária."
+  },
+  "cd5d2595d80243ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 93.º — Loteamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Loteamentos\n\n1 - As operações de loteamento realizadas em espaços urbanos e urbanizáveis na cidade de Mirandela e na vila de Torre de D. Chama, em loteamentos até ao máximo de cinco lotes, reger-se-ão pelo estabelecido no n.º 9 do artigo 40.º e ainda pelos seguintes parâmetros, além de outros condicionamentos constantes no presente Regulamento e demais legislação em vigor:\n\na) Será previsto um lugar de estacionamento, dentro do lote, por fogo;\n\nb) As áreas de cedência poderão restringir-se às áreas indispensáveis para eventual construção e ou alargamento das vias e passeios, podendo a restante cedência estabelecida nos termos do presente Regulamento ser substituída por uma compensação em numerário ou em espécie, a aprovar em assembleia municipal, quando a parcela não dispuser, justificadamente, de espaço para o efeito.\n\n2 - As operações de loteamento realizadas em espaços urbanos e urbanizáveis na cidade de Mirandela e na vila de Torre de D. Chama, em loteamentos com mais de cinco lotes, reger-se-ão pelos seguintes parâmetros, além de outros condicionamentos constantes no presente Regulamento e demais legislação em vigor:\n\na) As edificações destinadas à habitação poderão ser dos tipos unifamiliar, dupla ou plurifamiliar, isolada, geminada ou em banda;\n\nb) Serão previstos dois lugares de estacionamento, dentro do lote, por fogo;\n\nc) Deverá ser privilegiada a criação de vias de serviço interiores ao loteamento, em loteamentos atravessados ou adjacentes a vias pertencentes às redes intermunicipal, municipal principal ou municipal secundária, reduzindo ao mínimo o número de acessos directos a essas vias;\n\nd) Os arruamentos possuirão um mínimo de 8,8 m de largura, sendo um mínimo de 6 m reservado para a faixa de rodagem e um mínimo de 1,4 m2 para os passeios;\n\ne) No caso de arruamentos com estacionamento lateral, este deverá ter um mínimo de 2 m de largura, sendo adicionada à largura mínima definida na alínea d) do presente número;\n\nf) No caso de arruamentos com árvores, estes terão uma faixa adicional de passeio com um mínimo de 1 m de largura, que será adicionada à largura mínima definida na alínea d) do presente número.\n\n3 - As operações de loteamento realizadas em espaços urbanos das aldeias reger-se-ão pelos seguintes parâmetros, além de outros condicionamentos constantes no presente Regulamento e demais legislação em vigor:\n\na) As edificações destinadas à habitação serão dos tipos unifamiliar e dupla, isoladas ou geminadas;\n\nb) Será previsto um lugar de estacionamento, dentro do lote, por fogo;\n\nc) As áreas de cedência poderão restringir-se às indispensáveis para eventual construção ou alargamento das vias e passeios, podendo a restante cedência estabelecida nos termos do presente Regulamento ser substituída por uma taxa espécie, a aprovar em assembleia municipal, nos loteamentos com mais de cinco lotes, não devendo a área total de cedência ser inferior a 15% do total da área a urbanizar;\n\nd) Nos loteamentos até ao máximo de cinco lotes é dispensável a cedência de áreas para alem das necessárias à eventual construção ou alargamento das vias e passeios."
+  },
+  "1b03682c1a9bc7c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 94.º — Estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Estacionamento\n\n1 - Para as seguintes instalações de grande área será obrigatório o estabelecimento dos seguintes lugares de estacionamento mínimos dentro do lote:\n\na) Mercado retalhista - área de estacionamento igual à área do mercado;\n\nb) Armazém de cash and carry - área de estacionamento igual a 20% da área da superfície de venda;\n\nc) Hipermercado - um lugar de estacionamento de veículos ligeiros por 15 m2 de área bruta e um lugar de estacionamento de veículos pesados por 500 m2 de área bruta;\n\nd) Armazéns - um lugar por 200 m2 de área coberta ou fracção;\n\ne) Indústria - um lugar por 50 m2 de área coberta ou fracção;\n\nf) Estabelecimento hoteleiro - um lugar de estacionamento de veículos ligeiros por quatro camas e estacionamento de pesados caso a caso;\n\ng) Restaurantes - um lugar por cada quatro lugares sentados;\n\nh) Salas de espectáculos - um lugar por cada cinco lugares sentados;\n\ni) Comércio e escritório - um lugar por 50 m2 de área coberta.\n\n2 - Podem constituir excepção ao disposto no n.º 1 do presente artigo as instalações que apresentem estudo de tráfego e de estacionamento justificativos de outros dimensionamentos do estacionamento.\n\n3 - As instalações para as quais este Regulamento é omisso serão apreciadas caso a caso pela Câmara Municipal."
+  },
+  "32af9b163d16a8c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 95.º — Instalações pecuárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Instalações pecuárias\n\n1 - As novas instalações pecuárias carecem de prévia autorização da Câmara Municipal.\n\n2 - Não serão autorizadas novas instalações pecuárias em áreas protegidas pelo PDMM e ainda:\n\na) Nos espaços urbanos e numa faixa envolvente de 1000 m de largura;\n\nb) Nos espaços urbanizáveis e numa faixa envolvente de 1000 m de largura;\n\nc) Nos espaços industriais e numa faixa envolvente de 500 m de largura;\n\nd) Nas áreas de recreio e lazer e numa faixa envolvente de 1000 m de largura;\n\ne) Nos espaços florestais;\n\nf) Nas áreas de protecção do património histórico-arqueológico e numa faixa envolvente de 100 m de largura.\n\n3 - Além das restrições constantes no número anterior do presente artigo, terão de ser respeitados os seguintes afastamentos:\n\na) 500 m de qualquer captação de água para abastecimento doméstico ou nascente;\n\nb) 100 m de qualquer estrada nacional;\n\nc) 50 m de qualquer estrada municipal.\n\n4 - O pedido de licenciamento será sempre acompanhado de projecto, onde, além do número máximo de animais que a instalação comportará, constarão as soluções que assegurarão, obrigatoriamente:\n\na) Que todas as águas residuais serão canalizadas por colectores fechados, para reservatórios bem dimensionados;\n\nb) O tratamento adequado das águas residuais, antes de serem rejeitadas, respeitando as normas de descarga expressas na legislação em vigor.\n\n5 - Para todos os efeitos do presente Regulamento, são equiparadas a novas instalações pecuárias as instalações pecuárias existentes nas quais se pretendam realizar quaisquer alterações."
+  },
+  "6b90a430e216f2c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 96.º — Depósitos de sucata e de ferro-velho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Depósitos de sucata e de ferro-velho\n\n1 - A localização ou ampliação de depósitos de sucata e de ferro-velho obedecerão às seguintes condições de implantação:\n\na) Todos os depósitos de sucata e de ferro-velho necessitarão de uma licença, concedida pela Câmara Municipal, com validade de 10 anos;\n\nb) O pedido da licença referida na alínea anterior ocorre obrigatoriamente no pedido de instalação de novos depósitos e sempre que houver a intenção de quaisquer alterações em instalações existentes;\n\nc) A validade da licença poderá ser encurtada a qualquer momento pela Câmara Municipal, se esta assim o entender.\n\n2 - As condições de localização e de instalação terão de obedecer, cumulativamente, ao seguinte:\n\na) Localização no interior do espaço classificado como espaço natural de utilização múltipla;\n\nb) Localização que não comprometa a utilização e ou acesso a solos de alta potencialidade agrícola;\n\nc) Localização e condições morfológicas adequadas que minimizem o impacte negativo sobre a paisagem e os ecossistemas de produção e de protecção;\n\nd) Localização sobre formações e estruturas geológicas impermeáveis ou de baixa permeabilidade, o que deverá ser confirmado por estudo geológico ou pela entidade de tutela;\n\ne) A instalação deverá ser cercada por barreiras vegetais, de arbustos e árvores, com um mínimo de 10 m de largura.\n\n3 - A localização da instalação deverá ainda respeitar, cumulativamente, os seguintes afastamentos mínimos:\n\na) 100 m de qualquer outra classe de espaço;\n\nb) 200 m de qualquer estrada da rede nacional;\n\nc) 50 m de qualquer via da rede municipal;\n\nd) 50 m da Reserva Ecológica Nacional;\n\ne) 50 m da Reserva Agrícola Nacional;\n\nf) 100 m de nascentes e captações de água.\n\n4 - As instalações existentes dispõem do prazo de um ano para a implementação efectiva das barreiras mencionadas na alínea e) do n.º 2 do presente artigo.\n\n5 - As novas instalações dispõem do prazo máximo de seis meses, a contar da data da instalação, para a implementação efectiva das barreiras mencionadas na alínea e) do n.º 2 do presente artigo."
+  },
+  "f9622257e85a2ac2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 97.º — Despejos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Despejos\n\nTodos os despejos e deposições de resíduos, de todos os tipos, são expressamente proibidos em todo o território municipal, à excepção dos vazadouros que a Câmara Municipal indicar."
+  },
+  "d9ca583a98d01063": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 98.º — Captações de água por particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Captações de água por particulares\n\n1 - São proibidas todas as captações de água por particulares num raio de 300 m de qualquer captação pública de água.\n\n2 - São obrigadas a fechar todas as captações de água por particulares que afectem o rendimento das captações públicas de água localizadas nas proximidades."
+  },
+  "e30125bd56f65c02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Definições\n\nPara a boa compreensão deste Regulamento estão seguidamente listados alguns termos utilizados e a sua significação no âmbito deste Regulamento:\n\nAnexos de pedreira - as instalações e oficinas existentes junto da pedreira para preparação e manutenção das substâncias extraídas, bem como as instalações e serviços exclusivamente afectos à pedreira;\n\nExplorador da pedreira - o titular da respectiva licença de estabelecimento;\n\nMassas minerais - as rochas e ocorrências minerais não qualificadas legalmente como depósito mineral;\n\nPedreira - o conjunto formado por qualquer massa mineral em exploração, pelas instalações necessárias à sua lavra e pelos depósitos das substâncias extraídas, desperdícios e terras removidas e, bem assim, pelos seus anexos;\n\nRecuperação paisagística - revitalização biológica, económica e cénica do espaço afectado pela exploração, dando-lhe nova utilização, com vista ao estabelecimento do equilíbrio do ecossistema ou restituindo-lhe a primitiva aptidão;\n\nZona da estrada - espaço de uma via compreendido entre os limites exteriores das bermas ou, na inexistência destas, entre os limites exteriores da faixa de rodagem;\n\nPerímetro urbano - é o conjunto do espaço urbano, do espaço urbanizável e dos espaços industriais que lhe são contíguos:\n\nAltura da construção - número de pisos acima da cota do terreno na fachada voltada para a rua de serventia principal;\n\nÁrea construída do lote - área do lote ocupada com a edificação e anexos, se existirem;\n\nEspaços protegidos pelo PDMM ou áreas protegidas pelo PDMM - são considerados(as) os(as) seguintes:\n\nÁreas de importante valor paisagístico;\n\nÁreas de protecção ao património histórico-arqueológico;\n\nÁreas de protecção à fauna e flora;\n\nSítios de interesse geológico;\n\nInstalações pecuárias - são consideradas instalações pecuárias as seguintes:\n\nInstalações de suinicultura que comportem mais de 3 animais;\n\nAviários que comportem mais de 50 aves;\n\nCuniculturas que comportem mais de 50 animais;\n\nVacarias que comportem mais de 10 animais;\n\nInstalações de ovinos que comportem mais de 20 animais;\n\nInstalações de caprinos que comportem mais de 20 animais.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/253b00/65726587.pdf)"
+  },
+  "bf6b780ed009d374": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Margens e zonas inundáveis",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 11.º — Margens e zonas inundáveis\n\n1 - Nas margens das águas não navegáveis nem flutuáveis de 10 m de largura a ocupação ou utilização do solo encontra-se condicionada e rege-se pela legislação em vigor.\n\n2 - Nas margens do rio Tua e na zona de influência da ponte-açude de Mirandela, de 50 m de largura, a ocupação ou utilização do solo encontra-se condicionada e rege-se pela legislação em vigor.\n\n3 - Nas zonas inundáveis dos rios Tua, Tuela e Rabaçal e da ribeira de Carvalhais a ocupação do solo encontra-se condicionada e rege-se pela legislação em vigor.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "97d948743c9426d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Reserva Ecológica Nacional - Regime de excepção",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 16.º — Reserva Ecológica Nacional - Regime de excepção\n\nCom regime de excepção poderão ser licenciadas, em áreas da REN, acções que, pela sua natureza e dimensão, sejam insusceptíveis de prejudicar o equilíbrio ecológico daquelas áreas, de acordo com os seguintes condicionamentos e disposições:\n\n1) A realização de acções que tenham por objecto a beneficiação da actividade agrícola e ou florestal, nomeadamente através da alteração do relevo para adaptação dos terrenos às culturas e a criação de acessos rurais com largura não superior a 4 m, desde que autorizadas pelos organismos competentes da tutela;\n\n2) As construções, ampliações e remodelações de edifícios tradicionais de apoio às actividades agrícolas e silvícolas, desde que satisfaçam cumulativamente os seguintes condicionamentos:\n\na) Não existência fora da REN de alternativa viável para a sua localização;\n\nb) Não comprometimento de áreas pertencentes aos ecossistemas referidos nos n.os 1, 2 e 5 do artigo 14.º;\n\nc) Altura máxima acima do solo de 6 m, salvo instalações com satisfatória justificação técnica;\n\nd) Área de implantação não superior a 250 m2, salvo instalações com satisfatória justificação técnica;\n\ne) Área mínima da parcela de 5 ha;\n\nf) Declive do terreno inferior ou igual a 45%;\n\ng) Alta qualidade arquitectónica e de saneamento, com integração paisagística adequada;\n\n3) As construções, ampliações ou remodelações de habitações destinadas à residência habitual do proprietário ou do titular dos direitos de exploração ou ainda destinadas à habitação dos trabalhadores permanentes da exploração agrícola, silvícola ou agro-florestal, desde que satisfaçam cumulativamente o estabelecido nas alíneas a) e b) do n.º 2 e ainda:\n\na) Altura máxima acima do solo de dois pisos ou 6 m;\n\nb) Área de implantação não superior a 250 m2;\n\nc) Área mínima da parcela de 5 ha;\n\nd) Área impermeabilizada não superior a 400 m2;\n\ne) Declive do terreno inferior ou igual a 35%;\n\n4) As construções, ampliações ou remodelações de edifícios no âmbito do turismo rural são permitidas, desde que satisfaçam cumulativamente o estabelecido nas alíneas a) e b) do n.º 2 e ainda:\n\na) Área mínima da parcela de 4 ha;\n\nb) As novas construções apenas poderão ser edificadas se o declive do terreno não exceder 35%;\n\nc) Para as novas construções e ampliações é obrigatória a elaboração de um estudo de integração paisagística e ambiental, certificando a manutenção do equilíbrio ecológico;\n\nd) Em todas as obras deverá ser impermeabilizada a menor área possível do ponto de vista técnico;\n\n5) Parques de campismo;\n\n6) Obras com finalidade agrícola ou florestal, nomeadamente tanques para rega, pequenas barragens e pontos de água contra incêndios.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "2ccdc065fc709c69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Perímetros de protecção a monumentos nacionais, imóveis de interesse público e outros sítios histórico-arqueológicos protegidos",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 22.º — Perímetros de protecção a monumentos nacionais, imóveis de interesse público e outros sítios histórico-arqueológicos protegidos\n\n1 - Encontram-se classificados como monumentos nacionais e protegidos, segundo a legislação em vigor, os seguintes monumentos:\n\na) Ponte da Pedra, sobre o rio Tuela - Torre de D. Chama;\n\nb) Ponte românica sobre o rio Tua - Mirandela.\n\n2 - Encontram-se classificados como imóveis de interesse público e protegidos, segundo a legislação em vigor, os seguintes valores:\n\na) Castelo de Mirandela - lugar de São Martinho, Mirandela;\n\nb) Castro de São Juzenda - Vale Prados, Múrias;\n\nc) Igreja de São Tomé - Abambres;\n\nd) Paço dos Távoras - Praça do Município, Mirandela;\n\ne) Pelourinho de Abreiro - Abreiro;\n\nf) Pelourinho de Frechas - Frechas;\n\ng) Pelourinho de Lamas de Orelhão - Lamas de Orelhão;\n\nh) Pelourinho de Mirandela - Mirandela;\n\ni) Pelourinho de Torre de D. Chama - Torre de D. Chama;\n\nj) Castro de São Brás, Torre de D. Chama - Torre de D. Chama;\n\nl) Igreja barroca de Avantos - Avantos;\n\nm) Igreja paroquial de Guide - Guide, Torre de D. Chama;\n\nn) Abrigos rupestres do regato das Bouças - Passos;\n\no) Igreja da misericórdia - Mirandela;\n\np) Solar dos Condes de Vinhais - Mirandela.\n\n3 - São propostos para classificação como imóveis de interesse público e delimitados os respectivos perímetros de protecção na planta actualizada de condicionantes os seguintes valores:\n\na) Fonte dos Engaranhados - Frechas;\n\nb) Povoado fortificado do Regato da Vacaria - Múrias;\n\nc) Castro romanizado de Nossa Senhora do Monte - Aguieiras;\n\nd) Solar dos Barbosas - Alvites;\n\ne) Casa quinhentista - Vale de Telhas;\n\nf) Fraga do Corvo, gravuras rupestres - Avidagos;\n\ng) Castro do Alto do Prado Castelo - Cedães;\n\nh) Castelo do Rei de Orelhão - Lamas de Orelhão;\n\ni) Castro do Cabeço do Murado - Caravelas;\n\nj) Mina romana do Buraco da Gralheira - Avidagos;\n\nl) Anta de Caravelas - Caravelas;\n\nm) Caminho medieval - Quinta da Pendurada, Abreiro;\n\nn) Porta de Santo António - Mirandela;\n\no) Ponte romana de São Sebastião - Mirandela;\n\np) Ponte romana sobre o ribeiro do Arquinho - Torre de D. Chama.\n\n4 - São propostos para classificação como imóveis de interesse concelhio e delimitados os respectivos perímetros de protecção na planta actualizada de condicionantes os seguintes valores:\n\na) Santuário e castro romanizado da Senhora do Viso - Mascarenhas;\n\nb) Povoado romanizado da Fraga do Penedo - Mascarenhas;\n\nc) Núcleo rural de Guribanes - Mascarenhas;\n\nd) Povoado fortificado do Abreiro - Abreiro;\n\ne) Povoado fortificado do Arasto - Suçães;\n\nf) Complexo Industrial de Moagem de Guribanes - Mascarenhas;\n\ng) Igreja de Abambres - Abambres;\n\nh) Casa dos Barrosos e capela - Abambres;\n\ni) Solar dos Mendonças - Abreiro;\n\nj) Casa do Cruzeiro - Abreiro;\n\nl) Casa dos Pastorinhos - Abreiro;\n\nm) Casa brasonada na Rua do Outeiro - Abreiro;\n\nn) Igreja de Abreiro - Abreiro;\n\no) Casa brasonada nas Aguieiras - Aguieiras;\n\np) Igreja da Soutilha - Soutilha;\n\np) Igreja de Alvites - Alvites;\n\nr) Casa brasonada nos Avantos - Avantos;\n\ns) Igreja dos Avidagos - Avidagos;\n\nt) Casa brasonada na Bouça - Bouça;\n\nu) Igreja da Ferradosa - Ferradosa;\n\nv) Casa Castro - Ferradosa;\n\nx) Igreja de Cabanelas - Cabanelas;\n\nz) Solar de Cabanelas - Cabanelas;\n\naa) Igreja de Caravelas - Caravelas;\n\nab) Casa dos Távoras - Carvalhais;\n\nac) Casa de Manuel António de Carvalho - Carvalhais;\n\nad) Casa brasonada em Contins - Contins;\n\nae) Antiga Abadia Conventual dos Frades de São Jerónimo - Vila Nova das Patas;\n\naf) Igreja de Cedães;\n\nag) Igreja do Cobro - Rego de Vide;\n\nah) Igreja da Fradizela - Fradizela;\n\nai) Igreja da Ribeirinha - Ribeirinha;\n\naj) Igreja do Franco - Franco;\n\nal) Casa com capela e ponte no Franco - Franco;\n\nam) Solar em Frechas - Frechas;\n\nan) Igreja de Frechas - Frechas;\n\nao) Igreja da Freixeda - Freixeda;\n\nap) Igreja de Lamas de Orelhão - Lamas de Orelhão;\n\naq) Casa brasonada 1 em Lamas de Orelhão;\n\nar) Casa brasonada 2 em Lamas de Orelhão;\n\nas) Casa Lima e capela - São Pedro de Vale do Conde;\n\nat) Igreja de São Pedro de Vale do Conde;\n\nau) Igreja de Mascarenhas;\n\nav) Casa brasonada 1 em Mascarenhas;\n\nax) Casa brasonada 2 em Mascarenhas;\n\naz) Igreja de Paradela;\n\nba) Casa solar em Valbom dos Figos;\n\nbb) Casa e capela em Paradela;\n\nbc) Casa de cima e Capela de São Miguel - Mirandela;\n\nbd) Casa e Capela de São Francisco - Mirandela;\n\nbe) Igreja de Vale de Prados;\n\nbf) Igreja dos Passos;\n\nbg) Restaurante e Museu Maria Rita - Romeu;\n\nbh) Igreja do Romeu de Cima - Romeu;\n\nbi) Núcleo da Quinta de Menéres em Romeu de Baixo - Romeu;\n\nbj) Núcleo urbano do Largo da Igreja do Vimieiro - Vimieiro;\n\nbl) Igreja de São Pedro Velho - São Pedro Velho;\n\nbm) Casa brasonada e Capela de São Salvador;\n\nbn) Igreja de São Salvador;\n\nbo) Solar dos Pavões 1 - Suçães;\n\nbp) Solar dos Pavões 2 - Suçães;\n\nbq) Igreja de Suçães;\n\nbr) Igreja de Torre de D. Chama;\n\nbs) Igreja de Vale de Asnes;\n\nbt) Igreja de Vale de Gouvinhas;\n\nbu) Igreja de Vale de Salgueiro;\n\nbv) Casa brasonada em Vale de Salgueiro;\n\nbx) Igreja de Vale de Telhas;\n\nbz) Fonte romana em Vale de Telhas;\n\nca) Casa brasonada em Vale de Telhas;\n\ncb) Casa e torrinha em Vale de Telhas;\n\ncc) Igreja de Vila Boa;\n\ncd) Azenha na Ponte dos Vilares, no rio de Macedo - Torre de D. Chama;\n\nce) Ponte de Vale de Telhas sobre o rio Rabaçal - Vale de Telhas;\n\ncf) Ponte da Formigosa sobre o rio Tuela - Vale de Juncal;\n\ncg) Ponte do Franco, EN 15 - Franco;\n\nch) Ponte de Vale Verde da Gestosa sobre o rio Tua - Vale Verde da Gestosa.\n\nci) Capela da Casa Mesquita - Mascarenhas;\n\ncj) Freixedinha - Mirandela;\n\ncl) Aldeia do Romeu.\n\n5 - O regime de protecção no interior dos perímetros de protecção referidos nos n.os 3 e 4 do presente artigo obedecerá ao estabelecido, nos termos da lei, para os imóveis de interesse público.\n\n6 - São ainda identificados e delimitados os respectivos perímetros de protecção na planta actualizada de condicionantes dos seguintes valores histórico-arqueológicos:\n\na) Santuário de Nossa Senhora do Monte - Aguieiras;\n\nb) Povoado fortificado do Cabeço do Mouro - Vila Verde;\n\nc) Povoado fortificado de Vila Verde - Vila Verde;\n\nd) Solar dos Bacelares - Alvites;\n\ne) Castelo de Passos - Passos;\n\nf) Povoado romano - Lamas de Orelhão;\n\ng) Castro romanizado da Fraga do Castelo - Vale de Sancha, Frechas;\n\nh) Atalaia medieval do Soalheiro - Lamas de Orelhão;\n\ni) Santuário e castro romanizado de Santa Catarina - Marmelos;\n\nj) Marco romano da Igreja de Lamas de Orelhão - Lamas de Orelhão;\n\nl) Berrão de Torre de D. Chama - Torre de D. Chama;\n\nm) Restos da mamoa de Esterquiço - Marmelos;\n\nn) Marco miliário de Vale de Gouvinhas - Vale de Gouvinhas;\n\no) Ruínas da ponte medieval de Abreiro - Abreiro;\n\np) Cruzeiro de Abreiro - Abreiro;\n\nq) Anta de Arcã - Abreiro;\n\nr) Povoado antigo da Quinta da Pendurada - Abreiro;\n\ns) Povoado de Freixeda - Vale de Telhas;\n\nt) Marco miliário de Vale de Telhas - Vale de Telhas;\n\nu) Capela e castro romanizado de Santa Catarina - Abreiro;\n\nv) Cemitério dos Mouros - povoado da Idade do Bronze - Abreiro.\n\nx) Dólmen do Prado Santo - Abambres;\n\nz) Mamoa da Madorra - Caravelas;\n\naa) Mamoa do Malhado - Caravelas;\n\nab) Mamoa de Prado - Caravelas;\n\nac) Póvoa medieval de São Martinho - Marmelos;\n\nad) Abrigo calcolítico do Buraco da Pala - Passos;\n\nae) Mina de São Salvador - São Salvador;\n\naf) Casal rural romana de Saínça - Suçães;\n\nag) Castro romanizado de Vale de Telhas - muralha - Vale de Telhas;\n\nah) Povoado medieval da Quinta da Ponte;\n\nai) Castro romanizado do Cabeço - Vale de Telhas.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "6292a4f6198a4235": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Outros usos compatíveis",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 39.º — Outros usos compatíveis\n\nSão consideradas compatíveis com o uso dominante e com os usos supletivos, estabelecidos, respectivamente, nos artigos 37.º e 38.º, as seguintes instalações:\n\n1) A instalação de indústrias das classes D e C, desde que não ofereçam riscos de poluição nem apresentem perigosidade ou outros inconvenientes, nomeadamente de aparcamento e de circulação para as áreas vizinhas;\n\n2) A instalação de armazéns e de oficinas que, pelo estacionamento, cargas e descargas e volume de tráfegos gerados, não causem:\n\na) Congestionamento da circulação viária;\n\nb) Congestionamento dos espaços para estacionamento disponíveis;\n\nc) Diminuição da segurança rodoviária;\n\nd) Riscos de incêndio ou explosão.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "1595b1b722595ccf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Edificabilidade",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 40.º — Edificabilidade\n\n1 - Todas as edificações respeitarão os planos de urbanização e de pormenor ou os loteamentos aprovados, se existirem.\n\n2 - No caso de não existir qualquer plano de urbanização ou de pormenor plenamente eficazes ou loteamentos aprovados, só serão autorizadas as edificações que conduzam à qualificação do espaço urbano, através de soluções arquitectónicas que concretizem uma integração harmoniosa com os edifícios e funções envolventes, nomeadamente no que se refere a tráfego e estacionamento.\n\n3 - No caso de não existir qualquer plano de urbanização, de pormenor ou loteamento plenamente eficazes, não serão autorizados os edifícios que:\n\na) Ultrapassem a altura dominante do conjunto onde irão inserir-se ou o plano de cérceas estabelecido pela Câmara Municipal para o local;\n\nb) Contrariem o alinhamento dominante do conjunto onde irão inserir-se ou o plano de alinhamento estabelecido para o local.\n\n4 - Será sempre encargo do requerente a realização das obras de ligação à rede pública de infra-estruturas, estando neste caso, para além de outras que possam ser determinadas pela Câmara Municipal:\n\na) Ligação à rede viária e ou a sua beneficiação;\n\nb) Ligação à rede de águas residuais;\n\nc) Ligação à rede de abastecimento de água;\n\nd) Ligação à rede de energia eléctrica.\n\n5 - No caso de não existir rede pública de abastecimento de água, de águas residuais ou de energia eléctrica, fica o requerente obrigado a realizar as obras necessárias para assegurar aquelas infra-estruturas básicas em regime de auto-suficiência, com obrigatoriedade de ligação às referidas redes públicas logo que elas existam.\n\n6 - A edificabilidade nos espaços urbanos fora do perímetro urbano da cidade de Mirandela e do perímetro urbano de Torre de D. Chama respeitará os seguintes parâmetros:\n\na) Altura máxima de três pisos (rés-do-chão, 1.º e 2.º andares) a partir da cota de serventia;\n\nb) Habitação isolada unifamiliar, dupla, geminada ou em banda;\n\nc) A percentagem máxima construída no lote é de 60%, excepto quando se tratar da reconstrução, recuperação ou reabilitação de edificações já existentes.\n\n7 - Enquanto não forem elaborados planos de urbanização e ou pormenor, a edificação na área urbana da cidade de Mirandela e da vila de Torre de D. Chama poderá decorrer de operações de loteamento ou da construção em parcelas isoladas, devendo a solução urbanística definida concretizar uma integração harmoniosa na área envolvente e respeitar a altura máxima de seis pisos (rés-do-chão, 1.º, 2.º, 3.º, 4.º e 5.º andares) para a cidade de Mirandela e de quatro pisos (rés-do-chão, 1.º, 2.º e 3.º andares) para a vila de Torre D. Chama, sendo os pisos contados a partir da cota de serventia e sem prejuízo do estabelecido nos n.os 2 e 3 do presente artigo, no caso de construções isoladas.\n\n8 - Com carácter de excepção poderá ser admitida a construção de edifícios com um número de pisos superior ao estabelecido nos n.os 3, 6 e 7 do presente artigo, quando se trate da construção de equipamentos colectivos ou de unidades hoteleiras e similares, desde que justificado o seu interesse municipal e satisfeitos adequados padrões de qualidade arquitectónica e de harmoniosa integração urbanística, através de projecto realizado por arquitecto.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "de57828fe40adf46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Regime de cedências",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 41.º — Regime de cedências\n\n1 - Para efeitos da divisão da propriedade, decorrente de plano de urbanização, plano de pormenor ou operação de loteamento, com vista à sua implementação urbanística, os proprietários e demais titulares de direitos reais sobre o terreno são obrigados a ceder à Câmara Municipal, a título gratuito e devidamente arranjadas, as áreas necessárias com as seguintes obras:\n\na) Construção e ou alargamento de vias de acesso - passeios e arruamentos;\n\nb) Estacionamento automóvel público - um lugar por fogo e por 50 m2 de área comercial, armazéns ou serviços;\n\nc) Instalação de equipamentos colectivos;\n\nd) Construção de outras infra-estruturas;\n\ne) Espaços verdes.\n\n2 - A área total de cedência, incluindo a área afecta a vias e a área de estacionamento, referida no n.º 1 do presente artigo, não será inferior a 25% do total da área a urbanizar na cidade de Mirandela e na vila de Torre de D. Chama.\n\n3 - Poderá a cedência da área para estacionamento público, referida nos n.os 1 e 2 do presente artigo, ser dispensada nos loteamentos até ao máximo de cinco lotes de habitação unifamiliar ou se as construções dispuserem das áreas de estacionamento necessárias, de acesso público, embora pago, sendo nestes casos a área total de cedência não inferior a 15% do total da área a urbanizar na cidade de Mirandela e na vila de Torre de D. Chama, com carácter de excepção em relação ao estabelecido no n.º 2 do presente artigo.\n\n4 - A área total de cedência para os loteamentos com mais de cinco lotes realizados nas aldeias não será inferior a 15% do total da área a urbanizar.\n\n5 - Nos loteamentos realizados nas aldeias, até ao máximo de cinco lotes, é dispensável a cedência de área para além da necessária à eventual construção ou alargamento das vias e passeios, com carácter de excepção em relação ao estabelecido no n.º 1 do presente artigo.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "ef974f1bab86f4e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Edificabilidade",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 43.º — Edificabilidade\n\n1 - A edificação nos espaços urbanizáveis deverá decorrer da elaboração e aprovação de plano de urbanização e ou de planos de pormenor.\n\n2 - Enquanto não existirem planos de urbanização e ou de pormenor para os espaços urbanizáveis da sede do concelho, a edificação poderá decorrer de operações de loteamento ou da construção em parcelas isoladas, que se regerão pelas seguintes disposições:\n\na) Número máximo de três pisos - rés-do-chão, 1.º e 2.º andares, a partir da cota de serventia - em construção isolada e quatro pisos - rés-do-chão, 1.º, 2.º e 3.º andares, a partir da cota de serventia - em operações de loteamento;\n\nb) Todas as ligações às redes de infra-estruturas constituirão encargo do requerente;\n\nc) O arranjo dos passeios será realizado pela Câmara Municipal, mas o encargo será do requerente, em toda a extensão da frente do lote;\n\nd) A fachada não sobressairá da linha de fachadas dominante ou estabelecida;\n\ne) A percentagem máxima construída no lote é de 60%;\n\nf) Satisfação de parâmetros de qualidade arquitectónica e urbanística.\n\n3 - Com carácter de excepção, poderá ser admitida a construção de edifícios com um número de pisos superior ao estabelecido na alínea a) do n.º 2 do presente artigo, nomeadamente a construção de equipamentos colectivos e de unidades hoteleiras e similares, desde que justificado o seu interesse municipal e satisfeitos adequados padrões de qualidade arquitectónica e de integração urbanística.\n\n4 - A construção em espaços que não disponham de rede pública de abastecimento de água, de águas residuais ou de energia eléctrica fica condicionada à realização, pelo promotor, das obras necessárias para assegurar aquelas infra-estruturas básicas em regime de auto-suficiência, com obrigatoriedade de ligação às referidas redes públicas, logo que elas existam.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "9b628b1f3b706701": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Caracterização",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 45.º — Caracterização\n\nSão definidas como espaços industriais e assinaladas na planta de ordenamento as seguintes zonas industriais:\n\na) Zona Industrial de Mirandela e respectiva zona de expansão;\n\nb) Complexo Agro-Industrial do Cachão;\n\nc) Zona Industrial da Formigosa.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "112a7bd7670e32ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Usos complementares",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 47.º — Usos complementares\n\nNos espaços industriais referidos no artigo 45.º são considerados os seguintes usos complementares:\n\na) Instalação de armazéns e de oficinas;\n\nb) Instalação de serviços de apoio às empresas, nomeadamente cantinas, zonas de convívio, postos de saúde, correios e telecomunicações, bombeiros e espaço para exposições.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "acb57f6f10c9522a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Estatuto de utilização",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 48.º — Estatuto de utilização\n\n1 - A implementação da Zona Industrial de Mirandela e respectiva zona de expansão e da Zona Industrial da Formigosa, referidas nas alíneas a) e c) do artigo 45.º, decorre de operações de loteamento ou de planos de pormenor ou de urbanização.\n\n2 - As operações de loteamento ou os planos referidos no n.º 1 do presente artigo têm obrigatoriamente de incluir, sem prejuízo da legislação em vigor:\n\na) A definição de lotes industriais;\n\nb) A estrutura viária e o parqueamento;\n\nc) A rede de abastecimento de água;\n\nd) A rede de drenagem das águas pluviais;\n\ne) A rede de águas residuais;\n\nf) A rede de abastecimento de energia eléctrica;\n\ng) A rede de telecomunicações;\n\nh) A estação de tratamento de águas residuais ou a estação de pré-tratamento para ligação à rede doméstica;\n\ni) A definição do destino adequado dos resíduos sólidos;\n\nj) Os espaços verdes, no mínimo 15% da área total, incluindo uma faixa envolvente de protecção arbórea;\n\nk) A área de reserva para serviços e equipamentos de apoio às empresas;\n\nl) O regulamento do uso do solo e condições gerais de edificação.\n\n3 - Sem prejuízo do estabelecido na legislação em vigor, os pedidos de construção no interior das zonas industriais referidas no artigo 45.º serão acompanhados de uma memória descritiva, que satisfará, cumulativamente, os seguintes itens:\n\na) Percentagem máxima de lote impermeabilizado de 75%;\n\nb) Estudo de impacte ambiental, quando se justifique;\n\nc) Natureza das actividades industriais e respectivas classificações;\n\nd) Descrição do processo tecnológico;\n\ne) Caracterização dos efluentes líquidos, resíduos sólidos, poluentes atmosféricos e fumos produzidos;\n\nf) Soluções para o tratamento dos efluentes líquidos, resíduos sólidos, poluentes atmosféricos e fumos, de forma a adequá-los aos parâmetros permitidos pela legislação em vigor nessa matéria e à protecção do meio ambiente;\n\ng) Destino final dos efluentes líquidos e dos resíduos sólidos.\n\n4 - Com carácter de excepção e enquanto não existirem planos de urbanização e ou de pormenor para as Zonas Industriais referidas no artigo 45.º, poderá autorizar-se a construção de estabelecimentos industriais ou outras instalações complementares compatíveis, em parcelas isoladas no interior das referidas Zonas Industriais, desde que justificado o seu interesse municipal e satisfeito o estabelecido nos n.os 2 e 3 do artigo 49.º\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "887552f297025ebb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Localização industrial e novos espaços industriais",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 49.º — Localização industrial e novos espaços industriais\n\n1 - O licenciamento da localização e construção de estabelecimentos industriais fora dos espaços industriais referidos no artigo 45.º poderá ocorrer nas seguintes situações:\n\na) Em espaço urbano, de acordo com o estabelecido no artigo 39.º;\n\nb) Em espaço urbano ou urbanizável, em zona industrial a criar, através de operação de loteamento ou plano de urbanização ou de pormenor;\n\nc) Instalação de indústria isolada da classe C ou D, em área classificada como espaço natural de utilização múltipla;\n\nd) Instalação em novas zonas industriais a criar, em área classificada como espaço natural de utilização múltipla, de acordo com o estabelecido no artigo 34.º\n\n2 - A localização dos estabelecimentos industriais referidos no número anterior deverá satisfazer cumulativamente os seguintes condicionamentos:\n\na) Confrontar com arruamento público, quando se trate de indústria isolada;\n\nb) Dispor de acesso directo a arruamento público, quando se trate de zona industrial;\n\nc) Dispor de auto-abastecimento de água ou ligação à rede pública;\n\nd) Dispor de fossa séptica ou ligação à rede de esgotos;\n\ne) Dispor de energia eléctrica.\n\n3 - O licenciamento da construção de estabelecimentos industriais fora das zonas industriais e do espaço urbano ou urbanizável fica ainda sujeito aos seguintes condicionamentos:\n\na) Apresentação e execução de projecto de arranjos exteriores;\n\nb) Satisfação de parâmetros de qualidade e de enquadramento paisagístico;\n\nc) Justificação satisfatória da localização pretendida.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "5daadec392263462": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Estatuto de utilização",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 55.º — Estatuto de utilização\n\nNestas áreas apenas serão permitidos usos específicos ou compatíveis com as actividades de recreio e ou lazer, definidas pela Câmara Municipal para cada área.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "162c59ce03c5a0cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Edificabilidade",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 56.º — Edificabilidade\n\n1 - É permitida a edificação, com carácter permanente, de instalações e equipamentos de apoio às actividades de recreio e lazer, com projecto obrigatoriamente elaborado por um arquitecto, devendo satisfazer cumulativamente aos seguintes condicionamentos:\n\na) Uma integração cuidada na paisagem envolvente;\n\nb) Um cuidado especial em não poluir o meio ambiente, devendo os projectos caracterizar-se por uma alta qualidade ao nível da arquitectura e do saneamento básico.\n\n2 - Em projectos especiais de recreio e lazer será obrigatória a participação de arquitecto paisagista, para além da satisfação dos condicionamentos estabelecidos no n.º 1 do presente artigo.\n\n3 - Compete à Câmara Municipal definir os projectos que, pela sua natureza, dimensão e ou complexidade, serão classificados como especiais.\n\n4 - É permitida a construção, a título precário, de instalações compatíveis com as actividades de recreio e lazer definidas para cada área e sujeita a condicionamentos adequados a cada situação.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "ee0e5f3e5698c4fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Edificabilidade",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 62.º — Edificabilidade\n\nA edificação nos espaços florestais é permitida nas seguintes situações:\n\na) Reconstrução, recuperação ou reabilitação de edificações já existentes;\n\nb) Construção de edifícios e anexos de apoio às actividades e usos permitidos;\n\nc) Obras destinadas à prevenção e ao combate de fogos florestais, nomeadamente pequenas barragens e pontos de água contra incêndios, a abertura de caminhos florestais e a instalação de linhas de corta-fogo.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "5036ef919fec3f02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — Edificabilidade",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 66.º — Edificabilidade\n\nA edificação nos espaços naturais de utilização múltipla é permitida nas seguintes situações:\n\n1) Reconstrução, recuperação, reabilitação ou ampliação de edifícios já existentes, não podendo a ampliação ocupar mais de 20% da área de construção existente;\n\n2) Execução de obras necessárias ao aproveitamento turístico, no âmbito do turismo rural, contemplando a modernização interior e recuperação exterior das edificações rurais preexistentes, a ampliação de instalações e a construção de anexos e de equipamentos, devendo satisfazer aos seguintes condicionamentos:\n\na) Em edifícios e conjuntos classificados ou em vias de classificação só serão permitidas alterações à fachada e à volumetria original desde que o projecto seja da responsabilidade de arquitecto e aprovado pela entidade competente de tutela;\n\nb) É permitida a construção de novos edifícios e ou a ampliação de edifícios e conjuntos existentes, não classificados, desde que o aumento da área edificada não ultrapasse 100% da área coberta anteriormente existente;\n\nc) A volumetria das novas construções referidas na alínea anterior deverá respeitar a volumetria dos edifícios anteriormente existentes;\n\nd) As novas construções deverão integrar-se, paisagística e arquitectonicamente, no conjunto de edifícios anteriormente existentes;\n\n3) Construção de edifícios e de anexos de apoio às actividades e usos permitidos, nomeadamente instalações agro-pecuárias, agro-florestais e silvo-pastoris;\n\n4) Construção de habitação em regime de residência habitual do proprietário ou titular dos direitos de exploração, em explorações agrícolas, agro-pecuárias ou agro-florestais com área igual ou superior a 3 ha ou economicamente viáveis;\n\n5) Habitação dos trabalhadores permanentes de exploração agrícola, agro-pecuária ou agro-florestal com área igual ou superior a 5 ha;\n\n6) Conjuntos turísticos, meios complementares de alojamento turístico e estabelecimentos hoteleiros e similares, cujos projectos serão obrigatoriamente elaborados por arquitecto e nos quais serão respeitados os seguintes aspectos:\n\na) Integração cuidada na paisagem envolvente;\n\nb) Satisfação de parâmetros de qualidade ao nível da arquitectura, do ambiente e do saneamento básico;\n\n7) Instalações industriais isoladas das classes C e D, instalações oficinais, artesanais e armazéns, desde que não ofereçam riscos de poluição nem apresentem perigosidade ou outros inconvenientes;\n\n8) Construção de habitação em regime de residência habitual e permanente do proprietário e respectivo agregado familiar em prédio inscrito ou participado na matriz, na vizinhança de área urbana, confrontante com via pública existente de acesso à área urbana referida e dotado de rede pública de abastecimento de água, desde que corresponda a uma das seguintes situações:\n\na) Tratar-se do preenchimento com habitação, ao longo do troço da referida via pública, até à distância máxima de 200 m do perímetro urbano;\n\nb) Tratar-se da colmatação com habitações, ao longo do troço da referida via pública, até à distância máxima de 500 m do perímetro urbano e apenas quando e enquanto se verifique a existência de habitações ou edifícios de carácter urbano, em mancha descontínua de um ou de outro lado da via, com distâncias entre edificações existentes não superiores a 50 m;\n\n9) Obras com finalidade agrícola ou florestal, nomeadamente tanques para rega, pequenas barragens e pontos de água contra incêndios.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "2db95b20162cb6b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — Caracterização e objectivo",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 68.º — Caracterização e objectivo\n\n1 - São áreas de protecção aos sítios histórico-arqueológicos, delimitadas igualmente na planta actualizada de condicionantes e referidas no artigo 22.º do presente Regulamento.\n\n2 - É objectivo da delimitação destas áreas a salvaguarda e valorização do património existente.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "6ba6012042aff796": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º — Usos permitidos",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 73.º — Usos permitidos\n\n1 - Os usos permitidos são os estabelecidos nos n.os 1, 2, 4, 5, 6 e 8 do artigo 64.º e ainda os usos estabelecidos nos números seguintes do presente artigo.\n\n2 - Silvicultura, que respeitará as seguintes regras:\n\na) Nas áreas a arborizar ou a rearborizar, os povoamentos incluirão preferencialmente espécies folhosas e resinosas indígenas e ou exóticas tradicionais;\n\nb) Nas áreas a arborizar ou a rearborizar com dimensão igual ou superior a 50 ha, os povoamentos deverão ser sempre compartimentados.\n\n3 - Actividades recreativas e turísticas.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "cf8c4d411cfc9cff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º — Edificabilidade",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 74.º — Edificabilidade\n\nA edificabilidade em áreas de importante valor paisagístico é permitida nas seguintes situações:\n\na) Construções e ou execução de obras e projectos de acordo com o estabelecido nos n.os 1, 2, 6, 8 e 9 do artigo 66.º;\n\nb) Construções de edifícios e de anexos de apoio às actividades e usos permitidos.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "fc5c4cb7cb87ec2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º — Condicionamentos ao uso e à edificabilidade",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 75.º — Condicionamentos ao uso e à edificabilidade\n\n1 - Os usos e as alterações de uso estabelecidos de acordo com o artigo 74.º deverão preservar as características essenciais destas áreas e garantir o equilíbrio ambiental e paisagístico.\n\n2 - Os projectos de construção serão obrigatoriamente acompanhados de estudo de enquadramento paisagístico, não podendo a sua localização, volumetria ou aspecto exterior perturbar o equilíbrio da paisagem.\n\n3 - Os projectos de construção serão também acompanhados de estudo de impacte ambiental sempre que a dimensão, a natureza ou a área de incidência do projecto o aconselhe.\n\n4 - A edificabilidade estabelecida no artigo 74.º fica ainda sujeita à satisfação cumulativa dos condicionamentos referidos nos artigos 65.º e 67.º e à satisfação de parâmetros de qualidade ao nível da arquitectura, do ambiente e do saneamento básico.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "27af6b161617d89c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — Restrições aos usos e à edificabilidade",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 79.º — Restrições aos usos e à edificabilidade\n\n1 - As áreas de protecção à fauna e flora são áreas de construção condicionada, sendo permitida a edificação nas seguintes situações:\n\na) Reconstrução, recuperação, reabilitação ou ampliação de edificações já existentes, não podendo a ampliação ocupar mais de 20% da área de construção existente;\n\nb) Construção de edifícios e de anexos de apoio às actividades e usos permitidos.\n\n2 - Nas áreas de protecção à fauna e flora são proibidas as acções seguintes:\n\na) A alteração do uso actual dos solos;\n\nb) A alteração do relevo natural;\n\nc) A execução de obras;\n\nd) A descarga de águas residuais;\n\ne) O emprego de pesticidas;\n\nf) A deposição de lixos, entulhos, sucata ou ferro-velho;\n\ng) A introdução de espécies biológicas exóticas ou estranhas ao ambiente;\n\nh) A colheita e detenção, total ou parcial, de qualquer espécime biológico natural;\n\ni) Todas as actividades susceptíveis de perturbar o ambiente natural;\n\nj) Actividades minerais e de recolha de inertes, nomeadamente a exploração de areias fluviais e saibros das vertentes.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "3a54c51c61cf94b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º — Excepções",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 80.º — Excepções\n\nRelativamente às restrições constantes nas alíneas a), b) e c) do n.º 2 do artigo anterior, exceptua-se a realização de obras de beneficiação em vias já existentes e ou decorrentes da execução de projectos devidamente aprovados, de acordo com o estabelecido no n.º 1 do artigo 79.º\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "d8bd68c07ca4f35e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º — Condicionamentos ao uso e à edificabilidade",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 86.º — Condicionamentos ao uso e à edificabilidade\n\nNas zonas de protecção às albufeiras não é permitido:\n\na) Destruir o coberto vegetal ou alterar o relevo natural;\n\nb) Instalar vazadouros, lixeiras, parques de sucata ou outros depósitos de materiais ou de resíduos sólidos;\n\nc) Proceder à descarga ou infiltração no terreno de esgotos de qualquer natureza não devidamente tratados e, mesmo tratados, quando seja viável o seu lançamento a jusante da albufeira;\n\nd) Implantar quaisquer construções que não sejam de infra-estruturas de apoio à sua utilização ou de apoio às actividades de recreio, turismo ou lazer, com projecto arquitectónico adequado e correcta integração paisagística;\n\ne) Exceptua-se ao estabelecido nas alíneas a) e d) do presente artigo as acções e a edificação permitidas no PDM para a área urbana da cidade de Mirandela, na zona de protecção da albufeira da ponte-açude de Mirandela, fora da respectiva zona reservada.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "d4f70631c1b71fb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 92.º — Edificação isolada",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 92.º — Edificação isolada\n\n1 - A edificação isolada, fora dos espaços urbanos e urbanizáveis, é permitida, de acordo com o estabelecido nos artigos 49.º, 52.º, 56.º, 62.º, 66.º, 74.º, 75.º, 79.º e 86.º e desde que a construção não exceda os dois pisos de altura.\n\n2 - A instalação de armazéns isolados e oficinas, fora dos espaços urbanos e urbanizáveis e de zonas industriais, é permitida de acordo com o estabelecido no n.º 7 do artigo 66.º e no n.º 1 do artigo 67.º e desde que a construção seja de um só piso, com 6,5 m de altura máxima.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  },
+  "0df6fcb99bdd9b68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 93.º — Loteamentos",
+   "in_force_from": "1997-10-22",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+   ],
+   "markdown": "###### Artigo 93.º — Loteamentos\n\n1 - As operações de loteamento realizadas em espaços urbanos e urbanizáveis na cidade de Mirandela e na vila de Torre de D. Chama, em loteamentos até ao máximo de cinco lotes, reger-se-ão pelo estabelecido nos artigos 40.º, 41.º, 43.º e 44.º e ainda pelos seguintes parâmetros, além de outros condicionamentos constantes no presente Regulamento e demais legislação em vigor:\n\na) Será previsto um lugar de estacionamento, dentro do lote, por fogo;\n\nb) As áreas de cedência poderão restringir-se às áreas indispensáveis para a eventual construção ou alargamento das vias e passeios, podendo a restante cedência estabelecida nos termos do presente Regulamento ser substituída por uma compensação em numerário ou em espécie, a aprovar pela Assembleia Municipal, quando a área a urbanizar não dispuser, justificadamente, de espaço para o efeito.\n\n2 - As operações de loteamento realizadas em espaços urbanos e urbanizáveis na cidade de Mirandela e na vila de Torre de D. Chama, em loteamentos com mais de cinco lotes, reger-se-ão pelos seguintes parâmetros, além de outros condicionamentos constantes no presente Regulamento e demais legislação em vigor:\n\na) As edificações destinadas à habitação poderão ser dos tipos unifamiliar, dupla ou plurifamiliar, isolada, geminada ou em banda;\n\nb) Será previsto um lugar de estacionamento, dentro do lote, por fogo;\n\nc) Deverá ser privilegiada a criação de vias de serviço interiores ao loteamento, em loteamentos atravessados ou adjacentes a vias pertencentes às redes intermunicipal, municipal principal ou municipal secundária, reduzindo ao mínimo o número de acessos directos a essas vias;\n\nd) Os arruamentos possuirão um mínimo de 8,8 m de largura, sendo um mínimo de 6 m reservado para a faixa de rodagem e um mínimo de 1,4 m2 para os passeios;\n\ne) No caso de arruamentos com estacionamento lateral, este deverá ter um mínimo de 2 m de largura, sendo adicionada à largura mínima definida na alínea d) do presente número;\n\nf) No caso de arruamentos com árvores, estes terão uma faixa adicional de passeio com um mínimo de 1 m de largura, que será adicionada à largura mínima definida na alínea d) do presente número.\n\n3 - As operações de loteamento realizadas em espaços urbanos das aldeias reger-se-ão pelos seguintes parâmetros, além de outros condicionamentos constantes no presente Regulamento e demais legislação em vigor:\n\na) As edificações destinadas à habitação serão dos tipos unifamiliar, dupla, geminada ou em banda;\n\nb) Será previsto um lugar de estacionamento, dentro do lote, por fogo;\n\nc) As áreas de cedência poderão restringir-se às indispensáveis para a eventual construção ou alargamento das vias e passeios, sendo a largura mínima da faixa de rodagem de 5 m, admitindo-se a dispensabilidade dos passeios por razões urbanísticas e podendo a restante cedência, prevista nos termos do presente Regulamento, ser substituída por uma compensação em numerário ou em espécie, a aprovar em Assembleia Municipal, para os loteamentos com mais de cinco lotes.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17."
+  }
+ }
+}

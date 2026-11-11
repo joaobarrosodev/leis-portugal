@@ -38,10 +38,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-09-03'
+version_history:
+  file: resolucao-conselho-ministros-50-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-09-03'
+    amending: pt:dre:197290:por
+    amending_title: Resolução do Conselho de Ministros n.º 143/97
+    changes:
+    - Altera Artigo 39.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Artigo 53.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 68.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/50/1995/05/31/p/dre/pt/html
@@ -67,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:11:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 143/97. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1995/resolucao-conselho-ministros-50-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -874,7 +896,7 @@ Exploração de inertes com área superior a 500 m2.
 
 Não represente encargos adicionais para a autarquia, nomeadamente quanto à realização de infra-estruturas;
 
-A superfície total de pavimento para habitação não pode ultrapassar 200 m2;
+A superfície total de pavimento não pode ultrapassar 300 m2;
 
 Número máximo de pisos: dois ou 6,5 m de cércea;
 
@@ -884,7 +906,7 @@ Infra-estruturas, sem prejuízo do disposto no artigo 17.º do presente Regulame
 
 Número máximo de pisos: dois ou 6,5 m de cércea;
 
-A superfície de pavimento poderá ser acrescida desde que o total da construção não exceda 250 m2, exceptuando-se os edifícios que já tenham área superior, caso em que não será permitido qualquer aumento de área;
+A superfície de pavimento poderá ser acrescida desde que o total da construção não exceda 300 m2, exceptuando-se os edifícios que já tenham área superior, caso em que não será permitido qualquer aumento de área;
 
 Deverão ser mantidas as características arquitectónicas e construtivas preexistentes;
 
@@ -913,6 +935,8 @@ O edifício só pode destinar-se a uma única habitação ou a instalações par
 Número máximo de pisos: dois ou 6,5 m de cércea;
 
 Infra-estruturas: sem prejuízo do disposto no artigo 17.º do presente Regulamento, admitem-se sistemas autónomos de abastecimento de água e de tratamento de esgotos de acordo com legislação específica, à excepção das áreas localizadas em espaços agrícolas condicionados.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 143/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-1997-197290), publicado em 1997-08-29.
 
 ###### Artigo 40.º — Edificabilidade - Áreas não sujeitas ao regime da Reserva Agrícola Nacional
 
@@ -1060,15 +1084,15 @@ b) Índice máximo de utilização bruta: 1,0, aplicável à área que exceda os
 
 6 - A construção em parcelas já existentes ou resultantes de destaque, nos termos da legislação em vigor, bem como a alteração das construções existentes, fica sujeita às seguintes regras:
 
-a) Frente mínima de parcela: 10 m;
+a) Cércea máxima: igual à média dos edifícios confinantes, caso não sejam definidas cérceas diferentes em plano de pormenor, estudos de conjunto ou Regulamento Municipal de Edificações Urbanas;
 
-b) Cércea máxima: igual à média dos edifícios confinantes, caso não sejam definidas cérceas diferentes em plano de pormenor, estudos de conjunto ou Regulamento Municipal de Edificações Urbanas;
+b) Número máximo de pisos: cinco pisos, salvo se for definida outra em plano de urbanização ou plano de pormenor;
 
-c) Número máximo de pisos: cinco pisos, salvo se for definida outra em plano de urbanização ou plano de pormenor;
+c) Garantia dos alinhamentos estabelecidos pelas construções existentes ou que venham a ser fixados pela Câmara Municipal;
 
-d) Garantia dos alinhamentos estabelecidos pelas construções existentes ou que venham a ser fixados pela Câmara Municipal;
+d) Infra-estruturas: obrigatoriamente ligadas às redes públicas.
 
-e) Infra-estruturas: obrigatoriamente ligadas às redes públicas.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 143/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-1997-197290), publicado em 1997-08-29.
 
 ###### Artigo 50.º — Espaço urbano estruturante II
 
@@ -1088,7 +1112,7 @@ e) Afectação dos terrenos para equipamentos colectivos ou outros serviços urb
 
 3 - Operações de loteamento urbano, destinado à habitação, comércio, serviços e equipamentos, excepto o disposto no número seguinte:
 
-a) Área utilizável: >= 40%;
+a) Área utilizável: =< 40%;
 
 b) Densidade mínima de 30 fogos/hectare e máxima de 40 fogos/hectare;
 
@@ -1102,7 +1126,7 @@ f) Infra-estruturas: obrigatoriamente ligadas às redes públicas.
 
 4 - Aos loteamentos que tenham por objecto áreas de construção degradada ou de indústrias e oficinas não compatíveis com usos urbanos poderá ser aplicado o índice de utilização bruto de 1,2 com uma cércea máxima de três pisos ou 9,5 m.
 
-5 - A construção em parcelas ou lotes já existentes ou resultantes de destaque, nos termos da legislação em vigor, bem como a alteração das construções existentes, desde que a parcela tenha uma frente mínima de 10 m, ficando sujeita às seguintes regras:
+5 - A construção em parcelas ou lotes já existentes ou resultantes de destaque nos termos da legislação em vigor, bem como a alteração das construções existentes, fica sujeita às seguintes regras:
 
 a) Índice de utilização líquido: 1,8, aplicável a uma profundidade máxima de 20 m;
 
@@ -1113,6 +1137,8 @@ c) Número máximo de pisos: três ou 9,5 m de cércea;
 d) Têm de ser garantidos os alinhamentos estabelecidos pelas construções existentes ou que venham a ser fixados pela Câmara Municipal;
 
 e) Infra-estruturas: obrigatoriamente ligadas às redes públicas.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 143/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-1997-197290), publicado em 1997-08-29.
 
 ###### Artigo 51.º — Espaço urbano estruturante III
 
@@ -1132,9 +1158,7 @@ Estacionamento: um lugar por cada 100 m2, para parcelas com frente >= 10 m;
 
 b) Construção, reconstrução, alteração e ampliação de edifícios em parcelas já constituídas ou em parcelas resultantes de destaque nos termos da legislação em vigor:
 
-Frente mínima de 7 m;
-
-Índice de utilização líquido: 1,8, aplicável a uma profundidade máxima de 20 m;
+Índice de utilização líquido: 1,8 aplicável a uma profundidade máxima de 20 m;
 
 Número máximo de pisos: três ou 9,5 m de cércea;
 
@@ -1143,6 +1167,8 @@ Têm de ser garantidos os alinhamentos estabelecidos pelas construções existen
 Infra-estruturas: obrigatoriamente ligadas às redes públicas;
 
 Estacionamento: um lugar por cada 100 m2 de superfície de pavimento para parcelas com frente superior a 10 m.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 143/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-1997-197290), publicado em 1997-08-29.
 
 ##### SUBSECÇÃO II — Dos espaços urbanos históricos
 
@@ -1166,21 +1192,13 @@ Em caso de ruína eminente comprovada por vistoria municipal;
 
 Quando o edifício for considerado de manutenção inconveniente perante a apresentação de elementos elucidativos da pretensão, nomeadamente armazéns, anexos de edifícios principais, edifícios dissonantes que descaracterizem o conjunto edificado em que se integram ou construções cuja demolição seja necessária para melhorar a salubridade e ou a segurança dos edifícios confinantes;
 
-b) Nos casos em que, nos termos da alínea anterior, seja permitida a demolição, a nova edificação a erigir deverá obedecer às seguintes regras:
-
-O edifício deverá integrar-se de forma harmoniosa no conjunto existente, respeitando a morfologia e volumetria da zona envolvente;
-
-A superfície total de pavimento não poderá ser superior ao existente antes da demolição;
-
-O número máximo de pisos é de três;
+b) Nos casos em que, nos termos da alínea anterior, seja permitida a demolição, a nova edificação deverá integrar-se de forma harmoniosa no conjunto existente, respeitando a morfologia e volumetria da zona envolvente, não podendo o número de pisos ser superior a três;
 
 c) Admite-se o preenchimento de parcelas livres e a remodelação ou ampliação de edifícios existentes desde que se integrem de forma harmoniosa no conjunto existente, respeitando a morfologia e volumetria da zona envolvente, não podendo ultrapassar a cércea máxima dos edifícios confinantes;
 
-d) Admite-se a instalação de actividades terciárias, turismo e artesanato desde que:
+d) Admite-se a instalação de actividades terciárias, turismo e artesanato desde que se integrem de forma harmoniosa no conjunto existente respeitando a volumetria da zona envolvente.
 
-Seja respeitada a volumetria da zona envolvente;
-
-A superfície total de pavimento não exceda o existente antes da remodelação.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 143/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-1997-197290), publicado em 1997-08-29.
 
 ##### SUBSECÇÃO III — Dos espaços urbanos não estruturantes
 
@@ -1222,13 +1240,15 @@ Espaços urbanizáveis de expansão III (contíguos ao espaço urbano estruturan
 
 ###### Artigo 58.º — Indústria nos espaços urbanizáveis de expansão
 
-Nos espaços urbanizáveis de expansão é permitida a instalação de unidades industriais não poluidoras, compatíveis com o uso habitacional, de acordo com o disposto no [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto, e na [Portaria n.º 744-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-b-1993-620754), de 18 de Agosto, e de armazéns que não gerem movimentações de cargas e descargas desadequadas às características das vias que os servem, devendo obedecer às regras constantes do artigo 46.º do presente Regulamento.
+Nos espaços urbanizáveis de expansão é permitida a instalação de unidades industriais não poluidoras, compatíveis com o uso habitacional de acordo com o disposto no [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto, e na [Portaria n.º 744-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-b-1993-620754), de 18 de Agosto, e de armazéns que não gerem movimentações de cargas e descargas desadequadas às características das vias que os servem.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 143/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-1997-197290), publicado em 1997-08-29.
 
 ###### Artigo 59.º — Espaço urbanizável de expansão I
 
 1 - A elaboração de planos de urbanização e de pormenor deve garantir a necessária infra-estruturação urbana e a disponibilização das áreas necessárias aos equipamentos colectivos e espaços verdes e fica sujeita aos seguintes parâmetros:
 
-Área utilizável: 40%;
+Área utilizável: =< 40%;
 
 Índice máximo de utilização bruto: 1,0;
 
@@ -1244,7 +1264,7 @@ Infra-estruturas: obrigatoriamente ligadas às redes públicas.
 
 3 - Operações de loteamento urbano destinado à habitação, comércio, serviços e equipamentos:
 
-Área utilizável: 40%;
+Área utilizável: =< 40%;
 
 Densidade habitacional máxima: 50 fogos/hectare;
 
@@ -1258,7 +1278,9 @@ Estacionamento: um lugar por 100 m2 de superfície de pavimento, a distribuir po
 
 Infra-estruturas: obrigatoriamente ligadas às redes públicas.
 
-4 - No espaço urbanizável I é permitida a realização de obras de alteração, bem como de conservação dos edifícios existentes.
+4 - No espaço urbanizável I é permitida a realização de obras de alteração e ampliação, bem como de conservação dos edifícios existentes.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 143/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-1997-197290), publicado em 1997-08-29.
 
 ###### Artigo 60.º — Espaços urbanizáveis de expansão II
 
@@ -1402,7 +1424,7 @@ f) Da construção dos empreendimentos não podem decorrer encargos adicionais p
 
 2 - Os espaços urbanizáveis para fins comerciais/industriais integram as seguintes categorias, em função das suas características e usos predominantes, conforme delimitação na planta de ordenamento-síntese:
 
-a) Espaço urbanizável para fins comerciais/industriais I - EN 125, a nascente de Olhão;
+a) Espaço urbanizável para fins comerciais/industriais I - Belmonte de Baixo, a poente da cidade de Olhão.
 
 b) Espaço urbanizável para fins comerciais/industriais II - Piares, a norte da Quinta de Marim.
 
@@ -1461,6 +1483,8 @@ c) Cércea máxima: 12 m;
 d) Infra-estruturas: obrigatoriamente ligadas às redes públicas;
 
 e) Estacionamento: um lugar por 100 m2 de superfície de pavimento.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 143/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/143-1997-197290), publicado em 1997-08-29.
 
 ###### Artigo 69.º — Área de protecção do Parque Natural da Ria Formosa - Pré-Parque
 

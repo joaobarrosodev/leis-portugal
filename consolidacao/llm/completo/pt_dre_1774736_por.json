@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:1774736:por",
+  "artigos": [
+    {
+      "chave": "ANEXO I — Regulamento de concessão da medalha de mérito de protecção e socorro::5.º",
+      "epigrafe": "Diploma",
+      "texto": "Ao agraciado é entregue um diploma, assinado pelo autor do despacho de concessão.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 460/2021), artigo 2.º: as figuras 5 e 7 do anexo II e o anexo III passam a ter a redação do anexo I dessa portaria; o anexo II não tem artigos no texto atual (só o título de divisão) e as figuras e o anexo III só vêm em imagem, pelo que não se aplica ao texto. Alterador 2 (Portaria n.º 860/2023), artigo 3.º: novo anexo III (modelo de diploma) só em imagem.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: objeto; nada a aplicar.",
+    "Alterador 1, art. 2.º: novas figuras 5 e 7 do anexo II e novo anexo III; anexos sem artigos / só em imagem; em nao_aplicavel.",
+    "Alterador 1, art. 3.º: substituição oficiosa de insígnias; norma autónoma, não altera o original.",
+    "Alterador 1, art. 4.º e anexo II: republicação dos anexos I, II e III; não é instrução de alteração, não aplicada como tal (as diferenças de grafia e de designação do serviço não vêm de instrução deste alterador).",
+    "Alterador 2, art. 2.º: nova redação do artigo 5.º do regulamento (epígrafe [...] mantida 'Diploma'); aplicado.",
+    "Alterador 2, art. 3.º: novo anexo III só em imagem; em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

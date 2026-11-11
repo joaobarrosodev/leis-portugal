@@ -1,0 +1,735 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:223584:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-04-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "718d4d791b996950",
+    "018d21fa6df4ab65",
+    "c77f2951c3d3bfa4",
+    "edd82808a830b5f0",
+    "b99759d49fdc5749",
+    "e8d3b25490dae5f8",
+    "7ba72f4fdeb3a192",
+    "78dc67f9f1bebfa4",
+    "2e760b8f705f6083",
+    "6c4044f5806c79a2",
+    "199cbb4a6862045b",
+    "f28101b6b798f46c",
+    "98ed53f659f82c8f",
+    "b31bdec59eba3216",
+    "79d0e53817d0de49",
+    "e1280181b318fca3",
+    "b2e05a4cffb9f46e",
+    "49e977d52deb1af7",
+    "bfadd332c41cc050",
+    "587ed72dd6ef4f40",
+    "0a84f4cd7055e79c",
+    "0c25cd5dae3b7098",
+    "ffbbaed90801d360",
+    "0e00aac4e73cc1b7",
+    "e15a942a76bb9eb9",
+    "83e0e42508089a09",
+    "d314a48993e4eade",
+    "c8e5ee6ddbce2a77",
+    "87ca39ca64cd3f3a",
+    "14d05c7d99911790",
+    "fde55d363733d8bb",
+    "2d15893eae670f81",
+    "dcf204a48394eeee",
+    "6676fa7d34bcd1cf",
+    "000c04ed0fa8f0ca",
+    "17bf948164d9dfa1",
+    "4c60d3a4d2b4acf1",
+    "f78538908c414c8e",
+    "b1b02db2a99950ec",
+    "2bc39c5d28e87420",
+    "35a24924d7358505",
+    "101718c87ea0a9da",
+    "0c657726b7c4319c",
+    "d2efa3dcdefb5a26",
+    "c1cb345e31927c0a",
+    "a0e036da1e23b3c3"
+   ]
+  },
+  {
+   "date": "2018-04-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:286118:por",
+     "title": "Resolução do Conselho de Ministros n.º 153/98",
+     "published": "1998-12-30",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/153-1998-286118"
+    },
+    {
+     "id": "pt:dre:106384803:por",
+     "title": "Aviso n.º 1313/2017",
+     "published": "2017-02-02",
+     "dre_path": "/dr/detalhe/aviso/1313-2017-106384803"
+    },
+    {
+     "id": "pt:dre:114969574:por",
+     "title": "Aviso n.º 4419/2018",
+     "published": "2018-04-04",
+     "dre_path": "/dr/detalhe/aviso/4419-2018-114969574"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 38.º",
+    "Adita Artigo 39.º",
+    "Adita Artigo 40.º",
+    "Adita Artigo 41.º",
+    "Adita Artigo 42.º",
+    "Adita Artigo 43.º",
+    "Adita Artigo 44.º",
+    "Adita Artigo 45.º",
+    "Adita Artigo 46.º"
+   ],
+   "fragments": [
+    "718d4d791b996950",
+    "018d21fa6df4ab65",
+    "c77f2951c3d3bfa4",
+    "34b6fab62285f4ba",
+    "b99759d49fdc5749",
+    "e8d3b25490dae5f8",
+    "7ba72f4fdeb3a192",
+    "78dc67f9f1bebfa4",
+    "0993a804a95c8e0f",
+    "6c4044f5806c79a2",
+    "8ade5bcca73f4704",
+    "f28101b6b798f46c",
+    "98ed53f659f82c8f",
+    "b31bdec59eba3216",
+    "79d0e53817d0de49",
+    "ac552be523a98ca3",
+    "b2e05a4cffb9f46e",
+    "49e977d52deb1af7",
+    "bfadd332c41cc050",
+    "587ed72dd6ef4f40",
+    "0a84f4cd7055e79c",
+    "b13b787755ffc835",
+    "ffbbaed90801d360",
+    "0e00aac4e73cc1b7",
+    "e15a942a76bb9eb9",
+    "83e0e42508089a09",
+    "d314a48993e4eade",
+    "c8e5ee6ddbce2a77",
+    "87ca39ca64cd3f3a",
+    "14d05c7d99911790",
+    "fde55d363733d8bb",
+    "2d15893eae670f81",
+    "06b49c6ec48d93ef",
+    "6676fa7d34bcd1cf",
+    "000c04ed0fa8f0ca",
+    "17bf948164d9dfa1",
+    "4c60d3a4d2b4acf1",
+    "f78538908c414c8e",
+    "b1b02db2a99950ec",
+    "058ce136450d6254",
+    "f957bfe7435500aa",
+    "b7ad13dde85d7c55",
+    "eeb1b87c87f9e49d",
+    "d2efa3dcdefb5a26",
+    "d5c03cb0e7838139",
+    "c5616e37e9c89785",
+    "4fc88a95b8354477",
+    "3bb2f5346ef6b1d1",
+    "59e3016ecc80a37e",
+    "3cd0b30632465a8d",
+    "0b5d05a4c08e22f9",
+    "6b9803c241534ecf",
+    "ef405e7ae0555cb2",
+    "1304f7d47bc99322"
+   ]
+  }
+ ],
+ "fragments": {
+  "718d4d791b996950": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia Municipal da Marinha Grande aprovou, em 30 de Novembro de 1994 e em 25 de Janeiro de 1995, o seu Plano Director Municipal.\n\nNa sequência desta aprovação, a Câmara Municipal respectiva iniciou o processo de ratificação daquele instrumento de planeamento, conforme dispõe o n.º 5 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.\n\nO Plano Director Municipal da Marinha Grande foi objecto de parecer favorável da comissão técnica que, nos termos da legislação em vigor, acompanhou a elaboração daquele Plano.\n\nEste parecer favorável está consubstanciado no relatório final daquela comissão, subscrito por todos os representantes dos serviços da administração central que a compõem.\n\nForam cumpridas todas as formalidades exigidas pelo [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, designadamente no que se refere ao inquérito público.\n\nVerifica-se também a conformidade formal do Plano Director Municipal da Marinha Grande com as demais disposições legais e regulamentares em vigor, com excepção:\n\nDa previsão de consulta ao Serviço Nacional de Parques, Reservas e Conservação da Natureza, constante do artigo 33.º do Regulamento do Plano, por total ausência de fundamento legal. Na verdade, não existe qualquer disposição legal a sujeitar a parecer daquela entidade quaisquer acções em áreas identificadas como biótipos Corine;\n\nDo n.º 8 do artigo 36.º, que, ao prever a possibilidade de elevação para o dobro das coimas previstas no [Decreto-Lei n.º 89/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1990-333156), de 16 de Março, viola o [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro;\n\nDo n.º 3 do artigo 38.º, que, ao prever a possibilidade de aplicação de sanções acessórias, derroga os Decretos-Leis n.os [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e [69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.\n\nPor outro lado, na área do concelho abrangida pelo aproveitamento hidroagrícola do vale do Lis devem ser observadas, para além das condicionantes relativas ao facto de se tratar de uma área integrada na Reserva Agrícola Nacional, as regras decorrentes dos Decretos-Leis n.os [269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho, e [69/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1992-217475), de 27 de Abril, e dos Decretos Regulamentares n.os [84/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1982-378517), de 4de Novembro, e [2/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1993-599140), de 3 de Fevereiro.\n\nNa aplicação prática do Plano há ainda a observar as servidões e restrições de utilidade pública constantes da planta de condicionantes, a qual, embora não seja publicada, constitui elemento fundamental do Plano.\n\nConsiderando o disposto no [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, alterado pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro:\n\nAssim:\n\nNos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:\n\n1 - Ratificar o Plano Director Municipal da Marinha Grande.\n\n2 - Excluir de ratificação o artigo 33.º, o n.º 8 do artigo 36.º e o n.º 3 do artigo 38.º do Regulamento do Plano.\n\nPresidência do Conselho de Ministros, 9 de Março de 1995. - O Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nRegulamento do Plano Director Municipal da Marinha Grande"
+  },
+  "018d21fa6df4ab65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO I — Do Plano, sua intervenção e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Do Plano, sua intervenção e vigência"
+  },
+  "c77f2951c3d3bfa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Dos objectivos do Plano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Dos objectivos do Plano\n\nConstituem objectivos gerais do Plano Director Municipal (PDM) da Marinha Grande:\n\na) Incrementar a acessibilidade concelhia no espaço nacional e regional;\n\nb) Promover o desenvolvimento e ordenamento industrial;\n\nc) Promover o desenvolvimento turístico, nomeadamente do litoral, de negócios e cultural;\n\nd) Promover o ordenamento das áreas urbanas e implementar normas de apoio à gestão urbanística;\n\ne) Melhorar a rede e a qualidade de serviços das infra-estruturas de saneamento básico e energia;\n\nf) Promover e apoiar a animação desportiva, recreativa e cultural do concelho;\n\ng) Salvaguardar e promover a qualidade ambiental."
+  },
+  "edd82808a830b5f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito, intervenção e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito, intervenção e vigência\n\n1 - O PDM da Marinha Grande é constituído pelos relatórios de caracterização, modelo de ordenamento e desenvolvimento e estudo dos aglomerados urbanos, à escala de 1:5000, e pelos elementos fundamentais, planta de condicionantes e ordenamento, à escala de 1:25000, e respectivo regulamento.\n\n2 - O PDM da Marinha Grande abrange toda a área do território do município, cujos limites se encontram representados na planta de ordenamento, à escala de 1:25000, anexa a este Regulamento.\n\n3 - As disposições do presente Regulamento aplicam-se a todas as acções de iniciativa pública, privada ou cooperativa a realizar na área de intervenção do Plano.\n\n4 - O PDM da Marinha Grande será revisto no prazo máximo de vigência de 10 anos após a sua publicação no Diário da República."
+  },
+  "b99759d49fdc5749": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO II — Do zonamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Do zonamento"
+  },
+  "e8d3b25490dae5f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Disposições gerais\n\n1 - As áreas urbanas e urbanizáveis são constituídas por espaços urbanos e urbanizáveis incluídos nos perímetros urbanos delimitados para os aglomerados integrantes da rede urbana do concelho.\n\n2 - As áreas não urbanizáveis abrangem espaços agrícolas, agro-florestais, florestais, culturais e naturais, espaços de indústria, espaços-canais e outras infra-estruturas.\n\n3 - As unidades operativas de planeamento e gestão correspondem a espaços a sujeitar a estudos detalhados de ordenamento municipal."
+  },
+  "7ba72f4fdeb3a192": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Áreas urbanas e urbanizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Áreas urbanas e urbanizáveis"
+  },
+  "78dc67f9f1bebfa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Áreas urbanas e urbanizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Áreas urbanas e urbanizáveis\n\n1 - Para cada aglomerado urbano integrante da rede urbana do concelho o PDM fixa o perímetro urbano. Nele estão incluídas as áreas de ocupação actual e as áreas urbanizáveis necessárias à expansão no horizonte do Plano.\n\n2 - Fora dos perímetros urbanos não são admitidas quaisquer pretensões que se traduzam em loteamento ou ocupação urbana.\n\n3 - a) Dentro dos perímetros urbanos é interdita a instalação de depósitos de entulho, sucata e ferro-velho, lixeiras, instalações agro-pecuárias e depósitos de produtos explosivos ou inflamáveis susceptíveis de colocar em perigo a saúde e segurança públicas.\n\nb) Estas instalações respeitarão obrigatoriamente a distância mínima de 500 m aos perímetros urbanos delimitados.\n\n4 - Para os aglomerados urbanos são estabelecidas as seguintes áreas específicas, assinaladas na planta de ordenamento na escala de 1:25000: áreas urbanas/ocupação actual, áreas urbanizáveis ou de expansão, áreas industriais, áreas de protecção especial e de reserva.\n\na) As áreas urbanas/ocupação actual correspondem aos espaços edificados com elevada percentagem de infra-estruturação e onde ocorrem diferentes funções urbanas.\n\nb) As áreas urbanizáveis destinadas à expansão dos aglomerados correspondem às áreas actualmente livres, incluídas nos perímetros urbanos, susceptíveis de edificação quando devidamente infra-estruturadas e equipadas.\n\nc) As áreas industriais correspondem às áreas assinaladas na planta de ordenamento anexa a este Regulamento de e para instalação da indústria.\n\nd) As áreas de protecção especial são áreas correspondentes às manchas das Reservas Agrícola e Ecológica Nacionais inseridas nos perímetros urbanos e às faixas de protecção das linhas de água que atravessam os aglomerados.\n\ne) A área de reserva corresponde à área incluída no perímetro urbano da Marinha Grande para o qual não se considera a ocupação prioritária no horizonte do Plano.\n\n5 - Para efeitos deste Regulamento entende-se por:\n\na) Densidade habitacional - o quociente entre o número total de fogos e a área total de terreno a urbanizar;\n\nb) Densidade populacional - o quociente entre o número de habitantes e a área total da parcela ou lote de terreno;\n\nc) Percentagem de ocupação - o quociente entre a área de implantação da construção e a área total da parcela ou lote de terreno;\n\nd) Índice de construção bruto - o quociente entre a área total de pavimentos a construir e a área total do terreno a urbanizar;\n\ne) Cércea ou altura dos edifícios - a dimensão vertical da construção contada a partir do ponto de cota média de implantação até à linha superior da platibanda, varanda ou beirado da cobertura;\n\nf) Índice volumétrico bruto - o quociente entre o volume do espaço ocupado pelos edifícios e a área total da parcela ou lote de terreno."
+  },
+  "2e760b8f705f6083": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Aglomerados urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aglomerados urbanos\n\n1 - São considerados aglomerados urbanos:\n\na) Centro concelhio da Marinha Grande;\n\nb) Centro subconcelhio de Vieira de Leiria;\n\nc) Centros urbano-turísticos de Praia de Vieira e São Pedro de Muel;\n\nd) Outros: Garcia, Pilado/Escoura, Trutas, Amieira, Pêro Neto, Albergaria, Casal da Anja, Passagem e Boco;\n\n2 - Dentro dos perímetros urbanos e nas áreas de ocupação actual o crescimento urbano far-se-á através da edificação lote a lote e de loteamento urbano e ainda através da eventual ampliação das edificações existentes.\n\n3 - Nas áreas livres e de expansão dentro dos perímetros urbanos, até à conclusão dos planos municipais de ordenamento, só é autorizado o licenciamento de novas construções na continuidade da existente e quando o lote ou a área a lotear disponha de infra-estruturas ou ainda se a área for abrangida por estudo de conjunto onde sejam definidas a malha edificada e a rede viária.\n\n4 - Nas áreas livres e de expansão a abertura de novos arruamentos só é permitida desde que considerada em plano municipal de ordenamento ou estudo de conjunto da área abrangida.\n\n5 - Para os aglomerados da rede urbana da Marinha Grande serão executados planos de urbanização.\n\n6 - Até à realização do Plano de Urbanização de São Pedro de Muel, a edificação respeitará os seguintes indicadores urbanísticos:\n\nPercentagem de ocupação - 25% da área total para a moradia e 5% para anexos;\n\nNúmero máximo de pisos - dois (podendo o piso térreo ser ocupado por comércio);\n\nAs caves não poderão ter o pé-direito superior a 2,20 m;\n\nAfastamentos mínimos - frontal, 5 m; lateral, 3 m, e tardoz, 6 m.\n\nConstitui excepção a estas regras a faixa a sul da estrada nacional n.º 242-2, numa profundidade de 30 m, no espaço compreendido entre a Praceta do Rei e o limite aglomerado, onde será permitida a edificação em banda com percentagem de ocupação de 40% da área total do lote e um número máximo de três pisos.\n\n7 - Ficam revogados por este Regulamento os planos elaborados ao abrigo da legislação anterior ao [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com excepção do Plano de Pormenor da Zona Industrial da Marinha Grande.\n\n8 - Para o aglomerado urbano da Marinha Grande a revisão do plano geral de urbanização observará os seguintes índices e parâmetros urbanísticos, que devem desde já ser observados na gestão urbanística:\n\nÁrea do centro tradicional. - Até à realização do plano de salvaguarda, observar-se-ão as seguintes disposições e parâmetros urbanísticos:\n\na) Na reconstrução ou renovação dos edifícios, bem como na edificação nos lotes livres da malha edificada, a cércea a observar não pode em caso algum exceder as cérceas existentes ou predominantes num raio de 50 m dentro da área do centro tradicional;\n\nb) A reconstrução, a renovação de edifícios, bem como a edificação nos lotes livres da malha edificada, ficarão condicionadas à capacidade de suporte das infra-estruturas disponíveis (existentes ou a criar), designadamente no que respeita a estrutura viária, estacionamentos e parqueamentos, redes de águas e esgotos, pelo que o licenciamento daquelas obras será sempre precedido de parecer técnico dos serviços da Câmara, devidamente fundamentado;\n\nc) Em qualquer obra de reconstrução, renovação ou edificação em lotes livres da malha urbana edificada os alinhamentos a respeitar, na ausência de plano de pormenor devidamente aprovado, serão os que resultarem de deliberação da Câmara Municipal com base em parecer técnico dos serviços da Câmara Municipal, devidamente fundamentado;\n\nd) A ocupação do interior dos quarteirões e a abertura de novos arruamentos apenas será permitida se tal resultar de plano de pormenor aprovado ou, na ausência deste, de um estudo de conjunto do quarteirão;\n\ne) Quando a reconstrução ou renovação abranger mais de um edifício no mesmo quarteirão e no plano de alinhamento do arruamento, esta deverá ser objecto de um plano de pormenor para o conjunto do quarteirão ou, na ausência deste, de um estudo de conjunto;\n\nf) Serão obrigatoriamente mantidos os espaços verdes públicos e privados existentes, salvo se outra orientação resultar de plano de pormenor devidamente aprovado ou, na ausência deste, de deliberação da Câmara Municipal, com base em parecer técnico dos seus serviços, devidamente fundamentado;\n\ng) A alteração do uso de parte ou do todo dos edifícios ficará condicionada à capacidade de suporte da malha urbana para as transformações daí decorrentes (acessos e estacionamento) e à garantia da qualidade de vida;\n\nh) Não é permitida a construção de anexos (garagens, arrecadações e outras actividades complementares da habitação nos logradouros dos lotes).\n\nÁrea do centro. - Densidade habitacional máxima - 80 fogos/ha; índice de construção bruto - 1,2; cércea - a altura dos edifícios deverá atender à cércea dominante de sete pisos da área envolvente; estacionamento - 1 lugar/fogo para habitação, 1 lugar/50 m2 de área coberta para comércio e serviços de 200 m2 a 1000 m2 e 1 lugar/25 m2 de área coberta para comércio e serviços de 1000 m2 a 2500 m2.\n\nÁrea central. - Densidade habitacional máxima - 60 fogos/ha; índice de construção bruto - 1; cércea máxima - sete pisos; estacionamento - 1 lugar/fogo para habitação, 1 lugar/50 m2 de área coberta para comércio e serviços de 200 m2 a 1000 m2 e 1 lugar/25 m2 de área coberta para comércio e serviços de 1000 m2 a 2500 m2.\n\nEnvolvente da área central. - Densidade habitacional máxima - 40 fogos/ha; índice de construção bruto - 0,8; cércea máxima - quatro pisos; estacionamento - 1 lugar/fogo para habitação e 1 lugar/50 m2 de área coberta para comércio e serviços.\n\nRestante área urbana. - Densidade habitacional máxima - 30 fogos/ha; índice de construção bruto - 0,6; cércea máxima - três pisos ou 9,5 m2 de altura; estacionamento - 1 lugar/fogo para habitação e 1 lugar/50 m2 de área coberta para comércio e serviços.\n\n9 - No Plano de Urbanização de Vieira de Leiria deverão observar-se os seguintes índices e parâmetros urbanísticos, que devem desde já ser observados na gestão urbanística:\n\nNa área central. - Densidade habitacional máxima - 40 fogos/ha; índice de construção bruto - 0,8; cércea máxima - três pisos ou 9,5 m de altura; estacionamento - 1 lugar/fogo para habitação e 1 lugar/50 m2 de área coberta para comércio e serviços.\n\nNa área envolvente. - Densidade habitacional máxima - 25 fogos/ha; índice de construção bruto - 0,5; cércea máxima - dois pisos ou 6,5 m de altura; estacionamento - 1 lugar/fogo para habitação e 1 lugar/100 m2 de área coberta para comércio e serviços.\n\n10 - Para os restantes aglomerados, com excepção de São Pedro de Muel e Praia de Vieira, os planos de urbanização deverão obedecer às seguintes normas:\n\nDensidade habitacional máxima - 20 fogos/ha; índice de construção bruto - 0,25; cércea máxima - dois pisos ou 6,5 m de altura; estacionamento - 1 lugar/fogo para habitação e 1 lugar/100 m2 de área coberta para comércio e serviços.\n\n11 - Nos aglomerados urbanos da Marinha Grande e Vieira de Leiria, a Câmara Municipal pode definir caso a caso, no estabelecimento de condições para passagem de alvarás de loteamento, a percentagem de fogos destinados à habitação de custos controlados.\n\n12 - Nas operações de loteamento, as áreas de terreno destinadas a espaços verdes e equipamentos de utilização colectiva observarão o disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro.\n\n13 - A Câmara Municipal será compensada dos encargos decorrentes de operação de loteamento, pela realização de infra-estruturas urbanísticas exteriores à área a lotear, através da aplicação da taxa municipal de urbanização aos proprietários e demais titulares de direitos reais sobre o terreno objecto das referidas operações.\n\n14 - O valor da taxa municipal de urbanização (TMU) será definido em regulamento próprio."
+  },
+  "6c4044f5806c79a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Núcleos urbano-turísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Núcleos urbano-turísticos\n\n1 - Na faixa litoral, estabelece o PDM a ocupação turística nos núcleos urbano-turísticos de São Pedro de Muel e Praia de Vieira.\n\n2 - No Plano de Urbanização de São Pedro de Muel observar-se-ão os seguintes parâmetros e condicionantes:\n\nÁrea urbana. - Os constantes do n.º 6 do artigo 5.º deste Regulamento.\n\nÁrea urbanizável ou de expansão:\n\na) A área de expansão deverá ser objecto de plano de pormenor;\n\nb) A ocupação urbana será desenvolvida em forma de cunha, diminuindo de densidade no sentido do litoral;\n\nc) 75% dos alojamentos serão obrigatoriamente de natureza turística, contendo, no mínimo, uma unidade hoteleira;\n\nd) Densidade populacional máxima - 60 hab./ha;\n\ne) Índice de construção bruto - 0,5;\n\nf) Cércea máxima - dois pisos ou 6,5 m de altura;\n\ng) Estacionamento - 1 lugar/fogo, 1 lugar/50 m2 de área coberta de comércio e serviços e 1 lugar/3 camas turísticas;\n\n3 - No Plano de Urbanização de Praia de Vieira deverão observar-se as seguintes normas, a respeitar desde já na gestão urbanística:\n\nÁrea urbana:\n\na) Recuperação do núcleo antigo;\n\nb) Preenchimento e completamento da área consolidada através da edificação lote a lote e de loteamento urbano atendendo à cércea dos edifícios contíguos;\n\nÁrea de expansão:\n\na) Densidade habitacional máxima - 30 fogos/ha;\n\nb) Índice de construção bruto - 0,3;\n\nc) Cércea máxima - dois pisos ou 6,5 m de altura;\n\nd) Estacionamento - 1 lugar/fogo para habitação e 1 lugar/50 m2 de área coberta para comércio e serviços;\n\ne) 50% dos alojamentos serão obrigatoriamente de natureza turística."
+  },
+  "199cbb4a6862045b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Ocupação industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Ocupação industrial\n\n1 - O PDM define como áreas industriais as áreas assinaladas na planta de ordenamento, a área industrial da Marinha Grande e a área adjacente como reserva para a sua expansão, a área industrial da Marinha Pequena e a área industrial de Vieira de Leiria.\n\n2 - As áreas reservadas para actividades económicas (ARAE), predominantemente vocacionadas para a instalação de oficinas e outros serviços de apoio à actividade industrial, encontram-se integradas nas áreas industriais da Marinha Pequena e Vieira de Leiria, constituindo obrigatoriedade, a nível dos planos de urbanização nos aglomerados urbanos de Garcia e Albergaria, a reserva de área para este fim.\n\n3 - A ocupação das áreas industriais e das ARAE será regulamentada pelos planos de pormenor e os respectivos regulamentos, sem prejuízo de outras especificações que se consideram necessárias, ocupam-se designadamente das classes de actividades industriais, áreas para instalação de armazéns e serviços de apoio às actividades produtivas, índice volumétrico, afastamentos das edificações aos limites do lote e faixas de protecção entre edificações industriais, área de parqueamento e forma de acesso aos lotes, sistemas de segurança, tratamento de efluentes, abastecimento de água e energia eléctrica, definindo, se possível, as zonas alimentadas em BT e MT.\n\n4 - Consideram-se desde já, para as áreas industriais da Marinha Pequena, Vieira de Leiria e para a expansão da zona industrial e Marinha Grande, os seguintes indicadores urbanísticos:\n\na) Percentagem de ocupação - 50%;\n\nb) Índice volumétrico máximo - 5 m3/m2;\n\nc) Afastamentos - 3 m, 5 m e 10 m (respectivamente laterais, frontais e posteriores);\n\nd) Estacionamento mínimo dentro do lote - 1 lugar/50 m2 de construção;\n\n5 - Os estabelecimentos industriais já existentes e com processo de licenciamento industrial concluído ou em curso à data de entrada em vigor do REAI (1 de Maio de 1991), e cuja localização não esteja de acordo com o previsto no artigo 4.º do [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), terão a possibilidade de proceder às alterações previstas no artigo 7.º do mesmo decreto regulamentar, bem como obter a certidão de localização, após a análise, caso a caso, pelas entidades competentes e de acordo com o disposto nos números seguintes.\n\n6 - As indústrias da classe B localizadas em espaços urbanos e urbanizáveis, desde que licenciadas à data da publicação do presente Regulamento, só poderão alterar o seu equipamento produtivo e proceder a alteração ou ampliação das suas instalações e equipamentos quando se verifiquem as seguintes condições:\n\na) Não agravar as condições de incompatibilidade com os usos vizinhos;\n\nb) Demonstrar que os aspectos de protecção ambiental são cumpridos;\n\nc) Não criar efeitos prejudiciais na imagem e ambiente paisagístico da zona;\n\nd) Obter os pareceres positivos da CCRC, da DRIEC e da DRARNC.\n\n7 - A mudança das indústrias da classe D a C e C para B, localizadas em espaços urbanos e urbanizáveis, só poderão ser autorizadas quando se verifiquem as seguintes condições:\n\na) Não agravar as condições de incompatibilidade com os usos vizinhos;\n\nb) Demonstrar que os aspectos de protecção ambiental são cumpridos;\n\nc) Não criar efeitos prejudiciais na imagem e ambiente paisagístico da zona;\n\nd) Obter os pareceres positivos da CCRC, da DRIEC e da DRARNC.\n\n8 - Os estabelecimentos industriais existentes à data de publicação do presente Regulamento que pretendam legalizar-se só o poderão fazer nas seguintes condições:\n\na) Não agravar as condições de incompatibilidade com os usos vizinhos;\n\nb) Demonstrar que os aspectos de protecção ambiental são cumpridos;\n\nc) Não criar efeitos prejudiciais na imagem e ambiente paisagístico da zona;\n\nd) Obter os pareceres positivos da Câmara Municipal, da CCRC e da DRARNC.\n\n9 - As condições de incompatibilidade referidas na alínea a) dos n.os 6, 7 e 8 do presente artigo consideram-se existentes quando:\n\na) Dêem lugar a fumos, ruídos, resíduos, cheiros ou criem condições de insalubridade;\n\nb) Perturbem as condições de trânsito e estacionamento, nomeadamente com operações de circulação, carga e descarga;\n\nc) Acarretem agravados riscos de incêndio ou explosão.\n\n10 - A licença de obras para instalar ou alterar um estabelecimento industrial pode ser emitida pela Câmara Municipal desde que o industrial demonstre ter apresentado o pedido devidamente instruído à entidade coordenadora.\n\n11 - Deverão ainda observar-se os seguintes condicionalismos, sempre que aplicáveis:\n\na) O tratamento dos efluentes deverá, quando necessário, ser realizado em estação própria, antes de lançados na rede pública ou no meio receptor;\n\nb) Os espaços livres não impermeabilizados serão tratados como espaços verdes arborizados, constituindo uma faixa de protecção e isolamento;\n\nc) Seja respeitada a legislação em vigor em matéria de poluição geral."
+  },
+  "f28101b6b798f46c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Áreas de protecção especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Áreas de protecção especial\n\n1 - Nas áreas de protecção especial, correspondentes às manchas das Reservas Agrícola e Ecológica Nacionais, integradas nos perímetros urbanos, a alteração de uso fica condicionada à salvaguarda da capacidade biofísica do solo, nos termos da legislação em vigor.\n\n2 - É interdita a construção nas áreas de protecção especial, com excepção de construções aligeiradas e amovíveis de apoio às áreas verdes de uso colectivo e à actual actividade agrícola, nos termos da legislação em vigor.\n\n3 - Nas áreas de protecção especial integradas na estrutura verde ou em áreas de uso colectivo são proibidas as acções passíveis de impermeabilização do solo."
+  },
+  "98ed53f659f82c8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Área de reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Área de reserva\n\nNa área de reserva incluída no perímetro urbano da Marinha Grande, por não constituir uma área prioritária de construção, só é permitido o loteamento urbano e a construção quando devidamente justificado e se se encontrar apoiado por infra-estruturas existentes, arruamentos, abastecimento de água, rede de esgotos e energia eléctrica."
+  },
+  "b31bdec59eba3216": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Áreas não urbanizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Áreas não urbanizáveis"
+  },
+  "79d0e53817d0de49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições gerais\n\n1 - Estão dependentes da licença municipal, na totalidade do território municipal, a construção e ampliação das seguintes instalações, equipamentos ou actividades:\n\na) Todas as obras da construção civil, de reconstrução, ampliação, reparação ou demolição de edificações;\n\nb) Abrigos fixos ou móveis, utilizáveis ou não para habitação, se a ocupação do terreno se prolongar para além de três meses;\n\nc) Depósitos de ferro-velho, lixos ou entulhos, de combustíveis sólidos, líquidos ou gasosos e de veículos;\n\nd) Campos de jogos ou desportos públicos;\n\ne) Áreas permanentes de estacionamento público de veículos automóveis;\n\nf) Parques de campismo;\n\ng) Parques de caravanas;\n\n2 - São proibidas, sem prévia autorização municipal, as práticas que conduzam à destruição do revestimento vegetal que não tenham fins agrícolas, bem como as operações de aterro ou escavações que conduzam à alteração do relevo actual e das camadas de solo arável.\n\n3 - Carecem de licenciamento municipal as arborizações com espécies florestais de crescimento rápido em áreas inferiores a 50 ha.\n\nConsidera-se para este limite a inclusão de povoamentos preexistentes das mesmas espécies em continuidade do mesmo prédio ou em prédios distintos, incluídos ou não na mesma unidade empresarial.\n\n4 - Nas construções existentes à data da publicação deste Regulamento que se localizem em áreas abrangidas pelas Reservas Ecológica e Agrícola Nacionais, será de admitir a existência de ampliação e por uma única vez, desde que as mesmas não excedam 25% da área construída, com o máximo de 50 m2, e não seja alterado o seu uso.\n\n5 - Os pedidos de localização de novas unidades industriais fora das áreas industriais previstas no PDM só serão aprovados quando devidamente justificados, sendo avaliados caso a caso e obedecendo às seguintes condicionantes:\n\na) Serem classificadas como unidades industriais das classes C e D;\n\nb) Pertencerem preferencialmente a indústrias extractivas, da fileira florestal ou agro-alimentar;\n\nc) Garantirem as infra-estruturas básicas (arruamentos de acesso, abastecimento de água, esgotos e tratamento dos efluentes);\n\n6 - As indústrias existentes à data de publicação deste Regulamento poder-se-ão manter nas áreas não urbanizáveis desde que:\n\na) Não se localizem em áreas abrangidas pelas Reservas Ecológica e Agrícola Nacionais;\n\nb) Garantam as infra-estruturas básicas (arruamentos de acesso, abastecimento de energia eléctrica, abastecimento de água, esgotos e tratamento dos efluentes);\n\nc) Demonstrem que os aspectos de protecção ambiental são cumpridos;\n\nd) Não criem efeitos prejudiciais na imagem e ambiente paisagístico da zona;\n\ne) Obtenham os pareceres positivos da Câmara Municipal, da CCRC e da DRARNC;\n\n7 - Nestes estabelecimentos industriais apenas se admitem obras de ampliação e beneficiação."
+  },
+  "e1280181b318fca3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Da edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Da edificabilidade\n\n1 - Nas áreas não urbanizáveis, sem prejuízo das condicionantes associadas a cada área, nomeadamente das Reservas Agrícola e Ecológica Nacionais, e para além dos casos previstos no capítulo anterior e nas áreas de habitat disperso previstas no artigo seguinte, os quais se regem pelas disposições expressas, somente será licenciada a edificação quando esta for destinada à habitação e estiver vinculada à actividade agrícola ou florestal ou de apoio às infra-estruturas, e nas seguintes condições:\n\na) Só e permitida a edificação de habitação em parcelas de cadastro com dimensão igual ou superior a 0,5 ha;\n\nb) As novas construções destinadas à habitação terão uma área máxima variável entre 200 m2 e 300 m2, consoante a dimensão da propriedade, nos seguintes termos:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/094b00/22912299.pdf)\n\nc) Os edifícios de apoio às actividades agrícolas e florestais, sem prejuízo das limitações associadas a cada área, regem-se pelo disposto na alínea anterior;\n\n2 - As construções de novos edifícios nas áreas não urbanizáveis ficam sujeitas às seguintes prescrições de ordem geral:\n\na) O afastamento mínimo dos edifícios, assim como quaisquer instalações de retenção ou depuração de efluentes (fossas sépticas, etc.), aos limites da parcela é de 15 m;\n\nb) O abastecimento de água, a drenagem de esgotos e as infra-estruturas eléctricas deverão ser resolvidos por sistema autónomo, salvo se o interessado custear a totalidade das despesas com a extensão das redes públicas;\n\nc) As construções de novos edifícios nas áreas não urbanizáveis não poderão exceder os dois pisos para habitação e um piso para os anexos agrícolas;\n\nd) Nas construções com dois pisos, a área de pavimento do piso superior não poderá exceder 60% da área de pavimento do piso térreo ou piso inferior;\n\ne) Exceptuam-se destas duas últimas disposições os silos, depósitos de água e instalações especiais tecnicamente justificadas."
+  },
+  "b2e05a4cffb9f46e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Áreas de habitat disperso ou nucleado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Áreas de habitat disperso ou nucleado\n\n1 - As áreas de habitat disperso ou nucleado correspondem a lugares ou áreas de ocupação edificada de pequena dimensão, caracterizadas pela inexistência de malha urbana e ou de infra-estruturas em áreas não consolidadas, as quais não se encontram enquadradas e integradas em perímetros urbanos.\n\n2 - As áreas a que se refere o número anterior encontram-se registadas na carta de ordenamento do concelho e correspondem aos seguintes lugares: Salgueira, Fagundo, Charneca da Amieira e Água de Madeiros.\n\n3 - Nestas áreas é interdito o loteamento urbano.\n\n4 - Nas áreas de habitat disperso ou nucleado, o licenciamento de novas construções está limitado ao preenchimento dos espaços vazios e remates de alinhamentos numa área definida pelos pontos distanciados 50 m da última edificação autorizada, servida por arruamento público ou infra-estruturas urbanísticas.\n\n5 - A edificação em parcelas de cadastro autónomas fica condicionada aos seguintes parâmetros:\n\na) Edificação predominantemente destinada a habitação, admitindo-se a instalação de pequenas unidades de comércio de apoio;\n\nb) Índice de construção máximo - 0,25;\n\nc) Cércea máxima - dois pisos ou 6,5 m de altura."
+  },
+  "49e977d52deb1af7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Espaços agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Espaços agrícolas\n\n1 - Os espaços agrícolas indicados na carta de ordenamento do concelho correspondem às manchas da Reserva Agrícola Nacional.\n\n2 - Nos espaços agrícolas, os proprietários deverão garantir os níveis mínimos de aproveitamento do solo, de acordo com o estipulado em legislação específica.\n\n3 - A todas as utilizações do solo da Reserva Agrícola Nacional correspondentes aos espaços agrícolas aplicam-se os dispositivos do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, e do [Decreto-Lei n.º 274/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1992-616449), de 12 de Dezembro.\n\n4 - É interdita, no perímetro de rega do vale do Lis, a edificação, por esta área se encontrar incluída na Reserva Ecológica Nacional."
+  },
+  "bfadd332c41cc050": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Espaços agro-florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Espaços agro-florestais\n\n1 - Os espaços agro-florestais identificados na carta de ordenamento do concelho correspondem a áreas cujos solos, consoante a sua capacidade de uso, poderão ter utilização agrícola, florestal ou de pastorícia e avícola.\n\n2 - Nestes espaços é admitida, como actividade complementar, a caça.\n\n3 - Carecem de licença da Câmara Municipal:\n\na) As acções de destruição do revestimento vegetal que não tenham fins agrícolas ou florestais;\n\nb) As acções de aterro ou escavação que conduzam à alteração do relevo natural e das camadas de solo arável;\n\n4 - As construções a licenciar deverão apoiar-se em acessos ou caminhos existentes e serem autónomas em relação ao abastecimento de água e drenagem de esgotos, salvo se o titular custear a totalidade das despesas com a extensão das redes públicas."
+  },
+  "587ed72dd6ef4f40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Espaços florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Espaços florestais\n\n1 - Definem-se no PDM como áreas destinadas predominantemente ao fomento e exploração florestal as assinaladas na planta de ordenamento.\n\n2 - Os espaços florestais subdividem-se em espaços florestais de produção e espaços florestais de protecção.\n\n3 - Os espaços florestais de produção delimitados na planta de ordenamento correspondem à área de pinhal sob a tutela do Instituto Florestal.\n\n4 - As acções a desenvolver por outras entidades nos espaços florestais de produção ficam sujeitas ao parecer e autorização do Instituto Florestal.\n\n5 - Nos espaços florestais de protecção incluídos na área do pinhal do Rei todas as acções a desenvolver por outras entidades ficam sujeitas ao parecer do Instituto Florestal.\n\n6 - Nos restantes espaços florestais de protecção ficam condicionados:\n\na) O corte do coberto vegetal;\n\nb) A plantação de eucaliptos nos termos da legislação vigente;\n\nc) A plantação de espécies nos termos da legislação específica;\n\nd) As actividades agrícolas de sequeiro e regadio - anuais e permanentes -, bem como outras acções não classificadas, são restringidas nos termos da legislação específica.\n\n7 - Nestes espaços florestais de protecção que não sejam abrangidos pela Reserva Ecológica Nacional as construções obedecerão aos condicionamentos do n.º 1 do artigo 11.º deste Regulamento."
+  },
+  "0a84f4cd7055e79c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Espaços culturais e naturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Espaços culturais e naturais\n\n1 - São considerados espaços naturais e culturais as seguintes áreas de elevada sensibilidade, sob o ponto de vista ecológico, paisagístico, ambiental e arquitectónico, identificadas na planta de ordenamento:\n\na) Praias e arribas;\n\nb) Pinhal do Rei;\n\nc) Perímetro de rega do vale do Lis;\n\nd) Lagoa da Saibreira;\n\ne) Património arquitectónico e arqueológico.\n\n2 - A faixa litoral definida na planta de ordenamento será prioritariamente objecto de um plano de ordenamento, onde serão definidos os acessos ao litoral, a capacidade de carga das praias, os estacionamentos e os equipamentos de apoio à actividade turística e balnear.\n\n3 - Nas praias identificadas na planta de ordenamento a instalação ou remodelação de equipamentos de apoio, bem como a melhoria de acessos e a implantação de parques de estacionamento, ficam sujeitas à aprovação das entidades competentes.\n\n4 - O equipamento de apoio a instalar deverá obedecer a requisitos estéticos e de salubridade, nomeadamente:\n\na) Construções aligeiradas, de preferência de madeira, com possibilidade de serem desmontáveis;\n\nb) Não ultrapassar a cércea de um piso;\n\nc) Possuírem sistemas de abastecimento de água e drenagem de esgotos autónomos;\n\nd) É interdita a sua utilização para habitação do proprietário ou concessionário;\n\ne) Nos acessos pedonais às praias é interdita a consolidação de caminhos em pedra, tijolo ou outros materiais de difícil remoção;\n\n5 - As restantes praias deverão ficar no seu estado natural, sendo interdito qualquer tipo de construção e abertura de novos acessos.\n\n6 - São proibidas todas as acções ou actividades nas arribas conducentes à alteração das características naturais e perturbações do meio.\n\n7 - Na Mata Nacional do Pinhal do Rei a edificação restringe-se à instalação de equipamentos de apoio às actividades florestais e protecção contra incêndios, com excepção das zonas de lazer a estabelecer por plano de pormenor, sujeito a ratificação superior.\n\n8 - No perímetro de rega do vale do Lis observa-se o disposto no n.º 4 do artigo 13.º deste Regulamento.\n\n9 - A área envolvente da lagoa da Saibreira delimitada na planta de ordenamento será submetida a um plano de ordenamento, que regulamentará a transformação do uso do solo e a edificação turística a instalar, sujeito a ratificação superior.\n\n10 - Consideram-se património arquitectónico e arqueológico para efeitos do presente Regulamento:\n\na) Os imóveis classificados ou em vias de classificação assinalados na carta de ordenamento;\n\nb) O centro tradicional da Marinha Grande;\n\nc) A área arqueológica de Pedreanes.\n\n11 - Qualquer construção, reconstrução ou alteração ao uso do solo nos imóveis e na zona de interesse arqueológico está sujeita a parecer do Instituto Português do Património Arquitectónico e Arqueológico."
+  },
+  "0c25cd5dae3b7098": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Espaços-canais e outros espaços não urbanizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Espaços-canais e outros espaços não urbanizáveis\n\nAos espaços-canais e outros não urbanizáveis, incluindo os parques de campismo, aplicam-se as condicionantes expressas no título III deste Regulamento."
+  },
+  "ffbbaed90801d360": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Unidades operativas de planeamento e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Unidades operativas de planeamento e gestão"
+  },
+  "0e00aac4e73cc1b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — As unidades operativas de planeamento e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — As unidades operativas de planeamento e gestão\n\n1 - As unidades operativas de planeamento e gestão demarcam espaços de intervenção para serem tratados a um nível de planeamento mais detalhado.\n\n2 - São as seguintes as unidades operativas de planeamento e gestão:\n\na) Áreas a sujeitar a intervenção de ordenamento:\n\nPlano de ordenamento da faixa litoral, de iniciativa municipal, acompanhado pelos serviços competentes e sujeito a ratificação nos termos do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), com a redacção conferida pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), ou de iniciativa dos Ministérios da Defesa Nacional e do Ambiente e Recursos Naturais;\n\nPlano de ordenamento da lagoa da Saibreira;\n\nb) Áreas a sujeitar a planos de urbanização (PU):\n\nMarinha Grande; Vieira de Leiria; São Pedro de Muel; Praia de Vieira; Garcia; Pilado/Escoura; Trutas; Pêro Neto; Albergaria; Amieira; Casal da Anja; Passagem; Boco;\n\nc) Plano de salvaguarda da área tradicional da Marinha Grande;\n\nd) Áreas a sujeitar a planos de pormenor (PP):\n\nÁrea de expansão de São Pedro de Muel;\n\nÁreas de expansão dos restantes aglomerados;\n\nÁreas industriais;\n\nÁrea da estação;\n\nÁrea de centro cívico;\n\nÁrea das Vergieiras;\n\nÁrea dos Talhões de Vieira."
+  },
+  "e15a942a76bb9eb9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO III — Das condicionantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Das condicionantes"
+  },
+  "83e0e42508089a09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposições gerais\n\n1 - As condicionantes ao uso do solo constantes deste diploma são as seguintes:\n\na) Servidões rodoviárias;\n\nb) Servidões ferroviárias;\n\nc) Servidão aeronáutica - Base Aérea n.º 5;\n\nd) Servidão do farol de São Pedro de Muel;\n\ne) Servidão dos marcos geodésicos;\n\nf) Servidões da rede eléctrica de média e alta tensão;\n\ng) Servidões dos sistemas de saneamento básico;\n\nh) Servidões do abastecimento de gás - gasoduto;\n\ni) Servidões do domínio público hídrico;\n\nj) Servidões do património arquitectónico e arqueológico;\n\nl) Reserva Agrícola Nacional;\n\nm) Reserva Ecológica Nacional;\n\nn) Mata Nacional do Pinhal do Rei;\n\no) Biótopos - Programa Corine;\n\np) Perímetro de rega do Lis;\n\nq) Áreas percorridas por incêndios florestais;\n\nr) Áreas afectas à exploração de recursos minerais.\n\n2 - Nos casos em que se venham a verificar conflitos de áreas sujeitas a servidões ou restrições de utilidade pública com usos incompatíveis propostos na planta de ordenamento, prevalecem as condicionantes determinadas por essas servidões ou restrições."
+  },
+  "d314a48993e4eade": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Servidões rodoviárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Servidões rodoviárias\n\n1 - Constituem zonas non aedificandi nas estradas nacionais os corredores definidos pelos Decretos-Leis n.os [13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712), de 23 de Janeiro, [380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), de 26 de Setembro, e [13/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1994-509198), de 15 de Janeiro.\n\n2 - Nas estradas municipais é definida uma faixa non aedificandi com a largura, para cada lado do eixo da via, de 15 m para uso habitacional e de 20 m para outros fins.\n\n3 - Nos caminhos municipais é definida uma faixa non aedificandi com a largura, para cada lado do eixo da via, de 10 m para uso habitacional e de 12 m para outros fins.\n\n4 - Nos caminhos florestais é definida uma faixa non aedificandi com a largura, para cada lado do eixo do caminho, de 10 m.\n\n5 - Até à execução dos projectos das variantes na área urbana da Marinha Grande é definida uma faixa de protecção non aedificandi com a largura de 50 m, para cada lado do eixo da via.\n\n6 - As áreas de protecção às vias urbanas serão definidas nos planos de urbanização ou de pormenor dos respectivos aglomerados e, na ausência daqueles, por planos de alinhamentos."
+  },
+  "c8e5ee6ddbce2a77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Servidões ferroviárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Servidões ferroviárias\n\n1 - É interdita a construção numa faixa de 50 m para habitação e 20 m para outros fins ou a plantação de árvores a distância inferior a 1,5 m, medidas a partir da aresta superior de escavação ou da aresta inferior do talude de aterro ou da borda exterior ao caminho.\n\n2 - As zonas non aedificandi referidas na alínea anterior, quando estas atravessam o interior dos aglomerados urbanos, são definidas pelos planos de urbanização, através dos respectivos regulamentos."
+  },
+  "87ca39ca64cd3f3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Servidão aeronáutica - Base Aérea n.º 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Servidão aeronáutica - Base Aérea n.º 5\n\n1 - Nas áreas delimitadas na carta de condicionantes sujeitas a servidão aeronáutica aplica-se o disposto no Decreto-Lei n.º 41793, de 8 de Agosto de 1958.\n\n2 - Os pedidos de viabilidade de construção nestas áreas deverão ser objecto de parecer da Força Aérea."
+  },
+  "14d05c7d99911790": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Servidão do farol de São Pedro de Muel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Servidão do farol de São Pedro de Muel\n\nSão proibidas as execuções, nas zonas adjacentes e na linha de enfiamento do farol, sem autorização da Direcção de Faróis dos seguintes trabalhos e actividades:\n\na) Construção de qualquer natureza;\n\nb) Alterações do relevo e da configuração do solo por meio de escavações e aterros;\n\nc) Vedações de qualquer natureza;\n\nd) Plantação ou derrube de árvores e arbustos;\n\ne) Levantamento de postes, linhas ou cabos aéreos;\n\nf) Montagem de qualquer sistema luminoso;\n\ng) Outros trabalhos ou actividades que inequivocamente possam afectar a eficiência da sinalização marítima."
+  },
+  "fde55d363733d8bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Servidão dos marcos geodésicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Servidão dos marcos geodésicos\n\n1 - A zona de respeito dos marcos geodésicos é constituída por uma área circunjacente ao sinal, nunca inferior a 15 m de raio.\n\n2 - Fica vedado ao proprietário ou usufrutuário dos terrenos situados dentro da zona de respeito fazer plantações, construções e outras obras ou trabalhos de qualquer natureza que impeçam a visibilidade das direcções constantes das minutas da triangulação.\n\n3 - A destruição ou danos provocados nos marcos geodésicos, assim como deslocar, danificar ou arrancar marcas de nivelamento ou de gravimetria ou marcos cadastrais de carácter provisório ou permanente, ficarão sujeitos às sanções previstas no [Decreto-Lei n.º 143/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1982-606683), de 26 de Abril."
+  },
+  "2d15893eae670f81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Servidões da rede eléctrica de média e alta tensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Servidões da rede eléctrica de média e alta tensão\n\n1 - Os loteamentos habitacionais e industriais deverão prever corredores de passagem para as linhas de alta tensão existentes.\n\n2 - Na construção dos edifícios, vias de comunicação, etc., deverão ser observadas as distâncias de segurança previstas no [Decreto Regulamentar n.º 1/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1992-158575), de 18 de Fevereiro.\n\n3 - Para os novos loteamentos habitacionais e industriais, ou ampliação dos existentes, para além de se deverem prever corredores para as linhas de alta tensão existentes, deverão também ser previstos os necessários para alimentação dos postos de transformação incluídos no respectivo projecto de infra-estruturas eléctricas.\n\n4 - Sempre que a entidade distribuidora de energia eléctrica necessite de estabelecer linhas aéreas de alta tensão para alimentação de aglomerados urbanos ou industriais, nomeadamente os previstos no presente PDM, esta negociará com a Câmara Municipal formas de garantir a devida protecção, com estabelecimento do respectivo corredor de acesso.\n\n5 - Após a definição das potências a utilizar em cada uma das zonas industriais previstas, a entidade distribuidora de energia eléctrica analisará a necessidade ou não da construção de uma subestação AT/MT, negociando com a entidade promotora do loteamento e ou a Câmara Municipal a cedência de terreno para a instalação da mesma."
+  },
+  "dcf204a48394eeee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Servidões dos sistemas de saneamento básico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Servidões dos sistemas de saneamento básico\n\n1 - Na utilização destas áreas devem observar-se os seguintes condicionamentos:\n\na) É interdita a construção ao longo de uma faixa de 5 m, medida para um e outro lado do traçado das condutas de adução de água, adução-distribuição de água e dos emissários das redes de drenagem de esgotos, fora dos perímetros urbanos definidos na planta de condicionantes;\n\nb) É interdita a construção ao longo de uma faixa de 1 m, medida para um lado e outro das condutas distribuidoras de água e dos colectores das redes de drenagem de esgotos;\n\nc) Fora das áreas urbanas é interdita a plantação de árvores ao longo de uma faixa de 10 m, medidos para um e outro lado do traçado das adutoras e condutas distribuidoras de água e colectores de emissários de esgotos;\n\nd) É interdita a construção numa faixa de 200 m, a partir da vedação das zonas afectas a estações de tratamento de águas residuais, bem como de abertura de poços ou furos ou o estabelecimento de captações de água que se destinem à rega ou consumo doméstico.\n\n2 - Em torno das captações subterrâneas consideram-se duas áreas de protecção:\n\na) Próxima, definida pelo círculo com 50 m em torno da captação, onde não devem existir:\n\nDepressões onde se possam acumular águas pluviais;\n\nLinhas de água não revestidas que possam originar infiltrações;\n\nCaixas ou caleiras subterrâneas de tubagens e acessórios (ainda que dentro dos edifícios de estações elevatórias) sem esgoto devidamente estudado;\n\nCanalizações, fossas ou sumidouros de águas negras;\n\nHabitações;\n\nInstalações industriais;\n\nCulturas adubadas, estrumadas ou regadas;\n\nb) À distância, definida pelo círculo com 200 m de raio em torno da captação, onde não devem existir:\n\nSumidouros de águas negras abertos na camada aquífera captada;\n\nCaptações na mesma formação aquífera, desde que prejudiquem a quantidade ou as condições sanitárias da água captada;\n\nRega com águas negras;\n\nNitreiras, currais, estábulos, matadouros e qualquer outra origem rural de poluição maciça;\n\nIndústrias cujos esgotos possam originar poluição importante, tais como as de produtos químicos tóxicos, adubos, celulose, pasta de papel, tinturaria, têxteis, curtumes, cerveja, destilaria de figo e de vinho, conservas, preparação de carnes, farinhas de peixe, sabão, aglomerados de cortiça, etc.\n\n3 - Na utilização das áreas afectas às instalações de recolha e tratamento de resíduos sólidos observar-se-ão os seguintes condicionamentos:\n\na) Interdição de instalar depósitos de recolha de lixos a menos de 400 m dos limites do perímetro das áreas urbanas;\n\nb) Na faixa de 400 m referida na alínea anterior são apenas permitidas explorações florestais, sendo interdita a abertura de poços, furos ou o estabelecimento de captações de água que se destinem à rega ou ao consumo doméstico."
+  },
+  "6676fa7d34bcd1cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Servidões do abastecimento de gás - Gasoduto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Servidões do abastecimento de gás - Gasoduto\n\n1 - As servidões compreendem a ocupação do solo e subsolo, ficando a profundidade dos gasodutos subterrâneos determinada pelos regulamentos e normas técnicas de segurança:\n\na) As servidões compreendem também o direito de passagem e ocupação dos terrenos ou outros bens, devido às necessidades de construção, vigilância, conservação e reparação de todo o equipamento necessário ao transporte do gás;\n\nb) A implantação do gasoduto deve ter em conta os planos de ocupação do solo já aprovados.\n\n2 - A servidão implica as seguintes restrições:\n\na) O terreno não poderá ser arado ou cavado em profundidade superior a 50 cm numa faixa de 2 m para cada lado do eixo longitudinal do gasoduto;\n\nb) É proibida a plantação de árvores ou arbustos numa faixa de 5 m e a construção numa faixa de 10 m para cada lado do eixo longitudinal do gasoduto;\n\nc) Pela faixa de 4 m citada na alínea a) terão acesso livre o pessoal e o equipamento necessário à instalação, vigilância, manutenção, reparação e renovação do equipamento instalado;\n\nd) O eixo dos gasodutos deve ser assinalado no terreno pelas formas estabelecidas no regulamento de segurança."
+  },
+  "000c04ed0fa8f0ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Servidões do domínio público hídrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Servidões do domínio público hídrico\n\nSão as seguintes as áreas afectas aos recursos hídricos:\n\na) Linhas de água não navegáveis nem flutuáveis e respectivas margens de 10 m, além do limite do leito (em condições de caudal médio);\n\nb) Margens de 50 m além da linha de máxima preia-mar de águas vivas equinociais no mar ou outras águas navegáveis ou flutuáveis sujeitas à jurisdição das autoridades marítimas ou portuárias;\n\nc) Margens das restantes águas navegáveis ou flutuáveis com 30 m de largura;\n\nd) Quando tiver natureza de praia em extensão superior à estabelecida nos números anteriores, a margem estende-se até onde o terreno apresentar tal natureza."
+  },
+  "17bf948164d9dfa1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Servidões do património arquitectónico e arqueológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Servidões do património arquitectónico e arqueológico\n\n1 - Constituem servidões administrativas as zonas de protecção aos imóveis classificados definidos pela legislação em vigor no concelho da Marinha Grande.\n\n2 - A construção na área do centro tradicional da Marinha Grande será posteriormente regulamentada pelo respectivo plano de salvaguarda.\n\n3 - As zonas de protecção ao património arquitectónico e arqueológico indicadas nas cartas anexas serão regulamentadas por plano de pormenor, ficando condicionadas, enquanto estes planos não estiverem concluídos, às restrições constantes do artigo 16.º, espaços culturais e naturais."
+  },
+  "4c60d3a4d2b4acf1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Reserva Agrícola Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Reserva Agrícola Nacional\n\nNos terrenos da Reserva Agrícola Nacional aplicam-se as disposições do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, e do [Decreto-Lei n.º 274/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1992-616449), de 12 de Dezembro."
+  },
+  "f78538908c414c8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Reserva Ecológica Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Reserva Ecológica Nacional\n\n1 - Às áreas da Reserva Ecológica Nacional aplicam-se as disposições do [Decreto-Lei n.º 213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro.\n\n2 - Para além do disposto na alínea anterior, consideram-se ainda as seguintes condicionantes:\n\na) Nos leitos dos cursos de água e nas zonas ameaçadas pelas cheias é proibida a destruição da vegetação ribeirinha, a alteração do leito das linhas de água, a construção de edifícios ou de infra-estruturas, com excepção de equipamentos turístico-recreativos de apoio a actividades ligadas à água e de construções indispensáveis às actividades agrícolas, ou outras acções que prejudiquem o escoamento das águas no leito normal e no de cheia;\n\nb) O uso, ocupação e transformação da lagoa da Saibreira e respectivas faixas de protecção ficam dependentes do plano de ordenamento a desenvolver nos termos da legislação vigente. É proibida a descarga de efluentes não tratados, a construção de edifícios e de infra-estruturas, alteração do relevo circundante e destruição da vegetação não integrada nas técnicas normais de produção vegetal até à realização do referido plano;\n\nc) As acções que se processam nas cabeceiras das linhas de água devem promover a infiltração lenta das águas pluviais e reduzir o escoamento superficial acelerado;\n\nd) Nas áreas de infiltração máxima é proibida a descarga ou infiltração no terreno de qualquer tipo de efluentes não tratados, as práticas agrícolas que provoquem problemas de poluição, a instalação de indústrias ou de armazéns que envolvam riscos de poluição do solo e água e as acções susceptíveis de reduzir a infiltração das águas pluviais;\n\ne) Nas áreas de risco de erosão são proibidas as acções que induzam ou agravem a erosão do solo;\n\nf) É interdita a instalação de instalações pecuniárias e todas as outras susceptíveis de provocarem a poluição dos solos."
+  },
+  "b1b02db2a99950ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Mata Nacional do Pinhal do Rei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Mata Nacional do Pinhal do Rei\n\nA área da Mata Nacional do Pinhal do Rei assinalada na planta de condicionantes está submetida ao regime florestal sob a gestão do Instituto Florestal e Zona Florestal do Pinhal Litoral da Marinha Grande."
+  },
+  "2bc39c5d28e87420": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Biótopo - Programa Corine",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Biótopo - Programa Corine\n\nTodas as acções pretendidas na área do biótopo delimitada na planta de condicionantes não previstas no PDM estão sujeitas ao parecer do SNPRCN."
+  },
+  "35a24924d7358505": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Perímetro de rega do Lis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Perímetro de rega do Lis\n\nAs áreas do perímetro de rega do Lis regulam-se pelos regimes específicos consagrados na legislação em vigor."
+  },
+  "101718c87ea0a9da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Áreas percorridas por incêndios florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Áreas percorridas por incêndios florestais\n\n1 - Nos terrenos com povoamentos florestais percorridos por incêndios ficam proibidos, pelo prazo de 10 anos a contar da data do fogo:\n\na) Todas as acções que tenham por objectivo, ou simplesmente tenham por efeito, a divisão em lotes de qualquer área de um ou vários prédios destinados, imediata ou subsequentemente, à construção;\n\nb) A realização de obras de urbanização, incluindo as destinadas a conjuntos de aldeamentos turísticos e a parques industriais, bem como a construção de vias de acesso a veículos automóveis ou a simples preparação do terreno com essa finalidade;\n\nc) A realização de obras novas para fins habitacionais, industriais ou turísticos;\n\nd) A construção, remodelação ou reconstrução e demolição de quaisquer edificações ou construções;\n\ne) O estabelecimento de quaisquer novas actividades agrícolas, industriais, turísticas ou outras que possam ter um impacte ambiental negativo;\n\nf) A introdução de alterações à morfologia do solo ou do coberto vegetal;\n\ng) O lançamento de águas residuais industriais ou de uso doméstico ou quaisquer outros efluentes líquidos poluentes;\n\nh) O corte ou colheita de espécies botânicas não cultivadas e a introdução de espécies exóticas, de cultivo ou não;\n\ni) O campismo fora de locais destinados para esse fim.\n\n2 - A proibição referida no número anterior apenas pode ser levantada mediante despacho conjunto dos Ministros do Planeamento e da Administração do Território, da Agricultura e do Ambiente e Recursos Naturais, sobre pedido fundamentado dos interessados em que se demonstre, nomeadamente, que o incêndio da propriedade em causa se ficou a dever a causas fortuitas a que estes interessados são totalmente alheios."
+  },
+  "0c657726b7c4319c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Áreas afectas à exploração de recursos minerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Áreas afectas à exploração de recursos minerais\n\n1 - Nas áreas de reserva e de salvaguarda à exploração de recursos minerais (pedreiras, estrutura diapírica e exploração abandonada do lignito) não são autorizadas nem previstas acções que pela sua natureza e dimensão inviabilizem o aproveitamento dos recursos existentes.\n\n2 - Nas zonas de defesa da exploração de pedreiras terão as seguintes faixas de protecção, medidas a partir da bordadura de cada exploração:\n\na) De 5 m relativamente a prédios rústicos vizinhos, murados ou não;\n\nb) De 15 m relativamente a caminhos públicos;\n\nc) De 20 m relativamente a condutas de fluidos, linhas eléctricas de baixa tensão, linhas aéreas de telecomunicações e teleféricos, não integrados na exploração da pedreira;\n\nd) De 30 m relativamente a linhas férreas, pontes, rios navegáveis, canais, cabos subterrâneos eléctricos e de telecomunicações, edifícios e locais de uso público;\n\ne) De 50 m relativamente a estradas nacionais ou municipais;\n\nf) De 70 m relativamente a auto-estradas e estradas internacionais;\n\ng) De 100 m relativamente a monumentos nacionais, locais classificados de valor turístico, instalações e obras das Forças Armadas e forças dos serviços de segurança, escolas e hospitais;\n\nh) De 500 m relativamente a locais ou zonas com valor científico ou paisagístico, e como tal já classificadas pela entidade para o efeito competente;\n\ni) A largura da zona de defesa deverá aumentar 1 m por cada metro de desnível que exista entre cada ponto da bordadura da escavação e o objecto a proteger.\n\n3 - Define-se uma faixa non aedificandi de 50 m para as explorações de inertes existentes.\n\n4 - Nas áreas de salvaguarda para exploração são permitidas diferentes formas de ocupação compatíveis com a vocação dos seus solos, desde que licenciadas pela Câmara Municipal.\n\n5 - Sem prejuízo do disposto nos n.os 1 e 2, as áreas reservadas e a salvaguardar para a exploração dos recursos minerais estão sujeitas aos condicionamentos da legislação em vigor.\n\n6 - a) Serão objecto de licenciamento municipal todas as explorações de massas minerais em que não seja excedido nenhum dos seguintes limites:\n\nNúmero de trabalhadores - 15;\n\nPotência total dos meios mecânicos utilizados na exploração - 500 cv;\n\nProfundidade de escavação - 10 m.\n\nb) Tal licenciamento implica a apresentação de planos de lavra e de recuperação paisagística das áreas afectadas pelas explorações que se venham a constituir.\n\nc) Todas as explorações em que seja ultrapassado um dos limites referidos na alínea a) ou se se tratar de uma exploração subterrânea, o licenciamento é da competência da Delegação Regional da Indústria e Energia.\n\n7 - Os proprietários das áreas de exploração de substâncias minerais abandonadas à data da entrada em vigor deste Regulamento estão obrigados a executar as medidas de segurança e recuperação paisagística das áreas afectadas que lhes forem determinadas pela Câmara Municipal.\n\n8 - As coimas aplicadas pelo não cumprimento do disposto no número anterior podem ser elevadas para o dobro em caso de reincidência."
+  },
+  "d2efa3dcdefb5a26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO IV — Da aplicação do Plano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Da aplicação do Plano"
+  },
+  "c1cb345e31927c0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Contra-ordenações\n\nConstituem contra-ordenações as infracções ao presente diploma."
+  },
+  "a0e036da1e23b3c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Coimas e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Coimas e sanções acessórias\n\n1 - O montante das coimas a aplicar encontra-se fixado no artigo 25.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.\n\n2 - A tentativa e a negligência são puníveis.\n\n3 - As contra-ordenações previstas no artigo anterior podem ainda determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:\n\na) A apreensão dos objectos pertencentes ao agente que tenham sido utilizados como instrumentos no cometimento da infracção;\n\nb) A interdição do exercício, na área do município, até ao máximo de dois anos, da profissão ou actividades conexas com a infracção praticada;\n\nc) A privação do direito a subsídios outorgados por entidades ou serviços públicos.\n\n4 - Compete à Câmara Municipal da Marinha Grande a instrução dos processos de contra-ordenação e a aplicação das respectivas coimas e sanções acessórias.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/094b00/22912299.pdf)"
+  },
+  "34b6fab62285f4ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito, intervenção e vigência",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 1313/2017](https://diariodarepublica.pt/dr/detalhe/aviso/1313-2017-106384803), publicado em 2017-02-02."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito, intervenção e vigência\n\n1 - O PDM da Marinha Grande é constituído pelos relatórios de caracterização, modelo de ordenamento e desenvolvimento e estudo dos aglomerados urbanos, à escala de 1:5000, e pelos elementos fundamentais, planta de condicionantes e ordenamento, à escala de 1:25000, e respectivo regulamento.\n\n2 - O PDM da Marinha Grande abrange toda a área do território do município, cujos limites se encontram representados na planta de ordenamento, à escala de 1:25000, anexa a este Regulamento.\n\n3 - As disposições do presente Regulamento aplicam-se a todas as acções de iniciativa pública, privada ou cooperativa a realizar na área de intervenção do Plano.\n\n4 - São consideradas como compatíveis com as normas de uso do solo ou de edificabilidade previstas no presente regulamento, as atividades abrangidas pelo artigo 1.º do [Decreto-Lei n.º 165/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2014-58752835), de 5 de novembro e artigo 3.º da [Lei n.º 21/2016](https://diariodarepublica.pt/dr/detalhe/lei/21-2016-74967215), de 19 de julho, cujos processos de regularização tenham obtido, ao abrigo do regime consagrado nestes diplomas, deliberação favorável ou favorável condicionada.\n\n5 - O PDM da Marinha Grande será revisto no prazo máximo de vigência de 10 anos após a sua publicação no Diário da República.\n\n> Alterado pelo/a [Aviso n.º 1313/2017](https://diariodarepublica.pt/dr/detalhe/aviso/1313-2017-106384803), publicado em 2017-02-02."
+  },
+  "0993a804a95c8e0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Aglomerados urbanos",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+   ],
+   "markdown": "###### Artigo 5.º — Aglomerados urbanos\n\n1 - São considerados aglomerados urbanos:\n\na) Centro concelhio da Marinha Grande;\n\nb) Centro subconcelhio de Vieira de Leiria;\n\nc) Centros urbano-turísticos de Praia de Vieira e São Pedro de Muel;\n\nd) Outros: Garcia, Pilado/Escoura, Trutas, Amieira, Pêro Neto, Albergaria, Casal da Anja, Passagem e Boco;\n\n2 - Dentro dos perímetros urbanos e nas áreas de ocupação actual o crescimento urbano far-se-á através da edificação lote a lote e de loteamento urbano e ainda através da eventual ampliação das edificações existentes.\n\n3 - Nas áreas livres e de expansão dentro dos perímetros urbanos, até à conclusão dos planos municipais de ordenamento, só é autorizado o licenciamento de novas construções na continuidade da existente e quando o lote ou a área a lotear disponha de infra-estruturas ou ainda se a área for abrangida por estudo de conjunto onde sejam definidas a malha edificada e a rede viária.\n\n4 - Nas áreas livres e de expansão a abertura de novos arruamentos só é permitida desde que considerada em plano municipal de ordenamento ou estudo de conjunto da área abrangida.\n\n5 - Para os aglomerados da rede urbana da Marinha Grande serão executados planos de urbanização.\n\n6 - Até à realização do Plano de Urbanização de São Pedro de Muel, a edificação respeitará os seguintes indicadores urbanísticos:\n\nPercentagem de ocupação - 25% da área total para a moradia e 5% para anexos;\n\nNúmero máximo de pisos - dois (podendo o piso térreo ser ocupado por comércio);\n\nAs caves não poderão ter o pé-direito superior a 2,20 m;\n\nAfastamentos mínimos - frontal, 5 m; lateral, 3 m, e tardoz, 6 m.\n\nConstitui excepção a estas regras a faixa a sul da estrada nacional n.º 242-2, numa profundidade de 30 m, no espaço compreendido entre a Praceta do Rei e o limite aglomerado, onde será permitida a edificação em banda com percentagem de ocupação de 40% da área total do lote e um número máximo de três pisos.\n\n7 - Ficam revogados por este Regulamento os planos elaborados ao abrigo da legislação anterior ao [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com excepção do Plano de Pormenor da Zona Industrial da Marinha Grande.\n\n8 - Para o aglomerado urbano da Marinha Grande a revisão do plano geral de urbanização observará os seguintes índices e parâmetros urbanísticos, que devem desde já ser observados na gestão urbanística:\n\nÁrea do centro tradicional. - Até à realização do plano de salvaguarda, observar-se-ão as seguintes disposições e parâmetros urbanísticos:\n\na) Na reconstrução ou renovação dos edifícios, bem como na edificação nos lotes livres da malha edificada, a cércea a observar não pode em caso algum exceder as cérceas existentes ou predominantes num raio de 50 m dentro da área do centro tradicional;\n\nb) A reconstrução, a renovação de edifícios, bem como a edificação nos lotes livres da malha edificada, ficarão condicionadas à capacidade de suporte das infra-estruturas disponíveis (existentes ou a criar), designadamente no que respeita a estrutura viária, estacionamentos e parqueamentos, redes de águas e esgotos, pelo que o licenciamento daquelas obras será sempre precedido de parecer técnico dos serviços da Câmara, devidamente fundamentado;\n\nc) Em qualquer obra de reconstrução, renovação ou edificação em lotes livres da malha urbana edificada os alinhamentos a respeitar, na ausência de plano de pormenor devidamente aprovado, serão os que resultarem de deliberação da Câmara Municipal com base em parecer técnico dos serviços da Câmara Municipal, devidamente fundamentado;\n\nd) A ocupação do interior dos quarteirões e a abertura de novos arruamentos apenas será permitida se tal resultar de plano de pormenor aprovado ou, na ausência deste, de um estudo de conjunto do quarteirão;\n\ne) Quando a reconstrução ou renovação abranger mais de um edifício no mesmo quarteirão e no plano de alinhamento do arruamento, esta deverá ser objecto de um plano de pormenor para o conjunto do quarteirão ou, na ausência deste, de um estudo de conjunto;\n\nf) Serão obrigatoriamente mantidos os espaços verdes públicos e privados existentes, salvo se outra orientação resultar de plano de pormenor devidamente aprovado ou, na ausência deste, de deliberação da Câmara Municipal, com base em parecer técnico dos seus serviços, devidamente fundamentado;\n\ng) A alteração do uso de parte ou do todo dos edifícios ficará condicionada à capacidade de suporte da malha urbana para as transformações daí decorrentes (acessos e estacionamento) e à garantia da qualidade de vida;\n\nh) Não é permitida a construção de anexos (garagens, arrecadações e outras actividades complementares da habitação nos logradouros dos lotes).\n\nÁrea do centro. - Densidade habitacional máxima - 80 fogos/ha; índice de construção bruto - 1,2; cércea - a altura dos edifícios deverá atender à cércea dominante de sete pisos da área envolvente; estacionamento - 1 lugar/fogo para habitação, 1 lugar/50 m2 de área coberta para comércio e serviços de 200 m2 a 1000 m2 e 1 lugar/25 m2 de área coberta para comércio e serviços de 1000 m2 a 2500 m2.\n\nÁrea central. - Densidade habitacional máxima - 60 fogos/ha; índice de construção bruto - 1; cércea máxima - sete pisos; estacionamento - 1 lugar/fogo para habitação, 1 lugar/50 m2 de área coberta para comércio e serviços de 200 m2 a 1000 m2 e 1 lugar/25 m2 de área coberta para comércio e serviços de 1000 m2 a 2500 m2.\n\nEnvolvente da área central. - Densidade habitacional máxima - 40 fogos/ha; índice de construção bruto - 0,8; cércea máxima - quatro pisos; estacionamento - 1 lugar/fogo para habitação e 1 lugar/50 m2 de área coberta para comércio e serviços.\n\nRestante área urbana - densidade habitacional máxima - 30 fogos/ha; índice de construção bruto - 0,6; cércea máxima - três pisos ou 9,5 m de altura; estacionamento - um lugar/fogo para habitação e um lugar/50 m2 de área coberta para comércio e serviços.\n\n9 - No Plano de Urbanização de Vieira de Leiria deverão observar-se os seguintes índices e parâmetros urbanísticos, que devem desde já ser observados na gestão urbanística:\n\nNa área central. - Densidade habitacional máxima - 40 fogos/ha; índice de construção bruto - 0,8; cércea máxima - três pisos ou 9,5 m de altura; estacionamento - 1 lugar/fogo para habitação e 1 lugar/50 m2 de área coberta para comércio e serviços.\n\nNa área envolvente. - Densidade habitacional máxima - 25 fogos/ha; índice de construção bruto - 0,5; cércea máxima - dois pisos ou 6,5 m de altura; estacionamento - 1 lugar/fogo para habitação e 1 lugar/100 m2 de área coberta para comércio e serviços.\n\n10 - Para os restantes aglomerados, com excepção de São Pedro de Muel e Praia de Vieira, os planos de urbanização deverão obedecer às seguintes normas:\n\nDensidade habitacional máxima - 20 fogos/ha; índice de construção bruto - 0,25; cércea máxima - dois pisos ou 6,5 m de altura; estacionamento - 1 lugar/fogo para habitação e 1 lugar/100 m2 de área coberta para comércio e serviços.\n\n11 - Nos aglomerados urbanos da Marinha Grande e Vieira de Leiria, a Câmara Municipal pode definir caso a caso, no estabelecimento de condições para passagem de alvarás de loteamento, a percentagem de fogos destinados à habitação de custos controlados.\n\n12 - Nas operações de loteamento, as áreas de terreno destinadas a espaços verdes e equipamentos de utilização colectiva observarão o disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro.\n\n13 - A Câmara Municipal será compensada dos encargos decorrentes de operação de loteamento, pela realização de infra-estruturas urbanísticas exteriores à área a lotear, através da aplicação da taxa municipal de urbanização aos proprietários e demais titulares de direitos reais sobre o terreno objecto das referidas operações.\n\n14 - O valor da taxa municipal de urbanização (TMU) será definido em regulamento próprio.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+  },
+  "8ade5bcca73f4704": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Ocupação industrial",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+   ],
+   "markdown": "###### Artigo 7.º — Ocupação industrial\n\n1 - O PDM define como áreas industriais as áreas assinaladas na planta de ordenamento, a área industrial da Marinha Grande e a área adjacente como reserva para a sua expansão, a área industrial da Marinha Pequena e a área industrial de Vieira de Leiria.\n\n2 - As áreas reservadas para actividades económicas (ARAE), predominantemente vocacionadas para a instalação de oficinas e outros serviços de apoio à actividade industrial, encontram-se integradas nas áreas industriais da Marinha Pequena e Vieira de Leiria, constituindo obrigatoriedade, a nível dos planos de urbanização nos aglomerados urbanos de Garcia e Albergaria, a reserva de área para este fim.\n\n3 - A ocupação das áreas industriais e das ARAE será regulamentada pelos planos de pormenor e os respectivos regulamentos, sem prejuízo de outras especificações que se consideram necessárias, ocupam-se designadamente das classes de actividades industriais, áreas para instalação de armazéns e serviços de apoio às actividades produtivas, índice volumétrico, afastamentos das edificações aos limites do lote e faixas de protecção entre edificações industriais, área de parqueamento e forma de acesso aos lotes, sistemas de segurança, tratamento de efluentes, abastecimento de água e energia eléctrica, definindo, se possível, as zonas alimentadas em BT e MT.\n\n4 - Consideram-se desde já, para as áreas industriais da Marinha Pequena, Vieira de Leiria e para a expansão da zona industrial da Marinha Grande, os seguintes indicadores urbanísticos:\n\na) Percentagem de ocupação - 50%;\n\nb) Índice volumétrico máximo - 5 m3/m2;\n\nc) Afastamentos - 3 m, 5 m e 10 m (respectivamente laterais, frontais e posteriores);\n\nd) Estacionamento mínimo dentro do lote - 1 lugar/50 m2 de construção;\n\n5 - Os estabelecimentos industriais já existentes e com processo de licenciamento industrial concluído ou em curso à data de entrada em vigor do REAI (1 de Maio de 1991), e cuja localização não esteja de acordo com o previsto no artigo 4.º do [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), terão a possibilidade de proceder às alterações previstas no artigo 7.º do mesmo decreto regulamentar, bem como obter a certidão de localização, após a análise, caso a caso, pelas entidades competentes e de acordo com o disposto nos números seguintes.\n\n6 - As indústrias da classe B localizadas em espaços urbanos e urbanizáveis, desde que licenciadas à data da publicação do presente Regulamento, só poderão alterar o seu equipamento produtivo e proceder a alteração ou ampliação das suas instalações e equipamentos quando se verifiquem as seguintes condições:\n\na) Não agravar as condições de incompatibilidade com os usos vizinhos;\n\nb) Demonstrar que os aspectos de protecção ambiental são cumpridos;\n\nc) Não criar efeitos prejudiciais na imagem e ambiente paisagístico da zona;\n\nd) Obter os pareceres positivos da CCRC, da DRIEC e da DRARNC.\n\n7 - A mudança das indústrias da classe D a C e C para B, localizadas em espaços urbanos e urbanizáveis, só poderão ser autorizadas quando se verifiquem as seguintes condições:\n\na) Não agravar as condições de incompatibilidade com os usos vizinhos;\n\nb) Demonstrar que os aspectos de protecção ambiental são cumpridos;\n\nc) Não criar efeitos prejudiciais na imagem e ambiente paisagístico da zona;\n\nd) Obter os pareceres positivos da CCRC, da DRIEC e da DRARNC.\n\n8 - Os estabelecimentos industriais existentes à data de publicação do presente Regulamento que pretendam legalizar-se só o poderão fazer nas seguintes condições:\n\na) Não agravar as condições de incompatibilidade com os usos vizinhos;\n\nb) Demonstrar que os aspectos de protecção ambiental são cumpridos;\n\nc) Não criar efeitos prejudiciais na imagem e ambiente paisagístico da zona;\n\nd) Obter os pareceres positivos da Câmara Municipal, da CCRC e da DRARNC.\n\n9 - As condições de incompatibilidade referidas na alínea a) dos n.os 6, 7 e 8 do presente artigo consideram-se existentes quando:\n\na) Dêem lugar a fumos, ruídos, resíduos, cheiros ou criem condições de insalubridade;\n\nb) Perturbem as condições de trânsito e estacionamento, nomeadamente com operações de circulação, carga e descarga;\n\nc) Acarretem agravados riscos de incêndio ou explosão.\n\n10 - A licença de obras para instalar ou alterar um estabelecimento industrial pode ser emitida pela Câmara Municipal desde que o industrial demonstre ter apresentado o pedido devidamente instruído à entidade coordenadora.\n\n11 - Deverão ainda observar-se os seguintes condicionalismos, sempre que aplicáveis:\n\na) O tratamento dos efluentes deverá, quando necessário, ser realizado em estação própria, antes de lançados na rede pública ou no meio receptor;\n\nb) Os espaços livres não impermeabilizados serão tratados como espaços verdes arborizados, constituindo uma faixa de protecção e isolamento;\n\nc) Seja respeitada a legislação em vigor em matéria de poluição geral.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+  },
+  "ac552be523a98ca3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Da edificabilidade",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+   ],
+   "markdown": "###### Artigo 11.º — Da edificabilidade\n\n1 - Nas áreas não urbanizáveis, sem prejuízo das condicionantes associadas a cada área, nomeadamente RAN e REN, e para além dos casos previstos no artigo anterior e nas áreas de habitat disperso previstas no artigo seguinte, os quais se regem pelas disposições expressas, somente será licenciada a edificação quando esta for destinada à habitação e estiver vinculada à actividade agrícola ou florestal ou de apoio às infra-estruturas e nas seguintes condições:\n\na) Só e permitida a edificação de habitação em parcelas de cadastro com dimensão igual ou superior a 0,5 ha;\n\nb) As novas construções destinadas à habitação terão uma área máxima variável entre 200 m2 e 300 m2, consoante a dimensão da propriedade, nos seguintes termos:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/094b00/22912299.pdf)\n\nc) Os edifícios de apoio às actividades agrícolas e florestais, sem prejuízo das limitações associadas a cada área, regem-se pelo disposto na alínea anterior;\n\n2 - As construções de novos edifícios nas áreas não urbanizáveis ficam sujeitas às seguintes prescrições de ordem geral:\n\na) O afastamento mínimo dos edifícios, assim como quaisquer instalações de retenção ou depuração de efluentes (fossas sépticas, etc.), aos limites da parcela é de 15 m;\n\nb) O abastecimento de água, a drenagem de esgotos e as infra-estruturas eléctricas deverão ser resolvidos por sistema autónomo, salvo se o interessado custear a totalidade das despesas com a extensão das redes públicas;\n\nc) As construções de novos edifícios nas áreas não urbanizáveis não poderão exceder os dois pisos para habitação e um piso para os anexos agrícolas;\n\nd) Nas construções com dois pisos, a área de pavimento do piso superior não poderá exceder 60% da área de pavimento do piso térreo ou piso inferior;\n\ne) Exceptuam-se destas duas últimas disposições os silos, depósitos de água e instalações especiais tecnicamente justificadas.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+  },
+  "b13b787755ffc835": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Espaços-canais e outros espaços não urbanizáveis",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+   ],
+   "markdown": "###### Artigo 17.º — Espaços-canais e outros espaços não urbanizáveis\n\n1 - Aos espaços-canais e outros não urbanizáveis, incluindo os parques de campismo, aplicam-se as condicionantes expressas no título III deste Regulamento.\n\n2 - É interdita a construção numa faixa de 50 m a partir da vedação das zonas afectas a estações de tratamento de águas residuais, bem como de abertura de poços ou furos ou o estabelecimento de captações de água que se destinem à rega ou consumo doméstico.\n\n3 - A desactivação das estações de tratamento de águas residuais, bem como dos poços ou furos ou das captações de água que se destinam à rega ou consumo doméstico, implica a extinção do condicionalismo do número anterior.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+  },
+  "06b49c6ec48d93ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Servidões dos sistemas de saneamento básico",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+   ],
+   "markdown": "###### Artigo 26.º — Servidões dos sistemas de saneamento básico\n\n1 - Na utilização destas áreas devem observar-se os seguintes condicionamentos:\n\na) É interdita a construção ao longo de uma faixa de 5 m, medida para um e outro lado do traçado das condutas de adução de água, adução-distribuição de água e dos emissários das redes de drenagem de esgotos, fora dos perímetros urbanos definidos na planta de condicionantes;\n\nb) É interdita a construção ao longo de uma faixa de 1 m, medida para um lado e outro das condutas distribuidoras de água e dos colectores das redes de drenagem de esgotos;\n\nc) Fora das áreas urbanas é interdita a plantação de árvores ao longo de uma faixa de 10 m, medidos para um e outro lado do traçado das adutoras e condutas distribuidoras de água e colectores de emissários de esgotos;\n\n2 - Em torno das captações subterrâneas consideram-se duas áreas de protecção:\n\na) Próxima, definida pelo círculo com 50 m em torno da captação, onde não devem existir:\n\nDepressões onde se possam acumular águas pluviais;\n\nLinhas de água não revestidas que possam originar infiltrações;\n\nCaixas ou caleiras subterrâneas de tubagens e acessórios (ainda que dentro dos edifícios de estações elevatórias) sem esgoto devidamente estudado;\n\nCanalizações, fossas ou sumidouros de águas negras;\n\nHabitações;\n\nInstalações industriais;\n\nCulturas adubadas, estrumadas ou regadas;\n\nb) À distância, definida pelo círculo com 200 m de raio em torno da captação, onde não devem existir:\n\nSumidouros de águas negras abertos na camada aquífera captada;\n\nCaptações na mesma formação aquífera, desde que prejudiquem a quantidade ou as condições sanitárias da água captada;\n\nRega com águas negras;\n\nNitreiras, currais, estábulos, matadouros e qualquer outra origem rural de poluição maciça;\n\nIndústrias cujos esgotos possam originar poluição importante, tais como as de produtos químicos tóxicos, adubos, celulose, pasta de papel, tinturaria, têxteis, curtumes, cerveja, destilaria de figo e de vinho, conservas, preparação de carnes, farinhas de peixe, sabão, aglomerados de cortiça, etc.\n\n3 - Na utilização das áreas afectas às instalações de recolha e tratamento de resíduos sólidos observar-se-ão os seguintes condicionamentos:\n\na) Interdição de instalar depósitos de recolha de lixos a menos de 400 m dos limites do perímetro das áreas urbanas;\n\nb) Na faixa de 400 m referida na alínea anterior são apenas permitidas explorações florestais, sendo interdita a abertura de poços, furos ou o estabelecimento de captações de água que se destinem à rega ou ao consumo doméstico.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+  },
+  "058ce136450d6254": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Perímetro de rega do Lis",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+   ],
+   "markdown": "###### Artigo 33.º — Perímetro de rega do Lis\n\nAs áreas do perímetro de rega do Lis regulam-se pelos regimes específicos consagrados na legislação em vigor.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+  },
+  "f957bfe7435500aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Áreas percorridas por incêndios florestais",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+   ],
+   "markdown": "###### Artigo 34.º — Áreas percorridas por incêndios florestais\n\n1 - Nos terrenos com povoamentos florestais percorridos por incêndios ficam proibidos, pelo prazo de 10 anos a contar da data do fogo:\n\na) Todas as acções que tenham por objectivo, ou simplesmente tenham por efeito, a divisão em lotes de qualquer área de um ou vários prédios destinados, imediata ou subsequentemente, à construção;\n\nb) A realização de obras de urbanização, incluindo as destinadas a conjuntos de aldeamentos turísticos e a parques industriais, bem como a construção de vias de acesso a veículos automóveis ou a simples preparação do terreno com essa finalidade;\n\nc) A realização de obras novas para fins habitacionais, industriais ou turísticos;\n\nd) A construção, remodelação ou reconstrução e demolição de quaisquer edificações ou construções;\n\ne) O estabelecimento de quaisquer novas actividades agrícolas, industriais, turísticas ou outras que possam ter um impacte ambiental negativo;\n\nf) A introdução de alterações à morfologia do solo ou do coberto vegetal;\n\ng) O lançamento de águas residuais industriais ou de uso doméstico ou quaisquer outros efluentes líquidos poluentes;\n\nh) O corte ou colheita de espécies botânicas não cultivadas e a introdução de espécies exóticas, de cultivo ou não;\n\ni) O campismo fora de locais destinados a esse fim.\n\n2 - A proibição referida no número anterior apenas pode ser levantada mediante despacho conjunto dos Ministros do Planeamento e da Administração do Território, da Agricultura, Pescas e Alimentação e do Ambiente e Recursos Naturais, sobre pedido fundamentado dos interessados em que se demonstre, nomeadamente, que o incêndio da propriedade em causa se ficou a dever a causas fortuitas, a que estes interessados são totalmente alheios.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+  },
+  "b7ad13dde85d7c55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Áreas afectas à exploração de recursos minerais",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+   ],
+   "markdown": "###### Artigo 35.º — Áreas afectas à exploração de recursos minerais\n\n1 - Nas áreas de reserva e de salvaguarda à exploração de recursos minerais (pedreiras, estrutura diapírica e exploração abandonada do lignito), não são autorizadas nem previstas acções que pela sua natureza e dimensão inviabilizem o aproveitamento dos recursos existentes.\n\n2 - Nas zonas de defesa a exploração de pedreiras terá as seguintes faixas de protecção, medidas a partir da bordadura de cada exploração:\n\na) De 5 m, relativamente a prédios rústicos vizinhos, murados ou não;\n\nb) De 15 m, relativamente a caminhos públicos;\n\nc) De 20 m, relativamente a condutas de fluidos, linhas eléctricas de baixa tensão, linhas aéreas de telecomunicações e teleféricos, não integrados na exploração da pedreira;\n\nd) De 30 m, relativamente a linhas férreas, pontes, rios navegáveis, canais, cabos subterrâneos eléctricos e de telecomunicações, edifícios e locais de uso público;\n\ne) De 50 m, relativamente a estradas nacionais ou municipais;\n\nf) De 70 m, relativamente a auto-estradas e estradas internacionais;\n\ng) De 100 m, relativamente a monumentos nacionais, locais classificados de valor turístico, instalações e obras das Forças Armadas e forças dos serviços de segurança, escolas e hospitais;\n\nh) De 500 m, relativamente a locais ou zonas com valor científico ou paisagístico e, como tal, já classificados pela entidade para o efeito competente;\n\ni) A largura da zona de defesa deverá aumentar 1 m por cada metro de desnível que exista entre cada ponto da bordadura da escavação e o objecto a proteger.\n\n3 - Define-se uma faixa non aedificandi de 50 m para as explorações de inertes existentes.\n\n4 - Nas áreas de salvaguarda para exploração são permitidas diferentes formas de ocupação compatíveis com a vocação dos seus solos desde que licenciadas pela Câmara Municipal.\n\n5 - Sem prejuízo do disposto nos n.os 1 e 2, as áreas reservadas e a salvaguardar para a exploração dos recursos minerais estão sujeitas aos condicionamentos da legislação em vigor.\n\n6 - a) Serão objecto de licenciamento municipal todas as explorações de massas minerais em que não seja excedido nenhum dos seguintes limites:\n\nNúmero de trabalhadores - 15;\n\nPotência total dos meios mecânicos utilizados na exploração - 500 cavalos;\n\nProfundidade de escavação - 10 m;\n\nb) Tal licenciamento implica a apresentação de planos de lavra e de recuperação paisagística das áreas afectadas pelas explorações que se venham a construir.\n\nc) Todas as explorações em que seja ultrapassado um dos limites referidos na alínea a) ou se tratar de uma exploração subterrânea, o licenciamento é da competência da delegação regional da indústria e energia.\n\n7 - Os proprietários das áreas de exploração de substâncias minerais abandonadas à data da entrada em vigor deste Regulamento estão obrigados a executar as medidas de segurança e recuperação paisagística das áreas afectadas que lhes forem determinadas pela Câmara Municipal.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+  },
+  "eeb1b87c87f9e49d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Contra-ordenações",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+   ],
+   "markdown": "###### Artigo 36.º — Contra-ordenações\n\nConstituem contra-ordenações as infracções ao presente diploma.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+  },
+  "d5c03cb0e7838139": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Coimas e sanções acessórias",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+   ],
+   "markdown": "###### Artigo 37.º — Coimas e sanções acessórias\n\n1 - O montante das coimas a aplicar encontra-se fixado no artigo 25.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.\n\n2 - A tentativa e a negligência são puníveis.\n\n3 - Compete à Câmara Municipal da Marinha Grande a instrução dos processos de contra-ordenação e a aplicação das respectivas coimas e sanções acessórias.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30."
+  },
+  "c5616e37e9c89785": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Âmbito e identificação",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+   ],
+   "markdown": "###### Artigo 38.º — Âmbito e identificação\n\n1 - O presente título estabelece as regras aplicáveis às Faixas de Proteção e Salvaguarda, delimitadas na Carta de Ordenamento - Faixas de Proteção e Salvaguarda, as quais prevalecem sobre as demais regras estabelecidas no presente Regulamento.\n\n2 - As Faixas de Proteção e Salvaguarda da Zona Terrestre de Proteção compreendem as seguintes tipologias:\n\na) Faixa de Proteção Costeira;\n\nb) Faixa de Proteção Complementar;\n\nc) Margem;\n\nd) Faixas de Salvaguarda em Litoral Arenoso - Nível I e Nível II;\n\ne) Faixas de Salvaguarda ao Galgamento e Inundação Costeira - Nível I e Nível II;\n\nf) Faixa de Salvaguarda em Litoral de Arriba Nível I e Áreas de Instabilidade Potencial;\n\ng) Faixas de Salvaguarda em Litoral de Arriba Nível II.\n\n> Alterado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+  },
+  "4fc88a95b8354477": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+   ],
+   "markdown": "###### Artigo 39.º\n\nNas faixas de proteção costeira e na Faixa de Proteção Complementar são interditas as seguintes atividades:\n\na) Destruição da vegetação autóctone e introdução de espécies não indígenas invasoras, nomeadamente aquelas que se encontram listadas na legislação em vigor;\n\nb) Instalação de aterros sanitários, deposição, abandono ou depósito de entulhos, sucatas ou quaisquer outros resíduos fora dos locais para tal destinados;\n\nc) Instalação de quaisquer unidades destinadas ao armazenamento e gestão de resíduos;\n\nd) Rejeição de efluentes de origem doméstica ou industrial, ou quaisquer outros efluentes, sem tratamento de acordo com as normas legais em vigor;\n\ne) Prática de campismo e caravanismo fora dos locais destinados a esse efeito;\n\nf) Outras atividades que alterem o estado das massas de águas ou coloquem esse estado em perigo.\n\n> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+  },
+  "3bb2f5346ef6b1d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Regime de Proteção e Salvaguarda",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+   ],
+   "markdown": "###### Artigo 40.º — Regime de Proteção e Salvaguarda\n\n1 - Na Faixa de Proteção Costeira da Zona Terrestre de Proteção, para além das interdições estabelecidas no artigo anterior, são ainda interditas as seguintes atividades:\n\na) Novas edificações, exceto instalações balneares e marítimas previstas no Regulamento de Gestão das Praias Marítimas da Autoridade Nacional da Água e respetivos Planos de Intervenção nas Praias, bem como núcleos piscatórios, infraestruturas, designadamente de defesa e segurança nacional, equipamentos coletivos, instalações de balneoterapia, talassoterapia e desportivas relacionadas com a fruição do mar, que devam localizar-se nesta faixa e que obtenham o reconhecimento do interesse para o setor pela entidade competente;\n\nb) Ampliação de edificações, exceto das instalações balneares e marítimas previstas no Regulamento de Gestão das Praias Marítimas da Autoridade Nacional da Água e respetivos Planos de Intervenção nas Praias, dos núcleos piscatórios, pisciculturas e infraestruturas e nas situações em que a mesma se destine a suprir ou melhorar as condições de segurança, salubridade e mobilidade;\n\nc) A abertura de novos acessos rodoviários e estacionamentos, fora do solo urbano definido em plano municipal de ordenamento do território, exceto os previstos no Regulamento de Gestão das Praias Marítimas da Autoridade Nacional da Água e respetivos Planos de Intervenção nas Praias;\n\nd) A ampliação de acessos existentes e estacionamentos sobre as praias, dunas, arribas e zonas húmidas, exceto os previstos no Regulamento de Gestão das Praias Marítimas da Autoridade Nacional da Água e respetivos Planos de Intervenção nas Praias e núcleos piscatórios;\n\ne) Alterações ao relevo existente ou rebaixamento de terrenos.\n\n2 - Excecionam-se das interdições previstas nas alíneas a) e b) do número anterior os equipamentos e espaços de lazer previstos em Unidades Operativas de Planeamento e Gestão consagrados no artigo 18.º do presente Regulamento, bem como os direitos preexistentes e juridicamente consolidados, à data da entrada em vigor do POC-OMG.\n\n3 - Na Faixa de Proteção Costeira são permitidas as seguintes ações e atividades, mediante autorização das entidades legalmente competentes:\n\na) Obras de desobstrução e regularização de linhas de água que tenham por objetivo a manutenção, melhoria ou reposição do sistema de escoamento natural;\n\nb) A realização de projetos de irrigação ou tratamento de águas residuais e desde que não haja alternativa;\n\nc) A implementação de percursos pedonais, cicláveis, para veículos não motorizados, e equestres, desde que acautelados os interesses de salvaguarda do sistema litoral e dos recursos naturais;\n\nd) A realização de obras de requalificação de empreendimentos turísticos existentes e devidamente licenciados, nomeadamente parques de campismo e de caravanismo, acautelando sempre os interesses de salvaguarda do sistema litoral e dos recursos naturais.\n\n> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+  },
+  "59e3016ecc80a37e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Regime de proteção e salvaguarda",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+   ],
+   "markdown": "###### Artigo 41.º — Regime de proteção e salvaguarda\n\n1 - Na Faixa de Proteção Complementar da Zona Terrestre de Proteção, fora das áreas inseridas em perímetro urbano, para além das interdições estabelecidas no artigo 39.º, é ainda interdita a edificação nova, ampliação e infraestruturação, com exceção das seguintes situações:\n\na) Infraestruturas e equipamentos coletivos, desde que reconhecidos de interesse público pelo sector e apenas quando a sua localização nesta faixa seja imprescindível;\n\nb) Parques de campismo e caravanismo;\n\nc) Estruturas ligeiras relacionadas com a atividade da agricultura, da pesca e da aquicultura, fora da orla costeira;\n\nd) Instalações e infraestruturas previstas no Regulamento de Gestão das Praias Marítimas da Autoridade Nacional da Água e respetivos Planos de Intervenção nas Praias, infraestruturas e núcleos piscatórios;\n\ne) Ampliação de edificações existentes que se destine a suprir ou melhorar as condições de segurança, salubridade e mobilidade;\n\nf) Obras de reconstrução e de alteração, desde que não esteja associado um aumento da edificabilidade;\n\ng) Relocalização de equipamentos, infraestruturas e construções determinada pela necessidade de demolição por razões de segurança relacionadas com a dinâmica costeira, desde que se demonstre a inexistência de alternativas de localização no perímetro urbano e se localize em áreas contíguas a este e fora das Faixas de Salvaguarda;\n\nh) Direitos preexistentes e juridicamente consolidados, à data de entrada em vigor do POC-OMG.\n\n2 - Os edifícios e infraestruturas referidos no número anterior devem observar o seguinte:\n\na) Respeitar as características das construções existentes, tendo em especial atenção a preservação do património arquitetónico;\n\nb) As edificações, no que respeita à implantação e à volumetria, devem adaptar-se à fisiografia de cada parcela de terreno, respeitar os valores naturais, culturais e paisagísticos, e afetar áreas de impermeabilização que não ultrapassem o dobro da área total de implantação.\n\n3 - Na Faixa de Proteção Complementar é permitida a construção de estações de tratamento de águas residuais (ETAR) quando não contrariem os objetivos do POC-OMG e tenham em consideração a sensibilidade do meio recetor, desde que devidamente autorizadas nos termos da lei e se revistam de interesse público declarado.\n\n> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+  },
+  "3cd0b30632465a8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Regime de proteção e salvaguarda",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+   ],
+   "markdown": "###### Artigo 42.º — Regime de proteção e salvaguarda\n\n1 - Na margem, para além das interdições estabelecidas para a Zona Terrestre de Proteção, são ainda interditas as seguintes atividades:\n\na) Equipamentos que não tenham por função o apoio de praia, salvo quando se localizem em perímetro urbano e cumpram com o disposto neste capítulo;\n\nb) Realização de obras de construção ou de ampliação, com exceção das edificações e infraestruturas previstas no Regulamento de Gestão das Praias Marítimas da Autoridade Nacional da Água e respetivos Planos de Intervenção nas Praias e núcleos piscatórios;\n\nc) Prática de atividades passíveis de conduzir ao aumento da erosão, ao transporte de material sólido para o meio hídrico ou que induzam alterações ao relevo existente.\n\n> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+  },
+  "0b5d05a4c08e22f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Identificação",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+   ],
+   "markdown": "###### Artigo 43.º — Identificação\n\n1 - São definidas as seguintes Faixas de Salvaguarda em litoral arenoso:\n\na) Faixa de Salvaguarda à Erosão Costeira, que se subdivide em:\n\ni) Faixa de Salvaguarda à Erosão Costeira de Nível I;\n\nii) Faixa de Salvaguarda à Erosão Costeira de Nível II;\n\nb) Faixa de Salvaguarda ao Galgamento e Inundação Costeira, que se subdivide em:\n\ni) Faixa de Salvaguarda ao Galgamento e Inundação Costeira de Nível I;\n\nii) Faixa de Salvaguarda ao Galgamento e Inundação Costeira de Nível II;\n\nc) Nas faixas de salvaguarda em perímetro urbano, no que respeita ao regime de edificabilidade, são diferenciadas as seguintes áreas:\n\ni) Nível I em frente urbana, entendendo-se como frente urbana a faixa paralela ao mar em perímetro urbano definida pela primeira linha de edificações da frente de mar em perímetro urbano;\n\nii) Nível I, fora da frente urbana;\n\niii) Nível II, em perímetro urbano.\n\n> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+  },
+  "6b9803c241534ecf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Regime de proteção e salvaguarda",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+   ],
+   "markdown": "###### Artigo 44.º — Regime de proteção e salvaguarda\n\n1 - Nas Faixas de Salvaguarda Nível I deve observar-se o seguinte:\n\na) Fora dos perímetros urbanos, é interdita a realização de operações de loteamento, obras de urbanização, a construção de novas edificações e a ampliação, reconstrução e alteração de edificações existentes, exceto quando se trate de obras de reconstrução e alteração das edificações que se destinem a suprir insuficiências de salubridade, habitabilidade e mobilidade;\n\nb) Em perímetro urbano:\n\ni) Nas frentes urbanas:\n\n1) São interditas operações de loteamento, obras de urbanização, obras de construção e obras de ampliação das edificações existentes, com exceção de obras de ampliação que se destinem a suprir insuficiências de salubridade, habitabilidade ou mobilidade;\n\n2) São permitidas obras de reconstrução ou de alteração das edificações, desde que não originem a criação de caves e de novas unidades funcionais;\n\nii) Fora das frentes urbanas:\n\n1) As novas edificações, ficam sujeitas ao disposto no Plano de Ordenamento da Orla Costeira Ovar-Marinha Grande, aprovado pela [Resolução do Conselho de Ministros n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/142-2000-533814), de 20 de outubro, até 10 de agosto de 2018;\n\n2) Admite-se a reconstrução, a ampliação, a alteração de edificações existentes, desde que tal não se traduza no aumento da sua altura, na criação de caves e de novas unidades funcionais, e não corresponda a um aumento total da área de construção superior a 25 m2, e não constituam mais-valias em situação de expropriação ou aquisição por parte do Estado.\n\n2 - Nas Faixas de Salvaguarda Nível II:\n\na) Fora dos perímetros urbanos, deve atender-se ao disposto nos artigos 39.º, 40.º, 41.º e 42.º, relativos ao regime de proteção e salvaguarda na Zona Terrestre de Proteção - Faixas de Proteção Costeira e Complementar e Margem;\n\nb) Em perímetro urbano, são admitidas novas edificações, ampliações, reconstruções e alterações das edificações já existentes legalmente construídas, desde que as edificações ou as áreas urbanas onde estas se localizem integrem soluções construtivas ou infraestruturais de adaptação/acomodação ao avanço das águas do mar, que permitam aumentar a resiliência ao avanço das águas, nomeadamente:\n\ni) A utilização de técnicas e materiais construtivos no exterior dos edifícios resistentes à presença de água;\n\nii) Ao nível do piso térreo das edificações, a previsão de soluções que favoreçam o rápido escoamento das águas;\n\niii) Na pavimentação dos espaços exteriores devem ser utilizados materiais permeáveis;\n\niv) Outras que, em sede de projeto, se verifiquem adequadas.\n\n3 - Excetuam-se do disposto no n.º 1 e 2 do presente artigo:\n\na) Os direitos preexistentes e juridicamente consolidados à data da entrada em vigor do POC-OMG, sem prejuízo da estratégia de adaptação indicada para cada Faixa de Salvaguarda e desde que comprovada a existência de condições de segurança face à ocupação pretendida junto da entidade competente para o efeito, não sendo imputadas à Administração eventuais responsabilidades pela sua localização em área de risco;\n\nb) As operações urbanísticas que se encontrem previstas no Regulamento de Gestão das Praias Marítimas da Autoridade Nacional da Água e respetivos Planos de Intervenção nas Praias e núcleos piscatórios, bem como instalações com características amovíveis/sazonais, desde que as condições específicas do local o permitam.\n\n4 - Nas Faixas de Salvaguarda ao Galgamento e Inundação Costeira são interditas caves abaixo da cota natural do terreno e nas edificações existentes, caso haja alteração de uso, é interdita a utilização destes espaços para fins habitacionais.\n\n> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+  },
+  "ef405e7ae0555cb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Regime de proteção e salvaguarda",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+   ],
+   "markdown": "###### Artigo 45.º — Regime de proteção e salvaguarda\n\n1 - Na Faixa de Salvaguarda em Litoral de Arriba - Nível I e nas Áreas de Instabilidade Potencial, em perímetro urbano, são proibidas novas edificações, a ampliação e a reconstrução das existentes, exceto quando se trate de:\n\na) Obras de reconstrução exigidas por situações de emergência as quais devem ser objeto de parecer pelas entidades públicas diretamente responsáveis pela área afetada;\n\nb) Obras de reconstrução ou de ampliação que incidam em áreas que tenham sido ou venham a ser objeto de estudos pormenorizados sobre as características geológicas, geotécnicas e evolutivas da arriba e faixa de salvaguarda associada ou de intervenções específicas de estabilização, desde que demonstrem claramente que se encontram asseguradas as condições de segurança exigidas para a ocupação humana dessas áreas;\n\nc) Obras de ampliação referidas na alínea anterior desde que não se traduzam no aumento de cércea, na criação de caves e de novas unidades funcionais e não correspondam a um aumento total da área de construção superior a 25 m2;\n\nd) Obras destinadas à instalação de estacionamentos, acessos e instalações amovíveis ou fixas, localizadas em setores de arriba onde, através de intervenções de estabilização, minimização ou corretivas, tenham sido anulados, minimizados ou atenuados os fenómenos de instabilidade presentes de modo a assegurar as condições de segurança exigidas para a ocupação humana dessas áreas.\n\n2 - Fora dos perímetros urbanos, deve atender-se ao disposto nos artigos 39.º, 40.º e 41.º, relativos ao regime de proteção e salvaguarda na Zona Terrestre de Proteção - Faixas de Proteção Costeira e Complementar.\n\n> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+  },
+  "1304f7d47bc99322": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Regime de proteção e salvaguarda",
+   "in_force_from": "2018-04-04",
+   "changed_by": [
+    "Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+   ],
+   "markdown": "###### Artigo 46.º — Regime de proteção e salvaguarda\n\n1 - Na Faixa de Salvaguarda em Litoral de Arriba - Nível II, em perímetro urbano, são interditas obras de construção ou de ampliação, exceto quando se trate de:\n\na) Obras de ampliação desde que o edifício não ultrapasse 2 pisos e não se traduzam na criação de caves e de novas unidades funcionais que incidam em áreas que tenham sido ou venham a ser objeto de estudos pormenorizados sobre as características geológicas, geotécnicas e evolutivas da arriba e faixa de risco adjacente ou de intervenções específicas de estabilização, e ainda seja demonstrado que se encontram asseguradas as condições de segurança exigidas para a ocupação humana dessas áreas;\n\nb) Obras destinadas à instalação de estacionamentos, acessos e instalações amovíveis, localizadas em sectores de arriba onde, através de intervenções de estabilização, minimização ou corretivas na arriba, tenham sido anulados, minimizados ou atenuados os fenómenos de instabilidade presentes de modo a assegurar as condições de segurança exigidas para a ocupação humana dessas áreas.\n\n2 - Fora dos perímetros urbanos, deve atender-se ao disposto nos artigos 39.º, 40.º, 41.º, relativos ao regime de proteção e salvaguarda na Zona Terrestre de Proteção - Faixas de Proteção Costeira e Complementar.\n\n> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04."
+  }
+ }
+}

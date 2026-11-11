@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2001 - 343 601 934$00/Euro 1 173 879,22;\n\n2002 - Euro 1 142 586,15.",
+    "depois": "2001 - Euro 1 713 879,22;\n\n2002 - Euro 571 293,08;\n\n2003 - Euro 571 293,07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2156931:por",
+    "alterador": "pt:dre:3610844:por"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:138796:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 6 e 8 a 11 criam lugares no quadro de pessoal (anexo I), que só existe em imagem: não há texto a alterar. Alterador 7, 1.º: altera o quadro de pessoal (anexo I) de acordo com um anexo I que também só vem em imagem. Alterador 7, 2.º: fixa o conteúdo funcional da carreira técnico-profissional no seu próprio anexo II, sem dizer que substitui o anexo II do original (carreira de técnico auxiliar); substituição não expressa, não aplicada.",
+  "instrucoes": [
+    "Alteradores 1-6, 8-11: criação de um lugar no quadro de pessoal (anexo I, quadro em imagem) - não aplicável ao texto.",
+    "Alterador 7, 1.º: alteração do quadro de pessoal (anexo I) segundo quadro em imagem - não aplicável.",
+    "Alterador 7, 2.º: conteúdo funcional da carreira técnico-profissional no anexo II do alterador; não é instrução textual expressa sobre o anexo II do original - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

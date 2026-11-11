@@ -41,10 +41,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-05-21'
+version_history:
+  file: portaria-839-a-2013.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-11-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-21'
+    amending: pt:dre:67267074:por
+    amending_title: Portaria n.º 296/2015
+    changes:
+    - Altera Artigo unidades 10-13
+    - Altera Artigo unidades 15-19
 identifiers:
   celex: null
   eli: null
@@ -70,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:42:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 296/2015. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2013/portaria-839-a-2013.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,25 +173,29 @@ Assim:
 
 Ao abrigo do disposto nos artigos 25.º e 52.º do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de julho, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, e do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, e em conformidade com o disposto nos termos conjugados da alínea f) do artigo 14.º do [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento e pela Secretária de Estado do Tesouro, no uso das competências que lhe foram delegadas pela Ministra de Estado e das Finanças, respetivamente, através do [Despacho n.º 9459/2013](https://diariodarepublica.pt/dr/detalhe/despacho/9459-2013-3095530), de 5 de julho, publicado no Diário da República, 2.ª série, n.º 138, de 19 de julho de 2013, e do [Despacho n.º 11841/2013](https://diariodarepublica.pt/dr/detalhe/despacho/11841-2013-1514784), de 6 de setembro, publicado no Diário da República, 2.ª série, n.º 176, de 12 de setembro de 2013, e pelo Secretário de Estado da Saúde, no uso das competências que lhe foram delegadas pelo Ministro da Saúde, através do Despacho n.º 14134/201, de 11 de outubro, publicado no Diário da República, 2.ª série, n.º 201, de 19 de outubro de 2011, o seguinte:
 
-1.º Fica o Fundo de Reabilitação e Conservação Patrimonial autorizado a comparticipar nos encargos relativos ao contrato de financiamento a celebrar com o Centro Hospitalar Psiquiátrico de Lisboa, respeitante ao apoio financeiro a conceder destinado às operações de beneficiação do sistema de aquecimento daquele Centro, no montante global de (euro) 379 305,95, com IVA incluído à taxa legal em vigor.
+1 - Fica o fundo de Reabilitação e Conservação Patrimonial autorizado a comparticipar nos encargos relativos ao contrato de financiamento a celebrar com o Centro Hospitalar Psiquiátrico de Lisboa, respeitante ao apoio financeiro a conceder destinado à empreitada de beneficiação do sistema de aquecimento central daquele Centro Hospitalar, no montante global de (euro) 410.327,75, incluído o IVA à taxa legal em vigor.
 
-2.º Os encargos orçamentais para o Fundo de Reabilitação e Conservação Patrimonial decorrentes da assinatura do contrato de financiamento acima referido são repartidos da seguinte forma:
+2 - Os encargos orçamentais para o Fundo de Reabilitação e Conservação Patrimonial decorrentes da assinatura do contrato de financiamento acima referido são reportados da seguinte forma:
 
-a) Em 2013 - (euro) 207 562,50, com IVA incluído à taxa legal em vigor;
+a) Em 2014 - (euro) 67.534,32, incluído o IVA à taxa legal em vigor;
 
-b) Em 2014 - (euro) 171 743,45, com IVA incluído à taxa legal em vigor.
+b) Em 2015 - (euro) 342.793,42, incluído o IVA à taxa legal em vigor.
+
+> Alterado pelo/a [Portaria n.º 296/2015](https://diariodarepublica.pt/dr/detalhe/portaria/296-2015-67267074), publicado em 2015-05-21.
 
 3.º Os encargos emergentes da presente portaria previstos no n.º 2 serão satisfeitos por verbas adequadas provenientes de receitas próprias a inscrever no orçamento de funcionamento do Fundo de Reabilitação e Conservação Patrimonial.
 
-4.º Os encargos orçamentais para o Centro Hospitalar Psiquiátrico de Lisboa decorrentes da execução do contrato acima referido são repartidos da seguinte forma:
+4 - Os encargos orçamentais para o Centro Hospitalar Psiquiátrico de Lisboa decorrentes da execução dos contratos celebrados, serão repartidos da seguinte forma:
 
-Em 2013 - (euro) 69 187,50, IVA incluído à taxa legal em vigor;
+a) Em 2014 - (euro) 22.511,45, incluído o IVA à taxa legal em vigor;
 
-Em 2014 - (euro) 57 247,82, IVA incluído à taxa legal em vigor.
+b) Em 2015 - (euro) 114.264,47, incluído o IVA à taxa legal em vigor.
 
-5.º Os encargos financeiros deste contrato previstos no n.º 4 são satisfeitos, em 2013 e 2014, por verbas inscritas no orçamento de funcionamento do Centro Hospitalar Psiquiátrico de Lisboa.
+5 - Os encargos financeiros deste contrato previstos no n.º 4 são satisfeitos, em 2014 e 2015, por verbas inscritas no orçamento de funcionamento do Centro Hospitalar Psiquiátrico de Lisboa.
 
-6.º O saldo que eventualmente venha a ser apurado em 2013 pode transitar para 2014.
+6 - O saldo que eventualmente venha a ser apurado em 2014 pode transitar para 2015.
+
+> Alterado pelo/a [Portaria n.º 296/2015](https://diariodarepublica.pt/dr/detalhe/portaria/296-2015-67267074), publicado em 2015-05-21.
 
 7.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 

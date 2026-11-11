@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-01-05'
+version_history:
+  file: decreto-95-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-09-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-01-05'
+    amending: pt:dre:321683:por
+    amending_title: Decreto n.º 67/97
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:51:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 67/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1978/decreto-95-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -218,7 +233,9 @@ de 12 de Setembro
 
 Em conformidade com os artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, do n.º 1 do § 1.º do artigo 19.º do [Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), de 22 de Maio de 1965, e n.º 1 do artigo 1.º e n.º 1 do artigo 2.º do [Decreto-Lei n.º 1/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1978-468850), de 7 de Janeiro, o Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º São classificados como monumentos nacionais os seguintes imóveis:
+###### Artigo 1.º
+
+São classificados como monumentos nacionais os seguintes imóveis:
 
 Distrito da Guarda:
 
@@ -248,7 +265,9 @@ Concelho de Ponte de Lima.
 
 Capela do Anjo da Guarda.
 
-Art. 2.º São classificados como de interesse público os seguintes imóveis:
+###### Artigo 2.º
+
+São classificados como de interesse público os seguintes imóveis:
 
 Distrito de Beja:
 
@@ -394,7 +413,7 @@ Ruínas do Castelo de Alcobaça.
 
 Concelho da Nazaré:
 
-Ermida de Nossa Senhora dos Anjos, na Pedreneira, incluindo o retábulo do altar-mor, as duas tábuas de pintura do século XVI e os restos de azulejos do século XVII.
+Capela de Nossa Senhora dos Anjos, também denominada Ermida de Nossa Senhora dos Anjos, incluindo as duas tábuas com pinturas do século XVI e os restos dos azulejos do século XVII, na estrada nacional n.º 8-5, ao quilómetro 10,800, Pederneira, freguesia da Nazaré, município da Nazaré, distrito de Leiria.
 
 Forte de S. Miguel Arcanjo, situado no promontório do Sítio, na Nazaré.
 
@@ -594,7 +613,11 @@ Concelho de Santa Cruz:
 
 Capela de Nossa Senhora da Consolação, no sítio da Quinta, freguesia do Caniço.
 
-Art. 3.º São classificados como valores concelhios os seguintes imóveis:
+> Alterado pelo/a [Decreto n.º 67/97](https://diariodarepublica.pt/dr/detalhe/decreto/67-1997-321683), publicado em 1997-12-31.
+
+###### Artigo 3.º
+
+São classificados como valores concelhios os seguintes imóveis:
 
 Distrito de Aveiro:
 
@@ -684,7 +707,9 @@ Concelho de Ponta do Sol:
 
 Capela de Nossa Senhora dos Anjos, em Ponta do Sol.
 
-Art. 4.º Fica esclarecido que:
+###### Artigo 4.º
+
+Fica esclarecido que:
 
 a) A classificação de monumento nacional atribuída à Igreja de S. João de Tarouca, compreendendo o túmulo do conde de Barcelos e o quadro S. Pedro, de Grão-Vasco, pelo [Decreto n.º 40684](https://diariodarepublica.pt/dr/detalhe/decreto/40684-1956-231947), de 13 de Julho de 1956, passa a abranger o Convento de S. João de Tarouca, com todos os elementos que ainda possui;
 

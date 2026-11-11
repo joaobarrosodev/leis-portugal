@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:2611424:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 20,
+      "texto": "Julieta Manuela Ribeiro Sampaio Calçada Duarte.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 638/2009) dá nova redação ao n.º 1 (lista de vogais): as unidades 8 a 17 ficam iguais; o representante da Autoridade Florestal Nacional passa a Julieta Manuela Ribeiro Sampaio Calçada Duarte (unidade 18) e a nova redação já não inclui o representante do Instituto da Conservação da Natureza (unidades 19-20), que saem; a frase de abertura do 1.º (unidade 7) não é repetida na nova redação e fica."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

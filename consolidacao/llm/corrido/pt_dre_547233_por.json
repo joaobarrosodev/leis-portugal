@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:547233:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 913/93): o novo plano de estudos do curso de Secretariado só vem em imagem e a mudança de denominação do curso (3.º) não é uma alteração textual da portaria; Alterador 2 (Portaria 1127/2001): o novo plano de estudos de Informática de Gestão só vem em quadros em imagem; Alterador 3 (Aviso 7210/2014): encerramento do estabelecimento, não textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º e 2.º: substitui o plano de estudos de Secretariado do anexo, que só existe em imagem; não aplicado.",
+    "Alterador 1, 3.º: o curso passa a denominar-se Assistente de Administração; determinação não textual, não aplicada.",
+    "Alterador 2, 1.º: novo plano de estudos de Informática de Gestão em quadros em imagem; não aplicado. Restantes pontos são disposições próprias.",
+    "Alterador 3: aviso de encerramento voluntário do ISLA de Bragança; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

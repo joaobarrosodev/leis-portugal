@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Uma aeronave C-130, respectiva tripulação e equipa de apoio em terra, compostas por 37 (trinta e sete) elementos;",
+    "depois": "a) Uma aeronave C-130H, respectiva tripulação e equipa de apoio em terra, compostas por 42 elementos;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1743434:por",
+    "alterador": "pt:dre:3516795:por"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:2478723:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2.º A duração da missão será de um ano, automaticamente renovável por iguais períodos, até se manter o interesse do Estado português de nela participar.",
+      "alterador": 1
+    },
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Autorizar o Chefe do Estado-Maior-General das Forças Armadas a empregar e a sustentar, como contributo de Portugal para a United Nations Assistance Mission in Afghanistan (UNAMA), um efetivo de dois oficiais superiores para exercer funções no quartel-general da missão, no Afeganistão.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 781/2015): nova redação do 2.º; substituída a unidade 9.",
+    "Alterador 2 (Portaria 391/2016), n.º 1: nova redação do 1.º; substituída a unidade 8. Os n.os 2 e 3 (encargos, efeitos) são normas próprias do alterador, não alteram o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

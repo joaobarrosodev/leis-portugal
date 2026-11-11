@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:692239:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 5 (RCM 144/2006, Portaria 233/2009, Aviso 5634/2010, Aviso 7856/2014, Aviso 964/2015) só alteram ou corrigem a delimitação cartográfica da REN de Cascais (plantas, cartas e quadros que só vêm em imagem), sem alteração textual ao original. O alterador 6 (Aviso 9163/2015, artigo 3.º) revoga a delimitação da REN aprovada pela RCM 155/95, que é todo o objeto do diploma (revogação por inteiro, com efeitos à entrada em vigor da revisão do PDM de Cascais): não se devolve nada.",
+  "instrucoes": [
+    "Alterador 1 (RCM 144/2006, n.º 3): aprova alteração da delimitação da REN constante da RCM 155/95, com áreas identificadas em planta anexa; cartográfica, não aplicada.",
+    "Alterador 2 (Portaria 233/2009, 1.º): alteração da delimitação com planta e quadro anexos em imagem; não aplicada.",
+    "Alterador 3 (Aviso 5634/2010, 1.º): correção de erro material na carta da REN (traçado da ribeira de Sassoeiros); cartográfica, não aplicada.",
+    "Alterador 4 (Aviso 7856/2014, art. 1.º): alteração da delimitação na área do PP de Carcavelos Sul, plantas anexas; não aplicada.",
+    "Alterador 5 (Aviso 964/2015, art. 1.º): alteração da delimitação na área do POOC Cidadela-S. Julião da Barra, plantas e quadro em imagem; não aplicada.",
+    "Alterador 6 (Aviso 9163/2015, art. 3.º): revoga a delimitação da REN aprovada pela RCM 155/95 e alterações; revogação de todo o diploma, indicada em nao_aplicavel, nada devolvido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

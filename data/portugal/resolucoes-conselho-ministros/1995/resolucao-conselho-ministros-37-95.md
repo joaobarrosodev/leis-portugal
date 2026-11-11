@@ -38,10 +38,43 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2018-04-04'
+version_history:
+  file: resolucao-conselho-ministros-37-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-04-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-04-04'
+    amending: pt:dre:286118:por
+    amending_title: Resolução do Conselho de Ministros n.º 153/98; Aviso n.º 1313/2017; Aviso n.º 4419/2018
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Artigo 17.º
+    - Altera Artigo 26.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Adita Artigo 39.º
+    - Adita Artigo 40.º
+    - Adita Artigo 41.º
+    - Adita Artigo 42.º
+    - Adita Artigo 43.º
+    - Adita Artigo 44.º
+    - Adita Artigo 45.º
+    - Adita Artigo 46.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/37/1995/04/21/p/dre/pt/html
@@ -67,7 +100,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:10:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 153/98; Aviso n.º 1313/2017; Aviso n.º 4419/2018. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1995/resolucao-conselho-ministros-37-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -273,7 +307,11 @@ g) Salvaguardar e promover a qualidade ambiental.
 
 3 - As disposições do presente Regulamento aplicam-se a todas as acções de iniciativa pública, privada ou cooperativa a realizar na área de intervenção do Plano.
 
-4 - O PDM da Marinha Grande será revisto no prazo máximo de vigência de 10 anos após a sua publicação no Diário da República.
+4 - São consideradas como compatíveis com as normas de uso do solo ou de edificabilidade previstas no presente regulamento, as atividades abrangidas pelo artigo 1.º do [Decreto-Lei n.º 165/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2014-58752835), de 5 de novembro e artigo 3.º da [Lei n.º 21/2016](https://diariodarepublica.pt/dr/detalhe/lei/21-2016-74967215), de 19 de julho, cujos processos de regularização tenham obtido, ao abrigo do regime consagrado nestes diplomas, deliberação favorável ou favorável condicionada.
+
+5 - O PDM da Marinha Grande será revisto no prazo máximo de vigência de 10 anos após a sua publicação no Diário da República.
+
+> Alterado pelo/a [Aviso n.º 1313/2017](https://diariodarepublica.pt/dr/detalhe/aviso/1313-2017-106384803), publicado em 2017-02-02.
 
 ## TÍTULO II — Do zonamento
 
@@ -383,7 +421,7 @@ h) Não é permitida a construção de anexos (garagens, arrecadações e outras
 
 Envolvente da área central. - Densidade habitacional máxima - 40 fogos/ha; índice de construção bruto - 0,8; cércea máxima - quatro pisos; estacionamento - 1 lugar/fogo para habitação e 1 lugar/50 m2 de área coberta para comércio e serviços.
 
-Restante área urbana. - Densidade habitacional máxima - 30 fogos/ha; índice de construção bruto - 0,6; cércea máxima - três pisos ou 9,5 m2 de altura; estacionamento - 1 lugar/fogo para habitação e 1 lugar/50 m2 de área coberta para comércio e serviços.
+Restante área urbana - densidade habitacional máxima - 30 fogos/ha; índice de construção bruto - 0,6; cércea máxima - três pisos ou 9,5 m de altura; estacionamento - um lugar/fogo para habitação e um lugar/50 m2 de área coberta para comércio e serviços.
 
 9 - No Plano de Urbanização de Vieira de Leiria deverão observar-se os seguintes índices e parâmetros urbanísticos, que devem desde já ser observados na gestão urbanística:
 
@@ -402,6 +440,8 @@ Densidade habitacional máxima - 20 fogos/ha; índice de construção bruto - 0,
 13 - A Câmara Municipal será compensada dos encargos decorrentes de operação de loteamento, pela realização de infra-estruturas urbanísticas exteriores à área a lotear, através da aplicação da taxa municipal de urbanização aos proprietários e demais titulares de direitos reais sobre o terreno objecto das referidas operações.
 
 14 - O valor da taxa municipal de urbanização (TMU) será definido em regulamento próprio.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30.
 
 ###### Artigo 6.º — Núcleos urbano-turísticos
 
@@ -455,7 +495,7 @@ e) 50% dos alojamentos serão obrigatoriamente de natureza turística.
 
 3 - A ocupação das áreas industriais e das ARAE será regulamentada pelos planos de pormenor e os respectivos regulamentos, sem prejuízo de outras especificações que se consideram necessárias, ocupam-se designadamente das classes de actividades industriais, áreas para instalação de armazéns e serviços de apoio às actividades produtivas, índice volumétrico, afastamentos das edificações aos limites do lote e faixas de protecção entre edificações industriais, área de parqueamento e forma de acesso aos lotes, sistemas de segurança, tratamento de efluentes, abastecimento de água e energia eléctrica, definindo, se possível, as zonas alimentadas em BT e MT.
 
-4 - Consideram-se desde já, para as áreas industriais da Marinha Pequena, Vieira de Leiria e para a expansão da zona industrial e Marinha Grande, os seguintes indicadores urbanísticos:
+4 - Consideram-se desde já, para as áreas industriais da Marinha Pequena, Vieira de Leiria e para a expansão da zona industrial da Marinha Grande, os seguintes indicadores urbanísticos:
 
 a) Percentagem de ocupação - 50%;
 
@@ -514,6 +554,8 @@ a) O tratamento dos efluentes deverá, quando necessário, ser realizado em esta
 b) Os espaços livres não impermeabilizados serão tratados como espaços verdes arborizados, constituindo uma faixa de protecção e isolamento;
 
 c) Seja respeitada a legislação em vigor em matéria de poluição geral.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30.
 
 ###### Artigo 8.º — Áreas de protecção especial
 
@@ -579,7 +621,7 @@ e) Obtenham os pareceres positivos da Câmara Municipal, da CCRC e da DRARNC;
 
 ###### Artigo 11.º — Da edificabilidade
 
-1 - Nas áreas não urbanizáveis, sem prejuízo das condicionantes associadas a cada área, nomeadamente das Reservas Agrícola e Ecológica Nacionais, e para além dos casos previstos no capítulo anterior e nas áreas de habitat disperso previstas no artigo seguinte, os quais se regem pelas disposições expressas, somente será licenciada a edificação quando esta for destinada à habitação e estiver vinculada à actividade agrícola ou florestal ou de apoio às infra-estruturas, e nas seguintes condições:
+1 - Nas áreas não urbanizáveis, sem prejuízo das condicionantes associadas a cada área, nomeadamente RAN e REN, e para além dos casos previstos no artigo anterior e nas áreas de habitat disperso previstas no artigo seguinte, os quais se regem pelas disposições expressas, somente será licenciada a edificação quando esta for destinada à habitação e estiver vinculada à actividade agrícola ou florestal ou de apoio às infra-estruturas e nas seguintes condições:
 
 a) Só e permitida a edificação de habitação em parcelas de cadastro com dimensão igual ou superior a 0,5 ha;
 
@@ -600,6 +642,8 @@ c) As construções de novos edifícios nas áreas não urbanizáveis não poder
 d) Nas construções com dois pisos, a área de pavimento do piso superior não poderá exceder 60% da área de pavimento do piso térreo ou piso inferior;
 
 e) Exceptuam-se destas duas últimas disposições os silos, depósitos de água e instalações especiais tecnicamente justificadas.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30.
 
 ###### Artigo 12.º — Áreas de habitat disperso ou nucleado
 
@@ -719,7 +763,13 @@ c) A área arqueológica de Pedreanes.
 
 ###### Artigo 17.º — Espaços-canais e outros espaços não urbanizáveis
 
-Aos espaços-canais e outros não urbanizáveis, incluindo os parques de campismo, aplicam-se as condicionantes expressas no título III deste Regulamento.
+1 - Aos espaços-canais e outros não urbanizáveis, incluindo os parques de campismo, aplicam-se as condicionantes expressas no título III deste Regulamento.
+
+2 - É interdita a construção numa faixa de 50 m a partir da vedação das zonas afectas a estações de tratamento de águas residuais, bem como de abertura de poços ou furos ou o estabelecimento de captações de água que se destinem à rega ou consumo doméstico.
+
+3 - A desactivação das estações de tratamento de águas residuais, bem como dos poços ou furos ou das captações de água que se destinam à rega ou consumo doméstico, implica a extinção do condicionalismo do número anterior.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30.
 
 ### CAPÍTULO III — Unidades operativas de planeamento e gestão
 
@@ -873,8 +923,6 @@ b) É interdita a construção ao longo de uma faixa de 1 m, medida para um lado
 
 c) Fora das áreas urbanas é interdita a plantação de árvores ao longo de uma faixa de 10 m, medidos para um e outro lado do traçado das adutoras e condutas distribuidoras de água e colectores de emissários de esgotos;
 
-d) É interdita a construção numa faixa de 200 m, a partir da vedação das zonas afectas a estações de tratamento de águas residuais, bem como de abertura de poços ou furos ou o estabelecimento de captações de água que se destinem à rega ou consumo doméstico.
-
 2 - Em torno das captações subterrâneas consideram-se duas áreas de protecção:
 
 a) Próxima, definida pelo círculo com 50 m em torno da captação, onde não devem existir:
@@ -910,6 +958,8 @@ Indústrias cujos esgotos possam originar poluição importante, tais como as de
 a) Interdição de instalar depósitos de recolha de lixos a menos de 400 m dos limites do perímetro das áreas urbanas;
 
 b) Na faixa de 400 m referida na alínea anterior são apenas permitidas explorações florestais, sendo interdita a abertura de poços, furos ou o estabelecimento de captações de água que se destinem à rega ou ao consumo doméstico.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30.
 
 ###### Artigo 27.º — Servidões do abastecimento de gás - Gasoduto
 
@@ -975,15 +1025,13 @@ f) É interdita a instalação de instalações pecuniárias e todas as outras s
 
 A área da Mata Nacional do Pinhal do Rei assinalada na planta de condicionantes está submetida ao regime florestal sob a gestão do Instituto Florestal e Zona Florestal do Pinhal Litoral da Marinha Grande.
 
-###### Artigo 33.º — Biótopo - Programa Corine
-
-Todas as acções pretendidas na área do biótopo delimitada na planta de condicionantes não previstas no PDM estão sujeitas ao parecer do SNPRCN.
-
-###### Artigo 34.º — Perímetro de rega do Lis
+###### Artigo 33.º — Perímetro de rega do Lis
 
 As áreas do perímetro de rega do Lis regulam-se pelos regimes específicos consagrados na legislação em vigor.
 
-###### Artigo 35.º — Áreas percorridas por incêndios florestais
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30.
+
+###### Artigo 34.º — Áreas percorridas por incêndios florestais
 
 1 - Nos terrenos com povoamentos florestais percorridos por incêndios ficam proibidos, pelo prazo de 10 anos a contar da data do fogo:
 
@@ -1003,37 +1051,39 @@ g) O lançamento de águas residuais industriais ou de uso doméstico ou quaisqu
 
 h) O corte ou colheita de espécies botânicas não cultivadas e a introdução de espécies exóticas, de cultivo ou não;
 
-i) O campismo fora de locais destinados para esse fim.
+i) O campismo fora de locais destinados a esse fim.
 
-2 - A proibição referida no número anterior apenas pode ser levantada mediante despacho conjunto dos Ministros do Planeamento e da Administração do Território, da Agricultura e do Ambiente e Recursos Naturais, sobre pedido fundamentado dos interessados em que se demonstre, nomeadamente, que o incêndio da propriedade em causa se ficou a dever a causas fortuitas a que estes interessados são totalmente alheios.
+2 - A proibição referida no número anterior apenas pode ser levantada mediante despacho conjunto dos Ministros do Planeamento e da Administração do Território, da Agricultura, Pescas e Alimentação e do Ambiente e Recursos Naturais, sobre pedido fundamentado dos interessados em que se demonstre, nomeadamente, que o incêndio da propriedade em causa se ficou a dever a causas fortuitas, a que estes interessados são totalmente alheios.
 
-###### Artigo 36.º — Áreas afectas à exploração de recursos minerais
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30.
 
-1 - Nas áreas de reserva e de salvaguarda à exploração de recursos minerais (pedreiras, estrutura diapírica e exploração abandonada do lignito) não são autorizadas nem previstas acções que pela sua natureza e dimensão inviabilizem o aproveitamento dos recursos existentes.
+###### Artigo 35.º — Áreas afectas à exploração de recursos minerais
 
-2 - Nas zonas de defesa da exploração de pedreiras terão as seguintes faixas de protecção, medidas a partir da bordadura de cada exploração:
+1 - Nas áreas de reserva e de salvaguarda à exploração de recursos minerais (pedreiras, estrutura diapírica e exploração abandonada do lignito), não são autorizadas nem previstas acções que pela sua natureza e dimensão inviabilizem o aproveitamento dos recursos existentes.
 
-a) De 5 m relativamente a prédios rústicos vizinhos, murados ou não;
+2 - Nas zonas de defesa a exploração de pedreiras terá as seguintes faixas de protecção, medidas a partir da bordadura de cada exploração:
 
-b) De 15 m relativamente a caminhos públicos;
+a) De 5 m, relativamente a prédios rústicos vizinhos, murados ou não;
 
-c) De 20 m relativamente a condutas de fluidos, linhas eléctricas de baixa tensão, linhas aéreas de telecomunicações e teleféricos, não integrados na exploração da pedreira;
+b) De 15 m, relativamente a caminhos públicos;
 
-d) De 30 m relativamente a linhas férreas, pontes, rios navegáveis, canais, cabos subterrâneos eléctricos e de telecomunicações, edifícios e locais de uso público;
+c) De 20 m, relativamente a condutas de fluidos, linhas eléctricas de baixa tensão, linhas aéreas de telecomunicações e teleféricos, não integrados na exploração da pedreira;
 
-e) De 50 m relativamente a estradas nacionais ou municipais;
+d) De 30 m, relativamente a linhas férreas, pontes, rios navegáveis, canais, cabos subterrâneos eléctricos e de telecomunicações, edifícios e locais de uso público;
 
-f) De 70 m relativamente a auto-estradas e estradas internacionais;
+e) De 50 m, relativamente a estradas nacionais ou municipais;
 
-g) De 100 m relativamente a monumentos nacionais, locais classificados de valor turístico, instalações e obras das Forças Armadas e forças dos serviços de segurança, escolas e hospitais;
+f) De 70 m, relativamente a auto-estradas e estradas internacionais;
 
-h) De 500 m relativamente a locais ou zonas com valor científico ou paisagístico, e como tal já classificadas pela entidade para o efeito competente;
+g) De 100 m, relativamente a monumentos nacionais, locais classificados de valor turístico, instalações e obras das Forças Armadas e forças dos serviços de segurança, escolas e hospitais;
+
+h) De 500 m, relativamente a locais ou zonas com valor científico ou paisagístico e, como tal, já classificados pela entidade para o efeito competente;
 
 i) A largura da zona de defesa deverá aumentar 1 m por cada metro de desnível que exista entre cada ponto da bordadura da escavação e o objecto a proteger.
 
 3 - Define-se uma faixa non aedificandi de 50 m para as explorações de inertes existentes.
 
-4 - Nas áreas de salvaguarda para exploração são permitidas diferentes formas de ocupação compatíveis com a vocação dos seus solos, desde que licenciadas pela Câmara Municipal.
+4 - Nas áreas de salvaguarda para exploração são permitidas diferentes formas de ocupação compatíveis com a vocação dos seus solos desde que licenciadas pela Câmara Municipal.
 
 5 - Sem prejuízo do disposto nos n.os 1 e 2, as áreas reservadas e a salvaguardar para a exploração dos recursos minerais estão sujeitas aos condicionamentos da legislação em vigor.
 
@@ -1041,38 +1091,240 @@ i) A largura da zona de defesa deverá aumentar 1 m por cada metro de desnível 
 
 Número de trabalhadores - 15;
 
-Potência total dos meios mecânicos utilizados na exploração - 500 cv;
+Potência total dos meios mecânicos utilizados na exploração - 500 cavalos;
 
-Profundidade de escavação - 10 m.
+Profundidade de escavação - 10 m;
 
-b) Tal licenciamento implica a apresentação de planos de lavra e de recuperação paisagística das áreas afectadas pelas explorações que se venham a constituir.
+b) Tal licenciamento implica a apresentação de planos de lavra e de recuperação paisagística das áreas afectadas pelas explorações que se venham a construir.
 
-c) Todas as explorações em que seja ultrapassado um dos limites referidos na alínea a) ou se se tratar de uma exploração subterrânea, o licenciamento é da competência da Delegação Regional da Indústria e Energia.
+c) Todas as explorações em que seja ultrapassado um dos limites referidos na alínea a) ou se tratar de uma exploração subterrânea, o licenciamento é da competência da delegação regional da indústria e energia.
 
 7 - Os proprietários das áreas de exploração de substâncias minerais abandonadas à data da entrada em vigor deste Regulamento estão obrigados a executar as medidas de segurança e recuperação paisagística das áreas afectadas que lhes forem determinadas pela Câmara Municipal.
 
-8 - As coimas aplicadas pelo não cumprimento do disposto no número anterior podem ser elevadas para o dobro em caso de reincidência.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30.
 
-## TÍTULO IV — Da aplicação do Plano
-
-###### Artigo 37.º — Contra-ordenações
+###### Artigo 36.º — Contra-ordenações
 
 Constituem contra-ordenações as infracções ao presente diploma.
 
-###### Artigo 38.º — Coimas e sanções acessórias
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30.
+
+## TÍTULO IV — Da aplicação do Plano
+
+###### Artigo 37.º — Coimas e sanções acessórias
 
 1 - O montante das coimas a aplicar encontra-se fixado no artigo 25.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.
 
 2 - A tentativa e a negligência são puníveis.
 
-3 - As contra-ordenações previstas no artigo anterior podem ainda determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:
+3 - Compete à Câmara Municipal da Marinha Grande a instrução dos processos de contra-ordenação e a aplicação das respectivas coimas e sanções acessórias.
 
-a) A apreensão dos objectos pertencentes ao agente que tenham sido utilizados como instrumentos no cometimento da infracção;
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 153/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-1998-286118), publicado em 1998-12-30.
 
-b) A interdição do exercício, na área do município, até ao máximo de dois anos, da profissão ou actividades conexas com a infracção praticada;
+###### Artigo 38.º — Âmbito e identificação
 
-c) A privação do direito a subsídios outorgados por entidades ou serviços públicos.
+1 - O presente título estabelece as regras aplicáveis às Faixas de Proteção e Salvaguarda, delimitadas na Carta de Ordenamento - Faixas de Proteção e Salvaguarda, as quais prevalecem sobre as demais regras estabelecidas no presente Regulamento.
 
-4 - Compete à Câmara Municipal da Marinha Grande a instrução dos processos de contra-ordenação e a aplicação das respectivas coimas e sanções acessórias.
+2 - As Faixas de Proteção e Salvaguarda da Zona Terrestre de Proteção compreendem as seguintes tipologias:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/04/094b00/22912299.pdf)
+a) Faixa de Proteção Costeira;
+
+b) Faixa de Proteção Complementar;
+
+c) Margem;
+
+d) Faixas de Salvaguarda em Litoral Arenoso - Nível I e Nível II;
+
+e) Faixas de Salvaguarda ao Galgamento e Inundação Costeira - Nível I e Nível II;
+
+f) Faixa de Salvaguarda em Litoral de Arriba Nível I e Áreas de Instabilidade Potencial;
+
+g) Faixas de Salvaguarda em Litoral de Arriba Nível II.
+
+> Alterado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04.
+
+###### Artigo 39.º
+
+Nas faixas de proteção costeira e na Faixa de Proteção Complementar são interditas as seguintes atividades:
+
+a) Destruição da vegetação autóctone e introdução de espécies não indígenas invasoras, nomeadamente aquelas que se encontram listadas na legislação em vigor;
+
+b) Instalação de aterros sanitários, deposição, abandono ou depósito de entulhos, sucatas ou quaisquer outros resíduos fora dos locais para tal destinados;
+
+c) Instalação de quaisquer unidades destinadas ao armazenamento e gestão de resíduos;
+
+d) Rejeição de efluentes de origem doméstica ou industrial, ou quaisquer outros efluentes, sem tratamento de acordo com as normas legais em vigor;
+
+e) Prática de campismo e caravanismo fora dos locais destinados a esse efeito;
+
+f) Outras atividades que alterem o estado das massas de águas ou coloquem esse estado em perigo.
+
+> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04.
+
+###### Artigo 40.º — Regime de Proteção e Salvaguarda
+
+1 - Na Faixa de Proteção Costeira da Zona Terrestre de Proteção, para além das interdições estabelecidas no artigo anterior, são ainda interditas as seguintes atividades:
+
+a) Novas edificações, exceto instalações balneares e marítimas previstas no Regulamento de Gestão das Praias Marítimas da Autoridade Nacional da Água e respetivos Planos de Intervenção nas Praias, bem como núcleos piscatórios, infraestruturas, designadamente de defesa e segurança nacional, equipamentos coletivos, instalações de balneoterapia, talassoterapia e desportivas relacionadas com a fruição do mar, que devam localizar-se nesta faixa e que obtenham o reconhecimento do interesse para o setor pela entidade competente;
+
+b) Ampliação de edificações, exceto das instalações balneares e marítimas previstas no Regulamento de Gestão das Praias Marítimas da Autoridade Nacional da Água e respetivos Planos de Intervenção nas Praias, dos núcleos piscatórios, pisciculturas e infraestruturas e nas situações em que a mesma se destine a suprir ou melhorar as condições de segurança, salubridade e mobilidade;
+
+c) A abertura de novos acessos rodoviários e estacionamentos, fora do solo urbano definido em plano municipal de ordenamento do território, exceto os previstos no Regulamento de Gestão das Praias Marítimas da Autoridade Nacional da Água e respetivos Planos de Intervenção nas Praias;
+
+d) A ampliação de acessos existentes e estacionamentos sobre as praias, dunas, arribas e zonas húmidas, exceto os previstos no Regulamento de Gestão das Praias Marítimas da Autoridade Nacional da Água e respetivos Planos de Intervenção nas Praias e núcleos piscatórios;
+
+e) Alterações ao relevo existente ou rebaixamento de terrenos.
+
+2 - Excecionam-se das interdições previstas nas alíneas a) e b) do número anterior os equipamentos e espaços de lazer previstos em Unidades Operativas de Planeamento e Gestão consagrados no artigo 18.º do presente Regulamento, bem como os direitos preexistentes e juridicamente consolidados, à data da entrada em vigor do POC-OMG.
+
+3 - Na Faixa de Proteção Costeira são permitidas as seguintes ações e atividades, mediante autorização das entidades legalmente competentes:
+
+a) Obras de desobstrução e regularização de linhas de água que tenham por objetivo a manutenção, melhoria ou reposição do sistema de escoamento natural;
+
+b) A realização de projetos de irrigação ou tratamento de águas residuais e desde que não haja alternativa;
+
+c) A implementação de percursos pedonais, cicláveis, para veículos não motorizados, e equestres, desde que acautelados os interesses de salvaguarda do sistema litoral e dos recursos naturais;
+
+d) A realização de obras de requalificação de empreendimentos turísticos existentes e devidamente licenciados, nomeadamente parques de campismo e de caravanismo, acautelando sempre os interesses de salvaguarda do sistema litoral e dos recursos naturais.
+
+> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04.
+
+###### Artigo 41.º — Regime de proteção e salvaguarda
+
+1 - Na Faixa de Proteção Complementar da Zona Terrestre de Proteção, fora das áreas inseridas em perímetro urbano, para além das interdições estabelecidas no artigo 39.º, é ainda interdita a edificação nova, ampliação e infraestruturação, com exceção das seguintes situações:
+
+a) Infraestruturas e equipamentos coletivos, desde que reconhecidos de interesse público pelo sector e apenas quando a sua localização nesta faixa seja imprescindível;
+
+b) Parques de campismo e caravanismo;
+
+c) Estruturas ligeiras relacionadas com a atividade da agricultura, da pesca e da aquicultura, fora da orla costeira;
+
+d) Instalações e infraestruturas previstas no Regulamento de Gestão das Praias Marítimas da Autoridade Nacional da Água e respetivos Planos de Intervenção nas Praias, infraestruturas e núcleos piscatórios;
+
+e) Ampliação de edificações existentes que se destine a suprir ou melhorar as condições de segurança, salubridade e mobilidade;
+
+f) Obras de reconstrução e de alteração, desde que não esteja associado um aumento da edificabilidade;
+
+g) Relocalização de equipamentos, infraestruturas e construções determinada pela necessidade de demolição por razões de segurança relacionadas com a dinâmica costeira, desde que se demonstre a inexistência de alternativas de localização no perímetro urbano e se localize em áreas contíguas a este e fora das Faixas de Salvaguarda;
+
+h) Direitos preexistentes e juridicamente consolidados, à data de entrada em vigor do POC-OMG.
+
+2 - Os edifícios e infraestruturas referidos no número anterior devem observar o seguinte:
+
+a) Respeitar as características das construções existentes, tendo em especial atenção a preservação do património arquitetónico;
+
+b) As edificações, no que respeita à implantação e à volumetria, devem adaptar-se à fisiografia de cada parcela de terreno, respeitar os valores naturais, culturais e paisagísticos, e afetar áreas de impermeabilização que não ultrapassem o dobro da área total de implantação.
+
+3 - Na Faixa de Proteção Complementar é permitida a construção de estações de tratamento de águas residuais (ETAR) quando não contrariem os objetivos do POC-OMG e tenham em consideração a sensibilidade do meio recetor, desde que devidamente autorizadas nos termos da lei e se revistam de interesse público declarado.
+
+> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04.
+
+###### Artigo 42.º — Regime de proteção e salvaguarda
+
+1 - Na margem, para além das interdições estabelecidas para a Zona Terrestre de Proteção, são ainda interditas as seguintes atividades:
+
+a) Equipamentos que não tenham por função o apoio de praia, salvo quando se localizem em perímetro urbano e cumpram com o disposto neste capítulo;
+
+b) Realização de obras de construção ou de ampliação, com exceção das edificações e infraestruturas previstas no Regulamento de Gestão das Praias Marítimas da Autoridade Nacional da Água e respetivos Planos de Intervenção nas Praias e núcleos piscatórios;
+
+c) Prática de atividades passíveis de conduzir ao aumento da erosão, ao transporte de material sólido para o meio hídrico ou que induzam alterações ao relevo existente.
+
+> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04.
+
+###### Artigo 43.º — Identificação
+
+1 - São definidas as seguintes Faixas de Salvaguarda em litoral arenoso:
+
+a) Faixa de Salvaguarda à Erosão Costeira, que se subdivide em:
+
+i) Faixa de Salvaguarda à Erosão Costeira de Nível I;
+
+ii) Faixa de Salvaguarda à Erosão Costeira de Nível II;
+
+b) Faixa de Salvaguarda ao Galgamento e Inundação Costeira, que se subdivide em:
+
+i) Faixa de Salvaguarda ao Galgamento e Inundação Costeira de Nível I;
+
+ii) Faixa de Salvaguarda ao Galgamento e Inundação Costeira de Nível II;
+
+c) Nas faixas de salvaguarda em perímetro urbano, no que respeita ao regime de edificabilidade, são diferenciadas as seguintes áreas:
+
+i) Nível I em frente urbana, entendendo-se como frente urbana a faixa paralela ao mar em perímetro urbano definida pela primeira linha de edificações da frente de mar em perímetro urbano;
+
+ii) Nível I, fora da frente urbana;
+
+iii) Nível II, em perímetro urbano.
+
+> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04.
+
+###### Artigo 44.º — Regime de proteção e salvaguarda
+
+1 - Nas Faixas de Salvaguarda Nível I deve observar-se o seguinte:
+
+a) Fora dos perímetros urbanos, é interdita a realização de operações de loteamento, obras de urbanização, a construção de novas edificações e a ampliação, reconstrução e alteração de edificações existentes, exceto quando se trate de obras de reconstrução e alteração das edificações que se destinem a suprir insuficiências de salubridade, habitabilidade e mobilidade;
+
+b) Em perímetro urbano:
+
+i) Nas frentes urbanas:
+
+1) São interditas operações de loteamento, obras de urbanização, obras de construção e obras de ampliação das edificações existentes, com exceção de obras de ampliação que se destinem a suprir insuficiências de salubridade, habitabilidade ou mobilidade;
+
+2) São permitidas obras de reconstrução ou de alteração das edificações, desde que não originem a criação de caves e de novas unidades funcionais;
+
+ii) Fora das frentes urbanas:
+
+1) As novas edificações, ficam sujeitas ao disposto no Plano de Ordenamento da Orla Costeira Ovar-Marinha Grande, aprovado pela [Resolução do Conselho de Ministros n.º 142/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/142-2000-533814), de 20 de outubro, até 10 de agosto de 2018;
+
+2) Admite-se a reconstrução, a ampliação, a alteração de edificações existentes, desde que tal não se traduza no aumento da sua altura, na criação de caves e de novas unidades funcionais, e não corresponda a um aumento total da área de construção superior a 25 m2, e não constituam mais-valias em situação de expropriação ou aquisição por parte do Estado.
+
+2 - Nas Faixas de Salvaguarda Nível II:
+
+a) Fora dos perímetros urbanos, deve atender-se ao disposto nos artigos 39.º, 40.º, 41.º e 42.º, relativos ao regime de proteção e salvaguarda na Zona Terrestre de Proteção - Faixas de Proteção Costeira e Complementar e Margem;
+
+b) Em perímetro urbano, são admitidas novas edificações, ampliações, reconstruções e alterações das edificações já existentes legalmente construídas, desde que as edificações ou as áreas urbanas onde estas se localizem integrem soluções construtivas ou infraestruturais de adaptação/acomodação ao avanço das águas do mar, que permitam aumentar a resiliência ao avanço das águas, nomeadamente:
+
+i) A utilização de técnicas e materiais construtivos no exterior dos edifícios resistentes à presença de água;
+
+ii) Ao nível do piso térreo das edificações, a previsão de soluções que favoreçam o rápido escoamento das águas;
+
+iii) Na pavimentação dos espaços exteriores devem ser utilizados materiais permeáveis;
+
+iv) Outras que, em sede de projeto, se verifiquem adequadas.
+
+3 - Excetuam-se do disposto no n.º 1 e 2 do presente artigo:
+
+a) Os direitos preexistentes e juridicamente consolidados à data da entrada em vigor do POC-OMG, sem prejuízo da estratégia de adaptação indicada para cada Faixa de Salvaguarda e desde que comprovada a existência de condições de segurança face à ocupação pretendida junto da entidade competente para o efeito, não sendo imputadas à Administração eventuais responsabilidades pela sua localização em área de risco;
+
+b) As operações urbanísticas que se encontrem previstas no Regulamento de Gestão das Praias Marítimas da Autoridade Nacional da Água e respetivos Planos de Intervenção nas Praias e núcleos piscatórios, bem como instalações com características amovíveis/sazonais, desde que as condições específicas do local o permitam.
+
+4 - Nas Faixas de Salvaguarda ao Galgamento e Inundação Costeira são interditas caves abaixo da cota natural do terreno e nas edificações existentes, caso haja alteração de uso, é interdita a utilização destes espaços para fins habitacionais.
+
+> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04.
+
+###### Artigo 45.º — Regime de proteção e salvaguarda
+
+1 - Na Faixa de Salvaguarda em Litoral de Arriba - Nível I e nas Áreas de Instabilidade Potencial, em perímetro urbano, são proibidas novas edificações, a ampliação e a reconstrução das existentes, exceto quando se trate de:
+
+a) Obras de reconstrução exigidas por situações de emergência as quais devem ser objeto de parecer pelas entidades públicas diretamente responsáveis pela área afetada;
+
+b) Obras de reconstrução ou de ampliação que incidam em áreas que tenham sido ou venham a ser objeto de estudos pormenorizados sobre as características geológicas, geotécnicas e evolutivas da arriba e faixa de salvaguarda associada ou de intervenções específicas de estabilização, desde que demonstrem claramente que se encontram asseguradas as condições de segurança exigidas para a ocupação humana dessas áreas;
+
+c) Obras de ampliação referidas na alínea anterior desde que não se traduzam no aumento de cércea, na criação de caves e de novas unidades funcionais e não correspondam a um aumento total da área de construção superior a 25 m2;
+
+d) Obras destinadas à instalação de estacionamentos, acessos e instalações amovíveis ou fixas, localizadas em setores de arriba onde, através de intervenções de estabilização, minimização ou corretivas, tenham sido anulados, minimizados ou atenuados os fenómenos de instabilidade presentes de modo a assegurar as condições de segurança exigidas para a ocupação humana dessas áreas.
+
+2 - Fora dos perímetros urbanos, deve atender-se ao disposto nos artigos 39.º, 40.º e 41.º, relativos ao regime de proteção e salvaguarda na Zona Terrestre de Proteção - Faixas de Proteção Costeira e Complementar.
+
+> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04.
+
+###### Artigo 46.º — Regime de proteção e salvaguarda
+
+1 - Na Faixa de Salvaguarda em Litoral de Arriba - Nível II, em perímetro urbano, são interditas obras de construção ou de ampliação, exceto quando se trate de:
+
+a) Obras de ampliação desde que o edifício não ultrapasse 2 pisos e não se traduzam na criação de caves e de novas unidades funcionais que incidam em áreas que tenham sido ou venham a ser objeto de estudos pormenorizados sobre as características geológicas, geotécnicas e evolutivas da arriba e faixa de risco adjacente ou de intervenções específicas de estabilização, e ainda seja demonstrado que se encontram asseguradas as condições de segurança exigidas para a ocupação humana dessas áreas;
+
+b) Obras destinadas à instalação de estacionamentos, acessos e instalações amovíveis, localizadas em sectores de arriba onde, através de intervenções de estabilização, minimização ou corretivas na arriba, tenham sido anulados, minimizados ou atenuados os fenómenos de instabilidade presentes de modo a assegurar as condições de segurança exigidas para a ocupação humana dessas áreas.
+
+2 - Fora dos perímetros urbanos, deve atender-se ao disposto nos artigos 39.º, 40.º, 41.º, relativos ao regime de proteção e salvaguarda na Zona Terrestre de Proteção - Faixas de Proteção Costeira e Complementar.
+
+> Aditado pelo/a [Aviso n.º 4419/2018](https://diariodarepublica.pt/dr/detalhe/aviso/4419-2018-114969574), publicado em 2018-04-04.

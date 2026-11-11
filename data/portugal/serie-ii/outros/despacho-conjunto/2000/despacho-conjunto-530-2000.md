@@ -28,10 +28,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2022-02-18'
+version_history:
+  file: despacho-conjunto-530-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-05-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-02-18'
+    amending: pt:dre:3117665:por
+    amending_title: Despacho Conjunto n.º 624/2005; Despacho n.º 2132/2022
+    changes:
+    - Adita Artigo depois da unidade 38
+    - Altera Artigo unidades 39-53
+    - Altera Artigo unidades 55-55
+    - Adita Artigo depois da unidade 57
+    - Altera Artigo unidades 59-59
 identifiers:
   celex: null
   eli: null
@@ -57,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T16:05:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Conjunto n.º 624/2005; Despacho
+    n.º 2132/2022. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/outros/despacho-conjunto/2000/despacho-conjunto-530-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,47 +207,51 @@ Os machos castrados com mais de 12 meses de idade.
 
 2.8 - Nos casos em que para a semana do abate não se encontrem definidas cotações para ovinos e caprinos aplicar-se-ão os valores referentes às últimas cotações constantes do Boletim do GPPAA.
 
-2.º - 1 - As indemnizações a atribuir aos produtores avícolas na sequência de abates sanitários são as seguintes:
+1.º-A - Os proprietários dos ovinos e caprinos sujeitos a medidas de imunoprofilaxia obrigatória têm direito ao pagamento de um subsídio por aborto ocorrido, de valor equivalente ao subsídio de auto-repovoamento, desde que a averiguação efectuada pela DRA para o efeito conclua que o mesmo se verificou em consequência da vacinação.
 
-[(ver documento original)](https://files.diariodarepublica.pt/2s/2000/05/113000000/0841108413.pdf)
+1.º-B - A indemnização a atribuir aos produtores de ovinos na sequência de morte decorrente da imunoprofilaxia obrigatória contra a língua azul é o valor constante do boletim semanal divulgado pelo Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) para efeitos de pagamento por indemnização por abate sanitário para a semana em que se efectuou a vacinação, ou, na sua ausência, os valores referentes às últimas cotações constantes do boletim do GPPAA.
 
-2 - Aos montantes referidos no n.º 1 acrescem ainda os seguintes, quando aplicáveis:
+> Aditado pelo/a [Despacho Conjunto n.º 624/2005](https://diariodarepublica.pt/dr/detalhe/despacho-conjunto/624-2005-3117665), publicado em 2005-08-25.
 
-a) Sector de produção de frangos:
+2.º - 1 - As indemnizações a atribuir aos produtores avícolas na sequência de abates sanitários são seguintes:
 
-Valor das rações destruídas - 55$00/kg;
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/02/035000000/0005200053.pdf)
 
-Reforço das operações higio-sanitárias - 70$00/m2;
+2 - As indemnizações são determinadas pela Direção-Geral de Alimentação e Veterinária (DGAV), mediante consulta às cotações de mercado constantes no Sistema de Informação de Mercados Agrícolas (SIMA) do Gabinete de Políticas e Planeamento (GPP), sempre que o preço de mercado para o produtor se revelar inferior às cotações constantes da tabela prevista no número anterior.
 
-Operações de destruição de material infectado, incluindo as aves - 12$00/ave;
+3 - Sem prejuízo do disposto no n.º 1, no caso de espécies avícolas não constantes no SIMA, o valor de indemnização é determinado pela DGAV, mediante avaliação do GPP, que tenha por base o valor de mercado para o produtor.
 
-b) Sector de produção de perus:
+4 - Ao processo de indemnização referido no n.º 1, e sempre que aplicável, acresce ainda o pagamento de 80 % dos montantes relativos a despesas comprovadamente realizadas pelos produtores avícolas, quanto aos seguintes custos:
 
-Valor das rações destruídas - 55$00/kg;
+a) Abate ou eliminação seletiva dos animais e os custos de transporte associados;
 
-Reforço das operações higio-sanitárias - 70$00/m2;
+b) Limpeza e desinfeção de explorações e equipamento;
 
-Operações de destruição de material infectado, incluindo as aves - 12$00/ave;
+c) Transporte e destruição dos alimentos para animais contaminados e equipamento contaminado, caso não possa ser desinfetado;
 
-c) Sector de produção de ovos/galinhas poedeiras:
+d) Transporte e destruição das carcaças.
 
-Valor das rações destruídas - 50$00/kg;
-
-Reforço das operações higio-sanitárias - 90$00/m2;
-
-Operações de destruição de material infectado, incluindo as aves - 12$00/ave.
+> Alterado pelo/a [Despacho n.º 2132/2022](https://diariodarepublica.pt/dr/detalhe/despacho/2132-2022-179323588), publicado em 2022-02-18.
 
 3.º Antes de ser accionado o pagamento de indemnizações por abate sanitário a DRA respectiva, deve proceder a uma averiguação relativamente ao cumprimento pelo proprietário dos animais abatidos das disposições legais relativas aos planos de erradicação e circulação animal, bem assim como medidas específicas de polícia sanitária impostas através de notificação.
 
-4.º Se da averiguação referida no número anterior resultar da constatação de indícios de incumprimento por parte do criador, a DRA deve iniciar de imediato o respectivo processo de contra-ordenação, ficando o pagamento da indemnização pendente da decisão final do processo em causa.
+4.º Se da averiguação referida no número anterior resultar da constatação de indícios de incumprimento por parte do criador, a DGAV deve iniciar de imediato o respetivo processo de contraordenação, ficando o pagamento da indemnização pendente da decisão final do processo em causa.
+
+> Alterado pelo/a [Despacho n.º 2132/2022](https://diariodarepublica.pt/dr/detalhe/despacho/2132-2022-179323588), publicado em 2022-02-18.
 
 5.º Os processos de indemnização devem conter uma declaração emitida pela DRA relativa ao cumprimento pelo proprietário dos animais abatidos das disposições legais relativa aos planos de erradicação, circulação animal e eventuais medidas específicas de polícia sanitária impostas por notificação.
 
 6.º Sem prejuízo de outras penalizações legais a indemnização por abate sanitário compulsivo, poderá não ser atribuída caso se comprove fraude ou incumprimento da legislação sanitária em vigor.
 
+6.º-A - A execução financeira do presente despacho está sujeita ao disposto no [Decreto-Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2014-25343676), de 15 de maio, com as necessárias adaptações.
+
+> Aditado pelo/a [Despacho n.º 2132/2022](https://diariodarepublica.pt/dr/detalhe/despacho/2132-2022-179323588), publicado em 2022-02-18.
+
 7.º O Instituto Nacional de Intervenção e Garantia Agrícola (INGA) procederá à transferência para as DRA das verbas necessárias à execução das medidas estabelecidas no n.º 2.7 do n.º 2.º, com excepção dos custos relativos às indemnizações.
 
-8.º No caso de espécies avícolas não constantes no n.º 2.º, o cálculo do valor de indemnização será determinado pela Direcção-Geral de Veterinária, mediante consulta ao Boletim do GPPAA e, na ausência de qualquer referência, mediante avaliação que tenha por base o valor de mercado.
+8.º - (Revogado.)
+
+> Alterado pelo/a [Despacho n.º 2132/2022](https://diariodarepublica.pt/dr/detalhe/despacho/2132-2022-179323588), publicado em 2022-02-18.
 
 9.º O presente despacho produz efeitos a partir da data da sua publicação.
 

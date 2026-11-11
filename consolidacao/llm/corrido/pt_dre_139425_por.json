@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:139425:por",
+  "substituicoes": [
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "4 - As provisões constituídas em 2002, 2003 e 2004, no âmbito do presente n.º 5.º, poderão ser registadas contra reservas.",
+      "alterador": 2
+    },
+    {
+      "de": 48,
+      "ate": 48,
+      "texto": "5 - O aumento de menos-valias latentes, verificado ao longo do período transitório, deverá ser absorvido durante o mesmo período.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação dos pontos 4 e 5 do n.º 5.º - unidade 48 substituída; unidade 47 depois substituída pelo alterador 2.",
+    "Alterador 2, 1.º: nova redação do ponto 4 do n.º 5.º - unidade 47 substituída.",
+    "Alterador 3: altera o aviso n.º 12/92, não o original - ignorado.",
+    "Alteradores 4 e 5: avisos sem qualquer instrução dirigida ao original - ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

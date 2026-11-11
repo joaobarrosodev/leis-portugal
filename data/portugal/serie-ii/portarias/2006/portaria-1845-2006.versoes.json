@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:2989050:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-12-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7a6e93696a2cf910"
+   ]
+  },
+  {
+   "date": "2007-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3632756:por",
+     "title": "Portaria n.º 1216/2007",
+     "published": "2007-12-31",
+     "dre_path": "/dr/detalhe/portaria/1216-2007-3632756"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 13-30"
+   ],
+   "fragments": [
+    "b2a24bca1318ea7b"
+   ]
+  }
+ ],
+ "fragments": {
+  "7a6e93696a2cf910": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando a crescente necessidade de troca de informações entre todos os órgãos, serviços e organismos integrados na área da justiça, bem como a necessária e urgente disponibilização ao cidadão de acesso fácil e conveniente à informação existente, foi implementada, a partir do ano 2000, a Rede de Comunicações da Justiça (RCJ), Rede esta que racionaliza meios por partilha e inovação tecnológica, e garante:\n\nA) O acesso do cidadão à informação dispersa pelos organismos do Ministério;\n\nB) Os serviços básicos de rede a todos os órgãos, serviços e organismos integrados na área da justiça (Internet, correio electrónico, nomes de domínios, serviços www, intranet);\n\nC) A utilização de aplicações de carácter horizontal sem custos adicionais;\n\nD) Uma acentuada melhoria da qualidade e do débito no transporte da informação;\n\nE) Uma significativa diminuição dos custos globais das comunicações.\n\nAtenta a publicação do [Decreto-Lei n.º 1/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2005-457213), de 4 de Janeiro, que estabelece regras específicas para a aquisição de bens, serviços e redes de comunicações electrónicas, equipamentos e serviços conexos, e impõe designadamente a necessidade de serem revistas todas as contratações existentes neste âmbito, torna-se necessário proceder a novas contratações para os serviços de suporte à RCJ, no que respeita aos serviços de comunicações electrónicas de transmissão de dados e acesso à Internet.\n\nConsiderando que a infra-estrutura em que assenta a RCJ e a sua gestão impõe soluções uniformizadas dos circuitos e serviços que a suportam e atendendo a que uma solução centralizada implica a obtenção de condições mais vantajosas, entende-se adequado utilizar o mecanismo de agrupamento de entidades adjudicantes, previsto no artigo 26.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho.\n\nPara o efeito, prevê-se o lançamento de um concurso público tendente à aquisição de serviços de transmissão de dados e acesso à Internet para os próximos três anos, tornando-se necessária a competente autorização para a assunção e repartição dos respectivos encargos.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, manda o Governo, pelos Ministros de Estado e das Finanças e da Justiça, o seguinte:\n\n1 - Fica autorizado o agrupamento de entidades adjudicantes constituído pelo Instituto das Tecnologias de Informação na Justiça (ITIJ), na qualidade de representante do agrupamento, a Secretaria-Geral do Ministério da Justiça (SGMJ), a Inspecção-Geral dos Serviços de Justiça (IGSJ), o Gabinete de Política Legislativa e Planeamento (GPLP), o Gabinete de Relações Internacionais, Europeias e de Cooperação (GRIEC), a Direcção-Geral da Administração da Justiça (DGAJ), a Direcção-Geral da Administração Extrajudicial (DGAE), a Direcção-Geral dos Serviços Prisionais (DGSP), a Direcção-Geral dos Registos e do Notariado (DGRN), o Instituto de Gestão Financeira e Patrimonial da Justiça (IGFPJ), o Instituto de Reinserção Social (IRS), o Instituto Nacional de Medicina Legal (INML), os Serviços Sociais do Ministério da Justiça (SSMJ), a Polícia Judiciária (PJ) e o Centro de Estudos Judiciários (CEJ) a iniciar um procedimento prévio à contratação, de concurso público para a aquisição de serviços de comunicações electrónicas de transmissão de dados e acesso à Internet, até ao montante de Euro 15 366 942, a que acresce o IVA à taxa legal em vigor, que envolve despesa em anos económicos diferentes, repartida pelos diversos organismos, e de acordo com a seguinte distribuição e escalonamento:\n\nEntidade ... 2006 ... 2007 ... 2008\n\nInstituto das Tecnologias de Informação na Justiça ... 3 801 653 ... 3 801 653 ... 3 801 653\n\nSecretaria-Geral do Ministério da Justiça ... 4 959 ... 4 959 ... 4 959\n\nInspecção-Geral dos Serviços de Justiça ... 4 132 ... 4 132 ... 4 132\n\nGabinete de Política Legislativa e Planeamento ... 9 091 ... 9 091 ... 9 091\n\nGabinete de Relações Internacionais, Europeias e de Cooperação ... 3 306 ... 3 306 ... 3 306\n\nDirecção-Geral da Administração da Justiça ... 82 645 ... 82 645 ... 82 645\n\nDirecção-Geral da Administração Extrajudicial ... 57 851 ... 57 851 ... 57 851\n\nDirecção-Geral dos Serviços Prisionais ... 165 289 ... 165 289 ... 165 289\n\nDirecção-Geral dos Registos e do Notariado ... 619 835 ... 619 835 ... 619 835\n\nInstituto de Gestão Financeira e Patrimonial da Justiça ... 8 264 ... 8 264 ... 8 264\n\nInstituto de Reinserção Social ... 148 760 ... 148 760 ... 148 760\n\nInstituto Nacional de Medicina Legal ... 16 529 ... 16 529 ... 16 529\n\nServiços Sociais do Ministério da Justiça ... 8 264 ... 8 264 ... 8 264\n\nPolícia Judiciária ... 181 818 ... 181 818 ... 181 818\n\nCentro de Estudos Judiciários ... 9 917 ... 9 917 ... 9 917\n\nTotal ... 5 122 313 ... 5 122 313 ... 5 122 313\n\n2 - A importância fixada para cada ano pode ser acrescida do saldo apurado no ano que antecede.\n\n3 - Os encargos decorrentes da presente portaria são suportados por verbas adequadas a inscrever nos orçamentos de cada uma das entidades adjudicantes que compõe o agrupamento.\n\n21 de Junho de 2006. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Justiça, Alberto Bernardes Costa."
+  },
+  "b2a24bca1318ea7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2007-12-31",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1216/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1216-2007-3632756), publicado em 2007-12-31."
+   ],
+   "markdown": "Considerando a crescente necessidade de troca de informações entre todos os órgãos, serviços e organismos integrados na área da justiça, bem como a necessária e urgente disponibilização ao cidadão de acesso fácil e conveniente à informação existente, foi implementada, a partir do ano 2000, a Rede de Comunicações da Justiça (RCJ), Rede esta que racionaliza meios por partilha e inovação tecnológica, e garante:\n\nA) O acesso do cidadão à informação dispersa pelos organismos do Ministério;\n\nB) Os serviços básicos de rede a todos os órgãos, serviços e organismos integrados na área da justiça (Internet, correio electrónico, nomes de domínios, serviços www, intranet);\n\nC) A utilização de aplicações de carácter horizontal sem custos adicionais;\n\nD) Uma acentuada melhoria da qualidade e do débito no transporte da informação;\n\nE) Uma significativa diminuição dos custos globais das comunicações.\n\nAtenta a publicação do [Decreto-Lei n.º 1/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2005-457213), de 4 de Janeiro, que estabelece regras específicas para a aquisição de bens, serviços e redes de comunicações electrónicas, equipamentos e serviços conexos, e impõe designadamente a necessidade de serem revistas todas as contratações existentes neste âmbito, torna-se necessário proceder a novas contratações para os serviços de suporte à RCJ, no que respeita aos serviços de comunicações electrónicas de transmissão de dados e acesso à Internet.\n\nConsiderando que a infra-estrutura em que assenta a RCJ e a sua gestão impõe soluções uniformizadas dos circuitos e serviços que a suportam e atendendo a que uma solução centralizada implica a obtenção de condições mais vantajosas, entende-se adequado utilizar o mecanismo de agrupamento de entidades adjudicantes, previsto no artigo 26.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho.\n\nPara o efeito, prevê-se o lançamento de um concurso público tendente à aquisição de serviços de transmissão de dados e acesso à Internet para os próximos três anos, tornando-se necessária a competente autorização para a assunção e repartição dos respectivos encargos.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, manda o Governo, pelos Ministros de Estado e das Finanças e da Justiça, o seguinte:\n\n1 - Fica autorizado o agrupamento de entidades adjudicantes constituído pelo Instituto das Tecnologias de Informação na Justiça, I.P. (ITIJ), na qualidade de representante do agrupamento, a Secretaria-Geral do Ministério da Justiça (SGMJ), a Inspecção-Geral dos Serviços de Justiça (IGSJ), a Direcção-Geral de Política da Justiça (DGPJ), a Direcção-Geral da Administração da Justiça (DGAJ), o Gabinete para a Resolução Alternativa de Litígios (GRAL), a Direcção-Geral dos Serviços Prisionais (DGSP), a Direcção-Geral da Reinserção Social (DGRS), o Instituto dos Registos e do Notariado, I.P. (IRN), o Instituto de Gestão Financeira e de Infra-estruturas na Justiça, I.P. (IGFIJ), o Instituto Nacional de Medicina Legal, I.P. (INML), a Polícia Judiciária (PJ) e o Centro de Estudos Judiciários (CEJ), à aquisição de serviços de comunicações electrónicas de transmissão de dados e acesso à Internet, pelo período de três anos (36 meses), que envolve despesa nos anos económicos de 2007, 2008, 2009 e 2010, repartida pelos diversos organismos, de acordo com os seguintes limites máximos, distribuição e escalonamento, a que acresce o IVA à taxa legal em vigor:\n\n[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/12/251000000/3817638177.pdf)\n\n> Alterado pelo/a [Portaria n.º 1216/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1216-2007-3632756), publicado em 2007-12-31.\n\n2 - A importância fixada para cada ano pode ser acrescida do saldo apurado no ano que antecede.\n\n3 - Os encargos decorrentes da presente portaria são suportados por verbas adequadas a inscrever nos orçamentos de cada uma das entidades adjudicantes que compõe o agrupamento.\n\n21 de Junho de 2006. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Justiça, Alberto Bernardes Costa."
+  }
+ }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:621157:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Os alteradores 1 a 7 desclassificam, reclassificam, alteram a área/designação/categoria ou fixam zonas especiais de proteção de imóveis classificados pelo Decreto n.º 2/96 (listas dos anexos I a III, que não vêm em texto, e plantas só em imagem); não há instrução de alteração textual dos artigos 1.º a 4.º.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 403/2010): desclassificação de edifício na Calçada das Necessidades; não textual.",
+    "Alterador 2 (Decreto 31-G/2012): reclassificação do Casal de Santa Maria como monumento nacional; não textual.",
+    "Alterador 3 (Portaria 320/2013): fixação da ZEP da Casa da Breia; não textual.",
+    "Alterador 4 (Portaria 132/2014): alteração de área, designação e categoria da Quinta do Beau-Séjour; não textual (anexo II não vem em texto).",
+    "Alterador 5 (Portaria 185/2015): desclassificação de edifício na Av. 5 de Outubro; não textual.",
+    "Alterador 6 (Decreto 5/2018): reclassificação do Palace Hotel do Buçaco; não altera o texto do artigo 2.º do original.",
+    "Alterador 7 (Portaria 196/2021): revisão da classificação da Vila Berta e ZEP; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

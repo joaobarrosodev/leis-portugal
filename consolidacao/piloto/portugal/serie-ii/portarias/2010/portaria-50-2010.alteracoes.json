@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 4-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Neste contexto, torna-se necessário decidir acerca da prorrogação da comissão de serviço do inspector José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL através da portaria n.º 193/2007, de 22 de Janeiro, publicada no Diário da República, 2.ª série, n.º 27, de 7 de Fevereiro de 2007.",
+    "depois": "Neste contexto, torna-se necessário decidir acerca da prorrogação da comissão de serviço do inspector António José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL através da portaria n.º 193/2007, de 22 de Janeiro, publicada no Diário da República, 2.ª série, n.º 27, de 7 de Fevereiro de 2007.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2149929:por",
+    "alterador": "pt:dre:2224247:por"
+  },
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "É prorrogada, a partir de 22 de Janeiro de 2010 e por um período de três anos, a comissão de serviço do inspector José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL pela portaria n.º 193/2007, de 22 de Janeiro.",
+    "depois": "É prorrogada, a partir de 22 de Janeiro de 2010 e por um período de três anos, a comissão de serviço do inspector António José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL pela portaria n.º 193/2007, de 22 de Janeiro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2149929:por",
+    "alterador": "pt:dre:2224247:por"
+  }
+]

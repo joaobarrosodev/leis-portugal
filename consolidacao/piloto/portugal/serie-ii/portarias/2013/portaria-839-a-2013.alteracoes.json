@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 10-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Fica o Fundo de Reabilitação e Conservação Patrimonial autorizado a comparticipar nos encargos relativos ao contrato de financiamento a celebrar com o Centro Hospitalar Psiquiátrico de Lisboa, respeitante ao apoio financeiro a conceder destinado às operações de beneficiação do sistema de aquecimento daquele Centro, no montante global de (euro) 379 305,95, com IVA incluído à taxa legal em vigor.\n\n2.º Os encargos orçamentais para o Fundo de Reabilitação e Conservação Patrimonial decorrentes da assinatura do contrato de financiamento acima referido são repartidos da seguinte forma:\n\na) Em 2013 - (euro) 207 562,50, com IVA incluído à taxa legal em vigor;\n\nb) Em 2014 - (euro) 171 743,45, com IVA incluído à taxa legal em vigor.",
+    "depois": "1 - Fica o fundo de Reabilitação e Conservação Patrimonial autorizado a comparticipar nos encargos relativos ao contrato de financiamento a celebrar com o Centro Hospitalar Psiquiátrico de Lisboa, respeitante ao apoio financeiro a conceder destinado à empreitada de beneficiação do sistema de aquecimento central daquele Centro Hospitalar, no montante global de (euro) 410.327,75, incluído o IVA à taxa legal em vigor.\n\n2 - Os encargos orçamentais para o Fundo de Reabilitação e Conservação Patrimonial decorrentes da assinatura do contrato de financiamento acima referido são reportados da seguinte forma:\n\na) Em 2014 - (euro) 67.534,32, incluído o IVA à taxa legal em vigor;\n\nb) Em 2015 - (euro) 342.793,42, incluído o IVA à taxa legal em vigor.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3160892:por",
+    "alterador": "pt:dre:67267074:por"
+  },
+  {
+    "artigo": "unidades 15-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Os encargos orçamentais para o Centro Hospitalar Psiquiátrico de Lisboa decorrentes da execução do contrato acima referido são repartidos da seguinte forma:\n\nEm 2013 - (euro) 69 187,50, IVA incluído à taxa legal em vigor;\n\nEm 2014 - (euro) 57 247,82, IVA incluído à taxa legal em vigor.\n\n5.º Os encargos financeiros deste contrato previstos no n.º 4 são satisfeitos, em 2013 e 2014, por verbas inscritas no orçamento de funcionamento do Centro Hospitalar Psiquiátrico de Lisboa.\n\n6.º O saldo que eventualmente venha a ser apurado em 2013 pode transitar para 2014.",
+    "depois": "4 - Os encargos orçamentais para o Centro Hospitalar Psiquiátrico de Lisboa decorrentes da execução dos contratos celebrados, serão repartidos da seguinte forma:\n\na) Em 2014 - (euro) 22.511,45, incluído o IVA à taxa legal em vigor;\n\nb) Em 2015 - (euro) 114.264,47, incluído o IVA à taxa legal em vigor.\n\n5 - Os encargos financeiros deste contrato previstos no n.º 4 são satisfeitos, em 2014 e 2015, por verbas inscritas no orçamento de funcionamento do Centro Hospitalar Psiquiátrico de Lisboa.\n\n6 - O saldo que eventualmente venha a ser apurado em 2014 pode transitar para 2015.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3160892:por",
+    "alterador": "pt:dre:67267074:por"
+  }
+]

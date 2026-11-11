@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.282 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.317 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -43,6 +43,16 @@ Os 11 passaram a verificação às cegas, mas o `acervo.py` recusava-os por duas
 ### 4. Nunca chegam à verificação
 
 Em todas as filas, uma fatia grande das respostas do LLM é "sem alterações" ao texto: alteradores que só trocam anexos em imagem, revogam o diploma por inteiro, prorrogam prazos ou mudam nomes de entidades. Não são falhas do método; são diplomas cujo texto, por escrito, não muda. Ficam como informação para a vigência.
+
+### 5. Alteradores que não estavam no acervo: ronda 80 (11/11/2026)
+
+Na escala, 867 diplomas ficavam "sem texto do alterador": um dos alteradores não estava no acervo (1.088 diplomas diferentes, quase todos da 2.ª série: avisos, portarias e despachos) ou só tinha metadados. Recolheram-se 998 dos 1.088: 164 pelo id nos sitemaps do DRE e 834 pela nota do DRE (tipo, número e ano), confirmados no próprio DRE; 912 com texto e 86 só com metadados. Ficaram por recolher 62 cuja nota não dá um número utilizável (avisos de 1961 a 1975, "AV.DD…") e 28 só com número, sem id do DRE.
+
+A triagem refeita mudou só os 631 diplomas com um alterador novo: **412 sem alteração ao texto** (o original já é o texto em vigor), 84 para o LLM, 4 aplicados por regra, 3 revogados por inteiro e 126 ainda sem texto do alterador. Nenhum outro diploma mudou de estado.
+
+Os 88 com instruções seguiram o fluxo normal: 50 em 17 pedidos completos (`llm_completo.py`) e 34 em 9 de texto corrido (`llm_corrido.py`), 26 subagentes Opus; a verificação letra a letra juntou 57. **6 saíram à mão** (estado `não junto` em `llm/juntados-completo.jsonl`, com o motivo): 5 que o LLM devolveu com todos os artigos "(Revogado.)" por um alterador que revoga o diploma inteiro (RCM 85/95, 92/94, 136/95 e 144/95, Portaria 780/99), que são "revogado por inteiro" e não uma consolidação, e a RCM 116/94, com uma revogação que só produz efeito quando o plano de pormenor entrar em vigor. Ronda 80 (`verificacao/entrada-piloto-80-lote-01..02.jsonl`, 25 vistas, verificadores Sonnet às cegas): 55 diplomas, **35 sem reparos**, que estão agora em `data/`. Os 20 com reparos são sobretudo anexos e quadros só em imagem, cabeçalhos de secção em falta e um artigo substituído que ficou duplicado (Despacho 2037/2026).
+
+**Correção no `acervo.py`:** um diploma da escala que também estava no piloto (Despacho 1941-A/2014) usava a seleção do piloto, em que o alterador ainda não estava no acervo. Agora um juntado da escala usa a seleção da escala (`_selecao_de`).
 
 ## Resultado em resumo
 

@@ -1,0 +1,912 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:692270:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-10-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1055a7ad97d6c012",
+    "dc13d222b43b1610",
+    "23836370ae405d04",
+    "047b1cbae57eb5b0",
+    "cd9e6dd9bb7e256b",
+    "1791150bfd1a98f9",
+    "698619f2659c39ca",
+    "00bee9ac579376b8",
+    "b1c0c5178822240f",
+    "c4a366d5bdebece6",
+    "b865f82705b79e37",
+    "8e9e7ffbd807d319",
+    "c38f1f2d3dae99c5",
+    "f67d21c80bd8d2da",
+    "b9f0cbf438dacdcb",
+    "586d54ee11d00eec",
+    "3a7ef4b1bfd83a79",
+    "354bdf959143e38d",
+    "d87a40940a53e07b",
+    "5e864aec641e7190",
+    "40abdfae058121cd",
+    "3aeaffdbaf3b4ddc",
+    "c2225cbe2a7d701e",
+    "8614bd952a9b9c6d",
+    "3cc58b009e418d6f",
+    "d3cfbb9105357715",
+    "446ccd84c091fd68",
+    "6dff728e1510796a",
+    "7710a8e798e7c073",
+    "948d45a1fa4d900f",
+    "5b1c2eda9f52e08a",
+    "e6a9fae1b84cd609",
+    "ba657eb7f3460051",
+    "7d77398320907b05",
+    "e11eec2e7cc5e05e",
+    "d041004b931232bf",
+    "e9157eff9134c6df",
+    "a932084e1bc09a72",
+    "aab842c0797af817",
+    "ccf99f6c8f8cbf00",
+    "1908cd39f19ad070",
+    "8913f3b8d0dbcadb",
+    "674d657a3e259006",
+    "2b3038095cd56fcc",
+    "ddf3324052c465e3",
+    "5817abfa6a007545",
+    "177eb8875fff9d09",
+    "80fa5e3464a46e1d",
+    "dbf017d3d9631826",
+    "c9ee64bb2192bf88",
+    "7c48027dacdf82bb",
+    "33bdb140f76c615f",
+    "8ff01126d0e33d48",
+    "ecf3e837c3689b36",
+    "29f150ff27848386",
+    "12ce1173a10aaf97",
+    "1da073f4a107d4de",
+    "6a7887b8f2ab69e2",
+    "bd1c223a50635129",
+    "2ba1b1e9c11cc232",
+    "6cd7b8beb59032d4",
+    "d9e0c04fc85e66d5",
+    "e365581e2d80879a",
+    "9ea5454d5ef2cd24",
+    "0457c1e74515e997",
+    "4f67c020491bdec7",
+    "548d50af7e0d32ee",
+    "ee7c153f46923721",
+    "5ff39a406d3f6377",
+    "3f762c2555e5bac4",
+    "9ef6fe495758e49d",
+    "af6c73fe735463c6",
+    "af54b239f2a8c613",
+    "311db9413ccbcaf5",
+    "437c220c52520ada",
+    "c06897400ff1e200",
+    "5ea2ac7d0dfd3451",
+    "60d19ff137d5b6df",
+    "b6ce1e5f6c0fe5fc",
+    "53353707d4a2399c"
+   ]
+  },
+  {
+   "date": "2011-01-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1859584:por",
+     "title": "Aviso n.º 2649/2011",
+     "published": "2011-01-25",
+     "dre_path": "/dr/detalhe/aviso/2649-2011-1859584"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 42.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 50.º",
+    "Altera Artigo 52.º",
+    "Altera Artigo 53.º"
+   ],
+   "fragments": [
+    "1055a7ad97d6c012",
+    "dc13d222b43b1610",
+    "23836370ae405d04",
+    "047b1cbae57eb5b0",
+    "cd9e6dd9bb7e256b",
+    "1791150bfd1a98f9",
+    "698619f2659c39ca",
+    "00bee9ac579376b8",
+    "b1c0c5178822240f",
+    "c4a366d5bdebece6",
+    "b865f82705b79e37",
+    "8e9e7ffbd807d319",
+    "c38f1f2d3dae99c5",
+    "f67d21c80bd8d2da",
+    "b9f0cbf438dacdcb",
+    "586d54ee11d00eec",
+    "3a7ef4b1bfd83a79",
+    "354bdf959143e38d",
+    "d87a40940a53e07b",
+    "5e864aec641e7190",
+    "40abdfae058121cd",
+    "3aeaffdbaf3b4ddc",
+    "c2225cbe2a7d701e",
+    "8614bd952a9b9c6d",
+    "3cc58b009e418d6f",
+    "d3cfbb9105357715",
+    "446ccd84c091fd68",
+    "6dff728e1510796a",
+    "7710a8e798e7c073",
+    "948d45a1fa4d900f",
+    "5b1c2eda9f52e08a",
+    "e6a9fae1b84cd609",
+    "ba657eb7f3460051",
+    "7d77398320907b05",
+    "e11eec2e7cc5e05e",
+    "d041004b931232bf",
+    "e9157eff9134c6df",
+    "a932084e1bc09a72",
+    "aab842c0797af817",
+    "ccf99f6c8f8cbf00",
+    "1908cd39f19ad070",
+    "8913f3b8d0dbcadb",
+    "674d657a3e259006",
+    "2b3038095cd56fcc",
+    "ddf3324052c465e3",
+    "5817abfa6a007545",
+    "177eb8875fff9d09",
+    "80fa5e3464a46e1d",
+    "dbf017d3d9631826",
+    "c9ee64bb2192bf88",
+    "7c48027dacdf82bb",
+    "33bdb140f76c615f",
+    "8ff01126d0e33d48",
+    "666ecb253d739899",
+    "29f150ff27848386",
+    "12ce1173a10aaf97",
+    "1da073f4a107d4de",
+    "6a7887b8f2ab69e2",
+    "bd1c223a50635129",
+    "2ba1b1e9c11cc232",
+    "6cd7b8beb59032d4",
+    "18180ee43203d1b6",
+    "6d390ece077c498e",
+    "c988248b3739ee41",
+    "f5cc8ac81179ba52",
+    "4f67c020491bdec7",
+    "548d50af7e0d32ee",
+    "57365871583375c7",
+    "58c23460a3c62c87",
+    "3f762c2555e5bac4",
+    "9ef6fe495758e49d",
+    "af6c73fe735463c6",
+    "af54b239f2a8c613",
+    "311db9413ccbcaf5",
+    "437c220c52520ada",
+    "c06897400ff1e200",
+    "5ea2ac7d0dfd3451",
+    "60d19ff137d5b6df",
+    "b6ce1e5f6c0fe5fc",
+    "53353707d4a2399c"
+   ]
+  }
+ ],
+ "fragments": {
+  "1055a7ad97d6c012": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia Municipal de Sousel aprovou, em 24 de Setembro de 1997, o seu Plano Director Municipal.\n\nNa sequência desta aprovação, a Câmara Municipal respectiva iniciou o processo de ratificação daquele instrumento de planeamento, conforme dispõe o n.º 5 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, na redacção que lhe foi dada pelo [Decreto-Lei n.º 155/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1997-164053), de 24 de Junho.\n\nForam cumpridas todas as formalidades exigidas pelo [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, alterado pelos Decretos-Leis n.os [211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, e [155/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1997-164053), de 24 de Junho, designadamente no que se refere ao inquérito público.\n\nVerifica-se a conformidade do Plano Director Municipal de Sousel com as disposições legais e regulamentares em vigor, com excepção do disposto nos n.os 6 a 13 do artigo 23.º do Regulamento, em virtude de violarem o regime da Reserva Ecológica Nacional estabelecido no [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, na redacção introduzida pelos Decretos-Leis n.os [213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro, e [79/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1995-223811), de 20 de Abril.\n\nDe notar que a referência aos espaços culturais efectuada no artigo 15.º do Regulamento deve ser entendida nos termos consignados na alínea g) do n.º 1 do artigo 28.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.\n\nDe assinalar que a referência ao [Decreto-Lei n.º 380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), de 26 de Setembro, constante do n.º 1 do artigo 17.º do Regulamento, deverá ser reconduzida ao [Decreto-Lei n.º 222/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1998-424689), de 17 de Julho, o qual procedeu à sua revogação.\n\nImporta salientar que a referência feita na epígrafe do artigo 30.º do Regulamento e na legenda da planta de condicionantes a «áreas afectas à exploração de inertes» deve ser entendida como reportada a «áreas afectas à exploração de massas minerais».\n\nDe notar que a menção no n.º 3 do artigo 31.º do Regulamento a «imóveis de interesse público» deve considerar-se como reportada a imóveis classificados e em vias de classificação.\n\nCumpre referir que o património arqueológico dispõe de um regime de protecção específico previsto nos artigos 36.º a 42.º da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho, o qual deverá ser observado no licenciamento de obras particulares nas áreas identificadas de interesse arqueológico constantes da alínea c) do n.º 1 do artigo 58.º do Regulamento.\n\nDeve também assinalar-se que o disposto nos n.os 2 a 4 do artigo 58.º do Regulamento só poderá ser aplicado aos imóveis classificados e em vias de classificação constantes das alíneas a) e b) do n.º 1 daquele preceito.\n\nDe notar que na aplicação do disposto no n.º 3 do artigo 59.º do Regulamento deverá observar-se o preceituado no regime jurídico da Reserva Ecológica Nacional previsto nos diplomas anteriormente identificados.\n\nNa aplicação prática do Plano há ainda a considerar as servidões e restrições de utilidade pública, constantes da planta de condicionantes, a qual, embora não seja publicada, constitui elemento fundamental do Plano.\n\nO Plano Director Municipal de Sousel foi objecto de parecer favorável da comissão técnica que, nos termos da legislação em vigor, acompanhou a sua elaboração.\n\nEste parecer favorável está consubstanciado no relatório final daquela comissão, subscrito por todos os representantes dos serviços da administração central que a compõem.\n\nConsiderando o disposto no [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, alterado pelos Decretos-Leis n.os [211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, e [155/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1997-164053), de 24 de Junho:\n\nAssim:\n\nNos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Ratificar o Plano Director Municipal de Sousel.\n\n2 - Excluir de ratificação os n.os 6 a 13 do artigo 23.º do Regulamento do Plano.\n\nPresidência do Conselho de Ministros, 8 de Outubro de 1999. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nREGULAMENTO DO PLANO DIRECTOR MUNICIPAL DE SOUSEL"
+  },
+  "dc13d222b43b1610": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO I — Disposições gerais e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Disposições gerais e definições"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "047b1cbae57eb5b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito territorial\n\n1 - O Plano Director Municipal de Sousel, adiante designado por Plano, constitui o instrumento definidor das linhas gerais da política de ordenamento e de gestão do território sob jurisdição municipal.\n\n2 - O Regulamento do Plano Director Municipal de Sousel, adiante designado por Regulamento, estabelece as principais regras a que devem obedecer a ocupação, uso e transformação do território municipal para as classes de espaços delimitadas na planta de ordenamento e define o regime geral de ocupação do solo pela construção e o parcelamento da propriedade rústica e urbana.\n\n3 - O Regulamento é aplicável na totalidade do território do município, sem prejuízo do estabelecido na lei geral ou especial em vigor."
+  },
+  "cd9e6dd9bb7e256b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos do plano director municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos do plano director municipal\n\nConstituem objectivos do Plano Director Municipal de Sousel:\n\n1) Concretizar uma política de ordenamento do território que garanta as condições para um desenvolvimento sócio-económico equilibrado;\n\n2) A definição dos princípios e regras de uso, ocupação e transformação do solo que consagrem uma utilização racional do espaço;\n\n3) A promoção de uma gestão criteriosa dos recursos naturais que assente na salvaguarda dos seus valores e melhoria da qualidade de vida das populações;\n\n4) A compatibilização das diversas intervenções sectoriais;\n\n5) A definição de indicadores para outros níveis de planeamento de carácter municipal;\n\n6) Servir de enquadramento à elaboração de planos de actividades do município."
+  },
+  "1791150bfd1a98f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Composição do Plano Director Municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição do Plano Director Municipal\n\n1 - O Plano é composto por elementos fundamentais, elementos complementares e anexos escritos e desenhados.\n\n2 - São elementos fundamentais:\n\na) O Regulamento;\n\nb) A planta de ordenamento, à escala de 1/25000, complementada com:\n\nb1) Carta de património;\n\nb2) Perímetros urbanos dos aglomerados, à escala de 1/5000;\n\nc) A planta de condicionantes, à escala de 1/25000, que inclui a Reserva Agrícola Nacional, a Reserva Ecológica Nacional, servidões administrativas, restrições de utilidade pública e outras áreas a proteger.\n\n3 - São elementos complementares:\n\na) O relatório;\n\nb) A carta de enquadramento, às escalas de 1/250000 e de 1/100000.\n\n4 - São elementos anexos:\n\na) Caracterização biofísica;\n\nb) Caracterização urbanística;\n\nc) Caracterização/património;\n\nd) Caracterização sócio-demográfica;\n\ne) Caracterização económica."
+  },
+  "698619f2659c39ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Vigência\n\n1 - O Plano Director Municipal de Sousel deverá ser revisto ao fim de 10 anos.\n\n2 - O presente Regulamento entra em vigor na data da sua publicação no Diário da República."
+  },
+  "00bee9ac579376b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Natureza jurídica\n\n1 - O Plano reveste a natureza de regulamento administrativo, sendo as respectivas disposições de cumprimento obrigatório em todas as intervenções de iniciativa pública ou privada, sem prejuízo do estabelecido na lei geral ou especial.\n\n2 - Na ausência de instrumentos de implementação do Plano, elaborados segundo a legislação em vigor, as orientações e as disposições deste terão aplicação directa.\n\n3 - Qualquer acção de violação do Plano constitui contra-ordenação punível nos termos da legislação em vigor."
+  },
+  "b1c0c5178822240f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Definições"
+  },
+  "c4a366d5bdebece6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Definições\n\nPara efeitos de aplicação deste Regulamento adoptaram-se os seguintes conceitos urbanísticos:\n\n1 - Índice de construção (ic) - quociente entre o somatório da área de pavimentos e a área total do terreno que serve de base à operação;\n\n2 - Densidade populacional (dp) - quociente entre a população e a área de solo que ela utiliza para o uso habitacional, expressa em habitantes por hectare;\n\n3 - Índice de implantação (ii) - quociente entre a área de implantação e a área total do terreno que serve de base à operação;\n\n4 - Numero máximo de pisos:\n\n4.1 - Indica o número máximo de pisos edificáveis acima do solo com as seguintes precisões:\n\na) Se o terreno de implantação do edifício não for horizontal, o número de pisos será contado a partir do ponto de intersecção da linha de maior declive do terreno com o eixo vertical que passa pelo centro geométrico da planta do edifício;\n\nb) Caso o edifício possua frentes para dois arruamentos a cotas diferentes, o número máximo de pisos será contado a partir do nível do arruamento de cota inferior;\n\n4.2 - Indica o número máximo de pisos edificáveis abaixo do solo;\n\n5 - Cércea - é a altura máxima do edifício medida na dimensão vertical, contada a partir do ponto da cota média da base da sua fachada principal até à linha superior do beirado, platibanda ou guarda do terraço."
+  },
+  "b865f82705b79e37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO II — Do uso do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Do uso do solo"
+  },
+  "8e9e7ffbd807d319": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Classes de espaços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Classes de espaços"
+  },
+  "c38f1f2d3dae99c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Classes de espaços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Classes de espaços\n\n1 - O território do município de Sousel é dividido nas classes de espaços seguintes:\n\na) Espaço urbano;\n\nb) Espaço urbanizável;\n\nc) Espaço industrial;\n\nd) Espaço de indústria extractiva;\n\ne) Espaço agrícola;\n\nf) Espaço florestal;\n\ng) Espaços-canais;\n\nh) Espaços culturais e naturais.\n\n2 - Os limites das classes de espaços são os constantes na planta de ordenamento (escala 1/25000) e plantas de perímetros urbanos dos aglomerados (escala 1/5000)."
+  },
+  "f67d21c80bd8d2da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Perímetros urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Perímetros urbanos\n\n1 - Os perímetros urbanos são determinados pelo somatório do espaço urbano, do espaço urbanizável e dos espaços industriais que lhe sejam contíguos, sendo o espaço urbano constituído por áreas consolidades e não consolidadas.\n\n2 - Apresentam-se na planta de ordenamento (escala 1/25000) e planta de perímetros urbanos dos aglomerados (escala 1/5000):\n\na) Sousel;\n\nb) Cano;\n\nc) Casa Branca;\n\nd) Santo Amaro."
+  },
+  "b9f0cbf438dacdcb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Espaços urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Espaços urbanos\n\nOs espaços urbanos são caracterizados pelo elevado nível de infra-estruturas e concentração de edificações, onde o solo se destina predominantemente à construção."
+  },
+  "586d54ee11d00eec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Espaços urbanizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Espaços urbanizáveis\n\n1 - Os espaços urbanizáveis são aqueles em que se admite a edificação de novas áreas urbanas e destinam-se à expansão dos espaços urbanos existentes.\n\n2 - Esta classe de espaço destina-se predominantemente ao uso residência, incluindo os respectivos equipamentos colectivos, comércio e serviços de apoio. Nestes espaços é, ainda, admitida a localização de empreendimentos turísticos, cuja concretização deverá regular-se pela legislação em vigor."
+  },
+  "3a7ef4b1bfd83a79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Espaços industriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Espaços industriais\n\nO espaço industrial é constituído pelas áreas que se destinam ao uso e transformação do solo para implantação de actividades económicas associadas à indústria transformadora e ao comércio e serviços de apoio, que possuem, ou para as quais se prevêem, sistemas próprios de infra-estruturas."
+  },
+  "354bdf959143e38d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Espaços de indústria extractiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Espaços de indústria extractiva\n\nO espaço de indústria extractiva é constituído pelas áreas que se destinam ao uso e transformação do solo para exploração de massas minerais."
+  },
+  "d87a40940a53e07b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Espaços agrícolas e florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Espaços agrícolas e florestais\n\n1 - Os espaços agrícolas e espaços florestais encontram-se identificados na planta de ordenamento à escala 1/25000, e destinam-se predominantemente ao desenvolvimento de actividades agrícolas e florestais.\n\n2 - As áreas afectas aos espaços agrícolas estão divididas nas seguintes categorias: área agrícola preferencial, área agrícola condicionada, outras áreas agrícolas, áreas agrícolas com olival ou montado de sobro e azinho, a manter, e áreas agrícolas com ocupação não agrícola, a reconverter.\n\n3 - As áreas afectas aos espaços florestais estão divididas nas seguintes categorias: floresta de produção, sistema agro-silvo pastoril e floresta de protecção."
+  },
+  "5e864aec641e7190": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Espaços-canais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Espaços-canais\n\nFicam incluídos nesta classe de espaços as infra-estruturas rodoviárias e ferroviários do concelho de Sousel que correspondem a vias que integram a rede rodoviária nacional e municipal, bem como as linhas de caminho de ferro."
+  },
+  "40abdfae058121cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Espaços culturais e naturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Espaços culturais e naturais\n\nOs espaços culturais e naturais encontram-se identificados na planta de ordenamento (escala 1/25000) e na carta de património (escala 1/25000) e visam a protecção e valorização dos recursos naturais e do património cultural entendidos como génese e gestão integrados."
+  },
+  "3aeaffdbaf3b4ddc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO III — Condicionamentos e servidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Condicionamentos e servidões"
+  },
+  "c2225cbe2a7d701e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Servidões administrativas e condicionamentos comuns a várias classes de espaço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Servidões administrativas e condicionamentos comuns a várias classes de espaço"
+  },
+  "8614bd952a9b9c6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Objectivos e domínios de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Objectivos e domínios de intervenção\n\nAs servidões e outras restrições de utilidade pública ao uso dos solos identificados nos domínios do património natural e cultural, do aproveitamento dos recursos naturais do solo e do subsolo e das infra-estruturas básicas são:\n\na) Servidões rodoviárias;\n\nb) Servidões ferroviárias;\n\nc) Perímetro de protecção a captações de água;\n\nd) Servidões às redes de abastecimento de água;\n\ne) Servidões às redes de saneamento;\n\nf) Servidões às redes de distribuição de energia eléctrica;\n\ng) Reserva Ecológica Nacional (REN);\n\nh) Reserva Agrícola Nacional (RAN);\n\ni) Montado de sobro e azinho;\n\nj) Olival;\n\nk) Domínio público hídrico;\n\nl) Zona de protecção a equipamentos;\n\nm) Servidões a marcos geodésicos;\n\nn) Servidões das áreas afectas a exploração de inertes;\n\no) Zonas de protecção a imóveis classificados como património cultural;\n\np) Zonas sujeitas a regime cinegético especial."
+  },
+  "3cc58b009e418d6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Servidões rodoviárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Servidões rodoviárias\n\n1 - Os condicionamentos e servidões da rede rodoviária são os que constam na [Lei n.º 2110](https://diariodarepublica.pt/dr/detalhe/lei/2110-1961-172974), de 19 de Agosto de 1961, nos Decretos-Leis n.os 13/71, de 23 de Janeiro, alterado pelos Decretos-Leis n.os [219/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1972-673852), de 27 de Junho, e [64/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1983-308276), de 3 de Fevereiro, [380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), de 26 de Setembro, e [13/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1994-509198), de 15 de Janeiro. A revisão do PRN em curso prevê que toda a EN 245 no concelho de Sousel será «estrada nacional».\n\n2 - A rede nacional do concelho e constituída por:\n\na) Estradas nacionais:\n\nEN 245, entre Sousel e Estremoz - rede nacional complementar «Outras estradas»;\n\nEN 245, entre Sousel e Fronteira - rede nacional desclassificada;\n\nEN 372, rede nacional desclassificada;\n\nEN 372-1, rede nacional desclassificada;\n\nb) Estradas municipais:\n\nCircular interna de Sousel;\n\nEM 503, Cano-Santa Vitória do Ameixial;\n\nEM 504, São Bento do Cortiço-Fronteira (passando por Santo Amaro);\n\nEM 504-2, variante de ligação a Vale de Maceiras;\n\nEM 507, Cano-Ervedal;\n\nEM 508, Casa Branca-Avis, passando por Vale de Freixo;\n\nEM 538, Sousel-Figueira e Barros;\n\nEM 538-1, variante junto a Sousel;\n\nEM 538-2, variante junto a Sousel;\n\nc) Caminhos municipais:\n\nCM 1068, Vale de Freixo-Monte do Outeiro;\n\nCM 1083, Cano-EM 538/EM 538-vértice geodésico da Misericórdia;\n\nCM 1083-1, variante Cano-EN 372;\n\nCM 1084, CM 1092 (estrada da Malarranha)-EM 508, passando por Almadafe e Vale de Freixo;\n\nCM 1085, variante a noroeste de Cano;\n\nCM 1086, Cano-EM 508;\n\nCM 1089, Cano-Quinta da Boa Vista;\n\nCM 1090, Cano-cemitério;\n\nCM 1092, estrada da Malarranha-Pavia;\n\nCM 1093, EN 372-EM 538 (estrada das Eiras);\n\nCM 1093, EN 372-EM 503 (estrada de Lisboa);\n\nCM 1095, Sousel-São Miguel da Serra;\n\nCM 1096, EN 245-Honrta da Roda;\n\nCM 1096-1, variante até às captações de água;\n\nCM 1097, Sousel-São Bento do Cortiço;\n\nCM 1097-1, Sousel-EN 372;\n\nCM 1137, acesso a Santo Amaro desde a EN 372;\n\nCM 1137-1, acesso a Santo Amaro desde a EN 372."
+  },
+  "d3cfbb9105357715": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Servidões ferroviárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Servidões ferroviárias\n\n1 - São definidas faixas de protecção non aedificandi para a rede de infra-estruturas ferroviárias existentes ou previstas.\n\nSem prejuízo de faixas de dimensão superior, legalmente definidas, aquelas faixas situam-se para um e outro lado da linha, cada uma com 1,5 m de largura, medida na horizontal, a partir:\n\na) Da aresta superior do talude de escavação ou da aresta inferior do talude de aterro;\n\nb) De uma linha traçada a 1,5 m da aresta exterior do carril mais próximo, na ausência dos pontos de referência indicados na alínea anterior.\n\n2 - Sem prejuízo de faixas de dimensão superior, legalmente definidas, é interdita a construção de edifícios destinados a instalações industriais à distância inferior a 40 m, medida conforme descrita no número anterior."
+  },
+  "446ccd84c091fd68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Perímetro de protecção a captações de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Perímetro de protecção a captações de água\n\n1 - A captação de águas, superficiais ou subterrâneas, está submetida ao regime definido no [Decreto-Lei n.º 46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806), de 22 de Fevereiro.\n\n2 - São estabelecidos os seguintes perímetros de protecção a captações subterrâneas de água de interesse público:\n\na) Perímetros de protecção próxima definidos por um raio de 10 m em torno da captação;\n\nb) Perímetros de protecção à distância, definidos por um raio de 100 m em torno da captação.\n\n3 - Nos perímetros de protecção próxima, para além das restrições constantes do número seguinte, não devem existir:\n\na) Depressões onde se possam acumular as águas pluviais;\n\nb) Linhas de água não revestidas;\n\nc) Caixas ou caleiras subterrâneas sem esgoto devidamente tratado;\n\nd) Canalizações, fossas ou sumidouros de águas negras;\n\ne) Edificações, excepto as relativas ao próprio sistema de captação;\n\nf) Culturas adubadas, estrumadas ou regadas.\n\n4 - Nos perímetros de protecção à distância não devem existir ou executar-se:\n\na) Sumidouros de águas negras abertas na camada aquífera captada;\n\nb) Outras captações;\n\nc) Regas com águas negras e acções de adubação;\n\nd) Instalações pecuárias;\n\ne) Depósitos ou estações de tratamento de resíduos sólidos;\n\nf) Indústrias que produzam efluentes nocivos, independentemente dos dispositivos antipoluição de que possam dispor;\n\ng) Instalações sanitárias."
+  },
+  "6dff728e1510796a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Servidões às redes de abastecimento de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Servidões às redes de abastecimento de água\n\nSem prejuízo da legislação em vigor, aplicam-se os seguintes condicionamentos:\n\n1) É interdita a construção ao longo de uma faixa de 2,5 m, medida para cada lado do traçado das condutas de adução ou adução-distribuição de água, com excepção para o interior dos espaços urbanos consolidados;\n\n2) É interdita a execução de construção ao longo da faixa de 1 m, medida para cada lado do traçado das condutas distribuidoras de água;\n\n3) Fora das zonas urbanas é interdita a plantação de árvores ao longo da faixa de 10 m, medida para cada lado do traçado das condutas de água;\n\n4) É estabelecida uma faixa de protecção com a largura de 15 m, em redor dos reservatórios de água potável, na qual fica interdita a construção, a deposição de resíduos sólidos ou líquidos e a plantação de espécies arbóreas ou arbustivas cujo desenvolvimento possa provocar danos, bem como a fertilização de culturas agrícolas."
+  },
+  "7710a8e798e7c073": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Servidões às redes de saneamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Servidões às redes de saneamento\n\nOs condicionamentos a respeitar constam no [Decreto-Lei n.º 34021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34021-1944-561799), de 11 de Outubro de 1944, na [Portaria n.º 11338](https://diariodarepublica.pt/dr/detalhe/portaria/11338-1946-341209), de 8 de Maio de 1946, e no [Decreto-Lei n.º 100/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1984-661715) de 29 de Março, alterado pelas Leis n.os [25/85](https://diariodarepublica.pt/dr/detalhe/lei/25-1985-180411), de 12 de Agosto, [35/91](https://diariodarepublica.pt/dr/detalhe/lei/35-1991-691434), de 27 de Julho, e [27/96](https://diariodarepublica.pt/dr/detalhe/lei/27-1996-407284), de 1 de Agosto, designadamente:\n\n1) É proibido construir qualquer prédio sobre colectores de redes de esgotos, públicos ou particulares. Nos casos em que não seja possível outra solução, as obras deverão ser efectuadas de forma que os colectores fiquem completamente estanques e sejam visitáveis;\n\n2) Os proprietários, arrendatários ou a qualquer título possuidores dos terrenos em que tenham de se realizar os estudos, pesquisas ou trabalhos de saneamento, ou dos terrenos que a esses derem acesso, são obrigados a consentir na sua ocupação e trânsito, na execução de escavações, assentamento de tubagens e seus acessórios, desvio de águas superficiais e subterrâneas e vias de comunicação, enquanto durarem esses trabalhos, estudos e pesquisas;\n\n3) É interdita a edificação numa faixa de 200 m, definida a partir dos limites exteriores das estações de tratamento de águas residuais e dos limites de áreas ocupadas por depósitos ou estações de tratamento de resíduos sólidos a instalar;\n\n4) Nas faixas de protecção a que se refere o número anterior são apenas permitidas explorações agrícolas e florestais, sendo proibida a abertura de poços ou furos que se destinem à captação de água para consumo doméstico."
+  },
+  "948d45a1fa4d900f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Servidões às redes de distribuição de energia eléctrica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Servidões às redes de distribuição de energia eléctrica\n\n1 - As instalações eléctricas deverão respeitar as servidões e restrições de utilidade pública, nos termos da legislação em vigor, nomeadamente o prescrito no [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960, e o Regulamento de Licenças para Instalações Eléctricas.\n\n2 - Deverão ser previstas zonas de protecção para as linhas eléctricas de alta tensão, definidas no Regulamento de Segurança de Linhas Eléctricas de Alta Tensão, aprovado pelo [Decreto Regulamentar n.º 1/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1992-158575), de 18 de Fevereiro."
+  },
+  "5b1c2eda9f52e08a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Reserva Ecológica Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Reserva Ecológica Nacional\n\n1 - Consideram-se integradas na REN as áreas designadas como tal na planta de condicionantes, sujeitas assim à regulamentação definida no [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, alterado pelos Decretos-Leis n.os [316/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1990-555832), de 13 de Outubro, [213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro, e [79/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1995-223811), de 20 de Abril.\n\n2 - Nos termos do número anterior, as áreas da REN relativas ao concelho de Sousel correspondem aos seguintes sistemas:\n\na) Leito dos cursos de água;\n\nb) Zonas ameaçadas pelas cheias;\n\nc) Albufeiras e respectivas faixas de protecção;\n\nd) Cabeceiras das linhas de água;\n\ne) Áreas de máxima infiltração;\n\nf) Áreas com risco de erosão.\n\n3 - Nas áreas incluídas na REN são proibidas as acções de iniciativa pública ou privada que se traduzam em operações de loteamento, obras de urbanização, construção de edifícios, obras hidráulicas, vias de comunicação, aterros, escavações e destruição do coberto vegetal.\n\n4 - Exceptuam-se do disposto no número anterior:\n\na) A realização de acções já previstas ou autorizadas à data da entrada em vigor da resolução do Conselho de Ministros que aprova as áreas a integrar e a excluir da REN;\n\nb) As instalações de interesse para a defesa nacional como tal reconhecidas por despacho conjunto dos Ministros da Defesa Nacional e do Ambiente e Recursos Naturais;\n\ne) A realização de acções de interesse público como tal reconhecido por despacho conjunto do Ministro do Equipamento, do Planeamento e da Administração do Território, do Ministro do Ambiente e do ministro competente em razão de matéria;\n\nd) As operações relativas a florestação e exploração florestal, quando decorrentes de projectos aprovados ou autorizadas pela Direcção-Geral das Florestas [artigo 6.º, alínea b), do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março].\n\n5 - De acordo com o disposto no número anterior e sem prejuízo do disposto nos números seguintes, consideram-se ainda excepções as previstas na lei (artigo 4.º do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março).\n\n6 - De acordo com as disposições legais, nos solos que integram a REN são interditas:\n\na) As acções que se traduzam na destruição do revestimento vegetal, do relevo natural e das camadas de solo arável;\n\nb) O derrube de árvores não integrado em práticas normais de exploração florestal;\n\nc) A instalação de depósitos de sucata, de resíduos sólidos, de combustíveis sólidos, líquidos ou gasosos e de veículos.\n\n7 - Nas cabeceiras das linhas de água deverá assegurar-se a defesa contra a erosão e evitar-se perturbações ao escoamento superficial de água, favorecendo a infiltração das águas pluviais.\n\n8 - Para efeitos do número anterior, deverá proteger-se o coberto vegetal existente e reduzir as áreas não revestidas, privilegiando os seguintes tipos de revestimento vegetal:\n\na) Nas áreas agrícolas, os prados e as pastagens permanentes;\n\nb) Nas partes mais altas das linhas de água de regime torrencial e nas encostas de pendentes acentuadas, a floresta de protecção predominantemente de autóctones e mistos de folhosas.\n\n9 - Nas áreas de máxima infiltração deverá assegurar-se a implantação de coberto vegetal que favoreça a retenção da água e aumente a permeabilidade ao nível superficial do solo, contribuindo para o retardamento do escoamento superficial da água das chuvas.\n\na) Nas áreas agrícolas serão recomendáveis os prados permanentes e as práticas culturais adequadas, com lavouras segundo as curvas de nível e rotações que contrariem a ocorrência de solo nu na época das chuvas.\n\nb) Nas áreas florestais deverá assegurar-se a sua função de retenção das águas, privilegiando os mistos de folhosas nos maciços e cortinas de protecção das áreas agrícolas.\n\n10 - Nas áreas de máxima infiltração não é permitido o depósito de resíduos sólidos poluentes e a descarga directa de efluentes líquidos poluentes de qualquer natureza.\n\n11 - Nas áreas com risco de erosão deverá assegurar-se a fixação e melhoramento do solo, através da protecção e extensão das áreas com vegetação natural.\n\n12 - Para efeitos do número anterior, deverá proteger-se as áreas de montado de azinho e sobro e alargar-se a sua área com plantações nas encostas mais declivosas, não protegidas.\n\n13 - De acordo com as disposições legais, nos solos que integram a REN, deverão privilegiar-se:\n\na) Todos os usos afectos às actividades agrícola e florestal com carácter de protecção ao solo e aos recursos hídricos;\n\nb) As acções de plantação ou replantação de espécies de protecção, entendidas como os estratos arbóreos e arbustivos formados por espécies indígenas de uso exclusivo de protecção;\n\nc) As áreas em que se verifiquem alterações topográficas, necessárias e decorrentes da execução de projectos devidamente aprovados, deverão garantir o restabelecimento e ou compensação da drenagem natural do terreno e ser revestidas com vegetação adequada, de modo a evitar-se o arrastamento do solo por escorrimento superficial."
+  },
+  "e6a9fae1b84cd609": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Reserva Agrícola Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Reserva Agrícola Nacional\n\n1 - As áreas da RAN correspondem à delimitação efectuada com base em cartografia disponibilizada pela Direcção Regional de Agricultura do Alentejo, apresentada em base cartográfica 1/25000, procedendo-se à sua integração na sistemática organizativa do presente Plano.\n\n2 - Às áreas da RAN é aplicável o seu regime jurídico e demais legislação complementar em vigor.\n\n3 - Consideram-se integradas na RAN todas as áreas designadas como tal na planta de condicionantes, de acordo com o [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Julho, alterado pelo [Decreto-Lei n.º 274/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1992-616449), de 12 de Dezembro."
+  },
+  "ba657eb7f3460051": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Montados de sobro e azinho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Montados de sobro e azinho\n\nAs áreas de montado de sobro e ou azinho ficam sujeitas às disposições regulamentares contidas nos Decretos-Leis n.os [11/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1997-532240), de 14 de Janeiro, e [175/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1988-374803), de 17 de Maio."
+  },
+  "7d77398320907b05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Olival",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Olival\n\nAs áreas de olival ficam sujeitas as disposições regulamentares contidas no [Decreto-Lei n.º 120/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1986-226977), de 28 de Maio."
+  },
+  "e11eec2e7cc5e05e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Domínio público hídrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Domínio público hídrico\n\n1 - O domínio público hídrico na área do concelho é o definido pelo [Decreto-Lei n.º 46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806), de 22 de Fevereiro, sendo constituído, designadamente, pelas margens das águas não navegáveis, nem flutuáveis, nomeadamente torrentes, barrancos e córregos de caudal descontínuo, com largura de 10 m, nos termos do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, com o respectivo subsolo e espaço aéreo correspondente, bem como as águas subterrâneas.\n\n2 - A ocupação ou utilização do domínio hídrico está sujeita ao regime definido no [Decreto-Lei n.º 46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806), de 22 de Fevereiro.\n\n3 - Nas áreas contíguas aos cursos de água que não estejam ainda classificadas como zonas adjacentes (conforme dispõe o n.º 8 do artigo 14.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, com a redacção dada pelo [Decreto-Lei n.º 89/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1989-614580), de 26 de Fevereiro), a aprovação de planos de urbanização e de contratos de urbanização, bem como o licenciamento de operações de loteamento urbano ou de quaisquer obras ou edificações, está dependente do parecer vinculativo do Instituto Nacional da Água (INAG). As referidas áreas deverão estar dentro do limite da maior cheia conhecida ou de uma faixa de 100 m para cada lado da linha da margem do curso de água, quando se desconheça aquele limite."
+  },
+  "d041004b931232bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Zona de protecção a equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Zona de protecção a equipamentos\n\nOs condicionantes a respeitar relativamente a protecção de equipamentos referem-se a:\n\na) Edifícios públicos, cujos condicionantes a respeitar constam nos Decretos-Leis n.os 21875, de 18 de Novembro de 1932, 28468, de 15 de Fevereiro de 1938, 31467, de 19 de Agosto de 1941, 34993, de 11 de Outubro de 1945, 38382, de 7 de Agosto de 1954, 39847, de 8 de Outubro de 1954, e 40388, de 21 de Novembro de 1955;\n\nb) Equipamento de saúde, cujos condicionantes a respeitar constam no [Decreto-Lei n.º 40388](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40388-1955-247242), de 21 de Novembro de 1955;\n\nc) Escolas, cujos condicionantes a respeitar constam nos Decretos-Leis n.os 21875, de 18 de Novembro 1932, 34993, de 11 de Outubro de 1945, 37575, de 8 de Outubro de 1949, 39847, de 8 de Outubro de 1954, 40388, de 21 de Novembro de 1955, 44220, de 3 de Março de 1962, e 46847, de 27 de Janeiro de 1966."
+  },
+  "e9157eff9134c6df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Servidões a marcos geodésicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Servidões a marcos geodésicos\n\nOs condicionantes a respeitar relativamente à protecção aos marcos geodésicos constam no [Decreto-Lei n.º 143/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1982-606683), de 26 de Abril, designadamente:\n\na) Os marcos geodésicos de triangulação cadastral têm zonas de protecção que abrangem uma área em redor do sinal, com o raio mínimo de 15 m. A extensão da zona de protecção é determinada em função de visibilidade que deve ser assegurada ao sinal construído e entre os diversos sinais;\n\nb) Os proprietárias ou usufrutuários dos terrenos situados dentro da zona de protecção não podem fazer plantações, construções e outras obras ou trabalhos que impeçam a visibilidade das direcções constantes das minutas de triangulação;\n\nc) Os projectos de obras ou planos de arborização na proximidade dos marcos geodésicos não podem ser licenciados sem prévia autorização do Instituto Geográfico e Cadastral."
+  },
+  "a932084e1bc09a72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Servidões das áreas afectas à exploração de inertes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Servidões das áreas afectas à exploração de inertes\n\n1 - As servidões instituídas visam o estabelecimento de zonas de defesa em torno de áreas afectas à exploração de massas minerais, tendo em vista o seu isolamento, de acordo com os Decretos-Leis n.os [89/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1990-333156), de 16 de Março, e [90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de Março.\n\n2 - De acordo com o [Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de Março, salvo legislação específica em contrário, as zonas de defesa relativamente a massas minerais têm os seguintes afastamentos:\n\na) 5 m - prédios rústicos vizinhos, quer sejam murados quer não;\n\nb) 15 m - caminhos públicos;\n\nc) 20 m - condutas de fluidos, linhas eléctricas de baixa tensão, linhas aéreas de telecomunicações e teleféricos não integrados na exploração da pedreira;\n\nd) 30 m - linhas férreas, pontes, rios navegáveis, canais, cabos subterrâneos eléctricos e de telecomunicações, linhas eléctricas aéreas ou de alta tensão, postos eléctricos de transformação ou de telecomunicações, edifícios não especificados e locais de uso público;\n\ne) 50 m - a nascentes de água e estradas nacionais ou municipais;\n\nf) 70 m - a auto-estradas e estradas internacionais;\n\ng) 100 m - a monumentos nacionais, locais classificados de valor turístico, instalações e obras das Forças Armadas e serviços de segurança, escolas e hospitais;\n\nh) 500 m - locais ou zonas com valor científico ou paisagístico e, como tal, já classificados pela entidade para o efeito competente.\n\nSem prejuízo dos requisitos de segurança a determinar pelos serviços competentes para a fiscalização, a largura da zona de defesa deve aumentar 1 m por cada metro de desnível que exista entre cada ponto da bordadura da escavação e o objecto a proteger."
+  },
+  "aab842c0797af817": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Zonas de protecção a imóveis classificados como património cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Zonas de protecção a imóveis classificados como património cultural\n\n1 - A salvaguarda do património cultural é regulamentada pela seguinte legislação:\n\na) [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932;\n\nb) [Decreto n.º 21875](https://diariodarepublica.pt/dr/detalhe/decreto/21875-1932-596932), de 18 de Novembro de 1932 (alterado pelos Decretos-Leis n.os 31467, de 19 de Agosto de 1941, e 34993, de 11 de Outubro de 1945);\n\nc) [Lei n.º 2032](https://diariodarepublica.pt/dr/detalhe/lei/2032-1949-258368), de 11 de Junho de 1949;\n\nd) Artigo 124.º do Regulamento Geral das Edificações Urbanas;\n\ne) [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho (lei quadro do património cultural português);\n\nf) [Decreto-Lei n.º 205/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1988-372201), de 16 de Junho;\n\ng) [Decreto-Lei n.º 106-F/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-f-1992-410287), de 1 de Junho.\n\n2 - Os imóveis classificados no concelho de Sousel são os seguintes:\n\na) Igreja de Nossa Senhora da Orada - [Decreto n.º 44675](https://diariodarepublica.pt/dr/detalhe/decreto/44675-1962-156231), de 9 de Novembro de 1962, classificada como imóvel de interesse público;\n\nb) Pelourinho de Sousel - Decreto n.º 23122, de 11 de Outubro de 1933, classificado como imóvel de interesse público.\n\n3 - Os imóveis de interesse público possuem, nos termos do disposto na legislação em vigor, uma zona de protecção que abrange a área envolvente do imóvel num raio de 50 m contados a partir dos seus extremos.\n\n4 - Nas zonas de protecção referidas não é permitido executar alienações, quaisquer obras de demolição, instalação ou reconstrução em edifícios ou terrenos sem o parecer favorável do Instituto Português do Património Arquitectónico e Arqueológico (IPPAR).\n\n5 - Os estudos e projectos de arquitectura referentes a obras de recuperação, conservação ou alteração dos imóveis classificados e nas respectivas zonas de protecção são da autoria de arquitecto.\n\n6 - A Igreja Matriz de Sousel está proposta para classificação como imóvel de interesse público, desde 29 de Maio de 1990, ficando desde logo abrangida pela legislação vigente - zona de protecção (num raio de 50 m)."
+  },
+  "ccf99f6c8f8cbf00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Condicionamento à actividade cinegética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Condicionamento à actividade cinegética\n\nA actividade cinegética fica sujeita aos condicionamentos impostos pela legislação em vigor nas áreas sujeitas ao regime cinegético especial, nomeadamente ao disposto na [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e respectivo regulamento - [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto."
+  },
+  "1908cd39f19ad070": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Condicionamentos específicos de cada classe de espaço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Condicionamentos específicos de cada classe de espaço"
+  },
+  "8913f3b8d0dbcadb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Espaços urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Espaços urbanos"
+  },
+  "674d657a3e259006": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Espaços urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Espaços urbanos\n\nOs espaços urbanos são constituídos por um sistema urbano caracterizado por um elevado índice de edificação e infra-estruturação, nela coexistindo diversas funções urbanas, e subdividem-se em consolidados e não consolidados."
+  },
+  "2b3038095cd56fcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Edificabilidade\n\n1 - A edificação nos espaços urbanos tende à consolidação e ou colmatação dos núcleos habitacionais, onde deverão ser estimulados os investimentos públicos ou privados, quer na melhoria das infra-estruturas existentes, quer na criação de novas infra-estruturas.\n\n2 - Não é autorizada a ocupação integral e sistemática de logradouros com edificação a menos que haja um estudo devidamente aprovado que a justifique.\n\n3 - Nos termos do número anterior, os anexos não habitacionais não deverão ocupar uma área superior a 10% da área total do lote ou parcela onde se implantam, com o máximo de 35 m2, e o seu pé-direito livre nunca será superior a 2,5 m.\n\n4 - A transformação do uso do solo apoia-se na infra-estruturação existente e far-se-á fundamentalmente por licenciamento de construção em lotes ou através de operações de loteamento.\n\n5 - Na ausência de instrumentos urbanísticos - planos de urbanização e ou planos de pormenor -, os loteamentos e as edificações a licenciar ficam determinados pelas características dos edifícios vizinhos e ou envolventes, não sendo invocável a existência de edifícios dissonantes."
+  },
+  "ddf3324052c465e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Índices urbanísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Índices urbanísticos\n\n1 - Para efeitos de atribuição dos índices urbanísticos nos espaços urbanos, consideram-se dois níveis (nível I e nível II + III):\n\na) Nível I - Sousel:\n\na1) Áreas consolidadas:\n\nÍndice de construção (ic): 0,6 a 0,9;\n\nDensidade populacional (dp): 100 a 200 hab./ha;\n\nÍndice de implantação (ii): 0,40;\n\nNúmero de pisos acima do solo: dois;\n\na2) Áreas não consolidadas:\n\nÍndice de construção (ic): 0,5 a 0,8;\n\nDensidade populacional (dp): 100 a 150 hab./ha;\n\nÍndice de implantação (ii): 0,35;\n\nNúmero de pisos acima do solo: dois;\n\nb) Nível II - Cano e nível III - Casa Branca e Santo Amaro:\n\nÍndice de construção (ic): 0,3 a 0,5;\n\nDensidade populacional (dp): 75 a 150 hab./ha;\n\nÍndice de implantação (ii): 0,25;\n\nNúmero de pisos acima do solo: dois.\n\n2 - Os índices indicados no número anterior devem ser aplicados cumulativamente, sendo o índice de construção (ic), o índice de implantação (ii) e a densidade populacional (dp) correspondente a um máximo que não deve ser ultrapassado."
+  },
+  "5817abfa6a007545": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Cércea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Cércea\n\nPara efeitos de atribuição da altura máxima dos edifícios nos aglomerados urbanos, considera-se a correspondente ao número máximo de dois pisos acima do solo (6,5 m), devendo, no entanto, a mesma ficar condicionada ao cumprimento dos índices urbanísticos respectivos, bem como à cércea dominante do conjunto onde se insere e à sua integração na envolvente."
+  },
+  "177eb8875fff9d09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Áreas consolidadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Áreas consolidadas\n\nPara efeitos de gestão urbanística, consideram-se áreas consolidadas as áreas estabilizadas nas suas componentes estrutura urbana, arquitectura e usos, garantindo uma expressão de identidade urbana."
+  },
+  "80fa5e3464a46e1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Áreas não consolidadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Áreas não consolidadas\n\nPara efeitos de gestão urbanística, consideram-se áreas não consolidadas as áreas passíveis de alteração quanto ao uso e estrutura urbana."
+  },
+  "dbf017d3d9631826": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Espaços urbanizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Espaços urbanizáveis"
+  },
+  "c9ee64bb2192bf88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Espaços urbanizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Espaços urbanizáveis\n\n1 - Os espaços urbanizáveis destinam-se à expansão dos aglomerados urbanos, em zonas onde a estrutura urbana é ainda incipiente ou inexistente, devendo a sua ocupação ser efectuada de acordo com planos de pormenor ou operações de loteamento urbano. Distinguem-se em média e baixa densidade.\n\n2 - Os espaços urbanizáveis que tenham sido objecto de plano municipal de ordenamento do território e da subsequente infra-estruturação passarão a integrar a classe de espaços urbanos somente após a completa execução da totalidade das obras de infra-estruturas previstas nos respectivos projectos aprovados e consequente recepção das mesmas pela Câmara Municipal.\n\n3 - Os espaços urbanizáveis destinam-se à localização e implementação de actividades, funções e instalações com fins habitacionais, comerciais e de serviços em geral, incluindo equipamentos públicos ou privados, edificados ou não, podendo ainda possuir outras utilizações ou ocupações, desde que compatíveis com o uso dominante atrás estipulado e, designadamente, com a função habitacional."
+  },
+  "7c48027dacdf82bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Índices urbanísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Índices urbanísticos\n\nNos espaços urbanizáveis, e para efeitos de atribuição de índices urbanísticos, considera-se:\n\na) Média densidade:\n\nÍndice de construção (ic): 0,5 a 0,9;\n\nDensidade populacional (dp): 100 a 200 hab./ha;\n\nÍndice de implantação (ii): 0,35;\n\nNúmero de pisos acima do solo: dois;\n\nNúmero de pisos abaixo do solo: um;\n\nb) Baixa densidade:\n\nÍndice de construção (ic): 0,2;\n\nÍndice de implantação (ii): 0,2;\n\nNúmero de pisos acima do solo: um."
+  },
+  "33bdb140f76c615f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Cércea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Cércea\n\n1 - Média densidade - nos espaços urbanizáveis de média densidade e para efeitos de atribuição da altura máxima dos edifícios considera-se a correspondente ao número máximo de dois pisos acima do solo (6,5 m), devendo, no entanto, a mesma ficar condicionada ao cumprimento dos índices urbanísticos respectivos, bem como à cércea dominante do conjunto onde se insere e à sua integração na envolvente.\n\n2 - Baixa densidade - nos espaços urbanizáveis de baixa densidade e para efeitos de atribuição da altura máxima dos edifícios considera-se a correspondente ao número máximo de um piso acima do solo (3,5 m), devendo, no entanto, a mesma ficar condicionada ao cumprimento dos índices urbanísticos respectivos, bem como à cércea dominante do conjunto onde se insere e à sua integração na envolvente."
+  },
+  "8ff01126d0e33d48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Equipamento turístico e zonas turísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Equipamento turístico e zonas turísticas"
+  },
+  "ecf3e837c3689b36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Implantação de equipamento turístico e zonas turísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Implantação de equipamento turístico e zonas turísticas\n\n1 - Admite-se, sem prejuízo dos artigos seguintes, a construção de edifícios e estruturas de carácter turístico nas áreas rurais, desde que devidamente autorizadas pelas autoridades competentes.\n\n2 - Estas construções ficam sujeitas aos seguintes condicionamentos:\n\na) O índice máximo de construção é 0,01;\n\nb) A área máxima de implantação é 500 m2;\n\nc) A área máxima de impermeabilização do solo é de 10% da área da parcela com um máximo de 1000 m2;\n\nd) As construções não poderão exceder os dois pisos ou 6,5 m acima da cota natural do terreno.\n\n3 - Admite-se a construção de unidades turísticas de maior dimensão a título excepcional desde que estejam integradas em projectos turísticos aprovados pelas entidades competentes que tenham em especial o enquadramento paisagístico e uma adaptação harmoniosa à paisagem envolvente e às potencialidades locais."
+  },
+  "29f150ff27848386": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Espaços industriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Espaços industriais"
+  },
+  "12ce1173a10aaf97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Espaço industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Espaço industrial\n\n1 - Estes espaços constituem-se como unidades operativas de planeamento e gestão definidas nos interiores dos respectivos perímetros urbanos e destinam-se à instalação de unidades industriais das classes C e D, de acordo com o disposto no [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 282/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1993-329987), de 17 de Agosto, e pelo [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto, armazéns de pequena dimensão e actividades complementares compatíveis com o uso habitacional.\n\n2 - Estão sujeitas à elaboração de plano de pormenor ou loteamento industrial, sendo também admissíveis operações isoladas desde que concordantes com os condicionamentos de edificabilidade:\n\nÍndice de construção (ic): 0,35;\n\nÁrea mínima de lote: 300 m2;\n\nFrente de lote: não inferior a 15 m;\n\nAltura máxima: 20 m.\n\n3 - Unidades industriais que venham a instalar-se após a entrada em vigor do PDM:\n\na) As unidades das classes A e B devem obrigatoriamente instalar-se nas zonas industriais, de acordo com o [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto;\n\nb) No licenciamento de indústrias não sujeitas a localização obrigatória em zona industrial deverá ser ponderada a sua compatibilidade com o uso predominante da área em que se inserem, de forma a evitar incómodos para terceiros, provocados quer pela laboração, quer pelo tráfego.\n\n4 - Unidades já licenciadas antes da entrada em vigor do PDM:\n\na) As unidades industriais da classe B já licenciadas à data da entrada em vigor do PDM consideram-se incluídas em zona industrial;\n\nb) Para os estabelecimentos industriais existentes fora dos espaços industriais da classe C, cuja alteração implique mudança para a classe B e devidamente autorizados antes da entrada em vigor do PDM, poderá ser autorizada a alteração e ser passada a respectiva certidão de localização, após análise caso a caso e parecer favorável da Câmara Municipal, da entidade que tutela o estabelecimento industrial e da entidade do Ministério do Ambiente que intervém no licenciamento."
+  },
+  "1da073f4a107d4de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Áreas a ceder ao município",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Áreas a ceder ao município\n\nNas operações de loteamento a realizar nas áreas urbanas, áreas urbanizáveis e áreas industriais serão aplicados os critérios decorrentes do disposto no artigo 16.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, na redacção dada pelas Leis n.os [25/92](https://diariodarepublica.pt/dr/detalhe/lei/25-1992-241193), de 31 de Agosto, e [26/96](https://diariodarepublica.pt/dr/detalhe/lei/26-1996-407290), de 1 de Agosto, e na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro."
+  },
+  "6a7887b8f2ab69e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Espaços de indústria extractiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Espaços de indústria extractiva"
+  },
+  "bd1c223a50635129": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Espaços de indústria extractiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Espaços de indústria extractiva\n\n1 - Englobam-se nesta área as zonas ocupadas actualmente pela exploração de pedreiras, sujeitas ao disposto no [Decreto-Lei n.º 89/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1990-333156), de 16 de Março, e demais legislação complementar.\n\n2 - São objecto de licenciamento pela entidade definida na lei todas as explorações de inertes que se encontram em actividade, devendo a Câmara Municipal fazer uso das suas competências de fiscalização administrativa previstas no artigo 46.º do [Decreto-Lei n.º 89/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1990-333156), de modo a ser dado procedimento ao respectivo licenciamento."
+  },
+  "2ba1b1e9c11cc232": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Espaços agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Espaços agrícolas"
+  },
+  "6cd7b8beb59032d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Caracterização\n\n1 - As áreas agrícolas são constituídas por áreas do território destinadas a assegurar a produção agrícola alimentar ou não, integrando solos incluídos na RAN e outros solos com interesse local, nomeadamente com investimentos destinados a aumentar a sua capacidade produtiva (exemplo, pomares regados), ou com utilização agro-pecuária e socialmente importantes para a fixação da população.\n\n2 - A área agrícola subdivide-se em área agrícola preferencial, área agrícola condicionada e outras áreas agrícolas."
+  },
+  "d9e0c04fc85e66d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Área agrícola preferencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Área agrícola preferencial\n\n1 - As áreas agrícolas preferenciais abrangem todos os solos incluídos na que são presentemente utilizados com fins agrícolas.\n\n2 - São áreas com aptidão agrícola dominante, devendo destinar-se preferencialmente a usos agrícolas, sendo o seu regime de uso e alteração do solo o definido no [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, com as alterações introduzidas pelo [Decreto-Lei n.º 274/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1992-616449), de 12 de Dezembro.\n\n3 - Quando, de acordo com o estabelecido no [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, com as alterações introduzidas pelo [Decreto-Lei n.º 274/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1992-616449), de 12 de Dezembro, seja concedido parecer prévio favorável à utilização com fins de edificação de solos integrados na RAN, ficarão as mesmas edificações sujeitas aos seguintes condicionamentos:\n\na) Índice de construção aplicado à área da parcela: 0,01;\n\nb) A área máxima de impermeabilização do solo é 2% da área da parcela, com um máximo de 1000 m2;\n\nc) Superfície máxima de pavimentação de habitação: 200 m2;\n\nd) Número máximo de pisos: 2;\n\ne) O abastecimento de água e a drenagem de esgotos deverão ser assegurados por sistema autónomo, salvo se for procedido ao licenciamento da extensão das redes públicas a custas do interessado.\n\n4 - É interdita a instalação de lixeiras, aterros sanitários ou outras concentrações de resíduos sólidos, líquidos ou gasosos e parques de sucata."
+  },
+  "e365581e2d80879a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Área agrícola condicionada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Área agrícola condicionada\n\n1 - Abrange solos incluídos na e solos com limitações ao uso agrícola intensivo, que se sobrepõem com áreas de máxima infiltração.\n\n2 - São áreas de extrema sensibilidade ecológica, pelo que as práticas agrícolas devem ser acauteladas, nomeadamente o uso excessivo de pesticidas e fertilizantes, de modo a garantir a qualidade da água infiltrada.\n\n3 - Deverá ter-se em consideração o uso actual do solo, nomeadamente o olival e o montado de sobro e azinho, podendo estes, no entanto, tomar formas de exploração mais intensivas.\n\n4 - Nas situações onde seja legalmente admissível a edificação nos termos da legislação em vigor, observar-se-ão os seguintes condicionamentos:\n\na) O índice máximo de construção é 0,002;\n\nb) A área máxima de pavimentos a edificar é 300 m2;\n\nc) A área máxima de impermeabilização do solo é 2% da área da parcela, com um máximo de 1000 m2.\n\n5 - Todos os efluentes domésticos, industriais ou pecuários deverão ser obrigatoriamente objecto de tratamento adequado, aprovado pelas entidades competentes, em instalação própria, sem o que não poderão ser lançados na rede de drenagem natural.\n\n6 - O sistema de recolha e tratamento dos efluentes deverá ter em atenção a sensibilidade da zona, tomando medidas de controlo contra a contaminação do solo e aquíferos.\n\n7 - São interditas quaisquer acções que criem riscos de contaminação dos aquíferos, nomeadamente:\n\na) A rega com águas residuais sem tratamento prévio;\n\nb) A utilização intensiva de biocidas e fertilizantes químicos ou orgânicos.\n\n8 - É interdita a instalação de lixeiras, aterros sanitários ou outras concentrações de resíduos sólidos, líquidos ou gasosos e parques de sucata.\n\n9 - As práticas agrícolas deverão ter em conta as características específicas desta área devendo ser preconizadas novas tecnologias, com utilização de menores quantidades de pesticidas e fertilizantes e com mobilizações menos drásticas do solo, nomeadamente utilizando técnicas de agricultura biológica e protecção integrada."
+  },
+  "9ea5454d5ef2cd24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Outras áreas agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Outras áreas agrícolas\n\n1 - Abrange áreas do concelho presentemente ocupadas com olival, frutícolas e algumas áreas de regadio. São áreas agrícolas de baixa produtividade, a que se adaptam tanto as culturas acima referidas como as espécies florestais.\n\n2 - Trata-se de áreas com aptidão tanto agrícola como florestal e ou silvo-pastoril, prevendo-se contudo a possibilidade da continuação da sua utilização agrícola, sem prejuízo do disposto no Regulamento.\n\n3 - Pode ser autorizada a construção isolada de edificações destinadas a habitação, unidades industriais não poluentes das classes C e D, de acordo com a legislação em vigor, essencialmente agro-indústrias e unidades turísticas de agro-turismo, turismo rural ou turismo de habitação, bem como equipamentos de interesse municipal.\n\n4 - As edificações ficam sujeitas aos seguintes condicionamentos:\n\na) A altura máxima das edificações, com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, é de 6,5 m;\n\nb) Índice de construção: 0,04;\n\nc) Área máxima de pavimentos a edificar: 500 m2;\n\nd) O abastecimento domiciliário de água e a drenagem de esgotos devem ser assegurados pela constituição de sistemas autónomos de promoção privada, não sendo imputável à autarquia a extensão das redes públicas."
+  },
+  "0457c1e74515e997": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Áreas agrícolas com olival ou montado de sobro e azinho, a manter",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Áreas agrícolas com olival ou montado de sobro e azinho, a manter\n\n1 - Abrange áreas com aptidão agrícola, nomeadamente RAN, actualmente ocupadas com olival ou montado de sobro e azinho.\n\n2 - Sem prejuízo da legislação em vigor, nas áreas em que não haja sobreposição com áreas da REN pode ser autorizada a construção isolada de edificações destinadas a habitação e apoio a explorações agrícolas, agro-pecuárias ou florestais, com os seguintes condicionamentos:\n\na) A altura máxima das construções, com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, é de 6,5 m;\n\nb) Índice de construção: 0,02;\n\nc) Área máxima de pavimentos a edificar, incluindo anexos: 400 m2;\n\nd) O abastecimento domiciliário de água e a drenagem de esgotos devem ser assegurados pela constituição de sistemas autónomos de promoção privada, não sendo imputável à autarquia a extensão das redes públicas.\n\n3 - Sem prejuízo da legislação em vigor, nas áreas em que haja sobreposição com áreas integradas na REN é aplicado o disposto no artigo 23.º do presente Regulamento."
+  },
+  "4f67c020491bdec7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Áreas agrícolas com ocupação não agrícola, a reconverter",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Áreas agrícolas com ocupação não agrícola, a reconverter\n\n1 - Abrangem áreas de solos com aptidão agrícola mas que, no geral, foram abandonadas, tendo-se formado mato sob coberto.\n\n2 - A constituição destas áreas tem em vista permitir a reconversão destes solos ao uso agrícola.\n\n3 - Em termos de ocupação do espaço serão aplicados os condicionamentos constantes no artigo 47.º"
+  },
+  "548d50af7e0d32ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Espaços florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Espaços florestais"
+  },
+  "ee7c153f46923721": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Floresta de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Floresta de produção\n\n1 - Abrangem áreas de solos de fraca aptidão agrícola mas com potencialidades silvícolas.\n\n2 - Nestas áreas devem ser instalados preferencialmente povoamentos com espécies autóctones (como sejam sobreiro, azinheira, pinheiro-manso), em povoamentos puros ou mistos, instaladas segundo técnicas de cultura e de exploração que têm por objectivo a produção.\n\n3 - Nestas áreas devem ser estabelecidos programas que motivem a gestão racional da floresta, articulando as zonas de «povoamentos puros» e «mistos», tendo em vista a salvaguarda e protecção do solo e das características da paisagem.\n\n4 - Estas áreas ficam sujeitas aos seguintes condicionamentos:\n\na) Pode ser autorizada a construção isolada de edificações destinadas a habitação e apoio a explorações agrícolas agro-pecuárias ou florestais;\n\nb) A altura máxima das construções, com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, é de 6,5 m;\n\nc) Índice de construção: 0,04;\n\nd) Área máxima de pavimentos a edificar, incluindo anexos: 1000 m2;\n\ne) O abastecimento domiciliário de água e a drenagem de esgotos devem ser assegurados pela constituição de sistemas autónomos de promoção privada, não sendo imputável à autarquia a extensão das redes públicas."
+  },
+  "5ff39a406d3f6377": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Sistema agro-silvo-pastoril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Sistema agro-silvo-pastoril\n\n1 - Os sistemas agro-silvo-pastoris são constituídos por solos que não possuem um elevado potencial agrícola ou florestal ou estando incultos e onde poderão ser instaladas pastagens, sistemas silvo-pastoris ou mesmo floresta, de forma a fixar a população ligada ao meio rural.\n\n2 - Abrange as áreas do concelho ocupadas por montados de sobro e azinho, que, encontrando-se protegidas por legislação, são a manter, de acordo com essa mesma legislação e com o disposto neste Regulamento.\n\n3 - Nestas áreas poderá ser instalada floresta de protecção desde que com projectos aprovados pelas entidades competentes, devendo, no entanto, privilegiar as espécies autóctones e evitar grandes extensões de povoamento florestal puro.\n\n4 - As edificações ficam sujeitas aos seguintes condicionamentos:\n\na) A altura máxima das construções, com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, e de 6,5 m;\n\nb) Índice de construção: 0,04;\n\nc) Área máxima de pavimentos a edificar, incluindo anexos: 1000 m2;\n\nd) O abastecimento domiciliário de água e a drenagem de esgotos devem ser assegurados pela constituição de sistemas autónomas de promoção privada, não sendo imputável à autarquia a extensão das redes públicas."
+  },
+  "3f762c2555e5bac4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Floresta de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Floresta de proteção\n\n1 - Abrange áreas da REN, nomeadamente áreas com riscos de erosão e as manchas de solos a eles associadas, cabeceiras das linhas de água e áreas actualmente ocupadas por montado de sobro e azinho com mato sob coberto.\n\n2 - Prevê-se uma floresta de protecção preferencialmente composta por espécies autóctones.\n\n3 - A edificabilidade nestas áreas resume-se à possibilidade de ampliação das construções existentes em 50% da área inicial.\n\n4 - Nestas áreas deverão ser observados os seguintes condicionamentos, sem prejuízo do disposto no artigo 23.º:\n\na) Apenas são permitidas plantações com espécies autóctones ou adaptadas às condições ecológicas locais e tradicionalmente utilizadas;\n\nb) As plantações monoespecíficas ou plantações com espécies de crescimento rápido, nomeadamente o eucalipto, dependem de autorização da Direcção-Geral das Florestas ([Decreto-Lei n.º 175/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1988-374803), de 17 de Maio);\n\nc) Não é permitida a execução de terraceamentos ou mobilizações profundas com reviramento da leiva nas áreas com declive inferior a 25%;\n\nd) Não são permitidas operações de preparação do solo com fins agrícolas ou silvo-pastoris que incluam mobilizações segundo a linha de maior declive;\n\ne) A prática de queimadas está dependente de autorização do Governo Civil;\n\nf) São interditas todas as acções que criem riscos de contaminação dos aquíferos, nomeadamente:\n\nA rega com águas residuais sem tratamento prévio;\n\nA utilização intensiva à de biocidas e fertilizantes químicos ou orgânicos;\n\ng) Não é permitida a instalação de lixeiras, aterros sanitários ou outras concentrações de resíduos sólidos, líquidos ou gasosos e parques de sucata;\n\nh) A actividade agrícola deverá obedecer a regras rigorosas quanto às práticas culturais e à aplicação de pesticidas e fertilizantes, devendo ser preconizadas novas tecnologias com utilização de menores quantidades de pesticidas e fertilizantes e com mobilizações mínimas do solo, nomeadamente utilizando técnicas de agricultura biológica e protecção integrada;\n\ni) Todos os efluentes domésticos, industriais ou pecuários serão obrigatoriamente objecto de tratamento adequado, aprovado pelas entidades competentes, em instalação própria, sem o que não poderão ser lançados na rede de drenagem natural ou no solo;\n\nj) O sistema de esgotos deve ter em atenção a sensibilidade da zona, tomando medidas de controlo contra a contaminação de solos e aquíferos."
+  },
+  "9ef6fe495758e49d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Espaços-canais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Espaços-canais"
+  },
+  "af6c73fe735463c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Caracterização\n\n1 - Os espaços-canais correspondem a corredores destinados a infra-estruturas e integram as respectivas faixas de protecção, tendo em geral um efeito de barreira física dos espaços que marginam.\n\n2 - Incluem os corredores destinados a vias rodoviárias e ferroviárias e a infra-estruturas de saneamento básico e outras redes técnicas."
+  },
+  "af54b239f2a8c613": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Rede rodoviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Rede rodoviária\n\n1 - Rede rodoviária nacional: sem prejuízo do disposto no artigo 17.º, fica interdito o estabelecimento de acessos a partir das propriedades marginais para além dos estritamente necessários e permitidos os cruzamentos de nível apenas nas intersecções com as estradas municipais e os caminhos municipais existentes.\n\n2 - Rede rodoviária municipal: os condicionamentos das respectivas faixas de protecção são os seguintes:\n\na) Estradas municipais - faixa non aedificandi, medida ao eixo da via de 8 m para cada lado e nunca menos que 6 m da zona da estrada;\n\nb) A denominada «Circular Interna de Sousel», e cartografada na carta de ordenamento, e os nós viários propostos deverão ser equacionados conjuntamente com plano de pormenor da área das hortas periféricas, a norte de Sousel;\n\nc) Caminhos municipais - faixa non aedificandi, medida ao eixo da via de 6 m para cada lado;\n\nd) As serventias das propriedades confinantes com as vias municipais serão sempre executadas a título precário e terão de ser licenciadas pela autarquia."
+  },
+  "311db9413ccbcaf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Rede ferroviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Rede ferroviária\n\n1 - São definidas faixas de protecção non aedificandi para a rede de infra-estruturas ferroviárias existentes ou previstas.\n\nSem prejuízo de faixas de dimensão superior, legalmente definidas, aquelas faixas situam-se para um e outro lado da linha, cada uma com 1,5 m de largura, medida na horizontal, e constam de cada alínea:\n\na) Da aresta superior do talude de escavação ou da aresta inferior do talude de aterro;\n\nb) De uma linha traçada a 1,5 m da aresta exterior do carril mais próximo, na ausência dos pontos de referência indicados na alínea anterior.\n\n2 - Sem prejuízo de faixas de dimensão superior, legalmente definidas, é interdita a construção de edifícios destinados a instalações industriais à distância inferior a 40 m, medida conforme descrita no número anterior."
+  },
+  "437c220c52520ada": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VIII — Espaços culturais e naturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VIII — Espaços culturais e naturais"
+  },
+  "c06897400ff1e200": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Espaços culturais e naturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Espaços culturais e naturais\n\n1 - São definidos como espaços culturais os imóveis classificados existentes no concelho de Sousel e respectivas áreas de protecção, bem como todos os vestígios arqueológicos, imóveis, conjuntos e sítios, obras do homem e da Natureza, identificados na carta de património:\n\na) Imóveis de valor local:\n\nIgreja da Misericórdia (Sousel);\n\nIgreja do Convento de Santo António (Sousel);\n\nConvento de Santo António - demolido (Sousel);\n\nConjunto constituído pelo imóvel (implantado sobre a área então ocupada pelo Convento de Santo António), espaços envolventes e estruturas industriais contíguas (Sousel);\n\nCapela do Espírito Santo (Sousel);\n\nCapela de Nossa Senhora do Carmo (serra de São Miguel Sousel);\n\nPraça de touros (serra de São Miguel Sousel);\n\nCapela de São Bartolomeu - destruída (serra de São Bartolomeu/Sousel);\n\nSolar da família Calça e Pina (Sousel);\n\nCapela de São Sebastião - estado de ruína (Sousel);\n\nNúcleo de infra-estruturas ferroviárias e «Vencerei» (Sousel);\n\nIgreja paroquial do Cano;\n\nAntigos Paços do Concelho (Cano);\n\nFonte no Largo do Conde de Valença (Cano);\n\nIgreja paroquial de Casa Branca;\n\nIgreja paroquial de Santo Amaro;\n\nMonte de D. João (freguesia de Casa Branca);\n\nMonte do Mouchão (freguesia de Casa Branca);\n\nAdega do Mouchão (freguesia de Casa Branca);\n\nMonte da Seixa (freguesia de Casa Branca);\n\nMonte do Aravia (freguesia de Casa Branca);\n\nQuinta da Saudade (freguesia de Casa Branca);\n\nMonte da Retorta (freguesia de Casa Branca);\n\nMonte da Macarra (freguesia do Cano);\n\nMonte da Rouca (freguesia do Cano);\n\nÁguas de Todo o Ano - Azenha da Violante, do Ferrador e do Zambujeiro (freguesia do Cano);\n\nVinhas Velhas (freguesia do Cano);\n\nMonte de D. Pedro - e o conjunto envolvente (freguesia do Cano);\n\nMonte do Lameirão (freguesia do Cano);\n\nMonte do Álamo (freguesia do Cano);\n\nMonte da Romeira (freguesia do Cano);\n\nMonte da Roxa (freguesia de Sousel);\n\nMonte do Arrepiado (freguesia de Sousel);\n\nMonte da Revenduda (freguesia de Sousel);\n\nMonte da Albardeira (freguesia de Sousel);\n\nb) Conjuntos urbanísticos, a classificar:\n\nNúcleo do antigo castelo - demolido (Praça da República e Largo do Castelo - Sousel);\n\nConjunto constituído pelo Largo da Senhora da Orada, Largo do Curro do Toiro e Rossio (Sousel);\n\nAvenida de 25 de Abril - desde o Campo da Feira até a confluência da Rua São de Sebastião (Sousel);\n\nNúcleo central do Cano;\n\nConjunto de equipamentos públicos no Cano à estrada nacional;\n\nRossio do Cano;\n\nÁrea de expansão do princípio do século a nordeste da Casa Branca;\n\nÁrea urbana da ribeira de Lupe em Santo Amaro;\n\nConjunto do Vale do Freixo (freguesia de Casa Branca);\n\nSítio do Almadafe (freguesia de Casa Branca);\n\nc) Reservas arqueológicas de protecção a instituir:\n\nPré-histórico:\n\nZambujeira 2;\n\nCano;\n\nAnta da Cabeça da Ovelha;\n\nSardo;\n\nMadalena;\n\nAnta do Mariano;\n\nCastelo do Gusmão;\n\nFalcatos;\n\nPegadas do Diabo;\n\nMaria Rosa;\n\nRetorta;\n\nD. João I;\n\nAzenha da Violante;\n\nÁlamo;\n\nAzenha do Zambujeiro 3;\n\nSão Bartolomeu;\n\nGião;\n\nLobo Pardo;\n\nSão Miguel da Serra;\n\nCaixeiro;\n\nRomano:\n\nRepresa;\n\nMariano;\n\nCapela;\n\nTorre de Camões;\n\nSão Lourenço;\n\nRomano/medieval:\n\nBanamar;\n\nOlival das Freiras;\n\nBarraca Nova;\n\nZambujeira 3;\n\nZambujeira;\n\nAbrunheiras;\n\nAlbardeira 1;\n\nAlbardeira 2;\n\nCarapelha;\n\nAzenha do Zambujeiro 1;\n\nMedieval/moderno:\n\nAlcatruz;\n\nTurca;\n\nMonte do Rabadão;\n\nPombo;\n\nVinhas Velhas;\n\nCemitério do Cano;\n\nChaparral;\n\nAzenha dos Condes;\n\nOlival da Raposeira;\n\nD. João II;\n\nCasa Branca;\n\nQuinta da Boavista;\n\nMalhada da Caeira;\n\nAzenha do Zambujeiro 2;\n\nEtnográfico:\n\nPedra da Moura.\n\nOs vestígios arqueológicos, imóveis conjuntos urbanos e sítios naturais referidos são objecto de medidas cautelares no sentido da sua salvaguarda e eventual valorização, estabelecendo-se igualmente áreas de protecção de 50 m, medidas a partir do seu perímetro, nas quais a autarquia exerce maior controlo, sujeitando a parecer quaisquer obras de alteração relativas à situação existente, nomeadamente alterações do coberto vegetal, da topografia e de outros elementos determinantes para a sua identidade.\n\n3 - Nas situações do estabelecimento de novas edificações na envolvência dos imóveis referidos ou no interior dos conjuntos urbanos considerados, as mesmas deverão contribuir para a sua valorização, nomeadamente através da garantia dos alinhamentos existentes ou daqueles que vierem a ser fixados pela Câmara Municipal e da manutenção da cércea adequada ao conjunto onde se inserem.\n\n4 - Nas situações de licenciamento de demolição no interior dos conjuntos urbanos referenciados, as novas edificações observarão o anteriormente disposto. O exposto nos n.os 2 e 3 depende ainda do parecer favorável do IPPAR.\n\n5 - Qualquer licenciamento de obras (abertura de vias, canais, construções ou demolições) localizadas nas áreas identificadas de interesse arqueológico poderá ser condicionado à observância das indicações da Câmara Municipal e eventual acompanhamento técnico especializado.\n\n6 - Os planos municipais a realizar no âmbito do estabelecimento das unidades operativas de planeamento e gestão deverão definir, quando incidirem sobre áreas dos espaços culturais, formas de salvaguarda e protecção dos mesmos."
+  },
+  "5ea2ac7d0dfd3451": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Olival da serra de São Miguel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Olival da serra de São Miguel\n\n1 - Abrange áreas da REN, nomeadamente áreas com riscos de erosão e as manchas de solos a eles associadas, cabeceiras das linhas de água e áreas actualmente ocupadas por olival com e sem mato sob coberto.\n\n2 - Não se admitem alterações ao coberto vegetal, dado o interesse paisagístico de que o mesmo se reveste.\n\n3 - A edificabilidade nestas áreas resume-se à possibilidade de ampliação das construções existentes em 50% da área inicial.\n\n4 - Nestas áreas deverão ser observados os seguintes condicionamentos, sem prejuízo do disposto nos artigos 23.º e 26.º:\n\na) Apenas são permitidas plantações com espécies autóctones ou adaptadas às condições ecológicas locais e tradicionalmente utilizadas, em sebes naturais nos limites das parcelas;\n\nb) Não é permitida a execução de terraceamentos ou mobilizações profundas com reviramento da leiva nas áreas com declive inferior a 25%;\n\nc) Não são permitidas operações de preparação do solo com fins agrícolas ou silvo-pastoris que incluam mobilizações segundo a linha de maior declive;\n\nd) A prática de queimadas está dependente de autorização do Governo Civil;\n\ne) São interditas todas as acções que criem riscos de contaminação dos aquíferos, nomeadamente:\n\nA rega com águas residuais sem tratamento prévio;\n\nA utilização intensiva de biocidas e fertilizantes químicos ou orgânicos.\n\nf) Não é permitida a instalação de lixeiras, aterros sanitários ou outras concentrações de resíduos sólidos, líquidos ou gasosos e parques de sucata;\n\ng) A actividade agrícola deverá obedecer a regras rigorosas quanto às práticas culturais e à aplicação de pesticidas e fertilizantes, detendo ser preconizadas novas tecnologias com utilização de menores quantidades de pesticidas e fertilizantes e com mobilizações mínimas do solo, nomeadamente utilizando técnicas de agricultura biológica e protecção integrada;\n\nh) Todos os efluentes domésticos, industriais ou pecuários serão obrigatoriamente objecto de tratamento adequado, aprovado pelas entidades competentes, em instalação própria, sem o que não poderão ser lançados na rede de drenagem natural ou no solo;\n\ni) O sistema de esgotos deve ter em atenção a sensibilidade da zona, tomando medidas de controlo contra a contaminação de solos e aquíferos."
+  },
+  "60d19ff137d5b6df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO IV — Unidades operativas de planeamento e gestão, a implementrar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Unidades operativas de planeamento e gestão, a implementrar"
+  },
+  "b6ce1e5f6c0fe5fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — A implementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — A implementar\n\n1 - Sousel:\n\na) Plano de Urbanização de Sousel;\n\nb) Plano de Pormenor da Tapada da Portagem, em Sousel;\n\nc) Plano de Pormenor do Núcleo do Antigo Castelo/Largo da Senhora da Orada/Avenida de 25 de Abril, em Sousel;\n\nd) Plano de Pormenor da Área das Hortas Periféricas, a Norte, em Sousel.\n\n2 - Cano:\n\na) Plano de Urbanização de Cano;\n\nb) Plano de Pormenor do Núcleo Central e Rossio de Cano.\n\n3 - Casa Branca:\n\na) Plano de Urbanização de Casa Branca;\n\nb) Plano de Pormenor do Espaço Industrial (Armazéns e Oficinas) e Área Urbana Contígua não Consolidada, em Casa Branca.\n\n4 - Santo Amaro:\n\na) Plano de Urbanização de Santo Amaro;\n\nb) Plano de Pormenor da Área Urbana da Ribeira de Lupe, em Santo Amaro;\n\nc) Plano de Pormenor da Pandina 2, em Santo Amaro.\n\n5 - Plano de Ordenamento da Paisagem Protegida da Serra de São Miguel.\n\n6 - São considerados planos prioritários, condicionantes da gestão urbanística, os planos referidos nas alíneas a) e b) do n.º 1, a) e b) do n.º 2, a) do n.º 3 e a) do n.º 4 do presente artigo."
+  },
+  "53353707d4a2399c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Plano Geral de Urbanização de Sousel (PGUS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Plano Geral de Urbanização de Sousel (PGUS)\n\nFace à natureza das propostas expressas no presente Plano, relativamente ao aglomerado urbano de Sousel, considera-se o PGUS revogado.\n\n[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/1999/10/250b00/72277240.pdf)"
+  },
+  "666ecb253d739899": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Implantação de equipamento turístico e zonas turísticas",
+   "in_force_from": "2011-01-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+   ],
+   "markdown": "###### Artigo 42.º — Implantação de equipamento turístico e zonas turísticas\n\n1 - Admite-se sem prejuízo dos artigos seguintes, a construção de edifícios e estruturas de carácter turístico nas áreas rurais, desde que devidamente autorizadas pelas autoridades competentes e de acordo com os seguintes critérios:\n\na) São admitidos os seguintes tipos de empreendimentos turísticos: Estabelecimentos hoteleiros associados a temáticas específicas (saúde, desporto, actividades cinegéticas, da natureza, educativas, culturais, sociais, etc.); empreendimentos de TER, empreendimentos de turismo de habitação; parques de campismo e de caravanismo e empreendimentos de turismo da natureza nas tipologias previstas neste artigo.\n\nb) Os edifícios não podem ter mais que dois pisos acima da cota de soleira;\n\nc) O índice de impermeabilização do solo, o qual também pode variar em termos territoriais, em função de critérios objectivos estabelecidos em PDM, não pode ser superior a 0,2 (20 % da área total do prédio), excepto nos empreendimentos de turismo no espaço rural, nas modalidades de casas de campo e agro-turismo e nos empreendimentos de turismo de habitação;\n\nd) A capacidade máxima admitida para o hotel rural é de 200 camas;\n\ne) Os parques de campismo e caravanismo deverão responder aos seguintes requisitos complementares aos estabelecidos em legislação específica:\n\ni) Adaptação ao relevo existente de todas as componentes do parque de campismo: áreas para acampamento, vias, caminhos de peões, estacionamento e instalações complementares - de forma a garantir a drenagem natural, a predominância de superfícies permeáveis e a adequada integração no local;\n\nii) Organização criteriosa do espaço, equilibrando a privacidade e o sossego das instalações, com a animação e a segurança dos espaços de usos comum;\n\niii) Adopção de soluções ecologicamente sustentáveis e eficientes para as origens e redes de abastecimento, saneamento, energia, resíduos e acessibilidades;\n\niv) Utilização de materiais apropriados à sua adequada integração paisagística;\n\nv) Valorização de vistas, do território e da respectiva inserção paisagística.\n\n2 - Estas construções ficam sujeitas aos seguintes condicionamentos:\n\na) O índice máximo de construção é 0,01;\n\nb) A área máxima de implantação é 500 m2;\n\nc) A área máxima de impermeabilização do solo é de 10% da área da parcela com um máximo de 1000 m2;\n\nd) As construções não poderão exceder os dois pisos ou 6,5 m acima da cota natural do terreno.\n\n3 - Admite-se a construção de unidades turísticas de maior dimensão a título excepcional desde que estejam integradas em projectos turísticos aprovados pelas entidades competentes que tenham em especial o enquadramento paisagístico e uma adaptação harmoniosa à paisagem envolvente e às potencialidades locais.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+  },
+  "18180ee43203d1b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Área agrícola preferencial",
+   "in_force_from": "2011-01-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+   ],
+   "markdown": "###### Artigo 47.º — Área agrícola preferencial\n\n1 - As áreas agrícolas preferenciais abrangem todos os solos incluídos na que são presentemente utilizados com fins agrícolas.\n\n2 - As condições a edificar estão sujeitas às normas legais aplicáveis e às seguintes prescrições:\n\na) O índice de construção aplicado à área da parcela 0,01;\n\nb) A área máxima de impermeabilização do solo é 2 % da área da parcela, com um máximo de 1000m2;\n\nc) O número máximo de pisos: 2;\n\nd) O abastecimento de água e a drenagem dos esgotos deverão ser assegurados por sistema autónomo, salvo se for precedido ao licenciamento da extensão das redes públicas a custas do interessado;\n\n3 - Sem prejuízo da legislação em vigor respeitante à RAN e do disposto no número anterior, nos espaços agrícolas é autorizada a construção de habitação própria do proprietário agricultor da exploração agrícola, de acordo com os seguintes critérios:\n\na) O requerente é agricultor, nos termos regulamentares sectoriais, responsável pela exploração agrícola e proprietário do prédio onde se pretende localizar a habitação, facto que deve ser comprovado pelas entidades competentes;\n\nb) A área mínima do prédio é de 4ha;\n\nc) A superfície máxima de pavimentos da habitação: 200m2;\n\nd) Os prédios que constituem a exploração agrícola em que se localiza a edificação são inalienáveis durante o prazo de 10 anos subsequentes à construção, salvo por dívidas relacionadas com a aquisição de bens imóveis da exploração e de que esta seja garantia, ou por dívidas fiscais devendo esse ónus constar do registo predial da habitação. Este ónus não se aplica quando a transmissão de quaisquer direitos reais sobre esses prédios ocorrer entre agricultores e desde que se mantenha a afectação da edificação ao uso exclusivo da habitação para residência própria do adquirente - agricultor.\n\n4 - É interdita a instalação de lixeiras, aterros sanitários ou outras concentrações de resíduos sólidos, líquidos ou gasosos e parques de sucata.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+  },
+  "6d390ece077c498e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Área agrícola condicionada",
+   "in_force_from": "2011-01-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+   ],
+   "markdown": "###### Artigo 48.º — Área agrícola condicionada\n\n1 - Abrange solos incluídos na e solos com limitações ao uso agrícola intensivo, que se sobrepõem com áreas de máxima infiltração.\n\n2 - São áreas de extrema sensibilidade ecológica, pelo que as práticas agrícolas devem ser acauteladas, nomeadamente o uso excessivo de pesticidas e fertilizantes, de modo a garantir a qualidade da água infiltrada.\n\n3 - Deverá ter-se em consideração o uso actual do solo, nomeadamente o olival e o montado de sobro e azinho, podendo estes, no entanto, tomar formas de exploração mais intensivas.\n\n4 - Nas situações onde seja legalmente admissível a edificação nos termos da legislação em vigor, observar-se-ão os seguintes condicionamentos:\n\na) O índice máximo de construção é 0,002;\n\nb) A área máxima de pavimentos a edificar é 300m2;\n\nc) A área máxima de impermeabilização do solo é 2 % da área da parcela com um máximo de 1000m2;\n\nd) Sem prejuízo da legislação em vigor respeitante à RAN e do disposto nas alíneas anteriores, nos espaços agrícolas é autorizada a construção de habitação própria do proprietário agricultor da exploração agrícola, de acordo com os seguintes critérios:\n\ni) O requerente é agricultor, nos termos regulamentares sectoriais, responsável pela exploração agrícola e proprietário do prédio onde se pretende localizar a habitação, facto que deve ser comprovado pelas entidades competentes;\n\nii) A área mínima do prédio é de 4ha;\n\niii) Os prédios que constituem a exploração agrícola em que se localiza a edificação são inalienáveis durante o prazo de 10 anos subsequentes à construção, salvo por dívidas relacionadas com a aquisição de bens imóveis da exploração e de que esta seja garantia, ou por dívidas fiscais devendo esse ónus constar do registo predial da habitação. Este ónus não se aplica quando a transmissão de quaisquer direitos reais sobre esses prédios ocorrer entre agricultores e desde que se mantenha a afectação da edificação ao uso exclusivo da habitação para residência própria do adquirente - agricultor.\n\ne) Admitem-se empreendimentos turísticos isolados (ETI) aplicando-se a estes o disposto no artigo 42.º do presente regulamento.\n\n5 - Todos os efluentes domésticos, industriais ou pecuários deverão ser obrigatoriamente objecto de tratamento adequado, aprovado pelas entidades competentes, em instalação própria, sem o que não poderão ser lançados na rede de drenagem natural.\n\n6 - O sistema de recolha e tratamento dos efluentes deverá ter em atenção a sensibilidade da zona, tomando medidas de controlo contra a contaminação do solo e aquíferos.\n\n7 - São interditas quaisquer acções que criem riscos de contaminação dos aquíferos, nomeadamente:\n\na) A rega com águas residuais sem tratamento prévio;\n\nb) A utilização intensiva de biocidas e fertilizantes químicos ou orgânicos.\n\n8 - É interdita a instalação de lixeiras, aterros sanitários ou outras concentrações de resíduos sólidos, líquidos ou gasosos e parques de sucata.\n\n9 - As práticas agrícolas deverão ter em conta as características específicas desta área devendo ser preconizadas novas tecnologias, com utilização de menores quantidades de pesticidas e fertilizantes e com mobilizações menos drásticas do solo, nomeadamente utilizando técnicas de agricultura biológica e protecção integrada.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+  },
+  "c988248b3739ee41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Outras áreas agrícolas",
+   "in_force_from": "2011-01-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+   ],
+   "markdown": "###### Artigo 49.º — Outras áreas agrícolas\n\n1 - Abrange áreas do concelho presentemente ocupadas com olival, frutícolas e algumas áreas de regadio. São áreas agrícolas de baixa produtividade, a que se adaptam tanto as culturas acima referidas como as espécies florestais.\n\n2 - Trata-se de áreas com aptidão tanto agrícola como florestal e ou silvo-pastoril, prevendo-se contudo a possibilidade da continuação da sua utilização agrícola, sem prejuízo do disposto no Regulamento.\n\n3 - Pode ser autorizada a construção isolada de edificações destinadas a habitação, unidades industriais não poluentes das classes C e D, de acordo com a legislação em vigor, essencialmente agro-indústrias e unidades turísticas de agro-turismo, turismo rural ou turismo de habitação, bem como equipamentos de interesse municipal.\n\n4 - As edificações ficam sujeitas aos seguintes condicionamentos:\n\na) A altura máxima das edificações, com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, é de 6,5 m;\n\nb) Índice de construção: 0,04;\n\nc) Área máxima de pavimentos a edificar: 500 m2;\n\nd) O abastecimento domiciliário de água e a drenagem de esgotos devem ser assegurados pela constituição de sistemas autónomos de promoção privada, não sendo imputável à autarquia a extensão das redes públicas.\n\n5 - A construção de edificações destinadas a habitação, para além do disposto no número anterior, deverá cumprir os seguintes critérios:\n\na) O requerente é agricultor, nos termos regulamentares sectoriais, responsável pela exploração agrícola e proprietário do prédio onde se pretende localizar a habitação, facto que deve ser comprovado pelas entidades competentes;\n\nb) A área mínima do prédio é de 4ha;\n\nc) Os prédios que constituem a exploração agrícola em que se localiza a edificação são inalienáveis durante o prazo de 10 anos subsequentes à construção, salvo por dívidas relacionadas com a aquisição de bens imóveis da exploração e de que esta seja garantia, ou por dívidas fiscais devendo esse ónus constar do registo predial da habitação. Este ónus não se aplica quando a transmissão de quaisquer direitos reais sobre esses prédios ocorrer entre agricultores e desde que se mantenha a afectação da edificação ao uso exclusivo da habitação para residência própria do adquirente - agricultor.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+  },
+  "f5cc8ac81179ba52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Áreas agrícolas com olival ou montado de sobro e azinho, a manter",
+   "in_force_from": "2011-01-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+   ],
+   "markdown": "###### Artigo 50.º — Áreas agrícolas com olival ou montado de sobro e azinho, a manter\n\n1 - Abrange áreas com aptidão agrícola, nomeadamente RAN, actualmente ocupadas com olival ou montado de sobro e azinho.\n\n2 - Sem prejuízo da legislação em vigor, nas áreas em que não haja sobreposição com áreas da REN pode ser autorizada a construção isolada de edificações destinadas a habitação e apoio a explorações agrícolas, agro-pecuárias ou florestais, com os seguintes condicionamentos:\n\na) A altura máxima das construções, com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, é de 6,5 m;\n\nb) Índice de construção: 0,02;\n\nc) Área máxima de pavimentos a edificar, incluindo anexos: 400 m2;\n\nd) Sem prejuízo da legislação em vigor respeitante à RAN e das alíneas anteriores, nos espaços agrícolas é autorizada a construção de habitação própria do proprietário agricultor da exploração agrícola, de acordo com os seguintes critérios:\n\ni) O requerente é agricultor, nos termos regulamentares sectoriais, responsável pela exploração agrícola e proprietário do prédio onde se pretende localizar a habitação, facto que deve ser comprovado pelas entidades competentes;\n\nii) A área mínima do prédio é de 4ha;\n\niii) Os prédios que constituem a exploração agrícola em que se localiza a edificação são inalienáveis durante o prazo de 10 anos subsequentes à construção, salvo por dívidas relacionadas com a aquisição de bens imóveis da exploração e de que esta seja garantia, ou por dívidas fiscais devendo esse ónus constar do registo predial da habitação. Este ónus não se aplica quando a transmissão de quaisquer direitos reais sobre esses prédios ocorrer entre agricultores e desde que se mantenha a afectação da edificação ao uso exclusivo da habitação para residência própria do adquirente - agricultor.\n\n3 - Sem prejuízo da legislação em vigor, nas áreas em que haja sobreposição com áreas integradas na REN é aplicado o disposto no artigo 23.º do presente Regulamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+  },
+  "57365871583375c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Floresta de produção",
+   "in_force_from": "2011-01-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+   ],
+   "markdown": "###### Artigo 52.º — Floresta de produção\n\n1 - Abrangem áreas de solos de fraca aptidão agrícola mas com potencialidades silvícolas.\n\n2 - Nestas áreas devem ser instalados preferencialmente povoamentos com espécies autóctones (como sejam sobreiro, azinheira, pinheiro-manso), em povoamentos puros ou mistos, instaladas segundo técnicas de cultura e de exploração que têm por objectivo a produção.\n\n3 - Nestas áreas devem ser estabelecidos programas que motivem a gestão racional da floresta, articulando as zonas de «povoamentos puros» e «mistos», tendo em vista a salvaguarda e protecção do solo e das características da paisagem.\n\n4 - Estas áreas ficam sujeitas aos seguintes condicionamentos:\n\na) Pode ser autorizada a construção isolada de edificações destinadas a instalações de apoio a explorações agrícolas agro-pecuárias ou florestais.\n\nb) A altura máxima das construções, com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, é de 6,5 m;\n\nc) Índice de construção: 0,04;\n\nd) Área máxima de pavimentos a edificar, incluindo anexos: 1000 m2;\n\n5 - Pode ser autorizada a construção isolada de edificações destinadas a habitação de acordo com os seguintes critérios:\n\na) O requerente é agricultor, nos termos regulamentares sectoriais, responsável pela exploração agrícola e proprietário do prédio onde se pretende localizar a habitação, facto que deve ser comprovado pelas entidades competentes;\n\nb) A área mínima do prédio é de 4ha;\n\nc) A área de construção máxima admitida é de 500m2;\n\nd) A altura máxima das edificações é de 6,5 m.\n\ne) Os prédios que constituem a exploração agrícola em que se localiza a edificação são inalienáveis durante o prazo de 10 anos subsequentes à construção, salvo por dívidas relacionadas com a aquisição de bens imóveis da exploração e de que esta seja garantia, ou por dívidas fiscais devendo esse ónus constar do registo predial da habitação. Este ónus não se aplica quando a transmissão de quaisquer direitos reais sobre esses prédios ocorrer entre agricultores e desde que se mantenha a afectação da edificação ao uso exclusivo da habitação para residência própria do adquirente - agricultor.\n\n6 - O abastecimento domiciliário de água e a drenagem de esgotos devem ser assegurados pela constituição de sistemas autónomos de promoção privada, não sendo imputável à autarquia a extensão das redes públicas.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+  },
+  "58c23460a3c62c87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Sistema agro-silvo-pastoril",
+   "in_force_from": "2011-01-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+   ],
+   "markdown": "###### Artigo 53.º — Sistema agro-silvo-pastoril\n\n1 - Os sistemas agro-silvo-pastoris são constituídos por solos que não possuem um elevado potencial agrícola ou florestal ou estando incultos e onde poderão ser instaladas pastagens, sistemas silvo-pastoris ou mesmo floresta, de forma a fixar a população ligada ao meio rural.\n\n2 - Abrange as áreas do concelho ocupadas por montados de sobro e azinho, que, encontrando-se protegidas por legislação, são a manter, de acordo com essa mesma legislação e com o disposto neste Regulamento.\n\n3 - Nestas áreas poderá ser instalada floresta de protecção desde que com projectos aprovados pelas entidades competentes, devendo, no entanto, privilegiar as espécies autóctones e evitar grandes extensões de povoamento florestal puro.\n\n4 - As edificações ficam sujeitas aos seguintes condicionamentos:\n\na) A altura máxima das construções, com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, e de 6,5 m;\n\nb) Índice de construção: 0,04;\n\nc) Área máxima de pavimentos a edificar, incluindo anexos: 1000 m2;\n\n5 - Pode ser autorizada a construção isolada de edificações destinadas a habitação de acordo com os seguintes critérios:\n\na) O requerente é agricultor, nos termos regulamentares sectoriais, responsável pela exploração agrícola e proprietário do prédio onde se pretende localizar a habitação, facto que deve ser comprovado pelas entidades competentes;\n\nb) A área mínima do prédio é de 4ha;\n\nc) A área de construção máxima admitida é de 500m2;\n\nd) A altura máxima das edificações é de 6,5 m.\n\ne) Os prédios que constituem a exploração agrícola em que se localiza a edificação são inalienáveis durante o prazo de 10 anos subsequentes à construção, salvo por dívidas relacionadas com a aquisição de bens imóveis da exploração e de que esta seja garantia, ou por dívidas fiscais devendo esse ónus constar do registo predial da habitação. Este ónus não se aplica quando a transmissão de quaisquer direitos reais sobre esses prédios ocorrer entre agricultores e desde que se mantenha a afectação da edificação ao uso exclusivo da habitação para residência própria do adquirente - agricultor.\n\n6 - O abastecimento domiciliário de água e a drenagem de esgotos devem ser assegurados pela constituição de sistemas autónomos de promoção privada, não sendo imputável à autarquia a extensão das redes públicas.\n\n7 - Admitem-se empreendimentos turísticos isolados (ETI) aplicando-se a estes o disposto no artigo 42.º do presente regulamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+  }
+ }
+}

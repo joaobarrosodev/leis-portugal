@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-07-25'
+version_history:
+  file: portaria-230-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-03-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-25'
+    amending: pt:dre:3516795:por
+    amending_title: Portaria n.º 691/2008
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:12:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 691/2008. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2008/portaria-230-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,7 +134,9 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 2.º O referido contingente é constituído por:
 
-a) Uma aeronave C-130, respectiva tripulação e equipa de apoio em terra, compostas por 37 (trinta e sete) elementos;
+a) Uma aeronave C-130H, respectiva tripulação e equipa de apoio em terra, compostas por 42 elementos;
+
+> Alterado pelo/a [Portaria n.º 691/2008](https://diariodarepublica.pt/dr/detalhe/portaria/691-2008-3516795), publicado em 2008-07-25.
 
 b) Um elemento colocado no HQ/ISAF em funções no Multinational Movement Coordination Center (MNMCC).
 

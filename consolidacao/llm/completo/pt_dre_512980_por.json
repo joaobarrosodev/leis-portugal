@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:512980:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (RCM n.º 159/2003, art. 3.º): o Plano de Urbanização revoga todos os preceitos e os anexos n.os 1 e 2 do PDM de Albufeira apenas na sua área de intervenção; é uma revogação territorial parcial, não textual, que não se pode aplicar ao texto. Alterador 2 (Aviso n.º 12779/2015): não traz nenhum artigo que mencione o original.",
+  "instrucoes": [
+    "Alterador 1, art. 3.º: revogação do PDM na área de intervenção do PU — não aplicada (não textual), em nao_aplicavel.",
+    "Alterador 2: sem instruções dirigidas ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

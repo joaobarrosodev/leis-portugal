@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-06-30'
+version_history:
+  file: resolucao-conselho-ministros-1-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-01-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-06-30'
+    amending: pt:dre:393021:por
+    amending_title: Resolução do Conselho de Ministros n.º 63/99
+    changes:
+    - Altera Artigo 20.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/1/1995/01/11/p/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:08:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 63/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1995/resolucao-conselho-ministros-1-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -606,9 +621,11 @@ Nestes lugares podem localizar-se construções agrícolo-habitacionais, pequena
 
 2 - Os espaços industriais identificados na carta de ordenamento constituem unidades operativas de planeamento e de gestão e a sua concretização depende de plano de pormenor ou de loteamento industrial.
 
-3 - A concretização da Zona Industrial de Santa Eulália encontra-se condicionada pela construção do IC 5.
+3 - (Número a eliminar.)
 
-4 - A concretização da Área Industrial de Bragadas encontra-se condicionada à concretização da auto-estrada Porto-Famalicão-Chaves.
+4 - (Número a eliminar.)
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 63/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-1999-393021), publicado em 1999-06-25.
 
 ###### Artigo 21.º — Edificabilidade
 

@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:2149929:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "Neste contexto, torna-se necessário decidir acerca da prorrogação da comissão de serviço do inspector António José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL através da portaria n.º 193/2007, de 22 de Janeiro, publicada no Diário da República, 2.ª série, n.º 27, de 7 de Fevereiro de 2007.",
+      "alterador": 1
+    },
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "É prorrogada, a partir de 22 de Janeiro de 2010 e por um período de três anos, a comissão de serviço do inspector António José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL pela portaria n.º 193/2007, de 22 de Janeiro.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2 (Portaria n.º 560/2014) e 3 (Portaria n.º 16/2016) não contêm instruções textuais sobre o original: são novas prorrogações autónomas da comissão de serviço, sem alteração ao texto da Portaria n.º 50/2010.",
+  "instrucoes": [
+    "Alterador 1 (retificação): onde se lê 'José Coelho Duarte Alves' deve ler-se 'António José Coelho Duarte Alves' — aplicado nas unidades 4 e 7, as duas ocorrências do nome.",
+    "Alterador 2: nova prorrogação a partir de 22-01-2013; não altera o texto do original — não aplicado.",
+    "Alterador 3: nova prorrogação a partir de 22-01-2016; não altera o texto do original — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

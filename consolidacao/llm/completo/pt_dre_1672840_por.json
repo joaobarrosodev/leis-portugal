@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:1672840:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "Fica autorizada a Autoridade Tributária e Aduaneira (AT) a assumir os encargos orçamentais decorrentes da aquisição centralizada de equipamentos de cópia e impressão, com a respetiva assistência técnica e consumíveis de impressão, que não poderão, em cada ano económico, exceder as seguintes importâncias:\n\n[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/06/107000000/1425514255.pdf)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "A importância fixada para cada ano económico poderá ser acrescida do saldo apurado nos anos económicos anteriores.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 2, art. 1.º: o quadro das importâncias por ano económico vem só em imagem (PDF de 2015); ficou a remissão para o documento original em vez dos valores.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redação do art. 2.º do original; aplicada.",
+    "Alterador 1, art. 2.º: entrada em vigor e efeitos da própria portaria; não é do original.",
+    "Alterador 2, art. 1.º: nova redação do art. 1.º do original (quadro em imagem); aplicada.",
+    "Alterador 2, art. 2.º: entrada em vigor da própria portaria; não é do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

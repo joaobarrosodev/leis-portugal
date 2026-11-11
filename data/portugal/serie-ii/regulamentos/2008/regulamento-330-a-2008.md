@@ -29,10 +29,42 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2022-08-10'
+version_history:
+  file: regulamento-330-a-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-06-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-08-10'
+    amending: pt:dre:1598112:por
+    amending_title: Deliberação n.º 1733/2010; Deliberação n.º 1551/2015; Deliberação n.º 907/2022
+    changes:
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Adita Artigo 12.º-A
+    - Adita Artigo 12.º-B
+    - Altera Artigo 15.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T11:16:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Deliberação n.º 1733/2010; Deliberação
+    n.º 1551/2015; Deliberação n.º 907/2022. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/regulamentos/2008/regulamento-330-a-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,7 +155,21 @@ Regulamento de Organização e Funcionamento do Sistema de Acesso ao Direito e a
 
 ###### Artigo 1.º — Objecto
 
-O presente Regulamento tem por objecto a definição e regulamentação das regras e procedimentos relativos à organização e funcionamento do sistema de acesso ao direito e aos tribunais, no âmbito das competências atribuídas à Ordem dos Advogados pela Portaria n.º 10/2008, de 3 de Janeiro, com a redacção que lhe foi introduzida pela Portaria n.º 210/2008, de 29 de Fevereiro.
+1 - O presente Regulamento tem por objeto a definição e regulamentação das regras e procedimentos relativos à organização e funcionamento do sistema de acesso ao direito e aos tribunais, no âmbito das competências atribuídas à Ordem dos Advogados pela Portaria n.º 10/2008 de 3 de janeiro, alterada pela Portaria n.º 210/2008 de 29 de fevereiro, alterada e republicada pela Portaria n.º 654/2010 de 11 de agosto, alterada pela Portaria n.º 319/2011 de 30 de dezembro.
+
+2 - É da competência do Conselho Geral, nomeadamente:
+
+a) Proceder à nomeação, notificação e substituição de Advogado e Advogado Estagiário;
+
+b) Decidir das vicissitudes criadas na plataforma informática pelos Advogados e Advogados Estagiários, com exceção da prevista no Artigo 51.º n.º 1 alínea n) do EOA;
+
+c) Recusar nova nomeação decorrente de inviabilidade da ação ou da falta de colaboração do beneficiário.
+
+3 - O Conselho Geral pode delegar no Presidente do Conselho Distrital territorialmente competente em razão da área geográfica a que pertença o domicílio profissional do Advogado ou do Advogado Estagiário, com faculdade de subdelegação em algum ou alguns dos membros do Conselho Distrital, bem como, nas Delegações ou nos respetivos Delegados, as competências referidas no número anterior.
+
+4 - O Conselho Geral pode ainda delegar no Presidente da Delegação territorialmente competente em razão da área geográfica a que pertença o domicílio profissional do Advogado ou do Advogado Estagiário, com faculdade de subdelegação em algum ou alguns dos seus membros, as competências referidas no n.º 2.
+
+> Alterado pelo/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
 
 ### CAPÍTULO II — Participação
 
@@ -130,75 +177,73 @@ O presente Regulamento tem por objecto a definição e regulamentação das regr
 
 1 - Compete ao Conselho Geral a definição dos termos da selecção dos Advogados e Advogados Estagiários que tenham apresentado candidatura para participação no sistema de acesso ao direito e aos tribunais.
 
-2 - Os Advogados com inscrição definitiva e em vigor na Ordem dos Advogados e com as quotas regularizadas podem apresentar candidatura com vista à participação no sistema de acesso ao direito e aos tribunais para prestação de qualquer das modalidades de prestação de serviços previstas no n.º 1, do artigo 18.º da Portaria n.º 10/2008, de 3 de Janeiro.
+2 - Os Advogados com inscrição definitiva e em vigor na Ordem dos Advogados, que residam habitualmente em Portugal, que tenham a advocacia como sua profissão principal, nomeadamente cuja atividade não seja prestada em regime de subordinação e em exclusividade ao serviço de quaisquer serviços ou entidades que possuam natureza pública ou prossigam finalidades de interesse público, que tenham concluído o seu estágio em Portugal, ou, não tendo concluído o estágio em Portugal, que se encontrem inscritos há, pelo menos, dezoito meses, com efetiva atividade forense, em Portugal, durante tal período e com as quotas regularizadas, podem apresentar candidatura com vista à participação no sistema de acesso ao direito e aos tribunais para prestação de qualquer das modalidades de prestação de serviços previstas no n.º 1, do artigo 18.º da Portaria n.º 10/2008, de 3 de janeiro.
 
-3 - Os Advogados Estagiários com inscrição em vigor na Ordem dos Advogados podem participar no sistema de acesso ao direito e aos tribunais, em todos os processos atribuídos ao seu patrono, intervindo nas diligências e processos, com substabelecimento com reserva.
+3 - Os Advogados Estagiários com inscrição em vigor na Ordem dos Advogados podem participar no sistema de acesso ao direito e aos tribunais, em todos os processos atribuídos ao seu patrono nos termos do artigo 189.º do E.O.A., intervindo em diligências determinadas, com substabelecimento com reserva.
 
 4 - Os Advogados Estagiários com inscrição em vigor na Ordem dos Advogados podem apresentar candidatura para participação no sistema de acesso ao direito e aos tribunais na modalidade de prestação de serviços previstos na alínea e), do n.º 1, do artigo 18.º da Portaria n.º 10/2008, de 3 de Janeiro.
+
+> Alterado pelo/a [Deliberação n.º 907/2022](https://diariodarepublica.pt/dr/detalhe/deliberacao/907-2022-187258583), publicado em 2022-08-10.
 
 ###### Artigo 3.º — Processo de inscrição
 
 1 - Os Advogados e Advogados Estagiários que pretendam participar no sistema de acesso ao direito e aos tribunais devem apresentar candidatura junto da Ordem dos Advogados, através do preenchimento electrónico de Formulário de Inscrição disponibilizado pelo Conselho Geral, na área reservada do portal da Ordem dos Advogados.
 
-2 - No momento da inscrição os Advogados devem indicar obrigatoriamente os seguintes dados:
+2 - O Formulário de Inscrição encontra-se pré preenchido com os dados referentes ao nome, cédula e domicílio profissionais e conta de correio eletrónico da OA, constantes na base de dados da Ordem dos Advogados.
 
-a) Nome profissional;
+3 - No momento da inscrição os Advogados devem indicar obrigatoriamente os seguintes dados:
 
-b) Domicílio profissional;
+a) Telefone;
 
-c) Número e data de validade da Cédula Profissional;
+b) Telemóvel profissional;
 
-d) Telefone;
+c) Área(s) preferencial(ais) de intervenção;
 
-e) Fax;
+d) Indicação da modalidade de participação no sistema, nos termos do disposto no n.º 1, do artigo 18.º da Portaria n.º 10/2008, de 3 de janeiro;
 
-f) Telemóvel;
+e) Indicação da composição dos lotes, nos termos do disposto nos n.os 2 e 3, do artigo 18.º da Portaria n.º 10/2008, de 3 de janeiro;
 
-g) Endereço de correio electrónico (Conta de E-mail O.A.);
+f) N.º de Identificação Fiscal;
 
-h) Área(s) preferencial(ais) de intervenção;
+g) N.º de Identificação Bancária;
 
-i) Indicação da modalidade de participação no sistema, nos termos do disposto no n.º 1, do artigo 18.º da Portaria n.º 10/2008, de 3 de Janeiro;
+h) Enquadramento fiscal em sede de IVA e IRS;
 
-j) Indicação da composição dos lotes, nos termos do disposto nos n.os 2 e 3, do artigo 18.º da Portaria n.º 10/2008, de 3 de Janeiro;
+i) Local de obtenção de rendimentos.
 
-k) N.º de Identificação Fiscal;
+j) Declaração, sob compromisso de honra, de não prestar a sua atividade em regime de subordinação e em exclusividade, ao serviço de quaisquer serviços ou entidades que possuam natureza pública ou prossigam finalidades de interesse público;
 
-l) N.º de Identificação Bancária;
+k) Declaração, sob compromisso de honra, de efetiva atividade forense, em Portugal, nos dezoito meses anteriores ao início do período de inscrição;
 
-m) Enquadramento fiscal em sede de IVA e IRS.
+l) Declaração, sob compromisso de honra, de ter residência habitual em Portugal;
 
-3 - No momento da inscrição os Advogados Estagiários devem indicar obrigatoriamente os seguintes dados:
+m) Declaração, sob compromisso de honra, de prestação de consentimento à Ordem dos Advogados para verificação da veracidade e autenticidade dos dados transmitidos.
 
-a) Nome profissional;
+4 - No momento da inscrição os Advogados Estagiários devem indicar obrigatoriamente os seguintes dados:
 
-b) Indicação do Patrono;
+a) Indicação do Patrono;
 
-c) Domicílio profissional;
+b) Telefone;
 
-d) Número e data de validade da Cédula Profissional de Advogado Estagiário;
+c) Telemóvel profissional;
 
-e) Telefone;
+d) N.º de Identificação Fiscal;
 
-f) Fax;
+e) N.º de Identificação Bancária;
 
-g) Telemóvel;
+f) Enquadramento fiscal em sede de IVA e IRS;
 
-h) Endereço de correio electrónico (Conta de E-mail O.A.);
+g) Local de obtenção de rendimentos.
 
-i) N.º de Identificação Fiscal;
+5 - Os Advogados e Advogados Estagiários comprometem-se a manter atualizados todos os dados referidos nos números anteriores, sendo da sua única e exclusiva responsabilidade a veracidade e autenticidade dos mesmos.
 
-j) N.º de Identificação Bancária;
+6 - Os dados referidos nos n.os 3 e 4, do presente artigo são objeto de registo na base de dados da Ordem dos Advogados.
 
-k) Enquadramento fiscal em sede de IVA e IRS.
+7 - A inscrição no sistema é acompanhada de declaração de autorização do interessado para o tratamento informatizado dos seus dados pessoais e profissionais.
 
-4 - Os Advogados e Advogados Estagiários comprometem-se a manter actualizados todos os dados referidos nos números anteriores, sendo da sua única e exclusiva responsabilidade a veracidade e autenticidade dos mesmos.
+8 - O processo de participação no sistema do acesso ao direito e aos tribunais é efetuado, pelo menos, uma vez em cada ano civil, em data e termos a definir por deliberação do Conselho Geral.
 
-5 - Os dados referidos nos n.os 2 e 3, do presente artigo são objecto de registo na base de dados da Ordem dos Advogados.
-
-6 - A inscrição no sistema é acompanhada de declaração de autorização do interessado para o tratamento informatizado dos seus dados pessoais e profissionais.
-
-7 - O processo de participação no sistema de acesso ao direito e aos tribunais é efectuado pelo menos duas vezes em cada ano civil, em data e termos a definir por deliberação do Conselho Geral, sem prejuízo da obrigação dos advogados de acompanharem os processos para os quais tenham sido nomeados até final.
+> Alterado pelo/a [Deliberação n.º 907/2022](https://diariodarepublica.pt/dr/detalhe/deliberacao/907-2022-187258583), publicado em 2022-08-10.
 
 ### CAPÍTULO III — Regras de participação
 
@@ -206,13 +251,17 @@ k) Enquadramento fiscal em sede de IVA e IRS.
 
 1 - No momento da apresentação da candidatura, os Advogados devem optar pela designação para as modalidades de prestação de serviços no sistema de acesso ao direito e aos tribunais, nos termos do disposto no artigo 18.º da Portaria n.º 10/2008, de 10 de Janeiro.
 
-2 - No momento da apresentação da candidatura, os Advogados Estagiários devem indicar a modalidade de prestação de serviços prevista na alínea e), do n.º 1, do artigo 18.º da Portaria n.º 10/2008 de 10 de Janeiro, que será prestada exclusivamente nos gabinetes de consulta jurídica.
+2 - No momento da apresentação da candidatura, os Advogados Estagiários devem indicar a modalidade de prestação de serviços prevista na alínea e), do n.º 1, do artigo 18.º da Portaria n.º 10/2008 de 10 de janeiro, que será prestada no seu domicílio profissional ou em gabinetes de consulta jurídica.
 
-3 - Os Advogados e os Advogados Estagiários são hierarquizados atendendo à ordem cronológica de inscrição no sistema e, em caso desta se revelar coincidente, considera-se a antiguidade da inscrição na Ordem dos Advogados.
+3 - Os Advogados e os Advogados Estagiários são hierarquizados atendendo ao número da ordem de inscrição atribuído no sistema.
+
+> Alterado pelo/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
 
 ###### Artigo 5.º — Número de lotes por comarca
 
-O número de lotes com a composição referida nos n.os 2 e 3, do artigo 18.º da Portaria n.º 10/2008, de 10 de Janeiro, é definido pelo Conselho Geral, após audição dos Conselhos Distritais, com a periodicidade prevista no n.º 7, do artigo 3.º, do presente Regulamento.
+Compete ao Conselho Geral determinar o número de lotes de processos e de lotes de escalas de prevenção e a respectiva composição, bem como definir as circunscrições em que se justifica a sua existência.
+
+> Alterado pelo/a [Deliberação n.º 1733/2010](https://diariodarepublica.pt/dr/detalhe/deliberacao/1733-2010-1598112), publicado em 2010-09-27.
 
 ###### Artigo 6.º — Preenchimento dos lotes de processos
 
@@ -222,27 +271,31 @@ O número de lotes com a composição referida nos n.os 2 e 3, do artigo 18.º d
 
 3 - A ordem de preenchimento dos lotes é determinada por aplicação dos critérios definidos n.º 3, do artigo 4.º do presente Regulamento, com as necessárias adaptações.
 
-4 - A indicação da área preferencial de intervenção, prevista na alínea h), do n.º 2, do artigo 3.º do presente Regulamento, será atendida, na medida do possível, com respeito pelas regras de preenchimento dos lotes de processos.
+4 - A indicação da área preferencial de intervenção, prevista na alínea c) do n.º 3 do artigo 3.º do presente Regulamento, será atendida, na medida do possível, com respeito pelas regras de preenchimento dos lotes de processos.
 
-###### Artigo 7.º — Causas de exclusão
+> Alterado pelo/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
 
-1 - São causas de exclusão do sistema de acesso ao direito e aos tribunais, designadamente as seguintes:
+###### Artigo 7.º — Exclusão do sistema
+
+1 - São causas de exclusão do sistema do acesso ao direito e aos tribunais, não podendo o advogado candidatar-se enquanto não tiverem decorrido 3 anos, ou 5 anos em caso de dolo, sobre a data da sua exclusão, designadamente as seguintes:
 
 a) A falsificação, o fabrico ou a elaboração de factos ou informações falsas sobre qualquer componente destinada a corporizar a informação gerida e gerada pelo sistema;
 
-b) O atraso injustificado na transmissão da informação relevante para o funcionamento do sistema;
-
-c) A omissão de qualquer informação relevante com vista à corporização da informação gerida e gerada pelo sistema;
-
-d) O incumprimento da prestação dos serviços correspondente a qualquer uma das modalidades previstas no n.º 1, do artigo 18.º da Portaria n.º 10/2008, de 3 de Janeiro, designada, pelo Advogado ou Advogado Estagiário, no momento de apresentação da respectiva candidatura ao sistema.
+b) O incumprimento da prestação dos serviços correspondente a qualquer uma das modalidades previstas no n.º 1, do artigo 18.º da Portaria n.º 10/2008, de 3 de janeiro, designada, pelo Advogado ou Advogado Estagiário, no momento de apresentação da respetiva candidatura ao sistema.
 
 2 - A decisão de exclusão do sistema de acesso ao direito e aos tribunais cabe ao Conselho Distrital territorialmente competente em razão da área geográfica a que pertença o domicílio profissional do Advogado ou do Advogado Estagiário.
 
-3 - Da decisão prevista no número anterior cabe recurso para o Conselho Geral.
+3 - (Revogado.)
 
 4 - A exclusão do sistema é independente da responsabilidade disciplinar, civil e criminal do Advogado e do Advogado Estagiário.
 
-5 - Em caso de exclusão do sistema são restituídas ao Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I.P., as quantias recebidas, no prazo de 30 (trinta) dias, a contar da data da notificação da decisão final.
+5 - Em caso de exclusão do sistema são restituídas ao Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., no prazo de 30 (trinta) dias, a contar da data da notificação da decisão final, todas as quantias entregues por conta de cada processo ou diligência em curso.
+
+6 - A substituição do Advogado expulso nos processos pendentes deverá ocorrer no prazo máximo de 10 dias.
+
+> Revogado pelo/a Artigo 2.º do/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
+
+> Alterado pelo/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
 
 ###### Artigo 8.º — Saída do sistema
 
@@ -256,7 +309,7 @@ d) O incumprimento da prestação dos serviços correspondente a qualquer uma da
 
 5 - O Presidente do Conselho Distrital pode delegar a competência definida no número anterior em algum ou alguns dos seus membros.
 
-6 - Da decisão prevista no n.º 4 do presente artigo cabe recurso para o Bastonário.
+6 - (Revogado.)
 
 7 - Após a saída do sistema a substituição integral do lote será assegurada por Advogado inscrito para a mesma modalidade de prestação de serviços.
 
@@ -264,7 +317,11 @@ d) O incumprimento da prestação dos serviços correspondente a qualquer uma da
 
 9 - Não se revelando possível a substituição integral num lote ou sendo julgada injustificada a saída do sistema, o Advogado restituirá todas as quantias entregues por conta de cada processo ou diligência em curso.
 
-10 - O Advogado procederá à restituição de todas as quantias recebidas por conta de cada processo ou diligência em curso ao Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, IP, no prazo de 30 (30 dias) a contar da notificação da decisão final.
+10 - O Advogado procederá à restituição de todas as quantias recebidas por conta de cada processo ou diligência em curso ao Instituto de Gestão Financeira e Equipamentos da Justiça, IP, no prazo de 30 (trinta dias) a contar da notificação da decisão final.
+
+> Revogado pelo/a Artigo 2.º do/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
+
+> Alterado pelo/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
 
 ###### Artigo 9.º — Pedido de escusa
 
@@ -273,6 +330,10 @@ d) O incumprimento da prestação dos serviços correspondente a qualquer uma da
 2 - Não havendo acordo de todos os intervenientes quanto à repartição de honorários, a sua determinação compete ao Presidente do Conselho Distrital, no âmbito da sua competência territorial, devendo a informação ser registada no sistema.
 
 3 - O Presidente do Conselho Distrital pode delegar a competência definida no número anterior em algum ou alguns dos seus membros.
+
+4 - O disposto no presente artigo é aplicável a outros casos de substituição de patronos que justifiquem a repartição de honorários.
+
+> Alterado pelo/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
 
 ### CAPÍTULO IV — Deveres dos Advogados e Advogados Estagiários Participantes no sistema de acesso ao direito e aos tribunais
 
@@ -284,21 +345,33 @@ a) Exercer o patrocínio judiciário, por nomeação da Ordem dos Advogados, no 
 
 b) Assegurar o patrocínio, praticando todos os actos necessários à defesa dos interesses do patrocinado do apoio judiciário, não obstante, as limitações e dificuldades, decorrentes do seu desinteresse ou da sua falta de colaboração;
 
-c) Recusar a nomeação para acto ou diligência efectuada em desconformidade com a designação feita pela Ordem dos Advogados constante da lista de escalas de prevenção de Advogados.
+c) Recusar a nomeação para acto ou diligência efectuada em desconformidade com a designação feita pela Ordem dos Advogados constante da lista de escalas de prevenção de Advogados ou sem recurso ao sistema gerido pela Ordem dos Advogados (SINOA).
 
-d) Prestar com rigor, verdade e atempadamente todas as informações sobre os elementos previstos nos artigos 3.º e 12.º do presente Regulamento.
+d) Prestar com rigor, verdade e atempadamente todas as informações sobre os elementos previstos nos artigos 3.º, 12.º e 12.º-B do presente Regulamento;
 
 e) Indicar, através do portal da Ordem dos Advogados, no prazo de 5 (cinco) dias, após notificação da nomeação que ocorra para processo pendente, o respectivo número, vara/juízo, secção, tipo de acção, natureza de Processo, identificação das partes, o fim para o qual foi requerido o apoio judiciário;
 
-f) Indicar, através do portal da Ordem dos Advogados, no prazo máximo de 30 (trinta) dias, após notificação da nomeação que se destine a um processo ou uma acção a instaurar, o respectivo número, vara/juízo, secção, tipo de acção, natureza de Processo, identificação das partes, o fim para o qual foi requerido o apoio judiciário;
+f) Indicar na área reservada do portal da Ordem dos Advogados, no prazo máximo de 40 (quarenta dias), após a notificação da nomeação que se destine a um processo ou a uma acção a instaurar, o respectivo número, vara/juízo, secção, tipo de acção, natureza do processo, identificação das partes e o valor da acção ou processo;
 
-g) Confirmar na área reservada do portal da Ordem dos Advogados, no prazo máximo de 5 (cinco) dias após a prestação da Consulta Jurídica, os elementos referentes à consulta, para efeitos de corporização da informação com vista à transmissão e processamento dos honorários;
+g) Confirmar na área reservada do portal da Ordem dos Advogados, no prazo máximo de 5 (cinco) dias, após a prestação da Consulta Jurídica, os elementos referentes à consulta e o número de autorização de pagamento ao mandatário, emitido pela Segurança Social, para efeitos de corporização da informação com vista à transmissão e processamento dos honorários.
 
-h) Transmitir a data de propositura da acção ou processo, bem como a data do trânsito em julgado da respectiva sentença ou acórdão, para efeitos de corporização da informação com vista à transmissão e ao processamento dos honorários;
+h) Confirmar na área reservada do portal da Ordem dos Advogados, no prazo máximo de 5 (cinco) dias, após a efectivação da escala, em caso de intervenção processual decorrente de nomeação urgente feita apenas para a diligência, os elementos informativos necessários à transmissão e processamento dos honorários.
 
-i) Enviar o recibo para o Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I.P., no prazo de 30 (trinta) dias, a contar da data em que foi dado conhecimento ao Advogado da realização do pagamento, por transferência bancária;
+i) Apresentar nota de despesas e submetê-la à homologação da Ordem dos Advogados;
 
-j) Cooperar com a Ordem dos Advogados em todas as acções ou medidas que esta venha a prosseguir com vista a melhorar a gestão da participação dos Advogados no sistema de acesso ao direito e aos tribunais.
+j) Transmitir a data de propositura da acção ou processo, bem como a data do trânsito em julgado da respectiva sentença ou acórdão, para efeitos de corporização da informação com vista à transmissão e ao processamento dos honorários;
+
+k) Emitir recibo ao Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., nos prazos estabelecidos na legislação fiscal.
+
+l) Enviar para o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., no prazo de 30 (trinta) dias, no caso de ter sido assegurado o pagamento antecipado de despesas, cópia dos documentos que comprovem a sua realização;
+
+m) Não recusar nomeações para processos fora do âmbito da(s) área(s) preferencial(ais) de intervenção indicadas no momento da inscrição, sempre que tal se mostrar essencial para garantir o regular funcionamento do sistema de acesso ao direito;
+
+n) Não recusar intervir nas escalas realizadas em comarcas limítrofes quando indicado pela Ordem dos Advogados, sempre que tal se mostrar essencial para garantir o regular funcionamento do sistema de acesso ao direito;
+
+o) Cooperar com a Ordem dos Advogados em todas as ações ou medidas que esta venha a prosseguir com vista a melhorar a gestão da participação dos Advogados no sistema de acesso ao direito e aos tribunais.
+
+> Alterado pelo/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
 
 ###### Artigo 11.º — Deveres dos Advogados Estagiários
 
@@ -310,17 +383,43 @@ b) Prestar com rigor, verdade e atempadamente todas as informações sobre os el
 
 c) Confirmar na área reservada do portal da Ordem dos Advogados, no prazo máximo de 5 (cinco) dias após a prestação da consulta jurídica, os elementos referentes à consulta, para efeitos de corporização da informação com vista à transmissão e processamento dos honorários;
 
-d) Enviar o recibo para o Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I.P., no prazo de 30 (trinta) dias a contar da data em que foi dado conhecimento ao advogado estagiário da realização do pagamento, por transferência bancária.
+d) Emitir recibo ao Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., nos prazos estabelecidos na legislação fiscal.
+
+> Alterado pelo/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
 
 ### CAPÍTULO V — Honorários e pagamentos
 
 ###### Artigo 12.º — Pagamento de honorários
 
-1 - A remuneração dos Advogados e Advogados Estagiários pelos serviços prestados no âmbito do sistema de acesso ao direito e aos tribunais é devida pelo Estado Português, sendo assegurada através do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I.P., nos termos da Portaria n.º 10/2008, de 3 de Janeiro.
+1 - A remuneração dos Advogados e Advogados Estagiários pelos serviços prestados no âmbito do sistema de acesso ao direito e aos tribunais é devida pelo Estado Português, sendo assegurada através do Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., nos termos da Portaria n.º 10/2008, de 3 de janeiro.
 
 2 - No âmbito do disposto no n.º 1 do presente artigo, a informação para efeitos de processamento dos valores dos honorários e das despesas é da exclusiva responsabilidade dos Advogados ou dos Advogados Estagiários que, na área reservada do portal da Ordem dos Advogados, devem indicar os elementos necessários ao respectivo processamento.
 
-3 - Os elementos de informação transmitidos, através da área reservada do portal da Ordem dos Advogados, são transmitidos informaticamente para o Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I.P., que procederá ao pagamento por transferência bancária.
+3 - Os elementos de informação transmitidos, através da área reservada do portal da Ordem dos Advogados, são transmitidos informaticamente para o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., que procederá ao pagamento por transferência bancária.
+
+> Alterado pelo/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
+
+###### Artigo 12.º-A — Adiantamento do pagamento de despesas nas Regiões Autónomas
+
+1 - Sempre que se verifique a indispensabilidade de deslocação de patrono ou defensor nomeado para ilha diversa da do seu domicílio, e que nesta não haja advogado inscrito no sistema de acesso ao direito, o advogado pode solicitar autorização para o adiantamento do pagamento dos custos inerentes à sua deslocação.
+
+2 - A autorização é solicitada ao Presidente do Conselho Distrital competente em razão da área do seu domicílio profissional, mediante requerimento fundamentado.
+
+3 - O Presidente do Conselho Distrital, sempre que autorize o adiantamento do pagamento de custos inerentes à deslocação de patrono ou defensor nomeado, deve comunicar, pelo meio mais célere, tal autorização ao Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., com vista a que este assegure o pagamento de tais custos.
+
+> Aditado pelo/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
+
+###### Artigo 12.º-B — Reembolso de despesas
+
+1 - O reembolso das despesas suportadas pelos Advogados que participam no sistema de acesso ao direito depende da apresentação de nota de despesas e da sua homologação pelo Conselho Geral.
+
+2 - O advogado deve solicitar a homologação da nota de despesas, na área reservada do portal da Ordem dos Advogados.
+
+3 - A nota de despesas, assim como, os documentos que comprovam a realização das mesmas deverão ser remetidos em formato PDF assinados digitalmente através de certificado de assinatura eletrónica.
+
+4 - O disposto no número anterior não prejudica o dever de exibição dos documentos originais comprovativos das despesas homologadas ou por homologar, sempre que o Conselho Geral o determine.
+
+> Aditado pelo/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
 
 ###### Artigo 13.º — Conta Corrente do Advogado
 
@@ -336,25 +435,23 @@ d) Enviar o recibo para o Instituto de Gestão Financeira e de Infra-Estruturas 
 
 ### CAPÍTULO VI — Dos Recursos
 
-###### Artigo 15.º — Prazo
+###### Artigo 15.º — Recursos
 
-O prazo para interposição dos recursos previstos no presente Regulamento é de 15 (15 dias) a contar da notificação da decisão.
+As decisões proferidas no âmbito do presente regulamento não admitem reclamação nem recurso hierárquico, sendo suscetíveis de impugnação judicial.
+
+> Alterado pelo/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
 
 ###### Artigo 16.º — Forma
 
-1 - O requerimento de interposição de recurso é sempre motivado, sob pena de não admissão do mesmo.
+(Revogado.)
 
-2 - Interposto o recurso, o órgão recorrido notifica, através de e-mail, o recorrente, designadamente, de:
-
-a) Não admissão do recurso por falta de fundamentação;
-
-b) Admissão e subida do recurso para o Bastonário ou para o Conselho Geral.
+> Revogado pelo/a Artigo 2.º do/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
 
 ###### Artigo 17.º — Prazos de decisão
 
-1 - A decisão do recurso deverá ser proferida em 15 (quinze) dias, a contar da data da sua distribuição.
+(Revogado.)
 
-2 - Por razões de especial complexidade pode a decisão ser proferida em prazo alargado e desse facto deverá ser lavrado despacho justificativo.
+> Revogado pelo/a Artigo 2.º do/a [Deliberação n.º 1551/2015](https://diariodarepublica.pt/dr/detalhe/deliberacao/1551-2015-69955561), publicado em 2015-08-06.
 
 ### CAPÍTULO VII — Disposições finais
 

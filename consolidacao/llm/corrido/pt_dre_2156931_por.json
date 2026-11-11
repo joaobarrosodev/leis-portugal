@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:2156931:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 7,
+      "texto": "2001 - Euro 1 713 879,22;\n\n2002 - Euro 571 293,08;\n\n2003 - Euro 571 293,07.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: a repartição dos encargos da portaria n.º 21/2002 é alterada para 2001/2002/2003 — substituídas as unidades 6 e 7 pelos três valores novos.",
+    "Alterador 1, 2.º: norma própria sobre a satisfação dos encargos de 2003 pelo orçamento do IFADAP — não é alteração ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

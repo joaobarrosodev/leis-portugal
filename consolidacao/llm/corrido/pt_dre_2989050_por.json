@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:2989050:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 30,
+      "texto": "1 - Fica autorizado o agrupamento de entidades adjudicantes constituído pelo Instituto das Tecnologias de Informação na Justiça, I.P. (ITIJ), na qualidade de representante do agrupamento, a Secretaria-Geral do Ministério da Justiça (SGMJ), a Inspecção-Geral dos Serviços de Justiça (IGSJ), a Direcção-Geral de Política da Justiça (DGPJ), a Direcção-Geral da Administração da Justiça (DGAJ), o Gabinete para a Resolução Alternativa de Litígios (GRAL), a Direcção-Geral dos Serviços Prisionais (DGSP), a Direcção-Geral da Reinserção Social (DGRS), o Instituto dos Registos e do Notariado, I.P. (IRN), o Instituto de Gestão Financeira e de Infra-estruturas na Justiça, I.P. (IGFIJ), o Instituto Nacional de Medicina Legal, I.P. (INML), a Polícia Judiciária (PJ) e o Centro de Estudos Judiciários (CEJ), à aquisição de serviços de comunicações electrónicas de transmissão de dados e acesso à Internet, pelo período de três anos (36 meses), que envolve despesa nos anos económicos de 2007, 2008, 2009 e 2010, repartida pelos diversos organismos, de acordo com os seguintes limites máximos, distribuição e escalonamento, a que acresce o IVA à taxa legal em vigor:\n\n[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/12/251000000/3817638177.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O quadro de distribuição e escalonamento da nova redação do n.º 1 (Portaria n.º 1216/2007) só vem em imagem; o quadro antigo foi substituído pela ligação ao documento original, sem transcrição dos valores.",
+  "instrucoes": [
+    "Portaria n.º 1216/2007, art. 1.º: nova redação do n.º 1 — substituídas as unidades 13 a 30 (corpo do n.º 1 e quadro antigo) pelo novo texto e pela ligação ao quadro em imagem.",
+    "Portaria n.º 1216/2007, art. 2.º: produção de efeitos — não é alteração textual do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

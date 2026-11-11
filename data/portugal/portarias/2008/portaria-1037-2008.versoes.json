@@ -1,0 +1,706 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:453859:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-09-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "200e4b065cfa596d",
+    "dd722801aa79bc26",
+    "9ad3ca7b32f75249",
+    "ef3e95e827152e02",
+    "1241e391f07eefd8",
+    "23836370ae405d04",
+    "c25061ccb4da28f0",
+    "aaf96725acf938b8",
+    "68b620b71c697dc2",
+    "4eb9238dc74d0ab5",
+    "61196ae277eb82d1",
+    "cc6f648df0b0d87d",
+    "ee8b0893b83cfbf8",
+    "8fdadeaa7ec8b3fd",
+    "53c2d93e82cd398b",
+    "d382e36fc79ed0f2",
+    "fbbb0d524be57eae",
+    "ed55e910261b3e93",
+    "ec5eaf61c5e03e72",
+    "8bf9ccd7c85cc77f",
+    "4b226bfee28640c9",
+    "36b3968c2284a06a",
+    "1783ea2c5cf4ef64",
+    "ce2d74bfede8de9a",
+    "b41d9ca28ac688ad",
+    "d348a5b5a73b9ecb",
+    "79d8301b5c9df671",
+    "948391f917ee4817",
+    "bde122f01a65217b",
+    "7e2b98bbd628436e",
+    "bde56f4df8a86f20",
+    "c134b697fc9b44d9",
+    "bc9aa1c4c0e95c0f",
+    "48702de0415659f3",
+    "e52b0cb63d610cef",
+    "f974dea06237a7ac",
+    "94a75024df6ab56e",
+    "8213c010073bafac",
+    "2fc213eb9acf19e6",
+    "12b1842a32797ad2",
+    "3eb9f006ac8aca3a",
+    "036abbd5c152cf35",
+    "fe79e6f81643b287",
+    "000f8d534b73e286",
+    "18dc7a9bd9e0e4a0",
+    "811cfbb55fc17a43",
+    "0ee6092e66af2ba3",
+    "da5fecfa44a80f08",
+    "d0dcf3aeed325bcd",
+    "b2a71e47bac0d020",
+    "3d26d295ce109861",
+    "92d3b97440e1575a",
+    "3a8618ec79872eb5",
+    "3a7af8f64ecb435c",
+    "c71b1f426583eb23"
+   ]
+  },
+  {
+   "date": "2009-12-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2969667:por",
+     "title": "Aviso n.º 22359/2009",
+     "published": "2009-12-14",
+     "dre_path": "/dr/detalhe/aviso/22359-2009-2969667"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — ESTATUTOS DA ENTIDADE REGIONAL DE TURISMO DO CENTRO DE PORTUGAL::4.º",
+    "Altera Artigo ANEXO — ESTATUTOS DA ENTIDADE REGIONAL DE TURISMO DO CENTRO DE PORTUGAL::8.º",
+    "Altera Artigo ANEXO — ESTATUTOS DA ENTIDADE REGIONAL DE TURISMO DO CENTRO DE PORTUGAL::12.º",
+    "Altera Artigo ANEXO — ESTATUTOS DA ENTIDADE REGIONAL DE TURISMO DO CENTRO DE PORTUGAL::19.º",
+    "Altera Artigo ANEXO — ESTATUTOS DA ENTIDADE REGIONAL DE TURISMO DO CENTRO DE PORTUGAL::22.º",
+    "Altera Artigo ANEXO — ESTATUTOS DA ENTIDADE REGIONAL DE TURISMO DO CENTRO DE PORTUGAL::25.º",
+    "Altera Artigo ANEXO — ESTATUTOS DA ENTIDADE REGIONAL DE TURISMO DO CENTRO DE PORTUGAL::28.º",
+    "Altera Artigo ANEXO — ESTATUTOS DA ENTIDADE REGIONAL DE TURISMO DO CENTRO DE PORTUGAL::29.º",
+    "Altera Artigo ANEXO — ESTATUTOS DA ENTIDADE REGIONAL DE TURISMO DO CENTRO DE PORTUGAL::30.º",
+    "Altera Artigo ANEXO — ESTATUTOS DA ENTIDADE REGIONAL DE TURISMO DO CENTRO DE PORTUGAL::31.º",
+    "Altera Artigo ANEXO — ESTATUTOS DA ENTIDADE REGIONAL DE TURISMO DO CENTRO DE PORTUGAL::34.º"
+   ],
+   "fragments": [
+    "200e4b065cfa596d",
+    "dd722801aa79bc26",
+    "9ad3ca7b32f75249",
+    "ef3e95e827152e02",
+    "1241e391f07eefd8",
+    "23836370ae405d04",
+    "c25061ccb4da28f0",
+    "aaf96725acf938b8",
+    "68b620b71c697dc2",
+    "fa4561eb7127ea0d",
+    "61196ae277eb82d1",
+    "cc6f648df0b0d87d",
+    "ee8b0893b83cfbf8",
+    "8fdadeaa7ec8b3fd",
+    "53c2d93e82cd398b",
+    "5ddcadf411d2b3ed",
+    "fbbb0d524be57eae",
+    "ed55e910261b3e93",
+    "ec5eaf61c5e03e72",
+    "8bf9ccd7c85cc77f",
+    "7ac857638c280145",
+    "36b3968c2284a06a",
+    "1783ea2c5cf4ef64",
+    "ce2d74bfede8de9a",
+    "b41d9ca28ac688ad",
+    "d348a5b5a73b9ecb",
+    "79d8301b5c9df671",
+    "7e50763cd7123714",
+    "bde122f01a65217b",
+    "7e2b98bbd628436e",
+    "bde56f4df8a86f20",
+    "99648a509f33d705",
+    "bc9aa1c4c0e95c0f",
+    "48702de0415659f3",
+    "d54c4ed8ada66749",
+    "f974dea06237a7ac",
+    "94a75024df6ab56e",
+    "dc1f88699e64bbfb",
+    "155b6de1b14a9142",
+    "b954deca5077090a",
+    "0f998eeb7136e116",
+    "036abbd5c152cf35",
+    "fe79e6f81643b287",
+    "000f8d534b73e286",
+    "18dc7a9bd9e0e4a0",
+    "39042ecfecf15179",
+    "0ee6092e66af2ba3",
+    "da5fecfa44a80f08",
+    "d0dcf3aeed325bcd",
+    "b2a71e47bac0d020",
+    "3d26d295ce109861",
+    "92d3b97440e1575a",
+    "3a8618ec79872eb5",
+    "3a7af8f64ecb435c",
+    "c71b1f426583eb23"
+   ]
+  }
+ ],
+ "fragments": {
+  "200e4b065cfa596d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Setembro\n\nO [Decreto-Lei n.º 67/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), de 10 de Abril, que aprova o novo regime jurídico das áreas regionais de turismo de Portugal continental, sua delimitação e características, bem como o regime jurídico de criação, organização e funcionamento das respectivas entidades regionais de turismo, determina que os estatutos iniciais de cada entidade regional de turismo são aprovados por portaria conjunta dos membros do Governo com a tutela na área da administração local, das finanças, da Administração Pública e do turismo.\n\nConforme previsto no artigo 25.º do mesmo diploma, a comissão instaladora da entidade regional de turismo da Área Regional de Turismo do Centro de Portugal remeteu ao Governo a proposta de estatutos.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 6.º e no n.º 1 do artigo 27.º do [Decreto-Lei n.º 67/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), de 10 de Abril, manda o Governo, pelo Secretário de Estado Adjunto e da Administração Local, pelo Secretário de Estado do Tesouro e Finanças, pelo Secretário de Estado da Administração Pública e pelo Secretário de Estado do Turismo, o seguinte:"
+  },
+  "dd722801aa79bc26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Entidade Regional de Turismo do Centro adopta a denominação Turismo do Centro de Portugal e fixa a localização da sua sede em Aveiro."
+  },
+  "9ad3ca7b32f75249": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão aprovados os estatutos da Entidade Regional de Turismo do Centro de Portugal, anexos à presente portaria e da qual constituem parte integrante."
+  },
+  "ef3e95e827152e02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 22 de Agosto de 2008.\n\nO Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina. - O Secretário de Estado da Administração Pública, Gonçalo André Castilho dos Santos. - O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade."
+  },
+  "1241e391f07eefd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — ESTATUTOS DA ENTIDADE REGIONAL DE TURISMO DO CENTRO DE PORTUGAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ESTATUTOS DA ENTIDADE REGIONAL DE TURISMO DO CENTRO DE PORTUGAL"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "c25061ccb4da28f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Denominação e natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação e natureza jurídica\n\n1 - A Entidade Regional de Turismo do Centro de Portugal é uma pessoa colectiva de direito público de âmbito territorial, dotada de autonomia administrativa e financeira e de património próprio.\n\n2 - Para os efeitos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 67/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), de 10 de Abril, é assumida a designação de Turismo do Centro de Portugal."
+  },
+  "aaf96725acf938b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - À Turismo do Centro de Portugal incumbe a valorização turística da respectiva área territorial, definida nos termos do n.º 1 do artigo 4.º dos presentes estatutos, visando o aproveitamento sustentado dos recursos turísticos, no quadro das orientações e directrizes da política de turismo definida pelo Governo e nos planos plurianuais das administrações central e local.\n\n2 - Constituem atribuições da Turismo do Centro de Portugal:\n\na) Colaborar com os órgãos centrais e locais com vista à prossecução dos objectivos da política nacional que for definida para o turismo;\n\nb) Promover a realização de estudos de caracterização da respectiva área territorial, sob o ponto de vista turístico e proceder à identificação e dinamização dos recursos turísticos existentes;\n\nc) Monitorizar a oferta turística regional, tendo em conta a afirmação turística dos destinos regionais;\n\nd) Dinamizar e potenciar os valores turísticos regionais.\n\n3 - Constituem ainda atribuições da Turismo do Centro de Portugal as que resultem de contratualização com a administração central e com a administração local, nos termos previstos nos n.os 3 e 4 do artigo 5.º do [Decreto-Lei n.º 67/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), de 10 de Abril, bem como de quaisquer contratos ou protocolos celebrados com o Turismo de Portugal, I. P., ou com outras entidades públicas competentes em razão da matéria, conforme disposto no n.º 1 do artigo 3.º do mesmo diploma legal."
+  },
+  "68b620b71c697dc2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - Compete à Turismo do Centro de Portugal, em matéria de planeamento turístico:\n\na) Definir e implementar uma estratégia turística para a área regional de turismo;\n\nb) Promover a realização de estudos e de projectos de investigação que contribuam para a caracterização e a afirmação do sector turístico regional;\n\nc) Criar e gerir um observatório da actividade turística, visando acompanhar a implementação da estratégia turística regional e avaliar o desempenho do sector turístico regional;\n\nd) Participar, quando solicitado, na elaboração de todos os instrumentos de gestão territorial que se relacionem com a actividade turística, nomeadamente os planos municipais e regionais de ordenamento de território.\n\n2 - Compete à Turismo do Centro de Portugal, em matéria de dinamização e gestão dos produtos turísticos regionais:\n\na) Identificar e gerir os principais produtos turísticos da área regional de turismo;\n\nb) Elaborar e executar planos de dinamização e gestão para os principais produtos turísticos da respectiva área territorial.\n\n3 - Compete à Turismo do Centro de Portugal, em matéria de promoção turística:\n\na) Definir e executar uma estratégia regional de promoção turística dirigida ao mercado interno;\n\nb) Definir e implementar uma estratégia regional de comunicação e marketing turístico;\n\nc) Criar e gerir postos de turismo na área regional de turismo, de forma autónoma ou em parceria com os municípios;\n\nd) Conceber edições turísticas regionais;\n\ne) Apoiar e organizar eventos com conteúdo turístico;\n\nf) Participar na definição e execução da estratégia nacional de promoção externa através de entidades em que participe e que sejam reconhecidas pelo Turismo de Portugal, I. P.\n\ng) Apoiar eventos com conteúdo turístico e projecção internacional.\n\n4 - Compete à Turismo do Centro de Portugal, em matéria de estabelecimento de parcerias:\n\na) Associar-se a quaisquer entidades, de direito público ou privado, cujos fins ou atribuições se relacionem, directa ou indirectamente, com a área regional de turismo;\n\nb) Participar, mediante a celebração de acordos, protocolos ou quaisquer outros instrumentos jurídicos válidos, em projectos com interesse e relevância para a área regional de turismo, incluindo a participação no capital social de pessoas colectivas;\n\nc) Articular e coordenar com os pólos de desenvolvimento turístico criados na área regional de turismo correspondente à NUT II Centro as acções e iniciativas.\n\n5 - Compete à Turismo do Centro de Portugal, em matéria de instalação, exploração e funcionamento da oferta turística:\n\na) Participar, a solicitação dos municípios interessados, na elaboração dos regulamentos municipais que se relacionem com a actividade turística, nomeadamente com o alojamento local;\n\nb) Exercer quaisquer outras competências em matéria de instalação, exploração e funcionamento da oferta turística que resultem de contratualização com a administração central ou com a administração local, nos termos previstos nos n.os 3 e 4 do artigo 5.º do [Decreto-Lei n.º 67/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), de 10 de Abril, bem como de contratos ou protocolos celebrados com o Turismo de Portugal, I. P., ou com outras entidades públicas, conforme disposto no n.º 1 do artigo 3.º do mesmo diploma.\n\n6 - Compete à Turismo do Centro de Portugal, em matéria de formação profissional, colaborar em actividades de formação e certificação profissional."
+  },
+  "4eb9238dc74d0ab5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Composição e base territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição e base territorial\n\n1 - A Turismo do Centro de Portugal compreende o território correspondente à Nomenclatura da Unidade Territorial para Fins Estatísticos de Nível II (NUTS II) - Centro, com excepção das unidades territoriais identificadas no n.º 1 do artigo 4.º do [Decreto-Lei n.º 67/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), de 10 de Abril, considerando-se para os efeitos dos presentes Estatutos a conformação fixada pelo [Decreto-Lei n.º 46/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), de 15 de Fevereiro, com a redacção do [Decreto-Lei n.º 317/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1999-423062), de 11 de Agosto, ou seja, o território correspondente às unidades territoriais de Baixo Vouga, Baixo Mondego, Pinhal Interior Norte, Pinhal Interior Sul, Dão-Lafões, Beira Interior Sul.\n\n2 - Podem integrar a Turismo do Centro de Portugal, para além dos municípios inseridos nas unidades territoriais referidas no número anterior, entidades de direito público e privado com interesse no desenvolvimento e na valorização turística da área regional de turismo correspondente à NUT II Centro, mediante deliberação da assembleia geral, sob proposta da direcção, e sem prejuízo do disposto no número seguinte.\n\n3 - Os municípios inseridos nas unidades territoriais referidas no n.º 1 do presente artigo têm uma representação nunca inferior a 50 % do número total de entidades, de direito público e privado, que a cada momento integram a Turismo do Centro de Portugal."
+  },
+  "61196ae277eb82d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Sede e delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sede e delegações\n\n1 - A Turismo do Centro de Portugal tem sede em Aveiro.\n\n2 - A Turismo do Centro de Portugal possui delegações, que assumirão a designação de Pólo de Marca Turística, nas seguintes áreas:\n\na) Delegação de Dão-Lafões a que corresponde o território das NUT III de Dão-Lafões;\n\nb) Delegação da ria de Aveiro a que corresponde o território das NUT III do Baixo Vouga;\n\nc) Delegação de Coimbra a que corresponde o território das NUT III do Baixo Mondego e Pinhal Interior Norte;\n\nd) Delegação de Castelo Branco - NATURTEJO a que corresponde o território das NUT III da Beira Interior Sul e Pinhal Interior Sul.\n\n3 - As delegações correspondem, obrigatoriamente, a estruturas profissionalizadas e especializadas na implementação, no desenvolvimento, consolidação e dinamização dos produtos turísticos estratégicos para os quais são criadas, obedecendo à lógica territorial regional.\n\n4 - Cada delegação será dirigida por um administrador-delegado, que será recrutado no âmbito dos órgãos sociais ou no quadro de pessoal do organismo, sendo nomeado pela direcção e coordena o funcionamento da delegação em estreita ligação com a direcção.\n\nO administrador-delegado poderá ser substituído a todo o tempo, por deliberação da direcção.\n\n5 - Sempre que o recrutamento não obedeça aos critérios supramencionados deve, sob proposta da Direcção, ser submetido à assembleia geral.\n\n6 - As atribuições, competências, organização e funcionamento das delegações, bem como as suas respectivas circunscrições territoriais, são estabelecidas em regulamento próprio."
+  },
+  "cc6f648df0b0d87d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Postos de turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Postos de turismo\n\n1 - A Turismo do Centro de Portugal pode possuir postos de turismo afectos à sede ou a qualquer uma das delegações e nas regiões espanholas fronteiriças nos termos do disposto do [Decreto-Lei n.º 67/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), de 10 de Abril.\n\n2 - A Turismo do Centro de Portugal deve apoiar os postos de turismo municipais da sua área territorial.\n\n3 - A gestão de postos de turismo propriedade dos municípios da sua área de circunscrição carece da realização de contrato de transferência de competências onde se especificará, obrigatoriamente, para além das fontes de financiamento, as competências, atribuições, áreas de circunscrição e horários de funcionamento adstrito a cada um dos postos a que respeitam.\n\n4 - As atribuições, competências, organização e funcionamento dos postos de turismo, bem como as respectivas circunscrições territoriais, são estabelecidos em regulamento próprio."
+  },
+  "ee8b0893b83cfbf8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Organização interna"
+  },
+  "8fdadeaa7ec8b3fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos\n\nSão órgãos da Turismo do Centro de Portugal:\n\na) A assembleia geral;\n\nb) A direcção;\n\nc) O fiscal único."
+  },
+  "53c2d93e82cd398b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições comuns"
+  },
+  "d382e36fc79ed0f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Quórum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Quórum\n\n1 - Os órgãos colegiais da Turismo do Centro de Portugal só podem deliberar quando esteja presente a maioria dos seus membros.\n\n2 - Não se verificando na primeira convocação o quórum previsto no número anterior, é convocada nova reunião, com o intervalo de, pelo menos, vinte e quatro horas, podendo então o órgão deliberar desde que esteja presente um terço dos seus membros."
+  },
+  "fbbb0d524be57eae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Objecto das deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Objecto das deliberações\n\nSó podem ser objecto de deliberação os assuntos incluídos na ordem do dia da reunião, salvo se, tratando-se de reunião ordinária, pelo menos dois terços dos membros presentes reconhecerem a urgência de deliberação imediata sobre outros assuntos."
+  },
+  "ed55e910261b3e93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Actas das reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Actas das reuniões\n\n1 - De cada reunião é lavrada acta, que contém um resumo de tudo o que nela tiver ocorrido, indicando, designadamente, a data e o local da reunião, os membros presentes e ausentes, os assuntos apreciados, as deliberações tomadas e a forma e o resultado das respectivas votações.\n\n2 - As actas são lavradas pelo secretário e postas à aprovação de todos os membros no final da respectiva reunião ou no início da seguinte, sendo assinadas, após a aprovação, pelo presidente e pelo secretário.\n\n3 - Nos casos em que o órgão assim o delibere, a acta é aprovada, em minuta, logo na reunião a que disser respeito.\n\n4 - As deliberações dos órgãos colegiais da Turismo do Centro de Portugal só adquirem eficácia depois de aprovadas as respectivas actas ou depois de assinadas as minutas, nos termos dos números anteriores."
+  },
+  "ec5eaf61c5e03e72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Registo na acta do voto de vencido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Registo na acta do voto de vencido\n\n1 - Os membros do órgão devem fazer constar da acta o seu voto de vencido e as razões que o justifiquem.\n\n2 - Aqueles que ficarem vencidos na deliberação tomada e fizerem registo da respectiva declaração de voto na acta ficam isentos da responsabilidade que daquela eventualmente advier.\n\n3 - Quando se trate de emitir pareceres, estes serão sempre acompanhados das declarações de voto apresentadas."
+  },
+  "8bf9ccd7c85cc77f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Assembleia geral"
+  },
+  "4b226bfee28640c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - A assembleia geral, órgão deliberativo da Turismo do Centro de Portugal, é composta pelas seguintes entidades ou seus representantes:\n\na) Os presidentes das câmaras municipais dos municípios integrados na Área Regional de Turismo do Centro de Portugal;\n\nb) Um representante do membro do Governo com tutela sobre o turismo;\n\nc) Um representante do membro do Governo com tutela sobre a cultura;\n\nd) Um representante da Comissão de Coordenação e Desenvolvimento Regional do Centro.\n\n2 - A assembleia geral integra ainda todas as entidades ou seus representantes, de direito público e privado, com interesse no desenvolvimento e na valorização turística da respectiva área territorial, nomeadamente:\n\na) AHP - Associação de Hotelaria de Portugal;\n\nb) ARESP - Associação de Restauração e Similares de Portugal;\n\nc) APAVT - Associação Portuguesa de Agências de Viagens e Turismo;\n\nd) ATP - Associação das Termas de Portugal;\n\ne) União Geral de Trabalhadores, para a área de turismo;\n\nf) Confederação Geral de Trabalhadores Portugueses, para a área de turismo;\n\ng) PRIVETUR - Associação Portuguesa de Turismo no Espaço Rural;\n\nh) APTA - Associação Portuguesa de Turismo Acessível;\n\ni) CEC - Conselho Empresarial do Centro;\n\nj) HRC - Associação dos Industriais de Hotelaria e Restauração do Centro;\n\nl) Associação Rota da Bairrada;\n\nm) AHRDA - Associação de Hotelaria Regional do Distrito de Aveiro.\n\n3 - A participação de entidades públicas e privadas na entidade regional de turismo depende de manifestação prévia e expressa nesse sentido.\n\n4 - Os membros identificados na alínea a) do n.º 1 do presente artigo têm uma representação nunca inferior a 50 % do total dos membros da assembleia geral.\n\n5 - Os representantes de cada entidade na assembleia geral podem ser substituídos a qualquer momento pela própria entidade, bastando para tal comunicar formalmente essas substituições ao presidente da assembleia geral.\n\n6 - Os representantes na assembleia geral não podem acumular outros cargos ou funções na Turismo do Centro de Portugal.\n\n7 - Se um membro da assembleia geral for eleito presidente da direcção da Turismo do Centro de Portugal, ou fizer parte da direcção, será substituído, na vaga deixada em aberto, pela entidade representada.\n\n8 - A representação de dois ou mais dos municípios referidos na alínea a) do n.º 1 do presente artigo pode ser assegurada pelo presidente da câmara municipal de um desses municípios, mediante deliberação dos órgãos autárquicos competentes nesse sentido."
+  },
+  "36b3968c2284a06a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Mandato\n\nO mandato do presidente e dos secretários da assembleia geral tem a duração de quatro anos e é renovável por duas vezes."
+  },
+  "1783ea2c5cf4ef64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência\n\n1 - Compete à assembleia geral da Turismo do Centro de Portugal, em matéria de organização e funcionamento da entidade regional de turismo:\n\na) Aprovar o regulamento eleitoral da Turismo do Centro de Portugal;\n\nb) Eleger, por escrutínio secreto, de entre os seus membros, o presidente e os dois secretários da assembleia geral;\n\nc) Exonerar, por escrutínio secreto, o presidente e os secretários da assembleia geral;\n\nd) Eleger a direcção;\n\ne) Demitir a direcção;\n\nf) Nomear o fiscal único e fixar a sua remuneração, sob proposta da direcção;\n\ng) Deliberar, por voto secreto, sobre a admissão de membros na Turismo do Centro de Portugal, sob proposta da direcção;\n\nh) Aprovar as alterações aos Estatutos da Turismo do Centro de Portugal, sob proposta da direcção;\n\ni) Aprovar o regulamento das delegações, o regulamento dos serviços, o regulamento do pessoal e todos os demais regulamentos necessários à organização e funcionamento da Turismo do Centro de Portugal, sob proposta da direcção;\n\nj) Aprovar as normas e procedimentos de controlo interno, no âmbito financeiro, sob proposta da direcção;\n\nl) Aprovar os mapas de pessoal e respectivas alterações, sob proposta da direcção;\n\nm) Aprovar a criação, reorganização e extinção de serviços da Turismo do Centro de Portugal, sob proposta da direcção;\n\nn) Aprovar a criação, reorganização e extinção de delegações e postos de turismo, sob proposta da direcção;\n\no) Apreciar e aprovar o plano de actividades e o orçamento, bem como as revisões orçamentais, sob proposta da direcção;\n\np) Autorizar a contratação de empréstimos, com base em informação, obrigatoriamente apresentada pela direcção, sobre as condições praticadas em, pelo menos, três instituições de crédito, acompanhada por um mapa demonstrativo da capacidade de endividamento da entidade regional de turismo;\n\nq) Apreciar e aprovar os documentos de prestação de contas e relatório de actividades, sob proposta da direcção;\n\nr) Deliberar sobre a alienação ou oneração de bens propriedade da Turismo do Centro de Portugal, sob proposta da direcção.\n\n2 - Compete à assembleia geral da Turismo do Centro de Portugal, em matéria de planeamento, sob proposta da direcção:\n\na) Aprovar os princípios orientadores da política de turismo aplicável à sua área territorial, no quadro das orientações e directrizes da política de turismo definida pelo Governo e nos planos plurianuais das administrações central e local;\n\nb) Aprovar os documentos estratégicos regionais referentes às atribuições e competências cometidas à Turismo do Centro de Portugal.\n\n3 - Compete à assembleia geral da Turismo do Centro de Portugal, em matéria de fiscalização:\n\na) Acompanhar a actividade da direcção, das delegações e dos postos de turismo, bem como das associações, federações e quaisquer outras pessoas colectivas em que a Turismo do Centro de Portugal tenha participação;\n\nb) Receber informações, através do presidente ou dos secretários da assembleia geral, sobre assuntos de interesse para a Turismo do Centro de Portugal e sobre a execução de deliberações anteriores, a pedido de qualquer membro, formulado a qualquer momento.\n\n4 - Compete ainda à assembleia geral da Turismo do Centro de Portugal, sob proposta da direcção:\n\na) Autorizar a integração da Turismo do Centro de Portugal em associações e federações de áreas regionais de turismo;\n\nb) Autorizar a associação da Turismo do Centro de Portugal com quaisquer outras entidades, de direito público ou privado, cujos fins ou atribuições se relacionem, directa ou indirectamente, com a área regional de turismo;\n\nc) Autorizar a participação da Turismo do Centro de Portugal em projectos e parcerias com interesse para a área regional de turismo, incluindo a participação no capital social de pessoas colectivas;\n\nd) Pronunciar-se sobre todos e quaisquer assuntos que sejam relevantes para a área regional de turismo."
+  },
+  "ce2d74bfede8de9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Maioria exigível nas deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Maioria exigível nas deliberações\n\n1 - As deliberações da assembleia geral da Turismo do Centro de Portugal são tomadas por maioria simples dos votos dos membros presentes, cabendo a cada entidade, de direito público ou privado, o exercício de um voto, através do respectivo representante, salvo o disposto nos números seguintes.\n\n2 - As deliberações previstas nas alíneas a) e h) do n.º 1 do artigo 14.º dos presentes Estatutos são tomadas por maioria de dois terços dos votos dos membros da assembleia geral.\n\n3 - Na votação prevista na alínea e) do n.º 1 do artigo 14.º dos presentes Estatutos é exigida a maioria absoluta dos votos dos membros da assembleia geral.\n\n4 - As deliberações previstas nas alíneas c), m), n) e r) do n.º 1 do artigo 14.º dos presentes Estatutos são tomadas por maioria absoluta dos votos dos membros presentes."
+  },
+  "b41d9ca28ac688ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Reuniões ordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reuniões ordinárias\n\n1 - A assembleia geral da Turismo do Centro de Portugal reúne ordinariamente duas vezes por ano, nos meses de Março e de Novembro, destinando-se a primeira reunião à apreciação e aprovação dos documentos de prestação de contas e relatório de actividades e a segunda à apreciação e aprovação do plano de actividades e orçamento para o exercício económico seguinte.\n\n2 - As reuniões ordinárias da assembleia geral da Turismo do Centro de Portugal são convocadas pelo presidente da assembleia geral com a antecedência de, pelo menos, oito dias em relação à data da reunião, através de carta registada com aviso de recepção ou por qualquer meio de transmissão escrita e electrónica de dados, desde que seja obtido o respectivo relatório de transmissão bem sucedida.\n\n3 - As convocatórias para as reuniões ordinárias da assembleia geral da Turismo do Centro de Portugal devem indicar a data, hora e local da reunião e a ordem do dia, incluindo-se nesta todos os assuntos a tratar na reunião, devidamente individualizados.\n\n4 - As convocatórias para as reuniões ordinárias da assembleia geral da Turismo do Centro de Portugal são acompanhadas de toda a documentação pertinente aos assuntos a tratar."
+  },
+  "d348a5b5a73b9ecb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Reuniões extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reuniões extraordinárias\n\n1 - A assembleia geral da Turismo do Centro de Portugal reúne extraordinariamente sempre que seja convocada pelo presidente da assembleia geral, por sua iniciativa ou a solicitação do presidente da direcção, em execução de deliberação desta última, ou de um terço dos membros da assembleia geral.\n\n2 - As reuniões extraordinárias da assembleia geral da Turismo do Centro de Portugal são convocadas pelo presidente da assembleia geral nos cinco dias subsequentes à recepção da solicitação a que se refere o número anterior, para um dos 20 dias posteriores à data de apresentação da solicitação, sendo sempre observada a antecedência de, pelo menos, oito dias entre a convocatória e a data da reunião.\n\n3 - As convocatórias para as reuniões extraordinárias da assembleia geral da Turismo do Centro de Portugal são efectuadas através de carta registada com aviso de recepção ou por qualquer meio de transmissão escrita e electrónica de dados, desde que seja obtido o respectivo relatório de transmissão bem sucedida, e devem indicar a data, hora e local da reunião e a ordem do dia, incluindo-se nesta todos os assuntos a tratar na reunião, devidamente individualizados.\n\n4 - As convocatórias para as reuniões extraordinárias da assembleia geral da Turismo do Centro de Portugal são acompanhadas de toda a documentação pertinente aos assuntos a tratar."
+  },
+  "79d8301b5c9df671": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Participação da direcção nas reuniões da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Participação da direcção nas reuniões da assembleia geral\n\n1 - A direcção faz-se representar, obrigatoriamente, nas reuniões da assembleia geral pelo seu presidente, que pode intervir nas discussões, mas sem direito a voto.\n\n2 - Nos casos de ausência, falta ou impedimento, devidamente justificado, o presidente da direcção deve fazer-se substituir por um dos vice-presidentes da direcção.\n\n3 - Os vice-presidentes da direcção devem assistir às reuniões da assembleia geral, podendo intervir nas discussões, sem direito a voto, a solicitação do presidente da assembleia geral ou com a anuência do presidente da direcção, sem prejuízo do exercício do direito de defesa da honra."
+  },
+  "948391f917ee4817": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Competências do presidente da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competências do presidente da assembleia geral\n\nCompete ao presidente da assembleia geral da Turismo do Centro de Portugal:\n\na) Conferir posse à direcção, nos termos do artigo 26.º dos presentes estatutos;\n\nb) Representar a assembleia geral, assegurar o seu regular funcionamento e presidir aos respectivos trabalhos;\n\nc) Convocar as reuniões, ordinárias e extraordinárias;\n\nd) Suspender ou encerrar antecipadamente as reuniões quando circunstâncias excepcionais o justifiquem, mediante decisão fundamentada, a constar expressamente da acta da reunião;\n\ne) Assegurar o cumprimento das leis e a regularidade das deliberações."
+  },
+  "bde122f01a65217b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Competências dos secretários da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências dos secretários da assembleia geral\n\nCompete aos secretários da assembleia geral da Turismo do Centro de Portugal coadjuvar o presidente da assembleia geral no exercício das suas funções, assegurar o expediente geral e, na falta de funcionário com essa incumbência, lavrar as actas das reuniões."
+  },
+  "7e2b98bbd628436e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Substituição da mesa da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Substituição da mesa da assembleia geral\n\n1 - O presidente da assembleia geral da Turismo do Centro de Portugal é substituído, na sua ausência, falta ou impedimento, pelo 1.º secretário da assembleia geral e este pelo 2.º secretário.\n\n2 - No caso de ausência, falta ou impedimento simultâneo de todos ou da maioria dos membros da mesa da assembleia geral, esta elege, por escrutínio secreto, de entre os seus membros presentes, os necessários para constituir a mesa que presidirá à reunião."
+  },
+  "bde56f4df8a86f20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Direcção"
+  },
+  "c134b697fc9b44d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Composição\n\n1 - A direcção, órgão executivo e de gestão da Turismo do Centro de Portugal é composta por um presidente, por dois vice-presidentes, todos em regime de permanência e exclusividade, e por quatro vogais não executivos e não remunerados.\n\n2 - O presidente da direcção designa, de entre os vice-presidentes, aquele a quem cabe substituí-lo nas suas ausências, faltas ou impedimentos.\n\n3 - A direcção é eleita pela assembleia geral, por escrutínio secreto, em lista única, subscrita por entidade ou conjunto de entidades, de direito público ou privado, que integrem a entidade regional de turismo, observando-se a maioria prevista no n.º 1 do artigo 15.º dos presentes estatutos.\n\n4 - A direcção pode ser demitida pela assembleia geral, por escrutínio secreto, mediante a maioria prevista no n.º 3 do artigo 15.º dos presentes estatutos."
+  },
+  "bc9aa1c4c0e95c0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Mandato\n\n1 - O mandato dos membros da direcção tem a duração de quatro anos e é renovável por duas vezes.\n\n2 - No caso de morte, renúncia, suspensão ou perda de mandato do presidente da direcção é chamado a substituí-lo o vice-presidente a que se refere o n.º 2 do artigo 25.º dos presentes estatutos.\n\n3 - No caso de morte, renúncia, suspensão ou perda de mandato de um vice-presidente é chamado a substituí-lo o vogal que imediatamente sucede na lista apresentada ao acto eleitoral.\n\n4 - Verificando-se a impossibilidade de aplicação do disposto nos números anteriores e não esteja em efectividade de funções a maioria legal dos membros da direcção, é deste facto dado conhecimento ao presidente da assembleia geral para efeitos de realização de acto eleitoral intercalar.\n\n5 - No caso previsto no número anterior, a direcção eleita completa o mandato da anterior."
+  },
+  "48702de0415659f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Tomada de posse da direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Tomada de posse da direcção\n\nCompete ao presidente da assembleia geral convocar os titulares eleitos da direcção da Turismo do Centro de Portugal para o acto de tomada de posse da direcção, que tem lugar nos 10 dias subsequentes ao apuramento dos resultados eleitorais."
+  },
+  "e52b0cb63d610cef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competência\n\n1 - Compete à direcção da Turismo do Centro de Portugal, em matéria de organização e funcionamento da entidade regional de turismo:\n\na) Propor à assembleia geral a nomeação do fiscal único e a respectiva remuneração;\n\nb) Propor à assembleia geral a criação, reorganização e extinção de delegações e postos de turismo;\n\nc) Elaborar o regulamento das delegações, o regulamento dos serviços, o regulamento do pessoal e todos os demais regulamentos necessários à organização e funcionamento da Turismo do Centro de Portugal, e submetê-los à aprovação da assembleia geral;\n\nd) Gerir as delegações e postos de turismo, observando-se o disposto no artigo 30.º dos presentes estatutos;\n\ne) Elaborar e aprovar o inventário de todos os bens, direitos e obrigações patrimoniais e respectiva avaliação, a submeter à apreciação e votação do órgão deliberativo;\n\nf) Elaborar as normas e procedimentos de controlo interno e submetê-las à aprovação da assembleia geral;\n\ng) Elaborar o plano de actividades e o orçamento, bem como as revisões orçamentais, e submetê-los à apreciação e aprovação da assembleia geral;\n\nh) Executar o plano de actividades e o orçamento aprovados, bem como aprovar as alterações orçamentais;\n\ni) Elaborar os documentos de prestação de contas e submetê-los à apreciação e aprovação da assembleia geral;\n\nj) Remeter ao Tribunal de Contas, bem como a quaisquer outras entidades que a lei determinar, os documentos de prestação de contas aprovados;\n\nl) Deliberar sobre a contratação de bens móveis e de serviços, nos termos do Código dos Contratos Públicos;\n\nm) Propor à assembleia geral a alienação ou oneração de bens propriedade da Turismo do Centro de Portugal;\n\nn) Aceitar doações, legados e heranças, a benefício de inventário;\n\no) Submeter à aprovação da assembleia geral os mapas de pessoal e respectivas alterações;\n\np) Fixar o preço da venda de objectos promocionais (merchandising) e da prestação de serviços pela Turismo do Centro de Portugal;\n\nq) Cobrar e arrecadar as receitas e autorizar as despesas, de acordo com o orçamento aprovado.\n\n2 - Compete à direcção da Turismo do Centro de Portugal, em matéria de planeamento:\n\na) Participar na elaboração dos princípios orientadores da política de turismo aplicável à sua área territorial, no quadro das orientações e directrizes da política de turismo definida pelo Governo e nos planos plurianuais das administrações central e local, e submetê-los à aprovação da assembleia geral;\n\nb) Elaborar os documentos estratégicos regionais referentes às atribuições e competências cometidas à Turismo do Centro de Portugal, e submetê-los à aprovação da assembleia geral.\n\n3 - Compete ainda à direcção da Turismo do Centro de Portugal:\n\na) Executar e zelar pelo cumprimento das deliberações da assembleia geral;\n\nb) Determinar a realização de auditorias externas à gestão patrimonial e financeira da entidade regional de turismo, por sua iniciativa ou sob proposta do fiscal único;\n\nc) Deliberar sobre a concessão de apoio, financeiro ou logístico, a eventos com conteúdo turístico, que se enquadrem na estratégia regional de promoção turística dirigida ao mercado interno ou externo;\n\nd) Exercer as demais competências necessárias à prossecução da missão, atribuições e competências da Turismo do Centro de Portugal, previstas nos artigos 2.º e 3.º dos presentes estatutos, bem como as que lhe sejam atribuídas por lei.\n\n4 - A direcção pode delegar no seu presidente, com faculdade de subdelegação nos vice-presidentes, as competências previstas nas alíneas j), p) e q) do n.º 1 e na alínea c) do número anterior."
+  },
+  "f974dea06237a7ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Maioria exigível nas deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Maioria exigível nas deliberações\n\n1 - As deliberações da direcção da Turismo do Centro de Portugal são tomadas por maioria simples dos votos dos membros presentes.\n\n2 - Em caso de empate na votação, o presidente da direcção goza de voto de qualidade."
+  },
+  "94a75024df6ab56e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Reuniões ordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Reuniões ordinárias\n\n1 - A direcção da Turismo do Centro de Portugal tem reuniões ordinárias quinzenalmente, salvo se deliberar estabelecer outra periodicidade mais adequada.\n\n2 - As reuniões ordinárias da direcção da Turismo do Centro de Portugal são convocadas pelo seu presidente com a antecedência de, pelo menos, três dias em relação à data da reunião, através de carta registada com aviso de recepção ou por qualquer meio de transmissão escrita e electrónica de dados, desde que seja obtido o respectivo relatório de transmissão bem sucedida.\n\n3 - As convocatórias para as reuniões ordinárias da direcção da Turismo do Centro de Portugal devem indicar a data, hora e local da reunião e a ordem do dia, incluindo-se nesta todos os assuntos a tratar na reunião, devidamente individualizados.\n\n4 - As convocatórias para as reuniões ordinárias da direcção da Turismo do Centro de Portugal são acompanhadas de toda a documentação pertinente aos assuntos a tratar.\n\n5 - O presidente da direcção pode estabelecer dia da semana, hora e local certos para a realização das reuniões ordinárias do órgão.\n\n6 - No caso previsto no número anterior, é remetida aos membros da direcção, com a antecedência de, pelo menos, três dias em relação à data da reunião, a ordem do dia, incluindo-se nesta todos os assuntos a tratar, devidamente individualizados, sendo acompanhada de toda a documentação pertinente."
+  },
+  "8213c010073bafac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Reuniões extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Reuniões extraordinárias\n\n1 - A direcção da Turismo do Centro de Portugal reúne extraordinariamente sempre que seja convocada pelo presidente da direcção, por sua iniciativa ou a solicitação de, pelo menos, um dos vice-presidentes da direcção.\n\n2 - As reuniões extraordinárias da direcção da Turismo do Centro de Portugal são convocadas pelo seu presidente nos dois dias subsequentes à recepção da solicitação a que se refere o número anterior, para um dos oito dias posteriores à data de apresentação da solicitação, sendo sempre observada a antecedência de, pelo menos, dois dias entre a convocatória e a data da reunião.\n\n3 - As convocatórias para as reuniões extraordinárias da direcção da Turismo do Centro de Portugal são efectuadas através de carta registada com aviso de recepção ou por qualquer meio de transmissão escrita e electrónica de dados, desde que seja obtido o respectivo relatório de transmissão bem sucedida, e devem indicar a data, hora e local da reunião e a ordem do dia, incluindo-se nesta todos os assuntos a tratar na reunião, devidamente individualizados.\n\n4 - As convocatórias para as reuniões extraordinárias da direcção da Turismo do Centro de Portugal são acompanhadas de toda a documentação pertinente aos assuntos a tratar."
+  },
+  "2fc213eb9acf19e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Remunerações\n\n1 - O presidente da direcção é remunerado de acordo com os montantes fixados para o cargo de direcção superior de 1.º grau.\n\n2 - Os vice-presidentes da direcção que exerçam funções em regime de permanência a tempo inteiro são remunerados de acordo com os montantes fixados para o cargo de direcção superior de 2.º grau e a 50 % destes, se as funções forem exercidas em regime de meio tempo.\n\n3 - Os membros da direcção não remunerados recebem uma senha de presença por cada reunião, ordinária ou extraordinária, a que compareçam, no valor de 1/22 da remuneração mensal base auferida pelos vice-presidentes da direcção, dentro dos limites legais."
+  },
+  "12b1842a32797ad2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Competências do presidente da direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Competências do presidente da direcção\n\n1 - Compete ao presidente da direcção da Turismo do Centro de Portugal:\n\na) Representar a Turismo do Centro de Portugal em juízo e fora dele;\n\nb) Representar a direcção e assegurar o seu regular funcionamento;\n\nc) Decidir sobre todos os assuntos de administração e gestão correntes da Turismo do Centro de Portugal, em conformidade com o plano de actividades e orçamento aprovados;\n\nd) Convocar as reuniões, ordinárias e extraordinárias, e presidir aos respectivos trabalhos;\n\ne) Fixar dia da semana, hora e local certos para a realização das reuniões ordinárias da direcção;\n\nf) Suspender ou encerrar antecipadamente as reuniões quando circunstâncias excepcionais o justifiquem, mediante decisão fundamentada, a constar expressamente da acta da reunião;\n\ng) Designar o vice-presidente que o substitui nas suas ausências, faltas ou impedimentos;\n\nh) Organizar e coordenar a actuação da direcção, nomeadamente através da subdelegação nos vice-presidentes de competências que lhe tenham sido delegadas pela direcção e da atribuição aos mesmos, como lhe aprouver, de funções e responsabilidades específicas;\n\ni) Superintender o pessoal e serviços;\n\nj) Autorizar a realização de despesa orçamentada, dentro do limite fixado na delegação de competência da direcção;\n\nl) Autorizar o pagamento de despesa orçamentada, dentro do limite fixado na delegação de competência da direcção;\n\nm) Assinar ou visar a correspondência;\n\nn) Executar e fazer executar as deliberações da direcção e da assembleia geral;\n\no) Assegurar o cumprimento das leis e a regularidade das deliberações.\n\n2 - Sempre que circunstâncias excepcionais e urgentes o exijam e não seja possível reunir extraordinariamente a direcção em tempo útil, o seu presidente pode praticar qualquer acto da competência desta, ficando o mesmo sujeito a ratificação, na primeira reunião realizada após a sua prática, sob pena de anulabilidade."
+  },
+  "3eb9f006ac8aca3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Competências dos vice-presidentes da direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Competências dos vice-presidentes da direcção\n\nCompete aos vice-presidentes da direcção da Turismo do Centro de Portugal dirigir as delegações, bem como os postos de turismo que às mesmas estejam afectos, exercer as competências que lhes sejam subdelegadas pelo presidente da direcção e desempenhar as funções e responsabilidades de que sejam incumbidos pelo mesmo."
+  },
+  "036abbd5c152cf35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Fiscal único"
+  },
+  "fe79e6f81643b287": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Composição, mandato e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Composição, mandato e remuneração\n\n1 - O fiscal único, órgão fiscalizador da gestão patrimonial e financeira da Turismo do Centro de Portugal, é um revisor oficial de contas, ou uma sociedade de revisores oficiais de contas, nomeado pela assembleia geral, sob proposta da direcção.\n\n2 - O mandato do fiscal único tem a duração de quatro anos e é renovável por duas vezes.\n\n3 - A remuneração do fiscal único é fixada pela assembleia geral da Turismo do Centro de Portugal, sob proposta da direcção."
+  },
+  "000f8d534b73e286": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Competência\n\nCompete ao fiscal único da Turismo do Centro de Portugal:\n\na) Verificar as contas anuais;\n\nb) Emitir o certificado legal das contas;\n\nc) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhes servem de suporte;\n\nd) Participar à direcção e à assembleia geral da Turismo do Centro de Portugal as irregularidades detectadas, bem como os factos que se considere reveladores de graves dificuldades na prossecução do plano plurianual de investimentos;\n\ne) Emitir parecer sobre as contas do exercício, nomeadamente sobre a execução orçamental, o balanço e a demonstração de resultados e anexos às demonstrações financeiras exigidas por lei ou determinadas pela assembleia geral;\n\nf) Manter a direcção da Turismo do Centro de Portugal informada sobre os resultados das verificações e exames a que proceda;\n\ng) Elaborar relatórios da sua acção fiscalizadora, incluindo um relatório anual global;\n\nh) Propor à direcção da Turismo do Centro de Portugal a realização de auditorias externas, quando entender necessário ou conveniente;\n\ni) Pronunciar-se sobre todos os assuntos que lhe sejam submetidos pela direcção e pela assembleia geral, bem como pelo Tribunal de Contas e outras entidades ou organismos com poderes de fiscalização da gestão patrimonial e financeira da entidade regional de turismo."
+  },
+  "18dc7a9bd9e0e4a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Serviços"
+  },
+  "811cfbb55fc17a43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Serviços\n\n1 - A Turismo do Centro de Portugal dispõe dos seguintes serviços:\n\na) Serviços de apoio à direcção;\n\nb) Serviços de promoção turística e de apoio técnico e operacional;\n\nc) Serviços administrativos, financeiros e de recursos humanos.\n\n2 - A estruturação dos serviços e as respectivas funções, bem como o organograma da Turismo do Centro de Portugal, constam do regulamento dos serviços, aprovado pela assembleia geral, sob proposta da direcção."
+  },
+  "0ee6092e66af2ba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Pessoal"
+  },
+  "da5fecfa44a80f08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Regime e mapas de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Regime e mapas de pessoal\n\n1 - Sem prejuízo do disposto no n.º 1 do artigo 21.º e no artigo 22.º do [Decreto-Lei n.º 67/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), de 10 de Abril, o pessoal ao serviço da Turismo do Centro de Portugal está sujeito ao regime de contrato individual de trabalho.\n\n2 - A Turismo do Centro de Portugal dispõe de um mapa do pessoal em regime de contrato individual e de um mapa, residual, do pessoal abrangido pelo regime da organização dos serviços municipais e respectivos quadros de pessoal, cujos lugares são extintos à medida que vagarem."
+  },
+  "d0dcf3aeed325bcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Finanças"
+  },
+  "b2a71e47bac0d020": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Contabilidade\n\nOs planos de actividades e os orçamentos, bem como os relatórios de actividades e as contas de gerência da Turismo do Centro de Portugal, são elaborados de acordo com as normas aplicáveis às autarquias locais, com excepção das que contrariem o disposto no [Decreto-Lei n.º 67/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), de 10 de Abril, e das que, pela sua especificidade, não possam aplicar-se."
+  },
+  "3d26d295ce109861": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Receitas\n\n1 - Constituem receitas da Turismo do Centro de Portugal:\n\na) Os montantes pagos pela administração central e pela administração local em função da contratualização a que se referem os n.os 3 e 4 do artigo 5.º do [Decreto-Lei n.º 67/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), de 10 de Abril, e o n.º 3 do artigo 2.º dos presentes estatutos;\n\nb) Os montantes que resultem de quaisquer contratos ou protocolos celebrados com o Turismo de Portugal, I. P., ou com outras entidades públicas, nos termos do n.º 1 do artigo 3.º do [Decreto-Lei n.º 67/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), de 10 de Abril, e do n.º 3 do artigo 2.º dos presentes estatutos;\n\nc) As comparticipações e subsídios do Estado, ou de entidades comunitárias e das autarquias locais;\n\nd) Os rendimentos de bens próprios;\n\ne) Os lucros de explorações comerciais e industriais;\n\nf) O produto resultante da venda de objectos promocionais e da prestação de serviços;\n\ng) Os donativos;\n\nh) As heranças, legados e doações;\n\ni) O produto da alienação ou da oneração de bens próprios e de amortizações e reembolso de quaisquer títulos ou capitais;\n\nj) Os saldos verificados na gerência anterior;\n\nl) As contribuições, nomeadamente sob a forma de quotizações, das entidades, de direito público e privado, que integram a entidade regional de turismo;\n\nm) Quaisquer outras receitas resultantes da administração da respectiva área territorial ou que lhe venham a ser atribuídas;\n\nn) As verbas previstas no Orçamento do Estado para o desenvolvimento do turismo regional.\n\n2 - As contribuições referidas na alínea l) do número anterior são fixadas pela assembleia geral da Turismo do Centro de Portugal, sob proposta da direcção."
+  },
+  "92d3b97440e1575a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Contas\n\n1 - As contas de gerência da Turismo do Centro de Portugal são apreciadas e aprovadas pela assembleia geral até ao final do mês de Março do ano seguinte àquele a que respeitam e enviadas nos 30 dias subsequentes ao Tribunal de Contas para julgamento.\n\n2 - O Tribunal de Contas verifica as contas e remete o seu acórdão à direcção da Turismo do Centro de Portugal, com cópia ao membro do Governo com tutela sobre o turismo."
+  },
+  "3a8618ec79872eb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais"
+  },
+  "3a7af8f64ecb435c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Prazos\n\n1 - Os prazos previstos nos presentes Estatutos são contínuos, transferindo-se para o 1.º dia útil seguinte o prazo cujo termo recaia sobre sábado, domingo ou dia feriado.\n\n2 - Na contagem do prazo não se inclui o próprio dia em que ocorrer o evento a partir do qual o prazo começa a correr."
+  },
+  "c71b1f426583eb23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Legislação supletiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Legislação supletiva\n\nA todas as matérias não directamente reguladas pelos presentes Estatutos aplica-se o regime estabelecido no [Decreto-Lei n.º 67/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), de 10 de Abril, e no Código do Procedimento Administrativo."
+  },
+  "fa4561eb7127ea0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Composição e base territorial",
+   "in_force_from": "2009-12-14",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+   ],
+   "markdown": "###### Artigo 4.º — Composição e base territorial\n\n1 - A Turismo do Centro de Portugal é a Entidade Regional de Turismo gestora da Área Regional de Turismo do Centro, prevista no n.º 1 do artigo 3.º do [Decreto-Lei n.º 67/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), de 10 de Abril, compreendendo o território da Nomenclatura das Unidades Territoriais para Fins Estatísticos de Nível II (NUTS II) - Centro, conforme fixado pelo [Decreto-Lei n.º 46/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), de 15 de Fevereiro, com a redacção do [Decreto-Lei n.º 317/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1999-423062), de 11 de Agosto.\n\n2 - Podem integrar a Turismo do Centro de Portugal, para além dos municípios inseridos nas unidades territoriais referidas no número anterior, entidades de direito público e privado com interesse no desenvolvimento e na valorização turística da área regional de turismo correspondente à NUT II Centro, mediante deliberação da assembleia geral, sob proposta da direcção, e sem prejuízo do disposto no número seguinte.\n\n3 - Os municípios inseridos nas unidades territoriais referidas no n.º 1 do presente artigo têm uma representação nunca inferior a 50 % do número total de entidades, de direito público e privado, que a cada momento integram a Turismo do Centro de Portugal.\n\n> Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+  },
+  "5ddcadf411d2b3ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Quórum",
+   "in_force_from": "2009-12-14",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+   ],
+   "markdown": "###### Artigo 8.º — Quórum\n\n1 - Os órgãos colegiais da Turismo do Centro de Portugal só podem deliberar quando esteja presente a maioria dos seus membros.\n\n2 - Não se verificando na primeira convocação o quórum previsto no número anterior, é convocada nova reunião, com o intervalo de, pelo menos, uma hora, podendo então o órgão deliberar desde que esteja presente um terço dos seus membros.\n\n> Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+  },
+  "7ac857638c280145": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": "2009-12-14",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+   ],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - A assembleia geral, órgão deliberativo da Turismo do Centro de Portugal, é composta pelas seguintes entidades ou seus representantes:\n\na) Os presidentes das câmaras municipais dos municípios integrados na Área Regional de Turismo do Centro de Portugal;\n\nb) Um representante do membro do Governo com tutela sobre o turismo;\n\nc) Um representante do membro do Governo com tutela sobre a cultura;\n\nd) Um representante da Comissão de Coordenação e Desenvolvimento Regional do Centro.\n\n2 - A assembleia geral integra ainda todas as entidades ou seus representantes, de direito público e privado, com interesse no desenvolvimento e na valorização turística da respectiva área territorial, nomeadamente:\n\na) AHP - Associação de Hotelaria de Portugal;\n\nb) ARESP - Associação de Restauração e Similares de Portugal;\n\nc) APAVT - Associação Portuguesa de Agências de Viagens e Turismo;\n\nd) ATP - Associação das Termas de Portugal;\n\ne) União Geral de Trabalhadores, para a área de turismo;\n\nf) Confederação Geral de Trabalhadores Portugueses, para a área de turismo;\n\ng) PRIVETUR - Associação Portuguesa de Turismo no Espaço Rural;\n\nh) Associação de Turismo Acessível - Um Acesso para Todos\n\ni) CEC - Conselho Empresarial do Centro;\n\nj) HRC - Associação dos Industriais de Hotelaria e Restauração do Centro;\n\nl) Associação Rota da Bairrada;\n\nm) AHRDA - Associação de Hotelaria Regional do Distrito de Aveiro.\n\n3 - A participação de entidades públicas e privadas na entidade regional de turismo depende de manifestação prévia e expressa nesse sentido.\n\n4 - Os membros identificados na alínea a) do n.º 1 do presente artigo têm uma representação nunca inferior a 50 % do total dos membros da assembleia geral.\n\n5 - Os representantes de cada entidade na assembleia geral podem ser substituídos a qualquer momento pela própria entidade, bastando para tal comunicar formalmente essas substituições ao presidente da assembleia geral.\n\n6 - Os representantes na assembleia geral não podem acumular outros cargos ou funções na Turismo do Centro de Portugal.\n\n7 - Se um membro da assembleia geral for eleito presidente da direcção da Turismo do Centro de Portugal, ou fizer parte da direcção, será substituído, na vaga deixada em aberto, pela entidade representada.\n\n8 - A representação de dois ou mais dos municípios referidos na alínea a) do n.º 1 do presente artigo pode ser assegurada pelo presidente da câmara municipal de um desses municípios, mediante deliberação dos órgãos autárquicos competentes nesse sentido.\n\n> Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+  },
+  "7e50763cd7123714": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Competências do presidente da assembleia geral",
+   "in_force_from": "2009-12-14",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+   ],
+   "markdown": "###### Artigo 19.º — Competências do presidente da assembleia geral\n\nCompete ao presidente da assembleia geral da Turismo do Centro de Portugal:\n\na) Conferir posse à direcção, nos termos do artigo 24.º dos presentes estatutos;\n\nb) Representar a assembleia geral, assegurar o seu regular funcionamento e presidir aos respectivos trabalhos;\n\nc) Convocar as reuniões, ordinárias e extraordinárias;\n\nd) Suspender ou encerrar antecipadamente as reuniões quando circunstâncias excepcionais o justifiquem, mediante decisão fundamentada, a constar expressamente da acta da reunião;\n\ne) Assegurar o cumprimento das leis e a regularidade das deliberações.\n\n> Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+  },
+  "99648a509f33d705": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Composição",
+   "in_force_from": "2009-12-14",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+   ],
+   "markdown": "###### Artigo 22.º — Composição\n\n1 - A direcção, órgão executivo e de gestão da Turismo do Centro de Portugal, é composta por um presidente, por dois vice-presidentes e por quatro vogais.\n\n2 - Mediante deliberação da Direcção, podem exercer funções, em regime de permanência, até 3 membros da Direcção.\n\n3 - Ao presidente e vogais em regime de permanência aplica-se o regime jurídico de incompatibilidades e impedimentos dos titulares de altos cargos públicos.\n\n4 - O presidente da direcção designa, de entre os vice-presidentes, aquele a quem cabe substituí-lo nas suas ausências, faltas ou impedimentos.\n\n5 - A direcção é eleita pela assembleia geral, por escrutínio secreto, em lista única, subscrita por entidade ou conjunto de entidades, de direito público ou privado, que integrem a entidade regional de turismo, observando-se a maioria prevista no n.º 1 do artigo 15.º dos presentes estatutos.\n\n6 - A direcção pode ser demitida pela assembleia geral, por escrutínio secreto, mediante a maioria prevista no n.º 3 do artigo 15.º dos presentes estatutos.\n\n> Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+  },
+  "d54c4ed8ada66749": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Competência",
+   "in_force_from": "2009-12-14",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+   ],
+   "markdown": "###### Artigo 25.º — Competência\n\n1 - Compete à direcção da Turismo do Centro de Portugal, em matéria de organização e funcionamento da entidade regional de turismo:\n\na) Propor à assembleia geral a nomeação do fiscal único e a respectiva remuneração;\n\nb) Propor à assembleia geral a criação, reorganização e extinção de delegações e postos de turismo;\n\nc) Elaborar o regulamento das delegações, o regulamento dos serviços, o regulamento do pessoal e todos os demais regulamentos necessários à organização e funcionamento da Turismo do Centro de Portugal, e submetê-los à aprovação da assembleia geral;\n\nd) Gerir as delegações e postos de turismo, observando-se o disposto no artigo 31.º dos presentes estatutos;\n\ne) Elaborar e aprovar o inventário de todos os bens, direitos e obrigações patrimoniais e respectiva avaliação, a submeter à apreciação e votação do órgão deliberativo;\n\nf) Elaborar as normas e procedimentos de controlo interno e submetê-las à aprovação da assembleia geral;\n\ng) Elaborar o plano de actividades e o orçamento, bem como as revisões orçamentais, e submetê-los à apreciação e aprovação da assembleia geral;\n\nh) Executar o plano de actividades e o orçamento aprovados, bem como aprovar as alterações orçamentais;\n\ni) Elaborar os documentos de prestação de contas e submetê-los à apreciação e aprovação da assembleia geral;\n\nj) Remeter ao Tribunal de Contas, bem como a quaisquer outras entidades que a lei determinar, os documentos de prestação de contas aprovados;\n\nl) Deliberar sobre a contratação de bens móveis e de serviços, nos termos do Código dos Contratos Públicos;\n\nm) Propor à assembleia geral a alienação ou oneração de bens propriedade da Turismo do Centro de Portugal;\n\nn) Aceitar doações, legados e heranças, a benefício de inventário;\n\no) Submeter à aprovação da assembleia geral os mapas de pessoal e respectivas alterações;\n\np) Fixar o preço da venda de objectos promocionais (merchandising) e da prestação de serviços pela Turismo do Centro de Portugal;\n\nq) Cobrar e arrecadar as receitas e autorizar as despesas, de acordo com o orçamento aprovado.\n\nr) Deliberar sobre o exercício de funções em regime de permanência por até três membros da Direcção.\n\n2 - Compete à direcção da Turismo do Centro de Portugal, em matéria de planeamento:\n\na) Participar na elaboração dos princípios orientadores da política de turismo aplicável à sua área territorial, no quadro das orientações e directrizes da política de turismo definida pelo Governo e nos planos plurianuais das administrações central e local, e submetê-los à aprovação da assembleia geral;\n\nb) Elaborar os documentos estratégicos regionais referentes às atribuições e competências cometidas à Turismo do Centro de Portugal, e submetê-los à aprovação da assembleia geral.\n\n3 - Compete ainda à direcção da Turismo do Centro de Portugal:\n\na) Executar e zelar pelo cumprimento das deliberações da assembleia geral;\n\nb) Determinar a realização de auditorias externas à gestão patrimonial e financeira da entidade regional de turismo, por sua iniciativa ou sob proposta do fiscal único;\n\nc) Deliberar sobre a concessão de apoio, financeiro ou logístico, a eventos com conteúdo turístico, que se enquadrem na estratégia regional de promoção turística dirigida ao mercado interno ou externo;\n\nd) Exercer as demais competências necessárias à prossecução da missão, atribuições e competências da Turismo do Centro de Portugal, previstas nos artigos 2.º e 3.º dos presentes estatutos, bem como as que lhe sejam atribuídas por lei.\n\n4 - A direcção pode delegar no seu presidente, com faculdade de subdelegação nos vice-presidentes e vogais em regime de permanência, as competências previstas nas alíneas j), p) e q) do n.º 1 e na alínea c) do número anterior.\n\n> Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+  },
+  "dc1f88699e64bbfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Reuniões extraordinárias",
+   "in_force_from": "2009-12-14",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+   ],
+   "markdown": "###### Artigo 28.º — Reuniões extraordinárias\n\n1 - A direcção da Turismo do Centro de Portugal reúne extraordinariamente sempre que seja convocada pelo presidente da direcção, por sua iniciativa ou a solicitação escrita de um dos vice-presidentes, ou de, pelo menos, três dos membros da direcção.\n\n2 - As reuniões extraordinárias da direcção da Turismo do Centro de Portugal são convocadas pelo seu presidente nos dois dias subsequentes à recepção da solicitação a que se refere o número anterior, para um dos oito dias posteriores à data de apresentação da solicitação, sendo sempre observada a antecedência de, pelo menos, dois dias entre a convocatória e a data da reunião.\n\n3 - As convocatórias para as reuniões extraordinárias da direcção da Turismo do Centro de Portugal são efectuadas através de carta registada com aviso de recepção ou por qualquer meio de transmissão escrita e electrónica de dados, desde que seja obtido o respectivo relatório de transmissão bem sucedida, e devem indicar a data, hora e local da reunião e a ordem do dia, incluindo-se nesta todos os assuntos a tratar na reunião, devidamente individualizados.\n\n4 - As convocatórias para as reuniões extraordinárias da direcção da Turismo do Centro de Portugal são acompanhadas de toda a documentação pertinente aos assuntos a tratar.\n\n> Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+  },
+  "155b6de1b14a9142": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Remunerações",
+   "in_force_from": "2009-12-14",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+   ],
+   "markdown": "###### Artigo 29.º — Remunerações\n\n1 - O presidente da direcção é remunerado de acordo com os montantes fixados para o cargo de direcção superior de 1.º grau.\n\n2 - Os vice-presidentes e ou os membros da direcção que exerçam funções em regime de permanência a tempo inteiro são remunerados de acordo com os montantes fixados para o cargo de direcção superior de 2.º grau e a 50 % destes, se as funções forem exercidas em regime de meio tempo.\n\n3 - Os membros da direcção não remunerados recebem uma senha de presença por cada reunião, ordinária ou extraordinária, a que compareçam, no valor de 1/22 da remuneração mensal base auferida pelos vice-presidentes da direcção, dentro dos limites legais.\n\n> Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+  },
+  "b954deca5077090a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Competências do presidente da direcção",
+   "in_force_from": "2009-12-14",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+   ],
+   "markdown": "###### Artigo 30.º — Competências do presidente da direcção\n\n1 - Compete ao presidente da direcção da Turismo do Centro de Portugal:\n\na) Representar a Turismo do Centro de Portugal em juízo e fora dele;\n\nb) Representar a direcção e assegurar o seu regular funcionamento;\n\nc) Decidir sobre todos os assuntos de administração e gestão correntes da Turismo do Centro de Portugal, em conformidade com o plano de actividades e orçamento aprovados;\n\nd) Convocar as reuniões, ordinárias e extraordinárias, e presidir aos respectivos trabalhos;\n\ne) Fixar dia da semana, hora e local certos para a realização das reuniões ordinárias da direcção;\n\nf) Suspender ou encerrar antecipadamente as reuniões quando circunstâncias excepcionais o justifiquem, mediante decisão fundamentada, a constar expressamente da acta da reunião;\n\ng) Designar o vice-presidente que o substitui nas suas ausências, faltas ou impedimentos;\n\nh) Organizar e coordenar a actuação da direcção, nomeadamente através da subdelegação nos membros da direcção em regime de permanência de competências que lhe tenham sido delegadas pela direcção e da atribuição aos mesmos, como lhe aprouver, de funções e responsabilidades específicas;\n\ni) Superintender o pessoal e serviços;\n\nj) Autorizar a realização de despesa orçamentada, dentro do limite fixado na delegação de competência da direcção;\n\nl) Autorizar o pagamento de despesa orçamentada, dentro do limite fixado na delegação de competência da direcção;\n\nm) Assinar ou visar a correspondência;\n\nn) Executar e fazer executar as deliberações da direcção e da assembleia geral;\n\no) Assegurar o cumprimento das leis e a regularidade das deliberações.\n\n2 - Sempre que circunstâncias excepcionais e urgentes o exijam e não seja possível reunir extraordinariamente a direcção em tempo útil, o seu presidente pode praticar qualquer acto da competência desta, ficando o mesmo sujeito a ratificação, na primeira reunião realizada após a sua prática, sob pena de anulabilidade.\n\n> Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+  },
+  "0f998eeb7136e116": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Competências dos vice-presidentes e vogais da direcção",
+   "in_force_from": "2009-12-14",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+   ],
+   "markdown": "###### Artigo 31.º — Competências dos vice-presidentes e vogais da direcção\n\nCompete aos vice-presidentes e ou vogais da direcção da Turismo do Centro de Portugal dirigir as delegações, bem como os postos de turismo que às mesmas estejam afectos, exercer as competências que lhes sejam subdelegadas pelo presidente da direcção e desempenhar as funções e responsabilidades de que sejam incumbidos pelo mesmo.\n\n> Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+  },
+  "39042ecfecf15179": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Serviços",
+   "in_force_from": "2009-12-14",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+   ],
+   "markdown": "###### Artigo 34.º — Serviços\n\n1 - A Turismo do Centro de Portugal dispõe dos seguintes serviços:\n\na) Serviços de apoio à direcção;\n\nb) Serviços de promoção turística e de apoio técnico e operacional;\n\nc) Serviços administrativos, financeiros e de recursos humanos.\n\n2 - A estruturação dos serviços e as respectivas funções, bem como o organograma da Turismo do Centro de Portugal, constam do regulamento dos serviços, aprovado pela assembleia geral, sob proposta da direcção.\n\n3 - A Direcção pode deliberar sobre a criação de equipas de projecto, de acordo com as necessidades funcionais de cada área de actuação da Turismo do Centro de Portugal, designadamente no contexto de realização de projectos transversais e ou multidisciplinares.\n\n4 - A deliberação de constituição de equipas de projecto define, designadamente, os trabalhadores abrangidos, os objectivos a prosseguir, a duração do projecto, os meios financeiros que lhe estão afectos e designa, ainda, o respectivo coordenador e equiparação a cargo de direcção intermédia, que deve obedecer às exigências da respectiva área de recrutamento.\n\n> Alterado pelo/a [Aviso n.º 22359/2009](https://diariodarepublica.pt/dr/detalhe/aviso/22359-2009-2969667), publicado em 2009-12-14."
+  }
+ }
+}

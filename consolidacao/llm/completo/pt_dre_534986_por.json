@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:534986:por",
+  "artigos": [
+    {
+      "chave": "16.º",
+      "epigrafe": "Habitação",
+      "texto": "1 - A Câmara Municipal poderá autorizar a edificação isolada para habitação não integrada em loteamento aprovado, desde que:\n\na) No caso de destaque, a parcela inicial constitua uma unidade registral e matricial ou cadastral e seja contígua a via já infra-estruturada com distribuição de energia eléctrica e abastecimento de água ou em que essas infra-estruturas estejam projectadas ou programadas. A parcela sobrante deverá ter a área mínima de cultura fixada para a região, a parcela destacada terá pelo menos 1000 m2 e o índice de utilização do solo máximo é de 0,15;\n\nb) No caso de não haver lugar a destaque, a parcela constitua uma unidade registral e matricial ou cadastral e tenha a área mínima de 5000 m. O índice de utilização do solo máximo é de 0,04.\n\n2 - A altura máxima destas construções é de 6,5 m, medidos à platibanda ou beirado e dois pisos.\n\n3 - O número máximo de fogos por parcela é de dois.",
+      "alterador": 1
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Estatuto de uso e ocupação",
+      "texto": "1 - As condições de ocupação e instalação de indústrias e outras actividades nos espaços industriais propostos são estabelecidas em planos de pormenor e regulamentos de utilização de elaboração obrigatória pelo município e condicionados à apresentação de estudos de integração na envolvente.\n\n2 - Para os espaços industriais são estabelecidos os seguintes condicionamentos:\n\na) (Revogada.)\n\nb) A percentagem de áreas destinadas a espaços verdes públicos, equipamentos colectivos e outras utilizações de interesse social será, no mínimo, 10% da área total da zona;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Os afastamentos mínimos das construções aos limites dos lotes são os seguintes:\n\nAfastamento frontal: 7,5 m;\n\nAfastamentos laterais: 5 m;\n\nAfastamentos de tardoz: 5 m;\n\nf) A área obrigatoriamente não impermeabilizada é, no mínimo, de 20% da área de cada lote.\n\n3 - Os planos de pormenor referidos no n.º 1 deste artigo devem obrigatoriamente prever as seguintes soluções no que respeita às infra-estruturas:\n\na) O abastecimento de água será realizado a partir da rede pública de distribuição;\n\nb) O tratamento dos efluentes das unidades industriais, antes de serem lançados na rede urbana de saneamento ou nas linhas de drenagem natural, deverá ser realizado em estação própria, devidamente projectada em função dos caudais e tipos de efluentes previsíveis.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 2 (Declaração n.º 178/2012): retificação só da Planta de Ordenamento (localização do aterro sanitário), sem alteração textual do regulamento. Alterador 3 (Aviso n.º 8551/2014): fora do artigo 31.º (aplicado), o n.º 3 do artigo 3.º só prevê alteração futura do PDM por adaptação, sem texto a aplicar.",
+  "instrucoes": [
+    "Alterador 1 (RCM 132/97): nova redação da alínea b) do n.º 1 do artigo 16.º; restantes unidades mantidas ('...'). Aplicado.",
+    "Alterador 2 (Declaração 178/2012): correção cartográfica da Planta de Ordenamento; não textual, em nao_aplicavel.",
+    "Alterador 3 (Aviso 8551/2014, PP da Zona Industrial), artigo 31.º: revoga as alíneas a), c) e d) do n.º 2 do artigo 36.º do Regulamento do PDM, com a entrada em vigor do próprio PP. Aplicado: alíneas com '(Revogada.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

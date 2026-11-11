@@ -38,10 +38,47 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-10-22'
+version_history:
+  file: resolucao-conselho-ministros-109-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-11-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-10-22'
+    amending: pt:dre:668289:por
+    amending_title: Resolução do Conselho de Ministros n.º 175/97
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 16.º
+    - Altera Artigo 22.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 43.º
+    - Altera Artigo 45.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 62.º
+    - Altera Artigo 66.º
+    - Altera Artigo 68.º
+    - Altera Artigo 73.º
+    - Altera Artigo 74.º
+    - Altera Artigo 75.º
+    - Altera Artigo 79.º
+    - Altera Artigo 80.º
+    - Altera Artigo 86.º
+    - Altera Artigo 92.º
+    - Altera Artigo 93.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/109/1994/11/02/p/dre/pt/html
@@ -67,7 +104,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:07:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 175/97. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1994/resolucao-conselho-ministros-109-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -352,11 +390,13 @@ Fazem parte do domínio público hídrico e encontram-se protegidos, segundo a l
 
 ###### Artigo 11.º — Margens e zonas inundáveis
 
-1 - Nas margens das águas não navegáveis nem flutuáveis de 10 m de largura a ocupação ou utilização do solo encontra-se condicionada e rege-se pela legislação em vigor, considerando-se non aedificandi uma faixa mínima de 5 m.
+1 - Nas margens das águas não navegáveis nem flutuáveis de 10 m de largura a ocupação ou utilização do solo encontra-se condicionada e rege-se pela legislação em vigor.
 
 2 - Nas margens do rio Tua e na zona de influência da ponte-açude de Mirandela, de 50 m de largura, a ocupação ou utilização do solo encontra-se condicionada e rege-se pela legislação em vigor.
 
 3 - Nas zonas inundáveis dos rios Tua, Tuela e Rabaçal e da ribeira de Carvalhais a ocupação do solo encontra-se condicionada e rege-se pela legislação em vigor.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ###### Artigo 12.º — Albufeiras, zonas reservadas e de protecção
 
@@ -466,9 +506,9 @@ d) Em todas as obras deverá ser impermeabilizada a menor área possível do pon
 
 5) Parques de campismo;
 
-6) Conjuntos turísticos, meios complementares de alojamento turístico, estabelecimentos hoteleiros e similares localizados na faixa de protecção às albufeiras, desde que não integrados em qualquer outro ecossistema da REN;
+6) Obras com finalidade agrícola ou florestal, nomeadamente tanques para rega, pequenas barragens e pontos de água contra incêndios.
 
-7) Obras com finalidade agrícola ou florestal, nomeadamente tanques para rega, pequenas barragens e pontos de água contra incêndios.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ###### Artigo 17.º — Reserva Ecológica Nacional - Disposições complementares
 
@@ -734,13 +774,13 @@ ch) Ponte de Vale Verde da Gestosa sobre o rio Tua - Vale Verde da Gestosa.
 
 ci) Capela da Casa Mesquita - Mascarenhas;
 
-cj) Freixedinho - Mirandela;
+cj) Freixedinha - Mirandela;
 
 cl) Aldeia do Romeu.
 
 5 - O regime de protecção no interior dos perímetros de protecção referidos nos n.os 3 e 4 do presente artigo obedecerá ao estabelecido, nos termos da lei, para os imóveis de interesse público.
 
-6 - São ainda identificados, e delimitados os respectivos perímetros de protecção na planta actualizada de condicionantes os seguintes valores histórico-arqueológicos:
+6 - São ainda identificados e delimitados os respectivos perímetros de protecção na planta actualizada de condicionantes dos seguintes valores histórico-arqueológicos:
 
 a) Santuário de Nossa Senhora do Monte - Aguieiras;
 
@@ -805,6 +845,8 @@ ag) Castro romanizado de Vale de Telhas - muralha - Vale de Telhas;
 ah) Povoado medieval da Quinta da Ponte;
 
 ai) Castro romanizado do Cabeço - Vale de Telhas.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ### CAPÍTULO IV — Infra-estruturas
 
@@ -976,7 +1018,7 @@ São consideradas compatíveis com o uso dominante e com os usos supletivos, est
 
 1) A instalação de indústrias das classes D e C, desde que não ofereçam riscos de poluição nem apresentem perigosidade ou outros inconvenientes, nomeadamente de aparcamento e de circulação para as áreas vizinhas;
 
-2) A instalação de armazéns que, pelo estacionamento, cargas e descargas e volume de tráfego gerados, não causem:
+2) A instalação de armazéns e de oficinas que, pelo estacionamento, cargas e descargas e volume de tráfegos gerados, não causem:
 
 a) Congestionamento da circulação viária;
 
@@ -986,9 +1028,11 @@ c) Diminuição da segurança rodoviária;
 
 d) Riscos de incêndio ou explosão.
 
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
+
 ###### Artigo 40.º — Edificabilidade
 
-1 - Todas as edificações respeitarão os planos de urbanização, de pormenor ou os loteamentos aprovados, só existirem.
+1 - Todas as edificações respeitarão os planos de urbanização e de pormenor ou os loteamentos aprovados, se existirem.
 
 2 - No caso de não existir qualquer plano de urbanização ou de pormenor plenamente eficazes ou loteamentos aprovados, só serão autorizadas as edificações que conduzam à qualificação do espaço urbano, através de soluções arquitectónicas que concretizem uma integração harmoniosa com os edifícios e funções envolventes, nomeadamente no que se refere a tráfego e estacionamento.
 
@@ -998,9 +1042,7 @@ a) Ultrapassem a altura dominante do conjunto onde irão inserir-se ou o plano d
 
 b) Contrariem o alinhamento dominante do conjunto onde irão inserir-se ou o plano de alinhamento estabelecido para o local.
 
-4 - Exceptuam-se do disposto no n.º 3 do presente artigo as edificações referentes a equipamentos, unidades hoteleiras ou outras que conduzam à qualificação do espaço urbano, através de soluções arquitectónicas e urbanísticas que concretizem uma integração harmoniosa com os edifícios e funções envolventes, através de projecto realizado por arquitecto.
-
-5 - Será sempre encargo do requerente a realização das obras de ligação à rede pública de infra-estruturas, estando neste caso, para além de outras que possam ser determinadas pela Câmara Municipal:
+4 - Será sempre encargo do requerente a realização das obras de ligação à rede pública de infra-estruturas, estando neste caso, para além de outras que possam ser determinadas pela Câmara Municipal:
 
 a) Ligação à rede viária e ou a sua beneficiação;
 
@@ -1010,35 +1052,29 @@ c) Ligação à rede de abastecimento de água;
 
 d) Ligação à rede de energia eléctrica.
 
-6 - No caso de não existir rede pública de abastecimento de água, de águas residuais ou de energia eléctrica, fica o requerente obrigado a realizar as obras necessárias para assegurar aquelas infra-estruturas básicas em regime de auto-suficiência, com obrigatoriedade de ligação às referidas redes públicas logo que elas existam.
+5 - No caso de não existir rede pública de abastecimento de água, de águas residuais ou de energia eléctrica, fica o requerente obrigado a realizar as obras necessárias para assegurar aquelas infra-estruturas básicas em regime de auto-suficiência, com obrigatoriedade de ligação às referidas redes públicas logo que elas existam.
 
-7 - Todas as edificações são obrigadas a ceder, a título gratuito, as áreas necessárias para passeios e estacionamentos determinados pela Câmara Municipal.
+6 - A edificabilidade nos espaços urbanos fora do perímetro urbano da cidade de Mirandela e do perímetro urbano de Torre de D. Chama respeitará os seguintes parâmetros:
 
-8 - A edificação nos espaços urbanos fora do perímetro urbano da cidade de Mirandela e do perímetro urbano de Torre de D. Chama respeitará os seguintes parâmetros:
+a) Altura máxima de três pisos (rés-do-chão, 1.º e 2.º andares) a partir da cota de serventia;
 
-a) Altura máxima de três pisos - rés-do-chão, 1.º e 2.º andares a partir da cota de serventia;
+b) Habitação isolada unifamiliar, dupla, geminada ou em banda;
 
-b) Habitação isolada unifamiliar, dupla, geminada bifamiliar ou em banda descontínua;
+c) A percentagem máxima construída no lote é de 60%, excepto quando se tratar da reconstrução, recuperação ou reabilitação de edificações já existentes.
 
-c) A percentagem máxima construída no lote é de 60%.
+7 - Enquanto não forem elaborados planos de urbanização e ou pormenor, a edificação na área urbana da cidade de Mirandela e da vila de Torre de D. Chama poderá decorrer de operações de loteamento ou da construção em parcelas isoladas, devendo a solução urbanística definida concretizar uma integração harmoniosa na área envolvente e respeitar a altura máxima de seis pisos (rés-do-chão, 1.º, 2.º, 3.º, 4.º e 5.º andares) para a cidade de Mirandela e de quatro pisos (rés-do-chão, 1.º, 2.º e 3.º andares) para a vila de Torre D. Chama, sendo os pisos contados a partir da cota de serventia e sem prejuízo do estabelecido nos n.os 2 e 3 do presente artigo, no caso de construções isoladas.
 
-9 - Enquanto não forem elaborados planos de urbanização, a edificação na área urbana da cidade de Mirandela e da vila de Torre de D. Chama respeitará os parâmetros definidos no n.º 8 do presente artigo, com excepção da alínea a), sendo a altura máxima de seis pisos - rés-do-chão, 1.º, 2.º, 3.º, 4º e 5.º andares - para a cidade de Mirandela e de quatro pisos - rés-do-chão, 1.º, 2.º e 3.º andares - para a vila de Torre de D. Chama, sendo os pisos contados a partir da cota de serventia.
+8 - Com carácter de excepção poderá ser admitida a construção de edifícios com um número de pisos superior ao estabelecido nos n.os 3, 6 e 7 do presente artigo, quando se trate da construção de equipamentos colectivos ou de unidades hoteleiras e similares, desde que justificado o seu interesse municipal e satisfeitos adequados padrões de qualidade arquitectónica e de harmoniosa integração urbanística, através de projecto realizado por arquitecto.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ###### Artigo 41.º — Regime de cedências
 
-1 - Para efeito de edificação em parcela isolada e indivisa, os proprietários são obrigados a ceder à Câmara Municipal, a título gratuito, devidamente arranjadas, as áreas necessárias com as seguintes obras:
+1 - Para efeitos da divisão da propriedade, decorrente de plano de urbanização, plano de pormenor ou operação de loteamento, com vista à sua implementação urbanística, os proprietários e demais titulares de direitos reais sobre o terreno são obrigados a ceder à Câmara Municipal, a título gratuito e devidamente arranjadas, as áreas necessárias com as seguintes obras:
 
 a) Construção e ou alargamento de vias de acesso - passeios e arruamentos;
 
-b) Estacionamento automóvel público - 1,5 lugares por fogo sem estacionamento privativo e 1 lugar por fogo com estacionamento privativo;
-
-c) Estacionamento automóvel público - 1 lugar por cada 50 m2 de área comercial, armazéns e serviços.
-
-2 - Para efeito da divisão da propriedade, decorrente de plano de urbanização, plano de pormenor ou operação de loteamento, com vista à sua implementação urbanística, os proprietários e demais titulares de direitos reais sobre o terreno são obrigados a ceder à Câmara Municipal, a título gratuito e devidamente arranjadas, as áreas necessárias com as seguintes obras:
-
-a) Construção e ou alargamento de vias de acesso - passeios e arruamentos;
-
-b) Estacionamento automóvel público - dois lugares por fogo e por 50 m2 de área comercial, armazéns e serviços;
+b) Estacionamento automóvel público - um lugar por fogo e por 50 m2 de área comercial, armazéns ou serviços;
 
 c) Instalação de equipamentos colectivos;
 
@@ -1046,11 +1082,15 @@ d) Construção de outras infra-estruturas;
 
 e) Espaços verdes.
 
-3 - A área total de cedência, incluindo a área afecta a vias e a área de estacionamento, referida no n.º 2 do presente artigo, não será inferior a 25% do total da área a urbanizar na cidade de Mirandela e na vila de Torre de D. Chama.
+2 - A área total de cedência, incluindo a área afecta a vias e a área de estacionamento, referida no n.º 1 do presente artigo, não será inferior a 25% do total da área a urbanizar na cidade de Mirandela e na vila de Torre de D. Chama.
 
-4 - Poderá a cedência da área para estacionamento referida no n.º 1 do presente artigo ser substituída por compensação em numerário ou espécie, a aprovar em assembleia municipal, quando a parcela não dispuser, justificadamente, de área disponível para o efeito.
+3 - Poderá a cedência da área para estacionamento público, referida nos n.os 1 e 2 do presente artigo, ser dispensada nos loteamentos até ao máximo de cinco lotes de habitação unifamiliar ou se as construções dispuserem das áreas de estacionamento necessárias, de acesso público, embora pago, sendo nestes casos a área total de cedência não inferior a 15% do total da área a urbanizar na cidade de Mirandela e na vila de Torre de D. Chama, com carácter de excepção em relação ao estabelecido no n.º 2 do presente artigo.
 
-5 - Poderá a cedência da área para estacionamento automóvel público referida no n.º 2 do presente artigo ser dispensada se as construções dispuserem de áreas de estacionamento cobertas, de acesso público, embora pago, sendo, neste caso, a área total de cedência não inferior a 15% da área a urbanizar.
+4 - A área total de cedência para os loteamentos com mais de cinco lotes realizados nas aldeias não será inferior a 15% do total da área a urbanizar.
+
+5 - Nos loteamentos realizados nas aldeias, até ao máximo de cinco lotes, é dispensável a cedência de área para além da necessária à eventual construção ou alargamento das vias e passeios, com carácter de excepção em relação ao estabelecido no n.º 1 do presente artigo.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ### CAPÍTULO III — Espaços urbanizáveis
 
@@ -1062,7 +1102,7 @@ Os espaços urbanizáveis caracterizam-se pela sua boa aptidão geral para a urb
 
 1 - A edificação nos espaços urbanizáveis deverá decorrer da elaboração e aprovação de plano de urbanização e ou de planos de pormenor.
 
-2 - Enquanto não existirem planos de urbanização e ou de pormenor para os espaços urbanizáveis da sede do concelho, a edificação poderá decorrer de operações de loteamento ou da construção em parcelas isoladas, que se regerão, com carácter transitório, pelas seguintes disposições:
+2 - Enquanto não existirem planos de urbanização e ou de pormenor para os espaços urbanizáveis da sede do concelho, a edificação poderá decorrer de operações de loteamento ou da construção em parcelas isoladas, que se regerão pelas seguintes disposições:
 
 a) Número máximo de três pisos - rés-do-chão, 1.º e 2.º andares, a partir da cota de serventia - em construção isolada e quatro pisos - rés-do-chão, 1.º, 2.º e 3.º andares, a partir da cota de serventia - em operações de loteamento;
 
@@ -1080,6 +1120,8 @@ f) Satisfação de parâmetros de qualidade arquitectónica e urbanística.
 
 4 - A construção em espaços que não disponham de rede pública de abastecimento de água, de águas residuais ou de energia eléctrica fica condicionada à realização, pelo promotor, das obras necessárias para assegurar aquelas infra-estruturas básicas em regime de auto-suficiência, com obrigatoriedade de ligação às referidas redes públicas, logo que elas existam.
 
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
+
 ###### Artigo 44.º — Regime de cedências
 
 Os proprietários e demais titulares dos direitos reais sobre os terrenos são obrigados a ceder à Câmara Municipal, a título gratuito e devidamente arranjadas, as áreas necessárias para a construção e alargamento das vias de acesso, estacionamento público, construção de equipamentos colectivos e construção de outras infra-estruturas e espaços verdes, de acordo com o estabelecido no artigo 41.º
@@ -1090,11 +1132,13 @@ Os proprietários e demais titulares dos direitos reais sobre os terrenos são o
 
 São definidas como espaços industriais e assinaladas na planta de ordenamento as seguintes zonas industriais:
 
-a) Zona Industrial de Mirandela;
+a) Zona Industrial de Mirandela e respectiva zona de expansão;
 
 b) Complexo Agro-Industrial do Cachão;
 
 c) Zona Industrial da Formigosa.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ###### Artigo 46.º — Uso dominante
 
@@ -1106,15 +1150,17 @@ c) Zona Industrial da Formigosa.
 
 Nos espaços industriais referidos no artigo 45.º são considerados os seguintes usos complementares:
 
-a) Instalação de armazéns;
+a) Instalação de armazéns e de oficinas;
 
 b) Instalação de serviços de apoio às empresas, nomeadamente cantinas, zonas de convívio, postos de saúde, correios e telecomunicações, bombeiros e espaço para exposições.
 
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
+
 ###### Artigo 48.º — Estatuto de utilização
 
-1 - A implementação da Zona Industrial de Mirandela e da Zona Industrial da Formigosa, referidas nas alíneas a) e c) do artigo 45.º, decorrem de operações de loteamento industrial ou de plano de pormenor.
+1 - A implementação da Zona Industrial de Mirandela e respectiva zona de expansão e da Zona Industrial da Formigosa, referidas nas alíneas a) e c) do artigo 45.º, decorre de operações de loteamento ou de planos de pormenor ou de urbanização.
 
-2 - As operações de loteamento ou o plano de pormenor referidos no n.º 1 do presente artigo têm obrigatoriamente de incluir, sem prejuízo da legislação em vigor:
+2 - As operações de loteamento ou os planos referidos no n.º 1 do presente artigo têm obrigatoriamente de incluir, sem prejuízo da legislação em vigor:
 
 a) A definição de lotes industriais;
 
@@ -1156,17 +1202,21 @@ f) Soluções para o tratamento dos efluentes líquidos, resíduos sólidos, pol
 
 g) Destino final dos efluentes líquidos e dos resíduos sólidos.
 
+4 - Com carácter de excepção e enquanto não existirem planos de urbanização e ou de pormenor para as Zonas Industriais referidas no artigo 45.º, poderá autorizar-se a construção de estabelecimentos industriais ou outras instalações complementares compatíveis, em parcelas isoladas no interior das referidas Zonas Industriais, desde que justificado o seu interesse municipal e satisfeito o estabelecido nos n.os 2 e 3 do artigo 49.º
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
+
 ###### Artigo 49.º — Localização industrial e novos espaços industriais
 
 1 - O licenciamento da localização e construção de estabelecimentos industriais fora dos espaços industriais referidos no artigo 45.º poderá ocorrer nas seguintes situações:
 
 a) Em espaço urbano, de acordo com o estabelecido no artigo 39.º;
 
-b) Em espaço urbano ou urbanizável, em zona industrial a criar, através de operação de loteamento ou plano de pormenor;
+b) Em espaço urbano ou urbanizável, em zona industrial a criar, através de operação de loteamento ou plano de urbanização ou de pormenor;
 
 c) Instalação de indústria isolada da classe C ou D, em área classificada como espaço natural de utilização múltipla;
 
-d) Instalação em novas zonas industriais a criar, em área múltipla, de acordo com o estabelecido no artigo 34.º
+d) Instalação em novas zonas industriais a criar, em área classificada como espaço natural de utilização múltipla, de acordo com o estabelecido no artigo 34.º
 
 2 - A localização dos estabelecimentos industriais referidos no número anterior deverá satisfazer cumulativamente os seguintes condicionamentos:
 
@@ -1187,6 +1237,8 @@ a) Apresentação e execução de projecto de arranjos exteriores;
 b) Satisfação de parâmetros de qualidade e de enquadramento paisagístico;
 
 c) Justificação satisfatória da localização pretendida.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ### CAPÍTULO V — Espaços destinados à indústria extractiva
 
@@ -1264,7 +1316,9 @@ São áreas vocacionadas para uma utilização de recreio e lazer, nas suas mais
 
 ###### Artigo 55.º — Estatuto de utilização
 
-Nestas áreas apenas serão permitidos usos específicos ou compatíveis com actividades de recreio e ou lazer, definidas pela Câmara Municipal.
+Nestas áreas apenas serão permitidos usos específicos ou compatíveis com as actividades de recreio e ou lazer, definidas pela Câmara Municipal para cada área.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ###### Artigo 56.º — Edificabilidade
 
@@ -1272,13 +1326,15 @@ Nestas áreas apenas serão permitidos usos específicos ou compatíveis com act
 
 a) Uma integração cuidada na paisagem envolvente;
 
-b) Um cuidado especial em não poluir o meio ambiente, devendo os empreendimentos caracterizar-se por uma alta qualidade ao nível da arquitectura e do saneamento básico.
+b) Um cuidado especial em não poluir o meio ambiente, devendo os projectos caracterizar-se por uma alta qualidade ao nível da arquitectura e do saneamento básico.
 
 2 - Em projectos especiais de recreio e lazer será obrigatória a participação de arquitecto paisagista, para além da satisfação dos condicionamentos estabelecidos no n.º 1 do presente artigo.
 
 3 - Compete à Câmara Municipal definir os projectos que, pela sua natureza, dimensão e ou complexidade, serão classificados como especiais.
 
-4 - É permitida a construção, a título precário, de instalações compatíveis com as actividades de recreio e lazer e sujeita a condicionamentos.
+4 - É permitida a construção, a título precário, de instalações compatíveis com as actividades de recreio e lazer definidas para cada área e sujeita a condicionamentos adequados a cada situação.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ### CAPÍTULO VII — Espaços agrícolas
 
@@ -1324,9 +1380,13 @@ c) Núcleos florestais, com áreas mínimas de 50 ha.
 
 A edificação nos espaços florestais é permitida nas seguintes situações:
 
-1) Reconstrução, recuperação ou reabilitação de edificações já existentes;
+a) Reconstrução, recuperação ou reabilitação de edificações já existentes;
 
-2) Construção de edifícios e anexos de apoio às actividades e usos permitidos.
+b) Construção de edifícios e anexos de apoio às actividades e usos permitidos;
+
+c) Obras destinadas à prevenção e ao combate de fogos florestais, nomeadamente pequenas barragens e pontos de água contra incêndios, a abertura de caminhos florestais e a instalação de linhas de corta-fogo.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ### CAPÍTULO IX — Espaços naturais de utilização múltipla
 
@@ -1370,7 +1430,7 @@ No espaço natural de uso múltiplo são proibidas todas as obras ou acções qu
 
 A edificação nos espaços naturais de utilização múltipla é permitida nas seguintes situações:
 
-1) Reconstrução, recuperação ou reabilitação de edificações já existentes;
+1) Reconstrução, recuperação, reabilitação ou ampliação de edifícios já existentes, não podendo a ampliação ocupar mais de 20% da área de construção existente;
 
 2) Execução de obras necessárias ao aproveitamento turístico, no âmbito do turismo rural, contemplando a modernização interior e recuperação exterior das edificações rurais preexistentes, a ampliação de instalações e a construção de anexos e de equipamentos, devendo satisfazer aos seguintes condicionamentos:
 
@@ -1382,19 +1442,29 @@ c) A volumetria das novas construções referidas na alínea anterior deverá re
 
 d) As novas construções deverão integrar-se, paisagística e arquitectonicamente, no conjunto de edifícios anteriormente existentes;
 
-3) Construção de edifícios e de anexos de apoio às actividades e usos permitidos;
+3) Construção de edifícios e de anexos de apoio às actividades e usos permitidos, nomeadamente instalações agro-pecuárias, agro-florestais e silvo-pastoris;
 
-4) Construção de habitação, em regime de residêncial habitual do proprietário ou titular dos direitos de exploração, em explorações agrícolas, agro-pecuárias ou agro-florestais com área igual ou superior a 3 ha;
+4) Construção de habitação em regime de residência habitual do proprietário ou titular dos direitos de exploração, em explorações agrícolas, agro-pecuárias ou agro-florestais com área igual ou superior a 3 ha ou economicamente viáveis;
 
 5) Habitação dos trabalhadores permanentes de exploração agrícola, agro-pecuária ou agro-florestal com área igual ou superior a 5 ha;
 
-6) Empreendimentos turísticos de carácter permanente, cujos projectos serão, obrigatoriamente, elaborados por arquitecto e nos quais serão respeitados os seguintes aspectos:
+6) Conjuntos turísticos, meios complementares de alojamento turístico e estabelecimentos hoteleiros e similares, cujos projectos serão obrigatoriamente elaborados por arquitecto e nos quais serão respeitados os seguintes aspectos:
 
 a) Integração cuidada na paisagem envolvente;
 
 b) Satisfação de parâmetros de qualidade ao nível da arquitectura, do ambiente e do saneamento básico;
 
-7) Instalações industriais isoladas das classes C e D e de armazéns, desde que não ofereçam riscos de poluição nem apresentem perigosidade ou outros inconvenientes.
+7) Instalações industriais isoladas das classes C e D, instalações oficinais, artesanais e armazéns, desde que não ofereçam riscos de poluição nem apresentem perigosidade ou outros inconvenientes;
+
+8) Construção de habitação em regime de residência habitual e permanente do proprietário e respectivo agregado familiar em prédio inscrito ou participado na matriz, na vizinhança de área urbana, confrontante com via pública existente de acesso à área urbana referida e dotado de rede pública de abastecimento de água, desde que corresponda a uma das seguintes situações:
+
+a) Tratar-se do preenchimento com habitação, ao longo do troço da referida via pública, até à distância máxima de 200 m do perímetro urbano;
+
+b) Tratar-se da colmatação com habitações, ao longo do troço da referida via pública, até à distância máxima de 500 m do perímetro urbano e apenas quando e enquanto se verifique a existência de habitações ou edifícios de carácter urbano, em mancha descontínua de um ou de outro lado da via, com distâncias entre edificações existentes não superiores a 50 m;
+
+9) Obras com finalidade agrícola ou florestal, nomeadamente tanques para rega, pequenas barragens e pontos de água contra incêndios.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ###### Artigo 67.º — Condicionamentos à edificabilidade
 
@@ -1414,9 +1484,11 @@ d) Dispor de energia eléctrica.
 
 ###### Artigo 68.º — Caracterização e objectivo
 
-1 - São áreas de protecção aos sítios histórico-arqueológicos as delimitadas, igualmente, na planta actualizada de condicionantes e referidas no artigo 22.º do presente Regulamento.
+1 - São áreas de protecção aos sítios histórico-arqueológicos, delimitadas igualmente na planta actualizada de condicionantes e referidas no artigo 22.º do presente Regulamento.
 
 2 - É objectivo da delimitação destas áreas a salvaguarda e valorização do património existente.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ###### Artigo 69.º — Estatuto de utilização
 
@@ -1460,15 +1532,19 @@ a) Nas áreas a arborizar ou a rearborizar, os povoamentos incluirão preferenci
 
 b) Nas áreas a arborizar ou a rearborizar com dimensão igual ou superior a 50 ha, os povoamentos deverão ser sempre compartimentados.
 
-3 - O recreio passivo.
+3 - Actividades recreativas e turísticas.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ###### Artigo 74.º — Edificabilidade
 
-A edificação em áreas de importante valor paisagístico é permitida nas seguintes situações:
+A edificabilidade em áreas de importante valor paisagístico é permitida nas seguintes situações:
 
-1) Reconstrução, recuperação ou reabilitação de edificações já existentes;
+a) Construções e ou execução de obras e projectos de acordo com o estabelecido nos n.os 1, 2, 6, 8 e 9 do artigo 66.º;
 
-2) Construções de edifícios e de anexos de apoio às actividades e usos permitidos.
+b) Construções de edifícios e de anexos de apoio às actividades e usos permitidos.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ###### Artigo 75.º — Condicionamentos ao uso e à edificabilidade
 
@@ -1478,7 +1554,9 @@ A edificação em áreas de importante valor paisagístico é permitida nas segu
 
 3 - Os projectos de construção serão também acompanhados de estudo de impacte ambiental sempre que a dimensão, a natureza ou a área de incidência do projecto o aconselhe.
 
-4 - A edificabilidade estabelecida no artigo 74.º fica ainda sujeita à satisfação cumulativa dos condicionamentos referidos no artigo 65.º, excepto quando daí resultar em prejuízo do estabelecido nos n.os 1 e 2 do presente artigo.
+4 - A edificabilidade estabelecida no artigo 74.º fica ainda sujeita à satisfação cumulativa dos condicionamentos referidos nos artigos 65.º e 67.º e à satisfação de parâmetros de qualidade ao nível da arquitectura, do ambiente e do saneamento básico.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ### CAPÍTULO XII — Áreas de protecção à fauna e flora
 
@@ -1496,7 +1574,11 @@ Nas áreas de protecção à fauna e flora são permitidos os usos agrícolas e 
 
 ###### Artigo 79.º — Restrições aos usos e à edificabilidade
 
-1 - As áreas de protecção à fauna e flora são áreas de construção condicionada, de acordo com o estabelecido nos n.os 1 e 2 do artigo 74º.
+1 - As áreas de protecção à fauna e flora são áreas de construção condicionada, sendo permitida a edificação nas seguintes situações:
+
+a) Reconstrução, recuperação, reabilitação ou ampliação de edificações já existentes, não podendo a ampliação ocupar mais de 20% da área de construção existente;
+
+b) Construção de edifícios e de anexos de apoio às actividades e usos permitidos.
 
 2 - Nas áreas de protecção à fauna e flora são proibidas as acções seguintes:
 
@@ -1516,13 +1598,17 @@ g) A introdução de espécies biológicas exóticas ou estranhas ao ambiente;
 
 h) A colheita e detenção, total ou parcial, de qualquer espécime biológico natural;
 
-i) Todas as actividades susceptíveis de perturbar o ambiente natural, nomeadamente a caça, a pesca e outras actividades produtoras de poluição, inclusive sonora;
+i) Todas as actividades susceptíveis de perturbar o ambiente natural;
 
 j) Actividades minerais e de recolha de inertes, nomeadamente a exploração de areias fluviais e saibros das vertentes.
 
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
+
 ###### Artigo 80.º — Excepções
 
-Relativamente às restrições constantes nas alíneas b) e c) do n.º 2 do artigo anterior, exceptua-se a realização de obras de beneficiação em vias já existentes e ou decorrentes da execução de projectos devidamente aprovados.
+Relativamente às restrições constantes nas alíneas a), b) e c) do n.º 2 do artigo anterior, exceptua-se a realização de obras de beneficiação em vias já existentes e ou decorrentes da execução de projectos devidamente aprovados, de acordo com o estabelecido no n.º 1 do artigo 79.º
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ### CAPÍTULO XIII — Espaços-canais
 
@@ -1650,15 +1736,17 @@ O espaço «albufeiras» integra todas as zonas alagadas pelas albufeiras existe
 
 Nas zonas de protecção às albufeiras não é permitido:
 
-1) Destruir o coberto vegetal ou alterar o relevo natural;
+a) Destruir o coberto vegetal ou alterar o relevo natural;
 
-2) Instalar vazadouros, lixeiras, parques de sucata ou outros depósitos de materiais ou de resíduos sólidos;
+b) Instalar vazadouros, lixeiras, parques de sucata ou outros depósitos de materiais ou de resíduos sólidos;
 
-3) Proceder à descarga ou infiltração no terreno de esgotos de qualquer natureza não devidamente tratados e, mesmo tratados, quando seja viável o seu lançamento a jusante da albufeira;
+c) Proceder à descarga ou infiltração no terreno de esgotos de qualquer natureza não devidamente tratados e, mesmo tratados, quando seja viável o seu lançamento a jusante da albufeira;
 
-4) Implantar quaisquer construções que não sejam de infra-estruturas de apoio à sua utilização ou de apoio às actividades de recreio, turismo ou lazer, com projecto arquitectónico adequado e correcta integração paisagística;
+d) Implantar quaisquer construções que não sejam de infra-estruturas de apoio à sua utilização ou de apoio às actividades de recreio, turismo ou lazer, com projecto arquitectónico adequado e correcta integração paisagística;
 
-5) Exceptua-se ao estabelecido nos n.os 1 e 4 do presente artigo as acções e a edificação permitidas no PDMM para a área urbana da cidade de Mirandela, na zona de protecção da albufeira da ponte-açude de Mirandela, fora da respectiva zona reservada.
+e) Exceptua-se ao estabelecido nas alíneas a) e d) do presente artigo as acções e a edificação permitidas no PDM para a área urbana da cidade de Mirandela, na zona de protecção da albufeira da ponte-açude de Mirandela, fora da respectiva zona reservada.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ### CAPÍTULO XV — Sítios de interesse geológico
 
@@ -1700,23 +1788,25 @@ São proibidas na lixeira todas as acções e usos que não sejam os conducentes
 
 ###### Artigo 92.º — Edificação isolada
 
-1 - A edificação isolada, fora dos espaços urbanos e urbanizáveis, é permitida, de acordo com o estabelecido nos artigos 56.º, 62.º, 66.º, 67.º, 74.º, 75.º, 79.º e 86.º, desde que a construção não exceda os dois pisos de altura e seja assegurada a auto-suficiência em relação às infra-estruturas de abastecimento de água, de águas residuais e de energia eléctrica e a ligação à rede viária.
+1 - A edificação isolada, fora dos espaços urbanos e urbanizáveis, é permitida, de acordo com o estabelecido nos artigos 49.º, 52.º, 56.º, 62.º, 66.º, 74.º, 75.º, 79.º e 86.º e desde que a construção não exceda os dois pisos de altura.
 
-2 - A instalação de armazéns isolados, fora dos espaços urbanos e urbanizáveis e de zonas industriais, é permitida de acordo com o estabelecido no n.º 7 do artigo 66.º e desde que a construção seja de um só piso, com 6,5 m de altura máxima, disponha de auto-suficiência em relação às infra-estruturas de abastecimento de água, de águas residuais e de energia eléctrica e de acesso directo à rede viária.
+2 - A instalação de armazéns isolados e oficinas, fora dos espaços urbanos e urbanizáveis e de zonas industriais, é permitida de acordo com o estabelecido no n.º 7 do artigo 66.º e no n.º 1 do artigo 67.º e desde que a construção seja de um só piso, com 6,5 m de altura máxima.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ###### Artigo 93.º — Loteamentos
 
-1 - As operações de loteamento realizadas em espaços urbanos e urbanizáveis na cidade de Mirandela e na vila de Torre de D. Chama, em loteamentos até ao máximo de cinco lotes, reger-se-ão pelo estabelecido no n.º 9 do artigo 40.º e ainda pelos seguintes parâmetros, além de outros condicionamentos constantes no presente Regulamento e demais legislação em vigor:
+1 - As operações de loteamento realizadas em espaços urbanos e urbanizáveis na cidade de Mirandela e na vila de Torre de D. Chama, em loteamentos até ao máximo de cinco lotes, reger-se-ão pelo estabelecido nos artigos 40.º, 41.º, 43.º e 44.º e ainda pelos seguintes parâmetros, além de outros condicionamentos constantes no presente Regulamento e demais legislação em vigor:
 
 a) Será previsto um lugar de estacionamento, dentro do lote, por fogo;
 
-b) As áreas de cedência poderão restringir-se às áreas indispensáveis para eventual construção e ou alargamento das vias e passeios, podendo a restante cedência estabelecida nos termos do presente Regulamento ser substituída por uma compensação em numerário ou em espécie, a aprovar em assembleia municipal, quando a parcela não dispuser, justificadamente, de espaço para o efeito.
+b) As áreas de cedência poderão restringir-se às áreas indispensáveis para a eventual construção ou alargamento das vias e passeios, podendo a restante cedência estabelecida nos termos do presente Regulamento ser substituída por uma compensação em numerário ou em espécie, a aprovar pela Assembleia Municipal, quando a área a urbanizar não dispuser, justificadamente, de espaço para o efeito.
 
 2 - As operações de loteamento realizadas em espaços urbanos e urbanizáveis na cidade de Mirandela e na vila de Torre de D. Chama, em loteamentos com mais de cinco lotes, reger-se-ão pelos seguintes parâmetros, além de outros condicionamentos constantes no presente Regulamento e demais legislação em vigor:
 
 a) As edificações destinadas à habitação poderão ser dos tipos unifamiliar, dupla ou plurifamiliar, isolada, geminada ou em banda;
 
-b) Serão previstos dois lugares de estacionamento, dentro do lote, por fogo;
+b) Será previsto um lugar de estacionamento, dentro do lote, por fogo;
 
 c) Deverá ser privilegiada a criação de vias de serviço interiores ao loteamento, em loteamentos atravessados ou adjacentes a vias pertencentes às redes intermunicipal, municipal principal ou municipal secundária, reduzindo ao mínimo o número de acessos directos a essas vias;
 
@@ -1728,13 +1818,13 @@ f) No caso de arruamentos com árvores, estes terão uma faixa adicional de pass
 
 3 - As operações de loteamento realizadas em espaços urbanos das aldeias reger-se-ão pelos seguintes parâmetros, além de outros condicionamentos constantes no presente Regulamento e demais legislação em vigor:
 
-a) As edificações destinadas à habitação serão dos tipos unifamiliar e dupla, isoladas ou geminadas;
+a) As edificações destinadas à habitação serão dos tipos unifamiliar, dupla, geminada ou em banda;
 
 b) Será previsto um lugar de estacionamento, dentro do lote, por fogo;
 
-c) As áreas de cedência poderão restringir-se às indispensáveis para eventual construção ou alargamento das vias e passeios, podendo a restante cedência estabelecida nos termos do presente Regulamento ser substituída por uma taxa espécie, a aprovar em assembleia municipal, nos loteamentos com mais de cinco lotes, não devendo a área total de cedência ser inferior a 15% do total da área a urbanizar;
+c) As áreas de cedência poderão restringir-se às indispensáveis para a eventual construção ou alargamento das vias e passeios, sendo a largura mínima da faixa de rodagem de 5 m, admitindo-se a dispensabilidade dos passeios por razões urbanísticas e podendo a restante cedência, prevista nos termos do presente Regulamento, ser substituída por uma compensação em numerário ou em espécie, a aprovar em Assembleia Municipal, para os loteamentos com mais de cinco lotes.
 
-d) Nos loteamentos até ao máximo de cinco lotes é dispensável a cedência de áreas para alem das necessárias à eventual construção ou alargamento das vias e passeios.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 175/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/175-1997-668289), publicado em 1997-10-17.
 
 ###### Artigo 94.º — Estacionamento
 

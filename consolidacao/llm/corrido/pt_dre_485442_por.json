@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:485442:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "2.º - (Revogado.)",
+      "alterador": 12
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 11 alteram o quadro de pessoal do anexo (substituição dos lugares dirigentes por mapa que só vem em imagem; criação de lugares a extinguir quando vagarem), que só vem em imagem e não tem texto onde aplicar.",
+  "instrucoes": [
+    "Portaria n.º 1062/2000: substitui os lugares dirigentes e de chefia do anexo por mapa em imagem — não aplicável.",
+    "Portarias n.os 1708/2002, 1709/2002, 1710/2002, 1711/2002, 133/2003, 292/2003, 293/2003, 296/2003, 947/2003 e 948/2003 (2.ª série): criam lugares no quadro do anexo (imagem) — não aplicáveis.",
+    "Decreto-Lei n.º 132/2019, art. 50.º, alínea m): revoga o n.º 2.º — unidade 8 passa a 2.º - (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

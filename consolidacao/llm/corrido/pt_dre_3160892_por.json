@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:3160892:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 13,
+      "texto": "1 - Fica o fundo de Reabilitação e Conservação Patrimonial autorizado a comparticipar nos encargos relativos ao contrato de financiamento a celebrar com o Centro Hospitalar Psiquiátrico de Lisboa, respeitante ao apoio financeiro a conceder destinado à empreitada de beneficiação do sistema de aquecimento central daquele Centro Hospitalar, no montante global de (euro) 410.327,75, incluído o IVA à taxa legal em vigor.\n\n2 - Os encargos orçamentais para o Fundo de Reabilitação e Conservação Patrimonial decorrentes da assinatura do contrato de financiamento acima referido são reportados da seguinte forma:\n\na) Em 2014 - (euro) 67.534,32, incluído o IVA à taxa legal em vigor;\n\nb) Em 2015 - (euro) 342.793,42, incluído o IVA à taxa legal em vigor.",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 19,
+      "texto": "4 - Os encargos orçamentais para o Centro Hospitalar Psiquiátrico de Lisboa decorrentes da execução dos contratos celebrados, serão repartidos da seguinte forma:\n\na) Em 2014 - (euro) 22.511,45, incluído o IVA à taxa legal em vigor;\n\nb) Em 2015 - (euro) 114.264,47, incluído o IVA à taxa legal em vigor.\n\n5 - Os encargos financeiros deste contrato previstos no n.º 4 são satisfeitos, em 2014 e 2015, por verbas inscritas no orçamento de funcionamento do Centro Hospitalar Psiquiátrico de Lisboa.\n\n6 - O saldo que eventualmente venha a ser apurado em 2014 pode transitar para 2015.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 296/2015, 1.º: nova redação dos n.os 1 e 2 — substituídas as unidades 10 a 13.",
+    "Portaria n.º 296/2015, 1.º: nova redação dos n.os 4 a 6 — substituídas as unidades 15 a 19 (o n.º 3, unidade 14, mantém-se)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

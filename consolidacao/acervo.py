@@ -200,6 +200,15 @@ def alteradores_aplicados(resultado: dict, registo_selecao: dict) -> list[dict]:
     return [a for a in registo_selecao["alteradores"] if a["id"] in aplicados]
 
 
+def _selecao_de(id_: str, resultado: dict, selecao: dict, selecao_escala: dict) -> dict:
+    """A seleção do diploma. Um juntado da escala (com `alteradores_ids`) usa a da escala, que tem
+    os alteradores recolhidos depois do piloto; o piloto pode ter o mesmo diploma com um alterador
+    que então não estava no acervo."""
+    if "alteradores_ids" in resultado and id_ in selecao_escala:
+        return selecao_escala[id_]
+    return selecao[id_]
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--dry-run", action="store_true")
@@ -210,6 +219,7 @@ def main() -> int:
     acervo = Acervo(RAIZ)
     resultados = {r["id"]: r for r in _lista(PASTA / "resultados.jsonl")}
     selecao = {r["id"]: r for r in _lista(PASTA / "selecao.jsonl")}
+    selecao_escala = {r["id"]: r for r in _lista(PASTA / "selecao-escala.jsonl")} if (PASTA / "selecao-escala.jsonl").exists() else {}
     for ficheiro, destino in (("resultados-escala.jsonl", resultados), ("selecao-escala.jsonl", selecao)):
         if (PASTA / ficheiro).exists():
             for r in _lista(PASTA / ficheiro):
@@ -269,7 +279,7 @@ def main() -> int:
             recusados.append(f"{id_}: o registo em data/ já não é o original verificado")
             continue
 
-        alteradores = [(a, front_matter((RAIZ / a["path"]).read_text(encoding="utf-8"))) for a in alteradores_aplicados(resultado, selecao[id_])]
+        alteradores = [(a, front_matter((RAIZ / a["path"]).read_text(encoding="utf-8"))) for a in alteradores_aplicados(resultado, _selecao_de(id_, resultado, selecao, selecao_escala))]
         if not alteradores:
             recusados.append(f"{id_}: nenhum alterador com alterações aplicadas")
             continue

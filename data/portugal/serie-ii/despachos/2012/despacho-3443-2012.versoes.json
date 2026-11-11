@@ -1,0 +1,390 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:2539140:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2012-03-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "42b5c37f0c003714",
+    "cdaa9bde9bb865a6",
+    "6edfbf83593321e0",
+    "5b77890a47ab05e8",
+    "90ade9c8ffd8d2cb",
+    "6fe51cf8f3a99dc6",
+    "b3a54d898c0601a8",
+    "a5a4d3bc8481d16d",
+    "b5048d03554a2596",
+    "a4de7d0e50aa38b0",
+    "5e066c32ded45559",
+    "f4fae754ded0b614",
+    "81485abd0d6dedc8",
+    "524ee28983bd9f65",
+    "eb04655396323f28",
+    "d420ac96e3060eef",
+    "114eac353d1f042a",
+    "393a06a343d64a7e",
+    "bcf4968a9e08ed65",
+    "3f63b74c9f1441de",
+    "7496da1876d89411",
+    "b1d48bcfafefd2d0",
+    "f3abbba7071e66fc",
+    "a1246acea08baaeb",
+    "5e6b1ab89a44ae0f",
+    "d78c0fd5f1b82a59",
+    "eacbd11153af0af8",
+    "52d20aed03f5dc46",
+    "7576d56173651b1e",
+    "bac699744595b0f9",
+    "878fc45cb2035a45"
+   ]
+  },
+  {
+   "date": "2018-11-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66837133:por",
+     "title": "Despacho n.º 3019/2015",
+     "published": "2015-03-25",
+     "dre_path": "/dr/detalhe/despacho/3019-2015-66837133"
+    },
+    {
+     "id": "pt:dre:117105898:por",
+     "title": "Despacho n.º 10964/2018",
+     "published": "2018-11-26",
+     "dre_path": "/dr/detalhe/despacho/10964-2018-117105898"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "42b5c37f0c003714",
+    "b2c43609e9b3f18f",
+    "6edfbf83593321e0",
+    "5b77890a47ab05e8",
+    "90ade9c8ffd8d2cb",
+    "6fe51cf8f3a99dc6",
+    "b3a54d898c0601a8",
+    "a5a4d3bc8481d16d",
+    "b5048d03554a2596",
+    "a4de7d0e50aa38b0",
+    "5e066c32ded45559",
+    "f4fae754ded0b614",
+    "81485abd0d6dedc8",
+    "524ee28983bd9f65",
+    "eb04655396323f28",
+    "d420ac96e3060eef",
+    "114eac353d1f042a",
+    "d35da18e7f1d7b54",
+    "73cddb6d16a9186c",
+    "3f63b74c9f1441de",
+    "7496da1876d89411",
+    "b1d48bcfafefd2d0",
+    "f3abbba7071e66fc",
+    "a1246acea08baaeb",
+    "5e6b1ab89a44ae0f",
+    "d78c0fd5f1b82a59",
+    "eacbd11153af0af8",
+    "52d20aed03f5dc46",
+    "7576d56173651b1e",
+    "bac699744595b0f9",
+    "878fc45cb2035a45"
+   ]
+  }
+ ],
+ "fragments": {
+  "42b5c37f0c003714": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Unidades flexíveis da Direção-Geral de Política Externa\n\nNos termos do n.º 5 do artigo 21.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, as unidades orgânicas flexíveis dos serviços são criadas, alteradas ou extintas por despacho do dirigente máximo, que definirá, entre outras, as respetivas atribuições e competências. Em cumprimento do n.º 1 do artigo 27.º do [Decreto-Lei n.º 121/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2011-145192), de 29 de dezembro, que aprovou a Lei Orgânica do Ministério dos Negócios Estrangeiros, foi publicado o [Decreto Regulamentar n.º 11/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2012-544170), de 19 de janeiro, que opera a reestruturação da Direção-Geral de Política Externa, no âmbito do processo global de reforma da Administração Pública.\n\nAtravés da Portaria n.º 31/2012, de 31 de janeiro, foi fixada a estrutura nuclear da Direção-Geral de Política Externa e definidas as competências das respetivas unidades orgânicas. Importa agora, na sequência do estabelecido no artigo 8.º da referida Portaria, criar as unidades orgânicas flexíveis da Direção-Geral de Política Externa, fixando as suas respetivas competências.\n\nAssim:\n\nAo abrigo dos n.os 5 a 7 do artigo 21.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, alterada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de agosto e pelo [Decreto-Lei n.º 105/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), de 3 de abril e de acordo com o limite fixado no artigo 8.º da Portaria n.º 31/2012, de 31 de janeiro, estabelece-se a estrutura orgânica flexível da Direção-Geral de Política Externa:"
+  },
+  "cdaa9bde9bb865a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Unidades orgânicas flexíveis da Direção-Geral de Política Externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Unidades orgânicas flexíveis da Direção-Geral de Política Externa\n\nA Direção-Geral de Política Externa, abreviadamente designada DGPE, estrutura-se nas seguintes unidades orgânicas flexíveis:\n\na) Divisão de Política Externa e de Segurança Comum, integrada na Direção de Serviços para os Assuntos Políticos Europeus;\n\nb) Divisão dos Assuntos Bilaterais, integrada na Direção de Serviços para os Assuntos Políticos Europeus;\n\nc) Divisão da Organização do Tratado do Atlântico Norte, integrada na Direção de Serviços para os Assuntos de Segurança e Defesa;\n\nd) Divisão de Política Comum de Segurança e Defesa, integrada na Direção de Serviços para os Assuntos de Segurança e Defesa;\n\ne) Divisão de Desarmamento e Não-Proliferação de Armas Ligeiras e de Destruição Maciça, integrada na Direção de Serviços para os Assuntos de Segurança e Defesa;\n\nf) Divisão dos Assuntos relativos às Nações Unidas, integrada na Direção de Serviços das Organizações Políticas Internacionais;\n\ng) Divisão dos Direitos Humanos, integrada na Direção de Serviços das Organizações Políticas Internacionais;\n\nh) Divisão das Organizações políticas regionais e das questões transnacionais, integrada na Direção de Serviços das Organizações Políticas Internacionais;\n\ni) Divisão dos Assuntos do Mar, do Ambiente, da Energia, do Desenvolvimento Sustentável e das Organizações Económicas, Técnicas e Científicas, integrada na Direção de Serviços das Organizações Económicas Internacionais;\n\nj) Divisão dos Assuntos Multilaterais Económicos e Financeiros do Desenvolvimento, da Agricultura, da Saúde e do Trabalho, integrada na Direção de Serviços das Organizações Económicas Internacionais;\n\nk) Divisão dos Países Africanos de Língua Oficial Portuguesa e da África Austral, integrada na Direção de Serviços da África Subsariana;\n\nl) Divisão das questões Pan-Africanas e da África Ocidental, Central e Oriental, integrada na Direção de Serviços da África Subsariana;\n\nm) Divisão das Relações Bilaterais com os países do Magrebe/Maxerreque e Diálogos do Mediterrâneo, integrada na Direção de Serviços do Médio Oriente e Magrebe;\n\nn) Divisão da América do Norte, integrada na Direção de Serviços das Américas;\n\no) Divisão da América Latina e Caraíbas, integrada na Direção de Serviços das Américas;\n\np) Divisão de Relações Bilaterais com os países da Ásia e das Organizações Multilaterais Asiáticas, integrada na Direção de Serviços da Ásia e da Oceânia;\n\nq) Divisão da Comunidade dos Países de Língua Portuguesa."
+  },
+  "6edfbf83593321e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º"
+  },
+  "5b77890a47ab05e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Política Externa e de Segurança Comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Política Externa e de Segurança Comum\n\nÀ divisão de Política Externa e de Segurança Comum (PESC) compete:\n\na) O acompanhamento dos grupos de trabalho RELEX e RELEX/sanções;\n\nb) A preparação das Presidências da União Europeia, coordenando com os serviços da DGPE as diversas questões relacionadas com o calendário e organização das presidências do Conselho;\n\nc) A preparação de briefings às Embaixadas da União Europeia em Lisboa sobre os temas da agenda das relações externas do Conselho e a preparação de elementos de informação a outras Embaixadas sobre as posições nacionais;\n\nd) Acompanhar a preparação dos contributos para as reuniões de Ministros dos Negócios Estrangeiros da União Europeia e Diretores Políticos, na área de competência da Direção de Serviços dos Assuntos Políticos Europeus;\n\ne) Acompanhar a coordenação de posições nacionais em matérias horizontais no domínio da PESC, em particular as que decorrem das agendas dos grupos de trabalho PESC."
+  },
+  "90ade9c8ffd8d2cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º"
+  },
+  "6fe51cf8f3a99dc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão dos Assuntos Bilaterais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão dos Assuntos Bilaterais\n\nÀ Divisão dos Assuntos Bilaterais compete:\n\na) O acompanhamento e análise da política interna, da situação económica e das relações externas da Santa Sé, Rússia e Estados do Leste da Europa (Arménia, Azerbaijão, Bielorrússia, Geórgia, Moldávia e Ucrânia), Ásia Central (Cazaquistão, Quirguistão, Tajiquistão, Turquemenistão e Uzbequistão) e Balcãs Ocidentais (Albânia, Bósnia-Herzegovina e Kosovo) não membros da União Europeia nem candidatos ao alargamento, bem como do relacionamento bilateral político e económico com esses Estados;\n\nb) O acompanhamento das organizações regionais, incluindo a Comunidade dos Estados Independentes (CEI), a Organização de Cooperação de Xangai (SCO) e a Organização de Cooperação da Segurança Coletiva (CSTO);\n\nc) O acompanhamento e análise da política desenvolvida pela União Europeia com estes países e sub-regiões;\n\nd) A preparação e o acompanhamento dos Grupos de trabalho COWEB e COEST;\n\ne) A preparação e acompanhamento de encontros e visitas bilaterais, incluindo a coordenação de pastas;\n\nf) A preparação de cimeiras bilaterais, comissões mistas e bilaterais e consultas políticas;\n\ng) A preparação e acompanhamento dos processos relacionados com a negociação, conclusão e denúncia de acordos bilaterais;\n\nh) O estudo, a elaboração de pareceres, o acompanhamento do expediente relativo aos assuntos de caráter político e económico, bem como a preparação e envio de instruções às missões diplomáticas portuguesas."
+  },
+  "b3a54d898c0601a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º"
+  },
+  "a5a4d3bc8481d16d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão da Organização do Tratado do Atlântico Norte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão da Organização do Tratado do Atlântico Norte\n\n1 - À Divisão da Organização do Tratado do Atlântico Norte (OTAN) compete o tratamento das questões relativas à participação de Portugal na Aliança Atlântica, designadamente:\n\na) A preparação da participação nacional nas reuniões intergovernamentais da OTAN ao nível de Chefes de Estado e de Governo e ao nível de Ministros dos Negócios Estrangeiros;\n\nb) O acompanhamento e contribuição para a definição das posições nacionais sobre as matérias tratadas nos diversos órgãos e comités da OTAN;\n\nc) O acompanhamento das matérias referentes às relações de parceria estabelecidas pela OTAN, nomeadamente a Parceira para a Paz, o Conselho OTAN-Rússia, a Comissão OTAN-Ucrânia, a Comissão OTAN-Geórgia, o Diálogo do Mediterrâneo e a Iniciativa de Cooperação de Istambul;\n\nd) O tratamento das questões relativas ao alargamento da OTAN;\n\ne) O tratamento das matérias respeitantes às relações da OTAN com outras organizações internacionais, nomeadamente a UE, a ONU e a Organização para a Segurança e Cooperação na Europa (OSCE);\n\nf) O acompanhamento das questões relativas às operações empreendidas pela OTAN, incluindo quanto à participação de forças nacionais;\n\ng) O tratamento das matérias relativas ao processo de transformação da Aliança Atlântica, incluindo a reforma da Estrutura de Comandos e a reforma das Agências;\n\nh) O acompanhamento das questões relativas ao processo de planeamento de defesa da OTAN e ao desenvolvimento de capacidades operacionais;\n\ni) A participação nos exercícios de gestão de crises da OTAN, incluindo nos exercícios conjuntos com a UE;\n\nj) O tratamento das matérias relativas às atividades da OTAN no domínio do planeamento civil de emergência e a ligação com as autoridades competentes a nível nacional em situações de emergência civil;\n\nk) O acompanhamento das questões referentes à coordenação de posições entre os Estados membros da OTAN em matéria de limitação de armas convencionais na Europa;\n\nl) O acompanhamento das candidaturas nacionais a cargos nas estruturas civis da OTAN;\n\nm) O tratamento das questões respeitantes ao estatuto das estruturas da OTAN localizadas em território nacional;\n\nn) O tratamento das questões respeitantes a organizações parlamentares e não-governamentais relacionadas com a OTAN;\n\n2 - Compete, também, a esta Divisão:\n\na) O tratamento das questões decorrentes da extinção da União da Europa Ocidental (UEO);\n\nb) O acompanhamento da vertente político-militar da OSCE, nomeadamente das matérias relativas à aplicação do Tratado sobre Forças Convencionais na Europa (CFE), do Tratado sobre Céus Abertos (\"Open Skies\") e do Documento de Viena sobre Medidas Geradoras de Segurança e Confiança.\n\nc) Assegurar as funções de Sub-Registo do Ministério dos Negócios Estrangeiros."
+  },
+  "b5048d03554a2596": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º"
+  },
+  "a4de7d0e50aa38b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Política Comum de Segurança e Defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Política Comum de Segurança e Defesa\n\nÀ Divisão de Política Comum de Segurança e Defesa (PCSD) compete:\n\na) O acompanhamento dos trabalhos do Comité de Política de Segurança da UE (COPS), bem como dos comités a ele subordinados, contribuindo para a definição das posições nacionais nas diferentes matérias em discussão;\n\nb) O acompanhamento das missões PCSD - civis e militares - e tratamento de questões a elas relativas, incluindo o processo de decisão sobre o lançamento das missões, respetivo planeamento e a participação de forças portuguesas;\n\nc) O acompanhamento da participação nacional nas EUROFORÇAS;\n\nd) O acompanhamento das matérias relativas ao Conselho Luso-Espanhol de Segurança e Defesa;\n\ne) O acompanhamento da participação nacional nas Cooperações Estruturadas da área da Defesa e nos Agrupamentos Táticos (\"Battlegroups\");\n\nf) O acompanhamento das questões relativas à partilha e à mutualização de capacidades na União Europeia;\n\ng) O tratamento das questões relativas ao relacionamento da UE com o continente africano, no plano da segurança e defesa;\n\nh) O tratamento das matérias relativas ao envolvimento da PCSD no reforço das capacidades africanas, em matéria de prevenção, gestão e resolução de conflitos;\n\ni) O tratamento das matérias respeitantes às relações que a UE estabelece, no domínio PCSD, com outras organizações internacionais, nomeadamente a ONU, a OTAN e a OSCE;\n\nj) O acompanhamento dos assuntos respeitantes à evolução das capacidades civis e militares da União Europeia;\n\nk) O acompanhamento da participação portuguesa na formação de peritos civis e militares, na área da gestão de crises e reforma do setor de segurança;\n\nl) A participação nos exercícios de gestão de crises da UE - CME - e exercícios conjuntos com a OTAN - CME/CMX;\n\nm) O acompanhamento das atividades de outras entidades da UE no domínio da segurança e defesa, nomeadamente a Agência Europeia de Defesa e o Centro de Satélites da UE;\n\nn) O processamento de candidaturas nacionais a cargos nas estruturas da UE na área da PCSD."
+  },
+  "5e066c32ded45559": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Divisão de Desarmamento e Não-Proliferação de Armas Ligeiras e de Destruição Maciça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Divisão de Desarmamento e Não-Proliferação de Armas Ligeiras e de Destruição Maciça\n\nÀ Divisão de Desarmamento e Não-Proliferação de Armas Ligeiras e de Destruição Maciça compete:\n\na) O acompanhamento das questões de desarmamento e não-proliferação na ONU: Conselho de Segurança, incluindo o Comité da Resolução 1540; 1.ª Comissão da Assembleia-Geral, Comissão de Desarmamento, Conferência de Desarmamento;\n\nb) O acompanhamento das questões de desarmamento, não-proliferação e controlo de exportações na UE: chefia dos Grupos de Trabalho sobre Desarmamento Mundial e Controlo de Armamento (CODUN), Não Proliferação (CONOP) e Exportação de Armamento Convencional (COARM) e seus respetivos subgrupos;\n\nc) O acompanhamento das questões regionais de proliferação de armamentos e bens de uso duplo;\n\nd) O acompanhamento das questões relacionadas com a aplicação dos Acordos de Salvaguardas e Protocolo Adicional da Agência Internacional de Energia Atómica;\n\ne) O acompanhamento e desenvolvimento de atividades no domínio do controlo e eliminação de armas de destruição maciça, designadamente, o Tratado de Proibição Parcial de Ensaios Nucleares, o Tratado de Não Proliferação Nuclear, o Tratado de Proibição Total de Ensaios Nucleares, o Protocolo de Genebra de 1925, a Convenção sobre Armas Biológicas e de Toxinas, e a Convenção sobre Armas Químicas;\n\nf) O acompanhamento e desenvolvimento de atividades no domínio do controlo e eliminação de armas convencionais, designadamente, a Convenção sobre Certas Armas Convencionais, a Convenção sobre Minas Antipessoais, a Convenção sobre Munições de Dispersão, o Programa de Ação da ONU sobre Armas Ligeiras e de Pequeno Calibre; e a participação nas Negociações do Tratado sobre o Comércio de Armas das Nações Unidas;\n\ng) A participação nas negociações do Código de Conduta sobre Atividades no Espaço Exterior, de iniciativa da União Europeia;\n\nh) O acompanhamento das questões decorrentes da participação de Portugal nos regimes de controlo de exportações: Grupo Austrália; Grupo de Fornecedores Nucleares; Arranjo de Wassenaar; Comité Zangger; Código de Conduta da Haia sobre Mísseis Balísticos; e Regime de Controlo de Tecnologia de Mísseis;\n\ni) O acompanhamento das matérias relativas ao estabelecimento e desenvolvimento de Zonas Livres de Armas de Destruição Maciça, incluindo armas nucleares, e seus Vetores de Lançamento;\n\nj) O acompanhamento e participação em atividades no quadro da Iniciativa Contra a Proliferação (PSI), da Iniciativa Global para o Combate ao Terrorismo Nuclear e da Iniciativa MEGAPORTS;\n\nk) Apoiar o funcionamento da Autoridade Nacional para a Convenção sobre a Proibição do Desenvolvimento, Produção, Armazenamento e Utilização das Armas Químicas (ANPAQ) e da Autoridade Nacional para Efeitos do Tratado de Proibição Total de Ensaios Nucleares (ANTPEN);\n\nl) O acompanhamento das matérias relativas à não-proliferação de armas de destruição maciça e seus vetores de lançamento, no âmbito da OTAN, em coordenação com a Divisão da Organização do Tratado do Atlântico Norte;\n\nm) A emissão de pareceres no âmbito de processos de decisão do licenciamento nacional de exportação de armamento civil e militar."
+  },
+  "f4fae754ded0b614": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º"
+  },
+  "81485abd0d6dedc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão dos Assuntos Relativos às Nações Unidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão dos Assuntos Relativos às Nações Unidas\n\nÀ Divisão dos Assuntos Relativos às Nações Unidas compete o acompanhamento de questões no âmbito de:\n\na) Preparação e participação portuguesa no Grupo de trabalho CONUN;\n\nb) Questões Horizontais relativas à ONU, designadamente, ao acompanhamento da ação do Conselho de Segurança, da Assembleia-Geral, da Comissão de Consolidação da Paz, da Prevenção e Gestão de Conflitos, das Operações de Manutenção da Paz e dos Regimes de Sanções das Nações Unidas.\n\nc) 4.ª Comissão da Assembleia-Geral;\n\nd) 5.ª Comissão da Assembleia-Geral;\n\ne) Aliança das Civilizações;\n\nf) Ratificação das Convenções das Nações Unidas;\n\nl) Tribunais internacionais;\n\nm) Contribuições e quotizações para organizações internacionais;\n\nn) Candidaturas portuguesas a organizações internacionais;\n\no) Funcionários portugueses em organizações internacionais;"
+  },
+  "524ee28983bd9f65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º"
+  },
+  "eb04655396323f28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão dos Direitos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão dos Direitos Humanos\n\nÀ Divisão dos Direitos Humanos compete o acompanhamento das questões relativas à situação dos direitos humanos em geral, bem assim de cada país em particular, e ainda o acompanhamento dos assuntos humanitários e agências humanitárias. Compete, em especial:\n\na) A preparação e participação portuguesa no Grupo de trabalho COHOM;\n\nb) A coordenação geral do Conselho de Direitos Humanos, da 3.ª Comissão da AGNU, da Comissão do Estatuto da Mulher e da Comissão de Desenvolvimento Social;\n\nc) Assegurar o Secretariado da Comissão Nacional de Direitos Humanos (CNDH);\n\nd) A coordenação dos relatórios nacionais devidos no quadro das convenções internacionais de direitos humanos;\n\ne) O acompanhamento das linhas diretrizes da União Europeia sobre direitos humanos;\n\nf) As questões temáticas de Direitos humanos tratadas no âmbito das Nações Unidas;\n\ng) As questões relativas aos refugiados e deslocados internos;\n\nh) As questões relativas ao Conselho da Europa;\n\ni) As questões relativas à Comunidade das Democracias;\n\nj) As questões relativas à participação na Task Force Internacional para a Memória e Estudo do Holocausto."
+  },
+  "d420ac96e3060eef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º"
+  },
+  "114eac353d1f042a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão das Organizações políticas regionais e das questões transnacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão das Organizações políticas regionais e das questões transnacionais\n\nÀ Divisão das Organizações políticas regionais e das questões transnacionais compete:\n\na) A preparação e participação portuguesa no Grupo de trabalho COSCE;\n\nb) O acompanhamento das questões relativas à OSCE;\n\nc) O acompanhamento das questões relativas à UNESCO;\n\nd) A preparação e participação portuguesa no Grupo de trabalho COTER;\n\ne) O acompanhamento das questões ligadas ao terrorismo, na sua vertente externa, incluindo os regimes de sanções da UE e das Nações Unidas;\n\nf) A preparação e participação portuguesa no Grupo Horizontal de Drogas;\n\ng) O acompanhamento em geral das questões ligadas à cooperação internacional nas áreas do combate às drogas e da luta contra o branqueamento de capitais, o crime financeiro (GAFI), o tráfico de diamantes (Processo de Kimberley), a pirataria marítima, o cibercrime e outras formas de crime organizado transnacional;\n\nh) O acompanhamento das questões de corrupção, no âmbito das Nações Unidas;\n\ni) O acompanhamento das questões ligadas ao tráfico internacional de seres humanos, quer no âmbito das organizações internacionais, quer no âmbito do Plano Nacional."
+  },
+  "393a06a343d64a7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Divisão dos Assuntos do Mar, do Ambiente, da Energia, do Desenvolvimento Sustentável e das Organizações Económicas, Técnicas e Científicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Divisão dos Assuntos do Mar, do Ambiente, da Energia, do Desenvolvimento Sustentável e das Organizações Económicas, Técnicas e Científicas\n\nÀ Divisão dos Assuntos do Mar, do Ambiente, da Energia e do Desenvolvimento Sustentável e das Organizações Económicas, Técnicas e Científicas compete:\n\na) Analisar e acompanhar os assuntos do mar e oceanos, em particular no âmbito da Convenção das Nações Unidas sobre o Direito do Mar;\n\nb) Analisar e acompanhar, no plano multilateral, os temas da área do desenvolvimento sustentável, do ambiente, das alterações climáticas, da desertificação e da biodiversidade, em particular no âmbito das Nações Unidas, das suas agências especializadas e programas;\n\nc) Analisar e acompanhar, as questões relativas à Energia no âmbito das atividades da Agência Internacional de Energia Atómica, na sua vertente civil, e da Agência Internacional para as Energias Renováveis;\n\nd) Analisar e acompanhar as questões no âmbito das organizações económicas internacionais, em particular da OCDE;\n\ne) Analisar e acompanhar as questões científicas e tecnológicas no plano multilateral, incluindo as agências especializadas das Nações Unidas e outras organizações de âmbito universal ou regional;\n\ng) Proceder à negociação e participar no processo de conclusão ou denúncia de tratados e convenções que respeitem à sua área de competência, sem prejuízo das competências que caibam a outros serviços; e\n\nh) Apoiar as candidaturas e a participação de nacionais portugueses nos organismos internacionais na sua área de competência."
+  },
+  "bcf4968a9e08ed65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Divisão dos Assuntos Multilaterais Económicos e Financeiros do Desenvolvimento, da Agricultura, da Saúde e do Trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Divisão dos Assuntos Multilaterais Económicos e Financeiros do Desenvolvimento, da Agricultura, da Saúde e do Trabalho\n\nÀ Divisão dos Assuntos Multilaterais Económicos, Financeiros, do Desenvolvimento e da Agricultura compete:\n\na) A coordenação geral do Conselho Económico e Social das Nações Unidas (ECOSOC), da 2.ª Comissão da AGNU, da UNCTAD, das Comissões Económicas Regionais, e da Comissão de População e Desenvolvimento;\n\nb) Analisar e acompanhar, no plano multilateral, as questões económicas e financeiras do âmbito das organizações e dos fóruns financeiros internacionais, incluindo o Banco Mundial, o Fundo Monetário Internacional, o G-8, o G-20 e os Bancos multilaterais de desenvolvimento;\n\nc) Acompanhar as organizações internacionais que operam no âmbito da agricultura, da segurança alimentar, do desenvolvimento rural, das florestas, principalmente a Organização das Nações Unidas para a Agricultura e Alimentação (FAO) e Fundo das Nações Unidas paras as Florestas (FNUF);\n\nd) Analisar e acompanhar as questões da Organização Internacional do Trabalho;\n\ne) Analisar e acompanhar as questões da Organização Mundial de Saúde e do Programa ONU/SIDA;\n\nf) Proceder à negociação e participar no processo de conclusão ou denúncia de tratados e convenções que respeitem à sua área de competência, sem prejuízo das competências que caibam a outros serviços;\n\ng) Apoiar as candidaturas e a participação de nacionais portugueses nos organismos internacionais na sua área de competência."
+  },
+  "3f63b74c9f1441de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º"
+  },
+  "7496da1876d89411": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão dos Países Africanos de Língua Oficial Portuguesa e da África Austral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão dos Países Africanos de Língua Oficial Portuguesa e da África Austral\n\nÀ Divisão dos Países Africanos de Língua Oficial Portuguesa (PALOP) e da África Austral compete:\n\na) O acompanhamento e análise da política interna, da situação económica e das relações externas de Angola, Cabo Verde, Guiné-Bissau, Moçambique, São Tomé e Príncipe (PALOP) e África do Sul, Botsuana, Comores, Lesoto, Madagáscar, Malaui, Maurícias, Namíbia, Quénia, Seicheles, Suazilândia, Tanzânia, Zâmbia e Zimbabué, bem como do relacionamento bilateral político e económico com esses Estados;\n\nb) O acompanhamento e análise da política desenvolvida pela União Europeia com estes países e com a sub-região da África Austral;\n\nc) O acompanhamento das relações com a Comunidade de Desenvolvimento da África Austral (SADC), o Mercado Comum da África Oriental e Austral (COMESA) e todas as demais Organizações Africanas sedeadas nesta sub-região;\n\nd) A preparação e acompanhamento do Grupo de trabalho COAFR;\n\ne) A preparação e acompanhamento de encontros e visitas bilaterais, incluindo a coordenação de pastas;\n\nf) A preparação de cimeiras bilaterais, comissões mistas e bilaterais e consultas políticas;\n\ng) A preparação e acompanhamento dos processos relacionados com a negociação, conclusão e denúncia de acordos bilaterais;\n\nh) O estudo, a elaboração de pareceres, o acompanhamento do expediente relativo aos assuntos de caráter político e económico, bem como a preparação e envio de instruções às missões diplomáticas portuguesas."
+  },
+  "b1d48bcfafefd2d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º"
+  },
+  "f3abbba7071e66fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão das questões Pan-Africanas e da África Ocidental, Central e Oriental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão das questões Pan-Africanas e da África Ocidental, Central e Oriental\n\nÀ Divisão das questões Pan-Africanas e da África Ocidental, Central e Oriental compete:\n\na) O acompanhamento e a coordenação interministerial da implementação do Plano de Ação da Estratégia Conjunta UE-África;\n\nb) A preparação e acompanhamento das Cimeiras UE-África;\n\nc) O acompanhamento das Estratégias da UE e de outras Organizações Internacionais no continente africano ou nestas sub-regiões;\n\nd) O acompanhamento e análise da política desenvolvida pela União Europeia com estes países e com estas sub-regiões;\n\ne) O acompanhamento das relações com a União Africana (UA), com a Autoridade Intergovernamental para o Desenvolvimento (IGAD), com a Comunidade dos Estados Sahelo-Saharianos (CEN-SAD), com a Comunidade Económica dos Estados da África Ocidental (CEDEAO), com a União Económica e Monetária do Oeste Africano (UEMOA), com a Comunidade Económica dos Estados da África Central (ECCAS), com a Conferência Internacional da Região dos Grandes Lagos (CIRGL), com a Comunidade da África Oriental (EAC) e com todas as Organizações Africanas sedeadas nestas sub-regiões;\n\nf) O acompanhamento e análise da situação política interna, situação económica e das relações externas do Benim, Burquina Faso, Camarões, Costa do Marfim, Gabão, Gana, Gâmbia, Guiné Conacri, Guiné Equatorial, Libéria, Mali, Níger, Nigéria, Senegal, Serra Leoa e Togo (África Ocidental), Burundi, República Democrática do Congo, República do Congo, Ruanda e Uganda (África Central), Chade, Djibuti, Eritreia, Etiópia, República Centro Africana, Somália, Sudão e Sudão do Sul (África Oriental), bem como do relacionamento bilateral político e económico com esses Estados;\n\ng) A preparação e acompanhamento do Grupo de trabalho COAFR;\n\nh) A preparação e acompanhamento de encontros e visitas bilaterais, incluindo a coordenação de pastas;\n\ni) A preparação de cimeiras bilaterais, comissões mistas e bilaterais e consultas políticas;\n\nj) A preparação e acompanhamento dos processos relacionados com a negociação, conclusão e denúncia de acordos bilaterais;\n\nk) O estudo, a elaboração de pareceres, o acompanhamento do expediente relativo aos assuntos de caráter político e económico, bem como a preparação e envio de instruções às missões diplomáticas portuguesas."
+  },
+  "a1246acea08baaeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Divisão das Relações Bilaterais com os países do Magrebe/Maxerreque e Diálogos do Mediterrâneo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Divisão das Relações Bilaterais com os países do Magrebe/Maxerreque e Diálogos do Mediterrâneo\n\nÀ Divisão das Relações Bilaterais com os países do Magrebe/Maxerreque e Diálogos do Mediterrâneo compete:\n\na) O acompanhamento e análise da política interna, da situação económica e das relações externas da Autoridade Palestiniana, Arábia Saudita, Argélia, Bahrain, Egito Emirados Árabes Unidos, Irão, Iémen, Iraque, Israel, Jordânia, Kuwait, Líbano, Líbia, Marrocos, Mauritânia, Omã, Qatar, Sahara Ocidental, Síria, Tunísia, bem como o relacionamento bilateral político e económico com esses Estados e territórios;\n\nb) A coordenação e acompanhamento dos trabalhos e participação de Portugal no Diálogo 5+5, Fórum do Mediterrâneo e União para o Mediterrâneo (vertente política), bem como o acompanhamento do Processo de Paz no Médio Oriente, da União para o Magrebe Árabe, Liga dos Estados Árabes, Organização da Cooperação Islâmica e Conselho de Cooperação do Golfo;\n\nc) O acompanhamento e análise da política desenvolvida pela União Europeia com estes países, territórios e sub-regiões;\n\nd) A preparação e acompanhamento dos Grupos de trabalho COMAG, COMEP e COMEM;\n\ne) A preparação e acompanhamento de encontros e visitas bilaterais, incluindo a coordenação de pastas;\n\nf) A preparação de cimeiras bilaterais, comissões mistas e bilaterais e consultas políticas;\n\ng) A preparação e acompanhamento dos processos relacionados com a negociação, conclusão e denúncia de acordos bilaterais;\n\nh) O estudo, a elaboração de pareceres, o acompanhamento do expediente relativo aos assuntos de caráter político e económico, bem como a preparação e envio de instruções às missões diplomáticas portuguesas."
+  },
+  "5e6b1ab89a44ae0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º"
+  },
+  "d78c0fd5f1b82a59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão da América do Norte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão da América do Norte\n\nÀ Divisão da América do Norte compete:\n\na) O acompanhamento e análise da política interna, da situação económica e das relações externas dos EUA, o Canadá e o México, bem como do relacionamento bilateral político e económico com esses Estados;\n\nb) O acompanhamento e preparação das Cimeiras da U.E. com os EUA, o México e o Canadá;\n\nc) O acompanhamento dos desenvolvimentos das organizações e instrumentos regionais: Tratado Norte-americano de Livre Comércio (NAFTA); Área de Livre Comércio das Américas (ALCA);\n\nd) O acompanhamento e análise da política desenvolvida pela União Europeia com estes países e sub-regiões;\n\ne) A preparação e o acompanhamento do Grupo de trabalho COTRA;\n\nf) A preparação e acompanhamento de encontros e visitas bilaterais, incluindo a coordenação de pastas;\n\ng) A preparação de cimeiras bilaterais, comissões mistas e bilaterais e consultas políticas;\n\nh) A preparação e acompanhamento dos processos relacionados com a negociação, conclusão e denúncia de acordos bilaterais;\n\ni) O estudo, a elaboração de pareceres, o acompanhamento do expediente relativo aos assuntos de caráter político e económico, bem como a preparação e envio de instruções às missões diplomáticas portuguesas."
+  },
+  "eacbd11153af0af8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º"
+  },
+  "52d20aed03f5dc46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão da América Latina e Caraíbas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão da América Latina e Caraíbas\n\nÀ Divisão da América Latina e Caraíbas compete:\n\na) O acompanhamento e análise da política interna, da situação económica e das relações externas da Antígua e Barbuda, Argentina, Bahamas, Barbados, Belize, Bolívia, Brasil, Chile, Colômbia, Costa Rica, Cuba, Dominica, Equador, El Salvador, Granada, Guatemala, Guiana, Haiti, Honduras, Jamaica, Nicarágua, Panamá, Paraguai, Peru, República Dominicana, Santa Lúcia, S. Cristóvão e Nevis, S. Vicente e Granadinas, Suriname, Trinidade e Tobago, Uruguai e Venezuela, bem como do relacionamento bilateral político e económico com esses Estados;\n\nb) O acompanhamento e preparação das Cimeiras UE-América Latina e Caraíbas (ALC), UE-Brasil, UE-Chile, UE-MERCOSUL, UE-CAN, UE-América Central, UE-CARIFORUM, bem como a participação e acompanhamento das reuniões de altos funcionários UE-ALC;\n\nc) O acompanhamento dos desenvolvimentos das organizações e instrumentos regionais: Conferência Ibero-Americana (CIB); Mercado Comum da América do Sul (MERCOSUL); Comunidade Andina de Nações (CAN); União de Nações Sul-Americanas (UNASUL); Aliança Bolivariana para os Povos de Nossa América (ALBA); Sistema para Integração Centro-Americana (SICA); Acordo de Comércio Livre da América Central e República Dominicana (CAFTA-DR); Comunidade das Caraíbas (CARICOM); Fórum das Caraíbas (CARIFORUM); Grupo do Rio; Comunidade dos Estados Latino-Americanos e das Caraíbas (CELAC); Organização dos Estados Americanos (OEA);\n\nd) O acompanhamento e análise da política desenvolvida pela União Europeia com estes países e sub-regiões;\n\ne) A preparação e o acompanhamento do Grupo de trabalho COLAT;\n\nf) A preparação e acompanhamento de encontros e visitas bilaterais, incluindo a coordenação de pastas;\n\ng) A preparação de cimeiras bilaterais, comissões mistas e bilaterais e consultas políticas;\n\nh) A preparação e acompanhamento dos processos relacionados com a negociação, conclusão e denúncia de acordos bilaterais;\n\ni) O estudo, a elaboração de pareceres, o acompanhamento do expediente relativo aos assuntos de caráter político e económico, bem como a preparação e envio de instruções às missões diplomáticas portuguesas."
+  },
+  "7576d56173651b1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Divisão de Relações Bilaterais com os países da Ásia e da Oceânia e das Organizações Multilaterais Asiáticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Divisão de Relações Bilaterais com os países da Ásia e da Oceânia e das Organizações Multilaterais Asiáticas\n\nÀ Divisão de Relações Bilaterais com os países da Ásia e das Organizações Multilaterais Asiáticas compete:\n\na) O acompanhamento e análise da política interna, da situação económica e das relações externas do Afeganistão, Austrália, Bangladesh, Brunei, Butão, Camboja, China - incluindo Taiwan, Macau e Hong Kong, Coreia do Norte, Coreia do Sul, Filipinas, Índia, Indonésia, Japão, Laos, Malásia, Maldivas, Mongólia, Myanmar, Nepal, Nova Zelândia e Ilhas do Pacífico, Paquistão, Singapura, Sri Lanka, Tailândia, Timor-Leste e Vietname, bem como o relacionamento bilateral político e económico com esses Estados e territórios;\n\nb) O acompanhamento do processo ASEAN, do processo de diálogo Ásia-Europa (ASEM), da Fundação Ásia-Europa (ASEF) e da adesão da UE ao TAC ASEAN e à EAS;\n\nc) O acompanhamento do processo de criação de uma organização regional de segurança para a Ásia (ARF), bem como o acompanhamento da evolução dos processos de integração no subcontinente indiano (SAARC).\n\nd) O acompanhamento e análise da política desenvolvida pela União Europeia com estes países e com estas sub-regiões;\n\ne) A preparação e acompanhamento do Grupo de trabalho COASI;\n\nf) A preparação e acompanhamento de encontros e visitas bilaterais, incluindo a coordenação de pastas;\n\ng) A preparação de cimeiras bilaterais, comissões mistas e bilaterais e consultas políticas;\n\nh) A preparação e acompanhamento dos processos relacionados com a negociação, conclusão e denúncia de acordos bilaterais;\n\ni) O estudo, a elaboração de pareceres, o acompanhamento do expediente relativo aos assuntos de caráter político e económico, bem como a preparação e envio de instruções às missões diplomáticas portuguesas."
+  },
+  "bac699744595b0f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º"
+  },
+  "878fc45cb2035a45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão da Comunidade dos Países de Língua Portuguesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão da Comunidade dos Países de Língua Portuguesa\n\nÀ Divisão da Comunidade dos Países de Língua Portuguesa (CPLP) compete:\n\na) Acompanhar as questões horizontais e temáticas da CPLP;\n\nb) Acompanhar e preparar a participação portuguesa na CPLP a diversos níveis e em várias instâncias, incluindo no Comité de Concertação Permanente, no Conselho de Ministros e na Cimeira de Chefes de Estado e de Governo, em articulação com os departamentos e serviços competentes sempre que apropriado;\n\nc) Acompanhar e participar nos grupos de trabalho e nos grupos técnicos no âmbito da CPLP, em coordenação com os ministérios e serviços competentes sempre que apropriado;\n\nd) Acompanhar a preparação das Missões de Observação Eleitoral CPLP, em articulação com o Camões - Instituto da Cooperação e da Língua, I. P.;\n\ne) Acompanhar as matérias relacionadas com a Língua Portuguesa, em articulação com o Camões - Instituto da Cooperação e da Língua, I. P.;\n\nf) Preparar e acompanhar os processos relacionados com os acordos celebrados no quadro da CPLP, em colaboração e sem prejuízo das competências que caibam a outros ministérios e serviços;\n\ng) Avaliar a definição da contribuição nacional para os orçamentos de funcionamento do Secretariado Executivo da CPLP e do Instituto Internacional da Língua Portuguesa, assim como de outras contribuições adicionais, em articulação com os ministérios e serviços competentes;\n\nh) O estudo, a elaboração de pareceres, bem como a preparação e envio de instruções às missões diplomáticas portuguesas.\n\nO presente despacho produz efeitos a 1 de março de 2012.\n\n28 de fevereiro de 2012. - O Diretor-Geral de Política Externa, Rui Filipe Monteiro Belo Macieira.\n\n205812709"
+  },
+  "b2c43609e9b3f18f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Unidades orgânicas flexíveis da Direção-Geral de Política Externa",
+   "in_force_from": "2018-11-26",
+   "changed_by": [
+    "Alterado pelo/a [Despacho n.º 10964/2018](https://diariodarepublica.pt/dr/detalhe/despacho/10964-2018-117105898), publicado em 2018-11-26.",
+    "Alterado pelo/a [Despacho n.º 10964/2018](https://diariodarepublica.pt/dr/detalhe/despacho/10964-2018-117105898), publicado em 2018-11-26."
+   ],
+   "markdown": "###### Artigo 1.º — Unidades orgânicas flexíveis da Direção-Geral de Política Externa\n\nA Direção-Geral de Política Externa, abreviadamente designada DGPE, estrutura-se nas seguintes unidades orgânicas flexíveis:\n\na) Divisão de Política Externa e de Segurança Comum, integrada na Direção de Serviços para os Assuntos Políticos Europeus;\n\nb) Divisão dos Assuntos Bilaterais, integrada na Direção de Serviços para os Assuntos Políticos Europeus;\n\nc) Divisão da Organização do Tratado do Atlântico Norte, integrada na Direção de Serviços para os Assuntos de Segurança e Defesa;\n\nd) Divisão de Política Comum de Segurança e Defesa, integrada na Direção de Serviços para os Assuntos de Segurança e Defesa;\n\ne) Divisão de Desarmamento e Não-Proliferação de Armas Ligeiras e de Destruição Maciça, integrada na Direção de Serviços para os Assuntos de Segurança e Defesa;\n\nf) Divisão dos Assuntos relativos às Nações Unidas, integrada na Direção de Serviços das Organizações Políticas Internacionais;\n\ng) Divisão dos Direitos Humanos, integrada na Direção de Serviços das Organizações Políticas Internacionais;\n\nh) Divisão das Organizações políticas regionais e das questões transnacionais, integrada na Direção de Serviços das Organizações Políticas Internacionais;\n\ni) Divisão dos Assuntos do Mar, do Ambiente, da Energia, e das Organizações Económicas, Técnicas e Científicas;\n\nj) Divisão dos Assuntos Multilaterais Económicos e Financeiros do Desenvolvimento, do Desenvolvimento Sustentável, das Migrações, da Agricultura, da Saúde e do Trabalho;\n\nk) Divisão dos Países Africanos de Língua Oficial Portuguesa e da África Austral, integrada na Direção de Serviços da África Subsariana;\n\nl) Divisão das questões Pan-Africanas e da África Ocidental, Central e Oriental, integrada na Direção de Serviços da África Subsariana;\n\nm) Divisão das Relações Bilaterais com os países do Magrebe/Maxerreque e Diálogos do Mediterrâneo, integrada na Direção de Serviços do Médio Oriente e Magrebe;\n\nn) Divisão da América do Norte, integrada na Direção de Serviços das Américas;\n\no) Divisão da América Latina e Caraíbas, integrada na Direção de Serviços das Américas;\n\np) Divisão de Relações Bilaterais com os países da Ásia e das Organizações Multilaterais Asiáticas, integrada na Direção de Serviços da Ásia e da Oceânia;\n\nq) Divisão da Comunidade dos Países de Língua Portuguesa.\n\n> Alterado pelo/a [Despacho n.º 10964/2018](https://diariodarepublica.pt/dr/detalhe/despacho/10964-2018-117105898), publicado em 2018-11-26.\n\n> Alterado pelo/a [Despacho n.º 10964/2018](https://diariodarepublica.pt/dr/detalhe/despacho/10964-2018-117105898), publicado em 2018-11-26."
+  },
+  "d35da18e7f1d7b54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Divisão dos Assuntos do Mar, do Ambiente, da Energia, e das Organizações Económicas, Técnicas e Científicas",
+   "in_force_from": "2018-11-26",
+   "changed_by": [
+    "Alterado pelo/a [Despacho n.º 3019/2015](https://diariodarepublica.pt/dr/detalhe/despacho/3019-2015-66837133), publicado em 2015-03-25.",
+    "Alterado pelo/a [Despacho n.º 10964/2018](https://diariodarepublica.pt/dr/detalhe/despacho/10964-2018-117105898), publicado em 2018-11-26."
+   ],
+   "markdown": "###### Artigo 10.º — Divisão dos Assuntos do Mar, do Ambiente, da Energia, e das Organizações Económicas, Técnicas e Científicas\n\nÀ Divisão dos Assuntos do Mar, do Ambiente, da Energia, e das Organizações Económicas, Técnicas e Científicas compete:\n\na) Analisar e acompanhar os assuntos do mar e oceanos, em particular no âmbito da Convenção das Nações Unidas sobre o Direito do Mar;\n\nb) Analisar e acompanhar, as questões relativas à Energia no âmbito das atividades da Agência Internacional de Energia Atómica, na sua vertente civil, e da Agência Internacional para as Energias Renováveis;\n\nc) Analisar e acompanhar as questões no âmbito das organizações económicas internacionais, em particular da OCDE;\n\nd) Analisar e acompanhar as questões científicas e tecnológicas no plano multilateral, incluindo as agências especializadas das Nações Unidas e outras organizações de âmbito universal ou regional;\n\ne) Proceder à negociação e participar no processo de conclusão ou denúncia de tratados e convenções que respeitem à sua área de competência, sem prejuízo das competências que caibam a outros serviços;\n\nf) Apoiar as candidaturas e a participação de nacionais portugueses nos organismos internacionais na sua área de competência.\n\n> Alterado pelo/a [Despacho n.º 3019/2015](https://diariodarepublica.pt/dr/detalhe/despacho/3019-2015-66837133), publicado em 2015-03-25.\n\n> Alterado pelo/a [Despacho n.º 10964/2018](https://diariodarepublica.pt/dr/detalhe/despacho/10964-2018-117105898), publicado em 2018-11-26."
+  },
+  "73cddb6d16a9186c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Divisão dos Assuntos Multilaterais Económicos e Financeiros do Desenvolvimento, do Desenvolvimento Sustentável, das Migrações, da Agricultura, da Saúde e do Trabalho.",
+   "in_force_from": "2018-11-26",
+   "changed_by": [
+    "Alterado pelo/a [Despacho n.º 3019/2015](https://diariodarepublica.pt/dr/detalhe/despacho/3019-2015-66837133), publicado em 2015-03-25.",
+    "Alterado pelo/a [Despacho n.º 10964/2018](https://diariodarepublica.pt/dr/detalhe/despacho/10964-2018-117105898), publicado em 2018-11-26."
+   ],
+   "markdown": "###### Artigo 11.º — Divisão dos Assuntos Multilaterais Económicos e Financeiros do Desenvolvimento, do Desenvolvimento Sustentável, das Migrações, da Agricultura, da Saúde e do Trabalho.\n\nÀ Divisão dos Assuntos Multilaterais Económicos e Financeiros do Desenvolvimento, do Desenvolvimento Sustentável, da Agricultura, da Saúde e do Trabalho compete:\n\na) A coordenação geral do Conselho Económico e Social das Nações Unidas (ECOSOC), da 2.ª Comissão da AGNU, da UNCTAD, das Comissões Económicas Regionais, e da Comissão de População e Desenvolvimento;\n\nb) Analisar e acompanhar, no plano multilateral, as questões económicas e financeiras do âmbito das organizações e dos fóruns financeiros internacionais, incluindo o Banco Mundial, o Fundo Monetário Internacional, o G-7, o G-20 e os bancos multilaterais de desenvolvimento;\n\nc) Analisar e acompanhar, no plano multilateral, os temas da área do desenvolvimento sustentável, do ambiente, das alterações climáticas, da desertificação e da biodiversidade, em particular no âmbito das Nações Unidas, das migrações, das suas agências especializadas e programas;\n\nd) Analisar e acompanhar as questões da Organização Internacional para as Migrações e do Compacto Global das Migrações;\n\ne) Acompanhar as organizações internacionais que operam no âmbito da agricultura, da segurança alimentar, do desenvolvimento rural, das florestas, principalmente a Organização das Nações Unidas para a Agricultura e Alimentação (FAO) e o Fórum das Nações Unidas paras as Florestas (FNUF);\n\nf) Analisar e acompanhar as questões da Organização Internacional do Trabalho;\n\ng) Analisar e acompanhar as questões da Organização Mundial de Saúde e do Programa ONU/SIDA;\n\nh) Proceder à negociação e participar no processo de conclusão ou denúncia de tratados e convenções que respeitem à sua área de competência, sem prejuízo das competências que caibam a outros serviços;\n\ni) Apoiar as candidaturas e a participação de nacionais portugueses nos organismos internacionais na sua área de competência.\n\n> Alterado pelo/a [Despacho n.º 3019/2015](https://diariodarepublica.pt/dr/detalhe/despacho/3019-2015-66837133), publicado em 2015-03-25.\n\n> Alterado pelo/a [Despacho n.º 10964/2018](https://diariodarepublica.pt/dr/detalhe/despacho/10964-2018-117105898), publicado em 2018-11-26."
+  }
+ }
+}

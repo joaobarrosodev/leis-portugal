@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:551995:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "As seis deliberações do Conselho Diretivo (2064/2014, 79/2015, 797/2016, 148/2019, 946/2022, 1128/2023) criam, reestruturam, integram ou extinguem unidades orgânicas flexíveis ao abrigo do n.º 2 do artigo 1.º dos Estatutos e reafetam competências (por exemplo, alíneas do artigo 4.º e do artigo 6.º) à direção dos departamentos, sem alterar o texto da Portaria nem dos Estatutos.",
+  "instrucoes": [
+    "Alterador 1 (Deliberação 2064/2014): cria a URJ e extingue a UMP, competências das alíneas c), d), f) a j) e l) do art. 4.º passam à direção do departamento; não textual.",
+    "Alterador 2 (Deliberação 79/2015): cria a UGI e extingue a UAC; não textual.",
+    "Alterador 3 (Deliberação 797/2016): extingue a UGI e cria a Unidade de Gestão da Conta do Medicamento; não textual.",
+    "Alterador 4 (Deliberação 148/2019): integra a URJ e a UPM no DRH; não textual.",
+    "Alterador 5 (Deliberação 946/2022): reestrutura competências da URJ e da UPGRM; não textual.",
+    "Alterador 6 (Deliberação 1128/2023): reestrutura a URJ (URJCQP), cria a UFDRH e extingue a Unidade de Orçamento e Controlo; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

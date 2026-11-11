@@ -30,10 +30,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-06-11'
+version_history:
+  file: portaria-661-2013.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-10-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-06-11'
+    amending: pt:dre:67458304:por
+    amending_title: Portaria n.º 436/2015
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:41:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 436/2015. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2013/portaria-661-2013.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,21 +135,21 @@ Ao abrigo do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariod
 
 ###### Artigo 1.º — Autorização de abertura de procedimento
 
-Fica o Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), autorizado a proceder à abertura de procedimento para a aquisição de serviços de recolha de dados biométricos no terreno em parcelas de inventário para caraterização dos espaços florestais no âmbito do sexto Inventário Florestal Nacional (IFN6), bem como a assumir os compromissos plurianuais decorrentes, até ao montante de 860 000,00 EUR, a que acresce o imposto sobre o valor acrescentado (IVA), à taxa legal em vigor.
+Fica o Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.) autorizado a proceder à abertura de procedimento para a aquisição de serviços de recolha de dados biométricos no terreno em parcelas de inventário para caraterização dos espaços florestais no âmbito do sexto Inventário Florestal Nacional (IFN6), bem como a assumir os compromissos plurianuais decorrentes, até ao montante de 470 868,00 EUR, a que acresce o imposto sobre o valor acrescentado (IVA), à taxa legal em vigor.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 436/2015](https://diariodarepublica.pt/dr/detalhe/portaria/436-2015-67458304), publicado em 2015-06-11.
 
 ###### Artigo 2.º — Encargos anuais
 
-1 - Os encargos orçamentados decorrentes da aquisição de serviços não podem exceder, em cada ano económico, os seguintes montantes, a que acresce IVA à taxa legal em vigor:
+Os encargos orçamentados decorrentes da aquisição de serviços não podem exceder, no ano económico de 2015, o montante de 470 868,00 EUR, a que acresce IVA à taxa legal em vigor.
 
-a) 2013: 215 000,00 EUR;
-
-b) 2014: 645.000,00 EUR.
-
-2 - O montante fixado para o ano económico de 2014 pode ser acrescido do saldo apurado no ano anterior.
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 436/2015](https://diariodarepublica.pt/dr/detalhe/portaria/436-2015-67458304), publicado em 2015-06-11.
 
 ###### Artigo 3.º — Enquadramento orçamental
 
-Os encargos emergentes da presente portaria são satisfeitos, em 2013, pela verba inscrita no orçamento do ICNF, I. P., na classificação económica D.02.02.20.C0.00, e no ano seguinte, por verbas adequadas a inscrever no respetivo orçamento, tendo a informação prévia do cabimento.
+Os encargos emergentes da presente portaria são satisfeitos, em 2015, pela verba inscrita no orçamento do ICNF, I. P., na classificação económica D.02.02.20.C0.00, tendo a informação prévia do cabimento.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 436/2015](https://diariodarepublica.pt/dr/detalhe/portaria/436-2015-67458304), publicado em 2015-06-11.
 
 ###### Artigo 4.º — Produção de efeitos
 

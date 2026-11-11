@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Autorizar o Chefe do Estado-Maior-General das Forças Armadas, com vista à participação portuguesa na UNAMA, no Afeganistão, a aprontar e empregar uma missão militar, constituída por um oficial superior, a qual ficará colocada na sua dependência directa.",
+    "depois": "1.º Autorizar o Chefe do Estado-Maior-General das Forças Armadas a empregar e a sustentar, como contributo de Portugal para a United Nations Assistance Mission in Afghanistan (UNAMA), um efetivo de dois oficiais superiores para exercer funções no quartel-general da missão, no Afeganistão.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2478723:por",
+    "alterador": "pt:dre:75702038:por;pt:dre:70510006:por"
+  },
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º A duração da missão será de um ano.",
+    "depois": "2.º A duração da missão será de um ano, automaticamente renovável por iguais períodos, até se manter o interesse do Estado português de nela participar.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2478723:por",
+    "alterador": "pt:dre:75702038:por;pt:dre:70510006:por"
+  }
+]

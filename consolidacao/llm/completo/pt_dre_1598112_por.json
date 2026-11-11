@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:1598112:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (Deliberação n.º 1551/2015): os artigos 1.º (alterações), 2.º (revogação do n.º 3 do art. 7.º, do n.º 6 do art. 8.º e dos arts. 16.º e 17.º) e 4.º (republicação) dirigem-se ao Regulamento n.º 330-A/2008, na redação dada pela Deliberação n.º 1733/2010, e não ao texto da própria Deliberação n.º 1733/2010 (o original, um diploma que altera); ignoradas.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: altera os artigos 1.º-4.º, 6.º-12.º, 12.º-A, 12.º-B e 15.º do Regulamento n.º 330-A/2008 — outro diploma, ignorado.",
+    "Alterador 1, art. 2.º: revoga normas do Regulamento n.º 330-A/2008 — outro diploma, ignorado.",
+    "Alterador 1, arts. 3.º e 4.º: entrada em vigor e republicação do Regulamento — nada a aplicar ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

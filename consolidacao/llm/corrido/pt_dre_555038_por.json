@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:555038:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 1162/91): a alteração do plano de estudos (anexo I) só vem em imagem e a nova denominação do curso (2.º) não é alteração textual; os restantes pontos são autorizações próprias; Alterador 2 (Aviso 16012/2000): registo de nova denominação do estabelecimento, não textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: altera o plano de estudos anexo, só em imagem; não aplicado.",
+    "Alterador 1, 2.º: o curso de Frigotecnia passa a denominar-se Engenharia Electromecânica - Ramo de Frigotecnia; não textual, não aplicado.",
+    "Alterador 1, 3.º a 9.º: novos cursos e autorizações, disposições próprias do alterador.",
+    "Alterador 2: registo da denominação Escola Superior de Tecnologias e Artes de Lisboa; não textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

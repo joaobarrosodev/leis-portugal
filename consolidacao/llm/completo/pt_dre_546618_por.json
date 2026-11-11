@@ -1,0 +1,486 @@
+{
+  "id": "pt:dre:546618:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Âmbito de aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Âmbito territorial",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Regime",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Composição",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Objectivos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Classes de espaços",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Definições",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Definição e categorias",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Usos do solo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Regime de cedências",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Cedências",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Excepções",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Caracterização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Coeficiente de ocupação do solo, alinhamentos e cérceas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Espaços de estacionamento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Área em situação excepcional",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "Caracterização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Coeficiente de ocupação do solo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Cércea",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "Caracterização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "Área mínima dos lotes",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "Coeficiente de ocupação do solo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "Condições de construção",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Cércea",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Caracterização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "Coeficiente de ocupação do solo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "Condições de construção",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Cércea",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Definição e categorias",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Usos do solo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "Caracterização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "Regime de cedências",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "Cedências para aparcamento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Cedências para equipamentos",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "Excepções",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "Índice de ocupação",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "Coeficiente de ocupação do solo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "Situações transitórias e excepcionais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "Caracterização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "Condições de licenciamento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "Situações transitórias e excepcionais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "Definição",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "Usos do solo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "Alterações ao uso do solo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "Salvaguarda do enquadramento paisagístico",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "Exigências de infra-estruturas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "Definição e categorias",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "Usos do solo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "Excepções",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "Edificabilidade",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "Condições de edificabilidade de habitações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "Infra-estruturas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "Áreas de risco de incêndio",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "55.º",
+      "epigrafe": "Caracterização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "Acções de repovoamento florestal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "Caracterização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "Regime de excepção",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "59.º",
+      "epigrafe": "Caracterização",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "60.º",
+      "epigrafe": "Acções de repovoamento florestal",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "61.º",
+      "epigrafe": "Definição",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "62.º",
+      "epigrafe": "Condições de licenciamento",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "63.º",
+      "epigrafe": "Alterações",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "Definição e categorias",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "65.º",
+      "epigrafe": "Alterações ao uso do solo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "66.º",
+      "epigrafe": "Hierarquia da rede viária",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "67.º",
+      "epigrafe": "Âmbito",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "68.º",
+      "epigrafe": "Perfil transversal tipo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "69.º",
+      "epigrafe": "Afastamentos das construções",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "70.º",
+      "epigrafe": "Acessos a propriedades",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "71.º",
+      "epigrafe": "Espaço aéreo",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "72.º",
+      "epigrafe": "Áreas abrangidas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "73.º",
+      "epigrafe": "Área abrangida",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "74.º",
+      "epigrafe": "Área abrangida",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "75.º",
+      "epigrafe": "Situações excepcionais",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "76.º",
+      "epigrafe": "Horizonte de exploração",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "77.º",
+      "epigrafe": "Áreas abrangidas",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "78.º",
+      "epigrafe": "Regulamentação subsidiária",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alteradores 1 (Deliberação 1572/2008, art. 58.º n.º 2) e 2 (Aviso 2927/2012, arts. 3.º e 60.º): revogação/alteração do PDM só dentro dos limites da planta de zonamento dos planos de urbanização, territorial e não textual. Alteradores 4 (RCM 41/2014) e 5 (RCM 26/2015): suspensão parcial temporária (dois anos) de disposições do PDM em áreas delimitadas em planta, com medidas preventivas; não textual. Alteradores 6 e 7 (Avisos 3003/2018 e 8679/2018): repetem o artigo 82.º do PDM revisto, sem efeito adicional (o PDM já foi revogado pelo alterador 3).",
+  "instrucoes": [
+    "Alterador 1 (Deliberação 1572/2008, PU da Vila Sede): art. 58.º n.º 2 revoga o PDM dentro dos limites do PU; territorial, em nao_aplicavel.",
+    "Alterador 2 (Aviso 2927/2012, PU do Arco de Baúlhe): arts. 3.º e 60.º alteram/revogam o PDM dentro dos limites do PU; territorial, em nao_aplicavel.",
+    "Alterador 3 (Aviso 6639/2013, PDM revisto), art. 82.º, alínea a): revoga o Plano Diretor Municipal ratificado pela RCM 85/95. Aplicado: os 78 artigos com '(Revogado.)'.",
+    "Alteradores 4 e 5 (RCM 41/2014 e 26/2015): suspensão parcial por dois anos e medidas preventivas em áreas delimitadas; não textual, em nao_aplicavel.",
+    "Alteradores 6 e 7 (Avisos 3003/2018 e 8679/2018): art. 82.º repete a revogação do PDM; nada a acrescentar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 176-176",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/07/140000000/3243532441.pdf)",
+    "depois": "(Revogado.)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2534163:por",
+    "alterador": "pt:dre:70208835:por"
+  }
+]

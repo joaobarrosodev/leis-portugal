@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:2585693:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 67/2016): altera a nomeação (nova acumulação de funções em Adis Abeba) sem dar nova redação a nenhuma parte do texto; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1, n.os 1 e 2: alteração da nomeação e efeitos, sem instrução textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

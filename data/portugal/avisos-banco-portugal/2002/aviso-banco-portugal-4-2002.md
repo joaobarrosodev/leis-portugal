@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-08-11'
+version_history:
+  file: aviso-banco-portugal-4-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-08-11'
+    amending: pt:dre:171678:por
+    amending_title: Aviso do Banco de Portugal n.º 5/2002; Aviso do Banco de Portugal n.º 4/2004
+    changes:
+    - Altera Artigo unidades 47-47
+    - Altera Artigo unidades 48-48
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/avbdp/4/2002/06/25/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:02:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso do Banco de Portugal n.º 5/2002;
+    Aviso do Banco de Portugal n.º 4/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/avisos-banco-portugal/2002/aviso-banco-portugal-4-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -217,9 +233,13 @@ e) ...
 
 3 - A evolução das ponderações deverá ser, ao longo de cada ano do período transitório, objecto de um ajustamento proporcional e linear, com periodicidade trimestral, devendo esse ajustamento ser feito, no que se refere ao ano 2002, com referência a 30 de Junho, 30 de Setembro e 31 de Dezembro.
 
-4 - As provisões constituídas em 2002 e em 2003, no âmbito do presente aviso, poderão ser registadas contra reservas.
+4 - As provisões constituídas em 2002, 2003 e 2004, no âmbito do presente n.º 5.º, poderão ser registadas contra reservas.
 
-5 - O aumento de menos-valias latentes, verificado ao longo do período transitório, relativamente às participações financeiras existentes à data de 31 de Dezembro de 2001, deverá ser absorvido durante o mesmo período.
+> Alterado pelo/a [Aviso do Banco de Portugal n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/4-2004-512621), publicado em 2004-08-11.
+
+5 - O aumento de menos-valias latentes, verificado ao longo do período transitório, deverá ser absorvido durante o mesmo período.
+
+> Alterado pelo/a [Aviso do Banco de Portugal n.º 5/2002](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/5-2002-171678), publicado em 2002-08-20.
 
 6 - Da redução das mesmas menos-valias latentes não podem resultar menores níveis de provisões ou de dedução a fundos próprios, a menos que estes níveis ultrapassem os que decorreriam da não aplicação do presente regime transitório.
 

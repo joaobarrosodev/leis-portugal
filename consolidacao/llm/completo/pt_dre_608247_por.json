@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:608247:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Os alteradores 1 a 7 (Despachos n.os 8656/2012, 6449/2014, 7301/2014, 9922/2015, 9508/2016, 3486/2020 e 4197/2026) apenas confirmam prorrogações do prazo do FIEAE ao abrigo do n.º 1 do artigo 17.º; não alteram o texto do decreto-lei (alteração não textual).",
+  "instrucoes": [
+    "Alteradores 1 a 7: confirmação de prorrogação do prazo do FIEAE (n.º 1 do artigo 17.º); sem instrução textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

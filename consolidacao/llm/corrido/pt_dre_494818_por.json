@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:494818:por",
+  "substituicoes": [
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": ". Taxa de juro fixa para cada ano da aplicação: 1.º ano - 1,25 %, 2.º ano - 1,75 %, 3.º ano - 2,25 %, 4.º ano - 2,75 %, 5.º ano - 3,25 %;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Despacho 1036-C/2015), n.º 1, a): altera a taxa de remuneração da ficha técnica anexa; substituída a unidade 42 pela redação da ficha republicada (o resto da republicação só difere em formatação, sem instrução de mudança).",
+    "Alterador 1, n.º 3: republica a ficha técnica; nada mais a aplicar além da taxa.",
+    "Alterador 2 (RCM 157-D/2017), n.º 16: suspende novas subscrições de CTPM; não é alteração textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

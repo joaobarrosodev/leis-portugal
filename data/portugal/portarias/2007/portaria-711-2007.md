@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-03-27'
+version_history:
+  file: portaria-711-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-03-27'
+    amending: pt:dre:3697236:por
+    amending_title: Portaria n.º 462/2009
+    changes:
+    - Altera Artigo unidades 19-25
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/711/2007/06/11/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:25:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 462/2009. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-711-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,19 +163,21 @@ f) Gestão do arquivo e gestão documental;
 
 g) Geração de informação de suporte à gestão do processo de conferência para utilização pelo próprio centro, para a gestão das administrações regionais de saúde, para utilização pela Administração Central do Sistema de Saúde, I. P., e ainda por outras instituições do SNS.
 
-2.º A contratação dos serviços referidos no número anterior pode implicar uma despesa até ao montante máximo de (euro) 30580266, a que acresce o IVA à taxa legal, e que envolve a realização de despesa em anos económicos diferentes, de acordo com o seguinte escalonamento:
+2.º A contratação dos serviços referidos no número anterior pode implicar uma despesa até ao montante máximo de (euro) 30 580 266, a que acresce o IVA à taxa legal, e que envolve a realização de despesa em anos económicos diferentes, de acordo com o seguinte escalonamento:
 
-2008 - até ao limite máximo de (euro) 9734724, a que acresce o IVA à taxa legal;
+2009 - até ao limite máximo de (euro) 9 734 724, a que acresce o IVA à taxa legal;
 
-2009 - até ao limite máximo de (euro) 7302552, a que acresce o IVA à taxa legal;
+2010 - até ao limite máximo de (euro) 7 302 552, a que acresce o IVA à taxa legal;
 
-2010 - até ao limite máximo de (euro) 6906702, a que acresce o IVA à taxa legal;
+2011 - até ao limite máximo de (euro) 6 906 702, a que acresce o IVA à taxa legal;
 
-2011 - até ao limite máximo de (euro) 6636288, a que acresce o IVA à taxa legal.
+2012 - até ao limite máximo de (euro) 6 636 288, a que acresce o IVA à taxa legal.
 
-3.º O montante da despesa a realizar no ano económico de 2008 engloba o montante estimado referido à aquisição do software, hardware e serviços de desenvolvimento da solução de conferência necessária ao funcionamento do centro de conferência, correspondente a (euro) 1800000, sendo o restante correspondente à estimativa dos custos de operação do centro de conferência nesse ano.
+3.º O montante da despesa a realizar no ano económico de 2009 engloba o montante estimado referido à aquisição do software, hardware e serviços de desenvolvimento da Solução de Conferência necessária ao funcionamento do Centro de Conferência, correspondente a (euro) 5 676 099,92, sendo o restante correspondente à estimativa dos custos de operação do Centro de Conferência nesse ano.
 
-4.º Os montantes respeitantes aos anos económicos de 2009, 2010 e 2011 incluem apenas as estimativas dos custos de operação do centro de conferência.
+4.º Os montantes respeitantes aos anos económicos de 2010, 2011 e 2012 incluem apenas as estimativas dos custos de operação do Centro de Conferência.
+
+> Alterado pelo/a [Portaria n.º 462/2009](https://diariodarepublica.pt/dr/detalhe/portaria/462-2009-3697236), publicado em 2009-03-27.
 
 5.º A importância fixada para cada ano poderá ser acrescida do saldo apurado no ano que antecede.
 

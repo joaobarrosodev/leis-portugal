@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:1193925:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 837/2015), artigo único: muda a designação do monumento (Convento -> Mosteiro de São Cristóvão de Lafões, em Valadares, freguesia de Valadares) sem dar nova redação a nenhum artigo da Portaria n.º 399/2010; alteração não textual, não aplicada ao artigo 1.º.",
+  "instrucoes": [
+    "Alterador 1, artigo único: alteração da designação do monumento classificado, sem nova redação de artigo; não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

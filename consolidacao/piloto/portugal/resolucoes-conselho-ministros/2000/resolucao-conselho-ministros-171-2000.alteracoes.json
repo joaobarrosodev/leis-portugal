@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 423-428",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "À equipa técnica do Programa Foral competirá, em especial:\n\nA actualização de um «menu global de formação», que inclua a informação de formação autárquica em todas as regiões, incluindo listagens de cursos e respectivas entidades formadoras, o qual se deverá estruturar de acordo com as seis grandes áreas de formação do Programa Foral, conforme definido no n.º 5 deste documento;\n\nO encaminhamento de propostas de candidaturas para as DRAA, sempre que forem apresentadas iniciativas que envolvam mais de uma região;\n\nA disponibilização de informação, a nível global, sobre o Programa;\n\nA articulação da acção das DRAA, neste domínio, em todas as regiões;\n\nA elaboração de relatórios globais de execução periódicos;",
+    "depois": "À equipa técnica compete:\n\na) Assegurar a manutenção do sistema de informação do Programa a nível nacional e a produção de relatórios trimestrais sobre a sua evolução de forma a facultar ao Núcleo de Coordenação os elementos necessários ao acompanhamento e regulação estratégica do Programa;\n\nb) Desenvolver as actividades necessárias para estimular o aparecimento de propostas de formação que se integrem nos objectivos e no programa quadro de formação Foral;\n\nc) Manter actualizado o quadro de necessidades de formação para a administração local através da acção continuada de identificação de novas necessidades de formação;\n\nd) Promover a difusão de boas práticas de formação;\n\ne) Diagnosticar dificuldades e obstáculos que se levantam à operacionalidade e eficácia do Programa e propor ao Núcleo de Coordenação medidas adequadas à sua resolução;\n\nf) Operacionalizar as medidas e acções que venham a ser tomadas em sede do Núcleo de Coordenação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:584230:por",
+    "alterador": "pt:dre:405317:por"
+  }
+]

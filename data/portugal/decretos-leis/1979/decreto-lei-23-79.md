@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-05-19'
+version_history:
+  file: decreto-lei-23-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-02-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-05-19'
+    amending: pt:dre:382641:por
+    amending_title: Decreto-Lei n.º 139/79
+    changes:
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:19:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 139/79. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-23-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -215,7 +231,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 #### SECÇÃO I — Disposições comuns
 
-###### ARTIGO 1.º — (Classificação do pessoal)
+###### Artigo 1.º — (Classificação do pessoal)
 
 O pessoal do Instituto de Gestão Financeira da Segurança Social, adiante designado por Instituto, agrupa-se de harmonia com a classificação seguinte:
 
@@ -229,11 +245,11 @@ d) Pessoal técnico-profissional e administrativo;
 
 e) Pessoal operário e auxiliar.
 
-###### ARTIGO 2.º — (Quadro do pessoal e remunerações)
+###### Artigo 2.º — (Quadro do pessoal e remunerações)
 
 O quadro do pessoal do Instituto e respectivas remunerações constam do mapa anexo a este diploma, do qual fica a constituir parte integrante.
 
-###### ARTIGO 3.º — (Provimento do pessoal)
+###### Artigo 3.º — (Provimento do pessoal)
 
 1 - O provimento do pessoal dos quadros do Instituto será feito por nomeação, salvos os casos de provimento por contrato, nos termos da lei geral.
 
@@ -241,7 +257,7 @@ O quadro do pessoal do Instituto e respectivas remunerações constam do mapa an
 
 3 - Quando o provimento referido no número anterior recair em funcionários provenientes de outros departamentos do Estado, o tempo de serviço neles prestado em lugar da mesma carreira contará para efeitos de nomeação definitiva no Instituto.
 
-###### ARTIGO 4.º — (Admissão de pessoal)
+###### Artigo 4.º — (Admissão de pessoal)
 
 O provimento nos lugares de ingresso far-se-á segundo a seguinte ordem de prioridades:
 
@@ -251,13 +267,13 @@ b) De entre o pessoal integrado em qualquer dos quadros do Ministério dos Assun
 
 c) De entre indivíduos não abrangidos pelas alíneas anteriores, quando subsistam vagas.
 
-###### ARTIGO 5.º — (Regime do pessoal)
+###### Artigo 5.º — (Regime do pessoal)
 
 O pessoal do quadro do Instituto ficará submetido ao estatuto em vigor para o funcionalismo público, incluindo o da aposentação.
 
 #### SECÇÃO II — Ingresso e provimento
 
-###### ARTIGO 6.º — (Pessoal dirigente)
+###### Artigo 6.º — (Pessoal dirigente)
 
 1 - a) Os lugares de director e de subdirector deverão ser providos, por escolha, respectivamente, do Ministro dos Assuntos Sociais e do Secretário de Estado da Segurança Social, de entre indivíduos habilitados com curso superior, em regime de comissão de serviço, por tempo indeterminado;
 
@@ -271,7 +287,7 @@ e) Os lugares de chefe de secção deverão ser providos de entre os técnicos a
 
 2 - A designação para os lugares referidos nas alíneas b), c), d) e e) do n.º 1 será feita mediante proposta do conselho directivo.
 
-###### ARTIGO 7.º — (Pessoal técnico superior)
+###### Artigo 7.º — (Pessoal técnico superior)
 
 1 - O ingresso na carreira de pessoal técnico superior será efectuado pela categoria mais baixa, mediante concurso de prestação de provas práticas, de entre indivíduos habilitados com licenciatura adequada ao desempenho das funções.
 
@@ -281,7 +297,7 @@ a) Técnicos superiores principais - de entre técnicos superiores de 1.ª class
 
 b) Técnicos superiores de 1.ª classe - de entre técnicos superiores de 2.ª classe com, pelo menos, três anos de serviço efectivo na categoria.
 
-###### ARTIGO 8.º — (Pessoal técnico)
+###### Artigo 8.º — (Pessoal técnico)
 
 1 - O ingresso na carreira de pessoal técnico efectuar-se-á pela categoria mais baixa, mediante concurso de prestação de provas práticas, de entre indivíduos habilitados com curso superior equivalente a bacharelato e adequado ao desempenho das funções.
 
@@ -291,7 +307,7 @@ a) Técnicos principais - de entre técnicos de 1.ª classe com, pelo menos, tr�
 
 b) Técnicos de 1.ª classe - de entre técnicos de 2.ª classe com, pelo menos, três anos de serviço efectivo na categoria.
 
-###### ARTIGO 9.º — (Pessoal técnico auxiliar)
+###### Artigo 9.º — (Pessoal técnico auxiliar)
 
 1 - O ingresso na carreira de pessoal técnico auxiliar efectuar-se-á pela categoria mais baixa, mediante concurso de prestação de provas práticas, de entre indivíduos com habilitação equivalente ao curso geral dos liceus adequada ao desempenho das funções.
 
@@ -301,7 +317,7 @@ a) Técnicos auxiliares principais - de entre técnicos auxiliares de 1.ª class
 
 b) Técnicos auxiliares de 1.ª classe - de entre técnicos auxiliares de 2.ª classe com, pelo menos, três anos de serviço efectivo na categoria.
 
-###### ARTIGO 10.º — (Pessoal técnico-profissional)
+###### Artigo 10.º — (Pessoal técnico-profissional)
 
 1 - O ingresso na carreira de desenhador efectuar-se-á pela categoria mais baixa, mediante concurso documental, de entre indivíduos com a habilitação equivalente ao curso geral dos liceus, adequada ao desempenho das funções, nomeadamente o curso técnico de desenho.
 
@@ -327,7 +343,7 @@ b) Técnicos auxiliares de 1.ª classe - de entre técnicos auxiliares de 2.ª c
 
 12 - Os lugares de encadernador de 3.ª classe serão providos de entre os ajudantes de encadernador com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
-###### ARTIGO 11.º — (Pessoal administrativo)
+###### Artigo 11.º — (Pessoal administrativo)
 
 O pessoal administrativo será recrutado da seguinte forma:
 
@@ -343,7 +359,7 @@ c) Terceiros-oficiais - por concurso de provas escritas e práticas, a que serã
 
 d) Escriturários-dactilógrafos - por concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### ARTIGO 12.º — (Pessoal auxiliar)
+###### Artigo 12.º — (Pessoal auxiliar)
 
 O pessoal auxiliar, adiante designado, será recrutado de entre indivíduos com a escolaridade obrigatória, segundo a idade do candidato, e da forma seguinte:
 
@@ -351,13 +367,13 @@ a) As telefonistas, mediante concurso de prestação de provas;
 
 b) Os motoristas, contínuos e serventes, por escolha do conselho directivo.
 
-###### ARTIGO 13.º — (Requisitos complementares)
+###### Artigo 13.º — (Requisitos complementares)
 
 Por despacho conjunto do Ministro dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a função pública, sob proposta da Direcção-Geral de Recursos Humanos, serão definidos os requisitos complementares relativamente à formação profissional ou experiência profissional adequada ao preenchimento de cada posto de trabalho, de acordo com o respectivo conteúdo profissional.
 
 #### SECÇÃO III — Outro pessoal
 
-###### ARTIGO 14.º — (Situações especiais dos funcionários)
+###### Artigo 14.º — (Situações especiais dos funcionários)
 
 Quando as necessidades de serviço imperiosamente o exijam, poderá o Instituto, por despacho ministerial, sob proposta do conselho directivo, recorrer às seguintes situações especiais:
 
@@ -367,23 +383,23 @@ b) Requisição, não ocupando o funcionário lugar no quadro, sendo pago pelo I
 
 c) Comissão de serviço, sendo o funcionário provido num lugar do quadro, mantendo o direito ao lugar de origem, que pode, entretanto, ser provido interinamente.
 
-###### ARTIGO 15.º — (Pessoal contratado além do quadro)
+###### Artigo 15.º — (Pessoal contratado além do quadro)
 
 Quando se reconheça ser absolutamente indispensável, poderá o Instituto admitir, temporariamente, pessoal além do quadro em regime de contrato, nos termos da lei geral.
 
 #### SECÇÃO IV — Disposições gerais e transitórias
 
-###### ARTIGO 16.º — (Origem do pessoal)
+###### Artigo 16.º — (Origem do pessoal)
 
 1 - Será integrado no quadro do Instituto pessoal da Direcção-Geral da Previdência, da Federação das Caixas de Previdência e Abono de Família, da Caixa Nacional de Pensões e de outras instituições de previdência considerado necessário e que transitará para os lugares do quadro a que se refere o artigo 2.º, sendo reclassificado de harmonia com as atribuições e áreas de actuação específicas do Instituto e as funções que actualmente desempenha.
 
 2 - Nos organismos donde provierem os empregados a integrar no Instituto serão abatidos ao respectivo quadro de pessoal os lugares que aqueles ocupavam.
 
-###### ARTIGO 17.º — (Pessoal oriundo da função pública)
+###### Artigo 17.º — (Pessoal oriundo da função pública)
 
 Os funcionários provenientes da Direcção-Geral da Previdência, já com provimento definitivo na função pública, conservarão aquela situação.
 
-###### ARTIGO 18.º — (Pessoal oriundo das instituições de previdência)
+###### Artigo 18.º — (Pessoal oriundo das instituições de previdência)
 
 1 - O pessoal que transitar das instituições de previdência será abrangido pelo estatuto da função pública, sendo-lhe contados, para todos os efeitos, incluindo a aposentação e diuturnidades, a respectiva antiguidade na Previdência e o eventual tempo de prestação de serviço na função pública.
 
@@ -391,11 +407,11 @@ Os funcionários provenientes da Direcção-Geral da Previdência, já com provi
 
 3 - A situação a que se refere o número anterior não prejudica o provimento interino dos lugares, enquanto durar o impedimento dos respectivos titulares.
 
-###### ARTIGO 19.º — (Pessoal dirigente)
+###### Artigo 19.º — (Pessoal dirigente)
 
 Os membros do conselho directivo que à data da publicação do presente diploma estiverem no exercício de funções manter-se-ão nessa situação, em comissão de serviço.
 
-###### ARTIGO 20.º — (Primeiro provimento)
+###### Artigo 20.º — (Primeiro provimento)
 
 1 - O primeiro provimento do pessoal afecto ao Instituto far-se-á de acordo com as seguintes regras:
 
@@ -409,23 +425,31 @@ c) Para lugar do quadro que integre as funções efectivamente exercidas pelo in
 
 3 - O pessoal provido ao abrigo das alíneas b) e c) do n.º 1 do presente artigo poderá ascender à categoria superior se, entretanto, tiver obtido as habilitações literárias exigidas nos artigos 7.º, 8.º, 9.º e 10.º ou, independentemente dessas habilitações, se for aprovado em concurso, a definir, quanto à preparação e condições, por despacho conjunto do Secretário de Estado da Segurança Social e do membro do Governo que tiver a seu cargo a Administração Pública.
 
-###### ARTIGO 21.º — (Remunerações)
+4 - Para efeitos do n.º 1 deste artigo, considera-se afecto ao Instituto o pessoal a que se refere o n.º 1 do artigo 16.º e ainda todo aquele que, a qualquer título, se encontra adstrito aos serviços do Instituto.
 
-Quando as remunerações líquidas das categorias atribuídas ao pessoal referido no artigo 20.º forem inferiores às remunerações líquidas que o mesmo pessoal vem auferindo, estas manter-se-ão, até que, por promoção ou revisão salarial, sejam alcançadas.
+> Alterado pelo/a [Decreto-Lei n.º 139/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1979-382641), publicado em 1979-05-19.
 
-###### ARTIGO 22.º — (Cobertura de encargos)
+###### Artigo 21.º — (Remunerações)
+
+1 - O pessoal provido nos termos do artigo 20.º tem direito ao vencimento pelos novos lugares com efeitos reportados a 1 de Março de 1979.
+
+2 - Quando as remunerações líquidas das categorias atribuídas ao pessoal referido no artigo 20.º forem inferiores às remunerações líquidas que o mesmo pessoal vem auferindo, estas manter-se-ão até que, por promoção ou revisão salarial, sejam alcançadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 139/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1979-382641), publicado em 1979-05-19.
+
+###### Artigo 22.º — (Cobertura de encargos)
 
 Os encargos decorrentes da execução do presente diploma são suportados pelo Instituto.
 
-###### ARTIGO 23.º — (Gestão de pessoal)
+###### Artigo 23.º — (Gestão de pessoal)
 
 As funções de gestão de pessoal, atribuídas no artigo 13.º à Direcção-Geral de Recursos Humanos, caberão ao Instituto enquanto não vigorar diploma regulamentar daquele órgão central.
 
-###### ARTIGO 24.º — (Interpretação e integração)
+###### Artigo 24.º — (Interpretação e integração)
 
 As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano, do Ministro dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a Administração Pública.
 
-###### ARTIGO 25.º — (Revogações e alterações)
+###### Artigo 25.º — (Revogações e alterações)
 
 1 - Fica revogado o artigo 8.º do [Decreto-Lei n.º 17/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1977-492465), de 12 de Janeiro.
 

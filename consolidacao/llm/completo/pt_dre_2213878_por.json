@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:2213878:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 78/2016), artigo único: substitui a planta constante do anexo à Portaria n.º 740-BM/2012 pela planta anexa à nova portaria; a planta só existe em imagem (PDF), não há alteração textual a aplicar ao artigo único nem ao anexo.",
+  "instrucoes": [
+    "Alterador 1, artigo único: substituição da planta do anexo (só em imagem) — não aplicada, ver nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

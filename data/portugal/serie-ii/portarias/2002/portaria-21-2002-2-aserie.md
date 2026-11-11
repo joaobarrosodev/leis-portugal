@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-02-18'
+version_history:
+  file: portaria-21-2002-2-aserie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-01-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-02-18'
+    amending: pt:dre:3610844:por
+    amending_title: Portaria n.º 232/2004 (2.ª série)
+    changes:
+    - Altera Artigo unidades 6-7
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:31:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 232/2004 (2.ª série).
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2002/portaria-21-2002-2-aserie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,8 +120,12 @@ Assim, de harmonia com o disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º
 
 Manda o Governo, pelos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas, que seja autorizado o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas a alterar o referido contrato, com vista à repartição do montante global dos encargos pelos seguintes valores:
 
-2001 - 343 601 934$00/Euro 1 173 879,22;
+2001 - Euro 1 713 879,22;
 
-2002 - Euro 1 142 586,15.
+2002 - Euro 571 293,08;
+
+2003 - Euro 571 293,07.
+
+> Alterado pelo/a [Portaria n.º 232/2004 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/232-2004-3610844), publicado em 2004-02-18.
 
 27 de Dezembro de 2001. - O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.

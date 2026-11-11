@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:2982597:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 17,
+      "texto": "1 - A presente licença vigora até 31 de Dezembro de 2013.\n\n2 - Até 31 de Maio de 2011, a Agência Portuguesa do Ambiente realizará um balanço da actividade e dos resultados obtidos pela actividade da titular no período que termina em 31 de Dezembro de 2010, propondo ao membro do Governo responsável pela área do ambiente a adopção das eventuais medidas consideradas adequadas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2: a nova tabela do n.º 2.4 da parte A do apêndice (unidade 66) só vem em imagem/PDF ('ver documento original'), não aplicada. Alterador 2 (Despacho n.º 8213/2014): prorrogação da licença sem alteração textual ao original, não aplicada.",
+  "instrucoes": [
+    "Alterador 1 (Despacho n.º 19692/2009), n.º 1: nova redação da cláusula 3.ª; n.os 1 e 2 mudam (unidades 16-17), n.os 3 e 4 com '...' ficam.",
+    "Alterador 1, n.º 2: nova tabela do n.º 2.4 do apêndice só em imagem; em nao_aplicavel.",
+    "Alterador 2 (Despacho n.º 8213/2014): prorroga a licença sem alterar o texto; em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

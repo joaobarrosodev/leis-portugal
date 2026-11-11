@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-07-22'
+version_history:
+  file: despacho-1941-a-2014.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2014-02-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-22'
+    amending: pt:dre:55025900:por
+    amending_title: Despacho n.º 9478/2014
+    changes:
+    - Altera Artigo unidades 35-35
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T11:03:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho n.º 9478/2014. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos/2014/despacho-1941-a-2014.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -237,7 +252,9 @@ i) A alínea c) do n.º 4, que passa a ter a seguinte redação:
 
 4 - Subdelego, com a faculdade de subdelegar, as seguintes competências:
 
-a) No Secretário de Estado do Ambiente, Dr. Paulo Guilherme da Silva Lemos, as competências que me estão delegadas nos termos do n.º 1 da [Resolução do Conselho de Ministros n.º 58/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-2013-499247), de 9 de setembro;
+a) No Secretário de Estado do Ambiente, Dr. Paulo Guilherme da Silva Lemos, as competências que me estão delegadas nos termos do n.º 1 da [Resolução do Conselho de Ministros n.º 58/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-2013-499247), de 9 de setembro, bem como as delegadas através da [Resolução do Conselho de Ministros n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-2014-25343696), de 20 de maio;
+
+> Alterado pelo/a [Despacho n.º 9478/2014](https://diariodarepublica.pt/dr/detalhe/despacho/9478-2014-55025900), publicado em 2014-07-22.
 
 b) No Secretário de Estado do Ordenamento do Território e da Conservação da Natureza, Prof. Doutor Miguel de Castro Neto, as competências que me estão delegadas nos termos do n.º 1 da [Resolução do Conselho de Ministros n.º 89/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/89-2013-483945), de 11 de dezembro.
 

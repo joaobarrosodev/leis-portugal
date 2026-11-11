@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-12-29'
+version_history:
+  file: resolucao-conselho-ministros-171-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-12-29'
+    amending: pt:dre:405317:por
+    amending_title: Resolução do Conselho de Ministros n.º 146/2002
+    changes:
+    - Altera Artigo unidades 423-428
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/171/2000/12/09/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:38:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 146/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2000/resolucao-conselho-ministros-171-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -955,17 +970,21 @@ Aprovar o plano de actividades da equipa técnica.
 
 O Grupo Coordenador será apoiado por uma equipa técnica, a qual, no início das suas funções, deverá preparar e submeter à aprovação do Grupo Coordenador um plano de actividades, especificando o respectivo esquema de funcionamento.
 
-À equipa técnica do Programa Foral competirá, em especial:
+À equipa técnica compete:
 
-A actualização de um «menu global de formação», que inclua a informação de formação autárquica em todas as regiões, incluindo listagens de cursos e respectivas entidades formadoras, o qual se deverá estruturar de acordo com as seis grandes áreas de formação do Programa Foral, conforme definido no n.º 5 deste documento;
+a) Assegurar a manutenção do sistema de informação do Programa a nível nacional e a produção de relatórios trimestrais sobre a sua evolução de forma a facultar ao Núcleo de Coordenação os elementos necessários ao acompanhamento e regulação estratégica do Programa;
 
-O encaminhamento de propostas de candidaturas para as DRAA, sempre que forem apresentadas iniciativas que envolvam mais de uma região;
+b) Desenvolver as actividades necessárias para estimular o aparecimento de propostas de formação que se integrem nos objectivos e no programa quadro de formação Foral;
 
-A disponibilização de informação, a nível global, sobre o Programa;
+c) Manter actualizado o quadro de necessidades de formação para a administração local através da acção continuada de identificação de novas necessidades de formação;
 
-A articulação da acção das DRAA, neste domínio, em todas as regiões;
+d) Promover a difusão de boas práticas de formação;
 
-A elaboração de relatórios globais de execução periódicos;
+e) Diagnosticar dificuldades e obstáculos que se levantam à operacionalidade e eficácia do Programa e propor ao Núcleo de Coordenação medidas adequadas à sua resolução;
+
+f) Operacionalizar as medidas e acções que venham a ser tomadas em sede do Núcleo de Coordenação.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 146/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/146-2002-405317), publicado em 2002-12-24.
 
 No início das suas funções, a equipa técnica deverá preparar e submeter ao Grupo Coordenador um plano de actividades, especificando o respectivo esquema de funcionamento
 

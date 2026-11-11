@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-01-30'
+version_history:
+  file: resolucao-conselho-ministros-62-2013.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-10-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-01-30'
+    amending: pt:dre:66397925:por
+    amending_title: Despacho n.º 1036-C/2015
+    changes:
+    - Altera Artigo unidades 42-42
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/62/2013/10/10/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:04:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho n.º 1036-C/2015. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2013/resolucao-conselho-ministros-62-2013.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -208,7 +223,9 @@ Prazo:
 
 Taxa de remuneração:
 
-. Taxa de juro fixa para cada ano da aplicação: 1.º ano - 2,75%, 2.º ano - 3,75%, 3.º ano - 4,75%, 4.º e 5.º ano - 5%;
+. Taxa de juro fixa para cada ano da aplicação: 1.º ano - 1,25 %, 2.º ano - 1,75 %, 3.º ano - 2,25 %, 4.º ano - 2,75 %, 5.º ano - 3,25 %;
+
+> Alterado pelo/a [Despacho n.º 1036-C/2015](https://diariodarepublica.pt/dr/detalhe/despacho/1036-c-2015-66397925), publicado em 2015-01-30.
 
 . A taxa de juro no 4.º e no 5.º ano é acrescida de um prémio, em função do crescimento médio real do Produto Interno Bruto (PIB), conforme descrito no ponto seguinte.
 

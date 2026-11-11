@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:1321786:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 993-A/2014) dá nova redação ao anexo, mas o quadro dos contratos de patrocínio só vem em imagem; o título e o ano letivo não mudam. Não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 993-A/2014): nova redação do anexo (quadro de valores só em imagem) - não aplicado; epígrafe 'Contratos de Patrocínio - Dança e Artes Visuais e Audiovisuais' e 'Ano Letivo 2013-2014' iguais às atuais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

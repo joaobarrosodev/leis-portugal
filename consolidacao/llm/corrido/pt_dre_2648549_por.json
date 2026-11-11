@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:2648549:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Despacho n.º 7251/2014): altera o Anexo ao Despacho n.º 2032/2013 (já alterado pelo original), não o texto do original; ignorado.",
+    "Alterador 2 (Despacho n.º 15704/2014): altera o Anexo ao Despacho n.º 2032/2013; ignorado.",
+    "Alterador 3 (Despacho n.º 11057/2015): altera e republica o Anexo ao Despacho n.º 2032/2013; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

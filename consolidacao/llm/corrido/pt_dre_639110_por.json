@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:639110:por",
+  "substituicoes": [
+    {
+      "de": 19,
+      "ate": 25,
+      "texto": "2.º A contratação dos serviços referidos no número anterior pode implicar uma despesa até ao montante máximo de (euro) 30 580 266, a que acresce o IVA à taxa legal, e que envolve a realização de despesa em anos económicos diferentes, de acordo com o seguinte escalonamento:\n\n2009 - até ao limite máximo de (euro) 9 734 724, a que acresce o IVA à taxa legal;\n\n2010 - até ao limite máximo de (euro) 7 302 552, a que acresce o IVA à taxa legal;\n\n2011 - até ao limite máximo de (euro) 6 906 702, a que acresce o IVA à taxa legal;\n\n2012 - até ao limite máximo de (euro) 6 636 288, a que acresce o IVA à taxa legal.\n\n3.º O montante da despesa a realizar no ano económico de 2009 engloba o montante estimado referido à aquisição do software, hardware e serviços de desenvolvimento da Solução de Conferência necessária ao funcionamento do Centro de Conferência, correspondente a (euro) 5 676 099,92, sendo o restante correspondente à estimativa dos custos de operação do Centro de Conferência nesse ano.\n\n4.º Os montantes respeitantes aos anos económicos de 2010, 2011 e 2012 incluem apenas as estimativas dos custos de operação do Centro de Conferência.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 462/2009), 1.º: nova redação dos n.os 2.º (corpo e escalonamento), 3.º e 4.º; substituídas as unidades 19-25. O 2.º do alterador (efeitos) não altera o texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

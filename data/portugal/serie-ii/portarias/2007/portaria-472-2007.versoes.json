@@ -1,0 +1,515 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1751988:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-06-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "159c696bd90ae648",
+    "1cf4f25938b96ea0",
+    "e9fe672ddde1d8b6",
+    "c9c81c04bd0c484d",
+    "93ddb94d71da270c",
+    "a041167dc0deabdd",
+    "3bf70165f36fde22",
+    "e64ae5c9e6ed0392",
+    "9ab46f5e141e19ef",
+    "fd58455caefde693",
+    "9263cf1b5e3117ad",
+    "b97c91ec474bd564",
+    "7e9fc1a81d7a3922",
+    "d715cef80560a3bb",
+    "b4853597f2c69837",
+    "f74f735c144a9cec",
+    "4f0ac22648bc2cc0",
+    "84ef3f99e9dfe627",
+    "d67d30ca1a22d362",
+    "49bc59f9c9427e41",
+    "892bf103122d15a6",
+    "4262e0827ecf93be",
+    "57678d26fc88a300",
+    "1a1162367a9caa0d",
+    "aaf0f511d5c1e679",
+    "039c2bab64d89989",
+    "2e4a0b95d8629b10",
+    "c6be92f1608f1112",
+    "1ea0182f9cf9df27",
+    "fea64ba0ff38ac54",
+    "5928ae498d742813",
+    "87fdef2c86e4f7fa",
+    "f903d911e59f8188",
+    "93d1d284d885d74a",
+    "e09f08f110450860",
+    "b40475d06673504d",
+    "0ec3eb805edd8b18",
+    "a66dd2b098d868ac",
+    "d264aede6de591af",
+    "c515d919a33f4643",
+    "dd130fca1eb5e3fa",
+    "b0f146be53a987e1",
+    "bb5f25cc3d5756fd"
+   ]
+  },
+  {
+   "date": "2021-07-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:492754:por",
+     "title": "Portaria n.º 787/2009",
+     "published": "2009-07-28",
+     "dre_path": "/dr/detalhe/portaria/787-2009-492754"
+    },
+    {
+     "id": "pt:dre:166569146:por",
+     "title": "Portaria n.º 274/2021",
+     "published": "2021-07-08",
+     "dre_path": "/dr/detalhe/portaria/274-2021-166569146"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — Regulamento de Autorizações Especiais de Trânsito::9.º",
+    "Altera Artigo ANEXO — Regulamento de Autorizações Especiais de Trânsito::10.º",
+    "Altera Artigo ANEXO — Regulamento de Autorizações Especiais de Trânsito::16.º",
+    "Altera Artigo ANEXO — Regulamento de Autorizações Especiais de Trânsito::26.º"
+   ],
+   "fragments": [
+    "159c696bd90ae648",
+    "1cf4f25938b96ea0",
+    "e9fe672ddde1d8b6",
+    "c9c81c04bd0c484d",
+    "93ddb94d71da270c",
+    "a041167dc0deabdd",
+    "3bf70165f36fde22",
+    "e64ae5c9e6ed0392",
+    "9ab46f5e141e19ef",
+    "fd58455caefde693",
+    "9263cf1b5e3117ad",
+    "b97c91ec474bd564",
+    "7e9fc1a81d7a3922",
+    "d715cef80560a3bb",
+    "b4853597f2c69837",
+    "2f04925ed977f4e5",
+    "ae9df7b4b2e2211a",
+    "84ef3f99e9dfe627",
+    "d67d30ca1a22d362",
+    "49bc59f9c9427e41",
+    "892bf103122d15a6",
+    "4262e0827ecf93be",
+    "57678d26fc88a300",
+    "1a1162367a9caa0d",
+    "aaf0f511d5c1e679",
+    "094adcf6eeea7ebb",
+    "2e4a0b95d8629b10",
+    "c6be92f1608f1112",
+    "1ea0182f9cf9df27",
+    "fea64ba0ff38ac54",
+    "5928ae498d742813",
+    "87fdef2c86e4f7fa",
+    "f903d911e59f8188",
+    "93d1d284d885d74a",
+    "e09f08f110450860",
+    "b40475d06673504d",
+    "0ec3eb805edd8b18",
+    "a66dd2b098d868ac",
+    "d264aede6de591af",
+    "1f4ce9e4db38eccb",
+    "dd130fca1eb5e3fa",
+    "b0f146be53a987e1",
+    "bb5f25cc3d5756fd"
+   ]
+  }
+ ],
+ "fragments": {
+  "159c696bd90ae648": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Regulamento de Autorizações Especiais de Trânsito (RAET), aprovado pela portaria n.º 387/99, de 26 de Maio, consagra as condições em que podem utilizar a via pública os veículos que, pelas suas próprias características ou em virtude do transporte de objectos indivisíveis, excedem as dimensões ou pesos regulamentares.\n\nA última alteração do Código da Estrada, através do [Decreto-Lei n.º 44/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2005-608743), de 23 de Fevereiro, modificou o enquadramento legal desta matéria, permitindo-se agora que, em certos casos, aqueles veículos possam circular sem autorização, desde que cumpram as condições estabelecidas em regulamento e ainda que, tratando-se de veículos de passageiros, a carga possa exceder os respectivos contornos envolventes, também nas condições a fixar em regulamento.\n\nO [Decreto-Lei n.º 107/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2006-346123), de 8 de Junho, que aprova o regulamento de matrícula das máquinas industriais, contém normas relativas à sua circulação que devem ser conjugadas com as constantes do Regulamento de Autorizações Especiais de Trânsito.\n\nPor outro lado, no âmbito da Direcção-Geral de Energia e Transportes da Comissão da União Europeia, foi elaborado um Manual de Boas Práticas sobre Transportes Excepcionais, cujas recomendações importa acolher na regulamentação nacional.\n\nAssim:\n\nNos termos do disposto nos n.os 1 e 2 do artigo 10.º, nas alíneas g) e h) do n.º 3 do artigo 56.º e no n.º 1 do artigo 58.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 114/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1994-250659), de 3 de Maio, na última redacção que lhe foi conferida pelo [Decreto-Lei n.º 44/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2005-608743), de 23 de Fevereiro, e ao abrigo do disposto nas alíneas b) e c) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 44/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2005-608743), de 23 de Fevereiro, manda o Governo, pelos Ministros da Administração Interna e das Obras Públicas, Transportes e Comunicações, o seguinte:\n\n1.º É aprovado o Regulamento de Autorizações Especiais de Trânsito, publicado em anexo à presente portaria e que dela faz parte integrante.\n\n2.º No período de um ano após a entrada em vigor da presente portaria, ficam dispensadas de autorização especial de trânsito as máquinas industriais não matriculadas que não excedam o peso bruto de 40 t ou qualquer das seguintes dimensões:\n\na) Em comprimento, 12 m;\n\nb) Em largura, 2,55 m;\n\nc) Em altura, 4 m a contar do solo.\n\n3.º As máquinas agrícolas e florestais que não excedam o peso ou as dimensões referidas no número anterior ficam dispensadas de autorização especial de trânsito enquanto não forem matriculadas.\n\n4.º É revogada a portaria n.º 387/99, de 26 de Maio, com as alterações introduzidas pela portaria n.º 808/99, de 21 de Setembro.\n\n5.º A presente portaria entra em vigor três meses após a sua publicação, excepto o disposto:\n\na) No artigo 10.º, que entra em vigor um mês após a sua publicação; e\n\nb) Nos artigos 13.º, 17.º e 19.º, que entra em vigor no dia seguinte ao da sua publicação.\n\n15 de Junho de 2007. - O Ministro da Administração Interna, Rui Carlos Pereira. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia."
+  },
+  "1cf4f25938b96ea0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Regulamento de Autorizações Especiais de Trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Regulamento de Autorizações Especiais de Trânsito"
+  },
+  "e9fe672ddde1d8b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "c9c81c04bd0c484d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\n1 - Para os efeitos do presente Regulamento, entende-se por:\n\na) \"Autorização anual\" a autorização especial de trânsito emitida para um veículo ou conjunto, com ou sem carga, e válida por um período máximo de um ano;\n\nb) \"Autorização ocasional\" a autorização especial de trânsito emitida para um veículo ou conjunto e válida para um único transporte ou para uma única deslocação;\n\nc) \"Autorização de curta duração\" a autorização especial de trânsito emitida para um veículo ou conjunto e válida para vários transportes de objectos indivisíveis com as mesmas dimensões e o mesmo peso, no mesmo itinerário, por um período máximo de seis meses;\n\nd) \"Carro-piloto\" o automóvel ligeiro que tem como finalidade indicar aos utentes da via pública a circulação de um transporte excepcional;\n\ne) \"Dimensões totais\" as dimensões máximas do veículo ou do conjunto, com carga;\n\nf) \"Comprimento total\" o comprimento máximo do veículo ou do conjunto, com carga;\n\ng) \"Largura total\" a largura máxima do veículo ou do conjunto, com carga;\n\nh) \"Altura total\" a altura máxima que o veículo ou conjunto atinge, com carga, a contar do solo;\n\ni) \"Limites regulamentares\" os limites de peso, peso bruto, peso por eixo, comprimento, largura ou altura estabelecidos no regulamento previsto no n.º 1 do artigo 57.º do Código da Estrada;\n\nj) \"Transporte excepcional\" o transporte realizado em veículo ou conjunto de veículos que, em virtude do transporte de objectos indivisíveis, excede os limites regulamentares ou cuja carga excede os limites da respectiva caixa;\n\nl) \"Veículo excepcional\" o veículo ou conjunto de veículos que, por construção, excede os limites regulamentares;\n\nm) \"Ponto extremo do veículo à frente\" ponto onde um plano vertical e perpendicular ao eixo longitudinal do veículo toca a frente deste, com o veículo num pavimento horizontal;\n\nn) \"Ponto extremo do veículo à retaguarda\" ponto onde um plano vertical e perpendicular ao eixo longitudinal do veículo toca a retaguarda deste, com o veículo num pavimento horizontal.\n\n2 - Para efeitos do disposto nas alíneas m) e n) do número anterior, excluem-se os dispositivos que não são tomados em consideração na medição das dimensões, previstos na secção III do Regulamento que Fixa os Pesos e as Dimensões Máximas Autorizadas para os Veículos em Circulação, aprovado pelo [Decreto-Lei n.º 99/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2005-226235), de 21 de Junho, com as alterações introduzidas pelos Decretos-Leis n.os [131/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2006-537251), de 11 de Julho, e [203/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2007-638513), de 28 de Maio."
+  },
+  "93ddb94d71da270c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O disposto no presente Regulamento é aplicável ao trânsito na via pública de veículos ou conjuntos de veículos matriculados nos termos do artigo 117.º do Código da Estrada:\n\na) Com pesos e ou dimensões que excedam os limites regulamentares;\n\nb) Que transportem objectos indivisíveis que excedam os limites da respectiva caixa ou a altura de 4 m;\n\nc) Cujo peso bruto ou pesos por eixo, em virtude do transporte de objectos indivisíveis, excedam os limites regulamentares.\n\n2 - O disposto na presente portaria é também aplicável à circulação de máquinas agrícolas, florestais e industriais."
+  },
+  "a041167dc0deabdd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Autorizações especiais de trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Autorizações especiais de trânsito"
+  },
+  "3bf70165f36fde22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Autorizações anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Autorizações anuais"
+  },
+  "e64ae5c9e6ed0392": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Veículos sujeitos a autorização anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Veículos sujeitos a autorização anual\n\n1 - O trânsito de veículos ou conjuntos de veículos está sujeito a autorização anual sempre que estes transportem objectos indivisíveis cujas dimensões excedam os limites das respectivas caixas de carga ou a altura de 4 m a contar do solo, sem prejuízo do disposto nos artigos 9.º e 13.º\n\n2 - Os veículos excepcionais estão sujeitos a autorização anual quando não ultrapassarem as dimensões máximas fixadas para este tipo de autorização, ainda que dos respectivos documentos de identificação conste a exigência de autorização caso a caso."
+  },
+  "9ab46f5e141e19ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições para emissão de autorização anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições para emissão de autorização anual\n\n1 - Os transportes excepcionais, com autorização anual, sem prejuízo do disposto no artigo 6.º e nos números seguintes, não podem exceder qualquer das seguintes dimensões e peso:\n\na) Comprimento total: 25,25 m;\n\nb) Largura total: 4 m;\n\nc) Altura total: 4,60 m;\n\nd) Peso bruto: 60 t.\n\n2 - Pode ser emitida autorização anual a veículos de mercadorias, de caixa aberta ou estrado, se:\n\na) A caixa de carga tiver comprimento inferior a 4,50 m, não podendo o comprimento total exceder em mais de 1,50 m o comprimento do veículo, definido pelo respectivo contorno envolvente;\n\nb) A caixa de carga tiver comprimento igual ou superior a 4,50 m, não podendo:\n\ni) O comprimento total exceder em mais 7 m o comprimento do veículo, definido pelo respectivo contorno envolvente; e\n\nii) O comprimento exceder em mais de 3 m o ponto extremo do veículo à retaguarda;\n\nc) A caixa de carga tiver largura igual ou inferior a 2 m, não podendo a largura total exceder 3 m;\n\nd) A caixa de carga tiver largura superior a 2 m, não podendo a largura total exceder 3,50 m.\n\n3 - Pode ser emitida autorização anual a conjuntos de veículos se:\n\na) O objecto indivisível não exceder o ponto extremo do veículo à retaguarda em mais de 4 m, não podendo exceder o ponto extremo do veículo à frente;\n\nb) A largura total não exceder 4 m, salvo nos conjuntos veículo tractor-reboque, em que a largura total não pode exceder 3 m.\n\n4 - Para efeitos do disposto na alínea b) do número anterior, considera-se a largura de 4 m para os conjuntos de veículo tractor-reboque especialmente concebido para o transporte de objectos indivisíveis de grandes dimensões ou pesos."
+  },
+  "fd58455caefde693": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Máquinas sujeitas a autorização anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Máquinas sujeitas a autorização anual\n\n1 - O trânsito de máquinas matriculadas está sujeito a autorização anual sempre que o respectivo peso bruto seja igual ou inferior a 60 t e excedam qualquer das seguintes dimensões:\n\na) Em comprimento, 20 m;\n\nb) Em largura, 3 m;\n\nc) Em altura, 4,60 m a contar do solo.\n\n2 - O trânsito de máquinas agrícolas, florestais e industriais não matriculadas está sujeito a autorização anual, salvo se excederem o peso bruto de 40 t ou qualquer das dimensões fixadas no número anterior."
+  },
+  "9263cf1b5e3117ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Casos especiais"
+  },
+  "b97c91ec474bd564": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Pronto-socorro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pronto-socorro\n\n1 - O trânsito de veículos classificados como pronto-socorro está sujeito a autorização anual quando:\n\na) O veículo sinistrado ou avariado é rebocado e o comprimento do conjunto constituído pelo pronto-socorro e veículo rebocado excede os limites regulamentares de um conjunto composto por veículo tractor e reboque;\n\nb) O veículo sinistrado ou avariado é transportado sobre o respectivo estrado e ultrapassa o ponto extremo deste à retaguarda, não podendo, no entanto, as dimensões totais exceder qualquer dos seguintes limites:\n\ni) Em comprimento: o do veículo pronto-socorro, acrescido de 1,50 m;\n\nii) Em largura: 3,50 m;\n\niii) Em altura: 4,60 m.\n\nc) O respectivo peso bruto exceder os limites regulamentares.\n\n2 - Nas situações previstas na alínea b) do número anterior, o veículo transportado só pode exceder, em comprimento, o limite do estrado se este tiver comprimento igual ou superior a 4,50 m.\n\n3 - O trânsito de veículos a que se refere o presente artigo está sujeito apenas a autorização anual, ainda que sejam excedidas as dimensões fixadas no n.º 1 do artigo 4.º\n\n4 - O trânsito de veículos pronto-socorro, em vazio, não carece de autorização, salvo se o respectivo documento de identificação o exigir."
+  },
+  "7e9fc1a81d7a3922": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Transporte de equipamentos desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transporte de equipamentos desportivos\n\n1 - O transporte de equipamentos desportivos ou de lazer em conjunto constituído por automóvel e reboque adaptado para o efeito está sujeito a autorização anual quando:\n\na) O equipamento ultrapasse o ponto extremo do reboque, à retaguarda, em mais de 1 m, desde que o comprimento total não exceda 25 m;\n\nb) A largura total ultrapasse a largura do automóvel ou a do reboque, se esta for maior, definida pelo respectivo contorno envolvente, em mais de 0,30 m para cada lado, não excedendo 3,50 m;\n\nc) A altura total exceda 4 m, não ultrapassando 4,60 m.\n\n2 - O transporte nas condições referidas no número anterior não pode prejudicar a correcta identificação dos dispositivos de sinalização, de iluminação e da chapa de matrícula, nem o campo de visão para a retaguarda, através dos espelhos retrovisores, devendo, se necessário, ser colocados espelhos retrovisores suplementares."
+  },
+  "d715cef80560a3bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Trânsito de veículos que atrelam alfaias ou máquinas agrícolas rebocáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Trânsito de veículos que atrelam alfaias ou máquinas agrícolas rebocáveis\n\nO trânsito de veículos que, durante o período das sementeiras e das colheitas, atrelem alfaias ou máquinas agrícolas rebocáveis com largura superior a 3,50 m está sujeito a autorização anual."
+  },
+  "b4853597f2c69837": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Autorizações ocasionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Autorizações ocasionais"
+  },
+  "f74f735c144a9cec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Veículos sujeitos a autorização ocasional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Veículos sujeitos a autorização ocasional\n\n1 - O trânsito de veículos está sujeito a autorização ocasional sempre que:\n\na) As dimensões do veículo ou do conjunto excedam os limites máximos permitidos para emissão de autorização anual, quando se trate de veículo excepcional;\n\nb) As dimensões totais e ou o peso bruto do veículo ou do conjunto excedam os limites máximos permitidos para emissão de autorização anual.\n\n2 - Na situação referida na alínea b) do número anterior, o limite máximo de peso bruto permitido é o que consta no documento de identificação do veículo, não sendo necessária autorização quando o veículo circule em vazio ou com carga, desde que não sejam excedidos os limites regulamentares.\n\n3 - A autorização ocasional para o transporte de objectos indivisíveis abrange também a circulação em vazio, entre o local de parqueamento do veículo e os locais de carga e descarga."
+  },
+  "4f0ac22648bc2cc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Autorização de curta duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autorização de curta duração\n\n1 - Para os veículos ou conjuntos de veículos sujeitos a autorização ocasional podem ser emitidas autorizações de curta duração quando:\n\na) Os objectos indivisíveis transportados tenham as mesmas características;\n\nb) Os objectos indivisíveis tenham dimensões e peso iguais ou inferiores aos que constam da autorização;\n\nc) O transporte se realize no mesmo itinerário, em qualquer dos sentidos;\n\nd) O veículo ou conjunto que realiza o transporte seja o mesmo.\n\n2 - A autorização é válida por um período máximo de seis meses."
+  },
+  "84ef3f99e9dfe627": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Máquinas sujeitas a autorização ocasional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Máquinas sujeitas a autorização ocasional\n\n1 - O trânsito de máquinas matriculadas está sujeito a autorização ocasional sempre que estas excedam o peso bruto de 60 t ou qualquer das seguintes dimensões:\n\na) Em comprimento, 25,25 m;\n\nb) Em largura, 3,50 m;\n\nc) Em altura, 4,60 m a contar do solo.\n\n2 - O trânsito de máquinas agrícolas, florestais e industriais não matriculadas está sujeito a autorização ocasional sempre que estas excedam os limites máximos de peso ou dimensões permitido para emissão de autorização anual a estes veículos.\n\n3 - O trânsito de máquinas depende ainda de autorização ocasional sempre que os pesos por eixo excedam os limites regulamentares."
+  },
+  "d67d30ca1a22d362": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Trânsito de veículos que atrelam alfaias ou máquinas agrícolas rebocáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Trânsito de veículos que atrelam alfaias ou máquinas agrícolas rebocáveis\n\nO trânsito de veículos que, durante o período das sementeiras e das colheitas, atrelem alfaias ou máquinas agrícolas rebocáveis com largura superior a 4 m está sujeito a autorização ocasional."
+  },
+  "49bc59f9c9427e41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Isenções"
+  },
+  "892bf103122d15a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Veículos isentos de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Veículos isentos de autorização\n\n1 - Estão autorizados a circular na via pública, sem necessidade de qualquer das autorizações previstas no presente Regulamento:\n\na) Os automóveis de mercadorias de caixa aberta ou estrado que transportem objectos indivisíveis, desde que a carga transportada não ultrapasse, em comprimento, mais de 1 m para a frente e ou para a retaguarda os pontos extremos do veículo, nem a largura total ultrapasse a largura do automóvel, definida pelo respectivo contorno envolvente, em mais de 0,30 m para cada lado;\n\nb) Os automóveis de mercadorias de caixa aberta ou estrado que transportem palha e cortiça, desde que a carga não ultrapasse os contornos envolventes do veículo e a altura total não ultrapasse 4 m;\n\nc) Os automóveis ligeiros de caixa fechada que transportem objectos indivisíveis que, pelas suas dimensões, não se contenham na caixa do veículo, desde que não seja excedida qualquer das seguintes dimensões totais:\n\ni) Comprimento: 0,55 m para a frente e 0,45 m para a retaguarda, além dos pontos extremos do veículo;\n\nii) Largura: a do automóvel;\n\niii) Altura: 4 m;\n\nd) Os conjuntos constituídos por automóvel ligeiro e reboque adaptado para o efeito, que transportem equipamentos desportivos ou de lazer, desde que não seja excedida qualquer das seguintes dimensões totais:\n\ni) Comprimento: 1 m para a retaguarda além do ponto extremo do reboque;\n\nii) Largura: 0,30 m para cada lado, além do contorno envolvente do automóvel ou do reboque, se este for maior;\n\niii) Altura: 4 m.\n\ne) Os veículos que transportem contentores normalizados ISO de dimensão não superior a 45 pés, devidamente fixos através de sistema de fixação normalizado, não podendo exceder em comprimento e largura as dimensões do estrado, plataforma de carga ou espaço carroçável do veículo, nem exceder a altura total de 4,60 m;\n\nf) Os veículos ou conjuntos de veículos classificados como especiais para o transporte de automóveis, desde que:\n\ni) Disponham de plataforma extensível à retaguarda adaptada para o transporte de automóveis, devendo, neste caso, o último eixo do veículo transportado mais à retaguarda ficar apoiado na plataforma;\n\nii) O comprimento total não exceda o do conjunto, acrescido de 1,80 m;\n\niii) A altura não ultrapasse 4,60 m;\n\niv) A plataforma não sobressaia em relação à carga;\n\ng) Os veículos que, durante o período das sementeiras e das colheitas, atrelem alfaias ou máquinas agrícolas rebocáveis com largura igual ou inferior a 3,50 m.\n\n2 - Nos casos previstos na alínea g) do número anterior, sempre que o conjunto circule sem carga ou esta se possa conter nos limites da caixa do veículo, o conjunto não pode exceder as dimensões regulamentares."
+  },
+  "4262e0827ecf93be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Disposição da carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Disposição da carga"
+  },
+  "57678d26fc88a300": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Disposição da carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Disposição da carga\n\n1 - Na disposição do objecto indivisível deve atender-se a que aquele só ultrapasse os contornos envolventes do veículo na menor extensão possível, de forma que não constitua risco ou embaraço para os outros utentes da via nem danifique os pavimentos, instalações, obras de arte e imóveis marginais.\n\n2 - Quando o transporte excepcional for realizado num conjunto veículo tractor-reboque, o objecto indivisível transportado não pode apoiar-se simultaneamente na caixa do veículo tractor e na do reboque, salvo se se tratar de reboque especialmente concebido para o transporte de objectos indivisíveis de grandes dimensões ou pesos e desde que tal possibilidade conste da autorização."
+  },
+  "1a1162367a9caa0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Proibição de transportar carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Proibição de transportar carga\n\nAs máquinas, quando circulam na via pública, não podem transportar qualquer carga."
+  },
+  "aaf0f511d5c1e679": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Sinalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Sinalização"
+  },
+  "039c2bab64d89989": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Sinalização da carga",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sinalização da carga\n\n1 - Quando nos transportes efectuados nos termos do presente Regulamento a carga transportada ultrapasse os contornos envolventes do veículo, os limites da mesma devem ser sinalizados com luzes delimitadoras, sempre que seja obrigatória a utilização de dispositivos de sinalização luminosa e de iluminação, nos termos do artigo 61.º do Código da Estrada.\n\n2 - Sempre que a carga transportada exceda, em largura, o contorno envolvente do veículo, deve ser sinalizada com o painel P1 ou o painel P2.\n\n3 - Sempre que a carga transportada exceda, para a frente ou para a retaguarda, os pontos extremos do veículo, deve ser sinalizada com o painel P2.\n\n4 - O painel P1 ou o painel P2, quando utilizado nas condições referidas no n.º 2, deve ser colocado à frente e à retaguarda, em ambos os lados do veículo, o mais próximo possível dos limites laterais da carga e a uma altura do solo, sempre que possível, de 1,60 m, não podendo, contudo, situar-se a menos de 0,40 m ou a mais de 2,50 m.\n\n5 - O painel P2 deve ser colocado no ponto mais à frente e ou à retaguarda do objecto transportado, de forma a não prejudicar a visibilidade dos dispositivos de sinalização luminosa e de iluminação do veículo e da matrícula nem prejudicar o campo de visão do condutor.\n\n6 - Os painéis previstos nos números anteriores são constituídos por listas alternadas, de cor vermelha e branca, em material retrorreflector com as características estabelecidas no Regulamento n.º 104, da CEE/ONU, para a classe C, cujas dimensões constam do anexo I ao presente Regulamento, que dele faz parte integrante.\n\n7 - Os veículos que efectuem um transporte excepcional devem usar um ou dois painéis com a inscrição \"Transporte excepcional\" colocados no tejadilho ou noutro local bem visível em ambos os sentidos de trânsito, com dimensões mínimas de 1000 mm x 300 mm, devendo o mesmo ser retrorreflector ou possuir sistema de iluminação que deve ser utilizado sempre que, nos termos do artigo 61.º do Código da Estrada, seja obrigatório o uso de dispositivos de sinalização luminosa e de iluminação.\n\n8 - As máquinas, ainda que circulem ao abrigo do disposto no artigo 22.º, devem estar equipadas com o painel cujo modelo e características constam do anexo II ao presente Regulamento, que dele faz parte integrante."
+  },
+  "2e4a0b95d8629b10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Acompanhamento"
+  },
+  "c6be92f1608f1112": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Acompanhamento por carro-piloto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acompanhamento por carro-piloto\n\n1 - Sem prejuízo do disposto no número seguinte, o trânsito de veículos ao abrigo do presente Regulamento deve ser acompanhado por um carro-piloto, sempre que as dimensões ou dimensões totais excedam qualquer dos seguintes limites:\n\na) Em comprimento: 25,25 m;\n\nb) Em largura: 3 m.\n\n2 - Salvo em auto-estradas e vias reservadas a automóveis e motociclos, o trânsito de veículos ao abrigo do presente Regulamento deve ser acompanhado por dois carros-piloto sempre que as dimensões ou dimensões totais excedam qualquer dos seguintes limites:\n\na) Em comprimento: 30 m;\n\nb) Em largura: 4 m.\n\n3 - Quando é exigido apenas um carro-piloto, este:\n\na) Só pode fazer o acompanhamento de um único veículo ou conjunto, salvo em auto-estradas ou vias reservadas a automóveis e motociclos, caso em que o mesmo carro-piloto pode fazer o acompanhamento de dois veículos;\n\nb) Deve circular à frente do veículo acompanhado, salvo em auto-estradas ou vias reservadas a automóveis e motociclos, caso em que deve circular atrás.\n\n4 - Quando são exigidos dois carros-piloto, deve circular um à frente e outro atrás do veículo ou conjunto que acompanham.\n\n5 - Os veículos classificados como pronto-socorro estão dispensados do acompanhamento por carro-piloto."
+  },
+  "1ea0182f9cf9df27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Características do carro-piloto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Características do carro-piloto\n\n1 - O carro-piloto deve estar equipado com:\n\na) Avisadores luminosos especiais de cor amarela colocados no tejadilho;\n\nb) Marcações em material retrorreflector com as características estabelecidas no Regulamento n.º 104, da CEE/ONU, para a classe C, constituídas por listas alternadas, com largura de entre 0,10 m e 0,12 m, de cor vermelha e branca, colocadas a toda a largura do veículo, à frente e à retaguarda e ainda nos painéis laterais do veículo, conforme exemplificado nos desenhos constantes do anexo III ao presente Regulamento, que dele faz parte integrante.\n\n2 - A fim de permitir uma melhor identificação pelos demais utentes da via, é recomendável que o carro-piloto tenha cor amarela, preferencialmente dos códigos RAL 1003, 1004 ou 1023."
+  },
+  "fea64ba0ff38ac54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Acompanhamento por batedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acompanhamento por batedores\n\n1 - O trânsito de veículos ao abrigo do presente Regulamento deve ser acompanhado por um carro-piloto e por batedores da Guarda Nacional Republicana ou da Polícia de Segurança Pública quando as dimensões ou dimensões totais excedam qualquer dos seguintes limites:\n\na) Em comprimento: 32,50 m ou, quando o transporte excepcional circule em auto-estradas ou vias reservadas a automóveis e motociclos, 50 m;\n\nb) Em largura: 4,50 m;\n\nc) Em altura: 5 m.\n\n2 - Os veículos classificados como pronto-socorro estão dispensados do acompanhamento por batedores até ao limite de 34 m em comprimento."
+  },
+  "5928ae498d742813": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Restrições"
+  },
+  "87fdef2c86e4f7fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Restrições ao trânsito de automóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Restrições ao trânsito de automóveis\n\n1 - Sem prejuízo do disposto nos n.os 1 e 2 do artigo 10.º do Código da Estrada, é proibido o trânsito de veículos sujeitos a autorização especial de trânsito nos termos do presente Regulamento, nos seguintes períodos:\n\na) Das 16 às 22 horas de sextas-feiras e domingos;\n\nb) Das 16 às 22 horas de feriados nacionais e vésperas de feriados nacionais;\n\nc) Das 8 às 12 horas e das 16 às 22 horas no dia 24 de Dezembro;\n\nd) Das 8 às 12 horas no dia 26 de Dezembro;\n\ne) Das 8 às 22 horas da segunda-feira posterior ao domingo de Páscoa.\n\n2 - As restrições estabelecidas no número anterior aplicam-se em auto-estradas e vias reservadas a automóveis e motociclos, bem como em itinerários principais (IP) e itinerários complementares (IC), como tal identificados, e ainda nos seguintes troços de estradas nacionais:\n\na) Ponte sobre o Tejo, em Lisboa, e seus acessos (Lisboa - nó de Almada, na A 2) e Ponte Vasco da Gama e seus acessos;\n\nb) EN 1, entre Vila Franca de Xira e Vila Nova de Gaia (Santo Ovídio);\n\nc) EN 6, entre Lisboa e Cascais;\n\nd) EN 10, entre o Infantado e o nó de Alverca (EN 116);\n\ne) EN 12, estrada da circunvalação;\n\nf) EN 13, entre Porto e Viana do Castelo;\n\ng) EN 14, entre Porto e Braga;\n\nh) EN 15, entre Porto e Campo (A 4);\n\ni) EN 101, entre Vila Verde e Guimarães;\n\nj) EN 105, entre Porto e Alfena (ligação com o IC 24);\n\nl) EN 108, entre Gondomar (Jovim) e Porto;\n\nm) EN 125, entre Lagos e Vila Real de Santo António;\n\nn) EN 208, entre Alto da Maia e Valongo;\n\no) EN 209, entre Gondomar e Valongo;\n\np) EN 222, entre Vila Nova de Gaia e a barragem de Crestuma-Lever;\n\nq) EN 247, entre praia das Maçãs (EN 247-6) e Carvoeira.\n\n3 - As restrições previstas no presente artigo não se aplicam a veículos pronto-socorro."
+  },
+  "f903d911e59f8188": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Restrições ao trânsito de máquinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Restrições ao trânsito de máquinas\n\n1 - Sem prejuízo do disposto no artigo 22.º do presente Regulamento, bem como nos n.os 1 e 2 do artigo 10.º do Código da Estrada, é proibido o trânsito de máquinas em auto-estradas e vias reservadas a automóveis e motociclos, em itinerários principais (IP) e itinerários complementares (IC), como tal identificados, e ainda nos seguintes troços de estradas nacionais:\n\na) EN 2, entre o IP 3 e a A 25;\n\nb) EN 3, entre Santarém e a ligação ao IP 6;\n\nc) EN 101, entre Braga e a ligação ao IP 4;\n\nd) EN 102, entre a intersecção com o IP 4 e a intersecção com o IP 5;\n\ne) EN 103, entre Viana do Castelo e Braga;\n\nf) EN 205, entre o limite do distrito do Porto e Barcelos;\n\ng) Variante à EN 223, entre a A 1 e a A 29;\n\nh) Ponte sobre o Tejo, em Lisboa, e seus acessos (Lisboa - nó de Almada, na A 2) e Ponte Vasco da Gama e seus acessos.\n\n2 - É proibido o trânsito de máquinas que não possuam sistema de iluminação desde o anoitecer ao amanhecer e ainda durante o dia sempre que existam condições meteorológicas ou ambientais que tornem a visibilidade insuficiente."
+  },
+  "93d1d284d885d74a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Trânsito em auto-estradas e vias equiparadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Trânsito em auto-estradas e vias equiparadas\n\n1 - Nas auto-estradas e vias reservadas a automóveis e motociclos é proibido o trânsito de veículos cuja largura ou largura total seja superior a 4 m.\n\n2 - As máquinas cujos pesos por eixo não excedam os limites regulamentares e cujas dimensões não ultrapassem os limites referidos no n.º 1 do artigo 11.º podem circular em auto-estradas e vias reservadas a automóveis e motociclos, desde que autorizadas pelo Instituto da Mobilidade e Transportes Terrestres (IMTT, I. P.) ou, estando matriculadas, se lhes tiver sido atribuída a classe de circulação E.\n\n3 - A autorização prevista no número anterior só pode ser concedida desde que a respectiva velocidade máxima, por construção, seja igual ou superior a 70 km/h.\n\n4 - A velocidade máxima instantânea permitida para as máquinas referidas no n.º 2 é de 70 km/h."
+  },
+  "e09f08f110450860": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VIII — Situações excepcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VIII — Situações excepcionais"
+  },
+  "b40475d06673504d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Autorizações excepcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Autorizações excepcionais\n\n1 - O presidente do IMTT, I. P., pode autorizar, excepcionalmente, o trânsito de veículos sujeitos a restrições nos termos do presente Regulamento ou que não cumpram os requisitos nele exigidos quando a sua deslocação seja indispensável e urgente, atentas razões de interesse público que importe salvaguardar.\n\n2 - Para efeitos do disposto no número anterior, o IMTT, I. P., pode solicitar parecer às entidades competentes, quer quanto à indispensabilidade e urgência do transporte quer quanto ao itinerário a percorrer.\n\n3 - Quando for indispensável e urgente a deslocação de um veículo sujeito a autorização especial de trânsito nos termos do presente Regulamento, para restabelecer as condições normais de circulação na via pública, designadamente na sequência de acidente, a Guarda Nacional Republicana ou a Polícia de Segurança Pública podem autorizar a circulação do veículo, exclusivamente para aquele efeito, devendo o trânsito do mesmo ser acompanhado por batedores da força policial que autorizou a deslocação."
+  },
+  "0ec3eb805edd8b18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IX — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IX — Procedimentos"
+  },
+  "a66dd2b098d868ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Requerimento\n\n1 - O requerimento para a emissão das autorizações previstas no presente Regulamento deve ser apresentado no serviço desconcentrado do IMTT, I. P., da área da residência ou sede do requerente ou, se este não tiver residência nem sede em território nacional, em qualquer daqueles serviços.\n\n2 - Tratando-se de autorizações anuais o processo deve ser instruído com:\n\na) Fotocópias do documento de identificação do veículo e do título de registo de propriedade;\n\nb) Declaração do proprietário do veículo donde constem as dimensões efectivas da caixa do veículo, quando aplicável;\n\nc) Declaração de responsabilidade quanto às condições do transporte de carga, assinada pelo proprietário do veículo.\n\n3 - Tratando-se de autorizações ocasionais ou de curta duração o processo deve ser instruído com os documentos referidos no número anterior e ainda com:\n\na) Desenho cotado do veículo ou do conjunto veículo e carga, na escala adequada;\n\nb) Memória descritiva, indicando com rigor os locais de entrada e saída em cada via, através da indicação da designação das respectivas vias, assim como da identificação clara dos nós respectivos, seja através da sua designação e ou da localidade mais próxima e ou dos respectivos quilómetros na intersecção e ou, ainda, das coordenadas M e P do local, a qual deve ter em anexo o esquema das vias a percorrer, efectuado sobre mapa das estradas.\n\n4 - Tratando-se de autorizações emitidas nas condições referidas no n.º 3 do artigo 25.º, o processo deve ser instruído com declaração de responsabilidade assinada pelo proprietário declarando a inexistência de incompatibilidade entre os tractores e reboques ou semi-reboques.\n\n5 - Tratando-se de máquinas não matriculadas, os documentos referidos na alínea a) do n.º 2 são substituídos pelo respectivo catálogo e documento comprovativo da propriedade.\n\n6 - O IMTT, I. P., pode exigir a apresentação de outros documentos destinados a avaliar as condições de segurança da circulação dos veículos para os quais é requerida autorização.\n\n7 - O IMTT, I. P., pode dispensar a apresentação de alguns dos documentos referidos nos n.os 2 e 4, desde que os mesmos tenham sido anteriormente apresentados pelo requerente e existam nos serviços."
+  },
+  "d264aede6de591af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Condicionamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Condicionamentos\n\n1 - Das autorizações emitidas pelo IMTT, I. P., constam as condições em que é permitido o trânsito dos veículos objecto da autorização, sendo a inobservância dessas condições sancionada nos termos do disposto no artigo 58.º do Código da Estrada.\n\n2 - Sempre que for julgado conveniente, o IMTT, I. P., pode sujeitar a emissão das autorizações objecto do presente Regulamento a parecer prévio das entidades com jurisdição nas vias públicas por onde se pretende efectuar o transporte.\n\n3 - As autorizações especiais de trânsito podem permitir que o conjunto que realiza o transporte excepcional seja formado por tractores e reboques ou semi-reboques diferentes, desde que não exista incompatibilidade entre eles, devendo as respectivas matrículas, com o limite máximo de 15 tractores e 15 reboques ou semi-reboques, constar da autorização.\n\n4 - As autorizações especiais de trânsito para o transporte de objectos indivisíveis são válidas para o transporte de um único objecto, podendo, todavia, ser transportados vários objectos se, cumulativamente, se verificarem os seguintes requisitos:\n\na) Os objectos indivisíveis tiverem as mesmas características;\n\nb) Não for excedido o peso bruto regulamentar;\n\nc) Não forem excedidas as dimensões totais permitidas para o transporte do objecto de maiores dimensões.\n\n5 - Sempre que se realize um transporte excepcional com autorização ocasional ou de curta duração, o seu titular deve enviar à EP - Estradas de Portugal, E. P. E., até ao momento do início do transporte cópia da autorização especial de trânsito emitida pelo IMTT, I. P., com indicação da data e hora da realização do transporte."
+  },
+  "c515d919a33f4643": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Despachos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Despachos\n\nPor despacho do presidente do IMTT, I. P., são definidos:\n\na) O modelo de requerimento a que se refere o artigo anterior;\n\nb) Os modelos das autorizações especiais de trânsito objecto do presente Regulamento;\n\nc) O conteúdo da memória descritiva a que se refere o artigo anterior;\n\nd) As condições de aprovação dos painéis referidos no artigo 16.º"
+  },
+  "dd130fca1eb5e3fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2007/06/119000000/1763617641.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2007/06/119000000/1763617641.pdf)"
+  },
+  "b0f146be53a987e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/2s/2007/06/119000000/1763617641.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/2s/2007/06/119000000/1763617641.pdf)"
+  },
+  "bb5f25cc3d5756fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/2s/2007/06/119000000/1763617641.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/2s/2007/06/119000000/1763617641.pdf)"
+  },
+  "2f04925ed977f4e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Veículos sujeitos a autorização ocasional",
+   "in_force_from": "2021-07-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 787/2009](https://diariodarepublica.pt/dr/detalhe/portaria/787-2009-492754), publicado em 2009-07-28."
+   ],
+   "markdown": "###### Artigo 9.º — Veículos sujeitos a autorização ocasional\n\n1 - O trânsito de veículos está sujeito a autorização ocasional sempre que:\n\na) As dimensões do veículo ou do conjunto excedam os limites máximos permitidos para emissão de autorização anual, quando se trate de veículo excepcional;\n\nb) As dimensões totais e ou o peso bruto do veículo ou do conjunto excedam os limites máximos permitidos para emissão de autorização anual.\n\n2 - Na situação referida na alínea b) do número anterior, o limite máximo de peso bruto permitido é o que consta no documento de identificação do veículo, não sendo necessária autorização quando o veículo circule em vazio ou com carga, desde que não sejam excedidos os limites regulamentares.\n\n3 - A autorização ocasional para o transporte de objectos indivisíveis abrange também a circulação em vazio, entre o local de parqueamento do veículo e os locais de carga e descarga.\n\n4 - Na autorização ocasional emitida pelo IMTT, I. P., e antes da realização do transporte, o transportador inscreve a data da operação de transporte, a matrícula do veículo tractor e do reboque ou semi-reboque a utilizar e apõe a assinatura do responsável da empresa que detém poderes para a obrigar e respectivo carimbo.\n\n5 - A realização de transporte com uma autorização ocasional sem que tenham sido inscritos os dados da responsabilidade do transportador a que se refere o n.º 4 enquadra a infracção prevista no n.º 7 do artigo 58.º do Código da Estrada.\n\n> Alterado pelo/a [Portaria n.º 787/2009](https://diariodarepublica.pt/dr/detalhe/portaria/787-2009-492754), publicado em 2009-07-28."
+  },
+  "ae9df7b4b2e2211a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Autorização de curta duração",
+   "in_force_from": "2021-07-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 787/2009](https://diariodarepublica.pt/dr/detalhe/portaria/787-2009-492754), publicado em 2009-07-28."
+   ],
+   "markdown": "###### Artigo 10.º — Autorização de curta duração\n\n1 - Para os veículos ou conjuntos de veículos sujeitos a autorização ocasional podem ser emitidas autorizações de curta duração quando:\n\na) Os objectos indivisíveis transportados tenham as mesmas características;\n\nb) Os objectos indivisíveis tenham dimensões e peso iguais ou inferiores aos que constam da autorização;\n\nc) O transporte se realize no mesmo itinerário, em qualquer dos sentidos;\n\nd) (Revogada.)\n\n2 - A autorização é válida por um período máximo de seis meses.\n\n> Alterado pelo/a [Portaria n.º 787/2009](https://diariodarepublica.pt/dr/detalhe/portaria/787-2009-492754), publicado em 2009-07-28."
+  },
+  "094adcf6eeea7ebb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Sinalização da carga",
+   "in_force_from": "2021-07-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 274/2021](https://diariodarepublica.pt/dr/detalhe/portaria/274-2021-166569146), publicado em 2021-07-08."
+   ],
+   "markdown": "###### Artigo 16.º — Sinalização da carga\n\n1 - Quando nos transportes efectuados nos termos do presente Regulamento a carga transportada ultrapasse os contornos envolventes do veículo, os limites da mesma devem ser sinalizados com luzes delimitadoras, sempre que seja obrigatória a utilização de dispositivos de sinalização luminosa e de iluminação, nos termos do artigo 61.º do Código da Estrada.\n\n2 - Sempre que a carga transportada exceda, em largura, o contorno envolvente do veículo, deve ser sinalizada com o painel P1 ou o painel P2.\n\n3 - Sempre que a carga transportada exceda, para a frente ou para a retaguarda, os pontos extremos do veículo, deve ser sinalizada com o painel P2.\n\n4 - Quando a carga referida no número anterior for equipamento desportivo, pode ser sinalizada com o painel P2 ou através da utilização de uma manga elástica refletora, que revista as extremidades da frente e da retaguarda do equipamento.\n\n5 - O painel P1 ou o painel P2, quando utilizado nas condições referidas no n.º 2, deve ser colocado à frente e à retaguarda, em ambos os lados do veículo, o mais próximo possível dos limites laterais da carga e a uma altura do solo, sempre que possível, de 1,60 m, não podendo, contudo, situar-se a menos de 0,40 m ou a mais de 2,50 m.\n\n6 - O painel P2 deve ser colocado no ponto mais à frente e ou à retaguarda do objecto transportado, de forma a não prejudicar a visibilidade dos dispositivos de sinalização luminosa e de iluminação do veículo e da matrícula nem prejudicar o campo de visão do condutor.\n\n7 - Os painéis previstos nos números anteriores são constituídos por listas alternadas, de cor vermelha e branca, em material retrorreflector com as características estabelecidas no Regulamento n.º 104, da CEE/ONU, para a classe C, cujas dimensões constam do anexo I ao presente Regulamento, que dele faz parte integrante.\n\n8 - Os veículos que efectuem um transporte excepcional devem usar um ou dois painéis com a inscrição \"Transporte excepcional\" colocados no tejadilho ou noutro local bem visível em ambos os sentidos de trânsito, com dimensões mínimas de 1000 mm x 300 mm, devendo o mesmo ser retrorreflector ou possuir sistema de iluminação que deve ser utilizado sempre que, nos termos do artigo 61.º do Código da Estrada, seja obrigatório o uso de dispositivos de sinalização luminosa e de iluminação.\n\n9 - As máquinas, ainda que circulem ao abrigo do disposto no artigo 22.º, devem estar equipadas com o painel cujo modelo e características constam do anexo II ao presente Regulamento, que dele faz parte integrante.\n\n> Alterado pelo/a [Portaria n.º 274/2021](https://diariodarepublica.pt/dr/detalhe/portaria/274-2021-166569146), publicado em 2021-07-08."
+  },
+  "1f4ce9e4db38eccb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Despachos",
+   "in_force_from": "2021-07-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 274/2021](https://diariodarepublica.pt/dr/detalhe/portaria/274-2021-166569146), publicado em 2021-07-08."
+   ],
+   "markdown": "###### Artigo 26.º — Despachos\n\nPor despacho do presidente do IMTT, I. P., são definidos:\n\na) O modelo de requerimento a que se refere o artigo anterior;\n\nb) Os modelos das autorizações especiais de trânsito objecto do presente Regulamento;\n\nc) O conteúdo da memória descritiva a que se refere o artigo anterior;\n\nd) As condições de aprovação dos painéis e da manga elástica refletora referidos no artigo 16.º.\n\n> Alterado pelo/a [Portaria n.º 274/2021](https://diariodarepublica.pt/dr/detalhe/portaria/274-2021-166569146), publicado em 2021-07-08."
+  }
+ }
+}

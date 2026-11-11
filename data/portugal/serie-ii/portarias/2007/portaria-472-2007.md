@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2021-07-08'
+version_history:
+  file: portaria-472-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-06-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-07-08'
+    amending: pt:dre:492754:por
+    amending_title: Portaria n.º 787/2009; Portaria n.º 274/2021
+    changes:
+    - Altera Artigo ANEXO — Regulamento de Autorizações Especiais de Trânsito::9.º
+    - Altera Artigo ANEXO — Regulamento de Autorizações Especiais de Trânsito::10.º
+    - Altera Artigo ANEXO — Regulamento de Autorizações Especiais de Trânsito::16.º
+    - Altera Artigo ANEXO — Regulamento de Autorizações Especiais de Trânsito::26.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:08:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 787/2009; Portaria n.º
+    274/2021. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2007/portaria-472-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -329,6 +347,12 @@ b) As dimensões totais e ou o peso bruto do veículo ou do conjunto excedam os 
 
 3 - A autorização ocasional para o transporte de objectos indivisíveis abrange também a circulação em vazio, entre o local de parqueamento do veículo e os locais de carga e descarga.
 
+4 - Na autorização ocasional emitida pelo IMTT, I. P., e antes da realização do transporte, o transportador inscreve a data da operação de transporte, a matrícula do veículo tractor e do reboque ou semi-reboque a utilizar e apõe a assinatura do responsável da empresa que detém poderes para a obrigar e respectivo carimbo.
+
+5 - A realização de transporte com uma autorização ocasional sem que tenham sido inscritos os dados da responsabilidade do transportador a que se refere o n.º 4 enquadra a infracção prevista no n.º 7 do artigo 58.º do Código da Estrada.
+
+> Alterado pelo/a [Portaria n.º 787/2009](https://diariodarepublica.pt/dr/detalhe/portaria/787-2009-492754), publicado em 2009-07-28.
+
 ###### Artigo 10.º — Autorização de curta duração
 
 1 - Para os veículos ou conjuntos de veículos sujeitos a autorização ocasional podem ser emitidas autorizações de curta duração quando:
@@ -339,9 +363,11 @@ b) Os objectos indivisíveis tenham dimensões e peso iguais ou inferiores aos q
 
 c) O transporte se realize no mesmo itinerário, em qualquer dos sentidos;
 
-d) O veículo ou conjunto que realiza o transporte seja o mesmo.
+d) (Revogada.)
 
 2 - A autorização é válida por um período máximo de seis meses.
+
+> Alterado pelo/a [Portaria n.º 787/2009](https://diariodarepublica.pt/dr/detalhe/portaria/787-2009-492754), publicado em 2009-07-28.
 
 ###### Artigo 11.º — Máquinas sujeitas a autorização ocasional
 
@@ -425,15 +451,19 @@ As máquinas, quando circulam na via pública, não podem transportar qualquer c
 
 3 - Sempre que a carga transportada exceda, para a frente ou para a retaguarda, os pontos extremos do veículo, deve ser sinalizada com o painel P2.
 
-4 - O painel P1 ou o painel P2, quando utilizado nas condições referidas no n.º 2, deve ser colocado à frente e à retaguarda, em ambos os lados do veículo, o mais próximo possível dos limites laterais da carga e a uma altura do solo, sempre que possível, de 1,60 m, não podendo, contudo, situar-se a menos de 0,40 m ou a mais de 2,50 m.
+4 - Quando a carga referida no número anterior for equipamento desportivo, pode ser sinalizada com o painel P2 ou através da utilização de uma manga elástica refletora, que revista as extremidades da frente e da retaguarda do equipamento.
 
-5 - O painel P2 deve ser colocado no ponto mais à frente e ou à retaguarda do objecto transportado, de forma a não prejudicar a visibilidade dos dispositivos de sinalização luminosa e de iluminação do veículo e da matrícula nem prejudicar o campo de visão do condutor.
+5 - O painel P1 ou o painel P2, quando utilizado nas condições referidas no n.º 2, deve ser colocado à frente e à retaguarda, em ambos os lados do veículo, o mais próximo possível dos limites laterais da carga e a uma altura do solo, sempre que possível, de 1,60 m, não podendo, contudo, situar-se a menos de 0,40 m ou a mais de 2,50 m.
 
-6 - Os painéis previstos nos números anteriores são constituídos por listas alternadas, de cor vermelha e branca, em material retrorreflector com as características estabelecidas no Regulamento n.º 104, da CEE/ONU, para a classe C, cujas dimensões constam do anexo I ao presente Regulamento, que dele faz parte integrante.
+6 - O painel P2 deve ser colocado no ponto mais à frente e ou à retaguarda do objecto transportado, de forma a não prejudicar a visibilidade dos dispositivos de sinalização luminosa e de iluminação do veículo e da matrícula nem prejudicar o campo de visão do condutor.
 
-7 - Os veículos que efectuem um transporte excepcional devem usar um ou dois painéis com a inscrição "Transporte excepcional" colocados no tejadilho ou noutro local bem visível em ambos os sentidos de trânsito, com dimensões mínimas de 1000 mm x 300 mm, devendo o mesmo ser retrorreflector ou possuir sistema de iluminação que deve ser utilizado sempre que, nos termos do artigo 61.º do Código da Estrada, seja obrigatório o uso de dispositivos de sinalização luminosa e de iluminação.
+7 - Os painéis previstos nos números anteriores são constituídos por listas alternadas, de cor vermelha e branca, em material retrorreflector com as características estabelecidas no Regulamento n.º 104, da CEE/ONU, para a classe C, cujas dimensões constam do anexo I ao presente Regulamento, que dele faz parte integrante.
 
-8 - As máquinas, ainda que circulem ao abrigo do disposto no artigo 22.º, devem estar equipadas com o painel cujo modelo e características constam do anexo II ao presente Regulamento, que dele faz parte integrante.
+8 - Os veículos que efectuem um transporte excepcional devem usar um ou dois painéis com a inscrição "Transporte excepcional" colocados no tejadilho ou noutro local bem visível em ambos os sentidos de trânsito, com dimensões mínimas de 1000 mm x 300 mm, devendo o mesmo ser retrorreflector ou possuir sistema de iluminação que deve ser utilizado sempre que, nos termos do artigo 61.º do Código da Estrada, seja obrigatório o uso de dispositivos de sinalização luminosa e de iluminação.
+
+9 - As máquinas, ainda que circulem ao abrigo do disposto no artigo 22.º, devem estar equipadas com o painel cujo modelo e características constam do anexo II ao presente Regulamento, que dele faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 274/2021](https://diariodarepublica.pt/dr/detalhe/portaria/274-2021-166569146), publicado em 2021-07-08.
 
 #### SECÇÃO VI — Acompanhamento
 
@@ -633,7 +663,9 @@ b) Os modelos das autorizações especiais de trânsito objecto do presente Regu
 
 c) O conteúdo da memória descritiva a que se refere o artigo anterior;
 
-d) As condições de aprovação dos painéis referidos no artigo 16.º
+d) As condições de aprovação dos painéis e da manga elástica refletora referidos no artigo 16.º.
+
+> Alterado pelo/a [Portaria n.º 274/2021](https://diariodarepublica.pt/dr/detalhe/portaria/274-2021-166569146), publicado em 2021-07-08.
 
 ## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/2s/2007/06/119000000/1763617641.pdf)
 

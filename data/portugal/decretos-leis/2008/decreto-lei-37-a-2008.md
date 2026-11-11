@@ -40,10 +40,39 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-06-21'
+version_history:
+  file: decreto-lei-37-a-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-03-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-06-21'
+    amending: pt:dre:605545:por
+    amending_title: Decreto-Lei n.º 66/2009; Decreto-Lei n.º 69/2010
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 18.º
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 16.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/37-a/2008/03/05/p/dre/pt/html
@@ -69,7 +98,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:05:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 66/2009; Decreto-Lei
+    n.º 69/2010. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2008/decreto-lei-37-a-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -197,13 +227,19 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objecto
 
-O presente decreto-lei estabelece as regras gerais de aplicação dos programas de desenvolvimento rural, adoptados no âmbito do Plano Estratégico Nacional (PEN) para o período de 2007 a 2013:
+1 - O presente decreto-lei estabelece as regras gerais de aplicação dos programas de desenvolvimento rural, adoptados no âmbito do Plano Estratégico Nacional (PEN) para o período de 2007 a 2013:
 
 a) O Programa de Desenvolvimento Rural do Continente, adiante designado por PRODER, com incidência territorial correspondente ao território continental;
 
 b) O Programa de Desenvolvimento Rural dos Açores, adiante designado por PRORURAL, com incidência territorial correspondente ao território da Região Autónoma dos Açores;
 
 c) O Programa de Desenvolvimento Rural da Madeira, adiante designado por PRODERAM, com incidência territorial correspondente ao território da Região Autónoma da Madeira.
+
+d) O Programa para a Rede Rural Nacional, adiante designado por PRRN, com incidência territorial nacional.
+
+2 - No que se refere ao PRRN, aplicam-se as regras estabelecidas no presente diploma, com as necessárias adaptações.
+
+> Alterado pelo/a [Decreto-Lei n.º 69/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2010-335686), publicado em 2010-06-16.
 
 ###### Artigo 2.º — Regime aplicável
 
@@ -247,13 +283,13 @@ n) «Decisão de aprovação» o acto através do qual se verifica o cumprimento
 
 o) «Pedido de pagamento» o pedido apresentado por um beneficiário com vista a um pagamento pelas autoridades nacionais;
 
-p) «Autorização de despesa» a autorização emitida pela autoridade de gestão, após verificação da elegibilidade da despesa relativa a um pedido de pagamento e comunicada ao organismo competente para efeitos de pagamento ao beneficiário;
+p) 'Autorização de despesa' o acto realizado após verificação da elegibilidade e validação da despesa relativa a um pedido de pagamento cuja dotação foi previamente confirmada pela autoridade de gestão;
 
-q) «Pagamento a título compensatório» o pagamento realizado ao beneficiário mediante verificação do respeito pelos seus compromissos ou nos termos previstos no 2.º parágrafo do n.º 1 do artigo 9.º do Regulamento (CE) n.º [1975/2006](https://data.europa.eu/eli/reg/2006/1975/oj?locale=pt), da Comissão, de 7 de Dezembro, e que não envolve a apresentação, pelo beneficiário, de documentos comprovativos de despesa;
+q) 'Pagamento a título compensatório' o pagamento realizado ao beneficiário mediante verificação do respeito pelos seus compromissos ou nos termos previstos no 2.º parágrafo do n.º 1 do artigo 9.º do Regulamento (CE) n.º 1975/2006, da Comissão, de 7 de Dezembro, após emissão de autorização de pagamento, e que não envolve a apresentação de documentos comprovativos da despesa;
 
-r) «Pagamento a título de adiantamento» o pagamento realizado ao beneficiário nos termos previstos no artigo 56.º do Regulamento (CE) n.º [1974/2006](https://data.europa.eu/eli/reg/2006/1974/oj?locale=pt), da Comissão, de 15 de Dezembro;
+r) 'Pagamento a título de adiantamento' o pagamento realizado ao beneficiário nos termos previstos no artigo 56.º do Regulamento (CE) n.º 1974/2006, da Comissão, de 15 de Dezembro, após emissão de autorização de pagamento;
 
-s) «Pagamento a título de reembolso» o pagamento realizado ao beneficiário mediante autorização de despesa emitida após verificação do respeito dos critérios de elegibilidade e que envolve a apresentação, pelo beneficiário, de documentos comprovativos da despesa realizada e paga;
+s) 'Pagamento a título de reembolso' o pagamento realizado ao beneficiário mediante autorização de pagamento e que envolve a apresentação pelo beneficiário de documentos comprovativos da despesa realizada e paga;
 
 t) «Controlos administrativos» a verificação do respeito dos critérios de elegibilidade dos pedidos de apoio e de pagamento que incide em todos os elementos relativos aos beneficiários e às operações que seja possível e adequado controlar por meios administrativos, nos termos previstos nos artigos 11.º e 26.º do Regulamento (CE) n.º [1975/2006](https://data.europa.eu/eli/reg/2006/1975/oj?locale=pt), da Comissão, de 7 de Dezembro;
 
@@ -268,6 +304,10 @@ z) «Irregularidade» qualquer violação de uma disposição de direito comunit
 aa) «Indicadores de realização» os indicadores que medem as actividades directamente realizadas no âmbito dos PDR, actividades estas que constituem a primeira etapa para a realização dos objectivos operacionais da intervenção e são medidas em unidades físicas ou monetárias;
 
 ab) «Indicadores de resultado» os indicadores que medem os efeitos directos e imediatos da intervenção fornecendo informações sobre as alterações, designadamente, no comportamento, na capacidade ou no desempenho dos beneficiários, e são medidos em termos físicos ou monetários.
+
+ac) 'Autorização de pagamento' o acto realizado após a autorização de despesa e a verificação das condições requeridas para a emissão dos meios de pagamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2009-605545), publicado em 2009-03-20.
 
 ###### Artigo 4.º — Regulamentos específicos
 
@@ -297,13 +337,17 @@ j) Os procedimentos para a análise e decisão dos pedidos de apoio, incluindo r
 
 l) As reduções e exclusões aplicáveis.
 
-3 - No caso do PRODER, os regulamentos específicos são aprovados por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta da respectiva autoridade de gestão.
+3 - Nos casos do PRODER e do PRRN, os regulamentos específicos são aprovados por portaria do membro do Governo responsável pela área da agricultura.
 
 4 - Nos casos do PRORURAL e do PRODERAM, os regulamentos específicos são aprovados, respectivamente, em diplomas próprios dos Governos Regionais dos Açores ou da Madeira, sob proposta das respectivas autoridades de gestão.
 
 5 - Sem prejuízo do disposto nos n.os 3 e 4, as autoridades de gestão submetem a parecer do Instituto de Gestão do Fundo Social Europeu (IGFSE), I. P., as propostas de regulamentos específicos que prevejam o financiamento de tipologias de operações de natureza idêntica às abrangidas pelo âmbito de aplicação do artigo 3.º do Regulamento (CE) n.º [1081/2006](https://data.europa.eu/eli/reg/2006/1081/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de Julho.
 
 6 - Sem prejuízo do disposto no n.º 3, o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas submete a parecer da Comissão de Coordenação Estratégica Interministerial as propostas de regulamentos específicos quando o seu objecto seja susceptível de implicar com os domínios para os quais é necessário assegurar a demarcação de elegibilidades relativamente aos apoios dos programas co-financiados pelo FEDER e Fundo de Coesão do QREN ou com os domínios transversais do ambiente, da conservação da natureza e da biodiversidade, do ordenamento do território e do desenvolvimento regional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2009-605545), publicado em 2009-03-20.
+
+> Alterado pelo/a [Decreto-Lei n.º 69/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2010-335686), publicado em 2010-06-16.
 
 ###### Artigo 5.º — Orientações técnicas
 
@@ -327,9 +371,13 @@ a) Submissão dos pedidos de apoio em períodos definidos;
 
 b) Submissão por concurso.
 
+c) Submissão em contínuo.
+
 3 - Sempre que a modalidade de submissão por concurso seja adoptada, as autoridades de gestão devem divulgar, com a antecedência prevista nos regulamentos específicos, as características principais dos concursos que tencionam lançar e o calendário programado para o respectivo lançamento.
 
 4 - Os avisos de abertura dos concursos são aprovados pelas autoridades de gestão.
+
+> Alterado pelo/a [Decreto-Lei n.º 69/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2010-335686), publicado em 2010-06-16.
 
 ###### Artigo 7.º — Selecção dos pedidos de apoio
 
@@ -369,7 +417,9 @@ j) Montante da participação do beneficiário no custo elegível da operação 
 
 l) Explicitação das fontes de financiamento comunitário e nacional e respectivas taxas de comparticipação.
 
-3 - As alterações aos elementos constantes das alíneas a), h), i) e j) do número anterior, quer sejam anteriores ou posteriores à celebração do contrato de financiamento, devem dar origem a nova decisão de aprovação.
+3 - As alterações aos elementos constantes das alíneas a) e i) do número anterior, quer sejam anteriores ou posteriores à celebração do contrato de financiamento, devem dar origem a nova decisão de aprovação.
+
+> Alterado pelo/a [Decreto-Lei n.º 69/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2010-335686), publicado em 2010-06-16.
 
 ###### Artigo 9.º — Obrigações dos beneficiários
 
@@ -389,7 +439,9 @@ f) Dispor de um processo relativo à operação, com toda a documentação relac
 
 g) Proceder à reposição dos montantes objecto de correcção financeira decididos pelas entidades competentes, nos termos definidos pelas mesmas e que constarão, discriminadamente, da notificação formal da constituição de dívida;
 
-h) Cumprir os normativos nacionais e comunitários em matéria de ambiente, higiene e bem-estar animal.
+h) Cumprir as disposições nacionais e comunitárias aplicáveis em matéria de ambiente, higiene e bem-estar animal, aplicáveis ao investimento.
+
+> Alterado pelo/a [Decreto-Lei n.º 69/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2010-335686), publicado em 2010-06-16.
 
 ### CAPÍTULO III — Contratação
 
@@ -401,7 +453,7 @@ h) Cumprir os normativos nacionais e comunitários em matéria de ambiente, higi
 
 3 - Em regulamento específico são previstas as situações em que o contrato de financiamento pode ser substituído por um termo de aceitação.
 
-4 - Os contratos de financiamento são celebrados de acordo com modelos aprovados pela autoridade de gestão, deles devendo constar, para além dos elementos indicados no n.º 2 do artigo 8.º, os seguintes elementos:
+4 - Os contratos de financiamento, para além dos elementos indicados no n.º 2 do artigo 8.º, devem conter os seguintes elementos:
 
 a) Os objectivos, prazos de realização da operação e os indicadores de realização e resultado, quando aplicável, a alcançar pela operação;
 
@@ -413,7 +465,7 @@ d) Os prazos de pagamento ao beneficiário;
 
 e) O conteúdo e a periodicidade dos relatórios de execução da operação a apresentar pelo beneficiário à outra parte contratante ou à autoridade de gestão, quando aplicável;
 
-f) A obrigação de o beneficiário efectuar todos os pagamentos relativo à operação através de transferência bancária e, excepcionalmente, por cheque, até ao montante máximo previsto em regulamento específico;
+f) A obrigação de o beneficiário efectuar todos os pagamentos relativos à operação através de transferência bancária, por débito em conta ou por cheque, nos termos previstos em regulamento específico;
 
 g) A especificação das consequências de eventuais incumprimentos, incluindo a rescisão;
 
@@ -427,6 +479,8 @@ j) A obrigação por parte do beneficiário de cumprir as disposições que se l
 
 6 - A não devolução do contrato no prazo referido no número anterior determina a caducidade da decisão de aprovação quando não tenha sido apresentada uma justificação pelo beneficiário ou esta não tenha sido aceite pela autoridade de gestão.
 
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2009-605545), publicado em 2009-03-20.
+
 ###### Artigo 11.º — Resolução, modificação e denúncia do contrato
 
 1 - O incumprimento das obrigações legais ou contratuais do beneficiário por facto que lhe seja imputável, a verificação de qualquer irregularidade, bem como a inexistência ou a perda de qualquer dos requisitos de concessão do apoio podem determinar a resolução unilateral do contrato.
@@ -439,7 +493,9 @@ j) A obrigação por parte do beneficiário de cumprir as disposições que se l
 
 5 - A reposição de quantias devidas nos termos dos números anteriores é realizada pelo beneficiário no prazo de 30 dias contados da data da notificação, findo o qual são devidos juros de mora sobre o montante devido.
 
-6 - Os termos e efeitos da resolução, da modificação ou da denúncia do contrato, designadamente, a obrigação de reposição de quantias já pagas ao beneficiário, são objecto de decisão da autoridade de gestão, sob proposta da entidade contratante.
+6 - Sem prejuízo do disposto no n.º 4 do artigo 16.º do presente decreto-lei, os termos e efeitos da resolução, da modificação ou da denúncia do contrato, designadamente a obrigação de reposição de quantias já pagas ao beneficiário, são objecto de decisão da autoridade de gestão, sob proposta da entidade contratante.
+
+> Alterado pelo/a [Decreto-Lei n.º 69/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2010-335686), publicado em 2010-06-16.
 
 ### CAPÍTULO IV — Financiamento
 
@@ -449,7 +505,7 @@ j) A obrigação por parte do beneficiário de cumprir as disposições que se l
 
 2 - Compete ao IFAP, I. P.:
 
-a) Efectuar pagamentos directos aos beneficiários, a título de adiantamento, de reembolso ou compensatório, executando autorizações de despesa emitidas pela autoridade de gestão, sem prejuízo do disposto no n.º 3;
+a) Efectuar pagamentos directos aos beneficiários, a título de adiantamento, de reembolso ou compensatório, após ter emitido a respectiva autorização de despesa, sem prejuízo do disposto no número seguinte;
 
 b) Efectuar transferências para as entidades mencionadas no n.º 3, nos termos definidos no protocolo referido no mesmo número;
 
@@ -461,25 +517,23 @@ e) Organizar e manter actual o registo de dívidas aos PDR;
 
 f) Definir as suas necessidades em matéria de informação a transmitir para o seu sistema de informação pelas autoridades de gestão.
 
-3 - Nos termos do n.º 4 do artigo 17.º do Decreto-Lei n.º 2/2008, de 4 de Janeiro, a competência para o pagamento directo aos beneficiários, a título de adiantamento, de reembolso, ou compensatório, bem como a competência para a promoção dos actos de natureza administrativa e judicial necessários à recuperação de verbas indevidamente pagas, podem ser cometidas aos órgãos das administrações regionais dos Açores e da Madeira, mediante protocolo a estabelecer, para cada PDR, entre o IFAP, I. P., a respectiva autoridade de gestão e aqueles órgãos ou entre o IFAP, I. P., e a respectiva autoridade de gestão, se aquela competência lhe for delegada, e que incluirá o regime de fluxos financeiros aplicável.
+3 - Nos termos do n.º 4 do artigo 17.º do Decreto-Lei n.º 2/2008, de 4 de Janeiro, a competência para emitir autorizações de pagamento, para efectuar pagamentos directos aos beneficiários, a título de adiantamento, de reembolso ou compensatório, bem como a competência para a promoção de actos de natureza administrativa e judicial necessários à recuperação de verbas indevidamente pagas, podem ser cometidas aos órgãos das administrações regionais dos Açores e da Madeira, mediante protocolo a estabelecer, para cada PDR, entre o IFAP, I. P., a respectiva autoridade de gestão, se aquela competência lhe for delegada, e que inclui o regime de fluxos financeiros aplicável.
 
 4 - O IFAP, I. P., é responsável pelo reembolso ao orçamento geral das Comunidades Europeias, nos termos previstos na regulamentação comunitária, designadamente no Regulamento (CE) n.º [1290/2005](https://data.europa.eu/eli/reg/2005/1290/oj?locale=pt), do Conselho, de 21 de Junho.
 
-5 - Compete às autoridades de gestão:
-
-a) Verificar a elegibilidade das despesas apresentadas pelos beneficiários, de acordo com as regras gerais de elegibilidade, os regulamentos específicos dos PDR e as condições específicas de cada operação;
-
-b) Validar a despesa e emitir autorizações de despesa para posterior pagamento aos beneficiários pelas entidades competentes e determinar os montantes a recuperar;
-
-c) Assegurar o registo, nos sistemas de informação dos PDR, dos dados referentes à validação da despesa, às autorizações de despesa e aos montantes a recuperar, devendo salvaguardar a compatibilidade e a transferência automática de dados para o sistema de informação do IFAP, I. P.
+5 - (Revogado.)
 
 6 - Compete conjuntamente ao IFAP, I. P., às autoridades de gestão e às entidades referidas no n.º 3 assegurar que os beneficiários recebem os montantes de financiamento público a que têm direito no mais curto prazo possível, não podendo ser aplicada nenhuma dedução, retenção ou encargo ulterior específico que tenha por efeito reduzir esses montantes, sem prejuízo de compensação de créditos e das normas comunitárias e nacionais relativas à elegibilidade.
 
-7 - A execução dos pagamentos aos beneficiários é realizada após a emissão da respectiva autorização de despesa ou verificação do respeito pelos compromissos, nos prazos definidos em regulamento específico, desde que existam disponibilidades de tesouraria e não tenha ocorrido nenhuma decisão de suspensão dos pagamentos aos beneficiários ou das transferências previstas na alínea b) do n.º 2.
+7 - A execução dos pagamentos aos beneficiários é realizada após a verificação do respeito pelos compromissos e a emissão da respectiva autorização de pagamento, nos prazos definidos em regulamento específico, desde que existam disponibilidades de tesouraria e não tenha ocorrido nenhuma decisão de suspensão dos pagamentos aos beneficiários ou das transferências previstas na alínea b) do n.º 2.
 
-8 - Os beneficiários apresentam os seus pedidos de pagamento à autoridade de gestão do PDR no âmbito do qual as correspondentes operações foram aprovadas, de acordo com o que nesta matéria for definido em regulamento específico.
+8 - Os beneficiários apresentam os seus pedidos de pagamento ao IFAP, I. P., de acordo com o que nesta matéria for definido em regulamento específico.
 
 9 - Por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, podem ser definidas normas complementares ao disposto no presente artigo a observar no âmbito dos circuitos financeiros entre o organismo pagador, as autoridades de gestão, as entidades referidas no n.º 3 e os beneficiários.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2009-605545), publicado em 2009-03-20.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2009-605545), publicado em 2009-03-20.
 
 ###### Artigo 13.º — Execução fiscal
 
@@ -505,13 +559,15 @@ c) Assegurar o registo, nos sistemas de informação dos PDR, dos dados referent
 
 ###### Artigo 15.º — Realização dos controlos
 
-1 - As autoridades de gestão dos PDR são responsáveis pela realização dos controlos administrativos e in loco e dos controlos no âmbito do sistema de supervisão dos grupos de acção local, sem prejuízo da delegação destas funções noutros organismos.
+1 - As autoridades de gestão dos PDR são responsáveis pela realização dos controlos administrativos dos pedidos de apoio e dos controlos no âmbito do sistema de supervisão dos grupos de acção local, sem prejuízo da delegação destas funções noutros organismos.
 
 2 - Os organismos especializados de controlo responsáveis pelo controlo da condicionalidade, definidos na legislação aplicável, são responsáveis pela realização dos controlos in loco específicos da condicionalidade.
 
 3 - A Inspecção-Geral da Agricultura e Pescas, do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, é responsável pela realização dos controlos ex-post, podendo ser cometida, mediante protocolo, a organismos com funções de inspecção a designar pelos Governos Regionais dos Açores e da Madeira.
 
 4 - A realização de controlos in loco e ex-post pode ser feita com recurso à contratação de serviços de auditoria externa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2009-605545), publicado em 2009-03-20.
 
 ###### Artigo 16.º — Exclusões e reduções
 
@@ -521,9 +577,11 @@ c) Assegurar o registo, nos sistemas de informação dos PDR, dos dados referent
 
 3 - As reduções e exclusões previstas no n.º 1 são aplicáveis sem prejuízo de outras estipulações fixadas em regulamento específico.
 
-4 - A decisão de aplicação de reduções e exclusões compete às autoridades de gestão.
+4 - A decisão de aplicação de reduções e exclusões compete ao IFAP, I. P., ouvida a autoridade de gestão.
 
 5 - Nos termos do n.º 4 do artigo 17.º do Decreto-Lei n.º 2/2008, de 4 de Janeiro, a competência para a promoção dos actos de natureza administrativa e judicial necessários à aplicação de reduções e exclusões pode ser cometida em órgãos das administrações regionais dos Açores e da Madeira, mediante protocolo a estabelecer, para cada PDR, entre o IFAP, I. P., a respectiva autoridade de gestão e aqueles órgãos ou entre o IFAP, I. P., e a respectiva autoridade de gestão, se aquela competência lhe for delegada.
+
+> Alterado pelo/a [Decreto-Lei n.º 69/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2010-335686), publicado em 2010-06-16.
 
 ### CAPÍTULO VI — Informação
 
@@ -539,15 +597,15 @@ c) Assegurar o registo, nos sistemas de informação dos PDR, dos dados referent
 
 a) O sistema de controlo interno do respectivo PDR;
 
-b) Os procedimentos e as verificações administrativas, físicas e documentais realizadas para avaliar a conformidade dos pedidos de apoio e de pagamento dos beneficiários;
+b) Os procedimentos e as verificações administrativas, físicas e documentais realizadas para avaliar a conformidade dos pedidos de apoio dos beneficiários;
 
-c) Os controlos realizados;
+c) Os controlos administrativos dos pedidos de apoio e os controlos no âmbito do sistema de supervisão dos grupos de acção local;
 
 d) As irregularidades detectadas e as medidas adoptadas;
 
-e) O cumprimento das recomendações decorrentes de acções de controlo;
+e) (Revogada.)
 
-f) Todas as informações relevantes sobre as dívidas ao PDR;
+f) (Revogada.)
 
 g) As previsões de execução da despesa ou outras situações relevantes que permitam habilitar o IFAP, I. P., a:
 
@@ -556,6 +614,12 @@ i) Enviar à Comissão Europeia as previsões das declarações de despesa, em c
 ii) Antecipar eventuais atrasos com consequências em termos de anulação automática de autorizações orçamentais da Comissão Europeia ou outras situações que justifiquem propostas de revisão e alteração dos PDR.
 
 2 - A prestação das informação a que se refere o número anterior deve obedecer a modelos padronizados, calendários e especificações técnicas definidos pelo IFAP, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2009-605545), publicado em 2009-03-20.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2009-605545), publicado em 2009-03-20.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2009-605545), publicado em 2009-03-20.
 
 ### CAPÍTULO VII — Disposições finais
 

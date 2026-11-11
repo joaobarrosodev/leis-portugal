@@ -1,0 +1,541 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:393411:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-02-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "02cc072cfae2cfe7",
+    "53c2d93e82cd398b",
+    "6a43861be7f30d8f",
+    "c6ca2201f2576dd6",
+    "daa8d324570a137f",
+    "67820fd9492eb624",
+    "ef50887f9ec5c16a",
+    "3cee30647c1061d5",
+    "da5fe80bb658ecdf",
+    "b6c827fddef8cad2",
+    "d4fa19ce8526b06f",
+    "a7d6d22d08d2131c",
+    "820a75e47e28e9e1",
+    "a2ac8a68ae5cfe10",
+    "a3284e501e51241d",
+    "52a993083cb9950c",
+    "ad6a89d05c78a4d0",
+    "8f40d7eef8f42a9c",
+    "15d78e48f98ff59d",
+    "7d40648b129ce1e9",
+    "3aa79dc9c5c0d2ce",
+    "846eddba47e4fe12",
+    "d20cb92fd4083548",
+    "88a350adb03dfed4",
+    "dc14fa335025ed01",
+    "6ff66ac550aa36a0",
+    "f67506895218796a",
+    "2e276b118b42f089",
+    "eb4c4f6638f6f84c",
+    "b972befd141308bd"
+   ]
+  },
+  {
+   "date": "1979-05-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:382641:por",
+     "title": "Decreto-Lei n.º 139/79",
+     "published": "1979-05-19",
+     "dre_path": "/dr/detalhe/decreto-lei/139-1979-382641"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "02cc072cfae2cfe7",
+    "53c2d93e82cd398b",
+    "7cdd6eb34f192e39",
+    "2a6c5289055c0a7d",
+    "6259322029d660eb",
+    "7e7824b73a6e93ab",
+    "3d4099f23066b8ba",
+    "3cee30647c1061d5",
+    "75d8ecc1c7a5e36c",
+    "9f4d0e8f9a229c8e",
+    "c4f8a8f2581aebed",
+    "aa8eaa49f9524516",
+    "12a9c3ba2f49255b",
+    "1adece2c1cc4391a",
+    "fa1868625f5d8e40",
+    "35658579a41d6d0f",
+    "ad6a89d05c78a4d0",
+    "4332a0e9781754e6",
+    "fed623596b6ac699",
+    "7d40648b129ce1e9",
+    "bf1a97bf67ffa8d6",
+    "3cbb4b4ddb4d5ba0",
+    "e54728ca1472fdcd",
+    "933aedf333537799",
+    "f969c94567caeb27",
+    "48ae81314efe9f06",
+    "301869192dc0101d",
+    "57b82e426fd386b6",
+    "135340f221ecd7ee",
+    "f79f0bd9c5b78a80"
+   ]
+  }
+ ],
+ "fragments": {
+  "02cc072cfae2cfe7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Fevereiro\n\nComo medida vocacionada à institucionalização do sistema unificado da segurança social, o [Decreto-Lei n.º 17/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1977-492465), de 12 de Janeiro, criou o Instituto de Gestão Financeira da Segurança Social, na dependência da Secretaria de Estado da Segurança Social, responsabilizando-o pela gestão dos meios financeiros das instituições de segurança social, através do acompanhamento e avaliação orçamentais e elaboração da conta anual da Segurança Social.\n\nDefinido posteriormente um conjunto de normas referentes às atribuições, organização e competência do Instituto - [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril -,ficou por traçar um regime do pessoal a integrar no quadro do mesmo Instituto, de aplicação generalizada.\n\nO [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729) afecta ao Instituto pessoal da Direcção-Geral da Previdência, da Caixa Nacional de Pensões, da Federação das Caixas de Previdência e Abono de Família e, eventualmente, de outras instituições de previdência.\n\nA fim de evitar os efeitos gravosos que necessariamente resultarão das diferenças de estatutos e de regimes jurídicos do pessoal referido, entende-se ser necessária a consagração de um regime unificado de pessoal, atinente ao melhor aproveitamento dos recursos humanos existentes, sem prejuízo dos direitos adquiridos, particularmente no que respeita às categorias profissionais e condições de acesso. Esse regime será, necessariamente, o da função pública.\n\nEsta preocupação passa pela reclassificação do pessoal, pela sua redistribuição pelas diversas categorias integradoras do quadro do Instituto e implica a adopção de normas excepcionais em relação às primeiras nomeações e condições de acesso do mesmo pessoal.\n\nEste reforço pontual relativo ao pessoal do Instituto situa-se no quadro mais vasto da integração de todo o pessoal das instituições de previdência social no funcionalismo público, meta para que aponta o espírito do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro.\n\nA necessária prossecução do interesse público em causa impõe que se avance numa experiência que poderá ser paradigma.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "53c2d93e82cd398b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições comuns"
+  },
+  "6a43861be7f30d8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — (Classificação do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — (Classificação do pessoal)\n\nO pessoal do Instituto de Gestão Financeira da Segurança Social, adiante designado por Instituto, agrupa-se de harmonia com a classificação seguinte:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico;\n\nd) Pessoal técnico-profissional e administrativo;\n\ne) Pessoal operário e auxiliar."
+  },
+  "c6ca2201f2576dd6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — (Quadro do pessoal e remunerações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — (Quadro do pessoal e remunerações)\n\nO quadro do pessoal do Instituto e respectivas remunerações constam do mapa anexo a este diploma, do qual fica a constituir parte integrante."
+  },
+  "daa8d324570a137f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — (Provimento do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — (Provimento do pessoal)\n\n1 - O provimento do pessoal dos quadros do Instituto será feito por nomeação, salvos os casos de provimento por contrato, nos termos da lei geral.\n\n2 - O provimento por nomeação, nos termos do número anterior, terá carácter provisório durante o período de um ano, findo o qual o funcionário será nomeado definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, em caso contrário.\n\n3 - Quando o provimento referido no número anterior recair em funcionários provenientes de outros departamentos do Estado, o tempo de serviço neles prestado em lugar da mesma carreira contará para efeitos de nomeação definitiva no Instituto."
+  },
+  "67820fd9492eb624": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — (Admissão de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — (Admissão de pessoal)\n\nO provimento nos lugares de ingresso far-se-á segundo a seguinte ordem de prioridades:\n\na) De entre o pessoal do quadro do Instituto;\n\nb) De entre o pessoal integrado em qualquer dos quadros do Ministério dos Assuntos Sociais;\n\nc) De entre indivíduos não abrangidos pelas alíneas anteriores, quando subsistam vagas."
+  },
+  "ef50887f9ec5c16a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — (Regime do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — (Regime do pessoal)\n\nO pessoal do quadro do Instituto ficará submetido ao estatuto em vigor para o funcionalismo público, incluindo o da aposentação."
+  },
+  "3cee30647c1061d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Ingresso e provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Ingresso e provimento"
+  },
+  "da5fe80bb658ecdf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — (Pessoal dirigente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — (Pessoal dirigente)\n\n1 - a) Os lugares de director e de subdirector deverão ser providos, por escolha, respectivamente, do Ministro dos Assuntos Sociais e do Secretário de Estado da Segurança Social, de entre indivíduos habilitados com curso superior, em regime de comissão de serviço, por tempo indeterminado;\n\nb) Os lugares de director de serviços deverão ser providos de entre os chefes de divisão do quadro do Instituto ou de entre chefes de repartição para o lugar de director de serviços do Departamento Administrativo, por períodos renováveis de três anos, em regime de comissão de serviço;\n\nc) Os lugares de chefe de divisão deverão ser providos de entre técnicos principais ou de entre indivíduos habilitados com curso superior, em comissão de serviço, por três anos renováveis;\n\nd) Os lugares de chefe de repartição deverão ser providos de entre chefes de secção ou funcionários com categoria equivalente ou superior com mais de três anos de efectivo serviço nessas categorias ou de entre diplomados com curso superior adequado;\n\ne) Os lugares de chefe de secção deverão ser providos de entre os técnicos auxiliares principais ou primeiros-oficiais com mais de três anos de serviço efectivo ou de entre diplomados com curso superior.\n\n2 - A designação para os lugares referidos nas alíneas b), c), d) e e) do n.º 1 será feita mediante proposta do conselho directivo."
+  },
+  "b6c827fddef8cad2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — (Pessoal técnico superior)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — (Pessoal técnico superior)\n\n1 - O ingresso na carreira de pessoal técnico superior será efectuado pela categoria mais baixa, mediante concurso de prestação de provas práticas, de entre indivíduos habilitados com licenciatura adequada ao desempenho das funções.\n\n2 - O provimento de lugares de acesso na carreira de pessoal técnico superior far-se-á de acordo com critérios de avaliação de mérito a aprovar superiormente e da seguinte forma:\n\na) Técnicos superiores principais - de entre técnicos superiores de 1.ª classe com, pelo menos, três anos de serviço efectivo na categoria;\n\nb) Técnicos superiores de 1.ª classe - de entre técnicos superiores de 2.ª classe com, pelo menos, três anos de serviço efectivo na categoria."
+  },
+  "d4fa19ce8526b06f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — (Pessoal técnico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — (Pessoal técnico)\n\n1 - O ingresso na carreira de pessoal técnico efectuar-se-á pela categoria mais baixa, mediante concurso de prestação de provas práticas, de entre indivíduos habilitados com curso superior equivalente a bacharelato e adequado ao desempenho das funções.\n\n2 - O provimento de lugares de acesso na carreira de pessoal técnico far-se-á de acordo com critérios de avaliação de mérito a aprovar superiormente e da seguinte forma:\n\na) Técnicos principais - de entre técnicos de 1.ª classe com, pelo menos, três anos de serviço efectivo na categoria;\n\nb) Técnicos de 1.ª classe - de entre técnicos de 2.ª classe com, pelo menos, três anos de serviço efectivo na categoria."
+  },
+  "a7d6d22d08d2131c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — (Pessoal técnico auxiliar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — (Pessoal técnico auxiliar)\n\n1 - O ingresso na carreira de pessoal técnico auxiliar efectuar-se-á pela categoria mais baixa, mediante concurso de prestação de provas práticas, de entre indivíduos com habilitação equivalente ao curso geral dos liceus adequada ao desempenho das funções.\n\n2 - O provimento de lugares de acesso na carreira do pessoal técnico auxiliar far-se-á de acordo com critérios de avaliação de mérito a aprovar superiormente e da seguinte forma:\n\na) Técnicos auxiliares principais - de entre técnicos auxiliares de 1.ª classe com, pelo menos, três anos de serviço efectivo na categoria;\n\nb) Técnicos auxiliares de 1.ª classe - de entre técnicos auxiliares de 2.ª classe com, pelo menos, três anos de serviço efectivo na categoria."
+  },
+  "820a75e47e28e9e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º — (Pessoal técnico-profissional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º — (Pessoal técnico-profissional)\n\n1 - O ingresso na carreira de desenhador efectuar-se-á pela categoria mais baixa, mediante concurso documental, de entre indivíduos com a habilitação equivalente ao curso geral dos liceus, adequada ao desempenho das funções, nomeadamente o curso técnico de desenho.\n\n2 - Os lugares de desenhador principal e de desenhador de 2.ª classe serão providos de entre, respectivamente, os desenhadores de 1.ª classe e os desenhadores de 2.ª classe com três anos de bom e efectivo serviço nas categorias.\n\n3 - O ingresso na carreira de impressor e operador de reprografia efectuar-se-á pela categoria mais baixa, mediante concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória.\n\n4 - O lugar de chefe de oficinas gráficas será provido, mediante concurso documental, de entre os impressores de offset de 1.ª classe com, pelo menos, cinco anos de bom e efectivo serviço na categoria e que revelem experiência profissional e aptidão para o desempenho do cargo.\n\n5 - Os lugares de impressor de offset de 1.ª classe e de impressor de offset de 2.ª classe serão providos de entre, respectivamente, os impressores de offset de 2.ª classe e os operadores de reprografia de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço nas categorias.\n\n6 - Os lugares de operador de reprografia de 1.ª e de 2.ª classes serão providos de entre, respectivamente, os operadores de reprografia de 2.ª e de 3.ª classes com, pelo menos, três anos de bom e efectivo serviço nas categorias.\n\n7 - O ingresso na carreira de fotógrafo de fotolitografia efectuar-se-á pela categoria mais baixa, mediante concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória e formação profissional adequada.\n\n8 - Os lugares de fotógrafo de fotolitografia de 1.ª e de 2.ª classes serão providos de entre, respectivamente, os fotógrafos de fotolitografia de 2.ª e de 3.ª classes com três anos de bom e efectivo serviço nas categorias.\n\n9 - O ingresso na carreira de encadernador far-se-á pela categoria mais baixa de entre indivíduos habilitados com a escolaridade obrigatória.\n\n10 - O lugar de chefe de oficinas de encadernação será provido, mediante concurso documental, de entre os encadernadores principais com, pelo menos, cinco anos de bom e efectivo serviço na categoria e que revelem experiência profissional e aptidão para o desempenho do cargo.\n\n11 - Os lugares de encadernador principal de 1.ª e de 2.ª classes serão providos de entre, respectivamente, os encadernadores de 2.ª e de 3.ª classes com três anos de bom e efectivo serviço nas categorias.\n\n12 - Os lugares de encadernador de 3.ª classe serão providos de entre os ajudantes de encadernador com, pelo menos, três anos de bom e efectivo serviço na categoria."
+  },
+  "a2ac8a68ae5cfe10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 11.º — (Pessoal administrativo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 11.º — (Pessoal administrativo)\n\nO pessoal administrativo será recrutado da seguinte forma:\n\na) Primeiros-oficiais - por concurso de provas escritas e práticas e avaliação curricular, de entre os segundos-oficiais do quadro do Instituto habilitados com o curso geral dos liceus ou equiparado com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Segundos-oficiais - por concurso de provas escritas e práticas e avaliação curricular, de entre os terceiros-oficiais do quadro do Instituto com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nc) Terceiros-oficiais - por concurso de provas escritas e práticas, a que serão admitidos segundo a seguinte ordem de prioridades:\n\n1) Escriturários-dactilógrafos do quadro do Instituto com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\n2) Indivíduos habilitados com o curso geral dos liceus ou equiparado;\n\nd) Escriturários-dactilógrafos - por concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória."
+  },
+  "a3284e501e51241d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 12.º — (Pessoal auxiliar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 12.º — (Pessoal auxiliar)\n\nO pessoal auxiliar, adiante designado, será recrutado de entre indivíduos com a escolaridade obrigatória, segundo a idade do candidato, e da forma seguinte:\n\na) As telefonistas, mediante concurso de prestação de provas;\n\nb) Os motoristas, contínuos e serventes, por escolha do conselho directivo."
+  },
+  "52a993083cb9950c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 13.º — (Requisitos complementares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 13.º — (Requisitos complementares)\n\nPor despacho conjunto do Ministro dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a função pública, sob proposta da Direcção-Geral de Recursos Humanos, serão definidos os requisitos complementares relativamente à formação profissional ou experiência profissional adequada ao preenchimento de cada posto de trabalho, de acordo com o respectivo conteúdo profissional."
+  },
+  "ad6a89d05c78a4d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Outro pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Outro pessoal"
+  },
+  "8f40d7eef8f42a9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 14.º — (Situações especiais dos funcionários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 14.º — (Situações especiais dos funcionários)\n\nQuando as necessidades de serviço imperiosamente o exijam, poderá o Instituto, por despacho ministerial, sob proposta do conselho directivo, recorrer às seguintes situações especiais:\n\na) Destacamento, não ocupando o funcionário lugar no quadro, sendo pago pelo organismo ou serviço de origem e não podendo o lugar de que é titular ser preenchido por qualquer forma;\n\nb) Requisição, não ocupando o funcionário lugar no quadro, sendo pago pelo Instituto e mantendo a titularidade do lugar de origem, que poderá ser provido interinamente;\n\nc) Comissão de serviço, sendo o funcionário provido num lugar do quadro, mantendo o direito ao lugar de origem, que pode, entretanto, ser provido interinamente."
+  },
+  "15d78e48f98ff59d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 15.º — (Pessoal contratado além do quadro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 15.º — (Pessoal contratado além do quadro)\n\nQuando se reconheça ser absolutamente indispensável, poderá o Instituto admitir, temporariamente, pessoal além do quadro em regime de contrato, nos termos da lei geral."
+  },
+  "7d40648b129ce1e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Disposições gerais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Disposições gerais e transitórias"
+  },
+  "3aa79dc9c5c0d2ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 16.º — (Origem do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 16.º — (Origem do pessoal)\n\n1 - Será integrado no quadro do Instituto pessoal da Direcção-Geral da Previdência, da Federação das Caixas de Previdência e Abono de Família, da Caixa Nacional de Pensões e de outras instituições de previdência considerado necessário e que transitará para os lugares do quadro a que se refere o artigo 2.º, sendo reclassificado de harmonia com as atribuições e áreas de actuação específicas do Instituto e as funções que actualmente desempenha.\n\n2 - Nos organismos donde provierem os empregados a integrar no Instituto serão abatidos ao respectivo quadro de pessoal os lugares que aqueles ocupavam."
+  },
+  "846eddba47e4fe12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 17.º — (Pessoal oriundo da função pública)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 17.º — (Pessoal oriundo da função pública)\n\nOs funcionários provenientes da Direcção-Geral da Previdência, já com provimento definitivo na função pública, conservarão aquela situação."
+  },
+  "d20cb92fd4083548": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 18.º — (Pessoal oriundo das instituições de previdência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 18.º — (Pessoal oriundo das instituições de previdência)\n\n1 - O pessoal que transitar das instituições de previdência será abrangido pelo estatuto da função pública, sendo-lhe contados, para todos os efeitos, incluindo a aposentação e diuturnidades, a respectiva antiguidade na Previdência e o eventual tempo de prestação de serviço na função pública.\n\n2 - O pessoal do quadro dirigente que à data da entrada em vigor do presente diploma possuir nomeação definitiva nos quadros da Previdência transitará para o novo quadro na mesma categoria e situação.\n\n3 - A situação a que se refere o número anterior não prejudica o provimento interino dos lugares, enquanto durar o impedimento dos respectivos titulares."
+  },
+  "88a350adb03dfed4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 19.º — (Pessoal dirigente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 19.º — (Pessoal dirigente)\n\nOs membros do conselho directivo que à data da publicação do presente diploma estiverem no exercício de funções manter-se-ão nessa situação, em comissão de serviço."
+  },
+  "dc14fa335025ed01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 20.º — (Primeiro provimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 20.º — (Primeiro provimento)\n\n1 - O primeiro provimento do pessoal afecto ao Instituto far-se-á de acordo com as seguintes regras:\n\na) Para qualquer lugar do quadro e com respeito pelas habilitações literárias exigidas no presente diploma;\n\nb) Para lugar do quadro de categoria equivalente a que o interessado já possui;\n\nc) Para lugar do quadro que integre as funções efectivamente exercidas pelo interessado, independentemente do lugar em que se encontre provido.\n\n2 - O provimento referido no número anterior será feito mediante lista ou listas nominativas aprovadas pelo Secretário de Estado da Segurança Social, onde conste o lugar em que cada funcionário fica provido, sem dependência de quaisquer outras formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.\n\n3 - O pessoal provido ao abrigo das alíneas b) e c) do n.º 1 do presente artigo poderá ascender à categoria superior se, entretanto, tiver obtido as habilitações literárias exigidas nos artigos 7.º, 8.º, 9.º e 10.º ou, independentemente dessas habilitações, se for aprovado em concurso, a definir, quanto à preparação e condições, por despacho conjunto do Secretário de Estado da Segurança Social e do membro do Governo que tiver a seu cargo a Administração Pública."
+  },
+  "6ff66ac550aa36a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 21.º — (Remunerações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 21.º — (Remunerações)\n\nQuando as remunerações líquidas das categorias atribuídas ao pessoal referido no artigo 20.º forem inferiores às remunerações líquidas que o mesmo pessoal vem auferindo, estas manter-se-ão, até que, por promoção ou revisão salarial, sejam alcançadas."
+  },
+  "f67506895218796a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 22.º — (Cobertura de encargos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 22.º — (Cobertura de encargos)\n\nOs encargos decorrentes da execução do presente diploma são suportados pelo Instituto."
+  },
+  "2e276b118b42f089": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 23.º — (Gestão de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 23.º — (Gestão de pessoal)\n\nAs funções de gestão de pessoal, atribuídas no artigo 13.º à Direcção-Geral de Recursos Humanos, caberão ao Instituto enquanto não vigorar diploma regulamentar daquele órgão central."
+  },
+  "eb4c4f6638f6f84c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 24.º — (Interpretação e integração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 24.º — (Interpretação e integração)\n\nAs dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano, do Ministro dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a Administração Pública."
+  },
+  "b972befd141308bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 25.º — (Revogações e alterações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 25.º — (Revogações e alterações)\n\n1 - Fica revogado o artigo 8.º do [Decreto-Lei n.º 17/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1977-492465), de 12 de Janeiro.\n\n2 - Ficam revogadas as seguintes disposições do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril: alínea d) do n.º 2 do artigo 1.º, artigo 21.º, artigo 22.º, artigo 24.º e artigo 39.º\n\n3 - Os artigos 12.º e 20.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, passam a ter as seguintes redacções:\n\nArt. 12.º - 1 - O conselho directivo é constituído por três membros, sendo o presidente, com a categoria de director, nomeado pelo Ministro dos Assuntos Sociais, e os dois vogais, com a categoria de subdirectores, nomeados pelo Secretário de Estado da Segurança Social.\n\n2 - Recaindo as nomeações em funcionários do Estado ou em empregados das instituições de segurança social, os cargos serão exercidos sem prejuízo de todos os direitos inerentes aos seus quadros de origem, incluindo os de acesso, considerando-se o período da comissão, para todos os efeitos, como serviço prestado nesse quadro.\n\n...\n\nArt. 20.º A estrutura orgânica e funcional dos serviços do Instituto será estabelecida de acordo com o estatuído no [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 25 de Janeiro.\n\nVisto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Acácio Manuel Pereira Magro.\n\nPromulgado em 3 de Fevereiro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMapa do pessoal, a que se refere o artigo 2.º do Decreto-Lei n.º 23/79\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/02/03800/02300234.pdf)\n\nManuel Jacinto Nunes - Acácio Manuel Pereira Magro."
+  },
+  "7cdd6eb34f192e39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Classificação do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Classificação do pessoal)\n\nO pessoal do Instituto de Gestão Financeira da Segurança Social, adiante designado por Instituto, agrupa-se de harmonia com a classificação seguinte:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico;\n\nd) Pessoal técnico-profissional e administrativo;\n\ne) Pessoal operário e auxiliar."
+  },
+  "2a6c5289055c0a7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Quadro do pessoal e remunerações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Quadro do pessoal e remunerações)\n\nO quadro do pessoal do Instituto e respectivas remunerações constam do mapa anexo a este diploma, do qual fica a constituir parte integrante."
+  },
+  "6259322029d660eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Provimento do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Provimento do pessoal)\n\n1 - O provimento do pessoal dos quadros do Instituto será feito por nomeação, salvos os casos de provimento por contrato, nos termos da lei geral.\n\n2 - O provimento por nomeação, nos termos do número anterior, terá carácter provisório durante o período de um ano, findo o qual o funcionário será nomeado definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, em caso contrário.\n\n3 - Quando o provimento referido no número anterior recair em funcionários provenientes de outros departamentos do Estado, o tempo de serviço neles prestado em lugar da mesma carreira contará para efeitos de nomeação definitiva no Instituto."
+  },
+  "7e7824b73a6e93ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Admissão de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Admissão de pessoal)\n\nO provimento nos lugares de ingresso far-se-á segundo a seguinte ordem de prioridades:\n\na) De entre o pessoal do quadro do Instituto;\n\nb) De entre o pessoal integrado em qualquer dos quadros do Ministério dos Assuntos Sociais;\n\nc) De entre indivíduos não abrangidos pelas alíneas anteriores, quando subsistam vagas."
+  },
+  "3d4099f23066b8ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Regime do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Regime do pessoal)\n\nO pessoal do quadro do Instituto ficará submetido ao estatuto em vigor para o funcionalismo público, incluindo o da aposentação."
+  },
+  "75d8ecc1c7a5e36c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Pessoal dirigente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Pessoal dirigente)\n\n1 - a) Os lugares de director e de subdirector deverão ser providos, por escolha, respectivamente, do Ministro dos Assuntos Sociais e do Secretário de Estado da Segurança Social, de entre indivíduos habilitados com curso superior, em regime de comissão de serviço, por tempo indeterminado;\n\nb) Os lugares de director de serviços deverão ser providos de entre os chefes de divisão do quadro do Instituto ou de entre chefes de repartição para o lugar de director de serviços do Departamento Administrativo, por períodos renováveis de três anos, em regime de comissão de serviço;\n\nc) Os lugares de chefe de divisão deverão ser providos de entre técnicos principais ou de entre indivíduos habilitados com curso superior, em comissão de serviço, por três anos renováveis;\n\nd) Os lugares de chefe de repartição deverão ser providos de entre chefes de secção ou funcionários com categoria equivalente ou superior com mais de três anos de efectivo serviço nessas categorias ou de entre diplomados com curso superior adequado;\n\ne) Os lugares de chefe de secção deverão ser providos de entre os técnicos auxiliares principais ou primeiros-oficiais com mais de três anos de serviço efectivo ou de entre diplomados com curso superior.\n\n2 - A designação para os lugares referidos nas alíneas b), c), d) e e) do n.º 1 será feita mediante proposta do conselho directivo."
+  },
+  "9f4d0e8f9a229c8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Pessoal técnico superior)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Pessoal técnico superior)\n\n1 - O ingresso na carreira de pessoal técnico superior será efectuado pela categoria mais baixa, mediante concurso de prestação de provas práticas, de entre indivíduos habilitados com licenciatura adequada ao desempenho das funções.\n\n2 - O provimento de lugares de acesso na carreira de pessoal técnico superior far-se-á de acordo com critérios de avaliação de mérito a aprovar superiormente e da seguinte forma:\n\na) Técnicos superiores principais - de entre técnicos superiores de 1.ª classe com, pelo menos, três anos de serviço efectivo na categoria;\n\nb) Técnicos superiores de 1.ª classe - de entre técnicos superiores de 2.ª classe com, pelo menos, três anos de serviço efectivo na categoria."
+  },
+  "c4f8a8f2581aebed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Pessoal técnico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Pessoal técnico)\n\n1 - O ingresso na carreira de pessoal técnico efectuar-se-á pela categoria mais baixa, mediante concurso de prestação de provas práticas, de entre indivíduos habilitados com curso superior equivalente a bacharelato e adequado ao desempenho das funções.\n\n2 - O provimento de lugares de acesso na carreira de pessoal técnico far-se-á de acordo com critérios de avaliação de mérito a aprovar superiormente e da seguinte forma:\n\na) Técnicos principais - de entre técnicos de 1.ª classe com, pelo menos, três anos de serviço efectivo na categoria;\n\nb) Técnicos de 1.ª classe - de entre técnicos de 2.ª classe com, pelo menos, três anos de serviço efectivo na categoria."
+  },
+  "aa8eaa49f9524516": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Pessoal técnico auxiliar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Pessoal técnico auxiliar)\n\n1 - O ingresso na carreira de pessoal técnico auxiliar efectuar-se-á pela categoria mais baixa, mediante concurso de prestação de provas práticas, de entre indivíduos com habilitação equivalente ao curso geral dos liceus adequada ao desempenho das funções.\n\n2 - O provimento de lugares de acesso na carreira do pessoal técnico auxiliar far-se-á de acordo com critérios de avaliação de mérito a aprovar superiormente e da seguinte forma:\n\na) Técnicos auxiliares principais - de entre técnicos auxiliares de 1.ª classe com, pelo menos, três anos de serviço efectivo na categoria;\n\nb) Técnicos auxiliares de 1.ª classe - de entre técnicos auxiliares de 2.ª classe com, pelo menos, três anos de serviço efectivo na categoria."
+  },
+  "12a9c3ba2f49255b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Pessoal técnico-profissional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Pessoal técnico-profissional)\n\n1 - O ingresso na carreira de desenhador efectuar-se-á pela categoria mais baixa, mediante concurso documental, de entre indivíduos com a habilitação equivalente ao curso geral dos liceus, adequada ao desempenho das funções, nomeadamente o curso técnico de desenho.\n\n2 - Os lugares de desenhador principal e de desenhador de 2.ª classe serão providos de entre, respectivamente, os desenhadores de 1.ª classe e os desenhadores de 2.ª classe com três anos de bom e efectivo serviço nas categorias.\n\n3 - O ingresso na carreira de impressor e operador de reprografia efectuar-se-á pela categoria mais baixa, mediante concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória.\n\n4 - O lugar de chefe de oficinas gráficas será provido, mediante concurso documental, de entre os impressores de offset de 1.ª classe com, pelo menos, cinco anos de bom e efectivo serviço na categoria e que revelem experiência profissional e aptidão para o desempenho do cargo.\n\n5 - Os lugares de impressor de offset de 1.ª classe e de impressor de offset de 2.ª classe serão providos de entre, respectivamente, os impressores de offset de 2.ª classe e os operadores de reprografia de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço nas categorias.\n\n6 - Os lugares de operador de reprografia de 1.ª e de 2.ª classes serão providos de entre, respectivamente, os operadores de reprografia de 2.ª e de 3.ª classes com, pelo menos, três anos de bom e efectivo serviço nas categorias.\n\n7 - O ingresso na carreira de fotógrafo de fotolitografia efectuar-se-á pela categoria mais baixa, mediante concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória e formação profissional adequada.\n\n8 - Os lugares de fotógrafo de fotolitografia de 1.ª e de 2.ª classes serão providos de entre, respectivamente, os fotógrafos de fotolitografia de 2.ª e de 3.ª classes com três anos de bom e efectivo serviço nas categorias.\n\n9 - O ingresso na carreira de encadernador far-se-á pela categoria mais baixa de entre indivíduos habilitados com a escolaridade obrigatória.\n\n10 - O lugar de chefe de oficinas de encadernação será provido, mediante concurso documental, de entre os encadernadores principais com, pelo menos, cinco anos de bom e efectivo serviço na categoria e que revelem experiência profissional e aptidão para o desempenho do cargo.\n\n11 - Os lugares de encadernador principal de 1.ª e de 2.ª classes serão providos de entre, respectivamente, os encadernadores de 2.ª e de 3.ª classes com três anos de bom e efectivo serviço nas categorias.\n\n12 - Os lugares de encadernador de 3.ª classe serão providos de entre os ajudantes de encadernador com, pelo menos, três anos de bom e efectivo serviço na categoria."
+  },
+  "1adece2c1cc4391a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Pessoal administrativo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Pessoal administrativo)\n\nO pessoal administrativo será recrutado da seguinte forma:\n\na) Primeiros-oficiais - por concurso de provas escritas e práticas e avaliação curricular, de entre os segundos-oficiais do quadro do Instituto habilitados com o curso geral dos liceus ou equiparado com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Segundos-oficiais - por concurso de provas escritas e práticas e avaliação curricular, de entre os terceiros-oficiais do quadro do Instituto com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nc) Terceiros-oficiais - por concurso de provas escritas e práticas, a que serão admitidos segundo a seguinte ordem de prioridades:\n\n1) Escriturários-dactilógrafos do quadro do Instituto com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\n2) Indivíduos habilitados com o curso geral dos liceus ou equiparado;\n\nd) Escriturários-dactilógrafos - por concurso de provas práticas, de entre indivíduos habilitados com a escolaridade obrigatória."
+  },
+  "fa1868625f5d8e40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Pessoal auxiliar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Pessoal auxiliar)\n\nO pessoal auxiliar, adiante designado, será recrutado de entre indivíduos com a escolaridade obrigatória, segundo a idade do candidato, e da forma seguinte:\n\na) As telefonistas, mediante concurso de prestação de provas;\n\nb) Os motoristas, contínuos e serventes, por escolha do conselho directivo."
+  },
+  "35658579a41d6d0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Requisitos complementares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Requisitos complementares)\n\nPor despacho conjunto do Ministro dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a função pública, sob proposta da Direcção-Geral de Recursos Humanos, serão definidos os requisitos complementares relativamente à formação profissional ou experiência profissional adequada ao preenchimento de cada posto de trabalho, de acordo com o respectivo conteúdo profissional."
+  },
+  "4332a0e9781754e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Situações especiais dos funcionários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Situações especiais dos funcionários)\n\nQuando as necessidades de serviço imperiosamente o exijam, poderá o Instituto, por despacho ministerial, sob proposta do conselho directivo, recorrer às seguintes situações especiais:\n\na) Destacamento, não ocupando o funcionário lugar no quadro, sendo pago pelo organismo ou serviço de origem e não podendo o lugar de que é titular ser preenchido por qualquer forma;\n\nb) Requisição, não ocupando o funcionário lugar no quadro, sendo pago pelo Instituto e mantendo a titularidade do lugar de origem, que poderá ser provido interinamente;\n\nc) Comissão de serviço, sendo o funcionário provido num lugar do quadro, mantendo o direito ao lugar de origem, que pode, entretanto, ser provido interinamente."
+  },
+  "fed623596b6ac699": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Pessoal contratado além do quadro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Pessoal contratado além do quadro)\n\nQuando se reconheça ser absolutamente indispensável, poderá o Instituto admitir, temporariamente, pessoal além do quadro em regime de contrato, nos termos da lei geral."
+  },
+  "bf1a97bf67ffa8d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Origem do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Origem do pessoal)\n\n1 - Será integrado no quadro do Instituto pessoal da Direcção-Geral da Previdência, da Federação das Caixas de Previdência e Abono de Família, da Caixa Nacional de Pensões e de outras instituições de previdência considerado necessário e que transitará para os lugares do quadro a que se refere o artigo 2.º, sendo reclassificado de harmonia com as atribuições e áreas de actuação específicas do Instituto e as funções que actualmente desempenha.\n\n2 - Nos organismos donde provierem os empregados a integrar no Instituto serão abatidos ao respectivo quadro de pessoal os lugares que aqueles ocupavam."
+  },
+  "3cbb4b4ddb4d5ba0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Pessoal oriundo da função pública)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Pessoal oriundo da função pública)\n\nOs funcionários provenientes da Direcção-Geral da Previdência, já com provimento definitivo na função pública, conservarão aquela situação."
+  },
+  "e54728ca1472fdcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Pessoal oriundo das instituições de previdência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Pessoal oriundo das instituições de previdência)\n\n1 - O pessoal que transitar das instituições de previdência será abrangido pelo estatuto da função pública, sendo-lhe contados, para todos os efeitos, incluindo a aposentação e diuturnidades, a respectiva antiguidade na Previdência e o eventual tempo de prestação de serviço na função pública.\n\n2 - O pessoal do quadro dirigente que à data da entrada em vigor do presente diploma possuir nomeação definitiva nos quadros da Previdência transitará para o novo quadro na mesma categoria e situação.\n\n3 - A situação a que se refere o número anterior não prejudica o provimento interino dos lugares, enquanto durar o impedimento dos respectivos titulares."
+  },
+  "933aedf333537799": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Pessoal dirigente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Pessoal dirigente)\n\nOs membros do conselho directivo que à data da publicação do presente diploma estiverem no exercício de funções manter-se-ão nessa situação, em comissão de serviço."
+  },
+  "f969c94567caeb27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Primeiro provimento)",
+   "in_force_from": "1979-05-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 139/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1979-382641), publicado em 1979-05-19."
+   ],
+   "markdown": "###### Artigo 20.º — (Primeiro provimento)\n\n1 - O primeiro provimento do pessoal afecto ao Instituto far-se-á de acordo com as seguintes regras:\n\na) Para qualquer lugar do quadro e com respeito pelas habilitações literárias exigidas no presente diploma;\n\nb) Para lugar do quadro de categoria equivalente a que o interessado já possui;\n\nc) Para lugar do quadro que integre as funções efectivamente exercidas pelo interessado, independentemente do lugar em que se encontre provido.\n\n2 - O provimento referido no número anterior será feito mediante lista ou listas nominativas aprovadas pelo Secretário de Estado da Segurança Social, onde conste o lugar em que cada funcionário fica provido, sem dependência de quaisquer outras formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.\n\n3 - O pessoal provido ao abrigo das alíneas b) e c) do n.º 1 do presente artigo poderá ascender à categoria superior se, entretanto, tiver obtido as habilitações literárias exigidas nos artigos 7.º, 8.º, 9.º e 10.º ou, independentemente dessas habilitações, se for aprovado em concurso, a definir, quanto à preparação e condições, por despacho conjunto do Secretário de Estado da Segurança Social e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n4 - Para efeitos do n.º 1 deste artigo, considera-se afecto ao Instituto o pessoal a que se refere o n.º 1 do artigo 16.º e ainda todo aquele que, a qualquer título, se encontra adstrito aos serviços do Instituto.\n\n> Alterado pelo/a [Decreto-Lei n.º 139/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1979-382641), publicado em 1979-05-19."
+  },
+  "48ae81314efe9f06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Remunerações)",
+   "in_force_from": "1979-05-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 139/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1979-382641), publicado em 1979-05-19."
+   ],
+   "markdown": "###### Artigo 21.º — (Remunerações)\n\n1 - O pessoal provido nos termos do artigo 20.º tem direito ao vencimento pelos novos lugares com efeitos reportados a 1 de Março de 1979.\n\n2 - Quando as remunerações líquidas das categorias atribuídas ao pessoal referido no artigo 20.º forem inferiores às remunerações líquidas que o mesmo pessoal vem auferindo, estas manter-se-ão até que, por promoção ou revisão salarial, sejam alcançadas.\n\n> Alterado pelo/a [Decreto-Lei n.º 139/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1979-382641), publicado em 1979-05-19."
+  },
+  "301869192dc0101d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Cobertura de encargos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Cobertura de encargos)\n\nOs encargos decorrentes da execução do presente diploma são suportados pelo Instituto."
+  },
+  "57b82e426fd386b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Gestão de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Gestão de pessoal)\n\nAs funções de gestão de pessoal, atribuídas no artigo 13.º à Direcção-Geral de Recursos Humanos, caberão ao Instituto enquanto não vigorar diploma regulamentar daquele órgão central."
+  },
+  "135340f221ecd7ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Interpretação e integração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Interpretação e integração)\n\nAs dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano, do Ministro dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a Administração Pública."
+  },
+  "f79f0bd9c5b78a80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Revogações e alterações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Revogações e alterações)\n\n1 - Fica revogado o artigo 8.º do [Decreto-Lei n.º 17/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1977-492465), de 12 de Janeiro.\n\n2 - Ficam revogadas as seguintes disposições do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril: alínea d) do n.º 2 do artigo 1.º, artigo 21.º, artigo 22.º, artigo 24.º e artigo 39.º\n\n3 - Os artigos 12.º e 20.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, passam a ter as seguintes redacções:\n\nArt. 12.º - 1 - O conselho directivo é constituído por três membros, sendo o presidente, com a categoria de director, nomeado pelo Ministro dos Assuntos Sociais, e os dois vogais, com a categoria de subdirectores, nomeados pelo Secretário de Estado da Segurança Social.\n\n2 - Recaindo as nomeações em funcionários do Estado ou em empregados das instituições de segurança social, os cargos serão exercidos sem prejuízo de todos os direitos inerentes aos seus quadros de origem, incluindo os de acesso, considerando-se o período da comissão, para todos os efeitos, como serviço prestado nesse quadro.\n\n...\n\nArt. 20.º A estrutura orgânica e funcional dos serviços do Instituto será estabelecida de acordo com o estatuído no [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 25 de Janeiro.\n\nVisto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Acácio Manuel Pereira Magro.\n\nPromulgado em 3 de Fevereiro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMapa do pessoal, a que se refere o artigo 2.º do Decreto-Lei n.º 23/79\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/02/03800/02300234.pdf)\n\nManuel Jacinto Nunes - Acácio Manuel Pereira Magro."
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1672840:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2014-02-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a086e86b485db712",
+    "60a7cb9d04da95db",
+    "07b77bcc1ea89f41",
+    "410be424c23e3ed1"
+   ]
+  },
+  {
+   "date": "2015-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25681477:por",
+     "title": "Portaria n.º 486-A/2014",
+     "published": "2014-06-23",
+     "dre_path": "/dr/detalhe/portaria/486-a-2014-25681477"
+    },
+    {
+     "id": "pt:dre:67377735:por",
+     "title": "Portaria n.º 331/2015",
+     "published": "2015-06-03",
+     "dre_path": "/dr/detalhe/portaria/331-2015-67377735"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "a086e86b485db712",
+    "a98ef74996f31682",
+    "af124d504de8a09e",
+    "410be424c23e3ed1"
+   ]
+  }
+ ],
+ "fragments": {
+  "a086e86b485db712": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Unidade Ministerial de Compras do Ministério das Finanças, nos termos do [Despacho n.º 13477/2009](https://diariodarepublica.pt/dr/detalhe/despacho/13477-2009-1180946), de 27 de maio, publicado no Diário da República, II série, nº 111, de 9 de junho, vai proceder à aquisição centralizada de equipamentos de cópia e impressão, com a respetiva assistência técnica e consumíveis de impressão, para a Autoridade Tributária e Aduaneira (AT).\n\nConsiderando que a Unidade Ministerial de Compras do Ministério das Finanças se propõe, enquanto entidade agregadora, proceder à abertura do competente procedimento para aquisição de equipamentos de cópia e impressão, ao abrigo do acordo quadro de cópia e impressão, de 2011, lote 5, (AQ-CI 2011), celebrado pela Ex-Agência Nacional de Compras Públicas (ANCP), ora Entidade de Serviços Partilhados da Administração Pública, IP (eSPap,IP), nos termos do artigo 259º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro.\n\nConsiderando que os encargos orçamentais decorrentes dos contratos de aquisição dos equipamentos de cópia e impressão a celebrar se estimam em (euro)1.823.782,50, incluindo IVA, encargos esses, a repartir pelos anos económicos de 2014 a 2019.\n\nConsiderando que há lugar a encargo orçamental em mais de um ano económico, o que obriga a autorização prévia conferida em portaria.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado Adjunto e do Orçamento, ao abrigo do disposto no n.º 1 do artigo 22.º do Decreto-Lei 197/99, de 8 de junho, na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro e no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, o seguinte:"
+  },
+  "60a7cb9d04da95db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nFica autorizada a Autoridade Tributária e Aduaneira (AT) a assumir os encargos orçamentais decorrentes da contratação em causa, que não poderão, em cada ano económico, exceder as seguintes importâncias:\n\n[(ver documento original)](https://files.diariodarepublica.pt/2s/2014/02/024000002/0000400004.pdf)"
+  },
+  "07b77bcc1ea89f41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs importâncias fixadas para o ano económico de 2015 poderão ser acrescidas do saldo que se apurar na execução orçamental do ano anterior."
+  },
+  "410be424c23e3ed1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs encargos financeiros resultantes da execução da presente portaria serão satisfeitos por conta das verbas a inscrever nos orçamentos do respetivo organismo, referentes aos anos indicados.\n\n30 de janeiro de 2014. - O Secretário de Estado Adjunto e do Orçamento, Hélder Manuel Gomes dos Reis.\n\n207591761"
+  },
+  "a98ef74996f31682": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 331/2015](https://diariodarepublica.pt/dr/detalhe/portaria/331-2015-67377735), publicado em 2015-06-03."
+   ],
+   "markdown": "###### Artigo 1.º\n\nFica autorizada a Autoridade Tributária e Aduaneira (AT) a assumir os encargos orçamentais decorrentes da aquisição centralizada de equipamentos de cópia e impressão, com a respetiva assistência técnica e consumíveis de impressão, que não poderão, em cada ano económico, exceder as seguintes importâncias:\n\n[(ver documento original)](https://files.diariodarepublica.pt/2s/2015/06/107000000/1425514255.pdf)\n\n> Alterado pelo/a [Portaria n.º 331/2015](https://diariodarepublica.pt/dr/detalhe/portaria/331-2015-67377735), publicado em 2015-06-03."
+  },
+  "af124d504de8a09e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2015-06-03",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 486-A/2014](https://diariodarepublica.pt/dr/detalhe/portaria/486-a-2014-25681477), publicado em 2014-06-23."
+   ],
+   "markdown": "###### Artigo 2.º\n\nA importância fixada para cada ano económico poderá ser acrescida do saldo apurado nos anos económicos anteriores.\n\n> Alterado pelo/a [Portaria n.º 486-A/2014](https://diariodarepublica.pt/dr/detalhe/portaria/486-a-2014-25681477), publicado em 2014-06-23."
+  }
+ }
+}

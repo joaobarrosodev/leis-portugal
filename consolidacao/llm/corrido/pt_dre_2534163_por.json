@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:2534163:por",
+  "substituicoes": [
+    {
+      "de": 176,
+      "ate": 176,
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria 97/2011, art. 2.º): substitui os quadros das captações JK14 e JK9 do anexo II e PS2 do anexo IV, mas os quadros novos só vêm em imagem (ver documento original); não aplicado. Alterador 2 (Portaria 670/2015): a aprovação dos perímetros das novas captações CBR5 e CBR6 e da nova zona alargada de JK4, JK14, JK15 e PS1 consta dos artigos e anexos próprios do alterador (quadros em imagem), sem instrução de aditamento ao texto do original; não aplicado.",
+  "instrucoes": [
+    "Alterador 1, art. 2.º: substituição de quadros dos anexos II e IV que só existem em imagem; não aplicado (nao_aplicavel). Arts. 3.º a 7.º dirigem-se a outros diplomas; ignorados.",
+    "Alterador 2, art. 1.º, n.º 2: revoga a zona de proteção alargada das captações JK4, JK14, JK15 e PS1 do polo de Pinhal de Negreiros do anexo V; o quadro (unidade 176) passa a (Revogado.), mantendo-se os títulos.",
+    "Alterador 2, arts. 1.º, n.os 3-4, e 2.º a 5.º: novas zonas aprovadas autonomamente no alterador; não aditadas ao original (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:2149929:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2010-01-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "92ae2ee9b303f308"
+   ]
+  },
+  {
+   "date": "2010-03-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2224247:por",
+     "title": "Declaração de Rectificação n.º 517/2010",
+     "published": "2010-03-16",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/517-2010-2224247"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-4",
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "04f681a1287bbb51"
+   ]
+  }
+ ],
+ "fragments": {
+  "92ae2ee9b303f308": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos do artigo 145.º do [Decreto-Lei n.º 275-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-2000-353541), de 9 de Novembro, os Ministros dos Negócios Estrangeiros e da Justiça podem nomear oficiais de ligação de entre pessoal de investigação criminal da Polícia Judiciária, para acreditação junto de países estrangeiros ou de organismos internacionais, em função de interesses nacionais e de compromissos assumidos no âmbito da cooperação.\n\nA acção dos oficiais de ligação tem um papel de decisiva importância na luta contra o crime organizado de natureza transnacional, em especial em áreas como o combate ao tráfico de estupefacientes (e crimes relacionados) ou ao terrorismo.\n\nNeste contexto, torna-se necessário decidir acerca da prorrogação da comissão de serviço do inspector José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL através da portaria n.º 193/2007, de 22 de Janeiro, publicada no Diário da República, 2.ª série, n.º 27, de 7 de Fevereiro de 2007.\n\nDecorre do disposto no n.º 2 do referido artigo 145.º do [Decreto-Lei n.º 275-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-2000-353541) que é permitida a prorrogação da comissão de serviço do referido oficial de ligação, havendo para o efeito que considerar que o mesmo se adaptou perfeitamente às suas funções, demonstrou ser detentor de perfil adequado e revelou elevados níveis de desempenho.\n\nAssim, ao abrigo do disposto no artigo 145.º do [Decreto-Lei n.º 275-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-2000-353541), de 9 de Novembro, manda o Governo, pelos Ministros dos Negócios Estrangeiros e da Justiça o seguinte:\n\nÉ prorrogada, a partir de 22 de Janeiro de 2010 e por um período de três anos, a comissão de serviço do inspector José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL pela portaria n.º 193/2007, de 22 de Janeiro.\n\n5 de Janeiro de 2010. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado. - O Ministro da Justiça, Alberto de Sousa Martins.\n\n202776198"
+  },
+  "04f681a1287bbb51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2010-03-16",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 517/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/517-2010-2224247), publicado em 2010-03-16.",
+    "Alterado pelo/a [Declaração de Rectificação n.º 517/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/517-2010-2224247), publicado em 2010-03-16."
+   ],
+   "markdown": "Nos termos do artigo 145.º do [Decreto-Lei n.º 275-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-2000-353541), de 9 de Novembro, os Ministros dos Negócios Estrangeiros e da Justiça podem nomear oficiais de ligação de entre pessoal de investigação criminal da Polícia Judiciária, para acreditação junto de países estrangeiros ou de organismos internacionais, em função de interesses nacionais e de compromissos assumidos no âmbito da cooperação.\n\nA acção dos oficiais de ligação tem um papel de decisiva importância na luta contra o crime organizado de natureza transnacional, em especial em áreas como o combate ao tráfico de estupefacientes (e crimes relacionados) ou ao terrorismo.\n\nNeste contexto, torna-se necessário decidir acerca da prorrogação da comissão de serviço do inspector António José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL através da portaria n.º 193/2007, de 22 de Janeiro, publicada no Diário da República, 2.ª série, n.º 27, de 7 de Fevereiro de 2007.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 517/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/517-2010-2224247), publicado em 2010-03-16.\n\nDecorre do disposto no n.º 2 do referido artigo 145.º do [Decreto-Lei n.º 275-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-2000-353541) que é permitida a prorrogação da comissão de serviço do referido oficial de ligação, havendo para o efeito que considerar que o mesmo se adaptou perfeitamente às suas funções, demonstrou ser detentor de perfil adequado e revelou elevados níveis de desempenho.\n\nAssim, ao abrigo do disposto no artigo 145.º do [Decreto-Lei n.º 275-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-2000-353541), de 9 de Novembro, manda o Governo, pelos Ministros dos Negócios Estrangeiros e da Justiça o seguinte:\n\nÉ prorrogada, a partir de 22 de Janeiro de 2010 e por um período de três anos, a comissão de serviço do inspector António José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL pela portaria n.º 193/2007, de 22 de Janeiro.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 517/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/517-2010-2224247), publicado em 2010-03-16.\n\n5 de Janeiro de 2010. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado. - O Ministro da Justiça, Alberto de Sousa Martins.\n\n202776198"
+  }
+ }
+}

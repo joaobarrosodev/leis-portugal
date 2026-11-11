@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-03-16'
+version_history:
+  file: portaria-50-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-01-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-03-16'
+    amending: pt:dre:2224247:por
+    amending_title: Declaração de Rectificação n.º 517/2010
+    changes:
+    - Altera Artigo unidades 4-4
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:26:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 517/2010.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2010/portaria-50-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,13 +134,17 @@ Nos termos do artigo 145.º do [Decreto-Lei n.º 275-A/2000](https://diariodarep
 
 A acção dos oficiais de ligação tem um papel de decisiva importância na luta contra o crime organizado de natureza transnacional, em especial em áreas como o combate ao tráfico de estupefacientes (e crimes relacionados) ou ao terrorismo.
 
-Neste contexto, torna-se necessário decidir acerca da prorrogação da comissão de serviço do inspector José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL através da portaria n.º 193/2007, de 22 de Janeiro, publicada no Diário da República, 2.ª série, n.º 27, de 7 de Fevereiro de 2007.
+Neste contexto, torna-se necessário decidir acerca da prorrogação da comissão de serviço do inspector António José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL através da portaria n.º 193/2007, de 22 de Janeiro, publicada no Diário da República, 2.ª série, n.º 27, de 7 de Fevereiro de 2007.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 517/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/517-2010-2224247), publicado em 2010-03-16.
 
 Decorre do disposto no n.º 2 do referido artigo 145.º do [Decreto-Lei n.º 275-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-2000-353541) que é permitida a prorrogação da comissão de serviço do referido oficial de ligação, havendo para o efeito que considerar que o mesmo se adaptou perfeitamente às suas funções, demonstrou ser detentor de perfil adequado e revelou elevados níveis de desempenho.
 
 Assim, ao abrigo do disposto no artigo 145.º do [Decreto-Lei n.º 275-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-2000-353541), de 9 de Novembro, manda o Governo, pelos Ministros dos Negócios Estrangeiros e da Justiça o seguinte:
 
-É prorrogada, a partir de 22 de Janeiro de 2010 e por um período de três anos, a comissão de serviço do inspector José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL pela portaria n.º 193/2007, de 22 de Janeiro.
+É prorrogada, a partir de 22 de Janeiro de 2010 e por um período de três anos, a comissão de serviço do inspector António José Coelho Duarte Alves, nomeado oficial de ligação para a EUROPOL pela portaria n.º 193/2007, de 22 de Janeiro.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 517/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/517-2010-2224247), publicado em 2010-03-16.
 
 5 de Janeiro de 2010. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado. - O Ministro da Justiça, Alberto de Sousa Martins.
 

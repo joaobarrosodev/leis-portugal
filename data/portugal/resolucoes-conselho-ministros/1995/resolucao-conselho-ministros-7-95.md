@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-12-14'
+version_history:
+  file: resolucao-conselho-ministros-7-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-12-14'
+    amending: pt:dre:402885:por
+    amending_title: Resolução do Conselho de Ministros n.º 208/97
+    changes:
+    - Altera Artigo 24.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/7/1995/01/31/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:09:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 208/97. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1995/resolucao-conselho-ministros-7-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -449,7 +464,7 @@ c) Nível III - restantes aglomerados.
 
 1 - Os espaços urbanos definidos na planta do ordenamento ficam sujeitos aos seguintes índices urbanos:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/026b00/05720579.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/283b00/65316532.pdf)
 
 2 - Todas as obras de construção, reconstrução, ampliação, reparação ou demolição de edifícios ou estruturas, todos os trabalhos que alterem a topografia, o sistema e o padrão de drenagem, realização de loteamentos, a construção de espaços urbanos, a construção, reparação ou ampliação de vias urbanas e de acesso urbano, a preparação de terrenos para essas finalidades, a ocupação ou utilização de espaços espectantes com edificações precárias ou com usos particulares, como a agricultura de complemento, ficam sujeitos a aprovação pelos serviços camarários responsáveis, ao cumprimento dos regulamentos e posturas municipais existentes ou a criar, ao Regulamento Geral das Edificações Urbanas, à regulamentação específica para a actividade em causa e ao estabelecido no presente Regulamento e no regulamento do plano de urbanização da área em causa.
 
@@ -523,13 +538,25 @@ d) Em qualquer dos casos mencionados, e quando não existir rede pública, dever
 
 7 - Nas operações de loteamento a implementar após a entrada em vigor do presente Regulamento ficam os proprietários obrigados a ceder à Câmara Municipal as áreas definidas no n.º 4 deste artigo.
 
-8 - As áreas de cedência definidas no ponto anterior podem ser permutadas com proprietários de outras parcelas, para outros usos, quando a sua dimensão ou geometria não permitir a implantação dos equipamentos colectivos requeridos, não podendo as áreas obtidas por este processo ser utilizadas para outros fins do que a instalação de equipamentos de interesse colectivos ou infra-estruturas de interesse público, obedecendo aos índices mínimos fixados para a situação original.
+8 - Nos espaços urbanos já consolidados o licenciamento de novas edificações, de alterações às existentes ou qualquer alteração da malha urbana deverá procurar assegurar que os valores mínimos referidos nos pontos anteriores sejam progressivamente assegurados.
 
-9 - Nos espaços urbanos já consolidados o licenciamento de novas edificações, de alterações às existentes ou qualquer alteração da malha urbana deverá procurar assegurar que os valores mínimos referidos nos pontos anteriores sejam progressivamente assegurados.
+9 - Dentro dos espaços urbanos não serão licenciadas actividades industriais, excepto nos casos definidos no artigo 21.º, devendo os casos actualmente existentes ser progressivamente corrigidos.
 
-10 - Dentro dos espaços urbanos não serão licenciadas actividades industriais, excepto nos casos definidos no artigo 21.º, devendo os casos actualmente existentes ser progressivamente corrigidos.
+10 - Dentro das zonas urbanas não serão licenciados quaisquer armazéns que, pelas suas dimensões ou perigosidade dos materiais a armazenar, possam constituir uma perturbação ao normal funcionamento do tecido urbano, nomeadamente em termos de circulação automóvel e de peões, ou constituir um risco para a saúde ou a segurança dos cidadãos ou dos edifícios, estruturas e infra-estruturas urbanas, devendo os casos actualmente existentes ser progressivamente corrigidos.
 
-11 - Dentro das zonas urbanas não serão licenciados quaisquer armazéns que, pelas suas dimensões ou perigosidade dos materiais a armazenar, possam constituir uma perturbação ao normal funcionamento do tecido urbano, nomeadamente em termos de circulação automóvel e de peões, ou constituir um risco para a saúde ou a segurança dos cidadãos ou dos edifícios, estruturas e infra-estruturas urbanas, devendo os casos actualmente existentes ser progressivamente corrigidos.
+11 - Exceptuam-se do preceituado no n.º 1 deste artigo os casos que, pela sua localização na malha urbana consolidada, preexistente edificada, configuração e devidamente justificados por estudo de enquadramento na envolvente, obedeçam ao seguinte:
+
+a) Os alinhamentos quer da fachada principal ou anterior quer da fachada de tardoz ou posterior e dos muros de vedação confrontantes com a via pública deverão sempre tomar como referência os alinhamentos dos edifícios ou muros de vedação vizinhos ou dominantes, não sendo invocável a eventual existência de alinhamentos que ultrapassem os referidos;
+
+b) A cércea deverá ser definida pela cércea dominante do conjunto em que se insere, não sendo invocável a eventual existência de edifícios vizinhos ou envolventes que excedam a altura dominante do conjunto;
+
+c) Os afastamentos laterais ao limite do terreno, na situação mais desfavorável, quando não existam situações de encosto já existentes ou outras situações previstas em instrumentos urbanísticos, deverão ser de 3 m se não existirem aberturas de compartimentos habitáveis;
+
+d) A área máxima para os anexos ou garagens em lotes de habitação unifamiliar e multifamiliar é de, respectivamente, 45 m2 e 25 m2 por fogo, não podendo em qualquer caso exceder 10% da área total do lote;
+
+e) Os anexos em logradouro de lotes para habitação só podem ter um piso coberto e o seu pé-direito não pode exceder os 2,4 m.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 208/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/208-1997-402885), publicado em 1997-12-09.
 
 ###### Artigo 25.º — Habitação social
 

@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:584626:por",
+  "substituicoes": [
+    {
+      "de": 91,
+      "ate": 91,
+      "texto": "10.º - 1 - Sem prejuízo do disposto no n.º 3) do n.º 13.º-A e nos n.os 1) a 3) do n.º 13.º-B do Aviso do Banco de Portugal n.º 12/2001, o reconhecimento dos impactes contabilísticos, decorrentes da transição para as Normas Internacionais de Contabilidade, no cálculo de fundos próprios e na determinação de requisitos mínimos de fundos próprios, pode ser diferido no tempo, de forma linear, durante três anos contados a partir da data a que se refere o n.º 2 deste n.º 10.º, caso esses impactes estejam associados a alterações de políticas contabilísticas nas seguintes áreas:",
+      "alterador": 1
+    },
+    {
+      "de": 96,
+      "ate": 99,
+      "texto": "e) Contabilização de instrumentos financeiros que tenham por subjacente acções emitidas pela própria instituição.\n\n2 - As instituições que se prevaleçam da possibilidade referida no número anterior deverão determinar o total dos mencionados impactes, positivos e negativos, relativos a todas as áreas ali identificadas, quando aplicável, com referência a 31 de Dezembro de 2004, ou a 31 de Dezembro de 2005 no caso de terem optado pelo regime previsto no n.º 1 do n.º 5.º do Aviso do Banco de Portugal n.º 1/2005, ou, se for caso disso, a data posterior, não sendo permitida a sua utilização parcial.\n\n11.º Sem prejuízo dos n.os 12.º-A a 12.º-C, as instituições que, no ano 2005, optem por preparar as suas demonstrações financeiras, em base individual, de acordo com a instrução n.º 4/96 (PCSB), ao abrigo da disposição transitória prevista no n.º 5.º do Aviso do Banco de Portugal n.º 1/2005, deverão calcular os fundos próprios individuais, referentes a 31 de Dezembro de 2005, tendo por base demonstrações financeiras, em base individual, preparadas de acordo com o disposto nos n.os 2.º e 3.º do Aviso do Banco de Portugal n.º 1/2005 (NCA).\n\n12.º Sem prejuízo dos n.os 12.º-A a 12.º-C, as instituições que, no ano 2005, optem por preparar as suas demonstrações financeiras, em base consolidada, de acordo com a instrução n.º 71/96 (PCSB), ao abrigo da disposição transitória prevista no n.º 5.º do Aviso do Banco de Portugal n.º 1/2005, deverão calcular os fundos próprios consolidados, referentes a 31 de Dezembro de 2005, tendo por base demonstrações financeiras, em base consolidada, preparadas de acordo com o disposto no n.º 2.º do Aviso do Banco de Portugal n.º 1/2005 (NIC).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 99,
+      "texto": "12.º-A A Caixa Central de Crédito Agrícola Mútuo, bem como as caixas de crédito agrícola mútuo do SICAM, caso se prevaleçam do regime previsto no n.º 1) do n.º 5.º-A do Aviso do Banco de Portugal n.º 1/2005, deverão calcular os fundos próprios e os requisitos mínimos de fundos próprios, em base individual, com referência a 31 de Dezembro de 2006, tendo por base as demonstrações financeiras individuais preparadas de acordo com os n.os 2.º e 3.º do Aviso n.º 1/2005 (NCA).\n\n12.º-B A Caixa Central de Crédito Agrícola Mútuo, caso se prevaleça do regime previsto no n.º 2) do n.º 5.º-A do Aviso do Banco de Portugal n.º 1/2005, deverá calcular os fundos próprios e os requisitos mínimos de fundos próprios, em base consolidada, com referência a 31 de Dezembro de 2006, tendo por base as demonstrações financeiras consolidadas preparadas de acordo com os n.os 2.º e 3.º do Aviso do Banco de Portugal n.º 1/2005 (NCA).\n\n12.º-C A Caixa Central de Crédito Agrícola Mútuo, caso, durante o exercício iniciado em 1 de Janeiro de 2007, opte por elaborar as suas demonstrações financeiras consolidadas de acordo com as normas específicas estabelecidas, conjuntamente, nos n.os 2.º e 3.º do Aviso do Banco de Portugal n.º 1/2005 (NCA), deverá calcular os fundos próprios e os requisitos mínimos de fundos próprios, em base consolidada, com referência a 31 de Dezembro de 2007, tendo por base as demonstrações financeiras consolidadas preparadas de acordo com o n.º 2.º do Aviso do Banco de Portugal n.º 1/2005 (NIC).",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Aviso 14/2005), 1.º: nova redação dos n.os 1 e 2 do n.º 10.º e dos n.os 11.º e 12.º; substituída a unidade 91 (corpo do n.º 1) e as unidades 96-99 (alínea f) passa a e) na nova redação, n.º 2, 11.º, 12.º); as alíneas a) a d) ficam iguais.",
+    "Alterador 1, 2.º: aditados os n.os 12.º-A, 12.º-B e 12.º-C, inseridos a seguir ao 12.º (unidade 99).",
+    "Alteradores 2 (Aviso 12/2006) e 5 (Aviso 6/2008): alteram o Aviso n.º 12/92 (outro diploma, apenas republicado em anexo ao original) e não o Aviso 2/2005: ignorados.",
+    "Alteradores 3 (Aviso 4/2007), 4 (Aviso 8/2008, Câmara de Braga), 6 (Aviso 9/2008) e 7 (Aviso 2/2009): não contêm instruções dirigidas ao original; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

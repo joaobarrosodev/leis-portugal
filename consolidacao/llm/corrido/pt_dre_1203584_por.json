@@ -1,0 +1,47 @@
+{
+  "id": "pt:dre:1203584:por",
+  "substituicoes": [
+    {
+      "de": 39,
+      "ate": 53,
+      "texto": "2.º - 1 - As indemnizações a atribuir aos produtores avícolas na sequência de abates sanitários são seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/02/035000000/0005200053.pdf)\n\n2 - As indemnizações são determinadas pela Direção-Geral de Alimentação e Veterinária (DGAV), mediante consulta às cotações de mercado constantes no Sistema de Informação de Mercados Agrícolas (SIMA) do Gabinete de Políticas e Planeamento (GPP), sempre que o preço de mercado para o produtor se revelar inferior às cotações constantes da tabela prevista no número anterior.\n\n3 - Sem prejuízo do disposto no n.º 1, no caso de espécies avícolas não constantes no SIMA, o valor de indemnização é determinado pela DGAV, mediante avaliação do GPP, que tenha por base o valor de mercado para o produtor.\n\n4 - Ao processo de indemnização referido no n.º 1, e sempre que aplicável, acresce ainda o pagamento de 80 % dos montantes relativos a despesas comprovadamente realizadas pelos produtores avícolas, quanto aos seguintes custos:\n\na) Abate ou eliminação seletiva dos animais e os custos de transporte associados;\n\nb) Limpeza e desinfeção de explorações e equipamento;\n\nc) Transporte e destruição dos alimentos para animais contaminados e equipamento contaminado, caso não possa ser desinfetado;\n\nd) Transporte e destruição das carcaças.",
+      "alterador": 3
+    },
+    {
+      "de": 55,
+      "ate": 55,
+      "texto": "4.º Se da averiguação referida no número anterior resultar da constatação de indícios de incumprimento por parte do criador, a DGAV deve iniciar de imediato o respetivo processo de contraordenação, ficando o pagamento da indemnização pendente da decisão final do processo em causa.",
+      "alterador": 3
+    },
+    {
+      "de": 59,
+      "ate": 59,
+      "texto": "8.º - (Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 38,
+      "texto": "1.º-A - Os proprietários dos ovinos e caprinos sujeitos a medidas de imunoprofilaxia obrigatória têm direito ao pagamento de um subsídio por aborto ocorrido, de valor equivalente ao subsídio de auto-repovoamento, desde que a averiguação efectuada pela DRA para o efeito conclua que o mesmo se verificou em consequência da vacinação.\n\n1.º-B - A indemnização a atribuir aos produtores de ovinos na sequência de morte decorrente da imunoprofilaxia obrigatória contra a língua azul é o valor constante do boletim semanal divulgado pelo Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) para efeitos de pagamento por indemnização por abate sanitário para a semana em que se efectuou a vacinação, ou, na sua ausência, os valores referentes às últimas cotações constantes do boletim do GPPAA.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 57,
+      "texto": "6.º-A - A execução financeira do presente despacho está sujeita ao disposto no [Decreto-Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2014-25343676), de 15 de maio, com as necessárias adaptações.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "A tabela do n.º 1 do n.º 2.º na redação do Despacho n.º 2132/2022 (alterador 3) só vem em imagem: ficou a ligação para o documento original, sem o conteúdo da tabela.",
+  "instrucoes": [
+    "Alterador 1 (Despacho Conjunto 152/2003): adita o n.º 1.º-A - inserido a seguir ao n.º 1.º (unidade 38), já na redação final dada pelo alterador 2.",
+    "Alterador 2 (Despacho Conjunto 624/2005): nova redação do n.º 1.º-A e aditamento do n.º 1.º-B - ambos inseridos a seguir à unidade 38.",
+    "Alterador 3 (Despacho 2132/2022), n.º 2: nova redação do n.º 2.º (unidades 39-53, tabela do n.º 1 só em imagem, mantida a ligação) e do n.º 4.º (unidade 55); 3.º, 5.º, 6.º e 7.º com [...] ficam como estão.",
+    "Alterador 3, n.º 3: regra de dedução de seguros, norma autónoma do alterador sem texto a introduzir no original - ignorada.",
+    "Alterador 3, n.º 4: adita o n.º 6.º-A - inserido a seguir à unidade 57.",
+    "Alterador 3, n.º 5: revoga o n.º 8.º - unidade 59 passa a '8.º - (Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

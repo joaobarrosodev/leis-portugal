@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 47-47",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - As provisões constituídas em 2002 e em 2003, no âmbito do presente aviso, poderão ser registadas contra reservas.",
+    "depois": "4 - As provisões constituídas em 2002, 2003 e 2004, no âmbito do presente n.º 5.º, poderão ser registadas contra reservas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:139425:por",
+    "alterador": "pt:dre:512621:por;pt:dre:171678:por"
+  },
+  {
+    "artigo": "unidades 48-48",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5 - O aumento de menos-valias latentes, verificado ao longo do período transitório, relativamente às participações financeiras existentes à data de 31 de Dezembro de 2001, deverá ser absorvido durante o mesmo período.",
+    "depois": "5 - O aumento de menos-valias latentes, verificado ao longo do período transitório, deverá ser absorvido durante o mesmo período.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:139425:por",
+    "alterador": "pt:dre:512621:por;pt:dre:171678:por"
+  }
+]

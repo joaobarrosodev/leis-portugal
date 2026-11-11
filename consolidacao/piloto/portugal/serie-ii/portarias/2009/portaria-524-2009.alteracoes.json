@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 18-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Luís Corte Real.\n\nRepresentante do Instituto da Conservação da Natureza:\n\nCristina Maria Faria Alves da Costa.",
+    "depois": "Julieta Manuela Ribeiro Sampaio Calçada Duarte.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2611424:por",
+    "alterador": "pt:dre:3594945:por"
+  }
+]

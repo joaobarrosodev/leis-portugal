@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:584230:por",
+  "substituicoes": [
+    {
+      "de": 423,
+      "ate": 428,
+      "texto": "À equipa técnica compete:\n\na) Assegurar a manutenção do sistema de informação do Programa a nível nacional e a produção de relatórios trimestrais sobre a sua evolução de forma a facultar ao Núcleo de Coordenação os elementos necessários ao acompanhamento e regulação estratégica do Programa;\n\nb) Desenvolver as actividades necessárias para estimular o aparecimento de propostas de formação que se integrem nos objectivos e no programa quadro de formação Foral;\n\nc) Manter actualizado o quadro de necessidades de formação para a administração local através da acção continuada de identificação de novas necessidades de formação;\n\nd) Promover a difusão de boas práticas de formação;\n\ne) Diagnosticar dificuldades e obstáculos que se levantam à operacionalidade e eficácia do Programa e propor ao Núcleo de Coordenação medidas adequadas à sua resolução;\n\nf) Operacionalizar as medidas e acções que venham a ser tomadas em sede do Núcleo de Coordenação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (RCM 146/2002), n.º 6: nova redação do sétimo parágrafo do n.º 7.2 do Programa (o das competências da equipa técnica, unidade 423 e a sua enumeração 424-428); substituídas as unidades 423 a 428.",
+    "Alterador 1, n.os 1 a 5 e 7 a 10: extingue o Grupo Coordenador e cria o Núcleo de Coordenação; disposições próprias sem alteração textual do original.",
+    "Alterador 2 (Despacho 20713/2009): extingue o grupo coordenador e a equipa técnica; não textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

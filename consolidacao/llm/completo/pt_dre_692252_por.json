@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:692252:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria n.º 721/2005), 2 (Portaria n.º 619/2008) e 3 (Portaria n.º 1108/2009) apenas declaram praias (Figueirinha; Aguda) como de uso suspenso por um ano: suspensão temporária, não é alteração textual do Regulamento do POOC Sintra-Sado. Alteradores 4 (RCM n.º 66/2019) e 5 (RCM n.º 87-A/2022) vêm sem nenhum artigo que mencione o original, pelo que não há instrução aplicável.",
+  "instrucoes": [
+    "Alterador 1: declara a praia da Figueirinha de uso suspenso por um ano; não textual, nada aplicado.",
+    "Alterador 2: declara a praia da Aguda de uso suspenso por um ano; não textual, nada aplicado.",
+    "Alterador 3: mantém a praia da Aguda de uso suspenso por um ano; não textual, nada aplicado.",
+    "Alterador 4: sem artigos que mencionem o original; nada aplicado.",
+    "Alterador 5: sem artigos que mencionem o original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

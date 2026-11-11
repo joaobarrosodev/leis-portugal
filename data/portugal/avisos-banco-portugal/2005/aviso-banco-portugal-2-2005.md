@@ -41,10 +41,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-12-30'
+version_history:
+  file: aviso-banco-portugal-2-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-12-30'
+    amending: pt:dre:472770:por
+    amending_title: Aviso do Banco de Portugal n.º 14/2005
+    changes:
+    - Altera Artigo unidades 91-91
+    - Altera Artigo unidades 96-99
+    - Adita Artigo depois da unidade 99
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/avbdp/2/2005/02/28/p/dre/pt/html
@@ -70,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:08:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso do Banco de Portugal n.º 14/2005.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/avisos-banco-portugal/2005/aviso-banco-portugal-2-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -327,7 +344,9 @@ d) Ao valor dos elementos classificados como activos disponíveis para venda aos
 
 e) Ao valor de propriedades de investimento e de outros activos fixos tangíveis, aos quais estejam associados ganhos não realizados que tenham sido considerados como elemento positivo dos fundos próprios, o qual deve vir deduzido da parcela não elegível daqueles ganhos.»
 
-10.º - 1 - Sem prejuízo do disposto no n.º 3) do n.º 13.º-A do aviso n.º 12/2001, o reconhecimento dos impactes contabilísticos, decorrentes da transição para as Normas Internacionais de Contabilidade, no cálculo de fundos próprios e na determinação de requisitos mínimos de fundos de próprios pode ser diferido no tempo, de forma linear, até 31 de Dezembro de 2007, caso esses impactes estejam associados a alterações de políticas contabilísticas nas seguintes áreas:
+10.º - 1 - Sem prejuízo do disposto no n.º 3) do n.º 13.º-A e nos n.os 1) a 3) do n.º 13.º-B do Aviso do Banco de Portugal n.º 12/2001, o reconhecimento dos impactes contabilísticos, decorrentes da transição para as Normas Internacionais de Contabilidade, no cálculo de fundos próprios e na determinação de requisitos mínimos de fundos próprios, pode ser diferido no tempo, de forma linear, durante três anos contados a partir da data a que se refere o n.º 2 deste n.º 10.º, caso esses impactes estejam associados a alterações de políticas contabilísticas nas seguintes áreas:
+
+> Alterado pelo/a [Aviso do Banco de Portugal n.º 14/2005](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/14-2005-472770), publicado em 2005-12-30.
 
 a) Critérios de valorimetria de instrumentos financeiros, com excepção do crédito e outros valores a receber;
 
@@ -337,13 +356,23 @@ c) Tratamento de diferenças cambiais em participações financeiras;
 
 d) Relevação de impostos diferidos activos;
 
-f) Contabilização de instrumentos financeiros que tenham por subjacente acções emitidas pela própria instituição.
+e) Contabilização de instrumentos financeiros que tenham por subjacente acções emitidas pela própria instituição.
 
-2 - As instituições que se prevaleçam da possibilidade referida no número anterior deverão determinar o total dos mencionados impactes, positivos e negativos, relativos a todas as áreas ali identificadas, quando aplicável, com referência a 31 de Dezembro de 2004, não sendo permitida a sua utilização parcial.
+2 - As instituições que se prevaleçam da possibilidade referida no número anterior deverão determinar o total dos mencionados impactes, positivos e negativos, relativos a todas as áreas ali identificadas, quando aplicável, com referência a 31 de Dezembro de 2004, ou a 31 de Dezembro de 2005 no caso de terem optado pelo regime previsto no n.º 1 do n.º 5.º do Aviso do Banco de Portugal n.º 1/2005, ou, se for caso disso, a data posterior, não sendo permitida a sua utilização parcial.
 
-11.º As instituições que, no ano de 2005, optem por preparar as suas demonstrações financeiras, em base individual, de acordo com a Instrução n.º 4/96 (PCSB) ao abrigo da disposição transitória prevista no n.º 5.º do Aviso do Banco de Portugal n.º 1/2005, deverão calcular os fundos próprios individuais, referentes a 31 de Dezembro de 2005, tendo por base demonstrações financeiras, em base individual, preparadas de acordo com o disposto nos n.os 2.º e 3.º do Aviso do Banco de Portugal n.º 1/2005 (NCA).
+11.º Sem prejuízo dos n.os 12.º-A a 12.º-C, as instituições que, no ano 2005, optem por preparar as suas demonstrações financeiras, em base individual, de acordo com a instrução n.º 4/96 (PCSB), ao abrigo da disposição transitória prevista no n.º 5.º do Aviso do Banco de Portugal n.º 1/2005, deverão calcular os fundos próprios individuais, referentes a 31 de Dezembro de 2005, tendo por base demonstrações financeiras, em base individual, preparadas de acordo com o disposto nos n.os 2.º e 3.º do Aviso do Banco de Portugal n.º 1/2005 (NCA).
 
-12.º As instituições que, no ano de 2005, optem por preparar as suas demonstrações financeiras, em base consolidada, de acordo com a Instrução n.º 71/96 (PCSB) ao abrigo da disposição transitória prevista no n.º 5.º do Aviso do Banco de Portugal n.º 1/2005, deverão calcular os fundos próprios consolidados, referentes a 31 de Dezembro de 2005, tendo por base demonstrações financeiras, em base consolidada, preparadas de acordo com o disposto no n.º 2.º do Aviso do Banco de Portugal n.º 1/2005 (NIC).
+12.º Sem prejuízo dos n.os 12.º-A a 12.º-C, as instituições que, no ano 2005, optem por preparar as suas demonstrações financeiras, em base consolidada, de acordo com a instrução n.º 71/96 (PCSB), ao abrigo da disposição transitória prevista no n.º 5.º do Aviso do Banco de Portugal n.º 1/2005, deverão calcular os fundos próprios consolidados, referentes a 31 de Dezembro de 2005, tendo por base demonstrações financeiras, em base consolidada, preparadas de acordo com o disposto no n.º 2.º do Aviso do Banco de Portugal n.º 1/2005 (NIC).
+
+> Alterado pelo/a [Aviso do Banco de Portugal n.º 14/2005](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/14-2005-472770), publicado em 2005-12-30.
+
+12.º-A A Caixa Central de Crédito Agrícola Mútuo, bem como as caixas de crédito agrícola mútuo do SICAM, caso se prevaleçam do regime previsto no n.º 1) do n.º 5.º-A do Aviso do Banco de Portugal n.º 1/2005, deverão calcular os fundos próprios e os requisitos mínimos de fundos próprios, em base individual, com referência a 31 de Dezembro de 2006, tendo por base as demonstrações financeiras individuais preparadas de acordo com os n.os 2.º e 3.º do Aviso n.º 1/2005 (NCA).
+
+12.º-B A Caixa Central de Crédito Agrícola Mútuo, caso se prevaleça do regime previsto no n.º 2) do n.º 5.º-A do Aviso do Banco de Portugal n.º 1/2005, deverá calcular os fundos próprios e os requisitos mínimos de fundos próprios, em base consolidada, com referência a 31 de Dezembro de 2006, tendo por base as demonstrações financeiras consolidadas preparadas de acordo com os n.os 2.º e 3.º do Aviso do Banco de Portugal n.º 1/2005 (NCA).
+
+12.º-C A Caixa Central de Crédito Agrícola Mútuo, caso, durante o exercício iniciado em 1 de Janeiro de 2007, opte por elaborar as suas demonstrações financeiras consolidadas de acordo com as normas específicas estabelecidas, conjuntamente, nos n.os 2.º e 3.º do Aviso do Banco de Portugal n.º 1/2005 (NCA), deverá calcular os fundos próprios e os requisitos mínimos de fundos próprios, em base consolidada, com referência a 31 de Dezembro de 2007, tendo por base as demonstrações financeiras consolidadas preparadas de acordo com o n.º 2.º do Aviso do Banco de Portugal n.º 1/2005 (NIC).
+
+> Aditado pelo/a [Aviso do Banco de Portugal n.º 14/2005](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/14-2005-472770), publicado em 2005-12-30.
 
 13.º Este aviso entra em vigor no dia seguinte ao da data da sua publicação.
 

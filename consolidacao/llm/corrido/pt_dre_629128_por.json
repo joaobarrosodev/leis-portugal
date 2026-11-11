@@ -1,0 +1,70 @@
+{
+  "id": "pt:dre:629128:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2 - Nomear como vogais executivos da comissão diretiva do PO regional do Norte, cujo presidente, responsável pela estrutura de missão, é, por inerência, o presidente da comissão de coordenação e desenvolvimento regional (CCDR) do Norte, João Rui de Sousa Simões Fernandes Marrana e Carlos Manuel Duarte Oliveira, este último por indicação da Associação Nacional de Municípios Portugueses.",
+      "alterador": 5
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "4 - Nomear como vogais executivos da comissão diretiva do PO regional do Centro, cujo presidente, responsável pela estrutura de missão, é, por inerência, o presidente da CCDR do Centro, Ana Maria Pereira Abrunhosa e Isabel Damasceno Vieira de Campos Costa, esta última por indicação da Associação Nacional de Municípios Portugueses.",
+      "alterador": 5
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "6 - Nomear como vogais não executivos da comissão diretiva do PO regional de Lisboa, cujo presidente, responsável pela estrutura de missão, é, por inerência, o presidente da CCDR de Lisboa e Vale do Tejo, Fernando Sousa Ferreira e Demétrio Carlos Alves, este último por indicação da Associação Nacional de Municípios Portugueses.",
+      "alterador": 5
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "8 - Nomear como vogais executivos da comissão diretiva do PO regional do Alentejo, cujo presidente, responsável pela estrutura de missão, é, por inerência, o presidente da CCDR do Alentejo, António Francisco Costa da Silva e Filipe José Guerreiro Palma, este último por indicação da Associação Nacional de Municípios Portugueses.",
+      "alterador": 5
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "10 - Nomear como vogais não executivos da comissão diretiva do PO regional do Algarve, cujo presidente, responsável pela estrutura de missão, é, por inerência, o presidente da CCDR do Algarve, António Manuel Alhinho Covas e José Macário Correia, este último por indicação da Associação Nacional de Municípios Portugueses.",
+      "alterador": 5
+    },
+    {
+      "de": 19,
+      "ate": 23,
+      "texto": "12 - (Revogado.)",
+      "alterador": 5
+    },
+    {
+      "de": 27,
+      "ate": 36,
+      "texto": "a) Relativamente aos presidentes das comissões diretivas:\n\ni) Remuneração mensal ilíquida equivalente a 90 % do vencimento mensal ilíquido de presidente de conselho de administração de empresa pública de Grupo C, determinado nos termos da [Resolução do Conselho de Ministros n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2012-543034), de 14 de fevereiro;\n\nii) Despesas de representação, no montante de 30 % da remuneração prevista na subalínea anterior;\n\nb) Relativamente aos vogais executivos das comissões diretivas:\n\ni) Remuneração mensal ilíquida equivalente a 90 % da remuneração mensal ilíquida do presidente da comissão diretiva;\n\nii) Despesas de representação, no montante de 25 % da respetiva remuneração;\n\nc) Relativamente aos vogais não executivos das comissões diretivas:\n\ni) Remuneração mensal ilíquida equivalente a 25 % da remuneração mensal ilíquida fixada para os vogais executivos das respetivas comissões diretivas;\n\nd) Aos membros das comissões diretivas referidas nas alíneas anteriores aplicam-se, com as necessárias adaptações, os limites e impedimentos previstos no artigo 32.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, com as alterações introduzidas pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, e pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro;\n\ne) Aos presidentes das comissões diretivas referidas nas alíneas anteriores aplicam-se os limites previstos no artigo 33.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, com as alterações introduzidas pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, e pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, de acordo com deliberação da comissão ministerial de coordenação do QREN.",
+      "alterador": 5
+    },
+    {
+      "de": 41,
+      "ate": 42,
+      "texto": "20 - (Revogado.)\n\n21 - (Revogado.)",
+      "alterador": 5
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 45,
+      "texto": "25 - Determinar que, durante a vigência do Programa de Assistência Económica e Financeira (PAEF) a Portugal, a remuneração mensal ilíquida e as despesas de representação dos membros das comissões diretivas são pagas 12 vezes por ano.\n\n26 - Determinar que a remuneração mensal ilíquida e as despesas de representação dos membros das comissões diretivas se encontram sujeitas às reduções remuneratórias que as tomem por objeto, estabelecidas por força da situação de dificuldade económica e financeira do Estado ou do PAEF.",
+      "alterador": 5
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alteradores 1 (Resolução 5/2008), 2 (Resolução 21/2008), 3 (Despacho 18520/2009), 4 (Resolução 5/2010) e 6 (Aviso 7652/2012): exonerações, nomeações e renúncias sem alteração textual do original; nada a aplicar.",
+    "Alterador 5 (RCM 41/2012), n.º 1: nova redação dos n.os 2, 4, 6, 8 e 10 (unidades 9, 11, 13, 15, 17) e das alíneas a) a e) do n.º 15 (unidades 27-36; o corpo do n.º 15 fica, '15 - ...').",
+    "Alterador 5, n.º 2: aditados os n.os 25 e 26, inseridos a seguir ao n.º 24 (unidade 45).",
+    "Alterador 5, n.º 3: revogados os n.os 12 (corpo e alíneas, unidades 19-23), 20 e 21 (unidades 41-42), que ficam com '(Revogado.)'. O anexo de notas curriculares do alterador 5 é do próprio alterador: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
