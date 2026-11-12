@@ -71,7 +71,8 @@ def mostrar(consulta: Consulta, resposta, k: int) -> None:
             for j in do_artigo:
                 if j["mostrar"]:
                     data = jurisprudencia.data_pt(j["data"])
-                    print(f"   · Acórdão n.º {j['numero']}, de {data}: {jurisprudencia.ROTULOS.get(j['sentido'], j['sentido'])}")
+                    quando = f", de {data}" if data else ""
+                    print(f"   · Acórdão n.º {j['numero']}{quando}: {jurisprudencia.ROTULOS.get(j['sentido'], j['sentido'])}")
                     if j.get("url"):
                         print(f"     {j['url']}")
             resto = Counter(jurisprudencia.ROTULOS.get(j["sentido"], j["sentido"]).lower() for j in do_artigo if not j["mostrar"])
