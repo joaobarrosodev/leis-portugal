@@ -83,6 +83,8 @@ Conclusão: com os reparos, o rendimento sobe de 6 em 100 (ronda 81) para 32 em 
 
 O `juntar` do pedido completo passa agora a deixar como "não junto" os diplomas do `llm/gigantes-ids.txt`. Só três diplomas tinham resposta nos dois pedidos, estes três, por isso o erro não tocou em mais nenhum. As duas vistas refizeram-se e voltaram a ser verificadas, e as duas deram tudo `certo`.
 
+**Ronda 105: Decreto 45205 (Regulamento das Radiocomunicações de 1959).** Foi pelo `llm_gigantes.py`, numa só passagem, porque tem 1 alterador, o Decreto Regulamentar 10-A/77. O texto atual tem 846 mil caracteres e foi num ficheiro à parte. O respondedor Opus não encontrou nenhuma instrução para aplicar. O decreto regulamentar só aprova a revisão de Genebra de 1971, e as alterações estão nos anexos 1 a 19. No acervo, o alterador tem 12 mil caracteres: o preâmbulo, as assinaturas e ligações "(ver documento original)" para o PDF. O `juntar` deixou-o como "não junto" (a resposta não muda nada), por isso não há vistas nem verificação às cegas. **Não foi aplicado.** Juntou-se ao `llm/gigantes-ids.txt`.
+
 ### Triagem: alterações que as regras não leem (12/11/2026)
 
 A leitura das instruções (`alteracoes.ler`) só vê uma instrução dirigida ao original pelo número. Escapam três coisas:
