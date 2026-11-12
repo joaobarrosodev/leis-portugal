@@ -276,8 +276,18 @@
             "dre",
             "norma_revogatoria",
             "relacao_dre",
-            "clausula_vigencia"
+            "clausula_vigencia",
+            "prova_manual"
           ]
+        },
+        "dre_status": {
+          "type": "string",
+          "description": "Prova manual: o estado que a fonte dá (volta se a prova for retirada de reports/vigencia-manual.jsonl)."
+        },
+        "reason": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Prova manual: porque deixou de vigorar."
         },
         "evidence": {
           "type": "array",

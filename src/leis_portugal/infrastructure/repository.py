@@ -339,7 +339,15 @@ def _preserve_derived(new: LegalRecord, existing: LegalRecord) -> None:
         new.entry_into_force = existing.entry_into_force
         if not new.entry_into_force_dates:
             new.entry_into_force_dates = list(existing.entry_into_force_dates)
-    if new.legal_status == "unknown" and existing.legal_status_basis:
+    basis = existing.legal_status_basis or {}
+    if basis.get("source") == "prova_manual":
+        # Uma prova manual sobrepõe-se ao estado da fonte: guarda-se o que a fonte diz agora
+        # (volta se a prova for retirada) e mantém-se a relação que a prova juntou.
+        manual = [relation for relation in existing.relationships if relation.source and "vigencia-manual" in relation.source]
+        new.legal_status_basis = {**basis, "dre_status": new.legal_status}
+        new.legal_status = existing.legal_status
+        new.add_relationships(manual)
+    elif new.legal_status == "unknown" and basis:
         new.legal_status, new.legal_status_basis = existing.legal_status, existing.legal_status_basis
 
 

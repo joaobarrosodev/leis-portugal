@@ -50,7 +50,8 @@ def structure_command(args) -> int:
         return 0
     applied = apply(repository, report, report.rows, progress=progress)
     print(
-        f"Registos: {applied.entry_into_force} com entrada em vigor; {applied.legal_status} com vigência provada; "
+        f"Registos: {applied.entry_into_force} com entrada em vigor; {applied.legal_status} com vigência provada "
+        f"({applied.manual} por prova manual); "
         f"{applied.withdrawn} com a vigência retirada (prova que deixou de existir); "
         f"{applied.updated} alterados"
     )
