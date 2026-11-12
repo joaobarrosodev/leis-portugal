@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 694/2013
-official_date: '2010-10-10'
+official_date: '2013-10-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 671/13'
 - 'Espécie: Reclamação'
+- 'Data corrigida: o site dá 10.10.2010; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

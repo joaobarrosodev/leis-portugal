@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11",
+  "generated_at": "2026-11-12",
   "sources": [
     {
       "id": "eurlex-cellar",
@@ -9,7 +9,7 @@
       "last_verified_at": "2026-10-26",
       "verified_scope": "Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos regulamentos, diretivas e decisões referidos por documentos do acervo; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos.",
       "reuse_status": "permitted_with_conditions",
-      "documents_in_repository": 35671
+      "documents_in_repository": 53937
     },
     {
       "id": "dre",
@@ -19,7 +19,7 @@
       "last_verified_at": "2026-10-26",
       "verified_scope": "1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores); documentos em falta e documentos referidos encontrados pelos sitemaps públicos (todas as séries); catálogo do Jornal Oficial dos Açores; legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data).",
       "reuse_status": "permitted",
-      "documents_in_repository": 304885
+      "documents_in_repository": 305886
     },
     {
       "id": "parlamento",
@@ -35,10 +35,20 @@
       "id": "cnpd",
       "name": "Comissão Nacional de Proteção de Dados",
       "jurisdiction": "portugal",
-      "operational_status": "planned",
-      "last_verified_at": null,
-      "verified_scope": null,
-      "reuse_status": "unresolved",
+      "operational_status": "operational",
+      "last_verified_at": "2026-11-12",
+      "verified_scope": "Histórico de decisões de 1994 a 2026 por ano e tipo (pareceres, deliberações, diretrizes, regulamentos, registos e autorizações; 122.223 anunciados a 12/11/2026, dos quais 114.331 autorizações), com o PDF de cada decisão e o texto extraído quando o PDF tem camada de texto.",
+      "reuse_status": "permitted_with_conditions",
+      "documents_in_repository": 0
+    },
+    {
+      "id": "tribunal-constitucional",
+      "name": "Tribunal Constitucional",
+      "jurisdiction": "portugal",
+      "operational_status": "operational",
+      "last_verified_at": "2026-11-12",
+      "verified_scope": "Acórdãos de 1983 a 2026: listagens anuais em blocos de 100 (processo, formação, espécie, data e relator) e o texto HTML de cada acórdão; ligação ao registo do DRE quando o acórdão foi publicado no Diário da República.",
+      "reuse_status": "restricted",
       "documents_in_repository": 0
     }
   ]

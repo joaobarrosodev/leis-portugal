@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 355/1998
-official_date: '1996-05-12'
+official_date: null
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 482/97'
 - 'Espécie: Recurso'
+- 'Sem data: o site dá 12.05.1996, que não é do ano do número do acórdão, e a assinatura não a confirma.'
 language: por
 version:
   kind: original

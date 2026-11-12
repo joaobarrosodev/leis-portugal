@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 323/1997
-official_date: '2004-04-17'
+official_date: '1997-02-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 58/97'
 - 'Espécie: Recurso'
+- 'Data corrigida: o site dá 17.04.2004; usada a data da assinatura do acórdão.'
 language: por
 version:
   kind: original

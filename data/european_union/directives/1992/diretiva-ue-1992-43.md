@@ -333,6 +333,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:106663434:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1066993460:por
   label: null
   source: null
@@ -358,6 +362,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:1066993466:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:107635438:por
   label: null
   source: null
 - type: cited_by
@@ -830,6 +838,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:66639519:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:67098298:por
   label: null
   source: null
 - type: cited_by

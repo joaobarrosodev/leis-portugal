@@ -278,6 +278,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/b3dd3f39-0804-11e4-a7d0-01aa75ed71a1
   date: '2014-07-10'
 - type: transposed_by
+  target: pt:dre:1194495725:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:145102349:por
   label: null
   source: null

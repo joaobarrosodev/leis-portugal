@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 285/2023
-official_date: '0203-05-25'
+official_date: '2023-05-25'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 76/23'
 - 'Espécie: Reclamação'
+- 'Data corrigida: o site dá 25.05.0203; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

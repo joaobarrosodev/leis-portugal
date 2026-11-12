@@ -286,3 +286,37 @@ def test_cnpd_without_text_reprocesses_only_the_records_without_text(repo_root: 
     assert ids_without_text(directory) == set()
     saved = (directory / "pareceres" / "2025" / "parecer-1-2025.md").read_text(encoding="utf-8")
     assert "Texto obtido por OCR em 1 de 1 página(s)" in saved
+
+
+def _tc_item(decided: str | None, *, number: int = 151, year: int = 2025) -> tc.Listed:
+    return tc.Listed(number, year, f"{year}{number:04d}.html", None, None, None, decided, None)
+
+
+def test_tc_date_from_listing_when_the_year_matches_the_number():
+    # Mesmo que a última linha "Lisboa, ..." seja outra (muitas vezes é a de um documento citado).
+    text = "Acordam...\n\nLisboa, 3 de janeiro de 2025 – A – B"
+    assert tc.decision_date(_tc_item("2025-02-18"), text) == ("2025-02-18", None)
+
+
+def test_tc_date_typo_in_the_year_is_fixed_when_the_signature_confirms_day_and_month():
+    date, note = tc.decision_date(_tc_item("0205-02-18"), "Acordam...\n\nLisboa, 18 de fevereiro de 2025 – A – B")
+    assert date == "2025-02-18"
+    assert note.startswith("Data corrigida: o site dá 18.02.0205")
+    # Ano cortado na assinatura ("de 199"): o dia e o mês batem, vale o ano do número.
+    date, _ = tc.decision_date(_tc_item("1997-02-28", number=187, year=1996), "Lisboa, 28 de Fevereiro de 199 Messias Bento")
+    assert date == "1996-02-28"
+
+
+def test_tc_date_from_the_signature_when_the_listing_is_wrong():
+    date, note = tc.decision_date(_tc_item("2004-04-17", number=323, year=1997), "Lisboa, 5 de Fevereiro de 1997 – A")
+    assert date == "1997-02-05"
+    assert "usada a data da assinatura" in note
+    date, _ = tc.decision_date(_tc_item(None, number=123, year=2022), "Lisboa, 3 de fevereiro de 2022")
+    assert date == "2022-02-03"
+
+
+def test_tc_date_kept_when_listing_and_signature_agree_and_dropped_when_nothing_matches():
+    assert tc.decision_date(_tc_item("1993-12-20", number=1, year=1994), "Lisboa, 20 de dezembro de 1993") == ("1993-12-20", None)
+    date, note = tc.decision_date(_tc_item("1996-05-12", number=355, year=1998), "Lisboa, 12 de Maio de 1996")
+    assert date is None
+    assert note.startswith("Sem data:")

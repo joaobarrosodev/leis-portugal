@@ -1,119 +1,120 @@
 # Cobertura do acervo
 
-Relatório gerado em 2026-11-11 a partir dos registos presentes em `data/`.
+Relatório gerado em 2026-11-12 a partir dos registos presentes em `data/`.
 
 **Este relatório não representa cobertura integral da legislação portuguesa ou europeia.**
 A metodologia conta apenas ficheiros existentes e válidos no repositório; não usa estimativas.
 
 ## Totais verificados
 
-- Documentos recolhidos: 340556
-- Documentos validados: 340556
-- Fontes registadas: 4
-- Fontes operacionais: 2
+- Documentos recolhidos: 359823
+- Documentos validados: 359823
+- Fontes registadas: 5
+- Fontes operacionais: 4
 
 ## Fontes
 
 | Fonte | Estado operacional | Reutilização | Documentos no repositório | Âmbito verificado |
 |---|---|---|---|---|
-| eurlex-cellar | operational | permitted_with_conditions | 35671 | Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos regulamentos, diretivas e decisões referidos por documentos do acervo; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos. |
-| dre | operational | permitted | 304885 | 1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores); documentos em falta e documentos referidos encontrados pelos sitemaps públicos (todas as séries); catálogo do Jornal Oficial dos Açores; legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data). |
+| eurlex-cellar | operational | permitted_with_conditions | 53937 | Descoberta por data de publicação no JO (incluindo a publicação ato a ato desde 2023), recolha por CELEX e dos regulamentos, diretivas e decisões referidos por documentos do acervo; texto do JO ou consolidado, histórico de versões consolidadas, EuroVoc, autores e relações nos dois sentidos. |
+| dre | operational | permitted | 305886 | 1.ª Série por data de publicação (lista do dia, detalhe, texto formatado, alterações/retificações da análise jurídica e descritores); documentos em falta e documentos referidos encontrados pelos sitemaps públicos (todas as séries); catálogo do Jornal Oficial dos Açores; legislação consolidada com histórico de versões (sitemap, cronologia e texto em cada data). |
 | parlamento | planned | unresolved | 0 | — |
-| cnpd | planned | unresolved | 0 | — |
+| cnpd | operational | permitted_with_conditions | 0 | Histórico de decisões de 1994 a 2026 por ano e tipo (pareceres, deliberações, diretrizes, regulamentos, registos e autorizações; 122.223 anunciados a 12/11/2026, dos quais 114.331 autorizações), com o PDF de cada decisão e o texto extraído quando o PDF tem camada de texto. |
+| tribunal-constitucional | operational | restricted | 0 | Acórdãos de 1983 a 2026: listagens anuais em blocos de 100 (processo, formação, espécie, data e relator) e o texto HTML de cada acórdão; ligação ao registo do DRE quando o acórdão foi publicado no Diário da República. |
 
 ## Por jurisdição
 
 | Jurisdição | Documentos |
 |---|---:|
-| european_union | 35671 |
-| portugal | 274335 |
-| regional | 30550 |
+| european_union | 53937 |
+| portugal | 275333 |
+| regional | 30553 |
 
 ## Por região
 
 | Região | Documentos |
 |---|---:|
 | acores | 26998 |
-| madeira | 3552 |
-| nacional | 310006 |
+| madeira | 3555 |
+| nacional | 329270 |
 
 ## Por tipo de diploma
 
 | Tipo | Documentos |
 |---|---:|
-| portaria | 114592 |
+| portaria | 114803 |
 | decreto | 47478 |
-| decreto-lei | 31724 |
-| regulation | 22782 |
-| declaracao-retificacao | 17444 |
+| decreto-lei | 31725 |
+| regulation | 29857 |
+| decision | 19914 |
+| declaracao-retificacao | 17447 |
 | resolucao | 15239 |
-| despacho-normativo | 13623 |
-| aviso | 12776 |
-| decision | 8755 |
-| declaracao | 8417 |
-| resolucao-conselho-ministros | 6914 |
+| despacho-normativo | 13625 |
+| aviso | 13328 |
+| declaracao | 8495 |
+| resolucao-conselho-ministros | 6915 |
 | lei | 6716 |
 | decreto-presidente-republica | 6068 |
 | resolucao-assembleia-republica | 4908 |
-| directive | 4134 |
-| despacho | 3273 |
+| directive | 4166 |
+| despacho | 3378 |
 | decreto-regulamentar-regional | 2603 |
 | decreto-legislativo-regional | 2436 |
 | decreto-regulamentar | 1933 |
 | resolucao-assembleia-legislativa-regional | 1868 |
-| aviso-extrato | 765 |
+| aviso-extrato | 771 |
 | rectificacao | 636 |
 | despacho-extrato | 576 |
-| edital | 508 |
-| regulamento | 486 |
+| edital | 515 |
+| regulamento | 487 |
 | acordao | 457 |
 | decreto-governo | 293 |
 | decreto-regional | 280 |
 | aviso-banco-portugal | 243 |
+| deliberacao | 229 |
 | acordao-supremo-tribunal-justica | 212 |
-| deliberacao | 211 |
 | regulamento-cmvm | 198 |
 | assento | 190 |
 | acordao-doutrinario | 183 |
 | acordao-tribunal-constitucional | 168 |
 | mapa-oficial | 162 |
-| despacho-conjunto | 148 |
+| despacho-conjunto | 150 |
 | acordao-supremo-tribunal-administrativo | 122 |
-| anuncio | 98 |
+| anuncio | 101 |
 | lei-organica | 94 |
 | resolucao-assembleia-nacional | 91 |
 | deliberacao-extrato | 79 |
 | despacho-ministerial | 72 |
 | decreto-representante-republica | 69 |
-| diretiva | 51 |
+| diretiva | 53 |
 | decreto-ministro-republica | 49 |
 | acordao-extrato | 31 |
 | louvor | 26 |
 | mapa | 26 |
 | contrato-extrato | 25 |
 | portaria-extrato | 24 |
+| declaracao-extrato | 21 |
 | regimento | 21 |
-| declaracao-extrato | 20 |
 | jurisprudencia | 20 |
 | parecer-conselho-estado | 20 |
+| norma-regulamentar-instituto-seguros-portugal | 17 |
 | acordo-coletivo-trabalho | 13 |
 | mocao-confianca | 12 |
-| norma-regulamentar-instituto-seguros-portugal | 11 |
 | resolucao-extrato | 11 |
 | despacho-normativo-extrato | 10 |
 | mocao | 10 |
 | alvara-extrato | 8 |
 | declaracao-retificacao-extrato | 8 |
+| deliberacao-extracto | 8 |
 | instrucao | 8 |
 | lei-constitucional | 8 |
 | nova-publicacao-rectificacao | 8 |
 | parecer | 8 |
 | acordo | 7 |
 | contrato | 7 |
-| deliberacao-extracto | 7 |
+| norma-regulamentar-autoridade-supervisao-seguros-fundos-pensoes | 6 |
 | regimento-assembleia-republica | 6 |
 | alvara | 5 |
-| norma-regulamentar-autoridade-supervisao-seguros-fundos-pensoes | 5 |
 | regulamento-extrato | 5 |
 | acordao-tribunal-contas | 4 |
 | instrucoes | 4 |
@@ -156,53 +157,53 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 | Versão | Documentos |
 |---|---:|
-| consolidated | 13012 |
-| original | 327544 |
+| consolidated | 14139 |
+| original | 345684 |
 
 ## Origem do texto
 
 | Origem | Documentos |
 |---|---:|
 | importacao_inicial | 1 |
-| recolha_direta | 340555 |
+| recolha_direta | 359822 |
 
 ## Qualidade do texto (texto pesquisável, só PDF oficial ou só metadados)
 
 | Qualidade | Documentos |
 |---|---:|
-| metadados | 24028 |
-| pdf | 69851 |
-| texto | 246677 |
+| metadados | 24114 |
+| pdf | 69904 |
+| texto | 265805 |
 
 ## Por estado de vigência
 
 | Estado | Documentos |
 |---|---:|
-| in_force | 172804 |
-| not_in_force | 38058 |
-| partially_in_force | 777 |
-| repealed | 14656 |
-| unknown | 114261 |
+| in_force | 191501 |
+| not_in_force | 38079 |
+| partially_in_force | 780 |
+| repealed | 14660 |
+| unknown | 114803 |
 
 ## Relações registadas
 
 | Relação | Relações |
 |---|---:|
-| amended_by | 167417 |
-| amends | 33610 |
-| based_on | 48054 |
-| cited_by | 26698 |
-| cites | 656270 |
-| corrected_by | 24988 |
-| corrects | 818 |
-| implicitly_repeals | 7872 |
-| interpreted_by | 9576 |
-| repealed_by | 46364 |
-| repeals | 9956 |
+| amended_by | 169576 |
+| amends | 36179 |
+| based_on | 74959 |
+| cited_by | 26728 |
+| cites | 713656 |
+| corrected_by | 26942 |
+| corrects | 826 |
+| implicitly_repeals | 8153 |
+| interpreted_by | 9658 |
+| repealed_by | 46484 |
+| repeals | 10894 |
 | republished_by | 35 |
 | republishes | 12 |
-| transposed_by | 2102 |
-| transposes | 2108 |
+| transposed_by | 2107 |
+| transposes | 2113 |
 
 ## Por ano de publicação
 
@@ -298,74 +299,74 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 | 1956 | 931 |
 | 1957 | 958 |
 | 1958 | 1046 |
-| 1959 | 1257 |
+| 1959 | 1258 |
 | 1960 | 1361 |
-| 1961 | 1460 |
+| 1961 | 1462 |
 | 1962 | 1408 |
-| 1963 | 1384 |
-| 1964 | 1397 |
-| 1965 | 1478 |
-| 1966 | 1355 |
-| 1967 | 1481 |
-| 1968 | 1420 |
-| 1969 | 1497 |
-| 1970 | 1494 |
-| 1971 | 1531 |
-| 1972 | 1566 |
-| 1973 | 1889 |
-| 1974 | 1924 |
-| 1975 | 2274 |
-| 1976 | 3547 |
-| 1977 | 3630 |
-| 1978 | 3528 |
-| 1979 | 3994 |
-| 1980 | 4564 |
-| 1981 | 3943 |
-| 1982 | 4412 |
-| 1983 | 4069 |
-| 1984 | 4154 |
-| 1985 | 4321 |
-| 1986 | 3990 |
-| 1987 | 4367 |
-| 1988 | 3996 |
-| 1989 | 4230 |
-| 1990 | 4403 |
-| 1991 | 5084 |
-| 1992 | 5076 |
-| 1993 | 5359 |
-| 1994 | 5405 |
-| 1995 | 5207 |
-| 1996 | 4402 |
-| 1997 | 5222 |
-| 1998 | 4965 |
-| 1999 | 5412 |
-| 2000 | 6331 |
-| 2001 | 6528 |
-| 2002 | 6091 |
-| 2003 | 5768 |
-| 2004 | 5820 |
-| 2005 | 5194 |
-| 2006 | 6461 |
-| 2007 | 6017 |
-| 2008 | 5970 |
-| 2009 | 9073 |
-| 2010 | 7716 |
-| 2011 | 5542 |
-| 2012 | 4158 |
-| 2013 | 3883 |
-| 2014 | 3041 |
-| 2015 | 3187 |
-| 2016 | 2751 |
-| 2017 | 3078 |
-| 2018 | 2917 |
-| 2019 | 3092 |
-| 2020 | 2983 |
-| 2021 | 3446 |
-| 2022 | 5529 |
-| 2023 | 6295 |
-| 2024 | 6280 |
-| 2025 | 6232 |
-| 2026 | 6156 |
+| 1963 | 1388 |
+| 1964 | 1402 |
+| 1965 | 1479 |
+| 1966 | 1356 |
+| 1967 | 1483 |
+| 1968 | 1426 |
+| 1969 | 1498 |
+| 1970 | 1497 |
+| 1971 | 1539 |
+| 1972 | 1577 |
+| 1973 | 1900 |
+| 1974 | 1934 |
+| 1975 | 2296 |
+| 1976 | 3580 |
+| 1977 | 3657 |
+| 1978 | 3551 |
+| 1979 | 4011 |
+| 1980 | 4597 |
+| 1981 | 3973 |
+| 1982 | 4444 |
+| 1983 | 4094 |
+| 1984 | 4171 |
+| 1985 | 4362 |
+| 1986 | 4055 |
+| 1987 | 4466 |
+| 1988 | 4093 |
+| 1989 | 4367 |
+| 1990 | 4520 |
+| 1991 | 5263 |
+| 1992 | 5251 |
+| 1993 | 5520 |
+| 1994 | 5810 |
+| 1995 | 5369 |
+| 1996 | 4646 |
+| 1997 | 5556 |
+| 1998 | 5281 |
+| 1999 | 5801 |
+| 2000 | 6610 |
+| 2001 | 6815 |
+| 2002 | 6417 |
+| 2003 | 6187 |
+| 2004 | 6140 |
+| 2005 | 5484 |
+| 2006 | 6899 |
+| 2007 | 6583 |
+| 2008 | 6541 |
+| 2009 | 9578 |
+| 2010 | 8282 |
+| 2011 | 6160 |
+| 2012 | 4763 |
+| 2013 | 4586 |
+| 2014 | 3833 |
+| 2015 | 4024 |
+| 2016 | 3508 |
+| 2017 | 3866 |
+| 2018 | 3551 |
+| 2019 | 3820 |
+| 2020 | 3719 |
+| 2021 | 4217 |
+| 2022 | 6357 |
+| 2023 | 7103 |
+| 2024 | 7118 |
+| 2025 | 7227 |
+| 2026 | 6172 |
 
 ## Falhas de recolha registadas
 

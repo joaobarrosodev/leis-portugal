@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 160/2006
-official_date: '2003-03-01'
+official_date: '2006-03-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 137/06'
 - 'Espécie: Reclamação'
+- 'Data corrigida: o site dá 01.03.2003; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

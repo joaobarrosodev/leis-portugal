@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 993/2025
-official_date: '0205-10-23'
+official_date: '2025-10-23'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 598/25'
 - 'Espécie: Reclamação'
+- 'Data corrigida: o site dá 23.10.0205; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

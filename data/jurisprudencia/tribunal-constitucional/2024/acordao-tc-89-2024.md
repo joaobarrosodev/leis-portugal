@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 89/2024
-official_date: null
+official_date: '2024-02-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 922/23'
 - 'Espécie: Reclamação'
+- 'Data corrigida: o site dá sem data válida; usada a data da assinatura do acórdão.'
 language: por
 version:
   kind: original

@@ -463,6 +463,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/db46080f-a7d4-4406-a720-102026611b0e
   date: '2004-04-29'
 - type: transposed_by
+  target: pt:dre:1194495725:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:70476205:por
   label: null
   source: null

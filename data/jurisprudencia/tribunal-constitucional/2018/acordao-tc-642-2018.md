@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 642/2018
-official_date: '2017-11-27'
+official_date: '2018-11-27'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 120/18'
 - 'Espécie: Recurso'
+- 'Data corrigida: o site dá 27.11.2017; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

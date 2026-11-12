@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 272/1997
-official_date: '1996-04-02'
+official_date: '1997-04-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 19/97'
 - 'Espécie: Recurso'
+- 'Data corrigida: o site dá 02.04.1996; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

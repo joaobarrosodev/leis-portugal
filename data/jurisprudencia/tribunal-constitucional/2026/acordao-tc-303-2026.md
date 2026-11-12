@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 303/2026
-official_date: '3026-03-24'
+official_date: '2026-03-24'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 79/26'
 - 'Espécie: Recurso'
+- 'Data corrigida: o site dá 24.03.3026; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

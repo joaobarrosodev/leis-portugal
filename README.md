@@ -18,7 +18,7 @@ O objetivo é tornar o ordenamento jurídico português mais acessível, pesquis
 | Versões | ~10 mil diplomas e atos com o histórico de versões (`.versoes.json`) e consulta do texto numa data (`version-at`) |
 | Texto em vigor consolidado pelo leis-portugal | ~2,3 mil diplomas que o DRE dá como alterados mas não consolida: alterações aplicadas por regras ou por um LLM e verificadas às cegas por outro modelo; marcados como **sem valor oficial** (ver [`consolidacao/`](consolidacao/README.md)) |
 | Relações | ~1,04 milhões de relações (alterações, revogações, retificações, citações, transposições); ~89% apontam para um documento do acervo |
-| Decisões (fora da legislação) | 7.892 decisões da CNPD (todas menos as autorizações, ainda em recolha), só 41 % com texto porque a maioria dos PDF são digitalizações; 9.660 acórdãos do Tribunal Constitucional de 2016 a 2026, com texto (1983–2015 em recolha); 2.896 normas julgadas tiradas da decisão desses acórdãos, ligadas ao diploma (90 % de precisão medida às cegas) |
+| Decisões (fora da legislação) | 7.892 decisões da CNPD (todas menos as autorizações, ainda em recolha), só 41 % com texto porque a maioria dos PDF são digitalizações; 29.388 acórdãos do Tribunal Constitucional, todos os de 1983 a 2026 que têm texto no site; 2.896 normas julgadas tiradas da decisão dos de 2016 a 2026, ligadas ao diploma (90 % de precisão medida às cegas) |
 | Fontes operacionais | Diário da República Eletrónico (DRE), EUR-Lex/CELLAR, CNPD e Tribunal Constitucional |
 | Atualização | Diária, por GitHub Actions |
 | Exportação | Índice de relações (JSONL), SQLite e Parquet com os metadados (`leis-portugal export`) |
@@ -91,7 +91,7 @@ O projeto privilegia fontes primárias e páginas institucionais.
 | Jornal Oficial dos Açores (catálogo guardado pelo DRE) | Legislação regional dos Açores, com a publicação no Jornal Oficial da Região. | Operacional, através do DRE |
 | [EUR-Lex / CELLAR](https://eur-lex.europa.eu/) | Regulamentos, diretivas e decisões da UE, versões consolidadas, EuroVoc e relações. | Operacional |
 | [Assembleia da República](https://www.parlamento.pt/) | Informação parlamentar e trabalhos preparatórios. | Planeada |
-| [Tribunal Constitucional](https://www.tribunalconstitucional.pt/) | Acórdãos de 1983 a 2026, numa coleção separada da legislação (`data/jurisprudencia/`), ligados ao DR quando lá publicados. | Operacional (2016–2026 recolhido; 1983–2015 em curso) |
+| [Tribunal Constitucional](https://www.tribunalconstitucional.pt/) | Acórdãos de 1983 a 2026, numa coleção separada da legislação (`data/jurisprudencia/`), ligados ao DR quando lá publicados. | Operacional |
 | [Supremo Tribunal de Justiça](https://www.stj.pt/) | Jurisprudência, numa coleção separada. | Planeada (por agora só os acórdãos publicados no DR) |
 | [Supremo Tribunal Administrativo](https://www.stadministrativo.pt/) | Jurisprudência administrativa e fiscal. | Planeada (por agora só os acórdãos publicados no DR) |
 | [Comissão Nacional de Proteção de Dados](https://www.cnpd.pt/) | Pareceres, deliberações, diretrizes, regulamentos, registos e autorizações (1994–2026), numa coleção separada (`data/entidades/`). | Operacional (tudo menos as autorizações; estas em curso) |
@@ -466,9 +466,10 @@ O número no site é o que o histórico de decisões anuncia para cada ano e tip
 | Tribunal Constitucional | Na listagem | No repositório |
 |---|--:|--:|
 | Acórdãos de 2016 a 2026 | 9.661 | 9.660 |
-| Acórdãos de 1983 a 2015 | em recolha | — |
+| Acórdãos de 1983 a 2015 | 19.740 | 19.728 |
+| **Total** | **29.401** | **29.388** |
 
-Todos os acórdãos recolhidos têm texto. O que falta (2021, n.º 652) não tem o texto na página do Tribunal (`reports/tc_failures.jsonl`). 90 estão ligados ao registo do mesmo acórdão publicado no Diário da República.
+Todos os acórdãos recolhidos têm texto. Os 13 que faltam são lacunas do site (`reports/tc_failures.jsonl`): em 7 a página traz um erro do servidor do Tribunal («401 Unauthorized») em vez do acórdão, em 4 só tem o título e em 2 não tem texto nenhum. Alguns acórdãos têm texto muito curto porque a página do Tribunal também o tem (p. ex. o 773/2020 só tem o cabeçalho). As páginas anteriores a 2013 têm outra estrutura (`div.Section1`); o texto sai igual. Em 85 acórdãos a data da listagem do site tem uma gralha no ano (`0205-02-18`, `2010-10-10` num acórdão de 2013): ficam com a data da assinatura e uma nota a dizê-lo, ou sem data (2) quando nada a confirma. 167 acórdãos estão ligados ao registo do mesmo acórdão publicado no Diário da República (dos 168 que o acervo tem).
 
 **Normas julgadas pelo Tribunal Constitucional** (`python -m rag.jurisprudencia`, gravadas em `data/jurisprudencia/tribunal-constitucional/normas-julgadas.jsonl`). De cada acórdão lê-se só a decisão final e tira-se o sentido de cada alínea e as normas julgadas (artigo e diploma), ligadas ao diploma no índice do RAG. Dos 9.838 acórdãos, 1.487 julgam normas; os outros são sobretudo reclamações e recursos de que o Tribunal não conhece. Dão 1.699 alíneas: 64 declarações de inconstitucionalidade com força obrigatória geral, 43 não declarações, 554 juízos de inconstitucionalidade, 1.014 de não inconstitucionalidade e 24 de fiscalização preventiva. 2.523 normas ficam ligadas a um artigo que existe no índice.
 
