@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:927882337:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "a) As competências relativas à contratação da aquisição de serviços ao setor privado que tenham por objeto estudos, pareceres, projetos e serviços de consultoria ou outros trabalhos especializados, incluindo a renovação de eventuais contratos em vigor, nos termos previstos na lei que aprova o Orçamento do Estado e no decreto-lei de execução do Orçamento do Estado;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Despacho 1927/2026), n.º 1: altera os Despachos 9421/2025 e 9341/2025; ignorado.",
+    "Alterador 1, n.º 2: nova redação da alínea a) do n.º 3 (elimina a menção ao parecer prévio); unidade 13 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-10-25'
+version_history:
+  file: decreto-497-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-10-25'
+    amending: pt:dre:364289:por
+    amending_title: Decreto-Lei n.º 430/79
+    changes:
+    - Altera Artigo unidades 4-5
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:42:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 430/79. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-497-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -100,9 +115,11 @@ de 29 de Junho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º - 1. Fica autorizado o Departamento do Exército a contrair na Caixa Geral de Depósitos um empréstimo até ao montante de 50000 contos, utilizável pelo período de um ano, destinado a instalações em zonas de aquartelamentos militares.
+Artigo 1.º - 1 - Fica autorizado o Departamento do Exército a contrair na Caixa Geral de Depósitos um empréstimo até ao montante de 50000 contos, utilizável pelo período de um ano, destinado a habitações em zonas de aquartelamento militares.
 
-2. Este empréstimo será amortizado em quinze anos, correspondendo a trinta prestações semestrais iguais de capital e juros, e vencerá o juro anual de 9,25%
+2 - Este empréstimo será amortizado em quinze anos, correspondendo a trinta prestações semestrais iguais de capital e juros, e vencerá o juro anual de 9,25%, que poderá ser alterado dentro dos limites legais em vigor na data da alteração.
+
+> Alterado pelo/a [Decreto-Lei n.º 430/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1979-364289), publicado em 1979-10-25.
 
 3. No Orçamento Geral do Estado, na divisão consignada à dívida pública, serão anualmente inscritas as dotações necessárias para a liquidação do empréstimo.
 

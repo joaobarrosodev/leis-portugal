@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:2182130:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "2 - Reconhecer o interesse público da cessão, em virtude de o imóvel se destinar à educação.",
+      "alterador": 1
+    },
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "4 - A presente cessão fica sujeita à clausula de reversão, nos termos do artigo 2.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a qual terá de ser registada na conservatória do registo predial, como ónus, devendo ao imóvel ser conferido o destino que fundamenta a cessão no prazo máximo de três anos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2 (destino: educação): unidade 6 substituída.",
+    "Alterador 1: nova redação do n.º 4 (registo na conservatória, prazo de três anos): unidade 8 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

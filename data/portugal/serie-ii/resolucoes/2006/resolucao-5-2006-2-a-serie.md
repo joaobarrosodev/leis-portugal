@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-01-30'
+version_history:
+  file: resolucao-5-2006-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-30'
+    amending: pt:dre:3681578:por
+    amending_title: Resolução n.º 5/2009
+    changes:
+    - Altera Artigo unidades 33-33
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:13:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução n.º 5/2009. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/resolucoes/2006/resolucao-5-2006-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,7 +177,9 @@ Paulo Ramalheira Teixeira, presidente da Câmara Municipal de Castelo de Paiva;
 
 Pedro Namorado Lancha, presidente da Câmara Municipal de Fronteira;
 
-Vasco Cordeiro, Secretário Regional da Presidência da Região Autónoma dos Açores;
+Rodrigo Vasconcelos de Oliveira, Sub-Secretário Regional dos Assuntos Europeus e Cooperação Externa da Região Autónoma dos Açores;
+
+> Alterado pelo/a [Resolução n.º 5/2009](https://diariodarepublica.pt/dr/detalhe/resolucao/5-2009-3681578), publicado em 2009-01-29.
 
 Vítor Manuel Chaves de Caro Proença, presidente da Câmara Municipal de Santiago do Cacém.
 

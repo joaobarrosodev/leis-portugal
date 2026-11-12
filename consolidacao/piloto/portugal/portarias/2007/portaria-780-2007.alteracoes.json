@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Esta zona de caça após a sua renovação e anexação dos terrenos acima referidos ficará com a área total de 387 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+    "depois": "3.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia do Couço, município de Coruche, com a área de 263 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:636074:por",
+    "alterador": "pt:dre:628480:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-15",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º A equipa de apoio à formação do exército afegão referida no n.º 1.º, alínea b), é constituída por 16 elementos do Exército.",
+    "depois": "3.º A equipa de apoio à formação do exército afegão referida no n.º 1.º, alínea b), é constituída por 20 elementos do Exército.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1752221:por",
+    "alterador": "pt:dre:3054339:por"
+  }
+]

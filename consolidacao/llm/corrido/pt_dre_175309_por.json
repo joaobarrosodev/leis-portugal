@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:175309:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 22/2007 (artigo 9.º) revoga por inteiro a Portaria n.º 161/92; nada a aplicar ao texto.",
+  "instrucoes": [
+    "Portaria 22/2007, art. 9.º: revogação integral da Portaria 161/92 -> nao_aplicavel, sem mudanças devolvidas.",
+    "Portaria 22/2007, art. 8.º: regime transitório para instrumentos colocados ao abrigo da 161/92; não altera o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

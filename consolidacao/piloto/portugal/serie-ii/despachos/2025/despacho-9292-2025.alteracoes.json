@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) As competências relativas à contratação da aquisição de serviços ao setor privado que tenham por objeto estudos, pareceres, projetos e serviços de consultoria ou outros trabalhos especializados, incluindo a renovação de eventuais contratos em vigor, nos termos previstos na lei que aprova o Orçamento do Estado e no decreto-lei de execução do Orçamento do Estado, mediante parecer prévio da entidade coordenadora do programa orçamental;",
+    "depois": "a) As competências relativas à contratação da aquisição de serviços ao setor privado que tenham por objeto estudos, pareceres, projetos e serviços de consultoria ou outros trabalhos especializados, incluindo a renovação de eventuais contratos em vigor, nos termos previstos na lei que aprova o Orçamento do Estado e no decreto-lei de execução do Orçamento do Estado;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:927882337:por",
+    "alterador": "pt:dre:1049507226:por"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — (Regime de exclusividade)\n\nA ENU exercerá as actividades referidas nas alíneas b) e c) do n.º 1 do artigo 3.º em regime de exclusivo, ressalvados os direitos constituídos a favor de terceiros até à data de entrada em vigor deste Estatuto.",
+    "depois": "###### Artigo 5.º — (Regime de exclusividade)\n\n1 - A ENU exercerá as actividades referidas nas alíneas b) e c) do artigo 3.º em regime de exclusivo, ressalvados os direitos constituídos a favor de terceiros até à data de entrada em vigor deste Estatuto.\n\n2 - O exercício de tais actividades poderá, porém, ser autorizado às associações, empresas ou sociedades a que se refere o n.º 2 do artigo 4.º, sempre que tal tenha constituído condição prevista na sua criação, ou em acordo de que tenha resultado a participação da ENU.\n\n> Alterado pelo/a [Decreto-Lei n.º 120/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1980-473952), publicado em 1980-05-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:251588:por",
+    "alterador": "pt:dre:473952:por"
+  },
+  {
+    "artigo": "34.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 34.º — (Dos Ministros das Finanças e da Indústria e Tecnologia)\n\nCompete aos Ministros das Finanças e da Indústria Tecnologia:\n\na) Autorizar a realização de empréstimos em moeda nacional, por prazo superior a sete anos, ou em moeda estrangeira, bem como aprovar o plano e demais condições da operação, incluindo as garantias a prestar, sem prejuízo da legislação geral aplicável;\n\nb) Autorizar a emissão de obrigações;\n\nc) Autorizar a aquisição ou alienação de participações no capital de sociedades comerciais, sem prejuízo do disposto no Estatuto do Instituto de Participações do Estado;\n\nd) Aprovar os princípios a que deve obedecer a reavaliação e os respectivos coeficientes e os critérios de amortização e de reintegração dos bens da empresa.",
+    "depois": "###### Artigo 34.º — (Dos Ministros das Finanças e do Plano e da Indústria e Energia)\n\nCompete aos Ministros das Finanças e do Plano e da Indústria e Energia:\n\na) Autorizar a realização de empréstimos em moeda nacional, por prazo superior a sete anos, ou em moeda estrangeira, bem como aprovar o plano e demais condições da operação, incluindo as garantias a prestar, sem prejuízo da legislação geral aplicável;\n\nb) Autorizar a emissão de obrigações;\n\nc) Autorizar a aquisição ou alienação de participações no capital de sociedades comerciais, sem prejuízo do disposto no Estatuto do Instituto das Participações do Estado;\n\nd) Aprovar os princípios a que deve obedecer a reavaliação e os respectivos coeficientes e os critérios de amortização e de reintegração dos bens da empresa;\n\ne) Aprovar a criação pela ENU de associações, empresas ou sociedades previstas no n.º 2 do artigo 4.º, sempre que constitua condição dessa criação a possibilidade de ser autorizado a essa associação, empresa ou sociedade o exercício de actividade de exploração de jazigos de urânio ou de estabelecimento e exploração de instalações de recuperação e de tratamento de minérios de urânio, e, bem assim, a participação nessas associações, empresas ou sociedades.\n\n> Alterado pelo/a [Decreto-Lei n.º 120/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1980-473952), publicado em 1980-05-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:251588:por",
+    "alterador": "pt:dre:473952:por"
+  }
+]

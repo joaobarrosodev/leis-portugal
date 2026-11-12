@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:1810334:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "A Portaria n.º 299/2016 amplia a área classificada (nova planta em anexo, só em imagem) e altera a designação do bem para «Quinta de Santo António de Britiande» sem dar nova redação ao artigo único da Portaria n.º 740-ER/2012; não é alteração textual, pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 299/2016, artigo único, n.os 1 e 2): ampliação da classificação e redenominação do monumento, sem instrução de redação do original — não aplicado (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

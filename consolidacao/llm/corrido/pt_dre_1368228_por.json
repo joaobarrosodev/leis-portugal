@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:1368228:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 7,
+      "texto": "a) quanto ao tipo de exploração:\n\n- transporte aéreo intracomunitário e não regular internacional de passageiros, carga e correio;\n\nb) quanto à área geográfica:\n\n- estrito cumprimento das áreas geográficas definidas no Certificado de Operador Aéreo;\n\nc) quanto ao equipamento:\n\n6 aeronaves de peso máximo à descolagem não superior a 10 000 kg e capacidade de transporte até 20 passageiros;\n\n2 - O exercício dos direitos conferidos pela presente licença está, permanentemente, dependente da posse de um Certificado de Operador Aéreo válido.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Despacho 14003/2008): nova redação da licença (alíneas a) a c) e n.º 2); substituídas as unidades 5-7 pelo texto novo, mantido o proémio do n.º 1 (unidade 4)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

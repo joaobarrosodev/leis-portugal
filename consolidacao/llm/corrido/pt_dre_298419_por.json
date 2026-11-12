@@ -1,0 +1,429 @@
+{
+  "id": "pt:dre:298419:por",
+  "substituicoes": [
+    {
+      "de": 77,
+      "ate": 77,
+      "texto": "(e) Whenever the Government concerned shall have determined that a vessel of special construction or purpose cannot comply fully with the provisions of any of these rules with respect to the number, position, range or arc of visibility of lights or shapes, as well as to the disposition and characteristics of sound-signalling appliances, such vessel shall comply with such other provisions in regard to the number, position, range or arc of visibility of lights or shapes, as well as to the disposition and characteristics of sound-signalling appliances, as her Government shall have determined to be the closest possible compliance with these rules in respect of that vessel.",
+      "alterador": 1
+    },
+    {
+      "de": 85,
+      "ate": 85,
+      "texto": "a) The word 'vessel' includes every description of water craft, including non-displacement craft, WIG craft and seaplanes, used or capable of being used as a means of transportation on water;",
+      "alterador": 4
+    },
+    {
+      "de": 99,
+      "ate": 99,
+      "texto": "(h) The term «vessel constrained by her draught» means a power-driven vessel which, because of her draught in relation to the available depth and width of navigable water, is severely restricted in her ability to deviate from the course she is following.",
+      "alterador": 1
+    },
+    {
+      "de": 142,
+      "ate": 142,
+      "texto": "a) Any action to avoid collision shall be taken in accordance with the rules of this part and shall, if the circumstances of the case admit, be positive, made in ample time and with due regard to the observance of good seamanship.",
+      "alterador": 4
+    },
+    {
+      "de": 159,
+      "ate": 159,
+      "texto": "(a) This rule applies to traffic separation schemes adopted by the Organization and does not relieve any vessel of her obligation under any other rule.",
+      "alterador": 1
+    },
+    {
+      "de": 164,
+      "ate": 164,
+      "texto": "(c) A vessel shall, so far as practicable, avoid crossing traffic lanes but if obliged to do so shall cross on a heading as nearly as practicable at right angles to the general direction of traffic flow.",
+      "alterador": 1
+    },
+    {
+      "de": 285,
+      "ate": 285,
+      "texto": "d) A power-driven vessel of less than 7 m in length and whose maximum speed does not exceed 7 knots may, in lieu of the lights prescribed in paragraph a) of this rule, exhibit an all-round yhite light. Such vessel shall, if practicable, also exhibit sidelights.",
+      "alterador": 4
+    },
+    {
+      "de": 322,
+      "ate": 322,
+      "texto": "i) Two all-round lights in a vertical line, the upper being green and the lower white, or a shape consisting of two cones with their apexes together in a vertical line one above the other;",
+      "alterador": 3
+    },
+    {
+      "de": 326,
+      "ate": 326,
+      "texto": "i) Two all-round lights in a vertical line, the upper being red and the lower white, or a shape consisting of two cones whith apexes together in a vertical line one above the other;",
+      "alterador": 3
+    },
+    {
+      "de": 329,
+      "ate": 329,
+      "texto": "d) The additional signals described in annex II to these regulations apply to a vessel engaged in fishing in close proximity to other vessels engaged in fishing.",
+      "alterador": 3
+    },
+    {
+      "de": 375,
+      "ate": 375,
+      "texto": "Where it is impracticable for a seaplane or a WIG craft to exhibit lights and shapes of the characteristics or in the positions prescribed in the rules of this part she shall exhibit lights and shapes as closely similar in characteristics and position as is possible.",
+      "alterador": 4
+    },
+    {
+      "de": 385,
+      "ate": 385,
+      "texto": "a) A vessel of 12 m or more in length shall be provided with a whistle, a vessel of 20 m or more in length shall be provided with a bell in addition to a whistle, and a vessel of 100 m or more in length shall, in addition, be provided with a gong, the tone and sound of which cannot be confused with that of the bell. The whistle, bell and gong shall comply with the specification in annex III to these Regulations. The bell or gong or both may be replaced by other equipment having the same respective sound characteristics, provided that manual sounding of the required signals shall always be possible.",
+      "alterador": 4
+    },
+    {
+      "de": 420,
+      "ate": 420,
+      "texto": "j) A pilot vessel when engaged on pilotage duty may in addition to the signals prescribed in paragraphs a), b) ou f) of this rule sound an identity signal consisting of four short blasts.",
+      "alterador": 4
+    },
+    {
+      "de": 451,
+      "ate": 451,
+      "texto": "(d) A power-driven vessel of less than 12 metres in length may carry the uppermost light at a height of less than 2.5 metres above the gunwale. When however a masthead light is carried in addition to sidelights and a sternlight or the all-round light prescribed in rule 23 (c) (i) is carried in addition to sidelights, then such masthead light or all-round light shall be carried at least 1 metre higher than the sidelights.",
+      "alterador": 1
+    },
+    {
+      "de": 458,
+      "ate": 458,
+      "texto": "(ii) On a vessel of less than 20 metres in length such lights shall be spaced not less than 1 metre apart and the lowest of these lights shall, except where a towing light is required, be placed at a height of not less than 2 metres above the gunwale.",
+      "alterador": 1
+    },
+    {
+      "de": 508,
+      "ate": 508,
+      "texto": "b):\n\ni) All-round lights shall be so located as not to be obscured by masts, topmasts or structures within angular sectors of more than 6º, except anchor lights, which need not be placed at an impracticable height above the hull.\n\nii) If it is impracticable to comply with paragraph b), i), of this section by exhibiting only one al-round light, two all-round lights shall be used suitably positioned or screened so that they appear, as far as practicable, as one light at a distance of one mile.",
+      "alterador": 3
+    },
+    {
+      "de": 510,
+      "ate": 510,
+      "texto": "a) The vertical sectors of electric lights, with the exception of lights on sailing vessels underway shall ensure that:",
+      "alterador": 1
+    },
+    {
+      "de": 513,
+      "ate": 513,
+      "texto": "b) In the case of sailing vessels underway the vertical sectors of electric lights shall ensure that:",
+      "alterador": 1
+    },
+    {
+      "de": 521,
+      "ate": 521,
+      "texto": "14 - Approval.",
+      "alterador": 3
+    },
+    {
+      "de": 528,
+      "ate": 528,
+      "texto": "a) Vessels of 20 m or more in length when engaged in trawling, whether using demersal or pelagic gear, shall exhibit:",
+      "alterador": 3
+    },
+    {
+      "de": 532,
+      "ate": 532,
+      "texto": "b) Each vessel of 20 m or more in length engaged in pair trawling shall exhibit:",
+      "alterador": 3
+    },
+    {
+      "de": 541,
+      "ate": 542,
+      "texto": "The fundamental frequency of the signal shall lie within the range 70-700 Hz. The range of audibility of the signal from a whistle shall be determined by those frequencies, which may include the fundamental and or one or more higher frequencies, which lie within the range 180-700 Hz ((mais ou menos) 1%) for a vessel of 20 m or more in length, or 180-2100 Hz ((mais ou menos) l%) for a vessel of less than 20 m in length and which provide the sound pressure levels specified in paragraph 1, c), below.",
+      "alterador": 4
+    },
+    {
+      "de": 549,
+      "ate": 550,
+      "texto": "A whistle fitted in a vessel shall provide, in the direction of maximum intensity of the whistle and at a distance of 1 m from it, a sound pressure level in at least one 1/3rd-octave band within the range of frequencies 180-700 Hz ((mais ou menos) l%) for a vessel of 20 m or more in length, or 180-2100 Hz ((mais ou menos) 1%) for a vessel of less than 20 m in length, of not less than the appropriate figure given in the table below:\n\n[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00080010.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00080010.pdf)",
+      "alterador": 4
+    },
+    {
+      "de": 567,
+      "ate": 567,
+      "texto": "Bells and gongs shall be made of corrosion-resistant material and designed to give a clear tone. The diameter of the mouth of the bell shall be not less than 300 mm for vessels of 20 m or more in length. Where practicable, a power-driven bell striker is recommended to ensure constant force but manual operation shall be possible. The mass of the striker shall be not less than 3% of the mass of the bell.",
+      "alterador": 4
+    },
+    {
+      "de": 572,
+      "ate": 590,
+      "texto": "1 - The following signals, used or exhibited either together or separately, indicate distress and need of assistance:\n\n(a) A gun or other explosive signals fired at intervals of about a minute;\n\n(b) A continuous sounding with any fog-signalling apparatus;\n\n(c) Rockets or shells, throwing red stars fired one at a time at short intervals;\n\n(d) A signal made by any signalling method consisting of the group ...- - - ... (SOS) in the Morse Code;\n\n(e) A signal sent by radiotelephony consisting of the spoken word \"MAYDAY\";\n\n(f) The International Code Signal of distress indicated by N.C.;\n\n(g) A signal consisting of a square flag having above or below it a ball or anything resembling a ball;\n\n(h) Flames on the vessel (as from a burning tar barrel, oil barrel, etc.);\n\n(i) A rocket parachute flare or a hand-flare showing a red light;\n\n(j) A smoke signal giving off orange-coloured smoke;\n\n(k) Slowly and repeatedly raising and lowering arms outstretched to each side;\n\n(l) A distress alert by means of digital selective calling (DSC) transmitted on:\n\n(i) VHF channel 70; or\n\n(ii) MF/HF on the frequencies 2187.5 kHz, 8414.5 kHz, 4207.5 kHz, 6312 kHz, 12577 kHz or 16804.5 kHz;\n\n(m) A ship-to-shore distress alert transmitted by the ship's Inmarsat or other mobile satellite service provider ship earth station;\n\n(n) Signals transmitted by emergency position-indicating radio beacons;\n\n(o) Approved signals transmitted by radiocommunications systems, including survival craft radar transponders.\n\n2 - The use or exhibition of any of the foregoing signals, except for the purpose of indicating distress and need of assistance and the use of other signals which may be confused with any of the above signals, is prohibited.\n\n3 - Attention is drawn to the relevant sections of the International Code of Signals, the International Aeronautical and Maritime Search and Rescue Manual, Volume III and the following signals:\n\n(a) A piece of orange-coloured canvas with either a black square and circle or other appropriate symbol (for identification from the air);\n\n(b) A dye marker.",
+      "alterador": 5
+    },
+    {
+      "de": 649,
+      "ate": 649,
+      "texto": "(e) Sempre que um Governo interessado tenha determinado que um navio de construção especial ou destinado a actividades especiais não pode cumprir todas as disposições estabelecidas por qualquer das presentes regras respeitantes ao número, localização, alcance ou sector de visibilidade de faróis ou balões, bem como à implantação e características dos dispositivos de sinalização sonora, este navio deverá satisfazer todas as outras disposições relativas ao número, localização, alcance ou sector de visibilidade de faróis ou balões, bem como à implantação e características dos dispositivos de sinalização sonora, que o Governo interessado julgar susceptíveis de, tanto quanto possível, permitirem a aplicação das presentes regras relativamente a este navio.",
+      "alterador": 1
+    },
+    {
+      "de": 657,
+      "ate": 657,
+      "texto": "a) A palavra 'navio' designa todo o veículo aquático de qualquer natureza, incluindo os veículos sem imersão, os veículos WIG e os hidroaviões, utilizado ou susceptível de ser utilizado como meio de transporte sobre a água;",
+      "alterador": 4
+    },
+    {
+      "de": 671,
+      "ate": 671,
+      "texto": "(h) A expressão «navio condicionado pelo seu calado» designa todo o navio de propulsão que, devido à relação calado-profundidade-largura de água disponível, tem severamente limitada a sua capacidade de alterar o rumo em que navega.",
+      "alterador": 1
+    },
+    {
+      "de": 712,
+      "ate": 712,
+      "texto": "a) Qualquer manobra para evitar um abalroamento deve ser tomada de acordo com as regras desta parte e deve, se as circunstâncias o permitirem, ser executada de uma forma clara, com larga antecedência e de acordo com os usos e costumes marítimos.",
+      "alterador": 4
+    },
+    {
+      "de": 729,
+      "ate": 729,
+      "texto": "(a) Esta regra aplica-se aos esquemas de separação de tráfego adoptados pela Organização e não dispensa nenhum navio do cumprimento de qualquer outra regra.",
+      "alterador": 1
+    },
+    {
+      "de": 734,
+      "ate": 734,
+      "texto": "(c) Um navio deve evitar, tanto quanto possível, cruzar os corredores de tráfego, mas, se a isso for obrigado, deve fazê-lo a uma proa que seja, na medida do possível, perpendicular à direcção geral do tráfego.",
+      "alterador": 1
+    },
+    {
+      "de": 852,
+      "ate": 852,
+      "texto": "d) Um navio de propulsão mecânica de comprimento inferior a 7 m e cuja velocidade máxima não ultrapassa 7 nós pode, em vez dos faróis prescritos no parágrafo a) desta regra, mostrar um farol de luz branca visível em todo o horizonte. Além disso, deve, se possível, mostrar faróis de borda.",
+      "alterador": 4
+    },
+    {
+      "de": 889,
+      "ate": 889,
+      "texto": "i) Dois faróis dispostos na mesma linha vertical, visíveis em todo o horizonte, sendo o superior de luz verde e o inferior de luz branca, ou dois balões cónicos unidos pelos vértices, também dispostos na mesma linha vertical;",
+      "alterador": 3
+    },
+    {
+      "de": 893,
+      "ate": 893,
+      "texto": "i) Dois faróis dispostos na mesma linha vertical, visíveis em todo o horizonte, sendo o superior de luz vermelha e o inferior de luz branca, ou dois balões cónicos unidos pelos vértices, também dispostos na mesma linha vertical;",
+      "alterador": 3
+    },
+    {
+      "de": 896,
+      "ate": 896,
+      "texto": "d) Os sinais adicionais descritos no anexo II deste Regulamento aplicam-se a um navio em faina de pesca na proximidade de outros navios, também em faina de pesca.",
+      "alterador": 3
+    },
+    {
+      "de": 942,
+      "ate": 942,
+      "texto": "Um hidroavião ou um veículo WIG que não possa mostrar os faróis e balões com as características e localização prescritas pelas regras desta parte deve mostrar faróis e balões aproximando-se o mais possível, em características e localizações, dos prescritos por esta regra.",
+      "alterador": 4
+    },
+    {
+      "de": 951,
+      "ate": 951,
+      "texto": "a) Um navio de comprimento igual ou superior a 12 m deve dispor de um apito, um navio de comprimento igual ou superior a 20 m deve dispor de um sino, além de um apito, e um navio de comprimento igual ou superior a 100 m deve dispor também de um tantã cujo som e timbre não possam ser confundidos com os do sino. O apito, o sino e o tantã devem satisfazer as especificações do anexo III deste Regulamento. O sino ou o tantã, ou ambos, podem ser substituídos por outro equipamento, tendo respectivamente as mesmas características sonoras, desde que seja sempre possível accionar manualmente os sinais prescritos.",
+      "alterador": 4
+    },
+    {
+      "de": 986,
+      "ate": 986,
+      "texto": "j) Um barco de pilotos em serviço de pilotagem, além dos sinais prescritos nos parágrafos a), b) ou f) desta regra, pode emitir um sinal de identificação, consistindo em quatro sons curtos.",
+      "alterador": 4
+    },
+    {
+      "de": 1014,
+      "ate": 1014,
+      "texto": "(d) Um navio de propulsão mecânica de comprimento inferior a 12 m pode ter o farol de mastro mais elevado a uma altura inferior a 2,5 m acima da borda. Quando, contudo, tem um farol de mastro, para além dos faróis de borda e do farol de popa, ou o farol de luz branca visível em todo o horizonte referido na regra 23 (c) (i), para além dos faróis de borda, o farol de mastro ou o farol de luz branca visível em todo o horizonte deve estar, pelo menos, 1 m acima dos faróis de borda.",
+      "alterador": 1
+    },
+    {
+      "de": 1021,
+      "ate": 1021,
+      "texto": "(ii) A bordo de um navio de comprimento inferior a 20 m, os faróis devem estar espaçados de, pelo menos, 1 m e o farol mais abaixo deve ficar a uma altura não inferior a 2 m acima da borda falsa, excepto quando o navio deva utilizar um farol de reboque.",
+      "alterador": 1
+    },
+    {
+      "de": 1071,
+      "ate": 1071,
+      "texto": "b):\n\ni) Com excepção dos faróis de navio fundeado, para os quais não é necessária uma colocação muito alta acima da borda, os faróis visíveis em todo o horizonte devem ser colocados por forma a não serem encobertos pelos mastros, mastaréus ou quaisquer outras estruturas, em sectores angulares superiores a 6º.\n\nii) Se for impossível, na prática, satisfazer o parágrafo b), i), desta secção exibindo apenas um farol visível em todo o horizonte, então deverão ser usados dois faróis visíveis em todo o horizonte, adequadamente localizados, por forma que sejam vistos, na medida do possível, como um só farol à distância de uma milha.",
+      "alterador": 3
+    },
+    {
+      "de": 1073,
+      "ate": 1073,
+      "texto": "a) Os sectores verticais dos faróis eléctricos, à excepção dos faróis instalados a bordo de navios à vela a navegar, devem garantir que se mantenha, pelo menos:",
+      "alterador": 1
+    },
+    {
+      "de": 1076,
+      "ate": 1076,
+      "texto": "b) No caso de navios à vela a navegar, os sectores verticais de faróis eléctricos devem garantir que se mantenha, pelo menos:",
+      "alterador": 1
+    },
+    {
+      "de": 1085,
+      "ate": 1085,
+      "texto": "14 - Aprovação.",
+      "alterador": 3
+    },
+    {
+      "de": 1091,
+      "ate": 1091,
+      "texto": "a) Os navios de comprimento igual ou superior a 20 m a arrastar, usando aparelho de fundo ou pelágico, deverão exibir:",
+      "alterador": 3
+    },
+    {
+      "de": 1095,
+      "ate": 1095,
+      "texto": "b) Os navios de comprimento igual ou superior a 20 m a arrastar em parelha deverão exibir:",
+      "alterador": 3
+    },
+    {
+      "de": 1103,
+      "ate": 1104,
+      "texto": "A frequência fundamental do sinal deve estar compreendida entre 70 Hz e 700 Hz. O alcance sonoro do sinal de um apito é determinado pelas frequências, que podem compreender a frequência fundamental e ou uma ou mais frequências mais elevadas, situadas entre 180 Hz e 700 Hz ((mais ou menos) 1%) para um navio de comprimento igual ou superior a 20 m, ou entre 180 Hz e 2100 Hz ((mais ou menos) 1%) para um navio de comprimento inferior a 20 m, e que proporcionem os níveis de pressão acústica especificados na secção 1, c), abaixo.",
+      "alterador": 4
+    },
+    {
+      "de": 1111,
+      "ate": 1112,
+      "texto": "Um apito instalado a bordo de um navio deve assegurar, na direcção de máxima intensidade e a uma distância de 1 m, um nível de pressão acústica não inferior ao valor estabelecido na tabela seguinte, pelo menos, numa faixa de um terço de oitava, situada na gama de frequências de 180 Hz a 700 Hz ((mais ou menos) 1%) para um navio de comprimento igual ou superior a 20 m, ou de 180 Hz a 2100 Hz ((mais ou menos) 1%) para um navio de comprimento inferior a 20 m.\n\n[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00080010.pdf)](https://files.diariodarepublica.pt/1s/2006/01/001a00/00080010.pdf)",
+      "alterador": 4
+    },
+    {
+      "de": 1129,
+      "ate": 1131,
+      "texto": "Os sinos e os tantãs devem ser construídos num material resistente à corrosão e concebidos de modo a emitir um som claro. O diâmetro da boca do sino não deve ser inferior a 300 mm em navios de comprimento igual ou superior a 20 m. Sempre que possível, recomenda-se instalar no sino um badalo com comando mecânico, de modo a garantir uma força de impacte constante, mas com possibilidade de accionamento manual. A massa do badalo não deve ser inferior a 3% da massa do sino.",
+      "alterador": 4
+    },
+    {
+      "de": 1134,
+      "ate": 1153,
+      "texto": "## ANEXO IV — Sinais de socorro\n\n1 - Os seguintes sinais, utilizados ou mostrados em conjunto ou separadamente, significam perigo e necessidade de assistência:\n\na) Tiro de peça, ou outros sinais explosivos, com intervalos de cerca de um minuto;\n\nb) Som contínuo, produzido por qualquer aparelho de sinais de nevoeiro;\n\nc) Foguetes ou bombas, projetando estrelas de cor vermelha, lançados um de cada vez, a intervalos curtos;\n\nd) Sinal emitido por qualquer sistema de sinalização, formado pelo grupo ... - - - ... (SOS) do Código Morse;\n\ne) Sinal radiotelefónico, formado pela palavra «Mayday»;\n\nf) Sinal de perigo NC, do Código Internacional de Sinais;\n\ng) Sinal formado por uma bandeira quadrada, tendo, acima ou abaixo dela, um balão esférico ou objeto semelhante;\n\nh) Fogueiras a bordo (tais como as produzidas pela combustão de uma barrica de alcatrão, de óleo, etc.);\n\ni) Foguete com paraquedas ou um facho de mão que produzam uma luz vermelha;\n\nj) Sinal fumígeno que produza fumo cor de laranja;\n\nk) Movimentos lentos e repetidos, de cima para baixo, dos braços estendidos de cada lado do corpo;\n\nl) Sinal de alerta de socorro emitido por meio de Chamada Seletiva Digital (DSC) via:\n\ni) VHF canal 70; ou\n\nii) MF/HF nas frequências 2187.5 kHz, 8414.5 kHz, 4207.5 kHz, 6312 kHz, 12577 kHz ou 16804.5 kHz;\n\nm) Sinal de alerta de socorro navio-terra transmitido pela estação terrena de navio da Inmarsat ou de navio de outro fornecedor do serviço móvel por satélite;\n\nn) Sinais transmitidos por radiobalizas de localização de sinistros;\n\no) Sinais aprovados transmitidos por sistemas de radiocomunicações, incluindo respondedores radar de embarcações salva-vidas.\n\n2 - É proibido o emprego de qualquer dos sinais acima mencionados, exceto para indicar um caso de perigo ou uma necessidade de assistência, bem como o uso de outros sinais suscetíveis de com eles serem confundidos.\n\n3 - Chama-se a atenção para os capítulos pertinentes do Código Internacional de Sinais, para o Manual Internacional de Busca e Salvamento Marítimo e Aeronáutico, Volume III, e para os seguintes sinais:\n\na) Lona cor de laranja, com um quadrado ou um círculo preto, ou ainda com um outro símbolo apropriado (para identificação aérea);\n\nb) Colorante.",
+      "alterador": 5
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 103,
+      "texto": "m) The term 'wing-in-ground (WIG) craft' means a multimodal craft which, in its main operational mode, flies in close proximity to the surface by utilizing surface-effect action.",
+      "alterador": 4
+    },
+    {
+      "depois_de": 146,
+      "texto": "(f) (i) A vessel which, by any of these rules, is required not to impede the passage or safe passage of another vessel shall, when required by the circumstances of the case, take early action to allow sufficient sea room for the safe passage of the other vessel.\n\n(ii) A vessel required not to impede the passage or safe passage of another vessel is not relieved of this obligation if approaching the other vessel so as to involve risk of collision and shall, when taking action, have full regard to the action which may be required by the rules of this part.\n\n(iii) A vessel the passage of which is not to be impeded remains fully obliged to comply with the rules of this part when the two vessels are approaching one another so as to involve risk of collision.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 227,
+      "texto": "f) - i) A WIG craft shall, when taking off, landing and in flight near the surface, keep well clear of all other vessels and avoid impeding their navigation;\n\nii) A WIG craft operating on the water surface shall comply with the rules of this part as a power-driven vessel.",
+      "alterador": 4
+    },
+    {
+      "depois_de": 284,
+      "texto": "c) A WIG craft only when taking off, landing and in flight near the surface shall, in addition to the lights prescribed in paragraph a) of this rule, exhibit a high intensity all-round flashing red light.",
+      "alterador": 4
+    },
+    {
+      "depois_de": 419,
+      "texto": "i) A vessel of 12 m or more but less than 20 m in length shall not be obliged to give the bell signals prescribed in paragraphs g) and h) of this rule. However, if she does not, she shall make some other efficient sound signal at intervals of not more than 2 minutes.",
+      "alterador": 4
+    },
+    {
+      "depois_de": 440,
+      "texto": "PART F\n\nVerification of compliance with the provisions of the Convention\n\nRule 39\n\nDefinitions\n\n(a) Audit means a systematic, independent and documented process for obtaining audit evidence and evaluating it objectively to determine the extent to which audit criteria are fulfilled.\n\n(b) Audit Scheme means the IMO Member State Audit Scheme established by the Organization and taking into account the guidelines developed by the Organization (*).\n\n(c) Code for Implementation means the IMO Instruments Implementation Code (III Code) adopted by the Organization by resolution A.1070(28).\n\n(d) Audit Standard means the Code for Implementation.\n\nRule 40\n\nApplication\n\nContracting Parties shall use the provisions of the Code for Implementation in the execution of their obligations and responsibilities contained in the present Convention.\n\nRule 41\n\nVerification of compliance\n\n(a) Every Contracting Party shall be subject to periodic audits by the Organization in accordance with the audit standard to verify compliance with and implementation of the present Convention.\n\n(b) The Secretary-General of the Organization shall have responsibility for administering the Audit Scheme, based on the guidelines developed by the Organization (*).\n\n(c) Every Contracting Party shall have responsibility for facilitating the conduct of the audit and implementation of a programme of actions to address the findings, based on the guidelines developed by the Organization (*).\n\n(d) Audit of all Contracting Parties shall be:\n\n(i) Based on an overall schedule developed by the Secretary-General of the Organization, taking into account the guidelines developed by the Organization; and\n\n(ii) Conducted at periodic intervals, taking into account the guidelines developed by the Organization (*).\n\n(*) Refer to the Framework and Procedures for the IMO Member State Audit Scheme, adopted by the Organization by resolution A.1067(28).",
+      "alterador": 5
+    },
+    {
+      "depois_de": 464,
+      "texto": "d) When only one masthead light is prescribed for a power driven vessel, this light shall be exhibited forward of amidships; except that a vessel of less than 20 m in length need not exhibit this light forward of amidships but shall exhibit it as far forward as is practicable.",
+      "alterador": 3
+    },
+    {
+      "depois_de": 520,
+      "texto": "13 - High-speed craft (*).\n\na) The masthead light of high-speed craft may be placed at a height related to the breadth of the craft lower than that prescribed in paragraph 2, a), i), of this annex, provided that the base angle of the isosceles triangles formed by the sidelights and masthead light, when seen in end elevation, is not less than 27º.\n\nb) On high-speed craft of 50 m or more in length, the vertical separation between foremast and mainmast light of 4.5 m required by paragraph 2, a), ii), of this annex may be modified provided that such distance shall not be less than the value determined by the following formula:\n\ny = ((a + 17(Psi))C/1000) + 2\n\nwhere:\n\ny is the height of the mainmast light above the foremast light in metres;\n\na is the height of the foremast light above the water surface in service condition in metres;\n\n(Psi) is the trim in service condition in degrees;\n\nC is the horizontal separation of masthead lights in metres.\n\n(*) Refer to the International Code of Safety for High-Speed Craft, 1994, and the International Code of Safety for High-Speed Craft, 2000.",
+      "alterador": 4
+    },
+    {
+      "depois_de": 534,
+      "texto": "c) A vessel of less than 20 m in length engaged in trawling, whether using demersal or pelagic gear or engaged in pair trawling, may exhibit the lights prescribed in paragraphs a) or b) of this section, as appropriate.",
+      "alterador": 3
+    },
+    {
+      "depois_de": 675,
+      "texto": "m) A expressão 'veículo wing-in-ground' (WIG) designa todo o veículo multimodal que, no modo operacional principal, voa junto à superfície utilizando o efeito resultante da proximidade a essa superfície.",
+      "alterador": 4
+    },
+    {
+      "depois_de": 716,
+      "texto": "(f) (i) Um navio a que, por qualquer destas regras, seja recomendado não interferir com a passagem ou deixar safa a passagem a um outro navio deve, sempre que as circunstâncias assim o exijam, manobrar com a devida antecedência, a fim de conceder ao outro navio espaço suficiente para uma passagem safa.\n\n(ii) Um navio a que seja recomendado não interferir com a passagem ou deixar safa a passagem de outro navio não é dispensado desta obrigação, mesmo que se aproxime do outro navio de modo a verificar-se uma situação de risco de colisão, e deve, ao manobrar, fazê-lo de acordo com as regras desta parte.\n\n(iii) Um navio com direito a rumo fica obrigado a manobrar de acordo com as regras desta parte, sempre que ocorra a aproximação a outro navio, criando-se uma situação de risco de colisão.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 796,
+      "texto": "f) - i) Um veículo WIG deve, quando a descolar, a amarar ou em voo junto à superfície, manter-se bem afastado de todos os outros navios e evitar dificultar a sua navegação;\n\nii) Um veículo WIG operando sobre a superfície da água deverá cumprir as regras desta parte para navios de propulsão mecânica.",
+      "alterador": 4
+    },
+    {
+      "depois_de": 851,
+      "texto": "c) Um veículo WIG deve mostrar, somente quando a descolar, a amarar ou em voo junto à superfície, além das luzes prescritas no parágrafo a) desta regra, uma luz vermelha de alta intensidade de relâmpagos visível em todo o horizonte.",
+      "alterador": 4
+    },
+    {
+      "depois_de": 985,
+      "texto": "i) Um navio de comprimento igual ou superior a 12 m, mas inferior a 20 m, não é obrigado a fazer os sinais de sino prescritos nos parágrafos g) e h) desta regra. No entanto, quando o não fizer, deve emitir um outro sinal sonoro eficaz, com intervalos não superiores a dois minutos.",
+      "alterador": 4
+    },
+    {
+      "depois_de": 1004,
+      "texto": "PARTE F\n\nVerificação do cumprimento das disposições da convenção\n\nRegra 39\n\nDefinições\n\na) \"Auditoria\" significa um processo sistemático, independente e documentado para obter evidências e avaliá-las objetivamente, com vista a determinar em que medida os critérios da auditoria são atingidos.\n\nb) \"Esquema de Auditoria\" significa o Esquema de Auditoria aos Estados-Membros da OMI, estabelecido por esta Organização e tendo em consideração as linhas de orientação por ela elaboradas.\n\nc) \"Código de Implementação\" significa o Código de Implementação dos Instrumentos da OMI (Código III), adotado por esta Organização através da resolução A.1070(28).\n\nd) \"Padrão de Auditoria\" significa o Código de Implementação.\n\nRegra 40\n\nAplicação\n\nNo cumprimento das obrigações e responsabilidades contidas no presente Regulamento, as Partes Contratantes utilizarão as disposições do Código de Implementação.\n\nRegra 41\n\nVerificação do cumprimento\n\na) Cada Parte Contratante será sujeita a auditorias periódicas pela OMI de acordo com o padrão de auditoria, para verificar o cumprimento e a implementação do presente Regulamento.\n\nb) O Secretário-Geral da Organização será o responsável pela gestão do Esquema de Auditoria, com base nas linhas de orientação elaboradas por esta Organização.\n\nc) Cada Parte Contratante terá a responsabilidade de promover a realização da auditoria e a implementação de um programa de ações para corrigir as constatações, com base nas linhas de orientação elaboradas pela Organização.\n\nd) A auditoria das Partes Contratantes será:\n\ni) Baseada num calendário global desenvolvido pelo Secretário-Geral da Organização, tendo em conta as linhas de orientação elaboradas por esta Organização; e\n\nii) Realizada a intervalos periódicos, tendo em consideração as linhas de orientação elaboradas pela Organização.",
+      "alterador": 5
+    },
+    {
+      "depois_de": 1027,
+      "texto": "d) Quando esteja previsto apenas um farol de mastro para um navio de propulsão mecânica, esse farol deverá ser exibido para vante de meio-navio; exceptuam-se os navios de comprimento inferior a 20 m, que não precisam de exibir essa luz para vante de meio-navio, mas que a devem exibir o mais a vante possível.",
+      "alterador": 3
+    },
+    {
+      "depois_de": 1084,
+      "texto": "13 - Embarcações de alta velocidade (ver nota *).\n\na) O farol de mastro das embarcações de alta velocidade pode ser colocado a uma altura cuja relação com a boca da embarcação seja inferior à prescrita no parágrafo 2, a), i), deste anexo desde que o ângulo na base do triângulo isósceles formado pelo farol de mastro e os faróis de borda, visto de frente, não seja inferior a 27º.\n\nb) Em embarcações de alta velocidade de comprimento igual ou superior a 50 m, a separação vertical de 4,5 m entre os dois faróis de mastro requerida no parágrafo 2, a), ii), deste anexo pode ser modificada desde que essa distância não seja inferior ao valor determinado pela seguinte fórmula:\n\ny = ((a + 17(Psi))C/1000) + 2\n\nem que:\n\ny é a altura do farol de mastro principal acima do farol de mastro de vante, em metros;\n\na é a altura do farol de mastro de vante acima da superfície da água, quando em operação, em metros;\n\n(Psi) é o caimento, quando em operação, em graus;\n\nC é a separação horizontal dos faróis de mastro, em metros.\n\n(nota *) Código Internacional das Embarcações de Alta Velocidade, 1994, e Código Internacional das Embarcações de Alta Velocidade, 2000.",
+      "alterador": 4
+    },
+    {
+      "depois_de": 1097,
+      "texto": "c) Um navio de comprimento inferior a 20 m a arrastar, usando aparelho de fundo ou pelágico ou a arrastar em parelha, pode exibir os faróis prescritos nos parágrafos a) e b) desta secção, conforme seja o caso.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "Anexo III, secção 1 c) (Decreto n.º 1/2006): a tabela de níveis de pressão acústica só existe em imagem; foi atualizada apenas a remissão para o documento original, sem transcrever valores.",
+  "instrucoes": [
+    "Alterador 1 (Decreto 45/90), n.º 1: nova redação da regra 1 e) — substituídas as unidades 77 (EN) e 649 (PT).",
+    "Alterador 1, n.º 2: nova redação da regra 3 h) — unidades 99 e 671.",
+    "Alterador 1, n.º 3: novo parágrafo f) (i)-(iii) da regra 8 — inserido após 146 e após 716.",
+    "Alterador 1, n.os 4 e 5: nova redação da regra 10 a) e c) — unidades 159/729 e 164/734.",
+    "Alterador 1, n.os 6 e 7: anexo I, secção 2 d) e i) ii) — unidades 451/1014 e 458/1021.",
+    "Alterador 1, n.º 8: anexo I, secção 10 a) e b), 'underway'/'a navegar' depois de 'sailing vessels'/'navios à vela' — unidades 510, 513, 1073, 1076.",
+    "Alterador 1, n.º 9: novo parágrafo 1 (o) do anexo IV — absorvido pela substituição integral do anexo IV pelo alterador 5 (não devolvido à parte).",
+    "Alterador 2 (Aviso 77/99): só publicita a aplicação da Convenção a Macau; sem alteração textual.",
+    "Alterador 3 (Decreto 27/2005), n.os 1 e 2: regra 26 b) i) e c) i), retiradas as palavras sobre o cesto (e o separador que as precedia) — unidades 322, 326, 889, 893.",
+    "Alterador 3, n.º 3: nova redação da regra 26 d) — unidades 329 e 896.",
+    "Alterador 3, n.º 4: novo parágrafo d) na secção 3 do anexo I — inserido após 464 e 1027 (no texto atual a secção 3 só tem a) e b)).",
+    "Alterador 3, n.º 5: anexo I, secção 9 b) renumerado b) i) e novo b) ii) — unidades 508 e 1071.",
+    "Alterador 3, n.º 6: secção 13 'Approval/Aprovação' renumerada 14 (unidades 521 e 1085) e nova secção 13 inserida após 520/1084 com a redação final dada pelo alterador 4, n.º 8.",
+    "Alterador 3, n.º 7: anexo II, secção 2, frases iniciais de a) e b) e novo c) — unidades 528, 532, 1091, 1095; c) inserido após 534 e 1097.",
+    "Alterador 3, n.º 8: anexo IV, 1 o) — absorvido pela substituição integral do anexo IV pelo alterador 5.",
+    "Alterador 4 (Decreto 1/2006), n.º 1: regra 3 a) (unidades 85/657) e novo m) inserido após 103/675.",
+    "Alterador 4, n.º 2: regra 8 a) — unidades 142 e 712.",
+    "Alterador 4, n.º 3: novo parágrafo f) da regra 18 — inserido após 227 e 796.",
+    "Alterador 4, n.º 4: novo c) da regra 23 inserido após 284/851; o c) existente renumerado d) (unidades 285/852).",
+    "Alterador 4, n.º 5: nova redação da regra 31 — unidades 375 e 942.",
+    "Alterador 4, n.º 6: regra 33 a) — unidades 385 e 951.",
+    "Alterador 4, n.º 7: novo i) da regra 35 inserido após 419/985 e o i) existente (barco de pilotos) renumerado j) (unidades 420/986). Nota: o texto novo remete para os parágrafos g) e h), que no texto atual (sem as emendas de 1981) correspondem a outros sinais; copiado tal como publicado.",
+    "Alterador 4, n.º 8: nova redação da secção 13 do anexo I — inserida após 520 e 1084 (ver alterador 3, n.º 6).",
+    "Alterador 4, n.º 9: anexo III, secção 1 a) (unidades 541-542/1103-1104), secção 1 c) (texto e remissão para a tabela, que só existe em imagem: unidades 549-550/1111-1112) e secção 2 b) (unidades 567/1129-1131).",
+    "Alterador 5 (Decreto 22/2017), Resolução A.1004(25): anexo IV substituído integralmente — unidades 572-590 (EN) e 1134-1153 (PT, incluindo o novo título 'Sinais de socorro').",
+    "Alterador 5, Resolução A.1085(28): nova parte F (regras 39 a 41) aditada após a parte E — inserida após 440 (EN) e 1004 (PT)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

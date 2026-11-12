@@ -1,0 +1,807 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:251588:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-05-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7824584d7e07eb69",
+    "e7fa1aca84bffb3c",
+    "dcb59aaf2aeedf67",
+    "4dcc98eb781acb79",
+    "68dd1f66b2d646de",
+    "dc112c0e3e130ffc",
+    "26e797fd3338d147",
+    "c68eb70ace7c2013",
+    "e660ee88922b4982",
+    "b889e224dab465ca",
+    "9d61955692cdd80c",
+    "319a151450338ce5",
+    "5b5005d6a194f2a3",
+    "f0d99394e73dc046",
+    "cc64a86b53e6880f",
+    "804ed60a1f3020ae",
+    "d5951b3d15affb00",
+    "fc60aac71117f603",
+    "643bc5be38f039c5",
+    "4a4cc723f3365912",
+    "f3424ee2eca2ca59",
+    "38633af964d3992a",
+    "eb4980c3d6210f28",
+    "f91a0d1c6ff0d2ff",
+    "16daf9cc12c1ba42",
+    "65588c8e3442d481",
+    "eb0f2de04fde71f6",
+    "c62d4f6294fcaad7",
+    "e072aa49272de4f0",
+    "ce218cc56b640a76",
+    "d7ffd0e9c6b83a79",
+    "743aae1f74b25d11",
+    "e11039af9da77d25",
+    "9bad9a4ad6477e66",
+    "955626ace72a32bb",
+    "43ce829c4313dc83",
+    "b9dc71961faead17",
+    "b21312357add2999",
+    "adabe776c5cc411e",
+    "499ebf3f53fc96a6",
+    "32d24981f2f0700c",
+    "5b36877bfe0c463e",
+    "fdb7ede4f2e3e281",
+    "7c6f9ed1f000fc2d",
+    "e00945ff713ba8df",
+    "2fcd4cf3a223d7bc",
+    "c820db012c81a79e",
+    "74eb9155950263ba",
+    "38d5bff0bafc81cb",
+    "7b4ef4012cf54c30",
+    "8017c6343a16fca9",
+    "cb1abbb42290b52e",
+    "12fbeaa7a2ce38f5",
+    "b42d02f428283fe5",
+    "f1a34e9ff62b9ff7",
+    "baf41a240af06009",
+    "a49be59ed2b080f2",
+    "34958975ec3d4e83",
+    "2f30618bc1f7e2ca",
+    "bf1b73a43f2c32a4",
+    "c162931858f5c2f6",
+    "55582566bcb54927",
+    "d5a6e8d0c302e180",
+    "b66d711cef71eecb",
+    "11b557f5f3e6b33a",
+    "7e122fb2be55a75d",
+    "8ac7400053e329eb",
+    "8a184d6a97ea6de3",
+    "14b3571917c639eb",
+    "dc8ce5282b215b72",
+    "022cd401e804d8c8",
+    "18272ca5eb8373d2",
+    "0e0c98fb78a64d06",
+    "7fe7a6932842b35c",
+    "8f565547fc36f0d7"
+   ]
+  },
+  {
+   "date": "1980-05-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:473952:por",
+     "title": "Decreto-Lei n.º 120/80",
+     "published": "1980-05-15",
+     "dre_path": "/dr/detalhe/decreto-lei/120-1980-473952"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 34.º"
+   ],
+   "fragments": [
+    "7824584d7e07eb69",
+    "e7fa1aca84bffb3c",
+    "dcb59aaf2aeedf67",
+    "4dcc98eb781acb79",
+    "68dd1f66b2d646de",
+    "dc112c0e3e130ffc",
+    "26e797fd3338d147",
+    "c68eb70ace7c2013",
+    "9d126876f70a0fab",
+    "b889e224dab465ca",
+    "9d61955692cdd80c",
+    "319a151450338ce5",
+    "5b5005d6a194f2a3",
+    "f0d99394e73dc046",
+    "cc64a86b53e6880f",
+    "804ed60a1f3020ae",
+    "d5951b3d15affb00",
+    "fc60aac71117f603",
+    "643bc5be38f039c5",
+    "4a4cc723f3365912",
+    "f3424ee2eca2ca59",
+    "38633af964d3992a",
+    "eb4980c3d6210f28",
+    "f91a0d1c6ff0d2ff",
+    "16daf9cc12c1ba42",
+    "65588c8e3442d481",
+    "eb0f2de04fde71f6",
+    "c62d4f6294fcaad7",
+    "e072aa49272de4f0",
+    "ce218cc56b640a76",
+    "d7ffd0e9c6b83a79",
+    "743aae1f74b25d11",
+    "e11039af9da77d25",
+    "9bad9a4ad6477e66",
+    "955626ace72a32bb",
+    "43ce829c4313dc83",
+    "b9dc71961faead17",
+    "b21312357add2999",
+    "adabe776c5cc411e",
+    "499ebf3f53fc96a6",
+    "32d24981f2f0700c",
+    "5b36877bfe0c463e",
+    "fdb7ede4f2e3e281",
+    "7c6f9ed1f000fc2d",
+    "fedc622e7969f8ca",
+    "2fcd4cf3a223d7bc",
+    "c820db012c81a79e",
+    "74eb9155950263ba",
+    "38d5bff0bafc81cb",
+    "7b4ef4012cf54c30",
+    "8017c6343a16fca9",
+    "cb1abbb42290b52e",
+    "12fbeaa7a2ce38f5",
+    "b42d02f428283fe5",
+    "f1a34e9ff62b9ff7",
+    "baf41a240af06009",
+    "a49be59ed2b080f2",
+    "34958975ec3d4e83",
+    "2f30618bc1f7e2ca",
+    "bf1b73a43f2c32a4",
+    "c162931858f5c2f6",
+    "55582566bcb54927",
+    "d5a6e8d0c302e180",
+    "b66d711cef71eecb",
+    "11b557f5f3e6b33a",
+    "7e122fb2be55a75d",
+    "8ac7400053e329eb",
+    "8a184d6a97ea6de3",
+    "14b3571917c639eb",
+    "dc8ce5282b215b72",
+    "022cd401e804d8c8",
+    "18272ca5eb8373d2",
+    "0e0c98fb78a64d06",
+    "7fe7a6932842b35c",
+    "8f565547fc36f0d7"
+   ]
+  }
+ ],
+ "fragments": {
+  "7824584d7e07eb69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Maio\n\nTornando-se necessário instituir como empresa pública a Empresa Nacional de Urânio e dotá-la dos respectivos estatutos, nos termos dos artigos 202.º, alínea g), da Constituição, 4.º, n.os 2 e 3, e 40.º, n.os 2 e 3, do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, o Governo decreta o seguinte:\n\nArtigo 1.º - 1. É instituída a Empresa Nacional de Urânio, E. P., abreviadamente designada por ENU.\n\n2. A ENU rege-se pela lei aplicável às empresas públicas, pelo estatuto anexo, que faz parte integrante do presente diploma, e, subsidiariamente, pelas normas do direito privado.\n\nArt. 2.º - 1. São integrados no património da ENU os bens e direitos que para esta foram transmitidos por força do artigo 1.º, n.º 1, do [Decreto-Lei n.º 105/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1977-141025), de 22 de Março, o qual, juntamente com o presente decreto, será título bastante para todos os efeitos legais, incluindo os de registo.\n\n2. Em caso de dúvida, servirá de título bastante para as mesmas transmissões a simples declaração de conformidade, feita pela ENU e confirmada pela Direcção-Geral do Património, sobre se os bens a transmitir se encontravam integrados ou afectos aos patrimónios ou serviços e instalações referidos no n.º 1.\n\nArt. 3.º - 1. No prazo de noventa dias a ENU deverá propor a fixação de categorias e remunerações do pessoal que, nos termos do artigo 3.º do [Decreto-Lei n.º 105/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1977-141025), de 22 de Março, tenha para ela transitado, por forma a tornar possível a aplicação da contratação colectiva vigente.\n\n2. A fixação de categorias e remunerações prevista no número anterior terá efeitos desde a data da entrada em vigor do presente diploma.\n\nArt. 4.º Sempre que se mostrem necessários à sua actividade, a ENU goza dos direitos do Estado, atribuídos nas disposições legais e regulamentares aplicáveis, quanto:\n\na) À expropriação por utilidade pública urgente, efectivação de despejos administrativos e policiais, ocupação de terrenos, implantação de traçados de linhas eléctricas e telefónicas e de condutas de água, estabelecimento de zonas do protecção e construção de instalações;\n\nb) À protecção das suas instalações.\n\nArt. 5.º O Ministro da Indústria e Tecnologia fica autorizado a tomar todas as providências que se mostrem necessárias à execução do presente decreto e, nomeadamente, a pôr em prática o processo de integração na ENU da exploração mineira, incluindo o o tratamento de minérios, até ao presente a cargo da Junta de Energia Nuclear.\n\nArt. 6.º Os poderes de tutela do Governo sobre a ENU são exercidos pelo Ministro da Indústria e Tecnologia.\n\nArt. 7.º As dúvidas de interpretação e aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Ministro da Indústria e Tecnologia ou por despacho conjunto deste e dos Ministros competentes em razão da matéria, quando a dúvida a resolver respeite a mais de um Ministério.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.\n\nPromulgado em 29 de Março de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nESTATUTO DA EMPRESA NACIONAL DE URÂNIO, E. P. - ENU"
+  },
+  "e7fa1aca84bffb3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições fundamentais"
+  },
+  "dcb59aaf2aeedf67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Da denominação, natureza e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Da denominação, natureza e sede"
+  },
+  "4dcc98eb781acb79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Denominação e natureza)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Denominação e natureza)\n\n1. A Empresa Nacional de Urânio, E. P., abreviadamente designada por ENU, é uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira e com património próprio.\n\n2. A capacidade jurídica da ENU abrange todos os direitos e obrigações necessários ou convenientes à prossecução do seu objectivo."
+  },
+  "68dd1f66b2d646de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Sede e representações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Sede e representações)\n\n1. A ENU tem sede na Urgeiriça, podendo descentralizar os seus estabelecimentos, serviços técnicos e administrativos consoante as necessidades da sua actividade, que é exercida em todo o território do continente e ilhas adjacentes.\n\n2. A ENU poderá estabelecer delegações ou qualquer tipo de representação onde for considerado necessário, incluindo o estrangeiro."
+  },
+  "dc112c0e3e130ffc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Do objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Do objecto"
+  },
+  "26e797fd3338d147": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Objecto principal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Objecto principal)\n\nA ENU tem por objecto principal:\n\na) A prospecção, pesquisa, reconhecimento e traçagem de jazigos de urânio;\n\nb) A exploração dos jazigos de urânio conhecidos ou que venham a ser descobertos;\n\nc) O estabelecimento e exploração de instalações de recuperação e de tratamento de minérios de urânio;\n\nd) A comercialização dos produtos obtidos."
+  },
+  "c68eb70ace7c2013": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Objecto acessório)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Objecto acessório)\n\n1. A ENU pode exercer acessoriamente actividades relacionadas com o seu objecto principal, incluindo a venda de serviços e utilidades, nomeadamente as relacionadas com a utilização do urânio nas aplicações pacificas da energia nuclear.\n\n2. Para o exercício das suas actividades a ENU poderá criar ou participar em associações com entidades de natureza pública ou privada, nacionais ou estrangeiras, em empresas ou sociedades de economia mista ou privada, ou em sociedades de capitais públicos, sem prejuízo do disposto no Estatuto do Instituto das Participações do Estado."
+  },
+  "e660ee88922b4982": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Regime de exclusividade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Regime de exclusividade)\n\nA ENU exercerá as actividades referidas nas alíneas b) e c) do n.º 1 do artigo 3.º em regime de exclusivo, ressalvados os direitos constituídos a favor de terceiros até à data de entrada em vigor deste Estatuto."
+  },
+  "b889e224dab465ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Do capital estatutário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Do capital estatutário"
+  },
+  "9d61955692cdd80c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Capital estatutário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Capital estatutário)\n\nO capital estatutário será fixado nos termos do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho, por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia."
+  },
+  "319a151450338ce5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Modificações do capital estatutário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Modificações do capital estatutário)\n\n1. O capital estatutário pode ser aumentado por dotações e outras entradas patrimoniais do Estado e de outras entidades públicas, bem como por incorporação de reservas, conforme as necessidades de desenvolvimento da empresa.\n\n2. O capital estatutário só pode ser aumentado ou reduzido por decisão do Ministro da Indústria e Tecnologia e do Ministro das Finanças."
+  },
+  "5b5005d6a194f2a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Do património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Do património"
+  },
+  "f0d99394e73dc046": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Património)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Património)\n\n1. O património da empresa é constituído pelos direitos e obrigações adquiridos ou contraídos para ou no exercício da sua actividade.\n\n2. A ENU administra e dispõe livremente dos bens que integram o seu património, sem sujeição às normas relativas ao domínio privado do Estado, salvo o disposto nas normas aplicáveis do capítulo III deste Estatuto.\n\n3. Os bens do domínio público mineiro que, nos termos das alíneas a) e b) do artigo 3.º deste Estatuto, estejam ou venham a estar afectos às actividades a cargo da ENU são igualmente por esta administrados, nos termos previstos no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril."
+  },
+  "cc64a86b53e6880f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Responsabilidade por dívidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Responsabilidade por dívidas)\n\nPelas dívidas da ENU responde, exclusivamente, o seu património."
+  },
+  "804ed60a1f3020ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Receitas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Receitas)\n\nConstituem receitas da ENU as seguintes:\n\na) As resultantes da sua actividade específica;\n\nb) Os rendimentos provenientes de prestação de serviços;\n\nc) O rendimento de bens próprios;\n\nd) As comparticipações, as dotações e os subsídios não reembolsáveis que lhe sejam atrituídos;\n\ne) O produto da alienação de bens próprios e da constituição de direitos sobre eles;\n\nf) Doações, heranças ou legados que lhe sejam destinados;\n\ng) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que, por lei ou contrato, lhe devam pertencer."
+  },
+  "d5951b3d15affb00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Dos órgãos da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Dos órgãos da empresa"
+  },
+  "fc60aac71117f603": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições preliminares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições preliminares"
+  },
+  "643bc5be38f039c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Órgãos da empresa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Órgãos da empresa)\n\n1. São órgãos da ENU:\n\na) O conselho de gerência;\n\nb) Comissão de fiscalização.\n\n2. O Governo assegurará a supremacia do interesse público mediante o exercício dos poderes de tutela estabelecidos no presente Estatuto."
+  },
+  "4a4cc723f3365912": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Responsabilidade civil e criminal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Responsabilidade civil e criminal)\n\n1. Pelos actos ou omissões dos seus administradores a ENU responde civilmente perante terceiros, nos mesmos termos em que, pelos actos e omissões dos comissários respondem os comitentes, de acordo com a lei geral.\n\n2. Os membros de qualquer dos órgãos da ENU respondem civilmente perante esta em razão dos prejuízos causados pelo incumprimento dos seus deveres legais ou estatutários.\n\n3. O disposto nos números anteriores não prejudica a responsabilidade criminal em que eventualmente incorram os membros dos órgãos da empresa."
+  },
+  "f3424ee2eca2ca59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho de gerência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho de gerência"
+  },
+  "38633af964d3992a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Composição)\n\n1. O conselho de gerência é composto por três ou cinco administradores.\n\n2. Os administradores, e de entre eles o presidente, são nomeados pelo Conselho de Ministros, mediante proposta do Ministro da Indústria e Tecnologia, com prévia audiência dos trabalhadores.\n\n3. Consideram-se ouvidos os trabalhadores da empresa se estes não se pronunciarem nos vinte dias seguintes ao da recepção da lista nominal e respectivas notas biográficas que, para os efeitos do número anterior, sejam entregues aos seus representantes."
+  },
+  "eb4980c3d6210f28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Mandato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Mandato)\n\n1. O mandato dos membros do conselho de gerência é de três anos, renováveis nos termos legais.\n\n2. O mandato cessa obrigatoriamente logo que qualquer dos membros do conselho de gerência perfaça a idade fixada para a passagem à reforma dos trabalhadores da empresa.\n\n3. O membro que for nomeado para o conselho de gerência em substituição de outro cujo mandato haja cessado manter-se-á em funções até à data em que terminaria o mandato do substituído.\n\n4. O exercício do mandato não depende de prestação de caução."
+  },
+  "f91a0d1c6ff0d2ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Regime de trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Regime de trabalho)\n\n1. Os administradores exercerão as suas funções em regime de tempo completo.\n\n2. As funções de administrador só são acumuláveis com outras nos termos permitidos pelo Estatuto do Gestor Público."
+  },
+  "16daf9cc12c1ba42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Regalias sociais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Regalias sociais)\n\nOs administradores terão direito às regalias sociais asseguradas aos trabalhadores da empresa em condições idênticas às estabelecidas para estes últimos."
+  },
+  "65588c8e3442d481": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Abonos e despesas de deslocação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Abonos e despesas de deslocação)\n\nOs administradores terão direito ao abono das ajudas de custo em vigor na empresa e ao pagamento de despesas de transporte nos termos que forem fixados pelo conselho de gerência."
+  },
+  "eb0f2de04fde71f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Responsabilidade pela condução da gestão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Responsabilidade pela condução da gestão)\n\nPara além da responsabilidade civil em que se constituam perante terceiros ou perante a empresa e da responsabilidade criminal em que incorram, os administradores respondem pela condução da gestão face ao Governo."
+  },
+  "c62d4f6294fcaad7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Competência do conselho de gerência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Competência do conselho de gerência)\n\n1. O conselho de gerência terá todos os poderes necessários para assegurar a gestão e o desenvolvimento da empresa e a administração do seu património que, por força da lei ou do presente Estatuto, não estejam atribuídos a outros órgãos.\n\n2. Compete em especial ao conselho de gerência:\n\na) Definir e manter actualizadas as políticas e objectivos gerais da empresa e controlar permanentemente a sua execução, designadamente através da apreciação de indicadores adequados;\n\nb) Deliberar sobre o exercício, modificação ou cessação de actividades relacionadas com os objectos principal e acessório da empresa;\n\nc) Celebrar contratos-programas;\n\nd) Elaborar os planos plurianuais de actividade e financeiros;\n\ne) Elaborar o plano anual de actividade e os orçamentos anuais de exploração e de investimento e suas actualizações;\n\nf) Elaborar anualmente o balanço, conta de exploração, demonstração de resultados e relatório respeitantes ao exercício anterior, bem como a proposta de aplicação de resultados;\n\ng) Definir o modo de constituição das provisões e das reservas, bem como o sistema de amortização e reintegração de bens;\n\nh) Definir a organização da empresa e elaborar os regulamentos internos;\n\ni) Deliberar sobre a criação de qualquer forma de representação permanente da empresa;\n\nj) Negociar e celebrar convenções colectivas de trabalho;\n\nl) Contratar o pessoal e praticar os demais actos a ele relativos;\n\nm) Deliberar sobre a aquisição, alienação e oneração, por qualquer título, de bens móveis ou imóveis, precedendo parecer favorável da comissão de fiscalização;\n\nn) Celebrar contratos de arrendamento;\n\no) Celebrar contratos de mútuo e emitir obrigações;\n\np) Deliberar sobre a aquisição, oneração ou alienação de participações sociais que a empresa seja autorizada a possuir, bem como sobre a dissolução, liquidação, fusão ou cisão das sociedades em cujo capital a empresa, devidamente autorizada, participe;\n\nq) Desistir, transigir e confessar em quaisquer pleitos e, bem assim, comprometer-se em arbitragens;\n\nr) Admitir, promover, transferir e exonerar o pessoal e exercer sobre ele o poder disciplinar;\n\ns) Estabelecer meios de formação e valorização profissional dos trabalhadores da empresa;\n\nt) Deliberar sobre a criação de direcções ou serviços regionais e definir os poderes dos respectivos responsáveis;\n\nu) Estabelecer as condições em que poderão ser prestados serviços a outras entidades e os preços a cobrar;\n\nv) Praticar os demais actos que lhe caibam nos termos da lei, do presente Estatuto e dos regulamentos da empresa.\n\n3. O exercício da competência do conselho de gerência depende, nos casos previstos neste Estatuto, da autorização ou aprovação do Governo ou do parecer da comissão de fiscalização."
+  },
+  "e072aa49272de4f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Presidente do conselho de gerência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Presidente do conselho de gerência)\n\n1. Compete especialmente ao presidente do conselho de gerência:\n\na) Coordenar a actividade do conselho de gerência e convocar as respectivas reuniões, bem como as reuniões conjuntas deste conselho com a comissão de fiscalização;\n\nb) Resolver sobre assuntos de carácter urgente que não possam aguardar decisão do conselho de gerência, ao qual serão presentes na reunião imediatamente seguinte;\n\nc) Representar a empresa em juízo ou fora dele;\n\nd) Determinar o que seja necessário à boa administração da empresa e ao bom funcionamento e regularidade dos serviços, de acordo com as deliberações do conselho de gerência;\n\ne) Exercer em relação ao pessoal a competência que lhe for atribuída no respectivo estatuto ou delegada pelo conselho de gerência;\n\nf) Zelar pelo cumprimento das leis e regulamentos aplicáveis, bem como pelo cumprimento das instruções e directivas do Governo;\n\ng) Exercer voto de qualidade e os demais poderes que lhe sejam conferidos pela lei ou pelo presente Estatuto.\n\n2. O presidente pode, precedendo deliberação do conselho de gerência, delegar em um ou mais dos membros do conselho parte da competência que lhe é atribuída no número precedente, estabelecendo os limites e condições dos poderes delegados.\n\n3. Nas suas faltas ou impedimentos o presidente do conselho de gerência será substituído pelo administrador que o conselho designar para esse efeito."
+  },
+  "ce218cc56b640a76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Reuniões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Reuniões)\n\n1. O conselho de gerência reúne ordinariamente pelo menos uma vez por semana, e extraordinariamente, sempre que for convocado pelo presidente, quer por sua iniciativa, quer a requerimento da maioria dos administradores.\n\n2. Apenas são válidas as convocações que se fizerem a todos os administradores.\n\n3. Consideram-se regularmente convocados os administradores que:\n\na) Hajam assinado o aviso convocatório;\n\nb) Tenham assistido a qualquer reunião anterior em que, na sua presença, houvessem sido fixados o dia, a hora e o local da reunião;\n\nc) Tenham sido avisados por qualquer outra forma previamente acordada;\n\nd) Compareçam à reunião.\n\n4. Os administradores consideram-se sempre devidamente convocados para as reuniões ordinárias que se realizem em dias, a horas e em locais preestabelecidos."
+  },
+  "d7ffd0e9c6b83a79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Deliberações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Deliberações)\n\n1. Para o conselho de gerência deliberar validamente e, salvo o disposto no artigo seguinte, indispensável a presença pessoal e efectiva da maioria dos seus membros.\n\n2. As deliberações do conselho são tomadas pela maioria absoluta dos votos expressos, sempre que não seja exigida maioria qualificada.\n\n3. Não é admitido o voto por correspondência ou procuração.\n\n4. De todas as reuniões serão lavradas actas."
+  },
+  "743aae1f74b25d11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Deliberação sobre delegação de poderes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Deliberação sobre delegação de poderes)\n\n1. O conselho de gerência, pela maioria de dois terços do número dos seus membros, pode delegar poderes em qualquer ou quaisquer deles.\n\n2. As delegações do conselho de gerência estabelecerão sempre os limites dos poderes delegados e os termos do respectivo exercício."
+  },
+  "e11039af9da77d25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Suspensão da executoriedade das deliberações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Suspensão da executoriedade das deliberações)\n\n1. O presidente do conselho de gerência pode, mediante declaração fundamentada, suspender a executoriedade das deliberações relativamente às quais:\n\na) Entenda necessário conhecer-se a orientação do Governo, através do Ministro da Tutela;\n\nb) Considere serem contrárias à lei ou ao presente Estatuto;\n\nc) Se verifique terem sido tomadas sem a presença de todos os membros em exercício e aprovadas por menos de metade dos mesmos.\n\n2. No caso das alíneas a) e b) do número anterior, considerar-se-á que a apreciação da deliberação suspensa é devolvida ao prudente critério do conselho de gerência se o Ministro da Tutela não se pronunciar nos quinze dias posteriores à suspensão, da qual lhe deverá ser dado conhecimento nos três dias imediatos.\n\n3. As deliberações suspensas com fundamento na alínea c) do n.º 1 serão apreciadas na sessão seguinte do conselho de gerência, que sobre elas definitivamente deliberará."
+  },
+  "9bad9a4ad6477e66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Termos em que a empresa se obriga)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Termos em que a empresa se obriga)\n\n1. A empresa só se obriga:\n\na) Pelas assinaturas conjuntas de dois administradores;\n\nb) Pela assinatura de um administrador que para tanto haja recebido delegação do conselho de gerência;\n\nc) Pela assinatura de um administrador acompanhada da assinatura de um trabalhador autorizado pelo conselho de gerência para esse efeito;\n\nd) Pela assinatura de procurador legalmente constituído, no âmbito dos poderes constantes da procuração;\n\ne) Pela assinatura do trabalhador da empresa para tal especialmente mandatado.\n\n2. Nos actos ou contratos que determinem responsabilidades de montante superior a 10000 contos, a empresa só se considerará obrigada nos termos da alínea a) do número anterior se uma das assinaturas for a do presidente."
+  },
+  "955626ace72a32bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Da comissão de fiscalização"
+  },
+  "43ce829c4313dc83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Composição)\n\n1. A comissão de fiscalização é composta por três membros, que escolhem de entre si o presidente, e por dois suplentes, todos designados por três anos, renováveis.\n\n2. Os membros da comissão de fiscalização serão nomeados por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia, sendo um efectivo e um suplente indicados pelos trabalhadores da empresa de entre si.\n\n3. Um dos membros efectivos da comissão de fiscalização será obrigatoriamente revisor oficial de contas.\n\n4. No caso de os trabalhadores da empresa não fazerem a indicação a que se refere o n.º 2 deste artigo até trinta dias decorridos da data da recepção do convite que para tanto lhes for dirigido, as nomeações do membro efectivo e do suplente a que se refere o mesmo n.º 2 serão feitas por livre escolha dos Ministros das Finanças e da Indústria e Tecnologia.\n\n5. Ao mandato dos membros da comissão de fiscalização aplica-se, com as necessárias adaptações, o disposto nos n.os 2 e 3 do artigo 14.º"
+  },
+  "b9dc71961faead17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — (Remunerações, abonos e despesas de deslocação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Remunerações, abonos e despesas de deslocação)\n\n1. A remuneração dos membros da comissão de fiscalização que actuem em tempo parcial será acumulável com quaisquer outras remunerações, dentro dos limites e condicionamentos legais estabelecidos.\n\n2. Os membros da comissão de fiscalização que, no exercício das suas funções, hajam de deslocar-se da localidade onde habitualmente residem têm direito ao abono das ajudas de custo em vigor na empresa e ao pagamento de despesas de transporte, nos termos que forem fixados pelo conselho de gerência."
+  },
+  "b21312357add2999": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — (Competência da comissão de fiscalização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Competência da comissão de fiscalização)\n\n1. Compete à comissão de fiscalização:\n\na) Velar pelo cumprimento das normas reguladoras da actividade da empresa;\n\nb) Fiscalizar a gestão da empresa;\n\nc) Acompanhar a execução dos planos de actividade e de financiamento plurianuais, dos programas anuais de trabalho e financiamentos e dos orçamentos anuais;\n\nd) Examinar a contabilidade da empresa;\n\ne) Verificar as existências de valores de qualquer espécie pertencentes à empresa ou por ela recebidos em garantia, em depósito ou a outro título;\n\nf) Verificar se o património da empresa está correctamente avaliado;\n\ng) Verificar a exactidão do balanço, da conta de exploração, da demonstração dos resultados e dos restantes elementos a apresentar anualmente pelo conselho de gerência e emitir parecer sobre os mesmos, bem como sobre o relatório anual do referido conselho;\n\nh) Dar conhecimento aos órgãos competentes das irregularidades que apurar na gestão da empresa;\n\ni) Pronunciar-se sobre a legalidade e conveniência dos actos do conselho de gerência nos casos em que, nos termos da lei ou do Estatuto, o deva fazer;\n\nj) Pronunciar-se sobre qualquer assunto de interesse para a empresa que seja submetido à sua apreciação pelo conselho de gerência.\n\n2. A comissão de fiscalização poderá fazer-se assistir, sob sua responsabilidade, por auditores internos da empresa, se os houver, e por auditores externos contratados pelo conselho de gerência.\n\n3. A comissão de fiscalização tem livre acesso a todos os sectores e documentos da empresa, devendo, para o efeito, requisitar a comparência dos respectivos responsáveis."
+  },
+  "adabe776c5cc411e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Presidente da comissão de fiscalização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Presidente da comissão de fiscalização)\n\nA competência do presidente da comissão de fiscalização regula-se pelo disposto nas alíneas a), b) e d) do n.º 1 do artigo 20.º, com as necessárias adaptações."
+  },
+  "499ebf3f53fc96a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Reuniões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Reuniões)\n\n1. A comissão de fiscalização reúne ordinariamente uma vez por mês, e extraordinariamente, sempre que for convocada pelo presidente, quer por iniciativa sua, quer a requerimento de qualquer dos seus membros.\n\n2. À convocação da comissão de fiscalização aplica-se, com as necessárias adaptações, o disposto nos n.os 2 a 4 do artigo 21.º"
+  },
+  "32d24981f2f0700c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — (Deliberações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Deliberações)\n\n1. É requisito de validade das deliberações da comissão de fiscalização a presença pessoal e efectiva da maioria dos seus membros nas reuniões onde elas sejam tomadas.\n\n2. As deliberações da comissão de fiscalização ficam sujeitas ao estabelecido no artigo 22.º, na parte aplicável."
+  },
+  "5b36877bfe0c463e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — (Assistência às reuniões do conselho de gerência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Assistência às reuniões do conselho de gerência)\n\n1. A comissão de fiscalização assistirá obrigatoriamente às reuniões do conselho de gerência em que se apreciem as contas do exercício.\n\n2. Fora do caso previsto no número precedente, os membros da comissão de fiscalização poderão assistir, individual ou conjuntamente, às reuniões do conselho de gerência sempre que o presidente deste o entenda conveniente."
+  },
+  "fdb7ede4f2e3e281": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Intervenção do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Intervenção do Governo"
+  },
+  "7c6f9ed1f000fc2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — (Do Ministro da Indústria e Tecnologia)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Do Ministro da Indústria e Tecnologia)\n\n1. O Ministério da Tutela é o Ministério da Indústria e Tecnologia.\n\n2. Compete ao Ministro da Indústria e Tecnologia no exercício dos poderes de tutela:\n\na) Decidir os recursos interpostos pelo presidente do conselho de gerência da não aprovação pela comissão de fiscalização de actos que requeiram a concordância desta, quando o desacordo respeite à conveniência ou oportunidade dos mesmos actos;\n\nb) Aprovar os planos plurianuais de actividade e financeiros;\n\nc) Aprovar o plano anual de actividades;\n\nd) Aprovar os orçamentos anuais de exploração e de investimento, bem como as suas actualizações, nos casos previstos na lei;\n\ne) Aprovar as contas da empresa e a aplicação dos resultados, designadamente a constituição de reservas;\n\nf) Aprovar os contratos-programas celebrados pela empresa;\n\ng) Autorizar o exercício, modificação ou cessação de actividades acessórias do objecto principal da empresa;\n\nh) Autorizar a cooperação ou associação com outras entidades nacionais, estrangeiras ou internacionais;\n\ni) Fixar as remunerações dos membros do conselho de gerência, de acordo com o disposto no Estatuto do Gestor Público, e da comissão de fiscalização;\n\nj) Autorizar a acumulação de funções públicas com o cargo de membro do conselho de gerência, nos termos previstos no n.º 2 do artigo 15.º;\n\nl) Fixar os preços de venda, no âmbito das medidas de política definidas pelo Conselho de Ministros.\n\n3. A tutela, a cargo do Ministério da Indústria e Tecnologia, compreende ainda:\n\na) O poder de dar directivas e instruções genéricas aos administradores da empresa, no âmbito da política geral de desenvolvimento do sector;\n\nb) O poder de exigir todas as informações e documentos julgados úteis para acompanhar de modo continuado a actividade da empresa;\n\nc) O poder de ordenar inspecções e inquéritos ao funcionamento da empresa ou a certos aspectos deste, independentemente da existência de indícios da prática de irregularidades;\n\nd) O exercício de quaisquer outros poderes de tutela económica e financeira que lhe sejam conferidos por lei ou pelo presente Estatuto."
+  },
+  "e00945ff713ba8df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — (Dos Ministros das Finanças e da Indústria e Tecnologia)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Dos Ministros das Finanças e da Indústria e Tecnologia)\n\nCompete aos Ministros das Finanças e da Indústria Tecnologia:\n\na) Autorizar a realização de empréstimos em moeda nacional, por prazo superior a sete anos, ou em moeda estrangeira, bem como aprovar o plano e demais condições da operação, incluindo as garantias a prestar, sem prejuízo da legislação geral aplicável;\n\nb) Autorizar a emissão de obrigações;\n\nc) Autorizar a aquisição ou alienação de participações no capital de sociedades comerciais, sem prejuízo do disposto no Estatuto do Instituto de Participações do Estado;\n\nd) Aprovar os princípios a que deve obedecer a reavaliação e os respectivos coeficientes e os critérios de amortização e de reintegração dos bens da empresa."
+  },
+  "2fcd4cf3a223d7bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — (Dos Ministros da Indústria e Tecnologia e do Trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Dos Ministros da Indústria e Tecnologia e do Trabalho)\n\nCompete aos Ministérios da Indústria e Tecnologia e do Trabalho aprovar o estatuto do pessoal."
+  },
+  "c820db012c81a79e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — (Sujeição ao planeamento económico nacional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Sujeição ao planeamento económico nacional)\n\nNa elaboração dos planos de actividade e financeiros da empresa, o conselho de gerência observará imperativamente as opções e prioridades fixadas nos planos nacionais de médio prazo."
+  },
+  "74eb9155950263ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Gestão patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Gestão patrimonial e financeira"
+  },
+  "38d5bff0bafc81cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — (Disposição e administração de bens)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Disposição e administração de bens)\n\n1. A ENU dispõe e administra os bens que integram o seu património sem sujeição às normas relativas ao domínio privado do Estado.\n\n2. A empresa administra ainda os bens do domínio público do Estado afectos às actividades a seu cargo, mantendo em dia o respectivo cadastro, afectando-lhe os bens que nele convenha incorporar e desafectando os dispensáveis à sua actividade própria.\n\n3. É da exclusiva competência da ENU a cobrança das suas receitas, bem como a realização de todas as despesas inerentes à prossecução do seu objecto."
+  },
+  "7b4ef4012cf54c30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — (Princípios básicos de gestão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Princípios básicos de gestão)\n\n1. A gestão da ENU deve ser conduzida de acordo com os imperativos do planeamento económico nacional, tendo em atenção o melhor aproveitamento dos recursos nacionais de urânio, e segundo princípios de economicidade que possam ser objectivamente fixados e controlados em relação às diversas funções e actividades por ela desenvolvidas.\n\n2. Na gestão da empresa observar-se-ão, nomeadamente, os seguintes princípios:\n\na) Os preços praticados devem assegurar receitas que permitam a cobertura dos custos totais de exploração e assegurem níveis adequados do autofinanciamento e de remuneração do capital investido;\n\nb) Pertencerá ao Estado, nos casos em que, por razões de política económica e social, sejam impostos à empresa preços inferiores aos referidos na alínea anterior, proporcionar à empresa receitas extraordinárias que a compensem de tal imposição;\n\nc) Devem ser claramente fixados, sempre que possível através de contratos-programas, objectivos económicos e financeiros de médio prazo, designadamente no que respeita à remuneração do trabalho e do capital investido ou à obtenção de um adequado autofinanciamento;\n\nd) A evolução da massa salarial deve respeitar os objectivos enunciados na alínea anterior, bem como a necessidade de adoptar políticas de preços que não acentuem seriamente as tensões inflacionistas, devendo sempre subordinar-se à política nacional de salários e rendimentos;\n\ne) Na apreciação de projectos de novos investimentos deve procurar obter-se uma adequada taxa de rentabilidade financeira dos capitais investidos, sem prejuízo de, em relação a certos projectos, a determinação daquela taxa de rentabilidade poder basear-se numa análise de custos e benefícios económico-sociais;\n\nf) Deve ter-se como objectivo a minimização dos custos de produção mediante o melhor aproveitamento dos recursos postos à disposição da empresa, com vista a atingir o máximo de eficácia na sua contribuição para o desenvolvimento económico e social;\n\ng) Em certos casos especiais, os objectivos mencionados na alínea a) poderão entender-se como referidos a um período superior a um ano."
+  },
+  "8017c6343a16fca9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — (Venda de produção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — (Venda de produção)\n\n1. A ENU só poderá vender a sua produção mediante contratos aprovados pelo Ministro da Indústria e Tecnologia, tendo em atenção o disposto no artigo 37.º\n\n2. O Estado garante à ENU a compra da produção desta quando os contratos não sejam aprovados pelo Ministro da Indústria e Tecnologia."
+  },
+  "cb1abbb42290b52e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — (Instrumentos de gestão previsional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — (Instrumentos de gestão previsional)\n\nA gestão económica e financeira da empresa é planeada mediante a elaboração dos seguintes instrumentos:\n\na) Planos plurianuais de actividades;\n\nb) Planos plurianuais de financiamento;\n\nc) Plano anual de actividades;\n\nd) Orçamentos anuais, individualizando, pelo menos, os de exploração e de investimento, e suas actualizações."
+  },
+  "12fbeaa7a2ce38f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — (Planos plurianuais de actividade e financeiros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — (Planos plurianuais de actividade e financeiros)\n\n1. O plano plurianual de actividades deverá conter a ordenação das decisões no tempo, os aferidores do crescimento da empresa e os meios previstos para os respectivos contrôle e revisão.\n\n2. Os planos financeiros devem prever, em relação aos períodos a que respeitem, a evolução das receitas e das despesas, os investimentos projectados e as fontes de financiamento a serem utilizadas.\n\n3. Os planos financeiros plurianuais serão actualizados em cada ano e, com observância do disposto no artigo 37.º, deverão traduzir a estratégia da empresa a médio prazo."
+  },
+  "b42d02f428283fe5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — (Orçamentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — (Orçamentos)\n\n1. A ENU deve elaborar, em cada ano económico, orçamentos de exploração e de investimentos por grandes rubricas, a serem submetidos à aprovação do Ministro da Tutela, sem prejuízo dos desdobramentos internos, destinados a permitir conveniente descentralização de responsabilidades e adequado contrôle de gestão.\n\n2. As actualizações orçamentais, a celebrar, pelo menos, semestralmente, devem ser aprovadas pelo Ministro da Tutela:\n\na) Quanto aos orçamentos de exploração, desde que originem desvios significativos nos resultados;\n\nb) Quanto aos orçamentos de investimentos, sempre que, em consequência deles, sejam significativamente alterados os valores inicialmente atribuídos a cada grupo de projectos ou sector de actividade.\n\n3. Os projectos dos orçamentos a que se refere o n.º 1 serão remetidos, até 30 de Outubro de cada ano, ao Ministro da Tutela, que os aprovará, depois de ouvido o Ministro responsável do planeamento, até 15 de Dezembro seguinte, considerando-se tacitamente aprovados uma vez decorrido aquele prazo.\n\n4. Sem prejuízo do disposto nos números anteriores, a empresa deve enviar ao Ministro da Tutela e ao Ministro do Plano e Coordenação Económica, até 31 de Agosto de cada ano, uma primeira versão dos elementos básicos dos seus planos de produção e investimento para o ano seguinte, a fim de poderem ser considerados no processo de elaboração do plano económico nacional e de este poder ter, por sua vez, influência na fixação dos projectos definitivos dos orçamentos de exploração e de investimentos."
+  },
+  "f1a34e9ff62b9ff7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — (Amortizações, reintegrações e reavaliações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — (Amortizações, reintegrações e reavaliações)\n\n1. A amortização e reintegração dos bens e a reavaliação do activo imobilizado serão efectuadas nos termos que forem definidos pelo conselho de gerência, com parecer favorável da comissão de fiscalização, de acordo com critérios aprovados pelo Ministro da Tutela, sem prejuízo da aplicabilidade do disposto na lei fiscal.\n\n2. O valor anual das amortizações constitui encargo de exploração e será escriturado em conta especial.\n\n3. A empresa deve proceder periodicamente à reavaliação do activo imobilizado, em ordem a obter uma mais exacta correspondência entre os valores patrimoniais e contabilísticos."
+  },
+  "baf41a240af06009": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — (Aplicação dos resultados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — (Aplicação dos resultados)\n\n1. Se houver lucros, será constituída uma provisão para pagamento dos impostos que sobre eles incidem.\n\n2. O remanescente será aplicado pelo modo seguinte:\n\na) Na constituição ou reforço das provisões, reservas e fundos criados nos termos do artigo 45.º, com observância do que no mesmo vai disposto;\n\nb) Entregando-se ao Estado o que sobrar após a aplicação prevista na alínea anterior.\n\n3. Na elaboração da proposta de aplicação do resultado do exercício o conselho de gerência deverá ter em conta as necessidades de retenção de lucros na empresa para fazer face ao reembolso de financiamentos contraídos e ao autofinanciamento de investimentos programados, bem como à compensação dos efeitos desfavoráveis da inflação monetária."
+  },
+  "a49be59ed2b080f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — (Reservas e fundos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — (Reservas e fundos)\n\n1. É obrigatória a constituição das seguintes reservas e fundos:\n\na) Reserva geral;\n\nb) Reserva para investimentos;\n\nc) Fundo para fins sociais.\n\n2. A reserva geral será constituída por uma parte dos lucros de cada exercício, no mínimo de 10%.\n\n3. A reserva geral pode ser utilizada para cobrir eventuais prejuízos de exploração.\n\n4. A reserva para investimentos será constituída pelas verbas que, em cada ano, lhe forem destinadas pelo conselho de gerência, tendo em conta as necessidades financeiras da empresa, derivadas dos investimentos feitos ou a fazer, e ainda pelo que, nos termos da lei, lhe deva ser afectado.\n\n5. O fundo para fins sociais será constituído pela percentagem dos resultados que, para cada ano, for fixada e destina-se a financiar benefícios sociais ou fornecimento de serviços colectivos aos trabalhadores da empresa.\n\n6. O conselho de gerência pode deliberar a criação de outras reservas, fundos ou provisões."
+  },
+  "34958975ec3d4e83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — (Contabilidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — (Contabilidade)\n\nA contabilidade deve responder às necessidades da gestão empresarial corrente e permitir um contrôle orçamental permanente, bem como a fácil verificação de correspondência entre os valores patrimoniais e contabilísticos."
+  },
+  "2f30618bc1f7e2ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — (Documentos de prestação de contas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — (Documentos de prestação de contas)\n\n1. Serão elaborados, com referência a 31 de Dezembro de cada ano, os documentos seguintes:\n\na) Relatório do conselho de gerência, dando conta da forma como foram atingidos os objectivos da empresa e analisando a eficiência desta nos vários domínios da sua actuação;\n\nb) Balanço e demonstração de resultados;\n\nc) Discriminação das participações no capital de sociedade e dos financiamentos realizados a médio e longo prazos;\n\nd) Mapa de origem e aplicação de fundos.\n\n2. Até 28 de Fevereiro do ano seguinte, o conselho de gerência remeterá à comissão de fiscalização os documentos indicados no número precedente, referentes ao exercício terminado em 31 de Dezembro anterior.\n\n3. Os documentos referidos no n.º 1 e o parecer da comissão de fiscalização serão enviados, até 31 de Março, ao Ministro da Tutela, que os apreciará e aprovará até 30 de Abril, considerando-se aprovados tacitamente decorrido esse prazo.\n\n4. Os documentos mencionados no n.º 1 serão, após a sua aprovação pelo Ministro da Tutela, enviados ao órgão central do planeamento.\n\n5. O relatório anual do conselho de gerência, o balanço, a demonstração de resultados e o parecer da comissão de fiscalização serão publicados no Diário da República, por conta da empresa.\n\n6. A apresentação para a publicação referida no número precedente deverá ser feita nos sessenta dias após a aprovação dos documentos nele mencionados."
+  },
+  "bf1b73a43f2c32a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — (Aprovação das contas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — (Aprovação das contas)\n\n1. As contas da empresa não são submetidas a julgamento do Tribunal de Contas.\n\n2. A aprovação das contas da empresa compete ao Ministro da Indústria e Tecnologia, a quem deverão ser remetidas até ao final do mês de Março, acompanhadas de parecer da comissão de fiscalização."
+  },
+  "c162931858f5c2f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — (Isenção de formalidades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — (Isenção de formalidades)\n\n1. Os contratos, actos ou operações de qualquer natureza, mesmo os que dêem lugar a encargos em mais de um exercício que não seja aquele em que são celebrados ou praticados, estão isentos de visto do Tribunal de Contas e de registo na Direcção-Geral da Contabilidade Pública.\n\n2. Os contratos de arrendamento cuja celebração se mostre necessária à actividade da empresa estão isentos de todas as formalidades exigidas para o arrendamento de imóveis destinados ao serviço do Estado."
+  },
+  "55582566bcb54927": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — (Cadastro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — (Cadastro)\n\nO cadastro dos bens da empresa e do domínio público a cargo dela será actualizado até 31 de Dezembro de cada ano."
+  },
+  "d5a6e8d0c302e180": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — (Arquivo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — (Arquivo)\n\n1. A empresa conservará em arquivo os documentos da sua escrita principal e a correspondência pelo prazo de dez anos.\n\n2. Poderão os documentos que devem conservar-se em arquivo ser microfilmados e os microfilmes autenticados com a assinatura do responsável pelo serviço.\n\n3. Os originais dos documentos que hajam sido microfilmados nos termos do número anterior poderão ser inutilizados.\n\n4. As fotocópias autenticadas de documentos arquivados têm a mesma força probatória que os originais, mesmo quando se trate de ampliações de microfilmes."
+  },
+  "b66d711cef71eecb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Do pessoal"
+  },
+  "11b557f5f3e6b33a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — (Regime de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — (Regime de pessoal)\n\nO regime jurídico do pessoal é definido:\n\na) Pelas leis gerais do contrato individual de trabalho;\n\nb) Pelos instrumentos de regulamentação colectiva do trabalho que forem aplicáveis à empresa;\n\nc) Pelas demais normas que integram o estatuto do pessoal da empresa, elaborado pelo conselho de gerência."
+  },
+  "7e122fb2be55a75d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — (Comissões de serviço. Acumulações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — (Comissões de serviço. Acumulações)\n\n1. Podem exercer funções de carácter específico na empresa, em comissão de serviço, por período não superior a um ano ou pelo período do mandato, quando se tratar do exercício de cargos nos órgãos das empresas, funcionários do Estado, das autarquias locais e dos institutos públicos, bem como trabalhadores de outras empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação ou reforma e sobrevivência, considerando-se todo o período da comissão como serviço prestado nesse quadro.\n\n2. Nas mesmas condições, também os trabalhadores da empresa podem exercer funções no Estado, autarquias locais, institutos públicos ou outras empresas públicas, ou nos órgãos de gestão de empresas subsidiárias ou associadas da ENU.\n\n3. Os funcionários ou trabalhadores que, nos termos dos números precedentes, foram investidos em comissão de serviço poderão optar pelo vencimento auferido no quadro de origem ou pelo atribuído às funções da respectiva comissão.\n\n4. O vencimento correspondente à comissão de serviço constituirá encargo da entidade para quem o serviço for prestado, salvo disposição legal em contrário."
+  },
+  "8ac7400053e329eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — (Situação dos trabalhadores nomeados para cargos dos órgãos da empresa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — (Situação dos trabalhadores nomeados para cargos dos órgãos da empresa)\n\nA situação dos trabalhadores da ENU que sejam chamados a ocupar cargos nos órgãos da empresa em nada será prejudicada por esse facto, regressando aos seus lugares logo que termine o seu mandato."
+  },
+  "8a184d6a97ea6de3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — (Regime de previdência do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — (Regime de previdência do pessoal)\n\nAo pessoal da empresa é aplicável o regime geral da Previdência, com salvaguarda dos direitos e regalias já adquiridos."
+  },
+  "14b3571917c639eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — (Regime fiscal do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — (Regime fiscal do pessoal)\n\nOs rendimentos do trabalho do pessoal da empresa estão sujeitos a tributação em termos idênticos aos previstos na lei fiscal para os trabalhadores das empresas privadas."
+  },
+  "dc8ce5282b215b72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — (Intervenção dos trabalhadores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — (Intervenção dos trabalhadores)\n\nOs trabalhadores da ENU exercerão, através dos seus órgãos representativos, todos os direitos inerentes ao contrôle de gestão que vierem a ser consagrados na respectiva lei."
+  },
+  "022cd401e804d8c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Regime fiscal da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Regime fiscal da empresa"
+  },
+  "18272ca5eb8373d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — (Regime fiscal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — (Regime fiscal)\n\nA empresa fica sujeita à tributação directa e indirecta, nos termos gerais de direito fiscal."
+  },
+  "0e0c98fb78a64d06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Disposições finais e transitórias"
+  },
+  "7fe7a6932842b35c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — (Revisão do Estatuto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — (Revisão do Estatuto)\n\nO presente Estatuto será revisto, em face do regime do contrôle de gestão pelos trabalhadores que vier a ser consagrado em lei, nos sessenta dias posteriores ao da publicação do referido diploma."
+  },
+  "8f565547fc36f0d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — (Integração da exploração mineira da Junta de Energia Nuclear)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — (Integração da exploração mineira da Junta de Energia Nuclear)\n\no Ministro da Indústria e Tecnologia fica autorizado a tomar todas as providências que se mostrem necessárias para assegurar a execução do presente diploma e, nomeadamente, para pôr em prática o processo de integração na ENU da exploração mineira, incluindo o tratamento de minérios, que tem estado a cargo da Junta de Energia Nuclear.\n\nO Ministro do Plano e Coordenação Económica e da Indústria e Tecnologia, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira."
+  },
+  "9d126876f70a0fab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Regime de exclusividade)",
+   "in_force_from": "1980-05-15",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 120/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1980-473952), publicado em 1980-05-15."
+   ],
+   "markdown": "###### Artigo 5.º — (Regime de exclusividade)\n\n1 - A ENU exercerá as actividades referidas nas alíneas b) e c) do artigo 3.º em regime de exclusivo, ressalvados os direitos constituídos a favor de terceiros até à data de entrada em vigor deste Estatuto.\n\n2 - O exercício de tais actividades poderá, porém, ser autorizado às associações, empresas ou sociedades a que se refere o n.º 2 do artigo 4.º, sempre que tal tenha constituído condição prevista na sua criação, ou em acordo de que tenha resultado a participação da ENU.\n\n> Alterado pelo/a [Decreto-Lei n.º 120/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1980-473952), publicado em 1980-05-15."
+  },
+  "fedc622e7969f8ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — (Dos Ministros das Finanças e do Plano e da Indústria e Energia)",
+   "in_force_from": "1980-05-15",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 120/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1980-473952), publicado em 1980-05-15."
+   ],
+   "markdown": "###### Artigo 34.º — (Dos Ministros das Finanças e do Plano e da Indústria e Energia)\n\nCompete aos Ministros das Finanças e do Plano e da Indústria e Energia:\n\na) Autorizar a realização de empréstimos em moeda nacional, por prazo superior a sete anos, ou em moeda estrangeira, bem como aprovar o plano e demais condições da operação, incluindo as garantias a prestar, sem prejuízo da legislação geral aplicável;\n\nb) Autorizar a emissão de obrigações;\n\nc) Autorizar a aquisição ou alienação de participações no capital de sociedades comerciais, sem prejuízo do disposto no Estatuto do Instituto das Participações do Estado;\n\nd) Aprovar os princípios a que deve obedecer a reavaliação e os respectivos coeficientes e os critérios de amortização e de reintegração dos bens da empresa;\n\ne) Aprovar a criação pela ENU de associações, empresas ou sociedades previstas no n.º 2 do artigo 4.º, sempre que constitua condição dessa criação a possibilidade de ser autorizado a essa associação, empresa ou sociedade o exercício de actividade de exploração de jazigos de urânio ou de estabelecimento e exploração de instalações de recuperação e de tratamento de minérios de urânio, e, bem assim, a participação nessas associações, empresas ou sociedades.\n\n> Alterado pelo/a [Decreto-Lei n.º 120/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1980-473952), publicado em 1980-05-15."
+  }
+ }
+}

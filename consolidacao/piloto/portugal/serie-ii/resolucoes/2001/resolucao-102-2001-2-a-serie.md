@@ -1,0 +1,51 @@
+---
+id: pt:dre:1497165:por
+title: Resolução n.º 102/2001 (2.ª série)
+original: data/portugal/serie-ii/resolucoes/2001/resolucao-102-2001-2-a-serie.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:3654492:por
+    title: Resolução n.º 26/2002 (2.ª série)
+    publication_date: '2002-03-07'
+---
+
+# Resolução n.º 102/2001 (2.ª série)
+
+Resolução n.º 102/2001 (2.ª série). - Portugal ratificou o Tratado de Proibição Total de Ensaios Nucleares e o Protocolo de Proibição Total de Ensaios Nucleares, bem como os respectivos anexos, adoptados pela Resolução da Assembleia Geral das Nações Unidas n.º 50/245, de 9 de Setembro de 1996, aprovados pela [Resolução da Assembleia da República n.º 44/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/44-2000-292297), e ratificados pelo [Decreto do Presidente da República n.º 26/2000](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/26-2000-292296), ambos de 24 de Maio, tendo depositado junto do Secretário-Geral das Nações Unidas, a 26 de Junho de 2000, o respectivo instrumento de ratificação, conforme o [Aviso n.º 194/2000](https://diariodarepublica.pt/dr/detalhe/aviso/194-2000-542810), publicado em 12 de Outubro.
+
+O Tratado entrará em vigor 180 dias após os 44 Estados, identificados no anexo II terem depositado os respectivos instrumentos de ratificação junto do Secretário-Geral das Nações Unidas.
+
+O Tratado prevê a adopção, por parte de cada Estado, de medidas nacionais de aplicação, entre as quais a designação ou criação de uma autoridade nacional. Esta autoridade nacional actuará como Centro Nacional de Coordenação e destina-se a manter a ligação com a organização e com os outros Estados Partes, nos termos do n.º 4 do artigo III do Tratado. Compete ainda à autoridade nacional facilitar a verificação do cumprimento do Tratado, mediante a adopção de medidas várias consagradas nas várias alíneas do n.º 3 do artigo IV.
+
+Considerando que está prevista a instalação, em território português, de três estações integrantes do Sistema Internacional de Vigilância, torna-se necessário criar a autoridade nacional que actuará como Centro Nacional de Coordenação.
+
+As complexas vertentes político-diplomáticas e sectoriais inerentes a este Tratado aconselham a nomeação de um alto funcionário do Ministério dos Negócios Estrangeiros para presidir à autoridade nacional, devendo a sua composição integrar elementos de outros Ministérios.
+
+Foram ouvidos os órgãos de governo próprio da Região Autónoma dos Açores.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Constituir a autoridade nacional do Tratado de Proibição Total de Ensaios Nucleares, de harmonia com o disposto no n.º 4 do artigo III do Tratado, a qual será o órgão de ligação directa com a organização do Tratado de Proibição Total de Ensaios Nucleares e com os Estados Partes para garantir o cumprimento das obrigações decorrentes da ratificação do Tratado:
+
+a) A autoridade nacional será presidida por um alto funcionário do Ministério dos Negócios Estrangeiros e integrará dois representantes do Ministério das Finanças, um do Ministério do Ambiente e do Ordenamento do Território e um do Ministério da Ciência e da Tecnologia, a designar por despacho dos titulares das respectivas pastas, bem como um representante do Governo Regional dos Açores;
+
+> Alterado pelo/a [Resolução n.º 26/2002 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/resolucao/26-2002-3654492), publicado em 2002-03-07.
+
+b) Para além dos representantes ministeriais mencionados na alínea anterior, poderão ainda fazer parte da autoridade nacional, mediante proposta a formular nesse sentido pela mesma, elementos de outros ministérios ou entidades cuja participação venha a ser considerada necessária para a prossecução dos objectivos do Tratado.
+
+2 - Designar presidente da autoridade nacional o ministro plenipotenciário de 1.ª classe Dr. Alberto Maria Gonçalves Vieira Borges, com o estatuto de encarregado de missão junto do Ministério dos Negócios Estrangeiros para as questões do Tratado de Proibição Total de Ensaios Nucleares, equiparado, para efeitos remuneratórios, a subdirector-geral da Administração Pública, nos termos do artigo 37.º da [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho:
+
+a) A missão terá a duração de 12 meses, com efeitos a partir da data da publicação desta resolução;
+
+b) O apoio diplomático e logístico será prestado pela Direcção-Geral dos Assuntos Multilaterais, serviço em que o encarregado de missão ficará funcionalmente enquadrado;
+
+c) O apoio técnico-científico será prestado ao Ministério dos Negócios Estrangeiros pelo Ministério da Ciência e da Tecnologia, designadamente através do Instituto de Meteorologia e do Instituto Tecnológico e Nuclear, os quais deverão igualmente constituir um secretariado de apoio técnico-científico para este efeito.
+
+3 - A presente resolução produz efeitos a partir do dia seguinte ao da sua publicação.
+
+9 de Agosto de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:75222134:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "O n.º 2 do artigo 41.º do Decreto-Lei n.º 63/2017 revoga o Decreto-Lei n.º 59/2016 só com a entrada em vigor dos atos de execução do n.º 2 do artigo 35.º da Diretiva 2014/90/UE (facto futuro), pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, art. 40.º: disposição transitória que mantém o anexo em aplicação; não altera o texto.",
+    "Alterador 1, art. 41.º, n.º 1: revoga outros diplomas (DL 167/99, DL 24/2004, Portaria 381/2000), não o original; ignorado.",
+    "Alterador 1, art. 41.º, n.º 2: revogação do original diferida para a entrada em vigor de atos de execução; não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

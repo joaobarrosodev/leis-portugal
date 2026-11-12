@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º A missão decorrerá entre 6 de Janeiro e, previsivelmente, 10 de Junho de 2003.",
+    "depois": "5.º A missão decorrerá entre 6 de Janeiro de 2003 e, previsivelmente, 23 de Dezembro de 2005.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:822595:por",
+    "alterador": "pt:dre:3117671:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 33-33",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Vasco Cordeiro, Secretário Regional da Presidência da Região Autónoma dos Açores;",
+    "depois": "Rodrigo Vasconcelos de Oliveira, Sub-Secretário Regional dos Assuntos Europeus e Cooperação Externa da Região Autónoma dos Açores;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2025137:por",
+    "alterador": "pt:dre:3681578:por"
+  }
+]

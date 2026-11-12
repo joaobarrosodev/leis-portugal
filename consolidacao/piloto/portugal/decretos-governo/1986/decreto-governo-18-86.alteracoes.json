@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 173-173",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 12.º - 1 - Os veículos matriculados no território de qualquer das Partes Contratantes estão isentos das taxas e dos encargos que incidam sobre a exploração ou posse de veículos a motor no território da outra Parte Contratante.",
+    "depois": "Art. 12.º - 1 - Os veículos matriculados no território de qualquer das Partes Contratantes estão isentos dos impostos e das taxas que incidam sobre a exploração ou posse dos veículos a motor no território da outra Parte Contratante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:221506:por",
+    "alterador": "pt:dre:667946:por"
+  },
+  {
+    "artigo": "unidades 174-174",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - A isenção referida no n.º 1 não abrangerá as taxas ou encargos sobre consumo de combustíveis nem as portagens (encargos especiais pela utilização de pontes, túneis, batelões ou troços de estrada específicos).",
+    "depois": "2 - A isenção referida no n.º 1 não abrangerá os impostos ou as taxas sobre consumo de combustíveis nem as portagens (encargos especiais pela utilização de pontes, túneis, batelões ou troços de estrada específicos).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:221506:por",
+    "alterador": "pt:dre:667946:por"
+  }
+]

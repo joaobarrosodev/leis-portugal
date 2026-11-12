@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Reconhecer o interesse público da cessão, em virtude de o imóvel se destinar à instalação das escolas do ensino pré-escolar e do 1.º ciclo do ensino básico.",
+    "depois": "2 - Reconhecer o interesse público da cessão, em virtude de o imóvel se destinar à educação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2182130:por",
+    "alterador": "pt:dre:1651030:por"
+  },
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - Esta cessão fica sujeita à cláusula de reversão, nos termos do artigo 2.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a qual terá de ser registada na CRP, como ónus, devendo ao imóvel ser conferido o destino que fundamenta a cessão no prazo máximo de dois anos.",
+    "depois": "4 - A presente cessão fica sujeita à clausula de reversão, nos termos do artigo 2.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a qual terá de ser registada na conservatória do registo predial, como ónus, devendo ao imóvel ser conferido o destino que fundamenta a cessão no prazo máximo de três anos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2182130:por",
+    "alterador": "pt:dre:1651030:por"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:221506:por",
+  "substituicoes": [
+    {
+      "de": 173,
+      "ate": 173,
+      "texto": "Art. 12.º - 1 - Os veículos matriculados no território de qualquer das Partes Contratantes estão isentos dos impostos e das taxas que incidam sobre a exploração ou posse dos veículos a motor no território da outra Parte Contratante.",
+      "alterador": 1
+    },
+    {
+      "de": 174,
+      "ate": 174,
+      "texto": "2 - A isenção referida no n.º 1 não abrangerá os impostos ou as taxas sobre consumo de combustíveis nem as portagens (encargos especiais pela utilização de pontes, túneis, batelões ou troços de estrada específicos).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Decreto 45/91, n.º 1: retifica a versão portuguesa do n.º 1 do art. 12.º -> substituída a unidade 173 (mantido o prefixo 'Art. 12.º - 1 - ')",
+    "Decreto 45/91, n.º 2: retifica a versão portuguesa do n.º 2 do art. 12.º -> substituída a unidade 174 (mantido o prefixo '2 - ')"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

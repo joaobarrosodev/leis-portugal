@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 36-36",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1979 ... 500",
+    "depois": "1979 ... 250",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180847:por",
+    "alterador": "pt:dre:381314:por"
+  }
+]

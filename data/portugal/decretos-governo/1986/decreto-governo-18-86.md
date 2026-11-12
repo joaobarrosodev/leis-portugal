@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-07-11'
+version_history:
+  file: decreto-governo-18-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-12-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-07-11'
+    amending: pt:dre:667946:por
+    amending_title: Decreto n.º 45/91
+    changes:
+    - Altera Artigo unidades 173-173
+    - Altera Artigo unidades 174-174
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:29:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 45/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-governo/1986/decreto-governo-18-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -442,9 +458,13 @@ Art. 11.º - 1 - Se o peso, as dimensões ou o peso por eixo do veículo exceder
 
 2 - Quando uma tal autorização estipular que o veículo deve utilizar um percurso específico, os transportes serão apenas permitidos nesse percurso.
 
-Art. 12.º - 1 - Os veículos matriculados no território de qualquer das Partes Contratantes estão isentos das taxas e dos encargos que incidam sobre a exploração ou posse de veículos a motor no território da outra Parte Contratante.
+Art. 12.º - 1 - Os veículos matriculados no território de qualquer das Partes Contratantes estão isentos dos impostos e das taxas que incidam sobre a exploração ou posse dos veículos a motor no território da outra Parte Contratante.
 
-2 - A isenção referida no n.º 1 não abrangerá as taxas ou encargos sobre consumo de combustíveis nem as portagens (encargos especiais pela utilização de pontes, túneis, batelões ou troços de estrada específicos).
+> Alterado pelo/a [Decreto n.º 45/91](https://diariodarepublica.pt/dr/detalhe/decreto/45-1991-667946), publicado em 1991-07-06.
+
+2 - A isenção referida no n.º 1 não abrangerá os impostos ou as taxas sobre consumo de combustíveis nem as portagens (encargos especiais pela utilização de pontes, túneis, batelões ou troços de estrada específicos).
+
+> Alterado pelo/a [Decreto n.º 45/91](https://diariodarepublica.pt/dr/detalhe/decreto/45-1991-667946), publicado em 1991-07-06.
 
 3 - A isenção referida no n.º 1 não abrangerá nem a taxa de transporte rodoviário (Strassenverkersbeitrag) cobrada nos termos da lei austríaca nem os impostos sobre as linhas regulares de transporte rodoviário de passageiros cobrados nos termos da lei portuguesa.
 

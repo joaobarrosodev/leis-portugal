@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:1752221:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "3.º A equipa de apoio à formação do exército afegão referida no n.º 1.º, alínea b), é constituída por 20 elementos do Exército.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 175/2010: nova redação do n.º 3.º (16 -> 20 elementos do Exército); substituída a unidade 15."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

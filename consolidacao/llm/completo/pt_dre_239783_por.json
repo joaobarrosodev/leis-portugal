@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:239783:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "O Alterador 1 (Aviso n.º 9017/2014) vem sem texto nenhum no pedido, pelo que não há instrução dirigida ao original que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Aviso n.º 9017/2014): texto vazio no pedido; nenhuma alteração aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

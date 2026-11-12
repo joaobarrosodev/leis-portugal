@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:462404:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-05-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "28691d23e2f6bce2"
+   ]
+  },
+  {
+   "date": "1980-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:462656:por",
+     "title": "Aviso",
+     "published": "1980-10-23",
+     "dre_path": "/dr/detalhe/aviso/1980-462656"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-4"
+   ],
+   "fragments": [
+    "081434ef0d974114"
+   ]
+  }
+ ],
+ "fragments": {
+  "28691d23e2f6bce2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A necessidade de reforço da selectividade da política de crédito através do esquema de bonificações às taxas de juro dos financiamentos concedidos a entidades cuja actividade seja desenvolvida em sectores considerados prioritários justifica que o Banco de Portugal, sob a orientação do Ministro das Finanças e do Plano, no uso da competência que lhe é atribuída pelos artigos 16.º e 26.º da sua Lei Orgânica e em regulamentação do estatuído no artigo 28.º, alínea b), dessa mesma Lei Orgânica, determine o seguinte:\n\n1.º Nas operações de crédito de campanha expressamente indicadas pelo Banco de Portugal, realizadas a favor de entidades cuja actividade económica principal respeite aos sectores de agricultura, silvicultura, pecuária ou pesca - incluindo as operações de crédito agrícola de emergência -, as instituições de crédito não poderão cobrar juros a taxas superiores às estabelecidas no n.º 4.º do Aviso n.º 2/78, de 6 de Maio, deduzidas da bonificação de 6,5%.\n\n2.º O Banco de Portugal atribuirá às instituições de crédito intervenientes, mediante a apresentação de documentos comprovativos das operações, a compensação correspondente às bonificações de juros processadas nos termos do presente aviso.\n\n3.º O disposto nesta determinação do Banco de Portugal entra em vigor em 8 de Maio de 1978.\n\n4.º Nas operações de financiamento correspondentes aos créditos de exportadores nacionais sobre os seus clientes estrangeiros será aplicável o seguinte regime:\n\na) Nos financiamentos a curto prazo não há lugar a qualquer dedução às taxas de juro estabelecidas no n.º 4.º do Aviso n.º 2/78, de 6 de Maio;\n\nb) Nos financiamentos a médio ou longo prazo deve ser observado o disposto no Estatuto do Fundo de Garantia de Riscos Cambiais, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 418/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1977-278718), de 3 de Outubro.\n\n5.º O Banco de Portugal atribuirá às instituições de crédito intervenientes, mediante a apresentação de documentos comprovativos das operações, a compensação correspondente às bonificações de juros processadas nos termos do presente aviso.\n\n6.º Fica revogado o Aviso n.º 1 do Banco de Portugal, de 13 de Janeiro de 1978.\n\n7.º O disposto nesta determinação do Banco de Portugal entra em vigor em 8 de Maio de 1978.\n\nMinistério das Finanças e do Plano, 6 de Maio de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio."
+  },
+  "081434ef0d974114": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1980-10-23",
+   "changed_by": [
+    "Alterado pelo/a [Aviso](https://diariodarepublica.pt/dr/detalhe/aviso/1980-462656), publicado em 1980-10-23."
+   ],
+   "markdown": "A necessidade de reforço da selectividade da política de crédito através do esquema de bonificações às taxas de juro dos financiamentos concedidos a entidades cuja actividade seja desenvolvida em sectores considerados prioritários justifica que o Banco de Portugal, sob a orientação do Ministro das Finanças e do Plano, no uso da competência que lhe é atribuída pelos artigos 16.º e 26.º da sua Lei Orgânica e em regulamentação do estatuído no artigo 28.º, alínea b), dessa mesma Lei Orgânica, determine o seguinte:\n\n1.º Nas operações de crédito de campanha, produção, armazenagem e tesouraria, expressamente indicadas pelo Banco de Portugal ou pelo IFADAP, realizadas a favor de entidades cuja actividade económica principal respeite aos sectores de agricultura, silvicultura, pecuária e pesca, associada ou não à transformação dos produtos, as instituições de crédito não poderão cobrar juros a taxas superiores às fixadas no n.º 4 do Aviso n.º 2/78, de 6 de Maio, deduzidas de uma taxa de bonificação compreendida entre 6,5% e 7,5%.\n\n2.º O Banco de Portugal ou o IFADAP estabelecerão por circular, que divulgarão através do sistema bancário, as taxas de bonificação de que beneficiem as operações de financiamento nos termos do presente aviso se e na medida em que obedeçam aos critérios definidos na mesma circular.\n\n> Alterado pelo/a [Aviso](https://diariodarepublica.pt/dr/detalhe/aviso/1980-462656), publicado em 1980-10-23.\n\n3.º O disposto nesta determinação do Banco de Portugal entra em vigor em 8 de Maio de 1978.\n\n4.º Nas operações de financiamento correspondentes aos créditos de exportadores nacionais sobre os seus clientes estrangeiros será aplicável o seguinte regime:\n\na) Nos financiamentos a curto prazo não há lugar a qualquer dedução às taxas de juro estabelecidas no n.º 4.º do Aviso n.º 2/78, de 6 de Maio;\n\nb) Nos financiamentos a médio ou longo prazo deve ser observado o disposto no Estatuto do Fundo de Garantia de Riscos Cambiais, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 418/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1977-278718), de 3 de Outubro.\n\n5.º O Banco de Portugal atribuirá às instituições de crédito intervenientes, mediante a apresentação de documentos comprovativos das operações, a compensação correspondente às bonificações de juros processadas nos termos do presente aviso.\n\n6.º Fica revogado o Aviso n.º 1 do Banco de Portugal, de 13 de Janeiro de 1978.\n\n7.º O disposto nesta determinação do Banco de Portugal entra em vigor em 8 de Maio de 1978.\n\nMinistério das Finanças e do Plano, 6 de Maio de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio."
+  }
+ }
+}

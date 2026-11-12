@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:1497165:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "a) A autoridade nacional será presidida por um alto funcionário do Ministério dos Negócios Estrangeiros e integrará dois representantes do Ministério das Finanças, um do Ministério do Ambiente e do Ordenamento do Território e um do Ministério da Ciência e da Tecnologia, a designar por despacho dos titulares das respectivas pastas, bem como um representante do Governo Regional dos Açores;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Resolução 65/2003) prorroga a nomeação do presidente e fixa o termo da missão por disposição autónoma, sem alterar o texto do original (alteração não textual).",
+  "instrucoes": [
+    "Alterador 1 (Resolução 26/2002): nova redação da alínea a) do n.º 1 ('1 - [...]' mantém o proémio); substituída a unidade 11.",
+    "Alterador 2 (Resolução 65/2003): prorrogação da nomeação e termo da missão, sem instrução textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

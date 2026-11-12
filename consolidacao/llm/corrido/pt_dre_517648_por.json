@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:517648:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos nas freguesias de Silves, Armação de Pêra, Alcantarilha, Pêra, Algoz e Tunes, município de Silves, com a área de 8422 ha, e nas freguesias de Porches e Lagoa, município de Lagoa, com a área de 1278 ha, ficando a mesma com a área total de 9700 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 531/2008): renova a zona de caça e anexa prédios, sem alterar o texto da Portaria n.º 191/2007 -> nada a fazer.",
+    "Alterador 2 (Portaria n.º 559/2008): nova redação do n.º 2.º da Portaria n.º 191/2007 -> substituída a unidade 10 (mantida a numeração 2.º); nota: o conteúdo novo parece pensado para o n.º 2.º da Portaria n.º 1026/2002, mas a instrução nomeia expressamente a 191/2007.",
+    "Alterador 3 (Portaria n.º 1339/2009): exclusão de um prédio por artigo único, sem alteração textual do original -> nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

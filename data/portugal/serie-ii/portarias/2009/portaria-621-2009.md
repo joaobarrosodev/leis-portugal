@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-03-10'
+version_history:
+  file: portaria-621-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-06-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-03-10'
+    amending: pt:dre:3054339:por
+    amending_title: Portaria n.º 175/2010
+    changes:
+    - Altera Artigo unidades 15-15
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:21:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 175/2010. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2009/portaria-621-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,7 +152,9 @@ d) Uma equipa de saúde militar para integrar a estrutura hospitalar do KAIA - A
 
 2.º A equipa de apoio à formação do exército afegão referida no n.º 1.º, alínea a), é constituída por 11 elementos dos três ramos das Forças Armadas.
 
-3.º A equipa de apoio à formação do exército afegão referida no n.º 1.º, alínea b), é constituída por 16 elementos do Exército.
+3.º A equipa de apoio à formação do exército afegão referida no n.º 1.º, alínea b), é constituída por 20 elementos do Exército.
+
+> Alterado pelo/a [Portaria n.º 175/2010](https://diariodarepublica.pt/dr/detalhe/portaria/175-2010-3054339), publicado em 2010-03-10.
 
 4.º O módulo de apoio referido no n.º 1.º, alínea c), é constituído por 56 elementos dos três ramos das Forças Armadas, sendo 16 de apoio logístico-administrativo e 40 de segurança/protecção da força.
 

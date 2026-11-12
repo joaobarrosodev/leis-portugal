@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:579531:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O artigo 1.º da Portaria n.º 317/2019 muda a denominação do curso sem alterar o texto da portaria (alteração não textual), e o artigo 2.º substitui o plano de estudos anexo, que só vem em imagem (quadros), pelo que nada foi aplicado.",
+  "instrucoes": [
+    "Alt. 1, art. 1.º: nova denominação do curso (Enfermagem de Saúde Infantil e Pediátrica) sem instrução de alteração do texto; não aplicada.",
+    "Alt. 1, art. 2.º: novo plano de estudos (anexo em imagem); não aplicado.",
+    "Alt. 1, arts. 3.º e 4.º: transição e aplicação, normas próprias; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

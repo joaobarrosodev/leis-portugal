@@ -1,0 +1,59 @@
+---
+id: pt:dre:1752221:por
+title: Portaria n.º 621/2009
+original: data/portugal/serie-ii/portarias/2009/portaria-621-2009.md
+consolidacao:
+  metodo: 'piloto da fase 2 (consolidacao/llm_corrido.py: texto corrido por unidades,
+    pelo LLM), sem valor oficial'
+  estado: por verificar às cegas
+  alteracoes_aplicadas:
+  - id: pt:dre:3054339:por
+    title: Portaria n.º 175/2010
+    publication_date: '2010-03-10'
+---
+
+# Portaria n.º 621/2009
+
+Portugal, como membro da Organização do Tratado do Atlântico Norte (OTAN), participa, desde Março de 2008, com uma equipa de apoio à formação do exército afegão, na ISAF - International Security Assistance Force, sob comando da OTAN.
+
+Constituindo o apoio logístico e administrativo de todas as forças a operar no Teatro de Operações do Afeganistão responsabilidade nacional, a portaria n.º 191/2009, de 22 de Janeiro, publicada no Diário da República, 2.ª série, n.º 28, de 10 de Fevereiro de 2009, contempla um módulo de apoio constituído por 19 elementos.
+
+Face à necessidade de reformular a composição do contingente nacional ao serviço da ISAF, de forma a adequá-lo às novas exigências operacionais e aos compromissos assumidos e considerando ainda o parecer favorável do Conselho Superior de Defesa Nacional de 4 de Dezembro de 2008, torna-se necessário alterar a portaria n.º 640/2008, de 1 de Abril, publicada no Diário da República, 2.ª série, n.º 134, de 14 de Julho de 2008, na redacção dada pela portaria n.º 191/2009, de 22 de Janeiro.
+
+A Assembleia da República é informada nos termos do artigo 3.º da [Lei n.º 46/2003](https://diariodarepublica.pt/dr/detalhe/lei/46-2003-656130), de 22 de Agosto.
+
+Assim:
+
+Ao abrigo do disposto nos artigos 41.º, n.º 1, e 44.º, n.os 1 e 2, alínea d), da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, e nos termos do artigo 2.º, n.º 1, do [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de Dezembro:
+
+Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
+
+1.º É autorizado o Chefe do Estado-Maior-General das Forças Armadas a aprontar, sustentar e empregar:
+
+a) Uma equipa de apoio à formação do exército afegão, de natureza administrativo-logística, para integrar a ISAF, sob o comando da OTAN;
+
+b) Uma equipa de apoio à formação do exército afegão, na área das técnicas e procedimentos de estado-maior com vista ao emprego operacional, para integrar a ISAF, sob o comando da OTAN;
+
+c) Um módulo de apoio que garanta a sustentação e a protecção às Forças Nacionais Destacadas atribuídas à ISAF, e, quando necessário, a outros militares nacionais em missão no Teatro de Operações do Afeganistão;
+
+d) Uma equipa de saúde militar para integrar a estrutura hospitalar do KAIA - Afeganistão, liderada pela França e sob comando da OTAN.
+
+2.º A equipa de apoio à formação do exército afegão referida no n.º 1.º, alínea a), é constituída por 11 elementos dos três ramos das Forças Armadas.
+
+3.º A equipa de apoio à formação do exército afegão referida no n.º 1.º, alínea b), é constituída por 20 elementos do Exército.
+
+> Alterado pelo/a [Portaria n.º 175/2010](https://diariodarepublica.pt/dr/detalhe/portaria/175-2010-3054339), publicado em 2010-03-10.
+
+4.º O módulo de apoio referido no n.º 1.º, alínea c), é constituído por 56 elementos dos três ramos das Forças Armadas, sendo 16 de apoio logístico-administrativo e 40 de segurança/protecção da força.
+
+5.º A equipa de saúde militar referida no n.º 1.º, alínea d), é constituída por 16 elementos dos três ramos das Forças Armadas, incluindo 15 elementos especialistas e 1 elemento para comandante de destacamento, com funções que incluem coordenação e ligação à ISAF e às autoridades afegãs.
+
+6.º A duração das missões referidas nas alíneas a) a c) do n.º 1.º é de seis meses, com início em Março de 2009, prorrogável por iguais períodos, enquanto se mantiverem as condições que deram origem às mesmas.
+
+7.º A duração da missão referida na alínea d) do n.º 1.º é de um ano, com início em Julho de 2009, subdividido por períodos de quatro meses.
+
+8.º De acordo com o disposto no n.º 5.º da portaria n.º 87/99, de 30 de Dezembro de 1998, publicada no Diário da República, 2.ª série, n.º 23, de 28 de Janeiro de 1999, os militares que integram os contingentes nacionais desempenham funções em países de classe C.
+
+27 de Abril de 2009. - O Ministro da Defesa Nacional, Henrique Nuno Pires Severiano Teixeira.
+
+201917184

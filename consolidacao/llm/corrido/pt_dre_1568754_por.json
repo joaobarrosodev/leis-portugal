@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:1568754:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º A referida equipa é constituída por 29 elementos dos três ramos das Forças Armadas, dos quais 10 são assessores e 19 integram o módulo de apoio.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 191/2009): nova redação do n.º 2.º; substituída a unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

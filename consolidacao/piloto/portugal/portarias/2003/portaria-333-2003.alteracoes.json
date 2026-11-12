@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 28-35",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Escola Superior de Enfermagem de Viseu\n\nCurso de pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstetrícia\n\nQUADRO N.º 1\n\n1.º ano\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/096b00/26752676.pdf)](https://files.diariodarepublica.pt/1s/2003/04/096b00/26752676.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/096b00/26752676.pdf)](https://files.diariodarepublica.pt/1s/2003/04/096b00/26752676.pdf)",
+    "depois": "## ANEXO — Instituto Politécnico de Viseu\n\nEscola Superior de Saúde de Viseu\n\nCurso de pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica\n\nQUADRO N.º 1\n\n1.º Semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/17900/0004700048.pdf)\n\nQUADRO N.º 2\n\n2.º Semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/17900/0004700048.pdf)\n\nQUADRO N.º 3\n\n2.º Ano\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/17900/0004700048.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:240783:por",
+    "alterador": "pt:dre:124793103:por"
+  }
+]

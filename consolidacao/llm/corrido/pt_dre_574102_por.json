@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:574102:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "d) (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "3.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A revogação do n.º 7.º, alínea a), da Portaria n.º 220/2007 abrange também a parte dos planos de estudos anexos relativa ao curso de instrumentista de cordas, mas o anexo só existe em imagem, pelo que não foi alterado.",
+  "instrucoes": [
+    "Alt. 1, n.os 5.º e 7.º a): extingue o curso profissional de Instrumentista de Cordas e revoga a Portaria 714/90 na parte que lhe respeita; alínea d) do 1.º e ponto 3.º (que só respeita a esse curso) marcados como revogados; alínea b) (curso básico) mantida; anexo em imagem não tocado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

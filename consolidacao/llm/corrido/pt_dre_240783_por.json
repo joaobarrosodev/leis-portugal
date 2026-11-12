@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:240783:por",
+  "substituicoes": [
+    {
+      "de": 28,
+      "ate": 35,
+      "texto": "## ANEXO — Instituto Politécnico de Viseu\n\nEscola Superior de Saúde de Viseu\n\nCurso de pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica\n\nQUADRO N.º 1\n\n1.º Semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/17900/0004700048.pdf)\n\nQUADRO N.º 2\n\n2.º Semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/17900/0004700048.pdf)\n\nQUADRO N.º 3\n\n2.º Ano\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/17900/0004700048.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Art. 1.º da Portaria 314/2019 (mudança de denominação do curso para 'Saúde Materna e Obstétrica') não é uma alteração textual de nenhum ponto do original, pelo que o ponto 1.º não foi reescrito; os quadros do novo plano de estudos só existem em imagem (PDF), transcreveu-se apenas a estrutura e as ligações do novo anexo.",
+  "instrucoes": [
+    "Art. 1.º: altera a denominação do curso (não textual) -> não aplicado ao ponto 1.º, indicado em nao_aplicavel",
+    "Art. 2.º: plano de estudos passa a ter a redação do anexo -> substituído o anexo (unidades 28 a 35) pelo anexo da Portaria 314/2019 (quadros só em imagem, com ligação)",
+    "Art. 3.º e 4.º: transição e aplicação, normas próprias do alterador -> nada a fazer"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:2380227:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 9,
+      "texto": "2.º Os encargos resultantes do contrato não poderão, em cada ano económico, exceder as seguintes importâncias, às quais acrescerá o IVA à taxa legal aplicável e que vigorar:\n\nAno de 2001 - 1 000 000$ (Euro 4987,98);\n\nAno de 2002 - Euro 244 410,97;\n\nAno de 2003 - Euro 114 723,52.\n\n3.º A importância fixada para o ano económico de 2003 poderá ser acrescida do saldo apurado no ano anterior.\n\n4.º Os encargos emergentes da presente portaria serão satisfeitos pelas adequadas verbas inscritas no orçamento para 2003 do INFARMED.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 906/2003: nova redação dos n.os 2.º a 4.º -> substituídas as unidades 5 a 9 pelo novo texto (2.º com três anos, 3.º e 4.º)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:822595:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "5.º A missão decorrerá entre 6 de Janeiro de 2003 e, previsivelmente, 23 de Dezembro de 2005.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 1406/2003): nova redação do n.º 5.º (até 31 de Dezembro de 2003); substituída depois pelos alteradores 2 e 3.",
+    "Alterador 2 (Portaria 248/2004): nova redação do n.º 5.º (até 31 de Dezembro de 2004); substituída depois pelo alterador 3.",
+    "Alterador 3 (Portaria 813/2005): nova redação do n.º 5.º (até 23 de Dezembro de 2005); unidade 10 substituída pela redação final."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

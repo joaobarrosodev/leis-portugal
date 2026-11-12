@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:566029:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 2 do artigo 18.º do Decreto-Lei 105/2003 revoga a Portaria 1105/90 por inteiro (com efeitos a partir da entrada em vigor das portarias de regulamentação desse decreto-lei), pelo que não há alterações de texto a devolver.",
+  "instrucoes": [
+    "Art. 18.º, n.º 2, do DL 105/2003 revoga a Portaria 1105/90 na totalidade (efeitos diferidos à entrada em vigor das portarias de regulamentação): revogação total, sinalizada em nao_aplicavel, nada devolvido.",
+    "Restantes disposições do DL 105/2003 (incl. revogação do DL 350/90 e alterações do DL 9/2021) não se dirigem ao texto da portaria: ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-02-10'
+version_history:
+  file: portaria-640-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-02-10'
+    amending: pt:dre:2907511:por
+    amending_title: Portaria n.º 191/2009
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:14:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 191/2009. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2008/portaria-640-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,7 +135,9 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 1.º É autorizado o Chefe do Estado-Maior-General das Forças Armadas a aprontar, sustentar e empregar uma equipa de apoio à formação do exército afegão para integrar a ISAF, sob o comando da NATO.
 
-2.º A referida equipa é constituída por 12 elementos dos três ramos das Forças Armadas.
+2.º A referida equipa é constituída por 29 elementos dos três ramos das Forças Armadas, dos quais 10 são assessores e 19 integram o módulo de apoio.
+
+> Alterado pelo/a [Portaria n.º 191/2009](https://diariodarepublica.pt/dr/detalhe/portaria/191-2009-2907511), publicado em 2009-02-10.
 
 3.º A duração da missão é de seis meses, com início em Março de 2008, prorrogável por iguais períodos enquanto se mantiver a condição que deu origem à mesma.
 

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:431259:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 5,
+      "texto": "Artigo 1.º - 1 - Fica autorizado o Departamento do Exército a contrair na Caixa Geral de Depósitos um empréstimo até ao montante de 50000 contos, utilizável pelo período de um ano, destinado a habitações em zonas de aquartelamento militares.\n\n2 - Este empréstimo será amortizado em quinze anos, correspondendo a trinta prestações semestrais iguais de capital e juros, e vencerá o juro anual de 9,25%, que poderá ser alterado dentro dos limites legais em vigor na data da alteração.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 430/79, artigo único): nova redação dos n.os 1 e 2 do artigo 1.º — substituídas as unidades 4-5."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

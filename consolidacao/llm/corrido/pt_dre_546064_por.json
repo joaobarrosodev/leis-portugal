@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:546064:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de seis anos, renovável automaticamente por um período igual, a Manuel José Bilro Letras da Luz, com o número de pessoa colectiva 182648249, com sede no Monte da Várzea, 7200-178 Monsaraz, a zona de caça turística da Herdade de Santo Amador e outras (processo n.º 4510-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de Campo, município de Reguengos de Monsaraz, com a área de 449 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 39/2010 dá nova redação ao n.º 1.º (nome da concessionária corrigido): substituída a unidade 6 pelo texto do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

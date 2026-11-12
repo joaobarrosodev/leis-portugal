@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:251588:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "(Regime de exclusividade)",
+      "texto": "1 - A ENU exercerá as actividades referidas nas alíneas b) e c) do artigo 3.º em regime de exclusivo, ressalvados os direitos constituídos a favor de terceiros até à data de entrada em vigor deste Estatuto.\n\n2 - O exercício de tais actividades poderá, porém, ser autorizado às associações, empresas ou sociedades a que se refere o n.º 2 do artigo 4.º, sempre que tal tenha constituído condição prevista na sua criação, ou em acordo de que tenha resultado a participação da ENU.",
+      "alterador": 1
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "(Dos Ministros das Finanças e do Plano e da Indústria e Energia)",
+      "texto": "Compete aos Ministros das Finanças e do Plano e da Indústria e Energia:\n\na) Autorizar a realização de empréstimos em moeda nacional, por prazo superior a sete anos, ou em moeda estrangeira, bem como aprovar o plano e demais condições da operação, incluindo as garantias a prestar, sem prejuízo da legislação geral aplicável;\n\nb) Autorizar a emissão de obrigações;\n\nc) Autorizar a aquisição ou alienação de participações no capital de sociedades comerciais, sem prejuízo do disposto no Estatuto do Instituto das Participações do Estado;\n\nd) Aprovar os princípios a que deve obedecer a reavaliação e os respectivos coeficientes e os critérios de amortização e de reintegração dos bens da empresa;\n\ne) Aprovar a criação pela ENU de associações, empresas ou sociedades previstas no n.º 2 do artigo 4.º, sempre que constitua condição dessa criação a possibilidade de ser autorizado a essa associação, empresa ou sociedade o exercício de actividade de exploração de jazigos de urânio ou de estabelecimento e exploração de instalações de recuperação e de tratamento de minérios de urânio, e, bem assim, a participação nessas associações, empresas ou sociedades.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "O Alterador 2 (Decreto-Lei n.º 376/90) transforma a ENU em sociedade anónima e aprova novos estatutos, mas não contém nenhuma instrução textual que altere, revogue ou substitua artigos do Estatuto original; a substituição implícita do Estatuto não é uma alteração textual e não foi aplicada.",
+  "instrucoes": [
+    "Alterador 1, artigo único: nova redacção do artigo 5.º (passa a ter n.os 1 e 2) — aplicado.",
+    "Alterador 1, artigo único: nova redacção do artigo 34.º (nova epígrafe e alínea e) aditada) — aplicado.",
+    "Alterador 2: transformação em S. A. e aprovação de novos estatutos, sem instrução textual dirigida aos artigos do original — não aplicado (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

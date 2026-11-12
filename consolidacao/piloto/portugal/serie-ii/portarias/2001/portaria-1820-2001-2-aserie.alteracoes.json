@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Os encargos resultantes do contrato não poderão, em cada ano económico, exceder as seguintes importâncias, às quais acrescerá IVA à taxa legal aplicável e que vigorar:\n\nAno de 2001 - 50 000 000$00 (Euro 249 398,95);\n\nAno de 2002 - Euro 114 723,52.\n\n3.º A importância fixada para o ano económico de 2002 poderá ser acrescida do saldo apurado no ano anterior.\n\n4.º Os encargos emergentes da presente portaria serão satisfeitos pelas adequadas verbas inscritas e a inscrever no orçamento do Instituto Nacional da Farmácia e do Medicamento.",
+    "depois": "2.º Os encargos resultantes do contrato não poderão, em cada ano económico, exceder as seguintes importâncias, às quais acrescerá o IVA à taxa legal aplicável e que vigorar:\n\nAno de 2001 - 1 000 000$ (Euro 4987,98);\n\nAno de 2002 - Euro 244 410,97;\n\nAno de 2003 - Euro 114 723,52.\n\n3.º A importância fixada para o ano económico de 2003 poderá ser acrescida do saldo apurado no ano anterior.\n\n4.º Os encargos emergentes da presente portaria serão satisfeitos pelas adequadas verbas inscritas no orçamento para 2003 do INFARMED.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2380227:por",
+    "alterador": "pt:dre:2647663:por"
+  }
+]

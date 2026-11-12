@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:2105747:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 18,
+      "texto": "1.º É criada uma zona de pesca profissional na lagoa de Santo André com os seguintes limites, conforme carta que constitui o anexo i à presente portaria:\n\nPela poligonal de coordenadas rectangulares:\n\n1 - M = 142875.00 P = 126732.50;\n\n2 - M = 142875.00 P = 126035.00;\n\n3 - M = 141725.00 P = 125504.00;\n\n4 - M = 142566.00 P = 125407.00;\n\n5 - M = 142272.00 P = 125221.00;\n\n6 - M = 142344.00 P = 125827.00;\n\n7 - M = 142000.00 P = 126000.00;\n\n8 - M = 141678.00 P = 126062.00;\n\n9 - M = 141315.00 P = 126250.00;\n\n10 - M = 141509.00 P = 126737.00;\n\n11 - M = 141583.00 P = 126947.00;\n\n12 - M = 141638.00 P = 127159.00;\n\n13 - M = 141724.00 P = 127575.00;\n\n14 - M = 142216.00 P = 127099.00;\n\n15 - M = 142435.00 P = 126945.00.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A nova carta do anexo I publicada com a Portaria n.º 1046/2008 só existe em imagem (PDF); não foi substituída no texto.",
+  "instrucoes": [
+    "Alterador 1: nova redação do ponto 1.º (limites da zona de pesca, poligonal de 15 vértices): unidades 6 a 18 substituídas pelo texto novo.",
+    "Alterador 1: anexo I (carta) só em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

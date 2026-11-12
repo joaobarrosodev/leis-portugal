@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:431259:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1976-06-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ca71b926346b2186"
+   ]
+  },
+  {
+   "date": "1979-10-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:364289:por",
+     "title": "Decreto-Lei n.º 430/79",
+     "published": "1979-10-25",
+     "dre_path": "/dr/detalhe/decreto-lei/430-1979-364289"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 4-5"
+   ],
+   "fragments": [
+    "825add10e8935ddd"
+   ]
+  }
+ ],
+ "fragments": {
+  "ca71b926346b2186": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Junho\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º - 1. Fica autorizado o Departamento do Exército a contrair na Caixa Geral de Depósitos um empréstimo até ao montante de 50000 contos, utilizável pelo período de um ano, destinado a instalações em zonas de aquartelamentos militares.\n\n2. Este empréstimo será amortizado em quinze anos, correspondendo a trinta prestações semestrais iguais de capital e juros, e vencerá o juro anual de 9,25%\n\n3. No Orçamento Geral do Estado, na divisão consignada à dívida pública, serão anualmente inscritas as dotações necessárias para a liquidação do empréstimo.\n\nArt. 2.º Pelo Departamento do Exército outorgará no contrato de empréstimo o quartel-mestre-general.\n\nArt. 3.º As construções referidas na parte final do n.º 1 do artigo 1.º serão accionadas pela Direcção do Serviço de Fortificações e Obras Militares, devendo para esse efeito ser inscritas no orçamento do Departamento do Exército as verbas necessárias com cobertura no referido empréstimo.\n\nJosé Baptista Pinheiro de Azevedo - Artur Eduardo Brochado dos Santos Silva.\n\nPromulgado em 19 de Junho de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "825add10e8935ddd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1979-10-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 430/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1979-364289), publicado em 1979-10-25."
+   ],
+   "markdown": "de 29 de Junho\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º - 1 - Fica autorizado o Departamento do Exército a contrair na Caixa Geral de Depósitos um empréstimo até ao montante de 50000 contos, utilizável pelo período de um ano, destinado a habitações em zonas de aquartelamento militares.\n\n2 - Este empréstimo será amortizado em quinze anos, correspondendo a trinta prestações semestrais iguais de capital e juros, e vencerá o juro anual de 9,25%, que poderá ser alterado dentro dos limites legais em vigor na data da alteração.\n\n> Alterado pelo/a [Decreto-Lei n.º 430/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1979-364289), publicado em 1979-10-25.\n\n3. No Orçamento Geral do Estado, na divisão consignada à dívida pública, serão anualmente inscritas as dotações necessárias para a liquidação do empréstimo.\n\nArt. 2.º Pelo Departamento do Exército outorgará no contrato de empréstimo o quartel-mestre-general.\n\nArt. 3.º As construções referidas na parte final do n.º 1 do artigo 1.º serão accionadas pela Direcção do Serviço de Fortificações e Obras Militares, devendo para esse efeito ser inscritas no orçamento do Departamento do Exército as verbas necessárias com cobertura no referido empréstimo.\n\nJosé Baptista Pinheiro de Azevedo - Artur Eduardo Brochado dos Santos Silva.\n\nPromulgado em 19 de Junho de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}

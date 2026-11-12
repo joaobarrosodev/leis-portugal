@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-10-23'
+version_history:
+  file: aviso-5.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-05-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-10-23'
+    amending: pt:dre:462656:por
+    amending_title: Aviso
+    changes:
+    - Altera Artigo unidades 3-4
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T19:36:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso. Método e verificação: consolidacao/README.md
+    e consolidacao/piloto/portugal/avisos/1978/aviso-5.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,9 +125,11 @@ validation:
 
 A necessidade de reforço da selectividade da política de crédito através do esquema de bonificações às taxas de juro dos financiamentos concedidos a entidades cuja actividade seja desenvolvida em sectores considerados prioritários justifica que o Banco de Portugal, sob a orientação do Ministro das Finanças e do Plano, no uso da competência que lhe é atribuída pelos artigos 16.º e 26.º da sua Lei Orgânica e em regulamentação do estatuído no artigo 28.º, alínea b), dessa mesma Lei Orgânica, determine o seguinte:
 
-1.º Nas operações de crédito de campanha expressamente indicadas pelo Banco de Portugal, realizadas a favor de entidades cuja actividade económica principal respeite aos sectores de agricultura, silvicultura, pecuária ou pesca - incluindo as operações de crédito agrícola de emergência -, as instituições de crédito não poderão cobrar juros a taxas superiores às estabelecidas no n.º 4.º do Aviso n.º 2/78, de 6 de Maio, deduzidas da bonificação de 6,5%.
+1.º Nas operações de crédito de campanha, produção, armazenagem e tesouraria, expressamente indicadas pelo Banco de Portugal ou pelo IFADAP, realizadas a favor de entidades cuja actividade económica principal respeite aos sectores de agricultura, silvicultura, pecuária e pesca, associada ou não à transformação dos produtos, as instituições de crédito não poderão cobrar juros a taxas superiores às fixadas no n.º 4 do Aviso n.º 2/78, de 6 de Maio, deduzidas de uma taxa de bonificação compreendida entre 6,5% e 7,5%.
 
-2.º O Banco de Portugal atribuirá às instituições de crédito intervenientes, mediante a apresentação de documentos comprovativos das operações, a compensação correspondente às bonificações de juros processadas nos termos do presente aviso.
+2.º O Banco de Portugal ou o IFADAP estabelecerão por circular, que divulgarão através do sistema bancário, as taxas de bonificação de que beneficiem as operações de financiamento nos termos do presente aviso se e na medida em que obedeçam aos critérios definidos na mesma circular.
+
+> Alterado pelo/a [Aviso](https://diariodarepublica.pt/dr/detalhe/aviso/1980-462656), publicado em 1980-10-23.
 
 3.º O disposto nesta determinação do Banco de Portugal entra em vigor em 8 de Maio de 1978.
 

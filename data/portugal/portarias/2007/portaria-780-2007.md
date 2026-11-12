@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-12-01'
+version_history:
+  file: portaria-780-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-07-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-12-01'
+    amending: pt:dre:628480:por
+    amending_title: Portaria n.º 1507/2007
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/780/2007/07/12/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:25:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1507/2007. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-780-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,7 +147,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2.º São anexados à presente zona de caça vários prédios rústicos sitos na freguesia do Couço, município de Coruche, com a área de 30 ha.
 
-3.º Esta zona de caça após a sua renovação e anexação dos terrenos acima referidos ficará com a área total de 387 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+3.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia do Couço, município de Coruche, com a área de 263 ha.
+
+> Alterado pelo/a [Portaria n.º 1507/2007](https://diariodarepublica.pt/dr/detalhe/portaria/1507-2007-628480), publicado em 2007-11-26.
 
 4.º A presente portaria produz efeitos a partir do dia 26 de Julho de 2007.
 

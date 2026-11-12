@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Pela presente portaria é concessionada, pelo período de seis anos, renovável automaticamente por um período igual, a José Manuel Bilro Lopes da Cruz, com o número de pessoa colectiva 182648249, com sede no Monte da Várzea, 7200-178 Monsaraz, a zona de caça turística da Herdade de Santo Amador e outras (processo n.º 4510-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de Campo, município de Reguengos de Monsaraz, com a área de 449 ha.",
+    "depois": "1.º Pela presente portaria é concessionada, pelo período de seis anos, renovável automaticamente por um período igual, a Manuel José Bilro Letras da Luz, com o número de pessoa colectiva 182648249, com sede no Monte da Várzea, 7200-178 Monsaraz, a zona de caça turística da Herdade de Santo Amador e outras (processo n.º 4510-DGRF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de Campo, município de Reguengos de Monsaraz, com a área de 449 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:546064:por",
+    "alterador": "pt:dre:459889:por"
+  }
+]

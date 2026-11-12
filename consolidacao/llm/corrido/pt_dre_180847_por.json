@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:180847:por",
+  "substituicoes": [
+    {
+      "de": 36,
+      "ate": 36,
+      "texto": "1979 ... 250",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "N.º 2 da Resolução 219/79 (dotação de 1980 passa a 950000 contos, 'em princípio' e 'eventualmente ajustável'): não aplicado porque o calendário atual não tem nenhuma linha de 1980 (lê '1981 ... 700' e '1981 ... 500') e a fixação não é firme, pelo que o alvo é ambíguo.",
+  "instrucoes": [
+    "Resolução 219/79, n.º 1: dotação de 1979 do calendário da alínea f) passa a 250000 contos -> unidade 36 '1979 ... 500' passa a '1979 ... 250' (milhares de contos).",
+    "Resolução 219/79, n.º 2: dotação de 1980 em princípio de 950000 contos -> não aplicado (sem linha de 1980 no texto atual; indicação não firme)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

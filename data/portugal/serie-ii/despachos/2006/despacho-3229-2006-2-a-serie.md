@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-05-20'
+version_history:
+  file: despacho-3229-2006-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-02-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-05-20'
+    amending: pt:dre:1464966:por
+    amending_title: Despacho n.º 14003/2008
+    changes:
+    - Altera Artigo unidades 5-7
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T13:33:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho n.º 14003/2008. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos/2006/despacho-3229-2006-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,10 +120,20 @@ Tendo a supra-identificada empresa comunicado ao Instituto Nacional de Aviação
 
 1 - A empresa AERONORTE - Transportes Aéreos, S. A., com sede no Aeródromo Municipal de Braga, CP 102, Braga, é titular de uma licença de transporte aéreo não regular com o seguinte teor:
 
-a) Quanto ao tipo de exploração - transporte aéreo não regular de passageiros e carga;
+a) quanto ao tipo de exploração:
 
-b) Quanto à área geográfica - cumprimento estrito das áreas definidas no certificado de operador aéreo; e c) Quanto ao equipamento - seis aeronaves com peso máximo à descolagem não superior a 10 t e capacidade de transporte até 20 lugares.
+- transporte aéreo intracomunitário e não regular internacional de passageiros, carga e correio;
 
-2 - O exercício dos direitos conferidos pela presente licença está permanentemente dependente da posse de um certificado de operador aéreo válido.
+b) quanto à área geográfica:
+
+- estrito cumprimento das áreas geográficas definidas no Certificado de Operador Aéreo;
+
+c) quanto ao equipamento:
+
+6 aeronaves de peso máximo à descolagem não superior a 10 000 kg e capacidade de transporte até 20 passageiros;
+
+2 - O exercício dos direitos conferidos pela presente licença está, permanentemente, dependente da posse de um Certificado de Operador Aéreo válido.
+
+> Alterado pelo/a [Despacho n.º 14003/2008](https://diariodarepublica.pt/dr/detalhe/despacho/14003-2008-1464966), publicado em 2008-05-20.
 
 27 de Janeiro de 2006. - O Presidente do Conselho de Administração, Luís A. Fonseca de Almeida.

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-4",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Nas operações de crédito de campanha expressamente indicadas pelo Banco de Portugal, realizadas a favor de entidades cuja actividade económica principal respeite aos sectores de agricultura, silvicultura, pecuária ou pesca - incluindo as operações de crédito agrícola de emergência -, as instituições de crédito não poderão cobrar juros a taxas superiores às estabelecidas no n.º 4.º do Aviso n.º 2/78, de 6 de Maio, deduzidas da bonificação de 6,5%.\n\n2.º O Banco de Portugal atribuirá às instituições de crédito intervenientes, mediante a apresentação de documentos comprovativos das operações, a compensação correspondente às bonificações de juros processadas nos termos do presente aviso.",
+    "depois": "1.º Nas operações de crédito de campanha, produção, armazenagem e tesouraria, expressamente indicadas pelo Banco de Portugal ou pelo IFADAP, realizadas a favor de entidades cuja actividade económica principal respeite aos sectores de agricultura, silvicultura, pecuária e pesca, associada ou não à transformação dos produtos, as instituições de crédito não poderão cobrar juros a taxas superiores às fixadas no n.º 4 do Aviso n.º 2/78, de 6 de Maio, deduzidas de uma taxa de bonificação compreendida entre 6,5% e 7,5%.\n\n2.º O Banco de Portugal ou o IFADAP estabelecerão por circular, que divulgarão através do sistema bancário, as taxas de bonificação de que beneficiem as operações de financiamento nos termos do presente aviso se e na medida em que obedeçam aos critérios definidos na mesma circular.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:462404:por",
+    "alterador": "pt:dre:462656:por"
+  }
+]

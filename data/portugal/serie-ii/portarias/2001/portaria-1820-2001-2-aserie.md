@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-07-12'
+version_history:
+  file: portaria-1820-2001-2-aserie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-11-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-07-12'
+    amending: pt:dre:2647663:por
+    amending_title: Portaria n.º 906/2003 (2.ª série)
+    changes:
+    - Altera Artigo unidades 5-9
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:19:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 906/2003 (2.ª série).
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2001/portaria-1820-2001-2-aserie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,14 +120,18 @@ Nestes termos e em conformidade com o artigo 22.º, n.os 1 e 2, do [Decreto-Lei 
 
 1.º Fica autorizado o conselho de administração do Instituto Nacional da Farmácia e do Medicamento - INFARMED a realizar a despesa relativa à aquisição de um sistema de microfilmagem, incluindo o estudo e optimização da implantação no edifício B do INFARMED, situado no Parque de Saúde de Lisboa, até ao montante global de Euro 364 122,47 (73 000 000$00), a que acrescerá o imposto sobre o valor acrescentado - IVA à taxa legal aplicável e que vigorar.
 
-2.º Os encargos resultantes do contrato não poderão, em cada ano económico, exceder as seguintes importâncias, às quais acrescerá IVA à taxa legal aplicável e que vigorar:
+2.º Os encargos resultantes do contrato não poderão, em cada ano económico, exceder as seguintes importâncias, às quais acrescerá o IVA à taxa legal aplicável e que vigorar:
 
-Ano de 2001 - 50 000 000$00 (Euro 249 398,95);
+Ano de 2001 - 1 000 000$ (Euro 4987,98);
 
-Ano de 2002 - Euro 114 723,52.
+Ano de 2002 - Euro 244 410,97;
 
-3.º A importância fixada para o ano económico de 2002 poderá ser acrescida do saldo apurado no ano anterior.
+Ano de 2003 - Euro 114 723,52.
 
-4.º Os encargos emergentes da presente portaria serão satisfeitos pelas adequadas verbas inscritas e a inscrever no orçamento do Instituto Nacional da Farmácia e do Medicamento.
+3.º A importância fixada para o ano económico de 2003 poderá ser acrescida do saldo apurado no ano anterior.
+
+4.º Os encargos emergentes da presente portaria serão satisfeitos pelas adequadas verbas inscritas no orçamento para 2003 do INFARMED.
+
+> Alterado pelo/a [Portaria n.º 906/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/906-2003-2647663), publicado em 2003-07-12.
 
 2 de Outubro de 2001. - Pelo Ministro das Finanças, Rui Pedro da Conceição Coimbra Fernandes, Secretário de Estado do Orçamento. - Pelo Ministro da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde.

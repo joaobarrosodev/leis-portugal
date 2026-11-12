@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1368228:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-02-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "96c05a787ccf8ba5"
+   ]
+  },
+  {
+   "date": "2008-05-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1464966:por",
+     "title": "Despacho n.º 14003/2008",
+     "published": "2008-05-20",
+     "dre_path": "/dr/detalhe/despacho/14003-2008-1464966"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-7"
+   ],
+   "fragments": [
+    "6767f7bcc6a08ae8"
+   ]
+  }
+ ],
+ "fragments": {
+  "96c05a787ccf8ba5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho n.º 3229/2006 (2.ª série). - A empresa AERONORTE - Transportes Aéreos, Lda., com sede no Aeródromo Municipal de Braga, CP 102, Braga, é titular de uma licença de transporte aéreo não regular que lhe foi concedida pelo despacho SET n.º 12-XII/93, de 19 de Março, publicado no Diário da República, 2.ª série, n.º 78, de 2 de Abril de 1993, e alterado pelos despachos SET n.º 70-XII/95, de 20 de Outubro, publicado no Diário da República, 2.ª série, n.º 259, de 9 de Novembro de 1995, e n.º 122/97, de 7 de Abril, publicado no Diário da República, 2.ª série, n.º 104, de 6 de Maio de 1997.\n\nTendo a supra-identificada empresa comunicado ao Instituto Nacional de Aviação Civil que procedeu à transformação da sociedade por quotas em sociedade anónima, passando a designar-se por AERONORTE - Transportes Aéreos, S. A., conforme certidões de escritura notarial e do registo comercial entregues neste Instituto, determino a republicação da referida licença em conformidade com a alteração supra-referida, nos seguintes termos:\n\n1 - A empresa AERONORTE - Transportes Aéreos, S. A., com sede no Aeródromo Municipal de Braga, CP 102, Braga, é titular de uma licença de transporte aéreo não regular com o seguinte teor:\n\na) Quanto ao tipo de exploração - transporte aéreo não regular de passageiros e carga;\n\nb) Quanto à área geográfica - cumprimento estrito das áreas definidas no certificado de operador aéreo; e c) Quanto ao equipamento - seis aeronaves com peso máximo à descolagem não superior a 10 t e capacidade de transporte até 20 lugares.\n\n2 - O exercício dos direitos conferidos pela presente licença está permanentemente dependente da posse de um certificado de operador aéreo válido.\n\n27 de Janeiro de 2006. - O Presidente do Conselho de Administração, Luís A. Fonseca de Almeida."
+  },
+  "6767f7bcc6a08ae8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2008-05-20",
+   "changed_by": [
+    "Alterado pelo/a [Despacho n.º 14003/2008](https://diariodarepublica.pt/dr/detalhe/despacho/14003-2008-1464966), publicado em 2008-05-20."
+   ],
+   "markdown": "Despacho n.º 3229/2006 (2.ª série). - A empresa AERONORTE - Transportes Aéreos, Lda., com sede no Aeródromo Municipal de Braga, CP 102, Braga, é titular de uma licença de transporte aéreo não regular que lhe foi concedida pelo despacho SET n.º 12-XII/93, de 19 de Março, publicado no Diário da República, 2.ª série, n.º 78, de 2 de Abril de 1993, e alterado pelos despachos SET n.º 70-XII/95, de 20 de Outubro, publicado no Diário da República, 2.ª série, n.º 259, de 9 de Novembro de 1995, e n.º 122/97, de 7 de Abril, publicado no Diário da República, 2.ª série, n.º 104, de 6 de Maio de 1997.\n\nTendo a supra-identificada empresa comunicado ao Instituto Nacional de Aviação Civil que procedeu à transformação da sociedade por quotas em sociedade anónima, passando a designar-se por AERONORTE - Transportes Aéreos, S. A., conforme certidões de escritura notarial e do registo comercial entregues neste Instituto, determino a republicação da referida licença em conformidade com a alteração supra-referida, nos seguintes termos:\n\n1 - A empresa AERONORTE - Transportes Aéreos, S. A., com sede no Aeródromo Municipal de Braga, CP 102, Braga, é titular de uma licença de transporte aéreo não regular com o seguinte teor:\n\na) quanto ao tipo de exploração:\n\n- transporte aéreo intracomunitário e não regular internacional de passageiros, carga e correio;\n\nb) quanto à área geográfica:\n\n- estrito cumprimento das áreas geográficas definidas no Certificado de Operador Aéreo;\n\nc) quanto ao equipamento:\n\n6 aeronaves de peso máximo à descolagem não superior a 10 000 kg e capacidade de transporte até 20 passageiros;\n\n2 - O exercício dos direitos conferidos pela presente licença está, permanentemente, dependente da posse de um Certificado de Operador Aéreo válido.\n\n> Alterado pelo/a [Despacho n.º 14003/2008](https://diariodarepublica.pt/dr/detalhe/despacho/14003-2008-1464966), publicado em 2008-05-20.\n\n27 de Janeiro de 2006. - O Presidente do Conselho de Administração, Luís A. Fonseca de Almeida."
+  }
+ }
+}

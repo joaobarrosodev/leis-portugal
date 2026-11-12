@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:556069:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 716/92 suprime do n.º 11 do anexo II da Portaria 968/90 a entrada das sementes de soja, mas o anexo II só existe em imagem (unidade 43, ver documento original), pelo que não há texto onde aplicar a supressão.",
+  "instrucoes": [
+    "Alterações aos anexos II, IV e V da Portaria 661/88: dirigidas a outro diploma, ignoradas.",
+    "Supressão no n.º 11 do anexo II da Portaria 968/90 (sementes de soja): não aplicada, o anexo II só vem em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

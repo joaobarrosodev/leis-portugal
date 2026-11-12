@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-08-25'
+version_history:
+  file: portaria-532-2003-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-05-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-08-25'
+    amending: pt:dre:3117671:por
+    amending_title: Portaria n.º 813/2005 (2.ª série)
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:40:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 813/2005 (2.ª série).
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2003/portaria-532-2003-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,6 +152,8 @@ Manda o Governo, pelo Ministro de Estado e da Defesa Nacional, o seguinte:
 
 4.º De acordo com o n.º 5.º da portaria n.º 87/99, de 30 de Dezembro de 1998, publicada no Diário da República, 2.ª série, n.º 23, de 28 de Janeiro de 1999, o militar que integra esta operação desempenha missões em zonas que se configuram na classe C desta portaria.
 
-5.º A missão decorrerá entre 6 de Janeiro e, previsivelmente, 10 de Junho de 2003.
+5.º A missão decorrerá entre 6 de Janeiro de 2003 e, previsivelmente, 23 de Dezembro de 2005.
+
+> Alterado pelo/a [Portaria n.º 813/2005 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/813-2005-3117671), publicado em 2005-08-25.
 
 17 de Abril de 2003. - O Ministro de Estado e da Defesa Nacional, Paulo Sacadura Cabral Portas.

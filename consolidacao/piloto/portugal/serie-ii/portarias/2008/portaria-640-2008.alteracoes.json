@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º A referida equipa é constituída por 12 elementos dos três ramos das Forças Armadas.",
+    "depois": "2.º A referida equipa é constituída por 29 elementos dos três ramos das Forças Armadas, dos quais 10 são assessores e 19 integram o módulo de apoio.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1568754:por",
+    "alterador": "pt:dre:2907511:por"
+  }
+]

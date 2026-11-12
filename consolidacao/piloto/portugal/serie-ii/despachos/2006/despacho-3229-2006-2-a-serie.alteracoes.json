@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Quanto ao tipo de exploração - transporte aéreo não regular de passageiros e carga;\n\nb) Quanto à área geográfica - cumprimento estrito das áreas definidas no certificado de operador aéreo; e c) Quanto ao equipamento - seis aeronaves com peso máximo à descolagem não superior a 10 t e capacidade de transporte até 20 lugares.\n\n2 - O exercício dos direitos conferidos pela presente licença está permanentemente dependente da posse de um certificado de operador aéreo válido.",
+    "depois": "a) quanto ao tipo de exploração:\n\n- transporte aéreo intracomunitário e não regular internacional de passageiros, carga e correio;\n\nb) quanto à área geográfica:\n\n- estrito cumprimento das áreas geográficas definidas no Certificado de Operador Aéreo;\n\nc) quanto ao equipamento:\n\n6 aeronaves de peso máximo à descolagem não superior a 10 000 kg e capacidade de transporte até 20 passageiros;\n\n2 - O exercício dos direitos conferidos pela presente licença está, permanentemente, dependente da posse de um Certificado de Operador Aéreo válido.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1368228:por",
+    "alterador": "pt:dre:1464966:por"
+  }
+]

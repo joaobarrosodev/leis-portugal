@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:368663:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "O artigo 4.º do Decreto-Lei n.º 42/2003 substitui o anexo IX do Regulamento pelo anexo II desse decreto-lei, cujo conteúdo não vem no pedido e o anexo IX atual só existe como título (sem texto articulado), pelo que a substituição não se pode aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1 (DL 42/2003), art. 4.º: substitui o anexo IX do Regulamento pelo anexo II do DL 42/2003; texto do novo anexo ausente do pedido; não aplicado (nao_aplicavel).",
+    "Alterador 2 (DL 74/2005): sem artigos que mencionem o original; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

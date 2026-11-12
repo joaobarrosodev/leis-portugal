@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-01-03'
+version_history:
+  file: portaria-1399-2002-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-09-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-01-03'
+    amending: pt:dre:1651030:por
+    amending_title: Portaria n.º 2/2003 (2.ª série)
+    changes:
+    - Altera Artigo unidades 6-6
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:28:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 2/2003 (2.ª série).
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2002/portaria-1399-2002-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -108,11 +124,15 @@ Manda o Governo, pelo Secretário de Estado do Tesouro e das Finanças, o seguin
 
 1 - Autorizar, nos termos do artigo 1.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a cessão, a título definitivo, ao município de Belmonte, do referido edifício.
 
-2 - Reconhecer o interesse público da cessão, em virtude de o imóvel se destinar à instalação das escolas do ensino pré-escolar e do 1.º ciclo do ensino básico.
+2 - Reconhecer o interesse público da cessão, em virtude de o imóvel se destinar à educação.
+
+> Alterado pelo/a [Portaria n.º 2/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/2-2003-1651030), publicado em 2003-01-03.
 
 3 - A presente cessão efectua-se mediante a compensação total de E340 000, a pagar em cinco prestações anuais, sendo a primeira paga no acto da assinatura do respectivo auto e as restantes acrescidas de juros pelo diferimento de dívidas ao Estado, no valor de 5% ao ano, nos termos da portaria n.º 602/98 (2.ª série), de 16 de Junho.
 
-4 - Esta cessão fica sujeita à cláusula de reversão, nos termos do artigo 2.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a qual terá de ser registada na CRP, como ónus, devendo ao imóvel ser conferido o destino que fundamenta a cessão no prazo máximo de dois anos.
+4 - A presente cessão fica sujeita à clausula de reversão, nos termos do artigo 2.º do [Decreto-Lei n.º 97/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1970-228665), de 13 de Março, a qual terá de ser registada na conservatória do registo predial, como ónus, devendo ao imóvel ser conferido o destino que fundamenta a cessão no prazo máximo de três anos.
+
+> Alterado pelo/a [Portaria n.º 2/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/2-2003-1651030), publicado em 2003-01-03.
 
 5 - O auto de cessão deverá ser outorgado no prazo de 90 dias a contar da publicação da presente portaria.
 

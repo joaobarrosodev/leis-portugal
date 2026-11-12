@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-03-07'
+version_history:
+  file: resolucao-102-2001-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-08-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-03-07'
+    amending: pt:dre:3654492:por
+    amending_title: Resolução n.º 26/2002 (2.ª série)
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:10:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução n.º 26/2002 (2.ª série).
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/resolucoes/2001/resolucao-102-2001-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,7 +151,9 @@ Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Minis
 
 1 - Constituir a autoridade nacional do Tratado de Proibição Total de Ensaios Nucleares, de harmonia com o disposto no n.º 4 do artigo III do Tratado, a qual será o órgão de ligação directa com a organização do Tratado de Proibição Total de Ensaios Nucleares e com os Estados Partes para garantir o cumprimento das obrigações decorrentes da ratificação do Tratado:
 
-a) A autoridade nacional será presidida por um alto funcionário do Ministério dos Negócios Estrangeiros e integrará dois representantes do Ministério das Finanças, um do Ministério do Ambiente e do Ordenamento do Território e um do Governo Regional dos Açores, a designar por despacho dos titulares das respectivas pastas;
+a) A autoridade nacional será presidida por um alto funcionário do Ministério dos Negócios Estrangeiros e integrará dois representantes do Ministério das Finanças, um do Ministério do Ambiente e do Ordenamento do Território e um do Ministério da Ciência e da Tecnologia, a designar por despacho dos titulares das respectivas pastas, bem como um representante do Governo Regional dos Açores;
+
+> Alterado pelo/a [Resolução n.º 26/2002 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/resolucao/26-2002-3654492), publicado em 2002-03-07.
 
 b) Para além dos representantes ministeriais mencionados na alínea anterior, poderão ainda fazer parte da autoridade nacional, mediante proposta a formular nesse sentido pela mesma, elementos de outros ministérios ou entidades cuja participação venha a ser considerada necessária para a prossecução dos objectivos do Tratado.
 

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:3187549:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 311-C/2011 (art. 3.º) revoga por inteiro a Portaria n.º 727/2008.",
+  "instrucoes": [
+    "Alterador 1, art. 3.º: revogação total da Portaria n.º 727/2008 — nada devolvido, registado em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

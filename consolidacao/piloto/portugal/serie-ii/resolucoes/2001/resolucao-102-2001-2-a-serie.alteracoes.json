@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-11",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) A autoridade nacional será presidida por um alto funcionário do Ministério dos Negócios Estrangeiros e integrará dois representantes do Ministério das Finanças, um do Ministério do Ambiente e do Ordenamento do Território e um do Governo Regional dos Açores, a designar por despacho dos titulares das respectivas pastas;",
+    "depois": "a) A autoridade nacional será presidida por um alto funcionário do Ministério dos Negócios Estrangeiros e integrará dois representantes do Ministério das Finanças, um do Ministério do Ambiente e do Ordenamento do Território e um do Ministério da Ciência e da Tecnologia, a designar por despacho dos titulares das respectivas pastas, bem como um representante do Governo Regional dos Açores;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1497165:por",
+    "alterador": "pt:dre:3654492:por"
+  }
+]

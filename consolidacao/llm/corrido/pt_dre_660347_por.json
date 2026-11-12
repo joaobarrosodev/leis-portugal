@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:660347:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 2/89) altera o DL 389/76 e fixa prescrição da taxa de radiodifusão: não é dirigido ao original; ignorado.",
+    "Alterador 2 (DL 125/96) adita e altera artigos do Código de Processo Tributário (109.º-A, 284.º, 284.º-A, 301.º): não altera o texto do original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

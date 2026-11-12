@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:291848:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "O original (Decreto-Lei n.º 123/92) é um diploma de alteração ao Código do IRC; os artigos do texto atual (45.º, 62.º, 62.º-A, 63.º, 64.º, 69.º, 75.º, 96.º) são artigos do Código do IRC.",
+    "Alteradores 1 a 29: todas as instruções alteram, aditam ou revogam artigos do Código do IRC (DL 442-B/88), do Código do IRS, do EBF, do Código do IVA, do CIS, do CIMI, do CIMT, do RITI, do Código do Registo Comercial e de outros diplomas; nenhuma é dirigida ao texto do Decreto-Lei n.º 123/92, pelo que foram todas ignoradas.",
+    "O Decreto-Lei n.º 6/93 (alterador 3) só menciona o Decreto-Lei n.º 123/92 no preâmbulo, sem o alterar.",
+    "Os alteradores 'só os artigos que mencionam o original' (2, 4, 5, 12, 13, 15, 17, 18, 19, 21, 22, 24, 26, 27, 29) vêm sem texto; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

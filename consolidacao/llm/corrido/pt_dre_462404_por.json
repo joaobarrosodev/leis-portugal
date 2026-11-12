@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:462404:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 4,
+      "texto": "1.º Nas operações de crédito de campanha, produção, armazenagem e tesouraria, expressamente indicadas pelo Banco de Portugal ou pelo IFADAP, realizadas a favor de entidades cuja actividade económica principal respeite aos sectores de agricultura, silvicultura, pecuária e pesca, associada ou não à transformação dos produtos, as instituições de crédito não poderão cobrar juros a taxas superiores às fixadas no n.º 4 do Aviso n.º 2/78, de 6 de Maio, deduzidas de uma taxa de bonificação compreendida entre 6,5% e 7,5%.\n\n2.º O Banco de Portugal ou o IFADAP estabelecerão por circular, que divulgarão através do sistema bancário, as taxas de bonificação de que beneficiem as operações de financiamento nos termos do presente aviso se e na medida em que obedeçam aos critérios definidos na mesma circular.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação dos n.os 1.º e 2.º do Aviso n.º 5 -> substituídas as unidades 3 e 4 pelo texto novo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
