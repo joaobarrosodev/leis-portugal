@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:276380:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Pombal, com uma área de 1448,50 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria 527/2004) renova a concessão por 12 anos com a área de 1356 ha e alterador 3 (Portaria 562/2006) anexa prédios (área total de 3687 ha) com nova planta: não dão nova redação a nenhum ponto do original, só atos de renovação/anexação e planta em imagem.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 833/99): nova redação do n.º 1.º (planta nova, área 1448,50 ha); unidade 6 substituída mantendo o número '1.º'.",
+    "Alterador 2 (Portaria 527/2004): renovação da concessão e referência a lapso na área (1356 ha) sem instrução textual; não aplicado.",
+    "Alterador 3 (Portaria 562/2006): anexação de prédios rústicos sem instrução textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

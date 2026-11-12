@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - Peles curtidas, incluindo os curtumes e seus desperdícios.",
+    "depois": "2 - Peles tratadas, incluindo os respectivos desperdícios.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:290380:por",
+    "alterador": "pt:dre:555464:por"
+  },
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7 - Sobras não tratadas dos estabelecimentos alimentares, com excepção dos géneros alimentícios de origem vegetal que por motivos de frescura foram julgados impróprios para o consumo humano.",
+    "depois": "7 - Sobras não tratadas dos estabelecimentos alimentares, com excepção dos géneros alimentícios de origem vegetal que, por motivos de frescura, foram julgados impróprios para o consumo humano.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:290380:por",
+    "alterador": "pt:dre:555464:por"
+  }
+]

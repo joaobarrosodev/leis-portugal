@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:292303:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-07-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "85e176c7d27f70bc",
+    "da0c776dbdaee0a7",
+    "afe1bf7921c2be8b",
+    "f5ae5c852e5aac21",
+    "da4746ee85e88aed",
+    "2fdeb76709a0993e",
+    "a40ad268bb7bf83f",
+    "c034e8404dd21915",
+    "7cb8166760878ca6"
+   ]
+  },
+  {
+   "date": "1993-03-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:628039:por",
+     "title": "Decreto-Lei n.º 65/93",
+     "published": "1993-03-10",
+     "dre_path": "/dr/detalhe/decreto-lei/65-1993-628039"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 14"
+   ],
+   "fragments": [
+    "9744756cf2663cd7",
+    "da0c776dbdaee0a7",
+    "afe1bf7921c2be8b",
+    "f5ae5c852e5aac21",
+    "da4746ee85e88aed",
+    "2fdeb76709a0993e",
+    "a40ad268bb7bf83f",
+    "c034e8404dd21915",
+    "7cb8166760878ca6"
+   ]
+  }
+ ],
+ "fragments": {
+  "85e176c7d27f70bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Julho\n\nO Conselho de Ministros da Cultura das Comunidades Europeias deliberou, através da Resolução n.º 85/C/153/02, de 13 de Julho de 1985, instituir a organização de uma manifestação de cariz cultural intitulada «Capital Europeia da Cultura».\n\nEm consequência, anualmente e desde 1985, Atenas, Florença, Amsterdão, Berlim, Paris, Glásgua e Dublim sucederam-se como capitais europeias da cultura, tendo este acontecimento contribuído não só para a divulgação internacional destas cidades como também para a motivação e mobilização dos agentes culturais sociais e económicos e desenvolvimento cultural das mesmas.\n\nEste ano é a cidade de Madrid que assume este desafio, seguindo-se as cidades de Antuérpia, em 1993, Lisboa, em 1994, Luxemburgo, em 1995, e, finalmente, Copenhaga, em 1996, que encerrará o primeiro ciclo de cidades europeias da cultura.\n\nNo entender dos membros do Governo responsáveis pela área da cultura dos Estados membros da Comunidade Europeia, esta manifestação deve ser expressão da riqueza e das diversidades culturais europeias e contribuir para a aproximação dos povos, tendo sempre presentes as afinidades e elementos comuns da consciência europeia.\n\nPara o efeito de organizar e dinamizar a referida manifestação, a ocorrer em Lisboa, em 1994, acordaram o Governo e a Câmara Municipal de Lisboa, ouvidas as demais entidades envolvidas na manifestação «Lisboa - Capital Europeia da Cultura 1994», constituir uma sociedade anónima que tivesse esse evento por objecto e dispusesse de plena autonomia.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º - 1 - Entre o Estado e o município de Lisboa é constituída a sociedade anónima Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultura, S. A., adiante designada por Sociedade.\n\n2 - O Estado e o município de Lisboa terão igual participação no capital da Sociedade, devendo esta paridade manter-se em qualquer circunstância até à sua extinção.\n\nArt. 2.º A Sociedade rege-se pelo disposto no presente diploma, pelos estatutos a ele anexos e, no que neles for omisso, pelas normas aplicáveis às sociedades anónimas.\n\nArt. 3.º - 1 - A Sociedade goza de personalidade jurídica desde a data de entrada em vigor do presente diploma, que constitui título suficiente para a inscrição no registo comercial.\n\n2 - O registo da Sociedade é isento de quaisquer taxas e emolumentos.\n\nArt. 4.º O representante do Estado na assembleia geral é designado por despacho conjunto do Ministro das Finanças e do membro do Governo responsável pela área da cultura.\n\nVisto e aprovado em Conselho de Ministros de 11 de Junho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - João de Deus Rogado Salvador Pinheiro - António Fernando Couto dos Santos - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.\n\nPromulgado em 26 de Junho de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Julho de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nEstatutos de Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultural, S. A."
+  },
+  "da0c776dbdaee0a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Denominação, duração, sede e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Denominação, duração, sede e objecto\n\nArtigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultura, S. A.\n\nArt. 2.º A Sociedade tem sede em Lisboa e dura até ao dia 31 de Março de 1995.\n\nArt. 3.º A Sociedade tem por objecto promover a realizaão do evento denominado «Lisboa - Capital Europeia da Cultura 1994».\n\nArt. 4.º - 1 - Para a realização do seu objecto social, incumbe especialmente à Sociedade:\n\na) Coordenar e organizar o programa das iniciativas que se integrem no evento;\n\nb) Dar parecer sobre a programação das instalações públicas que sejam afectadas à realização das iniciativas referidas na alínea anterior;\n\nc) Participar, da forma que vier a ser considerada em cada caso adequada, na constituição de entidades que visem desenvolver as iniciativas mencionadas na alínea a);\n\nd) Promover a realização das iniciativas que sejam incluídas no programa do evento e, designadamente, de espectáculos, exposições e conferências.\n\n2 - A Sociedade poderá adquirir, a título originário ou derivado, participações no capital de sociedades com objecto diverso do seu, bem como de qualquer forma alienar ou onerar as que sejam integradas no seu património."
+  },
+  "afe1bf7921c2be8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Capital social e acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Capital social e acções\n\nArt. 5.º - 1 - O capital social é de 500000000$00, dividido em 500000 acções de 1000$00 cada uma, encontrando-se nesta data realizado em 100000000$00.\n\n2 - A realização do remanescente deverá ser efectuada em duas prestações, nos termos seguintes:\n\na) 200000000$00 até 30 de Novembro de 1992;\n\nb) 200000000$00 até 30 de Junho de 1993.\n\n3 - As acções são nominativas.\n\n4 - Só pessoas colectivas de direito público podem ser titulares das acções da Sociedade.\n\n5 - Haverá títulos representativos de 1, 5, 50, 1000 e 10000 acções."
+  },
+  "f5ae5c852e5aac21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Órgãos sociais"
+  },
+  "da4746ee85e88aed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — A Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — A Assembleia geral\n\nArt. 6.º - 1 - A assembleia geral é formada pelos accionistas com direito a, pelo menos, um voto.\n\n2 - A cada 100 acções corresponde um voto.\n\n3 - Nos trabalhos da assembleia devem participar, sem direito a voto, os membros do conselho de administração e do conselho fiscal.\n\nArt. 7.º Compete à assembleia geral:\n\na) Apreciar o relatório do conselho de administração;\n\nb) Discutir e votar o relatório e as contas e o parecer do conselho fiscal;\n\nc) Deliberar sobre a aplicação dos resultados;\n\nd) Deliberar sobre alterações dos estatutos;\n\ne) Deliberar sobre as remunerações dos membros dos órgãos sociais;\n\nf) Tratar de qualquer outro assunto para que tenha sido convocada.\n\nArt. 8.º - 1 - A mesa da assembleia geral é constituída por um presidente e por dois secretários.\n\n2 - Os membros da mesa da assembleia geral são eleitos por esta."
+  },
+  "2fdeb76709a0993e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho de administração\n\nArt. 9.º - 1 - O conselho de administração é composto por um presidente e seis ou oito administradores.\n\n2 - Os membros do conselho de administração são eleitos pela assembleia geral, que designa, de entre os administradores, dois vice-presidentes.\n\nArt. 10.º - 1 - Compete ao conselho de administração:\n\na) Aprovar o plano de actividades anual e plurianual;\n\nb) Aprovar o programa do evento Lisboa - Capital Europeia da Cultura 1994 e suas alterações;\n\nc) Aprovar o orçamento e acompanhar a sua execução;\n\nd) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social que não caibam na competência atribuída por estes estatutos a outros órgãos da sociedade;\n\ne) Representar a sociedade em juízo e fora dele, activa e passivamente;\n\nf) Adquirir, vender ou por outra forma alienar ou onerar direitos, designadamente participações no capital de sociedades ou imóveis confiados à gestão da Sociedade;\n\ng) Decidir sobre a atribuição de subsídios ou outras formas de apoio no âmbito do objecto da Sociedade;\n\nh) Estabelecer a organização técnico-administrativa da Sociedade;\n\ni) Decidir sobre a admissão de pessoal e sua remuneração;\n\nj) Constituir mandatários com os poderes que julgue convenientes.\n\n2 - O conselho de administração poderá escolher, de entre os seus membros, uma comissão executiva, que será presidida pelo presidente do conselho de administração e composta por quatro administradores.\n\n3 - A comissão executiva terá os poderes que lhe forem delegados pelo conselho de administração, ficando consignados em acta os limites e condições do exercício de tal delegação.\n\nArt. 11.º - 1 - O conselho de administração reúne mensalmente e sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de dois administradores.\n\n2 - Quando haja sido criada, a comissão executiva reúne-se semanalmente ou sempre que convocada pelo presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.\n\nArt. 12.º - 1 - A sociedade obriga-se:\n\na) Pela assinatura de dois membros do conselho de administração;\n\nb) Pela assinatura de um membro do conselho de administração e de um mandatário a quem tenham sido conferidos poderes para esse efeito.\n\n2 - Em assuntos de mero expediente bastará a assinatura de um dos membros do conselho de administração."
+  },
+  "a40ad268bb7bf83f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho fiscal\n\nArt. 13.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois ou quatro vogais efectivos, um dos quais será revisor oficial de contas, e dois vogais suplentes.\n\n2 - Os membros do conselho fiscal são eleitos em assembleia geral."
+  },
+  "c034e8404dd21915": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Conselho consultivo\n\nArt. 14.º - 1 - O conselho consultivo é composto por um representante do membro do Governo responsável pela área da cultura, por um representante do presidente da Câmara Municipal de Lisboa, pelo presidente do conselho de administração, que presidirá e ainda por:\n\na) Um representante do Ministro do Planeamento e da Administração do Território;\n\nb) Um representante do Ministro dos Negócios Estrangeiros;\n\nc) Um representante do Ministro da Educação;\n\nd) Um representante do Ministro das Obras Públicas, Transportes e Comunicações;\n\ne) Um representante do membro do Governo responsável pela área do turismo;\n\nf) Um representante da Fundação Calouste Gulbenkian;\n\ng) Um representante da Fundação Luso-Americana para o Desenvolvimento;\n\nh) Um representante da Fundação Oriente;\n\ni) Um representante da Fundação Cidade de Lisboa;\n\nj) Um representante da Fundação das Descobertas;\n\nl) Um representante da Comissão Nacional para as Comemorações dos Descobrimentos Portugueses;\n\nm) Um representante da área metropolitana de Lisboa;\n\nn) Um representante da Academia das Ciências;\n\no) Um representante da Academia de Belas-Artes;\n\np) Um representante da Academia da História;\n\nq) Um representante do Patriarcado de Lisboa;\n\nr) Um representante da Administração do Porto de Lisboa.\n\n2 - Ao conselho consultivo compete dar parecer sobre o programa do evento Lisboa - Capital Europeia da Cultura 1994 e suas alterações e pronunciar-se sobre as demais questões que o conselho de administração deliberar submeter à sua apreciação.\n\n3 - O conselho consultivo reúne sempre que for convocado pelo seu presidente, através de carta registada expedida com a antecedência mínima de 15 dias."
+  },
+  "7cb8166760878ca6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais\n\nArt. 15.º - 1 - A Sociedade dissolve-se, sem prejuízo dos demais casos previstos na lei, pelo decurso do prazo por que a constituída, entrando em liquidação a partir do dia 1 de Abril de 1995.\n\n2 - A liquidação deve estar encerrada e a partilha aprovada até ao dia 31 de Dezembro de 1995.\n\n3 - Salvo deliberação em contrário da assembleia geral, a liquidação da Sociedade será efectuada pelo conselho de administração, tal como se encontrar constituído na data referida no n.º 1."
+  },
+  "9744756cf2663cd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1993-03-15",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 65/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1993-628039), publicado em 1993-03-10."
+   ],
+   "markdown": "de 21 de Julho\n\nO Conselho de Ministros da Cultura das Comunidades Europeias deliberou, através da Resolução n.º 85/C/153/02, de 13 de Julho de 1985, instituir a organização de uma manifestação de cariz cultural intitulada «Capital Europeia da Cultura».\n\nEm consequência, anualmente e desde 1985, Atenas, Florença, Amsterdão, Berlim, Paris, Glásgua e Dublim sucederam-se como capitais europeias da cultura, tendo este acontecimento contribuído não só para a divulgação internacional destas cidades como também para a motivação e mobilização dos agentes culturais sociais e económicos e desenvolvimento cultural das mesmas.\n\nEste ano é a cidade de Madrid que assume este desafio, seguindo-se as cidades de Antuérpia, em 1993, Lisboa, em 1994, Luxemburgo, em 1995, e, finalmente, Copenhaga, em 1996, que encerrará o primeiro ciclo de cidades europeias da cultura.\n\nNo entender dos membros do Governo responsáveis pela área da cultura dos Estados membros da Comunidade Europeia, esta manifestação deve ser expressão da riqueza e das diversidades culturais europeias e contribuir para a aproximação dos povos, tendo sempre presentes as afinidades e elementos comuns da consciência europeia.\n\nPara o efeito de organizar e dinamizar a referida manifestação, a ocorrer em Lisboa, em 1994, acordaram o Governo e a Câmara Municipal de Lisboa, ouvidas as demais entidades envolvidas na manifestação «Lisboa - Capital Europeia da Cultura 1994», constituir uma sociedade anónima que tivesse esse evento por objecto e dispusesse de plena autonomia.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º - 1 - Entre o Estado e o município de Lisboa é constituída a sociedade anónima Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultura, S. A., adiante designada por Sociedade.\n\n2 - O Estado e o município de Lisboa terão igual participação no capital da Sociedade, devendo esta paridade manter-se em qualquer circunstância até à sua extinção.\n\nArt. 2.º A Sociedade rege-se pelo disposto no presente diploma, pelos estatutos a ele anexos e, no que neles for omisso, pelas normas aplicáveis às sociedades anónimas.\n\nArt. 3.º - 1 - A Sociedade goza de personalidade jurídica desde a data de entrada em vigor do presente diploma, que constitui título suficiente para a inscrição no registo comercial.\n\n2 - O registo da Sociedade é isento de quaisquer taxas e emolumentos.\n\n3 - Os donativos, em dinheiro ou em espécie, concedidos à sociedade Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultura, S. A., serão abatidos à matéria colectável em IRS ou considerados custos para efeitos de IRC, sem qualquer dos limites referidos no n.º 2 do artigo 56.º do CIRS ou no n.º 1 do artigo 39.º do CIRC, em valor correspondente a 115% do respectivo total.\n\n> Aditado pelo/a [Decreto-Lei n.º 65/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1993-628039), publicado em 1993-03-10.\n\nArt. 4.º O representante do Estado na assembleia geral é designado por despacho conjunto do Ministro das Finanças e do membro do Governo responsável pela área da cultura.\n\nVisto e aprovado em Conselho de Ministros de 11 de Junho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - João de Deus Rogado Salvador Pinheiro - António Fernando Couto dos Santos - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.\n\nPromulgado em 26 de Junho de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Julho de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nEstatutos de Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultural, S. A."
+  }
+ }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "pt:dre:399188:por",
+  "artigos": [
+    {
+      "chave": "ANEXO::1.º",
+      "epigrafe": "Programa de acção",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::2.º",
+      "epigrafe": "Época de aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::3.º",
+      "epigrafe": "Aplicação de fertilizantes em solos inundados ou inundáveis",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::4.º",
+      "epigrafe": "Aplicação de fertilizantes em terrenos declivosos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::5.º",
+      "epigrafe": "Aplicação de fertilizantes em terrenos adjacentes a cursos de água e a captações de água potável",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::6.º",
+      "epigrafe": "Plano e balanço de fertilização",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::7.º",
+      "epigrafe": "Quantidade máxima de N a aplicar às culturas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::8.º",
+      "epigrafe": "Fertilizantes orgânicos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::9.º",
+      "epigrafe": "Gestão da rega",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::10.º",
+      "epigrafe": "Controlo dos nitratos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO::11.º",
+      "epigrafe": "Norma revogatória",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "2.º da Portaria n.º 591/2003: revoga a Portaria n.º 704/2001 na totalidade; todos os artigos do anexo (1.º a 11.º) ficam '(Revogado.)'.",
+    "1.º da Portaria n.º 591/2003: aprova um novo Programa de Acção em anexo próprio; não altera o texto do original, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

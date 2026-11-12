@@ -1,0 +1,52 @@
+{
+  "id": "pt:dre:263757:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "O Presidente da República, (assinatura do Chefe do Estado).",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "O Presidente da República, (assinatura do Chefe do Estado).",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "O Presidente da República, (assinatura do Chefe do Estado).",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "O Presidente da República, (assinatura do Chefe do Estado).",
+      "alterador": 1
+    },
+    {
+      "de": 38,
+      "ate": 38,
+      "texto": "O Presidente da República, (assinatura do Chefe do Estado).",
+      "alterador": 1
+    },
+    {
+      "de": 47,
+      "ate": 47,
+      "texto": "Ministério de ..., (data da assinatura). - (Assinatura do Ministro.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 3.º: fixa a parte final da fórmula nos casos do n.º 3.º do original sem dar nova redação a nenhuma unidade, pelo que não é uma alteração textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: nas alíneas A) a E) do n.º 1.º, 'Presidência da República, (data da publicação). - (Assinatura do Chefe do Estado).' passa a 'O Presidente da República, (assinatura do Chefe do Estado).' - substituídas as unidades 10, 17, 24, 31 e 38 (a alínea F) não é abrangida).",
+    "Alterador 1, 2.º: na alínea G), a expressão final passa a 'Ministério de ..., (data da assinatura). - (Assinatura do Ministro.)' - substituída a unidade 47.",
+    "Alterador 1, 3.º: parte final da fórmula nos casos do n.º 3.º - não aplicável (não textual).",
+    "Alterador 1, 4.º: entrada em vigor da própria portaria alteradora - nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

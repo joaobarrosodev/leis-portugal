@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1972-07-28'
+version_history:
+  file: portaria-98-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-02-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1972-07-28'
+    amending: pt:dre:675860:por
+    amending_title: Portaria n.º 416/72
+    changes:
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:58:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 416/72. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1972/portaria-98-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,6 +128,8 @@ b) Com as dimensões de 34,5 mm x 25,6 mm e denteado de 13,5:
 
 3. Os valores correspondentes da série ordinária actualmente em circulação manterão a sua validade postal até 31 de Dezembro de 1972.
 
-O prazo para troca dos selos sobrantes no 3.º Depósito Central dos CTT termina, conforme estabelecido no n.º 4 da [Portaria n.º 266/71](https://diariodarepublica.pt/dr/detalhe/portaria/266-1971-644570), em 31 de Março de 1973.
+O prazo para troca dos selos sobrantes em poder de quaisquer entidades termina em 31 de Março de 1973, devendo a sua devolução ao 3.º Depósito Central ser efectuada até 30 de Junho seguinte, conforme estabelecido no n.º 4 da [Portaria n.º 266/71](https://diariodarepublica.pt/dr/detalhe/portaria/266-1971-644570), com a redacção da presente portaria.
+
+> Alterado pelo/a [Portaria n.º 416/72](https://diariodarepublica.pt/dr/detalhe/portaria/416-1972-675860), publicado em 1972-07-28.
 
 O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

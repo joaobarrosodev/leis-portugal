@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O prazo para troca dos selos sobrantes no 3.º Depósito Central dos CTT termina, conforme estabelecido no n.º 4 da [Portaria n.º 266/71](https://diariodarepublica.pt/dr/detalhe/portaria/266-1971-644570), em 31 de Março de 1973.",
+    "depois": "O prazo para troca dos selos sobrantes em poder de quaisquer entidades termina em 31 de Março de 1973, devendo a sua devolução ao 3.º Depósito Central ser efectuada até 30 de Junho seguinte, conforme estabelecido no n.º 4 da [Portaria n.º 266/71](https://diariodarepublica.pt/dr/detalhe/portaria/266-1971-644570), com a redacção da presente portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:399071:por",
+    "alterador": "pt:dre:675860:por"
+  }
+]

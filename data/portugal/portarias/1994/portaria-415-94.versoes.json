@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:290380:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-06-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "050a782cd4b8951a"
+   ]
+  },
+  {
+   "date": "1997-02-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:555464:por",
+     "title": "Portaria n.º 97/97",
+     "published": "1997-02-12",
+     "dre_path": "/dr/detalhe/portaria/97-1997-555464"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 12-12",
+    "Altera Artigo unidades 17-17"
+   ],
+   "fragments": [
+    "22f5d3ee3745e63b"
+   ]
+  }
+ ],
+ "fragments": {
+  "050a782cd4b8951a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Junho\n\nConsiderando que a protecção da saúde pública e da saúde animal justifica a actualização da lista de ingredientes interditos para utilização nos alimentos compostos para animais;\n\nConsiderando a Decisão n.º [92/508/CEE](http://data.europa.eu/eli/dec/1992/508/oj?locale=pt), de 20 de Outubro de 1992;\n\nConsiderando, por último, que o Conselho Consultivo de Alimentação Animal foi ouvido sobre a matéria, nos termos do artigo 4.º do Decreto-Lei n.º 372/87, de 5 de Dezembro:\n\nManda o Governo, pelo Ministro da Agricultura, ao abrigo da alínea e) do n.º 1 do artigo 13.º do Regulamento da Comercialização de Alimentos Compostos para Animais, aprovado pelo Decreto-Lei n.º 350/90, de 6 de Novembro, que o anexo da Portaria n.º 1212/91, de 20 de Dezembro, seja substituído pelo anexo à presente portaria, da qual faz parte integrante.\n\nMinistério da Agricultura.\n\nAssinada em 23 de Maio de 1994.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\nAnexo a que se refere a Portaria n.º 415/94\n\n1 - Fezes, urina e o conteúdo isolado do aparelho digestivo obtido aquando do esvaziamento ou separação deste, independentemente do tratamento a que foram submetidos ou da mistura realizada.\n\n2 - Peles curtidas, incluindo os curtumes e seus desperdícios.\n\n3 - Sementes, plantas e outros materiais de propagação vegetativa tratados, após colheita, com produtos fitofarmacêuticos e respectivos produtos derivados.\n\n4 - Madeira, serradura e outros materiais derivados da madeira tratados com produtos de conservação.\n\n5 - Lamas provenientes de estações de tratamento de águas residuais.\n\n6 - Resíduos urbanos sólidos, tais como as sobras de mesa das cozinhas domésticas.\n\n7 - Sobras não tratadas dos estabelecimentos alimentares, com excepção dos géneros alimentícios de origem vegetal que por motivos de frescura foram julgados impróprios para o consumo humano.\n\n8 - Embalagens e partes de embalagens provenientes da utilização de produtos da indústria agro-alimentar."
+  },
+  "22f5d3ee3745e63b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1997-02-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 97/97](https://diariodarepublica.pt/dr/detalhe/portaria/97-1997-555464), publicado em 1997-02-12.",
+    "Alterado pelo/a [Portaria n.º 97/97](https://diariodarepublica.pt/dr/detalhe/portaria/97-1997-555464), publicado em 1997-02-12."
+   ],
+   "markdown": "de 28 de Junho\n\nConsiderando que a protecção da saúde pública e da saúde animal justifica a actualização da lista de ingredientes interditos para utilização nos alimentos compostos para animais;\n\nConsiderando a Decisão n.º [92/508/CEE](http://data.europa.eu/eli/dec/1992/508/oj?locale=pt), de 20 de Outubro de 1992;\n\nConsiderando, por último, que o Conselho Consultivo de Alimentação Animal foi ouvido sobre a matéria, nos termos do artigo 4.º do Decreto-Lei n.º 372/87, de 5 de Dezembro:\n\nManda o Governo, pelo Ministro da Agricultura, ao abrigo da alínea e) do n.º 1 do artigo 13.º do Regulamento da Comercialização de Alimentos Compostos para Animais, aprovado pelo Decreto-Lei n.º 350/90, de 6 de Novembro, que o anexo da Portaria n.º 1212/91, de 20 de Dezembro, seja substituído pelo anexo à presente portaria, da qual faz parte integrante.\n\nMinistério da Agricultura.\n\nAssinada em 23 de Maio de 1994.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\nAnexo a que se refere a Portaria n.º 415/94\n\n1 - Fezes, urina e o conteúdo isolado do aparelho digestivo obtido aquando do esvaziamento ou separação deste, independentemente do tratamento a que foram submetidos ou da mistura realizada.\n\n2 - Peles tratadas, incluindo os respectivos desperdícios.\n\n> Alterado pelo/a [Portaria n.º 97/97](https://diariodarepublica.pt/dr/detalhe/portaria/97-1997-555464), publicado em 1997-02-12.\n\n3 - Sementes, plantas e outros materiais de propagação vegetativa tratados, após colheita, com produtos fitofarmacêuticos e respectivos produtos derivados.\n\n4 - Madeira, serradura e outros materiais derivados da madeira tratados com produtos de conservação.\n\n5 - Lamas provenientes de estações de tratamento de águas residuais.\n\n6 - Resíduos urbanos sólidos, tais como as sobras de mesa das cozinhas domésticas.\n\n7 - Sobras não tratadas dos estabelecimentos alimentares, com excepção dos géneros alimentícios de origem vegetal que, por motivos de frescura, foram julgados impróprios para o consumo humano.\n\n> Alterado pelo/a [Portaria n.º 97/97](https://diariodarepublica.pt/dr/detalhe/portaria/97-1997-555464), publicado em 1997-02-12.\n\n8 - Embalagens e partes de embalagens provenientes da utilização de produtos da indústria agro-alimentar."
+  }
+ }
+}

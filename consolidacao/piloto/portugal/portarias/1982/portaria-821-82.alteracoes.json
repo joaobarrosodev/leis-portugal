@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 5-5",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É criado, nos termos da presente portaria, o cartão especial de identificação para uso do pessoal do Serviço Nacional de Protecção Civil.",
+    "depois": "1.º É criado, nos termos da presente portaria, o cartão especial de identificação para uso do pessoal do SNPC, sendo o modelo A, com direito de «Livre trânsito», para os dirigentes e delegados, e o modelo B para os restantes funcionários e agentes do mesmo serviço.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:374629:por",
+    "alterador": "pt:dre:551259:por"
+  },
+  {
+    "artigo": "unidades 7-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º O fundo do cartão será de cor branca, tendo a impressão a preto, de acordo com o modelo anexo.\n\nTerá ainda, na frente, o timbre da República Portuguesa, bem como uma barra oblíqua, no canto superior esquerdo, contendo as cores base da protecção civil, com a largura de 10 mm.",
+    "depois": "3.º O fundo dos cartões será de cor branca e impressão a preto, de acordo com os modelos anexos.\n\nTerão ainda, na frente, o timbre da República Portuguesa, bem como uma barra oblíqua, no canto superior esquerdo, contendo as cores verde e vermelha, com a largura de 10 mm.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:374629:por",
+    "alterador": "pt:dre:551259:por"
+  }
+]

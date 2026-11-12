@@ -1,0 +1,41 @@
+{
+  "id": "pt:dre:286365:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 12,
+      "texto": "2.º Podem ser concedidas ajudas às seguintes acções:\n\na) Construção de pequenas e médias barragens;\n\nb) Construção de açudes;\n\nc) Abertura e revestimento de charcas;\n\nd) Captação de águas subterrâneos (furos e poços);\n\ne) Instalação de pequenas estações de bombagem - construção de reservatórios;\n\nf) Construção das respectivas redes primárias de rega;\n\ng) Melhoria técnica de obras já comparticipadas ao abrigo deste Programa.",
+      "alterador": 2
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "3.º O Programa dispõe de orçamento aprovado para uma segunda fase de três anos, com início em 1991.",
+      "alterador": 2
+    },
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "6.º - 1 - As ajudas a conceder os beneficiários deste Programa serão de 45% para os projectos integrados em zonas não desfavorecidas e de 55% nas zonas desfavorecidas, delimitadas ao abrigo da Directiva n.º [75/268/CEE](http://data.europa.eu/eli/dir/1975/268/oj?locale=pt).\n\n2 - As percentagens referidas no ponto anterior são majoradas de 25% no caso de os agricultores beneficiários se enquadrarem no regime de jovem agricultor, nos termos do artigo 14.º do Decreto-Lei n.º 79-A/87, de 18 de Fevereiro.",
+      "alterador": 1
+    },
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "8.º - 1 - O subsídio máximo a conceder por exploração agrícola é de 25000 contos e a área a beneficiar, por projecto, não poderá exceder 400 ha.\n\n2 - O limite referido no ponto anterior, quanto ao montante de subsídio a conceder, pode, no caso de explorações associadas, ser multiplicado pelo número dessas explorações, não podendo, no entanto, o resultado exceder 75000 contos.\n\n3 - Para efeitos do ponto anterior a exploração agrícola abrange as fracções dela autonomizadas e individualmente geridas.\n\n4 - Não têm acesso às ajudas previstas neste diploma os beneficiários cujas explorações agrícolas sejam abastecidas por redes colectivas de irrigação.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Port. 185/89): nova redação do n.º 6.º -> unidade 16 substituída.",
+    "Alterador 1 (Port. 185/89): nova redação do n.º 8.º -> unidade 21; redação depois substituída integralmente pelo alterador 2, pelo que só fica a redação final.",
+    "Alterador 2 (Port. 454/92): nova redação do n.º 2.º -> unidades 6 a 12 substituídas.",
+    "Alterador 2: nova redação do n.º 3.º -> unidade 13 substituída.",
+    "Alterador 2: nova redação do n.º 8.º -> unidade 21 substituída (redação final)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-02-09'
+version_history:
+  file: portaria-775-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-07-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-02-09'
+    amending: pt:dre:276473:por
+    amending_title: Portaria n.º 109/2002
+    changes:
+    - Adita Artigo depois da unidade 12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/775/2001/07/21/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:34:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 109/2002. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-775-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,6 +149,10 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 a) O período de caça aos patos pelo processo de espera só permitido desde o crepúsculo da manhã (uma hora antes do nascer do Sol) até ao crepúsculo da noite (uma hora após o pôr do Sol);
 
 b) Os limites diários de abate fixados para a perdiz-vermelha, faisão, coelho-bravo e lebre, nos terrenos ordenados, que obedecem aos respectivos planos anuais de exploração.
+
+c) O período de caça à lebre a corricão, que é prorrogado, em zonas de caça, até 24 de Fevereiro de 2002.
+
+> Aditado pelo/a [Portaria n.º 109/2002](https://diariodarepublica.pt/dr/detalhe/portaria/109-2002-276473), publicado em 2002-02-04.
 
 6.º A Direcção-Geral das Florestas e as direcções regionais de agricultura, em razão da sua competência na matéria, estabelecerão por edital, para os terrenos não ordenados, os locais e outros condicionantes venatórios nos períodos referidos no quadro anexo à presente portaria.
 

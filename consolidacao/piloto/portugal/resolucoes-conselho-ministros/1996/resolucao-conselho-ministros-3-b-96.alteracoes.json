@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Para financiamento do défice orçamental com recurso ao mercado de capitais, serão emitidos empréstimos internos, de médio e longo prazos, amortizáveis, denominados e representados por obrigações do Tesouro (OT), até ao montante de 400 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral pela totalidade dos empréstimos.",
+    "depois": "1 - Para financiamento do défice orçamental com recurso ao mercado de capitais, serão emitidos empréstimos internos, de médio e longo prazos, amortizáveis, denominados e representados por obrigações do Tesouro (OT), até ao montante de 600 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral pela totalidade dos empréstimos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:241433:por",
+    "alterador": "pt:dre:157406:por"
+  }
+]

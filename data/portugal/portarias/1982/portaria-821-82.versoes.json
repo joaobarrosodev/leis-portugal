@@ -1,0 +1,58 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:374629:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-08-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b07cce2ac35405c7"
+   ]
+  },
+  {
+   "date": "1990-01-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:551259:por",
+     "title": "Portaria n.º 1113/89",
+     "published": "1989-12-30",
+     "dre_path": "/dr/detalhe/portaria/1113-1989-551259"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-5",
+    "Altera Artigo unidades 7-8"
+   ],
+   "fragments": [
+    "7533e592dbec7478"
+   ]
+  }
+ ],
+ "fragments": {
+  "b07cce2ac35405c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Agosto\n\nConsiderando a conveniência de criar, para todos os funcionários e agentes do Serviço Nacional de Protecção Civil, um meio de identificação que permita o fácil reconhecimento da sua qualidade:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Defesa Nacional, o seguinte:\n\n1.º É criado, nos termos da presente portaria, o cartão especial de identificação para uso do pessoal do Serviço Nacional de Protecção Civil.\n\n2.º O cartão, de forma rectangular, será de acordo com o modelo anexo a esta portaria e terá as dimensões de 105 mm x 74 mm.\n\n3.º O fundo do cartão será de cor branca, tendo a impressão a preto, de acordo com o modelo anexo.\n\nTerá ainda, na frente, o timbre da República Portuguesa, bem como uma barra oblíqua, no canto superior esquerdo, contendo as cores base da protecção civil, com a largura de 10 mm.\n\n4.º As inscrições feitas na frente do cartão relativas ao respectivo número, ao nome, à categoria do titular, à assinatura do presidente do Serviço e à data da emissão deverão situar-se no interior de um rectângulo com as dimensões de 96 mm x 64 mm.\n\nO cartão deve ter igualmente impresso, no canto superior direito, um espaço, com as dimensões de 33 mm x 27 mm, reservado à fotografia do titular.\n\n5.º O cartão será emitido pela Repartição Administrativa e Financeira do Serviço e autenticado com a assinatura do presidente do Serviço Nacional de Protecção Civil e com o selo branco deste, por forma a marcar o canto inferior esquerdo da fotografia.\n\n6.º A Repartição Administrativa e Financeira do Serviço registará os cartões emitidos em livro próprio, com os elementos de identificação julgados convenientes.\n\n7.º O cartão do modelo agora aprovado, bem como o livro de registo a que se refere o artigo anterior, constituem exclusivo da Imprensa Nacional-Casa da Moeda.\n\n8.º O cartão deverá ser substituído quando se verifique qualquer alteração nos elementos dele constantes e será obrigatoriamente devolvido quando o seu titular cessar o exercício das respectivas funções.\n\n9.º Em caso de extravio, destruição ou deterioração será passada uma 2.ª via, de que se fará referência expressa no cartão, mantendo-se, todavia, o número anterior.\n\nSecretaria de Estado da Defesa Nacional, 29 de Julho de 1982. - O Secretário de Estado da Defesa Nacional, Carlos José Sanches Vaz Pardal.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/20000/25442545.pdf)"
+  },
+  "7533e592dbec7478": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1990-01-04",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1113/89](https://diariodarepublica.pt/dr/detalhe/portaria/1113-1989-551259), publicado em 1989-12-30.",
+    "Alterado pelo/a [Portaria n.º 1113/89](https://diariodarepublica.pt/dr/detalhe/portaria/1113-1989-551259), publicado em 1989-12-30."
+   ],
+   "markdown": "de 30 de Agosto\n\nConsiderando a conveniência de criar, para todos os funcionários e agentes do Serviço Nacional de Protecção Civil, um meio de identificação que permita o fácil reconhecimento da sua qualidade:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Defesa Nacional, o seguinte:\n\n1.º É criado, nos termos da presente portaria, o cartão especial de identificação para uso do pessoal do SNPC, sendo o modelo A, com direito de «Livre trânsito», para os dirigentes e delegados, e o modelo B para os restantes funcionários e agentes do mesmo serviço.\n\n> Alterado pelo/a [Portaria n.º 1113/89](https://diariodarepublica.pt/dr/detalhe/portaria/1113-1989-551259), publicado em 1989-12-30.\n\n2.º O cartão, de forma rectangular, será de acordo com o modelo anexo a esta portaria e terá as dimensões de 105 mm x 74 mm.\n\n3.º O fundo dos cartões será de cor branca e impressão a preto, de acordo com os modelos anexos.\n\nTerão ainda, na frente, o timbre da República Portuguesa, bem como uma barra oblíqua, no canto superior esquerdo, contendo as cores verde e vermelha, com a largura de 10 mm.\n\n> Alterado pelo/a [Portaria n.º 1113/89](https://diariodarepublica.pt/dr/detalhe/portaria/1113-1989-551259), publicado em 1989-12-30.\n\n4.º As inscrições feitas na frente do cartão relativas ao respectivo número, ao nome, à categoria do titular, à assinatura do presidente do Serviço e à data da emissão deverão situar-se no interior de um rectângulo com as dimensões de 96 mm x 64 mm.\n\nO cartão deve ter igualmente impresso, no canto superior direito, um espaço, com as dimensões de 33 mm x 27 mm, reservado à fotografia do titular.\n\n5.º O cartão será emitido pela Repartição Administrativa e Financeira do Serviço e autenticado com a assinatura do presidente do Serviço Nacional de Protecção Civil e com o selo branco deste, por forma a marcar o canto inferior esquerdo da fotografia.\n\n6.º A Repartição Administrativa e Financeira do Serviço registará os cartões emitidos em livro próprio, com os elementos de identificação julgados convenientes.\n\n7.º O cartão do modelo agora aprovado, bem como o livro de registo a que se refere o artigo anterior, constituem exclusivo da Imprensa Nacional-Casa da Moeda.\n\n8.º O cartão deverá ser substituído quando se verifique qualquer alteração nos elementos dele constantes e será obrigatoriamente devolvido quando o seu titular cessar o exercício das respectivas funções.\n\n9.º Em caso de extravio, destruição ou deterioração será passada uma 2.ª via, de que se fará referência expressa no cartão, mantendo-se, todavia, o número anterior.\n\nSecretaria de Estado da Defesa Nacional, 29 de Julho de 1982. - O Secretário de Estado da Defesa Nacional, Carlos José Sanches Vaz Pardal.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/20000/25442545.pdf)"
+  }
+ }
+}

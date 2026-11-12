@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:301412:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "O artigo 4.º, n.º 2, alínea a), do Decreto-Lei n.º 159/2004 revoga o Decreto-Lei n.º 165/94 só após a entrada em vigor da portaria referida no seu artigo 2.º (facto futuro), pelo que a revogação não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DL 159/2004), art. 4.º, n.º 2, a): revogação de todo o DL 165/94 diferida para a entrada em vigor da portaria da tabela de taxas — não aplicada (nao_aplicavel).",
+    "Alterador 1, art. 4.º, n.º 1: revogação genérica de disposições avulsas sobre taxas, também diferida — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

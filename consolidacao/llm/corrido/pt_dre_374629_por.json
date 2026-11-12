@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:374629:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1.º É criado, nos termos da presente portaria, o cartão especial de identificação para uso do pessoal do SNPC, sendo o modelo A, com direito de «Livre trânsito», para os dirigentes e delegados, e o modelo B para os restantes funcionários e agentes do mesmo serviço.",
+      "alterador": 1
+    },
+    {
+      "de": 7,
+      "ate": 8,
+      "texto": "3.º O fundo dos cartões será de cor branca e impressão a preto, de acordo com os modelos anexos.\n\nTerão ainda, na frente, o timbre da República Portuguesa, bem como uma barra oblíqua, no canto superior esquerdo, contendo as cores verde e vermelha, com a largura de 10 mm.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Os novos modelos A e B do cartão (anexo da Portaria n.º 1113/89) só existem em imagem no documento original, pelo que o anexo (unidade 17) não foi alterado.",
+  "instrucoes": [
+    "Portaria 1113/89 dá nova redação ao n.º 1.º (unidade 5 substituída)",
+    "Nova redação do n.º 3.º, dois parágrafos (unidades 7-8 substituídas); 2.º e 4.º a 9.º com '...' mantêm-se",
+    "Novos modelos anexos só em imagem: nao_aplicavel"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

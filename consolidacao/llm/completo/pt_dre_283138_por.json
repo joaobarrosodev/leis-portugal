@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:283138:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Âmbito material",
+      "texto": "1 - O PDM contém o enquadramento urbanístico aplicável ao nível da unidade operativa de planeamento e gestão, dos programas estratégicos e dos restantes espaços nele previstos, segundo os pressupostos e parâmetros que condicionaram a sua elaboração.\n\n2 - Sem prejuízo do disposto no número anterior, os indicadores urbanísticos contidos no PDM são referidos globalmente ao concelho, cabendo a sua gestão ao município.\n\n3 - A aplicação dos indicadores relativos às projecções do cenário demográfico por aglomerado é feita em função da avaliação concreta das diferentes situações, podendo a mobilidade populacional verificar-se entre aglomerados urbanos, no respeito do cenário demográfico global estimado para o município e dos índices urbanísticos estabelecidos para cada um dos espaços, promovendo-se a adequação dos equipamentos previstos quando tal se mostre necessário.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (RCM 65/95): nova redação do n.º 3 do artigo 2.º do Regulamento; aplicada, n.os 1 e 2 mantidos.",
+    "Alterador 2 (Aviso 10445/2015): vem sem texto nenhum no pedido; nenhuma instrução dirigida ao original a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

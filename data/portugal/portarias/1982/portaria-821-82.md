@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-01-04'
+version_history:
+  file: portaria-821-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-08-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-01-04'
+    amending: pt:dre:551259:por
+    amending_title: Portaria n.º 1113/89
+    changes:
+    - Altera Artigo unidades 5-5
+    - Altera Artigo unidades 7-8
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:25:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1113/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-821-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -95,13 +111,17 @@ Considerando a conveniência de criar, para todos os funcionários e agentes do 
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Defesa Nacional, o seguinte:
 
-1.º É criado, nos termos da presente portaria, o cartão especial de identificação para uso do pessoal do Serviço Nacional de Protecção Civil.
+1.º É criado, nos termos da presente portaria, o cartão especial de identificação para uso do pessoal do SNPC, sendo o modelo A, com direito de «Livre trânsito», para os dirigentes e delegados, e o modelo B para os restantes funcionários e agentes do mesmo serviço.
+
+> Alterado pelo/a [Portaria n.º 1113/89](https://diariodarepublica.pt/dr/detalhe/portaria/1113-1989-551259), publicado em 1989-12-30.
 
 2.º O cartão, de forma rectangular, será de acordo com o modelo anexo a esta portaria e terá as dimensões de 105 mm x 74 mm.
 
-3.º O fundo do cartão será de cor branca, tendo a impressão a preto, de acordo com o modelo anexo.
+3.º O fundo dos cartões será de cor branca e impressão a preto, de acordo com os modelos anexos.
 
-Terá ainda, na frente, o timbre da República Portuguesa, bem como uma barra oblíqua, no canto superior esquerdo, contendo as cores base da protecção civil, com a largura de 10 mm.
+Terão ainda, na frente, o timbre da República Portuguesa, bem como uma barra oblíqua, no canto superior esquerdo, contendo as cores verde e vermelha, com a largura de 10 mm.
+
+> Alterado pelo/a [Portaria n.º 1113/89](https://diariodarepublica.pt/dr/detalhe/portaria/1113-1989-551259), publicado em 1989-12-30.
 
 4.º As inscrições feitas na frente do cartão relativas ao respectivo número, ao nome, à categoria do titular, à assinatura do presidente do Serviço e à data da emissão deverão situar-se no interior de um rectângulo com as dimensões de 96 mm x 64 mm.
 

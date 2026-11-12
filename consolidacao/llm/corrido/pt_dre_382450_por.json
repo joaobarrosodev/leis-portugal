@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:382450:por",
+  "substituicoes": [
+    {
+      "de": 33,
+      "ate": 33,
+      "texto": "12 - Os médicos habilitados com o internato de especialidades que, a título eventual, se encontrem a trabalhar nos hospitais centrais e não fiquem abrangidos pelas situações especificadas nos números anteriores poderão ser, se assim o desejarem, admitidos, a título eventual, em hospitais centrais e distritais, sendo-lhes atribuído o terceiro grau de prioridade no processo de distribuição referido nos n.os 9 e 10.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 33,
+      "texto": "13 - Os médicos a que se refere o número anterior procederão à escolha por ordem das classificações finais do internato e ficarão abrangidos pela disposição constante do n.º 8.\n\n14 - Os médicos que, pela presente resolução, tenham a possibilidade de ser distribuídos por hospitais centrais ou distritais e que não aceitem a distribuição que lhes competir, serão dispensados do serviço no prazo de sessenta dias, a contar da data em que se realizarem, para as respectivas especialidades, os processos de escolha previstos no n.º 10.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Resolução n.º 202/79, a): nova redação do n.º 12 — substituída a unidade 33.",
+    "Resolução n.º 202/79, b): aditados os n.os 13 e 14 — inseridos a seguir à unidade 33."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-01-10'
+version_history:
+  file: portaria-849-c-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-10'
+    amending: pt:dre:262337:por
+    amending_title: Portaria n.º 24/2007
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/849-c/2001/07/25/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:34:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 24/2007. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-849-c-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -187,7 +202,9 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 1.º Pela presente portaria é criada a zona de caça municipal de Portimão (processo n.º 2668-DGF), pelo período de seis anos, e transferida a sua gestão para a Federação de Caça do Sul de Portugal, com o número de pessoa colectiva 503603880 e sede na Rua de João de Deus, 11, Portimão.
 
-2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos nas freguesias de Portimão e Mexilhoeira Grande, município de Portimão, com a área de 7119,95 ha.
+2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Portimão e Mexilhoeira Grande, município de Portimão, com a área de 7105 ha.
+
+> Alterado pelo/a [Portaria n.º 24/2007](https://diariodarepublica.pt/dr/detalhe/portaria/24-2007-262337), publicado em 2007-01-05.
 
 3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:
 

@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-07-31'
+version_history:
+  file: portaria-454-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-05-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-07-31'
+    amending: pt:dre:506977:por
+    amending_title: Portaria n.º 920/2004
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/454/2004/05/03/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:59:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 920/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-454-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,7 +152,9 @@ Ouvidos os Conselhos Cinegéticos Municipais de Meda e Trancoso:
 
 Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
 
-1.º Pela presente portaria é concessionada, pelo período de seis anos, renovável automaticamente por dois períodos iguais, à Associação de Caça e Pesca da Freguesia de Moreira de Rei, com o número de pessoa colectiva 506111422 e sede em Moreira de Rei, 6402-506 Moreira de Rei, a zona de caça associativa de Moreira de Rei II (processo n.º 3624-DGF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Carvalhal e Casteição, município de Meda, com a área de 273 ha, e na freguesia de Moreira de Rei, município de Trancoso, com a área de 1546 ha, perfazendo o total de 1819 ha.
+1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por dois períodos iguais, à Associação de Caça e Pesca da Freguesia de Moreira de Rei, com o número de pessoa colectiva 506111422, com sede em Moreira de Rei, 6420-506 Moreira de Rei, a zona de caça associativa de Moreira de Rei II (processo n.º 3624-DGF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Carvalhal e Casteição, município de Meda, com a área de 273 ha, e na freguesia de Moreira de Rei, município, de Trancoso, com a área de 1546 ha, perfazendo um total de 1819 ha.
+
+> Alterado pelo/a [Portaria n.º 920/2004](https://diariodarepublica.pt/dr/detalhe/portaria/920-2004-506977), publicado em 2004-07-26.
 
 2.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
 

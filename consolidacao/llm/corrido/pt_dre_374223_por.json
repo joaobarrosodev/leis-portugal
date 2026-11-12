@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:374223:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "2 - A segunda prestação será paga após apresentação pela entidade promotora nos serviços regionais do MAPA de um relatório final da mesma e dos documentos comprovativos das despesas efectuadas. A apresentação do relatório final deve ocorrer até dois meses após o termo da acção de formação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 182/90 dá nova redação ao n.º 2 do n.º 6.º (unidade 16 substituída); n.º 1 com '...' mantém-se"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

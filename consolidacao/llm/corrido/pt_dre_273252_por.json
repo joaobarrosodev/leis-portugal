@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:273252:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "§ 1.º Não havendo alunos nas condições referidas, o Prémio será atribuído ao aluno com maior média de classificações nas disciplinas de Química Inorgânica Geral, Química Orgânica Geral e Química Física Geral e com classificação mínima de 14 valores em cada uma.\n\n§ 2.º No caso de as disciplinas atrás mencionadas deixarem de figurar nos planos de estudo, o conselho científico da Faculdade fixará as disciplinas a considerar para a atribuição do Prémio.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 372/79): nova redação do art. 2.º; corpo com '...' fica igual (unidade 6); § único passa a § 1.º (redação nova) e § 2.º novo; substituída pela redação do alterador 2.",
+    "Alterador 2 (Portaria 415/79): nova redação do art. 2.º (repete a do alterador 1 com pequenas diferenças: 'conselho científico', 'para a atribuição'); aplicada como redação final: unidade 7 substituída por § 1.º e § 2.º."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

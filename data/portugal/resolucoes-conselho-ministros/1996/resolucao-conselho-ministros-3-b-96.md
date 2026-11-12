@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-07-20'
+version_history:
+  file: resolucao-conselho-ministros-3-b-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-01-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-07-20'
+    amending: pt:dre:157406:por
+    amending_title: Resolução do Conselho de Ministros n.º 108-A/96
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/3-b/1996/01/13/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:15:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 108-A/96. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1996/resolucao-conselho-ministros-3-b-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,7 +150,9 @@ Assim:
 
 Nos termos do artigo 15.º da [Lei n.º 6/91](https://diariodarepublica.pt/dr/detalhe/lei/6-1991-487123), de 20 de Fevereiro, e das alíneas c) e g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
 
-1 - Para financiamento do défice orçamental com recurso ao mercado de capitais, serão emitidos empréstimos internos, de médio e longo prazos, amortizáveis, denominados e representados por obrigações do Tesouro (OT), até ao montante de 400 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral pela totalidade dos empréstimos.
+1 - Para financiamento do défice orçamental com recurso ao mercado de capitais, serão emitidos empréstimos internos, de médio e longo prazos, amortizáveis, denominados e representados por obrigações do Tesouro (OT), até ao montante de 600 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral pela totalidade dos empréstimos.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 108-A/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/108-a-1996-157406), publicado em 1996-07-15.
 
 2 - Por despacho do Ministro das Finanças, poderão ser abatidos os montantes não colocados destes empréstimos e aumentados, no mesmo valor, os montantes de outros empréstimos autorizados, sendo, neste caso, feitas as respectivas alterações aos limites das correspondentes obrigações gerais.
 

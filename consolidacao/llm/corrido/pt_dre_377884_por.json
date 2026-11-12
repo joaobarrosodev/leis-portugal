@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:377884:por",
+  "substituicoes": [
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "8.º - 1 - Os depósitos de poupança-crédito vencem juros à taxa atribuída aos depósitos a prazo de 180 dias, que serão contados ao semestre e capitalizados ou não na própria conta, segundo vontade expressa do depositante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 505/82: nova redação do n.º 8.º, n.º 1 — substituída a unidade 32, mantendo o prefixo '8.º - 1 - '."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:328817:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "alterador": 1,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Portimão e Mexilhoeira Grande, município de Portimão, com a área de 7105 ha."
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2 a 9 (Portarias n.os 975/2007, 322/2008, 882/2008, 268/2009, 525/2009, 1336/2009, 401/2010 e 18/2011) renovam a zona de caça, anexam e excluem terrenos por disposições próprias, sem dar nova redação a nenhum ponto do original: não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º (área de 7105 ha) -> substituída a unidade 7, mantendo o número '2.º'.",
+    "Alteradores 2 a 9: renovação, anexações e exclusões sem nova redação -> não aplicadas (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

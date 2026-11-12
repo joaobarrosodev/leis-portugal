@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:328817:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-07-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "85a00abb79c58eb3"
+   ]
+  },
+  {
+   "date": "2007-01-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:262337:por",
+     "title": "Portaria n.º 24/2007",
+     "published": "2007-01-05",
+     "dre_path": "/dr/detalhe/portaria/24-2007-262337"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "852aef127f60e8ec"
+   ]
+  }
+ ],
+ "fragments": {
+  "85a00abb79c58eb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Julho\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro;\n\nOuvido o Conselho Cinegético Municipal de Portimão:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Portimão (processo n.º 2668-DGF), pelo período de seis anos, e transferida a sua gestão para a Federação de Caça do Sul de Portugal, com o número de pessoa colectiva 503603880 e sede na Rua de João de Deus, 11, Portimão.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos nas freguesias de Portimão e Mexilhoeira Grande, município de Portimão, com a área de 7119,95 ha.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 20%, relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 30%, relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 40%, relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 10%, aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva DRA, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça municipal será obrigatoriamente sinalizada com tabuletas do modelo n.º 2 e sinal do modelo n.º 10 definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.\n\n7.º A eficácia da transferência está dependente de prévia sinalização, de acordo com as condições definidas na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974).\n\n8.º Com carácter excepcional, justificado pela alteração anormal das circunstâncias, motivada pela complexidade de procedimentos inerentes à entrada em vigor e consequente execução da [Lei n.º 173/99](https://diariodarepublica.pt/dr/detalhe/lei/173-1999-558207), de 21 de Setembro, e do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, e em benefício do princípio da prossecução do interesse público e da protecção dos direitos e interesses dos cidadãos, não se aplica o determinado no n.º 3 do n.º 7.º da [Portaria n.º 467/2001](https://diariodarepublica.pt/dr/detalhe/portaria/467-2001-316162), de 8 de Maio.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 18 de Julho de 2001.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2001/07/171b01/00030004.pdf)"
+  },
+  "852aef127f60e8ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2007-01-10",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 24/2007](https://diariodarepublica.pt/dr/detalhe/portaria/24-2007-262337), publicado em 2007-01-05."
+   ],
+   "markdown": "de 25 de Julho\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro;\n\nOuvido o Conselho Cinegético Municipal de Portimão:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Portimão (processo n.º 2668-DGF), pelo período de seis anos, e transferida a sua gestão para a Federação de Caça do Sul de Portugal, com o número de pessoa colectiva 503603880 e sede na Rua de João de Deus, 11, Portimão.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Portimão e Mexilhoeira Grande, município de Portimão, com a área de 7105 ha.\n\n> Alterado pelo/a [Portaria n.º 24/2007](https://diariodarepublica.pt/dr/detalhe/portaria/24-2007-262337), publicado em 2007-01-05.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 20%, relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 30%, relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 40%, relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 10%, aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva DRA, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça municipal será obrigatoriamente sinalizada com tabuletas do modelo n.º 2 e sinal do modelo n.º 10 definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.\n\n7.º A eficácia da transferência está dependente de prévia sinalização, de acordo com as condições definidas na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974).\n\n8.º Com carácter excepcional, justificado pela alteração anormal das circunstâncias, motivada pela complexidade de procedimentos inerentes à entrada em vigor e consequente execução da [Lei n.º 173/99](https://diariodarepublica.pt/dr/detalhe/lei/173-1999-558207), de 21 de Setembro, e do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, e em benefício do princípio da prossecução do interesse público e da protecção dos direitos e interesses dos cidadãos, não se aplica o determinado no n.º 3 do n.º 7.º da [Portaria n.º 467/2001](https://diariodarepublica.pt/dr/detalhe/portaria/467-2001-316162), de 8 de Maio.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 18 de Julho de 2001.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2001/07/171b01/00030004.pdf)"
+  }
+ }
+}

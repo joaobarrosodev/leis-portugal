@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:245307:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de São Simão, município de Nisa, com a área de 1361 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 1208/2008 (alterador 2): a anexação de prédios rústicos (área total de 1415 ha) e a nova planta não alteram textualmente nenhum ponto da Portaria n.º 734/2005; as plantas novas só existem em imagem.",
+  "instrucoes": [
+    "Portaria 226/2007: nova redação do n.º 2.º; substituída a unidade 7 mantendo o número '2.º'.",
+    "Portaria 1208/2008: anexação de prédios e manutenção da área de condicionamento sem alteração textual do original; não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 6-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º As acções a empreender são essencialmente:\n\nConstrução de pequenas e médias barragens;\n\nConstrução de açudes;\n\nAbertura e revestimento de charcas;\n\nCaptação de águas subterrâneas (furos e poços);\n\nInstalação das respectivas redes primárias de rega;\n\nAquisição do equipamento de bombagem.",
+    "depois": "2.º Podem ser concedidas ajudas às seguintes acções:\n\na) Construção de pequenas e médias barragens;\n\nb) Construção de açudes;\n\nc) Abertura e revestimento de charcas;\n\nd) Captação de águas subterrâneos (furos e poços);\n\ne) Instalação de pequenas estações de bombagem - construção de reservatórios;\n\nf) Construção das respectivas redes primárias de rega;\n\ng) Melhoria técnica de obras já comparticipadas ao abrigo deste Programa.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:286365:por",
+    "alterador": "pt:dre:516888:por;pt:dre:613183:por"
+  },
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º O Programa tem a duração de dez anos e dispõe de orçamento aprovado para uma 1.ª fase de quatro anos.",
+    "depois": "3.º O Programa dispõe de orçamento aprovado para uma segunda fase de três anos, com início em 1991.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:286365:por",
+    "alterador": "pt:dre:516888:por;pt:dre:613183:por"
+  },
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º As ajudas a conceder aos beneficiários deste Programa serão de 70% para os projectos integrados nas zonas desfavorecidas e de 60% nas zonas restantes, delimitadas ao abrigo da Directiva n.º [75/268/CEE](http://data.europa.eu/eli/dir/1975/268/oj?locale=pt).",
+    "depois": "6.º - 1 - As ajudas a conceder os beneficiários deste Programa serão de 45% para os projectos integrados em zonas não desfavorecidas e de 55% nas zonas desfavorecidas, delimitadas ao abrigo da Directiva n.º [75/268/CEE](http://data.europa.eu/eli/dir/1975/268/oj?locale=pt).\n\n2 - As percentagens referidas no ponto anterior são majoradas de 25% no caso de os agricultores beneficiários se enquadrarem no regime de jovem agricultor, nos termos do artigo 14.º do Decreto-Lei n.º 79-A/87, de 18 de Fevereiro.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:286365:por",
+    "alterador": "pt:dre:516888:por;pt:dre:613183:por"
+  },
+  {
+    "artigo": "unidades 21-21",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "8.º O subsídio máximo a conceder por exploração agrícola é de 15000 contos e a área a beneficiar, por projecto, não poderá exceder os 400 ha. Não têm acesso a estas ajudas as explorações agrícolas que sejam abastecidas por redes colectivas de irrigação.",
+    "depois": "8.º - 1 - O subsídio máximo a conceder por exploração agrícola é de 25000 contos e a área a beneficiar, por projecto, não poderá exceder 400 ha.\n\n2 - O limite referido no ponto anterior, quanto ao montante de subsídio a conceder, pode, no caso de explorações associadas, ser multiplicado pelo número dessas explorações, não podendo, no entanto, o resultado exceder 75000 contos.\n\n3 - Para efeitos do ponto anterior a exploração agrícola abrange as fracções dela autonomizadas e individualmente geridas.\n\n4 - Não têm acesso às ajudas previstas neste diploma os beneficiários cujas explorações agrícolas sejam abastecidas por redes colectivas de irrigação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:286365:por",
+    "alterador": "pt:dre:516888:por;pt:dre:613183:por"
+  }
+]

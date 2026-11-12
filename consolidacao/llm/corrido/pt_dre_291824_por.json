@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:291824:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Odeceixe, Rogil e Aljezur, município de Aljezur, com a área de 16 164 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2 a 5: renovação, anexações e exclusões de terrenos (com novas plantas e áreas) feitas por disposições próprias, sem instrução de alteração textual do original.",
+  "instrucoes": [
+    "Alt. 1: nova redação do n.º 2.º (área 16 164 ha) - substituída a unidade 7, mantendo a numeração 2.º",
+    "Alt. 2: renovação por 6 anos e anexação de 5498 ha - sem alteração textual, não aplicada",
+    "Alt. 3: exclusão de 890 ha da ZCM de Aljezur - sem alteração textual, não aplicada",
+    "Alt. 4: exclusão de 136 ha - sem alteração textual, não aplicada",
+    "Alt. 5: exclusão de 374 ha - sem alteração textual, não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

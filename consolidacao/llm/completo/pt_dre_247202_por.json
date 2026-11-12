@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:247202:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Condições de acesso",
+      "texto": "1 - Os Promotores dos projectos deverão:\n\na) Demonstrar que possuem capacidade técnico-científica, económica, financeira, comercial e de gestão adequadas à dimensão e características dos projectos propostos;\n\nb) Comprovar que dispõem de contabilidade adequada às analises requeridas para apreciação e acompanhamento dos projectos;\n\nc) Comprovar que não são devedores ao Estado e à Segurança Social de quaisquer contribuições, impostos, quotizações e outras importâncias ou que o seu pagamento está assegurado, sendo dispensadas do cumprimento desta obrigação as sociedades constituídas nos 90 dias anteriores à candidatura.\n\nd) Comprovar terem requerido o registo para efeitos do cadastro industrial ou comprometerem-se a requerê-lo no prazo de 30 dias, quando aplicável.\n\n2 - Os projectos a apoiar deverão:\n\na) Ser enquadráveis e observar o disposto no Programa Missões de Qualidade e Design Industrial do PEDIP;\n\nb) Possuir interesse geral para a indústria portuguesa e para o implemento da política para a qualidade e design industrial;\n\nc) Apresentar financiamento adequado por forma a que o equilíbrio financeiro do promotor não seja comprometido;\n\nd) Ter início após a data de apresentação da candidatura, com excepção da aquisição do terreno e da realização de estudos prévios.\n\n3 - Para os efeitos da alínea d) do número anterior, considera-se início do projecto a data da factura mais antiga relativa a pagamentos efectuados no âmbito do mesmo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DN 100/91): nova redação da alínea c) do n.º 1 do artigo 2.º; aplicada, resto do artigo mantido (\"...\").",
+    "Alterador 2: repetição do mesmo DN 100/91 com a mesma instrução; já aplicada, sem nova mudança."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

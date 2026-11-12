@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:391441:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Pelo presente diploma é renovada, por um período de seis anos, a concessão da zona de caça turística da Herdade do Pedrógão e outras (processo n.º 320-DGF), abrangendo vários prédios rústicos sitos nas freguesias de Nossa Senhora do Bispo e Lavre, município de Montemor-o-Novo, com uma área de 3554,80 ha.",
+      "alterador": 1
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "3.º A Cooperativa de Regantes do Lavre, C. R. L., fica ainda obrigada a cumprir e a fazer cumprir o plano de aproveitamento turístico aprovado, designadamente a legalizar o alojamento particular no prazo de 30 dias, a proceder à introdução, no prazo de oito meses, no pavilhão de caça, sito no Monte do Azinhalinho, das alterações e equipamentos determinados pela Direcção-Geral do Turismo e a legalizar, no mesmo prazo, o alojamento existente na zona de caça turística.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 3 (Portaria n.º 27/2007) revoga a concessão da zona de caça, um ato administrativo, sem instrução textual sobre a Portaria n.º 544-B/96; alterador 2 é uma nova renovação autónoma, sem instrução dirigida ao texto do original.",
+  "instrucoes": [
+    "Alterador 1: nova redação dos n.os 1.º e 3.º; substituídas as unidades 8 e 10.",
+    "Alterador 2: renova a concessão por portaria própria; sem alteração textual ao original, nada aplicado.",
+    "Alterador 3: revoga a concessão (não o texto do diploma); não aplicado, ver nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 10-10: parágrafo que não está no alterador nem no original: 3.º A Cooperativa de Regantes do Lavre, C. R. L., fica ainda obrigada a cumprir "
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:284309:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1.º Pela presente portaria é criada a zona de caça municipal da Marinha Grande (processo n.º 3759-DGRF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores do Concelho da Marinha Grande, com o número de pessoa colectiva 501965777 e sede na Rua 3, Várzea, 2430-521 Marinha Grande, e para o Clube de Caça e Pesca da Vieira, com o número de pessoa colectiva 502222050 e sede na Rua do Mercado, 4, 2430-777 Vieira de Leiria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria 449/2007) anexa prédios (área total 14291 ha) e alterador 3 (Portaria 483/2010) renova a transferência de gestão com 10 180 ha e nova planta: não dão nova redação a nenhum ponto do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1276/2004): nova redação do n.º 1.º (acrescenta o Clube de Caça e Pesca da Vieira); unidade 5 substituída.",
+    "Alterador 2 (Portaria 449/2007): anexação de terrenos sem instrução textual; não aplicado.",
+    "Alterador 3 (Portaria 483/2010): renovação da transferência de gestão sem instrução textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

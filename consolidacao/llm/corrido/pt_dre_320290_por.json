@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:320290:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "alterador": 1,
+      "texto": "1 - São atribuições da Delegação de Leiria as definidas no artigo 16.º da portaria que aprova a estrutura orgânica interna do IGFSS, nomeadamente:"
+    },
+    {
+      "de": 15,
+      "ate": 28,
+      "alterador": 1,
+      "texto": "c) Proceder à inscrição dos contribuintes e manter actualizada a respectiva conta corrente, bem como o cadastro no que respeita às mesmas entidades;\n\nd) Conferir, de acordo com a legislação em vigor, as taxas contributivas aplicáveis, que respeitem exclusivamente à actividade ou fins prosseguidos pelo contribuinte;\n\ne) Decidir sobre os requerimentos de dispensa temporária do pagamento de contribuições, reduções e isenções de taxa, cuja redução ou isenção tenha como fundamento exclusivamente a actividade ou fins prosseguidos pelo contribuinte;\n\nf) Decidir sobre os procedimentos de reembolso de contribuições;\n\ng) Analisar o comportamento dos contribuintes e proceder, sempre que necessário, à instauração e instrução dos processos de execução atinentes à relação jurídica contributiva e outros tipos de dívida à segurança social;\n\nh) Controlar as dívidas à segurança social através da execução das orientações superiormente definidas;\n\ni) Promover ou colaborar na regularização das dívidas através da utilização de todos os meios legais;\n\nj) Gerir os acordos de regularização das dívidas, controlando o seu cumprimento e promovendo a sua rescisão;\n\nk) Emitir as declarações de situação contributiva cuja competência esteja cometida ao IGFSS, nos termos legais e regulamentares;\n\nl) Proceder à fiscalização dos contribuintes;\n\nm) Reclamar os créditos da segurança social nos processos judiciais e assegurar o respectivo patrocínio judicial pelo IGFSS;\n\nn) Acompanhar os processos penais relativos a crimes praticados por contribuintes, instruir processos de contra-ordenações e promover a execução judicial respectiva;\n\no) Proceder à identificação de bens penhoráveis ou hipotecáveis para garantia dos créditos por contribuições em dívida à segurança social;\n\np) Elaborar o respectivo orçamento, geri-lo e proceder ao acompanhamento da sua execução;\n\nq) Realizar as acções necessárias à administração e alienação dos bens imóveis na titularidade do IGFSS e manter o respectivo cadastro;\n\nr) Executar os procedimentos contabilísticos inerentes ao seu funcionamento;\n\ns) Gerir o seu pessoal;\n\nt) Executar as tarefas de gestão corrente.\n\n2 - Nos termos do dispositivo do n.º 2 do artigo 16.º da [Portaria n.º 409/2000](https://diariodarepublica.pt/dr/detalhe/portaria/409-2000-320275), de l7 de Julho, sempre que a racionalização de meios disponíveis o aconselhe, fica autorizado o conselho directivo a, na área dos imóveis, cometer às delegações atribuições que ultrapassem o âmbito geográfico do respectivo distrito."
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 28,
+      "alterador": 1,
+      "texto": "2.º-A\n\nInscrição\n\nO artigo 19.º da [Portaria n.º 410/2000](https://diariodarepublica.pt/dr/detalhe/portaria/410-2000-320290), de 17 de Julho, aplica-se com as devidas adaptações e nos seus precisos termos."
+    }
+  ],
+  "nao_aplicavel": "Decreto-Lei n.º 112/2004 (alterador 2), art. 2.º, extingue as delegações distritais do IGFSS criadas por esta portaria, integrando as atribuições no ISSS, sem revogar nem alterar textualmente a portaria: não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º a 3.º: alteram a Portaria n.º 409/2000 -> ignorados.",
+    "Alterador 1, n.º 4.º: nova redação do n.º 2.º (corpo passa a n.º 1; novas alíneas c) a g) e p); antigas e) a l) passam a h) a o) e m) a p) passam a q) a t); novo n.º 2) -> unidade 12 com '1 - ' e unidades 15-28 substituídas.",
+    "Alterador 1, n.º 5.º: aditado o n.º 2.º-A (Inscrição) -> inserido depois da unidade 28.",
+    "Alterador 2: extinção das delegações e alterações a outros diplomas -> não aplicada ao texto (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

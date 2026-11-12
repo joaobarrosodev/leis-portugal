@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:290380:por",
+  "substituicoes": [
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "2 - Peles tratadas, incluindo os respectivos desperdícios.",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "7 - Sobras não tratadas dos estabelecimentos alimentares, com excepção dos géneros alimentícios de origem vegetal que, por motivos de frescura, foram julgados impróprios para o consumo humano.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Port. 97/97): substitui o anexo; comparado ponto a ponto, só mudam o ponto 2 (unidade 12) e o ponto 7 (unidade 17, vírgulas); os restantes pontos são idênticos e ficam."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

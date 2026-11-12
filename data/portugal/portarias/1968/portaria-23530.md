@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-08-10'
+version_history:
+  file: portaria-23530.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-08-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-08-10'
+    amending: pt:dre:377697:por
+    amending_title: Portaria n.º 415/79
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:48:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 415/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1968/portaria-23530.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,7 +127,11 @@ Artigo 1.º É instituído na Faculdade de Ciências da Universidade do Porto o 
 
 Art. 2.º O Prémio será atribuído anualmente ao aluno distinto mais classificado na disciplina de Química Física Geral que tenha revelado gosto e aptidões para a investigação.
 
-§ único. Não havendo alunos nas condições referidas, o Prémio será atribuído ao aluno com mais elevada média de classificações nas disciplinas de Química Inorgânica Geral, Química Orgânica Geral e Química Física Geral e com a classificação mínima de 14 valores em cada uma.
+§ 1.º Não havendo alunos nas condições referidas, o Prémio será atribuído ao aluno com maior média de classificações nas disciplinas de Química Inorgânica Geral, Química Orgânica Geral e Química Física Geral e com classificação mínima de 14 valores em cada uma.
+
+§ 2.º No caso de as disciplinas atrás mencionadas deixarem de figurar nos planos de estudo, o conselho científico da Faculdade fixará as disciplinas a considerar para a atribuição do Prémio.
+
+> Alterado pelo/a [Portaria n.º 415/79](https://diariodarepublica.pt/dr/detalhe/portaria/415-1979-377697), publicado em 1979-08-10.
 
 Art. 3.º As importâncias dos prémios que não forem atribuídas em qualquer ano, por falta de candidatos nas condições exigidas, transitarão para o ano seguinte, podendo, deste modo, ser distribuídos vários prémios no mesmo ano.
 

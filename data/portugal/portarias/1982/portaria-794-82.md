@@ -29,10 +29,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-06-03'
+version_history:
+  file: portaria-794-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-08-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-06-03'
+    amending: pt:dre:177455:por
+    amending_title: Portaria n.º 696/85; Portaria n.º 450/87
+    changes:
+    - Altera Artigo unidades 4-4
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 14-14
+    - Adita Artigo depois da unidade 14
+    - Altera Artigo unidades 15-17
+    - Altera Artigo unidades 21-21
 identifiers:
   celex: null
   eli: null
@@ -58,7 +77,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:25:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 696/85; Portaria n.º
+    450/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-794-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,7 +146,9 @@ de 21 de Agosto
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento, nos termos do disposto no § único do artigo 4.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, o seguinte:
 
-1.º É autorizada a empresa SPC - Serviço Português de Contentores, S. A. R. L., a estabelecer um terminal de carga para mercadorias transportadas por via marítima em contentores nas suas instalações na região do Porto, situadas ao quilómetro 4,280/600 da Via Norte, funcionando como depósito especial de regime aduaneiro.
+1.º É autorizada a empresa SPC - Serviço Português de Contentores, S. A. R. L., a estabelecer um terminal de carga para mercadorias transportadas por via marítima nas suas instalações na Região do Porto, situadas ao quilómetro 4,280/600 da via norte, funcionando como depósito especial de regime aduaneiro, nos termos do n.º 7 do § 1.º do artigo 140.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.
+
+> Alterado pelo/a [Portaria n.º 450/87](https://diariodarepublica.pt/dr/detalhe/portaria/450-1987-421779), publicado em 1987-05-29.
 
 2.º As instalações referidas no n.º 1.º serão exteriormente resguardadas por uma vedação de altura não inferior a 3 m, sendo todo o movimento de entrada e de saída feito por um único portão, devidamente fiscalizado, e observando-se as demais disposições que forem superiormente determinadas, de modo a tornar fácil e sempre eficaz a fiscalização.
 
@@ -144,15 +166,31 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamen
 
 9.º A Alfândega dará ao serviço da Guarda Fiscal junto do terminal as instruções que julgue convenientes para a defesa dos superiores interesses do Estado e providenciará a resolução das dúvidas que pelos mesmos serviços forem postas.
 
-10.º Permite-se receber, em regime de armazenagem, as mercadorias chegadas ao terminal em contentores por via marítima.
+10.º Permite-se receber, em regime de armazenagem, as mercadorias chegadas ao terminal por via marítima.
 
-11.º O prazo máximo de armazenamento neste depósito é de 4 meses, a contar da data da entrada do respectivo contentor.
+> Alterado pelo/a [Portaria n.º 450/87](https://diariodarepublica.pt/dr/detalhe/portaria/450-1987-421779), publicado em 1987-05-29.
 
-12.º Os contentores vindos por via marítima serão acompanhados de folhas de descarga e de fiscalização, excepto nos casos em que esta seja de dispensar.
+11.º O prazo de armazenagem neste depósito é de cinco anos, a contar da data da entrada das respectivas mercadorias.
 
-13.º Os contentores vindos por via marítima são abertos e proceder-se-á à conferência das mercadorias ali contidas, sob o controle directo da Alfândega, pelas respectivas folhas de descarga.
+> Alterado pelo/a [Portaria n.º 450/87](https://diariodarepublica.pt/dr/detalhe/portaria/450-1987-421779), publicado em 1987-05-29.
 
-14.º A movimentação dos contentores, propriamente ditos, far-se-á nos termos do [Decreto n.º 45814](https://diariodarepublica.pt/dr/detalhe/decreto/45814-1964-578730), de 14 de Julho de 1964, alterado pelo [Decreto n.º 285/71](https://diariodarepublica.pt/dr/detalhe/decreto/285-1971-643143), de 26 de Junho, e pelo [Decreto-Lei n.º 500/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1972-685185), de 9 de Dezembro, e das instruções em vigor.
+11.º-A. O director-geral das Alfândegas poderá prorrogar ou reduzir o prazo de armazenamento estabelecido no n.º 11.º, de acordo com a natureza das mercadorias.
+
+11.º-B. As mercadorias armazenadas nestes depósitos poderão ser objecto, nas condições estabelecidas pelas direcções das alfândegas, de, manipulações usuais destinadas a assegurar a sua conservação ou a melhorar a sua apresentação ou qualidade comercial.
+
+11.º-C. A lista das manipulações usuais a que se refere o n.º 11.º-B será publicada por portaria do Ministro das Finanças e do Plano.
+
+11.º-D. As mercadorias que sejam submetidas a tratamentos diferentes das manipulações usuais mencionadas no n.º 11.º-B ficarão sujeitas às regras em vigor em matéria de aperfeiçoamento activo.
+
+> Aditado pelo/a [Portaria n.º 696/85](https://diariodarepublica.pt/dr/detalhe/portaria/696-1985-177455), publicado em 1985-09-19.
+
+12.º O seguimento das mercadorias do local da descarga até ao terminal será autorizado, mediante requerimento em duplicado, acompanhado de fotocópia da declaração sumária, pelo chefe de serviços de fiscalização da Alfândega do Porto, que, caso a caso, decidirá sobre o tipo de fiscalização a exercer.
+
+13.º As mercadorias entradas no terminal serão conferidas, sob o controle directo da Alfândega, pelos documentos referidos no número anterior.
+
+14.º Se as mercadorias se apresentarem em contentores, a sua movimentação far-se-á nos termos do [Decreto n.º 45814](https://diariodarepublica.pt/dr/detalhe/decreto/45814-1964-578730), de 14 de Julho de 1964, alterado pelo [Decreto n.º 285/71](https://diariodarepublica.pt/dr/detalhe/decreto/285-1971-643143), de 26 de Junho, e pelo [Decreto-Lei n.º 500/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1972-685185), de 9 de Dezembro, e das instruções em vigor.
+
+> Alterado pelo/a [Portaria n.º 450/87](https://diariodarepublica.pt/dr/detalhe/portaria/450-1987-421779), publicado em 1987-05-29.
 
 15.º O expediente de despacho das mercadorias depositadas no terminal poderá correr em qualquer estância aduaneira dependente da Alfândega do Porto, para isso autorizada pela sua direcção.
 
@@ -160,7 +198,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamen
 
 17.º Os serviços aduaneiros procederão no terminal à conferência da descarga, à verificação e à reverificação das mercadorias ali depositadas.
 
-18.º A empresa ficará responsável pelo recebimento e entrega das mercadorias movimentadas através do terminal.
+18.º A empresa ficará responsável pelo recebimento e entrega das mercadorias movimentadas através do terminal, bem como pelo pagamento dos direitos aduaneiros e encargos de efeito equivalente, direitos niveladores agrícolas e outras imposições respeitantes às mercadorias nele entradas que forem encontradas em falta, sem prejuízo do eventual procedimento por infracção fiscal nos termos da legislação aplicável.
+
+> Alterado pelo/a [Portaria n.º 450/87](https://diariodarepublica.pt/dr/detalhe/portaria/450-1987-421779), publicado em 1987-05-29.
 
 19.º A empresa será subsidiariamente responsável pelas infracções que sejam praticadas pelos seus empregados.
 

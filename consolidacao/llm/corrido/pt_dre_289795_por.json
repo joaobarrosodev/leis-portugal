@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:289795:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Marvila, município de Santarém, com uma área de 1295,04 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a substituição da planta anexa não se aplica porque a planta só existe em imagem (unidade 18 é ligação ao documento original). Alterador 2 (Port. 717/97): revoga a concessão da zona de caça (ato administrativo), sem revogar nem alterar expressamente o texto da portaria, pelo que não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1 (Port. 886/94): nova redação do n.º 1.º -> unidade 6 substituída.",
+    "Alterador 1: planta anexa substituída -> não aplicável (imagem).",
+    "Alterador 2 (Port. 717/97): revogação da concessão da zona de caça associativa -> não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:356172:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "Divisão do Cávado e Ave: sediada em Braga, a sua área de jurisdição abrange os municípios de Amares, Barcelos, Braga, Esposende, Guimarães, Terras de Bouro, Vila Verde, Fafe, Póvoa de Lanhoso, Vieira do Minho, Vila Nova de Famalicão e Santo Tirso;",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 16,
+      "texto": "Divisão do Douro: sediada em Régua, a sua área de jurisdição abrange os municípios de Carrazeda de Ansiães, Freixo de Espada à Cinta, Torre de Moncorvo, Vila Flor, Vila Nova de Foz Côa, Alijó, Mesão Frio, Peso da Régua, Sabrosa, Santa Marta de Penaguião, Vila Real, Armamar, Lamego, Moimenta da Beira, Penedono, São João da Pesqueira, Sernancelhe, Tabuaço e Tarouca;\n\nDivisão do Alto Douro e Trás-os-Montes: sediada em Mirandela, abrange os municípios de Alfândega da Fé, Bragança, Macedo de Cavaleiros, Miranda do Douro, Mirandela, Mogadouro, Vimioso, Vinhais, Boticas, Chaves, Montalegre, Murça, Valpaços e Vila Pouca de Aguiar.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 866/94 altera o anexo: Divisão do Cávado e Ave passa a incluir Guimarães (unidade 13 substituída)",
+    "Divisão do Douro passa a sediada em Régua e Divisão do Alto Douro e Trás-os-Montes em Mirandela (unidades 15-16 substituídas pela nova redação, que também traz 'jurisdição' e 'Alfândega'); restantes entradas e alíneas b) a e) com [...]/... mantêm-se"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

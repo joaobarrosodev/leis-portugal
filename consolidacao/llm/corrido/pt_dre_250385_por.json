@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:250385:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 275/78: fixa em texto próprio os preços mínimos para a campanha de 1978 sem dar nova redação ao n.º 1 da Portaria n.º 373/77, e a revogação do n.º 4 é condicional ('que contrariem'), pelo que não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Portaria 275/78 n.º 1: novos preços mínimos para 1978 em disposição própria, não é nova redação do original; não aplicada.",
+    "Portaria 275/78 n.º 2: remete para a zonagem do n.º 2 do original; sem alteração.",
+    "Portaria 275/78 n.º 4: revogação condicional das disposições que contrariem; não se aplica ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

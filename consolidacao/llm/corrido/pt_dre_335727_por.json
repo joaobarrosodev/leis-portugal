@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:335727:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 452/78 corrige a pontuação de 146362,3 para 97832,59 de um prédio expropriado na Portaria n.º 375/75 de 19 de Junho, texto que não existe neste original (taxas postais de Macau), pelo que não se aplica.",
+  "instrucoes": [
+    "Alterador 1: alteração da pontuação 146362,3 para 97832,59 -> texto inexistente no original, nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

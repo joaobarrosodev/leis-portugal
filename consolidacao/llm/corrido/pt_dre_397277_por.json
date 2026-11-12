@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:397277:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "a) 1 representante do Ministério da Agricultura, Florestas e Alimentação e 1 representante do Ministério do Comércio e Turismo;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 282/88 (art. 27.º, n.º 1, al. b)) e o Decreto-Lei n.º 56/90 (art. 7.º, n.º 1, al. b)) transferem para o INGA e depois para a DGMAIAA as atribuições relativas à Comissão, o que não é uma alteração textual da portaria.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º, com '...' no proémio e nas alíneas b) a e); só muda a alínea a) (unidade 18), substituída.",
+    "Alterador 2: art. 27.º transfere atribuições relativas à Comissão para o INGA; sem alteração textual (nao_aplicavel). Os restantes artigos não se dirigem ao original.",
+    "Alterador 3: art. 7.º transfere essas atribuições para a DGMAIAA; sem alteração textual (nao_aplicavel). O art. 8.º altera o Decreto-Lei n.º 282/88, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

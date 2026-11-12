@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-02-17'
+version_history:
+  file: portaria-415-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-02-17'
+    amending: pt:dre:555464:por
+    amending_title: Portaria n.º 97/97
+    changes:
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 17-17
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/415/1994/06/28/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:27:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 97/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-415-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,7 +151,9 @@ Anexo a que se refere a Portaria n.º 415/94
 
 1 - Fezes, urina e o conteúdo isolado do aparelho digestivo obtido aquando do esvaziamento ou separação deste, independentemente do tratamento a que foram submetidos ou da mistura realizada.
 
-2 - Peles curtidas, incluindo os curtumes e seus desperdícios.
+2 - Peles tratadas, incluindo os respectivos desperdícios.
+
+> Alterado pelo/a [Portaria n.º 97/97](https://diariodarepublica.pt/dr/detalhe/portaria/97-1997-555464), publicado em 1997-02-12.
 
 3 - Sementes, plantas e outros materiais de propagação vegetativa tratados, após colheita, com produtos fitofarmacêuticos e respectivos produtos derivados.
 
@@ -145,6 +163,8 @@ Anexo a que se refere a Portaria n.º 415/94
 
 6 - Resíduos urbanos sólidos, tais como as sobras de mesa das cozinhas domésticas.
 
-7 - Sobras não tratadas dos estabelecimentos alimentares, com excepção dos géneros alimentícios de origem vegetal que por motivos de frescura foram julgados impróprios para o consumo humano.
+7 - Sobras não tratadas dos estabelecimentos alimentares, com excepção dos géneros alimentícios de origem vegetal que, por motivos de frescura, foram julgados impróprios para o consumo humano.
+
+> Alterado pelo/a [Portaria n.º 97/97](https://diariodarepublica.pt/dr/detalhe/portaria/97-1997-555464), publicado em 1997-02-12.
 
 8 - Embalagens e partes de embalagens provenientes da utilização de produtos da indústria agro-alimentar.

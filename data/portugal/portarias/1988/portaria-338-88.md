@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-03-18'
+version_history:
+  file: portaria-338-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-03-18'
+    amending: pt:dre:333302:por
+    amending_title: Portaria n.º 182/90
+    changes:
+    - Altera Artigo unidades 16-16
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:28:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 182/90. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-338-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,7 +160,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, em confor
 
 6.º - 1 - O pagamento da ajuda atribuída será feito em duas prestações, sendo a primeira equivalente a 50% do montante atribuído, paga após a aprovação da acção de formação e dentro do período de 60 dias anteriores ao início da mesma.
 
-2 - A segunda prestação será paga no final da acção, mediante apresentação pela entidade promotora, nos serviços regionais do MAPA, de um relatório final e dos documentos comprovativos das despesas efectuadas.
+2 - A segunda prestação será paga após apresentação pela entidade promotora nos serviços regionais do MAPA de um relatório final da mesma e dos documentos comprovativos das despesas efectuadas. A apresentação do relatório final deve ocorrer até dois meses após o termo da acção de formação.
+
+> Alterado pelo/a [Portaria n.º 182/90](https://diariodarepublica.pt/dr/detalhe/portaria/182-1990-333302), publicado em 1990-03-13.
 
 7.º Por despacho do Ministro, poderão excepcionalmente ter acesso a esta ajuda as acções de formação profissional realizadas posteriormente a 1 de Setembro de 1986 e anteriores à publicação desta portaria, desde que devidamente justificada a sua realização e que seja compatível com as normas desta portaria.
 

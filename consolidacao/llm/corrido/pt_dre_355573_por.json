@@ -1,0 +1,104 @@
+{
+  "id": "pt:dre:355573:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "3.º - 1 - A lista dos vegetais e produtos vegetais cuja introdução no território nacional é proibida pelo n.º 1 do artigo 16.º do Decreto-Lei n.º 348/88, de 30 de Setembro, quando sejam originários de certos países, consta do anexo III à presente portaria.\n\n2 - Sem prejuízo do disposto no número anterior e até 31 de Março de 1994, último dia de entrada na Comunidade, é autorizada a importação de batata-semente da variedade Kennebec originária do Canadá, desde que acompanhada de um certificado fitossanitário, emitido separadamente para cada remessa, onde conste que foram respeitadas as condições de produção preconizadas pela Decisão da Comissão n.º [93/680/CEE](http://data.europa.eu/eli/dec/1993/680/oj?locale=pt), de 15 de Dezembro de 1993, publicada no Jornal Oficial das Comunidades Europeias, n.º L 317, de 18 de Dezembro de 1993.\n\n3 - Para efeitos da autorização prevista no número anterior, as condições a observar à importação são as constantes do anexo VIII à presente portaria.",
+      "alterador": 4
+    },
+    {
+      "de": 41,
+      "ate": 42,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 71,
+      "ate": 71,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 73,
+      "ate": 74,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 76,
+      "ate": 76,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 81,
+      "ate": 81,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 84,
+      "ate": 84,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 110,
+      "ate": 110,
+      "texto": "2) Vírus dos citrinos (Citrus L., Fortunella Swingle, Poncirus Raf. ou seus híbridos).",
+      "alterador": 2
+    },
+    {
+      "de": 134,
+      "ate": 134,
+      "texto": "",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 33,
+      "texto": "Monochamus spp. (não europeus) transmissores do Bursaphelenchus xylophilus.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 46,
+      "texto": "Acleris variana (Fern.);\n\nAnomala orientalis Waterh;\n\nBusseola fusca (Hamps.);\n\nEnarmonia prunivora (Walsh, 1868);\n\nNacobbus aberrans (Thorne) Thorne & Allen;\n\nOpogona sacchari (Bojer);\n\nPremnotrypes spp. (não europeu);\n\nXiphinema americanum sensu lato (populações não europeias);\n\nThrips palmi Karny.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 67,
+      "texto": "Xylella fastidiosa (Wells et al., 1987) (sin. bactéria da doença de Pierce).",
+      "alterador": 1
+    },
+    {
+      "depois_de": 91,
+      "texto": "Cronartium spp. (não europeu);\n\nEndocronartium spp. (não europeu);\n\nGymnosporangium spp. (não europeu);\n\nMonilinia fructicola (Wint.) Honey;\n\nMycosphaerella larici-leptolepis (K. Ito et al.);\n\nPeridermium spp. (não europeu);\n\nPhoma andina Turkensteen;\n\nPhyllosticta solitaria (Ell. & Ev.);\n\nSeptoria lycopersici var malaguttii Ciccarrone & Boerema.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 185,
+      "texto": "## ANEXO VIII\n\nCondições a observar à importação de batata-semente da variedade Kennebec originária do Canadá até 31 de Março de 1994.\n\n1 - Os operadores económicos interessados na importação de batata-semente devem participar ao IPPAA - CNPPA os quantitativos a importar, a data provável da importação e os locais de plantação da batata.\n\n2 - A batata só poderá ser introduzida no território nacional através dos portos de Leixões ou Aveiro, sendo sujeita a inspecção fitossanitária de acordo com a legislação em vigor, realizada por inspectores fitossanitários nacionais, os quais poderão ser assistidos por inspectores comunitários.\n\n3 - De cada um dos lotes importados será retirada uma amostra representativa, a qual será submetida a testes laboratoriais oficiais com vista à detecção de Clavibacter michiganensis ssp. Sepedonicus, devendo os lotes ficar separados e sob controlo oficial até que seja concedida autorização oficial para a comercialização ou utilização da batata.\n\n4 - A autorização referida no número anterior só será concedida, se o resultado da inspecção fitossanitária e dos testes oficiais efectuados revelar que a batata se encontra nas condições sanitárias exigidas pela legislação em vigor.\n\n5 - Para efeitos de circulação e comercialização, autorizada apenas no interior do território nacional, a batata deverá ser acompanhada de passaporte fitossanitário, emitido pelo IPPAA, sendo aquele obrigatoriamente aposto à etiqueta de certificação, devendo o passaporte fitossanitário consistir numa etiqueta autocolante devidamente identificada e onde conste o número de registo do importador.\n\n6 - A batata só poderá ser plantada em locais previamente autorizados pelos serviços competentes das direcções regionais de agricultura, de acordo com as normas de registo estabelecidas na legislação em vigor.\n\n7 - Os armazéns, contentores, material de embalagem, veículos e todo o equipamento que esteve em contacto com a batata importada ao abrigo desta portaria deverá ser limpo e desinfectado antes de ser posto novamente em contacto com batata de outra origem.\n\n8 - Após a plantação e durante o período vegetativo, a cultura será submetida a inspecções oficiais.\n\n9 - A batata produzida a partir da batata-semente importada ao abrigo da presente portaria deverá obedecer às seguintes regras:\n\nNão poderá ser certificada como batata-semente;\n\nSó poderá ser utilizada como batata para consumo e consumida no interior do território nacional;\n\nA embalagem deverá ostentar o número de registo do produtor ou do centro de embalagem, bem como a seguinte frase: «Produzida a partir da batata de origem canadiana.»\n\n10 - O custo de cada passaporte emitido de acordo com o estipulado no n.º 5 do presente anexo será de 20$00.",
+      "alterador": 4
+    }
+  ],
+  "nao_aplicavel": "Não aplicadas: as alterações aos anexos II, III e IV (Portarias n.os 968/90, 128/92 e 716/92) porque esses anexos e/ou as alterações só existem em imagem; e a nova redação do n.º 7 do anexo V (Portaria n.º 968/90) porque o texto novo continua em imagem e fica incompleto.",
+  "instrucoes": [
+    "Alt. 1, anexo I, n.º 1: aditados 9 organismos à alínea a) -> inserção depois da unidade 46 (fim da lista principal, antes de Tripetidae).",
+    "Alt. 1, anexo I, n.º 2: suprimidos Scolytus multistriatus e Scolytus scolytus -> unidades 41-42 eliminadas.",
+    "Alt. 1, anexo I, n.º 3: aditada Xylella fastidiosa à alínea c) -> inserção depois da unidade 67.",
+    "Alt. 1, anexo I, n.º 4: aditados 9 fungos à alínea d) -> inserção depois da unidade 91.",
+    "Alt. 1, anexo I, n.º 5: suprimidos Ceratocystis ulmi, Cronartium comptoniae, C. fusiforme, C. ribicola, Endocronatium harknessii, Hypoxylon pruinatum -> unidades 71, 73-74, 76, 81, 84 eliminadas.",
+    "Alt. 1, anexos II, III, IV: só em imagem -> nao_aplicavel.",
+    "Alt. 1, anexo V: nova redação do n.º 7 (Madeira) parcialmente em imagem -> nao_aplicavel.",
+    "Alt. 2, anexo I, n.º 1: aditado Monochamus spp. à alínea a) -> inserção depois da unidade 33 (ordem alfabética).",
+    "Alt. 2, anexo I, n.º 2: nova redação do n.º 2 da alínea e) -> unidade 110 substituída.",
+    "Alt. 2, alterações aos anexos II, III e IV: anexos originais só em imagem -> nao_aplicavel.",
+    "Alt. 3, anexos II e IV: só em imagem -> nao_aplicavel; anexo V: suprimida Soja (Glycine max.) no n.º 2 -> unidade 134 eliminada; anexo II da Portaria n.º 968/90 -> outro diploma, ignorado.",
+    "Alt. 4: nova redação do n.º 3.º -> unidade 7 substituída; anexo VIII aditado -> inserção depois da unidade 185."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

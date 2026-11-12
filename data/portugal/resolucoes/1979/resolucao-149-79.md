@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-07-12'
+version_history:
+  file: resolucao-149-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-05-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-07-12'
+    amending: pt:dre:380557:por
+    amending_title: Resolução n.º 202/79
+    changes:
+    - Altera Artigo unidades 33-33
+    - Adita Artigo depois da unidade 33
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:17:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução n.º 202/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/resolucoes/1979/resolucao-149-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -163,6 +179,14 @@ b) Médicos a que respeita o n.º 7 da presente resolução, por ordem das class
 
 11 - Os médicos que venham a ser colocados em localidades diferentes daquela em que se situam os estabelecimentos a que se encontram actualmente vinculados e que trabalhem nos Serviços Médico-Sociais poderão, caso o desejem, cumprir o mesmo número de horas de trabalho nas unidades dos Serviços Médico-Sociais da localidade em que forem colocados, sendo a sua transferência efectuada mediante simples requerimento do interessado.
 
-12 - Os médicos habilitados com o internato de especialidades, que, a título eventual, se encontrem a trabalhar nos hospitais centrais e não fiquem abrangidos pelas situações especificadas nos números anteriores serão dispensados do serviço no prazo de sessenta dias a contar da data em que forem dadas por concluídas as provas das respectivas especialidades do concurso que está a decorrer para lugares de especialistas dos hospitais distritais.
+12 - Os médicos habilitados com o internato de especialidades que, a título eventual, se encontrem a trabalhar nos hospitais centrais e não fiquem abrangidos pelas situações especificadas nos números anteriores poderão ser, se assim o desejarem, admitidos, a título eventual, em hospitais centrais e distritais, sendo-lhes atribuído o terceiro grau de prioridade no processo de distribuição referido nos n.os 9 e 10.
+
+> Alterado pelo/a [Resolução n.º 202/79](https://diariodarepublica.pt/dr/detalhe/resolucao/202-1979-380557), publicado em 1979-07-12.
+
+13 - Os médicos a que se refere o número anterior procederão à escolha por ordem das classificações finais do internato e ficarão abrangidos pela disposição constante do n.º 8.
+
+14 - Os médicos que, pela presente resolução, tenham a possibilidade de ser distribuídos por hospitais centrais ou distritais e que não aceitem a distribuição que lhes competir, serão dispensados do serviço no prazo de sessenta dias, a contar da data em que se realizarem, para as respectivas especialidades, os processos de escolha previstos no n.º 10.
+
+> Aditado pelo/a [Resolução n.º 202/79](https://diariodarepublica.pt/dr/detalhe/resolucao/202-1979-380557), publicado em 1979-07-12.
 
 Presidência do Conselho de Ministros, 11 de Abril de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

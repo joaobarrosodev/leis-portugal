@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:335396:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "alterador": 1,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Almofala, município de Figueira de Castelo Rodrigo, com uma área de 2397,1875 ha."
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A substituição da planta anexa pela Portaria n.º 272/95 não se aplica porque a planta só existe em imagem; as renovações da concessão (Portarias n.os 254-BU/96 e 528/2006, incluindo a exceção ao n.º 8.º e as novas áreas) não são alterações textuais ao original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º -> substituída a unidade 6.",
+    "Alterador 1: planta anexa substituída -> nao_aplicavel (só em imagem).",
+    "Alterador 2: renovação da concessão por 10 anos, mantém direitos com exceção do n.º 8.º -> não textual, sem alteração.",
+    "Alterador 3: renovação por 12 anos com área de 2223 ha -> não textual, sem alteração."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

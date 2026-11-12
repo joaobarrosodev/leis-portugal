@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:302137:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "alterador": 1,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por dois períodos iguais, à Associação de Caça e Pesca da Freguesia de Moreira de Rei, com o número de pessoa colectiva 506111422, com sede em Moreira de Rei, 6420-506 Moreira de Rei, a zona de caça associativa de Moreira de Rei II (processo n.º 3624-DGF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Carvalhal e Casteição, município de Meda, com a área de 273 ha, e na freguesia de Moreira de Rei, município, de Trancoso, com a área de 1546 ha, perfazendo um total de 1819 ha."
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 726/2010 (alterador 2) anexa terrenos à zona de caça (área total 2126 ha) por artigos próprios, sem alterar textualmente o original: não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (prazo de 12 anos, código postal, etc.) -> substituída a unidade 6.",
+    "Alterador 2: anexação de terrenos sem nova redação do original -> não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

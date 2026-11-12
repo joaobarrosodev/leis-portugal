@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 33-33",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "12 - Os médicos habilitados com o internato de especialidades, que, a título eventual, se encontrem a trabalhar nos hospitais centrais e não fiquem abrangidos pelas situações especificadas nos números anteriores serão dispensados do serviço no prazo de sessenta dias a contar da data em que forem dadas por concluídas as provas das respectivas especialidades do concurso que está a decorrer para lugares de especialistas dos hospitais distritais.",
+    "depois": "12 - Os médicos habilitados com o internato de especialidades que, a título eventual, se encontrem a trabalhar nos hospitais centrais e não fiquem abrangidos pelas situações especificadas nos números anteriores poderão ser, se assim o desejarem, admitidos, a título eventual, em hospitais centrais e distritais, sendo-lhes atribuído o terceiro grau de prioridade no processo de distribuição referido nos n.os 9 e 10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:382450:por",
+    "alterador": "pt:dre:380557:por"
+  },
+  {
+    "artigo": "depois da unidade 33",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "13 - Os médicos a que se refere o número anterior procederão à escolha por ordem das classificações finais do internato e ficarão abrangidos pela disposição constante do n.º 8.\n\n14 - Os médicos que, pela presente resolução, tenham a possibilidade de ser distribuídos por hospitais centrais ou distritais e que não aceitem a distribuição que lhes competir, serão dispensados do serviço no prazo de sessenta dias, a contar da data em que se realizarem, para as respectivas especialidades, os processos de escolha previstos no n.º 10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:382450:por",
+    "alterador": "pt:dre:380557:por"
+  }
+]

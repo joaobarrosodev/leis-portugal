@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:399071:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "O prazo para troca dos selos sobrantes em poder de quaisquer entidades termina em 31 de Março de 1973, devendo a sua devolução ao 3.º Depósito Central ser efectuada até 30 de Junho seguinte, conforme estabelecido no n.º 4 da [Portaria n.º 266/71](https://diariodarepublica.pt/dr/detalhe/portaria/266-1971-644570), com a redacção da presente portaria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: altera o n.º 4 da Portaria n.º 266/71, outro diploma; ignorado.",
+    "Alterador 1, n.º 2: nova redação do segundo período do n.º 3 (unidade 13), substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

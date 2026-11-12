@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - A segunda prestação será paga no final da acção, mediante apresentação pela entidade promotora, nos serviços regionais do MAPA, de um relatório final e dos documentos comprovativos das despesas efectuadas.",
+    "depois": "2 - A segunda prestação será paga após apresentação pela entidade promotora nos serviços regionais do MAPA de um relatório final da mesma e dos documentos comprovativos das despesas efectuadas. A apresentação do relatório final deve ocorrer até dois meses após o termo da acção de formação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:374223:por",
+    "alterador": "pt:dre:333302:por"
+  }
+]

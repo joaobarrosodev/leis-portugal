@@ -1,0 +1,52 @@
+{
+  "id": "pt:dre:397533:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 4,
+      "texto": "1.º É autorizada a empresa SPC - Serviço Português de Contentores, S. A. R. L., a estabelecer um terminal de carga para mercadorias transportadas por via marítima nas suas instalações na Região do Porto, situadas ao quilómetro 4,280/600 da via norte, funcionando como depósito especial de regime aduaneiro, nos termos do n.º 7 do § 1.º do artigo 140.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.",
+      "alterador": 2
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "10.º Permite-se receber, em regime de armazenagem, as mercadorias chegadas ao terminal por via marítima.",
+      "alterador": 2
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "11.º O prazo de armazenagem neste depósito é de cinco anos, a contar da data da entrada das respectivas mercadorias.",
+      "alterador": 2
+    },
+    {
+      "de": 15,
+      "ate": 17,
+      "texto": "12.º O seguimento das mercadorias do local da descarga até ao terminal será autorizado, mediante requerimento em duplicado, acompanhado de fotocópia da declaração sumária, pelo chefe de serviços de fiscalização da Alfândega do Porto, que, caso a caso, decidirá sobre o tipo de fiscalização a exercer.\n\n13.º As mercadorias entradas no terminal serão conferidas, sob o controle directo da Alfândega, pelos documentos referidos no número anterior.\n\n14.º Se as mercadorias se apresentarem em contentores, a sua movimentação far-se-á nos termos do [Decreto n.º 45814](https://diariodarepublica.pt/dr/detalhe/decreto/45814-1964-578730), de 14 de Julho de 1964, alterado pelo [Decreto n.º 285/71](https://diariodarepublica.pt/dr/detalhe/decreto/285-1971-643143), de 26 de Junho, e pelo [Decreto-Lei n.º 500/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1972-685185), de 9 de Dezembro, e das instruções em vigor.",
+      "alterador": 2
+    },
+    {
+      "de": 21,
+      "ate": 21,
+      "texto": "18.º A empresa ficará responsável pelo recebimento e entrega das mercadorias movimentadas através do terminal, bem como pelo pagamento dos direitos aduaneiros e encargos de efeito equivalente, direitos niveladores agrícolas e outras imposições respeitantes às mercadorias nele entradas que forem encontradas em falta, sem prejuízo do eventual procedimento por infracção fiscal nos termos da legislação aplicável.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 14,
+      "texto": "11.º-A. O director-geral das Alfândegas poderá prorrogar ou reduzir o prazo de armazenamento estabelecido no n.º 11.º, de acordo com a natureza das mercadorias.\n\n11.º-B. As mercadorias armazenadas nestes depósitos poderão ser objecto, nas condições estabelecidas pelas direcções das alfândegas, de, manipulações usuais destinadas a assegurar a sua conservação ou a melhorar a sua apresentação ou qualidade comercial.\n\n11.º-C. A lista das manipulações usuais a que se refere o n.º 11.º-B será publicada por portaria do Ministro das Finanças e do Plano.\n\n11.º-D. As mercadorias que sejam submetidas a tratamentos diferentes das manipulações usuais mencionadas no n.º 11.º-B ficarão sujeitas às regras em vigor em matéria de aperfeiçoamento activo.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, 1.º: nova redação do n.º 11.º (unidade 14); depois substituída pela redação do alterador 2, que é a que fica (unidade 14 com alterador 2).",
+    "Alterador 1, 2.º: aditados os n.os 11.º-A a 11.º-D, inseridos depois da unidade 14.",
+    "Alterador 1, 3.º: entrada em vigor das alterações; não textual.",
+    "Alterador 2: nova redação dos n.os 1.º, 10.º, 11.º, 12.º, 13.º, 14.º e 18.º: substituídas as unidades 4, 13, 14, 15-17 e 21."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

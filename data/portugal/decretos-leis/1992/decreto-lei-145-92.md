@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-03-15'
+version_history:
+  file: decreto-lei-145-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-07-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-03-15'
+    amending: pt:dre:628039:por
+    amending_title: Decreto-Lei n.º 65/93
+    changes:
+    - Adita Artigo depois da unidade 14
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/145/1992/07/21/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:16:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 65/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-145-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,6 +148,10 @@ Art. 2.º A Sociedade rege-se pelo disposto no presente diploma, pelos estatutos
 Art. 3.º - 1 - A Sociedade goza de personalidade jurídica desde a data de entrada em vigor do presente diploma, que constitui título suficiente para a inscrição no registo comercial.
 
 2 - O registo da Sociedade é isento de quaisquer taxas e emolumentos.
+
+3 - Os donativos, em dinheiro ou em espécie, concedidos à sociedade Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultura, S. A., serão abatidos à matéria colectável em IRS ou considerados custos para efeitos de IRC, sem qualquer dos limites referidos no n.º 2 do artigo 56.º do CIRS ou no n.º 1 do artigo 39.º do CIRC, em valor correspondente a 115% do respectivo total.
+
+> Aditado pelo/a [Decreto-Lei n.º 65/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1993-628039), publicado em 1993-03-10.
 
 Art. 4.º O representante do Estado na assembleia geral é designado por despacho conjunto do Ministro das Finanças e do membro do Governo responsável pela área da cultura.
 

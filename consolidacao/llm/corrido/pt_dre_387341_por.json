@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:387341:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 732/84 altera os artigos 32.º e 44.º do Regulamento aprovado pela Portaria n.º 582-B/84 e fixa a sua própria vigência; nenhuma instrução se dirige ao texto da Portaria n.º 422/84 — nada a mudar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

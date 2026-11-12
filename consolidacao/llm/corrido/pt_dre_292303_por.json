@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:292303:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 14,
+      "texto": "3 - Os donativos, em dinheiro ou em espécie, concedidos à sociedade Lisboa 94 - Sociedade Promotora de Lisboa Capital Europeia da Cultura, S. A., serão abatidos à matéria colectável em IRS ou considerados custos para efeitos de IRC, sem qualquer dos limites referidos no n.º 2 do artigo 56.º do CIRS ou no n.º 1 do artigo 39.º do CIRC, em valor correspondente a 115% do respectivo total.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, art. 1.º: nova redação do art. 3.º com n.os 1 e 2 mantidos (...) e novo n.º 3 - inserido a seguir à unidade 14",
+    "Alt. 1, arts. 2.º e 3.º: alteram o CIRC e o CIRS, não o original - ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

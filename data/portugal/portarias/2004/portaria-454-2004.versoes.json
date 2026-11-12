@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:302137:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-05-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "23ac32c2f4327fb5"
+   ]
+  },
+  {
+   "date": "2004-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:506977:por",
+     "title": "Portaria n.º 920/2004",
+     "published": "2004-07-26",
+     "dre_path": "/dr/detalhe/portaria/920-2004-506977"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "b06f4a8a04f2e980"
+   ]
+  }
+ ],
+ "fragments": {
+  "23ac32c2f4327fb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Maio\n\nCom fundamento no disposto na alínea a) do n.º 1 do artigo 36.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvidos os Conselhos Cinegéticos Municipais de Meda e Trancoso:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é concessionada, pelo período de seis anos, renovável automaticamente por dois períodos iguais, à Associação de Caça e Pesca da Freguesia de Moreira de Rei, com o número de pessoa colectiva 506111422 e sede em Moreira de Rei, 6402-506 Moreira de Rei, a zona de caça associativa de Moreira de Rei II (processo n.º 3624-DGF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Carvalhal e Casteição, município de Meda, com a área de 273 ha, e na freguesia de Moreira de Rei, município de Trancoso, com a área de 1546 ha, perfazendo o total de 1819 ha.\n\n2.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n3.º A sinalização da zona de caça deve obedecer ao disposto no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro, com a redacção que lhe foi conferida pela [Portaria n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/portaria/45-2004-603031), de 14 de Janeiro.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 16 de Abril de 2004.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/05/103b00/27442744.pdf)"
+  },
+  "b06f4a8a04f2e980": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2004-07-31",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 920/2004](https://diariodarepublica.pt/dr/detalhe/portaria/920-2004-506977), publicado em 2004-07-26."
+   ],
+   "markdown": "de 3 de Maio\n\nCom fundamento no disposto na alínea a) do n.º 1 do artigo 36.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvidos os Conselhos Cinegéticos Municipais de Meda e Trancoso:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por dois períodos iguais, à Associação de Caça e Pesca da Freguesia de Moreira de Rei, com o número de pessoa colectiva 506111422, com sede em Moreira de Rei, 6420-506 Moreira de Rei, a zona de caça associativa de Moreira de Rei II (processo n.º 3624-DGF), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Carvalhal e Casteição, município de Meda, com a área de 273 ha, e na freguesia de Moreira de Rei, município, de Trancoso, com a área de 1546 ha, perfazendo um total de 1819 ha.\n\n> Alterado pelo/a [Portaria n.º 920/2004](https://diariodarepublica.pt/dr/detalhe/portaria/920-2004-506977), publicado em 2004-07-26.\n\n2.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n3.º A sinalização da zona de caça deve obedecer ao disposto no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro, com a redacção que lhe foi conferida pela [Portaria n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/portaria/45-2004-603031), de 14 de Janeiro.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 16 de Abril de 2004.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/05/103b00/27442744.pdf)"
+  }
+ }
+}

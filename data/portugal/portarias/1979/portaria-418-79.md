@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-05-18'
+version_history:
+  file: portaria-418-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-08-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-05-18'
+    amending: pt:dre:392465:por
+    amending_title: Portaria n.º 505/82
+    changes:
+    - Altera Artigo unidades 32-32
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:58:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 505/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-418-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -171,7 +186,9 @@ e) Com os juros vencidos e a pagar pelo depositário.
 
 7.º Durante o período de vigência do depósito de poupança-crédito podem ser livremente efectuados levantamentos de fundos, pelo que para este tipo de depósito não é permitida a emissão de promissórias.
 
-8.º - 1 - Os depósitos de poupança-crédito vencem juros à taxa atribuída aos depósitos a prazo de cento e oitenta dias, que serão contados ao semestre e capitalizados na própria conta.
+8.º - 1 - Os depósitos de poupança-crédito vencem juros à taxa atribuída aos depósitos a prazo de 180 dias, que serão contados ao semestre e capitalizados ou não na própria conta, segundo vontade expressa do depositante.
+
+> Alterado pelo/a [Portaria n.º 505/82](https://diariodarepublica.pt/dr/detalhe/portaria/505-1982-392465), publicado em 1982-05-18.
 
 2 - Por cada período completo de um ano e um dia em que a conta não registe levantamentos creditar-se-á um prémio correspondente ao diferencial da taxa de juro para os depósitos a prazo de mais de um ano.
 

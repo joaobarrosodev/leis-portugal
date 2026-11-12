@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-10-02'
+version_history:
+  file: portaria-736-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-08-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-10-02'
+    amending: pt:dre:607126:por
+    amending_title: Portaria n.º 866/94
+    changes:
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 15-16
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/736/1993/08/13/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:08:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 866/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-736-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,13 +147,17 @@ a) Na dependência da DRARN Norte:
 
 Divisão do Minho e Lima: sediada em Viana do Castelo, a sua área de jurisdição abrange os municípios de Arcos de Valdevez, Caminha, Melgaço, Monção, Paredes de Coura, Ponte da Barca, Ponte de Lima, Valença, Viana do Castelo e Vila Nova de Cerveira;
 
-Divisão do Cávado e Ave: sediada em Braga, a sua área de jurisdição abrange os municípios de Amares, Barcelos, Braga, Esposende, Terras de Bouro, Vila Verde, Fafe, Póvoa de Lanhoso, Vieira do Minho, Vila Nova de Famalicão e Santo Tirso;
+Divisão do Cávado e Ave: sediada em Braga, a sua área de jurisdição abrange os municípios de Amares, Barcelos, Braga, Esposende, Guimarães, Terras de Bouro, Vila Verde, Fafe, Póvoa de Lanhoso, Vieira do Minho, Vila Nova de Famalicão e Santo Tirso;
+
+> Alterado pelo/a [Portaria n.º 866/94](https://diariodarepublica.pt/dr/detalhe/portaria/866-1994-607126), publicado em 1994-09-27.
 
 Divisão do Grande Porto, Tâmega e Entre Douro e Vouga: sediada no Porto, a sua área de jurisdição abrange os municípios de Espinho, Gondomar, Maia, Matosinhos, Porto, Póvoa de Varzim, Valongo, Vila do Conde, Vila Nova de Gaia, Castelo de Paiva, Cabeceiras de Basto, Celorico de Basto, Amarante, Baião, Felgueiras, Lousada, Marco de Canaveses, Paços de Ferreira, Paredes, Penafiel, Mondim de Basto, Ribeira de Pena, Cinfães, Resende, Arouca, Feira, Oliveira de Azeméis, São João da Madeira e Vale de Cambra;
 
-Divisão do Douro: sediada em Vila Real, a sua área de jurisdicação abrange os municípios de Carrazeda de Ansiães, Freixo de Espada à Cinta, Torre de Moncorvo, Vila Flor, Vila Nova de Foz Côa, Alijó, Mesão Frio, Peso da Régua, Sabrosa, Santa Marta de Penaguião, Vila Real, Armamar, Lamego, Moimenta da Beira, Penedono, São João da Pesqueira, Sernancelhe, Tabuaço e Tarouca;
+Divisão do Douro: sediada em Régua, a sua área de jurisdição abrange os municípios de Carrazeda de Ansiães, Freixo de Espada à Cinta, Torre de Moncorvo, Vila Flor, Vila Nova de Foz Côa, Alijó, Mesão Frio, Peso da Régua, Sabrosa, Santa Marta de Penaguião, Vila Real, Armamar, Lamego, Moimenta da Beira, Penedono, São João da Pesqueira, Sernancelhe, Tabuaço e Tarouca;
 
-Divisão do Alto Douro e Trás-os-Montes: sediada em Bragança, abrange os municípios de Aflândega da Fé, Bragança, Macedo de Cavaleiros, Miranda do Douro, Mirandela, Mogadouro, Vimioso, Vinhais, Boticas, Chaves, Montalegre, Murça, Valpaços e Vila Pouca de Aguiar.
+Divisão do Alto Douro e Trás-os-Montes: sediada em Mirandela, abrange os municípios de Alfândega da Fé, Bragança, Macedo de Cavaleiros, Miranda do Douro, Mirandela, Mogadouro, Vimioso, Vinhais, Boticas, Chaves, Montalegre, Murça, Valpaços e Vila Pouca de Aguiar.
+
+> Alterado pelo/a [Portaria n.º 866/94](https://diariodarepublica.pt/dr/detalhe/portaria/866-1994-607126), publicado em 1994-09-27.
 
 b) Na dependência da DRARN Centro:
 

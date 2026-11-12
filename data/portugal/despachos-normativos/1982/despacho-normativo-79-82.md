@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-01-27'
+version_history:
+  file: despacho-normativo-79-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-05-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-01-27'
+    amending: pt:dre:308508:por
+    amending_title: Despacho Normativo n.º 29/83
+    changes:
+    - Altera Artigo unidades 11-18
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:21:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 29/83. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1982/despacho-normativo-79-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,21 +141,23 @@ Tendo sido suscitadas dúvidas sobre o critério de repartição, pelas diversas
 
 2.2 - A quantia referida no n.º 2.3 será calculada por aplicação da fórmula:
 
-E = d x C(índice 1) - (C(índice 2) + C(índice 3)) x T
+E = d x [C(índice 1) - (C(índice 2) + C(índice 3))] x T
 
 em que:
 
-d designa, com referência ao ano civil anterior àquele a que a participação se reporta, a percentagem representativa do número de cartões de seguro obrigatório de responsabilidade civil automóvel emitidos a favor de pessoas singulares ou colectivas domiciliadas na área do distrito relativamente à totalidade de cartões emitidos a favor de pessoas singulares ou colectivas domiciliadas em qualquer lugar do território do continente;
+d designa, com referência ao ano civil anterior àquele a que a participação se reporta, a percentagem representativa do número de cartões de seguro obrigatório de responsabilidade civil automóvel emitidos a favor de pessoas singulares ou colectivas domiciliadas na área do distrito, relativamente à totalidade de cartões emitidos a favor de pessoas singulares ou colectivas domiciliadas em qualquer lugar do território do continente;
 
 C(índice 1) representa o número de cartões de seguro obrigatório de responsabilidade civil automóvel emitidos no mês anterior àquele a que a participação se reporta a favor de pessoas singulares ou colectivas domiciliadas em qualquer lugar do território do continente;
 
-C(índice 2) representa o número de cartões de seguro obrigatório de responsabilidade civil automóvel que, tendo sido emitidos, no mesmo mês, a favor de pessoas singulares domiciliadas em qualquer lugar do território do continente, vieram, posteriormente, a ser anulados;
+C(índice 2) representa o número de cartões de seguro obrigatório de responsabilidade civil automóvel que, tendo sido emitidos no mesmo mês a favor de pessoas singulares ou colectivas domiciliadas em qualquer lugar do território do continente, vieram posteriormente a ser anulados;
 
-C(índice 3) representa o número de cartões de seguro obrigatório de responsabilidade civil automóvel que, tendo sido emitidos, no mesmo mês, a favor de pessoas singulares ou colectivas domiciliadas em qualquer lugar do território do continente, vieram, posteriormente, a ser substituídos por outros;
+C(índice 3) representa o número de cartões de seguro obrigatório de responsabilidade civil automóvel que, tendo sido emitidos no mesmo mês a favor de pessoas singulares ou colectivas domiciliadas em qualquer lugar do território do continente, vieram posteriormente a ser substituídos por outros;
 
-T representa a taxa a que se referem o artigo 791.º, n.º 1, do Código Administrativo, e o artigo 56.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, acrescida dos respectivos adicionais, quando legalmente previstos;
+T representa a taxa a que se referem os artigos 791.º, n.º 1, do Código Administrativo e 56.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro, acrescida dos respectivos adicionais, quando legalmente previstos;
 
-E representa a quantia devida por cada empresa seguradora ao cofre privativo do governo civil.
+E representa a quantia devida por cada empresa seguradora ao cofre privativo do Governo Civil.
+
+> Alterado pelo/a [Despacho Normativo n.º 29/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-1983-308508), publicado em 1983-01-27.
 
 2.3 - A participação referida no n.º 2.1, que será expedida sob registo postal, deverá ser feita acompanhar da remessa, por cheque ou vale do correio, da quantia correspondente ao produto da taxa legalmente fixada pelo número de cartões que as seguradoras presumivelmente terão emitido a favor de pessoas singulares ou colectivas domiciliadas na área do respectivo distrito, apurada pela fórmula constante do n.º 2.2.
 

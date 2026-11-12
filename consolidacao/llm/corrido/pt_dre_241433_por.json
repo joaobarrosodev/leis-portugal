@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:241433:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1 - Para financiamento do défice orçamental com recurso ao mercado de capitais, serão emitidos empréstimos internos, de médio e longo prazos, amortizáveis, denominados e representados por obrigações do Tesouro (OT), até ao montante de 600 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral pela totalidade dos empréstimos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "RCM 108-A/96: limite do n.º 1 da RCM 3-B/96 alterado para 600 milhões de contos; substituído '400' por '600' na unidade 8 (o limite de 300 milhões refere-se à RCM 3-E/96, ignorado)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

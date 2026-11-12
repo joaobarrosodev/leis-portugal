@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-01-14'
+version_history:
+  file: portaria-734-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-01-14'
+    amending: pt:dre:622282:por
+    amending_title: Portaria n.º 23/85
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:11:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 23/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-734-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,7 +154,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Mar, o seguinte:
 
 2.º O curso a que se refere o número anterior destina-se a comandantes, oficiais de convés e de máquinas, bem como a marítimos da mestrança e marinhagem envolvidos em operações de carga e descarga a bordo de navios químicos, e visa habilitá-los com conhecimentos específicos necessários ao exercício das respectivas funções e sua responsabilização a bordo daqueles navios.
 
-3.º Poderá também ser permitida a frequência do curso a funcionários da Administração Pública ou a indivíduos por esta credenciados que exerçam a bordo do mesmo tipo de navios funções de inspecção relacionadas com a segurança.
+3.º Poderá também ser permitida a frequência do curso a funcionários da Administração Pública, a indivíduos por esta credenciados que exerçam a bordo do mesmo tipo de navios funções de inspecção relacionadas com a segurança ou ainda aos trabalhadores portuários a que se refere o [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, que no exercício da sua actividade profissional intervenham nas operações abrangidas pelo curso, os quais terão de ser para o efeito credenciados pelo Instituto do Trabalho Portuário.
+
+> Alterado pelo/a [Portaria n.º 23/85](https://diariodarepublica.pt/dr/detalhe/portaria/23-1985-622282), publicado em 1985-01-09.
 
 4.º O curso será ministrado pela Escola Náutica Infante D. Henrique, que utilizará monitores devidamente habilitados ou com reconhecida competência para o efeito, mediante aprovação prévia da sua estrutura e programa pelo director-geral do Pessoal do Mar e Estudos Náuticos.
 

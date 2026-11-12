@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 32-32",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "8.º - 1 - Os depósitos de poupança-crédito vencem juros à taxa atribuída aos depósitos a prazo de cento e oitenta dias, que serão contados ao semestre e capitalizados na própria conta.",
+    "depois": "8.º - 1 - Os depósitos de poupança-crédito vencem juros à taxa atribuída aos depósitos a prazo de 180 dias, que serão contados ao semestre e capitalizados ou não na própria conta, segundo vontade expressa do depositante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:377884:por",
+    "alterador": "pt:dre:392465:por"
+  }
+]

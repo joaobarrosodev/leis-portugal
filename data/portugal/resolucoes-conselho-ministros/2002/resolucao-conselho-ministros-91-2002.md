@@ -38,10 +38,39 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-05-07'
+version_history:
+  file: resolucao-conselho-ministros-91-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-05-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-05-07'
+    amending: pt:dre:571672:por
+    amending_title: Resolução do Conselho de Ministros n.º 66/2003
+    changes:
+    - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::1.º
+    - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::6.º
+    - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::12.º
+    - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::15.º
+    - Adita Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::17.º-A
+    - Adita Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::17.º-B
+    - Adita Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::20.º-A
+    - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::21.º
+    - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::22.º
+    - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::23.º
+    - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::25.º
+    - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::26.º
+    - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::27.º
+    - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::28.º
+    - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::31.º
+    - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::32.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/91/2002/05/03/p/dre/pt/html
@@ -67,7 +96,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:46:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 66/2003. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2002/resolucao-conselho-ministros-91-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,11 +184,13 @@ Presidência do Conselho de Ministros, 11 de Abril de 2002. - O Primeiro-Ministr
 
 1 - O Conselho de Ministros é composto pelo Primeiro-Ministro, que preside, e pelos ministros.
 
-2 - Salvo determinação em contrário do Primeiro-Ministro, considera-se convocado para as reuniões do Conselho de Ministros o Secretário de Estado da Presidência do Conselho de Ministros, que participa, sem direito a voto.
+2 - Salvo determinação em contrário do Primeiro-Ministro, participam nas reuniões do Conselho de Ministros o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado Adjunto do Primeiro-Ministro, sem direito a voto.
 
 3 - Podem ainda participar nas reuniões do Conselho de Ministros, sem direito a voto, os secretários de Estado que sejam especialmente convocados por indicação do Primeiro-Ministro.
 
 4 - Assiste às reuniões do Conselho de Ministros o chefe de gabinete do Primeiro-Ministro.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
 
 ###### Artigo 2.º — Ausência ou impedimento
 
@@ -204,9 +236,11 @@ c) A terceira, relativa à apreciação de projectos que não tenham obtido cons
 
 2 - As deliberações do Conselho são tomadas por votação ou por consenso.
 
-3 - Dispõem de direito a voto o Primeiro-Ministro, os ministros e os secretários de Estado que estejam nas condições previstas nos n.os 2 e 3 do artigo 2.º
+3 - Dispõem de direito a voto o Primeiro-Ministro, os ministros e os secretários de Estado que estejam nas condições previstas nos n.os 2 e 3 do artigo 2.º, tendo o Primeiro-Ministro voto de qualidade.
 
 4 - Os projectos submetidos a Conselho de Ministros são objecto de deliberação de aprovação, de aprovação na generalidade, de rejeição, de adiamento para apreciação posterior ou de remessa para discussão em reunião de secretários de Estado, podendo também ser retirados pelos respectivos proponentes.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
 
 ###### Artigo 7.º — Comunicado final
 
@@ -256,11 +290,13 @@ Todos os membros do Governo estão vinculados às deliberações tomadas em Cons
 
 1 - O Conselho de Ministros para os Assuntos Europeus é presidido pelo Primeiro-Ministro e integrado por todos os ministros.
 
-2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado dos Assuntos Europeus.
+2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado dos Assuntos Europeus.
 
 3 - Podem também participar nas reuniões, sem direito a voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.
 
 4 - Assiste às reuniões do Conselho de Ministros para os Assuntos Europeus o chefe de gabinete do Primeiro-Ministro.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
 
 ###### Artigo 13.º — Reuniões
 
@@ -298,11 +334,13 @@ j) Ministro das Cidades, Ordenamento do Território e Ambiente;
 
 l) Outros ministros que, para cada reunião, forem convocados por indicação do Primeiro-Ministro.
 
-2 - Salvo determinação em contrário do Primeiro-Ministro, participa ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros.
+2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado Adjunto do Primeiro-Ministro.
 
 3 - Podem também participar nas reuniões, sem direito a voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.
 
 4 - Assiste às reuniões de Conselho de Ministros para os Assuntos Económicos o chefe de gabinete do Primeiro-Ministro.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
 
 ###### Artigo 16.º — Reuniões
 
@@ -311,6 +349,22 @@ O Conselho de Ministros para os Assuntos Económicos reúne sempre que convocado
 ###### Artigo 17.º — Remissão
 
 No que não se encontra regulado nos artigos anteriores, é aplicável ao Conselho de Ministros para os Assuntos Económicos, com as necessárias adaptações, o regime estabelecido para o Conselho de Ministros.
+
+###### Artigo 17.º-A — Planeamento do procedimento legislativo
+
+1 - Os gabinetes dos ministros informam o Gabinete do Secretário de Estado da Presidência do Conselho de Ministros, em prazo razoável, das iniciativas legislativas em preparação, tendo em vista, nomeadamente, o planeamento do procedimento legislativo.
+
+2 - O Secretário de Estado da Presidência do Conselho de Ministros pode solicitar o envio de ante-projectos, sempre que a natureza das iniciativas legislativas o justifique.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
+
+###### Artigo 17.º-B — Transposição de directivas comunitárias
+
+1 - O Gabinete do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas informa os gabinetes dos ministros e o Gabinete do Secretário de Estado da Presidência do Conselho de Ministros, com a regularidade e antecedência razoáveis, dos prazos de transposição de directivas comunitárias para a ordem jurídica nacional.
+
+2 - Os gabinetes dos ministros informam o Gabinete do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas das iniciativas legislativas em preparação que visem a transposição de directivas comunitárias, dando conhecimento ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
 
 ### CAPÍTULO II — Da preparação de projectos
 
@@ -392,13 +446,23 @@ r) A racionalização e eficácia da organização e gestão públicas, designad
 
 3 - Compete ao ministro proponente do projecto solicitar à Ministra de Estado e das Finanças a emissão de parecer, dando conhecimento ao Secretário de Estado da Presidência do Conselho de Ministros.
 
+###### Artigo 20.º-A — Parecer do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas
+
+1 - Todos os projectos de diploma que visem a transposição para a ordem jurídica nacional de directivas comunitárias carecem de parecer do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas.
+
+2 - Compete ao ministro proponente do projecto solicitar ao Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas a emissão de parecer, dando conhecimento ao Secretário de Estado da Presidência do Conselho de Ministros.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
+
 ###### Artigo 21.º — Prazo para a emissão de parecer
 
-1 - Os pareceres referidos no artigo anterior devem ser emitidos no prazo de oito dias ou, em casos de urgência, de três dias contados a partir da data da sua solicitação pelo ministro responsável pelo projecto.
+1 - Os pareceres referidos nos artigos anteriores devem ser emitidos no prazo de oito dias ou, em casos de urgência, de três dias contados a partir da data da sua solicitação pelo ministro responsável pelo projecto.
 
 2 - Na falta de emissão de parecer nos prazos previstos no número anterior, o ministro proponente pode enviar o projecto para circulação e agendamento.
 
-3 - No caso de o projecto ser enviado para circulação e agendamento nos termos previstos no número anterior, não é dispensada a emissão de parecer pela Ministra de Estado e das Finanças.
+3 - No caso de o projecto ser enviado para circulação e agendamento nos termos previstos no número anterior, não é dispensada a emissão de parecer pelo Ministro de Estado e das Finanças e pelo Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
 
 ##### SUBSECÇÃO II — Audições
 
@@ -412,13 +476,19 @@ r) A racionalização e eficácia da organização e gestão públicas, designad
 
 4 - No que respeita à Região Autónoma da Madeira, o prazo de audição é de 15 ou 10 dias, consoante o órgão que se deva pronunciar seja a Assembleia Legislativa Regional ou o Governo Regional, podendo ser encurtado em caso de urgência.
 
-5 - Quando tal se justifique, podem os projectos ser submetidos a Conselho de Ministros, para aprovação na generalidade, antes de decorrido o prazo previsto no número anterior, ficando a aprovação final dependente do transcurso desse prazo.
+5 - (Revogado.)
 
-###### Artigo 23.º — Audições previstas na lei
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
+
+###### Artigo 23.º — Outras audições
 
 1 - Compete ao ministro proponente do projecto promover as audições previstas na lei.
 
 2 - Compete ao Secretário de Estado da Presidência do Conselho de Ministros assegurar, no contexto do procedimento legislativo, o respeito pelos direitos de audição previstos na lei.
+
+3 - Quando tal se justifique, podem os projectos ser submetidos a Conselho de Ministros, para aprovação na generalidade, antes de decorrido o prazo da audição, ficando a aprovação final dependente do transcurso desse prazo.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
 
 #### SECÇÃO III — Envio de projectos para circulação e agendamento
 
@@ -428,19 +498,21 @@ Os originais dos projectos de proposta de lei, de proposta de resolução, de de
 
 ###### Artigo 25.º — Documentos que acompanham os projectos
 
-1 - Os projectos a remeter ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros são acompanhados de uma nota justificativa, com natureza interna, de que constem, discriminadamente, em todos os casos, os seguintes elementos:
+1 - Os projectos a remeter ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros são acompanhados de uma nota justificativa de que constem, discriminadamente, em todos os casos, os seguintes elementos:
 
 a) Sumário a publicar no Diário da República;
 
 b) Síntese do conteúdo do projecto;
 
-c) Identificação expressa da legislação a alterar ou a revogar e eventual legislação complementar;
+c) Necessidade da forma proposta para o projecto;
 
-d) Avaliação sumária dos meios financeiros e humanos envolvidos na respectiva execução a curto e médio prazos;
+d) Identificação expressa da legislação a alterar ou a revogar e eventual legislação complementar;
 
-e) Referência à participação ou audição de entidades, nomeadamente aquelas cujo parecer prévio seja legalmente exigido, com indicação do respectivo conteúdo;
+e) Avaliação sumária dos meios financeiros e humanos envolvidos na respectiva execução a curto e médio prazos;
 
-f) Nota destinada à divulgação junto da comunicação social.
+f) Referência à participação ou audição de entidades, nomeadamente aquelas cujo parecer prévio seja legalmente exigido, com indicação do respectivo conteúdo;
+
+g) Nota destinada à divulgação junto da comunicação social, com indicação das implicações mais relevantes de natureza jurídica, económica e social.
 
 2 - Quando tal se justifique, da nota justificativa devem ainda constar os seguintes elementos:
 
@@ -448,17 +520,23 @@ a) Actual enquadramento jurídico da matéria objecto do projecto;
 
 b) Razões que aconselham a alteração da situação existente;
 
-c) Articulação com o Programa do Governo;
+c) Análise comparativa entre o regime jurídico em vigor e o regime jurídico a aprovar;
 
-d) Articulação com políticas comunitárias envolvidas;
+d) Avaliação do impacte decorrente da aplicação do projecto;
 
-e) Necessidade da forma proposta para o projecto.
+e) Articulação com o Programa do Governo;
+
+f) Articulação com políticas comunitárias envolvidas;
+
+g) Programa de acções destinado à divulgação pública do projecto.
 
 3 - A nota justificativa tem a natureza do documento interno do Governo.
 
 4 - Os projectos a remeter ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros são acompanhados dos pareceres ou documentos comprovativos das consultas cuja promoção seja da responsabilidade do ministro proponente do projecto.
 
 5 - A falta de apresentação da nota justificativa impede o agendamento do projecto em reunião de secretários de Estado ou em Conselho de Ministros.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
 
 #### SECÇÃO IV — Circulação e apreciação preliminar
 
@@ -470,13 +548,17 @@ a) Determina a sua devolução às entidades proponentes, caso não tenham sido 
 
 b) Determina a sua circulação pelos gabinetes de todos os membros do Conselho de Ministros, bem como pelos gabinetes dos ministros da República para as Regiões Autónomas.
 
-2 - A circulação inicia-se às quintas-feiras, mediante a distribuição de cópias dos projectos pelos gabinetes das entidades referidas, sendo as entregas feitas contra recibo, onde constam a data e a hora da recepção e a assinatura do membro do gabinete que receber os documentos.
+2 - A circulação inicia-se às sextas-feiras, mediante a distribuição de cópias dos projectos pelos gabinetes das entidades referidas, sendo as entregas feitas contra-recibo, onde constam a data e a hora da recepção e a assinatura do membro do gabinete que receber os documentos.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
 
 ###### Artigo 27.º — Objecções e comentários
 
 1 - Durante a circulação, que se prolonga até à reunião dos secretários de Estado para a qual o projecto seja agendado, podem os gabinetes dos membros do Governo e dos ministros da República transmitir ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros e aos gabinetes dos ministros proponentes quaisquer objecções ou comentários ao projecto circulado.
 
-2 - As objecções e comentários devem, quando não importarem rejeição global do projecto, conter redacções alternativas aos textos sobre os quais não houve concordância.
+2 - As objecções e comentários devem ser transmitidos até ao último dia útil anterior à reunião de secretários de Estado para a qual o projecto seja agendado e, quando não importarem rejeição global do mesmo, conter redacções alternativas aos textos sobre os quais não houve concordância.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
 
 #### SECÇÃO V — Reunião de secretários de Estado
 
@@ -488,11 +570,15 @@ b) Determina a sua circulação pelos gabinetes de todos os membros do Conselho 
 
 a) O Ministro Adjunto;
 
-b) Outros secretários de Estado que, pela natureza da matéria agendada, devam estar presentes;
+b) Outros ministros, a convite do Ministro da Presidência;
 
-c) Representantes dos gabinetes dos ministros da República para as Regiões Autónomas, por estes indicados, que, pela natureza da matéria agendada, o Ministro da Presidência decida convidar a participar.
+c) Outros secretários de Estado que, pela natureza da matéria agendada, devam estar presentes;
+
+d) Representantes dos gabinetes dos ministros da República para as Regiões Autónomas, por estes indicados, que, pela natureza da matéria agendada, o Ministro da Presidência decida convidar a participar.
 
 3 - Assiste às reuniões de secretários de Estado um elemento do Gabinete do Primeiro-Ministro.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
 
 ###### Artigo 29.º — Periodicidade
 
@@ -514,7 +600,7 @@ b) Apreciar, a título excepcional, mediante solicitação do membro do Governo 
 
 ###### Artigo 31.º — Agenda
 
-1 - Compete ao Ministro da Presidência o agendamento de projectos para as reuniões de secretários de Estado.
+1 - Compete ao Ministro da Presidência ou, nas suas ausências e impedimentos, ao Secretário de Estado da Presidência do Conselho de Ministros o agendamento de projectos para as reuniões de secretários de Estado.
 
 2 - A agenda da reunião de secretários de Estado é remetida pelo Gabinete do Secretário de Estado da Presidência do Conselho de Ministros, na penúltima quinta-feira anterior à reunião, aos gabinetes de todos os ministros e dos ministros da República.
 
@@ -528,6 +614,8 @@ c) A terceira, relativa à apreciação de projectos transitados de anteriores r
 
 4 - A agenda da reunião de secretários de Estado pode ter ainda por objecto a apreciação das iniciativas referidas na alínea b) do n.º 1 e no n.º 2 do artigo 30.º
 
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
+
 ###### Artigo 32.º — Deliberações
 
 1 - Os projectos apreciados em reunião de secretários de Estado são objecto de deliberação:
@@ -538,9 +626,11 @@ b) De adiamento;
 
 c) De aceitação da retirada pelos respectivos proponentes;
 
-d) De sugestão de inscrição na parte III da agenda do Conselho de Ministros.
+d) De proposta de inscrição na parte III da agenda do Conselho de Ministros.
 
 2 - Os projectos que incidam sobre a orgânica dos serviços da Administração Pública devem merecer consenso em reunião de secretários de Estado.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02.
 
 ###### Artigo 33.º — Súmula
 
