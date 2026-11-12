@@ -120,12 +120,17 @@ def parse_listing(page: str, year: int) -> list[Listed]:
     return items
 
 
+_SECTION = re.compile(r"^(?:Word)?Section\d+$")
+
+
 def judgment_markdown(page: str) -> str:
-    """O texto do acórdão (as secções Word da página), em parágrafos."""
+    """O texto do acórdão (as secções Word da página), em parágrafos.
+
+    As páginas recentes têm `div.WordSection1`; as anteriores a 2013, `div.Section1`."""
     soup = BeautifulSoup(page, "html.parser")
-    sections = soup.select("div[class^='WordSection'], div[class*=' WordSection']")
+    sections = soup.find_all("div", class_=_SECTION)
     if not sections:
-        raise NoSourceText("Página sem o texto do acórdão (sem secções WordSection).")
+        raise NoSourceText("Página sem o texto do acórdão (sem secções WordSection nem Section).")
     paragraphs: list[str] = []
     for section in sections:
         blocks = ["p", "h1", "h2", "h3", "h4", "h5", "h6", "li"]

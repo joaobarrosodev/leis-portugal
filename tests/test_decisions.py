@@ -206,6 +206,15 @@ def test_tc_judgment_text_comes_only_from_the_word_sections():
         tc.judgment_markdown("<html><body><p>Página não encontrada</p></body></html>")
 
 
+def test_tc_judgment_text_from_older_pages_with_section_divs():
+    # Até 2012 as páginas têm `div.Section1`, não `div.WordSection1`.
+    page = (
+        '<html><body><div class="menu"><p>Menu</p></div><div id="acimport"><div class="Section1">'
+        "<p>ACÓRDÃO N.º 2/86</p><p>Acordam no Tribunal Constitucional:</p></div></div></body></html>"
+    )
+    assert tc.judgment_markdown(page) == "ACÓRDÃO N.º 2/86\n\nAcordam no Tribunal Constitucional:"
+
+
 def test_tc_decode_falls_back_to_windows_1252():
     assert tc.decode("Acórdão".encode("cp1252")) == "Acórdão"
     assert tc.decode("Acórdão".encode()) == "Acórdão"
