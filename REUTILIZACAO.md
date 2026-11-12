@@ -43,6 +43,8 @@ Decisões em `data/entidades/cnpd/` (pareceres, deliberações, diretrizes, regu
 - **Limites:** só para fins pessoais, associativos ou profissionais. **Não são permitidos fins comerciais nem publicitários.**
 - **Atribuição:** "Comissão Nacional de Proteção de Dados (www.cnpd.pt) — todos os direitos reservados".
 - **Atenção:** são decisões de uma entidade administrativa independente, não legislação. Só a cópia certificada tem valor legal. O texto é extraído do PDF; os PDF digitalizados ficam só com os metadados e a ligação ao PDF.
+- **Dados pessoais:** os registos e as autorizações anteriores ao RGPD identificam o responsável pelo tratamento, por vezes um empresário em nome individual.
+- **Pedido à CNPD:** a CNPD foi notificada em 12/11/2026; à espera de resposta.
 
 ### Tribunal Constitucional
 
@@ -51,7 +53,7 @@ Acórdãos em `data/jurisprudencia/tribunal-constitucional/`.
 - **Base:** o site do Tribunal Constitucional declara todos os direitos reservados e autoriza a reprodução **para fins privados**, com citação da fonte e da natureza não autêntica do texto. Por isso, o bloco `reuse` destes registos tem `status: restricted`.
 - **Atribuição:** "Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados".
 - **Atenção:** o texto do site não tem carácter autêntico. A versão oficial é a dos arquivos do Tribunal e, para os acórdãos publicados no Diário da República, a do DR (o registo liga-lhe com `published_in`). Antes de reutilizar estes textos fora do uso privado, confirme as condições com o Tribunal.
-- **Pedido ao Tribunal:** em 12/11/2026 o projeto pediu ao Tribunal (Responsável pelo acesso à informação) a confirmação de que esta reutilização é aceite: acesso gratuito, sem fins comerciais, texto sem alterações, fonte e ligação a cada acórdão, menção de que não é a versão oficial, recolha a 1 pedido por segundo. Se o Tribunal não aceitar, o texto dos acórdãos sai do repositório e ficam só o número, a data e a ligação ao site. Enquanto não houver resposta, o estado mantém-se `restricted`.
+- **Pedido ao Tribunal:** o Tribunal foi notificado em 12/11/2026; à espera de resposta. Enquanto não houver resposta, o estado mantém-se `restricted`.
 
 ## Boas práticas
 

@@ -24,6 +24,25 @@ O objetivo é tornar o ordenamento jurídico português mais acessível, pesquis
 | Exportação | Índice de relações (JSONL), SQLite e Parquet com os metadados (`leis-portugal export`) |
 | Perguntas (protótipo) | Pesquisa por artigo com reranker e resposta só a partir dos artigos encontrados, com "não sei" quando não há base; medição com juízes às cegas em [`rag/README.md`](rag/README.md) |
 
+### O que o protótipo de perguntas consegue hoje
+
+Em palavras simples, medido em mais de mil perguntas em novembro de 2026:
+
+- **Quando responde, acerta em cerca de 19 em cada 20 perguntas** (95%). Quando a pergunta indica a lei ou o artigo, acerta praticamente em todas.
+- **Responde a mais de 8 em cada 10 perguntas.** Nas outras diz "não sei", em vez de inventar. Ao todo, cerca de 4 em cada 5 perguntas recebem uma resposta certa.
+- **Mostra sempre de onde vem a resposta:** a lei, o artigo e a redação em vigor na data. Se a lei foi revogada, diz qual foi a lei que a revogou.
+- **Não responde sobre leis que não existem:** recusou 78 de 80 perguntas deste tipo.
+
+O que ainda não consegue (sem isto, os números enganam):
+
+- **Não substitui um advogado.** As perguntas testadas são do tipo das perguntas frequentes ou sobre artigos concretos. Ainda não se mediu a análise de um caso, a interpretação da lei nem o uso da jurisprudência.
+- **Ainda nenhum jurista reviu as respostas.** Foram julgadas às cegas por quatro juízes, mas os quatro são o mesmo modelo de IA.
+- **Leis alteradas sem texto atualizado:** responde a menos de metade destas perguntas.
+- **Perguntas que precisam de dois artigos** ficam sem resposta em cerca de 1 em cada 4.
+- **É um protótipo:** as medições foram feitas com sessões do Claude, não com um serviço em produção.
+
+Os números por tipo de pergunta estão em [Cobertura e progresso](#cobertura-e-progresso) e o pormenor em [`rag/README.md`](rag/README.md).
+
 ## Índice
 
 - [Objetivos](#objetivos)
@@ -479,7 +498,7 @@ Medição às cegas (12/11/2026): outro modelo anotou 80 alíneas ao acaso, 20 d
 
 | Perguntas | Quando responde, certas | Pelo menos (95% de confiança) | Responde a |
 |---|--:|--:|--:|
-| Portugal, bem escritas (530 de teste) | 95% | 93% | 70% |
+| Portugal, bem escritas (530 de teste) | 95% | 93% | 83% |
 | Portugal, a citar o diploma (407 sintéticas) | 100% | 99% | 99% |
 | Portugal, escritas como fala uma pessoa comum (281) | 95% | 92% | 89% |
 | Portugal, diplomas alterados (99) | 98% | 88% | 43% |
