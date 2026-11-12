@@ -1,3 +1,4 @@
+![Leis de Portugal: a legislação portuguesa em formato aberto, ligada às fontes oficiais e atualizada todos os dias](.github/social-preview.png)
 
 # Leis de Portugal
 
