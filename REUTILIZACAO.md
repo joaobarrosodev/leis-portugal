@@ -43,6 +43,8 @@ Decisões em `data/entidades/cnpd/` (pareceres, deliberações, diretrizes, regu
 - **Limites:** só para fins pessoais, associativos ou profissionais. **Não são permitidos fins comerciais nem publicitários.**
 - **Atribuição:** "Comissão Nacional de Proteção de Dados (www.cnpd.pt) — todos os direitos reservados".
 - **Atenção:** são decisões de uma entidade administrativa independente, não legislação. Só a cópia certificada tem valor legal. O texto é extraído do PDF; os PDF digitalizados ficam só com os metadados e a ligação ao PDF.
+- **Dados pessoais:** os registos e as autorizações anteriores ao RGPD identificam o responsável pelo tratamento, por vezes um empresário em nome individual.
+- **Pedido à CNPD:** em 12/11/2026 o projeto pediu à CNPD a confirmação de que esta reutilização cabe nas condições dos avisos legais e se prefere que os nomes dos responsáveis nos registos e autorizações não sejam reproduzidos, ou que essas decisões fiquem de fora. À espera de resposta; o que a CNPD indicar é aplicado.
 
 ### Tribunal Constitucional
 

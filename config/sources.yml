@@ -72,7 +72,7 @@ sources:
     reuse:
       status: permitted_with_conditions
       reference: https://www.cnpd.pt/avisos-legais-e-outras-informacoes/
-      summary: "Reprodução permitida com distribuição gratuita, integridade dos documentos e citação expressa do site com menção de direitos reservados; uso pessoal, associativo ou profissional, sem fins comerciais ou publicitários. Só a cópia certificada tem valor legal."
+      summary: "Reprodução permitida com distribuição gratuita, integridade dos documentos e citação expressa do site com menção de direitos reservados; uso pessoal, associativo ou profissional, sem fins comerciais ou publicitários. Só a cópia certificada tem valor legal. Pedida à CNPD, em 12/11/2026, a confirmação desta reutilização e a indicação sobre os nomes dos responsáveis nos registos e autorizações (ver REUTILIZACAO.md)."
     limits:
       known: "Não há API: listagens HTML e descargas PDF. Os PDF digitalizados não têm camada de texto e ficam só com os metadados até haver OCR. O assunto da listagem vem cortado a 100 carateres; a data da decisão é lida no texto (última data por extenso) e falta quando não há texto."
       rate_limit_policy: "1 pedido por segundo, com novas tentativas exponenciais em erros 5xx/429."
