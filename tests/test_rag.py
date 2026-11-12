@@ -108,3 +108,27 @@ def test_numeros_ue_aceita_as_formas_de_citar_atos_da_ue():
     assert "2025/2180" in _numeros_ue("2180/2025")  # Regulamento (UE) 2025/2180
     assert _numeros_ue("2025/2180") == ["2025/2180"]
     assert _numeros_ue("13-A/2010") == ["13-A/2010"]
+
+
+def test_tipos_da_serie_ii_recolhidos_em_massa_ficam_fora_do_indice(tmp_path):
+    import sqlite3
+
+    from rag.indice import documentos_do_export, fora_por_omissao
+
+    assert fora_por_omissao("regulamento", "2026-11-12T14:50:00Z")
+    assert not fora_por_omissao("regulamento", "2026-11-11T22:30:32Z")  # já citado por um diploma do acervo
+    assert not fora_por_omissao("decreto-lei", "2026-11-13T09:00:00Z")
+    export = tmp_path / "export.sqlite"
+    with sqlite3.connect(export) as con:
+        con.execute(
+            "CREATE TABLE documentos (id, title, document_type, official_number, official_date, publication_date, summary,"
+            " legal_status, version_kind, consolidation_date, path, retrieved_at, text_quality)"
+        )
+        linhas = [
+            ("a", "Regulamento", "regulamento", None, None, "2020-01-01", "", None, None, None, "a.md", "2026-11-12T15:00:00Z", "texto"),
+            ("b", "Regulamento", "regulamento", None, None, "2020-01-01", "", None, None, None, "b.md", "2026-11-01T15:00:00Z", "texto"),
+            ("c", "Decreto-Lei", "decreto-lei", None, None, "2020-01-01", "", None, None, None, "c.md", "2026-11-12T15:00:00Z", "texto"),
+        ]
+        con.executemany("INSERT INTO documentos VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", linhas)
+    assert [d.id for d in documentos_do_export(export)] == ["b", "c"]
+    assert [d.id for d in documentos_do_export(export, com_serie_ii=True)] == ["a", "b", "c"]

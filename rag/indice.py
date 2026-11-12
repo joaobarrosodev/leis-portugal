@@ -10,6 +10,12 @@ Tudo fica num SQLite com FTS5 (BM25), fora do git:
 
     PYTHONPATH=src python -m rag.indice                # acervo completo (~1 h)
     PYTHONPATH=src python -m rag.indice --amostra 5000 # só os diplomas da avaliação e mais 5000
+    PYTHONPATH=src python -m rag.indice --com-serie-ii # também os atos da 2.ª Série recolhidos em 12/11/2026
+
+Os regulamentos, deliberações, acordos coletivos de trabalho, editais e declarações que o
+`collect dre --missing --all` trouxe a partir de 12/11/2026 (~100 mil, quase todos da 2.ª
+Série) ficam fora por omissão, até se medir que ajudam a pesquisa: ver `fora_por_omissao`.
+Os destes tipos que já lá estavam (os citados ou alterados por diplomas do acervo) continuam.
 """
 
 from __future__ import annotations
@@ -159,14 +165,27 @@ def _com_historico(historico: dict) -> list[Pedaco]:
     return feitos
 
 
-def documentos_do_export(export: Path) -> list[Documento]:
+# Tipos da 2.ª Série recolhidos em massa a partir de 12/11/2026 (`collect dre --missing --all
+# --types ...`). Ainda não se mediu se ajudam ou atrapalham a pesquisa, por isso os registos
+# destes tipos recolhidos desde essa data ficam fora do índice por omissão (`--com-serie-ii`
+# para os incluir). Os recolhidos antes (os que um diploma do acervo cita ou altera) entram.
+TIPOS_SERIE_II = ("regulamento", "deliberacao", "acordo-coletivo-trabalho", "edital", "declaracao")
+SERIE_II_DESDE = "2026-11-12"
+
+
+def fora_por_omissao(tipo: str, recolhido_em: str | None) -> bool:
+    """Registo dos tipos da 2.ª Série recolhido na recolha em massa (fica fora por omissão)."""
+    return tipo in TIPOS_SERIE_II and (recolhido_em or "") >= SERIE_II_DESDE
+
+
+def documentos_do_export(export: Path, *, com_serie_ii: bool = False) -> list[Documento]:
     with sqlite3.connect(f"file:{export}?mode=ro", uri=True) as con:
         linhas = con.execute(
             """SELECT id, title, document_type, official_number, coalesce(official_date, publication_date), coalesce(summary, ''),
-                      coalesce(legal_status, 'unknown'), coalesce(version_kind, 'original'), consolidation_date, path
+                      coalesce(legal_status, 'unknown'), coalesce(version_kind, 'original'), consolidation_date, path, retrieved_at
                FROM documentos WHERE text_quality = 'texto' ORDER BY path"""
         ).fetchall()
-    return [Documento(*linha) for linha in linhas]
+    return [Documento(*linha[:-1]) for linha in linhas if com_serie_ii or not fora_por_omissao(linha[2], linha[-1])]
 
 
 def relacoes_do_export(export: Path, ids: set[str]) -> Iterator[tuple[str, str, str, str, str | None]]:
@@ -273,9 +292,13 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--saida", type=Path, default=PASTA_INDICE / "indice.sqlite")
     parser.add_argument("--amostra", type=int, help="Só os diplomas da avaliação e mais N ao acaso (para desenvolver).")
     parser.add_argument("--fios", type=int, default=8)
+    parser.add_argument(
+        "--com-serie-ii", action="store_true",
+        help="Incluir os regulamentos, deliberações, ACT, editais e declarações da recolha em massa de 12/11/2026.",
+    )
     args = parser.parse_args(argv)
     export = export_sqlite()
-    documentos = documentos_do_export(export)
+    documentos = documentos_do_export(export, com_serie_ii=args.com_serie_ii)
     if args.amostra is not None:
         avaliacao = documentos_da_avaliacao()
         # Os consolidados que têm o texto em vigor dos códigos republicados (IRS, IRC…) também entram.
