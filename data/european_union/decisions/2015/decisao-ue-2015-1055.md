@@ -1,0 +1,176 @@
+---
+schema_version: '1.0'
+id: eu:celex:32015D1055:por
+title: Decisão de Execução (UE) 2015/1055 da Comissão, de 30 de junho de 2015
+short_title: null
+summary: Decisão de Execução (UE) 2015/1055 da Comissão, de 30 de junho de 2015, no respeitante à coerência de determinados
+  objetivos incluídos nos planos nacionais ou relativos aos blocos funcionais de espaço aéreo, apresentados pela Suíça ao
+  abrigo do Regulamento (CE) n.° 549/2004 do Parlamento Europeu e do Conselho, com os objetivos de desempenho a nível da União
+  para o segundo período de referência [notificada com o número C(2015) 4403] (Texto relevante para efeitos do EEE)
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão de Execução
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2015/1055
+official_date: null
+publication_date: '2015-07-02'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 171 de 2.7.2015
+  number: '171'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/843895bf-2088-11e5-a342-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2015-07-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32015D1055
+  eli: http://data.europa.eu/eli/dec_impl/2015/1055/oj
+  oj: oj:JOL_2015_171_R_0005
+  dre: null
+  dre_path: null
+  internal: eu:celex:32015D1055:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32015D1055
+  metadata_url: http://publications.europa.eu/resource/cellar/843895bf-2088-11e5-a342-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/843895bf-2088-11e5-a342-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:55:16Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-12T09:34:25.319+02:00'
+integrity:
+  source_sha256: b800a4ef36b1ad919e57dbeb42bf9b54189eb5c578e9c57c321cedcabc1901f5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:55:16Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Suíça
+- controlo aéreo
+- espaço aéreo
+- política comum dos transportes
+- proteção do ambiente
+- segurança aérea
+- tráfego aéreo
+relationships:
+- type: based_on
+  target: celex:22002A0430(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fbbce0d6-c474-436b-a29d-aefd1752bd70
+  date: '2002-05-10'
+- type: based_on
+  target: celex:32004R0549
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a05de3ee-6cf8-47d8-9d65-4fd263e4e184
+  date: '2004-03-10'
+- type: cites
+  target: celex:32013R0390
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ee949547-b877-11e2-ab01-01aa75ed71a1
+- type: cites
+  target: celex:32014D0132
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1c24f80a-a9bb-11e3-86f9-01aa75ed71a1
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:55:16Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DE EXECUÇÃO (UE) 2015/1055 DA COMISSÃO
+
+de 30 de junho de 2015
+
+no respeitante à coerência de determinados objetivos incluídos nos planos nacionais ou relativos aos blocos funcionais de espaço aéreo, apresentados pela Suíça ao abrigo do Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, com os objetivos de desempenho a nível da União para o segundo período de referência
+
+*[notificada com o número C(2015) 4403]*
+
+(Apenas fazem fé os textos nas línguas alemã, francesa e italiana)
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Acordo entre a Comunidade Europeia e a Confederação Suíça relativo aos transportes aéreos, (a seguir designado por «Acordo») [([^1])](http://publications.europa.eu/resource/cellar/843895bf-2088-11e5-a342-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2015171PT.01001401-E0001),
+
+Tendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de março de 2004, que estabelece o quadro para a realização do céu único europeu («regulamento-quadro») [([^2])](http://publications.europa.eu/resource/cellar/843895bf-2088-11e5-a342-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2015171PT.01001401-E0002), tal como incorporado no Acordo, nomeadamente o artigo 11.º, n.º 3, alínea c),
+
+Considerando o seguinte:
+
+(1) Nos termos do disposto no Regulamento (CE) n.º 549/2004, tal como incorporado no Acordo, os Estados-Membros e a Suíça devem adotar planos nacionais ou relativos aos blocos funcionais de espaço aéreo («FAB»), incluindo objetivos nacionais vinculativos ou objetivos a nível dos FAB, garantindo a coerência dos mesmos com os objetivos de desempenho a nível da União. O regulamento prevê igualmente que a Comissão avalie a coerência de tais objetivos com base nos critérios de avaliação mencionados no artigo 11.º, n.º 6, alínea d), e que a Comissão pode decidir formular recomendações, caso verifique que tais critérios não foram preenchidos. O Regulamento de Execução (UE) n.º 390/2013 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/843895bf-2088-11e5-a342-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2015171PT.01001401-E0003) define regras pormenorizadas neste domínio.
+
+(2) Os objetivos de desempenho a nível da União nos domínios essenciais da segurança, do ambiente, da capacidade e da relação custo-eficiência para o segundo período de referência (2015-2019) foram estabelecidos na Decisão de Execução 2014/132/UE da Comissão [([^4])](http://publications.europa.eu/resource/cellar/843895bf-2088-11e5-a342-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2015171PT.01001401-E0004).
+
+(3) A Suíça apresentou à Comissão o plano de desempenho, a nível do FAB, neste caso do bloco funcional de espaço aéreo da Europa central («FABEC»), em 30 de junho de 2014. Na sua avaliação, a Comissão baseou-se nas informações incluídas no plano de desempenho.
+
+(4) O órgão de análise do desempenho, que está encarregado de assistir a Comissão na implantação do sistema de desempenho nos termos do artigo 3.º do Regulamento de Execução (UE) n.º 390/2013, apresentou um relatório de avaliação inicial à Comissão em 7 de outubro de 2014 e uma versão atualizada do mesmo em 15 de dezembro de 2014. Além disso, a Comissão recebeu relatórios do órgão de análise do desempenho sobre a monitorização dos planos e objetivos de desempenho, baseados em informações prestadas pelas autoridades supervisoras nacionais, em conformidade com o artigo 18.º, n.º 4, do Regulamento de Execução (UE) n.º 390/2013.
+
+(5) No que respeita ao domínio essencial de desempenho da segurança, a coerência dos objetivos apresentados pela Suíça, tal como estabelecidos no plano de desempenho a nível do FABEC, relativamente à eficácia da gestão da segurança e à aplicação da classificação por grau de gravidade com base na metodologia constante da ferramenta de análise de riscos (RAT) foi avaliada em conformidade com os princípios definidos no anexo IV, ponto 2, do Regulamento de Execução (UE) n.º 390/2013. Esta avaliação demonstrou que estes objetivos são coerentes com o objetivo de desempenho pertinente a nível da União.
+
+(6) Relativamente ao domínio essencial de desempenho do ambiente, a coerência dos objetivos apresentados pela Suíça, tal como estabelecidos no plano de desempenho a nível do FABEC, foi avaliada em conformidade com os princípios definidos no anexo IV, ponto 3, do Regulamento de Execução (UE) n.º 390/2013, usando os respetivos valores de referência dos FAB no que respeita à eficiência de voo horizontal em rota da trajetória real que, quando aplicados, garantem o cumprimento, no território da União, do objetivo de desempenho a nível da União, calculado pelo gestor da rede e estabelecido no plano de operações da rede (2014-2018/2019) na sua versão mais recente, de junho de 2014 (designado por «plano de operações da rede»). Esta avaliação demonstrou que estes objetivos são coerentes com o objetivo de desempenho pertinente a nível da União.
+
+(7) Por conseguinte, a Comissão considera que os objetivos incluídos no plano de desempenho elaborado pela Suíça para o FABEC são coerentes com os objetivos de desempenho fixados a nível da União nos domínios essenciais de desempenho da segurança e do ambiente. No que respeita a todos estes objetivos, não é, portanto, necessário formular recomendações no sentido de as autoridades supervisoras nacionais em causa proporem objetivos revistos. Quanto aos objetivos apresentados pela Suíça nos domínios essenciais de desempenho da capacidade e da relação custo/eficiência, tal como estabelecidos no plano de desempenho a nível do FABEC, que não são coerentes com os objetivos de desempenho pertinentes a nível da União, a Comissão publicou recomendações para rever esses objetivos, que constam da [Decisão de Execução da Comissão no respeitante à incoerência dos objetivos apresentados pela Suíça].
+
+(8) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité do Céu Único,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+Os objetivos de desempenho relativamente aos domínios essenciais de desempenho da segurança e do ambiente, incluídos no plano de desempenho a nível do FABEC apresentado pela Suíça nos termos do Regulamento (CE) n.º 549/2004, tal como incluído no Acordo, enumerados no anexo, são coerentes com os objetivos de desempenho a nível da União para o segundo período de referência estabelecidos na Decisão de Execução 2014/132/UE.
+
+###### Artigo 2.º
+
+A destinatária da presente decisão é a Confederação Suíça.
+
+Feito em Bruxelas, em 30 de junho de 2015.
+
+***Pela Comissão***
+
+**Violeta BULC**
+
+***Membro da Comissão***
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/843895bf-2088-11e5-a342-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2015171PT.01001401-E0001) [JO L 114 de 30.4.2002, p. 73](http://publications.europa.eu/resource/oj/JOL_2002_114_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/843895bf-2088-11e5-a342-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2015171PT.01001401-E0002) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/843895bf-2088-11e5-a342-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2015171PT.01001401-E0003) Regulamento de Execução (UE) n.º 390/2013 da Comissão, de 3 de maio de 2013, que estabelece um sistema de desempenho para os serviços de navegação aérea e as funções da rede ([JO L 128 de 9.5.2013, p. 1](http://publications.europa.eu/resource/oj/JOL_2013_128_R_TOC)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/843895bf-2088-11e5-a342-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2015171PT.01001401-E0004) Decisão de Execução 2014/132/UE da Comissão, de 11 de março de 2014, que fixa os objetivos de desempenho a nível da UE para a rede de gestão do tráfego aéreo e os limiares de alerta para o segundo período de referência 2015-2019 ([JO L 71 de 12.3.2014, p. 20](http://publications.europa.eu/resource/oj/JOL_2014_071_R_TOC)).

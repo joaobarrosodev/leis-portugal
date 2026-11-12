@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 9245 - 9245
   pdf_url: https://files.diariodarepublica.pt/2s/2017/05/093000000/0924509245.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-05-16'
+entry_into_force:
+  date: '2017-05-16'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: n-3
+  effects_date: '2017-05-02'
+  effects_rule: desde 2 de maio de 2017
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

@@ -1,0 +1,217 @@
+---
+schema_version: '1.0'
+id: eu:celex:32008D0714:por
+title: '2008/714/CE: Decisão da Comissão, de 14 de Dezembro de 2004'
+short_title: null
+summary: '2008/714/CE: Decisão da Comissão, de 14 de Dezembro de 2004 , que altera a Decisão 2002/610/CE relativa ao regime
+  de auxílio que a França tenciona aplicar a favor da entrada em serviço de novas linhas de transporte marítimo de curta distância
+  [notificada com o número C(2004) 4519] (Texto relevante para efeitos do EEE)'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2008/714
+official_date: null
+publication_date: '2008-09-05'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 238 de 5.9.2008
+  number: '238'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.01/DOC_1
+entry_into_force_dates:
+- '2008-09-05'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32008D0714
+  eli: http://data.europa.eu/eli/dec/2008/714/oj
+  oj: oj:JOL_2008_238_R_0007_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32008D0714:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32008D0714
+  metadata_url: http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018
+  content_url: http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.02/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:38:14Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-10-30T10:26:39.702+01:00'
+integrity:
+  source_sha256: 38d4b30dadb6f316705924e3cb05a7035f20df47778378c4e1fe0dd6731dcb41
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:38:14Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- França
+- auxílio estatal
+- controlo dos auxílios estatais
+- linha de transporte
+- regime de ajuda
+- transporte marítimo
+relationships:
+- type: amends
+  target: celex:32002D0610
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8256a306-13eb-42da-983e-cb7d32d4e9a3
+  date: '2002-07-26'
+- type: based_on
+  target: celex:21994A0103(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c692168c-a25b-4a3c-aade-ca872bb93f69
+  date: '1993-12-13'
+- type: based_on
+  target: celex:12006E088
+  label: null
+  source: http://publications.europa.eu/resource/cellar/16f6afda-5688-4124-a3d3-e00d3243d4a6
+  date: '2007-01-31'
+- type: cites
+  target: celex:32003R1382
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b803e8a5-e733-4c7f-92d0-c4928e150aef
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:38:14Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DA COMISSÃO
+
+de 14 de Dezembro de 2004
+
+que altera a Decisão 2002/610/CE relativa ao regime de auxílio que a França tenciona aplicar a favor da entrada em serviço de novas linhas de transporte marítimo de curta distância
+
+[notificada com o número C(2004) 4519]
+
+(O texto em língua francesa é o único que faz fé)
+
+(Texto relevante para efeitos do EEE)
+
+(2008/714/CE)
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 2, primeiro parágrafo, do artigo 88.º,
+
+Tendo em conta o Acordo sobre o Espaço Económico Europeu, nomeadamente o n.º 1, alínea a), do artigo 62.º,
+
+Considerando o seguinte:
+
+(1) Em 30 de Janeiro de 2002, a Comissão adoptou, após procedimento formal de exame, a Decisão 2002/610/CE [([^1])](http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.02/DOC_1#ntr1-L_2008238PT.01000701-E0001), que aprova, mediante determinadas condições expostas a seguir, um regime de auxílio destinado a promover a entrada em serviço de linhas marítimas de curta distância, a seguir denominada «decisão final». A decisão final refere, no seu considerando 26, a aceitação pela França de condições de natureza processual que são especialmente rigorosas para os projectos de auxílio a favor de linhas marítimas intracomunitárias entre um porto francês e um porto de outro Estado-Membro, mas não para os relativos a ligações marítimas entre dois portos franceses.
+
+(2) Em 18 de Novembro de 2004, as autoridades francesas solicitaram à Comissão a alteração da decisão final de modo a ter em conta as novas disposições mais favoráveis das orientações comunitárias sobre auxílios estatais aos transportes marítimos [([^2])](http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.02/DOC_1#ntr2-L_2008238PT.01000701-E0002), a seguir denominadas «orientações comunitárias».
+
+(3) A medida que é objecto da decisão final intitula-se: regime de auxílio a favor da entrada em serviço de novas linhas de transporte marítimo de curta distância.
+
+(4) O principal objectivo da alteração proposta é ter em conta o novo quadro jurídico explicitado nas orientações comunitárias para os auxílios ao lançamento de linhas marítimas de curta distância e tornar as condições impostas pela decisão final compatíveis com essas novas regras comunitárias no domínio dos auxílios estatais.
+
+(5) No considerando 26 da decisão final, afirma-se: «A fim de garantir a transparência e a igualdade de tratamento dos operadores no âmbito do procedimento de selecção dos projectos, as autoridades francesas comprometeram-se a respeitar os procedimentos seguintes: a) Um convite à manifestação de interesse será lançado periodicamente (no início de cada ano civil, por exemplo) sob a forma de anúncio publicado no *Jornal Oficial das Comunidades Europeias*, especificando as modalidades do regime de auxílio, o procedimento a adoptar e os critérios de selecção dos candidatos; b) Para os projectos de ligação entre um porto francês e um porto de outro Estado-Membro, uma declaração de intenções será inserida no *Jornal Oficial das Comunidades Europeias*, especificando o objecto do projecto e o limite do auxílio previsto e convidando as partes interessadas a manifestar-se num prazo de 15 dias úteis. Em caso de oposição fundamentada de uma dessas partes, o projecto de auxílio deverá ser notificado à Comissão para autorização prévia.».
+
+a) Um convite à manifestação de interesse será lançado periodicamente (no início de cada ano civil, por exemplo) sob a forma de anúncio publicado no *Jornal Oficial das Comunidades Europeias*, especificando as modalidades do regime de auxílio, o procedimento a adoptar e os critérios de selecção dos candidatos;
+
+b) Para os projectos de ligação entre um porto francês e um porto de outro Estado-Membro, uma declaração de intenções será inserida no *Jornal Oficial das Comunidades Europeias*, especificando o objecto do projecto e o limite do auxílio previsto e convidando as partes interessadas a manifestar-se num prazo de 15 dias úteis. Em caso de oposição fundamentada de uma dessas partes, o projecto de auxílio deverá ser notificado à Comissão para autorização prévia.».
+
+(6) De acordo com as autoridades francesas, a aplicação dos procedimentos previstos, nomeadamente, na alínea b) do considerando 26 revela-se particularmente morosa e, consequentemente, prejudicial à boa execução dos projectos.
+
+(7) As autoridades francesas pretendem que a decisão final seja alterada em consonância com o capítulo 10 das orientações comunitárias, que incide nos auxílios a favor das linhas marítimas de curta distância.
+
+(8) A Comissão faz notar, em primeiro lugar, que as orientações comunitárias anteriores [([^3])](http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.02/DOC_1#ntr3-L_2008238PT.01000701-E0003), que estavam em vigor quando foi adoptada a decisão final, não previam regras especiais para os auxílios a favor do lançamento de linhas marítimas de curta distância. Logo, era lógico que, na decisão final, a Comissão definisse regras especiais *ad hoc* para aprovar o regime específico francês a favor do lançamento dessas linhas marítimas.
+
+(9) A Comissão recorda ainda que adoptou, entretanto, novas orientações comunitárias, que estabelecem um enquadramento para os auxílios estatais a favor do lançamento de linhas marítimas de curta distância, à semelhança dos objectivos definidos no Regulamento (CE) n.º 1382/2003 do Parlamento Europeu e do Conselho, de 22 de Julho de 2003, relativo à concessão de apoio financeiro comunitário para melhorar o desempenho ambiental do sistema de transporte de mercadorias («programa Marco Pólo») [([^4])](http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.02/DOC_1#ntr4-L_2008238PT.01000701-E0004), cuja adopção é também posterior à decisão final.
+
+(10) No capítulo 10 das novas orientações comunitárias, considera-se que os auxílios individuais a favor de linhas de curta distância são compatíveis com o mercado comum, desde que satisfaçam as condições seguintes: «— O auxílio deverá ter uma duração que não exceda três anos e por objecto o financiamento de um serviço marítimo que estabeleça uma ligação entre portos situados no território dos Estados-Membros; — O serviço deverá permitir que o transporte (essencialmente de mercadorias) efectuado por estrada seja efectuado total ou parcialmente por via marítima, sem desvio do transporte marítimo contrário ao interesse comum; — O auxílio deverá ter por objectivo a execução de um projecto circunstanciado, com um impacto ambiental preestabelecido, relativo a uma nova rota ou à melhoria dos serviços numa rota existente, associando, se necessário, vários armadores, não podendo a mesma linha ser objecto de mais de um projecto financiado, que, por sua vez, não pode ser reconduzido, prorrogado ou repetido; — O auxílio deverá ter por finalidade cobrir até 30 % dos custos de exploração do serviço [([^5])](http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.02/DOC_1#ntr5-L_2008238PT.01000701-E0005) ou financiar a aquisição do equipamento de transbordo necessário para a prestação do serviço até 10 % dos referidos investimentos; — O auxílio à execução do projecto deverá ser concedido com base em critérios transparentes e aplicados de forma não-discriminatória em relação aos armadores estabelecidos na Comunidade. O auxílio deverá geralmente incidir num projecto seleccionado pelas autoridades do Estado-Membro mediante concurso, nos termos das regras aplicáveis na Comunidade; — O serviço objecto do projecto deverá ser comercialmente viável após decorrido o período em que é elegível para o auxílio estatal; — O auxílio não deverá ser cumulado com compensações de serviço público (obrigações ou contratos).».
+
+«— O auxílio deverá ter uma duração que não exceda três anos e por objecto o financiamento de um serviço marítimo que estabeleça uma ligação entre portos situados no território dos Estados-Membros;
+
+— O serviço deverá permitir que o transporte (essencialmente de mercadorias) efectuado por estrada seja efectuado total ou parcialmente por via marítima, sem desvio do transporte marítimo contrário ao interesse comum;
+
+— O auxílio deverá ter por objectivo a execução de um projecto circunstanciado, com um impacto ambiental preestabelecido, relativo a uma nova rota ou à melhoria dos serviços numa rota existente, associando, se necessário, vários armadores, não podendo a mesma linha ser objecto de mais de um projecto financiado, que, por sua vez, não pode ser reconduzido, prorrogado ou repetido;
+
+— O auxílio deverá ter por finalidade cobrir até 30 % dos custos de exploração do serviço [([^5])](http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.02/DOC_1#ntr5-L_2008238PT.01000701-E0005) ou financiar a aquisição do equipamento de transbordo necessário para a prestação do serviço até 10 % dos referidos investimentos;
+
+— O auxílio à execução do projecto deverá ser concedido com base em critérios transparentes e aplicados de forma não-discriminatória em relação aos armadores estabelecidos na Comunidade. O auxílio deverá geralmente incidir num projecto seleccionado pelas autoridades do Estado-Membro mediante concurso, nos termos das regras aplicáveis na Comunidade;
+
+— O serviço objecto do projecto deverá ser comercialmente viável após decorrido o período em que é elegível para o auxílio estatal;
+
+— O auxílio não deverá ser cumulado com compensações de serviço público (obrigações ou contratos).».
+
+(11) A Comissão salienta, em especial, que as novas orientações comunitárias não fazem qualquer distinção, para efeitos de auxílio, entre linhas que ligam dois portos do mesmo Estado-Membro e linhas que ligam dois portos de dois Estados-Membros. A Comissão considera que deixaram de existir razões objectivas para manter essa distinção, exposta no considerando 26 da decisão final.
+
+(12) Por outro lado, a Comissão considera que as orientações comunitárias não impedem os Estados-Membros de aplicar regimes de auxílio a favor de linhas marítimas de curta distância, desde que os auxílios concedidos no âmbito de tais regimes satisfaçam as condições acima referidas.
+
+(13) A opção que consiste em não alterar a decisão final iria, por um lado, permitir que a França concedesse auxílios para ligações entre portos franceses em condições mais favoráveis que as previstas nas novas orientações comunitárias e, por outro, penalizar a França na execução de projectos de ligações entre portos franceses e portos de outros Estados-Membros, devido aos procedimentos formais previstos no considerando 26 da decisão final. À luz das novas orientações comunitárias, estes procedimentos formais, além de já não terem justificação, colocariam a França numa posição de desigualdade perante outros Estados que pretendessem aplicar regimes de auxílio ou auxílios *ad hoc* para ligações de curta distância com os seus vizinhos, com base nas novas orientações comunitárias.
+
+(14) Com efeito, por força do n.º 1 do artigo 88.º do Tratado CE, a Comissão deve também proceder ao exame permanente dos regimes de auxílio existentes. Neste contexto, deve verificar se as regras aplicáveis aos auxílios estatais são uniformemente aplicadas a todos os regimes em vigor nos Estados-Membros. A Comissão propõe concretamente aos Estados-Membros as medidas úteis exigidas pelo desenvolvimento progressivo ou pelo funcionamento do mercado comum, sempre que entram em vigor regras comunitárias mais restritivas. Em contrapartida, a Comissão não pode, em virtude de uma sua decisão final condicional anterior, manter restrições a um regime aplicado num Estado-Membro quando outros Estados-Membros que adoptam regimes análogos não são abrangidos por tais restrições.
+
+(15) A opção que consiste em alterar a decisão final oferece a possibilidade de aplicar as novas orientações comunitárias ao regime vigente em França a favor do lançamento de linhas marítimas de curta distância antes da data limite prevista pela Comissão nessas orientações, ou seja, 30 de Junho de 2005, para que, a título de medidas úteis, os Estados-Membros harmonizem todos os regimes nacionais em vigor com as novas regras comunitárias.
+
+(16) Em conclusão, a Comissão considera que a Decisão 2002/610/CE deve ser alterada. A alteração proposta permitirá à França alinhar o seu regime com as disposições previstas nas novas orientações comunitárias no que respeita às linhas marítimas entre portos franceses e portos de outros Estados-Membros, bem como apresentar os projectos de auxílio a favor de linhas marítimas entre portos franceses em conformidade com as condições previstas nas novas orientações comunitárias. Em termos mais gerais, esta alteração levará a França a aplicar o seu regime em condições idênticas às que, em virtude das referidas orientações, prevalecem em todos os outros Estados-Membros,
+
+ADOPTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+Ao artigo 1.º da Decisão 2002/610/CE é aditado um terceiro parágrafo com a seguinte redacção:
+
+«A França deve condicionar a concessão de auxílios no âmbito deste regime à observância do disposto no capítulo 10 das orientações comunitárias sobre auxílios estatais aos transportes marítimos[([^*1])](http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.02/DOC_1#ntr*1-L_2008238PT.01000701-E0006).
+
+---
+
+## Notas
+
+> [(^*1^)](http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.02/DOC_1#ntc*1-L_2008238PT.01000701-E0006) [JO C 13 de 17.1.2004, p. 3](http://publications.europa.eu/resource/oj/JOC_2004_013_R_TOC).»."
+
+###### Artigo 2.º
+
+A República Francesa é a destinatária da presente decisão.
+
+Feito em Bruxelas, em 14 de Dezembro de 2004.
+
+***Pela Comissão***
+
+**Jacques BARROT**
+
+***Vice-Presidente***
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.02/DOC_1#ntc1-L_2008238PT.01000701-E0001) [JO L 196 de 25.7.2002, p. 31](http://publications.europa.eu/resource/oj/JOL_2002_196_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.02/DOC_1#ntc2-L_2008238PT.01000701-E0002) [JO C 13 de 17.1.2004, p. 3](http://publications.europa.eu/resource/oj/JOC_2004_013_R_TOC).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.02/DOC_1#ntc3-L_2008238PT.01000701-E0003) [JO C 205 de 5.7.1997, p. 5](http://publications.europa.eu/resource/oj/JOC_1997_205_R_TOC).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.02/DOC_1#ntc4-L_2008238PT.01000701-E0004) [JO L 196 de 2.8.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_196_R_TOC). Este regulamento cria o «programa Marco Pólo», que autoriza a Comissão a conceder apoio financeiro comunitário a projectos de lançamento de linhas marítimas de curta distância com o objectivo de transferir parte do tráfego de mercadorias da estrada para a via marítima. Concretamente, o artigo 9.º do referido regulamento especifica o seguinte: «O apoio financeiro comunitário às acções definidas pelo programa não exclui a concessão à mesma acção de fundos ou de auxílios públicos a nível nacional, regional ou local, na medida em que esses auxílios sejam conformes com as regras aplicáveis aos auxílios estatais previstas no Tratado e dentro dos limites fixados para cada tipo de acção no n.º 2 do artigo 5.º, no n.º 4 do artigo 6.º e no n.º 3 do artigo 7.º, respectivamente».
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/1571895c-fdaf-4492-afa5-134ee71a6564.0018.02/DOC_1#ntc5-L_2008238PT.01000701-E0005) Em caso de financiamento comunitário ou de elegibilidade nos termos de diversos regimes de auxílio, a limitação de 30 % é aplicável ao total combinado do auxílio/apoio financeiro. É conveniente salientar que a intensidade do auxílio é a mesma prevista para acções de transferência modal no âmbito da iniciativa comunitária «Marco Pólo»: ver n.º 2 do artigo 5.º do Regulamento (CE) n.º 1382/2003.

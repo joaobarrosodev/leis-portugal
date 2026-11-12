@@ -1,0 +1,179 @@
+---
+schema_version: '1.0'
+id: eu:celex:32008D0221:por
+title: '2008/221/CE: Decisão da Comissão, de 12 de Março de 2008'
+short_title: null
+summary: '2008/221/CE: Decisão da Comissão, de 12 de Março de 2008 , relativa à participação financeira da Comunidade para
+  um programa de luta contra os organismos prejudiciais aos vegetais e produtos vegetais nos departamentos franceses ultramarinos
+  para 2008 [notificada com o número C(2008) 925]'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2008/221
+official_date: null
+publication_date: '2008-03-14'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 70 de 14.3.2008
+  number: '70'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/c968a00e-5040-4c00-bbba-c15a7a419b9d.0018.01/DOC_1
+entry_into_force_dates:
+- '2008-01-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32008D0221
+  eli: http://data.europa.eu/eli/dec/2008/221/oj
+  oj: oj:JOL_2008_070_R_0013_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32008D0221:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32008D0221
+  metadata_url: http://publications.europa.eu/resource/cellar/c968a00e-5040-4c00-bbba-c15a7a419b9d.0018
+  content_url: http://publications.europa.eu/resource/cellar/c968a00e-5040-4c00-bbba-c15a7a419b9d.0018.02/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:37:37Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-10-31T04:31:19.342+01:00'
+integrity:
+  source_sha256: 284ae502f46785a535fcd8b9ad74cbbeda724c35ebb04bc65aa55f12104be7be
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:37:37Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Departamento e região ultramarina da França
+- doença vegetal
+- financiamento da UE
+- fiscalização fitossanitária
+- parasitologia
+- programa de ação
+relationships:
+- type: based_on
+  target: celex:32006R0247
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dc7302c0-29dc-4c30-b730-6122048380e7
+  date: '2006-02-16'
+- type: cites
+  target: celex:32007D0609
+  label: null
+  source: http://publications.europa.eu/resource/cellar/214dafdf-65e7-433b-b457-389367b24a88
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:37:37Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DA COMISSÃO
+
+de 12 de Março de 2008
+
+relativa à participação financeira da Comunidade para um programa de luta contra os organismos prejudiciais aos vegetais e produtos vegetais nos departamentos franceses ultramarinos para 2008
+
+[notificada com o número C(2008) 925]
+
+(Apenas faz fé o texto em língua francesa)
+
+(2008/221/CE)
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 247/2006 do Conselho, de 30 de Janeiro de 2006, que estabelece medidas específicas no domínio agrícola a favor das regiões ultraperiféricas da União Europeia [([^1])](http://publications.europa.eu/resource/cellar/c968a00e-5040-4c00-bbba-c15a7a419b9d.0018.02/DOC_1#ntr1-L_2008070PT.01001301-E0001), nomeadamente o n.º 3, primeira frase do primeiro parágrafo, do artigo 17.º,
+
+Considerando o seguinte:
+
+(1) As condições da produção agrícola nos departamentos franceses ultramarinos exigem medidas especiais no sector da produção vegetal. Destas medidas fazem parte acções fitossanitárias de elevado custo.
+
+(2) A Decisão 2007/609/CE da Comissão, de 10 de Setembro de 2007, relativa à definição das medidas elegíveis para financiamento comunitário respeitantes aos programas de luta contra os organismos prejudiciais às plantas e produtos vegetais nos departamentos franceses ultramarinos e nos arquipélagos dos Açores e da Madeira [([^2])](http://publications.europa.eu/resource/cellar/c968a00e-5040-4c00-bbba-c15a7a419b9d.0018.02/DOC_1#ntr2-L_2008070PT.01001301-E0002), define as medidas elegíveis para financiamento comunitário ao abrigo de programas de luta contra os organismos prejudiciais às plantas e produtos vegetais nos departamentos franceses ultramarinos e nos arquipélagos dos Açores e da Madeira.
+
+(3) As autoridades francesas apresentaram à Comissão um programa para 2008 que inclui acções fitossanitárias nos departamentos franceses ultramarinos. O programa especifica os objectivos a alcançar, as prestações esperadas, as acções a pôr em prática, a sua duração e o seu custo, com vista a uma possível participação financeira da Comunidade. As medidas previstas nesse programa cumprem os requisitos da Decisão 2007/609/CE.
+
+(4) Em conformidade com n.º 2, alínea a), do artigo 3.º do Regulamento (CE) n.º 1290/2005 do Conselho, de 21 de Junho de 2005, relativo ao financiamento da política agrícola comum [([^3])](http://publications.europa.eu/resource/cellar/c968a00e-5040-4c00-bbba-c15a7a419b9d.0018.02/DOC_1#ntr3-L_2008070PT.01001301-E0003), as acções fitossanitárias devem ser financiadas ao abrigo do Fundo Europeu Agrícola de Garantia. Para efeitos de controlo financeiro destas acções, aplicam-se os artigos 9.º, 36.º e 37.º do referido regulamento.
+
+(5) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Fitossanitário Permanente,
+
+ADOPTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+É aprovada a participação financeira concedida pela Comunidade à França a título do programa oficial de luta contra os organismos prejudiciais aos vegetais e produtos vegetais nos departamentos franceses ultramarinos, respeitante a 2008, tal como se especifica na parte A do anexo.
+
+A participação limita-se a 60 % das despesas totais elegíveis, tal como se especifica na parte B do anexo, até ao valor máximo de 282 000 EUR (sem IVA).
+
+###### Artigo 2.º
+
+1. No prazo de 60 dias a contar da recepção de um pedido de pagamento apresentado pela França é pago um adiantamento de 100 000 EUR.
+
+2. O saldo da participação financeira é pago na sequência da apresentação à Comissão de um relatório final de execução relativo ao programa, em formato electrónico, até 15 de Março de 2009.
+
+O relatório deve incluir:
+
+a) uma avaliação técnica concisa do conjunto do programa, incluindo o nível de realização dos objectivos físicos e qualitativos e dos progressos alcançados, bem como uma avaliação do impacto fitossanitário e económico imediato; e
+
+b) uma declaração dos custos financeiros, indicando as despesas efectivas discriminadas por subprograma e por acção.
+
+3. Relativamente à repartição orçamental indicativa especificada na parte B do anexo, a França pode ajustar o financiamento entre diferentes acções pertencentes ao mesmo subprograma, até ao limite de 15 % da participação comunitária para esse subprograma, desde que o total dos custos elegíveis previsto no programa não seja excedido e que os principais objectivos do programa não fiquem comprometidos por esse motivo.
+
+A França informará a Comissão dos eventuais ajustes feitos.
+
+###### Artigo 3.º
+
+A presente decisão é aplicável a partir de 1 de Janeiro de 2008.
+
+###### Artigo 4.º
+
+A República Francesa é a destinatária da presente decisão.
+
+Feito em Bruxelas, em 12 de Março de 2008.
+
+***Pela Comissão***
+
+**Androulla VASSILIOU**
+
+***Membro da Comissão***
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/c968a00e-5040-4c00-bbba-c15a7a419b9d.0018.02/DOC_1#ntc1-L_2008070PT.01001301-E0001) [JO L 42 de 14.2.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_042_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 1276/2007 da Comissão ([JO L 284 de 30.10.2007, p. 11](http://publications.europa.eu/resource/oj/JOL_2007_284_R_TOC)).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/c968a00e-5040-4c00-bbba-c15a7a419b9d.0018.02/DOC_1#ntc2-L_2008070PT.01001301-E0002) [JO L 242 de 15.9.2007, p. 20](http://publications.europa.eu/resource/oj/JOL_2007_242_R_TOC).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/c968a00e-5040-4c00-bbba-c15a7a419b9d.0018.02/DOC_1#ntc3-L_2008070PT.01001301-E0003) [JO L 209 de 11.8.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_209_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1437/2007 ([JO L 322 de 7.12.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_322_R_TOC)).

@@ -30,7 +30,7 @@ entry_into_force:
   date: '1997-10-24'
   rule: no dia imediatamente a seguir ao da sua publicação
   method: clausula
-  article: n-2
+  article: n-8
   effects_date: null
   effects_rule: null
   end_date: null

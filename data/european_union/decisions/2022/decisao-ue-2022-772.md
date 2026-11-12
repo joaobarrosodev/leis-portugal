@@ -1,0 +1,318 @@
+---
+schema_version: '1.0'
+id: eu:celex:32022D0772:por
+title: Decisão (UE) 2022/772 da Comissão de 13 de abril de 2022
+short_title: null
+summary: Decisão (UE) 2022/772 da Comissão de 13 de abril de 2022 sobre a coerência dos objetivos de desempenho incluídos
+  no projeto de plano nacional apresentado pela República Checa ao abrigo do Regulamento (CE) n.o 549/2004 do Parlamento Europeu
+  e do Conselho com os objetivos de desempenho a nível da União para o terceiro período de referência [notificada com o número
+  C(2022) 2293] (Apenas faz fé o texto na língua checa) (Texto relevante para efeitos do EEE)
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Comissão Europeia
+- MOVE
+proposing_entity: null
+official_number: 2022/772
+official_date: null
+publication_date: '2022-05-18'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 139 de 18.5.2022
+  number: '139'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/1bc47fcf-d646-11ec-a95f-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2022-04-13'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32022D0772
+  eli: http://data.europa.eu/eli/dec/2022/772/oj
+  oj: oj:JOL_2022_139_R_0014
+  dre: null
+  dre_path: null
+  internal: eu:celex:32022D0772:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32022D0772
+  metadata_url: http://publications.europa.eu/resource/cellar/1bc47fcf-d646-11ec-a95f-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/1bc47fcf-d646-11ec-a95f-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:16:48Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-10-17T02:00:19.388+02:00'
+integrity:
+  source_sha256: 033d7fa3eb154b717c92938d582d34cdbf86ab6f24b96cca0acb621dddf57c9e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:16:48Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- aeroporto
+- análise de custo-eficácia
+- capacidade de transporte
+- controlo aéreo
+- espaço aéreo
+- política comum dos transportes
+- proteção do ambiente
+- segurança aérea
+- tráfego aéreo
+- Česko
+relationships:
+- type: based_on
+  target: celex:32004R0549
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a05de3ee-6cf8-47d8-9d65-4fd263e4e184
+  date: '2004-03-10'
+- type: based_on
+  target: celex:32019R0317
+  label: null
+  source: http://publications.europa.eu/resource/cellar/348a8167-388c-11e9-8d04-01aa75ed71a1
+  date: '2019-02-25'
+- type: cites
+  target: celex:32019D0903
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9be4b031-85d3-11e9-9f05-01aa75ed71a1
+- type: cites
+  target: celex:32020R1627
+  label: null
+  source: http://publications.europa.eu/resource/cellar/493d4f98-1e6f-11eb-b57e-01aa75ed71a1
+- type: cites
+  target: celex:32021D0891
+  label: null
+  source: http://publications.europa.eu/resource/cellar/85a5d39c-c405-11eb-a925-01aa75ed71a1
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:16:48Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO (UE) 2022/772 DA COMISSÃO
+
+de 13 de abril de 2022
+
+sobre a coerência dos objetivos de desempenho incluídos no projeto de plano nacional apresentado pela República Checa ao abrigo do Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho com os objetivos de desempenho a nível da União para o terceiro período de referência
+
+*[notificada com o número C(2022) 2293]*
+
+(Apenas faz fé o texto na língua checa)
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de março de 2004, que estabelece o quadro para a realização do céu único europeu (regulamento-quadro) [([^1])](http://publications.europa.eu/resource/cellar/1bc47fcf-d646-11ec-a95f-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2022139PT.01014301-E0001), nomeadamente o artigo 11.º, n.º 3, alínea c), primeiro parágrafo,
+
+Tendo em conta o Regulamento de Execução (UE) 2019/317 da Comissão, de 11 de fevereiro de 2019, que estabelece um sistema de desempenho e um regime de tarifação no âmbito do céu único europeu [([^2])](http://publications.europa.eu/resource/cellar/1bc47fcf-d646-11ec-a95f-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2022139PT.01014301-E0002), nomeadamente o artigo 14.º, n.º 2,
+
+Considerando o seguinte:
+
+**CONSIDERAÇÕES GERAIS**
+
+(1) Nos termos do artigo 11.º do Regulamento (CE) n.º 549/2004, deve ser criado um sistema de desempenho para os serviços de navegação aérea e as funções da rede. Além disso, o artigo 10.º do Regulamento de Execução (UE) 2019/317 exige que os Estados-Membros estabeleçam, a nível nacional ou a nível dos blocos funcionais de espaço aéreo («FAB»), objetivos de desempenho vinculativos para cada período de referência do sistema de desempenho para os serviços de navegação aérea e as funções da rede. Esses objetivos de desempenho têm de ser coerentes com os objetivos a nível da União adotados pela Comissão para o período de referência em questão. A Comissão é responsável por avaliar se os objetivos de desempenho propostos constantes dos projetos de planos de desempenho elaborados pelos Estados-Membros são coerentes com os objetivos de desempenho a nível da União, utilizando os critérios de avaliação estabelecidos no anexo IV do Regulamento de Execução (UE) 2019/317.
+
+(2) Desde o primeiro trimestre do ano civil de 2020, o surto da pandemia de COVID-19 afetou significativamente o setor dos transportes aéreos e reduziu consideravelmente os volumes de tráfego aéreo em comparação com os níveis anteriores à pandemia, devido às medidas tomadas pelos Estados-Membros e países terceiros para conter a pandemia.
+
+(3) Os objetivos de desempenho a nível da União para o terceiro período de referência («PR3») foram inicialmente estabelecidos na Decisão de Execução (UE) 2019/903 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/1bc47fcf-d646-11ec-a95f-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2022139PT.01014301-E0003). Uma vez que foram definidos antes do início da pandemia de COVID-19, esses objetivos de desempenho a nível da União e os projetos de planos de desempenho para o PR3 subsequentemente apresentados pelos Estados-Membros não puderam ter em conta as alterações significativas das circunstâncias do transporte aéreo.
+
+(4) Em resposta ao impacto da pandemia de COVID-19 na prestação de serviços de navegação aérea, foram estabelecidas no Regulamento de Execução (UE) 2020/1627 da Comissão medidas excecionais para o PR3, em derrogação das disposições do Regulamento de Execução (UE) 2019/317 [([^4])](http://publications.europa.eu/resource/cellar/1bc47fcf-d646-11ec-a95f-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2022139PT.01014301-E0004). Nos termos do artigo 2.º, n.º 1, do referido regulamento derrogatório, em 2 de junho de 2021 a Comissão adotou a Decisão de Execução (UE) 2021/891 [([^5])](http://publications.europa.eu/resource/cellar/1bc47fcf-d646-11ec-a95f-01aa75ed71a1.0019.03/DOC_1#ntr5-L_2022139PT.01014301-E0005) que fixa objetivos de desempenho revistos a nível da União para o PR3.
+
+(5) A Comissão regista que segundo as previsões de tráfego do Serviço de Estatísticas e Previsões do Eurocontrol («STATFOR») de outubro de 2021 o tráfego aéreo a nível da União deverá atingir os seus níveis anteriores à pandemia no decurso de 2023 e ultrapassar esses níveis em 2024. No entanto, o nível de incerteza quanto ao desenvolvimento do tráfego mantém-se particularmente elevado devido aos riscos relacionados com a evolução da situação epidemiológica da COVID-19. A Comissão regista igualmente que deverão ocorrer discrepâncias entre os Estados-Membros no que se refere à recuperação do tráfego.
+
+(6) Todos os Estados-Membros elaboraram e adotaram projetos de plano de desempenho com objetivos de desempenho locais revistos para o PR3, que foram apresentados à Comissão para avaliação até 1 de outubro de 2021. Na sequência da verificação da exaustividade desses projetos de planos de desempenho, a Comissão solicitou aos Estados-Membros que apresentassem projetos atualizados de planos de desempenho até 17 de novembro de 2021. A avaliação da Comissão exposta na presente decisão respeita ao projeto de plano de desempenho atualizado apresentado pela República Checa.
+
+(7) O organismo de análise do desempenho, que assiste a Comissão na implementação do sistema de desempenho nos termos do artigo 11.º, n.º 2, do Regulamento (CE) n.º 549/2004, transmitiu à Comissão um relatório aconselhando-a sobre a avaliação dos projetos de plano de desempenho para o PR3.
+
+(8) Em conformidade com o artigo 14.º, n.º 1, do Regulamento de Execução (UE) 2019/317, a Comissão avaliou a coerência dos objetivos de desempenho locais propostos pela República Checa com base nos critérios de avaliação estabelecidos no anexo IV, ponto 1, do mesmo regulamento, e tendo em conta as circunstâncias locais. No que diz respeito a cada domínio essencial de desempenho e aos objetivos de desempenho relacionados, a Comissão complementou a avaliação com a revisão dos projetos dos planos de desempenho, no que diz respeito aos elementos especificados no anexo IV, ponto 2, do referido regulamento de execução.
+
+**AVALIAÇÃO DA COMISSÃO**
+
+**Avaliação do projeto de objetivos de desempenho no domínio essencial de desempenho da segurança**
+
+(9) Quanto ao domínio essencial de desempenho da segurança, a Comissão avaliou a coerência dos objetivos apresentados pela República Checa relativamente à eficácia da gestão da segurança dos prestadores de serviços de navegação aérea com base no critério estipulado no anexo IV, ponto 1.1, do Regulamento de Execução (UE) 2019/317. Essa avaliação foi realizada tendo em conta as circunstâncias locais e foi complementada por uma análise das medidas planeadas para cumprir os objetivos de segurança no que diz respeito aos elementos especificados no anexo IV, ponto 2.1, alínea a), do Regulamento de Execução (UE) 2019/317.
+
+| (10) | O projeto de objetivos de desempenho no domínio essencial de desempenho da segurança proposto pela República Checa em relação à eficácia da gestão da segurança, subdividido por cada objetivo de gestão da segurança e expresso como nível de aplicação, é o seguinte: **República Checa** **Objetivos relativos à eficácia da gestão da segurança, expressos em nível de execução, do nível A ao nível D da AESA** **Prestador de serviços de navegação aérea em causa** **Objetivo de gestão da segurança** **2021** **2022** **2023** **2024** ANS CR Política e objetivos de segurança C C C **C** Gestão dos riscos para a segurança D D D **D** Garantia de segurança C C C **C** Promoção da segurança C C C **C** Cultura de segurança C C C **C** |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **República Checa** | **Objetivos relativos à eficácia da gestão da segurança, expressos em nível de execução, do nível A ao nível D da AESA** |  |  |  |  |
+| **Prestador de serviços de navegação aérea em causa** | **Objetivo de gestão da segurança** | **2021** | **2022** | **2023** | **2024** |
+| ANS CR | Política e objetivos de segurança | C | C | C | **C** |
+| Gestão dos riscos para a segurança | D | D | D | **D** |  |
+| Garantia de segurança | C | C | C | **C** |  |
+| Promoção da segurança | C | C | C | **C** |  |
+| Cultura de segurança | C | C | C | **C** |  |
+
+(11) A Comissão considerou que o projeto de objetivos de segurança proposto pela República Checa para o prestador de serviços de navegação aérea (ANS CR) é equivalente aos objetivos de segurança a nível da União para o ano civil de 2024 e para os anos anteriores do período de referência.
+
+(12) A Comissão observa que o projeto de plano de desempenho apresentado pela República Checa estabelece medidas para a ANS CR com vista à consecução dos objetivos de segurança locais, tais como o desenvolvimento de sistemas obrigatórios e voluntários de comunicação de informações, a criação de um Conselho para a Segurança, composto pela NSA e pela ANS CR, e o desenvolvimento e o apoio do sistema de gestão dos riscos de fadiga nos sistemas de controlo da fadiga.
+
+(13) Com base nas conclusões apresentadas nos considerandos (11) e (12), e tendo em conta que os objetivos de desempenho em matéria de segurança a nível da União fixados na Decisão de Execução (UE) 2021/891 devem ser cumpridos até ao último ano do PR3, ou seja, 2024, os objetivos propostos incluídos no projeto de plano de desempenho da República Checa devem ser considerados coerentes com os objetivos de desempenho da União no domínio essencial de desempenho da segurança.
+
+**Avaliação do projeto de objetivos de desempenho no domínio essencial de desempenho do ambiente**
+
+(14) Quanto ao domínio essencial de desempenho do ambiente, a coerência dos objetivos apresentados pela República Checa relativamente à eficiência média de voo horizontal em rota da trajetória real foi avaliada com base no critério estipulado no anexo IV, ponto 1.2, do Regulamento de Execução (UE) 2019/317. Assim, os objetivos propostos no projeto de plano de desempenho da República Checa foram comparados com os valores de referência relevantes da eficiência de voo horizontal em rota do Plano de Melhoria da Rede Europeia de Rotas («ERNIP»), disponível no momento da adoção dos objetivos de desempenho revistos da União para o PR3, ou seja, em 2 de junho de 2021. Essa avaliação foi realizada tendo em conta as circunstâncias locais e foi complementada por uma análise das medidas planeadas para cumprir os objetivos ambientais no que diz respeito aos elementos especificados no anexo IV, ponto 2.1, alínea a), do Regulamento de Execução (UE) 2019/317.
+
+(15) Relativamente ao ano civil de 2020, o objetivo de desempenho a nível da União para o PR3 no domínio essencial de desempenho do ambiente, inicialmente estabelecido na Decisão de Execução (UE) 2019/903, não foi revisto pela Decisão de Execução (UE) 2021/891, tendo em conta que o prazo para a aplicação desse objetivo havia expirado e que a sua aplicação se tinha portanto tornado definitiva, impossibilitando qualquer ajustamento retroativo. Por essa razão, não foi solicitado aos Estados-Membros que revissem, nos projetos de plano de desempenho apresentados até 1 de outubro de 2021, os seus objetivos de desempenho locais para o ano civil de 2020 no domínio essencial de desempenho do ambiente. Por conseguinte, a coerência dos objetivos de desempenho ambiental locais com os objetivos de desempenho correspondentes a nível da União deve ser avaliada em relação aos anos civis de 2021, 2022, 2023 e 2024.
+
+| (16) | Os objetivos de desempenho no domínio essencial de desempenho do ambiente propostos pela República Checa e os valores de referência nacionais correspondentes para o PR3 do ERNIP, expressos em eficiência média de voo horizontal em rota da trajetória real, são os seguintes: **2021** **2022** **2023** **2024** **Projeto de objetivos ambientais em rota propostos pela República Checa**, expressos em eficiência média de voo horizontal em rota da trajetória real **2,05 %** **2,05 %** **2,05 %** **2,05 %** Valores de referência para a República Checa 2,05 % 2,05 % 2,05 % 2,05 % |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | **2021** | **2022** | **2023** | **2024** |
+| **Projeto de objetivos ambientais em rota propostos pela República Checa**, expressos em eficiência média de voo horizontal em rota da trajetória real | **2,05 %** | **2,05 %** | **2,05 %** | **2,05 %** |
+| Valores de referência para a República Checa | 2,05 % | 2,05 % | 2,05 % | 2,05 % |
+
+(17) A Comissão observa que os objetivos ambientais propostos pela República Checa são equivalentes aos valores de referência nacionais correspondentes para cada ano civil de 2021 a 2024.
+
+(18) No que diz respeito ao anexo IV, ponto 2.1, alínea a), do Regulamento de Execução (UE) 2019/317, a Comissão observa que a República Checa apresentou no seu projeto de plano de desempenho várias medidas para a consecução dos objetivos ambientais locais, que incluem uma nova setorização para a região de informação de voo de Praga, a supressão das rotas na área de manobra do terminal de Praga (Praha Terminal Manoeuvring Area — TMA), bem como uma maior colaboração transfronteiriça.
+
+(19) Além disso, a Comissão observa que a República Checa já concluiu a implementação do espaço aéreo de rotas livres entre o nível de voo 95 e o nível de voo 660 desde fevereiro de 2021.
+
+(20) Com base nas conclusões apresentadas nos considerandos (17) a (19), os objetivos propostos incluídos no projeto de plano de desempenho da República Checa devem ser considerados coerentes com os objetivos de desempenho a nível da União no domínio essencial de desempenho do ambiente.
+
+**Avaliação do projeto de objetivos de desempenho no domínio essencial de desempenho da capacidade**
+
+(21) Quanto ao domínio essencial de desempenho da capacidade, a coerência dos objetivos apresentados pela República Checa relativamente ao atraso médio da gestão do fluxo de tráfego aéreo («ATFM») em rota por voo foi avaliada com base no critério estipulado no anexo IV, ponto 1.3, do Regulamento de Execução (UE) 2019/317. Assim, os objetivos propostos no projeto de plano de desempenho da República Checa foram comparados com os valores de referência relevantes do Plano de Operações da Rede, disponível no momento da adoção dos objetivos de desempenho revistos da União para o PR3, ou seja, em 2 de junho de 2021. Essa avaliação foi realizada tendo em conta as circunstâncias locais e foi complementada por uma análise das medidas planeadas para cumprir os objetivos de capacidade especificados no anexo IV, ponto 2.1, alínea a), do Regulamento de Execução (UE) 2019/317.
+
+(22) Relativamente ao ano civil de 2020, o objetivo de desempenho a nível da União para o PR3 no domínio essencial de desempenho da capacidade, inicialmente estabelecido na Decisão de Execução (UE) 2019/903, não foi revisto pela Decisão de Execução (UE) 2021/891, tendo em conta que o prazo para a aplicação desse objetivo havia expirado e que a sua aplicação se tinha portanto tornado definitiva, impossibilitando qualquer ajustamento retroativo. Por essa razão, não foi solicitado aos Estados-Membros que revissem, nos projetos de plano de desempenho apresentados até 1 de outubro de 2021, os seus objetivos de desempenho locais para o ano civil de 2020 no domínio essencial de desempenho da capacidade. Por conseguinte, a coerência dos objetivos de desempenho da capacidade locais com os objetivos de desempenho correspondentes a nível da União deve ser avaliada em relação aos anos civis de 2021, 2022, 2023 e 2024.
+
+| (23) | O projeto de objetivos de capacidade em rota propostos pela República Checa para o PR3, expresso em minutos de atraso ATFM por voo, bem como os valores de referência correspondentes estabelecidos no Plano de Operações da Rede são os seguintes: **2021** **2022** **2023** **2024** **Projeto de objetivos de capacidade de rota para a República Checa**, expresso em minutos de atraso ATFM por voo **0,06** **0,11** **0,11** **0,11** Valores de referência para a República Checa 0,06 0,11 0,11 0,11 |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | **2021** | **2022** | **2023** | **2024** |
+| **Projeto de objetivos de capacidade de rota para a República Checa**, expresso em minutos de atraso ATFM por voo | **0,06** | **0,11** | **0,11** | **0,11** |
+| Valores de referência para a República Checa | 0,06 | 0,11 | 0,11 | 0,11 |
+
+(24) A Comissão observa que o projeto de objetivos de capacidade propostos pela República Checa é equivalente aos valores de referência nacionais correspondentes para cada ano civil de 2021 a 2024.
+
+(25) No que diz respeito ao anexo IV, ponto 2.1, alínea a), do Regulamento de Execução (UE) 2019/317, a Comissão observa que a República Checa apresentou, no seu projeto de plano de desempenho, várias medidas destinadas a cumprir os objetivos de capacidade em rota locais. Essas medidas incluem a transição para um novo sistema de gestão do tráfego aéreo (ATM), a implementação de um projeto de otimização e reestruturação da ATM, a introdução de um instrumento de gestão do espaço aéreo, uma nova setorização, bem como um aumento significativo do número de controladores de tráfego aéreo (ATCO) nas operações até ao final do PR3.
+
+(26) Com base nas conclusões apresentadas nos considerandos 24 e 25, os objetivos propostos incluídos no projeto de plano de desempenho da República Checa devem ser considerados coerentes com os objetivos de desempenho a nível da União no domínio essencial de desempenho da capacidade.
+
+**Análise dos objetivos de capacidade propostos para os serviços de navegação aérea de terminal**
+
+(27) No que se refere aos aeroportos abrangidos pelo Regulamento de Execução (UE) 2019/317, referidos no artigo 1.º, n.^os^ 3 e 4, desse regulamento, a Comissão complementou a sua avaliação dos objetivos de capacidade em rota analisando os objetivos de capacidade propostos para os serviços de navegação aérea de terminal em conformidade com o anexo IV, ponto 2.1, alínea b), do Regulamento de Execução (UE) 2019/317. Considerou-se que o projeto de objetivos propostos suscita preocupações relativamente à República Checa.
+
+(28) Especificamente, a Comissão constatou que os objetivos propostos para o PR3 para o atraso ATFM à chegada médio de 0,40 minutos por voo para os anos civis de 2021 a 2024 foram significativamente superiores aos alcançados nos atrasos ATFM durante o segundo período de referência (PR2), que oscilaram entre 0,01 e 0,16 minutos por voo.
+
+(29) Por conseguinte, a Comissão considera que, no contexto da adoção do seu plano de desempenho final em conformidade com o artigo 16.º, alínea a), do Regulamento de Execução (UE) 2019/317, a República Checa deve justificar melhor os objetivos de capacidade de terminal para o PR3 à luz das observações expostas no considerando 28, ou rever em baixa esses objetivos.
+
+**Avaliação do projeto de objetivos de desempenho no domínio essencial de desempenho da relação custo-eficiência**
+
+(30) No domínio essencial de desempenho da relação custo-eficiência, a coerência dos objetivos propostos pela República Checa no que se refere ao custo unitário determinado («DUC») para os serviços de navegação aérea em rota foi avaliada com base nos critérios estabelecidos no anexo IV, ponto 1.4, alíneas a), b) e c), do Regulamento de Execução (UE) 2019/317. Esses critérios consistem na tendência do custo unitário determinado durante o PR3, na tendência do custo unitário determinado de longo prazo durante o PR2 e o PR3 (2015-2024) e no valor de referência para o DUC ao nível da zona de tarifação, comparativamente com o valor médio das zonas de tarifação onde os prestadores de serviços de navegação aérea têm um ambiente operacional e económico semelhante.
+
+(31) A avaliação dos objetivos da relação custo-eficiência em rota foi realizada tendo em conta as circunstâncias locais e complementada por uma análise dos principais fatores e parâmetros desses objetivos conforme especificado no anexo IV, ponto 2.1, alínea d), do Regulamento de Execução (UE) 2019/317.
+
+| (32) | O projeto de objetivos da relação custo-eficiência em rota proposto pela República Checa para o PR3 é o seguinte: **Zona de tarifação de rota para a República Checa** **Valor de referência de 2014** **Valor de referência de 2019** **2020-2021** **2022** **2023** **2024** **Objetivos de custo-eficiência em rota propostos**, expressos em custo unitário determinado para os serviços de navegação aérea em rota (em termos reais a preços de 2017) **1 224,0 CZK** **1 103,6 CZK** **2 090,6 CZK** **1 557,2 CZK** **1 381,7 CZK** **1 212,0 CZK** 46,52 EUR 41,95 EUR 79,46 EUR 59,18 EUR 52,51 EUR 46,06 EUR |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Zona de tarifação de rota para a República Checa** | **Valor de referência de 2014** | **Valor de referência de 2019** | **2020-2021** | **2022** | **2023** | **2024** |
+| **Objetivos de custo-eficiência em rota propostos**, expressos em custo unitário determinado para os serviços de navegação aérea em rota (em termos reais a preços de 2017) | **1 224,0 CZK** | **1 103,6 CZK** | **2 090,6 CZK** | **1 557,2 CZK** | **1 381,7 CZK** | **1 212,0 CZK** |
+| 46,52 EUR | 41,95 EUR | 79,46 EUR | 59,18 EUR | 52,51 EUR | 46,06 EUR |  |
+
+(33) Relativamente ao critério estabelecido no anexo IV, ponto 1.4, alínea a), do Regulamento de Execução (UE) 2019/317, a Comissão observa que o desempenho da tendência do DUC em rota da República Checa ao nível da zona de tarifação de +2,4% por ano no PR3 é pior do que o desempenho da tendência a nível da União de +1,0% no mesmo período.
+
+(34) Quanto ao critério estabelecido no anexo IV, ponto 1.4, alínea b), do Regulamento de Execução (UE) 2019/317, a Comissão observa que o desempenho da tendência do DUC em rota de longo prazo da República Checa ao nível da zona de tarifação de -0,1% no PR2 e no PR3 é pior do que o desempenho da tendência da União de longo prazo de -1,3% no mesmo período.
+
+(35) Contudo, ao comparar as tendências do DUC local e a nível da União referidas nos considerandos 33 e 34, importa ter em conta que, segundo o STATFOR do Eurocontrol, o crescimento do tráfego em rota da República Checa durante o PR3 deverá ser significativamente inferior ao crescimento médio do tráfego a nível da União. Tal dificulta o cumprimento pela República Checa das referidas tendências do DUC a nível da União.
+
+(36) Quanto ao critério estabelecido no anexo IV, ponto 1.4, alínea c), do Regulamento de Execução (UE) 2019/317, a Comissão observa que o valor de referência da República Checa para o DUC de 41,95 EUR em termos reais a preços de 2017 («EUR2017») é 8,0% superior ao valor de referência médio de 38,85 EUR (EUR2017) do grupo de comparação relevante. A Comissão regista que a diferença se torna ainda maior durante o PR3, visto que o custo unitário determinado em rota para a República Checa para 2024 é 12,4% superior à média do grupo de comparação.
+
+(37) A Comissão examinou ainda se os desvios observados nos considerandos 33, 34 e 36 podem ser considerados necessários e proporcionados nos termos do anexo IV, ponto 1.4, alínea d), do Regulamento de Execução (UE) 2019/317, na condição de os desvios observados em relação à tendência do DUC a nível da União e à tendência do DUC de longo prazo a nível da União resultarem exclusivamente de custos determinados adicionais relacionados com as medidas necessárias para cumprir os objetivos de desempenho no domínio essencial de desempenho da capacidade ou com medidas de reestruturação na aceção do artigo 2.º, n.º 18, do Regulamento de Execução (UE) 2019/317.
+
+(38) Em relação ao critério especificado no anexo IV, ponto 1.4, alínea d), subalínea i), do Regulamento de Execução (UE) 2019/317, a Comissão regista que a República Checa apresentou, no seu projeto de plano de desempenho, uma vasta panóplia de medidas a implementar pela ANSP (ANS CR), destinadas a cumprir os objetivos de capacidade locais. A República Checa alega que, sem grandes investimentos em sistemas, procedimentos e pessoal operacional durante o PR3, a ANS CR não conseguiria ter em conta o nível de tráfego registado em 2019, no contexto pré-COVID, tendo igualmente em conta o aumento contínuo da complexidade do tráfego.
+
+(39) Com efeito, as medidas de reforço da capacidade delineadas no projeto de plano de desempenho visam um aumento estrutural da capacidade e da produtividade dos serviços de rota, nomeadamente permitindo que os controladores de tráfego aéreo anteriormente responsáveis pelo controlo do aeródromo nos aeroportos regionais assumam novas responsabilidades no que diz respeito ao controlo do espaço aéreo inferior em rota. As medidas subjacentes incluem um processo de formação específico para os controladores de tráfego aéreo em causa, uma reorganização do trabalho na empresa e uma ressetorização do espaço aéreo. Com base nesta iniciativa e no recrutamento de novos controladores de tráfego aéreo, o número previsto de controladores de tráfego aéreo de rota regista um aumento significativo em relação ao PR3, em comparação com os níveis de 2019. Espera-se um outro contributo positivo para a capacidade do novo sistema ATM, cuja entrada em funcionamento está prevista para 2022.
+
+(40) Com base na análise pormenorizada do organismo de análise do desempenho, a Comissão considera que as medidas pertinentes delineadas pela República Checa no projeto de plano de desempenho são efetivamente necessárias para cumprir os objetivos de capacidade locais. Além disso, tendo em conta a avaliação efetuada pelo organismo de análise do desempenho, pode concluir-se que os custos adicionais dessas medidas superam os desvios em relação à tendência do DUC a nível da União e à tendência do DUC de longo prazo a nível da União a que se referem os considerandos 33 e 34.
+
+(41) À luz das considerações formuladas nos considerandos 38 a 40, a Comissão considera portanto que o critério estabelecido no ponto 1.4, alínea d), subalínea i), é cumprido pela República Checa.
+
+(42) Decorre das constatações acima que não é necessário examinar mais aprofundadamente o cumprimento do critério enunciado no ponto 1.4, alínea d), subalínea ii), pela República Checa.
+
+(43) Com base nas conclusões apresentadas nos considerandos (33) a (42), os objetivos propostos incluídos no projeto de plano de desempenho da República Checa devem ser considerados coerentes com os objetivos de desempenho a nível da União no domínio essencial de desempenho da relação custo-eficiência.
+
+**Análise dos objetivos de custo-eficiência propostos para os serviços de navegação aérea de terminal**
+
+(44) No que se refere aos aeroportos abrangidos pelo Regulamento de Execução (UE) 2019/317, referidos no artigo 1.º, n.^os^ 3 e 4, desse regulamento, a Comissão complementou a sua avaliação dos objetivos de custo-eficiência em rota propostos analisando os objetivos de custo-eficiência propostos para os serviços de navegação aérea de terminal em conformidade com o anexo IV, ponto 2.1, alínea c), do Regulamento de Execução (UE) 2019/317. Considerou-se que os objetivos propostos suscitam preocupações relativamente à República Checa.
+
+(45) Ao comparar o DUC relativo ao terminal com o desempenho de aeroportos semelhantes durante o PR3, a Comissão observa que se estima que o DUC para o aeroporto de Praga seja muito significativamente superior ao DUC médio dos aeroportos em causa.
+
+(46) Por conseguinte, a Comissão considera que, no contexto da adoção do seu plano de desempenho final em conformidade com o artigo 16.º, alínea a), do Regulamento de Execução (UE) 2019/317, a República Checa deve justificar melhor os objetivos de desempenho da relação custo-eficiência de terminal à luz das observações expostas no considerando (45), ou rever em baixa esses objetivos.
+
+**Revisão dos regimes de incentivos referidos no artigo 11.º do Regulamento de Execução (UE) 2019/317 que complementa a avaliação dos projetos de objetivos de capacidade pela Comissão**
+
+(47) Em conformidade com o anexo IV, ponto 2.1, alínea f), do Regulamento de Execução (UE) 2019/317, a Comissão complementou a sua avaliação dos objetivos de capacidade propostos analisando os regimes de incentivos propostos a que se refere o artigo 11.º do Regulamento de Execução (UE) 2019/317. Neste aspeto, a Comissão analisou se os projetos de regimes de incentivos cumprem os requisitos substantivos estabelecidos no artigo 11.º, n.^os^ 1 e 3, do Regulamento de Execução (UE) 2019/317. Considerou-se que os regimes de incentivos propostos incluídos no projeto de plano de desempenho da República Checa suscitam preocupações.
+
+(48) A Comissão observa que o regime de incentivos para a capacidade em rota e o regime de incentivos para a capacidade de terminal propostos no projeto de plano de desempenho da República Checa incluem uma desvantagem financeira máxima ascendendo a 0,50% dos custos determinados e uma vantagem financeira máxima ascendendo a 0,50% dos custos determinados.
+
+(49) Em relação aos referidos regimes de incentivos, e com base nos pareceres dos peritos transmitidos pelo organismo de análise do desempenho, a Comissão duvida fortemente de que a desvantagem financeira máxima proposta, que ascende a 0,50% dos custos determinados, tenha qualquer impacto significativo nas receitas em risco, como exigido no artigo 11.º, n.º 3, alínea a), do Regulamento de Execução (UE) 2019/317.
+
+(50) Por conseguinte, a República Checa, no contexto da adoção do seu plano de desempenho final em conformidade com o artigo 16.º, alínea a), do Regulamento de Execução (UE) 2019/317, deve rever os seus regimes de incentivos para cumprir os objetivos de capacidade de rota e de terminal, de modo a que o nível fixado das desvantagens financeiras máximas resultantes desses regimes de incentivos tenha um impacto significativo nas receitas em risco, como exigido expressamente no artigo 11.º, n.º 3, alínea a), do Regulamento de Execução (UE) 2019/317, o que, na opinião da Comissão, deve conduzir a uma desvantagem financeira máxima equivalente ou superior a 1% dos custos determinados.
+
+**CONCLUSÕES**
+
+(51) Com base na avaliação apresentada nos considerandos 9 a 50, a Comissão concluiu que os objetivos de desempenho incluídos no projeto de plano de desempenho da República Checa são coerentes com os objetivos de desempenho a nível da União.
+
+(52) A Comissão observa que alguns Estados-Membros manifestaram a intenção de incluir elementos de custo relacionados com a deteção de drones aeroportuários nas suas bases de custos do PR3. Não foi possível determinar com precisão, com base nos elementos contidos nos projetos de plano de desempenho, em que medida os Estados-Membros incluíram esses custos determinados nas respetivas bases de custos do PR3 e, caso esses custos tenham sido incluídos, em que medida estão relacionados com a prestação de serviços de navegação aérea e, por conseguinte, podem ser considerados elegíveis ao abrigo do regime de desempenho e tarifação. Os serviços da Comissão enviaram um pedido *ad hoc* a todos os Estados-Membros para obter as informações relevantes e analisarão mais aprofundadamente os custos comunicados de deteção de drones aeroportuários no contexto da verificação da conformidade com a taxa unitária. A presente decisão não prejudica as constatações e conclusões da Comissão sobre a questão dos custos de deteção de drones.
+
+(53) Em resposta à agressão militar da Rússia contra a Ucrânia, que teve início em 24 de fevereiro de 2022, a União adotou medidas restritivas que proíbem as transportadoras aéreas russas, as aeronaves registadas na Rússia e as aeronaves não registadas na Rússia detidas ou fretadas, ou de qualquer outra forma controladas por qualquer pessoa singular ou coletiva, entidade ou organismo russo, de aterrar, descolar ou sobrevoar o território da União. Estas medidas estão a provocar uma redução do tráfego aéreo no espaço aéreo sobre o território da União. O impacto a nível da União não deverá, no entanto, ser comparável à redução do tráfego aéreo que resultou do surto da pandemia de COVID-19 em março de 2020. Por conseguinte, importa manter as medidas e os processos atuais para a implementação do regime de desempenho e de tarifação no PR3,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+Os objetivos de desempenho incluídos no projeto de plano de desempenho apresentado pela República Checa nos termos do Regulamento (CE) n.º 549/2004, e enumerados no anexo da presente decisão, são coerentes com os objetivos de desempenho a nível da União para o terceiro período de referência estabelecidos na Decisão de Execução (UE) 2021/891.
+
+###### Artigo 2.º
+
+A destinatária da presente decisão é a República Checa.
+
+Feito em Bruxelas, em 13 de abril de 2022.
+
+***Pela Comissão***
+
+**Adina VĂLEAN**
+
+***Membro da Comissão***
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/1bc47fcf-d646-11ec-a95f-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2022139PT.01014301-E0001) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/1bc47fcf-d646-11ec-a95f-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2022139PT.01014301-E0002) Regulamento de Execução (UE) 2019/317 da Comissão, de 11 de fevereiro de 2019, que estabelece um sistema de desempenho e um regime de tarifação no âmbito do céu único europeu e que revoga os Regulamentos de Execução (UE) n.º 390/2013 e (UE) n.º 391/2013 ([JO L 56 de 25.2.2019, p. 1](http://publications.europa.eu/resource/oj/JOL_2019_056_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/1bc47fcf-d646-11ec-a95f-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2022139PT.01014301-E0003) Decisão de Execução (UE) 2019/903 da Comissão, de 29 de maio de 2019, que estabelece os objetivos de desempenho a nível da União da rede de gestão do tráfego aéreo para o terceiro período de referência com início em 1 de janeiro de 2020 e fim em 31 de dezembro de 2024 ([JO L 144 de 3.6.2019, p. 49](http://publications.europa.eu/resource/oj/JOL_2019_144_R_TOC)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/1bc47fcf-d646-11ec-a95f-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2022139PT.01014301-E0004) Regulamento de Execução (UE) 2020/1627 da Comissão, de 3 de novembro de 2020, relativo às medidas excecionais para o terceiro período de referência (2020-2024) aplicáveis ao sistema de desempenho e ao regime de tarifação no âmbito do céu único europeu devido à pandemia de COVID-19 ([JO L 366 de 4.11.2020, p. 7](http://publications.europa.eu/resource/oj/JOL_2020_366_R_TOC)).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/1bc47fcf-d646-11ec-a95f-01aa75ed71a1.0019.03/DOC_1#ntc5-L_2022139PT.01014301-E0005) Decisão de Execução (UE) 2021/891 da Comissão, de 2 de junho de 2021, que estabelece os objetivos de desempenho revistos a nível da União da rede de gestão do tráfego aéreo para o terceiro período de referência (2020-2024) e que revoga a Decisão de Execução (UE) 2019/903 ([JO L 195 de 3.6.2021, p. 3](http://publications.europa.eu/resource/oj/JOL_2021_195_R_TOC)).

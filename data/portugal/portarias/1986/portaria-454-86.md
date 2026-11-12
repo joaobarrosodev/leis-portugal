@@ -26,8 +26,8 @@ publication:
 entry_into_force_dates:
 - '1986-09-01'
 entry_into_force:
-  date: '1986-09-01'
-  rule: no primeiro dia do mês seguinte ao da sua publicação
+  date: '1986-08-23'
+  rule: no dia seguinte ao da sua publicação
   method: clausula
   article: n-15
   effects_date: null

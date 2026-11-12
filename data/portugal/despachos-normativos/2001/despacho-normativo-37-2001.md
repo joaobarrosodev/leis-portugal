@@ -29,7 +29,7 @@ entry_into_force:
   rule: a partir da campanha de comercialização de 2002-2003, sem prejuízo de eventuais alterações posteriores na regulamentação
     comunitária aplicável ao regime de apoio aos produtores de culturas arvenses
   method: clausula
-  article: n-37
+  article: n-2
   effects_date: null
   effects_rule: null
   end_date: null

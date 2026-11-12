@@ -1,0 +1,168 @@
+---
+schema_version: '1.0'
+id: eu:celex:32006D0387:por
+title: '2006/387/CE: Decisão do Conselho, de 15 de Maio de 2006'
+short_title: null
+summary: '2006/387/CE: Decisão do Conselho, de 15 de Maio de 2006 , que autoriza o Reino de Espanha a aplicar uma medida em
+  derrogação do artigo 11. o e do artigo 28. o -E da Sexta Directiva 77/388/CEE relativa à harmonização das legislações dos
+  Estados-Membros respeitantes aos impostos sobre o volume de negócios'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2006/387
+official_date: null
+publication_date: '2006-06-03'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 150 de 3.6.2006
+  number: '150'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/d8436d58-8afb-4097-b775-c2abad47bc80.0016.02/DOC_1
+entry_into_force_dates:
+- '2006-06-03'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32006D0387
+  eli: http://data.europa.eu/eli/dec/2006/387(1)/oj
+  oj: oj:JOL_2006_150_R_0011_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32006D0387:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32006D0387
+  metadata_url: http://publications.europa.eu/resource/cellar/d8436d58-8afb-4097-b775-c2abad47bc80.0016
+  content_url: http://publications.europa.eu/resource/cellar/d8436d58-8afb-4097-b775-c2abad47bc80.0016.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:33:43Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-12-20T11:48:34.527+01:00'
+integrity:
+  source_sha256: 2ba85fb0590ea4ce1fc9d94e90d162c14ead2d2e358820422e169e6d99cb1451
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:33:43Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Espanha
+- IVA
+- derrogação ao direito da UE
+- entrega
+- fraude fiscal
+- harmonização fiscal
+- prestação de serviços
+relationships:
+- type: based_on
+  target: celex:31977L0388
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dd3ab2e8-a943-4256-a490-7952ca228bfe
+  date: '1977-06-13'
+- type: cites
+  target: celex:52005XC0524(04)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9b167393-9604-44d8-b214-af148d27c06f
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:33:43Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DO CONSELHO
+
+de 15 de Maio de 2006
+
+que autoriza o Reino de Espanha a aplicar uma medida em derrogação do artigo 11.º e do artigo 28.º-E da Sexta Directiva 77/388/CEE relativa à harmonização das legislações dos Estados-Membros respeitantes aos impostos sobre o volume de negócios
+
+(2006/387/CE)
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta a Sexta Directiva 77/388/CEE do Conselho, de 17 de Maio de 1977, relativa à harmonização das legislações dos Estados-Membros respeitantes aos impostos sobre o volume de negócios — sistema comum do imposto sobre o valor acrescentado: matéria colectável uniforme [([^1])](http://publications.europa.eu/resource/cellar/d8436d58-8afb-4097-b775-c2abad47bc80.0016.03/DOC_1#ntr1-L_2006150PT.01001101-E0001), nomeadamente o artigo 27.º,
+
+Tendo em conta a proposta da Comissão,
+
+Considerando o seguinte:
+
+(1) Nos termos do n.º 1 do artigo 27.º da Directiva 77/388/CEE, o Conselho, deliberando por unanimidade, sob proposta da Comissão, pode autorizar os Estados-Membros a aplicarem medidas especiais em derrogação da referida directiva para simplificar a cobrança do imposto ou impedir certos tipos de fraude ou evasão fiscal.
+
+(2) Por ofício de 21 de Junho de 2005, recebido pelo Secretariado-Geral da Comissão em 22 de Julho de 2005, o Reino de Espanha solicitou autorização para aplicar uma medida em derrogação das disposições da Directiva 77/388/CEE que regem a matéria colectável para efeitos de imposto sobre o valor acrescentado (IVA).
+
+(3) Em conformidade com o n.º 2 do artigo 27.º da Directiva 77/388/CEE, a Comissão informou os restantes Estados-Membros do pedido apresentado pelo Reino de Espanha por ofício de 7 de Outubro de 2005. Por ofício de 10 de Outubro de 2005, a Comissão comunicou ao Reino de Espanha que dispunha de todas as informações que considerava necessárias para apreciar o pedido.
+
+(4) A alínea a) do n.º 1 da secção A do artigo 11.º da Directiva 77/388/CEE estabelece que, para efeitos de IVA, a matéria colectável de uma entrega de bens ou de uma prestação de serviços é composta por tudo o que constitui a contraprestação paga pela operação em causa. O n.º 1 do artigo 28.º-E da referida directiva diz respeito à matéria colectável das aquisições intracomunitárias, tomando como referência a secção A do artigo 11.º
+
+(5) A medida que exige a concessão de uma derrogação tem por objectivo impedir perdas de receitas fiscais resultantes da manipulação do valor tributável das entregas de bens, das prestações de serviços e das aquisições intracomunitárias sujeitas ao IVA, quando o fornecedor de bens ou prestador de serviços cobra preços reduzidos a adquirentes ou destinatários coligados que não têm direito à dedução integral.
+
+(6) Trata-se de uma medida de âmbito específico que só deverá ser aplicada em casos de evasão ou de fraude em matéria de IVA e quando estiverem reunidas determinadas condições. A medida é, por conseguinte, proporcional ao objectivo perseguido.
+
+(7) As derrogações semelhantes concedidas a outros Estados-Membros para impedir a evasão ou a fraude fiscal demonstraram ser eficazes.
+
+(8) As derrogações concedidas ao abrigo do artigo 27.º da Directiva 77/388/CEE destinadas a impedir a evasão fiscal em matéria de IVA relacionada com a matéria colectável das operações entre partes coligadas foram incluídas numa proposta de directiva da Comissão, de 16 de Março de 2005, que racionaliza algumas das derrogações concedidas ao abrigo do referido artigo [([^2])](http://publications.europa.eu/resource/cellar/d8436d58-8afb-4097-b775-c2abad47bc80.0016.03/DOC_1#ntr2-L_2006150PT.01001101-E0002). Por conseguinte, é necessário pôr termo ao período de aplicação da presente derrogação na data de entrada em vigor dessa directiva.
+
+(9) A presente derrogação permitirá garantir a cobrança do montante do IVA devido na fase final do consumo, não tendo repercussões negativas nos recursos próprios das Comunidades provenientes do IVA,
+
+ADOPTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+Em derrogação da alínea a) do n.º 1 da secção A do artigo 11.º da Directiva 77/388/CEE, o Reino de Espanha fica autorizado a considerar que a matéria colectável de uma entrega de bens ou prestação de serviços ou de uma aquisição intracomunitária de bens é igual ao valor normal, tal como definido na alínea d) do n.º 1 da secção A do artigo 11.º da Directiva 77/388/CEE, quando a contraprestação for significativamente inferior ao valor normal e o destinatário da operação ou, no caso de uma aquisição intracomunitária, o adquirente não tiver direito à dedução integral do IVA ao abrigo do artigo 17.º da Directiva 77/388/CEE.
+
+Esta medida só pode ser utilizada para impedir a evasão e a fraude fiscal e se a contraprestação na qual a matéria colectável se deveria basear tiver sido influenciada por vínculos familiares, organizacionais, de propriedade, financeiros ou jurídicos, definidos na legislação nacional. Para efeitos do presente parágrafo, os vínculos jurídicos abrangem as relações formais estabelecidas entre empregador e empregado.
+
+###### Artigo 2.º
+
+A autorização concedida nos termos do artigo 1.º caduca na data de entrada em vigor de uma directiva que racionalize as derrogações, concedidas ao abrigo do artigo 27.º da Directiva 77/388/CEE, que se destinem a impedir a evasão ou a fraude fiscal em matéria de IVA mediante a determinação do valor das operações realizadas entre partes coligadas ou em 31 de Dezembro de 2009, consoante a data que for anterior.
+
+###### Artigo 3.º
+
+O Reino de Espanha é o destinatário da presente decisão.
+
+Feito em Bruxelas, em 15 de Maio de 2006.
+
+***Pelo Conselho***
+
+***A Presidente***
+
+**U. PLASSNIK**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/d8436d58-8afb-4097-b775-c2abad47bc80.0016.03/DOC_1#ntc1-L_2006150PT.01001101-E0001) [JO L 145 de 13.6.1977, p. 1](http://publications.europa.eu/resource/oj/JOL_1977_145_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2006/18/CE ([JO L 51 de 22.2.2006, p. 12](http://publications.europa.eu/resource/oj/JOL_2006_051_R_TOC)).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/d8436d58-8afb-4097-b775-c2abad47bc80.0016.03/DOC_1#ntc2-L_2006150PT.01001101-E0002) [JO C 125 de 24.5.2005, p. 12](http://publications.europa.eu/resource/oj/JOC_2005_125_R_TOC).

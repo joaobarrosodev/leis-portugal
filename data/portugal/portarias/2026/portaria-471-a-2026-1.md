@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2 - 3
   pdf_url: https://files.diariodarepublica.pt/1s/2026/10/21101/0000200003.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-11-02'
+entry_into_force:
+  date: '2026-11-02'
+  rule: no dia 2 de novembro de 2026
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

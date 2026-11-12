@@ -1,0 +1,168 @@
+---
+schema_version: '1.0'
+id: eu:celex:32004R0237:por
+title: Regulamento (CE) n.° 237/2004 do Conselho, de 10 de Fevereiro de 2004
+short_title: null
+summary: Regulamento (CE) n.° 237/2004 do Conselho, de 10 de Fevereiro de 2004, que encerra o processo anti-dumping relativo
+  às importações de sacos de polietileno e de polipropileno originários da República Popular da China, da Índia, da Indonésia
+  e da Tailândia
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2004/237
+official_date: null
+publication_date: '2004-02-12'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 40 de 12.2.2004
+  number: '40'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/96fc2748-37bf-4bac-ac1b-069768809d0d.0010.02/DOC_1
+entry_into_force_dates:
+- '2004-02-13'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32004R0237
+  eli: http://data.europa.eu/eli/reg/2004/237/oj
+  oj: oj:JOL_2004_040_R_0021_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32004R0237:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32004R0237
+  metadata_url: http://publications.europa.eu/resource/cellar/96fc2748-37bf-4bac-ac1b-069768809d0d.0010
+  content_url: http://publications.europa.eu/resource/cellar/96fc2748-37bf-4bac-ac1b-069768809d0d.0010.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:31:00Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-03-24T07:13:35.034+01:00'
+integrity:
+  source_sha256: d769fb04c431cc7221c8aed8b6250c64a7ba302b75c06f447dc322b6274e3ea3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:31:00Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- China
+- Indonésia
+- Tailândia
+- importação
+- legislação antidumping
+- material de embalagem
+- matéria plástica
+- medida antidumping
+- produto originário
+- Índia
+relationships:
+- type: based_on
+  target: celex:31996R0384
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a8e22903-6e39-4403-947b-00c0fa78ecd3
+  date: '1996-03-06'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:31:00Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CE) n.° 237/2004 do Conselho, de 10 de Fevereiro de 2004
+
+**Regulamento (CE) n.° 237/2004 do Conselho, de 10 de Fevereiro de 2004, que encerra o processo anti-dumping relativo às importações de sacos de polietileno e de polipropileno originários da República Popular da China, da Índia, da Indonésia e da Tailândia** *Jornal Oficial nº L 040 de 12/02/2004 p. 0021 - 0022*
+
+Regulamento (CE) n.o 237/2004 do Conselho
+
+de 10 de Fevereiro de 2004
+
+que encerra o processo anti-dumping relativo às importações de sacos de polietileno e de polipropileno originários da República Popular da China, da Índia, da Indonésia e da Tailândia
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CE) n.o 384/96 do Conselho, de 22 de Dezembro de 1995, relativo à defesa contra as importações objecto de dumping de países não membros da Comunidade Europeia(1) e, nomeadamente, o seu artigo 9.o e o n.o 2 do seu artigo 11.o,
+
+Tendo em conta a proposta apresentada pela Comissão após consulta do Comité Consultivo,
+
+Considerando o seguinte:
+
+A. PROCESSO
+
+(1) No seguimento da publicação de um aviso de caducidade iminente das medidas anti-dumping em vigor aplicáveis às importações de sacos de polietileno e de polipropileno originários da República Popular da China, da Índia, da Indonésia e da Tailândia(2), a Comissão recebeu, em 8 de Julho de 2002, um pedido de reexame dessas medidas, nos termos do n.o 2 do artigo 11.o do Regulamento (CE) n.o 384/96 do Conselho ("regulamento de base").
+
+(2) O pedido foi apresentado pela Associação Europeia de Poliolefinas Têxteis (EATP) em nome de produtores comunitários que representam 32,03 % da produção comunitária de sacos de polietileno e de polipropileno.
+
+(3) O pedido continha elementos de prova prima facie de que a caducidade das medidas daria origem à continuação ou reincidência do dumping prejudicial, que foram considerados suficientes para justificar a abertura de um reexame de caducidade.
+
+(4) Por conseguinte, após consulta do Comité Consultivo, a Comissão anunciou, através de um aviso publicado no Jornal Oficial das Comunidades Europeias(3), um reexame da caducidade das medidas anti-dumping aplicáveis às importações, na Comunidade, de sacos de polietileno e de polipropileno, actualmente classificados nos códigos NC 6305 32 81, 6305 33 91, ex 3923 21 00, ex 3923 29 10 e ex 3923 29 90 originários da República Popular da China, da Índia, da Indonésia e da Tailândia.
+
+(5) A Comissão informou oficialmente do início do processo de reexame os produtores exportadores, os importadores conhecidos como interessados, os representantes do país de exportação, os utilizadores representativos e os produtores comunitários. Às partes interessadas foi dada a oportunidade de apresentarem as suas observações por escrito e de solicitarem uma audição no prazo estabelecido no aviso de início.
+
+B. RETIRADA DO PEDIDO E ENCERRAMENTO DO PROCESSO
+
+(6) Por carta de 22 de Outubro de 2003 à Comissão, a EATP retirou oficialmente o seu pedido de reexame de caducidade das medidas aplicáveis às importações de sacos de polietileno e de polipropileno originários da República Popular da China, da Índia, da Indonésia e da Tailândia.
+
+(7) Em conformidade com o n.o 1 do artigo 9.o e com o n.o 2 do artigo 11.o do regulamento de base, um processo pode ser encerrado sempre que seja retirada a denúncia, a menos que esse encerramento não seja do interesse da Comunidade.
+
+(8) A Comissão considerou que o presente processo devia ser encerrado, visto que o inquérito não tinha permitido apurar nenhum elemento que demonstrasse que tal encerramento não seria do interesse da Comunidade. As partes interessadas foram, por conseguinte, informadas deste facto, tendo-lhes sido dada a oportunidade de apresentarem observações. Todavia, não foram recebidas nenhumas observações. Assim, não há indicações de que a caducidade das medidas não seja do interesse da Comunidade.
+
+(9) Por conseguinte, concluiu-se que o processo anti-dumping relativo às importações na Comunidade de sacos de polietileno e de polipropileno originários da República Popular da China, da Índia, da Indonésia e da Tailândia deve ser encerrado e que as medidas em vigor devem ser revogadas,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+É encerrado o processo e são revogadas as medidas anti-dumping no que respeita às importações de sacos de polietileno e de polipropileno, actualmente classificados nos códigos NC 6305 32 81, 6305 33 91, ex 3923 21 00 (código TARIC: 3923 21 00 10 ), ex 3923 29 10 (código TARIC: 3923 29 10 10 ) e ex 3923 29 90 (código TARIC: 3923 29 90 10 ), originários da República Popular da China, da Índia, da Indonésia e da Tailândia.
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial da União Europeia.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 10 de Fevereiro de 2004.
+
+Pelo Conselho
+
+O Presidente
+
+C. McCreevy
+
+(1) JO L 56 de 6.3.1996, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1972/2002 (JO L 305 de 7.11.2002, p. 1).
+
+(2) JO C 10 de 12.1.2002, p. 2 e JO C 16 de 19.1.2002, p. 2.
+
+(3) JO C 243 de 9.10.2002, p. 10.

@@ -1,0 +1,320 @@
+---
+schema_version: '1.0'
+id: eu:celex:32017D1257:por
+title: Decisão de Execução (UE) 2017/1257 da Comissão, de 11 de julho de 2017
+short_title: null
+summary: Decisão de Execução (UE) 2017/1257 da Comissão, de 11 de julho de 2017, sobre as normas técnicas e os formatos necessários
+  para um sistema uniforme que permita a correspondência das ofertas com os pedidos de emprego e CV no portal EURES (Texto
+  relevante para efeitos do EEE. )
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão de Execução
+issuing_authority:
+- Comissão Europeia
+- EMPL
+proposing_entity: null
+official_number: 2017/1257
+official_date: null
+publication_date: '2017-07-12'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 179 de 12.7.2017
+  number: '179'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/5d223c26-66c3-11e7-b2f2-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2017-08-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32017D1257
+  eli: http://data.europa.eu/eli/dec_impl/2017/1257/oj
+  oj: oj:JOL_2017_179_R_0009
+  dre: null
+  dre_path: null
+  internal: eu:celex:32017D1257:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32017D1257
+  metadata_url: http://publications.europa.eu/resource/cellar/5d223c26-66c3-11e7-b2f2-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/5d223c26-66c3-11e7-b2f2-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:01:39Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-02-11T10:02:44.302+01:00'
+integrity:
+  source_sha256: fa49dcb1dfdd2d9c33ad4834ffaa921ebd047295b5012bc32c3a84fd35e1671d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:01:39Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- EURES
+- acesso ao emprego
+- cooperação administrativa
+- intercâmbio de informação
+- livre circulação de trabalhadores
+- necessidade de mão de obra
+- norma técnica
+- oferta de emprego
+- procura de emprego
+- serviço de emprego
+relationships:
+- type: based_on
+  target: celex:32016R0589
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a311abfd-0857-11e6-b713-01aa75ed71a1
+  date: '2016-04-22'
+- type: cites
+  target: celex:31995L0046
+  label: null
+  source: http://publications.europa.eu/resource/cellar/775a4724-2086-4a06-9213-1a4e6489053b
+- type: cites
+  target: celex:32001R0045
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0177e751-7cb7-404b-98d8-79a564ddc629
+- type: cites
+  target: celex:32016R0679
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3e485e15-11bd-11e6-ba9a-01aa75ed71a1
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:01:39Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DE EXECUÇÃO (UE) 2017/1257 DA COMISSÃO
+
+de 11 de julho de 2017
+
+sobre as normas técnicas e os formatos necessários para um sistema uniforme que permita a correspondência das ofertas com os pedidos de emprego e CV no portal EURES
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) 2016/589 do Parlamento Europeu e do Conselho, de 13 de abril de 2016, relativo a uma rede europeia de serviços de emprego (EURES), ao acesso dos trabalhadores a serviços de mobilidade e ao desenvolvimento da integração dos mercados de trabalho, e que altera os Regulamentos (UE) n.º 492/2011 e (UE) n.º 1296/2013 [([^1])](http://publications.europa.eu/resource/cellar/5d223c26-66c3-11e7-b2f2-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2017179PT.01003201-E0001), nomeadamente o artigo 17.º, n.º 8,
+
+Considerando o seguinte:
+
+(1) O Regulamento (UE) 2016/589 estabelece, entre outros, princípios e regras em matéria de cooperação entre a Comissão e os Estados-Membros no que respeita à partilha de dados relevantes sobre ofertas de emprego, pedidos de emprego e CV.
+
+(2) O artigo 17.º do Regulamento (UE) 2016/589 prevê a criação de um sistema uniforme para reunir no portal EURES as ofertas de emprego, os pedidos de emprego e os CV disponibilizados pelos Estados-Membros.
+
+(3) A fim de estabelecer esse sistema uniforme e conferir eficácia à busca e à correspondência dos dados fornecidos, é necessário utilizar normas e formatos comuns para o intercâmbio desses dados.
+
+(4) Estas normas e formatos devem, na medida do possível, basear-se em normas consagradas a nível governamental ou da indústria, utilizadas pelos Serviços Públicos de Emprego e outros operadores do mercado de trabalho, e devem ser adotados com base em consultas adequadas dos Estados-Membros.
+
+(5) As normas e os formatos podem ter de ser adaptados ao longo do tempo para ter em conta a evolução tecnológica ou alterações funcionais. É, por conseguinte, importante estabelecer um modelo de governação que garanta uma consulta adequada e a participação dos Estados-Membros antes da adoção de normas e formatos.
+
+(6) Para facilitar o trabalho dos gabinetes nacionais de coordenação, que devem organizar uma transmissão coordenada de informações para o portal EURES, salvaguardar o funcionamento do mecanismo de intercâmbio de dados e garantir uma boa qualidade intrínseca e técnica das informações, é necessário identificar e definir alguns princípios gerais para a criação e o funcionamento do sistema, bem como as funções e as responsabilidades das partes envolvidas.
+
+(7) Estes princípios gerais devem explicar e clarificar os direitos e as responsabilidades dos originadores e dos titulares de dados e a forma como é assegurada a proteção dos dados pessoais em toda a cadeia de transmissão.
+
+(8) Para assegurar uma correspondência eficaz entre as ofertas de emprego no portal EURES, incluindo as vagas de aprendizagens e estágios, e os pedidos de emprego e CV, à luz dos objetivos do Regulamento (UE) 2016/589, é importante que os membros e parceiros EURES divulguem, de forma transparente, o maior número possível das ofertas de emprego, dos pedidos de emprego e dos CV adequados de que dispõem.
+
+(9) As medidas previstas na presente decisão relativamente ao tratamento de dados pessoais devem ser aplicadas em conformidade com a legislação da União sobre a proteção dos dados pessoais, nomeadamente a Diretiva 95/46/CE do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/5d223c26-66c3-11e7-b2f2-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2017179PT.01003201-E0002) e o Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/5d223c26-66c3-11e7-b2f2-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2017179PT.01003201-E0003), assim como com as medidas nacionais de execução da mesma. Deve ser prestada especial atenção ao respeito pelos princípios da limitação da finalidade, minimização de dados, limitação da conservação, integridade e confidencialidade.
+
+(10) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité EURES,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º — Objeto, âmbito de aplicação e definições
+
+A presente decisão estabelece as normas técnicas e os formatos a utilizar para um sistema uniforme que reúna, no portal EURES, ofertas de emprego, pedidos de emprego e CV disponibilizados pelos membros EURES e, se relevante, os parceiros EURES, bem como os métodos e procedimentos para chegar a acordo quanto a novas definições técnicas e funcionais.
+
+Para efeitos da presente decisão, entende-se por:
+
+a) «pedido de emprego», um documento ou um conjunto de documentos que um candidato transmite a um empregador ou a um serviço de emprego no âmbito do processo que visa informar um empregador da sua disponibilidade e vontade de trabalhar num determinado local de afetação ou posto;
+
+b) «CV», um documento que descreve o perfil de uma pessoa, apresentando, de forma resumida, a sua experiência profissional e a sua formação académica, juntamente com outras informações úteis sobre as suas realizações, competências, aptidões, qualificações e os seus interesses;
+
+c) «perfil de candidato a emprego», o formato normalizado de apresentação de dados para aprovação dos CV e dos pedidos de emprego, tal como definido na presente decisão;
+
+d) «originador dos dados», a pessoa ou entidade que originalmente criou o conjunto de dados disponibilizados no portal EURES. São considerados originadores de dados os empregadores que publicaram uma oferta de emprego e os trabalhadores que criaram e decidiram divulgar um perfil de candidato a emprego junto de um membro EURES ou, se relevante, de um parceiro EURES, tendo dado o devido consentimento para a transferência dessa informação para o portal EURES;
+
+e) «titular de dados EURES», a pessoa ou entidade que detém os direitos legais que permitem controlar quem pode aceder aos dados. O titular de dados EURES pode ser o originador ou outra pessoa este mandatada e agindo em seu nome;
+
+f) «utilizador final», a pessoa ou entidade que recolhe e utiliza os dados sobre as ofertas de emprego e os perfis de candidatos a emprego reunidos no portal EURES em conformidade com a presente decisão, no intuito de encontrar vagas de emprego a que concorrer ou encontrar candidatos a quem oferecer oportunidades de emprego;
+
+g) «sistema uniforme», as definições dos dados e as especificações funcionais para a transmissão e o processamento de dados previstos na presente decisão, a fim de permitir a correspondência entre as ofertas de emprego e os CV;
+
+h) «infraestrutura técnica», o conjunto completo de hardware, software, redes e outras instalações necessários para desenvolver, testar, formular, acompanhar, controlar ou apoiar os serviços informáticos necessários à implementação do sistema uniforme;
+
+i) «canal único coordenado», o serviço que é estabelecido entre o ponto de ligação do portal EURES e o ponto de ligação num Estado-Membro e que permite a transmissão para o portal EURES de dados dos membros EURES nacionais e, se relevante, dos parceiros EURES, em conformidade com o sistema uniforme e utilizando a infraestrutura técnica adequada.
+
+###### Artigo 2.º — Princípios gerais para a transmissão e o intercâmbio dos dados
+
+1. Cada Estado-Membro deve criar e manter um canal único coordenado para a transmissão para o portal EURES de informações sobre ofertas de emprego e perfis de candidatos a emprego dos membros EURES e, se relevante, dos parceiros EURES.
+
+2. Para esse efeito, cada Estado-Membro deve criar uma infraestrutura técnica, ligada ao portal EURES, à qual os membros EURES e, se relevante, os parceiros EURES, se podem ligar para transmitir os respetivos dados.
+
+3. O Gabinete Europeu de Coordenação deve assegurar o funcionamento do portal EURES e dos serviços informáticos conexos para receber e processar os dados transmitidos através da infraestrutura referida no n.º 1.
+
+4. O Gabinete Europeu de Coordenação deve disponibilizar os dados para efeitos de busca e correspondência de ofertas e pedidos de emprego não só pelos utilizadores finais diretamente no portal EURES, mas também através de interfaces que permitam aos membros EURES e, se relevante, aos parceiros EURES, divulgar essa informação, nos respetivos sistemas, ao seu pessoal e aos utilizadores dos serviços e portais de procura de emprego.
+
+5. Todas as definições, normas, especificações e procedimentos necessários devem ser descritos em documentos a acordar pelos gabinetes nacionais de coordenação, através da estrutura de governação estabelecida na presente decisão e disponibilizada a todas as partes numa secção específica da extranet do portal EURES.
+
+###### Artigo 3.º — Princípios gerais para o conteúdo e a qualidade dos dados
+
+1. Os dados transmitidos para o portal EURES em conformidade com o Regulamento (UE) 2016/589 e com a presente decisão são indexados, armazenados e aí disponibilizados exclusivamente para efeitos de busca e correspondência durante o período de validade que o originador dos dados ou o titular de dados EURES determinou para os referidos dados. Os dados que tenham anonimizados podem ser armazenados e disponibilizados, inclusive a terceiros, para fins científicos e estatísticos, mesmo após o termo do período de validade.
+
+2. A transmissão de dados para o portal EURES não afeta os direitos que detêm sobre os mesmos os originadores ou os titulares de dados EURES, em conformidade com as leis, regulamentações e convenções aplicáveis, ao longo de toda a cadeia de transmissão, desde a entidade originadora ao portal EURES.
+
+3. Os dados pessoais transmitidos e armazenados no portal EURES só podem ser publicados na medida do autorizado pela entidade originadora dos dados. Só podem ser divulgados aos membros e parceiros EURES ou a utilizadores finais registados no portal EURES ou junto de um membro ou parceiro EURES que lhes forneça o acesso através de uma das interfaces de aplicação referidas no artigo 2.º, n.º 4, desde que esses utilizadores finais tenham aceite termos e condições plenamente conformes com o consentimento e o acordo dados pelas entidades originadoras dos dados.
+
+4. Os empregadores podem, de forma implícita ou explícita, ceder ou renunciar a direitos sobre os dados que figuram numa oferta de emprego, à exceção de quaisquer informações de caráter pessoal. Os trabalhadores mantêm os direitos sobre os seus dados pessoais e podem, a qualquer momento, retirar o seu consentimento para a divulgação destas informações ao público e suprimir, alterar ou processar de outra forma uma parte ou a totalidade dos dados transmitidos para o portal EURES. O mesmo se aplica aos empregadores para quaisquer dados de caráter pessoal que figurem numa oferta de emprego
+
+5. É da responsabilidade dos gabinetes nacionais de coordenação, dos membros EURES e, se relevante, dos parceiros EURES garantir que todos os dados transmitidos por seu intermédio para serem incluídos no portal EURES estejam em conformidade com o Regulamento (UE) 2016/589, a presente decisão e quaisquer outras disposições legislativas e regulamentares aplicáveis, em particular no que respeita à proteção dos dados pessoais, que os originadores ou os titulares de dados EURES sejam informados da forma como os seus dados serão utilizados e processados e que foram obtidas todas as autorizações e os consentimentos necessários. Deve ser possível traçar a origem dos dados e suas eventuais alterações, assim como o consentimento dado, ao longo de toda a cadeia de transmissão, desde o originador ao portal EURES.
+
+6. O Gabinete Europeu de Coordenação será o «responsável pelo tratamento», na aceção do Regulamento (CE) n.º 45/2001 no que respeita aos dados pessoais armazenados no portal EURES. Em virtude do disposto nesse regulamento, o Gabinete Europeu de Coordenação é responsável pelo tratamento dos dados pessoais, incluindo o processo de anonimização referido no n.º 1, bem como pelas medidas técnicas e organizativas necessárias para garantir a segurança, a confidencialidade e a integridade dos dados em causa.
+
+7. O Grupo de Coordenação deve elaborar e acordar requisitos mínimos comuns para as declarações sobre proteção de dados pessoais, bem como os termos e condições a aplicar pelo Gabinete Europeu de Coordenação, os gabinetes nacionais de coordenação, os membros EURES e, se relevante, os parceiros EURES, para dar cumprimento aos requisitos estabelecidos no Regulamento (UE) 2016/589 relativamente ao consentimento informado dos originadores dos dados ou dos titulares de dados EURES e assegurar a uniformidade dos termos e condições de acesso a esses dados.
+
+###### Artigo 4.º — Funções e responsabilidades dos gabinetes nacionais de coordenação
+
+Os gabinetes nacionais de coordenação são responsáveis, no respetivo Estado-Membro, pela organização da transmissão coordenada e segura para o portal EURES das informações sobre ofertas de emprego e perfis de candidatos a emprego, devendo, em especial:
+
+a) supervisionar a criação e a manutenção da infraestrutura técnica necessária para assegurar que os dados pertinentes dos membros EURES e, se relevante, dos parceiros EURES são transmitidos para o portal EURES através de um canal único coordenado;
+
+b) permitir que todos os membros EURES e, se relevante, os parceiros EURES se liguem e enviem dados através deste canal único coordenado;
+
+c) garantir a monitorização permanente das ligações ao portal EURES e aos membros e parceiros EURES participantes, sendo capaz de intervir rapidamente para resolver qualquer problema técnico ou de outra natureza que possa ocorrer na ligação ou nos dados a transmitir;
+
+d) garantir que todas as atividades relacionadas com o intercâmbio e a transmissão de dados são realizadas em plena conformidade com o Regulamento (UE) 2016/589 e com os princípios gerais estabelecidos na presente decisão, e intervindo sempre que tal não for o caso;
+
+e) garantir que todos os dados transmitidos respeitam os formatos e as normas aprovados e previstos no Regulamento (UE) 2016/589 e na presente decisão;
+
+f) assegurar a existência de disposições que garantam que as entidades originadoras dos dados estão plenamente informadas e têm conhecimento da forma como serão utilizados e processados os seus dados;
+
+g) comunicar e atualizar regularmente informações sobre as medidas e os sistemas instituídos para assegurar a qualidade, a segurança, a integridade, a confidencialidade e a rastreabilidade dos dados, incluindo a proteção dos dados pessoais;
+
+h) participar no intercâmbio de informações e na cooperação previstos no artigo 9.º, n.º 5, do Regulamento (UE) 2016/589;
+
+i) manter o Gabinete Europeu de Coordenação informado das políticas em matéria de exclusão de determinadas ofertas de emprego ou categorias de ofertas de emprego prevista no artigo 17.º do Regulamento (UE) 2016/589;
+
+j) notificar a designação de um ponto único de contacto, tal como referido no artigo 9.º.
+
+###### Artigo 5.º — Funções e responsabilidades do Gabinete Europeu de Coordenação
+
+O Gabinete Europeu de Coordenação é responsável por apoiar a rede EURES no exercício das suas responsabilidades no que respeita à coordenação da transmissão para o portal EURES de informações sobre ofertas de emprego e perfis de candidatos a emprego, devendo, em especial:
+
+a) criar e manter a infraestrutura técnica necessária para receber os dados dos Estados-Membros através do canal único coordenado;
+
+b) assegurar o funcionamento e o desenvolvimento do portal EURES e dos respetivos sistemas informáticos, a fim de fornecer à rede EURES e aos utilizadores finais serviços self-service de busca e correspondência no portal EURES;
+
+c) criar e manter a infraestrutura técnica necessária para permitir que os membros EURES e, se relevante, os parceiros EURES acedam a ofertas de emprego e a perfis de candidatos a emprego no portal EURES e os possam disponibilizar ao seu pessoal e aos utilizadores dos respetivos portais de procura de emprego;
+
+d) garantir que todas as atividades relacionadas com o intercâmbio e a transmissão dos dados são realizadas em plena conformidade com o Regulamento (UE) 2016/589 e com os princípios gerais estabelecidos na presente decisão, e intervindo sempre que tal não for o caso;
+
+e) comunicar e atualizar regularmente informações sobre as medidas e os sistemas instituídos para assegurar a qualidade, a segurança, a integridade, a confidencialidade e a rastreabilidade dos dados, incluindo a proteção dos dados pessoais;
+
+f) disponibilizar uma secção específica na extranet do portal EURES, bem como outras ferramentas e apoios necessários, para que os gabinetes nacionais de coordenação e os membros e parceiros EURES possam trocar informações e lidar eficazmente com reclamações, tal como previsto no Regulamento e na presente decisão;
+
+g) elaborar, atualizar e disponibilizar na extranet do portal EURES todos os documentos de natureza técnica ou outra necessários ao bom funcionamento da transmissão e do intercâmbio de dados, em especial os documentos previstos no artigo 8.º.
+
+###### Artigo 6.º — Funções e responsabilidades dos membros e parceiros EURES
+
+1. Todos os membros e parceiros EURES que se comprometeram a contribuir para a reserva de ofertas de emprego e/ou perfis de candidatos a emprego devem participar, através da infraestrutura técnica criada em conformidade com a presente decisão, na transmissão coordenada e segura das informações sobre ofertas de emprego e perfis de candidato a emprego para o portal EURES, tal como referido no artigo 12.º, n.º 3, e no artigo 17.º, n.º 1, Regulamento (UE) 2016/589 e, em especial:
+
+a) criar a infraestrutura técnica necessária para se ligarem ao canal único coordenado previsto no respetivo país;
+
+b) monitorizar as ligações em permanência, sendo capaz de intervir rapidamente para resolver qualquer problema técnico ou de outra natureza que possa ocorrer na ligação ou nos dados a transmitir;
+
+c) garantir que todas as atividades relacionadas com o intercâmbio e a transmissão dos dados são realizadas em plena conformidade com o Regulamento (UE) 2016/589 e com os princípios gerais estabelecidos na presente decisão, e intervindo sempre que tal não for o caso;
+
+d) garantir que todos os dados transmitidos respeitam os formatos e as normas aprovados e previstos no Regulamento (UE) 2016/589 e na presente decisão;
+
+e) assegurar que os originadores dos dados estão plenamente informados e têm conhecimento da forma como serão utilizados e processados os seus dados;
+
+f) comunicar e atualizar regularmente informações sobre as medidas e os sistemas instituídos para assegurar a qualidade, a segurança, a integridade, a confidencialidade e a rastreabilidade dos dados, incluindo a proteção dos dados pessoais;
+
+g) manter o Gabinete Nacional de Coordenação informado, de forma clara e transparente, das políticas em matéria de exclusão da transmissão de todas as ofertas de emprego disponíveis prevista no artigo 17.º do Regulamento (UE) 2016/589;
+
+h) disponibilizar um serviço de contacto que vise facilitar a coordenação a nível nacional por parte do Gabinete Nacional de Coordenação. A função de serviço de contacto pode ser exercida por um serviço de assistência técnica ou semelhante.
+
+2. A fim de assegurar que o respetivo pessoal envolvido na rede EURES e os utilizadores finais dos portais de procura de emprego que gerem podem aceder facilmente, pesquisar e fazer corresponder ofertas de emprego e perfis de candidatos disponíveis no portal EURES, os membros e os parceiros EURES poderão ligar os seus sistemas à infraestrutura técnica fornecida pelo Gabinete Europeu de Coordenação e utilizá-la para esse efeito.
+
+###### Artigo 7.º — Funções e responsabilidades do Grupo de Coordenação
+
+1. O Grupo de Coordenação apoia o bom funcionamento do sistema uniforme e a organização da transmissão coordenada e segura para o portal EURES das informações sobre ofertas de emprego e perfis de candidatos a emprego e contribui para a sua melhoria contínua. O Grupo de Coordenação deve acompanhar de perto as atividades e servir de fórum de intercâmbio de ideias e boas práticas, com vista a melhorar o funcionamento do ciclo de programação da rede EURES.
+
+2. O Grupo de Coordenação deve proceder anualmente a um reexame da aplicação da presente decisão, que constituirá o contributo dos Estados-Membros para os relatórios de atividades e de avaliação *ex post* a apresentar pela Comissão em conformidade com os artigos 33.º e 35.º do Regulamento (UE) 2016/589.
+
+3. A aprovação de quaisquer alterações às especificações do canal único coordenado EURES, tal como referido no artigo 8.º deve ser acordada previamente com o Grupo de Coordenação, em conformidade com o procedimento previsto no artigo 9.º.
+
+4. O Grupo de Coordenação pode criar grupos de peritos específicos para prestar apoio, ajuda e aconselhamento no exercício das suas funções.
+
+###### Artigo 8.º — Definições e especificações técnicas e funcionais para o intercâmbio de dados
+
+1. De acordo com os procedimentos previstos no artigo 9.º, o Gabinete Europeu de Coordenação adota as especificações do canal único coordenado EURES, que consistem comportam:
+
+a) as «especificações relativas aos formatos e normas EURES», que descrevem o formato e as definições dos dados, as normas a usar e as regras de validação a respeitar aquando da transmissão para o portal EURES de uma vaga de emprego ou um perfil de candidato a emprego através do sistema uniforme;
+
+b) as «especificações funcionais relativas a troca de mensagens EURES» que descrevem a infraestrutura técnica que deve ser criada e as especificações da troca de mensagens que devem ser aplicadas para assegurar o intercâmbio de dados;
+
+c) o «manual de processo de interoperabilidade EURES», que descreve processos, ações e intervenções para assegurar o funcionamento do canal único coordenado, gerir as trocas e assegurar a qualidade, a segurança, a rastreabilidade e a proteção de dados, incluindo a proteção de dados pessoais.
+
+2. As «especificações do canal único coordenado EURES» e eventuais atualizações ou alterações devem ser disponibilizadas à rede EURES numa secção específica da extranet do portal EURES.
+
+###### Artigo 9.º — Governação
+
+1. Todos os Estados-Membros devem, através dos respetivos gabinetes nacionais de coordenação, constituir um ponto de contacto único, cujos dados devem ser notificados ao Gabinete Europeu de Coordenação, a quem podem ser dirigidos todos os pedidos de informação e comunicações respeitantes à aplicação das disposições em matéria de serviços informáticos no âmbito do Regulamento (UE) 2016/589.
+
+2. Para assegurar o bom funcionamento do sistema uniforme de intercâmbio de dados, do portal EURES e dos serviços informáticos conexos, o Gabinete Europeu de Coordenação deve organizar reuniões regulares com os pontos de contacto únicos referidos no n.º 1, velando por que disponham de meios de comunicação adequados. O grupo de pontos de contacto únicos poderá ser mandatado pelo Grupo de Coordenação para preparar consultas ou ser convidado a prestar orientação ou aconselhamento no que diz respeito às questões técnicas e informáticas no âmbito do Regulamento (UE) 2016/589.
+
+3. Antes da adoção das «especificações do canal único coordenado EURES» e de eventuais alterações subsequentes pelo Gabinete Europeu de Coordenação, há que proceder a uma consulta formal do Grupo de Coordenação, em conformidade com o artigo 14.º do Regulamento (UE) 2016/589. Tais consultas devem, se for caso disso, ser precedidas de consultas a nível técnico no âmbito da rede EURES e com outros peritos nacionais e internacionais pertinentes, como sejam organismos envolvidos no desenvolvimento de formatos e normas.
+
+###### Artigo 10.º — Entrada em vigor
+
+1. A presente decisão entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+2. O Gabinete Europeu de Coordenação deve publicar a primeira versão das «especificações do canal único coordenado EURES» e todas as outras listas e documentos de orientação pertinentes na extranet do portal EURES até 1 de dezembro de 2017.
+
+Feito em Bruxelas, em 11 de julho de 2017.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**Jean-Claude JUNCKER**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/5d223c26-66c3-11e7-b2f2-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2017179PT.01003201-E0001) [JO L 107 de 22.4.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_107_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/5d223c26-66c3-11e7-b2f2-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2017179PT.01003201-E0002) Diretiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 1995, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados ([JO L 281 de 23.11.1995, p. 31](http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC)) e, a partir de 25 de maio de 2018, Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados, e que revoga a Diretiva 95/46/CE (Regulamento geral sobre a proteção de dados) ([JO L 119 de 4.5.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/5d223c26-66c3-11e7-b2f2-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2017179PT.01003201-E0003) Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2000, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados ([JO L 8 de 12.1.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_008_R_TOC)).

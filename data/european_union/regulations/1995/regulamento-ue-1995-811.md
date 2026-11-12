@@ -1,0 +1,204 @@
+---
+schema_version: '1.0'
+id: eu:celex:31995R0811:por
+title: Regulamento (CE) nº 811/95 da Comissão, de 11 de Abril de 1995
+short_title: null
+summary: Regulamento (CE) nº 811/95 da Comissão, de 11 de Abril de 1995, que estabelece normas de execução do Regulamento
+  (CEE) nº 3438/92 do Conselho, que prevê medidas especiais para o transporte de determinadas frutas e produtos hortícolas
+  originários da Grécia, expedidos em 1995
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1995/811
+official_date: null
+publication_date: '1995-04-12'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 82 de 12.4.1995
+  number: '82'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/7acd3d62-9041-4bd5-b8fd-e932c031ff4d.0011.02/DOC_1
+entry_into_force_dates:
+- '1995-01-01'
+- '1995-04-19'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31995R0811
+  eli: http://data.europa.eu/eli/reg/1995/811/oj
+  oj: oj:JOL_1995_082_R_0005_018
+  dre: null
+  dre_path: null
+  internal: eu:celex:31995R0811:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31995R0811
+  metadata_url: http://publications.europa.eu/resource/cellar/7acd3d62-9041-4bd5-b8fd-e932c031ff4d.0011
+  content_url: http://publications.europa.eu/resource/cellar/7acd3d62-9041-4bd5-b8fd-e932c031ff4d.0011.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:19:38Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-05T04:22:17.227+02:00'
+integrity:
+  source_sha256: fe9f4cd4f8c5626a6eb7a8d8b2a8c50e2ab74f0c71db0cb82cfaa1d0d648a638
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:19:38Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Grécia
+- Jugoslávia
+- fruto fresco
+- indemnização
+- legume fresco
+- transporte de mercadorias
+relationships:
+- type: based_on
+  target: celex:31992R3438
+  label: null
+  source: http://publications.europa.eu/resource/cellar/78a80416-cde1-4625-9d88-dca5734c497d
+  date: '1992-12-01'
+- type: based_on
+  target: celex:31992R3813
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0dce0682-8f71-491c-901a-35cc414744a7
+  date: '1992-12-31'
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:19:38Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CE) nº 811/95 da Comissão, de 11 de Abril de 1995
+
+**Regulamento (CE) nº 811/95 da Comissão, de 11 de Abril de 1995, que estabelece normas de execução do Regulamento (CEE) nº 3438/92 do Conselho, que prevê medidas especiais para o transporte de determinadas frutas e produtos hortícolas originários da Grécia, expedidos em 1995** *Jornal Oficial nº L 082 de 12/04/1995 p. 0005 - 0006*
+
+REGULAMENTO (CE) Nº 811/95 DA COMISSÃO de 11 de Abril de 1995 que estabelece normas de execução do Regulamento (CEE) nº 3438/92 do Conselho, que prevê medidas especiais para o transporte de determinadas frutas e produtos hortícolas originários da Grécia, expedidos em 1995
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CEE) nº 3438/92 do Conselho, de 23 de Novembro de 1992, que prevê medidas especiais para o transporte de determinadas frutas e produtos hortícolas originários da Grécia (1), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 456/95 (2),
+
+Tendo em conta o Regulamento (CEE) nº 3813/92 do Conselho, de 28 de Dezembro de 1992, relativo à unidade de conta e às taxas de conversão a aplicar no âmbito da política agrícola comum (3), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 150/95 (4), e, nomeadamente, o seu artigo 3º e o nº 2 do seu artigo 13º,
+
+Considerando que o Regulamento (CEE) nº 3438/92 instituiu uma indemnização especial temporária para as expedições, em 1992, 1993, 1994 e 1995, por camião, navio ou vagão frigorífico, a partir da Grécia e com destino aos outros Estados-membros excepto Itália, Espanha e Portugal, de certas frutas e produtos hortícolas originários da Grécia;
+
+Considerando que as normas de execução do Regulamento (CEE) nº 3438/92 foram já fixadas para as expedições de 1992, 1993 e 1994;
+
+Considerando que é necessário determinar os expedidores e as expedições susceptíveis de beneficiar em 1995 dessa indemnização especial temporária, bem como as indicações mínimas que devem constar do pedido de concessão da mesma;
+
+Considerando que se pode estimar que o aumento dos custos de transporte resultante da necessidade de contornar os territórios da antiga Jugoslávia é idêntico para todos os meios de transporte e para todos os destinos em causa;
+
+Considerando que é necessário definir as informações que as autoridades gregas competentes devem transmitir à Comissão e o prazo para a transmissão dessas informações;
+
+Considerando que as disposições do presente regulamento se devem aplicar com efeitos a partir de 1 de Janeiro de 1995;
+
+Considerando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de gestão das frutas e produtos hortícolas,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1º
+
+A indemnização especial temporária no artigo 1º do Regulamento (CEE) nº 3438/92 será concedida:
+
+a) Aos expedidores, pessoas singulares ou colectivas, que tenham efectivamente suportado financeiramente os custos das expedições em causa;
+
+b) A título das expedições que tenham deixado o território da Grécia no decurso de 1995;
+
+c) A título das quantidades efectivamente introduzidas num Estado-membro que não a Itália, Espanha e Portugal.
+
+###### Artigo 2º
+
+1. O pedido de concessão da indemnização especial temporária será apresentado às autoridades gregas competentes nos seis meses seguintes à data de expedição das remessas em causa.
+
+No entanto, esse pedido será apresentado nos seis meses seguintes à data de entrada em vigor do presente regulamento para as remessas expedidas antes dessa data.
+
+2. Do pedido de concessão devem constar, pelo menos, as seguintes informações:
+
+a) O nome ou firma do requerente e o seu endereço;
+
+b) As quantidades globais de produtos que satisfazem as condições do artigo 1º do Regulamento (CEE) nº 3438/92 e do artigo 1º do presente regulamento, expressas em peso líquido e repartidas por produto e por remessa;
+
+c) Para cada expedição:
+
+- a quantidade global, expressa em peso líquido e repartida por produto,
+
+- o Estado-membro de destino,
+
+- o ou os meios de transporte utilizados,
+
+- a factura dos custos de transporte, passada em nome do requerente e liquidada, ou uma cópia do documento de transporte se este permitir determinar a pessoa que suportou financeiramente os custos da expedição em causa,
+
+- uma cópia do documento T5 estabelecido pelas autoridades gregas e visado pelo Estado-membro de destino,
+
+- uma declaração do requerente segundo a qual este certifica que os produtos da expedição em causa são originários da Grécia.
+
+3. As autoridades gregas competentes decidirão da admissibilidade dos pedidos.
+
+###### Artigo 3º
+
+1. O montante da indemnização especial temporária prevista no artigo 1º do Regulamento (CEE) nº 3438/92 é fixado em 4,830 ecus por 100 quilogramas de peso líquido para as expedições de 1995.
+
+2. A taxa a aplicar para a conversão da indemnização especial temporária em dracmas gregas é a taxa de conversão agrícola em vigor na data de emissão do documento T5 referido no nº 2, quinto travessão da alínea c), do artigo 2º Caso essa emissão ocorra em Janeiro de 1995, o montante referido no nº 1 é de 4 ecus.
+
+3. O pagamento da indemnização especial temporária será efectuado nos dois meses seguintes à data de apresentação do pedido de concessão se este tiver sido declarado admissível.
+
+###### Artigo 4º
+
+As autoridades gregas competentes efectuarão os controlos relativos à concessão da indemnização especial temporária.
+
+###### Artigo 5º
+
+1. No caso de uma indemnização especial temporária ter sido indevidamente paga, as autoridades gregas competentes procederão à recuperação dos montantes pagos, acrescidos de um juro relativo ao período compreendido entre a data do pagamento e a sua recuperação efectiva, e, no caso de irregularidade grave, de um montante a título de sanção, igual aos montantes indevidamente pagos. A taxa aplicada ao cálculo do juro é a taxa em vigor para operações de recuperação análogas segundo o direito grego.
+
+2. A indemnização especial temporária recuperada e, se for caso disso, os juros e o montante da sanção serão pagos aos organismos ou aos serviços pagadores e deduzidos por estes das despesas financiadas pelo Fundo Europeu de Orientação e de Garantia Agrícola, secção « Garantia ».
+
+###### Artigo 6º
+
+A autoridade grega competente comunicará à Comissão, até 31 de Agosto de 1995, as quantidades globais de produtos objecto de pedidos admissíveis a título do presente regulamento, repartidas por produto, meio de transporte e Estado-membro de destino.
+
+###### Artigo 7º
+
+O presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.
+
+É aplicável a partir de 1 de Janeiro de 1995.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.
+
+Feito em Bruxelas, em 11 de Abril de 1995.
+
+Pela Comissão Franz FISCHLER Membro da Comissão

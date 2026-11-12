@@ -1,0 +1,168 @@
+---
+schema_version: '1.0'
+id: eu:celex:32021D0927:por
+title: Decisão de Execução (UE) 2021/927 da Comissão de 31 de maio de 2021
+short_title: null
+summary: Decisão de Execução (UE) 2021/927 da Comissão de 31 de maio de 2021 que determina o fator de correção transetorial
+  uniforme para o ajustamento da atribuição de licenças de emissão a título gratuito no período 2021-2025 [notificada com
+  o número C(2021) 3745] (Texto relevante para efeitos do EEE)
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão de Execução
+issuing_authority:
+- Comissão Europeia
+- CLIMA
+proposing_entity: null
+official_number: 2021/927
+official_date: null
+publication_date: '2021-06-09'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 203 de 9.6.2021
+  number: '203'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/0fdb5af6-c8bd-11eb-84ce-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2021-06-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32021D0927
+  eli: http://data.europa.eu/eli/dec_impl/2021/927/oj
+  oj: oj:JOL_2021_203_R_0005
+  dre: null
+  dre_path: null
+  internal: eu:celex:32021D0927:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32021D0927
+  metadata_url: http://publications.europa.eu/resource/cellar/0fdb5af6-c8bd-11eb-84ce-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/0fdb5af6-c8bd-11eb-84ce-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:13:25Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-11-05T14:55:22.559+01:00'
+integrity:
+  source_sha256: 243ab32d4ec836f702e05933ece95ccbccd35452d744e23a61036c2443fab072
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:13:25Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- autorização de poluir negociável
+- comércio de emissões
+- gás de efeito de estufa
+- licença de emissão da UE
+- luta contra a poluição
+- política do ambiente da UE
+- redução das emissões de gases
+- venda em hasta pública
+relationships:
+- type: based_on
+  target: celex:32019R0331
+  label: null
+  source: http://publications.europa.eu/resource/cellar/391ea49a-3a1e-11e9-8d04-01aa75ed71a1
+  date: '2019-02-27'
+- type: cites
+  target: celex:32003L0087
+  label: null
+  source: http://publications.europa.eu/resource/cellar/518d47fe-bb29-4eac-a25e-42d0499f4e19
+- type: cites
+  target: celex:32020D1722
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0cf957f8-2972-11eb-9d7e-01aa75ed71a1
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:13:25Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DE EXECUÇÃO (UE) 2021/927 DA COMISSÃO
+
+de 31 de maio de 2021
+
+que determina o fator de correção transetorial uniforme para o ajustamento da atribuição de licenças de emissão a título gratuito no período 2021-2025
+
+*[notificada com o número C(2021) 3745]*
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento Delegado (UE) 2019/331 da Comissão [([^1])](http://publications.europa.eu/resource/cellar/0fdb5af6-c8bd-11eb-84ce-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2021203PT.01001401-E0001), de 19 de dezembro de 2018, sobre a determinação das regras transitórias da União relativas à atribuição harmonizada de licenças de emissão a título gratuito nos termos do artigo 10.º-A da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho, nomeadamente o artigo 14.º, n.º 6,
+
+Considerando o seguinte:
+
+(1) O artigo 10.º-A, n.^os^ 5, 5-A e 8, da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/0fdb5af6-c8bd-11eb-84ce-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2021203PT.01001401-E0002) prevê uma quantidade máxima anual de licenças de emissão, que constitui a base do cálculo das licenças atribuídas a título gratuito a instalações não abrangidas pelo artigo 10.º-A, n.º 3, dessa diretiva.
+
+(2) A quantidade máxima de licenças de emissão atribuídas a título gratuito prevista no artigo 10.º-A, n.º 5, da Diretiva 2003/87/CE, deduzida da quantidade referida no artigo 10.º-A, n.º 8, e tendo em conta a quantidade adicional disponível, na medida do necessário, fixada no artigo 10.º-A, n.º 5-A, dessa diretiva, não deve ser excedida, a fim de respeitar a quota-parte estabelecida para o leilão no artigo 10.º da Diretiva 2003/87/CE. Para garantir que esta quantidade máxima anual de licenças de emissão não seja excedida, deve ser aplicado, se necessário, um fator de correção transetorial anual, que reduza uniformemente o número de licenças de emissão atribuídas a título gratuito a cada instalação elegível.
+
+(3) Nos termos do artigo 14.º, n.º 6, do Regulamento Delegado (UE) 2019/331, a Comissão deve determinar o fator de correção transetorial aplicável a cada ano do período de atribuição pertinente assim que as quantidades anuais preliminares de licenças de emissão atribuídas a título gratuito para esse período forem notificadas.
+
+(4) O fator de correção transetorial aplicável em cada ano do período de atribuição 2021-2025 a instalações não identificadas como geradoras de eletricidade e que não sejam novos operadores deve ser determinado com base na quantidade anual preliminar de licenças de emissão atribuídas a título gratuito durante o período de atribuição, excluindo as licenças atribuídas a título gratuito às instalações excluídas pelos Estados-Membros do sistema de comércio de licenças de emissão da União (CELE), em conformidade com o artigo 27.º ou o artigo 27.º-A da Diretiva 2003/87/CE, e incluindo as licenças atribuídas a título gratuito a instalações incluídas pelos Estados-Membros nos termos do artigo 24.º da mesma diretiva.
+
+(5) Para 2021, a quantidade de licenças de emissão a nível da União referida no artigo 9.º da Diretiva 2003/87/CE ascende a 1 571 583 007, tal como estabelecido no artigo 1.º da Decisão (UE) 2020/1722 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/0fdb5af6-c8bd-11eb-84ce-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2021203PT.01001401-E0003). Em conformidade com o artigo 10.º, n.º 1, primeiro e segundo parágrafos, da Diretiva 2003/87/CE, a quantidade máxima (anual) prevista no artigo 10.º-A, n.º 5, foi calculada em 43 % de 1 571 583 007, ou seja, 675 780 693. Destas 675 780 693 licenças, 32 500 000 devem ser deduzidas anualmente em conformidade com o artigo 10.º-A, n.º 8, da Diretiva 2003/87/CE, o que resulta numa quantidade máxima de 643 280 693 licenças para 2021. Nos termos do artigo 10.º-A, n.º 5-A, da Diretiva 2003/87/CE, poderia ser utilizada uma quantidade adicional de até 3 % da quantidade total de licenças, correspondente a 413 420 157 licenças durante o período de dez anos de 2021 a 2030, para aumentar a quantidade máxima disponível, se as quantidades anuais preliminares de licenças de emissão a título gratuito por instalação apresentadas pelos Estados-Membros e pelos Estados da EFTA membros do EEE aplicando o fator pertinente determinado no anexo V do Regulamento Delegado (UE) 2019/331 excedessem a quantidade máxima referida no artigo 10.º-A, n.º 5, da Diretiva. No entanto, tal não se verificou, pelo que o fator de correção transetorial anual deve ser de 100 %.
+
+(6) As licenças de emissão incluídas na quantidade máxima prevista para 2021 que não sejam utilizadas devem ser disponibilizadas no ano seguinte, ou seja, em 2022. Essa lógica deve continuar a aplicar-se nos anos subsequentes durante o período de atribuição 2021-2025 a que se refere o artigo 2.º, ponto 15, do Regulamento Delegado (UE) 2019/331.
+
+(7) As quantidades máximas previstas no artigo 10.º-A, n.^os^ 5, 5-A e 8, da Diretiva 2003/87/CE, as regras harmonizadas de atribuição e o fator de correção transetorial devem ser aplicados nos Estados da EFTA membros do EEE [([^4])](http://publications.europa.eu/resource/cellar/0fdb5af6-c8bd-11eb-84ce-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2021203PT.01001401-E0004). É, pois, necessário ter em conta as quantidades anuais preliminares de licenças de emissão a atribuir a título gratuito no período 2021-2025 com base nos dados aceites pelo Órgão de Fiscalização da EFTA no respeitante à Islândia, à Noruega e ao Listenstaine. Os cálculos referidos no considerando 5 refletem esta necessidade,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+Para cada ano do período de atribuição 2021-2025, o fator de correção transetorial uniforme para o ajustamento da atribuição de licenças de emissão a título gratuito nos termos do artigo 10.º-A, n.^os^ 5 e 5-A, da Diretiva 2003/87/CE é de 100 %.
+
+###### Artigo 2.º
+
+Os destinatários da presente decisão são os Estados-Membros.
+
+Feito em Bruxelas, em 31 de maio de 2021.
+
+***Pela Comissão***
+
+**Frans TIMMERMANS**
+
+***Vice-Presidente Executivo***
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/0fdb5af6-c8bd-11eb-84ce-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2021203PT.01001401-E0001) [JO L 59 de 27.2.2019, p. 8](http://publications.europa.eu/resource/oj/JOL_2019_059_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/0fdb5af6-c8bd-11eb-84ce-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2021203PT.01001401-E0002) Diretiva 2003/87/CE do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, relativa à criação de um sistema de comércio de licenças de emissão de gases com efeito de estufa na União e que altera a Diretiva 96/61/CE do Conselho ([JO L 275 de 25.10.2003, p. 32](http://publications.europa.eu/resource/oj/JOL_2003_275_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/0fdb5af6-c8bd-11eb-84ce-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2021203PT.01001401-E0003) Decisão (UE) 2020/1722 da Comissão, de 16 de novembro de 2020, relativa à quantidade de licenças de emissão a conceder a nível da União para 2021 no âmbito do Sistema de Comércio de Licenças de Emissão da UE ([JO L 386 de 18.11.2020, p. 26](http://publications.europa.eu/resource/oj/JOL_2020_386_R_TOC)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/0fdb5af6-c8bd-11eb-84ce-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2021203PT.01001401-E0004) *Decision of the EEA Joint Committee No 112/2020 of 14 July 2020 amending Annex XX (Environment) to the EEA Agreement* (ainda não publicada no Jornal Oficial).

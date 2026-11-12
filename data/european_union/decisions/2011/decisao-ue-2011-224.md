@@ -1,0 +1,143 @@
+---
+schema_version: '1.0'
+id: eu:celex:32011D0224:por
+title: '2011/224/UE: Decisão do Conselho, de 31 de Março de 2011'
+short_title: null
+summary: '2011/224/UE: Decisão do Conselho, de 31 de Março de 2011 , que estabelece a posição a tomar pela União Europeia
+  no Conselho Internacional dos Cereais no que respeita à prorrogação da Convenção sobre o Comércio de Cereais de 1995'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2011/224
+official_date: null
+publication_date: '2011-04-08'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 94 de 8.4.2011
+  number: '94'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/bed9b359-bfaf-44ef-9d02-3ad1aaf2a809.0007.02/DOC_1
+entry_into_force_dates:
+- '2011-03-31'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32011D0224
+  eli: http://data.europa.eu/eli/dec/2011/224/oj
+  oj: oj:JOL_2011_094_R_0028_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32011D0224:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32011D0224
+  metadata_url: http://publications.europa.eu/resource/cellar/bed9b359-bfaf-44ef-9d02-3ad1aaf2a809.0007
+  content_url: http://publications.europa.eu/resource/cellar/bed9b359-bfaf-44ef-9d02-3ad1aaf2a809.0007.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:43:58Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-08-11T19:30:18.602+02:00'
+integrity:
+  source_sha256: 94801d8ef1d378ebd15c11a42679c0619350675de82b638b410a47589ed928c1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:43:58Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- União Europeia
+- acordo comercial
+- acordo internacional
+- cereal
+relationships:
+- type: based_on
+  target: celex:12010E207
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a70758a8-2715-4fe0-8d12-528c2ad05fba
+  date: '2010-04-27'
+- type: based_on
+  target: celex:12010E218
+  label: null
+  source: http://publications.europa.eu/resource/cellar/392743aa-155e-45b8-a8ef-c6f93103b96b
+  date: '2010-04-27'
+- type: cites
+  target: celex:31996D0088
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4da3b453-c703-4308-9314-9744083c8b7d
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:43:58Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DO CONSELHO
+
+de 31 de Março de 2011
+
+que estabelece a posição a tomar pela União Europeia no Conselho Internacional dos Cereais no que respeita à prorrogação da Convenção sobre o Comércio de Cereais de 1995
+
+(2011/224/UE)
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 207.º, conjugado com o n.º 9 do artigo 218.º,
+
+Tendo em conta a proposta da Comissão Europeia,
+
+Considerando que a Convenção sobre o Comércio de Cereais de 1995, que foi celebrada pelo Conselho em nome da Comunidade pela Decisão 96/88/CE [([^1])](http://publications.europa.eu/resource/cellar/bed9b359-bfaf-44ef-9d02-3ad1aaf2a809.0007.03/DOC_1#ntr1-L_2011094PT.01002801-E0001), foi regularmente prorrogada por períodos sucessivos de dois anos. A Convenção foi prorrogada pela última vez por decisão do Conselho Internacional dos Cereais de 8 de Junho de 2009 e permanecerá em vigor até 30 de Junho de 2011. É do interesse da União proceder a uma nova prorrogação da Convenção. Por conseguinte, a Comissão, que representa a União no Conselho Internacional dos Cereais, deverá ser autorizada a votar a favor dessa prorrogação,
+
+ADOPTOU A PRESENTE DECISÃO:
+
+###### Artigo único
+
+A posição a tomar pela União no Conselho Internacional dos Cereais consiste em votar a favor da prorrogação da Convenção sobre o Comércio de Cereais de 1995 por um novo período máximo de dois anos.
+
+A Comissão fica autorizada a expressar essa posição no Conselho Internacional dos Cereais.
+
+###### Artigo 2.º
+
+A presente decisão entra em vigor no dia da sua adopção.
+
+Feito em Bruxelas, em 31 de Março de 2011.
+
+***Pelo Conselho***
+
+***O Presidente***
+
+**VÖLNER P.**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/bed9b359-bfaf-44ef-9d02-3ad1aaf2a809.0007.03/DOC_1#ntc1-L_2011094PT.01002801-E0001) [JO L 21 de 27.1.1996, p. 47](http://publications.europa.eu/resource/oj/JOL_1996_021_R_TOC).

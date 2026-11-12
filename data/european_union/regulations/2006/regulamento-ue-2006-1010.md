@@ -1,0 +1,505 @@
+---
+schema_version: '1.0'
+id: eu:celex:32006R1010:por
+title: Regulamento (CE) n. o 1010/2006 da Comissão, de 3 de Julho de 2006
+short_title: null
+summary: Regulamento (CE) n. o 1010/2006 da Comissão, de 3 de Julho de 2006 , relativo a certas medidas excepcionais de apoio
+  do mercado no sector dos ovos e das aves de capoeira em certos Estados-Membros
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2006/1010
+official_date: null
+publication_date: '2006-07-04'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 180 de 4.7.2006
+  number: '180'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/f9ca40f4-56a1-45d8-84b9-9a8c3809bfbf.0016.02/DOC_1
+entry_into_force_dates:
+- '2006-05-11'
+- '2006-07-04'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2007-04-01'
+identifiers:
+  celex: 32006R1010
+  eli: http://data.europa.eu/eli/reg/2006/1010/oj
+  oj: oj:JOL_2006_180_R_0003_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32006R1010:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32006R1010
+  metadata_url: http://publications.europa.eu/resource/cellar/f9ca40f4-56a1-45d8-84b9-9a8c3809bfbf.0016
+  content_url: http://publications.europa.eu/resource/cellar/7525b1e6-0263-4a5d-92a1-c08c1a603340.0017.03/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1010-20070401
+  retrieved_at: '2026-11-12T00:35:00Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-12-21T01:14:30.841+01:00'
+integrity:
+  source_sha256: 7ac85ca1f521c3e6c47b94298625f7e45e0ea1cfc049ec07044067c3f8279ecd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:35:00Z'
+  notes: Texto consolidado 02006R1010-20070401.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- apoio do mercado
+- aves de capoeira
+- carne de aves de capoeira
+- consumo
+- doença animal
+- organização comum de mercado
+- ovo
+- prevenção das doenças
+relationships:
+- type: amended_by
+  target: celex:32007R0435
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4467c636-233f-4607-892f-58abf7306285
+  date: '2007-04-23'
+- type: amended_by
+  target: celex:32006R1256
+  label: null
+  source: http://publications.europa.eu/resource/cellar/addbc501-a79e-4fe1-875e-b6a1442bc0e8
+  date: '2010-03-08'
+- type: amended_by
+  target: celex:32006R1629
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a28bbf00-c855-4504-80eb-ca3f997bf95f
+  date: '2010-03-08'
+- type: based_on
+  target: celex:31995R2777
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0d62926e-8eaa-4c19-925b-5f8d804ac850
+  date: '1997-03-07'
+- type: based_on
+  target: celex:31975R2771
+  label: null
+  source: http://publications.europa.eu/resource/cellar/110b32b3-3155-4047-bdb2-13a5b92a9f4a
+  date: '2010-03-08'
+article_structure:
+  article_count: 11
+  section_count: 7
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:35:00Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento (CE) n. o 1010/2006 da Comissão, de 3 de Julho de 2006
+
+> 2006R1010 — PT — 01.04.2007 — 002.001
+
+> Este documento constitui um instrumento de documentação e não vincula as instituições
+
+**Alterado por:**
+
+- [►M1](http://publications.europa.eu/resource/celex/32006R1256) — [REGULAMENTO (CE) N.º 1256/2006 DA COMISSÃO de 21 de Agosto de 2006](http://publications.europa.eu/resource/celex/32006R1256) — L 228 — 9 — 22.8.2006
+- [►M2](http://publications.europa.eu/resource/celex/32006R1629) — [REGULAMENTO (CE) N.º 1629/2006 DA COMISSÃO de 31 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006R1629) — L 302 — 41 — 1.11.2006
+- [►M3](http://publications.europa.eu/resource/celex/32007R0435) — [REGULAMENTO (CE) N.º 435/2007 DA COMISSÃO de 20 de Abril de 2007](http://publications.europa.eu/resource/celex/32007R0435) — L 104 — 13 — 21.4.2007
+
+## REGULAMENTO (CE) N.º 1010/2006 DA COMISSÃO
+
+de 3 de Julho de 2006
+
+relativo a certas medidas excepcionais de apoio do mercado no sector dos ovos e das aves de capoeira em certos Estados-Membros
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CEE) n.º 2771/75 do Conselho, de 29 de Outubro de 1975, que estabelece a organização comum de mercado no sector dos ovos ([^1^](http://publications.europa.eu/resource/cellar/7525b1e6-0263-4a5d-92a1-c08c1a603340.0017.03/DOC_1#E0001)), nomeadamente o n.º 1, alínea b) do primeiro parágrafo, do artigo 14.º,
+
+Tendo em conta o Regulamento (CEE) n.º 2777/75 do Conselho, de 29 de Outubro de 1975, que estabelece uma organização comum de mercado no sector da carne de aves de capoeira ([^2^](http://publications.europa.eu/resource/cellar/7525b1e6-0263-4a5d-92a1-c08c1a603340.0017.03/DOC_1#E0002)), nomeadamente o n.º 1, alínea b) do primeiro parágrafo, do artigo 14.º,
+
+(1) No seguimento da ocorrência de gripe aviária altamente patogénica (H5N1) em zonas próximas do território da Comunidade, desde o Outono de 2005, e em vários Estados-Membros, desde Fevereiro de 2006, o consumo de carne de aves de capoeira e, em menor grau, de ovos diminuiu sensivelmente nalguns Estados-Membros.
+
+(2) A diminuição significativa e rápida do nível de consumo de carne de aves de capoeira causou uma descida dos preços, tendo perturbado fortemente o mercado dessa carne.
+
+(3) Dado que essas fortes perturbações do mercado estão directamente ligadas a uma perda de confiança do consumidor resultante de riscos para a saúde animal, justifica-se que, na sequência do pedido dos Estados-Membros afectados, sejam tomadas medidas excepcionais de apoio do mercado na acepção do artigo 14.º do Regulamento (CEE) n.º 2771/75 e do artigo 14.º do Regulamento (CEE) n.º 2777/75 e concedidas ajudas que permitam compensar parcialmente as perdas económicas causadas pela destruição de ovos para incubação ou de pintos, pelo abate antecipado de uma parte do efectivo reprodutor, pela redução temporária da produção ou, ainda, pelo abate das galinhas prontas para a postura, na sequência das medidas de biossegurança impostas por certos Estados-Membros a título preventivo.
+
+(4) Os ovos para incubação transformados em ovoprodutos devem ser objecto de uma compensação inferior à dos ovos para incubação destruídos.
+
+(5) As quantidades máximas que podem ser objecto de uma compensação financeira para cada uma das medidas excepcionais de apoio do mercado são fixadas pela Comissão após exame dos pedidos dos Estados-Membros.
+
+(6) As disposições do artigo 14.º do Regulamento (CEE) n.º 2771/75 e do artigo 14.º do Regulamento (CEE) n.º 2777/75 que prevêem a adopção das medidas em questão estão em vigor desde 11 de Maio de 2006. Por conseguinte, o presente regulamento deve também ser aplicável a partir dessa data.
+
+(7) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão da Carne de Aves de Capoeira e dos Ovos,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+1. A destruição dos ovos para incubação dos códigos NC 0407 00 11 e 0407 00 19 é considerada uma medida excepcional de apoio do mercado a título do artigo 14.º do Regulamento (CEE) n.º 2771/75.
+
+2. É concedida, a cada Estado-Membro em causa, até ao limite do número máximo de peças constante do anexo I e em relação ao período definido no referido anexo, uma compensação pela destruição prevista no n.º 1.
+
+O nível máximo de compensação é fixado forfetariamente em:
+
+a) 0,15 EUR por ovo para incubação «galinha convencional» do código NC 0407 00 19;
+
+b) 0,23 EUR por ovo para incubação «galinha criada ao ar livre» do código NC 0407 00 19;
+
+c) 0,23 EUR por ovo para incubação «pintada» do código NC 0407 00 19;
+
+d) 0,35 EUR por ovo para incubação «pata» do código NC 0407 00 19;
+
+e) 0,66 EUR por ovo para incubação «perua» do código NC 0407 00 11;
+
+f) 1,20 EUR por ovo para incubação «gansa» do código NC 0407 00 11.
+
+###### Artigo 2.º
+
+1. A transformação dos ovos para incubação do código NC 0407 00 19 é considerada uma medida excepcional de apoio do mercado a título do artigo 14.º do Regulamento (CEE) n.º 2771/75.
+
+2. É concedida, a cada Estado-Membro em causa, até ao limite do número máximo de peças constante do anexo II e em relação ao período definido no referido anexo, uma compensação pela transformação prevista no n.º 1.
+
+O nível máximo de compensação é igual ao previsto no n.º 2 do artigo 1.º, diminuído de 0,03 EUR por ovo para incubação ou do preço de venda, se este último for superior a 0,03 EUR.
+
+###### Artigo 3.º
+
+1. A destruição dos pintos dos códigos NC 0105 11, 0105 12 e 0105 19 é considerada uma medida excepcional de apoio do mercado a título do artigo 14.º do Regulamento (CEE) n.º 2777/75.
+
+2. É concedida, a cada Estado-Membro em causa, até ao limite do número máximo de peças constante do anexo III e em relação ao período definido no referido anexo, uma compensação pela destruição prevista no n.º 1.
+
+O nível máximo de compensação é fixado forfetariamente em:
+
+a) 0,24 EUR por pinto «frango»;
+
+b) 0,40 EUR por pinto «pintada»;
+
+c) 0,54 EUR por pinto «pato»;
+
+d) 0,85 EUR por pinto «peru»;
+
+e) 1,50 EUR por pinto «ganso».
+
+###### Artigo 4.º
+
+1. O abate ou a occisão antecipados de 6 semanas, pelo menos, de uma parte do efectivo reprodutor, a fim de reduzir a produção de ovos para incubação dos códigos NC 0105 92 00, 0105 93 00, 0105 99 10, 0105 99 20, 0105 99 30 e 0105 99 50, são considerados medidas excepcionais de apoio do mercado a título do artigo 14.º do Regulamento (CEE) n.º 2777/75, desde que a produção animal não seja reiniciada nos locais em questão durante esse período.
+
+2. [**►M2**](http://publications.europa.eu/resource/celex/32006R1629) É concedida, a cada Estado-Membro em causa, até ao limite do número máximo de peças constante do anexo IV e em relação ao período definido no referido anexo, uma compensação pelo abate ou occisão antecipados previstos no n.º 1**◄**.
+
+O nível máximo de compensação é fixado forfetariamente em:
+
+a) 3,2 EUR por galinha reprodutora dos códigos NC 0105 92 00 e 0105 93 00;
+
+b) 3,2 EUR por pata reprodutora do código NC 0105 99 10;
+
+c) 30 EUR por gansa reprodutora do código NC 0105 99 20;
+
+d) 15 EUR por perua reprodutora do código NC 0105 99 30;
+
+e) 5 EUR por pintada reprodutora do código NC 0105 99 50.
+
+###### Artigo 5.º
+
+1. O prolongamento voluntário do vazio sanitário para além de três semanas é considerado uma medida excepcional de apoio do mercado a título do artigo 14.º do Regulamento (CEE) n.º 2777/75, desde que a produção animal não seja reiniciada durante esse período.
+
+2. É concedida, a cada Estado-Membro em causa, até ao limite da superfície máxima constante do anexo V e em relação ao período definido no referido anexo, uma compensação pelo prolongamento previsto no n.º 1, por m^2^ e por semana de vazio sanitário para além de três semanas para as explorações de aves de capoeira.
+
+O nível máximo de compensação é fixado forfetariamente em:
+
+a) 0,46 EUR/m^2^ e por semana para as explorações de frangos para carne;
+
+b) 0,41 EUR/m^2^ e por semana para as explorações de perus;
+
+c) 0,62 EUR/m^2^ e por semana para as explorações de patos;
+
+d) 0,41 EUR/m^2^ e por semana para as explorações de pintadas.
+
+3. Os Estados-Membros que tenham já concedido certas compensações para as superfícies em causa velarão por que os montantes já pagos a nível nacional sejam deduzidos da compensação prevista no n.º 2.
+
+###### Artigo 6.º
+
+1. A redução voluntária da produção através da diminuição do número de pintos introduzidos a fim de baixar a densidade é considerada uma medida excepcional de apoio do mercado a título do artigo 14.º do Regulamento (CEE) n.º 2777/75.
+
+2. É concedida, a cada Estado-Membro em causa, até ao limite do número máximo de animais constante do anexo VI e em relação ao período definido no referido anexo, uma compensação pela redução voluntária da produção prevista no n.º 1, por animal produzido a menos em relação a um ciclo de produção normal em cada local de produção específico.
+
+O nível máximo de compensação é fixado forfetariamente em:
+
+a) 0,20 EUR/animal para as explorações de frangos para carne;
+
+b) 1,24 EUR/animal para as explorações de perus;
+
+c) 0,75 EUR/animal para as explorações de patos;
+
+d) 0,40 EUR/animal para as explorações de pintadas.
+
+###### Artigo 7.º
+
+1. O abate ou a occisão antecipados de “galinhas prontas para a postura” são considerados medidas excepcionais de apoio do mercado a título do artigo 14.º do Regulamento (CEE) n.º 2777/75.
+
+2. É concedida, a cada Estado-Membro em causa, até ao limite do número máximo de animais constante do anexo VII e em relação ao período definido no referido anexo, uma compensação pelo abate ou occisão previstos no n.º 1.
+
+O nível máximo de compensação é fixado forfetariamente em 3,2 EUR/galinha “pronta para postura”.
+
+###### Artigo 8.º
+
+Os Estados-Membros que tenham comunicado à Comissão montantes para as compensações parciais inferiores aos montantes máximos previstos nos artigos 1.º a 7.º devem limitar-se aos montantes comunicados.
+
+###### Artigo 9.º
+
+O facto gerador da taxa de câmbio para as ajudas fixadas no presente regulamento é o primeiro dia útil do mês de Maio de 2006.
+
+A taxa de câmbio a utilizar é a última taxa de câmbio fixada pelo Banco Central Europeu anterior à data do facto gerador.
+
+###### Artigo 10.º
+
+As despesas efectuadas pelos Estados-Membros a título dos pagamentos referidos nos artigos 1.º a 7.º só são elegíveis para o financiamento comunitário, nas condições previstas no artigo 14.º do Regulamento (CEE) n.º 2771/75 e no artigo 14.º do Regulamento (CEE) n.º 2777/75, se os Estados-Membros efectuarem os pagamentos aos beneficiários antes de [**►M3**](http://publications.europa.eu/resource/celex/32007R0435) 31 de Maio de 2007.**◄**
+
+###### Artigo 11.º
+
+O presente regulamento entra em vigor na data da sua publicação no *Jornal Oficial da União Europeia*.
+
+É aplicável a partir de 11 de Maio de 2006.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+## ANEXO I
+
+|  | Galinha convencional | Galinha «label» | Pintada | Perua | Pata | Gansa | Período de aplicação (para a gansa, até 8.2006) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| BE | 368 600 | 18 000 | — | — | 1 400 | — | 1.2006-4.2006 |
+| CZ | 9 522 600 | — | — | 126 515 | 587 034 | 25 181 | 2.2006-4.2006 |
+| DK | — | — | — | — | — | — | — |
+| DE | — | — | — | — | — | 1 000 000 | 1.2006-8.2006 |
+| EE | — | — | — | — | — | — | — |
+| EL | 7 704 000 | 4 105 000 | — | 200 000 | — | — | 10.2005-4.2006 |
+| ES | 7 800 000 | — | — | — | — | — | 10.2005-4.2006 |
+| FR | 60 000 000 | 21 450 000 | 4 166 000 | 4 960 000 | 2 663 000 | 450 000 | 12.2005-4.2006 |
+| IE | — | — | — | 360 000 | 170 000 | — | 1.2006-4.2006 |
+| IT | 5 990 000 | — | 465 000 | 220 000 | 35 000 | 25 000 | 9.2005-4.2006 |
+| CY | 442 000 | — | — | — | — | — | 10.2005-4.2006 |
+| LV | — | — | — | — | — | — | — |
+| LT | — | — | — | — | — | — | — |
+| LU | — | — | — | — | — | — | — |
+| HU | 11 119 968 | 500 000 | — | 144 915 | 1 835 000 | 805 117 | 11.2005-8.2006 |
+| MT | — | — | — | — | — | — | — |
+| NL | — | — | — | — | — | — | — |
+| AT | 2 000 000 | 50 000 | — | — | 50 000 | 40 000 | 10.2005-4.2006 |
+| PL | 2 141 098 | — | — | — | 621 586 | 77 029 | 10.2005-4.2006 |
+| PT | 6 000 000 | — | — | — | — | — | 10.2005-4.2006 |
+| SI | 200 000 | — | — | — | — | — | 11.2005-4.2006 |
+| SK | — | — | — | — | 80 000 | 13 000 | 10.2005-4.2006 |
+| FI | — | — | — | — | — | — | — |
+| SE | — | — | — | — | — | — | — |
+| UK | — | — | — | — | — | — | — |
+
+## ANEXO II
+
+|  | Galinha | Galinha «label» | Período de aplicação |
+| --- | --- | --- | --- |
+| BE | 3 140 000 | 60 000 | 1.2006-4.2006 |
+| CZ | 10 000 000 |  | 2.2006-4.2006 |
+| DK | 15 214 440 |  | 1.2006-8.2006 |
+| DE | — |  | — |
+| EE | — |  | — |
+| EL | 4 166 000 |  | 10.2005-4.2006 |
+| ES | 1 800 000 |  | 10.2005-4.2006 |
+| FR | — |  | — |
+| IE | — |  | — |
+| IT | 18 760 000 |  | 9.2005-4.2006 |
+| CY | — |  | — |
+| LV | — |  | — |
+| LT | — |  | — |
+| LU | — |  | — |
+| HU | 8 390 000 |  | 11.2005-8.2006 |
+| MT | — |  | — |
+| NL | 25 000 000 |  | 12.2005-4.2006 |
+| AT | 700 000 | 90 000 | 10.2005-4.2006 |
+| PL | 64 594 006 |  | 10.2005-4.2006 |
+| PT | — |  | — |
+| SI | 5 000 000 |  | 11.2005-4.2006 |
+| SK | 1 145 000 |  | 10.2005-4.2006 |
+| FI | — |  | — |
+| SE | — |  | — |
+| UK | — |  | — |
+
+## ANEXO III
+
+|  | Frango | Pintada | Peru | Pato | Ganso | Período de aplicação (para o ganso, até 8.2006) |
+| --- | --- | --- | --- | --- | --- | --- |
+| BE | 50 000 | — | — | — | — | 1.2006-4.2006 |
+| CZ | 2 000 000 | — | 90 000 | 150 000 | 5 000 | 2.2006-4.2006 |
+| DK | — | — | — | — | — | — |
+| DE | — | — | — | — | — | — |
+| EE | — | — | — | — | — | — |
+| EL | 4 138 440 | — | 10 000 | — | — | 10.2005-4.2006 |
+| ES | — | — | — | — | — | — |
+| FR | — | — | — | — | — | — |
+| IE | — | — | — | — | — | — |
+| IT | 15 230 000 | 1 005 900 | 165 600 | 137 000 | 13 000 | 9.2005-4.2006 |
+| CY | 143 725 | — | — | — | — | 10.2005-4.2006 |
+| LV | — | — | — | — | — | — |
+| LT | — | — | — | — | — | — |
+| LU | — | — | — | — | — | — |
+| HU | 2 000 000 | — | — | 1 200 000 | 100 000 | 11.2005-8.2006 |
+| MT | — | — | — | — | — | — |
+| NL | — | — | — | — | — | — |
+| AT | 350 000 | — | 25 000 | 50 000 | 25 000 | 10.2005-4.2006 |
+| PL | — | — | — | — | — | — |
+| PT | 4 000 000 | — | — | — | — | 10.2005-4.2006 |
+| SI | 260 000 | — | — | — | — | 11.2005-4.2006 |
+| SK | — | — | — | — | — | — |
+| FI | — | — | — | — | — | — |
+| SE | — | — | — | — | — | — |
+| UK | — | — | — | — | — | — |
+
+## ANEXO IV
+
+|  | Galinha | Pintada | Perua | Pata | Gansa | Período de aplicação (para a gansa, até 8.2006) |
+| --- | --- | --- | --- | --- | --- | --- |
+| BE | 164 000 | — | — | — | — | 1.2006-4.2006 |
+| CZ | 635 000 | — | 11 000 | 15 000 | 20 000 | 2.2006-4.2006 |
+| DK | 244 000 | — | — | — | — | 1.2006-8.2006 |
+| DE | — | — | — | — | 20 000 | 1.2006-8.2006 |
+| EE | — | — | — | — | — | — |
+| EL | 454 300 | — | 16 000 | — | — | 10.2005-4.2006 |
+| ES | 151 000 | — | — | — | — | 10.2005-4.2006 |
+| FR | 1 400 000 | 60 000 | 130 000 | 60 000 | 12 000 | 1.2006-4.2006 |
+| IE | 32 000 | — | — | 4 000 | — | 1.2006-4.2006 |
+| IT | 1 957 000 | 12 000 | 47 000 | 1 500 | 2 400 | 9.2005-4.2006 |
+| CY | — | — | — | — | — | — |
+| LV | — | — | — | — | — | — |
+| LT | — | — | — | — | — | — |
+| LU | — | — | — | — | — | — |
+| HU | 50 300 | — | 4 700 | 45 000 | 18 000 | 11.2005-8.2006 |
+| MT | — | — | — | — | — | — |
+| NL | 1 293 750 | — | — | — | — | 12.2005-4.2006 |
+| AT | 140 000 | — | — | — | 500 | 10.2005-4.2006 |
+| PL | 1 060 109 | — | — | — | — | 10.2005-4.2006 |
+| PT | 300 000 | — | — | — | — | 10.2005-4.2006 |
+| SI | 252 268 | — | — | — | — | 11.2005-4.2006 |
+| SK | 49 000 | — | — | — | — | 10.2005-4.2006 |
+| FI | — | — | — | — | — | — |
+| SE | — | — | — | — | — | — |
+| UK | — | — | — | — | — | — |
+
+## ANEXO V
+
+|  | Frango | Pintada | Peru | Pato | Período de aplicação |
+| --- | --- | --- | --- | --- | --- |
+| BE | 75 000 | — | — | 10 000 | 4/7 semanas/frango — 5 semanas/pato entre 1.2006 e 4.2006 |
+| CZ | 155 000 | — | 55 000 | 60 000 | 8 semanas/frango — 14 semanas peru — 10 semanas/pato entre 2.2006 e 4.2006 |
+| DK | — | — | — | — | — |
+| DE | — | — | — | — | — |
+| EE | — | — | — | — | — |
+| EL | 2 350 000 | — | — | — | 7 semanas entre 10.2005 e 4.2006 |
+| ES | — | — | — | — | — |
+| FR | 2 200 000 | — | — | — | 16 semanas entre 10.2005 e 4.2006 |
+| IE | 400 000 | — | 400 000 | 3 000 | 4 semanas entre 10.2005 e 4.2006 |
+| IT | 7 035 000 | 178 000 | 3 812 000 | 77 000 | 7 semanas/frango entre 10.2005 e 4.2006 |
+| CY | — | — | — | — | — |
+| LV | — | — | — | — | — |
+| LT | — | — | — | — | — |
+| LU | — | — | — | — | — |
+| HU | 183 178 | — | 30 000 | 135 000 | 16 semanas entre 11.2005 e 8.2006 |
+| MT | — | — | — | — | — |
+| NL | — | — | 100 000 | — | 1 semana entre 11.2005 e 4.2006 |
+| AT | 450 000 | — | 5 000 | 5 000 | 3 semanas/frango — 10 semanas outros entre 10.2005 e 4.2006 |
+| PL | 2 600 000 | — | 700 000 | — | 6 semanas/frango — 4 semanas/peru entre 10.2005 e 4.2006 |
+| PT | 489 130 | — | — | — | 4 semanas entre 10.2005 e 4.2006 |
+| SI | 300 000 | — | 100 000 | — | 3 semanas/frango — 2 semanas/peru entre 11.2005 e 4.2006 |
+| SK | 11 000 | — | — | — | 16 semanas entre 10.2005 e 4.2006 |
+| FI | — | — | — | — | — |
+| SE | — | — | — | — | — |
+| UK | — | — | — | — | — |
+
+## ANEXO VI
+
+|  | Frango | Pintada | Peru | Pato | Período de aplicação |
+| --- | --- | --- | --- | --- | --- |
+| BE | 4 602 000 | — | — | 20 000 | 1.2006-4.2006 |
+| CZ | 9 180 000 | — | 70 000 | 300 000 | 2.2006-4.2006 |
+| DK | 8 500 000 | — | — | — | 1.2006-8.2006 |
+| DE | — | — | — | — | — |
+| EE | — | — | — | — | — |
+| EL | — | — | — | — | — |
+| ES | 15 000 000 | — | — | — | 10.2005-4.2006 |
+| FR | — | — | — | — | — |
+| IE | — | — | — | 25 000 | 1.2006-4.2006 |
+| IT | 5 500 000 | — | 350 000 | — | 9.2005-4.2006 |
+| CY | 2 626 075 | — | — | — | 11.2005-4.2006 |
+| LV | — | — | — | — | — |
+| LT | — | — | — | — | — |
+| LU | — | — | — | — | — |
+| HU | — | — | — | 180 000 | 11.2005-8.2006 |
+| MT | — | — | — | — | — |
+| NL | 23 000 000 | — | 200 000 | — | 12.2005-4.2006 |
+| AT | 200 000 | — | 10 000 | 30 000 | 10.2005-4.2006 |
+| PL | — | — | — | — | — |
+| PT | — | — | — | — | — |
+| SI | 3 000 000 | — | 50 000 | — | 11.2005-4.2006 |
+| SK | 4 734 800 | — | — | — | 10.2005-4.2006 |
+| FI | — | — | — | — | — |
+| SE | — | — | — | — | — |
+| UK | — | — | — | — | — |
+
+## ANEXO VII
+
+|  | Galinhas «prontas para a postura» | Período de aplicação |
+| --- | --- | --- |
+| BE | 12 000 | 1.2006-4.2006 |
+| CZ | — | — |
+| DK | — | — |
+| DE | 500 000 | 1.2006-4.2006 |
+| EE | — | — |
+| EL | 1 550 000 | 10.2005-4.2006 |
+| ES | — | — |
+| FR | — | — |
+| IE | — | — |
+| IT | 7 000 | 10.2005-4.2006 |
+| CY | — | — |
+| LV | — | — |
+| LT | — | — |
+| LU | — | — |
+| HU | — | — |
+| MT | — | — |
+| NL | — | — |
+| AT | 70 000 | 10.2005-4.2006 |
+| PL | — | — |
+| PT | — | — |
+| SI | — | — |
+| SK | — | — |
+| FI | — | — |
+| SE | — | — |
+| UK | — | — |
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/7525b1e6-0263-4a5d-92a1-c08c1a603340.0017.03/DOC_1#src.E0001)) JO L 282 de 1.11.1975, p. 49. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 679/2006 (JO L 119 de 4.5.2006, p. 1).
+
+> ([^2^](http://publications.europa.eu/resource/cellar/7525b1e6-0263-4a5d-92a1-c08c1a603340.0017.03/DOC_1#src.E0002)) JO L 282 de 1.11.1975, p. 77. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 679/2006.

@@ -1,0 +1,158 @@
+---
+schema_version: '1.0'
+id: eu:celex:31998D0708:por
+title: '98/708/CE: Decisão do Conselho de 3 de Novembro de 1998'
+short_title: null
+summary: '98/708/CE: Decisão do Conselho de 3 de Novembro de 1998 relativa à conclusão do Acordo entre a Comunidade Europeia
+  e a República do Chile sobre precursores e substâncias químicas frequentemente utilizados no fabrico ilícito de estupefacientes
+  e substâncias psicotrópicas'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 1998/708
+official_date: null
+publication_date: '1998-12-11'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 336 de 11.12.1998
+  number: '336'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/a6f4d277-9574-403c-a6eb-31ea2df31a26.0009.02/DOC_1
+entry_into_force_dates:
+- '1998-11-03'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31998D0708
+  eli: http://data.europa.eu/eli/dec/1998/708/oj
+  oj: oj:JOL_1998_336_R_0046_021
+  dre: null
+  dre_path: null
+  internal: eu:celex:31998D0708:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31998D0708
+  metadata_url: http://publications.europa.eu/resource/cellar/a6f4d277-9574-403c-a6eb-31ea2df31a26.0009
+  content_url: http://publications.europa.eu/resource/cellar/a6f4d277-9574-403c-a6eb-31ea2df31a26.0009.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:22:56Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2015-02-10T15:59:00.262+01:00'
+integrity:
+  source_sha256: 9a717ffa5a94be9289093d1acca281d10b764d146159e081775b163bb92ec268
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:22:56Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Chile
+- acordo (UE)
+- aplicação do direito da UE
+- estupefaciente
+- produto químico
+relationships:
+- type: based_on
+  target: celex:11992E113
+  label: null
+  source: http://publications.europa.eu/resource/cellar/818f1d16-fe70-4bae-8970-dfc21aec4a49
+  date: '1992-08-31'
+- type: based_on
+  target: celex:11992E228
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3b8981db-3734-424e-a30f-b0e0fed8518a
+  date: '1992-08-31'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:22:56Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# 98/708/CE: Decisão do Conselho de 3 de Novembro de 1998
+
+**98/708/CE: Decisão do Conselho de 3 de Novembro de 1998 relativa à conclusão do Acordo entre a Comunidade Europeia e a República do Chile sobre precursores e substâncias químicas frequentemente utilizados no fabrico ilícito de estupefacientes e substâncias psicotrópicas** *Jornal Oficial nº L 336 de 11/12/1998 p. 0046 - 0047*
+
+DECISÃO DO CONSELHO de 3 de Novembro de 1998 relativa à conclusão do Acordo entre a Comunidade Europeia e a República do Chile sobre precursores e substâncias químicas frequentemente utilizados no fabrico ilícito de estupefacientes e substâncias psicotrópicas (98/708/CE)
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 113º, conjugado com o nº 2, primeira frase, e o nº 4 do seu artigo 228º,
+
+Tendo em conta a proposta da Comissão,
+
+Considerando que, em 25 de Setembro de 1995, o Conselho autorizou a Comissão a negociar, em nome da Comunidade, acordos sobre o controlo de precursores e substâncias químicas com os Estados-membros da Organização dos Estados Americanos; que, com base nessa autorização, a Comissão concluiu as negociações com o Chile em 3 de Dezembro de 1997;
+
+Considerando que é conveniente aprovar o Acordo entre a Comunidade Europeia e a República do Chile sobre precursores e substâncias químicas frequentemente utilizados no fabrico ilícito de estupefacientes e substâncias psicotrópicas;
+
+Considerando que é conveniente que o Conselho autorize a Comissão, em consulta com um comité especial por si designado, a aprovar as alterações em nome da Comunidade, quando o acordo prever que essas alterações devem ser adoptadas pelo Grupo Misto de Acompanhamento; que essa autorização se deve limitar à alteração dos anexos do acordo, na medida em que essas alterações dizem respeito a substâncias já abrangidas pela legislação comunitária sobre precursores e substâncias químicas,
+
+DECIDE:
+
+###### Artigo 1º
+
+É aprovado, em nome da Comunidade, o Acordo entre a Comunidade Europeia e a República do Chile sobre precursores e substâncias químicas frequentemente utilizados no fabrico ilícito de estupefacientes e substâncias psicotrópicas.
+
+O texto do acordo acompanha a presente decisão.
+
+###### Artigo 2º
+
+O Presidente do Conselho fica autorizado a designar a pessoa com poderes para assinar o acordo.
+
+###### Artigo 3º
+
+O Presidente do Conselho procederá, em nome da Comunidade, à troca do instrumento previsto no artigo 12º do acordo (1).
+
+###### Artigo 4º
+
+1. A Comunidade é representada no Grupo Misto de Acompanhamento previsto no artigo 9º do acordo pela Comissão assistida pelos representantes dos Estados-membros.
+
+2. A Comissão fica autorizada a aprovar, em nome da Comunidade, as alterações dos anexos do acordo que serão adoptadas pelo Grupo Misto de Acompanhamento, de acordo com o procedimento previsto no artigo 10º do acordo.
+
+A Comissão será assistida nessa tarefa por um comité especial designado pelo Conselho que será encarregado de definir uma posição comum.
+
+3. A autorização referida no nº 2 está limitada às substâncias já abrangidas pela legislação comunitária pertinente em matéria de precursores e de substâncias químicas.
+
+###### Artigo 5º
+
+A presente decisão é publicada no Jornal Oficial das Comunidades Europeias.
+
+Feito em Bruxelas, em 3 de Novembro de 1998.
+
+Pelo Conselho
+
+O Presidente
+
+B. PRAMMER
+
+(1) A data de entrada em vigor do acordo será publicada pelo Secretariado-Geral do Conselho no Jornal Oficial das Comunidades Europeias.

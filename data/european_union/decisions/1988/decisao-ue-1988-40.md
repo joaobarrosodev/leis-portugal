@@ -1,0 +1,208 @@
+---
+schema_version: '1.0'
+id: eu:celex:31988D0040:por
+title: '88/40/CEE: Decisão da Comissão de 23 de Novembro de 1987'
+short_title: null
+summary: '88/40/CEE: Decisão da Comissão de 23 de Novembro de 1987 relativa à resolução de um diferendo entre a República
+  Federal da Alemanha e o Grão-Ducado do Luxemburgo respeitante à autorização de um serviço regular de transporte em autocarro
+  (Apenas fazem fé os textos nas línguas alemã e francesa)'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1988/40
+official_date: null
+publication_date: '1988-01-28'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 23 de 28.1.1988
+  number: '23'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/3a29e181-fcee-443e-ad9d-defa5ba8f666.0009.02/DOC_1
+entry_into_force_dates:
+- '1987-12-25'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31988D0040
+  eli: http://data.europa.eu/eli/dec/1988/40/oj
+  oj: oj:JOL_1988_023_R_0023_029
+  dre: null
+  dre_path: null
+  internal: eu:celex:31988D0040:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31988D0040
+  metadata_url: http://publications.europa.eu/resource/cellar/3a29e181-fcee-443e-ad9d-defa5ba8f666.0009
+  content_url: http://publications.europa.eu/resource/cellar/3a29e181-fcee-443e-ad9d-defa5ba8f666.0009.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:13:58Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-22T21:02:44.326+02:00'
+integrity:
+  source_sha256: 3eecb62fac593c214a47e8f5ae7dc65f91dcc30950469b3e3e08266ef77e5ee3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:13:58Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Alemanha
+- Luxemburgo
+- acordo empresarial
+- autocarro
+- rede de estradas
+- transporte de passageiros
+relationships:
+- type: based_on
+  target: celex:31972R0517
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5834da2b-6569-45b9-a61e-5e86d1dd1a5c
+  date: '1972-03-20'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:13:58Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# 88/40/CEE: Decisão da Comissão de 23 de Novembro de 1987
+
+**88/40/CEE: Decisão da Comissão de 23 de Novembro de 1987 relativa à resolução de um diferendo entre a República Federal da Alemanha e o Grão-Ducado do Luxemburgo respeitante à autorização de um serviço regular de transporte em autocarro (Apenas fazem fé os textos nas línguas alemã e francesa)** *Jornal Oficial nº L 023 de 28/01/1988 p. 0023 - 0025*
+
+*****
+
+DECISÃO DA COMISSÃO
+
+de 23 de Novembro de 1987
+
+relativa à resolução de um diferendo entre a República Federal da Alemanha e o Grão-Ducado do Luxemburgo respeitante à autorização de um serviço regular de transporte em autocarro
+
+(Apenas fazem fé os textos nas línguas alemã e francesa)
+
+(88/40/CEE)
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Económica Europeia,
+
+Tendo em conta o Regulamento (CEE) nº 517/72 do Conselho, de 28 de Fevereiro de 1972, relativo à introdução de regras comuns para os serviços regulares especializados em autocarro entre os Estados-membros (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 1301/78 (2), a seguir denominado « o regulamento », e, nomeadamente, o seu artigo 14º,
+
+I
+
+Considerando que a empresa Deutsche Touring GmbH, de Francoforte, a seguir denominada « Touring », efectua, desde 1965, um serviço regular de transporte em autocarro entre Dusseldórfia e o Luxemburgo, destinado a passageiros que cheguem ou partam do aeroporto do Luxemburgo; após a entrada em vigor do regulamento, as autoridades competentes da República Federal da Alemanha e do Grão-Ducado do Luxemburgo autorizaram este serviço como serviço regular especializado limitado a passageiros portadores de um bilhete de avião da companhia Lux-Avia. Esta autorização produzia efeitos até 8 de Junho de 1986. Na sequência das negociações realizadas entre a Touring e a Fédération Luxembourgeoise des exploitants d'autobus et d'autocars, foi cedida à empresa Voyages Emile Weber Sarl, Canach, a exploração dos serviços em questão;
+
+Considerando que em 20 de Fevereiro de 1986, a « Touring » apresentou junto do Ministério do Urbanismo, Habitação e Transportes da Renânia do Norte-Vestefália, um pedido de renovação da autorização, cuja validade terminava em 8 de Junho de 1986. Em conformidade com o artigo 16ºA do regulamento, foi concedida à « Touring » uma autorização provisória até 7 de Setembro de 1986. No entanto, em 14 de Agosto de 1986, o « Regierungspraesident » de Dusseldórfia, autoridade competente para a concessão de autorizações, rejeitou o pedido de renovação destes serviços;
+
+Considerando que em 1 de Dezembro de 1986, o Ministro Federal dos Transportes pediu ao Ministro dos Transportes Luxemburguês que aprovasse a rejeição das autoridades alemãs. O Ministro dos Transportes Luxemburguês recusou esta proposta numa carta de 21 de Janeiro de 1987 dirigida ao Ministro competente da Renânia do Norte-Vestefália e solicitou um reexame da decisão negativa tomada pelo « Regierungspraesident » de Dusseldórfia. Em carta de 9 de Março de 1987, dirigida ao Ministro Federal dos Transportes, o Ministro dos Transportes Luxemburguês confirmou esta posição e sublinhou o seu grande empenhamento na continuação da exploração destes serviços;
+
+Considerando que em 11 de Março de 1987, a própria empresa Weber apresentou um pedido de autorização para estes serviços junto do Ministro dos Transportes Luxemburguês. Este ministério concedeu, em Março de 1987, uma autorização provisória com a validade de 3 meses; esta autorização foi prolongada até 9 de Setembro de 1987, antes de terminar o seu prazo de validade;
+
+Considerando que o Ministro competente do Estado Federado da Renânia do Norte-Vestefália confirmou, por seu lado, em carta de 22 de Maio de 1987, dirigida ao Ministro dos Transportes Luxemburguês, a rejeição da autorização;
+
+Considerando que face à impossibilidade de ambos os governos chegarem a um acordo sobre a nova autorização dos serviços em causa, o Governo Luxemburguês submeteu, em 1 de Junho de 1987, o diferendo à Comissão, em conformidade com o artigo 14º do regulamento, solicitando uma decisão positiva para o pedido da empresa Weber;
+
+Considerando que o Governo alemão apresentou à Comissão, em 1 de Julho de 1987, um pedido idêntico, solicitando uma decisão sobre o diferendo e, no caso de uma decisão positiva, a concessão de uma autorização a favor da « Touring ». A « Touring », segundo o Governo alemão, estaria disposta, por seu lado, a ceder também futuramente à empresa Weber, até à data empresa concessionária, a exploração destes serviços. A « Touring » confirmou, por seu lado, em carta de 7 de Julho de 1987 dirigida ao Ministro Federal dos Transportes, a sua disposição de proceder desse modo;
+
+Considerando que os Estados interessados foram consultados sobre estes dois pedidos numa reunião realizada em 3 de Julho de 1987 em Bruxelas, junto da Comissão da CEE;
+
+II
+
+Considerando que as autoridades alemãs apresentam as seguintes considerações como justificação para a sua atitude negativa:
+
+A autorização é incompatível com os interesses da colectividade no domínio dos transportes. O artigo 8º do regulamento deve ser interpretado como uma disposição a favor dos caminhos de ferro que constituem a coluna vertebral dos transportes de passageiros em todos os Estados europeus. Por conseguinte, as receitas dos caminhos de ferro terão que ser protegidas contra a concorrência dos serviços regulares privados. Assim, os interesses económicos que tais empresas poderiam prosseguir com a criação de novos serviços de transporte têm de passar para segundo plano. Também, neste caso, as medidas tomadas a nível estatal estão subordinadas ao bem-estar da colectividade e ao interesse público prioritário em manter um sistema de transportes eficiente.
+
+A criação de um serviço regular de transporte rodoviário é, neste caso, só aparentemente, uma oferta mais favorável. O preço da viagem está incluído no preço do voo. Em relação à duração total da viagem, a duração do transporte por via férrea é perfeitamente aceitável para os passageiros aéreos. Além disso, os transportes ferroviários garantem, mesmo no caso de voos com horários irregulares, a possibilidade de continuação da viagem através de correspondência.
+
+Em geral, pode-se considerar que a ligação ferroviária entre Dusseldórfia e Luxemburgo, com 10 comboios diários em cada sentido e um percurso com a duração de 3 h 30 m a 4 horas, dá resposta, de forma satisfatória, tanto quantitativa como qualitativamente, às necessidades de transporte em questão;
+
+Considerando que o Governo luxemburguês apresenta, nomeadamente, as seguintes considerações, como justificação para a sua atitude:
+
+O serviço regular de transporte em causa já existe há mais de 20 anos; durante este período, este serviço nunca foi alvo de qualquer objecção.
+
+Os passageiros que utilizam este serviço são exclusivamente passageiros da companhia Lux-Avia, cujo bilhete inclui o transporte de ligação. A transferência destes serviços de transporte para a via férrea é inaceitável para os passageiros devido:
+
+- ao incómodo que representam várias mudanças de meio de transporte e de veículo, com bagagens volumosas,
+
+- à maior duração do percurso por via férrea comparado com o trajecto por via rodoviária,
+
+- à inexistência de ligações imediatas no caso de aviões com horários irregulares,
+
+- à necessidade de transportar ou recolher passageiros de aviões que são frequentemente obrigados a desviar a sua rota para Bruxelas;
+
+III
+
+Considerando que os pedidos de ambos os governos são admissíveis em conformidade com os artigos 14º e 13º do regulamento. O seu fundamento deve ser analisado com base nos nºs 1 e 2, alínea a), do artigo 8º do regulamento;
+
+Considerando que em conformidade com os considerandos do regulamento, o objectivo destas disposições consiste em garantir o bom funcionamento dos serviços de transporte com custos mínimos para a colectividade; para este efeito, importa, por um lado, adaptar a oferta às necessidades específicas de transporte nas ligações de tráfego a servir e, por outro, pôr em prática uma coordenação eficaz dos serviços de transporte de passageiros nas regiões em causa;
+
+Considerando que no entanto, o conceito da coordenação de serviços de transporte com o objectivo de satisfazer as necessidades específicas de transporte com custos mínimos e adequação à procura existente deve ser aplicado a esta situação concreta à luz da política de transportes da Comunidade e tendo em conta as estruturas dos seus mercados de transporte. Deste modo, numa interpretação em conformidade com este objectivo, o disposto no artigo 8º do regulamento não é de considerar como uma concessão de protecção e de prioridade absolutas a favor dos transportes ferroviários. Embora os transportes por via férrea sejam, no que respeita ao transporte de passageiros, indispensáveis para as economias nacionais da Comunidade, não podem reinvindicar um monopólio nestes mercados;
+
+Considerando por conseguinte, as considerações apresentadas pelo « Regierungspraesident » de Dusseldórfia, como principal justificação para a sua decisão, não podem ser aceites neste caso;
+
+Considerando que a decisão sobre um caso individual só pode ser tomada tendo em conta as suas particularidades concretas. Tal não exclui que se tome em consideração o interesse público em matéria de transportes, obrigando, no entanto, a um exame à luz dos interesses específicos dos utentes dos serviços de transporte em causa e das outras empresas de transporte;
+
+Considerando que a análise das necessidades de transporte actuais e previsíveis a que o serviço de transporte, objecto do pedido de autorização, pretende dar resposta, indica que o serviço de transporte directo em autocarro entre Dusseldórfia e Luxemburgo, através da região do Eifel, apresenta vantagens significativas para os utentes em relação ao percurso por via férrea que obriga a um desvio por Trier e Koblenz. A ligação por autocarro garante neste caso a nível qualitativo:
+
+- uma ligação directa entre o aeroporto do Luxemburgo e a estação central de Dusseldórfia, sem necessidade de transbordo dos passageiros (como é o caso nos transportes ferroviários) e da respectiva bagagem,
+
+- percursos mais rápidos;
+
+Considerando que face a estas considerações, um eventual maior conforto do transporte por via férrea (maior espaço, vagão-restaurante) não pode ser decisivo. O serviço em autocarro oferece, também, uma importante vantagem a nível quantitativo, dado que assegura uma correspondência, após a viagem aérea, sem quaisquer complicações suplementares, mesmo no caso de um desvio para Bruxelas; Considerando que ao ponderar todos os factores relevantes nesta comparação, verifica-se, por conseguinte, que os transportes rodoviários asseguram, globalmente, o melhor serviço. No presente caso, tal facto reveste-se ainda de maior importância, dado que se trata de um serviço regular especializado destinado a uma clientela limitada e com exigências especiais;
+
+Considerando que além disso, este serviço foi explorado durante mais de 20 anos sem quaisquer problemas, não parece evidente que a situação do mercado de transportes e a sua avaliação do ponto de vista técnico tenham sofrido transformações de molde a justificar agora a recusa de uma autorização com base em novos factos ou conhecimentos. O interesse revelado por ambas as empresas no sentido de continuarem a oferecer e explorar estes serviços através de investimentos, não suscitando quaisquer objecções e em conformidade com a autorização, abona a favor da concessão da autorização para os serviços de transporte em causa. Este interesse por parte das empresas corresponde, aliás, a uma procura incontestável e ainda hoje existente por parte dos utentes interessados;
+
+Considerando que tendo em conta o exposto, verifica-se que o transporte em autocarro, a que o pedido se refere, assegura um melhor serviço e que os transportes ferroviários concorrentes não oferecem serviços equivalentes capazes de satisfazer as necessidades específicas do mercado de transportes em causa,
+
+ADOPTOU A PRESENTE DECISÃO:
+
+###### Artigo 1º
+
+As autoridades competentes da República Federal da Alemanha deverão conceder, de acordo com os pedidos apresentados, à empresa Deutsche Touring GmbH, de Francoforte, uma autorização para a criação e exploração de um serviço regular especializado em autocarro entre Dusseldórfia e o Luxemburgo através da empresa concessionária Voyages Emile Weber Sarl, Canach (Luxemburgo).
+
+###### Artigo 2º
+
+A República Federal da Alemanha e o Grão-Ducado do Luxemburgo são destinatários da presente decisão.
+
+A presente decisão produz efeitos após um prazo de 30 dias, a contar da sua notificação aos Estados-membros interessados, desde que a questão não tenha sido submetida ao Conselho por um destes Estados-membros, antes do termo desse prazo.
+
+Feito em Bruxelas, em 23 de Novembro de 1987.
+
+Pela Comissão
+
+Stanley CLINTON DAVIS
+
+Membro da Comissão
+
+(1) JO nº L 67 de 20. 3. 1972, p. 19.
+
+(2) JO nº L 158 de 16. 6. 1978, p. 1.

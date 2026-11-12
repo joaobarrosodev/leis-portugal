@@ -1,0 +1,185 @@
+---
+schema_version: '1.0'
+id: eu:celex:32025D0467:por
+title: Decisão de Execução (UE) 2025/467 da Comissão, de 12 de março de 2025
+short_title: null
+summary: Decisão de Execução (UE) 2025/467 da Comissão, de 12 de março de 2025, que aceita um pedido da Suécia, nos termos
+  da Diretiva (UE) 2016/797 do Parlamento Europeu e do Conselho, de não aplicação do Regulamento de Execução (UE) 2023/1695
+  no que diz respeito à instalação de equipamento ETCS a bordo de seis veículos do tipo 1144 [notificada com o número C(2025)
+  1484]
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão de Execução
+issuing_authority:
+- Comissão Europeia
+- MOVE
+proposing_entity: null
+official_number: 2025/467
+official_date: null
+publication_date: '2025-03-13'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L, 2025/467, 13.3.2025
+  number: '467'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/58e96d9d-ffae-11ef-9503-01aa75ed71a1.0020.01/DOC_1
+entry_into_force_dates:
+- '2025-03-12'
+end_of_validity_date: '2028-07-01'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32025D0467
+  eli: http://data.europa.eu/eli/dec_impl/2025/467/oj
+  oj: oj:L_202500467
+  dre: null
+  dre_path: null
+  internal: eu:celex:32025D0467:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32025D0467
+  metadata_url: http://publications.europa.eu/resource/cellar/58e96d9d-ffae-11ef-9503-01aa75ed71a1.0020
+  content_url: http://publications.europa.eu/resource/cellar/58e96d9d-ffae-11ef-9503-01aa75ed71a1.0020.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:27:49Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-03-13T03:11:45.667+01:00'
+integrity:
+  source_sha256: d653dd909977cc1a046fae1f1c18f8ea2396ecb03f04453bf22563e26ff37cf8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:27:49Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Suécia
+- controlo da circulação
+- derrogação ao direito da UE
+- especificação técnica
+- interligação entre sistemas
+- norma de segurança
+- rede ferroviária
+- rede transeuropeia
+- segurança ferroviária
+- veículo sobre carris
+relationships:
+- type: based_on
+  target: celex:32016L0797
+  label: null
+  source: http://publications.europa.eu/resource/cellar/eaefba25-22d0-11e6-86d0-01aa75ed71a1
+  date: '2016-05-26'
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:27:49Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DE EXECUÇÃO (UE) 2025/467 DA COMISSÃO
+
+de 12 de março de 2025
+
+que aceita um pedido da Suécia, nos termos da Diretiva (UE) 2016/797 do Parlamento Europeu e do Conselho, de não aplicação do Regulamento de Execução (UE) 2023/1695 no que diz respeito à instalação de equipamento ETCS a bordo de seis veículos do tipo 1144
+
+*[notificada com o número C(2025) 1484]*
+
+(Apenas faz fé o texto em língua sueca)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta a Diretiva (UE) 2016/797 do Parlamento Europeu e do Conselho, de 11 de maio de 2016, relativa à interoperabilidade do sistema ferroviário na União Europeia [([^1])](http://publications.europa.eu/resource/cellar/58e96d9d-ffae-11ef-9503-01aa75ed71a1.0020.03/DOC_1#ntr1-L_202500467PT.000101-E0001), nomeadamente o artigo 7.º, n.º 4,
+
+Considerando o seguinte:
+
+(1) Em 14 de março de 2024, a Suécia apresentou à Comissão um pedido de não aplicação temporária do ponto 7.4.2.2 do anexo I do Regulamento de Execução (UE) 2023/1695 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/58e96d9d-ffae-11ef-9503-01aa75ed71a1.0020.03/DOC_1#ntr2-L_202500467PT.000101-E0002) a seis veículos ÖBB 1144 existentes, adquiridos pela Grenland Rail («veículos em causa»). Esses veículos não dispõem de equipamento ETCS (sistema europeu de controlo dos comboios) instalado a bordo.
+
+(2) O pedido da Suécia foi apresentado com base no artigo 7.º, n.º 1, alínea c), da Diretiva (UE) 2016/797 e foi justificado pela falta de viabilidade económica para a colocação no mercado de veículos apenas depois de estes estarem equipados com o ETCS, tal como exigido no ponto 7.4.2.2 do Regulamento de Execução (UE) 2023/1695.
+
+(3) Em conformidade com o anexo I, ponto 7.4.2.2, do Regulamento de Execução (UE) 2023/1695, qualquer veículo existente, deve estar equipado e pronto para funcionar com o ETCS (sistema de proteção dos comboios de classe A) previamente à instalação de um novo sistema de proteção dos comboios de classe B num subsistema de controlo-comando e sinalização de bordo.
+
+(4) A locomotiva do tipo 1144 é uma locomotiva universal de 4 eixos construída para a Österreichische Bundesbahnen (ÖBB, caminhos de ferro estatais austríacos). A atual área de utilização deste tipo de locomotiva é o território austríaco. A procura deste tipo de locomotiva é elevada na Suécia. A Grenland Rail adquiriu estes veículos e tenciona utilizá-los na Suécia e na Noruega.
+
+(5) Menos de 5 % da rede ferroviária sueca está atualmente equipada com o ETCS de via. O sistema nacional ATC2 de classe B continua a ser necessário para a exploração na rede sueca. Os veículos em causa seriam explorados nas partes da rede sueca que não dispõem do ETCS instalado, independentemente de disporem ou não do sistema sueco de proteção de comboios ATC2 implantado na via. De acordo com o plano nacional de implementação do ERTMS sueco, essas partes da rede não estarão equipadas com o ETCS antes de 2030.
+
+(6) Segundo a Suécia, o tempo necessário para a modernização dos veículos em causa com o sistema ATC2 de classe B, incluindo a autorização de todos os veículos em causa, é 30 meses inferior ao tempo necessário para a sua modernização com o ETCS. O tempo de espera prolongado decorrente da modernização dos veículos em causa com o ETCS e da sua subsequente autorização privaria assim a Grenland Rail das receitas provenientes da utilização desses veículos e tornaria a sua aquisição pela Grenland Rail inviável.
+
+(7) O atraso na disponibilidade operacional dos veículos em causa reduziria igualmente a oferta de serviços de transporte de mercadorias num momento de crescimento da procura desses serviços. Não apoiaria o objetivo político da União e da Suécia de aumentar a quota modal do transporte ferroviário de mercadorias.
+
+(8) Até serem modernizados com o ETCS, os veículos em causa funcionarão utilizando o sistema de classe B da rede sueca, uma vez que é o único sistema de sinalização disponível previamente à implantação do ERTMS (Sistema Europeu de Gestão do Tráfego Ferroviário).
+
+(9) As locomotivas referidas no pedido já estão identificadas com números de referência. As autoridades suecas devem notificar toda e qualquer alteração do número dos veículos em causa.
+
+(10) A Suécia comprometeu-se a elaborar um plano de instalação para modernizar os veículos em causa com o ETCS de bordo, pelo menos na versão 2.1 do sistema. De acordo com os calendários mais recentes fornecidos, a modernização das seis locomotivas para a versão de base 3 do ETCS deverá estar concluída até 1 de julho de 2028. Segundo a Suécia, a instalação do sistema ATC2 irá pré-configurar a instalação do ETCS, facilitando a instalação deste último. A Suécia confirma que os veículos em causa já estão equipados com o GSM-R (Sistema Global de Comunicações Móveis — Caminhos de Ferro), conforme necessário para a rede sueca.
+
+(11) A Suécia está já a preparar-se para a futura necessidade de equipar os veículos em causa com o FRMCS (futuro sistema de comunicações móveis ferroviárias) para substituir o GSM-R, com base no calendário estimado da introdução do FRMCS no domínio da utilização desses veículos na Suécia e na Noruega e tendo em conta o ciclo de vida do veículo.
+
+(12) Com base na justificação do pedido apresentado pela Suécia e nas disposições alternativas propostas, estão preenchidas as condições estabelecidas no artigo 7.º, n.º 1, alínea c), e no artigo 7.º, n.º 4, da Diretiva (UE) 2016/797, no que diz respeito aos veículos em causa. Por conseguinte, o pedido apresentado pela Suécia de não aplicação do ponto 7.4.2.2 do anexo I do Regulamento de Execução (UE) 2023/1695 a esses veículos até 1 de julho de 2028 deve, por conseguinte, ser aceite.
+
+(13) A fim de garantir o desenvolvimento atempado do projeto, a Suécia deverá informar a Comissão, até 31 de dezembro de cada ano, sobre o planeamento e os progressos na reconversão dos veículos em causa.
+
+(14) Qualquer prorrogação da não aplicação da especificação técnica de interoperabilidade em causa para além de 1 de julho de 2028 exigiria uma nova análise económica e uma nova avaliação da Comissão.
+
+(15) As medidas previstas na presente decisão estão em conformidade com o parecer do comité referido no artigo 51.º, n.º 1, da Diretiva (UE) 2016/797,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+O pedido apresentado pela Suécia de não aplicação temporária do ponto 7.4.2.2 do anexo I do Regulamento de Execução (UE) 2023/1695 aos seis veículos ÖBB 1144 identificados com os números 9181 1144 003-1, 9181 1144 010-6, 9181 1144 018-9, 9181 1144 019-7, 9181 1144 020-5 e 9181 1144 024-7 é aceite.
+
+###### Artigo 2.º
+
+A Suécia informa a Comissão, até 31 de dezembro de cada ano, do planeamento e dos progressos realizados na modernização dos seis veículos referidos no artigo 1.º. A Suécia deve igualmente notificar à Comissão qualquer alteração dos números de referência desses veículos.
+
+###### Artigo 3.º
+
+Se for emitida uma autorização de veículo para um dos seis veículos referidos em conformidade com a presente decisão, essa autorização de veículo não será válida até 1 de julho de 2028.
+
+###### Artigo 4.º
+
+O destinatário da presente decisão é o Reino da Suécia.
+
+É aplicável até 1 de julho de 2028.
+
+Feito em Bruxelas, em 12 de março de 2025.
+
+***Pela Comissão***
+
+**Apostolos TZITZIKOSTAS**
+
+***Membro da Comissão***
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/58e96d9d-ffae-11ef-9503-01aa75ed71a1.0020.03/DOC_1#ntc1-L_202500467PT.000101-E0001) [JO L 138 de 26.5.2016, p. 44](http://publications.europa.eu/resource/oj/JOL_2016_138_R_TOC), ELI: [http://data.europa.eu/eli/dir/2016/797/oj](http://data.europa.eu/eli/dir/2016/797/oj).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/58e96d9d-ffae-11ef-9503-01aa75ed71a1.0020.03/DOC_1#ntc2-L_202500467PT.000101-E0002) Regulamento de Execução (UE) 2023/1695 da Comissão, de 10 de agosto de 2023, relativo à especificação técnica de interoperabilidade para os subsistemas de controlo-comando e sinalização do sistema ferroviário da União Europeia e que revoga o Regulamento (UE) 2016/919 ([JO L 222 de 8.9.2023, p. 380](http://publications.europa.eu/resource/oj/JOL_2023_222_R_TOC), ELI: [http://data.europa.eu/eli/reg_impl/2023/1695/oj](http://data.europa.eu/eli/reg_impl/2023/1695/oj)).

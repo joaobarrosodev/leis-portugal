@@ -1,0 +1,172 @@
+---
+schema_version: '1.0'
+id: eu:celex:32021D0737:por
+title: Decisão de Execução (UE) 2021/737 da Comissão de 4 de maio de 2021
+short_title: null
+summary: Decisão de Execução (UE) 2021/737 da Comissão de 4 de maio de 2021 relativa à prorrogação da ação empreendida pelo
+  Ministério Federal austríaco da Ação Climática, Ambiente, Energia, Mobilidade, Inovação e Tecnologia para autorizar a disponibilização
+  no mercado e a utilização do produto biocida Biobor JF em conformidade com o artigo 55.o, n.o 1, do Regulamento (UE) n.o
+  528/2012 do Parlamento Europeu e do Conselho [notificada com o número C(2021) 3015] (Apenas faz fé o texto em língua alemã)
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão de Execução
+issuing_authority:
+- Comissão Europeia
+- SANTE
+proposing_entity: null
+official_number: 2021/737
+official_date: null
+publication_date: '2021-05-06'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 159 de 6.5.2021
+  number: '159'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/80ceb35d-ae3d-11eb-9767-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2020-12-23'
+- '2021-05-05'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32021D0737
+  eli: http://data.europa.eu/eli/dec_impl/2021/737/oj
+  oj: oj:JOL_2021_159_R_0002
+  dre: null
+  dre_path: null
+  internal: eu:celex:32021D0737:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32021D0737
+  metadata_url: http://publications.europa.eu/resource/cellar/80ceb35d-ae3d-11eb-9767-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/80ceb35d-ae3d-11eb-9767-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:13:15Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-11-05T15:26:19.705+01:00'
+integrity:
+  source_sha256: c97bc8bfaecba8322beeef5ce4660193a589b3477c1842fab6f8c65234ca2e74
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:13:15Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- armazenagem
+- autorização de venda
+- avião
+- biocida
+- carburante para aviões
+- conservante
+- produto químico
+- Áustria
+relationships:
+- type: based_on
+  target: celex:32012R0528
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fa07f386-c733-11e1-b84a-01aa75ed71a1
+  date: '2012-05-22'
+- type: cites
+  target: celex:32014R1062
+  label: null
+  source: http://publications.europa.eu/resource/cellar/266b7ea4-5042-11e4-a0cb-01aa75ed71a1
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:13:15Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DE EXECUÇÃO (UE) 2021/737 DA COMISSÃO
+
+de 4 de maio de 2021
+
+relativa à prorrogação da ação empreendida pelo Ministério Federal austríaco da Ação Climática, Ambiente, Energia, Mobilidade, Inovação e Tecnologia para autorizar a disponibilização no mercado e a utilização do produto biocida Biobor JF em conformidade com o artigo 55.º, n.º 1, do Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho
+
+*[notificada com o número C(2021) 3015]*
+
+(Apenas faz fé o texto em língua alemã)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho, de 22 de maio de 2012, relativo à disponibilização no mercado e à utilização de produtos biocidas [([^1])](http://publications.europa.eu/resource/cellar/80ceb35d-ae3d-11eb-9767-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2021159PT.01000501-E0001), nomeadamente o artigo 55.º, n.º 1, terceiro parágrafo,
+
+Considerando o seguinte:
+
+(1) Em 24 de junho de 2020, o Ministério Federal austríaco da Ação Climática, Ambiente, Energia, Mobilidade, Inovação e Tecnologia («autoridade competente») adotou uma decisão, em conformidade com o artigo 55.º, n.º 1, primeiro parágrafo, do Regulamento (UE) n.º 528/2012, com vista a autorizar a disponibilização no mercado e a utilização do produto biocida Biobor JF para tratamento antimicrobiano dos tanques de combustível e sistemas de combustível das aeronaves até 22 de dezembro de 2020 («ação»). Em conformidade com o artigo 55.º, n.º 1, segundo parágrafo, do referido regulamento, a autoridade competente informou a Comissão e as autoridades competentes dos outros Estados-Membros sobre a ação, fundamentando-a.
+
+(2) Segundo as informações fornecidas pela autoridade competente, a ação era necessária para proteger a saúde pública. A contaminação microbiológica dos tanques de combustível e dos sistemas de combustível das aeronaves pode causar avarias nos motores das aeronaves e comprometer a sua navegabilidade, pondo assim em perigo a segurança dos passageiros e da tripulação. A pandemia de COVID-19 e as consequentes restrições de voo conduziram ao estacionamento temporário de numerosas aeronaves. A imobilização das aeronaves é um fator agravante da contaminação microbiológica.
+
+(3) O Biobor JF contém 2,2’-(1-metiltrimetilenodioxi)bis-(4-metil-1,3,2-dioxaborinano) (número CAS 2665-13-6) e 2,2’-oxibis(4,4,6-trimetil-1,3,2-dioxaborinano) (número CAS 14697-50-8), substâncias ativas para utilização em produtos biocidas do tipo 6, conservantes para produtos durante o armazenamento, conforme definido no anexo V do Regulamento (UE) n.º 528/2012. Uma vez que não estão enumeradas no anexo II do Regulamento Delegado (UE) n.º 1062/2014 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/80ceb35d-ae3d-11eb-9767-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2021159PT.01000501-E0002), essas substâncias ativas não estão incluídas no programa de trabalho para o exame sistemático de todas as substâncias ativas existentes contidas nos produtos biocidas referido no Regulamento (UE) n.º 528/2012. Por conseguinte, o artigo 89.º do referido regulamento não lhes é aplicável e têm de ser avaliadas e aprovadas antes de os produtos biocidas que as contenham poderem também ser autorizados a nível nacional.
+
+(4) Em 7 de dezembro de 2020, a Comissão recebeu um pedido fundamentado da autoridade competente para prorrogar a ação em conformidade com o artigo 55.º, n.º 1, terceiro parágrafo, do Regulamento (UE) n.º 528/2012. O pedido fundamentado foi apresentado com base na preocupação de que a segurança do transporte aéreo possa continuar a ser comprometida devido à contaminação microbiológica dos tanques de combustível e dos sistemas de combustível das aeronaves após 22 de dezembro de 2020 e na alegação de que o Biobor JF é essencial para controlar essa contaminação microbiológica.
+
+(5) De acordo com as informações fornecidas pela autoridade competente, o Biobor JF é o único produto disponível para o tratamento da contaminação microbiológica. O único produto biocida alternativo recomendado pelos fabricantes de aeronaves e de motores para essa utilização (Kathon™ FP 1.5) já não está disponível no mercado.
+
+(6) Tal como indicado pela autoridade competente, o tratamento mecânico dos tanques de combustível e dos sistemas de combustível só é possível de forma limitada e, de acordo com as especificações do fabricante, tem frequentemente de ser acompanhado da adição de um produto biocida após a limpeza do tanque. O tratamento mecânico dos tanques pode demorar mais de 200 horas/pessoa, dependendo do tipo de aeronave, o que significa um período de indisponibilidade da aeronave de vários dias para efetuar a manutenção.
+
+(7) Além disso, no tratamento mecânico os mecânicos das aeronaves têm de trabalhar em tanques estanques com numerosas precauções de segurança, sendo este trabalho extremamente exigente do ponto de vista físico e mental e devendo ser reduzido ao mínimo.
+
+(8) De acordo com as informações de que dispõe a Comissão, o fabricante do Biobor JF tomou medidas para autorizar o produto pelo procedimento normal, prevendo-se que seja apresentado no futuro próximo um pedido de aprovação das substâncias ativas que o produto contém. A aprovação das substâncias ativas e a autorização subsequente do produto biocida constituiria uma solução permanente para o futuro, mas a conclusão desses procedimentos demoraria bastante tempo.
+
+(9) A falta de controlo da contaminação microbiológica dos tanques de combustível e dos sistemas de combustível das aeronaves pode pôr em perigo a segurança do transporte aéreo e esse perigo não pode ser controlado adequadamente através da utilização de outro produto biocida ou por outros meios. Por conseguinte, é adequado permitir que a autoridade competente prorrogue a ação.
+
+(10) Considerando que a ação expirou em 22 de dezembro de 2020, a presente decisão deve ter efeitos retroativos.
+
+(11) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente dos Produtos Biocidas,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+O Ministério Federal austríaco da Ação Climática, Ambiente, Energia, Mobilidade, Inovação e Tecnologia pode prorrogar a ação até 26 de junho de 2022, com vista a autorizar a disponibilização no mercado e a utilização do produto biocida Biobor JF para tratamento antimicrobiano de tanques de combustível e sistemas de combustível de aeronaves.
+
+###### Artigo 2.º
+
+O destinatário da presente decisão é o Ministério Federal austríaco da Ação Climática, Ambiente, Energia, Mobilidade, Inovação e Tecnologia.
+
+A presente decisão é aplicável a partir de 23 de dezembro de 2020.
+
+Feito em Bruxelas, em 4 de maio de 2021.
+
+***Pela Comissão***
+
+**Stella KYRIAKIDES**
+
+***Membro da Comissão***
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/80ceb35d-ae3d-11eb-9767-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2021159PT.01000501-E0001) [JO L 167 de 27.6.2012, p. 1](http://publications.europa.eu/resource/oj/JOL_2012_167_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/80ceb35d-ae3d-11eb-9767-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2021159PT.01000501-E0002) Regulamento Delegado (UE) n.º 1062/2014 da Comissão, de 4 de agosto de 2014, relativo ao programa de trabalho para o exame sistemático de todas as substâncias ativas existentes em produtos biocidas, referidas no Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho ([JO L 294 de 10.10.2014, p. 1](http://publications.europa.eu/resource/oj/JOL_2014_294_R_TOC)).

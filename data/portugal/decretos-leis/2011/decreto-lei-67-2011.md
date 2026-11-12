@@ -23,12 +23,13 @@ publication:
   supplement: null
   pages: 3032 - 3041
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/10700/0303203041.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-06-07'
 entry_into_force:
-  date: null
-  rule: no 1.º dia útil do mês seguinte ao da sua publicação
-  method: clausula
-  article: art-18
+  date: '2011-06-07'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
   effects_date: null
   effects_rule: null
   end_date: null

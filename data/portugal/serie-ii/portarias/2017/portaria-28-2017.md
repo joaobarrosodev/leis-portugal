@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 1941 - 1941
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/019000000/0194101941.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-27'
+entry_into_force:
+  date: '2017-01-27'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: n-3
+  effects_date: '2017-01-16'
+  effects_rule: desde 16 de janeiro de 2017
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []

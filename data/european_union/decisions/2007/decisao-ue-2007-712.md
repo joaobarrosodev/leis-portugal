@@ -1,0 +1,177 @@
+---
+schema_version: '1.0'
+id: eu:celex:32007D0712:por
+title: '2007/712/CE: Decisão do Conselho, de 15 de Outubro de 2007'
+short_title: null
+summary: '2007/712/CE: Decisão do Conselho, de 15 de Outubro de 2007 , relativa à assinatura, em nome da Comunidade Europeia,
+  da Convenção relativa à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2007/712
+official_date: null
+publication_date: '2007-12-21'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 339 de 21.12.2007
+  number: '339'
+  series: null
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/6d85dfd9-9193-42a0-8c89-e097914d8a6d.0019.01/DOC_1
+entry_into_force_dates:
+- '2007-10-15'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32007D0712
+  eli: http://data.europa.eu/eli/dec/2007/712/oj
+  oj: null
+  dre: null
+  dre_path: null
+  internal: eu:celex:32007D0712:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32007D0712
+  metadata_url: http://publications.europa.eu/resource/cellar/6d85dfd9-9193-42a0-8c89-e097914d8a6d.0019
+  content_url: http://publications.europa.eu/resource/cellar/6d85dfd9-9193-42a0-8c89-e097914d8a6d.0019.02/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:36:20Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-12-09T13:28:53.163+01:00'
+integrity:
+  source_sha256: 0f5b109a7e7e54909c5aff3af3de11f7f306384ed59775d2ebe02209e61e0461
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:36:20Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- assinatura de acordo
+- competência jurisdicional
+- convenção internacional
+- direito civil
+- direito comercial
+- execução de sentença
+relationships:
+- type: based_on
+  target: celex:12006E061
+  label: null
+  source: http://publications.europa.eu/resource/cellar/51de01b7-98b8-45d5-a0a6-0af165154662
+  date: '2007-01-31'
+- type: based_on
+  target: celex:12006E300
+  label: null
+  source: http://publications.europa.eu/resource/cellar/57661ed1-dc85-4091-bbe1-29f0872a0574
+  date: '2007-01-31'
+- type: cites
+  target: celex:32001R0044
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ad56097c-16e0-450c-b517-8185ede09af1
+- type: cites
+  target: celex:41968A0927(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/54eaf9d4-846a-4b5b-9efc-9917429c03d0
+- type: cites
+  target: celex:41988A0592
+  label: null
+  source: http://publications.europa.eu/resource/cellar/613b0d5e-aa07-4dc2-b231-c0a065906c2b
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:36:20Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DO CONSELHO
+
+de 15 de Outubro de 2007
+
+relativa à assinatura, em nome da Comunidade Europeia, da Convenção relativa à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial
+
+(2007/712/CE)
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente a alínea c) do artigo 61.º, em conjugação com o primeiro parágrafo do n.º 2 do artigo 300.º,
+
+Tendo em conta a proposta da Comissão,
+
+Considerando o seguinte:
+
+(1) Em 16 de Setembro de 1988, os Estados-Membros das Comunidades Europeias assinaram um acordo internacional com a República da Islândia, o Reino da Noruega e a Confederação Suíça relativo à competência judiciária e à execução de decisões em matéria civil e comercial [([^1])](http://publications.europa.eu/resource/cellar/6d85dfd9-9193-42a0-8c89-e097914d8a6d.0019.02/DOC_1#ntr1-L_2007339PT.01000101-E0001) («Convenção de Lugano»), alargando assim à Islândia, à Noruega e à Suíça a aplicação das disposições da Convenção de 27 de Setembro de 1968 sobre a mesma matéria [([^2])](http://publications.europa.eu/resource/cellar/6d85dfd9-9193-42a0-8c89-e097914d8a6d.0019.02/DOC_1#ntr2-L_2007339PT.01000101-E0002) («Convenção de Bruxelas»).
+
+(2) As negociações tendo em vista a revisão da Convenção de Bruxelas e da Convenção de Lugano foram realizadas em 1998 e 1999 no âmbito de um grupo de trabalho *ad hoc* alargado à Suíça, à Noruega e à Islândia. Estas negociações culminaram na adopção de um texto de projecto de convenção preparado pelo grupo de trabalho, que foi confirmado pelo Conselho na reunião de 27 e 28 de Maio de 1999.
+
+(3) Subsequentes negociações no Conselho realizadas com base nesse texto conduziram à aprovação do Regulamento (CE) do Conselho n.º 44/2001, de 22 de Dezembro de 2007, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial [([^3])](http://publications.europa.eu/resource/cellar/6d85dfd9-9193-42a0-8c89-e097914d8a6d.0019.02/DOC_1#ntr3-L_2007339PT.01000101-E0003), que modernizou as disposições da Convenção de Bruxelas e tornou mais rápido e eficaz o sistema de reconhecimento e de execução.
+
+(4) À luz do paralelismo que existe entre os regimes da Convenção de Bruxelas e da Convenção de Lugano relativamente à competência judiciária e ao reconhecimento e à execução de decisões em matéria civil e comercial, as disposições da Convenção de Lugano devem ser alinhadas com as disposições do Regulamento (CE) n.º 44/2001, por forma a atingir o mesmo grau de circulação de decisões judiciais entre os Estados da União Europeia e os Estados da EFTA em causa.
+
+(5) Nos termos do Protocolo relativo à posição da Dinamarca, anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, a Dinamarca não participa na aplicação de medidas abrangidas pelo título IV do Tratado que institui a Comunidade Europeia. Para que as disposições da Convenção de Lugano lhe sejam aplicáveis, a Dinamarca deve por conseguinte participar na qualidade de parte contratante numa nova convenção sobre a mesma matéria.
+
+(6) Por decisão de 27 de Setembro 2002, o Conselho autorizou a Comissão a encetar negociações tendo em vista a adopção de uma nova Convenção de Lugano, relativa à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial.
+
+(7) A Comissão negociou a referida convenção, em nome da Comunidade, com a Islândia, a Noruega, a Suíça e a Dinamarca.
+
+(8) Nos termos do artigo 3.º do Protocolo sobre a posição do Reino Unido e da Irlanda, anexo ao Tratado da União Europeia e ao Tratado da que institui a Comunidade Europeia, o Reino Unido e a Irlanda participam na adopção e aplicação da presente decisão.
+
+(9) A Dinamarca, nos termos dos artigos 1.º e 2.º do Protocolo relativo à posição da Dinamarca, não participa na adopção da presente decisão, não ficando por ela vinculada nem sujeita à sua aplicação.
+
+(10) A convenção, rubricada em Bruxelas em 28 de Março de 2007, deve ser assinada,
+
+DECIDE:
+
+###### Artigo 1.º
+
+A assinatura da Convenção relativa à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial, que irá substituir a Convenção de Lugano de 16 de Setembro de 1988, é por este meio aprovada em nome da Comunidade sob reserva da conclusão da referida convenção.
+
+O texto da convenção é anexado à presente decisão.
+
+###### Artigo 2.º
+
+O presidente do Conselho é autorizado a designar a(s) pessoa(s) habilitada(s) a assinar, em nome da Comunidade, a Convenção relativa à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial.
+
+Feito no Luxemburgo, em 15 de Outubro de 2007.
+
+***Pelo Conselho***
+
+***O Presidente***
+
+**L. AMADO**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/6d85dfd9-9193-42a0-8c89-e097914d8a6d.0019.02/DOC_1#ntc1-L_2007339PT.01000101-E0001) Convenção relativa à competência judiciária e à execução de decisões em matéria civil e comercial ([JO L 319 de 25.11.1988, p. 9](http://publications.europa.eu/resource/oj/JOL_1988_319_R_TOC)).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/6d85dfd9-9193-42a0-8c89-e097914d8a6d.0019.02/DOC_1#ntc2-L_2007339PT.01000101-E0002) Convenção de Bruxelas relativa à competência judiciária e à execução de decisões em matéria civil e comercial ([JO L 299 de 31.12.1972, p. 32](http://publications.europa.eu/resource/oj/JOL_1972_299_R_TOC)) (versão consolidada no [JO C 27 de 26.1.1998, p. 1](http://publications.europa.eu/resource/oj/JOC_1998_027_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/6d85dfd9-9193-42a0-8c89-e097914d8a6d.0019.02/DOC_1#ntc3-L_2007339PT.01000101-E0003) [JO L 12 de 16.1.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_012_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1791/2006 ([JO L 363 de 20.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_363_R_TOC)).

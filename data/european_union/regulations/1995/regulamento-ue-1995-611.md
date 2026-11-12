@@ -1,0 +1,206 @@
+---
+schema_version: '1.0'
+id: eu:celex:31995R0611:por
+title: Regulamento (CE) nº 611/95 da Comissão, de 21 de Março de 1995
+short_title: null
+summary: Regulamento (CE) nº 611/95 da Comissão, de 21 de Março de 1995, relativo à venda, por concurso, de carne de bovino
+  detida por determinados organismos de intervenção e que revoga o Regulamento (CE) nº 2785/94
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1995/611
+official_date: null
+publication_date: '1995-03-22'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 64 de 22.3.1995
+  number: '64'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/09bdd5d2-0c8a-406f-92f4-855a0a2b36eb.0011.02/DOC_1
+entry_into_force_dates:
+- '1995-03-22'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31995R0611
+  eli: http://data.europa.eu/eli/reg/1995/611/oj
+  oj: oj:JOL_1995_064_R_0003_010
+  dre: null
+  dre_path: null
+  internal: eu:celex:31995R0611:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31995R0611
+  metadata_url: http://publications.europa.eu/resource/cellar/09bdd5d2-0c8a-406f-92f4-855a0a2b36eb.0011
+  content_url: http://publications.europa.eu/resource/cellar/09bdd5d2-0c8a-406f-92f4-855a0a2b36eb.0011.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:19:37Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-05T04:16:02.614+02:00'
+integrity:
+  source_sha256: 05c975c244bf5489845b78d146f83b04d2be48e78ecbd2d070b10233db82ad7d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:19:37Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Irlanda
+- Itália
+- Reino Unido
+- adjudicação por contrato
+- carne de vaca
+- organismo de intervenção
+relationships:
+- type: based_on
+  target: celex:31968R0805
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2aa83e99-b89a-4a0e-84d9-4f7a63c4f2c5
+  date: '1968-06-28'
+- type: repeals
+  target: celex:31994R2785
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5e28a955-baac-40c2-8d2e-237965114947
+  date: '1994-11-17'
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:19:37Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CE) nº 611/95 da Comissão, de 21 de Março de 1995
+
+**Regulamento (CE) nº 611/95 da Comissão, de 21 de Março de 1995, relativo à venda, por concurso, de carne de bovino detida por determinados organismos de intervenção e que revoga o Regulamento (CE) nº 2785/94** *Jornal Oficial nº L 064 de 22/03/1995 p. 0003 - 0006*
+
+REGULAMENTO (CE) Nº 611/95 DA COMISSÃO de 21 de Março de 1995 relativo à venda, por concurso, de carne de bovino detida por determinados organismos de intervenção e que revoga o Regulamento (CE) nº 2785/94
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CEE) nº 805/68 do Conselho, de 27 de Junho de 1968, relativo à organização comum de mercado no sector da carne de bovino (1), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 424/95 (2), e, nomeadamente, o nº 3 do seu artigo 7º,
+
+Considerando que a aplicação das medidas de intervenção ao sector da carne de bovino levou à criação de importantes existências em vários Estados-membros; que, para evitar uma prolongação excessiva da armazenagem, é conveniente colocar uma parte dessas existências à venda por concurso;
+
+Considerando que a venda deve-se realizar nos termos do disposto no Regulamento (CEE) nº 2173/79 da Comissão (3), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 1759/93 (4), prevendo-se determinadas disposições derrogatórias que são necessárias;
+
+Considerando que, para garantir um procedimento regular e uniforme, devem ser tomadas outras medidas para além das dispostas no nº 1 do artigo 8º do Regulamento (CEE) nº 2173/79; que estas medidas devem ser aplicáveis o mais rapidamente possível;
+
+Considerando que se afigura adequado prever derrogações às disposições do nº 2, alínea b), do artigo 8º do Regulamento (CEE) nº 2173/79, atendendo às dificuldades administrativas que a aplicação desta alínea suscita nos Estados-membros em causa;
+
+Considerando que o Regulamento (CE) nº 2785/94 da Comissão (5) deve ser revogado;
+
+Considerando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de gestão da carne de bovino,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1º
+
+1. Serão postas à venda por concurso:
+
+- aproximadamente 6 toneladas de carne de bovino com osso detida pelo organismo de intervenção italiano e comprada após 1 de Janeiro de 1992,
+
+- aproximadamente 802 toneladas de carne de bovino desossada detida pelo organismo de intervenção irlandês, e comprada após 1 de Janeiro de 1992,
+
+- aproximadamente 410 toneladas de carne de bovino desossada detida pelo organismo de intervenção italiano, e comprada após 1 de Janeiro de 1992,
+
+- aproximadamente 800 toneladas de carne de bovino desossada detida pelo organismo de intervenção do Reino Unido, e comprada após 1 de Janeiro de 1992.
+
+Uma informação detalhada referente às quantidades é dada no anexo I.
+
+2. Os produtos referidos no nº 1 serão vendidos em conformidade com o Regulamento (CEE) nº 2173/79 e, nomeadamente, os seus artigos 6º a 12º, e o presente regulamento.
+
+###### Artigo 2º
+
+1. O prazo para a apresentação das propostas, que devem ser expressas em ecus, termina às 12 horas do dia 28 de Março de 1995. Os organismos de intervenção em causa elaborarão um anúncio de concurso que inclua as seguintes indicações:
+
+a) As quantidades de carne de bovino postas à venda, e
+
+b) O prazo e o local para a apresentação das propostas.
+
+2. Os organismos de intervenção em causa venderão em primeiro lugar a carne armazenada há mais tempo.
+
+3. Em derrogação dos artigos 6º e 7º do Regulamento (CEE) nº 2173/79, as disposições e os anexos do presente regulamento servem de anúncio geral de concurso.
+
+4. As partes interessadas podem obter informações acerca das quantidades disponíveis e dos locais em que estão armazenados os produtos junto dos endereços que constam do anexo II do presente regulamento. Os organismos de intervenção afixarão, além disso, os anúncios referidos no nº 1 nas suas sedes e podem proceder a publicações complementares.
+
+5. Em derrogação do nº 1 do artigo 8º do Regulamento (CEE) nº 2173/79, as propostas devem ser apresentadas ao organismo de intervenção em causa em sobrescrito fechado, que ostente a referência ao regulamento em questão. O sobrescrito fechado não será aberto pelo organismo de intervenção antes do termo do prazo para apresentação de propostas referido no nº 1.
+
+6. Em derrogação do nº 2, alínea b), do artigo 8º do Regulamento (CEE) nº 2173/79, as propostas não devem indicar em que entreposto ou entrepostos frigoríficos os produtos estão armazenados.
+
+###### Artigo 3º
+
+Após terem sido examinadas as propostas recebidas na sequência do anúncio do concurso, é fixado um preço mínimo de venda para cada produto, ou a venda não se realizará.
+
+###### Artigo 4º
+
+Em derrogação do nº 1 do artigo 15º do Regulamento (CEE) nº 2173/79, o montante da garantia será de 120 ecus por tonelada.
+
+###### Artigo 5º
+
+É revogado o Regulamento (CE) nº 2785/94.
+
+###### Artigo 6º
+
+O presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.
+
+Feito em Bruxelas, em 21 de Março de 1995.
+
+Pela Comissão
+
+Franz FISCHLER
+
+Membro da Comissão
+
+(1) JO nº L 148 de 28. 6. 1968, p. 24.
+
+(2) JO nº L 45 de 1. 3. 1995, p. 2.
+
+(3) JO nº L 251 de 5. 10. 1979, p. 12.
+
+(4) JO nº L 161 de 2. 7. 1993, p. 59.
+
+(5) JO nº L 296 de 17. 11. 1994, p. 15.
+
+ANEXO I - BILAG I - ANHANG I - ÐÁÑÁÑÔÇÌÁ É - ANNEX I - ANNEXE I - ALLEGATO I - BIJLAGE I - ANEXO I - LIITE I - BILAGA I
+
+>POSIÇÃO NUMA TABELA>
+
+ANEXO II - BILAG II - ANHANG II - ÐÁÑÁÑÔÇÌÁ II - ANNEX II - ANNEXE II - ALLEGATO II - BIJLAGE II - ANEXO II - LIITE II - BILAGA II
+
+Direcciones de los organismos de intervención - Interventionsorganernes adresser - Anschriften der Interventionsstellen - Äéåõèýíóåéò ôùí ïñãáíéóìþí ðáñåìâÜóåùò - Addresses of the intervention agencies - Adresses des organismes d'intervention - Indirizzi degli organismi d'intervento - Adressen van de interventiebureaus - Endereços dos organismos de intervenção - Interventioelinten osoitteet - Interventionsorganens adresser
+
+>POSIÇÃO NUMA TABELA>

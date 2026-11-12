@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16322-(2) a 16322-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2014/06/118000001/0000200002.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-06-24'
+entry_into_force:
+  date: '2014-06-24'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-2
+  effects_date: '2014-02-04'
+  effects_rule: desde 4 de fevereiro de 2014
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: eu:celex:32021D0778:por
+title: Decisão (UE) 2021/778 do Conselho de 6 de maio de 2021
+short_title: null
+summary: Decisão (UE) 2021/778 do Conselho de 6 de maio de 2021 relativa à posição a adotar em nome da União Europeia durante
+  a 103.a sessão do Comité de Segurança Marítima da Organização Marítima Internacional e a 76.a sessão do Comité de Proteção
+  do Meio Marinho da Organização Marítima Internacional, sobre a adoção de alterações à Convenção Internacional sobre Normas
+  de Formação, Certificação e Serviço de Quartos para os Marítimos, ao Código Internacional sobre o programa reforçado de
+  inspeções durante as vistorias a navios graneleiros e petroleiros, ao Código Internacional dos Sistemas de Segurança contra
+  Incêndios e à Convenção Internacional relativa ao Controlo de Sistemas Antivegetativos Nocivos em Navios
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2021/778
+official_date: null
+publication_date: '2021-05-12'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 167 de 12.5.2021
+  number: '167'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/072d5646-b31c-11eb-8aca-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2021-05-06'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32021D0778
+  eli: http://data.europa.eu/eli/dec/2021/778/oj
+  oj: oj:JOL_2021_167_R_0005
+  dre: null
+  dre_path: null
+  internal: eu:celex:32021D0778:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32021D0778
+  metadata_url: http://publications.europa.eu/resource/cellar/072d5646-b31c-11eb-8aca-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/072d5646-b31c-11eb-8aca-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:13:18Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-11-05T23:19:40.118+01:00'
+integrity:
+  source_sha256: f0a49d14f1fc0acbbd1777ba2aaf0dd1314bf75884c8bdf64f3c43e76e77b906
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:13:18Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Organização Marítima Internacional
+- barco
+- biocida
+- convenção internacional
+- formação profissional
+- prevenção de incêndios
+- qualificação profissional
+- regulamentação técnica
+- revisão de um acordo
+- segurança marítima
+- tripulação
+relationships:
+- type: based_on
+  target: celex:12016E100
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a0b28970-773b-4ed1-b8bc-abdb8c91d37a
+  date: '2016-06-09'
+- type: based_on
+  target: celex:12016E218
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7f071a2a-f5d1-4aed-b36a-34aeb32d6e41
+  date: '2016-06-09'
+- type: cites
+  target: celex:32008L0106
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1f8aa5f5-787b-4d09-a210-b9ef90bc4ca3
+- type: cites
+  target: celex:32009L0045
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c5559968-a934-48c9-8294-48c69b1c9274
+- type: cites
+  target: celex:32012R0528
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fa07f386-c733-11e1-b84a-01aa75ed71a1
+- type: cites
+  target: celex:32012R0530
+  label: null
+  source: http://publications.europa.eu/resource/cellar/068c2d29-c59e-11e1-b84a-01aa75ed71a1
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:13:18Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO (UE) 2021/778 DO CONSELHO
+
+de 6 de maio de 2021
+
+relativa à posição a adotar em nome da União Europeia durante a 103.ª sessão do Comité de Segurança Marítima da Organização Marítima Internacional e a 76.ª sessão do Comité de Proteção do Meio Marinho da Organização Marítima Internacional, sobre a adoção de alterações à Convenção Internacional sobre Normas de Formação, Certificação e Serviço de Quartos para os Marítimos, ao Código Internacional sobre o programa reforçado de inspeções durante as vistorias a navios graneleiros e petroleiros, ao Código Internacional dos Sistemas de Segurança contra Incêndios e à Convenção Internacional relativa ao Controlo de Sistemas Antivegetativos Nocivos em Navios
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 100.º, n.º 2, em conjugação com o artigo 218.º, n.º 9,
+
+Tendo em conta a proposta da Comissão Europeia,
+
+Considerando o seguinte:
+
+(1) A ação da União no setor do transporte marítimo deverá ter por objetivo o reforço da segurança marítima e a proteção do meio marinho e da saúde humana.
+
+(2) O Comité de Segurança Marítima da Organização Marítima Internacional («OMI»), durante a sua 103.ª sessão («CSM 103») de 5 a 14 de maio de 2021, deverá adotar alterações à Convenção Internacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos, 1978 («Convenção STCW»), ao Código Internacional para o programa reforçado de inspeções no âmbito das vistorias a graneleiros e petroleiros, 2011 («Código ESP 2011») e ao Código Internacional dos Sistemas de Proteção contra Incêndios («Código FSS»).
+
+(3) O Comité de Proteção do Meio Marinho da OMI, durante a sua 76.ª sessão («CPMM 76») de 10 a 17 de junho de 2021, deverá adotar alterações à Convenção Internacional relativa ao Controlo de Sistemas Antivegetativos Nocivos em Navios, 2001 («Convenção AFS»).
+
+(4) As alterações à parte A do Código STCW da Convenção STCW clarificariam o nível operacional das funções de «oficial eletrotécnico» e introduziriam uma definição comum do termo «alta tensão». Essas alterações têm como objetivo clarificar as funções das pessoas que trabalham a bordo, proporcionando assim uma maior clareza das diferentes responsabilidades e tarefas.
+
+(5) As alterações ao anexo 2, parte A, do anexo B do Código ESP 2011 permitiriam que os inspetores se concentrassem em áreas suspeitas de medição da espessura dos petroleiros de casco duplo. Essas alterações têm como objetivo aumentar a segurança no mar e reduzem o risco de derrames em caso de acidente.
+
+(6) As alterações ao capítulo 9 do Código FSS abrangeriam sistemas que combinem o reforço da segurança dos detetores de incêndio individualmente identificáveis necessários para os navios de passageiros com o isolamento de avarias identificável por secção, que é menos complexo e menos oneroso, e aceitável apenas para os navios de carga e as varandas de camarote dos navios de passageiros. Essas alterações levam a uma melhor proteção das pessoas a bordo em caso de incêndio.
+
+(7) É conveniente definir a posição a adotar em nome da União durante a CSM 103, uma vez que as alterações à Convenção STCW, ao Código ESP 2011 e ao Código FSS serão suscetíveis de influenciar de forma determinante o conteúdo do direito da União, nomeadamente a Diretiva 2008/106/CE do Parlamento Europeu e do Conselho [([^1])](http://publications.europa.eu/resource/cellar/072d5646-b31c-11eb-8aca-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2021167PT.01004001-E0001), o Regulamento (UE) n.º 530/2012 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/072d5646-b31c-11eb-8aca-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2021167PT.01004001-E0002) e a Diretiva 2009/45/CE do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/072d5646-b31c-11eb-8aca-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2021167PT.01004001-E0003), respetivamente.
+
+(8) As alterações aos anexos 1 e 4 da Convenção AFS assegurariam uma proibição a nível mundial da substância antivegetativa cibutrina, cujos comercialização e uso já se encontram proibidos na União.
+
+(9) É conveniente estabelecer a posição a adotar em nome da União na CPMM 76, uma vez que as alterações aos anexos 1 e 4 da Convenção AFS são suscetíveis de influenciar decisivamente o conteúdo da legislação da União, a saber, o Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/072d5646-b31c-11eb-8aca-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2021167PT.01004001-E0004).
+
+(10) A União não é membro da OMI nem parte contratante nas convenções e nos códigos aplicáveis. Por conseguinte, o Conselho deverá autorizar os Estados-Membros a exprimir a posição da União.
+
+(11) O âmbito de aplicação da presente decisão deverá limitar-se ao conteúdo das alterações propostas, na medida em que possam afetar disposições comuns da União e sejam da competência exclusiva da União. A presente decisão não deverá afetar a repartição de competências entre a União e os Estados-Membros,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+As posições a adotar em nome da União na 103.ª sessão do Comité de Segurança Marítima da Organização Marítima Internacional («OMI») consistem em concordar com a adoção de alterações:
+
+a) à Convenção Internacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos, tal como estabelecidas nos anexos 7 e 8 do documento MSC 102/24 da OMI;
+
+b) ao Código Internacional para o programa reforçado de inspeções nas vistorias a graneleiros e petroleiros, tal como estabelecidas no anexo 15 do documento MSC 102/24 da OMI; e
+
+c) ao Código Internacional dos Sistemas de Proteção Contra Incêndios, tal como estabelecido no anexo 20 do documento MSC 102/24 da OMI.
+
+###### Artigo 2.º
+
+A posição a tomar em nome da União na 76.ª sessão do Comité de Proteção do Meio Marinho da OMI consiste em concordar com a adoção das alterações à Convenção Internacional relativa ao Controlo dos Sistemas Antivegetativos Nocivos nos Navios, tal como consta do anexo 7 ao documento MEPC 75/18 da OMI.
+
+###### Artigo 3.º
+
+1. As posições a adotar em nome da União tal como definidas nos artigos 1.º e 2.º abrangem as alterações em causa, na medida em que essas alterações sejam da competência exclusiva da União e possam afetar as regras comuns da União, e devem ser expressas pelos Estados-Membros, que são todos membros da OMI, agindo conjuntamente no interesse da União.
+
+2. Podem ser acordadas pequenas alterações das posições a que se referem os artigos 1.º e 2.º sem que seja necessária uma nova decisão do Conselho.
+
+###### Artigo 4.º
+
+Os Estados-Membros ficam autorizados a expressar o seu consentimento em ficar vinculados, no interesse da União, às alterações a que se referem os artigos 1.º e 2.º, na medida em que essas alterações sejam da competência exclusiva da União.
+
+###### Artigo 5.º
+
+A presente decisão entra em vigor no dia da sua adoção.
+
+Feito em Bruxelas, em 6 de maio de 2021
+
+***Pelo Conselho***
+
+***O Presidente***
+
+**J. BORRELL FONTELLES**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/072d5646-b31c-11eb-8aca-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2021167PT.01004001-E0001) Diretiva 2008/106/CE do Parlamento Europeu e do Conselho, de 19 de novembro de 2008, relativa ao nível mínimo de formação dos marítimos ([JO L 323 de 3.12.2008, p. 33](http://publications.europa.eu/resource/oj/JOL_2008_323_R_TOC)).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/072d5646-b31c-11eb-8aca-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2021167PT.01004001-E0002) Regulamento (UE) n.º 530/2012 do Parlamento Europeu e do Conselho, de 13 de junho de 2012, relativo à introdução acelerada de requisitos de construção em casco duplo ou configuração equivalente para os navios petroleiros de casco simples ([JO L 172 de 30.6.2012, p. 3](http://publications.europa.eu/resource/oj/JOL_2012_172_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/072d5646-b31c-11eb-8aca-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2021167PT.01004001-E0003) Diretiva 2009/45/CE do Parlamento Europeu e do Conselho, de 6 de maio de 2009, relativa às regras e normas de segurança para os navios de passageiros ([JO L 163 de 25.6.2009, p. 1](http://publications.europa.eu/resource/oj/JOL_2009_163_R_TOC)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/072d5646-b31c-11eb-8aca-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2021167PT.01004001-E0004) Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho, de 22 de maio de 2012, relativo à disponibilização no mercado e à utilização de produtos biocidas ([JO L 167 de 27.6.2012, p. 1](http://publications.europa.eu/resource/oj/JOL_2012_167_R_TOC)).

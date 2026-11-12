@@ -1,0 +1,195 @@
+---
+schema_version: '1.0'
+id: eu:celex:31999D0732:por
+title: '1999/732/CE: Decisão do Conselho, de 8 de Novembro de 1999'
+short_title: null
+summary: '1999/732/CE: Decisão do Conselho, de 8 de Novembro de 1999, relativa à concessão de assistência macrofinanceira
+  suplementar à Roménia'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 1999/732
+official_date: null
+publication_date: '1999-11-16'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 294 de 16.11.1999
+  number: '294'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/b38453a8-b41f-47df-aa7f-e30d547d8eff.0009.02/DOC_1
+entry_into_force_dates:
+- '1999-11-08'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31999D0732
+  eli: http://data.europa.eu/eli/dec/1999/732/oj
+  oj: oj:JOL_1999_294_R_0029_014
+  dre: null
+  dre_path: null
+  internal: eu:celex:31999D0732:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31999D0732
+  metadata_url: http://publications.europa.eu/resource/cellar/b38453a8-b41f-47df-aa7f-e30d547d8eff.0009
+  content_url: http://publications.europa.eu/resource/cellar/b38453a8-b41f-47df-aa7f-e30d547d8eff.0009.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:24:09Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-03T08:17:01.383+02:00'
+integrity:
+  source_sha256: 456aef4510cb90dcaf00723c75b026bb5cff7efdc417e54e2e3c0858d8b6fa25
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:24:09Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Fundo Monetário Internacional
+- Roménia
+- ajuda da UE
+- ajuda financeira
+- empréstimo comunitário concedido
+- macroeconomia
+relationships:
+- type: based_on
+  target: celex:11997E308
+  label: null
+  source: http://publications.europa.eu/resource/cellar/751dcd55-2f03-46eb-9828-3d54c0699bc2
+  date: '1999-05-31'
+- type: cites
+  target: celex:21994A1231(20)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9988f56a-dde3-4e6a-ac49-f7e09fab69d2
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:24:09Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# 1999/732/CE: Decisão do Conselho, de 8 de Novembro de 1999
+
+**1999/732/CE: Decisão do Conselho, de 8 de Novembro de 1999, relativa à concessão de assistência macrofinanceira suplementar à Roménia** *Jornal Oficial nº L 294 de 16/11/1999 p. 0029 - 0030*
+
+DECISÃO DO CONSELHO
+
+de 8 de Novembro de 1999
+
+relativa à concessão de assistência macrofinanceira suplementar à Roménia
+
+(1999/732/CE)
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia, e, nomeadamente, o seu artigo 308.o,
+
+Tendo em conta a proposta da Comissão(1),
+
+Tendo em conta o parecer do Parlamento Europeu(2),
+
+Considerando o seguinte:
+
+(1) A Comissão consultou o Comité Económico e Financeiro antes de apresentar a sua proposta;
+
+(2) A Roménia está a realizar reformas económicas fundamentais e a envidar esforços significativos para estabelecer uma economia de mercado eficiente, a fim de aumentar o emprego e melhorar o nível de vida;
+
+(3) A Roménia e a União Europeia assinaram um acordo europeu que estabelece uma relação de associação(3);
+
+(4) Em Dezembro de 1997, o Conselho Europeu do Luxemburgo decidiu lançar um processo de adesão que inclui a Roménia e os outros países candidatos da Europa Central e Oriental e Chipre;
+
+(5) A Roménia chegou, com o Fundo Monetário Internacional (FMI), a um Acordo de Stand-by de apoio ao programa de ajustamento e reformas das autoridades deste país;
+
+(6) O Banco Mundial aprovou um novo empréstimo de ajustamento do sector privado, que prevê um financiamento substancial do processo de ajustamento e de investimento em apoio aos esforços de reforma da Roménia nos sectores empresarial e financeiro;
+
+(7) As autoridades da Roménia pediram assistência financeira às instituições financeiras internacionais, à Comunidade e a outros financiadores bilaterais; além dos recursos financeiros susceptíveis de serem concedidos pelo FMI e pelo Banco Mundial, subsiste uma necessidade de financiamento significativa a ser coberta durante o período de vigência do programa, a fim de reforçar as reservas do país e apoiar os objectivos de política económica subjacentes ao programa de reformas do Governo;
+
+(8) A concessão pela Comunidade de um empréstimo a longo prazo à Roménia constitui uma medida adequada para minorar as dificuldades financeiras externas do país, que apoia a sua balança de pagamentos, reforça as suas reservas e favorece a realização das reformas estruturais necessárias;
+
+(9) O empréstimo comunitário deve ser gerido pela Comissão, segundo o princípio de uma boa gestão financeira;
+
+(10) Considerando que o Tratado não prevê para a adopção da presente decisão, outros poderes para além dos previstos no artigo 308.o,
+
+DECIDE:
+
+###### Artigo 1.º
+
+1. A Comunidade concederá à Roménia um empréstimo a longo prazo cujo capital não excederá o montante máximo de 200 milhões de euros, com uma duração máxima de 10 anos, a fim de garantir uma situação sustentável da balança de pagamentos.
+
+2. Para esse efeito, a Comissão fica habilitada a obter, em nome da Comunidade Europeia, os recursos necessários que serão postos à disposição da Roménia sob a forma de um empréstimo.
+
+3. O empréstimo referido no n.o 2 será gerido pela Comissão, em estreita consulta com o Comité Económico e Financeiro e de forma coerente com quaisquer acordos concluídos entre o FMI e a Roménia.
+
+###### Artigo 2.º
+
+1. A Comissão fica habilitada a acordar com as autoridades romenas, após consulta do Comité Económico e Financeiro, as condições de política económica associadas ao empréstimo. Essas condições devem ser compatíveis com os acordos referidos no n.o 3 do artigo 1.o
+
+2. A Comissão deve verificar regularmente, em colaboração com o Comité Económico e Financeiro e em coordenação com o FMI, a conformidade da política económica da Roménia com os objectivos e as condições do presente empréstimo.
+
+###### Artigo 3.º
+
+1. O empréstimo será colocado à disposição da Roménia em, pelo menos, duas fracções. Sob reserva do disposto no artigo 2.o, a primeira fracção será disponibilizada com base na realização de progressos satisfatórios na aplicação do programa macroeconómico da Roménia no contexto do Acordo de Stand-by celebrado com o FMI.
+
+2. Sob reserva do disposto no artigo 2.o, a segunda fracção será disponibilizada com base na continuação da aplicaçâo satisfatória do programa de ajustamento e reformas da Roménia e nunca antes de um prazo de três meses a contar do desembolso da primeira fracção.
+
+3. Os fundos serão pagos ao Banco Nacional da Roménia.
+
+###### Artigo 4.º
+
+1. As operações de contracção e concessão de empréstimos a que se refere o artigo 1.o serão realizadas com a mesma data-valor e não devem implicar para a Comunidade qualquer alteração de prazos de vencimento, quaisquer riscos cambiais ou de taxa de juro nem qualquer outro risco comercial.
+
+2. Se a Roménia o pedir, a Comissão tomará as medidas necessárias para incluir nas condições do empréstimo uma cláusula de reembolso antecipado, bem como para permitir o seu exercício.
+
+3. A pedido da Roménia e sempre que as condições permitam uma redução da taxa de juro dos empréstimos, a Comissão pode proceder ao refinanciamento da totalidade ou de parte dos empréstimos iniciais ou reestruturar as respectivas condições financeiras. As operações de refinanciamento ou de reestruturação devem ser realizadas nas condições do n.o 1, não devendo ter como efeito um aumento da duração média dos correspondentes empréstimos contraídos ou o aumento do montante, expresso à taxa de câmbio vigente, do capital em dívida à data do refinanciamento ou da reestruturação.
+
+4. A Roménia custeará todas as despesas conexas da Comunidade com a conclusão e execução da operação decorrente da presente decisão.
+
+5. O Comité Económico e Financeiro deve ser informado, pelo menos uma vez por ano, sobre a evolução das operações referidas nos n.os 2 e 3.
+
+###### Artigo 5.º
+
+A Comissão apresentará ao Parlamento Europeu e ao Conselho, pelo menos uma vez por ano, em regra até 15 de Setembro, um relatório de que constará uma análise da execução da presente decisão.
+
+Feito em Bruxelas, em 8 de Novembro de 1999.
+
+Pelo Conselho
+
+O Presidente
+
+S. NIINISTÖ
+
+(1) JO C 307 E de 26.10.1999, p. 40.
+
+(2) Parecer emitido em 6 de Outubro de 1999 (ainda não publicado no Jornal Oficial).
+
+(3) JO L 357 de 31.12.1994, p. 2.

@@ -30,7 +30,7 @@ legal_status_basis:
   source: norma_revogatoria
   evidence:
   - status: repealed
-    provenance: 'norma revogatória: pt:dre:442317:por#n-3'
+    provenance: 'norma revogatória: pt:dre:442317:por#n-2'
     detail: II) [Decreto n.º 20757], de 14 de Janeiro de 1932
 notes: []
 language: por

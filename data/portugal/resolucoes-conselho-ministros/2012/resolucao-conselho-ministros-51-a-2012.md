@@ -31,9 +31,9 @@ entry_into_force:
   method: supletiva
   article: null
   effects_date: null
-  effects_rule: à data da sua aprovação e vigora por um período de 18 meses
-  end_date: null
-  end_rule: null
+  effects_rule: à data da sua aprovação e
+  end_date: '2013-12-31'
+  end_rule: até 31 de dezembro de 2013
 end_of_validity_date: null
 legal_status: in_force
 notes: []

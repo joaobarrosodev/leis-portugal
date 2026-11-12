@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: eu:celex:32021D0150:por
+title: Decisão de Execução (UE) 2021/150 da Comissão de 16 de dezembro de 2020
+short_title: null
+summary: Decisão de Execução (UE) 2021/150 da Comissão de 16 de dezembro de 2020 relativa a uma isenção a favor do aeroporto
+  de Derry da obrigação de possuir um certificado concedido pela Irlanda com base no artigo 41.o, n.o 6, do Regulamento (UE)
+  2018/1139 do Parlamento Europeu e do Conselho [notificada com o númerp C(2020) 8914] (Apenas faz fé o texto na língua inglesa)
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão de Execução
+issuing_authority:
+- Comissão Europeia
+- MOVE
+proposing_entity: null
+official_number: 2021/150
+official_date: null
+publication_date: '2021-02-09'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 45 de 9.2.2021
+  number: '45'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/dd3bb6f2-6a78-11eb-aeb5-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2020-12-17'
+- '2021-01-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32021D0150
+  eli: http://data.europa.eu/eli/dec_impl/2021/150/oj
+  oj: oj:JOL_2021_045_R_0003
+  dre: null
+  dre_path: null
+  internal: eu:celex:32021D0150:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32021D0150
+  metadata_url: http://publications.europa.eu/resource/cellar/dd3bb6f2-6a78-11eb-aeb5-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/dd3bb6f2-6a78-11eb-aeb5-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:12:55Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-10-16T02:59:02.975+02:00'
+integrity:
+  source_sha256: 2a90f8d8cb18f212a647e144a9f0fdfc7245af9329a697da83433de0cd94e0a0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:12:55Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Agência Europeia para a Segurança da Aviação
+- Irlanda
+- aeroporto
+- aviação civil
+- avião
+- derrogação ao direito da UE
+- prestação de serviços
+- segurança aérea
+- tráfego aéreo
+relationships:
+- type: based_on
+  target: celex:32018R1139
+  label: null
+  source: http://publications.europa.eu/resource/cellar/71e4e668-a5cf-11e8-99ee-01aa75ed71a1
+  date: '2018-08-22'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:12:55Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DE EXECUÇÃO (UE) 2021/150 DA COMISSÃO
+
+de 16 de dezembro de 2020
+
+relativa a uma isenção a favor do aeroporto de Derry da obrigação de possuir um certificado concedido pela Irlanda com base no artigo 41.º, n.º 6, do Regulamento (UE) 2018/1139 do Parlamento Europeu e do Conselho
+
+*[notificada com o númerp C(2020) 8914]*
+
+(Apenas faz fé o texto na língua inglesa)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) 2018/1139 do Parlamento Europeu e do Conselho, de 4 de julho de 2018, relativo a regras comuns no domínio da aviação civil, que cria a Agência da União Europeia para a Segurança da Aviação, altera os Regulamentos (CE) n.º 2111/2005, (CE) n.º 1008/2008, (UE) n.º 996/2010 e (UE) n.º 376/2014 e as Diretivas 2014/30/UE e 2014/53/UE do Parlamento Europeu e do Conselho, e revoga os Regulamentos (CE) n.º 552/2007 e (CE) n.º 216/2008 do Parlamento Europeu e do Conselho e o Regulamento (CEE) n.º 3922/91 do Conselho [([^1])](http://publications.europa.eu/resource/cellar/dd3bb6f2-6a78-11eb-aeb5-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2021045PT.01000501-E0001), nomeadamente o artigo 41.º, n.º 6, terceiro parágrafo,
+
+Após consulta do Comité para a aplicação das regras comuns de segurança no domínio da aviação civil,
+
+Considerando o seguinte:
+
+(1) O aeroporto de Derry situa-se no Reino Unido e faz parte da região escocesa de informação de voo (RIV) do Reino Unido, perto da fronteira da RIV irlandesa Shannon. As aproximações por instrumentos ao aeroporto exigem que as aeronaves entrem na RIV de Shannon antes da aterragem final. Por razões práticas, a fim de facilitar a condução segura dos procedimentos de aproximação por instrumentos no aeroporto, as autoridades da aviação irlandesas delegaram os serviços de gestão do tráfego aéreo/de navegação aérea (ATM/ANS) dessa abordagem no prestador ATM/ANS do aeroporto de Derry. Os certificados emitidos pelas autoridades competentes do Reino Unido aos prestadores de serviços de navegação aérea do Reino Unido ao abrigo do Regulamento (UE) 2018/1139 deixarão de ser válidos na União no termo do período de transição estabelecido no Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica [([^2])](http://publications.europa.eu/resource/cellar/dd3bb6f2-6a78-11eb-aeb5-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2021045PT.01000501-E0002) («Acordo de Saída»).
+
+(2) Após o termo do período de transição, os prestadores ATM/ANS do Reino Unido poderão prestar serviços na União, desde que sejam titulares de um certificado válido emitido pela Agência da União Europeia para a Segurança da Aviação («Agência») nos termos do artigo 80.º do Regulamento (UE) 2018/1139 como prestadores ATM/ANS de países terceiros.
+
+(3) Em 21 de agosto de 2019, a Irish Aviation Authority, enquanto autoridade competente irlandesa e em nome da Irlanda, notificou a sua intenção de conceder uma isenção ao aeroporto de Derry da obrigação de ser titular de um certificado de prestador ATM/ANS emitido pela Irlanda, nos termos do artigo 41.º, n.º 6, do Regulamento (UE) 2018/1139. Prevê-se que essa isenção seja aplicável no dia seguinte àquele em que termina o período de transição referido no artigo 126.º do Acordo de Saída.
+
+(4) A isenção proposta e a respetiva justificação foram avaliadas pela Agência, que, na sua recomendação de 29 de agosto de 2019, conclui que foram cumpridas todas as condições estabelecidas no artigo 41.º, n.º 6, do Regulamento (UE) 2018/1139.
+
+(5) Em especial, o estabelecimento principal do prestador está situado fora do território sob a responsabilidade da Irlanda. Além disso, as aproximações no aeroporto de Derry exigem que as aeronaves entrem num curto segmento da RIV de Shannon e, por conseguinte, seria desproporcionado solicitar a certificação do prestador ATM/ANS para um volume tão reduzido de tráfego aéreo. O prestador ATM/ANS do aeroporto de Derry é atualmente certificado pela autoridade da aviação civil do Reino Unido, em conformidade com o Regulamento (UE) 2018/1139, e foram estabelecidos acordos formais com a Irish Aviation Authority, enquanto autoridade competente para a Irlanda, no que diz respeito à supervisão e à execução, a fim de assegurar o cumprimento das regras aplicáveis, em especial os requisitos essenciais referidos no artigo 40.º do Regulamento (UE) 2018/1139. O âmbito da isenção está claramente definido e continua a limitar-se ao estritamente necessário e, na medida em que a sua duração exceder cinco anos, a isenção será objeto de uma revisão periódica a intervalos adequados, nomeadamente numa base anual, pela Irish Aviation Authority, que informará a Comissão desse facto. Por último, a isenção é aplicada de forma não discriminatória.
+
+(6) A isenção a favor do aeroporto de Derry da obrigação de possuir um certificado de prestador de serviços ATM/ANS emitido pela Irlanda preenche as condições estabelecidas no artigo 41.º, n.º 6, primeiro parágrafo, do Regulamento (UE) 2018/1139,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+A isenção a favor do aeroporto de Derry da obrigação de possuir um certificado de prestador de serviços de gestão do tráfego aéreo e de navegação aérea (ATM/ANS) emitido pela Irlanda preenche as condições estabelecidas no artigo 41.º, n.º 6, primeiro parágrafo, do Regulamento (UE) 2018/1139,
+
+###### Artigo 2.º
+
+A presente decisão é aplicável a partir do dia seguinte àquele em que o direito da União deixar de ser aplicável ao Reino Unido, nos termos dos artigos 126.º e 127.º do Acordo de Saída.
+
+A Irlanda é a destinatária da presente decisão.
+
+Feito em Bruxelas, em 16 de dezembro de 2020.
+
+***Pela Comissão***
+
+**Adina-Ioana VĂLEAN**
+
+***Membro da Comissão***
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/dd3bb6f2-6a78-11eb-aeb5-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2021045PT.01000501-E0001) [JO L 212 de 22.8.2018, p. 1](http://publications.europa.eu/resource/oj/JOL_2018_212_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/dd3bb6f2-6a78-11eb-aeb5-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2021045PT.01000501-E0002) [JO L 29 de 31.1.2020, p. 7](http://publications.europa.eu/resource/oj/JOL_2020_029_R_TOC).

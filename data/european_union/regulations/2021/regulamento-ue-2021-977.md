@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: eu:celex:32021R0977:por
+title: Regulamento de Execução (UE) 2021/977 da Comissão de 7 de junho de 2021
+short_title: null
+summary: Regulamento de Execução (UE) 2021/977 da Comissão de 7 de junho de 2021 que altera o Regulamento de Execução (UE)
+  2019/1844 a fim de fazer alterações administrativas à autorização da União concedida à família de produtos biocidas «BPF_Iodine_VET»
+  (Texto relevante para efeitos do EEE)
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento de Execução
+issuing_authority:
+- Comissão Europeia
+- SANTE
+proposing_entity: null
+official_number: 2021/977
+official_date: null
+publication_date: '2021-06-18'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 216 de 18.6.2021
+  number: '216'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/17fd14da-d013-11eb-ac72-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2021-07-08'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32021R0977
+  eli: http://data.europa.eu/eli/reg_impl/2021/977/oj
+  oj: oj:JOL_2021_216_R_0002
+  dre: null
+  dre_path: null
+  internal: eu:celex:32021R0977:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32021R0977
+  metadata_url: http://publications.europa.eu/resource/cellar/17fd14da-d013-11eb-ac72-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/17fd14da-d013-11eb-ac72-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:15:17Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-11-05T19:37:36.879+01:00'
+integrity:
+  source_sha256: b67dae7d579a033d854ae586f06b6dddbc46e171203bedccdc29531e64a277da
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:15:17Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- autorização de venda
+- descontaminação
+- iodo
+- produto químico
+- saúde animal
+- vaca leiteira
+relationships:
+- type: amends
+  target: celex:32019R1844
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cdb94736-ffac-11e9-8c1f-01aa75ed71a1
+  date: '2019-11-05'
+- type: based_on
+  target: celex:32012R0528
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fa07f386-c733-11e1-b84a-01aa75ed71a1
+  date: '2012-05-22'
+- type: cites
+  target: celex:32013R0354
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fbfeeb07-a8e9-11e2-ab01-01aa75ed71a1
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:15:17Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DE EXECUÇÃO (UE) 2021/977 DA COMISSÃO
+
+de 7 de junho de 2021
+
+que altera o Regulamento de Execução (UE) 2019/1844 a fim de fazer alterações administrativas à autorização da União concedida à família de produtos biocidas «BPF_Iodine_VET»
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho, de 22 de maio de 2012, relativo à disponibilização no mercado e à utilização de produtos biocidas [([^1])](http://publications.europa.eu/resource/cellar/17fd14da-d013-11eb-ac72-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2021216PT.01002601-E0001), nomeadamente o artigo 44.º, n.º 5, primeiro parágrafo, e o artigo 50.º, n.º 2,
+
+Considerando o seguinte:
+
+(1) Em 22 de outubro de 2019, o Regulamento de Execução (UE) 2019/1844 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/17fd14da-d013-11eb-ac72-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2021216PT.01002601-E0002) concedeu uma autorização da União, com o número de autorização EU-0020540-0000, à empresa Applied Biocide GmbH para a disponibilização no mercado e a utilização da família de produtos biocidas «BPF_Iodine_VET».
+
+(2) Em 10 de abril de 2020, a empresa Applied Biocide GmbH apresentou uma notificação à Agência Europeia dos Produtos Químicos («Agência»), em conformidade com o artigo 11.º, n.º 1, do Regulamento de Execução (UE) n.º 354/2013 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/17fd14da-d013-11eb-ac72-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2021216PT.01002601-E0003), relativa a alterações administrativas à autorização da União concedida à família de produtos biocidas «BPF_Iodine_VET», tal como descrita no título 1, secções 1 e 2, do anexo desse regulamento.
+
+(3) A empresa Applied Biocide GmbH propôs as alterações relativas aos nomes dos fabricantes dos produtos biocidas no primeiro nível de informação, em informação administrativa, as alterações relativas aos nomes de um produto no terceiro nível de informações no meta-SPC 2 e de um produto no meta-SPC 6 e o aditamento de nomes comerciais para os produtos individuais no meta-SPC 2 e no meta-SPC 5 no resumo das características do produto para a família de produtos biocidas «BPF_Iodine_VET» estabelecido no anexo do Regulamento de Execução (UE) 2019/1844. A notificação foi registada com o número de processo BC-VD058524-35 no Registo de Produtos Biocidas.
+
+(4) Em 9 de junho de 2020, a Agência apresentou à Comissão um parecer [([^4])](http://publications.europa.eu/resource/cellar/17fd14da-d013-11eb-ac72-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2021216PT.01002601-E0004) sobre as alterações propostas, em conformidade com o artigo 11.º, n.º 3, do Regulamento de Execução (UE) n.º 354/2013. O parecer conclui que as alterações à autorização existente solicitadas pelo titular da autorização são abrangidas pelo artigo 50.º, n.º 3, alínea a), do Regulamento (UE) n.º 528/2012 e que, após a aplicação das alterações, as condições do artigo 19.º do referido regulamento continuam a ser cumpridas. Na mesma data, a Agência transmitiu à Comissão a revisão do resumo das características do produto biocida em todas as línguas oficiais da União, em conformidade com o artigo 11.º, n.º 6, do Regulamento de Execução (UE) n.º 354/2013.
+
+(5) A Comissão concorda com o parecer da Agência e considera, por conseguinte, adequado alterar a autorização da União concedida à família de produtos biocidas «BPF_Iodine_VET».
+
+(6) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente dos Produtos Biocidas,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+O anexo do Regulamento de Execução (UE) 2019/1844 é substituído pelo anexo do presente regulamento.
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 7 de junho de 2021.
+
+***Pela Comissão***
+
+***A Presidente***
+
+**Ursula VON DER LEYEN**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/17fd14da-d013-11eb-ac72-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2021216PT.01002601-E0001) [JO L 167 de 27.6.2012, p. 1](http://publications.europa.eu/resource/oj/JOL_2012_167_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/17fd14da-d013-11eb-ac72-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2021216PT.01002601-E0002) Regulamento de Execução (UE) 2019/1844 da Comissão, de 22 de outubro de 2019, que concede uma autorização da União à família de produtos biocidas «BPF_Iodine_VET» ([JO L 283 de 5.11.2019, p. 1](http://publications.europa.eu/resource/oj/JOL_2019_283_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/17fd14da-d013-11eb-ac72-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2021216PT.01002601-E0003) Regulamento de Execução (UE) n.º 354/2013 da Comissão, de 18 de abril de 2013, relativo a alterações a produtos biocidas autorizados em conformidade com o Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho ([JO L 109 de 19.4.2013, p. 4](http://publications.europa.eu/resource/oj/JOL_2013_109_R_TOC)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/17fd14da-d013-11eb-ac72-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2021216PT.01002601-E0004) *ECHA opinion of 9 June 2020 on the administrative change of the Union authorisation of the biocidal product family «BPF_Iodine_VET»* (Parecer da ECHA, de 9 de junho de 2020, relativo à alteração administrativa à autorização da União concedida à família de produtos biocidas «BPF_Iodine_VET»), https://echa.europa.eu/documents/10162/22836226/opinion_for_ua-admin_changes_bc-vd058524-35_en.pdf/b95474e7-89d4-a601-8d02-b42d95cecde5.

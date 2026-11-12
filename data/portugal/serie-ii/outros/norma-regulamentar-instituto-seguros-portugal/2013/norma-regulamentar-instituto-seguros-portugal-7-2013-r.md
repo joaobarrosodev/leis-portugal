@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 33263 - 33268
   pdf_url: https://files.diariodarepublica.pt/2s/2013/11/219000000/3326333268.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-11-13'
+entry_into_force:
+  date: '2013-11-13'
+  rule: no dia seguinte ao da respetiva publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

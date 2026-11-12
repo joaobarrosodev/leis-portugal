@@ -1,0 +1,215 @@
+---
+schema_version: '1.0'
+id: eu:celex:32014R1167:por
+title: Regulamento de Execução (UE) n. ° 1167/2014 da Comissão, de 31 de outubro de 2014
+short_title: null
+summary: Regulamento de Execução (UE) n. ° 1167/2014 da Comissão, de 31 de outubro de 2014 , que altera o Regulamento de Execução
+  (UE) n. ° 413/2014 relativo à abertura e modo de gestão de contingentes pautais da União para a importação de carne de aves
+  de capoeira originária da Ucrânia
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento de Execução
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2014/1167
+official_date: null
+publication_date: '2014-10-31'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 314 de 31.10.2014
+  number: '314'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/d3cabe9d-60ee-11e4-9cbe-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2014-11-01'
+- '2014-11-02'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32014R1167
+  eli: http://data.europa.eu/eli/reg_impl/2014/1167/oj
+  oj: oj:JOL_2014_314_R_0004
+  dre: null
+  dre_path: null
+  internal: eu:celex:32014R1167:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32014R1167
+  metadata_url: http://publications.europa.eu/resource/cellar/d3cabe9d-60ee-11e4-9cbe-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/d3cabe9d-60ee-11e4-9cbe-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:54:07Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-15T20:29:06.305+02:00'
+integrity:
+  source_sha256: 7077c24d05d19c5cc6154d8fd093dd6dc6c60b0f677aeeb81db0f58513a5269b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:54:07Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Ucrânia
+- aves de capoeira
+- carne de aves de capoeira
+- contingente pautal
+- importação (UE)
+- licença de importação
+- produto originário
+- tarifa preferencial
+relationships:
+- type: amends
+  target: celex:32014R0413
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2ac252eb-cb7f-11e3-b74e-01aa75ed71a1
+  date: '2014-04-24'
+- type: based_on
+  target: celex:32013R1308
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ce1fdb47-6c04-11e3-9afb-01aa75ed71a1
+  date: '2013-12-23'
+- type: cites
+  target: celex:32006R1301
+  label: null
+  source: http://publications.europa.eu/resource/cellar/997933f8-a181-4611-beb7-ca9a099678b8
+- type: cites
+  target: celex:32014R0907
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a7c47846-2e80-11e4-8c3c-01aa75ed71a1
+- type: cites
+  target: celex:32014R1150
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c3d4cc6e-60ce-11e4-9cbe-01aa75ed71a1
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:54:07Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DE EXECUÇÃO (UE) N.º 1167/2014 DA COMISSÃO
+
+de 31 de outubro de 2014
+
+que altera o Regulamento de Execução (UE) n.º 413/2014 relativo à abertura e modo de gestão de contingentes pautais da União para a importação de carne de aves de capoeira originária da Ucrânia
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 e (CE) n.º 1234/2007 do Conselho [([^1])](http://publications.europa.eu/resource/cellar/d3cabe9d-60ee-11e4-9cbe-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2014314PT.01001701-E0001), nomeadamente o artigo 187.º, alíneas a), c) e d),
+
+Considerando o seguinte:
+
+(1) O Regulamento (UE) n.º 374/2014 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/d3cabe9d-60ee-11e4-9cbe-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2014314PT.01001701-E0002) estabelece um regime preferencial para 2014 no que diz respeito aos direitos aduaneiros para a importação de determinadas mercadorias originárias da Ucrânia. Em conformidade com o artigo 3.º desse regulamento, os produtos agrícolas constantes do seu anexo III são admitidos à importação na União dentro dos limites dos contingentes pautais indicados no mesmo anexo.
+
+(2) O Regulamento de Execução (UE) n.º 413/2014 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/d3cabe9d-60ee-11e4-9cbe-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2014314PT.01001701-E0003) estabeleceu a abertura e o modo de gestão de contingentes pautais da União para a importação de carne de aves de capoeira originária da Ucrânia até 31 de outubro de 2014.
+
+(3) O Regulamento (UE) n.º 374/2014 foi alterado pelo Regulamento (UE) n.º 1150/2014 do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/d3cabe9d-60ee-11e4-9cbe-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2014314PT.01001701-E0004). A alteração prevê essencialmente a prorrogação da aplicação do Regulamento (UE) n.º 374/2014 até 31 de dezembro de 2015 e a fixação das quantidades dos contingentes para 2015. Importa, pois, alterar o Regulamento de Execução (UE) n.º 413/2014.
+
+(4) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité para a Organização Comum dos Mercados Agrícolas,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º — Alteração do Regulamento de Execução (UE) n.º 413/2014
+
+O Regulamento de Execução (UE) n.º 413/2014 é alterado do seguinte modo:
+
+1) O artigo 2.º passa a ter a seguinte redação: «Artigo 2.º Períodos de contingentamento pautal da importação 1. Os contingentes pautais de importação referidos no artigo 1.º, n.º 1, estão abertos de 25 de abril a 31 de dezembro de 2014 e de 1 de janeiro a 31 de dezembro de 2015. 2. A quantidade estabelecida para o contingente pautal anual de importação relativo a 2015 para cada número de ordem estabelecido no anexo I é dividida por quatro subperíodos, conforme a seguir indicado: a) 25 % de 1 de janeiro a 31 de março; b) 25 % de 1 de abril a 30 de junho; c) 25 % de 1 de julho a 30 de setembro; d) 25 % de 1 de outubro e 31 de dezembro.».
+
+a) 25 % de 1 de janeiro a 31 de março;
+
+b) 25 % de 1 de abril a 30 de junho;
+
+c) 25 % de 1 de julho a 30 de setembro;
+
+d) 25 % de 1 de outubro e 31 de dezembro.»
+
+2) O artigo 3.º é alterado do seguinte modo: a) O título passa a ter a seguinte redação: «Pedidos de direitos de importação para o período de contingentamento de 2014»; b) No n.º 8, a data «31 de outubro de 2014» é substituída por «31 de dezembro de 2014».
+
+a) O título passa a ter a seguinte redação: «Pedidos de direitos de importação para o período de contingentamento de 2014»;
+
+b) No n.º 8, a data «31 de outubro de 2014» é substituída por «31 de dezembro de 2014».
+
+3) É inserido o seguinte artigo 3.º-A: «Artigo 3.º-A Pedidos de direitos de importação para o período de contingentamento de 2015 1. Os pedidos de direitos de importação devem ser apresentados nos primeiros sete dias do mês que precede cada um dos subperíodos referidos no artigo 2.º, n.º 2. 2. Aquando da apresentação de um pedido de direitos de importação, deve ser constituída uma garantia de 35 EUR por 100 quilogramas. 3. Os requerentes de direitos de importação devem, aquando da apresentação do seu primeiro pedido para um determinado ano de contingentamento, apresentar prova de que importaram, ou de que foi importada em seu nome, uma determinada quantidade de produtos de aves de capoeira dos códigos NC 0207, 0210 99 39, 1602 31, 1602 32 ou 1602 39 21, no respeito das disposições aduaneiras pertinentes, durante o período de 12 meses imediatamente precedente ao seu primeiro pedido (a seguir denominada “quantidade de referência”). As empresas resultantes da concentração de empresas que haviam, individualmente, importado uma quantidade de referência podem combinar essas quantidades como base do seu pedido. 4. A quantidade total abrangida pelos pedidos de direitos de importação apresentados no subperíodo de contingentamento pautal da importação não deve exceder 25 % da quantidade de referência do requerente. Os pedidos não conformes com esta regra devem ser rejeitados pelas autoridades competentes. 5. Os Estados-Membros devem notificar a Comissão, até ao décimo quarto dia do mês em que os pedidos são apresentados, das quantidades totais, mesmo nulas, de todos os pedidos, expressas em quilogramas de peso do produto e discriminadas por número de ordem. 6. Os direitos de importação são atribuídos a partir do vigésimo terceiro dia do mês em que os pedidos são apresentados e, o mais tardar, no último dia desse mês. 7. Se a aplicação do coeficiente de atribuição referido no artigo 7.º, n.º 2, do Regulamento (CE) n.º 1301/2006 der origem a direitos de importação a atribuir inferiores aos direitos de importação requeridos, será imediatamente liberada uma parte proporcional da garantia constituída em conformidade com o n.º 2. 8. Os direitos de importação são válidos desde o primeiro dia do subperíodo para o qual o pedido foi apresentado até 31 de dezembro de 2015. Os direitos de importação não são transmissíveis.».
+
+4) O artigo 4.º é alterado do seguinte modo: a) O título passa a ter a seguinte redação: «Emissão dos certificados de importação para o período de contingentamento de 2014»; b) No n.º 9, a data «31 de outubro de 2014» é substituída por «31 de dezembro de 2014».
+
+a) O título passa a ter a seguinte redação: «Emissão dos certificados de importação para o período de contingentamento de 2014»;
+
+b) No n.º 9, a data «31 de outubro de 2014» é substituída por «31 de dezembro de 2014».
+
+5) É inserido o seguinte artigo 4.º-A: «Artigo 4.º-A Emissão dos certificados de importação para o período de contingentamento de 2015 1. A introdução em livre prática das quantidades atribuídas no âmbito dos contingentes pautais de importação referidos no artigo 1.º, n.º 1, está sujeita à apresentação de um certificado de importação. Os pedidos de certificados de importação devem incidir na quantidade total de direitos de importação atribuída. A obrigação referida no artigo 23.º, n.º 1, do Regulamento Delegado (UE) n.º 907/2014 da Comissão[([^*1])](http://publications.europa.eu/resource/cellar/d3cabe9d-60ee-11e4-9cbe-01aa75ed71a1.0018.03/DOC_1#ntr*1-L_2014314PT.01001701-E0005) deve ser cumprida. 2. Os pedidos de certificados devem ser apresentados apenas no Estado-Membro em que o requerente tenha apresentado o pedido de direitos de importação e estes tenham sido obtidos, a título dos contingentes referidos no artigo 1.º, n.º 1. 3. Aquando da apresentação do pedido de certificado de importação, deve ser constituída pelo operador uma garantia de 75 EUR por 100 quilogramas. A emissão do certificado de importação implica uma redução correspondente dos direitos de importação obtidos, sendo imediatamente liberada uma parte proporcional da garantia constituída para os direitos de importação. 4. Os certificados de importação são emitidos mediante pedido e em nome do operador que tiver obtido os direitos de importação. 5. Os pedidos de certificados só podem mencionar um número de ordem. Podem dizer respeito a vários produtos de diferentes códigos NC. Nesse caso, todos os códigos NC e as suas designações devem ser inscritos, respetivamente, nas casas 15 e 16 do pedido de certificado e do certificado. 6. Dos pedidos de certificado e dos certificados de importação devem constar: a) Na casa 8, “Ucrânia” como país de origem e a casa “Sim” assinalada com uma cruz; b) Na casa 20, uma das menções constantes do anexo II. 7. Cada certificado deve mencionar a quantidade correspondente a cada código NC. 8. Em conformidade com o artigo 22.º, n.º 2, do Regulamento (CE) n.º 376/2008, os certificados de importação são eficazes por trinta dias a contar da data da sua emissão efetiva. O período de eficácia dos certificados de importação termina, no entanto, em 31 de dezembro de 2015, o mais tardar. [(^*1^)](http://publications.europa.eu/resource/cellar/d3cabe9d-60ee-11e4-9cbe-01aa75ed71a1.0018.03/DOC_1#ntc*1-L_2014314PT.01001701-E0005) Regulamento Delegado (UE) n.º 907/2014 da Comissão, de 11 de março de 2014, que completa o Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho no que se refere aos organismos pagadores e outros organismos, à gestão financeira, ao apuramento das contas, às garantias e à utilização do euro ([JO L 255 de 28.8.2014, p. 18](http://publications.europa.eu/resource/oj/JOL_2014_255_R_TOC)).» ".
+
+a) Na casa 8, “Ucrânia” como país de origem e a casa “Sim” assinalada com uma cruz;
+
+b) Na casa 20, uma das menções constantes do anexo II.
+
+6) O artigo 5.º passa a ter a seguinte redação: «Artigo 5.º Notificações à Comissão para o período de contingentamento de 2014 1. Em derrogação do artigo 11.º, n.º 1, segundo parágrafo, do Regulamento (CE) n.º 1301/2006, os Estados-Membros devem notificar à Comissão: a) Até 10 de janeiro de 2015, as quantidades de produtos, mesmo nulas, para as quais tenham sido emitidos certificados de importação durante o período de contingentamento de 2014; b) Até 30 de abril de 2015, as quantidades de produtos, mesmo nulas, constantes dos certificados de importação não utilizados ou utilizados parcialmente, correspondentes à diferença entre as quantidades indicadas no verso dos certificados de importação e as quantidades para as quais estes foram emitidos. 2. Até 30 de abril de 2015, os Estados-Membros devem notificar à Comissão as quantidades de produtos efetivamente introduzidas em livre prática durante o período de contingentamento de 2014. 3. No caso das notificações referidas nos n.^os^ 1 e 2, as quantidades devem ser expressas em quilogramas e discriminadas por número de ordem.»
+
+a) Até 10 de janeiro de 2015, as quantidades de produtos, mesmo nulas, para as quais tenham sido emitidos certificados de importação durante o período de contingentamento de 2014;
+
+b) Até 30 de abril de 2015, as quantidades de produtos, mesmo nulas, constantes dos certificados de importação não utilizados ou utilizados parcialmente, correspondentes à diferença entre as quantidades indicadas no verso dos certificados de importação e as quantidades para as quais estes foram emitidos.
+
+7) É inserido o seguinte artigo 5.º-A: «Artigo 5.º-A Notificações à Comissão para o período de contingentamento de 2015 1. Em derrogação do artigo 11.º, n.º 1, segundo parágrafo, do Regulamento (CE) n.º 1301/2006, os Estados-Membros devem notificar à Comissão, o mais tardar no décimo dia do mês seguinte ao último dia de cada subperíodo, as quantidades, mesmo nulas, abrangidas por certificados que tenham emitido durante esse subperíodo. 2. Em derrogação do artigo 11.º, n.º 1, segundo parágrafo, do Regulamento (CE) n.º 1301/2006, os Estados-Membros devem notificar à Comissão as quantidades, mesmo nulas, constantes dos certificados de importação não utilizados ou utilizados parcialmente, correspondentes à diferença entre as quantidades indicadas no verso dos certificados de importação e as quantidades para as quais estes foram emitidos: a) Juntamente com as notificações referidas no artigo 3.º-A, n.º 5, do presente regulamento no que respeita aos pedidos apresentados em relação ao último subperíodo; b) Em relação às quantidades ainda não notificadas aquando da primeira notificação prevista na alínea a), até 30 de abril de 2016, o mais tardar. 3. Até 30 de abril de 2016, os Estados-Membros devem notificar à Comissão as quantidades de produtos efetivamente introduzidas em livre prática durante esse período de contingentamento. 4. No caso das notificações referidas nos n.^os^ 1, 2 e 3, as quantidades devem ser expressas em quilogramas de peso do produto e discriminadas por número de ordem.».
+
+a) Juntamente com as notificações referidas no artigo 3.º-A, n.º 5, do presente regulamento no que respeita aos pedidos apresentados em relação ao último subperíodo;
+
+b) Em relação às quantidades ainda não notificadas aquando da primeira notificação prevista na alínea a), até 30 de abril de 2016, o mais tardar.
+
+8) O texto do anexo I é substituído pelo texto do anexo do presente regulamento.
+
+###### Artigo 2.º — Entrada em vigor e aplicação
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é aplicável a partir de 2 de novembro de 2014.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 31 de outubro de 2014.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**José Manuel BARROSO**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/d3cabe9d-60ee-11e4-9cbe-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2014314PT.01001701-E0001) [JO L 347 de 20.12.2013, p. 671](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/d3cabe9d-60ee-11e4-9cbe-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2014314PT.01001701-E0002) Regulamento (UE) n.º 374/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativo à redução ou eliminação de direitos aduaneiros sobre as mercadorias originárias da Ucrânia ([JO L 118 de 22.4.2014, p. 1](http://publications.europa.eu/resource/oj/JOL_2014_118_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/d3cabe9d-60ee-11e4-9cbe-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2014314PT.01001701-E0003) Regulamento de Execução (UE) n.º 413/2014 da Comissão, de 23 de abril de 2014, relativo à abertura e modo de gestão de contingentes pautais da União para a importação de carne de aves de capoeira originária da Ucrânia ([JO L 121 de 24.4.2014, p. 37](http://publications.europa.eu/resource/oj/JOL_2014_121_R_TOC)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/d3cabe9d-60ee-11e4-9cbe-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2014314PT.01001701-E0004) Regulamento (UE) n.º 1150/2014 do Parlamento Europeu e do Conselho, de 29 de outubro de 2014, que altera o Regulamento (UE) n.º 374/2014 relativo à redução ou à eliminação de direitos aduaneiros sobre as mercadorias originárias da Ucrânia ([JO L 313 de 31.10.2014, p. 1](http://publications.europa.eu/resource/oj/JOL_2014_313_R_TOC)).

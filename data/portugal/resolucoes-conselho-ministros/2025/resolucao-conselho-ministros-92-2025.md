@@ -30,7 +30,7 @@ entry_into_force:
   date: '2025-05-03'
   rule: no dia seguinte ao da sua publicação
   method: clausula
-  article: n-6
+  article: n-7
   effects_date: null
   effects_rule: null
   end_date: null

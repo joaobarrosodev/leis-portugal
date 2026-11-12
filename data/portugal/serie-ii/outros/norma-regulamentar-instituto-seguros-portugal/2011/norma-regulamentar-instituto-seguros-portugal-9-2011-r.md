@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 38413 - 38413
   pdf_url: https://files.diariodarepublica.pt/2s/2011/09/185000000/3841338413.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-09-27'
+entry_into_force:
+  date: '2011-09-27'
+  rule: no dia imediato ao da respectiva publicação
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

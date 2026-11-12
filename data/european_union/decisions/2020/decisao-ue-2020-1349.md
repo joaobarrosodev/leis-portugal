@@ -1,0 +1,236 @@
+---
+schema_version: '1.0'
+id: eu:celex:32020D1349:por
+title: Decisão de Execução (UE) 2020/1349 do Conselho de 25 de setembro de 2020
+short_title: null
+summary: Decisão de Execução (UE) 2020/1349 do Conselho de 25 de setembro de 2020 que concede um apoio temporário à República
+  Italiana ao abrigo do Regulamento (UE) 2020/672 para atenuar os riscos de desemprego numa situação de emergência na sequência
+  do surto de COVID-19
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão de Execução
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2020/1349
+official_date: null
+publication_date: '2020-09-29'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 314 de 29.9.2020
+  number: '314'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/639f1df3-0230-11eb-8919-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2020-09-28'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32020D1349
+  eli: http://data.europa.eu/eli/dec_impl/2020/1349/oj
+  oj: oj:JOL_2020_314_R_0010
+  dre: null
+  dre_path: null
+  internal: eu:celex:32020D1349:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32020D1349
+  metadata_url: http://publications.europa.eu/resource/cellar/639f1df3-0230-11eb-8919-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/639f1df3-0230-11eb-8919-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:10:36Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-10-16T07:35:18.753+02:00'
+integrity:
+  source_sha256: c348fcc570740b4c00282c206c923b59c2e7bb503ee6843ef13f9b11138c9e49
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:10:36Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Itália
+- ajuda ao emprego
+- ajuda de emergência
+- combate ao desemprego
+- despesas públicas
+- doença por coronavírus
+- empréstimo concedido pela UE
+- epidemia
+- profissão independente
+relationships:
+- type: based_on
+  target: celex:32020R0672
+  label: null
+  source: http://publications.europa.eu/resource/cellar/00399138-9a5d-11ea-aac4-01aa75ed71a1
+  date: '2020-05-20'
+- type: cites
+  target: celex:12016E107
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f3b44c26-95f3-473f-b72d-c862ab66ce3b
+- type: cites
+  target: celex:12016E108
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d29385bc-ca9c-4308-864f-4b7e3eac1cb0
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:10:36Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DE EXECUÇÃO (UE) 2020/1349 DO CONSELHO
+
+de 25 de setembro de 2020
+
+que concede um apoio temporário à República Italiana ao abrigo do Regulamento (UE) 2020/672 para atenuar os riscos de desemprego numa situação de emergência na sequência do surto de COVID-19
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) 2020/672 do Conselho, de 19 de maio de 2020, relativo à criação de um instrumento europeu de apoio temporário para atenuar os riscos de desemprego numa situação de emergência (SURE) na sequência do surto de COVID-19 [([^1])](http://publications.europa.eu/resource/cellar/639f1df3-0230-11eb-8919-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2020314PT.01003101-E0001), nomeadamente o artigo 6.º, n.º 1,
+
+Tendo em conta a proposta da Comissão Europeia,
+
+Considerando o seguinte:
+
+(1) Em 7 de agosto de 2020, a Itália solicitou assistência financeira à União a fim de complementar os esforços desenvolvidos a nível nacional para fazer face ao impacto do surto de COVID-19 e responder às consequências socioeconómicas para os trabalhadores e trabalhadores independentes.
+
+(2) O surto de COVID-19 e as medidas extraordinárias implementadas pela Itália para o conter e para atenuar o seu impacto socioeconómico e sanitário deverão ter um impacto dramático nas finanças públicas. De acordo com as previsões da primavera de 2020 da Comissão, a Itália deveria ter um défice e uma dívida das administrações públicas de 11,1 % e 158,9 % do produto interno bruto (PIB), respetivamente, até ao final de 2020. De acordo com as previsões intercalares do verão de 2020 da Comissão, o PIB da Itália deverá registar uma contração de 11,2 % em 2020.
+
+(3) O surto de COVID-19 imobilizou uma parte substancial da população ativa na Itália, o que conduziu a um aumento súbito e grave da despesa pública da Itália afetada aos regimes de tempo de trabalho reduzido destinados aos trabalhadores, aos subsídios destinados aos trabalhadores independentes, aos trabalhadores contratados a termo no setor agrícola, aos trabalhadores do setor do entretenimento, aos trabalhadores de associações desportivas, aos trabalhadores domésticos e aos trabalhadores em regime de permanência, aos vales para pagamento de serviços de *baby-sitting*, aos subsídios suplementares a título de baixa por deficiência e por licença parental, aos subsídios a fundo perdido destinados a trabalhadores independentes e empresas individuais e aos créditos fiscais de apoio a medidas sanitárias, tal como indicado nos considerandos 4 a 10.
+
+(4) O «Decreto-lei n.º 18/2020» [([^2])](http://publications.europa.eu/resource/cellar/639f1df3-0230-11eb-8919-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2020314PT.01003101-E0002) e o «Decreto-lei n.º 34/2020» [([^3])](http://publications.europa.eu/resource/cellar/639f1df3-0230-11eb-8919-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2020314PT.01003101-E0003), que são referidos no pedido da Itália de 7 de agosto de 2020, constituíram a base para a introdução de uma série de medidas destinadas a fazer face ao impacto do surto de COVID-19, incluindo um alargamento dos regimes de tempo de trabalho reduzido vigentes (*Cassa integrazione guadagni*). A medida abrange 80 % do salário habitual dos trabalhadores cujo contrato de trabalho é mantido em empresas total ou parcialmente encerradas devido à COVID-19, por um período máximo de 18 semanas entre 23 de fevereiro de 2020 e 31 de outubro de 2020.
+
+(5) As autoridades introduziram um subsídio de 600 EUR para os meses de março e abril de 2020 destinado a trabalhadores independentes. Os trabalhadores independentes que sofreram uma redução de pelo menos 33 % dos seus rendimentos em março e abril de 2020 em termos homólogos têm igualmente direito a um subsídio de 1 000 EUR relativo a maio de 2020. Um subsídio suplementar de 600 EUR relativo a março de 2020 é atribuído aos trabalhadores independentes inscritos em organismos privados de segurança social obrigatória.
+
+(6) As autoridades introduziram várias medidas dirigidas a profissões específicas que foram afetadas negativamente pelo surto de COVID-19 e que incluem um subsídio de 600 EUR relativo ao mês de março de 2020 e de 500 EUR relativo ao mês de abril de 2020 destinado aos trabalhadores contratados a termo no setor agrícola; um subsídio de 600 EUR relativo aos meses de março, abril e maio de 2020 destinado aos trabalhadores do setor do entretenimento (com um rendimento anual até 50 000 EUR); um subsídio de 600 EUR relativo aos meses de março, abril e maio de 2020 destinado aos trabalhadores de associações desportivas; um subsídio de 600 EUR por mês relativo aos meses de março, abril e maio de 2020 destinado aos trabalhadores em regime de permanência e um subsídio de 500 EUR por mês relativo aos meses de abril e maio destinado aos trabalhadores domésticos.
+
+(7) As autoridades introduziram igualmente duas medidas destinadas a mitigar as consequências do encerramento dos serviços de educação pré-escolar e das escolas, sob a forma de subsídios por licença parental durante no máximo 30 dias, no período de 5 de março de 2020 a 31 de agosto de 2020, destinado a trabalhadores ou trabalhadores independentes com crianças de até 12 anos de idade (ou com mais de 12 anos de idade, tratando-se de crianças com deficiência que ainda frequentam a escola), cobrindo 50 % do seu rendimento, e vales para pagamento de serviços de *baby-sitting* no valor total máximo de 2 000 EUR em alternativa aos subsídios por licença parental, válidos no mesmo período. Estas medidas podem ser consideradas semelhantes a um regime de tempo de trabalho reduzido, tal como referido no Regulamento (UE) 2020/672, uma vez que proporcionam apoio ao rendimento aos trabalhadores e trabalhadores independentes, o que ajudará a cobrir os custos de acolhimento das crianças durante o encerramento das escolas e, por conseguinte, os pais a continuarem a trabalhar, evitando assim que a sua relação de trabalho seja colocada em risco.
+
+(8) Além disso, as autoridades introduziram subsídios suplementares a título de baixa por deficiência de até 12 dias no período de 1 de março de 2020 a 30 de abril de 2020 e de 12 dias suplementares no período de 1 de maio de 2020 a 30 de junho de 2020 destinados a trabalhadores com deficiência grave ou que têm familiares com deficiência grave. Trata-se de um alargamento de um regime vigente que garante aos trabalhadores três dias de baixa por deficiência por mês.
+
+(9) Foram introduzidos subsídios a fundo perdido destinados aos trabalhadores independentes e empresas individuais. O montante do subsídio é calculado tendo em conta a diminuição do volume de negócios ocorrida em abril de 2020 em comparação com o volume de negócios de abril de 2019 (de um montante mínimo de 1 000 EUR a um máximo de 20 % da quebra de volume de negócios).
+
+(10) Por último, as autoridades introduziram duas medidas sanitárias, a saber, um novo crédito fiscal temporário de 60 % dos custos incorridos com a melhoria da segurança do local de trabalho (até 80 000 EUR) e um novo crédito fiscal temporário de 60 % dos custos incorridos com a limpeza de instalações de pequenas empresas, gabinetes profissionais e instituições sem fim lucrativo, bem como com a compra de equipamento de segurança (até 60 000 EUR). Dado que os créditos fiscais representam perdas de receitas para o governo, podem ser consideradas como despesas públicas.
+
+(11) A Itália preenche as condições para solicitar assistência financeira, previstas no artigo 3.º do Regulamento (UE) 2020/672. A Itália forneceu à Comissão informações adequadas que confirmam que a despesa pública efetiva e prevista sofreu um aumento, que ascendia a 28 811 965 628 EUR desde 1 de fevereiro de 2020, devido ao aumento dos montantes diretamente afetados aos regimes de tempo de trabalho reduzido destinados aos trabalhadores, aos subsídios destinados aos trabalhadores independentes, aos trabalhadores contratados a termo no setor agrícola, aos trabalhadores do setor do entretenimento, aos trabalhadores de associações desportivas, aos trabalhadores domésticos e aos trabalhadores em regime de permanência, aos vales para pagamento de serviços de *baby-sitting*, aos subsídios suplementares a título de baixa por deficiência e por licença parental e aos subsídios a fundo perdido destinados a trabalhadores independentes e empresas individuais. Trata-se de um aumento súbito e grave, uma vez que se relaciona tanto com novas medidas como com a prorrogação de medidas já existentes, que abrangem uma proporção significativa das empresas e da população ativa na Itália. A Itália tenciona financiar 320 000 000 EUR do aumento do montante da despesa através de fundos da União.
+
+(12) A Comissão consultou a Itália e verificou o aumento súbito e grave da despesa pública efetiva e prevista diretamente afetada aos regimes de trabalho a tempo reduzido e medidas semelhantes, bem como com o recurso a medidas sanitárias pertinentes relacionadas com o surto de COVID-19, como referido no pedido de 7 de agosto de 2020, em conformidade com o artigo 6.º do Regulamento (UE) 2020/672.
+
+(13) Por conseguinte, deverá ser fornecida assistência financeira para ajudar a Itália a fazer face aos efeitos socioeconómicos da grave perturbação económica causada pelo surto de COVID-19. A Comissão deverá tomar as decisões relativas à maturidade dos empréstimos, ao montante e ao desembolso das parcelas e frações em estreita cooperação com as autoridades nacionais.
+
+(14) A presente decisão não prejudica o resultado de eventuais procedimentos relativos a distorções de funcionamento do mercado interno que possam vir a ser lançados, nomeadamente ao abrigo dos artigos 107.º e 108.° do Tratado. Não isenta os Estados-Membros da obrigação, nos termos do artigo 108.º do Tratado, de notificarem à Comissão qualquer caso que possa constituir um auxílio estatal.
+
+(15) A Itália deverá informar regularmente a Comissão sobre a execução da despesa pública prevista, a fim de permitir à Comissão avaliar o andamento dessa mesma execução.
+
+(16) A decisão de prestar assistência financeira foi tomada tendo em conta as necessidades existentes e previstas da Itália, bem como os pedidos de assistência financeira nos termos do Regulamento (UE) 2020/672 já apresentados ou previstos por outros Estados-Membros, aplicando simultaneamente os princípios da igualdade de tratamento, da solidariedade, da proporcionalidade e da transparência, Em especial, o montante do empréstimo foi estabelecido de modo a assegurar a conformidade com as regras prudenciais aplicáveis à carteira de empréstimos especificada no Regulamento (UE) 2020/672,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+A Itália preenche as condições previstas no artigo 3.º do Regulamento (UE) 2020/672.
+
+###### Artigo 2.º
+
+1. A União concede a Itália um empréstimo no montante máximo de 27 438 486 464 EUR. O empréstimo terá um prazo médio de vencimento de 15 anos, no máximo.
+
+2. O período de disponibilidade para a assistência financeira concedida pela presente decisão é de 18 meses a contar do primeiro dia após a entrada em vigor da presente decisão.
+
+3. A assistência financeira da União será disponibilizada pela Comissão a Itália em dez parcelas, no máximo. Cada parcela pode ser desembolsada em uma ou várias frações. O prazo de maturidade das frações da primeira parcela pode exceder o prazo médio máximo de maturidade a que se refere o n.º 1. Nesses casos, os prazos de vencimento das frações seguintes são estabelecidos de modo a respeitar o prazo médio de vencimento máximo a que se refere o n.º 1 uma vez desembolsadas todas as parcelas.
+
+4. O desembolso da primeira parcela fica subordinado à entrada em vigor do acordo de empréstimo previsto no artigo 8.º, n.º 2, do Regulamento (UE) 2020/672.
+
+5. A Itália pagará o custo do financiamento da União referido no artigo 4.º do Regulamento (UE) 2020/672 referente a cada parcela, acrescido de quaisquer taxas, custos e despesas da União resultantes de qualquer financiamento relacionado com o empréstimo concedido ao abrigo do n.º 1 do presente artigo.
+
+6. A Comissão decide sobre o montante e o desembolso das parcelas, bem como sobre o montante das frações.
+
+###### Artigo 3.º
+
+A Itália pode financiar as seguintes medidas:
+
+a) Um alargamento dos regimes de tempo de trabalho reduzido vigentes (*Cassa integrazione guadagni*) para trabalhadores, previsto nos artigos 19.º a 22.° do «Decreto-lei n.º 18/2020», convertido em lei pela «Lei n.º 27/2020», e nos artigos 68.º a 71.° do «Decreto-lei n.º 34/2020», convertido em lei pela «Lei n.º 77/2020»;
+
+b) Um subsídio destinado aos trabalhadores independentes, previsto nos artigos 27.º, 28.° e 44.° do «Decreto-lei n.º 18/2020», convertido em lei pela «Lei n.º 27/2020», e no artigo 84.º do «Decreto-lei n.º 34/2020», convertido em lei pela «Lei n.º 77/2020»;
+
+c) Subsídios destinados aos trabalhadores contratados a termo no setor agrícola, previstos no artigo 30.º do «Decreto-lei n.º 18/2020» e no artigo 84.º do «Decreto-lei n.º 34/2020», convertido em lei pela «Lei n.º 77/2020»;
+
+d) Subsídios destinados aos trabalhadores do setor do entretenimento, previstos no artigo 38.º do «Decreto-lei n.º 18/2020» e no artigo 84.º do «Decreto-lei n.º 34/2020», convertido em lei pela «Lei n.º 77/2020»;
+
+e) Subsídios destinados aos trabalhadores de associações desportivas, previstos no artigo 96.º do «Decreto-lei n.º 18/2020» e no artigo 84.º do «Decreto-lei n.º 34/2020», convertido em lei pela «Lei n.º 77/2020»;
+
+f) Um subsídio destinado aos trabalhadores domésticos, previsto no artigo 85.º do «Decreto-lei n.º 34/2020», convertido em lei pela «Lei n.º 77/2020»;
+
+g) Um subsídio destinados aos trabalhadores em regime de permanência, previsto no artigo 44.º do «Decreto-lei n.º 18/2020» e no artigo 84.º do «Decreto-lei n.º 34/2020», convertido em lei pela «Lei n.º 77/2020»;
+
+h) Subsídios a fundo perdido destinados a trabalhadores independentes e empresas individuais, previstos no artigo 25.º do «Decreto-lei n.º 34/2020», convertido em lei pela «Lei n.º 77/2020», no que respeita à parte das despesas afetada ao apoio aos trabalhadores independentes e aos empresários em nome individual;
+
+i) Subsídios por licença parental, previstos nos artigos 23.º e 25.° do «Decreto-lei n.º 18/2020», convertido em lei pela «Lei n.º 27/2020», e no artigo 72.º do «Decreto-lei n.º 34/2020», convertido em lei pela «Lei n.º 77/2020»;
+
+j) Vales para pagamento de serviços de *baby-sitting*, previstos nos artigos 23.º e 25.° do «Decreto-lei n.º 18/2020», convertido em lei pela «Lei n.º 27/2020», e no artigo 73.º do «Decreto-lei n.º 34/2020», convertido em lei pela «Lei n.º 77/2020»;
+
+k) Subsídios a título de baixa por deficiência, previstos no artigo 24.º do «Decreto-lei n.º 18/2020», convertido em lei pela «Lei n.º 27/2020», e no artigo 74.º do «Decreto-lei n.º 34/2020», convertido em lei pela «Lei n.º 77/2020»;
+
+l) Créditos fiscais respeitantes à melhoria da segurança do local de trabalho, previstos no artigo 120.º do «Decreto-lei n.º 34/2020», convertido em lei pela «Lei n.º 77/2020»;
+
+m) Créditos fiscais respeitantes à limpeza dos locais de trabalho e à compra de equipamento de segurança, previstos no artigo 125.º do «Decreto-lei n.º 34/2020», convertido em lei pela «Lei n.º 77/2020».
+
+###### Artigo 4.º
+
+A Itália deve informar a Comissão até 30 de março de 2021, e posteriormente a cada seis meses, sobre a execução da despesa pública prevista, até que essa mesma despesa pública prevista tenha sido integralmente executada.
+
+###### Artigo 5.º
+
+A destinatária da presente decisão é a República Italiana.
+
+A presente decisão produz efeitos a partir data da sua notificação à destinatária.
+
+###### Artigo 6.º
+
+A presente decisão é publicada no *Jornal Oficial da União Europeia*.
+
+Feito em Bruxelas, em 25 de setembro de 2020.
+
+***Pelo Conselho***
+
+***O Presidente***
+
+**M. ROTH**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/639f1df3-0230-11eb-8919-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2020314PT.01003101-E0001) [JO L 159 de 20.5.2020, p. 1](http://publications.europa.eu/resource/oj/JOL_2020_159_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/639f1df3-0230-11eb-8919-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2020314PT.01003101-E0002) Decreto-lei n.º 18/2020, convertido em lei pela lei n.º 27/2020.
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/639f1df3-0230-11eb-8919-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2020314PT.01003101-E0003) Decreto-lei n.º 34/2020, convertido em lei pela lei n.º 77/2020.

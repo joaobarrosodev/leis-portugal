@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 36069 - 36069
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/234000000/3606936069.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-12-08'
+entry_into_force:
+  date: '2016-12-08'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: a partir da data da sua assinatura
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

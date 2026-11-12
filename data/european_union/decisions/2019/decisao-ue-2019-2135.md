@@ -1,0 +1,172 @@
+---
+schema_version: '1.0'
+id: eu:celex:32019D2135:por
+title: Decisão (UE) 2019/2135 do Conselho de 21 de novembro de 2019
+short_title: null
+summary: Decisão (UE) 2019/2135 do Conselho de 21 de novembro de 2019 sobre a posição a tomar, em nome da União Europeia,
+  na terceira reunião da Conferência das Partes na Convenção de Minamata sobre o Mercúrio, no que respeita à adoção de uma
+  decisão relativa à eliminação gradual da amálgama dentária e que altera o anexo A da referida Convenção
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2019/2135
+official_date: null
+publication_date: '2019-12-13'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 324 de 13.12.2019
+  number: '324'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/a02e5bff-1daa-11ea-95ab-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2019-11-21'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32019D2135
+  eli: http://data.europa.eu/eli/dec/2019/2135/oj
+  oj: oj:JOL_2019_324_R_0001
+  dre: null
+  dre_path: null
+  internal: eu:celex:32019D2135:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32019D2135
+  metadata_url: http://publications.europa.eu/resource/cellar/a02e5bff-1daa-11ea-95ab-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/a02e5bff-1daa-11ea-95ab-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:08:19Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-02-13T23:53:46.885+01:00'
+integrity:
+  source_sha256: b1791bb2f8d5c3071aa935a71a3f56a865b30b36dc8d4990651f037ec775c16f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:08:19Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- convenção internacional
+- medicina dentária
+- mercúrio
+- poluição pelos metais
+- prevenção da poluição
+- proteção do ambiente
+- revisão de um acordo
+- saúde pública
+relationships:
+- type: based_on
+  target: celex:12016E192
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cdbccbd7-06ae-4c9b-9076-57fc645256c2
+  date: '2016-06-09'
+- type: based_on
+  target: celex:12016E218
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7f071a2a-f5d1-4aed-b36a-34aeb32d6e41
+  date: '2016-06-09'
+- type: cites
+  target: celex:32017D0939
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d22396f7-476b-11e7-aea8-01aa75ed71a1
+- type: cites
+  target: celex:32017R0852
+  label: null
+  source: http://publications.europa.eu/resource/cellar/687ef0ed-4045-11e7-a9b0-01aa75ed71a1
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:08:19Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO (UE) 2019/2135 DO CONSELHO
+
+de 21 de novembro de 2019
+
+sobre a posição a tomar, em nome da União Europeia, na terceira reunião da Conferência das Partes na Convenção de Minamata sobre o Mercúrio, no que respeita à adoção de uma decisão relativa à eliminação gradual da amálgama dentária e que altera o anexo A da referida Convenção
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 192.º, n.º 1, em conjugação com o artigo 218.º, n.º 9,
+
+Tendo em conta a proposta da Comissão Europeia,
+
+Considerando o seguinte:
+
+(1) A Convenção de Minamata sobre o Mercúrio [([^1])](http://publications.europa.eu/resource/cellar/a02e5bff-1daa-11ea-95ab-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2019324PT.01000101-E0001) (a seguir designada «Convenção») foi celebrada em nome da União pela Decisão (UE) 2017/939 do Conselho [([^2])](http://publications.europa.eu/resource/cellar/a02e5bff-1daa-11ea-95ab-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2019324PT.01000101-E0002), tendo entrado em vigor em 16 de agosto de 2017.
+
+(2) Nos termos da Decisão MC-1/1 sobre o regulamento interno adotado pela Conferência das Partes na Convenção na sua primeira reunião, as Partes devem envidar todos os esforços para chegar a acordo, por consenso, sobre todas as questões de fundo.
+
+(3) Na sua terceira reunião, que se realizará de 25 a 29 de novembro de 2019 (COP3), prevê-se que a Conferência das Partes na Convenção adote uma decisão (a seguir designada «proposta de decisão») relativa à eliminação gradual da amálgama dentária e que altere o anexo A da Convenção.
+
+(4) É conveniente definir a posição a tomar, em nome da União, na COP3, dado que a proposta de decisão, se adotada, produzirá efeitos jurídicos, uma vez que as Partes na Convenção terão de tomar medidas para a sua aplicação a nível nacional ou regional, ou a ambos os níveis.
+
+(5) A proposta de decisão prevê a proibição, a partir de 2022, do fabrico, da importação e da exportação de amálgamas dentárias destinadas a utilização para tratamento de dentes de leite (dentes decíduos) e de dentes de crianças menores de 15 anos e de mulheres grávidas ou lactantes. A proposta de decisão prevê alargar esta proibição, a partir de 2025, ao fabrico, à importação e à exportação de amálgamas dentárias para todas as outras utilizações, exceto se não existirem alternativas sem mercúrio. A proposta de decisão prevê a alteração do anexo A da Convenção como forma de aplicar essas proibições na Convenção.
+
+(6) O artigo 10.º, n.º 2, do Regulamento (UE) 2017/852 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/a02e5bff-1daa-11ea-95ab-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2019324PT.01000101-E0003) relativo ao mercúrio, proíbe a partir de 1 de julho de 2018, a utilização de amálgamas dentárias na União para tratamento de dentes decíduos e de dentes de crianças menores de 15 anos e de mulheres grávidas ou lactantes. O artigo 19.º do referido regulamento prevê que a Comissão avalie e apresente, até 30 de junho de 2020, um relatório ao Parlamento Europeu e ao Conselho sobre a viabilidade de uma eliminação gradual, na União, da utilização de amálgama dentária a longo prazo e, de preferência, até 2030.
+
+(7) Além disso, o artigo 10.º, n.^os^ 1, 4 e 6, do Regulamento (UE) 2017/852 exige que as amálgamas dentárias só sejam utilizadas na União na forma de cápsulas pré-doseadas, que os consultórios de medicina dentária em que se utilize amálgama dentária ou em que se retirem restaurações dentárias com amálgama ou se extraiam dentes que contenham tais restaurações se encontrem equipados com separadores de amálgama e que os médicos dentistas assegurem que os resíduos de amálgamas, incluindo resíduos, partículas e restaurações de amálgamas, e dentes, ou partes deles, contaminados com amálgama dentária, sejam tratados e recolhidos por um estabelecimento ou empresa de gestão de resíduos autorizado.
+
+(8) A União só deverá apoiar a adoção de uma decisão na COP3 que seja coerente com o acervo da União. Por conseguinte, a proposta de decisão deverá ser apoiada apenas no que diz respeito a disposições relativas à eliminação gradual da utilização de amálgama dentária no tratamento de dentes decíduos e de dentes de crianças menores de 15 anos e de mulheres grávidas ou lactantes,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.
+
+A posição a tomar em nome da União na terceira reunião da Conferência das Partes na Convenção de Minamata sobre o Mercúrio (COP3) é de apoiar a adoção de uma decisão relativa à eliminação gradual da utilização de amálgama dentária que seja coerente com o acervo da União.
+
+###### Artigo 2º
+
+Durante as reuniões de coordenação no local, em função dos desenvolvimentos na COP3, os representantes da União podem, mediante consulta dos Estados-Membros, acordar em adaptações da posição a que se refere o artigo 1.º, desde que estas sejam coerentes com o acervo da União, sem que seja necessária uma nova decisão do Conselho.
+
+###### Artigo 3º
+
+A presente decisão entra em vigor na data da sua adoção.
+
+Feito em Bruxelas, em 21 de novembro de 2019.
+
+***Pelo Conselho***
+
+***A Presidente***
+
+**H. KOSONEN**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/a02e5bff-1daa-11ea-95ab-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2019324PT.01000101-E0001) [JO L 142 de 2.6.2017, p. 6](http://publications.europa.eu/resource/oj/JOL_2017_142_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/a02e5bff-1daa-11ea-95ab-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2019324PT.01000101-E0002) Decisão (UE) 2017/939 do Conselho, de 11 de maio de 2017, relativa à celebração, em nome da União Europeia, da Convenção de Minamata sobre o Mercúrio ([JO L 142 de 2.6.2017, p. 4](http://publications.europa.eu/resource/oj/JOL_2017_142_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/a02e5bff-1daa-11ea-95ab-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2019324PT.01000101-E0003) Regulamento (UE) 2017/852 do Parlamento Europeu e do Conselho, de 17 de maio de 2017, relativo ao mercúrio e que revoga o Regulamento (CE) n.º 1102/2008 ([JO L 137 de 24.5.2017, p. 1](http://publications.europa.eu/resource/oj/JOL_2017_137_R_TOC)).

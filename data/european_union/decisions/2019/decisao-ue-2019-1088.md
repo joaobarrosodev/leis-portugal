@@ -1,0 +1,178 @@
+---
+schema_version: '1.0'
+id: eu:celex:32019D1088:por
+title: Decisão (UE) 2019/1088 do Conselho, de 6 de junho de 2019
+short_title: null
+summary: Decisão (UE) 2019/1088 do Conselho, de 6 de junho de 2019, relativa à assinatura, em nome da União Europeia, e à
+  aplicação provisória do Protocolo de Aplicação do Acordo de Parceria no Domínio da Pesca entre a Comunidade Europeia e a
+  República da Guiné-Bissau (2019-2024)
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2019/1088
+official_date: null
+publication_date: '2019-06-27'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 173 de 27.6.2019
+  number: '173'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/95ec0ae0-98a9-11e9-b2f2-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2019-06-06'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32019D1088
+  eli: http://data.europa.eu/eli/dec/2019/1088/oj
+  oj: oj:JOL_2019_173_R_0001
+  dre: null
+  dre_path: null
+  internal: eu:celex:32019D1088:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32019D1088
+  metadata_url: http://publications.europa.eu/resource/cellar/95ec0ae0-98a9-11e9-b2f2-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/95ec0ae0-98a9-11e9-b2f2-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:07:36Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-02-13T22:25:39.814+01:00'
+integrity:
+  source_sha256: 315c65a6a578072035754c8a5947414003b16ecc863e65bedcdd28ca2ce8ef96
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:07:36Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Guiné-Bissau
+- acordo (UE)
+- acordo de pesca
+- acordo provisório (UE)
+- assinatura de acordo
+- direitos de pesca
+- pesca marítima
+- pesca sustentável
+- protocolo de acordo
+- zona de pesca
+relationships:
+- type: based_on
+  target: celex:12016E043
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6e4be70e-772a-4cb0-9637-f7d90313c64c
+  date: '2016-06-09'
+- type: based_on
+  target: celex:12016E218
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7f071a2a-f5d1-4aed-b36a-34aeb32d6e41
+  date: '2016-06-09'
+- type: cites
+  target: celex:22007A1227(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fb2440da-0da9-4b1d-bf66-a26998fd4928
+- type: cites
+  target: celex:32008R0241
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0f0f50ad-7399-44f5-97b3-a71403c9cb68
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:07:36Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO (UE) 2019/1088 DO CONSELHO
+
+de 6 de junho de 2019
+
+relativa à assinatura, em nome da União Europeia, e à aplicação provisória do Protocolo de Aplicação do Acordo de Parceria no Domínio da Pesca entre a Comunidade Europeia e a República da Guiné-Bissau (2019-2024)
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 43.º, em conjugação com o artigo 218.º, n.º 5,
+
+Tendo em conta a proposta da Comissão Europeia,
+
+Considerando o seguinte:
+
+(1) Em 17 de março de 2008, o Conselho adotou o Regulamento (CE) n.º 241/2008 [([^1])](http://publications.europa.eu/resource/cellar/95ec0ae0-98a9-11e9-b2f2-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2019173PT.01000101-E0001), relativo à celebração do Acordo de Parceria no domínio da pesca entre a Comunidade Europeia e a República da Guiné-Bissau («Acordo») [([^2])](http://publications.europa.eu/resource/cellar/95ec0ae0-98a9-11e9-b2f2-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2019173PT.01000101-E0002). O Acordo entrou em vigor em 15 de abril de 2008 e tem sido tacitamente renovado, encontrando-se ainda em vigor.
+
+(2) Na sequência da recomendação da Comissão, o Conselho, em 28 de fevereiro de 2017 autorizou a abertura de negociações com a República da Guiné-Bissau tendo em vista a celebração um novo protocolo de aplicação do Acordo.
+
+(3) O último protocolo do Acordo caducou em 23 de novembro de 2017.
+
+(4) A Comissão negociou, em nome da União, um novo protocolo. Como resultado dessas negociações, o novo protocolo foi rubricado em 15 de novembro de 2018.
+
+(5) O Protocolo de Aplicação do Acordo de Parceria no domínio da pesca entre a Comunidade Europeia e a República da Guiné-Bissau (2019-2024) («Protocolo») temo como objetivo permite que a União e a República da Guiné-Bissau colaborem mais estreitamente na promoção de uma política de pesca sustentável, da exploração responsável dos recursos haliêuticos nas águas guineenses e dos esforços da Guiné-Bissau para desenvolver uma economia azul.
+
+(6) Na pendência da sua entrada em vigor, o Protocolo deverá ser aplicado a título provisório a partir da data da sua assinatura, a fim de assegurar o rápido início das atividades de pesca dos navios da União.
+
+(7) O Protocolo deverá ser assinado e aplicado a título provisório, enquanto se aguarda a conclusão dos procedimentos necessários à sua entrada em vigor,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+É autorizada a assinatura, em nome da União, do Protocolo de Aplicação do Acordo de Parceria no Domínio da Pesca entre a Comunidade Europeia e a República da Guiné-Bissau (2019-2024), sob reserva da celebração do referido Protocolo
+
+O texto do Protocolo acompanha a presente decisão.
+
+###### Artigo 2.º
+
+O presidente do Conselho fica autorizado a designar a(s) pessoa(s) com poderes para assinar o Protocolo.
+
+###### Artigo 3.º
+
+O protocolo é aplicado a título provisório a partir da data da sua assinatura [([^3])](http://publications.europa.eu/resource/cellar/95ec0ae0-98a9-11e9-b2f2-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2019173PT.01000101-E0003), enquanto se agurada a conclusão dos procedimentos necessários à sua entrada em vigor.
+
+###### Artigo 4.º
+
+A presente decisão entra em vigor na data da sua adoção.
+
+Feito no Luxemburgo, em 6 de junho de 2019.
+
+***Pelo Conselho***
+
+***A Presidente***
+
+**A. BIRCHALL**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/95ec0ae0-98a9-11e9-b2f2-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2019173PT.01000101-E0001) Regulamento (CE) n.º 241/2008 do Conselho, de 17 de março de 2008, relativo à celebração do Acordo de Parceria no domínio da pesca entre a Comunidade Europeia e a República da Guiné-Bissau ([JO L 75 de 18.3.2008, p. 49](http://publications.europa.eu/resource/oj/JOL_2008_075_R_TOC)).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/95ec0ae0-98a9-11e9-b2f2-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2019173PT.01000101-E0002) Acordo de Parceria no domínio da pesca entre a Comunidade Europeia e a República da Guiné-Bissau para o período compreendido entre 16 de junho de 2007 e 15 de junho de 2011 ([JO L 342 de 27.12.2007, p. 5](http://publications.europa.eu/resource/oj/JOL_2007_342_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/95ec0ae0-98a9-11e9-b2f2-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2019173PT.01000101-E0003) A data a partir da qual o Protocolo será aplicado a título provisório será publicada no *Jornal Oficial da União Europeia* pelo Secretariado-Geral do Conselho.

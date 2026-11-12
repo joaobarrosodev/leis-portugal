@@ -28,7 +28,7 @@ entry_into_force_dates:
 - '2000-12-01'
 entry_into_force:
   date: '2000-12-01'
-  rule: no dia 1 de Dezembro de 2000, vigorando pelo período de um ano
+  rule: no dia 1 de Dezembro de 2000, vigorando até 31 de Dezembro de 2010
   method: clausula
   article: art-10
   effects_date: null

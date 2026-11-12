@@ -1,0 +1,216 @@
+---
+schema_version: '1.0'
+id: eu:celex:32001D0524:por
+title: '2001/524/CE: Decisão da Comissão, de 28 de Junho de 2001'
+short_title: null
+summary: '2001/524/CE: Decisão da Comissão, de 28 de Junho de 2001, relativa à publicação das referências das normas EN 13428:2000,
+  EN 13429:2000, EN 13430:2000, EN 13431:2000 e EN 13432:2000 no Jornal Oficial das Comunidades Europeias, no âmbito da aplicação
+  da Directiva 94/62/CE relativa a embalagens e resíduos de embalagens (Texto relevante para efeitos do EEE) [notificada com
+  o número C(2001) 1681]'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2001/524
+official_date: null
+publication_date: '2001-07-12'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 190 de 12.7.2001
+  number: '190'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/17d5b3cd-42a7-45ef-a821-2f773d551f1f.0010.02/DOC_1
+entry_into_force_dates:
+- '2001-07-12'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32001D0524
+  eli: http://data.europa.eu/eli/dec/2001/524/oj
+  oj: oj:JOL_2001_190_R_0021_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32001D0524:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32001D0524
+  metadata_url: http://publications.europa.eu/resource/cellar/17d5b3cd-42a7-45ef-a821-2f773d551f1f.0010
+  content_url: http://publications.europa.eu/resource/cellar/17d5b3cd-42a7-45ef-a821-2f773d551f1f.0010.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:26:15Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-11-25T08:00:05.609+01:00'
+integrity:
+  source_sha256: 3675a423c9b13c1044dad6a89d718069325bd82bb7c7263d498360d00b1f7770
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:26:15Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Jornal Oficial UE
+- gestão de resíduos
+- harmonização das normas
+- material de embalagem
+- norma europeia
+- normalização
+- publicação da UE
+- resíduo
+relationships:
+- type: based_on
+  target: celex:31994L0062
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1d7cd2ba-cce0-4977-be4b-d5042e1dea0c
+  date: '1994-12-31'
+- type: cites
+  target: celex:31998L0034
+  label: null
+  source: http://publications.europa.eu/resource/cellar/62dd72e1-3993-48dc-ba0e-e84e7531cb4c
+- type: corrected_by
+  target: celex:32001D0524R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8ae4cb8b-97d0-4c0f-bfc6-87358d8cbd2f
+  date: '2001-10-09'
+article_structure:
+  article_count: 4
+  section_count: 1
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:26:15Z'
+  warnings:
+  - Versão consolidada 02001D0524-20010712 indisponível (Sem expressão na língua por para CELEX 02001D0524-20010712.); usado
+    o texto do JO.
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# 2001/524/CE: Decisão da Comissão, de 28 de Junho de 2001
+
+**2001/524/CE: Decisão da Comissão, de 28 de Junho de 2001, relativa à publicação das referências das normas EN 13428:2000, EN 13429:2000, EN 13430:2000, EN 13431:2000 e EN 13432:2000 no Jornal Oficial das Comunidades Europeias, no âmbito da aplicação da Directiva 94/62/CE relativa a embalagens e resíduos de embalagens (Texto relevante para efeitos do EEE) [notificada com o número C(2001) 1681]** *Jornal Oficial nº L 190 de 12/07/2001 p. 0021 - 0023*
+
+Decisão da Comissão
+
+de 28 de Junho de 2001
+
+relativa à publicação das referências das normas EN 13428:2000, EN 13429:2000, EN 13430:2000, EN 13431:2000 e EN 13432:2000 no Jornal Oficial das Comunidades Europeias, no âmbito da aplicação da Directiva 94/62/CE relativa a embalagens e resíduos de embalagens
+
+[notificada com o número C(2001) 1681]
+
+(Texto relevante para efeitos do EEE)
+
+(2001/524/CE)
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta a Directiva 94/62/CE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 1994, relativa a embalagens e resíduos de embalagens(1), e, nomeadamente, o n.o 4, segundo parágrafo, do seu artigo 9.o,
+
+Tendo em conta o parecer do comité instituído pelo artigo 5.o da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas(2), alterada pela Directiva 98/48/CE(3),
+
+Considerando o seguinte:
+
+(1) Nos termos do artigo 4.o da Directiva 94/62/CE, a Comissão deve contribuir para a promoção da prevenção da formação de resíduos de embalagens, incentivando a elaboração de normas europeias adequadas.
+
+(2) O artigo 10.o da mesma directiva estabelece que a Comissão deve promover, sempre que necessário, a elaboração de normas europeias relativas aos requisitos essenciais referidos no seu anexo II.
+
+(3) Quando uma embalagem é fabricada para um produto específico em conformidade com uma norma harmonizada cujas referências foram publicadas no Jornal Oficial das Comunidades Europeias, presume-se que essa embalagem satisfaz os requisitos essenciais da Directiva 94/62/CE objecto da norma harmonizada.
+
+(4) O artigo 9.o da Directiva 94/62/CE prevê que a Comissão assegure a publicação, no Jornal Oficial das Comunidades Europeias, das referências das normas harmonizadas que satisfazem os requisitos essenciais definidos pela directiva.
+
+(5) Os Estados-Membros são obrigados a publicar as referências das normas nacionais que transpõem as normas harmonizados cujas referências foram publicadas no Jornal Oficial das Comunidades Europeias.
+
+(6) Em 2000, mandatado pela Comissão no âmbito da Directiva 94/62/CE após consulta do Comité instituído pela Directiva 98/34/CE, o Comité Europeu de Normalização (CEN) adoptou cinco normas (EN 13428:2000, EN 13429:2000, EN 13430:2000, EN 13431:2000 e EN 13432:2000). Estas normas foram apresentadas à Comissão como normas harmonizadas.
+
+(7) Nos termos do n.o 4 do artigo 9.o da Directiva 94/62/CE, a Bélgica apresentou em 2000 uma objecção formal relativamente às normas harmonizadas EN 13428:2000, EN 13429:2000, EN 13430:2000, EN 13431:2000 e EN 13432:2000, precisando que considera não satisfazerem as mesmas inteiramente os requisitos essenciais da directiva.
+
+(8) Nos termos do n.o 4 do artigo 9.o da Directiva 94/62/CE, a Dinamarca apresentou em 2000 uma objecção formal relativamente às normas harmonizadas EN 13428:2000, EN 13429:2000, EN 13430:2000 e EN 13431:2000, precisando que considera não satisfazerem as mesmas inteiramente os requisitos essenciais da directiva.
+
+(9) Após ter consultado o comité instituído pela Directiva 98/34/CE e analisado a norma harmonizada EN 13428:2000, a Comissão não comprovou que a mesma não satisfazia inteiramente os requisitos essenciais da Directiva 94/62/CE exceptuando os previstos no ponto 1, terceiro travessão, do seu anexo II. Esta norma harmonizada deve, consequentemente, ser publicada no Jornal Oficial das Comunidades Europeias, com a advertência de que não satisfaz os requisitos previstos no referido travessão.
+
+(10) Após ter consultado o comité instituído pela Directiva 98/34/CE e analisado a norma harmonizada EN 13429:2000, a Comissão comprovou que a mesma não satisfazia inteiramente os requisitos essenciais da Directiva 94/62/CE previstos no ponto 2 do seu anexo II. Em particular, a norma não satisfaz o requisito do mandato referente a um número mínimo de viagens ou rotações nas condições de utilização normais previsíveis, incluindo o estabelecimento de um método de ensaio que permita verificar esse número mínimo de viagens ou rotações. Esta norma harmonizada não deve, consequentemente, ser publicada no Jornal Oficial das Comunidades Europeias.
+
+(11) Após ter consultado o comité instituído pela Directiva 98/34/CE e analisado a norma harmonizada EN 13430:2000, a Comissão comprovou que a mesma não satisfazia inteiramente os requisitos essenciais da Directiva 94/62/CE previstos no ponto 3, alínea a), do seu anexo II. Em particular, a norma não satisfaz os requisitos essenciais que prevêem que as embalagens consideradas recicláveis devem ser fabricadas de forma a permitir a reciclagem de uma certa percentagem, em peso, dos materiais utilizados, segundo o tipo de material constitutivo da embalagem. Não satisfaz, também, o requisito do mandato que permite a consideração objectiva da utilização das substâncias ou materiais susceptíveis de causarem problemas a nível da recolha e triagem prévias à reciclagem, do próprio processo de reciclagem e dos produtos reciclados. Esta norma harmonizada não deve, consequentemente, ser publicada no Jornal Oficial das Comunidades Europeias.
+
+(12) Após ter consultados o comité instituído pela Directiva 98/34/CE e analisado a norma harmonizada EN 13431:2000, a Comissão comprovou que a mesma não satisfazia inteiramente os requisito essenciais da Directiva 94/62/CE previstos no ponto 3, alínea b), do seu anexo II relativos a um poder calorífico mínimo inferior que permita optimizar a valorização energética. Por outro lado, a norma não satisfaz o requisito do mandato que permite a consideração objectiva da utilização das substâncias ou materiais susceptíveis de causarem problemas a nível da recolha e triagem prévias à valorização enérgica e do próprio processo de valorização. Esta norma harmonizada não deve, consequentemente, ser publicada no Jornal Oficial das Comunidades Europeias.
+
+(13) Após ter consultado o comité instituído pela Directiva 98/34/CE e analisado a norma harmonizada EN 13432:2000, a Comissão não comprovou que a mesma não satisfazia inteiramente os requisitos essenciais da Directiva 94/62/CE previstos no ponto 3, alíneas c) e d), do seu anexo II. Esta norma harmonizada deve, consequentemente, ser publicada no Jornal Oficial das Comunidades Europeias.
+
+(14) A Comissão convida o CEN a prosseguir desde já os seus trabalhos no sentido de melhorar as normas que não satisfazem inteiramente, na totalidade ou em parte, os requisitos essenciais definidos na directiva,
+
+ADOPTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+As referências da norma harmonizada EN 13428:2000 são publicadas no Jornal Oficial das Comunidades Europeias conforme figura no anexo, com a seguinte advertência: "Chama-se a atenção dos utilizadores da norma harmonizada EN 13428:2000 para o facto de esta norma não satisfazer os requisitos essenciais da Directiva 94/62/CE previstos no ponto 1, terceiro travessão, do seu anexo II.".
+
+Ao publicarem as referências da norma nacional que transpõe a norma harmonizada EN 13428:2000, os Estados-Membros devem fazer acompanhar essa publicação de uma advertência idêntica à que figura no parágrafo supra.
+
+###### Artigo 2.º
+
+As referências das normas harmonizadas EN 13429:2000, EN 13430:2000 e EN 13431:2000 não são publicadas no Jornal Oficial das Comunidades Europeias.
+
+###### Artigo 3.º
+
+As referências da norma harmonizada EN 13432:2000 são publicadas no Jornal Oficial das Comunidades Europeias conforme figura no anexo.
+
+###### Artigo 4.º
+
+Os Estados-Membros são os destinatários da presente decisão.
+
+Feito em Bruxelas, em 28 de Junho de 2001.
+
+Pela Comissão
+
+Margot Wallström
+
+Membro da Comissão
+
+(1) JO L 365 de 31.12.1994, p. 10.
+
+(2) JO L 204 de 21.7.1998, p. 37.
+
+(3) JO L 217 de 5.8.1998, p. 18.
+
+## ANEXO — Publicação das referências das normas harmonizadas, em aplicação do disposto na Directiva 94/62/CE relativa a embalagens e resíduos de embalagens
+
+>POSIÇÃO NUMA TABELA>
+
+Advertência:
+
+Chama-se a atenção dos utilizadores da norma harmonizada EN 13428:2000 para o facto de esta norma não satisfazer os requisitos essenciais da Directiva 94/62/CE previstos no ponto 1, terceiro travessão, do seu anexo II.
+
+>POSIÇÃO NUMA TABELA>
+
+Aviso:
+
+- As informações relativas à disponibilidade das normas podem ser obtidas junto dos organismos de normalização europeus ou nacionais, cuja lista figura em anexo à Directiva 98/34/CE alterada pela Directiva 98/48/CE.
+
+- A publicação das referências no Jornal Oficial das Comunidades Europeias não significa que as normas estejam disponíveis em todas as línguas comunitárias.
+
+A Comissão assegurará a actualização da presente lista.

@@ -26,10 +26,10 @@ publication:
 entry_into_force_dates:
 - '1985-02-01'
 entry_into_force:
-  date: '1985-02-01'
-  rule: no dia imediato ao da sua publicação
-  method: clausula
-  article: art-4
+  date: '1985-02-05'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
   effects_date: null
   effects_rule: null
   end_date: null

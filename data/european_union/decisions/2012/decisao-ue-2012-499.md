@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: eu:celex:32012D0499:por
+title: '2012/499/UE: Decisão do Conselho, de 26 de junho de 2012'
+short_title: null
+summary: '2012/499/UE: Decisão do Conselho, de 26 de junho de 2012 , relativa à assinatura, em nome da União Europeia, do
+  Acordo entre a União Europeia e a República da Turquia sobre a readmissão de pessoas que residem sem autorização'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2012/499
+official_date: null
+publication_date: '2012-09-08'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 244 de 8.9.2012
+  number: '244'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/63c6cb84-fb30-11e1-8e28-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2012-06-26'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32012D0499
+  eli: http://data.europa.eu/eli/dec/2012/499/oj
+  oj: oj:JOL_2012_244_R_0004_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32012D0499:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32012D0499
+  metadata_url: http://publications.europa.eu/resource/cellar/63c6cb84-fb30-11e1-8e28-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/63c6cb84-fb30-11e1-8e28-01aa75ed71a1.0018.04/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:47:10Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-07-12T13:22:21.335+02:00'
+integrity:
+  source_sha256: bd1bd14f10a0c4a30574c8a636db66d98d31328fd16e36325a6624d230e5a1fa
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:47:10Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Turquia
+- acordo (UE)
+- assinatura de acordo
+- migração de regresso
+- migração ilegal
+relationships:
+- type: based_on
+  target: celex:12010E079
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c9ea5993-1911-43d0-8908-cf2382cdf4ec
+  date: '2010-04-27'
+- type: based_on
+  target: celex:12010E218
+  label: null
+  source: http://publications.europa.eu/resource/cellar/392743aa-155e-45b8-a8ef-c6f93103b96b
+  date: '2010-04-27'
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:47:10Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DO CONSELHO
+
+de 26 de junho de 2012
+
+relativa à assinatura, em nome da União Europeia, do Acordo entre a União Europeia e a República da Turquia sobre a readmissão de pessoas que residem sem autorização
+
+(2012/499/UE)
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 79.º, n.º 3, em conjugação com o artigo 218.º, n.º 5,
+
+Tendo em conta a proposta da Comissão Europeia,
+
+Considerando o seguinte:
+
+(1) Em 28 de novembro de 2002, o Conselho autorizou a Comissão a encetar negociações com a República da Turquia relativas ao Acordo entre a União Europeia e a República da Turquia sobre a readmissão de pessoas que residem sem autorização («o Acordo»). As negociações foram concluídas com êxito e o Acordo foi rubricado em 21 de junho de 2012.
+
+(2) Nos termos dos artigos 1.º e 2.º do Protocolo n.º 21 relativo à posição do Reino Unido e da Irlanda em relação ao espaço de liberdade, segurança e justiça, anexo ao Tratado da União Europeia e ao Tratado sobre o Funcionamento da União Europeia, e sem prejuízo do artigo 4.º do Protocolo acima referido, o Reino Unido não participa na adoção da presente decisão e não fica a ela vinculado nem sujeito à sua aplicação.
+
+(3) Nos termos dos artigos 1.º e 2.º do Protocolo n.º 21 relativo à posição do Reino Unido e da Irlanda em relação ao espaço de liberdade, segurança e justiça, anexo ao Tratado da União Europeia e ao Tratado sobre o Funcionamento da União Europeia, e sem prejuízo do artigo 4.º do Protocolo acima referido, a Irlanda não participa na adoção da presente decisão e não fica a ela vinculada nem sujeita à sua aplicação.
+
+(4) Nos termos dos artigos 1.º e 2.º do Protocolo n.º 22 relativo à posição da Dinamarca, anexo ao Tratado da União Europeia e ao Tratado sobre o Funcionamento da União Europeia, a Dinamarca não participa na adoção da presente decisão e não fica a ela vinculada nem sujeita à sua aplicação.
+
+(5) O Acordo deverá ser assinado, sob reserva da sua celebração em data posterior,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+É autorizada, em nome da União, a assinatura do Acordo entre a União Europeia e a República da Turquia sobre a readmissão de pessoas que residem sem autorização, sob reserva da celebração do referido Acordo.
+
+###### Artigo 2.º
+
+O Presidente do Conselho fica autorizado a designar a(s) pessoa(s) com poderes para assinar o Acordo, em nome da União.
+
+###### Artigo 3.º
+
+A presente decisão entra em vigor na data da sua adoção.
+
+Feito no Luxemburgo, em 26 de junho de 2012.
+
+***Pelo Conselho***
+
+***O Presidente***
+
+**N. WAMMEN**

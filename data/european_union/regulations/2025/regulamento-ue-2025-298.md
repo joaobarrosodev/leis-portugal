@@ -1,0 +1,243 @@
+---
+schema_version: '1.0'
+id: eu:celex:32025R0298:por
+title: Regulamento Delegado (UE) 2025/298 da Comissão, de 31 de outubro de 2024
+short_title: null
+summary: Regulamento Delegado (UE) 2025/298 da Comissão, de 31 de outubro de 2024, que complementa o Regulamento (UE) 2023/1114
+  do Parlamento Europeu e do Conselho no que diz respeito às normas técnicas de regulamentação que especificam a metodologia
+  para estimar o número e o valor das transações associadas às utilizações de criptofichas referenciadas a ativos e de criptofichas
+  de moeda eletrónica denominadas numa moeda que não seja uma moeda oficial de um Estado-Membro como meio de troca
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento Delegado
+issuing_authority:
+- Comissão Europeia
+- FISMA
+proposing_entity: null
+official_number: 2025/298
+official_date: null
+publication_date: '2025-02-13'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L, 2025/298, 13.2.2025
+  number: '298'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/f35dcf30-e9ad-11ef-b5e9-01aa75ed71a1.0020.01/DOC_1
+entry_into_force_dates:
+- '2025-03-05'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32025R0298
+  eli: http://data.europa.eu/eli/reg_del/2025/298/oj
+  oj: oj:L_202500298
+  dre: null
+  dre_path: null
+  internal: eu:celex:32025R0298:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32025R0298
+  metadata_url: http://publications.europa.eu/resource/cellar/f35dcf30-e9ad-11ef-b5e9-01aa75ed71a1.0020
+  content_url: http://publications.europa.eu/resource/cellar/f35dcf30-e9ad-11ef-b5e9-01aa75ed71a1.0020.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:30:12Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-02-13T03:29:25.023+01:00'
+integrity:
+  source_sha256: 35197a22f59c1fd4c5b98a30c255294a287c3f282e576650db1f6408000f3d3d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:30:12Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- cadeia de blocos
+- emissão de moeda
+- moeda eletrónica
+- moeda nacional
+- moeda virtual
+- norma técnica
+- prestação de serviços
+- previsão económica
+- proteção do consumidor
+- regulamentação financeira
+relationships:
+- type: based_on
+  target: celex:32023R1114
+  label: null
+  source: http://publications.europa.eu/resource/cellar/01d55833-0660-11ee-b12e-01aa75ed71a1
+  date: '2023-06-09'
+- type: cites
+  target: celex:32010R1093
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c2eecef2-5a33-4525-931e-53cf6e6f96c7
+- type: cites
+  target: celex:32015L0849
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0bff31ef-0b49-11e5-8817-01aa75ed71a1
+- type: cites
+  target: celex:32024R2902
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7730c07f-ad2a-11ef-acb1-01aa75ed71a1
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:30:12Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DELEGADO (UE) 2025/298 DA COMISSÃO
+
+de 31 de outubro de 2024
+
+que complementa o Regulamento (UE) 2023/1114 do Parlamento Europeu e do Conselho no que diz respeito às normas técnicas de regulamentação que especificam a metodologia para estimar o número e o valor das transações associadas às utilizações de criptofichas referenciadas a ativos e de criptofichas de moeda eletrónica denominadas numa moeda que não seja uma moeda oficial de um Estado-Membro como meio de troca
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) 2023/1114 do Parlamento Europeu e do Conselho, de 31 de maio de 2023, relativo aos mercados de criptoativos e que altera os Regulamentos (UE) n.º 1093/2010 e (UE) n.º 1095/2010 e as Diretivas 2013/36/UE e (UE) 2019/1937 [([^1])](http://publications.europa.eu/resource/cellar/f35dcf30-e9ad-11ef-b5e9-01aa75ed71a1.0020.03/DOC_1#ntr1-L_202500298PT.000101-E0001), nomeadamente o artigo 22.º, n.º 6, terceiro parágrafo,
+
+Considerando o seguinte:
+
+(1) O conceito de «transação» na aceção do artigo 22.º, n.º 1, do Regulamento (UE) 2023/1114 não depende do tipo de carteira utilizada pelo ordenante ou pelo beneficiário para iniciar ou receber uma transação associada à utilização de uma criptoficha referenciada a ativos como meio de troca. Por conseguinte, para especificar a metodologia referida no artigo 22.º, n.º 6, do Regulamento (UE) 2023/1114, é necessário considerar que a comunicação de informações prevista no artigo 22.º, n.º 1, alínea d), do mesmo regulamento deve incluir as transações entre carteiras com custódia, bem como as transações entre uma carteira com custódia, por um lado, e uma carteira sem custódia ou outros tipos de endereços de registo distribuído que não sejam controlados por um detentor de uma criptoficha referenciada a ativos ou por um prestador de serviços de criptoativos, por outro. As transações entre carteiras sem custódia, ou entre carteiras sem custódia e outros tipos de endereços de registo distribuído que não sejam controlados por um detentor de uma criptoficha referenciada a ativos ou por um prestador de serviços de criptoativos, não devem ser incluídas no âmbito da comunicação de informações prevista no artigo 22.º, n.º 1, alínea d), do Regulamento (UE) 2023/1114, tendo em conta que os emitentes podem não dispor das informações necessárias para comunicar essas transações ao abrigo dessas disposições. O que precede não prejudica as obrigações de comunicação de informações dos emitentes relativamente a essas transações nos termos do artigo 22.º, n.º 1, alínea c), do Regulamento (UE) 2023/1114 e do Regulamento de Execução (UE) 2024/2902 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/f35dcf30-e9ad-11ef-b5e9-01aa75ed71a1.0020.03/DOC_1#ntr2-L_202500298PT.000101-E0002).
+
+(2) Nos termos do artigo 22.º, n.º 1, segundo parágrafo, do Regulamento (UE) 2023/1114, só são consideradas transações associadas a utilizações como meio de troca aquelas que conduzem a uma mudança da pessoa singular ou coletiva com direito à criptoficha referenciada a ativos. Esta disposição aplica-se mesmo quando o beneficiário efetivo, na aceção do artigo 3.º, ponto 6, da Diretiva (UE) 2015/849 do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/f35dcf30-e9ad-11ef-b5e9-01aa75ed71a1.0020.03/DOC_1#ntr3-L_202500298PT.000101-E0003), continua a ser o mesmo e independentemente de as liquidações em questão serem efetuadas no registo distribuído («em cadeia») ou fora dele («fora da cadeia»). Por conseguinte, para efeitos da comunicação de informações nos termos do artigo 22.º, n.º 1, alínea d), do Regulamento (UE) 2023/1114, os dados a comunicar pelo emitente à autoridade competente não devem incluir as transferências de uma criptoficha referenciada a ativos entre diferentes endereços ou contas da mesma pessoa.
+
+(3) O artigo 22.º, n.º 1, terceiro parágrafo, do Regulamento (UE) 2023/1114 estabelece que determinadas transações não devem ser consideradas como estando associadas a utilizações de criptofichas referenciadas a ativos como meio de troca. Concretamente, tal como esclarecido no considerando 61 do referido regulamento, as transações associadas à utilização de criptofichas referenciadas a ativos como meio de troca são as transações associadas ao pagamento de dívidas, inclusive no âmbito de transações com comerciantes, e não devem incluir transações associadas a funções e serviços de investimento, tais como um meio de troca por outros criptoativos ou fundos, a menos que existam provas de que a criptoficha referenciada a ativos esteja a ser utilizada para a liquidação de transações noutros criptoativos. É, pois, necessário especificar mais pormenorizadamente o tipo de transações que devem ser comunicadas nos termos do artigo 22.º, n.º 1, alínea d), do Regulamento (UE) 2023/1114.
+
+(4) O emitente deve estimar o número e o valor das transações associadas às utilizações de uma criptoficha referenciada a ativos como meio de troca, conforme referido no artigo 22.º, n.º 1, alínea d), do Regulamento (UE) 2023/1114, deduzindo do número e do valor totais das transações liquidadas com a criptoficha referenciada a ativos, durante o trimestre em causa, as transações em que a criptoficha referenciada a ativos é trocada por fundos ou outros criptoativos com o emitente ou com um prestador de serviços de criptoativos, as transações em que a criptoficha referenciada a ativos é utilizada como garantia para efeitos de realização de transações com instrumentos financeiros e as transações em que a criptoficha referenciada a ativos é utilizada para liquidar um contrato de derivados. Além disso, o emitente pode também deduzir outras transações com a criptoficha referenciada a ativos se tiver motivos razoáveis para crer que o objetivo das respetivas transações não é o pagamento de bens ou serviços, desde que possa demonstrar à autoridade competente, mediante pedido, que tinha motivos razoáveis para crer que essas transações não estavam relacionadas com a utilização da criptoficha referenciada a ativos para pagar bens ou serviços.
+
+(5) As transações associadas à utilização de uma criptoficha referenciada a ativos como meio de troca devem também incluir as transações em que um ou vários criptoativos diferentes da criptoficha referenciada a ativos sejam utilizados para pagar bens e serviços, desde que essas transações sejam liquidadas com a criptoficha referenciada a ativos. Podem incluir-se aqui, por exemplo, os casos em que uma criptoficha referenciada a ativos é utilizada como ativo intermediário para liquidar transações com um criptoativo diferente da criptoficha referenciada a ativos, quando o objetivo dessa transação é pagar bens ou serviços, e os casos em que uma criptoficha referenciada a ativos é utilizada como ativo intermediário para liquidar uma transação que envolva dois criptoativos diferentes da criptoficha referenciada a ativos, quando o objetivo dessa transação é o pagamento de bens ou serviços. Em contrapartida, as transações em que as partes pretendam negociar ou trocar dois criptoativos distintos da criptoficha referenciada a ativos e acordem em liquidar a transação utilizando uma criptoficha referenciada a ativos, sem que a finalidade da transação subjacente seja o pagamento de bens ou serviços, não devem ser abrangidas pelo âmbito de aplicação da comunicação de informações prevista no artigo 22.º, n.º 1, alínea d), do Regulamento (UE) 2023/1114.
+
+(6) O emitente deve determinar, para cada transação abrangida pelo artigo 22.º, n.º 1, alínea d), do Regulamento (UE) 2023/1114, a área de moeda única para a qual essa transação deve ser comunicada. As transações a que se refere o artigo 22.º, n.º 1, alínea d), desse regulamento devem abranger as transações em que tanto o ordenante como o beneficiário estão situados na mesma área de moeda única na União.
+
+(7) Para assegurar que a média trimestral do número e do valor agregado das transações diárias é estimada com base em dados fiáveis e sólidos e para melhorar a qualidade da comunicação de informações, o emitente deve dispor de sistemas e procedimentos que lhe permitam conciliar os dados recebidos do prestador de serviços de criptoativos do beneficiário ou, no caso de transações de uma carteira com custódia para uma carteira sem custódia, os dados recebidos do prestador de serviços de criptoativos do ordenante, nos termos do artigo 22.º, n.º 3, do Regulamento (UE) 2023/1114 e do Regulamento de Execução (UE) 2024/2902 com os dados à disposição do emitente provenientes de outras fontes, incluindo, se for caso disso, os dados transacionais disponíveis no registo distribuído.
+
+(8) Em conformidade com o artigo 58.º, n.º 3, do Regulamento (UE) 2023/1114, o disposto nos artigos 22.º e 23.° e no artigo 24.º, n.º 3, do mesmo regulamento aplica-se também às criptofichas de moeda eletrónica denominadas numa moeda que não seja uma moeda oficial de um Estado-Membro. Por conseguinte, o presente regulamento deverá aplicar-se igualmente, *mutatis mutandis*, a essas criptofichas de moeda eletrónica.
+
+(9) O presente regulamento baseia-se nos projetos de normas técnicas de regulamentação apresentados à Comissão pela Autoridade Bancária Europeia.
+
+(10) A Autoridade Bancária Europeia realizou consultas públicas abertas sobre os projetos de normas técnicas de regulamentação em que se baseia o presente regulamento, analisou os potenciais custos e benefícios conexos e solicitou o parecer do Grupo das Partes Interessadas do Setor Bancário criado em conformidade com o artigo 37.º do Regulamento (UE) n.º 1093/2010 do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/f35dcf30-e9ad-11ef-b5e9-01aa75ed71a1.0020.03/DOC_1#ntr4-L_202500298PT.000101-E0004),
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º — Objeto
+
+1. O presente regulamento especifica a metodologia para estimar a média trimestral do número e do valor agregado das transações diárias que estão associadas às utilizações da criptoficha referenciada a ativos como meio de troca numa área de moeda única, em conformidade com o artigo 22.º, n.º 1, alínea d), do Regulamento (UE) 2023/1114.
+
+2. Em conformidade com o artigo 58.º, n.º 3, do Regulamento (UE) 2023/1114, o presente regulamento aplica-se igualmente, *mutatis mutandis*, às criptofichas de moeda eletrónica denominadas numa moeda que não seja uma moeda oficial de um Estado-Membro.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente regulamento, entende-se por:
+
+1) «Área de moeda única», um ou vários países que têm a mesma moeda oficial;
+
+2) «Carteira com custódia», um endereço de carteira de criptoativos em que um prestador de serviços de criptoativos assegura a conservação ou controlo, em nome de clientes, de criptoativos ou dos meios de acesso a esses criptoativos, quando aplicável sob a forma de chaves criptográficas privadas;
+
+3) «Carteira sem custódia», um endereço de carteira de criptoativos em que o utilizador controla os meios de acesso aos criptoativos, quando aplicável sob a forma de chaves criptográficas privadas.
+
+###### Artigo 3.º — Transações associadas à utilização de uma criptoficha referenciada a ativos como meio de troca
+
+1. O emitente deve estimar o número e o valor das transações associadas às utilizações de uma criptoficha referenciada a ativos como meio de troca, conforme referido no artigo 22.º, n.º 1, alínea d), do Regulamento (UE) 2023/1114, deduzindo do número e do valor totais das transações efetuadas com essa criptoficha durante o trimestre em causa:
+
+a) Transações em que a criptoficha referenciada a ativos é trocada por fundos ou outros criptoativos com o emitente ou com um prestador de serviços de criptoativos;
+
+b) Transações em que a criptoficha referenciada a ativos é utilizada como garantia para efeitos de realização de transações com instrumentos financeiros;
+
+c) Transações em que a criptoficha referenciada a ativos é utilizada para liquidar um contrato de derivados;
+
+d) Outras transações efetuadas com a criptoficha referenciada a ativos que o emitente tenha motivos razoáveis para presumir que têm um objetivo distinto do pagamento de bens ou serviços.
+
+Para excluir da estimativa a que se refere o primeiro parágrafo as transações mencionadas na alínea d), o emitente deve poder demonstrar à autoridade competente, mediante pedido, que tinha motivos razoáveis para presumir que essas transações não estavam relacionadas com a utilização da criptoficha referenciada a ativos para o pagamento de bens ou serviços.
+
+2. As transações associadas à utilização de uma criptoficha referenciada a ativos como meio de troca devem incluir as transações em que um ou vários criptoativos diferentes da criptoficha referenciada a ativos sejam utilizados para pagar bens e serviços, desde que essas transações sejam liquidadas com a criptoficha referenciada a ativos.
+
+3. As transações a que se refere o n.º 1 devem abranger:
+
+a) Transações liquidadas num registo distribuído;
+
+b) Transações liquidadas fora de um registo distribuído;
+
+c) Transações entre carteiras com custódia;
+
+d) Transações entre uma carteira com custódia e uma carteira sem custódia ou outro tipo de endereço de registo distribuído que não seja controlado por um detentor da criptoficha referenciada a ativos ou por um prestador de serviços de criptoativos.
+
+4. As transações referidas no n.º 1 não incluem transferências entre diferentes contas ou endereços de uma mesma pessoa.
+
+5. As transações a que se refere o n.º 1 só devem abranger as transações em que tanto o ordenante como o beneficiário estão situados na mesma área de moeda única na União. A localização de um ordenante ou de um beneficiário refere-se à sua residência habitual, no caso das pessoas singulares, e ao endereço da sede social, no caso das pessoas coletivas.
+
+###### Artigo 4.º — Cálculo da média do número e do valor agregado das transações
+
+1. O emitente deve calcular a média trimestral do número e do valor agregado das transações diárias a que se refere o artigo 22.º, n.º 1, alínea d), do Regulamento (UE) 2023/1114 para cada área de moeda única, tal como se encontrem nas seguintes datas de referência do relato: 31 de março, 30 de junho, 30 de setembro e 31 de dezembro.
+
+2. O valor das transações a que se refere o n.º 1 deve ser comunicado na moeda oficial do Estado-Membro de origem do emitente.
+
+3. O emitente deve determinar o valor das transações a que se refere o n.º 1 do seguinte modo:
+
+a) Se o cabaz de ativos referenciados pela criptoficha referenciada a ativos incluir uma ou mais moedas oficiais diferentes da moeda oficial a que se refere o n.º 2 do presente artigo, o emitente deve determinar o valor das respetivas transações diárias utilizando as taxas de câmbio pertinentes aplicáveis no final de cada dia de calendário durante o período de referência aplicável, em conformidade com a avaliação ou os princípios da avaliação, da criptoficha referenciada a ativos a que se refere o artigo 39.º, n.º 2, alínea c), do Regulamento (UE) 2023/1114.
+
+b) Se o cabaz de ativos referenciados pela criptoficha referenciada a ativos incluir ativos que não sejam uma moeda oficial, o emitente deve determinar o valor das respetivas transações diárias utilizando os preços de mercado calculados no final de cada dia de calendário durante o período de referência aplicável, sempre que possível em conformidade com a avaliação, ou os princípios da avaliação, da criptoficha referenciada a ativos a que se refere o artigo 39.º, n.º 2, alínea c), e o artigo 36.º, n.^os^ 11 e 12, do Regulamento (UE) 2023/1114.
+
+c) No que diz respeito às criptofichas de moeda eletrónica denominadas numa moeda que não seja uma moeda oficial de um Estado-Membro, o emitente deve determinar o valor das respetivas transações diárias utilizando as taxas de câmbio pertinentes aplicáveis no final de cada dia de calendário durante o período de referência aplicável.
+
+###### Artigo 5.º — Qualidade dos dados
+
+1. O emitente deve dispor de sistemas e procedimentos para assegurar que os dados apresentados à autoridade competente nos termos do artigo 22.º, n.º 1, alínea d), do Regulamento (UE) 2023/1114 são corretos, completos e apresentados no prazo estabelecido no Regulamento de Execução (UE) 2024/2902.
+
+2. Os sistemas e procedimentos a que se refere o n.º 1 devem permitir ao emitente conciliar os dados recebidos do prestador de serviços de criptoativos do beneficiário ou, no caso de transações de uma carteira com custódia para uma carteira sem custódia, os dados recebidos do prestador de serviços de criptoativos do ordenante, nos termos do artigo 22.º, n.º 3, do Regulamento (UE) 2023/1114 e do Regulamento de Execução (UE) 2024/2902 com os dados à disposição do emitente provenientes de outras fontes, incluindo, se for caso disso, os dados transacionais disponíveis no registo distribuído.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 31 de outubro de 2024.
+
+***Pela Comissão***
+
+***A Presidente***
+
+**Ursula VON DER LEYEN**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/f35dcf30-e9ad-11ef-b5e9-01aa75ed71a1.0020.03/DOC_1#ntc1-L_202500298PT.000101-E0001) [JO L 150 de 9.6.2023, p. 40](http://publications.europa.eu/resource/oj/JOL_2023_150_R_TOC), ELI: [http://data.europa.eu/eli/reg/2023/1114/oj](http://data.europa.eu/eli/reg/2023/1114/oj).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/f35dcf30-e9ad-11ef-b5e9-01aa75ed71a1.0020.03/DOC_1#ntc2-L_202500298PT.000101-E0002) Regulamento de Execução (UE) 2024/2902 da Comissão, de 20 de novembro de 2024, que estabelece normas técnicas de execução para a aplicação do Regulamento (UE) 2023/1114 do Parlamento Europeu e do Conselho no que respeita à comunicação de informações relacionadas com criptofichas referenciadas a ativos e criptofichas de moeda eletrónica denominadas numa moeda que não seja uma moeda oficial de um Estado-Membro ([JO L, 2024/2902, 28.11.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2902/oj](https://data.europa.eu/eli/reg_impl/2024/2902/oj)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/f35dcf30-e9ad-11ef-b5e9-01aa75ed71a1.0020.03/DOC_1#ntc3-L_202500298PT.000101-E0003) Diretiva (UE) 2015/849 do Parlamento Europeu e do Conselho, de 20 de maio de 2015, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais ou de financiamento do terrorismo, que altera o Regulamento (UE) n.º 648/2012 do Parlamento Europeu e do Conselho, e que revoga a Diretiva 2005/60/CE do Parlamento Europeu e do Conselho e a Diretiva 2006/70/CE da Comissão ([JO L 141 de 5.6.2015, p. 73](http://publications.europa.eu/resource/oj/JOL_2015_141_R_TOC), ELI: [http://data.europa.eu/eli/dir/2015/849/oj](http://data.europa.eu/eli/dir/2015/849/oj)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/f35dcf30-e9ad-11ef-b5e9-01aa75ed71a1.0020.03/DOC_1#ntc4-L_202500298PT.000101-E0004) Regulamento (UE) n.º 1093/2010 do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, que cria uma Autoridade Europeia de Supervisão (Autoridade Bancária Europeia), altera a Decisão n.º 716/2009/CE e revoga a Decisão 2009/78/CE da Comissão ([JO L 331 de 15.12.2010, p. 12](http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC), ELI: [http://data.europa.eu/eli/reg/2010/1093/oj](http://data.europa.eu/eli/reg/2010/1093/oj)).

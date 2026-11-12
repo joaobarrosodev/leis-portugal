@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: eu:celex:32021R1527:por
+title: Regulamento Delegado (UE) 2021/1527 da Comissão de 31 de maio de 2021
+short_title: null
+summary: Regulamento Delegado (UE) 2021/1527 da Comissão de 31 de maio de 2021 que completa a Diretiva 2014/59/UE do Parlamento
+  Europeu e do Conselho no que diz respeito às normas técnicas de regulamentação sobre o reconhecimento contratual dos poderes
+  de redução e de conversão (Texto relevante para efeitos do EEE)
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento Delegado
+issuing_authority:
+- Comissão Europeia
+- FISMA
+proposing_entity: null
+official_number: 2021/1527
+official_date: null
+publication_date: '2021-09-17'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 329 de 17.9.2021
+  number: '329'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/6e1962b5-1751-11ec-b4fe-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2021-10-07'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32021R1527
+  eli: http://data.europa.eu/eli/reg_del/2021/1527/oj
+  oj: oj:JOL_2021_329_R_0002
+  dre: null
+  dre_path: null
+  internal: eu:celex:32021R1527:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32021R1527
+  metadata_url: http://publications.europa.eu/resource/cellar/6e1962b5-1751-11ec-b4fe-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/6e1962b5-1751-11ec-b4fe-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:15:38Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-11-05T17:20:22.230+01:00'
+integrity:
+  source_sha256: 7c1105f0012c497cbce414bad3c239aa7f0a154a2c7caa202c49369488612fbf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:15:38Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- ajuda financeira
+- cláusula contratual
+- empresa em dificuldade
+- estabilização económica
+- instituição de crédito
+- intervenção financeira
+- norma técnica
+- regulamentação financeira
+- sociedade de investimento
+- solvibilidade financeira
+relationships:
+- type: based_on
+  target: celex:32014L0059
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d108610e-f1f7-11e3-8cd4-01aa75ed71a1
+  date: '2014-06-12'
+- type: cites
+  target: celex:32010R1093
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c2eecef2-5a33-4525-931e-53cf6e6f96c7
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:15:38Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DELEGADO (UE) 2021/1527 DA COMISSÃO
+
+de 31 de maio de 2021
+
+que completa a Diretiva 2014/59/UE do Parlamento Europeu e do Conselho no que diz respeito às normas técnicas de regulamentação sobre o reconhecimento contratual dos poderes de redução e de conversão
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta a Diretiva 2014/59/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014, que estabelece um enquadramento para a recuperação e a resolução de instituições de crédito e de empresas de investimento e que altera a Diretiva 82/891/CEE do Conselho e as Diretivas 2001/24/CE, 2002/47/CE, 2004/25/CE, 2005/56/CE, 2007/36/CE, 2011/35/CE, 2012/30/UE e 2013/36/UE e os Regulamentos (UE) n.º 1093/2010 e (UE) n.º 648/2012 do Parlamento Europeu e do Conselho [([^1])](http://publications.europa.eu/resource/cellar/6e1962b5-1751-11ec-b4fe-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2021329PT.01000201-E0001), nomeadamente o artigo 55.º, n.º 6, terceiro parágrafo,
+
+Considerando o seguinte:
+
+(1) O artigo 55.º, n.º 2, primeiro parágrafo, da Diretiva 2014/59/UE impõe aos Estados-Membros a obrigação de assegurar, quando uma instituição ou entidade referida no artigo 1.º, n.º 1, alíneas b), c) ou d), dessa diretiva determinar que é impraticável, juridicamente ou de outra forma, incluir nas disposições contratuais que regem um passivo relevante a cláusula contratual a que se refere o artigo 55.º, n.º 1, da mesma diretiva (a seguir designada por «cláusula contratual»), que essa determinação seja notificada à autoridade de resolução pela instituição ou entidade em causa.
+
+(2) As condições em que seria impraticável, juridicamente ou de outra forma, que uma instituição ou entidade incluísse a cláusula contratual em certas categorias de passivos devem ser definidas de molde a permitir um nível adequado de convergência, permitindo simultaneamente às autoridades de resolução ter em conta as diferenças nos mercados relevantes.
+
+(3) As instituições ou entidades não devem ser obrigadas a incluir essa cláusula contratual nas disposições contratuais que regem um passivo relevante, se essa inclusão for ilegal no país terceiro em causa. Tal pode ser o caso, por exemplo, se a legislação ou as instruções emitidas pelas autoridades do país terceiro não autorizarem esse tipo de cláusulas. De igual forma, deve considerar-se impraticável para uma instituição ou entidade incluir a cláusula contratual num acordo ou instrumento se essa instituição ou entidade não puder alterar essas disposições contratuais. Isto é frequentemente o caso quando os acordos ou instrumentos são celebrados em conformidade com modalidades ou protocolos normalizados a nível internacional que estabelecem condições uniformes para esse tipo de acordos ou instrumentos. Os produtos de financiamento do comércio, como garantias, contragarantias, cartas de crédito ou outros instrumentos utilizados no contexto do apoio ou do financiamento de operações comerciais, são normalmente emitidos sob reserva de cláusulas normalizadas reconhecidas a nível internacional ou de regras fixadas por uma organização setorial internacionalmente reconhecida ou elaboradas com base em práticas bilaterais normalizadas. Pode também ser impraticável se a instituição ou entidade celebrar contratos relativos à prestação de serviços financeiros com organismos não pertencentes à União, nomeadamente prestadores de serviços financeiros, plataformas de negociação, infraestruturas de mercados financeiros ou depositários que utilizam cláusulas normalizadas que não podem ser negociadas por essa instituição ou entidade.
+
+(4) Em todo o caso, qualquer relutância da contraparte em incluir as cláusulas contratuais ou um aumento do preço do instrumento ou acordo não deve, por si só, ser considerada uma condição que denota a impossibilidade prática de incluir a cláusula contratual.
+
+(5) Em conformidade com o artigo 55.º, n.º 2, terceiro parágrafo, da Diretiva 2014/59/UE, mesmo se chegar à conclusão de que não é impraticável, uma autoridade de resolução pode decidir não exigir que a instituição ou entidade em causa inclua a cláusula contratual se considerar que essa inclusão não é necessária para assegurar a resolubilidade da instituição ou entidade. As conclusões da análise do impacto na resolubilidade para efeitos do artigo 55.º da Diretiva 2014/59/UE devem ser consentâneas com as decorrentes da avaliação da resolubilidade prevista no título II, capítulo II, dessa diretiva. No entanto, para efeitos da avaliação do impacto na resolubilidade em conformidade com o artigo 55.º, n.º 2, terceiro parágrafo, da Diretiva 2014/59/UE, os acordos ou instrumentos que criam passivos com prazos de vencimento longos ou valores nominais elevados devem ser considerados necessários para assegurar a resolubilidade. A obrigação de incluir essas cláusulas contratuais não deve assim ser derrogada quando essa inclusão não preencher as condições quanto ao facto de ser impraticável. Em relação a outros acordos ou instrumentos que criam passivos, aquando da avaliação do seu impacto na resolubilidade, as autoridades de resolução devem ter devidamente em conta uma série de elementos pertinentes, mas devem dispor da possibilidade de avaliar, caso isso se justifique em função das circunstâncias específicas, qualquer elemento adicional que considerem necessário.
+
+(6) Após ter recebido uma notificação completa sobre uma eventual impossibilidade prática, a autoridade de resolução deve dispor de um prazo razoável para proceder à sua avaliação. A complexidade das notificações pode divergir. Por conseguinte, convém que uma autoridade de resolução possa prorrogar por um dado período o prazo de que dispõe para exigir a inclusão da cláusula contratual no caso de notificações complexas. Essa prorrogação deve ser devidamente notificada à instituição ou entidade em causa. Tendo em conta a natureza inovadora desta notificação e da sua avaliação, as autoridades de resolução devem poder prorrogar por mais seis meses o prazo fixado para avaliar as notificações complexas durante o primeiro ano a contar da entrada em vigor do presente regulamento. Findo esse período, as autoridades de resolução devem poder prorrogar por mais três meses o prazo fixado para a avaliação das notificações complexas.
+
+(7) O presente regulamento baseia-se no projeto de normas técnicas de regulamentação apresentado à Comissão pela Autoridade Bancária Europeia.
+
+(8) Esta última procedeu a consultas públicas abertas sobre os projetos de normas técnicas de regulamentação que servem de base ao presente regulamento, analisou os seus potenciais custos e benefícios e solicitou o parecer do Grupo das Partes Interessadas do Setor Bancário, criado em conformidade com o artigo 37.º do Regulamento (UE) n.º 1093/2010 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/6e1962b5-1751-11ec-b4fe-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2021329PT.01000201-E0002),
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º — Condições em que seria impraticável incluir a cláusula contratual referida no artigo 55.º, n.º 1, da Diretiva 2014/59/UE em certas categorias de passivos
+
+1. As condições em que seria impraticável, juridicamente ou de outra forma, que uma instituição ou entidade visada pelo artigo 1.º, n.º 1, alíneas b), c) ou d), da Diretiva 2014/59/UE incluísse nas disposições contratuais que regem um passivo relevante a cláusula contratual referida no artigo 55.º, n.º 1, da mesma diretiva, são a seguir referidas:
+
+a) a inclusão da cláusula contratual infringiria as disposições legislativas, regulamentares ou administrativas do país terceiro que regem o passivo;
+
+b) a inclusão da cláusula contratual seria contrária a uma instrução expressa e vinculativa emitida por uma autoridade de um país terceiro;
+
+c) o passivo resulta de instrumentos ou acordos celebrados em conformidade com modalidades ou protocolos normalizados a nível internacional que a instituição ou entidade não pode alterar;
+
+d) o passivo rege-se por condições contratuais que a instituição ou entidade é obrigada a aceitar para poder participar ou recorrer aos serviços de um organismo não pertencente à União e que não podem ser alteradas por essa instituição ou entidade;
+
+e) o passivo é devido a um credor comercial e prende-se com o fornecimento de bens ou serviços que, embora não sejam indispensáveis, são utilizados para o funcionamento operacional quotidiano da instituição ou entidade, não podendo esta alterar as condições do acordo.
+
+2. Para efeitos do n.º 1, alíneas c), d) e e), entende-se que uma instituição ou entidade não pode alterar os instrumentos, acordos ou condições contratuais quando estes só puderem ser celebrados nas condições fixadas pela(s) contraparte(s) ou pelas modalidades ou protocolos normalizados aplicáveis.
+
+###### Artigo 2.º — Condições em que a autoridade de resolução pode exigir a inclusão da cláusula contratual prevista no artigo 55.º, n.º 1, da Diretiva 2014/59/UE em certas categorias de passivos
+
+1. A autoridade de resolução exige a inclusão da cláusula contratual referida no artigo 55.º, n.º 1, da Diretiva 2014/59/UE nas disposições contratuais que regem um passivo relevante quando tiver concluído, com base na notificação da instituição ou entidade, que nenhuma das condições de impossibilidade prática notificadas e visadas pelo artigo 1.º do presente regulamento se encontra preenchida e desde que esteja satisfeita uma das condições seguintes:
+
+a) o montante nominal do passivo criado pelo acordo ou instrumento relevante é igual ou superior a 20 milhões de euros;
+
+b) o prazo de vencimento residual do acordo ou instrumento é igual ou superior a seis meses.
+
+2. Quando necessário para assegurar a resolubilidade, a autoridade de resolução pode exigir a inclusão da cláusula contratual referida no artigo 55.º, n.º 1, da Diretiva 2014/59/UE nas disposições contratuais que regem um passivo relevante, quando tiver concluído, com base na notificação da instituição ou entidade, que nenhuma das condições de impossibilidade prática notificadas e visadas pelo artigo 1.º do presente regulamento se encontra preenchida e desde que não esteja satisfeita nenhuma das condições enumeradas no n.º 1, alíneas a) e b), do presente artigo.
+
+Quando avalia se a inclusão da cláusula contratual é necessária para assegurar a resolubilidade, em conformidade com o primeiro parágrafo, a autoridade de resolução deve ter nomeadamente em conta pelo menos um dos elementos a seguir referidos:
+
+a) o montante e o tipo de acordo ou instrumento;
+
+b) a viabilidade de utilizar os instrumentos de resolução;
+
+c) a credibilidade de utilizar os instrumentos de resolução de molde a cumprir os objetivos da resolução, tendo em conta os eventuais efeitos sobre os credores, contrapartes, clientes e trabalhadores, bem como as medidas que as autoridades de países terceiros possam tomar;
+
+d) a classificação da posição do passivo nos processos normais de insolvência no quadro do direito nacional;
+
+e) o prazo de vencimento do passivo e a eventual recondução do contrato.
+
+###### Artigo 3.º — Prazo razoável em que a autoridade de resolução pode exigir a inclusão de uma cláusula contratual
+
+1. O prazo razoável previsto no artigo 55.º, n.º 2, terceiro parágrafo, da Diretiva 2014/59/UE é de três meses a contar da data em que a autoridade de resolução recebe a notificação referida no artigo 55.º, n.º 2, primeiro parágrafo, dessa diretiva.
+
+2. Se a notificação a que se refere o artigo 55.º, n.º 2, primeiro parágrafo, da Diretiva 2014/59/UE estiver incompleta, a autoridade de resolução deve indicar à instituição ou entidade notificante quais as informações em falta. O prazo previsto no n.º 1 do presente artigo começa a decorrer quando tiverem sido apresentadas todas as informações em falta.
+
+3. Até 6 de outubro 2022, se a notificação for complexa, a autoridade de resolução pode prorrogar por seis meses o prazo referido no n.º 1.
+
+A partir de 7 de outubro de 2022, se a notificação for complexa, a autoridade de resolução pode prorrogar por três meses o prazo referido no n.º 1.
+
+4. A autoridade de resolução informa a instituição ou entidade notificante dessa prorrogação, bem como das razões a ela subjacentes.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 31 de maio de 2021.
+
+***Pela Comissão***
+
+***A Presidente***
+
+**Ursula VON DER LEYEN**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/6e1962b5-1751-11ec-b4fe-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2021329PT.01000201-E0001) [JO L 173 de 12.6.2014, p. 190](http://publications.europa.eu/resource/oj/JOL_2014_173_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/6e1962b5-1751-11ec-b4fe-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2021329PT.01000201-E0002) Regulamento (UE) n.º 1093/2010 do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, que cria uma Autoridade Europeia de Supervisão (Autoridade Bancária Europeia), altera a Decisão n.º 716/2009/CE e revoga a Decisão 2009/78/CE da Comissão ([JO L 331 de 15.12.2010, p. 12](http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC)).

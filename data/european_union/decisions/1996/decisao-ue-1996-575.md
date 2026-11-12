@@ -1,0 +1,269 @@
+---
+schema_version: '1.0'
+id: eu:celex:31996D0575:por
+title: '96/575/CECA: Decisão da Comissão de 30 de Abril de 1996'
+short_title: null
+summary: '96/575/CECA: Decisão da Comissão de 30 de Abril de 1996 relativa às intervenções financeiras de Espanha a favor
+  da indústria do carvão em 1996 (Apenas faz fé o texto em lingua espanhola) (Texto relevante para efeitos do EEE)'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1996/575
+official_date: null
+publication_date: '1996-10-05'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 253 de 5.10.1996
+  number: '253'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/e9ede9a0-31f4-44c6-8a19-7825fe4ed53d.0011.02/DOC_1
+entry_into_force_dates:
+- '1996-05-22'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31996D0575
+  eli: http://data.europa.eu/eli/dec/1996/575/oj
+  oj: oj:JOL_1996_253_R_0015_008
+  dre: null
+  dre_path: null
+  internal: eu:celex:31996D0575:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31996D0575
+  metadata_url: http://publications.europa.eu/resource/cellar/e9ede9a0-31f4-44c6-8a19-7825fe4ed53d.0011
+  content_url: http://publications.europa.eu/resource/cellar/e9ede9a0-31f4-44c6-8a19-7825fe4ed53d.0011.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:20:23Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-06T12:26:36.668+02:00'
+integrity:
+  source_sha256: 9951617b5ac71b0922f1e3e357740371c2543644be7d5369a986cde352135394
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:20:23Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Espanha
+- auxílio estatal
+- cessação de atividade
+- indemnização por despedimento
+- indústria carbonífera
+- reestruturação industrial
+relationships:
+- type: based_on
+  target: celex:31993S3632
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8f67d5d1-c113-470d-8c52-5bd2cc56f5ef
+  date: '1993-12-30'
+- type: cites
+  target: celex:11992E092
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7646a9e6-c77a-4027-bfb1-1c1d6666d12f
+- type: cites
+  target: celex:31994D1072
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1d8b18d9-61c9-4031-b317-2c9363513a15
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:20:23Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# 96/575/CECA: Decisão da Comissão de 30 de Abril de 1996
+
+**96/575/CECA: Decisão da Comissão de 30 de Abril de 1996 relativa às intervenções financeiras de Espanha a favor da indústria do carvão em 1996 (Apenas faz fé o texto em lingua espanhola) (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 253 de 05/10/1996 p. 0015 - 0019*
+
+DECISÃO DA COMISSÃO de 30 de Abril de 1996 relativa às intervenções financeiras de Espanha a favor da indústria do carvão em 1996 (Apenas faz fé o texto em lingua espanhola) (Texto relevante para efeitos do EEE) (96/575/CECA)
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia do Carvão e do Aço,
+
+Tendo em conta a Decisão nº 3632/93/CECA da Comissão, de 28 de Dezembro de 1993, relativa ao regime comunitário das intervenções dos Estados-membros a favor da indústria do carvão (1) e, nomeadamente, o nº 1 do artigo 2º e o artigo 9º
+
+Considerando o seguinte:
+
+I
+
+Por ofício de 6 de Fevereiro de 1996, a Espanha notificou à Comissão, em conformidade com o disposto no nº 1 do artigo 9º da Decisão nº 3632/93/CECA, as intervenções financeiras que se propõe realizar a favor da indústria do carvão durante o exercício de 1996.
+
+Por força da Decisão nº 3632/93/CECA, a Comissão pronuncia-se sobre as seguintes medidas financeiras relativas ao exercício de 1996:
+
+- um auxílio, no valor de 118 678 milhões de pesetas espanholas, destinado à cobertura de perdas de exploração;
+
+- um auxílio, no valor de 17 159 milhões de pesetas espanholas, destinado à cobertura dos auxílios sociais excepcionais concedidos aos trabalhadores que percam o emprego em consequência das medidas de modernização, racionalização e reestruturação, bem como de redução da actividade da indústria do carvão espanhola;
+
+- um auxílio, no valor de 6 587 milhões de pesetas espanholas, destinado à cobertura dos custos técnicos de encerramento de instalações de extracção que resultem das medidas de modernização, racionalização e reestruturação, bem como de redução de actividade da indústria carbonífera espanhola;
+
+- um auxílio, no valor de 50 milhões de pesetas espanholas, destinado a projectos de investigação e de desenvolvimento;
+
+- um auxílio, no valor de 100 milhões de pesetas espanholas, destinado à protecção do ambiente.
+
+As medidas financeiras previstas por Espanha a favor da indústria do carvão estão em conformidade com o artigo 1º da Decisão nº 3632/93/CECA e devem ser aprovadas pela Comissão, nos termos do artigo 9º, que se pronuncia quanto aos objectivos e critérios gerais enunciados no artigo 2º, bem como aos critérios específicos enunciados nos artigos 3º e 4º da referida decisão. Na sua apreciação, a Comissão procede, nos termos do nº 6 do artigo 9º da referida decisão, a uma apreciação da conformidade das medidas com os planos de modernização, racionalização, reestruturação e de redução da actividade da indústria do carvão espanhola, que foram objecto da sua Decisão 94/1072/CECA (2).
+
+II
+
+O auxílio de 118 678 milhões de pesetas que a Espanha prevê conceder à indústria do carvão tem como objectivo compensar total ou parcialmente as perdas de exploração das empresas produtoras de carvão.
+
+O montante notificado subdivide-se em auxílios ao funcionamento no valor de 49 882 milhões de pesetas espanholas, em conformidade com o artigo 3º da Decisão nº 3632/93/CECA, e em auxílios à redução de actividade no valor de 68 796 milhões, em conformidade com o artigo 4º da mesma decisão.
+
+Deste auxílio ao funcionamento no valor de 49 882 milhões de pesetas espanholas, 43 836 milhões serão cobertos pela intervenção financeira da «Oficina de Compensaciones de la Energía Eléctrica» (OFICO), ao passo que os restantes 6 046 milhões serão cobertos pelos orçamentos públicos.
+
+A Espanha adoptou, em 28 de Dezembro de 1995, o Real Decreto nº 2203/1995 (3) sobre os custos específicos resultantes das modalidades de concessão de auxílios às minas de carvão. Este real decreto define os auxílios à cobertura das perdas de exploração, à cobertura de encargos excepcionais e outros auxílios associados à exploração de minas de carvão destinados às empresas carboníferas espanholas que fornecem combustível às empresas produtoras de electricidade.
+
+Tais auxílios serão financiados a partir da retenção de uma percentagem sobre a facturação aos consumidores de energia eléctrica, que será gerida por OFICO. Os auxílios não serão inscritos, em 1996, nos orçamentos públicos nem incluídos em mecanismos estritamente equivalentes. A Comissão toma nota do compromisso de Espanha em alterar o mecanismo de concessão de auxílios em vigor em 1996 antes de 31 de Dezembro de 1996, termo do período transitório máximo de três anos previsto no nº 2 do artigo 2º da Decisão nº 3632/93/CECA, a fim de que seja compatível com o regime previsto na referida decisão.
+
+As empresas espanholas produtoras de carvão, que recebam auxílios ao funcionamento, só poderão aumentar anualmente os seus custos de produção em, no máximo, dois pontos percentuais abaixo do índice de preços no consumidor. Esta redução, em termos reais, contribui, como indicado no nº 2 do artigo 3º da Decisão nº 3632/93/CECA, para aumentar a viabilidade económica das empresas produtoras de carvão mediante a redução dos custos de produção, o que, por sua vez, leva a uma redução progressiva dos auxílios.
+
+A inclusão destas medidas no plano de modernização, racionalização e reestruturação ou de redução de actividade notificado por Espanha, bem como a redução gradual dos auxílios, das quantidades e dos custos previstos para 1996 coadunam-se com os objectivos do nº 1, primeiro e segundo travessões, do artigo 2º da Decisão nº 3632/93/CECA, ou seja, realizar novos progressos no sentido da viabilidade económica das 65 empresas objecto dos auxílios ao funcionamento, em função dos preços do carvão nos mercados internacionais, a fim de conseguir uma redução gradual dos auxílios e, por outro lado, resolver os problemas sociais e regionais relacionados com a evolução da indústria do carvão.
+
+Deste auxílio ao funcionamento de 68 796 milhões de pesetas espanholas, 21 687 milhões serão cobertos pela intervenção da OFICO, ao passo que 47 109 milhões de pesetas serão cobertos pelos orçamentos públicos.
+
+O auxílio de 47 109 milhões de pesetas espanholas, coberto pelo orçamento geral do Estado, destina-se às empresas HUNOSA, Minas de Figaredo S.A. e Mina de la Camocha S.A., situadas na «Cuenca Central de Astúrias», no valor, respectivamente, de 39 433, 4 800 e 2 876 milhões de pesetas espanholas.
+
+O restante auxílio, no valor de 21 687 milhões de pesetas espanholas, destina-se a essas mesmas empresas e a outras situadas nas bacias espanholas situadas nas zonas nordeste, noroeste, e sul, que deverão ser encerradas antes do termo da vigência da Decisão nº 3632/93/CECA.
+
+Estes auxílios contribuem para resolver os problemas sociais e regionais associados à evolução da indústria do carvão. Inserem-se num plano de encerramento, estando, assim, em conformidade com as disposições do artigo 4º da Decisão nº 3632/93/CECA.
+
+A Comissão confirma que um montante de 1 197 milhões de pesetas espanholas, que cobre uma parte da perda de exploração da empresa HUNOSA, corresponde a actividades distintas da produção de carvão, sobre as quais a Comissão deve emitir parecer por um procedimento separado com base no artigo 92º do Tratado CE.
+
+Na sua notificação, a Espanha garantiu que os auxílios concedidos não ultrapassarão, por cada empresa ou unidade de produção, a diferença entre o custo de produção e as receitas previsíveis.
+
+O montante dos auxílios notificados por Espanha correspondentes ao ano de 1996 são 1,5 por cento inferiores aos aprovados pela Comissão para o ano de 1995, enquanto que o preço de venda dos produtores de carvão aos produtores de electricidade se manteve aproximadamente estável.
+
+A Comissão toma nota do compromisso de Espanha no sentido de fazer o necessário para que, o mais tardar em 31 de Dezembro de 1996, o preço de venda do carvão espanhol seja livremente acordado pelas partes contratantes, tendo em conta as condições existentes no mercado mundial.
+
+Tendo em conta o que precede e com base nas informações prestadas por Espanha, estes auxílios são compatíveis com os objectivos previstos na Decisão nº 3632/93/CECA e com o correcto funcionamento do mercado comum.
+
+III
+
+O auxílio de 17 159 milhões de pesetas que Espanha se propõe conceder destina-se a cobrir as indemnizações a favor dos 7 300 trabalhadores das empresas carboníferas espanholas que deverão obter uma reforma antecipada ou que perderão o seu emprego na sequência da aplicação do plano de modernização, racionalização e reestruturação, bem como de redução de actividade da indústria do carvão espanhola.
+
+Parte deste auxílio, no valor de 6 075 milhões de pesetas espanholas, destina-se, respectivamente, às empresas HUNOSA, Minas de Figaredo SA e Mina de la Camocha SA, sendo coberta pelo orçamento geral do Estado.
+
+O restante montante, no valor de 11 084 milhões de pesetas espanholas, destina-se às outras empresas que serão objecto de medidas de modernização, racionalização e reestruturação ou de medidas de redução de actividade e será coberto pela intervenção financeira da OFICO.
+
+A intervenção da OFICO constitui um auxílio na acepção do nº 3 do artigo 1º da Decisão nº 3632/93/CECA que diz respeito à afectação em benefício directo ou indirecto da indústria do carvão, das imposições tornadas obrigatórias pela intervenção dos poderes públicos, sem distinção entre o auxílio concedido pelo Estado e o concedido por organismos públicos ou privados designados pelo primeiro para o gerir. Por conseguinte, a Comissão deve emitir parecer sobre esta medida em conformidade com o artigo 9º da referida decisão.
+
+Estas medidas financeiras constituem operações necessárias para os processos de modernização, racionalização e reestruturação da indústria do carvão espanhola, não podendo, por conseguinte, ser tidas em conta na produção corrente (encargos herdados do passado).
+
+Nos termos do artigo 5º da Decisão nº 3632/93/CECA, estes auxílios, enumerados no anexo da referida decisão, e que dizem respeito aos encargos relativos aos pagamento de prestações sociais decorrentes da passagem à reforma de trabalhadores antes de atingida a idade legal de reforma e a outras despesas excepcionais relativas aos trabalhadores privados do seu emprego na sequência de reestruturações e de racionalização, podem ser considerados compatíveis com o mercado comum se o seu montante não ultrapassar os custos.
+
+A Comissão toma nota do compromisso de Espanha no sentido de adoptar as medidas necessárias para que, o mais tardar em 31 de Dezembro de 1996, este mecanismo de concessão de auxílios esteja em conformidade com o disposto no nº 2 do artigo 2º da Decisão nº 3632/93/CECA.
+
+Tendo em conta o que precede e com base nas informações prestadas por Espanha, estes auxílios são compatíveis com os objectivos da Decisão nº 3632/93/CECA e com o correcto funcionamento do mercado comum.
+
+IV
+
+O auxílio de 6 587 milhões de pesetas que Espanha se propõe conceder destina-se a cobrir parcialmente a desvalorização dos activos imobilizados das empresas carboníferas que são obrigadas a proceder a encerramentos totais ou parciais. Além disso, estas empresas têm de suportar despesas excepcionais ocasionadas pelos encerramentos graduais que terão lugar, numa primeira fase, até 31 de Dezembro de 1997.
+
+Parte deste auxílio, no valor de 2 244 milhões de pesetas espanholas, destina-se à empresa HUNOSA e será coberta pelo orçamento geral do Estado. O restante montante, no valor de 4 343 milhões de pesetas espanholas, respeitante às outras empresas que procederão a uma redução de actividade, será coberto pela intervenção financeira da OFICO.
+
+Estas medidas financeiras constituem operações necessárias para os processos de modernização, racionalização e reestruturação da indústria do carvão espanhola, não podendo, por conseguinte, ser tidas em conta na produção corrente (encargos herdados do passado).
+
+Nos termos do artigo 5º da Decisão nº 3632/93/CECA, os auxílios enumerados no anexo da referida decisão, e que dizem respeito às depreciações intrínsecas excepcionais, desde que resultem da reestruturação da indústria (não tendo em conta qualquer reavaliação efectuada depois de 1 de Janeiro de 1986 que ultrapasse a taxa de inflação), podem ser considerados compatíveis com o mercado comum se o seu montante não ultrapassar os custos.
+
+A Comissão toma nota do compromisso de Espanha no sentido de adoptar as medidas necessárias para que, o mais tardar em 31 de Dezembro de 1996, este mecanismo de concessão de auxílios esteja em conformidade com o disposto no nº 2 do artigo 2º da Decisão nº 3632/93/CECA.
+
+Tendo em conta o que precede e com base nas informações prestadas por Espanha, estes auxílios são compatíveis com os objectivos da Decisão nº 3632/93/CECA e com o correcto funcionamento do mercado comum.
+
+V
+
+O auxílio de 50 milhões de pesetas que Espanha se propõe conceder a determinadas empresas carboníferas e a organismos de investigação no sector mineiro destina-se a apoiar os esforços de investigação e de desenvolvimento. Este auxílio, inferior a 20 % dos custos totais das referidas empresas no domínio da investigação e do desenvolvimento tecnológico, destina-se a resolver os problemas específicos das jazidas espanholas bem como a melhorar as técnicas de utilização do carvão que tenham um impacto favorável a nível do ambiente.
+
+Este auxílio, mencionado explicitamente no artigo 6º da Decisão nº 3632/93/CECA, contribui para a melhoria da tecnologia de extracção do carvão, estando destinado a reduzir os custos de produção e, por conseguinte, a diminuir progressivamente os auxílios. Na análise deste auxílio, a Comissão comprovou que o auxílio respeitava as regras estabelecidas no quadro comunitário dos auxílios de Estado à investigação e ao desenvolvimento.
+
+Tendo em conta o que precede e com base nas informações prestadas por Espanha, estes auxílios são compatíveis com os objectivos da Decisão nº 3632/93/CECA e com o correcto funcionamento do mercado comum.
+
+VI
+
+O auxílio de 100 milhões de pesetas que Espanha se propõe conceder a determinadas empresas carboníferas destina-se a apoiar os esforços a favor da protecção do ambiente.
+
+Este auxílio, mencionado explicitamente no artigo 7º da Decisão nº 3632/93/CECA, destina-se a facilitar a adaptação das empresas carboníferas às novas normas de protecção do ambiente, não correspondendo, em caso algum, a reestruturações a efectuar pelas empresas associadas à própria actividade mineira. Na análise deste auxílio, a Comissão comprovou que o auxílio respeitava as regras estabelecidas no quadro comunitário dos auxílios de Estado à protecção do ambiente.
+
+Tendo em conta o que precede e com base nas informações prestadas por Espanha, estes auxílios são compatíveis com os objectivos da Decisão nº 3632/93/CECA e com o correcto funcionamento do mercado comum.
+
+VII
+
+O Governo espanhol assegurará que a concessão de auxílios ao funcionamento, previstos na presente decisão, não dê lugar a qualquer discriminação entre produtores, compradores e utilizadores no mercado comunitário do carvão.
+
+A Comissão recorda que, no âmbito do parecer sobre o plano de modernização, racionalização, reestruturação e redução da actividade da indústria do carvão espanhola, solicitou à Espanha a notificação, o mais tardar em 30 de Março e em 30 de Setembro de 1997, de um relatório pormenorizado sobre a execução do plano de reestruturação da empresa Minero Siderúrgica de Ponferrada.
+
+Tendo em conta o que precede e com base nas informações prestadas por Espanha, os auxílios e as medidas previstas a favor da indústria do carvão são compatíveis com os objectivos da Decisão nº 3632/93/CECA e com o correcto funcionamento do mercado comum.
+
+Em conformidade com o nº 1, segundo travessão, do artigo 3º e com os nºs 2 e 3 do artigo 9º da Decisão nº 3632/93/CECA, a Comissão deve verificar se os auxílios autorizados para a produção corrente têm como finalidade exclusiva a enunciada nos artigos 3º e 4º da decisão. A este respeito, a Comissão deve ser informada dos montantes e das modalidades de repartição dos auxílios.
+
+ADOPTOU A PRESENTE DECISÃO:
+
+###### Artigo 1º
+
+A Espanha é autorizada a conceder, a título do exercício de 1996, os seguintes auxílios:
+
+- um auxílio de 117 481 milhões de pesetas espanholas destinado a cobrir perdas de exploração de empresas carboníferas;
+
+- um auxílio de 17 159 milhões de pesetas espanholas destinado a cobrir os auxílios sociais excepcionais concedidos aos trabalhadores que percam o seu emprego em consequência das medidas de modernização, racionalização e reestruturação, bem como de redução de actividade da indústria do carvão espanhola;
+
+- um auxílio de 6 587 milhões de pesetas espanholas destinado a cobrir os custos técnicos de encerramento de instalações de extracção que resultem de medidas de modernização, racionalização e reestruturação, bem como de redução de actividade da indústria do carvão espanhola;
+
+- um auxílio no valor de 50 milhões de pesetas espanholas, destinado a projectos de investigação e de desenvolvimento;
+
+- um auxílio no valor de 100 milhões de pesetas espanholas destinado à protecção do ambiente.
+
+###### Artigo 2º
+
+A Espanha assegurará a restituição de todas as despesas não efectuadas ou sobreavaliadas relativas a qualquer um dos elementos objecto da presente decisão.
+
+###### Artigo 3º
+
+A Espanha notificará a Comissão, até 30 de Junho de 1997, do montante dos auxílios que tenha efectivamente concedido a título do exercício de 1996.
+
+###### Artigo 4º
+
+O Reino de Espanha é o destinatário da presente decisão.
+
+Feito em Bruxelas, em 30 de Abril de 1996.
+
+Pela Comissão
+
+Christos PAPOUTSIS
+
+Membro da Comissão
+
+(1) JO nº L 329 de 30. 12. 1993, p. 12.
+
+(2) JO nº L 385 de 31. 12. 1994, p. 31.
+
+(3) BOE nº 311 de 29.12.1995, p. 37447

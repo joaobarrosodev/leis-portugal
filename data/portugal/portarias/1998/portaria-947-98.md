@@ -28,11 +28,10 @@ publication:
 entry_into_force_dates:
 - '1998-11-03'
 entry_into_force:
-  date: '1998-11-03'
-  rule: no dia da sua publicação, sem prejuízo da comercialização, durante o período de um ano, de margarinas e outras matérias
-    gordas que obedeçam ao disposto no Decreto-Lei n.º 59/85, de 11 de Março
-  method: clausula
-  article: n-3
+  date: '1998-11-08'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
   effects_date: null
   effects_rule: null
   end_date: null

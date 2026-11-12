@@ -28,7 +28,7 @@ entry_into_force:
   date: '1980-08-26'
   rule: na data da sua publicação e revoga o Decreto-Lei n.º 488/70, de 21 de Outubro
   method: clausula
-  article: art-16
+  article: art-15
   effects_date: null
   effects_rule: null
   end_date: null

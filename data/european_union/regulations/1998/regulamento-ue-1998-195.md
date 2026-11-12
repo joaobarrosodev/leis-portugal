@@ -1,0 +1,161 @@
+---
+schema_version: '1.0'
+id: eu:celex:31998R0195:por
+title: Regulamento (CE) nº 195/98 da Comissão de 26 de Janeiro de 1998
+short_title: null
+summary: Regulamento (CE) nº 195/98 da Comissão de 26 de Janeiro de 1998 que completa o anexo do Regulamento (CE) nº 2400/96
+  relativo à inscrição de determinadas denominações no registo das denominações de origem protegidas e das indicações geográficas
+  protegidas previsto no Regulamento (CEE) nº 2081/92 do Conselho relativo à protecção das indicações geográficas e denominações
+  de origem dos produtos agrícolas e dos géneros alimentícios (Texto relevante para efeitos do EEE)
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1998/195
+official_date: null
+publication_date: '1998-01-27'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 20 de 27.1.1998
+  number: '20'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/5f18017d-e15e-4517-9439-0d7bff54acd1.0011.02/DOC_1
+entry_into_force_dates:
+- '1998-01-27'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31998R0195
+  eli: http://data.europa.eu/eli/reg/1998/195/oj
+  oj: oj:JOL_1998_020_R_0020_006
+  dre: null
+  dre_path: null
+  internal: eu:celex:31998R0195:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31998R0195
+  metadata_url: http://publications.europa.eu/resource/cellar/5f18017d-e15e-4517-9439-0d7bff54acd1.0011
+  content_url: http://publications.europa.eu/resource/cellar/5f18017d-e15e-4517-9439-0d7bff54acd1.0011.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:22:59Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2015-04-17T12:01:00.280+02:00'
+integrity:
+  source_sha256: 838cba1887e90b1b969a64158601444d79a525cfba1d0b591e0066e0393fb0bf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:22:59Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Espanha
+- alimentação humana
+- denominação de origem
+- localização da produção
+- produto à base de carne
+relationships:
+- type: amends
+  target: celex:31996R2400
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9accd4ea-351b-4fc9-99f2-b9a9a511ec5d
+  date: '1996-12-17'
+- type: based_on
+  target: celex:31992R2081
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7332311d-d47d-4d9b-927e-d953fbe79685
+  date: '1992-07-24'
+article_structure:
+  article_count: 2
+  section_count: 1
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:22:59Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CE) nº 195/98 da Comissão de 26 de Janeiro de 1998
+
+**Regulamento (CE) nº 195/98 da Comissão de 26 de Janeiro de 1998 que completa o anexo do Regulamento (CE) nº 2400/96 relativo à inscrição de determinadas denominações no registo das denominações de origem protegidas e das indicações geográficas protegidas previsto no Regulamento (CEE) nº 2081/92 do Conselho relativo à protecção das indicações geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 020 de 27/01/1998 p. 0020 - 0021*
+
+REGULAMENTO (CE) Nº 195/98 DA COMISSÃO de 26 de Janeiro de 1998 que completa o anexo do Regulamento (CE) nº 2400/96 relativo à inscrição de determinadas denominações no registo das denominações de origem protegidas e das indicações geográficas protegidas previsto no Regulamento (CEE) nº 2081/92 do Conselho relativo à protecção das indicações geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios (Texto relevante para efeitos do EEE)
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CEE) nº 2081/92 do Conselho, de 14 de Julho de 1992, relativo à protecção das indicações geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios (1), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 1068/97 da Comissão (2), e, nomeadamente, os nº 3 e 4 do seu artigo 6º,
+
+Considerando que, em conformidade com o artigo 5º do Regulamento (CEE) nº 2081/92, os Estados-membros transmitiram à Comissão pedidos de registo de determinadas denominações como indicações geográficas ou denominações de origem;
+
+Considerando que se verificou que, nos termos do nº 1 do artigo 6º do referido regulamento, um pedido está conforme com o mesmo regulamento, incluindo, nomeadamente, todos os elementos previstos no seu artigo 4º;
+
+Considerando que, após a publicação da denominação constante em anexo ao presente regulamento no Jornal Oficial das Comunidades Europeias (3), foi transmitida à Comissão uma declaração de oposição, na acepção do artigo 7º do supracitado regulamento, mas que a mesma foi considerada não fundamentada e, portanto inadmissível;
+
+Considerando que, por conseguinte, tal denominação deve ser inscrita no registo das denominações de origem protegidas e das indicações geográficas protegidas e ser, pois, protegida à escala comunitária como denominação de origem;
+
+Considerando que o anexo do presente regulamento completa o anexo do Regulamento (CE) nº 2400/96 da Comissão (4), com a última redacção que lhe foi dada pelo Regulamento (CE) nº 2396/97 (5),
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1º
+
+O anexo do Regulamento (CE) nº 2400/96 é completado com a denominação constante em anexo, a qual é inscrita como denominação de origem protegida (DOP) no registo das denominações de origem protegidas e das indicações geográficas protegidas, previsto no nº 3 do artigo 6º do Regulamento (CEE) nº 2081/92.
+
+###### Artigo 2º
+
+O presente regulamento entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.
+
+Feito em Bruxelas, em 26 de Janeiro de 1998.
+
+Pela Comissão
+
+Franz FISCHLER
+
+Membro da Comissão
+
+(1) JO L 208 de 24. 7. 1992, p. 1.
+
+(2) JO L 156 de 13. 6. 1997, p. 10.
+
+(3) JO C 246 de 24. 8. 1996, p. 12.
+
+(4) JO L 327 de 18. 12. 1996, p. 11.
+
+(5) JO L 331 de 3. 12. 1997, p. 3.
+
+## ANEXO — PRODUTOS DO ANEXO II DO TRATADO DESTINADOS À ALIMENTAÇÃO HUMANA
+
+Produtos à base de carne:
+
+ESPANHA:
+
+- Jamón de Huelva (AOP)

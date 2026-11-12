@@ -1,0 +1,229 @@
+---
+schema_version: '1.0'
+id: eu:celex:32023D1157:por
+title: Decisão de Execução (UE) 2023/1157 da Comissão de 9 de junho de 2023
+short_title: null
+summary: Decisão de Execução (UE) 2023/1157 da Comissão de 9 de junho de 2023 sobre objeções não resolvidas relativas aos
+  termos e condições da autorização do produto biocida Virazan, comunicadas pela França em conformidade com o Regulamento
+  (UE) n.o 528/2012 do Parlamento Europeu e do Conselho [notificada com o número C(2023) 3710] (Texto relevante para efeitos
+  do EEE)
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão de Execução
+issuing_authority:
+- Comissão Europeia
+- SANTE
+proposing_entity: null
+official_number: 2023/1157
+official_date: null
+publication_date: '2023-06-13'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 152 de 13.6.2023
+  number: '152'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2023-06-12'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32023D1157
+  eli: http://data.europa.eu/eli/dec_impl/2023/1157/oj
+  oj: oj:JOL_2023_152_R_0009
+  dre: null
+  dre_path: null
+  internal: eu:celex:32023D1157:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32023D1157
+  metadata_url: http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:20:34Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-10-15T14:38:18.913+02:00'
+integrity:
+  source_sha256: ba992afdabc097f5cc18e0cd87f059450ae82422fcd80481e571040f9d48022f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:20:34Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- França
+- autorização de venda
+- biocida
+- matéria perigosa
+- norma de comercialização
+- produto químico
+- proteção do ambiente
+- risco sanitário
+- roedor
+- saúde animal
+relationships:
+- type: based_on
+  target: celex:32012R0528
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fa07f386-c733-11e1-b84a-01aa75ed71a1
+  date: '2012-05-22'
+- type: cites
+  target: celex:31998L0008
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dd121338-803b-4793-b8bd-6db66b18104a
+- type: cites
+  target: celex:32021D0333
+  label: null
+  source: http://publications.europa.eu/resource/cellar/aaaad4c1-773b-11eb-9ac9-01aa75ed71a1
+- type: cites
+  target: celex:32022D1005
+  label: null
+  source: http://publications.europa.eu/resource/cellar/22807e39-f5b3-11ec-b976-01aa75ed71a1
+- type: cites
+  target: celex:32022D1006
+  label: null
+  source: http://publications.europa.eu/resource/cellar/47cfe27c-f5b3-11ec-b976-01aa75ed71a1
+- type: cites
+  target: celex:32022D1388
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7d23a340-186e-11ed-8fa0-01aa75ed71a1
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:20:34Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DE EXECUÇÃO (UE) 2023/1157 DA COMISSÃO
+
+de 9 de junho de 2023
+
+sobre objeções não resolvidas relativas aos termos e condições da autorização do produto biocida Virazan, comunicadas pela França em conformidade com o Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho
+
+*[notificada com o número C(2023) 3710]*
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho, de 22 de maio de 2012, relativo à disponibilização no mercado e à utilização de produtos biocidas [([^1])](http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2023152PT.01002101-E0001), nomeadamente o artigo 36.º, n.º 3,
+
+Considerando o seguinte:
+
+(1) Em 8 de janeiro de 2016, o produto biocida Virazan foi autorizado em França por reconhecimento mútuo sequencial de uma autorização concedida pelo Reino Unido em conformidade com o artigo 33.º do Regulamento (UE) n.º 528/2012. O produto biocida é um rodenticida pertencente ao tipo de produtos 14 e é colocado no mercado em caixas de isco invioláveis pré-carregadas utilizadas por profissionais para o controlo de ratos em espaços interiores. O produto biocida contém a substância ativa aprovada alfacloralose. O titular da autorização do produto biocida é a empresa SBM Développement SAS.
+
+(2) Em 2019, a França foi informada pelos Países Baixos e pela Finlândia de que, em 2018, os centros antiveneno, os proprietários de animais de companhia e as clínicas veterinárias tinham comunicado um aumento significativo de casos de envenenamento primário e secundário de gatos e cães com sintomas de envenenamento por alfacloralose. Na França, os centros veterinários antiveneno franceses tinham também comunicado um aumento dos casos de envenenamento por alfacloralose em animais de companhia, principalmente o envenenamento primário de cães, em 2017 e 2018.
+
+(3) Em 9 de dezembro de 2019, a França alterou a autorização do produto biocida em conformidade com o artigo 48.º, n.º 1, alínea a), do Regulamento (UE) n.º 528/2012, a fim de dar resposta aos incidentes de envenenamento primário envolvendo cães e aos incidentes de envenenamento secundário envolvendo gatos.
+
+(4) A França alterou a autorização exigindo uma rotulagem adicional, no produto biocida, para indicar o risco para os seres humanos e os organismos não visados e, na embalagem, para indicar a obrigação de utilizar o produto biocida apenas em caixas de isco.
+
+(5) Em 15 de abril de 2020, nos termos do artigo 48.º, n.º 3, terceiro parágrafo, em conjugação com o artigo 35.º, n.º 2, do Regulamento (UE) n.º 528/2012, a Alemanha comunicou ao grupo de coordenação objeções à alteração da autorização do produto biocida introduzida pela França.
+
+(6) A objeção da Alemanha dizia respeito à base jurídica nos termo da qual o produto pode ser autorizado, uma vez que, segundo a Alemanha, o produto não satisfaz plenamente as condições do artigo 19.º, n.º 1, do Regulamento (UE) n.º 528/2012 devido ao risco de envenenamento primário e secundário dos animais, pelo que só pode ser autorizado nos termos do artigo 19.º, n.º 5. A França considerou que o produto biocida cumpre o disposto no artigo 19.º, n.º 1, do Regulamento (UE) n.º 528/2012 e que, por conseguinte, o artigo 19.º, n.º 1, constitui a base jurídica correta para a autorização alterada.
+
+(7) Em 6 de junho de 2020, o secretariado do grupo de coordenação convidou os outros Estados-Membros em causa e o titular da autorização a apresentarem observações escritas sobre as objeções. O titular da autorização apresentou observações escritas em 30 de junho de 2020, 6 de julho de 2020 e 23 de julho de 2020. As objeções foram debatidas no grupo de coordenação em 6 e 23 de julho de 2020, com a participação do titular da autorização.
+
+(8) Uma vez que não se chegou a acordo no grupo de coordenação, em 21 de outubro de 2020 a França, enquanto Estado-Membro de referência para efeitos da alteração da autorização nos termos do artigo 48.º, n.º 1, primeiro parágrafo, do Regulamento (UE) n.º 528/2012, comunicou as objeções não resolvidas à Comissão, nos termos do artigo 36.º, n.º 1, do mesmo regulamento, e enviou à Comissão uma exposição pormenorizada da questão sobre a qual os Estados-Membros não puderam chegar a acordo e das razões do seu desacordo. Essa exposição foi transmitida aos Estados-Membros interessados e ao titular da autorização.
+
+(9) Em maio de 2021, a Agência Finlandesa da Segurança e dos Produtos Químicos solicitou um parecer à Autoridade Alimentar Finlandesa e à Associação Veterinária da Finlândia sobre os efeitos nos animais de companhia dos produtos biocidas que contêm alfacloralose e a necessidade de restringir a utilização desses produtos. Esse parecer, que a Finlândia partilhou com a Comissão, indicava que os produtos biocidas que contêm alfacloralose causam danos e sofrimento significativos tanto aos animais de companhia como à fauna selvagem e que o número de envenenamentos de animais de companhia comunicados à Agência Finlandesa da Segurança e dos Produtos Químicos e à Autoridade Alimentar Finlandesa é significativo.
+
+(10) Além disso, a Agência Sueca dos Produtos Químicos obteve do Hospital Veterinário Universitário de Uppsala, na Suécia, informações adicionais sob a forma de análises de amostras de sangue que confirmaram a presença de alfacloralose no sangue dos animais envenenados.
+
+(11) Nos termos do artigo 19.º, n.º 1, alínea b), subalínea iii), do Regulamento (UE) n.º 528/2012, a concessão de uma autorização está vinculada à condição de o produto biocida não ter, por si só nem em consequência dos seus resíduos, efeitos inaceitáveis, imediatos ou a prazo, na saúde dos seres humanos, incluindo a saúde dos grupos vulneráveis, nem na saúde dos animais, diretamente ou através da água potável, dos géneros alimentícios, dos alimentos para animais ou do ar, ou através de quaisquer outros efeitos indiretos.
+
+(12) O artigo 19.º, n.º 5, primeiro parágrafo, do Regulamento (UE) n.º 528/2012 estabelece que um produto biocida pode ser autorizado quando as condições estabelecidas no artigo 19.º, n.º 1, alínea b), subalínea iii), não estão totalmente preenchidas, se a não-autorização do produto biocida tiver impactos negativos desproporcionados para a sociedade em comparação com os riscos para a saúde humana, para a saúde animal ou para o ambiente decorrentes da sua utilização nas condições estabelecidas na autorização. Além disso, o artigo 19.º, n.º 5, segundo parágrafo, dispõe que a utilização de um produto biocida autorizado nos termos desta disposição está sujeita a medidas apropriadas de redução dos riscos, a fim de garantir que a exposição dos seres humanos e do ambiente a esses produtos biocidas é minimizada. A utilização de um produto biocida autorizado nos termos desse número é reservada aos Estados-Membros nos quais se verifique a condição estabelecida no artigo 19.º, n.º 5, primeiro parágrafo.
+
+(13) A Comissão analisou cuidadosamente as informações apresentadas pelos Estados-Membros e pelo titular da autorização do produto biocida, incluindo o facto de também terem sido comunicados incidentes de envenenamento de animais com produtos que contêm alfacloralose noutros Estados-Membros e na Noruega. A Comissão tem igualmente em conta o parecer da Autoridade Alimentar Finlandesa e da Associação Veterinária da Finlândia, bem como os relatórios do Hospital Veterinário Universitário de Uppsala e da Associação Veterinária da Suécia, que indicam claramente que o produto biocida tem efeitos inaceitáveis na saúde animal e que confirmam, através de testes analíticos realizados nos animais envenenados, que ocorreu um número significativo de incidentes de envenenamento secundário por alfacloralose envolvendo gatos, bem como todas as informações fornecidas e os debates realizados no contexto dos desacordos relativos a outros produtos biocidas que contêm alfacloralose que foram comunicados à Comissão nos termos do artigo 36.º, n.º 1, do Regulamento (UE) n.º 528/2012.
+
+(14) A Comissão reconhece que é técnica e cientificamente impossível associar os casos de envenenamento secundário comunicados a um produto biocida específico, uma vez que não é possível identificar qual dos produtos específicos foi ingerido pelo rato que foi ingerido pelo gato. Só é possível detetar a presença da substância ativa alfacloralose no tecido dos animais e, por vezes, nas carcaças de roedores mortos no estômago de gatos envenenados. No entanto, é evidente que esses incidentes de envenenamento estavam relacionados com produtos biocidas que contêm alfacloralose, incluindo o produto biocida.
+
+(15) Com base em considerações semelhantes, a Comissão adotou recentemente, relativamente a produtos semelhantes que contêm alfacloralose, as Decisões de Execução (UE) 2022/1005 [([^2])](http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2023152PT.01002101-E0002), (UE) 2022/1006 [([^3])](http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2023152PT.01002101-E0003) e (UE) 2022/1388 [([^4])](http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2023152PT.01002101-E0004) da Comissão.
+
+(16) A Comissão considera que, embora as condições estabelecidas no artigo 19.º, n.º 1, alínea b), subalínea iii), do Regulamento (UE) n.º 528/2012 não sejam plenamente cumpridas devido aos riscos inaceitáveis para a saúde animal decorrentes da utilização dos produtos biocidas, não foram apresentadas objeções ao grupo de coordenação sobre as restantes condições estabelecidas no artigo 19.º, n.º 1, alínea b), e, no que diz respeito aos riscos para a saúde animal identificados, as medidas de redução dos riscos aplicadas pelos Estados-Membros são suscetíveis de reduzir o risco de envenenamento primário e secundário.
+
+(17) Assim, a Comissão considera que, devido ao risco de envenenamento primário e secundário de cães em França e de gatos em vários Estados-Membros, o produto biocida não satisfaz plenamente as condições estabelecidas no artigo 19.º, n.º 1, alínea b), subalínea iii), do Regulamento (UE) n.º 528/2012.
+
+(18) Por conseguinte, em conformidade com o artigo 19.º, n.º 5, do Regulamento (UE) n.º 528/2012, o produto biocida só pode ser autorizado nos Estados-Membros que considerem que a sua não-autorização resultaria em impactos negativos desproporcionados para a sociedade em comparação com os riscos para a saúde humana, a saúde animal ou o ambiente decorrentes da utilização do produto biocida nas condições estabelecidas na autorização.
+
+(19) Além disso, em conformidade com o artigo 19.º, n.º 5, do Regulamento (UE) n.º 528/2012, a utilização do produto biocida deve ser sujeita a medidas apropriadas de redução dos riscos, a fim de garantir que a exposição dos seres humanos e do ambiente a esse produto biocida é minimizada.
+
+(20) A substância ativa alfacloralose foi incluída no anexo I da Diretiva 98/8/CE do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019.03/DOC_1#ntr5-L_2023152PT.01002101-E0005) para utilização em produtos biocidas do tipo 14 e, por conseguinte, em conformidade com o artigo 86.º do Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho, é considerada aprovada ao abrigo desse regulamento, nos termos das especificações e condições definidas no anexo I da Diretiva 98/8/CE.
+
+(21) Em 24 de dezembro de 2019, nos termos do artigo 13.º, n.º 1, do Regulamento (UE) n.º 528/2012, foi apresentado à Agência Europeia dos Produtos Químicos um pedido de aprovação da substância ativa alfacloralose. Em 15 de outubro de 2020, a autoridade competente de avaliação da Polónia informou a Comissão da sua decisão, nos termos do artigo 14.º, n.º 1, do referido regulamento, de que é necessária uma avaliação completa do pedido de renovação.
+
+(22) Por razões independentes da vontade dos requerentes, a aprovação da alfacloralose para utilização em produtos biocidas do tipo 14, cuja validade deveria expirar em 30 de junho de 2021, teria expirado antes de ser tomada uma decisão quanto à sua renovação. Por conseguinte, a validade da aprovação da alfacloralose foi adiada para 31 de dezembro de 2023 pela Decisão de Execução (UE) 2021/333 da Comissão [([^6])](http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019.03/DOC_1#ntr6-L_2023152PT.01002101-E0006), a fim de permitir o exame do pedido.
+
+(23) O risco de envenenamento primário e secundário de animais devido à utilização de produtos biocidas que contenham alfacloralose, as diferenças na ocorrência de incidentes de envenenamento primário e secundário entre os Estados-Membros e as medidas necessárias de redução dos riscos a aplicar para reduzir esse risco para um nível aceitável devem ser também avaliados no contexto da avaliação do pedido de renovação da aprovação da alfacloralose, devendo subsequentemente ser devidamente tidos em conta pelos Estados-Membros na autorização de produtos biocidas que contêm alfacloralose.
+
+(24) Por conseguinte, a Comissão considera que as medidas de redução dos riscos para fazer face ao risco de envenenamento primário e secundário decorrente da utilização do produto biocida, devem, excecionalmente, até à conclusão da avaliação do pedido de renovação da aprovação da alfacloralose, ter em conta as circunstâncias específicas e as provas validadas cientificamente disponíveis da ocorrência de incidentes de envenenamento primário e secundário em cada Estado-Membro.
+
+(25) Em 26 de outubro de 2022, a Comissão deu ao titular da autorização a oportunidade de apresentar observações escritas em conformidade com o artigo 36.º, n.º 2, do Regulamento (UE) n.º 528/2012. O titular da autorização apresentou observações, que a Comissão posteriormente tomou em consideração.
+
+(26) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente dos Produtos Biocidas,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+O produto biocida identificado pelos números de referência BE-0003002-0000, CH-0009788-0000, DE-0011801-0000, DK-0007141-0000, FR-0005302-0000, IE-0007441-0000, IT-0012826-0000, NL-0005019-0000, PT-0010276-0000 no Registo de Produtos Biocidas não satisfaz plenamente as condições estabelecidas no artigo 19.º, n.º 1, alínea b), subalínea iii), do Regulamento (UE) n.º 528/2012.
+
+O produto biocida só pode ser autorizado em conformidade com o artigo 19.º, n.º 5, do Regulamento (UE) n.º 528/2012 nos Estados-Membros que considerem que a sua não-autorização resultaria em impactos negativos desproporcionados para a sociedade em comparação com os riscos para a saúde humana, a saúde animal ou o ambiente decorrentes da utilização do produto biocida nas condições estabelecidas na autorização.
+
+A utilização do produto biocida está sujeita a medidas apropriadas de redução dos riscos, tal como referido no artigo 19.º, n.º 5, do Regulamento (UE) n.º 528/2012, que devem ser adotadas em cada Estado-Membro com base nas circunstâncias específicas e nas provas disponíveis da ocorrência de incidentes de envenenamento primário e secundário no respetivo Estado-Membro.
+
+###### Artigo 2.º
+
+Os destinatários da presente decisão são os Estados-Membros.
+
+Feito em Bruxelas, em 9 de junho de 2023.
+
+***Pela Comissão***
+
+**Stella KYRIAKIDES**
+
+***Membro da Comissão***
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2023152PT.01002101-E0001) [JO L 167 de 27.6.2012, p. 1](http://publications.europa.eu/resource/oj/JOL_2012_167_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2023152PT.01002101-E0002) Decisão de Execução (UE) 2022/1005 da Comissão, de 23 de junho de 2022, sobre objeções não resolvidas relativas aos termos e condições da autorização da família de produtos biocidas Alphachloralose Grain comunicadas pela França e pela Suécia em conformidade com o Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho [notificada com o número C(2022) 4193] ([JO L 168 de 27.6.2022, p. 86](http://publications.europa.eu/resource/oj/JOL_2022_168_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2023152PT.01002101-E0003) Decisão de Execução (UE) 2022/1006 da Comissão, de 24 de junho de 2022, sobre objeções não resolvidas relativas aos termos e condições da autorização da família de produtos biocidas Alphachloralose Pasta, comunicadas pela França e pela Suécia em conformidade com o Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho [notificada com o número C(2022) 4226] ([JO L 168 de 27.6.2022, p. 90](http://publications.europa.eu/resource/oj/JOL_2022_168_R_TOC)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2023152PT.01002101-E0004) Decisão de Execução (UE) 2022/1388 da Comissão, de 23 de junho de 2022, sobre objeções não resolvidas relativas aos termos e condições da autorização do produto biocida Pat’Appât Souricide Canadien Foudroyant, comunicadas pela França e pela Suécia em conformidade com o Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho [notificada com o número C(2022) 4220] C/2022/4220 ([JO L 208 de 10.8.2022, p. 7](http://publications.europa.eu/resource/oj/JOL_2022_208_R_TOC)).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019.03/DOC_1#ntc5-L_2023152PT.01002101-E0005) Diretiva 98/8/CE do Parlamento Europeu e do Conselho, de 16 de fevereiro de 1998, relativa à colocação de produtos biocidas no mercado ([JO L 123 de 24.4.1998, p. 1](http://publications.europa.eu/resource/oj/JOL_1998_123_R_TOC)).
+
+> [(^6^)](http://publications.europa.eu/resource/cellar/3fd17a9c-0984-11ee-b12e-01aa75ed71a1.0019.03/DOC_1#ntc6-L_2023152PT.01002101-E0006) Decisão de Execução (UE) 2021/333 da Comissão, de 24 de fevereiro de 2021, que prorroga a validade da aprovação da alfacloralose para utilização em produtos biocidas do tipo 14 ([JO L 65 de 25.2.2021, p. 58](http://publications.europa.eu/resource/oj/JOL_2021_065_R_TOC)).

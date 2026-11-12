@@ -1,0 +1,148 @@
+---
+schema_version: '1.0'
+id: eu:celex:32007D0722:por
+title: '2007/722/CE: Decisão do Conselho, de 22 de Outubro de 2007'
+short_title: null
+summary: '2007/722/CE: Decisão do Conselho, de 22 de Outubro de 2007 , relativa à concessão de uma ajuda estatal de emergência
+  pelas autoridades da República da Roménia para mitigar as consequências da seca de 2006/2007 no sector agrícola'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2007/722
+official_date: null
+publication_date: '2007-11-10'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 293 de 10.11.2007
+  number: '293'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/394210e3-a9e6-457a-b20f-0bc336d1ce8d.0018.01/DOC_1
+entry_into_force_dates:
+- '2007-11-30'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32007D0722
+  eli: http://data.europa.eu/eli/dec/2007/722/oj
+  oj: oj:JOL_2007_293_R_0005_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32007D0722:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32007D0722
+  metadata_url: http://publications.europa.eu/resource/cellar/394210e3-a9e6-457a-b20f-0bc336d1ce8d.0018
+  content_url: http://publications.europa.eu/resource/cellar/394210e3-a9e6-457a-b20f-0bc336d1ce8d.0018.02/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:36:21Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-12-04T10:47:28.640+01:00'
+integrity:
+  source_sha256: 3defc1629238d91e6adc8a6e9191bb06b9dc9697ee5cea1f0fe512cc9c9007fd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:36:21Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Roménia
+- ajuda à agricultura
+- auxílio estatal
+- seca
+relationships:
+- type: based_on
+  target: celex:12006E088
+  label: null
+  source: http://publications.europa.eu/resource/cellar/16f6afda-5688-4124-a3d3-e00d3243d4a6
+  date: '2007-01-31'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:36:21Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DO CONSELHO
+
+de 22 de Outubro de 2007
+
+relativa à concessão de uma ajuda estatal de emergência pelas autoridades da República da Roménia para mitigar as consequências da seca de 2006/2007 no sector agrícola
+
+(2007/722/CE)
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que estabelece a Comunidade Europeia, nomeadamente o terceiro parágrafo do n.º 2 do artigo 88.º,
+
+Tendo em conta o pedido do Governo da Roménia de 25 de Julho de 2007,
+
+Considerando o seguinte:
+
+(1) Em 25 de Julho de 2007, a Roménia apresentou ao Conselho um pedido de decisão nos termos do terceiro parágrafo do n.º 2 do artigo 88.º do Tratado que declare a compatibilidade com o mercado comum do plano da Roménia de conceder uma ajuda nacional aos agricultores romenos atingidos por uma seca extrema para poderem reiniciar o ciclo produtivo.
+
+(2) A Roménia enfrentou a seca mais severa e mais longa dos últimos sessenta anos, devido ao défice de chuva durante o Inverno de 2006/2007 e a Primavera de 2007 (menos de 350 mm/m^2^, de 1 de Setembro de 2006 a 31 de Maio de 2007) e às temperaturas extremamente elevadas durante o Verão de 2007.
+
+(3) Antes da persistente estiagem do Verão de 2007, as reservas de água no solo já tinham diminuído fortemente em grande parte da Roménia, devido à evaporação acelerada causada pelas temperaturas superiores à média durante o Inverno de 2006-2007 e a Primavera de 2007.
+
+(4) De acordo com a avaliação do impacto nas colheitas da Primavera e do Outono, a seca reduziu espectacularmente a produção de cereais e de forragens, estimando-se que a produção média de cereais em 2007 nem sequer chegue aos 45 % da média dos anos anteriores.
+
+(5) Os agricultores romenos de 34 departamentos, num total de 42, foram severamente atingidos pela persistente estiagem que causou importantes prejuízos nos sectores de produção vegetal e animal, cujo cálculo ascende a cerca de 1 200 milhões de EUR (3 878 milhões de RON), não incluindo o lucro que poderia ter resultado da venda dos cereais.
+
+(6) Como o rendimento dos agricultores romenos afectados pela seca foi drasticamente reduzido, estes confrontam-se com o risco grave de não terem meios financeiros para proceder às sementeiras de Outono e preparar a campanha da sementeira da Primavera de 2008.
+
+(7) A ajuda estatal a conceder ascende a cerca de 400 milhões de EUR (1 320 milhões de RON) e beneficiará cerca de 250 000 a 300 000 agricultores, que representam aproximadamente 3 milhões de hectares. Os montantes da ajuda serão, respectivamente, de cerca de 150 EUR/ha para o trigo de Outono, 120 EUR/ha para a colza e 130 EUR/ha para a cevada e outras colheitas de Outono.
+
+(8) A ajuda será concedida apenas a pedido do agricultor, com o objectivo específico de recomeçar o ciclo de produção (compra de sementes, combustível, adubos e pesticidas). O organismo pagador da Roménia acompanhará e controlará a ajuda, nomeadamente efectuando controlos no local.
+
+(9) Para ser eficaz, a ajuda estatal deve ser concedida e recebida pelos agricultores o mais rapidamente possível.
+
+(10) A Comissão não emitiu, nesta fase, parecer sobre a natureza e a compatibilidade da ajuda.
+
+(11) Existem, por conseguinte, circunstâncias excepcionais que tornam possível considerar essa ajuda, através de derrogação e na medida do estritamente necessário para remediar à situação de urgência ocorrida, compatível com o mercado, nos termos especificados na decisão,
+
+APROVOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+A ajuda suplementar excepcional pelas autoridades romenas ao sector agrícola, no montante máximo de 400 000 000 de EUR, é considerada compatível com o mercado comum.
+
+###### Artigo 2.º
+
+A Roménia é a destinatária da presente decisão.
+
+Feito no Luxemburgo, em 22 de Outubro de 2007.
+
+***Pelo Conselho***
+
+***O Presidente***
+
+**J. SILVA**

@@ -1,0 +1,189 @@
+---
+schema_version: '1.0'
+id: eu:celex:31993R1209:por
+title: Regulamento (CEE) nº 1209/93 da Comissão, de 17 de Maio de 1993
+short_title: null
+summary: Regulamento (CEE) nº 1209/93 da Comissão, de 17 de Maio de 1993, que fixa as taxas de conversão agrícolas e outras
+  consequências do realinhamento monetário de 13 de Maio de 1993
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1993/1209
+official_date: null
+publication_date: '1993-05-18'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 122 de 18.5.1993
+  number: '122'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/43d0f498-6854-426c-92e6-46db16d3da4a.0009.02/DOC_1
+entry_into_force_dates:
+- '1993-05-14'
+- '1993-05-18'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31993R1209
+  eli: http://data.europa.eu/eli/reg/1993/1209/oj
+  oj: oj:JOL_1993_122_R_0041_046
+  dre: null
+  dre_path: null
+  internal: eu:celex:31993R1209:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31993R1209
+  metadata_url: http://publications.europa.eu/resource/cellar/43d0f498-6854-426c-92e6-46db16d3da4a.0009
+  content_url: http://publications.europa.eu/resource/cellar/43d0f498-6854-426c-92e6-46db16d3da4a.0009.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:17:23Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-09T09:02:48.961+02:00'
+integrity:
+  source_sha256: 59e344ed67148dabc0c1b5a575212a09afd5ad7576f743a2c93726a8fda9a23a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:17:23Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- ajustamento monetário
+- setor primário
+- taxa representativa
+relationships:
+- type: based_on
+  target: celex:31992R3813
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0dce0682-8f71-491c-901a-35cc414744a7
+  date: '1992-12-31'
+- type: cites
+  target: celex:31993R1068
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d70e88ce-1fa4-4b40-a1ea-b72b5b86b267
+article_structure:
+  article_count: 5
+  section_count: 2
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:17:23Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CEE) nº 1209/93 da Comissão, de 17 de Maio de 1993
+
+**Regulamento (CEE) nº 1209/93 da Comissão, de 17 de Maio de 1993, que fixa as taxas de conversão agrícolas e outras consequências do realinhamento monetário de 13 de Maio de 1993** *Jornal Oficial nº L 122 de 18/05/1993 p. 0041 - 0042 Edição especial finlandesa: Capítulo 3 Fascículo 49 p. 0213 Edição especial sueca: Capítulo 3 Fascículo 49 p. 0213*
+
+REGULAMENTO (CEE) No 1209/93 DA COMISSÃO de 17 de Maio de 1993 que fixa as taxas de conversão agrícolas e outras consequências do realinhamento monetário de 13 de Maio de 1993
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Económica Europeia,
+
+Tendo em conta o Regulamento (CEE) no 3813/92 do Conselho, de 28 de Dezembro de 1992, relativo à unidade de conta e às taxas de conversão a aplicar no âmbito da política agrícola comum (1), e, nomeadamente, a alínea c) do seu artigo 1o, o no 1 do seu artigo 3o e o seu artigo 12o,
+
+Considerando que a alínea c), segundo travessão, do artigo 1o do Regulamento (CEE) no 3813/92 prevê a alteração do factor de correcção no momento de cada realinhamento, no âmbito do sistema monetário europeu, em função da revalorização da taxa central de moeda fixa que tenha registado a revalorização mais elevada em relação ao ecu; que os artigos 8o e 18o do Regulamento (CEE) no 1068/93 da Comissão, de 30 de Abril de 1993, que estabelece regras para a determinação e aplicação das taxas do conversão no sector agrícolas (2), especificam as regras de cálculo e a entrada em vigor do factor de correcção;
+
+Considerando que as taxas de conversão agrícolas foram fixadas pelo Regulamento (CEE) no 1141/93 da Comissão (3);
+
+Considerando que o artigo 4o do Regulamento (CEE) no 3813/92 prevê a alteração, em caso de realinhamento monetário, da taxa de conversão agrícola de uma moeda flutuante quando o desvio monetário em relação à taxa representativa de mercado do último período de referência exceder dois pontos; que, nesse caso, será fixada uma nova taxa de conversão agrícola em função da redução para metade do referido desvio monetário, sem prejuízo de um máximo de quatro pontos para os desvios bilaterais; que, em consequência das taxas de câmbio registadas, em conformidade com o no 3 do artigo 2o do Regulamento (CEE) no 1068/93, durante o período de referência compreendido entre 14 e 17 de Maio de 1993, é necessário fixar novas taxas de conversão agrícola para a lira italiana, a peseta espanhola e o escudo português;
+
+Considerando que o no 3 do artigo 15o do Regulamento (CEE) no 1068/93 prevê, sem prejuízo dos nos 1 e 2 do mesmo artigo, que, no caso de o desvio monetário entre a taxa de conversão agrícola fixada antecipadamente e a taxa de conversão agrícola em vigor no momento do facto gerador aplicável para o montante em causa exceder quatro pontos, aquela deve ser ajustada; que, nesse caso, a taxa de conversão agrícola fixada antecipadamente e aproximada da taxa em vigor até ao nível correspondente a um desvio de quatro pontos; que é conveniente precisar a taxa pela qual é substituída a taxa de conversão agrícola fixada antecipadamente,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1o
+
+O factor de correcção referido na alínea c) do artigo 1o do Regulamento (CEE) no 3813/92 é fixado em 1,207509.
+
+###### Artigo 2o
+
+As taxas de conversão agrícolas são fixadas no anexo I.
+
+###### Artigo 3o
+
+No caso previsto no no 3 do artigo 15o do Regulamento (CEE) no 1068/93, a taxa de conversão agrícola fixada antecipadamente é substituída pela taxa do ecu relativa à moeda em causa que consta do anexo II:
+
+- no quadro A, no caso de esta última taxa ser superior à taxa fixada antecipadamente, ou
+
+- no quadro B, no caso de esta última taxa ser inferior à taxa fixada antecipadamente.
+
+###### Artigo 4o
+
+É revogado o Regulamento (CEE) no 1141/93.
+
+###### Artigo 5o
+
+O presente regulamento entra em vigor em 18 de Maio de 1993.
+
+Todavia, o artigo 1o é aplicável a partir de 14 de Maio de 1993.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.
+
+Feito em Bruxelas, em 17 de Maio de 1993.
+
+Pela Comissão
+
+René STEICHEN
+
+Membro da Comissão
+
+(1) JO no L 387 de 31. 12. 1992, p. 1.
+
+(2) JO no L 108 de 1. 5. 1993, p. 106.
+
+(3) JO no L 115 de 11. 5. 1993, p. 20.
+
+## ANEXO I — Taxas de conversão agrícolas 1 ecu = 48,5563 francos belgas e
+
+francos luxemburgueses
+
+8,97989 coroas dinamarquesas
+
+2,35418 marcos alemães
+
+314,412 dracmas gregas
+
+176,247 pesetas espanholas
+
+7,89563 francos franceses
+
+0,957268 libra irlandesa
+
+2 195,05 liras italianas
+
+2,65256 florins neerlandeses
+
+222,758 escudos portugueses
+
+0,964017 libra esterlina
+
+## ANEXO II — Taxas de conversão agrícolas fixadas antecipadamente e ajustadas
+
+/* Quadros: ver JO */

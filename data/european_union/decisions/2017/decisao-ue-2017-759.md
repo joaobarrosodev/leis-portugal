@@ -1,0 +1,181 @@
+---
+schema_version: '1.0'
+id: eu:celex:32017D0759:por
+title: Decisão de Execução (UE) 2017/759 da Comissão, de 28 de abril de 2017
+short_title: null
+summary: Decisão de Execução (UE) 2017/759 da Comissão, de 28 de abril de 2017, relativa aos protocolos comuns e aos formatos
+  de dados que as transportadoras aéreas devem utilizar para transferir dados PNR para as unidades de informações de passageiros
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão de Execução
+issuing_authority:
+- Comissão Europeia
+- HOME
+proposing_entity: null
+official_number: 2017/759
+official_date: null
+publication_date: '2017-04-29'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 113 de 29.4.2017
+  number: '113'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/443f6b65-2c67-11e7-9412-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2017-05-19'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32017D0759
+  eli: http://data.europa.eu/eli/dec_impl/2017/759/oj
+  oj: oj:JOL_2017_113_R_0014
+  dre: null
+  dre_path: null
+  internal: eu:celex:32017D0759:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32017D0759
+  metadata_url: http://publications.europa.eu/resource/cellar/443f6b65-2c67-11e7-9412-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/443f6b65-2c67-11e7-9412-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:01:16Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-02-11T13:11:17.090+01:00'
+integrity:
+  source_sha256: c50a0d790852b5ea0c1724a7f9018af02384a23164d3c13e66160aff95c5c29b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:01:16Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- dados pessoais
+- intercâmbio de informação
+- proteção dos dados
+- segurança aérea
+- terrorismo
+- transmissão de dados
+- transporte aéreo
+- viajante
+relationships:
+- type: based_on
+  target: celex:32016L0681
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2ba036c2-11bd-11e6-ba9a-01aa75ed71a1
+  date: '2016-05-04'
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:01:16Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DE EXECUÇÃO (UE) 2017/759 DA COMISSÃO
+
+de 28 de abril de 2017
+
+relativa aos protocolos comuns e aos formatos de dados que as transportadoras aéreas devem utilizar para transferir dados PNR para as unidades de informações de passageiros
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta a Diretiva (UE) 2016/681 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativa à utilização dos dados dos registos de identificação dos passageiros (PNR) para efeitos de prevenção, deteção, investigação e repressão das infrações terroristas e da criminalidade grave [([^1])](http://publications.europa.eu/resource/cellar/443f6b65-2c67-11e7-9412-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2017113PT.01004801-E0001), nomeadamente o artigo 16.º, n.º 3,
+
+Considerando o seguinte:
+
+(1) A Diretiva (UE) 2016/681 exige que a Comissão elabore uma lista dos protocolos comuns e dos formatos de dados reconhecidos que as transportadoras aéreas devem utilizar aquando da transferência dos dados dos registos de identificação dos passageiros (PNR) aos Estados-Membros. As transportadoras aéreas devem selecionar dessa lista e precisar aos Estados-Membros o protocolo comum e o formato de dados que tencionam utilizar.
+
+(2) A lista de opções deve ter em conta a situação atual do setor, a fim de permitir a rápida aplicação da Diretiva (UE) 2016/681 e limitar o impacto económico negativo para as transportadoras aéreas. Ao mesmo tempo, as opções previstas devem garantir a segurança e a fiabilidade da transferência dos dados PNR.
+
+(3) As pequenas transportadoras aéreas que não efetuem voos segundo um horário regular e público e que não possuam as infraestruturas técnicas necessárias para utilizar os formatos de dados e os protocolos de transmissão referidos no anexo devem ficar isentas da obrigação de utilizar esses formatos e protocolos. Os Estados-Membros devem acordar bilateralmente com as referidas transportadoras aéreas os meios eletrónicos a utilizar para assegurar um nível de segurança adequado aquando da transmissão de dados PNR por essas transportadoras.
+
+(4) Em conformidade com o considerando 17 da Diretiva (UE) 2016/681, as orientações da Organização da Aviação Civil Internacional (OACI) em matéria de dados PNR devem servir de base para a adoção de formatos de dados reconhecidos para as transferências de dados PNR pelas transportadoras aéreas aos Estados-Membros.
+
+(5) O formato de dados PNRGOV é reconhecido como uma norma internacional para a transmissão dos dados PNR e foi desenvolvido conjuntamente pelos governos, as transportadoras aéreas e os prestadores de serviços, sob os auspícios da Associação do Transporte Aéreo Internacional (IATA), da OACI e da Organização Mundial das Alfândegas (OMA). O formato de dados PNRGOV deve estar em conformidade com os guias de aplicação *Passenger and Airport Data Interchange Standards* (PADIS) EDIFACT e XML para as mensagens PNRGOV, aprovados e publicados pelo Comité de Contacto OMA/IATA/OACI para os dados API/PNR.
+
+(6) O formato UN/EDIFACT PAXLST é o formato de dados para a transmissão de informações prévias sobre os passageiros (API). Nos termos do artigo 8.º, n.º 2, da Diretiva (UE) 2016/681, este formato deve ser utilizado para a transmissão dos dados API que as transportadoras aéreas recolhem no exercício normal das suas atividades, mas que não conservam pelos mesmos meios técnicos que os outros dados PNR.
+
+(7) Atualmente, a maioria das transportadoras aéreas utiliza para a transferência de dados dos passageiros às autoridades nacionais dois protocolos de transmissão, a saber, IBM MQ e IATA tipo B.
+
+(8) O protocolo IBM MQ, um produto da IBM Corporation, permite uma entrega segura e fiável das mensagens, que preserva a sua integridade e minimiza o risco de perda de informações, recorrendo às filas de mensagens para facilitar o intercâmbio de informações entre aplicações, sistemas, serviços e ficheiros.
+
+(9) Mensagens tipo B é a designação dada pela IATA ao sistema de transmissão de mensagens utilizado nos setores do transporte aéreo e das viagens e entre ambos os setores. No setor do transporte aéreo, este sistema é considerado altamente fiável e seguro e, por conseguinte, suporta aplicações empresariais de importância fundamental.
+
+(10) Nem todas as transportadoras aéreas estão em condições de adotar e aplicar, num prazo inferior a quatro ou cinco anos, protocolos de transmissão diferentes dos que utilizam atualmente.
+
+(11) Nos termos do artigo 16.º, n.º 2, da Diretiva (UE) 2016/681, as transportadoras aéreas devem estar em condições de utilizar pelo menos um dos formatos de dados e dos protocolos de transmissão estabelecidos pela presente decisão de execução no prazo de um ano após a data da sua adoção.
+
+(12) A decisão de execução deve, por conseguinte, ter em conta a situação atual do setor e prever a possibilidade de as transportadoras aéreas continuarem a utilizar, também para efeitos da Diretiva (UE) 2016/681, os mesmos formatos de dados e protocolos de transmissão que representam atualmente a norma no setor.
+
+(13) Por outro lado, deve ser encorajada o mais possível a utilização de formatos de dados e de protocolos de transmissão em norma aberta, incluindo de normas europeias.
+
+(14) A Comissão promove atualmente a utilização do protocolo «AS4», nomeadamente no âmbito do Mecanismo Interligar a Europa (MIE). Este protocolo deve, por conseguinte, ser incluído como alternativa aos protocolos IBM MQ e IATA tipo B.
+
+(15) O setor e os Estados-Membros devem ser encorajados a adotar as medidas necessárias, conjuntamente com os parceiros internacionais, a OACI e a OMA, com vista a incluir protocolos em norma aberta adequados entre os protocolos de referência aceites a nível internacional para a transmissão dos dados PNR pelas transportadoras aéreas às unidades de informações de passageiros dos Estados-Membros.
+
+(16) A presente decisão de execução deve, por conseguinte, ser reexaminada no prazo de quatro anos a contar da data da sua adoção, a fim de estudar a possibilidade de os produtos exclusivos serem substituídos por protocolos de transmissão em norma aberta. Deve ser igualmente considerada a possibilidade de acrescentar eventuais revisões das atuais versões EDIFACT e XML do PNRGOV e EDIFACT PAXLST, bem como o eventual desenvolvimento de normas XML para as mensagens API.
+
+(17) Os Estados-Membros podem também estudar a possibilidade de comunicar às transportadoras aéreas um aviso de receção da transferência de dados PNR (utilizando uma mensagem ACKRES). Tal decisão deve ter por base um acordo bilateral entre a transportadora aérea e o Estado-Membro em causa, tal como recomendado pela IATA.
+
+(18) As medidas previstas na presente decisão estão em conformidade com o parecer do comité referido no artigo 17.º, n.º 1, da Diretiva (UE) 2016/681,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º — Protocolos comuns e formatos de dados reconhecidos
+
+1. Sempre que procedam à transferência de dados PNR para as unidades de informações de passageiros dos Estados-Membros em conformidade com a Diretiva (UE) 2016/681, as transportadoras aéreas devem utilizar um dos formatos de dados e dos protocolos de transmissão que figuram nos pontos 1 e 2 do anexo da presente decisão.
+
+2. No caso de as transportadoras aéreas transferirem dados correspondentes às informações prévias sobre passageiros (API) referidos no artigo 8.º, n.º 2, da Diretiva (UE) 2016/681 separadamente dos dados PNR transferidos para o mesmo voo, devem utilizar o formato de dados referido no ponto 3 do anexo da presente decisão.
+
+3. Em derrogação do disposto nos n.^os^ 1 e 2, as transportadoras aéreas que não efetuem voos fora da UE e dentro dela segundo um horário regular e público e que não possuam as infraestruturas necessárias para suportar os formatos de dados e os protocolos de transmissão que figuram no anexo devem transferir os dados PNR por meios eletrónicos que ofereçam garantias suficientes relativamente às medidas de segurança técnica, a acordar bilateralmente entre a transportadora aérea e o Estado-Membro em causa.
+
+###### Artigo 2.º — Reexame
+
+1. A Comissão procede ao reexame da presente decisão de execução até 28 de abril de 2021. No referido reexame deve ser estudada, em especial, a possibilidade de estabelecer protocolos de transmissão em norma aberta, exclusivamente ou em complemento dos atuais protocolos, garantindo ao mesmo tempo a sua conformidade com as normas e as melhores práticas internacionais.
+
+2. À luz do referido reexame, a Comissão pode adotar uma alteração da presente decisão.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente decisão entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+Feito em Bruxelas, em 28 de abril de 2017.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**Jean-Claude JUNCKER**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/443f6b65-2c67-11e7-9412-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2017113PT.01004801-E0001) [JO L 119 de 4.5.2016, p. 132](http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC).

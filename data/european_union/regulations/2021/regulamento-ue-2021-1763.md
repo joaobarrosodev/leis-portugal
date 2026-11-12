@@ -1,0 +1,186 @@
+---
+schema_version: '1.0'
+id: eu:celex:32021R1763:por
+title: Regulamento de Execução (UE) 2021/1763 da Comissão de 6 de outubro de 2021
+short_title: null
+summary: Regulamento de Execução (UE) 2021/1763 da Comissão de 6 de outubro de 2021 que altera o Regulamento de Execução (UE)
+  2020/600 no respeitante às derrogações ao Regulamento de Execução (UE) 2016/1150 para fazer face à crise provocada pela
+  pandemia de COVID-19 no setor vitivinícola
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento de Execução
+issuing_authority:
+- Comissão Europeia
+- AGRI
+proposing_entity: null
+official_number: 2021/1763
+official_date: null
+publication_date: '2021-10-07'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 355 de 7.10.2021
+  number: '355'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2021-10-10'
+- '2021-10-16'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32021R1763
+  eli: http://data.europa.eu/eli/reg_impl/2021/1763/oj
+  oj: oj:JOL_2021_355_R_0002
+  dre: null
+  dre_path: null
+  internal: eu:celex:32021R1763:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32021R1763
+  metadata_url: http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:15:41Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-11-05T08:58:22.127+01:00'
+integrity:
+  source_sha256: 0f4974dfcd7baea694136de8723b822cdc9c28fe5dbc091b416958501ddd5906
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:15:41Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- ajuda à agricultura
+- auxílio estatal
+- derrogação ao direito da UE
+- doença por coronavírus
+- epidemia
+- organização comum de mercado
+- vinho
+- viticultura
+relationships:
+- type: amends
+  target: celex:32020R0600
+  label: null
+  source: http://publications.europa.eu/resource/cellar/09605a37-8de8-11ea-812f-01aa75ed71a1
+  date: '2020-05-04'
+- type: based_on
+  target: celex:32013R1308
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ce1fdb47-6c04-11e3-9afb-01aa75ed71a1
+  date: '2013-12-23'
+- type: cites
+  target: celex:32016R1150
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1f6e7ed7-4a46-11e6-9c64-01aa75ed71a1
+- type: cites
+  target: celex:32020R0592
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fa04223c-8dea-11ea-812f-01aa75ed71a1
+- type: cites
+  target: celex:32021R0078
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ebfb7860-613c-11eb-8146-01aa75ed71a1
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:15:41Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DE EXECUÇÃO (UE) 2021/1763 DA COMISSÃO
+
+de 6 de outubro de 2021
+
+que altera o Regulamento de Execução (UE) 2020/600 no respeitante às derrogações ao Regulamento de Execução (UE) 2016/1150 para fazer face à crise provocada pela pandemia de COVID-19 no setor vitivinícola
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 e (CE) n.º 1234/2007 do Conselho [([^1])](http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2021355PT.01000301-E0001), nomeadamente o artigo 54.º, alíneas a), b) e e),
+
+Considerando o seguinte:
+
+(1) O Regulamento de Execução (UE) 2020/600 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2021355PT.01000301-E0002) introduziu um conjunto de derrogações às regras em vigor, nomeadamente ao Regulamento de Execução (UE) 2016/1150 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2021355PT.01000301-E0003) no setor vitivinícola, com o objetivo de prestar auxílio aos operadores e de os ajudar a fazer face ao impacto da pandemia de COVID-19. No entanto, apesar da utilidade dessas medidas, o mercado vitivinícola não logrou recuperar o equilíbrio entre a oferta e a procura.
+
+(2) A pandemia de COVID-19 não está controlada. As campanhas de vacinação são insuficientes, tanto no que respeita a algumas regiões da União como a nível mundial, pelo que a maioria dos países continua a aplicar restrições à circulação e medidas de distanciamento social. Essas medidas continuam a incluir restrições relacionadas com as viagens, a dimensão das reuniões sociais, as festas privadas, os eventos públicos e a possibilidade de comer e beber fora do domicílio. Essas restrições resultam numa maior redução do consumo de vinho na União, em maiores volumes acumulados e, de um modo mais geral, em perturbações do mercado. Em alguns Estados-Membros, um terço do consumo de vinho está ligado ao turismo. Por conseguinte, dado o consumo de vinho ter continuado a baixar, os níveis das existências continuam elevados. Os efeitos da pandemia, conjugados com os direitos aduaneiros impostos pelos Estados Unidos e os episódios de geada registados na Europa em abril de 2021, tiveram um impacto muito negativo no rendimento dos produtores de vinho da União. Estima-se que a combinação de todos estes fatores tenha tido por consequência uma diminuição média de 15 a 20% no volume de negócios do setor vitivinícola da União, sendo que algumas empresas declararam perdas até 40%.
+
+(3) Além disso, a incerteza quanto à duração da crise, que continua a ser difícil de prever devido à rápida mutabilidade do vírus, agrava ainda mais a perturbação significativa que atualmente se faz sentir no mercado vitivinícola da União. Significa isto que a recuperação do setor demorará mais tempo do que o previsto no início de 2021. Por conseguinte, é conveniente continuar a prestar apoio temporário e excecional ao setor vitivinícola da União, de modo a evitar o anunciado aumento das falências.
+
+(4) Considera-se que a prossecução das medidas introduzidas pelo Regulamento de Execução (UE) 2020/600, subsequentemente alterado pelo Regulamento (UE) 2021/78 da Comissão [([^4])](http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2021355PT.01000301-E0004), para fazer face à crise no setor vitivinícola da União, é essencial para oferecer aos Estados-Membros e aos operadores a flexibilidade necessária para poderem executar os programas de apoio no setor vitivinícola da União. Os Estados-Membros puderam reagir rapidamente às circunstâncias excecionais dos últimos meses e apresentar alterações aos seus programas de apoio, sempre que necessário, graças à possibilidade de introduzirem alterações nos respetivos programas nacionais logo que requerido e ao longo do ano. Esta flexibilidade permitiu aos Estados-Membros introduzir novas medidas e otimizar as já em vigor, adaptando-as com maior frequência e segundo as necessidades, tendo em conta a rápida evolução da situação do mercado. Além disso, a flexibilidade introduzida no tocante à execução da medida relativa à colheita em verde permitiu aos operadores dispor do tempo necessário para a sua planificação e para a seleção da mão-de-obra indispensável à sua realização nas condições difíceis decorrentes da pandemia de COVID-19.
+
+(5) Atendendo a que os efeitos da pandemia de COVID-19 deverão perdurar para além do final de 2021 e, por conseguinte, durante uma parte significativa do exercício financeiro de 2022, é necessário alargar o período de aplicação das medidas previsto no artigo 2.º do Regulamento de Execução (UE) 2020/600 até ao termo do exercício financeiro de 2022. No entanto, uma vez que as medidas previstas nos artigos 3.º e 4.° do Regulamento Delegado (UE) 2020/592 da Comissão [([^5])](http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019.03/DOC_1#ntr5-L_2021355PT.01000301-E0005) só poderão ser financiadas ao abrigo dos programas de apoio ao setor vitivinícola nos exercícios financeiros de 2020 e 2021, a prorrogação do período de aplicação não deve abranger essas medidas.
+
+(6) O Regulamento de Execução (UE) 2020/600 deve, portanto, ser alterado em conformidade.
+
+(7) Para assegurar a continuidade entre os exercícios financeiros de 2021 e 2022, o presente regulamento deve entrar em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* e ser aplicável a partir de 16 de outubro de 2021.
+
+(8) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité para a Organização Comum dos Mercados Agrícolas,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º — Alterações do Regulamento de Execução (UE) 2020/600
+
+O artigo 2.º do Regulamento de Execução (UE) 2020/600 é alterado do seguinte modo:
+
+1) O n.º 1 passa a ter a seguinte redação: «1. Em derrogação do artigo 2.º, n.º 1, do Regulamento de Execução (UE) 2016/1150, os Estados-Membros podem introduzir, em relação às medidas referidas no artigo 45.º, n.º 1, alínea a), nos artigos 46.º a 52.° do Regulamento (UE) n.º 1308/2013 e nos artigos 3.º e 4.° do Regulamento Delegado (UE) 2020/592 da Comissão[([^*1])](http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019.03/DOC_1#ntr*1-L_2021355PT.01000301-E0006), sempre que necessário, durante os exercícios financeiros de 2020 e 2021, mas antes de 15 de outubro de 2021, alterações nos seus programas de apoio nacionais no setor vitivinícola a que se refere o artigo 41.º, n.º 5, do Regulamento (UE) n.º 1308/2013. Os Estados-Membros podem igualmente introduzir essas alterações nos seus programas de apoio nacionais sempre que necessário, durante o exercício financeiro de 2022, mas antes de 15 de outubro de 2022 e apenas em relação às medidas a que se referem o artigo 45.º, n.º 1, alínea a), e os artigos 46.º a 52.º do Regulamento (UE) n.º 1308/2013. [(^*1^)](http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019.03/DOC_1#ntc*1-L_2021355PT.01000301-E0006) Regulamento Delegado (UE) 2020/592 da Comissão, de 30 de abril de 2020, que estabelece medidas excecionais de caráter temporário em derrogação de certas disposições do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, para fazer face às perturbações do mercado nos setores hortofrutícola e vitivinícola causadas pela pandemia de COVID-19 e pelas medidas adotadas para a conter ([JO L 140 de 4.5.2020, p. 6](http://publications.europa.eu/resource/oj/JOL_2020_140_R_TOC)).»;"
+
+2) No n.º 2, a frase introdutória passa a ter a seguinte redação: «2. Em derrogação do artigo 8.º do Regulamento de Execução (UE) 2016/1150, durante os exercícios financeiros de 2020, 2021 e 2022, os Estados-Membros podem:».
+
+###### Artigo 2.º — Entrada em vigor e aplicação
+
+O presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é aplicável a partir de 16 de outubro de 2021.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 6 de outubro de 2021.
+
+***Pela Comissão***
+
+***A Presidente***
+
+**Ursula VON DER LEYEN**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2021355PT.01000301-E0001) [JO L 347 de 20.12.2013, p. 671](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2021355PT.01000301-E0002) Regulamento de Execução (UE) 2020/600 da Comissão, de 30 de abril de 2020, que derroga o Regulamento de Execução (UE) 2017/892, o Regulamento de Execução (UE) 2016/1150, o Regulamento de Execução (UE) n.º 615/2014, o Regulamento de Execução (UE) 2015/1368 e o Regulamento de Execução (UE) 2017/39 no que respeita a determinadas medidas para fazer face à crise provocada pela pandemia de COVID-19 ([JO L 140 de 4.5.2020, p. 40](http://publications.europa.eu/resource/oj/JOL_2020_140_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2021355PT.01000301-E0003) Regulamento de Execução (UE) 2016/1150 da Comissão, de 15 de abril de 2016, que estabelece as normas de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere aos programas de apoio nacionais ao setor vitivinícola ([JO L 190 de 15.7.2016, p. 23](http://publications.europa.eu/resource/oj/JOL_2016_190_R_TOC)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2021355PT.01000301-E0004) Regulamento de Execução (UE) 2021/78 da Comissão, de 27 de janeiro de 2021, que altera o Regulamento de Execução (UE) 2020/600 da Comissão que derroga o Regulamento de Execução (UE) 2017/892, o Regulamento de Execução (UE) 2016/1150, o Regulamento de Execução (UE) n.º 615/2014, o Regulamento de Execução (UE) 2015/1368 e o Regulamento de Execução (UE) 2017/39 no que respeita a determinadas medidas para fazer face à crise provocada pela pandemia de COVID-19 ([JO L 29 de 28.1.2021, p. 5](http://publications.europa.eu/resource/oj/JOL_2021_029_R_TOC)).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/441549a6-2708-11ec-bd8e-01aa75ed71a1.0019.03/DOC_1#ntc5-L_2021355PT.01000301-E0005) Regulamento Delegado (UE) 2020/592 da Comissão, de 30 de abril de 2020, que estabelece medidas excecionais de caráter temporário em derrogação de certas disposições do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, para fazer face às perturbações do mercado nos setores hortofrutícola e vitivinícola causadas pela pandemia de COVID-19 e pelas medidas adotadas para a conter ([JO L 140 de 4.5.2020, p. 6](http://publications.europa.eu/resource/oj/JOL_2020_140_R_TOC)).

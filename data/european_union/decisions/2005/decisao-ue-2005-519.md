@@ -1,0 +1,212 @@
+---
+schema_version: '1.0'
+id: eu:celex:32005D0519:por
+title: '2005/519/CE: Decisão do Conselho, de 22 de Novembro de 2004'
+short_title: null
+summary: '2005/519/CE: Decisão do Conselho, de 22 de Novembro de 2004, relativa à assinatura de um acordo-quadro entre a Comunidade
+  Europeia e a República da Croácia relativo aos princípios gerais que regem a participação da República da Croácia em programas
+  comunitários'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2005/519
+official_date: null
+publication_date: '2005-07-22'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 192 de 22.7.2005
+  number: '192'
+  series: null
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/5de91cdd-312c-409f-a360-2b4cf085dad9.0016.01/DOC_1
+entry_into_force_dates:
+- '2004-11-22'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32005D0519
+  eli: http://data.europa.eu/eli/dec/2005/519/oj
+  oj: null
+  dre: null
+  dre_path: null
+  internal: eu:celex:32005D0519:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32005D0519
+  metadata_url: http://publications.europa.eu/resource/cellar/5de91cdd-312c-409f-a360-2b4cf085dad9.0016
+  content_url: http://publications.europa.eu/resource/cellar/5de91cdd-312c-409f-a360-2b4cf085dad9.0016.02/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:32:13Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2026-03-07T11:14:42.308+01:00'
+integrity:
+  source_sha256: 949d6d2e2af1391c5bb10c62fbb48d47cdc24f22db4411c55663dda5c67ee168
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:32:13Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Croácia
+- acordo (UE)
+- acordo-quadro
+- assinatura de acordo
+- política de cooperação
+- programa da UE
+relationships:
+- type: based_on
+  target: celex:12002E013
+  label: null
+  source: http://publications.europa.eu/resource/cellar/11395efa-428e-4a4c-90bc-4f73d3baea0b
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E071
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b39d4226-ff2e-4f1b-a164-c88048f42291
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E080
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1113f453-7474-4603-9a74-a10da8ca3692
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E095
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d795ef77-cdf5-4e55-8058-218d6f362b06
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E127
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9ee04eb3-be69-4474-9120-0e1438caf21e
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E137
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a7b5cf5a-9b4b-4454-b7b2-28669f5efad8
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E149
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4b75caa4-1cc1-41a9-a01a-ceb0fee8104a
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E150
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0d0546aa-cf2a-42ae-9c75-3d259fe150ca
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E151
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e18220b3-81d7-4a60-bd51-2decdda71f73
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E152
+  label: null
+  source: http://publications.europa.eu/resource/cellar/92cd9730-3028-4011-9f02-866e18da2759
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E153
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8629d701-d87c-4909-8059-0cec24befc7d
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E157
+  label: null
+  source: http://publications.europa.eu/resource/cellar/775ae041-cabe-42f6-8593-20b25f8e7fec
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E166
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d98a26ca-cbe5-4f82-b382-6334a718ca6a
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E175
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c13c4f2b-e76e-4c1d-a30c-2d6f263178ba
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E280
+  label: null
+  source: http://publications.europa.eu/resource/cellar/78167860-75b1-438d-bbec-6bc4113278f4
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E300
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fdcdf7fd-4ce7-412e-98ce-1b2142bf3460
+  date: '2003-02-11'
+- type: based_on
+  target: celex:12002E308
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c76e00ba-857b-4776-8b7a-75b5f7329bde
+  date: '2003-02-11'
+- type: corrected_by
+  target: celex:32005D0519R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/26c5738d-928a-4e40-a156-2e452ceb14d9
+  date: '2009-03-03'
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:32:13Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DO CONSELHO
+
+de 22 de Novembro de 2004
+
+relativa à assinatura de um acordo-quadro entre a Comunidade Europeia e a República da Croácia relativo aos princípios gerais que regem a participação da República da Croácia em programas comunitários
+
+(2005/519/CE)
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 13.º, 71.º, 80.º, 95.º, 127.º, 137.º, 149.º, 150.º, 151.º, 152.º, 153.º, 157.º, 166.º, 175.º, 280.º e 308.º, conjugados com o artigo 300.º, n.º 2, primeiro parágrafo, segundo período,
+
+Tendo em conta a proposta da Comissão,
+
+Considerando o seguinte:
+
+(1)(2) A Comissão negociou com a República da Croácia, em nome da Comunidade, um acordo-quadro relativo aos princípios gerais que regem a participação da República da Croácia em programas comunitários.Sob reserva da sua celebração numa data posterior, o acordo rubricado em 30 de Julho de 2004 deverá ser assinado,
+
+DECIDE:
+
+###### Artigo único
+
+Sob reserva da sua celebração numa data posterior, o presidente do Conselho fica autorizado a designar a pessoa com poderes para assinar, em nome da Comunidade, o acordo-quadro entre a Comunidade Europeia e a República da Croácia relativo aos princípios gerais que regem a participação da República da Croácia em programas comunitários.
+
+Feito em Bruxelas, em 22 de Novembro de 2004.
+
+***Pelo Conselho***
+
+***O Presidente***
+
+**B. R. BOT**

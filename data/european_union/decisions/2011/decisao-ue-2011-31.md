@@ -1,0 +1,291 @@
+---
+schema_version: '1.0'
+id: eu:celex:32011D0031:por
+title: '2011/31/UE: Decisão da Comissão, de 19 de Janeiro de 2011'
+short_title: null
+summary: '2011/31/UE: Decisão da Comissão, de 19 de Janeiro de 2011 , que encerra o processo anti-subvenções relativo às importações
+  de ácido tereftálico purificado e seus sais originários da Tailândia'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2011/31
+official_date: null
+publication_date: '2011-01-20'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 15 de 20.1.2011
+  number: '15'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/daf4956f-53f3-4c90-8d29-af99a6e29678.0016.02/DOC_1
+entry_into_force_dates:
+- '2011-02-09'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32011D0031
+  eli: http://data.europa.eu/eli/dec/2011/31(1)/oj
+  oj: oj:JOL_2011_015_R_0017_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32011D0031:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32011D0031
+  metadata_url: http://publications.europa.eu/resource/cellar/daf4956f-53f3-4c90-8d29-af99a6e29678.0016
+  content_url: http://publications.europa.eu/resource/cellar/daf4956f-53f3-4c90-8d29-af99a6e29678.0016.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:43:34Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-08-12T06:14:19.237+02:00'
+integrity:
+  source_sha256: 16fbd8bfd2ba8d04422085950a7846572233347403a12a11a4bd92f7cc45151a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:43:34Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Tailândia
+- imposto compensatório
+- país terceiro
+- política das importações
+- produto químico
+- restrição à importação
+- subvenção à exportação
+relationships:
+- type: based_on
+  target: celex:32009R0597
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7af3f477-de99-40ab-a786-5c75b27fc99a
+  date: '2009-07-20'
+- type: cites
+  target: celex:32011D0032
+  label: null
+  source: http://publications.europa.eu/resource/cellar/13540fe5-ccfc-4bbb-b8fd-4c332fce7221
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:43:34Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DA COMISSÃO
+
+de 19 de Janeiro de 2011
+
+que encerra o processo anti-subvenções relativo às importações de ácido tereftálico purificado e seus sais originários da Tailândia
+
+(2011/31/UE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 597/2009 do Conselho, de 11 de Junho de 2009, relativo à defesa contra as importações que são objecto de subvenções de países não membros da Comunidade Europeia [([^1])](http://publications.europa.eu/resource/cellar/daf4956f-53f3-4c90-8d29-af99a6e29678.0016.03/DOC_1#ntr1-L_2011015PT.01001701-E0001) («regulamento de base»), e, nomeadamente, o seu artigo 14.º,
+
+Após consulta do Comité Consultivo,
+
+Considerando o seguinte:
+
+(1) Em 22 de Dezembro de 2009, a Comissão Europeia («Comissão») anunciou, mediante um aviso publicado no *Jornal Oficial da União Europeia* [([^2])](http://publications.europa.eu/resource/cellar/daf4956f-53f3-4c90-8d29-af99a6e29678.0016.03/DOC_1#ntr2-L_2011015PT.01001701-E0002) («aviso de início»), o início de um processo anti-subvenções relativo às importações, na União, de ácido tereftálico purificado e seus sais («TPA») originários da Tailândia («país em causa»).
+
+(2) O processo anti-subvenções foi iniciado na sequência de uma denúncia apresentada, em 13 de Novembro de 2009, pela BP Aromatics Limited NV e pela CEPSA Quimica S.A. («autores da denúncia»), que representam uma parte importante, neste caso mais de 50 %, da produção total da União de PTA. A denúncia continha elementos de prova *prima facie* da existência de subvenções no que respeita ao produto em causa originário do país em causa e de um prejuízo importante daí resultante, que foram considerados suficientes para justificar o início de um processo.
+
+(3) No mesmo dia, por aviso publicado no *Jornal Oficial da União Europeia* [([^3])](http://publications.europa.eu/resource/cellar/daf4956f-53f3-4c90-8d29-af99a6e29678.0016.03/DOC_1#ntr3-L_2011015PT.01001701-E0003), a Comissão anunciou o início de um processo *anti-dumping* no que respeita às importações na União de ácido tereftálico purificado e seus sais originários da Tailândia. Este inquérito foi encerrado pela Decisão 2011/32/UE da Comissão [([^4])](http://publications.europa.eu/resource/cellar/daf4956f-53f3-4c90-8d29-af99a6e29678.0016.03/DOC_1#ntr4-L_2011015PT.01001701-E0004).
+
+(4) Antes do início do processo e em conformidade com o artigo 10.º, n.º 7, do regulamento de base, a Comissão notificou o Governo da Tailândia de que recebera uma denúncia devidamente fundamentada, alegando que as importações de PTA originário da Tailândia, objecto de subvenções, estavam a causar um importante prejuízo à indústria da União. O Governo da Tailândia foi convidado a participar em consultas no intuito de esclarecer a situação em relação ao teor da denúncia e chegar a uma solução mutuamente acordada. O convite foi aceite, tendo subsequentemente sido realizadas consultas. No decurso das referidas consultas, não foi possível alcançar uma solução mutuamente acordada. Todavia, tomou-se a devida nota das observações formuladas pelas autoridades tailandesas sobre as alegações contidas na denúncia relativamente à ausência de medidas de compensação relativas aos regimes. No decurso das consultas, o Governo da Tailândia formulou várias observações.
+
+(5) A Comissão informou oficialmente do início do processo os autores da denúncia, outros produtores da União conhecidos, os produtores-exportadores conhecidos da Tailândia, os representantes do país de exportação em causa, bem como os importadores e utilizadores conhecidos. Foi dada às partes interessadas a oportunidade de apresentarem os seus pontos de vista por escrito e de solicitarem uma audição no prazo fixado no aviso de início. Foi concedida uma audição a todas as partes interessadas que o solicitaram e que demonstraram haver motivos especiais para serem ouvidas.
+
+(6) A Comissão enviou questionários às autoridades do país de exportação, aos autores da denúncia, a outros produtores conhecidos na União Europeia, aos produtores-exportadores conhecidos na Tailândia e aos importadores e utilizadores conhecidos do produto em causa, bem como a todas as outras partes que solicitaram o questionário dentro dos prazos estabelecidos no aviso de início.
+
+(7) Foram recebidas respostas das autoridades tailandesas, dos três produtores-exportadores tailandeses conhecidos, de três produtores da União, de um importador da União e de cinco utilizadores da União.
+
+(8) A Comissão procurou obter e verificou todas as informações que considerou necessárias para a determinação da existência de subvenções, do prejuízo daí resultante e do interesse da União.
+
+(9) Foram realizadas visitas de verificação às instalações das seguintes autoridades públicas: Gabinete da Comissão do Investimento (*Board of Investment*), Banguecoque, Tailândia
+
+(10) Foram realizadas visitas de verificação às instalações das seguintes empresas: a) Produtores da União — BP Aromatics Limited NV, Geel, Bélgica — CEPSA Química, S.A., Madrid, Espanha — Lotte Chemical UK Ltd (anteriormente Artenius), Wilton, Redcar, Reino Unido b) Importadores da União — Mitsui & Co. Benelux NV, Bruxelas, Bélgica c) Utilizadores da União — DSM Powder Coating Resins B.V., Zwolle, Holanda — M&G Polimeri Italia SPA, Patrica (Frosinone), Itália — NOVAPET S.A., Barbastro (Huesca), Espanha — UAB Neo Group, Klaipeda, Lituânia d) Produtores-exportadores na Tailândia — TPT Petrochemicals Public Company Ltd., Banguecoque, Tailândia (em seguida «TPT») — TPT Petrochemicals Public Company Ltd., Rayong, Tailândia (em seguida «TPT») — Indorama Petrochem Ltd., Banguecoque, Tailândia (em seguida «Indorama») — Siam Mitsui PTA Company Ltd., Rayong, Tailândia (em seguida «SMPC»)
+
+a) Produtores da União — BP Aromatics Limited NV, Geel, Bélgica — CEPSA Química, S.A., Madrid, Espanha — Lotte Chemical UK Ltd (anteriormente Artenius), Wilton, Redcar, Reino Unido
+
+— BP Aromatics Limited NV, Geel, Bélgica
+
+— CEPSA Química, S.A., Madrid, Espanha
+
+— Lotte Chemical UK Ltd (anteriormente Artenius), Wilton, Redcar, Reino Unido
+
+b) Importadores da União — Mitsui & Co. Benelux NV, Bruxelas, Bélgica
+
+— Mitsui & Co. Benelux NV, Bruxelas, Bélgica
+
+c) Utilizadores da União — DSM Powder Coating Resins B.V., Zwolle, Holanda — M&G Polimeri Italia SPA, Patrica (Frosinone), Itália — NOVAPET S.A., Barbastro (Huesca), Espanha — UAB Neo Group, Klaipeda, Lituânia
+
+— DSM Powder Coating Resins B.V., Zwolle, Holanda
+
+— M&G Polimeri Italia SPA, Patrica (Frosinone), Itália
+
+— NOVAPET S.A., Barbastro (Huesca), Espanha
+
+— UAB Neo Group, Klaipeda, Lituânia
+
+d) Produtores-exportadores na Tailândia — TPT Petrochemicals Public Company Ltd., Banguecoque, Tailândia (em seguida «TPT») — TPT Petrochemicals Public Company Ltd., Rayong, Tailândia (em seguida «TPT») — Indorama Petrochem Ltd., Banguecoque, Tailândia (em seguida «Indorama») — Siam Mitsui PTA Company Ltd., Rayong, Tailândia (em seguida «SMPC»)
+
+— TPT Petrochemicals Public Company Ltd., Banguecoque, Tailândia (em seguida «TPT»)
+
+— TPT Petrochemicals Public Company Ltd., Rayong, Tailândia (em seguida «TPT»)
+
+— Indorama Petrochem Ltd., Banguecoque, Tailândia (em seguida «Indorama»)
+
+— Siam Mitsui PTA Company Ltd., Rayong, Tailândia (em seguida «SMPC»)
+
+(11) Dado que tanto a TPT como a Indorama pertencem à mesma *holding*, serão referidas no presente documento como «grupo Indorama».
+
+(12) O inquérito sobre a existência de subvenções e o prejuízo abrangeu o período compreendido entre 1 de Dezembro de 2008 e 30 de Novembro de 2009 («período de inquérito» ou «PI»). A análise das tendências pertinentes para a avaliação do prejuízo abrangeu o período compreendido entre 1 de Janeiro de 2006 e o final do período de inquérito («período considerado»).
+
+(13) O produto em causa é o ácido tereftálico e seus sais, com uma pureza, em peso, igual ou superior a 99,5 %, actualmente classificado no código NC ex 2917 36 00 («produto em causa»).
+
+(14) O PTA obtém-se pela purificação de ácido tereftálico bruto, que resulta da reacção de paraxileno (PX) com um solvente e uma solução catalisadora.
+
+(15) Apurou-se que o produto em causa e o PTA produzido e vendido no mercado interno da Tailândia, bem como o PTA produzido e vendido na União pela indústria da União, têm essencialmente as mesmas características físicas e químicas de base e as mesmas utilizações de base. São, por conseguinte, considerados produtos similares, na acepção do artigo 2.º, alínea c), do regulamento de base.
+
+(16) Com base nas informações contidas na denúncia e nas respostas ao questionário que enviou, a Comissão investigou os regimes seguintes que envolvem alegadamente a concessão de subvenções por uma autoridade governamental: — isenção ou redução dos direitos sobre as importações de máquinas, — isenção do imposto sobre o rendimento das sociedades, — isenção de direitos de importação sobre matérias-primas e essenciais utilizadas na fabricação de produtos de exportação, — dupla dedução do rendimento tributável de custos de transporte, de electricidade e de água durante 10 anos a contar da data da primeira receita derivada da actividade promovida, — dedução do lucro líquido de 25 % dos custos do projecto no que se refere a infra-estrutura, instalação ou construção, além da amortização normal, — indemnização fiscal e pautal dos bens exportados produzidos na Tailândia.
+
+— isenção ou redução dos direitos sobre as importações de máquinas,
+
+— isenção do imposto sobre o rendimento das sociedades,
+
+— isenção de direitos de importação sobre matérias-primas e essenciais utilizadas na fabricação de produtos de exportação,
+
+— dupla dedução do rendimento tributável de custos de transporte, de electricidade e de água durante 10 anos a contar da data da primeira receita derivada da actividade promovida,
+
+— dedução do lucro líquido de 25 % dos custos do projecto no que se refere a infra-estrutura, instalação ou construção, além da amortização normal,
+
+— indemnização fiscal e pautal dos bens exportados produzidos na Tailândia.
+
+(17) A lei de promoção do investimento (*Investment Promotion Act B.E. 2544* - «IPA») proporciona incentivos para promover o desenvolvimento da economia tailandesa. A IPA, que é administrada pela Comissão do Investimento da Tailândia, concede as vantagens resultantes dos regimes referidos no ponto 3.1 no que se refere aos projectos elegíveis. Para o efeito, as empresas apresentam a sua candidatura à Comissão do Investimento para obterem um «certificado de promoção», que especifica os bens a produzir e as vantagens concedidas.
+
+(18) A lei sobre indemnização fiscal e pautal dos bens exportados produzidos no Reino, B.E.2524 (1981), enuncia os critérios e as condições de participação no regime de indemnização fiscal e pautal dos bens exportados, que é administrado pelo Ministério das Finanças tailandês.
+
+(19) A soma de todas as subvenções calculadas para cada empresa não atinge o limiar *de minimis*, ou seja, menos de 2 % *ad valorem*. Assim, em conformidade com o artigo 14.º, n.^os^ 3 e 5, do regulamento anti-subvenções de base, ainda que todas as subvenções em questão sejam passíveis de medidas de compensação, não podem ser instituídos direitos anti-subvenção sobre as exportações tailandesas. Devido ao montante *de minimis* das subvenções, não se analisou a especificidade dos regimes de subvenção referidos no considerando 16.
+
+(20) No entanto, para efeitos de clareza, explicitam-se em seguida os vários regimes e as correspondentes taxas de subvenção para cada empresa, independentemente de as subvenções serem ou não passíveis de medidas de compensação.
+
+(21) O artigo 28.º da IPA constitui a base jurídica para a isenção de direitos sobre as importações de máquinas. Ao abrigo deste regime, as empresas têm direito à isenção integral do pagamento de direitos de importação de máquinas, mediante aprovação da Comissão do Investimento, na condição de, na Tailândia, não se produzirem nem montarem tais máquinas de qualidade comparável. O artigo 28.º da IPA constitui a base jurídica para a redução de 50 % dos direitos de importação de máquinas.
+
+(22) Para beneficiarem deste regime, as empresas têm de ter um certificado de promoção que especifique o respectivo direito a isenção ou redução dos direitos de importação de máquinas, em conformidade com os artigos 28.º e 29.º da IPA. Os serviços aduaneiros recebem uma cópia da licença e a lista de máquinas aprovada previamente pela Comissão do Investimento e, aquando da importação da máquina em causa, não cobram direitos.
+
+(23) A vantagem concedida aos exportadores foi calculada com base no montante dos direitos aduaneiros não pagos, devidos sobre os bens de equipamento importados, mediante repartição deste montante por um período correspondente ao tempo normal de amortização destes bens de equipamento na indústria do produto em causa. Estabeleceu-se um período de 15 anos, consentâneo com os períodos de amortização utilizados por muitas das empresas que fabricam o produto em causa, tanto na Tailândia como na UE. O montante assim calculado, que é imputável ao período de inquérito, foi ajustado, tendo-lhe sido acrescentados os juros correspondentes ao período de inquérito, a fim de determinar o valor total da vantagem concedida ao beneficiário ao abrigo deste regime, tendo-se considerado adequada a taxa de juros comercial em vigor durante o período de inquérito, na Tailândia. Este montante foi então repartido pela totalidade das vendas durante o período de inquérito.
+
+(24) O Grupo Indorama beneficiou de uma vantagem de 0,3 % e a Siam Mitsui PTA Co., Ltd de uma vantagem de 0,19 %.
+
+(25) O artigo 31.º da IPA constitui a base jurídica para a isenção do imposto sobre o rendimento das sociedades. Na Tailândia este imposto é, regra geral, de 30 %.
+
+(26) Nenhuma das empresas objecto do inquérito beneficiou deste regime durante o período de inquérito. Todos os produtores-exportadores tailandeses compensaram as perdas de períodos contabilísticos anteriores com os lucros auferidos durante o período de inquérito. O código tailandês do imposto sobre o rendimento permite esta prática a todas empresas, sejam elas promovidas ou não pela Comissão do Investimento, e não constitui uma subvenção. Devido a este facto, as empresas objecto de inquérito não utilizaram o regime de isenção do imposto sobre o rendimento das sociedades.
+
+(27) O artigo 35.º, n.º 2, da IPA constitui a base jurídica da dupla dedução do rendimento tributável de custos de transporte, de electricidade e de água durante 10 anos a contar da data da primeira receita derivada da actividade promovida.
+
+(28) Para beneficiarem deste regime as empresas têm de ter um certificado de promoção que especifique o respectivo direito à dupla dedução do rendimento tributável de custos de transporte, de electricidade e de água, em conformidade com o artigo 35.º, n.º 2, da IPA. Além da dedução habitual dos custos acima referidos, as empresas promovidas pela Comissão do Investimento podem deduzir uma segunda vez o mesmo montante sobre o lucro indicado na declaração de imposto sobre o rendimento. As empresas devem preencher uma coluna especial na respectiva declaração de imposto anual, designada para a actividade promovida. Consequentemente, deduz-se este montante do lucro líquido tributável; ou soma-se o montante ao prejuízo líquido.
+
+(29) A vantagem concedida por este regime deve ser calculada com base no montante deduzido pela segunda vez do lucro líquido registado na declaração de imposto na coluna especial para as actividades «a promover». Em relação às outras actividades, este montante faria parte do lucro líquido tributável, ou seja, 30 % deste montante (taxa normal do imposto sobre o rendimento, na Tailândia) constitui a vantagem para as empresas. Este montante foi então repartido pela totalidade das vendas durante o período de inquérito.
+
+(30) O Grupo Indorama beneficiou de uma vantagem de 0,55 % e a Siam Mitsui PTA Co., Ltd de uma vantagem de 0,57 %.
+
+(31) O artigo 35.º, n.º 3, da IPA constitui a base jurídica deste regime, que implica a autorização de deduzir dos lucros líquidos, além da amortização normal, um montante não superior a 25 % dos custos do projecto no que se refere à instalação ou construção de infra-estruturas utilizadas na actividade promovida. Os beneficiários podem beneficiar desta vantagem num período de dez anos a partir da data da primeira receita derivada da actividade promovida.
+
+(32) Nenhuma das empresas objecto do inquérito beneficiou deste regime durante o período de inquérito. Antes do período de inquérito os produtores-exportadores ou não beneficiaram do regime de isenção do imposto sobre o rendimento (pois compensaram as perdas acumuladas do passado com os lucros realizados) ou registaram prejuízo. Por estes motivos, não puderam obter as vantagens concedidas por este regime.
+
+(33) O artigo 36.º, n.º 1, da IPA constitui a base jurídica deste regime ao abrigo do qual, a Comissão do Investimento pode conceder a isenção de direitos de importação sobre matérias-primas e essenciais utilizadas na fabricação de produtos de exportação. Podem beneficiar deste regime empresas de qualquer zona, desde que sejam empresas promovidas.
+
+(34) Nenhuma das empresas objecto do inquérito beneficiou deste regime durante o período de inquérito. O direito de importação sobre a principal matéria-prima utilizada na produção de PTA é nulo. Por conseguinte, os exportadores tailandeses objecto de inquérito não obtiveram qualquer vantagem ao abrigo deste regime.
+
+(35) A notificação da indemnização fiscal pela exportação de mercadorias produzidas no Reino da Tailândia (notificação 1/2547 - taxa de indemnização) constitui a base jurídica deste regime.
+
+(36) As empresas recebem uma restituição de 0,38 % do valor FOB dos bens exportados. A vantagem é calculada por transacção de exportação, mas as empresas normalmente apresentam vários pedidos de restituição ao mesmo tempo. As empresas apresentam pedidos de restituição à autoridade competente e recebem essas restituições.
+
+(37) A vantagem auferida ao abrigo deste regime é o montante real recebido como restituição e, consequentemente, registado na contabilidade da empresa como rendimento. Este montante foi então repartido pelas vendas de exportação durante o período de inquérito.
+
+(38) Tanto o Grupo Indorama como a Siam Mitsui PTA Co., Ltd beneficiaram de uma vantagem de 0,36 %.
+
+(39) Os montantes provisórios das subvenções, em conformidade com as disposições do regulamento de base, expressos *ad valorem*, para os produtores-exportadores tailandeses são: — **Indorama Petrochem Limited**: 1,3 % — **TPT Petrochemical Public Company Limited**: 1 % — **Siam Mitsui PTA Co., Ltd**: 1,1 %
+
+| (40) | Como a Indorama Petrochem Limited e a TPT Petrochemical Public Company Limited fazem parte do mesmo grupo, foi calculada uma taxa comum do direito anti-subvenções para ambas. A taxa final para o grupo Indorama/TPT é de 1,2 %. *Quadro recapitulativo* Regime de isenção ou redução dos direitos sobre as importações de máquinas Regime de dupla dedução do rendimento tributável Regime de indemnização fiscal pela exportação de mercadorias Margem total de subvenção Siam Mitsui 0,19 % 0,57 % 0,36 % 1,1 % Indorama 0,18 % 0,78 % 0,35 % 1,3 % TPT 0,47 % 0,23 % 0,36 % 1 % Grupo Indorama/TPT 0,3 % 0,55 % 0,36 % 1,2 % |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Regime de isenção ou redução dos direitos sobre as importações de máquinas | Regime de dupla dedução do rendimento tributável | Regime de indemnização fiscal pela exportação de mercadorias | Margem total de subvenção |
+| Siam Mitsui | 0,19 % | 0,57 % | 0,36 % | 1,1 % |
+| Indorama | 0,18 % | 0,78 % | 0,35 % | 1,3 % |
+| TPT | 0,47 % | 0,23 % | 0,36 % | 1 % |
+| Grupo Indorama/TPT | 0,3 % | 0,55 % | 0,36 % | 1,2 % |
+
+(41) Tendo em conta os montantes *de minimis* das subvenções passíveis de medidas de compensação referentes aos produtores-exportadores tailandeses, não se devem instituir medidas provisórias sobre as importações de PTA originário da Tailândia.
+
+(42) Atendendo à conclusão acima referida em relação à existência de subvenções, não se considera necessário apresentar qualquer análise sobre o prejuízo, nexo de causalidade e interesse da União.
+
+(43) O processo deve ser encerrado, pois os montantes das subvenções passíveis de medidas de compensação referentes aos produtores-exportadores tailandeses são inferiores a 2 % *ad valorem*. As partes interessadas foram, por conseguinte, informadas desse facto, tendo-lhes sido dada a oportunidade de apresentarem observações.
+
+(44) Foram recebidas observações por parte do Governo da Tailândia e de um dos autores da denúncia.
+
+(45) O Governo tailandês explicou que os regimes objecto do inquérito não podem ser considerados como regimes específicos de subvenções, na medida em que se integram na política de descentralização do país, não estão subordinados aos resultados das exportações e não limitam o acesso a determinados sectores comerciais ou regiões. A este respeito, assinale-se que o inquérito permitiu apurar claramente que os regimes objecto do inquérito utilizados pelos produtores-exportadores durante o PI (isenção ou redução dos direitos sobre as importações de máquinas, dupla dedução do rendimento tributável, indemnização fiscal pela exportação de mercadorias) são subvenções passíveis de medidas de compensação, em conformidade com as disposições do regulamento anti-subvenções de base. Por conseguinte, a alegação do Governo tailandês foi rejeitada.
+
+(46) Um dos autores da denúncia defendeu que algumas subvenções, designadamente o regime de isenção do imposto sobre o rendimento, deviam ter sido repartidas por um período mais curto. Esta alegação foi rejeitada pois nenhum dos produtores-exportadores beneficiou deste regime durante o PI.
+
+(47) Quanto a aspectos relacionados com o prejuízo, nenhuma parte interessada fez qualquer observação.
+
+(48) Em suma, nenhuma parte interessada fez qualquer observação que pusesse em causa a conclusão de que são desnecessárias medidas de protecção.
+
+(49) A Comissão conclui, por conseguinte, que deve ser encerrado o processo anti-subvenções relativo às importações na União de ácido tereftálico purificado e seus sais originários da Tailândia, sem a instituição de medidas de compensação,
+
+ADOPTOU A PRESENTE DECISÃO:
+
+###### Artigo único
+
+É encerrado o processo anti-subvenções relativo às importações de ácido tereftálico e seus sais, com uma pureza, em peso, igual ou superior a 99,5 %, actualmente classificados no código NC ex 2917 36 00, originários da Tailândia.
+
+Feito em Bruxelas, em 19 de Janeiro de 2011.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**José Manuel BARROSO**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/daf4956f-53f3-4c90-8d29-af99a6e29678.0016.03/DOC_1#ntc1-L_2011015PT.01001701-E0001) [JO L 188 de 18.7.2009, p. 93](http://publications.europa.eu/resource/oj/JOL_2009_188_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/daf4956f-53f3-4c90-8d29-af99a6e29678.0016.03/DOC_1#ntc2-L_2011015PT.01001701-E0002) [JO C 313 de 22.12.2009, p. 22](http://publications.europa.eu/resource/oj/JOC_2009_313_R_TOC).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/daf4956f-53f3-4c90-8d29-af99a6e29678.0016.03/DOC_1#ntc3-L_2011015PT.01001701-E0003) [JO C 313 de 22.12.2009, p. 17](http://publications.europa.eu/resource/oj/JOC_2009_313_R_TOC).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/daf4956f-53f3-4c90-8d29-af99a6e29678.0016.03/DOC_1#ntc4-L_2011015PT.01001701-E0004) Ver página 22 do presente Jornal Oficial.

@@ -30,7 +30,7 @@ entry_into_force:
   date: '1972-02-03'
   rule: noventa dias após a sua publicação
   method: clausula
-  article: art-34
+  article: art-38
   effects_date: null
   effects_rule: null
   end_date: null

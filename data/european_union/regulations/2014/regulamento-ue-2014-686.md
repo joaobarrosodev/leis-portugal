@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: eu:celex:32014R0686:por
+title: Regulamento (UE) n. ° 686/2014 da Comissão, de 20 de junho de 2014
+short_title: null
+summary: Regulamento (UE) n. ° 686/2014 da Comissão, de 20 de junho de 2014 , que altera os Regulamentos (CE) n. ° 983/2009
+  e (UE) n. ° 384/2010 no que se refere às condições de utilização de determinadas alegações de saúde relativas ao efeito
+  dos esteróis e estanóis vegetais sobre a redução do colesterol LDL no sangue Texto relevante para efeitos do EEE
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2014/686
+official_date: null
+publication_date: '2014-06-21'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 182 de 21.6.2014
+  number: '182'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2014-07-11'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32014R0686
+  eli: http://data.europa.eu/eli/reg/2014/686/oj
+  oj: oj:JOL_2014_182_R_0009
+  dre: null
+  dre_path: null
+  internal: eu:celex:32014R0686:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32014R0686
+  metadata_url: http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:53:33Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-17T06:41:19.959+02:00'
+integrity:
+  source_sha256: a853ed1fa3f1742747836120ebc1c07b7d8e8ae9f5e95206f89aae128bda801b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:53:33Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- informação do consumidor
+- inspeção de alimentos
+- inspeção sanitária
+- produto alimentar
+- rotulagem
+relationships:
+- type: amends
+  target: celex:32009R0983
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1e81f50c-eba0-4d22-91d3-fb5308eff5f8
+  date: '2009-10-23'
+- type: amends
+  target: celex:32010R0384
+  label: null
+  source: http://publications.europa.eu/resource/cellar/27531fdc-3b0a-4287-a2f0-7702cc2a5984
+  date: '2010-05-07'
+- type: based_on
+  target: celex:32006R1924
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e6b6f775-c3c7-48b8-a079-eb55cbc7a766
+  date: '2007-01-02'
+- type: cites
+  target: celex:32010R0376
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4187bbb3-8dcf-497f-9115-370e3192e39b
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:53:33Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO (UE) N.º 686/2014 DA COMISSÃO
+
+de 20 de junho de 2014
+
+que altera os Regulamentos (CE) n.º 983/2009 e (UE) n.º 384/2010 no que se refere às condições de utilização de determinadas alegações de saúde relativas ao efeito dos esteróis e estanóis vegetais sobre a redução do colesterol LDL no sangue
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 1924/2006 do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, relativo às alegações nutricionais e de saúde sobre os alimentos [([^1])](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2014182PT.01002701-E0001), nomeadamente o artigo 17.º, n.º 3,
+
+Considerando o seguinte:
+
+(1) O Regulamento (CE) n.º 1924/2006 estabelece que os pedidos de autorização de alegações de saúde devem ser enviados à autoridade nacional competente do Estado-Membro respetivo. A autoridade nacional competente deve transmitir esses pedidos à Autoridade Europeia para a Segurança dos Alimentos (AESA), a seguir designada por «Autoridade». A Autoridade deve emitir um parecer sobre a alegação de saúde e enviá-lo à Comissão, que decide da autorização da alegação de saúde tendo em conta o parecer da Autoridade.
+
+(2) Nos termos do artigo 16.º, n.º 4, do Regulamento (CE) n.º 1924/2006, um parecer da Autoridade favorável à autorização da alegação de saúde pode incluir condições específicas à utilização da alegação.
+
+(3) A autorização de alegações de saúde pode ser alterada na sequência de um pedido do requerente ou do utilizador de acordo com o artigo 19.º, n.º 1, do Regulamento (CE) n.º 1924/2006, ou na sequência de um parecer da Autoridade emitido por sua iniciativa ou a pedido de um Estado-Membro ou da Comissão, em conformidade com o artigo 19.º, n.º 2, do Regulamento (CE) n.º 1924/2006.
+
+(4) Na sequência da emissão de um parecer pela Autoridade com base num pedido da Comissão e de um pedido semelhante da França, relativos à possibilidade de indicar um efeito quantitativo nas alegações de saúde relacionadas com os efeitos dos esteróis e ésteres de estanóis vegetais sobre a redução do colesterol LDL no sangue (Perguntas n.^os^ EFSA-Q-2009-00530 e Q-2009-00718) [([^2])](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2014182PT.01002701-E0002) a Comissão alterou, através do Regulamento (UE) n.º 376/2010 [([^3])](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2014182PT.01002701-E0003), as condições de utilização de duas alegações de saúde relacionadas com os efeitos dos esteróis vegetais e dos ésteres de estanóis vegetais sobre a redução do colesterol no sangue, tal como estabelecidas no Regulamento (CE) n.º 983/2009 da Comissão [([^4])](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2014182PT.01002701-E0004), mediante a indicação de um efeito quantitativo. Além disso, com base no mesmo parecer da Autoridade, a Comissão autorizou, através do Regulamento (UE) n.º 384/2010 [([^5])](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2014182PT.01002701-E0005), uma alegação de saúde relativa aos efeitos dos esteróis vegetais e dos ésteres de estanóis vegetais sobre a redução do colesterol LDL no sangue, estabelecendo condições de utilização relativas à indicação de um efeito quantitativo.
+
+(5) No seguimento de um pedido da empresa Raisio Nutrition Ltd, apresentado ao abrigo do artigo 14.º, n.º 1, alínea a), do Regulamento (CE) n.º 1924/2006, pediu-se à Autoridade que emitisse um parecer sobre uma alegação de saúde relacionada com os efeitos dos estanóis vegetais, sob a forma de ésteres de estanóis vegetais, sobre a redução das concentrações de colesterol LDL no sangue (Pergunta n.º EFSA-Q-2011-00851) [([^6])](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2014182PT.01002701-E0006). A alegação proposta pelo requerente tinha a seguinte redação: «Foi demonstrado que o consumo diário de 3 g de estanóis vegetais em forma de éster reduz o colesterol no sangue em 12 %. O colesterol elevado é um fator derisco no desenvolvimento de doenças coronárias». O requerente solicitou ainda que fosse mencionado que a duração mínima para obter o efeito era de uma a duas semanas, e que fosse concedida uma autorização para as alegações sobre uma gama alargada de alimentos, incluindo produtos gordos para barrar de cor amarela, produtos lácteos, queijo, pão de centeio, farinha de aveia, produtos à base de leite de soja fermentada (produtos de tipo iogurte para beber ou comer) e bebidas lácteas à base de aveia.
+
+(6) Com base nos dados apresentados, a Autoridade concluiu no seu parecer, recebido pela Comissão e pelos Estados-Membros em 16 de maio de 2012, que a ingestão diária de 3 g (intervalo 2,7-3,3 g) de ésteres de estanóis vegetais reduz o colesterol LDL no sangue em 11,4 % (intervalo de confiança de 95 %: 9,8-13,0), e que a duração mínima para atingir o efeito máximo dos ésteres de estanóis vegetais na redução do colesterol LDL no sangue é de duas a três semanas. Além disso, a Autoridade concluiu que, enquanto já foi consistentemente demonstrado o efeito de redução do colesterol LDL no sangue dos ésteres de estanóis vegetais adicionados a alimentos como produtos para barrar de tipo margarina, maionese, molhos para saladas e a produtos lácteos como leite, iogurte, incluindo iogurte magro, e queijo, o nível dos efeitos de redução do colesterol pelos estanóis vegetais adicionados a outros tipos de alimentos ainda não foi bem estabelecido.
+
+(7) A Unilever PLC e a Unilever NV apresentaram, em conformidade com o artigo 19.º do Regulamento (CE) n.º 1924/2006, um pedido de alteração das condições de utilização das alegações de saúde relacionadas com os efeitos dos esteróis e estanóis vegetais sobre a redução do colesterol LDL no sangue (Pergunta n.º EFSA-Q-2011-01241) [([^7])](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr7-L_2014182PT.01002701-E0007). A alteração diz respeito à magnitude do efeito de redução do colesterol LDL no sangue (7-12 %) para uma ingestão diária de 1,5 g a 3 g de esteróis e estanóis vegetais. O requerente solicitou ainda que fosse mencionado que a duração mínima para obter o efeito é de uma a duas semanas.
+
+(8) Com base nos dados apresentados, a Autoridade concluiu no seu parecer, recebido pela Comissão e pelos Estados-Membros em 16 de maio de 2012, que a ingestão diária de 3 g (intervalo 2,6-3,4 g) de esteróis vegetais e ésteres de estanóis vegetais reduz o colesterol LDL no sangue em 11,3 % (intervalo de confiança de 95 %: 10,0-12,5), e que a duração mínima para atingir o efeito máximo dos esteróis e estanóis vegetais na redução do colesterol LDL no sangue é de duas a três semanas. A Autoridade também salientou no seu parecer que os esteróis vegetais e os estanóis vegetais, quando ingeridos em doses diárias de 1,5 a 3 g têm uma eficácia semelhante na redução do colesterol LDL no sangue.
+
+(9) As condições de utilização das alegações de saúde autorizadas sobre os esteróis vegetais, os ésteres de estanóis vegetais e os esteróis vegetais/ésteres de estanóis vegetais, tal como se estabelece nos Regulamentos (CE) n.º 983/2009 e (UE) n.º 384/2010, preveem que pode ser feita uma referência à magnitude do efeito redutor do colesterol relativamente a alimentos abrangidos por certas categorias. De acordo com essas condições, quando for referida a magnitude do efeito redutor do colesterol, os consumidores devem ser informados de que os esteróis vegetais e/ou os ésteres de estanóis vegetais, ingeridos a doses diárias entre 1,5 e 2,4 g, reduzem o colesterol LDL no sangue em 7 a 10 % num período de duas a três semanas. Uma vez que existem provas novas que revelam que se alcança um efeito adicional com doses mais elevadas dessas substâncias, até 3 g por dia, afigura-se necessário alterar essas condições de utilização no atinente às informações a prestar aos consumidores acerca da magnitude do efeito e da dose diária necessária, tendo em conta os pareceres científicos da Autoridade.
+
+(10) A fim de garantir que as alegações autorizadas pelos Regulamentos (CE) n.º 983/2009 e (UE) n.º 384/2010 não confundem nem induzem o consumidor em erro, as condições de utilização relativas às informações a prestar aos consumidores acerca da magnitude do efeito redutor do colesterol devem ser estabelecidas de forma coerente. Uma vez que os esteróis vegetais e os estanóis vegetais têm uma eficácia semelhante, quando ingeridos a doses entre 1,5 e 3 g por dia, é adequado indicar a mesma magnitude do efeito para os esteróis vegetais, os ésteres de estanóis vegetais e os esteróis vegetais/ésteres de estanóis vegetais. O Regulamento (CE) n.º 608/2004 da Comissão [([^8])](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntr8-L_2014182PT.01002701-E0008) determina que se deve evitar o consumo de mais de 3 g de esteróis vegetais e estanóis vegetais. É assim adequado que, nas condições de utilização, só sejam estabelecidos intervalos de ingestão com um máximo de 3 g.
+
+(11) Os Regulamentos (CE) n.º 983/2009 e (UE) n.º 384/2010 devem, pois, ser alterados em conformidade.
+
+(12) As observações dos requerentes e dos cidadãos recebidas pela Comissão ao abrigo do artigo 16.º, n.º 6, do Regulamento (CE) n.º 1924/2006 foram tidas em conta na definição das medidas previstas no presente regulamento.
+
+(13) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º — Alterações ao Regulamento (CE) n.º 983/2009
+
+O anexo I do Regulamento (CE) n.º 983/2009 é alterado do seguinte modo:
+
+1) A primeira entrada (relativa à alegação de saúde: «Foi demonstrado que os esteróis vegetais baixam/reduzem o colesterol no sangue. Colesterol elevado é um fator de risco no desenvolvimento de doenças coronárias») é alterada do seguinte modo: a) O texto da quinta coluna («Condições de utilização da alegação») passa a ter a seguinte redação: «Informação ao consumidor de que o efeito benéfico é obtido com uma dose diária de 1,5-3 g de esteróis vegetais. A magnitude do efeito só pode ser referida em alimentos pertencentes às seguintes categorias: produtos gordos para barrar de cor amarela, produtos lácteos, maionese e molhos para saladas. Ao referir a magnitude do efeito, deve comunicar-se ao consumidor a gama “7 a 10 %” relativamente aos alimentos que proporcionam uma ingestão diária de 1,5-2,4 g de esteróis vegetais ou a gama “10 a 12,5 %” relativamente aos alimentos que proporcionam uma ingestão diária de 2,5-3 g de esteróis vegetais, assim como a duração necessária para obter o efeito “em 2 a 3 semanas”.»; b) O texto da sétima coluna («Referência do parecer da AESA») passa a ter a seguinte redação: «Q-2008-085 Q-2009-00530 e Q-2009-00718 Q-2011-01241».
+
+a) O texto da quinta coluna («Condições de utilização da alegação») passa a ter a seguinte redação: «Informação ao consumidor de que o efeito benéfico é obtido com uma dose diária de 1,5-3 g de esteróis vegetais. A magnitude do efeito só pode ser referida em alimentos pertencentes às seguintes categorias: produtos gordos para barrar de cor amarela, produtos lácteos, maionese e molhos para saladas. Ao referir a magnitude do efeito, deve comunicar-se ao consumidor a gama “7 a 10 %” relativamente aos alimentos que proporcionam uma ingestão diária de 1,5-2,4 g de esteróis vegetais ou a gama “10 a 12,5 %” relativamente aos alimentos que proporcionam uma ingestão diária de 2,5-3 g de esteróis vegetais, assim como a duração necessária para obter o efeito “em 2 a 3 semanas”.»;
+
+b) O texto da sétima coluna («Referência do parecer da AESA») passa a ter a seguinte redação: «Q-2008-085 Q-2009-00530 e Q-2009-00718 Q-2011-01241».
+
+2) A segunda entrada (relativa à alegação de saúde: «Foi demonstrado que os ésteres de estanóis vegetais baixam/reduzem o colesterol no sangue. Colesterol elevado é um fator de risco no desenvolvimento de doenças coronárias») é alterada do seguinte modo: a) O texto da quinta coluna («Condições de utilização da alegação») passa a ter a seguinte redação: «Informação ao consumidor de que o efeito benéfico é obtido com uma dose diária de 1,5-3 g de estanóis vegetais. A magnitude do efeito só pode ser referida em alimentos pertencentes às seguintes categorias: produtos gordos para barrar de cor amarela, produtos lácteos, maionese e molhos para saladas. Ao referir a magnitude do efeito, deve comunicar-se ao consumidor a gama “7 a 10 %” relativamente aos alimentos que proporcionam uma ingestão diária de 1,5-2,4 g de estanóis vegetais ou a gama “10 a 12,5 %” relativamente aos alimentos que proporcionam uma ingestão diária de 2,5-3 g de estanóis vegetais, assim como a duração necessária para obter o efeito “em 2 a 3 semanas”.»; b) O texto da sétima coluna («Referência do parecer da AESA») passa a ter a seguinte redação: «Q-2008-118 Q-2009-00530 e Q-2009-00718 Q-2011-00851 Q-2011-01241».
+
+a) O texto da quinta coluna («Condições de utilização da alegação») passa a ter a seguinte redação: «Informação ao consumidor de que o efeito benéfico é obtido com uma dose diária de 1,5-3 g de estanóis vegetais. A magnitude do efeito só pode ser referida em alimentos pertencentes às seguintes categorias: produtos gordos para barrar de cor amarela, produtos lácteos, maionese e molhos para saladas. Ao referir a magnitude do efeito, deve comunicar-se ao consumidor a gama “7 a 10 %” relativamente aos alimentos que proporcionam uma ingestão diária de 1,5-2,4 g de estanóis vegetais ou a gama “10 a 12,5 %” relativamente aos alimentos que proporcionam uma ingestão diária de 2,5-3 g de estanóis vegetais, assim como a duração necessária para obter o efeito “em 2 a 3 semanas”.»;
+
+b) O texto da sétima coluna («Referência do parecer da AESA») passa a ter a seguinte redação: «Q-2008-118 Q-2009-00530 e Q-2009-00718 Q-2011-00851 Q-2011-01241».
+
+###### Artigo 2.º — Alterações ao Regulamento (UE) n.º 384/2010
+
+A primeira entrada do anexo I do Regulamento (UE) n.º 384/2010 (relativa à alegação de saúde: «Foi demonstrado que os esteróis vegetais e os ésteres de estanóis vegetais baixam/reduzem o colesterol no sangue. O colesterol elevado é um fator de risco no desenvolvimento de doenças coronárias») é alterada do seguinte modo:
+
+a) O texto da quinta coluna («Condições de utilização da alegação») passa a ter a seguinte redação: «Informação ao consumidor de que o efeito benéfico é obtido com uma dose diária de 1,5-3 g de esteróis/estanóis vegetais. A magnitude do efeito só pode ser referida em alimentos pertencentes às seguintes categorias: produtos gordos para barrar de cor amarela, produtos lácteos, maionese e molhos para saladas. Ao referir a magnitude do efeito, deve comunicar-se ao consumidor a gama “7 a 10 %” relativamente aos alimentos que proporcionam uma ingestão diária de 1,5-2,4 g de esteróis/estanóis vegetais ou a gama “10 a 12,5 %” relativamente aos alimentos que proporcionam uma ingestão diária de 2,5-3 g de esteróis/estanóis vegetais, assim como a duração necessária para obter o efeito “em 2 a 3 semanas”.»;
+
+b) O texto da sétima coluna («Referência do parecer da AESA») passa a ter a seguinte redação: «Q-2008-779 Q-2009-00530 e Q-2009-00718 Q-2011-01241».
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 20 de junho de 2014.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**José Manuel BARROSO**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2014182PT.01002701-E0001) [JO L 404 de 30.12.2006, p. 9](http://publications.europa.eu/resource/oj/JOL_2006_404_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2014182PT.01002701-E0002) *EFSA Journal* (2009), 1175, p. 1-9.
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2014182PT.01002701-E0003) Regulamento (UE) n.º 376/2010 da Comissão, de 3 de maio de 2010, que altera o Regulamento (CE) n.º 983/2009 relativo à autorização e à recusa de autorização de determinadas alegações de saúde sobre os alimentos que referem a redução de um risco de doença ou o desenvolvimento e a saúde das crianças ([JO L 111 de 4.5.2010, p. 3](http://publications.europa.eu/resource/oj/JOL_2010_111_R_TOC)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2014182PT.01002701-E0004) Regulamento (CE) n.º 983/2009 da Comissão, de 21 de outubro de 2009, relativo à autorização e à recusa de autorização de determinadas alegações de saúde sobre os alimentos que referem a redução de um risco de doença ou o desenvolvimento e a saúde das crianças ([JO L 277 de 22.10.2009, p. 3](http://publications.europa.eu/resource/oj/JOL_2009_277_R_TOC)).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2014182PT.01002701-E0005) Regulamento (UE) n.º 384/2010, de 5 de maio de 2010, relativo à autorização e à recusa de autorização de determinadas alegações de saúde sobre os alimentos que referem a redução de um risco de doença ou o desenvolvimento e a saúde das crianças ([JO L 113 de 6.5.2010, p. 6](http://publications.europa.eu/resource/oj/JOL_2010_113_R_TOC)).
+
+> [(^6^)](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2014182PT.01002701-E0006) EFSA *Journal* 2012; 10(5):2692.
+
+> [(^7^)](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc7-L_2014182PT.01002701-E0007) EFSA *Journal* 2012; 10(5):2693.
+
+> [(^8^)](http://publications.europa.eu/resource/cellar/72eed6ca-f903-11e3-831f-01aa75ed71a1.0018.03/DOC_1#ntc8-L_2014182PT.01002701-E0008) Regulamento (CE) n.º 608/2004 da Comissão, de 31 de março de 2004, relativo à rotulagem de alimentos e ingredientes alimentares aos quais foram adicionados fitoesteróis, ésteres de fitoesterol, fitoestanóis e/ou ésteres de fitoestanol ([JO L 97 de 1.4.2004, p. 44](http://publications.europa.eu/resource/oj/JOL_2004_097_R_TOC)).

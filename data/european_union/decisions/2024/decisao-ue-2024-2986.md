@@ -1,0 +1,170 @@
+---
+schema_version: '1.0'
+id: eu:celex:32024D2986:por
+title: Decisão Delegada (UE) 2024/2986 da Comissão, de 24 de setembro de 2024
+short_title: null
+summary: Decisão Delegada (UE) 2024/2986 da Comissão, de 24 de setembro de 2024, relativa à inclusão unilateral de setores
+  pela Áustria no sistema de comércio de licenças de emissão da União para os setores dos edifícios, do transporte rodoviário
+  e outros setores nos termos do artigo 30.o-J da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão Delegado
+issuing_authority:
+- Comissão Europeia
+- CLIMA
+proposing_entity: null
+official_number: 2024/2986
+official_date: null
+publication_date: '2024-12-03'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L, 2024/2986, 3.12.2024
+  number: '2986'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/9c9f8a7d-b117-11ef-acb1-01aa75ed71a1.0020.01/DOC_1
+entry_into_force_dates:
+- '2024-12-06'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32024D2986
+  eli: http://data.europa.eu/eli/dec_del/2024/2986/oj
+  oj: oj:L_202402986
+  dre: null
+  dre_path: null
+  internal: eu:celex:32024D2986:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32024D2986
+  metadata_url: http://publications.europa.eu/resource/cellar/9c9f8a7d-b117-11ef-acb1-01aa75ed71a1.0020
+  content_url: http://publications.europa.eu/resource/cellar/9c9f8a7d-b117-11ef-acb1-01aa75ed71a1.0020.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:25:20Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-12-03T02:56:18.115+01:00'
+integrity:
+  source_sha256: 679a46ceb9c2c798f07fc8ce428bf8aa6dd470e6555c46e3dbbb716bf7b71279
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:25:20Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Regime de Comércio de Licenças de Emissão da UE
+- adaptação às alterações climáticas
+- autorização de poluir negociável
+- controlo da poluição
+- edifício
+- gás de efeito de estufa
+- licença de emissão da UE
+- transporte rodoviário
+- vigilância do ambiente
+- Áustria
+relationships:
+- type: based_on
+  target: celex:32003L0087
+  label: null
+  source: http://publications.europa.eu/resource/cellar/518d47fe-bb29-4eac-a25e-42d0499f4e19
+  date: '2003-10-28'
+- type: cites
+  target: celex:32018R0842
+  label: null
+  source: http://publications.europa.eu/resource/cellar/33b50796-7380-11e8-9483-01aa75ed71a1
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:25:20Z'
+  warnings: []
+  errors: []
+---
+
+# DECISÃO DELEGADA (UE) 2024/2986 DA COMISSÃO
+
+de 24 de setembro de 2024
+
+relativa à inclusão unilateral de setores pela Áustria no sistema de comércio de licenças de emissão da União para os setores dos edifícios, do transporte rodoviário e outros setores nos termos do artigo 30.º-J da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta a Diretiva 2003/87/CE do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, relativa à criação de um sistema de comércio de licenças de emissão de gases com efeito de estufa na União e que altera a Diretiva 96/61/CE do Conselho [([^1])](http://publications.europa.eu/resource/cellar/9c9f8a7d-b117-11ef-acb1-01aa75ed71a1.0020.03/DOC_1#ntr1-L_202402986PT.000101-E0001), nomeadamente o artigo 30.º-J,
+
+Considerando o seguinte:
+
+(1) O artigo 30.º-J, n.º 1, da Diretiva 2003/87/CE confere aos Estados-Membros a possibilidade de, a partir de 2027, alargarem unilateralmente a aplicação do sistema de comércio de licenças de emissão na União («CELE») para os setores dos edifícios, do transporte rodoviário e outros setores, a setores não enumerados no anexo III da Diretiva 2003/87/CE.
+
+(2) Ao recorrerem a esta possibilidade, os Estados-Membros devem ter em conta, nomeadamente, os efeitos no mercado interno, as potenciais distorções da concorrência, a integridade ambiental do sistema de comércio de licenças de emissão e a fiabilidade do sistema previsto de monitorização e comunicação de informações.
+
+(3) Em 31 de maio de 2024, a Áustria apresentou formalmente um pedido para alargar a aplicação do sistema de comércio de licenças de emissão para os setores dos edifícios, do transporte rodoviário e outros setores a um conjunto de setores ainda não abrangidos pelo anexo III ou pelos capítulos II e III da Diretiva 2003/87/CE.
+
+(4) As autoridades austríacas explicaram que este alargamento unilateral facilitaria a transição do sistema nacional de fixação de preços do CO2 para o novo sistema de comércio de licenças de emissão para os setores dos edifícios, do transporte rodoviário e outros setores. Permitiria igualmente reduzir os custos administrativos e facilitaria os processos de monitorização e comunicação para as entidades regulamentadas e a autoridade nacional competente.
+
+(5) No entender da Comissão, alargar o âmbito do CELE para além da lista de atividades enumeradas no anexo III da Diretiva 2003/87/CE, tal como solicitado pela Áustria, teria efetivamente benefícios ambientais e conduziria a uma simplificação administrativa para os fornecedores de combustível que atuam como entidades regulamentadas na Áustria.
+
+(6) Com base nos dados revistos de 2020 relativos às emissões de gases com efeito de estufa em 2016, 2017 e 2018, em conformidade com o artigo 4.º, n.º 3, do Regulamento (UE) 2018/842 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/9c9f8a7d-b117-11ef-acb1-01aa75ed71a1.0020.03/DOC_1#ntr2-L_202402986PT.000101-E0002), a quantidade total média de emissões correspondente aos setores indicados pela Áustria no contexto do presente pedido de alargamento unilateral ascende a 1 034 563 tCO2. Esta quantidade será utilizada como base para o cálculo da futura quantidade de licenças de emissão adicionais a emitir a partir de 2027.
+
+(7) A Comissão avaliou as metodologias de monitorização e comunicação previstas pela Áustria, tendo concluído pela sua fiabilidade e conformidade com os requisitos do artigo 30.º-J da Diretiva 2003/87/CE.
+
+(8) O regime de impostos especiais de consumo em vigor na Áustria, em especial as infraestruturas de distribuição, não permite efetivamente às entidades regulamentadas diferenciar a utilização final de combustíveis entre, por um lado, os setores já abrangidos pelo anexo III da Diretiva 2003/87/CE e, por outro, os setores abrangidos pelo presente alargamento do âmbito de aplicação. A fim de facilitar a monitorização, comunicação e verificação das emissões de forma eficaz em termos de custos e reduzir os encargos administrativos associados à comunicação de informações sobre o fator do âmbito nos relatórios anuais de emissões e nos planos de monitorização, as entidades regulamentadas não devem ser obrigadas a distinguir a comunicação das informações sobre as emissões registadas nos setores abrangidos pelo alargamento do âmbito das informações sobre as emissões registadas nos setores já abrangidos pelo anexo III da Diretiva 2003/87/CE.
+
+(9) A fim de cumprir o ciclo anual normal de monitorização, comunicação e verificação das emissões no novo sistema de comércio de licenças de emissão para os setores dos edifícios, do transporte rodoviário e outros setores, é conveniente que as entidades regulamentadas comuniquem as emissões verificadas para o âmbito alargado a partir de 1 de janeiro de 2025, em conformidade com o artigo 30.º-F, n.º 2, da Diretiva 2003/87/CE,
+
+ADOTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º — Âmbito da aprovação do alargamento unilateral
+
+É aprovado o alargamento, na Áustria, da atividade referida no anexo III da Diretiva 2003/87/CE aos setores enumerados no anexo da presente decisão, sob reserva das condições mencionadas no artigo 3.º.
+
+###### Artigo 2.º — Autorização da concessão de licenças de emissão adicionais
+
+As licenças de emissão adicionais a conceder em 2027 terão por base a quantidade média de emissões totais de 1 034 563 tCO2 comunicada pela Áustria para os setores enumerados no anexo da presente decisão para 2016, 2017 e 2018, em conformidade com as regras estabelecidas no artigo 30.º-C, n.º 1, da Diretiva 2003/87/CE.
+
+###### Artigo 3.º — Obrigações de monitorização e de comunicação de informações
+
+A Áustria deve assegurar que cada entidade regulamentada monitoriza e comunica à autoridade competente, em conformidade com o artigo 30.º-F, n.º 2, da Diretiva 2003/87/CE, relativamente a cada ano civil, as emissões correspondentes às quantidades de combustíveis introduzidas no consumo nos setores enumerados no anexo da presente decisão ocorridas a partir de 1 de janeiro de 2025.
+
+###### Artigo 4.º — Entrada em vigor e aplicação
+
+A presente decisão entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+Feito em Bruxelas, em 24 de setembro de 2024.
+
+***Pela Comissão***
+
+***A Presidente***
+
+**Ursula VON DER LEYEN**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/9c9f8a7d-b117-11ef-acb1-01aa75ed71a1.0020.03/DOC_1#ntc1-L_202402986PT.000101-E0001) [JO L 275 de 25.10.2003, p. 32](http://publications.europa.eu/resource/oj/JOL_2003_275_R_TOC), ELI: [http://data.europa.eu/eli/dir/2003/87/oj](http://data.europa.eu/eli/dir/2003/87/oj).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/9c9f8a7d-b117-11ef-acb1-01aa75ed71a1.0020.03/DOC_1#ntc2-L_202402986PT.000101-E0002) Regulamento (UE) 2018/842 do Parlamento Europeu e do Conselho, de 30 de maio de 2018, relativo às reduções anuais obrigatórias das emissões de gases com efeito de estufa pelos Estados-Membros entre 2021 e 2030 como contributo para a ação climática a fim de cumprir os compromissos assumidos no âmbito do Acordo de Paris e que altera o Regulamento (UE) n.º 525/2013 ([JO L 156 de 19.6.2018, p. 26](http://publications.europa.eu/resource/oj/JOL_2018_156_R_TOC), ELI: [http://data.europa.eu/eli/reg/2018/842/oj](http://data.europa.eu/eli/reg/2018/842/oj)).

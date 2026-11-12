@@ -35,7 +35,13 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1186535405:por#art-5'
+    detail: a) A [Portaria n.º 435/2023], de 13 de dezembro
 notes: []
 language: por
 version:

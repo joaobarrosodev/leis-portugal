@@ -25,10 +25,10 @@ publication:
 entry_into_force_dates:
 - '2003-09-21'
 entry_into_force:
-  date: '2003-09-21'
-  rule: no dia seguinte ao da sua publicação
-  method: clausula
-  article: art-43
+  date: '2003-09-25'
+  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
+  method: supletiva
+  article: null
   effects_date: null
   effects_rule: null
   end_date: null

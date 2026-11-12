@@ -29,7 +29,7 @@ entry_into_force:
   date: '2000-07-22'
   rule: no dia imediato ao da sua publicação
   method: clausula
-  article: null
+  article: n-2
   effects_date: null
   effects_rule: null
   end_date: null

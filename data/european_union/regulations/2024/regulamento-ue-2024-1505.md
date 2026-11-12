@@ -1,0 +1,224 @@
+---
+schema_version: '1.0'
+id: eu:celex:32024R1505:por
+title: Regulamento Delegado (UE) 2024/1505 da Comissão, de 22 de fevereiro de 2024
+short_title: null
+summary: Regulamento Delegado (UE) 2024/1505 da Comissão, de 22 de fevereiro de 2024, que complementa o Regulamento (UE) 2022/2554
+  do Parlamento Europeu e do Conselho determinando o montante das taxas de superintendência a cobrar pela autoridade fiscalizadora
+  principal aos terceiros prestadores de serviços de TIC críticos e o modo de pagamento dessas taxas
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento Delegado
+issuing_authority:
+- Comissão Europeia
+- FISMA
+proposing_entity: null
+official_number: 2024/1505
+official_date: null
+publication_date: '2024-05-30'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L, 2024/1505, 30.5.2024
+  number: '1505'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/f1655a4b-1e21-11ef-a251-01aa75ed71a1.0020.01/DOC_1
+entry_into_force_dates:
+- '2024-06-19'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32024R1505
+  eli: http://data.europa.eu/eli/reg_del/2024/1505/oj
+  oj: oj:L_202401505
+  dre: null
+  dre_path: null
+  internal: eu:celex:32024R1505:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32024R1505
+  metadata_url: http://publications.europa.eu/resource/cellar/f1655a4b-1e21-11ef-a251-01aa75ed71a1.0020
+  content_url: http://publications.europa.eu/resource/cellar/f1655a4b-1e21-11ef-a251-01aa75ed71a1.0020.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:26:18Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-05-30T03:31:18.833+02:00'
+integrity:
+  source_sha256: 4446bf2376245a5ac19a3a1781cebf8aa140fdfbbce001baf5b5bf5b98c95290
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:26:18Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- computação na nuvem
+- custos bancários
+- digitalização
+- externalização
+- gestão de riscos
+- mercado único digital
+- segurança da informação
+- serviços financeiros
+- tecnologia da informação
+- tecnologia financeira
+relationships:
+- type: based_on
+  target: celex:32022R2554
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1
+  date: '2022-12-27'
+- type: cites
+  target: celex:32018R1046
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5e3c1d89-93bd-11e8-8bc1-01aa75ed71a1
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:26:18Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DELEGADO (UE) 2024/1505 DA COMISSÃO
+
+de 22 de fevereiro de 2024
+
+que complementa o Regulamento (UE) 2022/2554 do Parlamento Europeu e do Conselho determinando o montante das taxas de superintendência a cobrar pela autoridade fiscalizadora principal aos terceiros prestadores de serviços de TIC críticos e o modo de pagamento dessas taxas
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) 2022/2554 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2022, relativo à resiliência operacional digital do setor financeiro e que altera os Regulamentos (CE) n.º 1060/2009, (UE) n.º 648/2012, (UE) n.º 600/2014, (UE) n.º 909/2014 e (UE) 2016/1011 [([^1])](http://publications.europa.eu/resource/cellar/f1655a4b-1e21-11ef-a251-01aa75ed71a1.0020.03/DOC_1#ntr1-L_202401505PT.000101-E0001), nomeadamente o artigo 43.º, n.º 2,
+
+Considerando o seguinte:
+
+(1) Deve ser determinada uma taxa de superintendência anual para cobrir integralmente as despesas necessárias da autoridade fiscalizadora principal e das outras Autoridades Europeias de Supervisão no exercício de funções de supervisão no contexto do Regulamento (UE) 2022/2554. A taxa de superintendência anual deve cobrir igualmente os custos estimados pelas autoridades competentes nas quais as Autoridades Europeias de Supervisão delegam funções.
+
+(2) Em conformidade com os princípios da anualidade e da recuperação total dos custos, as taxas de superintendência anuais devem ser calculadas com base na estimativa dos custos diretos e indiretos a suportar pelas Autoridades Europeias de Supervisão na execução das suas funções de supervisão. As taxas de superintendência anuais devem ser ajustadas todos os anos para corresponder aos custos estimados.
+
+(3) A fim de assegurar uma repartição correta das taxas de superintendência que, ao mesmo tempo, reflita o esforço administrativo efetivo consagrado a cada prestador supervisionado, a taxa de superintendência anual deve ser proporcionada ao volume de negócios gerado pelo terceiro prestador de serviços de TIC na União com a prestação de serviços de TIC a clientes de serviços financeiros.
+
+(4) A fim de assegurar a exatidão das informações financeiras necessárias para calcular o volume de negócios aplicável, todos os valores fornecidos pelos terceiros prestadores de serviços de TIC devem ser auditados. Dado que as informações sobre o volume de negócios aplicável são necessárias para que a autoridade fiscalizadora principal determine anualmente o montante da taxa de superintendência cobrada a cada terceiro prestador de serviços de TIC crítico para cobrir os custos da supervisão, a autoridade fiscalizadora principal deve ter em conta as receitas mundiais do terceiro prestador de serviços de TIC geradas independentemente dos tipos de clientes, caso o terceiro prestador de serviços de TIC crítico não forneça informações específicas sobre as receitas geradas na União com a prestação de serviços de TIC às instituições financeiras,
+
+(5) Deverá ser imposta uma taxa de superintendência anual mínima a cada terceiro prestador de serviços de TIC crítico, uma vez que determinados custos administrativos fixos se aplicam à supervisão de todos os terceiros prestadores de serviços de TIC críticos, independentemente do volume de negócios acumulado.
+
+(6) A fim de ter em conta os custos específicos incorridos durante o primeiro ano de designação e supervisão dos terceiros prestadores de serviços de TIC críticos (relacionados, nomeadamente, com o processo de designação e a nomeação da autoridade fiscalizadora principal), deve ser estabelecida uma taxa fixa. A fim de refletir os custos incorridos com a supervisão na sequência da designação do terceiro prestador de serviços de TIC crítico, esta taxa deve ser ajustada em função do período do primeiro ano durante o qual o terceiro prestador de serviços de TIC crítico foi designado. Deverá substituir a taxa de superintendência anual desse ano.
+
+(7) A fim de cobrir os custos adicionais relativos à designação dos terceiros prestadores de serviços de TIC críticos que solicitem voluntariamente ser designados como críticos nos termos do artigo 31.º, n.º 11, do Regulamento (UE) 2022/2554, deve ser apurada uma taxa adicional fixa. A fim de desencorajar pedidos infundados, essa taxa fixa adicional não deverá ser reembolsada se um terceiro prestador de serviços de TIC retirar o seu pedido durante o processo de registo, nem se o pedido for rejeitado.
+
+(8) A fim de assegurar o pagamento atempado das taxas de superintendência, as mesmas devem ser pagas no prazo de 30 dias a contar da data de emissão da nota de débito por parte da autoridade fiscalizadora principal. A fim de simplificar os fluxos de pagamento de taxas e assegurar que as AES dispõem dos fundos necessários para o exercício das suas atividades de supervisão planeadas, as taxas de superintendência anuais devem ser pagas numa prestação única durante os primeiros quatro meses do ano civil para o qual essas taxas são devidas por terceiros prestadores de serviços de TIC críticos sujeitos a atividades de supervisão em 1 de janeiro desse ano ou, no caso de terceiros prestadores de serviços de TIC críticos designados durante um determinado ano, o mais tardar até ao final desse ano.
+
+(9) Todas as taxas cobradas devem ser fixadas a um nível que evite um défice ou uma acumulação significativa de excedentes. Em caso de resultados orçamentais significativamente positivos ou negativos recorrentes, o nível das taxas deverá ser revisto,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º — Estimativa das despesas da autoridade fiscalizadora principal no exercício das suas funções de supervisão
+
+1. Cada ano, a autoridade fiscalizadora principal e as outras Autoridades Europeias de Supervisão devem estimar os custos anuais totais em que preveem incorrer no exercício das suas funções de supervisão. O montante dos custos totais anuais estimados constitui a base para a determinação do montante total das taxas de superintendência cobradas.
+
+2. Ao estimar os custos totais anuais, a autoridade fiscalizadora principal deve ter em conta os seguintes custos diretos e indiretos:
+
+a) Os custos relacionados com a designação dos terceiros prestadores de serviços de TIC críticos;
+
+b) Os custos relacionados com a nomeação da autoridade fiscalizadora principal;
+
+c) Os custos relacionados com a supervisão efetiva dos terceiros prestadores de serviços de TIC críticos, incluindo o seguinte: i) custos relacionados com o trabalho realizado pela equipa de exame conjunto, ii) custos de aconselhamento prestado por peritos independentes;
+
+i) custos relacionados com o trabalho realizado pela equipa de exame conjunto,
+
+ii) custos de aconselhamento prestado por peritos independentes;
+
+d) Os custos relacionados com o seguimento dado às recomendações emitidas pelas autoridades fiscalizadoras principais em conformidade com o artigo 35.º, n.º 1, alínea d), do Regulamento (UE) 2022/2554;
+
+e) Os custos relacionados com a governação do quadro de superintendência.
+
+###### Artigo 2.º — Volume de negócios dos terceiros prestadores de serviços de TIC críticos aplicável ao cálculo das taxas de superintendência
+
+1. Para efeitos do artigo 3.º, o volume de negócios de um terceiro prestador de serviços de TIC crítico corresponde às receitas geradas na União pela prestação dos serviços de TIC enumerados nas normas técnicas de execução adotadas nos termos do artigo 28.º, n.º 9, do Regulamento (UE) 2022/2554 e fornecidos às!instituições financeiras enumeradas no artigo 2.º, n.º 1, do Regulamento (UE) 2022/2554.
+
+2. Os terceiros prestadores de serviços de TIC críticos devem fornecer anualmente à autoridade fiscalizadora principal, no ano n-1, os valores auditados que especifiquem o volume de negócios a que se refere o n.º 1 relativamente ao ano n-2. Os terceiros prestadores de serviços de TIC críticos devem fornecer esses valores à autoridade fiscalizadora principal até 31 de dezembro de cada ano.
+
+3. Se, até à data referida no n.º 2, o terceiro prestador de serviços de TIC crítico não fornecer à autoridade fiscalizadora principal dados auditados que se limitem às receitas geradas pela prestação de serviços às instituições financeiras enumeradas no artigo 2.º, n.º 1, do Regulamento (UE) 2022/2554, ou que incluam essas receitas na sua totalidade, a autoridade fiscalizadora principal deve ter em conta o volume de negócios gerado na União com a prestação dos serviços de TIC enumerados nas normas técnicas de execução adotadas nos termos do artigo 28.º, n.º 9, do Regulamento (UE) 2022/2554, independentemente do tipo de clientes do terceiro prestador de serviços de TIC crítico.
+
+Se, até à data referida no n.º 2, o terceiro prestador de serviços de TIC crítico não fornecer à autoridade fiscalizadora principal dados auditados que se limitem às receitas geradas na União com a prestação dos serviços de TIC a que se referem as normas técnicas de execução adotadas nos termos do artigo 28.º, n.º 9, do Regulamento (UE) 2022/2554, ou que incluam essas receitas na sua totalidade, a autoridade fiscalizadora principal deve ter em conta o volume de negócios mundial gerado pela prestação desses serviços de TIC.
+
+Caso o terceiro prestador de serviços de TIC crítico não forneça à autoridade fiscalizadora principal, até à data referida no n.º 2, valores auditados limitados às receitas geradas com a prestação de serviços de TIC às entidades financeiras enumeradas no artigo 2.º, n.º 1, do Regulamento (UE) 2022/2554, ou que incluam essas receitas na sua totalidade, e não forneça à autoridade fiscalizadora principal os valores auditados até à data referida no n.º 2 que se limitem às receitas geradas na União, a autoridade fiscalizadora principal deve ter em conta o volume de negócios mundial, independentemente do tipo de clientes do terceiro prestador de serviços de TIC crítico.
+
+4. Caso os terceiros prestadores de serviços de TIC críticos comuniquem as receitas numa moeda que não o euro, a autoridade fiscalizadora principal deve converter essas receitas em euros utilizando a taxa de câmbio média do euro aplicável ao período durante o qual as receitas foram registadas, publicada pelo Banco Central Europeu.
+
+###### Artigo 3.º — Cálculo das taxas de superintendência
+
+1. Relativamente a cada terceiro prestador de serviços de TIC crítico, a taxa de superintendência anual de um determinado ano (n) corresponde aos custos anuais totais estimados a que se refere o artigo 1.º ajustados pelo coeficiente de volume de negócios a que se refere o n.º 2, com base no seu volume de negócios aplicável relativamente ao ano n–2.
+
+2. Relativamente a cada terceiro prestador de serviços de TIC crítico, o coeficiente do volume de negócios baseia-se no volume de negócios aplicável a que se refere o artigo 2.º, sendo calculado do seguinte modo:
+
+3. O terceiro prestador de serviços de TIC crítico não pode, em caso algum, pagar uma taxa de superintendência anual inferior a 50 000 EUR.
+
+###### Artigo 4.º — Taxas de superintendência no ano de designação e adesão voluntária
+
+1. Em derrogação do artigo 3.º, relativamente à primeira lista publicada de terceiros prestadores de serviços de TIC críticos, nos termos do artigo 31.º, n.º 9, do Regulamento (UE) 2022/2554, as taxas de superintendência devem ser repartidas equitativamente entre os terceiros prestadores de serviços de TIC críticos designados. A taxa a cobrar a cada terceiro prestador de serviços de TIC crítico é calculada dividindo as despesas totais estimadas das autoridades fiscalizadoras principais pelo número de terceiros prestadores de serviços de TIC críticos designados.
+
+2. Em derrogação do artigo 3.º e do n.º 1 *supra,* no primeiro ano em que um terceiro prestador de serviços de TIC é designado como crítico, deve pagar uma taxa de superintendência fixa igual ao montante pago por cada terceiro prestador de serviços de TIC nos termos do n.º 1. Caso o período das atividades de supervisão desse terceiro prestador de serviços de TIC crítico não corresponda a um ano completo, essa taxa de superintendência é igual ao montante pago por cada terceiro prestador de serviços de TIC nos termos do n.º 1, multiplicado pelo número de dias de calendário decorrido desde a designação do terceiro prestador de serviços de TIC até ao final desse ano e dividido pelo número total de dias nesse ano.
+
+3. Caso um terceiro prestador de serviços de TIC solicite ser designado como crítico nos termos do artigo 31.º, n.º 11, do Regulamento (UE) 2022/2554, deve pagar uma taxa de adesão fixa de 50 000 EUR. A AES beneficiária não deve reembolsar essa taxa fixa de adesão se o pedido para ser designado como crítico for rejeitado ou retirado pelo terceiro prestador de serviços de TIC.
+
+###### Artigo 5.º — Pagamento das taxas de superintendência
+
+1. Os terceiros prestadores de serviços de TIC críticos devem pagar anualmente as taxas de superintendência a que se refere o artigo 43.º do Regulamento (UE) 2022/2554 à autoridade fiscalizadora principal.
+
+2. Todos as taxas de superintendência devem ser faturadas e pagas em euros. As notas de débito relativas às taxas de superintendência devem fixar prazos de pagamento mínimos de 30 dias.
+
+3. Todas as taxas de superintendência devem ser pagas numa prestação única. Os terceiros prestadores de serviços de TIC críticos que serão objeto de atividades de supervisão em 1 de janeiro de um determinado ano devem pagar a nota de débito até 30 de abril desse ano. Os terceiros prestadores de serviços de TIC críticos designados ao longo do ano devem pagar as taxas referidas no artigo 4.º numa prestação única até 31 de dezembro desse ano.
+
+4. Os eventuais atrasos de pagamento dão lugar aos juros de mora previstos no artigo 99.º do Regulamento (UE, Euratom) 2018/1046.
+
+###### Artigo 6.º — Comunicação entre a autoridade fiscalizadora principal e os terceiros prestadores de serviços de TIC críticos
+
+Para efeitos do presente regulamento, todas as comunicações entre as Autoridades Europeias de Supervisão e os terceiros prestadores de serviços de TIC críticos devem ser efetuadas por via eletrónica.
+
+###### Artigo 7.º — Entrada em vigor e data de aplicação
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 22 de fevereiro de 2024.
+
+***Pela Comissão***
+
+***A Presidente***
+
+**Ursula VON DER LEYEN**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/f1655a4b-1e21-11ef-a251-01aa75ed71a1.0020.03/DOC_1#ntc1-L_202401505PT.000101-E0001) [JO L 333 de 27.12.2022, p. 1](http://publications.europa.eu/resource/oj/JOL_2022_333_R_TOC), ELI: [http://data.europa.eu/eli/reg/2022/2554/oj](http://data.europa.eu/eli/reg/2022/2554/oj).

@@ -35,7 +35,13 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1186535405:por#art-5'
+    detail: b) A [Portaria n.º 76/2024/1], de 1 de março.
 notes: []
 language: por
 version:

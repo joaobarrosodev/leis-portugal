@@ -1,0 +1,255 @@
+---
+schema_version: '1.0'
+id: eu:celex:32017R0582:por
+title: Regulamento Delegado (UE) 2017/582 da Comissão, de 29 de junho de 2016
+short_title: null
+summary: Regulamento Delegado (UE) 2017/582 da Comissão, de 29 de junho de 2016, que complementa o Regulamento (UE) n.° 600/2014
+  do Parlamento Europeu e do Conselho no que diz respeito às normas técnicas de regulamentação para especificar a obrigação
+  de compensação dos derivados negociados em mercados regulamentados e os prazos de aceitação para compensação (Texto relevante
+  para efeitos do EEE. )
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento Delegado
+issuing_authority:
+- Comissão Europeia
+- FISMA
+proposing_entity: null
+official_number: 2017/582
+official_date: null
+publication_date: '2017-03-31'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 87 de 31.3.2017
+  number: '87'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/1d64769f-15d5-11e7-808e-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2017-04-20'
+- '2018-01-03'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32017R0582
+  eli: http://data.europa.eu/eli/reg_del/2017/582/oj
+  oj: oj:JOL_2017_087_R_0018
+  dre: null
+  dre_path: null
+  internal: eu:celex:32017R0582:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32017R0582
+  metadata_url: http://publications.europa.eu/resource/cellar/1d64769f-15d5-11e7-808e-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/1d64769f-15d5-11e7-808e-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:02:38Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-02-11T02:10:50.052+01:00'
+integrity:
+  source_sha256: 6726c8e5a58cb49f475c8f8170f905d18574a36d8bf93bcfa86ef5750ba5997c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:02:38Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- direito bancário
+- instituição de crédito
+- instrumento financeiro
+- intercâmbio de informação
+- norma técnica
+- regulamentação financeira
+- transação financeira
+relationships:
+- type: based_on
+  target: celex:32014R0600
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3b729ddf-f1f7-11e3-8cd4-01aa75ed71a1
+  date: '2014-06-12'
+- type: cites
+  target: celex:32010R1095
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d6206116-a910-4ffa-b6cd-f14b1b503568
+- type: cites
+  target: celex:32017R0589
+  label: null
+  source: http://publications.europa.eu/resource/cellar/df076b02-15d2-11e7-808e-01aa75ed71a1
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:02:38Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DELEGADO (UE) 2017/582 DA COMISSÃO
+
+de 29 de junho de 2016
+
+que complementa o Regulamento (UE) n.º 600/2014 do Parlamento Europeu e do Conselho no que diz respeito às normas técnicas de regulamentação para especificar a obrigação de compensação dos derivados negociados em mercados regulamentados e os prazos de aceitação para compensação
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) n.º 600/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativo aos mercados de instrumentos financeiros e que altera o Regulamento (UE) n.º 648/2012 [([^1])](http://publications.europa.eu/resource/cellar/1d64769f-15d5-11e7-808e-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2017087PT.01022401-E0001), nomeadamente o artigo 29.º, n.º 3,
+
+Considerando o seguinte:
+
+(1) A fim de gerir os riscos, operacionais e de outra natureza, quando transações de derivados compensados são apresentadas e aceites para compensação, e a fim de proporcionar certeza às contrapartes com a maior brevidade possível, é importante determinar se uma transação de derivados compensados irá ou não ser aceite para compensação por uma CCP, numa fase precoce, se possível antes de a transação ser efetuada, bem como as consequências do facto de uma CCP não aceitar a transação de derivados apresentada para compensação.
+
+(2) Para aplicar soluções técnicas moduláveis que assegurem que as transações de derivados compensados podem ser apresentadas e aceites para compensação tão rapidamente quanto seja tecnologicamente praticável, convém estabelecer previamente, e descrever de forma clara na documentação das plataformas de negociação e das CCP, quais as informações de que as plataformas de negociação e as CCP precisam para desempenharem as suas funções.
+
+(3) Para fixarem corretamente os preços nas transações de derivados, as contrapartes têm em conta o facto de as transações que são objeto de compensação centralizada estarem sujeitas a um regime de garantia diferente do das transações que não são objeto de compensação centralizada, independentemente de a transação ser compensada por tal ser obrigatório ou porque as partes relevantes decidiram de outra forma sujeitá-las a compensação. Por conseguinte, as contrapartes devem ter o benefício de aplicar o mesmo processo e os mesmos requisitos às transações de derivados compensados a título obrigatório e a título voluntário, a fim de assegurar que as transações de derivados compensados são apresentadas e aceites para compensação logo que seja tecnologicamente praticável.
+
+(4) Nos casos em que as transações de derivados compensados são concluídas numa plataforma de negociação, se se pretende saber, antes de a transação ser efetuada, se esta será ou não compensada por uma CCP, a plataforma de negociação e a CCP devem dispor de regras destinadas a garantir que essa transação pode ser compensada automaticamente. Caso contrário, a plataforma de negociação deverá habilitar os membros compensadores da CCP a verificar as ordens tendo em conta os limites fixados para os seus clientes.
+
+(5) O prazo concedido a uma plataforma de negociação para processar uma transação de derivados compensados deve ser mais curto para as transações de derivados compensados negociadas por via eletrónica do que para as transações de derivados compensados que não são negociadas por via eletrónica, uma vez que o nível do processamento automatizado deve ser mais elevado no primeiro caso.
+
+(6) As plataformas de negociação devem transmitir as informações relacionadas com as transações de derivados compensados às CCP num formato eletrónico predefinido, tanto no caso das transações de derivados compensados negociadas por via eletrónica como no caso das que não são negociadas por via eletrónica. Por conseguinte, o prazo concedido a uma CCP para decidir se uma transação de derivados compensados pode ser aceite para compensação deve ser o mesmo para as transações de derivados compensados negociadas por via eletrónica e para as transações que não são negociadas por via eletrónica.
+
+(7) O processamento das transações de derivados compensados efetuadas numa base bilateral é geralmente menos automatizado do que o processamento das transações de derivados compensados concluídas numa plataforma de negociação. Por conseguinte, o prazo concedido às contrapartes para apresentarem uma transação de derivados compensados efetuada numa base bilateral a uma CCP deve ser mais longo do que o prazo concedido para a apresentação de uma transação de derivados compensados concluída numa plataforma de negociação.
+
+(8) A fim de gerirem os riscos de crédito associados às transações de derivados compensados que são efetuadas numa base bilateral, as CCP devem autorizar os membros compensadores a analisar os dados das transações dos seus clientes e a decidir quanto à sua aceitação. Uma vez que o processo entre as CCP e os membros compensadores é geralmente automatizado, este processo deve exigir um tempo limitado.
+
+(9) As CCP e os membros compensadores gerem o risco de crédito associado à acumulação das posições em risco correntes resultante da compensação de derivados compensados. Geralmente, tal inclui a fixação, pela CCP ou pelo membro compensador, de limites por contraparte, a fim de atenuar o risco de exposição associado, o que pode dar origem à não aceitação de novos pedidos de compensação de certas transações de derivados compensados pelo membro compensador ou pela CCP. Assegurar que as transações de derivados compensados são apresentadas para compensação tão rapidamente quanto seja tecnologicamente praticável não implica, portanto, que todas as transações de derivados compensados sejam aceites para compensação em todas as circunstâncias. Quando as transações de derivados compensados não são aceites para compensação, as contrapartes devem assegurar clareza no tratamento dessas transações, de modo a cobrir os seus riscos.
+
+(10) Uma vez que o processamento de uma transação de derivados compensados concluída por via eletrónica numa plataforma de negociação e apresentada para compensação a uma CCP requer um tempo limitado, o tempo em que podem ocorrer movimentações no mercado e alterações do valor e do risco da transação de derivados compensados, entre a ordem e a não aceitação, é também muito limitado. Tendo em conta que o prejuízo potencialmente sofrido pelas contrapartes cujas transações não são aceites para compensação pela CCP é negligenciável, e a fim de proporcionar certezas às contrapartes, as transações de derivados compensados concluídas por via eletrónica numa plataforma de negociação e não aceites para compensação por uma CCP devem ser consideradas nulas.
+
+(11) Uma vez que o processamento de transações de derivados compensados que não sejam concluídas por via eletrónica numa plataforma de negociação demora, geralmente, mais tempo, este período de tempo pode ser suficientemente longo para que ocorra a uma movimentação no mercado e para que o valor e o risco da transação de derivados compensados sofram uma alteração significativa. Por conseguinte, a anulação da transação poderá não ser o tratamento adequado para todas as transações não aceites pela CCP. A fim de garantir a certeza sobre o tratamento das transações de derivados compensados que não são concluídas por via eletrónica numa plataforma de negociação e que não são aceites por uma CCP para compensação, as regras das plataformas de negociação e as disposições contratuais entre as contrapartes, se for caso disso, devem clarificar antecipadamente o modo como estas transações devem ser tratadas.
+
+(12) Sempre que uma transação de derivados compensados não é aceite para compensação por razões não relacionadas com o risco de crédito, nomeadamente problemas técnicos ou administrativos decorrentes da transmissão de informações inexatas ou incompletas, as contrapartes podem, ainda assim, pretender compensar a transação de derivados em questão. Se ambas as contrapartes decidirem voltar a apresentar a transação, desde que esta seja apresentada num prazo relativamente curto após a primeira apresentação e a nova apresentação permita a investigação e a resolução do motivo pelo qual a transação não foi aceite para compensação, pode ser autorizada uma segunda apresentação sob a forma de uma nova transação de derivados compensados com os mesmos termos económicos, uma vez que ainda garante a boa gestão dos riscos operacionais ou de outros riscos não relacionados com o crédito.
+
+(13) Por motivos de coerência e para garantir o bom funcionamento dos mercados financeiros, é necessário que as disposições previstas no presente regulamento e as disposições previstas no Regulamento (UE) n.º 600/2014 sejam aplicáveis a partir da mesma data.
+
+(14) O presente regulamento tem por base os projetos de normas técnicas de regulamentação apresentados pela Autoridade Europeia dos Valores Mobiliários e dos Mercados (ESMA) à Comissão.
+
+(15) A ESMA conduziu consultas públicas abertas sobre os projetos de normas técnicas de regulamentação que servem de base ao presente regulamento, analisou os seus potenciais custos e benefícios e solicitou o parecer do Grupo de Interessados do Setor dos Valores Mobiliários e dos Mercados, criado pelo artigo 37.º do Regulamento (UE) n.º 1095/2010 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/1d64769f-15d5-11e7-808e-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2017087PT.01022401-E0002),
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º — Mecanismos para facilitar a transferência de informações
+
+1. As plataformas de negociação devem especificar, nas suas normas, as informações que as contrapartes numa transação de derivados compensados lhes devem facultar para que essa transação seja apresentada a uma CCP para compensação, bem como o formato em que essas informações devem ser fornecidas.
+
+2. As CCP devem especificar, nas suas normas, as informações que as contrapartes numa transação de derivados compensados e as plataformas de negociação lhes devem facultar para que essa transação seja compensada, bem como o formato em que essas informações devem ser fornecidas.
+
+###### Artigo 2.º — Controlo pré-negociação para as transações de derivados compensados concluídas numa plataforma de negociação
+
+1. As plataformas de negociação e os membros compensadores devem sujeitar as ordens de conclusão de transações de derivados compensados numa plataforma de negociação aos requisitos estabelecidos nos n.^os^ 2, 3 e 4, exceto se estiverem preenchidas todas as condições estabelecidas nas alíneas a), b) e c) do presente número:
+
+a) As regras da plataforma de negociação exigem que cada membro ou participante na plataforma de negociação que não seja um membro compensador de uma CCP através da qual a transação de derivados compensados é compensada tenha um acordo contratual com um membro compensador da CCP, ao abrigo do qual o membro compensador se torna automaticamente uma contraparte na transação de derivados compensados;
+
+b) As regras da CCP preveem que a transação de derivados compensados concluída numa plataforma de negociação seja compensada de forma automática e imediata e que o membro compensador a que se refere a alínea a) se torne a contraparte da CCP;
+
+c) As regras da plataforma de negociação preveem que o membro ou participante na plataforma de negociação ou o seu cliente passe a ser contraparte na transação de derivados compensados depois de a transação de derivados compensados ser compensada, ao abrigo de acordos diretos ou indiretos em matéria de compensação celebrados com o membro compensador.
+
+2. As plataformas de negociação devem disponibilizar aos membros compensadores instrumentos que lhes permitam assegurar, para cada ordem e antes da conclusão das transações, a verificação dos limites definidos e mantidos por esse membro compensador para o seu cliente, nos termos do Regulamento Delegado (UE) 2017/589 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/1d64769f-15d5-11e7-808e-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2017087PT.01022401-E0003).
+
+3. As plataformas de negociação devem garantir, antes da conclusão da ordem, que a ordem do cliente está dentro dos limites aplicáveis a esse cliente em conformidade com o n.º 2:
+
+a) No prazo de 60 segundos a contar da receção da ordem, quando esta é transmitida por via eletrónica;
+
+b) No prazo de 10 minutos a contar da receção da ordem, quando esta não é transmitida por via eletrónica.
+
+4. Quando a ordem não se encontra dentro dos limites aplicáveis ao cliente em conformidade com o n.º 2, a plataforma de negociação deve informar o cliente e o membro compensador de que a ordem não pode ser concluída, respeitando os seguintes prazos:
+
+a) Se a ordem é transmitida por via eletrónica, em tempo real;
+
+b) Se a ordem não é transmitida por via eletrónica, no prazo de 5 minutos a contar do momento em que a ordem foi verificada para efeitos dos limites aplicáveis.
+
+###### Artigo 3.º — Prazos aplicáveis à transferência de informações para as transações de derivados compensados concluídas numa plataforma de negociação
+
+1. As plataformas de negociação, as CCP e os membros compensadores estão sujeitos aos requisitos estabelecidos nos n.^os^ 2 a 5 do presente artigo, exceto se estiverem preenchidas todas as condições estabelecidas no artigo 2.º, n.º 1, alíneas a), b) e c).
+
+2. Para as transações de derivados compensados que são concluídas numa plataforma de negociação por via eletrónica, a plataforma de negociação deve enviar as informações relativas a cada transação à CCP no prazo de 10 segundos a contar da conclusão da transação.
+
+3. Para as transações de derivados compensados que são concluídas numa plataforma de negociação por via não eletrónica, a plataforma de negociação deve enviar as informações relativas a cada transação à CCP no prazo de 10 minutos a contar da conclusão da transação.
+
+4. As CCP devem aceitar ou recusar a compensação de uma transação de derivados compensados concluída numa plataforma de negociação no prazo de 10 segundos a contar da receção das informações da plataforma de negociação e informar o membro compensador e a plataforma de negociação de uma eventual recusa em tempo real.
+
+5. Os membros compensadores e as plataformas de negociação devem informar a contraparte que concluiu a transação de derivados compensados na plataforma de negociação da recusa logo que a CCP os tenha informado da mesma.
+
+###### Artigo 4.º — Prazos aplicáveis à transferência de informações para as transações de derivados compensados concluídas numa base bilateral
+
+1. Para as transações de derivados compensados concluídas por contrapartes numa base bilateral, o membro compensador deve:
+
+a) Obter elementos de prova do seu cliente sobre o prazo de conclusão da transação apresentada para compensação;
+
+b) Assegurar que as contrapartes enviam à CCP as informações referidas no artigo 1.º, n.º 2, no prazo de 30 minutos a contar da conclusão da transação.
+
+2. A CCP deve enviar ao seu membro compensador as informações referidas no n.º 1, alínea b), relacionadas com a transação no prazo de 60 segundos a contar da receção dessas informações das contrapartes. O membro compensador deve aceitar ou recusar a transação no prazo de 60 segundos a contar da receção das informações da CCP.
+
+3. A CCP deve aceitar ou recusar a compensação de uma transação de derivados compensados concluída numa base bilateral no prazo de 10 segundos a contar da receção da aceitação ou da recusa do membro compensador.
+
+4. No entanto, os n.^os^ 2 e 3 do presente artigo não são aplicáveis se estiverem preenchidas todas as seguintes condições:
+
+a) As regras da CCP asseguram a definição e a manutenção periódicas de limites, por parte de um membro compensador para os respetivos clientes, nos termos do Regulamento Delegado (UE) 2017/589;
+
+b) As regras da CCP preveem que uma transação de derivados compensados que esteja dentro dos limites, em conformidade com a alínea a) do presente número, é automaticamente compensada pela CCP no prazo de 60 segundos a contar da receção das informações sobre a transação de derivados compensados das contrapartes.
+
+5. Uma CCP que não aceite para compensação uma transação de derivados compensados concluída numa base bilateral deve informar o membro compensador dessa recusa em tempo real. O membro compensador deve informar da recusa a contraparte que concluiu a transação, logo que seja informado pela CCP.
+
+###### Artigo 5.º — Tratamento das transações de derivados compensados que não são aceites para compensação
+
+1. Sempre que uma transação de derivados compensados concluída numa plataforma de negociação por via eletrónica não é aceite pela CCP, a plataforma de negociação anula o contrato correspondente.
+
+2. Sempre que uma transação de derivados compensados que não seja concluída numa plataforma de negociação por via eletrónica não é aceite pela CCP, o tratamento dessa transação é determinado:
+
+a) Pelas regras da plataforma de negociação, se o contrato for apresentado para compensação em conformidade com as regras da plataforma de negociação;
+
+b) Pelo acordo entre as contrapartes, em todas as outras situações.
+
+3. Se a recusa se dever a um problema técnico ou administrativo, a transação de derivados compensados pode ser apresentada mais uma vez para compensação no prazo de uma hora a contar da apresentação anterior, sob a forma de uma nova transação, mas com os mesmos termos económicos, desde que ambas as contrapartes tenham dado o seu acordo a uma segunda apresentação. A plataforma de negociação na qual a transação de derivados compensados foi concluída inicialmente não está sujeita aos requisitos previstos no artigo 8.º do Regulamento (UE) n.º 600/2014 relativamente à apresentação para compensação da segunda transação de derivados compensados.
+
+###### Artigo 6.º — Entrada em vigor e aplicação
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é aplicável a partir da data referida no artigo 55.º, segundo parágrafo, do Regulamento (UE) n.º 600/2014.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 29 de junho de 2016.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**Jean-Claude JUNCKER**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/1d64769f-15d5-11e7-808e-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2017087PT.01022401-E0001) Regulamento (UE) n.º 600/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativo aos mercados de instrumentos financeiros e que altera o Regulamento (UE) n.º 648/2012 ([JO L 173 de 12.6.2014, p. 84](http://publications.europa.eu/resource/oj/JOL_2014_173_R_TOC)).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/1d64769f-15d5-11e7-808e-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2017087PT.01022401-E0002) Regulamento (UE) n.º 1095/2010 do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, que cria uma Autoridade Europeia de Supervisão (Autoridade Europeia dos Valores Mobiliários e dos Mercados), altera a Decisão n.º 716/2009/CE e revoga a Decisão 2009/77/CE da Comissão ([JO L 331 de 15.12.2010, p. 84](http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/1d64769f-15d5-11e7-808e-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2017087PT.01022401-E0003) Regulamento Delegado (UE) 2017/589 da Comissão, de 19 de julho de 2016, que complementa a Diretiva 2014/65/UE do Parlamento Europeu e do Conselho no que diz respeito às normas técnicas de regulamentação que especificam os requisitos em matéria de organização para as empresas de investimento que se dedicam à negociação algorítmica (ver página 417 do presente Jornal Oficial).

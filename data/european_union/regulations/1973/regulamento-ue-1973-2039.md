@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: eu:celex:31973R2039:por
+title: Regulamento (CEE) nº 2039/73 da Comissão, de 27 de Julho de 1973
+short_title: null
+summary: Regulamento (CEE) nº 2039/73 da Comissão, de 27 de Julho de 1973, que altera os Regulamentos (CEE) nº 565/68 e (CEE)
+  nº 2261/69 relativos à não fixação de montantes suplementares para os patos abatidos provenientes da Roménia e da Polónia
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1973/2039
+official_date: null
+publication_date: '1973-07-28'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 207 de 28.7.1973
+  number: '207'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/e533b1b1-35b9-4d11-8e3e-d3ea4b4dddec.0011.02/DOC_1
+entry_into_force_dates:
+- '1973-07-31'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31973R2039
+  eli: http://data.europa.eu/eli/reg/1973/2039/oj
+  oj: oj:JOL_1973_207_R_0030_014
+  dre: null
+  dre_path: null
+  internal: eu:celex:31973R2039:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31973R2039
+  metadata_url: http://publications.europa.eu/resource/cellar/e533b1b1-35b9-4d11-8e3e-d3ea4b4dddec.0011
+  content_url: http://publications.europa.eu/resource/cellar/e533b1b1-35b9-4d11-8e3e-d3ea4b4dddec.0011.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:11:20Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-19T01:45:40.801+02:00'
+integrity:
+  source_sha256: 6939c7e476a0f0bda1bb5be4d8154711f78226a4ab934a214ebb421ef3c227f9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:11:20Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Polónia
+- Roménia
+- carne de aves de capoeira
+- direito nivelador agrícola
+- importação (UE)
+relationships:
+- type: amends
+  target: celex:31968R0565
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1ef2dc44-a5df-46bc-8c5c-b181c3938950
+  date: '1968-05-08'
+- type: amends
+  target: celex:31969R2261
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ac5510aa-9cab-47ef-9703-48d6ae706beb
+  date: '1969-11-14'
+- type: based_on
+  target: celex:31967R0123
+  label: null
+  source: http://publications.europa.eu/resource/cellar/bf050bd3-fae4-41ee-8988-1c6dd313198c
+  date: '1967-06-19'
+- type: cites
+  target: celex:31973R0988
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4709f365-e0fe-4aab-8571-d3a36da5d46c
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:11:20Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CEE) nº 2039/73 da Comissão, de 27 de Julho de 1973
+
+**Regulamento (CEE) nº 2039/73 da Comissão, de 27 de Julho de 1973, que altera os Regulamentos (CEE) nº 565/68 e (CEE) nº 2261/69 relativos à não fixação de montantes suplementares para os patos abatidos provenientes da Roménia e da Polónia** *Jornal Oficial nº L 207 de 28/07/1973 p. 0030 - 0031 Edição especial finlandesa: Capítulo 3 Fascículo 5 p. 0161 Edição especial grega: Capítulo 03 Fascículo 9 p. 0214 Edição especial sueca: Capítulo 3 Fascículo 5 p. 0161 Edição especial espanhola: Capítulo 03 Fascículo 7 p. 0059 Edição especial portuguesa: Capítulo 03 Fascículo 7 p. 0059*
+
+REGULAMENTO (CEE) No 2039/73 DA COMISSÃO de 27 de Julho de 1973 que altera os Regulamentos (CEE) nos 565/68 e 2261/69, relativos à não fixação de montantes suplementares para os patos abatidos provenientes da Roménia e da Polónia
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Económica Europeia,
+
+Tendo em conta o Regulamento no 123/67/CEE do Conselho, de 13 de Junho de 1967, que estabelece a organização comum de mercado no sector da carne de aves de capoeira (1), com a última redacção que lhe foi dada pelo Acto relativo às condições de adesão e às adaptações dos Tratados (2) e, nomeadamente, o no 4 do seu artigo 8o,
+
+Considerando que a República Socialista da Roménia e a República Popular da Polónia fizeran uso da possibilidade que lhes era dada pelo disposto no artigo 8o do Regulamento 123/67/CEE do Conselho, de 13 de Junho de 1967, de obterem isenção dos direitos niveladores pela aplicação de um montante suplementar e que essa isenção dizia nomeadamente respeito às importações pela Comunidade de patos, em todas as formas de apresentação;
+
+Considerando que o Regulamento (CEE) no 988/73 do Conselho, de 9 de Abril de 1973, previu para os patos uma nova forma de apresentação designada «patos 63 %», que vem acrescentar-se às formas de apresentação «85 %» e «70 %»; que, para garantir que o Regulamento (CEE) no 565/68 da Comissão, de 24 de Abril de 1968, relativo à não fixação de montantes suplementares para os galos, galinhas e frangos e os patos e gansos abatidos provenientes da Polónia (3) e o Regulamento (CEE) no 2261/69 da Comissão, de 13 de Novembro de 1969, relativo à não fixação de montantes suplementares para os patos e gansos abatidos provenientes da Roménia (4), são correctamente aplicados, é necessário adaptar tais regulamentos à nova situação jurídica;
+
+Considerando que as medidas previstas no presente regulamento estão conformes ao parecer do Comité de Gestão para a Carne de Aves des Capoeira e dos Ovos,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1o
+
+O artigo 1o do Regulamento (CEE) no 565/68 passa a ter a seguinte redacção:
+
+«Os direitos niveladores fixados em conformidade com o artigo 4o do Regulamento no 123/67/CEE não serão aumentados num montante suplementar para as importações dos produtos seguintes da posição ex 02.02 da pauta aduaneira comum originários e provenientes da República Popular da Polónia:
+
+a) Galos, galinhas e frangos abatidos, hão cortados, depenados, sem tripas, com a cabeça e as patas, designados "frangos 83 %";
+
+b) Galos, galinhas e frangos abatidos, não cortados, depenados, eviscerados, sem cabeça nem patas, mas com o coração, o fígado e a moela, designados "frangos 70 %";
+
+c) Galos, galinhas e frangos abatidos, não cortados, depenados, eviscerados, sem cabeça nem patas, e sem coração, fígado e moela, designados "frangos 65 %";
+
+d) Patos abatidos, não cortados, depenados, sangrados, não eviscerados ou sem tripas, com a cabeça e as patas, designados "patos 85 %";
+
+e) Patos abatidos, não cortados, depenados, eviscerados, sem cabeça e sem patas, mas com o coração, o fígado e a moela, designados "patos 70 %";
+
+f) Patos abatidos, não cortados, depenados, eviscerados, sem cabeça e sem patas, e sem o coração, o fígado e a moela, designados "patos 63 %";
+
+g) Gansos abatidos, não cortados, depenados, sangrados, não eviscerados, com a cabeça e as patas, designados "gansos 82 %";
+
+h) Gansos abatidos, não cortados, depenados, eviscerados, sem a cabeça sem as patas, com ou sem coração e moela, designados "gansos 75 %".»
+
+###### Artigo 2o
+
+O artigo 1o do Regulamento (CEE) no 2261/69 passa a ter a seguinte redacção:
+
+«Os direitos niveladores fixados em conformidade com o artigo 4o do Regulamento 123/67/CEE não serão aumentados num montante suplementar para as importações dos seguintes produtos das posições 02.02 A II e III da pauta aduaneira comum originárias e provenientes da República Socialista da Roménia:
+
+a) Patos abatidos, não cortados, depenados, sangrados, não eviscerados ou sem tripas, com a cabeça e as patas, designados "patos 85 %";
+
+b) Patos abatidos, não cortados, depenados, eviscerados, sem cabeça nem patas, mas com coração, fígado e moela, designados "patos 70 %";
+
+c) Patos abatidos, não cortados, depenados, eviscerados, sem cabeça nem patas, e sem coração, fígado e moela, designados "patos 63 %";
+
+d) Gansos abatidos, não cortados, depenados, sangrados, não eviscerados, com a cabeça e as patas, designados "gansos 82 %";
+
+e) Gansos abatidos, não cortados, depenados, eviscerados, sem cabeça nem patas, com ou sem o coração e a moela, designados "gansos 75 %".»
+
+###### Artigo 3o
+
+O presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.
+
+Feito em Bruxelas em 27 de Julho de 1973.
+
+Pela Comissão
+
+O Presidente
+
+François-Xavier ORTOLI
+
+(1) JO no 117 de 19. 6. 1967, p. 2301/67.(2) JO no L 73 de 27. 3. 1972, p. 14.(3) JO no L 107 de 8. 5. 1968, p. 7.(4) JO no L 286 de 14. 11. 1969, p. 24.

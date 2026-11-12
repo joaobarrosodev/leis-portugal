@@ -33,9 +33,8 @@ entry_into_force:
   effects_date: null
   effects_rule: a partir da data em que estejam efectivamente instalados e em funcionamento, em cada um dos referidos aeroportos,
     os respectivos sistemas de monitorização do ruído
-  end_date: '2003-05-14'
-  end_rule: até 14 de Maio de 2003, momento em que serão redefinidos os valores indicados no quadro anexo, no sentido de reduzir
-    o número de movimentos aéreos a autorizar, podendo este prazo ser prorrogado
+  end_date: '2004-03-27'
+  end_rule: até 27 de Março de 2004
 end_of_validity_date: null
 legal_status: in_force
 notes: []

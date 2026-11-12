@@ -1,0 +1,359 @@
+---
+schema_version: '1.0'
+id: eu:celex:32009R0662:por
+title: Regulamento (CE) n. o 662/2009 do Parlamento Europeu e do Conselho, de 13 de Julho de 2009
+short_title: null
+summary: Regulamento (CE) n. o 662/2009 do Parlamento Europeu e do Conselho, de 13 de Julho de 2009 , que estabelece um procedimento
+  para a negociação e a celebração de acordos entre Estados-Membros e países terceiros relativamente a determinadas matérias
+  referentes à lei aplicável às obrigações contratuais e extracontratuais
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Parlamento Europeu
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2009/662
+official_date: null
+publication_date: '2009-07-31'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 200 de 31.7.2009
+  number: '200'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/588afce6-2590-44ab-b81f-9ce734117800.0019.01/DOC_1
+entry_into_force_dates:
+- '2009-08-20'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2009-08-20'
+identifiers:
+  celex: 32009R0662
+  eli: http://data.europa.eu/eli/reg/2009/662/oj
+  oj: oj:JOL_2009_200_R_0025_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32009R0662:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32009R0662
+  metadata_url: http://publications.europa.eu/resource/cellar/588afce6-2590-44ab-b81f-9ce734117800.0019
+  content_url: http://publications.europa.eu/resource/cellar/687ef4f7-9814-43e0-a1b3-00cec2016526.0018.03/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R0662-20090820
+  retrieved_at: '2026-11-12T00:40:53Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-10-18T01:28:18.454+02:00'
+integrity:
+  source_sha256: 3606164adc2ac1db78365987cb0fb025d8875ca91f7ff3702f703d7bc73fc464
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:40:53Z'
+  notes: Texto consolidado 02009R0662-20090820.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Tratado de Amesterdão
+- acervo comunitário
+- acordo bilateral
+- revisão de um acordo
+relationships:
+- type: based_on
+  target: celex:12006E061
+  label: null
+  source: http://publications.europa.eu/resource/cellar/51de01b7-98b8-45d5-a0a6-0af165154662
+  date: '2007-01-31'
+- type: based_on
+  target: celex:12006E065
+  label: null
+  source: http://publications.europa.eu/resource/cellar/93ad5835-baa5-43e3-be33-df2a67ad4bf9
+  date: '2007-01-31'
+- type: based_on
+  target: celex:12006E067
+  label: null
+  source: http://publications.europa.eu/resource/cellar/de61ec62-64d7-4fbd-b758-e976927bb20b
+  date: '2007-01-31'
+- type: based_on
+  target: celex:12006E251
+  label: null
+  source: http://publications.europa.eu/resource/cellar/171e521a-3ffe-46ac-90eb-ed97dbb7dcd2
+  date: '2007-01-31'
+- type: cites
+  target: celex:32001R0044
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ad56097c-16e0-450c-b517-8185ede09af1
+- type: cites
+  target: celex:32002R1049
+  label: null
+  source: http://publications.europa.eu/resource/cellar/73778669-55f4-4837-a4ee-95353768cba9
+- type: cites
+  target: celex:32007R0864
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0e830168-524b-43dd-b73d-a87d367c14ad
+- type: cites
+  target: celex:32008R0593
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3db0a06f-cae9-433d-a229-dde3e68d6dc7
+- type: corrected_by
+  target: celex:32009R0662R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6db80c32-1a36-4402-a1b0-8f0d86568e13
+  date: '2009-08-11'
+- type: corrected_by
+  target: celex:32009R0662R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c05b020d-a5d5-4fe0-b39c-9a3be464734d
+  date: '2011-09-19'
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:40:53Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento (CE) n. o 662/2009 do Parlamento Europeu e do Conselho, de 13 de Julho de 2009
+
+> 2009R0662 — PT — 20.08.2009 — 000.002
+
+> Este documento constitui um instrumento de documentação e não vincula as instituições
+
+**Rectificado por:**
+
+- [►C1](http://publications.europa.eu/resource/celex/32009R0662R%2802%29) — [Rectificação, JO L 241, 17.9.2011, p. 35 (662/2009)](http://publications.europa.eu/resource/celex/32009R0662R%2802%29)
+
+## REGULAMENTO (CE) N.º 662/2009 DO PARLAMENTO EUROPEU E DO CONSELHO
+
+de 13 de Julho de 2009
+
+que estabelece um procedimento para a negociação e a celebração de acordos entre Estados-Membros e países terceiros relativamente a determinadas matérias referentes à lei aplicável às obrigações contratuais e extracontratuais
+
+O PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente a alínea c) do artigo 61.º, o artigo 65.º e o n.º 5 do artigo 67.º,
+
+Tendo em conta a proposta da Comissão,
+
+Deliberando nos termos do artigo 251.º do Tratado ([^1^](http://publications.europa.eu/resource/cellar/687ef4f7-9814-43e0-a1b3-00cec2016526.0018.03/DOC_1#E0001)),
+
+(1) O título IV da parte III do Tratado constitui a base jurídica para a aprovação da legislação comunitária no domínio da cooperação judiciária em matéria civil.
+
+(2) Tradicionalmente, a cooperação judiciária em matéria civil entre os Estados-Membros e países terceiros tem sido regida por acordos entre os Estados-Membros e esses países terceiros. Estes acordos, que existem em grande número, reflectem frequentemente os laços especiais entre um Estado-Membro e um país terceiro e destinam-se a proporcionar um quadro jurídico adequado às necessidades específicas das partes em causa.
+
+(3) O artigo 307.º do Tratado exige que os Estados-Membros recorram a todos os meios adequados para eliminar as incompatibilidades entre o acervo comunitário e os acordos internacionais celebrados entre Estados-Membros e países terceiros. Tal poderá implicar a necessidade de renegociar esses acordos.
+
+(4) A fim de proporcionar um quadro jurídico adequado às necessidades específicas de um determinado Estado-Membro nas suas relações com um país terceiro, pode também existir uma manifesta necessidade de celebrar novos acordos com países terceiros relativos a domínios da justiça civil abrangidos pelo âmbito de aplicação do título IV da parte III do Tratado.
+
+(5) No seu parecer 1/03, de 7 de Fevereiro de 2006, sobre a celebração da nova Convenção de Lugano, o Tribunal de Justiça das Comunidades Europeias confirmou que a Comunidade adquiriu competência exclusiva para celebrar com países terceiros acordos internacionais, como a Convenção de Lugano, sobre matérias que afectam as regras do Regulamento (CE) n.º 44/2001 do Conselho, de 22 de Dezembro de 2000, relativo à competência judiciária, ao reconhecimento e à execução de decisões em matéria civil e comercial ([^2^](http://publications.europa.eu/resource/cellar/687ef4f7-9814-43e0-a1b3-00cec2016526.0018.03/DOC_1#E0002)) (Bruxelas I).
+
+(6) Compete à Comunidade celebrar, nos termos do artigo 300.º do Tratado, acordos entre a Comunidade e um país terceiro sobre matérias que são da sua competência exclusiva.
+
+(7) O artigo 10.º do Tratado exige aos Estados-Membros que facilitem à Comunidade o cumprimento da missão desta e se abstenham de tomar quaisquer medidas susceptíveis de pôr em perigo a realização dos objectivos do Tratado. Este dever de cooperação leal é de aplicação geral, não dependendo do facto de a competência comunitária ser exclusiva ou não.
+
+(8) No tocante a acordos com países terceiros relativos a questões específicas de justiça civil que sejam da competência exclusiva da Comunidade, deverá ser instituído um procedimento coerente e transparente para autorizar um Estado-Membro a alterar um acordo existente ou a negociar e celebrar um novo acordo, nomeadamente sempre que a Comunidade não tenha manifestado a sua intenção de exercer a sua competência externa para celebrar um acordo com base num mandato de negociação já existente ou previsto. Este procedimento não deverá prejudicar a competência exclusiva da Comunidade nem o disposto nos artigos 300.º e 307.º do Tratado. Deverá ser considerado uma medida excepcional e deverá ter um âmbito de aplicação e uma duração limitados.
+
+(9) O presente regulamento não deverá ser aplicado se a Comunidade já tiver celebrado com o país terceiro em causa um acordo com o mesmo objecto. Apenas se deverá considerar que dois acordos incidem sobre o mesmo objecto se e na medida em que regularem em substância as mesmas questões jurídicas específicas. As disposições que indiquem simplesmente uma intenção geral de cooperar sobre tais questões não deverão ser consideradas como incidindo sobre o mesmo objecto.
+
+(10) Em circunstâncias excepcionais, o presente regulamento deverá abranger igualmente certos acordos regionais entre alguns Estados-Membros e alguns países terceiros, por exemplo dois ou três, destinados a resolver situações locais e não abertos à adesão de outros Estados.
+
+(11) Para garantir que um acordo previsto por um Estado-Membro não compromete a eficácia do direito comunitário nem prejudica o bom funcionamento do sistema instituído pelo referido direito, e não prejudica a política de relações externas decidida pela Comunidade, deverá ser exigido ao Estado-Membro em causa que notifique a Comissão das suas intenções, com vista a obter uma autorização para dar início ou prosseguir as negociações formais sobre um acordo, bem como para celebrar um acordo. Tal notificação deverá ser feita por carta ou por via electrónica. Deverá conter todas as informações e documentação relevantes para permitir à Comissão avaliar o impacto esperado dos resultados das negociações no direito comunitário.
+
+(12) Deverá avaliar-se se existe um interesse comunitário suficiente na celebração de um acordo bilateral entre a Comunidade e o país terceiro em causa ou, se for caso disso, na substituição de um acordo bilateral existente entre um Estado-Membro e um país terceiro por um acordo comunitário. Para o efeito, todos os Estados-Membros deverão ser informados de qualquer notificação recebida pela Comissão relativamente a um acordo previsto por um Estado-Membro, a fim de lhes permitir demonstrar o seu interesse em se associar à iniciativa do Estado-Membro notificante. Se desta troca de informação decorrer um interesse comunitário suficiente, a Comissão deverá considerar a possibilidade de propor um mandato de negociação com vista à celebração de um acordo entre a Comunidade e o país terceiro em causa.
+
+(13) Se a Comissão solicitar informações adicionais a um Estado-Membro no âmbito da sua avaliação da questão de saber se o referido Estado-Membro deverá ser autorizado a dar início a negociações com um país terceiro, essa solicitação não deverá afectar os prazos dentro dos quais a Comissão deve tomar uma decisão fundamentada sobre o pedido desse Estado-Membro.
+
+(14) Ao autorizar a abertura de negociações formais, a Comissão deverá, se necessário, ter a possibilidade de propor orientações de negociação ou de solicitar a inclusão de cláusulas específicas no acordo previsto. A Comissão deverá ser plenamente informada, ao longo das diferentes fases das negociações, relativamente às matérias abrangidas pelo âmbito de aplicação do presente regulamento e deverá poder participar na qualidade de observadora nas negociações referentes a essas matérias.
+
+(15) Ao notificarem a Comissão da sua intenção de entrar em negociações com um país terceiro, os Estados-Membros deverão apenas estar obrigados a informar a Comissão sobre os elementos relevantes para a avaliação a efectuar por esta última. A autorização a dar pela Comissão e quaisquer eventuais orientações de negociação ou, se for o caso, a recusa da Comissão deverão dizer respeito apenas a matérias abrangidas pelo âmbito de aplicação do presente regulamento.
+
+(16) Todos os Estados-Membros deverão ser informados de qualquer notificação à Comissão relativa a acordos previstos ou negociados e de qualquer decisão fundamentada tomada pela Comissão ao abrigo do presente regulamento. Tais informações deverão, no entanto, respeitar plenamente os eventuais requisitos de confidencialidade.
+
+(17) O Parlamento Europeu, o Conselho e a Comissão deverão assegurar que as informações identificadas como confidenciais sejam tratadas de acordo com o Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^3^](http://publications.europa.eu/resource/cellar/687ef4f7-9814-43e0-a1b3-00cec2016526.0018.03/DOC_1#E0003)).
+
+(18) Caso entenda, com base na avaliação que tiver efectuado, não autorizar a abertura de negociações formais ou a celebração de um acordo negociado, a Comissão deverá, antes de tomar a sua decisão fundamentada, dar um parecer ao Estado-Membro em causa. Em caso de recusa de autorizar a celebração de um acordo negociado, o parecer deverá ser também apresentado ao Parlamento Europeu e ao Conselho.
+
+(19) A fim de assegurar que o acordo negociado não constitui um obstáculo à aplicação da política externa da Comunidade no domínio da cooperação judiciária em matéria civil e comercial, o acordo deverá prever ou a sua denúncia, total ou parcial, no caso de celebração de um acordo posterior com o mesmo objecto entre a Comunidade ou a Comunidade e os seus Estados-Membros, por um lado, e o mesmo país terceiro, por outro, ou a substituição directa das disposições relevantes do acordo pelas disposições desse acordo posterior.
+
+(20) Deverá prever-se disposições transitórias para contemplar as situações em que, no momento da entrada em vigor do presente regulamento, um Estado-Membro já tenha dado início ao processo de negociações de um acordo com um país terceiro ou tenha terminado as negociações, sem no entanto ter manifestado o seu consentimento em ficar vinculado pelo acordo.
+
+(21) A fim de ser adquirida experiência suficiente relativamente à aplicação do presente regulamento, a Comissão não deverá apresentar o seu relatório sobre a referida aplicação antes de decorridos oito anos sobre a data de aprovação do presente regulamento. Nesse relatório, a Comissão deverá, no exercício das suas prerrogativas, confirmar o carácter temporário do presente regulamento ou examinar se este deverá ser substituído por um novo regulamento que tenha o mesmo objecto ou que abranja igualmente determinadas matérias da competência exclusiva da Comunidade e regidas por outros instrumentos comunitários, como referido no considerando 5.
+
+(22) Ainda que o relatório apresentado pela Comissão confirme o carácter temporário do presente regulamento, os Estados-Membros deverão ter a possibilidade de notificar a Comissão, após a apresentação do relatório, da existência de negociações em curso ou já anunciadas, com vista à obtenção de autorização para dar início a negociações formais.
+
+(23) Em conformidade com o princípio da proporcionalidade consagrado no artigo 5.º do Tratado, o presente regulamento não excede o necessário para atingir o seu objectivo.
+
+(24) Nos termos do artigo 3.º do protocolo relativo à posição do Reino Unido e da Irlanda, anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, o Reino Unido e a Irlanda notificaram a sua intenção de participar na aprovação e na aplicação do presente regulamento.
+
+(25) Nos termos dos artigos 1.º e 2.º do protocolo relativo à posição da Dinamarca, anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, a Dinamarca não participa na aprovação do presente regulamento e não fica a ele vinculada nem sujeita à sua aplicação,
+
+APROVARAM O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º — Objecto e âmbito de aplicação
+
+1. O presente regulamento estabelece um procedimento destinado a autorizar um Estado-Membro a alterar um acordo existente ou a negociar e celebrar um novo acordo com um país terceiro, sujeito às condições estabelecidas no presente regulamento.
+
+Este procedimento não prejudica as competências respectivas da Comunidade e dos Estados-Membros.
+
+2. O presente regulamento aplica-se aos acordos relativos a determinadas matérias abrangidas, total ou parcialmente, pelo âmbito de aplicação do Regulamento (CE) n.º 593/2008 do Parlamento Europeu e do Conselho, de 17 de Junho de 2008, sobre a lei aplicável às obrigações contratuais (Roma I) ([^4^](http://publications.europa.eu/resource/cellar/687ef4f7-9814-43e0-a1b3-00cec2016526.0018.03/DOC_1#E0004)), e do Regulamento (CE) n.º 864/2007 do Parlamento Europeu e do Conselho, de 11 de Julho de 2007, relativo à lei aplicável às obrigações extracontratuais (Roma II) ([^5^](http://publications.europa.eu/resource/cellar/687ef4f7-9814-43e0-a1b3-00cec2016526.0018.03/DOC_1#E0005)).
+
+3. O presente regulamento não é aplicável se a Comunidade já tiver celebrado um acordo sobre o mesmo objecto com o país terceiro em causa.
+
+###### Artigo 2.º — Definições
+
+1. Para efeitos do presente regulamento, por «acordo» entende-se:
+
+a) Um acordo bilateral entre um Estado-Membro e um país terceiro;
+
+b) Um acordo regional entre um número limitado de Estados-Membros e de países terceiros vizinhos dos Estados-Membros, destinado a resolver situações locais e não aberto à adesão de outros Estados.
+
+2. No âmbito dos acordos regionais a que se refere a alínea b) do n.º 1, as referências no presente regulamento a um Estado-Membro ou a um país terceiro devem ser entendidas como referências aos Estados-Membros ou aos países terceiros em causa, respectivamente.
+
+###### Artigo 3.º — Notificação à Comissão
+
+1. Caso pretenda entrar em negociações para alterar um acordo existente ou para celebrar um novo acordo abrangido pelo âmbito de aplicação do presente regulamento, um Estado-Membro deve notificar por escrito a Comissão da sua intenção na primeira ocasião possível antes da abertura prevista de negociações formais.
+
+2. A notificação é acompanhada, conforme apropriado, de uma cópia do acordo existente, do projecto de acordo ou do projecto de proposta, bem como de qualquer outro documento relevante. O Estado-Membro descreve o objecto das negociações e precisa as questões que devem ser tratadas no acordo previsto ou as disposições do acordo existente que devem ser alteradas. O Estado-Membro pode prestar quaisquer outras informações adicionais.
+
+###### Artigo 4.º — Avaliação da Comissão
+
+1. Após recepção da notificação a que se refere o artigo 3.º, a Comissão avalia se o Estado-Membro pode dar início a negociações formais.
+
+2. A Comissão, ao fazer essa avaliação, verifica, em primeiro lugar, se está especificamente previsto nos próximos vinte e quatro meses um mandato de negociação relevante com vista à celebração de um acordo comunitário com o país terceiro em causa. Se tal não for o caso, a Comissão avalia se estão reunidas todas as condições seguintes:
+
+a) O Estado-Membro em causa ter prestado informações expondo ter um interesse específico na celebração do acordo, devido à existência de laços económicos, geográficos, culturais, históricos, sociais ou políticos entre o Estado-Membro e o país terceiro em causa;
+
+b) Com base na informação prestada pelo Estado-Membro, o acordo previsto parecer não comprometer a eficácia do direito comunitário, nem prejudicar o bom funcionamento do sistema instituído pelo referido direito; e
+
+c) O acordo previsto não prejudicar nem o objecto nem a finalidade da política de relações externas decidida pela Comunidade.
+
+3. Se as informações prestadas pelo Estado-Membro não forem suficientes para efectuar a avaliação, a Comissão pode solicitar informações adicionais.
+
+###### Artigo 5.º — Autorização de abertura de negociações formais
+
+1. Se o acordo previsto satisfizer as condições estabelecidas no n.º 2 do artigo 4.º, a Comissão, no prazo de 90 dias a contar da data de recepção da notificação referida no artigo 3.º, toma uma decisão fundamentada sobre o pedido do Estado-Membro, autorizando-o a dar início a negociações formais sobre aquele acordo.
+
+Se necessário, a Comissão pode propor orientações de negociação e solicitar a inclusão de cláusulas específicas no acordo previsto.
+
+2. O acordo previsto deve conter uma cláusula que preveja:
+
+a) A sua denúncia total ou parcial no caso de celebração de um acordo posterior com o mesmo objecto entre a Comunidade ou a Comunidade e os seus Estados-Membros, por um lado, e o mesmo país terceiro, por outro; ou
+
+b) A substituição directa das suas disposições relevantes pelas disposições de um acordo posterior com o mesmo objecto entre a Comunidade ou a Comunidade e os seus Estados-Membros, por um lado, e o mesmo país terceiro, por outro.
+
+###### Artigo 6.º — Recusa de autorizar a abertura de negociações formais
+
+1. Se, com base na avaliação por si efectuada nos termos do artigo 4.º, a Comissão entender não autorizar a abertura de negociações formais sobre o acordo previsto, dá um parecer ao Estado-Membro em causa no prazo de 90 dias a contar da data de recepção da notificação referida no artigo 3.º
+
+2. No prazo de 30 dias a contar da data de recepção do parecer da Comissão, o Estado-Membro em causa pode solicitar à Comissão uma troca de pontos de vista a fim de se encontrar uma solução.
+
+3. Se o Estado-Membro em causa não solicitar uma troca de pontos de vista à Comissão no prazo fixado no n.º 2, a Comissão toma uma decisão fundamentada sobre o pedido do Estado-Membro no prazo de 130 dias a contar da data de recepção da notificação referida no artigo 3.º
+
+4. No caso de se proceder à troca de pontos de vista referida no n.º 2, a Comissão toma uma decisão fundamentada sobre o pedido do Estado-Membro no prazo de 30 dias a contar da data de conclusão da troca de pontos de vista.
+
+###### Artigo 7.º — Participação da Comissão nas negociações
+
+A Comissão pode participar na qualidade de observadora nas negociações entre o Estado-Membro e o país terceiro relativamente às matérias abrangidas pelo âmbito de aplicação do presente regulamento. Se a Comissão não participar na qualidade de observadora, é informada sobre a evolução e os resultados ao longo das diferentes fases das negociações.
+
+###### Artigo 8.º — Autorização de celebração do acordo
+
+1. Antes de assinar um acordo negociado, o Estado-Membro em causa notifica à Comissão o resultado das negociações e transmite-lhe o texto do acordo.
+
+2. Após recepção desta notificação, a Comissão avalia se o acordo negociado:
+
+a) Satisfaz a condição estabelecida na alínea b) do n.º 2 do artigo 4.º;
+
+b) Satisfaz a condição estabelecida na alínea c) do n.º 2 do artigo 4.º, na medida em que haja circunstâncias novas e excepcionais relativamente a essa condição; e
+
+c) Preenche o requisito previsto no n.º 2 do artigo 5.º
+
+3. Se o acordo negociado satisfizer as condições e os requisitos referidos no n.º 2, a Comissão, no prazo de 90 dias a contar da data de recepção da notificação referida no n.º 1, toma uma decisão fundamentada sobre o pedido do Estado-Membro, autorizando-o a celebrar aquele acordo.
+
+###### Artigo 9.º — Recusa de autorizar a celebração do acordo
+
+1. Se, com base na avaliação por si efectuada nos termos do n.º 2 do artigo 8.º, a Comissão entender não autorizar a celebração do acordo negociado, dá um parecer ao Estado-Membro em causa, bem como ao Parlamento Europeu e ao Conselho, no prazo de 90 dias a contar da data de recepção da notificação referida no n.º 1 do artigo 8.º
+
+2. No prazo de 30 dias a contar da data de recepção do parecer da Comissão, o Estado-Membro em causa pode solicitar à Comissão uma troca de pontos de vista a fim de se encontrar uma solução.
+
+3. Se o Estado-Membro em causa não solicitar uma troca de pontos de vista à Comissão no prazo fixado no n.º 2, a Comissão toma uma decisão fundamentada sobre o pedido do Estado-Membro no prazo de 130 dias a contar da data de recepção da notificação referida no n.º 1 do artigo 8.º
+
+4. No caso de se proceder à troca de pontos de vista referida no n.º 2, a Comissão toma uma decisão fundamentada sobre o pedido do Estado-Membro no prazo de 30 dias a contar da data de conclusão da troca de pontos de vista.
+
+5. A Comissão notifica a sua decisão ao Parlamento Europeu e ao Conselho no prazo de 30 dias a contar da data da decisão.
+
+###### Artigo 10.º — Confidencialidade
+
+Quando prestar informações à Comissão nos termos do artigo 3.º, do n.º 3 do artigo 4.º e do artigo 8.º, o Estado-Membro pode indicar se alguma dessas informações deve ser considerada confidencial e se a informação prestada pode ser partilhada com outros Estados-Membros.
+
+###### Artigo 11.º — Transmissão de informações aos Estados-Membros
+
+A Comissão envia aos Estados-Membros as notificações recebidas ao abrigo dos artigos 3.º e 8.º e, se necessário, os documentos que as acompanham, bem como as suas decisões fundamentadas tomadas ao abrigo dos artigos 5.º, 6.º, 8.º e 9.º, sem prejuízo dos requisitos de confidencialidade.
+
+###### Artigo 12.º — Disposições transitórias
+
+1. Caso, no momento da entrada em vigor do presente regulamento, um Estado-Membro já tenha dado início ao processo de negociações de um acordo com um país terceiro, é aplicável o disposto nos artigos 3.º a 11.º
+
+Caso a fase das negociações o permita, a Comissão pode propor orientações de negociação ou solicitar a inclusão de cláusulas específicas, como referido no segundo parágrafo do n.º 1 e no n.º 2 do artigo 5.º, respectivamente.
+
+2. Caso, no momento da entrada em vigor do presente regulamento, um Estado-Membro já tenha terminado as negociações, sem no entanto ter celebrado o acordo, é aplicável o disposto no artigo 3.º, nos n.^os^ 2 e 3 do artigo 8.º e no artigo 9.º.
+
+###### Artigo 13.º — Reexame
+
+1. Após 13 de Julho de 2017, a Comissão apresenta ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social Europeu um relatório sobre a aplicação do presente regulamento.
+
+2. Aquele relatório deve:
+
+a) Confirmar que é apropriado que o presente regulamento caduque na data fixada nos termos do n.º 1 do artigo 14.º; ou
+
+b) Recomendar que o presente regulamento seja substituído nessa data por um novo regulamento.
+
+3. Se o relatório recomendar a substituição do presente regulamento nos termos da alínea b) do n.º 2, deve ser acompanhado de uma proposta legislativa adequada.
+
+###### Artigo 14.º — Vigência
+
+1. O presente regulamento caduca três anos após a apresentação do relatório da Comissão referido no artigo 13.º
+
+O período de três anos referido no primeiro parágrafo começa a contar do primeiro dia do mês seguinte à apresentação do relatório, seja ao Parlamento Europeu, seja ao Conselho, consoante a que for mais tardia.
+
+2. Não obstante o facto de o presente regulamento caducar na data fixada nos termos do n.º 1, todas as negociações em curso nessa data, iniciadas por um Estado-Membro ao abrigo do presente regulamento, podem continuar e ser concluídas nos termos do presente regulamento.
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável nos Estados-Membros em conformidade com o Tratado que institui a Comunidade Europeia.
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/687ef4f7-9814-43e0-a1b3-00cec2016526.0018.03/DOC_1#src.E0001)) Parecer do Parlamento Europeu de 7 de Maio de 2009 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 7 de Julho de 2009.
+
+> ([^2^](http://publications.europa.eu/resource/cellar/687ef4f7-9814-43e0-a1b3-00cec2016526.0018.03/DOC_1#src.E0002)) JO L 12 de 16.1.2001, p. 1.
+
+> ([^3^](http://publications.europa.eu/resource/cellar/687ef4f7-9814-43e0-a1b3-00cec2016526.0018.03/DOC_1#src.E0003)) JO L 145 de 31.5.2001, p. 43.
+
+> ([^4^](http://publications.europa.eu/resource/cellar/687ef4f7-9814-43e0-a1b3-00cec2016526.0018.03/DOC_1#src.E0004)) JO L 177 de 4.7.2008, p. 6.
+
+> ([^5^](http://publications.europa.eu/resource/cellar/687ef4f7-9814-43e0-a1b3-00cec2016526.0018.03/DOC_1#src.E0005)) JO L 199 de 31.7.2007, p. 40.

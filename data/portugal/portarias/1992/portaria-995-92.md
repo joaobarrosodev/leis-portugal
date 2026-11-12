@@ -26,8 +26,8 @@ publication:
 entry_into_force_dates:
 - '1992-09-01'
 entry_into_force:
-  date: '1992-09-01'
-  rule: no dia 1 de Setembro de 1992
+  date: '1992-10-23'
+  rule: no dia imediato ao da sua publicação
   method: clausula
   article: n-3
   effects_date: null

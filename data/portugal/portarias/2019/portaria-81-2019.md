@@ -35,7 +35,14 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1190056901:por#art-3'
+    detail: É revogada a [Portaria n.º 81/2019], de 20 de março, publicada no Diário da República, 1.ª série, n.º 56, de 20
+      de março de 2019.
 notes: []
 language: por
 version:

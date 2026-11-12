@@ -1,0 +1,162 @@
+---
+schema_version: '1.0'
+id: eu:celex:32010R0383:por
+title: Regulamento (UE) n. o 383/2010 da Comissão, de 5 de Maio de 2010
+short_title: null
+summary: Regulamento (UE) n. o 383/2010 da Comissão, de 5 de Maio de 2010 , relativo à recusa de autorização de uma alegação
+  de saúde sobre os alimentos que não refere a redução de um risco de doença ou o desenvolvimento e a saúde das crianças (Texto
+  relevante para efeitos do EEE)
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2010/383
+official_date: null
+publication_date: '2010-05-06'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 113 de 6.5.2010
+  number: '113'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/32de0d23-070c-4fe3-beb9-da147a39ada9.0018.02/DOC_1
+entry_into_force_dates:
+- '2010-05-26'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32010R0383
+  eli: http://data.europa.eu/eli/reg/2010/383/oj
+  oj: oj:JOL_2010_113_R_0004_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32010R0383:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32010R0383
+  metadata_url: http://publications.europa.eu/resource/cellar/32de0d23-070c-4fe3-beb9-da147a39ada9.0018
+  content_url: http://publications.europa.eu/resource/cellar/32de0d23-070c-4fe3-beb9-da147a39ada9.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:42:54Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-09-04T22:34:31.687+02:00'
+integrity:
+  source_sha256: 0628bd7f3a3b23c37e49115995c08930e9b43887b65db48063a3ceed6803de54
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:42:54Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- conhecimentos científicos
+- informação do consumidor
+- lacticínio
+- legislação alimentar
+- nutrição
+- prevenção das doenças
+- produto alimentar
+- rotulagem
+- saúde pública
+relationships:
+- type: based_on
+  target: celex:32006R1924
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e6b6f775-c3c7-48b8-a079-eb55cbc7a766
+  date: '2007-01-02'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:42:54Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO (UE) N.º 383/2010 DA COMISSÃO
+
+de 5 de Maio de 2010
+
+relativo à recusa de autorização de uma alegação de saúde sobre os alimentos que não refere a redução de um risco de doença ou o desenvolvimento e a saúde das crianças
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 1924/2006 do Parlamento Europeu e do Conselho, de 20 de Dezembro de 2006, relativo às alegações nutricionais e de saúde sobre os alimentos [([^1])](http://publications.europa.eu/resource/cellar/32de0d23-070c-4fe3-beb9-da147a39ada9.0018.03/DOC_1#ntr1-L_2010113PT.01000401-E0001), e, nomeadamente, o seu artigo 18.º, n.º 5,
+
+Considerando o seguinte:
+
+(1) Nos termos do Regulamento (CE) n.º 1924/2006, são proibidas as alegações de saúde sobre os alimentos, excepto se forem autorizadas pela Comissão em conformidade com o referido regulamento e incluídas numa lista de alegações permitidas.
+
+(2) O Regulamento (CE) n.º 1924/2006 estabelece igualmente que os pedidos de autorização de alegações de saúde podem ser apresentados pelos operadores das empresas do sector alimentar à autoridade nacional competente de um Estado-Membro. A autoridade nacional competente deve transmitir os pedidos válidos à Autoridade Europeia para a Segurança dos Alimentos (AESA), a seguir designada «a Autoridade».
+
+(3) Após a recepção de um pedido, a Autoridade deve informar imediatamente os outros Estados-Membros e a Comissão e emitir um parecer sobre a alegação de saúde em causa.
+
+(4) A Comissão deve tomar uma decisão sobre a autorização de alegações de saúde tendo em consideração o parecer emitido pela Autoridade.
+
+(5) No seguimento de um pedido da ELVIR S.A.S., apresentado em 5 de Junho de 2008 nos termos do artigo 13.º, n.º 5, do Regulamento (CE) n.º 1924/2006, a Autoridade foi instada a emitir um parecer sobre uma alegação de saúde relacionada com os efeitos de um produto à base de leite, rico em fibras e proteínas, na redução da sensação de fome (Pergunta n.º EFSA-Q-2008-396) [([^2])](http://publications.europa.eu/resource/cellar/32de0d23-070c-4fe3-beb9-da147a39ada9.0018.03/DOC_1#ntr2-L_2010113PT.01000401-E0002). A alegação proposta pelo requerente tinha a seguinte redacção: «Este produto reduz a sensação de fome».
+
+(6) Em 19 de Dezembro de 2008, a Comissão e os Estados-Membros receberam o parecer científico da Autoridade. Concluía-se do parecer e dos esclarecimentos subsequentes da Autoridade que, com base nos dados apresentados, não ficou demonstrada uma relação de causa e efeito entre o consumo do produto à base de leite rico em fibras e proteínas e uma redução da sensação de fome que seja benéfica, do ponto de vista nutricional e fisiológico, em termos do efeito no aporte energético dos alimentos. Tendo isto em conta, na sua reunião de 27 de Abril de 2009 o Comité Permanente da Cadeia Alimentar e da Saúde Animal concluiu que a alegação de saúde deveria ser submetida a novo exame e em 24 de Junho de 2009 a Comissão solicitou à Autoridade informações complementares sobre vários elementos relacionados com o pedido apresentado.
+
+(7) Em 22 de Julho de 2009, a Comissão e os Estados-Membros receberam a reposta da Autoridade, na qual se esclarece que o efeito observado não pode ser atribuído unicamente ao alimento testado, devido à falta de informação sobre as condições dos estudos em termos de dieta. Por conseguinte, dado que não cumpre os requisitos do Regulamento (CE) n.º 1924/2006, a alegação não deve ser autorizada.
+
+(8) Os comentários dos requerentes e dos cidadãos, recebidos pela Comissão nos termos do artigo 16.º, n.º 6, do Regulamento (CE) n.º 1924/2006, foram tidos em conta na definição das medidas previstas no presente regulamento.
+
+(9) As alegações de saúde referidas no artigo 13.º, n.º 1, alínea c), do Regulamento (CE) n.º 1924/2006 são abrangidas pelas medidas transitórias estabelecidas no artigo 28.º, n.º 6, desse regulamento unicamente se cumprirem as condições aí mencionadas, entre as quais a de que os pedidos relativos a alegações de saúde não sujeitas a avaliação e autorização num Estado-Membro deviam ser apresentados antes de 19 de Janeiro de 2008. Visto que o pedido relativo à alegação de saúde objecto do presente regulamento não foi apresentado antes dessa data, a alegação não pode beneficiar do período transitório previsto no artigo 28.º, n.º 6, do referido regulamento.
+
+(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal e nem o Parlamento Europeu nem o Conselho se opuseram às mesmas,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+A alegação de saúde constante do anexo do presente regulamento não é incluída na lista comunitária de alegações permitidas prevista no artigo 13.º, n.º 3, do Regulamento (CE) n.º 1924/2006.
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 5 de Maio de 2010.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**José Manuel BARROSO**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/32de0d23-070c-4fe3-beb9-da147a39ada9.0018.03/DOC_1#ntc1-L_2010113PT.01000401-E0001) [JO L 404 de 30.12.2006, p. 9](http://publications.europa.eu/resource/oj/JOL_2006_404_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/32de0d23-070c-4fe3-beb9-da147a39ada9.0018.03/DOC_1#ntc2-L_2010113PT.01000401-E0002) *The EFSA Journal* (2008) 894, 1-9.

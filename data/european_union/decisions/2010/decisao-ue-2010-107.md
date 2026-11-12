@@ -1,0 +1,283 @@
+---
+schema_version: '1.0'
+id: eu:celex:32010D0107:por
+title: '2010/107/PESC: Decisão 2010/107/PESC do Conselho, de 22 de Fevereiro de 2010'
+short_title: null
+summary: '2010/107/PESC: Decisão 2010/107/PESC do Conselho, de 22 de Fevereiro de 2010 , que prorroga o mandato do Representante
+  Especial da União Europeia para o Processo de Paz no Médio Oriente'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2010/107
+official_date: null
+publication_date: '2010-02-23'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 46 de 23.2.2010
+  number: '46'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/f37f70e6-e1e3-411e-b118-27341cbaf6d8.0018.01/DOC_1
+entry_into_force_dates:
+- '2010-02-22'
+- '2010-03-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2010-08-11'
+identifiers:
+  celex: 32010D0107
+  eli: http://data.europa.eu/eli/dec/2010/107(1)/oj
+  oj: oj:JOL_2010_046_R_0008_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32010D0107:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32010D0107
+  metadata_url: http://publications.europa.eu/resource/cellar/f37f70e6-e1e3-411e-b118-27341cbaf6d8.0018
+  content_url: http://publications.europa.eu/resource/cellar/925f8790-1999-4ace-99cf-a306c9d5ff14.0018.03/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010D0107-20100811
+  retrieved_at: '2026-11-12T00:41:28Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-09-04T06:16:27.001+02:00'
+integrity:
+  source_sha256: 2af337c2994b9b0e3f4f417835ba42e163dda4caf3dcb34e2600e3e509a24e1a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:41:28Z'
+  notes: Texto consolidado 02010D0107-20100811.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Médio Oriente
+- mandato
+- nomeação de membros
+- representação diplomática
+relationships:
+- type: based_on
+  target: celex:12008M028
+  label: null
+  source: http://publications.europa.eu/resource/cellar/904f133e-95e2-40bd-ad3b-6c9f795ce7e0
+  date: '2008-07-31'
+- type: based_on
+  target: celex:12008M031
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ae95703b-d73b-43b6-a1c7-0324596d877d
+  date: '2008-07-31'
+- type: based_on
+  target: celex:12008M033
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8d96697f-fcd0-4172-8364-436e7e246dd1
+  date: '2008-07-31'
+- type: cites
+  target: celex:32003E0537
+  label: null
+  source: http://publications.europa.eu/resource/cellar/952bbe30-6f68-42a0-afcb-0ab4bbf9d32b
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:41:28Z'
+  warnings: []
+  errors: []
+---
+
+# 2010/107/PESC: Decisão 2010/107/PESC do Conselho, de 22 de Fevereiro de 2010
+
+> 2010D0107 — PT — 11.08.2010 — 001.001
+
+> Este documento constitui um instrumento de documentação e não vincula as instituições
+
+**Alterado por:**
+
+- [►M1](http://publications.europa.eu/resource/celex/32010D0447) — [DECISÃO 2010/447/PESC DO CONSELHO de 11 de Agosto de 2010](http://publications.europa.eu/resource/celex/32010D0447) — L 211 — 39 — 12.8.2010
+
+## DECISÃO 2010/107/PESC DO CONSELHO
+
+de 22 de Fevereiro de 2010
+
+que prorroga o mandato do Representante Especial da União Europeia para o Processo de Paz no Médio Oriente
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado da União Europeia, nomeadamente o artigo 28.º, o n.º 2 do artigo 31.º e o artigo 33.º,
+
+Tendo em conta a proposta da Alta Representante da União para os Negócios Estrangeiros e a Política de Segurança,
+
+(1) Em 21 de Julho de 2003, o Conselho aprovou a Acção Comum 2003/537/PESC ([^1^](http://publications.europa.eu/resource/cellar/925f8790-1999-4ace-99cf-a306c9d5ff14.0018.03/DOC_1#E0001)), que nomeou Marc OTTE Representante Especial da União Europeia (REUE) para o Processo de Paz no Médio Oriente.
+
+(2) Em 16 de Fevereiro de 2009, o Conselho aprovou a Acção Comum 2009/136/PESC ([^2^](http://publications.europa.eu/resource/cellar/925f8790-1999-4ace-99cf-a306c9d5ff14.0018.03/DOC_1#E0002)), que alterou e prorrogou o mandato do REUE até 28 de Fevereiro de 2010.
+
+(3) O mandato do REUE deverá ser prorrogado até 31 de Agosto de 2010. Pode, todavia, cessar antes dessa data, se o Conselho assim o decidir, por recomendação da Alta Representante da União para os Negócios Estrangeiros e a Política de Segurança (AR), na sequência da entrada em vigor da decisão que cria o Serviço Europeu de Acção Externa.
+
+(4) O REUE cumprirá o seu mandato no contexto de uma situação que poderá vir a deteriorar-se e ser prejudicial aos objectivos da Política Externa e de Segurança Comum enunciados no artigo 21.º do Tratado,
+
+ADOPTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º — Representante Especial da União Europeia
+
+O mandato de Marc OTTE como Representante Especial da União Europeia (REUE) para o Processo de Paz no Médio Oriente é prorrogado até 28 de Fevereiro de 2011 ou até que o Conselho decida, sob proposta do Alto Representante, que foram instituídas no Serviço Europeu para a Acção Externa funções adequadas correspondentes às previstas na presente decisão e determine a cessação do mandato.
+
+###### Artigo 2.º — Objectivos políticos
+
+1. O mandato do REUE baseia-se nos objectivos políticos da União Europeia (EU) no que respeita ao Processo de Paz no Médio Oriente.
+
+2. Esses objectivos incluem:
+
+a) Uma solução assente na coexistência de dois Estados – por um lado, Israel e, por outro, um Estado Palestiniano democrático, viável, pacífico e soberano –, dentro de fronteiras seguras e reconhecidas, com relações normais com os seus vizinhos, de acordo com as Resoluções 242 (1967), 338 (1973), 1397 (2002) e 1402 (2002) do Conselho de Segurança das Nações Unidas e com os princípios estabelecidos na Conferência de Madrid;
+
+b) Uma solução nas vertentes israelo-síria e israelo-libanesa;
+
+c) Uma solução correcta para a complexa questão de Jerusalém e uma solução justa, viável e acordada para o problema dos refugiados palestinianos;
+
+d) O seguimento do processo de Annapolis tendo em vista um acordo sobre o estatuto final e a criação de um Estado Palestiniano, incluindo o reforço do papel do Quarteto para o Médio Oriente enquanto guardião do roteiro, nomeadamente com vista a avaliar o cumprimento por ambas as partes das obrigações previstas no roteiro, de acordo com os esforços da comunidade internacional para atingir uma paz israelo-árabe global;
+
+e) O estabelecimento de mecanismos sustentáveis e eficazes de policiamento, sob responsabilidade palestiniana, de acordo com os melhores padrões internacionais, em cooperação com os programas de desenvolvimento institucional da União e com outros esforços internacionais no contexto mais vasto do sector da segurança, incluindo a reforma da justiça penal;
+
+f) A reabertura dos postos de passagem de Gaza, incluindo o posto de passagem de Rafa, em particular para responder às graves necessidades humanitárias da população, permitindo a presença de uma parte terceira, se aceite por ambas as partes, em cooperação com os esforços da União para o desenvolvimento institucional.
+
+3. Esses objectivos têm por base o empenho da União em:
+
+a) Trabalhar com as partes e com os parceiros da comunidade internacional, especialmente no âmbito do Quarteto para o Médio Oriente, a fim de aproveitar todas as oportunidades de instaurar a paz e proporcionar um futuro digno a todos os povos da região;
+
+b) Continuar a apoiar as reformas políticas e administrativas na Palestina, o processo eleitoral e as reformas em matéria de segurança;
+
+c) Contribuir plenamente para a consolidação da paz, bem como para a recuperação da economia palestiniana, enquanto parte integrante do desenvolvimento regional.
+
+4. O REUE apoia o trabalho da AR na região, nomeadamente no âmbito do Quarteto para o Médio Oriente.
+
+###### Artigo 3.º — Mandato
+
+Para alcançar os objectivos políticos, o REUE tem por mandato:
+
+a) Dar um contributo activo e eficaz da União para as acções e iniciativas destinadas a obter uma resolução definitiva do conflito israelo-palestiniano e dos conflitos israelo-sírio e israelo-libanês;
+
+b) Promover e manter contactos estreitos com todas as partes intervenientes no Processo de Paz no Médio Oriente, os vários países da região, os membros do Quarteto para o Médio Oriente e outros países interessados, bem como com a ONU e outras organizações internacionais competentes, a fim de colaborar com estes no reforço do processo de paz;
+
+c) Assegurar a continuação da presença da União, tanto no terreno como nas instâncias internacionais competentes, e contribuir para a gestão e prevenção de crises;
+
+d) Observar e apoiar as negociações de paz entre as partes e oferecer o aconselhamento e os bons ofícios da União Europeia, quando adequado;
+
+e) Contribuir, sempre que tal seja solicitado, para a aplicação dos acordos internacionais celebrados entre as partes e com estas desenvolver um diálogo diplomático em caso de incumprimento;
+
+f) Prestar especial atenção aos factores com implicações na dimensão regional do Processo de Paz no Médio Oriente;
+
+g) Dialogar construtivamente com os signatários dos acordos celebrados no âmbito do Processo de Paz, a fim de promover a observância dos princípios essenciais da democracia, nomeadamente o respeito pelos direitos humanos e o Estado de direito;
+
+h) Contribuir para a aplicação da política da UE em matéria de direitos humanos e das orientações da UE neste domínio, em especial no que se refere às crianças e às mulheres nas zonas afectadas por conflitos, nomeadamente acompanhando e gerindo a evolução da situação;
+
+i) Prestar informações sobre as possibilidades de intervenção da União no processo de paz e sobre a melhor forma de prosseguir as suas iniciativas e os esforços que tem envidado no contexto do Processo de Paz no Médio Oriente, tais como o contributo da União para as reformas palestinianas, nomeadamente os aspectos políticos dos projectos de desenvolvimento relevantes da União;
+
+j) Acompanhar as acções de ambas as partes no que diz respeito à aplicação do roteiro e a questões que possam prejudicar o resultado das negociações sobre o estatuto permanente, por forma a permitir que o Quarteto para o Médio Oriente avalie melhor o seu cumprimento pelas partes;
+
+k) Desenvolver uma ampla colaboração no âmbito da Reforma do Sector da Segurança em cooperação com a Comissão Europeia e o Coordenador de Segurança dos EUA, e facilitar a cooperação com todos os intervenientes com relevância em matérias de segurança;
+
+l) Contribuir para uma melhor compreensão do papel da União pelos líderes de opinião da região.
+
+###### Artigo 4.º — Execução do mandato
+
+1. O REUE é responsável pela execução do mandato, actuando sob a autoridade da AR.
+
+2. O Comité Político e de Segurança (CPS) mantém uma relação privilegiada com o REUE, sendo o principal ponto de contacto do REUE com o Conselho. O CPS faculta orientação estratégica e direcção política ao REUE, no âmbito do seu mandato, sem prejuízo dos poderes da AR.
+
+###### Artigo 5.º — Financiamento
+
+1. O montante de referência financeira destinado a cobrir as despesas relativas ao mandato do REUE no período compreendido entre 1 de Março de 2010 e 31 de Agosto de 2010 é de 730 000 EUR.
+
+2. O montante de referência financeira destinado a cobrir as despesas relativas ao mandato do REUE no período compreendido entre 1 de Setembro de 2010 e 28 de Fevereiro de 2011 é de 585 000 EUR.
+
+3. As despesas são geridas de harmonia com os procedimentos e regras aplicáveis ao orçamento geral da União.
+
+4. As despesas são geridas nos termos de um contrato entre o REUE e a Comissão. O REUE responde perante a Comissão por todas as despesas.
+
+###### Artigo 6.º — Constituição e composição da equipa
+
+1. Nos limites do seu mandato e dos correspondentes meios financeiros disponibilizados, o REUE é responsável pela constituição da sua equipa. A equipa disporá de conhecimentos especializados sobre questões políticas específicas, em função das necessidades do mandato. O REUE informa prontamente o Conselho e a Comissão da composição da sua equipa.
+
+2. Os Estados-Membros e as instituições da União podem propor o destacamento de pessoal para trabalhar com o REUE. A remuneração do pessoal destacado para junto do REUE por um Estado-Membro ou por uma instituição da União fica a cargo, respectivamente, do Estado-Membro ou instituição da União em causa. Podem igualmente ser adstritos ao REUE peritos destacados pelos Estados-Membros para o Secretariado-Geral do Conselho. O pessoal internacional contratado deve ter a nacionalidade de um dos Estados-Membros.
+
+3. Todo o pessoal destacado permanece sob a autoridade administrativa do Estado-Membro de origem ou da instituição da União em questão, desempenhando as suas funções e actuando no interesse do mandato do REUE.
+
+###### Artigo 7.º — Privilégios e imunidades do REUE e do seu efectivo
+
+Os privilégios, imunidades e outras garantias necessárias à realização e ao bom funcionamento da missão do REUE e do seu pessoal são estabelecidos de comum acordo com a ou as Partes anfitriãs, consoante o caso. Os Estados-Membros e a Comissão prestam todo o apoio necessário para o efeito.
+
+###### Artigo 8.º — Segurança das informações classificadas da UE
+
+O REUE e os membros da sua equipa respeitam os princípios e normas mínimas de segurança estabelecidos pela Decisão 2001/264/CE do Conselho, de 19 de Março de 2001, que aprova as regras de segurança do Conselho ([^3^](http://publications.europa.eu/resource/cellar/925f8790-1999-4ace-99cf-a306c9d5ff14.0018.03/DOC_1#E0003)), em especial ao gerirem informações classificadas da UE.
+
+###### Artigo 9.º — Acesso às informações e apoio logístico
+
+1. Os Estados-Membros, a Comissão e o Secretariado-Geral do Conselho asseguram que o REUE tenha acesso a todas as informações pertinentes.
+
+2. A delegação da União e/ou os Estados-Membros, consoante o caso, prestam apoio logístico na região.
+
+###### Artigo 10.º — Segurança
+
+De acordo com a política da União em matéria de segurança do pessoal destacado no exterior da União, com funções operacionais, ao abrigo do Título V do Tratado, o REUE toma todas as medidas exequíveis, dentro do razoável, em conformidade com o seu mandato e com a situação em matéria de segurança na zona geográfica sob a sua responsabilidade, para garantir a segurança de todo o pessoal sob a sua autoridade directa. Nomeadamente:
+
+a) Define, com base nas orientações do Secretariado-Geral do Conselho, um plano de segurança específico da sua missão, que preveja nomeadamente medidas físicas, organizativas e processuais em matéria de segurança específicas da missão e se aplique à gestão das entradas do pessoal na zona da missão e das deslocações deste no seu interior em condições de segurança, bem como à gestão dos incidentes de segurança, e que inclua um plano de emergência e de evacuação da missão;
+
+b) Assegura que todo o pessoal destacado no exterior da União se encontre coberto por um seguro de alto risco adequado às condições vigentes na zona da missão;
+
+c) Assegura que todos os membros da sua equipa a destacar no exterior da União, incluindo o pessoal contratado a nível local, recebam, antes ou aquando da sua chegada à zona da missão, uma formação adequada em matéria de segurança, com base na classificação dos riscos atribuída à zona da missão pelo Secretariado-Geral do Conselho;
+
+d) Assegura a execução de todas as recomendações emitidas na sequência de avaliações periódicas da segurança e apresenta à AR, ao Conselho e à Comissão relatórios escritos sobre essa execução e sobre outras questões de segurança no âmbito do relatório intercalar e do relatório sobre a execução do mandato.
+
+###### Artigo 11.º — Apresentação de relatórios
+
+O REUE apresenta periodicamente relatórios orais e escritos à AR e ao CPS. Se necessário, o REUE informa também os grupos de trabalho do Conselho. Os relatórios escritos periódicos são distribuídos através da rede COREU. Por recomendação da AR ou do CPS, o REUE pode apresentar relatórios ao Conselho dos Negócios Estrangeiros.
+
+###### Artigo 12.º — Coordenação
+
+1. O REUE promove a coordenação política global da União. Contribui para assegurar que todos os instrumentos da União no terreno sejam utilizados coerentemente para atingir os objectivos políticos da União. As actividades do REUE são coordenadas com as da Comissão, e bem assim, se adequado, com as de outros REUE que actuem na região. O REUE informa regularmente as missões dos Estados-Membros e as delegações da União.
+
+2. É mantida *in loco* uma ligação estreita com o Chefe da delegação da União e com os Chefes de Missão dos Estados-Membros, que envidam todos os esforços no sentido de apoiar o REUE na execução do mandato. O REUE dá orientações políticas a nível local aos Chefes da Missão de Polícia da União Europeia para os Territórios Palestinianos (EUPOL COPPS) e da Missão de Assistência Fronteiriça da União Europeia para o Posto de Passagem de Rafa (MAF UE Rafa). O REUE e o Comandante da Operação Civil consultam-se na medida do necessário. O REUE mantém igualmente contactos com outros intervenientes internacionais e regionais no terreno.
+
+###### Artigo 13.º — Reapreciação
+
+A execução da presente decisão, bem como a sua coerência com outros contributos da União na região são regularmente reapreciadas. O REUE apresentará à AR, ao Conselho e à Comissão um relatório sobre a execução do mandato quando este terminar.
+
+###### Artigo 14.º — Entrada em vigor
+
+A presente decisão entra em vigor na data da sua adopção.
+
+É aplicável a partir de 1 de Março de 2010.
+
+###### Artigo 15.º — Publicação
+
+A presente decisão será publicada no *Jornal Oficial da União Europeia*.
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/925f8790-1999-4ace-99cf-a306c9d5ff14.0018.03/DOC_1#src.E0001)) JO L 184 de 23.7.2003, p. 45.
+
+> ([^2^](http://publications.europa.eu/resource/cellar/925f8790-1999-4ace-99cf-a306c9d5ff14.0018.03/DOC_1#src.E0002)) JO L 46 de 17.2.2009, p. 65.
+
+> ([^3^](http://publications.europa.eu/resource/cellar/925f8790-1999-4ace-99cf-a306c9d5ff14.0018.03/DOC_1#src.E0003)) JO L 101 de 11.4.2001, p. 1.

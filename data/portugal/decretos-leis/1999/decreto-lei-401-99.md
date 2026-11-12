@@ -31,7 +31,7 @@ entry_into_force:
   method: supletiva
   article: null
   effects_date: null
-  effects_rule: a partir 1 de Janeiro de 1999
+  effects_rule: null
   end_date: null
   end_rule: null
 end_of_validity_date: null

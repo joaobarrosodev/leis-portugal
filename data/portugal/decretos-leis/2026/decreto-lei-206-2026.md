@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 31 - 38
   pdf_url: https://files.diariodarepublica.pt/1s/2026/10/20800/0003100038.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-10-28'
+entry_into_force:
+  date: '2026-10-28'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: '2025-07-01'
+  effects_rule: a 1 de julho de 2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

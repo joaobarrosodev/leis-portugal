@@ -27,10 +27,10 @@ publication:
 entry_into_force_dates:
 - '2009-07-19'
 entry_into_force:
-  date: '2009-07-19'
-  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
-  method: supletiva
-  article: null
+  date: '2009-09-14'
+  rule: no dia 14 de Setembro de 2009
+  method: clausula
+  article: n-3
   effects_date: null
   effects_rule: null
   end_date: null

@@ -1,0 +1,161 @@
+---
+schema_version: '1.0'
+id: eu:celex:32024R0622:por
+title: Regulamento de Execução (UE) 2024/622 da Comissão, de 22 de fevereiro de 2024
+short_title: null
+summary: Regulamento de Execução (UE) 2024/622 da Comissão, de 22 de fevereiro de 2024, relativo à lista dos Estados que se
+  considera estarem a aplicar o CORSIA para efeitos da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho no que respeita
+  às emissões de 2023
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento de Execução
+issuing_authority:
+- Comissão Europeia
+- CLIMA
+proposing_entity: null
+official_number: 2024/622
+official_date: null
+publication_date: '2024-02-23'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L, 2024/622, 23.2.2024
+  number: '622'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/a9ae668c-d1ec-11ee-b9d9-01aa75ed71a1.0020.01/DOC_1
+entry_into_force_dates:
+- '2024-02-26'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32024R0622
+  eli: http://data.europa.eu/eli/reg_impl/2024/622/oj
+  oj: oj:L_202400622
+  dre: null
+  dre_path: null
+  internal: eu:celex:32024R0622:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32024R0622
+  metadata_url: http://publications.europa.eu/resource/cellar/a9ae668c-d1ec-11ee-b9d9-01aa75ed71a1.0020
+  content_url: http://publications.europa.eu/resource/cellar/a9ae668c-d1ec-11ee-b9d9-01aa75ed71a1.0020.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T01:25:48Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-02-23T02:58:18.175+01:00'
+integrity:
+  source_sha256: f234bc0de4c9b951d7be6f483253d23f1fa5ebec2860a6e81ab9bdaa1f365207
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T01:25:48Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Organização da Aviação Civil Internacional
+- autorização de poluir negociável
+- comércio de emissões
+- gás de efeito de estufa
+- licença de emissão
+- país terceiro
+- redução das emissões de gases
+- transporte aéreo
+- transporte internacional
+relationships:
+- type: based_on
+  target: celex:32003L0087
+  label: null
+  source: http://publications.europa.eu/resource/cellar/518d47fe-bb29-4eac-a25e-42d0499f4e19
+  date: '2003-10-28'
+- type: cites
+  target: celex:32023L0958
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2f93a0a8-f384-11ed-a05c-01aa75ed71a1
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T01:25:48Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DE EXECUÇÃO (UE) 2024/622 DA COMISSÃO
+
+de 22 de fevereiro de 2024
+
+relativo à lista dos Estados que se considera estarem a aplicar o CORSIA para efeitos da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho no que respeita às emissões de 2023
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta a Diretiva 2003/87/CE do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, relativa à criação de um sistema de comércio de licenças de emissão de gases com efeito de estufa na União e que altera a Diretiva 96/61/CE do Conselho [([^1])](http://publications.europa.eu/resource/cellar/a9ae668c-d1ec-11ee-b9d9-01aa75ed71a1.0020.03/DOC_1#ntr1-L_202400622PT.000101-E0001), nomeadamente o artigo 25.º-A, n.º 3,
+
+Considerando o seguinte:
+
+(1) As atividades de aviação estão incluídas no sistema de comércio de licenças de emissão de gases com efeito de estufa na União («CELE»), criado pela Diretiva 2003/87/CE.
+
+(2) A Diretiva (UE) 2023/958 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/a9ae668c-d1ec-11ee-b9d9-01aa75ed71a1.0020.03/DOC_1#ntr2-L_202400622PT.000101-E0002) alterou a Diretiva 2003/87/CE de modo a aplicar adequadamente o Regime de Compensação e Redução das Emissões de Carbono da Aviação Internacional («CORSIA») da Organização da Aviação Civil Internacional («OACI»).
+
+(3) Nos termos do artigo 25.º-A, n.º 3, da Diretiva 2003/87/CE, a Comissão deve adotar uma lista dos Estados, com exceção dos Estados do EEE, da Suíça e do Reino Unido, que se considera estarem a aplicar o CORSIA para efeitos dessa diretiva, tendo por referência o ano de 2019 para o período de 2021 a 2023. O Parlamento Europeu e o Conselho excluíram os Estados do EEE, a Suíça e o Reino Unido dessa lista de Estados, uma vez que as rotas entre esses países são abrangidas pelo âmbito dos respetivos sistemas de comércio de licenças de emissão.
+
+(4) No que diz respeito a 2023, a inclusão de um Estado na lista dos Estados que se considera estarem a aplicar o CORSIA para efeitos da Diretiva 2003/87/CE baseia-se na notificação, por esse Estado, da intenção de aplicar o CORSIA às emissões de 2023, notificação essa feita ao Secretariado da OACI. O Secretariado da OACI publica uma lista anual dos Estados que procederam a essa notificação. A fim de refletir as alterações destas listas publicadas anualmente, a Comissão deve adotar todos os anos uma lista dos Estados, com exceção dos Estados do EEE, da Suíça e do Reino Unido, que se considera estarem a aplicar o CORSIA para efeitos da Diretiva 2003/87/CE.
+
+(5) A lista dos Estados que se considera estarem a aplicar o CORSIA relativa a 2023, publicada pelo Secretariado da OACI, inclui São Marinho e o Mónaco. No entanto, São Marinho e o Mónaco não devem ser incluídos no anexo do presente regulamento, uma vez que não possuem aeroporto e que, em 2023, não se realizaram voos que envolvessem rotas às quais se aplique o CORSIA para efeitos da Diretiva 2003/87/CE.
+
+(6) A lista de Estados constante do anexo deve ser utilizada pelos operadores de aeronaves na comunicação das emissões relativas a 2023. A fim de assegurar a aplicação oportuna desta lista antes do termo do prazo de comunicação dessas emissões, o presente regulamento deve entrar em vigor no terceiro dia seguinte ao da sua publicação.
+
+(7) As medidas estabelecidas no presente regulamento estão em conformidade com o parecer do Comité das Alterações Climáticas,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+A lista dos Estados que se considera estarem a aplicar o CORSIA para efeitos da Diretiva 2003/87/CE no que respeita às emissões de 2023 consta do anexo do presente regulamento.
+
+###### Artigo 2.º
+
+O presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 22 de fevereiro de 2024.
+
+***Pela Comissão***
+
+***A Presidente***
+
+**Ursula VON DER LEYEN**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/a9ae668c-d1ec-11ee-b9d9-01aa75ed71a1.0020.03/DOC_1#ntc1-L_202400622PT.000101-E0001) [JO L 275 de 25.10.2003, p. 32](http://publications.europa.eu/resource/oj/JOL_2003_275_R_TOC), ELI: http://data.europa.eu/eli/dir/2003/87/oj
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/a9ae668c-d1ec-11ee-b9d9-01aa75ed71a1.0020.03/DOC_1#ntc2-L_202400622PT.000101-E0002) Diretiva (UE) 2023/958 do Parlamento Europeu e do Conselho, de 10 de maio de 2023, que altera a Diretiva 2003/87/CE no que diz respeito à contribuição da aviação para a meta de redução das emissões a nível de toda a economia da União e à aplicação adequada de uma medida baseada no mercado global ([JO L 130 de 16.5.2023, p. 115](http://publications.europa.eu/resource/oj/JOL_2023_130_R_TOC), ELI: http://data.europa.eu/eli/dir/2023/958/oj).

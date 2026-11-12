@@ -1,0 +1,158 @@
+---
+schema_version: '1.0'
+id: eu:celex:32014R0992:por
+title: Regulamento Delegado (UE) n. ° 992/2014 da Comissão, de 22 de setembro de 2014
+short_title: null
+summary: Regulamento Delegado (UE) n. ° 992/2014 da Comissão, de 22 de setembro de 2014 , que revoga o Regulamento Delegado
+  (UE) n. ° 950/2014
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento Delegado
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2014/992
+official_date: null
+publication_date: '2014-09-23'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 279 de 23.9.2014
+  number: '279'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/cab78953-42e4-11e4-a0cb-01aa75ed71a1.0018.01/DOC_1
+entry_into_force_dates:
+- '2014-09-23'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32014R0992
+  eli: http://data.europa.eu/eli/reg_del/2014/992/oj
+  oj: oj:JOL_2014_279_R_0002
+  dre: null
+  dre_path: null
+  internal: eu:celex:32014R0992:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32014R0992
+  metadata_url: http://publications.europa.eu/resource/cellar/cab78953-42e4-11e4-a0cb-01aa75ed71a1.0018
+  content_url: http://publications.europa.eu/resource/cellar/cab78953-42e4-11e4-a0cb-01aa75ed71a1.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-11-12T00:53:58Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-15T21:14:18.803+02:00'
+integrity:
+  source_sha256: f0dbab6cdbf9bc35526680442ffa512dfca2b266fee3628ec0f10842830521fe
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-11-12T00:53:58Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Rússia
+- ajuda da UE
+- ajuda financeira
+- controlo da UE
+- prémio de armazenagem
+- queijo
+- restrição ao comércio
+relationships:
+- type: based_on
+  target: celex:32013R1308
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ce1fdb47-6c04-11e3-9afb-01aa75ed71a1
+  date: '2013-12-23'
+- type: repeals
+  target: celex:32014R0950
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2d1835ba-34df-11e4-8c3c-01aa75ed71a1
+  date: '2014-09-05'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-11-12T00:53:58Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DELEGADO (UE) N.º 992/2014 DA COMISSÃO
+
+de 22 de setembro de 2014
+
+que revoga o Regulamento Delegado (UE) n.º 950/2014
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 e (CE) n.º 1234/2007 [([^1])](http://publications.europa.eu/resource/cellar/cab78953-42e4-11e4-a0cb-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2014279PT.01001701-E0001) do Conselho, nomeadamente o artigo 219.º, n.º 1, em conjugação com o artigo 228.º,
+
+Considerando o seguinte:
+
+(1) A fim de atenuar ou eliminar as ameaças de desequilíbrios graves no mercado do queijo criadas pela proibição de importação decretada pelo Governo russo, o Regulamento Delegado (UE) n.º 950/2014 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/cab78953-42e4-11e4-a0cb-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2014279PT.01001701-E0002) estabeleceu um regime de ajuda excecional temporária ao armazenamento privado de queijos, aplicável a um volume máximo de 155 000 toneladas. Para garantir o respeito desse volume máximo, foi criado um mecanismo de notificação e de monitorização.
+
+(2) Embora os efeitos da proibição russa de importação se possam sentir em todo o mercado de queijos da UE, os Estados-Membros mais afetados são a Finlândia e os Estados Bálticos, dos quais a Rússia é o parceiro comercial exclusivo no que respeita ao queijo, assim como a Alemanha, os Países Baixos e a Polónia, que têm na Rússia um importante destino para esse produto. Além disso, embora afetados pela proibição de importação, os queijos com indicação geográfica representam apenas uma ínfima parte de toda a gama de queijos exportados para a Rússia.
+
+(3) As notificações até agora recebidas em aplicação do mecanismo de controlo do artigo 12.º do Regulamento Delegado (UE) n.º 950/2014 mostram que o regime é desproporcionadamente utilizado pelos produtores de queijo de zonas que, tradicionalmente, não exportam quantidades significativas para a Rússia. O regime não parece, pois, adequado para responder eficaz e eficientemente às perturbações do mercado resultantes da proibição russa.
+
+(4) Tendo em conta o que precede e para assegurar uma correta utilização do orçamento da União, convém pôr fim ao regime de armazenamento privado de determinados queijos previsto pelo Regulamento Delegado (UE) n.º 950/2014.
+
+(5) Para reduzir o risco de utilização ineficiente do orçamento da União, esta medida deve ter aplicação imediata.
+
+(6) A fim de garantir que as expectativas dos operadores que apresentaram pedidos de ajuda para o armazenamento privado de queijos ao abrigo do artigo 4.º do Regulamento Delegado (UE) n.º 950/2014 sejam protegidas, os pedidos apresentados antes da data de entrada em vigor do presente regulamento devem ser tomados em conta para o pagamento das ajudas previstas pelo Regulamento Delegado (UE) n.º 950/2014,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º — Revogação do Regulamento Delegado (UE) n.º 950/2014
+
+O Regulamento Delegado (UE) n.º 950/2014 é revogado.
+
+No entanto, este regulamento continua a aplicar-se aos pedidos apresentados em conformidade com o seu artigo 4.º antes da data de entrada em vigor do presente regulamento.
+
+Caso a aceitação da quantidade total de produtos em relação aos quais foram apresentados pedidos de ajuda à Comissão, em conformidade com o parágrafo anterior, relativamente a uma dada semana resulte na ultrapassagem do volume máximo referido no artigo 1.º do Regulamento Delegado (UE) n.º 950/2014, a Comissão fixa, por meio de um ato de execução adotado sem recurso ao procedimento a que se refere o artigo 229.º, n.^os^ 2 e 3, do Regulamento (UE) n.º 1308/2013, um coeficiente de atribuição aplicável aos volumes correspondentes aos pedidos notificados à Comissão em relação a essa semana. Esse coeficiente de atribuição limita o volume total de produtos elegíveis para a ajuda excecional temporária ao armazenamento privado ao volume máximo referido no artigo 1.º do Regulamento Delegado (UE) n.º 950/2014.
+
+###### Artigo 2.º — Entrada em vigor e aplicação
+
+O presente regulamento entra em vigor no dia da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 22 de setembro de 2014.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**José Manuel BARROSO**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/cab78953-42e4-11e4-a0cb-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2014279PT.01001701-E0001) [JO L 347 de 20.12.2013, p. 671](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/cab78953-42e4-11e4-a0cb-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2014279PT.01001701-E0002) Regulamento Delegado (UE) n.º 950/2014 da Comissão, de 4 de setembro de 2014, que abre um regime de ajuda excecional temporária ao armazenamento privado de determinados queijos e fixa antecipadamente o montante da ajuda ([JO L 265 de 5.9.2014, p. 22](http://publications.europa.eu/resource/oj/JOL_2014_265_R_TOC)).

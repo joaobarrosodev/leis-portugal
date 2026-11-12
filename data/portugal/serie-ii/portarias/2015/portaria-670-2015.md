@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 25944 - 25946
   pdf_url: https://files.diariodarepublica.pt/2s/2015/09/175000000/2594425946.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-09-09'
+entry_into_force:
+  date: '2015-09-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
 notes: []
