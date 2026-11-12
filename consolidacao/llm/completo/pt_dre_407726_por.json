@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:407726:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Decreto-Lei n.º 113/91 (alterador 1): transforma a Siderurgia Nacional, E. P., em sociedade anónima (art. 1.º) e aprova novos estatutos (art. 8.º e anexo I), mas não contém nenhuma instrução textual dirigida aos artigos do Decreto-Lei n.º 853/76 nem os revoga expressamente; a substituição do estatuto da E. P. pelos estatutos da S. A. é um efeito não textual, que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DL 113/91): transformação da E. P. em S. A., aprovação dos estatutos da S. A. (anexo I) e cisão para a URBINDÚSTRIA (anexos II e III); nenhuma substituição, aditamento ou revogação expressa de artigos do original — nada aplicado, registado em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

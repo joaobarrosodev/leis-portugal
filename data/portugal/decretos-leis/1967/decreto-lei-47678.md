@@ -30,10 +30,62 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-09-07'
+version_history:
+  file: decreto-lei-47678.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-05-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-09-07'
+    amending: pt:dre:200812:por
+    amending_title: Decreto-Lei n.º 49054; Decreto-Lei n.º 419/74
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 66.º
+    - Altera Artigo 116.º
+    - Altera Artigo 117.º
+    - Altera Artigo 173.º
+    - Altera Artigo 229.º
+    - Altera Artigo 231.º
+    - Altera Artigo 262.º
+    - Altera Artigo 313.º
+    - Altera Artigo 324.º
+    - Altera Artigo 326.º
+    - Altera Artigo 327.º
+    - Altera Artigo 328.º
+    - Altera Artigo 329.º
+    - Altera Artigo 21.º
+    - Altera Artigo 26.º
+    - Altera Artigo 48.º
+    - Altera Artigo 58.º
+    - Altera Artigo 68.º
+    - Altera Artigo 76.º
+    - Altera Artigo 94.º
+    - Altera Artigo 96.º
+    - Altera Artigo 97.º
+    - Altera Artigo 104.º
+    - Altera Artigo 155.º
+    - Altera Artigo 168.º
+    - Altera Artigo 246.º
+    - Altera Artigo 282.º
+    - Altera Artigo 292.º
+    - Altera Artigo 293.º
+    - Altera Artigo 296.º
+    - Altera Artigo 299.º
+    - Altera Artigo 402.º
+    - Altera Artigo 17.º
+    - Altera Artigo 28.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +111,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:01:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49054; Decreto-Lei
+    n.º 419/74. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-47678.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -232,11 +285,15 @@ A prova dos factos sujeitos a registo obrigatório, qualquer que seja a data em 
 
 2. Se os actos respeitarem a cidadãos estrangeiros, o seu ingresso no registo apenas será permitido quando o requerente mostre legítimo interesse na transcrição.
 
-###### Artigo 9.º — (Actos lavrados nas províncias ultramarinas)
+###### Artigo 9.º — Actos lavrados no ultramar
 
 1. Os actos de registo lavrados nas províncias ultramarinas podem ingressar no registo civil da metrópole, em face de certidão de cópia integral, passada há menos de seis meses.
 
 2. O registo efectuado com base na certidão a que se refere o número antecedente importa o cancelamento do assento original; para esse efeito, o funcionário que o efectuar comunicá-lo-á, no prazo de três dias, ao detentor do livro donde consta o assento.
+
+3. O ingresso no registo civil da metrópole dos actos a que se refere o n.º 1 realizar-se-á mediante transcrição na conservatória do registo civil em cuja área os interessados tiverem a sua residência habitual, ou vierem a estabelecê-la.
+
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
 
 ### CAPÍTULO II — Órgãos do registo civil
 
@@ -258,7 +315,7 @@ c) As entidades especialmente designadas para o efeito nos regulamentos militare
 
 ### CAPÍTULO III — Regras de competência
 
-###### Artigo 12.º — (Conservatória dos Registos Centrais)
+###### Artigo 12.º — Conservatória dos Registos Centrais
 
 1. À Conservatória dos Registos Centrais compete lavrar os seguintes registos:
 
@@ -276,13 +333,17 @@ f) De tutela, administração de bens, curatela ou curadoria, se o menor, interd
 
 g) De todos os factos sujeitos a registo, não especificados nas alíneas anteriores, respeitantes a portugueses, quando ocorridos no estrangeiro;
 
-h) De transcrição de actos de registo, lavrados nas províncias ultramarinas;
+h) De transcrição de actos de registo, realizados no estrangeiro perante as autoridades locais, referentes a cidadãos estrangeiros;
 
-i) De transcrição de actos de registo, realizados no estrangeiro perante as autoridades locais, referentes a cidadãos estrangeiros;
+i) De transcrição das decisões proferidas pelos tribunais estrangeiros, nos termos dos n.os 1 e 2 do artigo 7.º
 
-j) De transcrição das decisões proferidas pelos tribunais estrangeiros, nos termos dos n.os 1 e 2 do artigo 7.º
+j) Em geral, de todos os factos sujeitos a registo ou a ele admitidos, para o qual não seja competente nenhuma outra conservatória.
 
 2. Se os assentos correspondentes aos factos previstos nas alíneas a), c), d) e g) do número antecedente forem prèviamente lavrados pelos agentes diplomáticos ou consulares portugueses, compete à Conservatória dos Registos Centrais a integração desses assentos no respectivo livro.
+
+3. Os actos relativos ao estado civil lavrados no estrangeiro perante as autoridades locais, que hajam de ser averbados a assentos existentes em livros das conservatórias do registo civil, devem ser prèviamente registados, por meio de assento, na Conservatória dos Registos Centrais.
+
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
 
 ###### Artigo 13.º — (Conservatórias do registo civil)
 
@@ -374,15 +435,17 @@ b) Livro de autos de posse;
 
 c) Livro de ponto.
 
-###### Artigo 21.º — (Livro Diário e de registo de emolumentos)
+###### Artigo 21.º — Livro Diário e de registo de emolumentos
 
 1. O livro Diário e de registo de emolumentos é destinado à anotação especificada e cronológica de todos os serviços requisitados na conservatória, à menção do livro e do ano em que sejam lavrados os registos correspondentes e do número de ordem destes, ou da data em que foram passadas as certidões, e ainda à escrituração dos emolumentos cobrados e das demais importâncias arrecadadas.
 
 2. Os serviços requisitados compreendem tanto os solicitados pelos interessados como os determinados por simples remessa, pelas entidades competentes, de boletins ou outros documentos.
 
-3. As declarações de nascimento, de óbito e para processo de casamento, remetidas pelos postos, pelas conservatórias intermediárias ou pelos párocos, bem como os duplicados dos assentos de casamento católico, que houverem de ser devolvidos para fins de rectificação, só são anotados no Diário depois de devidamente rectificados.
+3. As declarações de nascimento e de óbito, remetidas pelos postos ou pelas conservatórias intermediárias, e as declarações para instauração de processo de casamento, bem como os duplicados de assentos de casamento católico, que houverem de ser devolvidos para fins de rectificação, só são anotados no Diário depois de devidamente rectificados.
 
 4. O livro Diário e de registo de emolumentos deve ser prèviamente legalizado, sendo aplicável à legalização, com as necessárias adaptações, o disposto no artigo 23.º
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 22.º — (Livros de assentos)
 
@@ -422,13 +485,15 @@ A legalização dos livros das conservatórias com sede na área da comarca de L
 
 4. É facultativa a organização de verbetes onomásticos auxiliares e remissivos dos índices correspondentes às diversas espécies de assentos.
 
-###### Artigo 26.º — (Livros de extractos)
+###### Artigo 26.º — Livros de extractos
 
-1. No livro de extractos são lançados, segundo os termos fixados nos modelos anexos a este código, os assentos originais de nascimento, bem como os seus averbamentos.
+1. No livro de extractos são lançados, segundo os termos fixados nos modelos anexos a este Código, os assentos originais de nascimento.
 
 2. Os assentos de perfilhação que não possa ser averbada em acto contínuo, bem como os assentos de qualquer espécie, referentes a indivíduos cujo nascimento não esteja nem tenha de ser lavrado em nenhuma conservatória, exceptuados os previstos no artigo 248.º, são extractados em folhas soltas do modelo anexo a este código.
 
 3. As folhas soltas são anualmente incorporadas no final do livro de extractos, depois de agrupadas e numeradas segundo a espécie e a ordem cronológica dos registos a que se referem.
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 27.º — (Livro de transcrição de assentos)
 
@@ -564,11 +629,13 @@ As cópias dos ofícios expedidos devem ficar arquivadas, por ordem cronológica
 
 2. Podem igualmente ser destruídos, seja qual for a sua espécie, os documentos que hajam sido substituídos por microfilmes.
 
-###### Artigo 48.º — (Extractos)
+###### Artigo 48.º — Extractos
 
 1. Os livros de extractos devem ser remetidos por via postal ou entregues directamente, até ao dia 31 de Março do ano seguinte àquele a que se referem, à conservatória da sede do distrito administrativo, e os das conservatórias da sede do distrito às conservatórias indicadas no mapa anexo.
 
-2. Os livros devem ser acompanhados dos boletins relativos aos averbamentos que hajam sido lavrados, até à data da remessa, nos assentos neles extractados.
+2. A Direcção-Geral dos Registos e do Notariado pode determinar que os livros de extractos sejam remetidos à conservatória diversa da indicada no mapa a que se refere o número anterior, sempre que as conveniências de serviço o justifiquem.
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 49.º — (Livros com mais de cem anos)
 
@@ -630,13 +697,17 @@ O conservador pode notificar, pessoalmente ou por carta registada com aviso de r
 
 A revogação da procuração para intervir nos actos de registo pode ser feita por qualquer das formas a que se refere o n.º 2 do artigo 55.º
 
-###### Artigo 58.º — (Testemunhas abonatórias)
+###### Artigo 58.º — Testemunhas abonatórias
 
-1. Em todos os assentos, com excepção dos previstos no artigo 76.º, devem intervir duas testemunhas, maiores ou plenamente emancipadas, que saibam assinar e possam fazê-lo.
+1. Nos assentos de casamento devem intervir duas testemunhas, maiores ou plenamente emancipadas, que saibam assinar e possam fazê-lo.
 
-2. As testemunhas consideram-se sempre abonatórias da identidade das partes, bem como da veracidade das respectivas declarações, e respondem, no caso de falsidade, tanto civil como criminalmente.
+2. Se ao funcionário do registo civil se suscitarem dúvidas acerca da veracidade das declarações ou identidade das partes intervenientes em assento de qualquer outra espécie, poderá exigir a intervenção de duas testemunhas.
 
-3. À identificação das testemunhas é aplicável o disposto no n.º 1 do artigo 51.º
+3. As testemunhas consideram-se sempre abonatórias da identidade das partes, bem como da veracidade das respectivas declarações, e respondem, no caso de falsidade, tanto civil como criminalmente.
+
+4. À identificação das testemunhas é aplicável o disposto no n.º 1 do artigo 51.º
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 59.º — (Quem pode ser testemunha)
 
@@ -688,7 +759,7 @@ e) Os assentos de legitimação ou perfilhação, feita perante o funcionário d
 
 f) Os assentos de emancipação outorgada pelos pais.
 
-###### Artigo 66.º — (Assentos lavrados por transcrição)
+###### Artigo 66.º — Assentos lavrados por transcrição
 
 1. São lavrados por transcrição:
 
@@ -706,9 +777,11 @@ f) Os assentos de convenções antenupciais ou de alteração do regime de bens 
 
 g) Os assentos de factos cujo registo tenha sido realizado pelos funcionários ou autoridades a que se referem as alíneas b) e c) do n.º 1 do artigo 11.º ou de factos que devam passar a constar dos livros de conservatória diversa daquela onde os assentos originais foram lavrados.
 
-2. São ainda lavrados por transcrição os assentos ordenados por decisão judicial e, no geral, os assentos de factos ocorridos no estrangeiro ou no ultramar português, cujos registos tenham sido efectuados pelas autoridades locais.
+2. São ainda lavrados por transcrição os assentos ordenados por decisão judicial, os assentos a que se refere o n.º 3 do artigo 12.º e, em geral, os assentos de factos ocorridos no estrangeiro ou no ultramar português, cujos registos tenham sido efectuados pelas autoridades locais.
 
 3. Exceptuam-se do disposto na alínea b) do n.º 1 os casamentos católicos celebrados entre cônjuges já vinculados por casamento civil anterior não dissolvido.
+
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
 
 ###### Artigo 67.º — (Assentos consulares)
 
@@ -720,7 +793,7 @@ g) Os assentos de factos cujo registo tenha sido realizado pelos funcionários o
 
 4. A integração a que se refere o n.º 2 é feita mediante a simples incorporação do respectivo duplicado ou cópia autêntica, depois de numerada e rubricada pelo conservador, no livro previsto na alínea d) do n.º 1 do artigo 18.º
 
-###### Artigo 68.º — (Requisitos gerais)
+###### Artigo 68.º — Requisitos gerais
 
 1. Além dos requisitos privativos de cada espécie, os assentos devem conter os seguintes elementos:
 
@@ -730,15 +803,15 @@ b) Identificação das partes, e das testemunhas, quando as haja;
 
 c) Nome e categoria do funcionário que os subscreve e, não sendo o conservador, a indicação do motivo da sua intervenção;
 
-d) Menção de haverem sido lidos em voz alta, na presença de todos os intervenientes;
-
-e) Assinatura das partes, ou a menção de que não sabem ou não podem assinar, e assinatura das testemunhas e do funcionário.
+d) Assinatura das partes, ou a menção de que não sabem ou não podem assinar, e assinatura das testemunhas e do funcionário.
 
 2. Quando haja intervenção de intérprete, far-se-á constar do texto do assento, além da identificação dele, a menção do cumprimento do disposto nos artigos 52.º e 53.º, conforme ao caso couber.
 
 3. É dispensada a menção da hora nos assentos lavrados por transcrição.
 
 4. Sempre que o assento seja lavrado fora da repartição, far-se-á menção desta circunstância no seu texto, com referência ao respectivo local.
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 69.º — (Menções especiais dos assentos por transcrição)
 
@@ -792,11 +865,13 @@ As declarações ou menções constantes dos assentos, além das previstas na le
 
 2. Antes de ser assinado, o assento deve ser lido na presença de todas as pessoas que nele intervierem.
 
-###### Artigo 76.º — (Intervenientes)
+###### Artigo 76.º — Intervenientes
 
 1. Os assentos por transcrição são lavrados sem a intervenção das partes ou de qualquer outra pessoa, salvo o disposto no n.º 3 do artigo 196.º
 
-2. São lavrados apenas com a intervenção do declarante ou interessado os assentos, por inscrição, de óbito e os assentos previstos nos artigos 118.º, 164.º e 266.º
+2. São lavrados apenas com a intervenção do interessado os assentos previstos nos artigos 118.º, 164.º e 266.º
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 77.º — (Assinatura)
 
@@ -950,33 +1025,37 @@ b) A remoção ou substituição do tutor, administrador ou curador, com a indic
 
 Ao assento de emancipação é especialmente averbada a sua revogação.
 
-###### Artigo 94.º — (Lançamento dos averbamentos)
+###### Artigo 94.º — Lançamento dos averbamentos
 
-1. O averbamento é lançado à margem não só dos assentos originais, e dos duplicados a que se refere o artigo 67.º, mas também dos extractos ou dos duplicados paroquiais.
+Os averbamentos são lançados à margem dos assentos originais.
 
-2. Se o livro de extractos já não se encontrar na conservatória respectiva, o conservador deve comunicar à conservatória que o detenha o facto averbado à margem dos originais, observando o disposto no artigo 98.º
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 95.º — (Prazo)
 
 Os averbamentos a que se referem os artigos anteriores são efectuados no prazo de vinte e quatro horas, a contar da realização do acto, quando este conste dos livros da própria conservatória, ou do dia da recepção do boletim ou documento comprovativo.
 
-###### Artigo 96.º — (Forma)
+###### Artigo 96.º — Forma
 
 1. Os averbamentos são lavrados segundo os modelos anexos a este código, com referência aos assentos ou documentos que lhes serviram de base.
 
-2. Os averbamentos lançados nos extractos ou duplicados paroquiais conterão apenas a menção da espécie do facto averbado e a referência ao boletim que lhes serviu de base.
+2. É permitido o uso de algarismos no texto dos averbamentos, desde que correspondam à reprodução do número ou das datas constantes dos assentos anteriores.
 
-3. É permitido o uso de algarismos no texto dos averbamentos, desde que correspondam à reprodução do número ou das datas constantes dos assentos anteriores.
+3. Aos averbamentos é aplicável o disposto nos n.os 4 e 5 do artigo 72.º e no artigo 73.º
 
-4. Aos averbamentos é aplicável o disposto nos n.os 4 e 5 do artigo 72.º e no artigo 73.º
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
-###### Artigo 97.º — (Assinatura)
+###### Artigo 97.º — Assinatura
 
-1. Os averbamentos são assinados indistintamente pelo conservador ou pelo ajudante, podendo qualquer deles usar uma assinatura abreviada.
+1. Os averbamentos são assinados pelo conservador ou, sob a sua responsabilidade, por qualquer funcionário do quadro do pessoal auxiliar, podendo usar-se uma assinatura abreviada.
 
-2. Os averbamentos a que falte a assinatura devem ser assinados pelo funcionário que notar a omissão, se verificar, em face dos assentos correspondentes ou dos documentos arquivados, que o averbamento estava em condições de ser efectuado; no averbamento será anotada a omissão e a data em que foi suprida.
+2. Exceptuam-se os averbamentos que não tenham por base um assento ou o correspondente boletim, os quais só podem ser assinados pelo conservador ou pelo ajudante, quando investido nas funções de chefia.
 
-3. O disposto no número anterior é aplicável, com as necessárias adaptações, aos registos lavrados no livro de extractos.
+3. Os averbamentos a que falte a assinatura devem ser assinados pelo funcionário que notar a omissão, se verificar, em face dos assentos correspondentes ou dos documentos arquivados, que o averbamento estava em condições de ser efectuado; no averbamento será anotada a omissão e a data em que foi suprida.
+
+4. O disposto no número anterior é aplicável, com as necessárias adaptações, aos registos lavrados no livro de extractos.
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 98.º — (Averbamento em conservatória distinta da que lavrou o registo)
 
@@ -1024,11 +1103,11 @@ Os averbamentos a que se referem os artigos anteriores são efectuados no prazo 
 
 2. O disposto no número anterior deve ser observado pelo conservador que receba a certidão comprovativa da inibição ou suspensão do poder paternal, decretada pelo tribunal de menores, em relação aos assentos de nascimento dos filhos do inibido.
 
-###### Artigo 104.º — (Averbamento de actos registados na própria conservatória)
+###### Artigo 104.º — Averbamento de actos registados na própria conservatória
 
-1. Quando o acto que deve ser averbado conste do livro da própria conservatória, não são necessárias certidões ou boletins para a realização do averbamento, bastando que o funcionário, ao exará-lo, lance as necessárias cotas de referência.
+Quando o acto que deve ser averbado conste de livro da própria conservatória, não são necessárias certidões ou boletins para a realização do averbamento, bastando que o funcionário, ao exará-lo, lance as necessárias cotas de referência.
 
-2. Exceptuam-se do disposto no número anterior os averbamentos a extractos, que serão sempre exarados em face do respectivo boletim.
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 105.º — (Averbamentos omissos)
 
@@ -1140,7 +1219,7 @@ A nulidade do registo não pode ser invocada para nenhum efeito enquanto não fo
 
 ##### SUBSECÇÃO III — Cancelamento do registo
 
-###### Artigo 116.º — (Fundamentos)
+###### Artigo 116.º — Fundamentos
 
 1. O registo será cancelado nos casos seguintes:
 
@@ -1158,23 +1237,33 @@ e) Nos demais casos especificados na lei.
 
 3. Quando for cancelado um registo, com fundamento na alínea a) do n.º 1, mas o facto registado for jurìdicamente existente, observar-se-á o disposto no artigo 107.º
 
-4. O cancelamento fundado nas alíneas c) e d) do n.º 1 pode ser ordenado pelo director-geral dos Registos e do Notariado, que, no segundo caso, deve determinar a transcrição do registo nos livros da conservatória competente.
+4. O cancelamento fundado nas alíneas c) e d) do n.º 1 pode ser efectuado pelo conservador, que, no segundo caso, providenciará pela transcrição do registo nos livros da conservatória competente.
+
+5. O cancelamento dos registos juridicamente inexistentes, por falta da assinatura do funcionário, pode ser efectuado, nos termos do número anterior, independentemente da declaração judicial de inexistência, se a omissão de registo do facto que deles conste já se encontrar regularmente suprida.
+
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
 
 ##### SUBSECÇÃO IV — Rectificação do registo
 
-###### Artigo 117.º — (Fundamentos)
+###### Artigo 117.º — Fundamentos
 
 1. O registo que enferme de alguma irregularidade, deficiência ou inexactidão, que o não torne jurìdicamente inexistente ou nulo, deve ser rectificado.
 
 2. Se o registo houver sido lavrado por inscrição, será rectificado, por averbamento, em virtude de decisão judicial, salvo se a rectificação se mostrar necessária logo após a assinatura do registo; neste caso, será feita, em acto contínuo, por meio de declaração lavrada pelo funcionário em seguimento do registo, e assinada por ele e pelos demais intervenientes no acto.
 
-3. Quando o registo tiver sido lavrado por transcrição, ou quando se tratar de averbamento, e a irregularidade, deficiência ou inexactidão resultar apenas da desconformidade do registo com o título ou assento que lhe serviu de base, a rectificação será feita, por meio de averbamento, oficiosamente ou a requerimento de qualquer interessado, mediante autorização do director-geral dos Registos e do Notariado.
+3. Se a irregularidade, deficiência ou inexactidão se reportar apenas à indicação de algum ou alguns dos elementos de identificação das pessoas a quem o registo respeite, ou que nele hajam sido mencionadas, a rectificação pode ser feita, por averbamento, oficiosamente ou a requerimento dos interessados, mediante despacho do conservador do registo civil detentor do registo irregular, desde que não se suscitem quaisquer dúvidas acerca da identidade dessas pessoas, nem esteja em causa a qualidade da filiação constante de assento de nascimento a rectificar.
 
-4. Se a irregularidade, deficiência ou inexactidão provier do título que serviu de base ao registo, o funcionário providenciará, por intermédio da Direcção-Geral dos Registos e do Notariado, para que a entidade competente a faça corrigir, procedendo depois nos termos do número anterior; se não for possível obter o título correcto, o registo será rectificado mediante justificação judicial.
+4. Quando o registo tiver sido lavrado por transcrição e a irregularidade, deficiência ou inexactidão provier do título que lhe serviu de base, o funcionário providenciará para que a entidade competente a faça corrigir, procedendo depois nos termos do número anterior; se não for possível obter o título correcto, o registo será rectificado mediante justificação judicial.
 
-5. Se, nos casos a que se refere o n.º 3, a inexactidão resultar de manifesto erro de cópia ou se, em qualquer caso, a deficiência consistir em simples erro de grafia, a rectificação será realizada nos termos previstos no citado n.º 3, com dispensa da autorização, devendo, sempre que possível, ouvir-se os interessados.
+Exceptuam-se do disposto neste número os assentos lavrados com base em acto do registo civil, nacional ou estrangeiro, a cuja rectificação é directamente aplicável o regime estabelecido nos números anteriores.
 
-6. As menções levadas ao assento de óbito, estranhas à identificação do falecido, podem ser rectificadas oficiosamente, por averbamento, em face de documento que comprove a sua inexactidão.
+5. Tratando-se de registo lavrado por transcrição, ou por averbamento, e a irregularidade, deficiência ou inexactidão resultar apenas da desconformidade do registo com o título ou assento que lhe serviu de base, ou se, em qualquer caso, consistir no simples erro de grafia, a rectificação será feita nos termos do n.º 3, devendo sempre que possível ouvir-se, em auto, os interessados.
+
+6. É obrigatória a promoção oficiosa do processo de rectificação de registo sempre que a irregularidade, deficiência ou inexactidão a sanar seja da responsabilidade dos serviços.
+
+7. As menções levadas ao assento de óbito, estranhas à identificação do falecido, podem ser rectificadas oficiosamente, por averbamento, em face de documento que comprove a sua inexactidão.
+
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
 
 ###### Artigo 118.º — (Integração das rectificações no texto dos assentos)
 
@@ -1472,7 +1561,7 @@ Sempre que seja lavrado assento de nascimento de indivíduo menor apenas perfilh
 
 2. É competente para lavrar o assento a conservatória da residência habitual do perfilhante ou do perfilhado.
 
-###### Artigo 155.º — (Menções especiais dos assentos)
+###### Artigo 155.º — Menções especiais dos assentos
 
 1. Além dos requisitos gerais, o assento de perfilhação ou de legitimação deve conter os seguintes elementos:
 
@@ -1486,6 +1575,8 @@ d) A indicação da data do óbito do legitimado ou perfilhado, no caso de ele j
 
 e) A menção do assentimento do perfilhado, se for maior ou emancipado, ou dos seus descendentes se for pré-defunto, prestado verbalmente no próprio acto, em documento autêntico ou autenticado, ou por termo lavrado em juízo.
 
+f) A menção dos apelidos do perfilhante que o perfilhado virá a usar, quando escolhidos, com indicação da nova composição completa do seu nome.
+
 2. Em caso de perfilhação materna, se a perfilhante for casada, viúva ou divorciada, devem ser mencionadas no assento as datas do casamento e da sua dissolução, bem como a dos factos previstos no artigo 1804.º do Código Civil, se algum deles tiver ocorrido.
 
 3. O perfilhante deve exibir, sempre que seja possível, a cédula pessoal ou o bilhete de identidade, tanto dele como do perfilhado.
@@ -1493,6 +1584,8 @@ e) A menção do assentimento do perfilhado, se for maior ou emancipado, ou dos 
 4. Não sendo exibidos os documentos a que se refere o número anterior, devem ser apresentadas certidões de narrativa completa dos registos de nascimento do perfilhante e do perfilhado, salvo se estes tiverem sido lavrados na própria conservatória.
 
 5. À margem do assento, será lançada cota de referência ao registo de nascimento do perfilhado ou legitimado, bem como, se for já falecido, ao registo do seu óbito; em caso de legitimação, lançar-se-á ainda cota de referência ao registo de casamento dos progenitores.
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 156.º — (Referências complementares)
 
@@ -1570,7 +1663,7 @@ A organização do processo preliminar de publicações para casamento compete �
 
 3. Se a declaração for prestada pelo pároco e, posteriormente à instauração do processo, os nubentes pretenderem casar civilmente, é necessário que estes renovem a declaração inicial.
 
-###### Artigo 168.º — (Forma externa da declaração)
+###### Artigo 168.º — Forma externa da declaração
 
 1. A declaração para casamento deve constar de documento assinado pelos nubentes, com dispensa de reconhecimento das assinaturas, ou de auto lavrado em impresso, do modelo anexo a este diploma, e assinado pelo funcionário do registo civil, e pelos declarantes, se souberem e puderem fazê-lo.
 
@@ -1580,9 +1673,9 @@ A organização do processo preliminar de publicações para casamento compete �
 
 a) Os nomes completos, idade, estado, naturalidade e residência habitual dos nubentes;
 
-b) Os nomes completos, estado, naturalidade e residência habitual dos pais, e, no caso de algum deles ser falecido, a menção desta circunstância;
+b) Os nomes completos, estado e residência habitual dos pais e, no caso de algum deles ser falecido, a menção desta circunstância.
 
-c) O nome completo, estado, naturalidade e residência habitual do tutor, se algum dos nubentes for menor e tiver tutela instituída;
+c) O nome completo, estado e residência habitual do tutor, se algum dos nubentes for menor e tiver tutela instituída.
 
 d) No caso de segundas núpcias de algum dos nubentes, o nome do cônjuge anterior, a data e lugar do óbito ou as datas da morte presumida e da sentença que a declarou, a data e fundamento do divórcio, da declaração de nulidade ou anulação do anterior casamento, com a indicação do trânsito em julgado das sentenças e do tribunal que as proferiu, devendo ainda ser feita a menção de existirem ou não filhos legítimos do matrimónio anterior;
 
@@ -1595,6 +1688,8 @@ g) A menção de o casamento ser celebrado com ou sem convenção antenupcial;
 h) A indicação da situação militar do nubente varão, quando esteja em idade militar;
 
 i) O número, data e repartição expedidora dos bilhetes de identidade dos nubentes, quando exigíveis, ou o protesto pela sua apresentação posterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 169.º — (Documentos)
 
@@ -1646,7 +1741,7 @@ g) Os bilhetes de identidade dos nubentes, quando não sejam indigentes, e a cad
 
 2. As certidões do registo de nascimento, passadas por autoridades estrangeiras, têm apenas de satisfazer à forma adoptada para o mesmo fim pela lei do país de origem.
 
-###### Artigo 173.º — (Afixação de editais)
+###### Artigo 173.º — Afixação de editais
 
 1. Junta a declaração com os documentos apresentados, o conservador dará publicidade à pretensão dos nubentes por meio de edital, no qual incluirá os elementos referidos nas alíneas a) a g) do n.º 3 do artigo 168.º e convidará as pessoas que conheçam algum impedimento ao casamento a virem declará-lo, com a maior brevidade possível.
 
@@ -1654,9 +1749,11 @@ g) Os bilhetes de identidade dos nubentes, quando não sejam indigentes, e a cad
 
 3. Se algum dos nubentes residir, ou tiver residido nos últimos doze meses, fora da área da repartição organizadora do processo, o conservador remeterá cópia do edital à repartição dessa residência, para aí ser afixada nas condições do número anterior.
 
-4. A cópia do edital, quando tenha de ser afixada no estrangeiro ou nas províncias ultramarinas, será remetida, para esse fim, conforme os casos, ao respectivo agente diplomático ou consular português ou ao Ministério do Ultramar, por intermédio da Conservatória dos Registos Centrais.
+4. A cópia do edital, quando tenha de ser afixada no estrangeiro ou no ultramar, será remetida, para esse fim, conforme os casos, ao respectivo agente diplomático ou consular português ou à competente repartição ultramarina.
 
 5. Sempre que tenha alguma dúvida sobre a residência dos nubentes no País durante os últimos doze meses, o funcionário do registo civil pode exigir a prova dessa residência, por meio de atestado passado pelo presidente da junta de freguesia onde os interessados afirmem ter residido durante aquele período.
+
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
 
 ###### Artigo 174.º — (Substituição da afixação do edital no local da residência)
 
@@ -2160,19 +2257,21 @@ A transcrição do casamento civil urgente será cancelada oficiosamente, se o c
 
 3. A transcrição pode ser requerida a todo o tempo por qualquer interessado, e deve ser promovida pelo agente diplomático ou consular competente, logo que tenha conhecimento da celebração do casamento.
 
-###### Artigo 229.º — (Processo preliminar)
+###### Artigo 229.º — Processo preliminar
 
-1. Se o casamento não tiver sido precedido de publicações, a transcrição será subordinada à prévia organização do processo previsto nos artigos 166.º e seguintes.
+1. Se o casamento não tiver sido precedido de publicações, a transcrição será subordinada à prévia organização do processo previsto nos artigos 166.º e seguintes, exceptuado o disposto nas alíneas a), c), f) e g) do n.º 1 do artigo 169.º e nos n.os 3 a 5 do artigo 173.º
 
 2. No despacho final, o cônsul relatará as diligências feitas e as informações recebidas e decidirá se o casamento pode ou não ser transcrito.
 
 3. A transcrição será recusada se, pelo processo de publicações ou por outro modo, o cônsul verificar que o casamento foi celebrado com algum impedimento que o torne anulável.
 
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
+
 ###### Artigo 230.º — (Remessa do duplicado)
 
 Lavrado o registo consular, o cônsul enviará à Conservatória dos Registos Centrais, no prazo de quinze dias, o respectivo duplicado.
 
-###### Artigo 231.º — (Transcrição)
+###### Artigo 231.º — Transcrição
 
 1. O casamento cujo assento não tenha sido lavrado pelo competente agente diplomático ou consular pode ser directamente transcrito na Conservatória dos Registos Centrais, em face de qualquer dos seguintes documentos:
 
@@ -2180,11 +2279,13 @@ a) Documento comprovativo da celebração do casamento, remetido, através do Mi
 
 b) Documento comprovativo do casamento, apresentado por qualquer dos cônjuges, seus herdeiros ou outros interessados.
 
-2. A transcrição realizada com base nos documentos previstos no número anterior será precedida do processo de publicações, se este ainda não tiver sido organizado; e será recusada, no caso de se verificar a existência de algum dos impedimentos a que se refere o n.º 3 do artigo 229.º
+2. A transcrição realizada com base nos documentos previstos no número anterior será precedida de processo de publicações, nos termos do n.º 1 do artigo 229.º, se ainda não tiver sido organizado; e será recusada, no caso de se verificar a existência de algum dos impedimentos a que se refere o n.º 3 do mesmo artigo.
 
 3. A prova da prévia organização do processo de publicações, quando este não tenha sido organizado na Conservatória dos Registos Centrais, deve ser feita mediante a apresentação de certidão ou cópia autêntica do respectivo certificado.
 
 4. A transcrição deve ser comunicada ao consulado competente, para nele ser lavrado o registo consular.
+
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
 
 ##### SUBSECÇÃO VII — Efeitos do registo de casamento
 
@@ -2290,7 +2391,7 @@ O certificado médico ou o auto de verificação do óbito pode ser recusado pel
 
 2. Se, porém, o óbito tiver ocorrido em estabelecimento hospitalar da sede de concelho em que haja mais de uma conservatória, será competente para lavrar o registo a conservatória da área da última residência habitual do falecido, quando situada no mesmo concelho.
 
-###### Artigo 246.º — (Menções especiais)
+###### Artigo 246.º — Menções especiais
 
 1. Além dos requisitos gerais, o assento de óbito deve incluir os seguintes elementos:
 
@@ -2300,11 +2401,11 @@ b) A causa da morte;
 
 c) O nome completo, sexo, idade, estado, naturalidade e última residência habitual do falecido;
 
-d) O nome completo, estado e naturalidade dos pais do falecido;
+d) O nome completo dos pais do falecido;
 
-e) O nome completo e naturalidade do cônjuge, se o falecido for casado, viúvo ou divorciado;
+c) O nome completo do cônjuge, se o falecido for casado, viúvo ou divorciado;
 
-f) A existência de herdeiros, relativamente aos quais haja inventário obrigatório, de bens e de testamento;
+f) Menção da referência à existência de herdeiros, relativamente aos quais haja lugar a inventário obrigatório ou providência tutelar de bens e de testamento;
 
 g) O cemitério onde o falecido vai ser sepultado.
 
@@ -2313,6 +2414,8 @@ g) O cemitério onde o falecido vai ser sepultado.
 3. É aplicável ao assento de óbito o disposto nos n.os 2, 3 e 4 do artigo 128.º, devendo os elementos aí referidos respeitar ao falecido.
 
 4. Para a realização do assento apenas são indispensáveis as menções necessárias à identificação do falecido, competindo ao conservador fazer constar por averbamento ou cota de referência as que, não podendo ser obtidas no momento em que foi lavrado o assento, chegarem mais tarde ao seu conhecimento.
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 247.º — (Óbito de pessoa desconhecida)
 
@@ -2430,11 +2533,13 @@ c) No caso de as cinzas deverem ser trasladadas para outra circunscrição, o do
 
 ##### SUBSECÇÃO VII — Comunicações obrigatórias
 
-###### Artigo 262.º — (Comunicação do óbito dos estrangeiros)
+###### Artigo 262.º — Comunicação do óbito dos estrangeiros
 
-1. Os óbitos dos estrangeiros são comunicados, pela conservatória em que tiver sido lavrado o registo, ao director da Polícia Internacional e de Defesa do Estado, e bem assim às autoridades do país de origem do falecido, de harmonia com o que houver sido estipulado em convenções internacionais.
+1. Os óbitos dos estrangeiros são comunicados, pela conservatória em que tiver sido lavrado o registo, à Polícia de Segurança Pública e, bem assim, às autoridades do país de origem do falecido, de harmonia com o que houver sido estipulado em convenções internacionais.
 
-2. Na falta de convenção sobre a matéria, o conservador, dentro dos cinco dias imediatos à realização do assento de óbito do estrangeiro, deve enviar o respectivo boletim à Direcção-Geral dos Registos e do Notariado, que o remeterá, por intermédio do Ministério dos Negócios Estrangeiros, à legação ou consulado competente.
+2. Na falta de convenção sobre a matéria, o conservador, dentro dos cinco dias imediatos à realização do assento de óbito do estrangeiro, deve enviar o respectivo boletim, do modelo usado para averbamento ao nascimento, à representação diplomática ou consular competente, por intermédio do Ministério dos Negócios Estrangeiros.
+
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
 
 ###### Artigo 263.º — (Comunicações que os conservadores devem efectuar)
 
@@ -2608,13 +2713,15 @@ d) De cópia integral.
 
 As certidões extraídas de registos que enfermem de qualquer irregularidade ou deficiência, revelada pelo texto, devem mencionar por forma bem visível as irregularidades ou deficiências que viciam o registo, enquanto este não for rectificado.
 
-###### Artigo 282.º — (Quem pode pedir certidões)
+###### Artigo 282.º — Quem pode pedir certidões
 
 1. Qualquer pessoa tem legitimidade para requerer certidão dos registos constantes dos livros do registo civil ou paroquial, salvas as excepções previstas nos números seguintes.
 
-2. As certidões de cópia integral só podem ser passadas a pedido das pessoas a quem o registo respeita, seus ascendentes, descendentes ou herdeiros, ou a requisição das autoridades judiciais e policiais, ou da Direcção-Geral dos Registos e do Notariado.
+2. Tratando-se de assento de nascimento de filho ilegítimo ou adoptivo, as certidões de cópia integral só podem ser passadas a pedido das pessoas a quem o registo respeita, seus ascendentes, descendentes, herdeiros, ou a requisição das autoridades judiciais e policiais, ou da Direcção-Geral dos Registos e do Notariado.
 
 3. Dos registos secretos de perfilhação só pode ser passada certidão para o efeito de instrução do processo preliminar de casamento, ou de acção de alimentos, nas condições previstas na lei civil.
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 283.º — (Certidões requisitadas pelos párocos)
 
@@ -2666,23 +2773,29 @@ As certidões de actos do registo civil só podem ser extraídas dos livros de e
 
 A aposição do selo branco, de modelo oficial, sobre a assinatura do funcionário nas certidões, boletins ou em outros documentos expedidos pela conservatória tem o mesmo valor que o reconhecimento notarial.
 
-###### Artigo 292.º — (Fotocópia de assento)
+###### Artigo 292.º — Fotocópia de assento
 
-1. As conservatórias que venham a ser devidamente apetrechadas poderão extrair fotocópias dos assentos ou dos documentos arquivados.
+1. As conservatórias que venham a ser devidamente apetrechadas poderão extrair fotocópias dos assentos ou dos documentos arquivadas, quando requisitadas, ou em substituição das certidões requeridas, sempre que as condições materiais dos livros e dos assentos o permitam.
 
-2. As fotocópias devem conter, em especial, a indicação do livro e folhas donde são extraídas e a declaração de conformidade com o original.
+2. Pelas fotocópias expedidas por exclusiva iniciativa dos serviços, em substituição de certidões, será cobrado o emolumento correspondente às certidões requeridas.
 
-3. É aplicável às fotocópias de assentos o disposto no artigo 281.º e no n.º 2 do artigo 282.º
+3. As fotocópias devem conter, em especial, a indicação do livro e folhas donde são extraídas e a declaração de conformidade com o original.
+
+4. É aplicável às fotocópias de assentos o disposto no artigo 281.º e no n.º 2 do artigo 282.º
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 #### SECÇÃO II — Boletins
 
-###### Artigo 293.º — (Obrigatoriedade da sua passagem)
+###### Artigo 293.º — Obrigatoriedade da sua passagem
 
-1. Os conservadores são obrigados a passar gratuitamente aos interessados, em impresso de modelo anexo a este diploma e isento de selo, boletins dos registos de casamento e de óbito, em seguida à realização dos assentos.
+1. Os conservadores são obrigados a passar gratuitamente aos interessados, em impresso do modelo anexo a este Código e isento de selo, boletins do registo de óbito, em seguida à realização do assento.
 
 2. Boletins idênticos são obrigatòriamente passados pelos ajudantes dos postos de registo civil, quanto aos nascimentos e óbitos neles declarados.
 
 3. Posteriormente à realização dos assentos, os boletins a que se referem os números anteriores podem ser passados, a requisição dos interessados, mediante o pagamento do emolumento correspondente.
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 294.º — (Forma e conteúdo)
 
@@ -2700,13 +2813,19 @@ A aposição do selo branco, de modelo oficial, sobre a assinatura do funcionár
 
 3. A cédula não será passada, quando o registado já houver falecido na altura da realização do assento.
 
-###### Artigo 296.º — (Conteúdo)
+###### Artigo 296.º — Conteúdo
 
-1. A cédula conterá o nome completo do registado, a sua naturalidade, filiação, data do nascimento e do registo, e o número deste, ficando reservado o espaço necessário para oportunamente se lançar nela referência aos actos relativos ao registado, cujo registo seja obrigatório.
+1. A cédula conterá o nome completo do registado, a sua naturalidade e a dos pais, a filiação, a data do nascimento e do registo e o número deste, ficando reservado o espaço necessário para oportunamente nela serem anotados os actos relativos ao registado, cujo registo seja obrigatório.
 
-2. Reservar-se-á outrossim o espaço necessário para, no caso de o registado contrair casamento, se mencionar na cédula o nome completo do outro cônjuge, a data do casamento, o nome dos filhos que nasçam dos dois cônjuges e a data do nascimento deles e ainda o número dos registos de casamento e nascimento e repartição em que foram efectuados.
+2. Lavrados os actos de registo a que se refere o número anterior, o funcionário anotá-los-á na cédula, quando exibida, restituindo-a seguidamente ao apresentante.
 
-3. Lavrados os registos previstos nos números anteriores, o funcionário anotá-los-á na cédula, quando exibida, restituindo-a seguidamente ao apresentante.
+3. Em qualquer altura os interessados podem requerer verbalmente que a cédula seja actualizada, pela conservatória emitente, e que nela seja lançada a nota de conferência.
+
+4. A cédula considera-se actualizada desde que se mostre conferida, pelo conservador ou ajudante da conservatória emitente, nos três meses anteriores à data em que venha a ser apresentada para quaisquer efeitos.
+
+5. É aplicável ao pedido de actualização da cédula o disposto no artigo 15.º
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 297.º — (Base da sua emissão)
 
@@ -2716,9 +2835,11 @@ As cédulas são passadas em face do assento original do nascimento, da sua tran
 
 Os indivíduos cujo nascimento tenha sido registado anteriormente a 14 de Abril de 1924 podem obter as respectivas cédulas, que serão passadas dentro dos cinco dias posteriores ao pedido.
 
-###### Artigo 299.º — (Apresentação da cédula)
+###### Artigo 299.º — Apresentação da cédula
 
-Salvo motivo de força maior, a cédula pessoal, uma vez emitida, deve ser apresentada na conservatória onde tenha de ser lavrado qualquer acto de registo respeitante ao seu titular.
+A cédula, uma vez emitida, deve ser apresentada na conservatória onde tenha de ser lavrado qualquer acto de registo, que não seja oficioso ou de óbito, respeitante ao seu titular, sob pena de o respectivo emolumento ser elevado para o dobro.
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 300.º — (Passagem de nova cédula)
 
@@ -2800,11 +2921,13 @@ Os processos de registo e respectivos prazos correm durante as férias judiciais
 
 Não é obrigatória nos processos de registo a constituição de advogado, salvo na fase de recurso.
 
-###### Artigo 313.º — (Intervenção do Ministério Público)
+###### Artigo 313.º — Intervenção do Ministério Público
 
 1. As acções de registo serão propostas obrigatòriamente pelo Ministério Público, logo que tenha conhecimento dos factos que a elas dão lugar.
 
-2. A Direcção-Geral dos Registos e do Notariado suscitará ao Ministério Público, por intermédio da Conservatória dos Registos Centrais, a instauração das acções necessárias ao suprimento da omissão de registos, a regularização ou cancelamento destes.
+2. O conservador competente suscitará ao Ministério Público a instauração das acções necessárias ao suprimento da omissão de registos, à regularização ou cancelamento destes.
+
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
 
 ###### Artigo 314.º — (Devolução dos processos à conservatória)
 
@@ -2868,9 +2991,11 @@ Recebido em juízo, irá o processo, independentemente de despacho, com vista ao
 
 Da sentença proferida pelo juiz cabe sempre recurso para a Relação, e desta para o Supremo Tribunal de Justiça, o qual será processado e julgado como agravo em matéria cível.
 
-###### Artigo 324.º — (Isenção de selos e emolumentos)
+###### Artigo 324.º — Isenção de selos e emolumentos
 
-Os processos de justificação judicial são isentos de selos e emolumentos até à interposição de recurso.
+Os processos de justificação são isentos de selos e custas até à interposição de recurso.
+
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
 
 ###### Artigo 325.º — (Rectificação dos assentos do registo paroquial)
 
@@ -2878,27 +3003,35 @@ O disposto nos artigos anteriores é aplicável, com as necessárias adaptaçõe
 
 ##### SUBSECÇÃO II — Processo de justificação administrativa
 
-###### Artigo 326.º — (Domínio de aplicação)
+###### Artigo 326.º — Domínio de aplicação
 
-1. Verificada a existência, no contexto do assento, de alguma das deficiências ou irregularidades previstas nos n.os 3 e 4 do artigo 117.º, o conservador deve comunicá-la à Direcção-Geral dos Registos e do Notariado, por intermédio da Conservatória dos Registos Centrais, e solicitar autorização para proceder à rectificação.
+1. Verificada a existência, no contexto do assento, de alguma das deficiências ou irregularidades previstas nas alíneas c) e d) do n.º 1 do artigo 116.º e nos n.os 3 e 4 do artigo 117.º, o conservador lavrará um auto de notícia.
 
-2. Exceptuam-se do disposto no número anterior os casos a que se refere o n.º 5 do artigo 117.º
+2. No auto, o conservador deve referir a natureza da deficiência ou irregularidade e expor as circunstâncias que a determinaram, identificando o registo irregular e os títulos e registos arquivados ou existentes na conservatória, que lhe tenham servido de base.
 
-###### Artigo 327.º — (Documento a juntar à comunicação)
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
 
-1. A comunicação deve ser instruída com certidão do registo carecido de rectificação e dos títulos e registos arquivados ou existentes na conservatória, que lhe tenham servido de base.
+###### Artigo 327.º — Organização e instrução
 
-2. Na comunicação, o conservador deve referir ainda a natureza da deficiência ou irregularidade e expor as circunstâncias que a determinaram.
+1. O conservador organizará o processo com base no auto de notícia referido no artigo anterior e instrui-lo-á por forma a esclarecer a deficiência ou irregularidade, recorrendo, para esse fim, aos meios legais de prova, na medida em que o reconheça necessário.
 
-###### Artigo 328.º — (Organização e informação do processo)
+2. Se a rectificação da irregularidade ou o cancelamento do registo forem requeridos, a petição substituirá o auto de notícia e deverá ser acompanhada de certidão de cópia integral do registo a rectificar ou a cancelar e dos títulos e registos que lhe tenham servido de base.
 
-1. Compete ao conservador dos Registos Centrais organizar o processo com os elementos que acompanharam a comunicação, completar a sua instrução na medida em que o reconheça necessário e informar sobre a viabilidade da rectificação.
+3. As pessoas a quem respeite o registo devem ser ouvidas, sempre que possível.
 
-2. As pessoas a quem respeite o registo devem ser ouvidas, sempre que possível, sobre a rectificação que haja sido suscitada oficiosamente pelo conservador.
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
 
-###### Artigo 329.º — (Decisão final)
+###### Artigo 328.º — Despacho final
 
-Depois de informado, o processo deve ser apresentado a despacho do director-geral dos Registos e do Notariado, que decidirá sobre a autorização solicitada.
+Completada a instrução, o conservador deve proferir despacho fundamentado, quanto à matéria de facto e de direito, concluindo por ordenar ou recusar a rectificação ou cancelamento do registo.
+
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
+
+###### Artigo 329.º — Participação ao Ministério Público
+
+Se o conservador concluir pela impossibilidade legal de sanar a irregularidade por via administrativa, mas a irregularidade for de natureza a dever ser oficiosamente promovida pelos serviços, deverá suscitar a competente acção ao Ministério Público, nos termos do n.º 2 do artigo 313.º, remetendo-lhe cópia do processo.
+
+> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07.
 
 #### SECÇÃO III — Processos especiais
 
@@ -3344,9 +3477,13 @@ Enquanto conservarem em seu poder os livros de registo paroquial, a que se refer
 
 2. À transcrição é, porém, aplicável o disposto no artigo 69.º
 
-###### Artigo 402.º — (Modelos de livros e impressos em uso)
+###### Artigo 402.º — Modelos de livros e impressos em uso
 
-Os livros actualmente em uso podem ser utilizados, com as necessárias adaptações, até findarem, e os modelos de impressos até seis meses após a entrada em vigor do presente diploma.
+1. Os livros actualmente em uso nas conservatórias podem ser utilizados, com as necessárias adaptações, até findarem, e os modelos de impressos até seis meses após a entrada em vigor do presente diploma.
+
+2. Os actos lavrados pelos órgãos especiais do registo, a que se refere o artigo 11.º, poderão obedecer aos modelos actuais até 1 de Janeiro de 1971.
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ### CAPÍTULO VI — Disposições finais
 
@@ -4254,11 +4391,13 @@ b) Sendo para representação de nubente que resida noutro concelho ... 5$00
 
 a) De decisão judicial que seja proferida em processo não especialmente tributado nesta tabela ... 30$00
 
-b) De adopção ou de emancipação outorgada pelo conselho de família ... 25$00
+b) De adopção ... 25$00
 
 c) De perfilhação ou legitimação feita em escritura, testamento ou em termo judicial ... 15$00
 
 2. Por qualquer outro averbamento que seja consequência de acto não especialmente tributado nesta tabela ... 10$00
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 18.º — Por cada cancelamento ... 5$00
 
@@ -4326,7 +4465,11 @@ b) Se se encontrarem nas condições do § 2.º do artigo 256.º do Código Admi
 
 ###### Artigo 27.º — Pelo processo a que se refere o artigo 346.º ... 100$00
 
-###### Artigo 28.º — Pelo processo a que se refere o artigo 316.º, quando instaurado a requerimento dos interessados ... 120$00
+###### Artigo 28.º
+
+Pelos processos a que se referem os artigos 316.º e 326.º, quando instaurados a requerimento dos interessados ... 120$00
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 29.º
 
@@ -4354,19 +4497,29 @@ e) De registo de nacionalidade, de cópia integral de qualquer registo ou de doc
 
 5. Por cada fotocópia extraída dos livros de registo civil ou de nacionalidade, ou de qualquer documento, é devido o emolumento da alínea e) do n.º 1.
 
-###### Artigo 31.º — 1. Pela passagem de duplicados dos boletins referidos no n.º 3 do artigo 293.º ou de cédula pessoal ... 5$00
+###### Artigo 31.º
+
+1. Pela passagem de duplicados de boletins, a que se refere o n.º 3 do artigo 293.º, ou da cédula pessoal, e pela actualização e conferência desta cédula ... 5$00
 
 2. Pela adição de novas folhas à cédula pessoal ... 2$50
 
-3. Pela cédula passada no acto de registo é devido apenas o custo do respectivo impresso.
+3. Pela cédula passada no acto de registo é devido apenas o preço do respectivo impresso.
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 32.º
 
-Pela urgência, pedida pelo requisitante, na passagem de qualquer certidão ou dos documentos referidos no artigo anterior cobrar-se-á o emolumento respectivo, acrescido de 10$00.
+Pela urgência pedida pelo requisitante na passagem de qualquer certidão ou dos documentos referidos no artigo anterior, bem como na actualização e conferência da cédula, cobrar-se-á o respectivo emolumento, acrescido de 10$00.
 
-###### Artigo 33.º — 1. Pela requisição de qualquer certidão por intermédio de repartição do registo civil diversa da competente para a sua passagem e dos respectivos postos ... 5$00
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
-2. Pela requisição de cada bilhete de identidade ... 5$00
+###### Artigo 33.º
+
+1. Pela requisição de qualquer certidão ou da actualização e conferência da cédula pessoal, por intermédio da repartição diversa da competente ou dos seus postos ... 5$00
+
+2. Pela requisição de cada bilhete de identidade ou averbamento e pela aposição em cada impresso do pedido do visto de conferência com a cédula pessoal ... 5$00
+
+> Alterado pelo/a [Decreto-Lei n.º 49054](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49054-1969-200812), publicado em 1969-06-12.
 
 ###### Artigo 34.º — 1. Pelo acto de casamento celebrado fora da repartição, exceptuando o casamento urgente ... 200$00
 

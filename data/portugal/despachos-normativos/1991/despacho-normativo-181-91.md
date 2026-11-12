@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-08-16'
+version_history:
+  file: despacho-normativo-181-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-08-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-08-16'
+    amending: pt:dre:2933982:por
+    amending_title: Despacho Normativo n.º 31/2007
+    changes:
+    - Altera Artigo ANEXO — Preâmbulo::32.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/181/1991/08/22/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:50:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 31/2007. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1991/despacho-normativo-181-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -595,7 +610,7 @@ c) A Divisão de Recursos Humanos, com as Secções de Pessoal Docente e de Pess
 
 ### CAPÍTULO V — Unidades orgânicas
 
-###### Artigo 32.º — Escolas superiores
+###### Artigo 32.º — Unidades orgânicas
 
 1 - O Instituto integra as seguintes unidades orgânicas:
 
@@ -613,7 +628,11 @@ f) Instituto Superior de Contabilidade e Administração de Lisboa;
 
 g) Instituto Superior de Engenharia de Lisboa.
 
+h) Escola Superior de Tecnologia da Saúde de Lisboa.
+
 2 - O IPL pode propor a criação ou integração de novas unidades orgânicas, bem como a modificação ou extinção das existentes.
+
+> Alterado pelo/a [Despacho Normativo n.º 31/2007](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-2007-2933982), publicado em 2007-08-16.
 
 ###### Artigo 33.º — Autonomias
 

@@ -37,10 +37,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-01-01'
+version_history:
+  file: decreto-lei-75-a-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-02-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-01-01'
+    amending: pt:dre:496132:por
+    amending_title: Decreto-Lei n.º 19/94
+    changes:
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/75-a/1991/02/15/p/dre/pt/html
@@ -66,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:14:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 19/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-75-a-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -208,7 +223,7 @@ b) Obras de remodelação em instalações directamente ligadas à actividade pr
 
 c) Material de carga directamente afecto à actividade principal;
 
-d) Material de transporte directamente afecto à actividade principal, nos casos em que seja indispensável à boa execução do projecto;
+d) Material de transporte directamente afecto à actividade principal, apenas nos casos em que a reduzida dimensão da empresa ou o tipo de actividade não justificam a contratação de serviços de transporte;
 
 e) Assistência técnica e elaboração de estudos directamente ligados à realização do investimento, com excepção daqueles que tenham sido concluídos há mais de um ano à data de apresentação da candidatura.
 
@@ -217,6 +232,8 @@ e) Assistência técnica e elaboração de estudos directamente ligados à reali
 3 - Exclui-se da noção de aplicações relevantes toda e qualquer despesa efectuada com aquisição de imóveis, trespasses, terrenos, mobiliário, equipamentos sociais, veículos ligeiros de passageiros, veículos ligeiros mistos com peso bruto inferior a 2500 kg, bem como com equipamentos que não sejam adquiridos em primeira mão.
 
 4 - O cálculo das aplicações relevantes é efectuado a preços correntes.
+
+> Alterado pelo/a [Decreto-Lei n.º 19/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1994-496132), publicado em 1994-01-25.
 
 ### CAPÍTULO II — Das candidaturas e do processo de decisão
 

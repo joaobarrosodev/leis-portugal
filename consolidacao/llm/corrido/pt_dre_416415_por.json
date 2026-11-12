@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:416415:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (DL 519-C1/79), art. 45.º, n.º 3, revoga o Decreto-Lei n.º 164/76 (164-A/76) 'com as alterações introduzidas pelos Decretos-Leis n.os 887/76 [...] e 353-G/77': revoga o regime alterado pelo art. 1.º do original, mas não diz se revoga também o art. 2.º autónomo do original (multas pela recusa de negociação); alvo não claro, não aplicado ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DL 353-G/77): nova redação dos arts. 1.º, 6.º, 16.º, 19.º e 22.º do DL 164-A/76 na redação dada pelo original; altera outro diploma, ignorado.",
+    "Alterador 2 (DL 519-C1/79), art. 45.º, n.º 3: revogação do DL 164/76 com as alterações do DL 887/76 e 353-G/77; não aplicada (ver nao_aplicavel). O resto do diploma é regime novo, sem instruções dirigidas ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:419197:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (DL 498-D/79), art. 1.º: mantém em vigor o regime de instalação com duração máxima de oito anos, sem alterar a redação do art. 13.º do original; alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alterador 1 (DL 498-D/79): art. 1.º prorroga o regime de instalação (máx. oito anos) sem nova redação — não textual, em nao_aplicavel; arts. 2.º-3.º criam conselhos científicos/pedagógicos (normas autónomas); art. 5.º revogação genérica da legislação em contrário — não se aplica ao texto.",
+    "Alterador 2 (Portaria 422/80): cria um lugar de assessor no quadro da Universidade do Minho aprovado nos termos do art. 40.º, n.º 3 — não altera o texto do original; nada feito.",
+    "Alterador 3 (Portaria 352/82): cria um lugar de assessor no mesmo quadro — não altera o texto; nada feito.",
+    "Alteradores 4, 5 e 6 (DL 97/2009, 4/2016, 20/2017): transformam as Universidades de Aveiro, Minho e Nova de Lisboa em fundações e aprovam estatutos — sem instruções dirigidas ao texto do original; nada feito."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

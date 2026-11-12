@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — Aplicações relevantes\n\n1 - Consideram-se relevantes para efeitos do cálculo do incentivo as aplicações em activo fixo afecto à realização de investimentos em:\n\na) Equipamentos e, sempre que necessário, programas informáticos;\n\nb) Obras de remodelação em instalações directamente ligadas à actividade principal e associadas à montagem daqueles equipamentos;\n\nc) Material de carga directamente afecto à actividade principal;\n\nd) Material de transporte directamente afecto à actividade principal, nos casos em que seja indispensável à boa execução do projecto;\n\ne) Assistência técnica e elaboração de estudos directamente ligados à realização do investimento, com excepção daqueles que tenham sido concluídos há mais de um ano à data de apresentação da candidatura.\n\n2 - As aplicações referidas nas alíneas b), c), d) e e) do número anterior não podem ultrapassar os valores a definir no Regulamento.\n\n3 - Exclui-se da noção de aplicações relevantes toda e qualquer despesa efectuada com aquisição de imóveis, trespasses, terrenos, mobiliário, equipamentos sociais, veículos ligeiros de passageiros, veículos ligeiros mistos com peso bruto inferior a 2500 kg, bem como com equipamentos que não sejam adquiridos em primeira mão.\n\n4 - O cálculo das aplicações relevantes é efectuado a preços correntes.",
+    "depois": "###### Artigo 6.º — Aplicações relevantes\n\n1 - Consideram-se relevantes para efeitos do cálculo do incentivo as aplicações em activo fixo afecto à realização de investimentos em:\n\na) Equipamentos e, sempre que necessário, programas informáticos;\n\nb) Obras de remodelação em instalações directamente ligadas à actividade principal e associadas à montagem daqueles equipamentos;\n\nc) Material de carga directamente afecto à actividade principal;\n\nd) Material de transporte directamente afecto à actividade principal, apenas nos casos em que a reduzida dimensão da empresa ou o tipo de actividade não justificam a contratação de serviços de transporte;\n\ne) Assistência técnica e elaboração de estudos directamente ligados à realização do investimento, com excepção daqueles que tenham sido concluídos há mais de um ano à data de apresentação da candidatura.\n\n2 - As aplicações referidas nas alíneas b), c), d) e e) do número anterior não podem ultrapassar os valores a definir no Regulamento.\n\n3 - Exclui-se da noção de aplicações relevantes toda e qualquer despesa efectuada com aquisição de imóveis, trespasses, terrenos, mobiliário, equipamentos sociais, veículos ligeiros de passageiros, veículos ligeiros mistos com peso bruto inferior a 2500 kg, bem como com equipamentos que não sejam adquiridos em primeira mão.\n\n4 - O cálculo das aplicações relevantes é efectuado a preços correntes.\n\n> Alterado pelo/a [Decreto-Lei n.º 19/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1994-496132), publicado em 1994-01-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:537851:por",
+    "alterador": "pt:dre:496132:por"
+  }
+]

@@ -38,10 +38,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-11-28'
+version_history:
+  file: portaria-202-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-03-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-11-28'
+    amending: pt:dre:505657:por
+    amending_title: Portaria n.º 891/2004; Portaria n.º 913/2005; Portaria n.º 1286/2006; Portaria n.º 1278/2006; Portaria
+      n.º 1270/2006; Portaria n.º 1305/2006; Portaria n.º 1315/2006; Portaria n.º 1316/2006; Portaria n.º 1319/2006
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 9-9
+    - Altera Artigo unidades 10-10
+    - Altera Artigo unidades 11-11
+    - Altera Artigo unidades 12-12
+    - Altera Artigo unidades 13-13
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 15-15
+    - Altera Artigo unidades 16-16
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/202/1992/03/19/p/dre/pt/html
@@ -67,7 +90,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:14:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 891/2004; Portaria n.º
+    913/2005; Portaria n.º 1286/2006; Portaria n.º 1278/2006; Portaria n.º 1270/2006; Portaria n.º 1305/2006; Portaria n.º
+    1315/2006; Portaria n.º 1316/2006; Portaria n.º 1319/2006. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-202-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -180,23 +205,41 @@ Manda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Soci
 
 1.º São criados os cursos de:
 
-a) Técnico de indústrias agro-alimentares;
+a) (Revogada.)
 
-b) Técnico de hotelaria/restauração - organização e controlo;
+> Alterado pelo/a [Portaria n.º 891/2004](https://diariodarepublica.pt/dr/detalhe/portaria/891-2004-505657), publicado em 2004-07-21.
 
-c) Técnico de museologia e património cultural;
+b) (Revogada.)
 
-d) Técnico de informação - BAD/biblioteca e serviços de documentação;
+> Alterado pelo/a [Portaria n.º 1319/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1319-2006-545044), publicado em 2006-11-23.
 
-e) Técnico multimédia;
+c) (Revogada.)
 
-f) Técnico de hotelaria/recepção-atendimento;
+> Alterado pelo/a [Portaria n.º 1270/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1270-2006-544843), publicado em 2006-11-21.
 
-g) Técnico de comunicação/comunicação social;
+d) (Revogada.)
 
-h) Técnico de pedra/restauro e conservação;
+> Alterado pelo/a [Portaria n.º 1305/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2006-545021), publicado em 2006-11-23.
 
-i) Técnico de informática/gestão;
+e) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 1315/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1315-2006-545037), publicado em 2006-11-23.
+
+f) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 1316/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1316-2006-545038), publicado em 2006-11-23.
+
+g) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 1286/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1286-2006-544835), publicado em 2006-11-21.
+
+h) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 1278/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1278-2006-544837), publicado em 2006-11-21.
+
+i) (Revogada.)
+
+> Alterado pelo/a [Portaria n.º 913/2005](https://diariodarepublica.pt/dr/detalhe/portaria/913-2005-147640), publicado em 2005-09-26.
 
 j) Mesa/bar;
 

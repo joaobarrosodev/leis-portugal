@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:391404:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as instruções dos 23 alteradores (Decretos-Leis n.os 48222, 48225, 48268, 48424, 48664, 48757, 48760, 48940, 49133, 49292, 49365, 89/70, 326/70, 595/70, 670/70, 603/71, 626/71, 600/72, 260/73, 304/73, 287/74, 401/74, 555/75) dirigidas ao original são inclusões, eliminações, renumerações ou alterações de produtos/artigos pautais na lista anexa ao Decreto-Lei n.º 47958, que no texto atual só existe como imagem (unidade 9, '(ver documento original)'); não há texto a alterar com segurança. O Decreto-Lei n.º 48757 não contém instrução dirigida ao original.",
+  "instrucoes": [
+    "Alteradores 1-5, 7-23: alterações à lista anexa (incluir/eliminar/renumerar produtos e artigos pautais, alterar dizeres de artigos pautais) — lista só em imagem (unidade 9): não aplicado",
+    "Alterador 2 art. 3.º: mercadorias 84.62.04 e 84.62.05 continuam na lista — sem alteração",
+    "Alterador 6 (DL 48757): altera a pauta de importação, não o original — ignorado",
+    "Restantes artigos dos alteradores (direitos de base, pauta de importação, listas de outros diplomas como DL 86/70 e DL 47957) — não são do original, ignorados"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

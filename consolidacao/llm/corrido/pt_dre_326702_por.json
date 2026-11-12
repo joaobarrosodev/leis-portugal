@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:326702:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 156/86), n.º 2.º: revoga por inteiro o Despacho Normativo n.º 316/78; o n.º 3.º mantém-no em vigor apenas para a manutenção de postos de trabalho no artesanato, com as adaptações da Portaria n.º 802/82 (não incluída no pedido). Revogação total do texto; nada a aplicar.",
+  "instrucoes": [
+    "Alterador 1, n.º 2.º: revogação total do original - não devolvido texto, indicado em nao_aplicavel.",
+    "Alterador 1, n.º 3.º: ressalva de vigência para o artesanato com adaptações da Portaria 802/82 - não é alteração textual aplicável."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

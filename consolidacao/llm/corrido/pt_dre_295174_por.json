@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:295174:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 119-E/83): altera o Código do Imposto de Capitais (arts. 9.º-A, 10.º, 21.º), apenas referindo o DL 146/78 no novo n.º 7.º-A do art. 10.º — instrução dirigida a outro diploma; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

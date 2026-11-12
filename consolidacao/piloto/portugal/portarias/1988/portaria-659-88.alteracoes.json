@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 39-39",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O estágio pedagógico realiza-se em estabelecimento de ensino público que ministre os 7.º ao 12.º anos de escolaridade, sito na área geográfica do estabelecimento de ensino superior.",
+    "depois": "1 - O estágio pedagógico realiza-se em estabelecimento de ensino público que ministre os 7.º ao 12.º anos de escolaridade, sito na área geográfica do estabelecimento de ensino superior.\n\n2 - O estágio pedagógico poderá ainda realizar-se em escolas particulares ou cooperativas com paralelismo pedagógico, em condições a fixar por protocolo, a homologar pelo Ministério da Educação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:355539:por",
+    "alterador": "pt:dre:462977:por"
+  }
+]

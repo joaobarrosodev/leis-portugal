@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-05-30'
+version_history:
+  file: portaria-728-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-10-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-05-30'
+    amending: pt:dre:294529:por
+    amending_title: Portaria n.º 290/78
+    changes:
+    - Altera Artigo unidades 770-770
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:13:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 290/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1973/portaria-728-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1651,7 +1666,13 @@ Em caso de comprovada conveniência para o serviço, designadamente havendo urg�
 
 ###### ARTIGO 173.º — (Transportes em serviço domiciliário)
 
-Quando o pessoal não utilizar para o serviço domiciliário transportes da instituição, tem direito a uma gratificação mensal para compensação dos prováveis encargos com transportes no valor de 600$00.
+1 - As comissões de gestão dos serviços distritais dos Serviços Médico-Sociais podem acordar com os enfermeiros de visitas domiciliárias aos quais não sejam facultados meios de deslocação pelos serviços, ouvido o enfermeiro-superintendente ou quem o substitua, na atribuição de uma verba mensal fixa, compreendida entre os limites mínimo e máximo de 600$00 e 1500$00, respectivamente, como compensação dos encargos de transporte.
+
+2 - As verbas acordadas nos termos do número anterior devem ser calculadas tendo em consideração o tipo de transporte utilizado, a média das distâncias percorridas e outras circunstâncias que possam influenciar o custo de transporte.
+
+3 - Os acordos que venham a ser estabelecidos nos termos dos números que antecedem ou as suas alterações só entrarão em vigor depois de homologados pela comissão instaladora dos Serviços Médico-Sociais.
+
+> Alterado pelo/a [Portaria n.º 290/78](https://diariodarepublica.pt/dr/detalhe/portaria/290-1978-294529), publicado em 1978-05-30.
 
 #### SECÇÃO III — Prémios e recompensas
 

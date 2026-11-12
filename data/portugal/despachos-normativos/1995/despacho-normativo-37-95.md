@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-10-25'
+version_history:
+  file: despacho-normativo-37-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-08-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-10-25'
+    amending: pt:dre:584408:por
+    amending_title: Despacho Normativo n.º 41/2001
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Artigo 54.º
+    - Adita Artigo 74.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/37/1995/08/02/p/dre/pt/html
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:28:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 41/2001. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1995/despacho-normativo-37-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -230,7 +248,7 @@ c) Escola Superior de Tecnologia, Gestão, Arte e Design das Caldas da Rainha;
 
 d) Escola Superior da Tecnologia do Mar de Peniche;
 
-e) Outras que eventualmente venham a ser criadas.
+e) Outras que eventualmente venham a ser criadas ou integradas.
 
 7 - O IPL integra ainda as seguintes unidades orgânicas:
 
@@ -275,6 +293,8 @@ d) A Repartição de Serviços Técnicos, com as Secções de Obras, Manutençã
 13 - Os Serviços Académicos constituem uma divisão à qual incumbe a actividade relacionada com processos individuais de alunos, propinas, matrículas e outros respeitantes a alunos.
 
 13.1 - Os Serviços Académicos devem ter uma estrutura descentralizada, em termos a definir pelo conselho geral.
+
+> Alterado pelo/a [Despacho Normativo n.º 41/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-2001-584408), publicado em 2001-10-20.
 
 ### CAPÍTULO III — Órgãos do IPL
 
@@ -328,11 +348,15 @@ e) Conselho disciplinar.
 
 1 - O colégio eleitoral destina-se a eleger o presidente do Instituto.
 
-2 - O colégio eleitoral será constituído por 24 docentes, 18 estudantes, 6 funcionários e 12 representantes da comunidade e das actividades económicas e culturais relacionadas com as actividades do IPL.
+2 - O colégio eleitoral será constituído por 36 docentes, 27 estudantes, 9 funcionários não docentes e 18 representantes da comunidade e das actividades económicas e culturais relacionadas com as actividades do IPL.
 
 3 - O número de membros do colégio eleitoral a eleger por cada escola será proporcional ao número de estudantes matriculados em cada uma.
 
 4 - Se da aplicação da regra referida no número anterior couber a uma escola eleger mais de metade dos membros do colégio eleitoral, esse número será reduzido a 50% do total, sendo o excesso distribuído pelas restantes escolas, proporcionalmente aos alunos nelas matriculados.
+
+4-A - Porém, se da aplicação das regras referidas nos números anteriores não couber a alguma escola eleger qualquer membro para o colégio eleitoral, ser-lhe-á atribuída uma representação mínima constituída por um docente, um aluno e um representante da comunidade e das actividades económicas e culturais relacionadas com as actividades do IPL.
+
+4-B - A verificar-se a eventualidade referida no número anterior ao número de elementos do colégio eleitoral referido no n.º 2 do presente artigo, serão deduzidos os membros atribuídos nos termos do número anterior, sendo o número de membros a eleger por cada uma das escolas restantes proporcional ao número de alunos da formação inicial nelas matriculados; porém, se da aplicação desta regra couber a uma escola eleger mais de metade dos membros em causa, esse número será reduzido a 50% mais metade das representações mínimas, por defeito, sendo o excesso distribuído pelas restantes escolas, proporcionalmente aos alunos nelas matriculados.
 
 5 - O processo eleitoral iniciar-se-á cinco dias (de calendário) após o prazo estabelecido nos n.os 2 ou 5 do artigo anterior e as eleições serão marcadas para o 30.º dia após o início do processo eleitoral.
 
@@ -349,6 +373,8 @@ e) Conselho disciplinar.
 10 - O colégio eleitoral elaborará um regulamento interno, que será aprovado por maioria qualificada de dois terços dos seus membros.
 
 11 - O colégio eleitoral será dirigido por uma mesa, constituída por um presidente e dois secretários, eleitos por lista, sendo o presidente um docente.
+
+> Alterado pelo/a [Despacho Normativo n.º 41/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-2001-584408), publicado em 2001-10-20.
 
 ###### Artigo 12.º — Competências
 
@@ -848,11 +874,13 @@ O conselho pedagógico é o órgão de orientação pedagógica da escola.
 
 1 - Compõem o conselho pedagógico professores, assistentes e equiparados e estudantes, sendo presidido por um professor, a eleger de entre os seus membros.
 
-2 - O número de membros do conselho pedagógico será igual ao dobro do número de cursos em funcionamento, sendo a representação de estudantes e docentes paritária.
+2 - O número de membros do conselho pedagógico será igual ao dobro do número de cursos de formação inicial em funcionamento ou elevado para oito se da aplicação desta regra resultar um número inferior, sendo a representação de estudantes e docentes paritária.
 
 3 - A representação dos professores, assistentes e equiparados será, entre si, proporcional ao seu número.
 
 4 - Nas reuniões do conselho pedagógico participam, se assim o entenderem, o presidente do conselho directivo e um representante da associação de estudantes, sem direito a voto.
+
+> Alterado pelo/a [Despacho Normativo n.º 41/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-2001-584408), publicado em 2001-10-20.
 
 ###### Artigo 55.º — Eleições
 
@@ -1023,6 +1051,14 @@ Os estatutos do Instituto são revistos ou alterados nos termos da lei.
 1 - Os órgãos das escolas serão eleitos no prazo de 120 dias de calendário após a entrada em vigor dos estatutos do IPL segundo as regras neles fixadas e considerando-se os prazos ali previstos e tomam posse perante o presidente do IPL.
 
 2 - O primeiro mandato dos membros da assembleia de representantes e do conselho directivo será encurtado para o dia 16 de Dezembro do terceiro ano de mandato.
+
+###### Artigo 74.º-A — Revisão dos estatutos das escolas integradas
+
+1 - Nos 90 dias subsequentes à integração devem as escolas integradas proceder à revisão das normas dos seus estatutos que se mostrem desconformes com os Estatutos do IPL.
+
+2 - Ouvido o conselho de gestão, o presidente do IPL fixará, por despacho, quais as normas dos estatutos das escolas integradas que carecem de revisão, considerando-se estas substituídas para todos os efeitos legais pelas disposições constantes do Estatutos do IPL até à publicação do despacho que homologar a revisão daqueles estatutos.
+
+> Aditado pelo/a [Despacho Normativo n.º 41/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-2001-584408), publicado em 2001-10-20.
 
 ###### Artigo 75.º — Entrada em vigor
 

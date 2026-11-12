@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:403317:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Preâmbulo::32.º",
+      "epigrafe": "Unidades orgânicas",
+      "texto": "1 - O Instituto integra as seguintes unidades orgânicas:\n\na) Escola Superior de Música;\n\nb) Escola Superior de Teatro e Cinema;\n\nc) Escola Superior de Dança;\n\nd) Escola Superior de Educação;\n\ne) Escola Superior de Comunicação Social;\n\nf) Instituto Superior de Contabilidade e Administração de Lisboa;\n\ng) Instituto Superior de Engenharia de Lisboa.\n\nh) Escola Superior de Tecnologia da Saúde de Lisboa.\n\n2 - O IPL pode propor a criação ou integração de novas unidades orgânicas, bem como a modificação ou extinção das existentes.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (anexo): nova redação do artigo 32.º — epígrafe passa a 'Unidades orgânicas'; n.º 1 e alíneas a) a g) e n.º 2 mantêm o texto atual ('...'); aditada a alínea h) Escola Superior de Tecnologia da Saúde de Lisboa."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

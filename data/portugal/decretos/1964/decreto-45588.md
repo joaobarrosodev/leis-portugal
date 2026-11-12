@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1972-10-18'
+version_history:
+  file: decreto-45588.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-03-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1972-10-18'
+    amending: pt:dre:690206:por
+    amending_title: Portaria n.º 615/72
+    changes:
+    - Altera Artigo unidades 44-44
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:39:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 615/72. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1964/decreto-45588.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -191,7 +206,9 @@ Art. 12.º Das embalagens deverá constar obrigatòriamente:
 
 5.º A qualidade e o tipo do produto.
 
-Art. 13.º As embalagens não poderão mencionar firma, denominação ou recompensa a cujo uso o fabricante não tiver direito, nome de fábrica diferente da que tiver produzido as massas embaladas, nome ou marca diferente da que a mesma fábrica tiver adoptado.
+Art. 13.º A utilização nas embalagens da firma ou denominação social do fabricante do nome ou insígnia do estabelecimento fabril, das marcas dos produtos e das recompensas rege-se pelo disposto no Código Comercial e no Código da Propriedade Industrial.
+
+> Alterado pelo/a [Portaria n.º 615/72](https://diariodarepublica.pt/dr/detalhe/portaria/615-1972-690206), publicado em 1972-10-18.
 
 II. Fiscalização e sanções
 

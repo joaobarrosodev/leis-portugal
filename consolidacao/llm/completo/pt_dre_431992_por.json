@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:431992:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "O texto atual é a redação de 1995 (72 artigos, títulos I a III). As alterações textuais (Avisos n.º 14022/2010, n.º 10590/2013 e n.º 3006/2018) usam a numeração e a redação da republicação do Aviso n.º 5374/2008 (e da RCM n.º 66/2004), que não vêm no pedido: (a) art. 14.º (2010 e 2013): acrescentam planos a uma lista do n.º 5 que não existe no texto atual, com '[...]' que remete para itens desconhecidos; (b) art. 33.º (2010 e 2013): a nova redação (n.º 1 = anterior redação; n.º 2 sobre o PP da Zona Industrial de Boliqueime e o PU de Caliços-Esteval) é do artigo dos espaços industriais da republicação, não do atual 33.º (Áreas de edificação dispersa a estruturar, já com n.ºs 1 a 3); (c) art. 29.º (2013): acrescenta um n.º 3 a um artigo com n.ºs 1 e 2, quando o atual 29.º não tem números; (d) Aviso n.º 3006/2018: altera o n.º 2 do art. 88.º, renumera os arts. 93.º e 94.º para 94.º e 95.º e adita o capítulo VII do título V e um novo art. 93.º; o texto atual não tem artigos 73.º a 94.º nem título V, pelo que nada disto se aplica com segurança. As suspensões (RCM n.º 34/2001, Decreto Regulamentar n.º 40/2007, Avisos n.º 4770/2019 e n.º 2343/2020) e as alterações por plano de pormenor (RCM n.º 52/2004 e n.º 123/2006) não são alterações textuais.",
+  "instrucoes": [
+    "Alterador 1 (RCM 34/2001): suspensão parcial do PDM e medidas preventivas numa área; não textual, nada aplicado.",
+    "Alterador 2 (RCM 52/2004): PP de Vale do Lobo 3 altera o PDM na sua área; não textual, nada aplicado.",
+    "Alterador 3 (RCM 66/2004): sem artigos no pedido; nada aplicado.",
+    "Alterador 4 (RCM 123/2006): PP de Loulé-Sul altera as disposições contrárias do PDM na sua área; não textual, nada aplicado.",
+    "Alterador 5 (DR 40/2007): suspende os arts. 42.º, 44.º e 88.º numa área; não textual, nada aplicado.",
+    "Alterador 6 (Aviso 5374/2008): sem artigos no pedido; nada aplicado.",
+    "Alterador 7 (Aviso 14022/2010): nova redação dos arts. 14.º (lista do n.º 5) e 33.º (n.º 2); numeração da republicação de 2008, sem correspondência no texto atual; nao_aplicavel.",
+    "Alterador 8 (Aviso 4429/2013, PU Caliços-Esteval): só menciona o PDM; nada aplicado.",
+    "Alterador 9 (Aviso 10590/2013): nova redação dos arts. 14.º, 29.º (n.º 3) e 33.º (n.º 2); mesma razão; nao_aplicavel.",
+    "Alterador 10 (Aviso 7430/2017): sem artigos no pedido; nada aplicado.",
+    "Alterador 11 (Aviso 3006/2018): altera n.º 2 do art. 88.º, renumera 93.º e 94.º, adita capítulo VII do título V e art. 93.º; artigos e título inexistentes no texto atual; nao_aplicavel.",
+    "Alteradores 12 e 13 (Avisos 4770/2019 e 2343/2020): medidas preventivas e suspensão de artigos numa área; não textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

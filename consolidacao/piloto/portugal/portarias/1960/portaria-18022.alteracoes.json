@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "depois da unidade 47",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "3. Terão igualmente direito a uma pensão de reforma, calculada nos termos da tabela n.º 3 anexa a este regulamento, os beneficiários ordinários de mais de 60 anos de idade que, tendo exercido a profissão durante pelo menos 40 anos, seguidos ou interpolados, deixem voluntàriamente de a exercer.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514461:por",
+    "alterador": "pt:dre:195412:por;pt:dre:507599:por"
+  },
+  {
+    "artigo": "unidades 75-75",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Uma quota mensal de 65$00 a satisfazer por cada beneficiário da classe A até ao momento em que começar a receber pensão de reforma, mesmo nos períodos de suspensão que não impliquem cancelamento da inscrição, que será cobrada juntamente com a quota para a Ordem dos Advogados;",
+    "depois": "a) Uma quota mensal de 265$00 a satisfazer por cada beneficiário da classe A até ao momento em que começar a receber a pensão da reforma, mesmo nos períodos de suspensão que não impliquem cancelamento da inscrição, que será cobrada juntamente com a quota para a Ordem dos Advogados;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514461:por",
+    "alterador": "pt:dre:195412:por;pt:dre:507599:por"
+  },
+  {
+    "artigo": "unidades 77-77",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Uma contribuição anual a satisfazer por cada beneficiário, equivalente a 10 por cento da verba principal do imposto profissional que lhe for liquidado, nunca inferior a 200$00 para os beneficiários da classe A e a 100$00 para os da classe B, a pagar simultâneamente com aquele imposto e nos mesmos prazos;",
+    "depois": "c) Uma contribuição anual a satisfazer por cada beneficiário, equivalente a 10% da verba principal do imposto profissional que lhe for liquidado, nunca inferior a 1200$00 para os beneficiários da classe A e a 100$00 para os da classe B, a pagar simultaneamente com aquele imposto e nos mesmos prazos;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514461:por",
+    "alterador": "pt:dre:195412:por;pt:dre:507599:por"
+  },
+  {
+    "artigo": "depois da unidade 85",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "l) Uma quota mensal de 50$00 a satisfazer por cada beneficiário da classe A, a qual será cobrada juntamente com a quota para a Ordem dos Advogados.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514461:por",
+    "alterador": "pt:dre:195412:por;pt:dre:507599:por"
+  },
+  {
+    "artigo": "depois da unidade 101",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "e) Pela quota indicada na alínea l) do artigo 38.º",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514461:por",
+    "alterador": "pt:dre:195412:por;pt:dre:507599:por"
+  }
+]

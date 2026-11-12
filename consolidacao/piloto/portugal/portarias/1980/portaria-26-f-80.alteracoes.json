@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — (Director)\n\nO director é nomeado pelo Secretário de Estado do Urbanismo e Ambiente, sob proposta do presidente do Serviço Nacional de Parques, Reservas e Património Paisagístico, de acordo com o estabelecido no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837).\n\n1 - O conselho geral será presidido pelo director do Parque e constituído pelos representantes dos seguintes organismos:\n\nDirecção-Geral do Ordenamento e Gestão Florestal, Direcção-Geral do Planeamento Urbanístico, Direcção-Geral dos Edifícios e Monumentos Nacionais, Direcção Regional de Agricultura, Direcção-Geral dos Serviços de Fomento Marítimo, Comissão Regional de Turismo da Serra da Arrábida, Museu de Arqueologia e Etnografia de Setúbal, Centro Juvenil de Setúbal, Liga para a Protecção da Natureza e pelos representantes das seguintes autarquias locais abrangidas na área do Parque:\n\nCâmaras Municipais de Setúbal, Palmela e Sesimbra e Juntas de Freguesia de: Castelo (Sesimbra); S. Pedro e Quinta do Anjo (Palmela); S. Simão, S. Lourenço e Nossa Senhora da Anunciada (Setúbal).\n\n2 - A convocação para as reuniões ordinárias será feita com um mínimo de oito dias de antecedência.",
+    "depois": "###### Artigo 6.º — (Director)\n\nO director é nomeado pelo Secretário de Estado do Urbanismo e Ambiente, sob proposta do presidente do Serviço Nacional de Parques, Reservas e Património Paisagístico, de acordo com o estabelecido no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837).\n\n1 - O conselho geral será presidido pelo director do Parque e constituído pelos representantes das seguintes entidades:\n\na) Direcção-Geral das Florestas;\n\nb) Direcção-Geral de Geologia e Minas;\n\nc) Direcção-Geral das Pescas;\n\nd) Direcção-Geral de Marinha;\n\ne) Instituto Português do Património Cultural;\n\nf) Direcção Regional de Agricultura do Ribatejo e Oeste;\n\ng) Região de Turismo de Setúbal;\n\nh) Museu de Arqueologia e Etnografia de Setúbal;\n\ni) Liga para a Protecção da Natureza;\n\nj) Projecto Setúbal Verde;\n\nl) Câmaras Municipais de Palmela, Sesimbra e Setúbal;\n\nm) Juntas de Freguesia de Castelo (Sesimbra), São Pedro e Quinta do Anjo (Palmela) e São Simão, São Lourenço e Nossa Senhora da Anunciada (Setúbal).\n\n2 - A convocação para as reuniões ordinárias será feita com um mínimo de oito dias de antecedência.\n\n> Alterado pelo/a [Portaria n.º 51/87](https://diariodarepublica.pt/dr/detalhe/portaria/51-1987-663354), publicado em 1987-01-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:508614:por",
+    "alterador": "pt:dre:663354:por"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:676853:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Aviso n.º 199/2005 (alterador 11) torna pública a adopção de modificações de redacção dos textos autênticos inglês e francês do Regulamento n.º 30, mas não traz o texto dessas modificações; não aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Decreto 14/90): sem texto de artigos dirigidos ao original; nada a fazer.",
+    "Alteradores 2 a 10 (Avisos 145/99 a 162/99, 154/99, 159/99): publicitam modificações a outros Regulamentos (n.os 13, 17, 36, 37, 90, 107, 108, 109) ou cessação de aplicação por Espanha; não alteram o texto do original; nada a fazer.",
+    "Alterador 11 (Aviso 199/2005): anuncia modificações de redacção ao Regulamento n.º 30 (textos inglês e francês) sem as transcrever; indicado em nao_aplicavel.",
+    "Alteradores 12 a 14 (Avisos 204/2005, 394/2006, 395/2006): respeitam aos Regulamentos n.os 54 e 109; não alteram o original; nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

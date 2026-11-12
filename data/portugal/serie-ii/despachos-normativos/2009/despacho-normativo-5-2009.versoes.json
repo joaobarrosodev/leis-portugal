@@ -1,0 +1,1047 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:2021988:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-02-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7f96b4b3d2dd85ab",
+    "23836370ae405d04",
+    "140a545172216bdd",
+    "f9c507497b7ea3d2",
+    "307c6117986f440f",
+    "10af4cef737d98e0",
+    "cb08a3aa93b96ce1",
+    "1acac1211f1cf7ac",
+    "0dbbf46998a665f8",
+    "943300f84077d0a2",
+    "bf81bd35f07d9abb",
+    "7976f2df21267b54",
+    "d3b37d7488168773",
+    "eddeafad80df49ec",
+    "4b053c10ee9b4133",
+    "3f5a4935aa83db58",
+    "27ade4c50aaf19d1",
+    "6b87b96859a66e2c",
+    "ff40ee33ff667e53",
+    "fbf417f6717b8235",
+    "233c214870366573",
+    "8fa351a2f28fa137",
+    "33164539343c52bd",
+    "eb42d6fea74905a6",
+    "def87650e6ce4fc8",
+    "f71a62c1e35a78eb",
+    "73ad397e98e73ea4",
+    "2b4ffc037c99cc13",
+    "d6a2f645b875816b",
+    "d95d58ef6fc84157",
+    "ece996f8433a4c10",
+    "771934fbf261963e",
+    "d293b6c6f9270bdb",
+    "72490e8e5a1ca524",
+    "e3414739060bdd33",
+    "47031d1805655cfb",
+    "cee9f399e1808c84",
+    "89ef3fdafa4c79e1",
+    "258d628f8e21f61c",
+    "3f713d7bd70c06a8",
+    "d8c20db1277e9af4",
+    "c2219d29105ec8cd",
+    "db9be01b8a28b256",
+    "fe81342c23307fc2",
+    "f0a569e522b456f6",
+    "4fe3ff50e82e0e48",
+    "0e13cc8cb0bbdadd",
+    "90c09fbd0a975003",
+    "73c52e31779a20aa",
+    "b2d86eada77a007f",
+    "1e4b1cddaffd82e8",
+    "aa686d425f8c205e",
+    "9542e09e278d9576",
+    "9cb8634b2faa5ebe",
+    "47b3ebe022218870",
+    "e9fe672ddde1d8b6",
+    "4fcec4e8d0f89948",
+    "d875a8e4ec4e33d7",
+    "57148d59eed49b72",
+    "2e3f5793322e3698",
+    "2e349f223df78b65",
+    "8b7374bb638d1d44",
+    "dfd1c304155dabea",
+    "d7480da4f352a109",
+    "e20f65d168875e0e",
+    "7be2591573320bf7",
+    "4d626f85bb803282",
+    "18cd3c5f001286f7",
+    "11cab0e72a78a0a5",
+    "8943fd6f6f040503",
+    "4d7921bfa3175309",
+    "2128f2e445be1807",
+    "d4911fc9f7e1f2df",
+    "d283d5928e8cd733",
+    "625128a8b3018130",
+    "0c2e0ba77b1dae79",
+    "507ee9a44cd13310",
+    "6e6d22d68276cd16",
+    "8de07dc2ac780bc0",
+    "01d237db2cb82e59",
+    "2c612ca5ec251d58",
+    "9445cd8b5121718c",
+    "f91e8b00aab194eb",
+    "a60bc2f59c8f3976",
+    "00dbc8a3e26dff4e",
+    "028763f881327a9d",
+    "3394b4db2e9373ef",
+    "93a0d02bb52bea3a",
+    "9bafe9011ff4e2a9"
+   ]
+  },
+  {
+   "date": "2016-08-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75076033:por",
+     "title": "Despacho Normativo n.º 6/2016",
+     "published": "2016-08-02",
+     "dre_path": "/dr/detalhe/despacho-normativo/6-2016-75076033"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 62.º",
+    "Altera Artigo 63.º",
+    "Altera Artigo 64.º",
+    "Adita Artigo 64.º-A",
+    "Altera Artigo 66.º",
+    "Altera Artigo 67.º",
+    "Altera Artigo 68.º",
+    "Revoga Artigo 69.º",
+    "Revoga Artigo 71.º",
+    "Revoga Artigo 72.º"
+   ],
+   "fragments": [
+    "7f96b4b3d2dd85ab",
+    "23836370ae405d04",
+    "140a545172216bdd",
+    "f9c507497b7ea3d2",
+    "307c6117986f440f",
+    "10af4cef737d98e0",
+    "cb08a3aa93b96ce1",
+    "1acac1211f1cf7ac",
+    "bf9097046251b065",
+    "943300f84077d0a2",
+    "bf81bd35f07d9abb",
+    "7976f2df21267b54",
+    "d3b37d7488168773",
+    "eddeafad80df49ec",
+    "4b053c10ee9b4133",
+    "3f5a4935aa83db58",
+    "27ade4c50aaf19d1",
+    "6b87b96859a66e2c",
+    "ff40ee33ff667e53",
+    "fbf417f6717b8235",
+    "233c214870366573",
+    "8fa351a2f28fa137",
+    "33164539343c52bd",
+    "eb42d6fea74905a6",
+    "def87650e6ce4fc8",
+    "f71a62c1e35a78eb",
+    "73ad397e98e73ea4",
+    "2b4ffc037c99cc13",
+    "d6a2f645b875816b",
+    "d95d58ef6fc84157",
+    "ece996f8433a4c10",
+    "771934fbf261963e",
+    "d293b6c6f9270bdb",
+    "72490e8e5a1ca524",
+    "e3414739060bdd33",
+    "47031d1805655cfb",
+    "cee9f399e1808c84",
+    "89ef3fdafa4c79e1",
+    "258d628f8e21f61c",
+    "3f713d7bd70c06a8",
+    "d8c20db1277e9af4",
+    "c2219d29105ec8cd",
+    "db9be01b8a28b256",
+    "fe81342c23307fc2",
+    "f0a569e522b456f6",
+    "4fe3ff50e82e0e48",
+    "0e13cc8cb0bbdadd",
+    "90c09fbd0a975003",
+    "73c52e31779a20aa",
+    "b2d86eada77a007f",
+    "1e4b1cddaffd82e8",
+    "aa686d425f8c205e",
+    "9542e09e278d9576",
+    "9cb8634b2faa5ebe",
+    "47b3ebe022218870",
+    "e9fe672ddde1d8b6",
+    "4fcec4e8d0f89948",
+    "d875a8e4ec4e33d7",
+    "57148d59eed49b72",
+    "2e3f5793322e3698",
+    "2e349f223df78b65",
+    "8b7374bb638d1d44",
+    "dfd1c304155dabea",
+    "d7480da4f352a109",
+    "e20f65d168875e0e",
+    "7be2591573320bf7",
+    "4d626f85bb803282",
+    "18cd3c5f001286f7",
+    "11cab0e72a78a0a5",
+    "8943fd6f6f040503",
+    "4d7921bfa3175309",
+    "2128f2e445be1807",
+    "d4911fc9f7e1f2df",
+    "d283d5928e8cd733",
+    "625128a8b3018130",
+    "0c2e0ba77b1dae79",
+    "507ee9a44cd13310",
+    "8dfa2ffe0e93e751",
+    "7dae6f47c4b0d5d4",
+    "bf731235b2dcfb0d",
+    "679aba77087514f2",
+    "2c612ca5ec251d58",
+    "1fa30439e9322cf1",
+    "d70958e231f19c82",
+    "a60bc2f59c8f3976",
+    "6eba63b303d3d1a7",
+    "550e5fcfc1cfde7f",
+    "3394b4db2e9373ef",
+    "3fba85e383d91632",
+    "552eb5c097131ae2"
+   ]
+  }
+ ],
+ "fragments": {
+  "7f96b4b3d2dd85ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo Regime Jurídico das Instituições de Ensino Superior;\n\nTendo o Instituto Politécnico do Porto procedido à aprovação dos seus novos Estatutos nos termos do citado artigo 172.º e submetido os mesmos a homologação ministerial;\n\nTendo sido realizada a sua apreciação nos termos da referida lei;\n\nAo abrigo do disposto no artigo 69.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro:\n\nDetermino:\n\n1 - São homologados os Estatutos do Instituto Politécnico do Porto, os quais vão publicados em anexo ao presente despacho.\n\n2 - Este despacho entra em vigor no dia seguinte ao da sua publicação no Diário da República.\n\n26 de Janeiro de 2009. - O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago.\n\nEstatutos do Instituto Politécnico do Porto\n\nPioneiro no relançamento do Ensino Superior Politécnico em Portugal, o Instituto Politécnico do Porto (IPP), criado em 1985, afirma-se como instituição de ensino superior ao serviço da transformação social e do desenvolvimento económico, através de uma formação e investigação de qualidade orientadas para a comunidade em que se insere, apostando na inovação e na transferência do conhecimento e da tecnologia.\n\nO IPP norteia a sua acção pelos valores da partilha, do diálogo e da participação na vida das comunidades que o rodeiam, assim como da promoção da diversidade e da cooperação, incentivando a curiosidade criativa e o espírito crítico, em ambiente de liberdade intelectual, tendo em vista o desenvolvimento pessoal dos seus estudantes, docentes e funcionários e da comunidade.\n\nOs presentes Estatutos adequam o IPP ao novo Regime Jurídico das Instituições de Ensino Superior (RJIES), aprovado pela [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, considerando as especificidades do Instituto e o seu envolvimento activo na concretização dos objectivos essenciais de desenvolvimento do ensino superior.\n\nAtendendo à dimensão do IPP, à dispersão geográfica e à diversidade das suas Escolas, e visando assegurar a consolidação e a integração institucional das mesmas, a Assembleia Estatutária, à semelhança do que a Constituição da República Portuguesa prevê para a eleição da Assembleia da República, opta pela garantia da representação de todas as Escolas no Conselho Geral, proporcionalmente à sua dimensão e no respeito pela distribuição proporcional dos mandatos pelas listas.\n\nNos termos dos artigos 78.º e 80.º do RJIES, os presentes Estatutos instituem o Conselho Académico enquanto órgão de coordenação das actividades científicas e pedagógicas e consultivo nos demais assuntos. A actividade do Conselho Académico visa a articulação e o diálogo entre as Escolas, promove o seu desenvolvimento e a colaboração mútuos no âmbito da estratégia do Instituto e potencia as sinergias e a utilização racional de recursos.\n\nNo uso da faculdade prevista no n.º 3 do artigo 92.º do RJIES e atendendo às recomendações expressas na Portaria n.º 485/2008, de 24 de Abril, os presentes Estatutos adoptam medidas tendentes a uma gestão eficiente, flexível e desburocratizada, reforçando as competências de gestão estratégica dos órgãos do IPP e flexibilizando a gestão operacional através da atribuição de competências às Escolas no âmbito da sua actividade corrente.\n\nReconhecendo a necessidade de proceder à racionalização das unidades orgânicas e atendendo à complexidade inerente ao processo e ao prazo disponível para a elaboração dos estatutos, é cometida ao Conselho Geral, a constituir após as primeiras eleições, a apreciação das medidas necessárias a tal tarefa.\n\nOs princípios orientadores e o anteprojecto de Estatutos foram objecto de consulta aos órgãos do IPP e das suas Escolas, bem como às Associações de Estudantes do Instituto e os contributos recolhidos, tanto individuais como colectivos, foram devidamente ponderados pela Assembleia Estatutária. A documentação relativa ao processo de elaboração dos presentes Estatutos foi disponibilizada para acesso público no sítio do IPP na Internet.\n\nAssim, a Assembleia Estatutária do Instituto Politécnico do Porto, no uso dos poderes que lhe foram conferidos pelo artigo 172.º do RJIES, reunida em 9 de Junho de 2008, aprova os seguintes Estatutos do Instituto Politécnico do Porto."
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "140a545172216bdd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\nO Instituto Politécnico do Porto, adiante designado Instituto, é uma Instituição Pública de Ensino Superior Politécnico que se assume como comunidade socialmente responsável que procura a excelência na formação de cidadãos de elevada competência profissional, científica, técnica e artística, numa ampla diversidade de perfis de qualificação, no desenvolvimento da investigação e transferência aplicada de tecnologia e de conhecimento, na criação e difusão da cultura e no compromisso com o desenvolvimento sustentável da região em que se insere, num quadro de referência internacional."
+  },
+  "f9c507497b7ea3d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - São atribuições do Instituto, tendo em vista a concretização da sua missão, designadamente:\n\na) A realização de ciclos de estudo conferentes de graus académicos de Licenciatura e Mestrado, bem como de cursos de formação pós-graduada, de cursos pós-secundários e outros, nos termos da lei;\n\nb) A formação de alto nível, com elevada exigência qualitativa, nos aspectos humanístico, cultural, científico, artístico, tecnológico e profissional, num ambiente de democraticidade e participação;\n\nc) A realização de acções de formação profissional e de actualização de conhecimentos;\n\nd) A realização de actividades de pesquisa, de investigação orientada e de desenvolvimento experimental, e o apoio e participação em instituições científicas;\n\ne) A promoção de uma cultura de responsabilidade social, bem como de uma estreita ligação ao tecido empresarial, visando, nomeadamente, a inserção dos diplomados no mundo do trabalho;\n\nf) A prestação de serviços à comunidade, numa perspectiva de valorização recíproca;\n\ng) A promoção da ligação ao Instituto dos antigos estudantes e respectivas associações;\n\nh) A cooperação e o intercâmbio cultural, científico e técnico com outras instituições de ensino superior nacionais e estrangeiras, em especial as de países de língua oficial portuguesa e do espaço europeu do ensino superior;\n\ni) A participação em projectos de cooperação nacional e internacional;\n\nj) A implementação de estratégias que estimulem a participação dos docentes e investigadores em actividades conducentes à melhoria da sua formação pedagógica, profissional, académica, técnica e científica;\n\nk) A formação académica e profissional adequada, com carácter de regularidade, aos seus funcionários não docentes e não investigadores, com vista à sua valorização e à melhoria da qualidade dos serviços prestados.\n\n2 - No âmbito da responsabilidade social, o Instituto adopta medidas tendo em vista:\n\na) Reforçar as condições para o desenvolvimento da oferta de actividades profissionais em tempo parcial aos estudantes, compatível com o desenvolvimento da actividade lectiva;\n\nb) Adaptar, nos termos da lei e dos regulamentos respectivos, a actividade do Instituto a situações específicas, designadamente, casos de participação associativa, gravidez, maternidade e paternidade, doença prolongada e deficiência.\n\n3 - Ao Instituto compete, ainda, nos termos da lei:\n\na) A concessão de equivalências e o reconhecimento de graus e habilitações académicas;\n\nb) A valorização e creditação de competências adquiridas pelos estudantes ao longo da vida;\n\nc) A atribuição de títulos honoríficos."
+  },
+  "307c6117986f440f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza jurídica\n\n1 - O Instituto é uma pessoa colectiva de direito público dotada de autonomia estatutária, pedagógica, científica, cultural, administrativa, financeira, patrimonial e disciplinar.\n\n2 - O Instituto ou as suas unidades orgânicas poderão, nos termos da lei, revestir a forma de fundação."
+  },
+  "10af4cef737d98e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Símbolos, Dia do Instituto e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Símbolos, Dia do Instituto e sede\n\n1 - O Instituto adopta emblemática e trajes próprios, que constarão de regulamentos a aprovar pelo Conselho Geral.\n\n2 - A emblemática própria de cada unidade orgânica inclui a do Instituto.\n\n3 - O Dia do Instituto Politécnico do Porto comemora-se a 25 de Fevereiro.\n\n4 - O Instituto tem a sua sede na cidade do Porto."
+  },
+  "cb08a3aa93b96ce1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Entidades de direito privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidades de direito privado\n\nO Instituto e as suas Escolas, quando dotadas de autonomia financeira, podem:\n\na) Isoladamente ou em conjunto com outras entidades, públicas ou privadas, criar, fazer parte de, ou incorporar no seu âmbito, entidades subsidiárias de direito privado, como fundações, associações e sociedades, destinadas a coadjuvá-los no estrito desempenho das suas atribuições;\n\nb) Delegar nas entidades referidas na alínea anterior a execução de tarefas, incluindo a realização de cursos não conferentes de grau, mediante protocolo que defina claramente os termos da delegação, sem prejuízo da sua responsabilidade e superintendência científica e pedagógica."
+  },
+  "1acac1211f1cf7ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cooperação\n\nO Instituto e as suas Escolas podem:\n\na) Estabelecer entre si ou com outras instituições acordos de associação ou de cooperação para o incentivo à mobilidade de estudantes e de docentes e para a prossecução de parcerias e projectos comuns, incluindo programas de graus conjuntos, nos termos da lei, ou a partilha de recursos ou de equipamentos;\n\nb) Celebrar convénios, protocolos, contratos e outros acordos com instituições públicas ou privadas, nacionais ou estrangeiras."
+  },
+  "0dbbf46998a665f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Unidades orgânicas e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Unidades orgânicas e serviços\n\n1 - O Instituto integra:\n\na) Unidades orgânicas de ensino e investigação, designadas Escolas;\n\nb) Serviços, cuja designação identifica as funções que desempenham.\n\n2 - São Escolas:\n\na) O Instituto Superior de Engenharia do Porto (ISEP);\n\nb) O Instituto Superior de Contabilidade e Administração do Porto (ISCAP);\n\nc) A Escola Superior de Educação (ESE);\n\nd) A Escola Superior de Música e Artes do Espectáculo (ESMAE);\n\ne) A Escola Superior de Estudos Industriais e de Gestão (ESEIG);\n\nf) A Escola Superior de Tecnologia e Gestão de Felgueiras (ESTGF);\n\ng) A Escola Superior de Tecnologia da Saúde do Porto (ESTSP).\n\n3 - As Escolas incluem ou podem criar subunidades, nomeadamente de investigação.\n\n4 - O Instituto pode:\n\na) Criar unidades transversais para reforçar a coesão interna e para racionalizar e potenciar os recursos humanos, materiais e tecnológicos, e formalizar e regulamentar a afectação desses recursos a mais de uma Escola;\n\nb) Criar outras unidades.\n\n5 - Os serviços são estruturas permanentes vocacionadas para o apoio técnico e administrativo às actividades do Instituto e das Escolas."
+  },
+  "943300f84077d0a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Órgãos do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Órgãos do Instituto\n\nSão órgãos do Instituto:\n\na) O Conselho Geral;\n\nb) O Presidente;\n\nc) O Conselho de Gestão;\n\nd) O Conselho Académico."
+  },
+  "bf81bd35f07d9abb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos do Instituto"
+  },
+  "7976f2df21267b54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Conselho Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Conselho Geral"
+  },
+  "d3b37d7488168773": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Composição\n\n1 - São membros do Conselho Geral:\n\na) Dezoito representantes dos professores e investigadores;\n\nb) Seis representantes dos estudantes;\n\nc) Um representante dos funcionários não docentes e não investigadores;\n\nd) Dez personalidades externas, cooptadas pelos restantes membros do Conselho Geral.\n\n2 - Os membros do Conselho Geral são eleitos ou cooptados por voto secreto.\n\n3 - Os membros eleitos do Conselho Geral representam todo o Instituto e não apenas o círculo por que foram eleitos.\n\n4 - Os membros do Conselho Geral não representam grupos nem interesses sectoriais e são independentes no exercício das suas funções."
+  },
+  "eddeafad80df49ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Eleição dos representantes dos professores e investigadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Eleição dos representantes dos professores e investigadores\n\n1 - A eleição dos representantes dos professores e investigadores é feita de entre e por todos os professores de carreira ou equiparados a professores e investigadores com vínculo jurídico a uma das Escolas, por círculo eleitoral e por listas, sendo os lugares repartidos pelas listas concorrentes de acordo com o método de representação proporcional de Hondt.\n\n2 - A cada Escola corresponde um círculo eleitoral.\n\n3 - A cada círculo eleitoral, independentemente da sua dimensão, é atribuído pelo menos um mandato de representante dos professores e investigadores.\n\n4 - Os restantes mandatos são atribuídos a cada círculo eleitoral proporcionalmente ao número de eleitores de cada um desses círculos.\n\n5 - Na determinação do número de mandatos a atribuir a cada círculo, sempre que resulte um número com parte decimal inferior a cinco, o arredondamento faz-se para o número inteiro inferior, fazendo-se para o número inteiro superior nas demais situações.\n\n6 - A nenhum círculo eleitoral podem ser atribuídos metade ou mais de metade dos mandatos.\n\n7 - Sem prejuízo do disposto nos números anteriores e sempre que a soma de mandatos:\n\na) For inferior ao total a eleger, a diferença será atribuída, por ordem decrescente, ao círculo eleitoral com maior número de professores e investigadores;\n\nb) For superior ao total a eleger, o excesso será retirado, por ordem crescente, ao círculo eleitoral com menor número de professores e investigadores.\n\n8 - Cada lista deve incluir um número de suplentes igual ao número de efectivos."
+  },
+  "4b053c10ee9b4133": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Eleição dos representantes dos estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Eleição dos representantes dos estudantes\n\n1 - A eleição dos representantes dos estudantes é feita por e de entre os estudantes do 1.º e 2.º ciclos, por círculo eleitoral único e por listas, sendo os mandatos atribuídos pelas listas concorrentes de acordo com o método de representação proporcional de Hondt.\n\n2 - Cada lista deve incluir um número de suplentes igual ao número de efectivos."
+  },
+  "3f5a4935aa83db58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Eleição do representante dos funcionários não docentes e não investigadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Eleição do representante dos funcionários não docentes e não investigadores\n\n1 - A eleição do representante dos funcionários não docentes e não investigadores é feita por e de entre os funcionários não docentes e não investigadores do Instituto, por círculo eleitoral único e por listas, sendo eleito o candidato da lista mais votada.\n\n2 - Cada lista deve incluir pelo menos um suplente."
+  },
+  "27ade4c50aaf19d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Procedimento eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Procedimento eleitoral\n\nA eleição dos representantes referidos nos artigos anteriores rege-se por regulamento próprio a aprovar pelo Conselho Geral."
+  },
+  "6b87b96859a66e2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Cooptação das personalidades externas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Cooptação das personalidades externas\n\n1 - As personalidades externas são cooptadas pelo conjunto dos membros referidos nas alíneas a), b) e c) do n.º 1 do artigo 9.º, por maioria absoluta, com base em propostas fundamentadas, subscritas por, pelo menos, um terço daqueles membros, e segundo procedimento a aprovar pelos membros eleitos.\n\n2 - As entidades externas devem ser personalidades de reconhecido mérito, não pertencentes ao Instituto, com conhecimentos e experiência relevantes nas suas áreas de actividade."
+  },
+  "ff40ee33ff667e53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Duração dos mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Duração dos mandatos\n\n1 - O mandato dos membros do Conselho Geral é de:\n\na) Quatro anos para os representantes dos professores e investigadores, representante dos funcionários não docentes e não investigadores e personalidades externas;\n\nb) Dois anos para os representantes dos estudantes.\n\n2 - O mandato inicia-se com a tomada de posse, que deve ocorrer nos 15 dias úteis subsequentes à homologação dos resultados eleitorais."
+  },
+  "fbf417f6717b8235": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Cessação do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cessação do mandato\n\n1 - O mandato dos membros do Conselho Geral cessa:\n\na) Com a perda da qualidade pela qual foram eleitos ou cooptados;\n\nb) Em caso de renúncia;\n\nc) Em caso de três faltas não justificadas;\n\nd) Por destituição pelo Conselho Geral, por maioria absoluta, em caso de falta grave.\n\n2 - É considerada falta grave, nomeadamente do Presidente do Conselho Geral, o não cumprimento injustificado dos prazos previstos nos presentes estatutos, no regimento do Conselho Geral ou nos regulamentos eleitorais.\n\n3 - Os membros eleitos que cessem o mandato são substituídos, sucessivamente, pelos candidatos não eleitos da respectiva lista e, esgotados estes, pelos suplentes.\n\n4 - Quando a substituição não for possível, promovem-se eleições, que devem estar concluídas no prazo máximo de 30 dias úteis após a cessação do mandato.\n\n5 - Em caso de cessação de mandato dos membros cooptados, a substituição faz-se nos termos definidos no artigo 14.º\n\n6 - Os substitutos completam o mandato dos membros substituídos."
+  },
+  "233c214870366573": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competência do Conselho Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competência do Conselho Geral\n\n1 - Compete ao Conselho Geral:\n\na) Eleger o seu Presidente, por maioria absoluta, de entre os membros cooptados;\n\nb) Elaborar e aprovar o seu regimento;\n\nc) Aprovar as alterações dos Estatutos, por maioria de dois terços dos seus membros;\n\nd) Eleger o Presidente do Instituto;\n\ne) Elaborar e aprovar o regulamento de eleição do Presidente do Instituto, bem como organizar o respectivo procedimento;\n\nf) Elaborar e aprovar o regulamento eleitoral para o Conselho Geral;\n\ng) Elaborar e aprovar o regulamento eleitoral para os Presidentes das Escolas em caso de eleição directa;\n\nh) Elaborar e aprovar o regulamento do Provedor do Estudante;\n\ni) Designar o Provedor do Estudante, mediante proposta das Associações de Estudantes do Instituto;\n\nj) Elaborar e aprovar um código de direitos e deveres dos estudantes do Instituto, com a colaboração do Provedor do Estudante e após parecer das Associações de Estudantes do Instituto;\n\nk) Elaborar e aprovar um regulamento disciplinar dos estudantes, com a colaboração do Provedor do Estudante e após parecer das Associações de Estudantes do Instituto;\n\nl) Elaborar e aprovar o regime de prescrições, ouvidos os Presidentes e Conselhos Pedagógicos das Escolas e as Associações de Estudantes do Instituto;\n\nm) Apreciar os actos do Presidente do Instituto e do Conselho de Gestão;\n\nn) Determinar qual o órgão competente, sempre que a legislação utilize a expressão \"órgão legal e estatutariamente competente\" ou outra similar e sejam suscitadas dúvidas sobre o órgão efectivamente competente;\n\no) Emitir parecer sobre as medidas a adoptar pelo Presidente do Instituto, em caso de funcionamento anormal de uma Escola, por acção ou omissão dos respectivos órgãos;\n\np) Propor as iniciativas que considere necessárias ao bom funcionamento do Instituto;\n\nq) Desempenhar as demais funções previstas na lei e nos presentes Estatutos.\n\n2 - Compete ao Conselho Geral, sob proposta do Presidente do Instituto:\n\na) Aprovar os planos estratégicos de médio prazo e o plano de acção para o quadriénio do mandato do Presidente do Instituto;\n\nb) Aprovar as linhas gerais de orientação nos planos científico, pedagógico, financeiro e patrimonial;\n\nc) Criar, transformar ou extinguir Escolas, mediante autorização prévia do Ministro da Tutela;\n\nd) Aprovar os planos anuais de actividades e apreciar o relatório anual de actividades, do Instituto;\n\ne) Aprovar a proposta de orçamento do Instituto;\n\nf) Aprovar as contas anuais consolidadas, acompanhadas do parecer do Fiscal Único;\n\ng) Aprovar o número máximo de docentes, investigadores e outro pessoal, qualquer que seja o regime aplicável, afecto a cada Escola, excepto a contratação de pessoal em regime de contrato individual de trabalho cujos encargos sejam satisfeitos exclusivamente através de receitas próprias, incluindo nestas as referentes a projectos de investigação e desenvolvimento, qualquer que seja a sua proveniência;\n\nh) Emitir parecer sobre a reafectação de pessoal, incluindo docentes e investigadores;\n\ni) Emitir parecer sobre a redistribuição dos recursos orçamentais entre Escolas;\n\nj) Fixar o valor das propinas devidas pelos estudantes;\n\nk) Propor ou autorizar, conforme o disposto na lei, a aquisição, a alienação, a permuta, a oneração de património imobiliário do Instituto ou a cedência do direito de superfície, bem como as operações de crédito;\n\nl) Reafectar património imobiliário a outra função ou Escola e autorizar a construção de novos edifícios no património afecto a uma Escola, após parecer dos respectivos Presidentes;\n\nm) Pronunciar-se sobre os restantes assuntos que lhe forem apresentados pelo Presidente do Instituto.\n\n3 - As deliberações a que se referem as alíneas a) a d) e f) do número anterior são obrigatoriamente precedidas pela apreciação de um parecer, a elaborar e aprovar pelos membros cooptados do Conselho.\n\n4 - Os Presidentes do Instituto ou das suas Escolas devem disponibilizar ao Conselho Geral em tempo útil a informação que este lhes solicite.\n\n5 - A violação do disposto no número anterior constitui infracção disciplinar.\n\n6 - O Conselho Geral pode, em todas as matérias da sua competência, solicitar pareceres a quaisquer órgãos do Instituto ou das suas Escolas."
+  },
+  "8fa351a2f28fa137": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Competência do Presidente do Conselho Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência do Presidente do Conselho Geral\n\n1 - Ao Presidente do Conselho Geral compete:\n\na) Convocar e presidir às reuniões;\n\nb) Declarar e verificar as vagas no Conselho Geral e proceder às substituições, nos termos do regimento;\n\nc) Homologar os resultados eleitorais e dar posse aos membros eleitos e cooptados do Conselho Geral;\n\nd) Dar início ao procedimento eleitoral do Presidente do Instituto;\n\ne) Dar posse ao Presidente do Instituto;\n\nf) Dar início ao procedimento de designação do Provedor do Estudante;\n\ng) Dar posse ao Provedor do Estudante;\n\nh) Desempenhar as demais tarefas que lhe sejam cometidas pelos presentes estatutos e pelo Conselho Geral.\n\n2 - O Presidente do Conselho Geral não interfere no exercício das competências dos demais órgãos do Instituto, não lhe cabendo representá-lo nem pronunciar-se em seu nome."
+  },
+  "33164539343c52bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Reuniões do Conselho Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reuniões do Conselho Geral\n\n1 - O Conselho Geral reúne, ordinariamente, quatro vezes por ano e, extraordinariamente, sempre que convocado pelo Presidente do Conselho Geral, por sua iniciativa, a pedido de um terço dos seus membros ou do Presidente do Instituto.\n\n2 - O Presidente do Instituto participa nas reuniões do Conselho Geral, sem direito a voto.\n\n3 - Por deliberação do Conselho Geral, podem participar nas reuniões do Conselho, sem direito a voto:\n\na) Os Presidentes das Escolas;\n\nb) Personalidades convidadas para se pronunciarem sobre assuntos da sua especialidade, nomeadamente os Presidentes das Associações de Estudantes do Instituto."
+  },
+  "eb42d6fea74905a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Presidente do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Presidente do Instituto"
+  },
+  "def87650e6ce4fc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Funções\n\n1 - O Presidente do Instituto é o órgão superior de governo e de representação externa do Instituto.\n\n2 - O Presidente é o órgão de condução da política do Instituto e preside ao Conselho de Gestão."
+  },
+  "f71a62c1e35a78eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Eleição\n\n1 - O Presidente do Instituto é eleito pelo Conselho Geral, de acordo com regulamento a elaborar por este, sendo empossado pelo seu Presidente, em acto público.\n\n2 - O procedimento eleitoral é iniciado por deliberação do Conselho Geral e divulgado em todo o Instituto, com pelo menos cento e 20 dias seguidos de antecedência relativamente à data do termo do mandato.\n\n3 - O acto eleitoral deve ocorrer até sessenta dias seguidos antes da data do termo do mandato.\n\n4 - O regulamento referido no n.º 1 dispõe sobre, designadamente:\n\na) O anúncio público da abertura de candidaturas;\n\nb) A apresentação de candidaturas;\n\nc) A audição pública de cada um dos candidatos, com apresentação e discussão do seu programa de acção;\n\nd) A votação final do Conselho Geral, por voto secreto.\n\n5 - Podem ser eleitos Presidente do Instituto:\n\na) Professores e investigadores do Instituto ou de outras instituições de ensino superior ou de investigação, nacionais ou estrangeiras;\n\nb) Individualidades de reconhecido mérito e experiência profissional relevante.\n\n6 - Não pode ser eleito Presidente do Instituto:\n\na) Quem se encontre na situação de aposentado;\n\nb) Quem tenha sido condenado por infracção disciplinar, financeira ou penal no exercício de funções públicas ou profissionais, nos quatro anos subsequentes ao cumprimento da pena;\n\nc) Quem incorra noutras inelegibilidades previstas na lei.\n\n7 - A eleição do Presidente do Instituto é homologada nos termos da lei."
+  },
+  "73ad397e98e73ea4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Duração do mandato\n\n1 - O mandato do Presidente do Instituto tem duração de quatro anos, podendo este ser reeleito uma única vez.\n\n2 - Em caso de cessação antecipada de mandato, o novo Presidente do Instituto inicia novo mandato."
+  },
+  "2b4ffc037c99cc13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Vice-presidentes e pró-presidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Vice-presidentes e pró-presidentes\n\n1 - O Presidente do Instituto é coadjuvado por um máximo de quatro vice-presidentes.\n\n2 - O Presidente do Instituto pode ainda ser coadjuvado, para o desempenho de tarefas específicas, por pró-presidentes.\n\n3 - Os vice-presidentes e pró-presidentes são nomeados livremente pelo Presidente do Instituto e podem ser exteriores ao Instituto.\n\n4 - Os Vice-presidentes e pró-presidentes podem ser exonerados a todo o tempo pelo Presidente do Instituto, e o seu mandato cessa com a cessação do mandato deste."
+  },
+  "d6a2f645b875816b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Dedicação exclusiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Dedicação exclusiva\n\n1 - O Presidente do Instituto exerce as suas funções em regime de dedicação exclusiva.\n\n2 - Quando sejam docentes ou investigadores do Instituto, o Presidente, os vice-presidentes e os pró-presidentes ficam dispensados da prestação de serviço docente ou de investigação, sem prejuízo de, por sua iniciativa, o poderem prestar.\n\n3 - O Presidente do Instituto, os vice-presidentes e os pró-presidentes não podem pertencer a quaisquer órgãos de governo ou de gestão de outras instituições de ensino superior, públicas ou privadas, sob pena de perda de mandato."
+  },
+  "d95d58ef6fc84157": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Suspensão e destituição do Presidente do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Suspensão e destituição do Presidente do Instituto\n\n1 - Em situação de gravidade para a vida do Instituto, o Conselho Geral, convocado por iniciativa do seu Presidente ou de um terço dos seus membros, pode deliberar, por maioria de dois terços dos seus membros, a suspensão do Presidente do Instituto e, após o devido procedimento administrativo, por idêntica maioria, a sua destituição.\n\n2 - As deliberações de suspender ou de destituir o Presidente do Instituto só podem ser votadas em reuniões especificamente convocadas para o efeito."
+  },
+  "ece996f8433a4c10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Substituição do Presidente do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Substituição do Presidente do Instituto\n\n1 - Em caso de incapacidade temporária do Presidente do Instituto, assume as suas funções o vice-presidente por ele previamente designado ou, na falta de designação, o mais antigo.\n\n2 - Caso a situação de incapacidade se prolongue por mais de noventa dias, o Conselho Geral deve pronunciar-se acerca da conveniência da eleição de um novo Presidente do Instituto.\n\n3 - Em caso de vacatura, de renúncia ou de incapacidade permanente do Presidente do Instituto, deve o Conselho Geral determinar a abertura do procedimento de eleição de um novo Presidente, no prazo máximo de oito dias úteis.\n\n4 - Durante a vacatura do cargo do Presidente do Instituto, bem como no caso de suspensão do mandato, será aquele exercido interinamente pelo vice-presidente que o Conselho Geral designar ou, na falta deles, pelo Presidente da Escola com mais tempo de exercício nessas funções, seguido ou interpolado."
+  },
+  "771934fbf261963e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Competência do Presidente do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Competência do Presidente do Instituto\n\n1 - O Presidente dirige e representa o Instituto, incumbindo-lhe, designadamente:\n\na) Elaborar e apresentar ao Conselho Geral as propostas de:\n\ni) Plano estratégico de médio prazo e plano de acção para o quadriénio do seu mandato;\n\nii) Linhas gerais de orientação do Instituto nos planos científico e pedagógico;\n\niii) Plano e relatório anuais de actividades;\n\niv) Orçamento e contas anuais consolidados, acompanhados do parecer do Fiscal Único;\n\nv) Aquisição ou alienação de património imobiliário do Instituto e de operações de crédito;\n\nvi) Criação, transformação ou extinção de Escolas;\n\nvii) Propinas devidas pelos estudantes;\n\nviii) Número máximo de docentes, investigadores e outro pessoal, qualquer que seja o regime aplicável, afecto a cada Escola, excepto a contratação de pessoal em regime de contrato individual de trabalho cujos encargos sejam satisfeitos exclusivamente através de receitas próprias, incluindo nestas as referentes a projectos de investigação e desenvolvimento, qualquer que seja a sua proveniência.\n\nb) Criar, transformar ou extinguir serviços fora do âmbito das Escolas;\n\nc) Aprovar a criação, suspensão e extinção de ciclos de estudo conferentes de grau, ouvidas as Escolas, nos termos da lei;\n\nd) Aprovar os valores máximos de novas admissões e de inscrições, nos ciclos de estudo conferentes de grau, mediante proposta dos Presidentes das Escolas;\n\ne) Superintender na gestão académica;\n\nf) Decidir, no âmbito dos serviços de apoio ao Presidente do Instituto, a abertura de concursos, a nomeação e contratação de pessoal a qualquer título, e a designação de júris de concursos;\n\ng) Decidir, sob proposta do Conselho Técnico-científico de cada Escola, a composição de júris de concursos de provas académicas, nos casos previstos no estatuto da carreira docente do ensino superior politécnico;\n\nh) Superintender a avaliação de docentes, investigadores, discentes e pessoal não docentes e não investigador;\n\ni) Orientar e superintender na gestão administrativa e financeira, assegurando a eficiência no emprego dos seus meios e recursos;\n\nj) Atribuir apoios aos estudantes no quadro da acção social escolar, nos termos da lei e dos presentes Estatutos;\n\nk) Aprovar a concessão de títulos ou distinções honoríficas, por sua iniciativa ou de uma Escola, após parecer favorável do Conselho Académico;\n\nl) Instituir prémios escolares, por sua iniciativa ou de uma Escola;\n\nm) Homologar os Estatutos das Escolas e as suas revisões, só a podendo recusar com base em ilegalidade ou em desconformidade do procedimento da sua elaboração com o disposto na lei ou nos presentes Estatutos;\n\nn) Homologar as eleições dos membros dos órgãos de gestão das Escolas, no prazo máximo de 15 dias úteis, só a podendo recusar com base no incumprimento de disposições legais, e dar posse aos membros eleitos em idêntico prazo;\n\no) Nomear e exonerar, nos termos da lei e dos presentes Estatutos, o Administrador do Instituto e os dirigentes dos serviços;\n\np) Criar, participar ou incorporar, no âmbito do Instituto, entidades subsidiárias de direito privado, nos termos do artigo 5.º;\n\nq) Exercer o poder disciplinar, sendo necessário parecer favorável do Conselho Geral no que se refere à aplicação de penas graves;\n\nr) Assegurar o cumprimento das deliberações tomadas pelos órgãos colegiais do Instituto;\n\ns) Aprovar os regulamentos previstos na lei e nos presentes Estatutos, sem prejuízo do poder regulamentar das Escolas no âmbito das suas competências próprias;\n\nt) Velar pela observância das leis, dos presentes Estatutos e dos Regulamentos;\n\nu) Propor as iniciativas que considere necessárias ao bom funcionamento do Instituto;\n\nv) Desempenhar as demais funções previstas na lei e nos presentes Estatutos;\n\nw) Comunicar ao Ministro da Tutela todos os dados necessários ao seu exercício, designadamente os planos e orçamentos, e os relatórios de actividades e contas;\n\nx) Tomar as medidas necessárias à garantia da qualidade do ensino e da investigação, estabelecendo, nomeadamente, mecanismos regulares de auto-avaliação;\n\ny) Representar o Instituto em juízo ou fora dele.\n\n2 - Sempre que tal se justifique, para maior eficiência da gestão de recursos humanos e financeiros, o Presidente do Instituto pode:\n\na) Redistribuir os recursos orçamentais, mediante parecer prévio do Conselho Geral;\n\nb) Reafectar pessoal, incluindo docentes e investigadores, mediante parecer prévio do Conselho Geral.\n\n3 - Ao Presidente do Instituto cabem, ainda, todas as competências que, por lei ou pelos presentes Estatutos, não sejam atribuídas a outros órgãos do Instituto.\n\n4 - O Presidente do Instituto, em caso de funcionamento anormal de uma Escola, por acção ou omissão dos respectivos órgãos, após parecer favorável do Conselho Geral e ouvidos os órgãos da Escola em causa, pode determinar, mediante despacho fundamentado, as medidas que considere adequadas à reposição da normalidade.\n\n5 - O Presidente do Instituto pode, nos termos da lei e dos presentes Estatutos, delegar nos vice-presidentes ou pró-presidentes e nos órgãos de gestão do Instituto ou das suas Escolas as competências que considere necessárias a uma gestão mais eficiente."
+  },
+  "d293b6c6f9270bdb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho de Gestão"
+  },
+  "72490e8e5a1ca524": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Conselho de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Conselho de Gestão\n\n1 - O Conselho de Gestão é designado e presidido pelo Presidente do Instituto, incluindo pelo menos um vice-presidente e o Administrador, num máximo de cinco membros.\n\n2 - Podem ser convocados para participar nas reuniões do Conselho de Gestão, sem direito de voto, os Presidentes das Escolas, os responsáveis pelos serviços do Instituto e representantes dos estudantes e do pessoal não docente e não investigador."
+  },
+  "e3414739060bdd33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Competência do Conselho de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competência do Conselho de Gestão\n\n1 - Compete ao Conselho de Gestão:\n\na) Conduzir a gestão administrativa, patrimonial e financeira do Instituto, bem como a gestão de recursos humanos, sendo-lhe aplicada a legislação em vigor para os organismos públicos dotados de autonomia administrativa, sem prejuízo das autonomias atribuídas às Escolas pelos presentes Estatutos;\n\nb) Fixar as taxas e emolumentos;\n\nc) Deliberar sobre a concessão da gestão dos serviços aos estudantes, como cantinas e residências, ouvidas as respectivas Associações de Estudantes do Instituto;\n\nd) Analisar as informações, os mapas e os relatórios apresentados, periodicamente, pelos Presidentes das Escolas e dirigentes de serviços relativos à execução orçamental e ao exercício dos poderes delegados.\n\n2 - Para além do previsto nos presentes Estatutos no âmbito das autonomias administrativa, financeira e gestão de recursos humanos, o Conselho de Gestão pode delegar nos órgãos próprios das Escolas e nos dirigentes dos serviços as competências que considere necessárias a uma gestão mais eficiente."
+  },
+  "47031d1805655cfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Conselho Académico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Conselho Académico"
+  },
+  "cee9f399e1808c84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Natureza e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Natureza e fins\n\n1 - O Conselho Académico é um órgão de coordenação das actividades científicas e pedagógicas do Instituto e consultivo nos demais assuntos.\n\n2 - O Conselho Académico visa a cooperação e articulação entre as Escolas, promovendo o seu desenvolvimento e colaboração mútuos no âmbito da estratégia do Instituto e potenciando as sinergias e a utilização racional de recursos."
+  },
+  "89ef3fdafa4c79e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Composição do Conselho Académico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Composição do Conselho Académico\n\nO Conselho Académico é composto por:\n\na) O Presidente do Instituto, que preside;\n\nb) Os Vice-presidentes do Instituto;\n\nc) Os Presidentes das Escolas;\n\nd) Os Presidentes dos Conselhos Técnico-científicos;\n\ne) Os Presidentes dos Conselhos Pedagógicos;\n\nf) Os Presidentes das Associações de Estudantes do Instituto;\n\ng) O Administrador do Instituto, que secretaria as reuniões do Conselho Académico."
+  },
+  "258d628f8e21f61c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Competência do Conselho Académico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Competência do Conselho Académico\n\nSão competências do Conselho Académico:\n\na) Elaborar e aprovar o seu regimento;\n\nb) Elaborar e aprovar:\n\ni) As regras gerais, no plano pedagógico, atendendo às linhas orientadoras aprovadas pelo Conselho Geral;\n\nii) As linhas gerais em matéria de auto-avaliação institucional e dos cursos, tendo em vista a sua certificação e acreditação;\n\nc) Emitir parecer sobre:\n\ni) A proposta de plano estratégico de médio prazo;\n\nii) As propostas de criação, modificação, suspensão e extinção de cursos;\n\niii) As propostas de criação, transformação, cisão, fusão ou extinção de Escolas;\n\nd) Propor as iniciativas que considere necessárias ao bom funcionamento do Instituto;\n\ne) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelo Presidente do Instituto, pelo Conselho Geral ou pelas Escolas."
+  },
+  "3f713d7bd70c06a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Funcionamento\n\n1 - O Conselho Académico reúne, ordinariamente, pelo menos uma vez por ano e, extraordinariamente, sempre que for convocado por iniciativa do Presidente do Instituto ou a requerimento de um terço dos seus membros.\n\n2 - O regimento do Conselho Académico poderá prever a existência de Comissões Especializadas, de carácter temporário ou permanente, fixando-lhes a composição e o âmbito de actuação, vocacionadas para o acompanhamento e estudo de questões específicas."
+  },
+  "d8c20db1277e9af4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Administrador do Instituto, fiscal único, acção social e provedor do estudante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Administrador do Instituto, fiscal único, acção social e provedor do estudante"
+  },
+  "c2219d29105ec8cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Administrador do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Administrador do Instituto\n\n1 - O Instituto dispõe de um Administrador, com saber e experiência na área da gestão.\n\n2 - O Administrador é nomeado e exonerado pelo Presidente do Instituto.\n\n3 - Compete ao Administrador, sob direcção do Presidente do Instituto:\n\na) Organizar e coordenar os serviços do Instituto;\n\nb) Gerir os recursos humanos, físicos e financeiros, fora do âmbito das Escolas;\n\nc) Controlar a execução financeira das Escolas que não gozem de autonomia financeira.\n\n4 - A duração máxima do exercício de funções como Administrador do Instituto é de dez anos."
+  },
+  "db9be01b8a28b256": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Fiscal Único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Fiscal Único\n\nA gestão patrimonial e financeira do Instituto é controlada por um Fiscal Único, cuja designação e competências estão definidas na lei."
+  },
+  "fe81342c23307fc2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Conselho de Acção Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Conselho de Acção Social\n\n1 - O Conselho de Acção Social é o órgão superior de gestão da acção social, cabendo-lhe definir e orientar o apoio a conceder aos estudantes.\n\n2 - O Conselho de Acção Social é constituído por:\n\na) O Presidente do Instituto, que preside;\n\nb) O Administrador dos Serviços de Acção Social;\n\nc) Dois representantes das Associações de Estudantes do Instituto, um dos quais bolseiro, por estas designados.\n\n3 - Compete ao Conselho de Acção Social:\n\na) Aprovar a forma de aplicação da política de acção social escolar;\n\nb) Fixar e fiscalizar o cumprimento das normas de acompanhamento que garantam a funcionalidade dos respectivos serviços;\n\nc) Dar parecer sobre o relatório de actividades, bem como sobre os projectos de orçamento para o ano económico seguinte e os planos de desenvolvimento de médio prazo para a acção social;\n\nd) Propor mecanismos que garantam a qualidade dos serviços prestados e definir os critérios e os meios para a sua avaliação.\n\n4 - Sem prejuízo do disposto no número anterior, o Conselho de Acção Social pode promover outros esquemas de apoio social considerados adequados."
+  },
+  "f0a569e522b456f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Serviços de Acção Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Serviços de Acção Social\n\n1 - Os Serviços de Acção Social (SASIPP) são serviços vocacionados para assegurar as funções de acção social escolar, cabendo-lhes executar as políticas de acção social, que compreendem, nos termos da lei, a prestação de apoios, directos e indirectos, designadamente:\n\na) A concessão de bolsas de estudo e auxílios de emergência;\n\nb) O acesso à alimentação e ao alojamento;\n\nc) O acesso aos serviços de saúde;\n\nd) O apoio a actividades culturais e desportivas;\n\ne) O acesso a outros apoios educativos.\n\n2 - Os SASIPP:\n\na) Gozam de autonomia administrativa e financeira, nos termos previstos nos artigos 41.º e 42.º dos presentes Estatutos;\n\nb) Estão sujeitos à fiscalização exercida pelo fiscal único e as suas contas são consolidadas com as contas do Instituto.\n\n3 - O responsável máximo dos SASIPP é o seu Administrador, nomeado e exonerado pelo Presidente do Instituto de entre pessoas com saber e experiência na área da gestão.\n\n4 - Compete ao Administrador dos SASIPP assegurar o funcionamento, a dinamização da acção social e a execução dos planos e deliberações e ou decisões aprovados pelos órgãos competentes e exercer os poderes previstos no âmbito da autonomia administrativa e financeira dos SASIPP que, por lei ou pelos presentes Estatutos, não sejam da competência de outros órgãos, bem como exercer os poderes que lhe sejam delegados pelo Presidente do Instituto.\n\n5 - A duração máxima do exercício de funções como Administrador é de dez anos.\n\n6 - A organização e funcionamento dos SASIPP regem-se por Regulamento próprio, a aprovar pelo Conselho Geral, sob proposta do Conselho de Acção Social."
+  },
+  "4fe3ff50e82e0e48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Provedor do Estudante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Provedor do Estudante\n\n1 - O Provedor do Estudante é designado pelo Conselho Geral, sob proposta das Associações de Estudantes do Instituto, devendo ser uma individualidade íntegra, independente e idónea, e ter reconhecida experiência no âmbito do ensino superior e de trabalho e ou relacionamento institucional com organismos representativos de estudantes, não podendo ser estudante do Instituto.\n\n2 - A designação do Provedor do Estudante efectua-se até 15 dias antes do termo do mandato do Provedor em funções ou, em caso de cessação antecipada, nos 15 dias úteis subsequentes à cessação.\n\n3 - Compete ao Presidente do Conselho Geral promover junto das Associações de Estudantes do Instituto a apresentação da proposta de designação do Provedor do Estudante.\n\n4 - A rejeição pelo Conselho Geral da proposta de designação referida nos números anteriores terá de ser fundamentada.\n\n5 - O Provedor do Estudante toma posse perante o Presidente do Conselho Geral.\n\n6 - O mandato do Provedor do Estudante é de dois anos e renovável.\n\n7 - A duração máxima do exercício de funções do Provedor de Estudantes é de dez anos.\n\n8 - O Provedor do Estudante é independente e inamovível, não podendo cessar as suas funções antes do termo do mandato, salvo nos casos de:\n\na) Morte ou impossibilidade permanente física ou psíquica;\n\nb) Renúncia.\n\n9 - O Provedor designado nos termos do n.º 2, in fine, inicia novo mandato.\n\n10 - O exercício do mandato de Provedor do Estudante é incompatível:\n\na) Com a actividade docente e discente nas Escolas do Instituto;\n\nb) Com a actividade num órgão de governo ou de gestão do Instituto, das suas Escolas ou de outra instituição de ensino superior.\n\n11 - O Provedor do Estudante, caso seja funcionário do Instituto, qualquer que seja a natureza do seu vínculo, não pode ser prejudicado na sua carreira, vencimento, benefícios e regalias por virtude do exercício do seu mandato.\n\n12 - A actividade do Provedor do Estudante rege-se por regulamento próprio a aprovar pelo Conselho Geral."
+  },
+  "0e13cc8cb0bbdadd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Competência do Provedor do Estudante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Competência do Provedor do Estudante\n\n1 - Compete ao Provedor do Estudante:\n\na) Apreciar as queixas e reclamações dos estudantes e emitir recomendações aos órgãos competentes, aos docentes e aos serviços do Instituto ou das Escolas, com vista à correcção de actos lesivos dos direitos dos estudantes, e à melhoria dos serviços que lhes são prestados;\n\nb) Emitir recomendações e fazer propostas de elaboração de novos regulamentos ou de alteração dos regulamentos em vigor, tendo em vista acautelar os interesses dos estudantes, nomeadamente no domínio da actividade pedagógica e da acção social escolar;\n\nc) Recomendar acções a desenvolver para a melhoria da qualidade do processo de ensino/aprendizagem;\n\nd) Contribuir para a elaboração de um regulamento disciplinar dos Estudantes;\n\ne) Contribuir para a elaboração de um código de direitos e deveres dos Estudantes.\n\n2 - O Provedor do Estudante exerce a sua actividade em articulação com as Associações de Estudantes e os órgãos e serviços do Instituto e suas Escolas, designadamente com os Conselhos Pedagógicos.\n\n3 - O Provedor do Estudante elabora anualmente um relatório a apresentar ao Conselho Geral, que descreve a actividade desenvolvida indicando, designadamente, o número de queixas e reclamações recebidas, a matéria a que dizem respeito, o sentido das recomendações feitas e respectivo acolhimento pelos destinatários."
+  },
+  "90c09fbd0a975003": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Gestão patrimonial, administrativa, financeira e académica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Gestão patrimonial, administrativa, financeira e académica"
+  },
+  "73c52e31779a20aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Autonomia patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Autonomia patrimonial\n\n1 - O Instituto goza de autonomia patrimonial.\n\n2 - Constitui património do Instituto o conjunto dos bens e direitos que lhe tenham sido transmitidos pelo Estado ou por outras entidades públicas ou privadas, para a realização dos seus fins, bem como os bens por si adquiridos.\n\n3 - O Instituto pode administrar bens do domínio público ou privado do Estado ou de outra colectividade territorial que lhes tenham sido cedidos pelo seu titular, nas condições previstas na lei e nos protocolos firmados com essas entidades.\n\n4 - O Instituto pode adquirir e arrendar terrenos ou edifícios indispensáveis ao seu funcionamento, nos termos da lei.\n\n5 - O Instituto dispõe livremente do património, com as limitações estabelecidas na lei, sendo as Escolas responsáveis pela gestão e manutenção do património que lhes está afecto, sem prejuízo do disposto na alínea k) do n.º 2 do artigo 17.º\n\n6 - A alienação, a permuta e a oneração de património imobiliário do Instituto ou a cedência do direito de superfície carecem de aprovação do Conselho Geral e de autorização nos termos da lei.\n\n7 - O Presidente do Instituto, com a colaboração das Escolas, é responsável por manter actualizado o inventário do património, bem como o cadastro dos bens de domínio público ou privado do Estado que tenha a seu cuidado."
+  },
+  "b2d86eada77a007f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Autonomia administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Autonomia administrativa\n\n1 - O Instituto, os SASIPP e as Escolas gozam de autonomia administrativa, estando os seus actos sujeitos a impugnação judicial, salvo nos casos previstos na lei, e sem prejuízo de utilização dos meios de impugnação administrativa.\n\n2 - No desempenho da autonomia administrativa, o Instituto, os SASIPP e as Escolas podem:\n\na) Emitir os regulamentos previstos na lei, nos presentes Estatutos e nos Estatutos das Escolas;\n\nb) Praticar actos administrativos;\n\nc) Celebrar contratos administrativos.\n\n3 - Salvo em casos de urgência, devidamente justificados, a aprovação dos regulamentos é precedida da divulgação dos projectos e da sua discussão pelos interessados durante o período de um mês."
+  },
+  "1e4b1cddaffd82e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Autonomia financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Autonomia financeira\n\n1 - O Instituto, os SASIPP e as Escolas reconhecidas para o efeito pelo Ministro da Tutela gozam de autonomia financeira, gerindo livremente os recursos financeiros, conforme critérios por si estabelecidos, incluindo as verbas anuais que lhes são atribuídas no Orçamento de Estado.\n\n2 - No âmbito da autonomia financeira, o Instituto, os SASIPP e as Escolas, quando dotadas de autonomia financeira:\n\na) Elaboram os seus planos plurianuais;\n\nb) Elaboram e executam os seus orçamentos;\n\nc) Liquidam e cobram as receitas próprias;\n\nd) Autorizam despesas e efectuam pagamentos;\n\ne) Procedem a todas as alterações orçamentais, com excepção das que sejam da competência da Assembleia da República e das que não sejam compatíveis com a afectação de receitas consignadas.\n\n3 - As Escolas, quando dotadas de autonomia financeira, ficam sujeitas à fiscalização do Fiscal Único.\n\n4 - O Instituto, os SASIPP e as Escolas, quando dotadas de autonomia financeira, podem efectuar, desde que cobertos por receitas próprias, seguros de bens móveis e imóveis e também de doença e de risco dos seus funcionários, agentes e outros trabalhadores, que se desloquem em serviço ao estrangeiro ou de individualidades estrangeiras que, com carácter transitório, nelas prestem qualquer tipo de funções.\n\n5 - As despesas em moeda estrangeira podem ser liquidadas directamente, mediante recurso aos serviços bancários considerados mais apropriados e eficientes.\n\n6 - Às Escolas não dotadas de autonomia financeira será atribuído um orçamento de funcionamento a aprovar pelo Conselho Geral, sendo consequentemente atribuída a competência para:\n\na) Autorizar a realização e o pagamento de despesas de funcionamento até ao limite do orçamento aprovado no Conselho Geral;\n\nb) Gerir, conforme critérios por si estabelecidos, as receitas que lhes estiverem atribuídas no orçamento e as que vierem a arrecadar;\n\nc) Gerir os orçamentos relativos a projectos e a prestações de serviços da sua responsabilidade.\n\n7 - Os Presidentes das Escolas referidas no número anterior apresentam periodicamente ao Conselho de Gestão as informações, mapas e relatórios que possibilitam um acompanhamento eficaz da execução orçamental.\n\n8 - As contas do Instituto, dos SASIPP e das Escolas devem ser certificadas pelo Fiscal Único.\n\n9 - O Presidente do Instituto é responsável pela consolidação das contas anuais, pela obtenção da sua certificação pelo Fiscal Único e pelo seu envio ao Tribunal de Contas."
+  },
+  "aa686d425f8c205e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Organização contabilística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Organização contabilística\n\n1 - O Instituto e suas Escolas organizam a sua contabilidade segundo o Plano Oficial de Contabilidade Pública para o Sector da Educação em vigor.\n\n2 - O Instituto divulga anual e publicamente o Relatório e Contas consolidadas, e os das suas Escolas, nos termos da lei."
+  },
+  "9542e09e278d9576": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Gestão académica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Gestão académica\n\n1 - As Escolas são responsáveis por:\n\na) A gestão dos processos de matrícula, inscrição e frequência;\n\nb) A emissão de certificados, declarações e outros documentos relativos ao percurso escolar dos estudantes, com excepção dos diplomas e suplementos respeitantes a graus académicos;\n\nc) A fixação do número de vagas, nos cursos não sujeitos a limitações impostas pela tutela;\n\nd) O envio ao Presidente do Instituto da informação necessária à emissão dos diplomas e suplementos respeitantes a graus académicos;\n\ne) O envio ao Presidente do Instituto da informação necessária à elaboração de relatórios anuais relativos ao número de candidatos, de matrículas e de inscrições e respectivas taxas de aprovação, de abandono e de retenção.\n\n2 - Nos cursos cujas vagas estejam sujeitas limitações impostas pela tutela, os valores máximos de novas admissões e de inscrições são aprovados pelo Presidente do Instituto, mediante proposta dos Presidentes das Escolas."
+  },
+  "9cb8634b2faa5ebe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Gestão de recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Gestão de recursos humanos\n\n1 - O número máximo de docentes, investigadores e outro pessoal, qualquer que seja o regime aplicável, afecto a cada Escola, é fixado pelo Conselho Geral, por proposta do Presidente do Instituto, respeitando o despacho do Ministro da Tutela.\n\n2 - A distribuição das vagas do mapa de pessoal não docente e não investigador, afecto aos Serviços de Apoio ao Presidente do Instituto, pelas diferentes carreiras e categorias, é feita pelo Presidente do Instituto, cumprindo as regras fixadas pelo Ministro da Tutela.\n\n3 - A distribuição das vagas do mapa de pessoal não docente e não investigador, afecto às Escolas, pelas diferentes carreiras e categorias, é feita pelo Presidente da respectiva Escola, cumprindo as regras fixadas pelo Ministro da Tutela.\n\n4 - A distribuição das vagas do mapa de cada Escola, pelas diferentes categorias de docentes e investigadores, é feita pelo Presidente da Escola sob proposta do Conselho Técnico-científico, cumprindo as regras fixadas pelo Ministro da Tutela.\n\n5 - Não está sujeita a quaisquer limitações a contratação de pessoal em regime de contrato individual de trabalho cujos encargos sejam satisfeitos exclusivamente através de receitas próprias, nos termos da lei.\n\n6 - Cabe ao Presidente do Instituto a contratação e promoção dos funcionários necessários aos Serviços de Apoio ao Presidente do Instituto, e às tarefas previstas no plano de actividades desses serviços.\n\n7 - Cabe ao Presidente da Escola a contratação e promoção dos docentes e investigadores bem como do restante pessoal necessários para o desempenho das funções atribuídas à Escola, nos termos da lei e de acordo com o plano de actividades e o orçamento.\n\n8 - A contratação e promoção dos docentes e investigadores são feitas com base em proposta do Conselho Técnico-científico.\n\n9 - Os critérios de gestão de recursos humanos são definidos por:\n\na) O Presidente da Escola, no caso dos docentes, investigadores e funcionários não docentes e não investigadores;\n\nb) O Presidente do Instituto, fora do âmbito das Escolas."
+  },
+  "47b3ebe022218870": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Escolas"
+  },
+  "e9fe672ddde1d8b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "4fcec4e8d0f89948": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Princípios orientadores\n\nSão princípios orientadores das Escolas:\n\na) Promover a aprendizagem através de experiências formativas diversificadas;\n\nb) Promover a formação académica, sempre que possível, em contexto de investigação aplicada, ou em ambiente de simulação ou em situações reais de inserção no mundo do trabalho;\n\nc) Garantir um sistema de avaliação justo, exigente e adequado à formação ministrada, privilegiando competências adquiridas pelos estudantes, aferindo esse conhecimento de forma adaptada, periódica e transparente;\n\nd) Implementar estratégias que estimulem a participação dos docentes em actividades conducentes à melhoria da sua formação pedagógica, profissional, académica, técnica e científica;\n\ne) Promover a formação académica e profissional adequada, com carácter periódico, aos seus funcionários não docentes e não investigadores, com vista à sua valorização e à melhoria da qualidade dos serviços prestados;\n\nf) Criar as condições necessárias para apoiar os trabalhadores-estudantes."
+  },
+  "d875a8e4ec4e33d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Autonomia das Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Autonomia das Escolas\n\n1 - As Escolas gozam, nas suas áreas específicas de intervenção e no âmbito dos cursos instituídos, de autonomia estatutária, pedagógica, científica, cultural e administrativa, nos termos da lei, dos presentes Estatutos e dos estatutos próprios.\n\n2 - As Escolas que satisfaçam ou venham a satisfazer os critérios definidos na lei poderão solicitar, ao Ministro da Tutela, a atribuição de autonomia financeira.\n\n3 - As Escolas que não gozem de autonomia financeira têm competência para gerir, nos termos da lei e dos presentes estatutos, a dotação do orçamento que lhes for afecta."
+  },
+  "57148d59eed49b72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Objecto dos estatutos das Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Objecto dos estatutos das Escolas\n\n1 - Os Estatutos das Escolas devem enunciar a sua missão específica no âmbito da missão do Instituto, os objectivos pedagógicos e científicos, bem como a estrutura orgânica e a concretização das autonomias que lhes são reconhecidas pela lei e pelos presentes Estatutos.\n\n2 - Os Estatutos das Escolas devem regular, designadamente:\n\na) As atribuições da Escola;\n\nb) A estrutura dos órgãos de governo e de gestão, a sua composição e os modos de eleição ou designação dos seus membros, a duração dos mandatos e os modos da sua cessação;\n\nc) As competências dos órgãos."
+  },
+  "2e3f5793322e3698": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Homologação dos Estatutos das Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Homologação dos Estatutos das Escolas\n\n1 - A homologação dos Estatutos das Escolas é da competência do Presidente do Instituto, incidindo sobre a sua legalidade, e a recusa só pode fundar-se na inobservância da lei ou na desconformidade do procedimento da sua elaboração com o disposto nos presentes Estatutos.\n\n2 - A homologação das Estatutos das Escolas deve ter lugar no prazo de 15 dias seguidos após a sua recepção, cabendo ao Presidente do Instituto promover a sua publicação no Diário da República no prazo de cinco dias seguidos."
+  },
+  "2e349f223df78b65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Órgãos das Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Órgãos das Escolas\n\n1 - São órgãos das Escolas:\n\na) O Presidente;\n\nb) O Conselho Técnico-científico;\n\nc) O Conselho Pedagógico;\n\nd) A Assembleia de Representantes, quando prevista pelos estatutos da Escola.\n\n2 - Além dos órgãos previstos no número anterior, os Estatutos das Escolas podem prever a existência de outros órgãos.\n\n3 - Nos termos da lei, os Estatutos podem prever a atribuição da presidência de outros órgãos ao Presidente da Escola."
+  },
+  "8b7374bb638d1d44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Presidente da Escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Presidente da Escola"
+  },
+  "dfd1c304155dabea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Eleição e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Eleição e mandato\n\n1 - O Presidente da Escola é eleito de entre os professores de carreira e investigadores da Escola.\n\n2 - O Presidente, nas Escolas com mais de dois mil e quinhentos estudantes, é eleito por sufrágio directo, universal e secreto pelo conjunto de docentes e investigadores, estudantes e funcionários não docentes e não investigadores;\n\n3 - As Escolas que não cumpram o requisito do número anterior podem prever, nos seus Estatutos:\n\na) A eleição directa do Presidente nos termos do número anterior; ou\n\nb) A criação de uma Assembleia de Representantes que, enquanto órgão colegial representativo, elege o Presidente da Escola, nos termos da lei.\n\n4 - O mandato do Presidente da Escola é de quatro anos, não podendo os mandatos consecutivos exceder oito anos.\n\n5 - O Presidente da Escola toma posse perante o Presidente do Instituto, no dia útil seguinte ao termo do mandato do Presidente cessante ou, caso esta data já tenha sido ultrapassada, no prazo máximo de 10 dias seguidos após a data de homologação das eleições.\n\n6 - Para efeitos do disposto no número anterior, o Presidente cessante da Escola comunica ao Presidente do Instituto o resultado da votação, no prazo de cinco dias úteis contados a partir da data da eleição."
+  },
+  "d7480da4f352a109": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Eleição directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Eleição directa\n\n1 - No caso de eleição directa do Presidente da Escola:\n\na) O procedimento eleitoral é iniciado por Despacho do Presidente da Escola, amplamente divulgado, com pelo menos sessenta dias úteis de antecedência relativamente à data de termo do mandato, definindo, nomeadamente, o calendário eleitoral e os locais de votação;\n\nb) Compete ao Professor Decano da Escola organizar e superintender o procedimento eleitoral;\n\nc) O não cumprimento dos prazos a que se refere a alínea a) constitui infracção disciplinar.\n\n2 - Os estatutos das Escolas disporão sobre os requisitos das candidaturas e os demais procedimentos eleitorais não previstos nos presentes Estatutos, designadamente:\n\na) Prazos de candidatura;\n\nb) Condições de subscrição das candidaturas;\n\nc) Tramitação em caso de não apresentação de candidaturas.\n\n3 - A votação é efectuada, separadamente, por cada um dos três corpos, a saber, docente e investigador, discente e pessoal não docente e não investigador.\n\n4 - Será eleito o candidato que obtiver um valor da média ponderada das percentagens de votação, calculada nos termos definidos no número seguinte, superior a cinquenta por cento.\n\n5 - O valor da média ponderada é calculado através da seguinte expressão:\n\nV = 14 D + 5 E + F\n\nsendo:\n\nV - média ponderada;\n\nD - percentagem obtida pelo candidato na votação do corpo docente e investigador;\n\nE - percentagem obtida pelo candidato na votação do corpo discente;\n\nF - percentagem obtida pelo candidato na votação do corpo do pessoal não docente e não investigador.\n\n6 - As percentagens D, E e F são apresentadas com três algarismos significativos, e para o apuramento das percentagens referidas no número anterior:\n\na) São contabilizados todos os votos, incluindo os brancos e nulos;\n\nb) Não são contabilizadas as abstenções.\n\n7 - Se nenhum candidato obtiver o valor mínimo previsto no n.º 4 do presente artigo, terá lugar uma segunda volta, no prazo máximo de cinco dias úteis contados a partir da data de apuramento dos resultados, sendo eleito o que obtiver maior média ponderada.\n\n8 - A segunda volta será disputada pelos dois candidatos mais votados ou pelo candidato único, se for o caso."
+  },
+  "e20f65d168875e0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Eleição indirecta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Eleição indirecta\n\n1 - Os estatutos das Escolas dispõem sobre a forma de eleição da Assembleia de Representantes, quando exista.\n\n2 - No caso de eleição indirecta, o procedimento eleitoral do Presidente da Escola inicia-se com o despacho do Presidente da Assembleia de Representantes, aplicando-se, com as necessárias adaptações, o previsto para a eleição directa."
+  },
+  "7be2591573320bf7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Competência do Presidente da Escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Competência do Presidente da Escola\n\n1 - Compete ao Presidente da Escola:\n\na) Representar a Escola, em juízo e fora dele;\n\nb) Dirigir os serviços da Escola e aprovar os necessários regulamentos;\n\nc) Gerir os recursos humanos, físicos e materiais afectos à Escola;\n\nd) Decidir, no âmbito da Escola, a abertura de concursos, a designação de júris e a nomeação e contratação de pessoal, a qualquer título, sem prejuízo do previsto na alínea g) do n.º 1 do artigo 27.º;\n\ne) Homologar a distribuição do serviço docente;\n\nf) Homologar os regimes de transição entre planos de estudo;\n\ng) Pronunciar-se sobre o regime de prescrições;\n\nh) Aprovar o calendário e horário das actividades lectivas, ouvido o Conselho Pedagógico;\n\ni) Executar as deliberações dos Conselhos Técnico-científico e Pedagógico, quando vinculativas;\n\nj) Elaborar o plano de actividades e o orçamento, bem como o relatório de actividades e as contas;\n\nk) Nomear e exonerar os vice-presidentes;\n\nl) Nomear e exonerar o Administrador ou Secretário e os dirigentes dos serviços da Escola;\n\nm) Exercer as funções que lhe sejam delegadas pelo Presidente do Instituto;\n\nn) Propor ao Presidente do Instituto os valores máximos de novas admissões e de inscrições;\n\no) Criar, participar ou incorporar, no âmbito da Escola, entidades subsidiárias de direito privado, nos termos do artigo 5.º;\n\np) Instituir prémios escolares no âmbito da Escola;\n\nq) Exercer as demais funções previstas na lei e nos presentes Estatutos.\n\n2 - O Presidente da Escola pode, nos termos da lei e dos Estatutos da Escola, delegar nos vice-presidentes, nos órgãos de gestão, no Administrador ou Secretário e nos dirigentes dos serviços as competências que considere necessárias a uma gestão mais eficiente."
+  },
+  "4d626f85bb803282": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Vice-presidentes das Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Vice-presidentes das Escolas\n\n1 - O Presidente da Escola pode nomear livremente vice-presidentes, até a um máximo de três.\n\n2 - Os vice-presidentes tomam posse perante o Presidente da Escola.\n\n3 - Os vice-presidentes podem ser exonerados a todo o tempo pelo Presidente da Escola, e o seu mandato cessa com a cessação do mandato do Presidente da Escola."
+  },
+  "18cd3c5f001286f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Dedicação exclusiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Dedicação exclusiva\n\n1 - O cargo de Presidente da Escola é exercido em regime de dedicação exclusiva.\n\n2 - O Presidente e os vice-presidentes da Escola ficam dispensados da prestação de serviço docente ou de investigação, sem prejuízo de, por sua iniciativa, o poderem prestar.\n\n3 - O Presidente e os vice-presidentes da Escola não podem pertencer a quaisquer outros órgãos de governo ou gestão de outras instituições de ensino superior, públicas ou privadas, sob pena de perda do mandato."
+  },
+  "11cab0e72a78a0a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Administrador ou Secretário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Administrador ou Secretário\n\n1 - As Escolas podem dispor de um Administrador ou Secretário nomeado e exonerado livremente pelo Presidente da Escola.\n\n2 - O Administrador ou Secretário tem as competências fixadas nos Estatutos da Escola ou as delegadas pelo Presidente da Escola."
+  },
+  "8943fd6f6f040503": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho Técnico-Científico das Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho Técnico-Científico das Escolas"
+  },
+  "4d7921bfa3175309": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Composição e funcionamento do Conselho Técnico-científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Composição e funcionamento do Conselho Técnico-científico\n\n1 - O Conselho Técnico-científico é constituído por um máximo de vinte e cinco membros de acordo com a seguinte distribuição:\n\na) Representantes eleitos, nos termos previstos nos Estatutos da Escola, pelo conjunto dos:\n\ni) Professores de carreira;\n\nii) Equiparados a professor em regime de tempo integral com contrato com a Escola há mais de dez anos nessa categoria;\n\niii) Docentes com o grau de doutor, em regime de tempo integral, com contrato de duração não inferior a um ano, qualquer que seja a natureza do seu vínculo à Escola;\n\niv) Docentes com o título de especialista não abrangidos pelas alíneas anteriores, em regime de tempo integral com contrato com a Escola há mais de dois anos;\n\nb) Representantes das unidades de investigação reconhecidas e avaliadas positivamente nos termos da lei, quando existam:\n\ni) Escolhidos nos termos previstos nos Estatutos da Escola;\n\nii) Em número fixado pelos Estatutos da Escola, não inferior a 20 % nem superior a 40 % do total do Conselho Técnico-científico, podendo ser inferior a 20 % quando o número de unidades de investigação for inferior a esse valor.\n\n2 - Quando o número de pessoas elegíveis for inferior ao estabelecido nos Estatutos da Escola, o Conselho Técnico-científico é composto pelo conjunto das mesmas, sem prejuízo do disposto na alínea b) do n.º 1.\n\n3 - Os Estatutos das Escolas dispõem sobre a presidência do Conselho Técnico-científico, bem como sobre a duração do mandato dos seus membros.\n\n4 - Os Estatutos das Escolas podem estabelecer a possibilidade de o Conselho Técnico-científico integrar membros convidados, de entre professores ou investigadores de outras instituições ou de personalidades de reconhecida competência no âmbito da missão do Conselho.\n\n5 - Quando não integre o Conselho Técnico-científico, o Presidente da Escola pode participar nas suas reuniões sem direito a voto."
+  },
+  "2128f2e445be1807": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Competência do Conselho Técnico-científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Competência do Conselho Técnico-científico\n\n1 - Compete ao Conselho Técnico-científico, designadamente:\n\na) Elaborar e aprovar o seu regimento;\n\nb) Apreciar o plano de actividades científicas e de ensino da Escola;\n\nc) Pronunciar-se sobre a criação, transformação, cisão, fusão ou extinção de Escolas do Instituto;\n\nd) Deliberar sobre a distribuição do serviço docente, a homologar pelo Presidente da Escola;\n\ne) Pronunciar-se sobre a criação, suspensão ou extinção de ciclos de estudos;\n\nf) Aprovar os planos de estudos dos ciclos de estudos ministrados;\n\ng) Aprovar os regimes de transição entre planos de estudos, ouvido o Conselho Pedagógico, a homologar pelo Presidente da Escola;\n\nh) Aprovar os regimes de precedências;\n\ni) Deliberar sobre equivalências e reconhecimento de graus, diplomas, cursos e componentes de cursos e sobre a creditação de competências adquiridas;\n\nj) Propor ou pronunciar-se sobre a concessão de títulos ou distinções honoríficas;\n\nk) Propor ou pronunciar-se sobre a instituição de prémios escolares;\n\nl) Propor ou pronunciar-se sobre a realização de acordos e de parcerias internacionais;\n\nm) Propor a composição dos júris de provas e de concursos académicos;\n\nn) Praticar os outros actos previstos na lei relativos à carreira docente e de investigação e ao recrutamento de pessoal docente e de investigação;\n\no) Aprovar as normas e os regulamentos internos aplicáveis ao recrutamento, promoção e renovação de contratos do pessoal docente, tendo em atenção as normas legais em vigor e os critérios gerais definidos para o Instituto, quando existam;\n\np) Exercer as demais funções que lhe sejam atribuídas pela lei ou pelos Estatutos da Escola.\n\n2 - Os membros do Conselho Técnico-científico não podem pronunciar-se sobre assuntos referentes:\n\na) A actos relacionados com a carreira de docentes com categoria superior à sua;\n\nb) A concursos ou provas em relação aos quais reúnam as condições para serem opositores."
+  },
+  "d4911fc9f7e1f2df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Conselho Pedagógico das Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Conselho Pedagógico das Escolas"
+  },
+  "d283d5928e8cd733": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Composição e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Composição e mandato\n\n1 - O Conselho Pedagógico é constituído por igual número de representantes do corpo docente e dos estudantes, num mínimo de dez e num máximo de vinte e quatro membros, eleitos nos termos dos Estatutos da Escola.\n\n2 - Os Estatutos das Escolas dispõem sobre a presidência do Conselho Pedagógico, bem como sobre a duração do mandato dos seus membros."
+  },
+  "625128a8b3018130": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Competência do Conselho Pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Competência do Conselho Pedagógico\n\nCompete ao Conselho Pedagógico:\n\na) Elaborar e aprovar o seu regimento;\n\nb) Pronunciar-se sobre as orientações pedagógicas e os métodos de ensino e de avaliação;\n\nc) Promover a realização de inquéritos regulares ao desempenho pedagógico Escola e a sua análise e divulgação;\n\nd) Promover a realização da avaliação do desempenho pedagógico dos docentes, por estes e pelos estudantes, e a sua análise e divulgação;\n\ne) Apreciar as queixas relativas a falhas pedagógicas, e propor as providências necessárias;\n\nf) Aprovar o regulamento de avaliação do aproveitamento dos estudantes;\n\ng) Pronunciar-se sobre o regime de prescrições;\n\nh) Pronunciar-se sobre a criação de ciclos de estudos e sobre os respectivos planos;\n\ni) Pronunciar-se sobre os regimes de transição entre planos de estudo;\n\nj) Pronunciar-se sobre a instituição de prémios escolares;\n\nk) Pronunciar-se sobre o calendário lectivo e os mapas de exames da Escola;\n\nl) Exercer as demais competências que lhe sejam atribuídas pela lei ou pelos Estatutos da Escola."
+  },
+  "0c2e0ba77b1dae79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições transitórias e finais"
+  },
+  "507ee9a44cd13310": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições transitórias"
+  },
+  "6e6d22d68276cd16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Conselho Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Conselho Geral\n\n1 - As primeiras eleições para a constituição do Conselho Geral realizam-se nos 30 dias úteis posteriores à entrada em vigor dos presentes Estatutos, de acordo com regulamento a elaborar pelo Conselho Geral actualmente em funções.\n\n2 - O Conselho Geral actualmente em funções aprova o regulamento eleitoral do novo Conselho Geral no prazo de 10 dias úteis após a entrada em vigor dos presentes Estatutos.\n\n3 - Concluída a eleição dos membros do Conselho Geral, deve o Presidente do Instituto em funções dar-lhes posse, no prazo de 15 dias úteis.\n\n4 - Até à eleição e tomada de posse do Presidente do Conselho Geral, as quais devem ocorrer no prazo máximo de 30 dias úteis, assume a presidência interinamente o professor do Conselho mais antigo, da categoria mais elevada.\n\n5 - O Conselho Geral, após a tomada de posse do seu Presidente, deve, no prazo de 30 dias úteis, elaborar e aprovar o seu regimento e o regulamento de eleição do presidente do Instituto.\n\n6 - O Conselho Geral, após a tomada de posse do seu Presidente, deve, no prazo de sessenta dias úteis, aprovar, sob proposta do Presidente do Instituto, o regulamento disciplinar dos estudantes, com a colaboração do Provedor do Estudante e após parecer das Associações de Estudantes do Instituto."
+  },
+  "8de07dc2ac780bc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — Estatutos das Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Estatutos das Escolas\n\n1 - Os Estatutos de cada Escola são aprovados no prazo de noventa dias seguidos após a entrada em vigor dos presentes Estatutos.\n\n2 - A elaboração dos estatutos compete a uma assembleia eleita em cada Escola especificamente para o efeito, com a seguinte composição:\n\na) O Presidente da Escola, que preside;\n\nb) O Presidente da Associação de Estudantes;\n\nc) Doze representantes de docentes e investigadores em tempo integral;\n\nd) Cinco representantes dos estudantes;\n\ne) Dois representantes dos funcionários não docentes e não investigadores.\n\n3 - Os membros da Assembleia mencionados nas alíneas c), d) e e) do número anterior são eleitos em votação secreta, por corpo, por lista, em círculo único e pelo método de representação proporcional de Hondt.\n\n4 - A fim de dar cumprimento ao disposto no número anterior, incumbe ao Presidente da Escola promover a organização dos processos eleitorais conducentes à constituição da assembleia estatutária, nos 15 dias seguidos posteriores à entrada em vigor dos presentes Estatutos."
+  },
+  "01d237db2cb82e59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Racionalização das unidades orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Racionalização das unidades orgânicas\n\nO Conselho Geral deve apreciar as medidas necessárias conducentes à racionalização das unidades orgânicas, no prazo máximo de cento e oitenta dias seguidos após a sua tomada de posse, designadamente através das fusões e extinções que se revelem adequadas."
+  },
+  "2c612ca5ec251d58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — Autonomia financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Autonomia financeira\n\nAs Escolas que satisfaçam os critérios definidos na Portaria n.º 485/2008, de 24 de Abril, gozam de autonomia financeira, após despacho do Ministro da Tutela nesse sentido."
+  },
+  "9445cd8b5121718c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — Património afecto às Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Património afecto às Escolas\n\nO património do Instituto afecto a cada Escola na data de publicação dos presentes Estatutos fica-lhes afecto."
+  },
+  "f91e8b00aab194eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — Termo dos mandatos em curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Termo dos mandatos em curso\n\n1 - Na ausência de declaração de renúncia do Presidente do Instituto em funções nos termos da alínea b) do n.º 2 do artigo 184.º do RJIES, o seu mandato tem a duração de três anos, nos termos do n.º 3 do artigo 174.º do mesmo diploma e de acordo com o previsto nos Estatutos até agora vigentes, terminando no dia 3 de Outubro de 2009.\n\n2 - Na ausência de declaração de renúncia dos Presidentes eleitos das Escolas, o seu mandato tem a duração de três anos, contados a partir da data na qual tomaram de posse, nos termos do n.º 3 do artigo 174.º do RJIES e de acordo com o previsto nos Estatutos até agora vigentes.\n\n3 - Os Presidentes das Escolas nomeados cessam funções com a tomada de posse dos novos Presidentes, cuja eleição deverá ocorrer no prazo de 30 dias úteis após a entrada em vigor dos respectivos Estatutos.\n\n4 - Os órgãos das Escolas mantêm-se em funções com a mesma composição até à tomada de posse dos novos órgãos previstos nos Estatutos das Escolas e com as mesmas competências, à excepção das que, nos termos do n.º 3 do artigo 174.º do RJIES, tenham transitado para o Presidente do Instituto e para os Presidentes das Escolas.\n\n5 - Na ausência de cessação antecipada do mandato do Provedor do Estudante em funções, o seu mandato tem a duração de quatro anos, de acordo com a Resolução CG-22/2005, terminando no dia 3 de Outubro de 2010, de acordo com a Resolução CG-20/2006."
+  },
+  "a60bc2f59c8f3976": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Disposições finais"
+  },
+  "00dbc8a3e26dff4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — Eleição do Presidente da Escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Eleição do Presidente da Escola\n\nNas Escolas cujo número de professores ou investigadores de carreira seja inferior a quatro, pode ser eleito Presidente da Escola um professor, um investigador ou um equiparado a professor."
+  },
+  "028763f881327a9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — Fundação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Fundação\n\nO Instituto integra no seu âmbito a Fundação Instituto Politécnico do Porto, cujos Estatutos estão publicados no Diário da República."
+  },
+  "3394b4db2e9373ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — Contagem de prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Contagem de prazos\n\nOs prazos referentes às eleições dos órgãos do IPP e das suas Escolas suspendem-se durante as férias escolares."
+  },
+  "93a0d02bb52bea3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Norma revogatória\n\nSão revogados os Estatutos do IPP, publicados pelo [Despacho Normativo n.º 76/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/76-1995-627206), de 29 de Novembro, com as alterações introduzidas pelo Despacho Normativo n.º 10/2006, de 16 de Fevereiro."
+  },
+  "9bafe9011ff4e2a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Entrada em vigor\n\nOs presentes Estatutos entram em vigor 10 dias úteis após a sua publicação."
+  },
+  "bf9097046251b065": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Unidades orgânicas e serviços",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+   ],
+   "markdown": "###### Artigo 7.º — Unidades orgânicas e serviços\n\n1 - O Instituto integra:\n\na) Unidades orgânicas de ensino e investigação, designadas Escolas;\n\nb) Serviços, cuja designação identifica as funções que desempenham.\n\n2 - São Escolas:\n\na) O Instituto Superior de Engenharia do Porto (ISEP);\n\nb) O Instituto Superior de Contabilidade e Administração do Porto (ISCAP);\n\nc) A Escola Superior de Educação (ESE);\n\nd) A Escola Superior de Música e Artes do Espetáculo (ESMAE);\n\ne) A Escola Superior de Hotelaria e Turismo (ESHT);\n\nf) A Escola Superior de Tecnologia e Gestão (ESTG);\n\ng) A Escola Superior de Saúde (ESS);\n\nh) A Escola Superior de Media Artes e Design (ESMAD).\n\n3 - As Escolas incluem ou podem criar subunidades, nomeadamente de investigação.\n\n4 - O Instituto pode:\n\na) Criar unidades transversais para reforçar a coesão interna e para racionalizar e potenciar os recursos humanos, materiais e tecnológicos, e formalizar e regulamentar a afectação desses recursos a mais de uma Escola;\n\nb) Criar outras unidades.\n\n5 - Os serviços são estruturas permanentes vocacionadas para o apoio técnico e administrativo às actividades do Instituto e das Escolas.\n\n> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+  },
+  "8dfa2ffe0e93e751": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Transformação de Escola",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+   ],
+   "markdown": "###### Artigo 62.º — Transformação de Escola\n\n1 - A Escola Superior de Estudos Industriais e de Gestão (ESEIG) é transformada na Escola Superior de Hotelaria e Turismo (ESHT) no dia 1 de agosto de 2016 e ficará em regime de instalação, com Estatutos provisórios aprovados nos termos do n.º 3 do artigo 38.º do RJIES, até à tomada de posse dos órgãos eleitos.\n\n2 - O Presidente do Instituto define, até ao dia 31 de julho de 2016, por despacho, qual o património do Instituto, afeto à ESEIG que fica afeto à ESHT bem como o património que transita para outra(s) Escola(s) do Instituto.\n\n3 - O Presidente do Instituto define, até ao dia 31 de julho de 2016, por despacho, quais os compromissos, encargos, contratos e protocolos da ESEIG que transitam para a ESHT ou para outras Escolas do Instituto.\n\n4 - O Presidente do Instituto define, por despacho, a afetação dos trabalhadores em funções públicas constantes do mapa de pessoal da ESEIG à ESHT ou a outra(s) Escola(s) do Instituto.\n\n5 - O IPP assume a posição da ESEIG em todos os processos judiciais em curso à data de entrada em vigor dos presentes Estatutos.\n\n6 - Todas as situações referentes à transformação da ESEIG na ESHT não previstas nos presentes Estatutos, nomeadamente as ações necessárias para a conclusão do ano letivo de 2015-2016, serão resolvidas por despacho do Presidente do IPP.\n\n7 - A partir do momento da transformação da ESEIG em ESHT cessam o mandato todos os órgãos de gestão da ESEIG, transitando as suas competências para a Comissão Instaladora da ESHT.\n\n> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+  },
+  "7dae6f47c4b0d5d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — Criação de Escola",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+   ],
+   "markdown": "###### Artigo 63.º — Criação de Escola\n\n1 - É criada a Escola Superior de Media Artes e Design (ESMAD), que ficará em regime de instalação até à tomada de posse dos órgãos eleitos.\n\n2 - A ESMAD entra em funcionamento após aprovação dos seus Estatutos provisórios, nos termos do n.º 3 do artigo 38.º do RJIES.\n\n3 - As competências de todos os órgãos da Escola previstos nos presentes Estatutos são atribuídas à Comissão Instaladora da ESMAD.\n\n> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+  },
+  "bf731235b2dcfb0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Comissão instaladora",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+   ],
+   "markdown": "###### Artigo 64.º — Comissão instaladora\n\n1 - As Comissões Instaladoras da ESHT e da ESMAD são nomeadas e exoneradas pelo Presidente do Instituto.\n\n2 - O mandato das Comissões Instaladoras cessa com a tomada de posse dos órgãos eleitos nos termos previstos nos Estatutos da respetiva Escola.\n\n3 - Na eventualidade de, em 31 de dezembro de 2017, não terem tomado posse os órgãos eleitos, cessa o mandato da Comissão Instaladora, assumindo as funções de Presidente da Escola o Professor Decano da mesma, que procederá à marcação de eleições para os diferentes órgãos no prazo de 10 dias úteis.\n\n4 - É considerada falta grave o não cumprimento do prazo previsto no número anterior.\n\n> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+  },
+  "679aba77087514f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º-A — Estatutos das Escolas",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Aditado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+   ],
+   "markdown": "###### Artigo 64.º-A — Estatutos das Escolas\n\n1 - Os Estatutos da ESHT e da ESMAD são aprovados no prazo de cento e oitenta dias seguidos após o início de funções da assembleia estatutária.\n\n2 - A elaboração dos estatutos compete a uma assembleia eleita em cada Escola especificamente para o efeito, com a seguinte composição:\n\na) O Presidente da Comissão Instaladora, que preside;\n\nb) Doze representantes de docentes e investigadores em tempo integral;\n\nc) Seis representantes dos estudantes, sendo um deles o Presidente da Associação de Estudantes, quando exista;\n\nd) Dois representantes dos funcionários não docentes e não investigadores.\n\n3 - Os membros da Assembleia mencionados nas alíneas b), c) e d) do número anterior são eleitos em votação secreta, por corpo, por lista, em círculo único e pelo método de representação proporcional de Hondt, com exceção do Presidente da Associação de Estudantes, quando exista.\n\n4 - A fim de dar cumprimento ao disposto no número anterior, incumbe ao Presidente da Comissão Instaladora promover a organização dos processos eleitorais conducentes à constituição da assembleia estatutária até ao dia 31 de janeiro de 2017.\n\n5 - É considerada falta grave o não cumprimento do prazo previsto no número anterior.\n\n> Aditado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+  },
+  "1fa30439e9322cf1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — Partilha de recursos",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+   ],
+   "markdown": "###### Artigo 66.º — Partilha de recursos\n\n1 - A ESHT e a ESMAD partilham o campus de Vila do Conde, sendo a afetação das instalações de utilização exclusiva de cada Escola efetuada por despacho do Presidente do IPP.\n\n2 - O modelo de utilização das instalações comuns e dos restantes recursos partilhados é definido por despacho do Presidente do IPP ouvidas as comissões instaladoras das duas Escolas.\n\n3 - O modelo referido no número anterior é reavaliado após a tomada de posse dos órgãos eleitos.\n\n> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+  },
+  "d70958e231f19c82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — Mandato dos membros do Conselho Geral do IPP",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+   ],
+   "markdown": "###### Artigo 67.º — Mandato dos membros do Conselho Geral do IPP\n\nOs membros docentes do Conselho Geral do IPP eleitos pelo círculo eleitoral da ESEIG mantêm-se em exercício de funções até ao final do mandato.\n\n> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+  },
+  "6eba63b303d3d1a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — Entrada em vigor",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+   ],
+   "markdown": "###### Artigo 68.º — Entrada em vigor\n\nOs presentes Estatutos entram em vigor no dia útil seguinte ao da sua publicação no Diário da República.\n\n> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+  },
+  "550e5fcfc1cfde7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — Fundação",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Revogado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+   ],
+   "markdown": "###### Artigo 69.º — Fundação\n\n(Revogado.)\n\n> Revogado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+  },
+  "3fba85e383d91632": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — Norma revogatória",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Revogado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+   ],
+   "markdown": "###### Artigo 71.º — Norma revogatória\n\n(Revogado.)\n\n> Revogado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+  },
+  "552eb5c097131ae2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º — Entrada em vigor",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Revogado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+   ],
+   "markdown": "###### Artigo 72.º — Entrada em vigor\n\n(Revogado.)\n\n> Revogado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+  }
+ }
+}

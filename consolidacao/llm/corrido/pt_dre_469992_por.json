@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:469992:por",
+  "substituicoes": [
+    {
+      "de": 44,
+      "ate": 44,
+      "texto": "Art. 13.º A utilização nas embalagens da firma ou denominação social do fabricante do nome ou insígnia do estabelecimento fabril, das marcas dos produtos e das recompensas rege-se pelo disposto no Código Comercial e no Código da Propriedade Industrial.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 615/72: nova redação do art. 13.º; substituída a unidade 44."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

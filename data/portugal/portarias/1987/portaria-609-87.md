@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-12-20'
+version_history:
+  file: portaria-609-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-07-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-12-20'
+    amending: pt:dre:563262:por
+    amending_title: Portaria n.º 1206/90
+    changes:
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:12:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1206/90. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-609-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -277,7 +292,9 @@ Secretário - oficial de qualquer quadro, em serviço no CMA (sem voto).
 
 ###### Artigo 9.º — Centro de Recrutamento e Mobilização
 
-Constitui responsabilidade do CRM, na inspecção de voluntários com destino a pessoal navegante, a realização das acções previstas nos n.os 2 e 3 do artigo 4.º
+Constitui responsabilidade do CRM, na inspecção de voluntários com destino a pessoal navegante, a realização das acções previstas no artigo 4.º
+
+> Alterado pelo/a [Portaria n.º 1206/90](https://diariodarepublica.pt/dr/detalhe/portaria/1206-1990-563262), publicado em 1990-12-15.
 
 ###### Artigo 10.º — Funcionamento
 

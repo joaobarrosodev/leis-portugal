@@ -1,0 +1,746 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:403317:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-08-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4e19d32ae85a3cc3",
+    "4dd8c54aa705511f",
+    "23836370ae405d04",
+    "89f8b50f5f4856f4",
+    "d4352a81e999e2b7",
+    "030460a17f32f2cd",
+    "1318b4a68a53f198",
+    "859f6da941e3b942",
+    "c9689b8c4145e06e",
+    "e38aa6495014c204",
+    "b7813aed9c002015",
+    "cfc515699cce60bc",
+    "e5eb9c9050f6c154",
+    "082ad983385c14ca",
+    "8461553b9e3dd161",
+    "c98bbefe6a8dab65",
+    "380b4499d0f7c7da",
+    "46bedcf8fb78427f",
+    "92c9a37566b49037",
+    "d321efb497eb4906",
+    "61c9bca250ea43f1",
+    "1b60081ccce13ca4",
+    "84cd0d5e0292ff45",
+    "b9791cb4190afd5e",
+    "7490fbadfc7e00bc",
+    "2a663c84b5d9dd19",
+    "6a7ca8ab0ceca151",
+    "a2a4ff61c22541c3",
+    "344052d6b47b654c",
+    "6d1373154bca71b9",
+    "4bdf5b12e6a88110",
+    "e184489d08a97257",
+    "13a327257a0a4c10",
+    "6172fa6be0081458",
+    "17a1d7b89318a8dd",
+    "af668d4f9aae7f54",
+    "deeef893609c1260",
+    "0ae8d169eecc5f0d",
+    "ab627aad05ae1212",
+    "efde85aa84ffc38d",
+    "a4355d213e535bc8",
+    "f3ee1f061c8e8aa4",
+    "be9f9094db489d8b",
+    "8db789a9c8ce6086",
+    "bbdc095797d9111e",
+    "91346076a24f0ef7",
+    "e43838e037794b2e",
+    "f2a21cd2bac3aef4",
+    "da86f3bc1f94ba82",
+    "062515b603949d8a",
+    "171ddf69019c4a7d",
+    "0f35ee622762d267",
+    "445594abedb270de",
+    "e3f76c1dcd440505",
+    "6de501c573f5bea5",
+    "624c3dbcc96637d3",
+    "6050688a7961ad53",
+    "ce8baa624f1e9593",
+    "e361a3b3a2b38a2f",
+    "49174c6830ed99fc",
+    "76e6d7fd81abaa1e",
+    "892d4013bd522480",
+    "0914c836925c4509",
+    "f0ceb6f7792672e8",
+    "3851acfd44cf11a3",
+    "be41f54df05c9ea8",
+    "46e642dd33eb869f",
+    "ddf02ffe37666ff4",
+    "99e98f43dd4f91d4",
+    "dfde3b1977585fc6"
+   ]
+  },
+  {
+   "date": "2007-08-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2933982:por",
+     "title": "Despacho Normativo n.º 31/2007",
+     "published": "2007-08-16",
+     "dre_path": "/dr/detalhe/despacho-normativo/31-2007-2933982"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — Preâmbulo::32.º"
+   ],
+   "fragments": [
+    "4e19d32ae85a3cc3",
+    "4dd8c54aa705511f",
+    "23836370ae405d04",
+    "89f8b50f5f4856f4",
+    "d4352a81e999e2b7",
+    "030460a17f32f2cd",
+    "1318b4a68a53f198",
+    "859f6da941e3b942",
+    "c9689b8c4145e06e",
+    "e38aa6495014c204",
+    "b7813aed9c002015",
+    "cfc515699cce60bc",
+    "e5eb9c9050f6c154",
+    "082ad983385c14ca",
+    "8461553b9e3dd161",
+    "c98bbefe6a8dab65",
+    "380b4499d0f7c7da",
+    "46bedcf8fb78427f",
+    "92c9a37566b49037",
+    "d321efb497eb4906",
+    "61c9bca250ea43f1",
+    "1b60081ccce13ca4",
+    "84cd0d5e0292ff45",
+    "b9791cb4190afd5e",
+    "7490fbadfc7e00bc",
+    "2a663c84b5d9dd19",
+    "6a7ca8ab0ceca151",
+    "a2a4ff61c22541c3",
+    "344052d6b47b654c",
+    "6d1373154bca71b9",
+    "4bdf5b12e6a88110",
+    "e184489d08a97257",
+    "13a327257a0a4c10",
+    "6172fa6be0081458",
+    "17a1d7b89318a8dd",
+    "af668d4f9aae7f54",
+    "deeef893609c1260",
+    "0ae8d169eecc5f0d",
+    "ab627aad05ae1212",
+    "efde85aa84ffc38d",
+    "a4355d213e535bc8",
+    "f3ee1f061c8e8aa4",
+    "e905cd4b63c63ef5",
+    "8db789a9c8ce6086",
+    "bbdc095797d9111e",
+    "91346076a24f0ef7",
+    "e43838e037794b2e",
+    "f2a21cd2bac3aef4",
+    "da86f3bc1f94ba82",
+    "062515b603949d8a",
+    "171ddf69019c4a7d",
+    "0f35ee622762d267",
+    "445594abedb270de",
+    "e3f76c1dcd440505",
+    "6de501c573f5bea5",
+    "624c3dbcc96637d3",
+    "6050688a7961ad53",
+    "ce8baa624f1e9593",
+    "e361a3b3a2b38a2f",
+    "49174c6830ed99fc",
+    "76e6d7fd81abaa1e",
+    "892d4013bd522480",
+    "0914c836925c4509",
+    "f0ceb6f7792672e8",
+    "3851acfd44cf11a3",
+    "be41f54df05c9ea8",
+    "46e642dd33eb869f",
+    "ddf02ffe37666ff4",
+    "99e98f43dd4f91d4",
+    "dfde3b1977585fc6"
+   ]
+  }
+ ],
+ "fragments": {
+  "4e19d32ae85a3cc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ouvida a comissão instituída pelo Despacho n.º 31/ME/89, de 8 de Março, conjugado com o Despacho n.º 216/ME/90, de 26 de Dezembro, homólogo, nos termos do disposto no artigo 5.º da [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro, os Estatutos do Instituto Politécnico de Lisboa, que serão publicados em anexo ao presente despacho.\n\nMinistério da Educação, 2 de Agosto de 1991. - O Ministro da Educação, Roberto Artur da Luz Carneiro."
+  },
+  "4dd8c54aa705511f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Preâmbulo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Preâmbulo\n\nA [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro, estabelece o estatuto genérico e as autonomias dos estabelecimentos de ensino superior politécnico, ao mesmo tempo que define as condições determinantes do termo do regime de instalação em que, na sua grande maioria, se têm mantido esses estabelecimentos de ensino.\n\nEm sequência natural, no seu artigo 44.º, a mesma lei determina que os estabelecimentos de ensino superior politécnico que cessem o regime de instalação devem apresentar ao Governo, no prazo de 180 dias, os respectivos estatutos, de que constem, designadamente, a definição dos modelos institucionais de organização, gestão e funcionamento, bem como as regras de constituição dos órgãos colegiais e do processo de eleição, demissão ou designação dos respectivos os membros.\n\nNo Instituto Politécnico de Lisboa integram-se sete escolas superiores, que se diferenciam não só pela área de actividade, mas também pela dimensão geográfica da respectiva influência, pelo tempo de vida institucional e pela posição perante o quadro legal de exercício de competências nos diferentes planos.\n\nHouve, por isso, que encontrar para os estatutos do Instituto Politécnico de Lisboa soluções que se ajustassem à diversidade das suas unidades orgânicas, aproveitando, a um tempo, a experiência das escolas mais antigas e o impulso criativo das mais recentes.\n\nNesse sentido e no claro respeito pela lei, optou-se por um modelo de organização em que se compatibilizam preocupações de flexibilidade com uma assumida intenção de coordenação global, salvaguardados, por um lado, os princípios da participação, representatividade e democraticidade e, por outro, as exigências de racionalização e eficácia na gestão dos recursos."
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "89f8b50f5f4856f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Finalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Finalidades\n\nO Instituto Politécnico de Lisboa, adiante designado por IPL, é uma instituição de ensino superior que orienta as suas actividades pelas seguintes finalidades:\n\na) A formação dos alunos, com elevado nível de exigência qualitativa, nos aspectos cultural, científico, artístico, técnico e profissional;\n\nb) A realização de actividades de pesquisa e investigação aplicada;\n\nc) A prestação de serviços à comunidade;\n\nd) O intercâmbio cultural, científico e técnico com instituições congéneres nacionais e estrangeiras;\n\ne) A participação em projectos de cooperação nacional e internacional."
+  },
+  "d4352a81e999e2b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza jurídica\n\n1 - O IPL é uma pessoa colectiva de direito público dotada de autonomia estatutária, científica, pedagógica, administrativa, financeira, disciplinar e patrimonial.\n\n2 - No âmbito das suas actividades, o IPL pode celebrar convénios, protocolos, contratos e outros acordos com instituições públicas ou privadas, nacionais ou estrangeiras.\n\n3 - O IPL, por si ou por intermédio das suas unidades orgânicas, pode participar em associações sem fins lucrativos, desde que as suas actividades sejam compatíveis com as finalidades e interesses do IPL."
+  },
+  "030460a17f32f2cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Graus e diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Graus e diplomas\n\n1 - O IPL confere os graus de bacharel e licenciado, nos termos previstos na lei, e atribui diplomas de estudos superiores especializados.\n\n2 - O IPL confere ainda a equivalência e o reconhecimento dos graus e diplomas correspondentes aos referidos no número anterior.\n\n3 - Nos termos da lei, o IPL pode ainda conferir outros graus e diplomas, bem como títulos honoríficos."
+  },
+  "1318b4a68a53f198": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Democraticidade e participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Democraticidade e participação\n\nO IPL, na concepção e prática dos mecanismos da sua administração, orienta-se por princípios de democraticidade e participação, tendo em vista:\n\na) Favorecer a livre expressão da pluralidade de ideias e opiniões;\n\nb) Garantir a liberdade de criação cultural, científica, artística e tecnológica;\n\nc) Assegurar as condições necessárias para uma atitude permanente de inovação científica, artística e pedagógica;\n\nd) Estimular o envolvimento de todo o corpo docente, discente, técnico e administrativo nas suas actividades;\n\ne) Promover uma estreita ligação com a comunidade na organização e realização das suas actividades, visando, designadamente, a inserção dos seus diplomados na vida profissional."
+  },
+  "859f6da941e3b942": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Símbolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Símbolos\n\n1 - O IPL adopta emblemática própria.\n\n2 - Sem prejuízo da respectiva especificidade, a emblemática de cada uma das unidades orgânicas do Instituto inclui referência à que é própria deste.\n\n3 - O Instituto adopta como dia do Instituto o dia 30 de Janeiro."
+  },
+  "c9689b8c4145e06e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Estrutura interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Estrutura interna"
+  },
+  "e38aa6495014c204": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Unidades orgânicas e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Unidades orgânicas e serviços\n\n1 - O IPL integra unidades orgânicas e dispõe de serviços, identificados, respectivamente, pelos objectivos que prosseguem e pelas funções que desempenham.\n\n2 - As unidades orgânicas, quando vocacionadas para projectos de ensino, são escolas superiores que asseguram o ensino, a investigação e outras actividades no respectivo âmbito científico, técnico e artístico.\n\n3 - Os serviços são organizações permanentes vocacionadas para apoio técnico ou administrativo às actividades do Instituto."
+  },
+  "b7813aed9c002015": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Órgãos do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Órgãos do Instituto"
+  },
+  "cfc515699cce60bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos\n\nSão órgãos do IPL:\n\na) A assembleia do Instituto;\n\nb) O presidente;\n\nc) O conselho geral;\n\nd) O conselho administrativo."
+  },
+  "e5eb9c9050f6c154": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Assembleia do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Assembleia do Instituto"
+  },
+  "082ad983385c14ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição\n\n1 - A assembleia do Instituto tem a seguinte composição:\n\na) O presidente;\n\nb) Os vice-presidentes;\n\nc) O administrador;\n\nd) Um representante eleito pelos funcionários dos serviços centrais do Instituto;\n\ne) O representante das associações de estudantes das escolas do Instituto;\n\nf) Representantes de cada uma das unidades orgânicas referidas no n.º 1 do artigo 6.º;\n\ng) Representantes da comunidade e das actividades sociais, culturais e económicas relacionadas com o ensino ministrado em cada uma das unidades orgânicas referidas no n.º 1 do artigo 6.º\n\n2 - Para efeitos do disposto na alínea f) do número anterior, os representantes de cada uma das unidades orgânicas são os seguintes:\n\na) O director ou presidente do conselho directivo;\n\nb) O presidente do conselho científico;\n\nc) O presidente do conselho pedagógico;\n\nd) O presidente da assembleia de representantes;\n\ne) O presidente da Associação de Estudantes;\n\nf) Três professores ou equiparados quando dispuser de 20 ou menos e, quando exceder, mais um por cada grupo completo de 10;\n\ng) Dois assistentes ou equiparados quando dispuser de 25 ou menos e, quando exceder, mais um por cada grupo completo de 20;\n\nh) Um encarregado de trabalhos, quando dispuser pelo menos de cinco;\n\ni) Cinco estudantes quando existam 500 ou menos e, quando exceder, mais um por cada grupo completo de 500;\n\nj) Três funcionários não docentes, sendo um por cada categoria funcional, quando dispuser de 30 ou menos e, quando exceder, mais um por cada grupo completo de 20.\n\n3 - Nos casos em que exista um conselho científico-pedagógico, os elementos referidos nas alíneas b) e c) do n.º 2 são substituídos pelos presidente e vice-presidente desse conselho.\n\n4 - Nos casos em que os presidentes do conselho científico e do conselho pedagógico coincidam na mesma pessoa, esta designará um dos vice-presidentes desses conselhos para, com ela, completar a representação a que se referem as alíneas b) e c) do n.º 2.\n\n5 - Nos casos em que o director ou presidente do conselho directivo exercer também as funções de presidente de qualquer dos conselhos científico ou pedagógico, seguir-se-á procedimento idêntico ao número anterior.\n\n6 - Para efeitos do disposto na alínea g) do n.º 1, os representantes referidos são designados por cada uma das unidades orgânicas, em número de três se dispuser de 500 alunos ou menos e, quando exceder, mais um por cada grupo completo de 500 alunos."
+  },
+  "8461553b9e3dd161": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Eleição dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Eleição dos membros\n\n1 - A eleição do representante mencionado na alínea d) do n.º 1 do artigo 8.º será regida pelo disposto no regulamento da assembleia do Instituto.\n\n2 - A eleição dos representantes mencionados nas alíneas f), g), h), i) e j) do n.º 2 do artigo 8.º será regida de acordo com o disposto no estatuto da respectiva unidade orgânica, o qual fixará também a distribuição entre professores e equiparados e entre assistentes e equiparados para efeitos da representação prevista nas alíneas f) e g) citadas.\n\n3 - A designação dos representantes mencionados no n.º 6 do artigo 8.º será feita de acordo com critérios definidos nos estatutos da respectiva unidade orgânica.\n\n4 - Nos casos referidos nos n.os 1 e 2 serão sempre eleitos representantes suplentes em número igual ao dos efectivos, para efeitos de substituição em caso de perda de mandato.\n\n5 - Sempre que se verifique que o número de representantes eleitos de qualquer corpo está reduzido a 25%, há lugar a uma eleição intercalar para preenchimento das vagas.\n\n6 - O mandato dos membros da assembleia, que é renovável, é de:\n\na) Dois anos para os representantes dos docentes e funcionários;\n\nb) Um ano para os representantes dos discentes."
+  },
+  "c98bbefe6a8dab65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regulamento interno\n\nA assembleia do Instituto elaborará um regulamento interno, que será aprovado por maioria qualificada de dois terços dos seus membros."
+  },
+  "380b4499d0f7c7da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências\n\n1 - Compete à assembleia do Instituto:\n\na) Eleger o presidente e dar-lhe posse;\n\nb) Reconhecer a situação de incapacidade do presidente, nos termos do n.º 2 do artigo 16.º;\n\nc) Decidir sobre a suspensão ou destituição do presidente, nos termos do artigo 17.º;\n\nd) Organizar, entre os seus membros e por solicitação do conselho geral, a assembleia de representantes a que se refere o n.º 2 do artigo 46.º da [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro;\n\ne) Pronunciar-se sobre outros assuntos que lhe sejam apresentados pelo presidente.\n\n2 - Para efeitos da alínea a) do número anterior, quando tal se tornar necessário para assegurar a composição do colégio eleitoral previsto no artigo 19.º da [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro, a assembleia do Instituto deve proceder ao preenchimento dos lugares em falta, chamando os primeiros elementos da lista de suplentes dos corpos em que se verifique a falta.\n\n3 - Para efeitos da alínea d) do n.º 1, da assembleia de representantes participam, nos casos aplicáveis, os primeiros elementos representativos dos diferentes corpos de cada uma das unidades orgânicas."
+  },
+  "46bedcf8fb78427f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Presidente"
+  },
+  "92c9a37566b49037": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Eleição\n\n1 - O presidente é eleito pela Assembleia do Instituto, nos termos previstos nos n.os 1 e 2 do artigo 19.º da [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro.\n\n2 - O processo eleitoral terá início 60 dias antes de concluído o mandato do presidente cessante.\n\n3 - Os candidatos deverão apresentar a declaração de candidatura à Assembleia do Instituto no prazo de 15 dias após o início do processo eleitoral, subscrita por, pelo menos, 50 docentes, 50 alunos e 16 funcionários, bem como as bases programáticas da respectiva candidatura.\n\n4 - Se no prazo referido no número anterior não surgirem candidaturas, iniciar-se-á um novo período igualmente de 15 dias, em que serão admitidas candidaturas subscritas por metade dos elementos indicados, para cada corpo, no número anterior.\n\n5 - Será eleito o candidato que à primeira volta obtenha a maioria absoluta dos votos dos membros da assembleia em efectividade de funções; caso isso não se verifique, haverá uma segunda volta entre os dois candidatos mais votados.\n\n6 - Caso não haja candidaturas, a votação pode incidir sobre qualquer professor-coordenador do Instituto que não tenha previamente afirmado a sua indisponibilidade.\n\n7 - Para efeitos de aplicação do número anterior, se na primeira votação não houver maioria absoluta nem um mínimo de dois professores com, pelo menos, 10% dos votos expressos, terão lugar votações sucessivas, com eliminação dos menos votados até que seja verificada aquela condição e, então, o presidente será escolhido de entre esses professores, de acordo com o procedimento do n.º 5.\n\n8 - O presidente cessante comunicará, no prazo de cinco dias, o resultado ao Ministro da Educação, para efeitos do disposto na parte final do n.º 2 do artigo 119.º da [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro.\n\n9 - O novo presidente toma posse perante a assembleia do Instituto nos termos que o regulamento desta definir."
+  },
+  "d321efb497eb4906": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Vice-presidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Vice-presidentes\n\n1 - O presidente é coadjuvado por dois vice-presidentes por ele escolhidos e nomeados de entre os elementos do corpo docente das unidades orgânicas do Instituto.\n\n2 - O presidente pode delegar parte das suas competências nos vice-presidentes, um dos quais, por ele designado, o substitui nas suas ausências e impedimentos.\n\n3 - Os vice-presidentes podem ser exonerados a todo o tempo pelo presidente deixando de exercer funções logo que cesse o mandato do presidente."
+  },
+  "61c9bca250ea43f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Regime de prestação de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime de prestação de serviço\n\nAs funções de presidente e de vice-presidente são exercidas em regime de dedicação exclusiva e com dispensa da prestação de serviço docente, no todo ou em parte, conforme deliberação do conselho geral."
+  },
+  "1b60081ccce13ca4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competências\n\n1 - O presidente dirige, orienta e coordena as actividades e serviços do Instituto, de modo a imprimir-lhes unidade, continuidade e eficiência, competindo-lhe, designadamente:\n\na) Representar o Instituto em juízo e fora dele;\n\nb) Zelar pela observância das normas legais e regulamentares aplicáveis;\n\nc) Presidir a todos os órgãos colegiais do Instituto e velar pela execução das suas deliberações;\n\nd) Propor à assembleia do Instituto as linhas gerais de orientação das suas actividades;\n\ne) Apresentar ao conselho geral os planos de actividade e os respectivos relatórios de execução;\n\nf) Homologar os estatutos das unidades orgânicas que integram o Instituto;\n\ng) Homologar a constituição e empossar os membros dos órgãos de governo das unidades orgânicas que integram o Instituto, só o podendo recusar com base em vício de forma do respectivo processo eleitoral;\n\nh) Superintender na gestão académica, administrativa e financeira, mormente no que respeita à contratação e provimento de pessoal, a júris de provas públicas para efeitos de recrutamento ou habilitação às categorias de professor, remunerações, abonos, licenças e dispensas de serviço, sem prejuízo da competência própria de outros órgãos e da capacidade de delegação, nos termos dos Estatutos;\n\ni) Submeter ao Ministro da Educação todas as questões que careçam de resolução pela tutela;\n\nj) Promover o processo eleitoral previsto no artigo 12.º;\n\nl) Submeter ao conselho geral e à assembleia do Instituto os assuntos que entender convenientes;\n\nm) Definir e orientar o apoio a conceder aos estudantes no âmbito das actividades de acção social escolar, procurando harmonizar os respectivos critérios de aplicação;\n\nn) Reconhecer, em todas as circunstâncias previstas na lei, a urgente conveniência de serviço no provimento de pessoal.\n\n2 - Compete ainda ao presidente exercer todas as competências que, cabendo no âmbito das atribuições do Instituto, não sejam, por lei ou por estes Estatutos, cometidas a outros órgãos.\n\n3 - O presidente, ouvido o conselho geral, pode delegar, nos órgãos de gestão das unidades orgânicas ou nos seus presidentes, as competências que favoreçam uma administração mais eficiente.\n\n4 - O presidente pode delegar a presidência dos júris referidos na alínea h) do n.º 1 que lhe seja cometida, a qual deverá recair num vice-presidente, no director, no presidente do conselho directivo ou no presidente do conselho científico da escola superior a que respeitem."
+  },
+  "84cd0d5e0292ff45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Incapacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Incapacidade\n\n1 - Quando se verifique a incapacidade temporária do presidente, assumirá as suas funções o vice-presidente por ele designado.\n\n2 - Caso a situação de incapacidade se prolongue por mais de 90 dias, a assembleia do Instituto deverá pronunciar-se acerca da substituição e da oportunidade de um novo processo eleitoral.\n\n3 - Em caso de vacatura, renúncia ou reconhecimento pela assembleia do Instituto da situação de incapacidade permanente do presidente, deverá este órgão determinar a organização de um novo processo eleitoral no prazo máximo de 30 dias."
+  },
+  "b9791cb4190afd5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Responsabilidade\n\n1 - Em situação de gravidade para a vida do Instituto, a assembleia do Instituto, convocada por dois terços dos seus membros de que constem representantes de todos os corpos, poderá deliberar a suspensão do presidente do exercício das suas funções e, após processo legal, a sua destituição.\n\n2 - A deliberação a que se refere o número anterior só pode ser tomada por maioria qualificada de dois terços dos membros efectivos da assembleia."
+  },
+  "7490fbadfc7e00bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Administrador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Administrador\n\n1 - Para coadjuvar o presidente em matérias de natureza predominantemente administrativa ou financeira, o Instituto dispõe de um administrador.\n\n2 - O administrador exerce as suas funções em regime de comissão de serviço, nos termos do [Decreto-Lei n.º 260/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1988-372634), de 23 de Julho, e do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro."
+  },
+  "2a663c84b5d9dd19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho geral"
+  },
+  "6a7ca8ab0ceca151": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Composição\n\n1 - Constituem o conselho geral do Instituto:\n\na) O presidente;\n\nb) Os vice-presidentes;\n\nc) Um representante da Associação de Estudantes do Instituto;\n\nd) Os presidentes dos conselhos directivos ou os directores das escolas que integram o Instituto;\n\ne) Dois representantes dos docentes de cada uma das escolas do Instituto;\n\nf) Dois representantes dos estudantes de cada uma das escolas do Instituto;\n\ng) Um representante do pessoal não docente;\n\nh) Representantes da comunidade e das actividades e sectores profissionais relacionados com as áreas de ensino do Instituto, em número não superior ao das escolas integradas no Instituto;\n\ni) O administrador.\n\n2 - O conselho pode convidar a participar nas suas reuniões individualidades cuja presença seja considerada vantajosa para análise dos assuntos em apreciação."
+  },
+  "a2a4ff61c22541c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências\n\n1 - Compete ao conselho geral:\n\na) Estabelecer normas de funcionamento do Instituto, orientadas por preocupações de coordenação das unidades orgânicas que o integram;\n\nb) Aprovar os planos de actividade do Instituto;\n\nc) Apreciar os relatórios anuais de execução;\n\nd) Propor a criação, alteração ou extinção das unidades orgânicas do Instituto;\n\ne) Solicitar a organização e convocar a assembleia de representantes a que se refere a alínea d) do n.º 1 do artigo 11.º;\n\nf) Aprovar alterações aos quadros de pessoal, sob proposta fundamentada do presidente ou da respectiva unidade orgânica;\n\ng) Definir as medidas adequadas ao funcionamento das unidades orgânicas do Instituto, nomeadamente no que respeita à criação ou reorganização de serviços técnicos e administrativos;\n\nh) Propor, nos termos da lei, as propinas devidas pelos alunos dos vários cursos, assim como as propinas suplementares relativas a inscrições, realização ou repetição de exames e outros actos de prestação de serviços aos alunos;\n\ni) Regulamentar o processamento de cerimónias académicas;\n\nj) Ocupar-se dos restantes assuntos que lhe forem apresentados pelo presidente.\n\n2 - Compete ainda ao conselho geral exercer o poder disciplinar, em conformidade com o disposto no artigo 47.º da [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro."
+  },
+  "344052d6b47b654c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Comissão permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Comissão permanente\n\n1 - Os elementos referidos nas alíneas a), b), c), d) e i) do n.º 1 do artigo 19.º constituem a comissão permanente do conselho geral do Instituto.\n\n2 - A comissão permanente coadjuva o presidente na administração global do Instituto, incumbindo-lhe, designadamente:\n\na) Apreciar as propostas de planos e de programas de actividade de cada uma das unidades orgânicas, elaborar os planos globais e os programas do Instituto e propor a afectação das correspondentes dotações orçamentais;\n\nb) Elaborar os relatórios de execução, com base nos relatórios de cada uma das unidades orgânicas;\n\nc) Habilitar o presidente a decidir sobre os acordos de cooperação que o Instituto ou quaisquer das suas unidades orgânicas pretendam celebrar com terceiros;\n\nd) Emitir parecer sobre os assuntos que lhe sejam presentes pelo presidente."
+  },
+  "6d1373154bca71b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Eleição dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Eleição dos membros\n\n1 - A eleição do representante mencionado na alínea g) do n.º 1 do artigo 19.º será regida pelo disposto no regulamento interno do conselho geral.\n\n2 - A designação dos representantes mencionados na alínea h) do n.º 1 do artigo 19.º será regida pelo disposto no regulamento interno do conselho geral.\n\n3 - A eleição dos representantes mencionados nas alíneas e) e f) do n.º 1 do artigo 19.º será regida de acordo com o disposto no estatuto da respectiva unidade orgânica.\n\n4 - Nos casos referidos nos n.os 1 e 3 serão sempre eleitos representantes suplentes em número igual ao dos efectivos, para efeitos de substituição em caso de perda de mandato.\n\n5 - O mandato dos membros do conselho geral, que é renovável, é de:\n\na) Dois anos para os representantes dos docentes e funcionários;\n\nb) Um ano para os representantes dos discentes."
+  },
+  "4bdf5b12e6a88110": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regulamento interno\n\nO conselho geral elaborará um regulamento interno, que será aprovado por maioria absoluta dos seus membros."
+  },
+  "e184489d08a97257": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Poder disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Poder disciplinar\n\n1 - Para efeitos do exercício do poder disciplinar previsto no n.º 2 do artigo 20.º, é constituída uma secção específica do conselho geral, que funciona a título permanente.\n\n2 - Constituem a secção específica referida no número anterior:\n\na) O presidente ou um vice-presidente por ele designado;\n\nb) Dois professores ou equiparados;\n\nc) Dois assistentes ou equiparados;\n\nd) Dois estudantes;\n\ne) Dois funcionários.\n\n2 - Os elementos referidos nas alíneas b), c), d) e e) do número anterior são designados pelo conselho geral de entre os seus membros efectivos e suplentes."
+  },
+  "13a327257a0a4c10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Conselho administrativo"
+  },
+  "6172fa6be0081458": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Composição\n\n1 - Integram o conselho administrativo do Instituto:\n\na) O presidente;\n\nb) Os vice-presidentes;\n\nc) O administrador, que servirá de secretário.\n\n2 - Compete ao conselho administrativo:\n\na) Promover a elaboração dos planos financeiros anuais e plurianuais, de acordo com os planos de actividade a que se refere a alínea a) do n.º 2 do artigo 24.º da [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro;\n\nb) Promover a elaboração dos projectos de orçamento, bem como a sua afectação, logo que aprovada, às unidades orgânicas e aos serviços do Instituto;\n\nc) Requisitar à competente delegação da Direcção-Geral da Contabilidade Pública as importâncias das dotações inscritas no Orçamento do Estado a favor do Instituto;\n\nd) Promover a arrecadação de receitas;\n\ne) Deliberar sobre as aquisições de bens e serviços indispensáveis ao funcionamento do Instituto e promover essas aquisições;\n\nf) Verificar a legalidade das despesas e autorizar a sua realização e pagamento;\n\ng) Superintender na organização anual da conta de gerência e submetê-la a julgamento do Tribunal de Contas no prazo legalmente estabelecido;\n\nh) Autorizar os actos de administração relativos ao património do Instituto;\n\ni) Promover a organização e a permanente actualização do inventário e do cadastro dos bens móveis e imóveis do Instituto;\n\nj) Pronunciar-se sobre qualquer assunto, no âmbito da sua competência, que lhe seja apresentado pelo presidente;\n\nk) Proceder à verificação regular dos fundos em cofre e em depósito."
+  },
+  "17a1d7b89318a8dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Deliberações\n\n1 - As deliberações do conselho administrativo são tomadas por maioria simples, sendo os seus membros solidariamente responsáveis por essas deliberações, salvo se não tiverem estado presentes ou se houverem feito exarar em acta a sua discordância.\n\n2 - As actas do conselho administrativo farão menção expressa dos levantamentos de fundos, das despesas e dos pagamentos autorizados.\n\n3 - As requisições de fundos e as autorizações de pagamentos serão assinadas pelo presidente e um qualquer dos outros elementos."
+  },
+  "af668d4f9aae7f54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Serviços centrais do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Serviços centrais do Instituto"
+  },
+  "deeef893609c1260": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Serviços\n\n1 - São serviços centrais do Instituto:\n\na) A Assessoria Jurídica;\n\nb) A Assessoria de Planeamento e Gestão;\n\nc) Os Serviços Administrativos;\n\nd) O Gabinete de Relações Públicas e Cooperação Internacional.\n\n2 - O presidente dispõe de um secretariado com dois elementos, aos quais é aplicável o disposto no n.º 3 do artigo 35.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.\n\n3 - A criação, fusão, subdivisão e extinção de serviços será decidida pelo conselho geral, sob proposta do presidente."
+  },
+  "0ae8d169eecc5f0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Assessoria Jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Assessoria Jurídica\n\n1 - Incumbe à Assessoria Jurídica apoiar o presidente nos domínios de âmbito jurídico e disciplinar.\n\n2 - A Assessoria Jurídica é dirigida por um chefe de divisão."
+  },
+  "ab627aad05ae1212": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Assessoria de Planeamento e Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Assessoria de Planeamento e Gestão\n\n1 - Incumbe à Assessoria de Planeamento e Gestão prestar apoio ao presidente e ao conselho geral nos domínios da elaboração e tratamento estatístico, do planeamento estratégico e do controlo técnico das actividades do Instituto.\n\n2 - A Assessoria de Planeamento e Gestão é dirigida por um director de serviços e integra um núcleo de planeamento global e um núcleo de informática."
+  },
+  "efde85aa84ffc38d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Serviços Administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Serviços Administrativos\n\n1 - Os Serviços Administrativos exercem a sua acção nos domínios do expediente e pessoal e da administração financeira e patrimonial.\n\n2 - Os Serviços Administrativos são dirigidos pelo administrador e compreendem:\n\na) A Repartição de Expediente e Arquivo, com as Secções de Expediente e de Arquivo;\n\nb) A Repartição de Contabilidade e Património, com as Secções de Contabilidade, Orçamento e Conta e de Economato e de Inventário;\n\nc) A Divisão de Recursos Humanos, com as Secções de Pessoal Docente e de Pessoal não Docente.\n\n3 - É aplicável ao recrutamento do chefe da Divisão a que se refere a alínea c) do número anterior o disposto no n.º 7 do artigo 4.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro."
+  },
+  "a4355d213e535bc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Gabinete de Relações Públicas e Cooperação Internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Gabinete de Relações Públicas e Cooperação Internacional\n\n1 - Incumbe ao Gabinete de Relações Públicas e Cooperação Internacional apoiar o presidente e o conselho geral no tratamento de todas as questões respeitantes às relações do Instituto com a comunidade, nos planos nacional e internacional.\n\n2 - O Gabinete de Relações Públicas e Cooperação Internacional é dirigido por um director de serviços e inclui o Núcleo de Relações Exteriores e o Núcleo de Comunicação Multi-Media."
+  },
+  "f3ee1f061c8e8aa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Unidades orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Unidades orgânicas"
+  },
+  "be9f9094db489d8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Escolas superiores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Escolas superiores\n\n1 - O Instituto integra as seguintes unidades orgânicas:\n\na) Escola Superior de Música;\n\nb) Escola Superior de Teatro e Cinema;\n\nc) Escola Superior de Dança;\n\nd) Escola Superior de Educação;\n\ne) Escola Superior de Comunicação Social;\n\nf) Instituto Superior de Contabilidade e Administração de Lisboa;\n\ng) Instituto Superior de Engenharia de Lisboa.\n\n2 - O IPL pode propor a criação ou integração de novas unidades orgânicas, bem como a modificação ou extinção das existentes."
+  },
+  "8db789a9c8ce6086": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Autonomias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Autonomias\n\n1 - As escolas superiores referidas no n.º 1 do artigo 32.º são pessoas colectivas de direito público que gozam, nas suas áreas específicas de intervenção e no âmbito dos cursos instituídos, de autonomia científica, pedagógica, administrativa e financeira, nos termos da lei, dos presentes Estatutos e dos estatutos próprios.\n\n2 - As escolas superiores são responsáveis pelo uso da sua autonomia e deverão colaborar para a plena realização dos fins prosseguidos pelo Instituto."
+  },
+  "bbdc095797d9111e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Órgãos das escolas superiores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Órgãos das escolas superiores\n\nSão órgãos das escolas superiores:\n\na) A assembleia de representantes;\n\nb) O director ou o conselho directivo;\n\nc) O conselho científico;\n\nd) O conselho pedagógico;\n\ne) O conselho consultivo;\n\nf) O conselho administrativo.\n\n2 - Em caso de, nos respectivos estatutos, alguma das escolas superiores usar da faculdade conferida pelo n.º 2 do artigo 8.º da [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606) no respeitante a matéria de natureza financeira, pode ser dispensado o órgão referido na alínea e) do número anterior.\n\n3 - Nos respectivos estatutos as escolas superiores podem prever a identificação dos conselhos científico e pedagógico, constituindo um conselho pedagógico-científico.\n\n4 - Nos respectivos estatutos, cada escola superior pode prever ainda a existência de outros órgãos, designadamente para promoção de uma mais estreita ligação com a comunidade, conferindo-lhe as autonomias adequadas à realização dos seus objectivos."
+  },
+  "91346076a24f0ef7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Assembleia de representantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Assembleia de representantes\n\nCompete à assembleia de representantes:\n\na) Eleger e destituir o director ou o conselho directivo, exigindo os actos de destituição a respectiva fundamentação e aprovação por dois terços dos membros efectivos da assembleia;\n\nb) Rever os estatutos da escola;\n\nc) Apreciar e aprovar o plano de actividades, apreciar o relatório anual e formular propostas sobre a orientação e desenvolvimento da escola;\n\nd) Fiscalizar, genericamente, os actos do director ou conselho directivo, com salvaguarda do exercício efectivo da competência própria deste."
+  },
+  "e43838e037794b2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Outros órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Outros órgãos\n\nAos órgãos referidos nas alíneas b) a f) do n.º 1 do artigo 34.º aplica-se o disposto nos artigos 29.º a 40.º da [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro."
+  },
+  "f2a21cd2bac3aef4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Estatutos das escolas superiores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Estatutos das escolas superiores\n\n1 - Sem prejuízo do disposto na lei e nos presentes Estatutos, as escolas superiores disporão de estatutos próprios, que serão homologados pelo presidente, o qual promoverá a sua publicação no Diário da República.\n\n2 - Os estatutos de cada escola definirão a estrutura de gestão adoptado, bem como a sua organização interna e os princípios que devem orientar as actividades próprias."
+  },
+  "da86f3bc1f94ba82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Aprovação dos estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Aprovação dos estatutos\n\n1 - Os estatutos de cada escola superior serão elaborados e aprovados nos 120 dias posteriores à entrada em vigor dos presentes Estatutos ou até final do regime de instalação no respeitante às escolas que o terminem posteriormente.\n\n2 - A aprovação dos estatutos do Instituto Superior de Engenharia de Lisboa e do Instituto Superior de Contabilidade e Administração de Lisboa é feita pelas respectivas assembleias de representantes em exercício de funções.\n\n3 - A aprovação dos estatutos das restantes unidades orgânicas do Instituto é feita por uma assembleia com a seguinte constituição:\n\na) O presidente do conselho directivo ou comissão instaladora;\n\nb) O presidente do conselho científico;\n\nc) O presidente do conselho pedagógico;\n\nd) O presidente da associação de estudantes;\n\ne) O secretário ou funcionário administrativo mais qualificado;\n\nf) Cinco professores ou equiparados, eleitos pelos seus pares;\n\ng) Cinco assistentes ou equiparados, eleitos pelos seus pares;\n\nh) Dez alunos, eleitos pelo corpo discente;\n\ni) Dois funcionários, eleitos pelos seus pares.\n\n4 - Nos casos em que não seja possível cumprir o disposto na alínea f), o número de professores em falta será compensado aumentando o número de representantes eleitos nos termos da alínea g).\n\n5 - Em casos idênticos aplica-se o disposto nos n.os 3, 4 e 5 do artigo 8.º\n\n6 - Compete às comissões instaladoras ou conselhos directivos promover a elaboração do projecto de estatutos e a organização dos processos eleitorais conducentes à constituição da assembleia prevista no n.º 3."
+  },
+  "062515b603949d8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Reserva dos estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Reserva dos estatutos\n\nOs estatutos das escolas superiores devem respeitar, além das disposições constantes da lei e dos presentes estatutos, os seguintes princípios:\n\na) Representação de docentes, discentes e funcionários na assembleia de representantes;\n\nb) Paridade entre docentes e discentes na assembleia de representantes, devendo a representação dos funcionários ser metade da de qualquer das anteriores;\n\nc) Fixação da duração dos mandatos em, pelo menos, dois anos, salvo no que respeita à representação do corpo de discentes;\n\nd) Eleição dos membros da assembleia de representantes, dos do conselho directivo, quando existir, e dos do conselho pedagógico, por corpos;\n\ne) Aplicação do sistema proporcional e do método de Hondt às eleições para a assembleia de representantes."
+  },
+  "171ddf69019c4a7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Gestão financeira e patrimonial"
+  },
+  "0f35ee622762d267": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Património do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Património do Instituto\n\n1 - Constitui património do IPL o conjunto de bens e direitos que pelo Estado ou outras entidades públicas, privadas ou cooperativas sejam afectados à realização dos seus fins.\n\n2 - São receitas do Instituo:\n\na) As dotações que lhe forem concedidas pelo Estado;\n\nb) Os rendimentos dos bens próprios ou de que tenha a fruição;\n\nc) O produto dos serviços prestados a entidades públicas ou privadas, nacionais ou estrangeiras;\n\nd) O produto da venda de publicações;\n\ne) As receitas provenientes do pagamento de propinas;\n\nf) O produto da venda de elementos patrimoniais ou de material inservível ou dispensável;\n\ng) Os subsídios, subvenções, comparticipações, doações, heranças e legados;\n\nh) Os juros de contas de depósitos;\n\ni) Os saldos da conta de gerência de anos anteriores;\n\nj) O produto de taxas, emolumentos, multas, penalidades e quaisquer outras receitas que lhe advenham nos termos da lei;\n\nl) O produto de empréstimos contraídos;\n\nm) Quaisquer outras receitas que legalmente lhe advenham.\n\n3 - A prestação de serviços à comunidade será objecto de regulamento aprovado pelo conselho geral."
+  },
+  "445594abedb270de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Instrumentos de gestão\n\n1 - A gestão do Instituto, subordinada a princípios de gestão por objectivos, adopta os seguintes instrumentos:\n\na) Planos de actividade corrente;\n\nb) Planos de desenvolvimento estratégico;\n\nc) Orçamentos constantes do Orçamento do Estado;\n\nd) Orçamentos privativos;\n\ne) Relatórios de actividades e financeiros.\n\n2 - Os planos de desenvolvimento estratégico, de base móvel e relativos a períodos nunca inferiores a cinco anos, serão actualizados anualmente, tendo em consideração o planeamento geral do ensino superior, da investigação científica e das acções de extensão."
+  },
+  "e3f76c1dcd440505": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Organização contabilística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Organização contabilística\n\n1 - A organização contabilística do Instituto subordinar-se-á a esquema organizativo que assegure a informação necessária para:\n\na) Fazer prova das despesas realizadas, em conformidade legal;\n\nb) Garantir o conhecimento e controlo permanente das existências de valores do Instituto, bem como das suas obrigações perante terceiros;\n\nc) Assegurar o controlo dos encargos e receitas inerentes a cada unidade orgânica, tendo em vista aferir a racionalidade e eficiência da respectiva gestão;\n\nd) Proporcionar a tomada de decisões, nomeadamente quanto à afectação de recursos;\n\ne) Possibilitar a apresentação de contas ao Tribunal de Contas.\n\n2 - Sem prejuízo da autonomia contabilística inerente à autonomia administrativa e financeira que lhes é outorgada pela lei e por estes Estatutos, as escolas superiores adoptarão planos sectoriais de contabilidade que reúnam os requisitos necessários à organização global das contas do Instituto.\n\n3 - Os planos de contabilidade, geral e sectoriais são aprovados pelo conselho geral."
+  },
+  "6de501c573f5bea5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Relatórios de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Relatórios de actividades\n\n1 - O IPL elaborará anualmente um relatório de actividades em que, nomeadamente, são referidos:\n\na) O desempenho das actividades inerentes aos seus fins, tal como são definidos no artigo 1.º;\n\nb) A evolução da frequência e dos indicadores de sucesso escolar em cada uma das escolas superiores;\n\nc) A caracterização dos recursos disponíveis;\n\nd) A evolução dos planos de desenvolvimento estratégico.\n\n2 - Sempre que possível, o relatório deverá apoiar-se em dados quantificados e reflectir o conteúdo dos relatórios das unidades orgânicas."
+  },
+  "624c3dbcc96637d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Contas anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Contas anuais\n\n1 - Em anexo ao relatório referido no artigo anterior serão apresentadas as contas do exercício anual.\n\n2 - A apresentação das contas referidas no número anterior deve integrar os seguintes documentos:\n\na) Balanço definidor da situação patrimonial do Instituto;\n\nb) Conta do exercício;\n\nc) Balanço de origem e aplicação de fundos."
+  },
+  "6050688a7961ad53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Divulgação\n\nAo relatório e às contas anuais será dada adequada divulgação."
+  },
+  "ce8baa624f1e9593": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Isenções fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Isenções fiscais\n\nO IPL e as suas unidades orgânicas são isentos, nos termos da lei, de impostos, taxas, custas, emolumentos e selos."
+  },
+  "e361a3b3a2b38a2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Avaliação"
+  },
+  "49174c6830ed99fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Avaliação\n\nO IPL definirá e aplicará mecanismos sistemáticos de avaliação das suas actividades."
+  },
+  "76e6d7fd81abaa1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Revisão dos Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Revisão dos Estatutos"
+  },
+  "892d4013bd522480": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Períodos de revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Períodos de revisão\n\nOs Estatutos do IPL podem ser registos nos termos do artigo 46.º da [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro."
+  },
+  "0914c836925c4509": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Disposições finais e transitórias"
+  },
+  "f0ceb6f7792672e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Quadros de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Quadros de pessoal\n\n1 - Os quadros de pessoal docente do Instituto são discriminados por escolas.\n\n2 - O pessoal não docente do Instituto integra um quadro único, sem prejuízo da sua afectação obrigatoriamente discriminada pelas diferentes unidades orgânicas.\n\n3 - Os quadros de pessoal do Instituto e suas unidades orgânicas são revistos de dois em dois anos."
+  },
+  "3851acfd44cf11a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Eleições para a primeira assembleia do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Eleições para a primeira assembleia do Instituto\n\n1 - As eleições para a constituição da primeira assembleia do Instituto deverão realizar-se no prazo de 60 dias após a data de entrada em vigor dos presentes Estatutos.\n\n2 - Para os efeitos referidos no número anterior, os presidentes das comissões instaladoras do Instituto e das escolas substituirão, respectivamente, os elementos referidos nas alíneas a) dos n.os 1 e 2 do artigo 8.º\n\n3 - Em todos os casos, a ausência de regulamentos eleitorais que possibilitem a concretização do disposto no número anterior será suprida por despacho do presidente da comissão instaladora do Instituto."
+  },
+  "be41f54df05c9ea8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Eleição do primeiro presidente do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Eleição do primeiro presidente do Instituto\n\n1 - A partir da data de constituição da primeira assembleia do Instituto inicia-se o prazo previsto no n.º 2 do artigo 13.º, para efeitos da eleição do presidente do Instituto.\n\n2 - Compete ao presidente da comissão instaladora do Instituto a realização das diligências necessárias ao processo eleitoral referido no número anterior."
+  },
+  "46e642dd33eb869f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Cessação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Cessação de funções\n\nO presidente da comissão instaladora do Instituto cessa funções com a tomada de posse do primeiro presidente eleito."
+  },
+  "ddf02ffe37666ff4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Final do regime de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Final do regime de instalação\n\n1 - As escolas superiores do IPL, em regime de instalação, cessam esse regime logo que compridas as condições estabelecidas no artigo 43.º da [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro.\n\n2 - Em todos os casos, o período de vigência do regime de instalação não pode exceder oito anos ou, se entretanto ocorrer o termo deste prazo, um ano após a entrada em vigor dos presentes Estatutos.\n\n3 - Enquanto vigorar o regime de instalação em uma ou mais escolas superiores do Instituto, a respectiva gestão administrativa e financeira é assegurada pelo conselho administrativo do Instituto.\n\n4 - Para os efeitos referidos no número anterior, os presidentes das comissões instaladoras das escolas em regime de instalação integram, por inerência e enquanto esse regime permanecer, o conselho administrativo do Instituto.\n\n5 - Para todos os efeitos legais, o presidente do Instituto exerce, perante as escolas em regime de instalação, as funções que lhe são próprias e ainda as que a lei comete aos presidentes das comissões instaladoras dos institutos politécnicos."
+  },
+  "99e98f43dd4f91d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Modelos institucionais de organização, gestão e funcionamento das escolas e demais unidades orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Modelos institucionais de organização, gestão e funcionamento das escolas e demais unidades orgânicas\n\n1 - Nos 60 dias subsequentes à homologação do último dos estatutos previstos no n.º 1 do artigo 37.º, a assembleia do Instituto aprovará o regime de enquadramento dos modelos institucionais de organização, gestão e funcionamento das escolas e demais unidades orgânicas.\n\n2 - O regime a aprovar nos termos do número anterior atenderá à natureza específica de cada uma das escolas e demais unidades orgânicas do Instituto, visando a sua articulação global.\n\n3 - Uma vez aprovado pela Assembleia do Instituto, o regime será submetido a homologação ministerial, após a qual passará a fazer parte integrante dos presentes Estatutos."
+  },
+  "dfde3b1977585fc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Entrada em vigor\n\nOs presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República."
+  },
+  "e905cd4b63c63ef5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Unidades orgânicas",
+   "in_force_from": "2007-08-16",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 31/2007](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-2007-2933982), publicado em 2007-08-16."
+   ],
+   "markdown": "###### Artigo 32.º — Unidades orgânicas\n\n1 - O Instituto integra as seguintes unidades orgânicas:\n\na) Escola Superior de Música;\n\nb) Escola Superior de Teatro e Cinema;\n\nc) Escola Superior de Dança;\n\nd) Escola Superior de Educação;\n\ne) Escola Superior de Comunicação Social;\n\nf) Instituto Superior de Contabilidade e Administração de Lisboa;\n\ng) Instituto Superior de Engenharia de Lisboa.\n\nh) Escola Superior de Tecnologia da Saúde de Lisboa.\n\n2 - O IPL pode propor a criação ou integração de novas unidades orgânicas, bem como a modificação ou extinção das existentes.\n\n> Alterado pelo/a [Despacho Normativo n.º 31/2007](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-2007-2933982), publicado em 2007-08-16."
+  }
+ }
+}

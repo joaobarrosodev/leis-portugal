@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:407681:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 55/91 transforma a ENVC, E. P., em sociedade anónima (art. 1.º) e aprova novos estatutos em anexo, mas não contém nenhuma instrução textual dirigida ao Decreto-Lei n.º 850/76 (nem substituição, aditamento ou revogação expressa dos seus artigos); a substituição do regime é tácita/não textual, pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DL 55/91), arts. 1.º a 9.º e estatutos anexos: transformação em S. A., sucessão, capital, órgãos sociais e aprovação de novos estatutos; nenhuma instrução textual sobre artigos do DL 850/76 — nada aplicado, registado em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

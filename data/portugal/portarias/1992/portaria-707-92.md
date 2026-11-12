@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-09-21'
+version_history:
+  file: portaria-707-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-07-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-09-21'
+    amending: pt:dre:219373:por
+    amending_title: Portaria n.º 911-A/92; Portaria n.º 911-A/92
+    changes:
+    - Adita Artigo 38.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/707/1992/07/09/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:26:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 911-A/92; Portaria n.º
+    911-A/92. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-707-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -666,6 +681,26 @@ c) Os estudantes que só reuniram as condições de candidatura após o fim do p
 5 - Na 2.ª fase existirá um único contingente e não serão aplicados os regimes preferenciais.
 
 6 - À 2.ª fase aplicar-se-ão, com as necessárias adaptações, as regras da 1.ª fase.
+
+###### Artigo 38.º-A — Par 0802 021
+
+1 - Para além das vagas previstas no n.º 1 do artigo 38.º do regulamento aprovado pela [Portaria n.º 707/92](https://diariodarepublica.pt/dr/detalhe/portaria/707-1992-616639), de 9 de Julho, serão colocadas a concurso na 2.ª fase da candidatura 40 vagas para o curso de licenciatura em Arquitectura de Design de Moda da Faculdade de Arquitectura da Universidade Técnica de Lisboa (código 0802 021).
+
+2 - Poderão igualmente apresentar-se à 2.ª fase da candidatura os candidatos colocados na 1.ª fase, desde que tal candidatura se destine exclusivamente ao par estabelecimento/curso 0802 021.
+
+3 - Tendo em vista assegurar a viabilização do disposto neste artigo, dentro do princípio da igualdade de oportunidades, a Faculdade de Arquitectura da Universidade Técnica de Lisboa procederá à fixação e divulgação adequadas de um prazo especial para a realização do pré-requisito H, exigido para o acesso ao curso de Arquitectura de Design de Moda.
+
+4 - A apresentação de candidatura nos termos do n.º 2 deste artigo não dispensa os estudantes em causa de procederem, nos termos e prazos da lei, à matrícula e inscrição nos pares estabelecimento/curso em que hajam sido colocados na 1.ª fase da candidatura.
+
+5 - Os estudantes que, tendo apresentado a sua candidatura ao abrigo do n.º 2 deste artigo, venham a ser colocados no par estabelecimento/curso 0802 021 deverão, dentro do prazo de matrícula da 2.ª fase:
+
+a) Proceder à anulação da matrícula e inscrição no par estabelecimento/curso em que haviam sido colocados na 1.ª fase;
+
+b) Proceder à matrícula e inscrição no par 0802 021.
+
+6 - As vagas libertadas pelos estudantes a que se refere o número anterior serão adicionadas às vagas a colocar a concurso para a 3.ª fase da candidatura a que se refere o artigo 48.º
+
+> Aditado pelo/a [Portaria n.º 911-A/92](https://diariodarepublica.pt/dr/detalhe/portaria/911-a-1992-219373), publicado em 1992-09-21.
 
 ### CAPÍTULO VI — Matrícula e inscrição
 

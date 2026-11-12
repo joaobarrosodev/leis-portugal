@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:660760:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações incidem sobre o quadro de pessoal anexo, que só vem em imagem (ver documento original): alteradores 1 (Portaria 368/84, quadro anexo noutras categorias de pessoal), 2 (Portaria 957/84, quadro do pessoal médico alterado como segue, em imagem), 3 (Portaria 442/85, pessoal técnico, quadro em imagem) e 4 (Portaria 1032/95, substitui todo o quadro do Hospital pelo quadro anexo em imagem; os anexos I e II são novos e do diploma alterador, não do texto da Portaria 52/84). Nada se pode aplicar ao texto com segurança.",
+  "instrucoes": [
+    "Alt. 1: alteração do quadro de pessoal (técnico superior, operário, auxiliar e outro) por quadro anexo em imagem — não aplicada.",
+    "Alt. 2: alteração do quadro do pessoal médico contemplado na Portaria 52/84, quadro em imagem — não aplicada.",
+    "Alt. 3: alteração do quadro na parte do pessoal técnico, quadro em imagem — não aplicada.",
+    "Alt. 4: substituição de todo o quadro de pessoal pelo quadro anexo em imagem — não aplicada; anexos I e II pertencem ao próprio alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

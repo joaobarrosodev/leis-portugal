@@ -1,0 +1,75 @@
+{
+  "id": "pt:dre:179803:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "a) (Revogada.)",
+      "alterador": 1
+    },
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "i) (Revogada.)",
+      "alterador": 2
+    },
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "g) (Revogada.)",
+      "alterador": 3
+    },
+    {
+      "de": 15,
+      "ate": 15,
+      "texto": "h) (Revogada.)",
+      "alterador": 4
+    },
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "c) (Revogada.)",
+      "alterador": 5
+    },
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "d) (Revogada.)",
+      "alterador": 6
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "e) (Revogada.)",
+      "alterador": 7
+    },
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "f) (Revogada.)",
+      "alterador": 8
+    },
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "b) (Revogada.)",
+      "alterador": 9
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 7 (Portaria 1315/2006), n.º 7.º b): pela letra revoga 'as restantes portarias mencionadas no n.º 5.º', o que incluiria a Portaria 202/92 por inteiro; não aplicado como revogação total por ser contraditório com a revogação parcial feita pelas portarias do mesmo dia (alteradores 8 e 9) e com o curso j) que nenhuma extingue - aplicada só a revogação da alínea e) (técnico multimédia). Os planos de estudo (anexo em imagem, unidade 24) também não podem ser tocados.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 891/2004), 6.º: extingue o curso de técnico de indústrias agro-alimentares e revoga parcialmente a Portaria 202/92 nessa parte - alínea a) (unidade 8) revogada.",
+    "Alterador 2 (Portaria 913/2005), 6.º e 7.º: extingue Técnico de Informática/Gestão e revoga a 202/92 nessa parte - alínea i) (unidade 16) revogada.",
+    "Alterador 3 (Portaria 1286/2006), 5.º e 7.º a): extingue técnico de comunicação/comunicação social, revogação parcial - alínea g) (unidade 14) revogada.",
+    "Alterador 4 (Portaria 1278/2006), 5.º e 7.º a): extingue técnico da pedra/restauro e conservação, revogação parcial - alínea h) (unidade 15) revogada.",
+    "Alterador 5 (Portaria 1270/2006), 5.º e 7.º a): extingue técnico de museologia e património cultural, revogação parcial - alínea c) (unidade 10) revogada.",
+    "Alterador 6 (Portaria 1305/2006), 5.º e 7.º a): extingue técnico de informação - BAD/biblioteca e serviços de documentação, revogação parcial - alínea d) (unidade 11) revogada.",
+    "Alterador 7 (Portaria 1315/2006), 5.º e 7.º b): extingue técnico de multimédia criado pela 202/92 - alínea e) (unidade 12) revogada; a revogação total literal da 202/92 pela alínea b) não aplicada (ver nao_aplicavel).",
+    "Alterador 8 (Portaria 1316/2006), 5.º e 7.º a): extingue técnico de hotelaria/recepção e atendimento, revogação parcial - alínea f) (unidade 13) revogada.",
+    "Alterador 9 (Portaria 1319/2006), 5.º e 7.º a): extingue técnico de hotelaria/restauração-organização e controlo, revogação parcial - alínea b) (unidade 9) revogada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

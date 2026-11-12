@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:382787:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 77/97 (alterador 4), artigo 14.º, n.º 2, alínea a), revoga por inteiro o Decreto-Lei n.º 143/79, de 23 de Maio (com as Portarias n.os 346/84 e 367/86 na parte rodoviária), na data de entrada em vigor da portaria prevista no n.º 4 do artigo 1.º (RPE): todo o texto do original fica revogado, pelo que não se devolvem alterações.",
+  "instrucoes": [
+    "Alterador 1 (DL 334/83) art. 3.º: nova redação do artigo 41.º do RTPEE (sanções remetem para o Regulamento sobre a Fiscalização de Produtos Explosivos) — não devolvido por o original estar revogado por inteiro",
+    "Alterador 2 (Portaria 346/84): novas redações dos arts. 3.º n.º 1 b) e d), 6.º, 20.º n.º 1, 23.º n.º 2, 25.º n.º 1, 26.º n.º 1 (1.º período), aditamento do n.º 9 ao art. 33.º, derrogações ao quadro I, quadro II e apêndices II e III — não devolvido (revogação total)",
+    "Alterador 3 (Portaria 367/86): novas redações dos arts. 1.º n.os 1 e 3, 2.º n.os 1 e 2, 3.º n.º 1, 5.º n.os 2 e 4, 6.º, 9.º, 10.º, 11.º, 12.º, 13.º n.º 4, 14.º, 30.º n.º 3, 33.º n.os 1, 2, 5, 7 e 8; supressão do n.º 2 do art. 20.º e n.º 6 do art. 33.º; substituição de apêndices I e II e quadros I e II (só em imagem); instruções sobre o regulamento ferroviário (DL 144/79) não são do original — não devolvido (revogação total)",
+    "Alterador 4 (DL 77/97) art. 14.º n.º 2 a): revoga todo o DL 143/79 — nao_aplicavel, nada devolvido"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

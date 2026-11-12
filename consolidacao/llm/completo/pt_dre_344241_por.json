@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:344241:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Nenhum alterador dá nova redação ao texto da Lei n.º 47/2010: a Lei n.º 52/2010 (arts. 1.º e 2.º) alarga o âmbito subjetivo por norma autónoma, sem alterar o texto dos artigos 1.º e 2.º; a Lei n.º 83-C/2013 (art. 33.º, n.º 8, e art. 254.º), o DL 18/2016 (art. 97.º), o DL 25/2017 (art. 126.º) e o DL 33/2018 (art. 147.º) determinam a não aplicação ou a eliminação progressiva da redução por normas próprias e temporárias, alterações que não são textuais.",
+  "instrucoes": [
+    "Lei 52/2010, arts. 1.º e 2.º: inclui novos gabinetes no âmbito da lei por norma autónoma; sem alteração textual, nada aplicado",
+    "Lei 83-C/2013, art. 33.º n.º 8: apenas remete para a Lei 47/2010; ignorado",
+    "Lei 83-C/2013, art. 254.º: não aplicação da redução a motoristas e pessoal de apoio em 2014; norma autónoma, não textual",
+    "DL 18/2016, art. 97.º: idem para 2016; não textual",
+    "DL 25/2017, art. 126.º: idem para 2017; não textual",
+    "DL 33/2018, art. 147.º: eliminação progressiva da redução e não aplicação a motoristas; norma autónoma, não textual"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

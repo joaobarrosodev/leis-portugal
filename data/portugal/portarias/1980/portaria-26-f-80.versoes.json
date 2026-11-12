@@ -1,0 +1,296 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:508614:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1980-01-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f91fa145d5f8ef6c",
+    "e565185903377c5b",
+    "aaad91a4bfac4af9",
+    "7f29347eb337c090",
+    "40a40aa147c25dab",
+    "d582208ce9da7fa2",
+    "396cfe66f6d1ddf2",
+    "32ecdd27cd1ae2cd",
+    "d7653d41f74d1558",
+    "f5302a4cb9a82130",
+    "e6411a3b62d9dbc7",
+    "108dab78df2ce4bc",
+    "cb5ba2f91ccd7786",
+    "2e02f16579662407",
+    "a7ea1a917616033a",
+    "dc55fd1f195ccc44",
+    "5f53135e870dd568",
+    "a7e4880da27a9f97",
+    "35ebd2493552696d",
+    "5e47cec2494b1a4b",
+    "94060f85317b6fa1",
+    "4803361a0c98fb76",
+    "6ca522390246bac8",
+    "7cd40162e76bec69",
+    "701e2d4d33259e6a"
+   ]
+  },
+  {
+   "date": "1987-01-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:663354:por",
+     "title": "Portaria n.º 51/87",
+     "published": "1987-01-22",
+     "dre_path": "/dr/detalhe/portaria/51-1987-663354"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "f91fa145d5f8ef6c",
+    "e565185903377c5b",
+    "aaad91a4bfac4af9",
+    "7f29347eb337c090",
+    "40a40aa147c25dab",
+    "d582208ce9da7fa2",
+    "396cfe66f6d1ddf2",
+    "32ecdd27cd1ae2cd",
+    "e0010e967a56267b",
+    "f5302a4cb9a82130",
+    "e6411a3b62d9dbc7",
+    "108dab78df2ce4bc",
+    "cb5ba2f91ccd7786",
+    "2e02f16579662407",
+    "a7ea1a917616033a",
+    "dc55fd1f195ccc44",
+    "5f53135e870dd568",
+    "a7e4880da27a9f97",
+    "35ebd2493552696d",
+    "5e47cec2494b1a4b",
+    "94060f85317b6fa1",
+    "4803361a0c98fb76",
+    "6ca522390246bac8",
+    "7cd40162e76bec69",
+    "701e2d4d33259e6a"
+   ]
+  }
+ ],
+ "fragments": {
+  "f91fa145d5f8ef6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Janeiro\n\nO [Decreto-Lei n.º 622/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/622-1976-430866), de 28 de Julho, criou o Parque Natural da Arrábida considerando a necessidade de proteger os notáveis valores naturais da serra da Arrábida e da região envolvente, bem como a urgência de disciplinar o acesso e uso da região pela urbanização e pelo turismo que, designadamente, têm vindo a comprometer a sua integridade biofísica.\n\nTambém a conservação e salvaguarda do património cultural e a dinamização de vida rural tradicional se impõem como actividades do maior alcance numa visão de política de ambiente e qualidade de vida.\n\nNa sequência dos trabalhos conduzidos desde então pela comissão instaladora, que devotadamente se tem debruçado sobre os inúmeros e graves problemas do Parque, e de acordo com o estipulado no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, foi agora concluído o regulamento geral do Parque, de acordo com um plano de ordenamento preliminar, os quais dotarão o Parque Natural com os seus órgãos definitivos.\n\nAssim:\n\nManda o Governo da República Portuguesa, pelos Secretários de Estado da Administração Pública e do Urbanismo e Ambiente, nos termos do n.º 3 do artigo 9.º do [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, o seguinte:\n\n1 - É aprovado o Regulamento do Parque Natural da Arrábida, que se publica em anexo à presente portaria.\n\n2 - As despesas resultantes da execução do presente diploma são suportadas pelas dotações adequadas do orçamento do Serviço Nacional de Parques, Reservas e Património Paisagístico.\n\n3 - As dúvidas suscitadas na aplicação do Regulamento anexo serão resolvidas por despacho do Secretário de Estado do Urbanismo e Ambiente.\n\nPresidência do Conselho de Ministros e Ministério da Habitação e Obras Públicas, 22 de Novembro de 1979. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro. - O Secretário de Estado do Urbanismo e Ambiente, José Duarte Palma da Silva Bruschy.\n\nREGULAMENTO GERAL"
+  },
+  "e565185903377c5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Atribuições"
+  },
+  "aaad91a4bfac4af9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Objectivos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Objectivos)\n\nA diversidade de aspectos naturais, económicos, sociais e culturais da área do Parque Natural da Arrábida determina como objectivos fundamentais do Parque:\n\na) A protecção da Natureza, desenvolvendo acções tendentes à salvaguarda da flora, principalmente a vegetação clímax ou paraclímax, bem como a fauna que caracteriza a região e a salvaguarda dos aspectos geológicos com interesse científico ou paisagístico;\n\nb) O desenvolvimento rural através da vitalização das actividades económicas ligadas às potencialidades naturais que garantem a evolução equilibrada das paisagens e da vida das comunidades, levando a efeito acções de estímulo e promoção dessas mesmas actividades;\n\nc) A disciplina e a promoção do recreio ao ar livre e das funções pedagógicas do ambiente natural, por forma a que a serra da Arrábida possa ser visitada e apreciada cada vez por maior número de visitantes, sem que daí advenham riscos de degradação física e biológica para as paisagens e ambiente;\n\nd) A animação sócio-cultural, através do relançamento e dignificação da cultura, hábitos e tradições, bem como a possibilidade de acesso à cultura universal;\n\ne) A conservação, renovação e valorização do património arqueológico e arquitectónico, levando a efeito acções de protecção e recuperação de conjuntos edificados ou edifícios isolados, com especial valor, bem como promovendo a realização de uma arquitectura actual integrada na paisagem."
+  },
+  "7f29347eb337c090": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Plano de Ordenamento do Parque)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Plano de Ordenamento do Parque)\n\n1 - O Plano Preliminar de Ordenamento aprovado com este regulamento é um plano com vista a permitir a entrada em funcionamento dos órgãos regulamentares previstos para a organização do Parque Natural.\n\n2 - O ordenamento do Parque Natural da Arrábida prosseguirá com o director e o pessoal do Parque, segundo a orientação do Serviço Nacional de Parques, Reservas e Património Paisagístico, e através de constante acompanhamento por parte do conselho geral, por forma a conseguir-se gradualmente a conservação da Natureza em todo o Parque e uma correcta distribuição das actividades económicas e recreativas."
+  },
+  "40a40aa147c25dab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Equipamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Equipamento)\n\nO equipamento constante do Plano Preliminar de Ordenamento aprovado é o que permitirá iniciar as acções do Parque, mas será revisto e completado à medida que se for dando cumprimento ao n.º 2 do artigo anterior, ouvido sempre o conselho geral."
+  },
+  "d582208ce9da7fa2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Caça)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Caça)\n\nA caça será regulamentada, por proposta do Serviço Nacional de Parques, Reservas e Património Paisagístico e da Direcção-Geral do Ordenamento e Gestão Florestal, por portaria conjunta dos Secretários de Estado do Urbanismo e Ambiente e do Fomento Agrário e Florestal."
+  },
+  "396cfe66f6d1ddf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços"
+  },
+  "32ecdd27cd1ae2cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Órgãos e serviços)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Órgãos e serviços)\n\n1 - O Parque Natural da Arrábida disporá, de acordo com o n.º 1 do artigo 1.º do [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), dos seguintes órgãos e serviços:\n\nDirector;\n\nConselho geral;\n\nComissão científica;\n\nServiços técnicos;\n\nServiços administrativos e auxiliares.\n\n2 - As competências e atribuições dos órgãos do Parque Natural da Arrábida são definidas no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837)."
+  },
+  "d7653d41f74d1558": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Director)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Director)\n\nO director é nomeado pelo Secretário de Estado do Urbanismo e Ambiente, sob proposta do presidente do Serviço Nacional de Parques, Reservas e Património Paisagístico, de acordo com o estabelecido no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837).\n\n1 - O conselho geral será presidido pelo director do Parque e constituído pelos representantes dos seguintes organismos:\n\nDirecção-Geral do Ordenamento e Gestão Florestal, Direcção-Geral do Planeamento Urbanístico, Direcção-Geral dos Edifícios e Monumentos Nacionais, Direcção Regional de Agricultura, Direcção-Geral dos Serviços de Fomento Marítimo, Comissão Regional de Turismo da Serra da Arrábida, Museu de Arqueologia e Etnografia de Setúbal, Centro Juvenil de Setúbal, Liga para a Protecção da Natureza e pelos representantes das seguintes autarquias locais abrangidas na área do Parque:\n\nCâmaras Municipais de Setúbal, Palmela e Sesimbra e Juntas de Freguesia de: Castelo (Sesimbra); S. Pedro e Quinta do Anjo (Palmela); S. Simão, S. Lourenço e Nossa Senhora da Anunciada (Setúbal).\n\n2 - A convocação para as reuniões ordinárias será feita com um mínimo de oito dias de antecedência."
+  },
+  "f5302a4cb9a82130": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Comissão científica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Comissão científica)\n\nA comissão científica será constituída pelos representantes das seguintes entidades:\n\nFaculdade de Ciências de Lisboa;\n\nInstituto Superior de Agronomia;\n\nEscola Superior de Belas Artes de Lisboa;\n\nInstituto Hidrográfico;\n\nInstituto Nacional de Investigação das Pescas;\n\nCentro de Geografia da Faculdade de Letras de Lisboa;\n\nInstituto Nacional de Investigação Agronómica;\n\nLiga para a Protecção da Natureza;\n\nMuseu de Arqueologia e Etnografia de Setúbal;\n\nInstituto para a Salvaguarda do Património Cultural."
+  },
+  "e6411a3b62d9dbc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Da utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Da utilização"
+  },
+  "108dab78df2ce4bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Zonas do Parque",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Zonas do Parque"
+  },
+  "cb5ba2f91ccd7786": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Reservas naturais integrais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Reservas naturais integrais)\n\n1 - As zonas das reservas naturais integrais são áreas destinadas à observação científica e ao estudo. Pelo elevado valor científico dos biótopos dessas áreas é interdito o acesso livre do público, veículos ou animais domésticos, para que não seja alterada a evolução natural dos ecossistemas.\n\n2 - A proibição de acesso constante no número anterior não abrange:\n\na) As pessoas em serviço do Parque, ou da Direcção-Geral do Ordenamento e Gestão Florestal, nas áreas que lhe estão afectas;\n\nb) Os agentes das autoridades com jurisdição na área em missão de serviço;\n\nc) Os visitantes com fins científicos, ou outros de interesse relevante, devidamente credenciados e acompanhados por um guia do Parque.\n\n3 - É proibida expressamente qualquer alteração que perturbe o equilíbrio e a evolução do meio natural.\n\n4 - As áreas das reservas naturais integrais são assinaladas por tabuletas indicativas, podendo, se as circunstâncias o justificarem, ser vedadas por forma a impossibilitar o acesso a pessoas e veículos não autorizados pela direcção do Parque e aos animais domésticos."
+  },
+  "2e02f16579662407": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Reservas naturais parciais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Reservas naturais parciais)\n\n1 - Zonas de protecção especial sobre determinados elementos naturais, ficando sujeitas às disposições das convenções internacionais sobre a protecção da Natureza e cujo acesso será também limitado.\n\nEstas reservas poderão ser botânicas, zoológicas e geológicas.\n\n2 - São susceptíveis de demolição, retirada ou desmantelamento de todas as construções de qualquer tipo, explorações industriais, mineiras, agrícolas ou florestais que, já estabelecidas, comprometam a existência da reserva natural parcial.\n\n3 - Nas áreas de reserva natural parcial é proibido o arranque, colheita ou destruição de qualquer planta ou parte de planta, a retirada de terra ou qualquer alteração do substrato biofísico determinante para a comunidade vegetal a preservar.\n\n4 - Nas áreas de reserva natural parcial fica também proibido o arranque ou danificação dos afloramentos rochosos, formações geológicas de qualquer tipo, bem como escavações, aterros ou alterações do solo.\n\nExceptuam-se os trabalhos considerados indispensáveis, quer de natureza sectorial, quer ligados à actuação do Parque Natural, os quais serão objecto de cuidados especiais de projecto e de execução por forma a minimizar ou mesmo impedir formas de degradação do relevo natural.\n\n5 - As zonas de reserva natural parciais poderão ser assinaladas em toda a sua periferia por marcos ou tabuletas aprovados superiormente."
+  },
+  "a7ea1a917616033a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Zonas de protecção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Zonas de protecção)\n\n1 - Designam-se genericamente por zonas de protecção terrenos onde se encontra uma vegetação na fase inicial de evolução ou uma vegetação degradada que é desejável deixar evoluir naturalmente e cuja função específica é servirem de zona tampão para as reservas integrais e botânicas, já que estas não podem existir isoladas do espaço envolvente e dependem deste.\n\n2 - São susceptíveis de demolição, retirada ou desmantelamento de todas as construções de qualquer tipo, explorações industriais, mineiras, agrícolas ou florestais que, já estabelecidas, comprometam a existência da zona de protecção.\n\n3 - É proibida qualquer alteração do contexto biofísico das zonas de protecção que se preveja nefasta às reservas integrais e botânicas, como queimadas, cortes, sementeiras, movimento de terras, etc., exceptuando-se os casos autorizados pela direcção do Parque."
+  },
+  "dc55fd1f195ccc44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Reservas paisagísticas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Reservas paisagísticas)\n\n1 - Zonas de reserva paisagística são áreas de elevado valor paisagístico, cultural histórico e estético quanto aos locais e paisagens.\n\n2 - São susceptíveis de demolição, retirada ou desmantelamento de todas as construções de qualquer tipo, explorações industriais, mineiras, agrícolas ou florestais que, já estabelecidas, comprometam a existência da reserva paisagística.\n\n3 - Nestas áreas é proibida a realização de quaisquer trabalhos, obras ou actividades que provoquem ou possam conduzir à alteração, no todo ou em parte, dos valores referidos."
+  },
+  "5f53135e870dd568": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Paisagem protegida)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Paisagem protegida)\n\n1 - Zonas de paisagem protegida são áreas onde se propõe salvaguardar zonas rurais ou urbanas onde subsistem aspectos característicos na cultura e hábitos do povo, bem como nas construções e na concepção dos espaços, promovendo-se a continuação de determinadas actividades (agrícolas, florestais, pastoreio, artesanato, etc.) apoiadas num recreio controlado e orientado para a promoção social, cultural e económica das populações residentes e em que estas participem activa e conscientemente.\n\n2 - São susceptíveis de demolição, retirada ou desmantelamento de todas as construções de qualquer tipo, explorações industriais, mineiras, agrícolas ou florestais que, já estabelecidas, comprometam a existência da paisagem protegida.\n\n3 - São proibidos nesta área quaisquer trabalhos, obras ou actividades sem autorização da direcção do Parque, ou em inobservância das condições impostas ou dos projectos aprovados."
+  },
+  "a7e4880da27a9f97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Lugares, sítios, conjuntos e objectos classificados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Lugares, sítios, conjuntos e objectos classificados)\n\n1 - Conjunto ou conjuntos constituídos com uma função ou unidade histórica e uma continuidade física com interesse científico e ou arquitectónico.\n\n2 - São susceptíveis de demolição, retirada ou desmantelamento de todas as construções de qualquer tipo, explorações industriais, mineiras, agrícolas ou florestais que, já estabelecidas, comprometam a existência dos lugares, sítios, conjuntos e objectos classificados.\n\n3 - É proibida toda a transformação na configuração ou no uso, bem como toda a obra implicando demolição ou ampliação, que possa traduzir-se em prejuízo para o conjunto de valores que esteve na origem da classificação."
+  },
+  "35ebd2493552696d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Construção, reconstrução e conservação de edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Construção, reconstrução e conservação de edifícios"
+  },
+  "5e47cec2494b1a4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Construção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Construção)\n\nNuma perspectiva de protecção do património cultural e paisagístico e do equilíbrio biofísico, considera o Parque Natural da Arrábida como nocivo aos valores que se pretende defender, o potencial incremento de população residente ou de segunda residência, bem como, na generalidade, a proliferação liberalizada de todo o tipo de construções. Nesta óptica, a actividade edificatória no que respeita a novas construções condiciona-se aos seguintes princípios:\n\n1 - Áreas urbanas:\n\na) A actividade residencial e outras conexas com a vida urbana serão, dentro dos limites atrás referidos, predominantemente assumidas pelas áreas urbanas dentro das normas propostas pelos planos urbanísticos de iniciativa municipal que obtenham a aprovação da direcção do Parque, ouvido o conselho geral;\n\nb) A direcção do Parque reserva-se o direito de não autorizar pretensões que considere em inobservância das normas atrás referidas;\n\nc) Para os aglomerados carentes de plano de estrutura, a delimitação das áreas de intervenção a submeter a plano permitirá, desde já, reconhecer as áreas inequivocamente rurais;\n\nd) As pretensões para as áreas de intervenção poderão ser autorizadas em acordo com as câmaras municipais ou, em caso de dúvida, deverão aguardar o que vier a ser estabelecido nos planos referidos.\n\n2 - Áreas rurais:\n\nNas áreas rurais afectas à produção, incultas ou expectantes com vista a mudanças de uso de solo, permite-se a construção de edifícios destinados ao apoio das explorações agrícolas, florestais e ou de recreio, condicionada aos seguintes princípios:\n\na) A possibilidade de edificação para cada propriedade reporta-se à viabilidade em termos de economia da exploração (rendimento fundiário médio anual) e à compatibilidade com os valores paisagísticos ecológicos e culturais a defender na área. As construções de apoio a que se refere o [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), e que não carecem de licenciamento municipal, podem eventualmente não ser autorizadas;\n\nb) A viabilidade a que se refere a alínea a) deve, no caso de dúvida ou reclamação, ser comprovada pelas entidades com competência na matéria ou pelo rendimento fixado no cadastro rústico para a propriedade;\n\nc) Os edifícios para uso residencial são de admitir no caso de habitações patronais e ou do pessoal permanente ligado às actividades referidas no primeiro parágrafo deste número;\n\nd) Como base de cálculo prescreve-se, para valor máximo do índice de utilização fundiário, Ub =< 0,004 (0,004/ha), com um máximo de 200 m2 reservados para as habitações patronais.\n\nAo valor da área obtido deverão deduzir-se as áreas relativas às construções existentes que se encontrem em bom estado;\n\ne) A altura máxima das construções será H = 6,5 m;\n\nf) Nos processos a enviar ao Parque Natural da Arrábida para efeitos de autorização para novas construções, deverá mencionar-se a freguesia, o artigo e secção cadastrais rústicos. Deverá ainda registar-se em impresso próprio municipal ou a fornecer pelo Parque Natural da Arrábida, caso aquele não exista, a natureza dos revestimentos e cores;\n\ng) As regras atrás enunciadas aplicam-se às áreas de paisagem protegida e reserva paisagística;\n\nh) Entende-se por índice de utilização fundiário a relação superfície total de pavimentos cobertos/superfície total da propriedade expressa em hectares.\n\n3 - Áreas de reserva integral, reserva natural parcial, zona de protecção, lugar, sítio, conjunto e objecto classificado:\n\nNestas áreas não são autorizadas novas construções.\n\nExceptuam-se as de finalidade científica quando promovidas pelo Parque Natural da Arrábida."
+  },
+  "94060f85317b6fa1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Reconstrução)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Reconstrução)\n\nNuma perspectiva dinâmica da preservação e conservação do património arquitectónico (existência e memória) em compatibilidade com a protecção do património paisagístico, a reconstrução após demolição autorizada, parcial ou total, das edificações condiciona-se aos seguintes princípios:\n\n1 - Para as áreas de paisagem protegida e reserva paisagística afectas à produção:\n\na) Não ser o edifício classificado ou considerado pela direcção do Parque Natural da Arrábida como de interesse histórico/artístico;\n\nb) Não ser o estado de conservação, a dimensão ou a relação distribuição/uso adequados às actividades prosseguidas no âmbito da exploração autorizada. Pode a direcção do Parque Natural da Arrábida, dentro desta ordem de ideias, condicionar a autorização para reconstrução à efectivação da exploração autorizada na propriedade;\n\nc) Respeito pelas pré-existências ambientais, construídas e paisagísticas;\n\nd) A base de cálculo é a da alínea e) do artigo anterior. Ao valor de área obtido deverão deduzir-se as áreas relativas às construções que se mantêm;\n\ne) Os edifícios em uso residencial poderão, eventualmente e quando devidamente justificado pela dimensão do agregado familiar, ser reconstruídos com ampliação que exceda o valor atrás indicado para índice de utilização fundiário. Deverá neste caso ter-se em particular atenção o enunciado na alínea c);\n\nf) Nos processos a enviar ao Parque Natural da Arrábida para efeito de autorização para reconstrução deverá mencionar-se a freguesia, o artigo e secção cadastrais rústicos. Igualmente deverá constar o levantamento completo do conjunto edificado a que se refere o pedido de reconstrução e documentação fotográfica relacionando-a com a envolvente e, ainda, em impresso próprio municipal ou a fornecer pelo Parque Natural da Arrábida, caso aquele não exista, deverá registar-se a natureza dos revestimentos e cores.\n\n2 - Nas áreas de reserva integral, parcial, zona de protecção, lugar, sítio, conjunto e objecto classificado e nas áreas de reserva paisagística não afectas à produção as operações de reconstrução serão de autorizar apenas quando não for possível por inviabilidade técnico-económica, encarar-se operações de conservação. Deve neste caso a direcção do Parque Natural da Arrábida confirmar essa inviabilidade e estabelecer os parâmetros para a reconstrução, em atenção aos objectivos e aos valores a salvaguardar nessas áreas."
+  },
+  "4803361a0c98fb76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Conservação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Conservação)\n\nDesigna-se por conservação o conjunto de obras fundamentalmente destinadas a assegurar ou a promover o bom estado das edificações existentes, com interesse histórico/artístico ou naquelas em que for desaconselhável a demolição para reconstrução.\n\nA conservação condiciona-se aos seguintes princípios:\n\na) Respeito pelas pré-existências ambientais e pelos valores paisagísticos em presença; pelas tipologias edificatórias (quanto ao uso e inserção no território) e construtivas e pelos valores arquitectónicos específicos a cada edifício;\n\nb) Possibilidade de mudança de uso para revitalização com alterações distributivas desde que justificado e quando se registe incompatibilidade distribuição/uso;\n\nc) Estes princípios estendem-se a toda a área do Parque Natural da Arrábida;\n\nd) Dos processos a enviar ao Parque Natural da Arrábida deverá constar documentação gráfica que permita um conhecimento completo do edifício ou conjunto edificado, bem como documentação fotográfica relacionando-o com a envolvente. Deverá ainda em impresso próprio municipal ou a fornecer pelo Parque Natural da Arrábida, caso aquele não exista, registar-se a natureza dos revestimentos, acabamentos e cores."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "7cd40162e76bec69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Legislação de apoio)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Legislação de apoio)\n\nPara todas as questões não mencionadas no presente regulamento ou susceptíveis de criar dúvidas, bem como para as disposições relativas a autorizações, fiscalizações, contravenções e multas será aplicado o disposto no [Decreto-Lei n.º 622/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/622-1976-430866), de 28 de Julho."
+  },
+  "701e2d4d33259e6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Vigência do regulamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Vigência do regulamento)\n\n1 - O presente Regulamento Geral entra em vigor com o Plano Preliminar de Ordenamento e será completado com regulamentos específicos à medida que forem sendo oportunos, como sejam os regulamentos de caça, de pesca, de ocupação dos apoios para campismo, de utilização dos postos de venda de artesanato, etc.\n\n2 - Com a aprovação superior do Plano Final de Ordenamento do Parque, o respectivo Regulamento revogará o que agora entra em vigor.\n\nO Secretário de Estado do Urbanismo e Ambiente, José Duarte Palma da Silva Bruschy."
+  },
+  "e0010e967a56267b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Director)",
+   "in_force_from": "1987-01-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 51/87](https://diariodarepublica.pt/dr/detalhe/portaria/51-1987-663354), publicado em 1987-01-22."
+   ],
+   "markdown": "###### Artigo 6.º — (Director)\n\nO director é nomeado pelo Secretário de Estado do Urbanismo e Ambiente, sob proposta do presidente do Serviço Nacional de Parques, Reservas e Património Paisagístico, de acordo com o estabelecido no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837).\n\n1 - O conselho geral será presidido pelo director do Parque e constituído pelos representantes das seguintes entidades:\n\na) Direcção-Geral das Florestas;\n\nb) Direcção-Geral de Geologia e Minas;\n\nc) Direcção-Geral das Pescas;\n\nd) Direcção-Geral de Marinha;\n\ne) Instituto Português do Património Cultural;\n\nf) Direcção Regional de Agricultura do Ribatejo e Oeste;\n\ng) Região de Turismo de Setúbal;\n\nh) Museu de Arqueologia e Etnografia de Setúbal;\n\ni) Liga para a Protecção da Natureza;\n\nj) Projecto Setúbal Verde;\n\nl) Câmaras Municipais de Palmela, Sesimbra e Setúbal;\n\nm) Juntas de Freguesia de Castelo (Sesimbra), São Pedro e Quinta do Anjo (Palmela) e São Simão, São Lourenço e Nossa Senhora da Anunciada (Setúbal).\n\n2 - A convocação para as reuniões ordinárias será feita com um mínimo de oito dias de antecedência.\n\n> Alterado pelo/a [Portaria n.º 51/87](https://diariodarepublica.pt/dr/detalhe/portaria/51-1987-663354), publicado em 1987-01-22."
+  }
+ }
+}

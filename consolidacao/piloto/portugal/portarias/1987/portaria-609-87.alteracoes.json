@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Centro de Recrutamento e Mobilização\n\nConstitui responsabilidade do CRM, na inspecção de voluntários com destino a pessoal navegante, a realização das acções previstas nos n.os 2 e 3 do artigo 4.º",
+    "depois": "###### Artigo 9.º — Centro de Recrutamento e Mobilização\n\nConstitui responsabilidade do CRM, na inspecção de voluntários com destino a pessoal navegante, a realização das acções previstas no artigo 4.º\n\n> Alterado pelo/a [Portaria n.º 1206/90](https://diariodarepublica.pt/dr/detalhe/portaria/1206-1990-563262), publicado em 1990-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:420429:por",
+    "alterador": "pt:dre:563262:por"
+  }
+]

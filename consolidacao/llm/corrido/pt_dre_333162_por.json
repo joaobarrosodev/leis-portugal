@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:333162:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A tabela do n.º 1.º só existe em imagem (ver documento original): o aditamento da base de remuneração 28 (Portaria n.º 239/96, n.º 2.º, montante calculado como base 27 + 8%) e as atualizações percentuais dos montantes da tabela (Portarias n.os 576/2003, 577/2003, 897/2003, 1181/2004, 1146/2005, 778/2006, 849/2007, 270/2008 e 653/2009) não são alterações textuais aplicáveis ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 239/96), n.º 2.º: adita base 28 à tabela do n.º 1.º, de montante calculado; tabela só em imagem, não aplicado. Restantes números dirigidos à Portaria 276/95: ignorados.",
+    "Alterador 2 (Portaria 576/2003), n.º 1.º: atualiza em 1,5% os montantes da tabela do n.º 1.º; alteração não textual, não aplicada.",
+    "Alterador 3 (Portaria 577/2003), n.º 1.º: atualiza em 1,5% a tabela; não textual, não aplicada. Restantes números dirigidos às Portarias 194/90 e 1098/99: ignorados.",
+    "Alterador 4 (Portaria 897/2003): altera a Portaria 577/2003 (atualização de 1,5%); não textual, não aplicada.",
+    "Alteradores 5 a 10 (Portarias 1181/2004, 1146/2005, 778/2006, 849/2007, 270/2008, 653/2009): atualizações percentuais da tabela do n.º 1.º; não textuais, não aplicadas. Alterações às Portarias 194/90 e 1098/99 ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

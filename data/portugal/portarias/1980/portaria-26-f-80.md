@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-01-27'
+version_history:
+  file: portaria-26-f-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-01-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-01-27'
+    amending: pt:dre:663354:por
+    amending_title: Portaria n.º 51/87
+    changes:
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:14:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 51/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-26-f-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -209,13 +224,35 @@ Serviços administrativos e auxiliares.
 
 O director é nomeado pelo Secretário de Estado do Urbanismo e Ambiente, sob proposta do presidente do Serviço Nacional de Parques, Reservas e Património Paisagístico, de acordo com o estabelecido no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837).
 
-1 - O conselho geral será presidido pelo director do Parque e constituído pelos representantes dos seguintes organismos:
+1 - O conselho geral será presidido pelo director do Parque e constituído pelos representantes das seguintes entidades:
 
-Direcção-Geral do Ordenamento e Gestão Florestal, Direcção-Geral do Planeamento Urbanístico, Direcção-Geral dos Edifícios e Monumentos Nacionais, Direcção Regional de Agricultura, Direcção-Geral dos Serviços de Fomento Marítimo, Comissão Regional de Turismo da Serra da Arrábida, Museu de Arqueologia e Etnografia de Setúbal, Centro Juvenil de Setúbal, Liga para a Protecção da Natureza e pelos representantes das seguintes autarquias locais abrangidas na área do Parque:
+a) Direcção-Geral das Florestas;
 
-Câmaras Municipais de Setúbal, Palmela e Sesimbra e Juntas de Freguesia de: Castelo (Sesimbra); S. Pedro e Quinta do Anjo (Palmela); S. Simão, S. Lourenço e Nossa Senhora da Anunciada (Setúbal).
+b) Direcção-Geral de Geologia e Minas;
+
+c) Direcção-Geral das Pescas;
+
+d) Direcção-Geral de Marinha;
+
+e) Instituto Português do Património Cultural;
+
+f) Direcção Regional de Agricultura do Ribatejo e Oeste;
+
+g) Região de Turismo de Setúbal;
+
+h) Museu de Arqueologia e Etnografia de Setúbal;
+
+i) Liga para a Protecção da Natureza;
+
+j) Projecto Setúbal Verde;
+
+l) Câmaras Municipais de Palmela, Sesimbra e Setúbal;
+
+m) Juntas de Freguesia de Castelo (Sesimbra), São Pedro e Quinta do Anjo (Palmela) e São Simão, São Lourenço e Nossa Senhora da Anunciada (Setúbal).
 
 2 - A convocação para as reuniões ordinárias será feita com um mínimo de oito dias de antecedência.
+
+> Alterado pelo/a [Portaria n.º 51/87](https://diariodarepublica.pt/dr/detalhe/portaria/51-1987-663354), publicado em 1987-01-22.
 
 ###### Artigo 7.º — (Comissão científica)
 

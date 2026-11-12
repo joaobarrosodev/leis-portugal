@@ -37,10 +37,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2016-08-03'
+version_history:
+  file: despacho-normativo-5-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-02-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-08-03'
+    amending: pt:dre:75076033:por
+    amending_title: Despacho Normativo n.º 6/2016
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º
+    - Adita Artigo 64.º-A
+    - Altera Artigo 66.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Revoga Artigo 69.º
+    - Revoga Artigo 71.º
+    - Revoga Artigo 72.º
 identifiers:
   celex: null
   eli: null
@@ -66,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:07:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 6/2016. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2009/despacho-normativo-5-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -257,13 +282,15 @@ b) O Instituto Superior de Contabilidade e Administração do Porto (ISCAP);
 
 c) A Escola Superior de Educação (ESE);
 
-d) A Escola Superior de Música e Artes do Espectáculo (ESMAE);
+d) A Escola Superior de Música e Artes do Espetáculo (ESMAE);
 
-e) A Escola Superior de Estudos Industriais e de Gestão (ESEIG);
+e) A Escola Superior de Hotelaria e Turismo (ESHT);
 
-f) A Escola Superior de Tecnologia e Gestão de Felgueiras (ESTGF);
+f) A Escola Superior de Tecnologia e Gestão (ESTG);
 
-g) A Escola Superior de Tecnologia da Saúde do Porto (ESTSP).
+g) A Escola Superior de Saúde (ESS);
+
+h) A Escola Superior de Media Artes e Design (ESMAD).
 
 3 - As Escolas incluem ou podem criar subunidades, nomeadamente de investigação.
 
@@ -274,6 +301,8 @@ a) Criar unidades transversais para reforçar a coesão interna e para racionali
 b) Criar outras unidades.
 
 5 - Os serviços são estruturas permanentes vocacionadas para o apoio técnico e administrativo às actividades do Instituto e das Escolas.
+
+> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02.
 
 ###### Artigo 8.º — Órgãos do Instituto
 
@@ -1283,73 +1312,101 @@ l) Exercer as demais competências que lhe sejam atribuídas pela lei ou pelos E
 
 #### SECÇÃO I — Disposições transitórias
 
-###### Artigo 62.º — Conselho Geral
+###### Artigo 62.º — Transformação de Escola
 
-1 - As primeiras eleições para a constituição do Conselho Geral realizam-se nos 30 dias úteis posteriores à entrada em vigor dos presentes Estatutos, de acordo com regulamento a elaborar pelo Conselho Geral actualmente em funções.
+1 - A Escola Superior de Estudos Industriais e de Gestão (ESEIG) é transformada na Escola Superior de Hotelaria e Turismo (ESHT) no dia 1 de agosto de 2016 e ficará em regime de instalação, com Estatutos provisórios aprovados nos termos do n.º 3 do artigo 38.º do RJIES, até à tomada de posse dos órgãos eleitos.
 
-2 - O Conselho Geral actualmente em funções aprova o regulamento eleitoral do novo Conselho Geral no prazo de 10 dias úteis após a entrada em vigor dos presentes Estatutos.
+2 - O Presidente do Instituto define, até ao dia 31 de julho de 2016, por despacho, qual o património do Instituto, afeto à ESEIG que fica afeto à ESHT bem como o património que transita para outra(s) Escola(s) do Instituto.
 
-3 - Concluída a eleição dos membros do Conselho Geral, deve o Presidente do Instituto em funções dar-lhes posse, no prazo de 15 dias úteis.
+3 - O Presidente do Instituto define, até ao dia 31 de julho de 2016, por despacho, quais os compromissos, encargos, contratos e protocolos da ESEIG que transitam para a ESHT ou para outras Escolas do Instituto.
 
-4 - Até à eleição e tomada de posse do Presidente do Conselho Geral, as quais devem ocorrer no prazo máximo de 30 dias úteis, assume a presidência interinamente o professor do Conselho mais antigo, da categoria mais elevada.
+4 - O Presidente do Instituto define, por despacho, a afetação dos trabalhadores em funções públicas constantes do mapa de pessoal da ESEIG à ESHT ou a outra(s) Escola(s) do Instituto.
 
-5 - O Conselho Geral, após a tomada de posse do seu Presidente, deve, no prazo de 30 dias úteis, elaborar e aprovar o seu regimento e o regulamento de eleição do presidente do Instituto.
+5 - O IPP assume a posição da ESEIG em todos os processos judiciais em curso à data de entrada em vigor dos presentes Estatutos.
 
-6 - O Conselho Geral, após a tomada de posse do seu Presidente, deve, no prazo de sessenta dias úteis, aprovar, sob proposta do Presidente do Instituto, o regulamento disciplinar dos estudantes, com a colaboração do Provedor do Estudante e após parecer das Associações de Estudantes do Instituto.
+6 - Todas as situações referentes à transformação da ESEIG na ESHT não previstas nos presentes Estatutos, nomeadamente as ações necessárias para a conclusão do ano letivo de 2015-2016, serão resolvidas por despacho do Presidente do IPP.
 
-###### Artigo 63.º — Estatutos das Escolas
+7 - A partir do momento da transformação da ESEIG em ESHT cessam o mandato todos os órgãos de gestão da ESEIG, transitando as suas competências para a Comissão Instaladora da ESHT.
 
-1 - Os Estatutos de cada Escola são aprovados no prazo de noventa dias seguidos após a entrada em vigor dos presentes Estatutos.
+> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02.
+
+###### Artigo 63.º — Criação de Escola
+
+1 - É criada a Escola Superior de Media Artes e Design (ESMAD), que ficará em regime de instalação até à tomada de posse dos órgãos eleitos.
+
+2 - A ESMAD entra em funcionamento após aprovação dos seus Estatutos provisórios, nos termos do n.º 3 do artigo 38.º do RJIES.
+
+3 - As competências de todos os órgãos da Escola previstos nos presentes Estatutos são atribuídas à Comissão Instaladora da ESMAD.
+
+> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02.
+
+###### Artigo 64.º — Comissão instaladora
+
+1 - As Comissões Instaladoras da ESHT e da ESMAD são nomeadas e exoneradas pelo Presidente do Instituto.
+
+2 - O mandato das Comissões Instaladoras cessa com a tomada de posse dos órgãos eleitos nos termos previstos nos Estatutos da respetiva Escola.
+
+3 - Na eventualidade de, em 31 de dezembro de 2017, não terem tomado posse os órgãos eleitos, cessa o mandato da Comissão Instaladora, assumindo as funções de Presidente da Escola o Professor Decano da mesma, que procederá à marcação de eleições para os diferentes órgãos no prazo de 10 dias úteis.
+
+4 - É considerada falta grave o não cumprimento do prazo previsto no número anterior.
+
+> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02.
+
+###### Artigo 64.º-A — Estatutos das Escolas
+
+1 - Os Estatutos da ESHT e da ESMAD são aprovados no prazo de cento e oitenta dias seguidos após o início de funções da assembleia estatutária.
 
 2 - A elaboração dos estatutos compete a uma assembleia eleita em cada Escola especificamente para o efeito, com a seguinte composição:
 
-a) O Presidente da Escola, que preside;
+a) O Presidente da Comissão Instaladora, que preside;
 
-b) O Presidente da Associação de Estudantes;
+b) Doze representantes de docentes e investigadores em tempo integral;
 
-c) Doze representantes de docentes e investigadores em tempo integral;
+c) Seis representantes dos estudantes, sendo um deles o Presidente da Associação de Estudantes, quando exista;
 
-d) Cinco representantes dos estudantes;
+d) Dois representantes dos funcionários não docentes e não investigadores.
 
-e) Dois representantes dos funcionários não docentes e não investigadores.
+3 - Os membros da Assembleia mencionados nas alíneas b), c) e d) do número anterior são eleitos em votação secreta, por corpo, por lista, em círculo único e pelo método de representação proporcional de Hondt, com exceção do Presidente da Associação de Estudantes, quando exista.
 
-3 - Os membros da Assembleia mencionados nas alíneas c), d) e e) do número anterior são eleitos em votação secreta, por corpo, por lista, em círculo único e pelo método de representação proporcional de Hondt.
+4 - A fim de dar cumprimento ao disposto no número anterior, incumbe ao Presidente da Comissão Instaladora promover a organização dos processos eleitorais conducentes à constituição da assembleia estatutária até ao dia 31 de janeiro de 2017.
 
-4 - A fim de dar cumprimento ao disposto no número anterior, incumbe ao Presidente da Escola promover a organização dos processos eleitorais conducentes à constituição da assembleia estatutária, nos 15 dias seguidos posteriores à entrada em vigor dos presentes Estatutos.
+5 - É considerada falta grave o não cumprimento do prazo previsto no número anterior.
 
-###### Artigo 64.º — Racionalização das unidades orgânicas
-
-O Conselho Geral deve apreciar as medidas necessárias conducentes à racionalização das unidades orgânicas, no prazo máximo de cento e oitenta dias seguidos após a sua tomada de posse, designadamente através das fusões e extinções que se revelem adequadas.
+> Aditado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02.
 
 ###### Artigo 65.º — Autonomia financeira
 
 As Escolas que satisfaçam os critérios definidos na Portaria n.º 485/2008, de 24 de Abril, gozam de autonomia financeira, após despacho do Ministro da Tutela nesse sentido.
 
-###### Artigo 66.º — Património afecto às Escolas
+###### Artigo 66.º — Partilha de recursos
 
-O património do Instituto afecto a cada Escola na data de publicação dos presentes Estatutos fica-lhes afecto.
+1 - A ESHT e a ESMAD partilham o campus de Vila do Conde, sendo a afetação das instalações de utilização exclusiva de cada Escola efetuada por despacho do Presidente do IPP.
 
-###### Artigo 67.º — Termo dos mandatos em curso
+2 - O modelo de utilização das instalações comuns e dos restantes recursos partilhados é definido por despacho do Presidente do IPP ouvidas as comissões instaladoras das duas Escolas.
 
-1 - Na ausência de declaração de renúncia do Presidente do Instituto em funções nos termos da alínea b) do n.º 2 do artigo 184.º do RJIES, o seu mandato tem a duração de três anos, nos termos do n.º 3 do artigo 174.º do mesmo diploma e de acordo com o previsto nos Estatutos até agora vigentes, terminando no dia 3 de Outubro de 2009.
+3 - O modelo referido no número anterior é reavaliado após a tomada de posse dos órgãos eleitos.
 
-2 - Na ausência de declaração de renúncia dos Presidentes eleitos das Escolas, o seu mandato tem a duração de três anos, contados a partir da data na qual tomaram de posse, nos termos do n.º 3 do artigo 174.º do RJIES e de acordo com o previsto nos Estatutos até agora vigentes.
+> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02.
 
-3 - Os Presidentes das Escolas nomeados cessam funções com a tomada de posse dos novos Presidentes, cuja eleição deverá ocorrer no prazo de 30 dias úteis após a entrada em vigor dos respectivos Estatutos.
+###### Artigo 67.º — Mandato dos membros do Conselho Geral do IPP
 
-4 - Os órgãos das Escolas mantêm-se em funções com a mesma composição até à tomada de posse dos novos órgãos previstos nos Estatutos das Escolas e com as mesmas competências, à excepção das que, nos termos do n.º 3 do artigo 174.º do RJIES, tenham transitado para o Presidente do Instituto e para os Presidentes das Escolas.
+Os membros docentes do Conselho Geral do IPP eleitos pelo círculo eleitoral da ESEIG mantêm-se em exercício de funções até ao final do mandato.
 
-5 - Na ausência de cessação antecipada do mandato do Provedor do Estudante em funções, o seu mandato tem a duração de quatro anos, de acordo com a Resolução CG-22/2005, terminando no dia 3 de Outubro de 2010, de acordo com a Resolução CG-20/2006.
+> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02.
 
 #### SECÇÃO II — Disposições finais
 
-###### Artigo 68.º — Eleição do Presidente da Escola
+###### Artigo 68.º — Entrada em vigor
 
-Nas Escolas cujo número de professores ou investigadores de carreira seja inferior a quatro, pode ser eleito Presidente da Escola um professor, um investigador ou um equiparado a professor.
+Os presentes Estatutos entram em vigor no dia útil seguinte ao da sua publicação no Diário da República.
+
+> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02.
 
 ###### Artigo 69.º — Fundação
 
-O Instituto integra no seu âmbito a Fundação Instituto Politécnico do Porto, cujos Estatutos estão publicados no Diário da República.
+(Revogado.)
+
+> Revogado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02.
 
 ###### Artigo 70.º — Contagem de prazos
 
@@ -1357,8 +1414,12 @@ Os prazos referentes às eleições dos órgãos do IPP e das suas Escolas suspe
 
 ###### Artigo 71.º — Norma revogatória
 
-São revogados os Estatutos do IPP, publicados pelo [Despacho Normativo n.º 76/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/76-1995-627206), de 29 de Novembro, com as alterações introduzidas pelo Despacho Normativo n.º 10/2006, de 16 de Fevereiro.
+(Revogado.)
+
+> Revogado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02.
 
 ###### Artigo 72.º — Entrada em vigor
 
-Os presentes Estatutos entram em vigor 10 dias úteis após a sua publicação.
+(Revogado.)
+
+> Revogado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02.

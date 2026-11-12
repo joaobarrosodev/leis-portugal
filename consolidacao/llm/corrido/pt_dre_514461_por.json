@@ -1,0 +1,45 @@
+{
+  "id": "pt:dre:514461:por",
+  "substituicoes": [
+    {
+      "de": 75,
+      "ate": 75,
+      "texto": "a) Uma quota mensal de 265$00 a satisfazer por cada beneficiário da classe A até ao momento em que começar a receber a pensão da reforma, mesmo nos períodos de suspensão que não impliquem cancelamento da inscrição, que será cobrada juntamente com a quota para a Ordem dos Advogados;",
+      "alterador": 2
+    },
+    {
+      "de": 77,
+      "ate": 77,
+      "texto": "c) Uma contribuição anual a satisfazer por cada beneficiário, equivalente a 10% da verba principal do imposto profissional que lhe for liquidado, nunca inferior a 1200$00 para os beneficiários da classe A e a 100$00 para os da classe B, a pagar simultaneamente com aquele imposto e nos mesmos prazos;",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 47,
+      "texto": "3. Terão igualmente direito a uma pensão de reforma, calculada nos termos da tabela n.º 3 anexa a este regulamento, os beneficiários ordinários de mais de 60 anos de idade que, tendo exercido a profissão durante pelo menos 40 anos, seguidos ou interpolados, deixem voluntàriamente de a exercer.",
+      "alterador": 1
+    },
+    {
+      "depois_de": 85,
+      "texto": "l) Uma quota mensal de 50$00 a satisfazer por cada beneficiário da classe A, a qual será cobrada juntamente com a quota para a Ordem dos Advogados.",
+      "alterador": 2
+    },
+    {
+      "depois_de": 101,
+      "texto": "e) Pela quota indicada na alínea l) do artigo 38.º",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1: a tabela n.º 3 anexa (pensões de reforma antecipada do n.º 3 do artigo 21.º) só vem em imagem (ver documento original); não foi acrescentada ao texto.",
+  "instrucoes": [
+    "Alt. 1: art. 21.º, n.os 1 e 2 mantidos (...), aditado n.º 3 — inserção depois da unidade 47.",
+    "Alt. 1: tabela n.º 3 anexa só em imagem — não aplicada (nao_aplicavel).",
+    "Alt. 2: art. 38.º, nova redação da alínea a) — substituição da unidade 75; alínea c) — substituição da unidade 77; alíneas b), d) a k) mantidas (...).",
+    "Alt. 2: art. 38.º, aditada alínea l) — inserção depois da unidade 85.",
+    "Alt. 2: art. 42.º, alíneas a) a d) mantidas (...), aditada alínea e) — inserção depois da unidade 101."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

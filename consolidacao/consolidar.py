@@ -169,8 +169,9 @@ def _citacoes(plano: str, proprio: str) -> list[tuple[re.Match, str]]:
     return out
 
 
-def alteracao_provavel(texto_alterador: str, titulo: str, titulo_alterador: str) -> str | None:
-    """Um excerto do alterador com uma alteração provável ao original que as regras não leram, ou None."""
+def alteracao_provavel(texto_alterador: str, titulo: str, titulo_alterador: str, largura: tuple[int, int] = (150, 100)) -> str | None:
+    """Um excerto do alterador com uma alteração provável ao original que as regras não leram, ou None.
+    `largura` são os caracteres antes e depois do verbo (a triagem às cegas usa uma janela larga)."""
     numero = _numero_titulo(titulo)
     if not numero:
         return None
@@ -184,7 +185,8 @@ def alteracao_provavel(texto_alterador: str, titulo: str, titulo_alterador: str)
         perto += [(m.start() - verbo.end(), n) for m, n in citacoes if verbo.end() <= m.start() <= verbo.end() + 150]
         alvo = min(perto)[1] if perto else None
         if alvo == numero or (alvo is None and primeiro == numero):
-            return " ".join(plano[max(0, verbo.start() - 150): verbo.end() + 100].split())
+            antes, depois = largura
+            return " ".join(plano[max(0, verbo.start() - antes): verbo.end() + depois].split())
     return None
 
 
@@ -217,6 +219,69 @@ def reclassificar(ficheiro: Path, selecao: dict[str, dict]) -> Counter:
                 contagem["pares"] += 1
             if estado.get("estado") == "para LLM":
                 contagem["diplomas"] += 1
+        linhas.append(json.dumps(estado, ensure_ascii=False))
+    ficheiro.write_text("".join(l + "\n" for l in linhas), encoding="utf-8")
+    return contagem
+
+
+SO_IMAGEM = "alteração só em imagem"
+_IMAGEM = re.compile(r"imagem|planta|cartograf|n[ãa]o consta do texto atual|sem texto no texto atual|só (?:tem|traz) o título", re.I)
+
+
+def veredictos_llm(pasta: Path = PASTA / "llm") -> dict[str, str]:
+    """Os diplomas a que o LLM respondeu sem nada a aplicar: id → "sem alteração" (e sem nada em
+    `nao_aplicavel`) ou "imagem" (o que mudaria é um quadro, mapa ou anexo só em imagem ou sem texto no
+    acervo). Lê as respostas do pedido completo e do texto corrido."""
+    out: dict[str, str] = {}
+    for f in [*sorted((pasta / "completo").glob("pt_*.json")), *sorted((pasta / "corrido").glob("pt_*.json"))]:
+        r = json.loads(f.read_text(encoding="utf-8"))
+        if r.get("problemas") or r.get("artigos") or r.get("removidos") or r.get("titulos") or r.get("substituicoes") or r.get("insercoes"):
+            continue
+        nao = str(r.get("nao_aplicavel") or "").strip()
+        if not nao:
+            out[r["id"]] = "sem alteração"
+        elif _IMAGEM.search(nao):
+            out[r["id"]] = "imagem"  # o que muda é um quadro, mapa ou anexo sem texto no acervo
+        # outro `nao_aplicavel` (inconstitucionalidade, prazo, condição): continua para o LLM
+    return out
+
+
+def veredictos_triagem(ficheiro: Path) -> dict[str, str]:
+    """Da triagem barata (`verificacao/triagem-provaveis.jsonl`, um par por linha com "veredicto"):
+    id → "sem alteração" se todos os pares do diploma são "não" ou "outro", "imagem" se há pelo menos
+    um "imagem" e nenhum "sim" ou "dúvida". Os outros diplomas ficam de fora (continuam para o LLM)."""
+    por: dict[str, list[str]] = {}
+    for linha in ficheiro.read_text(encoding="utf-8").splitlines():
+        if linha.strip():
+            d = json.loads(linha)
+            por.setdefault(d["id"], []).append(d["veredicto"])
+    out = {}
+    for id_, vs in por.items():
+        if any(v in ("sim", "dúvida") for v in vs):
+            continue
+        out[id_] = "imagem" if "imagem" in vs else "sem alteração"
+    return out
+
+
+def confirmar(ficheiro: Path, veredictos: dict[str, str], origem: str) -> Counter:
+    """Desfaz `reclassificar` onde um modelo confirmou que não há nada a aplicar: "sem alteração" volta
+    a "sem alteração textual"; "imagem" passa ao estado `SO_IMAGEM` (só se resolve com OCR). Só toca
+    nos diplomas "para LLM" por `MOTIVO_PROVAVEL`."""
+    contagem: Counter = Counter()
+    linhas = []
+    for linha in ficheiro.read_text(encoding="utf-8").splitlines():
+        estado = json.loads(linha)
+        v = veredictos.get(estado["id"])
+        if v and estado.get("estado") == "para LLM" and estado.get("motivo") == MOTIVO_PROVAVEL:
+            motivo = f"o LLM confirmou que o alterador não muda o texto ({origem})" if v == "sem alteração" else f"o que muda só existe em imagem ({origem})"
+            novo = "sem alteração textual" if v == "sem alteração" else SO_IMAGEM
+            for passo in estado.get("passos") or []:
+                if passo.get("motivo") == MOTIVO_PROVAVEL:
+                    passo |= {"triagem": novo, "motivo": motivo}
+            for k in ("falhou_em", "pendentes"):
+                estado.pop(k, None)
+            estado |= {"estado": novo, "triagem": novo, "motivo": motivo}
+            contagem[novo] += 1
         linhas.append(json.dumps(estado, ensure_ascii=False))
     ficheiro.write_text("".join(l + "\n" for l in linhas), encoding="utf-8")
     return contagem
@@ -574,7 +639,18 @@ def main() -> int:
     parser.add_argument("--refazer", type=Path, default=None, help="escala: ficheiro com um id por linha; esses voltam a fazer-se")
     parser.add_argument("--provaveis", action="store_true",
                         help="escala: passa a 'para LLM' os 'sem alteração textual' com uma alteração provável que as regras não leem")
+    parser.add_argument("--confirmados", metavar="llm|FICHEIRO",
+                        help="escala: desfaz --provaveis onde o LLM ('llm') ou também a triagem às cegas (FICHEIRO) confirmou que não há nada a aplicar")
     args = parser.parse_args()
+    if args.confirmados:
+        veredictos = veredictos_llm()
+        origem = "respostas ao pedido"
+        if args.confirmados != "llm":
+            veredictos |= veredictos_triagem(Path(args.confirmados))
+            origem = "triagem às cegas ou respostas ao pedido"
+        for ficheiro in [RESULTADOS_ESCALA, *sorted(PASTA.glob("resultados-escala.parte-*.jsonl"))]:
+            print(ficheiro.name, dict(confirmar(ficheiro, veredictos, origem)))
+        return 0
     if args.provaveis:
         selecao = {r["id"]: r for r in map(json.loads, SELECAO_ESCALA.read_text(encoding="utf-8").splitlines())}
         for ficheiro in [RESULTADOS_ESCALA, *sorted(PASTA.glob("resultados-escala.parte-*.jsonl"))]:

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-03-04'
+version_history:
+  file: portaria-817-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-07-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-03-04'
+    amending: pt:dre:621767:por
+    amending_title: Portaria n.º 62/96
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/817/1995/07/13/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:11:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 62/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-817-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,7 +180,9 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Casas Brancas do Outeiro e do Meio», «Pucícaros Novos», «Pucícaros de Baixo» e outros, sitos na freguesia de Pavia, município de Mora, com uma área de 1201 ha, conforme planta anexa ao presente diploma e que dele faz parte integrante.
 
-2.º Pelo presente diploma é concessionada, pelo período de seis anos, à Associação de Caçadores de Casa Branca (registo no Instituto Florestal n.º 4.199.87), com sede em Volta do Vale, Couço, Coruche, a zona de caça associativa da Herdade de Casas Brancas e outras (processo n.º 1759 do Instituto Florestal).
+2.º Pelo presente diploma é concessionada, pelo período de 14 anos, à Associação de Caçadores de Casa Branca (registo no Instituto Florestal n.º 4.199.87), com sede em Volta do Vale, Couço, Coruche, a zona de caça associativa da Herdade de Casas Brancas e outras (processo n.º 1759 do Instituto Florestal).
+
+> Alterado pelo/a [Portaria n.º 62/96](https://diariodarepublica.pt/dr/detalhe/portaria/62-1996-621767), publicado em 1996-02-28.
 
 3.º A Associação de Caçadores de Casa Branca, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

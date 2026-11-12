@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-07-10'
+version_history:
+  file: portaria-659-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-09-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-07-10'
+    amending: pt:dre:462977:por
+    amending_title: Portaria n.º 718/95
+    changes:
+    - Altera Artigo unidades 39-39
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:36:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 718/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-659-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -233,7 +248,11 @@ Disciplinas em que se realiza o estágio pedagógico
 
 Local de realização do estágio pedagógico
 
-O estágio pedagógico realiza-se em estabelecimento de ensino público que ministre os 7.º ao 12.º anos de escolaridade, sito na área geográfica do estabelecimento de ensino superior.
+1 - O estágio pedagógico realiza-se em estabelecimento de ensino público que ministre os 7.º ao 12.º anos de escolaridade, sito na área geográfica do estabelecimento de ensino superior.
+
+2 - O estágio pedagógico poderá ainda realizar-se em escolas particulares ou cooperativas com paralelismo pedagógico, em condições a fixar por protocolo, a homologar pelo Ministério da Educação.
+
+> Alterado pelo/a [Portaria n.º 718/95](https://diariodarepublica.pt/dr/detalhe/portaria/718-1995-462977), publicado em 1995-07-05.
 
 6.º
 

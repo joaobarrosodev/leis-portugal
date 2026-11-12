@@ -1,0 +1,120 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:179803:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-03-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a2d4fb1079b30676"
+   ]
+  },
+  {
+   "date": "2006-11-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:505657:por",
+     "title": "Portaria n.º 891/2004",
+     "published": "2004-07-21",
+     "dre_path": "/dr/detalhe/portaria/891-2004-505657"
+    },
+    {
+     "id": "pt:dre:147640:por",
+     "title": "Portaria n.º 913/2005",
+     "published": "2005-09-26",
+     "dre_path": "/dr/detalhe/portaria/913-2005-147640"
+    },
+    {
+     "id": "pt:dre:544835:por",
+     "title": "Portaria n.º 1286/2006",
+     "published": "2006-11-21",
+     "dre_path": "/dr/detalhe/portaria/1286-2006-544835"
+    },
+    {
+     "id": "pt:dre:544837:por",
+     "title": "Portaria n.º 1278/2006",
+     "published": "2006-11-21",
+     "dre_path": "/dr/detalhe/portaria/1278-2006-544837"
+    },
+    {
+     "id": "pt:dre:544843:por",
+     "title": "Portaria n.º 1270/2006",
+     "published": "2006-11-21",
+     "dre_path": "/dr/detalhe/portaria/1270-2006-544843"
+    },
+    {
+     "id": "pt:dre:545021:por",
+     "title": "Portaria n.º 1305/2006",
+     "published": "2006-11-23",
+     "dre_path": "/dr/detalhe/portaria/1305-2006-545021"
+    },
+    {
+     "id": "pt:dre:545037:por",
+     "title": "Portaria n.º 1315/2006",
+     "published": "2006-11-23",
+     "dre_path": "/dr/detalhe/portaria/1315-2006-545037"
+    },
+    {
+     "id": "pt:dre:545038:por",
+     "title": "Portaria n.º 1316/2006",
+     "published": "2006-11-23",
+     "dre_path": "/dr/detalhe/portaria/1316-2006-545038"
+    },
+    {
+     "id": "pt:dre:545044:por",
+     "title": "Portaria n.º 1319/2006",
+     "published": "2006-11-23",
+     "dre_path": "/dr/detalhe/portaria/1319-2006-545044"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8",
+    "Altera Artigo unidades 9-9",
+    "Altera Artigo unidades 10-10",
+    "Altera Artigo unidades 11-11",
+    "Altera Artigo unidades 12-12",
+    "Altera Artigo unidades 13-13",
+    "Altera Artigo unidades 14-14",
+    "Altera Artigo unidades 15-15",
+    "Altera Artigo unidades 16-16"
+   ],
+   "fragments": [
+    "f57482eff3c1d7cc"
+   ]
+  }
+ ],
+ "fragments": {
+  "a2d4fb1079b30676": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Março\n\nO [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, cria as escolas profissionais no quadro do «relançamento do ensino profissional e reforço das diversas modalidades de formação profissional, que se pretendem levar a cabo fundamentalmente através da acção conjunta dos Ministérios da Educação e do Emprego e da Segurança Social, em estreita cooperação com outros ministérios e ainda com várias entidades públicas ou privadas, tentando capitalizar estruturas e recursos disponíveis, o que, aliás, vem na sequência de orientações definidas em conjunto pelos Ministérios».\n\nPor força das referidas disposições legais e em particular dos n.os 1, 2 e 4 do artigo 4.º e dos n.os 1, 2 e 3 do artigo 6.º do [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, torna-se necessário criar os cursos a funcionar na Escola Profissional da Região do Alentejo, criada por contrato-programa outorgado entre o GETAP - Gabinete de Educação Tecnológica, Artística e Profissional, como primeiro outorgante, e o CEDRA - Centro de Estudos e Desenvolvimento da Região do Alentejo, como segundo outorgante.\n\nAssim:\n\nManda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Social, o seguinte:\n\n1.º São criados os cursos de:\n\na) Técnico de indústrias agro-alimentares;\n\nb) Técnico de hotelaria/restauração - organização e controlo;\n\nc) Técnico de museologia e património cultural;\n\nd) Técnico de informação - BAD/biblioteca e serviços de documentação;\n\ne) Técnico multimédia;\n\nf) Técnico de hotelaria/recepção-atendimento;\n\ng) Técnico de comunicação/comunicação social;\n\nh) Técnico de pedra/restauro e conservação;\n\ni) Técnico de informática/gestão;\n\nj) Mesa/bar;\n\ncujos planos de estudo se anexam.\n\n2.º Aos alunos que concluírem, com aproveitamento, os cursos aprovados nas alíneas a) a i) do n.º 1.º será atribuído um certificado de nível 3 de qualificação profissional e um certificado equivalente ao 12.º ano.\n\n3.º Aos alunos que concluírem, com aproveitamento, o curso aprovado na alínea j) do n.º 1.º será atribuído um certificado de nível 2 de qualificação profissional e um certificado equivalente ao 9.º ano.\n\nMinistérios da Educação e do Emprego e da Segurança Social.\n\nAssinada em 25 de Fevereiro de 1992.\n\nO Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/066b00/13701373.pdf)"
+  },
+  "f57482eff3c1d7cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-11-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 891/2004](https://diariodarepublica.pt/dr/detalhe/portaria/891-2004-505657), publicado em 2004-07-21.",
+    "Alterado pelo/a [Portaria n.º 1319/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1319-2006-545044), publicado em 2006-11-23.",
+    "Alterado pelo/a [Portaria n.º 1270/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1270-2006-544843), publicado em 2006-11-21.",
+    "Alterado pelo/a [Portaria n.º 1305/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2006-545021), publicado em 2006-11-23.",
+    "Alterado pelo/a [Portaria n.º 1315/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1315-2006-545037), publicado em 2006-11-23.",
+    "Alterado pelo/a [Portaria n.º 1316/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1316-2006-545038), publicado em 2006-11-23.",
+    "Alterado pelo/a [Portaria n.º 1286/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1286-2006-544835), publicado em 2006-11-21.",
+    "Alterado pelo/a [Portaria n.º 1278/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1278-2006-544837), publicado em 2006-11-21.",
+    "Alterado pelo/a [Portaria n.º 913/2005](https://diariodarepublica.pt/dr/detalhe/portaria/913-2005-147640), publicado em 2005-09-26."
+   ],
+   "markdown": "de 19 de Março\n\nO [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, cria as escolas profissionais no quadro do «relançamento do ensino profissional e reforço das diversas modalidades de formação profissional, que se pretendem levar a cabo fundamentalmente através da acção conjunta dos Ministérios da Educação e do Emprego e da Segurança Social, em estreita cooperação com outros ministérios e ainda com várias entidades públicas ou privadas, tentando capitalizar estruturas e recursos disponíveis, o que, aliás, vem na sequência de orientações definidas em conjunto pelos Ministérios».\n\nPor força das referidas disposições legais e em particular dos n.os 1, 2 e 4 do artigo 4.º e dos n.os 1, 2 e 3 do artigo 6.º do [Decreto-Lei n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, torna-se necessário criar os cursos a funcionar na Escola Profissional da Região do Alentejo, criada por contrato-programa outorgado entre o GETAP - Gabinete de Educação Tecnológica, Artística e Profissional, como primeiro outorgante, e o CEDRA - Centro de Estudos e Desenvolvimento da Região do Alentejo, como segundo outorgante.\n\nAssim:\n\nManda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Social, o seguinte:\n\n1.º São criados os cursos de:\n\na) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 891/2004](https://diariodarepublica.pt/dr/detalhe/portaria/891-2004-505657), publicado em 2004-07-21.\n\nb) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 1319/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1319-2006-545044), publicado em 2006-11-23.\n\nc) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 1270/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1270-2006-544843), publicado em 2006-11-21.\n\nd) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 1305/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1305-2006-545021), publicado em 2006-11-23.\n\ne) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 1315/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1315-2006-545037), publicado em 2006-11-23.\n\nf) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 1316/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1316-2006-545038), publicado em 2006-11-23.\n\ng) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 1286/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1286-2006-544835), publicado em 2006-11-21.\n\nh) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 1278/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1278-2006-544837), publicado em 2006-11-21.\n\ni) (Revogada.)\n\n> Alterado pelo/a [Portaria n.º 913/2005](https://diariodarepublica.pt/dr/detalhe/portaria/913-2005-147640), publicado em 2005-09-26.\n\nj) Mesa/bar;\n\ncujos planos de estudo se anexam.\n\n2.º Aos alunos que concluírem, com aproveitamento, os cursos aprovados nas alíneas a) a i) do n.º 1.º será atribuído um certificado de nível 3 de qualificação profissional e um certificado equivalente ao 12.º ano.\n\n3.º Aos alunos que concluírem, com aproveitamento, o curso aprovado na alínea j) do n.º 1.º será atribuído um certificado de nível 2 de qualificação profissional e um certificado equivalente ao 9.º ano.\n\nMinistérios da Educação e do Emprego e da Segurança Social.\n\nAssinada em 25 de Fevereiro de 1992.\n\nO Ministro da Educação, Diamantino Freitas Gomes Durão. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/066b00/13701373.pdf)"
+  }
+ }
+}

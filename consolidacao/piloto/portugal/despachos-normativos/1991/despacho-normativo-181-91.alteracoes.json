@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO — Preâmbulo::32.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 32.º — Escolas superiores\n\n1 - O Instituto integra as seguintes unidades orgânicas:\n\na) Escola Superior de Música;\n\nb) Escola Superior de Teatro e Cinema;\n\nc) Escola Superior de Dança;\n\nd) Escola Superior de Educação;\n\ne) Escola Superior de Comunicação Social;\n\nf) Instituto Superior de Contabilidade e Administração de Lisboa;\n\ng) Instituto Superior de Engenharia de Lisboa.\n\n2 - O IPL pode propor a criação ou integração de novas unidades orgânicas, bem como a modificação ou extinção das existentes.",
+    "depois": "###### Artigo 32.º — Unidades orgânicas\n\n1 - O Instituto integra as seguintes unidades orgânicas:\n\na) Escola Superior de Música;\n\nb) Escola Superior de Teatro e Cinema;\n\nc) Escola Superior de Dança;\n\nd) Escola Superior de Educação;\n\ne) Escola Superior de Comunicação Social;\n\nf) Instituto Superior de Contabilidade e Administração de Lisboa;\n\ng) Instituto Superior de Engenharia de Lisboa.\n\nh) Escola Superior de Tecnologia da Saúde de Lisboa.\n\n2 - O IPL pode propor a criação ou integração de novas unidades orgânicas, bem como a modificação ou extinção das existentes.\n\n> Alterado pelo/a [Despacho Normativo n.º 31/2007](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-2007-2933982), publicado em 2007-08-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:403317:por",
+    "alterador": "pt:dre:2933982:por"
+  }
+]

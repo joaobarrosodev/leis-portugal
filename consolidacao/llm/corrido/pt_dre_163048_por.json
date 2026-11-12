@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:163048:por",
+  "substituicoes": [
+    {
+      "de": 45,
+      "ate": 46,
+      "texto": "Art. 13.º (Revogado.)",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 24233): aprova o Regulamento da Escola Prática; só refere o original, sem instrução de alteração - nada a fazer.",
+    "Alterador 2 (Portaria 1075/80): aumenta o quadro de pessoal da PSP por mapa anexo; não altera o texto do original - nada a fazer.",
+    "Alterador 3 (DL 37/87), art. 2.º a): revoga o artigo 13.º do original - unidades 45-46 passam a 'Art. 13.º (Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 45-46: parágrafo que não está no alterador nem no original: Art. 13.º (Revogado.)"
+  ]
+}

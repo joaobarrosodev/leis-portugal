@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:420429:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "Centro de Recrutamento e Mobilização",
+      "texto": "Constitui responsabilidade do CRM, na inspecção de voluntários com destino a pessoal navegante, a realização das acções previstas no artigo 4.º",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do artigo 9.º (remete para todo o artigo 4.º); aplicada, epígrafe mantida."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

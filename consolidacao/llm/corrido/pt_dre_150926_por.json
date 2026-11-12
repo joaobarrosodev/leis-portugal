@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:150926:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O texto do alterador 1 (Resolução do Conselho de Ministros n.º 10/98) vem vazio no pedido: não há nenhuma instrução dirigida ao original que se possa ler ou aplicar.",
+  "instrucoes": [
+    "Alterador 1 (RCM n.º 10/98): sem texto no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

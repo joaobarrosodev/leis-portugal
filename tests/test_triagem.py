@@ -5,6 +5,7 @@ from pathlib import Path
 
 import pytest
 
+
 PASTA = Path(__file__).resolve().parents[1] / "consolidacao"
 if not (PASTA / "consolidar.py").exists():
     pytest.skip("consolidacao/ não está nesta cópia", allow_module_level=True)
@@ -48,3 +49,41 @@ def test_anexacao_a_zona_de_caca_fica_de_fora():
         "Portaria n.º 805/2001, de 20 de Julho, vários prédios rústicos, ficando a mesma com a área total de 900 ha."
     )
     assert alteracao_provavel(texto, "Portaria n.º 805/2001", "Portaria n.º 33/2004") is None
+
+
+def test_janela_larga_tem_mais_contexto():
+    texto = "# Portaria n.º 18170\n\n" + "Visto o exposto. " * 40 + "Manda o Governo o seguinte: 1.º Seja considerada revogada, com a presente, a Portaria n.º 18092, de 2 de Dezembro de 1960."
+    curto = alteracao_provavel(texto, "Portaria n.º 18092", "Portaria n.º 18170")
+    largo = alteracao_provavel(texto, "Portaria n.º 18092", "Portaria n.º 18170", (750, 750))
+    assert curto and largo and len(largo) > len(curto)
+
+
+def test_confirmar_so_toca_nos_provaveis(tmp_path):
+    import json
+
+    from consolidar import MOTIVO_PROVAVEL, SO_IMAGEM, confirmar, veredictos_triagem
+
+    passo = {"id": "a", "alterador": "Portaria n.º 1/90", "triagem": "para LLM", "motivo": MOTIVO_PROVAVEL}
+    linhas = [
+        {"id": "x", "title": "X", "estado": "para LLM", "motivo": MOTIVO_PROVAVEL, "passos": [dict(passo)], "falhou_em": {}, "pendentes": [{}]},
+        {"id": "y", "title": "Y", "estado": "para LLM", "motivo": MOTIVO_PROVAVEL, "passos": [dict(passo)]},
+        {"id": "z", "title": "Z", "estado": "para LLM", "motivo": "outro motivo", "passos": []},
+    ]
+    resultados = tmp_path / "r.jsonl"
+    resultados.write_text("".join(json.dumps(l) + "\n" for l in linhas), encoding="utf-8")
+    triagem = tmp_path / "t.jsonl"
+    triagem.write_text(
+        "".join(json.dumps(d) + "\n" for d in [
+            {"id": "x", "veredicto": "outro"}, {"id": "y", "veredicto": "imagem"}, {"id": "y", "veredicto": "não"},
+            {"id": "z", "veredicto": "não"}, {"id": "w", "veredicto": "sim"},
+        ]),
+        encoding="utf-8",
+    )
+    veredictos = veredictos_triagem(triagem)
+    assert "w" not in veredictos
+    contagem = confirmar(resultados, veredictos, "teste")
+    depois = {d["id"]: d for d in map(json.loads, resultados.read_text(encoding="utf-8").splitlines())}
+    assert depois["x"]["estado"] == "sem alteração textual" and "falhou_em" not in depois["x"] and "pendentes" not in depois["x"]
+    assert depois["y"]["estado"] == SO_IMAGEM
+    assert depois["z"]["estado"] == "para LLM"  # outro motivo: não é desta triagem
+    assert contagem == {"sem alteração textual": 1, SO_IMAGEM: 1}

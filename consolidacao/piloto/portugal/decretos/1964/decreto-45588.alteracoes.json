@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 44-44",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 13.º As embalagens não poderão mencionar firma, denominação ou recompensa a cujo uso o fabricante não tiver direito, nome de fábrica diferente da que tiver produzido as massas embaladas, nome ou marca diferente da que a mesma fábrica tiver adoptado.",
+    "depois": "Art. 13.º A utilização nas embalagens da firma ou denominação social do fabricante do nome ou insígnia do estabelecimento fabril, das marcas dos produtos e das recompensas rege-se pelo disposto no Código Comercial e no Código da Propriedade Industrial.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:469992:por",
+    "alterador": "pt:dre:690206:por"
+  }
+]

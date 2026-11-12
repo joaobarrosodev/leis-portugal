@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:147439:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Decreto n.º 376/75), art. 1.º: prorroga o período transitório do art. 2.º, n.º 1, até à publicação do diploma da carreira de administração dos serviços de saúde, sem dar nova redação ao texto; os arts. 2.º a 5.º fixam regras transitórias autónomas. Não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: prorrogação do período transitório do art. 2.º (unidade 22) sem nova redação; não aplicado (não textual)",
+    "Alterador 1, arts. 2.º-5.º: regras transitórias próprias e revogação de um despacho; não alteram o texto do original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

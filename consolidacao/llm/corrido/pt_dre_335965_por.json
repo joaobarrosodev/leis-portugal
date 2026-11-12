@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:335965:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 141/76): torna o DL 261/75 extensivo a Macau; não altera o texto; nada a fazer.",
+    "Alterador 2 (DL 561/76): altera os artigos 1605.º e 1778.º do Código Civil (não o original); ignorado.",
+    "Alterador 3 (DL 605/76): altera artigos do Código Civil e do Código de Processo Civil; ignorado.",
+    "Alteradores 4, 5 e 6: sem texto de artigos dirigidos ao original; nada a fazer.",
+    "Alterador 7 (Lei 61/2008): altera e adita artigos do Código Civil, CPC, CRC, DL 272/2001 e Código Penal; o DL 261/75 só é citado na lista de alterações ao Código Civil; ignorado.",
+    "Alterador 8 (Lei 24/2017): adita o artigo 1906.º-A ao Código Civil e altera outros diplomas; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:461271:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-07-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "01b642442aaf2229"
+   ]
+  },
+  {
+   "date": "1996-03-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:621767:por",
+     "title": "Portaria n.º 62/96",
+     "published": "1996-02-28",
+     "dre_path": "/dr/detalhe/portaria/62-1996-621767"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "fab25727125be9c4"
+   ]
+  }
+ ],
+ "fragments": {
+  "01b642442aaf2229": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Julho\n\nCom fundamento no disposto nos artigos 19.º, 20.º, 21.º e 26.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 80.º e 81.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro;\n\nOuvido o Conselho Nacional da Caça e da Conservação da Fauna:\n\nManda o Governo, pelo Ministro da Agricultura, o seguinte:\n\n1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Casas Brancas do Outeiro e do Meio», «Pucícaros Novos», «Pucícaros de Baixo» e outros, sitos na freguesia de Pavia, município de Mora, com uma área de 1201 ha, conforme planta anexa ao presente diploma e que dele faz parte integrante.\n\n2.º Pelo presente diploma é concessionada, pelo período de seis anos, à Associação de Caçadores de Casa Branca (registo no Instituto Florestal n.º 4.199.87), com sede em Volta do Vale, Couço, Coruche, a zona de caça associativa da Herdade de Casas Brancas e outras (processo n.º 1759 do Instituto Florestal).\n\n3.º A Associação de Caçadores de Casa Branca, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.\n\n4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados da Associação de Caçadores de Casa Branca, com observância das regras legais e das suas normas estatutárias e regulamentares.\n\n5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.\n\n2 - A sinalização obedecerá às condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925) e 6.º e 7.º da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.\n\n6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).\n\n7.º O disposto no presente diploma não é aplicável às áreas consignadas no artigo 14.º, n.os 1 e 2, da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.\n\n8.º Esta concessão é renovável nos termos do disposto no artigo 83.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874).\n\nMinistério da Agricultura.\n\nAssinada em 28 de Junho de 1995.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/160b00/44404441.pdf)"
+  },
+  "fab25727125be9c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1996-03-04",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 62/96](https://diariodarepublica.pt/dr/detalhe/portaria/62-1996-621767), publicado em 1996-02-28."
+   ],
+   "markdown": "de 13 de Julho\n\nCom fundamento no disposto nos artigos 19.º, 20.º, 21.º e 26.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 80.º e 81.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro;\n\nOuvido o Conselho Nacional da Caça e da Conservação da Fauna:\n\nManda o Governo, pelo Ministro da Agricultura, o seguinte:\n\n1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Casas Brancas do Outeiro e do Meio», «Pucícaros Novos», «Pucícaros de Baixo» e outros, sitos na freguesia de Pavia, município de Mora, com uma área de 1201 ha, conforme planta anexa ao presente diploma e que dele faz parte integrante.\n\n2.º Pelo presente diploma é concessionada, pelo período de 14 anos, à Associação de Caçadores de Casa Branca (registo no Instituto Florestal n.º 4.199.87), com sede em Volta do Vale, Couço, Coruche, a zona de caça associativa da Herdade de Casas Brancas e outras (processo n.º 1759 do Instituto Florestal).\n\n> Alterado pelo/a [Portaria n.º 62/96](https://diariodarepublica.pt/dr/detalhe/portaria/62-1996-621767), publicado em 1996-02-28.\n\n3.º A Associação de Caçadores de Casa Branca, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.\n\n4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados da Associação de Caçadores de Casa Branca, com observância das regras legais e das suas normas estatutárias e regulamentares.\n\n5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.\n\n2 - A sinalização obedecerá às condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925) e 6.º e 7.º da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.\n\n6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).\n\n7.º O disposto no presente diploma não é aplicável às áreas consignadas no artigo 14.º, n.os 1 e 2, da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.\n\n8.º Esta concessão é renovável nos termos do disposto no artigo 83.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874).\n\nMinistério da Agricultura.\n\nAssinada em 28 de Junho de 1995.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/160b00/44404441.pdf)"
+  }
+ }
+}

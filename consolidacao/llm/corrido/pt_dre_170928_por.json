@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:170928:por",
+  "substituicoes": [
+    {
+      "de": 38,
+      "ate": 39,
+      "texto": "Art. 7.º - (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 720/74): amnistia contravenções previstas no DL 43705; não altera o texto - nada aplicado.",
+    "Alterador 2 (DL 360/83), art. 4.º: revoga o artigo 7.º do DL 43705 - unidades 38 (corpo) e 39 (§ único) substituídas por 'Art. 7.º - (Revogado.)'."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 38-39: parágrafo que não está no alterador nem no original: Art. 7.º - (Revogado.)"
+  ]
+}

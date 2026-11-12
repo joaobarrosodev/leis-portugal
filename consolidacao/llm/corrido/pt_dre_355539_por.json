@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:355539:por",
+  "substituicoes": [
+    {
+      "de": 39,
+      "ate": 39,
+      "texto": "1 - O estágio pedagógico realiza-se em estabelecimento de ensino público que ministre os 7.º ao 12.º anos de escolaridade, sito na área geográfica do estabelecimento de ensino superior.\n\n2 - O estágio pedagógico poderá ainda realizar-se em escolas particulares ou cooperativas com paralelismo pedagógico, em condições a fixar por protocolo, a homologar pelo Ministério da Educação.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 718/95): nova redação do n.º 5.º; epígrafe igual, corpo (unidade 39) substituído pelos n.os 1 e 2.",
+    "Alterador 2 (DL 121/2005), art. 5.º, n.º 2, c): revogação das disposições regulamentares 'que se mostrem contrárias' ao diploma, com a entrada em vigor da regulamentação; revogação condicional, não aplicada ao texto. Art. 1.º altera outro diploma (ECD): ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
