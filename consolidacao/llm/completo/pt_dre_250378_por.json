@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:250378:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei n.º 44/96), art. 2.º: altera os artigos 9.º e 23.º-A da Lei n.º 21/85 na redacção dada pela Lei n.º 10/94; é alteração de outro diploma (Estatuto dos Magistrados Judiciais), não do original: ignorada. Os arts. 1.º, 3.º, 4.º e 5.º alteram/revogam a Lei n.º 38/87, o DL 214/88, o DL 376/87 e outros: ignorados.",
+    "Alterador 2 (Lei n.º 143/99): altera e adita artigos da Lei n.º 21/85 (menciona a Lei n.º 10/94 só como alteração anterior) e revoga o DL 342/88; nenhuma instrução dirigida aos artigos da Lei n.º 10/94: ignorado.",
+    "Alterador 3 (Lei n.º 42/2005): altera a Lei n.º 3/99, a Lei n.º 21/85 (arts. 9.º, 10.º-A, 28.º, adita 28.º-A), a Lei n.º 47/86 e o DL 343/99; nada dirigido ao original: ignorado.",
+    "Alterador 4 (Lei n.º 26/2008): altera a Lei n.º 21/85 e a Lei n.º 13/2002; nada dirigido ao original: ignorado.",
+    "Alterador 5 (Lei n.º 52/2008): sem artigos no pedido; nada a aplicar.",
+    "Alterador 6 (Lei n.º 63/2008): altera o artigo 17.º do Estatuto dos Magistrados Judiciais (Lei n.º 21/85); não é do original: ignorado.",
+    "Alterador 7 (Lei n.º 9/2011): altera a Lei n.º 21/85, a Lei n.º 47/86 e a Lei n.º 2/90; nada dirigido ao original: ignorado.",
+    "Alterador 8 (Lei n.º 67/2019): sem artigos no pedido; nada a aplicar.",
+    "Resultado: nenhum artigo da Lei n.º 10/94 muda em relação ao texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

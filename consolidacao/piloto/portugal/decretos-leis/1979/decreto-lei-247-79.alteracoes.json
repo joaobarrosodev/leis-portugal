@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "47.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 47.º — (Técnicos de exploração)\n\n1 - Os técnicos de exploração coordenadores serão providos de entre técnicos de exploração principais com, pelo menos, seis anos de bom e efectivo serviço na categoria e classe e que tenham revelado capacidade para funções de coordenação.\n\n2 - Os técnicos de exploração principais serão providos de entre técnicos de exploração com, pelo menos, três anos de bom e efectivo serviço na categoria e classe.\n\n3 - Os técnicos de exploração serão providos de entre:\n\na) Técnicos de exploração estagiários que tenham obtido aproveitamento no respectivo Estágio;\n\nb) Mediante provas práticas de entre adjuntos de exploração com, pelo menos, três anos de funções e que tenham adquirido a licenciatura adequada.\n\n4 - Os técnicos de exploração estagiários serão providos mediante provas práticas de entre indivíduos habilitados com a licenciatura adequada, sendo condição de preferência possuírem experiência ou formação complementar para as funções a que se destinam.\n\n5 - O estágio a que se refere o número anterior terá a duração de dois anos.",
+    "depois": "###### Artigo 47.º — (Técnicos de exploração)\n\n1 - Os técnicos de exploração coordenadores serão providos de entre técnicos de exploração principais com, pelo menos, seis anos de bom e efectivo serviço na categoria e classe e que tenham revelado capacidade para funções de coordenação.\n\n2 - Os técnicos de exploração principais serão providos de entre técnicos de exploração com, pelo menos, três anos de bom e efectivo serviço na categoria e classe.\n\n3 - Os técnicos de exploração serão providos de entre:\n\na) Técnicos de exploração estagiários que tenham obtido aproveitamento no respectivo Estágio;\n\nb) Mediante provas práticas de entre adjuntos de exploração com, pelo menos, 3 anos de funções e que tenham adquirido a licenciatura adequada, ou possuidores de carta de capitão da marinha mercante.\n\n4 - Os técnicos de exploração estagiários serão providos mediante provas práticas de entre indivíduos habilitados com a licenciatura adequada ou possuidores de carta de capitão da marinha mercante, sendo condição de preferência possuírem experiência ou formação complementar para as funções a que se destinam.\n\n5 - O estágio a que se refere o número anterior terá a duração de dois anos.\n\n> Alterado pelo/a [Decreto-Lei n.º 5/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1985-622289), publicado em 1985-01-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:381287:por",
+    "alterador": "pt:dre:622289:por"
+  }
+]

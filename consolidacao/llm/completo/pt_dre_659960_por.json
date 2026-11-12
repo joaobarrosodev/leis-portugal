@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:659960:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Lei n.º 44/96, art. 5.º: revoga o artigo 21.º-A do Decreto-Lei n.º 214/88 na redacção dada pelo Decreto-Lei n.º 312/93, mas só a partir de data futura (início de funcionamento dos tribunais de turno, 90 dias após a publicação de um aviso) e a instrução dirige-se ao Decreto-Lei n.º 214/88, não ao original; não aplicada.",
+  "instrucoes": [
+    "Alterador 1 (DL 411/93), artigo único: altera os artigos 29.º e 30.º do DL 214/88 na redacção dada pelo DL 312/93; instrução dirigida a outro diploma (DL 214/88), ignorada.",
+    "Alterador 2 (DL 222/94), art. 1.º: altera os artigos 6.º e 36.º do DL 214/88 (alterado pelo DL 312/93); dirigida a outro diploma, ignorada. Arts. 2.º a 4.º: normas próprias e alteração dos mapas do DL 214/88; ignoradas.",
+    "Alterador 3 (Lei 44/96), art. 3.º: altera os artigos 22.º e 22.º-A e adita 22.º-B e 22.º-C ao DL 214/88 (na redacção do DL 312/93); dirigida a outro diploma, ignorada. Arts. 1.º, 2.º e 4.º alteram a Lei 38/87, a Lei 21/85 e o DL 376/87; ignorados. Art. 5.º: revogação diferida do art. 21.º-A do DL 214/88; não aplicada (ver nao_aplicavel).",
+    "Alterador 4 (DL 25/2009): altera o DL 186-A/99 e contém normas próprias; nenhuma instrução dirigida ao DL 312/93; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:142530:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 464/70): altera a Reforma Aduaneira, o Contencioso Aduaneiro, as Instruções Preliminares das Pautas e o Regulamento das Alfândegas; só menciona a Lei n.º 5/70 no preâmbulo, sem instrução dirigida ao seu texto; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

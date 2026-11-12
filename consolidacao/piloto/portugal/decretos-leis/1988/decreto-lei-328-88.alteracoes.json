@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "5.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º — Transacção em bolsa\n\n1 - A transacção em bolsa de valores, que, nos termos da lei, é equiparada a concurso público, rege-se pela respectiva legislação aplicável.\n\n2 - O órgão de gestão da entidade alienante dará conhecimento, no fim de cada trimestre, ao Ministro das Finanças e ao ministro da tutela do resultado das operações de transacção em bolsa referentes à alienação das participações efectuadas.",
+    "depois": "###### Artigo 5.º — Transacção em bolsa\n\n1 - A transacção em bolsa de valores, que é para todos os efeitos equiparada a concurso público, independentemente do regime constante de lei geral ou especial para cada tipo de empresa a alienar e da actividade prosseguida nos termos do respectivo objecto, rege-se pela legislação própria aplicável.\n\n2 - O órgão de gestão da entidade alienante dará conhecimento, no fim de cada trimestre, ao Ministro das Finanças e ao ministro da tutela do resultado das operações de transacção em bolsa referentes à alienação das participações efectuadas.\n\n> Alterado pelo/a [Decreto-Lei n.º 290/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1989-546984), publicado em 1989-09-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:355521:por",
+    "alterador": "pt:dre:546984:por"
+  },
+  {
+    "artigo": "10.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 10.º — Direitos de preferência\n\n1 - Serão respeitadas as preferências legais ou estatutárias a que respeitem as participações públicas a alienar.\n\n2 - Os direitos de preferência devem ser exercidos até ao encerramento do acto de arrematação, sempre que haja lugar a concurso, e, no caso de negociação particular, tendo em atenção os termos legais e contratuais.",
+    "depois": "###### Artigo 10.º — Direitos de preferência\n\n1 - Serão respeitadas as preferências legais ou estatutárias a que respeitem as participações públicas a alienar.\n\n2 - Os direitos de preferência devem ser exercidos até ao encerramento do acto de arrematação, sempre que haja lugar a concurso, e, no caso de negociação particular, tendo em atenção os termos legais e contratuais.\n\n3 - Compete ao Governo regulamentar, mediante resolução, o exercício do direito de eventuais preferências legais, nos casos de concurso público e transacção em bolsa de valores.\n\n> Alterado pelo/a [Decreto-Lei n.º 290/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1989-546984), publicado em 1989-09-02.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:355521:por",
+    "alterador": "pt:dre:546984:por"
+  }
+]

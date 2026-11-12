@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:272027:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 117/75): dá nova redação aos artigos 4.º e 9.º do Decreto-Lei n.º 38801, modificado pelo original; altera outro diploma: ignorado.",
+    "Alterador 2 (Despacho Normativo n.º 91/82): revoga o Despacho Normativo n.º 239/78 e altera o Despacho Normativo n.º 126/78; só cita o original: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

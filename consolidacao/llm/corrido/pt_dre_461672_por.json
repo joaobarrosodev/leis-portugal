@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:461672:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (Portarias n.os 297/82, 1240/82, 1309/82, 212/84, 667/84, 25/85, 914/87, 413/91 e 11/92, esta repetida como alteradores 9 e 10) incidem sobre o quadro de pessoal anexo, que no original e nos alteradores só existe em imagem ((ver documento original)); não há texto a substituir nem a inserir.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 297/82): altera o quadro de pessoal; alterações só em imagem; não aplicado.",
+    "Alterador 2 (Portaria n.º 1240/82): altera o quadro na parte do pessoal de enfermagem; quadro em imagem; não aplicado.",
+    "Alterador 3 (Portaria n.º 1309/82): altera o quadro na parte do pessoal técnico superior e operário e auxiliar; quadro em imagem; não aplicado.",
+    "Alterador 4 (Portaria n.º 212/84): aumenta o quadro com os lugares do mapa anexo; mapa em imagem; não aplicado.",
+    "Alterador 5 (Portaria n.º 667/84): altera o quadro na parte do pessoal médico; quadro em imagem; não aplicado.",
+    "Alterador 6 (Portaria n.º 25/85): aumenta o quadro com lugares a extinguir quando vagarem; mapa em imagem; não aplicado.",
+    "Alterador 7 (Portaria n.º 914/87): altera o quadro (reestruturado pela Portaria n.º 491/87); quadro em imagem; não aplicado.",
+    "Alterador 8 (Portaria n.º 413/91): substitui os quadros de pessoal médico de vários hospitais; quadros em imagem; não aplicado.",
+    "Alteradores 9 e 10 (Portaria n.º 11/92, repetida): altera de novo o quadro; quadro em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

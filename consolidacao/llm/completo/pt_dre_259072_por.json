@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:259072:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei n.º 44/96), art. 1.º: altera o artigo 90.º da Lei n.º 38/87 na redação conferida pela Lei n.º 24/92; é alteração de outro diploma, ignorada (o 90.º do texto atual não muda).",
+    "Alterador 1, arts. 2.º a 5.º: alteram a Lei n.º 21/85, o Decreto-Lei n.º 214/88 e o Decreto-Lei n.º 376/87 e revogam normas de outros diplomas; ignoradas.",
+    "Alterador 2 (Decreto-Lei n.º 39/99), art. 1.º: altera o artigo 25.º do Decreto-Lei n.º 214/88; a Lei n.º 24/92 é só citada como lei habilitante; ignorada.",
+    "Nenhum artigo da Lei n.º 24/92 muda."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

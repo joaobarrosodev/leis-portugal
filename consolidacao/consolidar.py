@@ -130,7 +130,8 @@ _VERBO_ALTERACAO = re.compile(
 _ABRIGO = re.compile(r"\b(?:ao abrigo|nos termos|ouvid[oa]s?|considerando)\b", re.I)
 _FIM_ABRIGO = re.compile(r"(?:\bque\b|o seguinte|:)", re.I)
 _AGENTE_LISTA = re.compile(
-    r"(?:(?:alterad[oa]s?|redac?ção (?:que lhe (?:foi|é) )?dada|republicad[oa]s?|introduzidas?)\s+(?:pel[oa]s?|nos termos d[oa]s?)|(?:segundo|n)a redac?ção d[oa]s?)\b",
+    r"(?:(?:alterad[oa]s?|redac?ção (?:que lhe (?:foi|é) )?(?:dada|conferida|introduzida)|republicad[oa]s?|introduzidas?|conferida)\s+(?:pel[oa]s?|nos termos d[oa]s?)"
+    r"|(?:segundo|n)a redac?ção (?:actual |atual )?d[oa]s?|na sua redac?ção actual|na redac?ção resultante d[oa]s?)\b",
     re.I,
 )
 _NAO_LISTA = re.compile(r"\b(?:que|seja|sejam|é|são|aprovad[oa]s?|criad[oa]s?|o quadro|a zona|passa|passe)\b", re.I)
@@ -269,6 +270,7 @@ def processar(registo: dict, escrever: bool = True, extra: dict | None = None) -
     aplicados: list[dict] = []  # os alteradores que deram registos, para o cabeçalho do consolidado
     pendentes: list[dict] = []
     falha: dict | None = None
+    provavel: dict | None = None  # a 1.ª alteração provável que as regras não leem (`alteracao_provavel`)
     regras: Counter = Counter()
     republicacoes: list[dict] = []
     tocados_total: set[str] = set()
@@ -292,7 +294,9 @@ def processar(registo: dict, escrever: bool = True, extra: dict | None = None) -
                 motivo = MOTIVO_PROVAVEL
                 passos.append(passo | {"triagem": "para LLM", "motivo": motivo, "excerto": excerto})
                 pendentes.append({"alterador": passo["alterador"], "id": alt["id"], "motivo": motivo, "excerto": excerto})
-                falha = falha or {"alterador": passo["alterador"], "indice": k, "fase": "leitura", "motivo": motivo}
+                # Não é uma falha das regras: os alteradores seguintes continuam a aplicar-se por regra
+                # (o `juntar.py` conta com esses artigos, que o pedido ao LLM dá como já aplicados).
+                provavel = provavel or {"alterador": passo["alterador"], "indice": k, "fase": "leitura", "motivo": motivo}
                 continue
             passos.append(passo | {"triagem": "sem alteração textual", "motivo": _motivo_sem_alteracao(leitura, texto_alterador, registo["title"])})
             continue
@@ -383,6 +387,8 @@ def processar(registo: dict, escrever: bool = True, extra: dict | None = None) -
         problemas = [x for p in passos for x in p.get("problemas", [])]
         if problemas:
             estado["problemas"] = problemas
+    elif provavel is not None:
+        estado |= {"estado": "para LLM", "motivo": provavel["motivo"], "falhou_em": provavel}
     elif triagem == "aplicável por regra":
         estado |= {"estado": "aplicado por regra", "motivo": ""}
     else:

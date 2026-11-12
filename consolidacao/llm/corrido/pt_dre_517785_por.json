@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:517785:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 274/71, artigo único) altera o quadro-tipo anexo pela forma constante de um mapa anexo que só vem em imagem (ver documento original); o texto novo dos quadros não está disponível.",
+  "instrucoes": [
+    "Alterador 1, artigo único: altera o quadro-tipo anexo (unidades 79-94) pelo mapa anexo, só em imagem: não aplicado (nao_aplicavel).",
+    "Alterador 2 (Decreto-Lei n.º 90/2004): altera os Decretos-Leis n.os 72/91 e 118/92, não o original; só o refere no preâmbulo: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

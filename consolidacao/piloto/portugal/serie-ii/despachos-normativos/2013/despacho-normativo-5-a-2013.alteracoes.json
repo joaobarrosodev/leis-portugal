@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "ANEXO I — Organização e Funcionamento dos Serviços da Universidade de Lisboa e das suas Escolas::1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Objeto\n\nO presente anexo define a qualificação, o grau, a designação dos cargos dirigentes, ou a sua equiparação para efeitos remuneratórios dos serviços da Universidade de Lisboa e das suas Escolas, que compreendem cargos de direção superior de 1.º e 2º grau e cargos de direção intermédia de 1.º, 2º, 3.º, 4.º e 5.º grau.",
+    "depois": "###### Artigo 1.º — Objeto\n\nO presente anexo define a qualificação, o grau, a designação dos cargos dirigentes, dos serviços da Universidade de Lisboa e das suas escolas, que compreendem cargos de direção superior de 1.º e 2.º graus e cargos de direção intermédia de 1.º, 2.º, 3.º, 4.º e 5.º graus.\n\n> Alterado pelo/a [Despacho Normativo n.º 8/2020](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2020-139459994), publicado em 2020-08-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1864678:por",
+    "alterador": "pt:dre:139459994:por"
+  },
+  {
+    "artigo": "ANEXO I — Organização e Funcionamento dos Serviços da Universidade de Lisboa e das suas Escolas::6.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 6.º — Estrutura dirigente das Escolas\n\nSem prejuízo do disposto no artigo 2º do presente anexo, os serviços das Escolas são coordenados por dirigentes de acordo com a seguinte tipologia, devendo a sua organização concreta, designadamente no que respeita à categoria que detém ou a que é equiparado o pessoal dirigente, nos termos das alíneas seguintes, ser especificada nos estatutos a que alude o artigo 3.º:\n\na) Um dos três seguintes dirigentes:\n\ni) Administrador da Escola, equiparado para efeitos remuneratórios a cargo de direção superior de 1.º grau; ou\n\nii) Diretor Executivo da Escola, equiparado para efeitos remuneratórios a cargo de direção superior de 2º grau; ou\n\niii) Secretário da Escola, cargo de direção intermédia de 1.º grau;\n\nb) Os Diretores de Serviço correspondem a cargos de direção intermédia de 1.º grau;\n\nc) Os Coordenadores de Área ou Divisão correspondem a cargos de direção intermédia de 2º grau;\n\nd) Os Coordenadores de Gabinete, de Núcleo ou de Serviço correspondem a cargos de direção intermédia de 3.º, 4.º ou 5.º grau.",
+    "depois": "###### Artigo 6.º — Estrutura dirigente das Escolas\n\nOs serviços das escolas são coordenados por dirigentes de acordo com a seguinte tipologia, devendo a sua organização concreta, designadamente a qualificação do cargo que detém ou a que é equiparado o pessoal dirigente, nos termos das alíneas seguintes, ser especificada nos estatutos a que alude o artigo 3.º:\n\na) Um dos três seguintes dirigentes:\n\ni) Administrador da escola, qualificado como cargo de direção superior de 1.º grau; ou\n\nii) Diretor executivo da escola, qualificado como cargo de direção superior de 2.º grau; ou\n\niii) Secretário da escola, qualificado como cargo de direção intermédia de 1.º grau;\n\nb) Os Diretores de Serviço correspondem a cargos de direção intermédia de 1.º grau;\n\nc) Os Coordenadores de Área ou Divisão correspondem a cargos de direção intermédia de 2º grau;\n\nd) Os Coordenadores de Gabinete, de Núcleo ou de Serviço correspondem a cargos de direção intermédia de 3.º, 4.º ou 5.º grau.\n\n> Alterado pelo/a [Despacho Normativo n.º 8/2020](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2020-139459994), publicado em 2020-08-04.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1864678:por",
+    "alterador": "pt:dre:139459994:por"
+  }
+]

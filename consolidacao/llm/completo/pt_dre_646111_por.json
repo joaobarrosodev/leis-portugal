@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:646111:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Nenhuma instrução dos alteradores se dirige ao Decreto-Lei n.º 201/2002: os alteradores 7 (DL 126/2008), 8 (DL 211-A/2008), 10 (DL 162/2009), 13 (DL 140-A/2010) e 18 (DL 114-A/2014) alteram, aditam e revogam artigos do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92 (outro diploma, que o original apenas alterou e republicou em anexo), e outros diplomas (DL 345/98, CVM, DL 252/2003, DL 60/2002, DL 94-B/98, DL 228/2000, DL 453/99, DL 222/99, DL 104/2007); o DL 201/2002 só aparece na lista das alterações anteriores do RGICSF. Por isso não se aplicaram ao texto do original nem à republicação em anexo. Os alteradores 1-6, 9, 11, 12, 14-17, 19 e 20 vêm sem artigos que mencionem o original.",
+  "instrucoes": [
+    "DL 126/2008 art. 1.º: altera os arts. 30.º, 31.º, 33.º, 69.º, 77.º-A, 85.º, 143.º, 154.º, 158.º e 227.º do RGICSF (DL 298/92) - outro diploma, ignorado; restantes artigos alteram o DL 345/98 - ignorados",
+    "DL 211-A/2008: altera arts. 77.º, 77.º-C, 120.º, 167.º e 203.º do RGICSF e outros diplomas (DL 345/98, CVM, DL 252/2003, DL 60/2002, DL 94-B/98, DL 228/2000, DL 453/99) - outros diplomas, ignorado",
+    "DL 162/2009: altera arts. 101.º, 155.º, 156.º, 157.º, 165.º, 167.º e 167.º-A do RGICSF, DL 345/98 e DL 222/99 - outros diplomas, ignorado",
+    "DL 140-A/2010: altera, adita (14.º-A, 40.º-A, 56.º-A, 135.º-B, 135.º-C) e revoga alíneas do RGICSF e altera o DL 104/2007 - outros diplomas, ignorado",
+    "DL 114-A/2014: altera arts. 145.º-B, 145.º-F, 145.º-H, 145.º-I, 153.º-M, 155.º e 211.º do RGICSF - outro diploma, ignorado",
+    "Alteradores 1-6, 9, 11, 12, 14-17, 19, 20: sem artigos que mencionem o original - nada a aplicar"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

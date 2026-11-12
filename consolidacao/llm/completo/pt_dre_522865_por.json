@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:522865:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 5 (Acórdão n.º 564/2004): declara a inconstitucionalidade, com força obrigatória geral, da norma do n.º 4 do artigo 10.º apenas 'na parte em que determina que [...] será deduzida, na restituição da quantia paga, a parcela correspondente à participação emolumentar dos funcionários dos registos e do notariado'; é uma declaração parcial, não textual, sem nova redação nem supressão de palavras indicada, pelo que não se aplica ao texto do artigo 10.º.",
+  "instrucoes": [
+    "Alteradores 1, 3, 4, 6, 7, 8, 9, 10, 12, 13, 14, 16 e 18: sem artigos que mencionem o original; nada a aplicar.",
+    "Alterador 2 (Lei n.º 16-A/2002): altera a Lei n.º 109-B/2001 e códigos fiscais (IRS, IRC, IVA, Imposto do Selo, EBF, etc.); nenhuma instrução dirigida à Lei n.º 85/2001; ignorado.",
+    "Alterador 5 (Acórdão n.º 564/2004): declaração de inconstitucionalidade parcial do n.º 4 do artigo 10.º ('na parte em que'); não textual, registada em nao_aplicavel; artigo 10.º mantido.",
+    "Alterador 11 (Lei n.º 64/2008): altera os Códigos do IRS, IRC, IMI e o EBF; nenhuma instrução dirigida ao original; ignorado.",
+    "Alterador 15 (Lei n.º 55-A/2010, art. 135.º): altera a Portaria n.º 184/2002, que apenas cita a redação do Código do IRC dada pela Lei n.º 85/2001; instrução de outro diploma; ignorada.",
+    "Alterador 17 (Lei n.º 75-A/2014): altera a Lei n.º 83-C/2013, a Lei n.º 108/91, o Decreto-Lei n.º 413/98, a Lei n.º 28/2012 e outros; nenhuma instrução dirigida ao original; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

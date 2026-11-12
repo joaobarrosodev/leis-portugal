@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:424312:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "Art. 2.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 2.º, n.º 1: nova redação do n.º 3 do artigo 24.º da Lei n.º 65/90 revoga o artigo 2.º do original: unidade 9 substituída por revogado.",
+    "Restantes normas do alterador 1 dirigem-se a outros diplomas: ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 9-9: parágrafo que não está no alterador nem no original: Art. 2.º - (Revogado.)"
+  ]
+}

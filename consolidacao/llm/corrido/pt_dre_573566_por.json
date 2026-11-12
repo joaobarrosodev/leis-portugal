@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:573566:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias n.os 807-A1/83, 807-R/83, 807-S/83, 807-T/83, 807-U/83, 807-V/83, 807-X/83, 807-Z/83, 758/84 e 989/84 alteram o quadro de pessoal dos hospitais concelhios do distrito de Lisboa (enfermagem, técnico superior, operário e auxiliar, reajustamentos) por quadros anexos que só vêm em imagem; não há instrução textual dirigida ao texto do original.",
+  "instrucoes": [
+    "Alteradores 1 a 8 (Portarias n.os 807-A1/83 a 807-Z/83): alteram o quadro de pessoal de enfermagem de cada hospital concelhio por quadro anexo em imagem; não aplicado.",
+    "Alterador 9 (Portaria n.º 758/84): altera o quadro na parte do pessoal técnico superior e operário e auxiliar, quadro em imagem; não aplicado.",
+    "Alterador 10 (Portaria n.º 989/84): introduz reajustamentos no quadro de pessoal por quadro anexo em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

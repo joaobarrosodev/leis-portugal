@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-09-07'
+version_history:
+  file: decreto-lei-328-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-09-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-09-07'
+    amending: pt:dre:546984:por
+    amending_title: Decreto-Lei n.º 290/89
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:42:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 290/89. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-328-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,9 +178,11 @@ c) Nos serviços competentes da entidade alienante estará patente, para consult
 
 ###### Artigo 5.º — Transacção em bolsa
 
-1 - A transacção em bolsa de valores, que, nos termos da lei, é equiparada a concurso público, rege-se pela respectiva legislação aplicável.
+1 - A transacção em bolsa de valores, que é para todos os efeitos equiparada a concurso público, independentemente do regime constante de lei geral ou especial para cada tipo de empresa a alienar e da actividade prosseguida nos termos do respectivo objecto, rege-se pela legislação própria aplicável.
 
 2 - O órgão de gestão da entidade alienante dará conhecimento, no fim de cada trimestre, ao Ministro das Finanças e ao ministro da tutela do resultado das operações de transacção em bolsa referentes à alienação das participações efectuadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 290/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1989-546984), publicado em 1989-09-02.
 
 ###### Artigo 6.º — Negociação particular - regras gerais
 
@@ -205,6 +223,10 @@ O preço base da alienação em concurso público e o preço em negociação par
 1 - Serão respeitadas as preferências legais ou estatutárias a que respeitem as participações públicas a alienar.
 
 2 - Os direitos de preferência devem ser exercidos até ao encerramento do acto de arrematação, sempre que haja lugar a concurso, e, no caso de negociação particular, tendo em atenção os termos legais e contratuais.
+
+3 - Compete ao Governo regulamentar, mediante resolução, o exercício do direito de eventuais preferências legais, nos casos de concurso público e transacção em bolsa de valores.
+
+> Alterado pelo/a [Decreto-Lei n.º 290/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1989-546984), publicado em 1989-09-02.
 
 ###### Artigo 11.º — Inalienabilidade
 

@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:461670:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (Portarias n.os 141/82, 1248/82, 510/83, 807-D4/83, 807-E2/83, 728/84, 40/85, 584/85, 673/85, 304/86, 633/88, 385/89, 113/90, 413/91, 1/94 e 1374/2002) incidem sobre o quadro de pessoal anexo (lugares, carreiras, distribuição de lugares), que no original e nos alteradores só existe em imagem ((ver documento original)); não há texto do original a substituir nem a inserir.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 141/82): reajusta o quadro; alterações em imagem; não aplicado.",
+    "Alterador 2 (Portaria n.º 1248/82): altera o quadro na parte do pessoal de enfermagem; quadro em imagem; não aplicado.",
+    "Alterador 3 (Portaria n.º 510/83): altera o quadro; alterações em imagem; não aplicado.",
+    "Alterador 4 (Portaria n.º 807-D4/83): altera o quadro na parte do pessoal técnico superior e médico; quadro em imagem; não aplicado.",
+    "Alterador 5 (Portaria n.º 807-E2/83): aumenta o quadro com os lugares do mapa anexo; mapa em imagem; não aplicado.",
+    "Alterador 6 (Portaria n.º 728/84): altera o quadro na parte do pessoal técnico; quadro em imagem; não aplicado.",
+    "Alterador 7 (Portaria n.º 40/85): altera o quadro na parte do pessoal médico; quadro em imagem; não aplicado.",
+    "Alterador 8 (Portaria n.º 584/85): aumenta o quadro de um lugar a extinguir quando vagar; mapa em imagem; não aplicado.",
+    "Alterador 9 (Portaria n.º 673/85): altera o quadro na parte do pessoal técnico auxiliar de diagnóstico e terapêutica; quadro em imagem; não aplicado.",
+    "Alterador 10 (Portaria n.º 304/86): altera de novo o quadro; quadro em imagem; não aplicado.",
+    "Alterador 11 (Portaria n.º 633/88): reestrutura o quadro (cirurgia geral); quadro em imagem; não aplicado.",
+    "Alterador 12 (Portaria n.º 385/89): altera de novo o quadro; quadro em imagem; não aplicado.",
+    "Alterador 13 (Portaria n.º 113/90): distribui 3 lugares de parteira ao Hospital Distrital de Torres Vedras, alterando o quadro; o quadro só existe em imagem e não há texto do original a mudar; não aplicado.",
+    "Alterador 14 (Portaria n.º 413/91): substitui os quadros de pessoal médico de vários hospitais; quadros em imagem; não aplicado.",
+    "Alterador 15 (Portaria n.º 1/94): altera de novo o quadro; quadro em imagem; não aplicado.",
+    "Alterador 16 (Portaria n.º 1374/2002): acresce lugares aos quadros (anexo n.º 2); anexo em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

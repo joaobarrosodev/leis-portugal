@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:601132:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As alterações (Portarias n.os 791/83 e 607/93) incidem sobre o quadro de pessoal do Hospital de S. João, que só existe em imagem ((ver documento original)), tal como as alterações da própria Portaria n.º 35/82 (unidade 7); não há texto a substituir nem a inserir.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 791/83): altera o quadro de pessoal na parte do pessoal dirigente e técnico superior; quadro em imagem; não aplicado.",
+    "Alterador 2 (Portaria n.º 607/93): altera de novo o quadro (carreiras de informática); quadro em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

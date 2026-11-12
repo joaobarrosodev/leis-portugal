@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:1782382:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Os três alteradores (Despacho Normativo n.º 8/2019, Despacho Normativo n.º 11/2024 e Despacho Normativo n.º 2/2026) vêm no pedido sem qualquer texto: não há instruções que se possam ler nem aplicar; o texto atual fica como está.",
+  "instrucoes": [
+    "Alterador 1 (DN 8/2019): sem texto no pedido; nada aplicado.",
+    "Alterador 2 (DN 11/2024): sem texto no pedido; nada aplicado.",
+    "Alterador 3 (DN 2/2026): sem texto no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

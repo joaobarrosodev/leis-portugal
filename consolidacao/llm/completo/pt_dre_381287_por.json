@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:381287:por",
+  "artigos": [
+    {
+      "chave": "47.º",
+      "epigrafe": "(Técnicos de exploração)",
+      "texto": "1 - Os técnicos de exploração coordenadores serão providos de entre técnicos de exploração principais com, pelo menos, seis anos de bom e efectivo serviço na categoria e classe e que tenham revelado capacidade para funções de coordenação.\n\n2 - Os técnicos de exploração principais serão providos de entre técnicos de exploração com, pelo menos, três anos de bom e efectivo serviço na categoria e classe.\n\n3 - Os técnicos de exploração serão providos de entre:\n\na) Técnicos de exploração estagiários que tenham obtido aproveitamento no respectivo Estágio;\n\nb) Mediante provas práticas de entre adjuntos de exploração com, pelo menos, 3 anos de funções e que tenham adquirido a licenciatura adequada, ou possuidores de carta de capitão da marinha mercante.\n\n4 - Os técnicos de exploração estagiários serão providos mediante provas práticas de entre indivíduos habilitados com a licenciatura adequada ou possuidores de carta de capitão da marinha mercante, sendo condição de preferência possuírem experiência ou formação complementar para as funções a que se destinam.\n\n5 - O estágio a que se refere o número anterior terá a duração de dois anos.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 108/83): torna extensivos à APS os artigos 18.º e 19.º do original; não altera o texto, nada aplicado.",
+    "Alterador 2 (Decreto-Lei n.º 5/85): nova redação da alínea b) do n.º 3 e do n.º 4 do artigo 47.º; aplicada, mantendo os n.os 1, 2, 3 (proémio), alínea a) e 5 do texto atual.",
+    "Alterador 3 (Despacho Normativo n.º 48/89): corrige o Despacho Normativo n.º 63/88 (revoga a norma 8.ª e substitui o anexo); é outro diploma, nada aplicado ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

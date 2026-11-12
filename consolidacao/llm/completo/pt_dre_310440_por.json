@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:310440:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 648/83), número único: nova redacção da rubrica CAE ex 3610.1.0 do anexo III; o conteúdo do anexo III não consta do texto atual (só o título de divisão), pelo que não se pode aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 648/83): altera a rubrica CAE ex 3610.1.0 do anexo III; anexo sem texto no texto atual: não aplicado (nao_aplicavel).",
+    "Alterador 2 (Decreto-Lei n.º 246/96): altera os artigos 1.º, 2.º e 3.º do Decreto-Lei n.º 210/95 (outro diploma): ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

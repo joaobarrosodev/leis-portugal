@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:544395:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 123/2012), arts. 2.º, 3.º e 4.º: alteram os arts. 21.º, 27.º e 48.º, aditam o 23.º-A e revogam o n.º 4 do 48.º da Lei n.º 3/2004 (alterada pelo DL 5/2012), não do DL 5/2012 nem do seu anexo de republicação: ignoradas.",
+    "Alterador 2 (Lei 24/2012), art. 5.º: altera o art. 3.º da Lei n.º 3/2004: outro diploma, ignorada; art. 4.º só cita a lei-quadro.",
+    "Alterador 3 (Lei 66-B/2012), art. 168.º: altera o art. 36.º da Lei n.º 3/2004: outro diploma, ignorada; art. 62.º só cita.",
+    "Alterador 4 (DL 102/2013), art. 31.º: altera o art. 48.º da Lei n.º 3/2004: outro diploma, ignorada.",
+    "Alterador 5 (DL 96/2015), art. 19.º: altera o art. 48.º da Lei n.º 3/2004: outro diploma, ignorada.",
+    "Alterador 6 (Lei 150/2015), art. 4.º: só cita a lei-quadro; sem instrução dirigida ao original.",
+    "Nenhuma instrução se dirige ao DL 5/2012: nenhum artigo muda."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:177451:por",
+  "artigos": [
+    {
+      "chave": "44.º",
+      "epigrafe": "(Exigência de licença de construção ou de utilização para efeitos de transmissão de prédios)",
+      "texto": "1 - Não podem ser celebradas escrituras públicas que envolvam a transmissão da propriedade de prédios urbanos sem que se faça perante o notário prova suficiente da inscrição na matriz predial e da existência da correspondente licença de construção ou de utilização, quando exigível, da qual se fará sempre menção na escritura.\n\n2 - No caso de os prédios estarem omissos na matriz é suficiente a prova de haver sido apresentada na repartição de finanças a participação para a inscrição.\n\n3 - A prova da participação para a inscrição na matriz, quando se trate de prédio omisso, faz-se pela exibição de duplicado que tenha aposto o recibo da repartição de finanças, com antecedência não superior a um ano, e pela exibição de outro documento dela emanado, autenticado com o respectivo selo branco.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 2 (Lei n.º 6/2006) vem no pedido sem qualquer texto: não há instrução que se possa ler nem aplicar.",
+  "instrucoes": [
+    "Alterador 1 (DL 74/86), art. 1.º: nova redação do artigo 44.º (n.os 1 a 3); aplicada, copiada letra a letra.",
+    "Alterador 2 (Lei 6/2006): sem texto no pedido; nada aplicado (ver nao_aplicavel).",
+    "Alterador 3 (Lei 31/2012), art. 2.º: altera artigos do Código Civil (alterado, entre outros, pela Lei 46/85) — outro diploma; ignorada.",
+    "Alterador 4 (Lei 24/2017): altera/adita o Código Civil, a Lei 112/2009, o CPP, o RGPTC e a Lei 75/98 — outros diplomas; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

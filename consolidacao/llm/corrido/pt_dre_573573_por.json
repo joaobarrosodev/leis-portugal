@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:573573:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os 15 alteradores (Portarias n.os 319/82, 337/83, 329/83, 330/83, 340/83, 336/83, 338/83, 339/83, 333/83, 328/83, 381/83, 807-J1/83, 323/84, 369/84 e 119/87) alteram ou reajustam apenas o quadro de pessoal anexo, que no original e nos alteradores só existe em imagem (ver documento original); não há alteração textual aplicável ao texto.",
+  "instrucoes": [
+    "Alterador 1: reajustamentos do quadro dos hospitais concelhios do distrito de Viseu constantes de anexo em imagem: não aplicado.",
+    "Alteradores 2-13: alteram o quadro anexo na parte do pessoal de enfermagem (Avelal - Sátão, São Pedro do Sul, Tabuaço, Mangualde, Armamar, Carregal do Sal, Cinfães, Vouzela, Santa Comba Dão, Tondela, Mortágua, Castro Daire); só em imagem: não aplicado.",
+    "Alterador 14: altera o quadro na parte do pessoal técnico superior e operário e auxiliar; só em imagem: não aplicado.",
+    "Alterador 15: altera o quadro do Hospital Distrital de Tondela na parte do pessoal técnico superior; só em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

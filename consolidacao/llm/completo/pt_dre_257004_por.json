@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:257004:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei n.º 42/2013): altera os artigos 45.º e 113.º da Lei n.º 5/2004 (na redação dada, entre outras, pela Lei n.º 10/2013); instrução dirigida a outro diploma, ignorada.",
+    "Alterador 2 (Lei n.º 47/2014): altera, adita e republica a Lei n.º 24/96 e altera o Decreto-Lei n.º 24/2014; nenhuma instrução dirigida à Lei n.º 10/2013, ignorada.",
+    "Alterador 3 (Lei n.º 15/2016): altera a Lei n.º 5/2004; nenhuma instrução dirigida à Lei n.º 10/2013, ignorada.",
+    "Alterador 4 (Lei n.º 14/2019): altera e adita à Lei n.º 144/2015; a Lei n.º 10/2013 só é citada no elenco de alterações da Lei n.º 23/96; nada a aplicar ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

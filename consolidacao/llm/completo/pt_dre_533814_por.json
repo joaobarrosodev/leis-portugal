@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:533814:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (RCM 76/2005), n.º 5: altera a classificação de praia definida na planta de síntese (troço entre as coordenadas Gauss 415507 e 411688) - alteração cartográfica, não textual, sem nova redação de artigos do regulamento. Alterador 2 (RCM 39/2012), n.os 1 e 2: suspende por três anos a alínea f) do n.º 3 do artigo 57.º, só na área delimitada na planta anexa - suspensão temporária e territorialmente limitada, não é alteração textual. Alterador 3 (RCM 112/2017): não traz texto de artigos que mencionem o original.",
+  "instrucoes": [
+    "Alterador 1, n.º 5: alteração da classificação de praia na planta de síntese do POOC - cartográfica, não aplicada ao texto (nao_aplicavel).",
+    "Alterador 1, n.º 4 e Regulamento do PORNDSJ: dirigem-se ao diploma de classificação da área protegida e ao novo regulamento, não ao original - ignorados.",
+    "Alterador 2, n.º 1-2: suspensão por três anos da alínea f) do n.º 3 do artigo 57.º na área da planta anexa - não textual, artigo 57.º mantido (nao_aplicavel).",
+    "Alterador 3: sem conteúdo dirigido ao original - nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

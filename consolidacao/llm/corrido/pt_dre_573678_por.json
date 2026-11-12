@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:573678:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 17 alteram ou aumentam o quadro de pessoal anexo (unidade 9), que só existe em imagem no original, por quadros e mapas anexos que também só vêm em imagem; não há alteração textual que se possa aplicar.",
+  "instrucoes": [
+    "Alteradores 1 a 11 e 13 (Portarias n.os 1210/82, 216/83, 215/83, 202/83, 222/83, 230/83, 224/83, 204/83, 200/83, 223/83, 308/83 e 807-I1/83): alteram o quadro de cada hospital concelhio na parte do pessoal de enfermagem, por quadro em imagem; não aplicado.",
+    "Alterador 12 (Portaria n.º 807-D2/83): aumenta lugares no quadro do Hospital Concelhio de Estremoz, por mapa em imagem; não aplicado.",
+    "Alteradores 14 a 17 (Portarias n.os 476/84, 487/84, 921/85 e 168/87): alteram os quadros na parte do pessoal operário e auxiliar, por quadros em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

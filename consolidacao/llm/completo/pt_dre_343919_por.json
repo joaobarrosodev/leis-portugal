@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:343919:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei n.º 2/2016), art. 2.º: altera o artigo 7.º da Lei n.º 7/2001, alterada pela Lei n.º 23/2010; é alteração de outro diploma (a Lei n.º 7/2001), não do original nem do seu anexo de republicação: ignorada.",
+    "Alterador 1, arts. 3.º, 4.º e 6.º: alteram a Lei n.º 9/2010, o Código do Registo Civil e o Decreto-Lei n.º 121/2010; não são do original: ignoradas.",
+    "Alteradores 2 (Lei n.º 49/2018) e 3 (Lei n.º 71/2018): sem artigos que mencionem o original; nada a aplicar.",
+    "Alterador 4 (Decreto Regulamentar n.º 4/2022), art. 67.º: apenas remete para o artigo 2.º-A da Lei n.º 7/2001, alterada pelo original; não é instrução de alteração: nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

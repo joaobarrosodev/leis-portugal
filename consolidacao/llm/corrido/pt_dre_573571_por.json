@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:573571:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os 14 alteradores (Portarias n.os 1209/82, 1214/82, 1195/82, 1213/82, 1254/82, 227/83, 341/83, 542/83, 523/84, 754/84, 193/85, 571/85, 570/85 e 85/86) alteram, reestruturam ou aumentam apenas o quadro de pessoal anexo, que no original e nos alteradores só existe em imagem (ver documento original); não há alteração textual aplicável ao texto.",
+  "instrucoes": [
+    "Alteradores 1-6, 10 e 14: alteram o quadro anexo na parte do pessoal de enfermagem de hospitais concelhios (Sines, Sesimbra, Alcochete, Palmela, Montijo, Santiago do Cacém, Alcácer do Sal, Alhos Vedros); só em imagem: não aplicado.",
+    "Alteradores 7 e 8: reajustamentos do quadro (Montijo; distrito de Setúbal) constantes de anexo em imagem: não aplicado.",
+    "Alteradores 9 e 11: alteram/reestruturam o quadro na parte do pessoal operário e auxiliar; só em imagem: não aplicado.",
+    "Alteradores 12 e 13: aumentam o quadro com lugares de mapa anexo em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

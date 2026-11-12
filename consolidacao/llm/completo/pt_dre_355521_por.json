@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:355521:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Transacção em bolsa",
+      "texto": "1 - A transacção em bolsa de valores, que é para todos os efeitos equiparada a concurso público, independentemente do regime constante de lei geral ou especial para cada tipo de empresa a alienar e da actividade prosseguida nos termos do respectivo objecto, rege-se pela legislação própria aplicável.\n\n2 - O órgão de gestão da entidade alienante dará conhecimento, no fim de cada trimestre, ao Ministro das Finanças e ao ministro da tutela do resultado das operações de transacção em bolsa referentes à alienação das participações efectuadas.",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Direitos de preferência",
+      "texto": "1 - Serão respeitadas as preferências legais ou estatutárias a que respeitem as participações públicas a alienar.\n\n2 - Os direitos de preferência devem ser exercidos até ao encerramento do acto de arrematação, sempre que haja lugar a concurso, e, no caso de negociação particular, tendo em atenção os termos legais e contratuais.\n\n3 - Compete ao Governo regulamentar, mediante resolução, o exercício do direito de eventuais preferências legais, nos casos de concurso público e transacção em bolsa de valores.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 290/89: nova redação do n.º 1 do art. 5.º (n.º 2 mantido)",
+    "DL 290/89: aditado n.º 3 ao art. 10.º (n.os 1 e 2 mantidos)",
+    "DL 99/2004: altera e revoga artigos do DL 42/94, não do original: ignorado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

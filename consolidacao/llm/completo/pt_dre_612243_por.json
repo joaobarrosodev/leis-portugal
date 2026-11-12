@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:612243:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (Lei n.º 13/2023): o pedido não traz nenhum texto deste diploma (secção vazia), pelo que não há instrução dirigida ao original que se possa ler e aplicar.",
+  "instrucoes": [
+    "Lei n.º 13/2023: sem texto no pedido; nada aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:570559:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 261/2001), art. 2.º: altera e adita bases da concessão do DL 394-A/98 «com a redacção dada pela Lei n.º 161/99» — é outro diploma; ignorada.",
+    "Alterador 2 (DL 249/2002), artigo único: altera a base VII das bases anexas ao DL 394-A/98 — outro diploma; ignorada.",
+    "Alterador 3 (DL 33/2003), art. 1.º: altera a base XIV das bases anexas ao DL 394-A/98 — outro diploma; ignorada.",
+    "Alterador 4 (DL 166/2003), artigo único: altera a base VI das bases anexas ao DL 394-A/98 — outro diploma; ignorada.",
+    "Alterador 5 (DL 233/2003), artigo único: altera a base VI das bases do DL 394-A/98 — outro diploma; ignorada.",
+    "Alterador 6 (DL 192/2008), arts. 1.º a 3.º: altera e revoga bases e artigos dos estatutos da Metro do Porto anexos ao DL 394-A/98, «na redacção dada pela Lei n.º 161/99» — outro diploma; ignoradas.",
+    "Alterador 7 (DL 68/2021): altera bases do DL 394-A/98 e o DL 175/2014 — outros diplomas; nenhuma instrução dirigida à Lei n.º 161/99; ignoradas. Os artigos 1.º e 2.º da Lei n.º 161/99 ficam como estão."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

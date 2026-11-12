@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:391575:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei Orgânica n.º 1/2011): todas as alterações e revogações (arts. 2.º a 15.º e 17.º) são dirigidas a outros diplomas (Decreto-Lei n.º 406/74, Decreto-Lei n.º 319-A/76, Lei n.º 14/79, Lei n.º 28/82, Lei n.º 44/86, Lei n.º 14/87, Lei n.º 64/93, Lei n.º 20/95, Lei n.º 15-A/98, Lei n.º 169/99, Lei Orgânica n.º 4/2000, Lei Orgânica n.º 1/2001, Leis n.os 25/2006, 27/2006, 27/96); a Lei Orgânica n.º 1/99 só é citada como alteração anterior desses diplomas: ignoradas.",
+    "Alterador 2 (Lei Orgânica n.º 10/2015): altera os arts. 23.º, 40.º, 95.º, 104.º e 108.º da Lei n.º 14/79 (Lei Eleitoral para a AR), não o original: ignorada.",
+    "Alterador 3 (Lei Orgânica n.º 3/2018): sem texto de artigos que mencionem o original; nenhuma instrução a aplicar.",
+    "Nenhum artigo do original muda."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

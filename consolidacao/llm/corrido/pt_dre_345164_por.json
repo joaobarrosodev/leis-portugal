@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:345164:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 542/77): o pedido não traz nenhum artigo que altere o texto da Lei n.º 24/77; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

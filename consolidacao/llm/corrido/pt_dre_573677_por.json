@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:573677:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os 13 alteradores (Portarias n.os 1204/82, 1207/82, 1203/82, 1196/82, 1280/82, 217/83, 331/83, 958/84, 585/85, 653/85, 920/85, 593/88 e 480/90) alteram ou aumentam apenas o quadro de pessoal anexo, que no original e nos alteradores só existe em imagem (ver documento original); não há alteração textual aplicável ao texto.",
+  "instrucoes": [
+    "Alteradores 1-7 e 12: alteram o quadro anexo na parte do pessoal de enfermagem de hospitais concelhios (Lagos, São Brás de Alportel, Lagoa, Albufeira, Loulé, Olhão, Tavira, Silves); quadro só em imagem: não aplicado.",
+    "Alterador 8: altera o quadro do Hospital Distrital de Lagos (pessoal técnico superior e auxiliar); só em imagem: não aplicado.",
+    "Alteradores 9 e 10: aumentam o quadro com lugares constantes de mapa anexo em imagem: não aplicado.",
+    "Alterador 11: altera o quadro na parte do pessoal auxiliar; só em imagem: não aplicado.",
+    "Alterador 13: introduz alteração no quadro do Hospital Concelhio de Albufeira constante de quadro em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

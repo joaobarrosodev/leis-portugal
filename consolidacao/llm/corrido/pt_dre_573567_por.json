@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:573567:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os 16 alteradores (Portarias n.os 1278/82, 1276/82, 207/83, 213/83, 228/83, 205/83, 198/83, 226/83, 252/83, 499/83, 501/83, 498/83, 357/85, 565/85, 370/87 e 518/88) alteram, reajustam ou aumentam apenas o quadro de pessoal anexo, que no original e nos alteradores só existe em imagem (ver documento original); não há alteração textual aplicável ao texto.",
+  "instrucoes": [
+    "Alteradores 1-8, 10-12 e 15: alteram o quadro anexo na parte do pessoal de enfermagem (Benavente, Rio Maior, Chamusca, Mação, Sardoal, Cartaxo, Alcanena, Salvaterra de Magos, Entroncamento, Vila Nova de Ourém, Pernes, Almeirim); só em imagem: não aplicado.",
+    "Alteradores 9 e 16: alteram o quadro na parte do pessoal técnico superior e operário e auxiliar; só em imagem: não aplicado.",
+    "Alterador 13: reajustamento do quadro da Chamusca constante de quadro em imagem: não aplicado.",
+    "Alterador 14: aumenta o quadro de Rio Maior com um lugar de mapa anexo em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

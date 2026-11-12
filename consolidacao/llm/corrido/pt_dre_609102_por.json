@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:609102:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 6 (Portarias n.os 191/83, 368/84, 957/84, 442/85, 208/87 e 1032/95) alteram ou substituem o quadro de pessoal do Hospital de Egas Moniz por quadros que só vêm em imagem; não dão nova redação ao texto do original. Não aplicados.",
+  "instrucoes": [
+    "Alteradores 1-5: alteração do quadro de pessoal (enfermagem, técnico superior, operário e auxiliar, médico, técnico, diagnóstico e terapêutica), quadros só em imagem: não aplicado.",
+    "Alterador 6, 1.º: o quadro de pessoal é substituído pelo quadro anexo, só em imagem; não revoga o texto do original: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

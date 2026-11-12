@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:573568:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (1 a 5 e 7 a 13) mudam o quadro de pessoal anexo (unidade 9), que só existe em imagem; os quadros novos também só vêm em imagem. Não há alteração textual que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 229/83): altera o quadro do Hospital Concelhio de Serpa (pessoal de enfermagem) com um quadro em imagem: não aplicado.",
+    "Alteradores 2, 3, 4, 5, 7, 8, 9, 10 e 11: alteram o quadro do pessoal de enfermagem de Almodôvar, Castro Verde, Cuba, Vidigueira, Mértola, Moura, Ourique, Odemira e Aljustrel com quadros em imagem: não aplicados.",
+    "Alterador 6 (Portaria 992/83): altera o quadro do Hospital Concelhio de Pombal aprovado pela Portaria 417/81, outro diploma: ignorado.",
+    "Alterador 12 (Portaria 419/84): altera o quadro de Serpa (pessoal operário e auxiliar) com quadro em imagem: não aplicado.",
+    "Alterador 13 (Portaria 321/87): altera os quadros de nove hospitais (pessoal operário e auxiliar) com quadro em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

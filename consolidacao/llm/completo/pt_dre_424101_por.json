@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:424101:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Acórdão do TC n.º 375/2008 (alterador 9): declara inconstitucional o n.º 2 do artigo 13.º do Código das Custas Judiciais apenas quando interpretado num certo sentido (transação homologada com custas a meias); é uma declaração interpretativa, não uma alteração textual, e incide sobre o CCJ (DL 224-A/96), pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1 (DL 107/2005): altera os artigos 1.º e 6.º do DL 269/98, o regime anexo a esse diploma (arts. 1.º, 3.º, 4.º, 9.º a 14.º, 16.º, 17.º, 19.º; adita 13.º-A e 15.º-A; revoga 22.º) e o art. 7.º do DL 32/2003; o original só é citado como alteração anterior: outros diplomas, ignorado.",
+    "Alteradores 2, 4 e 6 (Lei 60-A/2005, DL 303/2007, Lei 67-A/2007): sem artigos que mencionem o original; nada aplicado.",
+    "Alterador 3 (Lei 53-A/2006, art. 134.º): altera os arts. 95.º, 124.º, 131.º e 142.º e revoga números e alíneas dos arts. 124.º e 131.º do 'Decreto-Lei n.º 224-A/96 [CCJ], com a redacção que lhe foi dada pelo DL 324/2003': instrução dirigida a outro diploma (o CCJ, na redação dada pelo original), ignorada; o Anexo II (republicação do CCJ) fica como está.",
+    "Alterador 5 (Lei 48/2007, art. 1.º): altera o Código de Processo Penal; o original só é citado como alteração anterior: ignorado.",
+    "Alterador 7 (DL 34/2008): art. 1.º e art. 25.º alteram/revogam o CPC, o CPP, o regime do DL 269/98 e revogam o DL 224-A/96 (CCJ): outros diplomas, ignorado.",
+    "Alterador 8 (DL 116/2008, art. 16.º): altera o art. 3.º do DL 200/2003, 'alterado pelo DL 324/2003': outro diploma, ignorado.",
+    "Alterador 9 (Acórdão TC 375/2008): inconstitucionalidade interpretativa do art. 13.º, n.º 2, do CCJ; não textual, em nao_aplicavel.",
+    "Alteradores 10 e 11 (Lei 20/2013, Lei 39/2020): alteram o CPP, o Código Penal e a Lei 92/95; o original só é citado na lista de alterações do CPP: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

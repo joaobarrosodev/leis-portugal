@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:573569:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (1 a 15) mudam o quadro de pessoal anexo (unidade 9), que só existe em imagem, com quadros ou mapas que também só vêm em imagem. Não há alteração textual que se possa aplicar.",
+  "instrucoes": [
+    "Alteradores 1 a 8: alteram o quadro do pessoal de enfermagem (Amarante, Lousada, Baião, Felgueiras, Paços de Ferreira, Póvoa de Varzim, Santo Tirso, Vila do Conde) com quadro em imagem: não aplicados.",
+    "Alteradores 9 a 13: alteram o quadro do pessoal técnico superior e/ou operário e auxiliar (Santo Tirso, Póvoa de Varzim — citando por gralha a portaria 416/84 —, Amarante, Vila do Conde, Valongo) com quadro em imagem: não aplicados.",
+    "Alterador 14 (Portaria 569/85): aumenta o quadro de Santo Tirso de um lugar de mapa em imagem: não aplicado.",
+    "Alterador 15 (Portaria 278/87): altera o quadro de Valongo (enfermagem) com quadro em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:324144:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei Orgânica n.º 1/2001), art. 2.º: altera os artigos 19.º, 20.º, 23.º e 29.º da Lei n.º 56/98 na redação dada pela Lei n.º 23/2000; é alteração de outro diploma, ignorada.",
+    "Alterador 2 (Decreto-Lei n.º 48/2011), arts. 31.º e 32.º: alteram e aditam artigos da Lei n.º 97/88, alterada pela Lei n.º 23/2000; é alteração de outro diploma, ignorada.",
+    "Nenhuma instrução dirigida ao texto da Lei n.º 23/2000; nenhum artigo muda."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

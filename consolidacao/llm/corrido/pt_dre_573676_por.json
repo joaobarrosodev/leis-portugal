@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:573676:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 13 (Portarias n.os 1279/82 a 1293/82 e 666/86) alteram o quadro de pessoal anexo (pessoal de enfermagem; pessoal operário e auxiliar) por quadros que só vêm em imagem; não há texto para aplicar.",
+  "instrucoes": [
+    "Alteradores 1-12: alteração do quadro anexo de cada hospital concelhio na parte do pessoal de enfermagem, quadro só em imagem: não aplicado.",
+    "Alterador 13: alteração dos quadros na parte do pessoal operário e auxiliar, quadros só em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

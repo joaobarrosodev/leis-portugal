@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:220896:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 371/90): altera os artigos 16.º, 17.º-A, 17.º-B e 17.º-C do Decreto-Lei n.º 84/85 (na redação dada pelo original); é alteração de outro diploma, ignorada.",
+    "Alterador 2 (DL 258/97): altera os artigos 15.º, 16.º, 17.º, 17.º-B e 17.º-D do Decreto-Lei n.º 84/85 (na redação dada pelo original); é alteração de outro diploma, ignorada.",
+    "Alterador 3 (DL 114/2011): sem texto de artigos; nada a aplicar.",
+    "Alterador 4 (DL 77-B/2021): altera os artigos 14.º e 15.º do Decreto-Lei n.º 84/85 e o artigo 4.º do Decreto-Lei n.º 200/2009; não é do original, ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

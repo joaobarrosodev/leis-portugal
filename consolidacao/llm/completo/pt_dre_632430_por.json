@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:632430:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 137/2023): fixa novas estruturas remuneratórias (anexos próprios) para os médicos da carreira especial médica e para os regimes transitórios do n.º 2 do artigo 5.º do original, mas não altera, adita nem revoga texto do original; a revogação do art. 4.º visa o Decreto-Lei n.º 177/2009: nada a aplicar.",
+    "Alterador 2 (Decreto-Lei n.º 46/2025): fixa novas tabelas remuneratórias (anexos próprios), altera o art. 17.º do Decreto-Lei n.º 13/2018 e revoga o anexo III do Decreto-Lei n.º 103/2023 e o Decreto-Lei n.º 137/2023; o original só é citado por remissão: nenhuma instrução dirigida ao texto do original.",
+    "Nenhum artigo nem título do original muda."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

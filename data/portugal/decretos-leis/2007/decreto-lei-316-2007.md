@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-08-12'
+version_history:
+  file: decreto-lei-316-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-09-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-08-12'
+    amending: pt:dre:494006:por
+    amending_title: Decreto-Lei n.º 181/2009
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/316/2007/09/19/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:59:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 181/2009. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-316-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -672,7 +688,7 @@ Artigo 77.º
 
 2 - Na deliberação que determina a elaboração do plano é estabelecido um prazo, que não deve ser inferior a 15 dias, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
 
-3 - Concluído o período de acompanhamento e, quando for o caso, decorrido o período adicional de concertação, a câmara municipal procede à abertura de um período de discussão pública, através de aviso a publicar no Diário da República e a divulgar através da comunicação social e da respectiva página da Internet, do qual consta a indicação do período de discussão, das eventuais sessões públicas a que haja lugar e dos locais onde se encontra disponível a proposta, o respectivo relatório ambiental, o parecer da comissão de acompanhamento ou da comissão de coordenação e desenvolvimento regional, os demais pareceres eventualmente emitidos, os resultados da concertação, bem como da forma como os interessados podem apresentar as suas reclamações, observações ou sugestões.
+3 - Concluído o período de acompanhamento e, quando for o caso, decorrido o período adicional de concertação, a câmara municipal procede à abertura de um período de discussão pública, através de aviso a publicar no Diário da República e a divulgar através da comunicação social e da respectiva página da Internet, do qual consta a indicação do período de discussão, das eventuais sessões públicas a que haja lugar e dos locais onde se encontra disponível a proposta, o respectivo relatório ambiental, o parecer da comissão de acompanhamento ou a acta da conferência de serviços, os demais pareceres eventualmente emitidos, os resultados da concertação, bem como da forma como os interessados podem apresentar as suas reclamações, observações ou sugestões.
 
 4 - O período de discussão pública deve ser anunciado com a antecedência mínima de 5 dias, e não pode ser inferior a 30 dias para o plano director municipal e a 22 dias para o plano de urbanização e para o plano de pormenor.
 
@@ -798,7 +814,7 @@ t) A articulação do modelo de organização municipal do território com a dis
 
 u) O prazo de vigência e as condições de revisão.
 
-2 - Na ausência dos índices, parâmetros e indicadores de natureza supletiva a que alude a alínea j) do número anterior para áreas sujeitas à elaboração de plano de urbanização ou de plano de pormenor, são aplicáveis às operações urbanísticas a realizar em zona urbana consolidada, como tal identificada no plano, os índices, parâmetros e indicadores de referência, nas seguintes condições:
+2 - Não obstante a existência dos índices, parâmetros e indicadores de natureza supletiva a que alude a alínea j) do número anterior, são directamente aplicáveis às operações urbanísticas a realizar em zona urbana consolidada, como tal identificada no plano, os índices, parâmetros e indicadores de referência para elaboração de plano de urbanização ou de plano de pormenor, nas seguintes condições:
 
 a) Tenha decorrido o prazo de cinco anos sobre a data de entrada em vigor do plano director municipal, sem que haja sido aprovado o plano de urbanização ou o plano de pormenor;
 
@@ -1148,6 +1164,16 @@ Artigo 107.º
 
 4 - ...
 
+a) ...
+
+b) Obras de construção civil, ampliação, alteração e reconstrução, com excepção das que estejam isentas de procedimento de licenciamento ou comunicação prévia;
+
+c) ...
+
+d) ...
+
+e) ...
+
 5 - ...
 
 6 - ...
@@ -1330,7 +1356,7 @@ h) ...
 
 i) ...
 
-j) A resolução do Conselho de Ministros que ratifica a suspensão do plano municipal de ordenamento do território, incluindo o respectivo texto e a planta de delimitação.
+j) A resolução do Conselho de Ministros que ratifica a suspensão do plano municipal de ordenamento do território, incluindo o respectivo texto das medidas preventivas e a planta de delimitação.
 
 3 - No caso da ratificação prevista na alínea f) do número anterior ser parcial, devem ser identificadas no regulamento publicado as disposições não ratificadas.
 
@@ -1342,9 +1368,11 @@ b) A deliberação municipal que determina a elaboração de plano municipal de 
 
 c) A deliberação das assembleias municipais ou da assembleia intermunicipal que aprova o plano intermunicipal de ordenamento do território, incluindo o relatório e as peças gráficas ilustrativas;
 
-d) A deliberação municipal que aprova o plano municipal de ordenamento do território não sujeito a ratificação, incluindo o regulamento, a planta de zonamento ou de implantação e a planta de condicionantes;
+d) A deliberação municipal que aprova o plano municipal de ordenamento do território não sujeito a ratificação, incluindo o regulamento, a planta de ordenamento, de zonamento ou de implantação e a planta de condicionantes;
 
 e) A deliberação municipal que aprova as medidas preventivas não sujeitas a ratificação, incluindo o respectivo texto e a planta de delimitação, bem como a deliberação municipal que aprova a prorrogação do prazo de vigência das medidas preventivas.
+
+f) ...
 
 Artigo 149.º
 
@@ -1379,6 +1407,8 @@ Instrução dos pedidos de depósito
 4 - (Revogado.)
 
 5 - (Revogado.)»
+
+> Alterado pelo/a [Decreto-Lei n.º 181/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2009-494006), publicado em 2009-08-07.
 
 ###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 380/99, de 22 de Setembro
 
@@ -1448,7 +1478,7 @@ Comissão de acompanhamento
 
 1 - Para efeitos do disposto nos n.os 1 e 2 do artigo anterior, a designação dos representantes dos serviços e entidades da administração directa ou indirecta do Estado e das Regiões Autónomas inclui a delegação ou subdelegação dos poderes adequados para efeitos de vinculação daqueles serviços e entidades.
 
-2 - A posição manifestada pelos representantes dos serviços e entidades da administração directa ou indirecta do Estado e das Regiões Autónomas no parecer previsto no n.º 3 do artigo anterior substitui os pareceres que aqueles serviços e entidades devessem emitir, a qualquer título, sobre o plano, nos termos legais e regulamentares.
+2 - A posição manifestada pelos representantes dos serviços e entidades da administração directa ou indirecta do Estado e das Regiões Autónomas no parecer previsto no n.º 4 do artigo anterior substitui os pareceres que aqueles serviços e entidades devessem emitir, a qualquer título, sobre o plano, nos termos legais e regulamentares.
 
 3 - Caso o representante de um serviço ou entidade não manifeste, na reunião da comissão de acompanhamento que aprova o parecer final, a sua concordância com as soluções projectadas, ou, apesar de regularmente convocado, não compareça à reunião, considera-se que o serviço ou entidade por si representado nada tem a opor à proposta de plano director municipal, desde que não manifeste a sua discordância no prazo de cinco dias após a comunicação do resultado da reunião.
 
@@ -1583,6 +1613,8 @@ Informação e divulgação
 1 - Após a publicação no Diário da República de instrumento de gestão territorial sujeito a avaliação ambiental, a entidade competente pela respectiva elaboração envia à Agência Portuguesa do Ambiente uma declaração contendo os elementos referidos no artigo 10.º do Decreto-Lei n.º 232/2007, de 15 de Junho.
 
 2 - A informação referida no número anterior é disponibilizada ao público pela entidade responsável pela elaboração do plano através da respectiva página da Internet, podendo igualmente ser publicitada na página da Internet da Agência Portuguesa do Ambiente.»
+
+> Alterado pelo/a [Decreto-Lei n.º 181/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2009-494006), publicado em 2009-08-07.
 
 ###### Artigo 4.º — Regime transitório
 

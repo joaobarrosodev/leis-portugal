@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:462188:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (Portarias n.os 1107/81, 1239/82, 375/84, 543/84, 929/84, 574/85, 799/85, 494/87, 201/89, 42/90, 413/91, 906/91, 1374/2002 e 137/2004) alteram, aumentam ou substituem o quadro de pessoal anexo (unidade 9), e os quadros e mapas novos só vêm em imagem (ver documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alteradores 1-4, 7-10: alteram partes do quadro de pessoal do Hospital Distrital de Vila Real segundo quadros anexos em imagem; não aplicado.",
+    "Alteradores 5 e 6: aumentam o quadro com lugares de mapa anexo em imagem; não aplicado.",
+    "Alterador 11: substitui os quadros de pessoal médico por quadros anexos em imagem; não aplicado.",
+    "Alterador 12: substitui o quadro no que se refere ao pessoal não médico por quadro anexo em imagem; não aplicado.",
+    "Alterador 13: acresce lugares (anexo n.º 2 em imagem) ao quadro do ex-Hospital de São Pedro - Vila Real; não aplicado.",
+    "Alterador 14: altera o quadro do ex-Hospital de São Pedro - Vila Real segundo mapa em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

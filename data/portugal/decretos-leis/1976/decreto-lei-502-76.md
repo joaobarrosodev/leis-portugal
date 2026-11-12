@@ -28,10 +28,47 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-10-21'
+version_history:
+  file: decreto-lei-502-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-10-21'
+    amending: pt:dre:376043:por
+    amending_title: Decreto-Lei n.º 427/82
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Artigo CAPÍTULO III — Órgãos da empresa
+    - Altera Artigo SECÇÃO IV — Direcção-Geral
+    - Altera Artigo SECÇÃO V — Comissão de fiscalização
 identifiers:
   celex: null
   eli: null
@@ -57,7 +94,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:55:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 427/82. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-502-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -264,13 +302,13 @@ b) A exploração de aproveitamentos hidráulicos de fins múltiplos e de centra
 
 O capital estatutário será fixado por despacho conjunto dos Ministros da Indústria e Tecnologia e das Finanças, sob proposta fundamentada do conselho de gerência, nos termos do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
 
-### CAPÍTULO III — Órgãos da empresa
+### CAPÍTULO III — Órgãos
 
 #### SECÇÃO I — Disposições gerais
 
 ###### Artigo 7.º
 
-1. São órgãos da empresa:
+1 - São órgãos da empresa:
 
 a) O conselho geral;
 
@@ -278,59 +316,67 @@ b) O conselho de gerência;
 
 c) A comissão de fiscalização.
 
-2. Na dependência do conselho de gerência funciona uma direcção-geral com os poderes definidos no artigo 18.º e seguintes.
+2 - São órgãos de articulação com o poder local:
+
+a) Os conselhos regionais;
+
+b) Os conselhos locais.
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
 ###### Artigo 8.º
 
-A organização geral da EDP deverá garantir a concentração, por forma participada, das competências para a definição das políticas e objectivos gerais da empresa e para a tomada das grandes decisões, e assegurar a autonomia e descentralização operacionais, quer no plano funcional, quer no plano regional, com a necessária e explícita delegação de poderes.
+A organização geral da EDP deverá garantir a concentração, por forma participada, das competências para a definição das políticas e objectivos gerais da empresa e para a tomada das grandes decisões e assegurar a autonomia e descentralização operacionais, quer no plano funcional, quer no plano regional, com a necessária e explícita delegação de poderes.
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
 #### SECÇÃO II — Conselho geral
 
 ###### Artigo 9.º
 
-1. O conselho geral será composto pelos seguintes membros:
+1 - O conselho geral será composto pelos seguintes membros:
 
-a) Um representante do Ministério da Indústria e Tecnologia;
+a) 1 representante do Ministério da Indústria, Energia e Exportação;
 
-b) Um representante do Ministério das Finanças;
+b) 2 representantes do Ministério das Finanças e do Plano;
 
-c) Um representante do Ministério da Administração Interna;
+c) 1 representante do Ministério da Administração Interna;
 
-d) Um representante do Ministério do Trabalho;
+d) 1 representante do Ministério do Trabalho;
 
-e) Um representante do Ministério da Agricultura e Pescas;
+e) 1 representante do Ministério da Agricultura, Comércio e Pescas;
 
-f) Um representante do Ministério das Obras Públicas;
+f) 1 representante do Ministério das Obras Públicas, Transportes e Comunicações;
 
-g) Um representante do Ministério da Habitação, Urbanismo e Construção;
+g) 1 representante dos consumidores, a indicar pelo departamento ministerial responsável pela defesa do consumidor;
 
-h) Um representante do departamento ministerial responsável pelo planeamento nacional;
+h) 9 representantes das autarquias locais;
 
-i) Um representante do departamento ministerial responsável pela defesa do consumidor;
+i) 9 representantes dos trabalhadores da empresa.
 
-j) Representantes das autarquias locais, na base de um por cada região plano;
+2 - Quando a natureza dos assuntos a tratar o aconselhe, o presidente, por sua iniciativa ou a solicitação de um terço dos membros do conselho, pode convidar a tomar parte nas reuniões, sem direito a voto, pessoas de reconhecida competência nas matérias a discutir.
 
-k) Nove representantes dos trabalhadores da empresa.
+3 - Os membros do conselho de gerência e da comissão de fiscalização assistirão, sem direito a voto, às reuniões do conselho geral e poderão intervir na discussão dos assuntos a apreciar.
 
-2. Quando a natureza dos assuntos a tratar o aconselhe, o presidente, por sua iniciativa ou a solicitação de um terço dos membros do conselho, pode convidar a tomar parte nas reuniões, sem direito a voto, pessoas de reconhecida competência nas matérias a discutir.
-
-3. Os membros do conselho de gerência e da comissão de fiscalização e o director-geral assistirão, sem direito a voto, às reuniões do conselho geral e poderão intervir na discussão dos assuntos a apreciar.
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
 ###### Artigo 10.º
 
-1. Os membros do conselho geral serão designados:
+1 - Os membros do conselho geral serão designados:
 
-a) Os referidos nas alíneas a) a i) no n.º 1 do artigo 9.º, pelo respectivo Ministro;
+a) Os referidos nas alíneas a) a g) do artigo 9.º, pelo respectivo Ministro;
 
-b) Os referidos na alínea j), pela forma que for estabelecida em despacho do Ministro da Administração Interna, ouvidas as autarquias locais;
+b) Os referidos na alínea h), pela forma que for estabelecida em despacho do Ministro da Administração Interna, ouvidas as autarquias locais;
 
-c) Os referidos na alínea k), pela forma que for estabelecida em despacho do Ministro da Indústria e Tecnologia, ouvidos os trabalhadores da empresa.
+c) Os referidos na alínea i), pela forma estabelecida na lei.
 
-2. O presidente do conselho geral será o representante do Ministério da Indústria e Tecnologia e será substituído nas suas faltas e impedimentos por um vice-presidente eleito pelo próprio conselho.
+2 - O presidente do conselho geral será o representante do Ministério da Indústria, Energia e Exportação e será substituído, nas suas faltas e impedimentos, por um vice-presidente, eleito pelo próprio conselho.
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
 ###### Artigo 11.º
 
-1. Compete ao conselho geral:
+1 - Compete ao conselho geral:
 
 a) Apreciar e votar os planos plurianuais de actividade e financeiros;
 
@@ -338,47 +384,57 @@ b) Apreciar e votar, até 15 de Outubro de cada ano, o plano de actividade e o o
 
 c) Apreciar e votar, até 25 de Março de cada ano, o relatório do conselho de gerência, o balanço, as contas de exercício e a proposta de aplicação de resultados respeitantes ao ano anterior, bem como o respectivo parecer da comissão de fiscalização;
 
-d) Acompanhar a actividade da empresa, podendo formular quaisquer propostas, sugestões ou recomendações que entenda convenientes;
+d) Acompanhar a actividade da empresa, podendo formular propostas, sugestões ou recomendações que entender convenientes, designadamente com base nos relatórios dos conselhos regionais;
 
 e) Pronunciar-se sobre quaisquer assuntos que o conselho de gerência ou a comissão de fiscalização entendam dever submeter à sua apreciação;
 
 f) Eleger o vice-presidente e o secretário do conselho.
 
-2. Para os efeitos das alíneas a) e b) do n.º 1 deste artigo, os documentos nelas referidos deverão ser enviados aos membros do conselho geral até 30 de Setembro de cada ano.
+2 - Para os efeitos das alíneas a) e b) do n.º 1 deste artigo, os documentos nelas referidos deverão ser enviados aos membros do conselho geral até 30 de Setembro de cada ano.
 
-3. O conselho geral poderá solicitar ao conselho de gerência ou à comissão de fiscalização os elementos de informação necessários para o desempenho das suas funções.
+3 - O conselho geral poderá solicitar ao conselho de gerência ou à comissão de fiscalização os elementos de informação necessários para o desempenho das suas funções.
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
 ###### Artigo 12.º
 
-O conselho geral reunirá ordinariamente uma vez em cada semestre e extraordinariamente sempre que for convocado pelo presidente, quer por iniciativa própria, quer a requerimento de um terço dos seus vogais, do conselho de gerência ou da comissão de fiscalização.
+O conselho geral reunirá ordinariamente uma vez em cada semestre e extraordinariamente sempre que for convocado pelo presidente do conselho de gerência ou da comissão de fiscalização, quer por iniciativa própria, quer a requerimento de um terço dos seus vogais.
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
 #### SECÇÃO III — Conselho de gerência
 
 ###### Artigo 13.º
 
-1. O conselho de gerência será composto por cinco a sete administradores nomeados pelo Conselho de Ministros, sob proposta do Ministro da Indústria e Tecnologia, ouvidos os trabalhadores da empresa através da sua estrutura representativa.
+1 - O conselho de gerência será nomeado pelo Conselho de Ministros, ouvidos os trabalhadores da empresa, através da sua estrutura representativa, e terá a seguinte composição:
 
-2. O presidente do conselho de gerência será designado, de entre os administradores, pelo Conselho de Ministros, sob proposta do Ministro da Indústria e Tecnologia.
+a) 7 administradores nomeados sob proposta do Ministro da Indústria, Energia e Exportação;
 
-3. Os membros do conselho de gerência desempenharão os seus cargos em regime de tempo completo, sendo-lhes vedadas quaisquer acumulações, salvo o exercício de missões de serviço público para que sejam designados pelo Conselho de Ministros ou pelo Ministro da Indústria e Tecnologia.
+b) 4 administradores nomeados sob proposta conjunta dos Ministros da Administração Interna e da Indústria, Energia e Exportação, sendo cada um deles indigitado pelos municípios em que a EDP detenha a distribuição de energia em baixa tensão compreendidos na área da respectiva região de distribuição da EDP.
+
+2 - O presidente e o vice-presidente do conselho de gerência serão designados pelo Conselho de Ministros de entre os administradores, sob proposta do Ministro da Indústria, Energia e Exportação; se o Conselho de Ministros não designar o vice-presidente, será este escolhido de entre os administradores pelo próprio conselho de gerência.
+
+3 - Os administradores referidos na alínea b) poderão exercer os seus cargos em regime de tempo parcial.
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
 ###### Artigo 14.º
 
-1. O conselho de gerência terá os poderes necessários para assegurar a administração, a representação e a gestão da empresa, nos termos da lei e do presente estatuto.
+1 - O conselho de gerência assegura a administração, a representação e a gestão da empresa, nos termos da lei e do presente Estatuto.
 
-2. Compete, em especial, ao conselho de gerência:
+2 - Compete, em especial, ao conselho de gerência:
 
-a) Definir a organização geral da empresa, de acordo com o estipulado no artigo 8.º;
+a) Definir e estabelecer a organização dos serviços da empresa e elaborar os respectivos regulamentos;
 
 b) Definir e manter actualizadas as políticas e objectivos gerais da empresa e controlar permanentemente a sua execução, designadamente através da apreciação de indicadores adequados;
 
-c) Propor, com observância do disposto no n.º 2 do artigo 3.º, sobre o exercício ou cessação de actividades relacionadas com o objecto principal da empresa;
+c) Propor, com observância do disposto no n.º 2 do artigo 3.º, o exercício ou cessação de actividades relacionadas com objecto principal da empresa;
 
-d) Apreciar os planos plurianuais de actividade e financeiros, os planos anuais de actividade e os orçamentos anuais, elaborados pela direcção-geral, bem como as suas actualizações periódicas;
+d) Promover a elaboração dos planos plurianuais de actividade e financeiros, dos planos anuais de actividade e dos orçamentos anuais, bem como as alterações periódicas que se mostrem convenientes;
 
-e) Deliberar sobre a aquisição, alienação ou oneração por qualquer modo de bens imóveis, precedendo parecer favorável da comissão de fiscalização;
+e) Deliberar, sem prejuízo do disposto no [Decreto-Lei n.º 74/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1980-681999), de 15 de Abril, sobre a aquisição, alienação ou oneração, por qualquer modo, de bens imóveis, precedendo parecer favorável da comissão de fiscalização; nas aquisições de valor inferior a 50000 contos fica dispensado o parecer da comissão de fiscalização;
 
-f) Deliberar sobre a alimentação de títulos de crédito ou de participações de capital, precedendo parecer favorável da comissão de fiscalização;
+f) Deliberar sobre a alienação de títulos de crédito ou de participações de capital, precedendo parecer favorável da comissão de fiscalização;
 
 g) Celebrar contratos-programa com o Estado;
 
@@ -386,87 +442,61 @@ h) Negociar e celebrar os contratos mais importantes necessários para dar execu
 
 i) Negociar e celebrar convenções colectivas de trabalho e aprovar as dotações dos quadros;
 
-j) Estabelecer a composição da direcção-geral e proceder às nomeações respectivas;
+j) Definir os princípios da gestão do pessoal e assegurar a sua gestão efectiva, nomeadamente através da delegação de poderes nos departamentos competentes;
 
 k) Deliberar sobre a criação de delegações ou qualquer outra forma de representação;
 
-l) Representar a empresa em juízo e fora dele, activa e passivamente.
+l) Representar a empresa, em juízo e fora dele, activa e passivamente.
 
-3. O conselho de gerência poderá delegar os poderes que, com vista à gestão corrente da empresa, lhe são conferidos por este artigo.
+3 - Sem prejuízo da sua competência como órgão colegial, o conselho de gerência cometerá a cada um dos administradores referidos na alínea b) do n.º 1 do artigo 13.º atribuições especialmente dirigidas ao relacionamento da empresa com as autarquias compreendidas na respectiva região e aos problemas referentes à distribuição nessa região, podendo neles delegar os poderes que entenda necessários para esse efeito.
+
+4 - O conselho de gerência poderá delegar os poderes que, com vista à gestão corrente da empresa, lhe são conferidos por este artigo.
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
 ###### Artigo 15.º
 
-O conselho de gerência terá reuniões ordinárias quinzenalmente e extraordinárias sempre que o presidente o determine, por iniciativa própria ou a requerimento de dois vogais.
+O conselho de gerência terá reuniões ordinárias quinzenalmente e extraordinárias sempre que o presidente as convoque, quer por iniciativa própria, quer a requerimento de 2 administradores.
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
 ###### Artigo 16.º
 
 A empresa fica obrigada:
 
-a) Pelas assinaturas conjuntas de dois administradores;
+a) Pelas assinaturas conjuntas de 2 administradores;
 
-b) Pela assinatura de um administrador que para tanto haja recebido delegação do conselho de gerência;
+b) Pela assinatura de 1 administrador que, para tanto, haja recebido delegação do conselho de gerência;
 
-c) Pela assinatura dos funcionários da empresa que para tal hajam recebido delegação do conselho de gerência;
+c) Pela assinatura dos funcionários da empresa que, para tanto, hajam recebido delegação do conselho de gerência;
 
 d) Pela assinatura de procuradores legalmente constituídos.
 
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
+
 ###### Artigo 17.º
 
-1. O conselho de gerência definirá a forma como exercerá a superintendência na gestão da empresa.
+1 - O conselho de gerência definirá a forma como exercerá a superintendência na gestão da empresa.
 
-2. A execução do expediente do conselho de gerência será assegurada pela forma que for determinada pelo próprio conselho.
+2 - A execução do expediente do conselho de gerência será assegurada pela forma que for determinada pelo próprio conselho.
 
-3. O presidente do conselho de gerência será substituído nas suas faltas e impedimentos pelo administrador que o mesmo conselho designar.
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
-#### SECÇÃO IV — Direcção-Geral
+#### SECÇÃO IV — Comissão de fiscalização
 
 ###### Artigo 18.º
 
-1. A direcção-geral será presidida pelo director-geral e nela terão assento os directores responsáveis pelos grandes departamentos ou por conjuntos de departamentos da empresa.
+1 - A comissão de fiscalização será composta por 5 membros.
 
-2. Nos termos do n.º 2, alínea j), do artigo 14.º, o conselho de gerência, ouvidos os directores, nomeará o director-geral.
+2 - O presidente e demais membros da comissão de fiscalização serão nomeados por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Indústria, Energia e Exportação, sendo um deles indicado pelos trabalhadores da empresa.
 
-3. O director-geral assistirá, sem direito a voto, às reuniões do conselho de gerência.
-
-4. O funcionamento da direcção-geral será definido em regulamento interno por ela elaborado e aprovado pelo conselho de gerência.
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
 ###### Artigo 19.º
 
-1. Por deliberação do conselho de gerência poderá haver administradores encarregados de orientar e acompanhar, em áreas específicas, a actividade da direcção-geral.
+1 - Compete à comissão de fiscalização velar pelo cumprimento das normas legais, estatutárias e regulamentares aplicáveis à empresa e fiscalizar a gestão desta.
 
-2. Haverá reuniões conjuntas do conselho de gerência e da direcção-geral ordinariamente uma vez em cada mês e extraordinariamente sempre que o presidente do conselho de gerência, o director-geral ou a maioria dos membros de qualquer daqueles órgãos o solicite.
-
-###### Artigo 20.º
-
-1. Compete à direcção-geral coordenar a execução das deliberações do conselho de gerência.
-
-2. No quadro das políticas e objectivos gerais da empresa definidos pelo conselho de gerência, compete ainda à direcção-geral:
-
-a) Estabelecer a organização dos serviços da empresa e elaborar os respectivos regulamentos;
-
-b) Fazer a gestão geral do pessoal da empresa, propondo periodicamente ao conselho de gerência a dotação dos quadros, de acordo com as necessidades do serviço, e procedendo às respectivas nomeações e promoções, segundo as regras fixadas no estatuto do pessoal;
-
-c) Estabelecer objectivos específicos e velar pela sua execução;
-
-d) Elaborar e propor ao conselho de gerência os planos plurianuais de actividade e financeiros, os planos anuais de actividade e os orçamentos anuais, bem como as alterações periódicas que se mostrarem convenientes;
-
-e) Exercer os poderes que lhe sejam delegados pelo conselho de gerência ao abrigo do n.º 3 do artigo 14.º
-
-#### SECÇÃO V — Comissão de fiscalização
-
-###### Artigo 21.º
-
-1. A comissão de fiscalização será composta por três membros, que escolherão de entre si o presidente, e por dois membros suplentes.
-
-2. Os membros da comissão de fiscalização serão nomeados por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia, sendo um efectivo e um suplente indicados pelos trabalhadores da empresa.
-
-3. Um dos membros efectivos e um dos membros suplentes da comissão de fiscalização serão obrigatoriamente revisores oficiais de contas.
-
-###### Artigo 22.º
-
-1. Compete à comissão de fiscalização velar pelo cumprimento das normas legais, estatutárias e regulamentares aplicáveis à empresa e fiscalizar a gestão desta.
-
-2. Compete em especial à comissão de fiscalização:
+2 - Compete, em especial, à comissão de fiscalização:
 
 a) Acompanhar a execução dos planos plurianuais de actividade e financeiros, dos planos anuais de actividade e dos orçamentos anuais;
 
@@ -480,21 +510,75 @@ e) Verificar a exactidão do balanço, da demonstração de resultados, da conta
 
 f) Promover a efectivação, pelos meios competentes, das responsabilidades que apurar na gestão da empresa;
 
-g) Pronunciar-se sobre a legalidade e conveniência dos actos do conselho de gerência, nos casos em que a lei ou o estatuto exigirem a sua aprovação ou concordância;
+g) Pronunciar-se sobre a legalidade e conveniência dos actos do conselho de gerência, nos casos em que a lei ou o Estatuto exigirem a sua aprovação ou concordância;
 
 h) Pronunciar-se sobre qualquer assunto de interesse para a empresa que seja submetido à sua apreciação pelo conselho geral ou pelo conselho de gerência.
 
-###### Artigo 23.º
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
-A comissão de fiscalização reunirá ordinariamente uma vez por mês e extraordinariamente sempre que o presidente a convocar, quer por inciativa própria, quer a requerimento de qualquer dos seus vogais ou do presidente do conselho de gerência.
+###### Artigo 20.º
 
-###### Artigo 24.º
+A comissão de fiscalização reunirá ordinariamente uma vez por mês e extraordinariamente sempre que o presidente a convocar, quer por iniciativa própria, quer a requerimento de qualquer dos seus vogais ou do presidente do conselho de gerência.
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
+
+#### SECÇÃO V — Órgãos de articulação com o poder local
+
+###### Artigo 21.º
 
 Os membros da comissão de fiscalização poderão assistir, individual ou colectivamente, sem direito de voto, às reuniões do conselho de gerência sempre que o presidente deste o entenda conveniente.
 
-###### Artigo 25.º
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
+
+###### Artigo 22.º
 
 A empresa não poderá confiar a sociedades revisoras de contas o exercício das funções da comissão de fiscalização.
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
+
+###### Artigo 23.º
+
+1 - Em cada região de distribuição da empresa haverá um conselho regional, de natureza consultiva, no qual terão assento:
+
+a) 20 representantes dos municípios sediados na respectiva região em que a EDP explore o serviço público de distribuição de energia eléctrica em baixa tensão, designados por despacho conjunto dos Ministros da Administração Interna e da Indústria, Energia e Exportação, sob proposta dos respectivos municípios;
+
+b) 1 representante da comissão de coordenação regional, designado pelo Ministro da Administração Interna.
+
+2 - Na sua primeira reunião, no início de cada mandato, o conselho regional designará, de entre os membros referidos na alínea a), um que desempenhe as funções de presidente, competindo-lhe, nomeadamente, convocar as reuniões e dirigir os trabalhos.
+
+3 - O conselho regional reunirá obrigatoriamente 4 vezes por ano, em data e local fixados pelo presidente.
+
+4 - Sempre que o presidente do conselho regional o entenda conveniente poderá solicitar a presença nas reuniões de quaisquer administradores da empresa, bem como do director-geral da região de distribuição da EDP.
+
+5 - O mandato dos membros do conselho regional referidos na alínea a) do n.º 1 terá a duração de 4 anos, sendo a designação feita em relação a metade dos membros em biénios alternados, em ordem a assegurar o princípio da rotatividade e propiciar a representação, por escala, de todos os municípios da região no conselho.
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
+
+###### Artigo 24.º
+
+Aos conselhos regionais compete:
+
+a) Dar contributo, através do fornecimento de dados e levantamento de carências, para a elaboração dos planos de distribuição de energia eléctrica da respectiva região, bem como acompanhar a sua execução;
+
+b) Apreciar, discutir e apresentar propostas de solução para os problemas surgidos a nível da região;
+
+c) Elaborar relatórios anuais sobre a actividade da empresa e a qualidade do serviço no âmbito da região, para os efeitos do estabelecido na alínea d) do artigo 11.º
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
+
+###### Artigo 25.º
+
+1 - Em cada um dos centros de distribuição da empresa haverá um conselho local, no qual terão assento:
+
+a) 1 representante de cada um dos municípios sediados na área do respectivo centro de distribuição em que a EDP explore o serviço público de distribuição de energia eléctrica em baixa tensão;
+
+b) Os responsáveis dos departamentos regionais e locais da empresa, no âmbito do respectivo centro de distribuição.
+
+2 - Ao conselho local compete colaborar na elaboração dos planos de distribuição de energia eléctrica em baixa tensão na área do respectivo centro de distribuição e acompanhar a sua execução.
+
+3 - As regras respeitantes à orgânica e funcionamento dos conselhos locais serão definidas em protocolo a estabelecer com os respectivos municípios.
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
 ### CAPÍTULO IV — Intervenção do Governo
 
@@ -684,15 +768,19 @@ Para os efeitos do n.º 1 do artigo 13.º, consideram-se ouvidos os trabalhadore
 
 ###### Artigo 50.º
 
-O conselho de gerência porá à disposição do conselho geral, da comissão de fiscalização e dos órgãos representativos da estrutura dos trabalhadores os meios de apoio indispensáveis ao desempenho das respectivas funções.
+O conselho de gerência porá à disposição do conselho geral, da comissão de fiscalização, dos órgãos de articulação com o poder local e dos órgãos representativos da estrutura dos trabalhadores os meios de apoio indispensáveis ao desempenho das respectivas funções.
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
 ###### Artigo 51.º
 
-1. As remunerações dos membros da comissão de fiscalização que actuem em tempo parcial serão acumuláveis com quaisquer outras remunerações, dentro dos limites e condicionamentos legais estabelecidos.
+1 - Os administradores referidos na alínea b) do n.º 1 do artigo 13.º que exerçam a sua actividade em tempo parcial receberão remuneração correspondente a administrador da empresa, fixada tendo em consideração desse regime de trabalho, podendo, dentro dos limites e condicionalismos legais estabelecidos, acumular a sua remuneração na empresa com quaisquer outras remunerações.
 
-2. Os membros do conselho geral que não sejam trabalhadores da empresa terão direito, por cada reunião a que assistirem, a uma senha de presença de montante a fixar pelo Ministro da Indústria e Tecnologia.
+2 - Os membros do conselho geral que não sejam trabalhadores da empresa terão direito, por cada reunião a que assistirem, a uma senha de presença, de montante a fixar pelo Ministro da Indústria, Energia e Exportação.
 
-3. Os membros dos órgãos da empresa que tenham de se deslocar da localidade onde residam habitualmente para assistir a reuniões dos respectivos órgãos terão direito ao abono de ajudas de custo, de montante a fixar pelo conselho de gerência, e ao pagamento das despesas de transporte, de acordo com o que for regulamentado para os trabalhadores da empresa.
+3 - Os membros dos órgãos da empresa que tenham de se deslocar da localidade onde residam habitualmente para assistir a reuniões dos respectivos órgãos terão direito ao abono de ajudas de custo, de montante a fixar pelo conselho de gerência, e ao pagamento das despesas de transporte, de acordo com o que for regulamentado para os trabalhadores da empresa.
+
+> Alterado pelo/a [Decreto-Lei n.º 427/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1982-376043), publicado em 1982-10-21.
 
 ###### Artigo 52.º
 

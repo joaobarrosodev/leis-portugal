@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:573565:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 a 13 alteram o quadro de pessoal anexo (pessoal de enfermagem, técnico superior, auxiliar; aumento de um lugar em Vila Flor) por quadros ou mapas que só vêm em imagem; não há texto para aplicar.",
+  "instrucoes": [
+    "Alteradores 1-10: alteração do quadro de cada hospital concelhio na parte do pessoal de enfermagem, só em imagem: não aplicado.",
+    "Alteradores 11-12: alteração do pessoal técnico superior e auxiliar, só em imagem: não aplicado.",
+    "Alterador 13: aumento de um lugar no quadro de Vila Flor conforme mapa só em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

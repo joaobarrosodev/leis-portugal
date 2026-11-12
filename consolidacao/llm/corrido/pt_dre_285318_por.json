@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:285318:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 571/94 substitui o plano de estudos do curso de Serviço Social (anexo) por um novo plano que só vem em imagem; a Portaria n.º 379/2000 altera o plano do curso de Ciências Sociais autorizado pela Portaria n.º 104/97, não o original; o Aviso n.º 4459/2019 só torna público o encerramento do Instituto, sem alteração textual.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 571/94): novo plano de estudos de Serviço Social substitui o anexo, em imagem; não aplicado.",
+    "Alterador 2 (Portaria n.º 379/2000): altera o plano de estudos de Ciências Sociais (Portaria n.º 104/97), não dirigido ao original; ignorado.",
+    "Alterador 3 (Aviso n.º 4459/2019): publicita a cessação de funcionamento do Instituto; não é alteração textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

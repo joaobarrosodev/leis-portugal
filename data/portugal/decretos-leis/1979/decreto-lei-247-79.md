@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-01-12'
+version_history:
+  file: decreto-lei-247-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-01-12'
+    amending: pt:dre:622289:por
+    amending_title: Decreto-Lei n.º 5/85
+    changes:
+    - Altera Artigo 47.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:19:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 5/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-247-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -581,11 +596,13 @@ Os organismos mencionados no artigo 1.º disporão do pessoal de enfermagem nece
 
 a) Técnicos de exploração estagiários que tenham obtido aproveitamento no respectivo Estágio;
 
-b) Mediante provas práticas de entre adjuntos de exploração com, pelo menos, três anos de funções e que tenham adquirido a licenciatura adequada.
+b) Mediante provas práticas de entre adjuntos de exploração com, pelo menos, 3 anos de funções e que tenham adquirido a licenciatura adequada, ou possuidores de carta de capitão da marinha mercante.
 
-4 - Os técnicos de exploração estagiários serão providos mediante provas práticas de entre indivíduos habilitados com a licenciatura adequada, sendo condição de preferência possuírem experiência ou formação complementar para as funções a que se destinam.
+4 - Os técnicos de exploração estagiários serão providos mediante provas práticas de entre indivíduos habilitados com a licenciatura adequada ou possuidores de carta de capitão da marinha mercante, sendo condição de preferência possuírem experiência ou formação complementar para as funções a que se destinam.
 
 5 - O estágio a que se refere o número anterior terá a duração de dois anos.
+
+> Alterado pelo/a [Decreto-Lei n.º 5/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1985-622289), publicado em 1985-01-07.
 
 ###### Artigo 48.º — (Adjuntos de exploração)
 

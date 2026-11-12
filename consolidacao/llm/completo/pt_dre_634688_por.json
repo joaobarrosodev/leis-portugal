@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:634688:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (Lei n.º 71/93), art. 2.º, n.º 1: prorroga até 31 de Agosto de 1994 (ou até à conclusão dos concursos de ingresso do pessoal não docente) o prazo a que se refere o n.º 7 do artigo 23.º do original; é uma prorrogação de prazo, não uma alteração textual (não dá nova redacção ao n.º 7 do artigo 23.º), pelo que não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1, art. 2.º, n.º 1: prorrogação do prazo do n.º 7 do artigo 23.º do original; alteração não textual: não aplicada, registada em nao_aplicavel.",
+    "Alterador 1, restantes artigos (2.º, n.º 2, e 3.º a 14.º): aprovam o orçamento suplementar e alteram outros diplomas (Lei n.º 54/90, CIRS, CIRC, DL 251-A/91, DL 442-A/88, DL 442-B/88, CIVA, Tabela Geral do Imposto do Selo, EBF, etc.); não são do original: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:210421:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 158/2004): altera os artigos 21.º, 42.º e 47.º do Decreto-Lei n.º 296-A/98 (outro diploma): ignorado.",
+    "Alterador 2 (Decreto-Lei n.º 147-A/2006): altera o artigo 42.º do Decreto-Lei n.º 296-A/98: outro diploma, ignorado.",
+    "Alterador 3 (Decreto-Lei n.º 45/2007): altera os artigos 27.º, 28.º, 37.º e 38.º e revoga o artigo 39.º do Decreto-Lei n.º 296-A/98: outro diploma, ignorado.",
+    "Alterador 4 (Decreto-Lei n.º 90/2008): altera vários artigos, revoga o artigo 44.º e republica o Decreto-Lei n.º 296-A/98: outro diploma, ignorado.",
+    "Alterador 5 (Portaria n.º 106/2023): altera o Regulamento do Concurso Local da Escola Superior de Teatro e Cinema (Portaria n.º 187/2015): outro diploma, ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

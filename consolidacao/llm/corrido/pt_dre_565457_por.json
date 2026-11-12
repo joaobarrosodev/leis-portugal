@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:565457:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Nenhuma instrução muda a redação do texto: a Portaria n.º 1160/92 altera a denominação do Instituto Politécnico de Gaia e de três cursos (e a designação 'Automação Electrónica e Industrial' nem coincide com o texto atual 'Automação e Electrónica Industrial'), aprova planos de estudos em imagem e autoriza novo curso; a Portaria n.º 865/93 muda a denominação de dois cursos com planos em imagem e corrige planos da Portaria n.º 1160/92; as Portarias n.os 343/2003 a 346/2003 aprovam planos de estudos (em imagem) e declaram a caducidade da autorização dos bacharelatos. São mudanças de denominação, de anexos em imagem ou de efeitos, não alterações textuais; não aplicadas.",
+  "instrucoes": [
+    "Alterador 1, 1.º: muda a denominação do Instituto para Instituto Superior Politécnico Gaya; não textual; não aplicado.",
+    "Alterador 1, 2.º e 3.º: altera/aprova planos de estudos (anexos em imagem); não aplicado.",
+    "Alterador 1, 4.º: muda a denominação de três cursos da Escola Superior de Ciência e Tecnologia; não textual; não aplicado.",
+    "Alterador 1, 5.º-8.º: autoriza curso de Contabilidade e Gestão e disposições próprias; não altera o texto do original.",
+    "Alterador 2, 1.º e 2.º: muda a denominação dos cursos de Património Cultural e Desenvolvimento Comunitário, com planos em imagem; não aplicado.",
+    "Alterador 2, 3.º e 4.º: planos e correções de planos da Portaria n.º 1160/92; não é do original.",
+    "Alteradores 3-6: aprovam planos de estudos de licenciaturas bietápicas e declaram a caducidade da autorização dos bacharelatos autorizados pelo original; não textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

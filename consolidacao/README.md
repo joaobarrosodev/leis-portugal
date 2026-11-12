@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.365 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.372 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -110,9 +110,27 @@ A anexação de prédios a uma zona de caça fica de fora. Muda a área, mas nã
 - No total, 19 de 23 (83%).
 - A cobertura é parcial: nos 80, apanha 6 dos 11. Escapam os Estatutos da Universidade de Coimbra, que não citam o número do despacho, uma "passe a englobar" sem número por perto e duas mudanças discutíveis.
 
-**Aplicação.** `python consolidacao/consolidar.py --provaveis` passa a "para LLM" os diplomas "sem alteração textual" com uma alteração provável. Muda o `resultados-escala.jsonl` e as partes, para um `--juntar` não a desfazer. Cada um fica com `falhou_em` na leitura e o excerto em `pendentes`. Mudaram 1.904 pares em 1.335 diplomas: "sem alteração textual" passa de 19.330 para 17.995 e "para LLM" de 4.446 para 5.781.
+**Aplicação.** `python consolidacao/consolidar.py --provaveis` passa a "para LLM" os diplomas "sem alteração textual" com uma alteração provável. Muda o `resultados-escala.jsonl` e as partes, para um `--juntar` não a desfazer. Cada um fica com `falhou_em` na leitura e o excerto em `pendentes`. Mudaram 1.896 pares em 1.325 diplomas: "sem alteração textual" passa de 19.330 para 18.005 e "para LLM" de 4.446 para 5.771.
 
 Os outros estados não mudam. Os aplicados já passaram a verificação às cegas, que vê todos os alteradores. As corridas novas de `consolidar.py --escala` aplicam a mesma regra na triagem.
+
+Não contam como alvo os diplomas que só aparecem como os que deram a redação de outro ("o DL 296-A/98, com a redacção conferida pelo DL 76/2004"). Este caso juntou-se depois da ronda 85: nos mais citados, era a causa da maior parte dos falsos alarmes.
+
+Há outra correção ao `processar`: um par assinalado passa a "para LLM", mas os alteradores seguintes continuam a aplicar-se por regra. Antes contava como falha e as regras paravam. No DL 16/94, isso tirava o artigo 56.º-A, aditado pelo DL 94/99, que o pedido ao LLM dava como já aplicado. A ronda 85 apanhou-o com "instruções em falta".
+
+**Ronda 85: os 120 mais citados dos assinalados.** Pediram-se ao LLM os 120 mais citados dos 1.335 da primeira reclassificação, em 49 pedidos completos e 71 de texto corrido. Ficaram 2 pedidos acima de 450 mil caracteres, e 10 lotes do corrido não se pediram: os anteriores eram quase só quadros de pessoal em imagem. Responderam 93 diplomas.
+
+Só 11 tinham uma alteração de texto que se aplica. O resto:
+- o alterador muda outro diploma, quase sempre aquele a que o original deu a redação;
+- os quadros ou mapas alterados só vêm em imagem;
+- prorrogações e mudanças de designação, sem nova redação;
+- alteradores sem texto no acervo.
+
+Às cegas (`verificacao/entrada-piloto-85-lote-01.jsonl`), 7 ficaram sem reparos e foram aplicados: a Lei 46/85, os DL 166/92, 188/88, 247/79, 316/2007, 328/88 e 502/76.
+
+O DL 283/89 e o DL 16/94 saíram da ronda 85. O consolidado deles mudou com a correção ao `processar`, e o texto em `data/` é o que já tinha passado a verificação às cegas antes. Ficaram de fora outros dois: o Despacho Normativo 5-A/2013, com uma instrução em falta, e a RCM 25/99, com 1 artigo errado e 2 em dúvida.
+
+Conclusão: nos mais citados, o detetor assinala sobretudo diplomas que deram a redação de outro, e a precisão real nos pedidos foi de 11 em 93. Nas amostras ao acaso tinha sido muito melhor (19 de 23).
 
 **O que isto quer dizer para o RAG.** O aviso "Texto original; alterado por…" mantém-se em todos os diplomas alterados sem versão consolidada, mesmo nos "sem alteração textual". Tirá-lo nesses casos faria o sistema responder com texto desatualizado em cerca de 14% a 28% deles (`rag/README.md`).
 
@@ -428,7 +446,7 @@ Em vigor (`in_force` ou `partially_in_force`), português ou regional, `version_
 | Excluído | 6 | 1 | 3 | 3 |
 | **Total** | **16.099** | **6.820** | **2.190** | **389** |
 
-**18.918 diplomas (74%) deixam de precisar do aviso "texto original; alterado por…"**: nenhum dos alteradores lhes dá uma instrução dirigida ao texto, como nos 500 do piloto (75%). Nos 2.145 com 10 ou mais citações são 1.345. Por motivo (o mais frequente entre os alteradores de cada diploma): 8.454 só aparecem numa lista ou remissão ("alterado pelos Decretos-Leis n.os …" de outro diploma), 7.532 são citados sem instruções (ao abrigo de, prorrogações, quadros de pessoal, exonerações) e 2.920 nem são mencionados (muitos são relações do DRE a outro diploma: a Lei n.º 37/2010 tem como "alteradores" os orçamentos que mudam a Lei Geral Tributária na redação que ela lhe deu). Uma amostra de 12 lida à mão não tinha nenhuma alteração textual. **Corrigido a 12/11/2026, ver "Triagem: alterações que as regras não leem":** numa amostra de 80 ao acaso, um verificador às cegas achou 11 com alteração do texto, e 1.335 diplomas passaram para o LLM. Hoje ficam 17.995 sem alteração textual.
+**18.918 diplomas (74%) deixam de precisar do aviso "texto original; alterado por…"**: nenhum dos alteradores lhes dá uma instrução dirigida ao texto, como nos 500 do piloto (75%). Nos 2.145 com 10 ou mais citações são 1.345. Por motivo (o mais frequente entre os alteradores de cada diploma): 8.454 só aparecem numa lista ou remissão ("alterado pelos Decretos-Leis n.os …" de outro diploma), 7.532 são citados sem instruções (ao abrigo de, prorrogações, quadros de pessoal, exonerações) e 2.920 nem são mencionados (muitos são relações do DRE a outro diploma: a Lei n.º 37/2010 tem como "alteradores" os orçamentos que mudam a Lei Geral Tributária na redação que ela lhe deu). Uma amostra de 12 lida à mão não tinha nenhuma alteração textual. **Corrigido a 12/11/2026, ver "Triagem: alterações que as regras não leem":** numa amostra de 80 ao acaso, um verificador às cegas achou 11 com alteração do texto, e 1.325 diplomas passaram para o LLM. Hoje ficam 18.005 sem alteração textual.
 
 A triagem foi alterador a alterador: 51.817 pares original–alterador, dos quais 41.723 sem alteração textual, 6.109 para o LLM, 1.993 sem texto, 1.191 aplicáveis por regra e 801 revogações por inteiro. Numa alteração múltipla, uma alteração sem instruções não impede as outras; a precedência entre os alteradores é revogado por inteiro > sem texto do alterador > para o LLM > aplicável por regra > sem alteração textual. Na triagem (só a leitura), 671 diplomas eram aplicáveis por regra; na aplicação, 384 ficaram aplicados e 287 passaram para o LLM: dos 4.362 para o LLM, 4.036 falharam na leitura das instruções, 226 na aplicação e 100 na verificação automática (`falhou_em` em `resultados-escala.jsonl`). Em 310 dos para o LLM, as regras aplicaram parte das instruções antes da falha, e o `.alteracoes.json` fica em `piloto/`.
 

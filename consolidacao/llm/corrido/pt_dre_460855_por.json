@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:460855:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores (1 a 10) mudam o quadro de pessoal anexo (unidade 9), que só existe em imagem, com quadros ou mapas que também só vêm em imagem. Não há alteração textual que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 142/82): alterações ao quadro de pessoal em imagem: não aplicado.",
+    "Alteradores 2, 3, 4, 5 (Portarias 537/83, 678/83, 384/84, 950/84): alteram partes do quadro com quadro anexo em imagem: não aplicados.",
+    "Alterador 6 (Portaria 572/85): aumenta o quadro de um lugar constante de mapa em imagem: não aplicado.",
+    "Alteradores 7, 8, 9, 10 (Portarias 729/85, 223/87, 962/87, 159/89): alteram ou reestruturam o quadro com quadro em imagem: não aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

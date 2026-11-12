@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "44.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 44.º — (Exigência de licença de construção ou de utilização para efeitos de transmissão de prédios)\n\nNão podem ser celebradas escrituras públicas que envolvam a transmissão da propriedade de prédios urbanos sem que se faça perante o notário prova suficiente da inscrição na matriz predial e da existência da correspondente licença de construção ou de utilização, quando exigível, da qual se fará sempre menção na escritura.",
+    "depois": "###### Artigo 44.º — (Exigência de licença de construção ou de utilização para efeitos de transmissão de prédios)\n\n1 - Não podem ser celebradas escrituras públicas que envolvam a transmissão da propriedade de prédios urbanos sem que se faça perante o notário prova suficiente da inscrição na matriz predial e da existência da correspondente licença de construção ou de utilização, quando exigível, da qual se fará sempre menção na escritura.\n\n2 - No caso de os prédios estarem omissos na matriz é suficiente a prova de haver sido apresentada na repartição de finanças a participação para a inscrição.\n\n3 - A prova da participação para a inscrição na matriz, quando se trate de prédio omisso, faz-se pela exibição de duplicado que tenha aposto o recibo da repartição de finanças, com antecedência não superior a um ano, e pela exibição de outro documento dela emanado, autenticado com o respectivo selo branco.\n\n> Alterado pelo/a [Decreto-Lei n.º 74/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1986-195074), publicado em 1986-04-23.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:177451:por",
+    "alterador": "pt:dre:195074:por"
+  }
+]

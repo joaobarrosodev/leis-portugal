@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:640138:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 26/2010), art. 1.º: altera os artigos 3.º a 119.º do Decreto-Lei n.º 555/99 (RJUE), 'alterado pela Lei n.º 60/2007'; é alteração de outro diploma (o RJUE), não da Lei n.º 60/2007 nem do seu anexo de republicação: ignorada.",
+    "Alterador 1 (DL 26/2010), art. 6.º: revoga normas do Decreto-Lei n.º 555/99 (arts. 4.º, 6.º, 35.º, 37.º, 68.º, 116.º): outro diploma, ignorada.",
+    "Alterador 2 (Lei 28/2010), artigo único: altera o art. 13.º do Decreto-Lei n.º 555/99 na redação do DL 26/2010: outro diploma, ignorada.",
+    "Alterador 3 (DL 266-B/2012), art. 9.º: altera o art. 90.º do Decreto-Lei n.º 555/99; art. 11.º revoga os DL 156/2006 e 161/2006 e o art. 6.º da Lei 32/2012: outros diplomas, ignoradas.",
+    "Alterador 4 (DL 136/2014): não traz artigos que mencionem o original; nada a aplicar.",
+    "Alterador 5 (DL 66/2019), arts. 2.º e 3.º: alteram e aditam artigos do RJUE (DL 555/99); arts. 4.º a 6.º alteram ou revogam o RJRU, o RERN e o DL 157/2006: outros diplomas, ignoradas.",
+    "Nenhuma instrução se dirige à Lei n.º 60/2007; o texto atual fica sem mudanças."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

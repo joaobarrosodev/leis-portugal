@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:458412:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 432/82) substitui o mapa I anexo por um novo mapa que só vem em imagem (ver documento original); o anexo do original também só existe em imagem (unidade 16).",
+  "instrucoes": [
+    "Alterador 1: substitui o mapa I anexo; mapa só em imagem: não aplicado (nao_aplicavel).",
+    "Alteradores 2, 3, 4 e 5 (Portarias n.os 692/82, 700/82, 936/84 e 643/86): aumentam quadros de pessoal aprovados pelo Decreto-Lei n.º 47/78, citando a Portaria n.º 977/80 só como alteração anterior desses quadros; não alteram o texto do original: ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

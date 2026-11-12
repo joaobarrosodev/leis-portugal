@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:494840:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: altera vários artigos do Decreto-Lei n.º 380/99 (com a redacção conferida pelo original); é alteração de outro diploma: ignorada.",
+    "Alterador 1, art. 2.º: revoga o artigo 157.º do Decreto-Lei n.º 380/99, com a redacção conferida pelo original; é instrução dirigida a outro diploma (o DL 380/99), não ao original: ignorada, o artigo único do original fica como está.",
+    "Alterador 1, art. 5.º: republicação do Decreto-Lei n.º 380/99; não altera o original.",
+    "Alterador 2 (RCM 92/2012): suspende normas de planos de ordenamento; nenhuma instrução dirigida ao original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:548825:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 127/2000), art. 1.º: altera os artigos 14.º e 42.º do Decreto-Lei n.º 287/88 (na redação do original); é instrução dirigida a outro diploma, ignorada.",
+    "Alterador 2 (DLR 25/2015/A): sem texto dirigido ao original; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

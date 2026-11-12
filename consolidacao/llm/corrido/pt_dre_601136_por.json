@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:601136:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias n.os 238/87, 887/87 e 138/92 alteram ou substituem o quadro de pessoal do Hospital Distrital de Portalegre (aprovado pela Portaria n.º 759/80 e alterado pelo original) por quadros anexos que só vêm em imagem; não há instrução textual dirigida ao texto do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 238/87): altera o quadro de pessoal de acordo com quadro anexo em imagem; não aplicado.",
+    "Alterador 2 (Portaria n.º 887/87): altera o quadro de pessoal de acordo com quadro anexo em imagem; não aplicado.",
+    "Alterador 3 (Portaria n.º 138/92): 1.º substitui o quadro de pessoal pelo quadro anexo (imagem); 2.º remete o pessoal médico para a Portaria n.º 413/91; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

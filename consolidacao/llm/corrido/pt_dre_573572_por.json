@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:573572:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 12 (Portarias n.os 1256/82 a 1263/82, 1277/82, 619/84, 637/85 e 677/85) alteram o quadro de pessoal anexo (unidade 9), que só existe em imagem no original e cujos quadros novos também só vêm em imagem; não há alteração textual que se possa aplicar.",
+  "instrucoes": [
+    "Alteradores 1 a 9 (Portarias n.os 1256/82 a 1263/82 e 1277/82): alteram o quadro de pessoal de cada hospital concelhio na parte do pessoal de enfermagem, por quadro anexo em imagem; não aplicado.",
+    "Alterador 10 (Portaria n.º 619/84): reestrutura o quadro do Hospital de Ponte de Lima (pessoal operário e auxiliar), por quadro em imagem; não aplicado.",
+    "Alterador 11 (Portaria n.º 637/85): aumenta um lugar no quadro do Hospital Concelhio de Vila Nova de Cerveira, por mapa em imagem; não aplicado.",
+    "Alterador 12 (Portaria n.º 677/85): altera os quadros de oito hospitais concelhios (pessoal operário e auxiliar), por quadro em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

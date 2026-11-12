@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:627390:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 19921) vem sem texto no pedido (nenhum artigo transcrito); não há instrução que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1: texto vazio no pedido; nada aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

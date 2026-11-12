@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:515638:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (LO 3/2004): altera o artigo 76.º-A e adita o 76.º-D do Decreto-Lei n.º 318-E/76 (Lei Eleitoral da ALR da Madeira), mencionando o original só como diploma que aditou o 76.º-A; instrução dirigida a outro diploma, ignorada.",
+    "Alterador 2 (LO 3/2010): altera, adita e revoga artigos do DL 319-A/76, da Lei n.º 14/79, da LO 1/2001, da Lei n.º 15-A/98 e da LO 4/2000; o original só aparece na lista de alterações desses diplomas; nenhuma instrução dirigida ao original, ignoradas.",
+    "Alterador 3 (LO 3/2018): sem artigos transcritos; nada aplicado.",
+    "Alterador 4 (LO 1/2021): altera e adita artigos da Lei Eleitoral do Presidente da República, da LO 1/2001, da LO 3/2020, da Lei n.º 22/99 e da Lei n.º 13/99 e revoga normas da LO 1/2001; o original só aparece na lista de alterações do DL 319-A/76; nenhuma instrução dirigida ao original, ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

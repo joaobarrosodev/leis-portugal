@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:601360:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 3 (Portarias n.os 513/83, 508/83 e 458/93) alteram ou aumentam o quadro de pessoal dos Hospitais Civis de Lisboa (aprovado pela Portaria n.º 779/80 e reajustado pelo original, cujas alterações estão só em imagem na unidade 7), por quadros anexos que também só vêm em imagem; não há alteração textual que se possa aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 513/83): altera o quadro de pessoal dos Hospitais Civis de Lisboa na parte do pessoal de informática, por quadro em imagem; não aplicado.",
+    "Alterador 2 (Portaria n.º 508/83): altera o mesmo quadro na parte do pessoal operário e auxiliar, por quadro em imagem; não aplicado.",
+    "Alterador 3 (Portaria n.º 458/93): aumenta os quadros de pessoal de vários hospitais, incluindo os Hospitais Civis de Lisboa, por quadros em imagem (anexo I); não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:474320:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 23 (Portarias n.os 753/74, 842/74, 421/75 a 779/75, 10/76, 11/76, 19/76 e 31/76) alteram ou aumentam o quadro do pessoal auxiliar de embaixadas e consulados concretos, que no original só existe nos mapas em imagem (unidades 6 e 8); não há texto atual onde aplicar as novas composições.",
+  "instrucoes": [
+    "Alteradores 1, 7, 8, 9, 10, 11, 12, 14, 15, 20 e 23: fixam nova composição do quadro de pessoal auxiliar de uma embaixada ou consulado (Roma, Kinshasa, Viena, Genebra, Bruxelas, Haia, Bona, Washington, Roterdão, Beirute, Londres); os mapas do original só vêm em imagem; não aplicado.",
+    "Alteradores 2, 3, 4, 5, 6, 13, 16, 17, 18, 19, 21 e 22: aumentam o quadro de uma embaixada ou consulado de um ou mais lugares; os mapas do original só vêm em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

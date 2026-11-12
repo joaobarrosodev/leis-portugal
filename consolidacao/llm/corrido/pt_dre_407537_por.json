@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:407537:por",
+  "substituicoes": [
+    {
+      "de": 45,
+      "ate": 47,
+      "texto": "Art. 13.º Os notários comunicarão à Administração a celebração das escrituras que operem a transmissão a título oneroso de imóveis sujeitos ao direito de preferência previsto no artigo 1.º, se o diploma que conceder a preferência indicar as freguesias abrangidas por esse direito.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 194/83), art. 11.º: nova redação do artigo 13.º do original; substituídas as unidades 45-47 (n.os 1 a 3) pelo texto novo, artigo sem números.",
+    "Alterador 1, restantes artigos: alteram o Código do Notariado e outros diplomas: ignorados.",
+    "Alterador 2 (Decreto n.º 30/2007): concede direito de preferência e remete para o artigo 3.º do original, sem o alterar: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 45-47: parágrafo que não está no alterador nem no original: Art. 13.º Os notários comunicarão à Administração a celebração das escrituras qu"
+  ]
+}

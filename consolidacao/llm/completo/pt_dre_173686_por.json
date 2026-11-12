@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:173686:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (Lei n.º 94/99), art. 2.º, n.º 4: o regulamento e mapa de pessoal da Lei n.º 8/95 continuam aplicáveis até à entrada em vigor dos instrumentos a aprovar por resolução da Assembleia da República; e alterador 2 (Lei n.º 46/2007), art. 32.º, n.º 2, no mesmo sentido: cessação do anexo adiada para facto futuro, não aplicada ao texto.",
+  "instrucoes": [
+    "Alterador 1 (Lei n.º 94/99), art. 1.º: altera os artigos 2.º, 3.º, 7.º, 8.º, 15.º, 16.º, 17.º, 19.º e 20.º da Lei n.º 65/93 (outro diploma, ainda que alterado pela Lei n.º 8/95): ignorado.",
+    "Alterador 1, art. 3.º: revoga o artigo 22.º da Lei n.º 65/93: outro diploma, ignorado.",
+    "Alterador 1, art. 2.º, n.º 4: o regulamento da Lei n.º 8/95 mantém-se até novos instrumentos: efeito futuro, não aplicado (nao_aplicavel).",
+    "Alterador 2 (Lei n.º 46/2007), art. 40.º: revoga a Lei n.º 65/93 com a redacção introduzida pelas Leis n.os 8/95 e 94/99: dirigido à Lei n.º 65/93, não ao original; ignorado.",
+    "Alterador 2, art. 32.º, n.º 2: mantém o regulamento e mapa de pessoal da Lei n.º 8/95 até novo instrumento: efeito futuro, não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

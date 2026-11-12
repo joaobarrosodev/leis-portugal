@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:573574:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 a 15 (Portarias n.os 1208/82, 1282/82, 199/83, 206/83, 214/83, 225/83, 210/83, 209/83, 220/83, 231/83, 201/83, 807-N2/83, 807-Q1/83, 393/84 e 423/84) alteram apenas o quadro de pessoal anexo (unidade 9) de hospitais concelhios concretos, e os quadros novos só vêm em imagem (ver documento original); não há texto para aplicar.",
+  "instrucoes": [
+    "Alteradores 1-11 e 13: alteram o quadro anexo na parte do pessoal de enfermagem de um hospital concelhio; quadro só em imagem; não aplicado.",
+    "Alterador 12: altera o quadro do Hospital Concelhio de Seia (pessoal operário e auxiliar); quadro em imagem; não aplicado.",
+    "Alterador 14: altera os quadros de dez hospitais concelhios (pessoal operário e auxiliar); quadro em imagem; não aplicado.",
+    "Alterador 15: altera o quadro do Hospital Concelhio de Gouveia (pessoal auxiliar); quadro em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

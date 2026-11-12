@@ -1,0 +1,1036 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:381287:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-07-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0c39df5f49562a27",
+    "23836370ae405d04",
+    "a83468208465cab8",
+    "edc446584235b375",
+    "af37f1c7374f396c",
+    "6d7c54bf9346eb13",
+    "fbf15470c45cc77e",
+    "7ef354840770fcf4",
+    "b2fa69b16df87fe1",
+    "3bab25a062131bdb",
+    "0888406c7b251d56",
+    "9708e8cf1c65b997",
+    "b01f69c97d36a4c2",
+    "db9ae5bdec00378b",
+    "8b7a9fe7fdbe6047",
+    "40ad8c6a12525c7c",
+    "74eb12b6b900d346",
+    "dfdd3c84b1fc8d4a",
+    "8fdb55c737c00d83",
+    "0e4aeb345e2430ed",
+    "e2b7167cbbcd2ca8",
+    "bca2af205292108d",
+    "4d0404d9f536c65b",
+    "522bbebe5a257a2a",
+    "acf603fcb47c00e4",
+    "911b9761a2db5042",
+    "639396b74de0b3eb",
+    "c69159c820000049",
+    "38ff88ed01326404",
+    "d5832591fbdf1790",
+    "c77485adc3a32dde",
+    "b21b0ac9ef800038",
+    "d4ed41772ea1d062",
+    "565e8b27939f519b",
+    "19e1bf910daff9e9",
+    "d53d682aad87f5fc",
+    "b22b4fb0689ecb52",
+    "cfb624dde6381140",
+    "5fd0aaade158e6a0",
+    "0387b0524ba9d187",
+    "d64d57f99843232f",
+    "f14ebf2030f86010",
+    "4f429968504ded58",
+    "5c069c5380467df4",
+    "4171a7caad383415",
+    "2a49a077984ae04f",
+    "3cf8e964cc0aeb9c",
+    "0fb900c3676e3b6a",
+    "f4e58e9a1785971d",
+    "8b544e285f62ff23",
+    "3998c6458e583653",
+    "1a700a42826841e4",
+    "36c16942c9d7feac",
+    "c90f603774fba6a7",
+    "3667a58e1c04312b",
+    "09c7abcf864a1f26",
+    "866fca23f4c0244f",
+    "272b14063b25d784",
+    "889740cfc8e710a3",
+    "ed35d4fec1f3b625",
+    "307953ba4f53c97a",
+    "dc43d293f6724a00",
+    "9e54f8046330341e",
+    "697e05c19f183e85",
+    "761a14354ff70924",
+    "ac11fdec8e4979ac",
+    "b8a544dde86be742",
+    "6c49664e0b8be3d7",
+    "9b77fc458c1de3cb",
+    "18c9312a6928bd26",
+    "4a7242b3f19158ca",
+    "60b440207f873638",
+    "77f95bed0b5dca9a",
+    "a13920f481a1a9ff",
+    "b170b2b30ca99d61",
+    "98e0bc6634a4e1ef",
+    "14c2e03972b88051",
+    "341517d25b6555e4",
+    "5bf533d881c73a99",
+    "038e6e5159d9ea0e",
+    "a1750d734c9f8196",
+    "83cabe44690b3e27",
+    "35cd915df00f6c01",
+    "9de96f42e9cd60aa",
+    "84367a23db7d2dc1",
+    "23865d4c6bd2db69",
+    "64f9e17e72650658",
+    "edc7ddfe3e97676e",
+    "a1e216d75429baf3",
+    "0e36867077dc526e",
+    "eb47f75dbc1b3472",
+    "f4eb5d1c494d3ef4",
+    "d7c13209b090cdf6",
+    "824b0500d04320e0",
+    "1425aee5f3e71e75",
+    "1de111906f3c9d82",
+    "b762c2ae420cdbc1",
+    "fc3010e44008d9af",
+    "6fe2c6fa5b89ba9b"
+   ]
+  },
+  {
+   "date": "1985-01-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:622289:por",
+     "title": "Decreto-Lei n.º 5/85",
+     "published": "1985-01-07",
+     "dre_path": "/dr/detalhe/decreto-lei/5-1985-622289"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 47.º"
+   ],
+   "fragments": [
+    "0c39df5f49562a27",
+    "23836370ae405d04",
+    "a83468208465cab8",
+    "edc446584235b375",
+    "af37f1c7374f396c",
+    "6d7c54bf9346eb13",
+    "fbf15470c45cc77e",
+    "7ef354840770fcf4",
+    "b2fa69b16df87fe1",
+    "3bab25a062131bdb",
+    "0888406c7b251d56",
+    "9708e8cf1c65b997",
+    "b01f69c97d36a4c2",
+    "db9ae5bdec00378b",
+    "8b7a9fe7fdbe6047",
+    "40ad8c6a12525c7c",
+    "74eb12b6b900d346",
+    "dfdd3c84b1fc8d4a",
+    "8fdb55c737c00d83",
+    "0e4aeb345e2430ed",
+    "e2b7167cbbcd2ca8",
+    "bca2af205292108d",
+    "4d0404d9f536c65b",
+    "522bbebe5a257a2a",
+    "acf603fcb47c00e4",
+    "911b9761a2db5042",
+    "639396b74de0b3eb",
+    "c69159c820000049",
+    "38ff88ed01326404",
+    "d5832591fbdf1790",
+    "c77485adc3a32dde",
+    "b21b0ac9ef800038",
+    "d4ed41772ea1d062",
+    "565e8b27939f519b",
+    "19e1bf910daff9e9",
+    "d53d682aad87f5fc",
+    "b22b4fb0689ecb52",
+    "cfb624dde6381140",
+    "5fd0aaade158e6a0",
+    "0387b0524ba9d187",
+    "d64d57f99843232f",
+    "f14ebf2030f86010",
+    "4f429968504ded58",
+    "5c069c5380467df4",
+    "4171a7caad383415",
+    "2a49a077984ae04f",
+    "3cf8e964cc0aeb9c",
+    "0fb900c3676e3b6a",
+    "f4e58e9a1785971d",
+    "8b544e285f62ff23",
+    "3998c6458e583653",
+    "1a700a42826841e4",
+    "36c16942c9d7feac",
+    "c90f603774fba6a7",
+    "3667a58e1c04312b",
+    "611757b8733df983",
+    "866fca23f4c0244f",
+    "272b14063b25d784",
+    "889740cfc8e710a3",
+    "ed35d4fec1f3b625",
+    "307953ba4f53c97a",
+    "dc43d293f6724a00",
+    "9e54f8046330341e",
+    "697e05c19f183e85",
+    "761a14354ff70924",
+    "ac11fdec8e4979ac",
+    "b8a544dde86be742",
+    "6c49664e0b8be3d7",
+    "9b77fc458c1de3cb",
+    "18c9312a6928bd26",
+    "4a7242b3f19158ca",
+    "60b440207f873638",
+    "77f95bed0b5dca9a",
+    "a13920f481a1a9ff",
+    "b170b2b30ca99d61",
+    "98e0bc6634a4e1ef",
+    "14c2e03972b88051",
+    "341517d25b6555e4",
+    "5bf533d881c73a99",
+    "038e6e5159d9ea0e",
+    "a1750d734c9f8196",
+    "83cabe44690b3e27",
+    "35cd915df00f6c01",
+    "9de96f42e9cd60aa",
+    "84367a23db7d2dc1",
+    "23865d4c6bd2db69",
+    "64f9e17e72650658",
+    "edc7ddfe3e97676e",
+    "a1e216d75429baf3",
+    "0e36867077dc526e",
+    "eb47f75dbc1b3472",
+    "f4eb5d1c494d3ef4",
+    "d7c13209b090cdf6",
+    "824b0500d04320e0",
+    "1425aee5f3e71e75",
+    "1de111906f3c9d82",
+    "b762c2ae420cdbc1",
+    "fc3010e44008d9af",
+    "6fe2c6fa5b89ba9b"
+   ]
+  }
+ ],
+ "fragments": {
+  "0c39df5f49562a27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Julho\n\nO tipo de gestão e exploração dos organismos portuários, que tem vindo ao longo do tempo a assemelhar-se, cada vez mais, ao do sector empresarial do estado, designadamente no que concerne às duas principais administrações (Administração-Geral do Porto de Lisboa - AGPL e Administração dos Portos do Douro e Leixões - APDL), aliado à conveniência e oportunidade de se definirem as bases gerais do regime de trabalho portuário, reflectindo as especificidades deste sector laboral, determinou a necessidade de se proceder ao estudo e elaboração de um estatuto laboral das administrações e juntas portuárias.\n\nDos trabalhos desenvolvidos desde Janeiro de 1978, data em que foi constituída uma comissão representativa do referido sector - administrações e juntas portuárias -, da Secretaria de Estado da Administração Pública e ainda dos organismos sindicais dos trabalhadores portuários, resultaram os princípios informadores do presente estatuto, que, sem perder de vista as bases gerais aplicáveis à Administração Pública, procuraram responder aos imperativos ditados pelas características próprias do trabalho portuário e de que se espera resulte uma melhor gestão dos recursos humanos disponíveis, uma maior estabilidade e maiores garantias para o respectivo pessoal.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "a83468208465cab8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Âmbito de aplicação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Âmbito de aplicação)\n\nO presente diploma aplica-se aos seguintes organismos:\n\na) Administração-Geral do Porto de Lisboa;\n\nb) Administração dos Portos do Douro e Leixões;\n\nc) Direcção-Geral de Portos;\n\nd) Juntas autónomas dos portos."
+  },
+  "edc446584235b375": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Pessoal dos organismos portuários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Pessoal dos organismos portuários)\n\n1 - Os organismos portuários a que se refere o artigo anterior passam a dispor das categorias de pessoal necessárias ao seu normal funcionamento, constantes de mapa anexo ao presente diploma.\n\n2 - Igualmente se publicam em anexo ao presente diploma dois mapas referentes, respectivamente, a remunerações previstas para estagiários e a categorias profissionais englobados nas carreiras de pessoal operário qualificado, semiqualificado e não qualificado.\n\n3 - Os anexos referidos nos números anteriores são considerados parte integrante do presente Decreto-Lei."
+  },
+  "af37f1c7374f396c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Quadro de pessoal dos organismos portuários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Quadro de pessoal dos organismos portuários)\n\n1 - O quadro de pessoal de cada organismo portuário será fixado por portaria conjunta dos Ministros das Finanças e do Plano e dos Transportes e Comunicações e do Secretário de Estado da Administração Pública, de harmonia com as disposições do presente decreto-lei, no prazo de seis meses, contado a partir da data da sua entrada em vigor.\n\n2 - A revisão do quadro de pessoal de cada organismo será objecto de formalidade idêntica à estabelecida no número anterior.\n\n3 - A composição do quadro de pessoal de cada organismo atenderá às necessidades e características do respectivo trabalho, de forma a quantificar adequadamente as categorias e classes de cada carreira."
+  },
+  "6d7c54bf9346eb13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Requisitos de provimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Requisitos de provimento)\n\n1 - Os candidatos aos lugares de ingresso do quadro de cada organismo deverão satisfazer os seguintes requisitos de provimento, sem prejuízo dos demais exigidos pela lei aplicável:\n\na) Aptidão psico-fisica;\n\nb) Habilitações fixadas para as respectivas categorias.\n\n2 - Para determinadas categorias profissionais, tendo em conta as especiais exigências de capacidade física para o exercício das funções correspondentes, serão fixados por portaria conjunta do Ministro dos Transportes e Comunicações e do Secretário de Estado da Administração Pública limites máximos de idade para provimento."
+  },
+  "fbf15470c45cc77e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Lugares de admissão e promoção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Lugares de admissão e promoção)\n\n1 - Lugares de admissão serão os de ingresso nos quadros que em geral correspondam a lugares de entrada na respectiva carreira.\n\n2 - A promoção corresponderá ao provimento em lugar de categoria imediatamente superior da respectiva carreira."
+  },
+  "7ef354840770fcf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Regime de estágio)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Regime de estágio)\n\n1 - O recrutamento de estagiários far-se-á em função do número de vagas nas categorias de ingresso das respectivas carreiras, para as quais seja estabelecido estágio no presente diploma.\n\n2 - Quando os organismos recorram aos mecanismos previstos na legislação aplicável para utilização das vagas de acesso na base da respectiva carreira, o número de vagas a preencher nestes termos será considerado para efeitos do número anterior.\n\n3 - O estágio tem carácter probatório e visa a formação e adaptação do candidato às funções para as quais foi recrutado.\n\n4 - A realização do estágio precederá a nomeação do candidato na categoria de ingresso da respectiva carreira.\n\n5 - O estagiário será contratado além do quadro, ou manterá a situação anterior se já estiver vinculado aos quadros dos organismos e serviços a que se refere o presente diploma, sendo remunerado pelas letras de vencimento previstas no anexo II, salvo quando aufira superior remuneração, caso em que a manterá.\n\n6 - A falta de aproveitamento no respectivo estágio implica a rescisão do contrato e a dispensa do estágio, sem direito a qualquer indemnização.\n\n7 - O tempo de serviço prestado durante o período de estágio será contado para todos os efeitos legais, desde que não haja interrupção de serviço."
+  },
+  "b2fa69b16df87fe1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Preferência na admissão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Preferência na admissão)\n\nPara efeitos de admissão em lugar de ingresso, estando os candidatos em igualdade de circunstâncias, serão condições de preferência, por ordem decrescente:\n\na) A prévia vinculação ao respectivo organismo;\n\nb) A prévia vinculação a qualquer dos organismos a que se refere o artigo 1.º;\n\nc) A prévia vinculação a qualquer dos organismos ou serviços da Administração Pública."
+  },
+  "3bab25a062131bdb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Dotação de vagas para efeitos de promoção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Dotação de vagas para efeitos de promoção)\n\nQuando o número de lugares fixados não excedem o número de categorias ou classes integradas na respectiva carreira, poderão ser estabelecidas dotações globais."
+  },
+  "0888406c7b251d56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Classificação de serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Classificação de serviço)\n\n1 - Em cada ano civil comissões de avaliação procederão à classificação de serviço do pessoal dos organismos portuários.\n\n2 - A classificação de serviço constituirá factor a ponderar para efeitos de promoção, a estabelecer na regulamentação a que se refere o artigo 11.º\n\n3 - A classificação de serviço será sempre comunicada ao interessado e da mesma poderá haver reclamação directa para o Ministro dos Transportes e Comunicações.\n\n4 - As formalidades processuais, prazos, sistema de classificação e competência para apreciação e homologação dos resultados serão fixados por despacho do Ministro dos Transportes e Comunicações."
+  },
+  "9708e8cf1c65b997": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Formação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Formação)\n\n1 - O Ministério dos Transportes e Comunicações promoverá, centralizadamente ou através dos respectivos organismos, a realização de cursos de formação cuja frequência e aproveitamento se tornem obrigatórios para efeitos de admissão ou promoção na respectiva carreira, nos termos do presente diploma.\n\n2 - A organização, funcionamento e plano dos cursos mencionados no número anterior serão aprovados por portaria assinada conjuntamente pelo Ministro dos Transportes e Comunicações e Secretário de Estado da Administração Pública, a publicar no prazo de doze meses, contados a partir da data de entrada em vigor do presente diploma.\n\n3 - O pessoal dos organismos a que se refere o artigo 1.º poderá também ser convocado para frequentar cursos, estágios e acções de formação em território nacional ou no estrangeiro, nos termos dos critérios a definir por despacho do Ministro dos Transportes e Comunicações.\n\n4 - As provas de selecção poderão ser substituídas por cursos de formação e aperfeiçoamento, por despacho do Ministro dos Transportes e Comunicações, quando se trate de carreiras específicas dos organismos portuários, e por despacho conjunto do Ministro titular do Secretário de Estado da Administração Pública, quando se trate de carreiras comuns a outros departamentos da Administração Pública.\n\n5 - Os cursos de formação e aperfeiçoamento serão ministrados por indivíduos devidamente qualificados, vinculados ou não à Administração Pública, mediante remuneração a fixar por despacho conjunto do Ministro dos Transportes e Comunicações e do Secretário de Estado da Administração Pública."
+  },
+  "b01f69c97d36a4c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Regulamentação de provas de selecção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Regulamentação de provas de selecção)\n\nA regulamentação das provas documentais, práticas, de avaliação curricular e estágio, bem como outras provas de selecção previstas no presente diploma pela admissão ou promoção, será objecto de portaria a assinar conjuntamente pelo Ministro dos Transportes e Comunicações e Secretário de Estado da Administração Pública, a publicar no prazo de doze meses, contados a partir da data da entrada em vigor do presente diploma."
+  },
+  "db9ae5bdec00378b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Reconversão funcional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Reconversão funcional)\n\n1 - A reconversão funcional terá lugar, mediante parecer médico favorável, nos casos em que se verifique incapacitação para o normal exercício da respectiva função, nomeadamente por acidente de trabalho ou sujeição a esforços físicos ou psíquicos de especial dureza.\n\n2 - O funcionário será afectado a novas funções, sem perda da respectiva designação profissional e letra de vencimento, ou integrado em categoria de idêntica remuneração, para a qual possua os necessários requisitos habilitacionais."
+  },
+  "8b7a9fe7fdbe6047": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Intercomunicabilidade de quadros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Intercomunicabilidade de quadros)\n\n1 - Os funcionários providos em lugares dos quadros dos organismos previstos no artigo 1.º poderão ser transferidos, a seu pedido, para o quadro de qualquer outro organismo, desde que da transferência não resulte inconveniente para os serviços.\n\n2 - A transferência só se efectuará se no serviço de destino não se verificar a existência de indivíduos que reúnam os requisitos para promoção à vaga que o funcionário transferido irá ocupar."
+  },
+  "40ad8c6a12525c7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Provimento em lugares do quadro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Provimento em lugares do quadro)\n\n1 - O provimento do pessoal dos quadros dos serviços a que se refere o artigo 1.º será feito por nomeação.\n\n2 - A nomeação em lugares de ingresso terá carácter provisório, durante o período de um ano, findo o qual o funcionário será nomeado definitivamente, se tiver revelado aptidão para o lugar, ou exonerado em caso contrário."
+  },
+  "74eb12b6b900d346": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Contrato além do quadro e em regime de prestação de serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Contrato além do quadro e em regime de prestação de serviço)\n\n1 - Poderá ser contratado pessoal além do quadro, nos termo da lei, para a satisfação de necessidades com carácter transitório que não possam ser asseguradas pelo pessoal do quadro.\n\n2 - O pessoal contratado além do quadro, com excepção dos estagiários, não poderá exceder, em caso algum, 5% dos efectivos globais previstos para o respectivo quadro respectivo.\n\n3 - Sempre que a percentagem fixada no número anterior for atingida, o quadro do organismo portuário em que tal se verifique será obrigatoriamente revisto, nos termos do artigo 3.º, tendo em vista a integração do pessoal contratado além do quadro.\n\n4 - O tempo de serviço prestado além do quadro será considerado para todos os efeitos legais se a integração se verificar em categoria de conteúdo funcional e remuneração idênticas.\n\n5 - Nos casos não abrangidos pelo número anterior, o tempo de serviço prestado na situação de contratado além do quadro não será contado para efeitos de antiguidade na categoria.\n\n6 - Para a realização de estudos, projectos e outros trabalhos de carácter eventual, poderão ser celebrados contratos de prestação de serviços, os quais deverão ser reduzidos a escrito, deles constando a tarefa a realizar, o respectivo prazo e remuneração e a indicação de que o contrato não confere em nenhum caso a qualidade de agente administrativo."
+  },
+  "dfdd3c84b1fc8d4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Contrato em tempo parcial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Contrato em tempo parcial)\n\n1 - Poderá ser contratado pessoal além do quadro para o desempenho de funções em tempo parcial, fazendo-se menção, no respectivo diploma de provimento, do regime de duração da prestação de serviço que lhe será aplicável.\n\n2 - Os cargos que poderão ser exercidos ao abrigo do regime estabelecido no número anterior serão determinados por portaria do Ministro dos Transportes e Comunicações.\n\n3 - Passará à situação de contratado além do quadro o pessoal que actualmente presta serviço em tempo parcial."
+  },
+  "8fdb55c737c00d83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Gratificações especiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Gratificações especiais)\n\n1 - A fixação ou alteração das gratificações por funções exercidas em acumulação será feita mediante despacho conjunto dos Ministros das Finanças e do Plano, dos Transportes e Comunicações e do Secretário de Estado da Administração Pública, nos termos do n.º 2 do artigo 6.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio.\n\n2 - Enquanto não forem revistos e uniformizados, nos termos do artigo 9.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), os abonos para falhas, os funcionários ou agentes que à data da entrada em vigor deste diploma exerçam as funções de tesoureiros continuarão a perceber as gratificações especiais a que têm direito, nos termos das respectivas leis orgânicas."
+  },
+  "0e4aeb345e2430ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Subsídio de penosidade ou risco)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Subsídio de penosidade ou risco)\n\n1 - Aos funcionários e agentes que, no desempenho das funções correspondentes à respectiva carreira, sejam temporariamente afectados a postos de trabalho especialmente penosos, tóxicos, insalubres ou arriscados por possuírem as indispensáveis aptidões psico-físicas poderá ser atribuído um subsídio de penosidade ou risco.\n\n2 - As condições e termos para a atribuição do subsídio serão estabelecidos no decreto regulamentara a que se refere o n.º 1 do artigo seguinte."
+  },
+  "e2b7167cbbcd2ca8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Prémio de rendibilidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Prémio de rendibilidade)\n\n1 - A todos os funcionários e agentes que prestem serviço nas administrações e juntas portuárias será atribuído, a título de incentivo à eficácia de gestão dos respectivos organismos, um prémio de rendibilidade, nos termos e nas condições a estabelecer em decreto regulamentar, a publicar no prazo de seis meses, a contar da data da entrada em vigor do presente diploma, ouvida a Comissão Interministerial para as Remunerações Acessórias e com observância do disposto nos números seguintes.\n\n2 - O montante global a distribuir no âmbito de cada administração ou junta será calculado tendo por base uma percentagem a fixar sobre as receitas directas de exploração, excluindo-se destas os saldos positivos de gerências anteriores, os subsídios do Orçamento Geral do Estado e o produto de financiamentos ou empréstimos destinados a investimento.\n\n3 - O limite máximo a receber mensalmente por cada funcionário ou agente não poderá ser superior a 18% do respectivo vencimento base.\n\n4 - A parte da verba calculada nos termos do n.º 2 que não seja eventualmente atribuída a título de prémio destinar-se-á ao financiamento de acções de formação e aperfeiçoamento profissional.\n\n5 - A assiduidade constituirá factor condicionante na atribuição de cada prémio individual e intervirá como factor de ponderação na fixação do respectivo montante."
+  },
+  "bca2af205292108d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Carreiras do pessoal portuário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Carreiras do pessoal portuário"
+  },
+  "4d0404d9f536c65b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Pessoal técnico superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Pessoal técnico superior"
+  },
+  "522bbebe5a257a2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Consultores jurídicos, engenheiros, arquitectos, geólogos e técnicos superiores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Consultores jurídicos, engenheiros, arquitectos, geólogos e técnicos superiores)\n\n1 - Os consultores jurídicos, engenheiros, arquitectos, geólogos e técnicos superiores são recrutados entre indivíduos habilitados com licenciatura adequada à natureza específica das funções que irão desempenhar, da seguinte forma\n\na) Assessores - mediante prova de avaliação curricular de entre os principais com, pelo menos, seis anos de bom e efectivo serviço na categoria e classe e que tenham revelado capacidade de concepção, coordenação e orientação;\n\nb) Principais - mediante prova documental de entre os de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) De 1.ª classe - mediante prova documental, de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nd) De 2.ª classe - mediante prova documental, constituindo motivo de preferência possuírem os interessados estágios com aproveitamento ou especialização nas funções a que se destinam.\n\n2 - Para cada organismo as vagas de técnico superior poderão ser contingentadas de acordo com a respectiva formação académica, mediante despacho do Ministro dos Transportes e Comunicações."
+  },
+  "acf603fcb47c00e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Médicos e médicos veterinários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Médicos e médicos veterinários)\n\n1 - Os médicos e os médicos veterinários serão recrutados mediante prova documental de entre licenciados em Medicina e em Medicina Veterinária,\n\n2 - Sem prejuízo do que estabelece o n.º 5, os médicos e os médicos veterinários que exerçam funções em tempo parcial serão contratados além do quadro e remunerados mensalmente, nos termos da lei geral, com base na categoria de técnico principal.\n\n3 - O tempo parcial a que se refere o número anterior não poderá ser inferior a dez horas de trabalho semanal.\n\n4 - Os médicos e os médicos veterinários que exerçam funções a tempo completo terão o desenvolvimento de carreira previsto para os técnicos superiores.\n\n5 - Os médicos e os médicos veterinários que à data da publicação deste diploma exerçam funções em tempo parcial manterão a sua actual vinculação aos organismos portuários em que prestam serviço."
+  },
+  "911b9761a2db5042": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Chefe dos serviços de segurança)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Chefe dos serviços de segurança)\n\nO chefe dos serviços de segurança será recrutado mediante prova prática de entre indivíduos que reúnam, cumulativamente, os seguintes requisitos:\n\na) Licenciatura;\n\nb) Domínio falado e escrito de inglês e francês;\n\nc) Estágio de especialização realizado em instituição competente"
+  },
+  "639396b74de0b3eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Pessoal técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Pessoal técnico"
+  },
+  "c69159c820000049": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Técnicos de administração e contabilidade e engenheiros técnicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Técnicos de administração e contabilidade e engenheiros técnicos)\n\nOs técnicos de administração e contabilidade e os engenheiros técnicos são recrutados de entre indivíduos habilitados com curso superior adequado à natureza específica das funções que irão desempenhar, da seguinte forma:\n\na) Principal - mediante prova documental de entre os de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos do bom e efectivo serviço na categoria e classe;\n\nc) De 2.ª classe - mediante prova documental, constituindo motivo de preferência possuírem os interessados estágios com aproveitamento ou especialização nas funções a que se destinam."
+  },
+  "38ff88ed01326404": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Técnicos de segurança)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Técnicos de segurança)\n\n1 - Os técnicos de segurança são recrutados da seguinte forma:\n\na) Principal - mediante prova documental de entre os de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) De 2.ª classe - de entre estagiários que tenham obtido aproveitamento no respectivo estágio;\n\nd) Estagiários - mediante provas práticas de entre indivíduos habilitados com o curso superior adequado.\n\n2 - O estágio a que se refere o número anterior será realizado em instituição competente e terá a duração de um ano."
+  },
+  "d5832591fbdf1790": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Chefe de serviços de abastecimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Chefe de serviços de abastecimento)\n\nO chefe de serviços de abastecimento é recrutado mediante prova documental de entre indivíduos habilitados com curso superior e possuidores de experiência nas funções a que se destinam."
+  },
+  "c77485adc3a32dde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Pessoal de informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Pessoal de informática"
+  },
+  "b21b0ac9ef800038": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Analistas de sistemas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Analistas de sistemas)\n\n1 - Os analistas de sistemas são recrutados da seguinte forma:\n\na) Principais - mediante prova documental de entre analistas de sistemas de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 1.ª classe - mediante prova documental de entre analistas de sistemas de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) De 2.ª classe - mediante prova prática de entre indivíduos habilitados com licenciatura adequada e formação complementar no domínio da informática ou de entre programadores com, pelo menos, três anos de serviço e que tenham adquirido a formação em informática necessária ao exercício das respectivas funções."
+  },
+  "d4ed41772ea1d062": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — (Programadores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Programadores)\n\nOs programadores são recrutados da seguinte forma:\n\na) Principais - mediante prova documental de entre programadores de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 1.ª classe - mediante prova documental de entre programadores com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) De 2.ª classe - mediante provas práticas de entre indivíduos habilitados com bacharelato adequado e formação complementar no domínio da informática ou, quando se verifique a impossibilidade de recrutamento desse pessoal, de entre os que possuam o curso complementar dos liceus ou equiparado e, pelo menos, três anos de experiência comprovada no domínio das funções a desempenhar."
+  },
+  "565e8b27939f519b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — (Operadores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Operadores)\n\nOs operadores são recrutados da seguinte forma:\n\na) Chefe - mediante prova documental de entre operadores de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 1.ª classe - mediante prova documental de entre operadores de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) De 2.ª classe - mediante provas práticas de entre indivíduos habilitados com o curso geral dos liceus ou equiparado e formação complementar adequada no domínio da informática."
+  },
+  "19e1bf910daff9e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Operadores de registo de dados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Operadores de registo de dados)\n\nOs operadores de registo de dados serão recrutados da seguinte forma:\n\na) Monitor de registo de dados - mediante prova documental de entre operadores de registo de dados de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e que tenham revelado capacidade para o desempenho de funções de coordenação;\n\nb) Operador de registo de dados de 1.ª classe - mediante prova documental de entre operadores de registo de dados de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) Operador de registo de dados de 2.ª classe - mediante provas práticas de entre indivíduos habilitados com o curso geral dos liceus ou equiparado e formação complementar adequada no domínio da informática."
+  },
+  "d53d682aad87f5fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Pessoal administrativo e técnico-profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Pessoal administrativo e técnico-profissional"
+  },
+  "b22b4fb0689ecb52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Chefe de secção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Chefe de secção)\n\nOs lugares de chefe de secção são providos mediante prova documental de entre:\n\na) Primeiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na respectiva classe;\n\nb) Tesoureiros de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) Indivíduos possuidores de curso superior adequado."
+  },
+  "cfb624dde6381140": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — (Oficiais administrativos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Oficiais administrativos)\n\n1 - Os lugares de primeiro-oficial e de segundo-oficial serão providos mediante provas de selecção de entre, respectivamente, os segundo-oficiais e terceiros-oficiais com, pelo menos, três anos de bom e efectivo serviço nestas categorias.\n\n2 - Os lugares de terceiro-oficial serão providos nos termos da lei aplicável."
+  },
+  "5fd0aaade158e6a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — (Escriturários-dactilógrafos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Escriturários-dactilógrafos)\n\nOs lugares de escriturário-dactilógrafo serão providos nos termos da lei geral."
+  },
+  "0387b0524ba9d187": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — (Tesoureiros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Tesoureiros)\n\nOs tesoureiros são recrutados do seguinte modo:\n\na) De 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 2.ª classe - mediante prova documental de entre segundos-oficiais e terceiros-oficiais habilitados com o curso geral dos liceus e experiência adequada ao desempenho das funções a que se destinam."
+  },
+  "d64d57f99843232f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — (Apontadores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Apontadores)\n\n1 - A categoria de apontador de 2.ª classe será provida mediante provas práticas de entre indivíduos habilitados com a escolaridade obrigatória.\n\n2 - O provimento nas categorias de apontador de 2.ª classe e principal fica condicionado à permanência de cinco anos de bom e efectivo serviço na classe anterior."
+  },
+  "f14ebf2030f86010": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — (Telefonistas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Telefonistas)\n\nA categoria de telefonista será provida mediante provas práticas de entre indivíduos possuidores da escolaridade obrigatória."
+  },
+  "4f429968504ded58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — (Assistentes de relações públicas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Assistentes de relações públicas)\n\nO provimento na categoria de assistente de relações públicas far-se-á mediante provas práticas de entre:\n\na) Indivíduos habilitados com o curso superior e experiência adequada;\n\nb) Funcionários do quadro dos organismos portuários habilitados com o curso complementar dos liceus, conhecimento de duas línguas estrangeiras e três anos de serviço em categoria remunerada por letra igual ou superior à letra J, provenientes preferencialmente da carreira de oficiais administrativos."
+  },
+  "5c069c5380467df4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — (Topógrafos, desenhadores, desenhadores cartógrafos, hidrometristas e operadores de radar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Topógrafos, desenhadores, desenhadores cartógrafos, hidrometristas e operadores de radar)\n\n1 - Os topógrafos, desenhadores, desenhadores cartógrafos, hidrometristas e operadores de radar serão recrutados pela seguinte forma:\n\na) Principal - mediante prova documental de entre os de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) De 2.ª classe - de entre estagiários que tenham obtido aproveitamento no respectivo Estágio;\n\nd) Estagiários - mediante prova prática de entre indivíduos habilitados com o curso geral dos liceus ou equiparado, constituindo factor de preferência possuírem os interessados experiência nas actividades a que se destinam.\n\n2 - Ao operador de radar, para além dos requisitos a que se refere a alínea d) no número anterior, será exigido conhecimento de inglês.\n\n3 - O Estágio a que se refere a alínea d) do n.º 1 tem a duração de um ano."
+  },
+  "4171a7caad383415": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — (Fiscais técnicos de obras e apetrechamento portuários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Fiscais técnicos de obras e apetrechamento portuários)\n\nOs fiscais técnicos de obras e apetrechamento portuários são recrutados da seguinte forma:\n\na) Principal - mediante prova documental de entre os de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) De 2.ª classe - mediante prova documental de entre indivíduos habilitados com o curso de construtor civil ou habilitação equiparada."
+  },
+  "2a49a077984ae04f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — (Fiscais de obras e apetrechamento portuários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — (Fiscais de obras e apetrechamento portuários)\n\nO provimento na categoria de fiscal de obras e apetrechamento portuários obedecer aos seguintes requisitos:\n\na) Principal - mediante prova documental de entre os de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) De 2.ª classe - mediante prova documental de entre indivíduos habilitados com a escolaridade obrigatória e com mais de quatro anos de prática profissional comprovada."
+  },
+  "3cf8e964cc0aeb9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — (Técnicos auxiliares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — (Técnicos auxiliares)\n\n1 - O provimento das categorias de técnico auxiliar obedecerá aos seguintes requisitos:\n\na) Principal - mediante prova documental de entre técnicos auxiliares de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) De 1.ª classe - mediante prova documental de entre técnicos auxiliares de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nc) De 2.ª classe - mediante prova documental de entre indivíduos possuidores do curso geral dos liceus ou habilitação equiparada e experiência adequada."
+  },
+  "0fb900c3676e3b6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — (Técnicos auxiliares oficinais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — (Técnicos auxiliares oficinais)\n\nAs carreiras de técnicos auxiliares oficinais desenvolver-se-ão pelas seguintes categorias, para as quais serão exigíveis os requisitos de provimento abaixo indicados:\n\na) Técnico auxiliar oficinal principal - mediante prova documental de entre os de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) Técnico auxiliar oficinal de 1.ª classe - mediante prova documental de entre:\n\ni) Operários qualificados principais que tenham adquirido a habilitação de um curso industrial ou equiparado;\n\nii) Técnicos auxiliares oficinais de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) Técnicos auxiliares oficinais de 2.ª classe - mediante prova documental de entre operários qualificados e semiqualificados que tenham adquirido o curso industrial ou equiparado."
+  },
+  "f4e58e9a1785971d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — (Recepcionistas de material)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — (Recepcionistas de material)\n\n1 - Os recepcionistas de material serão recrutados pela seguinte forma:\n\na) Principal - mediante prova documental de entre os de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) De 2.ª classe - mediante provas práticas de entre indivíduos habilitados com o curso geral dos liceus ou habilitação equiparada.\n\n2 - As categorias de recepcionista de material principal ou de 1.ª classe só serão criadas nos organismos em que a complexidade das tarefas as justifiquem."
+  },
+  "8b544e285f62ff23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — (Auxiliares técnicos de segurança)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — (Auxiliares técnicos de segurança)\n\n1 - Os auxiliares técnicos de segurança serão recrutados pela seguinte forma:\n\na) De 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 2.ª classe - mediante prova documental de entre os estagiários que tenham obtido aproveitamento no respectivo estágio;\n\nc) Estagiários - mediante prova prática de entre indivíduos possuidores da escolaridade obrigatória.\n\n2 - Durante o estágio, que terá a duração de uma ano, será ministrado aos candidatos, pela entidade competente, um curso adequado ao desempenho das funções, no domínio das técnicas de segurança, prevenção e controle de incêndios, prevenção de acidente de trabalho e primeiros socorros."
+  },
+  "3998c6458e583653": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — (Sondadores de geologia)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — (Sondadores de geologia)\n\nOs sondadores de geologia serão recrutados da seguinte forma:\n\na) De 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe anterior;\n\nb) De 2.ª classe de entre os estagiários que tenham obtido aproveitamento no respectivo Estágio;\n\nc) Estagiários - mediante prova prática de entre indivíduos possuidores da escolaridade obrigatória."
+  },
+  "1a700a42826841e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — (Auxiliares técnicos e ajudantes de operador de radar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — (Auxiliares técnicos e ajudantes de operador de radar)\n\n1 - O provimento nas categorias de auxiliar técnico obedecerá aos seguintes requisitos:\n\na) Principal - mediante prova documental de entre os de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 1.ª classe - mediante prova documental de entre os de 2.ª e com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) De 2.ª classe - mediante prova documental de entre indivíduos possuidores da escolaridade obrigatória e experiência adequada.\n\n2 - Nas portarias a que se refere o n.º 1 do artigo 3.º, as categorias de auxiliar técnico serão adjectivadas de acordo com a área funcional a que se destinam.\n\n3 - As regras previstas no presente artigo para a carreira de auxiliares técnicos são aplicáveis aos ajudantes de operador de radar."
+  },
+  "36c16942c9d7feac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Pessoal de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Pessoal de enfermagem"
+  },
+  "c90f603774fba6a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nOs organismos mencionados no artigo 1.º disporão do pessoal de enfermagem necessário ao seu funcionamento, ao qual se aplicarão as regras de desenvolvimento de carreiras e requisitos de provimento previstos na respectiva legislação geral."
+  },
+  "3667a58e1c04312b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Pessoal de exploração terrestre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Pessoal de exploração terrestre"
+  },
+  "09c7abcf864a1f26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — (Técnicos de exploração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — (Técnicos de exploração)\n\n1 - Os técnicos de exploração coordenadores serão providos de entre técnicos de exploração principais com, pelo menos, seis anos de bom e efectivo serviço na categoria e classe e que tenham revelado capacidade para funções de coordenação.\n\n2 - Os técnicos de exploração principais serão providos de entre técnicos de exploração com, pelo menos, três anos de bom e efectivo serviço na categoria e classe.\n\n3 - Os técnicos de exploração serão providos de entre:\n\na) Técnicos de exploração estagiários que tenham obtido aproveitamento no respectivo Estágio;\n\nb) Mediante provas práticas de entre adjuntos de exploração com, pelo menos, três anos de funções e que tenham adquirido a licenciatura adequada.\n\n4 - Os técnicos de exploração estagiários serão providos mediante provas práticas de entre indivíduos habilitados com a licenciatura adequada, sendo condição de preferência possuírem experiência ou formação complementar para as funções a que se destinam.\n\n5 - O estágio a que se refere o número anterior terá a duração de dois anos."
+  },
+  "866fca23f4c0244f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — (Adjuntos de exploração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — (Adjuntos de exploração)\n\n1 - Os adjuntos de exploração principais serão providos mediante provas de selecção de entre adjuntos de exploração com, pelo menos, três anos de bom e efectivo serviço.\n\n2 - Os adjuntos de exploração serão providos de entre os agentes de exploração que reúnam cumulativamente os seguintes requisitos:\n\na) Curso geral dos liceus ou equiparado;\n\nb) Três anos na categoria de principal;\n\nc) Dez anos de exercício de funções na carreira de agente de exploração;\n\nd) Aproveitamento em curso de formação com duração de doze meses."
+  },
+  "272b14063b25d784": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — (Agentes de exploração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — (Agentes de exploração)\n\n1 - Os agentes de exploração serão recrutados pela seguinte forma:\n\na) Principal - mediante prova documental de entre os de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) De 2.ª classe - de entre estagiários que tenham obtido aproveitamento nos respectivos Estágios;\n\nd) Estagiários - mediante provas práticas de entre indivíduos possuidores do curso geral dos liceus ou habilitações equivalentes.\n\n2 - Em igualdade de circunstâncias terão preferência para ingresso os auxiliares de exploração, os quais serão, para esse efeito, dispensados do respectivo estágio."
+  },
+  "889740cfc8e710a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — (Auxiliares de exploração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — (Auxiliares de exploração)\n\n1 - Os auxiliares de exploração de 2.ª classe serão recrutados mediante provas práticas de entre indivíduos possuidores da escolaridade obrigatória.\n\n2 - O acesso à categoria de auxiliar de exploração de 1.ª classe e principal ficará dependente da permanência de cinco anos de bom e efectivo serviço na classe anterior."
+  },
+  "ed35d4fec1f3b625": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — (Fiéis de depósito de abastecimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — (Fiéis de depósito de abastecimento)\n\n1 - Os fiéis de depósito de abastecimento serão recrutados pela seguinte forma:\n\na) Fiel de depósito de abastecimento Principal - mediante prova documental de entre os de 1.ª classe com, pelo menos, três anos de bom efectivo serviço na categoria e classe e que tenham revelado aptidão para funções de coordenação;\n\nb) Fiel de depósito de abastecimento de 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) Fiel de depósito de abastecimento de 2.ª classe - mediante prova prática de entre indivíduos possuidores do curso geral dos liceus ou habilitações equivalentes.\n\n2 - Em igualdade de circunstâncias terão preferência para ingresso em fiel de depósito de 2.ª classe os fiéis auxiliares de depósito.\n\n3 - As categorias de fiel de depósito de abastecimento principal e de 1.ª classe só serão criadas nos depósitos de abastecimento em que o movimento dos valores e as existências o justifiquem."
+  },
+  "307953ba4f53c97a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — (Fiéis auxiliares de depósito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — (Fiéis auxiliares de depósito)\n\n1 - Os fiéis auxiliares de depósito de 2.ª classe serão recrutados mediante provas práticas de entre indivíduos habilitados com a escolaridade obrigatória.\n\n2 - O acesso à categoria de fiel auxiliar de depósito de 1.ª classe e principal ficará dependente da permanência de cinco anos na classe anterior."
+  },
+  "dc43d293f6724a00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — (Manobradores de guindastes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — (Manobradores de guindastes)\n\n1 - Os manobradores de guindastes serão recrutados pela seguinte forma:\n\na) Chefe - mediante prova prática de entre manobradores de guindastes principais com, pelo menos, três anos de bom e efectivo serviço na categoria e classe e que tenham revelado aptidão para o exercício de funções de coordenação;\n\nb) Principal - mediante prova documental de entre os de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe anterior;\n\nc) De 1.ª classe - de entre os de 2.ª classe com cinco anos de bom e efectivo serviço na classe anterior;\n\nd) De 2.ª classe - de entre estagiários que tenham obtido aproveitamento no respectivo estágio;\n\ne) Estagiários - mediante provas práticas de entre indivíduos possuidores da escolaridade obrigatória e aptidão psico-física comprovada.\n\n2 - O Estágio a que se refere o número anterior terá a duração de um ano.\n\n3 - A dotação da categoria de manobrador de guindastes-chefe fica condicionada aos seguintes critérios alternativos:\n\na) O número de manobradores de guindastes-chefe variará de acordo com o número de profissionais que tiver de dirigir e controlar, nos termos da seguinte proporção:\n\ni) Um por grupo de vinte a quarenta;\n\nii) Dois por grupo de quarenta a oitenta;\n\niii) Três por grupo de oitenta a cento e cinquenta;\n\niv) Quatro por grupo de cento e cinquenta a duzentos;\n\nv) Cinco por grupo com mais de duzentos profissionais;\n\nb) Um manobrador-chefe de guindastes por cada base de guindastes nos casos em que se justifique a necessidade de dirigir e controlar grupos de manobradores de guindastes e quando o número destes for inferior ao fixado na alínea anterior.\n\n4 - A categoria de manobrador principal de guindastes será criada apenas nos organismos em que as características do trabalho portuário o justifique."
+  },
+  "9e54f8046330341e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — (Manobradores de motorizados de tráfego)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — (Manobradores de motorizados de tráfego)\n\n1 - Os manobradores de motorizados de tráfego serão recrutados pela seguinte forma:\n\na) Chefe - mediante prova prática de entre os manobradores de motorizados de tráfego principais com, pelo menos, três anos de bom e efectivo serviço na categoria e classe e que tenham revelado aptidão para o exercício de funções de coordenação;\n\nb) Principal - mediante prova documental de entre os de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe anterior;\n\nc) De 1.ª classe - de entre os de 2.ª classe com cinco anos de bom e efectivo serviço na classe anterior;\n\nd) De 2.ª classe - de entre estagiários que tenham obtido aproveitamento no respectivo estágio;\n\ne) Estagiários - mediante provas práticas de entre indivíduos possuidores da escolaridade obrigatória e da carta de condução profissional.\n\n2 - O estágio a que se refere o número anterior terá a duração de um ano.\n\n3 - A criação das categorias de manobrador chefe de motorizados de tráfego e principal fica condicionada, respectivamente, aos critérios previstos na alínea a) do n.º 3 e no n.º 4 do artigo anterior.\n\n4 - As regras previstas no presente diploma para a carreira de manobrador de motorizados de tráfego são aplicáveis:\n\na) Aos maquinistas de transportes ferroviários, com excepção da exigência da carta profissional de condução, a qual se considera substituída por formação ou experiência profissional adequada;\n\nb) Aos manobradores de guindastes automóveis até 12 t de Porte, até categoria equivalente à de 1.ª classe."
+  },
+  "697e05c19f183e85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — (Operadores de ponte móvel)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — (Operadores de ponte móvel)\n\n1 - Os operadores de ponte móvel serão recrutados pela seguinte forma:\n\na) Chefe - mediante prova documental de entre os operadores de ponte móvel com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) Operador de ponte móvel - de entre estagiários que tenham obtido aproveitamento no respectivo estágio;\n\nc) Estagiários - mediante prova prática de entre indivíduos possuidores da escolaridade obrigatória:\n\n2 - O estágio a que se refere a alínea c) terá a duração de um ano."
+  },
+  "761a14354ff70924": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Pessoal de exploração marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Pessoal de exploração marítima"
+  },
+  "ac11fdec8e4979ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56. — (Chefe de movimento de tráfego marítimo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56. — (Chefe de movimento de tráfego marítimo)\n\nO provimento na categoria de chefe de movimento de tráfego marítimo far-se-á mediante prova documental de entre indivíduos de reconhecida competência possuidores de carta de capitão da marinha mercante."
+  },
+  "b8a544dde86be742": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — (Capitães de marinha mercante)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — (Capitães de marinha mercante)\n\nOs capitães da marinha mercante serão recrutados mediante prova documental de entre indivíduos possuidores de carta de capitão da marinha mercante."
+  },
+  "6c49664e0b8be3d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — (Chefe de máquinas marítimas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — (Chefe de máquinas marítimas)\n\nO provimento em chefe de máquinas marítimas far-se-á mediante prova documental de entre:\n\na) Condutores de máquinas marítimas do quadro habilitados com o curso complementar de máquinas marítimas da Escola Náutica;\n\nb) Indivíduos estranhos ao quadro, de reconhecida competência, com a mesma habilitação."
+  },
+  "9b77fc458c1de3cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — (Técnicos de telecomunicações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — (Técnicos de telecomunicações)\n\n1 - Os técnicos de telecomunicações de 2.ª classe serão recrutados mediante Prova prática de entre indivíduos possuidores de carta de radiotécnico de 1.ª classe da Escola Náutica.\n\n2 - O acesso à categoria de técnico de telecomunicações de 1.ª classe fica dependente da permanência de cinco anos de bom e efectivo serviço na classe anterior."
+  },
+  "18c9312a6928bd26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — (Condutores de máquinas marítimas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — (Condutores de máquinas marítimas)\n\nOs condutores de máquinas marítimas serão recrutados pela seguinte forma:\n\na) De 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 2.ª classe - mediante prova documental de entre indivíduos habilitados com o curso geral de máquinas marítimas da Escola Náutica."
+  },
+  "4a7242b3f19158ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — (Mestres de tráfego local)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — (Mestres de tráfego local)\n\n1 - Os mestres de tráfego local serão recrutados pela seguinte forma:\n\na) De 1.ª classe - mediante prova prática de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe e que tenham revelado aptidão para governar rebocadores, guindastes flutuantes, cábreas e dragas de potência superior a 400 HP;\n\nb) De 2.ª classe - mediante prova prática de entre os de 3.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe e que tenham revelado aptidão para governar rebocadores e batelões motorizados com uma potência superior a 200 cv;\n\nc) De 3.ª classe - mediante prova documental de entre:\n\ni) Os marinheiros de 1.ª classe com, pelo menos, quatro anos de bom e efectivo serviço na categoria e classe e que tenham adquirido carta de mestre de tráfego local nos termos do artigo 67.º do Regulamento da Inscrição Marítima, Matrícula e Lotação dos Navios da Marinha Mercante e da Pesca, adiante designado por RIM;\n\nii) Os mestres marítimos auxiliares e arrais que tenham adquirido idêntica qualificação profissional.\n\n2 - Os lugares de mestre marítimo auxiliar e arrais serão providos pelos profissionais portadores de idêntica designação que não possuam a carta de mestre de tráfego local a que se refere a alínea c) do n.º 1 do presente artigo e serão extintos à medida que vagarem."
+  },
+  "60b440207f873638": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — (Marinheiros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — (Marinheiros)\n\n1 - Os marinheiros de 1.ª classe serão recrutados de entre marinheiros de 2.ª classe com, pelo menos, quatro anos de bom e efectivo serviço na categoria e classe e que tenham adquirido a carta de marinheiro de 1.ª classe nos termos do artigo 68.º do RIM.\n\n2 - Os marinheiros de 2.ª classe serão recrutados de entre indivíduos possuidores da escolaridade obrigatória que possuam a carta de marinheiro de 2.ª classe nos termos do artigo 69.º do RIM."
+  },
+  "77f95bed0b5dca9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — (Maquinistas marítimos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — (Maquinistas marítimos)\n\nOs maquinistas marítimos serão recrutados pela seguinte forma:\n\na) De 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe e que tenham adquirido carta de maquinista prático de La classe ou de motorista prático de 1.ª classe - nos termos dos artigos 82.º e 89.º do RIM, respectivamente;\n\nb) De 2.ª classe - mediante prova documental de entre:\n\ni) Os ajudantes de maquinista habilitados com carta de fogueiro com, pelo menos, cinco anos de bom e efectivo serviço nesta categoria e que tenham obtido carta de maquinista prático de 2.ª classe nos termos do artigo 83.º do RIM;\n\nii) Os maquinistas marítimos de 3.ª classe com, pelo menos, três anos de bom e efectivo serviço nesta categoria e que tenham adquirido a carta de motorista prático de 2.ª Classe nos termos do artigo 90.º do RIM;\n\nc) De 3.ª classe - mediante prova documental de entre os ajudantes de maquinista com, pelo menos, três anos de bom e efectivo serviço nesta categoria e que tenham adquirido a carta de motorista prático de 3.ª classe nos termos do artigo 91.º do RIM."
+  },
+  "a13920f481a1a9ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — (Ajudante de maquinista e chegador)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — (Ajudante de maquinista e chegador)\n\n1 - A categoria de ajudante de maquinista serão providos mediante prova prática de entre indivíduos que possuam a carta de ajudante de motorista, ou de fogueiro, nos termos dos artigos 93.º e 102.º do RIM, respectivamente.\n\n2 - A categoria de chegador será provida mediante prova prática de entre indivíduos possuidores da escolaridade obrigatória e de carta de chegador, nos termos do artigo 103.º do RIM."
+  },
+  "b170b2b30ca99d61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — (Operadores de gruas flutuantes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — (Operadores de gruas flutuantes)\n\n1 - Os operadores de gruas flutuantes de 3.ª classe serão providos mediante prova documental de entre indivíduos possuidores de carta de operador de gruas flutuantes, nos termos do artigo 67.º-A do RIM.\n\n2 - O acesso à categoria de operador de gruas flutuantes de 1.ª e 2.ª classe fica dependente da permanência de um período de cinco anos de bom e efectivo serviço na classe anterior."
+  },
+  "98e0bc6634a4e1ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — (Encarregados de pessoal dos serviços marítimos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — (Encarregados de pessoal dos serviços marítimos)\n\n1 - Os encarregados de pessoal dos serviços marítimos serão recrutados pela seguinte forma:\n\na) Encarregado de pessoal dos serviços marítimos de 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) Encarregado de pessoal dos serviços marítimos de 2.ª classe - mediante prova prática de entre maquinistas e mestres de tráfego local que tenham revelado aptidão para tarefas administrativas e de coordenação.\n\n2 - Os encarregados de pessoal dos serviços marítimos de 2.ª classe serão providos nesta categoria, em comissão de serviço, por um período de um ano, findo o qual serão providos definitivamente na categoria de encarregado marítimo de 2.ª classe ou regressarão ao lugar de origem, se não tiverem revelado aptidão para o desempenho das novas funções.\n\n3 - Durante o período a que se refere o número anterior, os encarregados de pessoal dos serviços marítimos de 2.ª classe frequentarão um curso de formação específica para o desempenho das funções."
+  },
+  "14c2e03972b88051": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — (Coordenadores dos serviços marítimos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — (Coordenadores dos serviços marítimos)\n\n1 - Os coordenadores de serviços marítimos serão recrutados pela seguinte forma:\n\na) De 1.ª classe - mediante prova documental de entre coordenadores de serviços marítimos de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe ou de entre mestres de tráfego local de 1.ª classe que, nos termos do artigo 12.º, sejam considerados incapacitados para o exercício das respectivas funções;\n\nb) De 2.ª classe - mediante prova documental de entre os coordenadores de serviços marítimos de 3.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe ou de entre mestres de tráfego local de 2.ª classe que, nos termos do artigo 12.º, sejam considerados incapacitados para o exercício das respectivas funções;\n\nc) De 1.ª classe - mediante prova documental de entre mestres de tráfego local de 1.ª classe que, nos termos do artigo 12.º, sejam considerados incapacitados para o exercício das respectivas funções.\n\n2 - O recrutamento lateral de mestres de tráfego local de 1.ª e 2.ª classes para as categorias de coordenador de serviços marítimos de 1.ª e 2.ª classes, respectivamente, não poderá exceder 50% das vagas ocorridas nas respectivas categorias."
+  },
+  "341517d25b6555e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — (Mergulhadores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — (Mergulhadores)\n\n1 - Os mergulhadores serão recrutados pela seguinte forma:\n\na) De 1.ª classe - mediante prova documental de entre mergulhadores de 2.ª classe que tenham obtido a qualificação profissional constante do artigo 9.º do regulamento aprovado pelo [Decreto n.º 43432](https://diariodarepublica.pt/dr/detalhe/decreto/43432-1960-513425), de 1 de Fevereiro de 1961;\n\nb) De 2.ª classe - mediante prova documental de entre mergulhadores de 3.ª classe que tenham obtido a qualificação profissional constante do artigo 8.º do regulamento citado na alínea anterior;\n\nc) De 3.ª classe - mediante prova documental de entre indivíduos habilitados com carta de mergulhadores, possuidores da escolaridade obrigatória e que satisfaçam as condições previstas no artigo 13.º do regulamento mencionado na alínea a).\n\n2 - Nos organismos e serviços onde não se justifique a existência da carreira a que se refere o n.º 1, poderão os trabalhos de mergulho ser executados por qualquer funcionário habilitado com a carta de mergulhador, sendo a respectiva remuneração fixada por despacho conjunto do Ministro das Finanças e do Plano, do Ministro dos Transportes e Comunicações e do Secretário de Estado da Administração Pública."
+  },
+  "5bf533d881c73a99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VIII — Pessoal auxiliar e operário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VIII — Pessoal auxiliar e operário"
+  },
+  "038e6e5159d9ea0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — (Operadores de reprografia)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — (Operadores de reprografia)\n\n1 - Os operadores de reprografia serão recrutados pela seguinte forma:\n\na) De 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 2.ª classe - mediante prova documental de entre operadores de reprografia de 3.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nc) De 3.ª classe - mediante prova prática de entre indivíduos habilitados com a escolaridade obrigatória.\n\n2 - Em igualdade de circunstâncias, terão preferência para ingresso na carreira de operador de reprografia os funcionários integrados nas carreiras de pessoal auxiliar."
+  },
+  "a1750d734c9f8196": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — (Bagageiros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — (Bagageiros)\n\n1 - Os bagageiros serão recrutados de entre indivíduos habilitados com a escolaridade obrigatória.\n\n2 - O capataz de bagageiros será recrutado mediante prova documental de entre bagageiros com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n3 - O número de capatazes fica condicionado à proporção de um para cada vinte bagageiros."
+  },
+  "83cabe44690b3e27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — (Empregados de cantina, bar e caixa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — (Empregados de cantina, bar e caixa)\n\n1 - Os empregados de cantina, bar e caixa serão recrutados pela seguinte forma:\n\na) De 1.ª classe - mediante prova documental de entre os de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) De 2.ª classe - mediante prova documental de entre os auxiliares com, pelo menos, um ano de bom e efectivo serviço;\n\nc) Auxiliares - mediante prova prática de entre indivíduos possuidores da escolaridade obrigatória."
+  },
+  "35cd915df00f6c01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º — (Auxiliares de limpeza)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — (Auxiliares de limpeza)\n\nOs auxiliares de limpeza serão recrutados de entre indivíduos com a escolaridade obrigatória, de harmonia com a idade do candidato."
+  },
+  "9de96f42e9cd60aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º — (Motoristas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — (Motoristas)\n\n1 - Os motoristas de pesados e ligeiros serão recrutados mediante prova prática de entre os indivíduos habilitados com a escolaridade obrigatória e carta profissional de condução.\n\n2 - São classificados como motoristas de pesados os que conduzam viaturas pesadas, sem prejuízo de, com carácter esporádico e por conveniência de serviço, poderem conduzir veículos ligeiros."
+  },
+  "84367a23db7d2dc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º — (Contínuos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — (Contínuos)\n\nO provimento na categoria de contínuo será feito de entre indivíduos habilitados com a escolaridade obrigatória."
+  },
+  "23865d4c6bd2db69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º — (Portageiros e guardas portuários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — (Portageiros e guardas portuários)\n\n1 - Os portageiros e guardas portuários serão recrutados da seguinte forma:\n\na) Chefe - mediante prova documental de entre guardas e portageiros com, pelo menos, três anos de bom e efectivo serviço na categoria e classe;\n\nb) Portageiros e guardas - de entre estagiários que tenham obtido aproveitamento no respectivo estágio;\n\nc) Portageiros e guardas estagiários - mediante prova documental de entre indivíduos possuidores da escolaridade obrigatória.\n\n2 - O estágio a que se refere a alínea c) terá a duração de um ano."
+  },
+  "64f9e17e72650658": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º — (Carreiras operárias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — (Carreiras operárias)\n\n1 - As carreiras operárias agrupam-se em:\n\na) Carreiras do pessoal qualificado;\n\nb) Carreiras do pessoal semiqualificado;\n\nc) Carreiras do pessoal não qualificado.\n\n2 - A integração das carreiras operárias dos organismos portuários nos grupos a que se refere o número anterior far-se-á nos termos do anexo III ao presente decreto-lei."
+  },
+  "edc7ddfe3e97676e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º — (Pessoal operário qualificado e semiqualificado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — (Pessoal operário qualificado e semiqualificado)\n\n1 - O ingresso na carreira de pessoal operário qualificado e semiqualificado far-se-á:\n\na) Mediante prova prática de entre indivíduos possuidores da escolaridade obrigatória e experiência profissional adequada;\n\nb) Ajudantes que tenham obtido aproveitamento no respectivo período de aprendizagem.\n\n2 - O recrutamento dos ajudantes far-se-á mediante prova prática.\n\n3 - O acesso dentro de cada carreira é feito mediante provas práticas de entre funcionários dos quadros respectivos, da categoria e classe imediatamente inferior, com, pelo menos, três anos de bom e efectivo serviço nessas categorias."
+  },
+  "a1e216d75429baf3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º — (Pessoal operário não qualificado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — (Pessoal operário não qualificado)\n\n1 - O ingresso na carreira de pessoal não qualificado far-se-á:\n\na) Mediante prova prática de entre indivíduos possuidores da escolaridade obrigatória;\n\nb) Praticantes que tenham obtido aproveitamento no respectivo período de aprendizagem.\n\n2 - Os praticantes serão recrutados mediante prova prática.\n\n3 - O acesso na carreira de pessoal não qualificado fica condicionado à permanência de cinco anos de bom e efectivo serviço na categoria e classe anterior."
+  },
+  "0e36867077dc526e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — (Chefia de pessoal operário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — (Chefia de pessoal operário)\n\nO número de lugares correspondente às categorias de chefia de pessoal operário fica condicionado às seguintes regras de densidade:\n\na) Só poderá ser criado um lugar de encarregado geral quando se verifique a necessidade de coordenar, pelo menos, três encarregados no respectivo sector de actividade;\n\nb) Só poderá ser criado um lugar de encarregado nas carreiras de pessoal operário qualificado e semiqualificado quando se verifique a necessidade de dirigir e controlar, pelo menos, vinte profissionais do respectivo sector de actividade;\n\nc) Só poderá ser criado um lugar de encarregado nas carreiras de pessoal não qualificado quando se verique a necessidade de coordenar, simultaneamente, grupos de operários semiqualificados e não qualificados com mais de cinquenta operários;\n\nd) Só poderá ser criado um lugar de capataz por grupo de dez operários.\n\n2 - Excepcionalmente, e por razões ponderosas de organização e funcionamento dos serviços, poderão, o Ministro dos Transportes e Comunicações e o Secretário de Estado da Administração Pública, por despacho devidamente fundamentado, isentar os organismos portuários da observância das regras de densidade previstas no número anterior."
+  },
+  "eb47f75dbc1b3472": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo III — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições transitórias"
+  },
+  "f4eb5d1c494d3ef4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º — (Chefe oficinal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — (Chefe oficinal)\n\n1 - O provimento na categoria de chefe oficinal far-se-á mediante prova prática de entre técnicos auxiliares oficinais principais com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n2 - Após o primeiro provimento dos lugares dos quadros dos organismos a que se refere o artigo 1.º, não se efectuarão mais admissões na carreira mencionada no número anterior, cuja extinção se processará à medida que vagarem os lugares existentes."
+  },
+  "d7c13209b090cdf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º — (Ajudante de condutor de máquinas marítimas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — (Ajudante de condutor de máquinas marítimas)\n\n1 - Após o primeiro provimento dos lugares dos quadros dos organismos a que se refere o artigo 1.º, não se efectuarão mais admissões nas carreiras mencionadas no presente artigo, cuja extinção se processará à medida que vagarem os lugares da respectiva base.\n\n2 - O provimento das categorias de ajudante de condutor de máquinas marítimas obedecerá aos seguinte requisitos:\n\na) De 1.ª e 2.ª classes - mediante prova documental de entre os de 2.ª e 1.ª classes, respectivamente, com, pelo menos, três anos de bom e efectivo serviço na categoria e classe anterior;\n\nb) De 3.ª classe - de entre funcionários ou agentes possuidores da escolaridade obrigatória e experiência profissional adequada."
+  },
+  "824b0500d04320e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82.º — (Primeiro provimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — (Primeiro provimento)\n\n1 - O primeiro provimento do pessoal que à data da publicação dos diplomas a que se refere o artigo 3.º do presente diploma se ache vinculado a qualquer título aos serviços dos organismos portuários para os lugares previstos nos respectivos quadros de pessoal far-se-à mediante lista ou listas nominativas, aprovadas por despacho do Secretário de Estado da Marinha Mercante, visadas pelo Tribunal de Contas e publicadas no Diário da República, de acordo com as seguintes regras alternativas:\n\na) Para lugar do quadro para que possua as habilitações e experiência exigida no presente diploma;\n\nb) Para lugar do quadro de categoria e letra de vencimento equivalentes às que o agente já possui;\n\nc) Para lugar de ingresso na carreira correspondente às funções que o agente actualmente desempenha, sem prejuízo de poder vir a ser integrado na categoria e classe imediatamente superior à de ingresso, se contar mais de seis anos de bom e efectivo serviço no desempenho dessas funções.\n\n2 - A integração efectuada ao abrigo da alínea a) far-se-á em categoria idêntica ou imediatamente superior à que o agente já possui.\n\n3 - Os Funcionários integrados ao abrigo das alíneas b) e c) do n.º 1 só poderão progredir na respectiva carreira após a frequência, com aproveitamento, de um curso de aperfeiçoamento profissional cujos planos de formação serão aprovados nos temos do artigo 10.º\n\n4 - As regras de primeiro provimento previstas no presente artigo não serão aplicáveis à categoria de assessor ou técnico de exploração coordenador.\n\n5 - Quando, pela aplicação das regras previstas no presente diploma, puder resultar para o funcionário o provimento em categoria remunerada por letra de vencimento inferior à que já possui, este manter-se-á provido em lugar de igual categoria e designação funcional, o que será extinto à medida que vagar.\n\n6 - Os critérios de aplicação das regras de primeiro provimento serão estabelecidos por despacho do Ministro dos Transportes e Comunicações, ouvido o Secretário de Estado da Administração Pública, mediante proposta de um grupo de trabalho a constituir para o efeito.\n\n7 - O primeiro provimento produz efeitos desde 1 de Maio de 1979."
+  },
+  "1425aee5f3e71e75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º — (Extinção de categorias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — (Extinção de categorias)\n\nConsiderar-se-ão automaticamente extintas as categorias dos actuais quadros dos organismos portuários mencionados no artigo 1.º, a partir da data em que todos os funcionários e agentes naqueles colocados tenham sido integrados nas novas categorias criadas."
+  },
+  "1de111906f3c9d82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º — (Remunerações anteriores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — (Remunerações anteriores)\n\nAté à publicação do decreto regulamentar a que se refere o n.º 1 do artigo 19.º, não poderá resultar da aplicação do presente diploma redução de qualquer tipo de remuneração actualmente percebida por cada funcionário ou agente."
+  },
+  "b762c2ae420cdbc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 85.º — (Resolução de dúvidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — (Resolução de dúvidas)\n\nAs dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações, ouvidos o Ministro das Finanças e do Plano e o Secretário de Estado da Administração Pública, quando for caso disso."
+  },
+  "fc3010e44008d9af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º — (Regiões autónomas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — (Regiões autónomas)\n\nO presente diploma poderá ser aplicável às Juntas Autónomas dos Portos das Regiões Autónomas da Madeira e dos Açores, mediante portaria conjunta do Ministro da República respectivo e do Ministro dos Transportes e Comunicações, ouvido o Governo Regional."
+  },
+  "6fe2c6fa5b89ba9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 87.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — (Entrada em vigor)\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 31 de Maio de 1579. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - José Ricardo Marques da Costa - António Jorge de Figueiredo Lopes.\n\nPromulgado em 5 de Julho de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMapa a que se refere o artigo 2.º do Decreto-Lei n.º 247/79\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17000/16991718.pdf)\n\nMapa II\n\nRemunerações previstas para estágios\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17000/16991718.pdf)\n\nMapa III\n\nCategorias profissionais englobáveis nas carreiras de pessoal operário qualificado, semiqualificado e não qualificado.\n\n1 - Pessoal operário qualificado:\n\nCaldeireiro.\n\nCanalizador.\n\nCarpinteiro naval.\n\nCarpinteiro.\n\nCanteiro.\n\nCozinheiro.\n\nElectricista.\n\nFerreiro-forjador.\n\nFundidor.\n\nFunileiro.\n\nMecânico.\n\nMarceneiro.\n\nPedreiro.\n\nPintor.\n\nSerralheiro civil.\n\nSerralheiro mecânico.\n\nSoldador por electroarco ou a oxi-acetileno.\n\nSondador.\n\nTorneiro.\n\nTorneiro mecânico.\n\nVidraceiro.\n\n2 - Pessoal operário semiqualificado:\n\nAssentador de via.\n\nCalafate.\n\nCalceteiro.\n\nJardineiro.\n\nLubrificador.\n\nMarteleiro.\n\nRevisor de vagões.\n\nRevisor de guindastes.\n\n3 - Pessoal operário não qualificado:\n\nBatedor de maço.\n\nCantoneiro de limpeza."
+  },
+  "611757b8733df983": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — (Técnicos de exploração)",
+   "in_force_from": "1985-01-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 5/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1985-622289), publicado em 1985-01-07."
+   ],
+   "markdown": "###### Artigo 47.º — (Técnicos de exploração)\n\n1 - Os técnicos de exploração coordenadores serão providos de entre técnicos de exploração principais com, pelo menos, seis anos de bom e efectivo serviço na categoria e classe e que tenham revelado capacidade para funções de coordenação.\n\n2 - Os técnicos de exploração principais serão providos de entre técnicos de exploração com, pelo menos, três anos de bom e efectivo serviço na categoria e classe.\n\n3 - Os técnicos de exploração serão providos de entre:\n\na) Técnicos de exploração estagiários que tenham obtido aproveitamento no respectivo Estágio;\n\nb) Mediante provas práticas de entre adjuntos de exploração com, pelo menos, 3 anos de funções e que tenham adquirido a licenciatura adequada, ou possuidores de carta de capitão da marinha mercante.\n\n4 - Os técnicos de exploração estagiários serão providos mediante provas práticas de entre indivíduos habilitados com a licenciatura adequada ou possuidores de carta de capitão da marinha mercante, sendo condição de preferência possuírem experiência ou formação complementar para as funções a que se destinam.\n\n5 - O estágio a que se refere o número anterior terá a duração de dois anos.\n\n> Alterado pelo/a [Decreto-Lei n.º 5/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1985-622289), publicado em 1985-01-07."
+  }
+ }
+}

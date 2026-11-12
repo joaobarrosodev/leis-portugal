@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:608757:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 185/2009): altera o Código do Registo Predial, o CSC, o CRCom, o EBF, o CVM, o Estatuto da OROC, o RERN, o CIRE e o Regulamento do Registo de Automóveis; as menções ao DL 122/2009 são só no historial de redação desses diplomas; nenhuma instrução dirigida ao original: nada aplicado.",
+    "Alterador 2 (DL 209/2012): altera o RERN, o DL 322-A/2001, o CRPredial, o DL 263-A/2007, o CRCom, o Decreto Regulamentar 55/80 e outros; o DL 122/2009 só aparece no historial de redação; revogações do art. 18.º visam esses diplomas: nada aplicado ao original.",
+    "Alterador 3 (DL 125/2013): sem artigos que mencionem o original: nada aplicado.",
+    "Alterador 4 (DL 19/2015): institui o Registo de Pessoas Jurídicas Canónicas e altera o DL 322-A/2001 e o RERN; nenhuma instrução dirigida ao original: nada aplicado.",
+    "Alterador 5 (DL 201/2015): altera CRPredial, CRCom, Registo de Automóveis, RERN, DL 247-B/2008, DL 519-F2/79 e revoga normas desses diplomas (incl. arts. 128.º a 136.º e 137.º-A do DR 55/80); nenhuma instrução dirigida ao original: nada aplicado.",
+    "Alterador 6 (Lei 30/2017): sem artigos que mencionem o original: nada aplicado.",
+    "Alterador 7 (DL 66/2019): altera o RJUE, o RJRU e o RERN (o DL 122/2009 só no historial de redação do RERN); nenhuma instrução dirigida ao original: nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

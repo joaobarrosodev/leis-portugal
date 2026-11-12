@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:573681:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os 14 alteradores (Portarias n.os 1251/82, 1264/82, 1270/82, 1272/82, 1265/82, 1266/82, 1267/82, 311/83, 303/83, 309/83, 541/83, 804/83, 583/85 e 252/86) alteram ou aumentam apenas o quadro de pessoal anexo, que só existe em imagem (ver documento original); não há alteração textual aplicável ao texto.",
+  "instrucoes": [
+    "Alteradores 1-10: alteram o quadro anexo na parte do pessoal de enfermagem (Sertã, Alpedrinha, Penamacor, Fundão, Oleiros, Idanha-a-Nova, Belmonte, Vila de Rei, Proença-a-Nova, Vila Velha de Ródão); só em imagem: não aplicado.",
+    "Alteradores 11 e 12: alteram o quadro na parte do pessoal operário e auxiliar; só em imagem: não aplicado.",
+    "Alterador 13: aumenta o quadro da Sertã com um lugar de mapa anexo em imagem: não aplicado.",
+    "Alterador 14: acrescenta ao quadro do Hospital Distrital do Fundão um lugar de preparador de laboratório de análises clínicas de 2.ª classe, letra J; o quadro só existe em imagem, não há unidade de texto a alterar: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

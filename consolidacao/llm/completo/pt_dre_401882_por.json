@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:401882:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Lei n.º 99/89, artigo 1.º: rectifica o Orçamento do Estado para 1989 na parte dos mapas I a IV, substituídos na parte respectiva pelos mapas anexos à Lei n.º 99/89, que só vêm em imagem (ver documento original); não se aplica ao texto dos artigos. Os restantes alteradores (Lei n.º 101/89, Acórdão n.º 303/90, Lei n.º 65/90, Leis n.os 87-B/98, 3-B/2000, 30-C/2000, 109-B/2001, 16-A/2002, 55-B/2004, 67-A/2007, 64/2008, 83-C/2013, 82-D/2014) não contêm instruções dirigidas ao texto da Lei n.º 114/88: apenas a mencionam, alteram outros diplomas, ou vêm sem texto.",
+  "instrucoes": [
+    "Lei n.º 99/89, art. 1.º: rectificação dos mapas I a IV (em imagem) — não aplicada ao texto, em nao_aplicavel.",
+    "Lei n.º 99/89, arts. 2.º a 4.º: reforços de verbas, receitas fiscais e mobilização de activos, normas próprias — nada a aplicar.",
+    "Lei n.º 101/89, arts. 3.º, 17.º, 52.º: só remetem para os arts. 3.º, 15.º e 55.º da Lei n.º 114/88 — nada a aplicar.",
+    "Lei n.º 65/90, arts. 18.º e 52.º: só remetem para os arts. 15.º e 55.º — nada a aplicar.",
+    "Acórdão n.º 303/90, Leis n.os 87-B/98, 3-B/2000, 30-C/2000, 109-B/2001, 55-B/2004, 67-A/2007, 83-C/2013, 82-D/2014: sem texto relevante — nada a aplicar.",
+    "Lei n.º 16-A/2002: altera a Lei n.º 109-B/2001 e outros diplomas — ignorada.",
+    "Lei n.º 64/2008 (duas vezes): altera CIRS, CIRC, CIMI e EBF — ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

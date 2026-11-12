@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:547239:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 915/93) substitui o plano de estudos do curso de Secretariado (anexo só em imagem) e muda a denominação do curso para curso superior de Assistente de Administração sem dar nova redação a nenhum ponto do original; Alterador 2 (Decreto-Lei n.º 105/2024) altera a natureza e denominação do estabelecimento sem instrução textual sobre o original. Não aplicados.",
+  "instrucoes": [
+    "Alterador 1, 1.º-2.º: novo plano de estudos do curso de Secretariado substitui o do anexo, só em imagem: não aplicado.",
+    "Alterador 1, 3.º: o curso passa a denominar-se curso superior de Assistente de Administração; alteração de denominação, não textual: não aplicado.",
+    "Alterador 2: altera natureza e denominação do estabelecimento (ISLA Santarém - Instituto Politécnico); sem instrução textual sobre o original: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

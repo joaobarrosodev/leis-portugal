@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:223465:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (LO 3/2000): altera e adita artigos do Decreto-Lei n.º 319-A/76 (lei eleitoral do PR), não da Lei n.º 11/95; ignorado.",
+    "Alterador 2 (LO 2/2001): altera o art. 70.º-A e a epígrafe do 70.º-B do DL 319-A/76 (aditados pela Lei 11/95) e outras leis eleitorais; é alteração a outro diploma; ignorado.",
+    "Alterador 3 (LO 5/2005): altera arts. 1.º a 3.º e adita 1.º-A e 1.º-B ao DL 319-A/76 e altera a Lei 13/99; ignorado.",
+    "Alterador 4 (LO 4/2005): altera a Lei 15-A/98, a Lei 13/99 e o art. 11.º do DL 319-A/76; ignorado.",
+    "Alterador 5 (LO 3/2010): altera, adita e revoga normas do DL 319-A/76 e de outras leis eleitorais; ignorado.",
+    "Alterador 6 (LO 1/2011): altera o DL 406/74, o DL 319-A/76 e outras leis (competências dos governos civis); ignorado.",
+    "Alterador 7 (LO 3/2018): sem texto de artigos que mencionem o original; nada a aplicar.",
+    "Alterador 8 (LO 1/2021): altera o DL 319-A/76 (arts. 15.º e 15.º-A) e outras leis; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:573570:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todos os alteradores dirigidos ao original (1 a 4 e 6 a 14) mudam o quadro de pessoal anexo (unidade 9), que só existe em imagem, com quadros ou mapas que também só vêm em imagem. Não há alteração textual que se possa aplicar.",
+  "instrucoes": [
+    "Alteradores 1, 2, 3, 4, 6, 7, 8, 9, 10: alteram o quadro do pessoal de enfermagem (Nazaré, Castanheira de Pêra, Alvaiázere, Bombarral, Figueiró dos Vinhos, Alcobaça, Peniche, Pombal, Ansião/Alvorge) com quadro em imagem: não aplicados.",
+    "Alterador 5 (Portaria 1211/82): altera o quadro de Vila Real de Santo António aprovado pela Portaria 412/81, outro diploma: ignorado.",
+    "Alteradores 11 e 12: alteram o quadro do pessoal auxiliar/operário de Alcobaça e Peniche com quadro em imagem: não aplicados.",
+    "Alterador 13 (Portaria 443/84): aumenta o quadro de Figueiró dos Vinhos com lugares de mapa em imagem: não aplicado.",
+    "Alterador 14 (Portaria 702/84): altera os quadros de seis hospitais (pessoal operário e auxiliar) com quadro em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

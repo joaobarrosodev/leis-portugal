@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-05-10'
+version_history:
+  file: decreto-lei-166-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-05-10'
+    amending: pt:dre:257601:por
+    amending_title: Lei n.º 15/93; Decreto-Lei n.º 88/95
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/166/1992/08/05/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:17:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 15/93; Decreto-Lei n.º 88/95.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-166-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -189,17 +205,17 @@ A nomeação dos professores-adjuntos e dos professores-coordenadores, quando re
 
 ###### Artigo 6.º — Regime de trabalho
 
-1 - O pessoal docente auxiliar de ensino das escolas superiores de enfermagem podem exercer funções em regime de tempo integral ou de tempo parcial.
+1 - Os docentes de enfermagem integrados na carreira de pessoal docente do ensino superior politécnico podem exercer funções em regime de tempo integral ou de dedicação exclusiva.
 
-2 - Considera-se regime de tempo integral o que corresponde ao horário semanal de trabalho da generalidade da função pública, compreendendo um mínimo de doze horas de leccionação de aulas teóricas, teórico-práticas, práticas e direcção de seminários e igual mínimo de horas de assistência a alunos e orientação de estágio.
+2 - Os docentes equiparados e o pessoal auxiliar de ensino encarregado de trabalhos são contratados em regime de tempo integral, salvo o disposto no número seguinte.
 
-3 - No regime de tempo parcial, o número total de horas de serviço semanal, incluindo aulas e seminários, sua preparação, assistência a alunos e orientação de estágios, é contratualmente fixado entre um mínimo de oito e um máximo de vinte e duas horas.
+3 - Os docentes equiparados e o pessoal auxiliar de ensino encarregado de trabalhos que desempenhem outras funções, públicas ou privadas, incompatíveis com a prestação de serviço em regime de tempo integral são contratados em regime de tempo parcial.
 
-4 - O regime de tempo parcial reporta-se ao número total de horas de serviço semanal, incluindo aulas e seminários, respectiva preparação, avaliações, assistência a alunos e orientação de estágio, e é contratualmente fixado entre o mínimo de oito e o máximo de vinte e duas horas.
+4 - Considera-se regime de tempo integral o que corresponde ao horário semanal de trabalho da generalidade dos funcionários públicos, compreendendo um máximo de doze horas de aulas semanais e um mínimo de seis.
 
-5 - Aos docentes que, para além de desempenharem tarefas de coordenação científico-pedagógica, desenvolvam projectos de investigação científica poderá ser aplicado, mediante deliberação do conselho científico, o regime de dedicação exclusiva.
+5 - O regime de tempo parcial reporta-se ao número total de horas de serviço semanal, incluindo aulas, sua preparação e apoio aos alunos, e é contratualmente fixado entre um mínimo de oito e um máximo de vinte e duas horas.
 
-6 - A deliberação do conselho científico a que se refere o número anterior será tomada por votação em que participem os docentes de categoria igual ou superior à do interessado.
+> Alterado pelo/a [Decreto-Lei n.º 88/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1995-512829), publicado em 1995-05-05.
 
 ###### Artigo 7.º — Serviço docente nocturno
 
@@ -240,6 +256,10 @@ c) Realizem provas públicas de concurso para professor-coordenador, nos termos 
 10 - Os enfermeiros que, à data da publicação deste diploma, se encontrem requisitados para qualquer das categorias da área de docência podem optar, mediante requerimento dirigido ao presidente do órgão directivo da escola superior de enfermagem, no prazo de 30 dias, pela transição para a carreira do pessoal docente do ensino superior politécnico, de acordo com as regras previstas neste artigo.
 
 11 - Os actuais técnicos de enfermagem da área do ensino que preencham os requisitos necessários para transitarem para as novas categorias deverão, no prazo de 30 dias contado da entrada em vigor do presente diploma, apresentar o respectivo requerimento ao órgão directivo da escola superior de enfermagem onde pretendam ser colocados.
+
+12 - Para os efeitos da alínea b) do n.º 5 do presente artigo, são válidos os concursos de acesso às categorias de monitor-chefe, monitor e enfermeiro-director da carreira de ensino de enfermagem que permitiram transitar para a categoria de enfermeiro-professor, nos termos da alínea g) do n.º 1 do artigo 16.º do [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro.
+
+> Alterado pelo/a [Lei n.º 15/93](https://diariodarepublica.pt/dr/detalhe/lei/15-1993-257601), publicado em 1993-06-03.
 
 ###### Artigo 9.º — Habilitações
 

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:491397:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 293/2013): alarga o Programa de Apoio e Qualificação do SNIPI e aprova o seu regulamento; só remete para o n.º 4 do artigo 6.º do original, sem instrução de alteração ao texto. Nada aplicado.",
+    "Alterador 2 (Decreto-Lei n.º 28/2017): o artigo 3.º só menciona o original na referência à Portaria n.º 1102/97 (alterada por ele); não há instrução dirigida ao original. Nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

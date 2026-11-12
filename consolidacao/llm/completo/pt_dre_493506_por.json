@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:493506:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Nenhum dos 16 alteradores contém instrução dirigida ao Decreto-Lei n.º 185/2009: todas as menções a ele estão nas listas de alterações de outros diplomas (Regulamento Emolumentar dos Registos e do Notariado, Código das Sociedades Comerciais, CIRE, Códigos do Registo Predial e Comercial) e as alterações/revogações (p. ex. art. 6.º, a), do DL 99/2010 sobre os arts. 14.º, 16.º e 16.º-B do RERN) incidem nesses outros diplomas; ignoradas. Nenhum artigo do original muda."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

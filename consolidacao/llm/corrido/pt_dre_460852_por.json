@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:460852:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (Portarias n.os 233/83, 302/89, 413/91, 919/2000, 1374/2002 e 434/2003) incidem sobre o quadro de pessoal anexo, que no original e nos alteradores só existe em imagem ((ver documento original)); não há texto a substituir nem a inserir.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 233/83): altera o quadro na parte do pessoal de enfermagem; quadro em imagem; não aplicado.",
+    "Alterador 2 (Portaria n.º 302/89): reestrutura o quadro na parte do pessoal técnico superior, operário e auxiliar e outro pessoal; quadro em imagem; não aplicado.",
+    "Alterador 3 (Portaria n.º 413/91): substitui os quadros de pessoal médico de vários hospitais; quadros em imagem; não aplicado.",
+    "Alterador 4 (Portaria n.º 919/2000): altera o quadro de acordo com o mapa anexo; mapa em imagem; não aplicado.",
+    "Alterador 5 (Portaria n.º 1374/2002): acresce lugares ao quadro (anexo n.º 2); anexo em imagem; não aplicado.",
+    "Alterador 6 (Portaria n.º 434/2003): altera o quadro (nefrologia pediátrica); mapa em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

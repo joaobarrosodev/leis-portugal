@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:462071:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias n.os 38/82, 807-L3/83, 1003/83, 196/85, 95/86, 551/89, 771/89 e 413/91 alteram ou substituem partes do quadro de pessoal do Hospital Distrital de Guimarães por quadros anexos que só vêm em imagem; não há instrução textual dirigida ao texto do original.",
+  "instrucoes": [
+    "Alteradores 1 a 7 (Portarias n.os 38/82, 807-L3/83, 1003/83, 196/85, 95/86, 551/89, 771/89): alteram o quadro de pessoal por quadros anexos em imagem; não aplicado.",
+    "Alterador 8 (Portaria n.º 413/91): substitui o quadro de pessoal médico por quadro anexo em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

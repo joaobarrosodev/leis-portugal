@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:2013971:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 2 (Despacho Normativo n.º 7/2020) altera o n.º 2 do artigo 10.º («Eleições») e a alínea b) do n.º 10 do artigo 23.º («Eleição e cooptação dos membros do Conselho Geral») na numeração dos Estatutos republicados pelo Despacho Normativo n.º 6/2019; o texto atual é o da redação de 2008, em que o 10.º é «Órgãos do IPC» e o 23.º é «Administrador» (sem n.º 10), pelo que o alvo não existe no texto atual e não se aplica. Alteradores 1 e 3 (Despachos Normativos n.os 6/2019 e 21/2021) vêm sem texto de instruções, pelo que nada há a aplicar (as republicações que fizeram não estão no pedido).",
+  "instrucoes": [
+    "Alterador 1 (DN 6/2019): sem artigos transcritos; nada aplicado.",
+    "Alterador 2 (DN 7/2020): nova redação do n.º 2 do art. 10.º 'Eleições' e da al. b) do n.º 10 do art. 23.º 'Eleição e cooptação dos membros do Conselho Geral', na numeração de 2019; não correspondem aos artigos 10.º e 23.º do texto atual (2008); não aplicado, ver nao_aplicavel.",
+    "Alterador 3 (DN 21/2021): sem artigos transcritos; nada aplicado.",
+    "Alterador 4 (Decl. Retificação 891/2024/2): retifica e republica a tabela de emolumentos do IPC (Despacho 12218/2024), apenas citando os Estatutos; não contém instrução dirigida ao original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

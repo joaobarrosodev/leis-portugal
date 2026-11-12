@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:571048:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Os quatro alteradores (Decreto-Lei n.º 128/2014, Decreto-Lei n.º 186/2015, Decreto-Lei n.º 80/2017 e Decreto-Lei n.º 76/2024) vêm no pedido sem nenhum texto (nenhum artigo que mencione o original); não há instrução dirigida ao Decreto-Lei n.º 15/2014 que se possa aplicar, pelo que nada foi alterado.",
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 128/2014): sem texto no pedido; nenhuma instrução aplicada.",
+    "Alterador 2 (Decreto-Lei n.º 186/2015): sem texto no pedido; nenhuma instrução aplicada.",
+    "Alterador 3 (Decreto-Lei n.º 80/2017): sem texto no pedido; nenhuma instrução aplicada.",
+    "Alterador 4 (Decreto-Lei n.º 76/2024): sem texto no pedido; nenhuma instrução aplicada.",
+    "Nenhum artigo do texto atual está assinalado como já alterado por um programa; nada a corrigir."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

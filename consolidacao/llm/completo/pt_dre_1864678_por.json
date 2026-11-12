@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:1864678:por",
+  "artigos": [
+    {
+      "chave": "ANEXO I — Organização e Funcionamento dos Serviços da Universidade de Lisboa e das suas Escolas::1.º",
+      "epigrafe": "Objeto",
+      "texto": "O presente anexo define a qualificação, o grau, a designação dos cargos dirigentes, dos serviços da Universidade de Lisboa e das suas escolas, que compreendem cargos de direção superior de 1.º e 2.º graus e cargos de direção intermédia de 1.º, 2.º, 3.º, 4.º e 5.º graus.",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO I — Organização e Funcionamento dos Serviços da Universidade de Lisboa e das suas Escolas::6.º",
+      "epigrafe": "Estrutura dirigente das Escolas",
+      "texto": "Os serviços das escolas são coordenados por dirigentes de acordo com a seguinte tipologia, devendo a sua organização concreta, designadamente a qualificação do cargo que detém ou a que é equiparado o pessoal dirigente, nos termos das alíneas seguintes, ser especificada nos estatutos a que alude o artigo 3.º:\n\na) Um dos três seguintes dirigentes:\n\ni) Administrador da escola, qualificado como cargo de direção superior de 1.º grau; ou\n\nii) Diretor executivo da escola, qualificado como cargo de direção superior de 2.º grau; ou\n\niii) Secretário da escola, qualificado como cargo de direção intermédia de 1.º grau;\n\nb) Os Diretores de Serviço correspondem a cargos de direção intermédia de 1.º grau;\n\nc) Os Coordenadores de Área ou Divisão correspondem a cargos de direção intermédia de 2º grau;\n\nd) Os Coordenadores de Gabinete, de Núcleo ou de Serviço correspondem a cargos de direção intermédia de 3.º, 4.º ou 5.º grau.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alteradores 1 (Despacho Normativo n.º 1-A/2016) e 2 (Despacho Normativo n.º 14/2019): o pedido não traz o texto de nenhum artigo destes diplomas; nada aplicado. Alterador 3, art. 1.º, na parte do art. 5.º do Anexo I: a nova redação pressupõe números 1 a 4 e um n.º 2 com alíneas a) a e) que não existem no texto atual (corpo com alíneas a) a k), sem números), provavelmente vindos de uma alteração intermédia não disponível; não aplicado. Alterador 4 (Despacho n.º 8062/2026), art. 5.º do Anexo I: assenta na redação republicada pelo Despacho Normativo n.º 7/2025 (n.ºs 1 a 4 com subalíneas, aditamento das subalíneas xiv) e xv) da alínea b) e xxix) da alínea c) do n.º 3, revogação da subalínea v) da alínea c) do n.º 3), estrutura inexistente no texto atual; não aplicado.",
+  "instrucoes": [
+    "Alt. 1 e Alt. 2: sem texto no pedido — nada aplicado",
+    "Alt. 3: nova redação do art. 1.º do Anexo I — aplicada (epígrafe mantida por [...])",
+    "Alt. 3: nova redação do art. 5.º do Anexo I — não aplicada (estrutura de números inexistente no texto atual)",
+    "Alt. 3: nova redação do art. 6.º do Anexo I — aplicada: proémio e subalíneas i) a iii) novas; alínea a) e alíneas b) a d) mantidas do texto atual",
+    "Alt. 4: nova redação do art. 5.º do Anexo I (aditamentos e revogação de subalíneas) — não aplicada (estrutura inexistente no texto atual)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

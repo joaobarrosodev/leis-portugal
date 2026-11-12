@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:460821:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as alterações (Portarias n.os 31/82, 807-A/83, 113/90, 413/91 e 1222/92, esta duas vezes) incidem sobre o quadro de pessoal anexo, que no original e nos alteradores só vem em imagem; a Portaria n.º 113/90 só distribui lugares de parteira, sem instrução textual sobre o texto. Nada aplicável com segurança.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 31/82): alterações ao quadro de pessoal só em imagem; não aplicado.",
+    "Alterador 2 (Portaria n.º 807-A/83): quadro alterado na parte do pessoal técnico superior e médico, quadro em imagem; não aplicado.",
+    "Alterador 3 (Portaria n.º 113/90): distribui 2 lugares de parteira ao Hospital Distrital de Cascais, sem alteração textual ao original; não aplicado.",
+    "Alterador 4 (Portaria n.º 413/91): substitui o quadro de pessoal médico pelo quadro anexo, em imagem; não aplicado.",
+    "Alteradores 5 e 6 (Portaria n.º 1222/92, repetida): substitui o quadro de pessoal pelo quadro anexo, em imagem; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

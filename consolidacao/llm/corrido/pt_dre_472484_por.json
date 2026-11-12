@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:472484:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 379/86): dá nova redação aos artigos 410.º, 412.º, 413.º, 421.º, 442.º, 755.º e 830.º do Código Civil; é alteração de outro diploma (o Código Civil), não do texto do original; ignorada.",
+    "Alterador 2 (DL 116/2008): sem texto de artigos; nada a aplicar.",
+    "Alterador 3 (Lei n.º 24/2017): adita o artigo 1906.º-A ao Código Civil e altera a Lei n.º 112/2009, o Código de Processo Penal, o RGPTC e a Lei n.º 75/98; o original só é citado na lista de alterações ao Código Civil; ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

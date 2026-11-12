@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:353346:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 182/2003), art. 1.º: altera as listas I a V anexas ao Decreto-Lei n.º 222/98 (com as alterações da Lei n.º 98/99); instrução dirigida a outro diploma, ignorada.",
+    "Alterador 2 (Declaração de Retificação n.º 779/2025/2), art. 4.º: apenas cita o original na enumeração de instrumentos de gestão territorial; sem instrução de alteração."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:390008:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os 15 alteradores (Portarias n.os 1250/82, 1252/82, 1274/82, 1249/82, 1268/82, 1269/82, 327/83, 509/83, 807-G2/83, 807-O2/83, 394/84, 475/84, 606/85, 679/85 e 86/86) alteram, reestruturam ou aumentam apenas o quadro de pessoal anexo, que no original e nos alteradores só existe em imagem (ver documento original); não há alteração textual aplicável ao texto.",
+  "instrucoes": [
+    "Alteradores 1-7, 9 e 15: alteram o quadro anexo na parte do pessoal de enfermagem (Cabeceiras de Basto, Celorico de Basto, Vila Verde, Amares, Esposende, Vieira do Minho, Póvoa de Lanhoso, Vizela, Fafe); quadro só em imagem: não aplicado.",
+    "Alteradores 8, 10, 11, 12 e 14: alteram/reestruturam o quadro na parte do pessoal operário e auxiliar; só em imagem: não aplicado.",
+    "Alterador 13: aumenta o quadro do Hospital Concelhio de Fafe com um lugar de mapa anexo em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

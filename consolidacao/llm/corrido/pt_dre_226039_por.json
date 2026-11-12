@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:226039:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 262/83): altera os artigos 282.º, 805.º, 806.º, 811.º, 812.º e 1146.º e adita os 559.º-A e 829.º-A do Código Civil, altera o artigo 102.º do Código Comercial e revoga o Decreto n.º 21730; são alterações a outros diplomas (os códigos), não ao texto do DL 200-C/80; ignoradas.",
+    "Alterador 2 (DL 32/2003): altera o artigo 102.º do Código Comercial e o anexo do DL 269/98; não é do original; ignorado.",
+    "Alterador 3 (DL 62/2013): altera o artigo 102.º do Código Comercial e revoga o DL 32/2003; não é do original; ignorado.",
+    "Alterador 4 (Lei 24/2017): adita o artigo 1906.º-A ao Código Civil e altera outras leis; o DL 200-C/80 só aparece na lista de alterações do Código Civil; ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:325109:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (DL 44/90, art. 6.º) põe o SIMA transitoriamente na dependência do IROMA sem dar nova redação ao artigo 1.º: alteração não textual. Alterador 2 (Despacho Normativo 44/90) cria um lugar no mapa I, que só existe em imagem. Alterador 3 (Portaria 492/92) altera o quadro de pessoal com um mapa anexo que só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1, art. 6.º, n.º 1: o SIMA mantém-se transitoriamente na dependência do IROMA; sem nova redação do art. 1.º: não aplicado (não textual).",
+    "Alterador 1, art. 6.º, n.º 2: exclui o pessoal do mapa I do regime do DL 44/90; não altera o texto do original.",
+    "Alterador 2, 1.º: cria um lugar de assessor principal no mapa I (imagem): não aplicado.",
+    "Alterador 3: altera o quadro de pessoal (carreiras de informática) segundo mapa em imagem: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

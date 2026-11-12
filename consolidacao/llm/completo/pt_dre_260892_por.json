@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:260892:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1, artigo 5.º: revogação genérica e condicional de «todas as disposições legais que contrariem o disposto no presente decreto-lei»; não se aplica ao texto da Lei n.º 30/2013 (nem identifica artigo dela).",
+  "instrucoes": [
+    "Alterador 1 (Decreto-Lei n.º 39/2017), art. 2.º e anexo: alteram e republicam o Decreto-Lei n.º 282/2009; alteração de outro diploma, ignorada.",
+    "Alterador 1, art. 3.º: referências no âmbito do Decreto-Lei n.º 282/2009; outro diploma, ignorada.",
+    "Alterador 1, art. 5.º: revogação condicional genérica; não aplicada, registada em nao_aplicavel.",
+    "A Lei n.º 30/2013 é apenas citada no preâmbulo; nenhum artigo do original muda."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

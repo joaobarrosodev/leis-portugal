@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:500052:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Os alteradores 1 a 11 (despachos ao abrigo do n.º 4 do artigo 16.º) só prorrogam a vigência dos contratos referidos no artigo 16.º ou fazem caducar convenções; são alterações que não são textuais e não mudam a redação de nenhum artigo. O alterador 12 (Despacho n.º 12876-C/2024) vem sem texto.",
+  "instrucoes": [
+    "Alterador 1 (Despacho n.º 10219/2014): prorroga até 31/10/2015 os contratos do n.º 3 do art. 16.º; não textual, nada aplicado.",
+    "Alterador 2 (Despacho n.º 9354/2015): prorroga até 31/10/2016; não textual, nada aplicado.",
+    "Alterador 3 (Despacho n.º 12799-A/2016): prorroga até 31/10/2017 os contratos dos n.os 1 a 3 do art. 16.º e faz cessar convenções de endoscopia; não textual, nada aplicado.",
+    "Alterador 4 (Despacho n.º 9214/2017): prorroga até 31/10/2018 (e 2019 em certas áreas), altera o Despacho n.º 3668-B/2017 (outro diploma) e cria grupo de trabalho; nada aplicado ao original.",
+    "Alterador 5 (Despacho n.º 10145-A/2018): prorroga até 31/10/2019; não textual, nada aplicado.",
+    "Alterador 6 (Despacho n.º 9881/2019): prorroga até 31/10/2020 e fixa transição até 31/03/2020 para Diálise e SIGIC; não textual, nada aplicado.",
+    "Alterador 7 (Despacho n.º 10832/2020): prorroga até 31/10/2021 e trata de convenções de endoscopia; não textual, nada aplicado.",
+    "Alterador 8 (Despacho n.º 3659/2021): prorroga convenções de endoscopia e revoga os n.os 3 e 4 do Despacho n.º 10832/2020 (outro diploma); nada aplicado ao original.",
+    "Alterador 9 (Despacho n.º 10756/2021): prorroga até 31/10/2022; não textual, nada aplicado.",
+    "Alterador 10 (Despacho n.º 12709-A/2022): prorroga até 31/10/2023 e faz caducar convenções de endoscopia; não textual, nada aplicado.",
+    "Alterador 11 (Despacho n.º 11267/2023): prorroga até 31/10/2024; não textual, nada aplicado.",
+    "Alterador 12 (Despacho n.º 12876-C/2024): sem texto no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}
