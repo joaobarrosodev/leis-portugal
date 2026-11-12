@@ -433,14 +433,14 @@ Os PDF são sobretudo digitalizações de 1910 a 1959, sem texto que se possa pe
 
 **Texto em vigor dos diplomas alterados.** Dos 25.498 diplomas em vigor alterados que o DRE não consolida, mais de 19 mil não precisam de consolidação: o diploma que os altera não muda o texto, e o original é o texto em vigor. Dos cerca de 4.800 com alterações ao texto, **2.323 (cerca de 48 %)** têm o texto em vigor consolidado pelo leis-portugal, sem valor oficial (ver [`consolidacao/`](consolidacao/README.md)). Em 40 % dos registos nacionais (108.806) o DRE não indica se estão em vigor: numa amostra de 25 diplomas da 1.ª Série posteriores a 2000, o campo de vigência do DRE vinha vazio em todos. Metade são anteriores a 1960 e só em PDF; uns 13 mil são declarações de retificação, que seguem o diploma retificado; os outros ficam desconhecidos, porque só uma revogação total provada fixa o estado (375 diplomas, `reports/estrutura.md`). O sistema de perguntas avisa quando a vigência é desconhecida.
 
-**Direito da União Europeia, face ao CELLAR.** A lista dos atos em vigor é a do CELLAR de 11/11/2026: regulamentos, diretivas e decisões com CELEX `3AAAA[RLD]NNNN` e `resource_legal_in-force` verdadeiro. Os que faltavam foram recolhidos a 12/11/2026, pelo CELEX:
+**Direito da União Europeia, face ao CELLAR.** A lista dos atos em vigor é a do CELLAR de 11/11/2026: regulamentos, diretivas e decisões com CELEX `3AAAA[RLD]NNNN` e `resource_legal_in-force` verdadeiro.
 
-| Atos da UE em vigor | No repositório | Na UE | % | Antes (11/11) |
-|---|--:|--:|--:|--:|
-| Regulamentos | 16.240 | 16.325 | **99,5 %** | 56 % |
-| Diretivas | 1.284 | 1.306 | **98,3 %** | 96 % |
-| Decisões | 15.438 | 16.579 | **93,1 %** | 26 % |
-| **Total** | **32.962** | **34.210** | **96,4 %** | 43 % |
+| Atos da UE em vigor | No repositório | Na UE | % |
+|---|--:|--:|--:|
+| Regulamentos | 16.240 | 16.325 | **99,5 %** |
+| Diretivas | 1.284 | 1.306 | **98,3 %** |
+| Decisões | 15.438 | 16.579 | **93,1 %** |
+| **Total** | **32.962** | **34.210** | **96,4 %** |
 
 Dos 1.248 que faltam, 1.241 não têm versão em português no EUR-Lex (1.237 anteriores a 1986, ano da adesão de Portugal), 3 não têm XHTML nem HTML e 4 são decisões cujo número oficial coincide com o de outra já gravada, que o repositório recusa sobrepor (`reports/eurlex_em_vigor_failures.jsonl`). Contando os que já não estão em vigor, o repositório tem cerca de 54 mil atos da UE.
 
