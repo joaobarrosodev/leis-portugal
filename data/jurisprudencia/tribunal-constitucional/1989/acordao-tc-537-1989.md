@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 537/1989
-official_date: '2000-11-21'
+official_date: '1989-11-21'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 299/89'
 - 'Espécie: Eleitoral'
+- 'Data corrigida: o site dá 21.11.2000; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

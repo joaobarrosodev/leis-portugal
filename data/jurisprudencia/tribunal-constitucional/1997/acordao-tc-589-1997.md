@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 589/1997
-official_date: '1996-10-08'
+official_date: '1997-06-27'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 329/97'
 - 'Espécie: Recurso'
+- 'Data corrigida: o site dá 08.10.1996; usada a data da assinatura do acórdão.'
 language: por
 version:
   kind: original

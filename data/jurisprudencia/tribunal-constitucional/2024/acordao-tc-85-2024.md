@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 85/2024
-official_date: '0204-02-01'
+official_date: '2024-02-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 667/23'
 - 'Espécie: Reclamação'
+- 'Data corrigida: o site dá 01.02.0204; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

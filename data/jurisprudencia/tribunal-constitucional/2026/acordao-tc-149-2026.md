@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 149/2026
-official_date: '0206-02-10'
+official_date: '2026-02-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 1503/25'
 - 'Espécie: Recurso'
+- 'Data corrigida: o site dá 10.02.0206; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

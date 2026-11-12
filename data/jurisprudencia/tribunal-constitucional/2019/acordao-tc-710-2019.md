@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 710/2019
-official_date: '5819-12-04'
+official_date: '2019-12-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 260/19'
 - 'Espécie: Recurso'
+- 'Data corrigida: o site dá 04.12.5819; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

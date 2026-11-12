@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 742/1993
-official_date: '1994-11-22'
+official_date: '1993-11-22'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 64/93'
 - 'Espécie: Recurso'
+- 'Data corrigida: o site dá 22.11.1994; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

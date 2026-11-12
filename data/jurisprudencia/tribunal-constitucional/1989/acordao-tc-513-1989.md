@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 513/1989
-official_date: '2006-06-06'
+official_date: '1989-10-06'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 246/89'
 - 'Espécie: Eleitoral'
+- 'Data corrigida: o site dá 06.06.2006; usada a data da assinatura do acórdão.'
 language: por
 version:
   kind: original

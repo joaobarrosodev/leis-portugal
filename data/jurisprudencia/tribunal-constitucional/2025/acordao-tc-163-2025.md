@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 163/2025
-official_date: '3035-02-20'
+official_date: '2025-02-20'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 476/24'
 - 'Espécie: Recurso'
+- 'Data corrigida: o site dá 20.02.3035; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

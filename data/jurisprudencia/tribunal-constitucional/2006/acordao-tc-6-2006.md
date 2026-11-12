@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 6/2006
-official_date: '2005-01-04'
+official_date: '2006-01-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 1007/05'
 - 'Espécie: Reclamação'
+- 'Data corrigida: o site dá 04.01.2005; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

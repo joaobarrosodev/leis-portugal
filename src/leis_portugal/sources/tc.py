@@ -26,7 +26,7 @@ from leis_portugal.domain.record import (
 from leis_portugal.errors import FetchError, MetadataError, NoSourceText
 from leis_portugal.infrastructure.http import HttpClient
 from leis_portugal.sources.content import SourceContent, SourceDocument
-from leis_portugal.sources.decisions import sha256
+from leis_portugal.sources.decisions import MONTHS, sha256
 
 
 BASE_URL = "https://www.tribunalconstitucional.pt/tc/acordaos/"
@@ -182,6 +182,56 @@ def record_id(item: Listed) -> str:
     return f"pt:tc:acordao:{item.year}:{item.number}"
 
 
+# A linha da assinatura: "Lisboa, 3 de dezembro de 2019" (às vezes com o ano cortado: "de 199").
+_SIGNATURE = re.compile(r"Lisboa,?\s+(\d{1,2})\s*(?:\.º|º)?\s+de\s+(" + "|".join(MONTHS) + r")\s+de\s+(\d{1,4})\b", re.IGNORECASE)
+
+
+def _signature(text: str) -> tuple[int, int, str] | None:
+    """Dia, mês e ano (tal como escrito) da última linha "Lisboa, D de M de AAAA" do fim do texto."""
+    matches = list(_SIGNATURE.finditer(text[-3000:]))
+    if not matches:
+        return None
+    day, month, year = matches[-1].groups()
+    return int(day), MONTHS[month.lower()], year
+
+
+def _valid(year: int, month: int, day: int) -> date | None:
+    try:
+        return date(year, month, day)
+    except ValueError:
+        return None
+
+
+def decision_date(item: Listed, text: str) -> tuple[str | None, str | None]:
+    """A data do acórdão e, quando o site a dá com uma gralha, a nota que explica a correção.
+
+    A data da listagem vale quando o ano é o do número do acórdão (o TC numera por ano). Quando não é
+    ("0205-02-18" no 151/2025, "2010-10-10" no 689/2013, o ano anterior em acórdãos de janeiro), usa-se a
+    linha da assinatura: se confirma o dia e o mês da listagem, só se troca o ano; se não, vale a data da
+    assinatura, desde que seja do ano do número. Sem nada que bata, o acórdão fica sem data. Nos acórdãos
+    com o ano certo a listagem não é corrigida: a última linha "Lisboa, ..." é muitas vezes a de um
+    documento citado.
+    """
+    listed = date.fromisoformat(item.decided) if item.decided else None
+    if listed and listed.year == item.year:
+        return item.decided, None
+    shown = listed.strftime("%d.%m.%Y") if listed else "sem data válida"
+    signature = _signature(text)
+    if signature:
+        day, month, year = signature
+        if listed and listed.year == item.year - 1 and (day, month, year) == (listed.day, listed.month, str(listed.year)):
+            # A listagem e a assinatura concordam no ano anterior: não é gralha. Mais atrás não pode ser
+            # (o 355/1998, do processo 482/97, não foi assinado em 1996, por muito que os dois o digam).
+            return item.decided, None
+        if listed and (day, month) == (listed.day, listed.month) and str(item.year).startswith(year):
+            fixed = _valid(item.year, listed.month, listed.day)
+            if fixed:
+                return fixed.isoformat(), f"Data corrigida: o site dá {shown}; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura."
+        if len(year) == 4 and int(year) == item.year and (fixed := _valid(item.year, month, day)):
+            return fixed.isoformat(), f"Data corrigida: o site dá {shown}; usada a data da assinatura do acórdão."
+    return None, f"Sem data: o site dá {shown}, que não é do ano do número do acórdão, e a assinatura não a confirma."
+
+
 def to_document(item: Listed, content: SourceContent, *, dre_id: str | None = None) -> SourceDocument:
     title = f"Acórdão do Tribunal Constitucional n.º {item.official_number}"
     text = judgment_markdown(decode(content.content))
@@ -195,6 +245,9 @@ def to_document(item: Listed, content: SourceContent, *, dre_id: str | None = No
         )
         if value
     ]
+    official_date, date_note = decision_date(item, text)
+    if date_note:
+        notes.append(date_note)
     record = LegalRecord(
         id=record_id(item),
         title=title,
@@ -203,7 +256,7 @@ def to_document(item: Listed, content: SourceContent, *, dre_id: str | None = No
         document_type_label="Acórdão do Tribunal Constitucional",
         issuing_authority=[SOURCE_NAME],
         official_number=item.official_number,
-        official_date=item.decided,
+        official_date=official_date,
         notes=notes,
         version=Version(kind="original", label="Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)", language="por"),
         identifiers=Identifiers(dre=dre_id, internal=record_id(item)),

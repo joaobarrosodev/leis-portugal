@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 24/1994
-official_date: '1993-01-19'
+official_date: '1994-01-19'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 348/93'
 - 'Espécie: Reclamação'
+- 'Data corrigida: o site dá 19.01.1993; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

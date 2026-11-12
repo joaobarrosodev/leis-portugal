@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 280/2025
-official_date: '2925-04-01'
+official_date: '2025-04-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 196/25'
 - 'Espécie: Reclamação'
+- 'Data corrigida: o site dá 01.04.2925; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

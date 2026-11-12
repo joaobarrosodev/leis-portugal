@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 133/1990
-official_date: '2004-04-19'
+official_date: '1990-04-19'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 561/88'
 - 'Espécie: Recurso'
+- 'Data corrigida: o site dá 19.04.2004; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original

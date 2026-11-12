@@ -12,7 +12,7 @@ issuing_authority:
 - Tribunal Constitucional
 proposing_entity: null
 official_number: 720/2025
-official_date: '2027-07-30'
+official_date: '2025-07-30'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,6 +21,7 @@ legal_status: unknown
 notes:
 - 'Processo: 908/25'
 - 'Espécie: Eleitoral'
+- 'Data corrigida: o site dá 30.07.2027; o ano é o do número do acórdão, e o dia e o mês batem com a assinatura.'
 language: por
 version:
   kind: original
