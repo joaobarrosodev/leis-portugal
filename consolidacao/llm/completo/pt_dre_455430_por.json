@@ -1,47 +1,11 @@
 {
   "id": "pt:dre:455430:por",
-  "artigos": [
-    {
-      "chave": "1.º",
-      "epigrafe": "Disposições gerais sobre o formulário dos diplomas",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "2.º",
-      "epigrafe": "Formulário dos diplomas",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "3.º",
-      "epigrafe": "Início da vigência",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "4.º",
-      "epigrafe": "Publicação no «Jornal Oficial da Região Autónoma da Madeira»",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "5.º",
-      "epigrafe": "Identificação e rectificação dos diplomas",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "6.º",
-      "epigrafe": "Entrada em vigor",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    }
-  ],
+  "artigos": [],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "nao_aplicavel": "Art. 13.º do DLR 11/2022/M revoga o DLR 14/83/M 'sem prejuízo do disposto no artigo seguinte', e o art. 14.º, n.º 1, manda aplicar transitoriamente o DLR 14/83/M até à entrada em vigor do decreto regulamentar regional previsto no n.º 1 do artigo 7.º: revogação cujo efeito fica adiado para um facto futuro (entrada em vigor de um regulamento); não aplicada ao texto, que fica igual ao atual.",
   "instrucoes": [
-    "DLR 11/2022/M, art. 13.º: revoga o DLR 14/83/M (com aplicação transitória pelo art. 14.º) — todos os artigos ficam (Revogado.)"
+    "DLR 11/2022/M art. 13.º: revogação do diploma com ressalva do art. 14.º (aplicação transitória até ao decreto regulamentar regional do art. 7.º, n.º 1) -> não aplicada, em nao_aplicavel; arts. 1.º a 6.º ficam com o texto atual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

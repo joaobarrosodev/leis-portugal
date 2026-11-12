@@ -85,10 +85,10 @@
   },
   {
     "artigo": "7.º",
-    "operacao": "revogar",
+    "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 7.º\n\nDo extracto dos averbamentos deverão constar a menção do conteúdo do facto registado e a identificação dos documentos que lhe serviram de base.\n\nMário Soares - José Dias dos Santos Pais.\n\nPromulgado em 18 de Março de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.",
-    "depois": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 36/2021](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), publicado em 2021-06-14.\n\nMário Soares - José Dias dos Santos Pais.\n\nPromulgado em 18 de Março de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.",
+    "depois": "###### Artigo 7.º\n\n(Revogado.)\n\n> Alterado pelo/a [Lei n.º 36/2021](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), publicado em 2021-06-14.\n\nMário Soares - José Dias dos Santos Pais.\n\nPromulgado em 18 de Março de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

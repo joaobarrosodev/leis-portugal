@@ -4,17 +4,19 @@
     {
       "chave": "6.º",
       "epigrafe": "",
-      "texto": "1 - Sempre que, para o exercício do seu cargo, os membros do Governo Regional, bem como os titulares de cargo cujo provimento seja por disposição legal em comissão de serviço, tenham de mudar de residência, deslocando-se para o arquipélago ou, dentro deste, de uma ilha para outra, e ainda nos casos em que, habitando alojamento fornecido pela entidade patronal, a ele percam o direito, compete à Região fornecer-lhes habitação.\n\n2 - O disposto no número anterior aplica-se, por uma só vez e por um período máximo de três anos em relação a cada funcionário ou agente, quando, a pedido da Região e no seu interesse, lugares dos quadros regionais ou, eventualmente, outros não pertencentes àqueles quadros permanentes, de categoria igual e superior a técnico superior de 1.ª classe ou equivalente, forem ocupados em comissão de serviço, regime de requisição ou situação de destacamento.\n\n3 - O reconhecimento das situações da aplicação do disposto nos números anteriores será feito por despacho conjunto do Presidente do Governo Regional e dos Secretários Regionais das Finanças e da Administração Pública.",
+      "texto": "1 - Sempre que, para o exercício do seu cargo, os membros do Governo Regional, bem como os titulares de cargo cujo provimento seja por disposição legal em comissão de serviço, tenham de mudar de residência, deslocando-se para o arquipélago ou, dentro deste, de uma ilha para outra, e ainda nos casos em que, habitando alojamento fornecido pela entidade patronal, a ele percam o direito, compete à Região fornecer-lhes habitação.\n\n2 - O disposto no número anterior aplica-se, por uma só vez e por um período máximo de três anos em relação a cada funcionário ou agente, quando, a pedido da Região e no seu interesse, lugares dos quadros regionais ou, eventualmente, outros não pertencentes àqueles quadros permanentes, de categoria igual e superior a técnico superior de 1.ª classe ou equivalente, forem ocupados em comissão de serviço, regime de requisição ou situação de destacamento.\n\n3 - O reconhecimento das situações da aplicação do disposto nos números anteriores será feito por despacho conjunto do Presidente do Governo Regional e dos Secretários Regionais das Finanças e da Administração Pública.\n\nAprovado pela Assembleia Regional dos Açores, na Horta, em 28 de Março de 1977.\n\nO Presidente da Assembleia Regional, Álvaro P. da Silva Leal Monjardino.\n\nAssinado em Ponta Delgada em 2 de Maio de 1977.\n\nPublique-se.\n\nO Ministro da República, Octávio de Carvalho Galvão de Figueiredo.",
       "alterador": 3
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "DLR 1/2006/A revoga a alínea b) do n.º 2 do artigo 6.º na redação dada pelo DLR 19/86/A, que não está entre os alteradores; o n.º 2 do texto resultante não tem alíneas, pelo que a revogação não se pode aplicar.",
+  "titulos": [],
+  "nao_aplicavel": "Alterador 4 (DLR 1/2006/A) revoga a alínea b) do n.º 2 do artigo 6.º na redacção dada pelo DLR 19/86/A, que não consta dos alteradores; o n.º 2 do texto resultante não tem alíneas, pelo que a revogação não se pode aplicar.",
   "instrucoes": [
-    "Alterador 1 (DR 17/77/A): nova redação do art. 6.º (n.os 1 a 3).",
-    "Alterador 2 (DR 11/78/A): nova redação do n.º 2 do art. 6.º (depois substituída pelo alterador 3); art. 2.º sobre efeitos, não textual.",
-    "Alterador 3 (DR 5/81/A): nova redação do n.º 2 do art. 6.º; aplicada.",
-    "Alterador 4 (DLR 1/2006/A): revoga a alínea b) do n.º 2 do art. 6.º na redação do DLR 19/86/A; alínea inexistente no texto, não aplicada."
+    "Alt. 1: nova redação do art. 6.º (n.os 1 a 3) — aplicada",
+    "Alt. 2: nova redação do n.º 2 (n.os 1 e 3 '...') — aplicada e depois substituída",
+    "Alt. 3: nova redação do n.º 2 (três anos) — aplicada; n.os 1 e 3 ficam os do alt. 1",
+    "Linhas finais de aprovação/assinatura do original mantidas do texto atual",
+    "Alt. 4: revogação da alínea b) do n.º 2 (redação do DLR 19/86/A) — não aplicável"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

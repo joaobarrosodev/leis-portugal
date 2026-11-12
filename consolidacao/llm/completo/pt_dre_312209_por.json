@@ -9,10 +9,11 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alt. 1: adita n.º 3 ao art. 1.º; aplicado",
-    "Alt. 2: adita n.º 4 ao art. 1.º; aplicado (elemento único com alterador 2)"
+    "DL 529/76 (alterador 1, que vem no pedido, ao contrário do que diz o reparo): adita o n.º 3 ao artigo 1.º; aplicado.",
+    "DL 249/82 (alterador 2): adita o n.º 4 ao artigo 1.º (n.os 1 a 3 '...'); aplicado. N.os 1 e 2 do texto atual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -56,6 +56,10 @@ Os membros do Governo Regional que sejam funcionários do Estado, da administra�
 
 3 - O reconhecimento das situações da aplicação do disposto nos números anteriores será feito por despacho conjunto do Presidente do Governo Regional e dos Secretários Regionais das Finanças e da Administração Pública.
 
+Aprovado pela Assembleia Regional dos Açores, na Horta, em 28 de Março de 1977.
+
+O Presidente da Assembleia Regional, Álvaro P. da Silva Leal Monjardino.
+
 > Alterado pelo/a [Decreto Regional n.º 5/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/5-1981-388991), publicado em 1981-04-15.
 
 Assinado em Ponta Delgada em 2 de Maio de 1977.

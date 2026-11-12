@@ -38,6 +38,10 @@ c) Secretário Regional da Administração Pública, relativamente aos restantes
 
 2 - As declarações serão entregues, contra recibo, no gabinete das entidades mencionadas no número anterior, que as remeterão ao Tribunal Constitucional.
 
+Aprovado pela Assembleia Regional dos Açores em 6 de Dezembro de 1983.
+
+O Presidente da Assembleia Regional, Álvaro Monjardino.
+
 > Alterado pelo/a [Decreto Legislativo Regional n.º 2/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1986-616413), publicado em 1986-01-08.
 
 Assinado em Angra do Heroísmo em 2 de Fevereiro de 1984.

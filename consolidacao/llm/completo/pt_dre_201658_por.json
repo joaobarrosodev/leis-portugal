@@ -219,14 +219,20 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [
+    {
+      "atual": "#### SECÇÃO II — Do crédito a médio prazo",
+      "novo": "#### SECÇÃO II — Do crédito às actividades económicas do sector privado",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "DL 234/72 art. 1.º publica a epígrafe '#### SECÇÃO III — Do crédito às pessoas colectivas de direito público' antes do novo art. 41.º, o que implica uma nova arrumação das secções (a SECÇÃO III 'Do crédito a longo prazo' antes do art. 30.º e a SECÇÃO IV 'Das garantias dos empréstimos' antes do art. 34.º deixariam de existir nesses lugares); não há instrução expressa sobre essas epígrafes e o título novo teria de ser inserido noutro lugar, pelo que não se aplicou essa mudança de títulos.",
   "instrucoes": [
-    "Art. 1.º: nova redação dos arts. 2.º a 4.º, 17.º, 20.º, 22.º, 23.º, 27.º a 29.º, 31.º a 34.º, 36.º a 41.º, 45.º, 46.º, 53.º, 56.º a 58.º, 61.º a 63.º e 67.º a 69.º; aplicada, mantendo as unidades com '...' (no art. 3.º a nova redação tem só os n.os 1 a 4; no art. 53.º o corpo deixa de ter n.º 1 e o n.º 2 desaparece)",
-    "Art. 2.º e 4.º: arts. 70.º e 72.º do DL 48997; outro diploma, ignorados",
-    "Art. 3.º: nova redação do art. 71.º; aplicada",
-    "Art. 5.º: aditado art. 72.º; aplicado",
-    "Art. 6.º: aditado art. 73.º; aplicado",
-    "Art. 7.º: aditado art. 74.º ao DL 48996; aplicado (art. 8.º é do DL 48997, ignorado)"
+    "DL 234/72 art. 1.º: nova redacção dos arts. 2.º-4.º, 17.º, 20.º, 22.º, 23.º, 27.º-29.º, 31.º-34.º, 36.º-41.º, 45.º, 46.º, 53.º, 56.º-58.º, 61.º-63.º e 67.º-69.º; os '...' dos números e alíneas mantêm o texto atual; no art. 3.º os antigos n.os 4 e 5 desaparecem (nova redacção só tem n.os 1-4, o n.º 4 é o antigo n.º 6 alterado).",
+    "Art. 53.º: a nova redacção é um corpo sem numeração com alíneas a) a j); o '...' que se segue à alínea j) é o separador entre artigos usado em todo o diploma (como após os arts. 4.º, 17.º, 20.º, 46.º), pelo que o antigo n.º 2 (recurso para o governador-geral) não fica.",
+    "Epígrafe da SECÇÃO II substituída; a nova SECÇÃO III antes do art. 41.º não aplicada (ver nao_aplicavel).",
+    "Art. 2.º (art. 70.º), art. 4.º (art. 72.º) e art. 8.º (art. 74.º) dirigem-se só ao DL 48997: ignorados.",
+    "Art. 3.º: nova redacção do art. 71.º; art. 5.º: aditado art. 72.º; art. 6.º: aditado art. 73.º; art. 7.º: aditado art. 74.º."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

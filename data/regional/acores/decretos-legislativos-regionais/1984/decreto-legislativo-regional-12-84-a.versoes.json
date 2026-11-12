@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:661486:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-02-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4c7c9206f8b826a2"
+   ]
+  },
+  {
+   "date": "1986-01-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:616413:por",
+     "title": "Decreto Legislativo Regional n.º 2/86/A",
+     "published": "1986-01-08",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-1986-616413"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "3ba20a9c8f2e9350",
+    "63aa8eab0d873bdf",
+    "46399816cff479f9"
+   ]
+  }
+ ],
+ "fragments": {
+  "4c7c9206f8b826a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril, estabelece que as assembleias regionais aprovarão as disposições necessárias à respectiva execução, na esfera da sua competência própria.\n\nAssim:\n\nA Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:\n\nArtigo 1.º A [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril, relativamente aos titulares de cargos políticos na Região Autónoma dos Açores, executar-se-á de acordo com o [Decreto Regulamentar n.º 74/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/74-1983-441163), de 6 de Outubro, sem prejuízo do disposto no artigo seguinte.\n\nArt. 2.º - 1 - As declarações sobre o valor do património e rendimentos respeitantes aos titulares de cargos políticos na Região Autónoma dos Açores poderão também ser enviadas ao Tribunal Constitucional, com observância das regras do segredo de justiça, através das seguintes entidades:\n\na) Presidente da Mesa da Assembleia Regional, relativamente ao cargo de deputado regional;\n\nb) Presidente do Governo Regional, relativamente ao cargo de secretário regional;\n\nc) Secretário Regional da Administração Pública, relativamente aos restantes cargos.\n\n2 - As declarações serão pessoalmente entregues, contra recibo, no gabinete das entidades mencionadas no número anterior, que as remeterão ao Tribunal Constitucional.\n\nAprovado pela Assembleia Regional dos Açores em 6 de Dezembro de 1983.\n\nO Presidente da Assembleia Regional, Álvaro Monjardino.\n\nAssinado em Angra do Heroísmo em 2 de Fevereiro de 1984.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva."
+  },
+  "3ba20a9c8f2e9350": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril, estabelece que as assembleias regionais aprovarão as disposições necessárias à respectiva execução, na esfera da sua competência própria.\n\nAssim:\n\nA Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:"
+  },
+  "63aa8eab0d873bdf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril, relativamente aos titulares de cargos políticos na Região Autónoma dos Açores, executar-se-á de acordo com o [Decreto Regulamentar n.º 74/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/74-1983-441163), de 6 de Outubro, sem prejuízo do disposto no artigo seguinte."
+  },
+  "46399816cff479f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1986-01-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 2/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1986-616413), publicado em 1986-01-08."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - As declarações sobre o valor do património e rendimentos respeitantes aos titulares de cargos políticos na Região Autónoma dos Açores poderão também ser enviadas ao Tribunal Constitucional, com observância das regras do segredo de justiça, através das seguintes entidades:\n\na) Presidente da Mesa da Assembleia Regional, relativamente ao cargo de deputado regional;\n\nb) Presidente do Governo Regional, relativamente ao cargo de secretário regional;\n\nc) Secretário Regional da Administração Pública, relativamente aos restantes cargos.\n\n2 - As declarações serão entregues, contra recibo, no gabinete das entidades mencionadas no número anterior, que as remeterão ao Tribunal Constitucional.\n\nAprovado pela Assembleia Regional dos Açores em 6 de Dezembro de 1983.\n\nO Presidente da Assembleia Regional, Álvaro Monjardino.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 2/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1986-616413), publicado em 1986-01-08.\n\nAssinado em Angra do Heroísmo em 2 de Fevereiro de 1984.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva."
+  }
+ }
+}

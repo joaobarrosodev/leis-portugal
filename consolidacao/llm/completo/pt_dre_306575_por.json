@@ -10,14 +10,16 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Acórdão do Tribunal Constitucional n.º 801/2014: declara inconstitucional, com força obrigatória geral, o n.º 4 do artigo 3.º (numeração da Lei n.º 1/2013); não é alteração textual, o texto mantém-se.",
+  "nao_aplicavel": "Acórdão do Tribunal Constitucional n.º 801/2014: declara com força obrigatória geral a inconstitucionalidade do n.º 4 do artigo 3.º (numeração da Lei 1/2013); não é alteração textual, pelo que o texto do n.º 4 se mantém.",
   "instrucoes": [
-    "Lei 1/2013 art. 1.º: nova redação do artigo 3.º (n.os 1 e 2 novos, antigos n.os 2 e 3 passam a 3 e 4): aplicado.",
-    "Lei 1/2013 art. 2.º: altera a Lei n.º 19/2003: ignorado.",
-    "Acórdão TC 801/2014: declaração de inconstitucionalidade do n.º 4 do artigo 3.º: em nao_aplicavel.",
-    "Lei Orgânica 5/2015: altera a Lei n.º 28/82 e a Lei n.º 19/2003: ignorado.",
-    "Lei 4/2017 art. 4.º n.º 1: revoga os n.os 1 e 2 do artigo 3.º: aplicado; o resto altera a Lei n.º 19/2003: ignorado.",
-    "Leis 42/2016, 114/2017 e LO 1/2018: sem instruções no pedido. Lei 50/2025: altera a Lei n.º 77/88: ignorado."
+    "Lei 1/2013 art. 1.º: nova redação do art. 3.º — n.os 1 e 2 novos (reduções até 2016), antigos n.os 2 e 3 passam a 3 e 4 — aplicado.",
+    "Lei 1/2013 art. 2.º: altera a Lei 19/2003 — ignorado.",
+    "Acórdão TC 801/2014: inconstitucionalidade do n.º 4 do art. 3.º — não textual (nao_aplicavel).",
+    "Lei Orgânica 5/2015: altera a Lei 28/82 e a Lei 19/2003 — ignorado.",
+    "Lei 4/2017 art. 4.º n.º 1: revoga os n.os 1 e 2 do art. 3.º na redação da Lei 1/2013 (as reduções) — \"1 - (Revogado.)\" e \"2 - (Revogado.)\", ficando os n.os 3 e 4 (antigos 2 e 3). O reparo do verificador não procede: a redação da Lei 1/2013 está no alterador 1 e a numeração é a dela.",
+    "Lei 4/2017 arts. 1.º e 2.º: alteram a Lei 19/2003 — ignorado.",
+    "Leis 42/2016, 114/2017 e LO 1/2018: sem artigos dirigidos ao original.",
+    "Lei 50/2025: altera a Lei 77/88 (LOFAR) — ignorado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

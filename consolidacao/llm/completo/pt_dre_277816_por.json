@@ -1,30 +1,11 @@
 {
   "id": "pt:dre:277816:por",
-  "artigos": [
-    {
-      "chave": "1.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "2.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "3.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    }
-  ],
+  "artigos": [],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "nao_aplicavel": "DL 72/91, art. 101.º, n.º 2: revoga o Decreto Regulamentar n.º 72/77 com efeitos a partir da entrada em vigor dos diplomas legais que regulamentarem a mesma matéria (facto futuro); não se aplica ao texto.",
   "instrucoes": [
-    "Art. 101.º, n.º 2, do DL 72/91 revoga o Decreto Regulamentar n.º 72/77 (com efeitos a partir da entrada em vigor da regulamentação da mesma matéria): artigos 1.º a 3.º revogados.",
-    "Art. 101.º, n.º 1, revoga outros diplomas: ignorado."
+    "DL 72/91, art. 101.º, n.º 2: revogação com efeito adiado para facto futuro; não aplicada, artigos 1.º a 3.º ficam como estão."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

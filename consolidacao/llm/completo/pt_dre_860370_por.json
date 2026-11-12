@@ -39,12 +39,13 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Reg. CMVM 6/2005), artigo 1.º: nova redação da alínea b) do n.º 2 do artigo 3.º; aplicada (o resto do artigo fica como estava).",
-    "Alterador 2 (Reg. CMVM 4/2006), artigo 1.º: nova redação do artigo 3.º (proémio e alínea a) do n.º 2, novos n.os 3, 4 e 5; '...' do n.º 1 e da alínea b) do n.º 2 mantêm o texto atual, esta já na redação do alterador 1); aplicada.",
-    "Alterador 2, artigo 1.º: nova redação do n.º 1 do artigo 5.º; n.º 2 mantém-se; aplicada.",
-    "Alterador 2, artigo 2.º: revoga os artigos 10.º, 11.º, 13.º e 14.º; cada um fica '(Revogado.)'. Nota: o texto atual traz os artigos 14.º a 16.º em duplicado (artefacto da extração); dado um único elemento para 14.º."
+    "Reg. CMVM 6/2005 art. 1.º: nova redação da alínea b) do n.º 2 do art. 3.º — aplicada",
+    "Reg. CMVM 4/2006 art. 1.º: nova redação do art. 3.º (n.º 2 corpo e a) novos; b) '...' fica com a redação dada pelo Reg. 6/2005 — o reparo do verificador, que queria o texto original da b), não se confirma; n.º 3 e n.º 4 novos; n.º 5 novo, antigo n.º 4) — aplicada",
+    "Reg. CMVM 4/2006 art. 1.º: n.º 1 do art. 5.º substituído, n.º 2 mantido — aplicado",
+    "Reg. CMVM 4/2006 art. 2.º: revogados os arts. 10.º, 11.º, 13.º e 14.º — aplicado (14.º#2 é repetição do mesmo artigo no texto atual; revogado o 14.º)"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -12,26 +12,15 @@
       "epigrafe": "",
       "texto": "1. O Ministro das Finanças, ouvido o Banco de Portugal, fixará, por portaria, a participação que, nas disponibilidades de caixa, poderão atingir as promissórias de fomento nacional.\n\n2. Compete ao Banco de Portugal, em conformidade com o disposto no § 2.º do artigo 14.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, determinar:\n\na) A fracção das disponibilidades de caixa que pode estar representada por cheques e vales do correio, quando considerados dinheiro em cofre;\n\nb) As percentagens, respectivamente, de responsabilidades à vista e de depósitos a prazo, igual ou superior a trinta dias, em moeda nacional, que devem estar cobertas por disponibilidades de caixa;\n\nc) Os valores que podem servir de cobertura, para as citadas responsabilidades à vista e depósitos a prazo, na parte em que as importâncias totais, dessas responsabilidades e destes depósitos, excedam as percentagens referidas na alínea anterior;\n\nd) As regras a observar pelos bancos comerciais na contabilização dos indicados valores.\n\n3. O Banco de Portugal, ao determinar quer as percentagens, quer os valores mencionados nas alíneas b) e c) do n.º 2, poderá classificar os depósitos a prazo em grupos diferentes, de acordo com a duração do dito prazo.\n\n4. Para efeito do presente artigo:\n\na) Os depósitos com pré-aviso inferior a trinta dias são havidos como responsabilidades à vista;\n\nb) Os depósitos com pré-aviso igual ou superior a trinta dias são equiparados aos depósitos a prazo igual ao pré-aviso estipulado.\n\n5. As determinações tomadas pelo Banco de Portugal no exercício da competência que lhe é atribuída nos n.os 2 e 3 do presente artigo serão comunicadas à Inspecção-Geral de Crédito e Seguros, que as fará publicar na 1.ª série do Diário do Governo.",
       "alterador": 1
-    },
-    {
-      "chave": "17.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "19.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 3
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "nao_aplicavel": "Art. 8.º, alínea c), do DL 318/89 revoga os arts. 17.º e 19.º 'na data de entrada em vigor dos avisos publicados ao abrigo do disposto no artigo 1.º' — revogação diferida para facto futuro (avisos do Banco de Portugal), não aplicada ao texto. Art. 1.º do DL 199/70 (médio prazo até sete anos) é norma geral, não altera textualmente o n.º 1 do art. 1.º.",
   "instrucoes": [
-    "DL 180/70, art. 1.º altera o DL 47912 (outro diploma): ignorado. Art. 4.º: nova redação do art. 16.º; aplicada.",
-    "DL 199/70, art. 1.º (definição geral de prazos) não é textual. Art. 2.º: nova redação do n.º 2 do art. 6.º; aplicada (copiada sem ponto final, como no alterador).",
-    "DL 318/89, arts. 1.º-7.º não se dirigem ao original. Art. 8.º, alínea c): revoga os arts. 17.º e 19.º (na data de entrada em vigor dos avisos do art. 1.º); aplicada como revogação."
+    "Alt.1 (DL 180/70) art.4.º: nova redação do art. 16.º: aplicada.",
+    "Alt.2 (DL 199/70) art.2.º: nova redação do n.º 2 do art. 6.º (sete anos): aplicada, copiada sem ponto final como no alterador.",
+    "Alt.3 (DL 318/89) art.8.º c): revogação dos arts. 17.º e 19.º diferida para a entrada em vigor dos avisos: não aplicada (o reparo do verificador procede); os arts. 17.º e 19.º ficam com o texto atual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

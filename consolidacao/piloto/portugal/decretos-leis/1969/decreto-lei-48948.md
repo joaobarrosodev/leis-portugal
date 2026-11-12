@@ -13,9 +13,6 @@ consolidacao:
   - id: pt:dre:226036:por
     title: Decreto-Lei n.º 180/70
     publication_date: '1970-04-25'
-  - id: pt:dre:548228:por
-    title: Decreto-Lei n.º 318/89
-    publication_date: '1989-09-23'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -214,9 +211,15 @@ b) Os depósitos com pré-aviso igual ou superior a trinta dias são equiparados
 
 ###### Artigo 17.º
 
-(Revogado.)
+1. O Ministro das Finanças, ouvido o Conselho Nacional de Crédito, poderá estabelecer, por portaria, as relações que os bancos comerciais deverão observar:
 
-> Revogado pelo/a [Decreto-Lei n.º 318/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1989-548228), publicado em 1989-09-23.
+a) Entre o valor global dos depósitos e outras responsabilidades efectivas para com terceiros e o montante dos capitais próprios;
+
+b) Entre o valor global das suas responsabilidades por aceites, avales e garantias concedidas e o montante dos capitais próprios.
+
+2. Quando o montante dos depósitos e outras responsabilidades efectivas para com terceiros exceder aquele que resulte da relação que houver sido fixada nos termos da alínea a) do número anterior, poderá o Ministro das Finanças determinar que o excesso seja aplicado em títulos de dívida pública, ou equiparados, ou em depósitos em institutos de crédito do Estado ou bancos de investimento.
+
+3. O produto dos depósitos efectuados nos termos da parte final do n.º 2 deste artigo será aplicado a fins de fomento económico.
 
 ###### Artigo 18.º
 
@@ -248,9 +251,9 @@ Disposições gerais
 
 ###### Artigo 19.º
 
-(Revogado.)
+1. Os bancos comerciais não poderão subscrever ou adquirir obrigações emitidas, nos termos do artigo 6.º do presente diploma, por outros bancos comerciais; exceptua-se o caso de reembolso de crédito próprio por qualquer meio legal de aquisição, incluindo a arrematação judicial.
 
-> Revogado pelo/a [Decreto-Lei n.º 318/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1989-548228), publicado em 1989-09-23.
+2. As obrigações adquiridas, no caso de reembolso de crédito próprio, deverão ser alienadas no prazo máximo de um ano, a contar da data da sua aquisição.
 
 ###### Artigo 20.º
 

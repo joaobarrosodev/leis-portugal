@@ -4,30 +4,31 @@
     {
       "chave": "4.º",
       "epigrafe": "Mobilidade",
-      "texto": "1 - Os funcionários que sejam nomeados para os cargos de chefe de repartição de finanças ou de adjunto de chefe de repartição de finanças integram-se na escala própria do cargo para que forem nomeados, em escalão idêntico ao que possuem na respectiva categoria, beneficiando de uma bonificação de 30 pontos no caso de serem iguais as escalas salariais da categoria de origem e do cargo em que forem providos, bonificação que se manterá ao longo da progressão na escala salarial dos referidos cargos.\n\n2 - Quando o titular do cargo de chefe de repartição de finanças ou de adjunto de chefe de repartição for nomeado para cargo superior, ser-lhe-á atribuído escalão de vencimento de acordo com o previsto no artigo 17.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808).\n\n3 - Os funcionários que, estando providos em cargos de chefia tributária, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção são integrados na nova categoria, no escalão que resultar da aplicação das regras previstas no artigo 6.º ao escalão que detinham na categoria de origem.",
-      "alterador": 2
+      "alterador": 2,
+      "texto": "1 - Os funcionários que sejam nomeados para os cargos de chefe de repartição de finanças ou de adjunto de chefe de repartição de finanças integram-se na escala própria do cargo para que forem nomeados, em escalão idêntico ao que possuem na respectiva categoria, beneficiando de uma bonificação de 30 pontos no caso de serem iguais as escalas salariais da categoria de origem e do cargo em que forem providos, bonificação que se manterá ao longo da progressão na escala salarial dos referidos cargos.\n\n2 - Quando o titular do cargo de chefe de repartição de finanças ou de adjunto de chefe de repartição for nomeado para cargo superior, ser-lhe-á atribuído escalão de vencimento de acordo com o previsto no artigo 17.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808).\n\n3 - Os funcionários que, estando providos em cargos de chefia tributária, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção são integrados na nova categoria, no escalão que resultar da aplicação das regras previstas no artigo 6.º ao escalão que detinham na categoria de origem.\n\n4 - Os funcionários que cessem o exercício dos cargos mencionados na alínea b) do artigo 2.º por lhes ser dada por finda a respectiva comissão de serviço regressam às categorias de origem, na categoria em que se encontram providos e no escalão que lhes couber devido à normal progressão na mesma."
     },
     {
       "chave": "9.º",
       "epigrafe": "Progressão",
-      "texto": "1 - A mudança de escalão dos funcionários abrangidos pelo presente diploma depende da permanência de três anos no escalão imediatamente anterior.\n\n2 - A aplicação do disposto no número anterior aos funcionários que se encontrem nomeados em cargos de chefia tributária far-se-á relativamente à categoria de origem, com a necessária repercussão na escala salarial do cargo.",
-      "alterador": 2
+      "alterador": 2,
+      "texto": "1 - A mudança de escalão dos funcionários abrangidos pelo presente diploma depende da permanência de três anos no escalão imediatamente anterior.\n\n2 - A aplicação do disposto no número anterior aos funcionários que se encontrem nomeados em cargos de chefia tributária far-se-á relativamente à categoria de origem, com a necessária repercussão na escala salarial do cargo."
     },
     {
       "chave": "10.º",
       "epigrafe": "Funções de coordenação",
-      "texto": "(Revogado.)",
-      "alterador": 3
+      "alterador": 3,
+      "texto": "(Revogado.)"
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (DL 408/93, art. 55.º, n.º 1) altera os artigos 4.º, 9.º e 10.º mas o pedido não traz a nova redação; não aplicado. Por isso o '...' do n.º 2 do artigo 4.º e do n.º 1 do artigo 9.º na redação do DL 42/97 foi preenchido com o texto atual (original), que pode não refletir a redação do DL 408/93. O n.º 4 do artigo 4.º não consta da nova redação integral do DL 42/97 e foi tratado como eliminado (incerto).",
+  "titulos": [],
+  "nao_aplicavel": "DL 408/93, art. 55.º, n.º 1: anuncia nova redação dos arts. 4.º, 9.º e 10.º, mas o texto dessa redação não vem no pedido (e o DL 42/97 deu nova redação ao art. 55.º e aos mesmos artigos), por isso não foi aplicado à parte. No art. 4.º, a redação do DL 42/97 só traz os n.os 1 a 3; o n.º 4 não é mencionado e foi mantido com o texto atual.",
   "instrucoes": [
-    "Alt.1 art. 55.º n.º 1: altera arts. 4.º, 9.º e 10.º, texto não fornecido - não aplicado",
-    "Alt.2 art. 1.º: altera DL 408/93 - ignorado",
-    "Alt.2 art. 2.º: nova redação dos arts. 4.º (n.os 1 e 3 novos, n.º 2 mantido), 9.º (n.º 1 mantido, n.º 2 novo) e 10.º - aplicado (10.º depois revogado)",
-    "Alt.3 art. 7.º: revoga o art. 10.º na redação do DL 42/97 - artigo 10.º (Revogado.)",
-    "Alt.3 restantes artigos: alteram outros diplomas - ignorados"
+    "408/93 art. 55.º n.º 1: altera arts. 4.º, 9.º e 10.º - texto não disponível, nao_aplicavel (superado pelo 42/97).",
+    "42/97 art. 1.º: altera o DL 408/93 - outro diploma, ignorado.",
+    "42/97 art. 2.º: nova redação dos arts. 4.º (n.os 1 e 3; n.º 2 '...'; n.º 4 mantido), 9.º (n.º 1 '...' com o texto atual numerado; novo n.º 2) e 10.º - aplicado (10.º depois revogado).",
+    "237/2004 art. 7.º: revoga o art. 10.º na redação do 42/97 - aplicado, '(Revogado.)'.",
+    "237/2004 arts. 1.º a 6.º: alteram outros diplomas ou são normas transitórias - ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -212,7 +212,7 @@ k) Despesas com formação profissional de técnicos da associação, de acordo 
 
 3 - Nos casos em que os promotores se enquadrem no tipo de beneficiários a que se refere o n.º 2 do artigo 4.º, as despesas mencionadas nas alíneas b) a k) do n.º 1 só serão consideradas elegíveis desde que aqueles demonstrem que as mesmas são relevantes para o apoio à indústria.
 
-4 - As despesas a que se refere a alínea h) do n.º 1, realizadas no desenvolvimento das acções previstas na alínea g) do artigo 2.º, poderão ser consideradas, desde que os projectos a que as mesmas respeitam não se encontrem ainda concluídos.
+4 - As despesas a que se refere a alínea h) do n.º 1, realizadas no desenvolvimento das acções previstas na alínea g) do artigo 2.º, poderão ser consideradas, desde que os projectos a que as mesmas respeitam não se encontrem ainda concluídos.»
 
 > Alterado pelo/a [Despacho Normativo n.º 36/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/36-1998-461175), publicado em 1998-05-28.
 

@@ -27,15 +27,16 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alt. 1, art. 1.º: novo n.º 2 no art. 1.º, antigos 2-4 passam a 3-5; aplicado",
-    "Alt. 1, art. 2.º: nova redação dos n.os 3 e 4 do art. 3.º; aplicada",
-    "Alt. 2, art. 1.º: nova redação dos n.os 1 e 2 do art. 1.º; aplicada",
-    "Alt. 2, art. 2.º: aditados n.os 5 e 6 ao art. 1.º, n.º 5 passa a 7; aplicado",
-    "Alt. 2, art. 3.º: aditado n.º 5 ao art. 3.º, n.º 5 passa a 6; aplicado",
-    "Alt. 2, art. 4.º: nova redação do n.º 2 do art. 4.º; aplicada",
-    "Alt. 2, art. 5.º: nova redação dos n.os 1 a 3 do art. 5.º; aplicada"
+    "DL 449/72 art. 1.º: novo n.º 2 no art. 1.º, antigos 2-4 passam a 3-5 (depois substituído o n.º 2 pelo DL 614/73).",
+    "DL 449/72 art. 2.º: nova redacção dos n.os 3 e 4 do art. 3.º ('período da sessão legislativa', 'ser-lhes-á') - aplicada; o reparo do verificador não procede, a instrução existe.",
+    "DL 614/73 art. 1.º: nova redacção dos n.os 1 e 2 do art. 1.º.",
+    "DL 614/73 art. 2.º: aditados n.os 5 e 6 ao art. 1.º, o actual n.º 5 (abonos) passa a n.º 7.",
+    "DL 614/73 art. 3.º: aditado n.º 5 ao art. 3.º, actual n.º 5 passa a n.º 6.",
+    "DL 614/73 art. 4.º: nova redacção do n.º 2 do art. 4.º.",
+    "DL 614/73 art. 5.º: nova redacção dos n.os 1, 2 e 3 do art. 5.º."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

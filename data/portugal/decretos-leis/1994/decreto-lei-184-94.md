@@ -37,10 +37,44 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-06-18'
+version_history:
+  file: decreto-lei-184-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-06-18'
+    amending: pt:dre:162667:por
+    amending_title: Decreto-Lei n.º 162/97; Decreto-Lei n.º 221/99
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 24.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 37.º
+    - Adita Artigo 42.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/184/1994/07/01/p/dre/pt/html
@@ -66,7 +100,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:31:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 162/97; Decreto-Lei
+    n.º 221/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-184-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -317,9 +352,9 @@ d) Meras obras de manutenção e conservação das instalações;
 
 e) Equipamentos e outros bens em estado de uso;
 
-f) Veículos automóveis de peso bruto superior a 2500 kg, reboques e semi-reboques.
+f) Veículos automóveis de peso bruto superior a 3500 kg, reboques e semi-reboques.
 
-3 - As despesas com mobiliário e equipamentos sociais só poderão ser consideradas como relevantes desde que, após requerimento específico do promotor ao Ministro do Comércio e Turismo, sejam reconhecidas, por despacho deste, como de particular relevância para o projecto.
+3 - As despesas com mobiliário e equipamentos sociais só podem ser consideradas relevantes desde que sejam reconhecidas como de particular relevância para o projecto por despacho do Ministro da Economia, a requerimento do promotor.
 
 4 - A aplicação relevante só é considerada, para o efeito de financiamento, quando exista adequação do investimento ao objectivo do projecto.
 
@@ -328,6 +363,8 @@ f) Veículos automóveis de peso bruto superior a 2500 kg, reboques e semi-reboq
 6 - Para efeitos de financiamento, as aplicações relevantes não podem ultrapassar os valores absolutos ou relativos nem os condicionalismos que forem fixados em regulamento.
 
 7 - O cálculo das aplicações relevantes é efectuado a preços correntes.
+
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
 
 ###### Artigo 8.º — Natureza dos apoios financeiros
 
@@ -349,9 +386,9 @@ d) Bonificação das rendas de contratos de locação financeira, nas condiçõe
 
 ###### Artigo 9.º — Âmbito
 
-1 - A presente secção abrange os projectos de investimento pontuais de modernização do comércio, com especial incidência no equilíbrio regional, promovidos por PME nas zonas geográficas a determinar em regulamento.
+A presente secção abrange os projectos de investimento pontuais de modernização do comércio, com especial incidência no equilíbrio regional, promovidos por PME, nas zonas geográficas a determinar em regulamento.
 
-2 - Podem ainda, a título excepcional, por despacho do Ministro do Comércio e Turismo, e nas condições nele fixadas, ser abrangidos pela presente secção projectos de investimento pontuais de modernização do comércio, promovidos por empresas de fraca dimensão económica que se situem fora das zonas geográficas a que se refere o número anterior.
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
 
 ###### Artigo 10.º — Tipos de projectos
 
@@ -475,21 +512,29 @@ d) Realização de missões técnicas que se enquadrem nos objectivos do Program
 
 2 - Aplicam-se aos projectos abrangidos pelo presente subcapítulo as disposições constantes das alíneas b) a f) do n.º 2 e os n.os 3, 4, 5 e 7 do artigo 7.º
 
-3 - As aplicações referidas na alínea a) do n.º 2 do artigo 7.º só poderão ser consideradas relevantes desde que, sobre requerimento específico do promotor, um despacho do Ministro do Comércio e Turismo reconheça que a aplicação é de particular relevância para assegurar um adequado desempenho das funções da estrutura associativa.
+3 - A exclusão prevista na alínea a) do n.º 2 do artigo 7.º pode ser afastada se a referida aplicação for considerada de particular relevância para assegurar um adequado desempenho das funções da estrutura associativa por despacho do Ministro da Economia, a requerimento do promotor.
+
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
 
 ###### Artigo 24.º — Natureza do apoio financeiro
 
 1 - O apoio financeiro a conceder aos projectos abrangidos no presente subcapítulo assume a forma de subvenção financeira a fundo perdido, bonificação de juros ou bonificação das rendas de contratos de locação financeira.
 
-2 - O montante e as condições do apoio financeiro serão definidos, caso a caso, por despacho conjunto dos Ministros do Planeamento e da Administração do Território e do Comércio e Turismo, sob parecer da comissão de avaliação.
+2 - O montante e as condições do apoio financeiro são definidos, caso a caso, por despacho conjunto dos Ministros do Equipamento, do Planeamento e da Administração do Território e da Economia, sob parecer da comissão de avaliação.
 
 SUBCAPÍTULO IV
 
 Projectos especiais
 
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
+
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
+
 ###### Artigo 25.º — Âmbito
 
-O presente subcapítulo abrange os projectos que visem os objectivos referidos na alínea d) do n.º 2 do artigo 2.º, da iniciativa, individual ou conjunta, de órgãos da Administração Pública, central ou local, de empresas e de associações empresariais, e a promover conjuntamente com a Direcção-Geral do Comércio.
+O presente subcapítulo abrange os projectos que visem os objectivos referidos na alínea d) do n.º 2 do artigo 2.º, da iniciativa, individual ou conjunta, de órgãos da Administração Pública, central ou local, de empresas e de associações empresariais, e a promover conjuntamente com a Direcção-Geral do Comércio e da Concorrência (DGCC).
+
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
 
 ###### Artigo 26.º — Tipos de projectos
 
@@ -507,31 +552,39 @@ e) A criação ou dinamização de projectos piloto que, pelo seu carácter inov
 
 f) Estimular um melhor ambiente financeiro para as empresas do sector.
 
-2 - A qualificação de projecto especial é atribuída por despacho do Ministro do Comércio e Turismo, sob proposta fundamentada da comissão de avaliação.
+2 - A qualificação de projecto especial é atribuída por despacho do Ministro da Economia, sob proposta fundamentada da comissão de avaliação.
+
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
 
 ###### Artigo 27.º — Atribuição e natureza dos apoios
 
-1 - Para cada projecto será constituída uma equipa de projecto, coordenada por um representante da Direcção-Geral do Comércio e que integrará um representante de cada uma das restantes entidades nele envolvidas, à qual incumbe dar parecer sobre o especial interesse e viabilidade do projecto, suas condições e forma de realização, bem como submetê-lo à comissão de avaliação.
+1 - Para cada projecto é constituída uma equipa de projecto, coordenada por um representante da DGCC e que integra um representante de cada uma das restantes entidades nele envolvidas, à qual incumbe dar parecer sobre o especial interesse e viabilidade do projecto, suas condições e forma de realização, bem como submetê-lo à comissão de avaliação.
 
-2 - A aprovação do projecto será objecto de despacho conjunto dos Ministros do Planeamento e da Administração do Território e do Comércio e Turismo ou, quando for caso disso, de despacho conjunto daqueles Ministros e dos que tiverem a tutela das outras entidades públicas envolvidas no projecto.
+2 - A equipa de projecto referida no número anterior poderá ser assessorada por um gabinete técnico, a criar por despacho do Ministro da Economia no âmbito da medida de assistência técnica prevista na Intervenção Operacional Comércio e Serviços.
 
-3 - A natureza dos apoios a conceder aos projectos abrangidos no presente subcapítulo pode revestir a forma de subsídio a fundo perdido, linha de crédito bonificado ou empréstimo bonificado.
+3 - A aprovação do projecto é objecto de despacho conjunto dos Ministros do Equipamento, do Planeamento e da Administração do Território e da Economia ou, quando for caso disso, de despacho conjunto daqueles ministros e dos que tiverem a tutela das outras entidades públicas envolvidas no projecto.
+
+4 - A natureza dos apoios a conceder aos projectos abrangidos no presente subcapítulo pode revestir a forma de subsídio a fundo perdido, linha de crédito bonificado ou empréstimo bonificado.
+
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
 
 ### CAPÍTULO II — Das candidaturas e do processo de decisão
 
 ###### Artigo 28.º — Quadro institucional
 
-1 - Nos termos do [Decreto-Lei n.º 99/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1994-264966), de 19 de Abril, e do despacho conjunto dos Ministros do Planeamento e da Administração do Território e do Comércio e Turismo publicado no Diário da República, 2.ª série, n.º 130, de 6 de Junho de 1994, a gestão do PROCOM insere-se na gestão global do Programa de Apoio ao Comércio e Serviços, sendo assim abrangida pelas competências do gestor e das unidades de gestão e de acompanhamento estabelecidas para o Programa de Apoio ao Comércio e Serviços.
+1 - Nos termos do Decreto-Lei n.º 99/94, de 19 de Abril, e do despacho conjunto dos Ministros do Planeamento e da Administração do Território e do Comércio e Turismo publicado no Diário da República, 2.ª série, n.º 130, de 6 de Junho de 1994, a gestão do PROCOM insere-se na gestão global da Intervenção Operacional Comércio e Serviços, sendo assim abrangida pelas competências do gestor e das unidades de gestão e de acompanhamentos estabelecidas para aquela intervenção.
 
-2 - Compete à Direcção-Geral do Comércio (DGC), com a colaboração do ICEP - Investimentos, Comércio e Turismo de Portugal e do IAPMEI - Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, a gestão corrente do PROCOM.
+2 - A gestão corrente do PROCOM compete à DGCC e ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI).
 
-3 - É criada uma comissão de avaliação presidida pelo gestor do Programa de Apoio ao Comércio e Serviços, adiante designado por gestor, que integra ainda um representante da Direcção-Geral do Comércio, um representante do ICEP e um representante do IAPMEI.
+3 - É criada uma comissão de avaliação presidida pelo gestor da Intervenção Operacional Comércio e Serviços, adiante designado por gestor, que integra ainda um representante da DGCC, um representante do IAPMEI e um representante do ICEP.
 
-4 - No caso de projectos abrangidos pelo subcapítulo III e promovidos por associações empresariais, a comissão de avaliação integrará um representante da Direcção-Geral da Indústria (DGI) em substituição do representante do IAPMEI e duas personalidades a nomear por despacho do Ministro do Comércio e Turismo.
+4 - No caso de projectos abrangidos pelo subcapítulo III e promovidos por associações empresariais, a comissão de avaliação integrará ainda um representante da Direcção-Geral da Indústria (DGI) e duas personalidades a nomear por despacho do Ministro da Economia.
 
 5 - No caso das candidaturas oriundas das Regiões Autónomas dos Açores e da Madeira, a comissão de avaliação integrará ainda um seu representante, a designar nos termos do artigo 41.º
 
-6 - É criada uma comissão técnica, com funções consultivas, presidida pelo gestor, composta por um representante da DGC, por um representante do ICEP, por um representante do IAPMEI, por um representante de cada uma das instituições de crédito que venham a celebrar protocolos nos termos do n.º 4 do artigo 29.º e por dois representantes indicados pela Confederação do Comércio Português, a nomear por despacho do Ministro do Comércio e Turismo.
+6 - É criada uma comissão técnica, com funções consultivas, presidida pelo gestor e composta por um representante da DGCC, por um representante do IAPMEI, por um representante do ICEP, por um representante de cada uma das instituições de crédito protocoladas nos termos do n.º 4 do artigo 29.º e por dois representantes indicados pela Confederação do Comércio e Serviços de Portugal (CCP), a nomear por despacho do Ministro da Economia.
+
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
 
 ###### Artigo 29.º — Competências
 
@@ -541,29 +594,35 @@ a) Dar parecer sobre as propostas de decisão do gestor relativas a candidaturas
 
 b) Organizar as listas dos projectos aprovados ao abrigo do PROCOM, a fim de o gestor as enviar aos membros do Governo com tutela sobre o desenvolvimento regional e sobre o comércio, para decisão.
 
-2 - Compete à DGC:
+2 - Compete à DGCC:
 
-a) Avaliar a relevância comercial dos projectos, bem como a sua adequação aos objectivos do PROCOM;
+a) Avaliar a relevância comercial dos projectos a que se refere o subcapítulo II, bem como a sua adequação aos objectivos do PROCOM;
 
 b) Determinar o valor do apoio financeiro a conceder;
 
-c) Submeter à comissão de avaliação a proposta relativa a cada processo de candidatura para os projectos a que se referem os subcapítulos I, II, III e IV.
+c) Submeter à comissão de avaliação a proposta relativa a cada processo de candidatura, para os projectos a que se referem os subcapítulos II, III e IV.
 
-3 - No quadro das suas competências, a DGC poderá recorrer ao parecer de outros órgãos da Administração Pública ou solicitar o parecer especializado de consultores externos.
+3 - Compete ao IAPMEI:
 
-4 - Para a realização do PROCOM, o gestor, em conjunto com a DGC e o ICEP, celebrará protocolos com as instituições de crédito interessadas.
+a) Avaliar a relevância comercial dos projectos a que se refere o subcapítulo I, bem como a sua adequação aos objectivos do PROCOM;
 
-5 - Compete ao ICEP:
+b) Determinar o valor do apoio financeiro a conceder;
 
-a) Efectuar a transferência, para as instituições de crédito, dos fundos de origem comunitária e nacional, correspondentes aos projectos referidos nos subcapítulos I e II;
+c) Submeter à comissão de avaliação a proposta relativa a cada processo de candidatura, para os projectos a que se refere o subcapítulo I;
 
-b) Efectuar os pagamentos relativos às subvenções financeiras a fundo perdido, quando for caso disso;
+d) Efectuar a transferência para as instituições de crédito dos fundos de origem comunitária e nacional correspondentes aos projectos referidos nos subcapítulos I e II;
 
-c) Efectuar a libertação dos meios financeiros destinados à concretização dos projectos incluídos nos subcapítulos III e IV, em conformidade com os despachos ministeriais previstos nos n.os 2 dos artigos 24.º e 27.º;
+e) Efectuar os pagamentos relativos às subvenções financeiras a fundo perdido, quando for caso disso;
 
-d) Assegurar a observância, pelas instituições de crédito, dos compromissos assumidos no quadro dos protocolos celebrados;
+f) Efectuar a libertação dos meios financeiros destinados à concretização dos projectos incluídos nos subcapítulos III e IV, em conformidade com os despachos ministeriais previstos no n.º 2 do artigo 24.º e no n.º 3 do artigo 27.º;
 
-e) Enviar mensalmente ao gestor e à DGC uma lista dos movimentos financeiros efectuados ao abrigo das alíneas anteriores.
+g) Assegurar a observância pelas instituições de crédito dos compromissos assumidos no quadro dos protocolos celebrados;
+
+h) Enviar mensalmente ao gestor uma lista dos movimentos financeiros efectuados ao abrigo das alíneas anteriores.
+
+4 - Para a realização do PROCOM, o gestor, em conjunto com a DGCC e o IAPMEI, celebra protocolos com as instituições de crédito e com as estruturas associativas do sector que estejam interessadas.
+
+5 - No quadro das suas competências, a DGCC e o IAPMEI podem recorrer ao parecer de outros órgãos da Administração Pública ou solicitar o parecer especializado de consultores externos.
 
 6 - Compete às instituições de crédito, nos termos dos protocolos que com elas vierem a ser celebrados:
 
@@ -575,53 +634,83 @@ c) Pronunciar-se sobre o seu financiamento;
 
 d) Pronunciar-se sobre a garantia bancária que entendam prestar aos financiamentos concedidos aos projectos;
 
-e) Remeter à DGC os resultados da instrução técnica efectuada nos termos da alínea a), juntamente com parecer fundamentado;
+e) Remeter ao IAPMEI os resultados da instrução técnica efectuada nos termos da alínea a) juntamente com o parecer fundamentado, relativamente aos projectos do subcapítulo I, e à DGCC, relativamente aos projectos do subcapítulo II;
 
 f) Proceder ao processamento dos apoios financeiros;
 
-g) Remeter mensalmente ao ICEP lista dos pagamentos efectuados e dos respectivos documentos justificativos de despesa;
+g) Remeter mensalmente ao IAPMEI lista dos pagamentos efectuados e dos respectivos documentos justificativos de despesa;
 
-h) Receber e transferir para o ICEP os reembolsos dos financiamentos efectuados pelos promotores, nas condições estabelecidas pelos respectivos contratos;
+h) Receber e transferir para o IAPMEI os reembolsos dos financiamentos efectuados pelos promotores, nas condições estabelecidas pelos respectivos contratos;
 
-i) Remeter à DGC os relatórios finais dos investimentos concluídos.
+i) Remeter ao IAPMEI e à DGCC os relatórios finais dos investimentos concluídos, relativamente aos projectos dos subcapítulos I e II, respectivamente.
 
-7 - Compete à comissão de avaliação:
+7 - Compete às estruturas associativas do sector, nos termos dos protocolos que com elas sejam celebrados:
 
-a) Apreciar e dar parecer sobre as propostas a que se refere a alínea c) do n.º 2;
+a) Prestar todo o apoio aos promotores no período pré-projecto, relativamente às intenções de investimento;
 
-b) Submeter os seus pareceres aos órgãos de gestão do Programa de Apoio ao Comércio e Serviços.
+b) Receber dos promotores os processos de candidatura e efectuar a respectiva instrução técnica;
 
-8 - Compete à comissão técnica:
+c) Remeter à DGCC uma cópia do processo de candidatura, depois da verificação das condições gerais e específicas de acesso;
+
+d) Proceder à análise das condições de viabilidade económica e financeira dos projectos recepcionados;
+
+e) Elaborar e enviar ao gestor o relatório final dos investimentos (RFI) concluídos, após a realização final do projecto, de acordo com o modelo previamente enviado;
+
+f) Proceder à elaboração de relatórios trimestrais, bem como de outros que por sua iniciativa ou a solicitação da DGCC, relativos à fiscalização e ao acompanhamento da realização dos projectos e da utilização dos incentivos concedidos e enviá-los à DGCC;
+
+g) Colaborar com o gestor, o IAPMEI e o promotor na celebração dos contratos de concessão de incentivos;
+
+h) Propor ao gestor a rescisão de contratos de concessão de incentivos, sempre que se verifique qualquer das situações de rescisão previstas, nos termos legais ou contratuais;
+
+i) Receber os pedidos de pagamentos, respeitantes à subvenção financeira a fundo perdido, apresentados pelos promotores das candidaturas, verificando a sua conformidade e validade em função dos contratos assinados.
+
+8 - Compete à comissão de avaliação:
+
+a) Apreciar e dar parecer sobre as propostas a que se refere a alínea c) dos n.os 2 e 3;
+
+b) Submeter os seus pareceres aos órgãos de gestão da Intervenção Operacional Comércio e Serviços.
+
+9 - Compete à comissão técnica:
 
 a) Propor eventuais medidas de correcção ao funcionamento e execução do PROCOM, tendo em vista a sua operacionalidade e máxima utilização;
 
 b) Dar parecer sobre o impacte dos investimentos realizados, tendo em vista a avaliação do PROCOM prevista no artigo 39.º
 
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
+
+> Alterado pelo/a [Decreto-Lei n.º 221/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1999-388004), publicado em 1999-06-18.
+
 ###### Artigo 30.º — Apresentação das candidaturas
 
 1 - As candidaturas são formalizadas através da apresentação do respectivo projecto, acompanhado dos elementos a fixar em regulamento.
 
-2 - As candidaturas a que se referem os subcapítulos I e II são apresentadas na instituição de crédito escolhido pelo promotor do investimento, de entre as que tiverem subscrito um protocolo nos termos do n.º 4 do artigo anterior ou nas entidades que venham a ser designadas, para esse efeito, por despacho conjunto dos Ministros do Comércio e Turismo, do Planeamento e da Administração do Território e dos Ministros que tutelem as referidas entidades.
+2 - As candidaturas a que se referem os subcapítulos I e II são apresentadas na instituição de crédito escolhida pelo promotor do investimento de entre as que tiverem subscrito um protocolo, nos termos do n.º 4 do artigo anterior.
 
-3 - O despacho a que se refere o número anterior definirá as competências e inerentes atribuições das referidas entidades, nas matérias abrangidas pelos artigos 31.º, 32.º, 33.º e 37.º do presente diploma.
+3 - Os processos a que se refere o subcapítulo III são apresentados directamente na DGCC.
 
-4 - Os processos a que se referem os subcapítulos III e IV são apresentados directamente na DGC.
+4 - Os processos a que se refere o subcapítulo IV são apresentados, de acordo com a escolha do promotor do investimento, directamente na DGCC, na instituição de crédito ou na estrutura associativa do sector, de entre as que tiverem subscrito um protocolo, nos termos do n.º 4 do artigo anterior.
 
 5 - Após a recepção dos processos, podem as instituições receptoras solicitar aos promotores esclarecimentos complementares, os quais devem ser apresentados no prazo de 15 dias úteis, findos os quais a ausência de resposta, excepto quando não imputável ao promotor, significará a desistência da candidatura.
 
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
+
+> Alterado pelo/a [Decreto-Lei n.º 221/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1999-388004), publicado em 1999-06-18.
+
 ###### Artigo 31.º — Contratos de concessão dos apoios financeiros
 
-1 - A atribuição de apoios financeiros será formalizada através de um contrato a celebrar entre as instituições de crédito e os promotores, no caso dos projectos abrangidos pelos subcapítulos I e II.
+1 - A atribuição de apoios financeiros é formalizada através de um contrato a celebrar entre as instituições de crédito, os promotores e o IAPMEI, no caso dos projectos abrangidos pelos subcapítulos I e II.
 
-2 - No caso dos projectos a que se refere o subcapítulo III, os contratos serão celebrados entre a DGC, o ICEP e os promotores.
+2 - No caso dos projectos a que se refere o subcapítulo III, os contratos são celebrados entre a DGCC, o IAPMEI e os promotores.
 
-3 - No caso dos projectos a que se refere o subcapítulo IV, as entidades intervenientes na celebração dos contratos serão as que forem designadas no despacho ministerial previsto no n.º 2 do artigo 27.º
+3 - No caso dos projectos a que se refere o subcapítulo IV, as entidades intervenientes na celebração dos contratos serão as que forem designadas no despacho ministerial previsto no n.º 3 do artigo 27.º
 
-4 - As minutas dos contratos serão previamente homologadas pelo Ministro do Comércio e Turismo, delas devendo constar, para além do apoio financeiro concedido, os objectivos do investimento e as obrigações dos beneficiários, incluindo os prazos do início da realização do investimento e da sua conclusão.
+4 - As minutas dos contratos são previamente homologadas pelo Ministro da Economia, delas devendo constar, para além do apoio financeiro concedido, os objectivos do investimento e as obrigações dos beneficiários, incluindo os prazos do início da realização do investimento e da sua conclusão.
 
 5 - Se os contratos, por razões imputáveis aos promotores, não forem celebrados no prazo de 60 dias após a comunicação da decisão ministerial, esta caduca automaticamente.
 
-6 - A posição contratual da empresa beneficiária só poderá ser objecto de transmissão por motivos devidamente justificados e após autorização do Ministro do Comércio e Turismo.
+6 - A posição contratual da empresa beneficiária só pode ser objecto de transmissão por motivos devidamente justificados e após a autorização do Ministro da Economia.
+
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
 
 ### CAPÍTULO III — Da atribuição dos apoios financeiros
 
@@ -639,31 +728,39 @@ Os apoios financeiros atribuídos a título de incentivo serão contabilizados p
 
 ###### Artigo 35.º — Cobertura orçamental
 
-1 - Os encargos decorrentes da aplicação do PROCOM serão inscritos anualmente no orçamento do ICEP, sob o título «Modernização do tecido económico: comércio e serviços».
+1 - Os encargos decorrentes da aplicação do PROCOM são inscritos anualmente no orçamento do IAPMEI, sob o título «Modernização do tecido económico: comércio e serviços».
 
 2 - As verbas globais fixadas para cada ano serão acrescidas dos saldos apurados nos anos anteriores.
 
-3 - Por despacho do Ministro do Comércio e Turismo podem as verbas referidas no número anterior ser repartidas por subcapítulo e suas respectivas secções e serem reajustadas quando se verifiquem desvios em relação ao programado.
+3 - Por despacho do Ministro da Economia, podem as verbas referidas no número anterior ser repartidas por subcapítulo e suas respectivas secções e ser reajustadas, quando se verifiquem desvios em relação ao programado.
 
-4 - Por despacho conjunto dos Ministros do Planeamento e da Administração do Território e do Comércio e Turismo poderá ser alterada, nomeadamente quando se verifique escassez de verbas disponíveis, a pontuação mínima do indicador de relevância comercial, previsto em regulamento, para efeitos de elegibilidade dos projectos abrangidos pela secção II do subcapítulo I.
+4 - Por despacho conjunto dos Ministros do Equipamento, do Planeamento e da Administração do Território e da Economia, pode ser alterada, nomeadamente quando se verifique escassez de verbas disponíveis, a pontuação mínima do indicador de relevância comercial prevista em regulamento, para efeitos de elegibilidade dos projectos abrangidos pelo subcapítulo I.
 
 5 - A nova pontuação mínima assim estabelecida será aplicável a todos os projectos ainda não submetidos à comissão de avaliação.
+
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
 
 ### CAPÍTULO IV — Da fiscalização e acompanhamento
 
 ###### Artigo 36.º — Obrigações dos promotores
 
-Todos os apoios financeiros atribuídos ficam sujeitos à verificação da sua utilização em conformidade com o projecto de investimento, não podendo ser desviados para outros fins, nem locados, alienados ou por qualquer modo onerados, no todo ou em parte, os bens com eles adquiridos, sem autorização prévia da DGC, até que sejam atingidos os objectivos do investimento.
+Todos os apoios financeiros atribuídos ficam sujeitos à verificação da sua utilização em conformidade com o projecto de investimento, não podendo ser desviados para outros fins, nem locados, alienados ou por qualquer modo onerados, no todo ou em parte, os bens com eles adquiridos sem autorização prévia do IAPMEI, no caso dos projectos a que se refere o subcapítulo I, ou da DGCC, no caso dos projectos a que se referem os subcapítulos II, III e IV, até que sejam atingidos os objectivos do investimento.
+
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
 
 ###### Artigo 37.º — Fiscalização e acompanhamento
 
-1 - Compete às instituições de crédito, à DGC e ao ICEP, no âmbito das respectivas competências, efectuar as acções de verificação e controlo físico, financeiro e contabilístico dos investimentos realizados.
+1 - Compete à DGCC, ao IAPMEI, às instituições de crédito e às estruturas associativas do sector, no âmbito das respectivas competências, efectuar as acções de verificação e controlo físico, financeiro e contabilístico dos investimentos realizados.
 
 2 - As entidades acima referidas devem adoptar as medidas necessárias ao cumprimento do disposto no número anterior e elaborar relatórios semestrais da actividade desenvolvida.
 
-###### Artigo 38.º — Rescisão do contrato
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
 
-1 - Os contratos podem ser rescindidos unilateralmente mediante autorização do Ministro do Comércio e Turismo verificando-se as seguintes situações:
+> Alterado pelo/a [Decreto-Lei n.º 221/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1999-388004), publicado em 1999-06-18.
+
+###### Artigo 38.º — Rescisão de contrato
+
+1 - Os contratos podem ser rescindidos unilateralmente mediante autorização do Ministro da Economia, verificando-se as seguintes situações:
 
 a) Não cumprimento, por facto imputável à empresa ou associação promotora, dos objectivos e obrigações estabelecidos no contrato, incluindo os prazos referidos ao início da realização do investimento e da sua conclusão;
 
@@ -673,11 +770,15 @@ c) Prestação de informações falsas sobre a situação da empresa ou associa�
 
 2 - A rescisão do contrato implica a devolução do financiamento já processado, ou a restituição das subvenções financeiras, no prazo de 60 dias a contar da data da notificação, acrescidas de juros à taxa de referência do mercado de capitais em vigor à data da notificação.
 
-3 - Quando ocorrer a situação descrita na alínea c) do n.º 1, a empresa não poderá apresentar candidatura a incentivos durante cinco anos, excepto se obtiver para o efeito autorização expressa do Ministro do Comércio e Turismo.
+3 - Quando ocorrer a situação descrita na alínea c) do n.º 1, a empresa não poderá apresentar candidatura a incentivos durante cinco anos, excepto se obtiver para o efeito autorização expressa do Ministro da Economia.
+
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
 
 ###### Artigo 39.º — Avaliação do Programa
 
-Compete à Direcção-Geral do Desenvolvimento Regional, do Ministério do Planeamento e da Administração do Território, e à unidade de acompanhamento do Programa de Apoio ao Comércio e Serviços, em colaboração com a DGC, o ICEP e o IAPMEI, tendo em conta o parecer da comissão técnica, proceder à avaliação do impacte dos investimentos em função dos objectivos fixados no n.º 2 do artigo 1.º
+Compete ao gestor e à Direcção-Geral do Desenvolvimento Regional (DGDR), em colaboração com a DGCC, o IAPMEI e os serviços respectivos da Comissão Europeia, proceder à avaliação do impacte dos investimentos, em função dos objectivos fixados no n.º 2 do artigo 1.º
+
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
@@ -700,6 +801,16 @@ O regulamento de execução do PROCOM é aprovado por resolução do Conselho de
 ###### Artigo 42.º — Acumulação de apoios financeiros
 
 Os apoios financeiros previstos no presente diploma não são acumuláveis com quaisquer outros que assumam a mesma forma e que sejam concedidos por outro regime legal nacional.
+
+###### Artigo 42.º-A — Prazo limite de apresentação de candidaturas e de execução dos projectos pelos promotores
+
+Para efeitos de encerramento do Programa, são fixadas, por despacho conjunto dos Ministros do Equipamento, do Planeamento e da Administração do Território e da Economia:
+
+a) A data limite de recepção de candidaturas;
+
+b) A data limite de execução dos projectos aprovados.
+
+> Aditado pelo/a [Decreto-Lei n.º 221/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1999-388004), publicado em 1999-06-18.
 
 ###### Artigo 43.º — Entrada em vigor
 

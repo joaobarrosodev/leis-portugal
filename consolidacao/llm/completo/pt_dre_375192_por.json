@@ -10,10 +10,11 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 1 (DL 72-A/2010, art. 42.º): manda ler «cedência de interesse público» onde se lê «requisição e destacamento, referidos a trabalhadores que exercem funções públicas» no n.º 4 do art. 6.º e nos arts. 10.º e 11.º; essa expressão não existe literalmente no texto atual e a regra é interpretativa (só para trabalhadores que exercem funções públicas), não uma substituição textual segura: não aplicada.",
+  "nao_aplicavel": "Art. 42.º do DL 72-A/2010 (alterador 1): regra interpretativa ('onde se lê «requisição e destacamento, referidos a trabalhadores que exercem funções públicas», deve ler-se «cedência de interesse público»') para o n.º 4 do art. 6.º e arts. 10.º e 11.º; a expressão citada não existe letra a letra nesses artigos (o 6.º, n.º 4, fala só em 'requisição', o 10.º em 'destacamento de funcionários', o 11.º em 'destacamento ou à requisição'), e a substituição exigiria adaptações gramaticais e de sentido ('com as devidas adaptações'), pelo que não é uma alteração textual: os artigos ficam como estão.",
   "instrucoes": [
-    "Alt. 1, art. 42.º: regra de leitura de 'requisição e destacamento' como 'cedência de interesse público' nos arts. 6.º n.º 4, 10.º e 11.º — não textual, em nao_aplicavel.",
-    "Alt. 2, art. 305.º: aditado o art. 12.º-A (Motoristas), copiado do alterador."
+    "DL 72-A/2010, art. 42.º: substituição interpretativa de 'requisição e destacamento' por 'cedência de interesse público' nos arts. 6.º n.º 4, 10.º e 11.º — não aplicada ao texto (ver nao_aplicavel); reparo do verificador confirmado como instrução existente, mas não textual.",
+    "Lei 114/2017, art. 305.º: aditado o art. 12.º-A (Motoristas) — aplicado.",
+    "Referência à revogação parcial pelo DL 11/2012 não é instrução de nenhum alterador do pedido: ignorada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

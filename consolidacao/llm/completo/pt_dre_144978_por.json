@@ -33,10 +33,12 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Artigo 4.º do alterador 1: revoga o diploma salvo as alíneas a) e b) do n.º 1 do artigo 1.º, 'que passa a reportar-se a 31 de Dezembro de 2005'. A revogação parcial do proémio do n.º 1 e a referência à nova data não são alterações textuais definidas; o n.º 1 ficou com o texto atual e apenas foram revogados os n.ºs 2 a 6 do artigo 1.º e os artigos 2.º a 5.º.",
+  "titulos": [],
+  "nao_aplicavel": "DL 324/97 art. 4.º: a ressalva das alíneas a) e b) do n.º 1 do art. 1.º 'que passa a reportar-se a 31 de Dezembro de 2005, nos termos do presente diploma' não é alteração textual (o novo prazo vem do art. 1.º do próprio DL 324/97, que é regime autónomo e não nova redação do DL 13/95); não se substituiu '1997' por '2005' no corpo do n.º 1, que fica como está, e o reparo do verificador não foi seguido por falta de instrução textual.",
   "instrucoes": [
-    "Alterador 1, artigo 4.º: revogação do Decreto-Lei n.º 13/95 salvo alíneas a) e b) do n.º 1 do artigo 1.º; revogados os artigos 2.º a 5.º e os n.ºs 2 a 6 do artigo 1.º; n.º 1 mantido (ver nao_aplicavel).",
-    "Alterador 1, artigos 1.º a 3.º: regime próprio do novo diploma, não altera o texto do original."
+    "DL 324/97 art. 4.º: revoga o DL 13/95 salvo as alíneas a) e b) do n.º 1 do art. 1.º — revogados os n.os 2 a 6 do art. 1.º e os arts. 2.º a 5.º; n.º 1 mantido",
+    "DL 324/97 art. 4.º: 'passa a reportar-se a 31 de Dezembro de 2005' — remissão não textual, posta em nao_aplicavel",
+    "DL 324/97 arts. 1.º a 3.º: regime próprio, não alteram a redação do DL 13/95"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

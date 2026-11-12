@@ -22,12 +22,12 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, art. 2.º: os artigos 17.º-A e 17.º-B passam a constituir o novo «CAPÍTULO V — Conclusão do processo», título que não existe no texto atual e não pode ser criado em \"titulos\" (só se renumerou o antigo capítulo V para VI). Os dois quadros das alíneas b) e c) do n.º 5 do artigo 17.º-A só vêm em imagem (mantida a ligação ao documento original).",
+  "nao_aplicavel": "Art. 2.º do DLR 9/2014/A: os artigos 17.º-A e 17.º-B passam a constituir o novo «CAPÍTULO V — Conclusão do processo»; o formato só permite alterar títulos de divisão que já existem no texto atual, por isso o novo cabeçalho «### CAPÍTULO V — Conclusão do processo» (a pôr antes do artigo 17.º-A, depois do 17.º) não pode ser inserido aqui; o antigo capítulo V passou a VI (renumeração confirmada pela republicação). Os dois quadros das alíneas b) e c) do n.º 5 do artigo 17.º-A só vêm em imagem (ficou a ligação «(ver documento original)»).",
   "instrucoes": [
-    "Alterador 1 (DLR 9/2014/A), art. 1.º: nova redação dos artigos 2.º, 8.º, 9.º, 11.º a 14.º, 16.º, 17.º e 19.º - já aplicada pelo programa e conferida; está certa, nada a devolver.",
-    "Alterador 1, art. 2.º: aditados os artigos 17.º-A e 17.º-B (novo capítulo V) - artigos aplicados; o antigo CAPÍTULO V passa a CAPÍTULO VI (renumeração, art. 3.º); o título do novo capítulo V não pode ser criado.",
-    "Alterador 1, art. 3.º: republicação - usada só para confirmar a renumeração dos capítulos; não altera o artigo 21.º, que nenhuma instrução muda.",
-    "Alterador 1, arts. 4.º e 5.º: norma transitória e entrada em vigor - autónomos."
+    "Art. 1.º DLR 9/2014/A altera 2.º, 8.º, 9.º, 11.º a 14.º, 16.º, 17.º e 19.º: já aplicados pelo programa e conferidos, sem diferenças (os [...] mantêm o texto atual).",
+    "Art. 2.º adita 17.º-A (Relatório final) e 17.º-B (Relatório de avaliação), que formam o novo Capítulo V «Conclusão do processo»: artigos aditados; cabeçalho novo não inserível no formato (ver nao_aplicavel).",
+    "Renumeração do capítulo: o antigo CAPÍTULO V «Disposições finais e transitórias» passa a CAPÍTULO VI (art. 3.º, republicação «com as alterações e renumerações»).",
+    "Art. 4.º (norma transitória) e 5.º (entrada em vigor) são do alterador; não alteram o texto. O art. 21.º da republicação diz «decreto regulamentar regional» em vez de «portaria», mas nenhuma instrução o altera: mantido."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

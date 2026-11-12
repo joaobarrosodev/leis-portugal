@@ -144,7 +144,7 @@
     "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 17.º\n\n1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Tesouro e das Finanças, pelo Secretário de Estado do Orçamento e pelo Secretário de Estado dos Assuntos Fiscais.\n\n2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome.",
-    "depois": "###### Artigo 17.º\n\n1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Tesouro e Finanças, pelo Secretário de Estado do Orçamento e pelo Secretário de Estado dos Assuntos Fiscais.\n\n2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome.\n\n3 - O Gabinete do Plano de Desenvolvimento da Área de Sines encontra-se sob a tutela e superintendência do Ministro das Finanças.\n\n> Alterado pelo/a [Decreto-Lei n.º 247/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2001-642555), publicado em 2001-09-18.",
+    "depois": "###### Artigo 17.º\n\n1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Tesouro e Finanças, pelo Secretário de Estado do Orçamento e pelo Secretário de Estado dos Assuntos Fiscais.\n\n2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome.\n\n> Alterado pelo/a [Decreto-Lei n.º 247/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2001-642555), publicado em 2001-09-18.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

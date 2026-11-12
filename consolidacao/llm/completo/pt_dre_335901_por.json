@@ -114,26 +114,12 @@
   "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 260/2001), art. 1.º: nova redação do art. 18.º (alíneas e) a p) do n.º 1, alínea b) do n.º 2, novo n.º 3, anterior n.º 3 passa a n.º 4) e aditamento do n.º 3 ao art. 23.º; aplicado.",
-    "Alterador 1, art. 2.º: norma transitória sobre candidaturas ao CNP, sem alteração textual.",
-    "Alterador 2 (DL 307/2001), arts. 1.º e 2.º: altera arts. 15.º e 16.º e adita 16.º-A e 16.º-B; ficam sem efeito no texto final porque o alterador 4 os revoga. Art. 3.º (republicação) não é instrução textual.",
-    "Alterador 3 (DL 246/2002): altera e republica o DL 74/96; nenhuma instrução dirigida ao original.",
-    "Alterador 4 (DL 160/2008), art. 4.º: revoga as alíneas a), b) e d) do art. 2.º e os arts. 7.º a 16.º, 16.º-A, 16.º-B, 19.º, 20.º e 25.º; aplicado (revogação imediata, sem condição). Restantes artigos alteram o DL 209/2006."
+    "DL 260/2001 art. 1.º: nova redação do art. 18.º (alíneas e) a p) do n.º 1, alínea b) do n.º 2, novo n.º 3, anterior n.º 3 passa a n.º 4) — aplicado; e aditado n.º 3 ao art. 23.º — aplicado.",
+    "DL 307/2001 art. 1.º: altera arts. 15.º e 16.º; art. 2.º adita arts. 16.º-A e 16.º-B — absorvidos pela revogação posterior pelo DL 160/2008 (ficam (Revogado.), com as epígrafes dadas pelo DL 307/2001 aos aditados); republicação não usada como instrução.",
+    "DL 246/2002: só altera o DL 74/96 (na redação dada pelo 166/2000) — não é do original, ignorado.",
+    "DL 160/2008 art. 4.º: revoga as alíneas a), b) e d) do art. 2.º, os arts. 7.º a 16.º, 16.º-A, 16.º-B, 19.º, 20.º e 25.º — aplicado, um elemento por artigo."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4
-      ],
-      "chars": 151308,
-      "artigos": 18
-    }
-  ],
   "problemas": []
 }

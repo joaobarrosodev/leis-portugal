@@ -1,5 +1,19 @@
 [
   {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º\n\n1. A Junta Autónoma de Estradas disporá dos seguintes serviços técnicos e administrativos:\n\na) Gabinete de Estudos e Planeamento, compreendendo:",
+    "depois": "###### Artigo 13.º\n\n1. A Junta Autónoma de Estradas disporá dos seguintes serviços técnicos e administrativos:\n\na) Gabinete de Estudos e Planeamento, compreendendo:\n\ni) Serviços externos, compreendendo:\n\nCircunscrições de Estradas do Norte, do Centro, de Lisboa e do Sul, com sedes, respectivamente, no Porto, em Coimbra, em Lisboa e em Évora;\n\nDirecções de estradas, com sede nas capitais de todos os distritos do continente.\n\n> Alterado pelo/a [Decreto-Lei n.º 771/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/771-1976-409170), publicado em 1976-10-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:163788:por",
+    "alterador": "pt:dre:409170:por"
+  },
+  {
     "artigo": "16.º",
     "operacao": "substituir",
     "regra": "llm",

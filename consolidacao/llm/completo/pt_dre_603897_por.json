@@ -81,11 +81,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "A nova epígrafe da Secção I do Capítulo III ('Conselho diretivo') não corresponde a nenhum artigo do texto atual, que não tem divisões sistemáticas; não aplicada.",
+  "titulos": [
+    {
+      "atual": "#### SECÇÃO I — Direcção",
+      "novo": "#### SECÇÃO I — Conselho diretivo",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "DLR 3/2013/M art. 2.º: nova redação dos arts. 2.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 19.º e 21.º - aplicada, mantendo o texto atual nas unidades com '...'; epígrafe da Secção I - não aplicada.",
-    "DLR 3/2013/M art. 3.º: revoga alíneas o) e p) do art. 5.º e i) do art. 16.º - já revogadas no texto atual.",
-    "DLR 3/2013/M art. 4.º e art. 5.º (republicação): sem alteração textual adicional."
+    "Alt.1 (DLR 3/2013/M) art. 2.º: novas redações dos arts. 2.º, 5.º (n), o), p) já revogadas), 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º (n.º 2), 14.º, 19.º e 21.º; epígrafe da Secção I do Capítulo III passa a 'Conselho diretivo' (reparo confirmado)",
+    "Art. 3.º: revoga alíneas o) e p) do art. 5.º e i) do art. 16.º (já revogadas no texto atual)",
+    "Art. 4.º (transição de serviços) e art. 5.º (republicação) não alteram o texto"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

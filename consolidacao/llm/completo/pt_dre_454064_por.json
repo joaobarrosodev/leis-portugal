@@ -15,12 +15,13 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alt.1 art. 18.º: altera alíneas a) e c) do n.º 1 do art. 1.º e o art. 3.º; aplicado.",
-    "Alt.2 art. 54.º: altera proémio do art. 1.º e o art. 3.º; aplicado.",
-    "Alt.3 art. 57.º: altera proémio do art. 1.º (igual) e o art. 3.º; aplicado.",
-    "Alt.4 art. 5.º: altera alínea c) do n.º 1 do art. 1.º (2,5 %); aplicado. Restantes artigos dos alteradores dizem respeito a outros diplomas; ignorados."
+    "DLR 34/2009/M art. 18.º: art. 1.º a) passa a 13 % e c) a 2 % (com 'trabalho'); art. 3.º nova redação. Aplicado (o 13 % vem deste alterador, que está no pedido; reparo do verificador não procede).",
+    "DLR 42/2012/M art. 54.º: cabeça do art. 1.º 'receita do Serviço Regional de Proteção Civil, IP-RAM'; art. 3.º nova redação. Aplicado.",
+    "DLR 31-A/2013/M art. 57.º: cabeça do art. 1.º igual; art. 3.º nova redação (Tesouraria do Governo Regional, operações extraorçamentais). Aplicado; é a redação final do art. 3.º.",
+    "DLR 6/2015/M art. 5.º: art. 1.º c) passa a 2,5 %; a), b) e n.º 2 mantêm-se. Aplicado; numeração '1)'/'2)' do texto atual mantida por virem como '[...]'."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

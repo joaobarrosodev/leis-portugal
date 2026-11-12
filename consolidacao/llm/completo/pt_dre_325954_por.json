@@ -6,17 +6,28 @@
       "epigrafe": "",
       "texto": "As verbas da dotação de «Despesas com a descolonização» inscritas no orçamento da Secretaria de Estado da Administração Pública (Direcção-Geral de Fazenda) para o ano de 1979, destinadas aos encargos com pensões de aposentação e de sobrevivência, serão transferidas para o orçamento do Ministério das Finanças e do Plano para reforço das rubricas que venham a suportar as despesas resultantes da execução deste decreto-lei.",
       "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "1 - A partir de 1 de Julho de 1979, os desligados do serviço para efeitos de aposentação, aposentados e pensionistas de sobrevivência que estão a ser abonados das suas pensões pela Direcção-Geral de Fazenda, da Secretaria de Estado da Administração Pública, passam a ser pagos mediante crédito em conta de depósito na Caixa Económica Portuguesa (Caixa Geral de Depósitos).\n\n2 - A Direcção-Geral de Fazenda providenciará no sentido de os beneficiários das pensões promoverem a abertura das respectivas contas de depósito nos cofres da Caixa Geral de Depósitos onde pretendem que as mesmas lhes sejam creditadas.\n\n3 - O Instituto de Informática do Ministério das Finanças e do Plano fornecerá à Direcção dos Serviços de Informática da Caixa Geral de Depósitos uma cópia, em suporte magnético, dos aposentados e pensionistas de sobrevivência a que se refere o n.º 1, em relação a 31 de Maio de 1979.\n\n4 - A Direcção-Geral de Fazenda e a Direcção dos Serviços de Informática da Caixa Geral de Depósitos efectuarão as diligências necessárias para que, até ao dia 30 de Junho de 1979, seja criado um ficheiro, em suporte magnético, dos desligados do serviço para efeitos de aposentação, de modo que com a entrada em vigor do presente diploma não haja interrupção no abono das respectivas pensões.\n\n5 - A Direcção-Geral de Fazenda fornecerá ainda os elementos complementares que se mostrarem necessários ao aproveitamento ou adaptação dos ficheiros referidos nos n.os 3 e 4 aos esquemas de trabalho mecanográfico da Caixa Geral de Depósitos.",
+      "alterador": 1
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Decreto-Lei 60/79, art. 1.º (novo prazo de noventa dias para a publicação das listas do n.º 2 do art. 2.º) e art. 2.º (as datas dos n.os 1, 3 e 4 do art. 8.º são fixadas em 1 de Julho, 31 de Maio e 30 de Junho de 1979): fixam prazos e datas sem dar nova redação; não aplicadas ao texto.",
+  "titulos": [],
+  "nao_aplicavel": "Art. 1.º do DL 60/79: fixa em noventa dias após a entrada em vigor do DL 60/79 o prazo de publicação das listas do n.º 2 do artigo 2.º; não é uma nova redação do texto (o prazo conta-se de outro diploma e o texto do n.º 2 do art. 2.º, 'vinte dias após a entrada em vigor deste diploma', não pode ser reescrito sem inventar redação), pelo que o art. 2.º fica como está.",
   "instrucoes": [
-    "Decreto-Lei 60/79 art. 1.º: novo prazo para as listas do art. 2.º, n.º 2; sem redação; não aplicado.",
-    "Decreto-Lei 60/79 art. 2.º: novas datas para os n.os 1, 3 e 4 do art. 8.º; sem redação; não aplicado.",
-    "Decreto-Lei 60/79 art. 3.º: nova redação do art. 6.º; aplicada.",
-    "Portaria 26-B/80 n.º 6: substitui o quadro de pessoal da Direcção-Geral de Fazenda (diploma de outro serviço); não altera o texto do original."
+    "Alt.1 (DL 60/79) art.1.º: prazo das listas do n.º 2 do art. 2.º — não textual, ver nao_aplicavel.",
+    "Alt.1 art.2.º: datas dos n.os 1, 3 e 4 do art. 8.º passam a 1 de Julho, 31 de Maio e 30 de Junho de 1979: substituídas as datas (1 de Abril de 1979, 31 de Dezembro de 1978, 31 de Janeiro de 1979).",
+    "Alt.1 art.3.º: nova redação do art. 6.º: aplicada.",
+    "Alt.2 (Portaria 26-B/80): substitui quadros de pessoal, não altera o texto do original: nada a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [
+    "8.º: parágrafo que não está no alterador nem no original: 1 - A partir de 1 de Julho de 1979, os desligados do serviço para efeitos de apo",
+    "8.º: parágrafo que não está no alterador nem no original: 3 - O Instituto de Informática do Ministério das Finanças e do Plano fornecerá à",
+    "8.º: parágrafo que não está no alterador nem no original: 4 - A Direcção-Geral de Fazenda e a Direcção dos Serviços de Informática da Caix"
+  ]
 }

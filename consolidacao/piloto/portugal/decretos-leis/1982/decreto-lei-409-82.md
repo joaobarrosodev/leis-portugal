@@ -86,7 +86,9 @@ Os rendimentos de quaisquer títulos da dívida pública auferidos pelo Banco de
 
 ###### Artigo 7.º — (Regulamentação)
 
-Dentro do prazo de 60 dias a contar da publicação deste diploma o Governo publicará as normas necessárias à sua execução.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30.
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
 

@@ -454,7 +454,7 @@ b) Os elementos individuais do dispositivo de protecção contra o encaixe devem
 
 c) Os elementos individuais do dispositivo de protecção contra o encaixe devem ter dimensões suficientes para cumprir o disposto no n.º 7 do artigo anterior, pelo qual se determinam as posições relativas dos pontos de ensaio, e no caso de os pontos P1 estarem situados na área de interrupção mencionada no n.º 1, os pontos P1 a utilizar devem estar situados no centro de qualquer secção lateral do dispositivo de protecção à retaguarda contra o encaixe.
 
-2 - Não se aplica o disposto na alínea a) do n.º 5 do artigo anterior à área de interrupção do dispositivo de protecção contra o encaixe para efeitos de montagem da plataforma elevatória.»
+2 - Não se aplica o disposto na alínea a) do n.º 5 do artigo anterior à área de interrupção do dispositivo de protecção contra o encaixe para efeitos de montagem da plataforma elevatória.
 
 > Aditado pelo/a [Decreto-Lei n.º 133/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790), publicado em 2008-07-21.
 

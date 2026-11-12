@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-01-01'
+version_history:
+  file: decreto-lei-183-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-08-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-01-01'
+    amending: pt:dre:315337:por
+    amending_title: Lei n.º 30-D/2000; Decreto-Lei n.º 324/2003
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/183/2000/08/10/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:18:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 30-D/2000; Decreto-Lei n.º
+    324/2003. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-183-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -348,6 +364,8 @@ c) Enviados através de telecópia ou por correio electrónico, sendo neste últ
 
 5 - Sem prejuízo das disposições legais relativas à petição inicial, a falta de junção do documento referido no número anterior não implica a recusa da peça processual, devendo a parte proceder à sua junção nos 10 dias subsequentes à prática do acto processual, sob pena de aplicação das cominações previstas nas disposições relativas a custas judiciais.
 
+6 - O disposto na primeira parte do n.º 1 não é exigível aos casos em que as partes não tenham constituído mandatário, por o patrocínio judiciário não ser obrigatório.
+
 Artigo 152.º
 
 [...]
@@ -422,11 +440,11 @@ Artigo 238.º
 
 Frustração da citação por via postal
 
-1 - No caso de se frustrar a citação por via postal, a secretaria obterá informação sobre a residência, local de trabalho ou, tratando-se de pessoa colectiva ou sociedade, sobre a sede ou local onde funciona normalmente a administração do citando, nas bases de dados dos serviços de identificação civil, da segurança social, da Direcção-Geral dos Impostos e da Direcção-Geral de Viação.
+1 - No caso de se frustrar a citação por via postal, a secretaria obterá, oficiosamente, informação sobre a residência, local de trabalho ou, tratando-se de pessoa colectiva ou sociedade, sobre a sede ou local onde funciona normalmente a administração do citando, nas bases de dados dos serviços de identificação civil, da segurança social, da Direcção-Geral dos Impostos e da Direcção-Geral de Viação.
 
-2 - Se a residência, local de trabalho, sede ou local onde funciona normalmente a administração do citando, para o qual se endereçou a carta registada com aviso de recepção, coincidir com o local obtido junto de todos os serviços enumerados no número anterior, procede-se à citação por via postal por meio de carta simples, dirigida ao citando e endereçada para esse local, aplicando-se o disposto nos n.os 5 a 7 do artigo 236.º-A.
+2 - Se a residência, local de trabalho, sede ou local onde funciona normalmente a administração do citando, para o qual se endereçou a carta registada com aviso de recepção, coincidir com o local obtido junto de todos os serviços enumerados no número anterior, procede-se à citação por via postal simples, dirigida ao citando e endereçada para esse local, aplicando-se o disposto nos n.os 5 a 7 do artigo 236.º-A.
 
-3 - Se a residência, local de trabalho, sede ou local onde funciona normalmente a administração do citando, para o qual se endereçou a carta registada com aviso de recepção ou a carta simples, não coincidir com o local obtido nas bases de dados de todos os serviços enumerados no n.º 1, ou se nestas constarem várias residências, locais de trabalho ou sedes, será expedida uma carta simples para cada um desses locais.
+3 - Se a residência, local de trabalho, sede ou local onde funciona normalmente a administração do citando, para o qual se endereçou a citação, não coincidir com o local obtido nas bases de dados de todos os serviços enumerados no n.º 1, ou se nestas constarem várias residências, locais de trabalho ou sedes, procede-se à citação por via postal simples para cada um desses locais.
 
 Artigo 239.º
 
@@ -484,7 +502,7 @@ b) ...
 
 2 - ...
 
-3 - Quando o réu haja sido citado para a causa no estrangeiro, ou a citação haja sido edital ou por via postal simples ao abrigo do disposto no artigo 236.º-A, a dilação é de 30 dias.
+3 - Quando o réu haja sido citado para a causa no estrangeiro, ou a citação haja sido edital ou por via postal simples, a dilação é de 30 dias.
 
 4 - ...
 
@@ -492,7 +510,7 @@ Artigo 257.º
 
 [...]
 
-1 - As notificações que tenham por fim chamar ao tribunal testemunhas, peritos e outras pessoas com intervenção acidental na causa são feitas mediante expedição de carta simples, indicando-se a data, o local e o fim da comparência.
+1 - As notificações que tenham por fim chamar ao tribunal testemunhas, peritos e outras pessoas com intervenção acidental na causa são feitas mediante expedição de carta simples, indicando-se a data, o local e o fim da comparência, com cumprimento do disposto nos n.os 5 e 6 do artigo 236.º-A.
 
 2 - ...
 
@@ -530,7 +548,7 @@ Artigo 474.º
 
 [...]
 
-1 - A secretaria recusa o recebimento da petição inicial indicando por escrito o fundamento da rejeição, quando ocorrer algum dos seguintes factos:
+A secretaria recusa o recebimento da petição inicial indicando por escrito o fundamento da rejeição quando ocorrer algum dos seguintes factos:
 
 a) ...
 
@@ -538,17 +556,17 @@ b) ...
 
 c) Não indique o domicílio profissional do mandatário judicial;
 
-d) [Anterior alínea c).]
+d) [Anterior alínea c).];
 
-e) [Anterior alínea d).]
+e) [Anterior alínea d).];
 
 f) Não tenha sido junto o documento comprovativo do prévio pagamento da taxa de justiça inicial ou o documento que ateste a concessão de apoio judiciário, excepto no caso previsto no n.º 4 do artigo 467.º;
 
-g) [Anterior alínea e).]
+g) [Anterior alínea e)];
 
-h) [Anterior alínea f).]
+h) [Anterior alínea f)];
 
-i) [Anterior alínea g).]
+i) [Anterior alínea g)].
 
 Artigo 476.º
 
@@ -646,13 +664,13 @@ Inquirição por teleconferência
 
 1 - As testemunhas residentes fora do círculo judicial, ou da respectiva ilha, no caso das Regiões Autónomas, são apresentadas pelas partes, nos termos do n.º 2 do artigo 628.º, quando estas assim o tenham declarado aquando do seu oferecimento, ou são ouvidas por teleconferência na própria audiência e a partir do tribunal da comarca da área da sua residência ou, caso nesta não existam ainda os meios necessários para tanto, a partir do tribunal da sede do círculo judicial da sua residência.
 
-2 - O tribunal onde corre a causa comunicará e indagará junto do tribunal onde a testemunha prestará depoimento, do dia e da hora para a sua inquirição e, quando for agendada a data da sua realização, notificará a referida testemunha da data, hora e local da mesma mediante via postal simples.
+2 - O tribunal onde corre a causa comunicará e indagará junto do tribunal onde a testemunha prestará depoimento do dia e da hora para a sua inquirição e, quando for agendada a data da sua realização, notificará a referida testemunha da data, hora e local da mesma mediante via postal simples, com cumprimento do disposto nos n.os 5 e 6 do artigo 236.º-A.
 
 3 - No dia da inquirição, a testemunha identifica-se perante o funcionário judicial do tribunal onde o depoimento é prestado, mas a partir desse momento a inquirição é efectuada perante o tribunal da causa e os mandatários das partes, via teleconferência, sem necessidade de intervenção do juiz do tribunal onde o depoimento é prestado.
 
 4 - As testemunhas residentes no estrangeiro são inquiridas por teleconferência sempre que no local da sua residência existam os meios técnicos necessários.
 
-5 - Nas causas pendentes em tribunais sediados nas áreas metropolitanas de Lisboa e do Porto não se expedirá carta precatória nem existirá inquirição por teleconferência quando a testemunha a inquirir resida na respectiva circunscrição, ressalvando-se os casos previstos no artigo 639.º-B.
+5 - Nas causas pendentes em tribunais sediados nas áreas metropolitanas de Lisboa e do Porto não existirá inquirição por teleconferência quando a testemunha a inquirir resida na respectiva circunscrição, ressalvando-se os casos previstos no artigo 639.º-B.
 
 Artigo 629.º
 
@@ -660,7 +678,7 @@ Artigo 629.º
 
 1 - ...
 
-2 - A falta de alguma testemunha não é motivo de adiamento, sendo as testemunhas presentes ouvidas, mesmo que tal implique a alteração da ordem em que estiverem mencionadas no rol ou a enunciada na primeira parte do n.º 1 do artigo 634.º, podendo nesse caso qualquer das partes requerer a gravação da audiência logo após a abertura da mesma.
+2 - A falta de alguma testemunha não é motivo de adiamento, sendo as testemunhas presentes ouvidas, sem prejuízo do disposto na primeira parte do artigo 634.º, mesmo que tal implique a alteração da ordem em que estiverem mencionadas no rol, podendo, nesse caso, qualquer das partes requerer a gravação da audiência logo após a abertura da mesma.
 
 3 - No caso da parte não prescindir de alguma testemunha faltosa, observar-se-á o seguinte:
 
@@ -668,7 +686,7 @@ a) ...
 
 b) Se a impossibilidade for meramente temporária, a parte pode substituí-la ou, se não for possível depor ao abrigo do disposto nos artigos 639.º e 639.º-B e o tribunal reconhecer que existe grave inconveniente para a descoberta da verdade na sua não audição, a inquirição é adiada`, marcando-se de imediato a continuação num prazo que se afigurar razoável, nunca excedente a 30 dias;
 
-c) Se tiver mudado de residência depois de oferecida, pode a parte substituí-la ou requerer ao juiz que determine a sua inquirição nos termos do n.º 3 do artigo 623.º;
+c) Se tiver mudado de residência depois de oferecida, pode a parte substituí-la ou requerer ao juiz que determine a sua inquirição nos termos do artigo 623.º;
 
 d) Se não tiver sido notificada, devendo tê-lo sido, ou se deixar de comparecer por outro impedimento legítimo, poderá aplicar-se o regime previsto nos artigos 639.º e 639.º-B ou adiar-se a inquirição, marcando-se de imediato a sua realização para um dos 30 dias seguintes;
 
@@ -778,6 +796,8 @@ Artigo 796.º
 
 7 - A sentença, julgando a matéria de facto e de direito, é sucintamente fundamentada e logo ditada para a acta.»
 
+> Alterado pelo/a [Lei n.º 30-D/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-d-2000-315337), publicado em 2000-12-20.
+
 ###### Artigo 2.º — Aditamentos ao Código de Processo Civil
 
 São aditados ao Código de Processo Civil os artigos 229.º-A, 236.º-A, 238.º-A, 260.º-A e 638.º-A, com a seguinte redacção:
@@ -872,9 +892,9 @@ Até ao dia 30 de Novembro de 2000, as entidades prestadoras de serviços vincul
 
 ###### Artigo 7.º — Disposições finais e transitórias
 
-1 - O regime previsto nos n.os 1 a 4 do artigo 150.º entra em vigor no dia 1 de Janeiro de 2003, podendo as partes dele prevalecer-se desde o dia 1 de Janeiro de 2001.
+1 - (Revogado.)
 
-2 - A partir do dia 1 de Janeiro de 2003, os n.os 1 a 5 do artigo 152.º deixam de se aplicar aos articulados e às alegações e contra-alegações escritas.
+2 - (Revogado.)
 
 3 - O regime estabelecido no presente diploma é imediatamente aplicado aos processos pendentes em que a citação do réu ou de terceiros ainda não tenha sido efectuada ou ordenada.
 
@@ -889,6 +909,8 @@ Até ao dia 30 de Novembro de 2000, as entidades prestadoras de serviços vincul
 8 - O regime de direito probatório emergente da lei nova apenas é aplicável às provas que venham a ser requeridas ou oficiosamente ordenadas após a data da sua entrada em vigor.
 
 9 - A lei nova é imediatamente aplicável às causas de adiamentos das audiências.
+
+> Alterado pelo/a [Decreto-Lei n.º 324/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2003-424101), publicado em 2003-12-27.
 
 ###### Artigo 8.º — Entrada em vigor
 

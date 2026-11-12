@@ -19,15 +19,15 @@ consolidacao:
   - id: pt:dre:180473:por
     title: Decreto-Lei n.º 21/99
     publication_date: '1999-01-28'
+  - id: pt:dre:306915:por
+    title: Decreto-Lei n.º 320-A/2002
+    publication_date: '2002-12-30'
   - id: pt:dre:603511:por
     title: Decreto-Lei n.º 289/2001
     publication_date: '2001-11-13'
   - id: pt:dre:576276:por
     title: Decreto-Lei n.º 315/2001
     publication_date: '2001-12-10'
-  - id: pt:dre:306915:por
-    title: Decreto-Lei n.º 320-A/2002
-    publication_date: '2002-12-30'
 ---
 
 # Decreto-Lei n.º 158/96
@@ -600,7 +600,7 @@ O Fundo de Regularização da Dívida Pública (FRDP) é um fundo autónomo não
 
 ###### Artigo 24.º — Fundos de Estabilização Aduaneiro e Tributário
 
-1 - (Actual corpo do artigo.)
+1 - O Fundo de Estabilização Aduaneiro (FEA) é um fundo autónomo não personalizado do Ministério das Finanças, gerido pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, cuja função genérica consiste em suportar os encargos com o pagamento dos suplementos e abonos previstos no artigo 4.º do Decreto-Lei n.º 274/90, de 7 de Setembro.
 
 2 - É criado o Fundo de Estabilização Tributário (FET), que tem a mesma natureza do FEA, gerido em conjunto pela Direcção-Geral dos Impostos e pela Direcção-Geral de Informática e Apoio aos Serviços Tributários.
 
@@ -611,6 +611,8 @@ O Fundo de Regularização da Dívida Pública (FRDP) é um fundo autónomo não
 5 - Os órgãos do FET e a forma de participação dos trabalhadores na sua gestão, bem como o âmbito e modalidades de atribuição dos suplementos a que se refere o número anterior, serão definidos por decreto-lei, cabendo ao Ministério das Finanças estabelecer, mediante portaria, as regras de gestão e de funcionamento do Fundo.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1997-383444), publicado em 1997-05-08.
+
+> Alterado pelo/a [Decreto-Lei n.º 107/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1997-383444), publicado em 1997-05-08.
 
 ##### SUBSECÇÃO III — Órgãos de apoio
 

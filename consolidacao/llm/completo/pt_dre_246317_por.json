@@ -39,10 +39,12 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alínea c) do art. 22.º do DLR n.º 19/2010/M ressalva o n.º 4 do art. 2.º apenas 'na parte em que remete para o referido artigo 5.º': revogação parcial dentro do número sem alvo textual exato; o n.º 4 foi mantido por inteiro.",
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (DLR 19/2010/M), art. 22.º, alínea c): o n.º 4 do art. 2.º só se mantém 'na parte em que remete para o referido artigo 5.º', ficando revogada a parte que remete para o capítulo iv do Decreto-Lei n.º 112/2001; essa revogação parcial dentro do número não tem texto de substituição e não se pode aplicar com segurança, pelo que o n.º 4 se mantém com o texto atual. A revogação genérica das 'disposições legais contrárias' (corpo do art. 22.º) é condicional e não se aplica.",
   "instrucoes": [
-    "Art. 22.º, c), do alterador 1: revoga o DLR n.º 10/2008/M com exceção do art. 5.º e do n.º 4 do art. 2.º — arts. 1.º, 3.º, 4.º, 6.º e 7.º e n.os 1 a 3 do art. 2.º revogados; art. 5.º mantido.",
-    "Restantes alíneas do art. 22.º: revogam outros diplomas — ignoradas."
+    "Alt. 1, art. 22.º c): revoga o DLR 10/2008/M exceto o art. 5.º e o n.º 4 do art. 2.º — revogados os arts. 1.º, 3.º, 4.º, 6.º e 7.º e os n.os 1 a 3 do art. 2.º; art. 5.º mantido.",
+    "N.º 4 do art. 2.º: revogação parcial (parte que remete para o cap. iv do DL 112/2001) não aplicada ao texto — ver nao_aplicavel (reparo do verificador ponderado).",
+    "Restantes artigos do alterador regulam matéria própria ou revogam outros diplomas — ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

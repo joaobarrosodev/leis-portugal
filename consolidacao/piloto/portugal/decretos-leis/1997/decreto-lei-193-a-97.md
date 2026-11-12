@@ -115,8 +115,6 @@ a) A sociedade dominante ficará obrigada a não exercer o direito que lhe é co
 
 b) Os titulares de acções adquiridas no âmbito da oferta pública de venda não poderão, em relação às mesmas, durante 3 anos contados da data de realização da sessão especial de bolsa destinada à execução da oferta, exercer os direitos consagrados nos n.os 5 e 6 do artigo 490.º do Código das Sociedades Comerciais.
 
-5 - Para efeitos do disposto no número 2 do artigo 2.º, consideram-se trabalhadores da SETENAVE as pessoas que se encontram nas condições previstas no artigo 12.º da Lei 11/90, de 5 de Abril, em relação à SETENAVE - Estaleiros Navais de Setúbal, S. A.
-
 > Alterado pelo/a [Decreto-Lei n.º 77/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1998-198117), publicado em 1998-03-27.
 
 ###### Artigo 7.º — Regime de Indisponibilidade das Acções de Trabalhadores e Pequenos Subscritores

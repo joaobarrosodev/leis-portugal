@@ -93,15 +93,16 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "nao_aplicavel": "Artigo 35.º: o reparo pede que se acrescente o cabeçalho 'II - Do Fundo Madeirense do Seguro de Colheitas' a seguir ao corpo revogado, mas esse texto não consta do texto atual do original nem de nenhum alterador do pedido (só aparece no próprio reparo); não se inventa, e o artigo fica '(Revogado.)' como está. Artigo 24.º: o quadro das taxas dado pelo alterador 3 só existe em imagem ('ver documento original'); copia-se a ligação tal como vem, sem o conteúdo do quadro.",
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação do art. 28.º - aplicada.",
-    "Alterador 1, art. 2.º: revoga os arts. 34.º e 35.º - já estão (Revogado.) no texto atual, sem mudança.",
-    "Alterador 2, art. 1.º: nova alínea d) do art. 12.º (depois substituída pela redação do alterador 3) e novas alíneas b) e c) do art. 38.º - aplicadas.",
-    "Alterador 2, art. 2.º: aditada alínea e) ao art. 38.º - aplicada (alterador 2).",
-    "Alterador 2, art. 3.º: revoga o art. 14.º - (Revogado.).",
-    "Alterador 3, art. 1.º: novas redações dos arts. 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 12.º, 19.º, 22.º, 24.º e 30.º; os '...' mantêm o texto atual (1.º a), 12.º c), 19.º proémio e b), 30.º proémio, a) e c)). 1.º, 6.º e 7.º voltam a ser alterados pelo alterador 4.",
-    "Alterador 4, art. 1.º: novas redações dos arts. 1.º (proémio, b), c) e nova d); a) mantida), 6.º (a) nova; proémio, b), c) e d) da redação do alterador 3), 7.º e 15.º (dois números) - aplicadas."
+    "Alterador 1 (DRR 13/85/M), art. 1.º: nova redação do art. 28.º — aplicado.",
+    "Alterador 1, art. 2.º: revoga os arts. 34.º e 35.º — já refletido no texto atual ((Revogado.)); cabeçalho 'II - ...' pedido pelo reparo não está no pedido (nao_aplicavel).",
+    "Alterador 2 (DRR 22/87/M), art. 1.º: nova alínea d) do art. 12.º (depois substituída pelo alterador 3) e novas alíneas b) e c) do art. 38.º — aplicadas.",
+    "Alterador 2, art. 2.º: adita a alínea e) ao art. 38.º — aplicado.",
+    "Alterador 2, art. 3.º: revoga o art. 14.º — aplicado.",
+    "Alterador 3 (DRR 25/93/M), art. 1.º: novas redações dos arts. 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 12.º, 19.º, 22.º, 24.º e 30.º (os '...' mantêm o texto atual) — aplicadas; arts. 1.º, 6.º e 7.º depois alterados pelo alterador 4.",
+    "Alterador 4 (DRR 12/99/M), art. 1.º: novas redações dos arts. 1.º (com nova alínea d)), 6.º (alínea a); corpo, b), c) e d) da redação do alterador 3), 7.º e 15.º — aplicadas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

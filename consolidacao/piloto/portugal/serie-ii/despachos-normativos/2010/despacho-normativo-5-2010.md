@@ -58,7 +58,7 @@ iii) Entre 487 501 kg e 650 000 kg de leite - 2,073 (euro) por tonelada.
 
 2 - Excepcionalmente, as candidaturas referidas no número anterior podem ainda ser formalizadas pelos agricultores no dia 7 de Maio de 2010, junto do IFAP, I. P., nos termos definidos no âmbito do Sistema Integrado de Gestão e Controlo (SIGC), para os produtores do território continental, e no dia 6 de Maio de 2010, integradas nos pedidos de ajuda às medidas a favor das produções agrícolas locais do POSEI, para os produtores da Região Autónoma dos Açores.
 
-3 - As candidaturas formalizadas pelos agricultores no território continental e objecto de recolha informática directa, no período referido no número anterior, devem ser enviadas para o IFAP, I. P., em suporte de papel, pelas entidades referidas no n.º 1 do artigo 3.º do despacho normativo n.º 4/2010, de 5 de Fevereiro, até ao dia 10 de Maio de 2010.»
+3 - As candidaturas formalizadas pelos agricultores no território continental e objecto de recolha informática directa, no período referido no número anterior, devem ser enviadas para o IFAP, I. P., em suporte de papel, pelas entidades referidas no n.º 1 do artigo 3.º do despacho normativo n.º 4/2010, de 5 de Fevereiro, até ao dia 10 de Maio de 2010.
 
 > Alterado pelo/a [Despacho Normativo n.º 23/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2010-1314399), publicado em 2010-09-16.
 

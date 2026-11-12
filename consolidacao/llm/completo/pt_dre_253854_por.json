@@ -2,89 +2,84 @@
   "id": "pt:dre:253854:por",
   "artigos": [
     {
-      "chave": "1.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
       "chave": "5.º",
-      "epigrafe": "",
+      "epigrafe": "[...]",
       "texto": "(Revogado.)",
       "alterador": 1
     },
     {
       "chave": "9.º",
-      "epigrafe": "",
+      "epigrafe": "[...]",
       "texto": "(Revogado.)",
       "alterador": 1
     },
     {
       "chave": "13.º",
-      "epigrafe": "",
+      "epigrafe": "[...]",
       "texto": "(Revogado.)",
       "alterador": 1
     },
     {
       "chave": "15.º",
-      "epigrafe": "",
+      "epigrafe": "[...]",
       "texto": "(Revogado.)",
       "alterador": 1
     },
     {
       "chave": "24.º",
-      "epigrafe": "",
+      "epigrafe": "[...]",
       "texto": "(Revogado.)",
       "alterador": 1
     },
     {
       "chave": "28.º",
-      "epigrafe": "",
+      "epigrafe": "[...]",
       "texto": "(Revogado.)",
       "alterador": 1
     },
     {
       "chave": "30.º",
-      "epigrafe": "",
+      "epigrafe": "[...]",
       "texto": "(Revogado.)",
       "alterador": 1
     },
     {
       "chave": "43.º",
-      "epigrafe": "",
+      "epigrafe": "[...]",
       "texto": "(Revogado.)",
       "alterador": 1
     },
     {
       "chave": "48.º",
-      "epigrafe": "",
+      "epigrafe": "[...]",
       "texto": "(Revogado.)",
       "alterador": 1
     },
     {
       "chave": "56.º",
-      "epigrafe": "",
+      "epigrafe": "[...]",
       "texto": "(Revogado.)",
       "alterador": 1
     },
     {
       "chave": "62.º",
-      "epigrafe": "",
+      "epigrafe": "[...]",
       "texto": "(Revogado.)",
       "alterador": 1
     },
     {
       "chave": "63.º",
-      "epigrafe": "",
+      "epigrafe": "[...]",
       "texto": "(Revogado.)",
       "alterador": 1
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (Lei n.º 13/96), art. 1.º: a revogação da Lei n.º 7/94 não abrange a alteração ao n.º 3 do artigo 1.º da Lei n.º 86/89, que é a única alteração feita pelo artigo 1.º da Lei n.º 7/94; por isso o artigo 1.º fica como está (não revogado). Os arts. 2.º e 3.º da Lei n.º 13/96 alteram a Lei n.º 86/89, não a Lei n.º 7/94: ignorados.",
   "instrucoes": [
-    "Art. 1.º: revoga a Lei n.º 7/94 na totalidade — todos os artigos ficam (Revogado.).",
-    "Arts. 2.º e 3.º: alteram os artigos 13.º e 14.º da Lei n.º 86/89 — não são dirigidos ao original."
+    "Alt.1 art.1.º: revogada a Lei n.º 7/94 — todos os artigos com (Revogado.), exceto o 1.º (alteração ao n.º 3 do art. 1.º da Lei 86/89 salvaguardada), que fica inalterado",
+    "Alt.1 arts. 2.º e 3.º: alteram a Lei n.º 86/89 — ignorados"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

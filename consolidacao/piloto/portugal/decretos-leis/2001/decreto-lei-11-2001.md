@@ -158,9 +158,19 @@ A sociedade adopta a designação de VALNOR - Valorização e Tratamento de Res�
 
 ###### Artigo 3.º
 
-1 - A sociedade tem por objecto social exclusivo a exploração e gestão do sistema multimunicipal do Norte Alentejano para triagem, recolha, valorização e tratamento de resíduos sólidos urbanos dos municípios de Alter do Chão, Arronches, Avis, Campo Maior, Castelo de Vide, Crato, Elvas, Fronteira, Marvão, Monforte, Nisa, Ponte de Sor, Portalegre e Sousel.
+1 - A sociedade, tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de triagem, recolha, valorização e tratamento de resíduos sólidos urbanos do Norte Alentejano.
 
-2 - A sociedade poderá, desde que para o efeito esteja habilitada, exercer outras actividades para além daquelas que constituem o objecto da concessão, desde que consideradas acessórias ou complementares e devidamente autorizadas pelo concedente, nomeadamente a actividade de promoção da recolha indiferenciada dos resíduos sólidos urbanos produzidos na área dos municípios utilizadores.
+2 - A exploração e a gestão referidas no número anterior compreendem:
+
+a) A conceção e construção de todas as instalações necessárias ao tratamento de resíduos urbanos gerados nas áreas dos municípios utilizadores, incluindo, nomeadamente, a construção de centrais de processamento, a construção de aterros e de estações de transferência, respetivos acessos e sua extensão, reparação e renovação de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis;
+
+b) A aquisição, manutenção e renovação de todos os equipamentos e meios de transporte necessários ao tratamento dos resíduos urbanos que deva receber;
+
+c) O fornecimento, instalação, gestão, exploração, manutenção e renovação dos equipamentos necessários à recolha seletiva colocados em espaço público e ou privado de utilização pública.
+
+3 - A sociedade pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 4.º
 
@@ -172,29 +182,23 @@ A sociedade pode participar em quaisquer outras sociedades ou entidades legais c
 
 1 - O capital social é de 1500000 euros, encontrando-se realizados 450000 euros, devendo o remanescente, na importância de 1050000 euros, ser realizado em dinheiro, por uma ou mais vezes, até três anos contados da constituição da sociedade, de acordo com as chamadas do conselho de administração, feitas por escrito, mediante carta registada, com aviso de recepção, com a antecedência mínima de 60 dias relativamente ao momento de realização das entradas.
 
-2 - O capital social é representado por 1500000 acções da classe A, com o valor nominal de 1 euro cada uma.
+2 - O capital social é representado por 10 000 000 ações com o valor nominal de (euro) 1,00 cada uma.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 6.º
 
-1 - O conselho de administração poderá, por uma ou mais vezes, deliberar o aumento de capital até ao montante global de 3500000 euros.
+(Revogado.)
 
-2 - Os aumentos de capital social serão realizados através da emissão de acções das classes A e B, devendo as acções da classe A representar sempre, pelo menos, 51% do capital social com direito a voto.
-
-3 - A subscrição de acções da classe A é reservada aos accionistas titulares de acções do mesmo tipo.
-
-4 - Os accionistas titulares de acções da classe A têm direito a subscrever um número de acções dessa classe proporcional ao número de acções da mesma classe de que já sejam titulares.
-
-5 - Apenas poderão ser titulares das acções pertencentes à classe A os municípios utilizadores do sistema multimunicipal de tratamento de resíduos sólidos urbanos do Norte Alentejano e os entes públicos, entendidos estes nos termos da alínea e) do n.º 2 da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.
-
-6 - Caso as acções da classe A possam, pela ocorrência de qualquer facto, passar a representar uma percentagem do capital social com direito a voto inferior à referida no n.º 2, a sociedade deverá proceder previamente a um aumento de capital social por emissão dessa classe de acções, de forma a garantir o cumprimento daquele rácio.
-
-7 - Desde que não seja ultrapassado o limite fixado no n.º 2, as acções da classe A poderão ser convertidas em acções da classe B, a pedido do seu titular e mediante prévia deliberação favorável da assembleia geral.
+> Revogado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 7.º
 
 1 - Poderão ser emitidas acções preferenciais sem voto, até ao montante máximo de 50% do capital social, nos termos e condições definidos na deliberação dos accionistas.
 
-2 - Por deliberação dos accionistas, as acções preferenciais poderão ser sujeitas a remissão, devendo ser feita pelo valor nominal das acções, eventualmente acrescido de um prémio determinado pela mesma deliberação.
+2 - Por deliberação dos acionistas, as ações preferenciais podem ser sujeitas a remição, devendo ser feita pelo valor nominal das ações, eventualmente acrescido de um prémio determinado pela mesma deliberação.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 8.º
 
@@ -202,33 +206,51 @@ A sociedade pode participar em quaisquer outras sociedades ou entidades legais c
 
 2 - Serão emitidos títulos que poderão representar 1, 5, 10, 100, 1000 ou 100000 acções, os quais poderão, em qualquer altura e a requerimento de qualquer accionista, que suportará o respectivo custo, ser substituídos por agrupamento ou divisão.
 
-3 - Os títulos representativos das acções deverão mencionar a classe de acções que incorporam.
+3 - (Revogado.)
 
 4 - Os títulos serão assinados por dois administradores, podendo a assinatura ser de chancela por eles autorizada.
 
 5 - Mediante prévia deliberação dos accionistas, é autorizada a emissão de acções escriturais ou a conversão de acções tituladas em escriturais, nos termos da legislação aplicável.
 
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
+
 ###### Artigo 9.º
 
-1 - As acções da classe A apenas poderão ser transmitidas a favor dos demais accionistas da mesma classe de acções, a favor das entidades referidas no n.º 5 do artigo 6.º e, sempre sem prejuízo do aí disposto, no caso de cisão ou fusão de uma sociedade detentora desta classe de acções, para as sociedades que resultem dessa fusão ou cisão.
+1 - (Revogado.)
 
-2 - A transmissão de acções em violação do disposto no número anterior é nula.
+2 - (Revogado.)
 
-3 - Existe direito de preferência na transmissão de acções da classe A, primeiro a favor da sociedade e depois a favor dos accionistas titulares da mesma classe de acções, devendo o alienante informar por escrito a sociedade desse facto, indicando o adquirente, o preço oferecido e, se este não for em dinheiro, o seu equivalente em dinheiro, bem como as demais condições de venda.
+3 - A transmissão de ações fica subordinada ao consentimento da sociedade.
 
-4 - Querendo o accionista transmitir acções da classe A, deve informar por escrito a sociedade desse facto, mediante carta registada com aviso de recepção, identificando o previsto adquirente, indicando as contrapartidas oferecidas e respectiva valoração, bem como as demais condições da projectada transmissão.
+4 - Existe direito de preferência dos acionistas na transmissão de ações, devendo o alienante informar cada um dos demais acionistas, por escrito desse facto, indicando o adquirente, o preço oferecido e, se este não for em dinheiro, o seu equivalente em dinheiro, bem como as demais condições de venda.
 
-5 - A sociedade, caso não pretenda exercer o direito de preferência, o que deverá decidir no prazo de 60 dias contados da data de recepção da carta mencionada no número anterior, comunicará a todos os accionistas titulares da mesma classe de acções a informação recebida, tendo estes um prazo de 30 dias a contar da sua recepção para declararem se exercem o direito de preferência na aquisição das acções; querendo vários accionistas preferir, as acções alienadas serão distribuídas a cada um, incluindo o primitivo adquirente, se já for accionista, na proporção das respectivas participações sociais.
+5 - Querendo o acionista transmitir ações, deve pedir o consentimento, por escrito, à sociedade, mediante carta registada com aviso de receção, identificando o previsto adquirente, indicando as contrapartidas oferecidas e a respetiva valoração, bem como as demais condições da projetada transmissão.
 
-6 - A sociedade primeiro e depois todos os accionistas, seja qual for a classe de acções de que sejam titulares, têm direito de preferência na alienação de acções nominativas da classe B, estando o respectivo exercício sujeito, com as devidas adaptações, às condições estabelecidas nos números anteriores.
+6 - A sociedade, deve pronunciar-se sobre o pedido de consentimento no prazo de 60 dias contados da data de receção da carta mencionada no número anterior.
+
+7 - Se a sociedade, não se pronunciar dentro do prazo referido no número anterior, e sempre sem prejuízo do direito de preferência dos outros acionistas regulado no presente artigo, é livre a transmissão das ações.
+
+8 - É lícito recusar o pedido de consentimento com fundamento em qualquer interesse relevante da sociedade, devendo indicar-se sempre na deliberação o motivo da recusa.
+
+9 - No caso de recusar licitamente o consentimento, a sociedade, fica obrigada a adquirir as ações por outra pessoa nas condições de preço e pagamento do negócio para que foi solicitado o consentimento.
+
+10 - No caso previsto no número anterior, tratando-se de transmissão a título gratuito, ou provando a sociedade, que naquele negócio houve simulação de preço, a aquisição faz-se pelo valor real, determinado nos termos previstos no n.º 2 do artigo 105.º do Código das Sociedades Comerciais.
+
+11 - A sociedade, caso aceite o pedido de consentimento ou caso não se pronuncie sobre o mesmo dentro do prazo referido no n.º 6, comunica a todos os acionistas titulares do direito de preferência na transmissão das ações em causa, a informação recebida, tendo estes um prazo de 30 dias a contar da sua receção para declararem se exercem o direito de preferência na aquisição de ações.
+
+12 - Querendo vários acionistas preferir, as ações alienadas são distribuídas a cada um, incluindo ao primitivo adquirente, se já for acionista, na proporção das respetivas participações sociais.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 10.º
 
-1 - Mediante deliberação dos sócios, a sociedade poderá amortizar as acções detidas com infracção do disposto no n.º 5 do artigo 6.º, ou quaisquer acções da classe A que forem penhoradas, arrestadas, arroladas, incluídas na massa falida ou, em geral, forem apreendidas no âmbito de qualquer acção judicial ou estiverem em condições de ser transmitidas judicialmente.
+1 - Mediante deliberação dos sócios, a sociedade pode amortizar as ações que forem penhoradas, arrestadas, arroladas, incluídas em massa insolvente ou, em geral, apreendidas no âmbito de qualquer ação judicial ou estiverem em condições de ser transmitidas judicialmente.
 
 2 - No caso de amortização de acções nos termos deste artigo, o montante da contrapartida da amortização será o que resultar da deliberação dos accionistas relativa à amortização, que tomará em consideração a situação líquida da sociedade resultante do último balanço aprovado.
 
-3 - A assembleia geral que deliberar a amortização nos termos dos números anteriores deliberará também o aumento do capital social por emissão de acções da classe A, de modo a restabelecer a percentagem para esta classe de acções prevista no n.º 2 do artigo 6.º
+3 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 11.º
 
@@ -244,9 +266,11 @@ A sociedade pode participar em quaisquer outras sociedades ou entidades legais c
 
 ###### Artigo 12.º
 
-1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o revisor oficial de contas ou a sociedade de revisores de contas designado pela sociedade.
+1 - São órgãos da sociedade a assembleia geral, o conselho de administração, e o fiscal único que pode ser substituído por um fiscal único suplente.
 
 2 - Os membros da mesa da assembleia geral e os demais órgãos sociais são eleitos em assembleia geral por períodos de três anos e podem ser reconduzidos uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos.
+
+> Alterado pelo/a [Decreto-Lei n.º 105/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2014-25345607), publicado em 2014-07-02.
 
 ###### Artigo 13.º
 

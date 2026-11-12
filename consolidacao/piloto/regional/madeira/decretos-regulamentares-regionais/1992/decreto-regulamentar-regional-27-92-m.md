@@ -13,12 +13,12 @@ consolidacao:
   - id: pt:dre:571260:por
     title: Decreto Regulamentar Regional n.º 6-B/93/M
     publication_date: '1993-03-25'
-  - id: pt:dre:293323:por
-    title: Decreto Regulamentar Regional n.º 33/2000/M
-    publication_date: '2000-05-29'
   - id: pt:dre:275831:por
     title: Decreto Regulamentar Regional n.º 30/2000/M
     publication_date: '2000-05-05'
+  - id: pt:dre:293323:por
+    title: Decreto Regulamentar Regional n.º 33/2000/M
+    publication_date: '2000-05-29'
 ---
 
 # Decreto Regulamentar Regional n.º 27/92/M

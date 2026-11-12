@@ -99,14 +99,26 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alt. 1, n.º 2.º: novas epígrafes dos capítulos II e III — não são artigos do texto atual; não aplicado. Alt. 3, art. 1.º n.º 2: derrogação do n.º 5 do artigo 17.º — não é alteração textual; texto mantido.",
+  "titulos": [
+    {
+      "atual": "### CAPÍTULO II — Qualidade e normalização dos produtos da pesca",
+      "novo": "### CAPÍTULO II — Qualidade, normalização e promoção dos produtos da pesca",
+      "alterador": 1
+    },
+    {
+      "atual": "### CAPÍTULO III — Infra-estruturas e equipamentos colectivos de apoio à aquicultura",
+      "novo": "### CAPÍTULO III — Equipamentos de portos de pesca e infra-estruturas e equipamentos colectivos de apoio ao desenvolvimento da aquicultura",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Portaria 539/2009, art. 1.º: reabre o prazo de candidaturas até 15/6/2009 e 'derroga' o n.º 5 do artigo 17.º, sem nova redação nem revogação textual; não alterado o texto (fica a redação da Portaria 939/2006).",
   "instrucoes": [
-    "Alt. 1, 1.º: nova redação dos artigos 1.º a 7.º, 9.º a 14.º, 18.º e 19.º — aplicada, com '...' a manter o texto atual das unidades omitidas",
-    "Alt. 1, 2.º: epígrafes dos capítulos II e III — não aplicado (fora dos artigos)",
-    "Alt. 1, 4.º: republicação — não usada como instrução",
-    "Alt. 2, arts. 1.º a 3.º: outros regulamentos — ignorados",
-    "Alt. 2, art. 4.º: n.º 5 do artigo 17.º — aplicado",
-    "Alt. 3, art. 1.º: reabertura de candidaturas e derrogação do n.º 5 do artigo 17.º — não textual"
+    "P934/2003 1.º: nova redação dos arts. 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 18.º e 19.º; aplicada, com '...' a manter o texto atual das unidades omitidas",
+    "P934/2003 2.º: novas epígrafes dos capítulos II e III; aplicadas em titulos (reparo confirmado)",
+    "P934/2003 3.º-5.º: aplicação, republicação e vigência; sem texto a mudar (a republicação só serviu para confirmar a estrutura)",
+    "P939/2006 arts. 1.º-3.º: alteram outros regulamentos; ignorados",
+    "P939/2006 art. 4.º: nova redação do n.º 5 do art. 17.º; aplicada",
+    "P539/2009 art. 1.º: derrogação do n.º 5 do art. 17.º sem alteração textual; nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

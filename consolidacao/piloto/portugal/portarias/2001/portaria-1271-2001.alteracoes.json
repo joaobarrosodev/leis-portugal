@@ -222,5 +222,33 @@
     "unidade": [],
     "diploma": "pt:dre:595556:por",
     "alterador": "pt:dre:510434:por;pt:dre:540047:por"
+  },
+  {
+    "artigo": "CAPÍTULO II — Qualidade e normalização dos produtos da pesca",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "### CAPÍTULO II — Qualidade e normalização dos produtos da pesca",
+    "depois": "### CAPÍTULO II — Qualidade, normalização e promoção dos produtos da pesca",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:595556:por",
+    "alterador": "pt:dre:510434:por;pt:dre:540047:por"
+  },
+  {
+    "artigo": "CAPÍTULO III — Infra-estruturas e equipamentos colectivos de apoio à aquicultura",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "### CAPÍTULO III — Infra-estruturas e equipamentos colectivos de apoio à aquicultura",
+    "depois": "### CAPÍTULO III — Equipamentos de portos de pesca e infra-estruturas e equipamentos colectivos de apoio ao desenvolvimento da aquicultura",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:595556:por",
+    "alterador": "pt:dre:510434:por;pt:dre:540047:por"
   }
 ]

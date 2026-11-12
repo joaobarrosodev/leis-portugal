@@ -2,7 +2,7 @@
   "id": "pt:dre:329866:por",
   "artigos": [
     {
-      "chave": "17.º",
+      "chave": "ARTIGO 17.º",
       "epigrafe": "(Pessoal administrativo)",
       "texto": "1 - Os diplomas a publicar relativos ao pessoal administrativo deverão ter na devida consideracão as seguintes regras:\n\na) O ingresso far-se-á pela categoria de terceiro-oficial com o curso geral do ensino secundário ou equiparado;\n\nb) A carreira desenvolver-se-á pelas categorias de terceiro-oficial, segundo-oficial e primeiro-oficial, a que corresponderão, respectivamente, as letras M, L e J, ficando condicionado o acesso à categoria imediatamente superior à prestação de três anos de bom e efectivo serviço em cada categoria funcional.\n\n2 - Para efeitos do ingresso na carreira referida no número anterior, terão preferência os escriturários-dactilógrafos que possuam as habilitações fixadas na alínea a) do mesmo número.\n\n3 - Os actuais escriturários-dactilógrafos que não possuam a habilitação referida na alínea a) do n.º 1 não poderão ascender a categoria superior a segundo-oficial enquanto não possuírem aquelas habilitações.\n\n4 - É autonomizada a carreira de escriturário-dactilógrafo, que se desenvolverá de harmonia com as seguintes regras:\n\na) A habilitação mínima exigível para efeitos de ingresso é a escolaridade obrigatória;\n\nb) A carreira desenvolver-se-á pelas categorias de escriturário-dactilógrafo de 2.ª classe, 1.ª classe e principal, a que corresponderão, respectivamente, as letras S, Q e N.\n\nc) A mudança de classe fica condicionada à prestação de cinco anos na classe anterior, com bom e efectivo serviço.",
       "alterador": 1
@@ -10,10 +10,10 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 2 (DLR 8/91/M), art. 17.º, alínea a): revoga o DRR 3/78/M 'no que respeita aos cargos previstos no presente diploma' (pessoal dirigente) - revogação parcial condicionada, não aplicada ao texto. Os restantes artigos do DLR 8/91/M adaptam o DL 323/89 e não alteram o texto do original.",
+  "nao_aplicavel": "DLR 8/91/M, art. 17.º, alínea a): revoga o DRR 3/78/M 'no que respeita aos cargos previstos no presente diploma' (revogação parcial indeterminada, sem alvo textual); não aplicada.",
   "instrucoes": [
-    "Alterador 1 (DRR 3/79/M), art. 1.º: nova redação da alínea b) do n.º 4 do artigo 17.º; o resto ('...') fica como estava. O artigo 17.º vem no texto atual como '###### ARTIGO 17.º — (Pessoal administrativo)' dentro do bloco do 13.º; devolvido com a chave '17.º'.",
-    "Alterador 2 (DLR 8/91/M): revogação 'no que respeita aos cargos previstos' - não aplicada (ver nao_aplicavel)."
+    "DRR 3/79/M art. 1.º: nova redação da alínea b) do n.º 4 do artigo 17.º; aplicada na chave existente 'ARTIGO 17.º' (sem criar artigo duplicado), como indica o reparo.",
+    "DLR 8/91/M: arts. 1.º-16.º adaptam o DL 323/89 (não o original); art. 17.º a) revogação parcial indeterminada, em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

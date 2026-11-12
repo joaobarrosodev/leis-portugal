@@ -2,6 +2,12 @@
   "id": "pt:dre:241227:por",
   "artigos": [
     {
+      "chave": "6.º-A",
+      "epigrafe": "Defensor do Contribuinte",
+      "texto": "(Revogado.)",
+      "alterador": 8
+    },
+    {
       "chave": "8.º",
       "epigrafe": "Entidades sob tutela exclusiva",
       "texto": "1 - As atribuições cometidas ao Ministério das Finanças são prosseguidas pelas seguintes entidades:\n\na) Caixa Geral de Aposentações (CGA);\n\nb) Serviços Sociais do Ministério das Finanças (SOFE);\n\nc) Instituto de Seguros de Portugal (ISP);\n\nd) Comissão do Mercado de Valores Mobiliários (CMVM);\n\ne) Instituto de Gestão do Crédito Público (IGCP).\n\nf) Instituto de Informática.\n\n2 - As entidades referidas no número anterior estão sujeitas a tutela de legalidade de todos os seus actos e a tutela de mérito quanto aos actos que digam respeito à sua própria organização e funcionamento interno, em termos inspectivos, revogatórios e substitutivos, com fundamento na ilegalidade ou no demérito dos seus actos, de acordo com o fim da tutela.",
@@ -20,16 +26,16 @@
       "alterador": 6
     },
     {
+      "chave": "24.º",
+      "epigrafe": "Fundos de Estabilização Aduaneiro e Tributário",
+      "texto": "1 - O Fundo de Estabilização Aduaneiro (FEA) é um fundo autónomo não personalizado do Ministério das Finanças, gerido pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, cuja função genérica consiste em suportar os encargos com o pagamento dos suplementos e abonos previstos no artigo 4.º do Decreto-Lei n.º 274/90, de 7 de Setembro.\n\n2 - É criado o Fundo de Estabilização Tributário (FET), que tem a mesma natureza do FEA, gerido em conjunto pela Direcção-Geral dos Impostos e pela Direcção-Geral de Informática e Apoio aos Serviços Tributários.\n\n3 - Será afecto ao FET um montante até 5% das cobranças coercivas derivadas de processos instaurados nos serviços da DGCI, bem como das receitas de natureza fiscal arrecadadas, a partir de 1 de Janeiro de 1997, no âmbito da aplicação do Decreto-Lei n.º 124/96, de 10 de Agosto, montante que será definido anualmente, mediante portaria do Ministério das Finanças.\n\n4 - O património do FET e o rendimento que ele potencie serão afectos a obras sociais e ao pagamento dos suplementos atribuídos em função de particularidades específicas da prestação de trabalho dos funcionários e agentes da DGCI e da DGITA.\n\n5 - Os órgãos do FET e a forma de participação dos trabalhadores na sua gestão, bem como o âmbito e modalidades de atribuição dos suplementos a que se refere o número anterior, serão definidos por decreto-lei, cabendo ao Ministério das Finanças estabelecer, mediante portaria, as regras de gestão e de funcionamento do Fundo.",
+      "alterador": 1
+    },
+    {
       "chave": "26.º",
       "epigrafe": "Conselho de Directores-Gerais",
       "texto": "1 - É criado, na dependência do Ministro das Finanças, o Conselho de Directores-Gerais, cujas despesas de funcionamento serão suportadas por verbas do orçamento do Gabinete do Ministro das Finanças.\n\n2 - Compete ao Conselho de Directores-Gerais do Ministério das Finanças:\n\na) Pronunciar-se sobre os programas anuais dos serviços centrais do Ministério;\n\nb) Promover a harmonização permanente das actividades dos serviços e a qualidade dos respectivos actos e operações;\n\nc) Promover a conjugação das actividades relativas a pessoal, organização, métodos de trabalho e gestão administrativa e financeira;\n\nd) Formular, por sua iniciativa, propostas ou sugestões conducentes ao bom funcionamento dos serviços do Ministério;\n\ne) Pronunciar-se sobre a reestruturação do Ministério e coordenar a respectiva implementação e execução;\n\nf) Pronunciar-se sobre outras questões que o Ministro das Finanças decida colocar.\n\n3 - Fazem parte do Conselho de Directores-Gerais todos os directores-gerais e os responsáveis de categoria equivalente do Ministério das Finanças, bem como os presidentes das entidades referidas no artigo 10.º\n\n4 - O Conselho de Directores-Gerais é presidido pelo Ministro das Finanças ou pelo secretário de Estado em quem este delegar e é secretariado pelo secretário-geral ou, na sua falta, pelo director-geral mais antigo.\n\n5 - Nos trabalhos do Conselho poderão sempre participar os secretários de Estado, bem como outros funcionários ou entidades convidados para o efeito.\n\n6 - Em caso de necessidade, os directores-gerais poderão fazer-se substituir, a título excepcional, por funcionários qualificados e com poderes bastantes para os representarem.\n\n7 - O Conselho funcionará em plenário ou por secções especializadas, cuja criação, composição e modo de funcionamento serão determinados por despacho do Ministro das Finanças.\n\n8 - O Conselho proporá ao Ministro das Finanças o respectivo regimento interno, o qual será aprovado por despacho.\n\n9 - O Conselho reúne ordinariamente uma vez por mês, com ordem de trabalhos prefixada, podendo ser convocado extraordinariamente pelo Ministro das Finanças, sempre que este o entenda necessário.\n\n10 - O apoio administrativo ao Conselho será assegurado pela Secretaria-Geral.",
       "alterador": 4
-    },
-    {
-      "chave": "6.º-A",
-      "epigrafe": "Defensor do Contribuinte",
-      "texto": "(Revogado.)",
-      "alterador": 8
     },
     {
       "chave": "27.º",
@@ -40,20 +46,17 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Artigo 24.º (DL 107/97): o n.º 1 da nova redação é '(Actual corpo do artigo.)', ou seja, o corpo original do artigo 24.º; o texto atual só traz a frase literal '1 - (Actual corpo do artigo.)' e o corpo original não está no pedido, por isso o n.º 1 não pode ser reconstituído e o artigo fica como está. DL 113/2017 (fusão do FEA no FET, referências ao FEA lidas como feitas ao FET) não altera textualmente o original.",
+  "nao_aplicavel": "Art. 24.º, n.º 1: o DL 107/97 manda manter o «(Actual corpo do artigo.)», mas o texto atual já não traz o corpo original (o programa deixou o marcador literal); usei a redação do corpo original indicada no reparo da verificação, que não se pode confirmar letra a letra noutro ponto do pedido. DL 289/2001 (Estatuto do ISP), DL 215/2002 (extinção do IIAE), DL 215-A/2004 (orgânica do XVI Governo) e DL 113/2017 (fusão do FEA no FET; as referências ao FEA passam a entender-se feitas ao FET): sem alteração textual expressa ao DL 158/96, não aplicados ao texto. A revogação pelo DL 1/2015 do art. 2.º do DL 289/2001 não desfaz a alteração já feita ao art. 10.º.",
   "instrucoes": [
-    "DL 107/97, art. 1.º: nova redação do artigo 24.º (n.os 2 a 5 e epígrafe já no texto atual; n.º 1 em nao_aplicavel).",
-    "DL 207/97, art. 2.º, e DL 28/98, art. 3.º: nova redação do n.º 4 e aditamento do n.º 5 do artigo 33.º; o texto atual já os tem.",
-    "DL 28/98, art. 1.º: altera os Estatutos do IGCP (DL 160/96), não o original: ignorado.",
-    "DL 21/99, art. 1.º: artigo 6.º (n.º 1, igual ao atual), artigo 8.º (novo n.º 1 com alínea f) e novo n.º 2: aplicado), artigo 10.º (novo corpo e alíneas d) e e): aplicado e depois refeito pelo DL 289/2001), artigo 26.º n.º 3 (aplicado), artigo 27.º n.º 6 (sem efeito, o artigo 27.º foi revogado pelo DL 320-A/2002).",
-    "DL 21/99, art. 2.º, e DL 320-A/2002, art. 6.º: a epígrafe da subsecção III da secção III do capítulo II passa a 'Órgãos de apoio e Defensor do Contribuinte' e depois volta a 'Órgãos de apoio'; fica igual à atual, nada a mudar.",
-    "DL 21/99, art. 3.º: adita o artigo 6.º-A (já no texto atual); revogado depois pelo DL 320-A/2002.",
-    "DL 21/99, art. 4.º: revoga a alínea c) do artigo 4.º; o texto atual já a tem revogada.",
-    "DL 289/2001, art. 2.º: artigo 10.º, alínea a) mantém-se, b), c) e d) passam a ter a redação das anteriores c), d) e e) (sai a alínea b), ISP); aplicado. O art. 2.º do DL 289/2001 foi revogado pelo DL 1/2015, o que não repristina a redação anterior.",
-    "DL 315/2001, art. 2.º: artigo 19.º, nova alínea h) e anterior h) passa a i) do n.º 2; aplicado (o diploma produz efeitos com a portaria do artigo 7.º; é alteração, não revogação). Os outros artigos alteram outros diplomas: ignorados.",
-    "DL 215/2002: nenhuma instrução dirigida ao original.",
-    "DL 320-A/2002, art. 8.º, alíneas a) e b): revoga os artigos 27.º e 6.º-A; aplicado. As alíneas c) e d) visam outros diplomas.",
-    "DL 215-A/2004 e DL 113/2017: nenhuma alteração textual do original."
+    "DL 107/97 art. 1.º: nova redação do art. 24.º (epígrafe e n.os 2 a 5 novos, n.º 1 = corpo atual) — substituído o marcador «(Actual corpo do artigo.)» pelo corpo original (ver nao_aplicavel).",
+    "DL 207/97 art. 2.º e DL 28/98 art. 3.º: n.os 4 e 5 do art. 33.º — já aplicados pelo programa na versão do DL 28/98; sem mudança.",
+    "DL 21/99 art. 1.º: arts. 6.º (já aplicado), 8.º (novo n.º 1 com al. f) e n.º 2), 10.º (novo proémio e als. d) e e)), 26.º (n.º 3) e 27.º (n.º 6, depois revogado) — aplicados.",
+    "DL 21/99 art. 2.º: epígrafe da subsecção III passa a «Órgãos de apoio e Defensor do Contribuinte»; o DL 320-A/2002 art. 6.º repõe «Órgãos de apoio» — o título atual já é esse, sem mudança.",
+    "DL 21/99 art. 3.º: aditado o art. 6.º-A; DL 320-A/2002 art. 8.º b) revoga-o — 6.º-A fica (Revogado.).",
+    "DL 21/99 art. 4.º: revogada a al. c) do art. 4.º — já aplicada.",
+    "DL 289/2001 art. 2.º: art. 10.º, als. b) a d) passam a ter a redação das anteriores c) a e) (sai o ISP) — aplicado.",
+    "DL 315/2001 art. 2.º: art. 19.º n.º 2, nova al. h) e anterior h) passa a i) — aplicado.",
+    "DL 320-A/2002 art. 8.º a): revogado o art. 27.º — aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

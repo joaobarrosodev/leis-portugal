@@ -10,11 +10,11 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 3 (Decreto Regulamentar Regional n.º 38-A/2004/A): não altera textualmente nenhum artigo do original; o seu artigo 18.º, n.º 1, diz apenas que a estrutura orgânica constante do Decreto Regulamentar Regional n.º 33/2000/A é substituída pela estabelecida no novo diploma (substituição global, não textual), por isso não foi aplicado ao texto.",
+  "nao_aplicavel": "DRR 38-A/2004/A, art. 18.º, n.º 1: diz que a estrutura orgânica do DRR 33/2000/A, com as respetivas alterações, é substituída pela estabelecida no novo diploma. Não é uma instrução textual sobre artigos do original (não revoga nem dá nova redação a artigos determinados): é uma substituição global/revogação tácita por um diploma novo, que não se pode aplicar com segurança ao texto artigo a artigo; o texto fica como está.",
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação do art. 15.º (nova alínea e) Polícia administrativa no n.º 1, antiga e) passa a f)); absorvida pela redação do alterador 2.",
-    "Alterador 2, art. 1.º: nova redação do n.º 1 do art. 15.º com alíneas a) a g) (g) Assuntos da imigração); n.os 2 e 3 mantêm o texto atual. Devolvido o art. 15.º.",
-    "Alterador 3: aprova nova orgânica do IX Governo; art. 18.º, n.º 1, substitui globalmente a estrutura do original sem instrução textual: nao_aplicavel. Restantes artigos não se dirigem ao original."
+    "DRR 15/2001/A, art. 1.º: nova redação do art. 15.º (nova alínea e) Polícia administrativa; antiga e) passa a f)); absorvida pela redação seguinte.",
+    "DRR 33/2002/A, art. 1.º: nova redação integral do n.º 1 do art. 15.º (alíneas a) a g)); n.os 2 e 3 '...' ficam com o texto atual. Devolvido o art. 15.º com alterador 2.",
+    "DRR 38-A/2004/A: diploma novo da orgânica do IX Governo; o art. 18.º, n.º 1 substitui globalmente a estrutura do DRR 33/2000/A (não textual: ver nao_aplicavel). Os restantes artigos não se dirigem ao texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

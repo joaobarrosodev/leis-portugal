@@ -86,9 +86,7 @@ O Representante da República para a Região Autónoma da Madeira, Antero Alves 
 
 ###### Artigo 6.º — Estrutura
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31.
+A estrutura hierarquizada da DRCIE é constituída por unidades orgânicas nucleares e flexíveis, a aprovar nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de Novembro.
 
 ### CAPÍTULO III — Pessoal
 

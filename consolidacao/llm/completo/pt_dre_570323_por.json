@@ -46,16 +46,18 @@
     {
       "chave": "11.º",
       "epigrafe": "",
-      "texto": "O presente diploma produz efeitos desde 1 de Novembro do corrente ano.",
+      "texto": "O presente diploma produz efeitos desde 1 de Novembro do corrente ano.\n\nAprovado pelo Governo Regional em 12 de Novembro de 1980.\n\nO Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Angra do Heroísmo em 15 de Dezembro de 1980.\n\nPublique-se.\n\nO Ministro da República, Henrique Afonso da Silva Horta.",
       "alterador": 1
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1, artigo 2.º: renumera os artigos 5.º a 9.º como 6.º a 10.º mas nada diz sobre o antigo artigo 10.º (produção de efeitos), que colidiria com o novo 10.º; foi colocado como 11.º por consequência da renumeração, sem instrução expressa.",
+  "titulos": [],
+  "nao_aplicavel": "O art. 2.º do DRR 32/83/A renumera só os artigos 5.º a 9.º (passam a 6.º a 10.º); não renumera expressamente o antigo artigo 10.º. Como o antigo 9.º passa a 10.º, o antigo 10.º (produção de efeitos, com as assinaturas) não pode manter a chave 10.º e foi posto como 11.º, por renumeração implícita, com o texto integral (incluindo 'Aprovado pelo Governo Regional em 12 de Novembro de 1980.').",
   "instrucoes": [
-    "Alterador 1 art. 1.º: nova redacção do n.º 1 do artigo 1.º; aplicada.",
-    "Alterador 1 art. 2.º: os artigos 5.º, 6.º, 7.º, 8.º e 9.º passam a 6.º, 7.º, 8.º, 9.º e 10.º; aplicada; o antigo 10.º passou a 11.º (ver nao_aplicavel).",
-    "Alterador 1 art. 3.º: adita o artigo 5.º (Carreira de tesoureiro); aplicado."
+    "Art. 1.º: nova redação do n.º 1 do artigo 1.º; n.º 2 mantém-se.",
+    "Art. 2.º: artigos 5.º a 9.º passam a 6.º a 10.º (textos e epígrafes mantidos).",
+    "Art. 3.º: aditado o artigo 5.º (Carreira de tesoureiro).",
+    "Antigo 10.º passa a 11.º por renumeração implícita (ver nao_aplicavel), com o corpo inteiro incluindo as assinaturas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -120,6 +120,16 @@ As dúvidas resultantes da aplicação do presente diploma serão resolvidas por
 
 O presente diploma produz efeitos desde 1 de Novembro do corrente ano.
 
+Aprovado pelo Governo Regional em 12 de Novembro de 1980.
+
+O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+Assinado em Angra do Heroísmo em 15 de Dezembro de 1980.
+
+Publique-se.
+
+O Ministro da República, Henrique Afonso da Silva Horta.
+
 > Aditado pelo/a [Decreto Regulamentar Regional n.º 32/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1983-454349), publicado em 1983-08-06.
 
 O Presidente do Governo Regional, João Bosco Mota Amaral.

@@ -40,10 +40,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-07-26'
+version_history:
+  file: decreto-lei-115-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-04-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-26'
+    amending: pt:dre:456790:por
+    amending_title: Decreto-Lei n.º 133/2008
+    changes:
+    - Adita Artigo ANEXO::21.º-A
+    - Altera Artigo ANEXO::26.º
+    - Adita Artigo ANEXO::26.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/115/2002/04/20/p/dre/pt/html
@@ -69,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:31:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 133/2008. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2002/decreto-lei-115-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -430,6 +447,22 @@ As medidas destinadas a garantir a conformidade da produção devem ser tomadas 
 
 Os veículos abrangidos pelo presente capítulo devem ser concebidos de forma a oferecerem uma protecção eficaz contra o encaixe em caso de colisão à retaguarda de um veículo da categoria M(índice 1) ou N(índice 1), conforme definidas na parte A do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio.
 
+###### Artigo 21.º-A — Ensaio do veículo
+
+O veículo deve ser ensaiado nas seguintes condições:
+
+a) O veículo deve estar em repouso numa superfície nivelada, plana, rígida e lisa;
+
+b) As rodas dianteiras do veículo devem estar na posição para a frente em linha recta;
+
+c) Os pneus devem ser insuflados à pressão recomendada pelo fabricante do veículo;
+
+d) O veículo pode, se necessário para atingir as forças de ensaio exigidas, ser retido por qualquer método especificado pelo seu fabricante;
+
+e) No caso de o veículo estar equipado com suspensão hidropneumática, hidráulica ou pneumática ou com um dispositivo de nivelamento automático em função da carga, deve ser ensaiado com a suspensão ou o dispositivo em condições normais de funcionamento, especificadas pelo fabricante.
+
+> Aditado pelo/a [Decreto-Lei n.º 133/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790), publicado em 2008-07-21.
+
 ###### Artigo 22.º — Definições
 
 Para efeitos do disposto no presente capítulo, entende-se por:
@@ -520,7 +553,7 @@ e) O dispositivo deve ser suficientemente resistente a forças aplicadas paralel
 
 7 - Os pontos P1 estão situados a uma distância de 30 cm dos planos longitudinais tangentes às faces exteriores das rodas do eixo da retaguarda; os pontos P2 situam-se na linha que une os pontos P1 e estão dispostos simetricamente em relação ao plano médio longitudinal do veículo, a uma distância um do outro compreendida entre 70 cm e 100 cm, inclusive, sendo a sua posição exacta especificada pelo construtor; a altura em relação ao solo dos pontos P1 e P2 é definida pelo construtor do veículo entre as linhas que limitam horizontalmente o dispositivo, não devendo essa altura, contudo, ultrapassar 60 cm com o veículo sem carga; o ponto P3 é o ponto médio do segmento de recta que une os pontos P2.
 
-8 - Deve ser aplicada sucessivamente nos dois pontos P1 e no ponto P3 uma força horizontal correspondente a 12,5% da massa máxima tecnicamente admissível do veículo, mas não superior a 2,5 x 10(elevado a 4) N.
+8 - Deve ser aplicada sucessivamente nos dois pontos P1 e no ponto P3 uma força horizontal correspondente a 25 % da massa máxima tecnicamente admissível do veículo, mas não superior a 5 x 104N.
 
 9 - Deve ser aplicada sucessivamente nos dois pontos P2 uma força horizontal correspondente a 50% da massa máxima tecnicamente admissível do veículo, mas não superior a 10 x 10(elevado a 4) N.
 
@@ -539,6 +572,22 @@ a) Tractores de semi-reboques;
 b) Zorras e outros reboques análogos destinados ao transporte de toros ou de outros objectos de grande comprimento;
 
 c) Veículos cuja utilização seja incompatível com a existência de uma protecção à retaguarda contra o encaixe.
+
+> Alterado pelo/a [Decreto-Lei n.º 133/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790), publicado em 2008-07-21.
+
+###### Artigo 26.º-A — Veículos equipados com plataforma elevatória
+
+1 - No caso de veículos equipados com uma plataforma elevatória, a instalação do dispositivo de protecção contra o encaixe pode ser interrompida para efeitos de montagem do mecanismo, aplicando-se neste caso, as seguintes disposições:
+
+a) A distância lateral entre os elementos de fixação do dispositivo de protecção contra o encaixe e os elementos da plataforma elevatória, que tornam necessária essa interrupção, não pode ser superior a 2,5 cm;
+
+b) Os elementos individuais do dispositivo de protecção contra o encaixe devem possuir uma superfície efectiva de, pelo menos, 350 cm2, em cada caso;
+
+c) Os elementos individuais do dispositivo de protecção contra o encaixe devem ter dimensões suficientes para cumprir o disposto no n.º 7 do artigo anterior, pelo qual se determinam as posições relativas dos pontos de ensaio, e no caso de os pontos P1 estarem situados na área de interrupção mencionada no n.º 1, os pontos P1 a utilizar devem estar situados no centro de qualquer secção lateral do dispositivo de protecção à retaguarda contra o encaixe.
+
+2 - Não se aplica o disposto na alínea a) do n.º 5 do artigo anterior à área de interrupção do dispositivo de protecção contra o encaixe para efeitos de montagem da plataforma elevatória.
+
+> Aditado pelo/a [Decreto-Lei n.º 133/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790), publicado em 2008-07-21.
 
 #### SECÇÃO IV — Da marca de homologação CE
 

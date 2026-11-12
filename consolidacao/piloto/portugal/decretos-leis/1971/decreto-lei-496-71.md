@@ -111,7 +111,7 @@ Sem prejuízo dos direitos de subscrição inerentes às acções que possua a q
 
 ###### Artigo 12.º
 
-Art. 12.º - 1. A Sacor satisfará anualmente a taxa de fiscalização de 3000000$00, nos termos da alínea f) da base XIV da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272).
+1. A Sacor satisfará anualmente a taxa de fiscalização de 3000000$00, nos termos da alínea f) da base XIV da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272).
 
 2. A taxa fixada no número anterior será paga em duas prestações semestrais, iguais, em Janeiro e Julho, por meio de guias passadas pela Direcção-Geral dos Combustíveis.
 

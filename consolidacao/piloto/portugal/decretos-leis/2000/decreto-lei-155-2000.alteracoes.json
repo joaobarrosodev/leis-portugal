@@ -250,5 +250,47 @@
     "unidade": [],
     "diploma": "pt:dre:321337:por",
     "alterador": "pt:dre:539816:por;pt:dre:232887:por"
+  },
+  {
+    "artigo": "SECÇÃO II — Direcção",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO II — Direcção",
+    "depois": "#### SECÇÃO II — Conselho de administração",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:321337:por",
+    "alterador": "pt:dre:539816:por;pt:dre:232887:por"
+  },
+  {
+    "artigo": "SECÇÃO III — Conselho geral",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO III — Conselho geral",
+    "depois": "#### SECÇÃO III — Fiscal único",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:321337:por",
+    "alterador": "pt:dre:539816:por;pt:dre:232887:por"
+  },
+  {
+    "artigo": "SECÇÃO III — Fiscalização da sociedade",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "#### SECÇÃO III — Fiscalização da sociedade",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:321337:por",
+    "alterador": "pt:dre:539816:por;pt:dre:232887:por"
   }
 ]

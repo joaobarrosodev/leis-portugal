@@ -29,26 +29,16 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "O texto atual só traz os artigos 1.º a 5.º do decreto-lei e os títulos de divisão do anexo; as bases da concessão não vêm como artigos. Por isso não se aplicam: o artigo 1.º do DL 113/2015 (nova redação das bases I, II, V a VII, IX a XX, XXII a XXXIX, XLI a XLIII, XLV a LVI, LVIII a LXI, LXVI, LXVIII, LXX a LXXII, LXXV a LXXXI, LXXXIII, LXXXIV e LXXXVI a LXXXIX, cheia de '[...]' que remetem para texto que não existe), o artigo 2.º (aditamento das bases XVIII-A, XIX-A, XXXIV-A, LVII-A a LVII-DD, LXV-A a LXV-E, LXXXVI-A, LXXXVII-A e LXXXVII-B, sem chave de anexo no texto atual), o artigo 5.º (revogação de alíneas e números das bases I, XIII, XLVII, XLVIII, XLIX, L, LI, LIV, LXXV, LXXXII e LXXXIV e das bases LXII a LXV) e o n.º 2 do artigo 6.º (substituição de 'IEP' e 'MES' na republicação das bases). Também não se aplicam os n.os 2 e 3 do artigo 3.º (aditamento do capítulo X-A 'Portagens' com as secções I a X e subsecções I a III, e do capítulo XXII-A 'Comissão de Peritos'), porque são títulos novos que não estão no texto atual. Algumas bases aditadas têm fórmulas e quadros só em imagem ('ver documento original').",
+  "nao_aplicavel": "DL 113/2015, arts. 1.º, 2.º, 5.º e 6.º, n.º 2 (nova redação das bases I, II, V a VII, IX a XX, XXII a XXXIX, XLI a XLIII, XLV a LVI, LVIII a LXI, LXVI, LXVIII, LXX a LXXII, LXXV a LXXXI, LXXXIII, LXXXIV e LXXXVI a LXXXIX; aditamento das bases XVIII-A, XIX-A, XXXIV-A, LVII-A a LVII-DD, LXV-A a LXV-E, LXXXVI-A, LXXXVII-A e LXXXVII-B; revogações de alíneas, números e das bases LXII a LXV; troca de 'IEP'/'MES' por 'Concedente'/'ME'): o texto atual do original não traz o texto de nenhuma base do anexo (só os títulos dos capítulos), a maior parte das novas redações usa '[...]' para o texto que fica e há quadros só em imagem ('ver documento original'), pelo que não há onde aplicar nem de onde copiar o texto mantido sem o inventar. Art. 3.º, n.os 2 e 3 (aditamento dos capítulos X-A, com secções e subsecções, e XXII-A): títulos que não existem no texto atual e que dependem das bases aditadas; não aplicados.",
   "instrucoes": [
-    "Art. 1.º DL 113/2015: nova redação de dezenas de bases do anexo; as bases não estão no texto atual, por isso não aplicado (nao_aplicavel).",
-    "Art. 2.º: aditamento de bases novas ao anexo; sem as bases no texto atual nem chave de anexo, não aplicado (nao_aplicavel).",
-    "Art. 3.º, n.º 1: novas epígrafes dos capítulos VII, X, XII, XVII e XXI; aplicado em 'titulos'.",
-    "Art. 3.º, n.os 2 e 3: aditamento dos capítulos X-A (com secções e subsecções) e XXII-A; títulos novos que não estão no texto atual, não aplicado (nao_aplicavel).",
-    "Art. 5.º: revogação de partes das bases e das bases LXII a LXV; bases ausentes do texto atual, não aplicado (nao_aplicavel).",
-    "Art. 6.º: republicação das bases; o n.º 2 (IEP -> Concedente, MES -> ME) diz respeito às bases republicadas, não aos artigos 1.º a 5.º do decreto; nada a aplicar aos artigos."
+    "DL 113/2015 art. 1.º: nova redação de bases do anexo; nao_aplicavel (bases não vêm no texto atual)",
+    "DL 113/2015 art. 2.º: aditamento de bases; nao_aplicavel",
+    "DL 113/2015 art. 3.º n.º 1: novas epígrafes dos capítulos VII, X, XII, XVII e XXI; aplicadas em titulos",
+    "DL 113/2015 art. 3.º n.os 2 e 3: aditamento dos capítulos X-A e XXII-A; nao_aplicavel",
+    "DL 113/2015 art. 5.º: revogações de unidades das bases e das bases LXII a LXV; nao_aplicavel",
+    "DL 113/2015 art. 6.º: republicação e regra de leitura IEP/MES para as bases; nao_aplicavel; os artigos 1.º a 5.º do decreto não são alterados"
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1
-      ],
-      "chars": 191995,
-      "artigos": 0
-    }
-  ],
   "problemas": []
 }

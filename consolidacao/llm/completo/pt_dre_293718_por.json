@@ -184,12 +184,24 @@
     "35.º",
     "36.º"
   ],
-  "nao_aplicavel": "Alterador 2 (DL 130/96) altera o artigo 4.º do próprio Decreto-Lei n.º 361/91 e o alterador 3 (DL 391/99) altera os artigos 3.º, n.º 2, e 7.º e revoga os n.os 6 e 8 do artigo 5.º e o artigo 8.º do mesmo decreto-lei (art.os 4.º a 6.º), bem como a remissão do art. 3.º: são artigos do decreto-lei preambular, não dos Estatutos que constituem o texto atual (com a mesma numeração), pelo que não foram aplicados aos artigos dos Estatutos. A mudança de denominação (art. 1.º do DL 391/99) já consta do novo texto dos Estatutos.",
+  "titulos": [
+    {
+      "atual": "#### SECÇÃO V — Conselho de mecenas",
+      "novo": "#### SECÇÃO V — Conselho fiscal",
+      "alterador": 3
+    },
+    {
+      "atual": "#### SECÇÃO VI — Conselho fiscal",
+      "novo": null,
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "DL 130/96, art. 1.º, e DL 391/99, arts. 1.º, 3.º, 4.º, 5.º e 6.º, dirigem-se aos artigos do próprio Decreto-Lei n.º 361/91 (art. 4.º do decreto; nova denominação da Fundação; remissões dos arts. 2.º e 5.º; n.º 2 do art. 3.º; art. 7.º; revogação dos n.os 6 e 8 do art. 5.º e do art. 8.º do decreto), que não estão no texto atual, que só traz os artigos dos estatutos — não aplicadas (confirmado o reparo do verificador: não há onde as aplicar).",
   "instrucoes": [
-    "Alt.1 (DL 103/93): nova redação do artigo 30.º dos Estatutos (n.os 1 e 3, n.º 4 = anterior n.º 3) — aplicada, mas substituída depois pelo novo texto integral dos Estatutos do alt.3",
-    "Alt.2 (DL 130/96): altera o art. 4.º do decreto-lei, não dos Estatutos — não aplicado",
-    "Alt.3 art.2.º: novo texto integral dos Estatutos (artigos 1.º a 30.º) em anexo — aplicado; artigos 2.º sem alteração; artigos 31.º a 36.º deixam de existir (removidos)",
-    "Alt.3 art.os 3.º a 6.º: dirigidos a artigos do decreto-lei preambular — não aplicados"
+    "DL 103/93, art. 1.º: nova redação do art. 30.º dos estatutos (conselho fiscal) — substituída depois pelo novo texto dos estatutos do DL 391/99, que prevalece.",
+    "DL 130/96, art. 1.º: nova redação do art. 4.º do Decreto-Lei n.º 361/91 (descontos CGA/ADSE), não dos estatutos — não aplicada (ver nao_aplicavel).",
+    "DL 391/99, art. 2.º, n.º 1: aprova o novo texto dos estatutos (30 artigos), publicado em anexo — os arts. 1.º e 3.º a 30.º tomam a redação do anexo (o 2.º fica igual), os arts. 31.º a 36.º deixam de existir (removidos), a SECÇÃO V passa a 'Conselho fiscal' e a SECÇÃO VI é eliminada.",
+    "DL 391/99, arts. 1.º, 3.º, 4.º, 5.º e 6.º: dirigidos ao articulado do decreto-lei, ausente do texto atual — ver nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

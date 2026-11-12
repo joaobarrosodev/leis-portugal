@@ -45,14 +45,15 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alt. 1 (Portaria 814/2010), art. 16.º: nova redação dos arts. 7.º, 9.º, 11.º, 12.º, 13.º, 14.º, 19.º, 20.º e 22.º do Regulamento; já refletida no texto atual (marcados como alterados), nada a mudar além do que alteradores posteriores mudam.",
-    "Alt. 1, art. 17.º: aditamento do art. 15.º-A; já presente no texto atual.",
-    "Alt. 1, art. 38.º, n.º 13: revoga as alíneas d) e f) do art. 6.º e o art. 24.º do Regulamento da Portaria 1137-A/2008: aplicado (alíneas 'd) (Revogada.)' e 'f) (Revogada.)'; art. 24.º '(Revogado.)'). Os restantes números do art. 38.º dizem respeito a outras portarias: ignorados.",
-    "Alt. 2 (Portaria 228/2011), art. 12.º: nova redação do n.º 4 do art. 7.º (os restantes mantêm-se), do n.º 4 do art. 20.º, do art. 22.º (passa a ter só os n.os 1 e 2) e do art. 23.º: aplicado. Os outros artigos do alterador 2 alteram outras portarias: ignorados.",
-    "Alt. 3 (Portaria 152/2013), art. 3.º: nova redação da alínea q) do art. 8.º: aplicado. Restantes artigos dizem respeito a outros regulamentos.",
-    "Alt. 4 (Portaria 253/2013), art. 5.º: nova redação da alínea g) do art. 8.º: aplicado (o art. 8.º acumula as mudanças dos alteradores 3 e 4; 'alterador' indica o último). Art. 19.º (revogações) não abrange a Portaria 1137-A/2008; restantes artigos dizem respeito a outros regulamentos."
+    "Port. 814/2010, art. 16.º: nova redação dos arts. 7.º, 9.º, 11.º, 12.º, 13.º, 14.º, 19.º, 20.º e 22.º — já refletida no texto atual (7.º n.º 4, 20.º e 22.º depois mudados pela Port. 228/2011).",
+    "Port. 814/2010, art. 17.º: aditado o art. 15.º-A — já no texto atual.",
+    "Port. 814/2010, art. 38.º, n.º 13: revogadas as alíneas d) e f) do art. 6.º e o art. 24.º — aplicado.",
+    "Port. 228/2011, art. 12.º: nova redação do art. 7.º n.º 4, art. 20.º n.º 4, art. 22.º (só n.os 1 e 2) e art. 23.º — aplicado.",
+    "Port. 152/2013, art. 3.º: nova redação da alínea q) do art. 8.º (sem o limite de 5 %) — aplicado; o reparo do verificador está errado: a Port. 253/2013 dá '[...]' a q), que mantém a redação da Port. 152/2013.",
+    "Port. 253/2013, art. 5.º: nova redação da alínea g) do art. 8.º — aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

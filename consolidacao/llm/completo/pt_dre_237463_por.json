@@ -70,13 +70,12 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 1 (DL 44828): fixa a data de entrada em vigor em 1 de Março de 1963 sem dar nova redação ao artigo 34.º (alteração não textual). Alterador 2, art. 10.º: os artigos 31.º-A a 31.º-C passam a constituir a secção IV do capítulo II, «Dos prémios e comissões de transferência e cobrança», mas esse título de divisão não existe no texto atual e não pode ser criado em \"titulos\".",
+  "nao_aplicavel": "DL 49306, art. 10.º: os arts. 31.º-A a 31.º-C passam a constituir uma nova secção IV do capítulo II, «Dos prémios e comissões de transferência e cobrança»; os artigos foram aditados, mas o novo título de divisão não existe no texto atual e o campo 'titulos' só muda títulos existentes, por isso o cabeçalho da secção não foi criado. DL 44828 (alterador 1), artigo único: fixa em 1 de Março de 1963 a entrada em vigor prevista no art. 34.º, sem nova redação do artigo (alteração não textual); não aplicada ao texto.",
   "instrucoes": [
-    "Alterador 1 (DL 44828), artigo único: entrada em vigor fixada em 1/3/1963 - não textual, não aplicado.",
-    "Alterador 2 (DL 49306), arts. 1.º a 5.º: alteram os DL 44698, 44699, 44700 e 45296 - ignorados (outros diplomas).",
-    "Alterador 2, art. 6.º: nova redação dos artigos 2.º (§ único), 6.º, 13.º (§ único: proémio e nova alínea c)), 24.º (§ único substituído por §§ 1.º e 2.º), 25.º, 28.º e 29.º (§ único) e 32.º - aplicado, mantendo o texto atual onde vem '...'.",
-    "Alterador 2, arts. 7.º a 9.º: normas autónomas - nada a aplicar.",
-    "Alterador 2, art. 10.º: aditados os artigos 31.º-A, 31.º-B e 31.º-C - aplicados; título da secção IV não criado (nao_aplicavel)."
+    "Alterador 1 (DL 44828), artigo único: adia a entrada em vigor para 1-3-1963; não textual, em nao_aplicavel.",
+    "Alterador 2 (DL 49306), arts. 1.º a 5.º e 7.º a 9.º: alteram os DL 44698, 44699 e 44700 ou são normas autónomas; não são do original. O reparo sobre o art. 7.º (§ único passa a § 1.º e novo § 2.º) não se confirma: o art. 3.º do DL 49306 refere-se ao art. 7.º do DL 44699, não ao 44701.",
+    "Alterador 2, art. 6.º: novo § único do art. 2.º; nova redação do art. 6.º; art. 13.º com novo proémio do § único ('exceptuados') e nova alínea c), ficando a) e b); art. 24.º: § único substituído por §§ 1.º e 2.º; novos §§ únicos dos arts. 25.º, 28.º e 29.º; nova redação do art. 32.º.",
+    "Alterador 2, art. 10.º: aditados os arts. 31.º-A, 31.º-B e 31.º-C (reparo confirmado); o título da nova secção IV vai em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

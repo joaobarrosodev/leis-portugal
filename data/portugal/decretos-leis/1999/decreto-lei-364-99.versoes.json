@@ -1,0 +1,989 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:570108:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-09-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "218956abb18f904d",
+    "4983e994258bd63e",
+    "9926b3d489ee16f3",
+    "6e508713c2d42152",
+    "d7c516a5631d4bb0",
+    "a2e90f958f1bc2c2",
+    "daf1abdf2d998687",
+    "d9ebd92cc7abeb1f",
+    "a88046a09ef9f30f",
+    "54a4c06c9be6f9b0",
+    "45b53629d186d922",
+    "1493c971f07c983e",
+    "848b166b5476f71e",
+    "052081c6405c3473",
+    "49cc97c985032ba3",
+    "6db021f1b0a2cac6",
+    "ba93980c0509d746",
+    "fb1efdb0e551161a",
+    "11618a3b84eb4e7e",
+    "e0ab2a9fabd25ada",
+    "23836370ae405d04",
+    "d0dcb5661f3294ae",
+    "89a2515b4b402348",
+    "41a27f1d4242411f",
+    "d87c93629d0db853",
+    "ec04ae35f64a04c3",
+    "4171c2749888ad34",
+    "c619faf3eab94752",
+    "f00c5385a64b1943",
+    "ecbcd5f9f1dff590",
+    "8eba806c95b22039",
+    "ed2864bb6dd1fa68",
+    "1a3c1b58707b2434",
+    "caa74b10d880de74",
+    "fe36e6fb9489f835",
+    "737fee11540c7b05",
+    "dab2811fcde10782",
+    "5147d6929ae4adb4",
+    "e875a8c1d44bd4cd",
+    "a58145ce6b7ab859",
+    "c3693a705a677ecc",
+    "92ec390aa498278b",
+    "25a51ee84dc9391b",
+    "6dd73337c9c6ec24",
+    "829adbbd1db6541a",
+    "14f4a6d1e30653cd",
+    "4514f887f964a4ff",
+    "e8294f8819cde775",
+    "fa35539b389c5e13",
+    "0df61db1f9a20631",
+    "532c84e96734d665",
+    "2509c2f5db3e479e",
+    "faf7cfec606b92d0",
+    "b56a3a628384b308",
+    "7a8ee038f992b7e7",
+    "7041ba4967ab350d",
+    "acb02ce6be6edd75",
+    "a2c9cfae64bb10fc",
+    "b1a7e5525b2bc392",
+    "34e059edfaf9f6ed",
+    "a8455b7d1b0d19fa",
+    "699280182a9d4df6",
+    "023b449203c216f0",
+    "a7b127d5c4efa7d1",
+    "eb805cc95f7fb1f1",
+    "9c95e383880b727e",
+    "cd15928fa6985008",
+    "249fe13e4a34baef",
+    "199a3ae207386c20",
+    "6568fa3065beb57d",
+    "8f8198323da81a4e",
+    "1eee1956abf3638a",
+    "5be3859e9ad58eb5",
+    "7ae2d35736af62bf",
+    "18fc25967497c3ee",
+    "0620dda11b7b6181",
+    "bc1bfc17bd07fe8a",
+    "5b07e6c0a224da8c",
+    "892d92f31d53fec2",
+    "f32033179d8a1a96",
+    "d339e8a73573e262",
+    "c7bd5582844dff4b",
+    "44a851a88b7e7cc7",
+    "6d794662823637f7",
+    "c8bd5dc3e9fcc8fe",
+    "a31b782866e686d0",
+    "303da64b9d07b563",
+    "179d504505898bce",
+    "94830d0de9aba6eb",
+    "79b20fdead98e1ba",
+    "d99da999a32437e3"
+   ]
+  },
+  {
+   "date": "2003-02-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:209047:por",
+     "title": "Decreto-Lei n.º 19/2003",
+     "published": "2003-02-03",
+     "dre_path": "/dr/detalhe/decreto-lei/19-2003-209047"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 44.º"
+   ],
+   "fragments": [
+    "218956abb18f904d",
+    "4983e994258bd63e",
+    "9926b3d489ee16f3",
+    "6e508713c2d42152",
+    "d7c516a5631d4bb0",
+    "a2e90f958f1bc2c2",
+    "daf1abdf2d998687",
+    "d9ebd92cc7abeb1f",
+    "a88046a09ef9f30f",
+    "54a4c06c9be6f9b0",
+    "45b53629d186d922",
+    "1493c971f07c983e",
+    "848b166b5476f71e",
+    "052081c6405c3473",
+    "49cc97c985032ba3",
+    "6db021f1b0a2cac6",
+    "ba93980c0509d746",
+    "fb1efdb0e551161a",
+    "11618a3b84eb4e7e",
+    "e0ab2a9fabd25ada",
+    "23836370ae405d04",
+    "d0dcb5661f3294ae",
+    "89a2515b4b402348",
+    "41a27f1d4242411f",
+    "d87c93629d0db853",
+    "ec04ae35f64a04c3",
+    "b4030bd46365e9eb",
+    "c619faf3eab94752",
+    "f00c5385a64b1943",
+    "ecbcd5f9f1dff590",
+    "8eba806c95b22039",
+    "ed2864bb6dd1fa68",
+    "1a3c1b58707b2434",
+    "caa74b10d880de74",
+    "fe36e6fb9489f835",
+    "737fee11540c7b05",
+    "dab2811fcde10782",
+    "5147d6929ae4adb4",
+    "e875a8c1d44bd4cd",
+    "a58145ce6b7ab859",
+    "c3693a705a677ecc",
+    "92ec390aa498278b",
+    "25a51ee84dc9391b",
+    "6dd73337c9c6ec24",
+    "829adbbd1db6541a",
+    "14f4a6d1e30653cd",
+    "4514f887f964a4ff",
+    "e8294f8819cde775",
+    "fa35539b389c5e13",
+    "0df61db1f9a20631",
+    "532c84e96734d665",
+    "2509c2f5db3e479e",
+    "faf7cfec606b92d0",
+    "b56a3a628384b308",
+    "7a8ee038f992b7e7",
+    "7041ba4967ab350d",
+    "acb02ce6be6edd75",
+    "57ddd37aa5a65518",
+    "6518fc0148531fcf",
+    "34e059edfaf9f6ed",
+    "a8455b7d1b0d19fa",
+    "699280182a9d4df6",
+    "023b449203c216f0",
+    "a7b127d5c4efa7d1",
+    "eb805cc95f7fb1f1",
+    "9c95e383880b727e",
+    "cd15928fa6985008",
+    "249fe13e4a34baef",
+    "199a3ae207386c20",
+    "6568fa3065beb57d",
+    "8f8198323da81a4e",
+    "1eee1956abf3638a",
+    "5be3859e9ad58eb5",
+    "7ae2d35736af62bf",
+    "18fc25967497c3ee",
+    "0620dda11b7b6181",
+    "bc1bfc17bd07fe8a",
+    "5b07e6c0a224da8c",
+    "892d92f31d53fec2",
+    "f32033179d8a1a96",
+    "4f0efa4529ada79b",
+    "c7bd5582844dff4b",
+    "44a851a88b7e7cc7",
+    "6d794662823637f7",
+    "c8bd5dc3e9fcc8fe",
+    "a31b782866e686d0",
+    "303da64b9d07b563",
+    "179d504505898bce",
+    "94830d0de9aba6eb",
+    "79b20fdead98e1ba",
+    "d99da999a32437e3"
+   ]
+  }
+ ],
+ "fragments": {
+  "218956abb18f904d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Setembro\n\nA PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., foi transformada, ao abrigo da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, em sociedade anónima de capitais maioritariamente públicos pelo [Decreto-Lei n.º 405/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1990-406085), de 21 de Dezembro.\n\nMais tarde, o [Decreto-Lei n.º 39/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1993-648137), de 13 de Fevereiro, designadamente o seu artigo 1.º, estabeleceu que a PORTUCEL procedesse à constituição de novas sociedades, por entradas em espécie, através de destaque do respectivo património, admitindo ainda que as novas sociedades assim constituídas criassem, com o mesmo processo, outras sociedades. Estabeleceu igualmente que a PORTUCEL adoptasse o tipo de sociedade gestora de participações sociais.\n\nForam assim criadas a GESCARTÃO, SGPS, S. A., a Portucel Viana - Empresa Produtora de Papéis Industriais, S. A., a Portucel Recicla - Indústria de Papel Reciclado, S. A., e a Portucel Embalagem - Empresa Produtora de Embalagens de Cartão, S. A., detendo hoje a primeira a totalidade do capital das demais.\n\nAprova-se agora, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, o processo de reprivatização da totalidade do capital social da GESCARTÃO e, indirectamente, da Portucel Viana, Portucel Recicla e Portucel Embalagem, o qual se concretizará em três fases.\n\nNa 1.ª será alienado, por concurso público, um bloco indivisível de acções representativas de 65% do capital da empresa, sendo o concurso regulamentado pelo caderno de encargos que desde já igualmente se aprova. Na 2.ª fase, que terá por objecto 25% do capital, o Conselho de Ministros optará, ulteriormente, por uma oferta pública de venda destinada ao público em geral ou pelo exercício de uma opção de venda que vinculará o concorrente vencedor do concurso público durante três anos contados da conclusão da 1.ª fase de reprivatização. Na hipótese de não se realizar a oferta pública nem ser exercida a opção de venda, o concorrente vencedor poderá adquirir as acções destinadas à 2.ª fase através do exercício de uma opção de compra que vigorará por seis meses. A 3.ª fase de reprivatização terá por objecto 10% do capital e realizar-se-á por oferta pública de venda destinada a trabalhadores, pequenos subscritores e emigrantes.\n\nBeneficiarão também da possibilidade de adquirir acções da GESCARTÃO em condições especiais os trabalhadores da Companhia de Papel do Prado, S. A., e da FAPAJAL - Fábrica de Papel do Tojal, S. A., sociedades em que a PORTUCEL detinha participações entretanto reprivatizadas sem que aos respectivos trabalhadores tivessem sido destinadas acções, tendo-se aí remetido tal direito para ulteriores operações de reprivatização do Grupo PORTUCEL, no âmbito do processo de reorganização do sector da pasta e do papel, o que agora se faz.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "4983e994258bd63e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É aprovado o processo de reprivatização, em três fases, da totalidade do capital social da GESCARTÃO, SGPS, S. A., adiante apenas designada por GESCARTÃO, o qual será regulado pelo presente decreto-lei, pelo caderno de encargos anexo e pelas resoluções do Conselho de Ministros previstas nos artigos 8.º e 10.º\n\n2 - Na 1.ª fase de reprivatização proceder-se-á à alienação, por concurso público, de um bloco indivisível de acções.\n\n3 - Na 2.ª fase de reprivatização proceder-se-á à alienação de um bloco de acções através de oferta pública de venda destinada ao público em geral ou, em alternativa, mediante o exercício de uma opção de venda, ao adquirente do bloco referido no número anterior.\n\n4 - Na 3.ª fase de reprivatização proceder-se-á à alienação de um bloco de acções através de oferta pública de venda reservada a trabalhadores, pequenos subscritores e emigrantes."
+  },
+  "9926b3d489ee16f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — 1.ª fase",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — 1.ª fase\n\n1 - A 1.ª fase do processo de reprivatização consistirá na alienação, por concurso público, de um bloco indivisível de 12990250 acções, representativas de 65% do capital social da GESCARTÃO.\n\n2 - O concurso é aberto a entidades nacionais e estrangeiras, as quais poderão apresentar-se individualmente ou em agrupamento, devendo as propostas de compra ser apresentadas para a totalidade do bloco.\n\n3 - O adquirente do bloco de acções a que se refere o n.º 1 fica obrigado a adquirir as acções eventualmente sobrantes da oferta pública de venda destinada ao público em geral e da oferta pública de venda reservada a trabalhadores, pequenos subscritores e emigrantes, sem prejuízo de as acções não colocadas no âmbito de uma oferta transitarem para outra."
+  },
+  "6e508713c2d42152": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Acções indisponíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acções indisponíveis\n\n1 - As acções correspondentes a 51% do capital social da GESCARTÃO adquiridas no âmbito do concurso público, bem como as acções correspondentes a 51% do capital social da Portucel Viana - Empresa Produtora de Papéis Industriais, S. A., da Portucel Recicla - Indústria de Papel Reciclado, S. A., e da Portucel Embalagem - Empresa Produtora de Embalagens de Cartão, S. A., são, em qualquer circunstância, indisponíveis pelo prazo de três anos contados da data de publicação da resolução do Conselho de Ministros que determine o concorrente vencedor do concurso público previsto no artigo 2.º\n\n2 - Ficam igualmente sujeitas ao regime de indisponibilidade as acções adquiridas por força de direitos de incorporação ou no exercício de direitos de subscrição inerentes às acções referidas no número anterior.\n\n3 - As acções sujeitas ao regime de indisponibilidade devem ser inscritas, pelos respectivos titulares, numa única conta.\n\n4 - Se, em caso de aumentos do capital social de qualquer uma das sociedades referidas no n.º 1, o disposto no n.º 2 não for suficiente para garantir que acções representativas de 51% do capital social e dos direitos efectivos de voto das sociedades fiquem sujeitas ao regime de indisponibilidade, os titulares das acções sujeitas àquele regime ficam obrigados a reforçar as contas em que se encontrem inscritas por forma que nestas, em qualquer momento, se encontrem inscritas acções representativas daquela percentagem.\n\n5 - Os titulares das acções sujeitas ao regime de indisponibilidade obrigam-se a manter, em qualquer circunstância, uma participação representativa de 51% do capital social e dos direitos de voto das sociedades."
+  },
+  "d7c516a5631d4bb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Regime de indisponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime de indisponibilidade\n\n1 - As acções sujeitas ao regime de indisponibilidade não podem ser oneradas nem ser objecto de negócios jurídicos que visem a transmissão da respectiva titularidade, ainda que com eficácia futura, designadamente contratos-promessa e contratos de opção.\n\n2 - Não podem ser celebrados negócios pelos quais o titular das acções sujeitas ao regime de indisponibilidade se obrigue a exercer os direitos de voto inerentes às acções em determinado sentido.\n\n3 - Os direitos de voto inerentes às acções sujeitas ao regime de indisponibilidade não podem ser exercidos por interposta pessoa.\n\n4 - Mediante despacho conjunto, os Ministros das Finanças e da Economia, a requerimento dos interessados, podem autorizar, desde que estejam preenchidas as condições técnicas e financeiras para o efeito e, em qualquer caso, não seja prejudicada a realização dos objectivos da reprivatização:\n\na) A celebração dos negócios previstos nos n.os 1 e 2 entre membros do agrupamento, entre estes e terceiros ou entre o concorrente individual adquirente e terceiros;\n\nb) A redução da percentagem das acções que ficam sujeitas ao regime de indisponibilidade.\n\n5 - O regime de indisponibilidade previsto neste artigo aplica-se às acções adquiridas ao abrigo da autorização prevista no número anterior.\n\n6 - São nulos os negócios celebrados em violação dos números anteriores, ainda que antes de iniciado o período de indisponibilidade.\n\n7 - As nulidades previstas nos números anteriores podem ser judicialmente declaradas a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo as sociedades a que se refere o n.º 1 do artigo anterior."
+  },
+  "a2e90f958f1bc2c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Obrigação de não exercício do direito previsto no artigo 490.º, n.º 3, do Código das Sociedades Comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigação de não exercício do direito previsto no artigo 490.º, n.º 3, do Código das Sociedades Comerciais\n\n1 - Caso, em resultado da aquisição de acções ao abrigo do presente diploma, se verifique a situação prevista no n.º 1 do artigo 490.º do Código das Sociedades Comerciais, o concorrente adquirente, ou o membro do agrupamento adquirente em causa, fica obrigado a não exercer o direito que lhe é conferido pelo n.º 3 do artigo 490.º do Código das Sociedades Comerciais.\n\n2 - A requerimento fundamentado do interessado, os Ministros das Finanças e da Economia, mediante despacho conjunto, podem dispensar o cumprimento da obrigação prevista no número anterior."
+  },
+  "daf1abdf2d998687": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Obrigações dos cessionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações dos cessionários\n\nTransmitem-se para os cessionários sucessivos todas as obrigações do concorrente adquirente, ficando aqueles vinculados, nos mesmos termos, ao seu cumprimento."
+  },
+  "d9ebd92cc7abeb1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — 2.ª fase",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — 2.ª fase\n\n1 - A 2.ª fase do processo de reprivatização consistirá na alienação de um bloco de 4996250 acções, representativas de 25% do capital social da GESCARTÃO, através de oferta pública de venda destinada ao público em geral ou, em alternativa, do exercício de uma opção de venda ao adquirente do bloco referido no artigo 2.º\n\n2 - No caso de a alienação prevista no número anterior se concretizar através de oferta pública de venda destinada ao público em geral, poderá esta coincidir com a realização da oferta pública de venda destinada a trabalhadores, pequenos subscritores e emigrantes.\n\n3 - Caso não se realize, no prazo de três anos contados da data de publicação da resolução do Conselho de Ministros que determine o concorrente vencedor do concurso público previsto no artigo 2.º, a oferta pública de venda destinada ao público em geral ou não seja exercida a opção de venda, o adquirente das acções objecto do concurso público poderá comprar o bloco das acções referido no n.º 1.\n\n4 - A opção de compra do concorrente adquirente a que alude o número anterior poderá ser exercida, nas condições fixadas no caderno de encargos anexo a este diploma, pelo prazo de seis meses contados do termo final do prazo de exercício da opção de venda referida no n.º 3."
+  },
+  "a88046a09ef9f30f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Resolução do Conselho de Ministros relativa à 2.ª fase",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Resolução do Conselho de Ministros relativa à 2.ª fase\n\nAs eventuais decisões de realização da oferta pública de venda destinada ao público em geral ou de exercício da opção de venda referida no n.º 1 do artigo anterior e a fixação das respectivas condições serão tomadas pelo Conselho de Ministros mediante resolução."
+  },
+  "54a4c06c9be6f9b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — 3.ª fase",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — 3.ª fase\n\n1 - A 3.ª fase do processo de reprivatização consistirá na alienação, em condições especiais, de um bloco de 1998500 acções, representativas de 10% do capital social da GESCARTÃO, através de oferta pública de venda reservada a trabalhadores, pequenos subscritores e emigrantes.\n\n2 - Para efeitos do disposto no presente decreto-lei, consideram-se trabalhadores as pessoas que, nos termos do artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, estejam ou tenham estado ao serviço da PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., de qualquer das sociedades constituídas ao abrigo do [Decreto-Lei n.º 39/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1993-648137), de 13 de Fevereiro, da Companhia Papel do Prado, S. A., ou da FAPAJAL - Fábrica de Papel do Tojal, S. A."
+  },
+  "45b53629d186d922": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Resolução do Conselho de Ministros relativa à 3.ª fase",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Resolução do Conselho de Ministros relativa à 3.ª fase\n\n1 - No prazo de quatro anos contados da data de conclusão da aquisição das acções pela qual se concretize a 1.ª fase de reprivatização, o Conselho de Ministros estabelecerá, mediante resolução, as condições finais e concretas das operações necessárias à realização da 3.ª fase do processo de reprivatização.\n\n2 - A resolução referida no número anterior definirá as condições especiais de aquisição de acções por trabalhadores, pequenos subscritores e emigrantes, designadamente quanto ao preço e, relativamente aos trabalhadores, a possibilidade de pagamento em prestações.\n\n3 - As aquisições de acções por trabalhadores, pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas individuais, a fixar na resolução referida no n.º 1, procedendo-se a rateio, na forma a estabelecer na mesma resolução."
+  },
+  "1493c971f07c983e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Regime de indisponibilidade das acções reservadas a trabalhadores, pequenos subscritores e emigrantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime de indisponibilidade das acções reservadas a trabalhadores, pequenos subscritores e emigrantes\n\n1 - São indisponíveis por um prazo de seis meses as acções adquiridas no âmbito da oferta pública de venda a que se refere o artigo anterior.\n\n2 - O referido prazo de indisponibilidade conta-se desde o dia de realização da sessão especial de bolsa destinada a apurar os resultados da oferta.\n\n3 - Durante o prazo de indisponibilidade, as mencionadas acções não podem ser oneradas nem objecto de negócios jurídicos que visem a transmissão da respectiva titularidade, ainda que com eficácia futura.\n\n4 - São nulos os negócios celebrados em violação do número anterior, ainda que antes de iniciado o prazo de indisponibilidade.\n\n5 - As acções adquiridas no âmbito da oferta pública de venda por pequenos subscritores e emigrantes não conferem, durante o prazo de indisponibilidade, direito de voto.\n\n6 - Os direitos de voto inerentes a acções adquiridas no âmbito da oferta pública de venda por trabalhadores não podem ser exercidos, durante o prazo de indisponibilidade, por interposta pessoa.\n\n7 - Durante o período de indisponibilidade são nulos os negócios pelos quais os trabalhadores se obriguem a exercer, em determinado sentido, os direitos de voto inerentes às acções adquiridas no âmbito da oferta pública de venda."
+  },
+  "848b166b5476f71e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Limite à participação no capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Limite à participação no capital\n\n1 - Nenhuma entidade, singular ou colectiva, pode adquirir, no âmbito das operações que integram o processo de privatização regulado no presente decreto-lei, mais de 65% do capital social da GESCARTÃO, salvo por efeito do disposto no n.º 3 do artigo 2.º, na parte final do n.º 1 do artigo 7.º e no n.º 3 do mesmo artigo.\n\n2 - No caso de a 2.ª fase do processo de privatização se concretizar através de oferta pública de venda destinada ao público em geral, nenhuma entidade, singular ou colectiva, poderá adquirir no âmbito daquela oferta mais de 10% do capital social da GESCARTÃO.\n\n3 - Para efeitos deste diploma, consideram-se como a mesma entidade duas ou mais sociedades que tenham entre si relações de simples participação ou de participação recíproca de valor superior a 50% do capital social de uma delas ou que sejam dominadas pelo mesmo sócio."
+  },
+  "052081c6405c3473": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Mobilização de títulos da dívida pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Mobilização de títulos da dívida pública\n\n1 - Os titulares originários da dívida pública decorrente das nacionalizações e expropriações, no caso de mobilização, ao valor nominal, dos seus títulos de indemnização, nos termos do artigo 24.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, devem entregar, no momento do pagamento, declaração de conformidade com o disposto naquele preceito.\n\n2 - No prazo de 90 dias após a operação, o Ministro das Finanças, através do Instituto de Gestão do Crédito Público, verificará a veracidade das declarações referidas no número anterior e, se apurar o não cumprimento do disposto no artigo 24.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, considerar-se-á resolvida a venda quanto às acções pagas com tais títulos, salvo se o adquirente proceder à sua imediata liquidação em dinheiro, acrescida de um juro moratório, calculado à taxa de 1,5% ao mês.\n\n3 - O Instituto de Gestão do Crédito Público resgatará à PORTUCEL, SGPS, pelo respectivo valor nominal, os títulos referidos no número anterior."
+  },
+  "49cc97c985032ba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direitos especiais da PORTUCEL, SGPS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direitos especiais da PORTUCEL, SGPS\n\n1 - Enquanto a PORTUCEL, SGPS, for titular de acções representativas de uma percentagem igual ou superior a 10% do capital social da GESCARTÃO, as deliberações das assembleias gerais desta sociedade e da Portucel Viana - Empresa Produtora de Papéis Industriais, S. A., da Portucel Recicla - Indústria de Papel Reciclado, S. A., e da Portucel Embalagem - Empresa Produtora de Embalagens de Cartão, S. A., que versem sobre quaisquer alterações aos contratos de sociedade, designadamente aumentos de capital social, fusões, cisões, transformações ou dissoluções, bem como eleição dos órgãos sociais, só se consideram validamente tomadas:\n\na) No âmbito da assembleia geral da GESCARTÃO, com o voto favorável da PORTUCEL, SGPS;\n\nb) No âmbito das assembleias gerais das demais sociedades, com o voto favorável da GESCARTÃO.\n\n2 - Caso as assembleias gerais das sociedades referidas no n.º 1 do artigo 3.º reúnam para discussão de alguma das matérias referidas no número anterior, o mandato a conferir ao representante da GESCARTÃO é aprovado por unanimidade pelo conselho de administração da GESCARTÃO."
+  },
+  "6db021f1b0a2cac6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Delegação de competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Delegação de competência\n\nPara a realização das operações de reprivatização previstas no presente decreto-lei são delegados no Ministro das Finanças, com a faculdade de subdelegar no Secretário de Estado do Tesouro e das Finanças, os poderes bastantes para determinar as demais condições acessórias que se afigurem convenientes e para praticar os actos de execução que se revelarem necessários à concretização das operações, designadamente os poderes para autorizar a celebração, por ajuste directo, dos contratos de organização e colocação das ofertas públicas de venda."
+  },
+  "ba93980c0509d746": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Convocação de assembleias gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Convocação de assembleias gerais\n\nNo prazo máximo de 30 dias contados da data de publicação da resolução do Conselho de Ministros que determine o vencedor do concurso público, os conselhos de administração da GESCARTÃO, da Portucel Viana - Empresa Produtora de Papéis Industriais, S. A., da Portucel Recicla - Indústria de Papel Reciclado, S. A., e da Portucel Embalagem - Empresa Produtora de Embalagens de Cartão, S. A., requererão a convocação das assembleias gerais de accionistas para reunir no prazo mínimo previsto na lei, a fim de serem eleitos os membros dos órgãos sociais."
+  },
+  "fb1efdb0e551161a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Publicidade de participações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Publicidade de participações\n\nNo prazo de 15 dias contados do termo de cada uma das fases de privatização, a GESCARTÃO publicará, nos termos previstos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos accionistas titulares de acções representativas de percentagem igual ou superior a 5% do respectivo capital social, indicando a percentagem do capital correspondente às acções de que cada um dos referidos accionistas seja titular."
+  },
+  "11618a3b84eb4e7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Aprovação do caderno de encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Aprovação do caderno de encargos\n\nÉ aprovado o caderno de encargos anexo ao presente decreto-lei, do qual faz parte integrante, regulamentando os termos e condições do concurso público a que alude o n.º 2 do artigo 1.º"
+  },
+  "e0ab2a9fabd25ada": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 22 de Julho de 1999. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Vítor Manuel Sampaio Caetano Ramalho.\n\nPromulgado em 30 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Setembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nCADERNO DE ENCARGOS"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "d0dcb5661f3294ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto do concurso\n\n1 - O presente caderno de encargos rege o concurso público relativo à alienação de um lote indivisível de 12990250 acções da GESCARTÃO, SGPS, S. A., adiante apenas designada por GESCARTÃO, a levar a efeito nos termos dos artigos 6.º e 7.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e do decreto-lei que aprova o presente caderno de encargos.\n\n2 - O objecto do concurso é a alienação do lote de acções referido no número anterior, representativo de 65% do capital social da GESCARTÃO.\n\n3 - As acções referidas no n.º 1 têm o valor nominal de 1000$00 cada e são da titularidade da PORTUCEL - Empresa de Celulose e Papel de Portugal, SGPS, S. A., adiante apenas designada por PORTUCEL, SGPS.\n\n4 - A GESCARTÃO é titular da totalidade do capital social da Portucel Viana - Empresa Produtora de Papéis Industriais, S. A., da Portucel Recicla - Indústria de Papel Reciclado, S. A., e da Portucel Embalagem - Empresa Produtora de Embalagens de Cartão, S. A., adiante apenas designadas, respectivamente, por Portucel Viana, Portucel Recicla e Portucel Embalagem.\n\n5 - A alienação deve ser feita a quem demonstre possuir experiência de gestão, em particular em indústrias onde estão inseridas as sociedades referidas no número anterior, e idoneidade e capacidade técnica e financeira indispensáveis ao prosseguimento dos seguintes objectivos:\n\na) Desenvolvimento do grupo GESCARTÃO;\n\nb) Um melhor aproveitamento das sinergias intragrupo;\n\nc) Construção da unidade fabril a que se refere o artigo 26.º"
+  },
+  "89a2515b4b402348": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime da operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime da operação\n\nA operação descrita no artigo anterior é contratada, em bloco, com o concorrente individual vencedor ou com o conjunto das entidades que integrem o agrupamento vencedor, neste caso na proporção das acções que cada uma haja declarado pretender adquirir."
+  },
+  "41a27f1d4242411f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Fases do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fases do concurso\n\n1 - O concurso processa-se nas seguintes fases:\n\na) Entrega, abertura e admissão das propostas;\n\nb) Abertura e admissão das ofertas, avaliação dos concorrentes e das propostas e determinação do adquirente.\n\n2 - Apenas passam à 2.ª fase os concorrentes admitidos na 1.ª"
+  },
+  "d87c93629d0db853": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Concorrentes\n\n1 - O concurso é aberto a entidades nacionais e estrangeiras, que podem concorrer individualmente ou em agrupamento.\n\n2 - Cada concorrente só pode apresentar uma proposta.\n\n3 - Cada entidade não pode integrar mais de um agrupamento concorrente.\n\n4 - Nenhuma entidade pode, em simultâneo, integrar um agrupamento e concorrer individualmente.\n\n5 - Consideram-se como a mesma entidade duas ou mais sociedades que tenham entre si relações de simples participação ou relações de participação recíproca de valor superior a 50% do capital social de uma delas ou que sejam dominadas pelo mesmo sócio.\n\n6 - O termo concorrente designa, indistintamente, quer o concorrente individual quer o agrupamento concorrente.\n\n7 - As entidades, singulares ou colectivas, que compõem o agrupamento concorrente são pessoal e solidariamente responsáveis pelo cumprimento das obrigações previstas no presente caderno de encargos."
+  },
+  "ec04ae35f64a04c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Júri do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Júri do concurso\n\n1 - O concurso é conduzido por um júri, composto pelo inspector-geral de Finanças, que preside, pelo director-geral da Indústria e pelo presidente da Secção Especializada para as Reprivatizações, que podem ser substituídos por quem designarem para o efeito.\n\n2 - Compete ao júri, designadamente, proceder à recepção e admissão das propostas e à avaliação destas com vista à elaboração do relatório a submeter a Conselho de Ministros.\n\n3 - Sempre que o julgar conveniente, o júri pode contactar os concorrentes para esclarecer ou pormenorizar aspectos das respectivas propostas que possam oferecer dúvidas, podendo fixar prazos para obtenção dos elementos solicitados.\n\n4 - O júri designa, de entre o pessoal da Inspecção-Geral de Finanças, um secretário, a quem compete, designadamente, lavrar as actas.\n\n5 - O apoio técnico ao júri é prestado pela Inspecção-Geral de Finanças, pela Secção Especializada para as Reprivatizações e pela PORTUCEL, SGPS.\n\n6 - O júri deve fundamentar em acta as suas deliberações e as mesmas são aprovadas por maioria de votos, não sendo admitida a abstenção.\n\n7 - Nas deliberações em que haja voto de vencido de algum membro do júri, menciona-se em acta essa circunstância, podendo o membro em questão fazer exarar as razões da sua discordância.\n\n8 - Os membros do júri entram em exercício de funções a partir da data da entrada em vigor do decreto-lei que aprova o presente caderno de encargos."
+  },
+  "4171c2749888ad34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Preço e condições de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Preço e condições de pagamento\n\n1 - O preço por acção é o que for indicado pelos concorrentes.\n\n2 - O pagamento de 70% do preço total oferecido pelo bloco de acções a que se refere o n.º 1 do artigo 1.º deve ser efectuado no prazo fixado no n.º 1 do artigo 25.º\n\n3 - O pagamento do remanescente do preço deve ser efectuado no prazo fixado no n.º 3 do artigo 25.º e atenderá ao disposto nos números seguintes.\n\n4 - Quando, na sequência de decisões tomadas pelas entidades competentes sobre as respectivas candidaturas, sejam concedidos subsídios, nacionais ou comunitários, de valor inferior a 20% do preço total oferecido pelo referido bloco de acções, destinados a financiar a construção da unidade fabril a que alude o artigo 26.º, será deduzido, ao remanescente do preço a pagar nos termos do número anterior, a diferença entre aqueles 20% e o montante dos subsídios atribuídos.\n\n5 - Quando, na sequência de decisões tomadas pelas entidades competentes sobre as respectivas candidaturas, não sejam concedidos subsídios, nacionais ou comunitários, destinados a financiar a construção da unidade fabril a que alude o artigo 26.º, serão deduzidos, ao remanescente do preço a pagar nos termos do n.º 3, 20% do preço total oferecido pelo referido bloco de acções.\n\n6 - Não haverá lugar a qualquer dedução quando:\n\na) O montante dos subsídios atribuídos for de valor igual ou superior a 20% do preço total oferecido pelo referido bloco de acções;\n\nb) Não sejam atribuídos subsídios por causa imputável ao concorrente adquirente.\n\n7 - Verificando-se a concessão de subsídios depois de ter ocorrido o pagamento do remanescente do preço, o concorrente adquirente do referido bloco de acções, caso tenha beneficiado do regime previsto nos n.os 4 ou 5, deve, nos 10 dias subsequentes ao recebimento dos subsídios, entregar à Portucel, SGPS, a diferença entre o valor que seria devido nos termos definidos nos n.os 4 e 5 e o valor entretanto pago.\n\n8 - Para efeitos do disposto nos números anteriores, o concorrente adquirente do referido bloco de acções ou a Portucel Recicla deve apresentar à PORTUCEL, SGPS, documentos demonstrativos dos subsídios solicitados, bem como das respectivas concessões ou indeferimentos."
+  },
+  "c619faf3eab94752": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Documentação à disposição dos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Documentação à disposição dos interessados\n\n1 - Os interessados que o pretendam podem obter gratuitamente junto da PORTUCEL, SGPS, após a publicação do decreto-lei que aprova o presente caderno de encargos e até cinco dias antes do termo do prazo para a entrega das propostas, um memorando informativo respeitante à GESCARTÃO, Portucel Viana, Portucel Recicla e Portucel Embalagem.\n\n2 - Dentro do mesmo prazo, podem os interessados solicitar à PORTUCEL, SGPS, um conjunto de documentação de natureza confidencial, constituído, entre outros, pelos relatórios das instituições que procederam à auditoria e avaliação da GESCARTÃO, Portucel Viana, Portucel Recicla e Portucel Embalagem, contra o depósito não remunerado, na conta NIB 001800000073888800172, da agência da Rua do Ouro, Lisboa, do Banco Totta & Açores, à ordem da Portucel, SGPS, da importância de 20000000$00, a qual lhes será restituída no prazo de três dias úteis subsequentes à admissão das respectivas propostas, incluindo-se nestas as correspondentes ofertas.\n\n3 - Os interessados que não apresentem proposta ou os concorrentes que sejam excluídos nos termos dos n.os 3 dos artigos 16.º, 17.º e 18.º perdem o direito ao reembolso do depósito referido no número anterior, o qual reverte a favor da PORTUCEL, SGPS.\n\n4 - As entidades que, nos termos do n.º 2, tomem conhecimento do teor da documentação aí referida ficam obrigadas a sigilo quanto ao que dela constar."
+  },
+  "f00c5385a64b1943": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Constituição das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Constituição das propostas\n\n1 - A proposta é constituída por:\n\na) Uma carta redigida em língua portuguesa, nos termos da minuta indicada no anexo I (oferta) deste caderno de encargos, datada e assinada pelo concorrente ou pelos seus representantes legais, se se tratar de pessoa colectiva, ou pelo mandatário designado nos termos do n.º 2 do artigo seguinte ou pelo representante comum do agrupamento;\n\nb) Um memorando, datado e assinado nos termos da alínea anterior, descrevendo pormenorizadamente quais as estratégias de desenvolvimento propostas, designadamente para a concretização dos objectivos que se encontram definidos no n.º 5 do artigo 1.º, bem como quais as principais medidas que pretende aplicar e os meios que se propõe afectar à concretização daquelas estratégias;\n\nc) A documentação exigida no n.º 1 do artigo seguinte.\n\n2 - O memorando indicado na alínea b) do número anterior deve, nomeadamente, fazer referência aos seguintes aspectos:\n\na) Estratégia empresarial a prosseguir pela GESCARTÃO e cada uma das suas participadas, Portucel Viana, Portucel Recicla e Portucel Embalagem, nos seus domínios de actividade;\n\nb) Termos em que se concretizará a obrigação a que se refere o artigo 26.º;\n\nc) Planos de investimentos individualizados relativos à Portucel Viana, Portucel Recicla e Portucel Embalagem para os próximos três anos, bem como os meios financeiros a utilizar para o efeito;\n\nd) Inserção da Portucel Viana, da Portucel Recicla e da Portucel Embalagem na estratégia da organização do concorrente individual ou de cada uma das entidades que integrem o agrupamento, com indicação das condições que permitam o melhor aproveitamento de sinergias e complementaridades;\n\ne) Política de recursos humanos a adoptar, designadamente no que se refere ao preenchimento de postos de trabalho na nova unidade fabril a construir no concelho de Mourão com recurso a trabalhadores existentes na Portucel Recicla aquando o encerramento da sua fábrica sita em Ponte do Guadiana, Vale de Maceira, naquele concelho;\n\nf) Formas de contribuição para o desenvolvimento do sector da pasta e papel nacional.\n\n3 - As propostas apresentadas pelos concorrentes não podem conter qualquer cláusula condicionadora da aquisição pretendida.\n\n4 - A apresentação da proposta envolve, para cada concorrente individual ou para cada uma das entidades que integrem um agrupamento, o compromisso de que dispõe dos meios financeiros adequados à concretização da operação."
+  },
+  "ecbcd5f9f1dff590": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Documentos\n\n1 - Os documentos a que se refere a alínea c) do n.º 1 do artigo anterior são os seguintes:\n\na) Uma resposta pormenorizada ao questionário que constitui o anexo II deste caderno de encargos, datada e assinada pelo concorrente ou pelos seus representantes legais, se se tratar de pessoa colectiva, ou pelo mandatário designado nos termos do n.º 2 ou pelo representante comum do agrupamento;\n\nb) No caso de pessoas colectivas, ainda que integrando um agrupamento, certificado de existência legal (ou equivalente) do qual conste a composição dos órgãos sociais, exemplar actualizado do contrato de sociedade e indicação dos sócios cuja participação no capital social seja igual ou superior a 10%;\n\nc) No caso de pessoas colectivas, ainda que integrando um agrupamento, documentos de prestação de contas (relatório de gestão, balanço, demonstração de resultados, respectivos anexos e certificação legal das contas nos casos legalmente previstos) dos três últimos exercícios findos ou dos exercícios findos desde a constituição, caso esta tenha ocorrido há menos de três anos;\n\nd) No caso de pessoas singulares, ainda que integrando um agrupamento, declaração de rendimentos dos três últimos anos, relação de bens patrimoniais e, eventualmente, outros elementos que comprovem a capacidade financeira adequada para aquisição das acções a que se propõem;\n\ne) No caso de pessoas singulares ou pessoas colectivas, ainda que integrando um agrupamento, certidões comprovativas de que têm a sua situação regularizada perante a Fazenda Nacional e a segurança social;\n\nf) No caso de pessoas singulares ou colectivas, ainda que integrando um agrupamento, indicação das funções exercidas em órgãos sociais de outras sociedades, bem como identificação das sociedades em que detenham uma participação não inferior a 10% do respectivo capital;\n\ng) No caso de agrupamento, indicação do número de acções que cada entidade que o constitui se propõe adquirir;\n\nh) Instrumento de mandato, emitido por cada uma das entidades que integrem o agrupamento, designando um representante comum efectivo, bem como um suplente, para efeitos do processo de concurso, sendo as assinaturas reconhecidas notarialmente (ou equivalente);\n\ni) Declaração de aceitação sem reservas das condições a que obedece o presente concurso, assinada pelo concorrente ou pelos seus representantes legais, se se tratar de pessoa colectiva, ou por cada uma das entidades que integrem o agrupamento;\n\nj) Declaração emitida por cada pessoa colectiva, ainda que integrando um agrupamento, na qual indique se tem ou não relações de simples participação ou relações de participação recíproca, tal como são definidas no n.º 5 do artigo 4.º, com outra entidade também concorrente;\n\nk) No caso de existir, contrato de consórcio ou documento que consubstancie um futuro acordo de accionistas, qualquer que seja a forma jurídica que este possa revestir;\n\nl) Comprovativo da prestação da caução a que se refere o n.º 1 do artigo seguinte;\n\nm) No caso de os documentos referidos nas alíneas anteriores não se encontrarem redigidos em língua portuguesa, respectiva tradução, assinada pelo concorrente ou pelos seus representantes legais, se se tratar de pessoa colectiva, ou pelo mandatário designado nos termos do n.º 2 ou pelo representante comum do agrupamento, entendendo-se, neste caso, que o concorrente aceita a prevalência da tradução, para todos e quaisquer efeitos, sobre os respectivos originais.\n\n2 - Os concorrentes individuais, pessoas singulares ou colectivas, podem juntar aos documentos referidos no número anterior instrumento de mandato, designando um representante efectivo e um suplente para efeitos do processo do concurso, sendo as assinaturas reconhecidas notarialmente (ou equivalente).\n\n3 - No caso de o concorrente individual, pessoa singular ou colectiva, optar pela entrega do instrumento de mandato indicado no número anterior, os actos relativos ao presente concurso podem ser praticados pelo respectivo mandatário.\n\n4 - Os documentos referidos no n.º 1 devem ser rubricados pelo concorrente ou pelos seus representantes legais, se se tratar de pessoa colectiva, ou pelo mandatário designado nos termos do n.º 2 ou pelo representante comum do agrupamento."
+  },
+  "8eba806c95b22039": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Caução\n\n1 - É obrigatória a prestação de uma caução pelos concorrentes, através de depósito não remunerado, à ordem da PORTUCEL, SGPS, na importância de 80000000$00, a efectuar na conta NIB 001800000073888800172, da agência da Rua do Ouro, Lisboa, do Banco Totta & Açores, ou mediante garantia bancária ou seguro-caução emitidos de acordo com o anexo III deste caderno de encargos, destinada a assegurar a não revogação da proposta e a observância das condições fixadas neste caderno de encargos.\n\n2 - Os concorrentes que revoguem as suas propostas e os que sejam excluídos ao abrigo do n.º 4 do artigo 21.º perdem, a favor da PORTUCEL, SGPS, as respectivas cauções.\n\n3 - Sem prejuízo do disposto no número anterior, o concorrente vencedor, bem como o que lhe suceder nos termos do n.º 2 do artigo 24.º, perde a caução, a favor da PORTUCEL, SGPS, se não proceder ao pagamento do preço das acções objecto de alienação e não prestar a garantia a que se refere o artigo 44.º, nas condições e prazos fixados neste caderno de encargos.\n\n4 - Nos cinco dias úteis subsequentes à conclusão do acto público previsto nos artigos 14.º a 18.º são liberadas as cauções prestadas pelos concorrentes aí excluídos.\n\n5 - Sem prejuízo do disposto nos n.os 2 e 3, as cauções prestadas pelos outros concorrentes são liberadas nos cinco dias posteriores ao pagamento previsto no artigo 25.º"
+  },
+  "ed2864bb6dd1fa68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Organização da proposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Organização da proposta\n\n1 - A carta referida na alínea a) do n.º 1 do artigo 8.º, bem como o memorando a que se refere a alínea b) do mesmo número, são introduzidos em sobrescrito opaco, o qual deve ser fechado e lacrado e onde se deve escrever a palavra «oferta».\n\n2 - No caso de o memorando se encontrar redigido em língua estrangeira, a respectiva tradução é igualmente introduzida no sobrescrito referido no número anterior, sendo aplicável à tradução o disposto na alínea m) do n.º 1 do artigo 9.º\n\n3 - A restante documentação é introduzida noutro sobrescrito opaco, o qual deve ser fechado e lacrado e onde se deve escrever a palavra «Documentos».\n\n4 - Os sobrescritos referidos nos números anteriores são, por sua vez, introduzidos num outro, designado por sobrescrito exterior, também opaco, fechado e lacrado.\n\n5 - Em todos os sobrescritos tem de constar, exteriormente, o objecto do concurso nos termos seguintes: «Concurso público relativo à alienação das acções da GESCARTÃO».\n\n6 - Nos sobrescritos indicados nos n.os 3 e 4 consta, exteriormente, consoante o caso, o nome do concorrente individual, pessoa singular ou colectiva, ou a designação de todas as entidades que integrem o agrupamento concorrente, bem como o nome do mandatário referido no n.º 2 do artigo 9.º, quando designado, ou do representante comum do agrupamento."
+  },
+  "1a3c1b58707b2434": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Fase de entrega, abertura e admissão das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Fase de entrega, abertura e admissão das propostas"
+  },
+  "caa74b10d880de74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Entrega das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Entrega das propostas"
+  },
+  "fe36e6fb9489f835": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Entrega das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrega das propostas\n\n1 - As propostas a apresentar no âmbito do presente concurso são entregues na Inspecção-Geral de Finanças, sita na Rua de Angelina Vidal, 41, em Lisboa, até às 17 horas do 30.º dia útil posterior à entrada em vigor do decreto-lei que aprova o presente caderno de encargos.\n\n2 - Contra a entrega da proposta é passado recibo do qual constam a identificação e a morada da pessoa que a entrega, a data e hora em que a mesma é recebida, bem como o número de ordem de apresentação, devendo iguais anotações ser feitas no sobrescrito exterior que a contém."
+  },
+  "737fee11540c7b05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Esclarecimentos e prorrogação do prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Esclarecimentos e prorrogação do prazo\n\n1 - Qualquer pedido de esclarecimento de ordem processual que os interessados pretendam ver satisfeito, com vista à formulação das respectivas propostas, deve ser apresentado ao júri, por escrito, na morada indicada no n.º 1 do artigo anterior, durante o primeiro terço do prazo fixado para a entrega das mesmas e respondido, por aquele, no terço subsequente do referido prazo.\n\n2 - A falta de prestação, pelo júri, dentro do prazo indicado, do esclarecimento solicitado, nos termos previstos no número anterior pode justificar a prorrogação, até ao limite de 15 dias, do prazo de entrega das propostas, a requerimento do interessado, se o mesmo júri considerar que a dúvida levantada é pertinente e susceptível de afectar a boa compreensão dos termos ou dos documentos do concurso.\n\n3 - Os esclarecimentos prestados são publicados no Boletim de Cotações da Bolsa de Valores de Lisboa e podem ser anunciados por outros meios que o júri considere adequados."
+  },
+  "dab2811fcde10782": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Abertura e admissão das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Abertura e admissão das propostas"
+  },
+  "5147d6929ae4adb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Acto público de abertura e admissão das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acto público de abertura e admissão das propostas\n\n1 - O acto público de abertura e admissão das propostas tem lugar na Inspecção-Geral de Finanças, na morada indicada no n.º 1 do artigo 12.º, pelas 10 horas do 1.º dia útil seguinte ao termo do prazo para a respectiva entrega.\n\n2 - O acto tem a presença do Procurador-Geral da República ou de um seu representante e a ele pode assistir qualquer interessado.\n\n3 - Apenas podem intervir os concorrentes ou os seus representantes legais, tratando-se de pessoas colectivas, ou os mandatários designados nos termos do n.º 2 do artigo 9.º e os representantes comuns dos agrupamentos.\n\n4 - Para efeitos do número anterior, as pessoas colectivas que se apresentem a concurso individualmente devem indicar, podendo fazê-lo no acto público, um único representante para intervir em seu nome.\n\n5 - Os concorrentes ou os seus representantes podem apresentar, no acto, reclamações contra a admissão de qualquer outro concorrente ou contra a sua própria exclusão, ou da entidade que representam, podendo, para o efeito, examinar, durante o período fixado pelo júri, toda a documentação instrutora das propostas.\n\n6 - São exaradas em acta as reclamações formuladas pelos concorrentes ou seus representantes no acto público, bem como as deliberações fundamentadas que se tomem sobre elas.\n\n7 - Em qualquer momento, o presidente do júri pode interromper o acto público ou a sessão privada a que se refere o n.º 1 do artigo 16.º, fixando logo a data da sua continuação, devendo justificar os motivos por que o faz."
+  },
+  "e875a8c1d44bd4cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Abertura das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Abertura das propostas\n\n1 - O acto público referido no artigo anterior inicia-se pela abertura de todos os sobrescritos exteriores, mas dos sobrescritos nestes contidos apenas são abertos, nesta fase, os relativos a documentos, mantendo-se inviolados os das ofertas.\n\n2 - É feita depois a leitura da lista de concorrentes, elaborada de acordo com a ordem de entrada das propostas.\n\n3 - De seguida, o presidente do júri procede à identificação dos concorrentes e dos seus representantes.\n\n4 - Os sobrescritos relativos às ofertas são introduzidos num outro sobrescrito opaco, o qual deve ser fechado e lacrado.\n\n5 - O sobrescrito referido no número anterior deve ser assinado por todos os membros do júri, pelo Procurador-Geral da República ou seu representante e por todos os concorrentes e seus representantes presentes no acto público."
+  },
+  "a58145ce6b7ab859": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Admissão das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Admissão das propostas\n\n1 - Interrompido o acto público, o júri, em sessão privada, começa por rubricar, por dois dos seus membros, todos os documentos, podendo as rubricas ser substituídas por chancela.\n\n2 - Cumprida esta diligência, o júri delibera sobre a admissão das propostas.\n\n3 - São excluídas as propostas que:\n\na) Não sejam entregues no local e no prazo fixados;\n\nb) Não observem o disposto nos n.os 2 a 4 do artigo 4.º;\n\nc) Nos documentos exigidos no artigo 90.º incluam qualquer referência que o júri considere indiciadora do valor oferecido pelas acções objecto do presente concurso;\n\nd) Na respectiva organização não observem o disposto no artigo 11.º e desde que o júri considere a falta perturbadora do processo;\n\ne) Na documentação apresentada incluam qualquer cláusula que o júri considere condicionadora da aquisição pretendida.\n\n4 - São admitidas condicionalmente as propostas que:\n\na) Não integrem a totalidade dos documentos exigidos no n.º 1 do artigo 9.º;\n\nb) Na documentação apresentada omitam qualquer elemento exigido.\n\n5 - Retomada a sessão pública, o presidente do júri dá a conhecer a lista das propostas admitidas, bem como das admitidas condicionalmente e das liminarmente excluídas, indicando, nestes dois últimos casos, as respectivas razões.\n\n6 - No caso de existirem propostas admitidas condicionalmente, o júri concede até três dias úteis aos respectivos concorrentes para entregarem, contra a emissão de recibo, os documentos em falta ou completarem os elementos omissos, não sendo exigida qualquer formalidade para a respectiva apresentação.\n\n7 - Para efeitos do número anterior, os concorrentes consideram-se devidamente notificados pelo júri no próprio acto público, ainda que não estejam presentes ou representados.\n\n8 - Verificando-se a situação prevista no n.º 6, o júri, indica o local, a hora e o dia limites para os concorrentes admitidos condicionalmente completarem as suas propostas e interrompe o acto público."
+  },
+  "c3693a705a677ecc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Prosseguimento do acto público no caso de ocorrer a admissão condicional de propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prosseguimento do acto público no caso de ocorrer a admissão condicional de propostas\n\n1 - Ocorrendo a situação prevista no n.º 6 do artigo anterior, o acto público prossegue pelas 11 horas do 1.º dia útil imediato ao termo do prazo fixado para a entrega dos documentos e elementos em falta.\n\n2 - Verificados os documentos e os elementos entregues, o júri delibera sobre a admissão definitiva e a exclusão das propostas admitidas condicionalmente.\n\n3 - São excluídas as propostas condicionalmente admitidas quando:\n\na) Os documentos em falta não sejam entregues no local e no prazo fixados;\n\nb) Na nova documentação apresentada seja omitido qualquer elemento exigido ou não sejam entregues os elementos entretanto exigidos e desde que o júri, em qualquer caso, considere a falta essencial;\n\nc) Na nova documentação entregue se inclua qualquer referência que o júri considere indiciadora do valor oferecido pelas acções objecto do presente concurso;\n\nd) Na nova documentação apresentada se inclua qualquer cláusula que o júri considere condicionadora da aquisição pretendida.\n\n4 - O júri dá a conhecer as razões da exclusão de propostas nesta fase do processo, bem como a lista definitiva dos concorrentes admitidos."
+  },
+  "92ec390aa498278b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III\n\nFase de abertura e admissão das ofertas, avaliação dos concorrentes e das propostas e determinação do adquirente."
+  },
+  "25a51ee84dc9391b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Abertura e admissão das ofertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Abertura e admissão das ofertas"
+  },
+  "6dd73337c9c6ec24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Abertura e admissão das ofertas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Abertura e admissão das ofertas\n\n1 - Cumprido o disposto nos artigos anteriores, procede-se, de seguida, à abertura dos sobrescritos das ofertas dos concorrentes admitidos e à verificação dos documentos aí inseridos, devendo estes ser rubricados por, pelo menos, dois membros do júri.\n\n2 - O júri, se o entender oportuno, pode proceder, em sessão privada, ao exame da documentação referida no número anterior e aí deliberar sobre a admissão das ofertas.\n\n3 - São excluídos nesta fase os concorrentes que:\n\na) Na carta a que se refere a alínea a) do n.º 1 do artigo 8.º não apresentem preço;\n\nb) Na oferta não respeitem o que se encontra estabelecido nas alíneas a) e b) do n.º 1 do artigo 8.º ou no n.º 2 do artigo 11.º, desde que o júri considere a falta perturbadora do processo;\n\nc) Na carta ou no memorando a que se referem as alíneas a) e b) do n.º 1 do artigo 8.º incluam qualquer cláusula que o júri considere condicionadora da aquisição pretendida.\n\n4 - É feita, de seguida, a leitura pública das ofertas admitidas, sendo elaborada uma lista dos concorrentes e dos valores oferecidos.\n\n5 - O disposto nos n.os 2 a 7 do artigo 14.º continua a ser aplicável, com as necessárias adaptações, a esta fase do acto público."
+  },
+  "829adbbd1db6541a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Recursos"
+  },
+  "14f4a6d1e30653cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Interposição de recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Interposição de recursos\n\n1 - Das deliberações sobre reclamações, apresentadas nos termos do n.º 5 do artigo 14.º, cabe recurso, sem efeito suspensivo, para o Ministro das Finanças.\n\n2 - O recurso deve ser interposto no prazo de cinco dias úteis a contar da notificação do indeferimento ou da entrega da certidão da acta onde conste aquele acto, desde que aquela seja requerida nos três dias úteis subsequentes ao termo do acto público.\n\n3 - O recurso interpõe-se por meio de requerimento, no qual o recorrente deve expor todos os fundamentos do mesmo.\n\n4 - O requerimento de interposição do recurso pode ser apresentado na Inspecção-Geral de Finanças ou no Gabinete do Ministro das Finanças.\n\n5 - O recurso deve ser remetido ao Ministro das Finanças no 1.º dia útil imediato ao da sua interposição."
+  },
+  "4514f887f964a4ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Decisão sobre os recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Decisão sobre os recursos\n\n1 - Se o recurso for deferido, praticar-se-ão os actos necessários à satisfação dos legítimos interesses do recorrente.\n\n2 - Considera-se indeferido o recurso se o recorrente não for notificado da decisão no prazo de 10 dias úteis após a sua apresentação."
+  },
+  "e8294f8819cde775": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Concentração de empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Concentração de empresas"
+  },
+  "fa35539b389c5e13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Notificação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Notificação prévia\n\n1 - Caso se encontre obrigado, nos termos da legislação aplicável, a proceder a notificação prévia de operação de concentração de empresas, o respectivo concorrente deve entregar ao júri documento comprovativo da realização da notificação prévia perante a entidade competente.\n\n2 - A entrega do documento referido no número anterior deve ocorrer nos cinco dias úteis subsequentes ao termo do acto público.\n\n3 - É de cinco dias úteis contados da data em que o concorrente seja notificado da decisão ou, se for caso disso, da data em que se verifique a autorização tácita, o prazo para entrega daquela notificação ao júri ou para demonstrar da verificação da autorização tácita.\n\n4 - A inobservância do disposto no n.º 2 ou no n.º 3 determina a exclusão do concorrente faltoso."
+  },
+  "0df61db1f9a20631": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Avaliação dos concorrentes e das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Avaliação dos concorrentes e das propostas"
+  },
+  "532c84e96734d665": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Avaliação dos concorrentes e das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Avaliação dos concorrentes e das propostas\n\n1 - Concluído o acto público previsto nos artigos 14.º a 18.º, o júri, com base na documentação recebida, procede à avaliação dos concorrentes e das suas propostas.\n\n2 - Na avaliação deve, face aos objectivos previstos no n.º 5 do artigo 1.º, ter-se em consideração a conjugação dos preços oferecidos com as demais condições apresentadas.\n\n3 - Para além dos preços oferecidos, são ponderados, designadamente e desde que demonstrados, os seguintes aspectos:\n\na) Situação e capacidade financeira;\n\nb) Experiência de gestão, em particular em indústrias onde estão inseridas as sociedades participadas pela GESCARTÃO;\n\nc) Capacidade para o desenvolvimento do sector castanho em Portugal;\n\nd) Estratégias de desenvolvimento propostas;\n\ne) Termos em que se concretizará a obrigação a que se refere o artigo 26.º;\n\nf) Capacidade para potenciar as sinergias existentes;\n\ng) Política de recursos humanos a adoptar;\n\nh) Potencial de contribuição para o desenvolvimento do sector da pasta e papel nacional."
+  },
+  "2509c2f5db3e479e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Relatório do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Relatório do júri\n\n1 - Concluída a avaliação dos concorrentes e das suas propostas, o júri elabora relatório circunstanciado, que submete à aprovação do Governo.\n\n2 - O relatório referido no número anterior deve conter a apreciação de cada um dos concorrentes e das respectivas propostas e a ordenação do seu mérito relativo.\n\n3 - No mesmo relatório deve ainda constar a fundamentação das razões que levaram à exclusão de concorrentes nos termos dos n.os 3 dos artigos 16.º, 17.º e 18.º e do n.º 4 do artigo 21.º\n\n4 - O relatório é enviado a Conselho de Ministros, no prazo de 20 dias úteis a contar do termo do acto público previsto nos artigos 14.º a 18.º, acompanhado de toda a documentação, a fim de permitir que sobre ele seja tomada a resolução referida no artigo seguinte.\n\n5 - Caso se verifique a situação prevista no n.º 1 do artigo 21.º, o prazo referido no número anterior é prorrogado por cinco dias úteis contados da data da entrega do documento a que alude o n.º 3 do artigo 21.º"
+  },
+  "faf7cfec606b92d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Determinação do adquirente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Determinação do adquirente"
+  },
+  "b56a3a628384b308": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Escolha mediante resolução do Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Escolha mediante resolução do Conselho de Ministros\n\n1 - O Conselho de Ministros, em face do relatório do júri, pode, mediante resolução:\n\na) Homologar a ordenação proposta, determinando, em consequência, o concorrente vencedor;\n\nb) Alterar a ordenação proposta, determinando que a alienação seja feita a favor de outro concorrente;\n\nc) Rejeitar uma ou mais das propostas apresentadas, por considerar que não satisfazem integralmente os objectivos do concurso.\n\n2 - Se o concorrente vencedor não proceder, nas condições e prazo fixados no n.º 1 do artigo seguinte, ao pagamento de 70% do preço das acções objecto de alienação ou à prestação da garantia a que se refere o artigo 44.º, a venda é efectuada ao concorrente ordenado imediatamente a seguir, sem prejuízo do disposto no n.º 3 do artigo 10.º\n\n3 - A proposta e a aceitação desta pela resolução do Conselho de Ministros referida no n.º 1, bem como as condições fixadas neste caderno de encargos, consubstanciam o contrato celebrado com o adquirente, o qual se regula pelas disposições legais aplicáveis."
+  },
+  "7a8ee038f992b7e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Pagamento do preço e prova da prestação de garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Pagamento do preço e prova da prestação de garantia\n\n1 - O pagamento de 70% do preço das acções objecto de alienação é efectuado, integralmente, nos 10 dias úteis seguintes à determinação do concorrente vencedor ou do que lhe suceder, nos termos do n.º 2 do artigo anterior, mediante depósito à ordem da PORTUCEL, SGPS, a efectuar na conta NIB 001800000073888800172, da agência da Rua do Ouro, Lisboa, do Banco Totta & Açores.\n\n2 - O concorrente vencedor ou o que lhe suceder nos termos do n.º 2 do artigo anterior deve, nos três dias úteis subsequentes à realização do pagamento previsto no n.º 1, provar perante o júri que se encontra pago o respectivo valor e prestada a garantia a que se refere o artigo 44.º\n\n3 - O pagamento do remanescente do preço deve ocorrer no prazo de dois anos a contar do termo do prazo fixado no n.º 1, mediante depósito à ordem da PORTUCEL, SGPS, a efectuar na conta NIB 001800000073888800172, da agência da Rua do Ouro, Lisboa, do Banco Totta & Açores.\n\n4 - O concorrente adquirente deve, nos três dias úteis subsequentes à realização do pagamento previsto no número anterior, provar perante a PORTUCEL, SGPS, que se encontra pago o respectivo valor."
+  },
+  "7041ba4967ab350d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Obrigações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Obrigações especiais"
+  },
+  "acb02ce6be6edd75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Fábrica de papel reciclado e manutenção dos postos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Fábrica de papel reciclado e manutenção dos postos de trabalho"
+  },
+  "a2c9cfae64bb10fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Nova unidade fabril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Nova unidade fabril\n\n1 - O concorrente adquirente obriga-se a tomar todas as medidas que se revelem necessárias à construção de uma nova unidade fabril a situar no concelho de Mourão, destinada à indústria de papel reciclado e a substituir a actualmente existente e pertença da Portucel Recicla.\n\n2 - A construção da nova unidade fabril deve observar o projecto entretanto apresentado pela PORTUCEL.\n\n3 - As alterações que se pretendam introduzir no projecto a que se refere o número anterior podem ser autorizadas pela PORTUCEL, SGPS.\n\n4 - Para efeitos do número anterior, deve, designadamente, verificar-se se as alterações:\n\na) São susceptíveis de potenciar a capacidade de produção actual de produtos acabados fluting e liners, incluindo white top;\n\nb) Conduzem à implementação de tecnologias competitivas ao nível dos equipamentos e componentes da máquina de papel, nomeadamente formação e prensagem, bem como ao nível de automação e controlo distribuído;\n\nc) Garantem que as tecnologias a instalar permitem performances do sistema de acordo com as directivas do IPPC - Integrated Polution Prevention and Control ou, quando estas não se adaptem, com a legislação nacional aplicável."
+  },
+  "b1a7e5525b2bc392": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Início da actividade da nova unidade fabril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Início da actividade da nova unidade fabril\n\n1 - A unidade fabril a que se refere o artigo anterior deve iniciar a sua actividade até Março de 2001.\n\n2 - Para efeitos do disposto no presente artigo, considera-se que a nova unidade fabril inicia a sua actividade quando tiverem sido efectuados os testes com pastas, se tenha verificado o arranque da máquina em produção e funcione o papel no enrolador."
+  },
+  "34e059edfaf9f6ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Manutenção dos contratos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Manutenção dos contratos de trabalho\n\nO concorrente adquirente assegura que não se procederá à cessação dos contratos de trabalho existentes aquando o encerramento da fábrica da Portucel Recicla, sita em Ponte do Guadiana, Vale de Maceira, concelho de Mourão, com fundamento em extinção de postos de trabalho por causas objectivas de ordem estrutural, tecnológica ou conjuntural relativas à empresa."
+  },
+  "a8455b7d1b0d19fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Acções sobrantes das ofertas públicas de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Acções sobrantes das ofertas públicas de venda"
+  },
+  "699280182a9d4df6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Acções sobrantes da oferta pública de venda destinada ao público em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Acções sobrantes da oferta pública de venda destinada ao público em geral\n\nNo caso de o Estado, na 2.ª fase do processo de privatização da GESCARTÃO, optar por uma oferta pública de venda destinada ao público em geral, o concorrente adquirente fica obrigado a comprar as acções sobrantes daquela oferta pública, sem prejuízo de as acções não colocadas no âmbito da mesma transitarem para a operação reservada a trabalhadores, pequenos subscritores e emigrantes."
+  },
+  "023b449203c216f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Acções sobrantes da oferta pública de venda destinada a trabalhadores, pequenos subscritores e emigrantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Acções sobrantes da oferta pública de venda destinada a trabalhadores, pequenos subscritores e emigrantes\n\nO concorrente adquirente fica obrigado a comprar as acções sobrantes da oferta pública de venda destinada a trabalhadores, pequenos subscritores e emigrantes, sem prejuízo de as acções não colocadas no âmbito desta operação transitarem para a oferta pública de venda destinada ao público em geral."
+  },
+  "a7b127d5c4efa7d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Preço de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Preço de venda\n\n1 - As acções sobrantes das operações referidas nos artigos anteriores são alienadas ao concorrente adquirente pelo preço unitário por que tenham sido adquiridas as acções que fazem parte do lote referido no n.º 1 do artigo 1.º, actualizado nos termos fixados nos números seguintes, com efeitos a partir do dia imediato ao termo do prazo fixado para o pagamento a que se reporta o n.º 1 do artigo 25.º e até ao 3.º dia útil anterior ao pagamento do valor das supramencionadas acções sobrantes.\n\n2 - A actualização a que se refere o número anterior será efectuada, semestralmente, mediante a aplicação de uma taxa correspondente à média aritmética das taxas LISBOR a seis meses, verificadas nos cinco dias úteis anteriores ao termo de cada semestre.\n\n3 - Para efeito das actualizações subsequentes à primeira, ao valor unitário por que tenham sido alienadas as acções adiciona-se, sucessivamente, o valor das actualizações semestrais entretanto efectuadas.\n\n4 - Se o pagamento das acções se verificar antes de terminado o semestre que se encontre em curso, a actualização relativa ao período que decorra desde o último semestre até ao 3.º dia útil anterior ao pagamento é calculada mediante a aplicação de uma taxa correspondente à média aritmética das taxas LISBOR a seis meses, verificadas nos cinco dias úteis anteriores ao termo daquele período."
+  },
+  "eb805cc95f7fb1f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Pagamento das acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Pagamento das acções\n\n1 - O pagamento das acções sobrantes das ofertas públicas de venda referidas nos artigos 30.º e 31.º deve ser efectuado, integralmente e mediante depósito na conta NIB 001800000073888800172, da agência da Rua do Ouro, Lisboa, do Banco Totta & Açores, à ordem da PORTUCEL, SGPS, nos 20 dias úteis subsequentes à notificação efectuada pelo Ministério das Finanças para o efeito.\n\n2 - A notificação referida no número anterior deve ser efectuada nos 15 dias úteis subsequentes ao termo das operações relativas às ofertas públicas de venda e deve, designadamente, indicar o número de acções sobrantes, o valor a pagar, o dia limite para o pagamento e as respectivas condições.\n\n3 - O concorrente adquirente deve, nos três dias úteis subsequentes à realização do pagamento previsto no n.º 1, provar perante o Gabinete do Ministro das Finanças que se encontra pago o respectivo valor."
+  },
+  "9c95e383880b727e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Obrigação de compra no caso de opção de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Obrigação de compra no caso de opção de venda"
+  },
+  "cd15928fa6985008": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Obrigação de compra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Obrigação de compra\n\n1 - No caso de o Estado, na 2.ª fase do processo de privatização da GESCARTÃO, optar pela venda das acções que não constituam objecto do presente concurso público nem sejam destinadas à aquisição para trabalhadores, pequenos subscritores e emigrantes, o concorrente adquirente, durante um prazo de três anos, fica obrigado a proceder à respectiva compra.\n\n2 - O prazo previsto no número anterior conta-se desde a publicação da resolução do Conselho de Ministros a que se refere o n.º 1 do artigo 24.º"
+  },
+  "249fe13e4a34baef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Exercício da opção de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Exercício da opção de venda\n\n1 - A opção de venda deverá ser tomada pelo Conselho de Ministros mediante resolução e dentro do prazo fixado no artigo anterior.\n\n2 - A resolução do Conselho de Ministros referida no número anterior fixará o prazo para o concorrente adquirente proceder ao respectivo pagamento."
+  },
+  "199a3ae207386c20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Preço de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Preço de venda\n\nO preço de venda é determinado nos termos fixados no artigo 31.º"
+  },
+  "6568fa3065beb57d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Pagamento das acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Pagamento das acções\n\n1 - O pagamento do preço das acções objecto da opção de venda deve ser efectuado, integralmente e mediante depósito na conta NIB 001800000073888800172, da agência da Rua do Ouro, Lisboa, do Banco Totta & Açores, à ordem da PORTUCEL, SGPS, no prazo fixado na resolução do Conselho de Ministros a que se refere o artigo 34.º\n\n2 - O concorrente adquirente deve, nos três dias úteis subsequentes à realização do pagamento previsto no número anterior, provar perante o Gabinete do Ministro das Finanças que se encontra pago o respectivo valor."
+  },
+  "8f8198323da81a4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Opção de compra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Opção de compra"
+  },
+  "1eee1956abf3638a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Direito do adquirente à compra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Direito do adquirente à compra\n\n1 - No caso de o Estado não exercer a opção de venda prevista no artigo 33.º nem ocorrer a oferta pública de venda destinada ao público em geral, o concorrente adquirente pode, no prazo de seis meses contado a partir da caducidade da referida opção de venda, comprar à PORTUCEL, SGPS, as acções que não constituam objecto do presente concurso nem sejam destinadas a trabalhadores, pequenos subscritores e emigrantes.\n\n2 - Se o concorrente adquirente exercer o direito previsto no número anterior, a PORTUCEL, SGPS, está obrigada a proceder à venda das respectivas acções."
+  },
+  "5be3859e9ad58eb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Exercício da opção de compra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Exercício da opção de compra\n\nSe o concorrente adquirente pretender exercer o seu direito de opção de compra, deve, dentro do prazo referido no n.º 1 do artigo anterior e mediante carta registada com aviso de recepção, notificar o Ministro das Finanças da sua intenção."
+  },
+  "7ae2d35736af62bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Preço de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Preço de venda\n\nO preço de venda é determinado nos termos fixados no artigo 31.º"
+  },
+  "18fc25967497c3ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Pagamento das acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Pagamento das acções\n\n1 - O pagamento do preço das acções objecto da opção de compra deve ser efectuado, integralmente e mediante depósito na conta NIB 001800000073888800172, da agência da Rua do Ouro, Lisboa, do Banco Totta & Açores, à ordem da PORTUCEL, SGPS, nos 10 dias úteis subsequentes ao envio da notificação a que se refere o artigo 38.º\n\n2 - O concorrente adquirente deve, nos três dias úteis subsequentes à realização do pagamento previsto no número anterior, provar perante o Gabinete do Ministro das Finanças que se encontra pago o respectivo valor."
+  },
+  "0620dda11b7b6181": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Aquisição de direitos de subscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Aquisição de direitos de subscrição"
+  },
+  "bc1bfc17bd07fe8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Aumentos de capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Aumentos de capital\n\n1 - Se, antes de concluído o processo de reprivatização, for deliberado um aumento do capital social da GESCARTÃO sem supressão dos direitos de preferência dos accionistas, com preço de emissão inferior ao preço actualizado nos termos do artigo 31.º, reportado à data da respectiva deliberação, o concorrente adquirente obriga-se a comprar os direitos de subscrição inerentes às acções detidas pela PORTUCEL, SGPS, se esta não os pretender exercer.\n\n2 - Para efeitos do número anterior, o valor dos direitos de subscrição é calculado de acordo com a seguinte fórmula:\n\nD = ((P.N + S.X)/(N + X) - S) . X/N\n\nsendo:\n\nD = preço a pagar por cada direito de subscrição;\n\nP = preço actualizado nos termos do artigo 31.º, reportado à data da subscrição;\n\nN = número de acções representativas do capital social da empresa antes do aumento do capital social;\n\nS = preço de emissão do aumento de capital por subscrição;\n\nX = número de acções emitidas por subscrição no aumento de capital.\n\n3 - No caso de ocorrer simultaneamente um aumento de capital social por incorporação de reservas ou uma redução do capital social e um aumento de capital por subscrição, procede-se à determinação do preço dos direitos de subscrição nos termos definidos nos números anteriores, pressupondo que o aumento de capital social por incorporação de reservas ou a redução do capital social ocorrem imediatamente antes do aumento de capital por subscrição."
+  },
+  "5b07e6c0a224da8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Pagamento\n\n1 - O pagamento dos direitos de subscrição referidos no artigo anterior deve ser efectuado, integralmente e mediante depósito na conta NIB 001800000073888800172, da agência da Rua do Ouro, Lisboa, do Banco Totta & Açores, à ordem da PORTUCEL, SGPS, no prazo de 20 dias úteis a contar da data da realização da assembleia geral que delibera o aumento do capital social.\n\n2 - O concorrente adquirente deve, nos três dias úteis subsequentes à realização do pagamento previsto no número anterior, provar perante o Gabinete do Ministro das Finanças que se encontra pago o respectivo valor."
+  },
+  "892d92f31d53fec2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Outras obrigações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Outras obrigações especiais"
+  },
+  "f32033179d8a1a96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Indisponibilidade de acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Indisponibilidade de acções\n\nAs acções representativas de 51% do capital social da GESCARTÃO, bem como 51% das acções representativas do capital social da Portucel Viana, Portucel Recicla e Portucel Embalagem, estão sujeitas ao regime de indisponibilidade fixado nos artigos 3.º e 4.º do decreto-lei que aprova o presente caderno de encargos."
+  },
+  "d339e8a73573e262": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Garantia\n\n1 - O concorrente adquirente, para garantir o cumprimento das obrigações fixadas no n.º 3 do artigo 25.º e nos artigos 26.º e 27.º, deve prestar, no prazo fixado no n.º 1 do artigo 25.º para o pagamento das acções, uma garantia bancária ou um seguro-caução no valor de 6000000000$00, emitidos de acordo com o anexo IV deste caderno de encargos.\n\n2 - O Ministro das Finanças, a pedido fundamentado do interessado, pode autorizar que a garantia bancária ou o seguro-caução referidos no número anterior sejam substituídos por uma dação em penhor de acções representativas do capital social da GESCARTÃO ou por outra forma, devendo as respectivas condições ser definidas no despacho de autorização.\n\n3 - Sem prejuízo do cumprimento do prazo a que se refere o n.º 1, o pedido de substituição da garantia pode ser solicitado e concedido antes de o respectivo concorrente proceder ao pagamento de acções adquiridas no âmbito deste concurso.\n\n4 - O cumprimento das obrigações a que se referem o n.º 3 do artigo 25.º e os artigos 26.º e 27.º deve ser reconhecido por despacho conjunto dos Ministros das Finanças e da Economia.\n\n5 - A garantia a que se refere este artigo é levantada nos cinco dias úteis subsequentes à data do despacho a que se refere o número anterior."
+  },
+  "c7bd5582844dff4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais"
+  },
+  "44a851a88b7e7cc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Obrigações dos cessionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Obrigações dos cessionários\n\nTransmitem-se para os cessionários sucessivos todas as obrigações do concorrente adquirente, ficando aqueles vinculados, nos mesmos termos, ao seu cumprimento."
+  },
+  "6d794662823637f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Formalidades para aquisição das acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Formalidades para aquisição das acções\n\n1 - São preenchidas, logo que possível, as formalidades legais exigidas para a aquisição das acções objecto da privatização da GESCARTÃO, sendo os respectivos encargos por conta do adquirente.\n\n2 - A taxa sobre operações fora da bolsa bem como outros encargos a que haja lugar são devidos nos termos legais."
+  },
+  "c8bd5dc3e9fcc8fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Garantias bancárias e seguros-caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Garantias bancárias e seguros-caução\n\nAs garantias bancárias e os seguros-caução previstos neste caderno de encargos devem ser prestados por instituição de reconhecida idoneidade, revestindo a natureza de garantia de primeira interpelação."
+  },
+  "a31b782866e686d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Concorrentes excluídos e preteridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Concorrentes excluídos e preteridos\n\nOs concorrentes excluídos e preteridos no concurso não têm direito, por esse facto, a nenhuma indemnização."
+  },
+  "303da64b9d07b563": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Suspensão ou anulação do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Suspensão ou anulação do concurso\n\nO Estado reserva o direito de, em qualquer momento e até à decisão final, suspender ou anular o processo de alienação das acções objecto deste concurso, desde que razões de interesse público ou social o justifiquem."
+  },
+  "179d504505898bce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Modelo de carta para oferta de compra de acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Modelo de carta para oferta de compra de acções\n\n[artigo 8.º, n.º 1, alínea a), do caderno de encargos]\n\nSr. Ministro das Finanças:\n\n1 - ... (ver nota 1) vem informar que se propõe adquirir um lote indivisível de 12990250 acções representativas de 65% do capital social da GESCARTÃO, SGPS, S. A., pelo preço por acção de ..., no total de ... (indicar o preço em algarismos e por extenso).\n\n2 - As acções referidas no número anterior terão a seguinte distribuição interna pelas entidades que compõem o agrupamento (ver nota 2): ...\n\n... [data e assinatura (ver nota 3)].\n\n(nota 1) Identificação completa do concorrente individual ou de todas as entidades que compõem o agrupamento.\n\n(nota 2) Só aplicável a agrupamentos.\n\n(nota 3) Assinatura do concorrente ou dos seus representantes legais, se se tratar de pessoa colectiva, ou do mandatário designado nos termos do n.º 2 do artigo 9.º ou do representante comum do agrupamento."
+  },
+  "94830d0de9aba6eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Questionário a preencher pelos concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Questionário a preencher pelos concorrentes\n\n[artigo 9.º, n.º 1, alínea a), do caderno de encargos]\n\n1 - Identificação do concorrente individual ou das entidades que compõem o agrupamento concorrente:\n\n1.1 - Nome ou denominação social;\n\n1.2 - Capital (ver nota 1);\n\n1.3 - Domicílio ou sede social;\n\n1.4 - Grupo económico a que pertence (ver nota 1)\n\n1.5 - Lista dos principais sócios, com indicação da percentagem de participação de cada um (ver nota 1);\n\n1.6 - Sucursais no estrangeiro (ver nota 1)\n\n1.7 - Empresas directa ou indirectamente controladas;\n\n1.8 - Acordos celebrados com outras pessoas singulares ou colectivas que possam ter uma relação directa ou indirecta com a aquisição de acções representativas do capital social da GESCARTÃO.\n\n2 - Idoneidade e capacidade técnica e financeira:\n\n2.1 - Apresentação dos elementos curriculares relativos à actividade desenvolvida pelo concorrente e que possam ser susceptíveis de avaliar a sua experiência de gestão, designadamente em indústrias onde estão inseridas as sociedades participadas pela GESCARTÃO;\n\n2.2 - Apresentação de elementos susceptíveis de avaliar a capacidade técnica do concorrente;\n\n2.3 - Apresentação de dados susceptíveis de avaliar a capacidade financeira do concorrente para assegurar o cumprimento dos objectivos referidos no n.º 5 do artigo 1.º do caderno de encargos, bem como de elementos comprovativos da origem de eventual financiamento para a aquisição de acções proposta.\n\n3 - Relacionamento com a GESCARTÃO e suas participadas:\n\n3.1 - Tipo de relacionamento que o concorrente mantém com a GESCARTÃO e suas participadas, relações a nível jurídico, financeiro ou comercial, tais como:\n\na) Acordos de cooperação técnica;\n\nb) Participações em comum em sociedades;\n\nc) Operações financeiras comuns;\n\nd) Contencioso;\n\ne) Projectos comuns;\n\n3.2 - Perspectivas da evolução dessas relações (sua manutenção, desenvolvimento ou reformulação) no âmbito da alienação das acções objecto do concurso.\n\n4 - Participações na GESCARTÃO e nas suas participadas:\n\n4.1 - Vantagens para a GESCARTÃO e para as suas participadas desta tomada de participação;\n\n4.2 - Objectivo que o concorrente pretende prosseguir ao propor-se adquirir as acções objecto do concurso.\n\n5 - Outras informações relevantes para a avaliação da proposta de compra (ver nota 2).\n\n... [data e assinatura (ver nota 3)].\n\nNota. - No caso de agrupamentos, os n.os 1, 2 e 3 terão de ser necessariamente respondidos em relação a cada uma das entidades que o integrem. Os n.os 4 e 5 deverão ser objecto de resposta comum do agrupamento.\n\n(nota 1) Não aplicável a pessoas singulares.\n\n(nota 2) Resposta de opção livre, visando completar este questionário, e que o concorrente considere relevante para a avaliação da sua proposta.\n\n(nota 3) Assinatura do concorrente ou dos seus representantes legais, se se tratar de pessoa colectiva, ou do mandatário designado nos termos do n.º 2 do artigo 9.º ou do representante comum do agrupamento."
+  },
+  "79b20fdead98e1ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Modelo de garantia bancária/seguro-caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Modelo de garantia bancária/seguro-caução\n\n(artigo 10.º, n.º 1, do caderno de encargos)\n\nGarantia bancária/seguro-caução n.º ...\n\nEm nome e a pedido de ... (ver nota 1), vem o(a) ... (ver nota 2). pelo presente documento, prestar, a favor da PORTUCEL, SGPS, S. A., uma garantia bancária/seguro-caução no valor de 80000000$00 (oitenta milhões de escudos), destinada(o) a caucionar o integral cumprimento das obrigações assumidas pelo(s) garantido(s) nos termos e para os efeitos previstos no artigo 10.º do caderno de encargos anexo ao Decreto-Lei n.º 364/99, de 17 de Setembro, responsabilizando-se pela entrega à PORTUCEL, SGPS, S. A., daquele montante, à primeira interpelação, caso o(s) garantido(s) revogue(m) a sua proposta ou deixe(m) de observar as condições fixadas no referido caderno de encargos.\n\nFica bem assente que o banco/companhia de seguros garante, no caso de vir a ser chamado(a) a honrar a presente garantia, não poderá tomar em consideração quaisquer objecções do(s) garantido(s), limitando-se a efectuar o pagamento logo que para ele seja solicitado.\n\n(nota 1) Identificação completa do concorrente individual ou de todas as entidades que compõem o agrupamento.\n\n(nota 2) Identificação completa da instituição garante."
+  },
+  "d99da999a32437e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Modelo de garantia bancária/seguro-caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Modelo de garantia bancária/seguro-caução\n\n(artigo 45.º do caderno de encargos)\n\nGarantia bancária/seguro-caução n.º ...\n\nEm nome e a pedido de ... (ver nota 1), vem o(a) ... (ver nota 2), pelo presente documento, prestar, a favor do Estado Português, uma garantia bancária/seguro-caução no valor de 6000000000$00 (seis milhões de contos), destinada(o) a caucionar o integral cumprimento das obrigações assumidas pelo(s) garantido(s) nos termos e para os efeitos previstos no n.º 1 do artigo 44.º do caderno de encargos anexo ao Decreto-Lei n.º 364/99, de 17 de Setembro, responsabilizando-se pela entrega ao Estado de qualquer importância até àquele montante à primeira interpelação, caso o(s) garantido(s) deixe(m) de cumprir obrigações fixadas no n.º 3 do artigo 25.º ou nos artigos 26.º e 27.º do referido caderno de encargos.\n\nFica bem assente que o banco/companhia de seguros garante, no caso de vir a ser chamado(a) a honrar a presente garantia, não poderá tomar em consideração quaisquer objecções do(s) garantido(s), limitando-se a efectuar o pagamento logo que para ele seja solicitado.\n\n(nota 1) Identificação completa do concorrente individual ou de todas as entidades que compõem o agrupamento.\n\n(nota 2) Identificação completa da instituição garante."
+  },
+  "b4030bd46365e9eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Preço e condições de pagamento",
+   "in_force_from": "2003-02-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03."
+   ],
+   "markdown": "###### Artigo 6.º — Preço e condições de pagamento\n\n1 - O preço por acção é o que for indicado pelos concorrentes.\n\n2 - O pagamento de 70% do preço total oferecido pelo bloco de acções a que se refere o n.º 1 do artigo 1.º deve ser efectuado no prazo fixado no n.º 1 do artigo 25.º\n\n3 - O pagamento do remanescente do preço deve ser efectuado no prazo fixado no n.º 3 do artigo 25.º e atenderá ao disposto nos números seguintes.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03."
+  },
+  "57ddd37aa5a65518": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Nova unidade fabril",
+   "in_force_from": "2003-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03."
+   ],
+   "markdown": "###### Artigo 26.º — Nova unidade fabril\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03."
+  },
+  "6518fc0148531fcf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Início da actividade da nova unidade fabril",
+   "in_force_from": "2003-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03."
+   ],
+   "markdown": "###### Artigo 27.º — Início da actividade da nova unidade fabril\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03."
+  },
+  "4f0efa4529ada79b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Garantia",
+   "in_force_from": "2003-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03."
+   ],
+   "markdown": "###### Artigo 44.º — Garantia\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03."
+  }
+ }
+}

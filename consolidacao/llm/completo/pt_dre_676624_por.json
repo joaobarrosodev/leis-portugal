@@ -3,23 +3,24 @@
   "artigos": [
     {
       "chave": "27.º",
-      "epigrafe": "(Atrasos nos pagamentos)",
+      "epigrafe": "Atrasos nos pagamentos",
       "texto": "1 - No caso de o assinante de um posto não efectuar o pagamento das taxas devidas dentro do prazo de doze dias a contar da data da apresentação do respectivo documento de cobrança, as ligações do posto serão cortadas.\n\n2 - Satisfeitos os débitos em atraso nos oito dias seguintes ao corte das ligações previsto no número anterior, será promovido imediatamente o restabelecimento das ligações, sendo a correspondente taxa do tarifário incluída na factura do mês seguinte. No caso, porém, de se manter a falta de pagamento, considerar-se-á a concessão como caduca, sendo o material do posto levantado e as taxas em dívida cobradas coercivamente, por intermédio das execuções fiscais.",
       "alterador": 1
     },
     {
       "chave": "43.º",
-      "epigrafe": "(Deficiências e interrupções de serviço)",
-      "texto": "1 - Os CTT obrigam-se a fornecer um serviço telex eficiente, quer em rapidez de estabelecimento de comunicações, quer em qualidade de transmissão, e a desenvolver todos os esforços para corrigir demoras, dificuldades de selecção, perturbações na transmissão ou interrupções do serviço, não assumindo, porém, qualquer responsabilidade pelas deficiências verificadas ou pelas consequências delas resultantes.\n\n2 - Todavia, se o funcionamento de um posto telex sofrer, por motivo de avaria ou por exigência dos serviços, interrupção superior a três dias, ao assinante será descontada a importância correspondente ao número de dias que tiver durado a interrupção, na razão de um trigésimo de assinatura mensal por cada dia de interrupção.\n\n3 - As interrupções que forem devidas a abalos sísmicos, inundações ou outros casos de força maior não dão lugar a qualquer compensação.",
+      "epigrafe": "Deficiências e interrupções de serviço",
+      "texto": "1 - Os CTT obrigam-se a fornecer um serviço telex eficiente, quer em rapidez de estabelecimento de comunicações, quer em qualidade de transmissão, e a desenvolver todos os esforços para corrigir demoras, dificuldades de selecção, perturbações na transmissão ou interrupções do serviço, não assumindo, porém, qualquer responsabilidade pelas deficiências verificadas ou pelas consequências delas resultantes.\n\n2 - Todavia, se o funcionamento de um posto telex sofrer, por motivo de avaria ou por exigência dos serviços, interrupção superior a três dias, ao assinante será descontada a importância correspondente ao número de dias que tiver durado a interrupção, na razão de um trigésimo de assinatura mensal por cada dia de interrupção.\n\n3 - As interrupções que forem devidas a abalos sísmicos, inundações ou outros casos de força maior não dão lugar a qualquer compensação.\n\nMinistério das Comunicações, 8 de Agosto de 1972. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.",
       "alterador": 2
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Portaria 85/79, 1.º: altera o Decreto 32253 (outro diploma); ignorado.",
-    "Portaria 85/79, 2.º: nova redação do artigo 27.º; aplicado.",
-    "Portaria 813/81: nova redação do artigo 43.º; aplicado."
+    "Portaria 85/79 n.º 1.º: altera o Decreto 32253; ignorado.",
+    "Portaria 85/79 n.º 2.º: nova redação do art. 27.º; aplicada.",
+    "Portaria 813/81: nova redação do art. 43.º (n.os 1 a 3); aplicada, mantendo no fim a assinatura do original que vinha no texto atual do artigo."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

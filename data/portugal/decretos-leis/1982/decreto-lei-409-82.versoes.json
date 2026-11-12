@@ -1,0 +1,204 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:375245:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-09-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bb464feb264e9653",
+    "b38bb4a4c0c3223c",
+    "9b2e8ce4b94e4d33",
+    "db5fee18554acd41",
+    "41530f9edc751129",
+    "e0f15402212c921c",
+    "bfb1164a4791f52b",
+    "87991e6743298d97"
+   ]
+  },
+  {
+   "date": "1989-01-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151950:por",
+     "title": "Decreto-Lei n.º 182/85",
+     "published": "1985-05-27",
+     "dre_path": "/dr/detalhe/decreto-lei/182-1985-151950"
+    },
+    {
+     "id": "pt:dre:228219:por",
+     "title": "Decreto-Lei n.º 182/86",
+     "published": "1986-07-10",
+     "dre_path": "/dr/detalhe/decreto-lei/182-1986-228219"
+    },
+    {
+     "id": "pt:dre:401901:por",
+     "title": "Decreto-Lei n.º 485/88",
+     "published": "1988-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/485-1988-401901"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 7.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "bb464feb264e9653",
+    "a63222e1db3dc4ac",
+    "7334e5c5c4d07298",
+    "f475b90acd4af60e",
+    "b82c38828d2cf85f",
+    "0617f159f5a7c1f4",
+    "0e01d00dabc61d3b",
+    "7fb779ede2dc6c48"
+   ]
+  }
+ ],
+ "fragments": {
+  "bb464feb264e9653": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Setembro\n\n1. Nos últimos anos a poupança tem vindo a ser aplicada preferencialmente em depósitos bancários a prazo, considerando-se necessário reactivar o mercado de valores mobiliários, especialmente no tocante a títulos de rendimento variável, através da criação de condições que permitam a mobilização directa do aforro para fins de investimento.\n\nComo componente de uma política visando a dinamização quer do mercado primário quer do mercado secundário de títulos, os incentivos fiscais devem fomentar, por um lado, a oferta pública de valores e a procura dos mesmos pelos detentores de liquidez e, por outro, as operações das bolsas, condição indispensável para a criação de um verdadeiro mercado financeiro.\n\n2. De entre as possíveis formulações técnicas dos incentivos a conceder, escolheram-se aquelas que, em prazo limitado - até 31 de Dezembro de 1984 -, possam promover aqueles objectivos.\n\nAssim, no domínio do imposto de mais-valias relativo a ganhos realizados mediante aumentos de capital, beneficiam-se antigos e novos accionistas, desde que assegurado um certo grau de abertura ao público das sociedades anónimas correspondentes.\n\nPermite-se, por outro lado, preenchidos determinados requisitos, a dedução no lucro tributável da contribuição industrial dos dividendos postos à disposição dos accionistas até ao limite de 10% do capital representado por novas emissões públicas de acções, o que, além de aumentar o lucro que fica disponível para distribuição, incentiva a atribuição de um dividendo mínimo.\n\nAlém disso, possibilita-se a dedução ao rendimento global líquido determinado para efeitos de imposto complementar respeitante a pessoas singulares de 30% do valor das acções adquiridas por subscrição pública ou por venda no mercado expressamente autorizada para o efeito pelo Ministro de Estado e das Finanças e do Plano até 20% daquele rendimento.\n\nFinalmente, a transmissão por morte de acções adquiridas na bolsa, por subscrição pública ou por venda no mercado para o efeito expressamente autorizada pelo Ministro de Estado e das Finanças e do Plano, fica isenta de imposto sobre as sucessões e doações, desde que a favor do cônjuge sobrevivo e dos filhos, até ao limite de 100000$00 por cada um daqueles herdeiros.\n\n3. O leque de incentivos acabado de descrever é completado pela instituição de regime fiscal específico em imposto complementar e imposto sobre as sucessões e doações para as acções ao portador não registadas, desde que se encontrem cotadas na bolsa. Esse regime é o que vigora actualmente para as obrigações e visa evitar a discriminação fiscal actualmente existente entre as 2 espécies de títulos.\n\nDeste modo, os incentivos têm à sua escolha em matéria daqueles impostos o poderem beneficiar dos incentivos fiscais acima referidos quanto às acções nominativas e ao portador registadas ou do aludido regime fiscal no tocante às acções ao portador não registadas.\n\n4. Por último, no sentido de fomentar a constituição nas empresas de carteiras de títulos da dívida pública e tendo em conta a especificidade destes, não se consideram proveitos ou ganhos para efeitos da tributação em contribuição industrial os rendimentos daquela proveniência na parte não excedente a 20000000$00.\n\nAssim:\n\nUsando da autorização conferida pelo artigo 38.º da [Lei n.º 40/81](https://diariodarepublica.pt/dr/detalhe/lei/40-1981-144417), de 31 de Dezembro:\n\nO Governo decreta, nos termos da alínea b) do artigo 201.º da Constituição, o seguinte:"
+  },
+  "b38bb4a4c0c3223c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Isenção de imposto de mais-valias e imposto do selo relativa a aumentos de capital)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Isenção de imposto de mais-valias e imposto do selo relativa a aumentos de capital)\n\n1 - Ficam isentos de imposto de mais-valias os ganhos realizados mediante aumentos de capital por emissão de acções ou por emissão de acções e incorporação de reservas de sociedades que tenham acções cotadas na bolsa ou que, preenchendo as condições para admissão à cotação, a solicitem previamente, desde que, pelo menos, 50% do aumento de capital sejam representados por acções emitidas para subscrição pública.\n\n2 - Ficam igualmente isentos de imposto de mais-valias os ganhos realizados mediante aumentos de capital por incorporação de reservas de sociedades em que acções representativas do seu capital tenham sido transaccionadas nas bolsas de valores no ano anterior ao aumento, num mínimo de 20% do número de sessões de bolsa e num montante mínimo de 10% das acções representativas do capital social daquelas.\n\n3 - Os aumentos de capital efectuados nas condições dos números anteriores ficam isentos do imposto do selo.\n\n4 - As isenções estabelecidas nos números anteriores apenas se aplicam aos aumentos de capital efectuados até 31 de Dezembro de 1984."
+  },
+  "9b2e8ce4b94e4d33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Dedução no lucro tributável da contribuição industrial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Dedução no lucro tributável da contribuição industrial)\n\n1 - As sociedades que emitam acções após a publicação deste diploma e até 31 de Dezembro de 1984 podem deduzir no lucro tributável da contribuição industrial, depois de consideradas as demais deduções legais aplicáveis, a importância correspondente aos respectivos dividendos colocados à disposição dos accionistas provenientes dos lucros obtidos nos 5 primeiros exercícios encerrados após a data da emissão, até ao limite de 10% do capital representado por aquelas acções.\n\n2 - O incentivo previsto no número anterior depende do preenchimento dos seguintes requisitos:\n\na) Terem sido colocadas à subscrição pública as acções a que se reporta a dedução;\n\nb) Que as acções representativas do capital das sociedades em causa estejam cotadas numa bolsa de valores no ano a que respeita a dedução;\n\nc) Terem os dividendos que dão direito à dedução sido colocados à disposição dos accionistas até ao fim do exercício seguinte àquele em que os lucros de que provêm foram obtidos.\n\n3 - A dedução estabelecida no n.º 1 é efectuada no lucro tributável da contribuição industrial relativa ao exercício a que respeita o lucro de que provém o dividendo a deduzir."
+  },
+  "db5fee18554acd41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Dedução no imposto complementar por investimento em acções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Dedução no imposto complementar por investimento em acções)\n\n1 - Pode ser deduzida ao rendimento global líquido determinado para efeitos do imposto complementar, secção A, respeitante aos contribuintes residentes no continente ou nos arquipélagos dos Açores e da Madeira, relativo aos anos de 1982, 1983 e 1984, uma importância até 20% desse rendimento, correspondente a 30% do valor das acções adquiridas por subscrição pública ou por venda no mercado para o efeito expressamente autorizada pelo Ministro de Estado e das Finanças e do Plano.\n\n2 - A dedução referida no número precedente é efectuada no rendimento respeitante ao ano da aquisição, dando apenas direito à mesma as acções nominativas ou ao portador registadas em nome de qualquer das pessoas que constituem o agregado familiar.\n\n3 - Se as acções que tiverem dado lugar à dedução a que se refere o n.º 1 forem transmitidas, por acto entre vivos, durante um período de 3 anos a contar da data da respectiva aquisição, o montante que tiver sido deduzido acresce ao rendimento para efeitos de imposto complementar do ano em que se tiver verificado a transmissão.\n\n4 - Exceptuam-se do disposto no número anterior os casos de invalidez ou morte de qualquer das pessoas a quem incumbe a direcção do agregado familiar."
+  },
+  "41530f9edc751129": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Isenção do imposto sobre as sucessões e doações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Isenção do imposto sobre as sucessões e doações)\n\n1 - Ficam isentas do imposto sobre as sucessões e doações as transmissões por morte, a favor do cônjuge sobrevivo e dos filhos, de acções nominativas ou ao portador registadas desde que:\n\na) As acções tenham sido adquiridas pelo autor da sucessão na bolsa, por subscrição pública ou por venda no mercado para o efeito expressamente autorizada pelo Ministro de Estado e das Finanças e do Plano, no período compreendido entre a data da publicação deste diploma e a de 31 de Dezembro de 1984;\n\nb) As acções não sejam de valor nominal superior a 100000$00, por cada um daqueles herdeiros.\n\n2 - A isenção prevista no número anterior não prejudica a isenção estabelecida no n.º 2.º do artigo 12.º do Código da Sisa e do Imposto sobre as Sucessões e Doações."
+  },
+  "e0f15402212c921c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n(Tributação em imposto complementar e imposto sobre as sucessões e doações de acções ao portador não registadas cotadas na bolsa).\n\n1 - O regime de tributação em imposto complementar dos juros das obrigações ao portador não registadas é aplicável à tributação neste imposto dos dividendos das acções ao portador emitidas por sociedades com sede ou direcção efectiva no continente ou nos arquipélagos dos Açores e da Madeira, desde que cotadas na bolsa e não registadas nos termos do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro.\n\n2 - Ao imposto pela transmissão a título gratuito das acções ao portador emitidas por sociedades com sede no continente ou nos arquipélagos dos Açores e da Madeira, desde que cotadas na bolsa e não registadas nos termos do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro, é aplicável o regime do imposto sobre as sucessões e doações por avença estabelecido no respectivo código relativamente às obrigações.\n\n3 - Para efeitos da aplicação do disposto nos números anteriores, atender-se-á à situação em que as acções se encontrem à data da colocação dos dividendos à disposição dos seus titulares.\n\n4 - O disposto nos números anteriores é aplicável aos dividendos colocados à disposição dos seus titulares a partir da entrada em vigor do [Decreto-Lei n.º 408/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1982-375251), de 29 de Setembro."
+  },
+  "bfb1164a4791f52b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Títulos da dívida pública)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Títulos da dívida pública)\n\nNão são considerados proveitos ou ganhos para efeitos da tributação em contribuição industrial os rendimentos de títulos da dívida pública na parte não excedente a 20000000$00 anuais."
+  },
+  "87991e6743298d97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Regulamentação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Regulamentação)\n\nDentro do prazo de 60 dias a contar da publicação deste diploma o Governo publicará as normas necessárias à sua execução.\n\nVisto e aprovado em Conselho de Ministros de 16 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 14 de Setembro de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "a63222e1db3dc4ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Isenção de imposto de mais-valias e imposto do selo relativa a aumentos de capital)",
+   "in_force_from": "1989-01-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 182/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1985-151950), publicado em 1985-05-27."
+   ],
+   "markdown": "###### Artigo 1.º — (Isenção de imposto de mais-valias e imposto do selo relativa a aumentos de capital)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 182/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1985-151950), publicado em 1985-05-27."
+  },
+  "7334e5c5c4d07298": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Dedução no lucro tributável da contribuição industrial)",
+   "in_force_from": "1989-01-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30."
+   ],
+   "markdown": "###### Artigo 2.º — (Dedução no lucro tributável da contribuição industrial)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30."
+  },
+  "f475b90acd4af60e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Dedução no imposto complementar por investimento em acções)",
+   "in_force_from": "1989-01-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30."
+   ],
+   "markdown": "###### Artigo 3.º — (Dedução no imposto complementar por investimento em acções)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30."
+  },
+  "b82c38828d2cf85f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Isenção do imposto sobre as sucessões e doações)",
+   "in_force_from": "1989-01-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30."
+   ],
+   "markdown": "###### Artigo 4.º — (Isenção do imposto sobre as sucessões e doações)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30."
+  },
+  "0617f159f5a7c1f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Tributação em imposto complementar e imposto sobre as sucessões e doações de acções ao portador não registadas cotadas na bolsa).",
+   "in_force_from": "1989-01-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30."
+   ],
+   "markdown": "###### Artigo 5.º — (Tributação em imposto complementar e imposto sobre as sucessões e doações de acções ao portador não registadas cotadas na bolsa).\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30."
+  },
+  "0e01d00dabc61d3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Títulos da dívida pública)",
+   "in_force_from": "1989-01-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 182/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1986-228219), publicado em 1986-07-10."
+   ],
+   "markdown": "###### Artigo 6.º — (Títulos da dívida pública)\n\nOs rendimentos de quaisquer títulos da dívida pública auferidos pelo Banco de Portugal não constituem proveitos ou ganhos para efeitos de tributação em contribuição industrial.\n\n> Alterado pelo/a [Decreto-Lei n.º 182/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1986-228219), publicado em 1986-07-10."
+  },
+  "7fb779ede2dc6c48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Regulamentação)",
+   "in_force_from": "1989-01-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30."
+   ],
+   "markdown": "###### Artigo 7.º — (Regulamentação)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30.\n\nVisto e aprovado em Conselho de Ministros de 16 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 14 de Setembro de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

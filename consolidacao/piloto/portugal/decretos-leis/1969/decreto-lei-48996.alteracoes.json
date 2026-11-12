@@ -502,5 +502,19 @@
     "unidade": [],
     "diploma": "pt:dre:201658:por",
     "alterador": "pt:dre:674395:por"
+  },
+  {
+    "artigo": "SECÇÃO II — Do crédito a médio prazo",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO II — Do crédito a médio prazo",
+    "depois": "#### SECÇÃO II — Do crédito às actividades económicas do sector privado",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:201658:por",
+    "alterador": "pt:dre:674395:por"
   }
 ]

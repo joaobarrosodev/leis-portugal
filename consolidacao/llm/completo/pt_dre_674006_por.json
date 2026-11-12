@@ -45,12 +45,13 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "DL 236/81, art. 2.º: a Agência Financial de Portugal passa a denominar-se Banco Financial Português; mudança de denominação sem substituição textual expressa nos restantes artigos, não aplicada ao texto.",
+  "titulos": [],
+  "nao_aplicavel": "DL 236/81 art. 2.º: a Agência Financial de Portugal passa a denominar-se Banco Financial Português; é mudança de denominação genérica, sem redação textual dos artigos nem indicação de quais palavras substituir (ex.: 'Agência' nos n.os 1 dos arts. 14.º e 16.º e restantes artigos), pelo que não foi aplicada ao texto. DL 236/81 art. 1.º altera o DL 265/75, não o original.",
   "instrucoes": [
-    "DL 236/81, art. 1.º: altera o DL 265/75 (outro diploma); ignorado.",
-    "DL 236/81, art. 2.º: nova denominação; não textual, não aplicado.",
-    "DL 236/81, art. 3.º: nova redação dos arts. 7.º, 8.º, 9.º, 14.º n.º 2, 16.º n.º 2 e 17.º; aplicado.",
-    "DL 236/81, art. 4.º: revoga o artigo 6.º do DL 210/72 (e o art. 5.º do DL 265/75, ignorado); aplicado."
+    "DL 236/81 art. 1.º: altera o DL 265/75; ignorado.",
+    "DL 236/81 art. 2.º: mudança de denominação; não aplicada ao texto (ver nao_aplicavel).",
+    "DL 236/81 art. 3.º: nova redação dos arts. 7.º, 8.º, 9.º, 14.º n.º 2, 16.º n.º 2 e 17.º; aplicada (n.os 1 dos arts. 14.º e 16.º mantidos).",
+    "DL 236/81 art. 4.º: revoga o art. 6.º do original (e o art. 5.º do DL 265/75); art. 6.º revogado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

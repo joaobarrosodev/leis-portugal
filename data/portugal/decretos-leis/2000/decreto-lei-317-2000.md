@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-10-25'
+version_history:
+  file: decreto-lei-317-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-12-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-10-25'
+    amending: pt:dre:502980:por
+    amending_title: Decreto-Lei n.º 148/2013
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/317/2000/12/13/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:21:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 148/2013. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-317-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -274,7 +289,11 @@ a) Por um rectângulo envolvendo a letra minúscula «e», seguida do número ou
 
 6 para a Bélgica;
 
-9 para Espanha;
+7 para a Hungria;
+
+8 para a República Checa;
+
+9 para a Espanha;
 
 11 para o Reino Unido;
 
@@ -282,15 +301,37 @@ a) Por um rectângulo envolvendo a letra minúscula «e», seguida do número ou
 
 13 para o Luxemburgo;
 
-17 Para a Finlândia;
+17 para a Finlândia;
 
 18 para a Dinamarca;
+
+19 para a Roménia;
+
+20 para a Polónia;
 
 21 para Portugal;
 
 23 para a Grécia;
 
+25 para a Croácia;
+
+26 para a Eslovénia;
+
+27 para a Eslováquia;
+
+29 para a Estónia;
+
+32 para a Letónia;
+
+34 para a Bulgária;
+
+36 para a Lituânia;
+
+CY para Chipre;
+
 IRL para a Irlanda;
+
+MT para Malta.
 
 b) Pelo «número de homologação de base» que constitui a secção 4 do número de homologação referido no anexo VII do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, procedido do número sequencial de dois algarismos, ambos a figurar na proximidade do rectângulo, que, no presente capítulo, é o número sequencial 00;
 
@@ -325,6 +366,8 @@ b) Num grupo, de modo que cada uma das luzes agrupadas, combinadas ou incorporad
 9 - As dimensões dos componentes dessa marca não devem ser inferiores às dimensões mínimas especificadas para as marcas individuais pelos vários capítulos do presente Regulamento, nos termos dos quais a homologação CE de componente foi concedida.
 
 10 - Os exemplos de uma marca de homologação CE de componente para uma luz agrupada, combinada ou incorporada mutuamente com outras luzes, estão representados na figura 2, constante do anexo 3.º ao presente Regulamento.
+
+> Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
 
 #### SECÇÃO II — Das modificações do tipo, alterações das homologações e da conformidade da produção
 

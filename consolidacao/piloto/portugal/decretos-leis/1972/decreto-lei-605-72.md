@@ -326,6 +326,14 @@ III) Junta Autónoma de Estradas
 
 a) Gabinete de Estudos e Planeamento, compreendendo:
 
+i) Serviços externos, compreendendo:
+
+Circunscrições de Estradas do Norte, do Centro, de Lisboa e do Sul, com sedes, respectivamente, no Porto, em Coimbra, em Lisboa e em Évora;
+
+Direcções de estradas, com sede nas capitais de todos os distritos do continente.
+
+> Alterado pelo/a [Decreto-Lei n.º 771/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/771-1976-409170), publicado em 1976-10-25.
+
 ##### Divisão de Estudos;
 
 Divisão de Planeamento;

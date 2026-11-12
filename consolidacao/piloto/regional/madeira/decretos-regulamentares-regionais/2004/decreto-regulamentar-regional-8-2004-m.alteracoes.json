@@ -11,7 +11,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:218312:por",
-    "alterador": "pt:dre:444198:por"
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
   },
   {
     "artigo": "2.º",
@@ -25,7 +25,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:218312:por",
-    "alterador": "pt:dre:444198:por"
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
   },
   {
     "artigo": "3.º",
@@ -39,147 +39,161 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:218312:por",
-    "alterador": "pt:dre:444198:por"
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
+  },
+  {
+    "artigo": "1.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Natureza e atribuições\n\nA Direcção Regional para a Administração Pública de Porto Santo, doravante designada abreviadamente por DRAPS, é o órgão do Governo Regional, dependente da Vice-Presidência, ao qual cabe a superintendência e coordenação de todos os serviços do Governo Regional na Ilha de Porto Santo, assim como a articulação entre estes e os serviços centrais do Executivo regional.",
+    "depois": "###### Artigo 1.º — Natureza e atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:218312:por",
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
+  },
+  {
+    "artigo": "2.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Competências\n\nSão competências da DRAPS:\n\na) Apoiar o vice-presidente do Governo Regional na formulação e concretização das medidas de política, em todos os sectores, a implementar na ilha de Porto Santo;\n\nb) Promover a ligação funcional entre os serviços centrais do Governo Regional e os localizados na ilha de Porto Santo;\n\nc) Superintender em todos os serviços dependentes do Governo Regional, bem como acompanhar e avaliar o respectivo desempenho;\n\nd) Promover a necessária articulação entre todos os serviços do Governo Regional;\n\ne) Acompanhar a implementação das políticas aprovadas pelo Governo Regional para a ilha de Porto Santo;\n\nf) Contribuir para a melhoria da eficácia dos serviços dependentes do Governo Regional, propondo as medidas que se revelem adequadas e garantindo o seu cumprimento uma vez adoptadas;\n\ng) Efectuar estudos, propor medidas e definir as formas de actuação adequadas à realização dos seus objectivos;\n\nh) Programar e promover as acções necessárias à formação dos recursos humanos afectos à DRAPS;\n\ni) Programar e executar as acções relativas à gestão dos recursos humanos afectos à DRAPS;\n\nj) Promover as acções necessárias relativas ao aproveitamento e desenvolvimento dos recursos patrimoniais e financeiros afectos à DRAPS.",
+    "depois": "###### Artigo 2.º — Competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:218312:por",
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
   },
   {
     "artigo": "4.º",
     "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 4.º — Director regional\n\n1 - Ao director regional compete:\n\na) Representar o Governo Regional na ilha de Porto Santo na ausência de qualquer dos seus membros;\n\nb) Exercer a superintendência em todos os serviços dependentes do Governo Regional;\n\nc) Estabelecer o acompanhamento da execução, no âmbito da ilha de Porto Santo, das políticas aprovadas pelo Governo Regional;\n\nd) Promover uma eficaz articulação entre os serviços centrais do Governo Regional e todos os serviços dependentes instalados na ilha de Porto Santo;\n\ne) Executar as deliberações do Governo Regional e velar pelo património da Região;\n\nf) Orientar e dirigir os serviços da DRAPS;\n\ng) Representar a DRAPS junto de outros serviços e entidades;\n\nh) Conceder licenças ao pessoal da DRAPS, salvo quando se trate de licenças sem vencimento por um ano ou de longa duração;\n\ni) Assinar os termos de abertura e encerramento dos livros de ponto, de registo e de contabilidade e dos demais que sejam necessários ao regular funcionamento dos serviços;\n\nj) Conferir posse aos funcionários da DRAPS;\n\nl) Promover a instauração de processos disciplinares e de inquérito e propor louvores aos funcionários;\n\nm) Elaborar, em tempo oportuno, o projecto de orçamento da DRAPS, assim como o respectivo plano de actividades, o relatório de actividades e o balanço social;\n\nn) Transmitir instruções de carácter geral e obrigatório sobre matérias da sua competência a todos os serviços dependentes do Governo Regional na Ilha de Porto Santo, obtida a concordância do vice-presidente ou do secretário regional da tutela.\n\n2 - O director regional é provido por despacho conjunto do Presidente do Governo Regional e do Vice-Presidente do Governo Regional, em regime de comissão de serviço, por períodos de três anos.\n\n3 - O director regional pode, nos termos da lei, delegar, com possibilidade de subdelegação, algumas das suas competências em titulares de cargos dirigentes, com o assentimento do vice-presidente do Governo ou do secretário regional competente.",
-    "depois": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
+    "depois": "###### Artigo 4.º — Director regional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:218312:por",
-    "alterador": "pt:dre:444198:por"
-  },
-  {
-    "artigo": "5.º",
-    "operacao": "revogar",
-    "regra": "llm",
-    "antes": "###### Artigo 5.º — Natureza e competências\n\nO Secretariado é o órgão de apoio administrativo do director regional, competindo-lhe, designadamente, a organização e conservação do arquivo do seu gabinete, bem como o registo e expediente da correspondência e documentação que lhe estão afectos.",
-    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:218312:por",
-    "alterador": "pt:dre:444198:por"
-  },
-  {
-    "artigo": "5.º-A",
-    "operacao": "aditar",
-    "regra": "llm",
-    "antes": "",
-    "depois": "###### Artigo 5.º-A\n\n(Revogado.)\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:218312:por",
-    "alterador": "pt:dre:444198:por"
-  },
-  {
-    "artigo": "6.º",
-    "operacao": "revogar",
-    "regra": "llm",
-    "antes": "###### Artigo 6.º — Natureza, atribuições e competências\n\n1 - A DSAF tem por missão assegurar a gestão do pessoal e dos recursos financeiros e patrimoniais afectos à DRAPS, bem como a respectiva gestão administrativa e documental.\n\n2 - A DSAF compreende:\n\na) A Divisão de Gestão de Recursos Humanos (DGRH);\n\nb) A Divisão de Expediente Geral, Finanças e Contabilidade (DEGFC).\n\n3 - Compete à DGRH:\n\na) Promover a racionalização e a gestão adequada dos recursos humanos, tendo em vista a realização profissional e o eficiente funcionamento dos serviços;\n\nb) Realizar estudos de gestão previsional e de caracterização dos recursos humanos, nomeadamente o balanço social;\n\nc) Promover os procedimentos necessários ao recrutamento, promoção e progressão do respectivo pessoal;\n\nd) Elaborar os planos de formação do pessoal da DRAPS;\n\ne) Organizar os processos de contratação de pessoal;\n\nf) Assegurar as acções de notação do pessoal;\n\ng) Organizar e manter actualizados os registos e os controlos de assiduidade;\n\nh) Elaborar as listas de antiguidade.\n\n4 - A DGRH compreende a Secção de Apoio Administrativo, a quem compete assegurar o expediente necessário ao seu normal funcionamento.\n\n5 - Compete à DEGFC:\n\na) Assegurar a gestão dos recursos financeiros e patrimoniais, o processamento de remunerações e o expediente geral da DRAPS;\n\nb) Assegurar a elaboração da proposta de orçamento de funcionamento e de investimento, bem como acompanhar a execução orçamental e propor as medidas necessárias;\n\nc) Preparar os planos anuais e plurianuais de actividades da DRAPS e acompanhar a respectiva execução;\n\nd) Assegurar o expediente relativo a processamento de remunerações;\n\ne) Promover as acções necessárias ao correcto processamento dos abonos devidos;\n\nf) Organizar o trabalho do pessoal auxiliar;\n\ng) Assegurar a gestão e manutenção das viaturas;\n\nh) Promover as medidas necessárias à vigilância, segurança, limpeza e arrumação das instalações;\n\ni) Proceder às aquisições de bens e serviços e administrar os bens de consumo;\n\nj) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo de correspondência e outros documentos;\n\nl) Manter actualizado o cadastro e inventário dos bens afectos à DRAPS.\n\n6 - A DEGFC compreende a Secção de Contabilidade e a Secção de Expediente Geral e Arquivo.",
-    "depois": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:218312:por",
-    "alterador": "pt:dre:444198:por"
-  },
-  {
-    "artigo": "6.º-A",
-    "operacao": "aditar",
-    "regra": "llm",
-    "antes": "",
-    "depois": "###### Artigo 6.º-A\n\n(Revogado.)\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:218312:por",
-    "alterador": "pt:dre:444198:por"
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
   },
   {
     "artigo": "7.º",
     "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 7.º — Quadro\n\n1 - O pessoal do quadro da DRAPS é agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico;\n\nd) Pessoal técnico-profissional;\n\ne) Pessoal administrativo;\n\nf) Pessoal auxiliar;\n\ng) Pessoal operário.\n\n2 - O quadro de pessoal da DRAPS é o constante do mapa anexo ao presente diploma e pode ser alterado por portaria conjunta do vice-presidente e dos membros do Governo com a tutela das áreas de Finanças e Administração Pública.",
-    "depois": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
+    "depois": "###### Artigo 7.º — Quadro\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:218312:por",
-    "alterador": "pt:dre:444198:por"
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
   },
   {
     "artigo": "8.º",
     "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 8.º — Equipas de projecto\n\n1 - Sempre que esteja em causa a prossecução de objectivos que pressuponham, temporariamente, o exercício de competências de natureza multidisciplinar, poderá ser proposta pelo director regional, ao vice-presidente do Governo Regional, a constituição de equipas de projecto.\n\n2 - Nas propostas referidas no número anterior, deverá prever-se a constituição das equipas, a nomeação dos respectivos coordenadores, o período de duração, os objectivos a prosseguir e, havendo custos a suportar, o respectivo orçamento, bem como a proposta de retribuição dos seus membros, quando a ela haja lugar.\n\n3 - Das equipas de projecto poderão fazer parte indivíduos não vinculados à função pública, com fundamento na específica aptidão dos mesmos para a prossecução dos objectivos a atingir.",
-    "depois": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
+    "depois": "###### Artigo 8.º — Equipas de projecto\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:218312:por",
-    "alterador": "pt:dre:444198:por"
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
   },
   {
     "artigo": "9.º",
     "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 9.º — Transição de pessoal\n\n1 - O quadro de pessoal da Delegação do Governo Regional na Ilha de Porto Santo, constante do anexo IX ao [Decreto Regulamentar Regional n.º 5/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2001-348305), de 24 de Março, é extinto com a posse do primeiro director regional, transitando o respectivo pessoal para o quadro a que se refere o n.º 2 do artigo 7.º da presente orgânica.\n\n2 - A transição do pessoal, referida no número anterior, far-se-á através de lista nominativa, aprovada pelo vice-presidente do Governo Regional, com dispensa de quaisquer outras formalidades legais, sempre que se tratar de pessoal com vínculo à Administração Pública.\n\n3 - A transição referida nos números anteriores, far-se-á para o mesmo escalão, categoria e carreira que os funcionários detinham no quadro de origem.\n\n4 - Aos chefes de secção actualmente providos no quadro de pessoal da Delegação do Governo Regional na Ilha de Porto Santo aplicam-se as regras de transição previstas no presente artigo, sendo-lhes determinada, por despacho do director regional, a respectiva secção administrativa que lhes incumbe chefiar.\n\n5 - O despacho do director regional referido no número anterior, basear-se-á na conveniência do serviço e, sempre que possível, no acordo do respectivo funcionário.",
-    "depois": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
+    "depois": "###### Artigo 9.º — Transição de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:218312:por",
-    "alterador": "pt:dre:444198:por"
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
   },
   {
     "artigo": "10.º",
     "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 10.º — Produção de efeitos\n\nA transição de pessoal referida no número anterior bem como a respectiva lista nominativa produzem efeitos à data referida no n.º 1 do artigo 9.º da presente orgânica.",
-    "depois": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
+    "depois": "###### Artigo 10.º — Salvaguarda de concursos pendentes\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:218312:por",
-    "alterador": "pt:dre:444198:por"
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
   },
   {
     "artigo": "11.º",
     "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 11.º — Salvaguarda de concursos pendentes\n\nOs concursos pendentes à data da entrada em vigor do presente diploma mantêm a sua validade, sendo os lugares a prover os que lhes correspondam no quadro de pessoal a que se refere o n.º 2 do artigo 7.º da presente orgânica.",
-    "depois": "###### Artigo 11.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
+    "depois": "###### Artigo 11.º — Encargos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:218312:por",
-    "alterador": "pt:dre:444198:por"
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Estrutura orgânica\n\nA DRAPS é dirigida por um cargo de direcção superior de 1.º grau, designadamente por um director regional para a Administração Pública de Porto Santo, adiante designado abreviadamente por director regional, e compreende os seguintes serviços:\n\na) O Secretariado;\n\nb) A Direcção de Serviços Administrativos e Financeiros (DSAF).",
+    "depois": "###### Artigo 3.º — Estrutura orgânica\n\nA DRAPS é dirigida pelo director regional para a Administração Pública de Porto Santo, adiante designado abreviadamente por director regional, cargo de direcção superior de 1.º grau, e compreende os seguintes serviços:\n\na) O Secretariado;\n\nb) O Posto de Atendimento ao Cidadão (PAC);\n\nc) A Direcção de Serviços Administrativos e Financeiros (DSAF);\n\nd) A Direcção de Serviços de Gestão de Recursos e Manutenção (DSGRM).\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 3/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2006-660321), publicado em 2006-05-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:218312:por",
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
+  },
+  {
+    "artigo": "5.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 5.º-A — Posto de Atendimento ao Cidadão\n\nO Posto de Atendimento ao Cidadão (PAC) é um órgão dependente directamente do director regional que agrega um conjunto de serviços de atendimento da Administração Pública aos cidadãos.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 3/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2006-660321), publicado em 2006-05-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:218312:por",
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
+  },
+  {
+    "artigo": "6.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 6.º-A — Natureza, atribuições e competências\n\n1 - A DSGRM tem por missão assegurar a gestão dos equipamentos, instalações e pessoal necessário à gestão de recursos naturais afectos à DRAPS, nomeadamente ambientais, florestais, veterinários, agrícolas, pecuária e pesca, bem como a gestão dos recursos necessários à manutenção do património, equipamentos e infra-estruturas de domínio público.\n\n2 - A DSGRM compreende:\n\na) A Divisão de Gestão de Recursos Naturais (DGRN);\n\nb) A Divisão de Gestão de Manutenção (DGM).\n\n3 - Compete à DGRN promover a racionalização e a gestão adequada dos recursos humanos, equipamentos e instalações afectos à gestão dos recursos naturais.\n\n4 - A DGRN compreende a Secção de Pecuária, Matadouro e Lota e a Secção de Agricultura e Florestas, às quais compete assegurar o seu normal funcionamento em cada área específica.\n\n5 - Compete à DGM promover a gestão racional e adequada às necessidades humanas e materiais de manutenção do património e imobilizado afecto à DRAPS, nomeadamente imóveis, instalações, equipamentos e infra-estruturas de domínio público.\n\n6 - A DGM compreende a Secção de Manutenção de Instalações, a Secção de Manutenção de Equipamentos e a Secção de Manutenção de Infra-Estruturas, às quais compete assegurar o normal funcionamento das suas áreas específicas.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 3/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2006-660321), publicado em 2006-05-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:218312:por",
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
   },
   {
     "artigo": "12.º",
@@ -193,6 +207,20 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:218312:por",
-    "alterador": "pt:dre:444198:por"
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
+  },
+  {
+    "artigo": "SECÇÃO IV — Direcção de Serviços Administrativos e Financeiros",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO IV — Direcção de Serviços Administrativos e Financeiros",
+    "depois": "#### SECÇÃO IV — Posto de Atendimento ao Cidadão",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:218312:por",
+    "alterador": "pt:dre:444198:por;pt:dre:660321:por"
   }
 ]

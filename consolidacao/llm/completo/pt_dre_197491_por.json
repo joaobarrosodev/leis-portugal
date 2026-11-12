@@ -12,11 +12,11 @@
   "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Lei 3-B/2010), art. 16.º: adita o art. 8.º-A; já está no texto atual com essa redação.",
-    "Alterador 2 (DL 29-A/2011), art. 84.º: nova redação do n.º 1 do art. 8.º-A (copiada letra a letra, incluindo '3-B/20010, de 24 de Abril'); n.º 2 mantém-se.",
-    "Alterador 3 (Lei 64-B/2011), art. 189.º: só cita o original; nenhuma instrução.",
-    "Alterador 4 (DL 105/2013), art. 6.º, n.º 1: revoga o n.º 2 do art. 8.º-A -> '2 - (Revogado.)'. Restantes artigos alteram os DL 118/83, 158/2005 e 167/2005: ignorados.",
-    "Alterador 5 (Lei 30/2014) e alterador 6 (DL 81/2015): alteram outros diplomas (DL 118/83, 158/2005, 167/2005); nada aplicado ao original."
+    "Lei 3-B/2010, art. 16.º: adita o art. 8.º-A (já no texto atual).",
+    "DL 29-A/2011, art. 84.º (alterador 2): nova redação do n.º 1 do art. 8.º-A ('efectuados pelos beneficiários ... alterada pelas Leis n.os 64-A/2008 ... 55-A/2010, de 31 de Dezembro'); n.º 2 '...'. Aplicado, copiado letra a letra (incluindo '3-B/20010'). O reparo do verificador está errado: o DL 29-A/2011 é o alterador 2 deste pedido e é dele que vem o n.º 1.",
+    "Lei 64-B/2011, art. 189.º: só cita o original; não o altera.",
+    "DL 105/2013, art. 6.º, n.º 1: revoga o n.º 2 do art. 8.º-A -> '2 - (Revogado.)'. Os arts. 2.º a 4.º alteram outros diplomas (ignorados).",
+    "Lei 30/2014 e DL 81/2015: alteram os DL 118/83, 158/2005 e 167/2005, não o original; ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

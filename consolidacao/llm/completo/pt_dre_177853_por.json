@@ -1,25 +1,13 @@
 {
   "id": "pt:dre:177853:por",
-  "artigos": [
-    {
-      "chave": "31.º",
-      "epigrafe": "Instrumentos acústicos e capacetes de protecção",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "38.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    }
-  ],
+  "artigos": [],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "nao_aplicavel": "Art. 3.º do DR 59/86 revoga o art. 1.º do DR 69/85 na parte referente aos artigos 31.º e 38.º do Código da Estrada, mas o art. 4.º adia a entrada em vigor do diploma para seis meses após a publicação de despachos do director-geral de Viação (facto futuro, não verificável no pedido), repondo até lá a redação anterior; revogação de efeito adiado, não aplicada. O art. 1.º do DR 59/86 altera diretamente o Código da Estrada (outro diploma), não o original.",
   "instrucoes": [
-    "DR 59/86, art. 1.º: nova redação de artigos do Código da Estrada (outro diploma): ignorado",
-    "Art. 3.º: revoga o art. 1.º do DR 69/85 na parte que se refere aos arts. 31.º e 38.º do Código da Estrada: chaves 31.º e 38.º revogadas; 54.º mantém-se",
-    "Art. 4.º: entrada em vigor/repristinação, não textual"
+    "Art. 1.º DR 59/86: nova redação dos arts. 31.º e 38.º do Código da Estrada (outro diploma) - ignorado",
+    "Art. 3.º: revogação parcial do art. 1.º do DR 69/85 quanto aos arts. 31.º e 38.º do CE - efeito adiado pelo art. 4.º (despachos a publicar); não aplicada, em nao_aplicavel",
+    "Art. 2.º e 4.º: sem alteração textual ao original"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -1,0 +1,650 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:283305:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1976-06-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2b32d884bfa0f628",
+    "23836370ae405d04",
+    "4aee6fad391b00b7",
+    "70082138426d421c",
+    "a48fbc008c3bdd7e",
+    "986329c4133bbd71",
+    "172d2ad9a19124c2",
+    "542d2e319085e18d",
+    "f85c87ee749279ba",
+    "cfca5541e230ad1a",
+    "cfb2f8488eaafee8",
+    "8269a64d826b7061",
+    "2eb9aa57a193faea",
+    "83904281d62f53c4",
+    "af10a70b9ac54c1e",
+    "0502384d0d2df1db",
+    "884d9fa2f5f5dae3",
+    "1971432d0660c57e",
+    "49acf283c5ffb23c",
+    "bd642c7c4f33febb",
+    "2245b449a2ab8024",
+    "4933e7d2bbdbfd04",
+    "130613288fff70ea",
+    "4f845256be6fb0cd",
+    "01285fd80d66178a",
+    "b7cc95aa5cce8279",
+    "f70a3a4da4e413ab",
+    "e1ef41f960cdaab7",
+    "ad67c0a230d7c990",
+    "9851e1c2704d6b4d",
+    "0bdbcc357b9c0967",
+    "aeca3f26ab28fe47",
+    "af5d9ac8ae1a429b",
+    "b66d711cef71eecb",
+    "d3def3887fb02a97",
+    "43c9b5681ee854b4",
+    "62ac81fc13850a36",
+    "f61871234b4d5ad0",
+    "e1a3690a29918321",
+    "c9523bd3493530c2",
+    "698ba4ff67da5292",
+    "9ce2e0b7a5174a61",
+    "573253cb85296c5b",
+    "bb3c9e8f318ea3d0",
+    "216aa798bb42c5e9",
+    "68dcdc5bbcbe1ede",
+    "cc5d12587a70cea5",
+    "891fffa0e0148493",
+    "b6e999255c566000"
+   ]
+  },
+  {
+   "date": "1979-11-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:253440:por",
+     "title": "Decreto-Lei n.º 414-A/77",
+     "published": "1977-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/414-a-1977-253440"
+    },
+    {
+     "id": "pt:dre:367048:por",
+     "title": "Decreto-Lei n.º 460/79",
+     "published": "1979-11-23",
+     "dre_path": "/dr/detalhe/decreto-lei/460-1979-367048"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo SECÇÃO IV — Conselho de direcção"
+   ],
+   "fragments": [
+    "2b32d884bfa0f628",
+    "23836370ae405d04",
+    "33f28b647f9c1675",
+    "70082138426d421c",
+    "a48fbc008c3bdd7e",
+    "986329c4133bbd71",
+    "172d2ad9a19124c2",
+    "542d2e319085e18d",
+    "f85c87ee749279ba",
+    "cfca5541e230ad1a",
+    "5ace9b63223d0e02",
+    "8269a64d826b7061",
+    "4328968410bb15f8",
+    "83904281d62f53c4",
+    "af10a70b9ac54c1e",
+    "0502384d0d2df1db",
+    "723d88071e663457",
+    "76d436c0511b3ce7",
+    "49acf283c5ffb23c",
+    "068188b411cc931b",
+    "a45c0a8525318888",
+    "d17d5eac03e27ed8",
+    "c77ecd0038c2445f",
+    "d3959a8851a6ce06",
+    "01285fd80d66178a",
+    "b7cc95aa5cce8279",
+    "f70a3a4da4e413ab",
+    "e1ef41f960cdaab7",
+    "ad67c0a230d7c990",
+    "9851e1c2704d6b4d",
+    "0bdbcc357b9c0967",
+    "aeca3f26ab28fe47",
+    "af5d9ac8ae1a429b",
+    "b66d711cef71eecb",
+    "d3def3887fb02a97",
+    "43c9b5681ee854b4",
+    "62ac81fc13850a36",
+    "f61871234b4d5ad0",
+    "e1a3690a29918321",
+    "c9523bd3493530c2",
+    "698ba4ff67da5292",
+    "9ce2e0b7a5174a61",
+    "573253cb85296c5b",
+    "bb3c9e8f318ea3d0",
+    "a5af3792d2518db0",
+    "68dcdc5bbcbe1ede",
+    "cc5d12587a70cea5",
+    "891fffa0e0148493",
+    "b6e999255c566000"
+   ]
+  }
+ ],
+ "fragments": {
+  "2b32d884bfa0f628": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Junho\n\n1. Pelo [Decreto-Lei n.º 469-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/469-a-1975-428845), de 28 de Agosto, foi a empresa Transportes Aéreos Portugueses, S. A. R. L., anteriormente nacionalizada pelo [Decreto-Lei n.º 205-E/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-e-1975-497835), transformada em empresa pública e promulgados os respectivos estatutos\n\n2. Não só pelo facto de o n.º 1 do artigo 49.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, impor a adaptação dos estatutos das empresas públicas aos princípios consagrados naquele diploma, mas também por se verificar um desajustamento entre a realidade da empresa e os estatutos agora em vigor, torna-se necessário promulgar novos estatutos para a empresa pública Transportes Aéreos Portugueses (TAP).\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Em cumprimento do n.º 1 do artigo 49.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, a empresa pública Transportes Aéreos Portugueses (TAP) passará a regular a sua actividade pelos estatutos anexos a este decreto-lei, que dele fazem parte integrante e substituem os estatutos definidos pelo [Decreto-Lei n.º 469-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/469-a-1975-428845), de 28 de Agosto.\n\nArt. 2.º Este diploma entra em vigor na data da sua publicação.\n\nVisto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - José Augusto Fernandes - João Pedro Tomás Rosa.\n\nPromulgado em 14 de Junho de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\nESTATUTO DA EMPRESA PÚBLICA TAP"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "4aee6fad391b00b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Denominação, natureza e sede)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Denominação, natureza e sede)\n\n1. Transportes Aéreos Portugueses, E. P., que pode designar-se abreviadamente por TAP, é uma empresa pública com personalidade jurídica, dotada de autonomia administrativa e financeira e património próprio, com sede em Lisboa, a qual se rege pelo disposto nos presentes estatutos e pelas normas complementares de execução, observando-se nos casos omissos as normas aplicáveis às empresas públicas em geral e, subsidiariamente, as normas por que se regem as empresas privadas.\n\n2. Poderão ser criadas no país ou no estrangeiro quaisquer delegações ou outras formas de representação da empresa."
+  },
+  "70082138426d421c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Fins)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Fins)\n\n1. Constitui objecto principal da empresa a exploração de transportes aéreos de passageiros, carga e correio. Acessoriamente, poderá a empresa explorar os serviços e efectuar as operações comerciais, industriais e financeiras relacionadas directa ou indirectamente, no todo ou em parte, com o objecto principal atrás definido ou que sejam susceptíveis de facilitar ou favorecer a sua realização.\n\n2. Para a prossecução dos fins referidos no número anterior poderá a empresa, designadamente:\n\na) Adquirir terrenos, edifícios, oficinas, equipamento e outros bens necessários à sua actividade, bem como alienar ou onerar os que se acharem integrados no seu património;\n\nb) Constituir sociedades ou participar em sociedades já constituídas, mediante autorização do Governo;\n\nc) Explorar directamente ou em colaboração com outras empresas quaisquer actividades acessórias ou complementares do transporte aéreo, bem como quaisquer outros ramos de actividade comercial ou industrial que não prejudiquem a realização do seu objecto principal;\n\nd) Celebrar com outras empresas, nacionais ou estrangeiras, acordos que permitam uma melhor satisfação das necessidades do público e das exigências das actividades que constituem o seu objecto."
+  },
+  "a48fbc008c3bdd7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Intervenção do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Intervenção do Governo"
+  },
+  "986329c4133bbd71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Ministério da Tutela)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Ministério da Tutela)\n\n1. Cabe ao Ministério dos Transportes e Comunicações assegurar a intervenção do Governo na orientação da actividade da empresa, com vista a harmonizá-la com as políticas económicas globais e sectoriais e com o planeamento económico nacional e exercer a tutela económica e financeira, nos termos previstos na lei.\n\n2. Dependem de autorização ou aprovação do Ministro dos Transportes e Comunicações os seguintes actos e documentos:\n\na) Os planos de actividades e financeiros anuais e plurianuais;\n\nb) Os orçamentos anuais de exploração e investimentos;\n\nc) As actualizações orçamentais quanto aos orçamentos de exploração, desde que originem diminuição significativa de resultados, e quanto aos orçamentos de investimento, sempre que, em consequência deles, sejam significativamente excedidos os valores inicialmente atribuídos a cada grupo de projectos ou sector de actividade;\n\nd) Os critérios de amortização e reintegração;\n\ne) O balanço, demonstração de resultados e aplicação destes, designadamente a constituição de reservas;\n\nf) A contracção de empréstimos em moeda nacional por prazo superior a sete anos, ou em moeda estrangeira, a emissão de obrigações, a aquisição de participações no capital de sociedades desde que excedam o valor de 2% do capital estatutário, bem como a sua alienação;\n\ng) A política tarifária;\n\nh) O estatuto do pessoal.\n\n3. Relativamente ao actos compreendidos nas alíneas a) a e) do n.º 2, deve a empresa dar conhecimento dos actos e documentos respectivos ao Ministério das Finanças.\n\n4. Relativamente aos actos compreendidos nas alíneas f) e h) do n.º 2, é também necessária a autorização, respectivamente, do Ministro das Finanças e do Ministro do Trabalho."
+  },
+  "172d2ad9a19124c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Regime de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Regime de exploração"
+  },
+  "542d2e319085e18d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Exclusivo da exploração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Exclusivo da exploração)\n\nA empresa explorará em regime de exclusivo os transportes aéreos de passageiros, carga e correio, regulares ou não regulares, mediante remuneração, sem prejuízo da concessão feita à Sociedade Açoriana de Transportes Aéreos, S. A. R. L., ao abrigo do [Decreto-Lei n.º 74/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1972-398828), de 4 de Março, ou do disposto em convenções e acordos internacionais celebrados pelo Estado Português ou que este venha a celebrar."
+  },
+  "f85c87ee749279ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Administração e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Administração e fiscalização"
+  },
+  "cfca5541e230ad1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Órgãos da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Órgãos da empresa"
+  },
+  "cfb2f8488eaafee8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. São órgãos da empresa:\n\na) O conselho geral;\n\nb) O conselho de gerência;\n\nc) O conselho de direcção;\n\nd) A comissão de fiscalização.\n\n2. A intervenção dos trabalhadores no desenvolvimento e contrôle da actividade da empresa far-se-á por intermédio da representação daqueles no conselho geral e na comissão de fiscalização, sem prejuízo da criação de qualquer órgão especial ou instituição de outras formas de intervenção, em conformidade com a legislação aplicável sobre contrôle de gestão pelos trabalhadores."
+  },
+  "8269a64d826b7061": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho geral"
+  },
+  "2eb9aa57a193faea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Constituição do conselho geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Constituição do conselho geral)\n\n1. O conselho geral da empresa será nomeado por despacho do Ministro dos Transportes e Comunicações e será constituído por:\n\na) Dez representantes dos Ministérios e Secretarias de Estado (um de cada um) que superintendam nos seguintes domínios:\n\n1) Transportes e comunicações;\n\n2) Administração interna;\n\n3) Comércio externo;\n\n4) Finanças;\n\n5) Planeamento;\n\n6) Negócios estrangeiros;\n\n7) Obras públicas;\n\n8) Trabalho;\n\n9) Ambiente;\n\n10) Comunicação social.\n\nb) Um representante da entidade que explore as infra-estruturas aeronáuticas;\n\nc) Um representante de cada uma das autarquias locais portuguesas onde existam aeroportos internacionais;\n\nd) Um representante de cada órgão regional de planeamento;\n\ne) Cinco representantes dos trabalhadores da empresa, designados de entre eles pela comissão de trabalhadores;\n\nf) Os membros do conselho de gerência e da comissão de fiscalização, mas sem direito a voto.\n\n2. A presidência do conselho geral compete ao Ministro dos Transportes e Comunicações ou ao seu representante.\n\n3. Os mandatos dos membros do conselho geral serão conferidos pelo prazo de três anos e serão renováveis.\n\n4. Os membros do conselho geral perdem o seu mandato quando deixarem de ter a qualidade em virtude da qual foram designados; as pessoas que os substituírem exercerão funções até ao termo normal do membro substituído."
+  },
+  "83904281d62f53c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Competência do conselho geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Competência do conselho geral)\n\n1. Compete ao conselho geral:\n\na) Apreciar e votar os planos plurianuais de actividade e financeiros;\n\nb) Apreciar e votar, até 15 de Outubro de cada ano, o plano anual de actividades e o orçamento relativos ao ano seguinte;\n\nc) Apreciar e votar, até 30 de Março de cada ano, o relatório, o balanço, as contas de exercício e a proposta de aplicação de resultados respeitantes ao ano anterior, bem como o respectivo parecer da comissão de fiscalização;\n\nd) Pronunciar-se sobre quaisquer assuntos de interesse para a empresa, podendo emitir os pareceres ou recomendações que considerar convenientes;\n\ne) Eleger o vice-presidente e o secretário do conselho geral.\n\n2. O conselho geral poderá solicitar ao conselho de gerência ou à comissão de fiscalização os elementos de informação necessários para o desempenho das suas funções.\n\n3. Enquanto o conselho geral não estiver constituído, ou sempre que por qualquer motivo se mostre impedido de funcionar ou se abstenha de deliberar, cabe ao seu presidente o exercício das competências previstas nas alíneas a) e b) do n.º 1.\n\n4. Sempre que o conselho geral não se pronuncie sobre os documentos que lhe forem apresentados nos termos e para os efeitos previstos nas alíneas a) a c) do n.º 1 no prazo de trinta dias, ou o seu presidente não haja, no mesmo prazo, suprido a falta em conformidade com o previsto no final do n.º 3, considera-se que deu voto favorável."
+  },
+  "af10a70b9ac54c1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Reuniões do conselho geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Reuniões do conselho geral)\n\n1. As reuniões do conselho geral serão convocadas pelo presidente, com a antecedência mínima de quinze dias, mediante aviso, dirigido a cada um dos vogais, do qual constará a ordem de trabalhos.\n\n2. O conselho geral terá, no mínimo, quatro reuniões por ano, sendo o respectivo número e calendário fixados na sua primeira reunião, tendo em atenção a necessidade de cumprir o disposto nas alíneas a), b) e c) do n.º 1 do artigo 7.º Para além destas reuniões, o conselho geral reunir-se-á por iniciativa do presidente, a pedido da maioria dos vogais do conselho ou a solicitação do conselho de gerência ou da comissão de fiscalização."
+  },
+  "0502384d0d2df1db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho de gerência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho de gerência"
+  },
+  "884d9fa2f5f5dae3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Composição do conselho de gerência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Composição do conselho de gerência)\n\n1. O conselho de gerência é composto de um presidente e quatro vogais, nomeados pelo Conselho de Ministros, sob proposta do Ministro dos Transportes e Comunicações, ouvidos os trabalhadores da empresa.\n\n2. Os mandatos dos membros do conselho de gerência terão a duração de três anos e serão renováveis.\n\n3. Nas suas faltas ou impedimentos, o presidente do conselho de gerência é substituído pelo vogal que for designado pelo conselho na sua primeira reunião após a nomeação.\n\n4. Tanto o presidente como os vogais do conselho de gerência não poderão acumular o cargo com o exercício de funções em outras empresas, exceptuadas aquelas em cujo capital estatutário ou social a TAP participe."
+  },
+  "1971432d0660c57e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Competência do conselho de gerência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Competência do conselho de gerência)\n\n1. Compete ao conselho de gerência, além dos poderes genéricos de administração e representação da empresa, praticar todos os actos que, por disposição legal ou do presente estatuto, não devem ser praticados por outro órgão da empresa.\n\n2. Ao conselho de gerência compete, em especial:\n\na) Apresentar ao conselho geral projectos com vista à obtenção de pareceres fundamentais para posterior aprovação pelo Ministro da Tutela;\n\nb) Nomear e exonerar os membros do conselho de direcção, sob proposta do presidente;\n\nc) Aprovar as propostas do conselho de direcção sobre as matérias que excedam a sua competência;\n\nd) Aprovar os regulamentos internos destinados à execução dos presentes estatutos e velar pelo seu cumprimento;\n\ne) Elaborar o relatório, o inventário, o balanço, as contas e a proposta de aplicação dos resultados relativos aos exercícios anuais da empresa, a apresentar à apreciação do conselho geral;\n\nf) Deliberar sobre o exercício, modificação ou cessação de actividades acessórias do objecto principal da empresa;\n\ng) Deliberar sobre a aquisição, oneração ou alienação de participações sociais, bem como sobre a dissolução, liquidação, fusão ou cisão das sociedades em cujo capital a empresa participe, sem prejuízo do disposto na alínea f) do n.º 2 do artigo 3.º;\n\nh) Deliberar sobre a aquisição, oneração ou alienação de bens imóveis ou móveis;\n\ni) Contrair empréstimos pecuniários ou celebrar contratos de financiamento, incluindo os empréstimos e financiamentos a longo prazo, internos ou externos, sem prejuízo do disposto no n.º 4 deste artigo e na alínea f) do n.º 2 do artigo 3.º;\n\nj) Criar ou extinguir filiais, sucursais, agências, delegações ou qualquer outro tipo de representação da empresa no País ou no estrangeiro;\n\nl) Nomear os representantes da empresa nas sociedades em que ela seja sócia e fixar as directrizes a observar nestas e ou nos órgãos directivos das associações não societárias;\n\nm) Decidir sobre as medidas necessárias ao desenvolvimento das políticas e objectivos e das directivas e instruções genéricas emanadas do Governo;\n\nn) Emitir parecer sobre as matérias que lhe sejam apresentadas pelo Governo;\n\no) Confessar, desistir ou transigir em quaisquer pleitos judiciais e comprometer-se em árbitros, com ou sem recurso;\n\np) Nomear, suspender, transferir ou exonerar, sob proposta do seu presidente, os gestores da estrutura primária da organização da empresa;\n\nq) Estabelecer os regulamentos sobre a organização e execução dos orçamentos anuais e sobre a contabilidade da empresa.\n\n3. O conselho de gerência poderá:\n\na) Delegar, sob proposta do presidente, quaisquer das suas atribuições em um ou mais dos seus vogais ou em comissão por eles constituída, podendo ainda os mesmos delegar os poderes que julgarem mais convenientes;\n\nb) Conferir os mandatos que julgar necessários e revogá-los;\n\nc) Deliberar sobre a representação da empresa em juízo e fora dele, activa ou passivamente.\n\n4. Não poderá, todavia, o conselho de gerência, sem o prévio parecer favorável da comissão de fiscalização, obrigar a sociedade por empréstimo pecuniário ou outra forma de financiamento, interno ou externo, por prazo superior a cinco anos.\n\n5. Para a empresa se considerar obrigada ou vinculada pelos actos praticados em seu nome bastará que os documentos respectivos sejam assinados:\n\na) Por dois membros do conselho de gerência;\n\nb) Por um membro do conselho de gerência que para tanto houver recebido delegação deste conselho;\n\nc) Pelas pessoas a que se referem as alíneas a) e b) do n.º 3 deste artigo, no âmbito dos poderes que lhe tiverem sido conferidos."
+  },
+  "49acf283c5ffb23c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Reuniões do conselho de gerência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Reuniões do conselho de gerência)\n\nO conselho de gerência reunirá ordinariamente duas vezes por mês e extraordinariamente sempre que o presidente o convocar."
+  },
+  "bd642c7c4f33febb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Competência do presidente do conselho de gerência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Competência do presidente do conselho de gerência)\n\n1. Compete ao presidente do conselho de gerência a coordenação e a orientação geral das actividades da empresa.\n\n2. Compete, em especial, ao presidente do conselho de gerência:\n\na) Submeter a despacho ministerial os assuntos que dele careçam;\n\nb) Transmitir ao conselho geral as propostas do conselho de gerência;\n\nc) Representar a empresa em juízo e fora dele, tanto no plano nacional como no internacional, quando outros representantes ou mandatários não hajam sido designados;\n\nd) Convocar reuniões conjuntas do conselho de gerência, do conselho de direcção e da comissão de fiscalização, sempre que o julgue conveniente, e a elas presidir;\n\ne) Presidir ao conselho de direcção;\n\nf) Exercer os restantes poderes que lhe são conferidos no presente estatuto e nos regulamentos dos serviços;\n\ng) Velar pela correcta execução dos planos anuais e plurianuais;\n\nh) Propor ao conselho de gerência a nomeação das pessoas que hão-de desempenhar as funções de gestores ao nível da estrutura primária da organização da empresa e a sua transferência ou exoneração;\n\ni) Nomear, transferir ou exonerar, sob proposta dos respectivos gestores referidos na alínea anterior, os gestores ao nível das estruturas secundárias da organização da empresa."
+  },
+  "2245b449a2ab8024": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Conselho de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Conselho de direcção"
+  },
+  "4933e7d2bbdbfd04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Composição do conselho de direcção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Composição do conselho de direcção)\n\n1. O conselho de direcção é composto de um presidente, que será o presidente do conselho de gerência, e de vogais, competindo a estes últimos exercer a gestão da estrutura primária da empresa.\n\n2. Sob proposta do presidente, o conselho de gerência fixará o número de vogais do conselho de direcção.\n\n3. Os vogais do conselho de direcção são nomeados, suspensos ou exonerados pelo conselho de gerência, sob proposta do seu presidente.\n\n4. Na sua primeira reunião, o presidente designará o vogal que o substituirá nas suas funções neste conselho durante os seus impedimentos."
+  },
+  "130613288fff70ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Competência do conselho de direcção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Competência do conselho de direcção)\n\n1. Compete ao conselho de direcção a direcção executiva da empresa e os poderes de administração que lhe sejam delegados por regulamentação interna.\n\n2. Ao conselho de direcção compete, em especial:\n\na) Elaborar as propostas a submeter ao conselho de gerência com vista à definição por este dos objectivos da empresa, a médio e a longo prazos;\n\nb) Elaborar, com base na definição dos objectivos da empresa efectuada pelo conselho de gerência e aprovada pelo Governo, os planos de actividades e financeiros a médio prazo;\n\nc) Estabelecer os planos de exploração e orçamentos anuais;\n\nd) Propor e regulamentar a organização interna da empresa, os quadros correspondentes e o âmbito da competência dos gestores da estrutura primária da organização;\n\ne) Preparar o relatório, inventário, balanço e contas relativos aos exercícios anuais da empresa, a submeter à apreciação do conselho de gerência;\n\nf) Propor sobre o exercício, modificação ou cessação de actividades acessórias do objecto principal da empresa;\n\ng) Propor, nos termos da regulamentação interna, sobre a aquisição, oneração ou alienação de participações sociais, bem como sobre a dissolução, liquidação, fusão ou cisão das sociedades em cujo capital a empresa participe, sem prejuízo do disposto na alínea g) do n.º 2 do artigo 10.º;\n\nh) Deliberar, dentro dos limites que sejam fixados por regulamentação interna, sobre a aquisição, oneração ou alienação de bens imóveis ou móveis.\n\n3. O conselho de direcção poderá delegar, sob proposta do presidente, quaisquer das suas atribuições em um ou mais dos seus vogais ou em comissão por eles constituída, podendo os mesmos delegar, num e noutro caso, nos directores ou outros chefes de serviço os poderes que julgarem convenientes."
+  },
+  "4f845256be6fb0cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Reuniões do conselho de direcção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Reuniões do conselho de direcção)\n\nO conselho de direcção reúne-se ordinariamente duas vezes por mês e extraordinariamente sempre que o seu presidente ou a maioria dos seus membros o convocar."
+  },
+  "01285fd80d66178a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Comissão de fiscalização"
+  },
+  "b7cc95aa5cce8279": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Composição da comissão de fiscalização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Composição da comissão de fiscalização)\n\n1. A comissão de fiscalização é composta por três membros, que escolherão, de entre si, o presidente.\n\n2. Os membros da comissão de fiscalização serão nomeados por despacho conjunto dos Ministros das Finanças e dos Transportes e Comunicações, por períodos de três anos, renováveis, sendo um deles indicado pelos trabalhadores da empresa, cabendo ao Ministro dos Transportes e Comunicações suprir a falta desta indicação se os trabalhadores se abstiverem de indicar o seu representante no prazo que lhes for fixado para o efeito.\n\n3. Um dos membros da comissão de fiscalização será obrigatoriamente um revisor oficial de contas."
+  },
+  "f70a3a4da4e413ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Competência da comissão de fiscalização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Competência da comissão de fiscalização)\n\n1. Compete à comissão de fiscalização:\n\na) Velar pelo cumprimento das leis e regulamentos aplicáveis ao funcionamento da empresa e pela observância do presente estatuto;\n\nb) Examinar periodicamente a contabilidade da empresa e seguir, através de informações adequadas, a sua evolução;\n\nc) Fiscalizar a gestão da empresa relativamente ao desenvolvimento das actividades, nomeadamente na execução dos planos plurianuais de actividades e financeiros, dos programas e orçamentos anuais;\n\nd) Determinar a execução de verificações e conferências para o apuramento da coincidência entre os valores contabilísticos e os patrimoniais;\n\ne) Pronunciar-se sobre o critério de avaliação de bens, de amortizações e reintegrações, da constituição de provisões e reservas e da determinação de resultados;\n\nf) Elaborar anualmente relatório sobre a sua acção e emitir parecer sobre o relatório, inventário, balanço e contas, proposta de aplicação dos resultados e demais documentos obrigatórios a submeter à apreciação do conselho geral;\n\ng) Levar ao conhecimento das entidades competentes as irregularidades que apurar na gestão da empresa;\n\nh) Pronunciar-se sobre a legalidade e conveniência dos actos do conselho de gerência nos casos em que o presente estatuto exigir a sua aprovação ou concordância.\n\n2. Para o exercício da competência estabelecida neste artigo, podem os membros da comissão de fiscalização, conjunta ou separadamente, praticar os actos para tal necessários, designadamente:\n\na) Requerer ao conselho de gerência, ou a qualquer dos seus membros, informações e esclarecimentos sobre o curso das operações ou actividades da empresa;\n\nb) Promover auditorias por recurso à prestação de serviço de indivíduos ou de empresas especializadas sempre que entenda que os objectivos a alcançar não podem ser realizados pelos órgãos normais de auditoria interna e externa da empresa;\n\nc) Obter de terceiros que tenham realizado operações por conta da empresa as informações entendidas convenientes para o estabelecimento dessas operações;\n\nd) Assistir às reuniões do conselho de gerência, quando o presidente deste o entenda conveniente."
+  },
+  "e1ef41f960cdaab7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Reuniões da comissão de fiscalização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Reuniões da comissão de fiscalização)\n\nA comissão de fiscalização terá uma reunião ordinária mensal e as reuniões extraordinárias que o presidente convocar por sua iniciativa, a pedido da maioria dos seus membros ou dos presidentes dos conselhos geral ou de gerência."
+  },
+  "ad67c0a230d7c990": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Órgãos dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Órgãos dos trabalhadores"
+  },
+  "9851e1c2704d6b4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Intervenção dos trabalhadores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Intervenção dos trabalhadores)\n\nA intervenção dos trabalhadores no desenvolvimento e contrôle da actividade da empresa far-se-á de acordo com as normas legais aplicáveis sobre contrôle de gestão por trabalhadores."
+  },
+  "0bdbcc357b9c0967": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Disposições comuns"
+  },
+  "aeca3f26ab28fe47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Remunerações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Remunerações)\n\n1. Os membros do conselho geral receberão, por cada reunião a que assistam, uma senha de presença, de quantitativo fixado pelo Ministro dos Transportes e Comunicações, e terão direito ao reembolso das despesas efectuadas quando participem em reuniões ou actos de serviço.\n\n2. O presidente e os vogais do conselho de gerência perceberão ordenados mensais fixados pelo Ministro dos Transportes e Comunicações, dentro dos limites que, para o efeito, estiverem estabelecidos.\n\n3. Ao presidente e aos membros em efectividade da comissão de fiscalização será atribuída uma retribuição mensal nos termos que, para o efeito, estiverem estabelecidos."
+  },
+  "af5d9ac8ae1a429b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Funcionamento dos órgãos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Funcionamento dos órgãos)\n\n1. Os órgãos da empresa só podem deliberar validamente quando esteja presente a maioria dos seus membros, sem prejuízo do disposto no número seguinte.\n\n2. Quando se verificar a falta do quórum previsto no número anterior, o conselho geral reunir-se-á, em segunda convocatória, uma hora mais tarde, podendo então votar validamente pareceres qualquer que seja o número de membros presentes, salvo se estes, por maioria, decidirem solicitar nova convocação do conselho para data ulterior.\n\n3. As deliberações serão tomadas por maioria absoluta de votos dos membros presentes, não podendo estes abster-se de votar nem fazê-lo por procuração ou correspondência.\n\n4. Em caso de empate na votação, o presidente tem voto de qualidade.\n\n5. As deliberações constarão da acta da reunião e só por essa forma poderão ser aprovadas. A acta será lavrada pela pessoa designada para o efeito e assinada por quem houver presidido à reunião, podendo ser aprovada no final desta, em minuta, ou na reunião seguinte."
+  },
+  "b66d711cef71eecb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Do pessoal"
+  },
+  "d3def3887fb02a97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Princípios gerais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Princípios gerais)\n\nO pessoal dos quadros da empresa que presta normalmente serviço em território nacional está sujeito ao regime jurídico das empresas públicas."
+  },
+  "43c9b5681ee854b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Regime do pessoal em comissão de serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Regime do pessoal em comissão de serviço)\n\nOs trabalhadores da empresa que tiverem sido requisitados pelo Estado ou designados para o conselho de gerência da empresa desempenharão as funções em regime de comissão de serviço, durante a qual não se abrirá vaga no respectivo quadro."
+  },
+  "62ac81fc13850a36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Gestão económica e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Gestão económica e financeira"
+  },
+  "f61871234b4d5ad0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Princípios gerais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Princípios gerais)\n\n1. A empresa na sua gestão terá sempre como objectivo alcançar o equilíbrio económico da exploração, assegurando níveis adequados de autofinanciamento e de remuneração do capital investido.\n\nCom vista a permitir que o objectivo enunciado no número anterior seja atingido, as obrigações impostas à empresa no interesse público, designadamente a exploração de serviços deficitários em relação aos quais não seja possível efectuar reajustamentos tarifários, serão objecto de acordos a estabelecer entre o Estado e a empresa com base em contratos-programa."
+  },
+  "e1a3690a29918321": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Capital estatutário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Capital estatutário)\n\n1. O capital estatutário da empresa será fixado por despacho conjunto dos Ministros das Finanças e dos Transportes e Comunicações.\n\n2. O capital estatutário poderá ser reforçado com as dotações que para tal fim forem atribuídas pelo Estado.\n\n3. O capital estatutário poderá também ser reforçado por incorporação de reservas livres, sob proposta do conselho de gerência, com o parecer favorável da comissão de fiscalização e voto do conselho geral, homologada por despacho conjunto dos Ministros das Finanças e dos Transportes e Comunicações."
+  },
+  "c9523bd3493530c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Planos de actividades e financeiros. Orçamentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Planos de actividades e financeiros. Orçamentos)\n\n1. A gestão económica e financeira da empresa orientar-se-á pelos seguintes elementos, cuja preparação, em tempo oportuno, será promovida pelo conselho de gerência:\n\na) Planos de actividades e financeiros plurianuais;\n\nb) Planos de actividades e financeiros anuais;\n\nc) Orçamentos anuais de receitas e despesas, de investimentos e de tesouraria.\n\n2. O conselho de gerência poderá promover os ajustamentos necessários dos orçamentos de despesas e de tesouraria sempre que circunstâncias ponderosas tal imponham.\n\n3. Os planos de actividades e financeiros, os orçamentos e a contabilidade da empresa serão organizados em conformidade com as normas geralmente adoptadas pelas empresas congéneres e respeitando as directivas que disciplinarem a apresentação de planos, orçamentos e a contabilidade das empresas públicas."
+  },
+  "698ba4ff67da5292": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — (Aplicação dos resultados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Aplicação dos resultados)\n\n1. Os resultados positivos de cada exercício, bem como os transitados de exercícios anteriores, terão o seguinte destino:\n\na) Compensação de prejuízos que hajam transitado de exercícios anteriores;\n\nb) Constituição ou reforço de reservas obrigatórias;\n\nc) Constituição ou reforço de reservas facultativas;\n\nd) Entrega ao Estado.\n\n2. Na elaboração da proposta de aplicação dos resultados positivos do exercício o conselho de gerência deverá ter em conta as necessidades de retenção dos resultados positivos da empresa para fazer face ao reembolso de financiamentos contraídos e ao autofinanciamento de investimentos programados, bem como à compensação dos efeitos desfavoráveis da inflação monetária.\n\n3. As propostas referidas nos números anteriores, obtidos os pareceres da comissão de fiscalização e do conselho geral, serão submetidas durante o mês de Março de cada ano à homologação do Ministro dos Transportes e Comunicações.\n\n4. As propostas referidas no número anterior considerar-se-ão homologadas se, decorrido o prazo de trinta dias a contar da sua apresentação, a empresa não tiver sido notificada do contrário."
+  },
+  "9ce2e0b7a5174a61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — (Publicação do relatório, do balanço e das contas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Publicação do relatório, do balanço e das contas)\n\nO relatório do conselho de gerência, o balanço e as contas de ganhos e perdas, depois de aprovados, serão publicados no Diário da República e num jornal diário local da sede da empresa, sendo também feita publicação em folheto avulso, em tiragem não inferior a mil exemplares, para distribuição gratuita pelos trabalhadores da empresa."
+  },
+  "573253cb85296c5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Regime fiscal da empresa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Regime fiscal da empresa)\n\n1. A empresa manterá as isenções fiscais estabelecidas na base XII anexa ao [Decreto-Lei n.º 39188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39188-1953-528399), de 25 de Abril de 1953, e nos Decretos-Leis n.os 39673, de 22 de Maio de 1954, 41000, de 12 de Fevereiro de 1957, e 44373, de 29 de Maio de 1962.\n\n2. O disposto no número anterior poderá ser alterado por acordo entre o Estado e a empresa, sob a forma de contrato-programa."
+  },
+  "bb3c9e8f318ea3d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Disposições diversas"
+  },
+  "216aa798bb42c5e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Responsabilidade limitada da empresa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Responsabilidade limitada da empresa)\n\n1. Pelos actos e factos imputados à empresa responderá unicamente o seu património, sem prejuízo do disposto no n.º 2 deste artigo.\n\n2. O Estado só responderá perante terceiros pelos actos e factos imputáveis à empresa se e na medida em que de modo expresso tiver assumido tal responsabilidade.\n\n3. A responsabilidade da empresa para com os utentes será limitada, sendo os respectivos limites fixados em regulamentos sujeitos à aprovação do Ministro dos Transportes e Comunicações. Tal responsabilidade em caso algum abrangerá lucros cessantes."
+  },
+  "68dcdc5bbcbe1ede": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — (Participação em associações e reuniões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Participação em associações e reuniões)\n\nA empresa poderá fazer parte de associações ou organismos nacionais ou internacionais relacionados com as actividades por ela exercidas e desempenhar neles os cargos para que for eleita nos termos dos respectivos estatutos."
+  },
+  "cc5d12587a70cea5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — (Interpretação do estatuto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Interpretação do estatuto)\n\nAs dúvidas que se suscitarem na interpretação ou aplicação do presente estatuto serão resolvidas por despacho do Ministro dos Transportes e Comunicações."
+  },
+  "891fffa0e0148493": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Disposições transitórias"
+  },
+  "b6e999255c566000": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — («Contrôle» da gestão pelos trabalhadores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — («Contrôle» da gestão pelos trabalhadores)\n\n1. Enquanto a lei não dispuser sobre o contrôle da gestão, o conselho de gerência e representantes dos trabalhadores da empresa, se estes o solicitarem, terão reuniões conjuntas periodicamente.\n\n2. Nas reuniões de que trata o número anterior, o conselho de gerência informará sobre a actividade da empresa e os representantes dos trabalhadores comunicarão o que desejarem acerca da mesma actividade.\n\n3. O presente estatuto será adaptado ao regime de contrôle da gestão que vier a ser consagrado em lei, nos sessenta dias posteriores ao da publicação do correspondente diploma.\n\nO Ministro dos Transportes e Comunicações, José Augusto Fernandes."
+  },
+  "33f28b647f9c1675": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Denominação, natureza e sede)",
+   "in_force_from": "1979-11-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 460/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1979-367048), publicado em 1979-11-23."
+   ],
+   "markdown": "###### Artigo 1.º — (Denominação, natureza e sede)\n\n1 - Transportes Aéreos Portugueses, E. P., que pode designar-se abreviadamente por TAP, TAP - Air Portugal, ou apenas Air Portugal, é uma empresa pública com personalidade jurídica, dotada de autonomia administrativa e financeira e património próprio, com sede em Lisboa, a qual se rege pelo disposto nos presentes estatutos e pelas normas complementares de execução, observando-se nos casos omissos as normas aplicáveis às empresas públicas em geral e, subsidiariamente, as normas por que se regem as empresas privadas.\n\n2. Poderão ser criadas no país ou no estrangeiro quaisquer delegações ou outras formas de representação da empresa.\n\n> Alterado pelo/a [Decreto-Lei n.º 460/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1979-367048), publicado em 1979-11-23."
+  },
+  "5ace9b63223d0e02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1979-11-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - São órgãos da empresa:\n\na) O conselho geral;\n\nb) O conselho de gerência;\n\nc) A comissão de fiscalização.\n\n2. A intervenção dos trabalhadores no desenvolvimento e contrôle da actividade da empresa far-se-á por intermédio da representação daqueles no conselho geral e na comissão de fiscalização, sem prejuízo da criação de qualquer órgão especial ou instituição de outras formas de intervenção, em conformidade com a legislação aplicável sobre contrôle de gestão pelos trabalhadores.\n\n> Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30."
+  },
+  "4328968410bb15f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Constituição do conselho geral)",
+   "in_force_from": "1979-11-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30."
+   ],
+   "markdown": "###### Artigo 6.º — (Constituição do conselho geral)\n\n1 - O conselho geral será nomeado por despacho do Ministro dos Transportes e Comunicações e será constituído por:\n\na) Ministro dos Transportes e Comunicações ou um seu representante, a quem compete a presidência do conselho;\n\nb) Representantes do Governo até ao limite de dez, devendo esta representação repartir-se, segundo critério do Conselho de Ministros, pelos Ministérios ou Secretarias de Estado que superintendem nos seguintes domínios:\n\n1) Defesa nacional;\n\n2) Administração interna;\n\n3) Negócios estrangeiros;\n\n4) Planeamento;\n\n5) Finanças;\n\n6) Comércio e turismo;\n\n7) Trabalho;\n\n8) Urbanismo e ambiente;\n\n9) Obras públicas;\n\n10) Comunicação social.\n\nc) Um representante da administração pública do sector da aviação civil;\n\nd) Um representante da entidade que explore as infra-estruturas aeronáuticas;\n\ne) Um representante de cada uma das autarquias locais portuguesas onde existam aeroportos internacionais;\n\nf) Um representante de cada área regional de planeamento;\n\ng) Representantes dos trabalhadores em número igual ao que vier a ser fixado na alínea b).\n\n2 - Os membros do conselho geral serão designados, pelo período de três anos, renovável, pelas seguintes entidades:\n\na) Os referidos nas alíneas a), b), c), d) e f) do n.º 1, por despacho do Ministro ou Secretário de Estado competente;\n\nb) Os referidos na alínea e) do n.º 1, pelos presidentes das câmaras municipais respectivas;\n\nc) Os referidos na alínea g) do n.º 1, pelo competente órgão representantivo dos trabalhadores da empresa.\n\n3 - Nas reuniões do conselho geral devem estar representados o conselho de gerência e a comissão de fiscalização, sem direito a voto.\n\n4 - Os membros do conselho geral perdem o seu mandato quando deixarem de ter a qualidade em virtude da qual foram designados e podem ser substituídos a todo o tempo pela entidade competente para a sua designação; as pessoas que os substituírem exercerão funções até ao termo normal do mandato dos substituídos.\n\n> Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30."
+  },
+  "723d88071e663457": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Composição do conselho de gerência)",
+   "in_force_from": "1979-11-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30."
+   ],
+   "markdown": "###### Artigo 9.º — (Composição do conselho de gerência)\n\n1 - O conselho de gerência é composto pelo presidente e até seis vogais, nomeados por períodos de três anos, renováveis, pelo Conselho de Ministros, sob proposta do Ministro dos Transportes e Comunicações, ouvidos o Conselho para a Carreira do Gestor Público e os trabalhadores da empresa.\n\n2 - Para efeitos de audição dos trabalhadores, o Ministro dos Transportes e Comunicações ou o seu representante convocará o órgão representativo dos trabalhadores.\n\n3 - O conselho de gerência toma posse perante o Ministro da tutela.\n\n4 - O conselho de gerência, na sua primeira reunião, designará o vogal a quem cabe a substituição do presidente nas suas faltas e impedimentos.\n\n5 - Os membros do conselho de gerência exercerão as suas funções em regime de tempo completo, sendo as mesmas incompatíveis com o desempenho de quaisquer actividades em outras empresas, salvo representação da TAP em sociedades em que aquela participe.\n\n> Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30."
+  },
+  "76d436c0511b3ce7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Competência do conselho de gerência)",
+   "in_force_from": "1979-11-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30."
+   ],
+   "markdown": "###### Artigo 10.º — (Competência do conselho de gerência)\n\n1 - Compete ao conselho de gerência o exercício de todos os poderes necessários para assegurar a gestão e o desenvolvimento da empresa e a administração do seu património.\n\n2 - Compete, em especial, ao conselho de gerência:\n\na) Criar comissões executivas permanentes consideradas necessárias para a descentralização e destinadas a assegurar a coordenação das actividades concorrentes para os diversos objectivos empresariais, designando os membros do conselho que, por delegação do mesmo, assumirão a presidência das referidas comissões;\n\nb) Deliberar sobre a aquisição, alienação ou oneração, por qualquer modo, dos bens móveis e imóveis;\n\nc) Deliberar sobre o exercício, modificação ou cessação de actividades acessórias do objecto principal da empresa;\n\nd) Celebrar contratos-programas com o Estado e elaborar os planos plurianuais de actividade e financiamento, de harmonia com as opções e prioridades fixadas nos planos nacionais a médio prazo;\n\ne) Remeter, até 31 de Agosto, ao Ministro dos Transportes e Comunicações e ao órgão central de planeamento um anteprojecto dos elementos básicos dos planos de exploração e investimento para o ano seguinte e elaborar e remeter aos membros do conselho geral, até 15 de Setembro, o orçamento anual de exploração da TAP, a enviar com o parecer do referido órgão, até 31 de Outubro, ao Ministro dos Transportes e Comunicações, para aprovação;\n\nf) Elaborar e submeter a parecer do conselho geral e à aprovação do Ministro dos Transportes e Comunicações as actualizações orçamentais, nos casos previstos na lei;\n\ng) Organizar, com referência a 31 de Dezembro de cada ano, os documentos de prestação de contas, a remeter aos membros do conselho geral até 10 de Julho e a submeter à aprovação do Ministro dos Transportes e Comunicações até 31 de Julho;\n\nh) Contrair empréstimos e celebrar todos os contratos necessários à prossecução da actividade da empresa;\n\ni) Confessar, desistir e transigir em quaisquer acções e comprometer-se em árbitros;\n\nj) Negociar e outorgar acordos colectivos de trabalho;\n\nk) Fixar as condições de trabalho e regulamentar a organização interna da empresa;\n\nl) Assegurar o bom funcionamento e tomar as medidas necessárias à organização dos serviços da empresa, de modo a garantir uma adequada economia de meios e elevada qualidade dos serviços públicos de transporte cometidos à empresa;\n\nm) Designar e exonerar os responsáveis da estrutura orgânica da empresa.\n\n3 - O conselho de gerência poderá:\n\na) Delegar quaisquer das suas atribuições em um ou mais dos seus membros ou em comissões por eles constituídas, podendo ainda os mesmos delegar os poderes que julgarem mais convenientes;\n\nb) Conferir os mandatos que julgar necessários e revogá-los;\n\nc) Deliberar sobre a representação da empresa em juízo e fora dele, activa ou passivamente.\n\n4. Não poderá, todavia, o conselho de gerência, sem o prévio parecer favorável da comissão de fiscalização, obrigar a sociedade por empréstimo pecuniário ou outra forma de financiamento, interno ou externo, por prazo superior a cinco anos.\n\n5. Para a empresa se considerar obrigada ou vinculada pelos actos praticados em seu nome bastará que os documentos respectivos sejam assinados:\n\na) Por dois membros do conselho de gerência;\n\nb) Por um membro do conselho de gerência que para tanto houver recebido delegação deste conselho;\n\nc) Pelas pessoas a que se referem as alíneas a) e b) do n.º 3 deste artigo, no âmbito dos poderes que lhe tiverem sido conferidos.\n\n> Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30."
+  },
+  "068188b411cc931b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Competência do presidente do conselho de gerência)",
+   "in_force_from": "1979-11-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 460/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1979-367048), publicado em 1979-11-23."
+   ],
+   "markdown": "###### Artigo 12.º — (Competência do presidente do conselho de gerência)\n\n1 - Compete ao presidente do conselho de gerência:\n\na) Coordenar e dirigir as actividades do conselho de gerência;\n\nb) Presidir às sessões do conselho de gerência e exercer voto de qualidade;\n\nc) Fazer cumprir as deliberações do conselho de gerência e, em especial, velar pela execução e pelo cumprimento dos orçamentos dos planos anuais e plurianuais;\n\nd) Submeter a despacho ministerial os assuntos que dele careçam e, de modo geral, assegurar as relações com o Governo;\n\ne) Assegurar as relações do conselho de gerência com o conselho geral;\n\nf) Representar a empresa em juízo e fora dele;\n\ng) Exercer os poderes que o conselho de gerência nele delegar.\n\n> Alterado pelo/a [Decreto-Lei n.º 460/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1979-367048), publicado em 1979-11-23."
+  },
+  "a45c0a8525318888": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Comissões executivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Comissões executivas"
+  },
+  "d17d5eac03e27ed8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Composição das comissões executivas)",
+   "in_force_from": "1979-11-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30."
+   ],
+   "markdown": "###### Artigo 13.º — (Composição das comissões executivas)\n\nAs comissões executivas permanentes a que se refere a alínea a) do n.º 2 do artigo 10.º são constituídas pelo membro do conselho de gerência, que preside, e pelos directores para o efeito designados.\n\n> Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30."
+  },
+  "c77ecd0038c2445f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Competência das comissões executivas)",
+   "in_force_from": "1979-11-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30."
+   ],
+   "markdown": "###### Artigo 14.º — (Competência das comissões executivas)\n\nCompete às comissões executivas, além dos poderes de administração nelas delegados pelo conselho de gerência, tomar as medidas adequadas ao bom funcionamento da empresa dentro das respectivas áreas de actuação.\n\n> Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30."
+  },
+  "d3959a8851a6ce06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Competência dos presidentes das comissões executivas)",
+   "in_force_from": "1979-11-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30."
+   ],
+   "markdown": "###### Artigo 15.º — (Competência dos presidentes das comissões executivas)\n\nCompete aos presidentes das comissões executivas propor ao conselho de gerência todas as acções que excedam a sua jurisdição.\n\n> Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30."
+  },
+  "a5af3792d2518db0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Responsabilidade limitada da empresa)",
+   "in_force_from": "1979-11-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 460/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1979-367048), publicado em 1979-11-23."
+   ],
+   "markdown": "###### Artigo 30.º — (Responsabilidade limitada da empresa)\n\n1. Pelos actos e factos imputados à empresa responderá unicamente o seu património, sem prejuízo do disposto no n.º 2 deste artigo.\n\n2. O Estado só responderá perante terceiros pelos actos e factos imputáveis à empresa se e na medida em que de modo expresso tiver assumido tal responsabilidade.\n\n3 - A responsabilidade da empresa por danos resultantes da sua actividade de transporte aéreo será limitada nos precisos termos que vigoram para os voos internacionais ao abrigo das convenções a que o Estado Português está ou venha a estar vinculado.\n\n> Alterado pelo/a [Decreto-Lei n.º 460/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1979-367048), publicado em 1979-11-23."
+  }
+ }
+}

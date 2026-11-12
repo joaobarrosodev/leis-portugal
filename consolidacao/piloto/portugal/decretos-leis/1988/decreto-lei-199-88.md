@@ -257,8 +257,6 @@ c) Os rendimentos líquidos médios e os valores fundiários.
 
 6 - A indemnização relativa a produtos armazenados não devolvidos será calculada com base no valor corrente à data da indemnização.
 
-7 - A indemnização por frutos pendentes à data da expropriação ou nacionalização será calculada com base nos respectivos valores à data em que os mesmos foram ou seriam comercializados, e a correspondente a produtos armazenados não devolvidos com base no valor corrente à data do pagamento da indemnização.
-
 > Alterado pelo/a [Decreto-Lei n.º 38/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1995-197687), publicado em 1995-02-14.
 
 ###### Artigo 12.º

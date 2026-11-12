@@ -231,5 +231,19 @@
     "unidade": [],
     "diploma": "pt:dre:603897:por",
     "alterador": "pt:dre:588853:por"
+  },
+  {
+    "artigo": "SECÇÃO I — Direcção",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO I — Direcção",
+    "depois": "#### SECÇÃO I — Conselho diretivo",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:603897:por",
+    "alterador": "pt:dre:588853:por"
   }
 ]

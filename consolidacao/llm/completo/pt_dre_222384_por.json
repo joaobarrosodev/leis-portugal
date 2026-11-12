@@ -21,12 +21,12 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alt. 1, art. 1.º: nova redação do art. 14.º (limite de despesas 10000$00); aplicado.",
-    "Alt. 2, art. 1.º: segunda parte do art. 5.º substituída (1.º parágrafo e §§ 1.º e 2.º '...' mantidos); aplicado.",
-    "Alt. 2, art. 1.º: nova redação do art. 22.º; aplicado.",
-    "Alt. 2, art. 2.º: interpretação autêntica; sem alteração de texto."
+    "DL 46111 art. 1.º: nova redação do art. 14.º (10000$00) - aplicada (alteração textual, ainda que inserida no regime para 1965)",
+    "DL 46799 art. 1.º: nova redação da segunda parte do art. 5.º - aplicada, resto mantido; nova redação do art. 22.º - aplicada",
+    "DL 46799 art. 2.º: interpretação autêntica, sem alteração textual"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -68,16 +68,36 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Art. 6.º, n.º 5 do DLR 6/2015/M revoga também o Capítulo IV: o texto atual não indica que artigos formam o Capítulo IV dos Estatutos, por isso não se revogou nenhum artigo por essa via. Art. 6.º, n.os 3 e 4 (epígrafes das Secções I e III do Capítulo III passam a 'Conselho diretivo' e 'Fiscal único'): as epígrafes de secção não constam do texto atual por artigos. Art. 6.º, n.º 2 (referências ao conselho de administração consideram-se feitas ao conselho diretivo) é regra remissiva, não alteração textual; o texto dos outros artigos não foi mudado.",
+  "removidos": [],
+  "titulos": [
+    {
+      "atual": "#### SECÇÃO I — Conselho de administração",
+      "novo": "#### SECÇÃO I — Conselho diretivo",
+      "alterador": 1
+    },
+    {
+      "atual": "#### SECÇÃO III — Comissão de fiscalização",
+      "novo": "#### SECÇÃO III — Fiscal único",
+      "alterador": 1
+    },
+    {
+      "atual": "### CAPÍTULO IV — Vinculação do IDE-RAM",
+      "novo": "### CAPÍTULO IV — (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "DLR 6/2015/M, art. 6.º, n.º 2: 'Todas as referências feitas [...] ao conselho de administração consideram-se feitas ao conselho diretivo' é uma norma remissiva, não uma alteração textual; não se substituiu a expressão nos artigos 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 15.º, 17.º, 25.º e 33.º dos Estatutos, que mantêm a letra atual.",
   "instrucoes": [
-    "Art. 6.º, n.º 1 do DLR 6/2015/M: nova redação dos arts. 6.º, 7.º, 11.º e 16.º dos Estatutos; aplicada (6.º e 7.º mantêm a epígrafe por '[...]'; 11.º e 16.º com epígrafe nova; 6.º b) mantém o texto atual).",
-    "Art. 6.º, n.º 2: referências ao conselho de administração passam a conselho diretivo; regra remissiva, não aplicada ao texto.",
-    "Art. 6.º, n.os 3 e 4: epígrafes das Secções I e III do Capítulo III; não aplicáveis (secções não constam do texto por artigos).",
-    "Art. 6.º, n.º 5: revoga os arts. 15.º, 19.º, 20.º, 21.º, 22.º, 24.º e 25.º (dos Estatutos, já que o decreto só tem 7 artigos) e o Capítulo IV; artigos revogados, Capítulo IV não aplicado por não se saber a sua composição.",
-    "Art. 6.º, n.º 6: produção de efeitos; não textual.",
-    "Restantes artigos do DLR 6/2015/M alteram outros diplomas (DLR 18/2014/M, 11/83/M, 28/2001/M, 27/2004/M, 28/2006/M, 12/2010/M, 34/2012/M, 17/2014/M); ignorados."
+    "DLR 6/2015/M, art. 6.º, n.º 1: nova redação dos arts. 6.º, 7.º, 11.º e 16.º dos Estatutos — aplicado (epígrafe '[...]' mantida nos 6.º e 7.º).",
+    "n.º 2: referências ao conselho de administração consideradas feitas ao conselho diretivo — norma remissiva, não textual: nao_aplicavel.",
+    "n.º 3: epígrafe da Secção I do Capítulo III passa a 'Conselho diretivo' — aplicado em titulos.",
+    "n.º 4: epígrafe da Secção III do Capítulo III passa a 'Fiscal único' — aplicado em titulos.",
+    "n.º 5: revogados os arts. 15.º, 19.º, 20.º, 21.º, 22.º, 24.º e 25.º e o Capítulo IV — artigos com '(Revogado.)' e título do Capítulo IV assinalado como revogado.",
+    "n.º 6: produção de efeitos — sem alteração de texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [
+    "título ### CAPÍTULO IV — (Revogado.): texto que não está no alterador nem no original"
+  ]
 }

@@ -425,7 +425,11 @@ c) Quotizações
 
 (Revogado.)
 
+d) Pagamento ou gratuitidade dos serviços prestados
+
 > Revogado pelo/a [Portaria n.º 437/79](https://diariodarepublica.pt/dr/detalhe/portaria/437-1979-377571), publicado em 1979-08-17.
+
+> Alterado pelo/a [Portaria n.º 437/79](https://diariodarepublica.pt/dr/detalhe/portaria/437-1979-377571), publicado em 1979-08-17.
 
 ###### Artigo 33.º
 

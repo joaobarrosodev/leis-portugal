@@ -30,23 +30,16 @@
       "epigrafe": "Contratos de pessoal",
       "texto": "1 - ...\n\na) Quando a única forma de provimento prevista seja contrato e se destine ao preenchimento de lugares do quadro, bem como a contratação além dos quadros quando esta se revele indispensável ao funcionamento dos serviços de natureza transitória.\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) Quando se trate de pessoal carenciado na Região e de difícil recrutamento.\n\n2 - ...\n\na) Existência prévia de descongelamento, nos termos do artigo 12.º;\n\nb) Redução a escrito e visto da Secção Regional do Tribunal de Contas.\n\n3 - Os diplomas de descongelamento estabelecerão quais as carreiras e ou categorias de pessoal que se encontrem nas condições previstas na alínea e) do n.º 1.\n\n4 - Os contratos referidos na alínea e) do n.º 1 não poderão manter-se por período superior a um ano, sendo vedada a celebração de novo contrato pelo mesmo serviço e para a mesma categoria sem que tenham decorridos pelo menos seis meses após o termo do último contrato, salvo nos casos em que o agente foi admitido a concurso, situação em que o contrato poderá ser mantido até à caducidade do prazo do respectivo concurso.",
       "alterador": 1
-    },
-    {
-      "chave": "2.º#2",
-      "epigrafe": "Contratos de trabalho",
-      "texto": "1 - Para além da situação prevista na alínea i) do n.º 3 do artigo 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, os serviços e organismos poderão celebrar contratos de trabalho nos termos previstos no [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho.\n\n2 - Para os efeitos previstos no artigo 2.º do decreto-lei referido no número anterior, serão competentes, respectivamente, a SRF e a SRAP.\n\n3 - Nos casos de contratação eventual que vise assegurar, de imediato, funções de prestação de serviços essenciais directamente ao público utente, o parecer prévio favorável da SRF e da SRAP é dispensado, ficando os serviços obrigados a comunicar às mesmas entidades, no prazo máximo de cinco dias, as razões e as condições da celebração do respectivo contrato.\n\n4 - (Revogado.)",
-      "alterador": 2
     }
   ],
   "removidos": [],
   "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alt. 1 (DLR 21/88/A), n.º 1: nova redação da alínea a) do n.º 1 do art. 14.º do DL 41/84 tal como adaptado à Região pelo original, que é o art. 14.º do texto atual; aplicada, resto do artigo mantido.",
-    "Alt. 1, n.º 2: adita o n.º 4 ao art. 2.º do original; pelo conteúdo (contratos ao abrigo do DL 280/85) é o 2.º#2 'Contratos de trabalho'.",
-    "Alt. 2 (DLR 1/2005/A), art. 36.º, b): revoga os arts. 2.º a 4.º e 10.º do original; entendidos como os da primeira série (fundamentação, auditoria, extinção/fusão de serviços, estrutura de projecto), na matéria de organização de serviços que o diploma passa a regular; revogados, epígrafes mantidas.",
-    "Alt. 2, art. 36.º, c): revoga o n.º 2 do artigo único do DLR 21/88/A, que aditara o n.º 4 ao 2.º#2; esse n.º 4 fica '(Revogado.)'.",
-    "Alt. 2, demais artigos e alíneas a) e d) do art. 36.º: não se dirigem ao original; ignorados."
+    "DLR 21/88/A, n.º 1: nova redação da alínea a) do n.º 1 do artigo 14.º (do DL 41/84 tal como adaptado no texto do DLR 5/87/A): aplicada ao 14.º.",
+    "DLR 21/88/A, n.º 2: adita o n.º 4 ao artigo 2.º do DLR (Contratos de trabalho, chave 2.º#2); revogado depois pelo art. 36.º, al. c), do DLR 1/2005/A: o 2.º#2 fica como está, sem n.º 4.",
+    "DLR 1/2005/A, art. 36.º, al. b): revoga os artigos 2.º a 4.º e 10.º do DLR 5/87/A. O 10.º só existe na numeração adaptada do DL 41/84 (o articulado próprio do DLR vai só até ao 7.º), e as matérias (pareceres na criação de serviços, auditoria de gestão, extinção/fusão, estrutura de projecto) são as que o DLR 1/2005/A passa a regular; a al. c) trata à parte do n.º 4 do 2.º#2, sinal de que este não é revogado pela al. b). Revogados 2.º, 3.º, 4.º e 10.º; mantidos 2.º#2, 3.º#2 e 4.º#2.",
+    "Restantes alíneas do art. 36.º (al. a) e d)) e demais artigos do DLR 1/2005/A não se dirigem ao original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -72,7 +72,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 (Revogado.)
 
-> Revogado pelo/a [Lei n.º 36/2021](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), publicado em 2021-06-14.
+> Alterado pelo/a [Lei n.º 36/2021](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), publicado em 2021-06-14.
 
 Mário Soares - José Dias dos Santos Pais.
 

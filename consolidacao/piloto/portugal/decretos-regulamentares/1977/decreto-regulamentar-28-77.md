@@ -601,7 +601,7 @@ Por cada meia hora sucessiva ou fracção ... 1000$00
 
 2 - Estas penalidades só serão de aplicar quando daí resultarem prejuízos para terceiros.
 
-### CAPÍTULO II — Estacionamento no porto
+### CAPÍTULO II — Estacionamento e acostagem no porto
 
 ###### Artigo 82.º — Aplicação da taxa de estacionamento/acostagem
 
@@ -661,15 +661,11 @@ e) Navios-hospitais.
 
 > Revogado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
-### CAPÍTULO III — Acostagem
-
 ###### Artigo 86.º — Obrigatoriedade de acostagem
 
 1 - É obrigatória a acostagem de todas as embarcações de passageiros e as de longo curso, cabotagem ou navegação costeira que estejam em condições de o poderem fazer e venham efectuar operações de carga e descarga nos portos.
 
 2 - A Administração dos Portos do Douro e Leixões pode dispensar a acostagem quando, por motivos especiais, o julgar conveniente.
-
-3 - Quando seja dispensada a acostagem por motivo de não haver para ela local disponível, a taxa de acostagem não será devida até que haja local.
 
 > Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
@@ -728,8 +724,6 @@ Trimestral ... 1500$00
 (Revogado.)
 
 > Revogado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
-
-### CAPÍTULO IV — Defensas
 
 ###### Artigo 91.º — Aplicação da taxa
 

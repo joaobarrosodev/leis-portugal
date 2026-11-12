@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-04-01'
+version_history:
+  file: decreto-lei-193-a-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-04-01'
+    amending: pt:dre:222977:por
+    amending_title: Decreto-Lei n.º 5/98; Decreto-Lei n.º 77/98
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/193-a/1997/07/29/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:50:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 5/98; Decreto-Lei
+    n.º 77/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-193-a-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,11 +176,15 @@ Assim, no desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90]
 
 ###### Artigo 2.º — Modalidades
 
-1 - Na 1.ª fase da reprivatização proceder-se-á à alienação, por venda directa, de um bloco indivisível de acções representativas de 95% do capital social da SETENAVE.
+1 - Na 1.ª fase da reprivatização proceder-se-á à alienação, por venda directa, de um bloco indivisível de 2 milhões de acções representativas de 94,97% do capital social da SETENAVE.
 
-2 - A 2.ª fase da reprivatização concretizar-se-à mediante a alienação, por oferta pública de venda reservada a trabalhadores da SETENAVE e pequenos subscritores, de acções representativas de 5% do capital social da SETENAVE.
+2 - A 2.ª fase da reprivatização concretizar-se-á mediante a alienação, por oferta pública de venda reservada a trabalhadores da SETENAVE e pequenos subscritores, de acções representativas de 5,03% do capital social da SETENAVE.
 
 3 - O adquirente do bloco de acções a alienar na 1.ª fase da reprivatização fica obrigado a adquirir a totalidade das acções eventualmente não colocadas no âmbito da oferta pública de venda a que alude o número anterior, ao preço de aquisição das acções objecto da venda directa.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1998-222977), publicado em 1998-01-12.
+
+> Alterado pelo/a [Decreto-Lei n.º 77/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1998-198117), publicado em 1998-03-27.
 
 ###### Artigo 3.º — Regime de indisponibilidade das acções adquiridas no âmbito da venda directa
 
@@ -218,15 +240,13 @@ f) As condições especiais aplicáveis à aquisição das acções pelos pequen
 
 2 - O preço de venda a praticar na oferta pública de venda reservada a trabalhadores e pequenos subscritores será de 94% do preço de alienação a fixar para as acções objecto da venda directa.
 
-3 - O pedido de registo da oferta pública de venda deverá ser apresentado à Comissão do Mercado de Valores Mobiliários no prazo máximo de 90 dias contados da data em que tiver ocorrido a transmissão da titularidade das acções objecto da venda directa.
-
-4 - Caso, em resultado da venda directa prevista no n.º 1 do artigo 2.º ou em cumprimento da obrigação a que alude o n.º 3 do artigo 2.º, se verifique a situação prevista no artigo 490.º, n.º 1 do Código das Sociedades Comerciais:
+3 - Caso, em resultado da venda directa prevista no n.º 1 do artigo 2.º ou em cumprimento da obrigação a que alude o n.º 3 do artigo 2.º, se verifique a situação prevista no artigo 490.º, n.º 1 do Código das Sociedades Comerciais:
 
 a) A sociedade dominante ficará obrigada a não exercer o direito que lhe é conferido pelo número 3 do artigo 490.º do Código das Sociedades Comerciais;
 
 b) Os titulares de acções adquiridas no âmbito da oferta pública de venda não poderão, em relação às mesmas, durante 3 anos contados da data de realização da sessão especial de bolsa destinada à execução da oferta, exercer os direitos consagrados nos n.os 5 e 6 do artigo 490.º do Código das Sociedades Comerciais.
 
-5 - Para efeitos do disposto no número 2 do artigo 2.º, consideram-se trabalhadores da SETENAVE as pessoas que se encontram nas condições previstas no artigo 12.º da Lei 11/90, de 5 de Abril, em relação à SETENAVE - Estaleiros Navais de Setúbal, S. A.
+> Alterado pelo/a [Decreto-Lei n.º 77/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1998-198117), publicado em 1998-03-27.
 
 ###### Artigo 7.º — Regime de Indisponibilidade das Acções de Trabalhadores e Pequenos Subscritores
 
@@ -248,7 +268,9 @@ b) Os titulares de acções adquiridas no âmbito da oferta pública de venda n�
 
 ###### Artigo 8.º — Actos prévios à reprivatização
 
-A SETENAVE, previamente às operações de venda reguladas pelo presente diploma, procederá a uma redução do seu capital social para 2 milhões de contos, destinada à cobertura de prejuízos.
+A SETENAVE, previamente às operações de venda reguladas pelo presente diploma, procederá a uma redução do seu capital social para 2,106 milhões de contos, destinada à cobertura de prejuízos.
+
+> Alterado pelo/a [Decreto-Lei n.º 77/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1998-198117), publicado em 1998-03-27.
 
 ###### Artigo 9.º — Trabalhadores da SETENAVE
 

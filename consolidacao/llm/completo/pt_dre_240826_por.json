@@ -171,10 +171,11 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 46.º: revoga o Decreto-Lei n.º 190/92 com excepção da alínea b) do n.º 2 e dos n.os 3 e 4 do artigo 4.º — artigos 1.º a 3.º e 5.º a 28.º revogados; no artigo 4.º revogados o n.º 1 e a alínea a) do n.º 2, mantendo-se o proémio e a alínea b) do n.º 2 e os n.os 3 e 4.",
-    "Alterador 1, restantes artigos: novo regime próprio, sem outras instruções dirigidas ao original."
+    "DL 11/2008, art. 46.º: revoga o DL 190/92 com exceção da alínea b) do n.º 2 e dos n.os 3 e 4 do artigo 4.º: artigos 1.º a 3.º e 5.º a 28.º revogados; no artigo 4.º revogados o n.º 1 e a alínea a) do n.º 2, mantidos o proémio do n.º 2 (necessário à alínea b)), a alínea b) e os n.os 3 e 4. Reparo confirmado.",
+    "DL 11/2008, art. 45.º (reapreciação de situações do n.º 3 do art. 12.º e do art. 26.º): norma transitória, não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

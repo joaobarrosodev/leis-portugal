@@ -73,6 +73,8 @@ h) Pessoal técnico judicial.
 
 3 - Os funcionários que, estando providos em cargos de chefia tributária, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção são integrados na nova categoria, no escalão que resultar da aplicação das regras previstas no artigo 6.º ao escalão que detinham na categoria de origem.
 
+4 - Os funcionários que cessem o exercício dos cargos mencionados na alínea b) do artigo 2.º por lhes ser dada por finda a respectiva comissão de serviço regressam às categorias de origem, na categoria em que se encontram providos e no escalão que lhes couber devido à normal progressão na mesma.
+
 > Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
 ###### Artigo 5.º — Administradores tributários

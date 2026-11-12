@@ -130,13 +130,12 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Artigo 70.º, n.º 1, do DL 124/99: mantém transitoriamente em vigor 'a parte inicial das alíneas b) e c)' do n.º 2 do artigo 10.º, o que revogaria o resto dessas alíneas; não se sabe onde acaba a 'parte inicial', por isso as alíneas b) e c) ficam como estão. Artigo 62.º, n.º 4, do DL 124/99 (as referências ao CRAF consideram-se feitas ao conselho científico) é uma regra de interpretação, não uma alteração textual: não aplicado.",
+  "nao_aplicavel": "Art. 70.º, n.º 1, do DL 124/99: a manutenção transitória da «parte inicial» das alíneas b) e c) do n.º 2 do artigo 10.º não tem delimitação segura no texto (o alterador não diz onde acaba a parte inicial), pelo que essas alíneas ficam com o texto atual inteiro em vez de truncadas. Art. 62.º, n.º 4, do DL 124/99 (as referências ao CRAF consideram-se feitas ao conselho científico): regra interpretativa, sem substituição textual expressa; não aplicada aos arts. 6.º, 11.º, 14.º, 15.º, 17.º e 20.º. Art. 62.º, n.os 1 e 2 (manutenção transitória do regime para certo pessoal): não é alteração textual. A revogação do DL 124/99 pela Lei 55/2025 não repristina os artigos revogados do DL 219/92 e não muda o texto.",
   "instrucoes": [
-    "DL 124/99, art. 62.º, n.º 3: nova redação do n.º 4 do artigo 12.º; o texto atual já a tem, nada a mudar.",
-    "DL 124/99, art. 62.º, n.os 1, 2 e 4: regime transitório e regra de remissão; não alteram o texto (o n.º 4 vai em nao_aplicavel).",
-    "DL 124/99, art. 70.º, n.º 1: revoga o Estatuto da Carreira de Investigação Científica (o próprio DL 219/92), ressalvando o artigo 2.º, os n.os 1 e 2 do artigo 3.º, o artigo 6.º, a parte inicial das alíneas b) e c) e a alínea d) do n.º 2 do artigo 10.º e os artigos 11.º a 21.º: revogados os artigos 1.º, 4.º, 5.º, 7.º, 8.º, 9.º e 22.º a 34.º; no artigo 3.º revogados os n.os 3 a 5; no artigo 10.º revogados os n.os 1, 3 e 4 e a alínea a) do n.º 2.",
-    "DL 124/99, arts. 64.º, 67.º e 69.º: não alteram o original.",
-    "Lei n.º 55/2025 revoga os artigos 62.º a 70.º do DL 124/99; a revogação da norma revogatória não repristina o original, mantém-se o aplicado."
+    "DL 124/99 art. 62.º n.º 3: nova redação do n.º 4 do art. 12.º — já estava aplicada pelo programa; confirmada, sem mudança.",
+    "DL 124/99 art. 62.º n.º 4: CRAF = conselho científico — regra interpretativa, não aplicada ao texto (nao_aplicavel).",
+    "DL 124/99 art. 70.º n.º 1: revogação do Estatuto salvo os arts. 2.º, 3.º n.os 1 e 2, 6.º, parte inicial das als. b) e c) e al. d) do n.º 2 do 10.º e 11.º a 21.º — revogados os arts. 1.º, 4.º, 5.º, 7.º, 8.º, 9.º e 22.º a 34.º; no 3.º revogados os n.os 3 a 5; no 10.º revogados o n.º 1, a al. a) do n.º 2 e os n.os 3 e 4, com as als. b) e c) mantidas inteiras (ver nao_aplicavel).",
+    "DL 124/99 arts. 64.º, 67.º e 69.º: só remetem para o DL 219/92, sem alteração do seu texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

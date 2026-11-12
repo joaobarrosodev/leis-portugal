@@ -68,43 +68,27 @@ ESTATUTO DOS SOLICITADORES
 
 ###### Artigo 1.º — Natureza e sede
 
-1 - A Câmara dos Solicitadores, abreviadamente designada por Câmara, é a associação pública representativa dos solicitadores.
+(Revogado.)
 
-2 - A Câmara tem sede em Lisboa.
+> Revogado pelo/a [Decreto-Lei n.º 88/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2003-240647), publicado em 2003-04-26.
 
 ###### Artigo 2.º — Âmbito
 
-1 - A Câmara exerce as atribuições conferidas por este Estatuto no território nacional e está internamente estruturada em duas regiões, Norte e Sul, e em delegações locais.
+(Revogado.)
 
-2 - A região Norte tem sede no Porto e abrange a área correspondente aos distritos de Viana do Castelo, Braga, Vila Real, Bragança, Porto, Aveiro, Coimbra, Viseu e Guarda.
-
-3 - A região Sul tem sede em Lisboa e abrange a área correspondente aos distritos de Castelo Branco, Leiria, Santarém, Lisboa, Portalegre, Évora, Beja, Setúbal e Faro, bem como as Regiões Autónomas dos Açores e da Madeira.
-
-4 - As delegações da Câmara funcionam na sede de cada círculo judicial, com excepção de Lisboa e Porto, e abrangem as áreas correspondentes às respectivas comarcas.
+> Revogado pelo/a [Decreto-Lei n.º 88/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2003-240647), publicado em 2003-04-26.
 
 ###### Artigo 3.º — Atribuições
 
-São atribuições da Câmara:
+(Revogado.)
 
-a) Colaborar na administração da justiça, propondo as medidas legislativas que considere adequadas ao seu bom funcionamento;
-
-b) Atribuir o título profissional de solicitador;
-
-c) Elaborar e aprovar os regulamentos internos de natureza associativa e profissional;
-
-d) Emitir parecer sobre os projectos de diplomas legislativos relacionados com as suas atribuições;
-
-e) Defender os direitos e interesses dos seus membros;
-
-f) Promover o aperfeiçoamento profissional dos solicitadores;
-
-g) Exercer a disciplina sobre os seus membros;
-
-h) Contribuir para o relacionamento com a Ordem dos Advogados e com organismos congéneres estrangeiros.
+> Revogado pelo/a [Decreto-Lei n.º 88/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2003-240647), publicado em 2003-04-26.
 
 ###### Artigo 4.º — Representação
 
-A Câmara é representada em juízo e fora dele pelo presidente do conselho geral ou pelos presidentes dos conselhos regionais, conforme se trate, respectivamente, do exercício das competências do conselho geral ou dos conselhos regionais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 88/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2003-240647), publicado em 2003-04-26.
 
 ###### Artigo 5.º — Requisição de documentos
 

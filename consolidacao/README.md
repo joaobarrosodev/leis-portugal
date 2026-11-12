@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.329 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.361 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -62,6 +62,14 @@ Dos 807 diplomas cuja última ronda às cegas teve reparos, 487 falham por anexo
 Conclusão: repedir com o mesmo método rende pouco (6 em 100). Para estes diplomas é preciso outra abordagem: repedir só os artigos `errado`, com o motivo do verificador, ou uma revisão humana.
 
 **Cuidado ao correr `juntar`:** o `llm_completo.py juntar` e o `llm_corrido.py juntar` reescrevem as entradas de todos os diplomas a partir das respostas guardadas. Isto desfez as 6 exclusões manuais da ronda 80 (revogados por inteiro e revogação adiada) e tirou o campo `passagens` aos 18 grandes; essas entradas e dois consolidados dos 18 (DL 202/2000 e DL 63-A/2013) foram repostos como estavam. **Corrigido a 12/11/2026:** as exclusões feitas à mão ficam em `llm/exclusoes.json` (id → motivo) e os dois `juntar` respeitam-nas; o `juntar` do texto corrido deixa como estão as entradas dos 18 grandes (`llm/gigantes-ids.txt`), que são do `llm_gigantes.py`. Correr `juntar` duas vezes já não muda nada.
+
+### 7. Repedir com os reparos do verificador: ronda 82 (12/11/2026)
+
+`reparos.py` repede os diplomas do pedido completo que falharam a verificação às cegas, agora com o que o verificador apontou, logo a seguir ao início de cada diploma: os artigos `errado` ou `dúvida`, com o motivo e o texto esperado, e as instruções que não se viram aplicadas. Ficam de fora os reparos sobre anexos, quadros, mapas ou imagens, e os pedidos acima de 450 mil caracteres. O verificador da ronda nova não vê os reparos.
+
+Foram 160 diplomas em 45 pedidos, respondidos por subagentes Opus. A verificação letra a letra juntou 150. **54 deram um texto diferente do que tinha falhado** (na ronda 81, sem os reparos, tinham sido 17 em 99). Na ronda 82 (`verificacao/entrada-piloto-82-lote-01..02.jsonl`, 21 vistas, verificadores Sonnet às cegas), dos 2.806 artigos 2.786 estão `certo`, 9 `errado` e 11 `dúvida`. **33 diplomas não têm reparos e 32 foram aplicados.** O que fica de fora é a Portaria 705-A/2000, que a Portaria 349/2007 revoga quase toda. Os 21 com reparos repetem padrões já vistos: texto antigo duplicado a seguir à nova redação, fecho com as assinaturas duplicado, marcadores "[Actual alínea …]" por substituir, substituições terminológicas por fazer e epígrafes em falta.
+
+Conclusão: com os reparos, o rendimento sobe de 6 em 100 (ronda 81) para 32 em 160. Os outros 96 juntados reproduziram o texto que já tinha falhado.
 
 ## Resultado em resumo
 

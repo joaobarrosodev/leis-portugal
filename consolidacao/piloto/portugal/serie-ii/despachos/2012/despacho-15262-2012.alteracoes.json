@@ -28,6 +28,20 @@
     "alterador": "pt:dre:933005693:por"
   },
   {
+    "artigo": "12.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 12.º",
+    "depois": "###### Artigo 12.º\n\na) Promover a regulamentação e a regulação relativas ao bem-estar dos animais de interesse pecuário, assim como os destinados ao abate ou occisão e durante o transporte;\n\nb) Elaborar, coordenar e supervisionar o Plano de Proteção Animal, definindo e promovendo os controlos no âmbito do bem-estar dos animais de interesse pecuário, transporte, abate ou occisão;\n\nc) (Revogada.)\n\nd) Assegurar a emissão de pareceres relativos aos alojamentos e manutenção de animais de interesse pecuário, nomeadamente nas explorações e nos centros de agrupamento;\n\ne) Preparar e participar na representação da DGAV nas instâncias nacionais, comunitárias e internacionais no âmbito do bem-estar dos animais de interesse pecuário;\n\nf) (Revogada.)\n\ng) (Revogada.)\n\ni) Conceber e coordenar os sistemas de informação de suporte do Plano de Proteção Animal, no âmbito do bem-estar dos animais de interesse pecuário, transporte, abate ou occisão e dos indicadores técnicos neste âmbito;\n\nj) (Revogada.)\n\nk) Elaborar e coordenar a execução das medidas de bem-estar dos animais de interesse pecuário, transporte, abate ou occisão.\n\n> Alterado pelo/a [Despacho n.º 10050/2025](https://diariodarepublica.pt/dr/detalhe/despacho/10050-2025-933005693), publicado em 2025-08-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:2009106:por",
+    "alterador": "pt:dre:933005693:por"
+  },
+  {
     "artigo": "13.º-A",
     "operacao": "aditar",
     "regra": "llm",

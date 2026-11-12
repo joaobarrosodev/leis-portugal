@@ -30,10 +30,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-12-15'
+version_history:
+  file: decreto-lei-496-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-11-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-12-15'
+    amending: pt:dre:685589:por
+    amending_title: Decreto-Lei n.º 524/72; Decreto-Lei n.º 665/73
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 12.º
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:20:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 524/72; Decreto-Lei
+    n.º 665/73. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-496-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,57 +156,85 @@ Ouvido o Conselho de Ministros para os Assuntos Económicos;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º A Sociedade Anónima Concessionária da Refinação de Petróleos em Portugal - Sacor, S. A. R. L., é autorizada, nos termos deste diploma, a ampliar a sua refinaria do Porto, mediante a instalação de novas linhas de combustíveis e de aromáticos.
+###### Artigo 1.º
 
-Art. 2.º - 1. É fixada em 5000000 t de petróleos brutos e seus resíduos a capacidade de laboração anual da refinaria ampliada.
+A Sociedade Anónima Concessionária da Refinação de Petróleos em Portugal - Sacor, S. A. R. L., é autorizada, nos termos deste diploma, a ampliar a sua refinaria do Porto, mediante a instalação de novas linhas de combustíveis e de aromáticos.
 
-2. Salvo autorização especial do Governo, fundada na ponderação das necessidades do abastecimento nacional, a Sacor não colocará no mercado interno mais do que a
+###### Artigo 2.º
 
-produção correspondente à capacidade de tratamento anual de 4000000 t de petróleos brutos e seus resíduos.
+1. É fixada em 6000000 t de petróleos brutos e seus resíduos a capacidade de laboração anual da refinaria ampliada.
 
-Art. 3.º A capacidade de armazenagem será aumentada nos termos legais e por forma a fazer face ao abastecimento efectuado por navios até 120000 t de porte.
+2. Salvo autorização especial do Governo, fundada na ponderação das necessidades do abastecimento nacional, a Sacor não colocará no mercado interno mais do que a produção correspondente à capacidade de tratamento anual de 4000000 t de petróleos brutos e seus resíduos.
 
-Art. 4.º - 1. A linha de hidrocarbonetos aromáticos que integra a ampliação autorizada no artigo 1.º terá uma capacidade anual de produção mínima de 250000 t, expressa na quantidade total de benzeno, tolueno e xilenos, e destinar-se-á ao abastecimento de unidades petroquímicas produtoras, designadamente de caprolactama ou sal de nylon, dimetil-tereftalato ou ácido teraftálico, anidrido ftálico e trinitrotolueno.
+> Alterado pelo/a [Decreto-Lei n.º 524/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1972-685589), publicado em 1972-12-19.
+
+###### Artigo 3.º
+
+A capacidade de armazenagem será aumentada nos termos legais e por forma a fazer face ao abastecimento efectuado por navios até 120000 t de porte.
+
+###### Artigo 4.º
+
+1. A linha de hidrocarbonetos aromáticos que integra a ampliação autorizada no artigo 1.º terá uma capacidade anual de produção mínima de 250000 t, expressa na quantidade total de benzeno, tolueno e xilenos, e destinar-se-á ao abastecimento de unidades petroquímicas produtoras, designadamente de caprolactama ou sal de nylon, dimetil-tereftalato ou ácido teraftálico, anidrido ftálico e trinitrotolueno.
 
 2. A linha referida no número precedente deverá ficar instalada no prazo fixado no artigo 7.º, de modo a proporcionar a matéria-prima necessária ao cumprimento imediato do programa de laboração da fábrica petroquímica de aromáticos a que se refere o artigo 10.º
 
 3. A linha de hidrocarbonetos instalada de conformidade com o disposto no número anterior será completada, em tempo útil, para satisfazer outros programas petroquímicos que venham a ser aprovados pelo Governo.
 
-Art. 5.º No prazo de doze meses sobre a data de publicação do presente decreto-lei, serão presentes ao Governo, por intermédio da Direcção-Geral dos Combustíveis, o projecto integral das instalações de ampliação, bem como o esquema do respectivo fabrico e as características dos correspondentes petróleos brutos e produtos finais, combustíveis, aromáticos e outros.
+###### Artigo 5.º
 
-Art. 6.º - 1. Conjuntamente com o projecto das instalações, será submetido à apreciação do Governo o plano pormenorizado da cobertura financeira do investimento correspondente.
+No prazo de doze meses sobre a data de publicação do presente decreto-lei, serão presentes ao Governo, por intermédio da Direcção-Geral dos Combustíveis, o projecto integral das instalações de ampliação, bem como o esquema do respectivo fabrico e as características dos correspondentes petróleos brutos e produtos finais, combustíveis, aromáticos e outros.
+
+###### Artigo 6.º
+
+1. Conjuntamente com o projecto das instalações, será submetido à apreciação do Governo o plano pormenorizado da cobertura financeira do investimento correspondente.
 
 2. Não poderá exceder 205000 contos o montante de eventuais financiamentos sob a forma de adiantamentos sobre compra de ramas.
 
-Art. 7.º É de vinte e quatro meses, contados da data de publicação deste diploma, o prazo para a instalação e entrada em laboração da refinaria, ampliada conforme o projecto técnico que seja aprovado.
+###### Artigo 7.º
 
-Art. 8.º Os actos relativos à ampliação da refinaria do Porto e à exploração do conjunto das instalações ampliadas regem-se, em tudo o que se não acha regulado no presente diploma, pelo que estabelecem a [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, o [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, e o decreto publicado no Diário do Governo, 3.ª série, n.º 171, p. 2499, de 22 de Julho de 1965.
+É de vinte e quatro meses, contados da data de publicação deste diploma, o prazo para a instalação e entrada em laboração da refinaria, ampliada conforme o projecto técnico que seja aprovado.
 
-Art. 9.º - 1. Será designada pelos Ministros das Finanças e da Economia uma comissão incumbida da fiscalização técnica, administrativa e financeira das obras de ampliação.
+###### Artigo 8.º
+
+Os actos relativos à ampliação da refinaria do Porto e à exploração do conjunto das instalações ampliadas regem-se, em tudo o que se não acha regulado no presente diploma, pelo que estabelecem a [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272), de 12 de Fevereiro de 1937, o [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, e o decreto publicado no Diário do Governo, 3.ª série, n.º 171, p. 2499, de 22 de Julho de 1965.
+
+###### Artigo 9.º
+
+1. Será designada pelos Ministros das Finanças e da Economia uma comissão incumbida da fiscalização técnica, administrativa e financeira das obras de ampliação.
 
 2. A comissão gozará, relativamente às suas atribuições, dos poderes estabelecidos pelo n.º 2 da base XVI da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272).
 
-Art. 10.º - 1. A Sacor participará na instalação e exploração da fábrica petroquímica de aromáticos a que se refere o artigo 21.º do despacho ministerial de 16 de Outubro de 1970, publicado no Diário do Governo, 3.ª série, n.º 256, de 4 de Novembro do mesmo ano.
+###### Artigo 10.º
 
-2. Para o efeito do número anterior, a Sacor:
+1. A Sacor participará, conjuntamente com o Amoníaco Português, na instalação e exploração das unidades industriais em que vier a concretizar-se o esquema da petroquímica de aromáticos, a que se referem os artigos 14.º e seguintes do despacho ministerial de 16 de Outubro de 1970, publicado no Diário do Governo, 3.ª série, n.º 256, de 4 de Novembro do mesmo ano.
 
-a) Prestará ao Amoníaco Português, S. A. R. L., a colaboração necessária para que, no prazo de cento e vinte dias, contados da data da publicação deste diploma, sejam praticados os actos administrativos de que depende a execução do empreendimento; e
+2. O programa e as modalidades de realização desse esquema serão aprovados pelo Ministro das Finanças e pelo Secretário de Estado da Indústria.
 
-b) Subscreverá 50 por cento do aumento do capital social do Amoníaco Português, S. A. R. L., que se destinar à realização do mesmo empreendimento.
+3. O não cumprimento, imputável à Sacor, das obrigações impostas neste artigo importará a caducidade da autorização para exploração da refinaria cuja ampliação é permitida por este diploma.
 
-3. O não cumprimento imputável à Sacor das obrigações impostas neste artigo, bem como do acordo de assistência técnica que, para o mesmo fim, essa sociedade e o Amoníaco Português, S. A. R. L., houverem estabelecido, importará a caducidade da autorização para explorar a refinaria cuja ampliação é permitida neste diploma.
+> Alterado pelo/a [Decreto-Lei n.º 665/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/665-1973-411299), publicado em 1973-12-15.
 
-Art. 11.º Sem prejuízo dos direitos de subscrição inerentes às acções que possua a qualquer título, o Estado receberá gratuitamente da Sacor o número de acções liberadas correspondente a um terço de todos os aumentos do respectivo capital social, enquanto estiver autorizada a explorar a refinaria cuja ampliação é permitida neste diploma.
+###### Artigo 11.º
 
-Art. 12.º - 1. A Sacor satisfará anualmente a taxa de fiscalização de 2500000$00, nos termos da alínea f) da base XIV da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272).
+Sem prejuízo dos direitos de subscrição inerentes às acções que possua a qualquer título, o Estado receberá gratuitamente da Sacor o número de acções liberadas correspondente a um terço de todos os aumentos do respectivo capital social, enquanto estiver autorizada a explorar a refinaria cuja ampliação é permitida neste diploma.
+
+###### Artigo 12.º
+
+1. A Sacor satisfará anualmente a taxa de fiscalização de 3000000$00, nos termos da alínea f) da base XIV da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272).
 
 2. A taxa fixada no número anterior será paga em duas prestações semestrais, iguais, em Janeiro e Julho, por meio de guias passadas pela Direcção-Geral dos Combustíveis.
 
 3. As receitas cobradas por força deste artigo serão escrituradas no Orçamento Geral do Estado e servirão de contrapartida aos encargos emergentes do exercício da competência da Direcção-Geral dos Combustíveis em matéria de fiscalização, investigação e desenvolvimento da indústria petrolífera.
 
-Art. 13.º Entrando em laboração a nova refinaria do Sul, a quota de mercado que a Sacor poderá preencher na distribuição dos produtos que fabrica representará 40 por cento do mercado interno, não podendo ser excedida em quaisquer circunstâncias.
+> Alterado pelo/a [Decreto-Lei n.º 524/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1972-685589), publicado em 1972-12-19.
 
-Art. 14.º - 1. É revogado o decreto publicado no Diário do Governo, 3.ª série, n.º 171, p. 2500, de 22 de Julho de 1965.
+###### Artigo 13.º
+
+Entrando em laboração a nova refinaria do Sul, a quota de mercado que a Sacor poderá preencher na distribuição dos produtos que fabrica representará 40 por cento do mercado interno, não podendo ser excedida em quaisquer circunstâncias.
+
+###### Artigo 14.º
+
+1. É revogado o decreto publicado no Diário do Governo, 3.ª série, n.º 171, p. 2500, de 22 de Julho de 1965.
 
 2. Findo o prazo da autorização relativa à exploração da refinaria de Cabo Ruivo em 31 de Dezembro de 1977, e sem prejuízo dos direitos do Estado daí resultantes ou quaisquer outros que lhe cabem, poderá a Sacor, se o Governo entender que as necessidades do abastecimento nacional em produtos refinados o aconselham, ser autorizada a manter aquela exploração, a título meramente precário.
 

@@ -9,10 +9,11 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "nao_aplicavel": "Art. 8.º (DLR 5/97/A): as alíneas b) e c) do n.º 1 vêm '...' (manter o texto anterior), mas o texto atual do pedido já traz 'b) - ...' e 'c) - ...' e a redação original dessas alíneas não está em nenhum ponto do pedido; não se pode reconstituir com segurança, pelo que o art. 8.º não é devolvido (o resto — n.º 1 proémio, alínea a), n.os 2 e 3 — já está conforme). Art. 9.º: a nova redação não traz epígrafe; mantida a atual.",
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação do artigo 8.º; texto atual já coincide, nada a mudar.",
-    "Alterador 1, art. 1.º: nova redação do artigo 9.º (sem epígrafe na nova redação, mantida a atual); aplicada."
+    "DLR 5/97/A art. 1.º: nova redação do art. 8.º (alínea a) e n.º 3; restantes '...') — o texto atual já a tem; alíneas b) e c) sem texto original no pedido: não aplicável",
+    "nova redação do art. 9.º — aplicado, epígrafe atual mantida"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

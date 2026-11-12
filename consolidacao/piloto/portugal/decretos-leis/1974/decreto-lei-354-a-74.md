@@ -433,8 +433,6 @@ Coelhos
 
 4. Cada caçador ou grupo de caçadores não pode usar mais que três furões.
 
-Lebres
-
 > Alterado pelo/a [Portaria n.º 529/76](https://diariodarepublica.pt/dr/detalhe/portaria/529-1976-430397), publicado em 1976-08-21.
 
 ###### Artigo 35.º
@@ -459,15 +457,11 @@ Cada caçador não pode caçar mais do que uma lebre em cada dia de caça.
 
 A caça «de batida» às lebres só é permitida nas coutadas com fins turísticos.
 
-Gamos, veados, corços e javalis
-
-> Alterado pelo/a [Decreto-Lei n.º 222/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1985-182848), publicado em 1985-07-03.
+Gamos, veados e javalis
 
 ###### Artigo 39.º
 
 A caça aos gamos, veados, corços e javalis só é permitida em períodos e condições a definir pelo Secretário de Estado da Produção Agrícola.
-
-Raposos, lobos e saca-rabos
 
 > Alterado pelo/a [Decreto-Lei n.º 222/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1985-182848), publicado em 1985-07-03.
 
@@ -627,8 +621,6 @@ Galinhas-d'água e galeirões
 
 É permitida a caça às galinhas-d'água e galeirões desde o dia feriado de 15 de Agosto até ao último domingo de Janeiro, com os mesmos condicionamentos e limites da caça aos patos.
 
-Pombos bravos
-
 > Alterado pelo/a [Portaria n.º 523-A/77](https://diariodarepublica.pt/dr/detalhe/portaria/523-a-1977-616645), publicado em 1977-08-13.
 
 ###### Artigo 65.º
@@ -642,8 +634,6 @@ b) Desde o primeiro domingo de Outubro até ao último de Dezembro, inclusive, e
 c) A partir do último domingo de Dezembro até ao último de Fevereiro, os pombos bravos só podem ser caçados «à espera» e sem cão nos locais para o efeito definidos por edital;
 
 d) A caça com auxílio de negaça só é permitida a partir do primeiro domingo de Outubro.
-
-Galinholas
 
 > Alterado pelo/a [Portaria n.º 523-A/77](https://diariodarepublica.pt/dr/detalhe/portaria/523-a-1977-616645), publicado em 1977-08-13.
 
@@ -699,8 +689,6 @@ c) A partir do último domingo de Dezembro, «à espera» e sem cão nos locais 
 
 2. A partir do último domingo de Dezembro, exclusive, a caça aos tordos e estorninhos só é permitida à espera sem cão, nos locais designados pelo Serviço de Inspecção da Caça e Pesca, mediante proposta das comissões venatórias, e tornados públicos por edital.
 
-Corvos, gralhas, pegas e gaios
-
 > Alterado pelo/a [Portaria n.º 523-A/77](https://diariodarepublica.pt/dr/detalhe/portaria/523-a-1977-616645), publicado em 1977-08-13.
 
 ###### Artigo 71.º
@@ -708,8 +696,6 @@ Corvos, gralhas, pegas e gaios
 1. É permitida a caça de corvos, gralhas, pegas e gaios desde o dia feriado de 15 de Agosto até ao último domingo de Fevereiro.
 
 2. Poderão caçar-se as espécies referidas no número antecedente, mas unicamente nos terrenos, períodos e pelos processos em que é autorizada a caça das rolas, codornizes, patos, pombos bravos, galinholas, narcejas e tordos.
-
-Processos de caça
 
 > Alterado pelo/a [Portaria n.º 523-A/77](https://diariodarepublica.pt/dr/detalhe/portaria/523-a-1977-616645), publicado em 1977-08-13.
 

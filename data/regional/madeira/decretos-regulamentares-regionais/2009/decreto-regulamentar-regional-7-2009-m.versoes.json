@@ -1,0 +1,284 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:493027:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-08-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "feb2694986009b60",
+    "fed656eb85482f2d",
+    "f780ed44e0009fc8",
+    "060a70a360e1a05a",
+    "0e705751663ee446",
+    "a9ada1e1f6e2b35c",
+    "2dcdc42333722b61",
+    "b7b0ea38fb3c519b",
+    "acf9e2b306208ddb",
+    "f21c8d266df155df",
+    "8916adbafa1e54d1",
+    "43f8c274818cbca9",
+    "1c551bda9c3c0713",
+    "cdab4f0f8cd1a9a8",
+    "e11f6d7e8f39c7f3"
+   ]
+  },
+  {
+   "date": "2012-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:191565:por",
+     "title": "Decreto Regulamentar Regional n.º 29/2012/M",
+     "published": "2012-10-31",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/29-2012-191565"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::1.º",
+    "Revoga Artigo ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::2.º",
+    "Revoga Artigo ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::3.º",
+    "Revoga Artigo ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::4.º",
+    "Revoga Artigo ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::5.º",
+    "Revoga Artigo ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::7.º"
+   ],
+   "fragments": [
+    "feb2694986009b60",
+    "1a76e8737ee322ad",
+    "90e2c9a578492ed8",
+    "6bc2a0e59b95d9fc",
+    "0e705751663ee446",
+    "a9ada1e1f6e2b35c",
+    "9c0cf628aa7494c1",
+    "1a9bd17eb6dfcca6",
+    "8de36eab214533f2",
+    "f21c8d266df155df",
+    "eb83ff25ef35c9a1",
+    "8948f43564243a3a",
+    "1c551bda9c3c0713",
+    "cdab4f0f8cd1a9a8",
+    "a8192ecbb18eeb3b"
+   ]
+  }
+ ],
+ "fragments": {
+  "feb2694986009b60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprova a orgânica da Direcção Regional do Comércio, Indústria e Energia\n\nO n.º 3 do artigo 6.º do [Decreto Regulamentar Regional n.º 16/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2008-456493), de 4 de Julho, que criou a nova estrutura da Vice-Presidência do Governo Regional, estabelece que a orgânica da Direcção Regional do Comércio, Indústria e Energia constará de diploma próprio, onde se contempla a sua natureza, missão, atribuições e organização interna.\n\nAssim, ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, revisto pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, do artigo 12.º do [Decreto Regulamentar Regional n.º 5/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2007-636765), de 23 de Julho, do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de Novembro, e da alínea e) do n.º 1 e do n.º 3 do artigo 6.º do [Decreto Regulamentar Regional n.º 16/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2008-456493), de 4 de Julho, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "fed656eb85482f2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovada a estrutura orgânica da Direcção Regional do Comércio, Indústria e Energia, publicada em anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "f780ed44e0009fc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ revogado o [Decreto Regulamentar Regional n.º 15/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2001-348525), de 9 de Julho, com excepção da estrutura das unidades orgânicas até à sua regulamentação, nos termos previstos no artigo 21.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de Novembro."
+  },
+  "060a70a360e1a05a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Conselho do Governo Regional em 9 de Julho de 2009.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 27 de Julho de 2009.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "0e705751663ee446": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia"
+  },
+  "a9ada1e1f6e2b35c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza, missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza, missão e atribuições"
+  },
+  "2dcdc42333722b61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direcção Regional do Comércio, Indústria e Energia, adiante designada por DRCIE, é um serviço central da administração directa da Região Autónoma da Madeira, a que se refere a alínea e) do n.º 1 do artigo 6.º do [Decreto Regulamentar Regional n.º 16/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2008-456493), de 4 de Julho, que aprova a orgânica da Vice-Presidência do Governo Regional."
+  },
+  "b7b0ea38fb3c519b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A DRCIE tem por missão assegurar a execução da política definida pelo Governo Regional para os sectores do comércio, indústria, energia e qualidade.\n\n2 - A DRCIE prossegue as seguintes atribuições:\n\na) Promover a execução da política definida para as áreas do comércio, indústria, energia e qualidade;\n\nb) Executar as acções da política comercial, tanto interna como externa;\n\nc) Estudar os circuitos de distribuição e comercialização e propor medidas tendentes à sua reestruturação, bem como sugerir formas de actuação conducentes à sua concretização;\n\nd) Estudar, propor e licenciar operações de importação, exportação e reexportação de mercadorias, em coordenação com as unidades competentes;\n\ne) Proceder a acções de fiscalização nos domínios do comércio, indústria e energia, nos termos da legislação aplicável aos referidos sectores;\n\nf) Promover as medidas necessárias à implementação da política energética e dos planos e programas aprovados, nomeadamente através de estímulos às iniciativas empresariais que neles se enquadrem;\n\ng) Propor, juntamente com outras entidades competentes, as medidas adequadas para fazer face a eventuais situações de interferência no normal abastecimento de combustíveis;\n\nh) Promover a difusão de informação junto dos utilizadores de energia, designadamente nos aspectos de segurança, gestão e diversificação das fontes de energia;\n\ni) Promover relações de cooperação com entidades públicas ou privadas, nacionais, regionais ou estrangeiras, tendo em vista o aproveitamento das melhores potencialidades para o desenvolvimento técnico/científico das áreas de comércio, indústria, energia e qualidade;\n\nj) Promover a adopção de medidas de simplificação e racionalização dos procedimentos administrativos com vista a uma maior celeridade na resposta às solicitações dos agentes económicos;\n\nl) Definir as metodologias e procedimentos com o objectivo da melhoria contínua da qualidade dos serviços prestados;\n\nm) Coordenar e assegurar a recolha, organização, tratamento e difusão de informação com interesse para o desenvolvimento dos sectores da sua competência;\n\nn) Definir, acompanhar e controlar as políticas no âmbito da qualidade, procedendo à sua divulgação, sensibilização e dinamização."
+  },
+  "acf9e2b306208ddb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Director regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Director regional\n\n1 - A DRCIE é dirigida pelo director regional do Comércio, Indústria e Energia, adiante designada por director regional, cargo de direcção superior de 1.º grau.\n\n2 - Compete ao director regional:\n\na) Promover a execução da política e prossecução dos objectivos definidos pelo Governo Regional para os sectores do comércio, indústria, energia e qualidade;\n\nb) Superintender a realização de estudos e outros trabalhos considerados importantes para os referidos sectores;\n\nc) Promover a gestão participativa por objectivos criando as condições necessárias a uma maior descentralização e atribuição de responsabilidades, que conduzam a um aumento da eficiência dos diversos serviços;\n\nd) Coordenar e orientar os serviços bem como aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento.\n\n3 - O director regional pode, nos termos da lei, delegar ou subdelegar competências.\n\n4 - O director regional é substituído, nas suas faltas e impedimentos, por um titular de cargo de direcção intermédia de 1.º grau ou por um técnico superior, a designar."
+  },
+  "f21c8d266df155df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Estrutura orgânica"
+  },
+  "8916adbafa1e54d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipo de organização interna\n\nA organização interna dos serviços da DRCIE obedece ao modelo de estrutura hierarquizada."
+  },
+  "43f8c274818cbca9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Quadro de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Quadro de cargos de direcção\n\nOs lugares de direcção superior de 1.º grau e de direcção intermédia de 1.º grau, constam do mapa anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "1c551bda9c3c0713": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Estrutura\n\nA estrutura hierarquizada da DRCIE é constituída por unidades orgânicas nucleares e flexíveis, a aprovar nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de Novembro."
+  },
+  "cdab4f0f8cd1a9a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Pessoal"
+  },
+  "e11f6d7e8f39c7f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Pessoal com funções de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pessoal com funções de fiscalização\n\n1 - O pessoal do quadro da DRCIE que exerça funções de fiscalização e de inspecção deve, no exercício das mesmas, usar cartão de identidade especial, cujo modelo será aprovado por portaria do Vice-Presidente do Governo Regional.\n\n2 - Os funcionários a que alude o número anterior são considerados agentes de autoridade, tendo livre acesso aos estabelecimentos e locais sujeitos à jurisdição do serviço a que pertençam, gozando dos seguintes direitos e prerrogativas:\n\na) Acesso e livre trânsito nas instalações e equipamentos sujeitos a inspecção ou fiscalização e investigação;\n\nb) Examinar livros, documentos e arquivos relativos às matérias inspeccionadas;\n\nc) Proceder à selagem de quaisquer instalações ou equipamentos quando isso se mostre necessário face às infracções detectadas;\n\nd) Levantar autos de notícia por infracção ao cumprimento de normas e regulamentos cuja fiscalização seja da competência da DRCIE;\n\ne) Solicitar o apoio das autoridades administrativas e policiais para o cumprimento integral das respectivas funções.\n\nMAPA ANEXO\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14800/0502705029.pdf)"
+  },
+  "1a76e8737ee322ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2012-11-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+  },
+  "90e2c9a578492ed8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2012-11-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+  },
+  "6bc2a0e59b95d9fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2012-11-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31.\n\nAprovado em Conselho do Governo Regional em 9 de Julho de 2009.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 27 de Julho de 2009.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "9c0cf628aa7494c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2012-11-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+  },
+  "1a9bd17eb6dfcca6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2012-11-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+  },
+  "8de36eab214533f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Director regional",
+   "in_force_from": "2012-11-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+   ],
+   "markdown": "###### Artigo 3.º — Director regional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+  },
+  "eb83ff25ef35c9a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Tipo de organização interna",
+   "in_force_from": "2012-11-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+   ],
+   "markdown": "###### Artigo 4.º — Tipo de organização interna\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+  },
+  "8948f43564243a3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Quadro de cargos de direcção",
+   "in_force_from": "2012-11-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+   ],
+   "markdown": "###### Artigo 5.º — Quadro de cargos de direcção\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+  },
+  "a8192ecbb18eeb3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Pessoal com funções de fiscalização",
+   "in_force_from": "2012-11-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+   ],
+   "markdown": "###### Artigo 7.º — Pessoal com funções de fiscalização\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31."
+  }
+ }
+}

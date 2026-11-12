@@ -33,11 +33,12 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 1.º: aditado o n.º 6 ao artigo 26.º; n.os 1 a 5 mantidos do texto atual.",
-    "Alterador 2, art. 1.º: aditado o n.º 7 ao artigo 26.º; n.os 1 a 6 mantidos (o 6 vindo do alterador 1).",
-    "Alterador 3, art. 1.º: nova redação do n.º 1 do artigo 15.º (alíneas e n.º 2 mantidos); do n.º 2 do artigo 18.º; aditado n.º 4 ao artigo 19.º; nova redação do n.º 4 do artigo 25.º; restantes unidades mantidas."
+    "DN 1/2011, art. 1.º: aditado o n.º 6 ao artigo 26.º; aplicado (o reparo enganou-se: o n.º 6 vem deste alterador, que está no pedido).",
+    "DN 9/2011, art. 1.º: aditado o n.º 7 ao artigo 26.º; aplicado.",
+    "DN 2/2013, art. 1.º: nova redação do n.º 1 do artigo 15.º, do n.º 2 do artigo 18.º, aditado n.º 4 ao artigo 19.º e nova redação do n.º 4 do artigo 25.º; aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

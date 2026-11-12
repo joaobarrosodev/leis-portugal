@@ -3,25 +3,70 @@
   "artigos": [
     {
       "chave": "13.º",
-      "epigrafe": "(Valor da taxa)",
-      "texto": "1 - Considerando a arqueação bruta dos navios (tAB), são fixadas as seguintes taxas:\n\na) Navios movimentando ramas ou seus derivados - 113$80/tAB;\n\nb) Navios movimentando gases liquefeitos - 86$30/tAB;\n\nc) Navios procedendo a operações de trasfega (ao cais) - 75$80/tAB;\n\nd) Navios procedendo a operações de abastecimento de bancas - 9$30/tAB;\n\ne) Navios procedendo a operações de deslastro - 19$50/tAB;\n\nf) Navios movimentando veículos, carga contentorizada, carga geral não contentorizada e granéis sólidos com excepção do carvão - 120$00/tAB.\n\n2 - Quanto aos navios que procedam a operações de movimentação de carvão no terminal provisório e no multipurpose é estabelecida a taxa de 109$50/tAB.\n\n3 - Para os navios procedendo a operações não compreendidas nos números anteriores serão aplicadas as taxas correspondentes ao equipamento e serviços utilizados.\n\n4 - No caso de um navio executar, na mesma estadia, mais de uma operação das referidas, será cobrada a taxa mais elevada.\n\n###### ARTIGO 14.º — (Sobretaxa)\n\n1 - As embarcações que, realizando operações de carga e ou descarga, ultrapassem os períodos de permanência abaixo referidos ficam sujeitas às sobretaxas a seguir indicadas:\n\na) Navios até 2000 tAB, a partir do segundo período de vinte e quatro horas - 10$00/tAB/dia;\n\nb) Navios com mais de 2000 tAB e até 30000 tAB, a partir do terceiro período de vinte e quatro horas - 10$00/tAB/dia;\n\nc) Navios com mais de 30000 tAB, a partir do quarto período de vinte e quatro horas - 10$00/tAB/dia.\n\n2 - Para a aplicação da sobretaxa do número anterior, a contagem de tempo começa no momento em que o primeiro cabo é passado ao cabeço e termina quando o último cabo for largado do posto de acostagem.\n\n###### ARTIGO 15.º — (Redução do valor)\n\n1 - São estabelecidas as seguintes reduções na taxa, após ter sido atingido o número de 20 viagens no mesmo ano civil:\n\na) Da 21.ª à 40.ª viagem - 10%\n\nb) A partir da 41.ª viagem - 20%.\n\n2 - É também estabelecida a redução na taxa de 20% para embarcações acostadas prolongadas com outras.\n\n###### ARTIGO 16.º — (Taxa mínima)\n\nIndependentemente do porte do navio, é estabelecida a taxa mínima de 129640$00 por cada aplicação da taxa de acostagem.\n\n###### ARTIGO 17.º — (Isenção)\n\n1 - Beneficiarão da isenção da taxa de acostagem:\n\na) Os navios de guerra nacionais e os estrangeiros em visita oficial não procedendo a operações de carácter comercial;\n\nb) As embarcações do Estado;\n\nc) As embarcações de pesca, quando obtenham autorização da APS.\n\n2 - As referidas embarcações ficarão sujeitas às taxas devidas pelos serviços prestados.",
-      "alterador": 7
+      "epigrafe": "Valor da taxa",
+      "alterador": 7,
+      "texto": "1 - Considerando a arqueação bruta dos navios (tAB), são fixadas as seguintes taxas:\n\na) Navios movimentando ramas ou seus derivados - 113$80/tAB;\n\nb) Navios movimentando gases liquefeitos - 86$30/tAB;\n\nc) Navios procedendo a operações de trasfega (ao cais) - 75$80/tAB;\n\nd) Navios procedendo a operações de abastecimento de bancas - 9$30/tAB;\n\ne) Navios procedendo a operações de deslastro - 19$50/tAB;\n\nf) Navios movimentando veículos, carga contentorizada, carga geral não contentorizada e granéis sólidos com excepção do carvão - 120$00/tAB.\n\n2 - Quanto aos navios que procedam a operações de movimentação de carvão no terminal provisório e no multipurpose é estabelecida a taxa de 109$50/tAB.\n\n3 - Para os navios procedendo a operações não compreendidas nos números anteriores serão aplicadas as taxas correspondentes ao equipamento e serviços utilizados.\n\n4 - No caso de um navio executar, na mesma estadia, mais de uma operação das referidas, será cobrada a taxa mais elevada.\n\n5 - Para navios que movimentam carvão no terminal provisório é estabelecida a taxa de 70$00/TAB."
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Sobretaxa",
+      "alterador": 7,
+      "texto": "1 - As embarcações que, realizando operações de carga e ou descarga, ultrapassem os períodos de permanência abaixo referidos ficam sujeitas às sobretaxas a seguir indicadas:\n\na) Navios até 2000 tAB, a partir do segundo período de vinte e quatro horas - 10$00/tAB/dia;\n\nb) Navios com mais de 2000 tAB e até 30000 tAB, a partir do terceiro período de vinte e quatro horas - 10$00/tAB/dia;\n\nc) Navios com mais de 30000 tAB, a partir do quarto período de vinte e quatro horas - 10$00/tAB/dia.\n\n2 - Para a aplicação da sobretaxa do número anterior, a contagem de tempo começa no momento em que o primeiro cabo é passado ao cabeço e termina quando o último cabo for largado do posto de acostagem."
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "(Redução do valor)",
+      "alterador": 7,
+      "texto": "1 - São estabelecidas as seguintes reduções na taxa, após ter sido atingido o número de 20 viagens no mesmo ano civil:\n\na) Da 21.ª à 40.ª viagem - 10%\n\nb) A partir da 41.ª viagem - 20%.\n\n2 - É também estabelecida a redução na taxa de 20% para embarcações acostadas prolongadas com outras."
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Taxa mínima",
+      "alterador": 7,
+      "texto": "Independentemente do porte do navio, é estabelecida a taxa mínima de 129640$00 por cada aplicação da taxa de acostagem."
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "(Isenção)",
+      "alterador": 7,
+      "texto": "1 - Beneficiarão da isenção da taxa de acostagem:\n\na) Os navios de guerra nacionais e os estrangeiros em visita oficial não procedendo a operações de carácter comercial;\n\nb) As embarcações do Estado;\n\nc) As embarcações de pesca, quando obtenham autorização da APS.\n\n2 - As referidas embarcações ficarão sujeitas às taxas devidas pelos serviços prestados."
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Valor da taxa",
+      "alterador": 7,
+      "texto": "Pelo estacionamento de qualquer embarcação, por tonelada de arqueação bruta e por cada período de vinte e quatro horas indivisíveis, são fixadas as seguintes taxas:\n\na) Pelo período de vinte e quatro horas - 16$30;\n\nb) Por iguais períodos sucessivos - 1$50."
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "Valor da taxa",
+      "alterador": 7,
+      "texto": "1 - Pela movimentação de mercadorias são fixadas as seguintes taxas:\n\na) Ramas, refinados e gases liquefeitos - 131$40/TM;\n\nb) Produtos petroquímicos - 64$70/TM;\n\nc) Trasfega navio/terra/navio - 131$40/TM;\n\nd) Trasfega navio/navio via tubagem do terminal - 113$80/TM;\n\ne) Trasfega navio/navio ao largo - 16$30/TM.\n\n2 - As mercadorias desembarcadas ou embarcadas no terminal de carga geral ficam sujeitas às seguintes taxas, devidas pelos proprietários ou consignatários das mesmas:\n\na) Carga a granel - 40$00/TM;\n\nb) Veículos:\n\n1) Por velocípede e motociclo - 56$00;\n\n2) Por veículos até 1,5 t de peso - 112$00;\n\n3) Por veículos entre 1,5 t e 3 t de peso - 224$00;\n\n4) Por veículos de peso superior a 3 t - 448$00;\n\nc) Contentores - tara:\n\nAté 20', inclusive - 112$00/contentor;\n\nDe mais de 20' - 224$00/contentor;\n\nd) Carga contentorizada - 50$50/TM;\n\ne) Carga geral não contentorizada - 56$00/TM."
     },
     {
       "chave": "19.º-A",
       "epigrafe": "Taxa de armazenagem",
-      "texto": "1 - As mercadorias a movimentar no terminal de carga geral poderão ser depositadas a descoberto nas áreas a definir e a autorizar pela Administração do Porto de Sines.\n\n2 - É devida uma taxa de armazenagem por todas as mercadorias depositadas a descoberto no valor de 33$60/dia/contentor até 20' inclusive, e 67$20/dia/contentor com mais de 20' de 56$00/dia/veículo e de 2$80/dia/metro quadrado para cargas a granel ou carga geral não contentorizada.\n\n3 - A taxa referida no número anterior será aplicada da seguinte forma:\n\na) Para as mercadorias descarregadas, a partir da 24.ª hora após o termo da operação de descarga;\n\nb) Para as mercadorias a embarcar, a partir da chegada do local de armazenagem até ao início das operações de carga;\n\nc) Entende-se por dia um período indivisível de vinte e quatro horas.\n\n4 - As taxas referidas no n.º 2 duplicarão a partir do 8.º dia do calendário de incidência das mesmas.\n\n5 - Em casos de congestionamento dos espaços reservados à armazenagem das mercadorias desembarcadas, poderá ser ordenada a sua retirada sem quaisquer ónus para a Administração do Porto de Sines.",
-      "alterador": 7
+      "alterador": 7,
+      "texto": "1 - As mercadorias a movimentar no terminal de carga geral poderão ser depositadas a descoberto nas áreas a definir e a autorizar pela Administração do Porto de Sines.\n\n2 - É devida uma taxa de armazenagem por todas as mercadorias depositadas a descoberto no valor de 33$60/dia/contentor até 20' inclusive, e 67$20/dia/contentor com mais de 20' de 56$00/dia/veículo e de 2$80/dia/metro quadrado para cargas a granel ou carga geral não contentorizada.\n\n3 - A taxa referida no número anterior será aplicada da seguinte forma:\n\na) Para as mercadorias descarregadas, a partir da 24.ª hora após o termo da operação de descarga;\n\nb) Para as mercadorias a embarcar, a partir da chegada do local de armazenagem até ao início das operações de carga;\n\nc) Entende-se por dia um período indivisível de vinte e quatro horas.\n\n4 - As taxas referidas no n.º 2 duplicarão a partir do 8.º dia do calendário de incidência das mesmas.\n\n5 - Em casos de congestionamento dos espaços reservados à armazenagem das mercadorias desembarcadas, poderá ser ordenada a sua retirada sem quaisquer ónus para a Administração do Porto de Sines."
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "Redução do valor",
+      "alterador": 7,
+      "texto": "É estabelecida uma redução na taxa de movimentação, para as mercadorias embarcadas, que será de:\n\na) 50% para as embarcações com destino a portos estrangeiros;\n\nb) 15% para as embarcações com destino a portos portugueses."
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Os artigos 9.º, 11.º, 19.º e 20.º do Regulamento são alterados (Portarias 925-A/87, 1110-I/89, 75/91, 343/92, 4/93, 240/93 e 69/94) mas não constam do texto atual; as novas redações usam '...' (arts. 11.º e 19.º, este também com o n.º 3 aditado pela Portaria 925-A/87) ou podem não cobrir o artigo inteiro (arts. 9.º e 20.º), pelo que não se aplicam. O n.º 5 do art. 13.º, aditado pela Portaria 925-A/87, foi tratado como substituído: as redações posteriores do art. 13.º dão só os n.os 1 a 4 e o novo n.º 2 já abrange o carvão do terminal provisório (alvo duvidoso).",
+  "titulos": [],
+  "nao_aplicavel": "Artigo 11.º (Portarias 240/93 e 69/94, alínea i)): o artigo 11.º não está no texto atual e as alíneas a) a h) vêm só como '...', por isso não é possível dar o corpo inteiro com segurança. Os artigos 9.º, 19.º, 19.º-A e 20.º também não estão no texto atual, mas a Portaria 69/94 dá a redação completa de cada um e foram devolvidos com essa redação. O texto atual traz os artigos 14.º a 17.º dentro do corpo do 13.º; foram separados nas suas chaves (15.º e 17.º com o texto atual, sem alteração).",
   "instrucoes": [
-    "Os arts. 14.º a 17.º vêm no texto atual dentro do corpo do art. 13.º (cabeçalhos 'ARTIGO 14.º' etc.); mantêm-se aí, com as alterações aplicadas aos arts. 14.º e 16.º.",
-    "Portaria 925-A/87: adita n.º 5 ao art. 13.º (depois substituído) e n.º 3 ao art. 19.º (que não está no texto atual).",
-    "Portarias 1110-I/89, 75/91, 343/92 e 240/93: novas redações dos arts. 9.º, 11.º, 13.º, 14.º, 16.º e 19.º, cada uma substituída pela seguinte.",
-    "Portaria 4/93: adita a alínea f) ao n.º 1 do art. 13.º, altera o art. 19.º e adita o art. 19.º-A.",
-    "Portaria 69/94, n.º 4.º: redação final dos arts. 13.º (n.os 1 e 2; n.os 3 e 4 mantidos), 14.º (n.º 1; n.º 2 mantido), 16.º e 19.º-A; aplicadas. Os n.os 1.º, 2.º, 3.º e 5.º dirigem-se a outros regulamentos: ignorados."
+    "925-A/87 1.º: adita n.º 5 ao art. 13.º - aplicado (mantido, nenhuma instrução posterior o elimina).",
+    "925-A/87 2.º: adita n.º 3 ao art. 19.º - superado pela redação completa do art. 19.º dada pela Portaria 69/94.",
+    "1110-I/89, 75/91, 343/92, 240/93: novas redações dos arts. 9.º, 11.º, 13.º, 14.º, 16.º e 19.º - superadas pela Portaria 69/94.",
+    "4/93 1.º: adita alínea f) ao n.º 1 do art. 13.º - superada pela redação da 69/94.",
+    "4/93 2.º e 3.º: redação do art. 19.º n.º 2 e adita art. 19.º-A - superados pela 69/94.",
+    "69/94 4.º: nova redação dos arts. 9.º, 11.º, 13.º, 14.º, 16.º, 19.º, 19.º-A e 20.º - aplicada a 9.º, 13.º (n.os 1 e 2; 3 e 4 mantidos), 14.º (n.º 1; n.º 2 mantido), 16.º, 19.º, 19.º-A e 20.º; 11.º em nao_aplicavel.",
+    "69/94 1.º, 2.º, 3.º e 5.º: alteram regulamentos de outros portos (Douro e Leixões, Lisboa, Setúbal e Sesimbra, Juntas Autónomas) - ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

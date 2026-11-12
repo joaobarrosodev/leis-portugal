@@ -126,6 +126,20 @@
     "alterador": "pt:dre:200305642:por;pt:dre:151322794:por"
   },
   {
+    "artigo": "8.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 8.º — Registo\n\n1 - O requerimento de registo da actividade de consultor para investimento em valores mobiliários previsto no artigo 301.º do Código dos Valores Mobiliários deve ser acompanhado dos seguintes elementos:\n\na) Identificação do requerente, incluindo identificação dos titulares de participações qualificadas, sempre que o requerente seja uma pessoa colectiva;\n\nb) Domicílio profissional ou sede;\n\nc) Identificação dos meios humanos, técnicos e materiais que serão utilizados;\n\nd) Registo criminal das pessoas relativamente às quais a lei exige idoneidade;\n\ne) Curriculum vitae das pessoas relativamente às quais a lei exige qualificação e aptidão profissional;\n\nf) Cópia da apólice de responsabilidade civil;\n\ng) Indicação dos instrumentos financeiros de que o consultor para investimento é titular;\n\nh) Questionário e declaração conforme formulário aprovado pela CMVM;\n\ni) Data previsível para o início de actividade.\n\n2 - Qualquer alteração que se verifique nos elementos constantes das alíneas anteriores, com excepção da alínea g), deve ser comunicada à CMVM no prazo máximo de 10 dias após a verificação do facto.\n\n3 - O registo deve ser concedido no prazo máximo de 30 dias contados desde a data da recepção da comunicação dos elementos previstos no n.º 1 ou da recepção das informações complementares que tenham sido solicitadas ao requerente, aplicando-se o disposto no artigo 299.º do Código dos Valores Mobiliários.",
+    "depois": "###### Artigo 8.º — Registo\n\n1 - (Revogado.)\n\n2 - O pedido para exercício da atividade de consultor para investimento autónomo previsto no artigo 301.º do Código dos Valores Mobiliários deve ser acompanhado dos seguintes elementos:\n\na) Identificação do requerente, incluindo identificação dos titulares de participações qualificadas, sempre que o requerente seja uma pessoa colectiva;\n\nb) Domicílio profissional ou sede;\n\nc) Identificação dos meios humanos, técnicos e materiais que serão utilizados;\n\nd) Registo criminal das pessoas relativamente às quais a lei exige idoneidade;\n\ne) Curriculum vitae das pessoas relativamente às quais a lei exige qualificação e aptidão profissional;\n\nf) (Revogada.)\n\ng) Indicação dos instrumentos financeiros de que o consultor para investimento é titular;\n\nh) Questionário e declaração conforme formulário aprovado pela CMVM;\n\ni) Data previsível para o início de actividade.\n\n3 - Qualquer alteração que se verifique nos elementos constantes das alíneas anteriores, com excepção da alínea g), deve ser comunicada à CMVM no prazo máximo de 10 dias após a verificação do facto.\n\n4 - O registo deve ser concedido no prazo máximo de 30 dias contados desde a data da recepção da comunicação dos elementos previstos no n.º 1 ou da recepção das informações complementares que tenham sido solicitadas ao requerente, aplicando-se o disposto no artigo 299.º do Código dos Valores Mobiliários.\n\n> Alterado pelo/a [Regulamento da CMVM n.º 7/2022](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), publicado em 2022-08-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1883420:por",
+    "alterador": "pt:dre:200305642:por;pt:dre:151322794:por"
+  },
+  {
     "artigo": "46.º-B",
     "operacao": "aditar",
     "regra": "llm",
@@ -144,7 +158,7 @@
     "operacao": "revogar",
     "regra": "llm",
     "antes": "###### Artigo 14.º — Informação no âmbito de operações sobre instrumentos financeiros derivados\n\n1 - O intermediário financeiro deve comunicar diariamente aos investidores não qualificados, relativamente a operações sobre instrumentos financeiros derivados, todas as informações relativas a:\n\na) Constituição, reforço e substituição de garantias;\n\nb) Ajustes de ganhos e perdas realizados;\n\nc) Liquidações efectuadas;\n\nd) Transferências de posição;\n\ne) Quaisquer outros incidentes ocorridos enquanto o cliente mantenha posições em aberto e que, de alguma forma, possam afectar essas posições.\n\n2 - Sem prejuízo do disposto no número anterior, a solicitação do cliente, o intermediário financeiro deve emitir documento comprovativo das posições por aquele detidas em instrumentos financeiros derivados.\n\n3 - Ao contrato de recepção de ordens sobre instrumentos financeiros derivados aplica-se o disposto nas alíneas b) e c) do n.º 1 do artigo 32.º e deve incluir menção ao disposto nas alíneas b) e c) do artigo 34.º, com as devidas adaptações.\n\n4 - Os intermediários financeiros que prestem o serviço referido no número anterior:\n\na) Calculam de modo permanente a relação entre o valor das garantias e o das posições em aberto;\n\nb) Observam o disposto no artigo 34.º.",
-    "depois": "###### Artigo 14.º — Informação no âmbito de operações sobre instrumentos financeiros derivados\n\n(Revogado.)\n\n> Revogado pelo/a [Regulamento da CMVM n.º 6/2020](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), publicado em 2020-12-16.",
+    "depois": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Regulamento da CMVM n.º 6/2020](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), publicado em 2020-12-16.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

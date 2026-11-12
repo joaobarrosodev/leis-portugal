@@ -18,11 +18,11 @@
   "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 407/86 (alterador 1): nova redação do n.º 4 do artigo 1.º.",
-    "DL 229-A/88 (alterador 2): nova redação do n.º 3 do artigo 1.º (n.º 4 do DL 407/86 mantido).",
-    "DL 311/89 (alterador 3): aditados os n.os 3 a 6 ao artigo 4.º; art. 2.º (efeitos retroativos) não textual.",
-    "DL 213/91 (alterador 4): aditados os n.os 7 e 8 ao artigo 4.º; art. 2.º não textual.",
-    "DL 305/91 (alterador 5): altera o DL 202-B/86 (INH), não o original — ignorado."
+    "DL 407/86: nova redação do art. 1.º n.º 4 (preço de emissão com prémio de emissão); é esta a origem do n.º 4, não um erro.",
+    "DL 229-A/88: nova redação do art. 1.º n.º 3 (limite de duas vezes capital, reservas e resultados transitados).",
+    "DL 311/89, art. 1.º: art. 4.º com n.os 1 e 2 mantidos e n.os 3 a 6 novos (conversão em capital); art. 2.º (retroatividade) não altera o texto.",
+    "DL 213/91, art. 1.º: art. 4.º com n.os 1 a 6 mantidos e n.os 7 e 8 novos; art. 2.º não altera o texto.",
+    "DL 305/91: altera o DL 202-B/86 (INH), não o original; ignorado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

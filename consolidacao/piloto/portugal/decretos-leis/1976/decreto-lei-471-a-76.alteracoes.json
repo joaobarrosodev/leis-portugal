@@ -138,5 +138,19 @@
     "unidade": [],
     "diploma": "pt:dre:283305:por",
     "alterador": "pt:dre:367048:por;pt:dre:253440:por"
+  },
+  {
+    "artigo": "SECÇÃO IV — Conselho de direcção",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO IV — Conselho de direcção",
+    "depois": "#### SECÇÃO IV — Comissões executivas",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:283305:por",
+    "alterador": "pt:dre:367048:por;pt:dre:253440:por"
   }
 ]

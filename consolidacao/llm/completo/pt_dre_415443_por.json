@@ -27,16 +27,17 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 546/76), art. 1.º: nova redação do n.º 3 do art. 1.º; aplicada.",
-    "Alterador 2 (Lei 22/87), art. 1.º: aditados os n.os 4 e 5 ao art. 1.º; aplicados (o n.º 5 foi depois substituído pelo alterador 3).",
-    "Alterador 2, art. 2.º: nova redação do art. 5.º; aplicada.",
-    "Alterador 2, art. 3.º: aditado o art. 9.º; aplicado como artigo novo 9.º.",
-    "Alterador 2, art. 4.º: revogados os n.os 6 e 7 do art. 3.º; aplicados como (Revogado.).",
-    "Alterador 3 (Lei 108/97), art. 1.º: nova redação do n.º 5 do art. 1.º; aplicada.",
-    "Alterador 3, art. 2.º: aditado o n.º 6 ao art. 1.º; aplicado.",
-    "Alterador 3, art. 3.º: norma autónoma sobre o DL 547/74, não dirigida ao original; ignorada."
+    "DL 546/76 art. 1.º: nova redação do n.º 3 do art. 1.º ('oficiosa e gratuitamente'), aplicada — o reparo do verificador está errado, esta instrução existe",
+    "Lei 22/87 art. 1.º: aditados n.os 4 e 5 ao art. 1.º (n.º 5 depois substituído)",
+    "Lei 22/87 art. 2.º: nova redação do art. 5.º",
+    "Lei 22/87 art. 3.º: aditado art. 9.º",
+    "Lei 22/87 art. 4.º: revogados n.os 6 e 7 do art. 3.º",
+    "Lei 108/97 art. 1.º: nova redação do n.º 5 do art. 1.º",
+    "Lei 108/97 art. 2.º: aditado n.º 6 ao art. 1.º",
+    "Lei 108/97 art. 3.º: norma autónoma, não altera o original"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

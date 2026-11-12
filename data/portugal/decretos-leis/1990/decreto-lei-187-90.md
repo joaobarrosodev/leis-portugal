@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-12-23'
+version_history:
+  file: decreto-lei-187-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-06-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-12-23'
+    amending: pt:dre:559038:por
+    amending_title: Decreto-Lei n.º 42/97; Decreto-Lei n.º 237/2004
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 9.º
+    - Revoga Artigo 10.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:59:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 42/97; Decreto-Lei
+    n.º 237/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-187-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -193,13 +210,15 @@ h) Pessoal técnico judicial.
 
 ###### Artigo 4.º — Mobilidade
 
-1 - Os funcionários com as categorias referidas nas alíneas a), b) e c) do n.º 1 do artigo 70.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, que sejam nomeados para o cargo de chefe de repartição de finanças ou de adjunto de chefe de repartição de finanças integram-se na escala própria do cargo para que forem nomeados, em escalão idêntico ao que possuem na respectiva categoria.
+1 - Os funcionários que sejam nomeados para os cargos de chefe de repartição de finanças ou de adjunto de chefe de repartição de finanças integram-se na escala própria do cargo para que forem nomeados, em escalão idêntico ao que possuem na respectiva categoria, beneficiando de uma bonificação de 30 pontos no caso de serem iguais as escalas salariais da categoria de origem e do cargo em que forem providos, bonificação que se manterá ao longo da progressão na escala salarial dos referidos cargos.
 
 2 - Quando o titular do cargo de chefe de repartição de finanças ou de adjunto de chefe de repartição for nomeado para cargo superior, ser-lhe-á atribuído escalão de vencimento de acordo com o previsto no artigo 17.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808).
 
-3 - Os funcionários que, encontrando-se nomeados para o cargo de chefe de repartição de finanças ou de adjunto de chefe de repartição de finanças, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção serão integrados na escala salarial correspondente ao cargo que detêm, em escalão idêntico ao que lhes seria atribuído na escala salarial da categoria para que são promovidos, tendo presente o disposto no artigo 17.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+3 - Os funcionários que, estando providos em cargos de chefia tributária, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção são integrados na nova categoria, no escalão que resultar da aplicação das regras previstas no artigo 6.º ao escalão que detinham na categoria de origem.
 
 4 - Os funcionários que cessem o exercício dos cargos mencionados na alínea b) do artigo 2.º por lhes ser dada por finda a respectiva comissão de serviço regressam às categorias de origem, na categoria em que se encontram providos e no escalão que lhes couber devido à normal progressão na mesma.
+
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
 ###### Artigo 5.º — Administradores tributários
 
@@ -237,11 +256,17 @@ Os funcionários nomeados supranumerários, ao abrigo do disposto no n.º 2 do a
 
 ###### Artigo 9.º — Progressão
 
-A mudança de escalão dos funcionários abrangidos pelo presente diploma depende da permanência de três anos no escalão imediatamente anterior.
+1 - A mudança de escalão dos funcionários abrangidos pelo presente diploma depende da permanência de três anos no escalão imediatamente anterior.
+
+2 - A aplicação do disposto no número anterior aos funcionários que se encontrem nomeados em cargos de chefia tributária far-se-á relativamente à categoria de origem, com a necessária repercussão na escala salarial do cargo.
+
+> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07.
 
 ###### Artigo 10.º — Funções de coordenação
 
-Os funcionários designados para a chefia ou coordenação de secções, sectores ou equipas constituídas ao abrigo das disposições orgânicas próprias da Direcção-Geral das Contribuições e Impostos serão remunerados pelo escalão imediatamente seguinte àquele a que têm direito enquanto se mantiverem nessa situação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.
 
 ###### Artigo 11.º — Suplemento de risco
 

@@ -84,6 +84,20 @@
     "alterador": "pt:dre:249997:por"
   },
   {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, considera-se:\n\na) Beneficiário - todo e qualquer indivíduo que preencha os requisitos previstos no presente diploma para ser apoiado;\n\nb) Agregado familiar - conjunto de pessoas constituído pelo candidato ao apoio, seu cônjuge e ou dependentes, que, coabitando, vivam em economia comum;\n\nc) Dependentes (Nd) - elementos que compõem o agregado familiar, para além do candidato e do seu cônjuge, constituído pelos ascendentes em linha recta e pelos descendentes;\n\nd) Pessoa com deficiência - aquela que, por motivo de perda ou anomalia, congénita ou adquirida, de estrutura ou função psicológica, intelectual, fisiológica ou anatómica susceptível de provocar restrições de capacidade para o trabalho ou angariação de meios de subsistência, possua, comprovadamente, grau de incapacidade permanente igual ou superior a 60%;\n\ne) [Actual alínea d).]\n\nf) [Actual alínea e).]\n\ng) [Actual alínea f).]\n\nh) [Actual alínea g).]\n\ni) [Actual alínea h).]\n\nj) [Actual alínea i).]\n\nl) [Actual alínea j).]\n\nm) [Actual alínea 1).]\n\nn) [Actual alínea m).]\n\no) [Actual alínea n).]\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1998-167055), publicado em 1998-04-13.",
+    "depois": "###### Artigo 3.º — Definições\n\n1 - Para efeitos do presente diploma, considerando-se:\n\na) Beneficiário - todo e qualquer indivíduo que preencha os requisitos previstos no presente diploma para ser apoiado;\n\nb) Agregado familiar - conjunto de pessoas constituído pelo candidato ao apoio, seu cônjuge e ou dependentes, que, coabitando, vivam em economia comum;\n\nc) Dependentes (Nd) - elementos que compõem o agregado familiar, para além do candidato e do seu cônjuge, constituído pelos ascendentes em linha recta e pelos descendentes;\n\nd) Pessoa com deficiência - aquela que, por motivo de perda ou anomalia, congénita ou adquirida, de estrutura ou função psicológica, intelectual, fisiológica ou anatómica susceptível de provocar restrições de capacidade para o trabalho ou angariação de meios de subsistência, possua, comprovadamente, grau de incapacidade permanente igual ou superior a 60%;\n\ne) [Actual alínea d).]\n\nf) [Actual alínea e).]\n\ng) [Actual alínea f).]\n\nh) [Actual alínea g).]\n\ni) [Actual alínea h).]\n\nj) [Actual alínea i).]\n\nl) Apoio (Ap) - valor da comparticipação financeira, arredondado para a dezena de euros imediatamente superior, calculado pela fórmula a seguir indicada, em que z e o valor padrão Vp são variáveis a serem fixadas por resolução do Governo Regional dos Açores, podendo esta última ser actualizada com base na taxa de inflação:\n\nAp = (((Ff + Fe + Fh)/3z) + 1) x Vp\n\nm) [Actual alínea 1).]\n\nn) [Actual alínea m).]\n\no) [Actual alínea n).]\n\n2 - Nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo, o valor da comparticipação financeira resultante da aplicação da fórmula prevista na alínea l) do número anterior pode ser objecto de majoração, nos termos a definir por portaria do membro do Governo Regional com competência em matéria de habitação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1998-167055), publicado em 1998-04-13.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 37/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2006-546003), publicado em 2006-10-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:431793:por",
+    "alterador": "pt:dre:546003:por;pt:dre:249997:por;pt:dre:481970:por"
+  },
+  {
     "artigo": "24.º",
     "operacao": "substituir",
     "regra": "llm",
@@ -95,7 +109,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:431793:por",
-    "alterador": "pt:dre:249997:por;pt:dre:481970:por"
+    "alterador": "pt:dre:546003:por;pt:dre:249997:por;pt:dre:481970:por"
   },
   {
     "artigo": "28.º",
@@ -109,7 +123,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:431793:por",
-    "alterador": "pt:dre:249997:por;pt:dre:481970:por"
+    "alterador": "pt:dre:546003:por;pt:dre:249997:por;pt:dre:481970:por"
   },
   {
     "artigo": "29.º",
@@ -123,7 +137,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:431793:por",
-    "alterador": "pt:dre:249997:por;pt:dre:481970:por"
+    "alterador": "pt:dre:546003:por;pt:dre:249997:por;pt:dre:481970:por"
   },
   {
     "artigo": "30.º",
@@ -137,6 +151,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:431793:por",
-    "alterador": "pt:dre:249997:por;pt:dre:481970:por"
+    "alterador": "pt:dre:546003:por;pt:dre:249997:por;pt:dre:481970:por"
   }
 ]

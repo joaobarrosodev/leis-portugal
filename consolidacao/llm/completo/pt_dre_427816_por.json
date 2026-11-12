@@ -9,11 +9,11 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DR 36/77 art. 1.º: nova redação do artigo 3.º (n.os 1 a 4); aplicada.",
-    "DR 7/82 art. 1.º: nova redação do n.º 1 do artigo 3.º, mantendo n.os 2 a 4 ('...'); aplicada sobre a redação do DR 36/77.",
-    "Restantes artigos dos alteradores: normas próprias (vigência, dúvidas)."
+    "DR 36/77 art. 1.º: nova redação do art. 3.º com n.os 1 a 4 — aplicado",
+    "DR 7/82 art. 1.º: nova redação do n.º 1 do art. 3.º, n.os 2 a 4 '...' mantêm a redação do DR 36/77 (alterador 1, presente no pedido) — aplicado; o reparo do verificador não procede"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

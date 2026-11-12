@@ -8,13 +8,15 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "DL 250/2002, art. 11.º, n.º 1: revoga o DL 242-A/2001 e repristina o art. 2.º do DL 187/2001 (redacção original, anterior ao DL 242-A/2001). O texto atual do art. 2.º é já a redacção do DL 242-A/2001 e a redacção original não vem no pedido, pelo que não é possível repor o texto com segurança.",
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Artigo 2.º: o DL 250/2002 (alterador 3, art. 11.º, n.º 1) revoga o DL 242-A/2001 e repristina o artigo 2.º do DL 187/2001 na redação original; o texto original do artigo 2.º (os seus n.os 2 e seguintes) não consta do pedido — o texto atual já é o do DL 242-A/2001 — e só aparece no reparo do verificador, pelo que não se pode reconstituir com segurança; fica o texto atual.",
   "instrucoes": [
-    "DL 242-A/2001, art. 1.º: nova redacção do art. 2.º (n.os 2 e 3) — o texto atual (já alterado por um programa) coincide com esta redacção; nada a mudar.",
-    "DL 242-A/2001, art. 2.º: altera o art. 2.º do DL 188/2001 — outro diploma; ignorada.",
-    "DL 234/2002, art. 1.º: nova redacção do n.º 5 do art. 4.º; n.os 1 a 4 '...' mantêm o texto atual. Aplicada.",
-    "DL 234/2002, art. 2.º: prazos de liquidação — norma autónoma, não altera o texto do original.",
-    "DL 250/2002, art. 11.º, n.º 1: revogação do DL 242-A/2001 com repristinação do art. 2.º original do DL 187/2001 — não aplicada (texto original do art. 2.º não disponível no pedido); ver nao_aplicavel."
+    "Alterador 1 (DL 242-A/2001), art. 1.º: nova redação do art. 2.º (n.os 2 e 3) — já refletida no texto atual; depois afastada pela repristinação do alterador 3 (ver nao_aplicavel).",
+    "Alterador 1, art. 2.º: altera o DL 188/2001 — não é do original, ignorado.",
+    "Alterador 2 (DL 234/2002), art. 1.º: nova redação do n.º 5 do art. 4.º — aplicado.",
+    "Alterador 2, art. 2.º: prazos de liquidação — norma autónoma, sem alteração textual do original.",
+    "Alterador 3 (DL 250/2002), art. 11.º, n.º 1: revoga o DL 242-A/2001 e repristina o art. 2.º do DL 187/2001 — o texto original não está no pedido (nao_aplicavel); n.os 2 e 3 dizem respeito a outros diplomas, ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

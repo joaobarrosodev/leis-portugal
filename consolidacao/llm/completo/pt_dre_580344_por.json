@@ -14,12 +14,13 @@
       "alterador": 2
     }
   ],
+  "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 377/85, artigo único: nova redação do art. 6.º ('MARINHA' no costado ou superstruturas) - aplicado, depois numerado como n.º 1 pelo DL 105/2005.",
-    "DL 105/2005, art. 1.º: art. 6.º passa a n.º 1 (anterior artigo único, na redação do DL 377/85) e n.º 2 novo sobre a Polícia Marítima - aplicado.",
-    "DL 105/2005, art. 2.º: aditado o art. 12.º - aplicado.",
-    "DL 105/2005, art. 3.º: entrada em vigor do próprio diploma - nada a aplicar."
+    "DL 377/85, artigo único: nova redação do artigo 6.º (palavra «MARINHA»); superada pelo DL 105/2005, que a mantém como n.º 1.",
+    "DL 105/2005, art. 1.º: artigo 6.º passa a ter n.º 1 (anterior artigo único, i.e. a redação do DL 377/85) e n.º 2 novo (POLÍCIA MARÍTIMA); reparo confirmado: o n.º 1 vem do DL 377/85.",
+    "DL 105/2005, art. 2.º: aditado o artigo 12.º."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -9,11 +9,12 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Artigo 3.º do DLR 3/97/M: as referências à Secretaria Regional da Economia e à Direcção de Serviços de Fiscalização Económica consideram-se reportadas a outras entidades; é norma remissiva, não alteração textual, pelo que não se altera o texto (p. ex. do artigo 5.º).",
+  "titulos": [],
+  "nao_aplicavel": "Artigo 3.º do DLR 3/97/M: norma remissiva/interpretativa (as referências à Secretaria Regional da Economia e à Direcção de Serviços de Fiscalização Económica consideram-se reportadas às novas entidades); não substitui texto, pelo que não se aplica ao artigo 5.º (que mantém 'Direcção de Serviços de Fiscalização Económica'). Artigos 1.º e 4.º do DLR 3/97/M e 1.º do DLR 16/90/M não alteram o texto do original.",
   "instrucoes": [
-    "Alterador 1 (DLR 16/90/M, art. 2.º): nova redação do corpo do artigo 1.º; substituída depois pelo alterador 2.",
-    "Alterador 2 (DLR 3/97/M, art. 2.º): nova redação do corpo do artigo 1.º; aplicada, mantendo o § único.",
-    "Alterador 2, art. 3.º: remissão não textual; não aplicada (ver nao_aplicavel)."
+    "DLR 16/90/M art. 2.º: nova redação do corpo do art. 1.º (depois substituída pelo alterador 2); § único mantido",
+    "DLR 3/97/M art. 2.º: nova redação do corpo do art. 1.º, aplicada; § único mantido",
+    "DLR 3/97/M art. 3.º: norma remissiva, não textual; reparo confirmado como não aplicável ao texto (nao_aplicavel)"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

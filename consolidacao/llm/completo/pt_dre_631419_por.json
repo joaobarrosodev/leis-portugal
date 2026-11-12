@@ -45,12 +45,14 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "nao_aplicavel": "DL 39/72, art. 3.º: fixa em trinta dias, a contar da sua entrada em vigor, o prazo da parte final do artigo 1.º e a contagem dos demais prazos; não dá nova redação ao artigo 1.º (alteração não textual), pelo que o texto do artigo 1.º não foi mudado. DL 39/72, art. 2.º: dispensa de parecer, sem alteração textual.",
   "instrucoes": [
-    "DL 39/72, art. 1.º: nova redação integral dos artigos 3.º, 4.º, 5.º, 6.º, 7.º e 13.º; aplicada.",
-    "DL 39/72, arts. 2.º e 3.º: normas autónomas (dispensa de parecer; prazo), sem alteração textual.",
-    "DL 536/80, art. 3.º: declara revogados os n.os 2 e 3 do artigo 16.º; marcados como (Revogado.).",
-    "DL 536/80, arts. 1.º e 2.º: regime autónomo, sem alteração textual."
+    "DL 39/72 art. 1.º: nova redação dos arts. 3.º, 4.º, 5.º, 6.º, 7.º e 13.º; aplicada",
+    "DL 39/72 art. 2.º: dispensa de parecer na emissão de ações; não textual",
+    "DL 39/72 art. 3.º: prazo do art. 1.º fixado em trinta dias sem nova redação; nao_aplicavel (reparo verificado: não é alteração textual)",
+    "DL 536/80 arts. 1.º-2.º: regulam o exercício da faculdade do n.º 4 do art. 16.º; não textuais",
+    "DL 536/80 art. 3.º: declara revogados os n.os 2 e 3 do art. 16.º; aplicada"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

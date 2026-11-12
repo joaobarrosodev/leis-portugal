@@ -14,145 +14,7 @@
       "alterador": 1
     },
     {
-      "chave": "3.º",
-      "epigrafe": "Estrutura",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
       "chave": "4.º",
-      "epigrafe": "Competências",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "5.º",
-      "epigrafe": "Natureza",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "6.º",
-      "epigrafe": "Estrutura",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "7.º",
-      "epigrafe": "Competências",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "8.º",
-      "epigrafe": "Natureza",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "9.º",
-      "epigrafe": "Estrutura",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "10.º",
-      "epigrafe": "Competências",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "11.º",
-      "epigrafe": "Natureza",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "12.º",
-      "epigrafe": "Estrutura",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "13.º",
-      "epigrafe": "Competências",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "14.º",
-      "epigrafe": "Natureza",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "15.º",
-      "epigrafe": "Estrutura",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "16.º",
-      "epigrafe": "Competências",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "17.º",
-      "epigrafe": "Natureza",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "18.º",
-      "epigrafe": "Estrutura",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "19.º",
-      "epigrafe": "Competências",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "20.º",
-      "epigrafe": "Competências",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "21.º",
-      "epigrafe": "Natureza",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "22.º",
-      "epigrafe": "Competências",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "23.º",
-      "epigrafe": "Natureza",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "24.º",
-      "epigrafe": "Competências",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "25.º",
-      "epigrafe": "Natureza",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
-      "chave": "26.º",
       "epigrafe": "Competências",
       "texto": "(Revogado.)",
       "alterador": 1
@@ -183,10 +45,12 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Art. 2.º do DRR 6/2009/M ressalva da revogação as estruturas de organização vigente das unidades nucleares e flexíveis até à nova regulamentação; ressalva transitória não textual, não identificável com artigos concretos.",
+  "titulos": [],
+  "nao_aplicavel": "Artigo 2.º do Decreto Regulamentar Regional n.º 6/2009/M: a revogação ressalva as estruturas de organização vigente das unidades nucleares e flexíveis, que se mantêm em vigor até à publicação da regulamentação prevista no Decreto Legislativo Regional n.º 17/2007/M (facto futuro). Por isso não se dão como revogados os artigos que definem a estrutura e as unidades orgânicas (artigo 3.º e artigos 5.º a 26.º: direcções de serviços, divisões, gabinete e serviços, sua natureza, estrutura e competências); só se revogam os artigos 1.º, 2.º, 4.º e 27.º a 30.º, que não respeitam a essas estruturas. O mapa anexo ao novo diploma só vem em imagem.",
   "instrucoes": [
-    "Art. 2.º do DRR 6/2009/M: revoga o DRR 26/2005/M - todos os artigos (1.º a 30.º) ficam (Revogado.)",
-    "Art. 1.º e anexo do DRR 6/2009/M: aprovam nova orgânica autónoma - não é alteração do original"
+    "Art. 1.º do DRR 6/2009/M: aprova nova orgânica em anexo - não altera o texto do original.",
+    "Art. 2.º: revoga o DRR 26/2005/M com excepção das estruturas das unidades nucleares e flexíveis - revogados os artigos 1.º, 2.º, 4.º, 27.º, 28.º, 29.º e 30.º; mantidos os artigos 3.º e 5.º a 26.º (excepção, nao_aplicavel).",
+    "Art. 3.º: entrada em vigor - sem efeito no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -77,7 +77,7 @@ m) Anabolizantes: as substâncias cuja administração tem por efeito estimular 
 
 > Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24.
 
-### CAPÍTULO II — Proibições e condições de utilização de certas substâncias de efeito hormonal e tireostático
+### CAPÍTULO II — Proibições e condições de utilização de certas substâncias de efeito hormonal, tireostático e anabolizante.
 
 ###### Artigo 3.º — Proibições
 
@@ -105,7 +105,7 @@ b) Para fins zootécnicos, tendo em vista a interrupção de gestações indesej
 
 5 - Até à publicação das listas mencionadas no número anterior, os medicamentos oficialmente autorizados continuam a poder ser utilizados.
 
-### CAPÍTULO III — Trocas comerciais de animais de exploração e de produtos deles provenientes
+### CAPÍTULO III — Detenção e trocas comerciais de animais de exploração e de produtos deles provenientes
 
 ###### Artigo 5.º — Comércio e abate
 

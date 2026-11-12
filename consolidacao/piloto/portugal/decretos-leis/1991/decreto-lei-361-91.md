@@ -394,7 +394,7 @@ A Fundação fica obrigada em quaisquer actos ou contratos pela assinatura conju
 
 > Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-#### SECÇÃO V — Conselho de mecenas
+#### SECÇÃO V — Conselho fiscal
 
 ###### Artigo 25.º — Competência
 
@@ -459,8 +459,6 @@ TAP-Air Portugal, S. A.
 As referências dos presentes estatutos ao terreno afecto à construção do Centro Cultural de Belém e aos módulos que o integram consideram-se realizadas ao terreno que se encontra afecto à sua construção, nos termos do n.º 5 da [Resolução do Conselho de Ministros n.º 3/88](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-1988-583811), de 12 de Janeiro, e aos cinco módulos que o integram, nos termos do estudo prévio vencedor do concurso aberto na sequência do n.º 3 da referida resolução do Conselho de Ministros.
 
 > Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
-
-#### SECÇÃO VI — Conselho fiscal
 
 ###### Artigo 30.º — Disposição transitória
 

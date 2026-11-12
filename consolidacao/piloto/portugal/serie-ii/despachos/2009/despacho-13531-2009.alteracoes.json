@@ -42,20 +42,6 @@
     "alterador": "pt:dre:108090466:por"
   },
   {
-    "artigo": "9.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 9.º — Atribuição das bolsas\n\nAs bolsas de estudo por mérito são atribuídas anualmente, por cada instituição de ensino superior, aos que, no ano lectivo anterior, nela tenham tido aproveitamento excepcional, até ao limite fixado nos termos do artigo 7.º",
-    "depois": "###### Artigo 9.º — Atribuição das bolsas\n\n3 - As bolsas de estudo por mérito são atribuídas anualmente, por cada instituição de ensino superior, aos que, no ano letivo a que diz respeito a atribuição da bolsa, nela tenham tido aproveitamento excecional, até ao limite fixado no artigo 7.º\n\n> Alterado pelo/a [Despacho n.º 7761/2017](https://diariodarepublica.pt/dr/detalhe/despacho/7761-2017-108090466), publicado em 2017-09-04.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:1181235:por",
-    "alterador": "pt:dre:108090466:por"
-  },
-  {
     "artigo": "11.º",
     "operacao": "substituir",
     "regra": "llm",

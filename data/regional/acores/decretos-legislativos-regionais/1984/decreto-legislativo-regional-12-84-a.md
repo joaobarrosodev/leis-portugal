@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-01-08'
+version_history:
+  file: decreto-legislativo-regional-12-84-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-02-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-01-08'
+    amending: pt:dre:616413:por
+    amending_title: Decreto Legislativo Regional n.º 2/86/A
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:17:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    2/86/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1984/decreto-legislativo-regional-12-84-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -109,9 +124,13 @@ Assim:
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-Artigo 1.º A [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril, relativamente aos titulares de cargos políticos na Região Autónoma dos Açores, executar-se-á de acordo com o [Decreto Regulamentar n.º 74/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/74-1983-441163), de 6 de Outubro, sem prejuízo do disposto no artigo seguinte.
+###### Artigo 1.º
 
-Art. 2.º - 1 - As declarações sobre o valor do património e rendimentos respeitantes aos titulares de cargos políticos na Região Autónoma dos Açores poderão também ser enviadas ao Tribunal Constitucional, com observância das regras do segredo de justiça, através das seguintes entidades:
+A [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril, relativamente aos titulares de cargos políticos na Região Autónoma dos Açores, executar-se-á de acordo com o [Decreto Regulamentar n.º 74/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/74-1983-441163), de 6 de Outubro, sem prejuízo do disposto no artigo seguinte.
+
+###### Artigo 2.º
+
+1 - As declarações sobre o valor do património e rendimentos respeitantes aos titulares de cargos políticos na Região Autónoma dos Açores poderão também ser enviadas ao Tribunal Constitucional, com observância das regras do segredo de justiça, através das seguintes entidades:
 
 a) Presidente da Mesa da Assembleia Regional, relativamente ao cargo de deputado regional;
 
@@ -119,11 +138,13 @@ b) Presidente do Governo Regional, relativamente ao cargo de secretário regiona
 
 c) Secretário Regional da Administração Pública, relativamente aos restantes cargos.
 
-2 - As declarações serão pessoalmente entregues, contra recibo, no gabinete das entidades mencionadas no número anterior, que as remeterão ao Tribunal Constitucional.
+2 - As declarações serão entregues, contra recibo, no gabinete das entidades mencionadas no número anterior, que as remeterão ao Tribunal Constitucional.
 
 Aprovado pela Assembleia Regional dos Açores em 6 de Dezembro de 1983.
 
 O Presidente da Assembleia Regional, Álvaro Monjardino.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 2/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1986-616413), publicado em 1986-01-08.
 
 Assinado em Angra do Heroísmo em 2 de Fevereiro de 1984.
 

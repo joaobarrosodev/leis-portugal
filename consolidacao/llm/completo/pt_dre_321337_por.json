@@ -95,13 +95,30 @@
   "removidos": [
     "ANEXO — Estatutos da sociedade anónima::18.º"
   ],
-  "nao_aplicavel": null,
+  "titulos": [
+    {
+      "atual": "#### SECÇÃO II — Direcção",
+      "novo": "#### SECÇÃO II — Conselho de administração",
+      "alterador": 1
+    },
+    {
+      "atual": "#### SECÇÃO III — Conselho geral",
+      "novo": "#### SECÇÃO III — Fiscal único",
+      "alterador": 1
+    },
+    {
+      "atual": "#### SECÇÃO III — Fiscalização da sociedade",
+      "novo": null,
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Títulos de divisão dos estatutos: o DL 64/2003 coloca a SECÇÃO II (Conselho de administração) antes do artigo 10.º e a SECÇÃO III (Fiscal único) antes do artigo 15.º; o título 'SECÇÃO III — Conselho geral' foi renomeado para 'Fiscal único' e o 'SECÇÃO III — Fiscalização da sociedade' eliminado, mas a posição dos títulos (antes do 13.º e não do 15.º) não se pode mudar pelo formato.",
   "instrucoes": [
-    "DL 64/2003, art. 1.º: nova redação dos arts. 5.º e 6.º do decreto-lei; texto atual já coincide, nada a mudar.",
-    "DL 64/2003, art. 4.º: nova redação dos arts. 2.º, 4.º a 7.º e 10.º a 17.º dos estatutos aplicada (mantido o texto atual onde '...'); antigo art. 18.º passa a 17.º, pelo que a chave 18.º é removida.",
-    "DL 64/2003, arts. 2.º, 3.º, 5.º e 6.º: normas transitórias, registo e republicação, sem alteração textual.",
-    "DL 52/2004, art. 1.º: nova alínea c) no n.º 2 do art. 2.º do decreto-lei e renumeração das alíneas c) a g) para d) a h), aplicada.",
-    "DL 52/2004, art. 2.º: igual alteração no art. 3.º dos estatutos, aplicada."
+    "DL 64/2003, art. 1.º: artigos 5.º e 6.º do decreto-lei já estão com a nova redação; não devolvidos.",
+    "DL 64/2003, art. 4.º: estatutos, nova redação dos arts. 2.º (n.º 2), 4.º (n.º 1), 5.º (n.os 1 e 2), 6.º (n.º 2), 7.º (n.º 1, alíneas a) a c)), 10.º, 11.º (epígrafe e proémio), 12.º (alíneas; c) = anterior b)), 13.º a 16.º novos; 17.º = anterior 18.º; 18.º removido.",
+    "DL 64/2003: títulos SECÇÃO II e SECÇÃO III renomeados; SECÇÃO III — Fiscalização da sociedade eliminada.",
+    "DL 52/2004, art. 1.º: art. 2.º do decreto-lei, nova alínea c) do n.º 2 e renumeração das seguintes (d) a h)).",
+    "DL 52/2004, art. 2.º: art. 3.º dos estatutos, idem."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

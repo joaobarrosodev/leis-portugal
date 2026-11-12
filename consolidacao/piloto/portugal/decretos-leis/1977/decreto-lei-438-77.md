@@ -34,13 +34,17 @@ Dos lugares vagos e seu preenchimento
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
+II
+
+Do «curriculum» dos cursos das escolas - Habilitações próprias para a docência de cada uma das disciplinas ou especialidades.
+
+> Alterado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
 
 ###### Artigo 2.º
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
+> Alterado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
 
 III
 
@@ -62,7 +66,7 @@ Da definição de competências em matéria de concursos e outras formas de recr
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
+> Alterado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
 
 IV
 
@@ -72,7 +76,7 @@ Da abertura do concurso
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
+> Alterado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
 
 V
 
@@ -100,7 +104,7 @@ Do mecanismo do concurso
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
+> Alterado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
 
 VI
 
@@ -134,7 +138,7 @@ Das nomeações e colocações
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
+> Alterado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
 
 VII
 
@@ -170,7 +174,7 @@ Das remunerações
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
+> Alterado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
 
 VIII
 
@@ -192,7 +196,7 @@ Disposições finais
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
+> Alterado pelo/a [Decreto-Lei n.º 369/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1979-370673), publicado em 1979-09-05.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 

@@ -488,5 +488,33 @@
     "unidade": [],
     "diploma": "pt:dre:293718:por",
     "alterador": "pt:dre:667921:por"
+  },
+  {
+    "artigo": "SECÇÃO V — Conselho de mecenas",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO V — Conselho de mecenas",
+    "depois": "#### SECÇÃO V — Conselho fiscal",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:293718:por",
+    "alterador": "pt:dre:667921:por"
+  },
+  {
+    "artigo": "SECÇÃO VI — Conselho fiscal",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "#### SECÇÃO VI — Conselho fiscal",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:293718:por",
+    "alterador": "pt:dre:667921:por"
   }
 ]

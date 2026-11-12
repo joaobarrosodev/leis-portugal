@@ -20,8 +20,14 @@
       "alterador": 7
     },
     {
+      "chave": "8.º",
+      "epigrafe": "Registo",
+      "texto": "1 - (Revogado.)\n\n2 - O pedido para exercício da atividade de consultor para investimento autónomo previsto no artigo 301.º do Código dos Valores Mobiliários deve ser acompanhado dos seguintes elementos:\n\na) Identificação do requerente, incluindo identificação dos titulares de participações qualificadas, sempre que o requerente seja uma pessoa colectiva;\n\nb) Domicílio profissional ou sede;\n\nc) Identificação dos meios humanos, técnicos e materiais que serão utilizados;\n\nd) Registo criminal das pessoas relativamente às quais a lei exige idoneidade;\n\ne) Curriculum vitae das pessoas relativamente às quais a lei exige qualificação e aptidão profissional;\n\nf) (Revogada.)\n\ng) Indicação dos instrumentos financeiros de que o consultor para investimento é titular;\n\nh) Questionário e declaração conforme formulário aprovado pela CMVM;\n\ni) Data previsível para o início de actividade.\n\n3 - Qualquer alteração que se verifique nos elementos constantes das alíneas anteriores, com excepção da alínea g), deve ser comunicada à CMVM no prazo máximo de 10 dias após a verificação do facto.\n\n4 - O registo deve ser concedido no prazo máximo de 30 dias contados desde a data da recepção da comunicação dos elementos previstos no n.º 1 ou da recepção das informações complementares que tenham sido solicitadas ao requerente, aplicando-se o disposto no artigo 299.º do Código dos Valores Mobiliários.",
+      "alterador": 7
+    },
+    {
       "chave": "14.º",
-      "epigrafe": "Informação no âmbito de operações sobre instrumentos financeiros derivados",
+      "epigrafe": "",
       "texto": "(Revogado.)",
       "alterador": 6
     },
@@ -40,19 +46,22 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Art. 10.º (Regulamento da CMVM n.º 3/2013): a nova redação mantém n.os 1 a 3 com alíneas a) (i a iii), b) e c) e acrescenta o n.º 4, mas o texto atual do art. 10.º é um só parágrafo sem números nem alíneas (falta uma alteração intermédia), pelo que não se aplica com segurança. Art. 8.º, n.º 2 (Regulamento da CMVM n.º 7/2022): a redação pressupõe uma estrutura (n.º 1 a revogar, n.º 2 com alíneas a) a i), n.os 3 e 4) que não é a do texto atual (n.º 1 com as alíneas, n.os 2 e 3, sem n.º 4); alvo ambíguo, não aplicado. N.º 2 do art. 1.º (Regulamento da CMVM n.º 6/2020, art. 22.º): o texto atual do art. 1.º não tem n.º 2; não aplicado. Anexos IV a VIII (Regulamento 6/2020, art. 17.º, Anexo G): o texto dos anexos não vem no pedido. Capítulos VIII-A «Informação a reportar à CMVM» (Regulamento 6/2020, art. 19.º, b)) e VIII-B «Constituição de Filial» (Regulamento 7/2022, art. 3.º, n.º 2): títulos de divisão novos, que não existem no texto atual; não inventados.",
+  "nao_aplicavel": "Reg. CMVM 6/2020, art. 22.º, n.º 1, a): revoga o n.º 2 do artigo 1.º, mas o artigo 1.º do texto atual tem um só parágrafo, sem números (o n.º 2 veio de uma alteração que não está no pedido); não há n.º 2 para revogar nem se pode numerar o artigo sem inventar. Reg. CMVM 3/2013, art. 1.º: nova redação do artigo 10.º mantém os n.os 1 a 3 (com alíneas e subalíneas) e adita o n.º 4, mas o artigo 10.º do texto atual é um parágrafo único sem essa estrutura; não aplicado. Reg. CMVM 6/2020, art. 19.º, b), e Reg. CMVM 7/2022, art. 3.º, n.º 2: aditam os capítulos VIII-A «Informação a reportar à CMVM» (art. 46.º-A) e VIII-B «Constituição de Filial» (art. 46.º-B); são títulos novos que não estão no texto atual e não se podem pôr em 'titulos'. Reg. CMVM 6/2020, art. 19.º, a): renumeração do capítulo «Sistemas de Notificação de Operações» para Capítulo VIII já está no texto atual (sem mudança). Reg. CMVM 6/2020, art. 17.º: aditamento dos Anexos IV a VIII, com a redação do Anexo G desse regulamento, que não vem no pedido.",
   "instrucoes": [
-    "Alterador 1 (Reg. CMVM 3/2008): nova redação dos arts. 6.º, 11.º e 47.º e aditamento dos arts. 11.º-A a 11.º-C — já aplicados pelo programa e conferidos (art. 6.º depois alterado pelos alteradores 5 e 7).",
-    "Alteradores 2 (Regulamento 3/2010, Santa Marta de Penaguião) e 3 (Regulamento 2/2011, Alfândega da Fé): regulamentos municipais sem nenhuma instrução dirigida ao original — nada aplicado.",
-    "Alterador 4 (Reg. CMVM 3/2013): art. 10.º com n.º 4 novo — estrutura do texto atual não corresponde, não aplicado (nao_aplicavel).",
-    "Alterador 5 (Reg. CMVM 5/2013), art. 106.º: nova redação do n.º 3 do art. 6.º — aplicada, mas depois revogada pelo alterador 7.",
-    "Alterador 6 (Reg. CMVM 6/2020), art. 16.º: aditado o art. 46.º-A — aplicado.",
-    "Alterador 6, art. 17.º: aditados Anexos IV a VIII (Anexo G) — texto não disponível, não aplicado.",
-    "Alterador 6, art. 19.º: a) o capítulo «Sistemas de Notificação de Operações» já figura como Capítulo VIII no texto atual — nada a mudar; b) capítulo VIII-A novo — título não existente, não inventado.",
-    "Alterador 6, art. 22.º, n.º 1, a): revogados o n.º 2 do art. 1.º (inexistente no texto atual — não aplicado) e o art. 14.º (aplicado: (Revogado.)).",
-    "Alterador 7 (Reg. CMVM 7/2022), art. 2.º: nova redação do art. 2.º (epígrafe mantida, n.º 3 revogado), do art. 6.º (n.º 1 novo, n.os 2 a 5 revogados, epígrafe mantida) e do art. 7.º (epígrafe mantida) — aplicadas; n.º 2 do art. 8.º — não aplicado (estrutura diferente).",
-    "Alterador 7, art. 3.º: aditado o art. 46.º-B — aplicado; capítulo VIII-B novo — não inventado.",
-    "Alterador 7, arts. 4.º, 5.º e 11.º: alteram/revogam outros regulamentos — ignorados."
+    "Reg. 3/2008 arts. 1.º e 2.º: arts. 6.º, 11.º, 47.º e aditamento 11.º-A a 11.º-C; já no texto atual (programa); art. 6.º volta a mudar pelo Reg. 7/2022.",
+    "Reg. 3/2010 e Reg. 2/2011: regulamentos municipais sem instruções dirigidas ao original - ignorados.",
+    "Reg. 3/2013 art. 1.º: art. 10.º (n.os 1 a 3 com '...' e n.º 4 novo) - estrutura não existe no texto atual - nao_aplicavel.",
+    "Reg. 5/2013 art. 106.º: nova redação do n.º 3 do art. 6.º - substituída depois pela revogação do n.º 3 pelo Reg. 7/2022.",
+    "Reg. 6/2020 art. 16.º: aditado o art. 46.º-A - aplicado.",
+    "Reg. 6/2020 art. 17.º: aditados os Anexos IV a VIII (Anexo G não vem no pedido) - nao_aplicavel.",
+    "Reg. 6/2020 art. 19.º: a) capítulo Sistemas de Notificação de Operações como VIII - já assim no texto atual; b) capítulo VIII-A novo - título não existente, nao_aplicavel (reparo verificado).",
+    "Reg. 6/2020 art. 22.º n.º 1 a): revogado o art. 14.º - aplicado '(Revogado.)'; revogado o n.º 2 do art. 1.º - art. 1.º sem n.º 2 no texto atual, nao_aplicavel (reparo verificado).",
+    "Reg. 7/2022 art. 2.º: nova redação do art. 2.º (n.os 1 e 2, n.º 3 revogado) - aplicado.",
+    "Reg. 7/2022 art. 2.º: art. 6.º, n.º 1 nova redação e n.os 2 a 5 revogados - aplicado.",
+    "Reg. 7/2022 art. 2.º: nova redação do art. 7.º - aplicado.",
+    "Reg. 7/2022 art. 2.º: art. 8.º, n.º 1 revogado, n.º 2 com novo proémio e alíneas a) a e), g) a i) mantidas (as alíneas do atual n.º 1), alínea f) revogada, n.os 3 e 4 mantidos (os atuais n.os 2 e 3) - aplicado (reparo verificado).",
+    "Reg. 7/2022 art. 3.º n.º 1: aditado o art. 46.º-B - aplicado; n.º 2: capítulo VIII-B novo - nao_aplicavel.",
+    "Reg. 7/2022 arts. 4.º e 5.º: alteram os Regulamentos 1/2020 e 9/2020 - ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

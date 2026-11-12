@@ -58,11 +58,15 @@ b) Não recebam dos novos Estados de expressão oficial portuguesa a protecção
 
 c) Residam ou não em Portugal.
 
+d) (Revogada.)
+
 2 - O direito a que se refere o número anterior apenas engloba os períodos contributivos verificados em caixas de previdência de inscrição obrigatória, cujo esquema de benefícios incluísse a atribuição de pensões e em relação aos quais não se tenha verificado reembolso de contribuições.
 
 > Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 45/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1993-656819), publicado em 1993-02-20.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 465/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1999-693814), publicado em 1999-11-05.
+
+> Alterado pelo/a [Decreto-Lei n.º 465/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1999-693814), publicado em 1999-11-05.
 
 ###### Artigo 2.º — Objectivos
 

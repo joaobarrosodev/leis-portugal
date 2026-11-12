@@ -229,6 +229,8 @@ d) (Revogada.)
 
 e) Escola Superior de Comunicação Social.
 
+2 - (Revogado.)
+
 > Alterado pelo/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.
 
 ###### Artigo 12.º

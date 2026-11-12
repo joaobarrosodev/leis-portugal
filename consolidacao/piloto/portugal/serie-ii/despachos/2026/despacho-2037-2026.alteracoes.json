@@ -85,10 +85,10 @@
   },
   {
     "artigo": "Divisão de Património e Planeamento de Instalações",
-    "operacao": "substituir",
+    "operacao": "revogar",
     "regra": "llm",
     "antes": "##### Divisão de Património e Planeamento de Instalações",
-    "depois": "##### Divisão de Planeamento e Infraestruturas",
+    "depois": "",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

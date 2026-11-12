@@ -2,6 +2,18 @@
   "id": "pt:dre:166201:por",
   "artigos": [
     {
+      "chave": "ANEXO I — Regulamento da Contribuição Especial::26.º",
+      "epigrafe": "",
+      "texto": "1 - Anulada a liquidação, quer oficiosamente, quer por decisão judicial da entidade ou tribunal competente, com trânsito em julgado, efectuar-se-á o respectivo reembolso se a contribuição se encontrar paga.\n\n2 - Não haverá lugar a anulação quando o seu quantitativo seja inferior a 2000$00.\n\n3 - São devidos juros indemnizatórios nos termos do artigo 43.º da lei geral tributária e são liquidados e pagos nos termos do Código de Processo Tributário.",
+      "alterador": 3
+    },
+    {
+      "chave": "ANEXO I — Regulamento da Contribuição Especial::28.º",
+      "epigrafe": "",
+      "texto": "Independentemente da anulação da liquidação, o Ministro das Finanças poderá ordenar o reembolso da contribuição paga nos últimos quatro anos quando a considere indevidamente cobrada, observando-se, na parte aplicável, o disposto nos n.os 1 e 2 do artigo 26.º",
+      "alterador": 3
+    },
+    {
       "chave": "ANEXO I — Regulamento da Contribuição Especial::2.º",
       "epigrafe": "",
       "texto": "1 - Constitui valor sujeito a contribuição a diferença entre o valor do prédio à data em que for requerido o licenciamento de construção ou de obra, ou apresentação da comunicação prévia e o seu valor à data de 1 de Janeiro de 1992, corrigido por aplicação dos coeficientes de desvalorização da moeda constantes da portaria a que se refere o artigo 47.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, correspondendo, para o efeito, à data de aquisição a data de 1 de Janeiro de 1992 e à de realização a data da emissão do alvará de licença de construção ou de obra, ou do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do Regime Jurídico da Urbanização e da Edificação (RJUE).\n\n2 - Os valores que servem para determinar a diferença são determinados por avaliação nos termos do presente Regulamento.",
@@ -18,29 +30,17 @@
       "epigrafe": "",
       "texto": "1 - Os titulares de alvará de licença de construção ou de obra, ou do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do RJUE, deverão apresentar até ao fim do mês imediato àquele em que tenha sido emitido a referida licença, na repartição de finanças da área da situação do prédio, declaração do modelo aprovado.\n\n2 - Com a apresentação da declaração deverá ser exibido o alvará de licença de construção ou de obra, ou do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do RJUE a fim de ser extraída pela repartição de finanças fotocópia destinada a documentar o processo.",
       "alterador": 6
-    },
-    {
-      "chave": "ANEXO I — Regulamento da Contribuição Especial::26.º",
-      "epigrafe": "",
-      "texto": "1 - Anulada a liquidação, quer oficiosamente, quer por decisão judicial da entidade ou tribunal competente, com trânsito em julgado, efectuar-se-á o respectivo reembolso se a contribuição se encontrar paga.\n\n2 - Não haverá lugar a anulação quando o seu quantitativo seja inferior a 2000$00.\n\n3 - São devidos juros indemnizatórios nos termos do artigo 43.º da lei geral tributária e são liquidados e pagos nos termos do Código de Processo Tributário.\n\n4 - Os juros serão contados dia a dia desde a data do pagamento da contribuição até à data da emissão da respectiva nota de crédito.",
-      "alterador": 3
-    },
-    {
-      "chave": "ANEXO I — Regulamento da Contribuição Especial::28.º",
-      "epigrafe": "",
-      "texto": "Independentemente da anulação da liquidação, o Ministro das Finanças poderá ordenar o reembolso da contribuição paga nos últimos quatro anos quando a considere indevidamente cobrada, observando-se, na parte aplicável, o disposto nos n.os 1 e 2 do artigo 26.º",
-      "alterador": 3
     }
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "DL 140/2002, art. 1.º: fixa os limites da ZPE nos anexos do próprio DL 140/2002, sem alterar o texto do DL 51/95, e a sua vigência foi suspensa pelo DL 190/2002 (que repristina o artigo 5.º do DL 51/95): nada a aplicar. DL 472/99, art. 9.º: disposição transitória sobre a aplicação no tempo do artigo 28.º, não textual.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Lei 10-B/96 (alterador 1), art. 32.º, n.º 1: nova redação do n.º 1 do artigo 2.º e do n.º 4 do artigo 5.º do Regulamento — já aplicada pelo programa (5.º confere; 2.º volta a mudar pela Lei 64-B/2011). N.os 2 a 4: outros diplomas/autorização.",
-    "DL 27/97 (alterador 2), art. 1.º: aditado o artigo 6.º do decreto — já aplicado pelo programa e confere.",
-    "DL 472/99 (alterador 3), art. 6.º, n.º 1: artigos 12.º, 14.º e 23.º — já aplicados pelo programa e conferem; artigo 26.º: novo n.º 3 (n.os 1, 2 e 4 mantidos); artigo 28.º: nova redação. N.os 2 e 3: outros diplomas.",
-    "DL 140/2002 e DL 190/2002 (alteradores 4 e 5): ver nao_aplicavel.",
-    "Lei 64-B/2011 (alterador 6), art. 167.º, n.º 1: nova redação dos artigos 2.º (n.os 1 e 2), 3.º e 7.º do Regulamento. N.os 2 e 3: outros diplomas."
+    "Lei 10-B/96, art. 32.º n.º 1: nova redação dos arts. 2.º e 5.º do Regulamento (já aplicada; o 2.º muda depois pela Lei 64-B/2011). N.º 2 é para o DL 54/95; n.os 3 e 4 são autorizações legislativas: ignorados.",
+    "DL 27/97, art. 1.º: adita o art. 6.º ao decreto-lei (já aplicado, certo); art. 2.º é para o DL 54/95.",
+    "DL 472/99, art. 6.º n.º 1: nova redação dos arts. 12.º, 14.º e 23.º (já aplicados, certos), 26.º e 28.º. No 26.º a nova redação é o artigo inteiro com n.os 1 e 2 mantidos e n.º 3 novo, sem n.º 4: o antigo n.º 4 (contagem dos juros) deixa de existir, consumido pelo novo n.º 3. No 28.º «cinco anos»->«quatro anos». O art. 9.º (aplicação no tempo) não altera o texto.",
+    "DL 140/2002 e DL 190/2002: fixam limites da ZPE nos seus próprios anexos e depois suspendem esse art. 1.º, repristinando o art. 5.º do DL 51/95; não alteram o texto do original.",
+    "Lei 64-B/2011, art. 167.º n.º 1: nova redação dos arts. 2.º, 3.º e 7.º do Regulamento; n.os 2 e 3 são para outros diplomas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

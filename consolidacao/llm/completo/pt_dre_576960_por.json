@@ -12,9 +12,9 @@
   "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 95/85): aditada a alínea g) ao n.º 1 do art. 1.º; aplicada.",
-    "Alterador 2 (DL 62/90), art. 1.º: nova redação do art. 1.º com aditamento da alínea h) ao n.º 1 (resto mantido); aplicada. Arts. 2.º a 8.º são normas próprias desse decreto-lei.",
-    "Alterador 3 (Portaria 115/2026/2): altera o quadro anexo da Portaria 606/2009 (outro diploma); ignorado."
+    "Alterador 1 (DL 95/85): adita a alínea g) ao n.º1 do 1.º — aplicada. O reparo enganava-se: a g) vem do DL 95/85, que está no pedido.",
+    "Alterador 2 (DL 62/90), art. 1.º: nova redação do 1.º, mantém n.º1 a) a g), n.os 2 e 3, e adita a alínea h) — aplicada. Arts. 2.º a 8.º do DL 62/90 são normas próprias, não do original.",
+    "Alterador 3 (Portaria 115/2026/2): altera o quadro anexo à Portaria 606/2009; nada a aplicar ao texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

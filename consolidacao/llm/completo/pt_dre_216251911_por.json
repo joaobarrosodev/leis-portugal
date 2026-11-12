@@ -9,11 +9,12 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Regulamento n.º 8/2026, art. 2.º: declara alterar também o artigo 28.º, mas não traz a nova redação do artigo 28.º; não aplicado.",
+  "titulos": [],
+  "nao_aplicavel": "Regulamento n.º 8/2026, art. 2.º: anuncia nova redação dos artigos 7.º e 28.º, mas só transcreve o texto do artigo 7.º; o artigo 28.º não tem redação no alterador, pelo que fica como está.",
   "instrucoes": [
-    "Art. 2.º do Regulamento 8/2026: nova redação do art. 7.º (epígrafe e n.os 1-3) — aplicada.",
-    "Art. 2.º: alteração do art. 28.º anunciada sem texto — não aplicada.",
-    "Arts. 3.º-6.º: alteram outros regulamentos (Guia, RQS, RRC) — ignorados."
+    "Reg. 8/2026, art. 2.º: nova redação (epígrafe e corpo) do artigo 7.º, aplicada.",
+    "Reg. 8/2026, art. 2.º: artigo 28.º sem texto transcrito, não aplicado (nao_aplicavel).",
+    "Reg. 8/2026, arts. 3.º a 6.º: alteram o Guia de Medição, o RQS e o RRC, outros diplomas; ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -1,0 +1,254 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:575126:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1990-06-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8a40b68385f30364",
+    "9ebba4fa3a569f13",
+    "4094a339cd4a2b58",
+    "107b26561458bfb4",
+    "d0236b886794eb43",
+    "a91125aaa776ce75",
+    "77aa53ff8380c666",
+    "f7da5e541349a93f",
+    "699fd86f34bf348d",
+    "9463c8b220c3dbb0",
+    "b382109109f36cf4",
+    "2642a4a6aad58c37",
+    "0a9ec2a3b264beef",
+    "9a13a5cab52ea2c9",
+    "ca15ca141f877241",
+    "51502cc7a98395cf",
+    "3de988d802285125",
+    "7b13acc839794cf4"
+   ]
+  },
+  {
+   "date": "2004-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:559038:por",
+     "title": "Decreto-Lei n.º 42/97",
+     "published": "1997-02-07",
+     "dre_path": "/dr/detalhe/decreto-lei/42-1997-559038"
+    },
+    {
+     "id": "pt:dre:218365:por",
+     "title": "Decreto-Lei n.º 237/2004",
+     "published": "2004-12-18",
+     "dre_path": "/dr/detalhe/decreto-lei/237-2004-218365"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 9.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "8a40b68385f30364",
+    "9ebba4fa3a569f13",
+    "4094a339cd4a2b58",
+    "107b26561458bfb4",
+    "04398e238f9c7a28",
+    "a91125aaa776ce75",
+    "77aa53ff8380c666",
+    "f7da5e541349a93f",
+    "699fd86f34bf348d",
+    "f38b87aba7788fe7",
+    "80584152c8065160",
+    "2642a4a6aad58c37",
+    "0a9ec2a3b264beef",
+    "9a13a5cab52ea2c9",
+    "ca15ca141f877241",
+    "51502cc7a98395cf",
+    "3de988d802285125",
+    "7b13acc839794cf4"
+   ]
+  }
+ ],
+ "fragments": {
+  "8a40b68385f30364": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Junho\n\nAs remunerações dos funcionários da administração tributária obedeceram desde sempre a um regime próprio, em virtude das especiais exigências e responsabilidades profissionais a que têm de satisfazer, considerando, em simultâneo, o empenhamento na defesa dos interesses da Fazenda Pública e nas garantias dos contribuintes.\n\nPor isso, na esteira da legislação que tem vindo a ser aprovada desde a criação da Direcção-Geral das Contribuições e Impostos, o [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, que procedeu ao desenvolvimento e regulamentação dos princípios gerais contidos no [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, prevê, no seu artigo 29.º, que ao pessoal da administração tributária seja aplicada uma estrutura remuneratória própria.\n\nO presente diploma visa dar cumprimento ao normativo acima referido, aprovando a estrutura salarial do referido pessoal, enquadrada nos princípios enformadores do novo sistema retributivo da função pública.\n\nNos termos da legislação em vigor sobre negociação colectiva na função pública, o presente diploma foi objecto de negociação com as organizações sindicais, nele se reflectindo um acordo firmado em 9 de Janeiro com o Sindicato dos Trabalhadores dos Impostos.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pelo [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "9ebba4fa3a569f13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o estatuto remuneratório do pessoal da administração tributária e aprova a respectiva escala salarial, constante do anexo I, que dele faz parte integrante."
+  },
+  "4094a339cd4a2b58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente diploma aplica-se ao pessoal do quadro da Direcção-Geral das Contribuições e Impostos dos seguintes grupos:\n\na) Adminstrador tributário do grupo do pessoal dirigente superior;\n\nb) Pessoal dirigente;\n\nc) Pessoal técnico superior do Centro de Estudos Fiscais;\n\nd) Pessoal técnico superior (economistas/juristas) que desempenhe funções na área da fiscalização tributária;\n\ne) Pessoal técnico de orientação e supervisão;\n\nf) Pessoal técnico tributário;\n\ng) Pessoal técnico de fiscalização tributária;\n\nh) Pessoal técnico judicial."
+  },
+  "107b26561458bfb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transição\n\n1 - O pessoal integrado nas carreiras da administração tributária transita para a nova estrutura remuneratória de acordo com o anexo II ao presente diploma, que dele faz parte integrante.\n\n2 - A transição para a escala salarial prevista no mapa I anexo ao presente diploma dos funcionários com as categorias de liquidador tributário, técnico tributário, técnico verificador tributário e técnico de contencioso tributário far-se-á para o escalão correspondente à categoria a que tinham direito, a 30 de Setembro de 1989, nos termos do disposto nos artigos 45.º, 46.º, 48.º e 114.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, no n.º 1 do artigo 45.º do [Decreto Regulamentar n.º 54/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1980-461617), de 30 de Setembro, e no artigo 1.º do [Decreto-Lei n.º 199/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1985-182235), de 25 de Junho.\n\n3 - A escala salarial constante do anexo I ao presente diploma é aplicável aos técnicos economistas/juristas que desempenhem funções no âmbito da fiscalização tributária.\n\n4 - Para efeitos de aplicação do n.º 3 do artigo 30.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, ao pessoal do regime geral da Direcção-Geral das Contribuições e Impostos, incluindo o pessoal dirigente abrangido pelo artigo 31.º do referido decreto-lei, adoptar-se-á critério idêntico ao utilizado para as carreiras de pessoal da administração tributária, sendo os respectivos montantes fixados por categoria, mediante despacho do Ministro das Finanças."
+  },
+  "d0236b886794eb43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Mobilidade\n\n1 - Os funcionários com as categorias referidas nas alíneas a), b) e c) do n.º 1 do artigo 70.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, que sejam nomeados para o cargo de chefe de repartição de finanças ou de adjunto de chefe de repartição de finanças integram-se na escala própria do cargo para que forem nomeados, em escalão idêntico ao que possuem na respectiva categoria.\n\n2 - Quando o titular do cargo de chefe de repartição de finanças ou de adjunto de chefe de repartição for nomeado para cargo superior, ser-lhe-á atribuído escalão de vencimento de acordo com o previsto no artigo 17.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808).\n\n3 - Os funcionários que, encontrando-se nomeados para o cargo de chefe de repartição de finanças ou de adjunto de chefe de repartição de finanças, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção serão integrados na escala salarial correspondente ao cargo que detêm, em escalão idêntico ao que lhes seria atribuído na escala salarial da categoria para que são promovidos, tendo presente o disposto no artigo 17.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.\n\n4 - Os funcionários que cessem o exercício dos cargos mencionados na alínea b) do artigo 2.º por lhes ser dada por finda a respectiva comissão de serviço regressam às categorias de origem, na categoria em que se encontram providos e no escalão que lhes couber devido à normal progressão na mesma."
+  },
+  "a91125aaa776ce75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Administradores tributários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Administradores tributários\n\nOs funcionários pertencentes ao grupo do pessoal dirigente superior que possuam a qualificação prevista no artigo 81.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, e a quem sejam dadas por findas as comissões de serviço são integrados no escalão 2 da categoria de adminsitrador tributário, salvo se tiverem direito a integração em escalão superior."
+  },
+  "77aa53ff8380c666": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Escalão de promoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Escalão de promoção\n\n1 - A promoção a categoria superior da respectiva carreira faz-se da seguinte forma:\n\na) Para o escalão 1 da categoria para a qual se faz a promoção;\n\nb) Para o escalão a que na estrutura remuneratória da categoria para a qual se faz a promoção corresponda o índice superior mais aproximado se o funcionário a promover vier já auferindo remuneração igual ou superior à do escalão 1.\n\n2 - Sempre que a remuneração devida pela normal progressão na carreira seja superior à que resulta da aplicação do disposto no número anterior, o pessoal da administração tributária transita para o escalão a que caiba remuneração igual ou imediatamente superior àquela a que teria direito em caso de progressão.\n\n3 - Os peritos de fiscalização tributária de 2.ª classe são remunerados pelo índice 360 até serem nomeados definitivamente nessa categoria."
+  },
+  "f7da5e541349a93f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Requisitos de promoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requisitos de promoção\n\n1 - Os funcionários com as categorias de técnico tributário, técnico verificador tributário ou técnico de contencioso tributário podem candidatar-se a concurso de provimento para a categoria imediatamente superior, desde que satisfaçam os seguintes requisitos:\n\na) Estejam integrados, pelo menos, no 2.º escalão da respectiva escala indiciária;\n\nb) Tenham uma antiguidade de, pelo menos, três anos na categoria.\n\n2 - Os actuais liquidadores tributários podem candidatar-se a concurso de provimento na categoria de técnico tributário, desde que satisfaçam os seguintes requisitos:\n\na) Estejam integrados, pelo menos, no 2.º escalão da respectiva escala indiciária;\n\nb) Tenham uma antiguidade de, pelo menos, cinco anos na categoria, incluindo o estágio."
+  },
+  "699fd86f34bf348d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Promoção de funcionários licenciados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Promoção de funcionários licenciados\n\nOs funcionários nomeados supranumerários, ao abrigo do disposto no n.º 2 do artigo 76.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, mantêm-se nessa situação, sendo-lhes aplicável o regime previsto naquele artigo."
+  },
+  "9463c8b220c3dbb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Progressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Progressão\n\nA mudança de escalão dos funcionários abrangidos pelo presente diploma depende da permanência de três anos no escalão imediatamente anterior."
+  },
+  "b382109109f36cf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Funções de coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Funções de coordenação\n\nOs funcionários designados para a chefia ou coordenação de secções, sectores ou equipas constituídas ao abrigo das disposições orgânicas próprias da Direcção-Geral das Contribuições e Impostos serão remunerados pelo escalão imediatamente seguinte àquele a que têm direito enquanto se mantiverem nessa situação."
+  },
+  "2642a4a6aad58c37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Suplemento de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Suplemento de risco\n\n1 - Aos funcionários incumbidos da acção externa nas áreas da justiça fiscal e da fiscalização tributária será atribuído um suplemento, com fundamento no ónus decorrente da prestação de trabalho em condições de risco, conforme previsto na alínea b) do n.º 1 do artigo 19.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho.\n\n2 - As condições de atribuição do suplemento serão fixadas em decreto-lei."
+  },
+  "0a9ec2a3b264beef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Extinção de categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Extinção de categorias\n\nSão extintas as categorias correspondentes às classes de principal, de 1.ª e de 2.ª classes da carreira de liquidador tributário e de 1.ª e de 2.ª classes de técnico tributário, técnico verificador tributário e técnico de contencioso tributário."
+  },
+  "9a13a5cab52ea2c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Encargos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Encargos financeiros\n\nOs encargos decorrentes da integração das remunerações acessórias extintas na estrutura remuneratória referida no artigo 1.º deste diploma serão suportados pela receita proveniente das custas, multas, coimas e emolumentos, na parte devida aos funcionários, nos termos da legislação em vigor."
+  },
+  "ca15ca141f877241": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o artigo 76.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, sem prejuízo da sua aplicação nos casos previstos no artigo 8.º"
+  },
+  "51502cc7a98395cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Produção de efeitos\n\nO presente diploma produz efeitos a partir de 1 de Outubro de 1989 no que respeita à matéria de incidência remuneratória.\n\nVisto e aprovado em Conselho de Ministros de 3 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.\n\nPromulgado em 25 de Maio de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Maio de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "3de988d802285125": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Direcção-Geral das Contribuições e Impostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Direcção-Geral das Contribuições e Impostos\n\nPessoal da administração tributária\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13100/24682473.pdf)"
+  },
+  "7b13acc839794cf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13100/24682473.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13100/24682473.pdf)"
+  },
+  "04398e238f9c7a28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Mobilidade",
+   "in_force_from": "2004-12-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+   ],
+   "markdown": "###### Artigo 4.º — Mobilidade\n\n1 - Os funcionários que sejam nomeados para os cargos de chefe de repartição de finanças ou de adjunto de chefe de repartição de finanças integram-se na escala própria do cargo para que forem nomeados, em escalão idêntico ao que possuem na respectiva categoria, beneficiando de uma bonificação de 30 pontos no caso de serem iguais as escalas salariais da categoria de origem e do cargo em que forem providos, bonificação que se manterá ao longo da progressão na escala salarial dos referidos cargos.\n\n2 - Quando o titular do cargo de chefe de repartição de finanças ou de adjunto de chefe de repartição for nomeado para cargo superior, ser-lhe-á atribuído escalão de vencimento de acordo com o previsto no artigo 17.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808).\n\n3 - Os funcionários que, estando providos em cargos de chefia tributária, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção são integrados na nova categoria, no escalão que resultar da aplicação das regras previstas no artigo 6.º ao escalão que detinham na categoria de origem.\n\n4 - Os funcionários que cessem o exercício dos cargos mencionados na alínea b) do artigo 2.º por lhes ser dada por finda a respectiva comissão de serviço regressam às categorias de origem, na categoria em que se encontram providos e no escalão que lhes couber devido à normal progressão na mesma.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  },
+  "f38b87aba7788fe7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Progressão",
+   "in_force_from": "2004-12-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+   ],
+   "markdown": "###### Artigo 9.º — Progressão\n\n1 - A mudança de escalão dos funcionários abrangidos pelo presente diploma depende da permanência de três anos no escalão imediatamente anterior.\n\n2 - A aplicação do disposto no número anterior aos funcionários que se encontrem nomeados em cargos de chefia tributária far-se-á relativamente à categoria de origem, com a necessária repercussão na escala salarial do cargo.\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  },
+  "80584152c8065160": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Funções de coordenação",
+   "in_force_from": "2004-12-23",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18."
+   ],
+   "markdown": "###### Artigo 10.º — Funções de coordenação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18."
+  }
+ }
+}

@@ -4,13 +4,13 @@
     {
       "chave": "1.º",
       "epigrafe": "",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nII\n\nDo «curriculum» dos cursos das escolas - Habilitações próprias para a docência de cada uma das disciplinas ou especialidades.",
       "alterador": 1
     },
     {
       "chave": "2.º",
       "epigrafe": "",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nIII\n\nDa definição de competências em matéria de concursos e outras formas de recrutamento",
       "alterador": 1
     },
     {
@@ -28,13 +28,13 @@
     {
       "chave": "5.º",
       "epigrafe": "",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nIV\n\nDa abertura do concurso",
       "alterador": 1
     },
     {
       "chave": "6.º",
       "epigrafe": "",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nV\n\nDo mecanismo do concurso",
       "alterador": 1
     },
     {
@@ -58,7 +58,7 @@
     {
       "chave": "10.º",
       "epigrafe": "",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nVI\n\nDas nomeações e colocações",
       "alterador": 1
     },
     {
@@ -88,7 +88,7 @@
     {
       "chave": "15.º",
       "epigrafe": "",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nVII\n\nDas remunerações",
       "alterador": 1
     },
     {
@@ -112,7 +112,7 @@
     {
       "chave": "20.º",
       "epigrafe": "",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nVIII\n\nDisposições finais",
       "alterador": 1
     },
     {
@@ -130,15 +130,16 @@
     {
       "chave": "23.º",
       "epigrafe": "",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.\n\nPromulgado em 2 de Outubro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.",
       "alterador": 1
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Art. 24.º: revoga o DL 438/77 com excepção do artigo 19.º — todos os artigos, salvo o 19.º, ficam (Revogado.).",
-    "Restantes artigos do alterador: regime novo autónomo, não dirigido ao texto do original."
+    "Art. 24.º do DL 369/79 revoga o DL 438/77 com excepção do artigo 19.º: artigos 1.º a 18.º e 20.º a 23.º passam a '(Revogado.)' (mantidos, a seguir, os cabeçalhos de capítulo II a VIII e o fecho que vinham no texto atual desses artigos); o 19.º fica como está.",
+    "Os artigos 1.º a 27.º do DL 369/79 são regime novo próprio, não instruções de alteração ao texto do original: não aplicados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -1,0 +1,216 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:650114:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "288d05d212a5dc11",
+    "ef6275eb74d37d45",
+    "987d7a8566739353",
+    "23c8c7cd89b93322",
+    "922e3086bde8999d",
+    "7b0fa680032f71cd",
+    "6b4c3ba312bf269f",
+    "5b8168228b70a3a0",
+    "547ee2b379305a33",
+    "9327ea5d20063089",
+    "c7c55e9f692df558",
+    "7a2ce27988820699",
+    "40437fb8fdbed7da",
+    "33a6f4405ef9376f"
+   ]
+  },
+  {
+   "date": "1998-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222977:por",
+     "title": "Decreto-Lei n.º 5/98",
+     "published": "1998-01-12",
+     "dre_path": "/dr/detalhe/decreto-lei/5-1998-222977"
+    },
+    {
+     "id": "pt:dre:198117:por",
+     "title": "Decreto-Lei n.º 77/98",
+     "published": "1998-03-27",
+     "dre_path": "/dr/detalhe/decreto-lei/77-1998-198117"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "288d05d212a5dc11",
+    "ef6275eb74d37d45",
+    "abc47b4b2cca8b57",
+    "23c8c7cd89b93322",
+    "922e3086bde8999d",
+    "7b0fa680032f71cd",
+    "ce7202598e8c4940",
+    "5b8168228b70a3a0",
+    "ecd18058520aa581",
+    "9327ea5d20063089",
+    "c7c55e9f692df558",
+    "7a2ce27988820699",
+    "40437fb8fdbed7da",
+    "33a6f4405ef9376f"
+   ]
+  }
+ ],
+ "fragments": {
+  "288d05d212a5dc11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Julho\n\nA SETENAVE - Estaleiros Navais de Setúbal, E. P., foi criada pelo [Decreto-Lei n.º 182/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1976-507433), de 9 de Março, tendo sucedido à empresa anteriormente nacionalizada, SETENAVE - Estaleiros Navais de Setúbal, S. A. R. L.\n\nO [Decreto-Lei n.º 56/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1991-508235), de 26 de Janeiro, alterou a natureza jurídica da SETENAVE - Estaleiros Navais de Setúbal, E. P., convertendo-a de pessoa colectiva de direito público em pessoa colectiva de direito privado, com o estatuto de sociedade anónima, visando dotar a empresa da flexibilidade necessária a um ritmo de modernização adequado ao quadro de livre concorrência do mercado especifico em que se insere e permitir uma integral autonomia nos campos operacional e financeiro.\n\nNos termos do [Decreto-Lei n.º 439-G/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-g-1989-546853), de 23 de Dezembro, foi adjudicada à SOLISNOR - Estaleiros Navais, S. A., mediante ajuste directo, em resultado de um processo de consulta, apreciação e selecção de propostas iniciado em 1982, envolvendo empresas nacionais e estrangeiras, a exploração, em regime de concessão, do estaleiro naval pertencente à SETENAVE - Estaleiros Navais de Setúbal, S. A., sito na Mitrena, em Setúbal.\n\nA actividade de construção e reparação naval atravessa, desde 1992, uma profunda crise em consequência de dificuldades sentidas à escala internacional no sector de transportes marítimos, afectando de forma particularmente profunda a construção e reparação de navios de maior porte, segmento para que se encontram vocacionados os dois maiores estaleiros navais portugueses: a SETENAVE - Estaleiros Navais de Setúbal, S. A. e a LISNAVE - Estaleiros Navais de Lisboa, S. A.\n\nCom vista a enfrentar esse estado de recessão, a LISNAVE - Estaleiros Navais de Lisboa, S. A., na qualidade de proprietária dos Estaleiros da Margueira e accionista da SOLISNOR - Estaleiros Navais, S. A., apresentou ao Governo, em 1992, o Projecto de Reestruturação Estratégica do Sector da Reparação Naval, com base no qual se propôs, nomeadamente, desactivar o estaleiro da Margueira e concentrar toda a actividade de reparação naval no estaleiro da Mitrena.\n\nO referido Projecto teve o apoio do Estado, que deu acordo genérico às principais linhas de orientação propostas pela LISNAVE - Estaleiros Navais de Lisboa, S. A., e determinou, por deliberação do Conselho de Ministros de 26 de Agosto de 1993 é como contrapartida ao seu apoio, que essa empresa garantisse o funcionamento auto-sustentado e a prazo da actividade de reparação naval do estaleiro da Mitrena e se dispusesse a assumir a titularidade do capital social da SETENAVE - Estaleiros Navais de Setúbal, S. A., integralmente detido pelo Estado, através de venda directa em processo de reprivatização, nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.\n\nNo âmbito do Plano de Reestruturação da Lisnave, a SOLISNOR - Estaleiros Navais, S. A., concessionária dos estaleiros da Mitrena, foi autorizada e transmitiu à Lisnave a sua posição no contrato de concessão de exploração do referido estaleiro, propriedade da SETENAVE.\n\nAtravés de protocolo de acordo de 1 de Abril de 1997, celebrado entre o Estado e o Grupo Mello, foi reconhecida a necessidade de proceder à revisão e actualização do Plano de Reestruturação da LISNAVE acima mencionado mediante, designadamente, a introdução de ajustamentos que permitam o saneamento financeiro das estruturas produtivas e a manutenção dos postos de trabalho num quadro de maior flexibilidade, tendo-se mantido, no entanto, o compromisso de privatização da SETENAVE - Estaleiros Navais de Setúbal, S. A., por ajuste directo, essencial à reestruturação em curso no sector da reparação naval.\n\nDe entre aquelas operações que ficaram acordadas no protocolo de acordo de 1 de Abril, assume especial importância a celebração, entre o Estado e a SETENAVE - Estaleiros Navais de Setúbal, S. A., de um contrato de concessão de obra pública através do qual esta se obrigará, após a sua reprivatização, em regime de BOT (built, operate and transfer), a reconstruir e explorar o estaleiro da Mitrena.\n\nAssim, no desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "ef6275eb74d37d45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovada a reprivatização, em duas fases, da totalidade do capital social da SETENAVE - Estaleiros Navais de Setúbal, S. A., doravante designada por SETENAVE, a qual será regulada pelo presente decreto-lei e pelas resoluções do Conselho de Ministros que fixarem as condições finais e concretas das operações necessárias à sua execução."
+  },
+  "987d7a8566739353": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Modalidades\n\n1 - Na 1.ª fase da reprivatização proceder-se-á à alienação, por venda directa, de um bloco indivisível de acções representativas de 95% do capital social da SETENAVE.\n\n2 - A 2.ª fase da reprivatização concretizar-se-à mediante a alienação, por oferta pública de venda reservada a trabalhadores da SETENAVE e pequenos subscritores, de acções representativas de 5% do capital social da SETENAVE.\n\n3 - O adquirente do bloco de acções a alienar na 1.ª fase da reprivatização fica obrigado a adquirir a totalidade das acções eventualmente não colocadas no âmbito da oferta pública de venda a que alude o número anterior, ao preço de aquisição das acções objecto da venda directa."
+  },
+  "23c8c7cd89b93322": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Regime de indisponibilidade das acções adquiridas no âmbito da venda directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime de indisponibilidade das acções adquiridas no âmbito da venda directa\n\n1 - As acções correspondentes a 51% do capital social da SETENAVE adquiridas no âmbito da venda directa são, em qualquer circunstância, indisponíveis por um prazo de três anos contados da data de publicação da resolução do Conselho de Ministros que identifique o adquirente, sem prejuízo do disposto no número seguinte.\n\n2 - Ficam sujeitas ao regime de indisponibilidade as acções adquiridas por força de direitos de incorporação ou no exercício de direitos de subscrição inerentes às acções referidas no número anterior.\n\n3 - Se, em caso de aumentos do capital social da SETENAVE, o mecanismo previsto no número anterior não for suficiente para garantir que acções representativas da percentagem, referida no número 1, do capital social e direitos efectivos de voto fiquem sujeitas ao regime de indisponibilidade, o adquirente obriga-se a reforçar a conta de depósito por forma que nesta, em qualquer momento, se encontrem depositadas acções representativas daquela percentagem.\n\n4 - As acções da mesma categoria sujeitas ao regime de indisponibilidade devem ser depositadas pelos respectivos titulares numa única conta de depósito."
+  },
+  "922e3086bde8999d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Regime de indisponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime de indisponibilidade\n\n1 - As acções sujeitas ao regime de indisponibilidade não poderão ser oneradas nem ser objecto de negócios jurídicos que visem a transmissão da respectiva titularidade, ainda que com eficácia futura, nomeadamente contratos-promessa e contratos de opção.\n\n2 - Não podem ser celebrados negócios pelos quais o titular das acções sujeitas ao regime de indisponibilidade se obrigue a exercer os direitos de voto inerentes às acções em determinado sentido.\n\n3 - Os direitos voto inerentes às acções sujeitas ao regime de indisponibilidade não podem ser exercidos por interposta pessoa.\n\n4 - São nulos os negócios celebrados em violação dos números anteriores, ainda que antes de iniciado o período de indisponibilidade.\n\n5 - As nulidades previstas nos números anteriores podem ser judicialmente declaradas, a requerimento do Ministério Público, sem prejuízo da sua invocação, nos termos gerais de direito, por qualquer interessado, incluindo a própria SETENAVE."
+  },
+  "7b0fa680032f71cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Venda directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Venda directa\n\nO Conselho de Ministros aprovará, mediante resolução, o caderno de encargos que fixará todas as condições da transacção, justificada pela realidade dos mercados internacionais e pela estratégia definida para o sector, designadarnente:\n\na) O número exacto de acções a alienar;\n\nb) O preço de venda dás acções;\n\nc) A situação económico-financeira em que se deverá encontrar a SETENAVE na data de venda das acções;\n\nd) As condições em que o adquirente do bloco de acções referido no n.º 1 do artigo 2.º adquirirá as acções eventualmente sobrantes da oferta pública de venda;\n\ne) As condições em que o adquirente deverá proceder ao aumento do capital social da SETENAVE após a reprivatização da empresa."
+  },
+  "6b4c3ba312bf269f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Oferta pública de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Oferta pública de venda\n\n1 - O Conselho de Ministros fixará, mediante resolução, as condições concretas aplicáveis à oferta pública de venda das acções, designadamente:\n\na) O número exacto de acções a alienar;\n\nb) As quantidades de acções reservadas para aquisição por trabalhadores da SETENAVE e pequenos subscritores;\n\nc) As quantidades mínimas e máximas de acções que podem ser adquiridas por cada pessoa ou entidade dentro das categorias de investidores referidas na alínea anterior;\n\nd) Os critérios de rateio aplicáveis;\n\ne) Os termos a que obedecerá a transferência de acções remanescentes de uma categoria para outra;\n\nf) As condições especiais aplicáveis à aquisição das acções pelos pequenos subscritores e pelos trabalhadores da SETENAVE.\n\n2 - O preço de venda a praticar na oferta pública de venda reservada a trabalhadores e pequenos subscritores será de 94% do preço de alienação a fixar para as acções objecto da venda directa.\n\n3 - O pedido de registo da oferta pública de venda deverá ser apresentado à Comissão do Mercado de Valores Mobiliários no prazo máximo de 90 dias contados da data em que tiver ocorrido a transmissão da titularidade das acções objecto da venda directa.\n\n4 - Caso, em resultado da venda directa prevista no n.º 1 do artigo 2.º ou em cumprimento da obrigação a que alude o n.º 3 do artigo 2.º, se verifique a situação prevista no artigo 490.º, n.º 1 do Código das Sociedades Comerciais:\n\na) A sociedade dominante ficará obrigada a não exercer o direito que lhe é conferido pelo número 3 do artigo 490.º do Código das Sociedades Comerciais;\n\nb) Os titulares de acções adquiridas no âmbito da oferta pública de venda não poderão, em relação às mesmas, durante 3 anos contados da data de realização da sessão especial de bolsa destinada à execução da oferta, exercer os direitos consagrados nos n.os 5 e 6 do artigo 490.º do Código das Sociedades Comerciais.\n\n5 - Para efeitos do disposto no número 2 do artigo 2.º, consideram-se trabalhadores da SETENAVE as pessoas que se encontram nas condições previstas no artigo 12.º da Lei 11/90, de 5 de Abril, em relação à SETENAVE - Estaleiros Navais de Setúbal, S. A."
+  },
+  "5b8168228b70a3a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Regime de Indisponibilidade das Acções de Trabalhadores e Pequenos Subscritores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime de Indisponibilidade das Acções de Trabalhadores e Pequenos Subscritores\n\n1 - As acções adquiridas no âmbito da oferta pública de venda serão indisponíveis durante o prazo de três meses.\n\n2 - O disposto no número anterior é também aplicável, durante o período nele previsto, às acções que venham a ser atribuídas por força da titularidade daquelas a que o mesmo número se refere.\n\n3 - O aludido prazo de indisponibilidade contar-se-á desde o dia de realização da sessão especial da bolsa destinada a apurar os resultados da oferta pública de venda.\n\n4 - Durante o prazo de indisponibilidade, as referidas acções não poderão ser oneradas nem objecto de negócios jurídicos que visem a transmissão da respectiva titularidade, ainda que com eficácia futura.\n\n5 - São nulos os negócios celebrados em violação do número anterior, ainda que antes de iniciado o período de indisponibilidade.\n\n6 - São nulos os acordos pelos quais os trabalhadores titulares de acções referidas nos n.os 1 e 2 se obriguem a votar em determinado sentido nas assembleias gerais realizadas durante o período de indisponibilidade.\n\n7 - As acções adquiridas por trabalhadores não conferem aos respectivos titulares o direito de votar em assembleia geral por interposta pessoa durante o período de indisponibilidade.\n\n8 - As acções adquiridas por pequenos subscritores não conferem direito de voto durante o período de indisponibilidade."
+  },
+  "547ee2b379305a33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Actos prévios à reprivatização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Actos prévios à reprivatização\n\nA SETENAVE, previamente às operações de venda reguladas pelo presente diploma, procederá a uma redução do seu capital social para 2 milhões de contos, destinada à cobertura de prejuízos."
+  },
+  "9327ea5d20063089": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Trabalhadores da SETENAVE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Trabalhadores da SETENAVE\n\n1 - A posição da SETENAVE nos contratos de trabalho com os trabalhadores transfere-se para a GESTENAVE - Prestação de Serviços Industriais, S. A., sociedade de capitais públicos, na data em que for celebrado o contrato de concessão de obra pública entre o Estado e a SETENAVE.\n\n2 - A transferência de trabalhadores a que alude o número anterior será efectuada sem perda de quaisquer regalias ou direitos adquiridos pelos trabalhadores, nomeadamente as relativas à categoria, à antiguidade, ao regime de duração de trabalho e à retribuição."
+  },
+  "c7c55e9f692df558": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Reversão para o domínio público marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reversão para o domínio público marítimo\n\n1 - São reafectados ao domínio público marítimo os terrenos do estuário do rio Sado identificados no Decreto-Lei n.º 330/71, de 4 de Agosto, e no Decreto-Lei n.º 341/73, de 6 de Julho, onde se encontra instalado o estaleiro naval da Mitrena.\n\n2 - A transferência da posse efectiva dos terrenos e outros bens afectos à SETENAVE tem lugar imediatamente após a entrada em vigor do presente diploma e efectua-se independentemente de quaisquer formalidades.\n\n3 - O presente diploma constitui titulo bastante para o cancelamento do registo dos terrenos mencionados no n.º 1 e de outros bens afectos, bem como de quaisquer ónus ou encargos sobre eles constituídos."
+  },
+  "7a2ce27988820699": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Isenção de taxas e emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Isenção de taxas e emolumentos\n\nAs escrituras públicas de alteração dos estatutos da SETENAVE que incluam as modificações decorrentes do disposto no presente diploma, bem como os competentes registos, ficarão isentos do pagamento de quaisquer taxas ou emolumentos."
+  },
+  "40437fb8fdbed7da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Delegação de competências\n\nPara a realização das operações de reprivatização previstas no presente decreto-lei, são delegados no Ministro das Finanças, com a faculdade de subdelegar no Secretário de Estado do Tesouro e das Finanças, os poderes bastantes para contratar a montagem e realização das operações de alienação de acções e determinar as demais condições que se afigurem convenientes."
+  },
+  "33a6f4405ef9376f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\n1 - Ficam revogadas as disposições do [Decreto-Lei n.º 56/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1991-508235), de 26 de Janeiro, em tudo o que contrariem o disposto no presente diploma.\n\n2 - O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 28 de Maio de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Augusto Carlos Serra Ventura Mateus.\n\nPromulgado em 26 de Junho de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Junho de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "abc47b4b2cca8b57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Modalidades",
+   "in_force_from": "1998-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1998-222977), publicado em 1998-01-12.",
+    "Alterado pelo/a [Decreto-Lei n.º 77/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1998-198117), publicado em 1998-03-27."
+   ],
+   "markdown": "###### Artigo 2.º — Modalidades\n\n1 - Na 1.ª fase da reprivatização proceder-se-á à alienação, por venda directa, de um bloco indivisível de 2 milhões de acções representativas de 94,97% do capital social da SETENAVE.\n\n2 - A 2.ª fase da reprivatização concretizar-se-á mediante a alienação, por oferta pública de venda reservada a trabalhadores da SETENAVE e pequenos subscritores, de acções representativas de 5,03% do capital social da SETENAVE.\n\n3 - O adquirente do bloco de acções a alienar na 1.ª fase da reprivatização fica obrigado a adquirir a totalidade das acções eventualmente não colocadas no âmbito da oferta pública de venda a que alude o número anterior, ao preço de aquisição das acções objecto da venda directa.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 5/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1998-222977), publicado em 1998-01-12.\n\n> Alterado pelo/a [Decreto-Lei n.º 77/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1998-198117), publicado em 1998-03-27."
+  },
+  "ce7202598e8c4940": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Oferta pública de venda",
+   "in_force_from": "1998-04-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 77/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1998-198117), publicado em 1998-03-27."
+   ],
+   "markdown": "###### Artigo 6.º — Oferta pública de venda\n\n1 - O Conselho de Ministros fixará, mediante resolução, as condições concretas aplicáveis à oferta pública de venda das acções, designadamente:\n\na) O número exacto de acções a alienar;\n\nb) As quantidades de acções reservadas para aquisição por trabalhadores da SETENAVE e pequenos subscritores;\n\nc) As quantidades mínimas e máximas de acções que podem ser adquiridas por cada pessoa ou entidade dentro das categorias de investidores referidas na alínea anterior;\n\nd) Os critérios de rateio aplicáveis;\n\ne) Os termos a que obedecerá a transferência de acções remanescentes de uma categoria para outra;\n\nf) As condições especiais aplicáveis à aquisição das acções pelos pequenos subscritores e pelos trabalhadores da SETENAVE.\n\n2 - O preço de venda a praticar na oferta pública de venda reservada a trabalhadores e pequenos subscritores será de 94% do preço de alienação a fixar para as acções objecto da venda directa.\n\n3 - Caso, em resultado da venda directa prevista no n.º 1 do artigo 2.º ou em cumprimento da obrigação a que alude o n.º 3 do artigo 2.º, se verifique a situação prevista no artigo 490.º, n.º 1 do Código das Sociedades Comerciais:\n\na) A sociedade dominante ficará obrigada a não exercer o direito que lhe é conferido pelo número 3 do artigo 490.º do Código das Sociedades Comerciais;\n\nb) Os titulares de acções adquiridas no âmbito da oferta pública de venda não poderão, em relação às mesmas, durante 3 anos contados da data de realização da sessão especial de bolsa destinada à execução da oferta, exercer os direitos consagrados nos n.os 5 e 6 do artigo 490.º do Código das Sociedades Comerciais.\n\n> Alterado pelo/a [Decreto-Lei n.º 77/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1998-198117), publicado em 1998-03-27."
+  },
+  "ecd18058520aa581": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Actos prévios à reprivatização",
+   "in_force_from": "1998-04-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 77/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1998-198117), publicado em 1998-03-27."
+   ],
+   "markdown": "###### Artigo 8.º — Actos prévios à reprivatização\n\nA SETENAVE, previamente às operações de venda reguladas pelo presente diploma, procederá a uma redução do seu capital social para 2,106 milhões de contos, destinada à cobertura de prejuízos.\n\n> Alterado pelo/a [Decreto-Lei n.º 77/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1998-198117), publicado em 1998-03-27."
+  }
+ }
+}

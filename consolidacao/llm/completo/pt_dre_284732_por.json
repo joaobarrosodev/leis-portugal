@@ -51,13 +51,15 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Portaria 106/2010) art. 1.º n.º 7: artigo 14.º, n.º 1 nova redação e n.º 2 revogado; restantes números (outras portarias) ignorados.",
-    "Alterador 2 (Portaria 81/2013): artigo 6.º nova redação integral; artigo 7.º n.º 1 alínea referida como c) (lapso) substituída depois pelo alterador 5; artigo 10.º n.º 1; artigo 12.º n.º 2 e novo n.º 4; artigo 13.º n.os 2 e 3; artigo 14.º n.os 1, 3, 4 e novo n.º 7 (n.º 2 mantém-se revogado); artigo 15.º alínea b) do n.º 1, novo n.º 2, anterior n.º 2 passa a n.º 3, n.º 4 novo; artigo 16.º nova redação.",
-    "Alterador 3 (Portaria 314/2013): artigo 10.º n.º 3 nova redação.",
-    "Alterador 4 (Portaria 109/2014) art. 9.º: aditado n.º 4 ao artigo 10.º; outros artigos (outras portarias) ignorados.",
-    "Alterador 5 (Portaria 129/2014): artigo 7.º n.º 1 alíneas a) a g) nova redação, corpo do n.º 1 e n.os 2 a 4 mantidos."
+    "Alt.1 (106/2010) art. 1.º n.º 7: art. 14.º n.º 1 nova redação e n.º 2 revogado (os outros números do art. 1.º alteram outras portarias: ignorados)",
+    "Alt.2 (81/2013): arts. 6.º, 10.º n.º 1, 12.º n.os 2 e 4, 13.º n.os 2 e 3, 14.º n.os 1, 3, 4, 7 (n.º 2 '...' mantém a revogação de 106/2010), 15.º (n.º 1 b), n.º 2 novo, anterior n.º 2 passa a 3, n.º 4 novo), 16.º aplicados; art. 7.º de 81/2013 (alíneas mal numeradas) substituído pela redação da 129/2014",
+    "Alt.3 (314/2013, está na lista): art. 10.º n.º 3 nova redação (31 de dezembro de 2013) - o reparo do verificador estava errado",
+    "Alt.4 (109/2014) art. 9.º: art. 10.º n.º 4 aditado; restantes artigos alteram outros regulamentos",
+    "Alt.5 (129/2014): art. 7.º n.º 1 alíneas a) a g) nova redação, corpo do n.º 1 e n.os 2 a 4 mantidos",
+    "Reparo ao art. 14.º n.º 2 rejeitado: revogado pela Portaria 106/2010 e mantido pela 81/2013"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

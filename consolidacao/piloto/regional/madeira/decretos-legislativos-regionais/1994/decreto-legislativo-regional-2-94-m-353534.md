@@ -71,11 +71,17 @@ O provimento nos quadros de zona pedagógica far-se-á por concurso anual, a abr
 
 ###### Artigo 5.º — Candidatos
 
-Podem ser opositores ao concurso referido no artigo anterior os candidatos que se encontrem numa das situações a seguir indicadas:
+Podem ser opositores ao concurso referido no artigo anterior, além dos professores já pertencentes a um dos quadros de zona pedagógica, os professores dos ensinos básico ou secundário que reúnam, cumulativamente, as seguintes condições:
 
 a) Serem professores já pertencentes a um dos quadros de zona pedagógica;
 
-b) Serem docentes contratados dos 2.º e 3.º ciclos do ensino básico ou do ensino secundário, colocados nos últimos quatro anos lectivos com habilitação profissional ou própria e que perfaçam, até 31 de Agosto do ano anterior ao da abertura do concurso, quatro ou mais anos completos de serviço docente e que tenham prestado serviço no ano lectivo anterior, no mínimo de 180 dias, em horários não inferiores a doze horas semanais.
+b) Terem obtido colocação e prestado serviço docente nos últimos dois anos lectivos;
+
+c) Terem completado, até 31 de Agosto do ano anterior ao da abertura do concurso, três ou mais anos de serviço docente;
+
+2 - Podem, ainda, ser opositores ao mesmo concurso, para efeitos de transição de nível de docência, os educadores de infância e os professores do 1.º ciclo do ensino básico que pertençam aos quadros referidos no n.º 2 do artigo 1.º, desde que possuam habilitação profissional ou própria para o nível e para o grau de ensino e grupo de docência a que se candidatam e tenham sido colocados, nos dois últimos anos lectivos, em regime de mobilidade, no referido nível e grau de ensino.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 14-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-a-2001-632385), publicado em 2001-05-28.
 
 ###### Artigo 6.º — Ordenação dos candidatos
 

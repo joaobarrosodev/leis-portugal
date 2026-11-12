@@ -4,22 +4,23 @@
     {
       "chave": "5.º",
       "epigrafe": "",
-      "texto": "1 - Os deputados à Assembleia Legislativa Regional percebem mensalmente um vencimento correspondente ao dos deputados à Assembleia da República, deduzida a percentagem de 3,5%.\n\n2 - Cada grupo parlamentar poderá ter dois vice-presidentes; mais um, caso ultrapasse o número de vinte deputados.\n\n3 - A situação dos presidentes das comissões é equiparada à dos presidentes dos grupos parlamentares e a dos secretários da mesa e a dos relatores das comissões é equiparada à dos vice-presidentes dos grupos parlamentares.\n\n4 - É proibida a acumulação de abonos por vários títulos.",
-      "alterador": 1
+      "alterador": 1,
+      "texto": "1 - Os deputados à Assembleia Legislativa Regional percebem mensalmente um vencimento correspondente ao dos deputados à Assembleia da República, deduzida a percentagem de 3,5%.\n\n2 - Cada grupo parlamentar poderá ter dois vice-presidentes; mais um, caso ultrapasse o número de vinte deputados.\n\n3 - A situação dos presidentes das comissões é equiparada à dos presidentes dos grupos parlamentares e a dos secretários da mesa e a dos relatores das comissões é equiparada à dos vice-presidentes dos grupos parlamentares.\n\n4 - É proibida a acumulação de abonos por vários títulos."
     },
     {
       "chave": "6.º",
       "epigrafe": "",
-      "texto": "1 - O critério de atribuição de ajudas de custo aos deputados à Assembleia Legislativa Regional, nos termos legais em vigor, será fixado por deliberação da Assembleia Legislativa Regional, distinguindo-se a situação dos que residam na ilha onde se realizam as reuniões ou fora dela.\n\n2 - Na contagem dos dias ter-se-á em conta, como factor correctivo, a duração exacta da deslocação dos deputados da ilha onde residam, por motivos de trabalhos do plenário, das comissões ou outras admitidas pelo Estatuto dos Deputados, derivada das contingências dos transportes na Região.",
-      "alterador": 1
+      "alterador": 1,
+      "texto": "1 - O critério de atribuição de ajudas de custo aos deputados à Assembleia Legislativa Regional, nos termos legais em vigor, será fixado por deliberação da Assembleia Legislativa Regional, distinguindo-se a situação dos que residam na ilha onde se realizam as reuniões ou fora dela.\n\n2 - Na contagem dos dias ter-se-á em conta, como factor correctivo, a duração exacta da deslocação dos deputados da ilha onde residam, por motivos de trabalhos do plenário, das comissões ou outras admitidas pelo Estatuto dos Deputados, derivada das contingências dos transportes na Região."
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DLR 18/94/A, art. 1.º: nova redação do n.º 1 do art. 5.º (n.os 2 a 4 '...' mantidos).",
-    "DLR 18/94/A, art. 1.º: nova redação do n.º 1 do art. 6.º; a instrução só transcreve o n.º 1 numerado, pelo que o n.º 2 atual se mantém.",
-    "Alterador 2 é o mesmo DLR 18/94/A repetido: mesmas instruções, já aplicadas a partir do alterador 1."
+    "Alt. 1 (DLR 18/94/A, art. 1.º): nova redacção do n.º 1 do art. 5.º (n.os 2 a 4 com '...', mantidos); aplicada.",
+    "Alt. 1: nova redacção do art. 6.º, dada como '1 - ...' (numerada), o que pressupõe que o artigo continua a ter outros números; a instrução só substitui o n.º 1 e nada diz que revogue o n.º 2, pelo que o n.º 2 atual se mantém (reparo do verificador ponderado: não há texto que elimine o n.º 2).",
+    "Alt. 2 é o mesmo DLR 18/94/A repetido: mesmas instruções, nada de novo a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -14,10 +14,11 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Artigo 12.º do DL 143/2006: além das disposições expressamente nomeadas (alínea b) do n.º 1 e n.º 3 do artigo 2.º e artigo 7.º, aplicadas), revoga o DL 6/2003 'na parte em que prevê a realização de um segundo segmento da 2.ª fase' com um 'designadamente'; essa parte residual não identifica outras disposições concretas, por isso não se aplicou a mais nenhum texto (p. ex. a referência a 'dois segmentos' no n.º 1 do artigo 2.º ou o artigo 11.º ficaram como estão).",
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Art. 12.º do DL 143/2006: a revogação genérica do DL 6/2003 'na parte em que prevê a realização de um segundo segmento da 2.ª fase' só se aplicou ao texto nas disposições que enumera expressamente (alínea b) do n.º 1 e n.º 3 do artigo 2.º e artigo 7.º); outras referências ao segundo segmento (por exemplo no proémio do n.º 1 do artigo 2.º ou no artigo 11.º) não são identificáveis com segurança e ficam como estão.",
   "instrucoes": [
-    "DL 143/2006, art. 12.º: revogação do segundo segmento da 2.ª fase, nomeando a alínea b) do n.º 1 e o n.º 3 do artigo 2.º e o artigo 7.º; apliquei: art. 2.º com b) (Revogada.) e 3 - (Revogado.), art. 7.º (Revogado.). A parte genérica ('designadamente') ficou em nao_aplicavel.",
-    "DL 143/2006, arts. 1.º a 11.º e 13.º: regime autónomo da 3.ª fase, sem alteração textual ao DL 6/2003; ignorados."
+    "DL 143/2006 art. 12.º: revoga a alínea b) do n.º 1 e o n.º 3 do art. 2.º e o art. 7.º do DL 6/2003 (enumerados expressamente) — aplicado; parte genérica 'na parte em que prevê' não aplicada além do enumerado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

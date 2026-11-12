@@ -1,0 +1,552 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:603897:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-04-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6df1aef3d6825ec3",
+    "67770f490a73fa4c",
+    "bb5cf49a0bd0ffee",
+    "36d11e6ea5fa20bd",
+    "8fda34feafbde777",
+    "5ef657677417a064",
+    "be573b9283a44f9f",
+    "b6be9fb5541965bd",
+    "98e78aa94129407a",
+    "7eaba706cc0806ff",
+    "cd5289068b093cd4",
+    "2e446be161409f97",
+    "b6316c2ba8004680",
+    "e68de820ea0f4505",
+    "f0efd2dc40a5389f",
+    "37be41208c305cca",
+    "1e170129d34706ae",
+    "396f19312606448e",
+    "ee95bcc4c218e66d",
+    "a8f99ac1a900e20a",
+    "601f53bcfc7658a0",
+    "01b4ddc2c20f4757",
+    "c4f85965edd64752",
+    "821bdecb2f6ede02",
+    "c67cd6d50353482b",
+    "acf452117e038d57",
+    "de03fbe91f7fb5a8",
+    "ed3393211e6d8f3e",
+    "558b6c280739f1e3",
+    "9cbc0e56755d7056",
+    "4ce1671f228bc8e7",
+    "84a61a88762e6222",
+    "503a9b34d7e29661",
+    "53d45a355de82739",
+    "64da4aea02db9d74"
+   ]
+  },
+  {
+   "date": "2013-01-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:588853:por",
+     "title": "Decreto Legislativo Regional n.º 3/2013/M",
+     "published": "2013-01-02",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-2013-588853"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 16.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo SECÇÃO I — Direcção"
+   ],
+   "fragments": [
+    "6df1aef3d6825ec3",
+    "67770f490a73fa4c",
+    "bb5cf49a0bd0ffee",
+    "c7772668ed2df309",
+    "8fda34feafbde777",
+    "5ef657677417a064",
+    "be573b9283a44f9f",
+    "c3a9bf013495fc78",
+    "98e78aa94129407a",
+    "5d64b273d4387898",
+    "f0afe640fca9853f",
+    "f47b728cdef91864",
+    "63486ea84ed264d1",
+    "bb14aca9c9bfab56",
+    "3c222e57d42d422b",
+    "37be41208c305cca",
+    "a9f48f83b13d702c",
+    "932759d9a2628600",
+    "ee95bcc4c218e66d",
+    "092715ea7d080f66",
+    "041cc4bca53248fa",
+    "01b4ddc2c20f4757",
+    "d62482ed47f49522",
+    "821bdecb2f6ede02",
+    "c67cd6d50353482b",
+    "acf452117e038d57",
+    "906c3f656ce2f336",
+    "ed3393211e6d8f3e",
+    "558b6c280739f1e3",
+    "694c017fd1cf69c2",
+    "4ce1671f228bc8e7",
+    "84a61a88762e6222",
+    "503a9b34d7e29661",
+    "53d45a355de82739",
+    "64da4aea02db9d74"
+   ]
+  }
+ ],
+ "fragments": {
+  "6df1aef3d6825ec3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Cria o Instituto de Emprego da Madeira, IP-RAM e extingue o Instituto Regional de Emprego\n\nO Instituto Regional de Emprego foi criado pelo [Decreto Legislativo Regional n.º 8/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2001-361910), de 5 de Abril, tendo sido definida a organização dos respectivos serviços com a publicação do [Decreto Regulamentar Regional n.º 6-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-a-2001-658035), de 10 de Maio.\n\nEntretanto, foi publicada a [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro - Lei Quadro dos Institutos Públicos -, e o [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de Novembro, que estabeleceu os princípios e normas a que devem obedecer a organização da administração directa e indirecta da Região Autónoma da Madeira.\n\nTorna-se assim necessário adaptar a orgânica do actual Instituto Regional de Emprego ao disposto nos referidos diplomas, nomeadamente com a introdução do órgão de fiscalização e com a anexação da sigla IP-RAM.\n\nNa oportunidade, é também alterada a designação deste departamento governamental com a inclusão da palavra Madeira, de modo a conseguir-se uma melhor identificação com a Região Autónoma, nomeadamente quando se trata do seu relacionamento com outros serviços de emprego nacionais ou comunitários.\n\nCom este diploma, extingue-se o Instituto Regional de Emprego e cria-se o Instituto de Emprego da Madeira, IP-RAM, que lhe sucede nas suas atribuições e competências.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 228.º da Constituição da República Portuguesa e ainda das alíneas c) e i) do n.º 1 do artigo 37.º e das alíneas n) e qq) do artigo 40.º, ambos do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, revisto e alterado pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e pela [Lei n.º 12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, o seguinte:"
+  },
+  "67770f490a73fa4c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Criação, natureza e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Criação, natureza e sede"
+  },
+  "bb5cf49a0bd0ffee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação\n\nO presente diploma cria o Instituto de Emprego da Madeira, IP-RAM, adiante designado por IEM, IP-RAM, que resulta da extinção do Instituto Regional de Emprego (IRE)."
+  },
+  "36d11e6ea5fa20bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Natureza e tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza e tutela\n\n1 - O IEM, IP-RAM é uma pessoa colectiva de direito público, dotada de personalidade jurídica, autonomia administrativa e financeira e património próprio, integrada na administração indirecta da Região Autónoma da Madeira.\n\n2 - O IEM, IP-RAM exerce a sua actividade sob a tutela da Secretaria Regional dos Recursos Humanos.\n\n3 - O IEM, IP-RAM rege-se pelas normas constantes da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, em conformidade com o disposto no artigo 29.º e seguintes do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de Novembro."
+  },
+  "8fda34feafbde777": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Sede e âmbito de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede e âmbito de actuação\n\nO IEM, IP-RAM tem a sua sede na cidade do Funchal e pode dispor de serviços locais, no território da Região Autónoma da Madeira (RAM)."
+  },
+  "5ef657677417a064": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Missão e atribuições"
+  },
+  "be573b9283a44f9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Missão\n\nO IEM, IP-RAM tem por missão a coordenação e execução da política de emprego na Região Autónoma da Madeira, promovendo a criação e a qualidade do emprego e combatendo o desemprego, através da implementação de medidas activas e da execução de acções de promoção do emprego."
+  },
+  "b6be9fb5541965bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuições\n\nSão atribuições do IEM, IP-RAM:\n\na) Promover as políticas de emprego da Região Autónoma da Madeira, contribuindo para a sua definição;\n\nb) Elaborar, executar, acompanhar e avaliar as medidas activas de emprego que sejam adequadas à execução das políticas de emprego;\n\nc) Gerir as verbas do Fundo Social Europeu atribuídas à Região e que estejam destinadas às áreas de emprego e coesão social;\n\nd) Promover o ajustamento entre a oferta e a procura de emprego, atendendo às necessidades do mercado de trabalho e às qualificações e experiência profissional dos desempregados registados;\n\ne) Proporcionar informação e orientação profissional;\n\nf) Receber os requerimentos para atribuição de prestações de desemprego e analisar a sua conformidade, nomeadamente no que respeita à involuntariedade da situação de desemprego;\n\ng) Efectuar os controlos que a lei determine em relação aos beneficiários de prestações de desemprego;\n\nh) Exercer as competências que lhe sejam atribuídas em matéria de entrada e permanência de cidadãos estrangeiros oriundos de países extracomunitários;\n\ni) Tratar e sistematizar a informação e os dados referentes ao desemprego na Região, realizando os estudos, análises e projecções necessários ao melhor acompanhamento da situação e à procura constante das soluções mais adequadas;\n\nj) Promover e apoiar o acesso à mobilidade profissional, nomeadamente no espaço europeu;\n\nl) Credenciar as cooperativas, para os efeitos previstos na legislação cooperativa, e manter actualizados os dados referentes à sua legalização e actividades;\n\nm) Colaborar com entidades do sector cooperativo, ou com ele relacionadas, na realização de acções de formação e informação, bem como promover e apoiar a realização de estudos sobre o sector cooperativo;\n\nn) Exercer as competências em matéria de licenciamento e actividade das empresas de trabalho temporário que lhe sejam atribuídas por decreto legislativo regional;\n\no) Promover actividades de carácter cultural, recreativo e desportivo, visando o aproveitamento dos tempos livres dos trabalhadores, quer através da utilização das instalações especialmente destinadas a esse efeito, nomeadamente a Zona de Lazer do Montado do Pereiro e o Parque Desportivo dos Trabalhadores, quer através da concessão de apoios a organismos vocacionados para o desenvolvimento de actividades nesta área;\n\np) Assegurar o funcionamento das instalações referidas na alínea anterior, nomeadamente em termos de manutenção e gestão dos recursos humanos, definindo também as respectivas regras e condições de utilização pelos utentes;\n\nq) Exercer todos os demais poderes e competências que lhe sejam conferidos por lei ou delegados pelo Secretário Regional da tutela."
+  },
+  "98e78aa94129407a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Órgãos, competências e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Órgãos, competências e funcionamento"
+  },
+  "7eaba706cc0806ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos\n\nSão órgãos do IEM, IP-RAM:\n\na) De direcção, o presidente coadjuvado por dois vice-presidentes;\n\nb) De fiscalização, o fiscal único."
+  },
+  "cd5289068b093cd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Estatuto\n\nO modo de funcionamento do IEM, IP-RAM, bem como as competências dos seus órgãos e serviços e a respectiva estrutura interna, constarão de estatuto a aprovar por portaria conjunta do secretário regional da tutela e dos secretários regionais que tenham a seu cargo as áreas das finanças e administração pública."
+  },
+  "2e446be161409f97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Direcção"
+  },
+  "b6316c2ba8004680": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Nomeação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Nomeação\n\n1 - O presidente e os vice-presidentes são nomeados por despacho conjunto do Presidente do Governo Regional e do Secretário Regional dos Recursos Humanos.\n\n2 - O presidente e os vice-presidentes são equiparados, respectivamente, a cargo de direcção superior de 1.º grau e de direcção superior de 2.º grau, sendo-lhes aplicável, por remissão, o Estatuto do Pessoal Dirigente da Administração Pública, nos termos do artigo 25.º-A da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, com as alterações introduzidas pelo [Decreto-Lei n.º 105/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), de 3 de Abril."
+  },
+  "e68de820ea0f4505": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competência do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência do presidente\n\n1 - Compete ao presidente do IEM, IP-RAM, ou a quem o substituir:\n\na) Representar o Instituto;\n\nb) Dirigir, coordenar e assegurar a gestão dos serviços, bem como programar as respectivas acções e zelar pelo seu bom funcionamento, com vista à prossecução das suas atribuições;\n\nc) Elaborar o orçamento anual do IEM, IP-RAM, submetê-lo à aprovação da tutela e assegurar a respectiva execução;\n\nd) Assegurar a elaboração da conta de gerência do IEM, IP-RAM e submetê-la à apreciação e aprovação das entidades competentes;\n\ne) Assegurar as condições necessárias ao exercício do controlo financeiro e orçamental pelas entidades legalmente competentes;\n\nf) Elaborar os planos de actividade, anuais e plurianuais, bem como os relatórios de actividades e o balanço social;\n\ng) Acompanhar e avaliar sistematicamente a actividade desenvolvida, designadamente responsabilizando os diferentes serviços pela utilização dos meios postos à disposição e pelos resultados atingidos;\n\nh) Exercer os poderes de direcção, gestão e disciplina do pessoal;\n\ni) Elaborar e aprovar os regulamentos internos necessários à organização e funcionamento dos serviços do IEM, IP-RAM;\n\nj) Autorizar despesas com o pessoal, com obras e aquisição de bens e serviços, nos termos da lei;\n\nl) Arrecadar e gerir as receitas e autorizar a realização das despesas necessárias ao funcionamento do IEM, IP-RAM;\n\nm) Gerir o património do IEM, IP-RAM, tomando todas as medidas necessárias para o efeito, podendo aceitar donativos, heranças e legados;\n\nn) Constituir mandatários para a prática de actos específicos, nomeadamente advogados, sempre que a lei o imponha;\n\no) Credenciar as cooperativas;\n\np) Promover medidas de modernização administrativa;\n\nq) Exercer todos os demais poderes que lhe sejam conferidos por lei, bem como pelos Estatutos, e que não sejam atribuídos a outro órgão.\n\n2 - O presidente pode delegar competências, com ou sem poderes de subdelegação, em qualquer dos vice-presidentes, ou em pessoal com funções de direcção no IEM, IP-RAM.\n\n3 - O presidente é substituído nas suas faltas e impedimentos pelo vice-presidente que, para o efeito, for por ele designado."
+  },
+  "f0efd2dc40a5389f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competência dos vice-presidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência dos vice-presidentes\n\nCompete a cada um dos vice-presidentes coadjuvar o presidente e assumir a responsabilidade pela gestão das áreas funcionais de actividade do IEM, IP-RAM que, por aquele, lhes forem delegadas."
+  },
+  "37be41208c305cca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Órgão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Órgão de fiscalização"
+  },
+  "1e170129d34706ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscal único\n\n1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do IEM, IP-RAM.\n\n2 - O fiscal único exerce um mandato de três anos, sendo nomeado de entre revisores oficiais de contas ou sociedades de revisores oficiais de contas, podendo esse mandato ser renovado uma única vez.\n\n3 - A nomeação do fiscal único, bem como a sua renovação, formalizam-se por despacho conjunto dos membros do Governo Regional que detêm as tutelas do emprego e das finanças.\n\n4 - No caso de cessação do mandato, o fiscal único mantém-se no exercício de funções até à efectiva substituição ou à declaração de cessação de funções.\n\n5 - A remuneração do fiscal único é aprovada por despacho conjunto dos membros do Governo Regional que tutelam as áreas do emprego e das finanças.\n\n6 - Ao fiscal único é aplicável o regime definido na [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, alterado pelo [Decreto-Lei n.º 105/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), de 3 de Abril."
+  },
+  "396f19312606448e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências\n\nCompete ao fiscal único:\n\na) Acompanhar e controlar com regularidade o cumprimento das leis e regulamentos aplicáveis, a execução orçamental, a situação económica, financeira e patrimonial do IEM, IP-RAM e analisar a sua contabilidade;\n\nb) Dar parecer sobre o orçamento, suas revisões e alterações, bem como sobre o plano de actividades, na perspectiva da sua cobertura orçamental;\n\nc) Dar parecer sobre o relatório de gestão de exercício e contas de gerência, incluindo documentos e certificação legal de contas;\n\nd) Elaborar relatórios da sua acção fiscalizadora, incluindo um relatório anual global;\n\ne) Emitir parecer sobre qualquer assunto que lhe seja submetido pelo presidente;\n\nf) Exercer as demais competências previstas na [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, alterada pelo [Decreto-Lei n.º 105/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), de 3 de Abril."
+  },
+  "ee95bcc4c218e66d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Património e finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Património e finanças"
+  },
+  "a8f99ac1a900e20a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Património\n\n1 - O património do IEM, IP-RAM é constituído pela universalidade dos seus bens, direitos e obrigações.\n\n2 - O IEM, IP-RAM pode aceitar doações, heranças ou legados, carecendo da competente autorização quando daí resultarem encargos para a instituição.\n\n3 - O IEM, IP-RAM pode adquirir, por compra ou locação, os bens móveis e imóveis necessários à prossecução das suas atribuições, nos termos da legislação aplicável e das orientações e determinações que, nesta matéria, forem emitidas pelo Governo Regional, nomeadamente pelo secretário regional com a tutela das finanças."
+  },
+  "601f53bcfc7658a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Princípios de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Princípios de gestão\n\nNa sua gestão financeira o IEM, IP-RAM observa os seguintes princípios:\n\na) O uso de um sistema integrado de gestão;\n\nb) Um rigoroso controlo orçamental;\n\nc) O equilíbrio financeiro;\n\nd) A gestão por objectivos."
+  },
+  "01b4ddc2c20f4757": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Instrumentos de gestão e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instrumentos de gestão e controlo\n\n1 - A actuação do IEM, IP-RAM é disciplinada pelos seguintes instrumentos de gestão e controlo:\n\na) Os planos de actividades e financeiros, anual e plurianual, bem como o relatório e conta anuais;\n\nb) O orçamento anual;\n\nc) Os relatórios anuais de actividades e financeiro;\n\nd) Os relatórios mensais de controlo orçamental.\n\n2 - O orçamento anual do IEM, IP-RAM depende de aprovação prévia dos secretários regionais com as tutelas do emprego e das finanças.\n\n3 - O relatório e contas anuais deverão ser submetidos até 31 de Março do ano seguinte àquele a que respeitam:\n\na) Ao parecer do fiscal único;\n\nb) À aprovação dos secretários regionais da tutela e das finanças;\n\nc) Ao julgamento do Tribunal de Contas."
+  },
+  "c4f85965edd64752": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Receitas\n\nConstituem receitas do IEM, IP-RAM, designadamente:\n\na) As dotações atribuídas pela União Europeia, pelo Estado e pela Região Autónoma da Madeira;\n\nb) Os rendimentos dos depósitos em instituições de crédito;\n\nc) Os reembolsos de empréstimos concedidos no âmbito dos programas de apoio à criação de emprego e as cobranças coercivas, bem como os respectivos juros e comissões;\n\nd) As comparticipações, donativos e subsídios que lhe venham a ser atribuídos por quaisquer entidades públicas ou privadas, nacionais ou estrangeiras;\n\ne) As doações, heranças e legados concedidos por entidades públicas ou privadas, nacionais ou estrangeiras;\n\nf) Os saldos das contas dos anos findos;\n\ng) O produto da venda de bens e da prestação de serviços;\n\nh) Os rendimentos de bens próprios e os provenientes da sua actividade;\n\ni) As receitas provenientes da utilização das instalações de lazer e desporto que estão sob a sua tutela;\n\nj) Quaisquer outras receitas não compreendidas nas alíneas anteriores que, por lei, acto ou contrato, lhe sejam atribuídas."
+  },
+  "821bdecb2f6ede02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Despesas\n\nConstituem despesas do IEM, IP-RAM designadamente:\n\na) Os encargos com o respectivo funcionamento e com o cumprimento das atribuições e competências que lhe estão confiadas;\n\nb) Os custos de aquisição, manutenção e conservação de bens, equipamentos e serviços que tenha de utilizar;\n\nc) Outras legalmente previstas ou permitidas."
+  },
+  "c67cd6d50353482b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Isenções\n\nO IEM, IP-RAM goza de todas as isenções reconhecidas por lei ao Estado e à Região Autónoma da Madeira."
+  },
+  "acf452117e038d57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Pessoal"
+  },
+  "de03fbe91f7fb5a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime jurídico\n\nO pessoal do IEM, IP-RAM rege-se pelas normas aplicáveis aos nomeados definitivamente e pelas normas decorrentes do regime de contrato de trabalho em funções públicas."
+  },
+  "ed3393211e6d8f3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais e transitórias"
+  },
+  "558b6c280739f1e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Sucessão\n\nO IEM, IP-RAM sucede nas atribuições, direitos e obrigações ao, ora extinto, IRE."
+  },
+  "9cbc0e56755d7056": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Estatutos e pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Estatutos e pessoal\n\n1 - Os Estatutos do IEM, IP-RAM são aprovados por portaria conjunta nos termos do disposto no artigo 7.º do presente diploma, no prazo de 60 dias a contar da data da sua entrada em vigor.\n\n2 - Até à aprovação dos Estatutos a que se refere o número anterior, manter-se-á a estrutura do extinto IRE, com as respectivas comissões de serviço e cargos dirigentes."
+  },
+  "4ce1671f228bc8e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Transição de pessoal\n\nOs trabalhadores do extinto IRE transitam para o IEM, IP-RAM, através de lista nominativa, homologada pelo Secretário Regional dos Recursos Humanos, após aprovação do respectivo Estatuto."
+  },
+  "84a61a88762e6222": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Referências legais\n\nAs referências efectuadas em qualquer diploma legal à extinta Direcção Regional dos Recursos Humanos, em matéria de emprego, e ao Instituto Regional de Emprego, consideram-se feitas ao IEM, IP-RAM."
+  },
+  "503a9b34d7e29661": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Concursos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Concursos pendentes\n\n1 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm a sua validade.\n\n2 - Os actuais estagiários prosseguem os respectivos estágios, ingressando, findos os mesmos e se neles ficarem aprovados, na categoria para que foram abertos os concursos."
+  },
+  "53d45a355de82739": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Norma revogatória\n\nÉ revogado o [Decreto Legislativo Regional n.º 8/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2001-361910), de 5 de Abril."
+  },
+  "64da4aea02db9d74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 4 de Março de 2009.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 4 de Abril de 2009.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "c7772668ed2df309": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Natureza e tutela",
+   "in_force_from": "2013-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+   ],
+   "markdown": "###### Artigo 2.º — Natureza e tutela\n\n1 - O IEM, IP-RAM é uma pessoa colectiva de direito público, dotada de personalidade jurídica, autonomia administrativa e financeira e património próprio, integrada na administração indirecta da Região Autónoma da Madeira.\n\n2 - O IEM, IP-RAM exerce a sua atividade sob tutela da Secretaria Regional dos Assuntos Sociais.\n\n3 - O IEM, IP-RAM rege-se pelas normas aplicáveis do Regime Jurídico dos Institutos Públicos.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+  },
+  "c3a9bf013495fc78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Atribuições",
+   "in_force_from": "2013-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02.",
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02.",
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+   ],
+   "markdown": "###### Artigo 5.º — Atribuições\n\nSão atribuições do IEM, IP-RAM:\n\na) Promover as políticas de emprego da Região Autónoma da Madeira, contribuindo para a sua definição;\n\nb) Elaborar, executar, acompanhar e avaliar as medidas activas de emprego que sejam adequadas à execução das políticas de emprego;\n\nc) Gerir as verbas do Fundo Social Europeu atribuídas à Região e que estejam destinadas às áreas de emprego e coesão social;\n\nd) Promover o ajustamento entre a oferta e a procura de emprego, atendendo às necessidades do mercado de trabalho e às qualificações e experiência profissional dos desempregados registados;\n\ne) Proporcionar informação e orientação profissional;\n\nf) Receber os requerimentos para atribuição de prestações de desemprego e analisar a sua conformidade, nomeadamente no que respeita à involuntariedade da situação de desemprego;\n\ng) Efectuar os controlos que a lei determine em relação aos beneficiários de prestações de desemprego;\n\nh) Exercer as competências que lhe sejam atribuídas em matéria de entrada e permanência de cidadãos estrangeiros oriundos de países extracomunitários;\n\ni) Tratar e sistematizar a informação e os dados referentes ao desemprego na Região, realizando os estudos, análises e projecções necessários ao melhor acompanhamento da situação e à procura constante das soluções mais adequadas;\n\nj) Promover e apoiar o acesso à mobilidade profissional, nomeadamente no espaço europeu;\n\nl) Credenciar as cooperativas, para os efeitos previstos na legislação cooperativa, e manter actualizados os dados referentes à sua legalização e actividades;\n\nm) Colaborar com entidades do sector cooperativo, ou com ele relacionadas, na realização de acções de formação e informação, bem como promover e apoiar a realização de estudos sobre o sector cooperativo;\n\nn) Exercer as competências em matéria de licenciamento e atividades das empresas de trabalho temporário que lhe sejam atribuídas;\n\no) (Revogada.)\n\np) (Revogada.)\n\nq) Exercer todos os demais poderes e competências que lhe sejam conferidos por lei ou delegados pelo Secretário Regional da tutela.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+  },
+  "5d64b273d4387898": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Órgãos",
+   "in_force_from": "2013-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+   ],
+   "markdown": "###### Artigo 6.º — Órgãos\n\nSão órgãos do IEM, IP-RAM:\n\na) De direção, o conselho diretivo;\n\nb) De fiscalização, o fiscal único.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+  },
+  "f0afe640fca9853f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Estatutos",
+   "in_force_from": "2013-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+   ],
+   "markdown": "###### Artigo 7.º — Estatutos\n\nA organização interna do IEM, IP-RAM é a prevista nos respetivos estatutos.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+  },
+  "f47b728cdef91864": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Conselho diretivo"
+  },
+  "63486ea84ed264d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Composição e designação",
+   "in_force_from": "2013-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+   ],
+   "markdown": "###### Artigo 8.º — Composição e designação\n\n1 - O conselho diretivo do IEM, IP-RAM é composto por um presidente, coadjuvado por dois vogais, a designar por despacho conjunto do Presidente do Governo Regional e do Secretário Regional dos Assuntos Sociais, na sequência de procedimento concursal.\n\n2 - O presidente e os vogais são equiparados respetivamente, a cargo de direção superior de 1º grau e de direção superior de 2º grau, aplicando-se o regime constante na Lei nº 3/2004, de 15 de janeiro, com as alterações introduzidas pela Lei nº 24/2012, de 9 de julho, aplicável à Região Autónoma da Madeira pelo Decreto Legislativo Regional nº 17/2007/M, 12de novembro, alterado pelo Decreto Legislativo Regional nº 24/2012/M, de 30 de agosto e subsidiariamente o Estatuto do Pessoal Dirigente da Administração Pública.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+  },
+  "bb14aca9c9bfab56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competência e funcionamento do conselho diretivo",
+   "in_force_from": "2013-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+   ],
+   "markdown": "###### Artigo 9.º — Competência e funcionamento do conselho diretivo\n\n1 - Compete ao conselho diretivo, no âmbito da orientação e gestão do IEM, IP-RAM, o seguinte:\n\na) Dirigir a respetiva atividade;\n\nb) Elaborar os planos anuais e plurianuais de atividades e assegurar a respetiva execução;\n\nc) Acompanhar e avaliar sistematicamente a atividade desenvolvida, designadamente responsabilizando os diferentes serviço pela utilização dos meios postos à sua disposição e pelos resultados atingidos;\n\nd) Elaborar o relatório de atividades;\n\ne) Elaborar o balanço social nos termos da lei aplicável;\n\nf) Exercer os poderes de direção, gestão e disciplina do pessoal;\n\ng) Praticar atos respeitantes ao pessoal previstos na lei e nos estatutos;\n\nh) Aprovar os projetos dos regulamentos previstos nos estatutos e os que sejam necessários ao desempenho das atribuições do Instituto;\n\ni) Praticar os demais atos de gestão decorrentes da aplicação dos estatutos e necessários ao bom funcionamento dos serviços;\n\nj) Nomear os representantes do Instituto em organismos exteriores;\n\nk) Exercer os poderes que lhe tenham sido delegados;\n\nl) Elaborar pareceres, estudos e informações que lhe sejam solicitados pelo membro do Governo da tutela;\n\nm) Constituir mandatários do Instituto em juízo e fora dele, incluindo o poder de substabelecer;\n\nn) Designar um secretário a quem caberá certificar atos e deliberações.\n\n2 - Compete ao conselho diretivo, no domínio da gestão financeira e patrimonial:\n\na) Elaborar o orçamento anual e assegurar a respetiva execução;\n\nb) Arrecadar e gerir as receitas e autorizar as despesas;\n\nc) Elaborar a conta de gerência;\n\nd) Gerir o património;\n\ne) Aceitar doações, heranças ou legados;\n\nf) Assegurar as condições necessárias ao exercício do controlo financeiro e orçamental pelas entidades legalmente competentes;\n\ng) Exercer os demais poderes previstos nos estatutos e que não estejam atribuídos a outro órgão.\n\n3 - O conselho diretivo pode delegar competências em qualquer dos seus membros.\n\n4 - O conselho diretivo reúne uma vez por semana e extraordinariamente sempre que o presidente o convoque, por sua iniciativa ou a solicitação da maioria dos seus membros.\n\n5 - Nas votações não há abstenções, mas podem ser proferidas declarações de voto.\n\n6 - A ata das reuniões deve ser aprovada e assinada por todos os membros presentes, mas os membros discordantes do teor da ata poderão nela exarar as respetivas declarações de voto.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+  },
+  "3c222e57d42d422b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competência do presidente do conselho diretivo",
+   "in_force_from": "2013-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+   ],
+   "markdown": "###### Artigo 10.º — Competência do presidente do conselho diretivo\n\n1 - Compete, ao presidente doconselho diretivo do IEM, IP-RAM, ou a quem o substituir:\n\na) Representar o Instituto;\n\nb) Convocar e presidir às reuniões, orientar os seus trabalhos e assegurar o cumprimento das respetivas deliberações;\n\nc) Assegurar as relações com os órgãos de tutela e com os demais organismos públicos;\n\nd) Solicitar pareceres ao órgão de fiscalização;\n\ne) Exercer as competências que lhe sejam delegadas pelo conselho diretivo.\n\n2 - O presidente do conselho diretivo pode delegar ou subdelegar, competências nos vogais.\n\n3 - O presidente do conselho diretivo é substituído nas suas faltas e impedimentos pelo vogal que para o efeito for por ele designado.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+  },
+  "a9f48f83b13d702c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Fiscal único",
+   "in_force_from": "2013-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+   ],
+   "markdown": "###### Artigo 11.º — Fiscal único\n\n1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do IEM, IP-RAM.\n\n2 - O fiscal único exerce um mandato de cinco anos e é renovável uma única vez, sendo nomeado de entre os auditores registados na Comissão de Mercado de Valores Mobiliários ou, quando tal não se mostrar adequado, de entre os revisores oficiais de contas ou sociedades de revisores oficiais de contas inscritos na respetiva lista da Ordem dos Revisores Oficiais de Contas.\n\n3 - A nomeação do fiscal único, bem como a sua renovação, formalizam-se por despacho conjunto dos membros do Governo Regional que detêm as tutelas do emprego e das finanças.\n\n4 - No caso de cessação do mandato, o fiscal único mantém-se no exercício de funções até à efectiva substituição ou à declaração de cessação de funções.\n\n5 - A remuneração do fiscal único é fixada no despacho de designação previsto no nº 3 deste artigo.\n\n6 - Ao fiscal único aplicam-se as normas do Regime Jurídico dos Institutos Públicos.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+  },
+  "932759d9a2628600": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competências",
+   "in_force_from": "2013-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+   ],
+   "markdown": "###### Artigo 12.º — Competências\n\nCompete ao fiscal único:\n\na) Acompanhar e controlar com regularidade o cumprimento das leis e regulamentos aplicáveis, a execução orçamental, a situação económica, financeira e patrimonial do IEM, IP-RAM e analisar a sua contabilidade;\n\nb) Dar parecer sobre o orçamento, suas revisões e alterações, bem como sobre o plano de actividades, na perspectiva da sua cobertura orçamental;\n\nc) Dar parecer sobre o relatório de gestão de exercício e contas de gerência, incluindo documentos e certificação legal de contas;\n\nd) Elaborar relatórios da sua acção fiscalizadora, incluindo um relatório anual global;\n\ne) Emitir parecer sobre qualquer assunto que lhe seja submetido pelo presidente do conselho diretivo;\n\nf) Exercer as demais competências previstas no Regime Jurídico dos Institutos Públicos.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+  },
+  "092715ea7d080f66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Património",
+   "in_force_from": "2013-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+   ],
+   "markdown": "###### Artigo 13.º — Património\n\n1 - O património do IEM, IP-RAM é constituído pela universalidade dos seus bens, direitos e obrigações.\n\n2 - O IEM, IP-RAM pode aceitar doações, heranças ou legados, carecendo de autorização prévia do membro do Governo da tutela.\n\n3 - O IEM, IP-RAM pode adquirir, por compra ou locação, os bens móveis e imóveis necessários à prossecução das suas atribuições, nos termos da legislação aplicável e das orientações e determinações que, nesta matéria, forem emitidas pelo Governo Regional, nomeadamente pelo secretário regional com a tutela das finanças.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+  },
+  "041cc4bca53248fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Princípios de gestão",
+   "in_force_from": "2013-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+   ],
+   "markdown": "###### Artigo 14.º — Princípios de gestão\n\nNa sua gestão financeira o IEM, IP-RAM observa os seguintes princípios:\n\na) O uso de um sistema integrado de gestão;\n\nb) Um rigoroso controlo orçamental;\n\nc) O equilíbrio financeiro;\n\nd) Prestação de um serviço aos cidadãos com a qualidade exigida por lei;\n\ne) Garantia de eficiência económica nos custos suportados e nas soluções adotadas para prestar o serviço;\n\nf) Gestão por objetivos devidamente quantificados e avaliação periódica em função dos resultados.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+  },
+  "d62482ed47f49522": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Receitas",
+   "in_force_from": "2013-01-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+   ],
+   "markdown": "###### Artigo 16.º — Receitas\n\nConstituem receitas do IEM, IP-RAM, designadamente:\n\na) As dotações atribuídas pela União Europeia, pelo Estado e pela Região Autónoma da Madeira;\n\nb) Os rendimentos dos depósitos em instituições de crédito;\n\nc) Os reembolsos de empréstimos concedidos no âmbito dos programas de apoio à criação de emprego e as cobranças coercivas, bem como os respectivos juros e comissões;\n\nd) As comparticipações, donativos e subsídios que lhe venham a ser atribuídos por quaisquer entidades públicas ou privadas, nacionais ou estrangeiras;\n\ne) As doações, heranças e legados concedidos por entidades públicas ou privadas, nacionais ou estrangeiras;\n\nf) Os saldos das contas dos anos findos;\n\ng) O produto da venda de bens e da prestação de serviços;\n\nh) Os rendimentos de bens próprios e os provenientes da sua actividade;\n\ni) (Revogada.)\n\nj) Quaisquer outras receitas não compreendidas nas alíneas anteriores que, por lei, acto ou contrato, lhe sejam atribuídas.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+  },
+  "906c3f656ce2f336": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Regime jurídico",
+   "in_force_from": "2013-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+   ],
+   "markdown": "###### Artigo 19.º — Regime jurídico\n\nO pessoal do IEM, IP-RAM rege-se pelas normas aplicáveis aos trabalhadores que exercem funções públicas.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+  },
+  "694c017fd1cf69c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Estatutos e pessoal",
+   "in_force_from": "2013-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+   ],
+   "markdown": "###### Artigo 21.º — Estatutos e pessoal\n\n1 - Os Estatutos do IEM, IP -RAM são aprovados no prazo de 60 dias a contar da data da sua entrada em vigor.\n\n2 - Até a aprovação dos Estatutos a que se refere o número anterior, mantém-se em vigor os Estatutos aprovados pela Portaria nº44/2010, de 6 de julho, com as respetivas comissões de serviço e cargos dirigentes.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02."
+  }
+ }
+}

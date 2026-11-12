@@ -56,20 +56,6 @@
     "alterador": "pt:dre:534776:por;pt:dre:373581:por"
   },
   {
-    "artigo": "2.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 2.º — Contratos de trabalho\n\n1 - Para além da situação prevista na alínea i) do n.º 3 do artigo 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, os serviços e organismos poderão celebrar contratos de trabalho nos termos previstos no [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho.\n\n2 - Para os efeitos previstos no artigo 2.º do decreto-lei referido no número anterior, serão competentes, respectivamente, a SRF e a SRAP.\n\n3 - Nos casos de contratação eventual que vise assegurar, de imediato, funções de prestação de serviços essenciais directamente ao público utente, o parecer prévio favorável da SRF e da SRAP é dispensado, ficando os serviços obrigados a comunicar às mesmas entidades, no prazo máximo de cinco dias, as razões e as condições da celebração do respectivo contrato.",
-    "depois": "###### Artigo 2.º — Contratos de trabalho\n\n1 - Para além da situação prevista na alínea i) do n.º 3 do artigo 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, os serviços e organismos poderão celebrar contratos de trabalho nos termos previstos no [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho.\n\n2 - Para os efeitos previstos no artigo 2.º do decreto-lei referido no número anterior, serão competentes, respectivamente, a SRF e a SRAP.\n\n3 - Nos casos de contratação eventual que vise assegurar, de imediato, funções de prestação de serviços essenciais directamente ao público utente, o parecer prévio favorável da SRF e da SRAP é dispensado, ficando os serviços obrigados a comunicar às mesmas entidades, no prazo máximo de cinco dias, as razões e as condições da celebração do respectivo contrato.\n\n4 - (Revogado.)\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 1/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-534776), publicado em 2005-05-09.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:421795:por",
-    "alterador": "pt:dre:534776:por;pt:dre:373581:por"
-  },
-  {
     "artigo": "14.º",
     "operacao": "substituir",
     "regra": "llm",

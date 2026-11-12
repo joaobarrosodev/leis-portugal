@@ -13,6 +13,9 @@ consolidacao:
   - id: pt:dre:249997:por
     title: Decreto Legislativo Regional n.º 5/2002/A
     publication_date: '2002-03-08'
+  - id: pt:dre:546003:por
+    title: Decreto Legislativo Regional n.º 37/2006/A
+    publication_date: '2006-10-31'
   - id: pt:dre:481970:por
     title: Decreto Legislativo Regional n.º 23/2009/A
     publication_date: '2009-12-16'
@@ -70,7 +73,7 @@ f) Construção e ou aquisição de habitação social destinada a realojamento.
 
 ###### Artigo 3.º — Definições
 
-Para efeitos do presente diploma, considera-se:
+1 - Para efeitos do presente diploma, considerando-se:
 
 a) Beneficiário - todo e qualquer indivíduo que preencha os requisitos previstos no presente diploma para ser apoiado;
 
@@ -92,7 +95,9 @@ i) [Actual alínea h).]
 
 j) [Actual alínea i).]
 
-l) [Actual alínea j).]
+l) Apoio (Ap) - valor da comparticipação financeira, arredondado para a dezena de euros imediatamente superior, calculado pela fórmula a seguir indicada, em que z e o valor padrão Vp são variáveis a serem fixadas por resolução do Governo Regional dos Açores, podendo esta última ser actualizada com base na taxa de inflação:
+
+Ap = (((Ff + Fe + Fh)/3z) + 1) x Vp
 
 m) [Actual alínea 1).]
 
@@ -100,7 +105,11 @@ n) [Actual alínea m).]
 
 o) [Actual alínea n).]
 
+2 - Nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo, o valor da comparticipação financeira resultante da aplicação da fórmula prevista na alínea l) do número anterior pode ser objecto de majoração, nos termos a definir por portaria do membro do Governo Regional com competência em matéria de habitação.
+
 > Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1998-167055), publicado em 1998-04-13.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 37/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2006-546003), publicado em 2006-10-31.
 
 ###### Artigo 4.º — Candidaturas, instrução e decisão do processo
 

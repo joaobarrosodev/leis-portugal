@@ -40,16 +40,16 @@
     {
       "chave": "7.º",
       "epigrafe": "",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nMário Soares - José Dias dos Santos Pais.\n\nPromulgado em 18 de Março de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.",
       "alterador": 1
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Lei n.º 36/2021), art. 19.º, q): revogado o Decreto-Lei n.º 57/78, 'exceto para efeitos do disposto no n.º 4 do artigo 17.º' (ressalva de aplicação transitória, não de texto); arts. 1.º a 7.º passam a '(Revogado.)'",
-    "Alterador 1, art. 17.º, n.º 4: norma transitória que mantém a possibilidade de registos - não altera o texto",
-    "Alterador 1, arts. 6.º a 16.º: alteram outros diplomas - ignorados"
+    "Art. 19.º, alínea q), da Lei 36/2021 revoga o DL 57/78 'exceto para efeitos do disposto no n.º 4 do artigo 17.º': revogação expressa e total, cuja ressalva só mantém a aplicação aos registos de associações já inscritas (não é condicional nem diferida); artigos 1.º a 7.º passam a '(Revogado.)'.",
+    "As demais normas da Lei 36/2021 alteram outros diplomas ou são regime novo: ignoradas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

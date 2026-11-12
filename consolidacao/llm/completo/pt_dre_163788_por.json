@@ -2,6 +2,12 @@
   "id": "pt:dre:163788:por",
   "artigos": [
     {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "1. A Junta Autónoma de Estradas disporá dos seguintes serviços técnicos e administrativos:\n\na) Gabinete de Estudos e Planeamento, compreendendo:\n\ni) Serviços externos, compreendendo:\n\nCircunscrições de Estradas do Norte, do Centro, de Lisboa e do Sul, com sedes, respectivamente, no Porto, em Coimbra, em Lisboa e em Évora;\n\nDirecções de estradas, com sede nas capitais de todos os distritos do continente.",
+      "alterador": 3
+    },
+    {
       "chave": "16.º",
       "epigrafe": "",
       "texto": "1. Às circunscrições de estradas compete, na área da sua jurisdição e dentro da orientação estabelecida superiormente, o exercício das atribuições necessárias à prossecução dos fins da Junta, designadamente:\n\na) Elaborar, em coordenação com os órgãos de planeamento regional, propostas de planeamento da rede rodoviária regional, tendo em conta o planeamento nacional;\n\nb) Coordenar e assegurar a gestão dos programas anuais de obras a cargo das direcções de estradas;\n\nc) Elaborar os projectos de construção e de grande reparação de estradas e outros estudos que lhes sejam atribuídos;\n\nd) Apoiar as direcções de estradas directamente responsáveis pela execução das obras;\n\ne) Gerir o parque regional de estradas.\n\n2. No parque regional de estradas constituir-se-á a reserva de máquinas da respectiva circunscrição e nele funcionará a oficina de mecânica que apoiará as oficinas distritais.",
@@ -16,13 +22,13 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 3, art. 1.º, artigo 13.º: a nova redação mantém ('...') o corpo do n.º 1, as alíneas a) a h) e o n.º 2 e substitui a alínea i), mas o texto atual do artigo 13.º só tem o corpo do n.º 1 e a alínea a) (o resto perdeu-se em títulos de divisão), pelo que não se pode reconstruir o artigo com segurança. Alteradores 1 e 2: alteram os quadros de pessoal (mapas II e III), que só vêm em imagem. Alterador 4: transfere competências e extingue a Circunscrição de Urbanização da Madeira, sem alteração textual ao original. Alterador 5: não traz texto.",
+  "nao_aplicavel": "DL 677/73 (art. 1.º) e DL 458/75 (art. 1.º) alteram os quadros de pessoal dos mapas anexos, que só vêm em imagem: não aplicados. No art. 13.º, a nova alínea i) (DL 771/76) foi aplicada, mas o texto atual do art. 13.º só traz o n.º 1 até à alínea a) (as alíneas b) a h), as listas de divisões e o n.º 2 não vêm no texto atual, vêm partidos em títulos de divisão), pelo que a alínea i) ficou a seguir à alínea a) no corpo devolvido; as alíneas b) a h) e o n.º 2 ('...') não puderam ser reproduzidos.",
   "instrucoes": [
-    "Alterador 1 (DL 677/73), art. 1.º: altera o quadro de pessoal da DGSH (mapa II, imagem) - não aplicável.",
-    "Alterador 2 (DL 458/75), art. 1.º: altera os quadros (mapas, imagem) - não aplicável; restantes artigos são autónomos.",
-    "Alterador 3 (DL 771/76), art. 1.º: nova redação dos artigos 13.º, 16.º e 17.º - 16.º e 17.º substituídos por inteiro; 13.º não aplicável (texto atual incompleto). Arts. 2.º e 3.º autónomos.",
-    "Alterador 4 (DL 365/79): regionalização na Madeira, sem alteração textual - não aplicável.",
-    "Alterador 5 (DL 183/80): sem texto - nada a aplicar."
+    "Alterador 1 (DL 677/73), art. 1.º: altera o quadro de pessoal da DGSH (mapa em imagem); não aplicado.",
+    "Alterador 2 (DL 458/75), art. 1.º: altera os quadros de pessoal (mapas em imagem); não aplicado. Restantes artigos não alteram o texto.",
+    "Alterador 3 (DL 771/76), art. 1.º: art. 13.º, n.º 1, nova alínea i) (reparo confirmado e aplicado; a)-h) e n.º 2 ficam como estão); art. 16.º e art. 17.º com nova redação integral.",
+    "Alterador 4 (DL 365/79): transfere competências para a Madeira; não altera o texto do original.",
+    "Alterador 5 (DL 183/80): sem artigos que mencionem o original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

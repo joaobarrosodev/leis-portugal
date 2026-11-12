@@ -38,10 +38,44 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-03-21'
+version_history:
+  file: decreto-lei-155-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-07-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-03-21'
+    amending: pt:dre:232887:por
+    amending_title: Decreto-Lei n.º 64/2003; Decreto-Lei n.º 52/2004
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 2.º
+    - Altera Artigo ANEXO — Estatutos da sociedade anónima::3.º
+    - Altera Artigo ANEXO — Estatutos da sociedade anónima::2.º
+    - Altera Artigo ANEXO — Estatutos da sociedade anónima::4.º
+    - Altera Artigo ANEXO — Estatutos da sociedade anónima::5.º
+    - Altera Artigo ANEXO — Estatutos da sociedade anónima::6.º
+    - Altera Artigo ANEXO — Estatutos da sociedade anónima::7.º
+    - Altera Artigo ANEXO — Estatutos da sociedade anónima::10.º
+    - Altera Artigo ANEXO — Estatutos da sociedade anónima::11.º
+    - Altera Artigo ANEXO — Estatutos da sociedade anónima::12.º
+    - Altera Artigo ANEXO — Estatutos da sociedade anónima::13.º
+    - Altera Artigo ANEXO — Estatutos da sociedade anónima::14.º
+    - Altera Artigo ANEXO — Estatutos da sociedade anónima::15.º
+    - Altera Artigo ANEXO — Estatutos da sociedade anónima::16.º
+    - Altera Artigo ANEXO — Estatutos da sociedade anónima::17.º
+    - Revoga Artigo ANEXO — Estatutos da sociedade anónima::18.º
+    - Altera Artigo SECÇÃO II — Direcção
+    - Altera Artigo SECÇÃO III — Conselho geral
+    - Revoga Artigo SECÇÃO III — Fiscalização da sociedade
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/155/2000/07/22/p/dre/pt/html
@@ -67,7 +101,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:17:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 64/2003; Decreto-Lei
+    n.º 52/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-155-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,11 +181,13 @@ a) Definir, em coordenação com as autoridades militares, o quadro de parâmetr
 
 b) Definir, em coordenação com as autoridades militares, as infra-estruturas necessárias à futura utilização da Base Aérea de Beja como aeroporto civil e formular a sua certificação;
 
-c) Promover os estudos e projectos e realizar o conjunto de investimentos necessários à concretização do disposto na alínea b);
+c) Requerer, na qualidade de entidade expropriante, a declaração de utilidade pública da expropriação dos imóveis e direitos a eles inerentes indispensáveis à utilização da Base Aérea de Beja para fins civis, nos termos previstos no respectivo Código das Expropriações;
 
-d) Propor ao Governo instrumentos jurídicos adequados à reserva das áreas que sejam necessárias à viabilização do referido projecto;
+d) Promover os estudos e projectos e realizar o conjunto de investimentos necessários à concretização do disposto na alínea b);
 
-e) Promover a utilização do aeroporto junto de potenciais interessados, procedendo ao lançamento das acções requeridas para obtenção de propostas concretas e firmes de utilização da Base Aérea de Beja para fins civis, no quadro de uma ou várias concessões, das quais constem, pelo menos, os seguintes aspectos:
+e) Propor ao Governo instrumentos jurídicos adequados à reserva das áreas que sejam necessárias à viabilização do referido projecto;
+
+f) Promover a utilização do aeroporto junto de potenciais interessados, procedendo ao lançamento das acções requeridas para obtenção de propostas concretas e firmes de utilização da Base Aérea de Beja para fins civis, no quadro de uma ou várias concessões, das quais constem, pelo menos, os seguintes aspectos:
 
 i) Montante de participação no volume de investimentos requeridos;
 
@@ -158,9 +195,11 @@ ii) Condições de utilização das infra-estruturas;
 
 iii) Contrapartidas a pagar ao concedente;
 
-f) Elaborar proposta consolidada da viabilidade técnica, económica e financeira do projecto, no quadro de uma futura concessão;
+g) Elaborar proposta consolidada da viabilidade técnica, económica e financeira do projecto, no quadro de uma futura concessão;
 
-g) Propor ao Governo, para decisão, dentro do prazo de um ano contado da data de constituição da sociedade, o modelo de concretização e funcionamento do projecto do aeroporto civil de Beja.
+h) Propor ao Governo, para decisão, dentro do prazo de um ano contado da data de constituição da sociedade, o modelo de concretização e funcionamento do projecto do aeroporto civil de Beja.
+
+> Alterado pelo/a [Decreto-Lei n.º 52/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2004-539816), publicado em 2004-03-16.
 
 ###### Artigo 3.º
 
@@ -176,11 +215,17 @@ Demonstrada a viabilidade técnica, económica e financeira do projecto, será a
 
 ###### Artigo 5.º
 
-O capital social é de 500000 euros, representado por 500000 acções com o valor nominal de 1 euro cada.
+1 - O capital social é de (euro) 2000000, representado por 2000000 de acções, com o valor nominal de (euro) 1 cada.
+
+2 - Qualquer alteração do capital social realiza-se nos termos da lei comercial.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
 
 ###### Artigo 6.º
 
-São órgãos da sociedade a assembleia geral, a direcção, o conselho geral e o revisor oficial de contas, com as competências fixadas na lei e nos estatutos.
+São órgãos da sociedade a assembleia geral, o conselho de administração e o fiscal único, com as competências fixadas na lei e nos estatutos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
 
 Visto e aprovado em Conselho de Ministros de 25 de Maio de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Elisa Maria da Costa Guimarães Ferreira.
 
@@ -206,7 +251,9 @@ A sociedade adopta o tipo de sociedade anónima, com a firma EDAB - Empresa de D
 
 1 - A sede da sociedade é na Rua da Cidade de São Paulo, freguesia de São João Baptista, concelho de Beja.
 
-2 - Por deliberação da direcção, poderá a sociedade criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação, bem como poderá ser mudada a sede social para outro local sito no mesmo município ou em município limítrofe.
+2 - Por deliberação do conselho de administração, pode a sociedade criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação, bem como pode mudar a sede social para outro local sito no mesmo município ou em município limítrofe.
+
+> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
 
 ###### Artigo 3.º — Objecto
 
@@ -218,11 +265,13 @@ a) Definir, em coordenação com as autoridades militares, o quadro de parâmetr
 
 b) Definir, em coordenação com as autoridades militares, as infra-estruturas necessárias à futura utilização da Base Aérea de Beja como aeroporto civil, com vista à sua certificação;
 
-c) Promover os estudos e projectos e realizar o conjunto de investimentos necessários à concretização do disposto na alínea b);
+c) Requerer, na qualidade de entidade expropriante, a declaração de utilidade pública da expropriação dos imóveis e direitos a eles inerentes indispensáveis à utilização da Base Aérea de Beja para fins civis, nos termos previstos no respectivo Código das Expropriações;
 
-d) Propor ao Governo instrumentos jurídicos adequados à reserva das áreas que sejam necessárias à viabilização do referido projecto;
+d) Promover os estudos e projectos e realizar o conjunto de investimentos necessários à concretização do disposto na alínea b);
 
-e) Promover a utilização do aeroporto junto de potenciais interessados, procedendo ao lançamento das acções requeridas para obtenção de propostas concretas e firmes de utilização da Base Aérea de Beja para fins civis, no quadro de uma ou várias concessões, das quais constem, pelo menos, os seguintes aspectos:
+e) Propor ao Governo instrumentos jurídicos adequados à reserva das áreas que sejam necessárias à viabilização do referido projecto;
+
+f) Promover a utilização do aeroporto junto de potenciais interessados, procedendo ao lançamento das acções requeridas para obtenção de propostas concretas e firmes de utilização da Base Aérea de Beja para fins civis, no quadro de uma ou várias concessões, das quais constem, pelo menos, os seguintes aspectos:
 
 i) Montante de participação no volume de investimentos requeridos;
 
@@ -230,45 +279,51 @@ ii) Condições de utilização das infra-estruturas;
 
 iii) Contrapartidas a pagar ao concedente;
 
-f) Elaborar proposta consolidada da viabilidade técnica, económica e financeira do projecto no quadro de uma futura concessão;
+g) Elaborar proposta consolidada da viabilidade técnica, económica e financeira do projecto no quadro de uma futura concessão;
 
-g) Propor ao Governo, para decisão, dentro do prazo de um ano contado da data de constituição da sociedade, o modelo de concretização e funcionamento do projecto do aeroporto civil de Beja.
+h) Propor ao Governo, para decisão, dentro do prazo de um ano contado da data de constituição da sociedade, o modelo de concretização e funcionamento do projecto do aeroporto civil de Beja.
+
+> Alterado pelo/a [Decreto-Lei n.º 52/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2004-539816), publicado em 2004-03-16.
 
 ### CAPÍTULO II — Capital social e acções
 
 ###### Artigo 4.º — Capital e acções
 
-1 - O capital social, no montante de 500000 euros, é representado por 500000 acções, repartidas da seguinte forma pelos respectivos accionistas:
+1 - O capital social, no montante de (euro) 2000000, é representado por 2000000 de acções, repartidas da seguinte forma pelos respectivos accionistas:
 
 ... Acções
 
-Direcção-Geral do Tesouro ... 100000
+Direcção-Geral do Tesouro ... 1550000
 
-Associação de Municípios do Distrito de Beja ... 150000
+Associação de Municípios do Distrito de Beja ... 200000
 
-NERBE - Núcleo Empesarial da Região de Beja ... 50000
+NERBE - Núcleo Empresarial da Região de Beja ... 50000
 
-EDIA - Empresa de Desenvolvimento e Infra-estruturas do Alqueva, S. A. ... 50000
+EDIA - Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A. ... 50000
 
 CCRA - Comissão de Coordenação da Região do Alentejo ... 50000
 
-PGS - Promoção, Gestão de Áreas Industriais e Serviços ... 50000
+PGS - Promoção, Gestão de Áreas Industriais e Serviços, S. A. ... 50000
 
-APS - Administração do Porto de Sines ... 50000
+APS - Administração do Porto de Sines, S. A. ... 50000
 
 2 - Haverá titulares de 1, 5, 10, 50, 100, 1000 e múltiplos de 1000 acções.
+
+> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
 
 ### CAPÍTULO III — Órgãos sociais
 
 ###### Artigo 5.º — Órgãos sociais
 
-1 - São órgãos sociais a assembleia geral, a direcção, o conselho geral e o revisor oficial de contas.
+1 - São órgãos sociais a assembleia geral, o conselho de administração e o fiscal único.
 
-2 - O mandato dos membros da mesa da assembleia geral, dos directores e dos membros do conselho geral tem a duração de quatro anos, sendo permitida a sua renovação por uma ou mais vezes.
+2 - O mandato dos membros da mesa da assembleia geral e do conselho de administração tem a duração de quatro anos e o mandato do fiscal único a duração de três anos, sendo permitida a sua renovação por uma ou mais vezes.
 
 3 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no desempenho das suas funções até à eleição de quem deva substituí-los.
 
 4 - Os referidos titulares estão dispensados de prestar caução pelo exercício dos seus cargos.
+
+> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
 
 #### SECÇÃO I — Assembleia geral
 
@@ -276,17 +331,19 @@ APS - Administração do Porto de Sines ... 50000
 
 1 - A assembleia geral é formada pelos accionistas.
 
-2 - Deverão participar nos trabalhos da assembleia geral, sem direito a voto, os membros da direcção e do conselho geral e o revisor oficial de contas.
+2 - Devem participar nos trabalhos da assembleia geral, sem direito a voto, o conselho de administração e o fiscal único.
+
+> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
 
 ###### Artigo 7.º — Competência
 
-1 - Compete à assembleia geral:
+1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei ou os presentes estatutos lhe atribuam competência, nomeadamente:
 
-a) Deliberar sobre o relatório anual do conselho geral;
+a) Apreciar o relatório do conselho de administração, discutir e votar o balanço, as contas, o relatório e o parecer do fiscal único e deliberar sobre a aplicação dos resultados do exercício;
 
-b) Eleger a mesa da assembleia geral e designar os membros do conselho geral;
+b) Eleger e exonerar os membros da mesa da assembleia geral, do conselho de administração e o fiscal único;
 
-c) Proceder à apreciação geral da administração e fiscalização da sociedade;
+c) Aprovar o orçamento de exploração e de investimento anual;
 
 d) Deliberar sobre quaisquer alterações dos estatutos e aumentos de capital, sem prejuízo do n.º 2;
 
@@ -300,6 +357,8 @@ h) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 2 - As deliberações que importem alterações aos estatutos só poderão ser aprovadas com o voto concordante do accionista Estado.
 
+> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
+
 ###### Artigo 8.º — Mesa
 
 1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.
@@ -312,15 +371,19 @@ h) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 A convocação da assembleia geral faz-se mediante carta registada ou publicação com a antecedência mínima de 30 dias.
 
-#### SECÇÃO II — Direcção
+#### SECÇÃO II — Conselho de administração
 
 ###### Artigo 10.º — Composição
 
-A direcção é composta por três directores.
+1 - O conselho de administração é composto por um presidente e dois vogais.
 
-###### Artigo 11.º — Competência
+2 - Nas suas faltas ou impedimentos, o presidente do conselho de administração é substituído pelo vogal por si designado para o efeito.
 
-Compete, designadamente, à direcção:
+> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
+
+###### Artigo 11.º — Competência do conselho de administração
+
+Compete, designadamente, ao conselho de administração:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações respeitantes ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -336,58 +399,74 @@ f) Contrair financiamentos e prestar garantias;
 
 g) Nomear mandatários.
 
+> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
+
 ###### Artigo 12.º — Vinculação da sociedade
 
 1 - A sociedade obriga-se:
 
-a) Pela assinatura de dois directores, sendo uma delas a do presidente;
+a) Pela assinatura de dois membros do conselho de administração, sendo uma delas a do presidente ou de quem o substitua;
 
-b) Pela assinatura de um procurador ou procuradores, dentro dos limites do respectivo mandato.
+b) Pela assinatura de um vogal, quando haja delegação expressa do conselho para a prática de um determinado acto;
 
-2 - Em assuntos de mero expediente basta a assinatura de um director.
+c) Pela assinatura de um procurador ou procuradores, dentro dos limites do respectivo mandato.
 
-#### SECÇÃO III — Conselho geral
+2 - Em assuntos de mero expediente basta a assinatura de um membro do conselho de administração.
 
-###### Artigo 13.º — Composição
+> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
 
-O conselho geral é composto por nove membros, incluindo obrigatoriamente um representante da Direcção-Geral do Tesouro, o presidente da Câmara Municipal de Beja e o presidente do NERBE.
+#### SECÇÃO III — Fiscal único
 
-###### Artigo 14.º — Competências
+###### Artigo 13.º — Competência do presidente do conselho de administração
 
-Compete, designadamente, ao conselho geral:
+1 - Compete ao presidente do conselho de administração a coordenação e orientação geral das actividades do conselho e, em especial:
 
-a) Designar o director que assumirá as funções de presidente e destituí-lo;
+a) Convocar o conselho de administração, fixar a agenda dos trabalhos e presidir às respectivas reuniões;
 
-b) Nomear e destituir os directores;
+b) Representar o conselho em juízo e fora dele, sem prejuízo de outros representantes ou mandatários poderem ser designados para o efeito.
 
-c) Fiscalizar os actos da direcção;
+2 - Sempre que o exijam circunstâncias excepcionais e urgentes e não seja possível reunir o conselho, o presidente pode praticar quaisquer actos da competência deste, mas tais actos ficam sujeitos a ratificação na primeira reunião realizada após a sua prática.
 
-d) Verificar, sempre que o entenda, a regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte, assim como a situação de quaisquer bens ou valores possuídos pela sociedade a qualquer título;
+> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
 
-e) Aprovar o relatório e as contas elaborados pela direcção;
+###### Artigo 14.º — Funcionamento do conselho de administração
 
-f) Elaborar anualmente um relatório sobre a sua actividade e apresentá-lo à assembleia geral;
+1 - O conselho de administração reúne ordinariamente uma vez por semana e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou mediante solicitação de dois dos seus membros.
 
-g) Convocar a assembleia geral, quando o entenda conveniente.
+2 - O conselho de administração só pode deliberar quando estiver presente a maioria dos seus membros.
 
-###### Artigo 15.º — Funcionamento
+3 - As deliberações são tomadas por maioria absoluta dos votos expressos, gozando o presidente, ou quem o substituir, de voto de qualidade.
 
-O conselho geral reúne ordinariamente com uma periodicidade bimensal.
+4 - As deliberações do conselho de administração são registadas em acta, assinada pelos membros presentes na reunião.
 
-###### Artigo 16.º — Remuneração
+> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
 
-Os membros do conselho geral podem ser remunerados por senhas de presença, nos termos e condições fixados pela assembleia geral.
+###### Artigo 15.º — Fiscalização
 
-#### SECÇÃO III — Fiscalização da sociedade
+A fiscalização da actividade social e o exame das contas da sociedade são exercidas por um fiscal único, que deve ser revisor oficial de contas, eleito em assembleia geral.
 
-###### Artigo 17.º — Revisor oficial de contas
+> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
 
-O revisor oficial de contas deve ser obrigatoriamente uma sociedade de revisores oficiais de contas de reconhecida reputação e idoneidade.
+###### Artigo 16.º — Competência do fiscal único
 
-### CAPÍTULO IV — Disposições finais
+Sem prejuízo das competências fixadas na lei geral, cabe, em especial, ao fiscal único:
 
-###### Artigo 18.º — Dissolução e liquidação
+a) Examinar, sempre que o julgue conveniente e, pelo menos, uma vez por mês, a escrituração da sociedade;
+
+b) Emitir parecer sobre o orçamento, o balanço, o inventário e as contas anuais;
+
+c) Solicitar ao conselho de administração a apreciação de qualquer assunto que entenda dever ser ponderado;
+
+d) Pronunciar-se sobre qualquer matéria que lhe seja submetida pelo conselho de administração.
+
+> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
+
+###### Artigo 17.º — Dissolução e liquidação
 
 1 - A sociedade dissolve-se nos casos previstos na lei.
 
 2 - A liquidação da sociedade rege-se pelas disposições da lei e pelas deliberações da assembleia geral.
+
+> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
+
+### CAPÍTULO IV — Disposições finais

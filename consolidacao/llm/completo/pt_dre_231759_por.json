@@ -15,11 +15,13 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "N.º 1 do Despacho Normativo n.º 6/2023: a remissão geral de todas as referências ao IPA para a DGPC não é uma alteração textual; o texto mantém 'IPA'.",
+  "titulos": [],
+  "nao_aplicavel": "N.º 1 do Despacho Normativo n.º 6/2023: a determinação de que todas as referências ao então Instituto Português de Arqueologia (IPA) se consideram efetuadas à Direção-Geral do Património Cultural é uma regra interpretativa, não uma substituição textual; o texto dos artigos mantém 'Instituto Português de Arqueologia' e 'IPA'.",
   "instrucoes": [
-    "N.º 1: referências ao IPA consideradas feitas à DGPC - remissão geral, não aplicada ao texto",
-    "N.º 2: nova redação do n.º 2 do artigo 1.º - aplicada",
-    "N.º 3: nova redação do corpo do n.º 1 do artigo 9.º - aplicada, alíneas mantidas"
+    "N.º 1: referências ao IPA consideradas feitas à DGPC - regra interpretativa, não aplicada ao texto (nao_aplicavel).",
+    "N.º 2: nova redação do n.º 2 do artigo 1.º - aplicada.",
+    "N.º 3: nova redação do corpo do n.º 1 do artigo 9.º - aplicada, mantendo as alíneas a) a h) e os n.os 2 e 3.",
+    "N.º 4: entrada em vigor - sem efeito no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

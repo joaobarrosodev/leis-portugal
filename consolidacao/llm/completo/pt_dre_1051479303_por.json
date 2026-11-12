@@ -42,19 +42,18 @@
   "titulos": [
     {
       "atual": "##### Divisão de Património e Planeamento de Instalações",
-      "novo": "##### Divisão de Planeamento e Infraestruturas",
+      "novo": null,
       "alterador": 1
     }
   ],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Arts. 1.º e 2.º do Despacho 9239/2026 (revogação do Despacho 8911/2026 e repristinação do original), 5.º e 6.º (extinção do COG SIRESP e da DPPI) e 8.º (produção de efeitos) não alteram texto do original.",
   "instrucoes": [
-    "Alt. 1, art. 1.º e 2.º: revogação do Despacho n.º 8911/2026 e repristinação do original; não alteram o texto do original.",
-    "Alt. 1, art. 3.º: nova redação dos artigos 1.º (epígrafe nova; alíneas l) e m) substituídas, resto mantido pelo [...]), 18.º (epígrafe e corpo novos), 19.º (alínea h) substituída e aditada a alínea i)) e 23.º (corpo novo com 3 números). Aplicado.",
-    "Título de divisão que precede o art. 18.º (a sua epígrafe 'Divisão de Património e Planeamento de Instalações') passa a 'Divisão de Planeamento e Infraestruturas', de acordo com a nova epígrafe do art. 18.º.",
-    "Alt. 1, art. 4.º: aditado o artigo 18.º-A (Divisão de Património). Aplicado.",
-    "Alt. 1, art. 5.º e 6.º: extinção do COG SIRESP e da Divisão de Património e Planeamento de Instalações; normas autónomas cujo efeito textual resulta dos arts. 3.º e 7.º.",
-    "Alt. 1, art. 7.º: revogado o artigo 17.º. Aplicado como (Revogado.).",
-    "Alt. 1, art. 8.º: produção de efeitos; não altera o texto."
+    "Art. 3.º: art. 1.º com nova epígrafe ('equipas multidisciplinares' em minúsculas) e novas alíneas l) DPI e m) DP; restantes alíneas mantidas.",
+    "Art. 3.º: art. 18.º substituído por inteiro (DPI); o título de divisão antigo da DPPI, que servia de epígrafe ao 18.º, é eliminado para não duplicar o texto antigo (reparo do verificador confirmado: DPPI extinta pelo art. 6.º).",
+    "Art. 3.º: art. 19.º com a) a g) mantidas, nova h) (SIRESP) e antiga h) passa a i).",
+    "Art. 3.º: art. 23.º com nova redação em 3 números.",
+    "Art. 4.º: aditado art. 18.º-A (Divisão de Património).",
+    "Art. 7.º: revogado o art. 17.º (COG SIRESP)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

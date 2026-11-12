@@ -39,10 +39,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-01-01'
+version_history:
+  file: decreto-lei-335-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-10-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: pt:dre:656819:por
+    amending_title: Decreto-Lei n.º 45/93; Decreto-Lei n.º 465/99; Lei n.º 53-A/2006
+    changes:
+    - Revoga Artigo 1.º
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Revoga Artigo 4.º
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:03:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 45/93; Decreto-Lei
+    n.º 465/99; Lei n.º 53-A/2006. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-335-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,11 +199,17 @@ a) Tenham exercido nos territórios das ex-colónias portuguesas actividade prof
 
 b) Não recebam dos novos Estados de expressão oficial portuguesa a protecção social correspondente aos períodos contributivos verificados;
 
-c) Residam em Portugal;
+c) Residam ou não em Portugal.
 
-d) Não sejam pensionistas de qualquer regime de protecção social de inscrição obrigatória.
+d) (Revogada.)
 
 2 - O direito a que se refere o número anterior apenas engloba os períodos contributivos verificados em caixas de previdência de inscrição obrigatória, cujo esquema de benefícios incluísse a atribuição de pensões e em relação aos quais não se tenha verificado reembolso de contribuições.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 45/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1993-656819), publicado em 1993-02-20.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 465/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1999-693814), publicado em 1999-11-05.
+
+> Alterado pelo/a [Decreto-Lei n.º 465/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1999-693814), publicado em 1999-11-05.
 
 ###### Artigo 2.º — Objectivos
 
@@ -194,19 +221,21 @@ b) O registo de contribuições na carreira do beneficiário, por forma a comple
 
 ###### Artigo 3.º — Requerimento
 
-A abertura do processo para o reconhecimento dos períodos contributivos em questão depende da apresentação de requerimento do interessado instruído com:
+A abertura do processo para reconhecimento dos períodos contributivos em questão depende da apresentação de requerimento do interessado, devidamente instruído com:
 
-a) Documentos que constituam meio de prova legal da sua identificação e residência;
+a) Documentos que constituem meio de prova legal da sua identificação;
 
 b) Documento que constitua meio de prova dos períodos contributivos cujo reconhecimento se pretende e de que não lhe está a ser atribuída a protecção social correspondente à carreira contributiva verificada nas ex-colónias;
 
 c) Documento que constitua meio de prova de que a atribuição de pensões integrava o esquema de benefícios da caixa de previdência de inscrição obrigatória em causa.
 
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 465/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1999-693814), publicado em 1999-11-05.
+
 ###### Artigo 4.º — Prazo para apresentação do requerimento
 
-1 - O direito ao reconhecimento dos períodos contributivos caduca se não for requerido, nos termos do presente diploma, no prazo de três anos a contar da data da sua entrada em vigor.
+(Revogado.)
 
-2 - Para os efeitos do número anterior, o requerimento deve encontrar-se devidamente instruído.
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 465/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1999-693814), publicado em 1999-11-05.
 
 ###### Artigo 5.º — Provas
 
@@ -218,7 +247,11 @@ c) Documento que constitua meio de prova de que a atribuição de pensões integ
 
 ###### Artigo 6.º — Instituição competente
 
-O requerimento deve ser apresentado na instituição que, à sua data, abranja o interessado, se o mesmo for beneficiário activo da Segurança Social, ou, caso contrário, no centro regional da área da sua residência, cabendo a decisão final do processo de reconhecimento ao respectivo órgão directivo.
+1 - O requerimento deve ser apresentado na instituição que, à sua data, abranja o interessado, se o mesmo for beneficiário activo da Segurança Social, ou, caso contrário, no centro regional da área da sua residência, cabendo a decisão final do processo de reconhecimento ao respectivo órgão directivo.
+
+2 - No caso de o interessado não residir em território nacional, a instituição competente para os efeitos do presente diploma é o Centro Regional de Segurança Social de Lisboa e Vale do Tejo.
+
+> Alterado pelo/a [Decreto-Lei n.º 465/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1999-693814), publicado em 1999-11-05.
 
 ###### Artigo 7.º — Efeitos
 
@@ -230,7 +263,9 @@ O requerimento deve ser apresentado na instituição que, à sua data, abranja o
 
 ###### Artigo 8.º — Financiamento
 
-Os encargos com as prestações originadas com o reconhecimento a que se refere o presente diploma são suportados pela verba «Encargos com a descolonização» do Ministério das Finanças, o qual transfere, anualmente, para o Instituto de Gestão Financeira da Segurança Social as verbas necessárias, nos termos a estabelecer por despacho conjunto dos membros do Governo responsáveis pelas áreas do Orçamento e da Segurança Social.
+Os encargos com as prestações originadas com o reconhecimento a que se refere o presente decreto-lei são suportados pela Direcção-Geral do Tesouro, através do capítulo 60 do Ministério das Finanças e da Administração Pública, a qual transfere, anualmente, para o Instituto de Gestão Financeira da Segurança Social as verbas necessárias.
+
+> Alterado pelo/a [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), publicado em 2006-12-29.
 
 ###### Artigo 9.º — Vigência
 

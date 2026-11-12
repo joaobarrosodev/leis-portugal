@@ -15,12 +15,11 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Artigo 3.º da Portaria n.º 112/2015: as referências à DGADR consideram-se feitas à DGAV; é uma regra de remissão, não uma alteração textual, por isso o texto dos artigos 4.º (n.º 2) e 6.º (alínea c)) fica com «DGADR».",
+  "titulos": [],
+  "nao_aplicavel": "Portaria n.º 112/2015, art. 3.º: as referências à DGADR na Portaria n.º 13/2012 'consideram-se efetuadas' à DGAV — regra interpretativa, não é alteração textual; o texto dos arts. 4.º, n.º 2, e 6.º, alínea c), mantém 'DGADR' (só o n.º 3 do art. 2.º passa a DGAV porque a nova redação o diz). Art. 4.º da Portaria 112/2015 (aplicação no tempo) não altera o texto.",
   "instrucoes": [
-    "Alterador 1, art. 2.º: nova redação do artigo 2.º (epígrafe [...] mantida; n.os 1 e 3 novos; n.º 2 [...] mantido do texto atual) — aplicado.",
-    "Alterador 1, art. 2.º: nova redação do artigo 7.º (epígrafe [...] mantida) — aplicado.",
-    "Alterador 1, art. 3.º: referências à DGADR consideram-se feitas à DGAV — regra de remissão não textual, não aplicada (ver nao_aplicavel).",
-    "Alterador 1, art. 4.º: aplicação no tempo — norma própria do alterador, não altera o original."
+    "Portaria 112/2015 art. 2.º: nova redação do art. 2.º (n.os 1 e 3 substituídos, n.º 2 '[...]' mantido) e do art. 7.º — aplicado",
+    "Portaria 112/2015 art. 3.º: referências DGADR consideradas feitas à DGAV — remissão interpretativa, não aplicada ao texto (nao_aplicavel); reparo do verificador confirmado como não textual"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

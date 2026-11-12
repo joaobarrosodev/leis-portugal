@@ -2,6 +2,30 @@
   "id": "pt:dre:489989:por",
   "artigos": [
     {
+      "chave": "1.º#2",
+      "epigrafe": "Natureza e sede",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º#2",
+      "epigrafe": "Âmbito",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º#2",
+      "epigrafe": "Atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º#2",
+      "epigrafe": "Representação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
       "chave": "5.º",
       "epigrafe": "Requisição de documentos",
       "texto": "(Revogado.)",
@@ -705,10 +729,11 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alt.1 art. 2.º revoga o Estatuto da Câmara dos Solicitadores aprovado pelo original (artigos 1.º a 121.º do Estatuto). As chaves 1.º a 4.º do Estatuto coincidem com as dos artigos 1.º a 4.º do decreto-lei, que não são revogados; alvo ambíguo, pelo que esses quatro artigos do Estatuto não foram marcados como revogados. O art. 4.º, n.º 10, do alterador mantém transitoriamente normas do original (sem alteração textual).",
+  "titulos": [],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alt.1 art. 2.º: revogação do Estatuto; artigos 5.º a 121.º do Estatuto marcados (Revogado.); 1.º a 4.º não marcados por ambiguidade de chave com o articulado do decreto-lei.",
-    "Alt.1 art. 4.º: regime transitório, sem alteração textual."
+    "DL 88/2003 art. 2.º: revoga o Estatuto da Câmara dos Solicitadores aprovado pelo DL 8/99: os 121 artigos do Estatuto (1.º#2 a 121.º) ficam '(Revogado.)'; os artigos 1.º a 4.º do decreto-lei mantêm-se; títulos de divisão não alterados.",
+    "DL 88/2003 art. 4.º n.º 10: mantém transitoriamente normas do DL 8/99 necessárias ao regime transitório — não altera o texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -15,10 +15,10 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 14.º, b): revoga o artigo 2.º do Decreto-Lei n.º 92/92, que é o que adita os artigos 13.º-A e 13.º-B ao Decreto-Lei n.º 55/87; estes dois artigos ficam (Revogado.).",
-    "Alterador 1, art. 14.º, a) e c): revogam outros diplomas; ignorados."
+    "DL 78/2007, art. 14.º, b): revoga o artigo 2.º do DL 92/92, que é o artigo que adita os artigos 13.º-A e 13.º-B ao DL 55/87; no texto atual o conteúdo do art. 2.º são exatamente esses dois artigos, pelo que ficam (Revogado.). Restantes normas do DL 78/2007 não se dirigem ao DL 92/92."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

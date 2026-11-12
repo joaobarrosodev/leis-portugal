@@ -1,0 +1,586 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:321337:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-07-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2d6139ac3c22c7c3",
+    "a4d1d06884027ad1",
+    "51b0ffac1af940a2",
+    "9e98f5a43b7b3b09",
+    "061f1db90378a9ff",
+    "c859eb42c69721f3",
+    "f9b8a50ddcd2bbfe",
+    "34d073cb91942967",
+    "58e0b74a51be0c8c",
+    "fa82a5a2abd573ee",
+    "57e0202dea324586",
+    "14420359641f47ef",
+    "01caadc31c05734c",
+    "677f4decd5845aa9",
+    "f5ae5c852e5aac21",
+    "080c7889747ea90e",
+    "fd4dc574acf89e16",
+    "992f598bdd978ef5",
+    "a82c6235476d159d",
+    "fde1d59ff9ad6d44",
+    "83b9ac3299a52f50",
+    "f2d8c4c9c32d1ab2",
+    "7802d482a010acbb",
+    "72c52a1333165289",
+    "244f511dac43c7c2",
+    "2a663c84b5d9dd19",
+    "01128cf86de32e6c",
+    "259b002dfe44cef6",
+    "22331c4796ea3ec6",
+    "a241544acb0a9fd8",
+    "f88b86f58cb64727",
+    "fa24e3a8b7c6c314",
+    "d617a7c229359779",
+    "d9997d0097e54280"
+   ]
+  },
+  {
+   "date": "2004-03-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:232887:por",
+     "title": "Decreto-Lei n.º 64/2003",
+     "published": "2003-04-03",
+     "dre_path": "/dr/detalhe/decreto-lei/64-2003-232887"
+    },
+    {
+     "id": "pt:dre:539816:por",
+     "title": "Decreto-Lei n.º 52/2004",
+     "published": "2004-03-16",
+     "dre_path": "/dr/detalhe/decreto-lei/52-2004-539816"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo ANEXO — Estatutos da sociedade anónima::3.º",
+    "Altera Artigo ANEXO — Estatutos da sociedade anónima::2.º",
+    "Altera Artigo ANEXO — Estatutos da sociedade anónima::4.º",
+    "Altera Artigo ANEXO — Estatutos da sociedade anónima::5.º",
+    "Altera Artigo ANEXO — Estatutos da sociedade anónima::6.º",
+    "Altera Artigo ANEXO — Estatutos da sociedade anónima::7.º",
+    "Altera Artigo ANEXO — Estatutos da sociedade anónima::10.º",
+    "Altera Artigo ANEXO — Estatutos da sociedade anónima::11.º",
+    "Altera Artigo ANEXO — Estatutos da sociedade anónima::12.º",
+    "Altera Artigo ANEXO — Estatutos da sociedade anónima::13.º",
+    "Altera Artigo ANEXO — Estatutos da sociedade anónima::14.º",
+    "Altera Artigo ANEXO — Estatutos da sociedade anónima::15.º",
+    "Altera Artigo ANEXO — Estatutos da sociedade anónima::16.º",
+    "Altera Artigo ANEXO — Estatutos da sociedade anónima::17.º",
+    "Revoga Artigo ANEXO — Estatutos da sociedade anónima::18.º",
+    "Altera Artigo SECÇÃO II — Direcção",
+    "Altera Artigo SECÇÃO III — Conselho geral",
+    "Revoga Artigo SECÇÃO III — Fiscalização da sociedade"
+   ],
+   "fragments": [
+    "2d6139ac3c22c7c3",
+    "a4d1d06884027ad1",
+    "9367543c0721e724",
+    "9e98f5a43b7b3b09",
+    "061f1db90378a9ff",
+    "2bfc90359114610d",
+    "3dc7ffafec75e8ba",
+    "34d073cb91942967",
+    "58e0b74a51be0c8c",
+    "fa82a5a2abd573ee",
+    "8bfee2874416a47d",
+    "87c4b8878d225d88",
+    "01caadc31c05734c",
+    "5ec1dffcafb34a7f",
+    "f5ae5c852e5aac21",
+    "d1485ae0c412e1b6",
+    "fd4dc574acf89e16",
+    "cd3ba28255ecbc45",
+    "05db95ae4624304d",
+    "fde1d59ff9ad6d44",
+    "83b9ac3299a52f50",
+    "18de0d24e4886fc7",
+    "eece73ca71914a29",
+    "5f368cdde4e9ad24",
+    "4f47c483ec5eb99e",
+    "2639ec85d192e1d9",
+    "1c39db0513bbcf99",
+    "7d5c1285389e43d5",
+    "3175c39dc641dbd3",
+    "96f4a3231d2d6cd9",
+    "c78f434091d4047a",
+    "d617a7c229359779"
+   ]
+  }
+ ],
+ "fragments": {
+  "2d6139ac3c22c7c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Julho\n\nCom o presente diploma cria-se o enquadramento legal necessário à promoção e implementação do projecto de desenvolvimento da actividade aeroportuária da Base Aérea de Beja para fins civis, ao nível do transporte aéreo e de outras actividades relacionadas com a aviação civil, e das infra-estruturas necessárias para essa utilização.\n\nConcluídos os estudos e relatórios do grupo de trabalho criado pelo despacho conjunto n.º 508/99, dos Ministérios da Defesa Nacional, das Finanças, do Equipamento, do Planeamento e da Administração do Território e da Economia, publicado no Diário da República, 2.ª série, n.º 146, de 25 de Junho de 1999, que apontam no sentido de considerar a utilização civil da Base Aérea de Beja um projecto viável, fundamental para o desenvolvimento da região, importa criar desde já um quadro genérico que, definindo as grandes opções e balizando o caminho a seguir, não estrangule o desenvolvimento prático e concreto de um processo ainda em embrião e, por isso, de contornos só progressivamente definíveis.\n\nOpta-se, em consequência, por atribuir a promoção da utilização da Base Aérea de Beja para fins civis, nos termos atrás referidos, a uma sociedade anónima, fixando-se as condições que a sociedade deve preencher inerentes à consecução desse objectivo, bem como os meios que garantam o cumprimento dos fins em vista. Para tanto, comete-se à sociedade a especial incumbência de promover o projecto e de propor os instrumentos adequados à reserva das áreas necessárias à viabilização do mesmo.\n\nPrevê-se igualmente a possibilidade de à referida sociedade ser atribuída a concessão da exploração da Base Aérea de Beja para fins civis, nos termos que vierem a ser definidos nas bases da referida concessão, a aprovar por decreto-lei.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "a4d1d06884027ad1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É constituída a sociedade EDAB - Empresa de Desenvolvimento do Aeroporto de Beja, S. A., sociedade anónima, abreviadamente designada por EDAB, S. A.\n\n2 - A sociedade rege-se pelo presente diploma, pelos seus estatutos e pela lei comercial."
+  },
+  "51b0ffac1af940a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A EDAB, S. A., tem por objecto social a promoção da utilização da Base Aérea de Beja para fins civis, ao nível do transporte aéreo e de outras actividades relacionadas com a aviação civil, e da criação das infra-estruturas necessárias para essa utilização.\n\n2 - Para a prossecução do seu objecto, incumbe, especialmente, à EDAB, S. A.:\n\na) Definir, em coordenação com as autoridades militares, o quadro de parâmetros e condições de utilização da Base Aérea de Beja para fins civis;\n\nb) Definir, em coordenação com as autoridades militares, as infra-estruturas necessárias à futura utilização da Base Aérea de Beja como aeroporto civil e formular a sua certificação;\n\nc) Promover os estudos e projectos e realizar o conjunto de investimentos necessários à concretização do disposto na alínea b);\n\nd) Propor ao Governo instrumentos jurídicos adequados à reserva das áreas que sejam necessárias à viabilização do referido projecto;\n\ne) Promover a utilização do aeroporto junto de potenciais interessados, procedendo ao lançamento das acções requeridas para obtenção de propostas concretas e firmes de utilização da Base Aérea de Beja para fins civis, no quadro de uma ou várias concessões, das quais constem, pelo menos, os seguintes aspectos:\n\ni) Montante de participação no volume de investimentos requeridos;\n\nii) Condições de utilização das infra-estruturas;\n\niii) Contrapartidas a pagar ao concedente;\n\nf) Elaborar proposta consolidada da viabilidade técnica, económica e financeira do projecto, no quadro de uma futura concessão;\n\ng) Propor ao Governo, para decisão, dentro do prazo de um ano contado da data de constituição da sociedade, o modelo de concretização e funcionamento do projecto do aeroporto civil de Beja."
+  },
+  "9e98f5a43b7b3b09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nDemonstrada a viabilidade técnica, económica e financeira do projecto, será atribuída à EDAB, S. A., em regime exclusivo, a concessão de exploração da Base Aérea de Beja para fins civis, nos termos constantes das respectivas bases, que deverão ser aprovadas por decreto-lei e estabelecerão o regime da subconcessão."
+  },
+  "061f1db90378a9ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - São aprovados os estatutos da sociedade, que figuram em anexo ao presente diploma.\n\n2 - Os estatutos não carecem de redução a escritura pública, devendo o registo dos mesmos ser feito oficiosamente, com base na publicação do Diário da República, com isenção de taxas e emolumentos.\n\n3 - As alterações aos estatutos realizam-se nos termos dos estatutos e da lei comercial."
+  },
+  "c859eb42c69721f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO capital social é de 500000 euros, representado por 500000 acções com o valor nominal de 1 euro cada."
+  },
+  "f9b8a50ddcd2bbfe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSão órgãos da sociedade a assembleia geral, a direcção, o conselho geral e o revisor oficial de contas, com as competências fixadas na lei e nos estatutos.\n\nVisto e aprovado em Conselho de Ministros de 25 de Maio de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 11 de Julho de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Julho de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "34d073cb91942967": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Estatutos da sociedade anónima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Estatutos da sociedade anónima"
+  },
+  "58e0b74a51be0c8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Firma, sede, objecto e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Firma, sede, objecto e duração"
+  },
+  "fa82a5a2abd573ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Firma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Firma\n\nA sociedade adopta o tipo de sociedade anónima, com a firma EDAB - Empresa de Desenvolvimento do Aeroporto de Beja, S. A."
+  },
+  "57e0202dea324586": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A sede da sociedade é na Rua da Cidade de São Paulo, freguesia de São João Baptista, concelho de Beja.\n\n2 - Por deliberação da direcção, poderá a sociedade criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação, bem como poderá ser mudada a sede social para outro local sito no mesmo município ou em município limítrofe."
+  },
+  "14420359641f47ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto\n\n1 - A sociedade tem por objecto a promoção da utilização da Base Aérea de Beja para fins civis, ao nível do transporte aéreo e de outras actividades relacionadas com a aviação civil, e da criação das infra-estruturas necessárias para essa utilização.\n\n2 - Para a prossecução do seu objecto, incumbe, especialmente, à sociedade:\n\na) Definir, em coordenação com as autoridades militares, o quadro de parâmetros e condições de utilização da Base Aérea de Beja para fins civis;\n\nb) Definir, em coordenação com as autoridades militares, as infra-estruturas necessárias à futura utilização da Base Aérea de Beja como aeroporto civil, com vista à sua certificação;\n\nc) Promover os estudos e projectos e realizar o conjunto de investimentos necessários à concretização do disposto na alínea b);\n\nd) Propor ao Governo instrumentos jurídicos adequados à reserva das áreas que sejam necessárias à viabilização do referido projecto;\n\ne) Promover a utilização do aeroporto junto de potenciais interessados, procedendo ao lançamento das acções requeridas para obtenção de propostas concretas e firmes de utilização da Base Aérea de Beja para fins civis, no quadro de uma ou várias concessões, das quais constem, pelo menos, os seguintes aspectos:\n\ni) Montante de participação no volume de investimentos requeridos;\n\nii) Condições de utilização das infra-estruturas;\n\niii) Contrapartidas a pagar ao concedente;\n\nf) Elaborar proposta consolidada da viabilidade técnica, económica e financeira do projecto no quadro de uma futura concessão;\n\ng) Propor ao Governo, para decisão, dentro do prazo de um ano contado da data de constituição da sociedade, o modelo de concretização e funcionamento do projecto do aeroporto civil de Beja."
+  },
+  "01caadc31c05734c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Capital social e acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Capital social e acções"
+  },
+  "677f4decd5845aa9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Capital e acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital e acções\n\n1 - O capital social, no montante de 500000 euros, é representado por 500000 acções, repartidas da seguinte forma pelos respectivos accionistas:\n\n... Acções\n\nDirecção-Geral do Tesouro ... 100000\n\nAssociação de Municípios do Distrito de Beja ... 150000\n\nNERBE - Núcleo Empesarial da Região de Beja ... 50000\n\nEDIA - Empresa de Desenvolvimento e Infra-estruturas do Alqueva, S. A. ... 50000\n\nCCRA - Comissão de Coordenação da Região do Alentejo ... 50000\n\nPGS - Promoção, Gestão de Áreas Industriais e Serviços ... 50000\n\nAPS - Administração do Porto de Sines ... 50000\n\n2 - Haverá titulares de 1, 5, 10, 50, 100, 1000 e múltiplos de 1000 acções."
+  },
+  "f5ae5c852e5aac21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Órgãos sociais"
+  },
+  "080c7889747ea90e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos sociais\n\n1 - São órgãos sociais a assembleia geral, a direcção, o conselho geral e o revisor oficial de contas.\n\n2 - O mandato dos membros da mesa da assembleia geral, dos directores e dos membros do conselho geral tem a duração de quatro anos, sendo permitida a sua renovação por uma ou mais vezes.\n\n3 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no desempenho das suas funções até à eleição de quem deva substituí-los.\n\n4 - Os referidos titulares estão dispensados de prestar caução pelo exercício dos seus cargos."
+  },
+  "fd4dc574acf89e16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Assembleia geral"
+  },
+  "992f598bdd978ef5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição\n\n1 - A assembleia geral é formada pelos accionistas.\n\n2 - Deverão participar nos trabalhos da assembleia geral, sem direito a voto, os membros da direcção e do conselho geral e o revisor oficial de contas."
+  },
+  "a82c6235476d159d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência\n\n1 - Compete à assembleia geral:\n\na) Deliberar sobre o relatório anual do conselho geral;\n\nb) Eleger a mesa da assembleia geral e designar os membros do conselho geral;\n\nc) Proceder à apreciação geral da administração e fiscalização da sociedade;\n\nd) Deliberar sobre quaisquer alterações dos estatutos e aumentos de capital, sem prejuízo do n.º 2;\n\ne) Aprovar a emissão de obrigações e outros títulos de dívida;\n\nf) Deliberar sobre as remunerações dos titulares dos órgãos sociais;\n\ng) Deliberar sobre a realização de prestações acessórias;\n\nh) Tratar de qualquer outro assunto para que tenha sido convocada.\n\n2 - As deliberações que importem alterações aos estatutos só poderão ser aprovadas com o voto concordante do accionista Estado."
+  },
+  "fde1d59ff9ad6d44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mesa\n\n1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário.\n\n2 - Compete ao presidente convocar assembleias gerais, dirigi-las e praticar quaisquer actos previstos na lei, nos presentes estatutos ou em deliberação dos accionistas.\n\n3 - O presidente é substituído, nas suas faltas e impedimentos, pelo vice-presidente."
+  },
+  "83b9ac3299a52f50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Convocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Convocação\n\nA convocação da assembleia geral faz-se mediante carta registada ou publicação com a antecedência mínima de 30 dias."
+  },
+  "f2d8c4c9c32d1ab2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Direcção"
+  },
+  "7802d482a010acbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Composição\n\nA direcção é composta por três directores."
+  },
+  "72c52a1333165289": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência\n\nCompete, designadamente, à direcção:\n\na) Gerir os negócios sociais e praticar todos os actos e operações respeitantes ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;\n\nb) Representar a sociedade em juízo e fora dele, activa e passivamente, podendo desistir, confessar e transigir em quaisquer pleitos e, bem assim, celebrar convenções de arbitragem;\n\nc) Adquirir, vender ou por outra forma alienar ou onerar direitos ou bens móveis ou imóveis e participações sociais;\n\nd) Estabelecer a organização técnico-administrativa da sociedade e as normas de funcionamento interno, designadamente quanto ao pessoal e à sua remuneração;\n\ne) Exercer as demais atribuições que lhe sejam cometidas pela lei ou pela assembleia geral;\n\nf) Contrair financiamentos e prestar garantias;\n\ng) Nomear mandatários."
+  },
+  "244f511dac43c7c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Vinculação da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Vinculação da sociedade\n\n1 - A sociedade obriga-se:\n\na) Pela assinatura de dois directores, sendo uma delas a do presidente;\n\nb) Pela assinatura de um procurador ou procuradores, dentro dos limites do respectivo mandato.\n\n2 - Em assuntos de mero expediente basta a assinatura de um director."
+  },
+  "2a663c84b5d9dd19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho geral"
+  },
+  "01128cf86de32e6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição\n\nO conselho geral é composto por nove membros, incluindo obrigatoriamente um representante da Direcção-Geral do Tesouro, o presidente da Câmara Municipal de Beja e o presidente do NERBE."
+  },
+  "259b002dfe44cef6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências\n\nCompete, designadamente, ao conselho geral:\n\na) Designar o director que assumirá as funções de presidente e destituí-lo;\n\nb) Nomear e destituir os directores;\n\nc) Fiscalizar os actos da direcção;\n\nd) Verificar, sempre que o entenda, a regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte, assim como a situação de quaisquer bens ou valores possuídos pela sociedade a qualquer título;\n\ne) Aprovar o relatório e as contas elaborados pela direcção;\n\nf) Elaborar anualmente um relatório sobre a sua actividade e apresentá-lo à assembleia geral;\n\ng) Convocar a assembleia geral, quando o entenda conveniente."
+  },
+  "22331c4796ea3ec6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funcionamento\n\nO conselho geral reúne ordinariamente com uma periodicidade bimensal."
+  },
+  "a241544acb0a9fd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Remuneração\n\nOs membros do conselho geral podem ser remunerados por senhas de presença, nos termos e condições fixados pela assembleia geral."
+  },
+  "f88b86f58cb64727": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Fiscalização da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Fiscalização da sociedade"
+  },
+  "fa24e3a8b7c6c314": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Revisor oficial de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Revisor oficial de contas\n\nO revisor oficial de contas deve ser obrigatoriamente uma sociedade de revisores oficiais de contas de reconhecida reputação e idoneidade."
+  },
+  "d617a7c229359779": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais"
+  },
+  "d9997d0097e54280": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Dissolução e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Dissolução e liquidação\n\n1 - A sociedade dissolve-se nos casos previstos na lei.\n\n2 - A liquidação da sociedade rege-se pelas disposições da lei e pelas deliberações da assembleia geral."
+  },
+  "9367543c0721e724": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 52/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2004-539816), publicado em 2004-03-16."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - A EDAB, S. A., tem por objecto social a promoção da utilização da Base Aérea de Beja para fins civis, ao nível do transporte aéreo e de outras actividades relacionadas com a aviação civil, e da criação das infra-estruturas necessárias para essa utilização.\n\n2 - Para a prossecução do seu objecto, incumbe, especialmente, à EDAB, S. A.:\n\na) Definir, em coordenação com as autoridades militares, o quadro de parâmetros e condições de utilização da Base Aérea de Beja para fins civis;\n\nb) Definir, em coordenação com as autoridades militares, as infra-estruturas necessárias à futura utilização da Base Aérea de Beja como aeroporto civil e formular a sua certificação;\n\nc) Requerer, na qualidade de entidade expropriante, a declaração de utilidade pública da expropriação dos imóveis e direitos a eles inerentes indispensáveis à utilização da Base Aérea de Beja para fins civis, nos termos previstos no respectivo Código das Expropriações;\n\nd) Promover os estudos e projectos e realizar o conjunto de investimentos necessários à concretização do disposto na alínea b);\n\ne) Propor ao Governo instrumentos jurídicos adequados à reserva das áreas que sejam necessárias à viabilização do referido projecto;\n\nf) Promover a utilização do aeroporto junto de potenciais interessados, procedendo ao lançamento das acções requeridas para obtenção de propostas concretas e firmes de utilização da Base Aérea de Beja para fins civis, no quadro de uma ou várias concessões, das quais constem, pelo menos, os seguintes aspectos:\n\ni) Montante de participação no volume de investimentos requeridos;\n\nii) Condições de utilização das infra-estruturas;\n\niii) Contrapartidas a pagar ao concedente;\n\ng) Elaborar proposta consolidada da viabilidade técnica, económica e financeira do projecto, no quadro de uma futura concessão;\n\nh) Propor ao Governo, para decisão, dentro do prazo de um ano contado da data de constituição da sociedade, o modelo de concretização e funcionamento do projecto do aeroporto civil de Beja.\n\n> Alterado pelo/a [Decreto-Lei n.º 52/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2004-539816), publicado em 2004-03-16."
+  },
+  "2bfc90359114610d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - O capital social é de (euro) 2000000, representado por 2000000 de acções, com o valor nominal de (euro) 1 cada.\n\n2 - Qualquer alteração do capital social realiza-se nos termos da lei comercial.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+  },
+  "3dc7ffafec75e8ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 6.º\n\nSão órgãos da sociedade a assembleia geral, o conselho de administração e o fiscal único, com as competências fixadas na lei e nos estatutos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.\n\nVisto e aprovado em Conselho de Ministros de 25 de Maio de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 11 de Julho de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Julho de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "8bfee2874416a47d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A sede da sociedade é na Rua da Cidade de São Paulo, freguesia de São João Baptista, concelho de Beja.\n\n2 - Por deliberação do conselho de administração, pode a sociedade criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação, bem como pode mudar a sede social para outro local sito no mesmo município ou em município limítrofe.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+  },
+  "87c4b8878d225d88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Objecto",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 52/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2004-539816), publicado em 2004-03-16."
+   ],
+   "markdown": "###### Artigo 3.º — Objecto\n\n1 - A sociedade tem por objecto a promoção da utilização da Base Aérea de Beja para fins civis, ao nível do transporte aéreo e de outras actividades relacionadas com a aviação civil, e da criação das infra-estruturas necessárias para essa utilização.\n\n2 - Para a prossecução do seu objecto, incumbe, especialmente, à sociedade:\n\na) Definir, em coordenação com as autoridades militares, o quadro de parâmetros e condições de utilização da Base Aérea de Beja para fins civis;\n\nb) Definir, em coordenação com as autoridades militares, as infra-estruturas necessárias à futura utilização da Base Aérea de Beja como aeroporto civil, com vista à sua certificação;\n\nc) Requerer, na qualidade de entidade expropriante, a declaração de utilidade pública da expropriação dos imóveis e direitos a eles inerentes indispensáveis à utilização da Base Aérea de Beja para fins civis, nos termos previstos no respectivo Código das Expropriações;\n\nd) Promover os estudos e projectos e realizar o conjunto de investimentos necessários à concretização do disposto na alínea b);\n\ne) Propor ao Governo instrumentos jurídicos adequados à reserva das áreas que sejam necessárias à viabilização do referido projecto;\n\nf) Promover a utilização do aeroporto junto de potenciais interessados, procedendo ao lançamento das acções requeridas para obtenção de propostas concretas e firmes de utilização da Base Aérea de Beja para fins civis, no quadro de uma ou várias concessões, das quais constem, pelo menos, os seguintes aspectos:\n\ni) Montante de participação no volume de investimentos requeridos;\n\nii) Condições de utilização das infra-estruturas;\n\niii) Contrapartidas a pagar ao concedente;\n\ng) Elaborar proposta consolidada da viabilidade técnica, económica e financeira do projecto no quadro de uma futura concessão;\n\nh) Propor ao Governo, para decisão, dentro do prazo de um ano contado da data de constituição da sociedade, o modelo de concretização e funcionamento do projecto do aeroporto civil de Beja.\n\n> Alterado pelo/a [Decreto-Lei n.º 52/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2004-539816), publicado em 2004-03-16."
+  },
+  "5ec1dffcafb34a7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Capital e acções",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 4.º — Capital e acções\n\n1 - O capital social, no montante de (euro) 2000000, é representado por 2000000 de acções, repartidas da seguinte forma pelos respectivos accionistas:\n\n... Acções\n\nDirecção-Geral do Tesouro ... 1550000\n\nAssociação de Municípios do Distrito de Beja ... 200000\n\nNERBE - Núcleo Empresarial da Região de Beja ... 50000\n\nEDIA - Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A. ... 50000\n\nCCRA - Comissão de Coordenação da Região do Alentejo ... 50000\n\nPGS - Promoção, Gestão de Áreas Industriais e Serviços, S. A. ... 50000\n\nAPS - Administração do Porto de Sines, S. A. ... 50000\n\n2 - Haverá titulares de 1, 5, 10, 50, 100, 1000 e múltiplos de 1000 acções.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+  },
+  "d1485ae0c412e1b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos sociais",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 5.º — Órgãos sociais\n\n1 - São órgãos sociais a assembleia geral, o conselho de administração e o fiscal único.\n\n2 - O mandato dos membros da mesa da assembleia geral e do conselho de administração tem a duração de quatro anos e o mandato do fiscal único a duração de três anos, sendo permitida a sua renovação por uma ou mais vezes.\n\n3 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no desempenho das suas funções até à eleição de quem deva substituí-los.\n\n4 - Os referidos titulares estão dispensados de prestar caução pelo exercício dos seus cargos.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+  },
+  "cd3ba28255ecbc45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Composição",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 6.º — Composição\n\n1 - A assembleia geral é formada pelos accionistas.\n\n2 - Devem participar nos trabalhos da assembleia geral, sem direito a voto, o conselho de administração e o fiscal único.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+  },
+  "05db95ae4624304d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competência",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 7.º — Competência\n\n1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei ou os presentes estatutos lhe atribuam competência, nomeadamente:\n\na) Apreciar o relatório do conselho de administração, discutir e votar o balanço, as contas, o relatório e o parecer do fiscal único e deliberar sobre a aplicação dos resultados do exercício;\n\nb) Eleger e exonerar os membros da mesa da assembleia geral, do conselho de administração e o fiscal único;\n\nc) Aprovar o orçamento de exploração e de investimento anual;\n\nd) Deliberar sobre quaisquer alterações dos estatutos e aumentos de capital, sem prejuízo do n.º 2;\n\ne) Aprovar a emissão de obrigações e outros títulos de dívida;\n\nf) Deliberar sobre as remunerações dos titulares dos órgãos sociais;\n\ng) Deliberar sobre a realização de prestações acessórias;\n\nh) Tratar de qualquer outro assunto para que tenha sido convocada.\n\n2 - As deliberações que importem alterações aos estatutos só poderão ser aprovadas com o voto concordante do accionista Estado.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+  },
+  "18de0d24e4886fc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho de administração"
+  },
+  "eece73ca71914a29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Composição",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 10.º — Composição\n\n1 - O conselho de administração é composto por um presidente e dois vogais.\n\n2 - Nas suas faltas ou impedimentos, o presidente do conselho de administração é substituído pelo vogal por si designado para o efeito.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+  },
+  "5f368cdde4e9ad24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competência do conselho de administração",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 11.º — Competência do conselho de administração\n\nCompete, designadamente, ao conselho de administração:\n\na) Gerir os negócios sociais e praticar todos os actos e operações respeitantes ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;\n\nb) Representar a sociedade em juízo e fora dele, activa e passivamente, podendo desistir, confessar e transigir em quaisquer pleitos e, bem assim, celebrar convenções de arbitragem;\n\nc) Adquirir, vender ou por outra forma alienar ou onerar direitos ou bens móveis ou imóveis e participações sociais;\n\nd) Estabelecer a organização técnico-administrativa da sociedade e as normas de funcionamento interno, designadamente quanto ao pessoal e à sua remuneração;\n\ne) Exercer as demais atribuições que lhe sejam cometidas pela lei ou pela assembleia geral;\n\nf) Contrair financiamentos e prestar garantias;\n\ng) Nomear mandatários.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+  },
+  "4f47c483ec5eb99e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Vinculação da sociedade",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 12.º — Vinculação da sociedade\n\n1 - A sociedade obriga-se:\n\na) Pela assinatura de dois membros do conselho de administração, sendo uma delas a do presidente ou de quem o substitua;\n\nb) Pela assinatura de um vogal, quando haja delegação expressa do conselho para a prática de um determinado acto;\n\nc) Pela assinatura de um procurador ou procuradores, dentro dos limites do respectivo mandato.\n\n2 - Em assuntos de mero expediente basta a assinatura de um membro do conselho de administração.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+  },
+  "2639ec85d192e1d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Fiscal único"
+  },
+  "1c39db0513bbcf99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Competência do presidente do conselho de administração",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 13.º — Competência do presidente do conselho de administração\n\n1 - Compete ao presidente do conselho de administração a coordenação e orientação geral das actividades do conselho e, em especial:\n\na) Convocar o conselho de administração, fixar a agenda dos trabalhos e presidir às respectivas reuniões;\n\nb) Representar o conselho em juízo e fora dele, sem prejuízo de outros representantes ou mandatários poderem ser designados para o efeito.\n\n2 - Sempre que o exijam circunstâncias excepcionais e urgentes e não seja possível reunir o conselho, o presidente pode praticar quaisquer actos da competência deste, mas tais actos ficam sujeitos a ratificação na primeira reunião realizada após a sua prática.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+  },
+  "7d5c1285389e43d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Funcionamento do conselho de administração",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 14.º — Funcionamento do conselho de administração\n\n1 - O conselho de administração reúne ordinariamente uma vez por semana e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou mediante solicitação de dois dos seus membros.\n\n2 - O conselho de administração só pode deliberar quando estiver presente a maioria dos seus membros.\n\n3 - As deliberações são tomadas por maioria absoluta dos votos expressos, gozando o presidente, ou quem o substituir, de voto de qualidade.\n\n4 - As deliberações do conselho de administração são registadas em acta, assinada pelos membros presentes na reunião.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+  },
+  "3175c39dc641dbd3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Fiscalização",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 15.º — Fiscalização\n\nA fiscalização da actividade social e o exame das contas da sociedade são exercidas por um fiscal único, que deve ser revisor oficial de contas, eleito em assembleia geral.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+  },
+  "96f4a3231d2d6cd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Competência do fiscal único",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 16.º — Competência do fiscal único\n\nSem prejuízo das competências fixadas na lei geral, cabe, em especial, ao fiscal único:\n\na) Examinar, sempre que o julgue conveniente e, pelo menos, uma vez por mês, a escrituração da sociedade;\n\nb) Emitir parecer sobre o orçamento, o balanço, o inventário e as contas anuais;\n\nc) Solicitar ao conselho de administração a apreciação de qualquer assunto que entenda dever ser ponderado;\n\nd) Pronunciar-se sobre qualquer matéria que lhe seja submetida pelo conselho de administração.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+  },
+  "c78f434091d4047a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Dissolução e liquidação",
+   "in_force_from": "2004-03-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+   ],
+   "markdown": "###### Artigo 17.º — Dissolução e liquidação\n\n1 - A sociedade dissolve-se nos casos previstos na lei.\n\n2 - A liquidação da sociedade rege-se pelas disposições da lei e pelas deliberações da assembleia geral.\n\n> Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03."
+  }
+ }
+}

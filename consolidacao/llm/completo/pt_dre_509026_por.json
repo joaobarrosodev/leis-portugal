@@ -12,14 +12,11 @@
   "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Despacho Normativo 107/77): interpretação do n.º 2 do art. 4.º; não altera o texto.",
-    "Alteradores 2 e 5 (Portarias 348/77 e 1049/81): atos de execução; não alteram o texto.",
-    "Alterador 3 (DL 531/79): nova redação do n.º 1 do art. 4.º; substituída depois pelos alteradores 4, 6, 7 e 8.",
-    "Alterador 4 (DL 29/80): nova redação do art. 4.º, n.º 1 e aditamento dos n.os 5 e 6 (n.os 2 a 4 mantidos); aplicado (n.os 5 e 6).",
-    "Alteradores 6 e 7 (DL 184/82 e 294/84): nova redação do n.º 1 do art. 4.º; substituída depois pelo alterador 8.",
-    "Alterador 8 (DL 368/86): nova redação do n.º 1 do art. 4.º e aditamento dos n.os 7, 8 e 9; aplicado.",
-    "Alterador 9 (DL 415-A/86): mantém em vigor o original no que não colida; sem alteração textual.",
-    "Alterador 10 (Portaria 826/2005): altera a Portaria 618-A/2005 (outro diploma); ignorado."
+    "Alterador 3 (DL 531/79): nova redação do n.º1 do 4.º; depois revogado pelo DL 29/80 e substituído.",
+    "Alterador 4 (DL 29/80): nova redação do 4.º: n.º1 novo, n.os 2 a 4 mantidos ('...'), aditados n.os 5 e 6. O reparo enganava-se: os n.os 5 e 6 vêm do DL 29/80, que está no pedido.",
+    "Alteradores 6 e 7 (DL 184/82, DL 294/84): nova redação do n.º1 do 4.º, n.os 2 a 6 mantidos.",
+    "Alterador 8 (DL 368/86): nova redação do n.º1 do 4.º, n.os 2 a 6 mantidos, aditados n.os 7, 8 e 9. Resultado: n.º1 do DL 368/86, n.os 2 a 4 do texto atual, n.os 5 e 6 do DL 29/80, n.os 7 a 9 do DL 368/86.",
+    "Alteradores 1, 2, 5, 9 e 10 (Desp. Normativo 107/77, Portarias 348/77, 1049/81, DL 415-A/86, Portaria 826/2005): interpretação, regulamentação ou alteração de outros diplomas; nada a aplicar ao texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -260,7 +260,7 @@ b) Excepcionalmente, quando intervenham circunstâncias ponderosas, e sem necess
 
 > Alterado pelo/a [Decreto-Lei n.º 234/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1972-674395), publicado em 1972-07-08.
 
-#### SECÇÃO II — Do crédito a médio prazo
+#### SECÇÃO II — Do crédito às actividades económicas do sector privado
 
 ###### Artigo 29.º
 

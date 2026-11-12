@@ -38,10 +38,32 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-11-01'
+version_history:
+  file: decreto-regulamentar-regional-7-2009-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-08-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-11-01'
+    amending: pt:dre:191565:por
+    amending_title: Decreto Regulamentar Regional n.º 29/2012/M
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::1.º
+    - Revoga Artigo ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::2.º
+    - Revoga Artigo ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::3.º
+    - Revoga Artigo ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::4.º
+    - Revoga Artigo ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::5.º
+    - Revoga Artigo ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/7/2009/08/03/m/dre/pt/html
@@ -67,7 +89,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:47:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    29/2012/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/2009/decreto-regulamentar-regional-7-2009-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,15 +164,21 @@ Assim, ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 
 
 ###### Artigo 1.º
 
-É aprovada a estrutura orgânica da Direcção Regional do Comércio, Indústria e Energia, publicada em anexo ao presente diploma, do qual faz parte integrante.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31.
 
 ###### Artigo 2.º
 
-É revogado o [Decreto Regulamentar Regional n.º 15/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2001-348525), de 9 de Julho, com excepção da estrutura das unidades orgânicas até à sua regulamentação, nos termos previstos no artigo 21.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de Novembro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31.
 
 ###### Artigo 3.º
 
-O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31.
 
 Aprovado em Conselho do Governo Regional em 9 de Julho de 2009.
 
@@ -167,67 +196,35 @@ O Representante da República para a Região Autónoma da Madeira, Antero Alves 
 
 ###### Artigo 1.º — Natureza
 
-A Direcção Regional do Comércio, Indústria e Energia, adiante designada por DRCIE, é um serviço central da administração directa da Região Autónoma da Madeira, a que se refere a alínea e) do n.º 1 do artigo 6.º do [Decreto Regulamentar Regional n.º 16/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2008-456493), de 4 de Julho, que aprova a orgânica da Vice-Presidência do Governo Regional.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31.
 
 ###### Artigo 2.º — Missão e atribuições
 
-1 - A DRCIE tem por missão assegurar a execução da política definida pelo Governo Regional para os sectores do comércio, indústria, energia e qualidade.
+(Revogado.)
 
-2 - A DRCIE prossegue as seguintes atribuições:
-
-a) Promover a execução da política definida para as áreas do comércio, indústria, energia e qualidade;
-
-b) Executar as acções da política comercial, tanto interna como externa;
-
-c) Estudar os circuitos de distribuição e comercialização e propor medidas tendentes à sua reestruturação, bem como sugerir formas de actuação conducentes à sua concretização;
-
-d) Estudar, propor e licenciar operações de importação, exportação e reexportação de mercadorias, em coordenação com as unidades competentes;
-
-e) Proceder a acções de fiscalização nos domínios do comércio, indústria e energia, nos termos da legislação aplicável aos referidos sectores;
-
-f) Promover as medidas necessárias à implementação da política energética e dos planos e programas aprovados, nomeadamente através de estímulos às iniciativas empresariais que neles se enquadrem;
-
-g) Propor, juntamente com outras entidades competentes, as medidas adequadas para fazer face a eventuais situações de interferência no normal abastecimento de combustíveis;
-
-h) Promover a difusão de informação junto dos utilizadores de energia, designadamente nos aspectos de segurança, gestão e diversificação das fontes de energia;
-
-i) Promover relações de cooperação com entidades públicas ou privadas, nacionais, regionais ou estrangeiras, tendo em vista o aproveitamento das melhores potencialidades para o desenvolvimento técnico/científico das áreas de comércio, indústria, energia e qualidade;
-
-j) Promover a adopção de medidas de simplificação e racionalização dos procedimentos administrativos com vista a uma maior celeridade na resposta às solicitações dos agentes económicos;
-
-l) Definir as metodologias e procedimentos com o objectivo da melhoria contínua da qualidade dos serviços prestados;
-
-m) Coordenar e assegurar a recolha, organização, tratamento e difusão de informação com interesse para o desenvolvimento dos sectores da sua competência;
-
-n) Definir, acompanhar e controlar as políticas no âmbito da qualidade, procedendo à sua divulgação, sensibilização e dinamização.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31.
 
 ###### Artigo 3.º — Director regional
 
-1 - A DRCIE é dirigida pelo director regional do Comércio, Indústria e Energia, adiante designada por director regional, cargo de direcção superior de 1.º grau.
+(Revogado.)
 
-2 - Compete ao director regional:
-
-a) Promover a execução da política e prossecução dos objectivos definidos pelo Governo Regional para os sectores do comércio, indústria, energia e qualidade;
-
-b) Superintender a realização de estudos e outros trabalhos considerados importantes para os referidos sectores;
-
-c) Promover a gestão participativa por objectivos criando as condições necessárias a uma maior descentralização e atribuição de responsabilidades, que conduzam a um aumento da eficiência dos diversos serviços;
-
-d) Coordenar e orientar os serviços bem como aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento.
-
-3 - O director regional pode, nos termos da lei, delegar ou subdelegar competências.
-
-4 - O director regional é substituído, nas suas faltas e impedimentos, por um titular de cargo de direcção intermédia de 1.º grau ou por um técnico superior, a designar.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31.
 
 ### CAPÍTULO II — Estrutura orgânica
 
 ###### Artigo 4.º — Tipo de organização interna
 
-A organização interna dos serviços da DRCIE obedece ao modelo de estrutura hierarquizada.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31.
 
 ###### Artigo 5.º — Quadro de cargos de direcção
 
-Os lugares de direcção superior de 1.º grau e de direcção intermédia de 1.º grau, constam do mapa anexo ao presente diploma, do qual faz parte integrante.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31.
 
 ###### Artigo 6.º — Estrutura
 
@@ -237,20 +234,6 @@ A estrutura hierarquizada da DRCIE é constituída por unidades orgânicas nucle
 
 ###### Artigo 7.º — Pessoal com funções de fiscalização
 
-1 - O pessoal do quadro da DRCIE que exerça funções de fiscalização e de inspecção deve, no exercício das mesmas, usar cartão de identidade especial, cujo modelo será aprovado por portaria do Vice-Presidente do Governo Regional.
+(Revogado.)
 
-2 - Os funcionários a que alude o número anterior são considerados agentes de autoridade, tendo livre acesso aos estabelecimentos e locais sujeitos à jurisdição do serviço a que pertençam, gozando dos seguintes direitos e prerrogativas:
-
-a) Acesso e livre trânsito nas instalações e equipamentos sujeitos a inspecção ou fiscalização e investigação;
-
-b) Examinar livros, documentos e arquivos relativos às matérias inspeccionadas;
-
-c) Proceder à selagem de quaisquer instalações ou equipamentos quando isso se mostre necessário face às infracções detectadas;
-
-d) Levantar autos de notícia por infracção ao cumprimento de normas e regulamentos cuja fiscalização seja da competência da DRCIE;
-
-e) Solicitar o apoio das autoridades administrativas e policiais para o cumprimento integral das respectivas funções.
-
-MAPA ANEXO
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14800/0502705029.pdf)
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 29/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2012-191565), publicado em 2012-10-31.

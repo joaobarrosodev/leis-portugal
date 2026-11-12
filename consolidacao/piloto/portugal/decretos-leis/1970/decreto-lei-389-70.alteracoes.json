@@ -57,10 +57,10 @@
   },
   {
     "artigo": "5.º",
-    "operacao": "revogar",
+    "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 5.º\n\n1. Os alunos que em cada ano civil terminem os cursos a que se refere o presente decreto-lei são ordenados pela classificação final obtida e colocados à esquerda dos alferes pilotos aviadores oriundos dos cursos de cadetes que ingressem no quadro no mesmo ano.\n\n2. No caso de, como oficiais milicianos, terem posto superior a alferes mantêm aquele posto como graduados até lhes competir a promoção a esse posto.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.\n\nPromulgado em 12 de Agosto de 1970.\n\nPublique-se.\n\nPresidência da República, 19 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.",
-    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 241/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1975-336165), publicado em 1975-05-21.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.\n\nPromulgado em 12 de Agosto de 1970.\n\nPublique-se.\n\nPresidência da República, 19 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.",
+    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 241/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1975-336165), publicado em 1975-05-21.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.\n\nPromulgado em 12 de Agosto de 1970.\n\nPublique-se.\n\nPresidência da República, 19 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

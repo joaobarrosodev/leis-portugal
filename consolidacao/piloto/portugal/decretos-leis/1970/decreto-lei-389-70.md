@@ -50,7 +50,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 241/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1975-336165), publicado em 1975-05-21.
+> Alterado pelo/a [Decreto-Lei n.º 241/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1975-336165), publicado em 1975-05-21.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.
 

@@ -38,10 +38,60 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-10-05'
+version_history:
+  file: decreto-lei-361-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-10-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-10-05'
+    amending: pt:dre:667921:por
+    amending_title: Decreto-Lei n.º 391/99
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Altera Artigo SECÇÃO V — Conselho de mecenas
+    - Revoga Artigo SECÇÃO VI — Conselho fiscal
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/361/1991/10/03/p/dre/pt/html
@@ -67,7 +117,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:12:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 391/99. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-361-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -218,7 +269,9 @@ Estatutos da Fundação das Descobertas
 
 ###### Artigo 1.º — Natureza
 
-A Fundação das Descobertas, adiante designada abreviadamente por Fundação, é uma instituição de direito privado e utilidade pública, que se regerá pelos presentes estatutos e em tudo o que neles for omisso pela legislação aplicável às fundações.
+A Fundação Centro Cultural de Belém, adiante designada abreviadamente por Fundação, é uma instituição de direito privado e utilidade pública que se rege pelos presentes estatutos e em tudo o que neles for omisso pela legislação aplicável às fundações.
+
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
 ###### Artigo 2.º — Sede e duração
 
@@ -226,51 +279,53 @@ A Fundação tem a sua sede em Lisboa e durará por tempo ilimitado, podendo cri
 
 ###### Artigo 3.º — Fins
 
-1 - A Fundação tem por fins a promoção da cultura, em particular da portuguesa, no domínio de todas as artes.
+1 - A Fundação tem por fins a promoção da cultura, em particular da portuguesa, desenvolvendo a criação e a difusão, em todas as suas modalidades, bem como o apoio a acções de formação com relevância na área da cultura, promovendo a formação técnica especializada dos agentes e profissionais deste domínio ou domínios afins.
 
 2 - Além dos fins gerais mencionados no número anterior, a Fundação tem por fim especial assegurar a conservação, administração e desenvolvimento do património designado por Centro Cultural de Belém, garantindo a harmonia entre os cinco módulos que o integram e fazendo respeitar os mais elevados níveis de qualidade, bem como a vocação global e coerência do projecto.
+
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
 ###### Artigo 4.º — Actividades
 
 1 - Para a realização dos seus fins, a Fundação poderá promover:
 
-a) A manutenção de um museu permanente;
+a) A manutenção de um ou mais museus permanentes;
 
-b) A criação de um centro de documentação e um centro de investigação com o objectivo de aprofundar e promover o conhecimento da história dos Descobrimentos portugueses e da sua presença no mundo;
+b) A criação de centros de formação e de documentação no domínio das actividades culturais ou outras infra-estruturas de apoio ao desenvolvimento das artes;
 
-c) Exposições, cursos, colóquios, conferências ou manifestações de qualquer outro tipo que contribuam para a realização dos fins da Fundação;
+c) Exposições, espectáculos de teatro, cinema, dança, música, ópera e, em geral, a realização de qualquer manifestação cultural, quer nas suas instalações, quer noutros locais;
 
-d) Concertos musicais, espectáculos de ópera e peças de teatro;
+d) A realização ou promoção de cursos, ateliers de formação, actividades de investigação e pesquisa em todos os domínios artísticos, bem como a realização de conferências, colóquios, debates ou manifestações de qualquer outro tipo que contribuam para a realização dos fins da Fundação;
 
 e) A edição e publicação, sob qualquer forma, de obras relacionadas com a cultura portuguesa ou universal;
 
-f) A instituição de prémios e a concessão de subsídios ou bolsas, nomeadamente a artistas e investigadores, com o fim de contribuir para o desenvolvimento e promoção da cultura portuguesa;
+f) O intercâmbio com instituições congéneres nacionais ou estrangeiras no domínio das suas actividades;
 
-g) O intercâmbio com instituições congéneres nacionais ou estrangeiras no domínio das suas actividades;
-
-h) Quaisquer outras actividades que se ajustem às finalidades da Fundação.
+g) Quaisquer outras actividades que se ajustem às finalidades da Fundação.
 
 2 - A Fundação promoverá todas as actividades que contribuam para a rentabilização do património de que é titular.
 
-3 - Na consecução das actividades referidas no n.º 1, a Fundação procurará promover a inserção de Portugal nos circuitos internacionais de manifestasções culturais e de turismo cultural, bem como a projecção da cultura e ciência nacionais nesses circuitos.
+3 - Na consecução das actividades referidas no n.º 1 a Fundação procurará promover a inserção de Portugal nos circuitos internacionais de manifestações culturais e de turismo cultural, bem como a projecção da cultura e da ciência nacionais nesses circuitos.
+
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
 ### CAPÍTULO II — Regime patrimonial e financeiro
 
 ###### Artigo 5.º — Património
 
-1 - O património inicial da Fundação é constituído:
+1 - O património da Fundação é constituído:
 
 a) Pelo direito de superfície perpétuo e gratuito dos imóveis designados por módulos n.os 1, 2 e 3 que integram o Centro Cultural de Belém e dos terrenos que constituem suas partes integrantes;
 
 b) Pelo direito de superfície perpétuo e gratuito dos terrenos que se encontram afectos à construção dos módulos n.os 4 e 5 do Centro Cultural de Belém;
 
-c) Pelo valor das contribuições iniciais dos membros do conselho de mecenas.
+c) Pelo valor das contribuições iniciais dos seus fundadores.
 
 2 - O património da Fundação é ainda integrado:
 
-a) Pelo recheio do museu permanente, em regime de propriedade ou usufruto, temporário ou vitalício, conforme resultar do acto de dotação do Estado;
+a) Pelo recheio do museu ou museus permanentes, em regime de propriedade ou usufruto, temporário ou vitalício, conforme resultar do acto de dotação;
 
-b) Pelo valor das contribuições regulares ou extraordinárias dos membros do conselho de mecenas, actuais ou futuros;
+b) Pelo valor das contribuições regulares ou extraordinárias que os seus fundadores ou outras entidades entendam conceder;
 
 c) Pelo valor dos subsídios periódicos ou extraordinários que o Estado entenda conceder;
 
@@ -280,73 +335,61 @@ e) Pelo produto da alienação de bens imóveis ou de direitos de superfície de
 
 f) Pelas receitas de exploração dos módulos que integram o Centro Cultural de Belém ou de quaisquer outros bens de que venha a ser titular;
 
-g) Pelos rendimentos de direitos de que seja ou venha a ser detentora, desigandamente no âmbito de contratos de gestão, cessão de exploração, arrendamento ou outros;
+g) Pelos rendimentos de direitos de que seja ou venha a ser detentora, designadamente no âmbito de contratos de gestão, cessão de exploração, arrendamento ou outros;
 
 h) Pelas receitas provenientes de aplicações financeiras;
 
 i) Pelo produto de subscrições públicas;
 
-j) Pelo produto da venda de obras bibliográficas ou fonográficas, de filmes, vídeos, diapositivos, cartazes, gravuras, serigrafias, obras de arte ou reproduções, quer da sua produção, quer de terceiros, mas cuja venda esteja autorizada;
+j) Pelo produto da venda de obras bibliográficas ou fonográficas, filmes, vídeos, CD-ROM, outros bens de consumo multimedia ou que utilizem tecnologias conhecidas ou ainda desconhecidas, diapositivos, postais, cartazes, gravuras, serigrafias, obras de arte ou reproduções, artigos de merchandising, bem como todo o tipo de produtos de sua produção ou de terceiros, cuja venda esteja autorizada;
 
-l) Contrapartidas financeiras no âmbito de protocolos ou qualquer outro tipo de contratos com instituições nacionais ou estrangeiras.
+l) Por contrapartidas financeiras no âmbito de protocolos ou qualquer outro tipo de contratos com instituições nacionais ou estrangeiras;
 
-###### Artigo 6.º — Fundo permanente de investimento
+m) Pelo produto da prestação de serviços a terceiros;
 
-1 - A Fundação terá um fundo permanente de investimento, constituído pelos rendimentos e bens que para esse fim forem em cada momento afectados pelo conselho directivo.
+n) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que, por lei ou negócio jurídico, lhe devam pertencer.
 
-2 - O fundo permanente de investimento não poderá ser aplicado em despesas de funcionamento ou em programas de actividades da Fundação.
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-###### Artigo 7.º — Gestão patrimonial e financeira
+###### Artigo 6.º — Gestão patrimonial e financeira
 
 1 - Salvaguardadas as limitações impostas pelos presentes estatutos ou decorrentes da lei, a Fundação gere com total autonomia o seu património.
 
-2 - Os investimentos da Fundação deverão respeitar o critério da optimização da gestão do seu património e visar a plena independência financeira da Fundação relativamente ao Orçamento do Estado.
+2 - Os investimentos da Fundação deverão respeitar o critério da optimização da gestão do seu património.
 
 3 - A Fundação poderá fazer investimentos, quer em Portugal, quer no estrangeiro, negociar e contrair empréstimos, conceder garantias, bem como participar no capital de sociedades comerciais ou criar sociedades que sejam instrumento útil para a prossecução do objectivo de optimização da gestão do seu património.
 
-4 - A gestão e a exploração dos módulos n.os 4 e 5 do Centro Cultural de Belém não deverão ser realizadas directamente pela Fundação, devendo ser cedidas, nos termos do n.º 3, alíneas c), e) e f), do artigo 8.º
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-###### Artigo 8.º — Regime especial de afectação do património
+###### Artigo 7.º — Regime especial de afectação do património
 
 1 - Os bens descritos no artigo 5.º, n.º 1, alínea a), dos presentes estatutos são inalienáveis e não podem ser dados em garantia.
 
-2 - Ao regime referido no n.º 1 ficará sujeito o recheio do museu permanente, se o contrário não resultar do acto de dotação do Estado.
+2 - Ao regime referido no n.º 1 ficará sujeito o recheio de museus permanentes instalados no Centro Cultural de Belém, se o contrário não resultar do acto de dotação.
 
-3 - Sem prejuízo do disposto no número seguinte, deverão reger-se pelas normas do concurso, público ou limitado;
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-a) A cedência do direito de superfície por período superior a 10 anos, nos termos do n.º 5 do artigo 5.º do diploma que aprova os presentes estatutos, para efeitos da construção dos módulos n.os 4 e 5 da respectiva gestão ou exploração;
-
-b) A construção do módulo n.º 4 do Centro Cultural de Belém;
-
-c) A cessão da gestão ou a concessão da exploração do módulo n.º 4 do Centro Cultural de Belém, se os respectivos contratos forem por período superior a 10 anos;
-
-d) A construção dos equipamentos identificados como módulo n.º 5 do Centro Cultural de Belém;
-
-e) A cessão da gestão ou a concessão da exploração dos equipamentos referidos na alínea d), se os respectivos contratos envolverem mais de 80% da área global daqules equipamentos e forem por prazo superior a 10 anos;
-
-f) A cessão da gestão ou a concessão da exploração de áreas dos módulos n.os 4 e 5 em conjunto, se os respectivos contratos forem por período superior a 10 anos.
-
-4 - O conselho directivo poderá dispensar, fundamentadamente, as regras do concurso e, em alternativa, fixar critérios especiais que melhor conciliem o princípio da transparência do processo e o princípio da optimização da gestão do património da Fundação, os quais deverão ser submetidos para homologação ao Primeiro-Ministro ou ao membro do Governo em que este delegar.
-
-### CAPÍTULO III — Gestão cultural
-
-###### Artigo 9.º — Objectivo
+###### Artigo 8.º — Objectivo
 
 A promoção de uma oferta cultural diversificada, permanente, actualizada e de alta qualidade constitui objectivo essencial da Fundação.
 
-###### Artigo 10.º — Plano trienal de actividades culturais
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-A Fundação deve apresentar ao Governo o seu plano trienal de actividades culturais, o qual deverá ser aprovado pelo conselho directivo, ouvido o conselho de mecenas.
+### CAPÍTULO III — Gestão cultural
 
-###### Artigo 11.º — Contratos com terceiros
+###### Artigo 9.º — Plano trienal de actividades culturais
+
+A Fundação deve apresentar, para aprovação, ao Ministro da Cultura o seu plano trienal de actividades culturais, o qual deverá ser acompanhado do parecer do conselho directivo.
+
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
+
+###### Artigo 10.º — Contratos com terceiros
 
 Os contratos que, eventualmente, a Fundação entenda celebrar com terceiros e que envolvam a responsabilidade directa destes na gestão cultural estão obrigatoriamente sujeitos ao plano de actividades previsto no artigo anterior.
 
-### CAPÍTULO IV — Organização e funcionamento
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-#### SECÇÃO I — Órgãos da Fundação
-
-###### Artigo 12.º — Órgãos
+###### Artigo 11.º — Órgãos
 
 São órgãos da Fundação:
 
@@ -356,67 +399,65 @@ b) O conselho directivo;
 
 c) O conselho de administração;
 
-d) O conselho de mecenas;
+d) O conselho fiscal.
 
-e) O conselho fiscal.
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
+
+### CAPÍTULO IV — Organização e funcionamento
+
+#### SECÇÃO I — Órgãos da Fundação
+
+###### Artigo 12.º — Nomeação e mandato
+
+O presidente da Fundação é designado por despacho do Ministro da Cultura e exerce o seu mandato por um período de três anos, renovável.
+
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
 #### SECÇÃO II — Presidente
 
-###### Artigo 13.º — Nomeação e mandato
-
-O presidente da Fundação é designado pelo Primeiro-Ministro, após parecer do conselho de mecenas, e exerce o seu mandato por um período de cinco anos, renovável.
-
-###### Artigo 14.º — Funções e competência
+###### Artigo 13.º — Funções e competência
 
 1 - O presidente da Fundação é, por inerência, presidente do conselho directivo e do conselho de administração.
 
-2 - O presidente da Fundação tem o direito de vetar as deliberações do conselho directivo e do conselho de administração que considere contrárias aos interesses da Fundação, respeitantes às seguintes matérias:
+2 - Compete ao presidente da Fundação:
 
-a) Programa trienal de actividades;
+a) Velar pela correcta aplicação das decisões do Ministro da Cultura, das deliberações do conselho de administração, do conselho directivo e do conselho fiscal;
 
-b) Nomeação do director dos espaços culturais;
+b) Submeter à apreciação do Ministro da Cultura os assuntos que careçam dessa apreciação;
 
-c) Alteração do objecto do museu permanente;
+c) Convocar reuniões conjuntas do conselho de administração e do conselho fiscal sempre que o julgar conveniente;
 
-d) As construções, cessões de gestão e concessões de exploração referidas no artigo 8.º, n.º 3, dos presentes estatutos;
+d) Atribuir a cada membro do conselho de administração o pelouro ou pelouros que entenda dever competir-lhes;
 
-e) Fixação das regras de transmissão, alienação ou oneração do património da Fundação;
+e) Representar a Fundação no plano nacional e internacional;
 
-f) Contracção de empréstimos e prestação de garantias;
+f) Desempenhar as demais atribuições que lhe são cometidas na lei e nos presentes estatutos.
 
-g) Valor do fundo permanente de investimento;
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-h) Alteração dos estatutos;
+###### Artigo 14.º — Constituição
 
-i) Transformação ou extinção da Fundação.
-
-3 - Quando o presidente exercer o direito referido no número anterior, deverá a deliberação ser submetida a parecer do conselho de mecenas e, posteriormente, reapreciada no órgão respectivo.
-
-4 - Reapreciada a questão nos termos do número anterior, não poderá haver novo veto, salvo nos casos das alíneas a), b), f), g) e i) do n.º 2.
-
-#### SECÇÃO III — Conselho directivo
-
-###### Artigo 15.º — Constituição
-
-1 - O conselho directivo é composto por nove membros.
+1 - O conselho directivo é composto por sete membros.
 
 2 - Os vogais do conselho directivo são designados do seguinte modo:
 
-a) Três nomeados pelo Governo, mediante resolução do Conselho de Ministros;
+a) Cinco pelo Ministro da Cultura;
 
-b) Três eleitos pelo conselho de mecenas;
+b) Um pelo Ministro das Finanças.
 
-c) Um nomeado pela Câmara Municipal de Lisboa.
+3 - O conselho directivo elegerá, no início do seu mandato e de entre os seus membros, um vice-presidente.
 
-3 - É também vogal do conselho directivo, por inerência, o director dos espaços culturais.
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-4 - O conselho directivo elegerá, no início do seu mandato e de entre os seus membros, um vice-presidente.
+#### SECÇÃO III — Conselho directivo
 
-###### Artigo 16.º — Mandato
+###### Artigo 15.º — Mandato
 
-O mandato do conselho directivo é de cinco anos.
+O mandato do conselho directivo é de três anos.
 
-###### Artigo 17.º — Competência
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
+
+###### Artigo 16.º — Competência
 
 Compete, em especial, ao conselho directivo:
 
@@ -424,41 +465,47 @@ a) Definir e estabelecer as políticas gerais de funcionamento da Fundação;
 
 b) Definir as políticas e orientação de investimento da Fundação;
 
-c) Definir, por proposta do conselho de administração, o montante do fundo permanente de investimento;
+c) Discutir e aprovar o orçamento e o plano anual de actividades da Fundação;
 
-d) Discutir e aprovar o orçamento e o plano anual de actividades da Fundação;
+d) Discutir e aprovar o plano trienal de actividades culturais, por proposta do conselho de administração;
 
-e) Discutir e aprovar o plano trienal de actividades culturais, por proposta do conselho de administração, ouvido o conselho de mecenas;
+e) Discutir e aprovar o balanço anual e as contas de cada exercício, bem como o relatório do conselho de administração, obtido o parecer do conselho fiscal;
 
-f) Discutir e aprovar o balanço anual e as contas de cada exercício, bem como o relatório do conselho de administração, obtido o parecer do conselho fiscal;
+f) Fixar a remuneração dos membros dos órgãos sociais;
 
-g) Atribuir, por proposta do conselho de administração, a qualidade de membro do conselho de mecenas;
+g) Decidir sobre quaisquer outras matérias que respeitem à actividade da Fundação e que, pelos presentes estatutos, não constituam competência exclusiva de outros órgãos.
 
-h) Fixar a remuneração dos membros de órgãos sociais;
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-i) Decidir sobre quaisquer outras matérias que respeitem à actividade da Fundação e que, pelos presentes estatutos, não constituam competência exclusiva de outros órgãos.
+###### Artigo 17.º — Funcionamento
 
-###### Artigo 18.º — Funcionamento
+1 - O conselho directivo reúne-se ordinariamente duas vezes por ano, para discutir e aprovar o orçamento e o plano anual de actividades e o balanço anual, contas do exercício e o relatório do conselho de administração, e extraordinariamente quando convocado pelo presidente ou pelo vice-presidente.
 
-1 - O conselho directivo reúne-se, ordinariamente, na primeira semana de cada trimestre e, extraordinariamente, quando convocado pelo presidente ou pelo vice-presidente, em representação do presidente.
+2 - As deliberações do conselho directivo são tomadas por maioria.
 
-2 - As deliberações do conselho directivo são tomadas por maioria, sem prejuízo do disposto no artigo 14.º, n.os 2 e 3.
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
+
+###### Artigo 18.º — Constituição
+
+O conselho de administração é constituído por três membros, sendo os vogais designados por despacho do Ministro da Cultura.
+
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
 #### SECÇÃO IV — Conselho de administração
 
-###### Artigo 19.º — Constituição
+###### Artigo 19.º — Mandato
 
-O conselho de administração é constituído por três ou cinco membros, conforme deliberação do conselho directivo, sendo os vogais designados, em número igual, pelo Governo, mediante resolução do Conselho de Ministros, e por aquele conselho.
+O mandato dos membros do conselho de administração é de três anos.
 
-###### Artigo 20.º — Mandato
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-O mandato dos membros do conselho de administração é de cinco anos.
-
-###### Artigo 21.º — Remuneração
+###### Artigo 20.º — Remuneração
 
 Os membros do conselho de administração são remunerados.
 
-###### Artigo 22.º — Competência
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
+
+###### Artigo 21.º — Competência
 
 Ao conselho de administração compete, em geral, a administração da Fundação e, em especial:
 
@@ -466,105 +513,57 @@ a) Definir a organização interna da Fundação;
 
 b) Administrar e dispor do património da Fundação, cabendo-lhe deliberar sobre a alienação, total ou parcial, de direitos de superfície de que aquela seja titular e sobre a aquisição, alienação ou oneração de bens móveis ou imóveis, devendo, neste âmbito, decidir sobre a celebração de todo o tipo de contratos que envolvam, nomeadamente, a gestão ou a exploração parcial ou global do seu património e a construção de imóveis sobre o mesmo;
 
-c) Preparar e submeter à aprovação do conselho directivo o orçamento e o plano de actividades anuais da Fundação e submeter tais instrumentos a parecer do conselho de mecenas;
+c) Preparar e submeter à aprovação do conselho directivo e do Ministro da Cultura o orçamento e o plano de actividades anuais da Fundação;
 
-d) Preparar e submeter à aprovação do conselho directivo o relatório anual, o balanço e as contas de cada exercício, acompanhados do parecer do conselho fiscal;
+d) Preparar e submeter à aprovação do conselho directivo e do Ministro da Cultura o relatório anual, o balanço e as contas de cada exercício, acompanhados do parecer do conselho fiscal;
 
-e) Propor ao conselho directivo o montante do fundo permanente de investimento;
+e) Elaborar e propor ao conselho directivo e ao Ministro da Cultura o plano trienal de actividades culturais;
 
-f) Elaborar e propor ao conselho directivo o plano trienal de actividades culturais e submetê-lo a parecer do conselho de mecenas;
+f) Contrair empréstimos e conceder garantias;
 
-g) Contrair empréstimos e conceder garantias;
+g) Avaliar e aprovar propostas de projectos ou de actividades, aprovar a concessão de subvenções, apoios ou empréstimos a projectos específicos e quaisquer outras despesas da Fundação;
 
-h) Avaliar e aprovar propostas de projectos ou de actividades, aprovar a concessão de subvenções, apoios ou empréstimos a projectos específicos e quaisquer outras despesas da Fundação;
+h) Contratar e dirigir o pessoal da Fundação;
 
-i) Contratar e dirigir o pessoal da Fundação;
-
-j) Representar a Fundação, quer em juízo, activa e passivamente, quer perante terceiros, em quaisquer actos ou contratos;
+i) Representar a Fundação, quer em juízo, activa e passivamente, quer em quaisquer actos ou contratos;
 
 l) Instituir, manter e conservar sistemas internos de controlo contabilístico, incluindo os livros e registos respeitantes a todas as transacções e entradas e saídas de fundos, por forma a reflectirem correctamente, em cada momento, a situação patrimonial e financeira da Fundação;
 
 m) Providenciar para que os livros e registos contabilísticos da Fundação sejam devidamente fiscalizados, pelo menos uma vez por ano, por uma empresa independente e conceituada de auditoria;
 
-n) Propor ao conselho directivo a atribuição da qualidade de membro do conselho de mecenas;
+n) Nomear o director ou directores do museu ou museus permanentes, caso tal se justifique.
 
-o) Nomear o director dos espaços culturais;
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-p) Nomear o director do museu permanente.
+###### Artigo 22.º — Funcionamento
 
-###### Artigo 23.º — Funcionamento
+1 - O conselho de administração reúne-se ordinariamente de 15 em 15 dias e extraordinariamente quando convocado pelo presidente.
 
-1 - O conselho de administração reúne-se, ordinariamente, de 15 em 15 dias e, extraordinariamente, quando convocado pelo presidente.
+2 - As deliberações do conselho de administração são tomadas por maioria, tendo o presidente voto de qualidade.
 
-2 - As deliberações do conselho de administração são tomadas por maioria, sem prejuízo do disposto no artigo 14.º, n.os 2 e 3.
+3 - Poderá o conselho de administração delegar no presidente ou, sob proposta deste, em qualquer vogal a administração corrente de alguma ou algumas actividades da Fundação.
 
-3 - Poderá o conselho de administração delegar no presidente ou, sob proposta deste, em qualquer vogal a administração corrente de alguma ou algumas das actividades da Fundação.
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-###### Artigo 24.º — Vinculação
+###### Artigo 23.º — Vinculação
 
 A Fundação fica obrigada em quaisquer actos ou contratos pela assinatura conjunta de dois membros do conselho de administração ou pela assinatura de um ou mais mandatários, nos termos dos respectivos mandatos.
 
-#### SECÇÃO V — Conselho de mecenas
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-###### Artigo 25.º — Constituição
+###### Artigo 24.º — Composição
 
-1 - O conselho de mecenas é constituído, à excepção do Estado, por todos os donatários da Fundação cuja contribuição seja considerada relevante para o cumprimento dos seus objectivos e cuja candidatura seja aceite.
-
-2 - Poderão ainda integrar o conselho de mecenas todas as personalidades ou instituições, nacionais ou estrangeiras, que, pelo seu prestígio ou pelo seu contributo para o desenvolvimento da cultura, valorizem a Fundação e constituam factores úteis para a prossecução do seu fim.
-
-3 - O conselho directivo fixa, todos os anos, o valor da contribuição mínima exigível para que se possa adquirir a condição de membro do conselho de mecenas.
-
-4 - A contribuição prevista no número anterior poderá ser feita em espécie, mas o seu valor, para efeitos de candidatura a membro do conselho de mecenas, será sempre traduzido pelo conselho de administração em escudos.
-
-###### Artigo 26.º — Pessoas colectivas
-
-Quando os membros do conselho de mecenas sejam pessoas colectivas dever-se-ão fazer representar, através de uma simples carta, por uma pessoa singular.
-
-###### Artigo 27.º — Direito de voto
-
-Todos os membros do conselho de mecenas têm direito a um voto e as deliberações são tomadas por maioria, dispondo o presidente, além do seu voto, do direito a voto de desempate.
-
-###### Artigo 28.º — Competência
-
-1 - Ao conselho de mecenas compete, designadamente:
-
-a) Eleger três membros para o conselho directivo;
-
-b) Dar parecer sobre as políticas e orientação de investimento da Fundação;
-
-c) Dar parecer sobre o plano trienal de actividades culturais da Fundação;
-
-d) Dar parecer sobre o orçamento e o plano anual de actividades da Fundação;
-
-e) Dar parecer sobre a alienação ou oneração do património da Fundação;
-
-f) Aprovar propostas de alteração dos estatutos ou de transformação ou extinção da Fundação.
-
-2 - Os pareceres previstos nas alíneas b), c), d) e e) do número anterior são facultativos.
-
-3 - O conselho de mecenas poderá dirigir ao conselho directivo recomendações sobre quaisquer matérias relativas ao funcionamento da Fundação.
-
-###### Artigo 29.º — Funcionamento
-
-1 - De entre os membros que o compõem, o conselho de mecenas elege um presidente e um vice-presidente, cujo mandato terá a duração de dois anos.
-
-2 - O presidente e o vice-presidente não poderão exercer funções no conselho de administração.
-
-3 - O conselho de mecenas reunirá, ordinariamente, uma vez por ano e, extraordinariamente, sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido do presidente da Fundação, ou de, pelo menos, 20% dos seus membros.
-
-4 - Às reuniões do conselho de mecenas poderão assistir e participar, sem direito a voto, os membros dos outros órgãos sociais.
-
-#### SECÇÃO VI — Conselho fiscal
-
-###### Artigo 30.º — Composição
-
-1 - O conselho fiscal é composto por três membros, sendo um designado pelo conselho directivo, outro pelo conselho de mecenas e o terceiro revisor oficial de contas, que presidirá, designado pelo Ministro das Finanças.
+1 - O conselho fiscal é composto por três membros, sendo um designado pelo conselho directivo, outro pelo Ministro da Cultura, e o terceiro, revisor oficial de contas, que presidirá, pelo Ministro das Finanças.
 
 2 - O mandato dos membros do conselho fiscal é de três anos.
 
 3 - O exercício das funções de membro do conselho fiscal é remunerado.
 
-###### Artigo 31.º — Competência
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
+
+#### SECÇÃO V — Conselho fiscal
+
+###### Artigo 25.º — Competência
 
 1 - Compete ao conselho fiscal:
 
@@ -580,41 +579,27 @@ e) Elaborar um relatório anual sobre a sua acção de fiscalização e emitir p
 
 2 - Os membros do conselho fiscal devem proceder, conjunta ou separadamente e em qualquer época do ano, aos actos de inspecção e verificação que tiverem por convenientes para o cabal exercício das suas funções.
 
-### CAPÍTULO V — Modificação dos estatutos e extinção da Fundação
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-###### Artigo 32.º — Modificação dos estatutos
+###### Artigo 26.º — Modificação dos estatutos
 
-1 - Os presentes estatutos poderão ser alterados por proposta do conselho directivo, obtido o parecer favorável do conselho de mecenas.
+1 - Os presentes estatutos poderão ser alterados por proposta do Ministro da Cultura, ouvido o conselho directivo e o conselho de administração.
 
 2 - A aprovação do Governo será concedida por deliberação do Conselho de Ministros.
 
-###### Artigo 33.º — Extinção da Fundação
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-1 - O Governo, sob proposta do conselho directivo, aprovada pelo conselho de mecenas, poderá deliberar sobre a extinção da Fundação.
+###### Artigo 27.º — Extinção da Fundação
+
+1 - O Governo, sob proposta do conselho directivo, poderá deliberar sobre a extinção da Fundação.
 
 2 - Em caso de extinção da Fundação, o seu património reverterá para o Estado, que o deverá aplicar exclusivamente em fins de desenvolvimento cultural do País.
 
-### CAPÍTULO VI — Disposições finais e transitórias
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
 
-###### Artigo 34.º — Primeiros mandatos
+###### Artigo 28.º — Fundadores iniciais
 
-1 - O primeiro presidente da Fundação será designado por despacho do Primeiro-Ministro, ficando, a título excepcional, dispensado o parecer do conselho de mecenas.
-
-2 - No mesmo despacho serão designados os membros do conselho directivo e o membro do conselho de administração cuja designação compete ao Governo.
-
-3 - Igualmente mediante despacho designará o Ministro das Finanças o revisor oficial de contas que integra o conselho fiscal.
-
-4 - O conselho directivo, na sua primeira reunião, determinará o número de vogais do conselho de administração, elegendo, desde logo, o membro ou membros que lhe couberem.
-
-5 - Os demais membros que compõem o conselho directivo, o conselho de administração e o conselho fiscal serão designados e eleitos nos termos previstos nestes estatutos, no prazo de 30 dias após a instituição.
-
-6 - Para efeitos do n.º 5 deste artigo, a reunião do conselho de mecenas será convocada pelo presidente da Fundação.
-
-7 - O mandato dos órgãos constituídos nos termos deste artigo inicia-se com a respectiva tomada de posse e termina em 31 de Dezembro de 1995.
-
-###### Artigo 35.º — Conselho de mecenas
-
-O conselho de mecenas tem a seguinte composição inicial:
+Os fundadores iniciais da Fundação, para além do Estado, são:
 
 Banco Comercial Português, S. A.;
 
@@ -630,10 +615,28 @@ Petróleos de Portugal - PETROGAL, S. A.;
 
 Siderurgia Nacional, E. P.;
 
-Tabaqueira - Empresa Industrial de Tabacos, E. P.;
+Tabaqueira - Empresa Industrial de Tabacos, S. A.;
 
-TAP - Air Portugal, E. P.
+TAP-Air Portugal, S. A.
 
-###### Artigo 36.º — Referências ao terreno de construção e aos módulos
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
+
+###### Artigo 29.º — Referências ao terreno de construção e aos módulos
 
 As referências dos presentes estatutos ao terreno afecto à construção do Centro Cultural de Belém e aos módulos que o integram consideram-se realizadas ao terreno que se encontra afecto à sua construção, nos termos do n.º 5 da [Resolução do Conselho de Ministros n.º 3/88](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/3-1988-583811), de 12 de Janeiro, e aos cinco módulos que o integram, nos termos do estudo prévio vencedor do concurso aberto na sequência do n.º 3 da referida resolução do Conselho de Ministros.
+
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
+
+###### Artigo 30.º — Disposição transitória
+
+1 - O presidente e os membros do conselho de administração e do conselho fiscal da Fundação em exercício ao tempo da alteração destes estatutos permanecem em exercício pleno de funções até completarem o mandato para que foram designados.
+
+2 - Os membros do conselho directivo e do conselho de mecenas em exercício ao tempo da alteração destes estatutos cessam o seu mandato na data da entrada em vigor dessa alteração.
+
+3 - O novo conselho directivo inicia funções logo que designada a maioria dos seus membros.
+
+> Alterado pelo/a [Decreto-Lei n.º 391/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921), publicado em 1999-09-30.
+
+### CAPÍTULO V — Modificação dos estatutos e extinção da Fundação
+
+### CAPÍTULO VI — Disposições finais e transitórias

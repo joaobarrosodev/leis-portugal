@@ -10,11 +10,11 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 1 (Portaria 73/2010), alínea c) do artigo 5.º: extingue o conselho de acompanhamento criado pelo n.º 10 do despacho conjunto n.º 453/2004 (norma do despacho que aprova, não do Regulamento); não altera texto do Regulamento, e a referência ao 'Conselho de Acompanhamento' no n.º 1 do artigo 20.º fica como está por não haver instrução textual.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, Portaria 73/2010: extingue o conselho de acompanhamento do n.º 10 do despacho conjunto; sem alteração textual ao Regulamento (nao_aplicavel).",
-    "Alterador 2, Despacho 12568/2010: nova redação das alíneas d), f), g) do n.º 2 do artigo 7.º, aditamento das alíneas h) e i) e passagem da antiga h) a j); nova redação da alínea d) do n.º 3, aditamento da e) e passagem da antiga e) a f).",
-    "Alterador 3, Despacho 9752-A/2012: nova redação das alíneas f), g), h), i) e j) do n.º 2 do artigo 7.º; a anterior i) passa a k) e a anterior j) (antiga h) original) passa a l); n.º 1, alíneas a) a e) do n.º 2 e n.º 3 ficam como estavam. Artigo 7.º devolvido com o resultado das duas alterações."
+    "Portaria 73/2010: extingue o conselho de acompanhamento do n.º 10 do despacho conjunto; não altera o texto do Regulamento, nada aplicado.",
+    "Despacho 12568/2010: nova redação das alíneas d), f), g), h), i) e j) (= anterior h)) do n.º 2 e d), e), f) (= anterior e)) do n.º 3 do artigo 7.º; aplicado (o reparo ignorava este despacho, que está no pedido).",
+    "Despacho 9752-A/2012: nova redação das alíneas f) a j) do n.º 2 do artigo 7.º, k) = anterior i) e l) = anterior j) (versão de 2010); aplicado sobre a redação de 2010."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

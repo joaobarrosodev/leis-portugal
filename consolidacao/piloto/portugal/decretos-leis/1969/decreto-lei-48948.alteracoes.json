@@ -11,7 +11,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:526201:por",
-    "alterador": "pt:dre:142087:por;pt:dre:226036:por;pt:dre:548228:por"
+    "alterador": "pt:dre:142087:por;pt:dre:226036:por"
   },
   {
     "artigo": "16.º",
@@ -25,34 +25,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:526201:por",
-    "alterador": "pt:dre:142087:por;pt:dre:226036:por;pt:dre:548228:por"
-  },
-  {
-    "artigo": "17.º",
-    "operacao": "revogar",
-    "regra": "llm",
-    "antes": "###### Artigo 17.º\n\n1. O Ministro das Finanças, ouvido o Conselho Nacional de Crédito, poderá estabelecer, por portaria, as relações que os bancos comerciais deverão observar:\n\na) Entre o valor global dos depósitos e outras responsabilidades efectivas para com terceiros e o montante dos capitais próprios;\n\nb) Entre o valor global das suas responsabilidades por aceites, avales e garantias concedidas e o montante dos capitais próprios.\n\n2. Quando o montante dos depósitos e outras responsabilidades efectivas para com terceiros exceder aquele que resulte da relação que houver sido fixada nos termos da alínea a) do número anterior, poderá o Ministro das Finanças determinar que o excesso seja aplicado em títulos de dívida pública, ou equiparados, ou em depósitos em institutos de crédito do Estado ou bancos de investimento.\n\n3. O produto dos depósitos efectuados nos termos da parte final do n.º 2 deste artigo será aplicado a fins de fomento económico.",
-    "depois": "###### Artigo 17.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 318/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1989-548228), publicado em 1989-09-23.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:526201:por",
-    "alterador": "pt:dre:142087:por;pt:dre:226036:por;pt:dre:548228:por"
-  },
-  {
-    "artigo": "19.º",
-    "operacao": "revogar",
-    "regra": "llm",
-    "antes": "###### Artigo 19.º\n\n1. Os bancos comerciais não poderão subscrever ou adquirir obrigações emitidas, nos termos do artigo 6.º do presente diploma, por outros bancos comerciais; exceptua-se o caso de reembolso de crédito próprio por qualquer meio legal de aquisição, incluindo a arrematação judicial.\n\n2. As obrigações adquiridas, no caso de reembolso de crédito próprio, deverão ser alienadas no prazo máximo de um ano, a contar da data da sua aquisição.",
-    "depois": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 318/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1989-548228), publicado em 1989-09-23.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:526201:por",
-    "alterador": "pt:dre:142087:por;pt:dre:226036:por;pt:dre:548228:por"
+    "alterador": "pt:dre:142087:por;pt:dre:226036:por"
   }
 ]

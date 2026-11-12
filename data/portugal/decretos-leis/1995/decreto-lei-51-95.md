@@ -39,10 +39,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-01-01'
+version_history:
+  file: decreto-lei-51-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-03-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-01-01'
+    amending: pt:dre:477288:por
+    amending_title: Lei n.º 10-B/96; Decreto-Lei n.º 27/97; Decreto-Lei n.º 472/99; Lei n.º 64-B/2011
+    changes:
+    - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::2.º
+    - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::5.º
+    - Adita Artigo 6.º
+    - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::12.º
+    - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::14.º
+    - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::23.º
+    - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::26.º
+    - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::28.º
+    - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::2.º
+    - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::3.º
+    - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/51/1995/03/20/p/dre/pt/html
@@ -68,7 +92,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:42:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 10-B/96; Decreto-Lei n.º
+    27/97; Decreto-Lei n.º 472/99; Lei n.º 64-B/2011. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-51-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,19 +203,37 @@ Assim:
 
 No uso da autorização legislativa concedida pelos n.os 1 e 2 do artigo 26.º da [Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), de 20 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º É aprovado o Regulamento da Contribuição Especial, que consta do anexo I ao presente diploma e dele faz parte integrante.
+###### Artigo 1.º
 
-Art. 2.º Os modelos de impressos exigidos para dar cumprimento às obrigações impostas pelo Regulamento referido no número anterior serão aprovados por portaria do Ministro das Finanças.
+É aprovado o Regulamento da Contribuição Especial, que consta do anexo I ao presente diploma e dele faz parte integrante.
 
-Art. 3.º - 1 - A administração da contribuição a que se refere o presente diploma cabe à Direcção-Geral das Contribuições e Impostos.
+###### Artigo 2.º
+
+Os modelos de impressos exigidos para dar cumprimento às obrigações impostas pelo Regulamento referido no número anterior serão aprovados por portaria do Ministro das Finanças.
+
+###### Artigo 3.º
+
+1 - A administração da contribuição a que se refere o presente diploma cabe à Direcção-Geral das Contribuições e Impostos.
 
 2 - A cobrança desta contribuição é da competência da Direcção-Geral do Tesouro.
 
-Art. 4.º - 1 - A contribuição especial criada nos termos do presente diploma constitui receita do Estado e tem uma duração de 20 anos.
+###### Artigo 4.º
+
+1 - A contribuição especial criada nos termos do presente diploma constitui receita do Estado e tem uma duração de 20 anos.
 
 2 - Anualmente será transferido para os municípios das áreas em que for cobrada contribuição especial um montante equivalente a 30% do que aí for cobrado.
 
-Art. 5.º A zona a que se refere o [Decreto-Lei n.º 280/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1994-535379), de 5 de Novembro, tem os limites fixados no texto e na carta que constituem os anexos II e III do presente diploma e dele fazem parte integrante.
+###### Artigo 5.º
+
+A zona a que se refere o [Decreto-Lei n.º 280/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1994-535379), de 5 de Novembro, tem os limites fixados no texto e na carta que constituem os anexos II e III do presente diploma e dele fazem parte integrante.
+
+###### Artigo 6.º
+
+1 - Sobre as áreas abrangidas pela contribuição especial criada nos termos do presente diploma não incidirá qualquer encargo de mais-valia ou qualquer outra contribuição especial.
+
+2 - O disposto no número anterior produz efeitos a partir da data da entrada em vigor do Regulamento da Contribuição Especial, aprovado pelo artigo 1.º deste diploma.
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 27/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1997-581228), publicado em 1997-01-23.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
@@ -208,7 +251,9 @@ O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ### CAPÍTULO I — Incidência
 
-Artigo 1.º - 1 - A contribuição especial incide sobre o aumento de valor dos prédios rústicos, resultante da possibilidade da sua utilização como terrenos para construção urbana, situados:
+###### Artigo 1.º
+
+1 - A contribuição especial incide sobre o aumento de valor dos prédios rústicos, resultante da possibilidade da sua utilização como terrenos para construção urbana, situados:
 
 a) Na área dos municípios de Alcochete, Montijo e Moita e das freguesias de Pinhal Novo e Rio Frio, do município de Palmela;
 
@@ -218,27 +263,47 @@ b) Na área das freguesias de Palmela, Quinta do Anjo e Cabanas, do município d
 
 3 - A contribuição especial cobrada nos termos do presente Regulamento não poderá ser cobrada mais de uma vez sobre cada prédio.
 
-Art. 2.º - 1 - Constitui valor sujeito a contribuição a diferença entre o valor do prédio à data em que for requerida a licença de construção ou de obra e o seu valor à data de 1 de Janeiro de 1992, corrigido pelo coeficiente de desvalorização monetária.
+###### Artigo 2.º
+
+1 - Constitui valor sujeito a contribuição a diferença entre o valor do prédio à data em que for requerido o licenciamento de construção ou de obra, ou apresentação da comunicação prévia e o seu valor à data de 1 de Janeiro de 1992, corrigido por aplicação dos coeficientes de desvalorização da moeda constantes da portaria a que se refere o artigo 47.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, correspondendo, para o efeito, à data de aquisição a data de 1 de Janeiro de 1992 e à de realização a data da emissão do alvará de licença de construção ou de obra, ou do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do Regime Jurídico da Urbanização e da Edificação (RJUE).
 
 2 - Os valores que servem para determinar a diferença são determinados por avaliação nos termos do presente Regulamento.
 
-Art. 3.º A contribuição é devida pelos titulares do direito de construir em cujo nome seja emitida a licença de construção ou de obra.
+> Alterado pelo/a Artigo 32.º do/a [Lei n.º 10-B/96](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), publicado em 1996-03-23.
+
+> Alterado pelo/a [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), publicado em 2011-12-30.
+
+###### Artigo 3.º
+
+A contribuição é devida pelos titulares do direito de construir em cujo nome seja emitido o alvará de licença de construção ou de obra e, ainda, pelos titulares do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do RJUE.
+
+> Alterado pelo/a [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), publicado em 2011-12-30.
 
 ### CAPÍTULO II — Determinação da matéria colectável
 
-Art. 4.º - 1 - A avaliação referida no n.º 2 do artigo 2.º ficará a cargo de uma comissão constituída pelo contribuinte ou seu representante e por dois peritos nomeados pela Direcção-Geral das Contribuições e Impostos de entre os incluídos nas listas distritais.
+###### Artigo 4.º
+
+1 - A avaliação referida no n.º 2 do artigo 2.º ficará a cargo de uma comissão constituída pelo contribuinte ou seu representante e por dois peritos nomeados pela Direcção-Geral das Contribuições e Impostos de entre os incluídos nas listas distritais.
 
 2 - Um dos peritos nomeados pela Direcção-Geral das Contribuições e Impostos terá apenas voto de desempate, devendo conformar-se com qualquer dos laudos apresentados.
 
 3 - A avaliação será efectuada com precedência de vistoria, devendo as decisões ser devidamente fundamentadas.
 
-Art. 5.º - 1 - Não poderão simultaneamente fazer parte da mesma comissão parentes e afins de qualquer grau da linha recta e até ao 4.º grau da linha colateral.
+###### Artigo 5.º
+
+1 - Não poderão simultaneamente fazer parte da mesma comissão parentes e afins de qualquer grau da linha recta e até ao 4.º grau da linha colateral.
 
 2 - Nenhum perito da comissão poderá intervir na avaliação de prédios próprios ou de seus parentes por consanguinidade ou afinidade, na linha recta e até ao 4.º grau da linha colateral, ou que administre.
 
 3 - O contribuinte ou seu representante prestará compromisso de honra perante o chefe de repartição de finanças, lavrando-se o respectivo termo.
 
-Art. 6.º - 1 - Na determinação dos valores, a comissão terá em consideração a natureza e o destino económico do prédio.
+4 - Quando, sem motivo justificado, o contribuinte ou seu representante não preste compromisso de honra ou não compareça à avaliação, será substituído por um perito da lista que o chefe da repartição de finanças nomeará.
+
+> Alterado pelo/a Artigo 32.º do/a [Lei n.º 10-B/96](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), publicado em 1996-03-23.
+
+###### Artigo 6.º
+
+1 - Na determinação dos valores, a comissão terá em consideração a natureza e o destino económico do prédio.
 
 2 - Para os efeitos do número anterior, atender-se-á:
 
@@ -256,17 +321,27 @@ f) Ao valor das construções rurais e dependências agrícolas;
 
 g) A quaisquer outros elementos susceptíveis de influir no valor dos prédios.
 
-Art. 7.º - 1 - Os titulares de licença de construção ou de obra deverão apresentar até ao fim do mês imediato àquele em que tenha sido emitida a referida licença, na repartição de finanças da área da situação do prédio, declaração do modelo aprovado.
+###### Artigo 7.º
 
-2 - Com a apresentação da declaração deverá ser exibida a licença de construção ou de obra a fim de ser extraída pela repartição de finanças fotocópia destinada a documentar o processo.
+1 - Os titulares de alvará de licença de construção ou de obra, ou do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do RJUE, deverão apresentar até ao fim do mês imediato àquele em que tenha sido emitido a referida licença, na repartição de finanças da área da situação do prédio, declaração do modelo aprovado.
 
-Art. 8.º Apresentada a declaração referida no artigo anterior, serão em seguida entregues à comissão de avaliação constituída nos termos do artigo 4.º, devendo a avaliação ficar concluída no prazo que lhe for fixado pelo chefe da repartição de finanças, o qual não poderá exceder 15 dias, salvo motivo devidamente justificado.
+2 - Com a apresentação da declaração deverá ser exibido o alvará de licença de construção ou de obra, ou do recibo de apresentação da comunicação prévia daquelas operações urbanísticas, acompanhado do comprovativo da sua admissão nos termos do artigo 36.º-A do RJUE a fim de ser extraída pela repartição de finanças fotocópia destinada a documentar o processo.
 
-Art. 9.º A avaliação será reduzida a termo no processo, e o termo assinado por todos os que nela intervieram.
+> Alterado pelo/a [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), publicado em 2011-12-30.
+
+###### Artigo 8.º
+
+Apresentada a declaração referida no artigo anterior, serão em seguida entregues à comissão de avaliação constituída nos termos do artigo 4.º, devendo a avaliação ficar concluída no prazo que lhe for fixado pelo chefe da repartição de finanças, o qual não poderá exceder 15 dias, salvo motivo devidamente justificado.
+
+###### Artigo 9.º
+
+A avaliação será reduzida a termo no processo, e o termo assinado por todos os que nela intervieram.
 
 ### CAPÍTULO III — Taxas
 
-Art. 10.º As taxas da contribuição são as seguintes:
+###### Artigo 10.º
+
+As taxas da contribuição são as seguintes:
 
 a) Na área referida na alínea a) do n.º 1 do artigo 1.º - 30%;
 
@@ -274,25 +349,43 @@ b) Na área referida na alínea b) do n.º 1 do artigo 1.º - 20%.
 
 ### CAPÍTULO IV — Liquidação e cobrança
 
-Art. 11.º A contribuição especial será liquidada na repartição de finanças da área da situação dos prédios.
+###### Artigo 11.º
 
-Art. 12.º - 1 - Quando, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade da contribuição devida, a esta acrescerão juros compensatórios correspondentes à taxa básica de desconto do Banco de Portugal em vigor na data em que se tiver iniciado o retardamento da liquidação, acrescida de cinco pontos percentuais, sem prejuízo da sanção cominada ao infractor.
+A contribuição especial será liquidada na repartição de finanças da área da situação dos prédios.
 
-2 - Os juros serão contados dia a dia, desde o termo do prazo para o cumprimento da obrigação de que resultou o atraso na liquidação até à data em que vier a ser corrigida ou suprida a falta.
+###### Artigo 12.º
 
-Art. 13.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 5000$00.
+Quando, por facto imputável ao sujeito passivo, for retardada a liquidação de parte ou da totalidade da contribuição devida, a esta acrescerão juros compensatórios nos termos do artigo 35.º da lei geral tributária.
 
-Art. 14.º Só poderão ser efectuadas ou corrigidas liquidações, ainda que adicionais, nos cinco anos seguintes àquele em que tiver sido emitida licença de construção ou de obra.
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), publicado em 1999-11-08.
 
-Art. 15.º - 1 - Liquidada a contribuição, o contribuinte será notificado para efectuar o pagamento voluntário até ao fim do mês seguinte ao da notificação, após o qual começarão a vencer-se juros de mora.
+###### Artigo 13.º
+
+Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 5000$00.
+
+###### Artigo 14.º
+
+Só poderão ser efectuadas ou corrigidas liquidações, ainda que adicionais, nos prazos e termos previstos nos artigos 45.º e 46.º da lei geral tributária, contando-se o respectivo prazo a partir da data em que tiver sido emitido o alvará de licença de construção ou da obra.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), publicado em 1999-11-08.
+
+###### Artigo 15.º
+
+1 - Liquidada a contribuição, o contribuinte será notificado para efectuar o pagamento voluntário até ao fim do mês seguinte ao da notificação, após o qual começarão a vencer-se juros de mora.
 
 2 - Juntamente com a notificação, será enviado ao contribuinte, em triplicado, o documento de cobrança devidamente preenchido.
 
-Art. 16.º A contribuição poderá ser paga em qualquer tesouraria da Fazenda Pública, a qual, no prazo de vinte e quatro horas, remeterá à repartição de finanças a que se refere o artigo 11.º o original do documento de cobrança.
+###### Artigo 16.º
 
-Art. 17.º Findo o prazo de pagamento voluntário, será extraída pela repartição de finanças competente a certidão de dívida com base nos elementos que tiver ao seu dispor, para efeito de cobrança coerciva.
+A contribuição poderá ser paga em qualquer tesouraria da Fazenda Pública, a qual, no prazo de vinte e quatro horas, remeterá à repartição de finanças a que se refere o artigo 11.º o original do documento de cobrança.
 
-Art. 18.º - 1 - As dívidas de contribuição especial poderão ser pagas em prestações, desde que os contribuintes o requeiram ao chefe da repartição de finanças no prazo estabelecido para o pagamento voluntário.
+###### Artigo 17.º
+
+Findo o prazo de pagamento voluntário, será extraída pela repartição de finanças competente a certidão de dívida com base nos elementos que tiver ao seu dispor, para efeito de cobrança coerciva.
+
+###### Artigo 18.º
+
+1 - As dívidas de contribuição especial poderão ser pagas em prestações, desde que os contribuintes o requeiram ao chefe da repartição de finanças no prazo estabelecido para o pagamento voluntário.
 
 2 - O número de prestações não poderá exceder 24, sendo de periodicidade mensal.
 
@@ -302,55 +395,83 @@ Art. 18.º - 1 - As dívidas de contribuição especial poderão ser pagas em pr
 
 5 - A falta de pagamento de qualquer das prestações importa o vencimento imediato das seguintes, extraindo-se certidão do valor em dívida para efeito de cobrança coerciva.
 
-Art. 19.º A contribuição especial goza de privilégio imobiliário sobre os prédios para os quais tenha sido emitida licença de construção ou de obra e, bem assim, sobre as benfeitorias ou construções neles implantadas.
+###### Artigo 19.º
+
+A contribuição especial goza de privilégio imobiliário sobre os prédios para os quais tenha sido emitida licença de construção ou de obra e, bem assim, sobre as benfeitorias ou construções neles implantadas.
 
 ### CAPÍTULO V — Fiscalização
 
-Art. 20.º O cumprimento das obrigações impostas por este Regulamento será fiscalizado, dentro dos limites da respectiva competência, por todas as autoridades e repartições públicas e, em especial, pela Direcção-Geral das Contribuições e Impostos.
+###### Artigo 20.º
 
-Art. 21.º Às câmaras municipais da área da situação dos prédios a que se refere o artigo 1.º compete, em particular, colaborar com a Direcção-Geral das Contribuições e Impostos na fiscalização do cumprimento do disposto neste diploma, devendo, designadamente:
+O cumprimento das obrigações impostas por este Regulamento será fiscalizado, dentro dos limites da respectiva competência, por todas as autoridades e repartições públicas e, em especial, pela Direcção-Geral das Contribuições e Impostos.
+
+###### Artigo 21.º
+
+Às câmaras municipais da área da situação dos prédios a que se refere o artigo 1.º compete, em particular, colaborar com a Direcção-Geral das Contribuições e Impostos na fiscalização do cumprimento do disposto neste diploma, devendo, designadamente:
 
 a) Enviar à repartição de finanças da área da situação dos prédios, durante o mês seguinte àquele em que foram emitidas, cópia das licenças de construção ou de obra;
 
 b) Enviar, oficiosamente ou a solicitação dos serviços da Direcção-Geral das Contribuições e Impostos, quaisquer dados considerados pertinentes para uma eficaz fiscalização.
 
-Art. 22.º - 1 - Não poderão ser pagas indemnizações por expropriações dos prédios sujeitos ao pagamento de contribuição especial, nos termos do presente Regulamento, sem que esta se mostre paga ou garantida.
+###### Artigo 22.º
+
+1 - Não poderão ser pagas indemnizações por expropriações dos prédios sujeitos ao pagamento de contribuição especial, nos termos do presente Regulamento, sem que esta se mostre paga ou garantida.
 
 2 - A garantia será prestada perante o chefe da repartição de finanças competente e consistirá em garantia bancária, caução, seguro-caução ou qualquer meio susceptível de assegurar o valor da dívida.
 
 ### CAPÍTULO VI — Revisão oficiosa, reclamação graciosa e impugnação judicial
 
-Art. 23.º Quando, por motivos imputáveis aos serviços, tenha sido liquidada contribuição superior à devida, proceder-se-á à anulação oficiosa nos cinco anos posteriores ao termo do prazo de pagamento voluntário ou à data da notificação do acto a rever e no decurso do processo de execução fiscal.
+###### Artigo 23.º
 
-Art. 24.º - 1 - Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento da contribuição poderão reclamar contra a liquidação com os fundamentos e nos termos estabelecidos no Código de Processo Tributário.
+Quando, por motivos imputáveis aos serviços, tenha sido liquidada contribuição superior à devida, proceder-se-á à sua revisão oficiosa, nos termos do artigo 78.º da lei geral tributária.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), publicado em 1999-11-08.
+
+###### Artigo 24.º
+
+1 - Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento da contribuição poderão reclamar contra a liquidação com os fundamentos e nos termos estabelecidos no Código de Processo Tributário.
 
 2 - Em processo de reclamação graciosa não poderão ser apreciados os actos de fixação dos valores atribuídos na avaliação.
 
-Art. 25.º - 1 - Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento da contribuição poderão impugnar a liquidação com os fundamentos e nos termos estabelecidos no Código de Processo Tributário.
+###### Artigo 25.º
+
+1 - Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento da contribuição poderão impugnar a liquidação com os fundamentos e nos termos estabelecidos no Código de Processo Tributário.
 
 2 - Os valores determinados em avaliação não são susceptíveis de impugnação judicial autónoma.
 
 3 - Na impugnação da liquidação pode ser invocada qualquer ilegalidade praticada na determinação dos valores atribuídos na avaliação.
 
-Art. 26.º - 1 - Anulada a liquidação, quer oficiosamente, quer por decisão judicial da entidade ou tribunal competente, com trânsito em julgado, efectuar-se-á o respectivo reembolso se a contribuição se encontrar paga.
+###### Artigo 26.º
+
+1 - Anulada a liquidação, quer oficiosamente, quer por decisão judicial da entidade ou tribunal competente, com trânsito em julgado, efectuar-se-á o respectivo reembolso se a contribuição se encontrar paga.
 
 2 - Não haverá lugar a anulação quando o seu quantitativo seja inferior a 2000$00.
 
-3 - Contar-se-ão a favor do contribuinte juros indemnizatórios correspondentes à taxa básica de desconto do Banco de Portugal em vigor na data do pagamento, acrescida de cinco pontos percentuais, sempre que, estando paga a contribuição, se determine em processo de reclamação graciosa ou de impugnação judicial que na liquidação houve erro imputável aos serviços.
+3 - São devidos juros indemnizatórios nos termos do artigo 43.º da lei geral tributária e são liquidados e pagos nos termos do Código de Processo Tributário.
 
-4 - Os juros serão contados dia a dia desde a data do pagamento da contribuição até à data da emissão da respectiva nota de crédito.
+> Alterado pelo/a [Decreto-Lei n.º 472/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), publicado em 1999-11-08.
 
 ### CAPÍTULO VII — Infracções
 
-Art. 27.º Ao não cumprimento do disposto no presente Regulamento aplicar-se-á o Regime Jurídico das Infracções Fiscais não Aduaneiras.
+###### Artigo 27.º
+
+Ao não cumprimento do disposto no presente Regulamento aplicar-se-á o Regime Jurídico das Infracções Fiscais não Aduaneiras.
 
 ### CAPÍTULO VIII — Disposições diversas
 
-Art. 28.º Independentemente da anulação da liquidação, o Ministro das Finanças poderá ordenar o reembolso da contribuição paga nos últimos cinco anos quando a considere indevidamente cobrada, observando-se, na parte aplicável, o disposto nos n.os 1 e 2 do artigo 26.º
+###### Artigo 28.º
 
-Art. 29.º Os salários dos peritos e os respectivos abonos de transporte, devidos pela avaliação a que se refere o artigo 4.º, constituem encargo do Estado e serão fixados anualmente por despacho do Ministro das Finanças.
+Independentemente da anulação da liquidação, o Ministro das Finanças poderá ordenar o reembolso da contribuição paga nos últimos quatro anos quando a considere indevidamente cobrada, observando-se, na parte aplicável, o disposto nos n.os 1 e 2 do artigo 26.º
 
-Art. 30.º - 1 - O triplicado da declaração a que se refere o artigo 8.º deverá ser devolvido ao apresentante, com menção de recibo.
+> Alterado pelo/a [Decreto-Lei n.º 472/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), publicado em 1999-11-08.
+
+###### Artigo 29.º
+
+Os salários dos peritos e os respectivos abonos de transporte, devidos pela avaliação a que se refere o artigo 4.º, constituem encargo do Estado e serão fixados anualmente por despacho do Ministro das Finanças.
+
+###### Artigo 30.º
+
+1 - O triplicado da declaração a que se refere o artigo 8.º deverá ser devolvido ao apresentante, com menção de recibo.
 
 2 - A declaração e demais documentos exigidos no presente diploma podem ser enviados pelo correio, sob registo postal, acompanhado de um sobrescrito devidamente endereçado e franqueado, destinado à devolução imediata, também sob registo, do duplicado e dos documentos, quando for caso disso.
 

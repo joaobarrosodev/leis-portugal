@@ -455,10 +455,6 @@ Os mapas anexos ao presente diploma podem ser alterados por despacho do Secretá
 
 3 - Nos casos de contratação eventual que vise assegurar, de imediato, funções de prestação de serviços essenciais directamente ao público utente, o parecer prévio favorável da SRF e da SRAP é dispensado, ficando os serviços obrigados a comunicar às mesmas entidades, no prazo máximo de cinco dias, as razões e as condições da celebração do respectivo contrato.
 
-4 - (Revogado.)
-
-> Alterado pelo/a [Decreto Legislativo Regional n.º 1/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-534776), publicado em 2005-05-09.
-
 ###### Artigo 3.º — Destacamentos e requisições anteriores
 
 Os destacamentos e requisições efectuados antes da entrada em vigor do presente decreto legislativo regional continuam a reger-se, até ao seu termo, pelas disposições legais na base das quais foram feitos.

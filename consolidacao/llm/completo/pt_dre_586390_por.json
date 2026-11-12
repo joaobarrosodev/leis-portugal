@@ -189,16 +189,22 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 6 (Portaria 1067/2004): o pedido não traz texto nenhum; não aplicado. Alteradores 1, 2 e 3 alteram/retificam o mapa anexo I (art. 20.º), que não consta do texto por artigos; não aplicado (de resto revogado pela Portaria 349/2007). A renomeação de subsecção do Alt.5 (2.º) não é texto de artigo.",
+  "titulos": [
+    {
+      "atual": "##### SUBSECÇÃO I — Dos departamentos",
+      "novo": "##### SUBSECÇÃO I — Das áreas de gestão aduaneira, dos impostos indirectos e da inspecção e fiscalização aduaneira",
+      "alterador": 5
+    }
+  ],
+  "nao_aplicavel": "Portarias 31/2001 (n.º 4.º), 599/2001 (n.º 2.º) e 677/2002 (n.º 2.º) alteram/rectificam o mapa anexo I, que só vem em imagem: não aplicado. Portaria 191/2003, n.º 2.º, parte final ('a subsecção II antecede o artigo 11.º'): mudança de posição do título de divisão, não exprimível como alteração de designação; o título fica onde está. Alterador 6 (Portaria 1067/2004) não traz texto.",
   "instrucoes": [
-    "Alt.1 4.º: retifica o mapa anexo I - não aplicável ao texto",
-    "Alt.2 2.º: altera o mapa anexo I - não aplicável ao texto",
-    "Alt.3 2.º: altera o mapa anexo I - não aplicável ao texto",
-    "Alt.4 1.º e 2.º: nova redação do art. 3.º e aditamento do 5.º-A - substituído pela revogação final",
-    "Alt.5 1.º e 3.º: nova redação dos arts. 2.º, 3.º, 6.º, 9.º, 11.º, 12.º, 13.º, 14.º e 19.º e aditamento dos 19.º-A e 19.º-B - epígrafes novas mantidas, corpo substituído pela revogação final",
-    "Alt.5 2.º: designação de subsecção - não é texto de artigo",
-    "Alt.6: sem texto - não aplicado",
-    "Alt.7 art. 23.º: revoga a Portaria 705-A/2000 com exceção do artigo 29.º - todos os artigos (incl. 5.º-A, 19.º-A, 19.º-B) ficam (Revogado.), o 29.º mantém-se"
+    "Port. 31/2001, 599/2001, 677/2002: alteram o mapa anexo I (imagem) -> nao_aplicavel",
+    "Port. 772/2002 1.º: nova redação do art. 3.º (alínea c) e n.º 4) -> substituída depois pela 191/2003 e revogada pela 349/2007",
+    "Port. 772/2002 2.º: adita art. 5.º-A 'Direcção de Serviços de Licenciamento' -> depois revogado pela 349/2007",
+    "Port. 191/2003 1.º: nova redação dos arts. 2.º, 3.º, 6.º, 9.º, 11.º, 12.º, 13.º, 14.º e 19.º (novas epígrafes dos 3.º, 6.º, 9.º, 11.º, 14.º) -> epígrafes mantidas nos artigos revogados",
+    "Port. 191/2003 2.º: subsecção I passa a designar-se 'Das áreas de gestão aduaneira, dos impostos indirectos e da inspecção e fiscalização aduaneira' -> título alterado; mudança de posição da subsecção II -> nao_aplicavel",
+    "Port. 191/2003 3.º: adita arts. 19.º-A e 19.º-B -> depois revogados pela 349/2007",
+    "Port. 349/2007 art. 23.º: revoga a Portaria 705-A/2000 com as alterações, com excepção do artigo 29.º -> todos os artigos do regulamento (1.º a 28.º, 5.º-A, 19.º-A, 19.º-B) ficam '(Revogado.)'; o art. 29.º mantém-se"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -218,7 +218,7 @@ Os diplomas a publicar relativamente aos motoristas observarão o disposto nos n
 
 4. O ingresso nas categorias previstas nos n.os 1 e 2 far-se-á nos termos da lei geral.
 
-###### Artigo 17.º — (Pessoal administrativo)
+###### Artigo ARTIGO 17.º — (Pessoal administrativo)
 
 1 - Os diplomas a publicar relativos ao pessoal administrativo deverão ter na devida consideracão as seguintes regras:
 

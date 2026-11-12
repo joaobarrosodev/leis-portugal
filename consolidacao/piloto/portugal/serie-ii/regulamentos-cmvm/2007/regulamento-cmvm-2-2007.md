@@ -182,7 +182,9 @@ Qualquer alteração aos elementos com base nos quais foi concedido o registo de
 
 ###### Artigo 8.º — Registo
 
-1 - O requerimento de registo da actividade de consultor para investimento em valores mobiliários previsto no artigo 301.º do Código dos Valores Mobiliários deve ser acompanhado dos seguintes elementos:
+1 - (Revogado.)
+
+2 - O pedido para exercício da atividade de consultor para investimento autónomo previsto no artigo 301.º do Código dos Valores Mobiliários deve ser acompanhado dos seguintes elementos:
 
 a) Identificação do requerente, incluindo identificação dos titulares de participações qualificadas, sempre que o requerente seja uma pessoa colectiva;
 
@@ -194,7 +196,7 @@ d) Registo criminal das pessoas relativamente às quais a lei exige idoneidade;
 
 e) Curriculum vitae das pessoas relativamente às quais a lei exige qualificação e aptidão profissional;
 
-f) Cópia da apólice de responsabilidade civil;
+f) (Revogada.)
 
 g) Indicação dos instrumentos financeiros de que o consultor para investimento é titular;
 
@@ -202,9 +204,11 @@ h) Questionário e declaração conforme formulário aprovado pela CMVM;
 
 i) Data previsível para o início de actividade.
 
-2 - Qualquer alteração que se verifique nos elementos constantes das alíneas anteriores, com excepção da alínea g), deve ser comunicada à CMVM no prazo máximo de 10 dias após a verificação do facto.
+3 - Qualquer alteração que se verifique nos elementos constantes das alíneas anteriores, com excepção da alínea g), deve ser comunicada à CMVM no prazo máximo de 10 dias após a verificação do facto.
 
-3 - O registo deve ser concedido no prazo máximo de 30 dias contados desde a data da recepção da comunicação dos elementos previstos no n.º 1 ou da recepção das informações complementares que tenham sido solicitadas ao requerente, aplicando-se o disposto no artigo 299.º do Código dos Valores Mobiliários.
+4 - O registo deve ser concedido no prazo máximo de 30 dias contados desde a data da recepção da comunicação dos elementos previstos no n.º 1 ou da recepção das informações complementares que tenham sido solicitadas ao requerente, aplicando-se o disposto no artigo 299.º do Código dos Valores Mobiliários.
+
+> Alterado pelo/a [Regulamento da CMVM n.º 7/2022](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), publicado em 2022-08-26.
 
 ###### Artigo 9.º — Idoneidade
 
@@ -354,7 +358,7 @@ f) Informação de suporte aos testes de adequação realizados.
 
 O intermediário financeiro deve ter todas as políticas e procedimentos legal e regulamentarmente previstos permanentemente compilados e disponíveis para consulta por qualquer uma das pessoas referidas no n.º 5 do artigo 304.º do Código dos Valores Mobiliários ou para efeitos de supervisão.
 
-###### Artigo 14.º — Informação no âmbito de operações sobre instrumentos financeiros derivados
+###### Artigo 14.º
 
 (Revogado.)
 

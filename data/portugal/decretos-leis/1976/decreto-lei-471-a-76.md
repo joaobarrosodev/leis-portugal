@@ -28,10 +28,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-11-23'
+version_history:
+  file: decreto-lei-471-a-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-06-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-11-23'
+    amending: pt:dre:253440:por
+    amending_title: Decreto-Lei n.º 414-A/77; Decreto-Lei n.º 460/79
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 12.º
+    - Altera Artigo 30.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo SECÇÃO IV — Conselho de direcção
 identifiers:
   celex: null
   eli: null
@@ -57,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:54:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 414-A/77; Decreto-Lei
+    n.º 460/79. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-471-a-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,9 +198,11 @@ ESTATUTO DA EMPRESA PÚBLICA TAP
 
 ###### Artigo 1.º — (Denominação, natureza e sede)
 
-1. Transportes Aéreos Portugueses, E. P., que pode designar-se abreviadamente por TAP, é uma empresa pública com personalidade jurídica, dotada de autonomia administrativa e financeira e património próprio, com sede em Lisboa, a qual se rege pelo disposto nos presentes estatutos e pelas normas complementares de execução, observando-se nos casos omissos as normas aplicáveis às empresas públicas em geral e, subsidiariamente, as normas por que se regem as empresas privadas.
+1 - Transportes Aéreos Portugueses, E. P., que pode designar-se abreviadamente por TAP, TAP - Air Portugal, ou apenas Air Portugal, é uma empresa pública com personalidade jurídica, dotada de autonomia administrativa e financeira e património próprio, com sede em Lisboa, a qual se rege pelo disposto nos presentes estatutos e pelas normas complementares de execução, observando-se nos casos omissos as normas aplicáveis às empresas públicas em geral e, subsidiariamente, as normas por que se regem as empresas privadas.
 
 2. Poderão ser criadas no país ou no estrangeiro quaisquer delegações ou outras formas de representação da empresa.
+
+> Alterado pelo/a [Decreto-Lei n.º 460/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1979-367048), publicado em 1979-11-23.
 
 ###### Artigo 2.º — (Fins)
 
@@ -231,61 +258,71 @@ A empresa explorará em regime de exclusivo os transportes aéreos de passageiro
 
 ###### Artigo 5.º
 
-1. São órgãos da empresa:
+1 - São órgãos da empresa:
 
 a) O conselho geral;
 
 b) O conselho de gerência;
 
-c) O conselho de direcção;
-
-d) A comissão de fiscalização.
+c) A comissão de fiscalização.
 
 2. A intervenção dos trabalhadores no desenvolvimento e contrôle da actividade da empresa far-se-á por intermédio da representação daqueles no conselho geral e na comissão de fiscalização, sem prejuízo da criação de qualquer órgão especial ou instituição de outras formas de intervenção, em conformidade com a legislação aplicável sobre contrôle de gestão pelos trabalhadores.
+
+> Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30.
 
 #### SECÇÃO II — Conselho geral
 
 ###### Artigo 6.º — (Constituição do conselho geral)
 
-1. O conselho geral da empresa será nomeado por despacho do Ministro dos Transportes e Comunicações e será constituído por:
+1 - O conselho geral será nomeado por despacho do Ministro dos Transportes e Comunicações e será constituído por:
 
-a) Dez representantes dos Ministérios e Secretarias de Estado (um de cada um) que superintendam nos seguintes domínios:
+a) Ministro dos Transportes e Comunicações ou um seu representante, a quem compete a presidência do conselho;
 
-1) Transportes e comunicações;
+b) Representantes do Governo até ao limite de dez, devendo esta representação repartir-se, segundo critério do Conselho de Ministros, pelos Ministérios ou Secretarias de Estado que superintendem nos seguintes domínios:
+
+1) Defesa nacional;
 
 2) Administração interna;
 
-3) Comércio externo;
+3) Negócios estrangeiros;
 
-4) Finanças;
+4) Planeamento;
 
-5) Planeamento;
+5) Finanças;
 
-6) Negócios estrangeiros;
+6) Comércio e turismo;
 
-7) Obras públicas;
+7) Trabalho;
 
-8) Trabalho;
+8) Urbanismo e ambiente;
 
-9) Ambiente;
+9) Obras públicas;
 
 10) Comunicação social.
 
-b) Um representante da entidade que explore as infra-estruturas aeronáuticas;
+c) Um representante da administração pública do sector da aviação civil;
 
-c) Um representante de cada uma das autarquias locais portuguesas onde existam aeroportos internacionais;
+d) Um representante da entidade que explore as infra-estruturas aeronáuticas;
 
-d) Um representante de cada órgão regional de planeamento;
+e) Um representante de cada uma das autarquias locais portuguesas onde existam aeroportos internacionais;
 
-e) Cinco representantes dos trabalhadores da empresa, designados de entre eles pela comissão de trabalhadores;
+f) Um representante de cada área regional de planeamento;
 
-f) Os membros do conselho de gerência e da comissão de fiscalização, mas sem direito a voto.
+g) Representantes dos trabalhadores em número igual ao que vier a ser fixado na alínea b).
 
-2. A presidência do conselho geral compete ao Ministro dos Transportes e Comunicações ou ao seu representante.
+2 - Os membros do conselho geral serão designados, pelo período de três anos, renovável, pelas seguintes entidades:
 
-3. Os mandatos dos membros do conselho geral serão conferidos pelo prazo de três anos e serão renováveis.
+a) Os referidos nas alíneas a), b), c), d) e f) do n.º 1, por despacho do Ministro ou Secretário de Estado competente;
 
-4. Os membros do conselho geral perdem o seu mandato quando deixarem de ter a qualidade em virtude da qual foram designados; as pessoas que os substituírem exercerão funções até ao termo normal do membro substituído.
+b) Os referidos na alínea e) do n.º 1, pelos presidentes das câmaras municipais respectivas;
+
+c) Os referidos na alínea g) do n.º 1, pelo competente órgão representantivo dos trabalhadores da empresa.
+
+3 - Nas reuniões do conselho geral devem estar representados o conselho de gerência e a comissão de fiscalização, sem direito a voto.
+
+4 - Os membros do conselho geral perdem o seu mandato quando deixarem de ter a qualidade em virtude da qual foram designados e podem ser substituídos a todo o tempo pela entidade competente para a sua designação; as pessoas que os substituírem exercerão funções até ao termo normal do mandato dos substituídos.
+
+> Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30.
 
 ###### Artigo 7.º — (Competência do conselho geral)
 
@@ -317,55 +354,53 @@ e) Eleger o vice-presidente e o secretário do conselho geral.
 
 ###### Artigo 9.º — (Composição do conselho de gerência)
 
-1. O conselho de gerência é composto de um presidente e quatro vogais, nomeados pelo Conselho de Ministros, sob proposta do Ministro dos Transportes e Comunicações, ouvidos os trabalhadores da empresa.
+1 - O conselho de gerência é composto pelo presidente e até seis vogais, nomeados por períodos de três anos, renováveis, pelo Conselho de Ministros, sob proposta do Ministro dos Transportes e Comunicações, ouvidos o Conselho para a Carreira do Gestor Público e os trabalhadores da empresa.
 
-2. Os mandatos dos membros do conselho de gerência terão a duração de três anos e serão renováveis.
+2 - Para efeitos de audição dos trabalhadores, o Ministro dos Transportes e Comunicações ou o seu representante convocará o órgão representativo dos trabalhadores.
 
-3. Nas suas faltas ou impedimentos, o presidente do conselho de gerência é substituído pelo vogal que for designado pelo conselho na sua primeira reunião após a nomeação.
+3 - O conselho de gerência toma posse perante o Ministro da tutela.
 
-4. Tanto o presidente como os vogais do conselho de gerência não poderão acumular o cargo com o exercício de funções em outras empresas, exceptuadas aquelas em cujo capital estatutário ou social a TAP participe.
+4 - O conselho de gerência, na sua primeira reunião, designará o vogal a quem cabe a substituição do presidente nas suas faltas e impedimentos.
+
+5 - Os membros do conselho de gerência exercerão as suas funções em regime de tempo completo, sendo as mesmas incompatíveis com o desempenho de quaisquer actividades em outras empresas, salvo representação da TAP em sociedades em que aquela participe.
+
+> Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30.
 
 ###### Artigo 10.º — (Competência do conselho de gerência)
 
-1. Compete ao conselho de gerência, além dos poderes genéricos de administração e representação da empresa, praticar todos os actos que, por disposição legal ou do presente estatuto, não devem ser praticados por outro órgão da empresa.
+1 - Compete ao conselho de gerência o exercício de todos os poderes necessários para assegurar a gestão e o desenvolvimento da empresa e a administração do seu património.
 
-2. Ao conselho de gerência compete, em especial:
+2 - Compete, em especial, ao conselho de gerência:
 
-a) Apresentar ao conselho geral projectos com vista à obtenção de pareceres fundamentais para posterior aprovação pelo Ministro da Tutela;
+a) Criar comissões executivas permanentes consideradas necessárias para a descentralização e destinadas a assegurar a coordenação das actividades concorrentes para os diversos objectivos empresariais, designando os membros do conselho que, por delegação do mesmo, assumirão a presidência das referidas comissões;
 
-b) Nomear e exonerar os membros do conselho de direcção, sob proposta do presidente;
+b) Deliberar sobre a aquisição, alienação ou oneração, por qualquer modo, dos bens móveis e imóveis;
 
-c) Aprovar as propostas do conselho de direcção sobre as matérias que excedam a sua competência;
+c) Deliberar sobre o exercício, modificação ou cessação de actividades acessórias do objecto principal da empresa;
 
-d) Aprovar os regulamentos internos destinados à execução dos presentes estatutos e velar pelo seu cumprimento;
+d) Celebrar contratos-programas com o Estado e elaborar os planos plurianuais de actividade e financiamento, de harmonia com as opções e prioridades fixadas nos planos nacionais a médio prazo;
 
-e) Elaborar o relatório, o inventário, o balanço, as contas e a proposta de aplicação dos resultados relativos aos exercícios anuais da empresa, a apresentar à apreciação do conselho geral;
+e) Remeter, até 31 de Agosto, ao Ministro dos Transportes e Comunicações e ao órgão central de planeamento um anteprojecto dos elementos básicos dos planos de exploração e investimento para o ano seguinte e elaborar e remeter aos membros do conselho geral, até 15 de Setembro, o orçamento anual de exploração da TAP, a enviar com o parecer do referido órgão, até 31 de Outubro, ao Ministro dos Transportes e Comunicações, para aprovação;
 
-f) Deliberar sobre o exercício, modificação ou cessação de actividades acessórias do objecto principal da empresa;
+f) Elaborar e submeter a parecer do conselho geral e à aprovação do Ministro dos Transportes e Comunicações as actualizações orçamentais, nos casos previstos na lei;
 
-g) Deliberar sobre a aquisição, oneração ou alienação de participações sociais, bem como sobre a dissolução, liquidação, fusão ou cisão das sociedades em cujo capital a empresa participe, sem prejuízo do disposto na alínea f) do n.º 2 do artigo 3.º;
+g) Organizar, com referência a 31 de Dezembro de cada ano, os documentos de prestação de contas, a remeter aos membros do conselho geral até 10 de Julho e a submeter à aprovação do Ministro dos Transportes e Comunicações até 31 de Julho;
 
-h) Deliberar sobre a aquisição, oneração ou alienação de bens imóveis ou móveis;
+h) Contrair empréstimos e celebrar todos os contratos necessários à prossecução da actividade da empresa;
 
-i) Contrair empréstimos pecuniários ou celebrar contratos de financiamento, incluindo os empréstimos e financiamentos a longo prazo, internos ou externos, sem prejuízo do disposto no n.º 4 deste artigo e na alínea f) do n.º 2 do artigo 3.º;
+i) Confessar, desistir e transigir em quaisquer acções e comprometer-se em árbitros;
 
-j) Criar ou extinguir filiais, sucursais, agências, delegações ou qualquer outro tipo de representação da empresa no País ou no estrangeiro;
+j) Negociar e outorgar acordos colectivos de trabalho;
 
-l) Nomear os representantes da empresa nas sociedades em que ela seja sócia e fixar as directrizes a observar nestas e ou nos órgãos directivos das associações não societárias;
+k) Fixar as condições de trabalho e regulamentar a organização interna da empresa;
 
-m) Decidir sobre as medidas necessárias ao desenvolvimento das políticas e objectivos e das directivas e instruções genéricas emanadas do Governo;
+l) Assegurar o bom funcionamento e tomar as medidas necessárias à organização dos serviços da empresa, de modo a garantir uma adequada economia de meios e elevada qualidade dos serviços públicos de transporte cometidos à empresa;
 
-n) Emitir parecer sobre as matérias que lhe sejam apresentadas pelo Governo;
+m) Designar e exonerar os responsáveis da estrutura orgânica da empresa.
 
-o) Confessar, desistir ou transigir em quaisquer pleitos judiciais e comprometer-se em árbitros, com ou sem recurso;
+3 - O conselho de gerência poderá:
 
-p) Nomear, suspender, transferir ou exonerar, sob proposta do seu presidente, os gestores da estrutura primária da organização da empresa;
-
-q) Estabelecer os regulamentos sobre a organização e execução dos orçamentos anuais e sobre a contabilidade da empresa.
-
-3. O conselho de gerência poderá:
-
-a) Delegar, sob proposta do presidente, quaisquer das suas atribuições em um ou mais dos seus vogais ou em comissão por eles constituída, podendo ainda os mesmos delegar os poderes que julgarem mais convenientes;
+a) Delegar quaisquer das suas atribuições em um ou mais dos seus membros ou em comissões por eles constituídas, podendo ainda os mesmos delegar os poderes que julgarem mais convenientes;
 
 b) Conferir os mandatos que julgar necessários e revogá-los;
 
@@ -381,73 +416,51 @@ b) Por um membro do conselho de gerência que para tanto houver recebido delega�
 
 c) Pelas pessoas a que se referem as alíneas a) e b) do n.º 3 deste artigo, no âmbito dos poderes que lhe tiverem sido conferidos.
 
+> Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30.
+
 ###### Artigo 11.º — (Reuniões do conselho de gerência)
 
 O conselho de gerência reunirá ordinariamente duas vezes por mês e extraordinariamente sempre que o presidente o convocar.
 
 ###### Artigo 12.º — (Competência do presidente do conselho de gerência)
 
-1. Compete ao presidente do conselho de gerência a coordenação e a orientação geral das actividades da empresa.
+1 - Compete ao presidente do conselho de gerência:
 
-2. Compete, em especial, ao presidente do conselho de gerência:
+a) Coordenar e dirigir as actividades do conselho de gerência;
 
-a) Submeter a despacho ministerial os assuntos que dele careçam;
+b) Presidir às sessões do conselho de gerência e exercer voto de qualidade;
 
-b) Transmitir ao conselho geral as propostas do conselho de gerência;
+c) Fazer cumprir as deliberações do conselho de gerência e, em especial, velar pela execução e pelo cumprimento dos orçamentos dos planos anuais e plurianuais;
 
-c) Representar a empresa em juízo e fora dele, tanto no plano nacional como no internacional, quando outros representantes ou mandatários não hajam sido designados;
+d) Submeter a despacho ministerial os assuntos que dele careçam e, de modo geral, assegurar as relações com o Governo;
 
-d) Convocar reuniões conjuntas do conselho de gerência, do conselho de direcção e da comissão de fiscalização, sempre que o julgue conveniente, e a elas presidir;
+e) Assegurar as relações do conselho de gerência com o conselho geral;
 
-e) Presidir ao conselho de direcção;
+f) Representar a empresa em juízo e fora dele;
 
-f) Exercer os restantes poderes que lhe são conferidos no presente estatuto e nos regulamentos dos serviços;
+g) Exercer os poderes que o conselho de gerência nele delegar.
 
-g) Velar pela correcta execução dos planos anuais e plurianuais;
+> Alterado pelo/a [Decreto-Lei n.º 460/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1979-367048), publicado em 1979-11-23.
 
-h) Propor ao conselho de gerência a nomeação das pessoas que hão-de desempenhar as funções de gestores ao nível da estrutura primária da organização da empresa e a sua transferência ou exoneração;
+#### SECÇÃO IV — Comissões executivas
 
-i) Nomear, transferir ou exonerar, sob proposta dos respectivos gestores referidos na alínea anterior, os gestores ao nível das estruturas secundárias da organização da empresa.
+###### Artigo 13.º — (Composição das comissões executivas)
 
-#### SECÇÃO IV — Conselho de direcção
+As comissões executivas permanentes a que se refere a alínea a) do n.º 2 do artigo 10.º são constituídas pelo membro do conselho de gerência, que preside, e pelos directores para o efeito designados.
 
-###### Artigo 13.º — (Composição do conselho de direcção)
+> Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30.
 
-1. O conselho de direcção é composto de um presidente, que será o presidente do conselho de gerência, e de vogais, competindo a estes últimos exercer a gestão da estrutura primária da empresa.
+###### Artigo 14.º — (Competência das comissões executivas)
 
-2. Sob proposta do presidente, o conselho de gerência fixará o número de vogais do conselho de direcção.
+Compete às comissões executivas, além dos poderes de administração nelas delegados pelo conselho de gerência, tomar as medidas adequadas ao bom funcionamento da empresa dentro das respectivas áreas de actuação.
 
-3. Os vogais do conselho de direcção são nomeados, suspensos ou exonerados pelo conselho de gerência, sob proposta do seu presidente.
+> Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30.
 
-4. Na sua primeira reunião, o presidente designará o vogal que o substituirá nas suas funções neste conselho durante os seus impedimentos.
+###### Artigo 15.º — (Competência dos presidentes das comissões executivas)
 
-###### Artigo 14.º — (Competência do conselho de direcção)
+Compete aos presidentes das comissões executivas propor ao conselho de gerência todas as acções que excedam a sua jurisdição.
 
-1. Compete ao conselho de direcção a direcção executiva da empresa e os poderes de administração que lhe sejam delegados por regulamentação interna.
-
-2. Ao conselho de direcção compete, em especial:
-
-a) Elaborar as propostas a submeter ao conselho de gerência com vista à definição por este dos objectivos da empresa, a médio e a longo prazos;
-
-b) Elaborar, com base na definição dos objectivos da empresa efectuada pelo conselho de gerência e aprovada pelo Governo, os planos de actividades e financeiros a médio prazo;
-
-c) Estabelecer os planos de exploração e orçamentos anuais;
-
-d) Propor e regulamentar a organização interna da empresa, os quadros correspondentes e o âmbito da competência dos gestores da estrutura primária da organização;
-
-e) Preparar o relatório, inventário, balanço e contas relativos aos exercícios anuais da empresa, a submeter à apreciação do conselho de gerência;
-
-f) Propor sobre o exercício, modificação ou cessação de actividades acessórias do objecto principal da empresa;
-
-g) Propor, nos termos da regulamentação interna, sobre a aquisição, oneração ou alienação de participações sociais, bem como sobre a dissolução, liquidação, fusão ou cisão das sociedades em cujo capital a empresa participe, sem prejuízo do disposto na alínea g) do n.º 2 do artigo 10.º;
-
-h) Deliberar, dentro dos limites que sejam fixados por regulamentação interna, sobre a aquisição, oneração ou alienação de bens imóveis ou móveis.
-
-3. O conselho de direcção poderá delegar, sob proposta do presidente, quaisquer das suas atribuições em um ou mais dos seus vogais ou em comissão por eles constituída, podendo os mesmos delegar, num e noutro caso, nos directores ou outros chefes de serviço os poderes que julgarem convenientes.
-
-###### Artigo 15.º — (Reuniões do conselho de direcção)
-
-O conselho de direcção reúne-se ordinariamente duas vezes por mês e extraordinariamente sempre que o seu presidente ou a maioria dos seus membros o convocar.
+> Alterado pelo/a [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), publicado em 1977-09-30.
 
 #### SECÇÃO V — Comissão de fiscalização
 
@@ -597,7 +610,9 @@ O relatório do conselho de gerência, o balanço e as contas de ganhos e perdas
 
 2. O Estado só responderá perante terceiros pelos actos e factos imputáveis à empresa se e na medida em que de modo expresso tiver assumido tal responsabilidade.
 
-3. A responsabilidade da empresa para com os utentes será limitada, sendo os respectivos limites fixados em regulamentos sujeitos à aprovação do Ministro dos Transportes e Comunicações. Tal responsabilidade em caso algum abrangerá lucros cessantes.
+3 - A responsabilidade da empresa por danos resultantes da sua actividade de transporte aéreo será limitada nos precisos termos que vigoram para os voos internacionais ao abrigo das convenções a que o Estado Português está ou venha a estar vinculado.
+
+> Alterado pelo/a [Decreto-Lei n.º 460/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1979-367048), publicado em 1979-11-23.
 
 ###### Artigo 31.º — (Participação em associações e reuniões)
 

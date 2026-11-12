@@ -28,10 +28,63 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-12-17'
+version_history:
+  file: decreto-regulamentar-28-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-05-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-12-17'
+    amending: pt:dre:286329:por
+    amending_title: Decreto Regulamentar n.º 61/77; Decreto Regulamentar n.º 97/82
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 14.º
+    - Altera Artigo 33.º
+    - Altera Artigo 57.º
+    - Altera Artigo 63.º
+    - Altera Artigo 80.º
+    - Altera Artigo 93.º
+    - Altera Artigo 94.º
+    - Altera Artigo 97.º
+    - Altera Artigo 98.º
+    - Altera Artigo 106.º
+    - Altera Artigo 114.º
+    - Altera Artigo 120.º
+    - Altera Artigo 122.º
+    - Altera Artigo 203.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 47.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 77.º
+    - Altera Artigo 82.º
+    - Altera Artigo 83.º
+    - Altera Artigo 84.º
+    - Revoga Artigo 85.º
+    - Altera Artigo 86.º
+    - Revoga Artigo 87.º
+    - Altera Artigo 89.º
+    - Revoga Artigo 90.º
+    - Revoga Artigo 91.º
+    - Altera Artigo 99.º
+    - Altera Artigo 104.º
+    - Revoga Artigo 105.º
+    - Altera Artigo 107.º
+    - Revoga Artigo 115.º
+    - Revoga Artigo 123.º
+    - Altera Artigo 124.º
+    - Altera Artigo 125.º
+    - Altera Artigo 126.º
+    - Altera Artigo 135.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +110,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:56:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 61/77; Decreto
+    Regulamentar n.º 97/82. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1977/decreto-regulamentar-28-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -207,9 +261,11 @@ As tarifas fixadas neste diploma são devidas nos casos nele designados e dizem 
 
 ###### Artigo 5.º — Embarcação
 
-1 - Para efeito da aplicação do presente Regulamento consideram-se «embarcações» todos os navios ou construções flutuantes empregados na navegação, no comércio marítimo, na reparação de navios, na construção de obras marítimas e fluviais, na pesca e recreio e ainda os barcos de guerra.
+1 - Para efeito da aplicação do presente Regulamento consideram-se «embarcações» todos os navios ou construções flutuantes empregados na navegação, no comércio marítimo, na reparação de navios, na construção de obras marítimas e fluviais, na pesca e recreio e ainda os navios de guerra.
 
 2 - A classificação das embarcações quanto aos serviços a que se destinam e às zonas em que exercem a sua actividade é a constante do Regulamento Geral das Capitanias.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
 
 ###### Artigo 6.º — Navio de passageiros
 
@@ -247,7 +303,11 @@ Para efeitos da aplicação das tarifas do presente Regulamento, as mercadorias 
 
 ###### Artigo 14.º — Classificação das mercadorias
 
-Para efeito da aplicação das tarifas de tráfego e armazenagem, as mercadorias são classificadas como carga geral, carga especial e contentores. A carga especial será constituída pelas mercadorias que obriguem a precauções especiais na sua manutenção e armazenagem (explosivas, inflamáveis, corrosivas, etc.) ou que tenham um valor excepcional. A discriminação destas mercadorias consta de tabelas especiais anexas a este Regulamento.
+Para efeito da aplicção das tarifas de tráfego e armazenagem, as mercadorias são classificadas como carga geral, carga especial e contentores. A carga especial será constituída pelas mercadorias que obriguem a precauções especiais na sua manutenção e armazenagem, tais como mercadorias explosivas, inflamáveis, corrosivas ou que tenham valor excepcional.
+
+A discriminação destas mercadorias consta da tabela anexa ao presente diploma.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
 
 ###### Artigo 15.º — Tráfego
 
@@ -401,7 +461,7 @@ e) Número de contentores descarregados e carregados, com excepção dos que, pa
 
 f) Discriminação da carga por contentor e indicação dos pesos respectivos;
 
-g) Discriminação dos portos, dos contentores carregados e a descarregar fora das instalações portuárias (contentores porta-a-porta);
+g) Discriminação, por portos, dos contentores carregados e a descarregar fora das instalações portuárias (contentores ponta-a-ponta);
 
 h) Indicação de forma visível, e sem intercalação de outras anotações, do peso referente aos volumes de cada conhecimento de embarque.
 
@@ -410,6 +470,8 @@ h) Indicação de forma visível, e sem intercalação de outras anotações, do
 5 - Os manifestos que no seu preenchimento não obedeçam às cláusulas previstas no corpo deste artigo serão rejeitados pelos serviços de cais, admitindo-se que a respectiva substituição se processe no prazo máximo de vinte e quatro horas.
 
 6 - O não cumprimento das disposições contidas neste artigo é passível da suspensão imediata do serviço, até que se concretize a entrega dos elementos corrigidos, independentemente das sanções previstas no presente Regulamento.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
 
 ###### Artigo 34.º — Penalidades
 
@@ -439,11 +501,15 @@ a) Primeira falta ... 50$00
 
 b) Por cada reincidência ... 100$00
 
-###### Artigo 39.º — Reclamação de facturas
+###### Artigo 39.º — Reclamação de facturas e cobrança coerciva
 
 1 - A reclamação de facturas só é admitida desde que apresentada dentro do prazo para pagamento indicado na factura reclamada.
 
 2 - Pela reclamação julgada improcedente, ou procedente por falta imputável ao reclamante, será cobrada a importância de 10% sobre o valor da factura reclamada, mas nunca inferior a 100$00 nem superior a 1000$00.
+
+3 - Em caso de cobrança coerciva, será debitada a taxa de 500$00, que acrescerá à importância da factura para efeitos de execução fiscal.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 40.º — Despacho de mercadorias
 
@@ -451,7 +517,9 @@ As autoridades aduaneiras facilitarão à Administração dos Portos do Douro e 
 
 ###### Artigo 41.º — Requisição de serviços
 
-Toda a prestação de serviço deverá ser precedida de requisição.
+A prestação de serviços, tanto em período normal de trabalho como em extraordinário, será precedida de requisição.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 42.º — Ocupações
 
@@ -477,27 +545,11 @@ Para efeitos da aplicação de taxas, a Administração dos Portos do Douro e Le
 
 ###### Artigo 47.º — Serviço extraordinário
 
-1 - Os serviços prestados fora do período normal de trabalho terão os seguintes aumentos:
+1 - Os agravamentos das taxas dos serviços prestados e do pessoal utilizado em trabalho extraordinário serão estabelecidos pelo conselho de administração dos Portos do Douro e Leixões.
 
-Nos dias úteis, as taxas fixadas são aumentadas de:
+2 - O número mínimo de horas a considerar nos débitos a aplicar aos utentes pelo serviço extraordinário que for requisitado à APDL, bem como os mínimos a cobrar exigíveis para cada caso e ainda outras normas a estabelecer sobre esta matéria, serão definidos também pelo conselho de administração dos Portos do Douro e Leixões.
 
-a) Nas três primeiras horas após o período normal de trabalho - 50%;
-
-b) Nas restantes horas após o período normal de trabalho - 100%.
-
-Aos domingos e feriados e horas de refeição, as taxas regulamentares serão pagas com o aumento de 100%.
-
-2 - Serão facturados por um mínimo de quatro horas os serviços extraordinários a efectuar aos domingos e feriados:
-
-a) Todos os aparelhos ou serviços requisitados, pelas taxas respectivas;
-
-b) Todo o pessoal expressamente convocado para a realização do serviço e cujos encargos não estejam incluídos nas taxas dos aparelhos ou serviços referidos na alínea a).
-
-3 - A facturação do mínimo de quatro horas só é aplicável quando o trabalho se não desenrole em continuidade com o do dia útil anterior.
-
-4 - O serviço prestado fora das horas normais deverá ser requisitado pelo utente com a devida antecedência.
-
-5 - Todos os serviços prestados nas condições referidas no número anterior serão debitados pelas tarifas em vigor, acrescidas dos adicionais respectivos, e por todo o período ou períodos requisitados, quer sejam ou não utilizados, assim como todo o pessoal a eles afectos e cujos encargos não estejam contidos nas respectivas taxas.
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 48.º — Obrigatoriedade de trabalho fora do horário normal
 
@@ -547,7 +599,7 @@ Na área de jurisdição da Administração dos Portos do Douro e Leixões nenhu
 
 4 - Não necessitam de cumprir as formalidades referidas no n.º 1 deste artigo as embarcações de pesca que não venham atracar a cais comerciais.
 
-###### Artigo 57.º — Cais de atracação
+###### Artigo 57.º — Ordem de atracação
 
 1 - As embarcações atracarão, em regra, pela ordem da sua chegada:
 
@@ -558,6 +610,8 @@ b) Porto de Leixões - à linha das 3 milhas, com centro no posto de radar da Ad
 2 - Para os navios que demandem o Douro e que arribem a Leixões aguardando a abertura da barra à navegação, a ordem para efeito de atracação no Douro é dada a partir da hora em que entrarem na área das 3 milhas do porto de Leixões, desde que no momento de começar a pilotagem da entrada estejam em frente da barra, de forma a poderem entrar no rio segundo a posição que lhes corresponder em função dos calados.
 
 3 - Para os navios que estão a fazer operações em Leixões e que depois demandem o Douro, a ordem para efeito de atracação neste porto será considerada a partir da hora em que terminaram as suas operações, desde que no momento de começar a pilotagem de entrada estejam em frente da barra, de forma a poderem entrar no rio segundo a posição que lhes corresponder em função dos calados.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
 
 ###### Artigo 58.º — Prioridades de atracação
 
@@ -601,7 +655,9 @@ b) O navio, na altura em que lhe competir atracar, em sequência da lista de ord
 
 c) Antes da nova chegada, a agência de navegação confirmará com antecedência de doze horas sobre a hora prevista para atracação que o navio estará no porto de Leixões com, pelo menos, o avanço de uma hora sobre a prevista para atracação;
 
-d) No caso das condições previstas, perderá a vez de atracar que lhe competiria pelo primeiro contrôle efectuado, sendo tratado como qualquer outro navio que demande o porto pela primeira vez.
+d) No caso de qualquer navio não satisfazer alguma das condições previstas, perderá a vez de atracar que lhe competiria pelo primeiro contrôle efectuado, sendo tratado como qualquer outro navio que demande o porto pela primeira vez.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
 
 ###### Artigo 64.º — Determinação dos locais de acostagem
 
@@ -621,11 +677,17 @@ Os navios arribados ou com avaria que entrem nos portos do Douro e Leixões e qu
 
 ###### Artigo 67.º — Largada do navio para o fundeadouro sem terminar as operações
 
-Quando uma embarcação acostada, dentro da mesma contramarca fiscal, interromper as operações de descarga ou carga, voltando nos dias seguintes a acostar para completar o seu movimento, o período de ausência não será considerado na aplicação da taxa de acostagem, considerando-se apenas o período total efectivo de atracação.
+1 - Quando uma embarcação acostada, dentro da mesma contramarca fiscal, interromper as operações de descarga ou carga e fundear no porto, voltando a atracar posteriormente para completar o seu movimento, ficará sujeita ao pagamento da taxa de estacionamento/acostagem, nos termos do n.º 3 do artigo 82.º do presente Regulamento, durante o tempo em que se encontrar fundeada.
 
-###### Artigo 68.º — Mudança para outro cais, a fim de terminar as operações
+2 - Quando uma embarcação interromper as suas operações, dentro da mesma contramarca fiscal, e fundear fora do porto, voltando posteriormente a atracar para completar o seu movimento, o período de ausência não será considerado para efeitos de aplicação da taxa de estacionamento/acostagem.
 
-Quando uma embarcação estiver acostada a um cais e mudar para outro cais, a fim de continuar a sua descarga ou carga, sem que no intervalo tenha ido fundear ao largo ou tenha atracado na outra margem, a taxa de acostagem será aplicada como se a embarcação se tivesse conservado sempre acostada ao mesmo cais.
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
+
+###### Artigo 68.º — Mudança para outro cais a fim de terminar as operações
+
+Quando uma embarcação estiver acostada a um cais e mudar para outro cais a fim de continuar a sua descarga ou carga sem que, no intervalo, tenha ido fundear, a taxa de estacionamento/acostagem será aplicada como se a embarcação se tivesse conservado sempre acostada ao mesmo cais.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 69.º — Preparação da embarcação para atracar
 
@@ -667,11 +729,15 @@ Não é permitido o uso de correntes nas amarrações passadas aos cabeços.
 
 3 - As embarcações acostadas aos cais são obrigadas a desviar os paus de carga e ainda a escada de portaló todas as vezes que estejam a impedir a passagem dos guindastes, vagões ou locomotivas.
 
-###### Artigo 77.º — Experiência de máquinas
+###### Artigo 77.º — Imobilização e experimentação de máquinas
 
-1 - Os comandantes ou mestres das embarcações acostadas não poderão experimentar as máquinas sem que solicitem a devida autorização à Administração dos Portos do Douro e Leixões.
+1 - Os comandantes ou mestres das embarcações acostadas não poderão imobilizar as suas máquinas para procederem a reparações, ou por quaisquer outros motivos, nem experimentá-las, sem prévia autorização da APDL.
 
-2 - Se a autorização referida no corpo deste artigo for concedida e da experiência resultar algum prejuízo, a responsabilidade será imputada ao comandante ou mestre da embarcação.
+2 - Os prejuízos causados à Administração ou a terceiros em consequência da inobservância do estabelecido no número anterior serão da responsabilidade do comandante ou mestre da embarcação em falta.
+
+3 - Se for concedida autorização para experiência de máquinas e do facto resultar qualquer prejuízo, a responsabilidade será imputada ao comandante ou mestre da embarcação.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 78.º — Responsabilidades dos comandantes por avarias
 
@@ -685,7 +751,9 @@ Os comandantes ou mestres das embarcações serão responsáveis por quaisquer d
 
 1 - É proibido lançar de bordo das embarcações qualquer objecto à água e ainda fazer qualquer despejo sobre os cais de lixos ou detritos.
 
-2 - As contravenções ao estabelecido no corpo deste artigo serão punidas com multa de 1000$00 a 5000$00, conforme a gravidade da falta cometida, além do pagamento dos prejuízos provocados.
+2 - As contravenções ao estabelecido no número anterior serão punidas com multa de 1000$00 a 5000$00, conforme a gravidade da falta cometida, além do pagamento dos prejuízos provocados.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
 
 ###### Artigo 81.º — Desatracação das embarcações
 
@@ -705,99 +773,79 @@ Por cada meia hora sucessiva ou fracção ... 1000$00
 
 2 - Estas penalidades só serão de aplicar quando daí resultarem prejuízos para terceiros.
 
-### CAPÍTULO II — Estacionamento no porto
+### CAPÍTULO II — Estacionamento e acostagem no porto
 
-###### Artigo 82.º — Aplicação das taxas
+###### Artigo 82.º — Aplicação da taxa de estacionamento/acostagem
 
-1 - Todas as embarcações que entrarem e estacionarem nos portos do Douro e Leixões estão sujeitas ao pagamento das seguintes taxas de estacionamento:
+1 - Todas es embarcações que entrarem nos portos do Douro e Leixões estão sujeitas ao pagamento das seguintes taxas de estacionamento/acostagem, por tonelada de arqueação bruta:
 
-Por tonelada de arqueação bruta:
+a) No 1.º período de 24 horas ou fracção ... 6$00
 
-a) Embarcações de carga:
+b) Por iguais períodos sucessivos ... 1$50
 
-Pelo primeiro período de vinte e quatro horas ou fracção ... 1$50
+2 - As embarcações de carga de carreira regular e os navios de passageiros pagarão 60% das taxas estabelecidas no número anterior.
 
-Por iguais períodos sucessivos ... $15
+3 - Os navios que fundearem no porto beneficiarão de uma redução de 50% da taxa estabelecida no n.º 1 deste artigo desde que não acostem aos cais. Se vierem a atracar ou já tiverem atracado antes, apenas pagarão 50% da taxa fixada na alínea b) do n.º 1 por cada período de 24 horas em que estiverem fundeados. Tratando-se de navios de carreira regular e de passageiros, a redução incidirá sobre as taxas encontradas pelo n.º 2 deste artigo.
 
-b) Embarcações de carga de carreiras regulares:
+4 - Para aplicação da taxa de estacionamento/acostagem, a contagem do tempo começa e termina, respectivamente, quando o navio, à sua entrada e saída, atravessa os limites estabelecidos na alínea a) do artigo 24.º
 
-Pelo primeiro período de vinte e quatro horas ou fracção ... $80
+5 - A taxa de estacionamento/acostagem engloba a utilização de defensas por parte das embarcações que acostem aos cais.
 
-Por iguais períodos sucessivos ... $08
-
-c) Embarcações de passageiros:
-
-Pelo primeiro período de vinte e quatro horas ou fracção ... $50
-
-Por iguais períodos sucessivos ... $05
-
-d) Outras não especificadas:
-
-Pelo primeiro período de vinte e quatro horas ou fracção ... $80
-
-Por iguais períodos sucessivos ... $08
-
-2 - Para aplicação da taxa de estacionamento, a contagem do tempo começa e termina, respectivamente, quando o navio, à entrada e à saída, atravessa os limites referidos na alínea a) do artigo 24.º
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 83.º — Reduções
 
-Terão a redução de 50% nas taxas deste artigo:
+Terão a redução de 50% nas taxas estabelecidas nos n.os 1 ou 2 do artigo 82.º:
 
-a) As embarcações que permaneçam menos de seis horas, qualquer que seja a sua situação;
+a) As embarcações que permaneçam menos de 6 horas no porto;
 
-b) As embarcações de pesca com TAB superior a 200 t, relativamente às taxas referidas na alínea d) do n.º 1 do artigo 82.º
+b) As embarcações que entrem no porto exclusivamente para meter combustível, mantimentos e água;
+
+c) Os barcos acostados por fora de outros;
+
+d) Navios encarregados de missões científicas;
+
+e) Embarcações arribadas e navios para desembarque de náufragos, feridos, etc., pelo tempo que durar tal operação;
+
+f) Embarcações de tráfego local.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 84.º — Isenções
 
-São isentos do pagamento da taxa de estacionamento no porto:
+São isentos de pagamento de taxas de estacionamento/acostagem:
 
-a) Os navios da Armada portuguesa e estrangeira em visita oficial ou de nações que concedam igual regalia;
+a) Os navios da Armada portuguesa e os de armadas estrangeiras quando em visita oficial e ainda os de nações que concedam igual regalia;
 
-b) Os navios encarregados de missões científicas;
+b) As embarcações à vela e a remos até 2 tAB, inclusive;
 
-c) Os navios-hospitais;
+c) As embarcações de qualquer natureza pertencentes a clubes ou associações nacionais de desporto;
 
-d) As embarcações de tráfego local e de pesca até 200 tAB;
+d) Os navios e demais material flutuante pertencentes à alfândega, capitania do porto, Polícia Marítima, administrações e juntas portuárias e Instituto de Socorros a Náufragos;
 
-e) As embarcações desportivas e as de recreio;
+e) Navios-hospitais.
 
-f) As embarcações arribadas e os navios para desembarcar náufragos, feridos, doentes ou tripulantes, unicamente pelo tempo em que se mantiver a causa da sua entrada no porto.
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 85.º — Embarcações inactivas
 
-As embarcações fundeadas ou amarradas a bóias, que estejam inactivas, e as que se encontrem em construção ou reparação pagarão nos primeiros cento e oitenta dias de estadia 50% das taxas respectivas.
+(Revogado.)
 
-### CAPÍTULO III — Acostagem
+> Revogado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 86.º — Obrigatoriedade de acostagem
 
 1 - É obrigatória a acostagem de todas as embarcações de passageiros e as de longo curso, cabotagem ou navegação costeira que estejam em condições de o poderem fazer e venham efectuar operações de carga e descarga nos portos.
 
-2 - A Administração dos Portos do Douro e Leixões pode dispensar a acostagem quando, por motivos especiais, o julgue conveniente, sem prejuízo do pagamento da respectiva taxa.
+2 - A Administração dos Portos do Douro e Leixões pode dispensar a acostagem quando, por motivos especiais, o julgar conveniente.
 
-3 - Quando seja dispensada a acostagem por motivo de não haver para ela local disponível, a taxa de acostagem não será devida até que haja local.
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 87.º — Aplicação da taxa
 
-1 - Toda a embarcação que acoste aos cais, pontes-cais e quaisquer outras instalações da APDL está sujeita ao pagamento das seguintes taxas de acostagem, por tonelada de arqueação bruta e por cada período de vinte e quatro horas, indivisível:
+(Revogado.)
 
-a) Embarcações de carga ... $30
-
-b) Embarcações de carga, de carreiras regulares ... $20
-
-c) Embarcações de passageiros ... $15
-
-d) Outras não especificadas ... $20
-
-2 - Para satisfação da taxa de acostagem o tempo começará a ser contado a partir da hora em que a primeira amarra for passada até ao momento da largada da última amarra do respectivo posto de acostagem.
-
-3 - Terão a redução de 50% das taxas deste artigo:
-
-a) As embarcações que estejam atracadas menos de seis horas;
-
-b) As embarcações que acostem exclusivamente para meter combustíveis, mantimentos e água;
-
-c) As embarcações que estejam acostadas por fora de outras ou prolongadas.
+> Revogado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 88.º — Embarcações de pesca
 
@@ -815,7 +863,7 @@ Por cada 50 t ou fracção acima, além de 100 t ... 20$00
 
 ###### Artigo 89.º — Avenças
 
-A taxa de acostagem das embarcações nacionais de tráfego local, de pesca e rebocadores poderá ser substituída por uma avença anual, semestral ou trimestral, mediante o pagamento da seguinte tabela:
+A taxa de estacionamento/acostagem das embarcações nacionais de tráfego local, de pesca e rebocadores poderá ser substituída por uma avença anual, semestral ou trimestral, mediante o pagamento da seguinte tabela:
 
 a) Até 50 t de arqueação bruta:
 
@@ -841,33 +889,19 @@ Semestral ... 3000$00
 
 Trimestral ... 1500$00
 
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
+
 ###### Artigo 90.º — Isenções
 
-São isentos de taxas de acostagem:
+(Revogado.)
 
-a) Os navios da Armada portuguesa e das estrangeiras em visita oficial ou de nações que concedam igual regalia;
-
-b) As embarcações à vela e a remos até 2 t de arqueação bruta, inclusive;
-
-c) As embarcações de qualquer natureza pertencentes a clubes ou associações nacionais de desporto.
-
-### CAPÍTULO IV — Defensas
+> Revogado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 91.º — Aplicação da taxa
 
-1 - Pela utilização de defensas serão cobradas as seguintes taxas, por cada período de vinte e quatro horas ou fracções:
+(Revogado.)
 
-Defensas de pneus - cada uma ... 100$00
-
-Defensas no terminal de petroleiros:
-
-Posto A ... 10000$00
-
-Posto B ... 2500$00
-
-Posto C ... 1000$00
-
-2 - Nas embarcações acima de 200 t de arqueação bruta é obrigatória a utilização de duas defensas pelo menos.
+> Revogado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ## TÍTULO III — Serviços marítimos
 
@@ -909,13 +943,15 @@ a) De 1000 tdw a 3000 tdw - um rebocador;
 
 b) De 3001 tdw a 40000 tdw - dois rebocadores;
 
-c) De mais de 40000 tdw - dois rebocadores, garantindo que seja o mínimo de 45 t de esforço de tracção.
+c) De navios de 40000 tdw - dois rebocadores, garantido que seja o mínimo de 45 t de esforço de tracção.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
 
 ###### Artigo 94.º — Responsabilidades no reboque
 
 1 - A capitania do navio rebocado tem o comando absoluto do conjunto navio-rebocador, ficando os mestres dos rebocadores sob a sua direcção e ordem.
 
-2 - Cumpre ao rebocador ordenar todas as manobras a executar pelos rebocadores, os quais constituirão simples auxiliares de manobra, cabendo, consequentemente, à capitania no navio rebocado a responsabilidade por toda e qualquer avaria causada ou sofrida no decurso das manobras.
+2 - Cumpre ao rebocado ordenar todas as manobras a executar pelos rebocadores, os quais constituirão simples auxiliares de manobra, cabendo, consequentemente, à capitania do navio rebocado a responsabilidade por toda e qualquer avaria causada ou sofrida no decurso das manobras.
 
 3 - O capitão do navio rebocado será responsável pela segurança dos rebocadores; em especial, não deverá fazer funcionar o hélice do seu navio sempre que esta manobra possa representar perigo para os rebocadores.
 
@@ -924,6 +960,8 @@ c) De mais de 40000 tdw - dois rebocadores, garantindo que seja o mínimo de 45 
 5 - Ele próprio, ou por intermédio da agência de navegação sua legal representante, deverá requisitar o rebocador ou rebocadores necessários para as manobras do seu navio.
 
 6 - O navio rebocado fornecerá, por norma, o cabo de reboque.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
 
 ###### Artigo 95.º — Contagem do tempo
 
@@ -955,9 +993,11 @@ b) Toda a área para além dos limites indicados será considerada como zona for
 
 a) 10% nos serviços que sejam objecto de contrato especial;
 
-b) 20% nos serviços que dêem motivo salário de assistência e salvação, salvo o posto no parágrafo seguinte.
+b) 20% nos serviços que dêem motivo a salário de assistência e salvação, salvo o disposto no número seguinte.
 
 2 - Da gratificação correspondente a serviços que dêem origem a salário de assistência ou salvação poderá o conselho de administração, em casos especiais, estabelecer que da percentagem fixada na alínea b) do número anterior uma parte seja destinada a premiar em especial um ou mais elementos que se houverem distinguido no decurso das operações, de forma a contribuir meritoriamente para o seu bom êxito.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
 
 ### CAPÍTULO II — Rebocadores
 
@@ -965,7 +1005,7 @@ b) 20% nos serviços que dêem motivo salário de assistência e salvação, sal
 
 1 - Pela utilização de rebocadores dentro dos portos para manobrarem ou rebocarem navios de mais de 500 t de arqueação bruta cobrar-se-ão por cada rebocador empregado as taxas dadas em escudos pelas seguintes expressões algébricas:
 
-a) Navios de 50 tAB a 5000 tAB - (450 + 0,30 T) C;
+a) Navios de 500 tAB a 5000 tAB - (450 + 0,30 T) C;
 
 b) Navios de 5001 tAB a 10000 tAB - (600 + 0,25 T) C;
 
@@ -991,9 +1031,13 @@ Rebocadores de mais de 2500 HP ... 1,5
 
 4 - Quando para navios de arqueação bruta inferior a 10000 t forem empregados rebocadores de mais de 2000 HP de potência, por conveniência de serviço da APDL, o valor máximo do coeficiente de potência a aplicar será de C = 1,2.
 
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
+
 ###### Artigo 99.º — Taxas para serviços prestados fora da zona dos portos
 
-Os serviços de rebocadores efectuados para ou fora dos portos do Douro e Leixões, até à distância máxima de duas milhas de qualquer das entradas, assim como o serviço entre ambos os portos, estão sujeitos à tarifa consignada no artigo anterior, com o aumento de 25% para cada rebocador empregado.
+Os serviços de rebocadores efectuados para ou fora dos portos do Douro e Leixões até à distância de 3 milhas de qualquer das entradas, assim como o serviço entre ambos os portos, serão sujeitos à tarifa consignada no artigo anterior, com o aumento de 25% para cada rebocador empregado.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 100.º — Serviços por contrato
 
@@ -1037,21 +1081,23 @@ Decorridas quatro horas de rebocador à ordem, considera-se que o serviço ficou
 
 ###### Artigo 104.º — Mudança de navios
 
-Pelos serviços de desatracação e atracação sequentes e correspondente reboque cobrar-se-ão as taxas constantes do artigo 98.º, acrescidas de 50%.
+Pelos serviços de desatracação e atracação sequentes e correspondente reboque, na mudança de um para outro cais, cobrar-se-ão apenas as taxas constantes do artigo 98.º, relativas a um único movimento.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 105.º — Débitos em serviços extraordinários
 
-1 - Os débitos de rebocadores em serviço extraordinário serão sempre facturados no mínimo de quatro ou duas horas, dentro de cada período de trabalho, consoante haja apenas um ou mais serviços. Será debitado o tempo efectivo das operações pelas taxas em vigor, sendo o excedente, até se completarem os mínimos referidos, taxado como rebocador à ordem.
+(Revogado.)
 
-2 - Se o trabalho requisitado não se efectuar, ou na hipótese de cancelamento do serviço, o débito será aplicado como se se tratasse de rebocador à ordem, considerando-se quatro ou duas horas, caso haja um ou mais serviços.
+> Revogado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
-3 - Em serviço extraordinário, domingos e feriados as taxas sofrerão o agravamento previsto no artigo 46.º
-
-###### Artigo 106.º — Casos de reboque
+###### Artigo 106.º — Cabos de reboque
 
 1 - Quando, a pedido do capitão do navio, o cabo de reboque for fornecido pela APDL, será devida a taxa de 300$00 por serviço.
 
 2 - No caso de ser utilizado um cabo especial de reboque em serviços de assistência, salvamento, etc., será cobrada a taxa de 500$00 por serviço.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
 
 ### CAPÍTULO III — Lanchas
 
@@ -1063,9 +1109,11 @@ a) Serviço de atracação de navios, independentemente do tempo empregado ... 5
 
 b) Outros serviços, por cada hora ... 500$00
 
-2 - Ao serviço de lanchas é aplicável o disposto nos artigos 103.º e 105.º
+2 - Ao serviço de lanchas é aplicável o disposto nos n.os 1, 2 e 4 do artigo 103.º
 
 3 - A taxa de lancha à ordem é de 250$00 por hora, aplicável por fracções mínimas de meia hora.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ### CAPÍTULO IV — Aparelhos flutuantes diversos
 
@@ -1119,15 +1167,15 @@ O serviço do material flutuante com explosivos sofre um aumento de 50%.
 
 O preço/hora será igual ao encargo horário correspondente à respectiva categoria, acrescido de 20% com arredondamento para escudos por excesso.
 
-2 - Será aplicada a taxa de pessoal à ordem para o período compreendido entre a hora para que foi feita a requisição do serviço e aquela em que o mesmo se iniciou, cobrando-se as taxas consideradas na alínea anterior.
+2 - Será aplicada a taxa pessoal à ordem para o período compreendido entre a hora para que foi feita a requisição do serviço e aquela em que o mesmo se iniciou, cobrando-se as taxas consideradas no número anterior.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
 
 ###### Artigo 115.º — Débitos em serviços extraordinários
 
-1 - Os débitos do pessoal amarrador em serviço extraordinário serão sempre facturados no mínimo de duas ou quatro horas, consoante haja mais do que um serviço ou apenas um.
+(Revogado.)
 
-2 - Se o trabalho requisitado se não efectuar na sua totalidade ou em parte, por motivos de cancelamento ou outros alheios à APDL, o débito será aplicado a todos os requisitantes, conforme se indica no número anterior.
-
-3 - O serviço requisitado fora das horas normais de serviço, aos domingos e feriados sofrerá o agravamento das taxas previstas no artigo 46.º
+> Revogado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 116.º — Pessoal empregado
 
@@ -1159,11 +1207,13 @@ Sempre que se reconhecer que a intervenção dos mergulhadores foi plenamente ef
 
 ###### Artigo 120.º — Taxas por ajuste
 
-1 - As operações de maior responsabilidade do que aquelas que estão previstas no artigo 115.º, bem como as praticadas fora da área de jurisdição da Administração dos Portos do Douro e Leixões, serão debitadas mediante ajuste prévio, dependendo este da natureza do serviço a efectuar e da profundidade a que for efectuado.
+1 - As operações de maior responsabilidade do que aquelas que estão previstas no artigo 117.º, bem como as praticadas fora da área de jurisdição da Administração dos Portos do Douro e Leixões, serão debitadas mediante ajuste prévio, dependente este da natureza do serviço a efectuar e da profundidade a que for efectuado.
 
 2 - Se a profundidade do serviço a efectuar ultrapassar a cota dos 20 m ou for utilizado o corte submarino, reverterá a favor dos mergulhadores que tenham intervindo no serviço a importância correspondente a 20% do valor cobrado.
 
 3 - Por cada serviço de corte submarino, além do débito resultante do ajuste, será aplicada ao utente a taxa fixa de 500$00 pelo aluguer do maçarico.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
 
 ###### Artigo 121.º — Taxas de transporte
 
@@ -1177,7 +1227,7 @@ O transporte do material e do pessoal utilizados em serviços a efectuar fora da
 
 1 - Pela utilização do plano de querenagem da Administração dos Portos do Douro e Leixões serão cobradas as seguintes taxas de encalhe e estadia:
 
-a) Traineiras ou embarcações de pesca até 600 tAB:
+a) Traineiras ou embarcações de pesca até 60 tAB:
 
 Encalhe ... 3000$00
 
@@ -1259,15 +1309,19 @@ A partir do 61.º dia ... 400$00/dia
 
 4 - As embarcações que não sejam de pesca serão objecto de ajuste especial.
 
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
+
 ###### Artigo 123.º — Querenagem e lançamento em período extraordinário
 
-Quando, por conveniência do proprietário e com prévio acordo da Administração dos Portos do Douro e Leixões, uma embarcação tiver de ser querenada ou lançada fora das horas normais de serviço, serão por conta daquele, além das taxas previstas, as despesas extra ocasionadas com o pessoal empregue. Aos domingos e dias feriados será cobrado um período mínimo de quatro horas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ### CAPÍTULO II — Rampas e varadouros
 
 ###### Artigo 124.º — Taxas de ocupação
 
-1 - Todas as embarcações que encalhem e estacionem ao longo das margens, acima da linha da baixa-mar de águas vivas, pagam a taxa de ocupação de terreno de $20 por metro quadrado e por dia.
+1 - Todas as embarcações que encalhem e estacionem ao longo das margens, acima da linha da baixa-mar de águas vivas, pagam a taxa de ocupação de terreno de $50 por metro quadrado e por dia.
 
 2 - Esta taxa é aplicável aos materiais depositados nas rampas e varadouros.
 
@@ -1275,15 +1329,19 @@ Quando, por conveniência do proprietário e com prévio acordo da Administraç�
 
 4 - A reparação dos estragos causados nas rampas e varadouros e a limpeza dos detritos deixados nos mesmos serão feitas por conta dos donos das embarcações que lá estacionarem.
 
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
+
 ### CAPÍTULO III
 
 Pranchas firmes, pontes, estacadas, estaleiros e outras instalações ocupando o leito do rio ou ligadas às margens dos portos.
 
 ###### Artigo 125.º — Taxa de ocupação
 
-1 - Pela superfície do álveo cativo e do terrapleno ocupado com as instalações indicadas neste capítulo, cobrar-se-á a taxa de ocupação de 1$00 por metro quadrado e por mês.
+1 - Pela superfície do álveo cativo e do terrapleno ocupado com as instalações indicadas neste capítulo cobrar-se-á a taxa de ocupação de 2$00 por metro quadrado e por mês.
 
 2 - Além da taxa de ocupação, cada concessionário pagará ainda a taxa de exploração, fixada no artigo seguinte
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 126.º — Taxa de exploração
 
@@ -1297,25 +1355,21 @@ c) Estaleiros ocupados por:
 
 Embarcações de 2 t até 5 t:
 
-Pelo primeiro dia ... 2$00
-
-Por cada um dos restantes dias ... 1$00
+Por cada dia ... 2$00
 
 Embarcações com mais de 5 t e até 60 t:
 
-Pelo primeiro dia ... 20$00
-
-Por cada um dos restantes dias ... 5$00
+Por cada dia ... 10$00
 
 Embarcações com mais de 60 t:
 
-Pelo primeiro dia ... 30$00
+Por cada dia ... 20$00
 
-Por cada um dos restantes dias ... 10$00
-
-2 - O débito mínimo para as embarcações mencionadas na alínea a) será de 10$00.
+2 - O débito mínimo para as embarcações mencionadas na alínea c) será de 10$00.
 
 3 - As embarcações cuja tonelagem de arqueação bruta não exceda as 2 t são isentas da taxa de exploração prevista neste artigo.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ## TÍTULO V — Mercadorias
 
@@ -1365,25 +1419,25 @@ O tráfego diz-se directo quando a mercadoria passa directamente da embarcação
 
 ###### Artigo 135.º — Valor das taxas
 
-1 - A taxa de tráfego a que se refere a alínea b) do artigo 25.º deste Regulamento tem os seguintes valores, consoante as mercadorias movimentadas sobre que incide:
+A taxa de tráfego, a que se refere a alínea b) do artigo 25.º deste Regulamento, tem os seguintes valores, consoante as mercadorias movimentadas sobre que incide, por cada tonelada indivisível:
 
-a) Generalidade das mercadorias, por tonelada indivisível - 1$00;
+a) Granéis sólidos ... 10$00
 
-b) Líquidos a granel, por cada tonelada indivisível - 3$00;
+b) Granéis líquidos ... 10$00
 
-c) Combustíveis líquidos a granel para consumo das embarcações, por cada abastecimento e por metro cúbico ou fracção:
+c) Mercadoria contentorizada e taxas de contentores ... 40$00
 
-Pelos primeiros 50 m3 - 10$00/m3;
+d) Mercadorias em paletes, excluindo madeira ... 50$00
 
-No excedente a 50 m3 e até 100 m3 - 7$50/m3;
+e) Pedras, em atados ... 12$00
 
-Além de 100 m3 - 5$00/m3;
+f) Madeira, em descarga ... 50$00
 
-d) Automóveis e veículos motorizados de capacidade de carga até 500 kg - 50$00 por unidade;
+g) Madeira, em carga ... 12$00
 
-e) Camiões ou camionetas e veículos com capacidade de carga superior a 500 kg - 100$00 por unidade.
+h) Outras mercadorias ... 60$00
 
-2 - O mínimo cobrável é 10$00.
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 136.º — Pescado
 
@@ -1413,7 +1467,11 @@ A taxa de tráfego por cada lote de mercadoria aplica-se por uma só vez.
 
 1 - As mercadorias depositadas nos terraplenos dos portos do Douro e Leixões, dentro ou fora dos telheiros, armazéns e depósitos sujeitos ou não a regime aduaneiro, ficam sujeitas ao pagamento das respectivas taxas de armazenagem.
 
-2 - Para efeito da aplicação das taxas, a contagem do tempo de armazenagem começa a partir das 0 horas do dia seguinte ao da entrada da mercadoria nos recintos portuários e termina no dia da sua saída.
+2 - Para efeito de aplicação das taxas, a contagem do tempo de armazenagem começa a partir das 24 horas do dia seguinte ao da entrada da mercadoria nos recintos portuários e termina no dia da sua saída.
+
+3 - Pode o conselho de administração, quando circunstâncias especiais o justifiquem, alargar o período de isenção referido no número anterior até ao limite de 48 horas.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 141.º — Espécies de armazenagem
 
@@ -1437,7 +1495,9 @@ As taxas de armazenagem serão cobradas mensalmente e também quando da sua saí
 
 ###### Artigo 144.º — Mínimo cobrável
 
-Para qualquer espécie de armazenagem, a fracção mínima de área a considerar é de 5 m2.
+Para qualquer espécie de armazenagem, o mínimo cobrável será 20$00.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 145.º — Obrigatoriedades
 
@@ -1545,7 +1605,7 @@ Mais de 720 dias ... 10$00/dia
 
 No caso de se verificar insuficiência de equipamento em relação ao número de unidades requisitadas, a APDL fará o seu rateio conforme achar mais conveniente.
 
-###### Artigo 152.º — Cálculo de rendimento horário, em serviço normal
+###### Artigo 152.º — Cálculo do rendimento horário
 
 1 - No cálculo do rendimento horário das máquinas, contar-se-á como tempo efectivo de ocupação o período compreendido entre o momento em que as mesmas foram postas à disposição do utente, no local da prestação do serviço, e o fim das operações.
 
@@ -1559,17 +1619,23 @@ b) Avaria ou outras causas que pela APDL sejam consideradas impeditivas da máqu
 
 c) Mau tempo, que impossibilite em absoluto o trabalho da máquina.
 
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
+
 ###### Artigo 153.º — Taxas para máquinas de capacidade superior à requisitada
 
 A APDL poderá fornecer máquinas de capacidade superior à capacidade das que foram requisitadas, cobrando-se a taxa correspondente à máquina requerida.
 
-###### Artigo 154.º — Aluguer de ferramentas e utensílios
+###### Artigo 154.º — Obrigatoriedade de utilização de material de exploração da APDL
 
-Não é permitido utilizar ferramentas, aparelhos ou utensílios que não sejam propriedade da APDL, salvo se a Administração as não possuir e autorize a sua utilização.
+Não é permitido utilizar máquinas, aparelhos, ferramentas, utensílios ou qualquer outro mateterial de exploração portuária que não sejam propriedade da APDL, salvo se a Administração os não possuir e autorizar a sua utilização.
 
-###### Artigo 155.º — Utilização de ferramenta estranha à APDL
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
-A utilização de ferramenta ou utensílios estranhos à APDL, motivada por inadaptação dos meios disponíveis a tipos de carga a movimentar, será da inteira responsabilidade do utente.
+###### Artigo 155.º — Utilização de material de exploração estranho à APDL
+
+A utilização de máquinas, aparelhos, ferramentas, utensílios ou qualquer outro material de exploração portuária estranhos à APDL, motivada por inadaptação dos meios disponíveis e tipos de carga a movimentar, será da inteira responsabilidade do utente.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ### CAPÍTULO II — Guindastes de cais
 
@@ -1607,9 +1673,11 @@ A prestação de serviço durante os períodos de trabalho extraordinário, para
 
 a) O utente deverá referir, na requisição do equipamento, o início e o fim do período de trabalho extraordinário requisitado;
 
-b) Para aplicação das taxas a que se refere o artigo 46.º, serão consideradas a tonelagem movimentada e o tempo compreendido entre o início do período de trabalho extraordinário e o fim das operações;
+b) Para aplicação das taxas a que se refere o artigo 47.º serão consideradas a tonelagem movimentada e o tempo compreendido entre o início do período de trabalho extraordinário e o fim das operações;
 
-c) O restante tempo, compreendido entre o fim das operações e o fim do período para que o guindaste fora requisitado, será facturado pela taxa de guindaste à hora.
+c) (Revogada.)
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 158.º — Guindaste à ordem
 
@@ -1667,7 +1735,9 @@ Quando, por motivos estranhos à APDL, não seja obtido nas operações de carga
 
 ###### Artigo 163.º — Taxas a aplicar em serviço extraordinário
 
-Fora do horário normal e aos domingos e feriados, as taxas referidas nos artigos 159.º e 162.º serão acrescidas dos adicionais que constam do artigo 46.º
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 164.º — Utilização de guindastes convencionais
 
@@ -1799,11 +1869,11 @@ Contentores com mais de 20' ... 150$00/contentor
 
 Nos serviços prestados fora dos portos será cobrada a taxa de 1500$00 por hora, indivisível, sendo o tempo contado desde a saída até à entrada da máquina no local de recolha.
 
-###### Artigo 177.º — Serviço para diversos utentes e serviço extraordinário
+###### Artigo 177.º — Serviço para diversos utentes
 
-1 - Em caso de trabalho para vários utentes, o serviço efectivo é registado separadamente a cada um, aplicando-se as taxas mencionadas nos artigos 171.º e 172.º
+Em caso de trabalho para diversos utentes, o serviço efectivo é registado separadamente a cada um, aplicando-se as taxas mencionadas nos artigos 171.º e 172.º
 
-2 - Fora do horário normal as taxas serão acrescidas dos adicionais que constam do artigo 46.º do Regulamento de Tarifas.
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ### CAPÍTULO VII — Pesagens
 
@@ -1817,13 +1887,13 @@ Em período extraordinário ... 12$50
 
 ###### Artigo 179.º — Balanças-básculas
 
-1 - Pelas pesagens efectuadas nas balanças-básculas cobrar-se-ão, dentro do horário normal de trabalho, as seguintes taxas por pesada:
+Pelas pesagens efectuadas nas balanças-básculas cobrar-se-ão, dentro do horário normal de trabalho, as seguintes taxas por pesada:
 
-a) Por veículo vazio ... 5$00
+a) Por veículo vazio ...6$50
 
-b) Por veículo carregado ou qualquer volume de mercadoria ... 20$00
+b) Por veículo carregado ou qualquer volume de mercadoria ... 25$00
 
-2 - Fora do horário normal as taxas serão duplas das do número anterior.
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 180.º — Cartão de pesagens
 
@@ -1835,11 +1905,11 @@ b) Por veículo carregado ou qualquer volume de mercadoria ... 20$00
 
 A Administração dos Portos do Douro e Leixões poderá obrigar a pesagem nas suas básculas de determinadas mercadorias.
 
-###### Artigo 182.º — Taxas das pesagens obrigatórias
+###### Artigo 182.º — Taxas de pesagens obrigatórias
 
-1 - Por cada pesagem obrigatória efectuada nas condições referidas no artigo anterior cobrar-se-á, dentro do horário normal de trabalho, a taxa única de 5$00.
+Por cada pesagem obrigatória efectuada nas condições referidas no artigo anterior cobrar-se-á, dentro do horário normal de trabalho, a taxa única de 6$50.
 
-2 - Por cada pesagem obrigatória efectuada fora do horário normal de trabalho cobrar-se-á a taxa única de 10$00.
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 183.º — Pesagens gratuitas
 
@@ -1885,9 +1955,11 @@ Se a locomotiva posta à disposição do requisitante for dispensada do serviço
 
 ###### Artigo 190.º — Contagem de tempo
 
-1 - Para efeitos de aplicação da taxa de locomotiva à ordem, o tempo conta-se desde a hora a que a máquina foi posta à disposição do requisitante até à hora em que o serviço for iniciado ou a máquina for dispensada, salvaguardando-se o disposto no artigo 46.º
+1 - Para efeitos da aplicação da taxa de locomotiva à ordem, o tempo conta-se desde a hora em que a máquina foi posta à disposição do requisitante até à hora em que o serviço foi iniciado ou a máquina for dispensada.
 
 2 - Se uma locomotiva reservada a um serviço for utilizada pela Administração noutros serviços, o tempo de utilização será descontado ao primeiro requisitante.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ### CAPÍTULO III — Estacionamento de vagões
 
@@ -1921,9 +1993,9 @@ sendo de 5 m3 o mínimo facturável nos fornecimentos por barca-cisterna.
 
 ###### Artigo 193.º — Taxa de fornecimento em tempo extraordinário
 
-1 - Todos os fornecimentos de água feitos fora das horas normais de serviço, aos domingos e dias feriados, sofrerão uma sobretaxa de 100%.
+(Revogado.)
 
-2 - Não poderão, no entanto, ser facturados menos de 20 m3 pelos fornecimentos feitos por barca-cisterna e 10 m3 nas aguadas por terra, exceptuando-se destes limites as embarcações de pesca e de recreio, devendo estas últimas ser de arqueação bruta inferior a 20 t.
+> Revogado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 194.º — Obrigatoriedade de taxa por fornecimento não efectuado
 
@@ -1935,9 +2007,9 @@ O fornecimento de água doce a instalações terrestres será facturado ao preç
 
 ###### Artigo 196.º — Taxa de fornecimento de água salgada
 
-O fornecimento de água salgada em tempo normal será facturado à taxa de 30$00 por cada hora de bombagem, admitindo-se, porém, a fracção mínima de meia hora.
+O fornecimento de água salgada em tempo normal será facturado à taxa de 150$00 por cada hora de bombagem, admitindo-se, porém, a fracção mínima de meia hora.
 
-Fora das horas normais de serviço, aos domingos e dias feriados, o fornecimento sofrerá uma sobretaxa de 100%.
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 197.º — Aluguer de contadores de água
 
@@ -2075,7 +2147,7 @@ Estropos de aço de diâmetro não superior a 20 mm ... 15$00/dia
 
 Estropos de aço de diâmetro superior a 20 mm ... 25$00/dia
 
-Estropos de mesa ... 15$00/dia
+Estropos de massa ... 15$00/dia
 
 Explosores eléctricos ... 10$00/dia
 
@@ -2107,7 +2179,7 @@ Jogos de ganchos com cabos de massa ... 35$00/dia
 
 Jogos de patolas para barris ... 35$00/dia
 
-Jogos de peões para contentores ... 60$00/dia
+Jogos de pinos para contentores ... 60$00/dia
 
 Lingas de corrente para 3 t ... 30$00/dia
 
@@ -2161,39 +2233,57 @@ Tabuleiros metálicos para lingagem ... 25$00/dia
 
 Tirfor ... 30$00/dia
 
+2 - O tempo de aluguer das ferramentas e utensílios é contado à hora, desde a sua saída do respectivo depósito até ao seu regresso ao mesmo, quer o material tenha sido ou não utilizado, não se admitindo fracções das unidades indicadas.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 61/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1977-286329), publicado em 1977-09-08.
+
 ## TÍTULO X — Ocupações
 
 ### CAPÍTULO I — Terrenos e edifícios
 
 ###### Artigo 204.º — Taxas a aplicar
 
-1 - A ocupação de terrenos disponíveis da Administração dos Portos do Douro e Leixões, a longo prazo, com instalações particulares, como armazéns, parques de materiais, depósitos a descoberto, etc., poderá ser concedida, depois de requerida, mediante taxa de ocupação, conforme a seguir estabelecido:
+1 - A ocupação de terrenos disponíveis da Administração dos Portos do Douro e Leixões, a longo prazo, com instalações particulares, como armazéns, parques de materiais, depósitos a descoberto, etc., poderá ser, concedida, depois de requerida, mediante taxa de ocupação conforme a seguir estabelecido:
 
-a) Ocupação com materiais de construção, mercadorias, edifícios, reservatórios subterrâneos ou elevados, galerias, estaleiros, caixas para contadores, canalizações, em terraplenos não destinados a armazenagem de mercadorias:
+a) Ocupação com materiais de construção, mercadorias, edifícios, reservatórios subterrâneos ou elevados, galerias, estaleiros, caixas para contadores, canalizações, em terraplenos não destinados à armazenagem de mercadorias:
 
-Por ano ... 30$00/m2
+Por ano ... 60$00/m2
 
-b) Ocupação de terrenos com barracas fixas, escritórios, depósito com mercadorias, equipamento, etc., dentro da área de exploração portuária:
+b) Ocupação de terrenos com barracas fixas, escritórios, depósitos para mercadorias, equipamento, etc., dentro da área de exploração portuária:
 
-Por ano ... 250$00/m2
+Por ano ... 420$00/m2
 
-c) Ocupação de armazéns da APDL para barracas, escritórios, depósitos, etc., dentro da área de exploração portuária:
+c) Ocupação de edifícios ou armazéns da APDL ou parte deles para a instalação de barracas, escritórios, depósitos, etc., dentro da área de exploração portuária:
 
-Por ano ... 500$00/m2
+Por ano ... 780$00/m2
 
 d) Ocupação com caixas, estrados, tabuleiros, etc., no porto de pesca:
 
-Por metro quadrado e por mês ... 7$50
+Por metro quadrado e por mês ... 12$50
 
-Por metro quadrado e por dia (ocupação acidental) ... 1$00
+Por metro quadrado e por dia ... 1$50
 
-2 - A taxa anual referida na alínea a) deste artigo poderá ser fraccionada até ao período de um mês, indivisível, quando se tratar de mercadorias pobres ocupando terrenos da APDL.
+e) Pelo estacionamento de barracas amovíveis, particulares, para serviço de estiva ou tráfego, nos cais da Administração ou no porto de pesca:
 
-###### Artigo 205.º — Barracas amovíveis para estiva ou tráfego
+Por mês ... 15$00/m2
 
-Pelo estacionamento de barracas amovíveis, particulares, para serviço de estiva ou de tráfego, nos cais da Administração cobrar-se-á a seguinte taxa:
+2 - As taxas anuais, referidas nas alíneas a), b) e c) do número anterior, poderão ser fraccionadas até ao período de 1 mês indivisível:
 
-Por mês ... 10$00/m2
+a) Quando se tratar de ocupações de terrenos da APDL com mercadorias de reduzido valor comercial, geralmente designadas por mercadorias pobres;
+
+b) Quando se tratar de ocupações acidentais requeridas por períodos curtos de tempo, que se destinem a instalação de circos, pistas de automóveis, barracas de tiro e parques de diversões congéneres.
+
+3 - As taxas anuais referidas nas alíneas a), b) e c) do n.º 1 poderão ainda ser fraccionadas por semestre, indivisível, quando a ocupação for requerida, com prévia autorização do conselho de administração da APDL, apenas para aquele espaço de tempo.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
+
+###### Artigo 205.º — Terrenos expropriados na zona de expansão da porto de Leixões
+
+1 - Os terrenos expropriados na zona de expansão do porto de Leixões que são agricultáveis poderão ser alugados, a título precário, mediante rendas que poderão ser actualizadas anualmente.
+
+2 - Os utentes daqueles terrenos, uma vez avisados, ficam obrigados, no prazo que lhes for estipulado, a devolvê-los livres e desembaraçados e sem qualquer direito de indemnização.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 ###### Artigo 206.º — Pluralidade de pretendentes a terrenos e instalações
 
@@ -2205,76 +2295,80 @@ Os terrenos e instalações que forem pretendidos por mais de um requerente ser�
 
 ###### Artigo 207.º — Taxas de portagem
 
-1 - Por cada pessoa ou veículo que a Administração autorize a ingressar nos seus recintos reservados serão cobradas, por dia, as seguintees taxas de portagem:
+1 - Por cada pessoal ou veículo que a Administração autorize a ingressar nos seus recintos reservados serão cobradas, por dia, as seguintes taxas de portagem:
 
 a) Nos cais comerciais de Leixões e Douro:
 
-Pessoas ... 5$00
+Pessoas ... 7$50
 
-Automóveis ... 20$00
+Automóveis ... 30$00
 
-Camiões e camionetas ... 10$00
+Camiões e camionetas ... 20$00
+
+Motociclos e velocípedes motorizados ... 10$00
+
+b) No porto de pesca:
+
+Automóveis ... 25$00
+
+Camiões e camionetas ... 15$00
 
 Motociclos e velocípedes motorizados ... 7$50
 
-b) No porto de pesca:
+Carroças ... 7$50
 
-Automóveis ... 15$00
+Carros de mão ... 5$00
 
-Camiões e camionetas ... 7$50
-
-Motociclos e velocípedes motorizados ... 5$00
-
-Carroças ... 5$00
-
-Carros de mão ... 2$50
-
-2 - É facultado o pagamento de portagens por meio de avenças anuais, que poderão ser pagas em duas prestações semestrais, cujos valores serão os seguintes:
+2 - É facultado o pagamento de portagens por meio de avenças anuais, que poderão ser pagas em 2 prestações semestrais, cujos valores serão os seguintes:
 
 a) Nos cais comerciais de Leixões e Douro:
 
-Pessoas ... 300$00
+Pessoas ... 450$00
 
-Automóveis ... 3000$00
+Automóveis ... 4500$00
 
-Camiões ou camionetas ... 1500$00
+Camiões e camionetas ... 3000$00
 
-Motociclos e velocípedes motorizados ... 750$00
+Motociclos e velocípedes motorizados ... 1250$00
 
 b) No porto de pesca:
 
-Automóveis ... 2000$00
+Automóveis ... 3000$00
 
-Camiões ou camionetas ... 750$00
+Camiões e camionetas ... 1500$00
 
-Motociclos e velocípedes motorizados ... 250$00
+Motociclos e velocípedes motorizados ... 350$00
 
-Carroças ... 500$00
+Carroças ... 750$00
 
-Carros de mão ... 250$00
+Carros de mão ... 350$00
 
 3 - No porto de pesca é ainda facultada a portagem por avença, para o período de safra, pelas importâncias seguintes:
 
-Automóveis ... 1750$00
+Automóveis ... 2750$00
 
-Camiões ou camionetas ... 650$00
+Camiões e camionetas ... 1250$00
 
-Motociclos e velocípedes motorizados ... 200$00
+Motociclos e velocípedes motorizados ... 300$00
 
-Carroças ... 400$00
+Carroças ... 600$00
 
-Carros de mão ... 200$00
+Carros de mão ... 300$00
 
 4 - As taxas de portagem, cobradas por dia ou por avenças, relativas aos cais comerciais dão direito ao acesso a qualquer desses recintos portuários; as respeitantes ao porto de pesca dão direito exclusivamente a esse recinto.
 
 5 - Estão isentos do pagamento de taxa de entrada na área portuária os servidores da APDL, pessoal dos sindicatos portuários, Polícia Marítima e Polícia de Segurança Pública, Alfândega, Guarda Fiscal, sanidade marítima, pilotos, quando em serviço ou fardados. Esta isenção aplica-se apenas ao pessoal, excluindo-se as viaturas.
 
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
+
 ### CAPÍTULO II — Anúncios
 
 ###### Artigo 208.º — Afixação de anúncios
 
-1 - A colocação de anúncios nos recintos vedados, nos cais ou nos locais que confinem com a via pública, depois de devidamente autorizada, está sujeita à taxa de 360$00 por metro quadrado e por ano.
+1 - A colocação de anúncios nos recintos vedados, nos cais ou nos locais que confinem com a via pública, depois de devidamente autorizada, está sujeita à taxa de 700$00 por metro quadrado e por ano.
 
 2 - A colocação e remoção dos anúncios são por conta dos anunciantes.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 97/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/97-1982-379560), publicado em 1982-12-17.
 
 O Ministro do Comércio e Turismo, António Miguel Morais Barreto.

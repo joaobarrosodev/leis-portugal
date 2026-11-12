@@ -52,7 +52,7 @@
     {
       "chave": "17.º",
       "epigrafe": "",
-      "texto": "1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Tesouro e Finanças, pelo Secretário de Estado do Orçamento e pelo Secretário de Estado dos Assuntos Fiscais.\n\n2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome.\n\n3 - O Gabinete do Plano de Desenvolvimento da Área de Sines encontra-se sob a tutela e superintendência do Ministro das Finanças.",
+      "texto": "1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Tesouro e Finanças, pelo Secretário de Estado do Orçamento e pelo Secretário de Estado dos Assuntos Fiscais.\n\n2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome.",
       "alterador": 3
     },
     {
@@ -148,15 +148,18 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 3 (DL 247/2001) dá nova redação ao art. 17.º só com os n.os 1 e 2, sem mencionar o n.º 3 aditado pelo DL 267-A/2000 e sem o revogar: mantido o n.º 3 (eliminação implícita incerta). Alterador 5 (DL 120/2002), art. 32.º, n.º 1: a estrutura orgânica do original é 'substituída' pela do novo diploma — substituição global, não textual, não aplicada ao texto. Alterador 6 (DL 151/2019): nenhuma instrução dirigida ao original.",
+  "nao_aplicavel": "DL 120/2002, art. 32.º, n.º 1: a estrutura orgânica do DL 474-A/99 é 'substituída' pela do novo diploma — não é uma revogação textual de artigos determinados, não se aplica ao texto. DL 151/2019: não contém nenhuma instrução dirigida ao DL 474-A/99.",
   "instrucoes": [
-    "Alt. 1 (DL 267-A/2000), art. 1.º: nova redação dos arts. 2.º, 6.º, 7.º, 8.º, 9.º, 15.º, 16.º, 17.º, 18.º, 19.º, 22.º, 25.º, 33.º, 34.º e 37.º (no 37.º o n.º 9 passa a ser o anterior n.º 10) — aplicada; arts. 2.º, 6.º, 9.º, 15.º, 17.º, 18.º e 19.º voltam a ser alterados pelos alts. 2 e 3.",
-    "Alt. 1, art. 2.º: adita os arts. 28.º-A e 33.º-A — já estavam no texto atual (33.º-A sem outras alterações, não devolvido).",
-    "Alt. 1, art. 3.º, n.º 1: revoga os arts. 10.º, 11.º, 12.º, 35.º e 36.º — 10.º e 11.º já revogados no texto atual; 35.º e 36.º revogados; 12.º revogado e depois repristinado pelo alt. 3. N.º 2: o capítulo II passa a designar-se «Do Conselho de Ministros» — aplicado em titulos.",
-    "Alt. 2 (DL 116/2001), art. 1.º: nova redação dos arts. 2.º, 6.º, 8.º, 14.º, 19.º e 28.º-A — aplicada; o art. 8.º fica com o texto igual ao atual (não devolvido).",
-    "Alt. 3 (DL 247/2001), art. 1.º: nova redação dos arts. 2.º, 6.º, 9.º, 15.º (n.º 1 revogado), 17.º, 18.º, 19.º, 23.º, 24.º e 26.º — aplicada; art. 2.º: repristina o art. 12.º com nova redação — aplicado.",
-    "Alt. 4 (DL 24/2002), art. 1.º: adita o art. 37.º-A — aplicado.",
-    "Alt. 5 (DL 120/2002) e alt. 6 (DL 151/2019): ver nao_aplicavel."
+    "DL 267-A/2000, art. 1.º: nova redação dos arts. 2.º, 6.º, 7.º, 8.º, 9.º, 15.º, 16.º, 17.º, 18.º, 19.º, 22.º, 25.º, 33.º, 34.º e 37.º — aplicado (7.º, 16.º, 22.º, 25.º, 33.º, 34.º e 37.º ficam nesta redação; os restantes foram depois alterados). Art. 7.º: só a nova redação, sem o texto antigo (reparo confirmado).",
+    "DL 267-A/2000, art. 2.º: aditamento dos arts. 28.º-A e 33.º-A — já estavam no texto atual; 28.º-A alterado depois pelo DL 116/2001.",
+    "DL 267-A/2000, art. 3.º, n.º 1: revogação dos arts. 10.º, 11.º, 12.º, 35.º e 36.º — 10.º e 11.º já revogados no texto atual; 35.º e 36.º revogados agora; 12.º repristinado depois pelo DL 247/2001.",
+    "DL 267-A/2000, art. 3.º, n.º 2: capítulo II passa a 'Do Conselho de Ministros' — aplicado em titulos.",
+    "DL 116/2001, art. 1.º: nova redação dos arts. 2.º, 6.º, 8.º, 14.º, 19.º e 28.º-A — aplicado; o art. 8.º volta ao texto 'O Ministro de Estado exerce os poderes que nele forem delegados...', igual ao texto atual, pelo que não vem na resposta (reparo verificado: o resultado final não difere do texto atual).",
+    "DL 247/2001, art. 1.º: nova redação dos arts. 2.º, 6.º, 9.º, 15.º (n.º 1 revogado), 17.º, 18.º, 19.º, 23.º, 24.º e 26.º — aplicado; no art. 17.º a nova redação só tem os n.os 1 e 2, pelo que deixa de ter o n.º 3 aditado pelo DL 267-A/2000.",
+    "DL 247/2001, art. 2.º: repristinação do art. 12.º com nova redação — aplicado.",
+    "DL 24/2002, art. 1.º: aditamento do art. 37.º-A — aplicado.",
+    "DL 120/2002, art. 32.º, n.º 1: substituição da estrutura orgânica — não aplicado (ver nao_aplicavel).",
+    "DL 151/2019: sem instrução dirigida ao original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

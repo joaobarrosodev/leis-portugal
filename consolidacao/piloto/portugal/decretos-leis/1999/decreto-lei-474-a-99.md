@@ -329,8 +329,6 @@ x) TRANSTEJO - Transportes Tejo, S. A.
 
 2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome.
 
-3 - O Gabinete do Plano de Desenvolvimento da Área de Sines encontra-se sob a tutela e superintendência do Ministro das Finanças.
-
 > Alterado pelo/a [Decreto-Lei n.º 247/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2001-642555), publicado em 2001-09-18.
 
 ###### Artigo 18.º

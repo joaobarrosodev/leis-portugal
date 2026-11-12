@@ -4,14 +4,15 @@
     {
       "chave": "2.º",
       "epigrafe": "",
-      "texto": "1 - As declarações sobre o valor do património e rendimentos respeitantes aos titulares de cargos políticos na Região Autónoma dos Açores poderão também ser enviadas ao Tribunal Constitucional, com observância das regras do segredo de justiça, através das seguintes entidades:\n\na) Presidente da Mesa da Assembleia Regional, relativamente ao cargo de deputado regional;\n\nb) Presidente do Governo Regional, relativamente ao cargo de secretário regional;\n\nc) Secretário Regional da Administração Pública, relativamente aos restantes cargos.\n\n2 - As declarações serão entregues, contra recibo, no gabinete das entidades mencionadas no número anterior, que as remeterão ao Tribunal Constitucional.",
+      "texto": "1 - As declarações sobre o valor do património e rendimentos respeitantes aos titulares de cargos políticos na Região Autónoma dos Açores poderão também ser enviadas ao Tribunal Constitucional, com observância das regras do segredo de justiça, através das seguintes entidades:\n\na) Presidente da Mesa da Assembleia Regional, relativamente ao cargo de deputado regional;\n\nb) Presidente do Governo Regional, relativamente ao cargo de secretário regional;\n\nc) Secretário Regional da Administração Pública, relativamente aos restantes cargos.\n\n2 - As declarações serão entregues, contra recibo, no gabinete das entidades mencionadas no número anterior, que as remeterão ao Tribunal Constitucional.\n\nAprovado pela Assembleia Regional dos Açores em 6 de Dezembro de 1983.\n\nO Presidente da Assembleia Regional, Álvaro Monjardino.\n\nAssinado em Angra do Heroísmo em 2 de Fevereiro de 1984.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.",
       "alterador": 1
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, artigo único: nova redação do n.º 2 do artigo 2.º — aplicada; n.º 1 mantido do texto atual."
+    "DLR 2/86/A, artigo único: nova redação do n.º 2 do artigo 2.º (sem 'pessoalmente'); aplicada, mantendo o n.º 1 e as linhas finais de aprovação e assinatura do texto atual (reparo confirmado)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

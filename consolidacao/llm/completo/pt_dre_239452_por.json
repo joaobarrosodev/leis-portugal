@@ -20,6 +20,12 @@
       "alterador": 1
     },
     {
+      "chave": "25.º",
+      "epigrafe": "",
+      "texto": "1. É criada no Ministério da Educação Nacional a Direcção de Serviços do Ciclo Preparatório, que compreenderá uma repartição e uma inspecção, a primeira com funções de superintendência administrativa e a segunda de orientação pedagógica e de fiscalização do ensino.\n\n2. Enquanto se não proceder à reorganização dos serviços centrais do Ministério, a referida Direcção ficará na dependência imediata do Ministro.\n\n3. À Inspecção do Ciclo Preparatório compete em especial:\n\na) Velar pelo nível do ensino e pela eficiência das actividades pedagógicas das escolas;\n\nb) Estimular a actualização cultural e pedagógica dos professores;\n\nc) Promover a renovação de métodos e técnicas de ensino dentro do espírito e finalidades do ciclo;\n\nd) Vigiar o cumprimento das disposições legais pelas escolas preparatórias.\n\n4. O quadro da Direcção de Serviços do Ciclo Preparatório será fixado por portaria conjunta dos Ministros das Finanças e da Educação Nacional.",
+      "alterador": 1
+    },
+    {
       "chave": "27.º",
       "epigrafe": "",
       "texto": "1. As escolas preparatórias gozarão de autonomia administrativa, em termos análogos aos liceus.\n\n2. Quando não for possível assegurar às escolas preparatórias ou às suas secções instalações próprias, poderão elas funcionar nos mesmos edifícios onde se ministrarem outros cursos do ensino secundário público, nas condições a estabelecer, caso a caso, por despacho do Ministro da Educação Nacional.\n\n3. Em 11 de Agosto de 1968 as actuais escolas técnicas elementares são transformadas, ipso jure, em escolas preparatórias do ensino secundário.\n\n4. A secção de um liceu que funcionar fora da respectiva sede, na mesma ou noutra localidade poderá ser transformada em escola preparatória ou em secção de escola preparatória, por despacho do Ministro da Educação Nacional, se para isso houver justificação, atentas as suas características.\n\n5. Nas escolas a que se refere o n.º 3 deste artigo, ainda funcionará o 2.º ano do ciclo preparatório do ensino técnico profissional durante o ano escolar de 1968-1969.\n\n6. Quando nas instalações de determinado estabelecimento de ensino funcionar outro, em harmonia com o previsto no presente artigo, haverá unidade de direcção administrativa e disciplinar, a cargo do primeiro estabelecimento, salvo se o edifício permitir completa separação entre eles.",
@@ -28,14 +34,17 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 1 (DL 48541), art. 12.º: revoga 'a segunda parte do n.º 2 do artigo 25.º' sem delimitar o texto revogado; o corte exato dentro do número é ambíguo, pelo que não foi aplicado ao texto.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alt. 1, art. 8.º n.º 1: aditados ao art. 6.º os n.os 4 e 5.",
-    "Alt. 1, art. 8.º n.º 2: novas redações do art. 17.º, do n.º 1 do art. 19.º (n.º 2 mantido) e do art. 27.º (n.os 1 a 6).",
-    "Alt. 1, art. 12.º: revogação da segunda parte do n.º 2 do art. 25.º — em nao_aplicavel.",
-    "Restantes artigos do DL 48541 e Portaria 340/78 (alt. 2) não alteram o texto do original."
+    "DL 48541, art. 8.º, n.º 1: aditados os n.os 4 e 5 ao art. 6.º — aplicado.",
+    "DL 48541, art. 8.º, n.º 2: nova redação dos arts. 17.º, 19.º n.º 1 (n.º 2 mantém-se: '...') e 27.º (n.os 1 a 6) — aplicado.",
+    "DL 48541, art. 12.º: revogada a segunda parte do n.º 2 do art. 25.º — aplicado (reparo confirmado): suprimida a segunda oração coordenada 'e a inspecção nela compreendida estenderá a sua acção às escolas preparatórias particulares', ficando o n.º 2 a terminar em 'do Ministro.'",
+    "DL 48541, arts. 1.º-7.º, 9.º-11.º e 13.º: disposições autónomas, não alteram o texto do original.",
+    "Portaria 340/78: altera o quadro de pessoal de uma escola (Portaria 776/77), não o texto do DL 47480 — nada a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [
+    "25.º: parágrafo que não está no alterador nem no original: 2. Enquanto se não proceder à reorganização dos serviços centrais do Ministério,"
+  ]
 }

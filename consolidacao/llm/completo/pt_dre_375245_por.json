@@ -30,16 +30,23 @@
       "epigrafe": "(Títulos da dívida pública)",
       "texto": "Os rendimentos de quaisquer títulos da dívida pública auferidos pelo Banco de Portugal não constituem proveitos ou ganhos para efeitos de tributação em contribuição industrial.",
       "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "(Regulamentação)",
+      "texto": "(Revogado.)",
+      "alterador": 3
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "DL 485/88, art. 3.º, n.º 21): a revogação abrange os benefícios fiscais do DL 409/82; o art. 7.º (regulamentação) não é benefício fiscal e ficou sem alteração por não ser seguro que esteja abrangido.",
+  "titulos": [],
+  "nao_aplicavel": "DL 485/88, art. 3.º, n.º 21): revoga o DL 409/82 'excepto o n.º 2 do seu artigo 6.º, na redacção que lhe foi dada pelo artigo 7.º do Decreto-Lei n.º 182/85'; mas o art. 6.º tinha já sido substituído pelo art. 8.º do DL 182/86 por um texto único sem números, pelo que o n.º 2 ressalvado não existe no texto em vigor: a revogação do art. 6.º não se aplica com segurança e o art. 6.º fica com a redação do DL 182/86.",
   "instrucoes": [
-    "Alterador 1 (DL 182/85), art. 7.º: nova redação do n.º 1 do art. 2.º, do n.º 1 (corpo e alínea a)) do art. 4.º e do art. 6.º (n.os 1 e 2). Aplicado, mas os arts. 2.º e 4.º ficam depois revogados pelo alterador 3 e o art. 6.º é reescrito pelo alterador 2.",
-    "Alterador 1, art. 10.º: revoga o art. 1.º, que já estava (Revogado.). Sem mudança.",
-    "Alterador 1, restantes artigos: normas próprias, não dirigidas ao texto.",
-    "Alterador 2 (DL 182/86), art. 8.º: nova redação do art. 6.º (corpo único sobre o Banco de Portugal). Aplicado; os arts. 1.º a 7.º do alterador 2 alteram o Código da Contribuição Industrial, ignorados.",
-    "Alterador 3 (DL 485/88), art. 3.º, n.º 21): revoga os benefícios fiscais do DL 409/82 excepto o n.º 2 do art. 6.º na redação do DL 182/85; arts. 2.º, 3.º, 4.º e 5.º ficam (Revogado.); o art. 6.º mantém-se, por ter hoje (após o DL 182/86) só o conteúdo ressalvado (rendimentos do Banco de Portugal)."
+    "DL 182/85 art. 7.º: nova redação dos arts. 2.º n.º 1, 4.º n.º 1 a) e 6.º (n.os 1 e 2) -> aplicada e depois sobreposta",
+    "DL 182/85 art. 10.º: revoga o art. 1.º -> já estava (Revogado.)",
+    "DL 182/86 art. 8.º: nova redação do art. 6.º (texto único, Banco de Portugal) -> aplicada",
+    "DL 485/88 art. 3.º n.º 21): revoga o DL 409/82 excepto o n.º 2 do art. 6.º (redação 182/85) -> arts. 2.º, 3.º, 4.º, 5.º e 7.º '(Revogado.)'; art. 6.º mantido (ver nao_aplicavel)",
+    "DL 485/88 art. 3.º n.º 25): revoga o DL 182/85 -> outro diploma, ignorada"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

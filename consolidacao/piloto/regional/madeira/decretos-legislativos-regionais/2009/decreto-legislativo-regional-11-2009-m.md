@@ -116,7 +116,7 @@ A organização interna do IEM, IP-RAM é a prevista nos respetivos estatutos.
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 3/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-588853), publicado em 2013-01-02.
 
-#### SECÇÃO I — Direcção
+#### SECÇÃO I — Conselho diretivo
 
 ###### Artigo 8.º — Composição e designação
 

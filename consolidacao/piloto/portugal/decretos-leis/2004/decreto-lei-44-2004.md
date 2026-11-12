@@ -63,6 +63,8 @@ a) Declaração da junta de freguesia respectiva ou, no caso da ilha do Corvo, d
 
 b) Prova da inscrição matricial do prédio ou, no caso de não se encontrar inscrito, da apresentação do requerimento para tal inscrição, aplicando-se-lhe os prazos previstos nos artigos 31.º e 32.º do Código do Registo Predial.
 
+3 - (Eliminado.)
+
 > Alterado pelo/a [Lei n.º 41/2005](https://diariodarepublica.pt/dr/detalhe/lei/41-2005-240377), publicado em 2005-08-03.
 
 ###### Artigo 4.º — Citação e oposição

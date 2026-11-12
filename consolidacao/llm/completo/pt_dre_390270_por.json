@@ -18,10 +18,9 @@
   "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 180/70 art. 1.º: nova redação do art. 1.º — aplicada",
-    "DL 180/70 arts. 2.º, 3.º (normas próprias) e 4.º (altera DL 48948) — não são alterações ao original",
-    "DL 9/78 art. 1.º: nova redação da alínea a) do n.º 2 e do n.º 3 do art. 2.º — aplicada (n.º 3 depois revogado)",
-    "DL 161/88: revoga o n.º 3 do art. 2.º — aplicado"
+    "DL 180/70 art. 1.º: nova redação do art. 1.º, aplicada; arts. 2.º e 3.º do DL 180/70 são normas próprias e o art. 4.º altera o DL 48948: ignorados",
+    "DL 9/78 art. 1.º: nova redação do art. 2.º (n.º 2 al. a) 'As comissões de cobrança;' e n.º 3), aplicada; o reparo do verificador sobre a al. a) não procede, a instrução existe",
+    "DL 161/88: revoga o n.º 3 do art. 2.º, aplicado"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

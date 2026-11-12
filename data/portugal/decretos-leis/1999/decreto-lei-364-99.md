@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-02-04'
+version_history:
+  file: decreto-lei-364-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-09-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-02-04'
+    amending: pt:dre:209047:por
+    amending_title: Decreto-Lei n.º 19/2003
+    changes:
+    - Altera Artigo 6.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 44.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/364/1999/09/17/p/dre/pt/html
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:11:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 19/2003. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-364-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -406,19 +424,17 @@ b) Abertura e admissão das ofertas, avaliação dos concorrentes e das proposta
 
 3 - O pagamento do remanescente do preço deve ser efectuado no prazo fixado no n.º 3 do artigo 25.º e atenderá ao disposto nos números seguintes.
 
-4 - Quando, na sequência de decisões tomadas pelas entidades competentes sobre as respectivas candidaturas, sejam concedidos subsídios, nacionais ou comunitários, de valor inferior a 20% do preço total oferecido pelo referido bloco de acções, destinados a financiar a construção da unidade fabril a que alude o artigo 26.º, será deduzido, ao remanescente do preço a pagar nos termos do número anterior, a diferença entre aqueles 20% e o montante dos subsídios atribuídos.
+4 - (Revogado.)
 
-5 - Quando, na sequência de decisões tomadas pelas entidades competentes sobre as respectivas candidaturas, não sejam concedidos subsídios, nacionais ou comunitários, destinados a financiar a construção da unidade fabril a que alude o artigo 26.º, serão deduzidos, ao remanescente do preço a pagar nos termos do n.º 3, 20% do preço total oferecido pelo referido bloco de acções.
+5 - (Revogado.)
 
-6 - Não haverá lugar a qualquer dedução quando:
+6 - (Revogado.)
 
-a) O montante dos subsídios atribuídos for de valor igual ou superior a 20% do preço total oferecido pelo referido bloco de acções;
+7 - (Revogado.)
 
-b) Não sejam atribuídos subsídios por causa imputável ao concorrente adquirente.
+8 - (Revogado.)
 
-7 - Verificando-se a concessão de subsídios depois de ter ocorrido o pagamento do remanescente do preço, o concorrente adquirente do referido bloco de acções, caso tenha beneficiado do regime previsto nos n.os 4 ou 5, deve, nos 10 dias subsequentes ao recebimento dos subsídios, entregar à Portucel, SGPS, a diferença entre o valor que seria devido nos termos definidos nos n.os 4 e 5 e o valor entretanto pago.
-
-8 - Para efeitos do disposto nos números anteriores, o concorrente adquirente do referido bloco de acções ou a Portucel Recicla deve apresentar à PORTUCEL, SGPS, documentos demonstrativos dos subsídios solicitados, bem como das respectivas concessões ou indeferimentos.
+> Alterado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03.
 
 ###### Artigo 7.º — Documentação à disposição dos interessados
 
@@ -744,25 +760,15 @@ c) Rejeitar uma ou mais das propostas apresentadas, por considerar que não sati
 
 ###### Artigo 26.º — Nova unidade fabril
 
-1 - O concorrente adquirente obriga-se a tomar todas as medidas que se revelem necessárias à construção de uma nova unidade fabril a situar no concelho de Mourão, destinada à indústria de papel reciclado e a substituir a actualmente existente e pertença da Portucel Recicla.
+(Revogado.)
 
-2 - A construção da nova unidade fabril deve observar o projecto entretanto apresentado pela PORTUCEL.
-
-3 - As alterações que se pretendam introduzir no projecto a que se refere o número anterior podem ser autorizadas pela PORTUCEL, SGPS.
-
-4 - Para efeitos do número anterior, deve, designadamente, verificar-se se as alterações:
-
-a) São susceptíveis de potenciar a capacidade de produção actual de produtos acabados fluting e liners, incluindo white top;
-
-b) Conduzem à implementação de tecnologias competitivas ao nível dos equipamentos e componentes da máquina de papel, nomeadamente formação e prensagem, bem como ao nível de automação e controlo distribuído;
-
-c) Garantem que as tecnologias a instalar permitem performances do sistema de acordo com as directivas do IPPC - Integrated Polution Prevention and Control ou, quando estas não se adaptem, com a legislação nacional aplicável.
+> Revogado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03.
 
 ###### Artigo 27.º — Início da actividade da nova unidade fabril
 
-1 - A unidade fabril a que se refere o artigo anterior deve iniciar a sua actividade até Março de 2001.
+(Revogado.)
 
-2 - Para efeitos do disposto no presente artigo, considera-se que a nova unidade fabril inicia a sua actividade quando tiverem sido efectuados os testes com pastas, se tenha verificado o arranque da máquina em produção e funcione o papel no enrolador.
+> Revogado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03.
 
 ###### Artigo 28.º — Manutenção dos contratos de trabalho
 
@@ -880,15 +886,9 @@ As acções representativas de 51% do capital social da GESCARTÃO, bem como 51%
 
 ###### Artigo 44.º — Garantia
 
-1 - O concorrente adquirente, para garantir o cumprimento das obrigações fixadas no n.º 3 do artigo 25.º e nos artigos 26.º e 27.º, deve prestar, no prazo fixado no n.º 1 do artigo 25.º para o pagamento das acções, uma garantia bancária ou um seguro-caução no valor de 6000000000$00, emitidos de acordo com o anexo IV deste caderno de encargos.
+(Revogado.)
 
-2 - O Ministro das Finanças, a pedido fundamentado do interessado, pode autorizar que a garantia bancária ou o seguro-caução referidos no número anterior sejam substituídos por uma dação em penhor de acções representativas do capital social da GESCARTÃO ou por outra forma, devendo as respectivas condições ser definidas no despacho de autorização.
-
-3 - Sem prejuízo do cumprimento do prazo a que se refere o n.º 1, o pedido de substituição da garantia pode ser solicitado e concedido antes de o respectivo concorrente proceder ao pagamento de acções adquiridas no âmbito deste concurso.
-
-4 - O cumprimento das obrigações a que se referem o n.º 3 do artigo 25.º e os artigos 26.º e 27.º deve ser reconhecido por despacho conjunto dos Ministros das Finanças e da Economia.
-
-5 - A garantia a que se refere este artigo é levantada nos cinco dias úteis subsequentes à data do despacho a que se refere o número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03.
 
 ### CAPÍTULO V — Disposições finais
 

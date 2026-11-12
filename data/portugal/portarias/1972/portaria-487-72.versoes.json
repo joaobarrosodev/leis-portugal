@@ -1,0 +1,941 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:676624:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1972-08-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d75065ba9c94d273",
+    "46e2b291715c0e63",
+    "5fa36685d48ab063",
+    "9085341adc52245e",
+    "d4a601c346cbe049",
+    "b6650bfb3fc9f4c2",
+    "5f5402398d7c2ab7",
+    "671d465f08190ecf",
+    "863f89370a550d77",
+    "a9b439d7b5c85b4b",
+    "5583ec171cd7e3ca",
+    "f6b616e7eb676bd8",
+    "822e8d83c9db386d",
+    "7023cb20463dd6d4",
+    "9b56b014b9eef4d7",
+    "bd1a977958a31511",
+    "31a413e014d7c97d",
+    "dce1588afbff02a9",
+    "27cab739b4714801",
+    "b9304c7b02c132ad",
+    "f73ba2b9c53317a6",
+    "eefaacd93c918d42",
+    "d0e9d6e4fc3c8143",
+    "82817ea6a4832631",
+    "dbd9e071ea098574",
+    "45f0802592474430",
+    "45f513a493caf427",
+    "f7ccd7c9f2282896",
+    "05187fb4b3155377",
+    "22b766d8bf2d6f12",
+    "e8f7d2287eeef080",
+    "f491ae1fe26ea131",
+    "ad5ab760eff16ea9",
+    "e3992a8cfd53434d",
+    "fa0cdef829a49492",
+    "65b2acbf51802f1a",
+    "311413039fa36fae",
+    "9c931f83e81cb56f",
+    "02a5b6bac68efc1b",
+    "6c44757c0d90f525",
+    "65499db65ccae2a4",
+    "64d33788aa464e63",
+    "627f7710ab4a9fa9",
+    "a7d500463df9a6b2",
+    "8f838af5ce733bf0",
+    "ce55e1a543b8a358",
+    "2f99e22c3d29f745",
+    "bcb5896fba613dc3",
+    "072381bf17bfe505",
+    "5af6a998b92dd306",
+    "228443bbf72680f0",
+    "6c8781add5955c44",
+    "c78bfc39c461609d",
+    "24d1170ed97e2a12",
+    "c6c3ef3b40370faf"
+   ]
+  },
+  {
+   "date": "1981-09-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:393616:por",
+     "title": "Portaria n.º 85/79",
+     "published": "1979-02-17",
+     "dre_path": "/dr/detalhe/portaria/85-1979-393616"
+    },
+    {
+     "id": "pt:dre:563273:por",
+     "title": "Portaria n.º 813/81",
+     "published": "1981-09-18",
+     "dre_path": "/dr/detalhe/portaria/813-1981-563273"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º",
+    "Altera Artigo 43.º"
+   ],
+   "fragments": [
+    "d75065ba9c94d273",
+    "46e2b291715c0e63",
+    "6ffe77eda5072532",
+    "2cb1e30a46db0138",
+    "61effe41747f634c",
+    "b6650bfb3fc9f4c2",
+    "cf957ff07cff09f8",
+    "65280260c27854ac",
+    "e613bff06cb610c0",
+    "d4de1519fa0382d3",
+    "22863bfa70b7dee7",
+    "ae70f6ea2d28c760",
+    "a3a78fe4c70968ab",
+    "7023cb20463dd6d4",
+    "ce43921328b8d15a",
+    "b470694320b1bed8",
+    "f50cbc920fd1c0e7",
+    "dce1588afbff02a9",
+    "e74e9611f48bb237",
+    "c5e4dddff3abdb60",
+    "beb1c7705f8da785",
+    "74f2fea8e3163fd4",
+    "d0e9d6e4fc3c8143",
+    "b24049ab2fc969e4",
+    "c9bad95898d19a07",
+    "9dc6fdbf707a892b",
+    "45f513a493caf427",
+    "470ea6e744094f55",
+    "7da8a77f84b00fb6",
+    "22b766d8bf2d6f12",
+    "ce4e79babb6dd544",
+    "119acf799b8111f6",
+    "a3902db530845bd9",
+    "ba4e5ba1112b1e38",
+    "3c18c914af3376d9",
+    "65b2acbf51802f1a",
+    "136253a3f4828f2a",
+    "43080bbb13413e1a",
+    "1e7a74ffc45208e9",
+    "6c44757c0d90f525",
+    "8b91f7ea69306cab",
+    "a785d4505ce7e502",
+    "6f779325c7f69c66",
+    "19f71510666d7244",
+    "4575fe99bb9e9b67",
+    "ce55e1a543b8a358",
+    "9162d018b38b9a7d",
+    "b2b7b35296a14b7a",
+    "b80a49b6b55d0481",
+    "a5219f6f23793895",
+    "47abd7b9142d62fb",
+    "f4c458338862f4fc",
+    "c78bfc39c461609d",
+    "5f7c1800c0e692bb",
+    "08ca8a8a9b13edbc"
+   ]
+  }
+ ],
+ "fragments": {
+  "d75065ba9c94d273": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Agosto\n\n1. Em face do apreciável e sempre crescente desenvolvimento que o serviço telex tem vindo a registar entre nós, julga-se conveniente definir concretamente as normas de uso a que o mesmo serviço deve obedecer.\n\nCom esse objectivo se publica o presente Regulamento, que segue muito de perto o Regulamento Internacional, bem como os regulamentos de administrações congéneres dos CTT.\n\n2. Neste Regulamento concretizam-se princípios orientadores do serviço, dentro das características que, desde o início, lhe são próprias. Por outro lado, procura-se orientar a evolução que o mesmo serviço vai ter com a próxima introdução de novas modalidades, especialmente da transmissão de dados com rapidez de modulação superior a 50 bauds, tal como já se pratica em alguns outros países.\n\n3. A publicação deste Regulamento surge num momento em que os CTT estão em fase de recuperação dos atrasos existentes, por forma a poderem vir a corresponder às solicitações derivadas sobretudo do desenvolvimento das actividades económicas nacionais.\n\nA manter-se o ritmo de montagem de novos teleimpressores alcançado em 1971, o número de postos duplicará em menos de quatro anos, o que deverá permitir reduzir substancialmente a lista de espera.\n\nPorque se tem consciência dos inconvenientes da situação actual, não se foi, por agora, tão longe quanto se devia na rigidez de certas normas reguladoras da utilização dos postos existentes. Permite-se, no entanto, uma intervenção judiciosa da empresa pública nos casos em que tal utilização se caracterize de manifesta irregularidade.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações e Transportes, ao abrigo do artigo 25.º, n.º 1, alínea i), do anexo I ao [Decreto-Lei n.º 49368](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49368-1969-215770), de 10 de Novembro de 1969 - Estatuto dos CTT -, aprovar o Regulamento de Uso Público do Serviço Telex constante da presente portaria:\n\nRegulamento de Uso Pública do Serviço «Telex»"
+  },
+  "46e2b291715c0e63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Definições e disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Definições e disposições gerais"
+  },
+  "5fa36685d48ab063": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — (Serviço «telex»)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — (Serviço «telex»)\n\nO serviço de assinantes do telégrafo que permite aos utentes comunicar directamente entre si por meio de aparelhos teleimpressores ligados à respectiva rede constitui o «serviço telex»."
+  },
+  "9085341adc52245e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — (Concessão do uso do serviço «telex»)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — (Concessão do uso do serviço «telex»)\n\n1. Concessão de uso do serviço telex é a forma regida por este Regulamento pela qual os CTT põem um posto telex particular à disposição de quem o requisite e seja aceite como assinante.\n\n2. A concessão de um posto telex particular depende do prévio pagamento da taxa de instalação. Este pagamento constitui, para todos os efeitos legais, a adesão do assinante a todas as normas regulamentares do serviço telex, designadamente às que o obrigam à ulterior liquidação dos débitos decorrentes da utilização do mesmo serviço."
+  },
+  "d4a601c346cbe049": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — (Intransmissibilidade da concessão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — (Intransmissibilidade da concessão)\n\n1. A concessão do uso do serviço telex é pessoal e intransmissível, não podendo, por isso, ser negociada nem transferida, salvo nos casos expressamente previstos no artigo 29.º\n\n2. As disposições deste artigo relativas à concessão de uso do serviço telex são aplicáveis à requisição de postos telex particulares referida no artigo 4.º"
+  },
+  "b6650bfb3fc9f4c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Instalação de postos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Instalação de postos"
+  },
+  "5f5402398d7c2ab7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — (Requisições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — (Requisições)\n\nA inscrição para a concessão de uso do serviço telex deverá ser solicitada aos CTT em requisição subscrita pelo próprio interessado, na qual este se identifique precisamente, indique o local onde pretende a instalação do posto telex e refira as condições legais em que ocupa o referido local."
+  },
+  "671d465f08190ecf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — (Ordem de satisfação das requisições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — (Ordem de satisfação das requisições)\n\nAs requisições serão satisfeitas por ordem cronológica da sua inscrição nos sectores em que, para o efeito, o território metropolitano for dividido, sem prejuízo das excepções que, eventualmente, sejam determinadas pelo Governo."
+  },
+  "863f89370a550d77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — (Confirmação das requisições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — (Confirmação das requisições)\n\n1. Chegada a vez de satisfação de uma requisição, os CTT poderão convidar o requisitante, mediante carta registada com aviso de recepção, a que, dentro de determinado prazo, confirme, actualize, complete ou modifique o pedido e apresente os elementos julgados necessários à decisão dos CTT acerca da aceitação do requisitante como assinante do serviço telex.\n\n2. Quando, por culpa imputável ao requisitante, os elementos referidos no número anterior não forem apresentados dentro do prazo que haja sido fixado, a requisição será anulada, perdendo o interessado todos os direitos inerentes a essa requisição.\n\n3. A incorrecção ou falsidade das indicações prestadas pelo requisitante, em qualquer momento que se verifique, é fundamento bastante para que os CTT anulem os efeitos da requisição ou revoguem as concessões que hajam dado com base nas ditas informações."
+  },
+  "a9b439d7b5c85b4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — (Atribuição das concessões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — (Atribuição das concessões)\n\nCompletado o pedido do requisitante, os CTT decidirão sobre a concessão de uso do serviço telex, tendo eventualmente em conta:\n\na) Outras relações existentes ou havidas entre o requisitante e os CTT;\n\nb) A solvabilidade do requisitante;\n\nc) As condições legais de ocupação do local indicado para a instalação do posto;\n\nd) As características do equipamento pretendido;\n\ne) Outras circunstâncias pertinentes."
+  },
+  "5583ec171cd7e3ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — (Local para a instalação do posto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — (Local para a instalação do posto)\n\n1. O local indicado para a instalação do posto deverá ser efectivamente ocupado e explorado pelo assinante e obedecer aos requisitos mínimos fixados pelos CTT quanto a dimensões, protecção e resguardo do equipamento e quanto a segurança e comodidade do pessoal encarregado da montagem e da manutenção desse equipamento.\n\n2. Fica a cargo do assinante a instalação dos circuitos de energia eléctrica destinados a assegurar o funcionamento do respectivo posto."
+  },
+  "f6b616e7eb676bd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — (Aparelhagem fornecida pelos CTT)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — (Aparelhagem fornecida pelos CTT)\n\nNormalmente, o equipamento dos postos telex é fornecido, instalado e conservado pelos CTT."
+  },
+  "822e8d83c9db386d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º — (Aparelhagem fornecida pelo assinante)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º — (Aparelhagem fornecida pelo assinante)\n\n1. O assinante poderá ser autorizado a utilizar equipamento de que os CTT não disponham, desde que o funcionamento deste equipamento satisfaça às normas técnicas e de exploração estabelecidas pelos CTT.\n\n2. O fornecimento, instalação e conservação desse equipamento serão assegurados pelo assinante ou por seu intermédio e de sua conta, sempre sob sua inteira responsabilidade.\n\n3. Os CTT podem proceder à desligação do equipamento fornecido pelo assinante sempre que verifiquem que esse equipamento produz perturbações de qualquer natureza."
+  },
+  "7023cb20463dd6d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Identificação do posto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Identificação do posto\n\nLista dos assinantes"
+  },
+  "9b56b014b9eef4d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 11.º — (Número do posto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 11.º — (Número do posto)\n\n1. O número de selecção individual do posto telex é atribuído pelos CTT.\n\n2. Os CTT podem modificar, a todo o tempo, o número que anteriormente tenham atribuído ao posto telex, avisando prèviamente o respectivo assinante."
+  },
+  "bd1a977958a31511": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 12.º — (Indicativo do posto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 12.º — (Indicativo do posto)\n\n1. O indicativo de resposta automática para identificação do posto telex e confirmação do correcto estabelecimento das comunicações compreende o número de selecção do posto, a sigla do assinante e a letra P designativa do país.\n\n2. A sigla do assinante é escolhida por este, sem prejuízo das regras fixadas pelos CTT."
+  },
+  "31a413e014d7c97d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 13.º — (Lista dos assinantes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 13.º — (Lista dos assinantes)\n\n1. É reservado aos CTT o direito de publicação da lista dos seus assinantes do serviço telex.\n\n2. Os exemplares desta lista e das suas actualizações periódicas são propriedade dos CTT.\n\n3. Aos assinantes do serviço telex será facultado gratuitamente um exemplar desta lista por cada posto que os mesmos assinantes tenham à sua disposição.\n\n4. Os exemplares distribuídos aos assinantes deverão ser devolvidos aos CTT quando substituídos por outros actualizados."
+  },
+  "dce1588afbff02a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Utilização dos postos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Utilização dos postos"
+  },
+  "27cab739b4714801": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 14.º — (Normas técnicas e de exploração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 14.º — (Normas técnicas e de exploração)\n\n1. Cumpre aos assinantes ou a outra qualquer pessoa que utilize as instalações telex observar as normas técnicas e de exploração estabelecidas pelos CTT.\n\n2. A responsabilidade pelo desrespeito destas normas recairá inteiramente sobre o assinante, nomeadamente quando cause prejuízos à exploração."
+  },
+  "b9304c7b02c132ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 15.º — (Restrições gerais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 15.º — (Restrições gerais)\n\nNão é permitido transmitir pelo serviço telex quaisquer correspondências acerca das quais se verifique:\n\na) Conterem termos, expressões ou desenhos obscenos ou o seu teor constituir injúria ou exprimir ideias criminosas ou ofensivas das leis e dos bons costumes;\n\nb) Poderem prejudicar a segurança pública ou os interesses do Estado;\n\nc) Serem de algum modo ofensivas da consideração devida às autoridades e aos Poderes Públicos constituídos ou seus representantes;\n\nd) Terem por objecto incomodar deliberadamente os respectivos destinatários ou fomentar a perpetração de crimes ou delitos;\n\ne) Tentarem impedir a acção da justiça na investigação de crimes ou na perseguição de criminosos;\n\nf) Relatarem notícias manifestamente falsas;\n\ng) Não obedecerem, por outro qualquer motivo, aos preceitos legais e regulamentares aplicáveis."
+  },
+  "f73ba2b9c53317a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 16.º — (Outras restrições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 16.º — (Outras restrições)\n\n1. Não é permitido aos assinantes do serviço telex desempenhar funções de agência com vista a transmitir ou receber telegramas ou outras mensagens destinadas a ser reexpedidas pelo telégrafo ou por telex.\n\n2. Os CTT podem estabelecer outras restrições à utilização dos postos telex no sentido de a circunscrever às actividades próprias dos respectivos assinantes."
+  },
+  "eefaacd93c918d42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 17.º — (Suspensão a pedido do assinante)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 17.º — (Suspensão a pedido do assinante)\n\n1. Os CTT, a pedido do respectivo assinante, podem autorizar que o posto deste seja tornado inacessível por períodos determinados, não superiores a trinta dias.\n\n2. Durante o período de suspensão a que alude o número anterior o assinante continuará responsável pelo pagamento das taxas aplicáveis."
+  },
+  "d0e9d6e4fc3c8143": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Modificação das características do posto e renovação da aparelhagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Modificação das características do posto e renovação da aparelhagem"
+  },
+  "82817ea6a4832631": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 18.º — (Modificação das características do posto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 18.º — (Modificação das características do posto)\n\nO assinante pode obter em qualquer altura, mediante requisição aos CTT, a modificação do seu posto, quer pela substituição de órgãos do equipamento por outros de características diferentes, quer pela instalação de novos órgãos acessórios, uns e outros de tipo utilizado pelos CTT."
+  },
+  "dbd9e071ea098574": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 19.º — (Mudança da identificação de posto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 19.º — (Mudança da identificação de posto)\n\nPodem os CTT, a pedido do assinante, determinar a mudança do número ou do indicativo do respectivo posto, ou de ambos, quando o interessado apresente razões atendíveis e os CTT tenham possibilidade de satisfazer o pedido."
+  },
+  "45f0802592474430": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 20.º — (Renovação da aparelhagem)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 20.º — (Renovação da aparelhagem)\n\n1. O material de um posto que não ofereça as necessárias condições de utilização por motivo de desgaste proveniente do uso normal será substituído sem encargo algum para o assinante.\n\n2. Independentemente da renovação prevista no número anterior, podem os CTT atender, a título excepcional e dentro das possibilidades existentes, os pedidos formulados pelos assinantes no sentido de a aparelhagem dos seus postos ser total ou parcialmente substituída antes de decorrido o respectivo prazo normal de vida útil, suportando os mesmos assinantes os correspondentes encargos.\n\n3. Os CTT podem suspender em qualquer altura a substituição de teleimpressores comprovadamente em boas condições de utilização."
+  },
+  "45f513a493caf427": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Mudança dos postos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Mudança dos postos"
+  },
+  "f7ccd7c9f2282896": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 21.º — (Mudança de local das instalações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 21.º — (Mudança de local das instalações)\n\n1. O assinante poderá obter, mediante requisição aos CTT, a mudança do seu posto para outro local que também satisfaça às condições prescritas no artigo 8.º, desde que comprove o seu direito à ocupação deste outro local.\n\n2. Quando não seja possível efectuar a mudança referida no número anterior, a assinatura poderá ser transitòriamente suspensa, ficando o material do posto em depósito nos CTT."
+  },
+  "05187fb4b3155377": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 22.º — (Levantamento e reposição do material)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 22.º — (Levantamento e reposição do material)\n\n1. Em caso de obras ou noutras circunstâncias fortuitas atendíveis, o assinante poderá obter o levantamento do material do seu posto e a reposição deste no mesmo local.\n\n2. Durante o período de suspensão do funcionamento do posto o assinante continuará responsável pelo pagamento das taxas aplicáveis."
+  },
+  "22b766d8bf2d6f12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Encargos dos assinantes. Pagamentos aos CTT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Encargos dos assinantes. Pagamentos aos CTT"
+  },
+  "e8f7d2287eeef080": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 23.º — (Taxas devidas pela prestação de serviços)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 23.º — (Taxas devidas pela prestação de serviços)\n\n1. Pela prestação de quaisquer serviços previstos no presente Regulamento são devidas aos CTT as correspondentes taxas fixadas no tarifário.\n\n2. Nos casos em que a prestação do serviço determine o pagamento de taxas periódicas, o respectivo período conta-se a partir do primeiro dia do mês seguinte àquele em que se concluir o serviço considerado e vence-se no primeiro dia do período a que respeita.\n\n3. No cálculo do custo das comunicações serão levadas em conta as deficiências que hajam afectado a normalidade dessas comunicações, quando tais deficiências sejam comprovadas perante os CTT e não resultem de faltas imputáveis aos assinantes."
+  },
+  "f491ae1fe26ea131": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 24.º — (Responsabilidade pelo pagamento de taxas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 24.º — (Responsabilidade pelo pagamento de taxas)\n\n1. As taxas devidas aos CTT pela prestação de quaisquer serviços telex são de conta do respectivo assinante.\n\n2. As taxas relativas a comunicações telex são, normalmente, da conta do assinante em cujo posto essas comunicações foram originadas.\n\n3. Com prévio acordo dos CTT, as taxas referidas no número anterior podem ser lançadas em conta de outro assinante especìficamente designado."
+  },
+  "ad5ab760eff16ea9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 25.º — (Pagamento de débitos em numerário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 25.º — (Pagamento de débitos em numerário)\n\nOs débitos facturados pelos CTT serão pagos pelo assinante, em numerário, quer no acto de apresentação do respectivo documento, quer na estação dos CTT, durante o prazo normalmente estabelecido para o serviço de cobrança, ou ainda nos termos e condições referidos no artigo seguinte."
+  },
+  "e3992a8cfd53434d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 26.º — (Outras modalidades de pagamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 26.º — (Outras modalidades de pagamento)\n\nO pagamento de débitos poderá também ser efectuado por meio de cheque, transferência bancária, vale de correio ou outras modalidades convenientes, nas condições que, para cada caso, vierem a ser autorizadas pelos CTT, precedendo pedido do assinante."
+  },
+  "fa0cdef829a49492": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 27.º — (Atrasos nos pagamentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 27.º — (Atrasos nos pagamentos)\n\n1. No caso de o assinante de um posto não efectuar o pagamento das taxas devidas dentro do prazo de vinte dias, a contar da data da apresentação do respectivo documento de cobrança, as ligações do posto serão cortadas.\n\n2. Satisfeitos os débitos em atraso nos dez dias seguintes ao corte das ligações previsto no número anterior, o restabelecimento das ligações será efectuado depois de paga a correspondente taxa fixada no tarifário. No caso, porém, de se manter a falta de pagamento, considerar-se-á a concessão como caduca, sendo o material do posto levantado e as taxas em dívidas cobradas coercivamente, por intermédio das execuções fiscais."
+  },
+  "65b2acbf51802f1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Desistência, transferência e caducidade da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Desistência, transferência e caducidade da concessão"
+  },
+  "311413039fa36fae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 28.º — (Desistência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 28.º — (Desistência)\n\nO assinante pode desistir da sua concessão em qualquer altura, desde que avise prèviamente os CTT por escrito."
+  },
+  "9c931f83e81cb56f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 29.º — (Transferência da concessão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 29.º — (Transferência da concessão)\n\n1. A transferência da concessão de uso do serviço telex só poderá ser autorizada em casos de sucessão, fusão ou mudança da razão social do assinante, devidamente comprovados perante os CTT.\n\n2. As disposições do número anterior são aplicáveis também à requisição de postos telex referida no artigo 4."
+  },
+  "02a5b6bac68efc1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 30.º — (Abandono das instalações de postos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 30.º — (Abandono das instalações de postos)\n\n1. Será considerada caduca a concessão cujo posto se encontre abandonado sem que o assinante haja efectuado a correspondente participação de desistência.\n\n2. Consideram-se abandonados, para efeitos do disposto no número anterior, os postos particulares que estejam a ser explorados por pessoas diferentes do assinante ou que se comprove estarem em local não ocupado legalmente pelo próprio assinante."
+  },
+  "6c44757c0d90f525": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Instalações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Instalações especiais"
+  },
+  "65499db65ccae2a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 31.º — (Postos suplementares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 31.º — (Postos suplementares)\n\n1. Dentro do condicionalismo técnico dos equipamentos disponíveis e do delineamento da rede de telecomunicações existentes, os CTT podem instalar postos telex suplementares, desde que estes e os postos principais de que ficam dependentes se situem em domicílios do próprio assinante e dentro da mesma rede local de telecomunicações.\n\n2. Os postos suplementares ficam sujeitos às condições gerais do presente Regulamento."
+  },
+  "64d33788aa464e63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 32.º — (Postos temporários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 32.º — (Postos temporários)\n\n1. Os CTT podem instalar, com dispensa das formalidades prescritas nos artigos 5.º e 6.º, postos telex particulares para utilização temporária por ocasião de exposições, feiras, congressos, manifestações desportivas ou reuniões idênticas.\n\n2. A utilização destes postos obriga ao pagamento da taxa especial fixada no tarifário, em vez das taxas normais de instalação e assinatura, sendo as demais condições as aplicáveis aos outros postos telex particulares, salvo se outras condições forem fixadas pelos CTT para cada caso."
+  },
+  "627f7710ab4a9fa9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 33.º — (Postos públicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 33.º — (Postos públicos)\n\nOs postos telex públicos instalados pelos CTT nas suas estações ou noutros locais a que o público tenha acesso podem ser utilizados por qualquer interessado mediante simples pedido verbal apresentado no momento."
+  },
+  "a7d500463df9a6b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 34.º — (Equipamentos para transmissão com características especiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 34.º — (Equipamentos para transmissão com características especiais)\n\n1. Dentro das possibilidades técnicas permitidas pelo equipamento existente, os CTT podem autorizar a ligação à rede do serviço telex de dispositivos especiais para transmissão com características diferentes das normais, tais como código e rapidez de modulação, desde que tais dispositivos assegurem perfeita compatibilidade com os procedimentos normais de sinalização, estabelecimento, identificação, manutenção e desligação das comunicações.\n\n2. Essa autorização será dada a título precário, podendo ser rescindida a todo o tempo se os respectivos dispositivos causarem perturbações no funcionamento normal da rede telex."
+  },
+  "8f838af5ce733bf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 35.º — (Ligação de redes privadas à rede «telex»)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 35.º — (Ligação de redes privadas à rede «telex»)\n\nPode ser autorizada pelos CTT, em termos e condições a fixar caso por caso, a ligação directa à rede telex de redes privadas constituídas para uso exclusivo de uma única entidade ou de um grupo de entidades com um objectivo comum."
+  },
+  "ce55e1a543b8a358": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO X — Responsabilidade do assinante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X — Responsabilidade do assinante"
+  },
+  "2f99e22c3d29f745": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 36.º — (Exploração do posto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 36.º — (Exploração do posto)\n\n1. O assinante deve providenciar para que o seu posto telex se mantenha permanente e eficazmente ligado à rede de energia eléctrica e se encontre aprovisionado de papel e fita de tinta, de modo que possa receber automàticamente qualquer comunicação.\n\n2. Ao assinante ou a quem utilize o posto é proibido actuar de forma a prejudicar a prioridade absoluta de que gozam as chamadas recebidas em relação à utilização em local.\n\n3. Quando se verifique excessiva ocupação de um posto telex, ocasionando dificuldades no estabelecimento regular das comunicações, o respectivo assinante é obrigado a requisitar a instalação de outro posto telex."
+  },
+  "bcb5896fba613dc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 37.º — (Consumos de exploração de posto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 37.º — (Consumos de exploração de posto)\n\nÉ da exclusiva responsabilidade do assinante o fornecimento de energia eléctrica, de papel, fita de tinta e, eventualmente, de lâmpadas de iluminação interna e de sinalização externa do respectivo posto."
+  },
+  "072381bf17bfe505": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 38.º — (Extravio e danos causados no material)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 38.º — (Extravio e danos causados no material)\n\n1. O material das instalações telex fornecido pelos CTT mantém-se, para todos os efeitos, propriedade dos mesmos CTT. Os assinantes são fiéis depositários do respectivo material, que fica à sua guarda e segurança, e responderão por ele perante os CTT, se o deixarem descaminhar ou se o danificarem para além do uso normal.\n\n2. Exceptuam-se danos produzidos por descargas atmosféricas, contactos com linhas de correntes fortes nas linhas exteriores, incêndios casuais, abalos sísmicos, inundações e outros casos de força maior aceites pelos CTT."
+  },
+  "5af6a998b92dd306": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 39.º — (Inalterabilidade do material e das instalações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 39.º — (Inalterabilidade do material e das instalações)\n\n1. É proibido aos assinantes executar no material e instalações dos CTT quaisquer trabalhos de mudança, modificação, conservação ou reparação, salvo o aprovisionamento de papel, de fita de tinta e de lâmpadas, quer de iluminação interna, quer de sinalização externa.\n\n2. Nos casos previstos nos artigos 10.º, 34.º e 35.º a intervenção do assinante limitar-se-á estritamente à manutenção dos dispositivos por ele fornecidos."
+  },
+  "228443bbf72680f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 40.º — (Acesso do pessoal dos CTT aos postos «telex» particulares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 40.º — (Acesso do pessoal dos CTT aos postos «telex» particulares)\n\n1. O assinante é obrigado a consentir a entrada no seu domicílio, durante o dia, ao pessoal dos CTT encarregado de executar quaisquer serviços ou trabalhos, incluindo a desmontagem e retirada do material do posto, por desistência do assinante ou por rescisão da concessão, determinada esta nos termos deste Regulamento.\n\n2. Se o assinante puser obstáculos a essa entrada, os CTT podem, independentemente das sanções estabelecidas no artigo 41.º, recorrer à força pública para recuperar a aparelhagem."
+  },
+  "6c8781add5955c44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 41.º — (Sanções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 41.º — (Sanções)\n\nA infracção, pelo assinante, do disposto nos artigos 15.º, 16.º, 36.º, 38.º, 39.º e 40.º, bem como a ligação ao seu posto telex particular de qualquer aparelhagem ou de acessórios de sua propriedade ou de linhas estranhas, sem prévia aprovação dos CTT, dada - nos termos deste Regulamento, poderá determinar a aplicação de uma multa de 1000$00 a 5000$00 e a desligação temporária ou a rescisão da concessão do posto telex, obrigando (sempre ao pagamento das indemnizações devidas aos CTT por danos produzidos no seu material, por despesas efectuadas para repor as instalações na situação normal e ainda por prejuízos causados à exploração, independentemente da adopção do procedimento judicial que ao caso couber."
+  },
+  "c78bfc39c461609d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XI — Diversos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XI — Diversos"
+  },
+  "24d1170ed97e2a12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 42.º — (Sigilo das comunicações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 42.º — (Sigilo das comunicações)\n\nOs CTT obrigam-se a tomar todas as providências ao seu alcance para assegurar e fazer respeitar o sigilo das comunicações, mas sem que do facto de eventualmente se frustarem essas providências derive, para eles, qualquer responsabilidade."
+  },
+  "c6c3ef3b40370faf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 43.º — (Deficiências e interrupções de serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 43.º — (Deficiências e interrupções de serviço)\n\nOs CTT obrigam-se a fornecer um serviço telex eficiente, quer em rapidez de estabelecimento de comunicações, que em qualidade de transmissão, e a desenvolver todos os esforços para corrigir demoras, dificuldades de selecção, perturbações na transmissão ou interrupções do serviço, não assumindo, porém, qualquer responsabilidade pelas deficiências verificadas ou pelas consequências delas resultantes.\n\nMinistério das Comunicações, 8 de Agosto de 1972. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins."
+  },
+  "6ffe77eda5072532": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Serviço «telex»)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Serviço «telex»)\n\nO serviço de assinantes do telégrafo que permite aos utentes comunicar directamente entre si por meio de aparelhos teleimpressores ligados à respectiva rede constitui o «serviço telex»."
+  },
+  "2cb1e30a46db0138": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Concessão do uso do serviço «telex»)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Concessão do uso do serviço «telex»)\n\n1. Concessão de uso do serviço telex é a forma regida por este Regulamento pela qual os CTT põem um posto telex particular à disposição de quem o requisite e seja aceite como assinante.\n\n2. A concessão de um posto telex particular depende do prévio pagamento da taxa de instalação. Este pagamento constitui, para todos os efeitos legais, a adesão do assinante a todas as normas regulamentares do serviço telex, designadamente às que o obrigam à ulterior liquidação dos débitos decorrentes da utilização do mesmo serviço."
+  },
+  "61effe41747f634c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Intransmissibilidade da concessão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Intransmissibilidade da concessão)\n\n1. A concessão do uso do serviço telex é pessoal e intransmissível, não podendo, por isso, ser negociada nem transferida, salvo nos casos expressamente previstos no artigo 29.º\n\n2. As disposições deste artigo relativas à concessão de uso do serviço telex são aplicáveis à requisição de postos telex particulares referida no artigo 4.º"
+  },
+  "cf957ff07cff09f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Requisições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Requisições)\n\nA inscrição para a concessão de uso do serviço telex deverá ser solicitada aos CTT em requisição subscrita pelo próprio interessado, na qual este se identifique precisamente, indique o local onde pretende a instalação do posto telex e refira as condições legais em que ocupa o referido local."
+  },
+  "65280260c27854ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Ordem de satisfação das requisições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Ordem de satisfação das requisições)\n\nAs requisições serão satisfeitas por ordem cronológica da sua inscrição nos sectores em que, para o efeito, o território metropolitano for dividido, sem prejuízo das excepções que, eventualmente, sejam determinadas pelo Governo."
+  },
+  "e613bff06cb610c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Confirmação das requisições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Confirmação das requisições)\n\n1. Chegada a vez de satisfação de uma requisição, os CTT poderão convidar o requisitante, mediante carta registada com aviso de recepção, a que, dentro de determinado prazo, confirme, actualize, complete ou modifique o pedido e apresente os elementos julgados necessários à decisão dos CTT acerca da aceitação do requisitante como assinante do serviço telex.\n\n2. Quando, por culpa imputável ao requisitante, os elementos referidos no número anterior não forem apresentados dentro do prazo que haja sido fixado, a requisição será anulada, perdendo o interessado todos os direitos inerentes a essa requisição.\n\n3. A incorrecção ou falsidade das indicações prestadas pelo requisitante, em qualquer momento que se verifique, é fundamento bastante para que os CTT anulem os efeitos da requisição ou revoguem as concessões que hajam dado com base nas ditas informações."
+  },
+  "d4de1519fa0382d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Atribuição das concessões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Atribuição das concessões)\n\nCompletado o pedido do requisitante, os CTT decidirão sobre a concessão de uso do serviço telex, tendo eventualmente em conta:\n\na) Outras relações existentes ou havidas entre o requisitante e os CTT;\n\nb) A solvabilidade do requisitante;\n\nc) As condições legais de ocupação do local indicado para a instalação do posto;\n\nd) As características do equipamento pretendido;\n\ne) Outras circunstâncias pertinentes."
+  },
+  "22863bfa70b7dee7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Local para a instalação do posto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Local para a instalação do posto)\n\n1. O local indicado para a instalação do posto deverá ser efectivamente ocupado e explorado pelo assinante e obedecer aos requisitos mínimos fixados pelos CTT quanto a dimensões, protecção e resguardo do equipamento e quanto a segurança e comodidade do pessoal encarregado da montagem e da manutenção desse equipamento.\n\n2. Fica a cargo do assinante a instalação dos circuitos de energia eléctrica destinados a assegurar o funcionamento do respectivo posto."
+  },
+  "ae70f6ea2d28c760": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Aparelhagem fornecida pelos CTT)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Aparelhagem fornecida pelos CTT)\n\nNormalmente, o equipamento dos postos telex é fornecido, instalado e conservado pelos CTT."
+  },
+  "a3a78fe4c70968ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Aparelhagem fornecida pelo assinante)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Aparelhagem fornecida pelo assinante)\n\n1. O assinante poderá ser autorizado a utilizar equipamento de que os CTT não disponham, desde que o funcionamento deste equipamento satisfaça às normas técnicas e de exploração estabelecidas pelos CTT.\n\n2. O fornecimento, instalação e conservação desse equipamento serão assegurados pelo assinante ou por seu intermédio e de sua conta, sempre sob sua inteira responsabilidade.\n\n3. Os CTT podem proceder à desligação do equipamento fornecido pelo assinante sempre que verifiquem que esse equipamento produz perturbações de qualquer natureza."
+  },
+  "ce43921328b8d15a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Número do posto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Número do posto)\n\n1. O número de selecção individual do posto telex é atribuído pelos CTT.\n\n2. Os CTT podem modificar, a todo o tempo, o número que anteriormente tenham atribuído ao posto telex, avisando prèviamente o respectivo assinante."
+  },
+  "b470694320b1bed8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Indicativo do posto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Indicativo do posto)\n\n1. O indicativo de resposta automática para identificação do posto telex e confirmação do correcto estabelecimento das comunicações compreende o número de selecção do posto, a sigla do assinante e a letra P designativa do país.\n\n2. A sigla do assinante é escolhida por este, sem prejuízo das regras fixadas pelos CTT."
+  },
+  "f50cbc920fd1c0e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Lista dos assinantes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Lista dos assinantes)\n\n1. É reservado aos CTT o direito de publicação da lista dos seus assinantes do serviço telex.\n\n2. Os exemplares desta lista e das suas actualizações periódicas são propriedade dos CTT.\n\n3. Aos assinantes do serviço telex será facultado gratuitamente um exemplar desta lista por cada posto que os mesmos assinantes tenham à sua disposição.\n\n4. Os exemplares distribuídos aos assinantes deverão ser devolvidos aos CTT quando substituídos por outros actualizados."
+  },
+  "e74e9611f48bb237": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Normas técnicas e de exploração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Normas técnicas e de exploração)\n\n1. Cumpre aos assinantes ou a outra qualquer pessoa que utilize as instalações telex observar as normas técnicas e de exploração estabelecidas pelos CTT.\n\n2. A responsabilidade pelo desrespeito destas normas recairá inteiramente sobre o assinante, nomeadamente quando cause prejuízos à exploração."
+  },
+  "c5e4dddff3abdb60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Restrições gerais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Restrições gerais)\n\nNão é permitido transmitir pelo serviço telex quaisquer correspondências acerca das quais se verifique:\n\na) Conterem termos, expressões ou desenhos obscenos ou o seu teor constituir injúria ou exprimir ideias criminosas ou ofensivas das leis e dos bons costumes;\n\nb) Poderem prejudicar a segurança pública ou os interesses do Estado;\n\nc) Serem de algum modo ofensivas da consideração devida às autoridades e aos Poderes Públicos constituídos ou seus representantes;\n\nd) Terem por objecto incomodar deliberadamente os respectivos destinatários ou fomentar a perpetração de crimes ou delitos;\n\ne) Tentarem impedir a acção da justiça na investigação de crimes ou na perseguição de criminosos;\n\nf) Relatarem notícias manifestamente falsas;\n\ng) Não obedecerem, por outro qualquer motivo, aos preceitos legais e regulamentares aplicáveis."
+  },
+  "beb1c7705f8da785": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Outras restrições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Outras restrições)\n\n1. Não é permitido aos assinantes do serviço telex desempenhar funções de agência com vista a transmitir ou receber telegramas ou outras mensagens destinadas a ser reexpedidas pelo telégrafo ou por telex.\n\n2. Os CTT podem estabelecer outras restrições à utilização dos postos telex no sentido de a circunscrever às actividades próprias dos respectivos assinantes."
+  },
+  "74f2fea8e3163fd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Suspensão a pedido do assinante)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Suspensão a pedido do assinante)\n\n1. Os CTT, a pedido do respectivo assinante, podem autorizar que o posto deste seja tornado inacessível por períodos determinados, não superiores a trinta dias.\n\n2. Durante o período de suspensão a que alude o número anterior o assinante continuará responsável pelo pagamento das taxas aplicáveis."
+  },
+  "b24049ab2fc969e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Modificação das características do posto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Modificação das características do posto)\n\nO assinante pode obter em qualquer altura, mediante requisição aos CTT, a modificação do seu posto, quer pela substituição de órgãos do equipamento por outros de características diferentes, quer pela instalação de novos órgãos acessórios, uns e outros de tipo utilizado pelos CTT."
+  },
+  "c9bad95898d19a07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Mudança da identificação de posto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Mudança da identificação de posto)\n\nPodem os CTT, a pedido do assinante, determinar a mudança do número ou do indicativo do respectivo posto, ou de ambos, quando o interessado apresente razões atendíveis e os CTT tenham possibilidade de satisfazer o pedido."
+  },
+  "9dc6fdbf707a892b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Renovação da aparelhagem)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Renovação da aparelhagem)\n\n1. O material de um posto que não ofereça as necessárias condições de utilização por motivo de desgaste proveniente do uso normal será substituído sem encargo algum para o assinante.\n\n2. Independentemente da renovação prevista no número anterior, podem os CTT atender, a título excepcional e dentro das possibilidades existentes, os pedidos formulados pelos assinantes no sentido de a aparelhagem dos seus postos ser total ou parcialmente substituída antes de decorrido o respectivo prazo normal de vida útil, suportando os mesmos assinantes os correspondentes encargos.\n\n3. Os CTT podem suspender em qualquer altura a substituição de teleimpressores comprovadamente em boas condições de utilização."
+  },
+  "470ea6e744094f55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Mudança de local das instalações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Mudança de local das instalações)\n\n1. O assinante poderá obter, mediante requisição aos CTT, a mudança do seu posto para outro local que também satisfaça às condições prescritas no artigo 8.º, desde que comprove o seu direito à ocupação deste outro local.\n\n2. Quando não seja possível efectuar a mudança referida no número anterior, a assinatura poderá ser transitòriamente suspensa, ficando o material do posto em depósito nos CTT."
+  },
+  "7da8a77f84b00fb6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Levantamento e reposição do material)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Levantamento e reposição do material)\n\n1. Em caso de obras ou noutras circunstâncias fortuitas atendíveis, o assinante poderá obter o levantamento do material do seu posto e a reposição deste no mesmo local.\n\n2. Durante o período de suspensão do funcionamento do posto o assinante continuará responsável pelo pagamento das taxas aplicáveis."
+  },
+  "ce4e79babb6dd544": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Taxas devidas pela prestação de serviços)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Taxas devidas pela prestação de serviços)\n\n1. Pela prestação de quaisquer serviços previstos no presente Regulamento são devidas aos CTT as correspondentes taxas fixadas no tarifário.\n\n2. Nos casos em que a prestação do serviço determine o pagamento de taxas periódicas, o respectivo período conta-se a partir do primeiro dia do mês seguinte àquele em que se concluir o serviço considerado e vence-se no primeiro dia do período a que respeita.\n\n3. No cálculo do custo das comunicações serão levadas em conta as deficiências que hajam afectado a normalidade dessas comunicações, quando tais deficiências sejam comprovadas perante os CTT e não resultem de faltas imputáveis aos assinantes."
+  },
+  "119acf799b8111f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Responsabilidade pelo pagamento de taxas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Responsabilidade pelo pagamento de taxas)\n\n1. As taxas devidas aos CTT pela prestação de quaisquer serviços telex são de conta do respectivo assinante.\n\n2. As taxas relativas a comunicações telex são, normalmente, da conta do assinante em cujo posto essas comunicações foram originadas.\n\n3. Com prévio acordo dos CTT, as taxas referidas no número anterior podem ser lançadas em conta de outro assinante especìficamente designado."
+  },
+  "a3902db530845bd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Pagamento de débitos em numerário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Pagamento de débitos em numerário)\n\nOs débitos facturados pelos CTT serão pagos pelo assinante, em numerário, quer no acto de apresentação do respectivo documento, quer na estação dos CTT, durante o prazo normalmente estabelecido para o serviço de cobrança, ou ainda nos termos e condições referidos no artigo seguinte."
+  },
+  "ba4e5ba1112b1e38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Outras modalidades de pagamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Outras modalidades de pagamento)\n\nO pagamento de débitos poderá também ser efectuado por meio de cheque, transferência bancária, vale de correio ou outras modalidades convenientes, nas condições que, para cada caso, vierem a ser autorizadas pelos CTT, precedendo pedido do assinante."
+  },
+  "3c18c914af3376d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Atrasos nos pagamentos",
+   "in_force_from": "1981-09-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 85/79](https://diariodarepublica.pt/dr/detalhe/portaria/85-1979-393616), publicado em 1979-02-17."
+   ],
+   "markdown": "###### Artigo 27.º — Atrasos nos pagamentos\n\n1 - No caso de o assinante de um posto não efectuar o pagamento das taxas devidas dentro do prazo de doze dias a contar da data da apresentação do respectivo documento de cobrança, as ligações do posto serão cortadas.\n\n2 - Satisfeitos os débitos em atraso nos oito dias seguintes ao corte das ligações previsto no número anterior, será promovido imediatamente o restabelecimento das ligações, sendo a correspondente taxa do tarifário incluída na factura do mês seguinte. No caso, porém, de se manter a falta de pagamento, considerar-se-á a concessão como caduca, sendo o material do posto levantado e as taxas em dívida cobradas coercivamente, por intermédio das execuções fiscais.\n\n> Alterado pelo/a [Portaria n.º 85/79](https://diariodarepublica.pt/dr/detalhe/portaria/85-1979-393616), publicado em 1979-02-17."
+  },
+  "136253a3f4828f2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — (Desistência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Desistência)\n\nO assinante pode desistir da sua concessão em qualquer altura, desde que avise prèviamente os CTT por escrito."
+  },
+  "43080bbb13413e1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Transferência da concessão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Transferência da concessão)\n\n1. A transferência da concessão de uso do serviço telex só poderá ser autorizada em casos de sucessão, fusão ou mudança da razão social do assinante, devidamente comprovados perante os CTT.\n\n2. As disposições do número anterior são aplicáveis também à requisição de postos telex referida no artigo 4."
+  },
+  "1e7a74ffc45208e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Abandono das instalações de postos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Abandono das instalações de postos)\n\n1. Será considerada caduca a concessão cujo posto se encontre abandonado sem que o assinante haja efectuado a correspondente participação de desistência.\n\n2. Consideram-se abandonados, para efeitos do disposto no número anterior, os postos particulares que estejam a ser explorados por pessoas diferentes do assinante ou que se comprove estarem em local não ocupado legalmente pelo próprio assinante."
+  },
+  "8b91f7ea69306cab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — (Postos suplementares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Postos suplementares)\n\n1. Dentro do condicionalismo técnico dos equipamentos disponíveis e do delineamento da rede de telecomunicações existentes, os CTT podem instalar postos telex suplementares, desde que estes e os postos principais de que ficam dependentes se situem em domicílios do próprio assinante e dentro da mesma rede local de telecomunicações.\n\n2. Os postos suplementares ficam sujeitos às condições gerais do presente Regulamento."
+  },
+  "a785d4505ce7e502": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — (Postos temporários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Postos temporários)\n\n1. Os CTT podem instalar, com dispensa das formalidades prescritas nos artigos 5.º e 6.º, postos telex particulares para utilização temporária por ocasião de exposições, feiras, congressos, manifestações desportivas ou reuniões idênticas.\n\n2. A utilização destes postos obriga ao pagamento da taxa especial fixada no tarifário, em vez das taxas normais de instalação e assinatura, sendo as demais condições as aplicáveis aos outros postos telex particulares, salvo se outras condições forem fixadas pelos CTT para cada caso."
+  },
+  "6f779325c7f69c66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — (Postos públicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Postos públicos)\n\nOs postos telex públicos instalados pelos CTT nas suas estações ou noutros locais a que o público tenha acesso podem ser utilizados por qualquer interessado mediante simples pedido verbal apresentado no momento."
+  },
+  "19f71510666d7244": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — (Equipamentos para transmissão com características especiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Equipamentos para transmissão com características especiais)\n\n1. Dentro das possibilidades técnicas permitidas pelo equipamento existente, os CTT podem autorizar a ligação à rede do serviço telex de dispositivos especiais para transmissão com características diferentes das normais, tais como código e rapidez de modulação, desde que tais dispositivos assegurem perfeita compatibilidade com os procedimentos normais de sinalização, estabelecimento, identificação, manutenção e desligação das comunicações.\n\n2. Essa autorização será dada a título precário, podendo ser rescindida a todo o tempo se os respectivos dispositivos causarem perturbações no funcionamento normal da rede telex."
+  },
+  "4575fe99bb9e9b67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — (Ligação de redes privadas à rede «telex»)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Ligação de redes privadas à rede «telex»)\n\nPode ser autorizada pelos CTT, em termos e condições a fixar caso por caso, a ligação directa à rede telex de redes privadas constituídas para uso exclusivo de uma única entidade ou de um grupo de entidades com um objectivo comum."
+  },
+  "9162d018b38b9a7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — (Exploração do posto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Exploração do posto)\n\n1. O assinante deve providenciar para que o seu posto telex se mantenha permanente e eficazmente ligado à rede de energia eléctrica e se encontre aprovisionado de papel e fita de tinta, de modo que possa receber automàticamente qualquer comunicação.\n\n2. Ao assinante ou a quem utilize o posto é proibido actuar de forma a prejudicar a prioridade absoluta de que gozam as chamadas recebidas em relação à utilização em local.\n\n3. Quando se verifique excessiva ocupação de um posto telex, ocasionando dificuldades no estabelecimento regular das comunicações, o respectivo assinante é obrigado a requisitar a instalação de outro posto telex."
+  },
+  "b2b7b35296a14b7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — (Consumos de exploração de posto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Consumos de exploração de posto)\n\nÉ da exclusiva responsabilidade do assinante o fornecimento de energia eléctrica, de papel, fita de tinta e, eventualmente, de lâmpadas de iluminação interna e de sinalização externa do respectivo posto."
+  },
+  "b80a49b6b55d0481": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — (Extravio e danos causados no material)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Extravio e danos causados no material)\n\n1. O material das instalações telex fornecido pelos CTT mantém-se, para todos os efeitos, propriedade dos mesmos CTT. Os assinantes são fiéis depositários do respectivo material, que fica à sua guarda e segurança, e responderão por ele perante os CTT, se o deixarem descaminhar ou se o danificarem para além do uso normal.\n\n2. Exceptuam-se danos produzidos por descargas atmosféricas, contactos com linhas de correntes fortes nas linhas exteriores, incêndios casuais, abalos sísmicos, inundações e outros casos de força maior aceites pelos CTT."
+  },
+  "a5219f6f23793895": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — (Inalterabilidade do material e das instalações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — (Inalterabilidade do material e das instalações)\n\n1. É proibido aos assinantes executar no material e instalações dos CTT quaisquer trabalhos de mudança, modificação, conservação ou reparação, salvo o aprovisionamento de papel, de fita de tinta e de lâmpadas, quer de iluminação interna, quer de sinalização externa.\n\n2. Nos casos previstos nos artigos 10.º, 34.º e 35.º a intervenção do assinante limitar-se-á estritamente à manutenção dos dispositivos por ele fornecidos."
+  },
+  "47abd7b9142d62fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — (Acesso do pessoal dos CTT aos postos «telex» particulares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — (Acesso do pessoal dos CTT aos postos «telex» particulares)\n\n1. O assinante é obrigado a consentir a entrada no seu domicílio, durante o dia, ao pessoal dos CTT encarregado de executar quaisquer serviços ou trabalhos, incluindo a desmontagem e retirada do material do posto, por desistência do assinante ou por rescisão da concessão, determinada esta nos termos deste Regulamento.\n\n2. Se o assinante puser obstáculos a essa entrada, os CTT podem, independentemente das sanções estabelecidas no artigo 41.º, recorrer à força pública para recuperar a aparelhagem."
+  },
+  "f4c458338862f4fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — (Sanções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — (Sanções)\n\nA infracção, pelo assinante, do disposto nos artigos 15.º, 16.º, 36.º, 38.º, 39.º e 40.º, bem como a ligação ao seu posto telex particular de qualquer aparelhagem ou de acessórios de sua propriedade ou de linhas estranhas, sem prévia aprovação dos CTT, dada - nos termos deste Regulamento, poderá determinar a aplicação de uma multa de 1000$00 a 5000$00 e a desligação temporária ou a rescisão da concessão do posto telex, obrigando (sempre ao pagamento das indemnizações devidas aos CTT por danos produzidos no seu material, por despesas efectuadas para repor as instalações na situação normal e ainda por prejuízos causados à exploração, independentemente da adopção do procedimento judicial que ao caso couber."
+  },
+  "5f7c1800c0e692bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — (Sigilo das comunicações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — (Sigilo das comunicações)\n\nOs CTT obrigam-se a tomar todas as providências ao seu alcance para assegurar e fazer respeitar o sigilo das comunicações, mas sem que do facto de eventualmente se frustarem essas providências derive, para eles, qualquer responsabilidade."
+  },
+  "08ca8a8a9b13edbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Deficiências e interrupções de serviço",
+   "in_force_from": "1981-09-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 813/81](https://diariodarepublica.pt/dr/detalhe/portaria/813-1981-563273), publicado em 1981-09-18."
+   ],
+   "markdown": "###### Artigo 43.º — Deficiências e interrupções de serviço\n\n1 - Os CTT obrigam-se a fornecer um serviço telex eficiente, quer em rapidez de estabelecimento de comunicações, quer em qualidade de transmissão, e a desenvolver todos os esforços para corrigir demoras, dificuldades de selecção, perturbações na transmissão ou interrupções do serviço, não assumindo, porém, qualquer responsabilidade pelas deficiências verificadas ou pelas consequências delas resultantes.\n\n2 - Todavia, se o funcionamento de um posto telex sofrer, por motivo de avaria ou por exigência dos serviços, interrupção superior a três dias, ao assinante será descontada a importância correspondente ao número de dias que tiver durado a interrupção, na razão de um trigésimo de assinatura mensal por cada dia de interrupção.\n\n3 - As interrupções que forem devidas a abalos sísmicos, inundações ou outros casos de força maior não dão lugar a qualquer compensação.\n\nMinistério das Comunicações, 8 de Agosto de 1972. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.\n\n> Alterado pelo/a [Portaria n.º 813/81](https://diariodarepublica.pt/dr/detalhe/portaria/813-1981-563273), publicado em 1981-09-18."
+  }
+ }
+}

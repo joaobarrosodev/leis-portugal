@@ -289,7 +289,7 @@ g) Exercer os poderes que o conselho de gerência nele delegar.
 
 > Alterado pelo/a [Decreto-Lei n.º 460/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1979-367048), publicado em 1979-11-23.
 
-#### SECÇÃO IV — Conselho de direcção
+#### SECÇÃO IV — Comissões executivas
 
 ###### Artigo 13.º — (Composição das comissões executivas)
 

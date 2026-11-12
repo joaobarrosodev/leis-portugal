@@ -9,10 +9,11 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1: nova redação do art. 3.º (n.º 1 e novo n.º 2) — aplicada.",
-    "Alterador 2: nova redação do n.º 1 do art. 3.º, mantendo o n.º 2 — aplicada sobre a redação do alterador 1."
+    "Portaria 243/2002 (alterador 1, está no pedido): nova redação do art. 3.º com n.os 1 e 2 (n.º 2: estudos de emparcelamento, parecer do IHERA).",
+    "Portaria 281/2009, art. 1.º: nova redação do n.º 1 (acrescenta a EDIA); '2 - ...' mantém o n.º 2 dado pela Portaria 243/2002."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

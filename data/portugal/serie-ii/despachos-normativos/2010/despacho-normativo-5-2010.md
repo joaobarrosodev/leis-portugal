@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-09-16'
+version_history:
+  file: despacho-normativo-5-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-02-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-09-16'
+    amending: pt:dre:1314399:por
+    amending_title: Despacho Normativo n.º 23/2010
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:07:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 23/2010. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2010/despacho-normativo-5-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -166,7 +181,13 @@ iii) Entre 487 501 kg e 650 000 kg de leite - 2,073 (euro) por tonelada.
 
 ###### Artigo 5.º — Forma e prazo de candidatura
 
-As candidaturas ao pagamento específico previsto no presente diploma são formalizadas pelos agricultores até 30 de Abril de 2010, junto do IFAP, I. P., nos termos definidos no âmbito do Sistema Integrado de Gestão e Controlo (SIGC), para os produtores do território continental, ou integradas nos pedidos de ajuda às medidas a favor das produções agrícolas locais do POSEI, para os produtores da Região Autónoma dos Açores, não sendo paga qualquer ajuda às candidaturas apresentadas após a referida data.
+1 - As candidaturas ao pagamento específico previsto no presente diploma são formalizadas pelos agricultores até 30 de Abril de 2010, junto do IFAP, I. P., nos termos definidos no âmbito do Sistema Integrado de Gestão e Controlo (SIGC), para os produtores do território continental, ou integradas nos pedidos de ajuda às medidas a favor das produções agrícolas locais do POSEI, para os produtores da Região Autónoma dos Açores, não sendo paga qualquer ajuda às candidaturas apresentadas após a referida data.
+
+2 - Excepcionalmente, as candidaturas referidas no número anterior podem ainda ser formalizadas pelos agricultores no dia 7 de Maio de 2010, junto do IFAP, I. P., nos termos definidos no âmbito do Sistema Integrado de Gestão e Controlo (SIGC), para os produtores do território continental, e no dia 6 de Maio de 2010, integradas nos pedidos de ajuda às medidas a favor das produções agrícolas locais do POSEI, para os produtores da Região Autónoma dos Açores.
+
+3 - As candidaturas formalizadas pelos agricultores no território continental e objecto de recolha informática directa, no período referido no número anterior, devem ser enviadas para o IFAP, I. P., em suporte de papel, pelas entidades referidas no n.º 1 do artigo 3.º do despacho normativo n.º 4/2010, de 5 de Fevereiro, até ao dia 10 de Maio de 2010.
+
+> Alterado pelo/a [Despacho Normativo n.º 23/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2010-1314399), publicado em 2010-09-16.
 
 ###### Artigo 6.º — Data limite de pagamento
 

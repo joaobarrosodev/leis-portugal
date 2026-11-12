@@ -27,15 +27,16 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "DN 5/81 n.º 2.º: adita a categoria de encarregado de pessoal auxiliar ao n.º 4 do artigo 4.º sem dar a redação nem o ponto de inserção na enumeração; não aplicado ao texto.",
+  "titulos": [],
+  "nao_aplicavel": "Alt. 1, ponto 2.º: adita ao n.º 4 do artigo 4.º 'a categoria de encarregado de pessoal auxiliar' sem dar a nova redação nem o lugar na enumeração; alteração não textual, não aplicada (n.º 4 fica como está). Alt. 2 (Portaria 108/85) altera o quadro da Portaria 150/82, não o original.",
   "instrucoes": [
-    "DN 5/81 1.º: adita alínea d) ao n.º 3 do artigo 4.º; aplicado.",
-    "DN 5/81 2.º: adita categoria ao n.º 4 do artigo 4.º sem redação; não aplicável.",
-    "DN 5/81 3.º: adita artigo 7.º-A; aplicado.",
-    "DN 5/81 4.º: adita artigo 7.º-B; aplicado.",
-    "DN 5/81 5.º: nova redação do n.º 5 do artigo 4.º; aplicada.",
-    "DN 5/81 6.º: adita n.os 3, 4 e 5 ao artigo 5.º; aplicado.",
-    "Portaria 108/85: altera o quadro da Portaria 150/82, outro diploma; ignorada."
+    "Ponto 1.º: aditada a alínea d) ao n.º 3 do art. 4.º",
+    "Ponto 2.º: aditamento de categoria ao n.º 4 do art. 4.º — não aplicável (sem texto)",
+    "Ponto 3.º: aditado o art. 7.º-A",
+    "Ponto 4.º: aditado o art. 7.º-B",
+    "Ponto 5.º: nova redação do n.º 5 do art. 4.º",
+    "Ponto 6.º: aditados os n.os 3 a 5 ao art. 5.º",
+    "Alt. 2: altera outro diploma — ignorada"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

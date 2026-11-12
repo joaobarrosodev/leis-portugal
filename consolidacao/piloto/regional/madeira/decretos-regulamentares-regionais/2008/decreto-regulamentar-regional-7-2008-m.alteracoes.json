@@ -152,5 +152,19 @@
     "unidade": [],
     "diploma": "pt:dre:249979:por",
     "alterador": "pt:dre:670491:por"
+  },
+  {
+    "artigo": "SUBSECÇÃO IV — Direcção Regional de Informação Geográfica e Ordenamento do Território",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "##### SUBSECÇÃO IV — Direcção Regional de Informação Geográfica e Ordenamento do Território",
+    "depois": "##### SUBSECÇÃO IV — Direcção Regional de Informação Geográfica",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:249979:por",
+    "alterador": "pt:dre:670491:por"
   }
 ]

@@ -229,7 +229,7 @@ Os débitos facturados pelos CTT serão pagos pelo assinante, em numerário, que
 
 O pagamento de débitos poderá também ser efectuado por meio de cheque, transferência bancária, vale de correio ou outras modalidades convenientes, nas condições que, para cada caso, vierem a ser autorizadas pelos CTT, precedendo pedido do assinante.
 
-###### Artigo 27.º — (Atrasos nos pagamentos)
+###### Artigo 27.º — Atrasos nos pagamentos
 
 1 - No caso de o assinante de um posto não efectuar o pagamento das taxas devidas dentro do prazo de doze dias a contar da data da apresentação do respectivo documento de cobrança, as ligações do posto serão cortadas.
 
@@ -325,12 +325,14 @@ A infracção, pelo assinante, do disposto nos artigos 15.º, 16.º, 36.º, 38.�
 
 Os CTT obrigam-se a tomar todas as providências ao seu alcance para assegurar e fazer respeitar o sigilo das comunicações, mas sem que do facto de eventualmente se frustarem essas providências derive, para eles, qualquer responsabilidade.
 
-###### Artigo 43.º — (Deficiências e interrupções de serviço)
+###### Artigo 43.º — Deficiências e interrupções de serviço
 
 1 - Os CTT obrigam-se a fornecer um serviço telex eficiente, quer em rapidez de estabelecimento de comunicações, quer em qualidade de transmissão, e a desenvolver todos os esforços para corrigir demoras, dificuldades de selecção, perturbações na transmissão ou interrupções do serviço, não assumindo, porém, qualquer responsabilidade pelas deficiências verificadas ou pelas consequências delas resultantes.
 
 2 - Todavia, se o funcionamento de um posto telex sofrer, por motivo de avaria ou por exigência dos serviços, interrupção superior a três dias, ao assinante será descontada a importância correspondente ao número de dias que tiver durado a interrupção, na razão de um trigésimo de assinatura mensal por cada dia de interrupção.
 
 3 - As interrupções que forem devidas a abalos sísmicos, inundações ou outros casos de força maior não dão lugar a qualquer compensação.
+
+Ministério das Comunicações, 8 de Agosto de 1972. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
 
 > Alterado pelo/a [Portaria n.º 813/81](https://diariodarepublica.pt/dr/detalhe/portaria/813-1981-563273), publicado em 1981-09-18.

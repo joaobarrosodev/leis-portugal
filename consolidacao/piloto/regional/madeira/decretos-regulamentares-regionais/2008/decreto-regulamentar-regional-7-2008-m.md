@@ -300,7 +300,7 @@ i) Definir e propor para superior decisão tudo o que se torne necessário ao bo
 
 3 - O director regional é substituído, nas suas ausências e impedimentos, pelo director de serviços que, por proposta sua, seja designado pelo Secretário Regional.
 
-##### SUBSECÇÃO IV — Direcção Regional de Informação Geográfica e Ordenamento do Território
+##### SUBSECÇÃO IV — Direcção Regional de Informação Geográfica
 
 ###### Artigo 18.º — Missão
 

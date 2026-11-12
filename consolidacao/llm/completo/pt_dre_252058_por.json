@@ -100,7 +100,7 @@
     {
       "chave": "86.º",
       "epigrafe": "Obrigatoriedade de acostagem",
-      "texto": "1 - É obrigatória a acostagem de todas as embarcações de passageiros e as de longo curso, cabotagem ou navegação costeira que estejam em condições de o poderem fazer e venham efectuar operações de carga e descarga nos portos.\n\n2 - A Administração dos Portos do Douro e Leixões pode dispensar a acostagem quando, por motivos especiais, o julgar conveniente.\n\n3 - Quando seja dispensada a acostagem por motivo de não haver para ela local disponível, a taxa de acostagem não será devida até que haja local.",
+      "texto": "1 - É obrigatória a acostagem de todas as embarcações de passageiros e as de longo curso, cabotagem ou navegação costeira que estejam em condições de o poderem fazer e venham efectuar operações de carga e descarga nos portos.\n\n2 - A Administração dos Portos do Douro e Leixões pode dispensar a acostagem quando, por motivos especiais, o julgar conveniente.",
       "alterador": 2
     },
     {
@@ -345,13 +345,30 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "A tabela das mercadorias que obrigam a precauções especiais, anexa ao alterador 1 (a que se refere o novo artigo 14.º), não tem estrutura de artigos e não foi colocada em nenhum artigo. Alterador 2, art. 2.º, n.º 2 (nova epígrafe do capítulo II do título II e eliminação das epígrafes dos capítulos III e IV) não incide sobre artigos. Nos artigos 86.º (alterador 2) e 98.º (alterador 1) a nova redação omite números (86.º, n.º 3; 98.º, n.os 2 a 4) sem os eliminar expressamente; foram mantidos com o texto atual.",
+  "titulos": [
+    {
+      "atual": "### CAPÍTULO II — Estacionamento no porto",
+      "novo": "### CAPÍTULO II — Estacionamento e acostagem no porto",
+      "alterador": 2
+    },
+    {
+      "atual": "### CAPÍTULO III — Acostagem",
+      "novo": null,
+      "alterador": 2
+    },
+    {
+      "atual": "### CAPÍTULO IV — Defensas",
+      "novo": null,
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, art. 33.º: a nova redação traz «6 - ...», mas o artigo 33.º no texto atual só tem os n.os 1 a 5; o n.º 6 não existe e não se inventou. Alterador 1, anexo (tabela das mercadorias que obrigam a precauções especiais, referida no art. 14.º): não é um artigo do Regulamento, não se aplica a nenhum artigo.",
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação dos artigos 5.º, 14.º, 33.º, 57.º, 63.º, 77.º, 80.º, 83.º, 93.º, 94.º, 97.º, 98.º, 105.º, 106.º, 114.º, 115.º, 120.º, 122.º, 126.º, 157.º, 163.º, 177.º, 179.º, 190.º e 203.º — aplicado (os «...» mantêm o texto atual); 77.º, 83.º, 126.º, 177.º, 179.º e 190.º voltam a ser alterados pelo alterador 2; 105.º, 115.º e 163.º são depois revogados.",
-    "Alterador 1: tabela anexa ao artigo 14.º — não colocada (sem artigos).",
-    "Alterador 2, art. 1.º: nova redação dos artigos 39.º, 41.º, 47.º, 67.º, 68.º, 77.º, 82.º, 83.º, 84.º, 86.º, 89.º, 99.º, 104.º, 107.º, 124.º, 125.º, 126.º, 135.º, 140.º, 144.º, 152.º, 154.º, 155.º, 177.º, 179.º, 182.º, 190.º, 196.º, 204.º, 205.º, 207.º e 208.º — aplicado.",
-    "Alterador 2, art. 2.º, n.º 1: revoga os artigos 85.º, 87.º, 90.º, 91.º, 105.º, 115.º, 123.º, 163.º e 193.º (ficam (Revogado.)) e a alínea c) do artigo 157.º (fica c) (Revogada.)).",
-    "Alterador 2, art. 2.º, n.º 2: epígrafes de capítulos — não aplicável a artigos."
+    "Alt.1 art.1.º: nova redação dos arts. 5.º, 14.º, 33.º (alínea g) do n.º 3), 57.º (epígrafe), 63.º (alínea d)), 77.º, 80.º, 83.º, 93.º, 94.º, 97.º, 98.º, 105.º, 106.º (epígrafe), 114.º, 115.º, 120.º, 122.º, 126.º (n.º 2), 157.º (alínea b)), 163.º, 177.º, 179.º, 190.º, 203.º (duas linhas da tabela e n.º 2 novo) — aplicado, com '...' a manter o texto atual",
+    "Alt.1 arts. 77.º, 83.º, 177.º, 179.º, 190.º: voltam a ser alterados pelo alt.2, cuja redação prevalece; 105.º, 115.º e 163.º são depois revogados pelo alt.2",
+    "Alt.2 art.1.º: nova redação dos arts. 39.º, 41.º, 47.º, 67.º, 68.º, 77.º, 82.º, 83.º, 84.º, 86.º (n.º 2; o n.º 3 deixa de constar), 89.º, 99.º, 104.º, 107.º, 124.º, 125.º, 126.º, 135.º, 140.º, 144.º, 152.º (epígrafe), 154.º, 155.º, 177.º, 179.º, 182.º, 190.º, 196.º, 204.º, 205.º, 207.º e 208.º — aplicado; nas redações completas sem '...' o artigo fica só com o texto novo",
+    "Alt.2 art.2.º n.º1: revogados os arts. 85.º, 87.º, 90.º, 91.º, 105.º, 115.º, 123.º, 163.º, 193.º e a alínea c) do 157.º — aplicado",
+    "Alt.2 art.2.º n.º2: o capítulo II do título II passa a «Estacionamento e acostagem no porto» e são eliminados os capítulos III (Acostagem) e IV (Defensas, escrito «Defesas» no alterador) do título II — aplicado em titulos"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

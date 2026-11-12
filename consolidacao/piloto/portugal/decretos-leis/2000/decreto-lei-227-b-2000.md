@@ -82,6 +82,8 @@ q) Época venatória - período que decorre entre 1 de Junho de cada ano e 31 de
 
 r) Repovoamento - libertação num determinado território de exemplares de espécies cinegéticas com o objectivo de atingir níveis populacionais compatíveis com as potencialidades do meio;
 
+s) Largadas - libertação em campos de treino de caça de exemplares de espécies cinegéticas criadas em cativeiro para captura no próprio dia;
+
 t) Aparcamentos de gado - exploração pecuária intensiva que pratica processos de pastoreio ordenado em áreas compartimentadas;
 
 u) Terrenos murados - os terrenos circundados em todo o seu perímetro por muro ou parede com altura mínima de 1,5 m;
@@ -99,6 +101,8 @@ z) Unidade biológica - área onde se encontram reunidos os factores físicos e 
 aa) Jornada de caça - exercício do acto venatório de um caçador por um dia de caça.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
+
+> Alterado pelo/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ### CAPÍTULO II — Conservação das espécies cinegéticas
 

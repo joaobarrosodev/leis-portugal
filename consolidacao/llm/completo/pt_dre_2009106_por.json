@@ -8,6 +8,12 @@
       "alterador": 3
     },
     {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "a) Promover a regulamentação e a regulação relativas ao bem-estar dos animais de interesse pecuário, assim como os destinados ao abate ou occisão e durante o transporte;\n\nb) Elaborar, coordenar e supervisionar o Plano de Proteção Animal, definindo e promovendo os controlos no âmbito do bem-estar dos animais de interesse pecuário, transporte, abate ou occisão;\n\nc) (Revogada.)\n\nd) Assegurar a emissão de pareceres relativos aos alojamentos e manutenção de animais de interesse pecuário, nomeadamente nas explorações e nos centros de agrupamento;\n\ne) Preparar e participar na representação da DGAV nas instâncias nacionais, comunitárias e internacionais no âmbito do bem-estar dos animais de interesse pecuário;\n\nf) (Revogada.)\n\ng) (Revogada.)\n\ni) Conceber e coordenar os sistemas de informação de suporte do Plano de Proteção Animal, no âmbito do bem-estar dos animais de interesse pecuário, transporte, abate ou occisão e dos indicadores técnicos neste âmbito;\n\nj) (Revogada.)\n\nk) Elaborar e coordenar a execução das medidas de bem-estar dos animais de interesse pecuário, transporte, abate ou occisão.",
+      "alterador": 3
+    },
+    {
       "chave": "13.º-A",
       "epigrafe": "Divisão de Bem-Estar dos Animais para Fins Experimentais, Companhia e Zoológicos",
       "texto": "À Divisão de Bem-Estar dos Animais para Fins Experimentais, Companhia e Zoológicos, abreviadamente designada por DBECZ, à qual compete:\n\na) Elaborar e coordenar a execução das medidas de bem-estar dos animais para fins experimentais e outros fins científicos, companhia, circos e em parques zoológicos;\n\nb) Elaborar e coordenar os planos de controlo de proteção dos animais para fins experimentais e outros fins científicos, companhia e em parques zoológicos;\n\nc) Registar e emitir pareceres, licenças, alvarás ou outras autorizações de funcionamento nomeadamente relativas a alojamentos de animais de companhia, de animais destinados a fins experimentais e outros fins científicos e em parques zoológicos, mantendo um registo atualizado das mesmas;\n\nd) Promover a regulamentação e a regulação relativas ao bem-estar dos animais de companhia, de circo e outros espetáculos, animais em parques zoológicos e os utilizados para fins científicos;\n\ne) Elaborar, coordenar e supervisionar o plano de controlo de bem-estar animal, definindo e promovendo os controlos no âmbito do bem-estar dos animais utilizados para fins científicos, em parques zoológicos, de companhia, circo e outros espetáculos;\n\nf) Assegurar a emissão de pareceres relativos aos alojamentos e manutenção de animais, nomeadamente nas unidades destinadas à experimentação animal e parques zoológicos;\n\ng) Preparar e participar na representação da DGAV nas instâncias nacionais, comunitárias e internacionais no âmbito do bem-estar Animal dos animais de companhia, de animais destinados a fins experimentais e outros fins científicos e em parques zoológicos;\n\nh) Regular as condições técnicas exigíveis aos centros de atendimento médico veterinário (CAMV) e emitir as licenças de funcionamento mantendo um registo atualizado das mesmas;\n\ni) Conceber e coordenar os sistemas de informação de suporte do plano de controlo de bem-estar animal de animais de companhia, de animais destinados a fins experimentais e outros fins científicos e em parques zoológicos e dos indicadores técnicos neste âmbito;\n\nj) Coordenar e auditar a execução de programas de controlo das populações de animais de companhia, incluindo campanhas de esterilização;\n\nk) Elaborar proposta de incentivos para o investimento nos centros de recolha oficial e do apoio para a melhoria das instalações das associações zoófilas legalmente constituídas, bem como para as campanhas de esterilização e ações de sensibilização para os benefícios da esterilização e a detenção responsável de animais de companhia.",
@@ -16,14 +22,14 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 3 (Despacho n.º 10050/2025), n.º 1 (nova redação do artigo 12.º) e n.º 3 (revogação das alíneas c), f), g) e j) do artigo 12.º): o artigo 12.º vem sem epígrafe nem corpo no texto atual, pelo que a epígrafe '[...]', o proémio '[...]' e a alínea h) '[...]' não se podem preencher; não aplicado. Os n.os 1 a 9 do artigo 1.º nas redações dos alteradores mantêm-se como no texto atual (só mudam as unidades indicadas).",
+  "nao_aplicavel": "Artigo 12.º: o texto atual traz o artigo 12.º sem epígrafe nem corpo (os artigos 5.º a 21.º vêm vazios), pelo que as partes que o Despacho n.º 10050/2025 deixa como '[...]' (epígrafe, proémio e alínea h)) não se podem preencher; devolvem-se só as alíneas com redação nova ou revogadas.",
   "instrucoes": [
-    "Alterador 1: nova redação das subalíneas iv) e vi) da alínea a) do n.º 9 do artigo 1.º; já refletida no texto atual.",
-    "Alterador 2: aditada a alínea d) ao n.º 1, revogada a alínea a) do n.º 8 e aditado o n.º 11 do artigo 1.º; aplicado.",
-    "Alterador 3, n.º 1: aditada a alínea d) ao n.º 4 do artigo 1.º, nova redação da subalínea iv) da alínea a) do n.º 9 ('Bragança e Chaves;', copiada letra a letra) e subalínea vi) revogada; aplicado.",
-    "Alterador 3, n.º 1: nova redação do artigo 12.º; corpo do artigo ausente no texto atual; em nao_aplicavel.",
-    "Alterador 3, n.º 2: aditado o artigo 13.º-A; aplicado.",
-    "Alterador 3, n.º 3: revogação da subalínea vi) da alínea a) do n.º 9 do artigo 1.º (aplicada) e das alíneas c), f), g) e j) do artigo 12.º (em nao_aplicavel)."
+    "Despacho 2342/2015: nova redação do n.º 9, a) iv) e vi) do artigo 1.º; já correspondia ao texto atual, mantida.",
+    "Despacho 12496/2015: artigo 1.º, adita n.º 1 d), revoga n.º 8 a) e adita n.º 11; aplicado.",
+    "Despacho 10050/2025, n.º 1: artigo 1.º, adita n.º 4 d), nova redação de 9 a) iv) ('Bragança e Chaves;'), 9 a) vi) revogada; aplicado.",
+    "Despacho 10050/2025, n.os 1 e 3: artigo 12.º, novas redações das alíneas a), b), d), e), i), k) e revogação de c), f), g), j); aplicado nas alíneas; proémio, epígrafe e h) ficam por preencher (ver nao_aplicavel).",
+    "Despacho 10050/2025, n.º 2: aditado o artigo 13.º-A; aplicado.",
+    "Despacho 10050/2025, n.º 3: revogada a subalínea vi) da alínea a) do n.º 9 do artigo 1.º; aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

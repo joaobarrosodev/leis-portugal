@@ -50,12 +50,6 @@
       "alterador": 1
     },
     {
-      "chave": "ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::6.º",
-      "epigrafe": "Estrutura",
-      "texto": "(Revogado.)",
-      "alterador": 1
-    },
-    {
       "chave": "ANEXO — Orgânica da Direcção Regional do Comércio, Indústria e Energia::7.º",
       "epigrafe": "Pessoal com funções de fiscalização",
       "texto": "(Revogado.)",
@@ -63,10 +57,10 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "nao_aplicavel": "Art. 2.º do DRR 29/2012/M revoga o DRR 7/2009/M 'com exceção da estrutura das unidades orgânicas até à sua regulamentação': essa parte da revogação fica adiada para a regulamentação futura das unidades orgânicas, pelo que o artigo 6.º do anexo (Estrutura, o único sobre as unidades orgânicas) não foi revogado e mantém o texto atual.",
   "instrucoes": [
-    "Alt. 1, art. 2.º: revoga o Decreto Regulamentar Regional n.º 7/2009/M (com exceção da estrutura das unidades orgânicas até à sua regulamentação, que não consta dos artigos): todos os artigos ficam (Revogado.)",
-    "Alt. 1, arts. 1.º e anexo: aprova nova orgânica em diploma próprio: não altera o texto do original"
+    "DRR 29/2012/M art. 2.º: revogação do DRR 7/2009/M -> arts. 1.º a 3.º do decreto e arts. 1.º a 5.º e 7.º do anexo ficam '(Revogado.)'; art. 6.º do anexo (estrutura das unidades orgânicas) ressalvado até à sua regulamentação, mantido (ver nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

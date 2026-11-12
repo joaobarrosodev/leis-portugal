@@ -10,7 +10,7 @@
     {
       "chave": "3.º",
       "epigrafe": "Requerimento",
-      "texto": "1 - O processo é instaurado na conservatória mediante requerimento escrito do interessado, com reconhecimento presencial de assinatura ou assinado na presença do conservador, ou a pedido verbal daquele, reduzido a escrito pelo conservador em auto-requerimento, no qual devem ser especificadas as razões que determinam a omissão ou desactualização do registo, bem como os factos que fundamentam a existência do direito justificando e as circunstâncias que impossibilitam a sua prova, indicando-se ainda os elementos de prova disponíveis.\n\n2 - Juntamente com o requerimento, deve o interessado apresentar:\n\na) Declaração da junta de freguesia respectiva ou, no caso da ilha do Corvo, da respectiva câmara municipal que certifique a veracidade das declarações do requerente e da titularidade do direito cujo registo é pretendido, desde que não sejam apresentados documentos suficientemente probatórios dos factos declarados;\n\nb) Prova da inscrição matricial do prédio ou, no caso de não se encontrar inscrito, da apresentação do requerimento para tal inscrição, aplicando-se-lhe os prazos previstos nos artigos 31.º e 32.º do Código do Registo Predial.",
+      "texto": "1 - O processo é instaurado na conservatória mediante requerimento escrito do interessado, com reconhecimento presencial de assinatura ou assinado na presença do conservador, ou a pedido verbal daquele, reduzido a escrito pelo conservador em auto-requerimento, no qual devem ser especificadas as razões que determinam a omissão ou desactualização do registo, bem como os factos que fundamentam a existência do direito justificando e as circunstâncias que impossibilitam a sua prova, indicando-se ainda os elementos de prova disponíveis.\n\n2 - Juntamente com o requerimento, deve o interessado apresentar:\n\na) Declaração da junta de freguesia respectiva ou, no caso da ilha do Corvo, da respectiva câmara municipal que certifique a veracidade das declarações do requerente e da titularidade do direito cujo registo é pretendido, desde que não sejam apresentados documentos suficientemente probatórios dos factos declarados;\n\nb) Prova da inscrição matricial do prédio ou, no caso de não se encontrar inscrito, da apresentação do requerimento para tal inscrição, aplicando-se-lhe os prazos previstos nos artigos 31.º e 32.º do Código do Registo Predial.\n\n3 - (Eliminado.)",
       "alterador": 2
     },
     {
@@ -28,20 +28,20 @@
     {
       "chave": "8.º",
       "epigrafe": "Aplicação no tempo",
-      "texto": "O regime constante do presente diploma vigora pelo prazo de cinco anos a contar da data a sua entrada em vigor.",
+      "texto": "O regime constante do presente diploma vigora pelo prazo de cinco anos a contar da data a sua entrada em vigor.\n\nVisto e aprovado em Conselho de Ministros de 17 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Nuno Albuquerque Morais Sarmento.\n\nPromulgado em 18 de Fevereiro de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 20 de Fevereiro de 2004.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.",
       "alterador": 1
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 65/2005, art. 1.º: nova redação do n.º 1 do art. 1.º (n.º 2 mantém-se); aplicado.",
-    "DL 65/2005, art. 1.º: nova alínea a) do n.º 2 e aditamento do n.º 3 ao art. 3.º; aplicado, depois substituído pela Lei 41/2005.",
-    "DL 65/2005, art. 1.º: nova redação do n.º 2 do art. 4.º; aplicado.",
-    "DL 65/2005, art. 1.º: nova redação do art. 7.º; aplicado, depois substituído pela Lei 41/2005.",
-    "DL 65/2005, art. 1.º: nova epígrafe 'Aplicação no tempo' e novo texto do art. 8.º; aplicado.",
-    "Lei 41/2005, art. 1.º: nova redação do proémio e da alínea a) do n.º 2 do art. 3.º (alínea b) mantém-se) e eliminação do n.º 3 aditado pelo DL 65/2005; aplicado, o art. 3.º fica só com os n.os 1 e 2.",
-    "Lei 41/2005, art. 1.º: nova redação do art. 7.º; aplicado."
+    "DL 65/2005 art. 1.º: nova redação do n.º 1 do art. 1.º (n.º 2 mantém-se).",
+    "DL 65/2005: art. 3.º, n.º 2 alínea a) alterada e aditado n.º 3; depois substituído pela Lei 41/2005.",
+    "Lei 41/2005: art. 3.º n.º 2 (proémio e alínea a)) nova redação, alínea b) mantém-se, n.º 3 com a redação '3 - (Eliminado.)' copiada à letra.",
+    "DL 65/2005: art. 4.º n.º 2 nova redação.",
+    "DL 65/2005 e depois Lei 41/2005: art. 7.º, fica a redação da Lei 41/2005.",
+    "DL 65/2005: art. 8.º com nova epígrafe 'Aplicação no tempo' e nova redação; mantêm-se as linhas finais de aprovação e promulgação do texto atual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

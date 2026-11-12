@@ -39,10 +39,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-06-29'
+version_history:
+  file: decreto-lei-62-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-02-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-06-29'
+    amending: pt:dre:324148:por
+    amending_title: Decreto-Lei n.º 290/93; Decreto-Lei n.º 232/99
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Revoga Artigo 18.º
+    - Altera Artigo CAPÍTULO II — Proibições e condições de utilização de certas substâncias de efeito hormonal e tireostático
+    - Altera Artigo CAPÍTULO III — Trocas comerciais de animais de exploração e de produtos deles provenientes
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/62/1991/02/01/p/dre/pt/html
@@ -68,7 +89,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:14:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 290/93; Decreto-Lei
+    n.º 232/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-62-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -240,15 +262,21 @@ j) Laboratório autorizado: um laboratório credenciado pela autoridade competen
 
 l) Produto de uso veterinário: substância ou mistura de substâncias destinadas quer aos animais, para tratamento ou prevenção das doenças e dos seus sintomas, correcção ou modificação das funções orgânicas ou para diagnóstico médico, quer às instalações dos animais ou a actividades relacionadas com estes ou com os produtos de origem animal.
 
-### CAPÍTULO II — Proibições e condições de utilização de certas substâncias de efeito hormonal e tireostático
+m) Anabolizantes: as substâncias cuja administração tem por efeito estimular a biossíntese proteica.
+
+> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24.
+
+### CAPÍTULO II — Proibições e condições de utilização de certas substâncias de efeito hormonal, tireostático e anabolizante.
 
 ###### Artigo 3.º — Proibições
 
 Sem prejuízo do que se ncontra estabelecido no Decreto-Lei n.º 440/89, de 27 de Dezembro, que aprovou o Regulamento do Fabrico, Comercialização e Utilização de Aditivos nos Alimentos para Animais, não é permitido:
 
-a) Colocar no mercado ou deter, com vista a administrar a animais de qualquer espécie e por qualquer meio, estilbenos, seus derivados e seus sais e ésteres, bem como substâncias de acção tireostática;
+a) Colocar no mercado, deter ou administrar a animais de qualquer espécie e por qualquer meio estilbenos, seus derivados e seus sais e ésteres, bem como substâncias de acção tireostática;
 
-b) Administrar a animais de engorda qualquer das substâncias de efeito hormonal referidas no n.º 1 do artigo 4.º
+b) Sem prejuízo do disposto na alínea anterior, colocar no mercado, deter ou administrar anabolizantes a animais de exploração, excepto quando entrem na composição de medicamentos, antecipadamente preparados e apresentados de acordo com a denominação e as condições de acondicionamento autorizados nos termos da legislação em vigor.
+
+> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24.
 
 ###### Artigo 4.º — Condições de utilização
 
@@ -266,21 +294,27 @@ b) Para fins zootécnicos, tendo em vista a interrupção de gestações indesej
 
 5 - Até à publicação das listas mencionadas no número anterior, os medicamentos oficialmente autorizados continuam a poder ser utilizados.
 
-### CAPÍTULO III — Trocas comerciais de animais de exploração e de produtos deles provenientes
+### CAPÍTULO III — Detenção e trocas comerciais de animais de exploração e de produtos deles provenientes
 
 ###### Artigo 5.º — Comércio e abate
 
-1 - Nos termos do presente diploma, não é permitido:
+1 - Nos termos do presente diploma é proibido:
 
-a) O comércio, cedência ou abate de animais de exploração aos quais tenham sido administradas substâncias ou produtos interditos;
+a) Deter, possuir, ceder, vender, comprar ou abater animais de exploração aos quais tenham sido administradas substâncias ou produtos interditos;
 
-b) O comércio, cedência ou abate de animais de exploração aos quais tenham sido administrados medicamentos referidos no artigo anterior antes de findo o respectivo intervalo de segurança, salvo o disposto no n.º 2;
+b) Deter, possuir, ceder, vender, comprar ou abater animais de exploração aos quais tenham sido administrados medicamentos autorizados contendo anabolizantes, antes de findo o respectivo intervalo de segurança, salvo o disposto no número seguinte;
 
-c) O comércio ou transformação de carnes ou outros produtos provenientes dos animais referidos nas alíneas a) e b) com destino ao consumo humano ou animal;
+c) Deter, possuir, vender ou transformar carnes ou outros produtos provenientes dos animais referidos nas alíneas anteriores com destino ao consumo humano ou animal;
 
 d) Importar animais de exploração ou produtos deles provenientes com destino ao consumo humano, de países em que se administrem substâncias interditas ou que não ofereçam garantias suficientes quanto à utilização das substâncias autorizadas nos termos do artigo anterior.
 
+e) Comercializar, transformar ou utilizar produtos de origem animal provenientes de animais de exploração sujeitos a tratamento durante ensaios com produtos de uso veterinário, sem autorização da entidade competente.
+
 2 - Podem efectuar-se, antes do fim do intervalo de segurança, trocas comerciais de cavalos de corrida, de competição, de circo ou destinados à cobrição ou exposições, incluindo os equinos dessas categorias a que tenham sido administrados preparados orais contendo tremblona alilo para os efeitos indicados na alínea b) do n.º 1 do artigo anterior, desde que sejam respeitadas as outras condições estabelecidas no mesmo artigo e que a natureza e a data de intervenção sejam mencionadas no certificado que acompanha esses animais.
+
+3 - Excepto nas situações previstas no artigo anterior, todos os detentores e proprietários de animais de exploração estão especialmente obrigados a usar de todos os cuidados e a utilizar a maior diligência com vista a evitar e impedir que aos referidos animais sejam administrados substâncias ou produtos interditos.
+
+> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24.
 
 ### CAPÍTULO IV — Sistema de controlo e pesquisa de resíduos
 
@@ -324,11 +358,11 @@ b) Realização de inquérito ao nível do fabrico, armazenagem, detenção, tra
 
 c) Colocação sob sequestro, marcação oficial e realização de análises adequadas, na exploração de origem ou outras, do rebanho ou dos animais que, de acordo com os inquéritos referidos nas alíneas anteriores, possam ser considerados suspeitos de apresentar os resíduos em questão;
 
-d) Abate compulsivo dos animais de exploração e sua inutilização total, sem qualquer tipo de compensação, quando as análises revelarem a presença de substâncias interditas;
+d) Abate compulsivo dos animais de exploração e sua inutilização total, sem qualquer compensação, quando as análises revelarem a presença de substâncias interditas e de substâncias com efeito anabolizante, quando as condições de utilização dos respectivos produtos não forem respeitadas;
 
 e) Inutilização total dos produtos de origem animal, sem qualquer tipo de compensação, quando as análises confirmarem a presença de resíduos de substâncias interditas ou de substâncias autorizadas que ultrapassem os limites máximos estabelecidos para a substância em causa;
 
-f) Proibição de abate dos animais destinados ao consumo se as condições de utilização de uma substância ou produto autorizado não tiverem sido respeitadas e, em particular, se a análise revelar a presença de resíduos de substâncias autorizadas acima dos níveis permitidos, por um período nunca inferior ao respectivo intervalo de segurança, até que possa ser assegurado que o nível de resíduos já não excede os limites máximos estabelecidos, salvo o disposto no n.º 5;
+f) Sem prejuízo do disposto na alínea d) e no número seguinte, proibir o abate de animais destinados ao consumo quando as condições de utilização de uma substância ou produto não tiverem sido respeitadas e, em particular, quando a análise revelar a presença de resíduos de substâncias acima dos níveis permitidos por um período nunca inferior ao respectivo intervalo de segurança;
 
 g) Proibição, durante o período em que se aguarda o resultado de análises, da cedência dos animais a outras pessoas, excepto se sob o controlo médico veterinário oficial;
 
@@ -344,6 +378,8 @@ b) Acompanhados de um certificado médico veterinário que contenha os elementos
 
 7 - Os resultados positivos devem ser confirmados no LNIV ou num laboratório autorizado, por meio de métodos de referência estabelecidos pelas disposições comunitárias sobre a matéria.
 
+> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24.
+
 ### CAPÍTULO V — Contra-ordenações
 
 ###### Artigo 8.º — Fiscalização
@@ -352,7 +388,9 @@ Compete à DGP assegurar a fiscalização do cumprimento das normas contantes de
 
 ###### Artigo 9.º — Infracções
 
-As infracções ao disposto nos artigos 3.º, 4.º, 5.º, nos n.os 2 e 5 do artigo 6.º e nas alíneas d), e), f) e g) do n.º 4 do artigo 7.º constituem contra-ordenações puníveis com coimas de 50000$00 a 500000$00.
+As infracções ao disposto nos artigos 3.º, 4.º, 5.º, nos n.os 2 e 5 do artigo 6.º, nas alíneas c) a g) do n.º 4, no n.º 5 do artigo 7.º e no artigo 18.º, bem como ao disposto nas normas técnicas aprovadas nos termos do n.º 6 do artigo 6.º e do artigo 17.º, constituem contra-ordenações puníveis com coima de 50000$00 a 500000$00.
+
+> Alterado pelo/a [Decreto-Lei n.º 290/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1993-324148), publicado em 1993-08-24.
 
 ###### Artigo 10.º — Sanções acessórias
 
@@ -410,7 +448,9 @@ As normas técnicas de execução regulamentar necessárias para a aplicação d
 
 ###### Artigo 18.º — Autorização de introdução no mercado de produtos de uso veterinário
 
-Os produtos de uso veterinário carecem de autorização para introdução no mercado, concedida pelo director-geral da Pecuária.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 232/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1999-390250), publicado em 1999-06-24.
 
 ###### Artigo 19.º — Farmacovigilância e toxicologia
 

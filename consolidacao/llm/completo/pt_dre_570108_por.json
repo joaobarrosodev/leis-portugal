@@ -2,6 +2,12 @@
   "id": "pt:dre:570108:por",
   "artigos": [
     {
+      "chave": "6.º#2",
+      "epigrafe": "Preço e condições de pagamento",
+      "texto": "1 - O preço por acção é o que for indicado pelos concorrentes.\n\n2 - O pagamento de 70% do preço total oferecido pelo bloco de acções a que se refere o n.º 1 do artigo 1.º deve ser efectuado no prazo fixado no n.º 1 do artigo 25.º\n\n3 - O pagamento do remanescente do preço deve ser efectuado no prazo fixado no n.º 3 do artigo 25.º e atenderá ao disposto nos números seguintes.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)",
+      "alterador": 1
+    },
+    {
       "chave": "26.º",
       "epigrafe": "Nova unidade fabril",
       "texto": "(Revogado.)",
@@ -21,11 +27,11 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Art. 10.º do DL 19/2003 revoga os n.os 4 a 8 do artigo 6.º do caderno de encargos: a chave '6.º' recebida é ambígua (coincide com o artigo 6.º do decreto-lei, 'Obrigações dos cessionários'), por isso não foi aplicada para não sobrescrever o artigo errado. Nova redação pretendida do 6.º do caderno: n.os 1 a 3 iguais e '4 - (Revogado.)' a '8 - (Revogado.)'.",
+  "titulos": [],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Art. 10.º: revoga os artigos 26.º, 27.º e 44.º do caderno de encargos -> corpo '(Revogado.)' em cada um",
-    "Art. 10.º: revoga os n.os 4 a 8 do artigo 6.º do caderno -> não aplicado (chave 6.º ambígua com o art. 6.º do decreto-lei); ver nao_aplicavel",
-    "Arts. 1.º a 9.º e 11.º: normas autónomas (novas obrigações, garantia, indisponibilidade, redução do investimento, vigência), sem alteração textual do original -> ignoradas"
+    "DL 19/2003, art. 10.º: revoga os n.os 4 a 8 do artigo 6.º do caderno de encargos (chave 6.º#2) e os artigos 26.º, 27.º e 44.º do caderno; aplicado.",
+    "DL 19/2003, arts. 2.º a 9.º: novas obrigações, penhor e indisponibilidade em regime autónomo, sem alterar o texto do original; nada aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

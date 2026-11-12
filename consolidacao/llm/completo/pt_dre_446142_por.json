@@ -10,12 +10,12 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 2 (Decreto Regional n.º 24/79/M): os artigos 1.º a 7.º estabelecem um novo regime (Governo com seis Secretários Regionais, extinção e criação de Secretarias Regionais, transição de sectores) sem dar nova redação a nenhum artigo do original; não é alteração textual dos artigos 1.º e 2.º, que ficam como estão. Alterador 3, artigo 2.º: revogação de 'toda a legislação em contrário' é condicional e não se aplica ao texto (designadamente ao n.º 3 do artigo 3.º).",
+  "nao_aplicavel": "Decreto Regional 24/79/M (seis Secretários Regionais, extinção e criação de Secretarias): normas próprias, sem nova redação dos arts. 1.º e 2.º, modificação implícita não aplicada ao texto. Art. 2.º do Decreto Regional 15/81/M ('toda a legislação em contrário'): revogação genérica, não aplicada.",
   "instrucoes": [
-    "Alterador 1 (DR 11/79/M), art. 1.º: nova redação do n.º 1 e do n.º 4 do artigo 3.º (n.os 2, 3, 5, 6 e 7 com '...' ficam); aplicado.",
-    "Alterador 2 (DR 24/79/M): normas autónomas sobre a composição do Governo e Secretarias, sem instrução textual sobre o original; não aplicado (nao_aplicavel).",
-    "Alterador 3 (DR 15/81/M), art. 1.º: nova redação do n.º 1 do artigo 3.º (substitui a dada pelo alterador 1); aplicado. Art. 2.º revogação genérica condicional: não aplicada.",
-    "Alterador 4 (DRR 16/88/M): altera o DRR 12/88/M, não o original; ignorado."
+    "DR 11/79/M art. 1.º: nova redação dos n.os 1 e 4 do art. 3.º (letra B), aplicada; o reparo do verificador sobre o n.º 4 não procede, a instrução existe",
+    "DR 24/79/M: normas próprias sobre a composição do Governo, não textual: em nao_aplicavel",
+    "DR 15/81/M art. 1.º: nova redação do n.º 1 do art. 3.º, aplicada; art. 2.º revogação genérica não aplicada",
+    "DRR 16/88/M: altera o DRR 12/88/M: ignorado"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

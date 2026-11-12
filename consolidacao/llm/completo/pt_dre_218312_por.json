@@ -20,62 +20,68 @@
       "alterador": 3
     },
     {
-      "chave": "4.º",
-      "epigrafe": "",
+      "chave": "1.º#2",
+      "epigrafe": "Natureza e atribuições",
       "texto": "(Revogado.)",
       "alterador": 3
     },
     {
-      "chave": "5.º",
-      "epigrafe": "",
+      "chave": "2.º#2",
+      "epigrafe": "Competências",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "3.º#2",
+      "epigrafe": "Estrutura orgânica",
+      "texto": "A DRAPS é dirigida pelo director regional para a Administração Pública de Porto Santo, adiante designado abreviadamente por director regional, cargo de direcção superior de 1.º grau, e compreende os seguintes serviços:\n\na) O Secretariado;\n\nb) O Posto de Atendimento ao Cidadão (PAC);\n\nc) A Direcção de Serviços Administrativos e Financeiros (DSAF);\n\nd) A Direcção de Serviços de Gestão de Recursos e Manutenção (DSGRM).",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Director regional",
       "texto": "(Revogado.)",
       "alterador": 3
     },
     {
       "chave": "5.º-A",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 3
-    },
-    {
-      "chave": "6.º",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 3
+      "epigrafe": "Posto de Atendimento ao Cidadão",
+      "texto": "O Posto de Atendimento ao Cidadão (PAC) é um órgão dependente directamente do director regional que agrega um conjunto de serviços de atendimento da Administração Pública aos cidadãos.",
+      "alterador": 1
     },
     {
       "chave": "6.º-A",
-      "epigrafe": "",
-      "texto": "(Revogado.)",
-      "alterador": 3
+      "epigrafe": "Natureza, atribuições e competências",
+      "texto": "1 - A DSGRM tem por missão assegurar a gestão dos equipamentos, instalações e pessoal necessário à gestão de recursos naturais afectos à DRAPS, nomeadamente ambientais, florestais, veterinários, agrícolas, pecuária e pesca, bem como a gestão dos recursos necessários à manutenção do património, equipamentos e infra-estruturas de domínio público.\n\n2 - A DSGRM compreende:\n\na) A Divisão de Gestão de Recursos Naturais (DGRN);\n\nb) A Divisão de Gestão de Manutenção (DGM).\n\n3 - Compete à DGRN promover a racionalização e a gestão adequada dos recursos humanos, equipamentos e instalações afectos à gestão dos recursos naturais.\n\n4 - A DGRN compreende a Secção de Pecuária, Matadouro e Lota e a Secção de Agricultura e Florestas, às quais compete assegurar o seu normal funcionamento em cada área específica.\n\n5 - Compete à DGM promover a gestão racional e adequada às necessidades humanas e materiais de manutenção do património e imobilizado afecto à DRAPS, nomeadamente imóveis, instalações, equipamentos e infra-estruturas de domínio público.\n\n6 - A DGM compreende a Secção de Manutenção de Instalações, a Secção de Manutenção de Equipamentos e a Secção de Manutenção de Infra-Estruturas, às quais compete assegurar o normal funcionamento das suas áreas específicas.",
+      "alterador": 1
     },
     {
       "chave": "7.º",
-      "epigrafe": "",
+      "epigrafe": "Quadro",
       "texto": "(Revogado.)",
       "alterador": 3
     },
     {
       "chave": "8.º",
-      "epigrafe": "",
+      "epigrafe": "Equipas de projecto",
       "texto": "(Revogado.)",
       "alterador": 3
     },
     {
       "chave": "9.º",
-      "epigrafe": "",
+      "epigrafe": "Transição de pessoal",
       "texto": "(Revogado.)",
       "alterador": 3
     },
     {
       "chave": "10.º",
-      "epigrafe": "",
+      "epigrafe": "Salvaguarda de concursos pendentes",
       "texto": "(Revogado.)",
       "alterador": 3
     },
     {
       "chave": "11.º",
-      "epigrafe": "",
+      "epigrafe": "Encargos",
       "texto": "(Revogado.)",
       "alterador": 3
     }
@@ -83,11 +89,24 @@
   "removidos": [
     "12.º"
   ],
-  "nao_aplicavel": "O texto atual repete as chaves 1.º a 3.º para o decreto e para a orgânica anexa; como o alterador 3 revoga o diploma por inteiro, cada chave 1.º a 11.º fica (Revogado.) para ambos. O quadro de pessoal (anexos em imagem) não foi tratado.",
+  "titulos": [
+    {
+      "atual": "#### SECÇÃO IV — Direcção de Serviços Administrativos e Financeiros",
+      "novo": "#### SECÇÃO IV — Posto de Atendimento ao Cidadão",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, art. 1.º n.os 3 e 4: a criação das secções V (com o título da antiga secção IV, englobando o artigo 6.º) e VI («Direcção de Serviços de Gestão de Recursos e Manutenção», englobando o artigo 6.º-A) não entra em 'titulos', porque esses títulos não existem no texto atual. Alterador 3 (DRR 23/2008/M), art. 2.º: o n.º 1 revoga todo o DRR 8/2004/M, mas o n.º 2 mantém em vigor a estrutura de organização interna da DRAPS até à aprovação da regulamentação respetiva (facto futuro); por isso não se aplicou a revogação aos artigos dessa estrutura (3.º da orgânica, 'Estrutura orgânica', e 5.º, 5.º-A, 6.º e 6.º-A, Secretariado, PAC, DSAF e DSGRM), nem aos títulos das secções; os restantes artigos ficam revogados.",
   "instrucoes": [
-    "Alt. 1 (DRR 3/2006/M): nova redação dos arts. 1.º, 2.º, 3.º, 4.º e 9.º da orgânica, aditados 5.º-A e 6.º-A, revogado o art. 10.º e os arts. 11.º e 12.º passam a 10.º e 11.º (12.º sai); tudo superado pela revogação do alterador 3",
-    "Alt. 2 (DRR 1/2007/M): nova redação do art. 4.º da orgânica; superada pela revogação",
-    "Alt. 3 (DRR 23/2008/M), art. 2.º n.º 1: revoga o DRR 8/2004/M; todos os artigos ficam (Revogado.)"
+    "Alt.1 art.1.º n.º1: nova redação dos arts. 1.º, 2.º, 3.º, 4.º e 9.º da orgânica (1.º#2, 2.º#2, 3.º#2, 4.º, 9.º); 1.º#2, 2.º#2, 4.º e 9.º são depois revogados pelo alt.3, 3.º#2 fica com a redação do alt.1",
+    "Alt.1 art.1.º n.º2: título da secção IV passa a «Posto de Atendimento ao Cidadão» — aplicado em titulos",
+    "Alt.1 art.1.º n.os 3 e 4: criação das secções V e VI — títulos novos não inseridos (não existem no texto atual)",
+    "Alt.1 art.1.º n.º5: revogado o artigo 10.º; n.º6: os arts. 11.º e 12.º passam a 10.º e 11.º — 10.º e 11.º ficam com os textos dos antigos 11.º e 12.º, 12.º vai para removidos",
+    "Alt.1 art.2.º: aditados os arts. 5.º-A e 6.º-A, com o texto do artigo de aditamento",
+    "Alt.1 art.3.º: quadro de pessoal alterado pelo anexo I (só em imagem) — sem artigo a mudar",
+    "Alt.2: nova redação do art. 4.º (elimina a alínea f) aditada pelo alt.1) — absorvida pela revogação do art. 4.º pelo alt.3",
+    "Alt.3 art.2.º n.º1: revogação de todo o DRR 8/2004/M — arts. 1.º, 2.º, 3.º do decreto e 1.º#2, 2.º#2, 4.º, 7.º, 8.º, 9.º, 10.º, 11.º da orgânica com (Revogado.)",
+    "Alt.3 art.2.º n.º2: mantém transitoriamente a estrutura de organização interna — 3.º#2, 5.º, 5.º-A, 6.º, 6.º-A não revogados (ver nao_aplicavel)"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

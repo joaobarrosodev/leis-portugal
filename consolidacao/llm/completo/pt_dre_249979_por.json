@@ -69,13 +69,19 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1, art. 3.º (nova denominação da subsecção IV) e art. 5.º/anexo I (dotação de cargos do anexo II, só em imagem) não são texto de artigos. Alterador 2 extingue serviços (ARES, GSR, GGCO, GPA) sem alterar o texto do original. Alterador 3, art. 2.º, n.º 1, revoga o original apenas 'na parte que se reportam à Direção Regional de Informação Geográfica': revogação parcial sem indicação de artigos, não aplicada ao texto.",
+  "titulos": [
+    {
+      "atual": "##### SUBSECÇÃO IV — Direcção Regional de Informação Geográfica e Ordenamento do Território",
+      "novo": "##### SUBSECÇÃO IV — Direcção Regional de Informação Geográfica",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "DRR 6/2011/M, art. 5.º: a nova dotação de cargos de direção intermédia do anexo II consta do anexo I do alterador, que só vem em imagem ('ver documento original') — não aplicada. DRR 25/2012/M, art. 2.º: extinção e fusão de serviços (ARES, GSR, GGCO, GPA) sem alteração textual do articulado — não aplicada ao texto. DRR 30/2012/M, art. 2.º, n.º 1: revoga o DRR 7/2008/M apenas 'na parte que se reportam à Direção Regional de Informação Geográfica' — revogação parcial sem indicação dos preceitos, alvo ambíguo; não aplicada ao texto.",
   "instrucoes": [
-    "Alt.1 art.2.º: nova redação dos artigos 1.º, 5.º (d), 6.º, 8.º (aditada e)), 18.º, 19.º (l) = anterior u); m) a v) eliminadas), 20.º (d), e) novas; f)-h) = anteriores i)-l); i)-l) eliminadas), 27.º, 28.º (a)), 30.º (n.º 2) e 38.º (3 b)) — aplicadas",
-    "Alt.1 art.3.º: denominação da subsecção IV — não é artigo",
-    "Alt.1 art.5.º: anexo II alterado por anexo em imagem — não aplicado",
-    "Alt.2: extinção/fusão de serviços — não textual",
-    "Alt.3 art.2.º: revogação na parte relativa à DRIG — não aplicada (alvo indeterminado)"
+    "DRR 6/2011/M, art. 2.º: nova redação dos arts. 1.º, 5.º (alínea d) do n.º 1), 6.º, 8.º (aditada a alínea e)), 18.º, 19.º (n.º 1 corpo, l) = anterior u), m) a v) eliminadas, n.º 2), 20.º (n.º 1 corpo, d), e), f)-h) = anteriores i)-l), i), j), l) eliminadas), 27.º, 28.º (alínea a) do n.º 1), 30.º (n.º 2) e 38.º (alínea b) do n.º 3) — aplicado; o resto de cada artigo copiado do texto atual.",
+    "DRR 6/2011/M, art. 3.º: nova denominação da subsecção IV da secção I do capítulo III ('Direcção Regional de Informação Geográfica') — aplicada em titulos (confirmado o reparo do verificador).",
+    "DRR 6/2011/M, art. 9.º, n.º 2: a produção de efeitos dependia da entrada em vigor das orgânicas para onde transitaram o urbanismo, litoral e ordenamento do território; esses diplomas já existem (o DRR 30/2012/M é posterior), pelo que as alterações foram aplicadas.",
+    "DRR 6/2011/M, art. 5.º (anexo II em imagem), DRR 25/2012/M e DRR 30/2012/M — ver nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

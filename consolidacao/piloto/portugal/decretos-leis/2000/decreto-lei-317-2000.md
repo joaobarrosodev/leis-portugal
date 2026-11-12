@@ -44,6 +44,60 @@ b) Proibir a matrícula a um modelo de veículo com um tipo de luz de nevoeiro d
 
 É revogada a Portaria n.º 517-A/96, de 27 de Setembro, na redacção introduzida pela Portaria n.º 1080/97, de 29 de Outubro, no que se refere às luzes de nevoeiro da retaguarda, às luzes indicadoras de mudança de direcção, às luzes de estacionamento, aos faróis com função de máximos e ou médios e fontes luminosas, às luzes de nevoeiro da frente, aos dispositivos de iluminação da chapa de matrícula da retaguarda; às luzes delimitadoras, às luzes de presença da frente, às luzes de presença da retaguarda, às luzes de travagem, às luzes de presença lateral, às luzes de marcha atrás e aos reflectores dos automóveis e seus reboques.
 
+###### Artigo 4.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa.
+
+Promulgado em 29 de Setembro de 2000.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 4 de Outubro de 2000.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+REGULAMENTO DA HOMOLOGAÇÃO DOS DISPOSITIVOS DE ILUMINAÇÃO E DE SINALIZAÇÃO LUMINOSA DOS AUTOMÓVEIS E SEUS REBOQUES.
+
+### CAPÍTULO I — Disposições administrativas relativas à homologação das luzes de nevoeiro da retaguarda dos automóveis e seus reboques
+
+#### SECÇÃO I — Do pedido da homologação CE de componente e das marcações
+
+###### Artigo 1.º — Pedido de homologação CE
+
+1 - O fabricante deve apresentar o pedido de homologação CE de um tipo de luz de nevoeiro da retaguarda enquanto componente, em conformidade com os n.os 2 e 3 do artigo 4.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio.
+
+2 - O modelo da ficha de informações consta do anexo 1.º do presente Regulamento.
+
+3 - Devem ser apresentadas ao serviço técnico responsável pela realização dos ensaios de homologação duas amostras equipadas com a ou as lâmpadas recomendadas; se, porém, os dispositivos não forem idênticos, mas simétricos, e forem adequados para montagem um à esquerda e o outro à direita do veículo, as duas amostras apresentadas podem ser idênticas e adequadas para montagem apenas à direita ou apenas à esquerda do veículo.
+
+###### Artigo 2.º — Marcações
+
+1 - Os dispositivos apresentados à homologação CE de componente devem apresentar:
+
+a) A denominação comercial ou marca do fabricante;
+
+b) No caso de luzes com fontes luminosas substituíveis, o ou os tipos de lâmpadas de filamento prescritos;
+
+c) No caso de luzes com fontes luminosas não substituíveis, a tensão e potência nominais.
+
+2 - As marcações descritas nas alíneas anteriores devem ser claramente legíveis e indeléveis, afixadas à superfície iluminante ou a uma das superfícies iluminantes do dispositivo, devendo ser visíveis do exterior, quando o dispositivo estiver montado no veículo.
+
+3 - Cada dispositivo deve ter espaço suficiente para a marca de homologação de componente, devendo esse espaço ser indicado nos desenhos referidos no anexo 1.º
+
+###### Artigo 3.º — Homologação CE de componente
+
+1 - No caso de os requisitos relevantes serem satisfeitos, deve ser concedida a homologação CE em conformidade com o n.º 3 e, se aplicável, os n.os 6 a 8 do artigo 11.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas.
+
+2 - O modelo do certificado de homologação CE consta do anexo 2.º do presente Regulamento.
+
+3 - A cada tipo de luz de nevoeiro da retaguarda homologado deve ser atribuído um número de homologação, conforme com o anexo VII do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, não podendo a Direcção-Geral de Viação atribuir o mesmo número a outro tipo de luz de nevoeiro da retaguarda.
+
+4 - No caso de ser solicitada a homologação CE de componente para um tipo de dispositivo de iluminação e sinalização luminosa que inclua uma luz de nevoeiro da retaguarda e outras luzes, pode ser atribuído um único número, desde que a luz de nevoeiro da retaguarda satisfaça os requisitos do presente Regulamento e que cada uma das outras luzes que fazem parte do dispositivo de iluminação e de sinalização luminosa satisfaça as disposições do capítulo específico que se lhe aplica.
+
 ###### Artigo 4.º — Marca de homologação CE de componente
 
 1 - Para além das marcações referidas no n.º 1 do artigo 2.º, cada luz de nevoeiro da retaguarda, conforme com o tipo homologado nos termos do presente Regulamento deve apresentar uma marca de homologação CE de componente.
@@ -143,128 +197,6 @@ b) Num grupo, de modo que cada uma das luzes agrupadas, combinadas ou incorporad
 10 - Os exemplos de uma marca de homologação CE de componente para uma luz agrupada, combinada ou incorporada mutuamente com outras luzes, estão representados na figura 2, constante do anexo 3.º ao presente Regulamento.
 
 > Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
-
-Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa.
-
-Promulgado em 29 de Setembro de 2000.
-
-Publique-se.
-
-O Presidente da República, JORGE SAMPAIO.
-
-Referendado em 4 de Outubro de 2000.
-
-O Primeiro-Ministro, António Manuel de Oliveira Guterres.
-
-REGULAMENTO DA HOMOLOGAÇÃO DOS DISPOSITIVOS DE ILUMINAÇÃO E DE SINALIZAÇÃO LUMINOSA DOS AUTOMÓVEIS E SEUS REBOQUES.
-
-### CAPÍTULO I — Disposições administrativas relativas à homologação das luzes de nevoeiro da retaguarda dos automóveis e seus reboques
-
-#### SECÇÃO I — Do pedido da homologação CE de componente e das marcações
-
-###### Artigo 1.º — Pedido de homologação CE
-
-1 - O fabricante deve apresentar o pedido de homologação CE de um tipo de luz de nevoeiro da retaguarda enquanto componente, em conformidade com os n.os 2 e 3 do artigo 4.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio.
-
-2 - O modelo da ficha de informações consta do anexo 1.º do presente Regulamento.
-
-3 - Devem ser apresentadas ao serviço técnico responsável pela realização dos ensaios de homologação duas amostras equipadas com a ou as lâmpadas recomendadas; se, porém, os dispositivos não forem idênticos, mas simétricos, e forem adequados para montagem um à esquerda e o outro à direita do veículo, as duas amostras apresentadas podem ser idênticas e adequadas para montagem apenas à direita ou apenas à esquerda do veículo.
-
-###### Artigo 2.º — Marcações
-
-1 - Os dispositivos apresentados à homologação CE de componente devem apresentar:
-
-a) A denominação comercial ou marca do fabricante;
-
-b) No caso de luzes com fontes luminosas substituíveis, o ou os tipos de lâmpadas de filamento prescritos;
-
-c) No caso de luzes com fontes luminosas não substituíveis, a tensão e potência nominais.
-
-2 - As marcações descritas nas alíneas anteriores devem ser claramente legíveis e indeléveis, afixadas à superfície iluminante ou a uma das superfícies iluminantes do dispositivo, devendo ser visíveis do exterior, quando o dispositivo estiver montado no veículo.
-
-3 - Cada dispositivo deve ter espaço suficiente para a marca de homologação de componente, devendo esse espaço ser indicado nos desenhos referidos no anexo 1.º
-
-###### Artigo 3.º — Homologação CE de componente
-
-1 - No caso de os requisitos relevantes serem satisfeitos, deve ser concedida a homologação CE em conformidade com o n.º 3 e, se aplicável, os n.os 6 a 8 do artigo 11.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas.
-
-2 - O modelo do certificado de homologação CE consta do anexo 2.º do presente Regulamento.
-
-3 - A cada tipo de luz de nevoeiro da retaguarda homologado deve ser atribuído um número de homologação, conforme com o anexo VII do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, não podendo a Direcção-Geral de Viação atribuir o mesmo número a outro tipo de luz de nevoeiro da retaguarda.
-
-4 - No caso de ser solicitada a homologação CE de componente para um tipo de dispositivo de iluminação e sinalização luminosa que inclua uma luz de nevoeiro da retaguarda e outras luzes, pode ser atribuído um único número, desde que a luz de nevoeiro da retaguarda satisfaça os requisitos do presente Regulamento e que cada uma das outras luzes que fazem parte do dispositivo de iluminação e de sinalização luminosa satisfaça as disposições do capítulo específico que se lhe aplica.
-
-###### Artigo 4.º — Marca de homologação CE de componente
-
-1 - Para além das marcações referidas no n.º 1 do artigo 2.º, cada luz de nevoeiro da retaguarda, conforme com o tipo homologado nos termos do presente Regulamento deve apresentar uma marca de homologação CE de componente.
-
-2 - A marca referida no número anterior deve ser constituída:
-
-a) Por um rectângulo envolvendo a letra minúscula «e», seguida do número ou letras distintivos do Estado membro que concedeu a homologação, que são os seguintes:
-
-1 para a Alemanha;
-
-2 para a França;
-
-3 para a Itália;
-
-4 para os Países Baixos;
-
-5 para a Suécia;
-
-6 para a Bélgica;
-
-9 para Espanha;
-
-11 para o Reino Unido;
-
-12 para a Áustria;
-
-13 para o Luxemburgo;
-
-17 Para a Finlândia;
-
-18 para a Dinamarca;
-
-21 para Portugal;
-
-23 para a Grécia;
-
-IRL para a Irlanda;
-
-b) Pelo «número de homologação de base» que constitui a secção 4 do número de homologação referido no anexo VII do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, procedido do número sequencial de dois algarismos, ambos a figurar na proximidade do rectângulo, que, no presente capítulo, é o número sequencial 00;
-
-c) Por um símbolo adicional que consiste na letra «F».
-
-3 - A marca de homologação CE de componente deve ser afixada à lente da luz ou a uma das lentes, de modo indelével e claramente legível, mesmo quando as luzes estiverem montadas no veículo.
-
-4 - Os exemplos da marca de homologação CE de componente estão representados na figura 1, constante do anexo 3.º do presente Regulamento.
-
-5 - No caso de ser atribuído um único número de homologação CE de componente, de acordo com o disposto no n.º 4 do artigo 3.º do presente Regulamento, para um tipo de dispositivo de iluminação e de sinalização luminosa que inclua uma luz de nevoeiro da retaguarda e outras luzes, pode ser afixada uma única marca de homologação CE de componente.
-
-6 - A marca de homologação CE de componente referida no número anterior é constituída:
-
-a) Por um rectângulo envolvendo a letra minúscula «e», seguido do número ou letras distintivos do Estado membro que concedeu a homologação, conforme o disposto no n.º 2, alínea a), do artigo 4.º;
-
-b) Pelo número de homologação de base, conforme o disposto na primeira parte do n.º 2, alínea b), do artigo 4.º;
-
-c) No caso de ser necessário, a seta exigida, desde que diga respeito ao conjunto de luzes como um todo.
-
-7 - A marca referida no número anterior pode ser localizada em qualquer das luzes agrupadas, combinadas ou incorporadas mutuamente, desde que:
-
-a) Seja visível após a instalação das luzes;
-
-b) Nenhum componente transmissor de luz das luzes agrupadas, combinadas ou incorporadas mutuamente, possa ser removido sem remover simultaneamente a marca de homologação.
-
-8 - O símbolo de identificação de cada luz correspondente a cada capítulo do presente Regulamento, nos termos do qual a homologação CE de componente foi concedida, juntamente com o número sequencial exigido na segunda parte do n.º 2, alínea b), do artigo 4.º e, se necessário, a letra «D» e a seta requerida devem ser marcados quer:
-
-a) Na superfície emissora de luz adequada;
-
-b) Num grupo, de modo que cada uma das luzes agrupadas, combinadas ou incorporadas mutuamente, possa ser claramente identificada.
-
-9 - As dimensões dos componentes dessa marca não devem ser inferiores às dimensões mínimas especificadas para as marcas individuais pelos vários capítulos do presente Regulamento, nos termos dos quais a homologação CE de componente foi concedida.
-
-10 - Os exemplos de uma marca de homologação CE de componente para uma luz agrupada, combinada ou incorporada mutuamente com outras luzes, estão representados na figura 2, constante do anexo 3.º ao presente Regulamento.
 
 #### SECÇÃO II — Das modificações do tipo, alterações das homologações e da conformidade da produção
 

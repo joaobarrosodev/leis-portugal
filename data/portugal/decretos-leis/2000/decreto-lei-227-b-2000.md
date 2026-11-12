@@ -38,10 +38,51 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-12-26'
+version_history:
+  file: decreto-lei-227-b-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-09-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-12-26'
+    amending: pt:dre:536243:por
+    amending_title: Decreto-Lei n.º 338/2001
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 27.º
+    - Altera Artigo 39.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 47.º
+    - Altera Artigo 49.º
+    - Altera Artigo 66.º
+    - Altera Artigo 69.º
+    - Altera Artigo 84.º
+    - Altera Artigo 93.º
+    - Altera Artigo 96.º
+    - Altera Artigo 97.º
+    - Altera Artigo 99.º
+    - Altera Artigo 100.º
+    - Altera Artigo 101.º
+    - Altera Artigo 113.º
+    - Altera Artigo 114.º
+    - Altera Artigo 2.º
+    - Altera Artigo 115.º
+    - Altera Artigo 119.º
+    - Altera Artigo 128.º
+    - Altera Artigo 155.º
+    - Altera Artigo 166.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre/pt/html
@@ -67,7 +108,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:19:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 338/2001. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-227-b-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -309,6 +351,12 @@ y) Enclave - terrenos situados no interior de zona de caça não incluídos na m
 
 z) Unidade biológica - área onde se encontram reunidos os factores físicos e bióticos indispensáveis para o estabelecimento de uma determinada população em todas as fases do seu ciclo de vida.
 
+aa) Jornada de caça - exercício do acto venatório de um caçador por um dia de caça.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
+
+> Alterado pelo/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
+
 ### CAPÍTULO II — Conservação das espécies cinegéticas
 
 ###### Artigo 3.º — Recursos cinegéticos
@@ -465,6 +513,10 @@ d) Os demais caçadores.
 
 3 - O prazo para a emissão do parecer do Instituto da Conservação da Natureza é de 45 dias, findo o qual se presume ser positivo.
 
+4 - Os prazos e termos do procedimento para a constituição de zonas de caça são regulados por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
+
 ###### Artigo 18.º — Decisão final
 
 O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pode:
@@ -479,15 +531,15 @@ Constituem obrigações das entidades gestoras, designadamente:
 
 a) Efectuar a sinalização das zonas de caça e conservá-la em bom estado;
 
-b) Cumprir e fazer cumprir as normas reguladoras do exercício da caça, designadamente os planos de gestão e exploração cinegéticos;
+b) Cumprir e fazer cumprir as normas reguladoras do exercício da caça;
 
-c) Apresentar à direcção regional de agricultura da área onde se situa a zona de caça um plano anual de exploração, até 15 de Junho de cada ano, propondo nomeadamente:
+c) Apresentar à direcção regional de agricultura da área onde se situa a zona de caça e ao ICN quando a zona de caça se situar em áreas classificadas, um plano anual de exploração, até 15 de Junho de cada ano propondo nomeadamente:
 
 i) Espécies e processos de caça autorizados;
 
 ii) Número previsto de jornadas de caça e limite de peças a abater;
 
-d) Após a aprovação do plano anual de exploração, promover a divulgação atempada das condições de candidatura e acesso dos caçadores às jornadas de caça, nos locais de costume e, pelo menos, um jornal de expansão nacional;
+d) Após a aprovação do plano anual de exploração, promover a divulgação atempada das condições de candidatura e de acesso dos caçadores às jornadas de caça nos locais de costume e, pelo menos, num jornal de expansão nacional;
 
 e) Garantir igualdade de oportunidades a todos os caçadores interessados em exercer o acto venatório, no respeito pelo definido no n.º 1 do artigo 16.º do presente diploma;
 
@@ -498,6 +550,10 @@ g) Manter actualizada uma contabilidade simplificada, na qual sejam registadas a
 h) Apresentar anualmente, até 15 de Junho, à direcção regional de agricultura respectiva, os resultados da exploração cinegética e da execução financeira respeitantes à época venatória anterior;
 
 i) Não permitir o exercício da caça até à aprovação do plano anual de exploração.
+
+j) Cumprir os planos de gestão, assim como os planos anuais de exploração.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 20.º — Renovação da transferência
 
@@ -539,6 +595,10 @@ Zonas de caça nacionais
 
 4 - Até à aprovação do plano é proibido o exercício da caça.
 
+5 - Nas ZCN a suspensão e revogação é determinada por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que estabelece ainda, no caso da suspensão, o prazo para a supressão da falta que a determinou.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
+
 DIVISÃO III
 
 Zonas de caça municipais
@@ -561,11 +621,13 @@ ii) Recursos humanos e materiais a disponibilizar pela entidade candidata;
 
 iii) Orçamento previsional e fontes de financiamento para o período de transferência;
 
-iv) Plano anual de exploração para a época venatória em que ocorra a transferência;
+iv) Plano anual de exploração para a época venatória em que ocorra a transferência ou para a seguinte, caso o tempo processual não o permita;
 
 v) Proposta dos critérios de proporcionalidade a utilizar para o acesso dos caçadores e sua fundamentação;
 
 vi) Proposta das taxas a cobrar pelo exercício da caça.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 25.º — Constituição
 
@@ -596,6 +658,10 @@ c) Colaborar na divulgação a que se refere a alínea d) do artigo 19.º
 2 - Até à aprovação do plano é proibido o exercício da caça.
 
 3 - O prazo referido na alínea a) do n.º 1 é de 25 dias, sempre que a ZCM se localize em áreas classificadas.
+
+4 - Nas ZCM a suspensão e revogação é determinada por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que estabelece ainda, no caso da suspensão, o prazo para a supressão da falta que a determinou.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 #### SECÇÃO III — Concessão
 
@@ -787,7 +853,7 @@ g) Comunicar às direcções regionais de agricultura, com um mínimo de 15 dias
 
 ###### Artigo 39.º — Plano anual de exploração
 
-1 - Constitui ainda obrigação dos concessionários de zonas da caça apresentar na respectiva direcção regional de agricultura, em impresso da Direcção-Geral das Florestas, em cada época venatória, proposta de plano anual de exploração, a qual deve conter, nomeadamente:
+1 - Constitui ainda obrigação dos concessionários de zonas de caça apresentar na respectiva direcção regional de agricultura e no ICN quando as zonas de caça se situarem em áreas classificadas, em impresso da Direcção-Geral das Florestas, em cada época venatória, proposta de plano anual de exploração, a qual deve conter, nomeadamente:
 
 a) Identificação das espécies a explorar e estimativa das populações das espécies cinegéticas sedentárias;
 
@@ -800,6 +866,8 @@ d) Dias da semana em que serão realizadas caçadas, quando for caso disso.
 2 - A aprovação do plano anual de exploração é da competência da respectiva direcção regional de agricultura, que dispõe de 30 dias para o efeito, findo o qual se presume aprovado o plano.
 
 3 - Até à aprovação do plano é proibido o exercício da caça.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 40.º — Resultados do plano de exploração
 
@@ -849,7 +917,7 @@ Renovação, suspensão e extinção de concessões
 
 2 - No fim de cada período de concessão, o Estado pode denunciar a sua renovação automática, notificando o concessionário com a antecedência mínima de um ano em relação ao termo do prazo previsto para a concessão.
 
-3 - Para efeitos do disposto no número anterior a Direcção-Geral das Florestas deve solicitar à Direcção-Geral do Turismo, no prazo mínimo de 18 meses a contar do termo do prazo previsto para a concessão, informação sobre se foi cumprido o respectivo plano de aproveitamento turístico.
+3 - Para efeitos do disposto no número anterior, a Direcção-Geral das Florestas deve solicitar à Direcção-Geral do Turismo, no prazo mínimo de 18 meses a contar do termo do prazo previsto para a concessão, informação sobre o grau de cumprimento pelos concessionários dos requisitos previstos no artigo 30.º
 
 4 - A não renovação das concessões não confere aos que tinham a qualidade de concessionários o direito a qualquer indemnização.
 
@@ -857,11 +925,13 @@ Renovação, suspensão e extinção de concessões
 
 6 - O prazo estipulado no número anterior aplica-se também à renovação automática de concessões no seu termo.
 
-7 - Sem prejuízo do disposto na alínea a) do artigo 35.º, decorridos os prazos estipulados no n.º 3 do presente artigo, a renovação deve ser recusada pela Direcção-Geral das Florestas.
+7 - Sem prejuízo do disposto na alínea a) do artigo 35.º, decorridos os prazos estipulados no n.º 5 do presente artigo, a renovação deve ser recusada pela Direcção-Geral das Florestas.
 
 8 - À renovação de ZCA e ZCT requerida nos termos do número anterior aplica-se o disposto nos artigos 34.º a 37.º com as necessárias adaptações.
 
 9 - As ZCA e ZCT cujas entidades concessionárias requereram atempadamente a renovação da concessão e que os processos não ficaram concluídos até ao termo da concessão são abrangidas pela suspensão do exercício da caça e de actividades de carácter venatório, nos termos do n.º 3 do artigo seguinte, até à publicação da respectiva portaria, pelo prazo máximo de nove meses.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 45.º — Suspensão da actividade cinegética
 
@@ -869,9 +939,11 @@ Renovação, suspensão e extinção de concessões
 
 2 - Constitui ainda causa de suspensão do exercício da caça e de actividades de carácter venatório, a constatação de que, no decurso da vigência da concessão ou renovação, não foram ou deixaram de ser cumpridos os requisitos essenciais à mesma.
 
-3 - Nas ZCN, ZCM e ZCA a suspensão é determinada por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que estabelece ainda o prazo para a supressão da falta que a determinou.
+3 - Nas ZCA a suspensão é determinada por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que estabelece ainda o prazo para a supressão da falta que a determinou.
 
 4 - Nas ZCT a suspensão é determinada por portaria conjunta dos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, que estabelece ainda o prazo para a supressão da falta que a determinou.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 46.º — Extinção
 
@@ -895,9 +967,11 @@ b) O titular da zona de caça não cumpra de forma reiterada ou continuada obrig
 
 2 - No caso previsto na alínea a) do número anterior é devida indemnização reportada ao termo do período de concessão ou de cada período de renovação em curso.
 
-3 - Quando se tratar de ZCN, ZCM e ZCA, a revogação é determinada por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+3 - Quando se tratar de ZCA, a revogação é determinada por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
 4 - Quando se tratar de ZCT, a revogação é determinada por portaria conjunta dos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ### CAPÍTULO IV — Terrenos não cinegéticos e de caça condicionada
 
@@ -921,7 +995,7 @@ e) Os terrenos com culturas frutícolas, com excepção dos olivais, desde o abr
 
 f) Os aparcamentos de gado nas condições definidas em portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;
 
-g) Os apiários;
+g) Os apiários e pombais, bem como quaisquer terrenos que os circundem numa faixa de protecção de 50 m;
 
 h) Os terrenos situados em zonas militares ou de forças de segurança, terrenos de estabelecimentos de ensino, hospitalares, prisionais ou tutelares de menores, de lares de idosos e os terrenos onde decorram acções de investigação ou experimentação que possam ser prejudicadas pelo livre exercício da caça, situados para além do âmbito previsto na alínea a);
 
@@ -929,9 +1003,13 @@ i) Os olivais e os pomares e vinhas com instalação de rega gota a gota;
 
 j) Os terrenos ocupados com culturas arvenses e os ocupados com sementeiras ou plantações de espécies florestais com altura média inferior a 80 cm.
 
+l) Os terrenos situados entre o nível de água das albufeira e o nível de pleno armazenamento (NPA).
+
 2 - A eficácia da proibição do acto venatório referida nas alíneas f), g), h), i) e j) do número anterior depende de os terrenos em causa se encontrarem sinalizados, nos termos a definir por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
 3 - A sinalização dos aparcamentos de gado e dos terrenos referidos na alínea h) do número anterior carece de autorização prévia da direcção regional de agricultura respectiva.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 50.º — Áreas de refúgio de caça
 
@@ -1157,6 +1235,10 @@ d) A data da concessão e de validade.
 
 3 - Para efeitos do disposto no n.º 1, devem ainda os interessados apresentar prova da aprovação em exame destinado a apurar a sua aptidão e conhecimentos necessários ao exercício da caça.
 
+4 - Sempre que os interessados tenham sido titulares de carta de caçador portuguesa ou tenham sido condenados por crime de caça, o exame a que se refere o número anterior deve ter ocorrido em data posterior à da caducidade da carta ou da condenação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
+
 ###### Artigo 67.º — Validade da carta de caçador
 
 1 - Salvo renovação nos termos dos números seguintes ou disposição em contrário, a carta de caçador é válida por períodos de 10 ou 5 anos, consoante tenha sido emitida ou renovada antes ou depois do final do ano em que o seu titular perfez os 50 anos.
@@ -1198,6 +1280,10 @@ b) A licença para caça maior.
 6 - A licença regional de caça permite caçar na área da região cinegética a que respeita.
 
 7 - O exercício da caça a aves aquáticas e às espécies de caça maior só é permitido a quem, sendo titular de licença geral válida para a correspondente área, seja também titular da respectiva licença especial.
+
+8 - Por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, pode ser dispensada a licença especial de caça maior aos caçadores residentes na freguesia ou freguesias onde se situa a área a bater ou a montear aos javalis.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 70.º — Emissão e requerimento
 
@@ -1359,11 +1445,13 @@ c) Na caça à raposa a corricão podem ser utilizados até 50 cães.
 
 1 - O exercício da caça só é permitido no período que decorre entre o nascer e o pôr do Sol, excepto:
 
-a) Na caça aos patos pelo processo de espera, quando exercida até 100 m dos planos de água;
+a) Na caça aos patos pelo processo de espera, quando exercida até 100 m dos planos de água, em que é permitido o início do exercício da caça uma hora antes do nascer do Sol e o seu fim uma hora depois do pôr do Sol;
 
 b) Na caça a espécies de caça maior pelos processos de aproximação e, em período de lua cheia, de espera.
 
-2 - A jornada de caça aos pombos, tordos e estorninho-malhado, bem como a detenção de exemplares destas espécies no exercício da caça, só é permitida entre o nascer do Sol e as 16 horas.
+2 - A jornada de caça aos pombos, tordos e estorninho-malhado, bem como a detenção de exemplares destas espécies no exercício da caça, se é permitida entre o nascer do Sol e as 16 horas, exceptuando-se para os tordos nos locais de passagem a definir por edital das direcções regionais de agricultura respectivas, cujo término ocorrerá com o pôr do Sol.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 85.º — Dias de caça
 
@@ -1479,7 +1567,9 @@ b) A caça de batida e a corricão só podem ser permitidas nos meses de Janeiro
 
 2 - A caça a estas espécies pode ser permitida nos meses de Agosto a Janeiro, inclusive, sem prejuízo do disposto no número seguinte.
 
-3 - Em terrenos cinegéticos não ordenados, nos meses de Agosto, Setembro e Janeiro, a caça a esta espécie só é permitida de espera e de cetraria e apenas nos locais e nas condições estabelecidos por edital da Direcção-Geral das Florestas.
+3 - Em terrenos cinegéticos não ordenados, nos meses de Agosto, Setembro e Janeiro, a caça a estas espécies só é permitida de espera e de cetraria e apenas nos locais e nas condições estabelecidas por edital da Direcção-Geral das Florestas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 94.º — Caça à tarambola-dourada
 
@@ -1503,7 +1593,9 @@ b) A caça de batida e a corricão só podem ser permitidas nos meses de Janeiro
 
 2 - O exercício da caça a esta espécie pode ser permitido nos meses de Outubro a Fevereiro, inclusive, sem prejuízo do disposto no número seguinte.
 
-3 - Em terrenos cinegéticos não ordenados, nos meses de Janeiro e Fevereiro, a caça a esta espécies só é permitida nos locais e nas condições estabelecidos por edital da Direcção-Geral das Florestas.
+3 - Em terrenos cinegéticos não ordenados, nos meses de Janeiro e Fevereiro, a caça a esta espécie só é permitida nos locais e nas condições estabelecidas por edital da Direcção-Geral das Florestas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 97.º — Caça à rola
 
@@ -1513,7 +1605,9 @@ b) A caça de batida e a corricão só podem ser permitidas nos meses de Janeiro
 
 3 - Em terrenos cinegéticos não ordenados, só é permitida a caça à rola nos locais e nas condições estabelecidos por edital da Direcção-Geral das Florestas.
 
-4 - É proibido o exercício da caça a esta espécie a menos de 100 m de linhas e de pontos de água acessíveis à fauna e de locais artificiais de alimentação.
+4 - É proibido o exercício da caça a esta espécie a menos de 100 m de linhas e de pontos de água acessíveis à fauna e de locais artificiais de alimentação, exceptuando-se nos locais e nas condições a definir por edital das direcções regionais de agricultura respectivas e edital conjunto com o Instituto da Conservação da Natureza, sempre que abranjam territorialmente áreas classificadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 98.º — Caça à codorniz
 
@@ -1533,7 +1627,9 @@ b) A caça de batida e a corricão só podem ser permitidas nos meses de Janeiro
 
 4 - Em terrenos cinegéticos não ordenados, a caça a estas espécies nos meses de Agosto, Setembro, Janeiro e Fevereiro, só é permitida de espera e de cetraria e apenas nos locais e nas condições estabelecidos por edital da Direcção-Geral das Florestas.
 
-5 - Nos meses de Agosto e Setembro é proibido o exercício da caça a estas espécies a menos de 100 m de linhas e de pontos de água acessíveis à fauna e de locais artificiais de alimentação.
+5 - Nos meses de Agosto e Setembro é proibido o exercício da caça a estas espécies a menos de 100 m de linhas e de pontos de água acessíveis à fauna e de locais artificiais de alimentação, exceptuando-se nos locais e nas condições a definir por edital das direcções regionais de agricultura respectivas e edital conjunto com o Instituto da Conservação da Natureza, sempre que abranjam territorialmente áreas classificadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 100.º — Caça aos tordos, ao melro e ao estorninho-malhado
 
@@ -1543,6 +1639,10 @@ b) A caça de batida e a corricão só podem ser permitidas nos meses de Janeiro
 
 3 - Em terrenos cinegéticos não ordenados, nos meses de Janeiro e Fevereiro, a caça a estas espécies só é permitida à espera e de cetraria e apenas nos locais e nas condições estabelecidos por edital da Direcção-Geral das Florestas.
 
+4 - O edital das direcção regionais de agricultura a que se refere o n.º 2 do artigo 84.º é em conjunto com o Instituto da Conservação da Natureza, sempre que abranjam territorialmente áreas classificadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
+
 ###### Artigo 101.º — Caça ao javali
 
 1 - A caça ao javali pode ser exercida à espera, de aproximação, de batida, de montaria e com lança.
@@ -1551,9 +1651,11 @@ b) A caça de batida e a corricão só podem ser permitidas nos meses de Janeiro
 
 a) À espera, em qualquer dia da semana, mediante credencial emitida pela respectiva direcção regional de agricultura, após parecer favorável do ICN nas áreas classificadas, sempre que se justifique para prevenir e minimizar prejuízos;
 
-b) De batida e de montaria, nos locais e nas condições estabelecidos por edital da respectiva direcção regional de agricultura.
+b) De batida e de montaria, nos meses de Outubro a Fevereiro, nos locais e nas condições estabelecidas por edital da respectiva direcção regional de agricultura.
 
 3 - Em terrenos cinegéticos ordenados, com excepção da caça de batida e de montaria que só pode ser permitida nos meses de Outubro a Fevereiro, inclusive, a caça ao javali pode ser permitida durante toda a época venatória.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 102.º — Caça ao gamo, ao veado, ao corço e ao muflão
 
@@ -1675,7 +1777,11 @@ A marcação de exemplares de espécies cinegéticas prevista no presente diplom
 
 3 - A aprovação dos planos anuais de exploração referidos nos artigos 19.º e 39.º é precedida de parecer vinculativo do Instituto da Conservação da Natureza, o qual deve ser emitido no prazo de 20 dias, findo o qual se presume ser positivo.
 
-4 - Os planos referidos nos n.os 3 e 4 do artigo 7.º são elaborados pela Direcção-Geral das Florestas em colaboração com o Instituto da Conservação da Natureza.
+4 - O prazo referido no número anterior interrompe sempre que o ICN solicite à DRA informações/documentos em falta ou adicionais.
+
+5 - Os planos referidos nos n.os 3 e 4 do artigo 7.º são elaborados pela Direcção-Geral das Florestas, em colaboração com o Instituto da Conservação da Natureza.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 114.º — Gestão e ordenamento dos recursos cinegéticos
 
@@ -1685,7 +1791,9 @@ A marcação de exemplares de espécies cinegéticas prevista no presente diplom
 
 3 - A autorização prevista na alínea f) do n.º 1 do artigo 38.º carece de parecer favorável do Instituto da Conservação da Natureza.
 
-4 - As direcções regionais de agricultura devem comunicar ao Instituto da Conservação da Natureza as informações que lhe forem prestadas nos termos do disposto nas alíneas c) e h) do artigo 19.º, na alínea g) do n.º 1 do artigo 38.º e no n.º 1 dos artigos 39.º e 40.º
+4 - As direcções regionais de agricultura devem comunicar ao Instituto da Conservação da Natureza as informações que lhe forem prestadas nos termos do disposto nas alíneas f) e h) do artigo 19.º, na alínea g) do n.º 1 do artigo 38.º e no n.º 1 do artigo 40.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 115.º — Terrenos não cinegéticos
 
@@ -1695,9 +1803,11 @@ a) Reservas integrais constituídas em áreas protegidas;
 
 b) Os locais definidos em portaria do Ministro do Ambiente e do Ordenamento do Território, ouvido o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ponderados os interesses específicos de conservação da natureza.
 
-2 - Os refúgios de caça são criados por portaria conjunta dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território e os editais a que se refere o n.º 4 do artigo 50.º carecem de parecer favorável do Instituto da Conservação da Natureza.
+2 - As áreas de refúgio de caça são criadas por portaria conjunta dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território e os editais a que se refere o n.º 4 do artigo 50.º carecem de parecer favorável do Instituto da Conservação da Natureza.
 
 3 - A instalação de campos de treino de caça carece de parecer favorável do Instituto da Conservação da Natureza.
+
+> Alterado pelo/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 116.º — Períodos, processos e condicionantes venatórios
 
@@ -1725,7 +1835,9 @@ As autorizações previstas no artigo 103.º carecem de parecer favorável do In
 
 ###### Artigo 119.º — Emissão de parecer
 
-O prazo para emissão dos pareceres a que se referem os artigos anteriores é de 20 dias após a recepção dos mesmos, findo o qual se presume serem favoráveis, à excepção do parecer previsto no n.º 1 do artigo 118.º, cujo prazo é de cinco dias.
+O prazo para emissão dos pareceres a que se referem os artigos anteriores é de 20 dias após a recepção dos mesmos, findo o qual se presume serem favoráveis, à excepção do parecer previsto no n.º 1 do artigo 118.º cujo prazo é de 10 dias.
+
+> Alterado pelo/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 120.º — Receitas
 
@@ -1863,7 +1975,7 @@ ff) A infracção ao disposto nos n.os 1 e 2 do artigo 104.º;
 
 gg) A não marcação dos exemplares mortos no exercício da caça quando a mesma seja exigida nos termos do n.º 4 do artigo 104.º;
 
-hh) Deter ou transportar quantitativos de exemplares mortos de espécies cinegéticas superiores aos definidos nos termos dos n.os 5 e 6 do artigo 104.º;
+hh) Deter ou transportar quantitativos de exemplares mortos de espécies cinegéticas superiores aos definidos nos termos do n.º 1 do artigo 105.º, e bem assim a detenção, no exercício da caça, de pombos, tordos e estorninhos-malhados, depois de finda a jornada de caça a estas espécies;
 
 ii) A infracção ao disposto no n.º 6 do artigo 104.º, quando os exemplares não estejam devidamente marcados;
 
@@ -1892,6 +2004,8 @@ d) De 100000$00 a 750000$00, no caso das alíneas b), e), y), aa), bb3), dd) e m
 3 - No caso de se tratar de pessoas colectivas, o montante máximo das coimas definidas nas alíneas a), b), c) e d) do número anterior é de 5000000$00.
 
 4 - A tentativa e a negligência são puníveis.
+
+> Alterado pelo/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 129.º — Sanções acessórias
 
@@ -2233,13 +2347,15 @@ c) Procurar que o fomento cinegético e o exercício da caça, bem como a conser
 
 d) Apoiar a Administração na fiscalização das normas legais sobre a caça e na definição de medidas tendentes a evitar danos causados pela caça à agricultura.
 
-e) Dar parecer, no prazo de um mês, sobre a concessão e renovação de ZCA e ZCT, bem como sobre a anexação e desanexação de prédios rústicos a zonas de caça e, ainda, sobre a transferência de gestão de terrenos cinegéticos não ordenados ou de ZCN findo o qual se presume que o parecer é positivo;
+e) Dar parecer, no prazo de um mês, sobre a concessão e renovação de ZCA e ZCT, bem como sobre a anexação e desanexação de prédios rústicos a zonas de caça e, ainda, sobre a transferência de gestão de terrenos cinegéticos não ordenados ou de ZCN e suas renovações, findo o qual se presume que o parecer é positivo;
 
 f) Dar parecer, no prazo de 15 dias, sobre propostas de planos anuais de exploração de ZCM, findo o qual se presume que o parecer é positivo;
 
 g) Dar parecer sobre as prioridades e limitações dos diversos tipos de zona de caça;
 
 h) Facilitar e estimular a cooperação entre os organismos cujas acções interfiram com o ordenamento dos recursos cinegéticos.
+
+> Alterado pelo/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ### CAPÍTULO XVI — Disposições finais e transitórias
 
@@ -2313,7 +2429,9 @@ O recrutamento dos guardas florestais auxiliares obedece aos requisitos fixados 
 
 a) O limite de idade máxima;
 
-b) As habilitações literárias que devem corresponder no mínimo à escolaridade obrigatória.
+b) As habilitações literárias que devem corresponder no mínimo à escolaridade obrigatória, se não forem detentores de três anos de exercício de funções semelhantes, reconhecidas pela Direcção-Geral das Florestas.
+
+> Alterado pelo/a [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), publicado em 2001-12-26.
 
 ###### Artigo 167.º — Regiões Autónomas
 

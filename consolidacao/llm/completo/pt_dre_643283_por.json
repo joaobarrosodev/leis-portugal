@@ -148,15 +148,14 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "DL 298/2009, art. 33.º, n.º 1, al. h): revoga o DL 504/99 excepto os arts. 12.º, 13.º e 14.º; a revogação abrange também os anexos I e II (mapas), que no texto atual só existem como títulos de divisão sem conteúdo textual (quadros em imagem), pelo que não foi representada nos títulos.",
+  "nao_aplicavel": "A al. h) do n.º 1 do art. 33.º do DL 298/2009 revoga também os anexos I e II (mapas), que não vêm no texto atual como artigos: não representado.",
   "instrucoes": [
-    "DL 174/2000 art. 1.º: nova redação dos arts. 12.º (integral), 13.º (n.os 4 e 5) e 18.º (integral) — aplicada (18.º depois revogado)",
-    "DL 15/2002 art. 3.º: nova redação da al. c) e aditamento da al. d) do n.º 1 do art. 12.º — aplicada",
-    "Acórdão TC 562/2003: inconstitucionalidade da al. c), n.º 1), do art. 266.º do EMGNR (outro diploma) — sem efeito no texto do original",
-    "DL 119/2004: altera o art. 10.º do DL 265/93 e o EMGNR (outros diplomas) — ignorado",
-    "Lei 43/2005: regime geral de congelamento de progressões, sem alteração textual — ignorada",
-    "DL 181/2005 art. 1.º: nova redação do n.º 6 do art. 12.º — aplicada",
-    "DL 298/2009 art. 33.º, n.º 1, al. h): revoga o DL 504/99 excepto arts. 12.º, 13.º e 14.º — aplicada aos arts. 1.º-11.º e 15.º-25.º (Revogado.)"
+    "DL 174/2000 art. 1.º: nova redação dos arts. 12.º, 13.º (n.os 4 e 5) e 18.º, aplicada (o 18.º fica depois revogado)",
+    "DL 15/2002 art. 3.º: nova redação das als. c) e d) do n.º 1 do art. 12.º, aplicada; o reparo do verificador (al. c) do DL 174/2000 e sem al. d)) não procede, a instrução existe e o DL 181/2005 confirma-a; os arts. 1.º e 2.º alteram outros diplomas: ignorados",
+    "Acórdão 562/2003 e DL 119/2004: incidem sobre o Estatuto dos Militares da GNR (DL 265/93): ignorados",
+    "Lei 43/2005: sem instrução dirigida ao original",
+    "DL 181/2005 art. 1.º: nova redação do n.º 6 do art. 12.º, aplicada",
+    "DL 298/2009 art. 33.º, n.º 1, al. h): revoga o DL 504/99 exceto os arts. 12.º, 13.º e 14.º: arts. 1.º-11.º e 15.º-25.º revogados"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

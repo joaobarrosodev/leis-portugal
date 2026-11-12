@@ -365,6 +365,12 @@ d) Realização de missões técnicas que se enquadrem nos objectivos do Program
 
 2 - O montante e as condições do apoio financeiro são definidos, caso a caso, por despacho conjunto dos Ministros do Equipamento, do Planeamento e da Administração do Território e da Economia, sob parecer da comissão de avaliação.
 
+SUBCAPÍTULO IV
+
+Projectos especiais
+
+> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
+
 > Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.
 
 ###### Artigo 25.º — Âmbito

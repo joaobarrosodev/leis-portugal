@@ -39,10 +39,37 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-01-04'
+version_history:
+  file: decreto-lei-158-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-09-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-01-04'
+    amending: pt:dre:383444:por
+    amending_title: Decreto-Lei n.º 107/97; Decreto-Lei n.º 207/97; Decreto-Lei n.º 28/98; Decreto-Lei n.º 21/99; Decreto-Lei
+      n.º 289/2001; Decreto-Lei n.º 315/2001; Decreto-Lei n.º 320-A/2002
+    changes:
+    - Altera Artigo 24.º
+    - Altera Artigo 33.º
+    - Altera Artigo 33.º
+    - Altera Artigo 6.º
+    - Adita Artigo 6.º-A
+    - Revoga Artigo 4.º
+    - Revoga Artigo 6.º-A
+    - Revoga Artigo 27.º
+    - Altera Artigo 8.º
+    - Altera Artigo 26.º
+    - Altera Artigo 10.º
+    - Altera Artigo 19.º
+    - Altera Artigo 24.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre/pt/html
@@ -68,7 +95,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:44:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 107/97; Decreto-Lei
+    n.º 207/97; Decreto-Lei n.º 28/98; Decreto-Lei n.º 21/99; Decreto-Lei n.º 289/2001; Decreto-Lei n.º 315/2001; Decreto-Lei
+    n.º 320-A/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-158-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -439,7 +468,7 @@ a) Secretaria-Geral;
 
 b) Inspecção-Geral de Finanças;
 
-c) Instituto de Informática;
+c) (Revogada.)
 
 d) Direcção-Geral de Estudos e Previsão;
 
@@ -459,6 +488,8 @@ l) Direcção-Geral do Tesouro;
 
 m) Direcção-Geral do Património.
 
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1999-180473), publicado em 1999-01-28.
+
 ###### Artigo 5.º — Fundos autónomos não personalizados
 
 Constituem fundos autónomos não personalizados do Ministério das Finanças:
@@ -473,11 +504,19 @@ b) O Fundo de Estabilização Aduaneiro (FEA).
 
 a) Conselho Superior de Finanças (CSF);
 
-b) Conselho de Directores-Gerais (CDGMF);
-
-c) Defensor do Contribuinte (DC).
+b) Conselho de Directores-Gerais (CDG).
 
 2 - A composição, competências e modo de funcionamento dos órgãos referidos no número anterior são os definidos no presente diploma.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 21/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1999-180473), publicado em 1999-01-28.
+
+###### Artigo 6.º-A — Defensor do Contribuinte
+
+(Revogado.)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1999-180473), publicado em 1999-01-28.
+
+> Revogado pelo/a [Decreto-Lei n.º 320-A/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-a-2002-306915), publicado em 2002-12-30.
 
 ###### Artigo 7.º — Auditor jurídico
 
@@ -487,7 +526,7 @@ Junto do Ministério das Finanças existe um magistrado do Ministério Público 
 
 ###### Artigo 8.º — Entidades sob tutela exclusiva
 
-As atribuições cometidas ao Ministério das Finanças são prosseguidas pelas seguintes entidades, sob tutela do respectivo Ministro:
+1 - As atribuições cometidas ao Ministério das Finanças são prosseguidas pelas seguintes entidades:
 
 a) Caixa Geral de Aposentações (CGA);
 
@@ -498,6 +537,12 @@ c) Instituto de Seguros de Portugal (ISP);
 d) Comissão do Mercado de Valores Mobiliários (CMVM);
 
 e) Instituto de Gestão do Crédito Público (IGCP).
+
+f) Instituto de Informática.
+
+2 - As entidades referidas no número anterior estão sujeitas a tutela de legalidade de todos os seus actos e a tutela de mérito quanto aos actos que digam respeito à sua própria organização e funcionamento interno, em termos inspectivos, revogatórios e substitutivos, com fundamento na ilegalidade ou no demérito dos seus actos, de acordo com o fim da tutela.
+
+> Alterado pelo/a [Decreto-Lei n.º 21/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1999-180473), publicado em 1999-01-28.
 
 ###### Artigo 9.º — Entidades sob tutela conjunta
 
@@ -523,13 +568,17 @@ i) Instituto Português de Santo António, em Roma (IPSA).
 
 ###### Artigo 10.º — Entidades sob superintendência
 
-Sem prejuízo dos poderes de tutela, estão sob a superintendência do Ministro das Finanças as seguintes entidades:
+Sem prejuízo dos poderes de tutela, estão sob a superintendência do Ministro das Finanças, a qual se exerce através do poder de orientação da respectiva actividade, através da adopção de directivas e de recomendações, as seguintes entidades:
 
 a) Serviços Sociais do Ministério das Finanças (SOFE);
 
-b) Instituto de Seguros de Portugal (ISP);
+b) Instituto de Gestão do Crédito Público (IGCP).
 
-c) Instituto de Gestão do Crédito Público (IGCP).
+c) Caixa Geral de Aposentações (CGA).
+
+d) Instituto de Informática.
+
+> Alterado pelo/a [Decreto-Lei n.º 289/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-2001-603511), publicado em 2001-11-13.
 
 #### SECÇÃO III — Atribuições
 
@@ -803,9 +852,13 @@ f) Contribuir para que seja assegurada a coerência interna das várias polític
 
 g) Promover a cooperação com as administrações aduaneiras dos demais Estados membros da União Europeia, com vista à troca regular de informações sobre questões da sua competência, e participar nas negociações sobre matérias comunitárias;
 
-h) Exercer outras funções que lhe sejam atribuídas por lei ou determinadas superiormente.
+h) Assegurar o licenciamento do comércio externo de produtos agrícolas, de produtos industriais, de bens e tecnologias de dupla utilização, exceptuando os bens e tecnologias militares sujeitos a licenciamento pelo Ministério da Defesa Nacional, de estupefacientes e substâncias psicotrópicas e gerir os regimes restritivos do comércio externo desses produtos;
+
+i) Exercer outras funções que lhe sejam atribuídas por lei ou determinadas superiormente.
 
 3 - No desempenho das suas atribuições a DGAIEC actuará em estreita colaboração com os restantes serviços do Ministério das Finanças que intervenham na administração fiscal, em especial com a Direcção-Geral dos Impostos e com a Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros.
+
+> Alterado pelo/a [Decreto-Lei n.º 315/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2001-576276), publicado em 2001-12-10.
 
 ###### Artigo 20.º — Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
 
@@ -881,9 +934,21 @@ f) Exercer outras funções que lhe sejam atribuídas por lei ou determinadas su
 
 O Fundo de Regularização da Dívida Pública (FRDP) é um fundo autónomo não personalizado do Ministério das Finanças, cuja função genérica consiste em promover a amortização da dívida pública e em regular a procura e a oferta dos títulos da dívida pública no mercado secundário, de acordo com as orientações de política monetária e de gestão da dívida pública definidas pelo Ministro das Finanças.
 
-###### Artigo 24.º — Fundo de Estabilização Aduaneiro
+###### Artigo 24.º — Fundos de Estabilização Aduaneiro e Tributário
 
-O Fundo de Estabilização Aduaneiro (FEA) é um fundo autónomo não personalizado do Ministério das Finanças, gerido pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, cuja função genérica consiste em suportar os encargos com o pagamento dos suplementos e abonos previstos no artigo 4.º do [Decreto-Lei n.º 274/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1990-556660), de 7 de Setembro.
+1 - O Fundo de Estabilização Aduaneiro (FEA) é um fundo autónomo não personalizado do Ministério das Finanças, gerido pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, cuja função genérica consiste em suportar os encargos com o pagamento dos suplementos e abonos previstos no artigo 4.º do Decreto-Lei n.º 274/90, de 7 de Setembro.
+
+2 - É criado o Fundo de Estabilização Tributário (FET), que tem a mesma natureza do FEA, gerido em conjunto pela Direcção-Geral dos Impostos e pela Direcção-Geral de Informática e Apoio aos Serviços Tributários.
+
+3 - Será afecto ao FET um montante até 5% das cobranças coercivas derivadas de processos instaurados nos serviços da DGCI, bem como das receitas de natureza fiscal arrecadadas, a partir de 1 de Janeiro de 1997, no âmbito da aplicação do Decreto-Lei n.º 124/96, de 10 de Agosto, montante que será definido anualmente, mediante portaria do Ministério das Finanças.
+
+4 - O património do FET e o rendimento que ele potencie serão afectos a obras sociais e ao pagamento dos suplementos atribuídos em função de particularidades específicas da prestação de trabalho dos funcionários e agentes da DGCI e da DGITA.
+
+5 - Os órgãos do FET e a forma de participação dos trabalhadores na sua gestão, bem como o âmbito e modalidades de atribuição dos suplementos a que se refere o número anterior, serão definidos por decreto-lei, cabendo ao Ministério das Finanças estabelecer, mediante portaria, as regras de gestão e de funcionamento do Fundo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1997-383444), publicado em 1997-05-08.
+
+> Alterado pelo/a [Decreto-Lei n.º 107/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1997-383444), publicado em 1997-05-08.
 
 ##### SUBSECÇÃO III — Órgãos de apoio
 
@@ -937,7 +1002,7 @@ e) Pronunciar-se sobre a reestruturação do Ministério e coordenar a respectiv
 
 f) Pronunciar-se sobre outras questões que o Ministro das Finanças decida colocar.
 
-3 - Fazem parte do Conselho de Directores-Gerais todos os directores-gerais e responsáveis de categoria equivalente do Ministério das Finanças.
+3 - Fazem parte do Conselho de Directores-Gerais todos os directores-gerais e os responsáveis de categoria equivalente do Ministério das Finanças, bem como os presidentes das entidades referidas no artigo 10.º
 
 4 - O Conselho de Directores-Gerais é presidido pelo Ministro das Finanças ou pelo secretário de Estado em quem este delegar e é secretariado pelo secretário-geral ou, na sua falta, pelo director-geral mais antigo.
 
@@ -953,31 +1018,13 @@ f) Pronunciar-se sobre outras questões que o Ministro das Finanças decida colo
 
 10 - O apoio administrativo ao Conselho será assegurado pela Secretaria-Geral.
 
+> Alterado pelo/a [Decreto-Lei n.º 21/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1999-180473), publicado em 1999-01-28.
+
 ###### Artigo 27.º — Defensor do Contribuinte
 
-1 - Para assegurar, sem prejuízo das funções legalmente atribuídas ao Provedor de Justiça e da prevalência das respectivas decisões, o acompanhamento por uma entidade independente do respeito dos direitos, liberdades e garantias dos contribuintes e de outros cidadãos que invoquem direitos contra o Estado, representado pelo Ministério das Finanças, a melhor realização de valores de legalidade, boa gestão e justiça social e o diálogo e participação dos cidadãos e dos grupos de interesses sociais com a actividade da administração fiscal, tendo a faculdade de fazer propostas e recomendações ao Ministro e aos responsáveis do Ministério, é criado o cargo de Defensor do Contribuinte.
+(Revogado.)
 
-2 - O cargo de Defensor do Contribuinte será exercido, com estatuto de inteira independência de julgamento e acção, por um cidadão com comprovado mérito e competência, a designar por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças para um mandato de sete anos, não renovável.
-
-3 - O apoio administrativo ao Defensor do Contribuinte será assegurado pela Secretaria-Geral.
-
-4 - O Defensor do Contribuinte dispõe dos seguintes poderes:
-
-a) Analisar as petições que lhe sejam dirigidas sobre assuntos da sua competência e sobre elas formular recomendações;
-
-b) Obter de todos os responsáveis dos serviços informações sobre o andamento de processos;
-
-c) Divulgar junto do público a sua existência, atribuições e poderes;
-
-d) Dirigir-se aos responsáveis políticos e administrativos do Ministério, formulando sugestões, propostas e recomendações;
-
-e) Dar publicidade às propostas, recomendações e sugestões por si formuladas, com respeito pela confidencialidade e pelo interesse público, nos termos da lei.
-
-5 - O Defensor do Contribuinte elaborará um relatório anual sobre a sua actividade, ao qual o Ministério das Finanças dará a mais ampla difusão interna e externa.
-
-6 - O estatuto remuneratório do Defensor do Contribuinte é equiparado ao de director-geral.
-
-7 - A forma de exercício dos poderes atribuídos pelo presente artigo ao Defensor do Contribuinte e o respectivo regime de segurança social, de direitos, deveres e condições de cessação de funções serão regulados por decreto-lei.
+> Revogado pelo/a [Decreto-Lei n.º 320-A/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-a-2002-306915), publicado em 2002-12-30.
 
 #### SECÇÃO IV — Tutela sobre as empresas públicas e exercício da função de accionista do Estado
 
@@ -1019,7 +1066,13 @@ Todas as referências feitas na lei à Junta do Crédito Público, bem como ao s
 
 3 - É igualmente transferido para o IGCP, com a entrada em vigor deste diploma, o processamento da dívida pública directa interna cometido à Direcção-Geral do Tesouro.
 
-4 - A Direcção-Geral da Junta do Crédito Público será extinta até 30 de Junho de 1997, integrando-se o pessoal dos seus serviços na DGT em termos a definir por portaria do Ministro das Finanças, e durante este período transitório exercerá as funções de director-geral, sem direito a remuneração, um dos membros do conselho directivo do IGCP a designar por despacho do Ministro das Finanças.
+4 - A Direcção-Geral da Junta do Crédito Público será extinta até 31 de Dezembro de 1997, integrando-se o pessoal dos seus serviços na DGCI.
+
+5 - O pessoal afecto ao serviço da Delegação do Porto da Direcção-Geral da Junta do Crédito Público integra os serviços periféricos da Direcção-Geral dos Impostos do Porto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1997-202778), publicado em 1997-08-13.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 28/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1998-229486), publicado em 1998-02-11.
 
 ###### Artigo 34.º — Instalação, transferência de serviços e património e dotação orçamental inicial
 

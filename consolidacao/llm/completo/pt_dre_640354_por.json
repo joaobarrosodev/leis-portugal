@@ -132,12 +132,12 @@
   "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 74/2008), art. 1.º: nova redação dos artigos 11.º, 12.º (n.os 2 e 3 revogados), 16.º, 21.º, 22.º (antigo n.º 4 passa a n.º 5), 23.º (antiga alínea e) passa a d)), 32.º, 34.º, 40.º, 41.º, 42.º, 45.º, 46.º, 47.º, 50.º, 51.º (anterior corpo passa a n.º 1), 52.º, 53.º, 55.º, 64.º e 68.º: aplicadas, mantendo o texto atual nas unidades com '...'.",
-    "Alterador 1, art. 3.º (republicação): sem alteração textual.",
-    "Alterador 2 (DL 99/2009): nova redação do n.º 2 do artigo 68.º: aplicada sobre a redação do alterador 1 (o artigo 68.º leva alterador 2, a última mudança).",
-    "Alterador 3 (DL 60/2013): altera o DL 86-A/2011, não o original: ignorado.",
-    "Alterador 4 (DL 119/2013): sem artigos dirigidos ao original.",
-    "Alteradores 5 e 6 (Despachos 2702-C/2015 e 5579/2015): extinção de autoridades de gestão e transição de pessoal ao abrigo do DL 137/2014; não alteram o texto do original."
+    "DL 74/2008 art. 1.º: nova redação parcial dos arts. 11.º, 12.º, 16.º, 21.º, 22.º, 23.º, 32.º, 34.º, 40.º, 41.º, 42.º, 45.º, 46.º, 47.º, 50.º, 51.º, 52.º, 53.º, 55.º, 64.º e 68.º; aplicadas, mantendo o texto atual onde vem '...'. 11.º ganha n.os 3-5; 12.º n.º 1 novo, n.os 2 e 3 revogados; 22.º n.º 3 novo, n.º 4 novo e antigo n.º 4 passa a n.º 5; 23.º n.º 1 a)-c) novas e d) = antiga e); 51.º corpo passa a n.º 1 e novo n.º 2; 42.º novos n.os 17 e 18; 50.º, 52.º e 55.º novos números finais.",
+    "DL 74/2008 art. 3.º: republicação; sem efeito textual.",
+    "DL 99/2009 art. 1.º: nova redação do n.º 2 do art. 68.º (comissões mantêm-se até 31 de Dezembro de 2009); aplicada. O reparo do verificador (n.º 2 deveria ficar inalterado) não se confirma: o DL 74/2008 deixa-o com '...', mas o DL 99/2009 altera-o expressamente.",
+    "DL 60/2013: altera o DL 86-A/2011, não o original; ignorado.",
+    "DL 119/2013: sem artigos que mencionem o original.",
+    "Despachos 2702-C/2015 e 5579/2015: extinção de autoridades de gestão ao abrigo do DL 137/2014; sem alteração textual do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

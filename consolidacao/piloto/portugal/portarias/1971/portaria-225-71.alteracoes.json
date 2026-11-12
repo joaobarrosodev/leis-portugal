@@ -140,6 +140,20 @@
     "alterador": "pt:dre:567425:por;pt:dre:377571:por;pt:dre:381075:por;pt:dre:472120:por"
   },
   {
+    "artigo": "32.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 32.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 437/79](https://diariodarepublica.pt/dr/detalhe/portaria/437-1979-377571), publicado em 1979-08-17.",
+    "depois": "###### Artigo 32.º\n\n(Revogado.)\n\nd) Pagamento ou gratuitidade dos serviços prestados\n\n> Revogado pelo/a [Portaria n.º 437/79](https://diariodarepublica.pt/dr/detalhe/portaria/437-1979-377571), publicado em 1979-08-17.\n\n> Alterado pelo/a [Portaria n.º 437/79](https://diariodarepublica.pt/dr/detalhe/portaria/437-1979-377571), publicado em 1979-08-17.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:644286:por",
+    "alterador": "pt:dre:567425:por;pt:dre:377571:por;pt:dre:381075:por;pt:dre:472120:por"
+  },
+  {
     "artigo": "36.º",
     "operacao": "substituir",
     "regra": "llm",

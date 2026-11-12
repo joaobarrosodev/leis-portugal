@@ -8,12 +8,14 @@
       "alterador": 1
     }
   ],
+  "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 202/99, art. 3.º, n.º 1: altera os artigos 33.º, 37.º, 41.º e 42.º do DL 408/93 na redacção dada pelo art. 1.º do DL 42/97 — é outro diploma; ignorada.",
-    "DL 202/99, art. 3.º, n.º 2: nova redacção do art. 9.º do DL 42/97 — n.os 1 a 6 '...' mantêm o texto atual, aditado o n.º 7; epígrafe copiada do alterador (numa só linha). Aplicada.",
-    "DL 202/99, art. 2.º: manda aplicar o art. 5.º do DL 42/97 aos tesoureiros de 3.ª classe — norma autónoma, não altera o texto; nada a fazer.",
-    "DL 237/2004, art. 7.º: revoga o art. 10.º do DL 187/90 na redacção dada pelo DL 42/97 — é outro diploma (o art. 2.º do original só contém essa redacção citada); ignorada."
+    "DL 202/99 art. 3.º n.º 1: altera os arts. 33.º, 37.º, 41.º e 42.º do DL 408/93 (outro diploma, ainda que na redação dada pelo art. 1.º do DL 42/97): ignorada, o art. 1.º do original fica como está — reparo do verificador não leva a alteração",
+    "DL 202/99 art. 3.º n.º 2: nova redação do art. 9.º (aditado n.º 7), aplicada",
+    "DL 202/99 art. 2.º: remissão para o art. 5.º, não altera o texto",
+    "DL 237/2004 art. 7.º: revoga o art. 10.º do DL 187/90 na redação dada pelo DL 42/97 — instrução dirigida a outro diploma, ignorada; restantes artigos alteram outros diplomas"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

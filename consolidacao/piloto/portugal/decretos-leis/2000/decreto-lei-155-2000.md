@@ -237,7 +237,7 @@ h) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 A convocação da assembleia geral faz-se mediante carta registada ou publicação com a antecedência mínima de 30 dias.
 
-#### SECÇÃO II — Direcção
+#### SECÇÃO II — Conselho de administração
 
 ###### Artigo 10.º — Composição
 
@@ -281,7 +281,7 @@ c) Pela assinatura de um procurador ou procuradores, dentro dos limites do respe
 
 > Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
 
-#### SECÇÃO III — Conselho geral
+#### SECÇÃO III — Fiscal único
 
 ###### Artigo 13.º — Competência do presidente do conselho de administração
 
@@ -326,8 +326,6 @@ c) Solicitar ao conselho de administração a apreciação de qualquer assunto q
 d) Pronunciar-se sobre qualquer matéria que lhe seja submetida pelo conselho de administração.
 
 > Alterado pelo/a [Decreto-Lei n.º 64/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887), publicado em 2003-04-03.
-
-#### SECÇÃO III — Fiscalização da sociedade
 
 ###### Artigo 17.º — Dissolução e liquidação
 

@@ -75,10 +75,19 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Art. 2.º do Decreto 24/73 revoga apenas o § 3.º do art. 4.º e o § único do art. 47.º, mas estes artigos já constam por inteiro como (Revogado.) no texto atual, sem o resto do seu texto: não é possível aplicar a revogação parcial.",
+  "titulos": [],
+  "nao_aplicavel": "Art. 2.º do Decreto 24/73 revoga só o § 3.º do artigo 4.º e o § único do artigo 47.º (o programa revogou os artigos inteiros). O texto atual desses artigos no pedido é apenas '(Revogado.)' e a redação original do corpo e dos restantes parágrafos não consta do original nem do alterador, pelo que não é possível reconstituir com segurança os artigos 4.º e 47.º com só esses parágrafos revogados.",
   "instrucoes": [
-    "Art. 1.º: nova redação do art. 3.º, al. d) do art. 7.º, corpo do art. 8.º, art. 9.º, corpo do art. 14.º, § 4.º do art. 15.º, arts. 23.º a 26.º, al. a) do art. 27.º e corpo do art. 49.º: aplicado (mantidos os §§ e alíneas não visados)",
-    "Art. 2.º: revoga § 3.º do art. 4.º e § único do art. 47.º: artigos já revogados por inteiro no texto atual: sem mudança"
+    "Art. 1.º: nova redação do art. 3.º (corpo + §§ 1.º e 2.º) - aplicada",
+    "Alínea d) do art. 7.º - substituída",
+    "Corpo do art. 8.º - substituído, §§ mantidos",
+    "Art. 9.º - nova redação integral",
+    "Corpo do art. 14.º - substituído, §§ mantidos",
+    "§ 4.º do art. 15.º - substituído",
+    "Arts. 23.º, 24.º, 25.º, 26.º - nova redação integral",
+    "Alínea a) do art. 27.º - substituída",
+    "Corpo do art. 49.º (com n.os 1.º a 3.º) - substituído, §§ mantidos",
+    "Art. 2.º: revoga § 3.º do art. 4.º e § único do art. 47.º - não aplicável: texto dos artigos não está no pedido (ver nao_aplicavel)"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

@@ -10,7 +10,7 @@
     {
       "chave": "11.º",
       "epigrafe": "",
-      "texto": "O Instituto Politécnico de Lisboa é composto pelos seguintes estabelecimentos de ensino:\n\na) Escola Superior de Educação;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Escola Superior de Comunicação Social.",
+      "texto": "O Instituto Politécnico de Lisboa é composto pelos seguintes estabelecimentos de ensino:\n\na) Escola Superior de Educação;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) Escola Superior de Comunicação Social.\n\n2 - (Revogado.)",
       "alterador": 6
     },
     {
@@ -40,13 +40,13 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 3 (DL 373/88), alterador 4 (DL 241/92, art. 1.º extingue o Instituto Politécnico de Faro) e alterador 5 (DL 304/94, cria institutos e escolas) não dão nova redação a nenhum artigo do original: alterações não textuais, o texto dos artigos 5.º e 10.º fica como está.",
+  "nao_aplicavel": "DL 241/92 (art. 1.º) extingue o Instituto Politécnico de Faro e DL 304/94 (art. 7.º) extingue a Escola Superior de Tecnologia de Tomar e cria novos institutos e escolas, sem alterarem nem revogarem expressamente o texto dos artigos 5.º, 10.º ou 17.º; o DL 373/88 articula a Universidade do Algarve e o Instituto Politécnico de Faro sem alteração textual. Esses textos ficam como estão.",
   "instrucoes": [
-    "Alt. 1 art. 1.º: nova redação do n.º 2 do art. 9.º e do art. 20.º — aplicado.",
-    "Alt. 1 art. 2.º: revoga alíneas b) e c) do n.º 1 do art. 9.º; b) e c) do n.º 1 e n.º 2 do art. 11.º; b) e c) do n.º 1 e n.º 2 do art. 12.º; a) do n.º 1 e n.º 2 do art. 17.º; b) e c) do art. 23.º — aplicado.",
-    "Alt. 2: nova redação do art. 11.º (corpo único sem números, a) a d) '...' mantêm o texto em vigor, b) e c) já revogadas; nova e)); o n.º 2, já revogado, não consta da nova redação — aplicado.",
-    "Alt. 6 art. 13.º n.º 1: revoga a alínea d) do n.º 1 dos arts. 11.º e 12.º — aplicado (o n.º 2 do art. 13.º altera o DL 99/2001, ignorado).",
-    "Alts. 3, 4 e 5: sem instruções textuais para o original."
+    "Lei 29/80 art. 1.º: nova redação do n.º 2 do art. 9.º e do art. 20.º — aplicado.",
+    "Lei 29/80 art. 2.º: revogadas as als. b) e c) do n.º 1 do art. 9.º, als. b) e c) do n.º 1 e n.º 2 dos arts. 11.º e 12.º, al. a) do n.º 1 e n.º 2 do art. 17.º e als. b) e c) do art. 23.º — aplicado.",
+    "DL 333/88: nova redação do art. 11.º (proémio \"é composto pelos\" e al. e) \"Escola Superior de Comunicação Social\") — aplicado; o reparo do verificador que dizia não haver base não procede; o n.º 2 fica \"2 - (Revogado.)\" como o verificador apontou.",
+    "DL 373/88, DL 241/92 e DL 304/94: sem alteração textual do original (nao_aplicavel).",
+    "DL 175/2004 art. 13.º n.º 1: revogadas a al. d) do n.º 1 dos arts. 11.º e 12.º — aplicado; restantes revogações dirigidas a outros diplomas ignoradas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

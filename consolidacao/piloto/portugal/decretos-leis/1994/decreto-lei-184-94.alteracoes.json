@@ -224,6 +224,20 @@
     "alterador": "pt:dre:162667:por"
   },
   {
+    "artigo": "24.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 24.º — Natureza do apoio financeiro\n\n1 - O apoio financeiro a conceder aos projectos abrangidos no presente subcapítulo assume a forma de subvenção financeira a fundo perdido, bonificação de juros ou bonificação das rendas de contratos de locação financeira.\n\n2 - O montante e as condições do apoio financeiro são definidos, caso a caso, por despacho conjunto dos Ministros do Equipamento, do Planeamento e da Administração do Território e da Economia, sob parecer da comissão de avaliação.\n\n> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.",
+    "depois": "###### Artigo 24.º — Natureza do apoio financeiro\n\n1 - O apoio financeiro a conceder aos projectos abrangidos no presente subcapítulo assume a forma de subvenção financeira a fundo perdido, bonificação de juros ou bonificação das rendas de contratos de locação financeira.\n\n2 - O montante e as condições do apoio financeiro são definidos, caso a caso, por despacho conjunto dos Ministros do Equipamento, do Planeamento e da Administração do Território e da Economia, sob parecer da comissão de avaliação.\n\nSUBCAPÍTULO IV\n\nProjectos especiais\n\n> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.\n\n> Alterado pelo/a [Decreto-Lei n.º 162/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667), publicado em 1997-06-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:291641:por",
+    "alterador": "pt:dre:162667:por;pt:dre:388004:por"
+  },
+  {
     "artigo": "29.º",
     "operacao": "substituir",
     "regra": "llm",
@@ -235,7 +249,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:291641:por",
-    "alterador": "pt:dre:388004:por"
+    "alterador": "pt:dre:162667:por;pt:dre:388004:por"
   },
   {
     "artigo": "30.º",
@@ -249,7 +263,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:291641:por",
-    "alterador": "pt:dre:388004:por"
+    "alterador": "pt:dre:162667:por;pt:dre:388004:por"
   },
   {
     "artigo": "37.º",
@@ -263,7 +277,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:291641:por",
-    "alterador": "pt:dre:388004:por"
+    "alterador": "pt:dre:162667:por;pt:dre:388004:por"
   },
   {
     "artigo": "42.º-A",
@@ -277,6 +291,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:291641:por",
-    "alterador": "pt:dre:388004:por"
+    "alterador": "pt:dre:162667:por;pt:dre:388004:por"
   }
 ]

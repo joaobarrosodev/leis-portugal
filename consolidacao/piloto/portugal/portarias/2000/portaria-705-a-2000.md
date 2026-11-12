@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:520391:por
     title: Portaria n.º 349/2007
     publication_date: '2007-03-30'
+  - id: pt:dre:187506:por
+    title: Portaria n.º 191/2003
+    publication_date: '2003-02-22'
 ---
 
 # Portaria n.º 705-A/2000
@@ -60,7 +63,7 @@ REGULAMENTO ORGÂNICO E DE FUNCIONAMENTO DA DIRECÇÃO-GERAL DAS ALFÂNDEGAS E D
 
 #### SECÇÃO II — Organização dos serviços centrais
 
-##### SUBSECÇÃO I — Dos departamentos
+##### SUBSECÇÃO I — Das áreas de gestão aduaneira, dos impostos indirectos e da inspecção e fiscalização aduaneira
 
 ###### Artigo 3.º — Área de gestão aduaneira
 

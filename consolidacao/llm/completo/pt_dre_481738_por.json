@@ -39,17 +39,15 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alt.2 n.º 1.º manda entender as referências ao POE como sendo ao PRIME, sem alteração do texto; não aplicado.",
+  "titulos": [],
+  "nao_aplicavel": "Portaria n.º 1008/2003, n.º 1.º: as referências ao POE devem ser entendidas como suporte ao PRIME; norma interpretativa sem substituição textual, não aplicada ao texto (POE mantém-se, p. ex. nos artigos 9.º, 12.º, 13.º, 18.º e 23.º).",
   "instrucoes": [
-    "Alt.1 art. 4.º: n.º 3 com nova redação (responsabilidade conjunta); aplicado.",
-    "Alt.1 art. 7.º: nova alínea h) e aditada alínea m); aplicado (proémio passa a n.º 1, como indicado).",
-    "Alt.1 art. 14.º: nova alínea c) do n.º 3, novo n.º 5 e aditados n.os 6 e 7; aplicado.",
-    "Alt.1 art. 19.º: nova alínea h) do n.º 1 e aditado n.º 2; aplicado (corpo passa a n.º 1).",
-    "Alt.2 art. 2.º: redação igual à atual; nada a mudar.",
-    "Alt.2 art. 7.º: aditado n.º 2; aplicado.",
-    "Alt.2 art. 12.º: aditada alínea e) ao n.º 1; aplicado.",
-    "Alt.2 art. 14.º: aditado n.º 8; aplicado.",
-    "Alt.2 art. 15.º: aditado n.º 3; aplicado."
+    "Portaria 437/2003, art. 4.º n.º 3: 'solidária' passa a 'conjunta'. Aplicado.",
+    "Portaria 437/2003, art. 7.º: nova alínea h) e nova alínea m). Aplicado.",
+    "Portaria 437/2003, art. 14.º: nova n.º 3 c), novo n.º 5, aditados n.os 6 e 7. Aplicado.",
+    "Portaria 437/2003, art. 19.º: corpo passa a n.º 1, nova alínea h) (copiada com o ponto final do alterador), aditado n.º 2; alíneas i), j) e l) mantidas por não serem revogadas.",
+    "Portaria 1008/2003, n.º 1.º: POE entendido como PRIME — interpretativa, não textual (ver nao_aplicavel).",
+    "Portaria 1008/2003, n.º 2.º: art. 2.º com redação igual à atual (sem mudança); art. 7.º passa a n.º 1 (a) a l), mantida a m) aditada pela Portaria 437/2003) e n.º 2 aditado; art. 12.º n.º 1 alínea e) aditada; art. 14.º n.º 8 aditado; art. 15.º n.º 3 aditado. Aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

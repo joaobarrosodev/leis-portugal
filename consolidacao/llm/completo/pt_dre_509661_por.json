@@ -38,15 +38,24 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Art. 2.º do DL 290/93 altera os títulos dos capítulos II e III do original; o texto atual vem só por artigos, sem títulos de capítulo, pelo que não há onde aplicar.",
+  "removidos": [],
+  "titulos": [
+    {
+      "atual": "### CAPÍTULO II — Proibições e condições de utilização de certas substâncias de efeito hormonal e tireostático",
+      "novo": "### CAPÍTULO II — Proibições e condições de utilização de certas substâncias de efeito hormonal, tireostático e anabolizante.",
+      "alterador": 1
+    },
+    {
+      "atual": "### CAPÍTULO III — Trocas comerciais de animais de exploração e de produtos deles provenientes",
+      "novo": "### CAPÍTULO III — Detenção e trocas comerciais de animais de exploração e de produtos deles provenientes",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "DL 290/93 art. 1.º, artigo 2.º: mantidas as alíneas a) a l) ('...'), aditada a alínea m).",
-    "DL 290/93 art. 1.º, artigo 3.º: corpo mantido ('...'), novas alíneas a) e b).",
-    "DL 290/93 art. 1.º, artigo 5.º: nova frase do n.º 1 e alíneas a), b), c); d) mantida; aditadas alínea e) e n.º 3; n.º 2 mantido.",
-    "DL 290/93 art. 1.º, artigo 7.º: novas alíneas d) e f) do n.º 4; resto mantido.",
-    "DL 290/93 art. 1.º, artigo 9.º: nova redação integral.",
-    "DL 290/93 art. 2.º: títulos dos capítulos II e III - não aplicado (sem títulos de capítulo no texto atual).",
-    "DL 232/99 art. 45.º: revoga o artigo 18.º - corpo '(Revogado.)'. O anexo que segue pertence ao DL 232/99 e foi ignorado."
+    "DL 290/93, art. 1.º: nova redação dos arts. 2.º (aditada alínea m)), 3.º, 5.º (n.º 1, alíneas a), b), c), e) e n.º 3), 7.º (alíneas d) e f) do n.º 4) e 9.º — aplicado.",
+    "DL 290/93, art. 2.º: novos títulos dos Capítulos II e III — aplicado em titulos.",
+    "DL 232/99, art. 45.º: revogado o art. 18.º — aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

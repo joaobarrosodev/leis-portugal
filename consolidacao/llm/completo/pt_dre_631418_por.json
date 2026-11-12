@@ -16,16 +16,17 @@
     {
       "chave": "12.º",
       "epigrafe": "",
-      "texto": "Art. 12.º - 1. A Sacor satisfará anualmente a taxa de fiscalização de 3000000$00, nos termos da alínea f) da base XIV da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272).\n\n2. A taxa fixada no número anterior será paga em duas prestações semestrais, iguais, em Janeiro e Julho, por meio de guias passadas pela Direcção-Geral dos Combustíveis.\n\n3. As receitas cobradas por força deste artigo serão escrituradas no Orçamento Geral do Estado e servirão de contrapartida aos encargos emergentes do exercício da competência da Direcção-Geral dos Combustíveis em matéria de fiscalização, investigação e desenvolvimento da indústria petrolífera.",
+      "texto": "1. A Sacor satisfará anualmente a taxa de fiscalização de 3000000$00, nos termos da alínea f) da base XIV da [Lei n.º 1947](https://diariodarepublica.pt/dr/detalhe/lei/1947-1937-417272).\n\n2. A taxa fixada no número anterior será paga em duas prestações semestrais, iguais, em Janeiro e Julho, por meio de guias passadas pela Direcção-Geral dos Combustíveis.\n\n3. As receitas cobradas por força deste artigo serão escrituradas no Orçamento Geral do Estado e servirão de contrapartida aos encargos emergentes do exercício da competência da Direcção-Geral dos Combustíveis em matéria de fiscalização, investigação e desenvolvimento da indústria petrolífera.",
       "alterador": 1
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 524/72, art. 1.º: nova redação dos artigos 2.º (n.º 1: 6000000 t; n.º 2 copiado do alterador num só parágrafo) e 12.º (n.º 1: 3000000$00; n.os 2 e 3 iguais).",
-    "DL 524/72, segundo 'Art. 2.º': norma própria do alterador (prazo de adaptação do cracking) — não altera o original.",
-    "DL 665/73, artigo único: nova redação integral do artigo 10.º (n.os 1-3)."
+    "DL 524/72 art. 1.º: nova redação dos arts. 2.º (n.os 1 e 2; '...' sem unidade a manter) e 12.º; aplicadas, sem o prefixo 'Art. N.º - '.",
+    "DL 524/72 art. 2.º: norma autónoma do próprio DL 524/72, não altera o original; ignorada.",
+    "DL 665/73 artigo único: nova redação do art. 10.º; aplicada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

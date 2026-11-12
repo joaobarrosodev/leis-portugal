@@ -38,10 +38,30 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-05-21'
+version_history:
+  file: decreto-regulamentar-regional-26-2005-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-05-21'
+    amending: pt:dre:608763:por
+    amending_title: Decreto Regulamentar Regional n.º 6/2009/M
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/26/2005/07/07/m/dre/pt/html
@@ -67,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:47:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    6/2009/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/2005/decreto-regulamentar-regional-26-2005-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,33 +178,15 @@ Nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º
 
 ###### Artigo 1.º — Natureza
 
-A Direcção Regional de Florestas, designada no presente diploma abreviadamente por DRF, é o departamento a que se refere a alínea d) do n.º 1 do artigo 4.º do [Decreto Regulamentar Regional n.º 23/2005/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2005-693196), de 16 de Maio, e cujas atribuições, orgânica, funcionamento e pessoal constam dos artigos seguintes.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2009-608763), publicado em 2009-05-20.
 
 ###### Artigo 2.º — Atribuições
 
-1 - São atribuições da DRF:
+(Revogado.)
 
-a) Promover ao nível da Região a execução da política definida pelo Governo Regional para o sector florestal;
-
-b) Adoptar as medidas necessárias à conservação e ao desenvolvimento do património florestal;
-
-c) Promover as medidas e as acções necessárias à prevenção e detecção de incêndios florestais;
-
-d) Promover planos e programas sistemáticos de sensibilização das populações com vista à salvaguarda e manutenção do património florestal, corresponsabilizando-as nessa acção de conservação da natureza;
-
-e) Promover o ordenamento, a exploração e a conservação dos recursos cinegéticos, aquícolas de águas interiores, pastoris e de outros recursos associados à floresta;
-
-f) Compilar, organizar e difundir informação no âmbito das atribuições por si desenvolvidas, com vista a habilitar os órgãos e serviços do Governo Regional e outras entidades públicas e privadas;
-
-g) Elaborar os estudos e emitir os pareceres que lhe forem solicitados, no quadro das suas atribuições;
-
-h) Fiscalizar o cumprimento das normas legais e regulamentares em matérias de protecção do património florestal e recursos associados;
-
-i) Exercer as demais competências previstas na lei.
-
-2 - No exercício das suas atribuições, a DRF promoverá as acções necessárias com vista a coordenar a sua actuação com as demais entidades públicas com atribuições no âmbito da protecção e conservação da natureza e do ambiente.
-
-3 - No sentido de uma eficácia acrescida no cumprimento das suas atribuições, à DRF poderão, por despacho conjunto dos Secretários Regionais do Ambiente e Recursos Naturais e do Plano e Finanças, ser consignadas receitas provenientes da venda de produtos gerados pelo património florestal público e comunitário e da venda de publicações e outro material editado pela DRF, bem como o produto de taxas, licenças, coimas e prestação de serviços a outras entidades, e ainda dos ingressos no Jardim Botânico, dependências anexas e outros jardins e espaços sob a sua jurisdição.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2009-608763), publicado em 2009-05-20.
 
 ### CAPÍTULO II — Órgãos, serviços e suas competências
 
@@ -213,19 +216,9 @@ i) Serviço de Construções (SC).
 
 ###### Artigo 4.º — Competências
 
-1 - Ao director regional compete, genericamente, superintender a actuação de todos os órgãos e serviços da DRF, submetendo a despacho do Secretário Regional os assuntos que careçam de apreciação ou decisão superior.
+(Revogado.)
 
-2 - No âmbito do disposto no número anterior, compete, designadamente, ao director regional:
-
-a) Promover a execução da política e a prossecução dos objectivos definidos pelo Governo Regional para o sector florestal;
-
-b) Assegurar a gestão dos recursos financeiros, patrimoniais e humanos da DRF;
-
-c) Apresentar o plano de actividades e o orçamento anual da DRF, bem como o correspondente relatório de execução;
-
-d) Exercer as demais competências previstas na lei.
-
-3 - Nas suas faltas, ausências ou impedimentos, o director regional será substituído pelo director de serviços que, por proposta sua, seja designado pelo Secretário Regional.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2009-608763), publicado em 2009-05-20.
 
 #### SECÇÃO II — Direcção de Serviços de Informação e Planeamento Florestal
 
@@ -579,43 +572,29 @@ d) Assegurar a manutenção dos imóveis afectos à DRF.
 
 ###### Artigo 27.º — Quadro
 
-O pessoal do quadro da DRF é o constante do anexo do presente diploma, estando agrupado em:
+(Revogado.)
 
-a) Pessoal dirigente;
-
-b) Pessoal técnico superior;
-
-c) Pessoal técnico;
-
-d) Pessoal de informática;
-
-e) Pessoal técnico-profissional;
-
-f) Pessoal de chefia;
-
-g) Pessoal administrativo;
-
-h) Pessoal operário;
-
-i) Pessoal auxiliar.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2009-608763), publicado em 2009-05-20.
 
 ###### Artigo 28.º — Carreira de coordenador
 
-1 - A carreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.
+(Revogado.)
 
-2 - O recrutamento para as categorias de coordenador especialista e de coordenador far-se-á, respectivamente, entre coordenadores com três anos na respectiva categoria e de entre chefes de secção com comprovada experiência na área administrativa.
-
-3 - A carreira de coordenador é remunerada de acordo com o estabelecido no [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2009-608763), publicado em 2009-05-20.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
 ###### Artigo 29.º — Revogação
 
-É revogado o [Decreto Regulamentar Regional n.º 11/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2002-188489), de 24 de Julho.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2009-608763), publicado em 2009-05-20.
 
 ###### Artigo 30.º — Entrada em vigor
 
-O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/2009/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2009-608763), publicado em 2009-05-20.
 
 Aprovado em Conselho do Governo Regional em 19 de Maio de 2005.
 

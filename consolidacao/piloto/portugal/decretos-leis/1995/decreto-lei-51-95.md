@@ -283,8 +283,6 @@ Quando, por motivos imputáveis aos serviços, tenha sido liquidada contribuiç�
 
 3 - São devidos juros indemnizatórios nos termos do artigo 43.º da lei geral tributária e são liquidados e pagos nos termos do Código de Processo Tributário.
 
-4 - Os juros serão contados dia a dia desde a data do pagamento da contribuição até à data da emissão da respectiva nota de crédito.
-
 > Alterado pelo/a [Decreto-Lei n.º 472/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), publicado em 1999-11-08.
 
 ### CAPÍTULO VII — Infracções

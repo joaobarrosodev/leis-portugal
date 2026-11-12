@@ -82,5 +82,33 @@
     "unidade": [],
     "diploma": "pt:dre:509661:por",
     "alterador": "pt:dre:324148:por;pt:dre:390250:por"
+  },
+  {
+    "artigo": "CAPÍTULO II — Proibições e condições de utilização de certas substâncias de efeito hormonal e tireostático",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "### CAPÍTULO II — Proibições e condições de utilização de certas substâncias de efeito hormonal e tireostático",
+    "depois": "### CAPÍTULO II — Proibições e condições de utilização de certas substâncias de efeito hormonal, tireostático e anabolizante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:509661:por",
+    "alterador": "pt:dre:324148:por;pt:dre:390250:por"
+  },
+  {
+    "artigo": "CAPÍTULO III — Trocas comerciais de animais de exploração e de produtos deles provenientes",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "### CAPÍTULO III — Trocas comerciais de animais de exploração e de produtos deles provenientes",
+    "depois": "### CAPÍTULO III — Detenção e trocas comerciais de animais de exploração e de produtos deles provenientes",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:509661:por",
+    "alterador": "pt:dre:324148:por;pt:dre:390250:por"
   }
 ]

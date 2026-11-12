@@ -39,12 +39,12 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Portaria 160/2011, art. 1.º: artigo 13.º — n.º 1 substituído (adiantamento até 50 %), n.º 2 revogado, n.os 3-5 mantidos.",
-    "Portaria 318/2013, art. 1.º: artigo 10.º (n.os 1 e 3 substituídos, n.º 2 mantido); artigo 11.º (n.º 2 substituído, n.º 4 aditado); artigo 12.º (n.os 2 e 3 substituídos); artigo 13.º (n.os 1, 3 e 4 substituídos, n.º 2 mantém '(Revogado.)', n.º 5 mantido, n.º 6 aditado); artigo 15.º (passa a n.º 1 com novo proémio e nova alínea b), alíneas restantes mantidas, n.º 2 aditado); artigo 16.º substituído.",
-    "Portaria 318/2013, arts. 2.º e 3.º: disposição transitória e produção de efeitos — não alteram o texto.",
-    "Portaria 109/2014, art. 12.º: aditado n.º 4 ao artigo 10.º (n.os 1-3 mantidos). Os arts. 2.º-11.º e 13.º-14.º alteram outras portarias — ignorados; art. 15.º entrada em vigor."
+    "Portaria 160/2011: nova redação do n.º 1 do art. 13.º e revogação do n.º 2 ('2 - (Revogado.)'); n.os 3 a 5 mantêm-se.",
+    "Portaria 318/2013: art. 10.º (n.os 1 e 3 novos, n.º 2 mantido), 11.º (n.os 2 e 4 novos), 12.º (n.os 2 e 3 novos), 13.º (n.os 1, 3, 4 e 6 novos; '2 - ...' mantém o n.º 2 tal como está, já revogado pela Portaria 160/2011, pelo que fica '(Revogado.)'), 15.º (n.º 1 com alínea b) nova e n.º 2 novo), 16.º (nova redação).",
+    "Portaria 109/2014, art. 12.º: adita o n.º 4 ao art. 10.º; os restantes artigos dirigem-se a outros regulamentos e foram ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",

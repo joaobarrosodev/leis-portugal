@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:444198:por
     title: Decreto Regulamentar Regional n.º 23/2008/M
     publication_date: '2008-12-15'
+  - id: pt:dre:660321:por
+    title: Decreto Regulamentar Regional n.º 3/2006/M
+    publication_date: '2006-05-03'
 ---
 
 # Decreto Regulamentar Regional n.º 8/2004/M
@@ -62,31 +65,15 @@ Orgânica da Direcção Regional para a Administração Pública de Porto Santo
 
 ###### Artigo 1.º — Natureza e atribuições
 
-A Direcção Regional para a Administração Pública de Porto Santo, doravante designada abreviadamente por DRAPS, é o órgão do Governo Regional, dependente da Vice-Presidência, ao qual cabe a superintendência e coordenação de todos os serviços do Governo Regional na Ilha de Porto Santo, assim como a articulação entre estes e os serviços centrais do Executivo regional.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.
 
 ###### Artigo 2.º — Competências
 
-São competências da DRAPS:
+(Revogado.)
 
-a) Apoiar o vice-presidente do Governo Regional na formulação e concretização das medidas de política, em todos os sectores, a implementar na ilha de Porto Santo;
-
-b) Promover a ligação funcional entre os serviços centrais do Governo Regional e os localizados na ilha de Porto Santo;
-
-c) Superintender em todos os serviços dependentes do Governo Regional, bem como acompanhar e avaliar o respectivo desempenho;
-
-d) Promover a necessária articulação entre todos os serviços do Governo Regional;
-
-e) Acompanhar a implementação das políticas aprovadas pelo Governo Regional para a ilha de Porto Santo;
-
-f) Contribuir para a melhoria da eficácia dos serviços dependentes do Governo Regional, propondo as medidas que se revelem adequadas e garantindo o seu cumprimento uma vez adoptadas;
-
-g) Efectuar estudos, propor medidas e definir as formas de actuação adequadas à realização dos seus objectivos;
-
-h) Programar e promover as acções necessárias à formação dos recursos humanos afectos à DRAPS;
-
-i) Programar e executar as acções relativas à gestão dos recursos humanos afectos à DRAPS;
-
-j) Promover as acções necessárias relativas ao aproveitamento e desenvolvimento dos recursos patrimoniais e financeiros afectos à DRAPS.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.
 
 ### CAPÍTULO II — Órgãos e serviços
 
@@ -94,15 +81,21 @@ j) Promover as acções necessárias relativas ao aproveitamento e desenvolvimen
 
 ###### Artigo 3.º — Estrutura orgânica
 
-A DRAPS é dirigida por um cargo de direcção superior de 1.º grau, designadamente por um director regional para a Administração Pública de Porto Santo, adiante designado abreviadamente por director regional, e compreende os seguintes serviços:
+A DRAPS é dirigida pelo director regional para a Administração Pública de Porto Santo, adiante designado abreviadamente por director regional, cargo de direcção superior de 1.º grau, e compreende os seguintes serviços:
 
 a) O Secretariado;
 
-b) A Direcção de Serviços Administrativos e Financeiros (DSAF).
+b) O Posto de Atendimento ao Cidadão (PAC);
+
+c) A Direcção de Serviços Administrativos e Financeiros (DSAF);
+
+d) A Direcção de Serviços de Gestão de Recursos e Manutenção (DSGRM).
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 3/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2006-660321), publicado em 2006-05-03.
 
 #### SECÇÃO II — Órgãos
 
-###### Artigo 4.º
+###### Artigo 4.º — Director regional
 
 (Revogado.)
 
@@ -110,41 +103,103 @@ b) A Direcção de Serviços Administrativos e Financeiros (DSAF).
 
 #### SECÇÃO III — Secretariado
 
-###### Artigo 5.º
+###### Artigo 5.º — Natureza e competências
 
-(Revogado.)
+O Secretariado é o órgão de apoio administrativo do director regional, competindo-lhe, designadamente, a organização e conservação do arquivo do seu gabinete, bem como o registo e expediente da correspondência e documentação que lhe estão afectos.
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.
+###### Artigo 5.º-A — Posto de Atendimento ao Cidadão
 
-###### Artigo 5.º-A
+O Posto de Atendimento ao Cidadão (PAC) é um órgão dependente directamente do director regional que agrega um conjunto de serviços de atendimento da Administração Pública aos cidadãos.
 
-(Revogado.)
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 3/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2006-660321), publicado em 2006-05-03.
 
-> Aditado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.
+#### SECÇÃO IV — Posto de Atendimento ao Cidadão
 
-#### SECÇÃO IV — Direcção de Serviços Administrativos e Financeiros
+###### Artigo 6.º — Natureza, atribuições e competências
 
-###### Artigo 6.º
+1 - A DSAF tem por missão assegurar a gestão do pessoal e dos recursos financeiros e patrimoniais afectos à DRAPS, bem como a respectiva gestão administrativa e documental.
 
-(Revogado.)
+2 - A DSAF compreende:
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.
+a) A Divisão de Gestão de Recursos Humanos (DGRH);
 
-###### Artigo 6.º-A
+b) A Divisão de Expediente Geral, Finanças e Contabilidade (DEGFC).
 
-(Revogado.)
+3 - Compete à DGRH:
 
-> Aditado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.
+a) Promover a racionalização e a gestão adequada dos recursos humanos, tendo em vista a realização profissional e o eficiente funcionamento dos serviços;
+
+b) Realizar estudos de gestão previsional e de caracterização dos recursos humanos, nomeadamente o balanço social;
+
+c) Promover os procedimentos necessários ao recrutamento, promoção e progressão do respectivo pessoal;
+
+d) Elaborar os planos de formação do pessoal da DRAPS;
+
+e) Organizar os processos de contratação de pessoal;
+
+f) Assegurar as acções de notação do pessoal;
+
+g) Organizar e manter actualizados os registos e os controlos de assiduidade;
+
+h) Elaborar as listas de antiguidade.
+
+4 - A DGRH compreende a Secção de Apoio Administrativo, a quem compete assegurar o expediente necessário ao seu normal funcionamento.
+
+5 - Compete à DEGFC:
+
+a) Assegurar a gestão dos recursos financeiros e patrimoniais, o processamento de remunerações e o expediente geral da DRAPS;
+
+b) Assegurar a elaboração da proposta de orçamento de funcionamento e de investimento, bem como acompanhar a execução orçamental e propor as medidas necessárias;
+
+c) Preparar os planos anuais e plurianuais de actividades da DRAPS e acompanhar a respectiva execução;
+
+d) Assegurar o expediente relativo a processamento de remunerações;
+
+e) Promover as acções necessárias ao correcto processamento dos abonos devidos;
+
+f) Organizar o trabalho do pessoal auxiliar;
+
+g) Assegurar a gestão e manutenção das viaturas;
+
+h) Promover as medidas necessárias à vigilância, segurança, limpeza e arrumação das instalações;
+
+i) Proceder às aquisições de bens e serviços e administrar os bens de consumo;
+
+j) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo de correspondência e outros documentos;
+
+l) Manter actualizado o cadastro e inventário dos bens afectos à DRAPS.
+
+6 - A DEGFC compreende a Secção de Contabilidade e a Secção de Expediente Geral e Arquivo.
+
+###### Artigo 6.º-A — Natureza, atribuições e competências
+
+1 - A DSGRM tem por missão assegurar a gestão dos equipamentos, instalações e pessoal necessário à gestão de recursos naturais afectos à DRAPS, nomeadamente ambientais, florestais, veterinários, agrícolas, pecuária e pesca, bem como a gestão dos recursos necessários à manutenção do património, equipamentos e infra-estruturas de domínio público.
+
+2 - A DSGRM compreende:
+
+a) A Divisão de Gestão de Recursos Naturais (DGRN);
+
+b) A Divisão de Gestão de Manutenção (DGM).
+
+3 - Compete à DGRN promover a racionalização e a gestão adequada dos recursos humanos, equipamentos e instalações afectos à gestão dos recursos naturais.
+
+4 - A DGRN compreende a Secção de Pecuária, Matadouro e Lota e a Secção de Agricultura e Florestas, às quais compete assegurar o seu normal funcionamento em cada área específica.
+
+5 - Compete à DGM promover a gestão racional e adequada às necessidades humanas e materiais de manutenção do património e imobilizado afecto à DRAPS, nomeadamente imóveis, instalações, equipamentos e infra-estruturas de domínio público.
+
+6 - A DGM compreende a Secção de Manutenção de Instalações, a Secção de Manutenção de Equipamentos e a Secção de Manutenção de Infra-Estruturas, às quais compete assegurar o normal funcionamento das suas áreas específicas.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 3/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2006-660321), publicado em 2006-05-03.
 
 ### CAPÍTULO III — Pessoal
 
-###### Artigo 7.º
+###### Artigo 7.º — Quadro
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.
 
-###### Artigo 8.º
+###### Artigo 8.º — Equipas de projecto
 
 (Revogado.)
 
@@ -152,19 +207,19 @@ b) A Direcção de Serviços Administrativos e Financeiros (DSAF).
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Artigo 9.º
+###### Artigo 9.º — Transição de pessoal
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.
 
-###### Artigo 10.º
+###### Artigo 10.º — Salvaguarda de concursos pendentes
 
 (Revogado.)
 
 > Revogado pelo/a [Decreto Regulamentar Regional n.º 23/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-444198), publicado em 2008-12-15.
 
-###### Artigo 11.º
+###### Artigo 11.º — Encargos
 
 (Revogado.)
 
