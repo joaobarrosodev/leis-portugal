@@ -474,13 +474,19 @@ def julgamentos(markdown: str) -> list[Julgamento]:
     campos = {m.group(1): m.group(2).strip() for m in _YAML_CAMPO.finditer(cabecalho)}
     texto = corpo(markdown)
     siglas = siglas_do_acordao(texto)
+    data = campos.get("official_date") or None
+    ano = campos.get("official_number", "").rpartition("/")[2]
+    if data and ano.isdigit() and data[:4] not in (ano, str(int(ano) - 1)):
+        # Gralhas na data do site ("1920-01-16" no 51/2020, "0205-02-18" no 151/2025): sem data é melhor
+        # do que escolher o código pela data errada. Um acórdão de dezembro pode ter o número do ano seguinte.
+        data = None
     resultado = []
     for alinea in alineas(decisao(texto)):
         nome = sentido(alinea)
         if nome is None:
             continue
         resultado.append(Julgamento(
-            acordao=campos.get("id", ""), numero=campos.get("official_number", ""), data=campos.get("official_date") or None,
+            acordao=campos.get("id", ""), numero=campos.get("official_number", ""), data=data,
             url=campos.get("official_url") or None, sentido=nome, alinea=re.sub(r"\s+", " ", alinea).strip(),
             normas=normas(alinea, siglas),
         ))
@@ -490,8 +496,51 @@ def julgamentos(markdown: str) -> list[Julgamento]:
 # ------------------------------------------------------------------ resolução no índice
 
 
+# Códigos substituídos por outro com nova numeração: num acórdão anterior ao código atual, o "CPC" é o
+# de 1961 e o "CPA" o de 1991. Para cada código, (desde, diploma) do mais recente para o mais antigo:
+# "atual" é a resolução habitual; None deixa a norma sem diploma (melhor do que um artigo renumerado).
+CODIGOS_NO_TEMPO: dict[str, list[tuple[str, str | tuple[str, str] | None]]] = {
+    "codigo processo civil": [("2013-09-01", "atual"), ("1961-01-01", ("decreto-lei", "44129")), ("", None)],
+    "lei 41/2013": [("2013-09-01", "atual"), ("", None)],
+    "codigo procedimento administrativo": [("2015-04-08", "atual"), ("1992-05-16", ("decreto-lei", "442/91")), ("", None)],
+    "codigo trabalho": [("2009-02-17", "atual"), ("2003-12-01", ("lei", "99/2003")), ("", None)],
+    "decreto-lei 78/87": [("1988-01-01", "atual"), ("", None)],
+    "decreto-lei 53/2004": [("2004-09-15", "atual"), ("1993-04-28", ("decreto-lei", "132/93")), ("", None)],
+    "decreto-lei 433/99": [("2000-01-01", "atual"), ("1991-07-01", ("decreto-lei", "154/91")), ("", None)],
+    "codigo procedimento processo tributario": [("2000-01-01", "atual"), ("1991-07-01", ("decreto-lei", "154/91")), ("", None)],
+    "codigo estrada": [("1994-10-01", "atual"), ("", None)],
+    "codigo penal": [("1983-01-01", "atual"), ("", None)],
+    "codigo imposto sobre rendimento pessoas singulares": [("2001-07-04", "atual"), ("", None)],
+    "codigo imposto sobre rendimento pessoas coletivas": [("2001-07-04", "atual"), ("", None)],
+    "lei 15/2001": [("2001-07-06", "atual"), ("", None)],
+    "lei 168/99": [("1999-12-18", "atual"), ("", None)],
+    "codigo processo tribunais administrativos": [("2004-01-01", "atual"), ("", None)],
+    "lei geral tributaria": [("1999-01-01", "atual"), ("", None)],
+    "codigo civil": [("1967-06-01", "atual"), ("", None)],
+}
+
+
+def _identidade(norma: Norma) -> str:
+    return chave_nome(norma.codigo) if norma.codigo else f"{norma.tipo} {norma.numero}"
+
+
+def no_tempo(norma: Norma, data: str | None) -> Norma | None:
+    """A norma a resolver na data do acórdão: a mesma, a do código anterior, ou None (sem diploma)."""
+    regras = CODIGOS_NO_TEMPO.get(_identidade(norma))
+    if not regras or not data:
+        return norma
+    for desde, alvo in regras:
+        if data >= desde:
+            if alvo == "atual":
+                return norma
+            if alvo is None:
+                return None
+            return Norma(norma.artigo, norma.diploma_texto, alvo[0], alvo[1], None, principal=norma.principal)
+    return norma
+
+
 class Resolvedor:
-    """Diploma e artigo de cada norma no índice do RAG."""
+    """Diploma e artigo de cada norma no índice do RAG, na versão do código em vigor na data do acórdão."""
 
     def __init__(self, pesquisa) -> None:
         self.p = pesquisa
@@ -516,8 +565,12 @@ class Resolvedor:
             self._cache[chave] = (documento, parte)
         return self._cache[chave]
 
-    def resolver(self, norma: Norma) -> Norma:
-        documento, parte = self.documento(norma)
+    def resolver(self, norma: Norma, data: str | None = None) -> Norma:
+        alvo = no_tempo(norma, data)
+        if alvo is None:
+            norma.documento, norma.parte, norma.artigo_encontrado = None, None, False
+            return norma
+        documento, parte = self.documento(alvo)
         norma.documento = documento
         if documento and norma.artigo:
             linhas = self.p.con.execute(
@@ -551,7 +604,7 @@ def construir(pesquisa, pasta: Path = PASTA_TC, saida: Path = SAIDA, progresso=p
             contas["acordaos_com_julgamento"] += 1
         for julgamento in lista:
             contas[f"sentido:{julgamento.sentido}"] += 1
-            julgamento.normas = [resolvedor.resolver(n) for n in julgamento.normas]
+            julgamento.normas = [resolvedor.resolver(n, julgamento.data) for n in julgamento.normas]
             contas["alineas"] += 1
             if not julgamento.normas:
                 contas["alineas_sem_norma"] += 1

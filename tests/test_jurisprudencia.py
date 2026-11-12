@@ -137,3 +137,21 @@ def test_segunda_resposta_um_por_acordao_e_resumo_do_resto():
     assert [x["acordao"] for x in lista] == [f"a{i}" for i in range(8)]
     assert sum(x["mostrar"] for x in lista) == JULGAMENTOS_POR_ARTIGO
     assert jurisprudencia(consulta, [artigo], None) == []
+
+
+def test_codigo_anterior_na_data_do_acordao():
+    cpc = j.Norma("668.º", "CPC", codigo="Código de Processo Civil")
+    assert j.no_tempo(cpc, "2015-03-01") is cpc
+    antigo = j.no_tempo(cpc, "2010-05-12")
+    assert (antigo.tipo, antigo.numero, antigo.codigo) == ("decreto-lei", "44129", None)
+    assert j.no_tempo(cpc, "1955-01-01") is None
+    cpp = j.Norma("400.º", "CPP", tipo="decreto-lei", numero="78/87")
+    assert j.no_tempo(cpp, "1986-06-01") is None
+    assert j.no_tempo(cpp, "2000-01-01") is cpp
+    outra = j.Norma("4.º", "Lei n.º 32/2008", tipo="lei", numero="32/2008")
+    assert j.no_tempo(outra, "1990-01-01") is outra
+
+
+def test_data_com_gralha_no_site_fica_vazia():
+    md = ACORDAO.replace("official_date: '2022-04-19'", "official_date: '1922-04-19'")
+    assert j.julgamentos(md)[0].data is None
