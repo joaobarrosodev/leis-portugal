@@ -392,3 +392,15 @@ Por ordem de ganho esperado:
 3. **Perguntas sobre diplomas alterados sem consolidação** no conjunto de avaliação, para medir o risco principal do plano, que hoje fica de fora.
 4. **Trocar `fontes.ler_artigos` pelo parser da fase 3** e reconstruir o índice (5 min); medir outra vez.
 5. **Velocidade**: o reranker leva 7 a 8 s por pergunta em CPU; para uso real, um reranker mais pequeno, menos candidatos ou GPU.
+
+### Jurisprudência (estado em 12/11/2026)
+
+1. **Acórdãos do TC de 1983 a 2015.** Estão a ser recolhidos noutra sessão, na worktree `fase2-texto-em-vigor` (`collect tc --from-year 1983 --to-year 2015`); às 14:10 tinha 1996–2015 e estava em 1995. Quando estiverem no main:
+   - correr `RAG_INDICE=… python -m rag.jurisprudencia`, que refaz `normas-julgadas.jsonl` com a regra das datas (`CODIGOS_NO_TEMPO`: CPC de 1961, CPA de 1991, Código do Trabalho de 2003…);
+   - medir às cegas numa amostra de 80 alíneas só de acórdãos anteriores a 2016, como em 2016–2026 (outro modelo anota só a partir do texto da alínea), porque as páginas antigas e a forma das decisões são outras; pôr o número no README;
+   - repor em `reports/tc_failures.jsonl` a falha conhecida do 652/2021 (sem texto no site), porque a recolha reescreve o ficheiro em cada corrida.
+2. **Commit da recolha em partes.** As autorizações da CNPD (114.331 anunciadas, perto de 1 GB) e os acórdãos vão inteiros para o git (decisão do utilizador), mas o GitHub recusa um push acima de 2 GB e o repositório já tem 2,4 GB: fazer commit e push por ano.
+3. **Datas com gralhas no site do TC.** 30 acórdãos têm datas como `0205-02-18` (151/2025) ou `1920-01-16` (51/2020). `rag.jurisprudencia` ignora-as; falta corrigi-las na recolha (`src/leis_portugal/sources/tc.py`, `_date`: usar o ano do número quando não bate), depois de a outra sessão acabar.
+4. **Experimentar as duas respostas com o LLM.** Só foram vistas sem LLM (não havia chave na sessão): ver se o aviso de inconstitucionalidade aparece bem na resposta escrita.
+5. **Diplomas citados por um nome que o índice não reconhece.** É a maior parte das falhas da extração (regulamentos, estatutos, a Lei de Organização e Funcionamento dos Tribunais Judiciais…): ficam sem diploma. Resolver pelo sumário ("Aprova o Regulamento…") tendo em conta a data do acórdão, e medir outra vez.
+6. **Mais tarde:** STJ e STA (bases do ITIJ, dgsi.pt) só depois de a segunda resposta estar medida; o pedido de autorização ao TC fica para quando houver uma associação (o repositório é público, mas o fim é individual e privado).

@@ -21,7 +21,7 @@ Das perguntas a que o sistema responde, pelo menos 95% (meta: 99% ou mais) estã
 Três regras acompanham a meta:
 
 - **Responder certo ou não responder.** A taxa de "não sei" é o preço da fiabilidade e desce à medida que os dados melhoram.
-- **Âmbito: o que diz a lei.** Perguntas cuja resposta está escrita num artigo; interpretação, jurisprudência e aconselhamento sobre casos concretos ficam fora.
+- **Âmbito: o que diz a lei.** Perguntas cuja resposta está escrita num artigo; interpretação, jurisprudência e aconselhamento sobre casos concretos ficam fora. Desde 12/11/2026 há uma segunda resposta, separada: os acórdãos do Tribunal Constitucional que julgaram os artigos citados, tirados dos dados e não do LLM, que não conta para os 95% (ver [`rag/README.md`](rag/README.md#duas-respostas-a-lei-e-a-jurisprudência)).
 - **Medido, não estimado.** Cerca de 600 perguntas, geradas numa sessão e verificadas às cegas noutra, com outro modelo (ver Avaliação sem juristas). Com 600 perguntas, 95% tem uma margem de cerca de ±2 pontos.
 
 ## Onde estamos
