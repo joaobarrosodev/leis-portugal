@@ -3,7 +3,7 @@ name: Testes
 on:
   push:
     branches: [main]
-    paths: ["src/**", "tests/**", "config/**", "schemas/**", "pyproject.toml", ".github/workflows/testes.yml"]
+    paths: ["src/**", "tests/**", "rag/**", "avaliacao/comum.py", "config/**", "schemas/**", "pyproject.toml", ".github/workflows/testes.yml"]
   pull_request:
 
 jobs:
@@ -11,13 +11,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      # Só o código, a configuração e os testes: o acervo (data/) não é necessário.
+      # Só o código (incluindo o protótipo de perguntas em rag/, que tests/test_rag.py importa), a
+      # configuração e os testes: o acervo (data/) não é necessário.
       - uses: actions/checkout@v4
         with:
           fetch-depth: 1
           sparse-checkout: |
             src
             tests
+            rag
+            avaliacao/comum.py
             config
             schemas
             pyproject.toml
