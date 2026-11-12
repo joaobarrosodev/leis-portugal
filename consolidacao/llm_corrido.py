@@ -41,6 +41,7 @@ from cegas import _texto_alterador
 from consolidar import PILOTO, _markdown
 from llm import _alteradores as _alteradores_da_selecao
 from llm_completo import _alteradores, _aprovados
+import texto as texto_mod
 from texto import RAIZ, Corpo, front_matter, publicado
 from verificar import _REVOGADO, _plano
 
@@ -349,11 +350,16 @@ def _junto(resposta: dict, registo: dict) -> dict:
 
 def juntar() -> None:
     selecao = _carregar("selecao-escala.jsonl")
+    anteriores, excluidos, grandes = texto_mod.linhas_anteriores(JUNTADOS), texto_mod.exclusoes(), texto_mod.gigantes()
     linhas = []
     for f in sorted(CORRIDO.glob("pt_*.json")):
         resposta = json.loads(f.read_text(encoding="utf-8"))
         base = {"id": resposta["id"], "title": selecao[resposta["id"]]["title"], "estado": "não junto"}
-        if resposta["problemas"]:
+        if resposta["id"] in grandes and resposta["id"] in anteriores:
+            linhas.append(anteriores[resposta["id"]])  # juntado por llm_gigantes.py; não se reescreve
+        elif resposta["id"] in excluidos:
+            linhas.append(base | {"motivo": excluidos[resposta["id"]]})
+        elif resposta["problemas"]:
             linhas.append(base | {"motivo": "a resposta não passou a verificação letra a letra: " + "; ".join(resposta["problemas"])[:300]})
         elif not resposta["substituicoes"] and not resposta["insercoes"]:
             linhas.append(base | {"motivo": "a resposta não muda nada: " + str(resposta.get("nao_aplicavel"))[:200]})

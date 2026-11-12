@@ -50,6 +50,7 @@ from consolidar import PILOTO, _markdown, processar
 from juntar import METODO, _aplicar_resposta
 from llm import ESQUEMA
 from llm import _alteradores as _alteradores_da_selecao
+import texto as texto_mod
 from texto import RAIZ, Artigo, front_matter, publicado
 from verificar import _REVOGADO, _plano
 
@@ -618,9 +619,12 @@ def passagem(ids: list[str], pasta: Path, max_chars: int) -> None:
 def juntar() -> None:
     selecao = {r["id"]: r for r in map(json.loads, (PASTA / "selecao-escala.jsonl").read_text(encoding="utf-8").splitlines())}
     linhas = []
+    excluidos = texto_mod.exclusoes()
     for f in sorted(COMPLETO.glob("pt_*.json")):
         resposta = json.loads(f.read_text(encoding="utf-8"))
-        if resposta["problemas"]:
+        if resposta["id"] in excluidos:
+            linhas.append({"id": resposta["id"], "title": selecao[resposta["id"]]["title"], "estado": "não junto", "motivo": excluidos[resposta["id"]]})
+        elif resposta["problemas"]:
             linhas.append({"id": resposta["id"], "title": selecao[resposta["id"]]["title"], "estado": "não junto", "motivo": "a resposta não passou a verificação letra a letra: " + "; ".join(resposta["problemas"])[:300]})
         elif not resposta["artigos"] and not resposta.get("removidos") and not resposta.get("titulos"):
             linhas.append({"id": resposta["id"], "title": selecao[resposta["id"]]["title"], "estado": "não junto", "motivo": "a resposta não tem artigos: " + str(resposta.get("nao_aplicavel"))[:200]})

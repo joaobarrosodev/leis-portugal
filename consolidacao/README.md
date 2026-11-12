@@ -61,7 +61,7 @@ Dos 807 diplomas cuja última ronda às cegas teve reparos, 487 falham por anexo
 
 Conclusão: repedir com o mesmo método rende pouco (6 em 100). Para estes diplomas é preciso outra abordagem: repedir só os artigos `errado`, com o motivo do verificador, ou uma revisão humana.
 
-**Cuidado ao correr `juntar`:** o `llm_completo.py juntar` e o `llm_corrido.py juntar` reescrevem as entradas de todos os diplomas a partir das respostas guardadas. Isto desfez as 6 exclusões manuais da ronda 80 (revogados por inteiro e revogação adiada) e tirou o campo `passagens` aos 18 grandes; essas entradas e dois consolidados dos 18 (DL 202/2000 e DL 63-A/2013) foram repostos como estavam.
+**Cuidado ao correr `juntar`:** o `llm_completo.py juntar` e o `llm_corrido.py juntar` reescrevem as entradas de todos os diplomas a partir das respostas guardadas. Isto desfez as 6 exclusões manuais da ronda 80 (revogados por inteiro e revogação adiada) e tirou o campo `passagens` aos 18 grandes; essas entradas e dois consolidados dos 18 (DL 202/2000 e DL 63-A/2013) foram repostos como estavam. **Corrigido a 12/11/2026:** as exclusões feitas à mão ficam em `llm/exclusoes.json` (id → motivo) e os dois `juntar` respeitam-nas; o `juntar` do texto corrido deixa como estão as entradas dos 18 grandes (`llm/gigantes-ids.txt`), que são do `llm_gigantes.py`. Correr `juntar` duas vezes já não muda nada.
 
 ## Resultado em resumo
 

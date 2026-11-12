@@ -313,3 +313,26 @@ def artigos_alteradores(texto: str, titulo: str) -> list[Artigo]:
     if padrao is None:
         return []
     return [a for a in dividir(texto).artigos if padrao.search(sem_ligacoes("\n".join(a.linhas)))]
+
+
+# Diplomas que o `juntar` de `llm_completo.py` e de `llm_corrido.py` não reescreve: as exclusões feitas
+# à mão depois de ler a resposta (`llm/exclusoes.json`, id → motivo; p. ex. um revogado por inteiro que o
+# LLM devolveu com todos os artigos "(Revogado.)") e os 18 grandes, juntados por `llm_gigantes.py`
+# (`llm/gigantes-ids.txt`). Sem isto, voltar a correr `juntar` desfazia-os.
+EXCLUSOES = RAIZ / "consolidacao" / "llm" / "exclusoes.json"
+GIGANTES = RAIZ / "consolidacao" / "llm" / "gigantes-ids.txt"
+
+
+def exclusoes() -> dict[str, str]:
+    return json.loads(EXCLUSOES.read_text(encoding="utf-8")) if EXCLUSOES.exists() else {}
+
+
+def gigantes() -> set[str]:
+    return set(GIGANTES.read_text(encoding="utf-8").split()) if GIGANTES.exists() else set()
+
+
+def linhas_anteriores(ficheiro: Path) -> dict[str, dict]:
+    """As entradas de um `juntados-*.jsonl` como estão, para manter as que o `juntar` não refaz."""
+    if not ficheiro.exists():
+        return {}
+    return {d["id"]: d for d in map(json.loads, ficheiro.read_text(encoding="utf-8").splitlines()) if d}
