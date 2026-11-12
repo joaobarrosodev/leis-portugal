@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:445535:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-03-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3684f6b9c3c5de96"
+   ]
+  },
+  {
+   "date": "1974-07-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:475918:por",
+     "title": "Portaria n.º 472/74",
+     "published": "1974-07-19",
+     "dre_path": "/dr/detalhe/portaria/472-1974-475918"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "9edbff90f1ffd76f"
+   ]
+  }
+ ],
+ "fragments": {
+  "3684f6b9c3c5de96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Março\n\nCom a mudança da sede do Comando Naval do Continente para o Alfeite, há necessidade de criar uma unidade da Armada na margem norte que, na subordinação daquele Comando, substitua, com maior autonomia, o Serviço de Vigilância e Polícia do Edifício do Ministério da Marinha;\n\nNestas condições:\n\nManda o Governo da República Portuguesa, pelo Ministro da Marinha:\n\n1.º Criar o Comando de Segurança e Defesa do Edifício do Ministério da Marinha (C. S. D. M.).\n\n2.º O C. S. D. M. é uma unidade da Armada comandada por um capitão-de-mar-e-guerra, que fica directamente subordinado ao comandante naval do Continente.\n\n3.º Compete, essencialmente, ao comandante do C. S. D. M.:\n\na) Superintender na segurança e defesa do edifício do Ministério da Marinha;\n\nb) Velar pela ordem e disciplina no mesmo edifício nas áreas da sua jurisdição;\n\nc) Superintender nas actividades comuns aos organismos situados naquele edifício, bem como na manutenção e conservação das instalações onde têm lugar aquelas actividades;\n\nd) Orientar superiormente a acção das rondas ou, quando determinado, de quaisquer forças da Armada em serviço na cidade.\n\n4.º O comandante do C. S. D. M. manterá as ligações necessárias ao cumprimento da sua missão com todos os organismos situados no edifício do Ministério da Marinha.\n\n5.º A estrutura e jurisdição do C. S. D. M. serão fixadas por despacho do Ministro da Marinha.\n\n6.º O disposto nesta portaria entra em vigor em data a fixar por despacho do Ministro da Marinha.\n\nO Ministro da Marinha, Manuel Pereira Crespo."
+  },
+  "9edbff90f1ffd76f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1974-07-19",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 472/74](https://diariodarepublica.pt/dr/detalhe/portaria/472-1974-475918), publicado em 1974-07-19."
+   ],
+   "markdown": "de 8 de Março\n\nCom a mudança da sede do Comando Naval do Continente para o Alfeite, há necessidade de criar uma unidade da Armada na margem norte que, na subordinação daquele Comando, substitua, com maior autonomia, o Serviço de Vigilância e Polícia do Edifício do Ministério da Marinha;\n\nNestas condições:\n\nManda o Governo da República Portuguesa, pelo Ministro da Marinha:\n\n1.º Criar o Comando de Segurança e Defesa do Edifício do Ministério da Marinha (C. S. D. M.).\n\n2.º O CSDM é uma unidade da Armada comandada por um capitão-de-mar-e-guerra, que fica directamente subordinado ao Chefe do Estado-Maior da Armada.\n\n> Alterado pelo/a [Portaria n.º 472/74](https://diariodarepublica.pt/dr/detalhe/portaria/472-1974-475918), publicado em 1974-07-19.\n\n3.º Compete, essencialmente, ao comandante do C. S. D. M.:\n\na) Superintender na segurança e defesa do edifício do Ministério da Marinha;\n\nb) Velar pela ordem e disciplina no mesmo edifício nas áreas da sua jurisdição;\n\nc) Superintender nas actividades comuns aos organismos situados naquele edifício, bem como na manutenção e conservação das instalações onde têm lugar aquelas actividades;\n\nd) Orientar superiormente a acção das rondas ou, quando determinado, de quaisquer forças da Armada em serviço na cidade.\n\n4.º O comandante do C. S. D. M. manterá as ligações necessárias ao cumprimento da sua missão com todos os organismos situados no edifício do Ministério da Marinha.\n\n5.º A estrutura e jurisdição do C. S. D. M. serão fixadas por despacho do Ministro da Marinha.\n\n6.º O disposto nesta portaria entra em vigor em data a fixar por despacho do Ministro da Marinha.\n\nO Ministro da Marinha, Manuel Pereira Crespo."
+  }
+ }
+}

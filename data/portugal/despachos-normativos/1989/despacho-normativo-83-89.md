@@ -40,10 +40,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-03-22'
+version_history:
+  file: despacho-normativo-83-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-08-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-03-22'
+    amending: pt:dre:333171:por
+    amending_title: Despacho Normativo n.º 22/90
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:43:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 22/90. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1989/despacho-normativo-83-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -227,9 +244,9 @@ c) Elementos comprovativos do cumprimento das condições de acesso previstas no
 
 ###### Artigo 7.º — Processo e prazos de apreciação
 
-1 - O GEP verficará se as entidade candidatas reúnem as condições de acesso referidas no artigo 4.º, apreciará os projectos no âmbito das normas aplicáveis do Regulamento FEDER e procederá à instrução do processo no prazo máximo de quinze dias a contar da data de candidatura, após o que procederá ao seu envio ao LNETI, com cópia ao Gabinete do Gestor do PEDIP e à Direcção-Geral de Desenvolvimento Regional (DGDR).
+1 - O GEP verificará se as entidades candidatas reúnem as condições de acesso referidas no artigo 4.º, n.os 1, alínea a), e 2, apreciará os projectos no âmbito das normas aplicáveis do Regulamento FEDER e procederá à instrução do processo no prazo máximo de 15 dias a contar da data de candidatura, após o que procederá ao seu envio ao LNETI, com cópia ao Gabinete do Gestor do PEDIP.
 
-2 - O LNETI verificará se os projectos reúnem as condições de elegibilidde previstas no artigo 5.º, procederá à análise do interesse científico e tecnológico dos projectos e proporá a respectiva estrutura de financiamento, emitindo parecer fundamentado no prazo máximo de 45 dias a contar da data de candidatura.
+2 - O LNETI verificará se os projectos reúnem as condições de acesso referidas no n.º 1, alínea b), do artigo 4.º e as condições de elegibilidade previstas no artigo 5.º, procederá à análise do interesse científico e tecnológico dos projectos e proporá a respectiva estrutura de financiamento, emitindo parecer fundamentado no prazo máximo de 45 dias a contar da data de candidatura.
 
 3 - O GEP e o LNETI poderão solicitar às entidades candidatas esclarecimentos complementares, a serem apresentados no prazo máximo de dez dias úteis após a solicitação.
 
@@ -237,13 +254,17 @@ c) Elementos comprovativos do cumprimento das condições de acesso previstas no
 
 5 - As entidades responsáveis pela apreciação dos projectos poderão consultar instituições ou personalidades de reconhecido mérito científico, técnico ou profissional, para obtenção de pareceres relativos aos diferentes aspectos em que incide a apreciação.
 
+> Alterado pelo/a [Despacho Normativo n.º 22/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1990-333171), publicado em 1990-03-17.
+
 ###### Artigo 8.º — Comissão de Selecção
 
 1 - Será constituída uma Comissão de Selecção do Subprograma, presidida pelo gestor do PEDIP, que integrará representantes da DGDR, do LNETI, do GEP, do Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) e da Direcção-Geral da Indústria (DGI) e da Secretaria de Estado da Ciência e Tecnologia, podendo igualmente participar outras entidades do MIE quando a natureza dos projectos o justifique.
 
-2 - A Comissão de Selecção reunirá com a periodicidade necessária para apreciar os projectos com os pareceres emitidos pelo LNETI e submeterá a sua proposta de decisão a despacho do Ministro da Indústria e Energia, podendo recorrer ao parecer de especialistas sempre que o considerar necessário.
+2 - A Comissão de Selecção reunirá com a periodicidade necessária para apreciar os projectos com os pareceres emitidos pelo GEP e pelo LNETI e submeterá a sua proposta de decisão a despacho do Ministro da Indústria e Energia, podendo recorrer ao parecer de especialistas sempre que o considerar necessário.
 
 3 - A proposta de decisão da Comissão de Selecção deverá ser apresentada ao Ministro da Indústria e Energia no prazo máximo de quinze dias a partir da apresentação dos pareceres referidos no número anterior.
+
+> Alterado pelo/a [Despacho Normativo n.º 22/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1990-333171), publicado em 1990-03-17.
 
 ###### Artigo 9.º — Decisão final
 
@@ -283,7 +304,7 @@ h) Funcionamento durante os primeiros cinco anos.
 
 ###### Artigo 11.º — Contrato de concessão da comparticipação
 
-1 - Para os projectos das associações referidas na alínea a) do n.º 1 do artigo 3.º, a concessão da comparticipação será formalizada por contrato a celebrar entre o GEP e a entidade beneficiária.
+1 - Para os projectos das associações referidas na alínea a) do n.º 1 do artigo 3.º a concessão da comparticipação será formalizada por contrato a celebrar entre o IAPMEI e a entidade beneficiária.
 
 2 - O contrato referido no número anterior deverá especificar os objectivos do projecto a apoiar, o apoio financeiro a atribuir, o faseamento das contribuições financeiras associadas às etapas específicas do desenvolvimento do projecto e as obrigações das entidades beneficiárias.
 
@@ -300,6 +321,8 @@ Prestação de informações falsas por parte da entidade beneficiária ou vicia
 5 - A rescisão do contrato implicará para a entidade beneficiária a obrigação de, no prazo de 60 dias a contar da notificação, repor as importâncias recebidas, acrescidas dos juros calculados à taxa de referência do mercado de capitais em vigor à data da notificação e acrescida de três pontos percentuais.
 
 6 - Em caso de dissolução, extinção, falência ou insolvência das entidades beneficiárias, todos os bens e direitos adquiridos por força, no todo ou em parte, dos apoios atribuídos são propriedade do LNETI ou de outro organismo público com personalidade jurídica, a definir por despacho do Ministro da Indústria e Energia.
+
+> Alterado pelo/a [Despacho Normativo n.º 22/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1990-333171), publicado em 1990-03-17.
 
 ###### Artigo 12.º — Pagamento da comparticipação
 

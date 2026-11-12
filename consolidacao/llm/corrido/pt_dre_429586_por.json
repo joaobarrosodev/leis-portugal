@@ -1,0 +1,35 @@
+{
+  "id": "pt:dre:429586:por",
+  "substituicoes": [
+    {
+      "de": 37,
+      "ate": 37,
+      "texto": "Design - 120.",
+      "alterador": 1
+    },
+    {
+      "de": 58,
+      "ate": 58,
+      "texto": "Educação Especial - 80.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 113,
+      "texto": "Instituto Superior de Educação e Trabalho\n\nAdministração Escolar - 90.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 1027/97): ESAD, curso de Design passa a 120 vagas -> unidade 37 substituída.",
+    "Alterador 1: aditado ao anexo o Instituto Superior de Educação e Trabalho, Administração Escolar - 90 vagas -> inserido após a unidade 113 (ordem alfabética dos institutos superiores, antes do ISVOUGA).",
+    "Alterador 2 (Portaria 1047-B/97): ESE Jean Piaget de Arcozelo, Educação Especial passa a 80 vagas -> unidade 58 substituída (não a de Arcozelo (Viseu), unidade 61)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "inserção depois de 113: parágrafo que não está no alterador nem no original: Administração Escolar - 90."
+  ]
+}

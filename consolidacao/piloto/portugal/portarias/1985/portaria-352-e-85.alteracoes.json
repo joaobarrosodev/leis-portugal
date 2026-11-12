@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 48-50",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Teoria de Eprssão Artística ... 10\n\nb) Técnicas Corporais de Expressão Artística ... 22\n\nc) Teoria e Metodologia da Dança ... 3",
+    "depois": "a) Teoria da Expressão Artística ... 10\n\nb) Técnicas Corporais da Expressão Artística ... 22\n\nc) Teoria e Metodologia da Dança ... 23",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:444444:por",
+    "alterador": "pt:dre:178344:por"
+  },
+  {
+    "artigo": "unidades 54-54",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Teoria do Rendimento Humano ... 2",
+    "depois": "a) Teoria do Rendimento Humano ... 22",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:444444:por",
+    "alterador": "pt:dre:178344:por"
+  }
+]

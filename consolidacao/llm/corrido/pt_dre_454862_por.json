@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:454862:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º É criado o cartão para identificação dos empregados dos donos ou consignatários das mercadorias, bem como dos seus representantes que não sejam despachantes oficiais, de modelo anexo a esta portaria.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 855/2001: nova redação do n.º 1.º — substituída a unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

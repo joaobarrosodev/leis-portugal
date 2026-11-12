@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-05-30'
+version_history:
+  file: portaria-18002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-10-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-05-30'
+    amending: pt:dre:627632:por
+    amending_title: Portaria n.º 19879
+    changes:
+    - Altera Artigo unidades 11-12
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:49:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 19879. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1960/portaria-18002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,9 +133,11 @@ d) Chefe do grupo de obras da Repartição dos Serviços de Edifícios e Mobili�
 
 e) Inspector-chefe; chefes de repartição dos serviços de exploração, financeiros e administrativos; engenheiros dos serviços de edifícios e mobiliário; funcionários dos serviços técnicos, radioeléctricos, de edifícios e mobiliário encarregados de obras por administração directa ou de fiscalização de empreitadas; intendente das obras sociais ... 2500$00
 
-f) Almoxarife principal, para as aquisições de material, de força motriz, luz, aquecimento, água, lavagem e limpeza ... 2500$00
+f) Almoxarife principal, para obras em edifícios, reparação de mobiliário e utensílios, aquisições de material e despesas com força motriz, luz, aquecimento, água, lavagens e limpeza ... 5000$00
 
-g) Chefes das circunscrições de exploração, estações centrais e rede de ambulâncias postais; condutores dos serviços de edifícios e mobiliário destacados nas circunscrições técnicas; almoxarife principal, para as despesas não incluídas na alínea f) ... 1000$00
+g) Chefes das circunscrições de exploração, das estações centrais e das redes de ambulâncias postais e condutores dos serviços de edifícios e mobiliário destacados nas circunscrições técnicas ... 1000$00
+
+> Alterado pelo/a [Portaria n.º 19879](https://diariodarepublica.pt/dr/detalhe/portaria/19879-1963-627632), publicado em 1963-05-30.
 
 h) Chefes das circunscrições técnicas e radioeléctrica, para vendas de material inútil, como agentes da Direcção dos Serviços Industriais ... 1000$00
 

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:429812:por",
+  "substituicoes": [
+    {
+      "de": 117,
+      "ate": 118,
+      "texto": "Art. 36.º A constituição, o modo de designação dos seus membros e o regime de funcionamento do conselho consultivo constarão de regulamento próprio, a aprovar por portaria do Ministro do Trabalho e Segurança Social.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 232/84), n.º 1.º: nova redação do artigo 36.º do Regulamento (corpo único, sem n.º 2) -> unidades 117-118 substituídas pelo novo texto.",
+    "Alterador 1, n.º 2.º e anexo: aprovam um regulamento autónomo do conselho consultivo, não alteram o texto do original -> nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

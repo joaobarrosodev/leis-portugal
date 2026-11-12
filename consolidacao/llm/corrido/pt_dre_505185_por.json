@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:505185:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 657/96) dá nova redação ao anexo III, mas o anexo do original só existe em imagem (unidade 23, ligação ao PDF), sem texto onde aplicar a substituição.",
+  "instrucoes": [
+    "Alterador 1: nova redação do anexo III (disciplinas de opção) — não aplicado, o anexo só está em imagem no original"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

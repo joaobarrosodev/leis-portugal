@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 26-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Não ficam sujeitos ao disposto nesta portaria, quer quanto ao desembolso inicial, quer quanto ao prazo máximo para o pagamento total do montante da operação, as vendas a prestações de bens de equipamentos ou investimento ou quaisquer outros que se destinem à actividade produtiva, salvo o disposto no n.º 2 seguinte.\n\n2 - Tratando-se de automóveis ligeiros, mesmo que destinados à actividade produtiva, aplica-se o disposto na alínea e) do mapa anexo.",
+    "depois": "Não ficam sujeitas ao disposto nesta portaria, quer quanto ao desembolso inicial, quer quanto ao prazo máximo para o pagamento total do montante da operação, as vendas a prestações de bens de equipamentos ou investimento ou quaisquer outros que se destinem à actividade produtiva, salvo tratando-se de automóveis ligeiros.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:515006:por",
+    "alterador": "pt:dre:611725:por"
+  }
+]

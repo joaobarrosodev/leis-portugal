@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:528408:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "A Portaria n.º 639/96 dá nova redação ao anexo III (elenco de disciplinas de opção da variante de Educação Musical), mas esse anexo não existe no texto atual, que só tem o artigo 4.º; não há onde aplicar a alteração.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 639/96): substitui o anexo III da Portaria n.º 509/95; anexo ausente do texto atual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

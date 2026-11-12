@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-07-19'
+version_history:
+  file: portaria-126-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-03-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-07-19'
+    amending: pt:dre:475918:por
+    amending_title: Portaria n.º 472/74
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:25:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 472/74. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-126-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -96,7 +111,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha:
 
 1.º Criar o Comando de Segurança e Defesa do Edifício do Ministério da Marinha (C. S. D. M.).
 
-2.º O C. S. D. M. é uma unidade da Armada comandada por um capitão-de-mar-e-guerra, que fica directamente subordinado ao comandante naval do Continente.
+2.º O CSDM é uma unidade da Armada comandada por um capitão-de-mar-e-guerra, que fica directamente subordinado ao Chefe do Estado-Maior da Armada.
+
+> Alterado pelo/a [Portaria n.º 472/74](https://diariodarepublica.pt/dr/detalhe/portaria/472-1974-475918), publicado em 1974-07-19.
 
 3.º Compete, essencialmente, ao comandante do C. S. D. M.:
 

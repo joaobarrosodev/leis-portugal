@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:465399:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "Artigo 1.º As pensões de reserva dos militares são iguais à trigésima sexta parte da remuneração ilíquida que serve de base ao seu cálculo, multiplicada pelo número de anos de serviço contados, ao qual não pode ser atribuído valor superior a trinta e seis, continuando o desconto da quota para a Caixa Geral de Aposentações a ser feito em folha.",
+      "alterador": 1
+    },
+    {
+      "de": 17,
+      "ate": 17,
+      "texto": "Art. 4.º As disposições dos artigos anteriores aplicam-se também às pensões de reforma dos militares, sendo o seu cálculo efectuado nos mesmos termos dos estabelecidos para a reserva, mas a remuneração que lhe serve de base tornar-se-á líquida da respectiva quota.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 244/75, art. 1.º: retifica a redação do artigo 1.º; unidade 13 substituída pela nova redação.",
+    "DL 244/75, art. 1.º: retifica a redação do artigo 4.º; unidade 17 substituída (o '...' intermédio mantém os artigos 2.º e 3.º).",
+    "DL 244/75, art. 2.º: efeitos retroativos da retificação; norma própria, sem alteração ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

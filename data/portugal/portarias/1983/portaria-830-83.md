@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-08-01'
+version_history:
+  file: portaria-830-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-08-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-08-01'
+    amending: pt:dre:372809:por
+    amending_title: Portaria n.º 855/2001
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:52:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 855/2001. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-830-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,7 +132,9 @@ Considerando que o processo de identificação através do pedido sistemático d
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento, o seguinte:
 
-1.º É criado o cartão para uso dos negociantes que despacham por conta própria, despachantes oficiais, despachantes privativos, ajudantes de despachante, agentes aduaneiros e praticantes de despachante, de modelo anexo a esta portaria.
+1.º É criado o cartão para identificação dos empregados dos donos ou consignatários das mercadorias, bem como dos seus representantes que não sejam despachantes oficiais, de modelo anexo a esta portaria.
+
+> Alterado pelo/a [Portaria n.º 855/2001](https://diariodarepublica.pt/dr/detalhe/portaria/855-2001-372809), publicado em 2001-07-27.
 
 2.º Os cartões, emitidos pela Direcção-Geral das Alfândegas, serão de cor branca e terão as dimensões de 85 mm x 60 mm.
 

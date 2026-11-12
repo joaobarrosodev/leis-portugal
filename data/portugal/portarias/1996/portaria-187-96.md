@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-08-21'
+version_history:
+  file: portaria-187-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-05-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-08-21'
+    amending: pt:dre:405912:por
+    amending_title: Portaria n.º 357/96; Portaria n.º 357/96
+    changes:
+    - Adita Artigo depois da unidade 10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/187/1996/05/30/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:19:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 357/96; Portaria n.º
+    357/96. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-187-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,6 +156,14 @@ Manda o Governo, pelos Ministros das Finanças e do Equipamento, do Planeamento 
 2.º Em casos devidamente justificados, poderá admitir-se a aquisição de fogos de tipologia diferente das constantes do quadro anexo I, desde que o seu preço por metro quadrado de área bruta de construção não ultrapasse o valor de 97613$00 para a zona I, 94095$00 para a zona II e 90257$00 para a zona III.
 
 3.º As zonas do País a que se referem os números anteriores são as constantes do quadro anexo II.
+
+4.º Sem prejuízo do disposto nos números anteriores, a título excepcional e em casos devidamente fundamentados, poderá ainda ser admitida a aquisição de fogos pelos municípios cujos preços sejam superiores aos dos limites máximos fixados, mediante despacho conjunto de autorização dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+
+5.º No caso das aquisições de fogos a efectuar pelas famílias, nos termos do [Decreto-Lei n.º 79/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1996-431037), de 20 de Junho, é igualmente aplicável o disposto no número anterior, devendo, em qualquer caso, os respectivos pedidos ser objecto de parecer prévio favorável do Instituto de Gestão e Alienação do Património Habitacional do Estado.
+
+6.º O excesso verificado entre o valor de aquisição dos fogos e os limites de preços máximos fixados na presente portaria não releva em caso algum para efeitos de determinação do montante das comparticipações e financiamentos a conceder ao abrigo dos Decretos-Leis n.os [163/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1993-274242), de 7 de Maio, e [79/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1996-431037), de 20 de Junho, devendo ser suportado na sua totalidade pelos municípios ou pelas famílias adquirentes, consoante os casos.
+
+> Aditado pelo/a [Portaria n.º 357/96](https://diariodarepublica.pt/dr/detalhe/portaria/357-1996-405912), publicado em 1996-08-16.
 
 Ministérios das Finanças e do Equipamento, do Planeamento e da Administração do Território.
 

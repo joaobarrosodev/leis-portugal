@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º É criado o cartão para uso dos negociantes que despacham por conta própria, despachantes oficiais, despachantes privativos, ajudantes de despachante, agentes aduaneiros e praticantes de despachante, de modelo anexo a esta portaria.",
+    "depois": "1.º É criado o cartão para identificação dos empregados dos donos ou consignatários das mercadorias, bem como dos seus representantes que não sejam despachantes oficiais, de modelo anexo a esta portaria.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:454862:por",
+    "alterador": "pt:dre:372809:por"
+  }
+]

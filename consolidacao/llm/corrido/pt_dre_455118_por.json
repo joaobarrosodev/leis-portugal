@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:455118:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 19,
+      "texto": "Classe A - até 17250$00;\n\nClasse B - de 17251$00 a 18400$00;\n\nClasse C - de 18401$00 a 19550$00;\n\nClasse D - de 19551$00 a 20700$00.\n\n3.º Nos termos do artigo 3.º do mesmo diploma, o montante máximo de empréstimo por fogo é de 2200000$00 e o valor máximo dos fogos financiáveis e de 2400000$00.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 810/84: nova redação dos n.os 2.º e 3.º — o corpo do 2.º (unidade 14) fica igual; substituídas as classes A-D e o n.º 3.º (unidades 15-19)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

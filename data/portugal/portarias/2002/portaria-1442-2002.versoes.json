@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:424921:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-11-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "23f242557fab191b"
+   ]
+  },
+  {
+   "date": "2006-04-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:650277:por",
+     "title": "Portaria n.º 376/2006",
+     "published": "2006-04-18",
+     "dre_path": "/dr/detalhe/portaria/376-2006-650277"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "ff23b911f25feead"
+   ]
+  }
+ ],
+ "fragments": {
+  "23f242557fab191b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Novembro\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Montemor-o-Novo:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal da Herdade do Cabido e anexas (processo n.º 3205-DGF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores da Represa com o número de pessoa colectiva 502454288 e sede na Rua de Lisboa, 20, Montemor-o-Novo.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Nossa Senhora da Vila, município de Montemor-o-Novo, com a a área de 1023,2550 ha.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 40% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 10% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 10% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 40% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva direcção regional de agricultura, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça municipal será obrigatoriamente sinalizada com tabuletas do modelo n.º 2 e sinal do modelo n.º 10 definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.\n\n7.º A [Portaria n.º 1034/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1034-2001-515822), de 22 de Agosto, é revogada com a sinalização da presente zona, de acordo com as condições definidas nas Portarias n.os [1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974) e [872/2002](https://diariodarepublica.pt/dr/detalhe/portaria/872-2002-197349), respectivamente de 23 de Novembro e de 25 de Junho.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 1 de Outubro de 2002.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/11/256b00/71137114.pdf)"
+  },
+  "ff23b911f25feead": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-04-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 376/2006](https://diariodarepublica.pt/dr/detalhe/portaria/376-2006-650277), publicado em 2006-04-18."
+   ],
+   "markdown": "de 6 de Novembro\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Montemor-o-Novo:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal da Herdade do Cabido e anexas (processo n.º 3205-DGF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores da Represa com o número de pessoa colectiva 502454288 e sede na Rua de Lisboa, 20, Montemor-o-Novo.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Nossa Senhora da Vila, município de Montemor-o-Novo, com a área de 871 ha.\n\n> Alterado pelo/a [Portaria n.º 376/2006](https://diariodarepublica.pt/dr/detalhe/portaria/376-2006-650277), publicado em 2006-04-18.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 40% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 10% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 10% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 40% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva direcção regional de agricultura, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça municipal será obrigatoriamente sinalizada com tabuletas do modelo n.º 2 e sinal do modelo n.º 10 definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.\n\n7.º A [Portaria n.º 1034/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1034-2001-515822), de 22 de Agosto, é revogada com a sinalização da presente zona, de acordo com as condições definidas nas Portarias n.os [1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974) e [872/2002](https://diariodarepublica.pt/dr/detalhe/portaria/872-2002-197349), respectivamente de 23 de Novembro e de 25 de Junho.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 1 de Outubro de 2002.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/11/256b00/71137114.pdf)"
+  }
+ }
+}

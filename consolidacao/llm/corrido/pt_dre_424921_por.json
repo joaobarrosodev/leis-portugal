@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:424921:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Nossa Senhora da Vila, município de Montemor-o-Novo, com a área de 871 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria 131/2007) extingue a zona de caça municipal criada pelo original, sem revogar nem alterar o seu texto: não é alteração textual. A nova planta do alterador 1 só existe em imagem.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 376/2006): nova redação do n.º 2.º (área de 871 ha); substituída a unidade 7.",
+    "Alterador 2 (Portaria 131/2007): extingue a zona de caça do Cabido e anexas; não textual, em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

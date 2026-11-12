@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-05-13'
+version_history:
+  file: portaria-229-a-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-03-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-05-13'
+    amending: pt:dre:611725:por
+    amending_title: Portaria n.º 328/89
+    changes:
+    - Altera Artigo unidades 26-27
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:47:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 328/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-229-a-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,9 +174,9 @@ Não é permitida a venda a prestações, qualquer que seja a sua forma, para os
 
 Bens não destinados a consumo
 
-1 - Não ficam sujeitos ao disposto nesta portaria, quer quanto ao desembolso inicial, quer quanto ao prazo máximo para o pagamento total do montante da operação, as vendas a prestações de bens de equipamentos ou investimento ou quaisquer outros que se destinem à actividade produtiva, salvo o disposto no n.º 2 seguinte.
+Não ficam sujeitas ao disposto nesta portaria, quer quanto ao desembolso inicial, quer quanto ao prazo máximo para o pagamento total do montante da operação, as vendas a prestações de bens de equipamentos ou investimento ou quaisquer outros que se destinem à actividade produtiva, salvo tratando-se de automóveis ligeiros.
 
-2 - Tratando-se de automóveis ligeiros, mesmo que destinados à actividade produtiva, aplica-se o disposto na alínea e) do mapa anexo.
+> Alterado pelo/a [Portaria n.º 328/89](https://diariodarepublica.pt/dr/detalhe/portaria/328-1989-611725), publicado em 1989-05-08.
 
 4.º
 

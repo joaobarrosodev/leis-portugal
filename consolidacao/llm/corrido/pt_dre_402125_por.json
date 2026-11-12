@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:402125:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Uva, município de Vimioso, com uma área de 1956,3860 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 241/2006) renova a concessão com área reduzida para 752 ha, sem dar nova redação a nenhum ponto do original: alteração não textual; a planta só vem em imagem.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (área 1956,3860 ha) - substituída a unidade 6, mantendo o número 1.º",
+    "Alterador 2: renovação com redução de área sem nova redação de texto - não aplicado (nao_aplicavel)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

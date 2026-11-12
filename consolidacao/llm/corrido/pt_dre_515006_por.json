@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:515006:por",
+  "substituicoes": [
+    {
+      "de": 26,
+      "ate": 27,
+      "texto": "Não ficam sujeitas ao disposto nesta portaria, quer quanto ao desembolso inicial, quer quanto ao prazo máximo para o pagamento total do montante da operação, as vendas a prestações de bens de equipamentos ou investimento ou quaisquer outros que se destinem à actividade produtiva, salvo tratando-se de automóveis ligeiros.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 328/89: nova redação do n.º 3.º (número e epígrafe iguais); os n.os 1 e 2 (unidades 26-27) passam a um só parágrafo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

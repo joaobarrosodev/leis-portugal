@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:445573:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "O pedido não traz texto do Alterador 1 (Portaria n.º 1318/2005): a secção vem vazia, sem nenhum artigo que mencione o original, pelo que não há instrução a aplicar.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 1318/2005): texto ausente no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

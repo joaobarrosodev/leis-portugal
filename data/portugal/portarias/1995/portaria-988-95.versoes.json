@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:429385:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-08-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9bb39d567668d925"
+   ]
+  },
+  {
+   "date": "2003-10-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:493176:por",
+     "title": "Portaria n.º 1079/2003",
+     "published": "2003-09-29",
+     "dre_path": "/dr/detalhe/portaria/1079-2003-493176"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "8c0ba9138b6566d9"
+   ]
+  }
+ ],
+ "fragments": {
+  "9bb39d567668d925": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Agosto\n\nPela [Portaria n.º 493/94](https://diariodarepublica.pt/dr/detalhe/portaria/493-1994-291584), de 5 de Julho, foi concessionada à Associação de Caçadores Os Emes do Oeste uma zona de caça associativa abrangendo vários prédios rústicos sitos na freguesia de Maxial, município de Torres Vedras (processo n.º 1544 do Instituto Florestal).\n\nVerificou-se entretanto a existência de reclamações de titulares ou gestores de terrenos, o que obrigou a entidade gestora da zona de caça a retirar da mesma as áreas reclamadas. Deste modo, torna-se necessário corrigir a [Portaria n.º 493/94](https://diariodarepublica.pt/dr/detalhe/portaria/493-1994-291584), desafectando do regime cinegético especial os terrenos objecto de reclamação.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, que o n.º 1.º da referida portaria passe a ter a seguinte redacção:\n\n1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, e que dele faz parte integrante, sitos na freguesia de Maxial, município de Torres Vedras, com uma área de 1626,9052 ha.\n\nA planta anexa ao presente diploma substitui a anexa à [Portaria n.º 493/94](https://diariodarepublica.pt/dr/detalhe/portaria/493-1994-291584), de 5 de Julho.\n\nMinistério da Agricultura.\n\nAssinada em 21 de Julho de 1995.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/189b00/51475147.pdf)"
+  },
+  "8c0ba9138b6566d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2003-10-04",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1079/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1079-2003-493176), publicado em 2003-09-29."
+   ],
+   "markdown": "de 17 de Agosto\n\nPela [Portaria n.º 493/94](https://diariodarepublica.pt/dr/detalhe/portaria/493-1994-291584), de 5 de Julho, foi concessionada à Associação de Caçadores Os Emes do Oeste uma zona de caça associativa abrangendo vários prédios rústicos sitos na freguesia de Maxial, município de Torres Vedras (processo n.º 1544 do Instituto Florestal).\n\nVerificou-se entretanto a existência de reclamações de titulares ou gestores de terrenos, o que obrigou a entidade gestora da zona de caça a retirar da mesma as áreas reclamadas. Deste modo, torna-se necessário corrigir a [Portaria n.º 493/94](https://diariodarepublica.pt/dr/detalhe/portaria/493-1994-291584), desafectando do regime cinegético especial os terrenos objecto de reclamação.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, que o n.º 1.º da referida portaria passe a ter a seguinte redacção:\n\n1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Maxial, município de Torres Vedras, com a área de 1618,2572 ha.\n\n> Alterado pelo/a [Portaria n.º 1079/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1079-2003-493176), publicado em 2003-09-29.\n\nA planta anexa ao presente diploma substitui a anexa à [Portaria n.º 493/94](https://diariodarepublica.pt/dr/detalhe/portaria/493-1994-291584), de 5 de Julho.\n\nMinistério da Agricultura.\n\nAssinada em 21 de Julho de 1995.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/189b00/51475147.pdf)"
+  }
+ }
+}

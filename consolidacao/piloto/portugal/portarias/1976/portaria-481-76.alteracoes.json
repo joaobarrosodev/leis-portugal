@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 117-118",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 36.º - 1. A constituição, o modo de designação dos seus membros e o regime de funcionamento do conselho consultivo constarão de regulamento próprio, a aprovar por despacho do Ministro do Trabalho, sem prejuízo do disposto no artigo seguinte.\n\n2. O conselho consultivo será presidido pelo director dos Serviços Sociais ou, quando se encontre presente na reunião, pelo secretário-geral do Ministério.",
+    "depois": "Art. 36.º A constituição, o modo de designação dos seus membros e o regime de funcionamento do conselho consultivo constarão de regulamento próprio, a aprovar por portaria do Ministro do Trabalho e Segurança Social.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:429812:por",
+    "alterador": "pt:dre:654726:por"
+  }
+]

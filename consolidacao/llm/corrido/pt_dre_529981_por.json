@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:529981:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 dá nova redação ao anexo III, mas os anexos do original só existem no documento em imagem e não no texto atual, pelo que não há unidade a substituir.",
+  "instrucoes": [
+    "Alterador 1: nova redação do anexo III (quadro de disciplinas de opção) -> anexo ausente do texto atual (só em imagem), nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

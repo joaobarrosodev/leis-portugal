@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-05-19'
+version_history:
+  file: portaria-56-c-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-01-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-05-19'
+    amending: pt:dre:532438:por
+    amending_title: Portaria n.º 385/2003
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/56-c/2002/01/14/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:42:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 385/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-56-c-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,7 +154,9 @@ Cumpridos os preceitos legais, com fundamento no disposto no n.º 8 do artigo 44
 
 Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, o seguinte:
 
-1.º Pela presente portaria é renovada, por um período de seis anos, a concessão da zona de caça associativa da Cumieira (processo n.º 1722-DGF), abrangendo vários prédios rústicos sitos nas freguesia da Cumieira, município de Penela, com uma área de 1271,5940 ha, e na freguesia da Lagarteira, município de Ansião, com uma área de 719 ha, perfazendo uma área total de 1990,5940 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa da Cumieira (processo n.º 1722-DGF), abrangendo vários prédios rústicos sitos na freguesia da Cumieira, município de Penela, com uma área de 1271,5940 ha, e na freguesia da Lagarteira, município de Ansião, com uma área de 719 ha, perfazendo uma área total de 1990,5940 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 385/2003](https://diariodarepublica.pt/dr/detalhe/portaria/385-2003-532438), publicado em 2003-05-14.
 
 2.º É revogada a [Portaria n.º 514/2001](https://diariodarepublica.pt/dr/detalhe/portaria/514-2001-344201), de 27 de Julho.
 

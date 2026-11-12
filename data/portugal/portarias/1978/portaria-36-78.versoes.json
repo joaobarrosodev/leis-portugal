@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:447875:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-01-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "524fffee7ebf87f8"
+   ]
+  },
+  {
+   "date": "1982-06-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:395907:por",
+     "title": "Portaria n.º 584/82",
+     "published": "1982-06-16",
+     "dre_path": "/dr/detalhe/portaria/584-1982-395907"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 13-13"
+   ],
+   "fragments": [
+    "db752bca9e7788c1"
+   ]
+  }
+ ],
+ "fragments": {
+  "524fffee7ebf87f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Janeiro\n\nSendo necessário continuar a dotar o Instituto Hidrográfico de técnicos capazes de satisfazer as necessidades no âmbito das actividades que lhe competem;\n\nConsiderando que as brigadas e missões hidrográficas actualmente existentes não podem desempenhar o papel de escola de hidrografia antes proporcionado pelas antigas missões;\n\nVerificando-se ser desnecessário que todos os oficiais que integram como especialistas as brigadas e missões do Instituto Hidrográfico sejam engenheiros hidrógrafos, mas importando acautelar a sua selecção e qualificação:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo do disposto no artigo 247.º do Estatuto do Oficial da Armada, aprovado e posto em execução pelo [Decreto n.º 46960](https://diariodarepublica.pt/dr/detalhe/decreto/46960-1966-487748), de 14 de Abril de 1966, o seguinte:\n\n1.º No EOA, os artigos 101.º e 107.º passam a ter a seguinte redacção:\n\nArt. 101.º Os cursos de especialização em artilharia, armas submarinas, comunicações e electrotecnia são frequentados, em regra, por guardas-marinhas, segundos-tenentes ou primeiros-tenentes com menos de dois anos de posto da classe de marinha. O curso de especialização em hidrografia é frequentado por segundos-tenentes ou primeiros-tenentes da classe de marinha. O curso de especialização em informática é frequentado por segundos-tenentes ou primeiros-tenentes das classes de marinha, dos engenheiros maquinistas navais e de administração naval.\n\nArt. 107.º A nomeação de oficiais para os cursos de especialização compete à Direcção do Serviço do Pessoal e será feita de acordo com as necessidades do serviço, tendo em conta os seguintes factores:\n\n...\n\nd) Informação, constante do respectivo processo individual, de comandantes, directores ou outras entidades relacionadas com as actividades próprias da especialização, sob cujas ordens serviram os oficiais, em que se refira aptidão particular para essa especialização.\n\n2.º No mapa que consta do artigo 16.º do EOA é introduzirá entre as especializações de informática e mergulhador, a especialização de hidrografia, a que corresponde a letra designativa H, e marinha como classe em que pode ser obtida.\n\n3.º Mediante proposta do director-geral do Instituto Hidrográfico, o Chefe do Estado-Maior da Armada pode considerar especializados em hidrografia os oficiais da classe de marinha que, à data da publicação desta portaria, por actividades anteriormente desenvolvidas no campo da hidrografia, tenham obtido conhecimentos julgados equivalentes aos ministrados no curso que confere a especialização.\n\nEstado-Maior da Armada, 5 de Janeiro de 1978. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante."
+  },
+  "db752bca9e7788c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1982-06-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 584/82](https://diariodarepublica.pt/dr/detalhe/portaria/584-1982-395907), publicado em 1982-06-16."
+   ],
+   "markdown": "de 19 de Janeiro\n\nSendo necessário continuar a dotar o Instituto Hidrográfico de técnicos capazes de satisfazer as necessidades no âmbito das actividades que lhe competem;\n\nConsiderando que as brigadas e missões hidrográficas actualmente existentes não podem desempenhar o papel de escola de hidrografia antes proporcionado pelas antigas missões;\n\nVerificando-se ser desnecessário que todos os oficiais que integram como especialistas as brigadas e missões do Instituto Hidrográfico sejam engenheiros hidrógrafos, mas importando acautelar a sua selecção e qualificação:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo do disposto no artigo 247.º do Estatuto do Oficial da Armada, aprovado e posto em execução pelo [Decreto n.º 46960](https://diariodarepublica.pt/dr/detalhe/decreto/46960-1966-487748), de 14 de Abril de 1966, o seguinte:\n\n1.º No EOA, os artigos 101.º e 107.º passam a ter a seguinte redacção:\n\nArt. 101.º Os cursos de especialização em artilharia, armas submarinas, comunicações e electrotecnia são frequentados, em regra, por guardas-marinhas, segundos-tenentes ou primeiros-tenentes com menos de dois anos de posto da classe de marinha. O curso de especialização em hidrografia é frequentado por segundos-tenentes ou primeiros-tenentes da classe de marinha. O curso de especialização em informática é frequentado por segundos-tenentes ou primeiros-tenentes das classes de marinha, dos engenheiros maquinistas navais e de administração naval.\n\nArt. 107.º A nomeação de oficiais para os cursos de especialização compete à Direcção do Serviço do Pessoal e será feita de acordo com as necessidades do serviço, tendo em conta os seguintes factores:\n\n...\n\nd) Informação, constante do respectivo processo individual, de comandantes, directores ou outras entidades relacionadas com as actividades próprias da especialização, sob cujas ordens serviram os oficiais, em que se refira aptidão particular para essa especialização.\n\n2.º No mapa que consta do artigo 16.º do EOA é introduzirá entre as especializações de informática e mergulhador, a especialização de hidrografia, a que corresponde a letra designativa H, e marinha como classe em que pode ser obtida.\n\n3.º Mediante proposta do director-geral do Instituto Hidrográfico, o Chefe do Estado-Maior da Armada pode considerar especializados em hidrografia os oficiais da classe de marinha que, à data do início do primeiro curso de especialização a realizar no Instituto Hidrográfico, tenham obtido conhecimentos julgados equivalentes aos ministrados no curso que confere a especialização.\n\n> Alterado pelo/a [Portaria n.º 584/82](https://diariodarepublica.pt/dr/detalhe/portaria/584-1982-395907), publicado em 1982-06-16.\n\nEstado-Maior da Armada, 5 de Janeiro de 1978. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante."
+  }
+ }
+}

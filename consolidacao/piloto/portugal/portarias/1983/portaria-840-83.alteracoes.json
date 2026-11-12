@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 15-19",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Classe A - até 15000$00;\n\nClasse B - de 15001$00 a 16000$00;\n\nClasse C - de 16001$00 a 17000$00;\n\nClasse D - de 17001$00 a 18000$00.\n\n3.º Nos termos do artigo 3.º do mesmo diploma, o montante máximo dos empréstimos por fogo é de 1900000$00 e o valor máximo dos fogos financiáveis de 2100000$00.",
+    "depois": "Classe A - até 17250$00;\n\nClasse B - de 17251$00 a 18400$00;\n\nClasse C - de 18401$00 a 19550$00;\n\nClasse D - de 19551$00 a 20700$00.\n\n3.º Nos termos do artigo 3.º do mesmo diploma, o montante máximo de empréstimo por fogo é de 2200000$00 e o valor máximo dos fogos financiáveis e de 2400000$00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:455118:por",
+    "alterador": "pt:dre:400183:por"
+  }
+]

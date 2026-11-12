@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:405364:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 12,
+      "texto": "5.º Sem prejuízo do disposto nos números anteriores, a título excepcional e em casos devidamente fundamentados, poderá ainda ser admitida a aquisição de fogos pelos municípios cujos preços sejam superiores aos dos limites máximos fixados, mediante despacho conjunto de autorização dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.\n\n6.º O excesso verificado entre o valor de aquisição dos fogos e os limites de preços máximos fixados na presente portaria não releva em caso algum para efeitos de determinação do montante das comparticipações e financiamentos a conceder ao abrigo do [Decreto-Lei n.º 226/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1987-418827), de 6 de Junho, e do [Decreto-Lei n.º 197/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1995-484576), de 29 de Julho, devendo ser suportado na sua totalidade pelos municípios adquirentes.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 523/96): adita os n.os 5.º e 6.º; inseridos a seguir ao 4.º (unidade 12).",
+    "Alterador 2: é o mesmo diploma (Portaria 523/96) repetido; o aditamento já está aplicado pelo alterador 1, nada mais a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

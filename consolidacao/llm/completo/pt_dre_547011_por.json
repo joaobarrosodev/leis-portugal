@@ -1,0 +1,34 @@
+{
+  "id": "pt:dre:547011:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "Processo e prazos de apreciação",
+      "texto": "1 - O GEP verificará se as entidades candidatas reúnem as condições de acesso referidas no artigo 4.º, n.os 1, alínea a), e 2, apreciará os projectos no âmbito das normas aplicáveis do Regulamento FEDER e procederá à instrução do processo no prazo máximo de 15 dias a contar da data de candidatura, após o que procederá ao seu envio ao LNETI, com cópia ao Gabinete do Gestor do PEDIP.\n\n2 - O LNETI verificará se os projectos reúnem as condições de acesso referidas no n.º 1, alínea b), do artigo 4.º e as condições de elegibilidade previstas no artigo 5.º, procederá à análise do interesse científico e tecnológico dos projectos e proporá a respectiva estrutura de financiamento, emitindo parecer fundamentado no prazo máximo de 45 dias a contar da data de candidatura.\n\n3 - O GEP e o LNETI poderão solicitar às entidades candidatas esclarecimentos complementares, a serem apresentados no prazo máximo de dez dias úteis após a solicitação.\n\n4 - O não cumprimento dos prazos referidos no número anterior sem justificação adequada será considerado como desistência da candidatura.\n\n5 - As entidades responsáveis pela apreciação dos projectos poderão consultar instituições ou personalidades de reconhecido mérito científico, técnico ou profissional, para obtenção de pareceres relativos aos diferentes aspectos em que incide a apreciação.",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Comissão de Selecção",
+      "texto": "1 - Será constituída uma Comissão de Selecção do Subprograma, presidida pelo gestor do PEDIP, que integrará representantes da DGDR, do LNETI, do GEP, do Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) e da Direcção-Geral da Indústria (DGI) e da Secretaria de Estado da Ciência e Tecnologia, podendo igualmente participar outras entidades do MIE quando a natureza dos projectos o justifique.\n\n2 - A Comissão de Selecção reunirá com a periodicidade necessária para apreciar os projectos com os pareceres emitidos pelo GEP e pelo LNETI e submeterá a sua proposta de decisão a despacho do Ministro da Indústria e Energia, podendo recorrer ao parecer de especialistas sempre que o considerar necessário.\n\n3 - A proposta de decisão da Comissão de Selecção deverá ser apresentada ao Ministro da Indústria e Energia no prazo máximo de quinze dias a partir da apresentação dos pareceres referidos no número anterior.",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Contrato de concessão da comparticipação",
+      "texto": "1 - Para os projectos das associações referidas na alínea a) do n.º 1 do artigo 3.º a concessão da comparticipação será formalizada por contrato a celebrar entre o IAPMEI e a entidade beneficiária.\n\n2 - O contrato referido no número anterior deverá especificar os objectivos do projecto a apoiar, o apoio financeiro a atribuir, o faseamento das contribuições financeiras associadas às etapas específicas do desenvolvimento do projecto e as obrigações das entidades beneficiárias.\n\n3 - O contrato poderá ser objecto de renegociação no caso de alteração fundamentada das condições que justifique uma mudança do calendário da sua realização ou uma modificação do projecto.\n\n4 - O contrato poderá ser rescindido mediante despacho do Ministro da Indústria e Energia, sob proposta da Comissão de Selecção, fundamentada em parecer do GEP, nos seguintes casos:\n\nNão cumprimento dos objectivos e obrigações dentro dos prazos estabelecidos no contrato por facto imputável à entidade beneficiária;\n\nNão cumprimento atempado das obrigações fiscais;\n\nPrestação de informações falsas por parte da entidade beneficiária ou viciação dos documentos fornecidos nas fases de candidatura e de acompanhamento do projecto.\n\n5 - A rescisão do contrato implicará para a entidade beneficiária a obrigação de, no prazo de 60 dias a contar da notificação, repor as importâncias recebidas, acrescidas dos juros calculados à taxa de referência do mercado de capitais em vigor à data da notificação e acrescida de três pontos percentuais.\n\n6 - Em caso de dissolução, extinção, falência ou insolvência das entidades beneficiárias, todos os bens e direitos adquiridos por força, no todo ou em parte, dos apoios atribuídos são propriedade do LNETI ou de outro organismo público com personalidade jurídica, a definir por despacho do Ministro da Indústria e Energia.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DN 22/90: nova redação dos n.os 1 e 2 do art. 7.º (n.os 3 a 5 mantidos) - aplicado",
+    "DN 22/90: nova redação do n.º 2 do art. 8.º (n.os 1 e 3 mantidos) - aplicado",
+    "DN 22/90: nova redação do n.º 1 do art. 11.º (n.os 2 a 6 mantidos) - aplicado"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

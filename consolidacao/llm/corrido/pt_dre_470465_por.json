@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:470465:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 e 2 alteram apenas o quadro de pessoal anexo (criação de 1 lugar de assessor; alteração da carreira de secretário-recepcionista), que só existe em imagem; não há alteração textual ao corpo da portaria.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 916/84): cria 1 lugar de assessor no quadro anexo — quadro só em imagem, não aplicado.",
+    "Alterador 2 (Portaria 519/86): altera a carreira de secretário-recepcionista no mapa anexo — mapa só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

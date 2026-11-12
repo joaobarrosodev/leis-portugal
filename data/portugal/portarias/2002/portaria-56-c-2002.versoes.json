@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:436575:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-01-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "29642ada11b35901"
+   ]
+  },
+  {
+   "date": "2003-05-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:532438:por",
+     "title": "Portaria n.º 385/2003",
+     "published": "2003-05-14",
+     "dre_path": "/dr/detalhe/portaria/385-2003-532438"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "ad1d851453c7da21"
+   ]
+  }
+ ],
+ "fragments": {
+  "29642ada11b35901": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Janeiro\n\nPela [Portaria n.º 254-EJ/96](https://diariodarepublica.pt/dr/detalhe/portaria/254-ej-1996-157206), de 15 de Julho, foi concessionada à Associação de Caçadores da Freguesia da Cumieira a zona de caça associativa da Cumieira (processo n.º 1722-DGF), situada nos municípios de Ansião e Penela, com uma área de 1994 ha, válida até 15 de Maio de 2001.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 1 do artigo 36.º e no n.º 1 do artigo 114.º, do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, ouvido o Conselho Nacional da Caça e da Conservação da Fauna:\n\nManda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de seis anos, a concessão da zona de caça associativa da Cumieira (processo n.º 1722-DGF), abrangendo vários prédios rústicos sitos nas freguesia da Cumieira, município de Penela, com uma área de 1271,5940 ha, e na freguesia da Lagarteira, município de Ansião, com uma área de 719 ha, perfazendo uma área total de 1990,5940 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n2.º É revogada a [Portaria n.º 514/2001](https://diariodarepublica.pt/dr/detalhe/portaria/514-2001-344201), de 27 de Julho.\n\n3.º A presente portaria produz efeitos a partir do dia 16 de Maio de 2001.\n\nEm 9 de Janeiro de 2002.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural. - Pelo Ministro do Ambiente e do Ordenamento do Território, Manuel Pedro Cunha da Silva Pereira, Secretário de Estado do Ordenamento do Território e da Conservação da Natureza.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/01/011b01/00030003.pdf)"
+  },
+  "ad1d851453c7da21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2003-05-19",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 385/2003](https://diariodarepublica.pt/dr/detalhe/portaria/385-2003-532438), publicado em 2003-05-14."
+   ],
+   "markdown": "de 14 de Janeiro\n\nPela [Portaria n.º 254-EJ/96](https://diariodarepublica.pt/dr/detalhe/portaria/254-ej-1996-157206), de 15 de Julho, foi concessionada à Associação de Caçadores da Freguesia da Cumieira a zona de caça associativa da Cumieira (processo n.º 1722-DGF), situada nos municípios de Ansião e Penela, com uma área de 1994 ha, válida até 15 de Maio de 2001.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 1 do artigo 36.º e no n.º 1 do artigo 114.º, do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, ouvido o Conselho Nacional da Caça e da Conservação da Fauna:\n\nManda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa da Cumieira (processo n.º 1722-DGF), abrangendo vários prédios rústicos sitos na freguesia da Cumieira, município de Penela, com uma área de 1271,5940 ha, e na freguesia da Lagarteira, município de Ansião, com uma área de 719 ha, perfazendo uma área total de 1990,5940 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n> Alterado pelo/a [Portaria n.º 385/2003](https://diariodarepublica.pt/dr/detalhe/portaria/385-2003-532438), publicado em 2003-05-14.\n\n2.º É revogada a [Portaria n.º 514/2001](https://diariodarepublica.pt/dr/detalhe/portaria/514-2001-344201), de 27 de Julho.\n\n3.º A presente portaria produz efeitos a partir do dia 16 de Maio de 2001.\n\nEm 9 de Janeiro de 2002.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural. - Pelo Ministro do Ambiente e do Ordenamento do Território, Manuel Pedro Cunha da Silva Pereira, Secretário de Estado do Ordenamento do Território e da Conservação da Natureza.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/01/011b01/00030003.pdf)"
+  }
+ }
+}

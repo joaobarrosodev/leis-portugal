@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:444875:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 10,
+      "texto": "4.º Sem prejuízo do disposto nos números anteriores, a título excepcional e em casos devidamente fundamentados, poderá ainda ser admitida a aquisição de fogos pelos municípios cujos preços sejam superiores aos dos limites máximos fixados, mediante despacho conjunto de autorização dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.\n\n5.º No caso das aquisições de fogos a efectuar pelas famílias, nos termos do [Decreto-Lei n.º 79/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1996-431037), de 20 de Junho, é igualmente aplicável o disposto no número anterior, devendo, em qualquer caso, os respectivos pedidos ser objecto de parecer prévio favorável do Instituto de Gestão e Alienação do Património Habitacional do Estado.\n\n6.º O excesso verificado entre o valor de aquisição dos fogos e os limites de preços máximos fixados na presente portaria não releva em caso algum para efeitos de determinação do montante das comparticipações e financiamentos a conceder ao abrigo dos Decretos-Leis n.os [163/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1993-274242), de 7 de Maio, e [79/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1996-431037), de 20 de Junho, devendo ser suportado na sua totalidade pelos municípios ou pelas famílias adquirentes, consoante os casos.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 357/96) adita os n.os 4.º, 5.º e 6.º: inseridos depois da unidade 10 (3.º).",
+    "Alterador 2 é o mesmo diploma (Portaria 357/96) repetido: o aditamento já está feito pelo alterador 1, não se duplica."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "8.º É revogada a [Portaria n.º 725-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/725-b-1993-370260), de 10 de Agosto.",
+    "depois": "8.º É extinta a zona ALC-2, designada por Lagoa de Pataias, situada na freguesia de Pataias, município de Alcobaça, criada pela [Portaria n.º 725-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/725-b-1993-370260), de 10 de Agosto.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:499807:por",
+    "alterador": "pt:dre:423915:por"
+  }
+]

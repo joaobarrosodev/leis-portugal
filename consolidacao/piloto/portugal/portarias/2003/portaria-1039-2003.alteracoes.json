@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos, cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Resende, Cárquere, São Cipriano, Ovadas, Miomães, Freigil e São Romão, município de Resende, com a área de 3472 ha.",
+    "depois": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Resende, Cárquere, São Cipriano, Ovadas, Miomães, Freigil, São Romão e Panchorra, município de Resende, com a área de 3472 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:496698:por",
+    "alterador": "pt:dre:533832:por"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:444444:por",
+  "substituicoes": [
+    {
+      "de": 48,
+      "ate": 50,
+      "texto": "a) Teoria da Expressão Artística ... 10\n\nb) Técnicas Corporais da Expressão Artística ... 22\n\nc) Teoria e Metodologia da Dança ... 23",
+      "alterador": 1
+    },
+    {
+      "de": 54,
+      "ate": 54,
+      "texto": "a) Teoria do Rendimento Humano ... 22",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 766/85) dá nova redação aos n.os 2.4 e 2.5 do n.º 5.º: substituídas as alíneas a) a c) do 2.4 (unidades 48-50) e a alínea a) do 2.5 (unidade 54); as restantes ficam iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

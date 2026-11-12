@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:445535:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º O CSDM é uma unidade da Armada comandada por um capitão-de-mar-e-guerra, que fica directamente subordinado ao Chefe do Estado-Maior da Armada.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 472/74) dá nova redação ao n.º 2.º: unidade 7 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

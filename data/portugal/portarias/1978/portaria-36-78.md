@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-06-16'
+version_history:
+  file: portaria-36-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-01-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-06-16'
+    amending: pt:dre:395907:por
+    amending_title: Portaria n.º 584/82
+    changes:
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:39:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 584/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1978/portaria-36-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,6 +135,8 @@ d) Informação, constante do respectivo processo individual, de comandantes, di
 
 2.º No mapa que consta do artigo 16.º do EOA é introduzirá entre as especializações de informática e mergulhador, a especialização de hidrografia, a que corresponde a letra designativa H, e marinha como classe em que pode ser obtida.
 
-3.º Mediante proposta do director-geral do Instituto Hidrográfico, o Chefe do Estado-Maior da Armada pode considerar especializados em hidrografia os oficiais da classe de marinha que, à data da publicação desta portaria, por actividades anteriormente desenvolvidas no campo da hidrografia, tenham obtido conhecimentos julgados equivalentes aos ministrados no curso que confere a especialização.
+3.º Mediante proposta do director-geral do Instituto Hidrográfico, o Chefe do Estado-Maior da Armada pode considerar especializados em hidrografia os oficiais da classe de marinha que, à data do início do primeiro curso de especialização a realizar no Instituto Hidrográfico, tenham obtido conhecimentos julgados equivalentes aos ministrados no curso que confere a especialização.
+
+> Alterado pelo/a [Portaria n.º 584/82](https://diariodarepublica.pt/dr/detalhe/portaria/584-1982-395907), publicado em 1982-06-16.
 
 Estado-Maior da Armada, 5 de Janeiro de 1978. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante.

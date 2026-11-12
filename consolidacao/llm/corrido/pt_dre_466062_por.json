@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:466062:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 12,
+      "texto": "a) 20% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 40% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 20% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 20% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1358/2009 (alterador 2) só renova a zona de caça e a transferência de gestão por seis anos, com efeitos a 30 de outubro de 2009; não é uma alteração textual ao original.",
+  "instrucoes": [
+    "Portaria 742/2005: nova redação do n.º 3.º; o corpo (unidade 8) é igual, mudam as percentagens das alíneas a) a d), unidades 9 a 12 substituídas.",
+    "Portaria 1358/2009: renovação da zona de caça por seis anos; não textual, em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

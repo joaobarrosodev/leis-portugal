@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:514176:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 12,
+      "texto": "f) Almoxarife principal, para obras em edifícios, reparação de mobiliário e utensílios, aquisições de material e despesas com força motriz, luz, aquecimento, água, lavagens e limpeza ... 5000$00\n\ng) Chefes das circunscrições de exploração, das estações centrais e das redes de ambulâncias postais e condutores dos serviços de edifícios e mobiliário destacados nas circunscrições técnicas ... 1000$00",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 19879: nova redação das alíneas f) e g) — substituídas as unidades 11 e 12."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

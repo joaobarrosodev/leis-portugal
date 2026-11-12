@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-10-22'
+version_history:
+  file: portaria-840-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-08-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-10-22'
+    amending: pt:dre:400183:por
+    amending_title: Portaria n.º 810/84
+    changes:
+    - Altera Artigo unidades 15-19
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:52:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 810/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-840-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,15 +156,17 @@ Escalão IV - de 180001$00 a 210000$00.
 
 2.º Às classes de construção a que se refere o n.º 2 do artigo 2.º do mesmo decreto-lei correspondem os seguintes valores por metro quadrado:
 
-Classe A - até 15000$00;
+Classe A - até 17250$00;
 
-Classe B - de 15001$00 a 16000$00;
+Classe B - de 17251$00 a 18400$00;
 
-Classe C - de 16001$00 a 17000$00;
+Classe C - de 18401$00 a 19550$00;
 
-Classe D - de 17001$00 a 18000$00.
+Classe D - de 19551$00 a 20700$00.
 
-3.º Nos termos do artigo 3.º do mesmo diploma, o montante máximo dos empréstimos por fogo é de 1900000$00 e o valor máximo dos fogos financiáveis de 2100000$00.
+3.º Nos termos do artigo 3.º do mesmo diploma, o montante máximo de empréstimo por fogo é de 2200000$00 e o valor máximo dos fogos financiáveis e de 2400000$00.
+
+> Alterado pelo/a [Portaria n.º 810/84](https://diariodarepublica.pt/dr/detalhe/portaria/810-1984-400183), publicado em 1984-10-17.
 
 4.º Os valores por metro quadrado das classes de construção e o montante máximo dos fogos referidos nos n.os 2.º e 3.º desta portaria serão acrescidos de 35% quando se refiram a fogos situados nas Regiões Autónomas dos Açores e da Madeira.
 

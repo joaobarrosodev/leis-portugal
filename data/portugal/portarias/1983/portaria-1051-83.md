@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-11-03'
+version_history:
+  file: portaria-1051-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-11-03'
+    amending: pt:dre:220974:por
+    amending_title: Portaria n.º 640/86
+    changes:
+    - Altera Artigo unidades 29-46
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:31:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 640/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-1051-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,38 +188,34 @@ O Ministro da Educação, José Augusto Seabra.
 
 1 - Áreas científicas do curso:
 
-a) Matemáticas
+a) Matemática;
 
 b) Engenharia Geográfica.
 
-2 - Duração normal do curso:
+2 - Duração normal do curso - cinco anos lectivos.
 
-5 anos lectivos
-
-3 - Condições necessárias à concessão do grau:
-
-165 unidades de crédito
+3 - Condições necessárias à concessão do grau - 164 unidades de crédito.
 
 4 - Áreas científicas e distribuição das unidades de crédito:
 
-4.1 - Áreas científicas obrigatórias principais:
+4.1 - Obrigatórias:
 
-4.1.1 - Matemática ... 61
+4.1 1 - Matemática ... 60
 
 4.1.2 - Engenharia Geográfica ... 40
 
-4.2 - Áreas científicas obrigatórias afins:
+4.1.3 - Física ... 28
 
-4.2.1 - Física ... 28
+4.1.4 - Geologia ... 8
 
-4.2.2 - Geologia ... 8
+4.2 - Opcionais:
 
-4.3 - Áreas científicas principais:
+4.2.1 - Matemática ... 28
 
-4.3.1 - Matemática ... 28
+4.2.2 - Física ... 28
 
-4.3.2 - Física ... 28
+4.2.3 - Geologia ... 28
 
-4.3.3 - Geologia ... 28
+4.2.4 - Engenharia Geográfica ... 28
 
-4.3.4 - Engenharia Geográfica ... 28
+> Alterado pelo/a [Portaria n.º 640/86](https://diariodarepublica.pt/dr/detalhe/portaria/640-1986-220974), publicado em 1986-10-29.

@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.514 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.541 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -173,6 +173,7 @@ Destes 618, 592 ainda não foram pedidos.
 | 90 | 40 | 34 | 28 | 394 |
 | 91 | 40 | 23 | 19 | 355 |
 | 92 | 40 | 32 | 23 | 315 |
+| 93 | 40 | 28 | 27 | 275 |
 
 Na ronda 87, a Portaria 680/71 foi para `llm/exclusoes.json`, porque está revogada por inteiro pela Portaria 654/74. Dois diplomas da vista 001 ficaram sem resposta do verificador e não entram.
 
@@ -196,6 +197,12 @@ Na ronda 92 foram para as exclusões:
 - o PDM de Oeiras (RCM 15/94), porque o Aviso 10445/2015, provável revisão do PDM, vem sem texto;
 - a Portaria 704/2001, revogada por inteiro;
 - o Despacho Normativo 25/2002, porque o alterador só vem em extrato e a correspondência entre os blocos e os artigos seria adivinhada.
+
+Na ronda 93 foram para as exclusões:
+- o Despacho Normativo 26/2003, porque a republicação do DN 8-E/2004 diverge do texto em artigos que nenhuma instrução altera;
+- o acordo Intelsat (DL 124/72), porque a reestruturação de 2000 foi ratificada sem o texto publicado.
+
+Em dois pedidos o texto do alterador veio vazio, o DL 173/98 e a Portaria 1318/2005. É um problema da extração, que fica por rever.
 
 **O que isto quer dizer para o RAG.** O aviso "Texto original; alterado por…" mantém-se em todos os diplomas alterados sem versão consolidada, mesmo nos "sem alteração textual". Tirá-lo nesses casos faria o sistema responder com texto desatualizado em cerca de 14% a 28% deles (`rag/README.md`).
 

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:402275:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Vila de Ala, município de Mogadouro, com uma área de 1950 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 substitui também a planta anexa, que só vem em imagem; alterador 2 (Portaria n.º 754/2005) renova a concessão com área de 1940 ha sem dar nova redação a nenhum ponto do original: alteração não textual.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (área 1950 ha) - substituída a unidade 6; substituição da planta (imagem) não aplicada",
+    "Alterador 2: renovação com redução de área sem nova redação de texto - não aplicado (nao_aplicavel)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

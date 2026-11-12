@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:429385:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Maxial, município de Torres Vedras, com a área de 1618,2572 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 1079/2003): nova redação do n.º 1.º (área de 1618,2572 ha); substituída a unidade 7, mantendo a numeração 1.º.",
+    "Alterador 2 (Portaria 796/2006): renova e amplia a concessão da zona de caça; não contém instrução de alteração ao texto do original, nada a fazer."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

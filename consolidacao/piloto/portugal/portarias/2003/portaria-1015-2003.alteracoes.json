@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Aguieira, Canas de Senhorim, Carvalhal Redondo, Moreira, Nelas, Santar, Senhorim e Vilar Seco, município de Nelas, com a área de 7792,4070 ha.",
+    "depois": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Aguieira, Canas de Senhorim, Carvalhal Redondo, Moreira, Nelas, Santar, Senhorim, Vilar Seco e Lapa do Lobo, município de Nelas, com a área de 7792,4070 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:496954:por",
+    "alterador": "pt:dre:507234:por"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:442926:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 400/87) altera os n.os 3.º e 4.º da Portaria 843/81 (outro diploma; a 895/83 só é citada como alteração anterior): ignorado.",
+    "Alterador 2 (Portaria 1073/89) altera o n.º 4.º da Portaria 843/81 (outro diploma): ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

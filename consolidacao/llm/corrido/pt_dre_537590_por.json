@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:537590:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia de Zebreira, município de Idanha-a-Nova, com a área de 2304 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (n.º 2.º) substitui a planta anexa, que só existe em imagem; alterador 3 exclui terrenos (área passa a 526 ha) sem dar nova redação ao texto: ambos não textuais, não aplicados.",
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do n.º 2.º -> substituída a unidade 7 (mantido o número 2.º).",
+    "Alterador 1, n.º 2.º: substituição da planta anexa -> só em imagem, nao_aplicavel.",
+    "Alterador 2: renovação por seis anos -> sem alteração textual, nada a fazer.",
+    "Alterador 3: exclusão de terrenos e anexações a outras zonas -> sem nova redação do original, nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

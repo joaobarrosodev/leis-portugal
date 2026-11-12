@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-10-05'
+version_history:
+  file: portaria-352-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-08-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-10-05'
+    amending: pt:dre:213433:por
+    amending_title: Portaria n.º 523/96; Portaria n.º 523/96
+    changes:
+    - Adita Artigo depois da unidade 12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/352/1996/08/13/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:27:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 523/96; Portaria n.º
+    523/96. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-352-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,6 +164,12 @@ Manda o Governo, pelos Ministros das Finanças e do Equipamento, do Planeamento 
 3.º As zonas do País a que se refere o número anterior são as constantes do quadro anexo II.
 
 4.º Para os municípios das Regiões Autónomas dos Açores e da Madeira é aplicado o coeficiente 1,35 aos preços máximos dos fogos por tipologia para a zona I.
+
+5.º Sem prejuízo do disposto nos números anteriores, a título excepcional e em casos devidamente fundamentados, poderá ainda ser admitida a aquisição de fogos pelos municípios cujos preços sejam superiores aos dos limites máximos fixados, mediante despacho conjunto de autorização dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+
+6.º O excesso verificado entre o valor de aquisição dos fogos e os limites de preços máximos fixados na presente portaria não releva em caso algum para efeitos de determinação do montante das comparticipações e financiamentos a conceder ao abrigo do [Decreto-Lei n.º 226/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1987-418827), de 6 de Junho, e do [Decreto-Lei n.º 197/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1995-484576), de 29 de Julho, devendo ser suportado na sua totalidade pelos municípios adquirentes.
+
+> Aditado pelo/a [Portaria n.º 523/96](https://diariodarepublica.pt/dr/detalhe/portaria/523-1996-213433), publicado em 1996-09-30.
 
 Ministérios das Finanças e do Equipamento, do Planeamento e da Administração do Território.
 

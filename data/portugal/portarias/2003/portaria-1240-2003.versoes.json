@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:466070:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-10-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cdf9512507c94bee"
+   ]
+  },
+  {
+   "date": "2005-09-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:245318:por",
+     "title": "Portaria n.º 745/2005",
+     "published": "2005-08-29",
+     "dre_path": "/dr/detalhe/portaria/745-2005-245318"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 9-12"
+   ],
+   "fragments": [
+    "c36bdeb5ccf2cb41"
+   ]
+  }
+ ],
+ "fragments": {
+  "cdf9512507c94bee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Outubro\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Constância:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Constância - zona sul (processo n.º 3472-DGF), pelo período de seis anos, e transferida a sua gestão para a Câmara Municipal de Constância, com sede na Estrada Nacional n.º 3, 2250-028 Constância.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Santa Margarida da Coutada e Constância, município de Constância, com a área de 1550 ha.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 40% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 10% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 25% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 25% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva direcção regional de agricultura, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n7.º A sinalização da zona de caça deve obedecer ao disposto nas alíneas b) dos n.os 2.º e 3.º e nos n.os 4.º a 7.º da [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro, e ainda no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 8 de Outubro de 2003.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/10/251b00/72477247.pdf)"
+  },
+  "c36bdeb5ccf2cb41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2005-09-03",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 745/2005](https://diariodarepublica.pt/dr/detalhe/portaria/745-2005-245318), publicado em 2005-08-29."
+   ],
+   "markdown": "de 29 de Outubro\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Constância:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Constância - zona sul (processo n.º 3472-DGF), pelo período de seis anos, e transferida a sua gestão para a Câmara Municipal de Constância, com sede na Estrada Nacional n.º 3, 2250-028 Constância.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Santa Margarida da Coutada e Constância, município de Constância, com a área de 1550 ha.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 20% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 40% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 20% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 20% aos demais caçadores conforme é referido na alínea d) do citado artigo 16.º\n\n> Alterado pelo/a [Portaria n.º 745/2005](https://diariodarepublica.pt/dr/detalhe/portaria/745-2005-245318), publicado em 2005-08-29.\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva direcção regional de agricultura, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n7.º A sinalização da zona de caça deve obedecer ao disposto nas alíneas b) dos n.os 2.º e 3.º e nos n.os 4.º a 7.º da [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro, e ainda no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 8 de Outubro de 2003.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/10/251b00/72477247.pdf)"
+  }
+ }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:496698:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Resende, Cárquere, São Cipriano, Ovadas, Miomães, Freigil, São Romão e Panchorra, município de Resende, com a área de 3472 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria 1435/2009) renova a zona de caça e anexa terrenos com nova área e novas percentagens por portaria autónoma, sem dar nova redação a pontos do original; não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 467/2005): nova redação do n.º 2.º — substituída a unidade 7.",
+    "Alterador 2 (Portaria 1435/2009): renovação e anexação de terrenos, sem instrução textual sobre o original — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

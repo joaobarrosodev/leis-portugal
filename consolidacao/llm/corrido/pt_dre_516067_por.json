@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:516067:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 19297 torna o decreto-lei extensivo ao ultramar com adaptações (referência ao Regulamento da Sisa; prazo até 31 de Dezembro de 1962) que valem só para a sua aplicação no ultramar, não alteram o texto do original.",
+  "instrucoes": [
+    "1.º extensão ao ultramar: não altera o texto.",
+    "2.º leitura da referência ao Código da Sisa no ultramar: adaptação de aplicação, não aplicada.",
+    "3.º substituição do prazo no § único do art. 1.º para o ultramar: adaptação de aplicação, não aplicada ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

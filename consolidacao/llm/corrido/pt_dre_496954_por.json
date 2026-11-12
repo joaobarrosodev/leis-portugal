@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:496954:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Aguieira, Canas de Senhorim, Carvalhal Redondo, Moreira, Nelas, Santar, Senhorim, Vilar Seco e Lapa do Lobo, município de Nelas, com a área de 7792,4070 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria 530/2009) renova a zona de caça com nova área e novas percentagens por portaria autónoma, sem dar nova redação a pontos do original; não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 939/2004): nova redação do n.º 2.º — substituída a unidade 7.",
+    "Alterador 2 (Portaria 530/2009): renovação da zona de caça, sem instrução textual sobre o original — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

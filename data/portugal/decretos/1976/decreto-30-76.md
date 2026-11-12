@@ -29,10 +29,63 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-08-31'
+version_history:
+  file: decreto-30-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-01-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-08-31'
+    amending: pt:dre:548466:por
+    amending_title: Decreto n.º 33/95
+    changes:
+    - Altera Artigo unidades 16-28
+    - Altera Artigo unidades 34-35
+    - Altera Artigo unidades 37-37
+    - Altera Artigo unidades 48-48
+    - Adita Artigo depois da unidade 48
+    - Altera Artigo unidades 50-53
+    - Altera Artigo unidades 55-55
+    - Adita Artigo depois da unidade 55
+    - Altera Artigo unidades 57-57
+    - Altera Artigo unidades 61-67
+    - Altera Artigo unidades 70-74
+    - Altera Artigo unidades 80-82
+    - Altera Artigo unidades 84-87
+    - Altera Artigo unidades 89-89
+    - Altera Artigo unidades 94-96
+    - Altera Artigo unidades 103-104
+    - Altera Artigo unidades 110-111
+    - Altera Artigo unidades 137-137
+    - Altera Artigo unidades 144-146
+    - Altera Artigo unidades 149-159
+    - Altera Artigo unidades 163-163
+    - Altera Artigo unidades 206-206
+    - Altera Artigo unidades 211-211
+    - Altera Artigo unidades 212-212
+    - Altera Artigo unidades 219-219
+    - Altera Artigo unidades 235-247
+    - Altera Artigo unidades 253-254
+    - Altera Artigo unidades 256-256
+    - Altera Artigo unidades 268-268
+    - Adita Artigo depois da unidade 268
+    - Altera Artigo unidades 270-273
+    - Altera Artigo unidades 275-275
+    - Adita Artigo depois da unidade 275
+    - Altera Artigo unidades 279-279
+    - Altera Artigo unidades 284-290
+    - Altera Artigo unidades 294-298
+    - Altera Artigo unidades 306-308
+    - Altera Artigo unidades 310-313
+    - Altera Artigo unidades 315-315
+    - Altera Artigo unidades 321-323
 identifiers:
   celex: null
   eli: null
@@ -58,7 +111,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:41:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 33/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-30-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,31 +180,31 @@ os quais, após terem trocado os seus plenos poderes, reconhecidos em boa e devi
 
 ###### ARTIGO 1.º
 
-1. A presente Convenção aplica-se:
+1 - A presente Convenção aplica-se:
 
-A - Na Suíça:
+A) Na Suíça:
 
-a) À Legislação federal sobre o seguro de velhice e sobrevivência;
+a) À legislação federal sobre o seguro de velhice e sobrevivência;
 
 b) À legislação federal sobre o seguro de invalidez;
 
 c) À legislação federal sobre o seguro em caso de acidentes profissionais e não profissionais e de doenças profissionais;
 
-d) À legislação federal sobre o abono de família dos trabalhadores agrícolas e dos pequenos agricultores;
+d) À legislação federal sobre o abono de família para a agricultura;
 
 e) À legislação federal sobre o seguro de doença, unicamente no que respeita ao capítulo I do título III e aos títulos IV e V da presente Convenção.
 
-B - Em Portugal, às legislações relativas a:
+B) Em Portugal, às legislações relativas:
 
-a) Regimes gerais dos seguros de invalidez, velhice e morte-sobrevivência relativos tanto aos trabalhadores assalariados como aos trabalhadores autónomos;
+a) Ao regime geral de segurança social relativo às prestações no caso das eventualidades de doença, maternidade, doenças profissionais, invalidez, velhice, morte e encargos familiares, incluindo as prestações previstas no regime do seguro social voluntário;
 
-b) Acidentes de trabalho e doenças profissionais;
+b) Ao regime de reparação de danos resultantes de acidentes de trabalho;
 
-c) Prestações familiares;
+c) Aos regimes especiais em favor de determinadas categorias de trabalhadores no que respeita às prestações referidas na alínea a);
 
-d) Regime geral dos seguros de doença e maternidade, unicamente no que respeita ao capítulo I do título III e aos títulos IV e V da presente Convenção;
+d) Aos serviços oficiais de saúde.
 
-e) Regimes especiais de previdência social estabelecidos para certas categorias, na medida em que digam respeito às eventualidades enumeradas nas alíneas anteriores.
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 2. A presente Convenção é igualmente aplicável a todos os actos legislativos ou regulamentares que codifiquem, modifiquem ou completem as legislações enumeradas no n.º 1 do presente artigo.
 
@@ -162,13 +216,25 @@ b) Às disposições legais que cubram um novo ramo de segurança social, sob co
 
 ###### ARTIGO 2.º
 
-1. Sob reserva do disposto na presente Convenção e no seu Protocolo Final, os nacionais de uma das Partes Contratantes, assim como os seus familiares e os sobreviventes cujos direitos se relacionem com os referidos nacionais, estão sujeitos às obrigações e gozam dos benefícios da legislação da outra Parte nas mesmas condições que os nacionais desta mesma Parte.
+1 - Sob reserva do disposto na presente Convenção e no seu Protocolo Final, os nacionais de uma das Partes Contratantes, assim como os seus familiares e os sobreviventes cujos direitos se relacionem com os dos referidos nacionais, estão sujeitos às obrigações e gozam dos benefícios da legislação da outra Parte nas mesmas condições que os nacionais desta mesma Parte ou que os familiares e sobreviventes cujos direitos se relacionem com os dos referidos nacionais.
 
-2. O princípio da igualdade de tratamento enunciado no número anterior não é aplicável no que respeita às disposições legais suíças relativas ao seguro facultativo de pensões dos nacionais suíços no estrangeiro e às prestações de assistência pagas a pessoas idosas e a inválidos suíços que residam no estrangeiro.
+2 - O princípio da igualdade de tratamento enunciado no número anterior não é aplicável no que respeita às disposições legais suíças relativas:
+
+a) Ao seguro facultativo de pensões dos nacionais suíços no estrangeiro;
+
+b) Ao seguro de pensões dos nacionais suíços que trabalham no estrangeiro por conta de uma entidade patronal na Suíça;
+
+Ressalvando-se o artigo 5.º-A;
+
+c) Às prestações de assistência pagas a pessoas idosas e a inválidos suíços que residam no estrangeiro.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ###### ARTIGO 3.º
 
-Sob reserva do disposto na presente Convenção e no seu Protocolo Final, os nacionais suíços e portugueses que podem solicitar prestações a título das legislações enumeradas no artigo 1.º recebem essas prestações integralmente e sem qualquer restrição enquanto habitarem no território de uma das Partes Contratantes. Sob as mesmas reservas, as referidas prestações são concedidas por uma das Partes Contratantes aos nacionais da outra Parte que residam num terceiro país nas mesmas condições e na mesma medida que aos seus próprios nacionais residentes no mesmo país.
+Sob reserva do disposto na presente Convenção e no seu Protocolo Final, as pessoas referidas no n.º 1 do artigo 2.º que podem solicitar prestações pecuniárias a título das legislações enumeradas no artigo 1.º recebem essas prestações integralmente e sem qualquer restrição enquanto habitarem no território de uma das Partes Contratantes. Sob as mesmas reservas, as referidas prestações são concedidas por uma das Partes aos nacionais da outra, bem como, desde que os seus direitos se relacionem com os dos referidos nacionais, aos seus familiares e sobreviventes, que residam num terceiro país nas mesmas condições e na mesma medida que aos seus próprios nacionais ou seus familiares e sobreviventes residentes no mesmo terceiro país.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ## TÍTULO II — Legislação aplicável
 
@@ -190,25 +256,53 @@ b) Os trabalhadores assalariados das empresas de transportes que têm a sede no 
 
 c) Os trabalhadores assalariados de um serviço oficial enviados de uma das Partes para a outra estão sujeitos às disposições legais da Parte donde foram enviados;
 
-d) As alíneas a) e b) aplicam-se a todos os trabalhadores assalariados qualquer que seja a sua nacionalidade.
+d) As alíneas a) a c) aplicam-se a todos os trabalhadores assalariados qualquer que seja a sua nacionalidade.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
+
+###### Artigo 5.º-A
+
+Os nacionais de uma das Partes Contratantes contratados como membros da tripulação de um navio com pavilhão da outra Parte ficam segurados nos termos das disposições legais desta última.
+
+> Aditado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ###### ARTIGO 6.º
 
-1. Os nacionais de uma das Partes Contratantes enviados na qualidade de membros das missões diplomáticas e postos consulares dessa Parte para o território da outra estão sujeitos à legislação da primeira Parte.
+1 - Os nacionais de uma das Partes Contratantes enviados na qualidade de membros das missões diplomáticas e postos consulares dessa Parte para o território da outra estão sujeitos à legislação da primeira Parte.
 
-2. Os nacionais de uma das Partes contratados no território da outra para trabalharem numa missão diplomática ou num imposto consular da primeira Parte estão sujeitos à legislação da segunda Parte e podem optar pela aplicação da legislação da primeira Parte dentro dos três meses que se sigam ao início do seu emprego ou à data da entrada em vigor da presente Convenção.
+2 - Os nacionais de uma das Partes contratados no território da outra para trabalharem numa missão diplomática ou num posto consular da primeira Parte ficam segurados nos termos da legislação da segunda Parte e podem optar pela aplicação da legislação da primeira Parte dentro dos três meses que se sigam ao início do seu emprego ou à data da entrada em vigor da presente Convenção.
 
-3. O disposto no n.º 2 é aplicável por analogia aos nacionais de uma das Partes empregados ao serviço pessoal de uma das pessoas referidas no n.º 1.
+3 - O n.º 2 aplica-se por analogia:
 
-4. Os n.os 1 a 3 não são aplicáveis aos empregados dos membros honorários dos postos consulares.
+a) Aos nacionais de terceiros Estados empregados ao serviço de uma representação diplomática ou consular de uma das Partes Contratantes no território da outra Parte Contratante;
+
+b) Aos nacionais de uma das Partes e aos nacionais de terceiros Estados empregados no território da outra Parte ao serviço pessoal de um dos nacionais da primeira Parte referidos nos n.os 1 e 2.
+
+4 - Quando uma representação diplomática ou consular de uma das Partes ocupa pessoas que, em aplicação dos n.os 2 e 3 do presente artigo, estão seguradas nos termos da legislação da outra Parte, deve cumprir as obrigações em matéria de segurança social que a legislação da segunda Parte exige, em regra, às entidades patronais. Quando um nacional de uma das Partes Contratantes, referido nos n.os 1 e 2, emprega pessoas na acepção da frase anterior, o disposto nessa frase aplica-se por analogia ao referido nacional.
+
+5 - Os n.os 1 a 4 não são aplicáveis aos membros honorários dos postos consulares nem aos seus empregados.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ###### ARTIGO 7.º
 
-As autoridades competentes das duas Partes Contratantes podem, a requerimento dos interessados e, tratando-se de trabalhadores assalariados, com o consentimento da respectiva entidade patronal, estabelecer por acordo excepções às regras enunciadas nos artigos 4.º e 6.º
+As autoridades competentes das duas Partes Contratantes ou os organismos designados por essas autoridades podem, em favor dos interessados, estabelecer por acordo excepções às regras enunciadas nos artigos 4.º a 6.º
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
+
+###### Artigo 7.º-A
+
+1 - Quando uma pessoa exerce uma actividade lucrativa no território de uma Parte Contratante e continua sujeita à legislação da outra Parte nos termos dos artigos 5.º a 7.º, esta é igualmente aplicável ao cônjuge e aos filhos que residem com essa pessoa no território da primeira Parte desde que não exerçam uma actividade lucrativa no território desta Parte.
+
+2 - Quando, no caso referido no n.º 1, a legislação suíça é aplicável ao cônjuge e aos filhos, estes ficam abrangidos pelo seguro de velhice, sobrevivência e invalidez.
+
+> Aditado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ## TÍTULO III — Disposições particulares
 
-### CAPÍTULO I — Seguro de doença
+### CAPÍTULO I — Seguro de doença e de maternidade
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 #### SECÇÃO A — Aplicação da legislação suíça
 
@@ -216,33 +310,35 @@ As autoridades competentes das duas Partes Contratantes podem, a requerimento do
 
 A admissão no seguro de doença suíço é regulada nos termos seguintes:
 
-a) O nacional de uma das Partes Contratantes que transfira a sua residência de Portugal para a Suíça deve ser admitido, independentemente da sua idade, por uma das caixas de doença suíças reconhecidas, designadas pela autoridade competente suíça, e pode segurar-se tanto para efeito do subsídio diário como para o da assistência médica e medicamentosa, desde que:
+a) Uma pessoa, qualquer que seja a sua nacionalidade, que transfira a sua residência de Portugal para a Suíça deve ser admitida, independentemente da sua idade, por uma das caixas de doença suíças reconhecidas, designadas pela autoridade competente suíça, e pode segurar-se tanto para o efeito do subsídio pecuniário como para o dos cuidados de saúde, desde que:
 
-Tenha estado inscrito no seguro de doença português imediatamente antes da transferência de residência;
+Imediatamente antes da transferência da sua residência:
 
-Solicite a sua admissão numa caixa suíça dentro dos três meses contados da data a partir da qual deixou de estar inscrito obrigatoriamente no seguro português ou da sua partida de Portugal, se estiver a beneficiar de uma prestação concedida por um dos regimes portugueses de seguro de pensões enunciados no artigo 1.º, alínea B), da presente Convenção;
+Estivesse inscrita no seguro de doença português se o seguro na Suíça garantir um subsídio pecuniário;
 
-Satisfaça as demais prescrições estatutárias de admissão; e
+Pudesse beneficiar de prestações do Serviço Nacional de Saúde português se o seguro na Suíça garantir cuidados de saúde;
+
+Solicite a sua admissão numa caixa de doença suíça dentro dos três meses contados da data da transferência da sua residência;
+
+Satisfaça os outros requisitos estatutários de admissão;
 
 Não mude de residência unicamente com a finalidade de seguir um tratamento médico ou curativo;
 
-b) A esposa e os filhos menores de 20 anos de um nacional de uma das Partes Contratantes beneficiam do mesmo direito à admissão numa caixa de doença reconhecida, a título de assistência médica e medicamentosa, quando satisfaçam as condições enumeradas na alínea anterior, na qualidade de familiares a cargo do referido nacional;
+b) Os períodos durante os quais uma pessoa pôde beneficiar de prestações do Serviço Nacional de Saúde português e, relativamente aos subsídios pecuniários, os períodos de inscrição no seguro de doença português são tomados em consideração para a abertura do direito às prestações, exigindo-se todavia, no que se refere às prestações de maternidade, que a segurada tenha estado inscrita há três meses numa caixa de doença suíça.
 
-c) Os períodos de seguro cumpridos na segurança social portuguesa são tomados em consideração para a abertura do direito às prestações, exigindo-se, todavia, no que respeita às prestações de maternidade, que a segurada tenha estado inscrita desde há três meses numa caixa de doença suíça.
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 #### SECÇÃO B — Aplicação da legislação portuguesa
 
 ###### ARTIGO 9.º
 
-A admissão no seguro de doença português é regulada nos termos seguintes:
+Para efeitos de aquisição do direito às prestações de doença ou maternidade previstas na legislação portuguesa, aplicam-se as disposições seguintes se o interessado, qualquer que seja a sua nacionalidade, tiver cumprido um período de quotizações nos termos dessa legislação, após a última entrada em Portugal:
 
-a) O nacional de uma das Partes Contratantes que transfira a sua residência da Suíça para Portugal tem direito, bem como os seus familiares, às prestações dos seguros de doença e maternidade previstas pela legislação portuguesa, desde que:
+a) Os períodos de inscrição cumpridos numa caixa de doença suíça reconhecida antes da transferência de residência são considerados como períodos cumpridos ao abrigo da legislação portuguesa, desde que não se sobreponham e que não tenham passado mais de três meses entre a cessação da inscrição na caixa de doença suíça e a sujeição obrigatória à segurança social portuguesa;
 
-Tenha estado inscrito numa caixa de doença suíça reconhecida antes da transferência de residência;
+b) No caso das prestações de maternidade, a alínea anterior só se aplica se a segurada tiver efectuado quotizações nos termos da legislação portuguesa durante os três últimos meses anteriores à data em que essas prestações são consideradas.
 
-Tenha estado sujeito obrigatoriamente ao regime português de previdência social dentro dos três meses contados da data a partir da qual deixe de estar inscrito na caixa suíça;
-
-b) Os períodos de inscrição cumpridos numa caixa de doença suíça reconhecida são tomados em consideração para a abertura do direito às prestações, exigindo-se, todavia, no que respeita às prestações de maternidade, que a segurada tenha estado inscrita desde há três meses no regime português de previdência social.
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ###### ARTIGO 10.º
 
@@ -254,25 +350,29 @@ Um nacional suíço ou português ocupado em Portugal e que esteja a beneficiar 
 
 ###### ARTIGO 11.º
 
-1. Os nacionais portugueses que residam na Suíça podem solicitar as medidas de readaptação do seguro de invalidez suíço se, imediatamente antes do momento em que sobreveio a invalidez, tiverem pago quotizações para o seguro suíço durante um ano inteiro pelo menos.
+1 - Os nacionais portugueses que não exerçam actividade lucrativa podem beneficiar das medidas de readaptação enquanto residirem na Suíça e se, imediatamente antes do momento em que sobreveio a invalidez, tiverem residido na Suíça de maneira ininterrupta durante, pelo menos, um ano. Os filhos menores podem também beneficiar dessas medidas quando residam e tenham nascido inválidos ou residido de maneira ininterrupta desde o seu nascimento na Suíça. Uma estada fora da Suíça de, no máximo, três meses não interrompe a duração de residência na acepção da primeira e da segunda frases.
 
-2. As esposas e as viúvas de nacionalidade portuguesa que não exerçam actividade lucrativa, assim como os filhos menores da mesma nacionalidade que residam na Suíça, podem solicitar as medidas de readaptação do seguro de invalidez se, imediatamente antes do momento em que sobreveio a invalidez, tiverem residido na Suíça de maneira ininterrupta durante pelo menos um ano; os filhos menores podem também solicitar tais medidas quando residam e tenham nascido inválidos ou residido de maneira ininterrupta, desde o seu nascimento, na Suíça.
+2 - Os filhos nascidos inválidos em Portugal, cuja mãe esteja segurada na Suíça e não tenha permanecido em Portugal, no total, mais de dois meses antes do nascimento, são equiparados aos filhos nascidos inválidos na Suíça. O seguro de invalidez suíço toma a seu cargo as prestações no caso de doença congénita do filho, durante um período de três meses após o nascimento, na medida em que fosse obrigado a concedê-las na Suíça.
 
-3. Os trabalhadores sazonais portugueses segurados na Suíça que tenham pago quotizações ao seguro suíço durante dezoito meses, pelo menos, no decurso dos três anos anteriores ao momento em que sobreveio a invalidez e exercido uma actividade assalariada na Suíça imediatamente antes desse momento ou continuem a residir neste país de maneira duradoura após a cessação da sua actividade assalariada têm direito às medidas de readaptação do seguro de invalidez suíço necessárias à sua reintegração na vida económica suíça.
+3 - Os n.os 1 e 2 do presente artigo aplicam-se por analogia aos filhos nascidos inválidos fora do território das Partes Contratantes; nesse caso, todavia, o seguro de invalidez suíço só toma a seu cargo as prestações que devam ser concedidas de urgência no território do terceiro Estado devido ao estado de saúde do filho.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ###### ARTIGO 12.º
 
-1. Os nacionais portugueses têm direito às rendas ordinárias e aos subsídios a grandes inválidos do seguro de invalidez suíço, sob reserva do disposto nos n.os 2 e 3, nas mesmas condições que os nacionais suíços.
+1 - Para determinar os períodos de quotização que devem servir de base ao cálculo da renda ordinária do seguro de invalidez suíço devida a um nacional suíço ou português, os períodos de quotização e os períodos assimilados cumpridos segundo as disposições legais portuguesas são tomados em conta como períodos de quotização suíços desde que não se sobreponham a estes últimos. Só serão tomados em conta, para determinar o rendimento anual médio, os períodos de quotização suíços.
 
-2. As rendas ordinárias em favor dos segurados cujo grau de invalidez seja inferior a 50% não podem ser pagas aos nacionais portugueses que deixem definitivamente a Suíça. Quando um nacional português beneficiário de uma semi-renda ordinária do seguro de invalidez suíço resida no estrangeiro, a mesma renda continua a ser-lhe paga sem modificação se a invalidez de que sofre se agravar.
+2 - As rendas ordinárias de velhice ou de sobrevivência do seguro suíço que substituam uma renda de invalidez, fixada nos termos do número precedente, são calculadas na base das disposições legais suíças tomando em conta exclusivamente os períodos de quotização suíços. Serão, todavia, contados para determinar os períodos de quotização que devem servir de base ao cálculo das rendas suíças referidas os períodos de seguro português que, em conformidade com o disposto no artigo 20.º da Convenção e noutras convenções internacionais, não abrirem excepcionalmente direito a uma prestação portuguesa análoga.
 
-3. Para determinar os períodos de quotizações que devem servir de base ao cálculo da renda ordinária do seguro de invalidez suíço devida a um nacional suíço ou português, os períodos de quotização e os períodos assimilados cumpridos segundo as disposições legais portuguesas são tomados em conta como períodos de quotização suíços desde que não se sobreponham a estes últimos. Só serão tomados em conta, para determinar o rendimento anual médio, os períodos de quotização suíços.
-
-4. As rendas ordinárias de velhice ou de sobrevivência do seguro suíço que substituam uma renda de invalidez, fixada nos termos do número precedente, são calculadas na base das disposições legais suíças tomando em conta exclusivamente os períodos de quotização suíços. Serão, todavia, contados para determinar os períodos de quotização que devem servir de base ao cálculo das rendas suíças referidas os períodos de seguro português que, em conformidade com o disposto no artigo 20.º da Convenção e noutras convenções internacionais, não abrirem excepcionalmente direito a uma prestação portuguesa análoga.
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ###### ARTIGO 13.º
 
-São considerados como estando segurados no seguro de invalidez suíço os nacionais portugueses não domiciliados na Suíça que, em consequência de uma doença ou de um acidente, tenham sido forçados a abandonar a sua actividade na Suíça mas tenham residido neste país até à ocorrência da invalidez. Os mesmos devem pagar as quotizações como se tivessem o seu domicílio na Suíça.
+1 - Para a abertura do direito a uma prestação do seguro de invalidez suíço, o nacional português que, em consequência de uma doença ou de um acidente, tenha sido obrigado a abandonar a sua actividade lucrativa na Suíça, mas cujo estado de invalidez seja constatado neste país, é considerado como sendo segurado nos termos da legislação suíça por um período de um ano a contar da data da interrupção do trabalho seguida de invalidez e deve pagar as quotizações para o seguro de velhice, sobrevivência e invalidez suíço como se tivesse o seu domicílio na Suíça.
+
+2 - É igualmente considerado como segurado nos termos das disposições legais suíças o nacional português que beneficie de medidas de readaptação do seguro de invalidez suíço após a interrupção do trabalho.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ###### ARTIGO 14.º
 
@@ -282,11 +382,11 @@ Os nacionais portugueses têm direito às rendas extraordinárias do seguro de i
 
 ###### ARTIGO 15.º
 
-1. Os nacionais suíços têm direito às prestações do seguro de invalidez do regime português de previdência social nas mesmas condições que os nacionais portugueses.
+1 - Para a abertura do direito às prestações de invalidez portuguesas, assim como para o cálculo das mesmas prestações, os períodos de seguro cumpridos por um nacional suíço ou português em conformidade com as disposições legais suíças são tomados em consideração como períodos de quotização portugueses desde que não se sobreponham a estes últimos. Para a liquidação das prestações, o salário médio a tomar em consideração para o seu cálculo determina-se de acordo com os salários verificados durante o período de seguro cumprido ao abrigo da legislação portuguesa. Esta disposição apenas se aplica se a duração das quotizações no seguro português for pelo menos igual a 12 meses.
 
-2. Para a abertura do direito às prestações de invalidez portuguesas, assim como para o cálculo das mesmas prestações, os períodos de seguro cumpridos por um nacional suíço ou português em conformidade com as disposições legais suíças são tomados em consideração como períodos de quotização portugueses desde que não se sobreponham a estes últimos. Para a liquidação das prestações o salário médio a tomar em consideração para o seu cálculo determina-se de acordo com os salários verificados durante o período de seguro cumprido ao abrigo da legislação portuguesa. Esta disposição apenas se aplica se a duração das quotizações no seguro português for pelo menos igual a doze meses.
+2 - O disposto no número anterior é exclusivamente aplicável aos interessados inscritos obrigatoriamente no seguro português no momento em que, em consequência de doença ou acidente, sobreveio a interrupção de trabalho seguida de invalidez.
 
-3. O disposto no número anterior é exclusivamente aplicável aos interessados inscritos obrigatoriamente no seguro português no momento em que, em consequência de doença ou acidente, sobreveio a interrupção de trabalho seguida de invalidez.
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ###### ARTIGO 16.º
 
@@ -300,9 +400,11 @@ O segurado beneficiário de uma semi-renda ordinária do seguro de invalidez su�
 
 1. Os nacionais portugueses têm direito às rendas ordinárias e aos subsídios a grandes inválidos do seguro de velhice e sobrevivência suíço, sob reserva do n.º 3 do presente artigo, nas mesmas condições que os nacionais suíços.
 
-2. No caso de se elevar a menos de 10% da renda ordinária completa o montante da renda ordinária parcial que pode solicitar um nacional português não residente na Suíça, este apenas tem direito a uma indemnização única igual ao valor actual da renda devida. O nacional português que tenha beneficiado de semelhante renda parcial na Suíça e que se ausente definitivamente do território helvético recebe igualmente aquela indemnização.
+2 - No caso de se elevar a menos de 10% da renda ordinária completa o montante da renda ordinária parcial que pode solicitar um nacional português ou o seu sobrevivente que não resida na Suíça, o interessado apenas tem direito a uma indemnização única igual ao valor actual da renda devida. O interessado que tenha beneficiado de semelhante renda parcial na Suíça e que se ausente definitivamente do território helvético recebe igualmente aquela indemnização.
 
-Quando o montante da renda ordinária parcial seja superior a 10%, mas inferior a 20% da renda ordinária completa, o nacional português que não resida na Suíça ou que desta se ausente definitivamente pode escolher entre o pagamento da renda ou o de uma indemnização única. Esta opção deve efectuar-se, nos casos em que o segurado resida fora da Suíça, aquando do requerimento da renda, e, nos casos em que ele já tenha beneficiado de uma renda na Suíça, no momento em que ele se ausente deste País.
+Quando o montante da renda ordinária parcial seja superior a 10%, mas inferior a 20% da renda ordinária completa, o nacional português ou o seu sobrevivente que não resida na Suíça ou que desta se ausente definitivamente pode escolher entre o pagamento da renda ou o de uma indemnização única. Esta opção deve efectuar-se, nos casos em que o interessado resida fora da Suíça, durante o processo de fixação da renda e, nos casos em que ele já tenha beneficiado de uma renda na Suíça, no momento em que ele se ausente deste país.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 3. A indemnização única prevista no número anterior é igual ao valor actual da renda devida no momento da realização da eventualidade segurada nos termos da legislação suíça, ou ao valor actual desta renda no momento em que o beneficiário se ausente definitivamente da Suíça, quando a partida se situe após a concessão da renda.
 
@@ -314,9 +416,7 @@ Os nacionais portugueses têm direito às rendas extraordinárias do seguro de v
 
 #### SECÇÃO B — Aplicação da legislação portuguesa
 
-###### ARTIGO 19.º
-
-Os nacionais suíços têm direito às prestações dos seguros de velhice e sobrevivência nas mesmas condições que os nacionais portugueses.
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ###### ARTIGO 20.º
 
@@ -368,7 +468,9 @@ a) O organismo segurador competente em relação ao acidente de trabalho ou doen
 
 b) O organismo competente em relação ao novo acidente de trabalho ou à nova doença profissional determina a prestação segundo o grau de redução da capacidade de ganho resultante desse acidente de trabalho ou dessa doença profissional, de acordo com a legislação que lhe é aplicável.
 
-### CAPÍTULO V — Abono de família
+### CAPÍTULO V — Prestações familiares
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 #### SECÇÃO A — Aplicação da legislação suíça
 
@@ -382,27 +484,29 @@ b) O organismo competente em relação ao novo acidente de trabalho ou à nova d
 
 ###### ARTIGO 29.º
 
-1. Os trabalhadores suíços que habitam em Portugal são assimilados aos trabalhadores portugueses e podem solicitar em relação aos seus familiares que residam em Portugal os abonos de família e as prestações complementares previstos pela legislação portuguesa.
+1 - Os trabalhadores suíços que habitam em Portugal são assimilados aos trabalhadores portugueses e podem solicitar em relação aos seus familiares que residam em Portugal as prestações familiares nas condições previstas pela legislação portuguesa.
 
-2. Para a abertura do direito às prestações complementares, no caso de o trabalhador suíço ou português não justificar todo o período de seguro requerido pela legislação portuguesa, toma-se em conta o período de seguro cumprido na Suíça a fim de completar aquele período.
+2 - Para a abertura do direito às prestações familiares, no caso de o trabalhador suíço ou português não ter cumprido as condições de seguro exigidas pela legislação portuguesa, os períodos de seguro cumpridos na Suíça são tomados em consideração.
 
-3. Os trabalhadores suíços ou portugueses têm direito, durante o seu período de emprego em Portugal, aos abonos de família previstos pela legislação portuguesa por descendentes, em relação aos que residam na Suíça.
+3 - Os trabalhadores suíços ou portugueses têm direito, durante o seu período de emprego em Portugal, às prestações familiares pelos filhos a cargo que residam na Suíça, nas condições previstas pela legislação portuguesa.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ## TÍTULO IV — Disposições diversas
 
 ###### ARTIGO 30.º
 
-1. Para a aplicação da presente Convenção, o termo «autoridade competente» designa:
+1 - Para a aplicação da presente Convenção o termo «autoridade competente» designa:
 
 No que respeita à Suíça:
 
-A Administração Federal dos Seguros Sociais.
+A Administração Federal dos Seguros Sociais;
 
 No que respeita a Portugal:
 
-O Ministério dos Assuntos Sociais.
+O ministério da tutela para a matéria em questão;
 
-2. As autoridades competentes:
+2 - As autoridades competentes:
 
 a) Concluem todos os acordos administrativos necessários à aplicação da presente Convenção;
 
@@ -414,13 +518,17 @@ d) Podem, designadamente, acordar em que cada Parte Contratante designe organism
 
 e) Podem fixar de comum acordo disposições relativas à notificação de actos judiciais.
 
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
+
 ###### ARTIGO 31.º
 
 1. Para a aplicação da presente Convenção, as autoridades, os tribunais e as instituições competentes prestam-se mutuamente os seus bons ofícios como se se tratasse da aplicação da sua própria legislação.
 
 2. As autoridades competentes regulam de comum acordo os pormenores da colaboração recíproca, as modalidades de inspecção médica e administrativa dos beneficiários da presente Convenção, assim como a participação nas despesas dos exames médicos e inquéritos administrativos.
 
-3. As autoridades competentes não porão obstáculos à aplicação do seguro de velhice, sobrevivência e invalidez facultativo suíço e do seguro voluntário continuado português aos nacionais de uma das Partes no território da outra.
+3 - As autoridades competentes não porão obstáculos à aplicação do seguro de velhice, sobrevivência e invalidez facultativo suíço e do seguro voluntário português aos nacionais de uma das Partes no território da outra e, de modo particular, ao pagamento de quotizações para esses seguros e à liquidação das prestações daí decorrentes.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ###### ARTIGO 32.º
 
@@ -506,7 +614,9 @@ PROTOCOLO FINAL RELATIVO À CONVENÇÃO DE SEGURANÇA SOCIAL ENTRE A SUÍÇA E P
 
 Ao assinarem nesta data a Convenção de Segurança Social entre a Suíça e Portugal (a seguir designada por Convenção), os plenipotenciários abaixo assinados declaram o seu acordo sobre os pontos seguintes:
 
-1. Para efeito de aplicação da Convenção, o termo «território» designa, no que respeita à Suíça, o território da Confederação Suíça e, no que respeita a Portugal, o território da República Portuguesa.
+l - Para efeito de aplicação da Convenção, o termo «território» designa, no que respeita à Suíça, o território da Confederação Suíça e, no que respeita à República Portuguesa, o território de Portugal no continente europeu e os arquipélagos dos Açores e da Madeira.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 2. Para efeito de aplicação da Convenção, o termo «nacional» designa, no que respeita à Suíça, qualquer pessoa de nacionalidade suíça e, no que respeita a Portugal, qualquer pessoa de nacionalidade portuguesa.
 
@@ -516,9 +626,11 @@ Ao assinarem nesta data a Convenção de Segurança Social entre a Suíça e Por
 
 Aplica-se nas mesmas condições aos familiares e aos sobreviventes, desde que os seus direitos se fundamentem nos dos referidos refugiados ou apátridas. É feita reserva das disposições mais favoráveis da legislação nacional.
 
-5. As disposições da Convenção não serão aplicáveis à futura legislação federal suíça sobre a previdência profissional nem aos futuros regimes de pensões complementares portugueses.
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
-6. Em derrogação do disposto no artigo 3.º da Convenção, os subsídios a grandes inválidos da legislação federal suíça em matéria de seguro de invalidez, velhice e sobrevivência não são pagos aos beneficiários que residam fora da Suíça.
+6 - Em derrogação do disposto no artigo 3.º da Convenção, as rendas ordinárias do seguro de invalidez suíço, para os segurados cujo grau de invalidez seja inferior a 50%, bem como as rendas extraordinárias e os subsídios a grandes inválidos do seguro suíço de velhice, sobrevivência e invalidez não são pagos aos beneficiários que residam fora da Suíça.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 7. A entidade patronal, cujos trabalhadores portugueses ocupados na Suíça não estejam já a beneficiar de um seguro de assistência médica e medicamentosa no sentido da Lei Federal de 13 de Junho de 1911 sobre o seguro em caso de doença e acidentes, deve providenciar no sentido de eles o contratarem e, quando não o façam, deve contratá-lo em nome deles. A entidade patronal pode deduzir do salário dos mesmos trabalhadores a quotização relativa àquele seguro, sem prejuízo de diverso entendimento entre as partes interessadas.
 
@@ -532,7 +644,9 @@ Aplica-se nas mesmas condições aos familiares e aos sobreviventes, desde que o
 
 12. As disposições da Convenção relativas à colaboração administrativa e médica, assim como os artigos 33.º a 36.º da Convenção, aplicam-se igualmente, em Portugal, aos acidentes não profissionais cobertos pela instituição de seguro competente na Suíça.
 
-13. Constata-se, relativamente ao seguro contra os acidentes profissionais na agricultura, que os trabalhadores agrícolas portugueses beneficiam da igualdade de tratamento em relação aos trabalhadores suíços e que as prestações a que tenham adquirido direito lhes são pagas sem restrição, mesmo quando não residam na Suíça.
+13 - O n.º 1 do artigo 31.º da Convenção não é extensivo à colaboração em matéria de execução obrigatória.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 14. Constata-se que todos os cantões instituíram um regime de abonos de família em favor dos trabalhadores assalariados e que, segundo as disposições actualmente em vigor, os trabalhadores assalariados ocupados na Suíça têm igualmente direito aos abonos de família para os seus filhos que vivem fora da Suíça, qualquer que seja a sua nacionalidade.
 
@@ -564,31 +678,31 @@ Dispositions générales
 
 ARTICLE PREMIER
 
-1. La présente Convention s'applique:
+1 - La présente Convention s'applique:
 
-A - En Suisse:
+A) En Suisse:
 
-a) À la législation fédérale sur l'assurance-vieillesse et survivants;
+a) A la législation fédérale sur l'assurance-vieillesse et survivants;
 
-b) À la législation fédérale sur l'assurance-invalidité;
+b) A la législation fédérale sur l'assurance-invalidité;
 
-c) À la législation fédérale sur l'assurance en cas d'accidents professionnels et non professionnels et de maladies professionnelles;
+c) A la législation fédérale sur l'assurance en cas d'accidents professionnels et non professionnels et de maladies professionnelles;
 
-d) À la législation fédérale sur les allocations familiales aux travailleurs agricoles et aux petits paysans;
+d) A la législation fédérale sur les allocations familiales dans l'agriculture;
 
-e) À la législation fédérale sur l'assurance-maladie, uniquement en ce qui concerne le chapitre premier du titre III et les titres IV et V de la présente Convention.
+e) A la législation fédérale sur l'assurance-maladie, uniquement en ce qui concerne le chapitre premier du titre III et les titres IV et V de la présente Convention.
 
-B - Au Portugal, aux législations concernant:
+B) Au Portugal, aux législations concernant:
 
-a) Les régimes généraux des assurances invalidité, vieillesse et décès-survivants concernant tant les travailleurs salariés que les travailleurs autonomes;
+a) Le régime général de sécurité sociale relatif aux prestations dans les éventualités de maladie, maternité, maladies professionnelles, invalidité, vieillesse, décès et charges de famille, y compris les prestations prévues par le régime de l'assurance sociale volontaire;
 
-b) Les accidents du travail et les maladies professionnelles;
+b) Le régime de réparation des dommages résultant d'accidents du travail;
 
-c) Les prestations familiales;
+c) Les régimes spéciaux en faveur de certaines catégories de travailleurs en ce qui concerne les prestations visées à l'alinéa a);
 
-d) Le régime général de l'assurance-maladie et maternité, uniquement en ce qui concerne le chapitre premier du titre III et les titres IV et V de la présente Convention;
+d) Les services de santé officiels.
 
-e) Les régimes spéciaux de prévoyance sociale établis pour certaines catégories, dans la mesure où ils concernent les éventualités énumérées aux alinéas précédents.
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 2. La présente Convention s'applique également à tous les actes législatifs ou réglementaires qui codifient, modifient ou complètent les législations énumérées au paragraphe premier du présent article.
 
@@ -600,13 +714,25 @@ b) Aux dispositions légales couvrant une nouvelle branche de la sécurité soci
 
 ARTICLE 2
 
-1. Sous réserve des dispositions de la présente Convention et de son Protocole final, les ressortissants de l'une des Parties contractantes, ainsi que les membres de leur famille et les survivants dont les droits dérivent desdits ressortissants, sont soumis aux obligations et admis au bénéfice de la législation de l'autre Partie dans les mêmes conditions que les ressortissants de cette Partie.
+1 - Sous réserve des dispositions de la présente Convention et de son Protocole final, les ressortissants de l'une des Parties contractantes, ainsi que les membres de leur famille et les survivants dont les droits dérivent desdits ressortissants, sont soumis aux obligations et admis au bénéfice de la législation de l'autre Partie dans les mêmes conditions que les ressortissants de cette Partie ou les membres de leur famille et les survivants dont les droits dérivent desdits ressortissants.
 
-2. Le principe de l'égalité de traitement énoncé au paragraphe premier n'est pas applicable en ce qui concerne les dispositions légales suisses relatives à l'assurance-pensions facultative des ressortissants suisses à l'étranger et aux prestations de secours versées à des personnes âgées et à des invalides suisses résidant à l'étranger.
+2 - Le principe de l'égalite de traitement énoncé au paragraphe premier n'est pas applicable en ce qui concerne les dispositions légales suisses relatives:
+
+a) A l'assurance-pensions facultative des ressortissants suisses à l'étranger;
+
+b) A l'assurance-pensions des ressortissants suisses qui travaillent à l'étranger pour le compte d'un employeur en Suisse;
+
+L'article 5-A est réservé;
+
+c) Aux prestations de secours versées à des personnes âgées et à des invalides suisses résidant à l'étranger.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ARTICLE 3
 
-Sous réserve des dispositions de la présente Convention et de son Protocole final, les ressortissants suisses et portugais qui peuvent prétendre des prestations au titre des législations énumérées à l'article premier reçoivent ces prestations intégralement et sans restriction aucune, aussi longtemps qu'ils habitent sur le territoire de l'une des Parties contractantes. Sous les mêmes réserves, lesdites prestations sont accordées par l'une des Parties contractantes aux ressortissants de l'autre Partie qui résident dans un pays tiers aux mêmes conditions et dans la même mesure qu'à ses propres ressortissants résidant dans ce pays.
+Sous réserve des dispositions de la présente Convention et de son Protocole final, les personnes mentionnées à l'article 2, paragraphe 1, qui peuvent prétendre des prestations en espèces au titre des législations énumérées à l'article premier reçoivent ces prestations intégralement et sans restriction aucune, aussi longtemps qu'elles habitent sur le territoire de l'une des Parties contractantes. Sous les mêmes réserves, lesdites prestations sont accordées par l'une des Parties aux ressortissants de l'autre, ainsi que, en tant que leurs droits dérivent desdits ressortissants, aux membres de leur famille et à leurs survivants qui résident dans un pays tiers, aux mêmes conditions et dans la même mesure qu'à ses propres ressortissants ou aux membres de leur famille et à leurs survivants résidant dans ce pays tiers.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 TITRE II
 
@@ -630,21 +756,47 @@ b) Les travailleurs salariés des entreprises de transport ayant leur siège sur
 
 c) Les travailleurs salariés d'un service officiel détachés de l'une des Parties dans l'autre sont soumis aux dispositions légales de la Partie d'où ils sont détachés;
 
-d) Les alinéas a) et b) s'appliquent à tous les travailleurs salariés, quelle que soit leur nationalité.
+d) Les alinéas a) à c) s'appliquent à tous les travailleurs salariés, quelle que soit leur nationalité.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
+
+Article 5-A
+
+Les ressortissants de l'une des Parties contractantes engagés comme membres de l'équipage d'un navire battant pavillon de l'autre Partie sont assurés selon les dispositions légales de cette dernière.
+
+> Aditado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ARTICLE 6
 
-1. Les ressortissants de l'une des Parties contractantes envoyés comme membres des missions diplomatiques et postes consulaires de cette Partie sur le territoire de l'autre sont soumis à la législation de la première Partie.
+1 - Les ressortissants de l'une des Parties contractantes envoyés comme membres des missions diplomatiques et postes consulaires de cette Partie sur le territoire de l'autre sont soumis à la législation de la première Partie.
 
-2. Les ressortissants de l'une des Parties qui sont engagés sur le territoire de l'autre pour des travaux dans une mission diplomatique ou un poste consulaire de la première Partie sont soumis à la législation de la seconde Partie. Ils peuvent opter pour l'application de la législation de la première Partie dans les trois mois suivant le début de leur emploi ou la date de l'entrée en vigueur de la présente Convention.
+2 - Les ressortissants de l'une des Parties qui sont engagés sur le territoire de l'autre pour des travaux dans une mission diplomatique ou un poste consulaire de la première Partie sont assurés selon la legislation de la seconde Partie. Ils peuvent opter pour l'application de la législation de la première Partie dans les trois mois suivant le début de leur emploi ou la date de l'entrée en vigueur de la présente Convention.
 
-3. Les dispositions du paragraphe 2 sont applicables par analogie aux ressortissants de l'une des Parties qui sont employés au service personnel d'une des personnes visées au paragraphe premier.
+3 - Le paragraphe 2 s'applique par analogie:
 
-4. Les paragraphes 1 à 3 ne sont pas applicables aux employés des membres honoraires des postes consulaires.
+a) Aux ressortissants d'Etats tiers, qui sont employés au service d'une représentation diplomatique ou consulaire de l'une des Parties contractantes sur le territoire de l'autre Partie contractante;
+
+b) Aux ressortissants de l'une des Parties et aux ressortissants d'Etats tiers, qui sont employés sur le territoire de l'autre Partie au service personnel d'un des ressortissants de la première Partie visés aux paragraphes 1 et 2.
+
+4 - Lorsqu'une représentation diplomatique ou consulaire de l'une des Parties occupe des personnes qui, en application des paragraphes 2 et 3 du présent article, sont assurées selon la législation de l'autre Partie, elle doit se conformer aux obligations que la législation de la seconde Partie impose en règle générale en matière de sécurité sociale aux employeurs. Lorsqu'un ressortissant de l'une des Parties contractantes, mentionné aux paragraphes 1 et 2, emploie des personnes au sens de la phrase précédente, celle-ci s'applique par analogie audit ressortissant.
+
+5 - Les paragraphes 1 à 4 ne sont pas applicables aux membres honoraires des postes consulaires et à leurs employés.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ARTICLE 7
 
-Les autorités compétentes des deux Parties contractantes peuvent, à la requête des personnes intéressées et, s'il s'agit de travailleurs salariés, avec l'assentiment de leur employeur, convenir des exceptions aux règles énoncées aux articles 4 à 6.
+Les autorités compétentes des deux Parties contractantes ou les organismes désignés par ces autorités peuvent convenir des exceptions aux règles énoncées aux articles 4 à 6, en faveur des personnes intéressées.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
+
+Article 7-A
+
+1 - Lorsqu'une personne exerce une activité lucrative sur le territoire d'une Partie contractante et continue à être soumise à la législation de l'autre Partie selon les articles 5 à 7, cela est également applicable au conjoint et aux enfants qui résident avec ladite personne sur le territoire de la première Partie, pour autant qu'ils n'exercent pas d'activité lucrative sur le territoire de cette Partie.
+
+2 - Lorsque, dans le cas visé au paragraphe premier, la législation suisse est applicable au conjoint et aux enfants, ils sont assurés dans l'assurance-vieillesse, survivants et invalidité.
+
+> Aditado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 TITRE III
 
@@ -652,7 +804,9 @@ Dispositions particulières
 
 CHAPITRE PREMIER
 
-Assurance-maladie
+Assurance-maladie et assurance-maternité
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 SECTION A
 
@@ -662,19 +816,23 @@ ARTICLE 8
 
 L'accès à l'assurance-maladie suisse est facilité de la manière suivante:
 
-a) Lorsqu'un ressortissant de l'une des Parties contractantes transfère sa résidence du Portugal en Suisse, il doit être admis indépendamment de son âge par l'une dos caisses-maladie suisses reconnues désignées par l'autorité compétente suisse et il peut s'assurer tant pour une indemnité journalière que pour les soins médicaux et pharmaceutiques, à condition:
+a) Lorsqu'une personne, quelle que soit sa nationalité, transfère sa résidence du Portugal en Suisse, elle doit être admise indépendamment de son âge par l'une des caisses-maladie suisses reconnues désignées par l'autorité compétente suisse et elle peut s'assurer tant pour une indemnité journalière que pour les soins médicaux et pharmaceutiques, à condition:
 
-Qu'il ait été affilié à l'assurance-maladie portugaise immédiatement avant le transfert de résidence;
+Qu'immédiatement avant son transfert de résidence:
 
-Qu'il demande son admission dans une caisse suisse dans les trois mois à compter de la date à partir de laquelle il cesse d'être affilié obligatoirement à l'assurance portugaise ou de son départ du Portugal, s'il est au bénéfice d'une prestation servie par l'un des régimes portugais d'assurance-pensions énoncés à l'article premier, lettre B, de la présente Convention;
+Elle ait été affiliée à l'assurance-maladie portugaise si l'assurance en Suisse porte sur une indemnité journalière;
 
-Qu'il remplisse les autres prescriptions statutaires d'admission; et
+Elle ait pu prétendre des prestations du Service national de santé portugais si l'assurance en Suisse porte sur les soins médicaux et pharmaceutiques;
 
-Qu'il ne change pas de résidence uniquement aux fins de suivre un traitement médical ou curatif.
+Qu'elle demande son admission dans une caisse-maladie suisse dans les trois mois à compter de son transfert de résidence;
 
-b) L'épouse et les enfants de moins de vingt ans d'un ressortissant de l'une des Parties contractantes bénéficient du même droit à l'admission dans une caisse-maladie reconnue, au titre des soins médicaux et pharmaceutiques, lorsqu'ils satisfont aux conditions énoncées ci-dessus, en tant que membres de la famille à charge dudit ressortissant;
+Qu'elle remplisse les autres prescriptions statutaires d'admission;
 
-c) Les périodes d'assurance accomplies dans la sécurité sociale portugaisse sont prises en considération pour l'ouverture du droit aux prestations à la condition toutefois, en ce qui concerne les prestations de maternité, que l'assurée ait été affiliée depuis trois à une caisse-maladie suisse.
+Qu'elle ne change pas de résidence uniquement aux fins de suivre un traitement médical ou curatif.
+
+b) Les périodes pendant lesquelles une personne pouvait prétendre des prestations du Service national de santé portugais et, pour les indemnités journalières, les périodes d'affiliation a l'assurance-maladie portugaise, sont prises en considération pour l'ouverture du droit aux prestations, à la condition toutefois, en ce qui concerne les prestations de maternité, que l'assurée ait été affiliée depuis trois mois à une caisse-maladie suisse.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 SECTION B
 
@@ -682,15 +840,13 @@ Application de la législation portugaise
 
 ARTICLE 9
 
-L'accès à l'assurance-maladie portugaise est facilité de la manière suivante:
+Pour l'ouverture du droit aux prestations de maladie ou maternité prévues par la législation portugaise, la réglementation suivante est applicable lorsque la personne concernée, quelle que soit sa nationalité, a accompli une période de cotisations conformément à cette législation après sa dernière entrée au Portugal:
 
-a) Lorsqu'un ressortissant de l'une des Parties contractantes transfère sa résidence de Suisse au Portugal, il a droit, pour lui-même et pour les membres de sa famille, aux prestations des assurances maladie et maternité prévues par la législation portugaise, à condition:
+a) Les périodes d'affiliation accomplies dans une caisse-maladie suisse reconnue avant le transfert de résidence sont prises en considération comme des périodes accomplies conformément à la législation portugaise, à condition que ces périodes ne se superposent pas et qu'il ne se soit pas écoulé plus de trois mois entre la cessation de l'affiliation à la caisse-maladie suisse et l'assujettissement obligatoire à la sécurité sociale portugaise;
 
-Qu'il ait été affillié à une caisse-maladie suisse reconnue avant le transfert de résidence;
+b) En ce qui concerne les prestations de maternité, le paragraphe précédent n'est applicable que si l'assurée a versé des cotisations conformément à la législation portugaise durant les trois derniers mois précédant la date à laquelle ces prestations entrent en considération.
 
-Qu'il ait été assujetti obligatoirement au régime portugais de prévoyance sociale dans les trois mois à compter de la cessation de son affiliation à la caisse suisse.
-
-b) Les périodes d'affiliation accomplies dans une caisse-maladie suisse reconnue sont prises en considération pour l'ouverture du droit à prestations à la condition toutefois, en ce qui concerne les prestations de maternité, que l'assurée ait été inscrite depuis trois mois au régime portugais de prévoyance sociale.
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ARTICLE 10
 
@@ -706,25 +862,29 @@ Application de la législation suisse
 
 ARTICLE 11
 
-1. Les ressortissants portugais qui résident en Suisse peuvent prétendre les mesures de réadaptation de l'assurance-invalidité suisse si, immédiatement avant le moment où est survenue l'invalidité, ils ont payé des cotisations à l'assurance suisse pendant une année entière au moins.
+1 - Les ressortissants portugais qui n'exercent pas d'activité lucrative peuvent prétendre les mesures de réadaptation aussi longtemps qu'ils résident en Suisse et si, immédiatement avant le moment où est survenue l'invalidité, ils ont résidé en Suisse de manière ininterrompue pendant une année au moins. Les enfants mineurs peuvent en outre prétendre de telles mesures lorsqu'ils résident en Suisse et y sont nés invalides ou y ont résidé de manière ininterrompue depuis leur naissance. Un séjour hors de Suisse de trois mois au maximum n'interrompt pas la durée de résidence au sens des première et deuxième phrases.
 
-2. Les épouses et les veuves de nationalité portugaise qui n'exercent pas d'activité lucrative, ainsi que les enfants mineurs de même nationalité qui résident en Suisse peuvent prétendre les mesures de réadaptation de l'assurance-invalidité si, immédiatement avant le moment où est survenue l'invalidité, ils ont résidé en Suisse de manière ininterrompue pendant une année au moins; les enfants mineurs peuvent en outre prétendre de telles mesures lorsqu'ils résident en Suisse et y sont nés invalides ou y ont résidé de manière ininterrompue depuis leur naissance.
+2 - Les enfants nés invalides au Portugal dont la mère est assurée en Suisse et n'a pas séjourné au Portugal pendant plus de deux mois en tout avant la naissance, sont assimilés aux enfants nés invalides en Suisse. L'assurance-invalidité suisse prend les prestations en cas d'infirmité congénitale de l'enfant à sa charge pendant une durée de trois mois après la naissance dans la mesure où elle aurait été tenue de les accorder en Suisse.
 
-3. Les saisonniers portugais assurés en Suisse qui ont versé des cotisations à l'assurance suisse pendant dix-huit mois au moins au cours des trois ans précédant le moment où survient l'invalidité et qui ont exercé une activité salariée en Suisse immédiatement avant ce moment ou qui continuent à y résider d'une manière durable après la cessation de leur activité salariée ont droit aux mesures de réadaptation de l'assurance-invalidité suisse nécessaires à leur réintégration dans la vie économique suisse.
+3 - Les paragraphes 1 et 2 du présent article sont applicables par analogie aux enfants nés invalides hors du territoire des Parties contractantes; dans ce cas, l'assurance-invalidité suisse ne prend toutefois les prestations à sa charge que si elles doivent être accordées d'urgence sur le territoire de l'Etat tiers en raison de l'état de santé de l'enfant.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ARTICLE 12
 
-1. Les ressortissants portugais ont droit aux rentes ordinaires et aux allocations pour impotents de l'assurance-invalidité suisse, sous réserve des paragraphes 2 et 3, aux mêmes conditions que les ressortissants suisses.
+1 - Pour déterminer les périodes de cotisations qui doivent servir de base au calcul de la rente ordinaire de l'assurance-invalidité suisse due à un ressortissant suisse ou portugais, les périodes de cotisations et les périodes assimilées accomplies selon les dispositions légales portugaises sont prises en compte comme des périodes de cotisations suisses en tant qu'elles ne se superposent pas à ces dernières. Seules les périodes de cotisations suisses sont prises en compte pour déterminer le revenu annuel moyen.
 
-2. Les rentes ordinaires pour les assurés dont le degré d'invalidité est inférieur à cinquante pour cent ne peuvent pas être versées aux ressortissants portugais qui quittent définitivement la Suisse. Lorsqu'un ressortissant portugais bénéficiaire d'une demi-rente ordinaire de l'assurance-invalidité suisse réside à l'étranger, cette rente continue de lui être versée sans modification si l'invalidité dont il souffre subit une aggravation.
+2 - Les rentes ordinaires de vieillesse ou de survivants de l'assurance suisse venant se substituer à une rente d'invalidité, fixée selon le paragraphe précédent, sont calculées sur la base des dispositions légales suisses compte tenu exclusivement des périodes de cotisations suisses. Si toutefois les périodes d'assurance portugaise, compte tenu de l'article 20 de la Convention et des dispositions d'autres Conventions internationales, n'ouvrent exceptionnellement pas droit à une prestation portugaise analogue, elles sont également prises en compte pour déterminer les périodes de cotisations qui doivent servir de base au calcul des rentes suisses susmentionnées.
 
-3. Pour déterminer les périodes de cotisations qui doivent servir de base au calcul de la rente ordinaire de l'assurance-invalidité suisse due à un ressortissant suisse ou portugais, les périodes de cotisations et les périodes assimilées accomplies selon les dispositions légales portugaises sont prises en compte comme des périodes de cotisations suisses en tant qu'elles ne se superposent pas à ces dernières. Seules les périodes de cotisations suisses sont prises en compte pour déterminer le revenu annuel moyen.
-
-4. Les rentes ordinaires de vieillesse ou de survivants de l'assurance suisse venant se substituer à une rente d'invalidité, fixée selon le paragraphe précédent, sont calculées sur la base des dispositions légales suisses compte tenu exclusivement des périodes de cotisations suisses. Si toutefois les périodes d'assurance portugaise, compte tenu de l'article 20 de la Convention et des dispositions d'autres conventions internationales, n'ouvrent exceptionnellement pas droit à une prestation portugaise analogue, elles sont également prises en compte pour déterminer les périodes de cotisations qui doivent servir de base au calcul des rentes suisses susmentionnées.
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ARTICLE 13
 
-Sont considérés comme étant assurés à l'assurance-invalidité suisse les ressortissants portugais non domiciliés en Suisse qui, à la suite d'une maladie ou d'un accident, ont dû abandonner leur activité en Suisse mais demeurent dans ce pays jusqu'à la survenance de l'invalidité. Ils doivent acquitter les cotisations comme s'ils avaient leur domicile en Suisse.
+1 - Pour l'ouverture du droit à une prestation de l'assurance-invalidité suisse, le ressortissant portugais contraint d'abandonner son activité lucrative en Suisse à la suite d'une maladie ou d'un accident, mais dont l'état d'invalidité est constaté dans ce pays, est considéré comme étant assuré au sens de la législation suisse pour une durée d'une année à compter de la date de l'interruption de travail suivie d'invalidité et doit acquitter les cotisations à l'assurance-vieillesse, survivants et invalidité suisse comme s'il avait son domicile en Suisse.
+
+2 - Est également considéré comme assuré au sens des dispositions légales suisses le ressortissant portugais qui bénéficie de mesures de réadaptation de l'assurance-invalidité suisse après l'interruption de travail.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ARTICLE 14
 
@@ -736,11 +896,11 @@ Application de la législation portugaise
 
 ARTICLE 15
 
-1. Les ressortissants suisses ont droit aux prestations de l'assurance-invalidité du régime portugais de prévoyance sociale aux mêmes conditions que les ressortissants portugais.
+1 - Pour l'ouverture du droit aux prestations d'invalidité portugaises ainsi que pour le calcul desdites prestations, les périodes d'assurance accomplies par un ressortissant suisse ou portugais selon les dispositions légales suisses sont prises en compte comme des périodes de cotisations portugaises en tant qu'elles ne se superposent pas à ces dernières. Lors de la liquidation des prestations, le salaire moyen pris en considération pour leur calcul est déterminé d'après les salaires constatés pendant la période d'assurance accomplie sous la législation portugaise. Cette disposition ne s'applique que si la durée de cotisations dans les assurances portugaises est au moins égale à douze mois.
 
-2. Pour l'ouverture du droit aux prestations d'invalidité portugaises ainsi que pour le calcul desdites prestations, les périodes d'assurance accomplies par un ressortissant suisse ou portugais selon les dispositions légales suisses sont prises en compte comme des périodes de cotisations portugaises en tant qu'elles ne se superposent pas à ces dernières. Lors de la liquidation des prestations, le salaire moyen pris en considération pour leur calcul est déterminé d'après les salaires constatés pendant la période d'assurance accomplie sous la législation portugaise. Cette disposition ne s'applique que si la durée de cotisations dans les assurances portugaises est au moins égale à douze mois.
+2 - Les dispositions du paragraphe précédent ne sont applicables qu'aux intéressés qui sont affiliés obligatoirement à l'assurance portugaise au moment où, par suite de maladie ou accident, est survenue l'interruption de travail suivie d'invalidité.
 
-3. Les dispositions du paragraphe précédent ne sont applicables qu'aux intéressés qui sont affiliés obligatoirement à l'assurance portugaise au moment où, par suite de maladie ou accident, est survenue l'interruption de travail suivie d'invalidité.
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ARTICLE 16
 
@@ -758,9 +918,11 @@ ARTICLE 17
 
 1. Les ressortissants portugais ont droit aux rentes ordinaires et aux allocations pour impotents de l'assurance-vieillesse et survivants suisse, sous réserve du paragraphe 3 du présent article, aux mêmes conditions que les ressortissants suisses.
 
-2. Lorsque le montant de la rente ordinaire partielle que peut prétendre un ressortissant portugais qui ne réside pas en Suisse s'élève à moins de dix pour cent de la rente ordinaire complète, ledit ressortissant portugais n'a droit qu'à une indemnité unique égale à la valeur actuelle de la rente due. Le ressortissant portugais qui a bénéficié d'une pareille rente partielle en Suisse et qui quitte définitivement le territoire helvétique reçoit également une telle indemnité.
+2 - Lorsque le montant de la rente ordinaire partielle que peut prétendre un ressortissant portugais ou son survivant qui ne réside pas en Suisse s'élève à moins de dix pour cent de la rente ordinaire complète, l'intéressé n'a droit qu'à une indemnité unique égale à la valeur actuelle de la rente due. L'intéressé qui a bénéficié d'une pareille rente partielle en Suisse et qui quitte définitivement le territoire helvétique reçoit également une telle indemnité.
 
-Lorsque le montant de la rente ordinaire partielle est supérieur à dix pour cent mais inférieur à vingt pour cent de la rente ordinaire complète, le ressortissant portugais qui ne réside pas en Suisse ou qui la quitte définitivement peut choisir entre le versement de la rente ou celui d'une indemnité unique. Ce choix doit s'effectuer, dans les cas où l'assuré réside hors de Suisse, lorsqu'il demande la rente et dans les cas où il a déjà bénéficié d'une rente en Suisse, lorsqu'il quitte ce pays.
+Lorsque le montant de la rente ordinaire partielle est supérieur à dix pour cent mais inférieur à vingt pour cent de la rente ordinaire complète, le ressortissant portugais ou son survivant qui ne réside pas en Suisse ou qui la quitte définitivement peut choisir entre le versement de la rente ou celui d'une indemnité unique. Ce choix doit s'effectuer, dans les cas où l'intéressé réside hors de Suisse, durant la procédure de fixation de la rente et dans les cas où il a déjà bénéficié d'une rente en Suisse, lorsqu'il quitte ce pays.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 3. L'indemnité unique prévue au paragraphe précédent est égale à la valeur actuelle de la rente due lors de la réalisation de l'éventualité assurée selon la législation suisse ou à la valeur actuelle de cette rente au moment où l'ayant droit quitte définitivement la Suisse, lorsque ce départ se situe après l'octroi de la rente.
 
@@ -774,9 +936,7 @@ SECTION B
 
 Application de la législation portugaise
 
-ARTICLE 19
-
-Les ressortissants suisses ont droit aux prestations des assurances vieillesse et survivants aux mêmes conditions que les ressortissants portugais.
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ARTICLE 20
 
@@ -832,7 +992,9 @@ b) L'organisme compétent pour le nouvel accident du travail ou la nouvelle mala
 
 CHAPITRE V
 
-Allocations familiales
+Prestations familiales
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 SECTION A
 
@@ -850,11 +1012,13 @@ Application de la législation portugaise
 
 ARTICLE 29
 
-1. Les travailleurs suisses qui habitent au Portugal sont assimilés aux travailleurs portugais et peuvent prétendre pour les membres de leur famille résidant au Portugal les allocations familiales et les prestations complémentaires prévues par la législation portugaise.
+1 - Les travailleurs suisses qui habitent au Portugal sont assimilés aux travailleurs portugais et peuvent prétendre pour les membres de leur famille résidant au Portugal les prestations familiales dans les conditions prévues par la législation portugaise.
 
-2. Lorsque, pour l'ouverture du droit aux prestations complémentaires, le travailleur suisse ou portugais ne justifie pas de toute la période d'assurance requise par la législation portugaise, il est fait appel pour compléter ladite période à la période d'assurance accomplie en Suisse.
+2 - Lorsque, pour l'ouverture du droit aux prestations familiales, le travailleur suisse ou portugais ne remplit pas les conditions d'assurance requises par la législation portugaise, les périodes d'assurance accomplies en Suisse sont prises en compte.
 
-3. Les travailleurs suisses ou portugais ont droit, pendant la durée de leur emploi au Portugal, aux allocations familiales prévues par la législation portugaise, pour les enfants vivant en Suisse qui sont à leur charge.
+3 - Les travailleurs suisses ou portugais ont droit, pendant la durée de leur emploi au Portugal, aux prestations familiales dans les conditions prévues par la législation portugaise, pour les enfants à charge vivant en Suisse.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 TITRE IV
 
@@ -862,27 +1026,29 @@ Dispositions diverses
 
 ARTICLE 30
 
-1. Pour l'application de la présente Convention, le terme «autorité compétente» désigne:
+1 - Pour l'application de la présente Convention, le terme «autorité compétente» désigne:
 
 En ce qui concerne la Suisse:
 
-L'Office fédéral des assurances sociales.
+L'Office fédéral des assurances sociales;
 
 En ce qui concerne le Portugal:
 
-Le Ministère des affaires sociales.
+Le Ministère de tutelle pour la matière concernée;
 
-2. Les autorités compétentes:
+2 - Les autorités compétentes:
 
-a) Concluent tous arrangements administratifs nécessaires à l'application de la présente Convention;
+a) Concluent tous les arrangements administratifs nécessaires à l'application de la présente Convention;
 
-b) Se communiquent toutes informations concernant les mesures prises pour l'application de la présente Convention;
+b) Se communiquent toutes les informations concernant les mesures prises pour l'application de la présente Convention;
 
-c) Se communiquent toutes informations concernant les modifications de leur législation;
+c) Se communiquent toutes les informations concernant les modifications de leur législation;
 
 d) Peuvent notamment convenir que chaque Partie contractante désigne des organismes de liaison;
 
 e) Peuvent fixer d'un commun accord des dispositions relatives à la notification d'actes judiciaires.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ARTICLE 31
 
@@ -890,7 +1056,9 @@ ARTICLE 31
 
 2. Les autorités compétentes règlent d'un commun accord les détails de l'entraide réciproque, les modalités du contrôle médical et administratif des bénéficiaires de la présente Convention ainsi que la participation aux frais des enquêtes médicales et administratives.
 
-3. Les autorités compétentes ne mettront pas d'obstacle à l'application de l'assurance-vieillesse, survivants et invalidité falcutative suisse et de l'assurance volontaire continuée portugaise aux ressortissants de l'une des Parties sur le territoire de l'autre.
+3 - Les autorités compétentes ne mettront pas d'obstacle à l'application de l'assurance-vieillesse, survivants et invalidité facultative suisse et de l'assurance volontaire portugaise aux ressortissants de l'une des Parties sur le territoire de l'autre et, en particulier, au versement des cotisations à ces assurances et à la perception des prestations qui en découlent.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 ARTICLE 32
 
@@ -978,7 +1146,9 @@ PROTOCOLE FINAL RELATIF A LA CONVENTION DE SÉCURITÉ SOCIALE ENTRE LA SUISSE ET
 
 Lors de la signature à ce jour de la Convention de sécurité sociale entre la Suisse et le Portugal (appelée ci-après la Convention), les plénipotentiaires soussignés constatent leur accord sur les points suivants:
 
-1. Aux fins d'application de la Convention, le terme «territoire» désigne, en ce qui concerne la Suisse, le territoire de la Confédération suisse et, en ce qui concerne le Portugal, le territoire de la République portugaise.
+1 - Aux fins d'application de la Convention, le terme «territoire» désigne, en ce qui concerne la Suisse, le territoire de la Confédération suisse et, en ce qui concerne la République portugaise, le territoire du Portugal sur le continent européen et les archipels des Açores et de Madère.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 2. Aux fins d'application de la Convention, le terme «ressortissant» désigne, en ce qui concerne la Suisse, toute personne de nationalité suisse et, en ce qui concerne le Portugal, toute personne de nationalité portugaise.
 
@@ -988,9 +1158,11 @@ Lors de la signature à ce jour de la Convention de sécurité sociale entre la 
 
 Elle s'applique dans les mêmes conditions aux membres de leur famille et à leurs survivants, en tant qu'ils fondent leurs droits sur ceux desdits réfugiés ou apatrides. Sont réservées les dispositions plus favorables de la législation nationale.
 
-5. Les dispositions de la Convention ne sont applicables ni à la future législation fédérale suisse sur la prévoyance professionnelle ni aux futurs régimes d'assurance-pensions complémentaires portugais.
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
-6. En dérogation à l'article 3 de la Convention, les allocations pour impotents de la législation fédérale suisse en matière d'assurance-invalidité, vieillesse et survivants ne sont pas versées aux ayants droit qui résident hors de Suisse.
+6 - En dérogation à l'article 3 de la Convention, les rentes ordinaires de l'assurance-invalidité suisse pour les assurés dont le degré d'invalidité est inférieur à 50% ainsi que les rentes extraordinaires et les allocations pour impotents de l'assurance-vieillesse, survivants et invalidité suisse ne sont pas versées aux ayants droit qui résident hors de Suisse.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 7. Lorsque les travailleurs portugais occupés en Suisse ne sont pas déjà au bénéfice d'une assurance des soins médico-pharmaceutiques au sens de la loi fédérale du 13 juin 1911 sur l'assurance en cas de maladie et d'accidents, leur employeur droit veiller à ce qu'ils contractent une telle assurance, et, s'ils ne le font pas, doit en conclure une pour eux. Il peut déduire de leur salaire la cotisation afférente à cette assurance, des ententes différentes entre les parties intéressées demeurant réservées.
 
@@ -1004,7 +1176,9 @@ Elle s'applique dans les mêmes conditions aux membres de leur famille et à leu
 
 12. Les dispositions de la Convention concernant l'entraide administrative et médicale ainsi que les articles 33 à 36 de la Convention s'appliquent également au Portugal aux accidents non professionnels couverts par l'institution d'assurance compétente en Suisse.
 
-13. Il est constaté qu'en ce qui concerne l'assurance contre les accidents professionnels en agriculture, les travailleurs agricoles portugais bénéficient de l'égalité de traitement avec les travailleurs suisses et que les prestations auxquelles ils ont acquis un droit leurs sont versées sans restriction même lorsqu'ils ne résident pas en Suisse.
+13 - Le paragraphe premier de l'article 31 de la Convention ne s'étend pas à l'entraide en matière d'exécution forcée.
+
+> Alterado pelo/a [Decreto n.º 33/95](https://diariodarepublica.pt/dr/detalhe/decreto/33-1995-548466), publicado em 1995-08-31.
 
 14. Il est constaté que tous les cantons ont institué un régime d'allocations familiales en faveur des travailleurs salariés et que, selon les dispositions actuellement en vigueur, les travailleurs salariés qui sont occupés en Suisse ont également droit aux allocations familiales pour leurs enfants qui vivent hors de Suisse, quelle que soit leur nationalité.
 

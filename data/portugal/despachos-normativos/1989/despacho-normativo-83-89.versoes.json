@@ -1,0 +1,288 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:547011:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2191376db04b668c",
+    "ae25fb5b3cac64fc",
+    "15c674dd48032bc1",
+    "e7073f664fdc1eab",
+    "6acdcd7bf792b8d6",
+    "9fb596732c4c9b72",
+    "83b8cdefdfc2e737",
+    "85d859c175580fc6",
+    "8131510da1f2d0bf",
+    "274870693002742d",
+    "53782a5304bee700",
+    "0466455d7e03dc64",
+    "e7f077319b9ec019",
+    "a7145bd9d3382022",
+    "c2c76e0860c36afd",
+    "e829741e7c14a688",
+    "0b45a396ef38bdf2",
+    "a1d2fb2763ca789c",
+    "75932543bd67b00b",
+    "26eb627e591408b1",
+    "33d57bcef3e88f78",
+    "cd90ceaf819bdc63"
+   ]
+  },
+  {
+   "date": "1990-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:333171:por",
+     "title": "Despacho Normativo n.º 22/90",
+     "published": "1990-03-17",
+     "dre_path": "/dr/detalhe/despacho-normativo/22-1990-333171"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "2191376db04b668c",
+    "ae25fb5b3cac64fc",
+    "15c674dd48032bc1",
+    "e7073f664fdc1eab",
+    "6acdcd7bf792b8d6",
+    "9fb596732c4c9b72",
+    "83b8cdefdfc2e737",
+    "5f8ca36f79ef9fe9",
+    "421726bca6e94aec",
+    "274870693002742d",
+    "53782a5304bee700",
+    "43bc7dd71e07e18e",
+    "e7f077319b9ec019",
+    "a7145bd9d3382022",
+    "c2c76e0860c36afd",
+    "e829741e7c14a688",
+    "0b45a396ef38bdf2",
+    "a1d2fb2763ca789c",
+    "75932543bd67b00b",
+    "26eb627e591408b1",
+    "33d57bcef3e88f78",
+    "cd90ceaf819bdc63"
+   ]
+  }
+ ],
+ "fragments": {
+  "2191376db04b668c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O objectivo fundamental da Comunidade Económica Europeia consiste no desenvolvimento harmonioso de todos os seus Estados membros e, consequentemente, na redução progressiva das desigualdades económicas e sociais existentes no espaço da Europa dos Doze. Para cumprir o objectivo referido, consagrado no Tratado de Roma e designadamente no Protocolo 21 do Acto de Adesão surgiu o Programa Específico de Desenvolvimento da Indústria Portuguesa (PEDIP).\n\nPretende-se com este Programa modernizar as empresas industriais, criando condições para revitalizar a base produtiva existente e promover o aparecimento de novas indústrias com elevado potencial tecnológico de modo a maximizar o aproveitamento das vantagens comparativas e dos recursos humanos e naturais nacionais.\n\nCom esta finalidade o PEDIP compreende sete programas operacionais: Infra-Estruturas de Base e Tecnológicas, Formação Profissional, Incentivo ao Investimento Produtivo, Engenharia Financeira, Missões de Produtividade, Missões de Qualidade e Design Industrial e Divulgação, Implementação e Controlo.\n\nO objectivo fundamental prosseguido pelo PEDIP é, como se disse, o de modernizar as empresas, aumentando significativamente a sua capacidade técnica e de gestão, de forma a que se encontrem em condições de responder aos desafios económicos e sociais que se irão intensificar na próxima década, no quadro do mercado único europeu.\n\nPara isso, o PEDIP proporciona às empresas a utilização de um conjunto de instrumentos interligados, incidindo nos domínios do enquadramento infra-estrutural da actividade produtiva, de formação qualificada de recursos humanos, de apoio ao investimento e, bem assim, nas áreas de organização da produção, da gestão da qualidade e design industrial e da prospecção de mercados.\n\nEste conjunto de instrumentos visa a dinamização dos processos de adaptação estrutural das empresas e assenta na procura de efeitos sinérgicos no tecido empresarial, sendo preocupação do PEDIP dotar os diversos programas e medidas de um grau de coerência necessária à eficácia e criação de condições de prolongamento dos seus efeitos para além de 1992.\n\nOs factores tecnológicos a nível das empresas, que lhes configuram a principal intervenção na modernização industrial, foram concretizados em áreas programáticas do Plano Tecnológico de Desenvolvimento da Indústria Transformadora. Esses objectivos estruturais integram-se neste Subprograma de Infra-Estruturas Tecnológicas adaptadas à situação actual da mutação tecnológica.\n\nEmbora o actual sistema científico e tecnológico, orientado para o apoio ao desenvolvimento industrial, apresente ainda diversas lacunas a nível sectorial, a criação de novas instituições não pode ser entendida como um objectivo em si mesmo. Por isso, o fortalecimento do subsistema tecnológico, orientado para a modernização industrial, tem de ser efectuado em estreita ligação com as empresas e as associações empresariais, privilegiando o espaço criativo e inovador situado entre as universidades e centros de investigação, por um lado, e as associações industriais e empresas por outro.\n\nNestes termos, determina-se:\n\n1 - É aprovado o regulamento do Subprograma 1.2 - Infra-Estruturas Tecnológicas do Programa 1 - Infra-Estruturas de Base e Tecnológicas, integrado no Programa Específico de Desenvolvimento da Indústria Portuguesa (PEDIP), criado ao abrigo do Regulamento n.º [2053/88](https://data.europa.eu/eli/reg/1988/2053/oj?locale=pt) (CEE) do Conselho, de 24 de Junho de 1988, que, com os respectivos anexos, faz parte integrante do presente despacho normativo.\n\n2 - A aplicação deste Subprograma às regiões autónomas será objecto de regulamentação própria no que diz respeito à apreciação das candidaturas e ao acompanhamento e fiscalização dos projectos.\n\n3 - O presente despacho normativo entra em vigor no dia seguinte ao da sua publicação.\n\nMinistérios do Planeamento e da Administração do Território e da Indústria e Energia, 11 de Agosto de 1989. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.\n\nREGULAMENTO DO SUBPROGRAMA 1.2 - INFRA-ESTRUTURAS TECNOLÓGICAS DO PROGRAGA 1 - INFRA-ESTRUTURAS DE BASE E TECNOLÓGICAS DO PEDIP."
+  },
+  "ae25fb5b3cac64fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\n1 - O presente Regulamento estabelece as condições para concessão dos apoios previstos no âmbito do Subprograma 1.2 - Infra-Estruturas Tecnológicas do Programa 1 - Infra-Estruturas de Base e Tecnológicas do Programa Específico de Desenvolvimento da Indústria Portuguesa (PEDIP).\n\n2 - São objectivos fundamentais deste Subprograma:\n\nDesenvolver a capacidade técnica e tecnológica com vista ao aumento progressivo da competitividade empresarial;\n\nFomentar a qualidade da produção industrial;\n\nFomentar centros interinstitucionais de investigação industrialmente orientada, de desenvolvimento e de demonstração com vista à introdução da inovação nas empresas;\n\nIntensificar a interacção universidade/centros de investigação/empresas no quadro da modernização da indústria;\n\nGarantir condições para criar empresas baseadas em ideias inovadoras."
+  },
+  "15c674dd48032bc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nDe acordo com os objectivos referidos no artigo 1.º, são susceptíveis de apoio os projectos de investimento que visem:\n\na) O fomento da qualidade da produção com incidência no controlo e certificação de produtos e processos e, bem assim, no fortalecimento de um sistema metrológico nacional, onde se insiram os laboratórios metrológicos (medida A);\n\nb) O desenvolvimento tecnológico de sectores industriais através da criação, expansão e melhoria de centros tecnológicos (medida B);\n\nc) O fortalecimento tecnológico da estrutura produtiva através da criação de institutos de novas tecnologias, em áreas estratégicas multissectoriais e pluridisciplinares, e de centros de excelência em domínios interdisciplinares e avançados das novas tecnologias e abrangendo diversas instituições (medida C);\n\nd) A integração multissectorial das novas tecnologias na base de conhecimentos tradicionais através de centros de transferência com maior ou menor dimensão pluridisciplinar e de unidades de demonstração em domínios específicos das novas tecnologias (medida D);\n\ne) A modernização da estrutura industrial através da criação de espaços físicos que propiciem um clima de criatividade e inovação, designadamente através de apoios logísticos permanentes em parques ou pólos tecnológicos onde se instalem empresas e instituições de elevado conteúdo tecnológico, e, bem assim, a criação de empresas baseadas em ideias inovadoras, incentivando o aparecimento de novos empresários através de apoios logísticos iniciais em centros de incubação (medida E)."
+  },
+  "e7073f664fdc1eab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades beneficiárias\n\n1 - Poderão beneficiar deste Subprograma, para os projectos referidos no artigo anterior, as seguintes entidades:\n\na) Associações de interesse público e sem fins lucrativos resultantes da convergência de interesses entre entidades públicas e privadas, nomeadamente empresas e associações empresariais, universidades, centros de I & D, públicos e privados, e instituições afins;\n\nb) O Instituto Português de Qualidade (IPQ) e instituições públicas por ele designadas que participem no Sistema Metrológico Nacional através da instalação de laboratórios metrológicos;\n\nc) O Laboratório Nacional de Engenharia e Tecnologia Industrial (LNETI), como coordenador do subsistema tecnológico do Ministério da Indústria e Energia (MIE), designadamente dinamizando infra-estruturas que sejam transferíveis para as entidades referidas na alínea a) do presente número.\n\n2 - As entidades beneficiárias podem concorrer directamente ou designar uma das entidades públicas associadas como promotora do projecto, competindo a esta, neste caso, a apresentação da proposta de candidatura."
+  },
+  "6acdcd7bf792b8d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de acesso\n\n1 - As entidades candidatas aos apoios previstos neste Regulamento deverão preencher os seguintes requisitos:\n\na) Comprovar que dispõem de contabilidade adequada às análises requeridas para apreciação, acompanhamento e avaliação dos projectos;\n\nb) Demonstrar, através da apresentação de estudos de viabilidade técnico-económica a que se refere artigo 6.º, que estão asseguradas as condições de funcionamento das infra-estruturas tecnológicas após os cinco primeiros anos de actividade, através de meios próprios ou de contratos-programa celebrados com o Estado.\n\n2 - As associações mencionadas na alínea a) do n.º 1 do artigo 3.º deverão ainda:\n\na) Encontrar-se constituídas de acordo com a legislação em vigor;\n\nb) Possuir capacidade técnica e de gestão;\n\nc) Comprovar que não são devedoras ao Estado ou à Segurança Social de quaisquer contribuições, impostos e quotizações ou que estão a cumprir um plano de regularização dos mesmos;\n\nd) Comprovar a sua viabilidade técnica, económica e financeira;\n\ne) Ter os respectivos estatutos conformados às regras estabelecidas no Subprograma de Infra-Estruturas Tecnológicas."
+  },
+  "9fb596732c4c9b72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de elegibilidade\n\n1 - São de elegibilidade dos projectos:\n\na) O seu enquadramento nas medidas que integram o Subprograma de Infra-Estruturas Tecnológicas, a que se refere o artigo 2.º;\n\nb) Possuírem viabilidade técnica, económica e financeira;\n\nc) Não terem sido iniciados há mais de doze meses contados a partir da data de candidatura;\n\nd) Comprovarem, sendo caso disso, que o terreno necessário à instalação está disponível à data da assinatura do contrato a que se refere o n.º 1 do artigo 11.º\n\n2 - Excluem-se do disposto na alínea b) do número anterior os projectos apresentados pelas entidades referidas na alínea b) do n.º 1 do artigo 3.º"
+  },
+  "83b8cdefdfc2e737": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Candidaturas\n\n1 - Os dossiers de candidatura serão apresentados em triplicado no Gabinete de Estudos e Planeamento (GEP) do Ministério da Indústria e Energia, devendo conter:\n\na) Mapas normalizados de candidatura, constantes do anexo 1, devidamente preenchidos;\n\nb) Estudo de viabilidade técnico-económica e financeira elaborado nos termos do anexo II, que deverá incluir a demonstração do seu interesse científico e tecnológico;\n\nc) Elementos comprovativos do cumprimento das condições de acesso previstas no artigo 4.º\n\n2 - Na concessão dos apoios serão tidos prioritariamente em consideração os projectos que, preenchendo os requisitos previstos neste Regulamento, tenham ligação com outros programas do PEDIP, com programas comunitários de ciência e tecnologia ou estabeleçam uma sólida ligação entre as universidades e centros de investigação e as empresas e associações empresariais, permitindo a assimilação de tecnologias polivalentes que contribuam eficazmente para o aumento de produtividade das empresas."
+  },
+  "85d859c175580fc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Processo e prazos de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Processo e prazos de apreciação\n\n1 - O GEP verficará se as entidade candidatas reúnem as condições de acesso referidas no artigo 4.º, apreciará os projectos no âmbito das normas aplicáveis do Regulamento FEDER e procederá à instrução do processo no prazo máximo de quinze dias a contar da data de candidatura, após o que procederá ao seu envio ao LNETI, com cópia ao Gabinete do Gestor do PEDIP e à Direcção-Geral de Desenvolvimento Regional (DGDR).\n\n2 - O LNETI verificará se os projectos reúnem as condições de elegibilidde previstas no artigo 5.º, procederá à análise do interesse científico e tecnológico dos projectos e proporá a respectiva estrutura de financiamento, emitindo parecer fundamentado no prazo máximo de 45 dias a contar da data de candidatura.\n\n3 - O GEP e o LNETI poderão solicitar às entidades candidatas esclarecimentos complementares, a serem apresentados no prazo máximo de dez dias úteis após a solicitação.\n\n4 - O não cumprimento dos prazos referidos no número anterior sem justificação adequada será considerado como desistência da candidatura.\n\n5 - As entidades responsáveis pela apreciação dos projectos poderão consultar instituições ou personalidades de reconhecido mérito científico, técnico ou profissional, para obtenção de pareceres relativos aos diferentes aspectos em que incide a apreciação."
+  },
+  "8131510da1f2d0bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Comissão de Selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comissão de Selecção\n\n1 - Será constituída uma Comissão de Selecção do Subprograma, presidida pelo gestor do PEDIP, que integrará representantes da DGDR, do LNETI, do GEP, do Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) e da Direcção-Geral da Indústria (DGI) e da Secretaria de Estado da Ciência e Tecnologia, podendo igualmente participar outras entidades do MIE quando a natureza dos projectos o justifique.\n\n2 - A Comissão de Selecção reunirá com a periodicidade necessária para apreciar os projectos com os pareceres emitidos pelo LNETI e submeterá a sua proposta de decisão a despacho do Ministro da Indústria e Energia, podendo recorrer ao parecer de especialistas sempre que o considerar necessário.\n\n3 - A proposta de decisão da Comissão de Selecção deverá ser apresentada ao Ministro da Indústria e Energia no prazo máximo de quinze dias a partir da apresentação dos pareceres referidos no número anterior."
+  },
+  "274870693002742d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Decisão final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Decisão final\n\n1 - A decisão final competirá ao Ministro da Indústria e Energia, tendo em conta a proposta apresentada pela Comissão de Selecção.\n\n2 - A decisão do Ministro da Indústria e Energia será comunicada pelo gestor do PEDIP ao LNETI, à DGDR e ao GEP, devendo este último dar conhecimento às entidades candidatas."
+  },
+  "53782a5304bee700": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Financiamento e despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Financiamento e despesas elegíveis\n\n1 - Os apoios a conceder no âmbito deste Subprograma assumem a forma de comparticipação financeira sobre as despesas elegíveis, em percentagem a definir face à especificidade do projecto, podendo atingir os seguintes valores máximos:\n\na) 100% das despesas de investimento a que se referem as alíneas a), b) e c) do n.º 2 do presente artigo;\n\nb) 90% das despesas de investimento a que se referem as alíneas d), e), f) e g) do n.º 2 do presente artigo;\n\nc) 100% dos défices de exploração até ao limite de 90%, 70%, 50%, 35% e 20% das despesas de funcionamento verificadas respectivamente no 1.º, 2.º, 3.º, 4.º e 5.º anos de exploração do projecto, deduzidas as receitas obtidas por serviços subvencionados por outros programas.\n\n2 - Consideram-se relevantes, para os efeitos de cálculo da comparticipação, as despesas efectuadas após 25 de Janeiro de 1989 e relativas a:\n\na) Construção e aquisição de edifícios destinados exclusivamente ao exercício da actividade prevista, incluindo o montante correspondente à parcela de terreno incorporada, desde que não exceda 10% do custo total elegível;\n\nb) Aquisição de maquinaria e equipamento produtivo e laboratorial;\n\nc) Aquisição de equipamento informático;\n\nd) Aquisição de software de aplicação;\n\ne) Investimento incorpóreo, designadamente em estudos, projectos, testes e ensaios de arranque, bem como custos incorridos com a equipa de implementação do projecto durante o período de instalação, desde que não exceda 15% do custo total do projecto;\n\nf) Aquisição de equipamento administrativo e mobiliário, desde que não exceda 5% do custo total do projecto (ate ao limite de 10000 contos);\n\ng) Formação de técnicos e operadores necessária para o bom funcionamento dos equipamentos incluídos no projecto;\n\nh) Funcionamento durante os primeiros cinco anos.\n\n3 - O cálculo das aplicações relevantes é efectuado a preços correntes."
+  },
+  "0466455d7e03dc64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Contrato de concessão da comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contrato de concessão da comparticipação\n\n1 - Para os projectos das associações referidas na alínea a) do n.º 1 do artigo 3.º, a concessão da comparticipação será formalizada por contrato a celebrar entre o GEP e a entidade beneficiária.\n\n2 - O contrato referido no número anterior deverá especificar os objectivos do projecto a apoiar, o apoio financeiro a atribuir, o faseamento das contribuições financeiras associadas às etapas específicas do desenvolvimento do projecto e as obrigações das entidades beneficiárias.\n\n3 - O contrato poderá ser objecto de renegociação no caso de alteração fundamentada das condições que justifique uma mudança do calendário da sua realização ou uma modificação do projecto.\n\n4 - O contrato poderá ser rescindido mediante despacho do Ministro da Indústria e Energia, sob proposta da Comissão de Selecção, fundamentada em parecer do GEP, nos seguintes casos:\n\nNão cumprimento dos objectivos e obrigações dentro dos prazos estabelecidos no contrato por facto imputável à entidade beneficiária;\n\nNão cumprimento atempado das obrigações fiscais;\n\nPrestação de informações falsas por parte da entidade beneficiária ou viciação dos documentos fornecidos nas fases de candidatura e de acompanhamento do projecto.\n\n5 - A rescisão do contrato implicará para a entidade beneficiária a obrigação de, no prazo de 60 dias a contar da notificação, repor as importâncias recebidas, acrescidas dos juros calculados à taxa de referência do mercado de capitais em vigor à data da notificação e acrescida de três pontos percentuais.\n\n6 - Em caso de dissolução, extinção, falência ou insolvência das entidades beneficiárias, todos os bens e direitos adquiridos por força, no todo ou em parte, dos apoios atribuídos são propriedade do LNETI ou de outro organismo público com personalidade jurídica, a definir por despacho do Ministro da Indústria e Energia."
+  },
+  "e7f077319b9ec019": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Pagamento da comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamento da comparticipação\n\n1 - O pagamento da comparticipação às associações referidas na alínea a) do n.º 1 do artigo 3.º será feito de acordo com as cláusulas contratuais, mediante ordem do GEP, que solicitará à DGDR o pagamento da contrapartida comunitária.\n\n2 - Sem prejuízo do disposto no número anterior, o pagamento da comparticipação será efectuado do seguinte modo:\n\n30% como adiantamento após a celebração do contrato;\n\nPrestações intermédias com base na verificação das despesas efectivamente realizadas, uma vez verificados os respectivos justificativos devidamente classificados em função dos objectivos do projecto;\n\nUma prestação final do montante do saldo, não inferior a 20%, a qual ficará dependente de vistoria às instalações ou de verificação dos resultados a efectuar pela entidade financiadora após a conclusão dos trabalhos descritos nos processos de candidatura."
+  },
+  "a7145bd9d3382022": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Contabilização da comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contabilização da comparticipação\n\nOs subsídios atribuídos a título de comparticipação serão contabilizados numa conta de reserva especial, podendo a sua integração no capital social apenas ser efectuada após a ocorrência de três exercícios contabilísticos completos, contados a partir do final do contrato referido no artigo 11.º"
+  },
+  "c2c76e0860c36afd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Obrigações das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Obrigações das entidades beneficiárias\n\n1 - São obrigações das entidades beneficiárias:\n\na) Executar o projecto de acordo com os prazos e nas condições previstas no contrato respectivo;\n\nb) Cumprir os objectivos constantes do projecto;\n\nc) Fornecer os elementos relacionados com o projecto que lhes forem solicitados pelo gestor do PEDIP, pelo LNETI ou pelo GEP.\n\n2 - As entidades beneficiárias ficam sujeitas à verificação da utilização dos apoios concedidos, não podendo locar, alienar ou por qualquer modo onerar, no todo ou em parte, sem autorização prévia do GEP, os bens adquiridos para a execução do projecto."
+  },
+  "e829741e7c14a688": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acompanhamento\n\n1 - A implementação dos projectos será acompanhada:\n\na) Pelo LNETI, do ponto de vista científico ou técnico; b) Pelo GEP, do ponto de vista de execução financeira;\n\nque elaborarão relatórios trimestrais de progresso.\n\n2 - As condições de realização do acompanhamento e da avaliação final serão definidas no despacho de concessão do apoio, sob proposta da Comissão de Selecção.\n\n3 - O GEP deverá ainda fornecer ao MPAT/DGDR as informações relativas à execução dos projectos e necessárias ao desempenho das suas funções no âmbito do FEDER."
+  },
+  "0b45a396ef38bdf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\n1 - As entidades que venham a beneficiar dos apoios previstos neste Regulamento ficam sujeitas a fiscalização com vista à verificação da sua utilização.\n\n2 - A verificação da realização do investimento é da responsabilidade do GEP, que, para além de poder solicitar o apoio técnico-científico do LNETI, poderá subcontratar com entidades competentes para o efeito, e será efectuada através de inspecção e auditorias e da verificação dos documentos comprovativos das respectivas despesas."
+  },
+  "a1d2fb2763ca789c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cobertura orçamental\n\n1 - As despesas inerentes a este Subprograma serão cobertas por dotações inscritas no orçamento do IAPMEI, excepto nos casos previstos no número seguinte.\n\n2 - Nos projectos da exclusiva responsabilidade de organismos do MIE - IPQ e LNETI - a dotação orçamental está inscrita no PIDDAC dos respectivos organismos.\n\n3 - As verbas fixadas para cada ano poderão ser acrescidas dos saldos apurados nos anos que o antecedem.\n\n4 - Só poderão ser processados os apoios quando o respectivo encargo tiver cabimento na dotação orçamental."
+  },
+  "75932543bd67b00b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Concorrência de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Concorrência de apoios\n\nOs apoios previstos no âmbito deste Subprograma não são acumuláveis com quaisquer outros da mesma natureza concedidos por outro regime legal nacional para o mesmo fim."
+  },
+  "26eb627e591408b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Informação\n\nSerão publicados semestralmente, pelo gestor do PEDIP, os mapas das verbas entregues às entidades beneficiárias."
+  },
+  "33d57bcef3e88f78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — FORMULÁRIO DE CANDIDATURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — FORMULÁRIO DE CANDIDATURA\n\nSUBPROGRAMA 1.2 INFRAESTRUTURAS TECNOLÓGICAS\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/20000/37043709.pdf)"
+  },
+  "cd90ceaf819bdc63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Subprograma 1.2 - Infra-estruturas Tecnológicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Subprograma 1.2 - Infra-estruturas Tecnológicas\n\nEstudo de viabilidade técnico-económico-financeira\n\n(Memória descritiva)\n\n(A entreguar obrigatoriamente com o formulário de candidatura)\n\nI - Identificação da entidade canditada.\n\n1 - Designação social, endereço, número de identificação de pessoa colectiva, pessoa a contactar e telefone.\n\n2 - Estatutos.\n\n3 - Data de constituição, número de associados, respectiva participação no capital social (património associativo) ou quotização anual.\n\n4 - Breve resumo das actividades desenvolvidas e respectivas receitas anuais. No caso de dispor de relatório de actividades, juntar os respeitantes aos últimos três exercícios.\n\n5 - Descrição das instalações já existentes.\n\n6 - Pessoal ao serviço e funções.\n\n7 - Principais clientes e concorrentes na área das actividades desenvolvidas.\n\n8 - Descrição dos meios de investigação e desenvolvimento existentes (instalações, equipamentos e pessoal qualificado).\n\n9 - Experiência na actividade a desenvolver ou em actividades de natureza semelhante. Elementos curriculares dos associados.\n\n10 - Situação económico-financeira.\n\nII - Caracterização técnico-económica do projecto.\n\n1 - Caracterização sumária do projecto e dos objectivos a atingir.\n\n2 - Caracterização pormenorizada dos potenciais clientes.\n\n3 - Justificação do projecto do ponto de vista técnico, científico e tecnológico e de enquadramento sectorial e regional, indicando as ligações com outros programas do PEDIP.\n\n4 - Plano detalhado das despesas de investimento em activo fixo (corpóreo e incorpóreo) e em fundo de maneio, acompanhado de listagem discriminativa do equipamento a adquirir e de descrição sumária do edifício, incluindo peças desenhadas do projecto de engenharia (planta e lay out).\n\n5 - Pessoal afecto ao projecto, funções e respectiva grelha salarial.\n\n6 - Plano de financiamento do projecto, explicitando o montante e a forma de realização dos capitais próprios.\n\n7 - Fases e calendário de execução.\n\n8 - Indicações sobre o cumprimento das disposições comunitárias em matéria de concursos públicos e de ambiente.\n\n9 - Medidas de publicidade previstas para a contribuição do FEDER/PEDIP.\n\nIII - Estudo previsional da viabilidade técnica económica e financeira do projecto, a preços constantes, para um prazo mínimo de cinco anos.\n\nIV - Análise comparativa custos-benefícios, salientando o interesse para as empresas industriais.\n\nV - Plano de formação interna."
+  },
+  "5f8ca36f79ef9fe9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Processo e prazos de apreciação",
+   "in_force_from": "1990-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 22/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1990-333171), publicado em 1990-03-17."
+   ],
+   "markdown": "###### Artigo 7.º — Processo e prazos de apreciação\n\n1 - O GEP verificará se as entidades candidatas reúnem as condições de acesso referidas no artigo 4.º, n.os 1, alínea a), e 2, apreciará os projectos no âmbito das normas aplicáveis do Regulamento FEDER e procederá à instrução do processo no prazo máximo de 15 dias a contar da data de candidatura, após o que procederá ao seu envio ao LNETI, com cópia ao Gabinete do Gestor do PEDIP.\n\n2 - O LNETI verificará se os projectos reúnem as condições de acesso referidas no n.º 1, alínea b), do artigo 4.º e as condições de elegibilidade previstas no artigo 5.º, procederá à análise do interesse científico e tecnológico dos projectos e proporá a respectiva estrutura de financiamento, emitindo parecer fundamentado no prazo máximo de 45 dias a contar da data de candidatura.\n\n3 - O GEP e o LNETI poderão solicitar às entidades candidatas esclarecimentos complementares, a serem apresentados no prazo máximo de dez dias úteis após a solicitação.\n\n4 - O não cumprimento dos prazos referidos no número anterior sem justificação adequada será considerado como desistência da candidatura.\n\n5 - As entidades responsáveis pela apreciação dos projectos poderão consultar instituições ou personalidades de reconhecido mérito científico, técnico ou profissional, para obtenção de pareceres relativos aos diferentes aspectos em que incide a apreciação.\n\n> Alterado pelo/a [Despacho Normativo n.º 22/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1990-333171), publicado em 1990-03-17."
+  },
+  "421726bca6e94aec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Comissão de Selecção",
+   "in_force_from": "1990-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 22/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1990-333171), publicado em 1990-03-17."
+   ],
+   "markdown": "###### Artigo 8.º — Comissão de Selecção\n\n1 - Será constituída uma Comissão de Selecção do Subprograma, presidida pelo gestor do PEDIP, que integrará representantes da DGDR, do LNETI, do GEP, do Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI) e da Direcção-Geral da Indústria (DGI) e da Secretaria de Estado da Ciência e Tecnologia, podendo igualmente participar outras entidades do MIE quando a natureza dos projectos o justifique.\n\n2 - A Comissão de Selecção reunirá com a periodicidade necessária para apreciar os projectos com os pareceres emitidos pelo GEP e pelo LNETI e submeterá a sua proposta de decisão a despacho do Ministro da Indústria e Energia, podendo recorrer ao parecer de especialistas sempre que o considerar necessário.\n\n3 - A proposta de decisão da Comissão de Selecção deverá ser apresentada ao Ministro da Indústria e Energia no prazo máximo de quinze dias a partir da apresentação dos pareceres referidos no número anterior.\n\n> Alterado pelo/a [Despacho Normativo n.º 22/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1990-333171), publicado em 1990-03-17."
+  },
+  "43bc7dd71e07e18e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Contrato de concessão da comparticipação",
+   "in_force_from": "1990-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 22/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1990-333171), publicado em 1990-03-17."
+   ],
+   "markdown": "###### Artigo 11.º — Contrato de concessão da comparticipação\n\n1 - Para os projectos das associações referidas na alínea a) do n.º 1 do artigo 3.º a concessão da comparticipação será formalizada por contrato a celebrar entre o IAPMEI e a entidade beneficiária.\n\n2 - O contrato referido no número anterior deverá especificar os objectivos do projecto a apoiar, o apoio financeiro a atribuir, o faseamento das contribuições financeiras associadas às etapas específicas do desenvolvimento do projecto e as obrigações das entidades beneficiárias.\n\n3 - O contrato poderá ser objecto de renegociação no caso de alteração fundamentada das condições que justifique uma mudança do calendário da sua realização ou uma modificação do projecto.\n\n4 - O contrato poderá ser rescindido mediante despacho do Ministro da Indústria e Energia, sob proposta da Comissão de Selecção, fundamentada em parecer do GEP, nos seguintes casos:\n\nNão cumprimento dos objectivos e obrigações dentro dos prazos estabelecidos no contrato por facto imputável à entidade beneficiária;\n\nNão cumprimento atempado das obrigações fiscais;\n\nPrestação de informações falsas por parte da entidade beneficiária ou viciação dos documentos fornecidos nas fases de candidatura e de acompanhamento do projecto.\n\n5 - A rescisão do contrato implicará para a entidade beneficiária a obrigação de, no prazo de 60 dias a contar da notificação, repor as importâncias recebidas, acrescidas dos juros calculados à taxa de referência do mercado de capitais em vigor à data da notificação e acrescida de três pontos percentuais.\n\n6 - Em caso de dissolução, extinção, falência ou insolvência das entidades beneficiárias, todos os bens e direitos adquiridos por força, no todo ou em parte, dos apoios atribuídos são propriedade do LNETI ou de outro organismo público com personalidade jurídica, a definir por despacho do Ministro da Indústria e Energia.\n\n> Alterado pelo/a [Despacho Normativo n.º 22/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1990-333171), publicado em 1990-03-17."
+  }
+ }
+}

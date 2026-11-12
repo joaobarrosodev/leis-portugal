@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-04-17'
+version_history:
+  file: portaria-481-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-08-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-04-17'
+    amending: pt:dre:654726:por
+    amending_title: Portaria n.º 232/84
+    changes:
+    - Altera Artigo unidades 117-118
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:05:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 232/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-481-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -332,9 +347,9 @@ e) Emitir parecer sobre todos os assuntos que forem submetidos à sua apreciaç�
 
 f) Apresentar propostas e sugestões tendentes a fomentar ou aperfeiçoar a actividade dos Serviços Sociais.
 
-Art. 36.º - 1. A constituição, o modo de designação dos seus membros e o regime de funcionamento do conselho consultivo constarão de regulamento próprio, a aprovar por despacho do Ministro do Trabalho, sem prejuízo do disposto no artigo seguinte.
+Art. 36.º A constituição, o modo de designação dos seus membros e o regime de funcionamento do conselho consultivo constarão de regulamento próprio, a aprovar por portaria do Ministro do Trabalho e Segurança Social.
 
-2. O conselho consultivo será presidido pelo director dos Serviços Sociais ou, quando se encontre presente na reunião, pelo secretário-geral do Ministério.
+> Alterado pelo/a [Portaria n.º 232/84](https://diariodarepublica.pt/dr/detalhe/portaria/232-1984-654726), publicado em 1984-04-12.
 
 Art. 37.º - 1. O número de membros do conselho consultivo eleitos será sempre igual ao dos membros nomeados.
 

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:447875:por",
+  "substituicoes": [
+    {
+      "de": 13,
+      "ate": 13,
+      "texto": "3.º Mediante proposta do director-geral do Instituto Hidrográfico, o Chefe do Estado-Maior da Armada pode considerar especializados em hidrografia os oficiais da classe de marinha que, à data do início do primeiro curso de especialização a realizar no Instituto Hidrográfico, tenham obtido conhecimentos julgados equivalentes aos ministrados no curso que confere a especialização.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 584/82) dá nova redação ao n.º 3.º: unidade 13 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

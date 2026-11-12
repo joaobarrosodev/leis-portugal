@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-10-15'
+version_history:
+  file: portaria-352-e-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-06-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-10-15'
+    amending: pt:dre:178344:por
+    amending_title: Portaria n.º 766/85
+    changes:
+    - Altera Artigo unidades 48-50
+    - Altera Artigo unidades 54-54
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:24:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 766/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-352-e-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -233,11 +249,13 @@ d) Seminário ... 5
 
 2.4 - Ramo de Expressão Artística/Dança:
 
-a) Teoria de Eprssão Artística ... 10
+a) Teoria da Expressão Artística ... 10
 
-b) Técnicas Corporais de Expressão Artística ... 22
+b) Técnicas Corporais da Expressão Artística ... 22
 
-c) Teoria e Metodologia da Dança ... 3
+c) Teoria e Metodologia da Dança ... 23
+
+> Alterado pelo/a [Portaria n.º 766/85](https://diariodarepublica.pt/dr/detalhe/portaria/766-1985-178344), publicado em 1985-10-10.
 
 d) Desenvolvimento e Gestão ... 3
 
@@ -245,7 +263,9 @@ e) Seminário ... 5
 
 2.5 - Ramo de Ergonomia:
 
-a) Teoria do Rendimento Humano ... 2
+a) Teoria do Rendimento Humano ... 22
+
+> Alterado pelo/a [Portaria n.º 766/85](https://diariodarepublica.pt/dr/detalhe/portaria/766-1985-178344), publicado em 1985-10-10.
 
 b) Análise de Postos de Trabalho ... 12
 

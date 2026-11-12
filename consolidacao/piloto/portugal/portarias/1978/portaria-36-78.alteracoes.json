@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Mediante proposta do director-geral do Instituto Hidrográfico, o Chefe do Estado-Maior da Armada pode considerar especializados em hidrografia os oficiais da classe de marinha que, à data da publicação desta portaria, por actividades anteriormente desenvolvidas no campo da hidrografia, tenham obtido conhecimentos julgados equivalentes aos ministrados no curso que confere a especialização.",
+    "depois": "3.º Mediante proposta do director-geral do Instituto Hidrográfico, o Chefe do Estado-Maior da Armada pode considerar especializados em hidrografia os oficiais da classe de marinha que, à data do início do primeiro curso de especialização a realizar no Instituto Hidrográfico, tenham obtido conhecimentos julgados equivalentes aos ministrados no curso que confere a especialização.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:447875:por",
+    "alterador": "pt:dre:395907:por"
+  }
+]

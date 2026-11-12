@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) 40% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 10% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 25% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 25% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º",
+    "depois": "a) 20% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 40% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 20% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 20% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:466062:por",
+    "alterador": "pt:dre:245315:por"
+  }
+]

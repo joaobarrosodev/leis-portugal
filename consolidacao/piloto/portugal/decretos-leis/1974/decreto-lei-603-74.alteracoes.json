@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Artigo 1.º As pensões de reserva dos militares são iguais à trigésima sexta parte da remuneração que serve de base ao cálculo, líquido da respectiva quota e multiplicada pelo número de anos de serviço contados, no qual não pode ser atribuído valor superior a trinta e seis.",
+    "depois": "Artigo 1.º As pensões de reserva dos militares são iguais à trigésima sexta parte da remuneração ilíquida que serve de base ao seu cálculo, multiplicada pelo número de anos de serviço contados, ao qual não pode ser atribuído valor superior a trinta e seis, continuando o desconto da quota para a Caixa Geral de Aposentações a ser feito em folha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:465399:por",
+    "alterador": "pt:dre:336166:por"
+  },
+  {
+    "artigo": "unidades 17-17",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Art. 4.º O disposto no presente decreto-lei aplica-se também às pensões de reforma de militares.",
+    "depois": "Art. 4.º As disposições dos artigos anteriores aplicam-se também às pensões de reforma dos militares, sendo o seu cálculo efectuado nos mesmos termos dos estabelecidos para a reserva, mas a remuneração que lhe serve de base tornar-se-á líquida da respectiva quota.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:465399:por",
+    "alterador": "pt:dre:336166:por"
+  }
+]

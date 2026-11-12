@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:464270:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Todas as instruções incidem sobre o quadro anexo, que só existe em imagem (correção de designações e aditamento de um lugar pela Portaria n.º 106/86; extinção dos lugares pela Portaria n.º 750/88), pelo que não há texto a alterar.",
+  "instrucoes": [
+    "Alt. 1, 1.º: retificação de duas designações de categorias no quadro anexo — quadro só em imagem, não aplicado.",
+    "Alt. 1, 2.º: aditamento de um lugar de mecânico electricista ao quadro — quadro só em imagem, não aplicado.",
+    "Alt. 1, 3.º: produção de efeitos — não altera o texto.",
+    "Alt. 2, 1.º d): extinção dos lugares do mapa anexo à Portaria n.º 567/80 — incide sobre o quadro (imagem), não textual; não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

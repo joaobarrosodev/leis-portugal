@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "f) Almoxarife principal, para as aquisições de material, de força motriz, luz, aquecimento, água, lavagem e limpeza ... 2500$00\n\ng) Chefes das circunscrições de exploração, estações centrais e rede de ambulâncias postais; condutores dos serviços de edifícios e mobiliário destacados nas circunscrições técnicas; almoxarife principal, para as despesas não incluídas na alínea f) ... 1000$00",
+    "depois": "f) Almoxarife principal, para obras em edifícios, reparação de mobiliário e utensílios, aquisições de material e despesas com força motriz, luz, aquecimento, água, lavagens e limpeza ... 5000$00\n\ng) Chefes das circunscrições de exploração, das estações centrais e das redes de ambulâncias postais e condutores dos serviços de edifícios e mobiliário destacados nas circunscrições técnicas ... 1000$00",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:514176:por",
+    "alterador": "pt:dre:627632:por"
+  }
+]
