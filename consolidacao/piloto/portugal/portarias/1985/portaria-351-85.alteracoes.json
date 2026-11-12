@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 18-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "I) Áreas científicas obrigatórias:\n\na) Ciências Básicas ... 7,5\n\nb) Hidráulica Aplicada ... 8\n\nc) Engenharia de Recursos Hídricos ... 3,5\n\nd) Engenharia Marítima ... 3\n\nII) Áreas científicas optativas:\n\na) Engenharia Marítima ... 3,5\n\nb) Engenharia de Recursos Hídricos ... 3,5\n\nTotal ... 25,5",
+    "depois": "Áreas científicas obrigatórias:\n\na) Ciências Básicas ... 7,5\n\nb) Hidráulica Aplicada ... 6,5\n\nc) Engenharia de Recursos Hídricos ... 7\n\nd) Engenharia Marítima ... 8\n\nTotal ... 29",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:181587:por",
+    "alterador": "pt:dre:665691:por"
+  }
+]

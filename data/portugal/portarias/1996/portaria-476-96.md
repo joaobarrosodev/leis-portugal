@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-09-02'
+version_history:
+  file: portaria-476-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-09-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-09-02'
+    amending: pt:dre:633280:por
+    amending_title: Portaria n.º 904/2003
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/476/1996/09/10/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:30:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 904/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-476-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,7 +149,9 @@ Modelo 1 - para uso dos membros dos Gabinetes do Ministro e do Secretário de Es
 
 Modelo 2 - para uso do restante pessoal dos serviços do Ministério da Defesa Nacional (anexo II).
 
-2.º Os portadores do cartão modelo 1 têm livre acesso aos serviços, unidades, estabelecimentos ou quaisquer lugares em que tenham de exercer as suas funções.
+2.º Os portadores do cartão modelo 1 têm livre acesso aos serviços, unidades, estabelecimentos ou quaisquer lugares em que tenham de exercer as suas funções, sem prejuízo da observância de especiais regras de identificação e segurança que neles se encontrem em vigor.
+
+> Alterado pelo/a [Portaria n.º 904/2003](https://diariodarepublica.pt/dr/detalhe/portaria/904-2003-633280), publicado em 2003-08-28.
 
 3.º Os cartões são de cor branca, com escudo dourado e letras de cor azul, tendo uma faixa diagonal com as cores verde e vermelha no canto superior esquerdo e contendo o modelo 1 a menção «livre trânsito» em letras maiúsculas de cor vermelha.
 

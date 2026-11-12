@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:194855:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1963-04-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "eb6e276c7f5bba3d"
+   ]
+  },
+  {
+   "date": "1963-05-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:627648:por",
+     "title": "Portaria n.º 19867",
+     "published": "1963-05-24",
+     "dre_path": "/dr/detalhe/portaria/19867-1963-627648"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3"
+   ],
+   "fragments": [
+    "c8296bab15752ec0"
+   ]
+  }
+ ],
+ "fragments": {
+  "eb6e276c7f5bba3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Negócios Estrangeiros, nos termos do artigo 5.º do [Decreto-Lei n.º 41965](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41965-1958-339236), de 19 de Novembro de 1958, que o n.º 3) da [Portaria n.º 19308](https://diariodarepublica.pt/dr/detalhe/portaria/19308-1962-163980), de 31 de Julho de 1962, passe a ter a seguinte redacção:\n\n3) Pessoal assalariado - um consultor especial, um encarregado dos serviços de imprensa, um escriturário, dois dactilógrafos, um contínuo.\n\nMinistérios das Finanças e dos Negócios Estrangeiros, 11 de Abril de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira."
+  },
+  "c8296bab15752ec0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1963-05-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 19867](https://diariodarepublica.pt/dr/detalhe/portaria/19867-1963-627648), publicado em 1963-05-24."
+   ],
+   "markdown": "Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Negócios Estrangeiros, nos termos do artigo 5.º do [Decreto-Lei n.º 41965](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41965-1958-339236), de 19 de Novembro de 1958, que o n.º 3) da [Portaria n.º 19308](https://diariodarepublica.pt/dr/detalhe/portaria/19308-1962-163980), de 31 de Julho de 1962, passe a ter a seguinte redacção:\n\n3) Pessoal assalariado - um consultor especial, um encarregado dos serviços de imprensa, quatro funcionários em serviço privativo, de qualquer categoria, entre arquivista, escriturário ou dactilógrafo, e um contínuo.\n\n> Alterado pelo/a [Portaria n.º 19867](https://diariodarepublica.pt/dr/detalhe/portaria/19867-1963-627648), publicado em 1963-05-24.\n\nMinistérios das Finanças e dos Negócios Estrangeiros, 11 de Abril de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira."
+  }
+ }
+}

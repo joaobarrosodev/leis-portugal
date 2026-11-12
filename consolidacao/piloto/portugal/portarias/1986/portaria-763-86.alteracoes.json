@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º O índice de localização, segundo zonas do País, a que se refere a alínea c) do n.º 1.º da [Portaria n.º 562-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/562-a-1986-148781), de 30 de Setembro, será para as Regiões Autónomas dos Açores e da Madeira de 1,20.",
+    "depois": "1.º O índice de localização, segundo zonas do País, a que se refere a alínea c) do n.º 1.º da [Portaria n.º 362/87](https://diariodarepublica.pt/dr/detalhe/portaria/362-1987-421201), de 2 de Maio, será para as Regiões Autónomas dos Açores e da Madeira de 1,25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:210592:por",
+    "alterador": "pt:dre:495505:por"
+  }
+]

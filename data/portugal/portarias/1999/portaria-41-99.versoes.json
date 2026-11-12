@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:197319:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-01-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ea58203962b93415"
+   ]
+  },
+  {
+   "date": "1999-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:345514:por",
+     "title": "Portaria n.º 567/99",
+     "published": "1999-07-28",
+     "dre_path": "/dr/detalhe/portaria/567-1999-345514"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 20-20"
+   ],
+   "fragments": [
+    "74865e84649017b8"
+   ]
+  }
+ ],
+ "fragments": {
+  "ea58203962b93415": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Janeiro\n\nO [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio, regula a criação, a competência e o funcionamento das comissões de protecção de menores em todas as comarcas do País, determinando que a respectiva instalação seja declarada por portaria do Ministro da Justiça.\n\nAcções de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas na comarca de Alijó, com vista à instalação da respectiva comissão de protecção.\n\nAssim, ao abrigo do n.º 2 do artigo 22.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio:\n\nManda o Governo, pelo Ministro da Justiça, o seguinte:\n\n1.º É criada a Comissão de Protecção de Menores da Comarca de Alijó, que fica instalada em edifício da Câmara Municipal.\n\n2.º A Comissão de Protecção de Menores é constituída, nos termos do artigo 13.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio, pelos seguintes elementos:\n\na) Um agente do Ministério Público;\n\nb) Um representante do município;\n\nc) Um representante do Centro Regional de Segurança Social;\n\nd) Um representante dos serviços locais do Ministério da Educação;\n\ne) Um representante do Instituto Português da Juventude;\n\nf) Um representante das instituições particulares de solidariedade social;\n\ng) Um psicólogo;\n\nh) Um médico, em representação do Centro de Saúde;\n\ni) Um representante da Guarda Nacional Republicana;\n\nj) Um representante das associações de pais.\n\n3.º A Comissão de Protecção poderá deliberar que dela façam parte outros membros, nas situações previstas no artigo 14.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio.\n\n4.º Nos 30 dias seguintes à publicação da presente portaria, as entidades que integram a Comissão de Protecção indicarão o seu representante e respectivo substituto ao procurador da República no círculo judicial de Mirandela, ao presidente da Câmara Municipal de Alijó e à presidente do Instituto de Reinserção Social.\n\n5.º O psicólogo referido na alínea g) do n.º 2.º será designado por alguma das instituições que integram a Comissão ou que com ela colaborem.\n\n6.º A Comissão de Protecção é presidida por um dos seus membros, rotativamente e pela ordem indicada no n.º 2.º da presente portaria, com mandato de dois anos, não prorrogável.\n\n7.º A Comissão de Protecção de Menores inicia funções 30 dias após a publicação da presente portaria.\n\nMinistério da Justiça.\n\nAssinada em 6 de Janeiro de 1999.\n\nPelo Ministro da Justiça, José Luís Lopes da Mota, Secretário de Estado da Justiça."
+  },
+  "74865e84649017b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1999-08-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 567/99](https://diariodarepublica.pt/dr/detalhe/portaria/567-1999-345514), publicado em 1999-07-28."
+   ],
+   "markdown": "de 21 de Janeiro\n\nO [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio, regula a criação, a competência e o funcionamento das comissões de protecção de menores em todas as comarcas do País, determinando que a respectiva instalação seja declarada por portaria do Ministro da Justiça.\n\nAcções de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas na comarca de Alijó, com vista à instalação da respectiva comissão de protecção.\n\nAssim, ao abrigo do n.º 2 do artigo 22.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio:\n\nManda o Governo, pelo Ministro da Justiça, o seguinte:\n\n1.º É criada a Comissão de Protecção de Menores da Comarca de Alijó, que fica instalada em edifício da Câmara Municipal.\n\n2.º A Comissão de Protecção de Menores é constituída, nos termos do artigo 13.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio, pelos seguintes elementos:\n\na) Um agente do Ministério Público;\n\nb) Um representante do município;\n\nc) Um representante do Centro Regional de Segurança Social;\n\nd) Um representante dos serviços locais do Ministério da Educação;\n\ne) Um representante do Instituto Português da Juventude;\n\nf) Um representante das instituições particulares de solidariedade social;\n\ng) Um psicólogo;\n\nh) Um médico, em representação do Centro de Saúde;\n\ni) Um representante da Guarda Nacional Republicana;\n\nj) Um representante das associações de pais.\n\n3.º A Comissão de Protecção poderá deliberar que dela façam parte outros membros, nas situações previstas no artigo 14.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio.\n\n4.º Nos 30 dias seguintes à publicação da presente portaria, as entidades que integram a Comissão de Protecção indicarão o seu representante e respectivo substituto ao procurador da República no círculo judicial de Vila Real, ao presidente da Câmara Municipal de Alijó e ao presidente do Instituto de Reinserção Social.\n\n> Alterado pelo/a [Portaria n.º 567/99](https://diariodarepublica.pt/dr/detalhe/portaria/567-1999-345514), publicado em 1999-07-28.\n\n5.º O psicólogo referido na alínea g) do n.º 2.º será designado por alguma das instituições que integram a Comissão ou que com ela colaborem.\n\n6.º A Comissão de Protecção é presidida por um dos seus membros, rotativamente e pela ordem indicada no n.º 2.º da presente portaria, com mandato de dois anos, não prorrogável.\n\n7.º A Comissão de Protecção de Menores inicia funções 30 dias após a publicação da presente portaria.\n\nMinistério da Justiça.\n\nAssinada em 6 de Janeiro de 1999.\n\nPelo Ministro da Justiça, José Luís Lopes da Mota, Secretário de Estado da Justiça."
+  }
+ }
+}

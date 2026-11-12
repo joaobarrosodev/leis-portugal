@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:197319:por",
+  "substituicoes": [
+    {
+      "de": 20,
+      "ate": 20,
+      "texto": "4.º Nos 30 dias seguintes à publicação da presente portaria, as entidades que integram a Comissão de Protecção indicarão o seu representante e respectivo substituto ao procurador da República no círculo judicial de Vila Real, ao presidente da Câmara Municipal de Alijó e ao presidente do Instituto de Reinserção Social.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 567/99: nova redação do n.º 4.º (círculo judicial de Vila Real; 'ao presidente' do IRS) - substituída a unidade 20."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

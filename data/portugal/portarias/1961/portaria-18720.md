@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-10-06'
+version_history:
+  file: portaria-18720.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-09-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-10-06'
+    amending: pt:dre:442772:por
+    amending_title: Portaria n.º 909/83
+    changes:
+    - Altera Artigo unidades 5-6
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:05:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 909/83. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1961/portaria-18720.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -103,9 +118,11 @@ Ministério da Educação Nacional, 8 de Setembro de 1961. - O Ministro da Educa
 
 Regulamento do Prémio Prof. Abílio Aires
 
-Artigo 1.º O Prémio Prof. Abílio Aires será atribuído anualmente ao aluno distinto mais classificado na cadeira de Cálculo das Probabilidades da Faculdade de Ciências da Universidade do Porto.
+Artigo 1.º O Prémio Prof. Abílio Aires será atribuído anualmente ao aluno distinto da Faculdade de Ciências da Universidade do Porto mais classificado (por média aritmética) nas 2 disciplinas semestrais de Probabilidades e Estatística e de Análise Numérica e Cálculo Automático frequentadas desde 1976 até 1979 e de Probabilidades e Estatística e de Cálculo Automático frequentadas a Partir de 1980.
 
-§ único. Havendo dois ou mais alunos nas condições estabelecidas no corpo deste artigo, será o prémio atribuído àquele que se mostre viver em condições económicas mais desfavoráveis.
+§ único. Havendo 2 ou mais alunos nas condições estabelecidas no corpo deste artigo, será o prémio atribuído àquele que se mostre viver em condições económicas mais desfavoráveis.
+
+> Alterado pelo/a [Portaria n.º 909/83](https://diariodarepublica.pt/dr/detalhe/portaria/909-1983-442772), publicado em 1983-10-01.
 
 Art. 2.º O prémio será constituído pelo rendimento anual da importância de 16000$00, já entregue pelos seus instituidores, que vai ser convertida em certificado de renda perpétua assentado à Faculdade, adicionada de outras que porventura venham a ser oferecidas com idêntico fim.
 

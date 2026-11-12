@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:240782:por",
+  "substituicoes": [
+    {
+      "de": 35,
+      "ate": 37,
+      "texto": "## ANEXO — Escola Superior de Saúde da Cruz Vermelha Portuguesa - Lisboa\n\nCurso de pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica\n\nCaracterização\n\n1 - Instituição: Escola Superior de Saúde da Cruz Vermelha Portuguesa - Lisboa.\n\n2 - Curso: pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica.\n\n3 - Diploma: diploma de especialização em Enfermagem.\n\n4 - Área científica e predominante do curso: Enfermagem.\n\n5 - Número de créditos, segundo o sistema europeu de transferência de créditos, necessário à obtenção do grau ou diploma: 120 ECTS.\n\n6 - Duração normal do curso: 4 semestres.\n\n7 - Estrutura curricular:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/24400/0000500007.pdf)\n\n8 - Plano de estudos:\n\n1.º ano/1.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/24400/0000500007.pdf)\n\n1.º ano/2.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/24400/0000500007.pdf)\n\n2.º ano/1.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/24400/0000500007.pdf)\n\n2.º ano/2.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/24400/0000500007.pdf)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 405/2019, arts. 1.º, 3.º, 4.º e 5.º (nova denominação do curso, transição, novo número máximo de alunos 30/60, aplicação) são normas autónomas que não dão nova redação a nenhum ponto da Portaria n.º 332/2003, pelo que não se aplicam ao texto; as tabelas do novo anexo só existem em imagem (mantidas as ligações).",
+  "instrucoes": [
+    "Art. 2.º: caracterização, estrutura curricular e plano de estudos passam a ter a redação do anexo -> substituído o anexo (unidades 35-37) pelo anexo novo, com as ligações das tabelas em imagem.",
+    "Arts. 1.º, 3.º, 4.º, 5.º: normas autónomas, não aplicadas (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

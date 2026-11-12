@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 5-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Artigo 1.º O Prémio Prof. Abílio Aires será atribuído anualmente ao aluno distinto mais classificado na cadeira de Cálculo das Probabilidades da Faculdade de Ciências da Universidade do Porto.\n\n§ único. Havendo dois ou mais alunos nas condições estabelecidas no corpo deste artigo, será o prémio atribuído àquele que se mostre viver em condições económicas mais desfavoráveis.",
+    "depois": "Artigo 1.º O Prémio Prof. Abílio Aires será atribuído anualmente ao aluno distinto da Faculdade de Ciências da Universidade do Porto mais classificado (por média aritmética) nas 2 disciplinas semestrais de Probabilidades e Estatística e de Análise Numérica e Cálculo Automático frequentadas desde 1976 até 1979 e de Probabilidades e Estatística e de Cálculo Automático frequentadas a Partir de 1980.\n\n§ único. Havendo 2 ou mais alunos nas condições estabelecidas no corpo deste artigo, será o prémio atribuído àquele que se mostre viver em condições económicas mais desfavoráveis.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:181273:por",
+    "alterador": "pt:dre:442772:por"
+  }
+]

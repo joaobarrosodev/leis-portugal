@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-09-24'
+version_history:
+  file: portaria-524-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-06-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-09-24'
+    amending: pt:dre:541634:por
+    amending_title: Portaria n.º 1006/2006
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/524/2005/06/15/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:06:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1006/2006. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2005/portaria-524-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,7 +136,9 @@ Entretanto, a entidade concessionária veio requerer a sua renovação.
 
 Cumpridos os preceitos legais, com fundamento no disposto no artigo 48.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, em conjugação com o estipulado na alínea a) do artigo 40.º do citado diploma, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Afeiteira (processo n.º 1494-DGRF), abrangendo vários prédios rústicos sitos na freguesia de Santana do Mato, município de Coruche, com a área de 1252 ha.
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Afeiteira (processo n.º 1494-DGRF), abrangendo vários prédios rústicos, cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Santana do Mato, município de Coruche, com a área de 1219 ha.
+
+> Alterado pelo/a [Portaria n.º 1006/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1006-2006-541634), publicado em 2006-09-19.
 
 2.º A presente portaria produz efeitos a partir do dia 15 de Julho de 2005.
 

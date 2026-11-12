@@ -1,0 +1,299 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:223234:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-04-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "76a66c056344fac7",
+    "20cb37c3e112da38",
+    "f4275ad80c3ebc64",
+    "a6d3beab65c0e0f4",
+    "46b0d2b67a0759b5",
+    "48ca0a9305348816",
+    "5158e1ca0b5d7b31",
+    "3817520bf1160708",
+    "b7f95a327739c421",
+    "7e67d7485409c73b",
+    "2b79ea5466032bd9",
+    "81befebe49cf7d81",
+    "bcd842ebc4178160",
+    "a4478845b8d39e0a",
+    "710c1a659fd5781e",
+    "073848d9734f2f8d",
+    "966256871a116fd9",
+    "a29d631da938436d",
+    "c9bdce4cbe1ff607",
+    "06a990c4dd028b8c",
+    "59f2ce7dbb85a49a",
+    "9b418014305a2b66"
+   ]
+  },
+  {
+   "date": "2005-04-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:562403:por",
+     "title": "Portaria n.º 381/2005",
+     "published": "2005-04-05",
+     "dre_path": "/dr/detalhe/portaria/381-2005-562403"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO::2.º",
+    "Altera Artigo ANEXO::6.º",
+    "Altera Artigo ANEXO::7.º",
+    "Altera Artigo ANEXO::17.º"
+   ],
+   "fragments": [
+    "76a66c056344fac7",
+    "20cb37c3e112da38",
+    "f4275ad80c3ebc64",
+    "f18973c15f620d02",
+    "46b0d2b67a0759b5",
+    "48ca0a9305348816",
+    "5158e1ca0b5d7b31",
+    "12b3f52277af9150",
+    "241b42a638e941f5",
+    "7e67d7485409c73b",
+    "2b79ea5466032bd9",
+    "81befebe49cf7d81",
+    "bcd842ebc4178160",
+    "a4478845b8d39e0a",
+    "710c1a659fd5781e",
+    "073848d9734f2f8d",
+    "966256871a116fd9",
+    "a29d631da938436d",
+    "2bbefa1db5e9a24e",
+    "06a990c4dd028b8c",
+    "59f2ce7dbb85a49a",
+    "9b418014305a2b66"
+   ]
+  }
+ ],
+ "fragments": {
+  "76a66c056344fac7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Abril\n\nO Governo aprovou, pelo [Decreto-Lei n.º 70-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2000-510266), de 5 de Maio, um enquadramento legal de referência para a criação de um conjunto de medidas de acção económica visando o desenvolvimento estratégico dos diversos sectores de actividade da economia, através de apoios directos e indirectos às empresas e demais agentes económicos, para o período que decorre entre 2000 e 2006.\n\nA [Resolução do Conselho de Ministros n.º 103/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/103-2002-197496), de 17 de Junho, publicada em 26 de Julho de 2002, que aprovou o Programa para a Produtividade e o Crescimento da Economia (PPCE), delineou e calendarizou um conjunto de medidas dirigidas à criação de condições propícias à consolidação, crescimento e desenvolvimento das empresas estabelecidas em Portugal e ao consequente aumento da competitividade da economia nacional.\n\nNeste contexto, decorre da revisão do Programa Operacional da Economia a criação do Programa de Incentivos à Modernização da Economia (PRIME), aprovado pela [Resolução do Conselho de Ministros n.º 101/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2003-647110), aprovada em 10 de Julho, constituindo objectivo fundamental do PRIME promover a produtividade e a competitividade da economia portuguesa, mediante o apoio, de forma selectiva, da estratégia própria das empresas visando garantir um desenvolvimento sustentável com vista ao reforço da sua competitividade a prazo, como forma de promover o crescimento do valor acrescentado nacional.\n\nNo âmbito do PRIME, a dinamização da envolvente empresarial constitui um dos eixos prioritários de actuação estratégica, em que o apoio à modernização e consolidação das infra-estruturas se assume de forma relevante para a criação de condições que facilitem a reorientação estratégica e o apoio à modernização das empresas, visando o apoio a infra-estruturas energéticas, com vista, nomeadamente, a assegurar o reforço da competitividade das empresas estimulando, mediante o exercício da sua actividade num quadro de eficiência, a valorização da produção endógena de energia e o cumprimento das obrigações de carácter ambiental.\n\nDeste modo, com o presente Regulamento visa-se apoiar projectos de investimento resultantes do planeamento e desenvolvimento do sistema de abastecimento de gás natural, bem como da necessidade de melhorar a fiabilidade e eficiência das redes de transporte e distribuição de electricidade, com vista à optimização das condições de interligação de centros produtores de energia eléctrica de fontes renováveis à rede eléctrica.\n\nAssim, ao abrigo do artigo 20.º e nos termos da alínea b) do artigo 7.º, ambos do [Decreto-Lei n.º 70-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2000-510266), de 5 de Maio, em conjugação com o n.º 3 da [Resolução do Conselho de Ministros n.º 101/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2003-647110), aprovada em 10 de Julho:\n\nManda o Governo, pelos Ministros de Estado e das Finanças, da Economia e das Cidades, Ordenamento do Território e Ambiente, o seguinte:\n\n1.º É aprovado o Regulamento de Execução da Medida de Apoio «Modernização e Desenvolvimento das Infra-Estruturas Energéticas», nos termos do anexo à presente portaria, da qual faz parte integrante.\n\n2.º É revogada a [Portaria n.º 681/2000](https://diariodarepublica.pt/dr/detalhe/portaria/681-2000-581240), publicada no Diário da República, 1.ª série-B, n.º 200, de 30 de Agosto de 2000.\n\nEm 27 de Março de 2003.\n\nA Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias."
+  },
+  "20cb37c3e112da38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nREGULAMENTO DE EXECUÇÃO DA MEDIDA DE APOIO «MODERNIZAÇÃO E DESENVOLVIMENTO DAS INFRA-ESTRUTURAS ENERGÉTICAS»."
+  },
+  "f4275ad80c3ebc64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece as regras aplicáveis à medida de apoio designada «Desenvolvimento e modernização das infra-estruturas energéticas», destinada a apoiar as infra-estruturas públicas de transporte e distribuição de gás natural e de electricidade, no âmbito do Programa de Incentivos à Modernização da Economia (PRIME)."
+  },
+  "a6d3beab65c0e0f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - São susceptíveis de apoio, no âmbito da presente medida, os projectos de investimento que resultem do planeamento, implementação e desenvolvimento do sistema de abastecimento de gás natural e que envolvam a:\n\na) Construção de um terminal de regaseificação na costa portuguesa;\n\nb) Construção de armazenagem subterrânea inerente à segurança do abastecimento;\n\nc) Extensão do gasoduto em superfície, nomeadamente através de nova ligação à rede europeia e de ligações ao terminal de regaseificação e à armazenagem subterrânea;\n\nd) Construção de ramais destinados ao abastecimento de redes locais de distribuição, bem como dos grandes consumidores;\n\ne) Expansão em superfície das redes de distribuição em áreas de concessão atribuída à PORTGÁS, LUSITANIAGÁS, SETGÁS e LISBOAGÁS;\n\nf) Construção e expansão em superfície das redes de distribuição em áreas de concessão atribuída à BEIRAGÁS e TAGUSGÁS;\n\ng) Construção de redes de distribuição de novas áreas geográficas a concessionar ou licenciar;\n\nh) Adaptação da rede de gás de cidade para fornecimento de gás natural na cidade de Lisboa;\n\ni) Instalação de unidades autónomas de regaseificação de gás natural;\n\nj) Aquisição de recipientes e equipamentos auxiliares embarcados para transporte rodoviário de GNL;\n\nk) Construção de estações de redução de pressão e demais componentes do sistema necessários à penetração do gás natural e à operação segura e fiável das instalações principais.\n\n2 - Para efeitos do presente diploma, designadamente no que se refere ao processo de decisão, os projectos previstos nas alíneas a), b), e) e h) do número anterior são considerados projectos desconcentrados, sendo os restantes considerados projectos nacionais.\n\n3 - São igualmente susceptíveis de apoio no âmbito da presente medida os projectos de investimento que resultem da necessidade de melhorar a fiabilidade e eficiência das redes de transporte e distribuição de electricidade, designadamente para permitir ou optimizar as condições de interligação de centros produtores de energia eléctrica, que envolvam a:\n\na) Construção de ramais de ligação entre centros produtores de electricidade, nomeadamente de origem renovável e de co-geração, e a rede eléctrica existente;\n\nb) Modernização e ampliação de estações e postos de transformação;\n\nc) Instalação de sistemas de telecomando e gestão;\n\nd) Construção de linhas que permitam optimizar a eficiência das redes e melhorar a qualidade de serviço aos consumidores."
+  },
+  "46b0d2b67a0759b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades beneficiárias\n\nAs entidades beneficiárias da medida de apoio ao desenvolvimento e modernização das infra-estruturas energéticas são as empresas concessionárias do transporte e da distribuição de gás natural e de electricidade, bem como outras empresas detentoras de licenças de serviço público relacionadas com estas actividades."
+  },
+  "48ca0a9305348816": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de elegibilidade do promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de elegibilidade do promotor\n\nO promotor do projecto, à data da candidatura, deve:\n\na) Ser uma sociedade de capitais públicos ou privados detentora de uma concessão ou licença relacionada com o transporte e distribuição de gás natural ou de electricidade;\n\nb) Estar legalmente constituído e registado nos termos da legislação em vigor;\n\nc) Dispor de contabilidade organizada, de acordo com o Plano Oficial de Contabilidade (POC);\n\nd) Possuir a situação regularizada perante a administração fiscal, a segurança social e as entidades pagadoras do incentivo;\n\ne) Ter uma situação económica e financeira equilibrada, de acordo com o estipulado no respectivo contrato de concessão."
+  },
+  "5158e1ca0b5d7b31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de elegibilidade do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de elegibilidade do projecto\n\nOs projectos de investimento devem:\n\na) Cumprir as condições legais aplicáveis à actividade, nomeadamente ter a situação regularizada em matéria de licenciamento ou estar aprovado nos termos legais aplicáveis;\n\nb) Não se terem iniciado há mais de seis meses antes da apresentação da candidatura e desde que tal não implique uma execução superior a 30% do investimento, com excepção de estudos prévios que tenham tido início até 12 meses antes da data de apresentação da candidatura;\n\nc) Iniciarem-se num período máximo de seis meses após a data de aprovação da candidatura;\n\nd) Incluir projecto técnico de engenharia adequado aos objectivos que se propõem atingir;\n\ne) Incluir estudo da viabilidade económica que deverá conter o respectivo plano de financiamento detalhado;\n\nf) Ter um período máximo de execução de 24 meses, salvo situações excepcionais, devidamente justificadas, sujeitas a autorização ministerial;\n\ng) O período de execução é avaliado a contar da data da primeira factura imputável ao projecto, terminando na data da última factura imputável ao projecto."
+  },
+  "3817520bf1160708": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas elegíveis\n\n1 - Constituem despesas elegíveis as realizadas em investimento corpóreo e incorpóreo que incluam:\n\na) Construção, aquisição de edifícios ou outros trabalhos de construção destinados exclusivamente ao exercício da actividade, incluindo o montante correspondente à parcela de expropriações, servidões e aquisição de terrenos, desde que não excedam 15% do investimento elegível do projecto;\n\nb) Aquisição, transporte e montagem de materiais e equipamentos destinados exclusivamente ao exercício da actividade prevista;\n\nc) Aquisição de software de aplicação específica e exclusiva ao projecto;\n\nd) Despesas de comercialização e marketing realizadas no âmbito do projecto, durante a fase de investimento, até ao limite global por entidade de 5% do investimento elegível respeitante às candidaturas aprovadas de infra-estruturas, desde que correspondam a aquisições a terceiros incorridas durante os primeiros cinco anos contados desde a data de outorga da concessão ou licença, e desde que tenham uma ligação directa ao projecto de natureza infra- estrutural e que seja justificadamente considerada indispensável para o seu funcionamento;\n\ne) Despesas de investimento incorpóreo, designadamente em estudos, projectos, testes e ensaios de arranque, bem como os custos incorridos com a implementação do projecto durante a fase de instalação, desde que não excedam 15% do investimento elegível do projecto e correspondam a aquisições a terceiros;\n\nf) Despesas com a intervenção dos revisores oficiais de contas, no âmbito da comprovação da execução financeira dos projectos, nos termos previstos nas alíneas a) e b) do n.º 4 do artigo 20.º\n\n2 - Para efeito do disposto no número anterior, apenas são considerados os valores declarados pelo promotor do projecto que correspondam aos custos médios do mercado, podendo a entidade gestora, caso não se verifique essa correspondência, proceder à respectiva adequação."
+  },
+  "b7f95a327739c421": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas não elegíveis\n\n1 - Não são elegíveis, designadamente, despesas com:\n\na) Aquisição de bens em estado de uso, excepto no caso de redes de distribuição já existentes, desde que se demonstre a sua vantagem em termos técnicos e financeiros e que sejam adquiridos a preços de mercado a entidades externas às concessionárias ou a entidades em que o grupo a que pertence o adquirente não possua uma posição superior a 30%;\n\nb) Aquisição de edifícios administrativos ou realojamentos;\n\nc) Comercialização e marketing relativos à conversão de equipamentos de consumidores;\n\nd) Encargos de estrutura e despesas de funcionamento das entidades beneficiárias, tais como despesas com administração, água, electricidade, telefone, serviços de limpeza e segurança, despesas fiscais e da correspondência e outras despesas que resultem da constituição e implementação das infra-estruturas das entidades beneficiárias;\n\ne) Juros sobre empréstimos e outros encargos financeiros;\n\nf) Cauções e outras garantias bancárias além das previstas no artigo anterior;\n\ng) Aquisição de veículos automóveis e outro material de transporte.\n\n2 - A demonstração que a aquisição é feita a preços de mercado, a que se refere a alínea a) do n.º 1 do presente artigo, deve ser feita mediante a apresentação de, pelo menos, duas avaliações de entidades independentes."
+  },
+  "7e67d7485409c73b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Critérios de selecção\n\nTodos os projectos que cumpram os requisitos legais são seleccionados, uma vez que se trata de uma medida de acesso condicionado a beneficiários aos quais é reconhecido carácter de interesse e serviço público, sem prejuízo da seguinte hierarquia:\n\na) Os projectos relativos ao sistema de gás natural têm prevalência na concessão de apoios;\n\nb) Os projectos de construção de ramais de ligação de centros produtores de energia eléctrica de origem renovável à rede eléctrica e os de modernização/ampliação de estações e postos de transformação que lhes estejam conexos têm prioridade face aos demais projectos relativos àquela rede."
+  },
+  "2b79ea5466032bd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Incentivo\n\n1 - O incentivo a conceder assume a forma de incentivo não reembolsável, correspondente a 40% das despesas elegíveis.\n\n2 - Para efeitos do disposto no número anterior, nos casos de projectos da BEIRAGÁS e TAGUSGÁS, bem como no caso de novas concessionárias a criar nos concelhos abrangidos por despacho do Ministro da Economia, no âmbito do PRASD, existirá uma majoração regional de 15%."
+  },
+  "81befebe49cf7d81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Cumulação de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cumulação de incentivos\n\nPara as mesmas despesas elegíveis, os incentivos concedidos ao abrigo do presente diploma não são acumuláveis com outros da mesma natureza."
+  },
+  "bcd842ebc4178160": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Articulação com os programas operacionais regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Articulação com os programas operacionais regionais\n\nA tramitação dos apoios relativa aos projectos desconcentrados, sem prejuízo do previsto no presente Regulamento, resultará de uma articulação a estabelecer mediante protocolo entre o gestor do PRIME e os gestores dos programas operacionais regionais."
+  },
+  "a4478845b8d39e0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entidade gestora\n\n1 - A entidade responsável pela gestão da medida de apoio ao desenvolvimento e modernização das infra-estruturas energéticas é o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI), sem prejuízo da articulação com as direcções regionais da economia (DRE).\n\n2 - A Direcção-Geral de Geologia e Energia (DGGE) é a entidade técnica especializada à qual compete a emissão de pareceres."
+  },
+  "710c1a659fd5781e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências\n\n1 - Compete ao IAPMEI, no âmbito dos projectos nacionais, proceder à avaliação das candidaturas, emitir as ordens de pagamento dos incentivos e o acompanhamento e verificação da execução dos projectos.\n\n2 - No âmbito dos projectos desconcentrados, as competências referidas no número anterior são exercidas através de uma articulação entre a DRE e o IAPMEI.\n\n3 - No âmbito das competências definidas no n.º 1, o IAPMEI deve emitir proposta de decisão, a submeter à unidade de gestão competente, no prazo de 40 dias a partir da data de recepção da candidatura.\n\n4 - Compete ainda ao IAPMEI emitir parecer, no prazo de 45 dias contados da data de recepção da candidatura, relativamente aos projectos desconcentrados recepcionados pelas DRE.\n\n5 - No âmbito dos projectos desconcentrados, e após o parecer mencionado no número anterior, a DRE submeterá uma proposta de decisão à unidade de gestão, presidida pelo presidente da comissão de coordenação e desenvolvimento regional (CCDR) territorialmente competente.\n\n6 - A entidade gestora poderá solicitar ao promotor esclarecimentos complementares, os quais deverão ser prestados no prazo máximo de 20 dias, decorridos os quais a ausência de resposta significará a desistência da candidatura.\n\n7 - Os prazos previstos nos n.os 3 e 4 do presente artigo suspendem-se sempre que, nos termos do número anterior, sejam solicitados esclarecimentos complementares ao promotor."
+  },
+  "073848d9734f2f8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apresentação de candidaturas\n\n1 - As candidaturas serão apresentadas no IAPMEI ou nas DRE consoante o projecto seja nacional ou desconcentrado.\n\n2 - A formalização das candidaturas é efectuada através da apresentação de formulário, fornecido pelas entidades receptoras, devidamente preenchido e em suporte magnético.\n\n3 - A entidade responsável pela recepção da candidatura efectua o seu registo no sistema de informação e procede à instrução sumária da sua validação."
+  },
+  "966256871a116fd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Processo de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Processo de decisão\n\n1 - Cabe à unidade de gestão competente para os projectos nacionais emitir, no prazo de 15 dias, uma proposta de decisão sobre as candidaturas, a submeter pelo gestor ao Ministro da Economia.\n\n2 - Cabe à unidade de gestão presidida pelo presidente da CCDR territorialmente competente emitir proposta de decisão sobre as candidaturas de projectos desconcentrados, a submeter pelo presidente da referida unidade de gestão ao Ministro da Economia.\n\n3 - A decisão relativa ao pedido de concessão de incentivo no âmbito dos projectos nacionais é notificada ao promotor pelo IAPMEI, sendo, no âmbito dos projectos desconcentrados, tal notificação efectuada pela DRE."
+  },
+  "a29d631da938436d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Formalização da concessão do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Formalização da concessão do incentivo\n\n1 - A concessão do incentivo é formalizada através de contrato a celebrar entre as entidades beneficiárias e o IAPMEI, mediante uma minuta tipo homologada pelo Ministro da Economia.\n\n2 - A não celebração do contrato por razões imputáveis às entidades beneficiárias, no prazo de 40 dias contados da data de notificação da decisão de aprovação, determina a caducidade da decisão de concessão do incentivo."
+  },
+  "c9bdce4cbe1ff607": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Obrigações das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigações das entidades beneficiárias\n\n1 - As entidades beneficiárias ficam sujeitas às seguintes obrigações:\n\na) Executar o projecto nos termos fixados no contrato;\n\nb) Cumprir os objectivos constantes da candidatura;\n\nc) Cumprir as obrigações legais, designadamente de natureza fiscal;\n\nd) Apresentar ao organismo gestor relatórios intercalares e finais de execução;\n\ne) Entregar, nos prazos estabelecidos, todos os elementos que lhe forem solicitados pelas entidades com competência para o acompanhamento, controlo e fiscalização;\n\nf) Comunicar às entidades gestoras qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à aprovação do projecto ou à sua realização pontual;\n\ng) Manter as condições legais necessárias ao exercício da respectiva actividade, nomeadamente quanto à sua situação em matéria de licenciamento;\n\nh) Manter a situação regularizada perante as entidades pagadoras do apoio;\n\ni) Manter a contabilidade organizada segundo o POC;\n\nj) Manter na empresa, devidamente organizados em dossier, todos os documentos susceptíveis de comprovar as declarações prestadas na candidatura;\n\nk) Garantir o acesso do IAPMEI, das DRE ou de quem por eles for mandatado às instalações a que dizem respeito as candidaturas em apreciação ou aprovadas;\n\nl) Publicitar os apoios recebidos nos termos regulamentados.\n\n3 - As entidades beneficiárias ficam sujeitas a verificação da utilização dos apoios concedidos, não podendo locar, alienar ou por outro modo onerar, no todo ou em parte, sem autorização prévia do Ministro da Economia os bens adquiridos para a execução do projecto."
+  },
+  "06a990c4dd028b8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Pagamento do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Pagamento do incentivo\n\n1 - O pagamento do incentivo às entidades beneficiárias é efectuado de acordo com as cláusulas contratuais, mediante a emissão de ordens de pagamento pela entidade gestora.\n\n2 - Os pagamentos dos incentivos são assegurados pelo IAPMEI, que, no caso dos projectos desconcentrados, articulará a respectiva transferência de verbas com a CCDR competente.\n\n3 - Sem prejuízo do disposto nos n.os 1 e 2, o pagamento do incentivo será efectuado do seguinte modo:\n\na) Prestações intermédias com base na verificação das despesas de investimento liquidadas e realizadas fisicamente, uma vez verificados os respectivos justificativos, devidamente classificados em função dos objectivos do projecto;\n\nb) Uma prestação final do montante do saldo não inferior a 10%, a qual ficará dependente de vistoria às instalações ou verificação dos resultados, a efectuar pelas entidades competentes ou pela entidade gestora, após a conclusão dos trabalhos descritos nos processos de candidatura e a sequente entrega do relatório final do projecto."
+  },
+  "59f2ce7dbb85a49a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Contabilização do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contabilização do incentivo\n\nOs incentivos concedidos são contabilizados numa conta exclusivamente afecta ao registo da comparticipação no âmbito desta medida de apoio, de acordo com o POC em vigor."
+  },
+  "9b418014305a2b66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Acompanhamento, controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acompanhamento, controlo e fiscalização\n\n1 - Sem prejuízo de outros mecanismos de acompanhamento e controlo que venham a ser adoptados, o acompanhamento e verificação da execução do projecto e do contrato serão assegurados pela entidade gestora, sem prejuízo da articulação com outros organismos competentes.\n\n2 - Compete à entidade gestora, em articulação com as DRE, apresentar relatórios de execução semestral e anual.\n\n3 - Os desvios verificados através do disposto no n.º 2 do presente artigo e na alínea d) do n.º 1 do artigo 17.º, relativamente à calendarização prevista na candidatura, poderão dar lugar à revisão das condições de financiamento.\n\n4 - A comprovação da execução financeira dos projectos é da responsabilidade da entidade gestora, podendo ser assumida nos seguintes termos:\n\na) Ter por base uma declaração de despesa do investimento apresentada pelo promotor, certificada por um revisor oficial de contas (ROC), através da qual confirma a realização das despesas de investimento, que os documentos comprovativos daqueles se encontram correctamente lançados na contabilidade e que o incentivo foi contabilizado de acordo com o POC;\n\nb) Em casos devidamente justificados, a ausência de certificação por um ROC da declaração de despesa do investimento será suprida por intervenção específica da entidade gestora respectiva;\n\nc) As declarações de despesas do investimento dos promotores serão auditadas, por amostragem, pelas entidades gestoras.\n\n5 - As entidades beneficiárias que venham a obter os incentivos previstos nesta medida ficam sujeitas a fiscalização com vista à verificação da sua utilização."
+  },
+  "f18973c15f620d02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2005-04-10",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 381/2005](https://diariodarepublica.pt/dr/detalhe/portaria/381-2005-562403), publicado em 2005-04-05."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - São susceptíveis de apoio, no âmbito da presente medida, os projectos de investimento que resultem do planeamento, implementação e desenvolvimento do sistema de abastecimento de gás natural e que envolvam a:\n\na) Construção de terminais de regaseificação na costa portuguesa;\n\nb) Construção de armazenagem subterrânea inerente à segurança do abastecimento;\n\nc) Extensão do gasoduto em superfície, nomeadamente através de nova ligação à rede europeia e de ligações ao terminal de regaseificação e à armazenagem subterrânea;\n\nd) Construção de ramais destinados ao abastecimento de redes locais de distribuição, bem como dos grandes consumidores;\n\ne) Expansão em superfície das redes de distribuição em áreas de concessão atribuídas à PORTGÁS, LUSITANIGÁS, SETGÁS e LISBOAGÁS ou da responsabilidade da MEDIGÁS na área que lhe está licenciada;\n\nf) Construção e expansão em superfície das redes de distribuição em áreas de concessão atribuída à BEIRAGÁS e TAGUSGÁS;\n\ng) Construção de redes de distribuição de novas áreas geográficas a concessionar ou licenciar;\n\nh) Adaptação da rede de gás de cidade para fornecimento de gás natural na cidade de Lisboa;\n\ni) Instalação de unidades autónomas de regaseificação de gás natural;\n\nj) Aquisição de recipientes e equipamentos auxiliares embarcados para transporte rodoviário de GNL;\n\nk) Construção de estações de redução de pressão e demais componentes do sistema necessários à penetração do gás natural e à operação segura e fiável das instalações principais.\n\n2 - Para efeitos do presente diploma, designadamente no que se refere ao processo de decisão, os projectos previstos na alínea a), desde que na costa do continente, e nas alíneas b), e) e h) do número anterior são considerados projectos desconcentrados, sendo os restantes considerados projectos nacionais.\n\n3 - São igualmente susceptíveis de apoio no âmbito da presente medida os projectos de investimento que resultem da necessidade de melhorar a fiabilidade e eficiência das redes de transporte e distribuição de electricidade, designadamente para permitir ou optimizar as condições de interligação de centros produtores de energia eléctrica, que envolvam a:\n\na) Construção de ramais de ligação entre centros produtores de electricidade, nomeadamente de origem renovável e de co-geração, e a rede eléctrica existente;\n\nb) Modernização e ampliação de estações e postos de transformação;\n\nc) Instalação de sistemas de telecomando e gestão;\n\nd) Construção de linhas que permitam optimizar a eficiência das redes e melhorar a qualidade de serviço aos consumidores.\n\n> Alterado pelo/a [Portaria n.º 381/2005](https://diariodarepublica.pt/dr/detalhe/portaria/381-2005-562403), publicado em 2005-04-05."
+  },
+  "12b3f52277af9150": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Despesas elegíveis",
+   "in_force_from": "2005-04-10",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 381/2005](https://diariodarepublica.pt/dr/detalhe/portaria/381-2005-562403), publicado em 2005-04-05."
+   ],
+   "markdown": "###### Artigo 6.º — Despesas elegíveis\n\n1 - Constituem despesas elegíveis as realizadas em investimento corpóreo e incorpóreo que incluam:\n\na) Construção, aquisição de edifícios ou outros trabalhos de construção destinados exclusivamente ao exercício da actividade, incluindo o montante correspondente à parcela de expropriações, servidões e aquisição de terrenos, desde que não excedam 15% do investimento elegível do projecto;\n\nb) Aquisição, transporte e montagem de materiais e equipamentos destinados exclusivamente ao exercício da actividade prevista;\n\nc) Aquisição de software de aplicação específica e exclusiva ao projecto;\n\nd) Despesas de comercialização e marketing realizadas no âmbito do projecto, durante a fase de investimento, até ao limite global por entidade de 5% do investimento elegível respeitante às candidaturas aprovadas de infra-estruturas, desde que correspondam a aquisições a terceiros incorridas durante os primeiros cinco anos contados desde a data de outorga da concessão ou licença, e desde que tenham uma ligação directa ao projecto de natureza infra-estrutural e que sejam justificadamente consideradas indispensáveis para o seu funcionamento;\n\ne) Despesas de investimento incorpóreo, designadamente em estudos, projectos, testes e ensaios de arranque, bem como os custos incorridos com a implementação do projecto durante a fase de instalação, desde que não excedam 15% do investimento elegível do projecto e correspondam a aquisições a terceiros;\n\nf) Despesas com a intervenção dos revisores oficiais de contas, no âmbito da comprovação da execução financeira dos projectos, nos termos previstos nas alíneas a) e b) do n.º 4 do artigo 20.º\n\n2 - Para efeito do disposto no número anterior, apenas são considerados os valores declarados pelo promotor do projecto que correspondam aos custos médios do mercado, podendo a entidade gestora, caso não se verifique essa correspondência, proceder à respectiva adequação.\n\n> Alterado pelo/a [Portaria n.º 381/2005](https://diariodarepublica.pt/dr/detalhe/portaria/381-2005-562403), publicado em 2005-04-05."
+  },
+  "241b42a638e941f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Despesas não elegíveis",
+   "in_force_from": "2005-04-10",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 381/2005](https://diariodarepublica.pt/dr/detalhe/portaria/381-2005-562403), publicado em 2005-04-05."
+   ],
+   "markdown": "###### Artigo 7.º — Despesas não elegíveis\n\n1 - Não são elegíveis, designadamente, despesas com:\n\na) Aquisição de bens em estado de uso, excepto no caso de redes de distribuição já existentes, desde que se demonstre a sua vantagem em termos técnicos e financeiros e que sejam adquiridos a preços de mercado a entidades externas às concessionárias ou a entidades em que o grupo a que pertence o adquirente não possua uma posição superior a 30%;\n\nb) Aquisição de edifícios administrativos ou realojamentos;\n\nc) Comercialização e marketing relativos à conversão de equipamentos de consumidores;\n\nd) Encargos de estrutura e despesas de funcionamento das entidades beneficiárias, tais como despesas com administração, água, electricidade, telefone, serviços de limpeza e segurança, despesas fiscais e da correspondência e outras despesas que resultem da constituição e implementação das infra-estruturas das entidades beneficiárias;\n\ne) Juros sobre empréstimos e outros encargos financeiros;\n\nf) Aquisição de veículos automóveis e outro material de transporte.\n\n2 - A demonstração que a aquisição é feita a preços de mercado, a que se refere a alínea a) do n.º 1 do presente artigo, deve ser feita mediante a apresentação de, pelo menos, duas avaliações de entidades independentes.\n\n> Alterado pelo/a [Portaria n.º 381/2005](https://diariodarepublica.pt/dr/detalhe/portaria/381-2005-562403), publicado em 2005-04-05."
+  },
+  "2bbefa1db5e9a24e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Obrigações das entidades beneficiárias",
+   "in_force_from": "2005-04-10",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 381/2005](https://diariodarepublica.pt/dr/detalhe/portaria/381-2005-562403), publicado em 2005-04-05."
+   ],
+   "markdown": "###### Artigo 17.º — Obrigações das entidades beneficiárias\n\n1 - As entidades beneficiárias ficam sujeitas às seguintes obrigações:\n\na) Executar o projecto nos termos fixados no contrato;\n\nb) Cumprir os objectivos constantes da candidatura;\n\nc) Cumprir as obrigações legais, designadamente de natureza fiscal;\n\nd) Apresentar ao organismo gestor relatórios intercalares e finais de execução;\n\ne) Entregar, nos prazos estabelecidos, todos os elementos que lhe forem solicitados pelas entidades com competência para o acompanhamento, controlo e fiscalização;\n\nf) Comunicar às entidades gestoras qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à aprovação do projecto ou à sua realização pontual;\n\ng) Manter as condições legais necessárias ao exercício da respectiva actividade, nomeadamente quanto à sua situação em matéria de licenciamento;\n\nh) Manter a situação regularizada perante as entidades pagadoras do apoio;\n\ni) Manter a contabilidade organizada segundo o POC;\n\nj) Manter na empresa, devidamente organizados em dossier, todos os documentos susceptíveis de comprovar as declarações prestadas na candidatura;\n\nk) Garantir o acesso do IAPMEI, das DRE ou de quem por eles for mandatado às instalações a que dizem respeito as candidaturas em apreciação ou aprovadas;\n\nl) Publicitar os apoios recebidos nos termos regulamentados.\n\n2 - As entidades beneficiárias ficam sujeitas a verificação da utilização dos apoios concedidos, não podendo locar, alienar ou por qualquer outro modo onerar, no todo ou em parte, sem autorização prévia do Ministro de Estado, das Actividades Económicas e do Trabalho, os bens adquiridos para a execução do projecto, durante um período de cinco anos a contar da data da conclusão do projecto.\n\n> Alterado pelo/a [Portaria n.º 381/2005](https://diariodarepublica.pt/dr/detalhe/portaria/381-2005-562403), publicado em 2005-04-05."
+  }
+ }
+}

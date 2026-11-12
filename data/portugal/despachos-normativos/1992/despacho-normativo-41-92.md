@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-07-15'
+version_history:
+  file: despacho-normativo-41-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-03-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-07-15'
+    amending: pt:dre:389392:por
+    amending_title: Despacho Normativo n.º 145/93
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/41/1992/03/26/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:58:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 145/93. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1992/despacho-normativo-41-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,6 +139,8 @@ Determina-se o seguinte:
 
 2 - O lugar criado nos termos do número anterior será extinto quando vagar.
 
-3 - A criação do lugar previsto no presente diploma produz efeitos desde 3 de Junho de 1991.
+3 - A criação do lugar previsto no presente diploma produz efeitos desde 8 de Agosto de 1991.
+
+> Alterado pelo/a [Despacho Normativo n.º 145/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/145-1993-389392), publicado em 1993-07-10.
 
 Ministérios da Administração Interna e das Finanças, 6 de Fevereiro de 1992. - Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.

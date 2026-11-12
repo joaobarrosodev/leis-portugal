@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-11-13'
+version_history:
+  file: portaria-418-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-07-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-11-13'
+    amending: pt:dre:171551:por
+    amending_title: Portaria n.º 841/85
+    changes:
+    - Altera Artigo unidades 8-8
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:26:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 841/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-418-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,7 +143,9 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 1.º O quadro de pessoal da Direcção-Geral de Geologia e Minas, aprovado pelo [Decreto Regulamentar n.º 46/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1983-451864), de 8 de Junho, é aumentado do lugar constante do mapa anexo ao presente diploma, a extinguir quando vagar.
 
-2.º Esta portaria produz efeitos a partir do dia imediato ao da sua publicação.
+2.º Este diploma produz efeitos a partir de 1 de Maio de 1984.
+
+> Alterado pelo/a [Portaria n.º 841/85](https://diariodarepublica.pt/dr/detalhe/portaria/841-1985-171551), publicado em 1985-11-08.
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Indústria e Energia.
 

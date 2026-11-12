@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-08-02'
+version_history:
+  file: portaria-41-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-01-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-08-02'
+    amending: pt:dre:345514:por
+    amending_title: Portaria n.º 567/99
+    changes:
+    - Altera Artigo unidades 20-20
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/41/1999/01/21/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:15:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 567/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-41-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +159,9 @@ j) Um representante das associações de pais.
 
 3.º A Comissão de Protecção poderá deliberar que dela façam parte outros membros, nas situações previstas no artigo 14.º do [Decreto-Lei n.º 189/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1991-639490), de 17 de Maio.
 
-4.º Nos 30 dias seguintes à publicação da presente portaria, as entidades que integram a Comissão de Protecção indicarão o seu representante e respectivo substituto ao procurador da República no círculo judicial de Mirandela, ao presidente da Câmara Municipal de Alijó e à presidente do Instituto de Reinserção Social.
+4.º Nos 30 dias seguintes à publicação da presente portaria, as entidades que integram a Comissão de Protecção indicarão o seu representante e respectivo substituto ao procurador da República no círculo judicial de Vila Real, ao presidente da Câmara Municipal de Alijó e ao presidente do Instituto de Reinserção Social.
+
+> Alterado pelo/a [Portaria n.º 567/99](https://diariodarepublica.pt/dr/detalhe/portaria/567-1999-345514), publicado em 1999-07-28.
 
 5.º O psicólogo referido na alínea g) do n.º 2.º será designado por alguma das instituições que integram a Comissão ou que com ela colaborem.
 

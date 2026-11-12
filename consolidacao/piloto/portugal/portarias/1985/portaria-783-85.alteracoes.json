@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 22-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "9.º Os encargos deste empréstimo, que serão suportados pelo orçamento da Região Autónoma da Madeira, beneficiam do aval do Estado, conforme Resolução do Conselho de Ministros de 1 de Agosto de 1985, publicada no 2.º suplemento ao Diário da República, 2.ª série, n.º 185, de 13 de Agosto de 1985.",
+    "depois": "9.º Os encargos deste empréstimo, que serão suportados pelo orçamento da Região Autónoma da Madeira, beneficiam do aval do Estado, conforme a [Resolução do Conselho de Ministros n.º 4/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-1986-616405), de 26 de Dezembro de 1985, publicada no Diário da República, 1.ª série, n.º 7, de 9 de Janeiro de 1986.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:178336:por",
+    "alterador": "pt:dre:227460:por"
+  }
+]

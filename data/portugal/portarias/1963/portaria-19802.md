@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-05-24'
+version_history:
+  file: portaria-19802.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-04-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-05-24'
+    amending: pt:dre:627648:por
+    amending_title: Portaria n.º 19867
+    changes:
+    - Altera Artigo unidades 3-3
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:28:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 19867. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1963/portaria-19802.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -106,6 +121,8 @@ validation:
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Negócios Estrangeiros, nos termos do artigo 5.º do [Decreto-Lei n.º 41965](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41965-1958-339236), de 19 de Novembro de 1958, que o n.º 3) da [Portaria n.º 19308](https://diariodarepublica.pt/dr/detalhe/portaria/19308-1962-163980), de 31 de Julho de 1962, passe a ter a seguinte redacção:
 
-3) Pessoal assalariado - um consultor especial, um encarregado dos serviços de imprensa, um escriturário, dois dactilógrafos, um contínuo.
+3) Pessoal assalariado - um consultor especial, um encarregado dos serviços de imprensa, quatro funcionários em serviço privativo, de qualquer categoria, entre arquivista, escriturário ou dactilógrafo, e um contínuo.
+
+> Alterado pelo/a [Portaria n.º 19867](https://diariodarepublica.pt/dr/detalhe/portaria/19867-1963-627648), publicado em 1963-05-24.
 
 Ministérios das Finanças e dos Negócios Estrangeiros, 11 de Abril de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.

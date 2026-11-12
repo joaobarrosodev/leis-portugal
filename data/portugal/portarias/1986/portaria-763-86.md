@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-10-07'
+version_history:
+  file: portaria-763-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-12-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-10-07'
+    amending: pt:dre:495505:por
+    amending_title: Portaria n.º 818/87
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:58:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 818/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-763-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,7 +145,9 @@ Assim:
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, ouvidos os Governos Regionais dos Açores e da Madeira, nos termos e em execução do disposto no artigo 8.º, n.º 2, do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, o seguinte:
 
-1.º O índice de localização, segundo zonas do País, a que se refere a alínea c) do n.º 1.º da [Portaria n.º 562-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/562-a-1986-148781), de 30 de Setembro, será para as Regiões Autónomas dos Açores e da Madeira de 1,20.
+1.º O índice de localização, segundo zonas do País, a que se refere a alínea c) do n.º 1.º da [Portaria n.º 362/87](https://diariodarepublica.pt/dr/detalhe/portaria/362-1987-421201), de 2 de Maio, será para as Regiões Autónomas dos Açores e da Madeira de 1,25.
+
+> Alterado pelo/a [Portaria n.º 818/87](https://diariodarepublica.pt/dr/detalhe/portaria/818-1987-495505), publicado em 1987-10-02.
 
 2.º Para vigorar nas Regiões Autónomas dos Açores e da Madeira, a tabela III anexa à portaria referida no número anterior será a constante da tabela anexa à presente portaria.
 

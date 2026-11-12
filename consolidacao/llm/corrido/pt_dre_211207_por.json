@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:211207:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 512/2002 revoga a concessão da zona de caça turística atribuída pela portaria (ato administrativo de revogação da concessão), sem alterar nem revogar textualmente nenhum ponto do diploma; não há mudança textual a aplicar.",
+  "instrucoes": [
+    "Portaria 512/2002 revoga a concessão atribuída pela Portaria 896-M1/95: não é alteração textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

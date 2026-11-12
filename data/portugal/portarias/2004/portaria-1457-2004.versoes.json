@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:209855:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-11-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ceb457766341f6f5"
+   ]
+  },
+  {
+   "date": "2005-01-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:623599:por",
+     "title": "Portaria n.º 90/2005",
+     "published": "2005-01-25",
+     "dre_path": "/dr/detalhe/portaria/90-2005-623599"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "7e46934b7628bb79"
+   ]
+  }
+ ],
+ "fragments": {
+  "ceb457766341f6f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Novembro\n\nPela [Portaria n.º 586/92](https://diariodarepublica.pt/dr/detalhe/portaria/586-1992-303095), de 27 de Junho, alterada pela [Portaria n.º 225/2002](https://diariodarepublica.pt/dr/detalhe/portaria/225-2002-265498), de 12 de Março, foi concessionada à Sociedade Agrícola da Zangarilha, Lda., a zona de caça turística da Zangarilha (processo n.º 945-DGRF), situada no município de Portel, válida até 27 de Junho de 2004.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no n.º 3 do artigo 164.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, e no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 2 do artigo 36.º, do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, e ouvido o Conselho Cinegético Municipal:\n\nManda o Governo, pelos Ministros da Agricultura, Pescas e Florestas e do Turismo, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de seis anos, a concessão da zona de caça turística da Zangarilha (processo n.º 945-DGRF), abrangendo vários prédios rústicos sitos na freguesia e município de Portel, com a área de 291 ha.\n\n2.º A presente renovação é condicionada à apresentação de comprovativo da habilitação da entidade requerente para gerir zonas de caça turísticas no prazo de seis meses após a publicação da presente portaria.\n\n3.º É revogada a [Portaria n.º 721/2004](https://diariodarepublica.pt/dr/detalhe/portaria/721-2004-271252), de 24 de Junho.\n\n4.º A presente portaria produz efeitos a partir do dia 28 de Junho de 2004.\n\nPelo Ministro da Agricultura, Pescas e Florestas, Luís António Pires Pinheiro, Secretário de Estado das Florestas, em 26 de Outubro de 2004. - O Ministro do Turismo, Telmo Augusto Gomes de Noronha Correia, em 17 de Novembro de 2004."
+  },
+  "7e46934b7628bb79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2005-01-30",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 90/2005](https://diariodarepublica.pt/dr/detalhe/portaria/90-2005-623599), publicado em 2005-01-25."
+   ],
+   "markdown": "de 30 de Novembro\n\nPela [Portaria n.º 586/92](https://diariodarepublica.pt/dr/detalhe/portaria/586-1992-303095), de 27 de Junho, alterada pela [Portaria n.º 225/2002](https://diariodarepublica.pt/dr/detalhe/portaria/225-2002-265498), de 12 de Março, foi concessionada à Sociedade Agrícola da Zangarilha, Lda., a zona de caça turística da Zangarilha (processo n.º 945-DGRF), situada no município de Portel, válida até 27 de Junho de 2004.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no n.º 3 do artigo 164.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, e no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 2 do artigo 36.º, do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, e ouvido o Conselho Cinegético Municipal:\n\nManda o Governo, pelos Ministros da Agricultura, Pescas e Florestas e do Turismo, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Zangarilha (processo n.º 945-DGRF), abrangendo vários prédios rústicos sitos na freguesia e município de Portel, com a área de 291 ha.\n\n> Alterado pelo/a [Portaria n.º 90/2005](https://diariodarepublica.pt/dr/detalhe/portaria/90-2005-623599), publicado em 2005-01-25.\n\n2.º A presente renovação é condicionada à apresentação de comprovativo da habilitação da entidade requerente para gerir zonas de caça turísticas no prazo de seis meses após a publicação da presente portaria.\n\n3.º É revogada a [Portaria n.º 721/2004](https://diariodarepublica.pt/dr/detalhe/portaria/721-2004-271252), de 24 de Junho.\n\n4.º A presente portaria produz efeitos a partir do dia 28 de Junho de 2004.\n\nPelo Ministro da Agricultura, Pescas e Florestas, Luís António Pires Pinheiro, Secretário de Estado das Florestas, em 26 de Outubro de 2004. - O Ministro do Turismo, Telmo Augusto Gomes de Noronha Correia, em 17 de Novembro de 2004."
+  }
+ }
+}

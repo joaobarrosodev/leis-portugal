@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:226830:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-06-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "80a0f7cf1130bbf8"
+   ]
+  },
+  {
+   "date": "2006-09-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:541634:por",
+     "title": "Portaria n.º 1006/2006",
+     "published": "2006-09-19",
+     "dre_path": "/dr/detalhe/portaria/1006-2006-541634"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "d8ec5c69eba90fff"
+   ]
+  }
+ ],
+ "fragments": {
+  "80a0f7cf1130bbf8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Junho\n\nPela [Portaria n.º 667-X5/93](https://diariodarepublica.pt/dr/detalhe/portaria/667-x5-1993-402303), de 14 de Julho, foi concessionada à Companhia Agrícola das Cortes e Valbom - Calbom, S. A., a zona de caça turística da Afeiteira (processo n.º 1494-DGRF), situada no município de Coruche, válida até 14 de Julho de 2005.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no artigo 48.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, em conjugação com o estipulado na alínea a) do artigo 40.º do citado diploma, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Afeiteira (processo n.º 1494-DGRF), abrangendo vários prédios rústicos sitos na freguesia de Santana do Mato, município de Coruche, com a área de 1252 ha.\n\n2.º A presente portaria produz efeitos a partir do dia 15 de Julho de 2005.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 24 de Maio de 2005."
+  },
+  "d8ec5c69eba90fff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-09-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1006/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1006-2006-541634), publicado em 2006-09-19."
+   ],
+   "markdown": "de 15 de Junho\n\nPela [Portaria n.º 667-X5/93](https://diariodarepublica.pt/dr/detalhe/portaria/667-x5-1993-402303), de 14 de Julho, foi concessionada à Companhia Agrícola das Cortes e Valbom - Calbom, S. A., a zona de caça turística da Afeiteira (processo n.º 1494-DGRF), situada no município de Coruche, válida até 14 de Julho de 2005.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no artigo 48.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, em conjugação com o estipulado na alínea a) do artigo 40.º do citado diploma, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Afeiteira (processo n.º 1494-DGRF), abrangendo vários prédios rústicos, cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Santana do Mato, município de Coruche, com a área de 1219 ha.\n\n> Alterado pelo/a [Portaria n.º 1006/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1006-2006-541634), publicado em 2006-09-19.\n\n2.º A presente portaria produz efeitos a partir do dia 15 de Julho de 2005.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 24 de Maio de 2005."
+  }
+ }
+}

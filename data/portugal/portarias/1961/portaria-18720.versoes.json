@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:181273:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1961-09-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "306deac2dfb4a4e2"
+   ]
+  },
+  {
+   "date": "1983-10-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:442772:por",
+     "title": "Portaria n.º 909/83",
+     "published": "1983-10-01",
+     "dre_path": "/dr/detalhe/portaria/909-1983-442772"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-6"
+   ],
+   "fragments": [
+    "1eca710145763a0b"
+   ]
+  }
+ ],
+ "fragments": {
+  "306deac2dfb4a4e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, aprovar o Regulamento do Prémio Prof. Abílio Aires, que baixa assinado pelo director-geral do Ensino Superior e das Belas-Artes.\n\nMinistério da Educação Nacional, 8 de Setembro de 1961. - O Ministro da Educação Nacional, Manuel Lopes de Almeida.\n\nRegulamento do Prémio Prof. Abílio Aires\n\nArtigo 1.º O Prémio Prof. Abílio Aires será atribuído anualmente ao aluno distinto mais classificado na cadeira de Cálculo das Probabilidades da Faculdade de Ciências da Universidade do Porto.\n\n§ único. Havendo dois ou mais alunos nas condições estabelecidas no corpo deste artigo, será o prémio atribuído àquele que se mostre viver em condições económicas mais desfavoráveis.\n\nArt. 2.º O prémio será constituído pelo rendimento anual da importância de 16000$00, já entregue pelos seus instituidores, que vai ser convertida em certificado de renda perpétua assentado à Faculdade, adicionada de outras que porventura venham a ser oferecidas com idêntico fim.\n\nArt. 3.º Compete ao reitor da Universidade do Porto a indicação do aluno a quem cabe o prémio, nas condições do artigo 1.º e seu parágrafo, assim como a sua entrega que, em princípio, será efectuada na sessão solene de abertura do ano lectivo seguinte àquele a que o prémio se refere.\n\nDirecção-Geral do Ensino Superior e das Belas Artes, 8 de Setembro de 1961. - O Director-Geral, João Alexandre Ferreira de Almeida."
+  },
+  "1eca710145763a0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1983-10-06",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 909/83](https://diariodarepublica.pt/dr/detalhe/portaria/909-1983-442772), publicado em 1983-10-01."
+   ],
+   "markdown": "Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, aprovar o Regulamento do Prémio Prof. Abílio Aires, que baixa assinado pelo director-geral do Ensino Superior e das Belas-Artes.\n\nMinistério da Educação Nacional, 8 de Setembro de 1961. - O Ministro da Educação Nacional, Manuel Lopes de Almeida.\n\nRegulamento do Prémio Prof. Abílio Aires\n\nArtigo 1.º O Prémio Prof. Abílio Aires será atribuído anualmente ao aluno distinto da Faculdade de Ciências da Universidade do Porto mais classificado (por média aritmética) nas 2 disciplinas semestrais de Probabilidades e Estatística e de Análise Numérica e Cálculo Automático frequentadas desde 1976 até 1979 e de Probabilidades e Estatística e de Cálculo Automático frequentadas a Partir de 1980.\n\n§ único. Havendo 2 ou mais alunos nas condições estabelecidas no corpo deste artigo, será o prémio atribuído àquele que se mostre viver em condições económicas mais desfavoráveis.\n\n> Alterado pelo/a [Portaria n.º 909/83](https://diariodarepublica.pt/dr/detalhe/portaria/909-1983-442772), publicado em 1983-10-01.\n\nArt. 2.º O prémio será constituído pelo rendimento anual da importância de 16000$00, já entregue pelos seus instituidores, que vai ser convertida em certificado de renda perpétua assentado à Faculdade, adicionada de outras que porventura venham a ser oferecidas com idêntico fim.\n\nArt. 3.º Compete ao reitor da Universidade do Porto a indicação do aluno a quem cabe o prémio, nas condições do artigo 1.º e seu parágrafo, assim como a sua entrega que, em princípio, será efectuada na sessão solene de abertura do ano lectivo seguinte àquele a que o prémio se refere.\n\nDirecção-Geral do Ensino Superior e das Belas Artes, 8 de Setembro de 1961. - O Director-Geral, João Alexandre Ferreira de Almeida."
+  }
+ }
+}

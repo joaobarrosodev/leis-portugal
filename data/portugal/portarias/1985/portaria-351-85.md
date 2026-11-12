@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-05-02'
+version_history:
+  file: portaria-351-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-06-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-05-02'
+    amending: pt:dre:665691:por
+    amending_title: Portaria n.º 345/87
+    changes:
+    - Altera Artigo unidades 18-26
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:24:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 345/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-351-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -160,23 +175,19 @@ A área científica do curso é a Hidráulica.
 
 As áreas científicas e as unidades de crédito necessárias à conclusão do curso distribuem-se da seguinte forma:
 
-I) Áreas científicas obrigatórias:
+Áreas científicas obrigatórias:
 
 a) Ciências Básicas ... 7,5
 
-b) Hidráulica Aplicada ... 8
+b) Hidráulica Aplicada ... 6,5
 
-c) Engenharia de Recursos Hídricos ... 3,5
+c) Engenharia de Recursos Hídricos ... 7
 
-d) Engenharia Marítima ... 3
+d) Engenharia Marítima ... 8
 
-II) Áreas científicas optativas:
+Total ... 29
 
-a) Engenharia Marítima ... 3,5
-
-b) Engenharia de Recursos Hídricos ... 3,5
-
-Total ... 25,5
+> Alterado pelo/a [Portaria n.º 345/87](https://diariodarepublica.pt/dr/detalhe/portaria/345-1987-665691), publicado em 1987-04-27.
 
 5.º
 

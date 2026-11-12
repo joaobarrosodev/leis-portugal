@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:158464:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 16,
+      "texto": "O presente Programa aplica-se nas áreas geográficas de intervenção das Direcções Regionais de Agricultura do Algarve, do Alentejo, do Ribatejo e Oeste e da Beira Interior, com excepção das explorações não indemnes de peste suína africana.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 dá nova redação ao n.º 2.º (epígrafe igual): substituído só o corpo (unidade 16)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:170488:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 2.º da Portaria n.º 20014 revoga a Portaria n.º 18490 apenas 'no que respeita a quadros de pessoal' (revogação parcial definida por matéria, sem indicar unidades, e os mapas só existem em imagem), pelo que não se aplica ao texto com segurança.",
+  "instrucoes": [
+    "Alterador 1, n.º 2.º: revogação da Portaria n.º 18490 no que respeita a quadros de pessoal; não aplicada (parcial por matéria, não textual)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

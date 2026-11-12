@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3 - A criação do lugar previsto no presente diploma produz efeitos desde 3 de Junho de 1991.",
+    "depois": "3 - A criação do lugar previsto no presente diploma produz efeitos desde 8 de Agosto de 1991.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:188878:por",
+    "alterador": "pt:dre:389392:por"
+  }
+]

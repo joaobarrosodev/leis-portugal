@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-05-24'
+version_history:
+  file: portaria-19308.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-05-24'
+    amending: pt:dre:627648:por
+    amending_title: Portaria n.º 19867
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:17:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 19867. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1962/portaria-19308.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,6 +125,8 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Ne
 
 2) Membros da missão - três funcionários, do quadro diplomático e consular, de categoria inferior a ministro plenipotenciário de 1.ª classe, um dos quais poderá ser ministro plenipotenciário de 2.ª classe ou conselheiro de legação;
 
-3) Pessoal assalariado - um arquivista, um escriturário, dois dactilógrafos e um contínuo.
+3) Pessoal assalariado - um consultor especial, um encarregado dos serviços de imprensa, quatro funcionários em serviço privativo, de qualquer categoria, entre arquivista, escriturário ou dactilógrafo, e um contínuo.
+
+> Alterado pelo/a [Portaria n.º 19867](https://diariodarepublica.pt/dr/detalhe/portaria/19867-1963-627648), publicado em 1963-05-24.
 
 Ministérios das Finanças e dos Negócios Estrangeiros, 31 de Julho de 1962. - O Ministro das Finanças, António Manuel Plinto Barbosa. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.

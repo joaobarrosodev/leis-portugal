@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-04-10'
+version_history:
+  file: portaria-400-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-04-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-04-10'
+    amending: pt:dre:562403:por
+    amending_title: Portaria n.º 381/2005
+    changes:
+    - Altera Artigo ANEXO::2.º
+    - Altera Artigo ANEXO::6.º
+    - Altera Artigo ANEXO::7.º
+    - Altera Artigo ANEXO::17.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/400/2004/04/22/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:58:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 381/2005. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2004/portaria-400-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,7 +186,7 @@ O presente Regulamento estabelece as regras aplicáveis à medida de apoio desig
 
 1 - São susceptíveis de apoio, no âmbito da presente medida, os projectos de investimento que resultem do planeamento, implementação e desenvolvimento do sistema de abastecimento de gás natural e que envolvam a:
 
-a) Construção de um terminal de regaseificação na costa portuguesa;
+a) Construção de terminais de regaseificação na costa portuguesa;
 
 b) Construção de armazenagem subterrânea inerente à segurança do abastecimento;
 
@@ -176,7 +194,7 @@ c) Extensão do gasoduto em superfície, nomeadamente através de nova ligação
 
 d) Construção de ramais destinados ao abastecimento de redes locais de distribuição, bem como dos grandes consumidores;
 
-e) Expansão em superfície das redes de distribuição em áreas de concessão atribuída à PORTGÁS, LUSITANIAGÁS, SETGÁS e LISBOAGÁS;
+e) Expansão em superfície das redes de distribuição em áreas de concessão atribuídas à PORTGÁS, LUSITANIGÁS, SETGÁS e LISBOAGÁS ou da responsabilidade da MEDIGÁS na área que lhe está licenciada;
 
 f) Construção e expansão em superfície das redes de distribuição em áreas de concessão atribuída à BEIRAGÁS e TAGUSGÁS;
 
@@ -190,7 +208,7 @@ j) Aquisição de recipientes e equipamentos auxiliares embarcados para transpor
 
 k) Construção de estações de redução de pressão e demais componentes do sistema necessários à penetração do gás natural e à operação segura e fiável das instalações principais.
 
-2 - Para efeitos do presente diploma, designadamente no que se refere ao processo de decisão, os projectos previstos nas alíneas a), b), e) e h) do número anterior são considerados projectos desconcentrados, sendo os restantes considerados projectos nacionais.
+2 - Para efeitos do presente diploma, designadamente no que se refere ao processo de decisão, os projectos previstos na alínea a), desde que na costa do continente, e nas alíneas b), e) e h) do número anterior são considerados projectos desconcentrados, sendo os restantes considerados projectos nacionais.
 
 3 - São igualmente susceptíveis de apoio no âmbito da presente medida os projectos de investimento que resultem da necessidade de melhorar a fiabilidade e eficiência das redes de transporte e distribuição de electricidade, designadamente para permitir ou optimizar as condições de interligação de centros produtores de energia eléctrica, que envolvam a:
 
@@ -201,6 +219,8 @@ b) Modernização e ampliação de estações e postos de transformação;
 c) Instalação de sistemas de telecomando e gestão;
 
 d) Construção de linhas que permitam optimizar a eficiência das redes e melhorar a qualidade de serviço aos consumidores.
+
+> Alterado pelo/a [Portaria n.º 381/2005](https://diariodarepublica.pt/dr/detalhe/portaria/381-2005-562403), publicado em 2005-04-05.
 
 ###### Artigo 3.º — Entidades beneficiárias
 
@@ -248,13 +268,15 @@ b) Aquisição, transporte e montagem de materiais e equipamentos destinados exc
 
 c) Aquisição de software de aplicação específica e exclusiva ao projecto;
 
-d) Despesas de comercialização e marketing realizadas no âmbito do projecto, durante a fase de investimento, até ao limite global por entidade de 5% do investimento elegível respeitante às candidaturas aprovadas de infra-estruturas, desde que correspondam a aquisições a terceiros incorridas durante os primeiros cinco anos contados desde a data de outorga da concessão ou licença, e desde que tenham uma ligação directa ao projecto de natureza infra- estrutural e que seja justificadamente considerada indispensável para o seu funcionamento;
+d) Despesas de comercialização e marketing realizadas no âmbito do projecto, durante a fase de investimento, até ao limite global por entidade de 5% do investimento elegível respeitante às candidaturas aprovadas de infra-estruturas, desde que correspondam a aquisições a terceiros incorridas durante os primeiros cinco anos contados desde a data de outorga da concessão ou licença, e desde que tenham uma ligação directa ao projecto de natureza infra-estrutural e que sejam justificadamente consideradas indispensáveis para o seu funcionamento;
 
 e) Despesas de investimento incorpóreo, designadamente em estudos, projectos, testes e ensaios de arranque, bem como os custos incorridos com a implementação do projecto durante a fase de instalação, desde que não excedam 15% do investimento elegível do projecto e correspondam a aquisições a terceiros;
 
 f) Despesas com a intervenção dos revisores oficiais de contas, no âmbito da comprovação da execução financeira dos projectos, nos termos previstos nas alíneas a) e b) do n.º 4 do artigo 20.º
 
 2 - Para efeito do disposto no número anterior, apenas são considerados os valores declarados pelo promotor do projecto que correspondam aos custos médios do mercado, podendo a entidade gestora, caso não se verifique essa correspondência, proceder à respectiva adequação.
+
+> Alterado pelo/a [Portaria n.º 381/2005](https://diariodarepublica.pt/dr/detalhe/portaria/381-2005-562403), publicado em 2005-04-05.
 
 ###### Artigo 7.º — Despesas não elegíveis
 
@@ -270,11 +292,11 @@ d) Encargos de estrutura e despesas de funcionamento das entidades beneficiária
 
 e) Juros sobre empréstimos e outros encargos financeiros;
 
-f) Cauções e outras garantias bancárias além das previstas no artigo anterior;
-
-g) Aquisição de veículos automóveis e outro material de transporte.
+f) Aquisição de veículos automóveis e outro material de transporte.
 
 2 - A demonstração que a aquisição é feita a preços de mercado, a que se refere a alínea a) do n.º 1 do presente artigo, deve ser feita mediante a apresentação de, pelo menos, duas avaliações de entidades independentes.
+
+> Alterado pelo/a [Portaria n.º 381/2005](https://diariodarepublica.pt/dr/detalhe/portaria/381-2005-562403), publicado em 2005-04-05.
 
 ###### Artigo 8.º — Critérios de selecção
 
@@ -370,7 +392,9 @@ k) Garantir o acesso do IAPMEI, das DRE ou de quem por eles for mandatado às in
 
 l) Publicitar os apoios recebidos nos termos regulamentados.
 
-3 - As entidades beneficiárias ficam sujeitas a verificação da utilização dos apoios concedidos, não podendo locar, alienar ou por outro modo onerar, no todo ou em parte, sem autorização prévia do Ministro da Economia os bens adquiridos para a execução do projecto.
+2 - As entidades beneficiárias ficam sujeitas a verificação da utilização dos apoios concedidos, não podendo locar, alienar ou por qualquer outro modo onerar, no todo ou em parte, sem autorização prévia do Ministro de Estado, das Actividades Económicas e do Trabalho, os bens adquiridos para a execução do projecto, durante um período de cinco anos a contar da data da conclusão do projecto.
+
+> Alterado pelo/a [Portaria n.º 381/2005](https://diariodarepublica.pt/dr/detalhe/portaria/381-2005-562403), publicado em 2005-04-05.
 
 ###### Artigo 18.º — Pagamento do incentivo
 

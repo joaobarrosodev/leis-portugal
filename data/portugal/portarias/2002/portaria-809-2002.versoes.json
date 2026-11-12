@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:199656:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-07-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fcbce16922b44040"
+   ]
+  },
+  {
+   "date": "2005-04-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:564467:por",
+     "title": "Portaria n.º 336/2005",
+     "published": "2005-03-31",
+     "dre_path": "/dr/detalhe/portaria/336-2005-564467"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "32f6d81cbeb972aa"
+   ]
+  }
+ ],
+ "fragments": {
+  "fcbce16922b44040": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Julho\n\nPela [Portaria n.º 615-P5/91](https://diariodarepublica.pt/dr/detalhe/portaria/615-p5-1991-205858), de 8 de Julho, foi concessionada à Guedes Irmãos - Gestão de Caça e Pesca, Lda., a zona de caça turística do Monte Novo de Palma (processo n.º 772-DGF), situada na freguesia de Santa Maria do Castelo, município de Alcácer do Sal, com uma área de 2051,8250 ha, válida até 8 de Julho de 2001.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no n.º 4 do artigo 83.º, em articulação com o disposto no n.º 1 do artigo 79.º, no n.º 1 do artigo 104.º e no artigo 143.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, e ainda no disposto no n.º 3 do artigo 164.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, ouvido o Conselho Nacional da Caça e da Conservação da Fauna:\n\nManda o Governo, pelos Ministros da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de seis anos, a concessão da zona de caça turística do Monte Novo de Palma (processo n.º 772-DGF), abrangendo os prédios rústicos denominados «Herdades do Monte Novo de Palma e Abul», sitos na freguesia de Santa Maria do Castelo, município de Alcácer do Sal, com uma área de 2051,8250 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n2.º A presente renovação mereceu, por parte da Direcção-Geral do Turismo, parecer favorável.\n\n3.º Na área assinalada na planta anexa à presente portaria é proibida a actividade cinegética, de acordo com o disposto nas Portarias n.os [957/89](https://diariodarepublica.pt/dr/detalhe/portaria/957-1989-549434) e [921/93](https://diariodarepublica.pt/dr/detalhe/portaria/921-1993-655540), respectivamente de 28 de Outubro e de 21 de Setembro.\n\n4.º É revogada a [Portaria n.º 923/2001](https://diariodarepublica.pt/dr/detalhe/portaria/923-2001-378913), de 30 de Julho.\n\n5.º A presente portaria produz efeitos a partir do dia 9 de Julho de 2001.\n\nPelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo, em 7 de Março de 2002. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 4 de Fevereiro de 2002. - Pelo Ministro do Ambiente e do Ordenamento do Território, Manuel Pedro Cunha da Silva Pereira, Secretário de Estado do Ordenamento do Território e da Conservação da Natureza, em 7 de Março de 2002.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/07/153b00/52135213.pdf)"
+  },
+  "32f6d81cbeb972aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2005-04-05",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 336/2005](https://diariodarepublica.pt/dr/detalhe/portaria/336-2005-564467), publicado em 2005-03-31."
+   ],
+   "markdown": "de 5 de Julho\n\nPela [Portaria n.º 615-P5/91](https://diariodarepublica.pt/dr/detalhe/portaria/615-p5-1991-205858), de 8 de Julho, foi concessionada à Guedes Irmãos - Gestão de Caça e Pesca, Lda., a zona de caça turística do Monte Novo de Palma (processo n.º 772-DGF), situada na freguesia de Santa Maria do Castelo, município de Alcácer do Sal, com uma área de 2051,8250 ha, válida até 8 de Julho de 2001.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no n.º 4 do artigo 83.º, em articulação com o disposto no n.º 1 do artigo 79.º, no n.º 1 do artigo 104.º e no artigo 143.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, e ainda no disposto no n.º 3 do artigo 164.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, ouvido o Conselho Nacional da Caça e da Conservação da Fauna:\n\nManda o Governo, pelos Ministros da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de seis anos, renovável automaticamente por mais dois períodos iguais, a concessão da zona de caça turística de Monte Novo de Palma (processo n.º 772-DGRF), abrangendo os prédios rústicos denominados 'Herdades do Monte Novo de Palma e Abul', sitos na freguesia de Santa Maria do Castelo, município de Alcácer do Sal, com a área de 2051,8250 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.\n\n> Alterado pelo/a [Portaria n.º 336/2005](https://diariodarepublica.pt/dr/detalhe/portaria/336-2005-564467), publicado em 2005-03-31.\n\n2.º A presente renovação mereceu, por parte da Direcção-Geral do Turismo, parecer favorável.\n\n3.º Na área assinalada na planta anexa à presente portaria é proibida a actividade cinegética, de acordo com o disposto nas Portarias n.os [957/89](https://diariodarepublica.pt/dr/detalhe/portaria/957-1989-549434) e [921/93](https://diariodarepublica.pt/dr/detalhe/portaria/921-1993-655540), respectivamente de 28 de Outubro e de 21 de Setembro.\n\n4.º É revogada a [Portaria n.º 923/2001](https://diariodarepublica.pt/dr/detalhe/portaria/923-2001-378913), de 30 de Julho.\n\n5.º A presente portaria produz efeitos a partir do dia 9 de Julho de 2001.\n\nPelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo, em 7 de Março de 2002. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 4 de Fevereiro de 2002. - Pelo Ministro do Ambiente e do Ordenamento do Território, Manuel Pedro Cunha da Silva Pereira, Secretário de Estado do Ordenamento do Território e da Conservação da Natureza, em 7 de Março de 2002.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/07/153b00/52135213.pdf)"
+  }
+ }
+}

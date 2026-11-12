@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-05-13'
+version_history:
+  file: portaria-783-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-10-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-05-13'
+    amending: pt:dre:227460:por
+    amending_title: Portaria n.º 186/86
+    changes:
+    - Altera Artigo unidades 22-22
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:35:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 186/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-783-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,7 +172,9 @@ Em 15 de Julho de 1999, 614500 obrigações da série I;
 
 Em 15 de Julho de 2000, 614500 obrigações da série J.
 
-9.º Os encargos deste empréstimo, que serão suportados pelo orçamento da Região Autónoma da Madeira, beneficiam do aval do Estado, conforme Resolução do Conselho de Ministros de 1 de Agosto de 1985, publicada no 2.º suplemento ao Diário da República, 2.ª série, n.º 185, de 13 de Agosto de 1985.
+9.º Os encargos deste empréstimo, que serão suportados pelo orçamento da Região Autónoma da Madeira, beneficiam do aval do Estado, conforme a [Resolução do Conselho de Ministros n.º 4/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-1986-616405), de 26 de Dezembro de 1985, publicada no Diário da República, 1.ª série, n.º 7, de 9 de Janeiro de 1986.
+
+> Alterado pelo/a [Portaria n.º 186/86](https://diariodarepublica.pt/dr/detalhe/portaria/186-1986-227460), publicado em 1986-05-08.
 
 Ministério das Finanças e do Plano.
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-07-16'
+version_history:
+  file: portaria-485-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-09-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-07-16'
+    amending: pt:dre:155243:por
+    amending_title: Portaria n.º 476/97
+    changes:
+    - Altera Artigo unidades 16-21
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/485/1996/09/10/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:30:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 476/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-485-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,17 +162,19 @@ Contingentes
 
 1 - As vagas fixadas nos termos do n.º 6.º da [Portaria n.º 239/94](https://diariodarepublica.pt/dr/detalhe/portaria/239-1994-266642), de 16 de Abril, distribuem-se pelos seguintes contingentes:
 
-a) Docentes de escolas superiores de enfermagem - 5%;
+a) Docentes das escolas superiores de enfermagem - 5%;
 
-b) Enfermeiros provenientes de serviços prestadores de cuidados do Ministério da Saúde - 50%;
+b) Enfermeiros provenientes de serviços prestadores de cuidados do Ministério da Saúde, da Sub-Região de Saúde de Santarém - 50%;
 
-c) Enfermeiros provenientes da área da prestação directa de cuidados de estabelecimentos de saúde pertencentes a outros ministérios - 5%;
+c) Enfermeiros provenientes de serviços prestadores de cuidados do Ministério da Saúde, de outras sub-regiões de saúde - 35%;
 
-d) Outros enfermeiros - 5%;
+d) Enfermeiros provenientes da área da prestação directa de cuidados de estabelecimentos de saúde pertencentes a outros ministérios - 5%;
 
-e) Enfermeiros de outras sub-regiões de saúde - 35%.
+e) Outros enfermeiros - 5%.
 
-2 - As vagas eventualmente não utilizadas num dos contingentes revertem, se necessário, para qualquer outro contingente.
+2 - As vagas eventualmente não utilizadas num dos contingentes revertem, se necessário, para qualquer outro contingente, de acordo com regras a fixar pelo órgão competente da Escola e a divulgar através do edital a que se refere o n.º 9.º da [Portaria n.º 239/94](https://diariodarepublica.pt/dr/detalhe/portaria/239-1994-266642).
+
+> Alterado pelo/a [Portaria n.º 476/97](https://diariodarepublica.pt/dr/detalhe/portaria/476-1997-155243), publicado em 1997-07-11.
 
 Ministérios da Educação e da Saúde.
 

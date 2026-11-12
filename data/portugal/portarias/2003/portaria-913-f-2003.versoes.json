@@ -1,0 +1,70 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:179491:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-08-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4ca7ce0b8468b7d0",
+    "5ec30a144dc160bc"
+   ]
+  },
+  {
+   "date": "2003-10-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:476528:por",
+     "title": "Portaria n.º 1228/2003",
+     "published": "2003-10-20",
+     "dre_path": "/dr/detalhe/portaria/1228-2003-476528"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 38-38",
+    "Altera Artigo unidades 41-41",
+    "Altera Artigo unidades 46-46"
+   ],
+   "fragments": [
+    "4ca7ce0b8468b7d0",
+    "768bbb1415ffccf8"
+   ]
+  }
+ ],
+ "fragments": {
+  "4ca7ce0b8468b7d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Agosto\n\nSob proposta dos estabelecimentos de ensino superior público referidos no anexo ao presente diploma;\n\nConsiderando o disposto no Regulamento Geral dos Cursos Bietápicos de Licenciatura em Tecnologias da Saúde, aprovado pela [Portaria n.º 3/2000](https://diariodarepublica.pt/dr/detalhe/portaria/3-2000-510269), de 4 de Janeiro;\n\nAo abrigo do disposto no n.º 2 do artigo 14.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico (aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho) e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Ciência e do Ensino Superior, o seguinte:\n\n1.º\n\nVagas\n\nSão aprovadas as vagas para a candidatura à matrícula e inscrição, no ano lectivo de 2003-2004, no 2.º ciclo dos cursos bietápicos de licenciatura das escolas superiores de tecnologia da saúde públicas, ao abrigo da alínea b.3) do n.º 1 do artigo 13.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico (aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho), nos termos do anexo à presente portaria.\n\n2.º\n\nEntrada em vigor\n\nEsta portaria entra em vigor no dia imediato ao da sua publicação.\n\nO Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 20 de Agosto de 2003."
+  },
+  "5ec30a144dc160bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nVagas a que se refere a alínea b.3) do n.º 1 do artigo 13.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico (aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho) para o ano lectivo de 2003-2004.\n\n... Vagas\n\nEscola Superior de Tecnologia da Saúde de Coimbra:\n\nAnálises Clínicas e Saúde Pública ... 3\n\nCardiopneumologia ... 3\n\nFarmácia ... 3\n\nFisioterapia ... 3\n\nRadiologia ... 3\n\nSaúde Ambiental ... 10\n\nEscola Superior de Tecnologia da Saúde de Lisboa:\n\nAnálises Clínicas e Saúde Pública ... 13\n\nAnatomia Patológica, Citológica e Tanatológica ... 5\n\nCardiopneumologia ... 8\n\nDietética ... 5\n\nFarmácia ... 7\n\nFisioterapia ... 13\n\nMedicina Nuclear ... 3\n\nOrtóptica ... 5\n\nRadiologia ... 13\n\nRadioterapia ... 3\n\nSaúde Ambiental ... 5\n\nEscola Superior de Tecnologia da Saúde do Porto:\n\nAnálises Clínicas e Saúde Pública ... 8\n\nAnatomia Patológica, Citológica e Tanatológica ... 20\n\nCardiopneumologia ... 6\n\nFarmácia ... 6\n\nFisioterapia ... 10\n\nMedicina Nuclear ... 6\n\nNeurofisiologia ... 12\n\nRadiologia ... 2\n\nRadioterapia ... 6\n\nSaúde Ambiental ... 3\n\nTerapêutica da Fala ... 10\n\nTerapêutica Ocupacional ... 15"
+  },
+  "768bbb1415ffccf8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": "2003-10-25",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1228/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2003-476528), publicado em 2003-10-20.",
+    "Alterado pelo/a [Portaria n.º 1228/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2003-476528), publicado em 2003-10-20.",
+    "Alterado pelo/a [Portaria n.º 1228/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2003-476528), publicado em 2003-10-20."
+   ],
+   "markdown": "## ANEXO\n\nVagas a que se refere a alínea b.3) do n.º 1 do artigo 13.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico (aprovado pela [Portaria n.º 413-A/98](https://diariodarepublica.pt/dr/detalhe/portaria/413-a-1998-429596), de 17 de Julho, alterada pela [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), de 22 de Julho) para o ano lectivo de 2003-2004.\n\n... Vagas\n\nEscola Superior de Tecnologia da Saúde de Coimbra:\n\nAnálises Clínicas e Saúde Pública ... 3\n\nCardiopneumologia ... 3\n\nFarmácia ... 3\n\nFisioterapia ... 3\n\nRadiologia ... 3\n\nSaúde Ambiental ... 10\n\nEscola Superior de Tecnologia da Saúde de Lisboa:\n\nAnálises Clínicas e Saúde Pública ... 13\n\nAnatomia Patológica, Citológica e Tanatológica ... 5\n\nCardiopneumologia ... 8\n\nDietética ... 5\n\nFarmácia ... 7\n\nFisioterapia ... 13\n\nMedicina Nuclear ... 3\n\nOrtóptica ... 5\n\nRadiologia ... 13\n\nRadioterapia ... 3\n\nSaúde Ambiental ... 5\n\nEscola Superior de Tecnologia da Saúde do Porto:\n\nAnálises Clínicas e Saúde Pública ... 8\n\nAnatomia Patológica, Citológica e Tanatológica ... 25\n\n> Alterado pelo/a [Portaria n.º 1228/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2003-476528), publicado em 2003-10-20.\n\nCardiopneumologia ... 6\n\nFarmácia ... 6\n\nFisioterapia ... 39\n\n> Alterado pelo/a [Portaria n.º 1228/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2003-476528), publicado em 2003-10-20.\n\nMedicina Nuclear ... 6\n\nNeurofisiologia ... 12\n\nRadiologia ... 2\n\nRadioterapia ... 6\n\nSaúde Ambiental ... 8\n\n> Alterado pelo/a [Portaria n.º 1228/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2003-476528), publicado em 2003-10-20.\n\nTerapêutica da Fala ... 10\n\nTerapêutica Ocupacional ... 15"
+  }
+ }
+}

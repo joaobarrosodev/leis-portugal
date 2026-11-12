@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:181273:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 6,
+      "texto": "Artigo 1.º O Prémio Prof. Abílio Aires será atribuído anualmente ao aluno distinto da Faculdade de Ciências da Universidade do Porto mais classificado (por média aritmética) nas 2 disciplinas semestrais de Probabilidades e Estatística e de Análise Numérica e Cálculo Automático frequentadas desde 1976 até 1979 e de Probabilidades e Estatística e de Cálculo Automático frequentadas a Partir de 1980.\n\n§ único. Havendo 2 ou mais alunos nas condições estabelecidas no corpo deste artigo, será o prémio atribuído àquele que se mostre viver em condições económicas mais desfavoráveis.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 909/83): nova redação do artigo 1.º do Regulamento (corpo e § único); unidades 5-6 substituídas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

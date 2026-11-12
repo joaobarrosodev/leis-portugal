@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-03-24'
+version_history:
+  file: portaria-165-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-03-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-03-24'
+    amending: pt:dre:215373:por
+    amending_title: Portaria n.º 255/2003
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/165/1999/03/10/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:13:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 255/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-165-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,7 +152,9 @@ Atendendo à necessidade de promover o ordenamento aquícola do rio Tâmega, con
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo das bases IV, XXIX e XXXIII da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959, e dos artigos 5.º e 84.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro de 1962, o seguinte:
 
-1.º É criada uma zona de pesca reservada no troço do rio Tâmega (albufeira do Torrão) compreendido entre a ponte da A 4 no lugar de Formão, freguesia de Cepelos, concelho de Amarante, a montante, e a ponte de Baía, freguesia de Salvador do Monte, concelho de Amarante, a jusante, numa extensão de 2,5 km.
+1.º É criada uma zona de pesca reservada no troço do rio Tâmega (albufeira do Torrão) compreendido entre a ponte da A 4 no lugar de Formão, freguesia de Cepelos, na margem esquerda, e lugar de Amarantinho, freguesia de Fregim, na margem direita, concelho de Amarante, a montante, e a ponte de Baía, freguesia de Salvador do Monte, na margem esquerda, e freguesia de Vila Caiz, na margem direita, concelho de Amarante, a jusante, numa extensão de 2,5 km.
+
+> Alterado pelo/a [Portaria n.º 255/2003](https://diariodarepublica.pt/dr/detalhe/portaria/255-2003-215373), publicado em 2003-03-19.
 
 2.º A zona de pesca reservada ora constituída reger-se-á pelo Regulamento publicado em anexo a este diploma.
 

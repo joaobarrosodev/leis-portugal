@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-10-03'
+version_history:
+  file: portaria-170-70.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1970-04-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-10-03'
+    amending: pt:dre:413025:por
+    amending_title: Portaria n.º 660/73
+    changes:
+    - Altera Artigo unidades 30-30
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:11:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 660/73. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1970/portaria-170-70.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,7 +170,9 @@ a) Valor militar;
 
 b) Cruz de guerra.
 
-11.º Enquanto estiver em vigor para as praças da Armada a equiparação do curso de especialização em fuzileiro especial ao curso do 1.º grau, a promoção das praças ultramarinas do quadro da classe de fuzileiros do C. D. M. G. não depende de qualquer outro curso, até ao posto de cabo, inclusive.
+11.º Para as praças ultramarinas do quadro da classe de fuzileiros do C. D. M. G., a especialização em fuzileiro especial, realizada nas condições estabelecidas no n.º 6.º, é equiparada ao curso do 1.º grau, pelo que a promoção daquelas praças até ao posto de cabo, inclusive, não depende de qualquer outro curso.
+
+> Alterado pelo/a [Portaria n.º 660/73](https://diariodarepublica.pt/dr/detalhe/portaria/660-1973-413025), publicado em 1973-10-03.
 
 12.º Os vencimentos e outros abonos devidos às praças ultramarinas do quadro da classe de fuzileiros do C. D. M. G. são os estabelecidos no [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963, e, nos termos do artigo 12.º do [Decreto n.º 45008](https://diariodarepublica.pt/dr/detalhe/decreto/45008-1963-628304), de 1 de Maio de 1963, constituem encargo do orçamento privativo do C. D. M. G. No entanto, aquelas praças que, noutra qualidade, prestavam serviço no C. D. M. G. ou na Repartição Provincial dos Serviços de Marinha mantêm os vencimentos que vinham percebendo até atingirem posto ou período de readmissão que lhes dê direito a vencimento superior.
 

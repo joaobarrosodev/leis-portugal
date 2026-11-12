@@ -1,0 +1,37 @@
+{
+  "id": "pt:dre:188683:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 8,
+      "texto": "1.º É criada a comissão de protecção de crianças e jovens com competência territorial nas freguesias de Beato, Marvila e Santa Maria dos Olivais, que fica instalada em edifício da Câmara Municipal.\n\n2.º A comissão alargada, prevista no artigo 17.º da Lei n.º 147/99, de 1 de setembro, que aprova a Lei de Proteção de Crianças e Jovens em Perigo, na sua redação atual, é constituída pelos seguintes elementos:",
+      "alterador": 1
+    },
+    {
+      "de": 10,
+      "ate": 22,
+      "texto": "b) Em representação da segurança social, um elemento designado pela Santa Casa da Misericórdia de Lisboa;\n\nc) (Revogada);\n\nd) Um representante dos serviços locais do Ministério da Educação;\n\ne) Um médico, em representação dos serviços de saúde;\n\nf) Um representante das instituições particulares de solidariedade social (ou de organizações não governamentais que desenvolvam actividades de carácter não institucional);\n\ng) Um representante das instituições particulares de solidariedade social (ou de organizações não governamentais que desenvolvam actividades de carácter institucional);\n\nh) Um representante das associações de pais;\n\ni) Um representante de associações (ou organizações privadas) que desenvolvam actividades desportivas, culturais ou recreativas destinadas a crianças e jovens;\n\nj) Um representante das associações de jovens (ou um representante dos serviços de juventude);\n\nk) Um ou dois representantes das forças de segurança, PSP e GNR;\n\nl) Quatro pessoas designadas pelas assembleias de freguesia;\n\nm) Os técnicos que venham a ser cooptados pela comissão.\n\n3.º O presidente da comissão de protecção é eleito pela comissão alargada, de entre todos os seus membros, na primeira reunião plenária, por um período de dois anos, renovável por duas vezes. As funções de secretário são desempenhadas por um membro da comissão, designado pelo presidente.\n\n4.º A comissão, a funcionar em modalidade restrita, é composta, nos termos do artigo 20.º da lei de proteção, sempre por um número ímpar, nunca inferior a cinco, de entre os membros que integram a comissão alargada, designados para o efeito em reunião plenária após a instalação, sendo membros por inerência o presidente da Comissão de Proteção e os representantes do município e da segurança social, designado este último pela Santa Casa da Misericórdia de Lisboa.",
+      "alterador": 1
+    },
+    {
+      "de": 24,
+      "ate": 25,
+      "texto": "6.º Nos 30 dias seguintes à publicação da presente portaria, as entidades que integram a comissão de protecção indicam os seus membros nominalmente, bem como o presidente e o secretário da comissão de protecção, ao presidente da Comissão Nacional de Protecção de Crianças e Jovens em Risco.\n\n7.º O apoio logístico necessário ao funcionamento da comissão de protecção é assegurado pelo município nos termos previstos pelo artigo 14.º da lei de protecção, podendo vir a ser celebrados protocolos de cooperação com os serviços do Estado representados na Comissão Nacional de Protecção de Crianças e Jovens em Risco para efeitos do suporte com os encargos financeiros resultantes deste apoio.",
+      "alterador": 1
+    },
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "9.º A presente portaria entra em vigor no dia 1 de Janeiro de 2001 e a comissão de protecção de crianças e jovens inicia funções no dia 1 de Fevereiro de 2001.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 297/2001 dá nova redação a toda a parte dispositiva (pontos 1.º a 9.º): substituídas as unidades que mudam (redação nova copiada do alterador); no 2.º a alínea b) muda, é aditada a c) (Revogada) e as alíneas seguintes passam de c)-m) para d)-m) (j)->k)), substituídas as unidades 10 a 20; pontos idênticos (9, 23, 26) mantidos."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

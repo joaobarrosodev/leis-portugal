@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:178320:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O pedido não traz o texto do alterador 1 (Portaria n.º 173/86): a secção vem vazia, pelo que não há instrução que se possa aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 173/86): texto ausente no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

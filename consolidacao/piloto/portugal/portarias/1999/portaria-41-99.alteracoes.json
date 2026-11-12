@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 20-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º Nos 30 dias seguintes à publicação da presente portaria, as entidades que integram a Comissão de Protecção indicarão o seu representante e respectivo substituto ao procurador da República no círculo judicial de Mirandela, ao presidente da Câmara Municipal de Alijó e à presidente do Instituto de Reinserção Social.",
+    "depois": "4.º Nos 30 dias seguintes à publicação da presente portaria, as entidades que integram a Comissão de Protecção indicarão o seu representante e respectivo substituto ao procurador da República no círculo judicial de Vila Real, ao presidente da Câmara Municipal de Alijó e ao presidente do Instituto de Reinserção Social.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:197319:por",
+    "alterador": "pt:dre:345514:por"
+  }
+]

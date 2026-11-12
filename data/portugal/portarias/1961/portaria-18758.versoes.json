@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:180003:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1961-10-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3c7405661a25e093"
+   ]
+  },
+  {
+   "date": "1963-07-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:693600:por",
+     "title": "Portaria n.º 19965",
+     "published": "1963-07-24",
+     "dre_path": "/dr/detalhe/portaria/19965-1963-693600"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 3-3"
+   ],
+   "fragments": [
+    "f27a925ac2c5b519"
+   ]
+  }
+ ],
+ "fragments": {
+  "3c7405661a25e093": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Negócios Estrangeiros, nos termos do artigo 3.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952, que o n.º 2) da [Portaria n.º 18651](https://diariodarepublica.pt/dr/detalhe/portaria/18651-1961-173125), de 11 de Agosto de 1961, passa a ter a seguinte redacção:\n\n2) Membros da delegação prestando nela serviço privativo: um ministro plenipotenciário de 2.ª classe ou um conselheiro de legação; três funcionários do quadro diplomático ou consular de qualquer categoria de entre os primeiros, segundos e terceiros-secretários de legação, cônsules de 2.ª ou 3.ª classe, e um secretário privativo.\n\nMinistérios das Finanças e dos Negócios Estrangeiros, 2 de Outubro de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira."
+  },
+  "f27a925ac2c5b519": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1963-07-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 19965](https://diariodarepublica.pt/dr/detalhe/portaria/19965-1963-693600), publicado em 1963-07-24."
+   ],
+   "markdown": "Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Negócios Estrangeiros, nos termos do artigo 3.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952, que o n.º 2) da [Portaria n.º 18651](https://diariodarepublica.pt/dr/detalhe/portaria/18651-1961-173125), de 11 de Agosto de 1961, passa a ter a seguinte redacção:\n\n2) Membros da delegação prestando nela serviço privativo: um ministro plenipotenciário de 2.ª classe ou um conselheiro de legação; três funcionários do quadro diplomático ou consular de qualquer categoria de entre os primeiros, Segundos e terceiros-secretários de legação, cônsules de 1.ª, de 2.ª ou 3.ª classe, e um secretário privativo, ou dois funcionários do referido quadro diplomático ou consular das mencionadas categorias, e dois secretários privativos.\n\n> Alterado pelo/a [Portaria n.º 19965](https://diariodarepublica.pt/dr/detalhe/portaria/19965-1963-693600), publicado em 1963-07-24.\n\nMinistérios das Finanças e dos Negócios Estrangeiros, 2 de Outubro de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira."
+  }
+ }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:182846:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "2.º Este diploma produz efeitos a partir de 1 de Maio de 1984.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 841/85 dá nova redação ao n.º 2.º: unidade 8 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

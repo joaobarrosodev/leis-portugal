@@ -1,0 +1,48 @@
+{
+  "id": "pt:dre:179837:por",
+  "substituicoes": [
+    {
+      "de": 31,
+      "ate": 33,
+      "texto": "e) A Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações;\n\nf) O Centro de Relações Públicas e Documentação;\n\ng) O Serviço de Fiscalização;\n\nh) Os serviços locais.",
+      "alterador": 3
+    },
+    {
+      "de": 177,
+      "ate": 177,
+      "texto": "c) Promover a definição de sistemas de controlo de assiduidade e pontualidade;",
+      "alterador": 3
+    },
+    {
+      "de": 184,
+      "ate": 184,
+      "texto": "j) Elaborar, de acordo com os planos e orientações estabelecidos, as propostas de programas e projectos de investimento anuais;",
+      "alterador": 3
+    },
+    {
+      "de": 186,
+      "ate": 196,
+      "texto": "m) Pronunciar-se a respeito da aquisição ou arrendamento de terrenos e edifícios e da realização de obras;\n\nn) Elaborar projectos e cadernos de encargos destinados aos concursos de adjudicação de obras e acompanhar e fiscalizar a execução dos trabalhos;\n\no) Dar parecer sobre as propostas de adjudicação de obras apresentadas pelos serviços e instituições particulares de solidariedade social;\n\np) Proceder à vistoria de edifícios, tendo em vista informar sobre as condições de segurança, conservação e reparação.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 196,
+      "texto": "###### Artigo 15.º-A\n\n##### Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações\n\nCompete à Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações:\n\n1) Em matéria de acção jurídica e de contencioso:\n\na) Emitir pareceres e informações, satisfazer consultas e elaborar estudos de natureza jurídica;\n\nb) Elaborar minutas de escrituras, contratos e outros documentos de carácter legal;\n\nc) Apoiar juridicamente as instituições particulares de solidariedade social;\n\nd) Apoiar os serviços competentes na preparação dos processos necessários ao julgamento das questões que impliquem envolvimento do Centro e proceder ao acompanhamento dos processos junto dos tribunais;\n\ne) Reclamar créditos por dívidas de contribuições em processos de falência, em processos de execução movidos por outros credores, em processos de inventário ou outros;\n\nf) Promover o reembolso de prestações pagas indevidamente, sempre que seja necessário o recurso à via judicial.\n\n2) Em matéria de contra-ordenações:\n\na) Organizar e instruir os processos de contra-ordenações;\n\nb) Elaborar relação dos processos arquivados;\n\nc) Propor a nomeação de defensor oficioso, nos casos legalmente previstos;\n\nd) Propor a aplicação de coimas, nos termos regulamentares;\n\ne) Determinar o montante de custas dos processos;\n\nf) Preparar os processos para decisão final;\n\ng) Remeter os processos a tribunal, nas circunstâncias legalmente previstas;\n\nh) Representar a instituição de segurança social na fase judicial da contra-ordenação;\n\ni) Organizar e actualizar ficheiros relacionados com os processos de contra-ordenações;\n\nj) Promover a emissão de orientações para os serviços que procedam à averiguação de infracções ou que, de qualquer modo, sejam chamados a colaborar;\n\nl) Recolher e tratar os necessários dados estatísticos.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "Ponto 4.º da Portaria n.º 394/93 (alteradores 3 e 4): altera o quadro de pessoal aprovado pela Portaria n.º 289/88 e o mapa anexo só vem em imagem, pelo que não há texto a aplicar.",
+  "instrucoes": [
+    "Alteradores 1 e 2 (Portarias n.º 935/92 e 58/93): integração de caixas de previdência nos centros regionais; nenhuma instrução textual dirigida ao Regulamento; nada aplicado.",
+    "Alterador 3, 1.º: nova redação do artigo 5.º; as alíneas a) a d) ficam iguais; unidades 31-33 substituídas pelas alíneas e) a h) (nova alínea e) Divisão de Serviço Jurídico...).",
+    "Alterador 3, 2.º: nova redação do artigo 15.º; trocadas as alíneas c) (controlo) e j) (investimento) e as alíneas m) a x) (unidades 186-196) substituídas pelas novas m) a p).",
+    "Alterador 3, 3.º: aditado o artigo 15.º-A, inserido depois da unidade 196.",
+    "Alterador 3, 4.º: quadro de pessoal (Portaria n.º 289/88) com mapa só em imagem; não aplicado (ver nao_aplicavel).",
+    "Alterador 4: é a mesma Portaria n.º 394/93 repetida; as mudanças já ficaram aplicadas pelo alterador 3, nada a acrescentar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

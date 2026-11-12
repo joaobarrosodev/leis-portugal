@@ -41,10 +41,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-10-25'
+version_history:
+  file: portaria-913-f-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-08-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-10-25'
+    amending: pt:dre:476528:por
+    amending_title: Portaria n.º 1228/2003
+    changes:
+    - Altera Artigo unidades 38-38
+    - Altera Artigo unidades 41-41
+    - Altera Artigo unidades 46-46
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/913-f/2003/08/30/p/dre/pt/html
@@ -70,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:52:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1228/2003. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-913-f-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -194,13 +211,17 @@ Escola Superior de Tecnologia da Saúde do Porto:
 
 Análises Clínicas e Saúde Pública ... 8
 
-Anatomia Patológica, Citológica e Tanatológica ... 20
+Anatomia Patológica, Citológica e Tanatológica ... 25
+
+> Alterado pelo/a [Portaria n.º 1228/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2003-476528), publicado em 2003-10-20.
 
 Cardiopneumologia ... 6
 
 Farmácia ... 6
 
-Fisioterapia ... 10
+Fisioterapia ... 39
+
+> Alterado pelo/a [Portaria n.º 1228/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2003-476528), publicado em 2003-10-20.
 
 Medicina Nuclear ... 6
 
@@ -210,7 +231,9 @@ Radiologia ... 2
 
 Radioterapia ... 6
 
-Saúde Ambiental ... 3
+Saúde Ambiental ... 8
+
+> Alterado pelo/a [Portaria n.º 1228/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1228-2003-476528), publicado em 2003-10-20.
 
 Terapêutica da Fala ... 10
 

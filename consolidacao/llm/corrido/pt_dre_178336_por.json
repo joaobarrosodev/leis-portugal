@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:178336:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "9.º Os encargos deste empréstimo, que serão suportados pelo orçamento da Região Autónoma da Madeira, beneficiam do aval do Estado, conforme a [Resolução do Conselho de Ministros n.º 4/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-1986-616405), de 26 de Dezembro de 1985, publicada no Diário da República, 1.ª série, n.º 7, de 9 de Janeiro de 1986.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 9.º; substituída a unidade 22."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

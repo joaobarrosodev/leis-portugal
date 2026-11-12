@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:181587:por",
+  "substituicoes": [
+    {
+      "de": 18,
+      "ate": 26,
+      "texto": "Áreas científicas obrigatórias:\n\na) Ciências Básicas ... 7,5\n\nb) Hidráulica Aplicada ... 6,5\n\nc) Engenharia de Recursos Hídricos ... 7\n\nd) Engenharia Marítima ... 8\n\nTotal ... 29",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 345/87 dá nova redação ao n.º 4.º: epígrafe e corpo introdutório iguais (mantidos); quadro das unidades 18-26 substituído (só áreas obrigatórias, novos créditos, total 29, áreas optativas suprimidas)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

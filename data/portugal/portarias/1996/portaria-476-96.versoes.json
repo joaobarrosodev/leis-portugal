@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:219938:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-09-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8546daddef1b5840",
+    "caf3a38bd2af1029",
+    "511105586e5eef03"
+   ]
+  },
+  {
+   "date": "2003-09-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:633280:por",
+     "title": "Portaria n.º 904/2003",
+     "published": "2003-08-28",
+     "dre_path": "/dr/detalhe/portaria/904-2003-633280"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 11-11"
+   ],
+   "fragments": [
+    "332b697d5135057e",
+    "caf3a38bd2af1029",
+    "511105586e5eef03"
+   ]
+  }
+ ],
+ "fragments": {
+  "8546daddef1b5840": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Setembro\n\nA [Portaria n.º 1019/83](https://diariodarepublica.pt/dr/detalhe/portaria/1019-1983-443129), de 6 de Dezembro, criou um modelo de cartão de identificação para uso dos membros dos Gabinetes do Ministro e do Secretário de Estado da Defesa Nacional, bem como de outro pessoal que eventualmente lhes prestasse serviço.\n\nConsiderando a necessidade de tornar extensivo ao pessoal dirigente, de inspecção e de investigação o livre acesso aos serviços, unidades, estabelecimentos ou quaisquer lugares em que tenham de exercer as suas funções;\n\nConsiderando ainda a necessidade de tornar extensivo a todo o pessoal dos serviços do Ministério da Defesa Nacional o uso de um cartão de identificação, com vista a facilitar o acesso às respectivas instalações, bem como a identificação junto de outros serviços e entidades públicas ou privadas;\n\nTendo em atenção o disposto no artigo 34.º do [Decreto-Lei n.º 133/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1995-517788), de 9 de Junho:\n\nManda o Governo, pelo Ministro da Defesa Nacional, ao abrigo do disposto na alínea d) do artigo 202.º da Constituição, o seguinte:\n\n1.º São aprovados os seguintes modelos de cartão de identificação anexos à presente portaria:\n\nModelo 1 - para uso dos membros dos Gabinetes do Ministro e do Secretário de Estado da Defesa Nacional, dos dirigentes dos serviços do Ministério da Defesa Nacional, do pessoal de inspecção e de investigação e de outro pessoal que venha a ser considerado por despacho do Ministro da Defesa Nacional (anexo I);\n\nModelo 2 - para uso do restante pessoal dos serviços do Ministério da Defesa Nacional (anexo II).\n\n2.º Os portadores do cartão modelo 1 têm livre acesso aos serviços, unidades, estabelecimentos ou quaisquer lugares em que tenham de exercer as suas funções.\n\n3.º Os cartões são de cor branca, com escudo dourado e letras de cor azul, tendo uma faixa diagonal com as cores verde e vermelha no canto superior esquerdo e contendo o modelo 1 a menção «livre trânsito» em letras maiúsculas de cor vermelha.\n\n4.º A entidade emitente é a Secretaria-Geral, que providenciará para que os cartões emitidos sejam registados em livro ou base de dados própria, com os elementos de identificação convenientes.\n\n5.º Os cartões são autenticados com a assinatura do secretário-geral e com a aposição do selo branco, de forma que este incida sobre o canto inferior esquerdo da fotografia.\n\n6.º Os cartões devem ser substituídos quando se verifique qualquer alteração nos elementos deles constantes e são obrigatoriamente recolhidos quando se verifique cessação ou suspensão de funções do respectivo titular.\n\n7.º Em caso de extravio, deterioração ou destruição, pode ser emitida uma 2.ª via, do que se fará indicação expressa, mantendo esta o número do cartão anterior.\n\n8.º É revogada a [Portaria n.º 1019/83](https://diariodarepublica.pt/dr/detalhe/portaria/1019-1983-443129), de 6 de Dezembro.\n\nMinistério da Defesa Nacional.\n\nAssinada em 10 de Julho de 1996.\n\nO Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino."
+  },
+  "caf3a38bd2af1029": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Modelo de cartão de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Modelo de cartão de identificação\n\nMembros dos gabinetes e pessoal dirigente de inspecção e de investigação\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/210b00/30843085.pdf)"
+  },
+  "511105586e5eef03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Modelo de cartão de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Modelo de cartão de identificação\n\nRestante pessoal\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/210b00/30843085.pdf)"
+  },
+  "332b697d5135057e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2003-09-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 904/2003](https://diariodarepublica.pt/dr/detalhe/portaria/904-2003-633280), publicado em 2003-08-28."
+   ],
+   "markdown": "de 10 de Setembro\n\nA [Portaria n.º 1019/83](https://diariodarepublica.pt/dr/detalhe/portaria/1019-1983-443129), de 6 de Dezembro, criou um modelo de cartão de identificação para uso dos membros dos Gabinetes do Ministro e do Secretário de Estado da Defesa Nacional, bem como de outro pessoal que eventualmente lhes prestasse serviço.\n\nConsiderando a necessidade de tornar extensivo ao pessoal dirigente, de inspecção e de investigação o livre acesso aos serviços, unidades, estabelecimentos ou quaisquer lugares em que tenham de exercer as suas funções;\n\nConsiderando ainda a necessidade de tornar extensivo a todo o pessoal dos serviços do Ministério da Defesa Nacional o uso de um cartão de identificação, com vista a facilitar o acesso às respectivas instalações, bem como a identificação junto de outros serviços e entidades públicas ou privadas;\n\nTendo em atenção o disposto no artigo 34.º do [Decreto-Lei n.º 133/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1995-517788), de 9 de Junho:\n\nManda o Governo, pelo Ministro da Defesa Nacional, ao abrigo do disposto na alínea d) do artigo 202.º da Constituição, o seguinte:\n\n1.º São aprovados os seguintes modelos de cartão de identificação anexos à presente portaria:\n\nModelo 1 - para uso dos membros dos Gabinetes do Ministro e do Secretário de Estado da Defesa Nacional, dos dirigentes dos serviços do Ministério da Defesa Nacional, do pessoal de inspecção e de investigação e de outro pessoal que venha a ser considerado por despacho do Ministro da Defesa Nacional (anexo I);\n\nModelo 2 - para uso do restante pessoal dos serviços do Ministério da Defesa Nacional (anexo II).\n\n2.º Os portadores do cartão modelo 1 têm livre acesso aos serviços, unidades, estabelecimentos ou quaisquer lugares em que tenham de exercer as suas funções, sem prejuízo da observância de especiais regras de identificação e segurança que neles se encontrem em vigor.\n\n> Alterado pelo/a [Portaria n.º 904/2003](https://diariodarepublica.pt/dr/detalhe/portaria/904-2003-633280), publicado em 2003-08-28.\n\n3.º Os cartões são de cor branca, com escudo dourado e letras de cor azul, tendo uma faixa diagonal com as cores verde e vermelha no canto superior esquerdo e contendo o modelo 1 a menção «livre trânsito» em letras maiúsculas de cor vermelha.\n\n4.º A entidade emitente é a Secretaria-Geral, que providenciará para que os cartões emitidos sejam registados em livro ou base de dados própria, com os elementos de identificação convenientes.\n\n5.º Os cartões são autenticados com a assinatura do secretário-geral e com a aposição do selo branco, de forma que este incida sobre o canto inferior esquerdo da fotografia.\n\n6.º Os cartões devem ser substituídos quando se verifique qualquer alteração nos elementos deles constantes e são obrigatoriamente recolhidos quando se verifique cessação ou suspensão de funções do respectivo titular.\n\n7.º Em caso de extravio, deterioração ou destruição, pode ser emitida uma 2.ª via, do que se fará indicação expressa, mantendo esta o número do cartão anterior.\n\n8.º É revogada a [Portaria n.º 1019/83](https://diariodarepublica.pt/dr/detalhe/portaria/1019-1983-443129), de 6 de Dezembro.\n\nMinistério da Defesa Nacional.\n\nAssinada em 10 de Julho de 1996.\n\nO Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino."
+  }
+ }
+}

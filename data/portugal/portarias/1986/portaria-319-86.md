@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-09-03'
+version_history:
+  file: portaria-319-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-09-03'
+    amending: pt:dre:218960:por
+    amending_title: Portaria n.º 475/86
+    changes:
+    - Altera Artigo unidades 40-40
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:45:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 475/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-319-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -203,7 +218,9 @@ c) No caso da alínea d), até 31 de Março do ano em que o contribuinte passe a
 
 2.º O disposto nas alíneas c) e d) do n.º 1 do n.º 4.º da [Portaria n.º 420/76](https://diariodarepublica.pt/dr/detalhe/portaria/420-1976-430433), de 14 de Junho, é aplicável aos pedidos de inscrição apresentados após a entrada em vigor do [Decreto-Lei n.º 474/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/474-1985-171525), de 11 de Novembro.
 
-3.º As pessoas abrangidas pela alínea d) do n.º 1 do n.º 4.º da [Portaria n.º 420/76](https://diariodarepublica.pt/dr/detalhe/portaria/420-1976-430433), de 14 de Julho, deverão requerer a respectiva inscrição até ao fim do segundo mês seguinte ao da entrada em vigor da presente portaria, nos casos em que o facto determinante da inclusão do contribuinte no grupo A tenha ocorrido antes dessa data.
+3.º As pessoas abrangidas pela alínea d) do n.º 1 do n.º 4.º da [Portaria n.º 420/76](https://diariodarepublica.pt/dr/detalhe/portaria/420-1976-430433), de 14 de Julho, deverão requerer a respectiva inscrição até 31 de Outubro próximo, nos casos em que o facto determinante da inclusão do contribuinte no grupo A tenha ocorrido antes dessa data.
+
+> Alterado pelo/a [Portaria n.º 475/86](https://diariodarepublica.pt/dr/detalhe/portaria/475-1986-218960), publicado em 1986-08-29.
 
 4.º É revogada a alínea c) do n.º 1.º da [Portaria n.º 420/76](https://diariodarepublica.pt/dr/detalhe/portaria/420-1976-430433), de 14 de Julho.
 

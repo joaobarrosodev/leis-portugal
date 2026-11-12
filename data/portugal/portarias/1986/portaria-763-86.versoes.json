@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:210592:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-12-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8e8be176ac8c31e1"
+   ]
+  },
+  {
+   "date": "1987-10-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:495505:por",
+     "title": "Portaria n.º 818/87",
+     "published": "1987-10-02",
+     "dre_path": "/dr/detalhe/portaria/818-1987-495505"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-10"
+   ],
+   "fragments": [
+    "9fa103cda7ffa52e"
+   ]
+  }
+ ],
+ "fragments": {
+  "8e8be176ac8c31e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Dezembro\n\nA [Portaria n.º 562-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/562-a-1986-148781), de 30 de Setembro, procedeu à regulamentação do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), da mesma data, que estabelece o novo sistema de crédito à habitação.\n\nNa citada portaria são fixados os índices de localização para o território continental, não tendo sido possível naquela data a fixação daqueles índices para as Regiões Autónomas dos Açores e da Madeira.\n\nAtendendo a que razões objectivas conduzem a que os custos de construção naquelas Regiões Autónomas sejam mais elevados do que os do continente, entendeu-se fixar o índice de localização para as Regiões Autónomas dos Açores e da Madeira em 1,20.\n\nPor outro lado, a fixação deste índice deverá ser acompanhada por outro ajustamento, dados os limites aos montantes de crédito impostos pela taxa de esforço máxima fixada em um terço, sem o qual a fixação do índice de localização em 1,20 perderia quaisquer efeitos práticos.\n\nTal ajustamento será feito através da ligeira subida da bonificação de juro acompanhado de alterações do seu processo de redução ao longo do período do empréstimo.\n\nAssim:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, ouvidos os Governos Regionais dos Açores e da Madeira, nos termos e em execução do disposto no artigo 8.º, n.º 2, do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, o seguinte:\n\n1.º O índice de localização, segundo zonas do País, a que se refere a alínea c) do n.º 1.º da [Portaria n.º 562-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/562-a-1986-148781), de 30 de Setembro, será para as Regiões Autónomas dos Açores e da Madeira de 1,20.\n\n2.º Para vigorar nas Regiões Autónomas dos Açores e da Madeira, a tabela III anexa à portaria referida no número anterior será a constante da tabela anexa à presente portaria.\n\n3.º Os parâmetros e valores referidos nos números anteriores serão objecto de sucessivas revisões, por portaria, de modo a ter em devida conta a evolução da política de habitação e as restrições da política orçamental.\n\nMinistérios das Finanças e das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 9 de Dezembro de 1986.\n\nPelo Ministro das Finanças, Manuel Carlos Carvalho Fernandes, Secretário de Estado do Tesouro. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, José Manuel Alves Elias da Costa, Secretário de Estado da Construção e Habitação.\n\nTABELA ANEXA\n\nRegime de bonificação e condições de acesso, a que se refere o n.º 2.º da Portaria n.º 763/86, de 24 de Dezembro, para as Regiões Autónomas dos Açores e da Madeira\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29500/38063806.pdf)"
+  },
+  "9fa103cda7ffa52e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1987-10-07",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 818/87](https://diariodarepublica.pt/dr/detalhe/portaria/818-1987-495505), publicado em 1987-10-02."
+   ],
+   "markdown": "de 24 de Dezembro\n\nA [Portaria n.º 562-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/562-a-1986-148781), de 30 de Setembro, procedeu à regulamentação do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), da mesma data, que estabelece o novo sistema de crédito à habitação.\n\nNa citada portaria são fixados os índices de localização para o território continental, não tendo sido possível naquela data a fixação daqueles índices para as Regiões Autónomas dos Açores e da Madeira.\n\nAtendendo a que razões objectivas conduzem a que os custos de construção naquelas Regiões Autónomas sejam mais elevados do que os do continente, entendeu-se fixar o índice de localização para as Regiões Autónomas dos Açores e da Madeira em 1,20.\n\nPor outro lado, a fixação deste índice deverá ser acompanhada por outro ajustamento, dados os limites aos montantes de crédito impostos pela taxa de esforço máxima fixada em um terço, sem o qual a fixação do índice de localização em 1,20 perderia quaisquer efeitos práticos.\n\nTal ajustamento será feito através da ligeira subida da bonificação de juro acompanhado de alterações do seu processo de redução ao longo do período do empréstimo.\n\nAssim:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, ouvidos os Governos Regionais dos Açores e da Madeira, nos termos e em execução do disposto no artigo 8.º, n.º 2, do [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, o seguinte:\n\n1.º O índice de localização, segundo zonas do País, a que se refere a alínea c) do n.º 1.º da [Portaria n.º 362/87](https://diariodarepublica.pt/dr/detalhe/portaria/362-1987-421201), de 2 de Maio, será para as Regiões Autónomas dos Açores e da Madeira de 1,25.\n\n> Alterado pelo/a [Portaria n.º 818/87](https://diariodarepublica.pt/dr/detalhe/portaria/818-1987-495505), publicado em 1987-10-02.\n\n2.º Para vigorar nas Regiões Autónomas dos Açores e da Madeira, a tabela III anexa à portaria referida no número anterior será a constante da tabela anexa à presente portaria.\n\n3.º Os parâmetros e valores referidos nos números anteriores serão objecto de sucessivas revisões, por portaria, de modo a ter em devida conta a evolução da política de habitação e as restrições da política orçamental.\n\nMinistérios das Finanças e das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 9 de Dezembro de 1986.\n\nPelo Ministro das Finanças, Manuel Carlos Carvalho Fernandes, Secretário de Estado do Tesouro. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, José Manuel Alves Elias da Costa, Secretário de Estado da Construção e Habitação.\n\nTABELA ANEXA\n\nRegime de bonificação e condições de acesso, a que se refere o n.º 2.º da Portaria n.º 763/86, de 24 de Dezembro, para as Regiões Autónomas dos Açores e da Madeira\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/29500/38063806.pdf)"
+  }
+ }
+}

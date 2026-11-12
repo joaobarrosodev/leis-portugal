@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 16-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "O presente Programa aplica-se nas áreas geográficas de intervenção das Direcções Regionais de Agricultura do Alentejo e da Beira Interior, com excepção das zonas não indemnes de peste suína africana.",
+    "depois": "O presente Programa aplica-se nas áreas geográficas de intervenção das Direcções Regionais de Agricultura do Algarve, do Alentejo, do Ribatejo e Oeste e da Beira Interior, com excepção das explorações não indemnes de peste suína africana.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:158464:por",
+    "alterador": "pt:dre:216295:por"
+  }
+]

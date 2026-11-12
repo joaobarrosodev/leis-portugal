@@ -38,10 +38,35 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-03-18'
+version_history:
+  file: despacho-normativo-42-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-03-18'
+    amending: pt:dre:667159:por
+    amending_title: Despacho Normativo n.º 19/2006
+    changes:
+    - Altera Artigo unidades 14-14
+    - Adita Artigo depois da unidade 24
+    - Altera Artigo unidades 27-39
+    - Altera Artigo unidades 44-54
+    - Altera Artigo unidades 57-60
+    - Altera Artigo unidades 67-71
+    - Altera Artigo unidades 74-76
+    - Adita Artigo depois da unidade 76
+    - Altera Artigo unidades 78-83
+    - Adita Artigo depois da unidade 83
+    - Altera Artigo unidades 87-90
+    - Altera Artigo unidades 97-97
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/42/2002/07/30/p/dre/pt/html
@@ -67,7 +92,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:39:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 19/2006. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2002/despacho-normativo-42-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +170,9 @@ Objectivos
 
 1 - O SIPESCA tem como objectivos apoiar a pesca local e costeira através:
 
-a) De incentivos à construção, por substituição, de pequenas embarcações, mais modernas, mais seguras e mais bem equipadas, bem como à modernização de embarcações de pesca que vise a melhoria das condições de segurança, trabalho, acondicionamento e conservação de pescado a bordo;
+a) De incentivos à modernização de embarcações de pesca que visem a melhoria das condições de segurança, trabalho, acondicionamento e conservação de pescado a bordo;
+
+> Alterado pelo/a [Despacho Normativo n.º 19/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2006-667159), publicado em 2006-03-17.
 
 b) Do estímulo a uma maior competitividade económica sem aumento do esforço de pesca, da aposta na qualidade do pescado e no uso de artes ou instrumentos de pesca mais selectivos e ambientalmente mais seguros;
 
@@ -166,35 +194,37 @@ b) Terem exercido uma actividade de pesca considerada normal para embarcações 
 
 2 - Para efeitos do disposto na alínea b) do número anterior, a actividade é demonstrada pelo valor do pescado transaccionado em lota, a comprovar pelos serviços oficiais de vendagem. A ausência de transacções em lota ou a existência de transacções abaixo do nível médio deve ser devidamente justificada, ficando a justificação apresentada sujeita a aceitação por parte da Direcção-Geral das Pescas e Aquicultura (DGPA).
 
+3 - Os promotores devem ter a situação regularizada perante a administração fiscal, a segurança social e as entidades pagadoras de qualquer apoio público.
+
+2.º-A
+
+Projectos não enquadráveis
+
+1 - Não são enquadráveis no presente Regulamento os projectos nas seguintes condições:
+
+a) Cujo valor global seja inferior a (euro) 500 ou superior a (euro) 27500;
+
+b) Que respeitem a embarcações construídas há menos de cinco anos com ajudas públicas.
+
+2 - Para efeitos do cálculo do montante máximo referido na alínea a) do número anterior, será tido em conta o montante das despesas elegíveis aprovadas relativas a cada candidatura apoiada nos últimos cinco anos.
+
+> Aditado pelo/a [Despacho Normativo n.º 19/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2006-667159), publicado em 2006-03-17.
+
 3.º
 
 Critérios de prioridade
 
-1 - Para efeitos de concessão de apoio financeiro, as candidaturas serão ordenadas por ordem decrescente de prioridade relativamente aos seguintes critérios:
+1 - Para efeitos de concessão de apoio financeiro, as candidaturas à modernização de embarcações de pesca serão ordenadas por ordem decrescente de prioridade relativamente aos seguintes critérios:
 
-a) No caso de construção de embarcações:
+a) Projectos que visem dotar as embarcações de adequadas condições de segurança;
 
-i) Substituição de embarcações naufragadas ou destruídas por motivos de força maior;
+b) Projectos de reconversão de actividade para a pesca com artes mais selectivas;
 
-ii) Substituição de embarcações que, por indicação das autoridades competentes, demonstram situações graves de falta de segurança;
+c) Projectos respeitantes a embarcações com idade igual ou superior a cinco anos que visem a melhoria das condições de trabalho e de conservação e estiva do pescado a bordo;
 
-iii)) Substituição de embarcações com reconversão da actividade para a pesca com artes mais selectivas;
+d) Restantes candidaturas ordenadas pela data de entrada.
 
-iv) Substituição de embarcações com idade igual ou superior a 10 anos;
-
-v) Restantes candidaturas, ordenadas pela data de entrada;
-
-b) No caso de modernizações de embarcações:
-
-i) Projectos que visem dotar as embarcações de adequadas condições de segurança;
-
-ii) Projectos de reconversão da actividade para a pesca com artes mais selectivas;
-
-iii) Projectos respeitantes a embarcações com idade igual ou superior a 5 anos e inferior ou igual a 10 anos que visem a melhoria das condições de trabalho e de conservação e estiva do pescado a bordo;
-
-iv) Projectos que visem a adopção de motores fixos ou a utilização de motores de baixo consumo;
-
-v) Restantes candidaturas, ordenadas pela data de entrada.
+> Alterado pelo/a [Despacho Normativo n.º 19/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2006-667159), publicado em 2006-03-17.
 
 2 - As acções a que se refere a alínea c) do n.º 1 do n.º 1.º são consideradas prioritárias relativamente às demais.
 
@@ -204,39 +234,39 @@ Despesas não elegíveis
 
 1 - Não são elegíveis para efeitos de concessão de apoio financeiro as seguintes despesas:
 
-a) Construção de embarcações cujas obras tenham tido início antes da data da apresentação do projecto;
+a) Trabalhos/obras que aumentem a capacidade das embarcações em termos de arqueação, excepto no caso de dizerem respeito ao reforço da segurança a bordo e melhoria das condições de trabalho, higiene e qualidade do pescado;
 
-b) Equipamentos adquiridos e obras realizadas antes da apresentação do projecto de modernização;
+b) Motores propulsores;
 
-c) Obras de manutenção corrente, tais como pintura, manutenção periódica do casco ou outras intervenções de natureza semelhante, desde que efectuadas separadamente de trabalhos de modernização;
+c) Equipamentos/obras que aumentem a eficácia das artes de pesca;
 
-d) Substituição de equipamento, nomeadamente de motores propulsores semelhantes aos já existentes a bordo da unidade a que se refere o projecto, que tenham sido objecto de apoios públicos concedidos há menos de cinco anos, salvo em casos de força maior;
+d) Equipamentos adquiridos e obras realizadas antes da apresentação do projecto de modernização;
 
-e) Equipamentos que se mostrem desajustados ou que evidenciem características técnicas de eficiência e robustez insuficientes ou não adequadas em relação às características da embarcação e à actividade para que a mesma está licenciada;
+e) Obras de manutenção corrente, tais como pintura, manutenção periódica do casco ou outras intervenções de natureza semelhante, desde que efectuadas separadamente de trabalhos de modernização;
 
-f) Material em segunda mão e respectiva montagem, salvo no caso de reinstalação numa nova unidade de equipamentos recuperados da unidade anterior, situação em que são elegíveis as despesas de instalação a bordo;
+f) Substituição de equipamentos que tenham sido objecto de apoios públicos concedidos há menos de cinco anos, salvo em casos de força maior;
 
-g) Equipamentos considerados dispensáveis para a navegação, segurança do navio, actividade de pesca e condições de vida a bordo;
+g) Equipamentos que se mostrem desajustados ou que evidenciem características técnicas de eficiência e robustez insuficientes ou não adequadas em relação às características da embarcação e à actividade para que a mesma está licenciada;
 
-h) Aquisição de artes de pesca, excepto no caso de reconversão da actividade para artes mais selectivas, desde que:
+h) Material em segunda mão e respectiva montagem;
 
-i) Não tenham sido objecto de apoios públicos concedidos há menos de dois anos, salvo em caso de catástrofe ou intempérie que, reconhecidamente, haja produzido danos graves; e
+i) Equipamentos considerados dispensáveis para a navegação, segurança do navio, actividade de pesca e condições de vida a bordo;
 
-ii) O custo das mesmas não exceda 25% do investimento previsto para o restante custo, quando se trate de novas construções, e 20% do montante máximo elegível, no caso de modernizações.
+j) Aquisição de artes de pesca, excepto no caso de a mesma ser determinada por restrições técnicas impostas pela legislação comunitária às artes ou métodos de pesca existentes.
 
-2 - Para efeitos do disposto nas alíneas d) e h) do número anterior, considera-se o lapso de tempo decorrido entre a data da última concessão de apoios públicos e a data da apresentação da candidatura.
+2 - Para efeitos do disposto na alínea f) do número anterior, considera-se o lapso de tempo decorrido entre a data do pagamento relativo à última concessão de apoios públicos e a data da apresentação da candidatura.
+
+> Alterado pelo/a [Despacho Normativo n.º 19/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2006-667159), publicado em 2006-03-17.
 
 5.º
 
 Montante dos apoios
 
-1 - A construção por substituição de pequenas embarcações não pode exceder o investimento total de (euro) 50000.
+1 - A comparticipação do Estado nos custos elegíveis do projecto é fixada em 40%.
 
-2 - O custo total de uma modernização não pode ser inferior a (euro) 500 nem exceder (euro) 27500.
+2 - As ajudas a conceder são diminuídas pro rata temporis dos montantes concedidos há menos de cinco anos à modernização da embarcação, considerando-se para o efeito a data do pagamento do apoio financeiro respectivo e da entrada da nova candidatura.
 
-3 - A comparticipação do Estado nos custos elegíveis do projecto é fixada em 40%.
-
-4 - As ajudas a conceder são diminuídas, na proporção do tempo decorrido, dos montantes anteriormente concedidos, há menos de cinco anos, desde que aqueles tenham sido concedidos para a mesma finalidade.
+> Alterado pelo/a [Despacho Normativo n.º 19/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2006-667159), publicado em 2006-03-17.
 
 6.º
 
@@ -250,39 +280,71 @@ Outras acções
 
 Apresentação das candidaturas e decisão
 
-1 - As candidaturas são entregues na DGPA até 15 de Maio, devendo ser objecto de decisão até 31 de Outubro, salvo se não estiverem disponíveis as necessárias dotações orçamentais.
+1 - O processo de candidatura deverá ser entregue na DGPA ou nos respectivos serviços regionais, instruído com:
 
-2 - Exceptuam-se do número anterior as candidaturas às acções previstas no n.º 6.º
+a) Impressos próprios, devidamente preenchidos, acompanhados de requerimento dirigido ao membro do Governo responsável pelo sector das pescas e dos documentos constantes da listagem anexa aos referidos impressos;
 
-3 - A decisão sobre as candidaturas é da competência do membro do Governo responsável pelo sector das pescas.
+b) Fotocópia das declarações do IRS/IRC relativas aos dois últimos anos.
 
-4 - A comunicação da decisão que recair sobre as candidaturas será efectuada pela DGPA no prazo de 10 dias úteis sobre a sua emissão.
+2 - A data limite de apresentação de candidaturas é 31 de Março de cada ano, devendo as mesmas ser objecto de decisão até 7 de Outubro do mesmo ano.
 
-5 - Do processo de candidatura deverá constar a identificação do candidato mediante apresentação de cópia do bilhete de identidade, do cartão de pessoa colectiva ou do cartão de contribuinte e fotocópia da declaração de início de actividade, caso se trate de pessoa singular, e do título de registo de propriedade, assim como certidões comprovativas de que as respectivas situações fiscal e da segurança social se encontram regularizadas.
+3 - Exceptuam-se do disposto no número anterior as candidaturas às acções previstas no n.º 6.
+
+4 - A decisão sobre as candidaturas é da competência do membro do Governo responsável pelo sector das pescas.
+
+5 - A comunicação da decisão que venha a recair sobre as candidaturas será efectuada pela DGPA no prazo de 10 dias úteis sobre a sua emissão.
+
+6 - As candidaturas entradas na DGPA em data posterior à prevista no n.º 2 do presente número transitarão para o ano seguinte, para efeitos de análise e decisão, podendo, excepcionalmente, ser decididas no próprio ano de entrada caso haja disponibilidade financeira para o efeito.
+
+> Alterado pelo/a [Despacho Normativo n.º 19/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2006-667159), publicado em 2006-03-17.
 
 8.º
 
 Obrigações do beneficiário
 
-1 - Para a execução dos projectos de construção e de modernização, são estabelecidos os prazos de um ano e de oito meses, respectivamente, contados a partir da comunicação referida no n.º 4 do número anterior.
+Os bens ou equipamentos adquiridos ao abrigo do presente Regulamento não podem ser doados, vendidos ou por qualquer modo cedidos, em separado da respectiva embarcação, pelo prazo de cinco anos contado a partir da data da aprovação do projecto, não podendo igualmente ser destinados a outros fins que não a pesca, sob pena de haver reembolso das ajudas recebidas, calculadas pro rata temporis do referido período.
 
-2 - O beneficiário deve manter a nova embarcação registada na frota de pesca durante um período de 10 anos a contar da data do seu registo. No caso de cancelamento voluntário desse registo, haverá lugar a reembolso das ajudas recebidas calculadas pro rata temporis do referido período.
+> Alterado pelo/a [Despacho Normativo n.º 19/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2006-667159), publicado em 2006-03-17.
 
-3 - Os bens ou equipamentos adquiridos ao abrigo do presente Regulamento não podem ser doados, vendidos ou por qualquer modo cedidos, em separado da respectiva embarcação, pelo prazo de cinco anos contado a partir da data da aprovação do projecto, não podendo igualmente ser destinados a outros fins que não a pesca.
+8.º-A
+
+Prazo para a execução dos projectos
+
+1 - O prazo para a execução dos projectos é fixado caso a caso, em função da respectiva complexidade e das disponibilidades financeiras, na decisão do membro do Governo responsável pelo sector das pescas, sendo objecto da comunicação prevista no n.º 5 do n.º 7.º, com ressalva do disposto no número seguinte.
+
+2 - Caso o pagamento do apoio tenha lugar antecipadamente, nos termos do disposto na alínea b) do n.º 2 do n.º 9.º, o prazo para execução material e financeira do projecto é de um ano a contar da data em que ocorrer aquele pagamento.
+
+> Aditado pelo/a [Despacho Normativo n.º 19/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2006-667159), publicado em 2006-03-17.
 
 9.º
 
-Atribuição dos apoios
+Pagamento dos apoios
 
-1 - O apoio atribuído é entregue ao beneficiário após a realização de uma vistoria pela DGPA, para confirmação da execução material do projecto, e a apresentação, pelo beneficiário, dos documentos de despesa definitivos que comprovem o investimento realizado.
+1 - O pagamento dos apoios é efectuado por conta das dotações inscritas no Orçamento do Estado referido na decisão do membro do Governo responsável pelo sector das pescas e comunicado ao beneficiário, nos termos do disposto no n.º 5 do n.º 7.º
 
-2 - A entrega do subsídio aprovado antes da conclusão material e financeira dos projectos só poderá verificar-se contra a apresentação de garantia bancária ou seguro-caução, válidos pelo período de um ano, automaticamente renovável, contado a partir da notificação da aprovação do projecto, prestado pelo armador, estaleiro, casas fornecedoras ou associações de armadores.
+2 - O pagamento dos apoios financeiros poderá efectuar-se de acordo com uma das seguintes modalidades:
 
-3 - A libertação de garantia bancária ou de seguro-caução terá lugar após a confirmação pela DGPA de que o projecto se encontra material e financeiramente concluído mediante vistoria a realizar para o efeito.
+a) O apoio atribuído é pago ao beneficiário, via transferência bancária, após a conclusão material do projecto, comprovada mediante a realização de uma vistoria pela DGPA, e a apresentação, por aquele, dos documentos de despesa definitivos que comprovam o investimento realizado e certidões comprovativas em como está regularizada a respectiva situação contributiva junto da administração fiscal e da segurança social;
 
-4 - O beneficiário comparticipará nas despesas inerentes ao acompanhamento dos projectos pela DGPA com o valor de 1% sobre o montante ilíquido de cada subsídio atribuído.
+b) O apoio atribuído é pago ao beneficiário, via transferência bancária, antes da conclusão material e financeira do projecto contra a apresentação de garantia bancária ou seguro-caução, prestados pelo mesmo a favor da DGPA, pelo valor do subsídio líquido, válidos por um período indeterminado ou por um período automaticamente renovável e certidões comprovativas em como está regularizada a respectiva situação contributiva junto da administração fiscal e da segurança social.
 
-5 - A libertação do subsídio atribuído a um projecto está condicionada à finalização (material e financeira) de outros projectos anteriores com ele relacionados.
+3 - Os documentos de despesa a que se refere a alínea a) do número anterior deverão ser originais (facturas e recibos que poderão ser substituídos por outros documentos igualmente justificativos de despesa), numerados e com data igual ou posterior à data de entrada da candidatura na DGPA.
+
+4 - A opção pela modalidade de pagamento prevista na alínea b) do n.º 2 está sujeita a autorização prévia da DGPA.
+
+5 - Os beneficiários comparticipam nas despesas inerentes ao acompanhamento dos projectos pela DGPA com o valor de 1% sobre o montante ilíquido de cada subsídio atribuído.
+
+> Alterado pelo/a [Despacho Normativo n.º 19/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2006-667159), publicado em 2006-03-17.
+
+9.º-A
+
+Libertação de garantias bancárias e seguros-caução
+
+1 - A libertação das garantias bancárias ou dos seguros-caução tem lugar após a confirmação pela DGPA de que os projectos a que respeitam se encontram material e financeiramente concluídos.
+
+2 - Para efeitos do disposto no número anterior, os beneficiários devem remeter à DGPA no prazo de 30 dias a contar da data referida no n.º 2 do n.º 8.º-A os documentos referidos no n.º 3 do n.º 9.º
+
+> Aditado pelo/a [Despacho Normativo n.º 19/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2006-667159), publicado em 2006-03-17.
 
 10.º
 
@@ -290,13 +352,15 @@ Incumprimento
 
 1 - A não utilização dos subsídios concedidos através do SIPESCA, sem justificação aceite pelo membro do Governo responsável pelo sector das pescas, determina o impedimento de apresentação de nova candidatura a apoio financeiro no âmbito deste Regulamento, ou de outro que o substitua, pelo período de dois anos.
 
-2 - Nos casos em que os beneficiários não tenham dado cumprimento ao disposto no n.º 8.º, deverão os mesmos repor nos cofres do Estado a totalidade ou a parte do subsídio não aplicada. Quando se verifique ter havido a libertação prévia do subsídio e haja incumprimento na execução dos projectos, ao montante a repor nos cofres do Estado deverão ser acrescidos os respectivos juros legais, nos termos do disposto no artigo 559.º do Código Civil.
+2 - O incumprimento pelos beneficiários das obrigações decorrentes do presente Regulamento constitui fundamento para ser determinada a perda total ou parcial do apoio atribuído.
 
-3 - A reposição das verbas referidas no n.º 2 deverá efectuar-se no prazo máximo de 15 dias úteis após a notificação do beneficiário explicitando a quantia a devolver.
+3 - Quando se verifique ter havido pagamento prévio do subsídio, de acordo com o previsto na alínea b) do n.º 2 do n.º 9.º, e haja incumprimento na execução dos projectos, bem como nos casos em que os beneficiários não tenham dado cumprimento ao disposto no n.º 8.º, deverão os mesmos repor nos cofres do Estado a totalidade ou a parte do subsídio não aplicada. Ao montante a repor nos cofres do Estado deverão ser acrescidos os respectivos juros legais, nos termos do disposto no artigo 559.º do Código Civil.
 
-4 - A não reposição desse montante no prazo indicado implicará o envio do processo à repartição de finanças correspondente ao domicílio do beneficiário para efeitos de execução fiscal.
+4 - A reposição das verbas referidas no número anterior nos cofres do Estado deverá efectuar-se num prazo máximo de 15 dias úteis após a notificação do beneficiário, explicitando a quantia a devolver.
 
-5 - Não haverá lugar a incumprimento caso os beneficiários, justificada e antecipadamente, requeiram, e a DGPA aceite, a devolução das ajudas totais, no caso de construção de embarcações, ou parciais, no caso de modernização de embarcações, calculadas pro rata temporis do período de cinco anos, acrescidas de juros, nos termos do n.º 2.
+5 - A não reposição deste montante no prazo indicado implicará o envio do processo à repartição de finanças correspondente ao domicílio do beneficiário para efeitos de execução fiscal.
+
+> Alterado pelo/a [Despacho Normativo n.º 19/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2006-667159), publicado em 2006-03-17.
 
 11.º
 
@@ -310,4 +374,6 @@ Disposições transitórias
 
 1 - As candidaturas apresentadas ao abrigo do Regulamento aprovado pelo [Despacho Normativo n.º 8-A/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-a-2000-287423), de 2 de Fevereiro, que ainda não tenham sido objecto de decisão transitam para o regime previsto no presente Regulamento.
 
-2 - Para o ano 2002, o prazo de 15 de Maio referido no n.º 1 do n.º 7.º é prorrogado até 15 de Agosto.
+2 - Para o ano 2006, o prazo de 31 de Março referido no n.º 2 do n.º 7 é prorrogado até 15 de Maio.
+
+> Alterado pelo/a [Despacho Normativo n.º 19/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-2006-667159), publicado em 2006-03-17.

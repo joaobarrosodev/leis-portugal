@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 38-38",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Anatomia Patológica, Citológica e Tanatológica ... 20",
+    "depois": "Anatomia Patológica, Citológica e Tanatológica ... 25",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:179491:por",
+    "alterador": "pt:dre:476528:por"
+  },
+  {
+    "artigo": "unidades 41-41",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Fisioterapia ... 10",
+    "depois": "Fisioterapia ... 39",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:179491:por",
+    "alterador": "pt:dre:476528:por"
+  },
+  {
+    "artigo": "unidades 46-46",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Saúde Ambiental ... 3",
+    "depois": "Saúde Ambiental ... 8",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:179491:por",
+    "alterador": "pt:dre:476528:por"
+  }
+]

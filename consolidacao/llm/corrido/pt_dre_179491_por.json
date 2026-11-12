@@ -1,0 +1,32 @@
+{
+  "id": "pt:dre:179491:por",
+  "substituicoes": [
+    {
+      "de": 38,
+      "ate": 38,
+      "texto": "Anatomia Patológica, Citológica e Tanatológica ... 25",
+      "alterador": 1
+    },
+    {
+      "de": 41,
+      "ate": 41,
+      "texto": "Fisioterapia ... 39",
+      "alterador": 1
+    },
+    {
+      "de": 46,
+      "ate": 46,
+      "texto": "Saúde Ambiental ... 8",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1.º: nova redação do anexo na parte da ESTS do Porto; comparada linha a linha, mudam só Anatomia Patológica (20→25, unidade 38), Fisioterapia (10→39, unidade 41) e Saúde Ambiental (3→8, unidade 46); restantes linhas iguais.",
+    "Alterador 1, artigo 2.º: produção de efeitos, sem alteração textual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

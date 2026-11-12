@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:148419:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1276/2006 (alterador 1), no n.º 7.º, revoga por inteiro as portarias mencionadas no n.º 5.º, entre elas a Portaria n.º 874/2005; o diploma original é revogado na totalidade.",
+  "instrucoes": [
+    "Alterador 1, n.º 7.º: revoga a Portaria n.º 874/2005 por inteiro (com salvaguarda transitória do n.º 6.º para alunos em curso) — revogação total, nada aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

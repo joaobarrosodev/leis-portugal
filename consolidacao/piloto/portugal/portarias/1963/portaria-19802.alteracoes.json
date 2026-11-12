@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3) Pessoal assalariado - um consultor especial, um encarregado dos serviços de imprensa, um escriturário, dois dactilógrafos, um contínuo.",
+    "depois": "3) Pessoal assalariado - um consultor especial, um encarregado dos serviços de imprensa, quatro funcionários em serviço privativo, de qualquer categoria, entre arquivista, escriturário ou dactilógrafo, e um contínuo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:194855:por",
+    "alterador": "pt:dre:627648:por"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:219155:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria 1331/95 muda a designação de uma disciplina do 1.º ano no plano de estudos anexo, que no texto atual só existe em imagem (ver documento original); não há texto onde aplicar a mudança.",
+  "instrucoes": [
+    "Portaria 1331/95 altera a designação da disciplina «Geometria Descritiva e Técnicas de Representação Bi e Tridimensional» no anexo (plano de estudos): anexo só em imagem, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

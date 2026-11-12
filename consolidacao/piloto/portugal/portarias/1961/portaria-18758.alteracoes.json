@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2) Membros da delegação prestando nela serviço privativo: um ministro plenipotenciário de 2.ª classe ou um conselheiro de legação; três funcionários do quadro diplomático ou consular de qualquer categoria de entre os primeiros, segundos e terceiros-secretários de legação, cônsules de 2.ª ou 3.ª classe, e um secretário privativo.",
+    "depois": "2) Membros da delegação prestando nela serviço privativo: um ministro plenipotenciário de 2.ª classe ou um conselheiro de legação; três funcionários do quadro diplomático ou consular de qualquer categoria de entre os primeiros, Segundos e terceiros-secretários de legação, cônsules de 1.ª, de 2.ª ou 3.ª classe, e um secretário privativo, ou dois funcionários do referido quadro diplomático ou consular das mencionadas categorias, e dois secretários privativos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:180003:por",
+    "alterador": "pt:dre:693600:por"
+  }
+]

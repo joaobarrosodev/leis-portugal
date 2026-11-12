@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:210592:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "1.º O índice de localização, segundo zonas do País, a que se refere a alínea c) do n.º 1.º da [Portaria n.º 362/87](https://diariodarepublica.pt/dr/detalhe/portaria/362-1987-421201), de 2 de Maio, será para as Regiões Autónomas dos Açores e da Madeira de 1,25.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 818/87 dá nova redação ao n.º 1.º: substituída a unidade 10."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

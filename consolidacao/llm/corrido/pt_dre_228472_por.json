@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:228472:por",
+  "substituicoes": [
+    {
+      "de": 40,
+      "ate": 40,
+      "texto": "3.º As pessoas abrangidas pela alínea d) do n.º 1 do n.º 4.º da [Portaria n.º 420/76](https://diariodarepublica.pt/dr/detalhe/portaria/420-1976-430433), de 14 de Julho, deverão requerer a respectiva inscrição até 31 de Outubro próximo, nos casos em que o facto determinante da inclusão do contribuinte no grupo A tenha ocorrido antes dessa data.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 3.º (unidade 40) — substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

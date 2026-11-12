@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:194821:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "A Portaria n.º 1/2001/M só altera e revoga pontos (1.1 a 1.3, 2.1 a 2.3.3, 3.1 a 3.6) da tabela de taxas anexa ao Regulamento Policial, que no texto atual consta apenas como título de divisão ('ANEXO — Tabela de taxas a que se refere o artigo 71.º') sem conteúdo; não há texto onde aplicar as novas redações nem as revogações.",
+  "instrucoes": [
+    "Port. 1/2001/M, 1.º: nova redação dos pontos 1.2.3, 1.3, 2.2.4.1-2.2.4.4, 2.3.1-2.3.3 e 3.1-3.5 da tabela anexa — não aplicado (tabela ausente do texto atual).",
+    "2.º: revogação dos pontos 1.1 a 1.2.2, 2.1 a 2.2.3 e 3.6 da tabela — não aplicado (tabela ausente do texto atual).",
+    "3.º: entrada em vigor — sem efeito no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

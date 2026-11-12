@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-11-14'
+version_history:
+  file: portaria-987-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-10-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-11-14'
+    amending: pt:dre:391824:por
+    amending_title: Portaria n.º 1047-A/92; Portaria n.º 1047-A/92
+    changes:
+    - Altera Artigo unidades 13-13
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/987/1992/10/20/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:40:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1047-A/92; Portaria
+    n.º 1047-A/92. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-987-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,7 +150,9 @@ a) Beneficiários que já constem dos ficheiros de 1992 - mediante simples confi
 
 b) Inscrições novas - mediante elaboração de um processo de habilitação completo.
 
-6.º O período de inscrição, não prorrogável, decorrerá até 16 de Outubro do ano em curso.
+6.º O período de inscrição decorrerá até 16 de Novembro do ano em curso.
+
+> Alterado pelo/a [Portaria n.º 1047-A/92](https://diariodarepublica.pt/dr/detalhe/portaria/1047-a-1992-391824), publicado em 1992-11-09.
 
 7.º Os beneficiários poderão proceder à rectificação das respectivas áreas regadas por bombagem, junto dos serviços regionais onde estiver o seu manifesto, no período de 20 de Abril a 15 de Maio de 1993.
 

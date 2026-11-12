@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:158270:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º É criada uma zona de pesca reservada no troço do rio Tâmega (albufeira do Torrão) compreendido entre a ponte da A 4 no lugar de Formão, freguesia de Cepelos, na margem esquerda, e lugar de Amarantinho, freguesia de Fregim, na margem direita, concelho de Amarante, a montante, e a ponte de Baía, freguesia de Salvador do Monte, na margem esquerda, e freguesia de Vila Caiz, na margem direita, concelho de Amarante, a jusante, numa extensão de 2,5 km.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (extensão da zona de pesca à margem direita) — unidade 7 substituída."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

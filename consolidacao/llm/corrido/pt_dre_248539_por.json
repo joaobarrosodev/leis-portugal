@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:248539:por",
+  "substituicoes": [
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "J) Os terrenos do lote 1 do troço 1 referidos no considerando H) foram disponibilizados à Concessionária até 25 de Setembro de 2007;",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 106,
+      "texto": "Cláusula única\n\nEntrada em serviço e recepção das infra-estruturas\n\n1 - As Partes acordam que a entrada em serviço da 1.ª fase do MST se faça nas seguintes três etapas distintas, obrigando-se a Concessionária nos seus precisos termos:\n\n1.1 - Entrada em serviço do troço entre Corroios e a Cova da Piedade até 30 de Abril de 2007, a qual já se verificou, correspondendo a etapa 0 ao período entre 12 de Dezembro de 2005 e 29 de Abril de 2007;\n\n1.2 - Entrada em serviço do troço entre Corroios e a Universidade até 15 de Dezembro de 2007, correspondendo a etapa 1 ao período entre 30 de Abril e 14 de Dezembro de 2007;\n\n1.3 - Entrada em serviço de todos os demais troços da 1.ª fase do MST até 27 de Novembro da 2008, correspondendo a etapa 2 ao período entre 15 de Dezembro de 2007 e 26 de Novembro de 2008.\n\n2 - As entradas parcelares em serviço das etapas previstas no n.º 2.1 pressupõem a adequação em conformidade das fases de conclusão da obra, testes, ensaios, pré-exploração, demonstração, licenciamento e recepção do MST previstas no contrato de concessão, as quais se fazem em obediência ao Plano de Trabalhos que constitui o anexo A, o qual, no aplicável, substitui e passa a integrar o anexo 11 ao Contrato de Concessão, sem prejuízo da disponibilização dos terrenos do lote 1 do troço 1 que se realiza até à data fixada no considerando J), e demais adaptações em conformidade com as datas em que ocorre tal disponibilização.\n\n3 - Sem prejuízo dos lotes em que já se tenham verificado recepções específicas, as recepções provisórias das ILD relativas a arranjos exteriores, pelo Concedente e municípios envolvidos, apenas são efectuadas em conjunto com cada uma das três recepções provisórias relativas à entrada em serviço de cada uma das três etapas do MST previstas no n.º 2.1.\n\n4 - O disposto na presente cláusula não acarreta a prorrogação do prazo da concessão previsto na cláusula 13.1 do Contrato de Concessão.\n\n5 - A Concessionária aceita a entrada em serviço do empreendimento nos termos da presente cláusula, não obstante estes consubstanciarem um diferimento em relação ao previsto no Contrato de Concessão, decorrente dos eventos genericamente enunciados nos considerandos E) e F), assumindo tal diferimento, nos termos e condições do presente aditamento, com todas as consequências resultantes de tal assunção.\n\n6 - Uma vez entrado em serviço, a Concessionária garante a disponibilidade do empreendimento ao público, em regime de serviço público, no cumprimento escrupuloso dos níveis de qualidade e segurança previstos no Contrato de Concessão e, designadamente, no SIGAQS.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "RCM n.º 167/2008, n.º 1: a minuta do aditamento anexa passa a ter a redação do anexo novo -> considerandos iguais exceto J) (unidade 27, 'serão' -> 'foram'); cláusulas 1.ª a 6.ª e fecho (unidades 31-106) substituídos pela 'Cláusula única' do anexo novo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

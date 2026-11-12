@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:222383:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O pedido não traz o texto do alterador 1 (Portaria n.º 219/72): a secção está vazia, pelo que não há instrução que se possa aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 219/72): texto não fornecido no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

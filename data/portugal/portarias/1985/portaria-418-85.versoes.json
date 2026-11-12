@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:182846:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-07-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ee394da2207a52cb"
+   ]
+  },
+  {
+   "date": "1985-11-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:171551:por",
+     "title": "Portaria n.º 841/85",
+     "published": "1985-11-08",
+     "dre_path": "/dr/detalhe/portaria/841-1985-171551"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-8"
+   ],
+   "fragments": [
+    "bd56401f175c42ea"
+   ]
+  }
+ ],
+ "fragments": {
+  "ee394da2207a52cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Julho\n\nConsiderando que o [Decreto-Lei n.º 42/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1984-367856), de 3 de Fevereiro, determinou a extinção, em 30 de Junho, do quadro geral de adidos, criado pelo [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril;\n\nConsiderando que o n.º 3 do artigo 3.º daquele diploma permite a integração nos quadros dos serviços ou organismos a designar pelo ministro da tutela, nos termos previstos na alínea a) do número precedente, dos funcionários ex-adidos requisitados junto de serviços ou organismos que não tenham quadro e não se encontrem em regime de instalação, bem como junto de instituições de direito privado e de utilidade pública administrativa;\n\nVerificando-se a inexistência de vagas no quadro de pessoal da Direcção-Geral de Geologia e Minas e considerando as orientações definidas nesse sentido pela alínea a) do n.º 2 do mesmo artigo:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Indústria e Energia e pelo Secretário de Estado da Administração Pública, o seguinte:\n\n1.º O quadro de pessoal da Direcção-Geral de Geologia e Minas, aprovado pelo [Decreto Regulamentar n.º 46/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1983-451864), de 8 de Junho, é aumentado do lugar constante do mapa anexo ao presente diploma, a extinguir quando vagar.\n\n2.º Esta portaria produz efeitos a partir do dia imediato ao da sua publicação.\n\nPresidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Indústria e Energia.\n\nAssinada em 11 de Maio de 1985.\n\nPelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. Ministro da Indústria e Energia, José Veiga Simão. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.\n\nMAPA\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15000/17881789.pdf)"
+  },
+  "bd56401f175c42ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1985-11-13",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 841/85](https://diariodarepublica.pt/dr/detalhe/portaria/841-1985-171551), publicado em 1985-11-08."
+   ],
+   "markdown": "de 3 de Julho\n\nConsiderando que o [Decreto-Lei n.º 42/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1984-367856), de 3 de Fevereiro, determinou a extinção, em 30 de Junho, do quadro geral de adidos, criado pelo [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril;\n\nConsiderando que o n.º 3 do artigo 3.º daquele diploma permite a integração nos quadros dos serviços ou organismos a designar pelo ministro da tutela, nos termos previstos na alínea a) do número precedente, dos funcionários ex-adidos requisitados junto de serviços ou organismos que não tenham quadro e não se encontrem em regime de instalação, bem como junto de instituições de direito privado e de utilidade pública administrativa;\n\nVerificando-se a inexistência de vagas no quadro de pessoal da Direcção-Geral de Geologia e Minas e considerando as orientações definidas nesse sentido pela alínea a) do n.º 2 do mesmo artigo:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Indústria e Energia e pelo Secretário de Estado da Administração Pública, o seguinte:\n\n1.º O quadro de pessoal da Direcção-Geral de Geologia e Minas, aprovado pelo [Decreto Regulamentar n.º 46/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/46-1983-451864), de 8 de Junho, é aumentado do lugar constante do mapa anexo ao presente diploma, a extinguir quando vagar.\n\n2.º Este diploma produz efeitos a partir de 1 de Maio de 1984.\n\n> Alterado pelo/a [Portaria n.º 841/85](https://diariodarepublica.pt/dr/detalhe/portaria/841-1985-171551), publicado em 1985-11-08.\n\nPresidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Indústria e Energia.\n\nAssinada em 11 de Maio de 1985.\n\nPelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. Ministro da Indústria e Energia, José Veiga Simão. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.\n\nMAPA\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15000/17881789.pdf)"
+  }
+ }
+}

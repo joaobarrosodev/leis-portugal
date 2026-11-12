@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:194855:por",
+  "substituicoes": [
+    {
+      "de": 3,
+      "ate": 3,
+      "texto": "3) Pessoal assalariado - um consultor especial, um encarregado dos serviços de imprensa, quatro funcionários em serviço privativo, de qualquer categoria, entre arquivista, escriturário ou dactilógrafo, e um contínuo.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 19867: nova redação do n.º 3) da Portaria 19802: substituída a unidade 3"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

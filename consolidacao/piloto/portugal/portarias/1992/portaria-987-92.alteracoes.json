@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 13-13",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "6.º O período de inscrição, não prorrogável, decorrerá até 16 de Outubro do ano em curso.",
+    "depois": "6.º O período de inscrição decorrerá até 16 de Novembro do ano em curso.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:220734:por",
+    "alterador": "pt:dre:391824:por"
+  }
+]

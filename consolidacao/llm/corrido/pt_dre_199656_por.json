@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:199656:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º Pela presente portaria é renovada, por um período de seis anos, renovável automaticamente por mais dois períodos iguais, a concessão da zona de caça turística de Monte Novo de Palma (processo n.º 772-DGRF), abrangendo os prédios rústicos denominados 'Herdades do Monte Novo de Palma e Abul', sitos na freguesia de Santa Maria do Castelo, município de Alcácer do Sal, com a área de 2051,8250 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 336/2005: nova redação do n.º 1.º (renovação automática por mais dois períodos) - substituída a unidade 7, copiada letra a letra do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

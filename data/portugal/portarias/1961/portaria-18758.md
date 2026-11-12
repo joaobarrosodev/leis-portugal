@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-07-24'
+version_history:
+  file: portaria-18758.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-10-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-07-24'
+    amending: pt:dre:693600:por
+    amending_title: Portaria n.º 19965
+    changes:
+    - Altera Artigo unidades 3-3
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:05:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 19965. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1961/portaria-18758.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -102,6 +117,8 @@ validation:
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Negócios Estrangeiros, nos termos do artigo 3.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952, que o n.º 2) da [Portaria n.º 18651](https://diariodarepublica.pt/dr/detalhe/portaria/18651-1961-173125), de 11 de Agosto de 1961, passa a ter a seguinte redacção:
 
-2) Membros da delegação prestando nela serviço privativo: um ministro plenipotenciário de 2.ª classe ou um conselheiro de legação; três funcionários do quadro diplomático ou consular de qualquer categoria de entre os primeiros, segundos e terceiros-secretários de legação, cônsules de 2.ª ou 3.ª classe, e um secretário privativo.
+2) Membros da delegação prestando nela serviço privativo: um ministro plenipotenciário de 2.ª classe ou um conselheiro de legação; três funcionários do quadro diplomático ou consular de qualquer categoria de entre os primeiros, Segundos e terceiros-secretários de legação, cônsules de 1.ª, de 2.ª ou 3.ª classe, e um secretário privativo, ou dois funcionários do referido quadro diplomático ou consular das mencionadas categorias, e dois secretários privativos.
+
+> Alterado pelo/a [Portaria n.º 19965](https://diariodarepublica.pt/dr/detalhe/portaria/19965-1963-693600), publicado em 1963-07-24.
 
 Ministérios das Finanças e dos Negócios Estrangeiros, 2 de Outubro de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.

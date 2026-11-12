@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:188878:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "3 - A criação do lugar previsto no presente diploma produz efeitos desde 8 de Agosto de 1991.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DN 145/93: nova redação do n.º 3 (data de efeitos 8 de Agosto de 1991): substituída a unidade 8"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

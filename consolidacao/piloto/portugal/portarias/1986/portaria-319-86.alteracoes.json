@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 40-40",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º As pessoas abrangidas pela alínea d) do n.º 1 do n.º 4.º da [Portaria n.º 420/76](https://diariodarepublica.pt/dr/detalhe/portaria/420-1976-430433), de 14 de Julho, deverão requerer a respectiva inscrição até ao fim do segundo mês seguinte ao da entrada em vigor da presente portaria, nos casos em que o facto determinante da inclusão do contribuinte no grupo A tenha ocorrido antes dessa data.",
+    "depois": "3.º As pessoas abrangidas pela alínea d) do n.º 1 do n.º 4.º da [Portaria n.º 420/76](https://diariodarepublica.pt/dr/detalhe/portaria/420-1976-430433), de 14 de Julho, deverão requerer a respectiva inscrição até 31 de Outubro próximo, nos casos em que o facto determinante da inclusão do contribuinte no grupo A tenha ocorrido antes dessa data.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:228472:por",
+    "alterador": "pt:dre:218960:por"
+  }
+]

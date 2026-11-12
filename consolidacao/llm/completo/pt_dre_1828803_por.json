@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:1828803:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "O pedido não traz o texto do alterador 1 (Despacho Normativo n.º 5-A/2014): a secção vem vazia, sem nenhuma instrução dirigida ao Despacho Normativo n.º 5/2013, pelo que não há alteração que se possa aplicar.",
+  "instrucoes": [
+    "Despacho Normativo n.º 5-A/2014: texto ausente do pedido (secção do alterador vazia) — nada aplicado; texto atual mantido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

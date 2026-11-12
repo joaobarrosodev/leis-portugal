@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 35-37",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Escola Superior de Saúde da Cruz Vermelha Portuguesa\n\nCurso de pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstetrícia\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/096b00/26742675.pdf)",
+    "depois": "## ANEXO — Escola Superior de Saúde da Cruz Vermelha Portuguesa - Lisboa\n\nCurso de pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica\n\nCaracterização\n\n1 - Instituição: Escola Superior de Saúde da Cruz Vermelha Portuguesa - Lisboa.\n\n2 - Curso: pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica.\n\n3 - Diploma: diploma de especialização em Enfermagem.\n\n4 - Área científica e predominante do curso: Enfermagem.\n\n5 - Número de créditos, segundo o sistema europeu de transferência de créditos, necessário à obtenção do grau ou diploma: 120 ECTS.\n\n6 - Duração normal do curso: 4 semestres.\n\n7 - Estrutura curricular:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/24400/0000500007.pdf)\n\n8 - Plano de estudos:\n\n1.º ano/1.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/24400/0000500007.pdf)\n\n1.º ano/2.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/24400/0000500007.pdf)\n\n2.º ano/1.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/24400/0000500007.pdf)\n\n2.º ano/2.º semestre\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/12/24400/0000500007.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:240782:por",
+    "alterador": "pt:dre:127369106:por"
+  }
+]

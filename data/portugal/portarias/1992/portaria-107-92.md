@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-11-11'
+version_history:
+  file: portaria-107-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-02-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-11-11'
+    amending: pt:dre:216295:por
+    amending_title: Portaria n.º 1042/92
+    changes:
+    - Altera Artigo unidades 16-16
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/107/1992/02/19/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:08:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1042/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-107-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,7 +153,9 @@ c) Incentivar a transformação e a comercialização de produtos certificados d
 
 Âmbito geográfico de aplicação
 
-O presente Programa aplica-se nas áreas geográficas de intervenção das Direcções Regionais de Agricultura do Alentejo e da Beira Interior, com excepção das zonas não indemnes de peste suína africana.
+O presente Programa aplica-se nas áreas geográficas de intervenção das Direcções Regionais de Agricultura do Algarve, do Alentejo, do Ribatejo e Oeste e da Beira Interior, com excepção das explorações não indemnes de peste suína africana.
+
+> Alterado pelo/a [Portaria n.º 1042/92](https://diariodarepublica.pt/dr/detalhe/portaria/1042-1992-216295), publicado em 1992-11-06.
 
 3.º
 

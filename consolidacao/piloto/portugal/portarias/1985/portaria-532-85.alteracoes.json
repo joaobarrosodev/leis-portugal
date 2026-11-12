@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 31-33",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "e) O Centro de Relações Públicas e Documentação;\n\nf) O Serviço de Fiscalização;\n\ng) Os serviços locais.",
+    "depois": "e) A Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações;\n\nf) O Centro de Relações Públicas e Documentação;\n\ng) O Serviço de Fiscalização;\n\nh) Os serviços locais.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:179837:por",
+    "alterador": "pt:dre:689656:por"
+  },
+  {
+    "artigo": "unidades 177-177",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "c) Promover a definição de sistemas de controle de assiduidade e pontualidade;",
+    "depois": "c) Promover a definição de sistemas de controlo de assiduidade e pontualidade;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:179837:por",
+    "alterador": "pt:dre:689656:por"
+  },
+  {
+    "artigo": "unidades 184-184",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "j) Elaborar, de acordo com os planos e orientações estabelecidos, as propostas de programas e projectos de investimentos anuais;",
+    "depois": "j) Elaborar, de acordo com os planos e orientações estabelecidos, as propostas de programas e projectos de investimento anuais;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:179837:por",
+    "alterador": "pt:dre:689656:por"
+  },
+  {
+    "artigo": "unidades 186-196",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "m) Emitir pareceres e informações, satisfazer consultas e elaborar estudos de natureza jurídica;\n\nn) Elaborar minutas de escrituras, contratos e outros documentos de carácter legal;\n\no) Apoiar juridicamente as instituições particulares de solidariedade social;\n\np) Apoiar os serviços competentes na preparação dos processos necessários ao julgamento das questões que impliquem envolvimento do Centro e proceder ao acompanhamento dos processos junto dos tribunais;\n\nq) Apreciar os processos de dívida de contribuições, multas e juros de mora, promovendo o seu envio aos tribunais de execução fiscal quando for caso disso;\n\nr) Reclamar créditos por dívidas de contribuições em processos de falência, em processos de execução movidos por outros credores, em processos de inventário ou outros;\n\ns) Promover o reembolso de prestações pagas indevidamente sempre que seja necessário o recurso à via judicial;\n\nt) Pronunciar-se a respeito da aquisição ou arrendamento de terrenos e edifícios e da realização de obras;\n\nu) Elaborar projectos e cadernos de encargos destinados aos concursos de adjudicação de obras e acompanhar e fiscalizar a execução dos trabalhos;\n\nv) Dar parecer sobre as propostas de adjudicação de obras apresentadas pelos serviços e instituições particulares de solidariedade social;\n\nx) Proceder à vistoria de edifícios, tendo em vista informar sobre as condições de segurança, conservação e reparação.",
+    "depois": "m) Pronunciar-se a respeito da aquisição ou arrendamento de terrenos e edifícios e da realização de obras;\n\nn) Elaborar projectos e cadernos de encargos destinados aos concursos de adjudicação de obras e acompanhar e fiscalizar a execução dos trabalhos;\n\no) Dar parecer sobre as propostas de adjudicação de obras apresentadas pelos serviços e instituições particulares de solidariedade social;\n\np) Proceder à vistoria de edifícios, tendo em vista informar sobre as condições de segurança, conservação e reparação.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:179837:por",
+    "alterador": "pt:dre:689656:por"
+  },
+  {
+    "artigo": "depois da unidade 196",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 15.º-A\n\n##### Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações\n\nCompete à Divisão de Serviço Jurídico, de Contencioso e de Contra-Ordenações:\n\n1) Em matéria de acção jurídica e de contencioso:\n\na) Emitir pareceres e informações, satisfazer consultas e elaborar estudos de natureza jurídica;\n\nb) Elaborar minutas de escrituras, contratos e outros documentos de carácter legal;\n\nc) Apoiar juridicamente as instituições particulares de solidariedade social;\n\nd) Apoiar os serviços competentes na preparação dos processos necessários ao julgamento das questões que impliquem envolvimento do Centro e proceder ao acompanhamento dos processos junto dos tribunais;\n\ne) Reclamar créditos por dívidas de contribuições em processos de falência, em processos de execução movidos por outros credores, em processos de inventário ou outros;\n\nf) Promover o reembolso de prestações pagas indevidamente, sempre que seja necessário o recurso à via judicial.\n\n2) Em matéria de contra-ordenações:\n\na) Organizar e instruir os processos de contra-ordenações;\n\nb) Elaborar relação dos processos arquivados;\n\nc) Propor a nomeação de defensor oficioso, nos casos legalmente previstos;\n\nd) Propor a aplicação de coimas, nos termos regulamentares;\n\ne) Determinar o montante de custas dos processos;\n\nf) Preparar os processos para decisão final;\n\ng) Remeter os processos a tribunal, nas circunstâncias legalmente previstas;\n\nh) Representar a instituição de segurança social na fase judicial da contra-ordenação;\n\ni) Organizar e actualizar ficheiros relacionados com os processos de contra-ordenações;\n\nj) Promover a emissão de orientações para os serviços que procedam à averiguação de infracções ou que, de qualquer modo, sejam chamados a colaborar;\n\nl) Recolher e tratar os necessários dados estatísticos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:179837:por",
+    "alterador": "pt:dre:689656:por"
+  }
+]

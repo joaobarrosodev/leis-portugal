@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:209855:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Zangarilha (processo n.º 945-DGRF), abrangendo vários prédios rústicos sitos na freguesia e município de Portel, com a área de 291 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 90/2005: nova redação do n.º 1.º (período de 12 anos) - substituída a unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

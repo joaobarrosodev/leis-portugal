@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:229125:por",
+  "substituicoes": [
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "11.º Para as praças ultramarinas do quadro da classe de fuzileiros do C. D. M. G., a especialização em fuzileiro especial, realizada nas condições estabelecidas no n.º 6.º, é equiparada ao curso do 1.º grau, pelo que a promoção daquelas praças até ao posto de cabo, inclusive, não depende de qualquer outro curso.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 660/73: nova redação do n.º 11.º -> substituída a unidade 30."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

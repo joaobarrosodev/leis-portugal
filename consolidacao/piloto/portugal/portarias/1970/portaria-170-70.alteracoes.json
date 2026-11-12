@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 30-30",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "11.º Enquanto estiver em vigor para as praças da Armada a equiparação do curso de especialização em fuzileiro especial ao curso do 1.º grau, a promoção das praças ultramarinas do quadro da classe de fuzileiros do C. D. M. G. não depende de qualquer outro curso, até ao posto de cabo, inclusive.",
+    "depois": "11.º Para as praças ultramarinas do quadro da classe de fuzileiros do C. D. M. G., a especialização em fuzileiro especial, realizada nas condições estabelecidas no n.º 6.º, é equiparada ao curso do 1.º grau, pelo que a promoção daquelas praças até ao posto de cabo, inclusive, não depende de qualquer outro curso.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:229125:por",
+    "alterador": "pt:dre:413025:por"
+  }
+]
