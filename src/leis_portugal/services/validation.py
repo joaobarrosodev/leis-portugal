@@ -9,7 +9,7 @@ import yaml
 from leis_portugal.errors import StorageError
 from leis_portugal.infrastructure.config import load_source_registry
 from leis_portugal.infrastructure.markdown import read_markdown_record
-from leis_portugal.infrastructure.repository import Acervo
+from leis_portugal.infrastructure.repository import DECISION_SCOPES, EU_SCOPE, PORTUGUESE_SCOPES, Acervo
 
 
 @dataclass(frozen=True)
@@ -36,10 +36,11 @@ def validate_source_registry(acervo: Acervo) -> list[ValidationIssue]:
 
 
 def validate_repository(acervo: Acervo) -> list[ValidationIssue]:
-    """Todos os registos em data/ e o registo de fontes."""
+    """Todos os registos em data/ (legislação e decisões) e o registo de fontes."""
     issues = validate_source_registry(acervo)
     seen_ids: dict[str, str] = {}
-    for path in acervo.paths():
+    # Inclui as coleções de decisões (CNPD, TC), que ficam fora da legislação.
+    for path in acervo.paths((*PORTUGUESE_SCOPES, EU_SCOPE, *DECISION_SCOPES)):
         relative = acervo.relative(path)
         try:
             metadata, body = read_markdown_record(path)

@@ -18,7 +18,8 @@ O objetivo é tornar o ordenamento jurídico português mais acessível, pesquis
 | Versões | ~10 mil diplomas e atos com o histórico de versões (`.versoes.json`) e consulta do texto numa data (`version-at`) |
 | Texto em vigor consolidado pelo leis-portugal | ~2,3 mil diplomas que o DRE dá como alterados mas não consolida: alterações aplicadas por regras ou por um LLM e verificadas às cegas por outro modelo; marcados como **sem valor oficial** (ver [`consolidacao/`](consolidacao/README.md)) |
 | Relações | ~1,04 milhões de relações (alterações, revogações, retificações, citações, transposições); ~89% apontam para um documento do acervo |
-| Fontes operacionais | Diário da República Eletrónico (DRE) e EUR-Lex/CELLAR; em recolha, a CNPD e os acórdãos do Tribunal Constitucional, em coleções separadas da legislação |
+| Decisões (fora da legislação) | 7.892 decisões da CNPD (todas menos as autorizações, ainda em recolha), só 41 % com texto porque a maioria dos PDF são digitalizações; 9.660 acórdãos do Tribunal Constitucional de 2016 a 2026, com texto (1983–2015 em recolha) |
+| Fontes operacionais | Diário da República Eletrónico (DRE), EUR-Lex/CELLAR, CNPD e Tribunal Constitucional |
 | Atualização | Diária, por GitHub Actions |
 | Exportação | Índice de relações (JSONL), SQLite e Parquet com os metadados (`leis-portugal export`) |
 | Perguntas (protótipo) | Pesquisa por artigo com reranker e resposta só a partir dos artigos encontrados, com "não sei" quando não há base; medição com juízes às cegas em [`rag/README.md`](rag/README.md) |
@@ -90,10 +91,10 @@ O projeto privilegia fontes primárias e páginas institucionais.
 | Jornal Oficial dos Açores (catálogo guardado pelo DRE) | Legislação regional dos Açores, com a publicação no Jornal Oficial da Região. | Operacional, através do DRE |
 | [EUR-Lex / CELLAR](https://eur-lex.europa.eu/) | Regulamentos, diretivas e decisões da UE, versões consolidadas, EuroVoc e relações. | Operacional |
 | [Assembleia da República](https://www.parlamento.pt/) | Informação parlamentar e trabalhos preparatórios. | Planeada |
-| [Tribunal Constitucional](https://www.tribunalconstitucional.pt/) | Acórdãos de 1983 a 2026, numa coleção separada da legislação (`data/jurisprudencia/`), ligados ao DR quando lá publicados. | Operacional (recolha em curso) |
+| [Tribunal Constitucional](https://www.tribunalconstitucional.pt/) | Acórdãos de 1983 a 2026, numa coleção separada da legislação (`data/jurisprudencia/`), ligados ao DR quando lá publicados. | Operacional (2016–2026 recolhido; 1983–2015 em curso) |
 | [Supremo Tribunal de Justiça](https://www.stj.pt/) | Jurisprudência, numa coleção separada. | Planeada (por agora só os acórdãos publicados no DR) |
 | [Supremo Tribunal Administrativo](https://www.stadministrativo.pt/) | Jurisprudência administrativa e fiscal. | Planeada (por agora só os acórdãos publicados no DR) |
-| [Comissão Nacional de Proteção de Dados](https://www.cnpd.pt/) | Pareceres, deliberações, diretrizes, regulamentos, registos e autorizações (1994–2026), numa coleção separada (`data/entidades/`). | Operacional (recolha em curso) |
+| [Comissão Nacional de Proteção de Dados](https://www.cnpd.pt/) | Pareceres, deliberações, diretrizes, regulamentos, registos e autorizações (1994–2026), numa coleção separada (`data/entidades/`). | Operacional (tudo menos as autorizações; estas em curso) |
 
 O registo das fontes, com o mecanismo de acesso, o âmbito verificado, os limites e as condições de reutilização de cada uma, está em [`config/sources.yml`](config/sources.yml).
 
@@ -450,7 +451,26 @@ Os PDF são sobretudo digitalizações de 1910 a 1959, sem texto que se possa pe
 
 Dos 1.248 que faltam, 1.241 não têm versão em português no EUR-Lex (1.237 anteriores a 1986, ano da adesão de Portugal), 3 não têm XHTML nem HTML e 4 são decisões cujo número oficial coincide com o de outra já gravada, que o repositório recusa sobrepor (`reports/eurlex_em_vigor_failures.jsonl`). Contando os que já não estão em vigor, o repositório tem cerca de 54 mil atos da UE.
 
-**Leitura.** Para a legislação portuguesa principal, a coleção está completa face ao DRE. As lacunas estão no texto (um quarto dos nacionais só em PDF), na 2.ª Série, no texto em vigor de metade dos diplomas alterados sem consolidação oficial e na vigência de muitos diplomas, que o DRE não indica. Ainda não há jurisprudência nem legislação local (regulamentos municipais).
+**Decisões fora da legislação** (12/11/2026; coleções separadas em `data/entidades/` e `data/jurisprudencia/`, que não entram nos números acima):
+
+| CNPD, por tipo | No site | No repositório | Com texto |
+|---|--:|--:|--:|
+| Pareceres | 1.798 | 1.798 | 116 (6 %) |
+| Deliberações | 883 | 883 | 63 (7 %) |
+| Registos (anteriores ao RGPD) | 5.202 | 5.202 | 3.012 (58 %) |
+| Diretrizes e regulamentos | 9 | 9 | 9 |
+| Autorizações (anteriores ao RGPD) | 114.331 | em recolha | — |
+
+O número no site é o que o histórico de decisões anuncia para cada ano e tipo; a recolha falha se a listagem não lhe chegar. Os registos sem texto são digitalizações sem camada de texto (num PDF verificado à mão: 3 páginas de imagem de uma fotocopiadora, nenhuma fonte). Ficam com os metadados, a entidade, o início do assunto e a ligação ao PDF oficial, e com a nota «Fonte sem texto»; `collect cnpd --without-text` volta a extraí-los, com OCR do macOS (Vision) quando corre fora de um sandbox.
+
+| Tribunal Constitucional | Na listagem | No repositório |
+|---|--:|--:|
+| Acórdãos de 2016 a 2026 | 9.661 | 9.660 |
+| Acórdãos de 1983 a 2015 | em recolha | — |
+
+Todos os acórdãos recolhidos têm texto. O que falta (2021, n.º 652) não tem o texto na página do Tribunal (`reports/tc_failures.jsonl`). 90 estão ligados ao registo do mesmo acórdão publicado no Diário da República.
+
+**Leitura.** Para a legislação portuguesa principal, a coleção está completa face ao DRE. As lacunas estão no texto (um quarto dos nacionais só em PDF), na 2.ª Série, no texto em vigor de metade dos diplomas alterados sem consolidação oficial e na vigência de muitos diplomas, que o DRE não indica. Na jurisprudência, só há os acórdãos do Tribunal Constitucional (os do STJ e do STA, não). Ainda não há legislação local (regulamentos municipais).
 
 ## Qualidade e validação
 

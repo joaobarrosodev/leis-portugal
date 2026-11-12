@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:tc:acordao:2016:564
+title: Acórdão do Tribunal Constitucional n.º 564/2016
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: acordao-tribunal-constitucional
+document_type_label: Acórdão do Tribunal Constitucional
+issuing_authority:
+- Tribunal Constitucional
+proposing_entity: null
+official_number: 564/2016
+official_date: '2016-10-19'
+publication_date: null
+publication: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- 'Processo: 90/16'
+- 'Espécie: Recurso'
+language: por
+version:
+  kind: original
+  label: Texto publicado no site do Tribunal Constitucional (sem carácter autêntico)
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: null
+  dre_path: null
+  internal: pt:tc:acordao:2016:564
+source:
+  id: tribunal-constitucional
+  name: Tribunal Constitucional
+  official_url: https://www.tribunalconstitucional.pt/tc/acordaos/20160564.html
+  metadata_url: https://www.tribunalconstitucional.pt/tc/acordaos/20160501-0600.html
+  content_url: https://www.tribunalconstitucional.pt/tc/acordaos/20160564.html
+  consolidated_url: null
+  retrieved_at: '2026-11-12T05:26:16Z'
+  retrieval_method: Listagens anuais e páginas HTML dos acórdãos no site do Tribunal Constitucional; não é uma API
+  source_modified_at: null
+integrity:
+  source_sha256: 21d94a3aabd60235202380fbf3090d30fe6af15590c6779097d0a01b9ad1bb8b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal Tribunal Constitucional
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect tc
+  generated_at: '2026-11-12T05:26:16Z'
+  notes: null
+reuse:
+  status: restricted
+  attribution: Tribunal Constitucional (www.tribunalconstitucional.pt) — todos os direitos reservados
+  reference: https://www.tribunalconstitucional.pt/tc/home.html
+  notes: 'O site autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto; declara
+    todos os direitos reservados. A jurisprudência publicada no site não tem carácter autêntico: a versão oficial é a dos
+    arquivos do Tribunal (e, quando publicada, a do Diário da República).'
+subjects: []
+relationships: []
+article_structure: null
+derived_material:
+  machine_generated: true
+  notes: null
+validation:
+  status: validated
+  checked_at: '2026-11-12T05:26:16Z'
+  warnings: []
+  errors: []
+---
+
+# Acórdão do Tribunal Constitucional n.º 564/2016
+
+ACÓRDÃO Nº 564/2016
+
+Processo n.º 90/16
+
+2ª Secção
+
+Relator: Conselheiro Lino Rodrigues Ribeiro
+
+Acordam na 2.ª Secção do Tribunal Constitucional:
+
+I. Relatório
+
+1. Nos presentes autos, vindos do Tribunal Judicial da Comarca de Setúbal - Instância Central - 1.ª Secção do Trabalho, o Ministério Público interpôs recurso de constitucionalidade (para si obrigatório, ao abrigo dos artigos 72.º, n.º 1, alínea a), e n.º 3, e 70.º, n.º 1, alínea a), da Lei da Organização, Funcionamento e Processo do Tribunal Constitucional (LTC), da sentença proferida por aquele tribunal em 15/01/2016, que recusou a aplicação da norma contida no artigo 52.º da Lei n.º 107/2009, de 14 de setembro, que prevê um prazo único de cinco anos para a prescrição do procedimento por contraordenação laboral, independentemente da gravidade da infração, do grau de culpa do infrator, da sua capacidade económica ou da moldura aplicável. Considerou o tribunal a quo que tal norma viola o princípio da proporcionalidade, constante do artigo 18.º, n.º 2 da Constituição da República Portuguesa.
+
+2. Notificado para alegações, o Ministério Público concluiu da seguinte forma:
+
+«(...)
+
+1 - Numa jurisprudência uniforme e constante o Tribunal Constitucional tem entendido que o legislador ordinário goza de uma ampla liberdade de conformação, na definição de crimes e fixação de penas, sendo de considerar violado o princípio de proporcionalidade (artigo 18º, nº 2, da Constituição), apenas quando a sanção se apresente como manifesta e ostensivamente excessiva.
+
+2 - Em direito sancionatório, essa ampla liberdade de legislador ordinário só pode ser maior, quando exercida fora do âmbito criminal, como é o caso do direito de mera ordenação social.
+
+3 - Assim, o legislador ordinário, no caso a Assembleia da República, goza de uma liberdade reforçada, quer no que respeita à tipificação como contraordenação de certas condutas, quer à fixação da respetiva coima, quer na modelação de aspetos específicos do regime, como o da extinção da responsabilidade, por prescrição.
+
+4 - Decorre da jurisprudência do Tribunal Constitucional que, quanto à prescrição – mesmo em matéria penal -, a única exigência que, eventualmente, se poderá retirar da Constituição é a da proibição da imprescritibilidade.
+
+5 – Assim, a norma do artigo 52.º da Lei n.º 107/2009, de 14 de setembro, enquanto prevê um prazo único de cinco anos para a extinção, por efeito de prescrição, do procedimento por contraordenação laboral, independentemente do valor da coima aplicável à infração, não viola o princípio da proporcionalidade (artigo 18º, nº 2, da Constituição), não sendo, por isso, inconstitucional.
+
+6 – Aliás, o prazo único de cinco anos para a prescrição do procedimento contraordenacional, independentemente do valor da coima abstratamente aplicável à infração, está previsto em diversos diplomas legais.
+
+7 – Assim ocorre, por exemplo: no Regime Geral das Infrações Tributárias (artigo 33º); em parte na Lei-Quadro das Contraordenações Ambientais (artigo 40º, nº s 1 e 2); no Regime Geral das Instituições de Crédito e Sociedades Financeiras (artigo 209º, nº 1); no Código dos Valores Mobiliários (artigo 418º, nº 1).
+
+No Código da Estrada também está previsto um prazo fixo, mas de dois anos (artigo 188º, nº 1).
+
+8 - Termos em que deve conceder-se provimento ao recurso».
+
+3. Decorrido o prazo, a Recorrida não contra-alegou.
+
+II. Fundamentação
+
+4. A questão de constitucionalidade colocada neste recurso já foi objeto de apreciação pelo Tribunal Constitucional que, em Plenário, através do Acórdão n.º 297/16, de 12 de maio (disponível em http://www.tribunalconstitucional.pt/tc/acordaos/), decidiu “(…) Não julgar inconstitucional a norma do artigo 52.º da Lei n.º 107/2009, de 14 de setembro, «ao prever um prazo único de cinco anos para a prescrição do procedimento por contraordenação laboral, independentemente da gravidade da infração, do grau de culpa do infrator, da sua capacidade económica ou da moldura aplicável»”.
+
+Não apresentando a questão de constitucionalidade objeto do presente recurso qualquer especificidade relativamente à questão apreciada no referido Acórdão n.º 297/16, a fundamentação expendida naquele aresto afigura-se transponível para o caso em apreço, pelo que é de concluir igualmente pela não inconstitucionalidade da norma objeto do presente recurso.
+
+III. Decisão
+
+Atento o exposto, o Tribunal Constitucional decide:
+
+a) Não julgar inconstitucional a norma do artigo 52.º da Lei n.º 107/2009, de 14 de setembro, «ao prever um prazo único de cinco anos para a prescrição do procedimento por contraordenação laboral, independentemente da gravidade da infração, do grau de culpa do infrator, da sua capacidade económica ou da moldura aplicável»;
+
+e, em consequência,
+
+b) conceder provimento ao recurso e determinar a reforma da decisão recorrida em conformidade com o precedente juízo de não inconstitucionalidade.
+
+Sem custas.
+
+Lisboa, 19 de outubro de 2016 - Lino Rodrigues Ribeiro - Catarina Sarmento e Castro - Fernando Vaz Ventura - Pedro Machete - Costa Andrade
