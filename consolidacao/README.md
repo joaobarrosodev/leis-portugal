@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.714 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.715 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -254,7 +254,13 @@ Na ronda 100 foram para as exclusões:
 
 **Ronda 101: o PDM de Lisboa (RCM 94/94), não aplicado.** Teve 28 alteradores, em 2 passagens do `llm_gigantes.py` (alteradores 1 a 16 e 17 a 28), com subagentes Opus. Só dois alteradores mudam o texto do Regulamento: a RCM 104/2003 (arts. 19.º e 70.º) e a Declaração 51/2004 (arts. 64.º, 65.º, 66.º, 75.º e 77.º). Ficaram 7 substituições e 1 inserção, que passaram a verificação letra a letra. Os outros alteradores são suspensões, medidas preventivas, plantas em imagem e planos que só valem na sua área. O Aviso 11622/2012 aprova a revisão do PDM, com um Regulamento novo, e desde então os alteradores dirigem-se ao PDM revisto. O texto de 1994 com as alterações de 2003 e 2004 não é, por isso, o texto em vigor. Ficou em `llm/exclusoes.json` e não teve verificação às cegas.
 
-**Ronda 104: Resolução da AR 31-A/2004** (`pt:dre:346750:por`, o Acordo de Associação UE–Chile, 866 mil caracteres): 2 alteradores numa passagem do `llm_gigantes.py`. O Decreto do PR 18-A/2004 só ratifica. Dos 5 pontos da acta de retificação do Aviso 106/2004, só o 5.º muda o texto português (anexo XIII, apêndice 3, ponto 1: "pontos 3 e 4" passa a "pontos 2 e 3"). Os pontos 1 a 3 corrigem as versões inglesa, espanhola e alemã ou tabelas em imagem. Às cegas, o trecho ficou `certo`, mas o verificador pôs o ponto 4 em `instrucoes_em_falta` (anexo VIII, parte A, "B.3 e B.4" passa a "A.l e A.2"). Essa secção do anexo só existe em imagem ("ver lista no documento original"), por isso o texto não a tem. **Não aplicado:** como nos outros reparos de anexos em imagem, o `acervo.py` não o aplica, e o veredicto ficou como o verificador o deu.
+**Ronda 104: Resolução da AR 31-A/2004** (`pt:dre:346750:por`, o Acordo de Associação UE–Chile, 866 mil caracteres). Foi pelo `llm_gigantes.py`: 2 alteradores numa passagem.
+- O Decreto do PR 18-A/2004 só ratifica.
+- Dos 5 pontos da ata de retificação do Aviso 106/2004, só o 5.º muda o texto português: no anexo XIII, apêndice 3, ponto 1, "pontos 3 e 4" passa a "pontos 2 e 3".
+- Os pontos 1 a 3 corrigem as versões inglesa, espanhola e alemã, ou tabelas em imagem.
+- **O ponto 4** troca "B.3 e B.4" por "A.l e A.2" no ponto 3 do sector 7 da secção II (parte A do anexo VIII). No acervo, toda a secção II é uma ligação "(ver lista no documento original)", e na primeira verificação às cegas o verificador pôs o ponto em `instrucoes_em_falta`.
+- **O PDF do original** (DR I Série-A n.º 76, suplemento, de 30/3/2004, página 2030-(1096), `files.diariodarepublica.pt/1s/2004/03/076a01/00021189.pdf`) tem camada de texto, por isso não foi preciso OCR. O texto saiu com o PDFKit (`scripts/pdftext.swift`) e foi conferido com a imagem da página. Diz já "nos pontos A.1e A.2": o erro está só no JO, não no texto português publicado, e o ponto 4 não muda nada. Não há no projeto um caminho para pôr no original o texto de uma imagem. O original ficou como estava: a secção II é um quadro de várias páginas, e o ponto 4 não precisa dele.
+- **Às cegas**, uma 2.ª verificação com a mesma vista e, no fim, o excerto do PDF e a imagem da página: 1 trecho `certo`, com a instrução citada, e nenhuma instrução em falta. **Aplicada** (`acervo.py`: aplicável, `Recusados: 0`).
 
 **O que isto quer dizer para o RAG.** O aviso "Texto original; alterado por…" mantém-se em todos os diplomas alterados sem versão consolidada, mesmo nos "sem alteração textual". Tirá-lo nesses casos faria o sistema responder com texto desatualizado em cerca de 14% a 28% deles (`rag/README.md`).
 

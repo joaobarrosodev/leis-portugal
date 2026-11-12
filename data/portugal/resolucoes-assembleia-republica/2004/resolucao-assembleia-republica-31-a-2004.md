@@ -34,10 +34,24 @@ notes:
   foi substituído por o;.
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-05-26'
+version_history:
+  file: resolucao-assembleia-republica-31-a-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-03-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-26'
+    amending: pt:dre:251826:por
+    amending_title: Aviso n.º 106/2004
+    changes:
+    - Altera Artigo unidades 14852-14852
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolassrep/31-a/2004/03/30/p/dre/pt/html
@@ -63,7 +77,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:14:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso n.º 106/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-assembleia-republica/2004/resolucao-assembleia-republica-31-a-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -29846,7 +29861,9 @@ PRAZOS
 
 Prazo mínimo geral
 
-1. Sem prejuízo do disposto nos pontos 3 e 4, as entidades concederão um prazo mínimo de 40 dias entre a data de publicação do anúncio de previsão do contrato e a data-limite de apresentação das propostas.
+1. Sem prejuízo do disposto nos pontos 2 e 3, as entidades concederão um prazo mínimo de 40 dias entre a data de publicação do anúncio de previsão do contrato e a data-limite de apresentação das propostas.
+
+> Alterado pelo/a [Aviso n.º 106/2004](https://diariodarepublica.pt/dr/detalhe/aviso/106-2004-251826), publicado em 2004-05-26.
 
 Prazos em caso de recurso ao processo de concurso limitado
 
