@@ -62,12 +62,37 @@ sources:
     publisher: Comissão Nacional de Proteção de Dados
     homepage: https://www.cnpd.pt/
     access:
-      type: to_be_researched
+      type: html-listing-pdf-download
+      metadata_endpoint: https://www.cnpd.pt/decisoes/historico-de-decisoes/?year={ano}&type={tipo}&pgd={pagina}
+      content_endpoint: https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/{id}
     status:
-      operational: planned
-      last_verified_at: null
-      verified_scope: null
+      operational: operational
+      last_verified_at: "2026-11-12"
+      verified_scope: "Histórico de decisões de 1994 a 2026 por ano e tipo (pareceres, deliberações, diretrizes, regulamentos, registos e autorizações; 122.223 anunciados a 12/11/2026, dos quais 114.331 autorizações), com o PDF de cada decisão e o texto extraído quando o PDF tem camada de texto."
     reuse:
-      status: unresolved
-      reference: null
-      summary: "Integração futura para orientações e materiais institucionais; sem recolha automática implementada."
+      status: permitted_with_conditions
+      reference: https://www.cnpd.pt/avisos-legais-e-outras-informacoes/
+      summary: "Reprodução permitida com distribuição gratuita, integridade dos documentos e citação expressa do site com menção de direitos reservados; uso pessoal, associativo ou profissional, sem fins comerciais ou publicitários. Só a cópia certificada tem valor legal."
+    limits:
+      known: "Não há API: listagens HTML e descargas PDF. Os PDF digitalizados não têm camada de texto e ficam só com os metadados até haver OCR. O assunto da listagem vem cortado a 100 carateres; a data da decisão é lida no texto (última data por extenso) e falta quando não há texto."
+      rate_limit_policy: "1 pedido por segundo, com novas tentativas exponenciais em erros 5xx/429."
+  - id: tribunal-constitucional
+    name: Tribunal Constitucional
+    jurisdiction: portugal
+    publisher: Tribunal Constitucional
+    homepage: https://www.tribunalconstitucional.pt/
+    access:
+      type: html-listing
+      metadata_endpoint: https://www.tribunalconstitucional.pt/tc/acordaos/{ano}{inicio}-{fim}.html
+      content_endpoint: https://www.tribunalconstitucional.pt/tc/acordaos/{ano}{numero}.html
+    status:
+      operational: operational
+      last_verified_at: "2026-11-12"
+      verified_scope: "Acórdãos de 1983 a 2026: listagens anuais em blocos de 100 (processo, formação, espécie, data e relator) e o texto HTML de cada acórdão; ligação ao registo do DRE quando o acórdão foi publicado no Diário da República."
+    reuse:
+      status: restricted
+      reference: https://www.tribunalconstitucional.pt/tc/home.html
+      summary: "O site declara todos os direitos reservados e autoriza a reprodução para fins privados, com citação da fonte e da natureza não autêntica do texto. A versão oficial é a dos arquivos do Tribunal e, quando publicada, a do Diário da República."
+    limits:
+      known: "Não há API: páginas HTML geradas do Word. A jurisprudência do site não tem carácter autêntico. As decisões sumárias não estão incluídas."
+      rate_limit_policy: "1 pedido por segundo, com novas tentativas exponenciais em erros 5xx/429."

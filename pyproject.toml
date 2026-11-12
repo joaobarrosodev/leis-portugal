@@ -37,6 +37,10 @@ dev = [
 export = [
   "pyarrow>=14"
 ]
+# Texto dos PDF da CNPD (alternativa no macOS: scripts/pdftext.swift)
+pdf = [
+  "pypdf>=5"
+]
 # Protótipo de RAG (rag/): radical Snowball, reranker e embeddings locais, e o LLM (opcional)
 rag = [
   "fastembed>=0.9",

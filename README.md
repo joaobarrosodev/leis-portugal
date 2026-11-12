@@ -18,7 +18,7 @@ O objetivo é tornar o ordenamento jurídico português mais acessível, pesquis
 | Versões | ~10 mil diplomas e atos com o histórico de versões (`.versoes.json`) e consulta do texto numa data (`version-at`) |
 | Texto em vigor consolidado pelo leis-portugal | ~2,3 mil diplomas que o DRE dá como alterados mas não consolida: alterações aplicadas por regras ou por um LLM e verificadas às cegas por outro modelo; marcados como **sem valor oficial** (ver [`consolidacao/`](consolidacao/README.md)) |
 | Relações | ~1,04 milhões de relações (alterações, revogações, retificações, citações, transposições); ~89% apontam para um documento do acervo |
-| Fontes operacionais | Diário da República Eletrónico (DRE) e EUR-Lex/CELLAR |
+| Fontes operacionais | Diário da República Eletrónico (DRE) e EUR-Lex/CELLAR; em recolha, a CNPD e os acórdãos do Tribunal Constitucional, em coleções separadas da legislação |
 | Atualização | Diária, por GitHub Actions |
 | Exportação | Índice de relações (JSONL), SQLite e Parquet com os metadados (`leis-portugal export`) |
 | Perguntas (protótipo) | Pesquisa por artigo com reranker e resposta só a partir dos artigos encontrados, com "não sei" quando não há base; medição com juízes às cegas em [`rag/README.md`](rag/README.md) |
@@ -90,10 +90,10 @@ O projeto privilegia fontes primárias e páginas institucionais.
 | Jornal Oficial dos Açores (catálogo guardado pelo DRE) | Legislação regional dos Açores, com a publicação no Jornal Oficial da Região. | Operacional, através do DRE |
 | [EUR-Lex / CELLAR](https://eur-lex.europa.eu/) | Regulamentos, diretivas e decisões da UE, versões consolidadas, EuroVoc e relações. | Operacional |
 | [Assembleia da República](https://www.parlamento.pt/) | Informação parlamentar e trabalhos preparatórios. | Planeada |
-| [Tribunal Constitucional](https://www.tribunalconstitucional.pt/) | Jurisprudência constitucional, numa coleção separada da legislação. | Planeada (por agora só os acórdãos publicados no DR) |
+| [Tribunal Constitucional](https://www.tribunalconstitucional.pt/) | Acórdãos de 1983 a 2026, numa coleção separada da legislação (`data/jurisprudencia/`), ligados ao DR quando lá publicados. | Operacional (recolha em curso) |
 | [Supremo Tribunal de Justiça](https://www.stj.pt/) | Jurisprudência, numa coleção separada. | Planeada (por agora só os acórdãos publicados no DR) |
 | [Supremo Tribunal Administrativo](https://www.stadministrativo.pt/) | Jurisprudência administrativa e fiscal. | Planeada (por agora só os acórdãos publicados no DR) |
-| [Comissão Nacional de Proteção de Dados](https://www.cnpd.pt/) | Orientações e informação institucional, identificadas como tal. | Planeada |
+| [Comissão Nacional de Proteção de Dados](https://www.cnpd.pt/) | Pareceres, deliberações, diretrizes, regulamentos, registos e autorizações (1994–2026), numa coleção separada (`data/entidades/`). | Operacional (recolha em curso) |
 
 O registo das fontes, com o mecanismo de acesso, o âmbito verificado, os limites e as condições de reutilização de cada uma, está em [`config/sources.yml`](config/sources.yml).
 
@@ -175,6 +175,10 @@ leis-portugal/
 │       ├── regulations/<ano>/regulamento-ue-2016-679.md
 │       ├── directives/<ano>/diretiva-ue-2022-2555.md
 │       └── decisions/<ano>/decisao-ue-2019-1234.md
+│   ├── entidades/             # decisões de entidades administrativas, separadas da legislação
+│   │   └── cnpd/pareceres/<ano>/parecer-72-2025.md   # e deliberacoes/, diretrizes/, regulamentos/, registos/, autorizacoes/
+│   └── jurisprudencia/        # acórdãos recolhidos nos sites dos tribunais, separados da legislação
+│       └── tribunal-constitucional/<ano>/acordao-tc-500-2024.md
 ├── consolidacao/              # texto em vigor dos diplomas alterados que o DRE não consolida
 ├── rag/                       # protótipo de perguntas: índice por artigo, pesquisa, resposta e medição
 ├── avaliacao/                 # perguntas de avaliação do protótipo (as privadas ficam fora do git)
@@ -198,6 +202,8 @@ services/        casos de uso: recolher (DRE, EUR-Lex, histórico consolidado, e
 sources/         uma pasta por fonte, separando transporte (client.py) e conversão para o modelo (mapper.py)
   dre/           cliente OutSystems, sitemaps, mapeamento (DR e catálogo dos Açores), HTML -> Markdown, consolidados
   eurlex/        cliente CELLAR (SPARQL), mapeamento, XHTML -> Markdown
+  cnpd.py        histórico de decisões da CNPD (listagens HTML e PDF), com o texto extraído do PDF (pdftext.py)
+  tc.py          listagens anuais e páginas HTML dos acórdãos do Tribunal Constitucional
 infrastructure/  HTTP comum (espera e novas tentativas), Markdown/YAML, esquemas, configuração e o repositório `Acervo`
 domain/          modelo tipado `LegalRecord`, formato do histórico de versões, identificadores, tipos de diploma,
                  relações e resolução de referências (ELI, numeração); sem rede nem ficheiros
@@ -433,14 +439,14 @@ Os PDF são sobretudo digitalizações de 1910 a 1959, sem texto que se possa pe
 
 **Texto em vigor dos diplomas alterados.** Dos 25.498 diplomas em vigor alterados que o DRE não consolida, mais de 19 mil não precisam de consolidação: o diploma que os altera não muda o texto, e o original é o texto em vigor. Dos cerca de 4.800 com alterações ao texto, **2.323 (cerca de 48 %)** têm o texto em vigor consolidado pelo leis-portugal, sem valor oficial (ver [`consolidacao/`](consolidacao/README.md)). Em 40 % dos registos nacionais (108.806) o DRE não indica se estão em vigor: numa amostra de 25 diplomas da 1.ª Série posteriores a 2000, o campo de vigência do DRE vinha vazio em todos. Metade são anteriores a 1960 e só em PDF; uns 13 mil são declarações de retificação, que seguem o diploma retificado; os outros ficam desconhecidos, porque só uma revogação total provada fixa o estado (375 diplomas, `reports/estrutura.md`). O sistema de perguntas avisa quando a vigência é desconhecida.
 
-**Direito da União Europeia, face ao CELLAR.** A lista dos atos em vigor é a do CELLAR de 11/11/2026: regulamentos, diretivas e decisões com CELEX `3AAAA[RLD]NNNN` e `resource_legal_in-force` verdadeiro. Os que faltavam foram recolhidos a 12/11/2026, pelo CELEX:
+**Direito da União Europeia, face ao CELLAR.** A lista dos atos em vigor é a do CELLAR de 11/11/2026: regulamentos, diretivas e decisões com CELEX `3AAAA[RLD]NNNN` e `resource_legal_in-force` verdadeiro.
 
-| Atos da UE em vigor | No repositório | Na UE | % | Antes (11/11) |
-|---|--:|--:|--:|--:|
-| Regulamentos | 16.240 | 16.325 | **99,5 %** | 56 % |
-| Diretivas | 1.284 | 1.306 | **98,3 %** | 96 % |
-| Decisões | 15.438 | 16.579 | **93,1 %** | 26 % |
-| **Total** | **32.962** | **34.210** | **96,4 %** | 43 % |
+| Atos da UE em vigor | No repositório | Na UE | % |
+|---|--:|--:|--:|
+| Regulamentos | 16.240 | 16.325 | **99,5 %** |
+| Diretivas | 1.284 | 1.306 | **98,3 %** |
+| Decisões | 15.438 | 16.579 | **93,1 %** |
+| **Total** | **32.962** | **34.210** | **96,4 %** |
 
 Dos 1.248 que faltam, 1.241 não têm versão em português no EUR-Lex (1.237 anteriores a 1986, ano da adesão de Portugal), 3 não têm XHTML nem HTML e 4 são decisões cujo número oficial coincide com o de outra já gravada, que o repositório recusa sobrepor (`reports/eurlex_em_vigor_failures.jsonl`). Contando os que já não estão em vigor, o repositório tem cerca de 54 mil atos da UE.
 
