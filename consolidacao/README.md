@@ -83,6 +83,10 @@ Conclusão: com os reparos, o rendimento sobe de 6 em 100 (ronda 81) para 32 em 
 
 O `juntar` do pedido completo passa agora a deixar como "não junto" os diplomas do `llm/gigantes-ids.txt`. Só três diplomas tinham resposta nos dois pedidos, estes três, por isso o erro não tocou em mais nenhum. As duas vistas refizeram-se e voltaram a ser verificadas, e as duas deram tudo `certo`.
 
+**Ronda 102: DL 349/89.** Foi pelo `llm_gigantes.py`: 25 alteradores em 4 passagens (1 a 9, 10 a 15, 16 a 23, 24 e 25), respondidas por subagentes Opus. Nenhum alterador muda o texto do próprio decreto-lei, e nenhum o revoga, nem no todo nem em artigos. Todos alteram o Código do Registo Comercial ou outros diplomas, e o DL 349/89 só aparece nas listas dos que já alteraram o CRC. Os artigos do CRC que o DL 349/89 transcreve ficam como estão: as alterações posteriores são ao CRC, não ao texto do decreto-lei. O `juntar` deixa-o como "não junto" (a resposta não muda nada), e a entrada da ronda 102 ficou vazia, por isso não houve vistas, verificação às cegas nem `acervo.py`. **Não foi aplicado:** o original já é o texto em vigor. Juntou-se ao `llm/gigantes-ids.txt`.
+
+**Ronda 105: Decreto 45205 (Regulamento das Radiocomunicações de 1959).** Foi pelo `llm_gigantes.py`, numa só passagem, porque tem 1 alterador, o Decreto Regulamentar 10-A/77. O texto atual tem 846 mil caracteres e foi num ficheiro à parte. O respondedor Opus não encontrou nenhuma instrução para aplicar. O decreto regulamentar só aprova a revisão de Genebra de 1971, e as alterações estão nos anexos 1 a 19. No acervo, o alterador tem 12 mil caracteres: o preâmbulo, as assinaturas e ligações "(ver documento original)" para o PDF. O `juntar` deixou-o como "não junto" (a resposta não muda nada), por isso não há vistas nem verificação às cegas. **Não foi aplicado.** Juntou-se ao `llm/gigantes-ids.txt`.
+
 ### Triagem: alterações que as regras não leem (12/11/2026)
 
 A leitura das instruções (`alteracoes.ler`) só vê uma instrução dirigida ao original pelo número. Escapam três coisas:
@@ -241,7 +245,6 @@ Na ronda 100 foram para as exclusões:
 - nenhuma ronda ficou perto da regra de paragem (1 em cada 8);
 - os que ficaram por aplicar são sobretudo quadros e plantas só em imagem, alteradores sem texto no pedido, revogações por matéria e republicações que não batem com as instruções.
 
-**Ronda 102: DL 349/89.** Foi pelo `llm_gigantes.py`: 25 alteradores em 4 passagens (1 a 9, 10 a 15, 16 a 23, 24 e 25), respondidas por subagentes Opus. Nenhum alterador muda o texto do próprio decreto-lei, e nenhum o revoga, nem no todo nem em artigos. Todos alteram o Código do Registo Comercial ou outros diplomas, e o DL 349/89 só aparece nas listas dos que já alteraram o CRC. Os artigos do CRC que o DL 349/89 transcreve ficam como estão: as alterações posteriores são ao CRC, não ao texto do decreto-lei. O `juntar` deixa-o como "não junto" (a resposta não muda nada), e a entrada da ronda 102 ficou vazia, por isso não houve vistas, verificação às cegas nem `acervo.py`. Não foi aplicado: o original já é o texto em vigor.
 
 **O que isto quer dizer para o RAG.** O aviso "Texto original; alterado por…" mantém-se em todos os diplomas alterados sem versão consolidada, mesmo nos "sem alteração textual". Tirá-lo nesses casos faria o sistema responder com texto desatualizado em cerca de 14% a 28% deles (`rag/README.md`).
 
