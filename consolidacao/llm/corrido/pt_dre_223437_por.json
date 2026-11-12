@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:223437:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Os alteradores 1 (suspensão do exercício da caça) e 2 (revogação da concessão da zona de caça) são atos administrativos sobre a concessão, sem alteração textual nem revogação do texto da portaria.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1037-R/2004): suspende a caça na zona; não textual, nada aplicado.",
+    "Alterador 2 (Portaria 388/2005): revoga a concessão da zona de caça; não altera nem revoga o texto, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

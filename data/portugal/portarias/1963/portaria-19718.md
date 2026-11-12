@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-12-27'
+version_history:
+  file: portaria-19718.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-02-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-12-27'
+    amending: pt:dre:680603:por
+    amending_title: Portaria n.º 20253
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:26:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 20253. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1963/portaria-19718.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -108,7 +123,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, que o provi
 
 2.º Os lugares de enfermeiro ou enfermeira de 1.ª classe que, nas circunstâncias previstas no número anterior, ficarem vagos serão providos por concurso de provas práticas a que só poderão concorrer enfermeiros ou enfermeiras de 2.ª classe do quadro de enfermagem do Hospital do Ultramar, contando na classificação o tempo de serviço com boas informações.
 
-3.º Dos lugares de enfermeiro de 1.ª classe que ficarem vagos serão desde já reservados seis, destinando-se os primeiros dois a serem providos imediatamente pelas enfermeiras instrumentista e de fisioterapia do actual quadro de enfermagem do Hospital e os restantes quatro a serem providos por enfermeiras especializadas em ortopedia, reabilitação, pediatria e transfusões de sangue mediante concurso documental.
+3.º Os lugares de enfermeiro ou enfermeira especializados serão providos por meio de concurso documental, ao qual poderão concorrer todos os indivíduos que provarem possuir estágios idóneos na respectiva especialidade no mínimo de um ano.
+
+> Alterado pelo/a [Portaria n.º 20253](https://diariodarepublica.pt/dr/detalhe/portaria/20253-1963-680603), publicado em 1963-12-27.
 
 4.º Os lugares de enfermeiro ou enfermeira-chefe serão providos mediante concurso de provas práticas, a que poderão candidatar-se os enfermeiros ou enfermeiras de 1.ª classe dos quadros de enfermagem do Hospital do Ultramar, contando na classificação o tempo de serviço com boas informações.
 

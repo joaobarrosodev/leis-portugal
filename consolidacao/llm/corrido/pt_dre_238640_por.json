@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:238640:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O art. 12.º do Decreto n.º 460/73 só torna a tabela de custas extensiva a Macau com alterações (art. 9.º, n.º 1, § 1.º e art. 25.º, n.º 1) próprias dessa província; não altera o texto do Decreto n.º 46252 em vigor para Angola e Moçambique.",
+  "instrucoes": [
+    "Alterador 1 (Decreto 460/73): arts. 1.º-11.º regulam o Tribunal Administrativo de Macau (não são do original); art. 12.º estende a tabela a Macau com adaptações às alíneas do art. 9.º e ao n.º 1 do art. 25.º, aplicáveis só em Macau; nada aplicado ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

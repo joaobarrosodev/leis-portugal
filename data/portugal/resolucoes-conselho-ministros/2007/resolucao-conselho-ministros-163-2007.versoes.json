@@ -1,0 +1,1161 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:641404:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-10-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "19b9cd602ffac219",
+    "89001954abcba457",
+    "a62a31b070017b4e",
+    "cc57e5d72eae9d95",
+    "1c937641cfdc206e",
+    "0313212e97f0eb1d",
+    "fa625fc3d7bf82d2",
+    "0c56c282a6042977",
+    "2a68409ac6f66e71",
+    "62ce6dd0b9532e93",
+    "a5e4bfc8e5bddfb7",
+    "b04bef186ae2be29",
+    "fe585690a134c29f",
+    "18ec393b27c06228",
+    "1139399e6ca484e5",
+    "f78aa2d124a1b914",
+    "1ad54249aa538fef",
+    "a3a314dc6697c1ef",
+    "07358f1677789d1b",
+    "fa8fc1d0d207ae2f",
+    "43f11ea4e917daa6",
+    "a74d73213146d9f7",
+    "8dcc2ea0c61c8fd7",
+    "59e5e994436db5df",
+    "352052b7cd58fc40",
+    "9c22c82435f33d77",
+    "c5a585752cac4c43",
+    "b81ab0823aa08d2a",
+    "627c7ae8bcaf7185",
+    "1649c1630be91925",
+    "42d2ee93b27cbdc4",
+    "f055f3fa6f639c4e",
+    "2d9bef48c5675a31",
+    "3a1e81094a083a2c",
+    "8e9e8025fd65b285",
+    "508a26daefbed9f5",
+    "e9ab488378ada6ff",
+    "40fb96e3e45d8e75",
+    "6035861d421f4bec",
+    "e9c5cbbf2ee37391",
+    "f9f55daabf78ea74",
+    "a0f816ce63305b59",
+    "603cff29cb58a17a",
+    "1e59124b0ee0cd43",
+    "95236faf0c7e1f86",
+    "3b79ecdc3e58b3be",
+    "8fad6e72624ce158",
+    "46703ae8c011d7fd",
+    "2adb6595ddfaa76b",
+    "c54fd9e299b4bdc6",
+    "f43c254517d1bd70",
+    "e6490206a8e38ff2",
+    "4e18c4396959468e",
+    "45ae6f20d28aa7c8",
+    "2556020fe5779e00",
+    "07fc967019aa45be",
+    "504c6728d741a9bd",
+    "f2c085e6d6edcceb",
+    "945b64f1ca5574ef",
+    "9de1ba16ab331293",
+    "a3b41caef0ac2f93",
+    "99d07d7eb56b3ba9",
+    "d099bf58e29e1d9e",
+    "879f4aa0f8ea7b0f",
+    "98810292bb628506",
+    "67e253cd5db4fdc7",
+    "411be17dbcaa376a",
+    "70f0aba3b15192f8",
+    "a32ea9499b6d56dc",
+    "877d4fbe19bbec01",
+    "7816278d35fd3c98",
+    "ce8ad387b0cb9a7a",
+    "6dc029c0b6b5f772",
+    "39a5a16e54da63d7",
+    "081968669ba54297",
+    "2a32a4e0bebba2f1",
+    "a8235f7da83a9b9b",
+    "949e17be097bb234",
+    "4e92feab79df0353",
+    "e187443232855322",
+    "bec30d0a9da1e61f",
+    "2b7fa24e44715353",
+    "124f91b547d38886",
+    "0aff0a6f6b23ffe2",
+    "341f3bed42f87033",
+    "63b63fd5d7dcf9a6",
+    "7c0bebb486cbc016",
+    "ba1a18e2edcf0ce0",
+    "c6b7e5d916cfdebb",
+    "fcce35191e108c31",
+    "c34656882c2fe8bb",
+    "77e50e45529676f0",
+    "6841135e4fdb0551",
+    "c9c652513d2b45a0",
+    "4a6cba8ccfc5c18c",
+    "56c9fe3de4db41a5",
+    "2b71645b31aa7a97",
+    "7a9439e79046e54e",
+    "dc3bfa69bfce35c9",
+    "1d9db876e4e1ed74",
+    "64580dcc0a49ba70",
+    "5e47dd67f8a4ee8f",
+    "8ca0fa566ff9e7f2"
+   ]
+  },
+  {
+   "date": "2020-01-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3706211:por",
+     "title": "Aviso n.º 4364/2013",
+     "published": "2013-03-27",
+     "dre_path": "/dr/detalhe/aviso/4364-2013-3706211"
+    },
+    {
+     "id": "pt:dre:67085354:por",
+     "title": "Aviso n.º 4532/2015",
+     "published": "2015-04-27",
+     "dre_path": "/dr/detalhe/aviso/4532-2015-67085354"
+    },
+    {
+     "id": "pt:dre:116127577:por",
+     "title": "Aviso n.º 11848/2018",
+     "published": "2018-08-21",
+     "dre_path": "/dr/detalhe/aviso/11848-2018-116127577"
+    },
+    {
+     "id": "pt:dre:128154667:por",
+     "title": "Aviso n.º 807/2020",
+     "published": "2020-01-16",
+     "dre_path": "/dr/detalhe/aviso/807-2020-128154667"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 64.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 53.º",
+    "Altera Artigo 56.º",
+    "Adita Artigo 65.º-A"
+   ],
+   "fragments": [
+    "19b9cd602ffac219",
+    "89001954abcba457",
+    "a62a31b070017b4e",
+    "cc57e5d72eae9d95",
+    "1c937641cfdc206e",
+    "0313212e97f0eb1d",
+    "2e1a8746a98eec23",
+    "0c56c282a6042977",
+    "2a68409ac6f66e71",
+    "62ce6dd0b9532e93",
+    "a5e4bfc8e5bddfb7",
+    "b04bef186ae2be29",
+    "fe585690a134c29f",
+    "18ec393b27c06228",
+    "1139399e6ca484e5",
+    "f78aa2d124a1b914",
+    "1ad54249aa538fef",
+    "a3a314dc6697c1ef",
+    "07358f1677789d1b",
+    "fa8fc1d0d207ae2f",
+    "43f11ea4e917daa6",
+    "a74d73213146d9f7",
+    "8dcc2ea0c61c8fd7",
+    "59e5e994436db5df",
+    "352052b7cd58fc40",
+    "9c22c82435f33d77",
+    "c5a585752cac4c43",
+    "b81ab0823aa08d2a",
+    "627c7ae8bcaf7185",
+    "1649c1630be91925",
+    "42d2ee93b27cbdc4",
+    "f055f3fa6f639c4e",
+    "2d9bef48c5675a31",
+    "3a1e81094a083a2c",
+    "8e9e8025fd65b285",
+    "508a26daefbed9f5",
+    "e9ab488378ada6ff",
+    "40fb96e3e45d8e75",
+    "6035861d421f4bec",
+    "e9c5cbbf2ee37391",
+    "f9f55daabf78ea74",
+    "a0f816ce63305b59",
+    "603cff29cb58a17a",
+    "1e59124b0ee0cd43",
+    "95236faf0c7e1f86",
+    "3b79ecdc3e58b3be",
+    "8fad6e72624ce158",
+    "46703ae8c011d7fd",
+    "2adb6595ddfaa76b",
+    "c54fd9e299b4bdc6",
+    "f43c254517d1bd70",
+    "e6490206a8e38ff2",
+    "4e18c4396959468e",
+    "45ae6f20d28aa7c8",
+    "2556020fe5779e00",
+    "07fc967019aa45be",
+    "504c6728d741a9bd",
+    "1d51845f3add71a5",
+    "945b64f1ca5574ef",
+    "9de1ba16ab331293",
+    "a3b41caef0ac2f93",
+    "99d07d7eb56b3ba9",
+    "d099bf58e29e1d9e",
+    "879f4aa0f8ea7b0f",
+    "e4ee7530e1bf6eb5",
+    "67e253cd5db4fdc7",
+    "411be17dbcaa376a",
+    "70f0aba3b15192f8",
+    "a32ea9499b6d56dc",
+    "877d4fbe19bbec01",
+    "7816278d35fd3c98",
+    "ce8ad387b0cb9a7a",
+    "6dc029c0b6b5f772",
+    "39a5a16e54da63d7",
+    "081968669ba54297",
+    "2a32a4e0bebba2f1",
+    "a8235f7da83a9b9b",
+    "949e17be097bb234",
+    "4e92feab79df0353",
+    "e187443232855322",
+    "bec30d0a9da1e61f",
+    "f99d9ce4d7add698",
+    "124f91b547d38886",
+    "0aff0a6f6b23ffe2",
+    "341f3bed42f87033",
+    "63b63fd5d7dcf9a6",
+    "abca0c26deedd91d",
+    "ba1a18e2edcf0ce0",
+    "c6b7e5d916cfdebb",
+    "fcce35191e108c31",
+    "c34656882c2fe8bb",
+    "77e50e45529676f0",
+    "6841135e4fdb0551",
+    "c9c652513d2b45a0",
+    "4a6cba8ccfc5c18c",
+    "56c9fe3de4db41a5",
+    "2b71645b31aa7a97",
+    "cd41ed3f778c387b",
+    "dc3bfa69bfce35c9",
+    "1d9db876e4e1ed74",
+    "8fde0ab7495a18c7",
+    "64580dcc0a49ba70",
+    "5e47dd67f8a4ee8f",
+    "8ca0fa566ff9e7f2"
+   ]
+  }
+ ],
+ "fragments": {
+  "19b9cd602ffac219": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Sob proposta da Câmara Municipal, a Assembleia Municipal de Penafiel aprovou, por deliberação de 9 de Fevereiro de 2007, a revisão do respectivo Plano Director Municipal, ratificado pela [Resolução do Conselho de Ministros n.º 53/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/53-1994-300255), de 13 de Julho.\n\nA revisão do Plano Director Municipal de Penafiel (PDM) teve início na vigência do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, tendo sido cumpridas todas as formalidades legais, nomeadamente quanto ao acompanhamento da elaboração por uma comissão técnica de acompanhamento e quanto à discussão pública, que teve lugar entre 12 de Setembro e 13 de Novembro de 2006, e que decorreu já ao abrigo do disposto no artigo 77.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, com a redacção dada pelos Decretos-Leis n.os [53/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2000-494840), de 7 de Abril, e [310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro, e pela [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro.\n\nVerifica-se a conformidade da presente revisão com as disposições legais e regulamentares em vigor, com excepção:\n\nDa expressão «de que resulte fraccionamento de prédios» constante do n.º 1 do artigo 39.º do Regulamento do PDM, em virtude da definição de loteamento constante da alínea i) do artigo 2.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, na redacção dada pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Junho, para além de o fraccionamento, abranger também o emparcelamento ou reparcelamento, encontrando-se esta operação urbanística, em todas as modalidades indicadas, proibida em solo rural, por força do disposto no artigo 41.º do mencionado diploma legal;\n\nDa expressão «para habitação» constante da alínea b) do artigo 53.º do Regulamento do PDM, por resultar da conjugação do disposto nas alíneas a) e b) do referido artigo a possibilidade de as edificações a construir terem pisos inferiores abaixo da cota de cheias, desde que não se destinem a habitação, previsão que viola o disposto no n.º 5 do artigo 40.º da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro, o qual exige, na falta de classificação das zonas inundáveis como zonas adjacentes, que os instrumentos de planeamento territorial consagrem, entre outras medidas necessárias para reduzir o risco e os efeitos das cheias, que as cotas dos pisos inferiores das edificações sejam superiores à cota local da máxima cheia conhecida;\n\nDa menção «zona adjacente» constante da planta de condicionantes, uma vez que para a área do concelho de Penafiel não existe qualquer zona inundável classificada como zona adjacente, o que pode induzir em erro, pondo em causa a adequada aplicação do Plano.\n\nVerifica-se a compatibilidade da presente revisão do PDM com o Plano Regional de Ordenamento do Território da Zona Envolvente do Douro (PROZED) e o Plano de Bacia Hidrográfica do Douro (PBHD).\n\nCumpre referir, quanto à alínea d) do n.º 2 do artigo 7.º do Regulamento do PDM, que a condicionante indicada como «zona envolvente das albufeiras» não tem correspondência com a legenda da planta de condicionantes, na qual, para traduzir o que se julga ser a mesma realidade, se indicam as albufeiras e suas zonas reservadas e faixas de protecção.\n\nDe mencionar que o Plano de Ordenamento da Albufeira de Crestuma-Lever (POACL), referido no n.º 1 do artigo 36.º do Regulamento do PDM, ainda não se encontra em vigor.\n\nSalienta-se, ainda, que o disposto no n.º 7 do artigo 39.º do Regulamento do PDM não prejudica a demais legislação em vigor, designadamente o disposto no artigo 41.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, na redacção conferida pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Junho.\n\nDe notar, também, relativamente aos ajustamentos de pormenor por razões de cadastro da propriedade, previstos na alínea c) do artigo 66.º do Regulamento do PDM, que os mesmos devem ser reconduzidos à figura das alterações de natureza técnica que traduzam meros ajustamentos do Plano, às quais se aplica o disposto na alínea e) do n.º 1 e no n.º 2 do artigo 97.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na sua redacção actual, ou, nos restantes casos, à figura da alteração, a que se aplica o disposto no n.º 1 do artigo 96.º do mesmo diploma legal.\n\nQuanto à alínea a) do n.º 3 do artigo 68.º do Regulamento do PDM, importa precisar que a referência ao Plano de Pormenor da Zona Industrial de Penafiel 1, por estar incorrecta face à denominação efectivamente publicada no Diário da República, 2.ª série, n.º 187, de 14 de Agosto de 1995, deve ser entendida como sendo feita para o Plano de Pormenor da Zona Industrial de Penafiel (1.ª fase). O mesmo sucede com a referência ao Plano de Pormenor da Zona Industrial de Penafiel II constante da alínea b) do n.º 3 do mesmo artigo do Regulamento do PDM, que, por estar incorrecta face à denominação publicada no Diário da República, 2.ª série, n.º 82, de 7 de Abril de 1992, deve ser entendida como sendo feita para o Plano de Pormenor da Expansão da Zona Industrial de Penafiel - 2.ª fase.\n\nNo que concerne ao Plano de Urbanização de Urrô, salienta-se que a respectiva área de intervenção é alterada, passando agora a ser disciplinada pelas regras previstas pelo n.º 1 do artigo 64.º do Regulamento do PDM, relativo à unidade operativa de planeamento e gestão de Urrô (UOPG de Urrô).\n\nRefere-se ainda que, sobre a pretensão de concretização do troço entre o quilómetro 0,000 e o quilómetro 3,000 do traçado respeitante ao IC 35 - Penafiel-Entre Rios, foi emitida declaração de impacte ambiental desfavorável.\n\nSalienta-se, por um lado, a necessidade de o município de Penafiel assegurar a conformidade do PDM com o Plano Regional de Ordenamento Florestal do Tâmega (PROF), aprovado pelo [Decreto Regulamentar n.º 41/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-2007-519984), de 10 de Abril, nos termos do disposto no seu artigo 51.º, no prazo máximo de dois anos a contar da data de entrada em vigor do PROF e, por outro lado, a inutilidade superveniente do disposto nos artigos 40.º e 41.º do Regulamento, na sequência da entrada em vigor do referido Plano Regional de Ordenamento Florestal, a que acresce ainda a obrigatoriedade de o município dar ainda cumprimento ao Plano Municipal de Defesa da Floresta contra Incêndios (PMDFCI) de Penafiel, o qual foi aprovado pela Direcção-Geral dos Recursos Florestais em 27 de Fevereiro de 2007.\n\nFoi emitido parecer favorável pela comissão técnica de acompanhamento, que, nos termos previstos no artigo 6.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, acompanhou a elaboração da presente revisão, bem como pela Comissão de Coordenação e Desenvolvimento Regional do Norte, que se pronunciou favoravelmente, nos termos previstos no artigo 78.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na sua redacção actual.\n\nEnquadrada no processo de elaboração da revisão do Plano Director Municipal de Penafiel, foi apresentada pela Comissão de Coordenação e Desenvolvimento do Norte, nos termos do disposto no [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), na redacção dada pelos Decretos-Leis n.os [316/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1990-555832), de 13 de Outubro, [213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro, [79/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1995-223811), de 20 de Abril, [203/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2002-645096), de 1 de Outubro, e [180/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2006-539979), de 6 de Setembro, uma proposta de alteração da delimitação da Reserva Ecológica Nacional (REN) para a área do município de Penafiel, que substitui parcialmente a constante da Resolução de Conselho do Ministros n.º 141/95, de 18 de Novembro.\n\nSobre a referida alteração da delimitação foi ouvida a Câmara Municipal de Penafiel.\n\nA Comissão Nacional da Reserva Ecológica Nacional emitiu parecer favorável sobre a nova delimitação da REN proposta.\n\nAssim:\n\nAo abrigo do disposto no n.º 8 do artigo 80.º, conjugado com o n.º 2 do artigo 96.º, ambos do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na sua redacção actual, bem como nos n.os 1, 10, 11 e 12 do artigo 3.º e na alínea b) do artigo 8.º, todos do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, na sua redacção actual, e nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Ratificar a revisão do Plano Director Municipal de Penafiel, cujo Regulamento, planta de ordenamento e planta de condicionantes se publicam em anexo à presente resolução e dela fazem parte integrante.\n\n2 - Excluir de ratificação a expressão «de que resulte fraccionamento de prédios» constante do n.º 1 do artigo 39.º do regulamento, a expressão «para habitação» constante da alínea b) do artigo 53.º do Regulamento e a menção «zona adjacente» constante da planta de condicionantes.\n\n3 - Aprovar a alteração da delimitação da Reserva Ecológica Nacional do município de Penafiel, constante da [Resolução do Conselho de Ministros n.º 141/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-1995-691657), de 18 de Novembro, com as áreas a integrar e a excluir identificadas na planta anexa à presente resolução e que dela faz parte integrante.\n\n4 - Estabelecer que ficam revogados os seguintes planos municipais de ordenamento do território: o Plano de Pormenor da Zona Industrial de Penafiel (1.ª fase), o Plano de Pormenor de Expansão da Zona Industrial de Penafiel - 2.ª fase, o Plano de Pormenor da Quinta das Lages e o Plano de Pormenor da Quinta da Saudade.\n\n5 - Estabelecer que, na área de intervenção do presente Plano, fica alterado o Plano de Urbanização de Urrô, apenas quanto aos termos definidos para a unidade operativa de planeamento e gestão de Urrô (UOPG de Urrô).\n\nPresidência do Conselho de Ministros, 20 de Setembro de 2007. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "89001954abcba457": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "a62a31b070017b4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objectivo e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito\n\n1 - O presente Regulamento e a planta de ordenamento que dele faz parte integrante estabelecem as regras e orientações a que devem obedecer a ocupação, o uso e a transformação do solo no âmbito do Plano Director Municipal de Penafiel, adiante designado por PDM.\n\n2 - As disposições contidas no presente Regulamento aplicam-se à totalidade do território do concelho de Penafiel."
+  },
+  "cc57e5d72eae9d95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime\n\nQuaisquer acções de iniciativa pública, privada ou cooperativa a realizar na área de intervenção do PDM e que tenham como consequência ou finalidade a ocupação, uso ou transformação do solo ficam obrigatoriamente sujeitas ao disposto no presente Regulamento."
+  },
+  "1c937641cfdc206e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Omissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Omissões\n\nA qualquer situação não prevista nas presentes disposições regulamentares aplica-se o disposto na demais legislação vigente."
+  },
+  "0313212e97f0eb1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Composição do Plano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição do Plano\n\n1 - O PDM de Penafiel é constituído pelos seguintes elementos:\n\na) Regulamento;\n\nb) Planta de ordenamento (1:10 000);\n\nc) Planta de condicionantes (1:10 000), com a carta em anexo:\n\ni) Planta de condicionantes - áreas percorridas por incêndios desde 1996 a 2005 e zonamento acústico (1:10 000).\n\n2 - Acompanham o PDM de Penafiel:\n\na) Relatório com o programa de execução e plano de financiamento;\n\nb) Carta de enquadramento (1:250 000);\n\nc) Carta da rede viária (1:25 000);\n\nd) Carta da estrutura ecológica municipal (1:25 000);\n\ne) Planta do património (1:10 000);\n\nf) Planta da REN (1:10 000);\n\ng) Carta de equipamentos (1:25 000);\n\nh) Carta da situação existente (1:10 000)."
+  },
+  "fa625fc3d7bf82d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Definições\n\nPara efeitos de aplicação do presente Regulamento, entende-se por:\n\na) «Alinhamento dominante» o alinhamento em maior extensão das vedações dos prédios ou das fachadas dos edifícios neles implantados de uma dada frente urbana em relação ao espaço público com que confinam;\n\nb) «Área bruta de construção (abc)» o valor expresso em metros quadrados, resultante do somatório das áreas de todos os pavimentos, acima e abaixo do solo, medidas pelo extradorso das paredes exteriores, com exclusão de:\n\nSótãos sem pé-direito regulamentar para fins habitacionais;\n\nÁreas destinadas a estacionamento, quando localizado em cave;\n\nÁreas destinadas a arrecadações de apoio às diversas unidades de utilização do edifício e serviços técnicos, quando localizados em cave;\n\nVarandas e terraços descobertos;\n\nEspaços livres de uso público cobertos pela edificação;\n\nc) «Área de exploração geológica consolidada» área onde ocorre uma actividade produtiva significativa e cujo desenvolvimento deve ser objecto de uma abordagem global, tendo em vista o aproveitamento do recurso geológico dentro dos valores de qualidade ambiental, podendo incluir áreas concessionadas, licenciadas e outras áreas adjacentes para a progressão da actividade;\n\nd) «Área de exploração geológica complementar» área de exploração que pode ser adjacente à área de exploração consolidada consigo relacionada, devendo o ritmo e as áreas de exploração ser condicionados pelo nível de esgotamento das reservas disponíveis e ou pela evolução da recuperação paisagística da(s) respectiva(s) área(s) de exploração consolidada(s);\n\ne) «Cedência média» a área por metros quadrados de abc a ceder ao município, respeitante às parcelas propostas no Plano para espaços verdes públicos, equipamentos e vias, resultando do quociente entre estas áreas e a abc admitida, para uma dada unidade do território urbano;\n\nf) «Cércea» a dimensão vertical da construção, medida a partir do ponto de cota média do terreno marginal ao alinhamento da fachada até à linha superior do beirado, platibanda ou guarda do terraço, incluindo andares recuados, mas excluindo acessórios. Em situações de edifícios implantados em terrenos onde se verifiquem desníveis topográficos, a cércea reporta-se à fachada cuja linha de intercepção com o terreno é a de menor nível altimétrico;\n\ng) «Colmatação urbana» o preenchimento com edificação em área inserida em perímetro urbano, quer se trate de nova construção ou de ampliação de edifício existente, de um prédio ou prédios, localizados em frente urbana consolidada e situados entre edifícios existentes nessa mesma frente, desde que a distância entre esses edifícios não seja superior a 24 m ou, quando se trate de área industrial, de 40 m;\n\nh) «Frente urbana» a superfície em projecção vertical definida pelo conjunto das fachadas dos edifícios confinantes com uma dada via pública e compreendida entre duas vias públicas sucessivas que nela concorrem;\n\ni) «Índice de impermeabilização» o quociente entre o somatório das áreas de terreno ocupadas com edificação e áreas pavimentadas com materiais impermeáveis, incluindo acessos ou pátios, e a área do terreno ou superfície de referência da operação urbanística, situada na categoria de espaço a que se refere;\n\nj) «Índice de implantação» o quociente entre a área bruta de implantação das construções e a área de terreno ou superfície de referência da operação urbanística, situada na categoria de espaço a que se refere;\n\nk) «Índice de utilização (iu)» o quociente entre a área bruta de construção e a área do terreno situada na categoria de espaço a que se refere;\n\nl) «Lote» o prédio correspondente a uma unidade cadastral resultante de uma operação de loteamento, que se destina imediata ou subsequentemente à edificação urbana;\n\nm) «Moda da cércea» cércea que apresenta maior extensão ao longo de uma frente urbana edificada;\n\nn) «Moradia» edifício, por regra, de um ou dois fogos e cércea normalmente de um ou dois pisos, ao qual corresponde um logradouro;\n\no) «Parcela» o prédio correspondente a uma unidade cadastral não resultante de uma operação de loteamento ou que por força da operação de loteamento não se destina à edificação urbana, excepto se destinada a equipamento público;\n\np) «Polígono de base» o perímetro que demarca a área na qual pode ser implantado o edifício, incluindo os pisos em cave;\n\nq) «Prédio» a unidade de propriedade fundiária, na titularidade de uma pessoa singular ou colectiva, ou em regime de compropriedade, podendo classificar-se como urbano, rústico ou misto e, eventualmente, a sujeitar a operação urbanística."
+  },
+  "0c56c282a6042977": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Preexistências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Preexistências\n\n1 - Para efeitos do presente Regulamento, consideram-se preexistências as actividades, explorações, instalações, edificações, equipamentos ou quaisquer actos que, executados ou em curso à data da entrada em vigor do PDM, cumpram nesse momento qualquer das seguintes condições:\n\na) Não carecem de qualquer licença, aprovação ou autorização, nos termos da lei;\n\nb) Estão licenciados, aprovados ou autorizados pela entidade competente, nos casos em que a lei a tal obriga, e desde que as respectivas licenças, aprovações ou autorizações não tenham caducado ou sido revogadas ou apreendidas.\n\n2 - São também consideradas preexistências, nos termos e para os efeitos do disposto no número anterior, aquelas que a lei reconheça como tal e ainda os espaços públicos e vias públicas existentes à data de entrada em vigor do PDM, independentemente da sua localização.\n\n3 - Os actos ou actividades licenciados, aprovados ou autorizados, a título precário, não são considerados preexistências, nomeadamente para efeitos de renovação da validade do respectivo título ou da sua transformação em licença, aprovação ou autorização definitivas.\n\n4 - As preexistências definidas nos termos dos números anteriores que, pela sua natureza, se excluem do âmbito do estatuto de utilização e ocupação das categorias de espaços onde se localizam, não podem ser objecto de acções ou intervenções que tenham como efeito ampliar ou agravar as condições de incompatibilidade de usos verificadas.\n\n5 - As alterações ou reconversões de usos preexistentes regem-se pelas disposições do presente Regulamento aplicáveis em função da localização e da natureza dos novos usos pretendidos."
+  },
+  "2a68409ac6f66e71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo II — Servidões administrativas e restrições de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Servidões administrativas e restrições de utilidade pública"
+  },
+  "62ce6dd0b9532e93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Identificação e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Identificação e regime\n\n1 - No território do Plano são observadas as disposições referentes a servidões administrativas e restrições de utilidade pública constantes da legislação em vigor, nomeadamente as assinaladas na planta de condicionantes quando a escala o permite.\n\n2 - As servidões administrativas e restrições de utilidade pública a que se refere o número anterior respeitam a:\n\na) Reserva Agrícola Nacional;\n\nb) Reserva Ecológica Nacional;\n\nc) Domínio hídrico;\n\nd) Zona envolvente das albufeiras;\n\ne) Recursos geológicos;\n\nf) Património classificado ou em vias de classificação;\n\ng) Rodovias;\n\nh) Ferrovia (linha do Douro);\n\ni) Instalações militares;\n\nj) Instalação e armazenagem de produtos explosivos;\n\nk) Tratamento de lixos;\n\nl) Equipamentos públicos;\n\nm) Vértices geodésicos;\n\nn) Redes de energia eléctrica;\n\no) Feixe hertziano Bonfim-Marão;\n\np) Redes de transporte de gás natural;\n\nq) Condicionantes florestais.\n\n3 - Nas áreas abrangidas por servidões administrativas e restrições de utilidade pública, a disciplina de uso, ocupação e transformação do solo é regulada pelas disposições expressas para a categoria de espaço sobre que recaem, de acordo com o presente Regulamento e a planta de ordenamento do PDM, condicionadas pelas disposições que regulamentam essa servidão ou restrição."
+  },
+  "a5e4bfc8e5bddfb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo III — Uso dominante do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Uso dominante do solo"
+  },
+  "b04bef186ae2be29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção I — Classes e categorias de espaços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Classes e categorias de espaços"
+  },
+  "fe585690a134c29f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Identificação\n\n1 - Para efeitos do disposto nos artigos seguintes, considera-se o território concelhio afecto a:\n\na) Solo urbano, compreendendo as seguintes categorias e subcategorias de espaço:\n\na.1) Espaço urbanizado:\n\ni) Áreas predominantemente habitacionais consolidadas ou a consolidar;\n\nii) Áreas de equipamentos estruturantes existentes;\n\niii) Áreas industriais e ou empresariais existentes;\n\na.2) Espaço de urbanização programada:\n\ni) Áreas de expansão predominantemente habitacionais;\n\nii) Áreas de equipamentos estruturantes propostos;\n\niii) Áreas industriais e ou empresariais propostas;\n\niv) Núcleos de concentração industrial;\n\na.3) Estrutura ecológica:\n\ni) Leitos e margens dos cursos de água;\n\nii) Áreas naturais de protecção ou enquadramento;\n\niii) Áreas mistas (produção e recreio);\n\nb) Solo rural, compreendendo as seguintes categorias e subcategorias de espaço:\n\nb.1) Espaço agrícola:\n\ni) Área agrícola protegida;\n\nii) Área agrícola complementar;\n\nb.2) Espaço florestal:\n\ni) Área florestal de protecção;\n\nii) Área florestal de produção;\n\nb.3) Espaço para indústria extractiva:\n\ni) Área de exploração consolidada/complementar;\n\nb.4) Espaço de uso múltiplo:\n\ni) Áreas de equipamentos estruturantes;\n\nb.5) Espaço natural:\n\ni) Leitos e margens dos cursos de água;\n\nb.6) Espaço cultural:\n\ni) Áreas de património arqueológico.\n\n2 - Integrados em solo urbano ou solo rural, são ainda estabelecidos os seguintes espaços-canais:\n\na) Rede ferroviária;\n\nb) Rede rodoviária:\n\ni) Itinerário principal;\n\nii) Itinerário complementar;\n\niii) Estradas nacionais e regionais;\n\niv) Rede municipal principal.\n\n3 - Embora não constituam categorias ou subcategorias de espaço, a planta de ordenamento considera ainda:\n\na) Áreas de protecção e enquadramento ao património;\n\nb) Zonas inundáveis;\n\nc) Estrutura ecológica em solo rural."
+  },
+  "18ec393b27c06228": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção II — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Disposições comuns"
+  },
+  "1139399e6ca484e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Condicionamentos estéticos, ambientais e paisagísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condicionamentos estéticos, ambientais e paisagísticos\n\n1 - O município pode impor condicionamentos de ordem arquitectónica, construtiva, estética e ambiental ao alinhamento e implantação das edificações, à sua volumetria ou ao seu aspecto exterior e ainda à percentagem de impermeabilização do solo, bem como à alteração do coberto vegetal, desde que tal se destine a promover o reforço dos valores arquitectónicos, paisagísticos e ambientais dessa área ou a garantir a salvaguarda e valorização dos valores arqueológicos em presença, bem como uma correcta integração na envolvente.\n\n2 - A Câmara Municipal pode impedir, por interesse arquitectónico ou cultural, a demolição total ou parcial de qualquer edificação, bem como de espécies arbóreas ou arbustivas de inegável valor paisagístico para o território concelhio."
+  },
+  "f78aa2d124a1b914": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Indústria e armazéns em prédios de habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Indústria e armazéns em prédios de habitação\n\n1 - É proibida a instalação de unidades industriais e de armazéns em novos loteamentos que venham a ser apresentados para licenciamento ou autorização.\n\n2 - Admite-se a coexistência de unidades industriais e de armazéns com habitação no mesmo prédio, desde que seja cumprido o normativo para a categoria de espaço em que o prédio se situa e, cumulativamente, se verifiquem as seguintes disposições:\n\na) Sejam compatíveis com o uso residencial;\n\nb) A unidade industrial esteja incluída no tipo 4, de acordo com o disposto no Regulamento do Licenciamento da Actividade Industrial;\n\nc) Quando instaladas ao nível do piso térreo, a sua profundidade não exceda 30 m;\n\nd) Quando instaladas no logradouro cumpram as seguintes disposições:\n\ni) A construção tenha um só piso não superior a 4 m;\n\nii) O seu afastamento em relação aos limites laterais do prédio não seja inferior a 5 m, nem inferior a 8 m da fachada mais próxima da construção destinada a habitação;\n\niii) A sua área não seja superior a 20 % da área total do prédio, com um máximo de 300 m2;\n\niv) Disponham de área de parqueamento no interior do prédio considerada suficiente para o tipo de indústria ou armazém a implantar;\n\nv) O proprietário da indústria ou armazém seja o utente da habitação."
+  },
+  "1ad54249aa538fef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Estacionamento\n\n1 - Nas novas construções, bem como naquelas que tenham sido objecto de ampliação superior a 20 % da área de construção original, deve ser assegurado no interior do lote ou parcela o estacionamento mínimo estabelecido na [Portaria n.º 1136/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1136-2001-610032), de 25 de Setembro, que no caso de fogos de habitação colectiva é coberto, para responder às necessidades próprias dos utentes e das respectivas utilizações.\n\n2 - Nas situações de alteração de destino de uso em edifícios já dotados de licença de utilização, o estabelecimento das exigências de estacionamento mínimo obedece às seguintes disposições:\n\na) Quando da alteração de destino de uso não resultar agravamento das exigências de estacionamento mínimo estipuladas no n.º 1 deste artigo, é dispensada a criação de novos lugares de estacionamento, mantendo-se os existentes;\n\nb) Quando a alteração de destino de uso tenha por finalidade a instalação de unidades de comércio, serviços, salas de espectáculos e de conferências ou outros locais de reunião, estabelecimentos hoteleiros ou equipamentos urbanos que agravem as exigências de estacionamento mínimo definidas no n.º 1, a dotação de estacionamento a cumprir é estabelecida pela Câmara Municipal, após o estudo dessa situação particular.\n\n3 - Nas novas construções não decorrentes de operação de loteamento, bem como naquelas que sejam objecto de ampliação em mais de 20 % da área original, é sempre criado estacionamento público, correspondente, no mínimo, às percentagens, a seguir indicadas, dos valores obtidos pela aplicação do n.º 1 deste artigo:\n\na) 20 % dos lugares privados para habitação, em edifícios de habitação colectiva;\n\nb) 50 % dos lugares privados para comércio e serviços;\n\nc) 20 % dos lugares privados para instalações industriais e armazéns;\n\nd) 20 % dos lugares privados para estabelecimentos hoteleiros;\n\ne) 80 % dos lugares privados para estabelecimentos de restauração e de bebidas.\n\n4 - Os lugares a disponibilizar nos termos do número anterior, correspondem ao arredondamento para o número inteiro superior e localizam-se em espaço a integrar no domínio público municipal.\n\n5 - Exceptuam-se dos n.os 1, 2 e 3 deste artigo os casos em que seja devidamente justificada a impossibilidade total ou parcial de criação de estacionamento inerente a novas construções não decorrentes de operação de loteamento e naquelas que tenham sido objecto de ampliação, quando:\n\na) Por razões de dimensão insuficiente da parcela;\n\nb) Por incapacidade dos acessos na execução das manobras respectivas;\n\nc) Por alteração não desejável da composição arquitectónica das fachadas dos edifícios confrontantes com o arruamento em que a intervenção se situa;\n\nd) No caso de edifícios cuja qualidade, pelo seu valor arquitectónico, histórico ou cultural, justifique a sua preservação, mesmo que haja lugar a ampliação ou remodelação decorrente do projecto aprovado;\n\ne) Por razões de natureza técnica, nomeadamente função da topografia, das características geológicas do solo, níveis freáticos ou que ponham em risco a segurança das edificações envolventes.\n\n6 - Nas operações de loteamento é sempre criado estacionamento público de acordo com o dimensionamento definido no n.º 3, exceptuando os casos em que todos os lotes confinem com via pública existente, cujo perfil ou características sejam limitadores da criação de estacionamento e desde que a dimensão e configuração do prédio a lotear impossibilitem ou condicionem a criação de estacionamento público em área não adjacente à via pública existente."
+  },
+  "a3a314dc6697c1ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Anexos\n\nOs anexos, nos perímetros urbanos, são edifícios referenciados a um edifício principal, com função complementar da construção principal, destinados, designadamente, a garagens, arrumos ou apoio à fruição dos respectivos logradouros, devendo garantir-se uma adequada integração no local de modo a não afectarem as características urbanísticas existentes, nos aspectos da estética, da insolação e da salubridade."
+  },
+  "07358f1677789d1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção III — Espaço urbanizado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Espaço urbanizado"
+  },
+  "fa8fc1d0d207ae2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Subsecção I — Áreas predominantemente habitacionais consolidadas ou a consolidar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Áreas predominantemente habitacionais consolidadas ou a consolidar"
+  },
+  "43f11ea4e917daa6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Caracterização e usos dominantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Caracterização e usos dominantes\n\n1 - As áreas predominantemente habitacionais consolidadas ou a consolidar correspondem a áreas urbanizadas e dominantemente edificadas, destinadas às actividades residenciais, comerciais, serviços e equipamentos complementares, incluindo áreas verdes urbanas de utilização privada ou pública, onde se admitem ainda os usos industriais, de armazenagem ou outros desde que compatíveis com a habitação.\n\n2 - As áreas consolidadas ou a consolidar encontram-se subdivididas em função da tipologia dominante dos edifícios e das densidades admissíveis:\n\na) Tipo Cl, correspondendo a zonas de alta densidade, com carácter fortemente urbano e elevado nível de funções;\n\nb) Tipo C2, correspondendo a zonas de alta densidade e carácter fortemente urbano;\n\nc) Tipo C3, correspondendo a zonas de média densidade e carácter moderadamente urbano;\n\nd) Tipo C4, correspondendo a zonas de baixa densidade e de moradia."
+  },
+  "a74d73213146d9f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Compatibilidade de usos e actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Compatibilidade de usos e actividades\n\nPara efeitos do disposto no n.º 1 do artigo anterior, consideram-se usos compatíveis com a habitação os que não provocam um agravamento das condições ambientais e urbanísticas, podendo ser razão suficiente de recusa de licenciamento ou autorização, as utilizações, ocupações ou actividades que:\n\na) Dão lugar à produção de fumos, cheiros ou resíduos que afectem as condições de salubridade ou dificultem a sua melhoria;\n\nb) Perturbam gravemente as condições de trânsito e estacionamento ou provocam movimentos de cargas e descargas que prejudicam as condições de utilização da via pública;\n\nc) Acarretam agravados riscos de incêndio ou explosão;\n\nd) Prejudicam a salvaguarda e valorização do património classificado, em vias de classificação ou de reconhecido valor cultural, arquitectónico, paisagístico ou ambiental;\n\ne) Correspondam a outras situações de incompatibilidade que a lei geral considere como tal, designadamente as constantes no Regulamento do Licenciamento da Actividade Industrial e no regime legal sobre a poluição sonora."
+  },
+  "8dcc2ea0c61c8fd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Regime de Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime de Edificabilidade\n\n1 - Nestas áreas as novas construções ou ampliações de edifícios existentes seguem o regime estabelecido em planos de urbanização ou de pormenor eficazes e processos de loteamento titulados por alvará válido.\n\n2 - Quando não se verifica qualquer das situações definidas no número anterior, as novas construções ou reconstruções, bem como obras de ampliação de edifícios, são sempre orientadas de forma a harmonizarem-se com as características dominantes do conjunto onde se inserem, respeitando, na ausência de alinhamentos e cércea definidos pela Câmara Municipal, as características morfológicas e tipológicas desse conjunto, designadamente:\n\na) O alinhamento dominante da frente urbana onde se integra o prédio objecto de intervenção;\n\nb) A moda da cércea da frente urbana onde se integra o prédio objecto da intervenção;\n\nc) A tipologia construtiva dominante da frente urbana onde se integra o prédio objecto da intervenção.\n\n3 - Nos casos previstos nos números anteriores, os parâmetros de edificabilidade não podem exceder os seguintes valores:\n\na) Tipo Cl: cércea de sete pisos, com o máximo de 22,5 m; índice de utilização de 1,2; área de impermeabilização de 0,70 da área do prédio;\n\nb) Tipo C2: cércea de cinco pisos, com o máximo de 16,5 m; índice de utilização de 1,0; área de impermeabilização de 0,70 da área do prédio;\n\nc) Tipo C3: cércea de quatro pisos, com o máximo de 13,5 m; índice de utilização de 0,8; área de impermeabilização de 0,65 da área do prédio;\n\nd) Tipo C4: cércea de dois pisos, com o máximo de 7,5 m; índice de utilização de 0,6; área de impermeabilização de 0,60 da área do prédio.\n\n4 - Exceptuam-se do número anterior as situações de colmatação, nas quais as novas construções ou ampliações de edifícios existentes respeitam os alinhamentos dos edifícios contíguos e estabelecem a articulação volumétrica desses mesmos edifícios.\n\n5 - Nas situações de tipos Cl e C2, conforme definidas no n.º 2 do artigo 13.º, quando o terreno objecto da intervenção tiver uma área superior a 1 ha ou o seu aproveitamento implique a criação de novos arruamentos públicos, a ocupação por novas construções fica condicionada ao seu prévio loteamento e às regras de edificabilidade definidas para cada um dos tipos considerados no número anterior, sem prejuízo da correcta integração urbanística no local, garantindo a relação harmoniosa com a envolvente preexistente a manter.\n\n6 - Exceptuam-se do número anterior os terrenos destinados a equipamentos de utilização colectiva, ou aqueles em que, por razões da existência de valores paisagísticos ou patrimoniais, seja desaconselhável instituir a operação de loteamento."
+  },
+  "59e5e994436db5df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Indústria e armazéns em prédio autónomo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Indústria e armazéns em prédio autónomo\n\nAdmitem-se construções para fins de armazenagem e indústrias em prédio autónomo, e desde que respeitem as seguintes condições:\n\na) Pertençam, no caso de indústrias, ao tipo 4 para os tipos Cl e C2, e aos tipos 3 ou 4, para os restantes;\n\nb) A cércea máxima não ultrapasse os 7 m;\n\nc) O índice de implantação não ultrapasse 0,5 da área total da parcela ou 0,3 da área do prédio, no caso de este ser sujeito a operação de loteamento;\n\nd) Para as indústrias do tipo 3, seja assegurado o afastamento mínimo de 10 m ao limite posterior do lote e de 5 m aos limites laterais;\n\ne) O índice de impermeabilização não ultrapasse 0,70 da área total da parcela ou 0,50 da área do prédio, no caso de este ser sujeito a operação de loteamento."
+  },
+  "352052b7cd58fc40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Planos de pormenor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Planos de pormenor\n\nAs alterações de edificabilidade ou dos usos não previstos nos artigos anteriores, incluindo as inerentes às áreas de reformulação urbanística por desadequação da morfologia e tipologia edificatórias ou das funções prestadas, ficam dependentes da elaboração e publicação de planos de pormenor, que têm de conformar-se com as condições definidas no n.º 3 do artigo 15.º do presente Regulamento."
+  },
+  "9c22c82435f33d77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Subsecção II — Áreas de equipamentos estruturantes existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Áreas de equipamentos estruturantes existentes"
+  },
+  "c5a585752cac4c43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Caracterização e usos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Caracterização e usos\n\n1 - As áreas de equipamentos estruturantes existentes destinam-se exclusivamente à instalação de equipamentos ou infra-estruturas de interesse e utilização colectiva.\n\n2 - Os destinos de uso específico indicados na planta de ordenamento podem ser alterados, desde que seja mantida a finalidade genérica da sua ocupação com equipamento ou infra-estruturas estruturantes de interesse público e de tal facto não resulte agravamento das condições ambientais e urbanísticas existentes, nem prejuízo do valor histórico, arquitectónico ou paisagístico do património em presença, caso este deva ser salvaguardado."
+  },
+  "b81ab0823aa08d2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Regime de edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime de edificabilidade\n\nNas áreas de equipamento estruturante existente, sem prejuízo da legislação aplicável a imóveis classificados e em vias de classificação, edifícios públicos ou ao disposto em plano de pormenor em vigor, permitem-se obras de ampliação e reconstrução de edifícios existentes, desde que:\n\na) Seja garantida a correcta integração urbana, nomeadamente quanto à volumetria, alinhamentos e compatibilidade de usos com a ocupação envolvente;\n\nb) Seja garantida a satisfação do estacionamento necessário à actividade gerada."
+  },
+  "627c7ae8bcaf7185": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Subsecção III — Áreas empresariais/industriais existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Áreas empresariais/industriais existentes"
+  },
+  "1649c1630be91925": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Caracterização e usos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Caracterização e usos\n\nCorrespondem às áreas urbanizadas destinadas à instalação de actividades industriais dos tipos 2, 3 e 4, de acordo com o Regulamento do Licenciamento da Actividade Industrial, de armazenagem e ainda de equipamentos, comércio e serviços."
+  },
+  "42d2ee93b27cbdc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Ocupações ou utilizações interditas ou condicionadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Ocupações ou utilizações interditas ou condicionadas\n\n1 - Nestas áreas é proibida a habitação, salvo a adstrita ao pessoal de vigilância e segurança ou a de colmatação de núcleos residenciais preexistentes.\n\n2 - Só é viabilizada a localização de cada unidade a instalar após a verificação do seu carácter não poluente e que a instalação possui todos os órgãos de depuração e tratamento de efluentes líquidos, gasosos ou sólidos para tal necessários.\n\n3 - As unidades já em laboração que constituem focos de poluição devem, a curto prazo, colmatar as deficiências que apresentam."
+  },
+  "f055f3fa6f639c4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Regime de edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regime de edificabilidade\n\nÀs novas construções ou à ampliação de edifícios existentes, sem prejuízo do disposto em operação de loteamento aprovado, são aplicáveis as seguintes disposições:\n\na) O índice de impermeabilização não pode exceder 0,75 da área da parcela ou 0,60 da área do prédio, no caso de este ser sujeito a operação de loteamento;\n\nb) A cércea máxima admitida é de 10 m, excepto no caso de instalações técnicas devidamente justificadas;\n\nc) O índice de utilização não pode exceder 0,60 da área do prédio, no caso de este ser sujeito a operação de loteamento ou 0,70 nas restantes situações;\n\nd) No caso da ocupação de prédios livres em frente urbana já constituída são observados os alinhamentos e o tipo de relação com o espaço público verificado nas parcelas ou lotes já ocupados nessa frente urbana."
+  },
+  "2d9bef48c5675a31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção IV — Espaço de urbanização programada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Espaço de urbanização programada"
+  },
+  "3a1e81094a083a2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Subsecção I — Áreas de expansão predominantemente habitacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Áreas de expansão predominantemente habitacionais"
+  },
+  "8e9e8025fd65b285": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Caracterização e usos dominantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Caracterização e usos dominantes\n\nAs áreas de expansão predominantemente habitacionais caracterizam-se por poderem vir a adquirir as características de áreas predominantemente habitacionais consolidadas ou a consolidar, destinando-se predominantemente a actividades residenciais, comerciais, serviços e equipamentos, incluindo áreas verdes urbanas de utilização privada ou pública, admitindo-se ainda os usos industriais dos tipos 3 e 4, de armazenagem ou outros desde que compatíveis com os primeiros de acordo com o disposto no artigo 14.º"
+  },
+  "508a26daefbed9f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Regime de edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regime de edificabilidade\n\n1 - A ocupação destas áreas processa-se de acordo com as disposições programáticas estabelecidas para a UOPG em que se inserem.\n\n2 - Os parâmetros de edificabilidade não podem exceder os seguintes valores:\n\na) E1: cércea de cinco pisos, com o máximo de 16,5 m e índice de utilização de 1;\n\nb) E2: cércea de quatro pisos, com o máximo de 13,5 m e índice de utilização de 0,8;\n\nc) E3: cércea de dois pisos, com o máximo de 7,5 m e índice de utilização de 0,6."
+  },
+  "e9ab488378ada6ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Regra supletiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regra supletiva\n\nNestas áreas, as operações urbanísticas a levar a efeito são executadas de acordo com o regime estabelecido no capítulo vi, para cada UOPG."
+  },
+  "40fb96e3e45d8e75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Subsecção II — Áreas de equipamentos estruturantes propostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Áreas de equipamentos estruturantes propostos"
+  },
+  "6035861d421f4bec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Caracterização e usos dominantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Caracterização e usos dominantes\n\n1 - As áreas de equipamentos estruturantes propostos destinam-se predominantemente à instalação de equipamentos ou infra-estruturas de interesse e utilização colectiva.\n\n2 - Os destinos de uso específico, indicados na planta de ordenamento, podem ser alterados desde que seja mantida a finalidade genérica da sua ocupação com equipamento ou infra-estruturas estruturantes de interesse público e se de tal facto não resultar agravamento das condições ambientais e urbanísticas existentes, nem prejuízo do valor histórico, arquitectónico ou paisagístico do património em presença, caso este deva ser salvaguardado.\n\n3 - No caso de o equipamento a instalar não esgotar a totalidade da área qualificada para esse fim no Plano, admitem-se ainda usos residenciais e comerciais na área sobrante, quando compatíveis com os equipamentos a instalar e desde que a área afecta a estes usos não ultrapasse 30 % da área de equipamento estruturante proposto e o índice de utilização bruto não seja superior a 0,45 aplicado à área destinada àqueles usos.\n\n4 - Exceptuam-se do número anterior as situações incluídas em unidades operativas de planeamento e gestão, nas quais é dado cumprimento ao conteúdo programático específico definido no artigo 64.º"
+  },
+  "e9c5cbbf2ee37391": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Regime de edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Regime de edificabilidade\n\n1 - Estas áreas devem ser alvo de projecto específico e garantir:\n\na) O enquadramento urbano, paisagístico e volumétrico do conjunto;\n\nb) Áreas de aparcamento automóvel de acordo com as necessidades inerentes ao uso definido.\n\n2 - Enquanto não forem elaborados os projectos referidos no número anterior, nestas áreas e sem prejuízo do uso actual, são proibidas acções que comprometam a sua futura afectação, nomeadamente:\n\na) A execução de quaisquer construções;\n\nb) Alterações à topografia do terreno;\n\nc) Destruição do solo vivo e do coberto vegetal, excepto o necessário a operações de limpeza;\n\nd) Derrube de árvores;\n\ne) Descarga de lixo e entulho."
+  },
+  "f9f55daabf78ea74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Subsecção III — Áreas empresariais/industriais propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Áreas empresariais/industriais propostas"
+  },
+  "a0f816ce63305b59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Caracterização\n\nCorrespondem às áreas destinadas à instalação de actividades industriais e de armazenagem e ainda de equipamentos, comércio e serviços, admitindo-se a instalação de depósitos de sucata, quando previstos em plano municipal de ordenamento do território e de acordo com a legislação em vigor."
+  },
+  "603cff29cb58a17a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Ocupações ou utilizações interditas ou condicionadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Ocupações ou utilizações interditas ou condicionadas\n\n1 - Nestas áreas é proibida a habitação, salvo a adstrita ao pessoal de vigilância e segurança.\n\n2 - Só é viabilizada a localização de cada unidade a instalar após a verificação do seu carácter não poluente e de que a instalação possui todos os órgãos de depuração e tratamento de efluentes líquidos, gasosos ou sólidos para tal necessários."
+  },
+  "1e59124b0ee0cd43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Regime de edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regime de edificabilidade\n\n1 - Estas áreas devem ser objecto de projecto de loteamento ou plano de pormenor, os quais devem ter como referência as seguintes regras, sem prejuízo da demais legislação aplicável:\n\na) No interior de cada lote a existir o espaço necessário ao movimento de cargas e descargas, bem como ao estacionamento próprio;\n\nb) O índice de impermeabilização não pode exceder 0,75 da área da parcela ou 0,65 da área do prédio, no caso de este ser sujeito a operação de loteamento;\n\nc) O índice de utilização não pode exceder 0,70 da área da parcela ou 0,60 da área do prédio, no caso de este ser sujeito a operação de loteamento;\n\nd) A cércea máxima admitida é de 10 m, excepto no caso de instalações técnicas devidamente justificadas;\n\ne) Todos os espaços que não sejam ocupados pelas instalações ou arruamentos devem obrigatoriamente ser objecto de ajardinamento ou arborização, a qual é formada por espécies de alto porte quando as instalações se situarem em locais dominantes e de fácil visualização.\n\n2 - Exceptuam-se do número anterior as situações de colmatação, nas quais as novas construções ou ampliações de edifícios existentes respeitam os alinhamentos dos edifícios contíguos e estabelecem a articulação volumétrica a esses mesmos edifícios.\n\n3 - Em prédios localizados no limite destas áreas, e que estabelecem fronteira com as categorias de espaço predominantemente habitacional ou equipamento estruturante, deve ser assegurada uma faixa de protecção, no prédio, constituída por espécies arbóreas numa faixa de profundidade não inferior a 20 m, com o objectivo de minimizar os impactes visuais e ambientais resultantes da actividade industrial/empresarial, bem como não devem aí localizar-se indústrias dos tipos 1 e 2."
+  },
+  "95236faf0c7e1f86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Subsecção IV — Núcleos de concentração industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Núcleos de concentração industrial"
+  },
+  "3b79ecdc3e58b3be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Caracterização\n\n1 - Correspondem a áreas de pequena e média dimensão, vocacionadas preferencialmente para o acolhimento de unidades industriais localizadas em aglomerados urbanos próximos.\n\n2 - Estas áreas destinam-se à instalação de actividades industriais, de armazenagem e de comércio e serviços, com exclusão das indústrias do tipo 1."
+  },
+  "8fad6e72624ce158": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Ocupações ou utilizações interditas ou condicionadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Ocupações ou utilizações interditas ou condicionadas\n\n1 - Nestas áreas é proibida a habitação, salvo a adstrita ao pessoal de vigilância e segurança.\n\n2 - Só é viabilizada a localização de cada unidade a instalar após a verificação do seu carácter não poluente e de que a instalação possui todos os órgãos de depuração e tratamento de efluentes líquidos, gasosos ou sólidos necessários.\n\n3 - As unidades já em laboração que constituem focos de poluição devem, a curto prazo, colmatar as deficiências que apresentam."
+  },
+  "46703ae8c011d7fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Regime de edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Regime de edificabilidade\n\n1 - Nestas áreas admitem-se novas construções, ampliações e reconversões nas seguintes condições:\n\na) A cércea máxima é 10 m, excepto no caso de instalações técnicas devidamente justificadas;\n\nb) O índice de impermeabilização não pode exceder 0,65 da área da parcela ou 0,55 da área do prédio, no caso de este ser sujeito a operação de loteamento;\n\nc) O índice de utilização não pode exceder 0,60 da área da parcela ou 0,50 da área do prédio, no caso de este ser sujeito a operação de loteamento.\n\n2 - Em prédios localizados no limite destas áreas e que estabelecem fronteira com as categorias de espaço predominantemente habitacional ou equipamento estruturante, deve ser assegurada uma faixa de protecção constituída por espécies arbóreas numa faixa de profundidade não inferior a 20 m, com o objectivo de minimizar os impactes visuais e ambientais resultantes da actividade industrial, bem como não devem aí localizar-se indústrias do tipo 2."
+  },
+  "2adb6595ddfaa76b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção V — Estrutura ecológica urbana",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Estrutura ecológica urbana"
+  },
+  "c54fd9e299b4bdc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Caracterização\n\nA estrutura ecológica urbana tem como objectivos a salvaguarda e valorização das componentes ecológicas e ambientais do território urbano e a qualificação ambiental das actividades nele processadas, nomeadamente pela preservação dos elementos patrimoniais e paisagísticos relevantes na organização e composição urbana, pela protecção dos recursos naturais e potenciação de áreas verdes de fruição colectiva, pela minimização de impactes ambientais provocados sobre áreas de actividades urbanas que exigem adequadas medidas de protecção."
+  },
+  "f43c254517d1bd70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Constituição\n\n1 - A estrutura ecológica urbana é constituída pelas seguintes subcategorias de espaço, identificadas na planta de ordenamento:\n\na) Áreas naturais de protecção ou enquadramento;\n\nb) Áreas mistas (produção e recreio).\n\n2 - A estrutura ecológica urbana compreende ainda as seguintes componentes:\n\na) Áreas verdes de utilização pública existentes ou que venham a constituir-se em resultado de novas intervenções;\n\nb) Conjuntos vegetais existentes no espaço público com função de ligação entre os diferentes sistemas da estrutura ecológica municipal;\n\nc) Áreas de logradouro de prédios."
+  },
+  "e6490206a8e38ff2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Regime\n\n1 - Nas áreas naturais de protecção ou enquadramento, sem prejuízo do instituído por servidões administrativas ou restrições de utilidade pública, apenas se admitem obras de construção afectas à fruição dos espaços verdes de utilização colectiva, de valorização e protecção dos recursos naturais e de minimização dos impactes ambientais provocados pelas actividades externas, excepto no que respeita às áreas de utilização recreativa e de lazer delimitadas no Plano de Ordenamento da Albufeira de Crestuma-Lever (POACL) para a foz do rio Mau, as quais se regem pelo disposto no Regulamento desse Plano.\n\n2 - Nas áreas mistas de produção e recreio é proibido o loteamento de que resulte o fraccionamento de prédios, permitindo-se o seu emparcelamento quando tenha como objectivos a actividade agrícola ou florestal ou a constituição de áreas verdes ou equipamentos de utilização colectiva, admitindo-se apenas obras de construção nas seguintes condições:\n\na) De recuperação e ampliação de edifícios existentes até 50 % da área bruta de construção preexistente;\n\nb) De colmatação de núcleos residenciais existentes, mantendo as características tipológicas dos edifícios envolventes;\n\nc) De apoio e complemento à fruição de espaços verdes de utilização colectiva e desde que a área de impermeabilização não seja superior a 10 % da área do prédio a afectar àquele fim;\n\nd) Destinadas a equipamentos de utilização colectiva, não podendo o índice de utilização ser superior a 0,25;\n\ne) Na área do parque da cidade, compreendendo o rio Cavalum e áreas contíguas, tal como delimitada na planta de ordenamento, admitem-se obras de construção destinadas a empreendimentos turísticos e ou culturais, a equipamentos públicos ou privados de utilização colectiva, bem como a actividades complementares, nomeadamente serviços administrativos, unidades comerciais e de restauração, não podendo o índice de utilização ser superior a 0,35.\n\n3 - Nas áreas verdes de utilização pública, existentes ou que venham a constituir-se, só se admitem construções de apoio à sua fruição, desde que o índice de impermeabilização não seja superior a 10 %.\n\n4 - Nas áreas afectas aos conjuntos vegetais existentes no espaço público, apenas se admitem os usos compatíveis com as infra-estruturas ou espaços públicos a que estão afectos, devendo ser mantidas as faixas arborizadas existentes ou promovida a sua arborização.\n\n5 - Nas áreas de logradouro de prédios deve ser promovida a permeabilidade do solo e a introdução de vegetação arbórea e arbustiva."
+  },
+  "4e18c4396959468e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção VI — Espaço agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Espaço agrícola"
+  },
+  "45ae6f20d28aa7c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Subsecção I — Área agrícola protegida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Área agrícola protegida"
+  },
+  "2556020fe5779e00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Caracterização e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Caracterização e regime\n\n1 - Às áreas agrícolas protegidas, tal como estão definidas na planta de ordenamento, é aplicável o disposto na legislação em vigor relativa à Reserva Agrícola Nacional (RAN).\n\n2 - Nas situações em que sejam autorizadas pela entidade competente utilizações não agrícolas de solos integrados na RAN, estabelecem-se os seguintes condicionalismos:\n\na) No caso de novas construções ou ampliação de construções preexistentes para habitação própria e permanente a que se refere a alínea c) do n.º 2 do artigo 9.º do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, desde que, cumulativamente:\n\ni) Seja comprovado pelos serviços competentes da Câmara Municipal que o proprietário é residente no concelho e que não é proprietário de outra habitação ou terreno com capacidade edificatória no concelho, devendo ser feito o registo de ónus de não alienação pelo período de 10 anos;\n\nii) A área mínima do prédio seja igual ou superior à unidade mínima de cultura, excepto nos casos de ampliação e quando esta se destinar única e exclusivamente a garantir as condições mínimas de habitabilidade;\n\niii) A área bruta de construção, incluindo a eventualmente já preexistente, não ultrapasse os 200 m2, não podendo a cércea ser superior a dois pisos ou 7 m;\n\niv) O prédio em causa seja obrigatoriamente servido por via pública e o requerente assegure todas as redes e órgãos próprios de infra-estruturas necessários ao funcionamento da intervenção;\n\nb) No caso de instalações para agro-turismo e turismo no espaço rural, admite-se a reconstrução, conservação ou alteração das edificações preexistentes e a sua ampliação em mais 50 % da área da construção preexistente, devendo a cércea não ultrapassar os dois pisos ou 7 m e a área de solo impermeabilizada pelas novas construções ou equipamentos de lazer complementares não exceder 10 % da área total da parcela.\n\n3 - Só são admitidas instalações para alojamentos de animais quando localizadas a uma distância igual ou superior a 100 m do limite de qualquer perímetro urbano."
+  },
+  "07fc967019aa45be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Subsecção II — Área agrícola complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Área agrícola complementar"
+  },
+  "504c6728d741a9bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Caracterização\n\n1 - As áreas agrícolas complementares compreendem os terrenos destinados predominantemente às actividades agrícolas e pecuárias, não sujeitas a condicionantes específicas.\n\n2 - Nestas áreas, é proibido o fraccionamento em parcelas de área inferior à superfície correspondente à unidade mínima de cultura legalmente fixada."
+  },
+  "f2c085e6d6edcceb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Condições de edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Condições de edificabilidade\n\n1 - Nestas áreas não são permitidas operações de loteamento de que resulte fraccionamento de prédios, permitindo-se apenas construções em parcelas de terreno, legalmente constituídas, nas condições dos números seguintes.\n\n2 - Admite-se a reconstrução, conservação ou alteração de edificações existentes e ainda a sua ampliação, desde que a área bruta de construção resultante não seja superior a 1,5 vezes a área bruta de construção preexistente e a cércea não ultrapasse os dois pisos ou 7 m.\n\n3 - Admite-se a construção de instalações destinadas à produção e exploração agrícola ou pecuária, desde que:\n\na) Não afectem negativamente a área envolvente sob os pontos de vista paisagístico e de salubridade; dando cumprimento no caso de alojamentos de animais, ao disposto no n.º 3 do artigo 37.º;\n\nb) Não ultrapassem os 7 m de cércea, salvo por razões de ordem técnica devidamente justificadas;\n\nc) O índice de impermeabilização não seja superior a 0,25.\n\n4 - Admite-se a construção para fins habitacionais, quando destinada ao seu proprietário ou titular do direito de exploração e trabalhadores permanentes na actividade agrícola ou pecuária e desde que a tipologia seja unifamiliar e se verifique, cumulativamente, que:\n\na) A área mínima do prédio seja igual ou superior à unidade mínima de cultura;\n\nb) A área bruta de construção, incluindo a eventualmente existente, não ultrapasse os 200 m2, não podendo a cércea ser superior a dois pisos ou 7 m;\n\nc) O prédio em causa seja obrigatoriamente servido por via pública e o requerente assegure todas as redes e órgãos próprios de infra-estruturas necessários ao funcionamento da intervenção.\n\n5 - Exceptuam-se do número anterior:\n\na) Os casos de colmatação entre construções de habitação existentes a um ou outro lado do arruamento existente que as serve e devidamente licenciadas e distantes entre si menos de 50 m, onde não é exigida área mínima de parcela nem área máxima de edificabilidade, podendo o índice de impermeabilização atingir 0,30, mantendo-se como cércea máxima os dois pisos ou 7 m;\n\nb) Os casos de habitação própria e permanente do proprietário e respectivo agregado familiar, quando este comprove, pelos serviços competentes da Câmara Municipal, ser residente no concelho e não ser proprietário de outra habitação ou terreno urbano no concelho, casos em que a área mínima do prédio exigida é de 5000 m2 e o índice de utilização máximo de 0,04, devendo ser feito o registo de ónus de não alienação pelo período de 10 anos.\n\n6 - Admitem-se construções para fins turísticos e equipamentos públicos ou privados de apoio ou fomento de actividades de recreio e lazer ou de assistência e apoio social, desde que, cumulativamente:\n\na) A área mínima do prédio seja de 10 000 m2;\n\nb) A cércea não seja superior a dois pisos, excepto para o caso de estabelecimentos hoteleiros, que são analisados caso a caso;\n\nc) O índice máximo de impermeabilização seja de 0,10.\n\n7 - Exceptuam-se do cumprimento da alínea a) do número anterior as intervenções consideradas determinantes para a concretização de estratégias de desenvolvimento do concelho e reconhecidas como de interesse público pelo município, designadamente as afectas a:\n\na) Equipamentos de utilização colectiva, empreendimentos de turismo no espaço rural e infra-estruturas;\n\nb) Projectos empresariais que, sendo susceptíveis de adequada sustentabilidade ambiental e territorial, apresentem um impacte positivo em pelo menos três dos seguintes domínios:\n\ni) Criação de emprego qualificado e com representatividade, em número de postos de trabalho, ao nível do concelho;\n\nii) Volume de investimento global igual ou superior a 5 milhões de euros;\n\niii) Efeitos multiplicativos no desenvolvimento económico concelhio;\n\niv) Inovação de bens/serviços, ou utilização/criação de novas tecnologias.\n\n8 - Sem prejuízo da legislação em vigor, admite-se, excepcionalmente, o licenciamento de pedreiras quando o recurso existente seja de inegável valor económico e não seja possível a sua exploração nas áreas delimitadas para o efeito no Plano e desde que:\n\na) O acesso existente ou a criar permita o suporte das novas cargas viárias geradas pela actividade a instalar, sem prejuízo da coexistência pacífica com outras funções e actividades instaladas na envolvência de todo o percurso do acesso a utilizar;\n\nb) A exploração não se traduza em impactes ambientais negativos nas actividades próximas e na paisagem, devendo impedir-se o licenciamento de pedreiras em áreas proeminentes e de clara visualização a partir do território exterior;\n\nc) As zonas de defesa à exploração de massas minerais, correspondentes às áreas vedadas por razões de segurança, tenham uma largura da bordadura de cada escavação:\n\ni) Nunca inferior a 50 m em relação a prédios rústicos vizinhos, caminhos públicos, linhas férreas, condutas de fluidos, linhas eléctricas e de telecomunicações e postos eléctricos de transformação ou de telecomunicação;\n\nii) Nunca inferior a 100 m em relação a vias da rede nacional, estradas e caminhos municipais e património classificado, em vias de classificação e inventariados, não incluído em perímetro urbano;\n\niii) Nunca inferior a 150 m em relação a habitações, escolas, hospitais ou outras edificações incluídas em espaços urbanizados ou de urbanização programada.\n\n9 - As explorações de massas minerais existentes e licenciadas mantêm os direitos adquiridos, admitindo-se a sua ampliação desde que não exceda 20 % da área licenciada e não conflituem com interesses de terceiros."
+  },
+  "945b64f1ca5574ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção VII — Espaço florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Espaço florestal"
+  },
+  "9de1ba16ab331293": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Subsecção 1 — Área florestal de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção 1 — Área florestal de protecção"
+  },
+  "a3b41caef0ac2f93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Caracterização e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Caracterização e regime\n\n1 - Nestas áreas não são permitidos movimentos de terra que conduzam à alteração do relevo natural e das camadas superficiais do solo, excepto no que respeita às acções correspondentes ao constante do n.º 5 deste artigo, bem como quando se trate de obras de remodelação de terrenos cujo objectivo seja a recuperação paisagística ou valorização ambiental.\n\n2 - São permitidas acções de repovoamento florestal, a submeter ao parecer prévio da Direcção-Geral de Recursos Florestais (DGRF), desde que não sejam degradantes dos recursos a proteger, nomeadamente no que respeita à utilização de técnicas culturais.\n\n3 - Quando incluídas nas zonas envolventes das albufeiras do Douro e Tâmega, todas as intervenções no coberto florestal ficam sujeitas a parecer da DGF, sendo proibidos o derrube de árvores e a destruição da vegetação, excepto em acções de exploração devidamente licenciadas.\n\n4 - As novas arborizações ficam sujeitas ao seguinte regime transitório, até aprovação dos planos regionais de ordenamento florestal (PROF):\n\na) A plantação de espécies arbóreas, nomeadamente Eucaliptus sp., só é permitida em povoamentos mistos, com representatividade inferior a 20 %, não devendo constituir manchas contínuas superiores a 5000 m2 e com o afastamento mínimo de 200 m entre duas manchas consecutivas;\n\nb) Para povoamentos de pinheiro-bravo devem privilegiar-se as soluções de composição mista com folhosas e ser limitadas as parcelas de exploração contínua a superfícies de 50 000 m2;\n\nc) Nas novas plantações florestais devem privilegiar-se as opções por povoamentos mistos constituídos por mais de duas espécies arbóreas e com dominância de folhosas tradicionais da flora da sub-região em causa;\n\nd) Os projectos de exploração florestal devem privilegiar a opção por assentamento de cortes sucessivos, perpendiculares à linha de maior declive ou segundo as curvas de nível.\n\n5 - Admitem-se as obras inerentes a construções integradas em empreendimentos turísticos, recreativos ou de valorização ambiental desde que se verifique, cumulativamente, o seguinte:\n\na) A destruição do coberto vegetal se limite ao estritamente necessário à implantação das construções e demais equipamentos;\n\nb) A área mínima da parcela seja de 40 000 m2;\n\nc) A cércea não seja superior a dois pisos, excepto para o caso de estabelecimentos hoteleiros, que são analisados caso a caso;\n\nd) O índice de utilização não exceda 0,01 da área total da parcela.\n\n6 - Exceptuam-se do número anterior as intervenções em área delimitada no POACL como área de utilização recreativa e de lazer, as quais se regem pelo disposto nesse Plano.\n\n7 - Nestas áreas não se admite o licenciamento de pedreiras."
+  },
+  "99d07d7eb56b3ba9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Subsecção II — Área florestal de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Área florestal de produção"
+  },
+  "d099bf58e29e1d9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Caracterização\n\nAs áreas florestais correspondem a terrenos predominantemente de uso e ou vocação florestal não sujeitas a condicionantes específicas."
+  },
+  "879f4aa0f8ea7b0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Regime de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Regime de exploração\n\n1 - Nestas áreas não são permitidas práticas de destruição vegetal, nem movimentos de terra que não tenham fins de exploração vegetal, de fomento da silvo-pastorícia ou de exploração dos recursos cinegéticos, excepto no que respeita às acções correspondentes ao constante no artigo seguinte.\n\n2 - As acções de arborização e rearborização com recurso a espécies florestais de rápido crescimento - espécies dos géneros Eucalyptus sp., vulgo eucalipto, Populus sp., vulgo choupos -, exploradas em revoluções curtas, cortes rasos sucessivos com intervalos inferiores a 16 anos, e que incidem sobre áreas superiores a 50 ha, ficam condicionadas a parecer prévio da DGRF.\n\n3 - Sempre que na área territorial do município se verifique um desenvolvimento espacial de espécies de rápido crescimento exploradas em revoluções curtas, que exceda 25 % da respectiva superfície, devem todas as acções de arborização e rearborização com recurso a essas espécies ser objecto de parecer da DGRF, independentemente da sua dimensão."
+  },
+  "98810292bb628506": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Regime de edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Regime de edificabilidade\n\n1 - Nestas áreas, o regime de edificabilidade restringe-se aos seguintes casos:\n\na) Obras de ampliação, reconstrução, alteração e conservação de edifícios existentes, não podendo o acréscimo da área bruta de construção ser superior a 25 % da preexistente;\n\nb) Obras de construção de infra-estruturas e instalações de apoio à gestão das áreas em exploração devidamente autorizados pelas entidades de tutela, desde que a área bruta de construção não seja superior à aplicação de um índice de utilização de 0,01 em relação à área total de exploração;\n\nc) Construções destinadas a equipamentos e estruturas de aproveitamento recreativo e de apoio a projectos de animação ambiental, ou outras vertentes de aproveitamento dos espaços florestais compatíveis em regime de uso múltiplo;\n\nd) Construção de equipamentos ou infra-estruturas não lineares de interesse público, reconhecidos pelo município como determinantes para a concretização de estratégias de desenvolvimento do município;\n\ne) Construções destinadas a empreendimentos turísticos, recreativos ou de valorização ambiental, desde que cumpridas as disposições do n.º 5 do artigo 40.º, exceptuando-se do cumprimento da alínea b) as modalidades de turismo no espaço rural, onde não é exigida área mínima de parcela.\n\n2 - Em qualquer das situações referidas nos números anteriores, a cércea dos novos edifícios ou da ampliação de edifícios existentes não pode ser superior a 7 m, excepto a inerente a instalações técnicas especiais de prevenção a incêndios, de valorização energética e de aproveitamento de recursos florestais.\n\n3 - Admite-se o licenciamento de pedreiras e a ampliação de pedreiras existentes desde que cumpram o disposto nos n.os 7 e 8 do artigo 39.º"
+  },
+  "67e253cd5db4fdc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção VIII — Espaço para indústria extractiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Espaço para indústria extractiva"
+  },
+  "411be17dbcaa376a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Caracterização\n\n1 - Nos espaços pertencentes a esta classe, o solo destina-se à instalação de indústrias extractivas de granito, admitindo-se a instalação dos respectivos anexos e estabelecimentos industriais que se prendam com a actividade transformadora afim.\n\n2 - A classe de espaço para indústrias extractivas compreende as áreas de exploração consolidadas e complementares, englobando as massas graníticas cujo aproveitamento se considera de especial interesse para a economia regional, compreendendo unidades já em laboração."
+  },
+  "70f0aba3b15192f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Regime\n\n1 - Nestes espaços são permitidas as instalações inerentes à actividade de extracção e transformação de granitos, permitindo-se instalações para serviços e equipamentos de apoio a estas actividades, sendo expressamente interdita a edificação para fins habitacionais.\n\n2 - As áreas englobadas nestes espaços e que não estão em exploração ou ocupadas pelas instalações referidas no n.º 1 deste artigo mantêm o uso florestal ou agrícola."
+  },
+  "a32ea9499b6d56dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção IX — Espaço de uso múltiplo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IX — Espaço de uso múltiplo"
+  },
+  "877d4fbe19bbec01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Áreas de equipamentos estruturantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Áreas de equipamentos estruturantes\n\n1 - As áreas de equipamentos estruturantes em solo rural destinam-se predominantemente à instalação de equipamentos ou infra-estruturas de interesse colectivo ou que se revelem de interesse municipal.\n\n2 - Os usos específicos e inerentes a estas áreas são os definidos na planta de ordenamento, podendo apenas ser alterados desde que se mantenha a finalidade genérica da sua ocupação com equipamento de utilização colectiva ou de interesse municipal, sem agravamento das condições ambientais e urbanísticas existentes.\n\n3 - Nestas áreas o índice de utilização não pode ser superior a 0,2, devendo assegurar-se a correcta integração urbanística e paisagística dos edifícios na envolvente.\n\n4 - Constituem excepção aos números anteriores as áreas delimitadas no POACL como áreas com vocação turística, respectivamente, a Quinta de Santa Cruz e a Quinta de Ufe, regendo-se pelo disposto no regulamento do referido Plano."
+  },
+  "7816278d35fd3c98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção X — Espaço cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção X — Espaço cultural"
+  },
+  "ce8ad387b0cb9a7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Áreas de património arqueológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Áreas de património arqueológico\n\nNestas áreas não são permitidas quaisquer acções que contribuam para a degradação do património existente e desvirtualização da sua envolvente, nomeadamente movimentos de terras ou alteração da topografia do terreno, ficando qualquer uso ou actividade que se pretenda levar a efeito sujeitas a parecer dos serviços competentes da autarquia e da entidade de tutela."
+  },
+  "6dc029c0b6b5f772": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção XI — Estrutura ecológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção XI — Estrutura ecológica"
+  },
+  "39a5a16e54da63d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Caracterização\n\n1 - A estrutura ecológica municipal incluída em solo rural destina-se a assegurar as funções dos sistemas biológicos e o controlo dos escoamentos hídricos e atmosféricos, sendo constituída por:\n\na) Ecossistemas integrados na Reserva Ecológica Nacional;\n\nb) Solos mais sensíveis e férteis da Reserva Agrícola Nacional, essencialmente solos aluvionares;\n\nc) Zonas florestais de protecção;\n\nd) Corredores verdes de conexão entre os sistemas anteriores.\n\n2 - Incluem-se ainda na estrutura ecológica, como complemento das componentes anteriores, os bens patrimoniais, essencialmente as áreas de interesse arqueológico, que, pelo seu valor cultural e localização, sejam elementos valorizadores do espaço rural e assegurem o continuum dos sistemas referidos no n.º 1."
+  },
+  "081968669ba54297": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Regime\n\nNas áreas integradas na estrutura ecológica municipal em solo rural, os usos e edificabilidade admitidas são os definidos para a categoria de espaço em causa, condicionados pelas demais disposições que o presente Regulamento e a lei impõem, não sendo permitido:\n\na) Toda e qualquer alteração da topografia existente ou do coberto vegetal que ponha em causa os bens a salvaguardar, identificados no artigo anterior;\n\nb) A construção para fins habitacionais, excepto quando destinadas a agricultores das explorações agrícolas ou de apoio a fins turísticos;\n\nc) A exploração de pedreiras."
+  },
+  "2a32a4e0bebba2f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção XII — Área de potencial para a exploração de minérios metálicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção XII — Área de potencial para a exploração de minérios metálicos"
+  },
+  "a8235f7da83a9b9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Espaço de exploração geológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Espaço de exploração geológica\n\n1 - É estabelecido um perímetro correspondente a área potencial para exploração de minérios metálicos (Au, Sb, Zn, Pb e Ag), face à probabilidade de ocorrência destes minérios, a qual deve ser alvo de estudo e prospecção para determinação do seu valor.\n\n2 - Caso seja reconhecido o interesse económico da exploração dos minérios metálicos referidos no número anterior, devem ser estabelecidos espaços de exploração geológica por alteração do PDM, de forma a salvaguardar a exploração dos minérios em presença."
+  },
+  "949e17be097bb234": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção XIII — Áreas de protecção e enquadramento ao património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção XIII — Áreas de protecção e enquadramento ao património"
+  },
+  "4e92feab79df0353": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Bens patrimoniais imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Bens patrimoniais imóveis\n\n1 - Os bens patrimoniais imóveis correspondem a áreas de interesse arqueológico e a edifícios que, pelo seu interesse histórico, arquitectónico, etnográfico ou ambiental, devem ser alvo de medidas de protecção e promoção, estando devidamente identificadas na planta do património.\n\n2 - A estes imóveis corresponde a área de protecção legalmente estabelecida para os imóveis classificados ou em vias de classificação, definindo-se para o restante património áreas de salvaguarda específicas ou de 50 m, de acordo com a planta de ordenamento.\n\n3 - Nestes imóveis e nas áreas de protecção respectivas, sem prejuízo do licenciamento ou autorização que por lei compete à Câmara Municipal, a aprovação de obras de construção e de quaisquer trabalhos que alterem a topografia, os alinhamentos e as cérceas e, em geral, a distribuição de volumes e coberturas ou o revestimento exterior dos edifícios fica sujeita ao parecer prévio da comissão municipal do património cultural e paisagístico, criada por despacho da Câmara Municipal, sem prejuízo do parecer prévio do organismo de tutela do património, no caso dos imóveis classificados e em vias de classificação.\n\n4 - A demolição de imóveis de interesse patrimonial só é permitida, sem prejuízo do disposto na lei geral para imóveis classificados ou em vias de classificação, quando seja considerada como necessária à execução de equipamentos ou infra-estruturas da competência da autarquia ou da administração central, casos em que a demolição é objecto de discussão pública promovida nos termos dos n.os 3 e 4 do artigo 22.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, com a nova redacção dada pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Junho.\n\n5 - A instrução de processos de operações urbanísticas a sujeitar a licença ou autorização que respeitem a imóveis de interesse patrimonial devem, sem prejuízo do disposto na lei no que respeita aos imóveis classificados ou em vias de classificação, conter a descrição histórica e arqueológica do imóvel em causa e propor as respectivas medidas cautelares e de minimização da intervenção."
+  },
+  "e187443232855322": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção XIV — Zonas inundáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção XIV — Zonas inundáveis"
+  },
+  "bec30d0a9da1e61f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Caracterização\n\nConsideram-se como zonas inundáveis as áreas atingidas pela maior cheia conhecida de um curso de água e como tal delimitada na planta de ordenamento."
+  },
+  "2b7fa24e44715353": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Regime\n\nAs intervenções nestas zonas devem subordinar-se às seguintes condições:\n\na) Só é admitida a construção de novos edifícios em situações de colmatação ou em substituição de outros existentes, excepto quando destinados a equipamentos urbanos reconhecidos como de interesse público pelo município, em que a edificabilidade se rege pelo disposto para a categoria de espaço em causa;\n\nb) Não são admitidas licenças de utilização para habitação cuja cota de piso não seja superior à cota local da maior cheia conhecida;\n\nc) Em todos os espaços não afectos a edifícios só são admitidos pavimentos que garantam a permeabilidade do solo e devendo ser munidos dos competentes sistemas de drenagem de águas pluviais."
+  },
+  "124f91b547d38886": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção XV — Espaços-canais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção XV — Espaços-canais"
+  },
+  "0aff0a6f6b23ffe2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Caracterização e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Caracterização e regime\n\n1 - Os espaços-canais correspondem aos corredores de passagem das infra-estruturas e áreas técnicas adjacentes complementares, existentes ou previstos, estando definidos na planta de ordenamento os relativos às redes ferro e rodoviária.\n\n2 - Conquanto não identificados na planta de ordenamento, consideraram-se como incluídos nas áreas técnicas adjacentes aos espaços-canais rodoviários os postos de abastecimento de combustível, processando-se o seu licenciamento de acordo com a lei aplicável e condicionado aos valores do local.\n\n3 - Nas faixas de reserva e protecção dos espaços-canais ferro e rodoviário observam-se as disposições estabelecidas para a classe e categoria de espaço definida na planta de ordenamento, sem prejuízo da observância dos condicionamentos impostos pela lei geral, nomeadamente em matéria de zona non aedificandi.\n\n4 - É criada uma área de salvaguarda da duplicação da linha do Douro, no troço Caíde-Marco, na qual, sem prejuízo das disposições que vierem a ser consagradas com a publicação da servidão, qualquer intervenção deve recolher o parecer prévio da Rede Ferroviária Nacional (REFER, E. P.).\n\n5 - No interior dos perímetros urbanos, as faixas non aedificandi de protecção à rede viária são definidas nos planos municipais de ordenamento do território de ordem inferior ou através da definição de alinhamentos pela Câmara Municipal.\n\n6 - Às vias das redes regional e municipal, previstas ou propostas pelo presente Plano e enquanto não estiver aprovado o respectivo projecto de execução, aplicam-se as seguintes faixas de protecção non aedificandi, para um e outro lado do eixo da via:\n\na) Rede regional - 75 m;\n\nb) Rede municipal principal - 50 m,\n\nc) Outras vias da rede municipal - 30 m.\n\n7 - Até à publicação da planta parcelar do IC 35, é constituída uma faixa de protecção non aedificandi, a um e outro lado do eixo, de 200 m.\n\n8 - Com a publicação da planta parcelar referida no número anterior ou com a aprovação do estudo do traçado a implementar, a faixa de protecção non aedificandi passa a ser a definida na legislação específica sobre esta matéria."
+  },
+  "341f3bed42f87033": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo IV — Áreas para espaços verdes e de utilização colectiva e equipamentos de utilização colectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Áreas para espaços verdes e de utilização colectiva e equipamentos de utilização colectiva"
+  },
+  "63b63fd5d7dcf9a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Parâmetros de dimensionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Parâmetros de dimensionamento\n\n1 - Os parâmetros para o dimensionamento das áreas destinadas a espaços verdes e de utilização colectiva e equipamentos de utilização colectiva, em operações de loteamento ou obras de edificação que determinem impactes semelhantes a uma operação de loteamento, são os definidos na [Portaria n.º 1136/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1136-2001-610032), de 25 de Setembro.\n\n2 - Exceptuam-se do número anterior as operações de loteamento correspondentes a acções de emparcelamento."
+  },
+  "7c0bebb486cbc016": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Cedências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Cedências\n\n1 - As parcelas destinadas a espaços verdes e de utilização colectiva e equipamentos de utilização colectiva resultantes do disposto no artigo anterior, passam a integrar o domínio público municipal através da sua cedência gratuita ao município.\n\n2 - O município pode prescindir da integração no domínio público, e consequente cedência da totalidade ou de parte das parcelas referidas no número anterior, sempre que considere que tal é desnecessário ou inconveniente face às condições urbanísticas do local, nomeadamente quanto à integração harmoniosa na envolvente, à dimensão da parcela e à sua dotação com espaços verdes e ou equipamentos públicos, havendo, nesse caso, lugar ao pagamento de uma compensação definida em regulamento municipal.\n\n3 - As parcelas de espaços verdes e de utilização colectiva a ceder ao domínio público municipal são tais que, pelo menos, 75 % da área total correspondente constitua uma parcela única não descontínua, não sendo de admitir parcelas para aquele fim com área inferior a 250 m2 ou 500 m2, que não permitam, respectivamente, a inscrição de um quadrado com 12 m ou 16 m de lado, consoante se trate de uma operação destinada exclusivamente a habitação unifamiliar ou destinada a outras tipologias de habitação e ou outros usos.\n\n4 - As áreas destinadas a espaços verdes e de utilização colectiva e a equipamentos de utilização colectiva a integrar no domínio público municipal possuem acesso directo a espaço ou via pública e a sua localização é tal que contribua efectivamente para a qualificação do espaço urbano onde se integram e para o usufruto da população instalada ou a instalar no local.\n\n5 - Nas áreas a sujeitar à elaboração de planos de pormenor ou incluídas em unidades de execução não integradas em planos de pormenor, a cedência para o domínio público municipal de parcelas destinadas a espaços verdes e de utilização colectiva, equipamentos de utilização colectiva e infra-estruturas viárias compreende:\n\na) As cedências gerais propostas pelo Plano destinadas a zonas verdes públicas, equipamentos e vias;\n\nb) As cedências locais que servem directamente o conjunto a edificar, de acordo com o resultante do desenho urbano."
+  },
+  "ba1a18e2edcf0ce0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo V — Discussão pública em operações urbanísticas de significativa relevância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Discussão pública em operações urbanísticas de significativa relevância"
+  },
+  "c6b7e5d916cfdebb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Discussão pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Discussão pública\n\nNos termos do n.º 5 do artigo 22.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, com a nova redacção dada pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Junho, são sujeitas a prévia discussão pública as obras de edificação não integradas em operações de loteamento e que correspondam a uma das seguintes situações:\n\na) Área do terreno objecto de intervenção superior a 4 ha;\n\nb) Número de fogos ou unidades independentes superior a 25;\n\nc) Área bruta de construção superior a 5000 m2;\n\nd) Acréscimo de população resultante da operação superior a 10 % da população do perímetro urbano da freguesia em que se insere a pretensão, referente ao último censo efectuado;\n\ne) Seja considerada a instalação de qualquer conjunto comercial;\n\nf) Integrem estabelecimentos comerciais a retalho alimentar ou misto com uma área de venda contínua, de comércio a retalho alimentar, igual ou superior a 2000 m2;\n\ng) Integrem estabelecimentos comerciais a retalho não alimentar com uma área de venda contínua igual ou superior a 4000 m2."
+  },
+  "fcce35191e108c31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo VI — Execução e programação do Plano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Execução e programação do Plano"
+  },
+  "c34656882c2fe8bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Execução\n\n1 - A execução do Plano processa-se através da concretização de acções e operações urbanísticas, de acordo com o presente Regulamento, enquadradas preferencialmente ou nos casos em que o Plano o determinou como obrigatório, por planos de urbanização ou planos de pormenor.\n\n2 - A Câmara Municipal pode condicionar ainda a concretização das operações urbanísticas referidas no número anterior à prévia realização de operações de loteamento, podendo estas envolver a associação de proprietários e, eventualmente, a Câmara Municipal, quando esta considere desejável proceder à reestruturação cadastral da propriedade para o aproveitamento do solo, a melhoria formal e funcional do espaço urbano ou a concretização do Plano."
+  },
+  "77e50e45529676f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Programação\n\n1 - Considera-se como prioritária a elaboração dos Plano de Urbanização da Cidade de Penafiel e de Pinheiro, correspondentes às UOPG n.os 5 e 28.\n\n2 - Sem prejuízo do número anterior, a programação de execução do Plano é estabelecida pela Câmara Municipal nos seus programas de gestão urbanística anuais, devendo privilegiar as seguintes intervenções:\n\na) As catalisadoras do desenvolvimento do concelho, que contribuem para a concretização dos objectivos do Plano e possuem carácter estruturante no ordenamento do território;\n\nb) As de consolidação e qualificação do espaço urbanizado;\n\nc) As de protecção e valorização da estrutura ecológica;\n\nd) As de expansão dos tecidos existentes quando incorporem acções necessárias à qualificação e funcionamento da cidade ou se considerem como necessárias à oferta de solo urbanizado, quer em virtude da procura verificada, quer por razões de controlo do mercado de solos."
+  },
+  "6841135e4fdb0551": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Critérios de perequação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Critérios de perequação\n\n1 - O princípio de perequação compensatória a que se refere o artigo 135.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, deve ser aplicado nas seguintes situações:\n\na) Nas operações urbanísticas a levar a efeito nas unidades operativas de planeamento e gestão (UOPG), excepto nas correspondentes a plano de pormenor de salvaguarda de zona com valor histórico ou patrimonial;\n\nb) Nas áreas a sujeitar a plano de pormenor ou nas unidades de execução que venham a ser delimitadas de acordo com o artigo 120.º do decreto-lei referido, mesmo que não incluídas em UOPG estabelecida pelo Plano.\n\n2 - A Câmara Municipal pode ainda, e tendo como finalidade a obtenção de meios financeiros adicionais para a realização de infra-estruturas urbanísticas e para o pagamento de indemnizações por expropriação, instituir um mecanismo perequativo para o solo urbano a integrar na taxa municipal de urbanização, função do índice de construção admitido para o prédio e das cedências gerais efectivadas, tendo como referência o índice médio e a cedência média da zona urbana onde o prédio se insere."
+  },
+  "c9c652513d2b45a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Mecanismos de perequação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Mecanismos de perequação\n\n1 - Os mecanismos de perequação a aplicar nos instrumentos de planeamento e de execução previstos nas UOPG e unidades de execução referidas no n.º 1 do artigo anterior são os definidos nas alíneas a) e b) do artigo 138.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, nomeadamente o índice médio de utilização e a cedência média.\n\n2 - O índice médio de utilização para as UOPG a que se refere a alínea a) do n.º 1 do artigo anterior é o estabelecido no capítulo seguinte e em que a cedência média é a resultante da ocupação definida pelos instrumentos de planeamento ou de execução a levar a efeito, tendo presente os conteúdos programáticos estabelecidos no capítulo seguinte.\n\n3 - Nas áreas a sujeitar a UOPG ou nas unidades de execução a que se refere a alínea b) do n.º 1 do artigo anterior, o índice médio de utilização e a cedência média são os resultantes da ocupação estabelecida de acordo com a planta de ordenamento e o presente Regulamento.\n\n4 - Nas situações em que ocorrem diferentes usos ou tipologias, pode a edificabilidade ser afectada de coeficiente de homogeneização, função da relação entre o valor do custo de construção e o valor de venda verificados na área geográfica em apreço."
+  },
+  "4a6cba8ccfc5c18c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Aplicação\n\n1 - É fixado, para cada um dos prédios abrangidos pelas UOPG e unidades de execução definidas no artigo 64.º, um direito abstracto de construir dado pelo produto do índice médio de construção pela área do respectivo prédio, que se designa por edificabilidade média.\n\n2 - Nas áreas incluídas em RAN, em REN ou, simultaneamente, em RAN e REN e para efeitos perequativos, face à sua vinculação situacional, a edificabilidade média é de, respectivamente, 40 %, 30 % e 20 % da calculada de acordo com o número anterior.\n\n3 - A edificabilidade de cada prédio é a estabelecida pelos estudos urbanísticos eficazes a elaborar no âmbito das UOPG ou unidades de execução, tendo como referência o estabelecido na planta de ordenamento e nos conteúdos programáticos respectivos do capítulo seguinte.\n\n4 - Quando a edificabilidade do prédio for superior à edificabilidade média, o proprietário deve ceder para o domínio privado do município a área de terreno com a possibilidade construtiva em excesso, concentrada num ou mais prédios.\n\n5 - Quando a edificabilidade do prédio for inferior à edificabilidade média, o proprietário é compensado tal como dispõe o n.º 6 do artigo 139.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro.\n\n6 - Em alternativa às medidas de compensação estabelecidas nos n.os 4 e 5 anteriores, é admitida a compra e venda da edificabilidade de acordo com o artigo 140.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, desde que realizada na área abrangida pela UOPG, plano de pormenor ou unidade de execução em causa.\n\n7 - Quando o proprietário ou promotor, podendo realizar a edificabilidade média no seu prédio, não o queira fazer, não há lugar à compensação a que se refere o n.º 5 do presente artigo.\n\n8 - Devem ser cedidas ao município as parcelas de terrenos destinadas a espaços verdes e equipamentos de utilização colectiva e vias propostas no Plano.\n\n9 - Quando a área de cedência efectiva for superior ou inferior à cedência média, deve verificar-se a compensação nos termos dos n.os 4 e 5 do artigo 141.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro."
+  },
+  "56c9fe3de4db41a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo VII — Unidades operativas de planeamento e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Unidades operativas de planeamento e gestão"
+  },
+  "2b71645b31aa7a97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Definição\n\n1 - Entende-se por unidade operativa de planeamento e gestão (UOPG) a zona urbana correspondente a um subsistema de ordenamento urbanístico, tendo por objectivo a organização espacial do território ou a concepção da forma de ocupação do espaço urbano e a definição das regras para a urbanização e a edificação.\n\n2 - As unidades operativas de planeamento e gestão encontram-se delimitadas na planta de ordenamento, podendo ser reajustadas nos seus limites por razões de cadastro de propriedade ou quando tal for justificado em sede de plano de urbanização ou plano de pormenor.\n\n3 - O disposto no número anterior não impede a Câmara Municipal de deliberar a elaboração de planos municipais de ordenamento do território para outras áreas do concelho."
+  },
+  "7a9439e79046e54e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Conteúdos programáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Conteúdos programáticos\n\nPara as unidades operativas de planeamento e gestão identificadas na planta de ordenamento, estabelecem-se as seguintes regras e conteúdos programáticos:\n\n1) UOPG de Urrô - corresponde à área de intervenção do Plano de Urbanização de Urrô, com cerca de 253,50 ha e ratificado pela Resolução de Conselho de Ministros n.º 11/99, publicada no Diário da República de 6 de Março de 1999, o qual é alterado pelo presente Plano apenas no que se refere ao seguinte:\n\na) Delimitação do solo urbano e do solo rural, nomeadamente resultante da aferição da Reserva Agrícola Nacional;\n\nb) Afectação da margem do rio Sousa a pista de pesca desportiva;\n\nc) Definição de áreas de urbanização programada correspondentes às áreas residenciais de expansão, em resultado da entrada em vigor do novo regime jurídico dos instrumentos de gestão territorial;\n\nd) Actualização da rede viária;\n\n2) UOPG de Silvarelhos:\n\na) Objectivos:\n\nAbrange uma área da ordem dos 11,60 ha e destina-se, dominantemente, a habitação unifamiliar e colectiva, incluindo comércio e serviços complementares;\n\nDevem ser viabilizadas as ligações viárias propostas no Plano;\n\nDevem ser disponibilizadas áreas para espaços verdes e equipamentos de utilização colectiva e serviços, correspondentes a 30 % da área da UOPG;\n\nb) Parâmetros - o índice médio de utilização é de 0,25;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas de operação de loteamento ou da elaboração de plano de pormenor, abrangendo a totalidade da UOPG;\n\n3) UOPG de Guilhufe:\n\na) Objectivos:\n\nAbrange uma área da ordem dos 10,80 ha e destina-se, dominantemente, a habitação, incluindo comércio e serviços complementares;\n\nDevem ser asseguradas as ligações viárias propostas no Plano;\n\nDeve ser integrada em espaço verde público a área arborizada existente no seu limite nascente, na transição com o perímetro urbano da cidade de Penafiel, na envolvência do nó viário proposto no Plano;\n\nb) Parâmetros - o índice médio de utilização é de 0,4;\n\nc) Forma de execução - a urbanização e a edificação processam-se no âmbito de unidades de execução por compensação ou cooperação ou operações de loteamento, eventualmente precedidas de plano de pormenor;\n\n4) UOP da expansão sudoeste da cidade:\n\na) Objectivos:\n\nAbrange uma área com cerca de 20,70 ha e destina-se, predominantemente, a habitação colectiva, incluindo comércio e serviços complementares;\n\nPretende-se a consolidação da frente urbana da EN 15, garantindo, a partir desta, permeabilidade visual sobre a unidade em causa, e a mitigação do atravessamento pelo IC 35;\n\nDevem-se assegurar ligações pedonais inseridas em estrutura verde contínua que estabeleçam a relação com o parque urbano do Cavalum;\n\nb) Parâmetros - o índice médio de utilização é de 0,50;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas de plano de pormenor ou realizar-se no âmbito de uma unidade de execução por cooperação;\n\n5) UOPG da cidade de Penafiel:\n\nAbrange uma área da ordem dos 598 ha e corresponde à área da cidade a sujeitar a plano de urbanização;\n\nEnquanto não estiver publicado o plano de urbanização, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;\n\n6) UOPG da expansão sudeste da cidade:\n\na) Objectivos:\n\nAbrange uma área com cerca de 27,70 ha e destina-se à expansão residencial da cidade no sentido nascente;\n\nDevem ser criados arruamentos que estabeleçam a ligação viária entre a EN 15 e a variante nascente;\n\nDeve ser afecta a espaço verde público a área com declive acentuado e abrangendo afloramentos rochosos que se localiza na parte sul desta UOPG, a qual deve ainda ser integrada no sistema de espaço público contínuo que estruture esta UOPG, na sua relação entre a cidade à cota alta e o parque do Cavalum;\n\nA edificação deve acautelar a salvaguarda de canais visuais sobre o vale, a partir das zonas de cota superior;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,40;\n\nA cércea dominante é de dois pisos, admitindo-se, por questões de composição urbana e sobretudo na transição das áreas já edificadas com as a edificar, cércea não superior a quatro pisos;\n\nA cedência para espaços verdes ou equipamentos de utilização colectiva é, no mínimo, de 25 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas de plano de pormenor ou realizar-se no âmbito de unidades de execução por compensação ou cooperação;\n\n7) UOPG da Quinta de Puços:\n\na) Objectivos:\n\nAbrange uma área com cerca de 20,30 ha e destina-se, dominantemente, a habitação unifamiliar e colectiva, incluindo comércio e serviços;\n\nDeve disponibilizar para o domínio público a área verde de protecção e enquadramento identificada no Plano;\n\nDeve ser definido um percurso no limite com a área consolidada da cidade por norte, que permita, simultaneamente, o acesso a parques de estacionamento a definir como apoio ao centro histórico;\n\nDevem ser definidas ligações viárias entre a cidade e a variante do Cavalum;\n\nA edificação deve acautelar a salvaguarda de canais visuais sobre o vale do Cavalum, a partir das zonas de cota superior;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,40. A cércea dos edifícios deve permitir a leitura do perfil da cidade consolidada;\n\nA cedência para espaços verdes ou equipamentos de utilização colectiva é, no mínimo, de 25 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas de plano de pormenor ou realizar-se no âmbito de unidades de execução por compensação ou cooperação;\n\n8) UOPG do centro histórico:\n\nCom uma área da ordem dos 28,10 ha, esta UOPG deve ser alvo de um plano de pormenor de salvaguarda do seu património;\n\nPretende-se ainda a reorganização da circulação automóvel e o acréscimo e requalificação do espaço público pedonal;\n\nDevem ser criados programas que assegurem a recuperação, do património edificado e que dinamizem a revitalização social e económica desta área;\n\nEnquanto não estiver em vigor o referido plano de pormenor, qualquer intervenção rege-se pelo presente Regulamento;\n\n9) UOPG de expansão norte da cidade:\n\na) Objectivos:\n\nAbrange uma área na ordem dos 14 ha e destina-se à expansão residencial da cidade no sentido norte;\n\nDeve ser viabilizada a via prevista no Plano e que estabelece a ligação da variante nascente da cidade à nova via proposta a norte da A 4;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,35;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nA tipologia habitacional é dominantemente de moradias unifamiliares de dois pisos;\n\nc) Forma de execução:\n\nA urbanização e a edificação devem ser precedida de plano de pormenor, que define o sistema de execução a adoptar nas unidades de execução que o plano vier a definir;\n\nSe decorridos cinco anos não estiver publicado qualquer plano referido anteriormente, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;\n\n10) UOPG da zona empresarial/industrial n.º 2:\n\na) Objectivos:\n\nCom uma área da ordem dos 65,30 ha, pretende-se a expansão do uso empresarial/industrial da zona industrial já abrangida por plano de pormenor eficaz, a revogar;\n\nDeve ser viabilizada a via proposta no Plano e integrada na variante norte à cidade;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,50;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação a que se refere a alínea a) deve ser precedida de operações de loteamento, excepto nas situações de parcelas servidas por arruamento público e já fomentadas para a edificação imediata;\n\n11) UOPG da estação:\n\na) Objectivos:\n\nCom uma área da ordem dos 20,90 ha, destina-se à instalação de equipamentos culturais, desportivos e de lazer, bem como de um conjunto comercial, de forma a complementar a deslocalização de estruturas desportivas instaladas na cidade;\n\nComo forma de vivificação permanente desta área, e tendo presente a potenciação conferida pela acessibilidade rodo e ferroviária, admitem-se ainda outros usos, tais como as actividades habitacionais, serviços e empreendimentos turísticos;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,50;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 35 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas de operações de loteamento, integradas ou não em unidades de execução, eventualmente enquadradas por plano de pormenor;\n\n12) UOPG de Novelas:\n\nAbrange uma área com cerca de 101,90 ha e corresponde à área da freguesia de Novelas a sujeitar a plano de urbanização;\n\nEnquanto não estiver publicado o referido plano de urbanização, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;\n\n13) UOPG da expansão norte de Novelas:\n\na) Objectivos:\n\nAbrange uma área com cerca de 9,30 ha e destina-se à expansão residencial de Novelas no sentido norte, até à fronteira com o concelho de Paredes;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,35;\n\nA cedência para espaços verdes ou equipamentos de utilização colectiva é, no mínimo, de 25 % da área total da UOPG;\n\nA tipologia de habitação é, dominantemente, de moradia unifamiliar com dois pisos, admitindo-se habitação colectiva até três pisos, com funções complementares de comércio e serviços, em núcleo que estabeleça uma pequena centralidade local;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas de operações de loteamentos integradas em uma ou duas unidades de execução, eventualmente enquadradas por plano de pormenor;\n\n14) UOPG da zona empresarial/industrial da Quinta da Judite:\n\na) Objectivos:\n\nAbrange uma área da ordem dos 12,10 ha, pretendendo-se a reorganização e requalificação deste núcleo, parcialmente já ocupado;\n\nDeve ser salvaguardada uma área arborizada na fronteira com usos residenciais que minimize eventuais impactes ambientais;\n\nb) Parâmetros - o índice médio de utilização é de 0,35;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas de operações de loteamento;\n\n15) UOPG da zona empresarial/industrial de Recezinhos:\n\na) Objectivos:\n\nCom uma área da ordem dos 41,20 ha, destina-se preferencialmente à instalação de unidades industriais, constituindo nova oferta para a sua localização em face do esgotamento das zonas existentes;\n\nDeve ser previsto um ou mais núcleos de serviços e equipamentos de apoio à actividade industrial, incluindo comércio;\n\nA execução da via de acesso a partir da EN 15 deve ser quantificada como encargo desta zona;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,45;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação processam-se no âmbito de unidades de execução;\n\n16) UOPG do núcleo industrial de São Martinho de Recezinhos:\n\na) Objectivos:\n\nCom uma área da ordem dos 21,10 ha, destina-se à instalação de unidades industriais preferencialmente resultantes da deslocalização das situadas em áreas residenciais;\n\nPretende-se a colmatação e reorganização do sector a norte da EN, já parcialmente ocupado, e a composição da área restante, salvaguardando a compatibilização com as áreas residenciais;\n\nb) Parâmetros - o índice médio de utilização é de 0,35;\n\nc) Forma de execução - a urbanização e a edificação são precedidas de operações de loteamento.\n\n17) UOPG da expansão nascente de Castelões:\n\na) Objectivos:\n\nAbrange uma área com cerca de 11,80 ha e destina-se ao uso residencial, incluindo equipamentos, comércio e serviços complementares;\n\nDeve ser garantida uma área de protecção e enquadramento em relação à A 4, que permita minimizar os impactes provocados por esta;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,25;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 25 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n18) UOPG de Lagares:\n\na) Objectivos - abrange uma área da ordem dos 8,80 ha e destina-se, dominantemente, a habitação unifamiliar, incluindo comércio e serviços complementares;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,25;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n19) UOPG do núcleo industrial de Paço de Sousa:\n\na) Objectivos - abrangendo uma área com cerca de 8,10 ha, destina-se, preferencialmente, à instalação de unidades industriais resultantes da sua deslocalização de áreas residenciais das freguesias próximas;\n\nb) Parâmetros - o índice médio de utilização é de 0,35;\n\nc) Forma de execução - a urbanização e a edificação são precedidas de operações de loteamento;\n\n20) UOPG da Quinta de Francide:\n\na) Objectivos:\n\nAbrangendo uma área da ordem dos 10,10 ha, destina-se a habitação e áreas comerciais e de serviços;\n\nDeve ainda conter instalações desportivas de utilização colectiva e equipamentos vocacionados para a animação turística e para a assistência social, nomeadamente a terceira idade;\n\nPela sua localização e características topográficas, é alternativa à ocupação e densificação das áreas envolventes, constituindo-se como área de reserva para suprir carências que eventualmente venham a verificar-se;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,35;\n\nA cércea é, dominantemente, de dois pisos, admitindo-se três pisos por razões de composição urbana ou em edifícios de usos mistos que promovam uma centralidade local;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 35 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação deve concretizar-se no âmbito de unidades de execução, enquadradas por plano de pormenor;\n\n21) UOPG de Paço de Sousa:\n\nAbrange uma área da ordem dos 221,70 ha e corresponde à área de Paço de Sousa a sujeitar a plano de urbanização;\n\nEnquanto não estiver publicado o plano de urbanização, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;\n\n22) UOPG do núcleo industrial de Galegos:\n\na) Objectivos - abrange uma área da ordem dos 19,10 ha e destina-se, preferencialmente, à instalação de unidades industriais resultantes da sua deslocalização de áreas residenciais das freguesias próximas;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,35;\n\nAs cedências devem localizar-se preferencialmente na área norte, adjacente ao rio;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n23) UOPG do Bairro Novo Rans:\n\na) Objectivos - abrangendo uma área com cerca de 4,20 ha, destina-se a habitação unifamiliar, com a eventualmente de comércio e serviços, correspondendo à expansão norte do aglomerado;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,25;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n24) UOPG da zona empresarial/industrial de Oldrões:\n\na) Objectivos - abrangendo uma área da ordem dos 31,60 ha, destina-se preferencialmente à instalação de unidades industriais, potenciando o acréscimo de acessibilidade a ser conferido pelo IC 35 e promovendo a deslocalização das unidades existentes na EN 106;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,45;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n25) UOPG de Perozelo:\n\na) Objectivos - abrange uma área da ordem dos 5,40 ha e destina-se, dominantemente, a habitação unifamiliar, incluindo comércio e serviços complementares;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,30;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nA cércea é, dominantemente, de dois pisos, admitindo-se três pisos em edifícios de habitação colectiva, com funções complementares de comércio e serviços, em núcleo que estabeleça uma pequena centralidade local;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n26) UOPG do núcleo industrial de Perozelo:\n\na) Objectivos - abrange uma área com cerca de 11 ha e destina-se, preferencialmente, à instalação de unidades industriais resultantes da sua deslocalização de áreas residenciais das freguesias próximas;\n\nb) Parâmetros - o índice médio de utilização é de 0,35;\n\nc) Forma de execução - a urbanização e a edificação são precedidas de operações de loteamento enquadradas em duas unidades de execução, uma a norte e outra a sul do caminho municipal que cruza esta área no sentido nascente-poente;\n\n27) UOPG de Abragão:\n\nAbrange uma área da ordem dos 103,40 ha e corresponde à área de Abragão a sujeitar a plano de urbanização;\n\nEnquanto não estiver publicado o plano de urbanização, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;\n\n28) UOPG de Pinheiro:\n\nAbrange uma área da ordem dos 183,40 ha e corresponde à área de Pinheiro a sujeitar a plano de urbanização;\n\nA área das Termas de São Vicente e zona envolvente, constituindo a zona central do aglomerado, deve ser tratada a uma escala de pormenor conveniente que permita o detalhe necessário à recuperação e requalificação urbana e consequente revitalização do espaço termal;\n\nEnquanto não estiver publicado o plano de urbanização, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;\n\n29) UOPG da zona empresarial/industrial de Paredes:\n\na) Objectivos - abrange uma área com cerca de 21,10 ha e destina-se preferencialmente à instalação de unidades industriais, potenciando o acréscimo de acessibilidade a ser conferido pelo IC 35 e promovendo a deslocalização das unidades existentes na EN 106.\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,45;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n30) UOPG de Rio de Moinhos:\n\nAbrange uma área da ordem dos 161,20 ha e corresponde à área de Rio de Moinhos a sujeitar a plano de urbanização;\n\nEnquanto não estiver publicado o plano de urbanização, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;\n\n31) UOPG da expansão sul de Rio de Moinhos:\n\na) Objectivos - abrange uma área da ordem dos 4,90 ha e destina-se, dominantemente, a habitação, incluindo comércio e serviços complementares, correspondendo à expansão residencial de Rio de Moinhos para sul;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,40;\n\nA tipologia de habitação é, dominantemente, unifamiliar com dois pisos, admitindo-se edifícios de habitação colectiva com cércea não superior a três pisos e com funções complementares de comércio e serviços, em núcleo que estabeleça uma pequena centralidade local;\n\nA cedência para espaços verdes e equipamentos públicos é, no mínimo, de 25 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n32) UOPG de Entre-os-Rios:\n\nAbrange uma área com cerca de 24,30 ha e corresponde à área de Entre-os-Rios a sujeitar a plano de pormenor de salvaguarda do património existente;\n\nPretende-se a requalificação do troço da EN 108 que atravessa o aglomerado, e que é libertado de parte significativa do tráfego actual por força da variante protagonizada pelo IC 35;\n\nUm dos principais objectivos do Plano é a reabilitação da frente ribeirinha como espaço público de recreio e lazer, devendo o Plano propor medidas para a sua disponibilização e prever equipamentos afins, tendo presente também a navegabilidade do rio Douro e o consequente cais de acostagem;\n\nEnquanto não estiver em vigor o referido plano de pormenor, qualquer intervenção rege-se pelo presente Regulamento;\n\n33) UOPG de rio Mau:\n\na) Objectivos - abrange uma área da ordem dos 9,60 ha e destina-se, dominantemente, a habitação unifamiliar, incluindo comércio e serviços complementares;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,25;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor."
+  },
+  "dc3bfa69bfce35c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo VIII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais"
+  },
+  "1d9db876e4e1ed74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — Alterações à legislação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Alterações à legislação\n\nQuando a legislação em vigor mencionada neste Regulamento for alterada, as remissões expressas que para ela se fazem devem considerar-se automaticamente transferidas para a nova legislação, ou deixam de ter efeito caso se trate de revogação."
+  },
+  "64580dcc0a49ba70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — Acertos e rectificação de classes e categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Acertos e rectificação de classes e categorias\n\nA transposição de qualquer parcela para uma classe ou categoria de espaço distinta daquela que lhe está consignada na planta de ordenamento só pode processar-se por meio de um dos seguintes instrumentos:\n\na) Revisão do PDM;\n\nb) Planos de urbanização e planos de pormenor, previstos ou não no PDM depois de eficazes;\n\nc) Ajustamento de pormenor por razões de cadastro da propriedade, sem prejuízo da RAN e REN, não podendo a área a integrar ser superior a 3 % da área da propriedade a que respeita e que já esteja incluída na classe ou categoria de espaço em causa."
+  },
+  "5e47dd67f8a4ee8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — Entrada em vigor e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Entrada em vigor e revisão\n\nO Plano tem efeitos legais a partir do dia seguinte à data da sua publicação no Diário da República, podendo ser revisto por iniciativa da Câmara Municipal em conformidade com a legislação vigente."
+  },
+  "8ca0fa566ff9e7f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — Alterações e revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Alterações e revogações\n\n1 - É revogado o Plano Director Municipal de Penafiel, ratificado pela Resolução de Conselho de Ministros n.º 53/94, publicada no Diário da República de 13 de Julho de 1994.\n\n2 - É alterado o Plano de Urbanização de Urrô em conformidade com o estabelecido no n.º 1 do artigo 64.º e da planta de ordenamento.\n\n3 - São revogados os seguintes Planos de Pormenor:\n\na) Plano de Pormenor da Zona Industrial de Penafiel I;\n\nb) Plano de Pormenor da Zona Industrial de Penafiel II;\n\nc) Plano de Pormenor da Quinta das Lajes;\n\nd) Plano de Pormenor da Quinta da Saudade.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19700/0730207325.pdf)"
+  },
+  "2e1a8746a98eec23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Definições",
+   "in_force_from": "2020-01-16",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 4532/2015](https://diariodarepublica.pt/dr/detalhe/aviso/4532-2015-67085354), publicado em 2015-04-27."
+   ],
+   "markdown": "###### Artigo 5.º — Definições\n\nPara efeitos de aplicação do presente Regulamento, entende-se por:\n\na) «Alinhamento dominante» o alinhamento em maior extensão das vedações dos prédios ou das fachadas dos edifícios neles implantados de uma dada frente urbana em relação ao espaço público com que confinam;\n\nb) «Área bruta de construção (abc)» o valor expresso em metros quadrados, resultante do somatório das áreas de todos os pavimentos, acima e abaixo do solo, medidas pelo extradorso das paredes exteriores, com exclusão de:\n\nSótãos sem pé-direito regulamentar para fins habitacionais;\n\nÁreas destinadas a estacionamento, quando localizado em cave;\n\nVarandas descobertas;\n\nTerraços descobertos;\n\nEspaços livres de uso público cobertos pela edificação;\n\nc) «Área de exploração geológica consolidada» área onde ocorre uma actividade produtiva significativa e cujo desenvolvimento deve ser objecto de uma abordagem global, tendo em vista o aproveitamento do recurso geológico dentro dos valores de qualidade ambiental, podendo incluir áreas concessionadas, licenciadas e outras áreas adjacentes para a progressão da actividade;\n\nd) «Área de exploração geológica complementar» área de exploração que pode ser adjacente à área de exploração consolidada consigo relacionada, devendo o ritmo e as áreas de exploração ser condicionados pelo nível de esgotamento das reservas disponíveis e ou pela evolução da recuperação paisagística da(s) respectiva(s) área(s) de exploração consolidada(s);\n\ne) «Cedência média» a área por metros quadrados de abc a ceder ao município, respeitante às parcelas propostas no Plano para espaços verdes públicos, equipamentos e vias, resultando do quociente entre estas áreas e a abc admitida, para uma dada unidade do território urbano;\n\nf) «Cércea» a dimensão vertical da construção, medida a partir do ponto de cota média do terreno marginal ao alinhamento da fachada até à linha superior do beirado, platibanda ou guarda do terraço, incluindo andares recuados, mas excluindo acessórios. Em situações de edifícios implantados em terrenos onde se verifiquem desníveis topográficos, a cércea reporta-se à fachada cuja linha de intercepção com o terreno é a de menor nível altimétrico;\n\ng) «Colmatação urbana» o preenchimento com edificação em área inserida em perímetro urbano, quer se trate de nova construção ou de ampliação de edifício existente, de um prédio ou prédios, localizados em frente urbana consolidada e situados entre edifícios existentes nessa mesma frente, desde que a distância entre esses edifícios não seja superior a 24 m ou, quando se trate de área industrial, de 40 m;\n\nh) «Frente urbana» a superfície em projecção vertical definida pelo conjunto das fachadas dos edifícios confinantes com uma dada via pública e compreendida entre duas vias públicas sucessivas que nela concorrem;\n\ni) «Índice de impermeabilização» o quociente entre o somatório das áreas de terreno ocupadas com edificação e áreas pavimentadas com materiais impermeáveis, incluindo acessos ou pátios, e a área do terreno ou superfície de referência da operação urbanística, situada na categoria de espaço a que se refere;\n\nj) «Índice de implantação» o quociente entre a área bruta de implantação das construções e a área de terreno ou superfície de referência da operação urbanística, situada na categoria de espaço a que se refere;\n\nk) «Índice de utilização (iu)» o quociente entre a área bruta de construção e a área do terreno situada na categoria de espaço a que se refere;\n\nl) «Lote» o prédio correspondente a uma unidade cadastral resultante de uma operação de loteamento, que se destina imediata ou subsequentemente à edificação urbana;\n\nm) «Moda da cércea» cércea que apresenta maior extensão ao longo de uma frente urbana edificada;\n\nn) «Moradia» edifício, por regra, de um ou dois fogos e cércea normalmente de um ou dois pisos, ao qual corresponde um logradouro;\n\no) «Parcela» o prédio correspondente a uma unidade cadastral não resultante de uma operação de loteamento ou que por força da operação de loteamento não se destina à edificação urbana, excepto se destinada a equipamento público;\n\np) «Polígono de base» o perímetro que demarca a área na qual pode ser implantado o edifício, incluindo os pisos em cave;\n\nq) «Prédio» a unidade de propriedade fundiária, na titularidade de uma pessoa singular ou colectiva, ou em regime de compropriedade, podendo classificar-se como urbano, rústico ou misto e, eventualmente, a sujeitar a operação urbanística.\n\n> Alterado pelo/a [Aviso n.º 4532/2015](https://diariodarepublica.pt/dr/detalhe/aviso/4532-2015-67085354), publicado em 2015-04-27."
+  },
+  "1d51845f3add71a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Condições de edificabilidade",
+   "in_force_from": "2020-01-16",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 11848/2018](https://diariodarepublica.pt/dr/detalhe/aviso/11848-2018-116127577), publicado em 2018-08-21."
+   ],
+   "markdown": "###### Artigo 39.º — Condições de edificabilidade\n\n1 - Nestas áreas não são permitidas operações de loteamento, permitindo-se apenas construções em parcelas de terreno, legalmente constituídas, nas condições dos números seguintes.\n\n2 - Admite-se a reconstrução, conservação ou alteração de edificações existentes e ainda a sua ampliação, desde que a área bruta de construção resultante não seja superior a 50 % da área bruta de construção preexistente e a cércea não ultrapasse os dois pisos e 7 m.\n\n3 - Admite-se a construção de instalações destinadas à produção e exploração agrícola ou pecuária, desde que:\n\na) Não afetem negativamente a área envolvente sob os pontos de vista paisagístico e de salubridade; dando cumprimento no caso de alojamentos de animais, ao disposto no n.º 3 do artigo 37.º;\n\nb) Não ultrapassem os 7 m de cércea, salvo por razões de ordem técnica devidamente justificadas;\n\nc) O índice de impermeabilização não seja superior a 0,25.\n\n4 - Admite-se a construção para fins habitacionais, quando destinada ao seu proprietário ou titular do direito de exploração e trabalhadores permanentes na atividade agrícola ou pecuária e desde que a tipologia seja unifamiliar e se verifique, cumulativamente, que:\n\na) A área mínima do prédio seja igual ou superior a 5000 m2;\n\nb) A área bruta de construção, incluindo a eventualmente existente, não ultrapasse os 200 m2, não podendo a cércea ser superior a dois pisos e 7 m;\n\nc) O prédio em causa seja obrigatoriamente servido por via pública e o requerente assegure todas as redes e órgãos próprios de infraestruturas necessários ao funcionamento da intervenção.\n\n5 - Excetuam-se do número anterior:\n\na) Os casos de colmatação entre construções de habitação, urbanisticamente regularizadas, localizadas na mesma frente do arruamento existente que as serve e distantes entre si menos de 50 m, onde não é exigida área mínima do prédio, devendo no entanto ser cumpridas as condições estabelecidas nas alíneas b) e c) do número anterior;\n\nb) Os casos de habitação própria e permanente do proprietário e respetivo agregado familiar, quando este comprove, pelas entidades e serviços competentes da Câmara Municipal, ser residente no concelho e não ser proprietário de outra habitação ou terreno urbano no concelho, devendo ser cumpridas as condições estabelecidas nas alíneas a), b) e c) do número anterior e ser feito o registo de ónus de não alienação pelo período de 10 anos.\n\n6 - Admitem-se construções para fins turísticos e equipamentos públicos ou privados de apoio ou fomento de atividades de recreio e lazer ou de assistência e apoio social, desde que, cumulativamente:\n\na) A área mínima do prédio seja de 10 000 m2;\n\nb) A cércea não seja superior a dois pisos, exceto para o caso de estabelecimentos hoteleiros, que são analisados caso a caso;\n\nc) O índice máximo de impermeabilização seja de 0,10.\n\n7 - Admitem-se ainda as intervenções consideradas determinantes para a concretização de estratégias de desenvolvimento do concelho e reconhecidas como de interesse público pelo município, desde que a cércea não seja superior a dois pisos, salvo por razões de ordem técnica devidamente justificadas, e o índice máximo de impermeabilização seja de 0,25, designadamente as afetas a:\n\na) Equipamentos de utilização coletiva, empreendimentos de turismo no espaço rural e infraestruturas;\n\nb) Projetos empresariais, nomeadamente industriais que, sendo suscetíveis de adequada sustentabilidade ambiental e territorial, apresentem um impacte positivo em pelo menos três dos seguintes domínios:\n\ni) Criação de emprego qualificado e com representatividade, em número de postos de trabalho, ao nível do concelho;\n\nii) Volume de investimento global igual ou superior a 5 milhões de euros;\n\niii) Efeitos multiplicativos no desenvolvimento económico concelhio;\n\niv) Inovação de bens/serviços, ou utilização/criação de novas tecnologias.\n\n8 - Sem prejuízo da legislação em vigor, admite-se, excecionalmente, o licenciamento de pedreiras quando o recurso existente seja de inegável valor económico e não seja possível a sua exploração nas áreas delimitadas para o efeito no Plano e desde que:\n\na) O acesso existente ou a criar permita o suporte das novas cargas viárias geradas pela atividade a instalar, sem prejuízo da coexistência pacífica com outras funções e atividades instaladas na envolvência de todo o percurso do acesso a utilizar;\n\nb) A exploração não se traduza em impactes ambientais negativos nas atividades próximas e na paisagem, devendo impedir-se o licenciamento de pedreiras em áreas proeminentes e de clara visualização a partir do território exterior;\n\nc) As zonas de defesa à exploração de massas minerais, correspondentes às áreas vedadas por razões de segurança, tenham uma largura da bordadura de cada escavação:\n\ni) Nunca inferior a 50 m em relação a prédios rústicos vizinhos, caminhos públicos, linhas férreas, condutas de fluidos, linhas elétricas e de telecomunicações e postos elétricos de transformação ou de telecomunicação;\n\nii) Nunca inferior a 100 m em relação a vias da rede nacional, estradas e caminhos municipais e património classificado, em vias de classificação e inventariados, não incluído em perímetro urbano;\n\niii) Nunca inferior a 150 m em relação a habitações, escolas, hospitais ou outras edificações incluídas em espaços urbanizados ou de urbanização programada.\n\n9 - As explorações de massas minerais existentes e licenciadas mantêm os direitos adquiridos, admitindo-se a sua ampliação desde que não exceda 20 % da área licenciada e não conflituem com interesses de terceiros.\n\n> Alterado pelo/a [Aviso n.º 11848/2018](https://diariodarepublica.pt/dr/detalhe/aviso/11848-2018-116127577), publicado em 2018-08-21."
+  },
+  "e4ee7530e1bf6eb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Regime de edificabilidade",
+   "in_force_from": "2020-01-16",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 4532/2015](https://diariodarepublica.pt/dr/detalhe/aviso/4532-2015-67085354), publicado em 2015-04-27."
+   ],
+   "markdown": "###### Artigo 43.º — Regime de edificabilidade\n\n1 - Nestas áreas, o regime de edificabilidade restringe-se aos seguintes casos:\n\na) Obras de ampliação, reconstrução, alteração e conservação de edifícios existentes, não podendo o acréscimo da área bruta de construção ser superior a 25 % da preexistente;\n\nb) Obras de construção de infra-estruturas e instalações de apoio à gestão das áreas em exploração devidamente autorizados pelas entidades de tutela, desde que a área bruta de construção não seja superior à aplicação de um índice de utilização de 0,01 em relação à área total de exploração;\n\nc) Construções destinadas a equipamentos e estruturas de aproveitamento recreativo e de apoio a projectos de animação ambiental, ou outras vertentes de aproveitamento dos espaços florestais compatíveis em regime de uso múltiplo;\n\nd) Construção de equipamentos ou infra-estruturas não lineares de interesse público, reconhecidos pelo município como determinantes para a concretização de estratégias de desenvolvimento do município;\n\ne) Construções destinadas a empreendimentos turísticos, recreativos ou de valorização ambiental, desde que cumpridas as disposições do n.º 5 do artigo 40.º, exceptuando-se do cumprimento da alínea b) as modalidades de turismo no espaço rural, onde não é exigida área mínima de parcela.\n\n2 - Em qualquer das situações referidas nos números anteriores, a cércea dos novos edifícios ou da ampliação de edifícios existentes não pode ser superior a 7 m, excepto a inerente a instalações técnicas especiais de prevenção a incêndios, de valorização energética e de aproveitamento de recursos florestais.\n\n3 - Admite-se o licenciamento de pedreiras e a ampliação de pedreiras existentes desde que cumpram o disposto nos n.os 8 e 9 do artigo 39.º\n\n> Alterado pelo/a [Aviso n.º 4532/2015](https://diariodarepublica.pt/dr/detalhe/aviso/4532-2015-67085354), publicado em 2015-04-27."
+  },
+  "f99d9ce4d7add698": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Regime",
+   "in_force_from": "2020-01-16",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 4364/2013](https://diariodarepublica.pt/dr/detalhe/aviso/4364-2013-3706211), publicado em 2013-03-27."
+   ],
+   "markdown": "###### Artigo 53.º — Regime\n\nAs intervenções nestas zonas devem subordinar-se às seguintes condições:\n\na) Só é admitida a construção de novos edifícios em situações de colmatação ou em substituição de outros existentes, excepto quando destinados a equipamentos urbanos reconhecidos como de interesse público pelo município, em que a edificabilidade se rege pelo disposto para a categoria de espaço em causa;\n\nb) Não são admitidas edificações cuja cota de pisos inferiores não seja superior à cota local da maior cheia conhecida;\n\nc) Em todos os espaços não afectos a edifícios só são admitidos pavimentos que garantam a permeabilidade do solo e devendo ser munidos dos competentes sistemas de drenagem de águas pluviais.\n\n> Alterado pelo/a [Aviso n.º 4364/2013](https://diariodarepublica.pt/dr/detalhe/aviso/4364-2013-3706211), publicado em 2013-03-27."
+  },
+  "abca0c26deedd91d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Cedências",
+   "in_force_from": "2020-01-16",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 4364/2013](https://diariodarepublica.pt/dr/detalhe/aviso/4364-2013-3706211), publicado em 2013-03-27."
+   ],
+   "markdown": "###### Artigo 56.º — Cedências\n\n1 - As parcelas destinadas a espaços verdes e de utilização colectiva e equipamentos de utilização colectiva resultantes do disposto no artigo anterior, passam a integrar o domínio público municipal através da sua cedência gratuita ao município.\n\n2 - O município pode prescindir da integração no domínio público, e consequente cedência da totalidade ou de parte das parcelas referidas no número anterior, sempre que considere que tal é desnecessário ou inconveniente face às condições urbanísticas do local, nomeadamente quanto à integração harmoniosa na envolvente, à dimensão da parcela e à sua dotação com espaços verdes e ou equipamentos públicos, havendo, nesse caso, lugar ao pagamento de uma compensação definida em regulamento municipal.\n\n3 - As parcelas de espaços verdes e de utilização coletiva e equipamentos de utilização coletiva a ceder ao domínio municipal são tais que, pelo menos, 75 % da área total correspondente constitua uma parcela única não descontínua, não sendo de admitir parcelas para aquele fim com área inferior a 250 m2 ou 500 m2, que não permitam, respetivamente, a inscrição de um quadrado com 12 m ou 16 m de lado, consoante se trate de uma operação destinada exclusivamente a habitação unifamiliar ou destinada a outras tipologias de habitação e ou outros usos.\n\n4 - As áreas destinadas a espaços verdes e de utilização colectiva e a equipamentos de utilização colectiva a integrar no domínio público municipal possuem acesso directo a espaço ou via pública e a sua localização é tal que contribua efectivamente para a qualificação do espaço urbano onde se integram e para o usufruto da população instalada ou a instalar no local.\n\n5 - Nas áreas a sujeitar à elaboração de planos de pormenor ou incluídas em unidades de execução não integradas em planos de pormenor, a cedência para o domínio público municipal de parcelas destinadas a espaços verdes e de utilização colectiva, equipamentos de utilização colectiva e infra-estruturas viárias compreende:\n\na) As cedências gerais propostas pelo Plano destinadas a zonas verdes públicas, equipamentos e vias;\n\nb) As cedências locais que servem directamente o conjunto a edificar, de acordo com o resultante do desenho urbano.\n\n> Alterado pelo/a [Aviso n.º 4364/2013](https://diariodarepublica.pt/dr/detalhe/aviso/4364-2013-3706211), publicado em 2013-03-27."
+  },
+  "cd41ed3f778c387b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Conteúdos programáticos",
+   "in_force_from": "2020-01-16",
+   "changed_by": [
+    "Alterado pelo/a [Aviso n.º 4532/2015](https://diariodarepublica.pt/dr/detalhe/aviso/4532-2015-67085354), publicado em 2015-04-27."
+   ],
+   "markdown": "###### Artigo 64.º — Conteúdos programáticos\n\nPara as unidades operativas de planeamento e gestão identificadas na planta de ordenamento, estabelecem-se as seguintes regras e conteúdos programáticos:\n\n1) UOPG de Urrô - corresponde à área de intervenção do Plano de Urbanização de Urrô, com cerca de 253,50 ha e ratificado pela Resolução de Conselho de Ministros n.º 11/99, publicada no Diário da República de 6 de Março de 1999, o qual é alterado pelo presente Plano apenas no que se refere ao seguinte:\n\na) Delimitação do solo urbano e do solo rural, nomeadamente resultante da aferição da Reserva Agrícola Nacional;\n\nb) Afectação da margem do rio Sousa a pista de pesca desportiva;\n\nc) Definição de áreas de urbanização programada correspondentes às áreas residenciais de expansão, em resultado da entrada em vigor do novo regime jurídico dos instrumentos de gestão territorial;\n\nd) Actualização da rede viária;\n\n2) UOPG de Silvarelhos:\n\na) Objectivos:\n\nAbrange uma área da ordem dos 11,60 ha e destina-se, dominantemente, a habitação unifamiliar e colectiva, incluindo comércio e serviços complementares;\n\nDevem ser viabilizadas as ligações viárias propostas no Plano;\n\nDevem ser disponibilizadas áreas para espaços verdes e equipamentos de utilização colectiva e serviços, correspondentes a 30 % da área da UOPG;\n\nb) Parâmetros - o índice médio de utilização é de 0,25;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas de operação de loteamento ou da elaboração de plano de pormenor, abrangendo a totalidade da UOPG;\n\n3) UOPG de Guilhufe:\n\na) Objectivos:\n\nAbrange uma área da ordem dos 10,80 ha e destina-se, dominantemente, a habitação, incluindo comércio e serviços complementares;\n\nDevem ser asseguradas as ligações viárias propostas no Plano;\n\nDeve ser integrada em espaço verde público a área arborizada existente no seu limite nascente, na transição com o perímetro urbano da cidade de Penafiel, na envolvência do nó viário proposto no Plano;\n\nb) Parâmetros - o índice médio de utilização é de 0,4;\n\nc) Forma de execução - a urbanização e a edificação processam-se no âmbito de unidades de execução por compensação ou cooperação ou operações de loteamento, eventualmente precedidas de plano de pormenor;\n\n4) UOPG da expansão sudoeste da cidade:\n\na) Objetivos:\n\nAbrange uma área com cerca de 20,70 ha e destina-se, predominantemente, a habitação coletiva, incluindo comércio e serviços complementares;\n\nPretende-se a consolidação da frente urbana da EN 15, garantindo, a partir desta, permeabilidade visual sobre a unidade em causa, e a mitigação do atravessamento pelo IC 35;\n\nDevem-se assegurar ligações pedonais inseridas em estrutura verde contínua que estabeleçam a relação com o parque urbano do Cavalum;\n\nb) Parâmetros - o índice médio de utilização é de 0,50;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas de plano de pormenor ou realizar-se no âmbito de uma unidade de execução por cooperação;\n\n5) UOPG da cidade de Penafiel:\n\nAbrange uma área da ordem dos 598 ha e corresponde à área da cidade a sujeitar a plano de urbanização;\n\nEnquanto não estiver publicado o plano de urbanização, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;\n\n6) UOPG da expansão sudeste da cidade:\n\na) Objectivos:\n\nAbrange uma área com cerca de 27,70 ha e destina-se à expansão residencial da cidade no sentido nascente;\n\nDevem ser criados arruamentos que estabeleçam a ligação viária entre a EN 15 e a variante nascente;\n\nDeve ser afecta a espaço verde público a área com declive acentuado e abrangendo afloramentos rochosos que se localiza na parte sul desta UOPG, a qual deve ainda ser integrada no sistema de espaço público contínuo que estruture esta UOPG, na sua relação entre a cidade à cota alta e o parque do Cavalum;\n\nA edificação deve acautelar a salvaguarda de canais visuais sobre o vale, a partir das zonas de cota superior;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,40;\n\nA cércea dominante é de dois pisos, admitindo-se, por questões de composição urbana e sobretudo na transição das áreas já edificadas com as a edificar, cércea não superior a quatro pisos;\n\nA cedência para espaços verdes ou equipamentos de utilização colectiva é, no mínimo, de 25 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas de plano de pormenor ou realizar-se no âmbito de unidades de execução por compensação ou cooperação;\n\n7) UOPG da Quinta de Puços:\n\na) Objectivos:\n\nAbrange uma área com cerca de 20,30 ha e destina-se, dominantemente, a habitação unifamiliar e colectiva, incluindo comércio e serviços;\n\nDeve disponibilizar para o domínio público a área verde de protecção e enquadramento identificada no Plano;\n\nDeve ser definido um percurso no limite com a área consolidada da cidade por norte, que permita, simultaneamente, o acesso a parques de estacionamento a definir como apoio ao centro histórico;\n\nDevem ser definidas ligações viárias entre a cidade e a variante do Cavalum;\n\nA edificação deve acautelar a salvaguarda de canais visuais sobre o vale do Cavalum, a partir das zonas de cota superior;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,40. A cércea dos edifícios deve permitir a leitura do perfil da cidade consolidada;\n\nA cedência para espaços verdes ou equipamentos de utilização colectiva é, no mínimo, de 25 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas de plano de pormenor ou realizar-se no âmbito de unidades de execução por compensação ou cooperação;\n\n8) UOPG do centro histórico:\n\nCom uma área da ordem dos 28,10 ha, esta UOPG deve ser alvo de um plano de pormenor de salvaguarda do seu património;\n\nPretende-se ainda a reorganização da circulação automóvel e o acréscimo e requalificação do espaço público pedonal;\n\nDevem ser criados programas que assegurem a recuperação, do património edificado e que dinamizem a revitalização social e económica desta área;\n\nEnquanto não estiver em vigor o referido plano de pormenor, qualquer intervenção rege-se pelo presente Regulamento;\n\n9) UOPG de expansão norte da cidade:\n\na) Objectivos:\n\nAbrange uma área na ordem dos 14 ha e destina-se à expansão residencial da cidade no sentido norte;\n\nDeve ser viabilizada a via prevista no Plano e que estabelece a ligação da variante nascente da cidade à nova via proposta a norte da A 4;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,35;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nA tipologia habitacional é dominantemente de moradias unifamiliares de dois pisos;\n\nc) Forma de execução:\n\nA urbanização e a edificação devem ser precedida de plano de pormenor, que define o sistema de execução a adoptar nas unidades de execução que o plano vier a definir;\n\nSe decorridos cinco anos não estiver publicado qualquer plano referido anteriormente, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;\n\n10) UOPG da zona empresarial/industrial n.º 2:\n\na) Objectivos:\n\nCom uma área da ordem dos 65,30 ha, pretende-se a expansão do uso empresarial/industrial da zona industrial já abrangida por plano de pormenor eficaz, a revogar;\n\nDeve ser viabilizada a via proposta no Plano e integrada na variante norte à cidade;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,50;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação a que se refere a alínea a) deve ser precedida de operações de loteamento, excepto nas situações de parcelas servidas por arruamento público e já fomentadas para a edificação imediata;\n\n11) UOPG da estação:\n\na) Objectivos:\n\nCom uma área da ordem dos 20,90 ha, destina-se à instalação de equipamentos culturais, desportivos e de lazer, bem como de um conjunto comercial, de forma a complementar a deslocalização de estruturas desportivas instaladas na cidade;\n\nComo forma de vivificação permanente desta área, e tendo presente a potenciação conferida pela acessibilidade rodo e ferroviária, admitem-se ainda outros usos, tais como as actividades habitacionais, serviços e empreendimentos turísticos;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,50;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 35 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas de operações de loteamento, integradas ou não em unidades de execução, eventualmente enquadradas por plano de pormenor;\n\n12) UOPG de Novelas:\n\nAbrange uma área com cerca de 101,90 ha e corresponde à área da freguesia de Novelas a sujeitar a plano de urbanização;\n\nEnquanto não estiver publicado o referido plano de urbanização, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;\n\n13) UOPG da Expansão Norte de Novelas:\n\na) Objectivos:\n\nAbrange uma área com cerca de 7,10 ha e destina-se à expansão residencial de Novelas no sentido norte, até à fronteira com o concelho de Paredes;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,35;\n\nA cedência para espaços verdes ou equipamentos de utilização colectiva é, no mínimo, de 25 % da área total da UOPG;\n\nA tipologia de habitação é, dominantemente, de moradia unifamiliar com dois pisos, admitindo-se habitação colectiva até três pisos, com funções complementares de comércio e serviços, em núcleo que estabeleça uma pequena centralidade local;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas de operações de loteamentos integradas em uma ou duas unidades de execução, eventualmente enquadradas por plano de pormenor;\n\n14) UOPG da zona empresarial/industrial da Quinta da Judite:\n\na) Objectivos:\n\nAbrange uma área da ordem dos 12,10 ha, pretendendo-se a reorganização e requalificação deste núcleo, parcialmente já ocupado;\n\nDeve ser salvaguardada uma área arborizada na fronteira com usos residenciais que minimize eventuais impactes ambientais;\n\nb) Parâmetros - o índice médio de utilização é de 0,35;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas de operações de loteamento;\n\n15) UOPG da zona empresarial/industrial de Recezinhos:\n\na) Objectivos:\n\nCom uma área da ordem dos 41,20 ha, destina-se preferencialmente à instalação de unidades industriais, constituindo nova oferta para a sua localização em face do esgotamento das zonas existentes;\n\nDeve ser previsto um ou mais núcleos de serviços e equipamentos de apoio à actividade industrial, incluindo comércio;\n\nA execução da via de acesso a partir da EN 15 deve ser quantificada como encargo desta zona;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,45;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação processam-se no âmbito de unidades de execução;\n\n16) UOPG do núcleo industrial de São Martinho de Recezinhos:\n\na) Objectivos:\n\nCom uma área da ordem dos 21,10 ha, destina-se à instalação de unidades industriais preferencialmente resultantes da deslocalização das situadas em áreas residenciais;\n\nPretende-se a colmatação e reorganização do sector a norte da EN, já parcialmente ocupado, e a composição da área restante, salvaguardando a compatibilização com as áreas residenciais;\n\nb) Parâmetros - o índice médio de utilização é de 0,35;\n\nc) Forma de execução - a urbanização e a edificação são precedidas de operações de loteamento.\n\n17) UOPG da expansão nascente de Castelões:\n\na) Objectivos:\n\nAbrange uma área com cerca de 11,80 ha e destina-se ao uso residencial, incluindo equipamentos, comércio e serviços complementares;\n\nDeve ser garantida uma área de protecção e enquadramento em relação à A 4, que permita minimizar os impactes provocados por esta;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,25;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 25 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n18) UOPG de Lagares:\n\na) Objectivos - abrange uma área da ordem dos 8,80 ha e destina-se, dominantemente, a habitação unifamiliar, incluindo comércio e serviços complementares;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,25;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n19) UOPG do núcleo industrial de Paço de Sousa:\n\na) Objectivos - abrangendo uma área com cerca de 8,10 ha, destina-se, preferencialmente, à instalação de unidades industriais resultantes da sua deslocalização de áreas residenciais das freguesias próximas;\n\nb) Parâmetros - o índice médio de utilização é de 0,35;\n\nc) Forma de execução - a urbanização e a edificação são precedidas de operações de loteamento;\n\n20) UOPG da Quinta de Francide:\n\na) Objectivos:\n\nAbrangendo uma área da ordem dos 10,10 ha, destina-se a habitação e áreas comerciais e de serviços;\n\nDeve ainda conter instalações desportivas de utilização colectiva e equipamentos vocacionados para a animação turística e para a assistência social, nomeadamente a terceira idade;\n\nPela sua localização e características topográficas, é alternativa à ocupação e densificação das áreas envolventes, constituindo-se como área de reserva para suprir carências que eventualmente venham a verificar-se;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,35;\n\nA cércea é, dominantemente, de dois pisos, admitindo-se três pisos por razões de composição urbana ou em edifícios de usos mistos que promovam uma centralidade local;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 35 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação deve concretizar-se no âmbito de unidades de execução, enquadradas por plano de pormenor;\n\n21) UOPG de Paço de Sousa:\n\nAbrange uma área da ordem dos 221,70 ha e corresponde à área de Paço de Sousa a sujeitar a plano de urbanização;\n\nEnquanto não estiver publicado o plano de urbanização, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;\n\n22) UOPG do núcleo industrial de Galegos:\n\na) Objectivos - abrange uma área da ordem dos 19,10 ha e destina-se, preferencialmente, à instalação de unidades industriais resultantes da sua deslocalização de áreas residenciais das freguesias próximas;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,35;\n\nAs cedências devem localizar-se preferencialmente na área norte, adjacente ao rio;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n23) UOPG do Bairro Novo Rans:\n\na) Objectivos - abrangendo uma área com cerca de 4,20 ha, destina-se a habitação unifamiliar, com a eventualmente de comércio e serviços, correspondendo à expansão norte do aglomerado;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,25;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n24) UOPG da zona empresarial/industrial de Oldrões:\n\na) Objectivos - abrangendo uma área da ordem dos 31,60 ha, destina-se preferencialmente à instalação de unidades industriais, potenciando o acréscimo de acessibilidade a ser conferido pelo IC 35 e promovendo a deslocalização das unidades existentes na EN 106;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,45;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n25) UOPG de Perozelo:\n\na) Objectivos - abrange uma área da ordem dos 5,40 ha e destina-se, dominantemente, a habitação unifamiliar, incluindo comércio e serviços complementares;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,30;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nA cércea é, dominantemente, de dois pisos, admitindo-se três pisos em edifícios de habitação colectiva, com funções complementares de comércio e serviços, em núcleo que estabeleça uma pequena centralidade local;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n26) UOPG do núcleo industrial de Perozelo:\n\na) Objectivos - abrange uma área com cerca de 11 ha e destina-se, preferencialmente, à instalação de unidades industriais resultantes da sua deslocalização de áreas residenciais das freguesias próximas;\n\nb) Parâmetros - o índice médio de utilização é de 0,35;\n\nc) Forma de execução - a urbanização e a edificação são precedidas de operações de loteamento enquadradas em duas unidades de execução, uma a norte e outra a sul do caminho municipal que cruza esta área no sentido nascente-poente;\n\n27) UOPG de Abragão:\n\nAbrange uma área da ordem dos 103,50 ha e corresponde à área de Abragão a sujeitar a plano de urbanização;\n\nEnquanto não estiver publicado o plano de urbanização, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;\n\n28) UOPG de Pinheiro:\n\nAbrange uma área da ordem dos 183,40 ha e corresponde à área de Pinheiro a sujeitar a plano de urbanização;\n\nA área das Termas de São Vicente e zona envolvente, constituindo a zona central do aglomerado, deve ser tratada a uma escala de pormenor conveniente que permita o detalhe necessário à recuperação e requalificação urbana e consequente revitalização do espaço termal;\n\nEnquanto não estiver publicado o plano de urbanização, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;\n\n29) UOPG da zona empresarial/industrial de Paredes:\n\na) Objectivos - abrange uma área com cerca de 21,10 ha e destina-se preferencialmente à instalação de unidades industriais, potenciando o acréscimo de acessibilidade a ser conferido pelo IC 35 e promovendo a deslocalização das unidades existentes na EN 106.\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,45;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n30) UOPG de Rio de Moinhos:\n\nAbrange uma área da ordem dos 161,20 ha e corresponde à área de Rio de Moinhos a sujeitar a plano de urbanização;\n\nEnquanto não estiver publicado o plano de urbanização, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;\n\n31) UOPG da expansão sul de Rio de Moinhos:\n\na) Objectivos - abrange uma área da ordem dos 4,90 ha e destina-se, dominantemente, a habitação, incluindo comércio e serviços complementares, correspondendo à expansão residencial de Rio de Moinhos para sul;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,40;\n\nA tipologia de habitação é, dominantemente, unifamiliar com dois pisos, admitindo-se edifícios de habitação colectiva com cércea não superior a três pisos e com funções complementares de comércio e serviços, em núcleo que estabeleça uma pequena centralidade local;\n\nA cedência para espaços verdes e equipamentos públicos é, no mínimo, de 25 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor;\n\n32) UOPG de Entre-os-Rios:\n\nAbrange uma área com cerca de 24,30 ha e corresponde à área de Entre-os-Rios a sujeitar a plano de pormenor de salvaguarda do património existente;\n\nPretende-se a requalificação do troço da EN 108 que atravessa o aglomerado, e que é libertado de parte significativa do tráfego actual por força da variante protagonizada pelo IC 35;\n\nUm dos principais objectivos do Plano é a reabilitação da frente ribeirinha como espaço público de recreio e lazer, devendo o Plano propor medidas para a sua disponibilização e prever equipamentos afins, tendo presente também a navegabilidade do rio Douro e o consequente cais de acostagem;\n\nEnquanto não estiver em vigor o referido plano de pormenor, qualquer intervenção rege-se pelo presente Regulamento;\n\n33) UOPG de rio Mau:\n\na) Objectivos - abrange uma área da ordem dos 9,60 ha e destina-se, dominantemente, a habitação unifamiliar, incluindo comércio e serviços complementares;\n\nb) Parâmetros:\n\nO índice médio de utilização é de 0,25;\n\nA cedência para espaços verdes e equipamentos de utilização colectiva é, no mínimo, de 20 % da área total da UOPG;\n\nc) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor.\n\n> Alterado pelo/a [Aviso n.º 4532/2015](https://diariodarepublica.pt/dr/detalhe/aviso/4532-2015-67085354), publicado em 2015-04-27."
+  },
+  "8fde0ab7495a18c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º-A — Regularização no âmbito do RERAE",
+   "in_force_from": "2020-01-16",
+   "changed_by": [
+    "Aditado pelo/a [Aviso n.º 807/2020](https://diariodarepublica.pt/dr/detalhe/aviso/807-2020-128154667), publicado em 2020-01-16."
+   ],
+   "markdown": "###### Artigo 65.º-A — Regularização no âmbito do RERAE\n\nAs operações urbanísticas que se enquadrem no regime extraordinário de regularização de atividades económicas e cujas atividades económicas tenham obtido decisão favorável ou favorável condicionada tomada em conferência decisória, podem ficar dispensadas do cumprimento, parcial ou integral, das prescrições do PDM que lhe sejam aplicáveis, nos termos definidos nas atas das conferências decisórias.\n\n> Aditado pelo/a [Aviso n.º 807/2020](https://diariodarepublica.pt/dr/detalhe/aviso/807-2020-128154667), publicado em 2020-01-16."
+  }
+ }
+}

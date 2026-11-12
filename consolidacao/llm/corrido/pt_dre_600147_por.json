@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:600147:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As três alterações incidem sobre o quadro de pessoal anexo, que só existe em imagem (unidade 9): a alínea e) retificada pela Portaria n.º 1051/82 está dentro desse quadro e não no texto, e as Portarias n.º 493/84 e 857/87 substituem partes do quadro por quadros também só em imagem.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 1051/82): nova redação da alínea e) do quadro anexo; a alínea não existe no texto (quadro só em imagem) - não aplicada.",
+    "Alt. 2 (Portaria 493/84): altera o quadro na parte do pessoal médico, quadro em imagem - não aplicada.",
+    "Alt. 3 (Portaria 857/87): altera o quadro na parte do pessoal de enfermagem, quadro em imagem - não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

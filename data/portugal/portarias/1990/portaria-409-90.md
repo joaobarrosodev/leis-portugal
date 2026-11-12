@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-10-03'
+version_history:
+  file: portaria-409-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-10-03'
+    amending: pt:dre:555061:por
+    amending_title: Portaria n.º 916/90
+    changes:
+    - Altera Artigo unidades 28-34
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:20:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 916/90. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-409-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,19 +188,41 @@ Outros - 10150$00.
 
 2 - São definidos, no entanto, preços especiais para doentes transferidos para outros hospitais e para doentes excepcionais de curta e longa duração.
 
-2.1.1 - No caso de doentes transferidos, os hospitais que transferem facturam o número de dias de internamento até à transferência, aos preços por dia de internamento constantes da coluna F (100% do preço por dia de internamento do respectivo GDH), não podendo exceder, no entanto, 50% do preço dos respectivos GDH.
+2.1 - Na transferência de doentes para outros hospitais por inexistência de recursos nos hospitais que transferem são aplicáveis as seguintes regras:
 
-2.1.2 - Exceptuam-se os GDH 385 e 456, em que há lugar a um pagamento por inteiro.
+2.1.1 - Os hospitais que transferem facturam o número de dias de internamento até à transferência aos preços, por dia de internamento, constantes da coluna F (100% do preço por dia de internamento do respectivo GDH), não podendo exceder, no entanto, 50% do preço do respectivo GDH;
+
+2.1.2 - Exceptuam-se do disposto no ponto anterior os GDH 385 e 456, em que há lugar ao pagamento por inteiro;
 
 2.1.3 - Os hospitais que recebem os doentes transferidos facturam por inteiro o preço dos respectivos GDH.
 
-2.2.1 - Nos casos dos doentes cujos tempos de internamento não ultrapassem os limiares inferiores de excepção definidos na coluna H, os hospitais facturam, por dia de internamento, os preços constantes da coluna F da referida tabela (100% do preço por dia de internamento do respectivo GDH).
+2.2 - Na transferência de doentes para outros hospitais para continuidade de prestação de cuidados são aplicáveis as seguintes regras:
 
-2.2.2 - Nos casos dos doentes cujos tempos de internamento ultrapassem os limiares superiores constantes da coluna I, os hospitais facturam o preço dos respectivos GDH e ainda, por cada dia de internamento para além daqueles limiares, os preços constantes da coluna G da mesma tabela (60% do preço por dia de internamento do respectivo GDH).
+2.2.1 - Os hospitais que transferem facturam por inteiro o preço dos respectivos GDH;
 
-3 - O preço do GDH compreende todos os serviços prestados, incluindo cuidados médicos, hotelaria e meios complementares de diagnóstico e terapêutica.
+2.2.2 - Os hospitais que recebem os doentes transferidos para continuidade de prestação de cuidados facturam por inteiro os GDH específicos para seguimento (GDH 465 e 466);
 
-4 - Para as valências de psiquiatria e reabilitação para as quais não esteja definido nenhum GDH aplicam-se as diárias referidas no n.º 1.º
+2.2.3 - Exceptuam-se do disposto no ponto anterior os casos em que o preço dos GDH 465 ou 466 exceda o preço dos GDH em que o doente foi classificado nos hospitais que efectuaram a transferência (GDH de origem), situações em que os hospitais que recebem os doentes transferidos facturam o número de dias de internamento até à alta aos preços, por dia de internamento, constantes da coluna F (100% do preço por dia de internamento do GDH de origem), não podendo, no entanto, exceder 50% do preço deste GDH.
+
+2.3 - Na transferência de doentes por inexistência de recursos nos hospitais que transferem, seguida de transferência para outros hospitais para continuidade de prestação de cuidados, são aplicáveis as seguintes regras:
+
+2.3.1 - Os hospitais que efectuam a primeira transferência facturam de acordo com o disposto em 2.1.1 e 2.1.2; os hospitais que recebem os doentes transferidos após a primeira transferência facturam de acordo com o disposto em 2.2.1; os hospitais para os quais é efectuada a última transferência facturam de acordo com o disposto em 2.2.2 e 2.2.3.
+
+2.4 - Relativamente aos doentes cujos tempos de internamento sejam iguais ou inferiores aos limiares inferiores de excepção definidos na coluna H, os hospitais facturam, por dia de internamento, os preços constantes da coluna F da referida tabela (100% do preço por dia de internamento do respectivo GDH).
+
+2.5 - Relativamente aos doentes cujos tempos de internamento sejam iguais ou superiores aos limiares superiores de excepção constantes da coluna I, os hospitais facturam o preço dos respectivos GDH e ainda, por cada dia de internamento para além daqueles limiares, os preços constantes da coluna G da mesma tabela (60% do preço, por dia de internamento, do respectivo GDH).
+
+3 - O preço do GDH compreende todos os serviços prestados no internamento, incluindo cuidados médicos, hotelaria e meios complementares de diagnóstico e terapêutica.
+
+3.1 - Nas situações em que o internamento se tenha processado através do serviço de urgência deverão ser facturados, para além dos preços do GDH, os actos aí praticados, de acordo com o estabelecido nos n.os 8.º e 9.º, desde que compreendidos no período de 24 horas após a admissão.
+
+3.2 - Nas situações em que as transferências de doentes impliquem o seu transporte em helicóptero da Força Aérea Portuguesa ou em ambulância, deverão ser facturados, para além dos preços dos GDH, os custos dos respectivos transportes, conforme o estabelecido no n.º 12.º
+
+4 - Para as valências de psiquiatria e reabilitação para as quais não esteja definido nenhum GDH aplicam-se as diárias referidas no n.º 2.º
+
+5 - Nos casos dos doentes submetidos a implante coclear, litotrícia, transplante de medula, transplante articular e intercalar, transplante da córnea, implante de lente intra-ocular e cirurgia da vitreorretinopatia a facturação deverá ser efectuada de acordo com o disposto nos n.os 2.º e 3.º, não sendo aplicáveis os preços dos respectivos GDH.
+
+> Alterado pelo/a [Portaria n.º 916/90](https://diariodarepublica.pt/dr/detalhe/portaria/916-1990-555061), publicado em 1990-09-28.
 
 5.º Consulta:
 

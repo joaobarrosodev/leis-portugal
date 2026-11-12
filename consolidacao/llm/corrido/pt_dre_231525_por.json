@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:231525:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Canas de Santa Maria, Dardavaz, Molelos, Mouraz, Nandufe, Lobão da Beira, Vila Nova da Rainha, Tonda, Tondela, Campo de Besteiros e Vilar de Besteiros, município de Tondela, com a área de 10101,7610 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "O alterador 2 (renovação da zona de caça com nova área e freguesias) não altera o texto da portaria, e o alterador 3 anexa terrenos à zona renovada pela Portaria n.º 392/2009, sem instrução textual dirigida ao original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 476/2004): nova redação do n.º 2.º; unidade 7 substituída.",
+    "Alterador 2 (Portaria 392/2009): renovação da zona de caça; não textual, nada aplicado.",
+    "Alterador 3 (Portaria 647/2010): anexação de terrenos, refere-se à Portaria 392/2009; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

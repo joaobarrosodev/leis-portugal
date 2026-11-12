@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:582026:por",
+  "substituicoes": [
+    {
+      "de": 19,
+      "ate": 20,
+      "texto": "Objecto - facultar recursos para apoiar a instalação sustentável de jovens agricultores, nomeadamente para aquisição, construção ou melhoria de habitação rural própria, aquisição de direitos de produção ou de direitos a prémio.\n\nPrazo do empréstimo - até cinco anos.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria n.º 448-A/2001): 3.º apenas mantém em vigor a Portaria n.º 723/2000 - nada a alterar.",
+    "Alterador 2 (Portaria n.º 687/2001): nova redação do anexo II - mudam o objecto (sem 'pagamento antecipado de rendas') e o prazo (cinco anos); unidades 19-20 substituídas, epígrafe, carência e utilizações iguais."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:193439:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "3.º Os lugares de enfermeiro ou enfermeira especializados serão providos por meio de concurso documental, ao qual poderão concorrer todos os indivíduos que provarem possuir estágios idóneos na respectiva especialidade no mínimo de um ano.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 3.º — substituída a unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

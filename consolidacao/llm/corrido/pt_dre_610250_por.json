@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:610250:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Nesta área é concedida à ASTECA - Associação de Tiro e Caça a exploração de uma zona associativa (processo n.º 32 da Direcção-Geral das Florestas), por um período de 12 anos.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias n.º 55/2001 (suspensão da atividade cinegética), 183/2001 e 315/2007 (renovações da concessão) não alteram o texto do original; e a Portaria n.º 179/2006 altera a Portaria n.º 183/2001, não o original.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 1003/92): nova redação do n.º 2.º - substituída a unidade 7.",
+    "Alt. 2 (Portaria 55/2001): suspensão da atividade cinegética por 180 dias - alteração não textual, não aplicada.",
+    "Alt. 3 (Portaria 183/2001): renovação da concessão por oito anos - não textual, não aplicada.",
+    "Alt. 4 (Portaria 179/2006): altera o n.º 1.º da Portaria 183/2001 (outro diploma) - ignorada.",
+    "Alt. 5 (Portaria 315/2007): renovação da concessão por seis anos - não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

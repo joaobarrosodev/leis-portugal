@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:157803:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante sitos na freguesia e município de Penamacor, com a área de 1374 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 1261/2006): exclui prédios da zona de caça (área passa a 621 ha) por nova planta em imagem, sem dar nova redação a nenhum ponto do texto do original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º — substituída a unidade 7.",
+    "Alterador 2: exclusão de terrenos com nova planta; não é alteração textual — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

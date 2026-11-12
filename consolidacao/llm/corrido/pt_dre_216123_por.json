@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:216123:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 3/73) dá nova redação ao art. 31.º, n.º 1, do Decreto n.º 49204 aplicado às províncias ultramarinas pela Portaria 24380; é alteração ao decreto (na versão aplicada), não ao texto da portaria, que não contém o art. 31.º: ignorada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º A participação portuguesa será constituída por três aviões F-16 e um efectivo de 53 elementos da Força Aérea Portuguesa, em teatro de operações, além dos necessários voos de sustentação.",
+    "depois": "2.º A participação portuguesa é constituída por três aeronaves F-16, ficando mais uma pronta em território nacional, e um efectivo de 59 elementos da Força Aérea, que poderá vir a ser aumentado até um máximo de 65 elementos, sendo extensiva a outros meios que, pela natureza da sua participação em forças NATO constituídas (STANAVFORLANT), tenham de permanecer naquela área a partir de 25 de Maio de 1999.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:222776:por",
+    "alterador": "pt:dre:392587:por"
+  }
+]

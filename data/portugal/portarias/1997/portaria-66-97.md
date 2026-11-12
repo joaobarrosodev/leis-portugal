@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-02-06'
+version_history:
+  file: portaria-66-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-01-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-02-06'
+    amending: pt:dre:405923:por
+    amending_title: Portaria n.º 44/2000
+    changes:
+    - Altera Artigo unidades 11-12
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/66/1997/01/29/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:04:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 44/2000. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1997/portaria-66-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,9 +160,11 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 1.º Autorizar o Chefe do Estado-Maior-General das Forças Armadas a aprontar, sustentar e empregar as forças que constituirão a missão das Forças Armadas Portuguesas na Stabilization Force (MFAP/SFOR), nos termos dos números seguintes.
 
-2.º A MFAP será basicamente constituída por um batalhão de infantaria motorizada reduzido, com comando, duas companhias de atiradores e respectivo apoio de serviços, a aprontar pelo Exército.
+2.º A MFAP será basicamente constituída por uma força nacional de nível batalhão ou agrupamento, podendo ser conjunta no caso de integrar na sua composição forças de ramos diferentes, sendo o aprontamento final da responsabilidade do Exército.
 
-3.º A MFAP será colocada na dependência operacional da brigada italiana, integrada na divisão francesa da SFOR.
+3.º A MFAP será colocada na dependência operacional do comando da SFOR.
+
+> Alterado pelo/a [Portaria n.º 44/2000](https://diariodarepublica.pt/dr/detalhe/portaria/44-2000-405923), publicado em 2000-02-01.
 
 4.º Podem ser utilizados meios dos três ramos da Forças Armadas em apoio logístico à MFAP.
 

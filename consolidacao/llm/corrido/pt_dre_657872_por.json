@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:657872:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "Artigo único. A sede do concelho de Ourém é constituída pela zona urbana das freguesias de Nossa Senhora da Piedade e de Nossa Senhora das Misericórdias e tem a denominação de Ourém.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1 (Lei 91/99, primeira alteração): nova redação do artigo único: substituída a unidade 5."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

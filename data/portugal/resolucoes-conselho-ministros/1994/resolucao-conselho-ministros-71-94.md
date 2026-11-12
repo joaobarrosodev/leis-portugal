@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-01-16'
+version_history:
+  file: resolucao-conselho-ministros-71-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-08-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-16'
+    amending: pt:dre:2523390:por
+    amending_title: Aviso n.º 7614/2012; Aviso n.º 756/2014
+    changes:
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 40.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/71/1994/08/22/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:06:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso n.º 7614/2012; Aviso n.º 756/2014.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1994/resolucao-conselho-ministros-71-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1199,7 +1216,7 @@ O número de lugares de estacionamento a prever deverá regular-se pela [Portari
 
 ###### Artigo 37.º — Zonas agrícolas
 
-1 - Zonas agrícolas são as que, pelas suas características morfológicas (tipo de solo, declives, etc.), devem destinar-se preponderantemente à actividade agrícola e desenvolvimento pecuário.
+1 - Zonas agrícolas são as que, pelas suas características morfológicas (tipo de solo, declives, etc.), devem destinar-se preponderantemente à atividade agrícola e desenvolvimento pecuário.
 
 2 - Nestas zonas estão incluídas todas as áreas da RAN e outras áreas agrícolas complementares.
 
@@ -1209,43 +1226,45 @@ a) Apoio exclusivamente agrícola, devidamente justificado, não podendo exceder
 
 Índice máximo de utilização - 0,01;
 
-Altura máxima - 4,5 m, excepto silos ou outras instalações agrícolas especiais e devidamente justificadas.
+Altura máxima - 4,5 m, exceto silos ou outras instalações agrícolas especiais e devidamente justificadas;
 
-Em parcelas com área igual ou superior a 5000 m2 poderão ainda ser autorizadas edificações de apoio habitacional do respectivo proprietário ou agricultor devidamente justificado e nas seguintes condições:
+Em parcelas com área igual ou superior a 5000 m2 poderão ainda ser autorizadas edificações de apoio habitacional do respetivo proprietário ou agricultor devidamente justificado e nas seguintes condições:
 
 Área máxima de construção - 250 m2;
 
 Número máximo de pisos - 2;
 
-Infra-estruturas autónomas, excepto quando existir rede pública.
+Infraestruturas autónomas, exceto quando existir rede pública.
 
-Quando se verificar a presença de construções envolventes, rua pavimentada e proximidade da rede de água e electricidade, poderá o executivo camarário, por unanimidade de votos dos seus membros, permitir a construção em parcelas inferiores a 5000 m2;
+Quando se verificar a presença de construções envolventes, rua pavimentada e proximidade de rede de água e eletricidade, poderá o executivo camarário, por unanimidade de votos dos seus membros, permitir a construção em parcelas inferiores a 5000 m2;
 
-b) Equipamentos de interesse social, cultural, turístico e unidades agro-industriais, nas seguintes condições:
+b) Equipamentos de interesse social, cultural, turístico e unidades agroindustriais, nas seguintes condições:
 
-Índice de utilização máximo - 0,1;
+Índice de utilização máximo -0,2;
 
-Ficarem garantidas as condições de acesso, integração paisagística e infra-estruturas;
+Ficarem garantidas as condições de acesso, integração paisagística e infraestruturas; Número máximo de pisos - 2;
 
-Número máximo de pisos - 2;
+Obrigatoriedade de apresentação e execução dos projetos de arranjos exteriores; Deliberação expressa da Câmara Municipal;
 
-Obrigatoriedade de apresentação e execução dos projectos de arranjos exteriores;
+c) Instalações agropecuárias, nas seguintes condições:
 
-Deliberação expressa da Câmara Municipal;
+Índice de utilização máximo -0,3;
 
-c) As edificações já existentes nestas zonas poderão ser recuperadas ou remodeladas.
+Ficarem garantidas as condições de acesso, integração paisagística e infraestruturas; Número máximo de pisos - 2;
 
-4 - As edificações nestas zonas devem localizar-se em solos não incluídos na RAN e ou na REN.
+Obrigatoriedade de apresentação e execução dos projetos de arranjos exteriores; Deliberação expressa da Câmara Municipal;
 
-Nas áreas incluídas na REN e na RAN só são permitidas as construções e empreendimentos considerados nos respectivos regimes legais e mediante parecer obrigatório favorável, respectivamente da Delegação Regional do Ministério do Ambiente e Recursos Naturais do Centro (DRARNC) e ou da Comissão Regional da Reserva Agrícola da Beira Litoral (CRRABL), conforme artigos 7.º e 8.º deste Regulamento.
+d) As edificações já existentes nestas zonas poderão ser recuperadas ou remodeladas.
 
-5 - Sempre que se verifiquem sobreposições de usos que sejam incompatíveis com as servidões ou condicionantes, em caso de conflito prevalecem estas últimas (servidões e condicionantes), de acordo com a lei vigor.
+4 - As edificações nestas zonas devem localizar-se em solos não incluídos na RAN e REN. Nas áreas incluídas na REN e na RAN só são permitidas as construções e empreendimentos considerados nos respetivos regimes legais e mediante parecer obrigatório favorável, respetivamente da Delegação Regional do Ministério do Ambiente e Recursos Naturais do Centro (DRARNC) e ou da Comissão Regional da Reserva Agrícola da Beira Litoral (CRRABL), conforme artigos 7.º e 8.º deste Regulamento.
+
+5 - Sempre que se verifiquem sobreposições de usos que sejam incompatíveis com as servidões ou condicionantes, em caso de conflito prevalecem estas últimas (servidões e condicionantes), de acordo com a lei em vigor.
+
+> Alterado pelo/a [Aviso n.º 756/2014](https://diariodarepublica.pt/dr/detalhe/aviso/756-2014-1391052), publicado em 2014-01-16.
 
 ###### Artigo 38.º — Zonas florestais
 
-1 - As zonas florestais delimitadas na planta de ordenamento são destinadas à produção de material lenhoso, resinas e outros produtos florestais.
-
-Têm ainda como fim assegurar a correcção das disponibilidades hídricas, diminuir os riscos de erosão dos solos, permitindo a sua recuperação funcional e o incremento do valor ecossistémico e recreativo da paisagem.
+1 - As zonas florestais delimitadas na planta de ordenamento são as destinadas à produção de material lenhoso, resinas e outros produtos florestais. Têm ainda como fim assegurar a correção das disponibilidades hídricas, diminuir os riscos de erosão dos solos, permitindo a sua recuperação funcional e o incremento do valor ecossistémico e recreativo da paisagem.
 
 2 - Nas zonas florestais não integradas na REN poderão ser autorizadas edificações nas seguintes condições:
 
@@ -1253,45 +1272,51 @@ a) Apoio exclusivamente florestal ou turístico devidamente justificado, não po
 
 Índice máximo de utilização - 0,01;
 
-Altura máxima - 4,5 m, excepto instalações especiais devidamente fundamentadas.
+Altura máxima - 4,5 m, exceto instalações especiais devidamente fundamentadas.
 
-Em parcelas com área igual ou superior a 5000 m2, poderão ainda ser autorizadas edificações de apoio habitacional do respectivo proprietário devidamente justificadas e nas seguintes condições:
+Em parcelas com área total igual ou superior a 5000 m2, poderão ainda ser autorizadas edificações de apoio habitacional do respetivo proprietário devidamente justificadas e nas seguintes condições:
 
 Área máxima de construção - 250 m2;
 
 Número máximo de pisos - 2;
 
-Infra-estruturas autónomas, excepto quando existir rede pública.
+Infraestruturas autónomas, exceto quando existir rede pública.
 
-Quando se verifique a presença de construções envolventes, rua pavimentada e proximidade de rede de água e electricidade, poderá o executivo camarário, por unanimidade de votos dos seus membros, permitir a construção em parcelas inferiores a 5000 m2;
+Quando se verifique a presença de construções envolventes, rua pavimentada e proximidade de rede de água e eletricidade, poderá o executivo camarário, por unanimidade de votos dos seus membros, permitir a construção em parcelas inferiores a 5000 m2;
 
 b) Equipamento de interesse social, cultural e turístico, empreendimentos (comerciais ou industriais) de indiscutível interesse económico, nas seguintes condições:
 
-Índice de utilização máximo - 0,1;
+Índice de utilização - 0,2;
 
-Ficarem garantidas as condições de acesso, integração paisagística e infra-estruturas;
+Ficarem garantidas as condições de acesso, integração paisagística e infraestruturas; Número máximo de pisos - 2;
 
-Número máximo de pisos - 2;
+Obrigatoriedade de apresentação e execução dos projetos de arranjos exteriores; Deliberação expressa da Câmara Municipal.
 
-Obrigatoriedade de apresentação e execução dos projectos de arranjos exteriores;
+c) Instalações agropecuárias, nas seguintes condições:
 
-Deliberação expressa da Câmara Municipal;
+Índice de utilização máximo -0,3;
 
-c) As edificações já existentes nestas zonas poderão ser recuperadas ou remodeladas.
+Ficarem garantidas as condições de acesso, integração paisagística e infraestruturas; Número máximo de pisos - 2;
 
-3 - As edificações nestas zonas devem localizar-se em terrenos não incluídos na REN. Nas áreas incluídas na REN será obrigatório o parecer favorável da Delegação Regional do Ambiente e Recursos Naturais do Centro, conforme o artigo 7.º deste Regulamento.
+Obrigatoriedade de apresentação e execução dos projetos de arranjos exteriores; Deliberação expressa da Câmara Municipal.
 
-4 - Sem prejuízo do disposto no artigo 9.º do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro (medidas preventivas gerais de carácter policial), estabelecem-se para as zonas florestais, e no âmbito da prevenção contra fogos florestais, as seguintes medidas de controlo de povoamentos:
+As edificações já existentes nestas zonas poderão ser recuperadas ou remodeladas.
 
-a) Nos projectos de arborização ou rearborização à base de resinosas, em especial o pinheiro-bravo ou o eucalipto, nunca deverão as manchas por eles ocupadas exceder 100 ha sem serem cantonadas por faixas de folhosas, mais resistentes ao fogo, e com uma largura nunca inferior a 25 m para um e outro lado da linha de talvegue;
+3 - As edificações nestas zonas devem localizar-se em terrenos não incluídos na REN. Nas áreas incluídas na REN será obrigatório o parecer favorável da Delegação Regional do Ambiente e Recursos Naturais do centro, conforme o artigo 7.º deste Regulamento.
 
-b) Nos projectos de arborização ou de rearborização devem constar os locais para construção de pequenas barragens, açudes ou represas onde o declive ou o declive do talvegue permita a formação de lençóis de água de certa extensão;
+4 - Sem prejuízo do disposto no artigo 9.º do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de dezembro (medidas preventivas gerais de caráter de polícia), estabelecem-se para as zonas florestais, e no âmbito da prevenção contra fogos florestais, as seguintes medidas de controlo de povoamentos:
+
+a) Nos projetos de arborização ou rearborização à base de resinosas, em especial o pinheiro-bravo ou o eucalipto, nunca deverão as manchas por eles ocupadas exceder 100 há sem serem cantonadas por faixas de folhosas, mais resistentes ao fogo, e com largura nunca inferior a 25 m para um e outro lado da linha de talvegue;
+
+b) Nos projetos de arborização ou de rearborização devem constar os locais para construção de pequenas barragens, açudes ou represas onde o declive ou o declive do talvegue permita a formação de lençóis de água de certa extensão;
 
 c) Deverão ser preservados todos os núcleos de vegetação natural existentes constituídos por espécies florestais folhosas, nomeadamente carvalhos, freixos, amieiros e castanheiros;
 
-d) Não deverão ser plantadas espécies de crescimento rápido, nomeadamente eucalipto, em zonas hipsométricas superiores a 800 m.
+d) Não deverão ser plantadas espécies de crescimento rápido, nomeadamente eucalipto, em zonas hipsométricas superiores 800 m.
 
 5 - Sempre que se verifiquem sobreposições de usos que sejam incompatíveis com as servidões ou condicionantes, em caso de conflito, prevalecem estas últimas (servidões e condicionantes), de acordo com a lei em vigor.
+
+> Alterado pelo/a [Aviso n.º 756/2014](https://diariodarepublica.pt/dr/detalhe/aviso/756-2014-1391052), publicado em 2014-01-16.
 
 ###### Artigo 39.º — Zonas de conservação da natureza
 
@@ -1309,9 +1334,7 @@ IV.1 - Autorização para construir
 
 2 - Nas restantes áreas do concelho, nomeadamente nas zonas agrícolas e nas zonas florestais, não são permitidas operações de loteamento urbano. A edificação apenas será permitida de acordo com o que para o efeito o presente Regulamento determinar.
 
-3 - Só poderão ser licenciadas pela Câmara Municipal instalações pecuárias, designadamente aviários, pocilgas, ovis, vacarias, viteleiros e matadouros, desde que seja assegurada a minimização do impacte ambiental das respectivas actividades, nomeadamente no que se refere às águas residuais, efluentes gasosos ou resíduos sólidos produzidos, garantido o cumprimento da legislação aplicável nestes domínios.
-
-As instalações pecuárias só podem ser instaladas nas zonas florestais e agrícolas não incluídas na RAN e na REN a uma distância mínima de 300 m de habitações ou do limite de aglomerados urbanos quando se trate de aviários e de 400 m quando se trate de pocilgas, sem prejuízo de outras servidões.
+3 - Só poderão ser licenciadas pela Câmara Municipal instalações pecuárias, designadamente aviários, pocilgas, ovis, vacarias, viteleiros e matadouros, desde que seja assegurada a minimização do impacte ambiental das respetivas atividades, nomeadamente no que se refere às águas residuais, efluentes gasosos ou resíduos sólidos produzidos, garantindo o cumprimento da legislação aplicável nestes domínios. As instalações pecuárias só podem ser instaladas nas zonas florestais e agrícolas não incluídas na RAN e na REN.
 
 4 - É obrigatório o licenciamento industrial nos termos legais, [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542) e [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 15 de Março e 17 de Agosto, respectivamente, não somente para as indústrias a instalar na Zona Industrial (artigo 32.º) mas também para as que possam vir a ser instaladas nos aglomerados (artigo 31.º).
 
@@ -1324,6 +1347,8 @@ a) Serem possuidores da licença de obras emitida pela Câmara Municipal;
 b) Respeitarem a legislação aplicável em vigor, nomeadamente, entre outra, poluição sonora e atmosférica e resíduos sólidos e líquidos;
 
 c) Obterem parecer favorável da Câmara Municipal, que para tal poderá solicitar os pareceres às entidades envolvidas no licenciamento industrial. A Câmara deverá fornecer os elementos solicitados por estas e julgados necessários para emissão fundamentada.
+
+> Alterado pelo/a [Aviso n.º 7614/2012](https://diariodarepublica.pt/dr/detalhe/aviso/7614-2012-2523390), publicado em 2012-05-31.
 
 ###### Artigo 41.º — Cálculo da área útil de construção
 

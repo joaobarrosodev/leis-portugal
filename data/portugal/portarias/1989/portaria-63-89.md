@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-10-27'
+version_history:
+  file: portaria-63-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-01-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-10-27'
+    amending: pt:dre:221163:por
+    amending_title: Portaria n.º 1003/92
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:57:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1003/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-63-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,7 +167,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 1.º Ficam sujeitas ao regime cinegético especial as propriedades denominadas «Herdade do Furadouro», «Herdade do Ratinho», «Godinha», «Courelas da Capela», «Courela n.º 3», «Courela n.º 4», «Courela n.º 6», «Herdade da Briosa» e «Castelos», situadas na freguesia de Ciladas de São Romão, concelho de Vila Viçosa, com uma área total de 769 ha, constantes da planta anexa a este diploma.
 
-2.º Nesta área é concedida à ASTECA - Associação de Tiro e Caça a exploração de uma zona de caça associativa (processo n.º 32 da Direcção-Geral das Florestas), por um período de seis anos.
+2.º Nesta área é concedida à ASTECA - Associação de Tiro e Caça a exploração de uma zona associativa (processo n.º 32 da Direcção-Geral das Florestas), por um período de 12 anos.
+
+> Alterado pelo/a [Portaria n.º 1003/92](https://diariodarepublica.pt/dr/detalhe/portaria/1003-1992-221163), publicado em 1992-10-22.
 
 3.º Nesta zona de caça é facultado o exercício venatório a todos os membros da ASTECA - Associação de Tiro e Caça, com observância das regras legais e das suas normas estatutárias e regulamentares.
 

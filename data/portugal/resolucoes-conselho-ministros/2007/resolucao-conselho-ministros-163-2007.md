@@ -39,10 +39,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2020-01-16'
+version_history:
+  file: resolucao-conselho-ministros-163-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-10-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-01-16'
+    amending: pt:dre:3706211:por
+    amending_title: Aviso n.º 4364/2013; Aviso n.º 4532/2015; Aviso n.º 11848/2018; Aviso n.º 807/2020
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 43.º
+    - Altera Artigo 64.º
+    - Altera Artigo 39.º
+    - Altera Artigo 53.º
+    - Altera Artigo 56.º
+    - Adita Artigo 65.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/163/2007/10/12/p/dre/pt/html
@@ -68,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-27T00:13:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso n.º 4364/2013; Aviso n.º 4532/2015;
+    Aviso n.º 11848/2018; Aviso n.º 807/2020. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2007/resolucao-conselho-ministros-163-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -336,9 +357,9 @@ Sótãos sem pé-direito regulamentar para fins habitacionais;
 
 Áreas destinadas a estacionamento, quando localizado em cave;
 
-Áreas destinadas a arrecadações de apoio às diversas unidades de utilização do edifício e serviços técnicos, quando localizados em cave;
+Varandas descobertas;
 
-Varandas e terraços descobertos;
+Terraços descobertos;
 
 Espaços livres de uso público cobertos pela edificação;
 
@@ -371,6 +392,8 @@ o) «Parcela» o prédio correspondente a uma unidade cadastral não resultante 
 p) «Polígono de base» o perímetro que demarca a área na qual pode ser implantado o edifício, incluindo os pisos em cave;
 
 q) «Prédio» a unidade de propriedade fundiária, na titularidade de uma pessoa singular ou colectiva, ou em regime de compropriedade, podendo classificar-se como urbano, rústico ou misto e, eventualmente, a sujeitar a operação urbanística.
+
+> Alterado pelo/a [Aviso n.º 4532/2015](https://diariodarepublica.pt/dr/detalhe/aviso/4532-2015-67085354), publicado em 2015-04-27.
 
 ###### Artigo 6.º — Preexistências
 
@@ -906,45 +929,45 @@ b) No caso de instalações para agro-turismo e turismo no espaço rural, admite
 
 ###### Artigo 39.º — Condições de edificabilidade
 
-1 - Nestas áreas não são permitidas operações de loteamento de que resulte fraccionamento de prédios, permitindo-se apenas construções em parcelas de terreno, legalmente constituídas, nas condições dos números seguintes.
+1 - Nestas áreas não são permitidas operações de loteamento, permitindo-se apenas construções em parcelas de terreno, legalmente constituídas, nas condições dos números seguintes.
 
-2 - Admite-se a reconstrução, conservação ou alteração de edificações existentes e ainda a sua ampliação, desde que a área bruta de construção resultante não seja superior a 1,5 vezes a área bruta de construção preexistente e a cércea não ultrapasse os dois pisos ou 7 m.
+2 - Admite-se a reconstrução, conservação ou alteração de edificações existentes e ainda a sua ampliação, desde que a área bruta de construção resultante não seja superior a 50 % da área bruta de construção preexistente e a cércea não ultrapasse os dois pisos e 7 m.
 
 3 - Admite-se a construção de instalações destinadas à produção e exploração agrícola ou pecuária, desde que:
 
-a) Não afectem negativamente a área envolvente sob os pontos de vista paisagístico e de salubridade; dando cumprimento no caso de alojamentos de animais, ao disposto no n.º 3 do artigo 37.º;
+a) Não afetem negativamente a área envolvente sob os pontos de vista paisagístico e de salubridade; dando cumprimento no caso de alojamentos de animais, ao disposto no n.º 3 do artigo 37.º;
 
 b) Não ultrapassem os 7 m de cércea, salvo por razões de ordem técnica devidamente justificadas;
 
 c) O índice de impermeabilização não seja superior a 0,25.
 
-4 - Admite-se a construção para fins habitacionais, quando destinada ao seu proprietário ou titular do direito de exploração e trabalhadores permanentes na actividade agrícola ou pecuária e desde que a tipologia seja unifamiliar e se verifique, cumulativamente, que:
+4 - Admite-se a construção para fins habitacionais, quando destinada ao seu proprietário ou titular do direito de exploração e trabalhadores permanentes na atividade agrícola ou pecuária e desde que a tipologia seja unifamiliar e se verifique, cumulativamente, que:
 
-a) A área mínima do prédio seja igual ou superior à unidade mínima de cultura;
+a) A área mínima do prédio seja igual ou superior a 5000 m2;
 
-b) A área bruta de construção, incluindo a eventualmente existente, não ultrapasse os 200 m2, não podendo a cércea ser superior a dois pisos ou 7 m;
+b) A área bruta de construção, incluindo a eventualmente existente, não ultrapasse os 200 m2, não podendo a cércea ser superior a dois pisos e 7 m;
 
-c) O prédio em causa seja obrigatoriamente servido por via pública e o requerente assegure todas as redes e órgãos próprios de infra-estruturas necessários ao funcionamento da intervenção.
+c) O prédio em causa seja obrigatoriamente servido por via pública e o requerente assegure todas as redes e órgãos próprios de infraestruturas necessários ao funcionamento da intervenção.
 
-5 - Exceptuam-se do número anterior:
+5 - Excetuam-se do número anterior:
 
-a) Os casos de colmatação entre construções de habitação existentes a um ou outro lado do arruamento existente que as serve e devidamente licenciadas e distantes entre si menos de 50 m, onde não é exigida área mínima de parcela nem área máxima de edificabilidade, podendo o índice de impermeabilização atingir 0,30, mantendo-se como cércea máxima os dois pisos ou 7 m;
+a) Os casos de colmatação entre construções de habitação, urbanisticamente regularizadas, localizadas na mesma frente do arruamento existente que as serve e distantes entre si menos de 50 m, onde não é exigida área mínima do prédio, devendo no entanto ser cumpridas as condições estabelecidas nas alíneas b) e c) do número anterior;
 
-b) Os casos de habitação própria e permanente do proprietário e respectivo agregado familiar, quando este comprove, pelos serviços competentes da Câmara Municipal, ser residente no concelho e não ser proprietário de outra habitação ou terreno urbano no concelho, casos em que a área mínima do prédio exigida é de 5000 m2 e o índice de utilização máximo de 0,04, devendo ser feito o registo de ónus de não alienação pelo período de 10 anos.
+b) Os casos de habitação própria e permanente do proprietário e respetivo agregado familiar, quando este comprove, pelas entidades e serviços competentes da Câmara Municipal, ser residente no concelho e não ser proprietário de outra habitação ou terreno urbano no concelho, devendo ser cumpridas as condições estabelecidas nas alíneas a), b) e c) do número anterior e ser feito o registo de ónus de não alienação pelo período de 10 anos.
 
-6 - Admitem-se construções para fins turísticos e equipamentos públicos ou privados de apoio ou fomento de actividades de recreio e lazer ou de assistência e apoio social, desde que, cumulativamente:
+6 - Admitem-se construções para fins turísticos e equipamentos públicos ou privados de apoio ou fomento de atividades de recreio e lazer ou de assistência e apoio social, desde que, cumulativamente:
 
 a) A área mínima do prédio seja de 10 000 m2;
 
-b) A cércea não seja superior a dois pisos, excepto para o caso de estabelecimentos hoteleiros, que são analisados caso a caso;
+b) A cércea não seja superior a dois pisos, exceto para o caso de estabelecimentos hoteleiros, que são analisados caso a caso;
 
 c) O índice máximo de impermeabilização seja de 0,10.
 
-7 - Exceptuam-se do cumprimento da alínea a) do número anterior as intervenções consideradas determinantes para a concretização de estratégias de desenvolvimento do concelho e reconhecidas como de interesse público pelo município, designadamente as afectas a:
+7 - Admitem-se ainda as intervenções consideradas determinantes para a concretização de estratégias de desenvolvimento do concelho e reconhecidas como de interesse público pelo município, desde que a cércea não seja superior a dois pisos, salvo por razões de ordem técnica devidamente justificadas, e o índice máximo de impermeabilização seja de 0,25, designadamente as afetas a:
 
-a) Equipamentos de utilização colectiva, empreendimentos de turismo no espaço rural e infra-estruturas;
+a) Equipamentos de utilização coletiva, empreendimentos de turismo no espaço rural e infraestruturas;
 
-b) Projectos empresariais que, sendo susceptíveis de adequada sustentabilidade ambiental e territorial, apresentem um impacte positivo em pelo menos três dos seguintes domínios:
+b) Projetos empresariais, nomeadamente industriais que, sendo suscetíveis de adequada sustentabilidade ambiental e territorial, apresentem um impacte positivo em pelo menos três dos seguintes domínios:
 
 i) Criação de emprego qualificado e com representatividade, em número de postos de trabalho, ao nível do concelho;
 
@@ -954,21 +977,23 @@ iii) Efeitos multiplicativos no desenvolvimento económico concelhio;
 
 iv) Inovação de bens/serviços, ou utilização/criação de novas tecnologias.
 
-8 - Sem prejuízo da legislação em vigor, admite-se, excepcionalmente, o licenciamento de pedreiras quando o recurso existente seja de inegável valor económico e não seja possível a sua exploração nas áreas delimitadas para o efeito no Plano e desde que:
+8 - Sem prejuízo da legislação em vigor, admite-se, excecionalmente, o licenciamento de pedreiras quando o recurso existente seja de inegável valor económico e não seja possível a sua exploração nas áreas delimitadas para o efeito no Plano e desde que:
 
-a) O acesso existente ou a criar permita o suporte das novas cargas viárias geradas pela actividade a instalar, sem prejuízo da coexistência pacífica com outras funções e actividades instaladas na envolvência de todo o percurso do acesso a utilizar;
+a) O acesso existente ou a criar permita o suporte das novas cargas viárias geradas pela atividade a instalar, sem prejuízo da coexistência pacífica com outras funções e atividades instaladas na envolvência de todo o percurso do acesso a utilizar;
 
-b) A exploração não se traduza em impactes ambientais negativos nas actividades próximas e na paisagem, devendo impedir-se o licenciamento de pedreiras em áreas proeminentes e de clara visualização a partir do território exterior;
+b) A exploração não se traduza em impactes ambientais negativos nas atividades próximas e na paisagem, devendo impedir-se o licenciamento de pedreiras em áreas proeminentes e de clara visualização a partir do território exterior;
 
 c) As zonas de defesa à exploração de massas minerais, correspondentes às áreas vedadas por razões de segurança, tenham uma largura da bordadura de cada escavação:
 
-i) Nunca inferior a 50 m em relação a prédios rústicos vizinhos, caminhos públicos, linhas férreas, condutas de fluidos, linhas eléctricas e de telecomunicações e postos eléctricos de transformação ou de telecomunicação;
+i) Nunca inferior a 50 m em relação a prédios rústicos vizinhos, caminhos públicos, linhas férreas, condutas de fluidos, linhas elétricas e de telecomunicações e postos elétricos de transformação ou de telecomunicação;
 
 ii) Nunca inferior a 100 m em relação a vias da rede nacional, estradas e caminhos municipais e património classificado, em vias de classificação e inventariados, não incluído em perímetro urbano;
 
 iii) Nunca inferior a 150 m em relação a habitações, escolas, hospitais ou outras edificações incluídas em espaços urbanizados ou de urbanização programada.
 
 9 - As explorações de massas minerais existentes e licenciadas mantêm os direitos adquiridos, admitindo-se a sua ampliação desde que não exceda 20 % da área licenciada e não conflituem com interesses de terceiros.
+
+> Alterado pelo/a [Aviso n.º 11848/2018](https://diariodarepublica.pt/dr/detalhe/aviso/11848-2018-116127577), publicado em 2018-08-21.
 
 #### Secção VII — Espaço florestal
 
@@ -1036,7 +1061,9 @@ e) Construções destinadas a empreendimentos turísticos, recreativos ou de val
 
 2 - Em qualquer das situações referidas nos números anteriores, a cércea dos novos edifícios ou da ampliação de edifícios existentes não pode ser superior a 7 m, excepto a inerente a instalações técnicas especiais de prevenção a incêndios, de valorização energética e de aproveitamento de recursos florestais.
 
-3 - Admite-se o licenciamento de pedreiras e a ampliação de pedreiras existentes desde que cumpram o disposto nos n.os 7 e 8 do artigo 39.º
+3 - Admite-se o licenciamento de pedreiras e a ampliação de pedreiras existentes desde que cumpram o disposto nos n.os 8 e 9 do artigo 39.º
+
+> Alterado pelo/a [Aviso n.º 4532/2015](https://diariodarepublica.pt/dr/detalhe/aviso/4532-2015-67085354), publicado em 2015-04-27.
 
 #### Secção VIII — Espaço para indústria extractiva
 
@@ -1130,9 +1157,11 @@ As intervenções nestas zonas devem subordinar-se às seguintes condições:
 
 a) Só é admitida a construção de novos edifícios em situações de colmatação ou em substituição de outros existentes, excepto quando destinados a equipamentos urbanos reconhecidos como de interesse público pelo município, em que a edificabilidade se rege pelo disposto para a categoria de espaço em causa;
 
-b) Não são admitidas licenças de utilização para habitação cuja cota de piso não seja superior à cota local da maior cheia conhecida;
+b) Não são admitidas edificações cuja cota de pisos inferiores não seja superior à cota local da maior cheia conhecida;
 
 c) Em todos os espaços não afectos a edifícios só são admitidos pavimentos que garantam a permeabilidade do solo e devendo ser munidos dos competentes sistemas de drenagem de águas pluviais.
+
+> Alterado pelo/a [Aviso n.º 4364/2013](https://diariodarepublica.pt/dr/detalhe/aviso/4364-2013-3706211), publicado em 2013-03-27.
 
 #### Secção XV — Espaços-canais
 
@@ -1174,7 +1203,7 @@ c) Outras vias da rede municipal - 30 m.
 
 2 - O município pode prescindir da integração no domínio público, e consequente cedência da totalidade ou de parte das parcelas referidas no número anterior, sempre que considere que tal é desnecessário ou inconveniente face às condições urbanísticas do local, nomeadamente quanto à integração harmoniosa na envolvente, à dimensão da parcela e à sua dotação com espaços verdes e ou equipamentos públicos, havendo, nesse caso, lugar ao pagamento de uma compensação definida em regulamento municipal.
 
-3 - As parcelas de espaços verdes e de utilização colectiva a ceder ao domínio público municipal são tais que, pelo menos, 75 % da área total correspondente constitua uma parcela única não descontínua, não sendo de admitir parcelas para aquele fim com área inferior a 250 m2 ou 500 m2, que não permitam, respectivamente, a inscrição de um quadrado com 12 m ou 16 m de lado, consoante se trate de uma operação destinada exclusivamente a habitação unifamiliar ou destinada a outras tipologias de habitação e ou outros usos.
+3 - As parcelas de espaços verdes e de utilização coletiva e equipamentos de utilização coletiva a ceder ao domínio municipal são tais que, pelo menos, 75 % da área total correspondente constitua uma parcela única não descontínua, não sendo de admitir parcelas para aquele fim com área inferior a 250 m2 ou 500 m2, que não permitam, respetivamente, a inscrição de um quadrado com 12 m ou 16 m de lado, consoante se trate de uma operação destinada exclusivamente a habitação unifamiliar ou destinada a outras tipologias de habitação e ou outros usos.
 
 4 - As áreas destinadas a espaços verdes e de utilização colectiva e a equipamentos de utilização colectiva a integrar no domínio público municipal possuem acesso directo a espaço ou via pública e a sua localização é tal que contribua efectivamente para a qualificação do espaço urbano onde se integram e para o usufruto da população instalada ou a instalar no local.
 
@@ -1183,6 +1212,8 @@ c) Outras vias da rede municipal - 30 m.
 a) As cedências gerais propostas pelo Plano destinadas a zonas verdes públicas, equipamentos e vias;
 
 b) As cedências locais que servem directamente o conjunto a edificar, de acordo com o resultante do desenho urbano.
+
+> Alterado pelo/a [Aviso n.º 4364/2013](https://diariodarepublica.pt/dr/detalhe/aviso/4364-2013-3706211), publicado em 2013-03-27.
 
 ### Capítulo V — Discussão pública em operações urbanísticas de significativa relevância
 
@@ -1318,11 +1349,11 @@ b) Parâmetros - o índice médio de utilização é de 0,4;
 
 c) Forma de execução - a urbanização e a edificação processam-se no âmbito de unidades de execução por compensação ou cooperação ou operações de loteamento, eventualmente precedidas de plano de pormenor;
 
-4) UOP da expansão sudoeste da cidade:
+4) UOPG da expansão sudoeste da cidade:
 
-a) Objectivos:
+a) Objetivos:
 
-Abrange uma área com cerca de 20,70 ha e destina-se, predominantemente, a habitação colectiva, incluindo comércio e serviços complementares;
+Abrange uma área com cerca de 20,70 ha e destina-se, predominantemente, a habitação coletiva, incluindo comércio e serviços complementares;
 
 Pretende-se a consolidação da frente urbana da EN 15, garantindo, a partir desta, permeabilidade visual sobre a unidade em causa, e a mitigação do atravessamento pelo IC 35;
 
@@ -1452,11 +1483,11 @@ Abrange uma área com cerca de 101,90 ha e corresponde à área da freguesia de 
 
 Enquanto não estiver publicado o referido plano de urbanização, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;
 
-13) UOPG da expansão norte de Novelas:
+13) UOPG da Expansão Norte de Novelas:
 
 a) Objectivos:
 
-Abrange uma área com cerca de 9,30 ha e destina-se à expansão residencial de Novelas no sentido norte, até à fronteira com o concelho de Paredes;
+Abrange uma área com cerca de 7,10 ha e destina-se à expansão residencial de Novelas no sentido norte, até à fronteira com o concelho de Paredes;
 
 b) Parâmetros:
 
@@ -1632,7 +1663,7 @@ c) Forma de execução - a urbanização e a edificação são precedidas de ope
 
 27) UOPG de Abragão:
 
-Abrange uma área da ordem dos 103,40 ha e corresponde à área de Abragão a sujeitar a plano de urbanização;
+Abrange uma área da ordem dos 103,50 ha e corresponde à área de Abragão a sujeitar a plano de urbanização;
 
 Enquanto não estiver publicado o plano de urbanização, a ocupação, o uso e a transformação do solo regem-se pelo presente Regulamento;
 
@@ -1698,11 +1729,19 @@ A cedência para espaços verdes e equipamentos de utilização colectiva é, no
 
 c) Forma de execução - a urbanização e a edificação devem ser precedidas por operações de loteamento, eventualmente enquadradas por plano de pormenor.
 
+> Alterado pelo/a [Aviso n.º 4532/2015](https://diariodarepublica.pt/dr/detalhe/aviso/4532-2015-67085354), publicado em 2015-04-27.
+
 ### Capítulo VIII — Disposições finais
 
 ###### Artigo 65.º — Alterações à legislação
 
 Quando a legislação em vigor mencionada neste Regulamento for alterada, as remissões expressas que para ela se fazem devem considerar-se automaticamente transferidas para a nova legislação, ou deixam de ter efeito caso se trate de revogação.
+
+###### Artigo 65.º-A — Regularização no âmbito do RERAE
+
+As operações urbanísticas que se enquadrem no regime extraordinário de regularização de atividades económicas e cujas atividades económicas tenham obtido decisão favorável ou favorável condicionada tomada em conferência decisória, podem ficar dispensadas do cumprimento, parcial ou integral, das prescrições do PDM que lhe sejam aplicáveis, nos termos definidos nas atas das conferências decisórias.
+
+> Aditado pelo/a [Aviso n.º 807/2020](https://diariodarepublica.pt/dr/detalhe/aviso/807-2020-128154667), publicado em 2020-01-16.
 
 ###### Artigo 66.º — Acertos e rectificação de classes e categorias
 

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:222776:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "2.º A participação portuguesa é constituída por três aeronaves F-16, ficando mais uma pronta em território nacional, e um efectivo de 59 elementos da Força Aérea, que poderá vir a ser aumentado até um máximo de 65 elementos, sendo extensiva a outros meios que, pela natureza da sua participação em forças NATO constituídas (STANAVFORLANT), tenham de permanecer naquela área a partir de 25 de Maio de 1999.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 392/99): nova redação do n.º 2.º; substituída pela redação seguinte do alterador 2 na mesma unidade.",
+    "Alterador 2 (Portaria 476/99): nova redação do n.º 2.º; unidade 10 substituída pela redação final, mantendo o número 2.º."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

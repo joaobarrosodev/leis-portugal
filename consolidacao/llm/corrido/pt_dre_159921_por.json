@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:159921:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 168/74 substitui o quadro do pessoal de direcção e chefia (unidade 4) por um novo quadro que só existe em imagem no documento original, por isso não se pode aplicar textualmente.",
+  "instrucoes": [
+    "Portaria 168/74 substitui o quadro do pessoal dirigente por novo quadro só em imagem: não aplicado (nao_aplicavel). As notas da 168/74 são do próprio alterador, não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

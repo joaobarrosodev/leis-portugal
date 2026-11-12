@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:158458:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "A Portaria n.º 202/93 dá nova redação ao n.º 3 do n.º 12.º da Portaria n.º 103/92, mas o n.º 12.º (e o resto da Secção III) não existe no texto atual, que só tem os n.os 1.º a 6.º, e os n.os 1 e 2 vêm como '...', pelo que não há texto base para reconstituir o artigo com segurança.",
+  "instrucoes": [
+    "Portaria n.º 202/93: nova redação do n.º 3 do n.º 12.º (custos máximos por hectare); não aplicada porque o n.º 12.º não consta do texto atual."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

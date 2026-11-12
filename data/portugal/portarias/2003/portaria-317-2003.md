@@ -39,10 +39,41 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-08-03'
+version_history:
+  file: portaria-317-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-04-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-03'
+    amending: pt:dre:651160:por
+    amending_title: Portaria n.º 653/2003
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Adita Artigo 21.º-A
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/317/2003/04/17/p/dre/pt/html
@@ -68,7 +99,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:48:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 653/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-317-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,7 +213,11 @@ REGULAMENTO DE APOIO FINANCEIRO À PRODUÇÃO CINEMATOGRÁFICA DE FILMES DE LONG
 
 ###### Artigo 3.º — Requerentes e beneficiários
 
-Podem candidatar-se e beneficiar do apoio financeiro a conceder no âmbito do presente Regulamento os produtores cinematográficos.
+1 - Podem candidatar-se e beneficiar do apoio financeiro a conceder no âmbito do presente Regulamento os produtores cinematográficos.
+
+2 - Podem ainda candidatar-se ao sistema de apoio financeiro selectivo, nas suas várias secções, os realizadores cinematográficos.
+
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
 ###### Artigo 4.º — Modalidade de apoio financeiro
 
@@ -225,11 +261,13 @@ d) A composição do júri;
 
 e) Local e data e hora limites para a apresentação das candidaturas e o número de exemplares a apresentar;
 
-f) A menção de que se encontra disponível, para consulta, a acta da primeira reunião do júri onde se define a ponderação aplicável a cada um dos critérios estabelecidos no artigo 21.º ou 28.º do presente Regulamento.
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
 ###### Artigo 8.º — Prazo de apresentação de candidaturas
 
-O prazo de apresentação das candidaturas não pode ser inferior a 30 dias a contar desde a data da publicação do aviso do concurso respectivo, nos termos previstos no artigo anterior.
+O prazo de apresentação das candidaturas não pode ser inferior a 30 dias úteis a contar desde a data da publicação do aviso do concurso respectivo, nos termos previstos no artigo anterior.
+
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
 ###### Artigo 9.º — Instrução das candidaturas
 
@@ -237,37 +275,47 @@ O prazo de apresentação das candidaturas não pode ser inferior a 30 dias a co
 
 2 - O requerimento a que se refere o número anterior é preenchido em formulário próprio fornecido pelo ICAM, instruído com os seguintes documentos e informações:
 
-a) Certidão do registo comercial do produtor;
+a) Currículo do produtor e dos co-produtores, se os houver;
 
-b) Balanço e demonstração de resultados analíticos dos últimos três anos demonstrativos da sua capacidade financeira;
+b) Currículo do realizador;
 
-c) Declarações comprovativas da regular situação do requerente perante a administração fiscal e a segurança social;
+c) Currículo do argumentista e de outros elementos da equipa técnica que o requerente considere relevantes;
 
-d) Registo do argumento cinematográfico na Inspecção-Geral das Actividades Culturais;
+d) Argumento cinematográfico e demais elementos que o requerente considere relevantes para a caracterização do projecto;
 
-e) Contratos celebrados com o realizador, o argumentista e o eventual autor da obra preexistente relativamente à respectiva adaptação para cinema, em conformidade com o disposto no Código do Direito de Autor e dos Direitos Conexos;
+e) Sinopse;
 
-f) Currículo do produtor;
+f) Datas previstas de rodagem, montagem, sonorização e entrega da cópia síncrona;
 
-g) Currículo do realizador;
+g) Contratos celebrados com o realizador, o argumentista e o eventual autor da obra preexistente relativamente à respectiva adaptação para cinema, em conformidade com o disposto no Código do Direito de Autor e dos Direitos Conexos;
 
-h) Currículo do argumentista, do director de fotografia, do autor da banda sonora e de outros elementos da equipa técnica que o requerente considere relevantes;
+h) Previsão orçamental do projecto, de acordo com o modelo estabelecido pelo ICAM e respectiva montagem financeira;
 
-i) Argumento cinematográfico e demais elementos que o requerente considere relevantes para a caracterização do projecto;
+i) Registo do argumento cinematográfico na Inspecção-Geral das Actividades Culturais;
 
-j) Previsão da composição das equipas técnica e criativa e dos estabelecimentos técnicos a utilizar;
+j) Certidão do registo comercial do produtor;
 
-k) Sinopse;
-
-l) Datas previstas de rodagem, montagem, sonorização e entrega da cópia síncrona;
-
-m) Previsão orçamental do projecto, de acordo com o modelo estabelecido pelo ICAM, e respectiva montagem financeira.
+k) Declarações comprovativas da regular situação do requerente perante a administração fiscal e a segurança social.
 
 3 - No caso de se tratar de candidatura ao sistema de apoio financeiro directo, devem ainda ser apresentados os seguintes documentos:
 
-a) Contratos de distribuição, difusão e edição da obra cinematográfica;
+a) Contratos de distribuição, difusão e edição da obra cinematográfica, se os houver;
 
-b) Contratos-promessa dos outros financiadores ou co-produtores.
+b) Montagem financeira comprovada com contratos de co-produção ou de participação financeira celebrados com os co-produtores ou financiadores e respectivos currículos;
+
+c) Currículos dos principais elementos da equipa técnica;
+
+d) Lista nominativa da equipa artística;
+
+e) Plano estratégico de exploração da obra;
+
+f) Documentos comprovativos do número de espectadores em sala, das duas últimas obras do realizador, bem como a indicação da respectiva difusão em televisão, edição videográfica e em outros suportes.
+
+4 - No caso de o pedido de apoio financeiro ser requerido por um realizador, não é exigida a apresentação dos documentos referidos nas alíneas a), g), j) e k) do n.º 2 do presente artigo.
+
+5 - No caso de o pedido de apoio financeiro ser requerido por um realizador, deverá este apresentar autorizações do argumentista e do autor da obra preexistente relativas à respectiva adaptação para cinema, se a elas houver lugar.
+
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
 ###### Artigo 10.º — Regularização das candidaturas
 
@@ -279,11 +327,7 @@ No prazo de 10 dias úteis a contar desde o termo do prazo para a apresentação
 
 a) Que tenham dado entrada fora do prazo fixado;
 
-b) Que não forem instruídas com todos os documentos referidos no artigo 9.º
-
-c) De realizador de projectos aprovados pelo ICAM e ainda não concluídos;
-
-d) Apresentadas por requerentes que não tenham a sua situação regularizada perante a administração fiscal e a segurança social.
+b) Apresentadas por requerentes que não tenham a sua situação regularizada perante a administração fiscal e a segurança social.
 
 2 - São admitidas condicionalmente a concurso as candidaturas:
 
@@ -298,6 +342,8 @@ b) Relativas a requerentes que não tenham cumprido obrigações anteriores para
 5 - Os processos de candidatura que não forem regularizados no prazo previsto no n.º 3 são rejeitados pelo ICAM.
 
 6 - Decididas as reclamações ou terminados os prazos para a sua apresentação, o ICAM deve tornar pública a lista das candidaturas admitidas a concurso mediante aviso afixado na sua sede e notificação a todos os candidatos.
+
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
 ###### Artigo 12.º — Júri
 
@@ -315,25 +361,43 @@ b) Relativas a requerentes que não tenham cumprido obrigações anteriores para
 
 1 - Cada um dos critérios estabelecidos nos artigos 21.º e 28.º é pontuado na escala de 0 a 10, sendo a pontuação mais elevada referente à maior adequação da obra em apreciação ao respectivo critério.
 
-2 - Em cada um dos concursos, o júri define previamente o factor de ponderação a aplicar a cada um dos critérios estabelecidos no n.º 1 do presente artigo.
+2 - Os critérios referidos no número anterior têm um factor de ponderação diferente, de acordo com a seguinte fórmula:
+
+a) Critérios estabelecidos no artigo 21.º:
+
+i) No caso de a candidatura ser apresentada por produtor:
+
+CF = (3,5 x a + 2,5 x b + 2,5 x c + 1,5 x d)/10
+
+ii) No caso de a candidatura ser apresentada por realizador:
+
+CF = (4 x a + 3 x b + 3 x c)/10
+
+b) Critérios estabelecidos no artigo 28.º:
+
+CF = (3 x a + 2,5 x b + 2 x c + 1,5 x d + e)/10
 
 3 - A classificação final de cada projecto resulta da soma das pontuações obtidas em cada critério, após a aplicação do respectivo factor de ponderação.
 
-4 - A deliberação final do júri sobre os projectos submetidos à sua apreciação deve conter uma lista de classificação dos mesmos por ordem decrescente a partir da obra mais pontuada e respectiva fundamentação, elaborada com base na ponderação e no sistema de pontuação estabelecidos nos números anteriores.
+4 - A deliberação final do júri sobre os projectos submetidos à sua apreciação deve conter uma lista de classificação dos mesmos por ordem decrescente a partir da obra mais pontuada e a respectiva fundamentação.
 
-5 - O júri, sempre que entender necessário, pode convocar o produtor para a prestação de esclarecimentos.
+5 - O júri, sempre que entender necessário, pode convocar o requerente para a prestação de esclarecimentos.
 
 6 - De cada reunião do júri é lavrada acta.
 
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
+
 ###### Artigo 14.º — Decisão
 
-1 - Compete ao ICAM decidir sobre a atribuição do apoio financeiro previsto no presente Regulamento, mediante proposta apresentada pelo júri e após audiência dos interessados, nos termos constantes do Código do Procedimento Administrativo.
+1 - Compete ao ICAM decidir sobre a atribuição dos apoios financeiros previstos no presente Regulamento, mediante proposta apresentada pelo júri e após audiência dos interessados, nos termos constantes do Código do Procedimento Administrativo.
 
-2 - A decisão a que se refere o número anterior deve ser tomada no prazo de 10 dias úteis a contar a partir da apresentação da proposta do ICAM.
+2 - A decisão a que se refere o número anterior deve ser tomada no prazo de 10 dias úteis a contar da apresentação da proposta do júri.
 
 3 - Compete ao ICAM tornar pública a decisão de atribuição de apoio financeiro mediante aviso a afixar na sua sede e notificação a todos os requerentes admitidos a concurso.
 
-4 - Da decisão do ICAM cabe recurso para o Ministro da Cultura, a apresentar no prazo de cinco dias úteis.
+4 - Da decisão do ICAM cabe recurso para o Ministro da Cultura, a apresentar no prazo de cinco dias úteis contados a partir da data de recepção da notificação.
+
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
 ###### Artigo 15.º — Desistência do apoio financeiro
 
@@ -349,7 +413,9 @@ O ICAM pode, a todo o tempo, por si ou por entidade credenciada para o efeito, v
 
 1 - Qualquer alteração relevante dos elementos apresentados a concurso, nomeadamente do argumento e a substituição do realizador ou do produtor, determina o imediato cancelamento do apoio financeiro, com a devida restituição de todas as quantias recebidas até à data, acrescido de juros à taxa legal, contados desde a data da percepção de cada uma das prestações.
 
-2 - Sem prejuízo do disposto no número anterior, pode a direcção do ICAM em casos excepcionais e devidamente justificados, autorizar a mudança de produtor, desde que o cessionário assuma os compromissos inerentes às atribuições do apoio.
+2 - Sem prejuízo do disposto no número anterior, pode a direcção do ICAM, em casos excepcionais e devidamente fundamentados, autorizar a mudança de realizador ou de produtor, desde que o cessionário assuma os compromissos inerentes à atribuição do apoio.
+
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
 ###### Artigo 18.º — Falta de cumprimento de obrigações
 
@@ -375,11 +441,11 @@ b) 200 exemplares de dépliants promocionais bilingues;
 
 c) Um filme anúncio para cinema com a duração mínima de um minuto;
 
-d) Um filme anúncio para televisão com a duração máxima de vinte segundos.
-
 2 - O beneficiário de apoio financeiro atribuído nos termos do presente Regulamento deve apresentar no ICAM, no prazo máximo de seis meses contados desde a data do pagamento da última prestação do acordo de produção, as contas finais da respectiva produção, assinadas por um técnico oficial de contas devidamente credenciado, bem como a montagem financeira final.
 
 3 - O beneficiário de apoio financeiro deve apresentar ainda cópia de todos os contratos de distribuição, difusão televisiva e edição que celebre relativamente à obra apoiada nos termos do presente Regulamento.
+
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
 ### CAPÍTULO II — Disposições específicas
 
@@ -389,25 +455,35 @@ d) Um filme anúncio para televisão com a duração máxima de vinte segundos.
 
 A apreciação das candidaturas é feita pelo júri, no prazo máximo de 30 dias úteis, com base nos seguintes critérios:
 
-a) Qualidade artística do argumento cinematográfico;
+a) Qualidades artísticas e técnicas do argumento cinematográfico;
 
-b) Currículo do realizador;
+b) Potencialidades de comunicação do argumento com os públicos;
 
-c) Originalidade e capacidade de inovação do projecto;
+c) Currículo do realizador;
 
-d) Potencialidades de comunicação do projecto;
+d) Currículo do produtor.
 
-e) Currículo do produtor e respectiva demonstração de capacidade financeira;
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
-f) Consistência da previsão orçamental do projecto;
+###### Artigo 21.º-A — Condições de atribuição do apoio financeiro
 
-g) Currículo dos demais técnicos que integram a equipa técnica.
+1 - No caso de a decisão a que se refere o artigo 14.º recair sobre um projecto apresentado por um realizador cinematográfico, deve este apresentar ao ICAM, no prazo de 30 dias úteis a contar da notificação, a indicação do produtor do respectivo filme.
+
+2 - Até ao termo do prazo referido no número anterior, devem ser apresentados os documentos relativos ao produtor previstos nas alíneas a), g), j) e k) do n.º 2 do artigo 9.º do presente Regulamento.
+
+3 - Não sendo cumprido o disposto nos números anteriores fica sem efeito a atribuição do apoio financeiro.
+
+4 - No caso previsto no número anterior, a posição dos restantes candidatos na lista de classificação ordenada, referida no artigo 13 .º do presente Regulamento, deverá ser ajustada em conformidade, passando para a posição do candidato preterido o candidato ordenado na posição imediatamente a seguir.
+
+> Aditado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
 ###### Artigo 22.º — Acordo de pré-produção
 
-1 - Sempre que o produtor não possa apresentar os documentos mencionados no artigo 25.º no prazo máximo de 60 dias úteis a contar desde a notificação para a celebração do acordo de produção, os apoios financeiros atribuídos nos termos do presente Regulamento poderão ser formalizados em acordos de pré-produção a celebrar entre o ICAM e os produtores.
+1 - Os apoios financeiros atribuídos no âmbito do sistema de apoio financeiro selectivo são formalizados mediante a celebração de acordos de pré-produção entre o ICAM e os produtores.
 
-2 - Tendo presente as disponibilidades financeiras do ICAM, o acordo de pré-produção deve ser celebrado no prazo máximo de 30 dias úteis a contar desde a notificação da decisão a que se refere o artigo 14.º
+2 - O acordo de pré-produção deve ser celebrado no prazo máximo de 30 dias úteis a contar da notificação da decisão a que se refere o artigo 14.º ou do cumprimento do disposto nos n.os 1 e 2 do artigo 21.º-A.
+
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
 ###### Artigo 23.º — Conteúdo do acordo de pré-produção
 
@@ -419,17 +495,15 @@ b) O prazo para a apresentação ao ICAM dos documentos e informações referido
 
 c) A obrigação de apresentação quadrimestral de um relatório sobre os trabalhos de desenvolvimento do projecto, incluindo informação sobre a montagem financeira.
 
-2 - O prazo para a apresentação dos documentos e informações referidos na alínea b) do número anterior é de 12 meses a contar desde a data da assinatura do acordo, podendo, por despacho da direcção do ICAM, quando se verifiquem circunstâncias excepcionais devidamente fundamentadas, ser prorrogado por um prazo máximo de 6 meses.
+2 - O prazo para a apresentação dos documentos e informações referidos na alínea b) do número anterior é de 12 meses a contar desde a data da assinatura do acordo, podendo, por despacho da direcção do ICAM, quando se verifiquem circunstâncias excepcionais devidamente fundamentadas, ser prorrogado.
 
 3 - O acordo define, em cada caso, as obrigações mútuas das partes.
 
 4 - Com a celebração do acordo de pré-produção pode ser atribuído um montante máximo correspondente a 10% do valor global do apoio financeiro.
 
-5 - O pagamento do montante referido no número anterior é efectuado do seguinte modo:
+5 - O pagamento do montante referido no número anterior é efectuado em duas prestações, de valor correspondente a 50% do total atribuído, a primeira aquando da celebração do acordo de pré-produção e o remanescente após a apresentação do primeiro relatório referido na alínea c) do n.º 1 do presente artigo.
 
-a) Metade aquando da celebração do acordo de pré-produção;
-
-b) O remanescente após a apresentação do primeiro relatório referido na alínea c) do n.º 1 do presente artigo.
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
 ###### Artigo 24.º — Incumprimento dos acordos de pré-produção
 
@@ -445,15 +519,17 @@ b) Orçamento, segundo modelo do ICAM;
 
 c) Montagem financeira do projecto;
 
-d) Prova das participações financeiras exteriores ao ICAM que garantam a cobertura financeira do projecto, incluindo outras condições eventualmente estabelecidas em acordos feitos com terceiros;
+d) Prova das participações financeiras exteriores ao ICAM que garantam a cobertura financeira do projecto;
 
-e) Em caso de co-produção, a apresentação dos respectivos acordos, contendo a especificação do quantitativo de cada um dos financiamentos, a sua proveniência e calendarização;
+e) Em caso de co-produção ou de co-participação, a apresentação dos respectivos acordos, contendo a especificação do quantitativo de cada um dos financiamentos, a sua proveniência e calendarização;
 
 f) Composição das equipas criativa, técnica e artística, indicação dos locais de filmagens e décors e ainda dos estabelecimentos técnicos a utilizar;
 
 g) Plano de trabalho com indicação das datas de rodagem, montagem e sonorização;
 
-h) Confirmação das declarações previstas na alínea c) do n.º 2 do artigo 9.º
+h) Confirmação das declarações previstas na alínea k) do n.º 2 do artigo 9.º
+
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
 ###### Artigo 26.º — Parecer técnico
 
@@ -475,7 +551,9 @@ d) Cumprimento das obrigações anteriormente assumidas pelo produtor para com o
 
 1 - Os produtores que tenham cumprido com o disposto no artigo 25.º do presente Regulamento e cujos projectos tenham merecido parecer técnico favorável do ICAM devem celebrar com este Instituto um acordo de produção, no prazo máximo de 30 dias úteis após a recepção da notificação enviada para o efeito.
 
-2 - O acordo de produção deve conter:
+2 - Para a celebração do acordo de produção, os beneficiários devem apresentar junto do ICAM a proposta de plano de entrega das prestações em que se desdobra o financiamento.
+
+3 - O acordo de produção deve conter:
 
 a) Os termos do apoio financeiro à produção;
 
@@ -487,15 +565,15 @@ d) As contrapartidas a estabelecer, designadamente a utilização pelo ICAM em e
 
 e) As regras aplicáveis ao incumprimento do acordo e respectivas sanções;
 
-f) A data de entrega da cópia síncrona ou, no caso de filmes de curta metragem, da cópia vídeo de qualidade broadcast, a qual não poderá ultrapassar o prazo máximo de dois anos a contar desde a data da celebração do acordo de produção nem a data da estreia comercial ou exibição pública da obra apoiada.
+f) A data de entrega da cópia síncrona ou, no caso de filmes de curta metragem, da cópia vídeo de qualidade broadcast, a qual não poderá ultrapassar o prazo máximo de dois anos a contar desde a data da celebração do acordo de produção.
 
-3 - O pagamento de cada prestação do apoio financeiro concedido fica condicionado ao cumprimento do plano de trabalho apresentado e à prestação de contas que demonstre a boa aplicação dos montantes já entregues.
+4 - O pagamento de cada prestação do apoio financeiro concedido fica condicionado ao cumprimento do plano de trabalho apresentado e à prestação de contas que demonstre a boa aplicação dos montantes já entregues.
 
-4 - O pagamento da 1.ª prestação, no âmbito do presente acordo de produção, é efectuado no início da rodagem, sendo obrigatória, para o efeito, a apresentação dos contratos celebrados com os actores.
+5 - O pagamento da 1.ª prestação, no âmbito do presente acordo de produção, é efectuado no início da rodagem, sendo obrigatória, para o efeito, a apresentação dos contratos celebrados com os actores.
 
-5 - A última prestação, no valor mínimo correspondente a 5% do montante global do apoio financeiro atribuído, é obrigatoriamente destinada a suportar os custos relativos à promoção e estreia comercial da obra.
+6 - A última prestação, no valor mínimo correspondente a 5% do montante global do apoio financeiro atribuído, é obrigatoriamente destinada a suportar os custos relativos à promoção e estreia comercial da obra.
 
-6 - O pagamento da última prestação, referida no número anterior, depende da apresentação dos seguintes elementos:
+7 - O pagamento da última prestação, referida no número anterior, depende da apresentação dos seguintes elementos:
 
 a) Duas cópias síncronas ou duas cópias vídeo no caso de filmes de curta metragem, sendo uma para depósito pelo ICAM na Cinemateca Portuguesa-Museu do Cinema;
 
@@ -513,27 +591,27 @@ g) Uma colecção de 15 ou 30 fotografias da rodagem, que incluirá, necessariam
 
 h) No caso de filmes de curta metragem, 100 exemplares de dépliants ou 100 postais promocionais bilingues.
 
+8 - As obras apoiadas não podem ter estreia comercial nem exibição pública sem prévia entrega no ICAM das cópias síncronas a que se refere a alínea a) do n.º 7 do presente artigo.
+
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
+
 #### SECÇÃO II — Apoio financeiro directo
 
 ###### Artigo 28.º — Critérios de selecção
 
 A apreciação das candidaturas é feita pelo júri, no prazo máximo de 30 dias úteis, com base nos seguintes critérios:
 
-a) Currículo do produtor e respectiva demonstração de capacidade financeira;
+a) Currículo do produtor e dos parceiros do produtor, considerando designadamente a relevância das respectivas participações financeiras;
 
 b) Currículo do realizador;
 
-c) Número de espectadores em sala obtido pelo realizador na sua última obra;
+c) Potencialidade de comunicação do argumento cinematográfico com os públicos;
 
-d) Montagem financeira do projecto;
+d) Número de espectadores em sala das duas últimas obras do realizador, bem como a respectiva difusão em televisão, em edição videográfica e em outros suportes;
 
-e) Currículo dos parceiros do produtor;
+e) Estratégias de distribuição.
 
-f) Potencialidade do argumento cinematográfico para captação de público;
-
-g) Garantias de distribuição;
-
-h) Currículo dos demais técnicos que integram a equipa técnica.
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
 ###### Artigo 29.º — Acordo de produção
 
@@ -549,7 +627,7 @@ b) Proposta de plano de entrega das prestações em que se desdobra o financiame
 
 ###### Artigo 30.º — Conteúdo do acordo de produção
 
-1 - O acordo de produção deve conter os elementos enunciados nas alíneas a) a f) do n.º 2 do artigo 27.º do presente Regulamento.
+1 - O acordo de produção deve conter os elementos enunciados nas alíneas a) a f) do n.º 3 do artigo 27.º do presente Regulamento.
 
 2 - O pagamento de cada prestação do apoio financeiro fica condicionado ao cumprimento de um plano de trabalhos apresentado e à prestação de contas que demonstre a boa aplicação dos montantes entregues.
 
@@ -563,10 +641,14 @@ c) Confirmação dos estabelecimentos técnicos a utilizar.
 
 4 - A última prestação, no valor mínimo correspondente a 5% do montante global do apoio financeiro atribuído, é obrigatoriamente destinada a suportar os custos relativos à promoção e estreia comercial da obra.
 
-5 - O pagamento da última prestação referida no número anterior depende da apresentação dos elementos enunciados nas alíneas a) a g) do n.º 6 do artigo 27.º do presente Regulamento.
+5 - O pagamento da última prestação referida no número anterior depende da apresentação dos elementos enunciados nas alíneas a) a g) do n.º 7 do artigo 27.º do presente Regulamento.
+
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.
 
 ### CAPÍTULO III — Disposições finais
 
 ###### Artigo 31.º — Legislação subsidiária
 
-A tudo o que esteja especialmente previsto no presente Regulamento aplica-se subsidiariamente o Código do Procedimento Administrativo.
+A tudo o que não esteja especialmente previsto no presente Regulamento aplica-se subsidiariamente o Código do Procedimento Administrativo.
+
+> Alterado pelo/a [Portaria n.º 653/2003](https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160), publicado em 2003-07-29.

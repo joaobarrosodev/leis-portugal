@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Companhia Imobiliária da Aroeira, S. A., com o número de pessoa colectiva 502368772 e sede no Largo de Duarte Lopes, 2, 1.º, Benavente, a zona de caça turística da Herdade da Aroeira (processo n.º 728 da Direcção-Geral das Florestas).",
+    "depois": "2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Companhia Imobiliária da Herdade da Aroeira, S. A., com o número de pessoa colectiva 502368772 e sede no Largo de Duarte Lopes, 2, 1.º, Benavente, a zona de caça turística da Herdade da Aroeira (processo n.º 728 da Direcção-Geral das Florestas).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:673186:por",
+    "alterador": "pt:dre:301605:por"
+  }
+]

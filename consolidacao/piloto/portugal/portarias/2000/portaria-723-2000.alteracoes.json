@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 19-20",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Objecto - facultar recursos para apoiar a instalação sustentável de jovens agricultores, nomeadamente para aquisição, construção ou melhoria de habitação rural própria, aquisição de direitos de produção ou de direitos a prémio e pagamento antecipado de rendas.\n\nPrazo do empréstimo - até 10 anos.",
+    "depois": "Objecto - facultar recursos para apoiar a instalação sustentável de jovens agricultores, nomeadamente para aquisição, construção ou melhoria de habitação rural própria, aquisição de direitos de produção ou de direitos a prémio.\n\nPrazo do empréstimo - até cinco anos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:582026:por",
+    "alterador": "pt:dre:347929:por"
+  }
+]

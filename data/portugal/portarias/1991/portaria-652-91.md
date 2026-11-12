@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-09-25'
+version_history:
+  file: portaria-652-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-07-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-09-25'
+    amending: pt:dre:301605:por
+    amending_title: Portaria n.º 960/91
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/652/1991/07/12/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:57:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 960/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-652-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,7 +169,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Aroeira» e «Pau Queimado», sitos na freguesia de Santo Estêvão, concelho de Benavente, com uma área de 1465,3750 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
 
-2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Companhia Imobiliária da Aroeira, S. A., com o número de pessoa colectiva 502368772 e sede no Largo de Duarte Lopes, 2, 1.º, Benavente, a zona de caça turística da Herdade da Aroeira (processo n.º 728 da Direcção-Geral das Florestas).
+2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Companhia Imobiliária da Herdade da Aroeira, S. A., com o número de pessoa colectiva 502368772 e sede no Largo de Duarte Lopes, 2, 1.º, Benavente, a zona de caça turística da Herdade da Aroeira (processo n.º 728 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 960/91](https://diariodarepublica.pt/dr/detalhe/portaria/960-1991-301605), publicado em 1991-09-20.
 
 3.º A Companhia Imobiliária da Aroeira, S. A., como entidade gestora da zona de caça turística concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir os respectivos planos de ordenamento e exploração cinegética e de aproveitamento turístico aprovados e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

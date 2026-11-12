@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:673186:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Companhia Imobiliária da Herdade da Aroeira, S. A., com o número de pessoa colectiva 502368772 e sede no Largo de Duarte Lopes, 2, 1.º, Benavente, a zona de caça turística da Herdade da Aroeira (processo n.º 728 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2, 3 e 4 (Portarias 615/2003, 1256/2003 e 664/2006) não alteram o texto: suspendem a caça, renovam a concessão com nova área (1450,5604 ha) e planta, e anexam prédios (área total 1498 ha), sem instrução textual dirigida ao original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 960/91): nova redação do n.º 2.º (Companhia Imobiliária da Herdade da Aroeira); substituída a unidade 7.",
+    "Alterador 2 (Portaria 615/2003): suspensão do exercício da caça; não textual, não aplicado.",
+    "Alterador 3 (Portaria 1256/2003): renovação da concessão por 12 anos com área de 1450,5604 ha e nova planta; não textual, não aplicado.",
+    "Alterador 4 (Portaria 664/2006): anexação de prédios (48 ha, total 1498 ha); não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

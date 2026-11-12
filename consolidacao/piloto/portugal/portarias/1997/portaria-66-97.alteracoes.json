@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 11-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º A MFAP será basicamente constituída por um batalhão de infantaria motorizada reduzido, com comando, duas companhias de atiradores e respectivo apoio de serviços, a aprontar pelo Exército.\n\n3.º A MFAP será colocada na dependência operacional da brigada italiana, integrada na divisão francesa da SFOR.",
+    "depois": "2.º A MFAP será basicamente constituída por uma força nacional de nível batalhão ou agrupamento, podendo ser conjunta no caso de integrar na sua composição forças de ramos diferentes, sendo o aprontamento final da responsabilidade do Exército.\n\n3.º A MFAP será colocada na dependência operacional do comando da SFOR.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:571411:por",
+    "alterador": "pt:dre:405923:por"
+  }
+]

@@ -1,0 +1,86 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:158462:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-02-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5390b3a984c2ed2a",
+    "5bb31b0028c46739",
+    "72dac5b45e5d1033",
+    "4e663db108cfc0dd"
+   ]
+  },
+  {
+   "date": "1992-11-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216369:por",
+     "title": "Portaria n.º 1033/92",
+     "published": "1992-11-05",
+     "dre_path": "/dr/detalhe/portaria/1033-1992-216369"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 51-52"
+   ],
+   "fragments": [
+    "87f303d18899f821",
+    "5bb31b0028c46739",
+    "72dac5b45e5d1033",
+    "4e663db108cfc0dd"
+   ]
+  }
+ ],
+ "fragments": {
+  "5390b3a984c2ed2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Fevereiro\n\nConsiderando que Portugal dispõe de condições naturais privilegiadas para a prática da apicultura e que as abelhas desempenham um papel importante na polinização de culturas agrícolas, em particular, e no equilíbrio ecológico, em geral;\n\nConsiderando os problemas de ordem sanitária e de comercialização com que o sector se debate;\n\nConsiderando a [Portaria n.º 102/92](https://diariodarepublica.pt/dr/detalhe/portaria/102-1992-158465), de 19 de Fevereiro, que aprova o Programa Nacional de Apoio à Reestruturação e Inovação no Sector Agrícola (NOVAGRI);\n\nConsiderando a necessidade de regulamentar o Programa Específico de Apicultura do NOVAGRI:\n\nManda o Governo, pelo Ministro da Agricultura, ao abrigo do artigo 9.º do [Decreto-Lei n.º 96/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1987-662487), de 4 de Março, o seguinte:\n\n1.º\n\nNatureza e objectivos\n\n1 - O presente diploma estabelece o regime jurídico do Programa Específico de Apicultura do NOVAGRI com vista à realização dos seguintes objectivos principais:\n\na) Facilitar o escoamento do mel;\n\nb) Melhorar o rendimento dos apicultores;\n\nc) Promover a utilização de colónias de abelhas na polinização de culturas agrícolas.\n\n2 - Em tudo o que não estiver especialmente regulado neste diploma aplica-se o disposto na [Portaria n.º 102/92](https://diariodarepublica.pt/dr/detalhe/portaria/102-1992-158465), de 19 de Fevereiro.\n\n2.º\n\nÂmbito territorial de aplicação\n\nO presente diploma aplica-se em todo o território nacional.\n\n3.º\n\nAcções elegíveis\n\nPara prossecução dos objectivos enumerados no número anterior são concebidas ajudas às seguintes acções globais e específicas:\n\na) Acção global 1 - Melhoria das condições de processamento e comercialização do mel e outros produtos agrícolas:\n\nAcção específica 1.1 - Instalação ou beneficiação de unidades de processamento e transformação de mel e outros produtos apícolas;\n\nAcção específica 1.2 - Instalação ou beneficiação de unidades industriais de concentração, processamento, tratamento e transformação de mel e outros produtos apícolas (centrais meleiras);\n\nAcção específica 1.3 - Promoção de produtos apícolas de estudos de mercado;\n\nb) Acção global 2 - Apoio à defesa sanitária apícola:\n\nAcção específica 2.1 - Apoio à defesa sanitária apícola;\n\nc) Acção global 3 - Polinização:\n\nAcção específica 3.1 - Polinização;\n\nd) Acção global 4 - Repovoamento de colmeias de quadros móveis:\n\nAcção específica 4.1 - Repovoamento de colmeias de quadros móveis despovoados por efeito de varroose ou doenças associadas;\n\ne) Acção global 5 - Investigação:\n\nAcção específica 5.1 - Investigação com vista à classificação de méis;\n\nAcção específica 5.2 - Investigação com vista à produção de rainhas melhoradas;\n\nf) Acção global 6 - Formação profissional:\n\nAcção específica 6.1 - Formação profissional de apicultores.\n\n4.º\n\nCaracterização das acções específicas\n\n1 - Cada uma das acções específicas referidas no número anterior é descrita nos anexos I a III a esta portaria, da qual fazem parte integrante.\n\n2 - Cada uma das acções específicas é caracterizada pelos seguintes elementos:\n\na) Beneficiários elegíveis, condições de candidatura e obrigações dos beneficiários;\n\nb) Despesas elegíveis;\n\nc) Valor e limite máximo das ajudas.\n\n5.º\n\nMelhoria das condições de processamento e comercialização\n\n1 - O processo de candidatura às ajudas respeitantes às acções específicas 1.1 e 1.2 inicia-se com a apresentação pelos interessados, junto dos serviços regionais de agricultura ou das circunscrições florestais competentes, de uma ficha de inscrição, de acordo com o modelo a distribuir por esses serviços, até ao último dia do mês de Fevereiro de cada ano.\n\n2 - A ficha de inscrição deve ser acompanhada de elementos comprovativos dos requisitos de acesso às ajudas e das declarações em que sejam assumidos os compromissos exigidos para a sua concessão.\n\n3 - As inscrições apresentadas nos termos do ponto anterior serão objecto de análise e decisão preliminar da Direcção-Geral das Florestas (DGF) até 15 de Abril desse ano.\n\n4 - Os candidatos que tenham obtido decisão preliminar favorável deverão proceder à entrega dos respectivos projectos de investimento, junto dos serviços regionais competentes, nos meses de Abril e Maio do mesmo ano.\n\n5 - Os projectos apresentados serão objecto de análise e decisão final da DGF até ao dia 31 de Julho desse ano.\n\n6.º\n\nRestantes específicas\n\n1 - No caso das ajudas a conceder às acções específicas 1.3 a 6.1, o processo de candidatura inicia-se com a apresentação pelo interessado, junto dos serviços regionais de agricultura ou das circunscrições florestais competentes, de uma proposta, de acordo com formulário a fornecer por esses mesmos serviços, acompanhada de uma memória descritiva das acções a desenvolver, até 30 de Abril de cada ano.\n\n2 - A proposta deve, ainda, ser acompanhada de elementos comprovativos dos requisitos de acesso às ajudas e das declarações em que sejam assumidos os compromissos exigidos para a sua concessão.\n\n3 - As propostas apresentadas serão objecto de análise e decisão da DGF até 30 de Junho de cada ano.\n\n4 - No caso da acção específica 1.3, a decisão referida no ponto anterior depende de parecer prévio favorável da Direcção-Geral de Planeamento e Agricultura.\n\n5 - No caso da acção específica 2.1, a decisão referida no ponto 3 depende do parecer favorável da Direcção-Geral da Pecuária.\n\nMinistério da Agricultura.\n\nAssinada em 24 de Janeiro de 1992.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  },
+  "5bb31b0028c46739": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — [a que se refere a alínea a) do ponto 2 do n.º 4.º da portaria n.º 99/92]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — [a que se refere a alínea a) do ponto 2 do n.º 4.º da portaria n.º 99/92]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/042b00/09930996.pdf)"
+  },
+  "72dac5b45e5d1033": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — [a que se refere a alínea b) do ponto 2 do n.º 4.º da Portaria n.º 99/92]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — [a que se refere a alínea b) do ponto 2 do n.º 4.º da Portaria n.º 99/92]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/042b00/09930996.pdf)"
+  },
+  "4e663db108cfc0dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — [a que se refere a alínea c) do ponto 2 do n.º 4.º da Portaria n.º 99/92]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — [a que se refere a alínea c) do ponto 2 do n.º 4.º da Portaria n.º 99/92]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/042b00/09930996.pdf)"
+  },
+  "87f303d18899f821": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1992-11-10",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1033/92](https://diariodarepublica.pt/dr/detalhe/portaria/1033-1992-216369), publicado em 1992-11-05."
+   ],
+   "markdown": "de 19 de Fevereiro\n\nConsiderando que Portugal dispõe de condições naturais privilegiadas para a prática da apicultura e que as abelhas desempenham um papel importante na polinização de culturas agrícolas, em particular, e no equilíbrio ecológico, em geral;\n\nConsiderando os problemas de ordem sanitária e de comercialização com que o sector se debate;\n\nConsiderando a [Portaria n.º 102/92](https://diariodarepublica.pt/dr/detalhe/portaria/102-1992-158465), de 19 de Fevereiro, que aprova o Programa Nacional de Apoio à Reestruturação e Inovação no Sector Agrícola (NOVAGRI);\n\nConsiderando a necessidade de regulamentar o Programa Específico de Apicultura do NOVAGRI:\n\nManda o Governo, pelo Ministro da Agricultura, ao abrigo do artigo 9.º do [Decreto-Lei n.º 96/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1987-662487), de 4 de Março, o seguinte:\n\n1.º\n\nNatureza e objectivos\n\n1 - O presente diploma estabelece o regime jurídico do Programa Específico de Apicultura do NOVAGRI com vista à realização dos seguintes objectivos principais:\n\na) Facilitar o escoamento do mel;\n\nb) Melhorar o rendimento dos apicultores;\n\nc) Promover a utilização de colónias de abelhas na polinização de culturas agrícolas.\n\n2 - Em tudo o que não estiver especialmente regulado neste diploma aplica-se o disposto na [Portaria n.º 102/92](https://diariodarepublica.pt/dr/detalhe/portaria/102-1992-158465), de 19 de Fevereiro.\n\n2.º\n\nÂmbito territorial de aplicação\n\nO presente diploma aplica-se em todo o território nacional.\n\n3.º\n\nAcções elegíveis\n\nPara prossecução dos objectivos enumerados no número anterior são concebidas ajudas às seguintes acções globais e específicas:\n\na) Acção global 1 - Melhoria das condições de processamento e comercialização do mel e outros produtos agrícolas:\n\nAcção específica 1.1 - Instalação ou beneficiação de unidades de processamento e transformação de mel e outros produtos apícolas;\n\nAcção específica 1.2 - Instalação ou beneficiação de unidades industriais de concentração, processamento, tratamento e transformação de mel e outros produtos apícolas (centrais meleiras);\n\nAcção específica 1.3 - Promoção de produtos apícolas de estudos de mercado;\n\nb) Acção global 2 - Apoio à defesa sanitária apícola:\n\nAcção específica 2.1 - Apoio à defesa sanitária apícola;\n\nc) Acção global 3 - Polinização:\n\nAcção específica 3.1 - Polinização;\n\nd) Acção global 4 - Repovoamento de colmeias de quadros móveis:\n\nAcção específica 4.1 - Repovoamento de colmeias de quadros móveis despovoados por efeito de varroose ou doenças associadas;\n\ne) Acção global 5 - Investigação:\n\nAcção específica 5.1 - Investigação com vista à classificação de méis;\n\nAcção específica 5.2 - Investigação com vista à produção de rainhas melhoradas;\n\nf) Acção global 6 - Formação profissional:\n\nAcção específica 6.1 - Formação profissional de apicultores.\n\n4.º\n\nCaracterização das acções específicas\n\n1 - Cada uma das acções específicas referidas no número anterior é descrita nos anexos I a III a esta portaria, da qual fazem parte integrante.\n\n2 - Cada uma das acções específicas é caracterizada pelos seguintes elementos:\n\na) Beneficiários elegíveis, condições de candidatura e obrigações dos beneficiários;\n\nb) Despesas elegíveis;\n\nc) Valor e limite máximo das ajudas.\n\n5.º\n\nMelhoria das condições de processamento e comercialização\n\n1 - O processo de candidatura às ajudas respeitantes às acções específicas 1.1 e 1.2 inicia-se com a apresentação pelos interessados, junto dos serviços regionais de agricultura ou das circunscrições florestais competentes, de uma ficha de inscrição, de acordo com o modelo a distribuir por esses serviços, até ao último dia do mês de Fevereiro de cada ano.\n\n2 - A ficha de inscrição deve ser acompanhada de elementos comprovativos dos requisitos de acesso às ajudas e das declarações em que sejam assumidos os compromissos exigidos para a sua concessão.\n\n3 - As inscrições apresentadas nos termos do ponto anterior serão objecto de análise e decisão preliminar da Direcção-Geral das Florestas (DGF) até 15 de Abril desse ano.\n\n4 - Os candidatos que tenham obtido decisão preliminar favorável deverão proceder à entrega dos respectivos projectos de investimento, junto dos serviços regionais competentes, nos meses de Abril e Maio do mesmo ano.\n\n5 - Os projectos apresentados serão objecto de análise e decisão final da DGF até ao dia 31 de Julho desse ano.\n\n6.º\n\nRestantes acções específicas\n\n1 - No caso das ajudas a conceder às acções específicas 1.3 a 6.1, o processo de candidatura inicia-se com a apresentação pelo interessado, junto dos serviços regionais de agricultura ou das circunscrições florestais competentes, de uma proposta, de acordo com formulário a fornecer por esses mesmos serviços, acompanhada de uma memória descritiva das acções a desenvolver, a entregar:\n\na) No caso da acção 4.1, até 31 de Março de cada ano;\n\nb) No caso da acção 3.1, 30 dias antes da data prevista para a instalação das colonias e até:\n\ni) 31 de Maio de cada ano, quando se trate da polinização do meloeiro e do girassol;\n\nii) 30 de Abril de cada ano, para as restantes culturas;\n\nc) No caso das acções 1.3, 2.1 e 4.1 a 6.1, até 30 de Abril de cada ano.\n\n> Alterado pelo/a [Portaria n.º 1033/92](https://diariodarepublica.pt/dr/detalhe/portaria/1033-1992-216369), publicado em 1992-11-05.\n\n2 - A proposta deve, ainda, ser acompanhada de elementos comprovativos dos requisitos de acesso às ajudas e das declarações em que sejam assumidos os compromissos exigidos para a sua concessão.\n\n3 - As propostas apresentadas serão objecto de análise e decisão da DGF até 30 de Junho de cada ano.\n\n4 - No caso da acção específica 1.3, a decisão referida no ponto anterior depende de parecer prévio favorável da Direcção-Geral de Planeamento e Agricultura.\n\n5 - No caso da acção específica 2.1, a decisão referida no ponto 3 depende do parecer favorável da Direcção-Geral da Pecuária.\n\nMinistério da Agricultura.\n\nAssinada em 24 de Janeiro de 1992.\n\nPelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura."
+  }
+ }
+}

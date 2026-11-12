@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:222776:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-10-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3eb30228e234dd04"
+   ]
+  },
+  {
+   "date": "1999-07-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:392587:por",
+     "title": "Portaria n.º 476/99",
+     "published": "1999-06-29",
+     "dre_path": "/dr/detalhe/portaria/476-1999-392587"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-10"
+   ],
+   "fragments": [
+    "834b0df6872a3cf2"
+   ]
+  }
+ ],
+ "fragments": {
+  "3eb30228e234dd04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Outubro\n\nA OTAN decidiu actuar militarmente para apoiar as iniciativas diplomáticas tendentes a um cessar-fogo no Kosovo.\n\nA participação portuguesa, no âmbito da OTAN, em operações aéreas limitadas e operações aéreas faseadas será materializada por três aviões F-16 e os elementos indispensáveis ao seu apoio no teatro de operações.\n\nFoi informada a Assembleia da República e ouvido o Conselho Superior de Defesa Nacional.\n\nAssim:\n\nAo abrigo do disposto nos artigos 41.º, n.º 1, e 44.º, n.º 1, da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, e nos termos do artigo 2.º, n.º 1, do [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de Dezembro:\n\nManda o Governo, pelo Ministro da Defesa Nacional, o seguinte:\n\n1.º Autorizar o Chefe do Estado-Maior-General das Forças Armadas a aprontar, sustentar e empregar as forças que constituirão a participação militar portuguesa nas operações da OTAN relativas ao Kosovo.\n\n2.º A participação portuguesa será constituída por três aviões F-16 e um efectivo de 53 elementos da Força Aérea Portuguesa, em teatro de operações, além dos necessários voos de sustentação.\n\n3.º As referidas forças serão colocadas na dependência do Comando Operacional do Chefe do Estado-Maior-General das Forças Armadas e sob controlo do Comando das Forças Aliadas na Europa (SACEUR).\n\nMinistério da Defesa Nacional.\n\nAssinada em 12 de Outubro de 1998.\n\nO Ministro da Defesa Nacional, José Veiga Simão."
+  },
+  "834b0df6872a3cf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1999-07-04",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 476/99](https://diariodarepublica.pt/dr/detalhe/portaria/476-1999-392587), publicado em 1999-06-29."
+   ],
+   "markdown": "de 31 de Outubro\n\nA OTAN decidiu actuar militarmente para apoiar as iniciativas diplomáticas tendentes a um cessar-fogo no Kosovo.\n\nA participação portuguesa, no âmbito da OTAN, em operações aéreas limitadas e operações aéreas faseadas será materializada por três aviões F-16 e os elementos indispensáveis ao seu apoio no teatro de operações.\n\nFoi informada a Assembleia da República e ouvido o Conselho Superior de Defesa Nacional.\n\nAssim:\n\nAo abrigo do disposto nos artigos 41.º, n.º 1, e 44.º, n.º 1, da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, e nos termos do artigo 2.º, n.º 1, do [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de Dezembro:\n\nManda o Governo, pelo Ministro da Defesa Nacional, o seguinte:\n\n1.º Autorizar o Chefe do Estado-Maior-General das Forças Armadas a aprontar, sustentar e empregar as forças que constituirão a participação militar portuguesa nas operações da OTAN relativas ao Kosovo.\n\n2.º A participação portuguesa é constituída por três aeronaves F-16, ficando mais uma pronta em território nacional, e um efectivo de 59 elementos da Força Aérea, que poderá vir a ser aumentado até um máximo de 65 elementos, sendo extensiva a outros meios que, pela natureza da sua participação em forças NATO constituídas (STANAVFORLANT), tenham de permanecer naquela área a partir de 25 de Maio de 1999.\n\n> Alterado pelo/a [Portaria n.º 476/99](https://diariodarepublica.pt/dr/detalhe/portaria/476-1999-392587), publicado em 1999-06-29.\n\n3.º As referidas forças serão colocadas na dependência do Comando Operacional do Chefe do Estado-Maior-General das Forças Armadas e sob controlo do Comando das Forças Aliadas na Europa (SACEUR).\n\nMinistério da Defesa Nacional.\n\nAssinada em 12 de Outubro de 1998.\n\nO Ministro da Defesa Nacional, José Veiga Simão."
+  }
+ }
+}

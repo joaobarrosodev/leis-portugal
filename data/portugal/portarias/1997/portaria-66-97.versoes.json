@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:571411:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-01-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "799c105049564d41"
+   ]
+  },
+  {
+   "date": "2000-02-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:405923:por",
+     "title": "Portaria n.º 44/2000",
+     "published": "2000-02-01",
+     "dre_path": "/dr/detalhe/portaria/44-2000-405923"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 11-12"
+   ],
+   "fragments": [
+    "26192d9477965b24"
+   ]
+  }
+ ],
+ "fragments": {
+  "799c105049564d41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Janeiro\n\nO Conselho de Segurança das Nações Unidas mandatou a OTAN para, finda a missão da Força de Implementação da Paz (IFOR) na Bósnia-Herzegovina, prosseguir no terreno com uma nova missão de estabilização da paz.\n\nA OTAN planeou e organizou uma força multinacional, que denominou de Força de Estabilização da Paz (SFOR).\n\nConstitui interesse e dever de Portugal, no âmbito dos compromissos internacionais assumidos, como membro da OTAN, e da prossecução dos objectivos de política externa definidos no Programa do Governo, a sua participação na constituição da SFOR.\n\nFoi consultada a Assembleia da República e ouvido o Conselho Superior de Defesa Nacional.\n\nAssim:\n\nAo abrigo do disposto nos artigos 41.º, n.º 1, e 44.º, n.º 1, da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, e nos termos do artigo 2.º, n.º 1, do [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de Dezembro:\n\nManda o Governo, pelo Ministro da Defesa Nacional, o seguinte:\n\n1.º Autorizar o Chefe do Estado-Maior-General das Forças Armadas a aprontar, sustentar e empregar as forças que constituirão a missão das Forças Armadas Portuguesas na Stabilization Force (MFAP/SFOR), nos termos dos números seguintes.\n\n2.º A MFAP será basicamente constituída por um batalhão de infantaria motorizada reduzido, com comando, duas companhias de atiradores e respectivo apoio de serviços, a aprontar pelo Exército.\n\n3.º A MFAP será colocada na dependência operacional da brigada italiana, integrada na divisão francesa da SFOR.\n\n4.º Podem ser utilizados meios dos três ramos da Forças Armadas em apoio logístico à MFAP.\n\n5.º A Missão tem a duração máxima de 18 meses, podendo as suas forças ser reduzidas a qualquer momento, por solicitação da OTAN.\n\nMinistério da Defesa Nacional.\n\nAssinada em 23 de Dezembro de 1996.\n\nO Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino."
+  },
+  "26192d9477965b24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2000-02-06",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 44/2000](https://diariodarepublica.pt/dr/detalhe/portaria/44-2000-405923), publicado em 2000-02-01."
+   ],
+   "markdown": "de 29 de Janeiro\n\nO Conselho de Segurança das Nações Unidas mandatou a OTAN para, finda a missão da Força de Implementação da Paz (IFOR) na Bósnia-Herzegovina, prosseguir no terreno com uma nova missão de estabilização da paz.\n\nA OTAN planeou e organizou uma força multinacional, que denominou de Força de Estabilização da Paz (SFOR).\n\nConstitui interesse e dever de Portugal, no âmbito dos compromissos internacionais assumidos, como membro da OTAN, e da prossecução dos objectivos de política externa definidos no Programa do Governo, a sua participação na constituição da SFOR.\n\nFoi consultada a Assembleia da República e ouvido o Conselho Superior de Defesa Nacional.\n\nAssim:\n\nAo abrigo do disposto nos artigos 41.º, n.º 1, e 44.º, n.º 1, da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, e nos termos do artigo 2.º, n.º 1, do [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de Dezembro:\n\nManda o Governo, pelo Ministro da Defesa Nacional, o seguinte:\n\n1.º Autorizar o Chefe do Estado-Maior-General das Forças Armadas a aprontar, sustentar e empregar as forças que constituirão a missão das Forças Armadas Portuguesas na Stabilization Force (MFAP/SFOR), nos termos dos números seguintes.\n\n2.º A MFAP será basicamente constituída por uma força nacional de nível batalhão ou agrupamento, podendo ser conjunta no caso de integrar na sua composição forças de ramos diferentes, sendo o aprontamento final da responsabilidade do Exército.\n\n3.º A MFAP será colocada na dependência operacional do comando da SFOR.\n\n> Alterado pelo/a [Portaria n.º 44/2000](https://diariodarepublica.pt/dr/detalhe/portaria/44-2000-405923), publicado em 2000-02-01.\n\n4.º Podem ser utilizados meios dos três ramos da Forças Armadas em apoio logístico à MFAP.\n\n5.º A Missão tem a duração máxima de 18 meses, podendo as suas forças ser reduzidas a qualquer momento, por solicitação da OTAN.\n\nMinistério da Defesa Nacional.\n\nAssinada em 23 de Dezembro de 1996.\n\nO Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino."
+  }
+ }
+}

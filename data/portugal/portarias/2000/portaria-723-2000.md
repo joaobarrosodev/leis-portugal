@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-07-10'
+version_history:
+  file: portaria-723-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-09-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-07-10'
+    amending: pt:dre:347929:por
+    amending_title: Portaria n.º 687/2001
+    changes:
+    - Altera Artigo unidades 19-20
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/723/2000/09/06/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:25:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 687/2001. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-723-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -171,9 +186,11 @@ Utilizações: até três.
 
 ## ANEXO II — Linha de crédito - Despesas de instalação de jovens agricultores
 
-Objecto - facultar recursos para apoiar a instalação sustentável de jovens agricultores, nomeadamente para aquisição, construção ou melhoria de habitação rural própria, aquisição de direitos de produção ou de direitos a prémio e pagamento antecipado de rendas.
+Objecto - facultar recursos para apoiar a instalação sustentável de jovens agricultores, nomeadamente para aquisição, construção ou melhoria de habitação rural própria, aquisição de direitos de produção ou de direitos a prémio.
 
-Prazo do empréstimo - até 10 anos.
+Prazo do empréstimo - até cinco anos.
+
+> Alterado pelo/a [Portaria n.º 687/2001](https://diariodarepublica.pt/dr/detalhe/portaria/687-2001-347929), publicado em 2001-07-05.
 
 Período de carência - um ano.
 

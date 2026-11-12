@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Os montantes da tabela de remunerações base e diuturnidades dos trabalhadores das administrações portuárias, a que se refere o n.º 1.º da [Portaria n.º 193/90](https://diariodarepublica.pt/dr/detalhe/portaria/193-1990-333162), de 17 de Março, com os aditamentos previstos nas Portarias n.os [863/91](https://diariodarepublica.pt/dr/detalhe/portaria/863-1991-233755), de 23 de Agosto, [239/96](https://diariodarepublica.pt/dr/detalhe/portaria/239-1996-424146), de 4 de Julho, e [1098/99](https://diariodarepublica.pt/dr/detalhe/portaria/1098-1999-661753), de 21 de Dezembro, são actualizados em 1,5%, com arredondamento à décima do euro imediatamente superior.",
+    "depois": "1.º Os montantes da tabela de remunerações base e diuturnidades dos trabalhadores das administrações portuárias, aprovada pelo n.º 1.º da [Portaria n.º 193/90](https://diariodarepublica.pt/dr/detalhe/portaria/193-1990-333162), de 17 de Março, com os aditamentos previstos no n.º 1.º da [Portaria n.º 863/91](https://diariodarepublica.pt/dr/detalhe/portaria/863-1991-233755), de 23 de Agosto, no n.º 2.º da [Portaria n.º 239/96](https://diariodarepublica.pt/dr/detalhe/portaria/239-1996-424146), de 4 de Julho, e no n.º 2 do artigo 81.º da [Portaria n.º 1098/99](https://diariodarepublica.pt/dr/detalhe/portaria/1098-1999-661753), de 21 de Dezembro, resultantes da aplicação do disposto no n.º 1.º da [Portaria n.º 218/2002](https://diariodarepublica.pt/dr/detalhe/portaria/218-2002-265506), de 12 de Março, são actualizados em 1,5%, com arredondamento à décima do euro imediatamente superior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:671225:por",
+    "alterador": "pt:dre:632731:por"
+  },
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Os montantes da tabela de remunerações dos titulares dos cargos de direcção e chefia das administrações portuárias, prevista no n.º 1.º da [Portaria n.º 194/90](https://diariodarepublica.pt/dr/detalhe/portaria/194-1990-333163), de 17 de Março, são actualizados em 1,5%, com arredondamento à décima do euro imediatamente superior.",
+    "depois": "2.º Os montantes da tabela de remunerações base e diuturnidades dos titulares de cargos de direcção e chefia aprovada pelo n.º 1.º da [Portaria n.º 194/90](https://diariodarepublica.pt/dr/detalhe/portaria/194-1990-333163), de 17 de Março, e resultantes da actualização prevista no n.º 2.º da [Portaria n.º 218/2002](https://diariodarepublica.pt/dr/detalhe/portaria/218-2002-265506), de 12 de Março, são actualizados em 1,5%, com arredondamento à décima do euro imediatamente superior.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:671225:por",
+    "alterador": "pt:dre:632731:por"
+  }
+]

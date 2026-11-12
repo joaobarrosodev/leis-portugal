@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:183831:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar a zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Santo Aleixo, município de Monforte, com uma área de 255,8765 ha.",
+      "alterador": 1
+    },
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Santo Aleixo, município de Monforte, com a área de 223,0765 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "As novas plantas anexas publicadas pelas Portarias n.º 1525/2002 e n.º 780/2004 só existem em imagem; a ligação à planta (unidade 19) fica como está.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º (área 255,8765 ha) — substituída a unidade 7, mantendo o número 2.º.",
+    "Alterador 2: nova redação do n.º 2.º (área 223,0765 ha) — substituída a unidade 7, mantendo o número 2.º.",
+    "Plantas novas dos dois alteradores só em imagem — não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituições que se sobrepõem em 7-7"
+  ]
+}

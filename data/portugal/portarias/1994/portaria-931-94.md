@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-09-19'
+version_history:
+  file: portaria-931-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-10-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-09-19'
+    amending: pt:dre:642681:por
+    amending_title: Portaria n.º 1102/2001
+    changes:
+    - Altera Artigo unidades 48-89
+    - Altera Artigo unidades 90-113
+    - Altera Artigo unidades 199-220
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/931/1994/10/20/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:41:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1102/2001. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-931-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -204,9 +221,9 @@ De igual modo deverá ser proporcionada, sempre que possível, a realização de
 
 Programa de estágio do ramo de farmácia
 
-O ingresso na carreira de técnicos superiores de saúde, ramo de farmácia, exige um estágio prévio de três anos.
+O ingresso na carreira de técnico superior de saúde, ramo de farmácia, exige um estágio prévio de três anos.
 
-O estágio do ramo de farmácia representa o meio de aprendizagem complementar, através do qual se pretende proporcionar aos licenciados em Farmácia, que optaram pela carreira de técnicos superiores de saúde, ramo de farmácia, uma formação profissional mais específica do que a que lhe é conferida pela posse do diploma da licenciatura, tendo em vista a inerente especialização.
+O estágio do ramo de farmácia representa o meio de aprendizagem complementar, através do qual se pretende proporcionar aos detentores de licenciaturas em Ciências Farmacêuticas, antigas licenciaturas em Farmácia e Ciências Farmacêuticas (opção A e ramo A), que optaram pela carreira de técnico superior de saúde, ramo de farmácia, uma formação profissional mais específica do que a que lhe é conferida pela posse do diploma da licenciatura, tendo em vista a inerente especialização.
 
 O ramo de farmácia engloba duas áreas de actividade:
 
@@ -214,51 +231,49 @@ O ramo de farmácia engloba duas áreas de actividade:
 
 Área de saúde pública.
 
-Na área hospitalar, pretende-se que a formação teórica e prática adquirida e a experiência vivida no hospital permitam ao estagiário possuir um nível de conhecimentos adequado à sua qualificação profissional, bem com uma visão global das actividades cada vez mais específicas que o farmacêutico hospitalar tem de desempenhar no exercício das funções que lhe estão cometidas.
+Na área hospitalar pretende-se que a formação teórica e prática adquirida e a experiência vivida no hospital permitam ao estagiário possuir um nível de conhecimentos adequados à sua qualificação profissional, bem como uma visão global das actividades cada vez mais específicas que o farmacêutico hospitalar tem de desempenhar no exercício das funções que lhe estão cometidas, incluindo a síntese e controlo de qualidade de medicamentos radioactivos e respectiva protecção radiológica.
 
-Na área de saúde pública, há que conferir ao estagiário conhecimentos que prossigam objectivos do âmbito dos cuidados de saúde primários, bem como no domínio da avaliação do medicamento e da cobertura farmacêutica do País.
+Na área da saúde pública, há que conferir ao estagiário conhecimentos que prossigam objectivos do âmbito dos cuidados de saúde primários, bem como no domínio da avaliação do medicamento e da cobertura farmacêutica do País.
 
 Área hospitalar
 
-I - Gestão - participar na gestão dos produtos farmacêuticos (medicamentos, matérias-primas e outros), nos diferentes processos de aquisição (elaboração de concursos, compras directas e urgentes) e nas técnicas de armazenagem e de segurança dos produtos sujeitos a legislação especial.
+I - Gestão - participar na gestão dos produtos farmacêuticos (medicamentos, matérias-primas e outros), nos diferentes processos de aquisição (elaboração de concursos, compras directas e urgentes), nas técnicas de armazenagem e de segurança dos produtos sujeitos a legislação especial e na avaliação económica das terapêuticas.
 
 Participar no controlo dos prazos de validade dos produtos armazenados.
 
-II - Produção - proceder à preparação de diversas formas farmacêuticas, de acordo com protocolos previamente estabelecidos e seguindo técnicas apropriadas. Colaborar na preparação de citotóxicos e de misturas intravenosas, particularmente as de nutrição parentérica.
+II - Farmacotecnia - proceder à preparação de diversas formas farmacêuticas, de acordo com protocolos previamente estabelecidos e seguindo técnicas apropriadas, designadamente preparação de citotóxicos e de misturas intravenosas, em particular de nutrição parentérica.
 
-III - Controlo de qualidade - analisar, qualitativa e quantitativamente, medicamentos, matérias-primas, material de penso e de embalagem, segundo monografias da Farmacopeia Portuguesa e outras.
+III - Garantia de qualidade - garantir a qualidade de medicamentos e outras preparações efectuadas nos serviços farmacêuticos segundo técnicas apropriadas.
 
-IV - Distribuição - conhecer os diferentes sistemas de distribuição de medicamentos, sua aplicação no hospital e os instrumentos e normas de racionalização da terapêutica medicamentosa (Formulário Nacional Hospitalar de Medicamentos e suas adendas).
+IV - Distribuição - conhecer os diferentes sistemas de distribuição de medicamentos, sua aplicação no hospital e os instrumentos e normas de racionalização da terapêutica medicamentosa (Formulário Nacional Hospitalar de Medicamentosa e suas adendas).
 
 V - Informação - conhecer a orgânica de um centro de informação de medicamentos e como prestar a informação solicitada. Colaborar na elaboração de um boletim informativo sobre medicamentos e preparar um trabalho para avaliação e eventual publicação.
 
-VI - Actividades de farmácia clínica - participar com os serviços clínicos na selecção de uma terapêutica racional, na informação sobre medicamentos, no controlo farmacoterapêutico e em acções de farmacovigilância.
+VI - Actividade de farmácia clínica - participar com os serviços na selecção de uma terapêutica racional, na informação sobre medicamentos, no controlo farmacoterapêutico, designadamente na monitorização do nível sérico de alguns fármacos, e em acções de farmacovigilância.
 
-VII - Comissões técnicas - acompanhar o trabalho do farmacêutico nas comissões que visam uma racional assistência medicamentosa, o controlo de infecção nos hospitais, a farmacovigilância e os ensaios clínicos, assistindo, quando possível, a algumas das suas reuniões e colaborar com os seus elementos, se para tal solicitado.
+VII - Comissões técnicas - acompanhar o trabalho do farmacêutico nas comissões que visam uma racional assistência medicamentosa, o controlo de infecção nos hospitais, a farmacovigilância e os ensaios clínicos, assistindo, quando possível, a algumas das suas reuniões e colaborar com os seus elementos, se para tal for solicitado.
 
-VIII - Actividades de formação - durante o tempo de estágio, os estagiários devem ampliar e actualizar os seus conhecimentos científicos e profissionais, participando em cursos, conferências, seminários, congressos e outras acções de formação.
+VIII - Radiofarmácia - durante o tempo de estágio, os estagiários devem ampliar e actualizar os seus conhecimentos científicos em: produção de radionuclidos; cuidados gerais na preparação de radiofármacos (as químicas de marcação de moléculas com os diferentes radionuclidos usados em medicina nuclear, técnicas de radiomarcação de células sanguíneas, controlo de qualidade - limite de impurezas, cálculo e preparação de unidoses); farmacocinética; problemas relacionados com a preparação e utilização de radiofármacos; princípios de PET e de SPECT; conceitos de protecção às radiações ionizantes.
 
-IX - Diversos - quando nos serviços farmacêuticos do hospital onde o estágio for iniciado não seja possível desenvolver todos os sectores deste programa, deve o estágio ser complementado em serviços farmacêuticos de outros hospitais.
+IX - Actividades de formação - durante o tempo de estágio, os estagiários devem ampliar e actualizar os seus conhecimentos científicos e profissionais, participando em cursos, conferências, seminários, congressos e outras acções de formação.
+
+X - Diversos - quando nos serviços farmacêuticos do hospital onde o estágio for iniciado não seja possível desenvolver todos os sectores deste programa, deve o estágio ser complementado em serviços farmacêuticos de outros hospitais.
 
 Área de saúde pública
 
-A efectuar nos serviços farmacêuticos da direcção de serviços de saúde das sub-regiões de saúde.
+A efectuar nos serviços farmacêuticos das administrações regionais de saúde.
 
-I - Gestão - proceder de forma semelhante à já referida na área hospitalar, com as necessárias adaptações às situações e dimensões das administrações regionais de saúde. Os produtos abrangidos são medicamentos, material de penso e de consumo clínico.
+I - Gestão e distribuição - conhecer o processo de gestão e distribuição às unidades de saúde com e sem internamento, de acordo com as listas de medicamentos e material de penso e de consumo clínico utilizados nas respectivas unidades.
 
-II - Distribuição - conhecer o processo de distribuição às unidades de saúde, com e sem internamento, de acordo com as listas de
+II - Comissões técnicas/apoio técnico - acompanhar a actividade farmacêutica em todas as comissões técnicas existentes a nível dos cuidados primários. Participar no apoio técnico a outros profissionais de saúde e programas desenvolvidos na região.
 
-medicamentos utilizadas nas respectivas unidades.
+III - Acompanhamento do consumo de medicamentos e material de consumo clínico - colaborar, a nível regional, na avaliação de consumos de medicamentos por grupo terapêutico, prescrição médica ou solicitação das unidades de saúde.
 
-III - Informação e apoio técnico - conhecer a orgânica de um serviço de informação de medicamentos e outros produtos farmacêuticos e como veicular a informação necessária. Participar no apoio técnico a outros profissionais de saúde e aos programas desenvolvidos na região.
+IV - Acompanhamento de outras actividades desenvolvidas nos serviços farmacêuticos das administrações regionais de saúde - o estagiário colaborará com os farmacêuticos dos serviços nas actividades que eventualmente possam ser desenvolvidas para além das já mencionadas.
 
-IV - Avaliação de medicamentos - colaborar, a nível regional, na avaliação dos consumos de medicamentos, por grupo terapêutico, prescrição médica ou solicitação das unidades de saúde.
+V - Actividades de formação - também nesta área deverá ser permitido ao estagiário participar em actividades de formação que durante o tempo de estágio venham a ser consideradas necessárias.
 
-V - Farmacovigilância - colaborar na recolha de informação sobre reacções adversas de medicamentos, a nível da região.
-
-VI - Comissões técnicas - acompanhar o trabalho do farmacêutico em comissões que visem racionalizar o consumo de medicamentos.
-
-VII - Actividades de formação - também na área de saúde pública deve ser permitida ao estagiário a participação em actividades de formação que durante o tempo de estágio venham a considerar-se necessárias.
+VI - Farmacovigilância - colaborar com os farmacêuticos do Centro Nacional de Farmacovigilância na recolha de informação sobre reacções adversas de medicamentos.
 
 Duração do estágio
 
@@ -266,75 +281,95 @@ A duração do estágio é de três anos, estabelecida nos seguintes termos:
 
 Área hospitalar:
 
-Gestão (I) - 10 semanas;
+Gestão (I) - 16 semanas;
 
-Produção (II) - 13 semanas;
+Farmacotecnia/garantia de qualidade (II e III) - 20 semanas;
 
-Controlo de qualidade (III) - 12 semanas;
+Distribuição/actividades de farmácia clínica (IV e VI) - 48 semanas;
 
-Distribuição (IV) - 35 semanas;
+Informação (V) - 12 semanas;
 
-Informação (V) - 13 semanas;
+Radiofarmácia (VIII) - 24 semanas.
 
-Actividades de farmácia clínica (VI) - 13 semanas.
-
-Os sectores correspondentes a comissões técnicas (VII) e actividades de formação (VIII) serão desenvolvidos oportuna e atempadamente no decorrer do estágio.
+Os sectores correspondentes a comissões técnicas e actividades de formação serão desenvolvidos oportuna e atempadamente no decorrer do estágio.
 
 Área de saúde pública:
 
-Gestão e distribuição (I, II) - 24 semanas;
+Gestão e distribuição (I) - 8 semanas;
 
-Informação e apoio técnico, avaliação de medicamentos e farmacovigilância (III, IV, V) - 24 semanas.
+Comissões técnicas/apoio técnico (II) - 6 semanas;
 
-Os sectores correspondentes a comissões técnicas (VI) e actividades de formação (VII) serão desenvolvidos oportuna e atempadamente no decorrer do estágio.
+Acompanhamento do consumo de medicamentos (III) - 6 semanas;
 
-Programa de estágio do ramo da física hospitalar
+Farmacovigilância (VI) - 4 semanas.
 
-1 - Objectivos gerais - o estágio do físico hospitalar, que deverá ser multidisciplinar, tem por objectivo a formação de técnicos com capacidade e motivação para a abordagem crítica e inovadora, com elevada capacidade científica, dos problemas da actividade profissional, nas áreas da Radioterapia e Ciências pela Imagem, assim como outras áreas que venham a impor-se no futuro, através de uma formação que os confronte com os avanços das modernas tecnologias, métodos e conceitos da física aplicada à medicina.
+Os sectores correspondentes e acompanhamento de outras actividades e actividades de formação serão desenvolvidos oportuna e atempadamente no decorrer do estágio.
 
-Deverá pois proporcionar ao estagiário uma visão integrada da sua nova profissão, nas suas diferentes componentes, a informação e formação necessárias para o futuro desempenho das funções para que for recrutado e a avaliação das suas capacidades de adaptação não só ao meio hospitalar como científico.
+> Alterado pelo/a [Portaria n.º 1102/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1102-2001-642681), publicado em 2001-09-14.
+
+Programa de estágio do ramo de física hospitalar
+
+1 - Objectivos gerais - o estágio do físico hospitalar tem por objectivo a formação de especialistas com capacidade e motivação para a abordagem científica, crítica e inovadora das áreas relativas às aplicações da física em medicina.
+
+As aplicações reconhecidas em Portugal são actualmente a medicina nuclear, a radiologia e a radioterapia, as chamadas aplicações das radiações ionizantes, mas a curto prazo, e à semelhança do que acontece noutros países, o reconhecimento de novas áreas de colaboração dos físicos torna-se imprescindível tais como as radiações não ionizantes (ressonância nuclear magnética e laser), os ultra-sons, a bioengenharia e as medições fisiológicas (aplicadas em diversas especialidades médicas).
+
+Deverá pois proporcionar ao estagiário uma visão integrada da área em que se desenvolverá a sua actividade profissional, a informação e a formação nos aspectos complementares que permitirão o desempenho das funções para que for recrutado e a avaliação das suas capacidades de adaptação ao trabalho científico que lhe será exigido, assim como a sua capacidade de integração no meio hospitalar em que terá de a desempenhar.
 
 2 - Objectivos específicos:
 
-a) Desenvolver a aplicação à sua profissão através do estudo da física teórica e prática aplicada às áreas acima referidas;
+Desenvolver a aplicação à sua profissão através do estudo da física teórica e prática aplicada às áreas em causa;
 
-b) Proporcionar uma familiarização com as novas técnicas e equipamentos utilizados na terapia e diagnóstico, de modo a inculcar no formando uma aptidão para resolução dos problemas da sua futura profissão;
+Instrução nas áreas médicas complementares que lhe permitam a aplicação eficaz dos métodos da física à medicina;
 
-c) Desenvolver no formando capacidades para se integrar em trabalhos de pesquisa e investigação.
+Proporcionar a familiarização com as técnicas e equipamentos utilizados no diagnóstico e terapia da sua área profissional, de modo a inculcar no formando a aptidão para a resolução dos problemas específicos incluindo o desenvolvimento de novas técnicas, selecção do equipamento e garantia da qualidade deste e dos procedimentos;
+
+Desenvolver no formando a capacidade de se integrar em trabalhos de pesquisa e investigação na equipa multidisciplinar em que deverá integrar-se;
+
+Instrução na deontologia de trabalho particularmente nas aplicações em que as actividades se desenvolvam com doentes.
 
 3 - Áreas de formação:
 
-3.1 - Introdução às Ciências Médicas, Saúde, Higiene e Segurança no Trabalho, Organização Hospitalar/Legislação, Deontologia Profissional, Física das Radiações I, Biofísica e treino em serviço.
+3.1 - Áreas de formação básica - Introdução às Ciências Médicas, Saúde, Higiene e Segurança no Trabalho, Organização Hospitalar/Legislação, Deontologia Profissional, Relações Humanas e papel do especialista em física hospitalar na equipa profissional.
 
-3.2 - Física das Radiações II, Instrumentação Médica (Electrónica Aplicada à Medicina), Métodos Matemáticos e Estatísticos, Computadores em Medicina, Fundamentos Físicos e Aplicações das Radiações Electromagnéticas não Ionisantes, Ultra-Sons e de Lasers e treino em serviço.
+3.2 - Formação Específica:
 
-3.3 - Física das Radiações III, Radiobiologia, Protecção contra as Radiações, Seminários em Dosimetria e Utilização das Radiações, Controlo de Qualidade e treino em serviço.
+3.2.1 - Física das Radiações, Biofísica, Instrumentação Específica, Métodos Matemáticos e Estatísticos, Computadores em Medicina, Radiobiologia, Protecção contra as Radiações (legislação aprovada), Dosimetria, Garantia de Qualidade (equipamento, procedimentos e na saúde em geral).
 
-3.4 - Treino em serviço - consubstancia-se na realização de um trabalho experimental que permitirá aprofundar e consolidar os conhecimentos adquiridos.
+4 - O estágio terá a duração de dois anos.
 
-4 - Natureza e duração do estágio:
+4.1 - O 1.º ano terá duas fases:
 
-4.1 - O estágio compreenderá duas fases:
+Fase de integração;
 
-a) Fase de integração;
+Fase teórico-prática geral.
 
-b) Fase teórico-prática.
+4.2 - O 2.º ano terá três módulos cada um com a duração de quatro meses:
 
-4.2 - A fase de integração destina-se a:
+Módulo em medicina nuclear;
 
-a) Acolhimento do estagiário no serviço;
+Módulo em radiologia;
 
-b) Integração do estagiário no âmbito do regime estatutário dos funcionários e agentes da Administração Pública.
+Módulo em radioterapia.
 
-4.3 - A fase teórico-prática destina-se a:
+4.3 - A fase de integração destina-se a:
 
-a) Facultar ao estagiário uma compreensão mais detalhada das atribuições do serviço onde vier a ser colocado;
+Acolhimento do estagiário no hospital;
 
-b) Habilitar o estagiário com os conhecimentos e recursos necessários ao exercício das respectivas funções;
+Integração do estagiário no âmbito do regime estatutário dos funcionários e agentes da Administração Pública.
 
-c) Permitir a avaliação da capacidade de adaptação à função.
+4.4 - A fase teórico-prática geral destina-se a:
 
-4.4 - Duração do estágio - a duração do estágio é de dois anos. Cada área de formação referida no n.º 3 tem a duração de um semestre.
+Facultar ao estagiário uma compreensão mais detalhada das atribuições que se esperam do seu desempenho profissional;
+
+Habilitar o estagiário com os conhecimentos e recursos indispensáveis ao exercício das respectivas funções;
+
+Permitir a avaliação da sua capacidade de adaptação à função.
+
+4.5 - Os três módulos realizados em três serviços de cada especialidade e devidamente credenciados terão uma componente essencialmente prática e destinam-se a permitir um contacto directo com a actividade de cada serviço em que terão de desempenhar as suas funções.
+
+4.5.1 - Do trabalho realizado em cada módulo será apresentado um relatório detalhado.
+
+> Alterado pelo/a [Portaria n.º 1102/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1102-2001-642681), publicado em 2001-09-14.
 
 Programa de estágio do ramo de genética
 
@@ -506,25 +541,25 @@ Ter espírito crítico e motivação para o aproveitamento científico do trabal
 
 Revelar disponibilidade e sensibilidade para uma boa comunicação com os clínicos, utentes e outras entidades utilizadoras dos serviços.
 
-II - Áreas de formação - tendo em vista o perfil profissional dos TSS, ramo de laboratório, deve a estrutura do processo formativo englobar áreas de formação obrigatórias assim distribuídas:
+II - Áreas de formação - tendo em vista o perfil profissional dos TSS, ramo de laboratório, deve a estrutura do processo formativo englobar áreas de formação obrigatórias, assim distribuídas:
 
-Bacteriologia - 8 meses;
+Bacteriologia - oito meses;
 
-Endocrinologia - 2 meses;
+Endocrinologia - dois meses;
 
-Hematologia - 7 meses;
+Hematologia - sete meses;
 
-Imunologia - 5 meses;
+Imunologia - cinco meses;
 
-Micologia - 2 meses;
+Micologia - dois meses;
 
-Parasitologia - 2 meses;
+Parasitologia - dois meses;
 
-Química clínica - 7 meses;
+Química Clínica - sete meses;
 
-Virologia - 2 meses;
+Virologia - dois meses;
 
-Formação complementar - 3 meses,
+Formação Complementar - três meses;
 
 e um período opcional de seis meses de formação a seleccionar por entre as seguintes áreas:
 
@@ -534,9 +569,11 @@ e um período opcional de seis meses de formação a seleccionar por entre as se
 
 3) Higiene do Trabalho e Ambiente;
 
-4) Patologia Morfológica e Molecular.
+4) Patologia Morfológica e Molecular;
 
-A formação complementar, com a duração de três meses, engloba as seguintes matérias:
+5) Citogenética e Biologia Molecular.
+
+A formação Complementar, com a duração de três meses, engloba as seguintes matérias (ver nota *):
 
 Bioestatística;
 
@@ -549,6 +586,10 @@ Informática;
 Noções de Documentação, Pesquisa Bibliográfica e Comunicação;
 
 Organização, Gestão e Segurança do Laboratório.
+
+(nota *) Sempre que haja dificuldade de cumprimento do período de formação Complementar, o mesmo pode ser utilizado em áreas obrigatórias, cujos períodos de formação sejam considerados insuficientes.
+
+> Alterado pelo/a [Portaria n.º 1102/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1102-2001-642681), publicado em 2001-09-14.
 
 III - Objectivos específicos:
 

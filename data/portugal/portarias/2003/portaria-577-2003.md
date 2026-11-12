@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-08-31'
+version_history:
+  file: portaria-577-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-07-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-31'
+    amending: pt:dre:632731:por
+    amending_title: Portaria n.º 897/2003
+    changes:
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/577/2003/07/16/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:50:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 897/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-577-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,9 +184,13 @@ Ao abrigo do n.º 2 do artigo 3.º do [Decreto-Lei n.º 421/99](https://diarioda
 
 Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Habitação, o seguinte:
 
-1.º Os montantes da tabela de remunerações base e diuturnidades dos trabalhadores das administrações portuárias, a que se refere o n.º 1.º da [Portaria n.º 193/90](https://diariodarepublica.pt/dr/detalhe/portaria/193-1990-333162), de 17 de Março, com os aditamentos previstos nas Portarias n.os [863/91](https://diariodarepublica.pt/dr/detalhe/portaria/863-1991-233755), de 23 de Agosto, [239/96](https://diariodarepublica.pt/dr/detalhe/portaria/239-1996-424146), de 4 de Julho, e [1098/99](https://diariodarepublica.pt/dr/detalhe/portaria/1098-1999-661753), de 21 de Dezembro, são actualizados em 1,5%, com arredondamento à décima do euro imediatamente superior.
+1.º Os montantes da tabela de remunerações base e diuturnidades dos trabalhadores das administrações portuárias, aprovada pelo n.º 1.º da [Portaria n.º 193/90](https://diariodarepublica.pt/dr/detalhe/portaria/193-1990-333162), de 17 de Março, com os aditamentos previstos no n.º 1.º da [Portaria n.º 863/91](https://diariodarepublica.pt/dr/detalhe/portaria/863-1991-233755), de 23 de Agosto, no n.º 2.º da [Portaria n.º 239/96](https://diariodarepublica.pt/dr/detalhe/portaria/239-1996-424146), de 4 de Julho, e no n.º 2 do artigo 81.º da [Portaria n.º 1098/99](https://diariodarepublica.pt/dr/detalhe/portaria/1098-1999-661753), de 21 de Dezembro, resultantes da aplicação do disposto no n.º 1.º da [Portaria n.º 218/2002](https://diariodarepublica.pt/dr/detalhe/portaria/218-2002-265506), de 12 de Março, são actualizados em 1,5%, com arredondamento à décima do euro imediatamente superior.
 
-2.º Os montantes da tabela de remunerações dos titulares dos cargos de direcção e chefia das administrações portuárias, prevista no n.º 1.º da [Portaria n.º 194/90](https://diariodarepublica.pt/dr/detalhe/portaria/194-1990-333163), de 17 de Março, são actualizados em 1,5%, com arredondamento à décima do euro imediatamente superior.
+> Alterado pelo/a [Portaria n.º 897/2003](https://diariodarepublica.pt/dr/detalhe/portaria/897-2003-632731), publicado em 2003-08-26.
+
+2.º Os montantes da tabela de remunerações base e diuturnidades dos titulares de cargos de direcção e chefia aprovada pelo n.º 1.º da [Portaria n.º 194/90](https://diariodarepublica.pt/dr/detalhe/portaria/194-1990-333163), de 17 de Março, e resultantes da actualização prevista no n.º 2.º da [Portaria n.º 218/2002](https://diariodarepublica.pt/dr/detalhe/portaria/218-2002-265506), de 12 de Março, são actualizados em 1,5%, com arredondamento à décima do euro imediatamente superior.
+
+> Alterado pelo/a [Portaria n.º 897/2003](https://diariodarepublica.pt/dr/detalhe/portaria/897-2003-632731), publicado em 2003-08-26.
 
 3.º Os n.os 14.º, 25.º, 37.º e 39.º da [Portaria n.º 1098/99](https://diariodarepublica.pt/dr/detalhe/portaria/1098-1999-661753), de 21 de Dezembro, passam a ter a seguinte redacção:
 

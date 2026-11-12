@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:142350:por",
+  "substituicoes": [
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "2) A aplicação desta tabela não dá lugar a qualquer reembolso, excepto nos casos de suspensão de ensino ou cancelamento do alvará, por a escola deixar de reunir as condições legais e regulamentares de funcionamento ou por facto que acarrete a interrupção da ministração do ensino a determinado instruendo e imputável à escola de condução.",
+      "alterador": 1
+    },
+    {
+      "de": 41,
+      "ate": 41,
+      "texto": "6) A aplicação desta tabela não dá lugar a qualquer reembolso, excepto nos casos de suspensão de ensino ou cancelamento do alvará, por a escola deixar de reunir as condições legais e regulamentares de funcionamento ou por facto que acarrete a interrupção da ministração do ensino a determinado instruendo e imputável à escola de condução.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 342/73): nova redação da observação 2) da tabela A e da observação 6) da tabela C; substituídas as unidades 25 e 41, mantendo a numeração."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 25-25: parágrafo que não está no alterador nem no original: 2) A aplicação desta tabela não dá lugar a qualquer reembolso, excepto nos casos",
+    "substituição 41-41: parágrafo que não está no alterador nem no original: 6) A aplicação desta tabela não dá lugar a qualquer reembolso, excepto nos casos"
+  ]
+}

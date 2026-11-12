@@ -1,0 +1,73 @@
+{
+  "id": "pt:dre:610878:por",
+  "artigos": [
+    {
+      "chave": "9.º",
+      "epigrafe": "Classes e categorias de espaço",
+      "texto": "1 - Para aplicação do Regulamento estão estabelecidas as seguintes classes e categorias de espaço, representadas na planta de ordenamento do concelho e nas plantas de ordenamento dos aglomerados urbanos:\n\n1.1 - Espaços agrícolas:\n\n1.1.1 - Áreas agrícolas;\n\n1.2 - Espaços agro-silvo-pastoris:\n\n1.2.1 - Áreas agro-silvo-pastoris;\n\n1.2.2 - Áreas florestais;\n\n1.3 - Espaços culturais e naturais:\n\n1.3.1 - Áreas da estrutura biofísica fundamental;\n\n1.3.2 - Áreas culturais;\n\n1.4 - Espaços urbanos:\n\n1.4.1 - Áreas a preservar;\n\n1.4.2 - Áreas consolidadas;\n\n1.4.3 - Áreas não estruturadas;\n\n1.5 - Espaços urbanizáveis:\n\n1.5.1 - Espaços urbanizáveis;\n\n1.5.2 - Áreas urbanizáveis de reserva;\n\n1.5.3 - Espaços urbanizáveis de uso misto.\n\n1.6 - Espaços industriais:\n\n1.6.1 - Existentes;\n\n1.6.2 - Propostos.\n\n1.7 - Espaços para indústrias extractivas.\n\n1.8 - Espaços-canais.",
+      "alterador": 2
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "Índices para enquadramento de áreas habitacionais",
+      "texto": "1 - Nas áreas com ocupação predominantemente habitacional podem existir equipamentos e edifícios industriais. As unidades industriais, sendo das classes definidas pela legislação em vigor como compatíveis com habitação, e as unidades de armazenamento podem coexistir com habitação, desde que isoladas de forma a evitar inconvenientes para os residentes. As unidades de outras classes existentes dentro de perímetro urbano, com excepção das que se localizam nos espaços industriais, devem ser removidas logo que possível.\n\n2 - Nestas áreas não são autorizadas instalações agro-pecuárias, depósitos de produtos perigosos, de sucata e de entulho, e os existentes devem ser eliminados sempre que possível.\n\n3 - Em áreas a preservar será mantida a densidade populacional existente. Para as outras categorias das áreas habitacionais consideram-se duas classes de densidade populacional bruta:\n\nBaixa densidade populacional - até 40 habitantes por hectare;\n\nMédia densidade populacional - de 40 a 80 habitantes por hectare;\n\nAlta densidade populacional - de 80 a 160 habitantes por hectare.\n\n4 - São sugeridas as densidades habitacionais para as várias unidades de planeamento no anexo II, sendo a densidade populacional bruta máxima para o restante espaço urbano de cada aglomerado urbano a que se segue:\n\na) Moura - alta;\n\nb) Para os restantes aglomerados urbanos - média.\n\n5 - Para enquadrar planos inferiores, os índices máximos a utilizar são os seguintes, tendo em conta que as áreas habitacionais incluem rede viária, áreas verdes de protecção e pequenos equipamentos locais:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/046b00/03440363.pdf)\n\n6 - A ocupação líquida máxima por lote ou parcela, para cada densidade populacional, respeitando os índices anteriores e um coeficiente líquido de afectação do solo (CASI) de 0,8, poderá atingir os seguintes valores máximos de ocupação:\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/042b00/11251134.pdf)\n\n7 - Para estacionamento em lote ou parcela não abrangida por plano de nível inferior ou operação de loteamento onde se preveja a construção de três ou mais fracções, deverá ser considerado, no mínimo, um lugar por fracção. Para os restantes casos, seguem-se as normas estabelecidas pela legislação em vigor.",
+      "alterador": 2
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "Áreas para equipamentos",
+      "texto": "1 - Nas áreas destinadas à implantação de equipamentos de usos colectivos e manutenção dos existentes não são autorizadas as acções de construção além das necessárias ao equipamento em causa, de destruição de solo vivo e do coberto vegetal e de alteração da topografia e descarga de entulhos.\n\n2 - Os equipamentos desportivos, os cemitérios, os parques de campismo, os campos de feira e as grandes unidades de ensino poderão integrar as áreas verdes de protecção.\n\n3 - Os edifícios públicos de equipamento colectivo poderão, em casos tecnicamente justificados, ter cérceas máximas superiores à cércea determinada pela do edifício mais alto na mesma frente de rua entre transversais imediatas, desde que cumpra o artigo 59.º do Regulamento Geral das Edificações Urbanas.",
+      "alterador": 2
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "Espaços urbanos",
+      "texto": "1 - São espaços que já têm um carácter urbano definido com arruamentos e construções, delimitados como preceituado no artigo 62.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, ou definidos em planos municipais de ordenamento do território eficazes. Estão definidos nas plantas de ordenamento dos aglomerados urbanos à escala de 1:5000.\n\n2 - Nestes espaços podem existir áreas a preservar (AP), áreas consolidadas (AC) e áreas não estruturadas (ANE), bem como equipamentos existentes ou propostos e áreas verdes de protecção.\n\n3 - Para estes espaços, e com a excepção da área abrangida pelo plano de pormenor de salvaguarda e reabilitação do centro histórico de Moura, em vigor, o coeficiente líquido de afectação do solo (CASI) máximo permitido é de 0,8.",
+      "alterador": 2
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "Áreas a preservar (AP)",
+      "texto": "1 - São áreas dos espaços urbanos cujas características são importantes para a identidade do aglomerado e que têm interesse patrimonial pelos ambientes urbanos que criam. As áreas a preservar estão definidas nas plantas de ordenamento dos aglomerados.\n\n2 - Nestas áreas as regras de edificação são as seguintes, sem prejuízo de outras definidas em planos de nível inferior eficazes e enquanto não forem elaborados e aprovados planos de pormenor.\n\n2.1 - A demolição para substituição ou reconstrução dos edifícios e muros de quintais existentes só é autorizada em caso de ruína iminente comprovada por vistoria municipal.\n\n2.2 - Devem ser preservados os elementos arquitectónicos característicos, tais como chaminés, muros com remate de grelha cerâmica, fornos exteriores, bancos integrados nos edifícios, soleiras, beirados e outros a definir pela Câmara Municipal. No interior dos edifícios devem ser preservados os tectos abobadados.\n\n2.3 - Nos casos em que os edifícios estejam implantados sobre rocha (xisto) devem ser mantidas as características dessa implantação e nos aglomerados em que existam ruas com pavimento de xisto estes devem ser preservados, sendo de proibir o trânsito automóvel nestas ruas.\n\n2.4 - A construção de novos edifícios, em caso de demolição ou terreno livre, bem como as ampliações ficam sujeitas às seguintes condicionantes:\n\na) Manutenção da implantação dos limites entre o espaço público e o espaço privado, quando não existir alinhamento da rua definido;\n\nb) Construções com o número de pisos da edificação anterior ou do edifício mais alto da mesma frente de rua entre transversais imediatas até ao limite de dois pisos;\n\nc) A profundidade máxima das edificações, sem prejuízo do estabelecido no artigo 59.º do Regulamento Geral das Edificações Urbanas, é de 14 m;\n\nd) A ocupação da parcela deve ser idêntica à da construção anterior ou das confinantes;\n\ne) A linguagem arquitectónica deve integrar-se na da envolvente urbana, nomeadamente no que respeita às proporções dos vãos e à relação entre os diversos elementos da fachada.\n\nf) As ampliações devem ainda obedecer ao estabelecido no n.º 2.5 deste artigo.\n\n2.5 - São admitidas alterações ou reconstruções em edifícios existentes, devendo ser feitas obras de recuperação em todo o edifício, quando necessário:\n\nRemodelação do edifício com manutenção da fachada e elementos decorativos importantes, bem como da estrutura principal, por forma a manter, tanto quanto possível, a sua tipologia. Os tectos abobadados não poderão ser alterados.\n\n2.6 - As instalações industriais ou armazéns devolutos só podem ser demolidos após vistoria municipal que comprove não se tratar de edifícios com interesse arquitectónico, arqueológico-industrial ou que contribuam de algum modo para caracterizar a zona em que se inserem. Nos casos em que não seja permitida a demolição será definido um uso alternativo.\n\n2.7 - As montras devem seguir as seguintes prescrições:\n\na) Os vãos devem respeitar as prumadas dos vãos existentes ou dos superiores, quando existirem, e o seu tipo de molduras: cantaria ou alvenaria;\n\nb) As montras devem ter recuo idêntico ao dos outros vãos em relação ao plano de fachada.\n\n2.8 - Os elementos publicitários têm as seguintes prescrições:\n\na) Não devem cobrir qualquer elemento arquitectónico (grade, elemento decorativo), sendo sempre colocados abaixo do peitoril das janelas do piso imediatamente acima do estabelecimento;\n\nb) As letras não podem exceder os 40 cm de altura;\n\nc) Não são permitidas caixas luminosas, podendo haver letras soltas luminosas ou iluminadas com um afastamento máximo de 10 cm em relação ao plano de fachada;\n\nd) Os anúncios em bandeira só poderão ser colocados até à altura do tecto do piso imediatamente acima do estabelecimento e não podem ter mais de 60 cm de largura e 1 m de altura;\n\ne) Os toldos só podem ser direitos, de projectar, e sem abas laterais.\n\n2.9 - É interdita a utilização dos seguintes materiais ou elementos construtivos:\n\na) Estores de caixa exterior;\n\nb) Caixilharia em materiais não tradicionais;\n\nc) Revestimento de fachadas ou alizares em azulejo, pedra polida ou reboco tirolês.\n\n2.10 - As construções existentes que não respeitam as presentes normas devem ser corrigidas aquando da realização de obras.",
+      "alterador": 2
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "Áreas consolidadas (AC)",
+      "texto": "1 - São áreas dos espaços urbanos que, não sendo a preservar, têm um tecido predominantemente consistente, onde é possível a edificação lote a lote ou através de loteamento urbano segundo o disposto no artigo 25.º («Índices para enquadramento de áreas habitacionais»).\n\n2 - A construção de edifícios em terreno livre ou para substituição de edifícios existentes bem como as ampliações ficam sujeitas às seguintes prescrições:\n\na) Manutenção da implantação dos limites entre o espaço público e o espaço privado, quando não existir alinhamento da rua definido. As áreas necessárias à rectificação ou alargamento de arruamento são cedidas gratuitamente pelos proprietários;\n\nb) As tipologias serão definidas pelos edifícios do tipo dominante existentes;\n\nc) A profundidade máxima das edificações, sem prejuízo do estabelecido no artigo 59.º do Regulamento Geral das Edificações Urbanas, é de 14 m;\n\nd) Para as construções em lote livre ou para substituição de edifícios existentes, bem como para as ampliações, a cércea máxima será determinada pela do edifício mais alto da mesma rua até ao limite de três pisos para Moura, um piso para Estrela e dois pisos para os restantes aglomerados urbanos, desde que cumpra o artigo 59.º do Regulamento Geral das Edificações Urbanas;\n\ne) Para as reconstruções, a cércea máxima será determinada pela do edifício mais alto da mesma rua até ao limite de três pisos para Moura, um piso para Estrela e dois pisos para os restantes aglomerados urbanos, desde que cumpra o artigo 59.º do Regulamento Geral das Edificações Urbanas;\n\nf) Devem ser preservados os elementos arquitectónicos característicos, tais como chaminés e tectos abobadados.\n\n3 - Nas parcelas de terreno com projecto aprovado são permitidas demolições de construções existentes desde que sejam preservados os elementos arquitectónicos característicos, tais como chaminés e tectos abobadados, ou em caso de ruína iminente comprovada por vistoria municipal.",
+      "alterador": 2
+    },
+    {
+      "chave": "33.º-A",
+      "epigrafe": "Espaços urbanizáveis de uso misto",
+      "texto": "São áreas de expansão urbana onde se prevê a criação de novos conjuntos habitacionais e respectivos equipamentos, bem como de zonas industriais e actividades compatíveis, através da elaboração de plano de pormenor.",
+      "alterador": 2
+    },
+    {
+      "chave": "59.º-A",
+      "epigrafe": "Perímetro de protecção da área reservada das nascentes",
+      "texto": "Os perímetros de protecção dos recursos hidrominerais das nascentes e as respectivas zonas obedecem ao estabelecido na legislação em vigor.",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Usos específicos e edificabilidade",
+      "texto": "(Revogado.)",
+      "alterador": 8
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterações só cartográficas ou não textuais: plantas de ordenamento e de condicionantes (RCM 39/2000 e RCM 27/2003), suspensões parciais com medidas preventivas (RCM 113/2003, Aviso 9711/2012) e ajustamentos do perímetro urbano pelos Planos de Pormenor da Aldeia da Estrela (Aviso 11222/2012) e da UP4 da Amareleja (Aviso 6886/2015); o quadro do n.º 6 do artigo 25.º só vem em imagem (mantida a ligação). A Declaração n.º 59/2017 não traz texto. O Aviso 13157/2019 diz aditar ao artigo 19.º um n.º 3 depois de «1 - ... 2 - ...», mas o artigo 19.º atual já tem n.os 3 a 5 e o novo n.º 3 remete para «alíneas c) a f) do número um», que o n.º 1 atual não tem: o texto em que assenta (redação das alterações de 2008/2011, que não constam) é outro, e não se sabe se substitui o n.º 3 ou acrescenta; não aplicado.",
+  "instrucoes": [
+    "RCM 39/2000: ratifica alteração só de plantas; nada no texto.",
+    "RCM 27/2003: nova redação do n.º 1.5 a 1.8 do art. 9.º (aditado 1.5.3); n.os 6 e 7 do art. 25.º; aditado n.º 3 ao art. 26.º e ao art. 29.º; art. 30.º n.os 2.1, 2.4 (proémio, b), c), nova f)) e 2.5; art. 31.º n.º 2 (proémio, c), d), e), nova f)) e novo n.º 3; aditados arts. 33.º-A e 59.º-A. Aplicado.",
+    "RCM 113/2003 e Aviso 9711/2012: suspensão parcial e medidas preventivas; não alteram o texto.",
+    "Avisos 11222/2012 e 6886/2015: planos de pormenor que ajustam o perímetro urbano (cartografia); nada no texto.",
+    "Declaração 59/2017: sem artigos transcritos; nada aplicado.",
+    "Aviso 13157/2019: revoga o art. 12.º (aplicado); aditamento do n.º 3 ao art. 19.º não aplicado (alvo ambíguo, ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

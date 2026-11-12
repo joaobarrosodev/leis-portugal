@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:617711:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Silva, município de Miranda do Douro, com uma área de 1475,94 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A nova planta anexa à Portaria n.º 791/2003 e à Portaria n.º 1338/2004 só vem em imagem; a Portaria n.º 935/2004 (suspensão do exercício da caça) e a Portaria n.º 1338/2004 (renovação da concessão, área de 1569 ha e interdição eventual na ZPE) não alteram o texto do original.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 791/2003): nova redação do n.º 1.º - substituída a unidade 6, mantendo a numeração 1.º; planta nova só em imagem, não aplicada.",
+    "Alt. 2 (Portaria 935/2004): suspensão do exercício da caça - não textual, não aplicada.",
+    "Alt. 3 (Portaria 1338/2004): renovação da concessão por 12 anos com planta em imagem; a correção da área (1569 ha) só aparece no preâmbulo, sem instrução de alteração do n.º 1.º - não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

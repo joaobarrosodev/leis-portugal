@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:622163:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As alterações dos alteradores 1, 2, 3, 6 e 7 (Portaria n.º 1234/93, RCM n.º 108/97 e 207/97, Avisos n.º 13604/2016 e 3204/2018) incidem sobre o Regulamento e as plantas do PDM de Évora, que não fazem parte do texto da Portaria n.º 5/85 aqui dado (e as plantas só existem em imagem); os alteradores 4 e 5 vêm sem texto.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 1234/93): ratifica plano de pormenor e altera o PDM nos seus termos; nada no texto da portaria: não aplicado.",
+    "Alt. 2 (RCM 108/97): altera plantas e artigo 32.º do Regulamento do PDM, ausentes do texto: não aplicado.",
+    "Alt. 3 (RCM 207/97): altera plantas (perímetro de Guadalupe), só em imagem: não aplicado.",
+    "Alt. 4 e 5: sem texto fornecido: nada a aplicar.",
+    "Alt. 6 (Aviso 13604/2016): nova planta de condicionantes (imagem): não aplicado.",
+    "Alt. 7 (Aviso 3204/2018): altera artigos 3.º, 7.º, 39.º, 140.º e seguintes do Regulamento do PDM e plantas, ausentes do texto: não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

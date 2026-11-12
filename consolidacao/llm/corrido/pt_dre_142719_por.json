@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:142719:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por um único e igual período, à Associação de Caçadores e Agricultores das Barrosas, com o número de pessoa colectiva 505311046 e sede nas Barrosas, Salir, Loulé, a zona de caça associativa das Barrosas (processo n.º 2883-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Salir e Benafim, município de Loulé, com uma área de 1553,9242 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 1033-CG/2004): redefine a área da zona de caça (1466 ha) e substitui a planta anexa, que só existe em imagem, sem dar nova redação a nenhum ponto do texto do original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º — substituída a unidade 6.",
+    "Alterador 2: n.º 1.º altera a área por nova planta e n.º 2.º substitui a planta (imagem); não é alteração textual — não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

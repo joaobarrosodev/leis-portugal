@@ -37,10 +37,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-01-19'
+version_history:
+  file: portaria-711-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-11-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-01-19'
+    amending: pt:dre:663524:por
+    amending_title: Portaria n.º 26/87
+    changes:
+    - Altera Artigo unidades 11-11
 identifiers:
   celex: null
   eli: null
@@ -66,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:56:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 26/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-711-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,7 +145,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e
 
 2 - São elegíveis para as comissões regionais os caçadores que sejam titulares de carta de caçador válida, não se encontrando interditos do direito de caçar.
 
-3.º - 1 - Para efeitos de elaboração de cadernos eleitorais, os clubes e associações de caçadores legalmente existentes enviarão, até ao dia 8 de Janeiro de 1987, para a sede da Direcção-Geral das Florestas o original ou fotocópia da folha do Diário da República em que foi publicado o acto da sua constituição.
+3.º - 1 - Para efeitos de elaboração de cadernos eleitorais, os clubes e associações de caçadores legalmente existentes enviarão, até ao dia 28 de Janeiro de 1987, para a sede da Direcção-Geral das Florestas o original ou fotocópia da folha do Diário da República em que foi publicado o acto da sua constituição.
+
+> Alterado pelo/a [Portaria n.º 26/87](https://diariodarepublica.pt/dr/detalhe/portaria/26-1987-663524), publicado em 1987-01-14.
 
 2 - A Direcção-Geral das Florestas deve elaborar um caderno eleitoral por cada região cinegética, do qual, até 9 de Feveeriro de 1987, dará conhecimento público por edital afixado na sede, em Lisboa, e nos serviços regionais dela dependentes.
 

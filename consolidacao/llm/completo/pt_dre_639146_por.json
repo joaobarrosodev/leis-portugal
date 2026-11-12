@@ -1,0 +1,18 @@
+{
+  "id": "pt:dre:639146:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 137-A/2009: aprova o regime jurídico e estatutos da CP, E. P. E., e revoga o DL 109/77; só cita o DL 270/2003 alterado pelo original; nenhuma instrução dirigida ao DL 231/2007.",
+    "DL 20/2010: altera o artigo 49.º e revoga os n.os 3 e 4 do artigo 20.º do DL 270/2003 'alterado pelo DL 231/2007' — instruções dirigidas a outro diploma; ignoradas.",
+    "DL 62/2010: substitui o anexo V e adita o artigo 66.º-Q ao DL 270/2003 'alterado pelo DL 231/2007' — outro diploma; ignoradas.",
+    "DL 27/2011: sem artigos que mencionem o original; nada.",
+    "DL 214-D/2015: substitui o anexo V do DL 270/2003 — outro diploma; ignorada.",
+    "DL 217/2015: sem artigos que mencionem o original; nada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

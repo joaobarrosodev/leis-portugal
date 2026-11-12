@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:582026:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-09-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "16cc913945c6ca85",
+    "484c1db7480bcca4",
+    "335b79557277b6b3"
+   ]
+  },
+  {
+   "date": "2001-07-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:347929:por",
+     "title": "Portaria n.º 687/2001",
+     "published": "2001-07-05",
+     "dre_path": "/dr/detalhe/portaria/687-2001-347929"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 19-20"
+   ],
+   "fragments": [
+    "16cc913945c6ca85",
+    "484c1db7480bcca4",
+    "4f5b980db87e434f"
+   ]
+  }
+ ],
+ "fragments": {
+  "16cc913945c6ca85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Setembro\n\nConsiderando a necessidade de definir as linhas de crédito e de fixar as bonificações a aplicar no âmbito do Programa Operacional Agricultura e Desenvolvimento Rural, abreviadamente designado Programa Agro:\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 22.º do [Decreto-Lei n.º 163-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-a-2000-220892), de 27 de Julho:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Para efeitos de concessão das ajudas sob a forma de bonificação de juros nos termos dos regulamentos aprovados pelas Portarias n.º 533-B/2000, n.º 533-C/2000, n.º 533-D/2000, n.º 533-E/2000, n.º 533-F/2000 e n.º 533-G/2000, todas de 1 de Agosto, devem ser observadas as seguintes regras:\n\na) A linha de crédito aplicável é a constante do anexo I ao presente diploma, ou, no caso da linha de crédito prevista no n.º 2 do artigo 12.º do regulamento aprovado pela [Portaria n.º 533-B/2000](https://diariodarepublica.pt/dr/detalhe/portaria/533-b-2000-636247), a constante do anexo II a este diploma, do qual fazem parte integrante;\n\nb) O nível de bonificação da taxa de juro é de 62,5% ou 100% da taxa de referência para cálculo de bonificações, consoante se trate, respectivamente, da linha de crédito prevista no anexo I ou no anexo II;\n\nc) A taxa de referência referida no número anterior é a que se encontra estabelecida no [Decreto-Lei n.º 359/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1998-229305), de 18 de Outubro, salvo se aquela for superior à taxa activa da operação, caso em que o valor da bonificação incide sobre esta última.\n\n2.º No caso da linha de crédito referida no anexo II, o montante total das bonificações a atribuir é de, no máximo, 17500 euros por beneficiário.\n\n3.º Sem prejuízo do disposto no [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril, compete ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) adoptar as normas técnicas, financeiras e de funcionamento das linhas de crédito necessárias à execução deste diploma, incluindo a celebração de protocolos com as instituições financeiras, nos quais se estabeleçam, nomeadamente, as condições de processamento das bonificações.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado dos Mercados Agrícolas e da Qualidade Alimentar, em 16 de Agosto de 2000."
+  },
+  "484c1db7480bcca4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Linha de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Linha de crédito\n\nObjecto - facultar recursos para apoiar investimentos em unidades produtivas.\n\nPrazo do empréstimo - até cinco anos.\n\nPeríodo de carência - até dois anos.\n\nUtilizações: até três."
+  },
+  "335b79557277b6b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Linha de crédito - Despesas de instalação de jovens agricultores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Linha de crédito - Despesas de instalação de jovens agricultores\n\nObjecto - facultar recursos para apoiar a instalação sustentável de jovens agricultores, nomeadamente para aquisição, construção ou melhoria de habitação rural própria, aquisição de direitos de produção ou de direitos a prémio e pagamento antecipado de rendas.\n\nPrazo do empréstimo - até 10 anos.\n\nPeríodo de carência - um ano.\n\nUtilizações - uma única, no prazo máximo de seis meses após a celebração do contrato."
+  },
+  "4f5b980db87e434f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Linha de crédito - Despesas de instalação de jovens agricultores",
+   "in_force_from": "2001-07-10",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 687/2001](https://diariodarepublica.pt/dr/detalhe/portaria/687-2001-347929), publicado em 2001-07-05."
+   ],
+   "markdown": "## ANEXO II — Linha de crédito - Despesas de instalação de jovens agricultores\n\nObjecto - facultar recursos para apoiar a instalação sustentável de jovens agricultores, nomeadamente para aquisição, construção ou melhoria de habitação rural própria, aquisição de direitos de produção ou de direitos a prémio.\n\nPrazo do empréstimo - até cinco anos.\n\n> Alterado pelo/a [Portaria n.º 687/2001](https://diariodarepublica.pt/dr/detalhe/portaria/687-2001-347929), publicado em 2001-07-05.\n\nPeríodo de carência - um ano.\n\nUtilizações - uma única, no prazo máximo de seis meses após a celebração do contrato."
+  }
+ }
+}

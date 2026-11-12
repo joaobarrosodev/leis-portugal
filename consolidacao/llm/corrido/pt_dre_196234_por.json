@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:196234:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Nenhum dos alteradores tem instrução textual dirigida à Portaria n.º 134/86: a RCM 80/99 ratifica a revisão do PDM (novo regulamento, sem alterar nem revogar expressamente o texto da portaria) e a RCM 158/2008 suspende parcialmente artigos do regulamento de 1999 e estabelece medidas preventivas.",
+  "instrucoes": [
+    "Alterador 1 (RCM 80/99): ratifica a 1.ª revisão do PDM; só menciona a portaria — nada aplicado.",
+    "Alterador 2 (RCM 158/2008): suspensão parcial do PDM revisto e medidas preventivas — não é do original, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

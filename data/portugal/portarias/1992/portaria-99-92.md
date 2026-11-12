@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-11-10'
+version_history:
+  file: portaria-99-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-02-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-11-10'
+    amending: pt:dre:216369:por
+    amending_title: Portaria n.º 1033/92
+    changes:
+    - Altera Artigo unidades 51-52
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/99/1992/02/19/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:40:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1033/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-99-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -213,9 +228,21 @@ Melhoria das condições de processamento e comercialização
 
 6.º
 
-Restantes específicas
+Restantes acções específicas
 
-1 - No caso das ajudas a conceder às acções específicas 1.3 a 6.1, o processo de candidatura inicia-se com a apresentação pelo interessado, junto dos serviços regionais de agricultura ou das circunscrições florestais competentes, de uma proposta, de acordo com formulário a fornecer por esses mesmos serviços, acompanhada de uma memória descritiva das acções a desenvolver, até 30 de Abril de cada ano.
+1 - No caso das ajudas a conceder às acções específicas 1.3 a 6.1, o processo de candidatura inicia-se com a apresentação pelo interessado, junto dos serviços regionais de agricultura ou das circunscrições florestais competentes, de uma proposta, de acordo com formulário a fornecer por esses mesmos serviços, acompanhada de uma memória descritiva das acções a desenvolver, a entregar:
+
+a) No caso da acção 4.1, até 31 de Março de cada ano;
+
+b) No caso da acção 3.1, 30 dias antes da data prevista para a instalação das colonias e até:
+
+i) 31 de Maio de cada ano, quando se trate da polinização do meloeiro e do girassol;
+
+ii) 30 de Abril de cada ano, para as restantes culturas;
+
+c) No caso das acções 1.3, 2.1 e 4.1 a 6.1, até 30 de Abril de cada ano.
+
+> Alterado pelo/a [Portaria n.º 1033/92](https://diariodarepublica.pt/dr/detalhe/portaria/1033-1992-216369), publicado em 1992-11-05.
 
 2 - A proposta deve, ainda, ser acompanhada de elementos comprovativos dos requisitos de acesso às ajudas e das declarações em que sejam assumidos os compromissos exigidos para a sua concessão.
 

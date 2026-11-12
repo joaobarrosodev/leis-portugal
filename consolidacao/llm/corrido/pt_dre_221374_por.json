@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:221374:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 11,
+      "texto": "3.º - 1 - Para efeitos de elaboração de cadernos eleitorais, os clubes e associações de caçadores legalmente existentes enviarão, até ao dia 28 de Janeiro de 1987, para a sede da Direcção-Geral das Florestas o original ou fotocópia da folha do Diário da República em que foi publicado o acto da sua constituição.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 26/87) altera a data de 8 de Janeiro de 1987 do n.º 3.º, n.º 1, para 28 de Janeiro de 1987: substituída na unidade 11."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:571411:por",
+  "substituicoes": [
+    {
+      "de": 11,
+      "ate": 12,
+      "texto": "2.º A MFAP será basicamente constituída por uma força nacional de nível batalhão ou agrupamento, podendo ser conjunta no caso de integrar na sua composição forças de ramos diferentes, sendo o aprontamento final da responsabilidade do Exército.\n\n3.º A MFAP será colocada na dependência operacional do comando da SFOR.",
+      "alterador": 3
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 1 (Portaria n.º 473/98) e 2 (Portaria n.º 565/99) prorrogam por 12 meses a duração da missão prevista no n.º 5.º, sem darem nova redação ao texto: alteração não textual.",
+  "instrucoes": [
+    "Alterador 1, 1.º: prorroga por 12 meses a duração da MFAP/SFOR - não textual, não aplicado (nao_aplicavel).",
+    "Alterador 2, 1.º: nova prorrogação por 12 meses - não textual, não aplicado (nao_aplicavel); 3.º refere-se a outra portaria.",
+    "Alterador 3: nova redação dos n.os 2.º e 3.º - substituídas as unidades 11-12."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:657872:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-06-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d315a5f423da6675"
+   ]
+  },
+  {
+   "date": "1999-07-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:357512:por",
+     "title": "Lei n.º 91/99",
+     "published": "1999-07-14",
+     "dre_path": "/dr/detalhe/lei/91-1999-357512"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 5-5"
+   ],
+   "fragments": [
+    "1ae2c71e28c76044"
+   ]
+  }
+ ],
+ "fragments": {
+  "d315a5f423da6675": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Junho\n\nAlteração do nome da sede do concelho de Ourém e definição do seu aglomerado urbano\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º e 169.º, n.º 3, da Constituição, o seguinte:\n\nArtigo único. A sede do concelho de Ourém é constituída pelas freguesias de Nossa Senhora da Piedade e de Nossa Senhora das Misericórdias e passa a denominar-se Ourém.\n\nAprovada em 18 de Abril de 1991.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 10 de Maio de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 17 de Maio de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1ae2c71e28c76044": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1999-07-19",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 91/99](https://diariodarepublica.pt/dr/detalhe/lei/91-1999-357512), publicado em 1999-07-14."
+   ],
+   "markdown": "de 8 de Junho\n\nAlteração do nome da sede do concelho de Ourém e definição do seu aglomerado urbano\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º e 169.º, n.º 3, da Constituição, o seguinte:\n\nArtigo único. A sede do concelho de Ourém é constituída pela zona urbana das freguesias de Nossa Senhora da Piedade e de Nossa Senhora das Misericórdias e tem a denominação de Ourém.\n\n> Alterado pelo/a [Lei n.º 91/99](https://diariodarepublica.pt/dr/detalhe/lei/91-1999-357512), publicado em 1999-07-14.\n\nAprovada em 18 de Abril de 1991.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 10 de Maio de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 17 de Maio de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

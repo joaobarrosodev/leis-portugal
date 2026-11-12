@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-07-04'
+version_history:
+  file: portaria-946-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-07-04'
+    amending: pt:dre:392587:por
+    amending_title: Portaria n.º 476/99
+    changes:
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/946/1998/10/31/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:12:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 476/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-946-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,7 +152,9 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 1.º Autorizar o Chefe do Estado-Maior-General das Forças Armadas a aprontar, sustentar e empregar as forças que constituirão a participação militar portuguesa nas operações da OTAN relativas ao Kosovo.
 
-2.º A participação portuguesa será constituída por três aviões F-16 e um efectivo de 53 elementos da Força Aérea Portuguesa, em teatro de operações, além dos necessários voos de sustentação.
+2.º A participação portuguesa é constituída por três aeronaves F-16, ficando mais uma pronta em território nacional, e um efectivo de 59 elementos da Força Aérea, que poderá vir a ser aumentado até um máximo de 65 elementos, sendo extensiva a outros meios que, pela natureza da sua participação em forças NATO constituídas (STANAVFORLANT), tenham de permanecer naquela área a partir de 25 de Maio de 1999.
+
+> Alterado pelo/a [Portaria n.º 476/99](https://diariodarepublica.pt/dr/detalhe/portaria/476-1999-392587), publicado em 1999-06-29.
 
 3.º As referidas forças serão colocadas na dependência do Comando Operacional do Chefe do Estado-Maior-General das Forças Armadas e sob controlo do Comando das Forças Aliadas na Europa (SACEUR).
 
