@@ -40,10 +40,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-05-18'
+version_history:
+  file: portaria-673-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-09-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-05-18'
+    amending: pt:dre:152683:por
+    amending_title: Portaria n.º 283/85
+    changes:
+    - Altera Artigo unidades 15-16
+    - Altera Artigo unidades 18-18
+    - Altera Artigo unidades 25-26
+    - Altera Artigo unidades 28-28
+    - Altera Artigo unidades 41-41
 identifiers:
   celex: null
   eli: null
@@ -69,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:10:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 283/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-673-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,13 +173,17 @@ d) Os grupos B(índice 1) e B(índice 2), que compreendem as destilarias de labo
 
 2 - Para efeitos de licenciamento dos estabelecimentos industriais de destilação, no que respeita a higiene, salubridade e segurança, de que trata o Regulamento de Instalação e Laboração dos Estabelecimentos Industriais, aprovado pelo [Decreto n.º 46924](https://diariodarepublica.pt/dr/detalhe/decreto/46924-1966-486318), de 28 de Março de 1966, deverão os grupos referidos no número anterior ser classificados nas seguintes rubricas, incluídas na tabela anexa à [Portaria n.º 24223](https://diariodarepublica.pt/dr/detalhe/portaria/24223-1969-405755), de 4 de Agosto de 1969:
 
-a) Os grupos A(índice 0) e A(índice 1) são incluídos no grupo 3131.1 da CAE;
+a) O grupo A(índice 0) é incluído no grupo 3131.1 da CAE;
 
-b) Os grupos A(índice 2), B(índice 1) e B(índice 2) são incluídos no grupo 3131.2 da CAE.
+b) Os grupos A(índice 1), A(índice 2), B(índice 1) e B(índice 2) são incluídos no grupo 3131.2 da CAE.
+
+> Alterado pelo/a [Portaria n.º 283/85](https://diariodarepublica.pt/dr/detalhe/portaria/283-1985-152683), publicado em 1985-05-13.
 
 3 - A instalação e o funcionamento dos estabelecimentos industriais de destilação e preparação de bebidas espirituosas deverão satisfazer os condicionalismos contidos no Regulamento indicado no número anterior e bem assim as demais prescrições adiante contidas nesta portaria, nos capítulos III e IV.
 
-4 - Os projectos de instalações de estabelecimentos incluídos na 1.ª classe dos grupos 3131.1 e 3131.2 deverão ser submetidos a prévio parecer da Administração-Geral do Açúcar e do Álcool (AGA), nos mesmos termos em que são submetidos à apreciação da Direcção-Geral de Saúde, conforme preceitua o artigo 7.º do referido Regulamento, aprovado pelo Decreto-Lei n.º 46924, de 28 de Março de 1966.
+4 - Os projectos de instalações de estabelecimentos incluídos na 1.ª classe dos grupos 3131.1 e 3131.2 deverão ser submetidos a prévio parecer dos organismos vinícolas e da Administração-Geral do Açúcar e do Álcool (AGA), conforme os casos.
+
+> Alterado pelo/a [Portaria n.º 283/85](https://diariodarepublica.pt/dr/detalhe/portaria/283-1985-152683), publicado em 1985-05-13.
 
 ### Capítulo II — Registos
 
@@ -174,13 +197,17 @@ b) Os grupos A(índice 2), B(índice 1) e B(índice 2) são incluídos no grupo 
 
 Boletim de registo das características da actividade e do estabelecimento industrial, segundo modelo dos organismos vinícolas ou da AGA;
 
-Documento comprovativo do licenciamento do estabelecimento industrial emitido pelo Ministério da Indústria e Energia;
+Documento comprovativo do licenciamento, emitido pelo Ministério da Indústria e Energia, para os estabelecimentos industriais de 1.ª e 2.ª classes incluídos na tabela anexa à portaria referida no n.º 2;
 
-Planta das instalações, mencionando a escala respectiva e indicando todo o vasilhame fixo e móvel existente, sua localização, numeração e respectivas capacidades em litros.
+Planta das instalações mencionando a escala respectiva e indicando todo o vasilhame fixo e móvel existente, sua localização, numeração e respectivas capacidades em litros.
+
+> Alterado pelo/a [Portaria n.º 283/85](https://diariodarepublica.pt/dr/detalhe/portaria/283-1985-152683), publicado em 1985-05-13.
 
 9 - Não carecem de apresentação da planta, assim como do pagamento da importância referidos no número anterior, os estabelecimentos industriais pertencentes ao grupo B(índice 2) que laborem produtos exclusivamente da sua própria produção.
 
-10 - A vistoria referida no n.º 5 tem um período de validade de 5 anos, findos os quais deverá ser novamente requerida.
+10 - A vistoria referida no n.º 8 tem um período de validade de 5 anos, findos os quais deverá ser novamente requerida.
+
+> Alterado pelo/a [Portaria n.º 283/85](https://diariodarepublica.pt/dr/detalhe/portaria/283-1985-152683), publicado em 1985-05-13.
 
 11 - O adquirente deverá identificar-se, para efeitos de registo, com o documento comprovativo de ter sido averbado o seu nome, pela entidade licenciadora, no estabelecimento industrial que veio à sua posse.
 
@@ -206,7 +233,9 @@ Planta das instalações, mencionando a escala respectiva e indicando todo o vas
 
 20 - Os destilados alcoólicos produzidos nas destilarias do grupo A(índice 1) só podem ser armazenados em depósitos invioláveis e de selagem fácil.
 
-21 - A tubagem de distribuição dos destilados alcoólicos deve ser visível e de acesso fácil, com sinalização expressa na obrigatoriedade contida na norma portuguesa n.º 182, aprovada pela [Portaria n.º 22150](https://diariodarepublica.pt/dr/detalhe/portaria/22150-1966-474505), de 4 de Agosto de 1967.
+21 - A tubagem de distribuição dos destilados alcoólicos deve ser visível e de acesso fácil, com sinalização expressa na obrigatoriedade contida na norma portuguesa n.º 182, aprovada pela [Portaria n.º 22150](https://diariodarepublica.pt/dr/detalhe/portaria/22150-1966-474505), de 4 de Agosto de 1966.
+
+> Alterado pelo/a [Portaria n.º 283/85](https://diariodarepublica.pt/dr/detalhe/portaria/283-1985-152683), publicado em 1985-05-13.
 
 22 - O engarrafamento de bebidas espirituosas, obtidas pela lotagem de destilados alcoólicos rectificados com destilados simples, só é permitido desde que se efectue sob o controle directo dos organismos competentes.
 

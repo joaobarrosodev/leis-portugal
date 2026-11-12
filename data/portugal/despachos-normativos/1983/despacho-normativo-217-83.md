@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-02-05'
+version_history:
+  file: despacho-normativo-217-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-12-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-02-05'
+    amending: pt:dre:660955:por
+    amending_title: Despacho Normativo n.º 28/84
+    changes:
+    - Altera Artigo unidades 24-24
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:25:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 28/84. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1983/despacho-normativo-217-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,7 +173,9 @@ b) Financiamentos para capital fixo e circulante, até ao valor global de 3 milh
 
 4.º Em caso de mora do mutuário, deixará de aplicar-se a taxa de juro bonificada, passando a seguir-se o regime previsto no [Decreto-Lei n.º 344/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1978-325760), de 17 de Novembro.
 
-5.º Os pedidos de apoio financeiro ao abrigo destas linhas de crédito deverão dar entrada nas instituições de crédito até ao dia 31 de Janeiro de 1984.
+5.º Os pedidos de apoio financeiro ao abrigo destas linhas de crédito deverão dar entrada nas instituições de crédito até ao dia 29 de Fevereiro de 1984.
+
+> Alterado pelo/a [Despacho Normativo n.º 28/84](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/28-1984-660955), publicado em 1984-01-31.
 
 6.º O Banco de Portugal e a comissão coordenadora que funciona junto ao Ministério da Administração Interna definirão os mecanismos processuais referentes aos apoios previstos no presente despacho.
 

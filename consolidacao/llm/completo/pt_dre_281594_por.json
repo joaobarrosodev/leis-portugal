@@ -1,0 +1,111 @@
+{
+  "id": "pt:dre:281594:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::1.º",
+      "epigrafe": "Objecto e âmbito de aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::2.º",
+      "epigrafe": "Apoio financeiro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::3.º",
+      "epigrafe": "Forma e modalidade de concessão do apoio",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::4.º",
+      "epigrafe": "Beneficiários",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::5.º",
+      "epigrafe": "Prazos e número de concursos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::6.º",
+      "epigrafe": "Publicitação dos concursos",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::7.º",
+      "epigrafe": "Instrução das candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::8.º",
+      "epigrafe": "Júri",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::9.º",
+      "epigrafe": "Apreciação das candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::10.º",
+      "epigrafe": "Acordo de financiamento",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::11.º",
+      "epigrafe": "Acompanhamento e avaliação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::12.º",
+      "epigrafe": "Fiscalização",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::13.º",
+      "epigrafe": "Suspensão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::14.º",
+      "epigrafe": "Rescisão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::15.º",
+      "epigrafe": "Entidades com protocolos em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "ANEXO — Regulamento de Apoio às Artes do Espectáculo de Carácter Profissional e de Iniciativa não Governamental::16.º",
+      "epigrafe": "Concursos abertos em 2001",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Despacho Normativo n.º 21-A/2001), n.º 4: revoga o Despacho Normativo n.º 23/2000; os 16 artigos do Regulamento anexo ficam (Revogado.).",
+    "Alterador 1, n.os 1 a 3 e anexos I a IV: aprovam novos regulamentos autónomos para 2002; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

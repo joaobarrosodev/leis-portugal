@@ -1,0 +1,28 @@
+{
+  "id": "pt:dre:169944:por",
+  "substituicoes": [
+    {
+      "de": 16,
+      "ate": 18,
+      "texto": "",
+      "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "4.º A referida pesca só poderá ser exercida para além das seis milhas de distância da costa, excepto ao largo do Algarve, onde também e permitida em zonas no interior desse limite que estejam por fora da. isobatimétrica dos 150 m.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 20250): o n.º 1.º prorroga o regime experimental até 31 de Dezembro de 1965 e o n.º 3.º fixa a malhagem mínima dos sacos das redes como norma autónoma; nenhum deles altera textualmente o original.",
+  "instrucoes": [
+    "Alt. 1: eliminadas as normas 8.ª, 9.ª e 10.ª — unidades 16 a 18 eliminadas",
+    "Alt. 2, n.º 2.º: nova redação do n.º 4.º — substituída a unidade 12",
+    "Alt. 2, n.os 1.º e 3.º: prorrogação e malhagem, não textuais — não aplicadas",
+    "Alt. 3: altera a Portaria n.º 22312, não o original — ignorada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

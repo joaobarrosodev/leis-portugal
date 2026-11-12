@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.402 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.418 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -168,8 +168,14 @@ Destes 618, 592 ainda não foram pedidos.
 | --- | --: | --: | --: | --: |
 | 86 | 37 | 18 | 14 | 555 |
 | 87 | 36 | 24 | 16 | 515 |
+| 88 | 39 | 27 | 16 | 474 |
 
 Na ronda 87, a Portaria 680/71 foi para `llm/exclusoes.json`, porque está revogada por inteiro pela Portaria 654/74. Dois diplomas da vista 001 ficaram sem resposta do verificador e não entram.
+
+Na ronda 88 foram para `llm/exclusoes.json` seis diplomas revogados por inteiro: as Portarias 486/94 (pela Portaria 248/98), 1080/82 (pelo DL 190/2001), 497/96 e 317/96, o Despacho Normativo 23/2000 e o Decreto Regulamentar 61/91. Dos 23 juntados que sobram, 7 têm todos os artigos `certo` mas não se aplicam, porque o verificador deixou uma nota no diploma. Por exemplo:
+- a Portaria 733/89 não tem os títulos das secções V e VI aditadas (aditar títulos continua por exprimir);
+- noutros, um quadro ou um mapa só em imagem;
+- ou um alargamento de composição sem texto novo.
 
 **O que isto quer dizer para o RAG.** O aviso "Texto original; alterado por…" mantém-se em todos os diplomas alterados sem versão consolidada, mesmo nos "sem alteração textual". Tirá-lo nesses casos faria o sistema responder com texto desatualizado em cerca de 14% a 28% deles (`rag/README.md`).
 

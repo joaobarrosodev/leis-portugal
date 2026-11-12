@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "2.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 2.º — Supranumerários\n\nSão supranumerários os estudantes que se encontram numa das seguintes situações:\n\na) Funcionários portugueses de missão diplomática portuguesa no estrangeiro e seus familiares;\n\nb) Cidadãos portugueses bolseiros no estrangeiro ou funcionários públicos em missão oficial no estrangeiro e seus familiares;\n\nc) Oficiais do quadro permanente das forças armadas portuguesas, no âmbito da satisfação de necessidades específicas de formação das forças armadas;\n\nd) Funcionários estrangeiros de missão diplomática acreditada em Portugal e seus familiares, em regime de reciprocidade.",
+    "depois": "###### Artigo 2.º — Supranumerários\n\nSão supranumerários os estudantes que se encontram numa das seguintes situações:\n\na) Funcionários portugueses de missão diplomática portuguesa no estrangeiro e seus familiares;\n\nb) Cidadãos portugueses bolseiros no estrangeiro ou funcionários públicos em missão oficial no estrangeiro e seus familiares;\n\nc) Oficiais do quadro permanente das forças armadas portuguesas, no âmbito da satisfação de necessidades específicas de formação das forças armadas;\n\nd) Funcionários estrangeiros de missão diplomática acreditada em Portugal e seus familiares, em regime de reciprocidade.\n\ne) Atletas de alta competição constantes do registo organizado ao abrigo da alínea a) do artigo 4.º do [Decreto-Lei n.º 257/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1990-573547), de 7 de Agosto.\n\nf) Naturais e filhos de naturais de territórios sob administração portuguesa, mas temporariamente ocupados por forças armadas e Estados estrangeiros.\n\n> Alterado pelo/a [Portaria n.º 811/90](https://diariodarepublica.pt/dr/detalhe/portaria/811-1990-556415), publicado em 1990-09-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:380477:por",
+    "alterador": "pt:dre:556415:por;pt:dre:350547:por"
+  },
+  {
+    "artigo": "11.º-A",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 11.º-A — Âmbito\n\nSão abrangidos por este regime os atletas de alta competição constantes do registo organizado ao abrigo da alínea a) do artigo 4.º do [Decreto-Lei n.º 257/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1990-573547), de 7 de Agosto, que satisfaçam as condições constantes das alíneas a) e b) do n.º 1 do artigo 8.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707).\n\n> Aditado pelo/a [Portaria n.º 811/90](https://diariodarepublica.pt/dr/detalhe/portaria/811-1990-556415), publicado em 1990-09-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:380477:por",
+    "alterador": "pt:dre:556415:por;pt:dre:350547:por"
+  },
+  {
+    "artigo": "11.º-B",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 11.º-B — Cursos para que podem requerer matrícula e inscrição\n\nOs estudantes abrangidos por este regime podem requerer a matrícula e a inscrição nos cursos superiores para os quais satisfaçam as condições específicas a que se refere o n.º 1 do artigo 9.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707).\n\n> Aditado pelo/a [Portaria n.º 811/90](https://diariodarepublica.pt/dr/detalhe/portaria/811-1990-556415), publicado em 1990-09-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:380477:por",
+    "alterador": "pt:dre:556415:por;pt:dre:350547:por"
+  },
+  {
+    "artigo": "11.º-C",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 11.º-C — Âmbito\n\nSão abrangidos por este regime os estudantes naturais de territórios sob administração portuguesa, mas temporariamente ocupados por forças armadas e Estados estrangeiros, que satisfaçam as condições constantes das alíneas a) e b) do n.º 1 do artigo 8.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707).\n\n> Aditado pelo/a [Portaria n.º 895-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/895-a-1991-350547), publicado em 1991-08-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:380477:por",
+    "alterador": "pt:dre:556415:por;pt:dre:350547:por"
+  },
+  {
+    "artigo": "11.º-D",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 11.º-D — Cursos para que podem requerer matrícula e inscrição\n\nOs estudantes abrangidos por este regime podem requerer a matrícula e a inscrição nos cursos superiores para os quais satisfaçam as condições específicas a que se refere o n.º 1 do artigo 9.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707).\n\n> Aditado pelo/a [Portaria n.º 895-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/895-a-1991-350547), publicado em 1991-08-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:380477:por",
+    "alterador": "pt:dre:556415:por;pt:dre:350547:por"
+  }
+]

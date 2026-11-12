@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:300255:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alteradores 1 (RCM n.º 163/2007) e 2 (Aviso n.º 8335/2015) não trazem texto com instruções dirigidas ao original. O alterador 3 (Aviso n.º 10917/2018) dá nova redação aos artigos 18.º ('Caracterização e usos', Subsecção II — Áreas de equipamentos estruturantes existentes) e 46.º ('Áreas de equipamentos estruturantes', Secção IX — Espaço de uso múltiplo) de outro Regulamento do PDM de Penafiel (o da revisão posterior, com outra estrutura e numeração); no texto atual (Regulamento de 1994) o 18.º é 'Instalações de recolha e tratamento de lixos' e o 46.º é 'Estacionamento obrigatório', sem correspondência com o texto novo e sem as divisões referidas: alvo não coincide com o texto atual, não aplicado.",
+  "instrucoes": [
+    "Alterador 1 (RCM 163/2007): sem texto de instruções sobre o original; nada aplicado.",
+    "Alterador 2 (Aviso 8335/2015): sem texto de instruções sobre o original; nada aplicado.",
+    "Alterador 3 (Aviso 10917/2018): nova redação dos artigos 18.º e 46.º do Regulamento do PDM revisto, que não correspondem aos artigos 18.º e 46.º do texto atual; não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

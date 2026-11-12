@@ -1,0 +1,58 @@
+[
+  {
+    "artigo": "unidades 25-25",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "XI - 1. As direcções das distritos escolares afixarão em lugar acessível ao público, numa das dependências dos seus serviços, pelas 9 horas e 30 minutos do dia 25 de Agosto, as listas graduadas provisórias dos professores e dos agentes dos quadros de agregados, organizadas nos termos do artigo 9.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931.",
+    "depois": "XI - 1. As direcções das distritos escolares afixarão em lugar acessível ao público, numa das dependências dos seus serviços, pelas 9 horas e 30 minutos do dia 15 de Setembro, as listas graduadas provisórias dos professores e dos agentes dos quadros de agregados, organizadas nos termos do artigo 9.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:138806:por",
+    "alterador": "pt:dre:402685:por"
+  },
+  {
+    "artigo": "unidades 38-43",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "XII - 1. No dia, hora e local referidos no número anterior, as direcções dos distritos escolares afixarão a relação de todos os lugares vagos em escolas e postos escolares, com indicação do motivo que as determina.\n\n2. Serão incluídas na relação atrás referida, além das vagas existentes à data da afixação, as vagas resultantes do movimento de professores comunicadas às direcções dos distritos escolares pela Direcção de Serviços de Pessoal até ao dia 24 de Agosto.\n\n3. Serão também incluídas na mesma relação as vagas resultantes do movimento dos professores e que, apesar de não comunicadas, ainda possam verificar-se até 9 de Setembro, mas com observação de que poderão ser preenchidas até esta data.\n\n4. Os professores e regentes agregados têm de requerer das 9 horas e 30 minutos do dia 25 até às 12 horas do dia 30 de Agosto, pelo menos, vinte das vagas constantes das relações, indicando por ordem de preferência as que mais lhes interessarem, podendo acrescentar esta lista em folha de papel de 25 linhas anexa.\n\n5. Após a indicação dos lugares referidos no número anterior, os concorrentes têm de indicar obrigatoriamente todos os concelhos do distrito, por ordem de preferência, para a hipótese de não obterem colocação em qualquer dos lugares a que se refere o número anterior.\n\n6. Os candidatos que não cumprirem o disposto nos n.os 4 e 5 só poderão vir a ser chamados depois da colocação de todos os concorrentes.",
+    "depois": "XII - 1. No dia 15 de Setembro de 1975, na hora e locais referidos no número anterior, as direcções dos distritos escolares afixarão a relação de todos os lugares vagos que venham a criar até esta data em escolas e postos escolares, com indicação do motivo que as determina.\n\n2 - a) Serão incluídas na mesma relação os lugares vagos resultantes de transferências cujo conhecimento a Direcção de Serviços de Pessoal da Direcção-Geral da Administração Escolar possa dar às direcções escolares até àquela data.\n\nb) Da mesma lista não deverão constar os novos lugares para os quais os professores referidos na alínea anterior irão ser transferidos.\n\n3. Os professores e regentes agregados têm de requerer, das 9 horas e 30 minutos do dia 15 até às 12 horas do dia 17 de Setembro, pelo menos vinte das vagas constantes das relações, indicando por ordem de preferência as que mais lhes interessarem, podendo acrescentar esta lista em folha de vinte e cinco linhas anexa. Caso o concorrente não apresente novo requerimento, considerar-se-á válido o do concurso anulado pela presente portaria.\n\n4. Os candidatos que não cumprirem o disposto no número anterior só poderão vir a ser chamados depois da colocação de todos os concorrentes.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:138806:por",
+    "alterador": "pt:dre:402685:por"
+  },
+  {
+    "artigo": "unidades 44-44",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "XIII - As colocações nos lugares requeridos far-se-ão com base na ordenação constante das listas graduadas.",
+    "depois": "XIII - 1. As colocações nos lugares requeridos far-se-ão no período que decorre de 19 a 27 de Setembro com base na ordenação constante das listas graduadas.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:138806:por",
+    "alterador": "pt:dre:402685:por"
+  },
+  {
+    "artigo": "unidades 45-45",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "XXIII - 1. Os agentes de ensino do quadro de agregados apresentar-se-ão nos lugares indicados nos respectivos alvarás no dia 10 de Setembro, ou no primeiro dia útil seguinte, ou no prazo de três dias, a contar da recepção do alvará, se a colocação for posterior ao início do ano escolar.",
+    "depois": "XXIII - 1. Os agentes de ensino deverão apresentar-se nos lugares indicados nos respectivos alvarás no dia 1 de Outubro, ou no prazo de três dias, a contar da recepção do alvará, se a colocação for posterior ao início do ano lectivo.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:138806:por",
+    "alterador": "pt:dre:402685:por"
+  }
+]

@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-02-13'
+version_history:
+  file: portaria-837-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-09-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-02-13'
+    amending: pt:dre:169232:por
+    amending_title: Portaria n.º 102/99
+    changes:
+    - Altera Artigo unidades 3-3
+    - Altera Artigo unidades 8-8
+    - Altera Artigo unidades 10-10
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/837/1998/09/30/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:11:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 102/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-837-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,7 +153,9 @@ validation:
 
 de 30 de Setembro
 
-Pela [Portaria n.º 1024/90](https://diariodarepublica.pt/dr/detalhe/portaria/1024-1990-555871), de 12 de Outubro, foi concessionada à Companhia Agrícola de Penha Garcia, S. A., a zona de caça turística das Herdades da Granja e Vale Feitoso, processo n.º 411-DGF, situada no município de Idanha-a-Nova, com uma área de 7616,2681 ha, válida até 31 de Maio de 2002.
+Pela [Portaria n.º 1024/90](https://diariodarepublica.pt/dr/detalhe/portaria/1024-1990-555871), de 12 de Outubro, corrigida pela [Portaria n.º 784/91](https://diariodarepublica.pt/dr/detalhe/portaria/784-1991-682254), de 8 de Agosto, foi concessionada à Companhia Agrícola de Penha Garcia, S. A., a zona de caça turística das Herdades da Granja e Vale Feitoso (processo n.º 411-DGF), situada no município de Idanha-a-Nova, com uma área de 5852,8125 ha, válida até 31 de Maio de 2002.
+
+> Alterado pelo/a [Portaria n.º 102/99](https://diariodarepublica.pt/dr/detalhe/portaria/102-1999-169232), publicado em 1999-02-08.
 
 A concessionária requereu agora a anexação à referida zona de caça de alguns prédios rústicos com uma área de 990,30 ha.
 
@@ -146,11 +165,15 @@ Com fundamento no disposto nos artigos 20.º da [Lei n.º 30/86](https://diariod
 
 Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º São anexados à zona de caça turística criada pela [Portaria n.º 1024/90](https://diariodarepublica.pt/dr/detalhe/portaria/1024-1990-555871) vários prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Penha Garcia, município de Idanha-a-Nova, ficando a mesma com uma área total de 8606,5681 ha.
+1.º São anexados à zona de caça turística criada pela [Portaria n.º 1024/90](https://diariodarepublica.pt/dr/detalhe/portaria/1024-1990-555871), corrigida pela [Portaria n.º 784/91](https://diariodarepublica.pt/dr/detalhe/portaria/784-1991-682254), de 8 de Agosto, vários prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Penha Garcia, município de Idanha-a-Nova, ficando a mesma com uma área total de 6843,1125 ha.
+
+> Alterado pelo/a [Portaria n.º 102/99](https://diariodarepublica.pt/dr/detalhe/portaria/102-1999-169232), publicado em 1999-02-08.
 
 2.º Foi ainda a presente anexação considerada de relevante interesse, nos termos da alínea b) do n.º 2 do artigo 66.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, condicionada à apresentação, na Direcção-Geral do Turismo, dos termos de responsabilidade dos aparelhos a gás utilizados e das análises comprovativas da potabilidade da água para abastecimento do pavilhão de caça.
 
-3.º A zona de caça passará a ser fiscalizada por cinco guardas florestais auxiliares dotados de meio de transporte.
+3.º A zona de caça passará a ser fiscalizada por quatro guardas florestais auxiliares, dotados de meio de transporte.
+
+> Alterado pelo/a [Portaria n.º 102/99](https://diariodarepublica.pt/dr/detalhe/portaria/102-1999-169232), publicado em 1999-02-08.
 
 Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 

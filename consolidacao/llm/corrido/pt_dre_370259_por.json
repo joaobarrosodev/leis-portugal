@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:370259:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O n.º 1.º da Portaria n.º 895-A/94 (alteradores 1 e 2, o mesmo diploma repetido) retifica a localização da reserva CHV-1 dizendo que engloba de facto áreas da freguesia de Sanjurge, mas não dá nova redação à unidade 19 (que diz 'na freguesia de Beça'); trocar o texto seria inventar a redação. Os restantes pontos dirigem-se à Portaria n.º 725-B/93 ou são disposições próprias.",
+  "instrucoes": [
+    "Alt. 1, n.º 1.º: retificação da localização da CHV-1 (freguesia de Sanjurge) sem nova redação; não aplicado.",
+    "Alt. 1, n.os 2.º e 3.º: dirigidos à Portaria 725-B/93; ignorados.",
+    "Alt. 1, n.os 4.º a 7.º: disposições próprias da Portaria 895-A/94; ignorados.",
+    "Alt. 2: duplicado do alterador 1 (mesmo diploma); nada a acrescentar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

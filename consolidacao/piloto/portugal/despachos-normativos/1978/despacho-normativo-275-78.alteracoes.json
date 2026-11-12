@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "8 - Poderá concorrer à categoria de assessor da respectiva carreira o pessoal de categoria remunerada pela letra E com, pelo menos, seis anos de serviço nessa categoria ou, pelo menos, nove anos de serviço acumulado em categorias remuneradas pelas letras E e F e o pessoal de categoria remunerada pela letra F com, pelo menos, nove anos de serviço nessa categoria, dentro do condicionalismo de contingentação referido no n.º 2 do artigo 12.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266).",
+    "depois": "8 - Poderá concorrer à categoria de assessor da respectiva carreira o pessoal de categoria remunerada pela letra E com, pelo menos, seis anos de serviço nessa categoria ou, pelo menos, nove anos de serviço acumulado em categorias remuneradas pelas letras E e F, o pessoal de categoria remunerada pela letra F com, pelo menos, nove anos de serviço nessa categoria e o pessoal de categorias remuneradas pelas letras E e F com, pelo menos, vinte anos de serviço na carreira.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:328669:por",
+    "alterador": "pt:dre:392659:por"
+  },
+  {
+    "artigo": "depois da unidade 17",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "16 - O pessoal com as condições exigidas pelos n.os 8 e 9 poderá antecipadamente ser submetido, desde que o requeira, à avaliação curricular mencionada no n.º 7, se se encontrar na situação de ser aposentado, por imposição do limite de idade, em data anterior à da concretização do concurso previsto no mesmo n.º 7.\n\n17 - O pessoal com as condições exigidas pelos n.os 8 e 9 poderá antecipadamente ser submetido, desde que o requeira, à avaliação curricular mencionada no n.º 7, se tiver requerido a sua aposentação, com base em incapacidade física, em data anterior à da concretização do concurso previsto no mesmo n.º 7, com a condição do provimento resultante dessa avaliação ser anulado se a entidade legalmente competente não conceder a aposentação requerida.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:328669:por",
+    "alterador": "pt:dre:392659:por"
+  }
+]

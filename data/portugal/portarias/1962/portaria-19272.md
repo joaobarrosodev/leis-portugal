@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-08-08'
+version_history:
+  file: portaria-19272.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-07-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-08-08'
+    amending: pt:dre:693388:por
+    amending_title: Portaria n.º 19999
+    changes:
+    - Altera Artigo unidades 10-46
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:16:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 19999. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1962/portaria-19272.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,76 +130,78 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do
 
 Ministério da Marinha, 13 de Julho de 1962. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
 
-Regime dos cursos de cadetes a admitir na Escola Naval em 1962
+Regime dos cursos de cadetes a admitir na Escola Naval em 1963
 
 Admissão
 
-Anúncios - meados de Julho de 1962.
+Anúncios - meados de Julho de 1963.
 
-Entrega de documentos - de 20 a 31 de Julho de 1962.
+Entrega de documentos - de 20 a 31 de Julho de 1963.
 
-Verificação dos documentos, inspecção médica, provas de admissão e apuramento - de 1 a 20 de Agosto de 1962.
+Verificação dos documentos, inspecção médica, provas de admissão e apuramento - de 1 a 20 de Agosto de 1963.
 
-Alistamento dos cadetes - 1 de Setembro de 1962.
+Alistamento dos cadetes - 1 de Setembro de 1963.
 
-I fase
+1.ª fase
 
 1.º período:
 
-Início dos trabalhos escolares - 1 de Setembro de 1962.
+Início dos trabalhos escolares - 1 de Setembro de 1963.
 
-Fim do 1.º período - 14 de Fevereiro de 1963.
+Fim do 1.º período - 14 de Fevereiro de 1964.
 
 2.º período:
 
-Início dos trabalhos escolares - 15 de Fevereiro de 1963.
-
-Fim do 2.º período - 31 de Julho de 1963.
-
-Férias - de 1 a 31 de Agosto de 1963.
-
-3.º período:
-
-Início dos trabalhos escolares - 1 de Setembro de 1963.
-
-Fim do 3.º período - 14 de Fevereiro de 1964.
-
-4.º período:
-
 Início dos trabalhos escolares - 15 de Fevereiro de 1964.
 
-Fim do 4.º período - 31 de Julho de 1964.
+Fim do período - 31 de Julho de 1964.
 
 Férias - de 1 a 31 de Agosto de 1964.
 
-5.º período:
+3.º período:
 
-Embarque - de 1 de Setembro a 31 de Dezembro de 1964.
+Início dos trabalhos escolares - 1 de Setembro de 1964.
 
-II fase
+Fim do 3.º período - 14 de Fevereiro de 1965.
 
-6.º período:
+4.º período:
 
-Início dos trabalhos escolares - 1 de Janeiro de 1965.
+Início dos trabalhos escolares - 15 de Fevereiro de 1965.
 
-Fim dos trabalhos escolares - 30 de Abril de 1965.
-
-Embarque - de 1 a 19 de Maio de 1965.
-
-Fim do 6.º período - 19 de Maio de 1965.
-
-7.º período:
-
-Início dos trabalhos escolares - 20 de Maio de 1965.
+Fim do 4.º período - 31 de Julho de 1965.
 
 Férias - de 1 a 31 de Agosto de 1965.
 
-Fim dos trabalhos escolares - 15 de Novembro de 1965.
+5.º período:
 
-Estágios - de 16 de Novembro a 26 de Dezembro de 1965.
+Embarque - de 1 de Setembro a 31 de Dezembro de 1965.
 
-Embarque - de 27 de Dezembro de 1965 a 10 de Janeiro de 1966.
+2.ª fase
 
-Promoção a guarda-marinha - referida a 11 de Janeiro de 1966.
+6.º período:
 
-Ministério da Marinha, 13 de Julho de 1962. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
+Início dos trabalhos escolares - 1 de Janeiro de 1966.
+
+Fim dos trabalhos escolares - 30 de Abril de 1966.
+
+Embarque - de 1 a 19 de Maio de 1966.
+
+Fim do período - 19 de Maio de 1966.
+
+7.º período:
+
+Início dos trabalhos escolares - 20 de Maio de 1966.
+
+Férias - de 1 a 31 de Agosto de 1966.
+
+Fim dos trabalhos escolares - 15 de Novembro de 1966.
+
+Estágios - de 16 de Novembro a 26 de Dezembro de 1966.
+
+Embarque - de 27 de Dezembro de 1966 a 10 de Janeiro de 1967.
+
+Promoção a guarda-marinha - referida a 11 de Janeiro de 1967.
+
+Ministério da Marinha, 8 de Agosto de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
+
+> Alterado pelo/a [Portaria n.º 19999](https://diariodarepublica.pt/dr/detalhe/portaria/19999-1963-693388), publicado em 1963-08-08.

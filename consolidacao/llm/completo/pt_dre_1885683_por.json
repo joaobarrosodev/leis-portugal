@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:1885683:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Os três alteradores (Despacho Normativo n.º 22/2012, n.º 11-A/2016 e n.º 5/2019) vêm no pedido sem qualquer texto: não há instruções dirigidas ao original que se possam aplicar com segurança.",
+  "instrucoes": [
+    "Alterador 1 (DN 22/2012): sem texto no pedido; nada aplicado.",
+    "Alterador 2 (DN 11-A/2016): sem texto no pedido; nada aplicado.",
+    "Alterador 3 (DN 5/2019): sem texto no pedido; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

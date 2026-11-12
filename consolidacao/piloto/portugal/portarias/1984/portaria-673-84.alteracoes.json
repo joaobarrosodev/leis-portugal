@@ -1,0 +1,72 @@
+[
+  {
+    "artigo": "unidades 15-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) Os grupos A(índice 0) e A(índice 1) são incluídos no grupo 3131.1 da CAE;\n\nb) Os grupos A(índice 2), B(índice 1) e B(índice 2) são incluídos no grupo 3131.2 da CAE.",
+    "depois": "a) O grupo A(índice 0) é incluído no grupo 3131.1 da CAE;\n\nb) Os grupos A(índice 1), A(índice 2), B(índice 1) e B(índice 2) são incluídos no grupo 3131.2 da CAE.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:373797:por",
+    "alterador": "pt:dre:152683:por"
+  },
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4 - Os projectos de instalações de estabelecimentos incluídos na 1.ª classe dos grupos 3131.1 e 3131.2 deverão ser submetidos a prévio parecer da Administração-Geral do Açúcar e do Álcool (AGA), nos mesmos termos em que são submetidos à apreciação da Direcção-Geral de Saúde, conforme preceitua o artigo 7.º do referido Regulamento, aprovado pelo Decreto-Lei n.º 46924, de 28 de Março de 1966.",
+    "depois": "4 - Os projectos de instalações de estabelecimentos incluídos na 1.ª classe dos grupos 3131.1 e 3131.2 deverão ser submetidos a prévio parecer dos organismos vinícolas e da Administração-Geral do Açúcar e do Álcool (AGA), conforme os casos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:373797:por",
+    "alterador": "pt:dre:152683:por"
+  },
+  {
+    "artigo": "unidades 25-26",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Documento comprovativo do licenciamento do estabelecimento industrial emitido pelo Ministério da Indústria e Energia;\n\nPlanta das instalações, mencionando a escala respectiva e indicando todo o vasilhame fixo e móvel existente, sua localização, numeração e respectivas capacidades em litros.",
+    "depois": "Documento comprovativo do licenciamento, emitido pelo Ministério da Indústria e Energia, para os estabelecimentos industriais de 1.ª e 2.ª classes incluídos na tabela anexa à portaria referida no n.º 2;\n\nPlanta das instalações mencionando a escala respectiva e indicando todo o vasilhame fixo e móvel existente, sua localização, numeração e respectivas capacidades em litros.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:373797:por",
+    "alterador": "pt:dre:152683:por"
+  },
+  {
+    "artigo": "unidades 28-28",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "10 - A vistoria referida no n.º 5 tem um período de validade de 5 anos, findos os quais deverá ser novamente requerida.",
+    "depois": "10 - A vistoria referida no n.º 8 tem um período de validade de 5 anos, findos os quais deverá ser novamente requerida.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:373797:por",
+    "alterador": "pt:dre:152683:por"
+  },
+  {
+    "artigo": "unidades 41-41",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "21 - A tubagem de distribuição dos destilados alcoólicos deve ser visível e de acesso fácil, com sinalização expressa na obrigatoriedade contida na norma portuguesa n.º 182, aprovada pela [Portaria n.º 22150](https://diariodarepublica.pt/dr/detalhe/portaria/22150-1966-474505), de 4 de Agosto de 1967.",
+    "depois": "21 - A tubagem de distribuição dos destilados alcoólicos deve ser visível e de acesso fácil, com sinalização expressa na obrigatoriedade contida na norma portuguesa n.º 182, aprovada pela [Portaria n.º 22150](https://diariodarepublica.pt/dr/detalhe/portaria/22150-1966-474505), de 4 de Agosto de 1966.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:373797:por",
+    "alterador": "pt:dre:152683:por"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º Poderá também ser permitida a frequência do curso a funcionários da Administração Pública ou a indivíduos por esta credenciados que exerçam a bordo do mesmo tipo de navios funções de inspecção relacionadas com a segurança.",
+    "depois": "3.º Poderá também ser permitida a frequência do curso a funcionários da Administração Pública, indivíduos por esta credenciados que exerçam bordo do mesmo tipo de navios funções de inspecção relacionadas com a segurança ou ainda aos trabalhadores portuários a que se refere o [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, que no exercício da sua actividade profissional intervenham nas operações abrangidas pelo curso, os quais terão de ser para o efeito credenciados pelo Instituto do Trabalho Portuário.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:399451:por",
+    "alterador": "pt:dre:622277:por"
+  }
+]

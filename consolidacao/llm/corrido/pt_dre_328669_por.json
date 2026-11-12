@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:328669:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "8 - Poderá concorrer à categoria de assessor da respectiva carreira o pessoal de categoria remunerada pela letra E com, pelo menos, seis anos de serviço nessa categoria ou, pelo menos, nove anos de serviço acumulado em categorias remuneradas pelas letras E e F, o pessoal de categoria remunerada pela letra F com, pelo menos, nove anos de serviço nessa categoria e o pessoal de categorias remuneradas pelas letras E e F com, pelo menos, vinte anos de serviço na carreira.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 17,
+      "texto": "16 - O pessoal com as condições exigidas pelos n.os 8 e 9 poderá antecipadamente ser submetido, desde que o requeira, à avaliação curricular mencionada no n.º 7, se se encontrar na situação de ser aposentado, por imposição do limite de idade, em data anterior à da concretização do concurso previsto no mesmo n.º 7.\n\n17 - O pessoal com as condições exigidas pelos n.os 8 e 9 poderá antecipadamente ser submetido, desde que o requeira, à avaliação curricular mencionada no n.º 7, se tiver requerido a sua aposentação, com base em incapacidade física, em data anterior à da concretização do concurso previsto no mesmo n.º 7, com a condição do provimento resultante dessa avaliação ser anulado se a entidade legalmente competente não conceder a aposentação requerida.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redacção do n.º 8 — substituída a unidade 10.",
+    "Alterador 1, n.º 2: aditados os n.os 16 e 17 — inseridos depois da unidade 17 (n.º 15)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

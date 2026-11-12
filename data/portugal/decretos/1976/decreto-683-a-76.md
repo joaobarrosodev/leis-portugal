@@ -38,10 +38,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-05-03'
+version_history:
+  file: decreto-683-a-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-09-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-05-03'
+    amending: pt:dre:644374:por
+    amending_title: Decreto-Lei n.º 178-A/77
+    changes:
+    - Altera Artigo unidades 25-25
+    - Altera Artigo unidades 26-26
+    - Altera Artigo unidades 30-30
+    - Altera Artigo unidades 40-41
+    - Altera Artigo unidades 49-49
+    - Altera Artigo unidades 50-50
+    - Altera Artigo unidades 53-55
 identifiers:
   celex: null
   eli: null
@@ -67,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:43:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 178-A/77. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-683-a-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -163,9 +184,13 @@ p) Habitação, Urbanismo e Construção.
 
 4. O Ministro de Estado e o Ministro sem pasta coadjuvam o Primeiro-Ministro na coordenação e orientação dos Ministros, desempenhando outrossim funções de natureza específica que pelo Primeiro-Ministro lhe sejam cometidas.
 
-5. O Primeiro-Ministro é ainda coadjuvado por um Secretário e um Subsecretário de Estado adjuntos do Primeiro-Ministro.
+5. O Primeiro-Ministro é ainda coadjuvado por um Secretário de Estado Adjunto do Primeiro-Ministro para os Assuntos Políticos e por um Secretário de Estado Adjunto do Primeiro-Ministro para os Assuntos Administrativos.
 
-6. Integradas na Presidência do Conselho de Ministros e na dependência directa do Primeiro-Ministro funcionam as seguintes Secretarias de Estado:
+> Alterado pelo/a [Decreto-Lei n.º 178-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-1977-644374), publicado em 1977-05-03.
+
+6. Integrados na Presidência do Conselho de Ministros e na dependência directa do Primeiro-Ministro funcionam as seguintes Secretarias de Estado:
+
+> Alterado pelo/a [Decreto-Lei n.º 178-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-1977-644374), publicado em 1977-05-03.
 
 a) Comunicação Social;
 
@@ -173,7 +198,11 @@ b) Cultura;
 
 c) População e Emprego;
 
-d) Ambiente.
+d) Ambiente;
+
+e) Administração Pública.
+
+> Alterado pelo/a [Decreto-Lei n.º 178-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-1977-644374), publicado em 1977-05-03.
 
 7. O Secretário de Estado da Comunicação Social é coadjuvado por um Subsecretário de Estado da Comunicação Social.
 
@@ -193,9 +222,9 @@ Art. 4.º - 1. O Ministério da Administração Interna compreende as seguintes 
 
 a) Administração Regional e Local;
 
-b) Administração Pública;
+b) Integração Administrativa.
 
-c) Integração Administrativa.
+> Alterado pelo/a [Decreto-Lei n.º 178-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-1977-644374), publicado em 1977-05-03.
 
 2. O Ministro da Administração Interna é coadjuvado por um Subsecretário de Estado da Administração Interna.
 
@@ -211,19 +240,25 @@ b) Finanças;
 
 c) Tesouro.
 
-2. O Secretário de Estado do Tesouro é coadjuvado por um Subsecretário de Estado do Tesouro.
+2. Os Secretários de Estado do Orçamento, das Finanças e do Tesouro são coadjuvados, respectivamente, por um Subsecretário de Estado do Orçamento, um Subsecretário de Estado das Finanças e um Subsecretário de Estado do Tesouro.
 
-Art. 8.º - 1. O Ministério da Agricultura e Pescas compreende as seguintes Secretarias de Estado:
+> Alterado pelo/a [Decreto-Lei n.º 178-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-1977-644374), publicado em 1977-05-03.
+
+Art. 8.º O Ministério da Agricultura e Pescas compreende as seguintes Secretarias de Estado:
+
+> Alterado pelo/a [Decreto-Lei n.º 178-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-1977-644374), publicado em 1977-05-03.
 
 a) Estruturação Agrária;
 
 b) Fomento Agrário;
 
-c) Comércio e Indústrias Agrícolas;
+c) Comércio e Indústria Agrícolas;
 
-d) Pescas.
+d) Pescas;
 
-2. O Ministro da Agricultura e Pescas é coadjuvado por um Subsecretário de Estado das Florestas.
+e) Florestas.
+
+> Alterado pelo/a [Decreto-Lei n.º 178-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-a-1977-644374), publicado em 1977-05-03.
 
 Art. 9.º O Ministério da Indústria e Tecnologia compreende as seguintes Secretarias de Estado:
 

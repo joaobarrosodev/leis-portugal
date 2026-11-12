@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 24-24",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "5.º Os pedidos de apoio financeiro ao abrigo destas linhas de crédito deverão dar entrada nas instituições de crédito até ao dia 31 de Janeiro de 1984.",
+    "depois": "5.º Os pedidos de apoio financeiro ao abrigo destas linhas de crédito deverão dar entrada nas instituições de crédito até ao dia 29 de Fevereiro de 1984.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:216150:por",
+    "alterador": "pt:dre:660955:por"
+  }
+]

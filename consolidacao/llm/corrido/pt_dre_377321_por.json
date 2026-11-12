@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:377321:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "O Decreto-Lei n.º 190/2001 (alterador 2), artigo 3.º, revoga a Portaria n.º 1080/82 por inteiro; o diploma original deixa de vigorar, pelo que não se devolve nada (a nova redação do n.º 8.º dada pela Portaria n.º 242/98 fica também prejudicada).",
+  "instrucoes": [
+    "Portaria 242/98: nova redação do n.º 8.º (unidade 36) - prejudicada pela revogação total posterior",
+    "DL 190/2001, art. 3.º: revoga a Portaria 1080/82 por inteiro - nao_aplicavel, nada devolvido"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

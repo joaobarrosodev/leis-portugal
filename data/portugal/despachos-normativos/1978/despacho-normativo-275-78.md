@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-01-31'
+version_history:
+  file: despacho-normativo-275-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-10-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-01-31'
+    amending: pt:dre:392659:por
+    amending_title: Despacho Normativo n.º 26/79
+    changes:
+    - Altera Artigo unidades 10-10
+    - Adita Artigo depois da unidade 17
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:45:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 26/79. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1978/despacho-normativo-275-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,7 +138,9 @@ Para o ingresso nas categorias que compõem as carreiras de pessoal técnico sup
 
 7 - Quando da aplicação das mesmas normas resultarem vagas relativamente ao número de lugares, em cada categoria, que consta do mapa anexo ao [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro, serão as mesmas preenchidas, consoante as necessidades, por via de concurso documental e avaliação curricular. Assim:
 
-8 - Poderá concorrer à categoria de assessor da respectiva carreira o pessoal de categoria remunerada pela letra E com, pelo menos, seis anos de serviço nessa categoria ou, pelo menos, nove anos de serviço acumulado em categorias remuneradas pelas letras E e F e o pessoal de categoria remunerada pela letra F com, pelo menos, nove anos de serviço nessa categoria, dentro do condicionalismo de contingentação referido no n.º 2 do artigo 12.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266).
+8 - Poderá concorrer à categoria de assessor da respectiva carreira o pessoal de categoria remunerada pela letra E com, pelo menos, seis anos de serviço nessa categoria ou, pelo menos, nove anos de serviço acumulado em categorias remuneradas pelas letras E e F, o pessoal de categoria remunerada pela letra F com, pelo menos, nove anos de serviço nessa categoria e o pessoal de categorias remuneradas pelas letras E e F com, pelo menos, vinte anos de serviço na carreira.
+
+> Alterado pelo/a [Despacho Normativo n.º 26/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1979-392659), publicado em 1979-01-31.
 
 9 - Poderá concorrer à categoria de principal da respectiva carreira o pessoal de categoria remunerada pelas letras F, G, H e I com, pelo menos, três anos de serviço na carreira.
 
@@ -137,5 +155,11 @@ Para o ingresso nas categorias que compõem as carreiras de pessoal técnico sup
 14 - As regras e abertura dos concursos a que se referem os n.os 8 e 9 serão estabelecidas por despacho do Ministro da Agricultura e Pescas.
 
 15 - O presente despacho normativo revoga o despacho normativo de 15 de Março de 1978 e o despacho interno de 5 de Dezembro de 1977 na parte referente ao pessoal técnico superior (parágrafo 7).
+
+16 - O pessoal com as condições exigidas pelos n.os 8 e 9 poderá antecipadamente ser submetido, desde que o requeira, à avaliação curricular mencionada no n.º 7, se se encontrar na situação de ser aposentado, por imposição do limite de idade, em data anterior à da concretização do concurso previsto no mesmo n.º 7.
+
+17 - O pessoal com as condições exigidas pelos n.os 8 e 9 poderá antecipadamente ser submetido, desde que o requeira, à avaliação curricular mencionada no n.º 7, se tiver requerido a sua aposentação, com base em incapacidade física, em data anterior à da concretização do concurso previsto no mesmo n.º 7, com a condição do provimento resultante dessa avaliação ser anulado se a entidade legalmente competente não conceder a aposentação requerida.
+
+> Aditado pelo/a [Despacho Normativo n.º 26/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-1979-392659), publicado em 1979-01-31.
 
 Ministério da Agricultura e Pescas, 19 de Setembro de 1978. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.

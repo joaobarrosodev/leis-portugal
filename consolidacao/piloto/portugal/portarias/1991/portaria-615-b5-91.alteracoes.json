@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdades de Arpezol, Arapouco, Pinhal e Carrasqueira», sitos na freguesia de Santiago, concelho de Setúbal, com uma área de 1331,19 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdades de Arpezol, Arapouco, Pinhal e Carrasqueira», sitos na freguesia de Santiago, concelho de Alcácer do Sal, com uma área de 1331,19 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:205820:por",
+    "alterador": "pt:dre:301606:por"
+  }
+]

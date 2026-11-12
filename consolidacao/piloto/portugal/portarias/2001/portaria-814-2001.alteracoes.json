@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos nas freguesias de Proença-a-Velha e São Miguel d'Acha, município de Idanha-a-Nova, com a área de 1224,85 ha.",
+    "depois": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Proença-a-Velha, São Miguel d'Acha e Oledo, município de Idanha-a-Nova, com uma área de 1224,85 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:371807:por",
+    "alterador": "pt:dre:566847:por"
+  }
+]

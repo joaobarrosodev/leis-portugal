@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "40.º",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "###### Artigo 40.º — Composição transitória do Tribunal Superior de Justiça\n\n1 - Até ser decretada a plenitude e exclusividade de jurisdição dos tribunais de Macau, nos termos previstos no artigo 75.º do Estatuto Orgânico de Macau, o Tribunal Superior de Justiça de Macau é constituído pelo presidente e por quatro juízes.\n\n2 - Durante o período previsto no número anterior, o plenário do Tribunal Superior de Justiça não pode funcionar com menos de quatro juízes, funcionando cada uma das secções com três juízes.\n\n> Aditado pelo/a [Lei n.º 4-A/93](https://diariodarepublica.pt/dr/detalhe/lei/4-a-1993-367008), publicado em 1993-02-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:404106:por",
+    "alterador": "pt:dre:367008:por"
+  }
+]

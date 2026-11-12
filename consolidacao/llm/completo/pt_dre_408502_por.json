@@ -1,0 +1,106 @@
+{
+  "id": "pt:dre:408502:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Âmbito de aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Articulação com outros sistemas de apoio",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Modalidade de apoio financeiro",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Limites do apoio financeiro",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Forma de concessão do apoio",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Beneficiários",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Publicitação do concurso",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Júri",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Candidaturas",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Apreciação liminar",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Deliberação do júri",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Decisão final",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Acordos de apoio financeiro",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Desistência",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Sanções",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 15/99): o artigo 71.º mantém a Portaria n.º 317/96 em vigor até à aprovação das normas de execução, e o artigo 70.º só revoga as normas que contrariem o diploma (revogação condicional); não há alteração textual a aplicar.",
+  "instrucoes": [
+    "Alterador 1, art. 70.º: revoga o DL 350/93 e as normas que contrariem o diploma — revogação condicional, não aplicada ao texto.",
+    "Alterador 1, art. 71.º: mantém em vigor a Portaria n.º 317/96 até à aprovação das normas de execução — sem alteração textual.",
+    "Alterador 2, n.º 2.º: revoga a Portaria n.º 317/96 (sem prejuízo da aplicação aos processos aprovados ao seu abrigo) — artigos 1.º a 15.º ficam (Revogado.)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

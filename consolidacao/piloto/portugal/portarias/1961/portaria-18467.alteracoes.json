@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 12-12",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "4.º A referida pesca só poderá ser exercida para além das 6 milhas de distância da costa.",
+    "depois": "4.º A referida pesca só poderá ser exercida para além das seis milhas de distância da costa, excepto ao largo do Algarve, onde também e permitida em zonas no interior desse limite que estejam por fora da. isobatimétrica dos 150 m.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:169944:por",
+    "alterador": "pt:dre:680600:por;pt:dre:193654:por"
+  },
+  {
+    "artigo": "unidades 16-18",
+    "operacao": "remover",
+    "regra": "llm",
+    "antes": "8.º As embarcações da cooperativa não poderão, por cada viagem, descarregar para venda peixes demersais em quantidade que exceda 20 por cento do total de crustáceos capturados.\n\n9.º Os peixes demersais que excedam a percentagem indicada no número anterior serão apreendidos, revertendo o produto da sua venda para o Tesouro Público, como receita geral do Estado, depois de deduzidas as importâncias das despesas.\n\n10.º O disposto dos n.os 8.º e 9.º não se aplica quando a pescaria descarregada para venda provenha de viagem em que tenha embarcado, com fins de investigação, qualquer investigador do Gabinete de Estudos das Pescas ou do Instituto de Biologia Marítima.",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:169944:por",
+    "alterador": "pt:dre:680600:por;pt:dre:193654:por"
+  }
+]

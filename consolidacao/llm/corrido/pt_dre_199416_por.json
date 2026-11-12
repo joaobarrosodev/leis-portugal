@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:199416:por",
+  "substituicoes": [
+    {
+      "de": 66,
+      "ate": 74,
+      "texto": "1 - Para efeitos da alínea g) do artigo 8.º do [Decreto-Lei n.º 483-D/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-d-1988-274274) e graduação dos projectos de investimento em inovação e modernização, será feita numa escala de pontuação entre 0 e 100, de acordo com os critérios de relevância industrial a definir por despacho do Ministro da Indústria e Energia no âmbito da política industrial e tecnológica.\n\n2 - Consideram-se relevantes do ponto de vista da política industrial os projectos que atinjam a pontução definida por despacho do Ministro da Indústria e Energia.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 63/91 dá nova redação ao n.º 10.º do Regulamento (só n.os 1 e 2): corpo atual (unidades 66-74, incluindo fórmula, quadro e n.os 2-4) substituído pelos dois novos números; epígrafe inalterada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

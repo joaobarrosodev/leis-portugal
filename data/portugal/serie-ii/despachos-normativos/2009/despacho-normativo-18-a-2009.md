@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-10-27'
+version_history:
+  file: despacho-normativo-18-a-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-05-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-10-27'
+    amending: pt:dre:3293883:por
+    amending_title: Despacho Normativo n.º 23/2012
+    changes:
+    - Altera Artigo 27.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:07:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 23/2012. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2009/despacho-normativo-18-a-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -629,25 +644,29 @@ x) Representar a instituição em juízo ou fora dele.
 
 a) Reitor, que preside;
 
-b) Nove representantes eleitos dentre os professores e investigadores de carreira, distribuídos do seguinte modo:
+b) Onze representantes do subsistema de ensino universitário, distribuído do seguinte modo:
 
-i) Sete representantes pertencentes ao ensino universitário;
+i) Sete representantes eleitos por e dentre os professores e investigadores de carreira;
 
-ii) Dois representantes pertencentes ao ensino politécnico.
+ii) Quatro representantes eleitos por e dentre os restantes docentes e investigadores em regime de tempo integral, com contrato de duração não inferior a um ano, que sejam titulares do grau de doutor, independentemente da natureza do vínculo à Universidade;
 
-c) Oito representantes eleitos dentre os restantes docentes e investigadores, repartidos do seguinte modo:
+c) Seis representantes do subsistema de ensino politécnico eleitos pelo conjunto daqueles que pertencem aos universos seguintes:
 
-i) Quatro representantes do ensino universitário, em regime de tempo integral, com contratos de duração não inferior a um ano, que sejam titulares do grau de doutor, independentemente da natureza do vínculo à Universidade;
+i) Professores e investigadores de carreira;
 
-ii) Dois representantes eleitos do ensino politécnico dentre os equiparados a professor em regime de tempo integral com contrato com a Universidade há mais de 10 anos nessa categoria;
+ii) Equiparados a professor em regime de tempo integral com contrato com a Universidade há mais de 10 anos nessa categoria;
 
-iii)Dois representantes eleitos do ensino politécnico dentre os docentes com o grau de doutor, em regime de tempo integral, com contrato de duração não inferior a um ano, qualquer que seja a natureza do seu vínculo à Universidade e os docentes com o título de especialista não abrangidos anteriormente, em regime de tempo integral com contrato com a Universidade há mais de dois anos;
+iii) Docentes com grau de doutor, em regime de tempo integral, com contrato de duração não inferior a um ano, qualquer que seja a natureza do seu vínculo à Universidade;
+
+iv) Docentes com o título de especialista não abrangidos pelas alíneas anteriores, em regime de tempo integral com contrato com a Universidade há mais de dois anos;
 
 d) Sete coordenadores das unidades de investigação reconhecidas e avaliadas positivamentenos termos da lei.
 
 3 - Nos membros da alínea d) do número anterior incluem-se representantes dos coordenadores dos laboratórios associados da Universidade, por e dentre eles designados, quando em número superior, ou todos eles, se em número igual ou inferior, e neste último caso, o remanescente é preenchido por representantes das outras unidades de investigação reconhecidas e avaliadas com avaliação não inferior a "Excelente" ou "Muito Bom", designados por e dentre todos os coordenadores dessas unidades.
 
 4 - A duração do mandato dos membros do conselho científico é de três anos.
+
+> Alterado pelo/a [Despacho Normativo n.º 23/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2012-3293883), publicado em 2012-10-26.
 
 ###### Artigo 28.º — Competência do conselho científico
 

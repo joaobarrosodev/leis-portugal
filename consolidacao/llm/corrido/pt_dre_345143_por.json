@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:345143:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Nenhum alterador traz instrução textual: a Portaria n.º 517/2003 suspende o exercício da caça (acto administrativo); a Portaria n.º 123/2004 anexa prédios à zona de caça sem dar nova redação a qualquer ponto; a Portaria n.º 203/2008 revoga a concessão (acto administrativo), não o texto da portaria.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 517/2003): suspensão do exercício da caça e prazo de 90 dias; não textual, nada aplicado.",
+    "Alt. 2 (Portaria 123/2004): anexação de 217,35 ha (área total 497,70 ha) e condicionantes; sem nova redação do original, nada aplicado.",
+    "Alt. 3 (Portaria 203/2008): revogação da concessão; não revoga o texto, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

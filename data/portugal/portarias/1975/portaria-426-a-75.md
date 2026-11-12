@@ -29,10 +29,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-09-11'
+version_history:
+  file: portaria-426-a-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-07-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-09-11'
+    amending: pt:dre:402685:por
+    amending_title: Portaria n.º 550-B/75
+    changes:
+    - Altera Artigo unidades 25-25
+    - Altera Artigo unidades 38-43
+    - Altera Artigo unidades 44-44
+    - Altera Artigo unidades 45-45
 identifiers:
   celex: null
   eli: null
@@ -58,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:46:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 550-B/75. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1975/portaria-426-a-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -171,7 +189,9 @@ j) Certificado do serviço docente prestado em outros distritos ou nas antigas c
 
 VI - As direcções dos distritos escolares, depois de conferirem todos os documentos e verificarem que estão em ordem, remeterão, até ao dia 15 de Agosto, o processo completo à Direcção de Serviços de Pessoal da Direcção-Geral da Administração Escolar.
 
-XI - 1. As direcções das distritos escolares afixarão em lugar acessível ao público, numa das dependências dos seus serviços, pelas 9 horas e 30 minutos do dia 25 de Agosto, as listas graduadas provisórias dos professores e dos agentes dos quadros de agregados, organizadas nos termos do artigo 9.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931.
+XI - 1. As direcções das distritos escolares afixarão em lugar acessível ao público, numa das dependências dos seus serviços, pelas 9 horas e 30 minutos do dia 15 de Setembro, as listas graduadas provisórias dos professores e dos agentes dos quadros de agregados, organizadas nos termos do artigo 9.º do [Decreto n.º 19531](https://diariodarepublica.pt/dr/detalhe/decreto/19531-1931-212411), de 30 de Março de 1931.
+
+> Alterado pelo/a [Portaria n.º 550-B/75](https://diariodarepublica.pt/dr/detalhe/portaria/550-b-1975-402685), publicado em 1975-09-11.
 
 2. Em caso de igualdade de valorização, aplicam-se as seguintes preferências:
 
@@ -197,21 +217,25 @@ XI - 1. As direcções das distritos escolares afixarão em lugar acessível ao 
 
 8. Os professores agregados constantes da lista B só poderão ser colocados depois de esgotada a lista A.
 
-XII - 1. No dia, hora e local referidos no número anterior, as direcções dos distritos escolares afixarão a relação de todos os lugares vagos em escolas e postos escolares, com indicação do motivo que as determina.
+XII - 1. No dia 15 de Setembro de 1975, na hora e locais referidos no número anterior, as direcções dos distritos escolares afixarão a relação de todos os lugares vagos que venham a criar até esta data em escolas e postos escolares, com indicação do motivo que as determina.
 
-2. Serão incluídas na relação atrás referida, além das vagas existentes à data da afixação, as vagas resultantes do movimento de professores comunicadas às direcções dos distritos escolares pela Direcção de Serviços de Pessoal até ao dia 24 de Agosto.
+2 - a) Serão incluídas na mesma relação os lugares vagos resultantes de transferências cujo conhecimento a Direcção de Serviços de Pessoal da Direcção-Geral da Administração Escolar possa dar às direcções escolares até àquela data.
 
-3. Serão também incluídas na mesma relação as vagas resultantes do movimento dos professores e que, apesar de não comunicadas, ainda possam verificar-se até 9 de Setembro, mas com observação de que poderão ser preenchidas até esta data.
+b) Da mesma lista não deverão constar os novos lugares para os quais os professores referidos na alínea anterior irão ser transferidos.
 
-4. Os professores e regentes agregados têm de requerer das 9 horas e 30 minutos do dia 25 até às 12 horas do dia 30 de Agosto, pelo menos, vinte das vagas constantes das relações, indicando por ordem de preferência as que mais lhes interessarem, podendo acrescentar esta lista em folha de papel de 25 linhas anexa.
+3. Os professores e regentes agregados têm de requerer, das 9 horas e 30 minutos do dia 15 até às 12 horas do dia 17 de Setembro, pelo menos vinte das vagas constantes das relações, indicando por ordem de preferência as que mais lhes interessarem, podendo acrescentar esta lista em folha de vinte e cinco linhas anexa. Caso o concorrente não apresente novo requerimento, considerar-se-á válido o do concurso anulado pela presente portaria.
 
-5. Após a indicação dos lugares referidos no número anterior, os concorrentes têm de indicar obrigatoriamente todos os concelhos do distrito, por ordem de preferência, para a hipótese de não obterem colocação em qualquer dos lugares a que se refere o número anterior.
+4. Os candidatos que não cumprirem o disposto no número anterior só poderão vir a ser chamados depois da colocação de todos os concorrentes.
 
-6. Os candidatos que não cumprirem o disposto nos n.os 4 e 5 só poderão vir a ser chamados depois da colocação de todos os concorrentes.
+> Alterado pelo/a [Portaria n.º 550-B/75](https://diariodarepublica.pt/dr/detalhe/portaria/550-b-1975-402685), publicado em 1975-09-11.
 
-XIII - As colocações nos lugares requeridos far-se-ão com base na ordenação constante das listas graduadas.
+XIII - 1. As colocações nos lugares requeridos far-se-ão no período que decorre de 19 a 27 de Setembro com base na ordenação constante das listas graduadas.
 
-XXIII - 1. Os agentes de ensino do quadro de agregados apresentar-se-ão nos lugares indicados nos respectivos alvarás no dia 10 de Setembro, ou no primeiro dia útil seguinte, ou no prazo de três dias, a contar da recepção do alvará, se a colocação for posterior ao início do ano escolar.
+> Alterado pelo/a [Portaria n.º 550-B/75](https://diariodarepublica.pt/dr/detalhe/portaria/550-b-1975-402685), publicado em 1975-09-11.
+
+XXIII - 1. Os agentes de ensino deverão apresentar-se nos lugares indicados nos respectivos alvarás no dia 1 de Outubro, ou no prazo de três dias, a contar da recepção do alvará, se a colocação for posterior ao início do ano lectivo.
+
+> Alterado pelo/a [Portaria n.º 550-B/75](https://diariodarepublica.pt/dr/detalhe/portaria/550-b-1975-402685), publicado em 1975-09-11.
 
 2. Os mesmos agentes de ensino, no próprio dia da entrada em exercício, comunicá-la-ão, por escrito, ao director do distrito escolar e ao seu delegado no concelho ou secretário de zona.
 

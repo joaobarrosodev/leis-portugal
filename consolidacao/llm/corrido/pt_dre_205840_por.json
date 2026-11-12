@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:205840:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "6.º Os prédios rústicos que integram esta zona de caça turística, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter dois guardas florestais auxiliares dotados de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2 a 5 (Portarias 596/2002, 1325/2002, 553/2006 e 91/2008) suspendem a caça, renovam e transferem a concessão e desanexam prédios (área total 1902 ha, planta só em imagem) sem dar nova redação a nenhum ponto do original: alterações não textuais, não aplicadas.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 64/96): nova redação do n.º 6.º (art. 66.º do DL 251/92, dois guardas) - substituída a unidade 14.",
+    "Alt. 2 (Portaria 596/2002): suspensão temporária da caça - não textual.",
+    "Alt. 3 (Portaria 1325/2002): renovação da concessão por 12 anos - não textual.",
+    "Alt. 4 (Portaria 553/2006): transmissão para HERCAZA - não textual.",
+    "Alt. 5 (Portaria 91/2008): desanexação de prédios em Barrancos, área total 1902 ha - sem redação nova do n.º 1.º, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

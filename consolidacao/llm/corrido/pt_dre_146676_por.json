@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:146676:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 348/74) regula de novo a composição e o pessoal do Gabinete em artigos próprios, sem instrução de nova redacção dirigida ao texto do original (art. 5.º só ressalva o que fica 'contrariado expressamente'); alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alt. 1, arts. 1.º a 4.º: normas próprias sobre o Gabinete do Primeiro-Ministro, sem mandar alterar a redacção do original: não aplicadas (nao_aplicavel).",
+    "Alt. 1, art. 5.º: mantém em vigor o original com ressalva do que contraria: nada a aplicar.",
+    "Alt. 2, art. 8.º: revoga as disposições do original que contrariem o diploma (revogação condicional): não se aplica ao texto; arts. 1.º a 7.º são normas próprias."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

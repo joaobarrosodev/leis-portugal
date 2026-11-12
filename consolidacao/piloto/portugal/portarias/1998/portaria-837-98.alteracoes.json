@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "unidades 3-3",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Pela [Portaria n.º 1024/90](https://diariodarepublica.pt/dr/detalhe/portaria/1024-1990-555871), de 12 de Outubro, foi concessionada à Companhia Agrícola de Penha Garcia, S. A., a zona de caça turística das Herdades da Granja e Vale Feitoso, processo n.º 411-DGF, situada no município de Idanha-a-Nova, com uma área de 7616,2681 ha, válida até 31 de Maio de 2002.",
+    "depois": "Pela [Portaria n.º 1024/90](https://diariodarepublica.pt/dr/detalhe/portaria/1024-1990-555871), de 12 de Outubro, corrigida pela [Portaria n.º 784/91](https://diariodarepublica.pt/dr/detalhe/portaria/784-1991-682254), de 8 de Agosto, foi concessionada à Companhia Agrícola de Penha Garcia, S. A., a zona de caça turística das Herdades da Granja e Vale Feitoso (processo n.º 411-DGF), situada no município de Idanha-a-Nova, com uma área de 5852,8125 ha, válida até 31 de Maio de 2002.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:244893:por",
+    "alterador": "pt:dre:169232:por"
+  },
+  {
+    "artigo": "unidades 8-8",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º São anexados à zona de caça turística criada pela [Portaria n.º 1024/90](https://diariodarepublica.pt/dr/detalhe/portaria/1024-1990-555871) vários prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Penha Garcia, município de Idanha-a-Nova, ficando a mesma com uma área total de 8606,5681 ha.",
+    "depois": "1.º São anexados à zona de caça turística criada pela [Portaria n.º 1024/90](https://diariodarepublica.pt/dr/detalhe/portaria/1024-1990-555871), corrigida pela [Portaria n.º 784/91](https://diariodarepublica.pt/dr/detalhe/portaria/784-1991-682254), de 8 de Agosto, vários prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Penha Garcia, município de Idanha-a-Nova, ficando a mesma com uma área total de 6843,1125 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:244893:por",
+    "alterador": "pt:dre:169232:por"
+  },
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º A zona de caça passará a ser fiscalizada por cinco guardas florestais auxiliares dotados de meio de transporte.",
+    "depois": "3.º A zona de caça passará a ser fiscalizada por quatro guardas florestais auxiliares, dotados de meio de transporte.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:244893:por",
+    "alterador": "pt:dre:169232:por"
+  }
+]

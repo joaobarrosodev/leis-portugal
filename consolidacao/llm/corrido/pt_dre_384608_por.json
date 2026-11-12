@@ -1,0 +1,60 @@
+{
+  "id": "pt:dre:384608:por",
+  "substituicoes": [
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "5. O Primeiro-Ministro é ainda coadjuvado por um Secretário de Estado Adjunto do Primeiro-Ministro para os Assuntos Políticos e por um Secretário de Estado Adjunto do Primeiro-Ministro para os Assuntos Administrativos.",
+      "alterador": 1
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "6. Integrados na Presidência do Conselho de Ministros e na dependência directa do Primeiro-Ministro funcionam as seguintes Secretarias de Estado:",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "d) Ambiente;\n\ne) Administração Pública.",
+      "alterador": 1
+    },
+    {
+      "de": 40,
+      "ate": 41,
+      "texto": "b) Integração Administrativa.",
+      "alterador": 1
+    },
+    {
+      "de": 49,
+      "ate": 49,
+      "texto": "2. Os Secretários de Estado do Orçamento, das Finanças e do Tesouro são coadjuvados, respectivamente, por um Subsecretário de Estado do Orçamento, um Subsecretário de Estado das Finanças e um Subsecretário de Estado do Tesouro.",
+      "alterador": 1
+    },
+    {
+      "de": 50,
+      "ate": 50,
+      "texto": "Art. 8.º O Ministério da Agricultura e Pescas compreende as seguintes Secretarias de Estado:",
+      "alterador": 1
+    },
+    {
+      "de": 53,
+      "ate": 55,
+      "texto": "c) Comércio e Indústria Agrícolas;\n\nd) Pescas;\n\ne) Florestas.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 178-A/77 art. 1.º: nova redação do art. 1.º n.º 5 (unidade 25) e n.º 6 (Integrados; d) Ambiente; + nova alínea e) Administração Pública): unidades 26 e 30; n.os 1-4 e 7 '...' mantidos",
+    "DL 178-A/77 art. 1.º: nova redação do art. 4.º n.º 1 (só duas alíneas: b) Integração Administrativa): unidades 40-41; n.º 2 '...' mantido",
+    "DL 178-A/77 art. 1.º: nova redação do art. 7.º n.º 2: unidade 49",
+    "DL 178-A/77 art. 1.º: nova redação integral do art. 8.º (sem divisão em números; c) Indústria; e) Florestas; desaparece o n.º 2): unidades 50 e 53-55",
+    "DL 178-A/77 arts. 2.º e 3.º: transferência de competência e despesas, sem alteração textual do original: ignorados",
+    "Portaria 26-B/80: altera quadros de pessoal de outros diplomas; só menciona o original como alterador de outro quadro: ignorada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

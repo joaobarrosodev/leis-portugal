@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 66-74",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1 - Para efeitos da alínea g) do n.º 1 do artigo 8.º, a graduação dos projectos de investimento em inovação e modernização será feita numa escala de pontuação entre 0 e 100, de acordo com a seguinte fórmula:\n\nPt = 0.15 * P1 + 0.35 * P2 + 0.25 * P3 + 0.25 * P4\n\nem que:\n\nPt = pontuação total;\n\nP1, P2, P3 e P4 = as pontuações parcelares atribuídas respectivamente à caracterização do projecto, às prioridades de política industrial, às medidas de produtividade industrial e ao prazo de recuperação em divisas.\n\n2 - Os critérios de relevância industrial a que se referem as pontuações parcelares P1, P2 e P3 serão definidos por despacho dos Ministros das Finanças e da Indústria e Energia, no âmbito da política industrial e tecnológica.\n\n3 - O prazo de recuperação em divisas (PRD), a determinar nos termos definidos na [Portaria n.º 338/87](https://diariodarepublica.pt/dr/detalhe/portaria/338-1987-665948), de 24 de Abril, será pontuado da seguinte forma:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/30202/00180031.pdf)\n\n4 - Consideram-se relevantes do ponto de vista da política industrial os projectos que atinjam pelo menos metade da pontuação máxima, com excepção dos projectos que surjam desligados de unidades industriais já existentes, os quais deverão obter pelo menos dois terços da pontuação máxima.",
+    "depois": "1 - Para efeitos da alínea g) do artigo 8.º do [Decreto-Lei n.º 483-D/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-d-1988-274274) e graduação dos projectos de investimento em inovação e modernização, será feita numa escala de pontuação entre 0 e 100, de acordo com os critérios de relevância industrial a definir por despacho do Ministro da Indústria e Energia no âmbito da política industrial e tecnológica.\n\n2 - Consideram-se relevantes do ponto de vista da política industrial os projectos que atinjam a pontução definida por despacho do Ministro da Indústria e Energia.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:199416:por",
+    "alterador": "pt:dre:507806:por"
+  }
+]

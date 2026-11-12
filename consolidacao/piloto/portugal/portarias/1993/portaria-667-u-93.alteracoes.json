@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Parada do Bouro, município de Vieira do Minho, com uma área de 96 ha, e nas freguesias de Rendufinho, Serzedelo, Travassos, Oliveira, Fonte Arcada, Calvos e Frades, município da Póvoa de Lanhoso, com uma área de 1900 ha, perfazendo uma área de 1996 ha.",
+    "depois": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Rendufinho, Serzedelo, Travassos, Oliveira, Fonte Arcada, Calvos e Frades, município da Póvoa de Lanhoso, com uma área de 1925,6875 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:402494:por",
+    "alterador": "pt:dre:198935:por"
+  }
+]

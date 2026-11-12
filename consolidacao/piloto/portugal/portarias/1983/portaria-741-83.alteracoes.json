@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 18-18",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "a) 2 representantes do Ministério da Agricultura, Comércio e Pescas;",
+    "depois": "a) 1 representante do Ministério da Agricultura, Florestas e Alimentação e 1 representante do Ministério do Comércio e Turismo;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:452563:por",
+    "alterador": "pt:dre:443284:por"
+  }
+]

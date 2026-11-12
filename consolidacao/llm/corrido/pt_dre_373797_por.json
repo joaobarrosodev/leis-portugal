@@ -1,0 +1,47 @@
+{
+  "id": "pt:dre:373797:por",
+  "substituicoes": [
+    {
+      "de": 15,
+      "ate": 16,
+      "texto": "a) O grupo A(índice 0) é incluído no grupo 3131.1 da CAE;\n\nb) Os grupos A(índice 1), A(índice 2), B(índice 1) e B(índice 2) são incluídos no grupo 3131.2 da CAE.",
+      "alterador": 1
+    },
+    {
+      "de": 18,
+      "ate": 18,
+      "texto": "4 - Os projectos de instalações de estabelecimentos incluídos na 1.ª classe dos grupos 3131.1 e 3131.2 deverão ser submetidos a prévio parecer dos organismos vinícolas e da Administração-Geral do Açúcar e do Álcool (AGA), conforme os casos.",
+      "alterador": 1
+    },
+    {
+      "de": 25,
+      "ate": 26,
+      "texto": "Documento comprovativo do licenciamento, emitido pelo Ministério da Indústria e Energia, para os estabelecimentos industriais de 1.ª e 2.ª classes incluídos na tabela anexa à portaria referida no n.º 2;\n\nPlanta das instalações mencionando a escala respectiva e indicando todo o vasilhame fixo e móvel existente, sua localização, numeração e respectivas capacidades em litros.",
+      "alterador": 1
+    },
+    {
+      "de": 28,
+      "ate": 28,
+      "texto": "10 - A vistoria referida no n.º 8 tem um período de validade de 5 anos, findos os quais deverá ser novamente requerida.",
+      "alterador": 1
+    },
+    {
+      "de": 41,
+      "ate": 41,
+      "texto": "21 - A tubagem de distribuição dos destilados alcoólicos deve ser visível e de acesso fácil, com sinalização expressa na obrigatoriedade contida na norma portuguesa n.º 182, aprovada pela [Portaria n.º 22150](https://diariodarepublica.pt/dr/detalhe/portaria/22150-1966-474505), de 4 de Agosto de 1966.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 283/85: nova redação do n.º 2 alíneas a) e b) (corpo '...' mantido): substituídas unidades 15-16",
+    "Portaria 283/85: nova redação do n.º 4: unidade 18",
+    "Portaria 283/85: nova redação do n.º 8: corpo e 1.º travessão iguais; 2.º e 3.º documentos mudam (unidades 25-26)",
+    "Portaria 283/85: nova redação do n.º 10 (n.º 5 -> n.º 8): unidade 28",
+    "Portaria 283/85: nova redação do n.º 21 (1967 -> 1966): unidade 41"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

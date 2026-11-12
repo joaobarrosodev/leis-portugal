@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-01-29'
+version_history:
+  file: portaria-840-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-01-29'
+    amending: pt:dre:507806:por
+    amending_title: Portaria n.º 63/91
+    changes:
+    - Altera Artigo unidades 66-74
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:41:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 63/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1988/portaria-840-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -242,23 +257,11 @@ Para efeitos do n.º 3 do artigo 3.º do [Decreto-Lei n.º 483-D/88](https://dia
 
 Relevância industrial do projecto
 
-1 - Para efeitos da alínea g) do n.º 1 do artigo 8.º, a graduação dos projectos de investimento em inovação e modernização será feita numa escala de pontuação entre 0 e 100, de acordo com a seguinte fórmula:
+1 - Para efeitos da alínea g) do artigo 8.º do [Decreto-Lei n.º 483-D/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-d-1988-274274) e graduação dos projectos de investimento em inovação e modernização, será feita numa escala de pontuação entre 0 e 100, de acordo com os critérios de relevância industrial a definir por despacho do Ministro da Indústria e Energia no âmbito da política industrial e tecnológica.
 
-Pt = 0.15 * P1 + 0.35 * P2 + 0.25 * P3 + 0.25 * P4
+2 - Consideram-se relevantes do ponto de vista da política industrial os projectos que atinjam a pontução definida por despacho do Ministro da Indústria e Energia.
 
-em que:
-
-Pt = pontuação total;
-
-P1, P2, P3 e P4 = as pontuações parcelares atribuídas respectivamente à caracterização do projecto, às prioridades de política industrial, às medidas de produtividade industrial e ao prazo de recuperação em divisas.
-
-2 - Os critérios de relevância industrial a que se referem as pontuações parcelares P1, P2 e P3 serão definidos por despacho dos Ministros das Finanças e da Indústria e Energia, no âmbito da política industrial e tecnológica.
-
-3 - O prazo de recuperação em divisas (PRD), a determinar nos termos definidos na [Portaria n.º 338/87](https://diariodarepublica.pt/dr/detalhe/portaria/338-1987-665948), de 24 de Abril, será pontuado da seguinte forma:
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/30202/00180031.pdf)
-
-4 - Consideram-se relevantes do ponto de vista da política industrial os projectos que atinjam pelo menos metade da pontuação máxima, com excepção dos projectos que surjam desligados de unidades industriais já existentes, os quais deverão obter pelo menos dois terços da pontuação máxima.
+> Alterado pelo/a [Portaria n.º 63/91](https://diariodarepublica.pt/dr/detalhe/portaria/63-1991-507806), publicado em 1991-01-24.
 
 11.º
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-09-25'
+version_history:
+  file: portaria-615-b5-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-09-25'
+    amending: pt:dre:301606:por
+    amending_title: Portaria n.º 961/91
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/615-b5/1991/07/08/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:54:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 961/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-615-b5-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,7 +172,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna e obtido parecer
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdades de Arpezol, Arapouco, Pinhal e Carrasqueira», sitos na freguesia de Santiago, concelho de Setúbal, com uma área de 1331,19 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdades de Arpezol, Arapouco, Pinhal e Carrasqueira», sitos na freguesia de Santiago, concelho de Alcácer do Sal, com uma área de 1331,19 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
+
+> Alterado pelo/a [Portaria n.º 961/91](https://diariodarepublica.pt/dr/detalhe/portaria/961-1991-301606), publicado em 1991-09-20.
 
 2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à PROCAÇA - Promoções e Serviços Cinegéticos, Lda., com o número de pessoa colectiva 501800689 e sede na Rua de Filipe Folque, 50, 3.º, direito, Lisboa, a zona de caça turística de Arapouco e anexas (processo n.º 808 da Direcção-Geral das Florestas).
 

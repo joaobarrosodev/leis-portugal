@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:225829:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, art. 3.º, n.º 1: aumenta o quadro do pessoal técnico do Centro de Informática (mapa anexo ao art. 2.º) com quatro primeiros-mecanógrafos, seis segundos-mecanógrafos e oito terceiros-mecanógrafos; o quadro só existe em imagem (unidade 51) e a alteração não é textual, por isso não foi aplicada.",
+  "instrucoes": [
+    "Alterador 1, art. 3.º, n.º 1: aumento do quadro do pessoal técnico (mapa anexo, só em imagem): não aplicado, registado em nao_aplicavel.",
+    "Alterador 1, art. 4.º: regime de provimento em comissão por dois anos, sem nova redação de nenhuma unidade do original (norma autónoma): nada a mudar no texto.",
+    "Alterador 1, arts. 1.º, 2.º, 3.º n.º 2, 5.º, 6.º e 7.º: normas autónomas, não dirigidas ao texto do original: ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

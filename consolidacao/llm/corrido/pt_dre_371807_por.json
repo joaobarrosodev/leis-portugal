@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:371807:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Proença-a-Velha, São Miguel d'Acha e Oledo, município de Idanha-a-Nova, com uma área de 1224,85 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 866/2007 (renovação, anexação, área total 1246 ha) e a Portaria n.º 1114/2008 (exclusão de 423 ha, área total 823 ha) não dão nova redação a qualquer ponto do original; são actos sobre a zona de caça com nova planta, não alterações textuais.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 1313/2001): nova redação do n.º 2.º; substituída a unidade 7.",
+    "Alt. 2 (Portaria 866/2007): renovação por seis anos e anexação de 70 ha; não textual, não aplicado.",
+    "Alt. 3 (Portaria 1114/2008): exclusão de 423 ha; não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

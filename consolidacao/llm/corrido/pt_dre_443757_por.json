@@ -1,0 +1,14 @@
+{
+  "id": "pt:dre:443757:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (DL 133/85, art. 1.º): o pessoal especializado passa a ser o fixado pelo mapa I anexo, que só vem em imagem; não se pode aplicar ao texto. Alterador 2 (Portaria 1353/95): extingue um lugar de secretário de 1.ª classe e cria um de secretário de 3.ª classe no n.º 1.º, alínea c), sem dar nova redação; alteração não textual. Alterador 3 (Portaria 901/2006, 2.º): cria dois lugares de adido ou conselheiro no quadro, sem nova redação; alteração não textual.",
+  "instrucoes": [
+    "Alterador 1, art. 1.º: quadro do pessoal especializado fixado pelo mapa I anexo (imagem) — não aplicado (nao_aplicavel)",
+    "Alterador 2: extinção de um lugar de secretário de 1.ª classe e criação de um de 3.ª classe na alínea c) do 1.º, sem texto — não aplicado (nao_aplicavel)",
+    "Alterador 3, 2.º: criação de dois lugares de adido ou conselheiro no quadro da OCDE, sem texto — não aplicado (nao_aplicavel)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

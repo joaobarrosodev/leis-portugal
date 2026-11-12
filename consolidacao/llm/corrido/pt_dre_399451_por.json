@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:399451:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "3.º Poderá também ser permitida a frequência do curso a funcionários da Administração Pública, indivíduos por esta credenciados que exerçam bordo do mesmo tipo de navios funções de inspecção relacionadas com a segurança ou ainda aos trabalhadores portuários a que se refere o [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto, que no exercício da sua actividade profissional intervenham nas operações abrangidas pelo curso, os quais terão de ser para o efeito credenciados pelo Instituto do Trabalho Portuário.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 3.º — substituída a unidade 10.",
+    "Alterador 2: altera e adita artigos ao Regulamento anexo à Portaria n.º 1086/90 (outro diploma); o n.º 10.º, n.º 2, é regime transitório que só refere a Portaria 735/84, sem alteração textual — nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

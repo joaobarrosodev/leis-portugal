@@ -1,0 +1,47 @@
+{
+  "id": "pt:dre:380477:por",
+  "artigos": [
+    {
+      "chave": "2.º",
+      "epigrafe": "Supranumerários",
+      "texto": "São supranumerários os estudantes que se encontram numa das seguintes situações:\n\na) Funcionários portugueses de missão diplomática portuguesa no estrangeiro e seus familiares;\n\nb) Cidadãos portugueses bolseiros no estrangeiro ou funcionários públicos em missão oficial no estrangeiro e seus familiares;\n\nc) Oficiais do quadro permanente das forças armadas portuguesas, no âmbito da satisfação de necessidades específicas de formação das forças armadas;\n\nd) Funcionários estrangeiros de missão diplomática acreditada em Portugal e seus familiares, em regime de reciprocidade.\n\ne) Atletas de alta competição constantes do registo organizado ao abrigo da alínea a) do artigo 4.º do [Decreto-Lei n.º 257/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1990-573547), de 7 de Agosto.\n\nf) Naturais e filhos de naturais de territórios sob administração portuguesa, mas temporariamente ocupados por forças armadas e Estados estrangeiros.",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º-A",
+      "epigrafe": "Âmbito",
+      "texto": "São abrangidos por este regime os atletas de alta competição constantes do registo organizado ao abrigo da alínea a) do artigo 4.º do [Decreto-Lei n.º 257/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1990-573547), de 7 de Agosto, que satisfaçam as condições constantes das alíneas a) e b) do n.º 1 do artigo 8.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707).",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º-B",
+      "epigrafe": "Cursos para que podem requerer matrícula e inscrição",
+      "texto": "Os estudantes abrangidos por este regime podem requerer a matrícula e a inscrição nos cursos superiores para os quais satisfaçam as condições específicas a que se refere o n.º 1 do artigo 9.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707).",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º-C",
+      "epigrafe": "Âmbito",
+      "texto": "São abrangidos por este regime os estudantes naturais de territórios sob administração portuguesa, mas temporariamente ocupados por forças armadas e Estados estrangeiros, que satisfaçam as condições constantes das alíneas a) e b) do n.º 1 do artigo 8.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707).",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º-D",
+      "epigrafe": "Cursos para que podem requerer matrícula e inscrição",
+      "texto": "Os estudantes abrangidos por este regime podem requerer a matrícula e a inscrição nos cursos superiores para os quais satisfaçam as condições específicas a que se refere o n.º 1 do artigo 9.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707).",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Os títulos novos 'SECÇÃO V' (Portaria 811/90, 1.º n.º 2, sem epígrafe) e 'SECÇÃO VI — Naturais e filhos de naturais de territórios sob administração portuguesa, mas temporariamente ocupados por forças armadas e Estados estrangeiros.' (Portaria 895-A/91, 1.º n.º 2) não constam do texto atual; o formato só permite mudar títulos existentes, por isso não foram inseridos (só os artigos 11.º-A a 11.º-D). Os n.os 2.º (prazos de 1990 e 1991) são disposições transitórias próprias dos alteradores, não alteram o texto.",
+  "instrucoes": [
+    "Alterador 1, 1.º n.º 1: adita alínea e) ao artigo 2.º — aplicado.",
+    "Alterador 1, 1.º n.º 2: adita secção V ao capítulo II com os artigos 11.º-A e 11.º-B — artigos aditados; título da secção não inserido (ver nao_aplicavel).",
+    "Alterador 2, 1.º n.º 1: adita alínea f) ao artigo 2.º — aplicado.",
+    "Alterador 2, 1.º n.º 2: adita secção VI com os artigos 11.º-C e 11.º-D — artigos aditados; título da secção não inserido."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

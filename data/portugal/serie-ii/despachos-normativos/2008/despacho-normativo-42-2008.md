@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2016-04-23'
+version_history:
+  file: despacho-normativo-42-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-08-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-04-23'
+    amending: pt:dre:74240351:por
+    amending_title: Despacho Normativo n.º 2/2016
+    changes:
+    - Altera Artigo ANEXO — Estatutos da Universidade Nova de Lisboa::9.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:06:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 2/2016. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2008/despacho-normativo-42-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -285,7 +300,7 @@ O Reitor é o órgão superior de governo e de representação externa da univer
 
 ###### Artigo 9.º — Coadjuvação e substituição do Reitor
 
-1 - Podem ser livremente nomeados pelo Reitor até quatro vice-reitores e, para o coadjuvar em áreas específicas ou projectos determinados, até quatro pró-reitores; uns e outros cessam as suas funções com o termo do mandato do Reitor, podendo este exonerá-los em qualquer momento.
+1 - Podem ser livremente nomeados pelo Reitor até quatro vice-reitores e, para o coadjuvar em áreas específicas ou projetos determinados, até seis pró-reitores; uns e outros cessam as suas funções com o termo do mandato do Reitor, podendo este exonerá-los em qualquer momento.
 
 2 - Quando se verifique a incapacidade temporária do Reitor, assume as suas funções o vice-reitor por ele designado, ou, na falta de indicação, o mais antigo.
 
@@ -294,6 +309,8 @@ O Reitor é o órgão superior de governo e de representação externa da univer
 4 - Em situação de vacatura do cargo de Reitor ou perante a incapacidade deste para o exercício das suas funções, mantêm-se em funções os vice-reitores até ao início do mandato do novo Reitor, eleito nos termos do n.º 3 do artigo 91.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro.
 
 5 - Se a substituição do Reitor não puder ser assegurada por nenhum dos vicereitores, será feita pelo professor decano da UNL.
+
+> Alterado pelo/a [Despacho Normativo n.º 2/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2016-74240351), publicado em 2016-04-22.
 
 ###### Artigo 10.º — Competência do Reitor
 

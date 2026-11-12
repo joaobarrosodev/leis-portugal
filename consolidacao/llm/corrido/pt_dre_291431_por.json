@@ -1,0 +1,12 @@
+{
+  "id": "pt:dre:291431:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 248/98 (n.º 2.º) revoga a Portaria n.º 486/94 por inteiro, sem prejuízo da sua aplicação aos projectos seleccionados ao seu abrigo; o novo regulamento é aprovado em anexo próprio, não altera o texto do original.",
+  "instrucoes": [
+    "Alterador 1, n.º 2.º: revogação integral da Portaria n.º 486/94 — registado em nao_aplicavel, sem alterações ao texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

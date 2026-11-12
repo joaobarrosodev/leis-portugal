@@ -1,0 +1,526 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1503284:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-08-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "09e9bf0db44af3c8",
+    "95409efed9f20e9d",
+    "f22ef71a9854784c",
+    "97a7af4c49dddeef",
+    "d04656f2b7043223",
+    "27300b6a9e69ed8a",
+    "e56a234803c5f091",
+    "1f063b05db5a1aae",
+    "6aa5a67a7d1ea2ce",
+    "335702af94232a1c",
+    "aaabb779c82d179e",
+    "414dceb72e0f0b4f",
+    "9fe5ba4c570ec884",
+    "7efcb985856ce9f8",
+    "00989977465509c4",
+    "368949dda9afb57d",
+    "c6b8ededb8efad57",
+    "dce7ead95e365ceb",
+    "b3b31eeddcdcf89d",
+    "a59644247f2ea888",
+    "f3d8718cd253ddfe",
+    "721278eaf8260bfc",
+    "b6cd4a71c7e01d4a",
+    "4e93342020eb658a",
+    "7927fc2605b47dc9",
+    "bbf44dc11c87e1ab",
+    "b9df38bfa1b4a144",
+    "a61aa114250e84ea",
+    "9eab008c480f93ce",
+    "848b2045dfce82f9",
+    "b0d7e118fe8d1696",
+    "1f8c32c4c0c17d35",
+    "5d22b54bb33707f7",
+    "4a17347246501a86",
+    "c82a10569b3f71da",
+    "e46bce16edd69230",
+    "99a048c458704e3c",
+    "2f287bd156c416ba",
+    "518fb325afbbe4fa",
+    "ff91a522abf30d56",
+    "0562d5ab129038e7",
+    "fc8f04abcc01dd51",
+    "551f96ce802a14d6",
+    "890b9b552c763b84",
+    "4bcf62b07630b921",
+    "f87734fd0e805b7b",
+    "db6babc28d0504f6",
+    "71b7107f77cc9675"
+   ]
+  },
+  {
+   "date": "2016-04-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74240351:por",
+     "title": "Despacho Normativo n.º 2/2016",
+     "published": "2016-04-22",
+     "dre_path": "/dr/detalhe/despacho-normativo/2-2016-74240351"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — Estatutos da Universidade Nova de Lisboa::9.º"
+   ],
+   "fragments": [
+    "09e9bf0db44af3c8",
+    "95409efed9f20e9d",
+    "f22ef71a9854784c",
+    "97a7af4c49dddeef",
+    "d04656f2b7043223",
+    "27300b6a9e69ed8a",
+    "e56a234803c5f091",
+    "1f063b05db5a1aae",
+    "6aa5a67a7d1ea2ce",
+    "335702af94232a1c",
+    "aaabb779c82d179e",
+    "414dceb72e0f0b4f",
+    "cd31a876fbba0d31",
+    "7efcb985856ce9f8",
+    "00989977465509c4",
+    "368949dda9afb57d",
+    "c6b8ededb8efad57",
+    "dce7ead95e365ceb",
+    "b3b31eeddcdcf89d",
+    "a59644247f2ea888",
+    "f3d8718cd253ddfe",
+    "721278eaf8260bfc",
+    "b6cd4a71c7e01d4a",
+    "4e93342020eb658a",
+    "7927fc2605b47dc9",
+    "bbf44dc11c87e1ab",
+    "b9df38bfa1b4a144",
+    "a61aa114250e84ea",
+    "9eab008c480f93ce",
+    "848b2045dfce82f9",
+    "b0d7e118fe8d1696",
+    "1f8c32c4c0c17d35",
+    "5d22b54bb33707f7",
+    "4a17347246501a86",
+    "c82a10569b3f71da",
+    "e46bce16edd69230",
+    "99a048c458704e3c",
+    "2f287bd156c416ba",
+    "518fb325afbbe4fa",
+    "ff91a522abf30d56",
+    "0562d5ab129038e7",
+    "fc8f04abcc01dd51",
+    "551f96ce802a14d6",
+    "890b9b552c763b84",
+    "4bcf62b07630b921",
+    "f87734fd0e805b7b",
+    "db6babc28d0504f6",
+    "71b7107f77cc9675"
+   ]
+  }
+ ],
+ "fragments": {
+  "09e9bf0db44af3c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que, nos termos do n.º 1 do artigo 172.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, as instituições de ensino superior devem proceder à revisão dos seus estatutos, de modo a conformá-los com o novo regime jurídico das instituições de ensino superior;\n\nTendo a Universidade Nova de Lisboa procedido à aprovação dos seus novos Estatutos nos termos do citado artigo 172.º e submetido os mesmos a homologação ministerial;\n\nTendo sido realizada a sua apreciação nos termos da referida lei;\n\nAo abrigo do disposto no artigo 69.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro:\n\nDetermino:\n\n1 - São homologados os Estatutos da Universidade Nova de Lisboa, os quais vão publicados em anexo ao presente despacho.\n\n2 - Este despacho entra em vigor no dia seguinte ao da sua publicação no Diário da República.\n\n18 de Agosto de 2008. - O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago."
+  },
+  "95409efed9f20e9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Estatutos da Universidade Nova de Lisboa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Estatutos da Universidade Nova de Lisboa"
+  },
+  "f22ef71a9854784c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Identidade e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Identidade e missão"
+  },
+  "97a7af4c49dddeef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Identidade\n\nA Universidade Nova de Lisboa (UNL) identifica-se como uma instituição universitária com investigação reconhecida internacionalmente e ensino de qualidade, orientado progressivamente para os segundo e terceiros ciclos, capaz de assegurar elevados níveis de sucesso profissional aos seus estudantes e de prestar relevantes serviços à comunidade, nacional e internacional; uma universidade com elementos distintivos no plano nacional - tanto nos programas de formação, como na investigação fundamental e aplicada - e com parcerias estratégicas e de excelência."
+  },
+  "d04656f2b7043223": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão\n\nA missão da UNL, enquanto instituição universitária que se pretende de referência, desenvolve-se nos seguintes planos:\n\na) Uma investigação competitiva no plano internacional, privilegiando áreas interdisciplinares, incluindo a investigação orientada para a resolução dos problemas que afectam a sociedade;\n\nb) Um ensino de excelência, com um ênfase crescente nos segundos e terceiros ciclos, mas fundado em primeiros ciclos sólidos, veiculado por programas académicos competitivos a nível nacional e internacional, erigindo o mérito como medida essencial da avaliação;\n\nc) Uma base alargada de participação interinstitucional, voltada para a integração das diferentes culturas científicas, com vista à criação de sinergias inovadoras para o ensino e para a investigação;\n\nd) Uma prestação de serviços de qualidade, quer no plano interno, quer no plano internacional, capaz de contribuir de forma relevante para o desenvolvimento social e para a qualificação dos recursos humanos, dedicando particular atenção aos países onde se fala a língua portuguesa."
+  },
+  "27300b6a9e69ed8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Avaliação\n\n1 - Para além da participação nos processos de avaliação do ensino e da investigação, em colaboração com as instâncias competentes, a UNL promove e aplica instrumentos de auto-avaliação, destinados a assegurar a permanente qualidade das suas actividades.\n\n2 - Os resultados da avaliação e da auto-avaliação reflectem-se necessariamente na afectação de recursos e na adopção de medidas de melhoria da qualidade."
+  },
+  "e56a234803c5f091": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos"
+  },
+  "1f063b05db5a1aae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Enumeração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Enumeração\n\n1 - A UNL é integrada pelos seguintes órgãos:\n\na) Conselho Geral;\n\nb) Reitor;\n\nc) Colégio de Directores;\n\nd) Conselho de Estudantes;\n\ne) Conselho de Disciplina.\n\nf) Conselho de Gestão;\n\ng) Provedor do Estudante.\n\n2 - Por iniciativa do Reitor podem ser criados órgãos ad hoc, para actividades definidas e por tempo determinado."
+  },
+  "6aa5a67a7d1ea2ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Composição e eleição do Conselho Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Composição e eleição do Conselho Geral\n\n1 - O Conselho Geral é composto por vinte e um membros, sendo onze docentes e investigadores, três estudantes e sete personalidades de reconhecido mérito sem ligação à UNL cooptadas pelos membros eleitos.\n\n2 - As listas de docentes e investigadores candidatas às eleições para o Conselho Geral obedecerão aos seguintes requisitos:\n\na) Os primeiros cinco nomes de cada lista pertencerão a cinco unidades orgânicas distintas;\n\nb) Os primeiros três nomes de cada lista serão professores catedráticos ou investigadores coordenadores.\n\n3 - Têm capacidade eleitoral activa os professores e investigadores da UNL, adoptando-se o sistema eleitoral da representação proporcional.\n\n4 - As listas de estudantes candidatas às eleições obedecerão aos seguintes requisitos:\n\na) Os três nomes pertencerão a três unidades orgânicas distintas;\n\nb) Não são elegíveis estudantes em primeira inscrição nos primeiros ciclos de estudos.\n\n5 - Têm capacidade eleitoral activa os estudantes da UNL, adoptando-se o sistema eleitoral da representação proporcional.\n\n6 - As listas de docentes e investigadores e de estudantes incluirão, cada uma, três suplentes.\n\n7 - Os suplentes serão chamados ao exercício de funções pela ordem constante da lista a que pertencia o membro efectivo cessante ou impedido.\n\n8 - As sete personalidades de reconhecido mérito sem ligação à UNL são cooptadas pelo conjunto dos membros eleitos, por maioria absoluta, com base em propostas fundamentadas subscritas por, pelo menos, um terço daqueles membros;\n\n9 - O mandato dos membros eleitos ou designados é de quatro anos, excepto no caso dos estudantes, em que é de dois anos, não podendo ser destituídos, salvo pelo próprio conselho geral, por maioria absoluta, em caso de falta grave, nos termos de regulamento do próprio órgão.\n\n10 - Os membros eleitos apenas podem ser reconduzidos uma única vez.\n\n11 - Os membros do Conselho Geral não podem pertencer a outros órgãos da UNL, não representam grupos nem interesses sectoriais e são independentes no exercício das suas funções.\n\n12 - O resultado do cálculo referente à eleição dos estudantes quando tiver parte decimal é arredondado para o inteiro imediatamente inferior."
+  },
+  "335702af94232a1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Competência do Conselho Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência do Conselho Geral\n\n1 - Compete ao Conselho Geral:\n\na) Aprovar o seu regimento;\n\nb) Aprovar o regulamento relativo à eleição do Reitor;\n\nc) Eleger o seu presidente, por maioria absoluta, de entre os membros cooptados;\n\nd) Aprovar as alterações dos estatutos;\n\ne) Propor ao Reitor processos de avaliação globais ou sectoriais, tendo por objecto a UNL, unidades orgânicas ou centros de investigação;\n\nf) Propor ao Reitor estratégias de angariação de fundos para a UNL;\n\ng) Propor ao Reitor medidas adequadas ao aprofundamento da relação entre a UNL e a comunidade;\n\nh) Auditar a gestão da UNL;\n\ni) Emitir parecer sobre as individualidades exteriores à UNL indicadas pelo Reitor para integrar os órgãos colegiais representativos de cada unidade orgânica;\n\nj) Aprovar a proposta de transformação da UNL em fundação;\n\nk) Apreciar os actos do Reitor e do Conselho de Gestão;\n\nl) Propor as iniciativas que considere necessárias ao bom funcionamento da instituição;\n\nm) Desempenhar as demais funções previstas na lei.\n\n2 - Compete ao Conselho Geral, sob proposta do Reitor:\n\na) Aprovar, sob proposta do Reitor, a Carta de Princípios da UNL;\n\nb) Aprovar os planos estratégicos de médio prazo e o plano de acção para o quadriénio do mandato do Reitor;\n\nc) Aprovar as linhas gerais de orientação da instituição no plano científico, pedagógico, financeiro e patrimonial;\n\nd) Criar, transformar ou extinguir unidades orgânicas;\n\ne) Aprovar os planos anuais de actividades e apreciar o relatório anual das actividades da instituição;\n\nf) Aprovar a proposta de orçamento;\n\ng) Aprovar as contas anuais consolidadas, acompanhadas do parecer do fiscal único;\n\nh) Fixar as propinas devidas pelos estudantes;\n\ni) Propor ou autorizar, conforme disposto na lei, a aquisição ou alienação de património imobiliário da instituição, bem como as operações de crédito;\n\nj) Pronunciar-se sobre os restantes assuntos que lhe forem apresentados pelo Reitor, nomeadamente a constituição de parcerias envolvendo a UNL.\n\n3 - Quando o Conselho Geral se não pronuncie no prazo de 90 dias considera-se satisfeito o pedido, atendida a iniciativa ou aprovada a proposta do Reitor.\n\n4 - As deliberações a que se referem as alíneas b) a e) e g) do n.º 2 são obrigatoriamente precedidas pela apreciação de um parecer, a elaborar e aprovar pelos membros cooptados.\n\n5 - Nos casos em que é exigido o parecer dos membros cooptados do Conselho Geral, o Reitor enviar-lhes-á directamente o pedido, iniciativa ou proposta, dispondo estes de 30 dias para o remeter ao presidente do Conselho.\n\n6 - As deliberações do Conselho Geral são aprovadas por maioria simples, excepto nos casos previstos nas alíneas d) e j) do n.º 1 e na alínea d) do n.º 2, em que é exigida a maioria de dois terços.\n\n7 - Em todas as matérias da sua competência, o Conselho Geral pode solicitar pareceres a outros órgãos da instituição ou das suas unidades orgânicas."
+  },
+  "aaabb779c82d179e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Reitor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Reitor\n\nO Reitor é o órgão superior de governo e de representação externa da universidade, cabendo-lhe a condução da política da instituição e a presidência do Conselho de Gestão."
+  },
+  "414dceb72e0f0b4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Mandato do Reitor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mandato do Reitor\n\n1 - O mandato do Reitor tem a duração de quatro anos, podendo ser reconduzido uma única vez.\n\n2 - O processo eleitoral tem o seu início três meses antes do termo do mandato.\n\n3 - Em caso de cessação antecipada do mandato, o novo Reitor inicia novo mandato."
+  },
+  "9fe5ba4c570ec884": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Coadjuvação e substituição do Reitor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Coadjuvação e substituição do Reitor\n\n1 - Podem ser livremente nomeados pelo Reitor até quatro vice-reitores e, para o coadjuvar em áreas específicas ou projectos determinados, até quatro pró-reitores; uns e outros cessam as suas funções com o termo do mandato do Reitor, podendo este exonerá-los em qualquer momento.\n\n2 - Quando se verifique a incapacidade temporária do Reitor, assume as suas funções o vice-reitor por ele designado, ou, na falta de indicação, o mais antigo.\n\n3 - Caso a situação de incapacidade se prolongue por mais de 90 dias, o Conselho Geral deve pronunciar-se acerca da conveniência da eleição de um novo Reitor.\n\n4 - Em situação de vacatura do cargo de Reitor ou perante a incapacidade deste para o exercício das suas funções, mantêm-se em funções os vice-reitores até ao início do mandato do novo Reitor, eleito nos termos do n.º 3 do artigo 91.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro.\n\n5 - Se a substituição do Reitor não puder ser assegurada por nenhum dos vicereitores, será feita pelo professor decano da UNL."
+  },
+  "7efcb985856ce9f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competência do Reitor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência do Reitor\n\n1 - Compete ao Reitor:\n\na) Nomear as individualidades externas à UNL que integrarão os órgãos colegiais representativos de cada unidade orgânica;\n\nb) Nomear o Provedor do Estudante;\n\nc) Nomear o Administrador dos Serviços de Acção Social;\n\nd) Elaborar e apresentar ao conselho geral as propostas de:\n\nPlano estratégico de médio prazo e plano de acção para o quadriénio do seu mandato;\n\nLinhas gerais de orientação da instituição no plano científico e pedagógico;\n\nPlano e relatório anuais de actividades;\n\nOrçamento e contas anuais consolidados, acompanhados do parecer do fiscal único;\n\nAquisição ou alienação de património imobiliário da instituição, e realização de operações de crédito;\n\nCriação, transformação ou extinção de unidades orgânicas;\n\nPropinas devidas pelos estudantes.\n\ne) Aprovar a criação, suspensão e extinção de cursos;\n\nf) Aprovar os valores máximos de novas admissões e de inscrições a que se refere o artigo 64.º do RJIES;\n\ng) Superintender na gestão académica, decidindo, designadamente, quanto à abertura de concursos, à nomeação e contratação de pessoal, a qualquer título, à designação dos júris de concursos e de provas académicas e ao sistema e regulamentos de avaliação de docentes e discentes;\n\nh) Orientar e superintender na gestão administrativa e financeira da instituição, assegurando a eficiência no emprego dos seus meios e recursos;\n\ni) Atribuir apoios aos estudantes no quadro da acção social escolar, nos termos da lei;\n\nj) Aprovar a concessão de títulos ou distinções honoríficas;\n\nk) Instituir prémios e incentivos académicos e profissionais;\n\nl) Homologar os estatutos das unidades orgânicas, bem como os resultados eleitorais e a designação dos membros dos órgãos de gestão, só o podendo recusar com base em ilegalidade;\n\nm) Nomear e exonerar, nos termos da lei e dos estatutos, o administrador da UNL e os dirigentes dos serviços e conferir posse aos membros dos órgãos de gestão das unidades orgânicas;\n\nn) Reafectar o pessoal docente, investigador e outro entre unidades orgânicas, nos termos da alínea a) do n.º 3 do artigo 126.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro;\n\no) Assegurar o cumprimento das deliberações tomadas pelos órgãos colegiais da UNL;\n\np) Velar pela observância das leis, dos estatutos e dos regulamentos;\n\nq) Propor as iniciativas que considere necessárias ao bom funcionamento da instituição;\n\nr) Comunicar ao ministro da tutela todos os dados necessários ao exercício desta, designadamente os planos e orçamentos e os relatórios de actividades e contas;\n\ns) Tomar as medidas necessárias à garantia da qualidade do ensino e da investigação na instituição e nas suas unidades orgânicas;\n\nt) Representar a instituição em juízo ou fora dele.\n\n2 - Cabem ainda ao Reitor todas as competências que por lei ou pelos presentes estatutos não sejam atribuídas a outros órgãos da UNL."
+  },
+  "00989977465509c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competência disciplinar do Reitor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência disciplinar do Reitor\n\n1 - O poder disciplinar pertence ao Reitor, podendo o seu exercício ser delegado, relativamente a cada unidade orgânica e no que respeita à iniciativa procedimental, no respectivo director.\n\n2 - As sanções disciplinares somente podem ser aplicadas pelo Reitor, precedendo parecer do Conselho de Disciplina.\n\n3 - A aplicação de sanções expulsivas depende de parecer favorável do Conselho de Disciplina.\n\n4 - Os pareceres do Conselho de Disciplina são dispensados se não forem emitidos no prazo de 30 dias.\n\n5 - Com excepção da aplicação das sanções a que se refere o n.º 3, o poder de sancionar pode ser delegado pelo Reitor num vice-reitor."
+  },
+  "368949dda9afb57d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competência regulamentar do Reitor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência regulamentar do Reitor\n\n1 - Compete ao Reitor aprovar os regulamentos aplicáveis ao conjunto da universidade, a duas ou mais unidades orgânicas ou aos serviços da Reitoria.\n\n2 - Compete ainda ao Reitor homologar os regulamentos que tenham por objecto a admissão e a carreira de docentes e investigadores."
+  },
+  "c6b8ededb8efad57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Delegação de competências\n\n1 - O Reitor pode delegar nos directores das unidades orgânicas, total ou parcialmente, as competências que lhe são atribuídas pelas alíneas c), d), e) e f) do n.º 1 do artigo 92.º do RJIES.\n\n2 - O Reitor pode delegar nos vice-reitores ou nos pró-reitores e ainda no administrador da UNL, relativamente aos serviços da Reitoria, as competências que lhe são atribuídas pela alínea e) do n.º 1 do artigo 92.º do RJIES.\n\nArtigo14.º\n\nComposição do Colégio de Directores\n\n1 - O Colégio de Directores é integrado pelos directores das unidades orgânicas da UNL e presidido pelo Reitor.\n\n2 - O Colégio pode integrar outros membros ligados à UNL, designados por tempo determinado, por iniciativa do Reitor e da maioria dos directores.\n\n3 - Podem participar nas reuniões do Colégio, sem direito a voto, outras pessoas, cujos conhecimentos sejam relevantes para os assuntos em discussão, igualmente por iniciativa da maioria dos directores, ou do Reitor, com o acordo daqueles."
+  },
+  "dce7ead95e365ceb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Competência do Colégio de Directores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência do Colégio de Directores\n\n1 - Compete ao Colégio de Directores pronunciar-se sobre quaisquer assuntos que lhe sejam submetidos pelo Reitor.\n\n2 - É obrigatória a consulta do Colégio relativamente às seguintes matérias:\n\na) Plano estratégico de médio prazo e plano de acção para o quadriénio do seu mandato;\n\nb) Linhas gerais de orientação da instituição no plano científico e pedagógico;\n\nc) Plano e relatório anuais de actividades;\n\nd) Orçamento e contas anuais consolidadas, acompanhados do parecer do fiscal único;\n\ne) Aquisição ou alienação de património imobiliário da instituição, e de operações de crédito;\n\nf) Criação, transformação ou extinção de unidades orgânicas;\n\ng) Criação, suspensão e extinção de cursos;\n\nh) Reafectação de pessoal docente, investigador e outro entre unidades orgânicas;\n\ni) Propinas devidas pelos estudantes;\n\nj) Processos de avaliação da UNL;\n\nk) Regulamentos que sejam da competência do Reitor, com excepção dos apenas aplicáveis aos serviços da Reitoria;\n\nl) Projectos que envolvam várias unidades orgânicas;\n\nm) Realização de operações de financiamento da UNL;\n\nn) Atribuição de títulos, distinções honoríficas e prémios académicos.\n\n3 - Os pareceres obrigatórios do Colégio devem ser aprovados no prazo de 30 dias; transcorrido este prazo, o Reitor pode tomar a sua decisão sem eles.\n\n4 - Em casos de urgência, o prazo para emitir o parecer pode ser reduzido a metade pelo Reitor."
+  },
+  "b3b31eeddcdcf89d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Conselho de Estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Conselho de Estudantes\n\n1 - O Conselho de Estudantes é o órgão consultivo da UNL nas matérias que digam directamente respeito à vida dos estudantes.\n\n2 - O Conselho de Estudantes é integrado pelo Reitor, que preside, pelo Presidente da Federação Académica da UNL, pelos presidentes das associações de estudantes das unidades orgânicas da UNL e pelo Administrador dos Serviços de Acção Social da UNL.\n\n3 - Podem participar nas reuniões do Conselho de Estudantes, sem direito a voto, outras pessoas, cujos conhecimentos sejam relevantes para os assuntos em discussão, por iniciativa do Reitor ou da maioria dos representantes dos estudantes."
+  },
+  "a59644247f2ea888": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competência do Conselho de Estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competência do Conselho de Estudantes\n\n1 - O Conselho de Estudantes pronuncia-se, a pedido do Reitor, sobre quaisquer assuntos da sua esfera de competência.\n\n2 - É obrigatória a consulta do Conselho de Estudantes nas seguintes matérias:\n\na) Acção social, nomeadamente, cantinas, residências, complexos desportivos;\n\nb) Fixação dos preços dos serviços prestados pelos Serviços de Acção Social;\n\nc) Designação dos estudantes membros do Conselho de Acção Social;\n\nd) Concessão de subsídios a actividades promovidas pelos estudantes da UNL;\n\ne) Actos de indisciplina e outras perturbações da vida académica relacionados com as chamadas praxes académicas;\n\nf) Plano desportivo da UNL;\n\ng) Nomeação do Provedor do Estudante.\n\n3 - Os pareceres obrigatórios do Conselho de Estudantes devem ser aprovados no prazo de 30 dias; transcorrido este prazo, o Reitor pode tomar a sua decisão sem eles.\n\n4 - Em casos de urgência, o prazo para emitir o parecer pode ser reduzido a metade pelo Reitor."
+  },
+  "f3d8718cd253ddfe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Conselho de Disciplina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Conselho de Disciplina\n\n1 - O Conselho de Disciplina é o órgão consultivo da UNL em matéria disciplinar.\n\n2 - O Conselho de Disciplina é composto por três docentes ou investigadores, escolhidos pelo Reitor; por um não docente, designado pelo Administrador da UNL; e por um estudante, designado pelo Conselho de Estudantes.\n\n3 - Os membros docentes ou investigadores têm de pertencer a unidades orgânicas distintas e um deles será doutor em direito.\n\n4 - Um dos membros docentes ou investigadores será designado presidente pelo Reitor.\n\n5 - O mandato do membro estudante tem a duração de dois anos e o dos outros membros a duração de quatro anos."
+  },
+  "721278eaf8260bfc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Conselho de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Conselho de Gestão\n\n1 - O Conselho de Gestão é presidido pelo Reitor e integrado por um a três membros da equipa reitoral e pelo Administrador da UNL.\n\n2 - Compete ao Conselho de Gestão:\n\na) Conduzir a gestão administrativa, patrimonial e financeira e os recursos humanos da UNL, sendo-lhe aplicável a legislação em vigor para os organismos públicos dotados de autonomia administrativa.\n\nb) Fixar as taxas e os emolumentos.\n\n3 - O Conselho de Gestão pode delegar nos órgãos próprios das unidades orgânicas e nos dirigentes dos serviços as competências consideradas necessárias a uma gestão mais eficiente."
+  },
+  "b6cd4a71c7e01d4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Provedor do Estudante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Provedor do Estudante\n\n1 - O Provedor do Estudante é nomeado pelo Reitor, precedendo consulta do Conselho de Estudantes, por um período de quatro anos, podendo ser reconduzido uma única vez.\n\n2 - O Provedor do Estudante aprecia as reclamações dirigidas pelos estudantes contra actos ou omissões dos órgãos da UNL ou das suas unidades orgânicas, podendo dirigir a estes as recomendações que considere adequadas."
+  },
+  "4e93342020eb658a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Serviços de acção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Serviços de acção social\n\n1 - A UNL dispõe de serviços de acção social escolar (SAS) dotados de autonomia administrativa e financeira.\n\n2 - Compete aos SAS assegurar e prestar aos estudantes da UNL apoios directos e outros, nos termos estabelecidos no RJIES."
+  },
+  "7927fc2605b47dc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Unidades orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Unidades orgânicas"
+  },
+  "bbf44dc11c87e1ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Enumeração e estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Enumeração e estatuto\n\n1 - A UNL integra, para além da Reitoria, as unidades orgânicas constantes do anexo, todas dotadas de personalidade jurídica pública e de autonomia administrativa e financeira.\n\n2 - A lista constante do anexo considera-se automaticamente actualizada em resultado da criação, extinção ou modificação de unidades orgânicas."
+  },
+  "b9df38bfa1b4a144": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Organização\n\n1 - Em cada unidade orgânica da UNL existirá um órgão colegial representativo, composto por dez a quinze membros, de acordo com os respectivos estatutos; tal órgão toma a designação de Conselho de Faculdade, Conselho de Instituto ou Conselho de Escola, consoante o nome da unidade orgânica.\n\n2 - A composição do órgão referido no número anterior obedece às seguintes regras:\n\na) Um estudante;\n\nb) Seis docentes ou investigadores, no caso da composição mínima;\n\nc) Sete docentes ou investigadores, para um número total de 11 membros;\n\nd) Oito docentes ou investigadores, para um número total de 12 ou 13 membros;\n\ne) Nove docentes ou investigadores, para um número total de 14 ou 15 membros;\n\nf) Três a cinco individualidades externas à UNL.\n\n3 - Os estudantes e os docentes e investigadores são eleitos pelos respectivos corpos.\n\n4 - Decorrendo as eleições com base na apresentação de listas, os dois primeiros nomes, pelo menos, de cada lista concorrente às eleições do corpo de docentes e investigadores serão professores catedráticos ou investigadores coordenadores.\n\n5 - Não havendo lugar à apresentação de listas, pelo menos dois dos docentes ou investigadores eleitos serão professores catedráticos ou investigadores coordenadores.\n\n6 - No caso de a unidade orgânica possuir cinco ou menos professores catedráticos ou investigadores coordenadores, o número mínimo destes é reduzido a um.\n\n7 - O mandato dos membros eleitos docentes e investigadores é de quatro anos, podendo ser reconduzidos por uma única vez.\n\n8 - O mandato dos membros eleitos estudantes é de dois anos, podendo ser reconduzidos por uma única vez.\n\n9 - Não são elegíveis estudantes em primeira inscrição nos primeiros ciclos de estudos.\n\n10 - As individualidades exteriores à UNL são nomeadas pelo Reitor, precedendo parecer do Conselho Geral e das instâncias competentes da unidade orgânica.\n\n11 - Para além da eleição do director, tal órgão terá as competências que lhe forem fixadas nos estatutos de cada unidade orgânica.\n\n12 - O director poderá não pertencer aos quadros da unidade orgânica.\n\n13 - Os estatutos das unidades orgânicas podem prever a existência de outros órgãos de carácter consultivo."
+  },
+  "a61aa114250e84ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Organização interna"
+  },
+  "9eab008c480f93ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção I — Regras sobre reuniões e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Regras sobre reuniões e deliberações"
+  },
+  "848b2045dfce82f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Reuniões\n\n1 - Quando à hora marcada para a reunião não exista quórum, poderá esta realizar-se uma hora depois, desde que se encontre presente um terço dos membros do órgão colegial em efectividade de funções.\n\n2 - Das actas das reuniões dos órgãos colegiais devem apenas constar as deliberações tomadas, a menção da aprovação e os resultados da votação, se tiver existido; eventuais votos de vencido somente constarão da acta se os seus autores o exigirem."
+  },
+  "b0d7e118fe8d1696": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Deliberações\n\n1 - As deliberações dos órgãos colegiais são tomadas por maioria absoluta dos votos expressos dos membros presentes e não impedidos.\n\n2 - Caso não se forme maioria absoluta, proceder-se-á ao apuramento da vontade do órgão por maioria relativa.\n\n3 - O voto secreto apenas será utilizado em eleições e nos casos previstos no Código do Procedimento Administrativo.\n\n4 - O presidente do órgão dispõe de voto de desempate; exceptua-se o Reitor quando presida ao Conselho de Gestão, em que possui voto de qualidade."
+  },
+  "1f8c32c4c0c17d35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção II — Administrador e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Administrador e serviços"
+  },
+  "5d22b54bb33707f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Administrador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Administrador\n\nA UNL tem um Administrador, com o estatuto constante do artigo 123.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), do RJIES."
+  },
+  "4a17347246501a86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Serviços\n\n1 - A UNL dispõe dos serviços necessários para assegurar a prossecução das suas atribuições e o exercício das competências dos seus órgãos e, ainda, para prestar o apoio conveniente às unidades orgânicas.\n\n2 - Os serviços da UNL cobrem, nomeadamente, as áreas do planeamento, dos recursos humanos e financeiros, das relações internacionais, da gestão da informação, da consultadoria jurídica e do apoio ao desenvolvimento interinstitucional nas áreas da promoção da qualidade, da investigação, da inovação e do empreendedorismo.\n\n3 - A organização dos serviços da UNL assentará em estruturas leves e flexíveis, predominantemente unidades de missão e equipas de projecto.\n\n4 - A organização dos serviços da Reitoria da UNL é determinada e livremente alterada pelo Reitor, constando de regulamento aprovado por este."
+  },
+  "c82a10569b3f71da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Recursos"
+  },
+  "e46bce16edd69230": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção I — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Recursos humanos"
+  },
+  "99a048c458704e3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Princípios\n\nEm matéria de recursos humanos, a UNL:\n\na) Promove o respeito pelo princípio da igualdade;\n\nb) Incentiva a qualidade e a inovação e o reconhecimento da iniciativa e do empenhamento;\n\nc) Utiliza o mérito, comprovado por métodos de avaliação transparentes, como base para a fixação da remuneração e para a progressão na carreira;\n\nd) Efectiva a responsabilidade individual no cumprimento dos objectivos fixados."
+  },
+  "2f287bd156c416ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Disciplina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Disciplina\n\nA disciplina é um instrumento de garantia das condições de prossecução dos objectivos da UNL; o exercício do poder disciplinar tem também uma função pedagógica e é determinado pelo objectivo fundamental de prevenir ou sancionar os danos causados à comunidade universitária por atitudes lesivas dos deveres académicos e profissionais; a aplicação de sanções disciplinares respeita sempre o direito de defesa."
+  },
+  "518fb325afbbe4fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção II — Recursos financeiros e patrimoniais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Recursos financeiros e patrimoniais"
+  },
+  "ff91a522abf30d56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Afectação de recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Afectação de recursos\n\nA UNL afecta os seus recursos financeiros às suas despesas:\n\na) No âmbito da prossecução da sua missão;\n\nb) No respeito pelo princípio da racionalidade e eficiência económica, ponderando sempre os custos de oportunidade das opções preteridas e procurando que cada gasto proporcione o maior benefício;\n\nc) No cumprimento das normas legais aplicáveis."
+  },
+  "0562d5ab129038e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Património\n\nIntegra o património da UNL o acervo de bens e direitos afectados ao desempenho da sua missão pelo Estado e por quaisquer outras entidades e ainda os bens que adquirir a título gratuito ou oneroso."
+  },
+  "fc8f04abcc01dd51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "551f96ce802a14d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Constituição dos órgãos da UNL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Constituição dos órgãos da UNL\n\n1 - Os órgãos da UNL previstos nos presentes estatutos deverão estar constituídos ou investidos e em condições de iniciar as suas funções no prazo de dois meses a contar da data da entrada em vigor destes, cabendo ao Reitor praticar ou determinar a prática de todos os actos e desencadear e conduzir todos procedimentos necessários para tal.\n\n2 - À primeira eleição para o Conselho Geral aplica-se o Regulamento Eleitoral da Assembleia Estatutária da UNL, com as necessárias adaptações.\n\n3 - No caso de o actual Reitor ser candidato a novo mandato, todos os actos relativos à respectiva eleição serão praticados pelo vice-reitor com maior antiguidade na carreira docente que não seja candidato."
+  },
+  "890b9b552c763b84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Estatutos das unidades orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Estatutos das unidades orgânicas\n\n1 - Os estatutos das unidades orgânicas que integram a UNL serão obrigatoriamente revistos, para serem adequados ao RJIES e aos presentes estatutos, no prazo de quatro meses a contar da data de entrada em vigor destes.\n\n2 - O prazo fixado no número anterior poderá ser prorrogado pelo Reitor por um máximo de dois meses, por proposta fundamentada do director da unidade orgânica.\n\n3 - O processo de revisão estatutária será conduzido por uma assembleia estatutária, composta por um máximo de 21 membros e presidida pelo director, à qual são aplicáveis, com as necessárias adaptações, as disposições dos n.os 2 a 6 do artigo 172.º do RJIES e dos n.os 4 e 6 do artigo 23.º dos presentes estatutos.\n\n4 - Compete ao Reitor determinar o número de membros de cada assembleia estatutária, por proposta do director da unidade orgânica.\n\n5 - Sob proposta do director da unidade orgânica, o Reitor poderá optar pela transformação da assembleia de representantes em funções em assembleia estatutária.\n\n6 - Os estatutos são aprovados em votação final global por maioria absoluta do número de membros da assembleia, sendo submetidos a homologação do Reitor.\n\n7 - Os órgãos previstos nos estatutos de cada unidade orgânica deverão estar constituídos ou investidos e em condições de iniciar as suas funções no prazo de dois meses a contar da data da respectiva homologação pelo Reitor."
+  },
+  "4bcf62b07630b921": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Regulamentos transitoriamente aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regulamentos transitoriamente aplicáveis\n\nAté à publicação dos novos regulamentos da UNL, continuam em vigor, na parte em que não contrariarem a lei e os presentes estatutos, os actuais regulamentos, procedendo-se às necessárias adaptações."
+  },
+  "f87734fd0e805b7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Transformação da UNL em fundação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Transformação da UNL em fundação\n\n1 - A UNL pode, em qualquer momento, decidir a sua transformação em fundação pública com regime de direito privado.\n\n2 - A transformação em fundação somente será decidida se, para além do preenchimento das exigências legais, corresponder à vontade dos seus órgãos e unidades orgânicas e for considerada, pelo Reitor e pelo Conselho Geral, adequada ao desenvolvimento da missão da UNL e às actividades por esta desenvolvidas e conveniente para a melhor gestão dos recursos de que disponha."
+  },
+  "db6babc28d0504f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Actualização do inventário da UNL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Actualização do inventário da UNL\n\n1 - Nos 30 dias subsequentes à entrada em vigor dos presentes estatutos o Reitor nomeará um grupo de trabalho para proceder à actualização do inventário do património imobiliário da UNL e dos imóveis do Estado que lhe estão afectos.\n\n2 - O grupo de trabalho apresentará o seu relatório até ao dia 10 de Março de 2009, dele devendo constar a justificação da necessidade dos bens para a missão e actividades da UNL."
+  },
+  "71b7107f77cc9675": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nA UNL integra as seguintes unidades orgânicas:\n\na) Faculdade de Ciências e Tecnologia (FCT);\n\nb) Faculdade de Ciências Sociais e Humanas (FCSH);\n\nc) Faculdade de Economia (FE);\n\nd) Faculdade de Ciências Médicas (FCM);\n\ne) Faculdade de Direito (FD);\n\nf) Instituto de Higiene e Medicina Tropical (IHMT);\n\ng) Instituto Superior de Estatística e Gestão da Informação (ISEGI);\n\nh) Instituto de Tecnologia Química e Biológica (ITQB);\n\ni) Escola Nacional de Saúde Pública (ENSP)."
+  },
+  "cd31a876fbba0d31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Coadjuvação e substituição do Reitor",
+   "in_force_from": "2016-04-23",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 2/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2016-74240351), publicado em 2016-04-22."
+   ],
+   "markdown": "###### Artigo 9.º — Coadjuvação e substituição do Reitor\n\n1 - Podem ser livremente nomeados pelo Reitor até quatro vice-reitores e, para o coadjuvar em áreas específicas ou projetos determinados, até seis pró-reitores; uns e outros cessam as suas funções com o termo do mandato do Reitor, podendo este exonerá-los em qualquer momento.\n\n2 - Quando se verifique a incapacidade temporária do Reitor, assume as suas funções o vice-reitor por ele designado, ou, na falta de indicação, o mais antigo.\n\n3 - Caso a situação de incapacidade se prolongue por mais de 90 dias, o Conselho Geral deve pronunciar-se acerca da conveniência da eleição de um novo Reitor.\n\n4 - Em situação de vacatura do cargo de Reitor ou perante a incapacidade deste para o exercício das suas funções, mantêm-se em funções os vice-reitores até ao início do mandato do novo Reitor, eleito nos termos do n.º 3 do artigo 91.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro.\n\n5 - Se a substituição do Reitor não puder ser assegurada por nenhum dos vicereitores, será feita pelo professor decano da UNL.\n\n> Alterado pelo/a [Despacho Normativo n.º 2/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2016-74240351), publicado em 2016-04-22."
+  }
+ }
+}

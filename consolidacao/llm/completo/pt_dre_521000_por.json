@@ -1,0 +1,94 @@
+{
+  "id": "pt:dre:521000:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Natureza",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Missão e atribuições",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Cargos de direcção superior",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Director-geral",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Tipo de organização interna",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Receitas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Despesas",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Quadros de pessoal dirigente",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Consultores",
+      "texto": "1 - (Revogado.)\n\n2 - Os consultores nomeados ao abrigo das alíneas a) e b) do número anterior são remunerados pelo índice 820 da escala salarial do regime geral e os nomeados ao abrigo da alínea c) pelo índice 710 da mesma escala, sempre sem prejuízo da faculdade de optar pelo vencimento do cargo de origem.\n\n3 - O provimento dos consultores é efectuado em regime de comissão de serviço, pelo período de dois anos, renovável por iguais períodos.\n\n4 - Os consultores estão isentos de horário de trabalho, não lhes correspondendo, por isso, qualquer remuneração a título de trabalho extraordinário.\n\n5 - Os consultores encontram-se sujeitos à obrigatoriedade do cumprimento do dever geral de assiduidade e da duração normal de trabalho.\n\n6 - O exercício de funções como consultor é contado, para todos os efeitos legais, designadamente para a progressão nas respectivas carreiras, como prestado nos lugares de origem.\n\n7 - (Revogado.)\n\n8 - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Sucessão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Critérios de selecção do pessoal",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Norma revogatória",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Alterador 1, art. 13.º, n.º 2: mantém em vigor os n.os 2 a 6 do artigo 9.º «até à revisão do cargo de consultor» — a revogação desses números fica adiada para um facto futuro e não se aplica ao texto (ficam com a redação atual). O n.º 3 do art. 13.º (remissões do n.º 2 do artigo 9.º consideram-se feitas para o artigo 10.º do DL 163/2012) não é alteração textual. O anexo (mapa a que se refere o artigo 8.º) só aparece como título de divisão, sem conteúdo no texto atual: a sua revogação não foi tratada.",
+  "instrucoes": [
+    "Alterador 1, art. 13.º, n.º 1: revoga o DL 123/2007 sem prejuízo dos números seguintes — artigos 1.º a 8.º e 10.º a 13.º ficam (Revogado.); no artigo 9.º, os n.os 1, 7 e 8 ficam revogados.",
+    "Alterador 1, art. 13.º, n.º 2: mantém em vigor os n.os 2 a 6 do artigo 9.º até à revisão do cargo de consultor — mantidos com o texto atual (revogação adiada, ver nao_aplicavel).",
+    "Alterador 1, art. 13.º, n.º 3: remissões do n.º 2 do artigo 9.º para o n.º 1 do artigo 10.º do DL 163/2012 — não textual, nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

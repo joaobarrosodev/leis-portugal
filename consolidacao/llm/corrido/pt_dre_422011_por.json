@@ -1,0 +1,43 @@
+{
+  "id": "pt:dre:422011:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 12,
+      "texto": "Artigo 1.º - (Revogado.)\n\nArt. 2.º - (Revogado.)\n\nArt. 3.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 15,
+      "ate": 35,
+      "texto": "Art. 4.º - (Revogado.)\n\nArt. 5.º - (Revogado.)\n\nArt. 6.º - (Revogado.)",
+      "alterador": 1
+    },
+    {
+      "de": 37,
+      "ate": 43,
+      "texto": "Art. 7.º - (Revogado.)\n\nArt. 8.º - (Revogado.)\n\nArt. 9.º - (Revogado.)\n\nArt. 10.º - (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 22.º: revoga os artigos 1.º a 10.º do diploma (designado 'Decreto-Lei n.º 196/73, de 3 de Maio', é o original) — artigos 1.º-3.º (unidades 6-12), 4.º-6.º (15-35) e 7.º-10.º (37-43) substituídos por '(Revogado.)', mantendo as epígrafes de capítulo e secção.",
+    "Alterador 1, arts. 1.º a 21.º: alteram o Decreto-Lei n.º 523/72 ou são normas próprias (o art. 20.º só remete para o art. 24.º do original) — não dirigidos ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": [
+    "substituição 6-12: parágrafo que não está no alterador nem no original: Artigo 1.º - (Revogado.)",
+    "substituição 6-12: parágrafo que não está no alterador nem no original: Art. 2.º - (Revogado.)",
+    "substituição 6-12: parágrafo que não está no alterador nem no original: Art. 3.º - (Revogado.)",
+    "substituição 15-35: parágrafo que não está no alterador nem no original: Art. 4.º - (Revogado.)",
+    "substituição 15-35: parágrafo que não está no alterador nem no original: Art. 5.º - (Revogado.)",
+    "substituição 15-35: parágrafo que não está no alterador nem no original: Art. 6.º - (Revogado.)",
+    "substituição 37-43: parágrafo que não está no alterador nem no original: Art. 7.º - (Revogado.)",
+    "substituição 37-43: parágrafo que não está no alterador nem no original: Art. 8.º - (Revogado.)",
+    "substituição 37-43: parágrafo que não está no alterador nem no original: Art. 9.º - (Revogado.)",
+    "substituição 37-43: parágrafo que não está no alterador nem no original: Art. 10.º - (Revogado.)"
+  ]
+}

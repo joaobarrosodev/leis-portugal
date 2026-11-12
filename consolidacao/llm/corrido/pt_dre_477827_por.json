@@ -1,0 +1,15 @@
+{
+  "id": "pt:dre:477827:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1 (RCM 59/2001, n.º 2 e ponto 8 do anexo): alarga a composição da Comissão com um representante do Ministério das Finanças e um do Ministério da Educação, sem dar nova redação ao n.º 1; alteração não textual. Alteradores 2 (RCM 24/2010) e 3 (DL 7/2012): o pedido não traz texto destes diplomas, não há instrução que se possa aplicar. Alterador 4 (DL 56/2012, art. 15.º, n.º 1, h)): a APA, I. P., sucede nas atribuições da Comissão para as Alterações Climáticas (extinção por fusão), sem revogação expressa nem alteração textual da resolução.",
+  "instrucoes": [
+    "Alterador 1, n.º 2: alargamento da composição da Comissão (Finanças e Educação) sem texto — não aplicado (nao_aplicavel)",
+    "Alterador 2: sem texto no pedido — nada aplicado (nao_aplicavel)",
+    "Alterador 3: sem texto no pedido — nada aplicado (nao_aplicavel)",
+    "Alterador 4, art. 15.º, n.º 1, h): sucessão da APA, I. P., nas atribuições da Comissão — não textual, nada aplicado (nao_aplicavel)"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

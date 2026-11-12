@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:162805:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 46,
+      "texto": "Regime dos cursos de cadetes a admitir na Escola Naval em 1963\n\nAdmissão\n\nAnúncios - meados de Julho de 1963.\n\nEntrega de documentos - de 20 a 31 de Julho de 1963.\n\nVerificação dos documentos, inspecção médica, provas de admissão e apuramento - de 1 a 20 de Agosto de 1963.\n\nAlistamento dos cadetes - 1 de Setembro de 1963.\n\n1.ª fase\n\n1.º período:\n\nInício dos trabalhos escolares - 1 de Setembro de 1963.\n\nFim do 1.º período - 14 de Fevereiro de 1964.\n\n2.º período:\n\nInício dos trabalhos escolares - 15 de Fevereiro de 1964.\n\nFim do período - 31 de Julho de 1964.\n\nFérias - de 1 a 31 de Agosto de 1964.\n\n3.º período:\n\nInício dos trabalhos escolares - 1 de Setembro de 1964.\n\nFim do 3.º período - 14 de Fevereiro de 1965.\n\n4.º período:\n\nInício dos trabalhos escolares - 15 de Fevereiro de 1965.\n\nFim do 4.º período - 31 de Julho de 1965.\n\nFérias - de 1 a 31 de Agosto de 1965.\n\n5.º período:\n\nEmbarque - de 1 de Setembro a 31 de Dezembro de 1965.\n\n2.ª fase\n\n6.º período:\n\nInício dos trabalhos escolares - 1 de Janeiro de 1966.\n\nFim dos trabalhos escolares - 30 de Abril de 1966.\n\nEmbarque - de 1 a 19 de Maio de 1966.\n\nFim do período - 19 de Maio de 1966.\n\n7.º período:\n\nInício dos trabalhos escolares - 20 de Maio de 1966.\n\nFérias - de 1 a 31 de Agosto de 1966.\n\nFim dos trabalhos escolares - 15 de Novembro de 1966.\n\nEstágios - de 16 de Novembro a 26 de Dezembro de 1966.\n\nEmbarque - de 27 de Dezembro de 1966 a 10 de Janeiro de 1967.\n\nPromoção a guarda-marinha - referida a 11 de Janeiro de 1967.\n\nMinistério da Marinha, 8 de Agosto de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alt. 1, 1.º: manda aplicar o regime do original aos cursos de Miguel Corte Real; não é alteração textual, nada a aplicar.",
+    "Alt. 1, 2.º: o quadro anexo ao original é substituído pelo quadro anexo à Portaria n.º 19999: unidades 10-46 (título, quadro e assinatura do anexo) substituídas pelo novo anexo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

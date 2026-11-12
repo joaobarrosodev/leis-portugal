@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO — Estatutos da Universidade Nova de Lisboa::9.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 9.º — Coadjuvação e substituição do Reitor\n\n1 - Podem ser livremente nomeados pelo Reitor até quatro vice-reitores e, para o coadjuvar em áreas específicas ou projectos determinados, até quatro pró-reitores; uns e outros cessam as suas funções com o termo do mandato do Reitor, podendo este exonerá-los em qualquer momento.\n\n2 - Quando se verifique a incapacidade temporária do Reitor, assume as suas funções o vice-reitor por ele designado, ou, na falta de indicação, o mais antigo.\n\n3 - Caso a situação de incapacidade se prolongue por mais de 90 dias, o Conselho Geral deve pronunciar-se acerca da conveniência da eleição de um novo Reitor.\n\n4 - Em situação de vacatura do cargo de Reitor ou perante a incapacidade deste para o exercício das suas funções, mantêm-se em funções os vice-reitores até ao início do mandato do novo Reitor, eleito nos termos do n.º 3 do artigo 91.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro.\n\n5 - Se a substituição do Reitor não puder ser assegurada por nenhum dos vicereitores, será feita pelo professor decano da UNL.",
+    "depois": "###### Artigo 9.º — Coadjuvação e substituição do Reitor\n\n1 - Podem ser livremente nomeados pelo Reitor até quatro vice-reitores e, para o coadjuvar em áreas específicas ou projetos determinados, até seis pró-reitores; uns e outros cessam as suas funções com o termo do mandato do Reitor, podendo este exonerá-los em qualquer momento.\n\n2 - Quando se verifique a incapacidade temporária do Reitor, assume as suas funções o vice-reitor por ele designado, ou, na falta de indicação, o mais antigo.\n\n3 - Caso a situação de incapacidade se prolongue por mais de 90 dias, o Conselho Geral deve pronunciar-se acerca da conveniência da eleição de um novo Reitor.\n\n4 - Em situação de vacatura do cargo de Reitor ou perante a incapacidade deste para o exercício das suas funções, mantêm-se em funções os vice-reitores até ao início do mandato do novo Reitor, eleito nos termos do n.º 3 do artigo 91.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro.\n\n5 - Se a substituição do Reitor não puder ser assegurada por nenhum dos vicereitores, será feita pelo professor decano da UNL.\n\n> Alterado pelo/a [Despacho Normativo n.º 2/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2016-74240351), publicado em 2016-04-22.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1503284:por",
+    "alterador": "pt:dre:74240351:por"
+  }
+]

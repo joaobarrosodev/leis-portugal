@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:402494:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de Rendufinho, Serzedelo, Travassos, Oliveira, Fonte Arcada, Calvos e Frades, município da Póvoa de Lanhoso, com uma área de 1925,6875 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a substituição da planta anexa só vem em imagem (a unidade 18 mantém a ligação ao documento original). Alteradores 2 a 5: desanexações, anexações, renovação da concessão e novas plantas da zona de caça, sem alteração textual do articulado (as plantas só vêm em imagem).",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º — substituída a unidade 6; substituição da planta não aplicável (imagem).",
+    "Alterador 2: desanexação de 20 ha com nova planta — não textual, não aplicada.",
+    "Alterador 3: anexação de 472,6373 ha com nova planta — não textual, não aplicada.",
+    "Alterador 4: renovação por 12 anos, anexação e desanexação, nova planta — não textual, não aplicada.",
+    "Alterador 5: anexação de 2232 ha com nova planta — não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

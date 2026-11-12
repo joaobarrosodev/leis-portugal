@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:216150:por",
+  "substituicoes": [
+    {
+      "de": 24,
+      "ate": 24,
+      "texto": "5.º Os pedidos de apoio financeiro ao abrigo destas linhas de crédito deverão dar entrada nas instituições de crédito até ao dia 29 de Fevereiro de 1984.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 dá nova redação ao n.º 5.º (prazo até 29 de Fevereiro de 1984): substituída a unidade 24."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

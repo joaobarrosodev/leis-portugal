@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:291636:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Salir de Matos, município das Caldas da Rainha, com uma área de 1833,8750 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1: a substituição da planta anexa pela planta anexa à Portaria n.º 956/94 não é aplicável (planta só em imagem). Alteradores 2 e 3 (Portarias n.os 874/98 e 840-A/99): suspensão da actividade cinegética por 180 dias, sem alteração textual. Alterador 4 (Portaria n.º 611/2000): revoga a concessão da zona de caça associativa (acto administrativo), não o texto da portaria; alteração não textual.",
+  "instrucoes": [
+    "Alterador 1: nova redacção do n.º 1.º (área 1833,8750 ha) — substituída a unidade 6.",
+    "Alterador 1: substituição da planta anexa — não aplicada (imagem).",
+    "Alterador 2: suspensão da actividade cinegética por 180 dias — não textual.",
+    "Alterador 3: nova suspensão por 180 dias — não textual.",
+    "Alterador 4: revogação da concessão da zona de caça — não textual, registado em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

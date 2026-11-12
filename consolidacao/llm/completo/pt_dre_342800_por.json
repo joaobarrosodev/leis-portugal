@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:342800:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": "Nenhum dos dois alteradores contém instrução textual dirigida ao original. A RCM 29/2011 (n.º 1) e a RCM 90-B/2015 (n.º 1) aprovam novos Regimentos (XIX e XX Governos) em anexo I próprio, sem revogar nem alterar expressamente o anexo I da RCM 77/2010 (substituição apenas tácita, não textual). Os seus n.os 2 determinam que as regras de legística do anexo II 'se mantêm em vigor' e são republicadas; a republicação não é instrução de alteração (a de 2015 vem em nova ortografia, com o título sem 'pelo XVII Governo Constitucional' e o art. 16.º, n.º 1, a citar também a Lei 43/2014), pelo que não se aplicou ao texto.",
+  "instrucoes": [
+    "Alterador 1 (RCM 29/2011), n.º 1: aprova o Regimento do XIX Governo em anexo próprio; não altera textualmente o anexo I do original — nada aplicado.",
+    "Alterador 1, n.º 2: mantém em vigor e republica o anexo II (regras de legística) — republicação sem instrução de alteração, nada aplicado.",
+    "Alterador 2 (RCM 90-B/2015), n.º 1: aprova o Regimento do XX Governo em anexo próprio; não altera textualmente o original — nada aplicado.",
+    "Alterador 2, n.º 2: mantém em vigor e republica o anexo II (nova ortografia, art. 16.º com Lei 43/2014) — sem instrução de alteração, nada aplicado; assinalado em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}

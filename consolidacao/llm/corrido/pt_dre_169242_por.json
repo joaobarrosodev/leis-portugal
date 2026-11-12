@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:169242:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 8,
+      "texto": "1.º Pela presente portaria é renovada pelo período de oito anos a concessão da zona de caça associativa do Brejo e outras (processo n.º 1194-DGF), abrangendo vários prédios rústicos sitos nas freguesias de Valverde, Pêro Viseu e Fatela, município do Fundão, com uma área de 1406,25 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 825/2000): anexação e desanexação de prédios (área total 1649,73 ha) sem alteração textual do original. Alteradores 3 e 4 (Portarias n.os 1132/2007 e 1140/2007): extinção parcial da zona de caça quanto a certos prédios, sem alteração textual do original.",
+  "instrucoes": [
+    "Alt. 1: nova redação do n.º 1.º (área 1406,25 ha) — substituída a unidade 8, mantendo o prefixo 1.º",
+    "Alt. 2: anexação/desanexação de prédios, não textual — não aplicada",
+    "Alt. 3: extinção parcial da zona de caça, não textual — não aplicada",
+    "Alt. 4: extinção parcial da zona de caça, não textual — não aplicada"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

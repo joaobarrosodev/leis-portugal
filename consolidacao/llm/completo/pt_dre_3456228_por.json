@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:3456228:por",
+  "artigos": [
+    {
+      "chave": "27.º",
+      "epigrafe": "Composição do conselho científico",
+      "texto": "1 - A Universidade dispõe de um conselho científico único ao abrigo do n.º 3 do artigo 80.º do RJIES, em função da sua natureza binária, mas por essência universitária, e do modelo de organização que adopta, considerando-se como professores de carreira os professores catedráticos, associados e auxiliares, no âmbito do subsistema universitário, e os professores coordenadores e adjuntos, no subsistema politécnico, e como restantes docentes todos os demais de ambos os subsistemas.\n\n2 - O conselho científico é composto por:\n\na) Reitor, que preside;\n\nb) Onze representantes do subsistema de ensino universitário, distribuído do seguinte modo:\n\ni) Sete representantes eleitos por e dentre os professores e investigadores de carreira;\n\nii) Quatro representantes eleitos por e dentre os restantes docentes e investigadores em regime de tempo integral, com contrato de duração não inferior a um ano, que sejam titulares do grau de doutor, independentemente da natureza do vínculo à Universidade;\n\nc) Seis representantes do subsistema de ensino politécnico eleitos pelo conjunto daqueles que pertencem aos universos seguintes:\n\ni) Professores e investigadores de carreira;\n\nii) Equiparados a professor em regime de tempo integral com contrato com a Universidade há mais de 10 anos nessa categoria;\n\niii) Docentes com grau de doutor, em regime de tempo integral, com contrato de duração não inferior a um ano, qualquer que seja a natureza do seu vínculo à Universidade;\n\niv) Docentes com o título de especialista não abrangidos pelas alíneas anteriores, em regime de tempo integral com contrato com a Universidade há mais de dois anos;\n\nd) Sete coordenadores das unidades de investigação reconhecidas e avaliadas positivamentenos termos da lei.\n\n3 - Nos membros da alínea d) do número anterior incluem-se representantes dos coordenadores dos laboratórios associados da Universidade, por e dentre eles designados, quando em número superior, ou todos eles, se em número igual ou inferior, e neste último caso, o remanescente é preenchido por representantes das outras unidades de investigação reconhecidas e avaliadas com avaliação não inferior a \"Excelente\" ou \"Muito Bom\", designados por e dentre todos os coordenadores dessas unidades.\n\n4 - A duração do mandato dos membros do conselho científico é de três anos.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Despacho Normativo 23/2012): nova redação das alíneas b) e c) do n.º 2 do artigo 27.º (com subalíneas); n.os 1, 3 e 4 e alíneas a) e d) mantidos ('...') — aplicado.",
+    "Alterador 2 (Despacho Normativo 1-C/2017): não traz nenhum artigo que mencione o original — nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": []
+}
