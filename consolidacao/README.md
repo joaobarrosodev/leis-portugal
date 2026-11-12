@@ -241,6 +241,8 @@ Na ronda 100 foram para as exclusões:
 - nenhuma ronda ficou perto da regra de paragem (1 em cada 8);
 - os que ficaram por aplicar são sobretudo quadros e plantas só em imagem, alteradores sem texto no pedido, revogações por matéria e republicações que não batem com as instruções.
 
+**Ronda 102: DL 349/89.** Foi pelo `llm_gigantes.py`: 25 alteradores em 4 passagens (1 a 9, 10 a 15, 16 a 23, 24 e 25), respondidas por subagentes Opus. Nenhum alterador muda o texto do próprio decreto-lei, e nenhum o revoga, nem no todo nem em artigos. Todos alteram o Código do Registo Comercial ou outros diplomas, e o DL 349/89 só aparece nas listas dos que já alteraram o CRC. Os artigos do CRC que o DL 349/89 transcreve ficam como estão: as alterações posteriores são ao CRC, não ao texto do decreto-lei. O `juntar` deixa-o como "não junto" (a resposta não muda nada), e a entrada da ronda 102 ficou vazia, por isso não houve vistas, verificação às cegas nem `acervo.py`. Não foi aplicado: o original já é o texto em vigor.
+
 **O que isto quer dizer para o RAG.** O aviso "Texto original; alterado por…" mantém-se em todos os diplomas alterados sem versão consolidada, mesmo nos "sem alteração textual". Tirá-lo nesses casos faria o sistema responder com texto desatualizado em cerca de 14% a 28% deles (`rag/README.md`).
 
 ## Resultado em resumo
