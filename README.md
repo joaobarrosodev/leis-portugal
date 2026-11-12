@@ -411,6 +411,41 @@ A cobertura é medida a partir dos próprios dados por `leis-portugal reports`, 
 - [`reports/PROGRESSO.md`](reports/PROGRESSO.md): estado de cada componente e fonte, e próximos passos.
 - `reports/*_failures.jsonl`: um documento por linha que não foi possível recolher, com o motivo (`sem_texto_na_fonte`, `erro_de_acesso`, `metadados_em_falta`…). "A fonte não tem o texto" não é um erro: o documento existe, mas a fonte não publica o texto (em formato eletrónico ou em português).
 
+### Cobertura em percentagem (12 de novembro de 2026)
+
+**Legislação portuguesa, face aos sitemaps do DRE** (comparação de 27/10/2026, `collect dre --missing`, em `reports/dre_sitemap_coverage.json`):
+
+| O quê | No repositório | No DRE | % |
+|---|--:|--:|--:|
+| Tipos principais: leis, decretos-leis, portarias, decretos, resoluções, despachos normativos, decretos regionais… (39 tipos) | 268.444 | 268.476 | **99,99 %** |
+| 2.ª Série: despachos, avisos, editais, deliberações, regulamentos… | 16.902 | 809.931 | **2,1 %** |
+
+A 2.ª Série só se recolhe quando um diploma do acervo a cita ou a altera; a recolha integral não está planeada.
+
+**Texto pesquisável** (export de 12/11/2026):
+
+| | Com texto | Só o PDF oficial | Só metadados |
+|---|--:|--:|--:|
+| Nacionais | 73 % | 25 % | 2 % |
+| Regionais | 37 % | 0 % | 63 % |
+
+Os PDF são sobretudo digitalizações de 1910 a 1959, sem texto que se possa pesquisar. Nos regionais, os metadados vêm quase todos do catálogo do Jornal Oficial dos Açores.
+
+**Texto em vigor dos diplomas alterados.** Dos 25.498 diplomas em vigor alterados que o DRE não consolida, mais de 19 mil não precisam de consolidação: o diploma que os altera não muda o texto, e o original é o texto em vigor. Dos cerca de 4.800 com alterações ao texto, **2.323 (cerca de 48 %)** têm o texto em vigor consolidado pelo leis-portugal, sem valor oficial (ver [`consolidacao/`](consolidacao/README.md)). Em 40 % dos registos nacionais (108.806) o DRE não indica se estão em vigor.
+
+**Direito da União Europeia, face ao CELLAR** (contagem de 11/11/2026, regulamentos, diretivas e decisões com CELEX `3AAAA[RLD]NNNN`, `resource_legal_in-force` verdadeiro):
+
+| Atos da UE em vigor | No repositório | Na UE | % |
+|---|--:|--:|--:|
+| Diretivas | 1.251 | 1.306 | **96 %** |
+| Regulamentos | 9.123 | 16.325 | **56 %** |
+| Decisões | 4.282 | 16.579 | **26 %** |
+| **Total** | **14.656** | **34.210** | **43 %** |
+
+Contando os que já não estão em vigor, o repositório tem 35.671 dos cerca de 187 mil atos (19 %). As diretivas estão quase todas porque se recolhem também as que a legislação portuguesa cita ou transpõe; nos regulamentos e decisões faltam sobretudo atos de execução e de gestão corrente. A comparação é aproximada: junta a marca de vigência do CELLAR com o estado registado no acervo.
+
+**Leitura.** Para a legislação portuguesa principal, a coleção está completa face ao DRE. As lacunas estão no texto (um quarto dos nacionais só em PDF), na 2.ª Série, no texto em vigor de metade dos diplomas alterados sem consolidação oficial e em mais de metade do direito da UE em vigor, sobretudo regulamentos de execução e decisões. Ainda não há jurisprudência nem legislação local (regulamentos municipais).
+
 ## Qualidade e validação
 
 A conversão automática pode introduzir erros. Entre os problemas possíveis encontram-se:
