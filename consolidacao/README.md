@@ -245,6 +245,7 @@ Na ronda 100 foram para as exclusões:
 - nenhuma ronda ficou perto da regra de paragem (1 em cada 8);
 - os que ficaram por aplicar são sobretudo quadros e plantas só em imagem, alteradores sem texto no pedido, revogações por matéria e republicações que não batem com as instruções.
 
+**Ronda 104: Resolução da AR 31-A/2004** (`pt:dre:346750:por`, o Acordo de Associação UE–Chile, 866 mil caracteres): 2 alteradores numa passagem do `llm_gigantes.py`. O Decreto do PR 18-A/2004 só ratifica. Dos 5 pontos da acta de retificação do Aviso 106/2004, só o 5.º muda o texto português (anexo XIII, apêndice 3, ponto 1: "pontos 3 e 4" passa a "pontos 2 e 3"). Os pontos 1 a 3 corrigem as versões inglesa, espanhola e alemã ou tabelas em imagem. Às cegas, o trecho ficou `certo`, mas o verificador pôs o ponto 4 em `instrucoes_em_falta` (anexo VIII, parte A, "B.3 e B.4" passa a "A.l e A.2"). Essa secção do anexo só existe em imagem ("ver lista no documento original"), por isso o texto não a tem. **Não aplicado:** como nos outros reparos de anexos em imagem, o `acervo.py` não o aplica, e o veredicto ficou como o verificador o deu.
 
 **O que isto quer dizer para o RAG.** O aviso "Texto original; alterado por…" mantém-se em todos os diplomas alterados sem versão consolidada, mesmo nos "sem alteração textual". Tirá-lo nesses casos faria o sistema responder com texto desatualizado em cerca de 14% a 28% deles (`rag/README.md`).
 
