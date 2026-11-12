@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-11-30'
+version_history:
+  file: portaria-330-a-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-05-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-11-30'
+    amending: pt:dre:550856:por
+    amending_title: Portaria n.º 1027/89
+    changes:
+    - Altera Artigo unidades 51-51
+    - Altera Artigo unidades 54-54
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:50:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1027/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-330-a-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -206,13 +222,17 @@ Trigo-rijo de classe B - 12800$00/t;
 
 Trigo-rijo de classe C - 12800$00/t;
 
-Trigo-mole - 12800$00/t;
+Trigo-mole - 13500$00/t;
+
+> Alterado pelo/a [Portaria n.º 1027/89](https://diariodarepublica.pt/dr/detalhe/portaria/1027-1989-550856), publicado em 1989-11-25.
 
 Cevada - 15000$00/t;
 
 Triticale - 14000$00/t;
 
-Milho - 5000$00/t.
+Milho - 6000$00/t.
+
+> Alterado pelo/a [Portaria n.º 1027/89](https://diariodarepublica.pt/dr/detalhe/portaria/1027-1989-550856), publicado em 1989-11-25.
 
 Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
 

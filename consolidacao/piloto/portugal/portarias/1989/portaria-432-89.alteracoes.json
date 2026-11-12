@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 62-62",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "10.4 - Os candidatos autopropostos portadores de deficiência poderão beneficiar de regime especial ou provas especiais, devendo, para o efeito, apresentar atestado médico comprovativo da deficiência, designadamente a que tenha procedido à formação do candidato;",
+    "depois": "10.4 - Os candidatos autopropostos portadores de deficiência poderão beneficiar de regime especial ou provas especiais, devendo, para o efeito, apresentar atestado médico comprovativo da deficiência ou declaração passada por instituição idónea na área da deficiência, designadamente a que tenha procedido à formação do candidato.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:620360:por",
+    "alterador": "pt:dre:575559:por"
+  }
+]

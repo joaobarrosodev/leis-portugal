@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:613449:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Ventosa, município de Alenquer, com uma área de 2206,8044 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Substituição da planta anexa pela planta da Portaria n.º 899/94: a planta só existe em imagem, não é alteração textual.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º -> substituída a unidade 6.",
+    "Alterador 1: planta anexa substituída -> não aplicável (só em imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

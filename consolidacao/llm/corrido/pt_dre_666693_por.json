@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:666693:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As quatro correções da Portaria n.º 366/94 incidem sobre números dos mapas I e II, que só existem em imagem no documento original.",
+  "instrucoes": [
+    "Alt. 1, 1.º e 2.º: lugares de terceiro-oficial (56) e auxiliar administrativo (11) no mapa II; não aplicado (mapa em imagem).",
+    "Alt. 1, 3.º e 4.º: lugares com tempo incompleto de auxiliar administrativo (6) e servente (15) no mapa I; não aplicado (mapa em imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

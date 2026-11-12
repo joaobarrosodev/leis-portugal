@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Fica sujeita ao regime cinegético especial a propriedade constante da planta anexa, denominada «Herdade do Outeiro», situada na freguesia de Brotas, concelho de Mora, com uma área de 939,90 ha.",
+    "depois": "1.º Ficam sujeitas ao regime cinegético especial as propriedades constantes da planta anexa, denominadas «Herdades do Outeiro e Vale Mouro», sitas na freguesia de Brotas, concelho de Mora, com uma área de 939,90 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:621676:por",
+    "alterador": "pt:dre:316889:por"
+  }
+]

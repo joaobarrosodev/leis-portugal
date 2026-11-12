@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:660573:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de São Salvador, município de Serpa, com a área de 3655 ha.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A substituição da planta anexa (Portaria n.º 938/2004 e depois n.º 2.º da Portaria n.º 1264-AE/2004) não se aplica: a planta só existe em imagem.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 938/2004): nova redação do n.º 2.º (área 3555 ha); absorvida pela redação seguinte da mesma unidade 7.",
+    "Alt. 2 (Portaria 1264-AE/2004), 1.º: nova redação do n.º 2.º (área 3655 ha); substituída a unidade 7 mantendo a numeração 2.º.",
+    "Alt. 2, 2.º: substituição da planta anexa; não aplicada (só em imagem)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

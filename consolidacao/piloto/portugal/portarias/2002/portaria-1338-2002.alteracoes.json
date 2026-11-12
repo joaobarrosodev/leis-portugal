@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-6",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Pela presente portaria é criada a zona de caça municipal de Viseu (processo n.º 3181-DGF), pelo período de seis anos, e transferida a sua gestão para o Clube dos Caçadores e Pescadores, com o número de pessoa colectiva 501734066, com sede na Praça de D. Duarte, 18, 1.º, Viseu.",
+    "depois": "1.º Pela presente portaria é criada a zona de caça municipal de Viseu 1 (processo n.º 3181-DGF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores e Pescadores da Beira, com o número de pessoa colectiva 501734066, com sede na Praça de D. Duarte, 18, 1.º, 3500 Viseu.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:656661:por",
+    "alterador": "pt:dre:406689:por"
+  }
+]

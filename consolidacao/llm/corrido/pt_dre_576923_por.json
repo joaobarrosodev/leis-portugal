@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:576923:por",
+  "substituicoes": [
+    {
+      "de": 8,
+      "ate": 12,
+      "texto": "3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 55% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 10% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 20% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 15% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (renovação da zona de caça por seis anos) e alterador 3 (exclusão de 24 ha, área total 4676 ha, com nova planta só em imagem) não alteram o texto do original: são atos autónomos sem instrução textual.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 3.º; substituídas as unidades 8 a 12.",
+    "Alterador 2: renovação da zona e da transferência de gestão; sem alteração textual, não aplicada.",
+    "Alterador 3: exclusão de terrenos com planta em imagem; sem alteração textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

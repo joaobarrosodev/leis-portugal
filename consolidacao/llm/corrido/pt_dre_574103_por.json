@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:574103:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 1282/2006 (alterador 1), n.º 7.º, alínea b), revoga as restantes portarias mencionadas no seu n.º 5.º, entre as quais a Portaria n.º 723/90 (não incluída na revogação parcial da alínea a)), ou seja, revoga o original por inteiro; a revogação posterior pela Portaria n.º 1316/2006 (alterador 2), n.º 7.º, alínea a), só 'nas partes que àqueles cursos respeitam', não é textual nem acrescenta nada.",
+  "instrucoes": [
+    "Alterador 1: n.º 5.º extingue os cursos de técnico de artes gráficas e de artes gráficas/impressão; n.º 7.º, alínea b), revoga a Portaria n.º 723/90 (revogação total) — nada devolvido, registado em nao_aplicavel.",
+    "Alterador 2: n.º 5.º extingue o curso de técnico de hotelaria/recepção e atendimento; n.º 7.º, alínea a), revoga a Portaria n.º 723/90 na parte respeitante a esse curso — revogação por remissão, não textual; sem efeito no texto."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

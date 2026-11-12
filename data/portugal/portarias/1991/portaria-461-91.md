@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-02-04'
+version_history:
+  file: portaria-461-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-02-04'
+    amending: pt:dre:150903:por
+    amending_title: Portaria n.º 52/92
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/461/1991/05/31/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:50:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 52/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-461-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,7 +165,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdades da Torrejona e Confrarias», sitos nas freguesias de Amieira e Alqueva, concelho de Portel, com uma área de 558,29 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
 
-2.º Pelo presente diploma é concessionada, pelo período de seis anos, ao Clube de Caçadores Os Confrades (registo na Direcção-Geral das Florestas n.º 3.847.91), com sede no lugar das Fisgas, Alcabideche, Cascais, a zona de caça associativa das Herdades das Confrarias e Torrejona (processo n.º 612 da Direcção-Geral das Florestas).
+2.º Pelo presente diploma é concessionada, pelo período de 12 anos, ao Clube de Caçadores Os Confrades (registo na Direcção-Geral das Florestas n.º 3.847.91), com sede no lugar das Fisgas, Alcabideche, Cascais, a zona de caça associativa das Herdades das Confrarias e Torrejona (processo n.º 612 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 52/92](https://diariodarepublica.pt/dr/detalhe/portaria/52-1992-150903), publicado em 1992-01-30.
 
 3.º O Clube de Caçadores Os Confrades, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigado a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegética aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

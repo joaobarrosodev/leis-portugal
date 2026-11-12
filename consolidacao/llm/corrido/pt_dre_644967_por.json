@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:644967:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2.º Pelo presente diploma é concessionada, até 15 de Julho de 2007, à Sociedade Turística de Caça Quatro Montes, Lda., pessoa colectiva n.º 971888876, com sede na Rua de Álvaro Castelões, 6, Montemor-o-Novo, a zona de caça turística da Herdade do Vidigal e anexas (processo n.º 1098 do Instituto Florestal).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 971/2008) extingue a zona de caça e concessiona uma nova, sem alterar nem revogar o texto do original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º (prazo até 15 de Julho de 2007) — substituída a unidade 9.",
+    "Alterador 2: extinção da zona de caça turística da Herdade do Vidigal e nova concessão — efeito não textual, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

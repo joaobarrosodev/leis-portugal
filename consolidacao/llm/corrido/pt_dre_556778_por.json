@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:556778:por",
+  "substituicoes": [
+    {
+      "de": 37,
+      "ate": 39,
+      "texto": "b) No ano lectivo de 1992-1993, os do 2.º ano do 1.º ciclo do ensino básico e os do 1.º ano dos 2.º e 3.º ciclos do ensino básico;\n\nc) No ano lectivo de 1993-1994, os do 3.º ano do 1.º ciclo do ensino básico e os do 2.º ano dos 2.º e 3.º ciclos do ensino básico, bem como os do 1.º ano do ensino secundário;\n\nd) No ano lectivo de 1994-1995, os do 4.º ano do 1.º ciclo do ensino básico, os do 3.º ano do 3.º ciclo do ensino básico, bem como os do 2.º ano do ensino secundário;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [
+    {
+      "depois_de": 39,
+      "texto": "e) No ano lectivo de 1995-1996, os do 3.º ano do ensino secundário.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 459/92: nova redação do n.º 3.º; epígrafe, corpo e alínea a) com '...' ficam; alíneas b) a d) substituídas (unidades 37-39) e alínea e) inserida depois da 39."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

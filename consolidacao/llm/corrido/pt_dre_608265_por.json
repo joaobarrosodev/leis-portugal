@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:608265:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Ferradosa e Cerejais, município de Alfândega da Fé, com a área de 1937 ha e na freguesia de Felgar, município de Torre de Moncorvo, com a área de 334 ha, perfazendo a área total de 2271 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 450/2010) renova a transferência de gestão em diploma autónomo, com nova área e planta, sem instrução de alteração textual do original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º -> substituída a unidade 7.",
+    "Alterador 2: renovação da zona de caça por diploma próprio, sem alteração textual -> não aplicada (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 22-22",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "7.º São fixados, respectivamente, em 5$568 e 4$324 por quilograma os preços das sêmolas destinadas ao fabrico de massas alimentícias de qualidade superior (M(índice 1)) e das farinhas destinadas ao fabrico de massas alimentícias (M(índice 2)).",
+    "depois": "7.º São fixados, respectivamente, em 5$742 e 4$324 por quilograma os preços das sêmolas destinadas ao fabrico de massas alimentícias de qualidade superior (M1) e das farinhas destinadas ao fabrico de massas alimentícias (M2)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:630260:por",
+    "alterador": "pt:dre:683645:por"
+  }
+]

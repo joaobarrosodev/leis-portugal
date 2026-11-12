@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-12-20'
+version_history:
+  file: portaria-722-b5-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-12-20'
+    amending: pt:dre:616222:por
+    amending_title: Portaria n.º 1148/92
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/722-b5/1992/07/15/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:27:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1148/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-722-b5-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,7 +174,9 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdades da Abegoaria», «Ameada», «Cerejeirinha» e outras, sitos na freguesia e município de Mourão, com uma área de 3984,0175 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
 
-2.º Pelo presente diploma é concessionada, até 31 de Maio de 2006, à Sociedade Turística Abegoaria e Anexas, Lda., com o número de pessoa colectiva 971418225 e sede na Quinta da Abegoaria, Mourão, a zona de caça Turística da Herdade da Abegoaria e outras (processo n.º 530 da Direcção-Geral das Florestas).
+2.º Pelo presente diploma é concessionada, até 31 de Maio de 2008 à Sociedade Turística Abegoaria e Anexas, Lda., com o número de pessoa colectiva 971418225 e sede na Quinta da Abegoaria, Mourão, a zona de caça turística da Herdade da Abegoaria e outras (processo n.º 530 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 1148/92](https://diariodarepublica.pt/dr/detalhe/portaria/1148-1992-616222), publicado em 1992-12-15.
 
 3.º A Sociedade Turística Abegoaria e Anexas, Lda., como entidade gestora da zona de caça Turística concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir os respectivos planos de ordenamento e exploração cinegético e de aproveitamento turístico aprovados e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

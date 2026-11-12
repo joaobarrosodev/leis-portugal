@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:617478:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "2.º Pelo presente diploma é concessionada, até 31 de Maio de 2008 à Sociedade Turística Abegoaria e Anexas, Lda., com o número de pessoa colectiva 971418225 e sede na Quinta da Abegoaria, Mourão, a zona de caça turística da Herdade da Abegoaria e outras (processo n.º 530 da Direcção-Geral das Florestas).",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 330/2007 (alterador 3) exclui 653 ha da zona de caça e Portaria n.º 927/2008 (alterador 4) renova a concessão por 12 anos com 3222 ha, ambas sem nova redação de qualquer ponto: alterações não textuais, não aplicadas.",
+  "instrucoes": [
+    "Alt. 1: nova redação do 2.º (prazo até 31 de Maio de 2008) - substituída depois pela redação do alt. 2, que é a final.",
+    "Alt. 2: nova redação do 2.º (igual à do alt. 1 sem a vírgula após 2008) - unidade 9 substituída com o texto do alt. 2.",
+    "Alt. 3: exclusão de 653 ha da área da zona - não textual, não aplicada.",
+    "Alt. 4: renovação da concessão com área de 3222 ha - não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:601336:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 9,
+      "texto": "3.º O regime fixado pela presente portaria vigorará para as inscrições a realizar no ano lectivo de 1981-1982 e subsequentes, do 2.º ao 6.º anos do curso de licenciatura em Medicina Dentária.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 818/82) dá nova redação ao n.º 3.º: substituída a unidade 9.",
+    "Alterador 2 (Portaria 548/87) altera os quadros do anexo I da Portaria 519/80, não o original: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

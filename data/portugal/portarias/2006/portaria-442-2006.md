@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-06-11'
+version_history:
+  file: portaria-442-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-05-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-11'
+    amending: pt:dre:638147:por
+    amending_title: Portaria n.º 691/2007
+    changes:
+    - Altera Artigo unidades 67-68
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/442/2006/05/10/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:14:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 691/2007. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2006/portaria-442-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -275,9 +290,11 @@ c) Por ordem cronológica da data de recepção da candidatura.
 
 19.º As candidaturas contratadas em cada campanha vitivinícola devem:
 
-a) Encontrar-se integralmente executadas até 30 de Abril da campanha em causa e serem objecto do correspondente pedido de pagamento das ajudas até àquela data; ou
+a) Encontrar-se integralmente executadas até 31 de Maio de 2007 e serem objecto do correspondente pedido de pagamento das ajudas e da compensação financeira por perda de receita, sendo o caso, até àquela data; ou
 
-b) Ser objecto, após o início da sua execução, de um pedido de pagamento antecipado das ajudas até 30 de Abril da campanha em causa, mediante a prestação de uma garantia bancária, sem prazo, a favor do IFADAP, de montante igual a 120% do valor das ajudas previstas para a medida específica em causa, devendo esta encontrar-se integralmente executada até ao final da segunda campanha seguinte à da aprovação da candidatura;
+b) Ser objecto, após o início da sua execução, de um pedido de pagamento antecipado das ajudas e da compensação financeira por perda de receita, sendo o caso, a efectuar até 15 de Junho de 2007, mediante a prestação de uma garantia bancária, sem prazo, a favor do IFAP, de montante igual a 120% do valor das ajudas previstas para a medida específica em causa, devendo esta encontrar-se integralmente executada até 31 de Julho de 2009;
+
+> Alterado pelo/a [Portaria n.º 691/2007](https://diariodarepublica.pt/dr/detalhe/portaria/691-2007-638147), publicado em 2007-06-06.
 
 c) Cumprir o disposto na alínea b), no caso das candidaturas que contemplem a utilização de porta-enxertos.
 

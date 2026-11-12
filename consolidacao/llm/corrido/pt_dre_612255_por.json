@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:612255:por",
+  "substituicoes": [],
+  "insercoes": [
+    {
+      "depois_de": 20,
+      "texto": "l) Um representante da Junta Autónoma de Estradas;\n\nm) Um representante da Direcção-Geral dos Recursos Naturais.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 4 com '...' no corpo e alíneas a) a j) (ficam iguais) e aditamento das alíneas l) e m) -> inseridas depois da unidade 20.",
+    "Alterador 2: é o mesmo diploma (RCM n.º 42/89) repetido -> nada a aplicar de novo."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

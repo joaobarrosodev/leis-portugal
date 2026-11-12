@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 10-10",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração mensal de 200$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei aplicável.",
+    "depois": "Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração de 500$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei geral aplicável.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:563633:por",
+    "alterador": "pt:dre:310462:por"
+  }
+]

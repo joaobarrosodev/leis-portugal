@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-10-09'
+version_history:
+  file: portaria-303-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-04-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-10-09'
+    amending: pt:dre:595507:por
+    amending_title: Portaria n.º 899/94
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/303/1991/04/08/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:45:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 899/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-303-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,7 +138,9 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º Ficam sujeitas ao regime cinegético especial as propriedades integradas na totalidade da freguesia de Ventosa, concelho de Alenquer, com uma área total de 1929,3724 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos na freguesia de Ventosa, município de Alenquer, com uma área de 2206,8044 ha.
+
+> Alterado pelo/a [Portaria n.º 899/94](https://diariodarepublica.pt/dr/detalhe/portaria/899-1994-595507), publicado em 1994-10-04.
 
 2.º Nesta área, até ao dia 31 de Maio de 1997, é concessionada à Associação de Caçadores Olho-Alvo (registo na Direcção-Geral das Florestas n.º 3.649.90) a exploração de uma zona de caça associativa (processo n.º 560 da Direcção-Geral das Florestas).
 

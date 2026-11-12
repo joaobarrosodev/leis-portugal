@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:574299:por",
+  "substituicoes": [
+    {
+      "de": 79,
+      "ate": 79,
+      "texto": "Os encargos com a execução dos programas de actividade desenvolvidos pela CEA e pelos NARA serão suportados pelo Instituto de Emprego e Formação Profissional (IEFP) e pelo Gabinete de Gestão do Fundo de Desemprego (GGFD).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: mantém em vigor a estrutura do art. 1.º (sem alteração textual).",
+    "Alterador 1, art. 2.º: nova redação do artigo 7.º; substituído o corpo (unidade 79)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

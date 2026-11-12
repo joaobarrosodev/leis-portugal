@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 52-65",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Hidrodinâmica ... 3\n\nHidrologia e Processos Geomorfológicos ... 6\n\nEngenharia de Sistemas Hidráulicos ... 5\n\nMatemática Aplicada e Estatística ... 9\n\nÁreas científicas opcionais ... 7\n\nTotal ... 30\n\n2 - As unidades de crédito necessárias à obtenção do curso na área de especialização em Recursos Hídricos são assim distribuídas:\n\nHidrologia e Processos Geomorfológicos ... 3\n\nModelação e Optimização de Hidrossistemas ... 3\n\nPlaneamento e Gestão de Recursos Hídricos ... 7\n\nEngenharia de Sistemas Hidráulicos ... 3\n\nMatemática Aplicada e Estatística ... 9\n\nÁreas científicas opcionais ... 5\n\nTotal ... 30",
+    "depois": "a) Áreas científicas obrigatórias:\n\nI) Hidrodinâmica ... 6\n\nII) Hidrologia e Processos Geomorfológicos ... 6\n\nIII) Engenharia de Sistemas Hidráulicos ... 6\n\nIV) Matemática Aplicada e Estatística ... 6\n\nb) Áreas científicas opcionais:\n\nI) Hidrodinâmica ... 6\n\nII) Hidrologia e Processos Geomorfológicos ... 6\n\nIII) Engenharia de Sistemas Hidráulicos ... 6\n\nIV) Matemática Aplicada e Estatística ... 6\n\nTotal ... 30\n\n2 - As unidades de crédito necessárias à obtenção do curso na área de especialização em Recursos Hídricos são assim distribuídas:\n\na) Áreas científicas obrigatórias:\n\nI) Hidrologia e Processos Geomorfológicos ... 6\n\nII) Matemática Aplicada e Estatística ... 6\n\nIII) Modelação em Recursos Hídricos ... 6\n\nIV) Planeamento e Gestão de Recursos Hídricos ... 3\n\nV) Engenharia de Sistemas Hidráulicos ... 3\n\nb) Áreas científicas opcionais:\n\nI) Hidrologia e Processos Geomorfológicos ... 6\n\nII) Matemática Aplicada e Estatística ... 6\n\nIII) Modelação em Recursos Hídricos ... 6\n\nIV) Planeamento e Gestão de Recursos Hídricos ... 6\n\nV) Engenharia de Sistemas Hidráulicos ... 6\n\nTotal ... 30",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:600925:por",
+    "alterador": "pt:dre:228214:por"
+  },
+  {
+    "artigo": "unidades 68-68",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "A duração normal do curso é de 1 ano lectivo.",
+    "depois": "A duração normal do curso é de três semestres lectivos.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:600925:por",
+    "alterador": "pt:dre:228214:por"
+  }
+]

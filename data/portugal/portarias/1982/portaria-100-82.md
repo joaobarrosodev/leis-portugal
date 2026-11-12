@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-08-28'
+version_history:
+  file: portaria-100-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-01-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-08-28'
+    amending: pt:dre:396690:por
+    amending_title: Portaria n.º 818/82
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:59:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 818/82. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-100-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,7 +142,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e das Univ
 
 2.º O regime de precedências abrangerá igualmente o regime de transição de ano curricular, sem prejuízo de o número máximo de disciplinas a que se refere o n.º 1 do artigo único do [Decreto n.º 46646](https://diariodarepublica.pt/dr/detalhe/decreto/46646-1965-512431), de 16 de Novembro de 1965, não poder ser excedido, embora possa ser condicionado ao ano curricular a que as disciplinas devam pertencer ou assumir o valor zero.
 
-3.º O regime fixado nos termos deste número vigorará para as inscrições a realizar no ano lectivo de 1981-1982, do 2.º ao 6.º anos do curso de licenciatura em Medicina Dentária.
+3.º O regime fixado pela presente portaria vigorará para as inscrições a realizar no ano lectivo de 1981-1982 e subsequentes, do 2.º ao 6.º anos do curso de licenciatura em Medicina Dentária.
+
+> Alterado pelo/a [Portaria n.º 818/82](https://diariodarepublica.pt/dr/detalhe/portaria/818-1982-396690), publicado em 1982-08-28.
 
 4.º (transitório) Até à cessação do regime de instalação caberá à comissão instaladora a competência atribuída pelo n.º 1 aos conselhos científico e pedagógico.
 

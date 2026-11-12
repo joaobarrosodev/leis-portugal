@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:647537:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa de Casais da Serra Pequena, Pinhais e outras (processo n.º 433-DGF), abrangendo vários prédios rústicos sitos nas freguesias de Encarnação e Santo Isidoro, município de Mafra, com uma área de 266,6440 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 1.º (período de 12 anos) — substituída a unidade 7."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

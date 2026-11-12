@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-09-25'
+version_history:
+  file: despacho-normativo-159-c-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-11-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-09-25'
+    amending: pt:dre:301622:por
+    amending_title: Despacho Normativo n.º 205/91
+    changes:
+    - Altera Artigo unidades 4-16
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:45:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 205/91. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1990/despacho-normativo-159-c-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,31 +129,33 @@ validation:
 
 Carreira técnica superior:
 
-Assessor principal ... 6
+Assessor principal - 6.
 
-Assessor ... 6
+Assessor - 6.
 
-Técnico superior principal ... 17
+Técnico superior principal - 17.
 
-Técnico superior de 1.ª classe ... 19
+Técnico superior de 1.ª classe - 19.
 
-Técnico superior de 2.ª classe ... 15
+Técnico superior de 2.ª classe - 16.
 
 Carreira técnica:
 
-Técnico especialista principal ... 3
+Técnico especialista principal - 2.
 
-Técnico especialista ... 1
+Técnico especialista - 2.
 
-Técnico principal ... 6
+Técnico principal - 6.
 
-Técnico de 1.ª classe ... 15
+Técnico de 1.ª classe - 17.
 
-Técnico de 2.ª classe ... 11
+Técnico de 2.ª classe - 8.
 
 Carreira de técnico-adjunto:
 
-Técnico-adjunto principal ... 4
+Técnico-adjunto principal - 4.
+
+> Alterado pelo/a [Despacho Normativo n.º 205/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/205-1991-301622), publicado em 1991-09-20.
 
 2 - Os docentes constantes do anexo ao presente despacho são integrados no quadro aprovado pelo n.º 1, com dispensa de quaisquer formalidades, com efeitos à data da sua entrada em vigor.
 

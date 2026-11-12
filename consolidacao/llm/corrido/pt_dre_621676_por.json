@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:621676:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Ficam sujeitas ao regime cinegético especial as propriedades constantes da planta anexa, denominadas «Herdades do Outeiro e Vale Mouro», sitas na freguesia de Brotas, concelho de Mora, com uma área de 939,90 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 1267/2010) renova a concessão por 12 anos com a área de 449 ha e planta própria, sem instrução textual dirigida ao texto do original; não aplicado.",
+  "instrucoes": [
+    "Portaria n.º 1173/91: nova redação do n.º 1.º — substituída a unidade 6.",
+    "Portaria n.º 1267/2010: renovação da concessão (efeitos a 1-6-2011), não é alteração textual — não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

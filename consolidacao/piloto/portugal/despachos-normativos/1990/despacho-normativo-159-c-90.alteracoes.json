@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 4-16",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Assessor principal ... 6\n\nAssessor ... 6\n\nTécnico superior principal ... 17\n\nTécnico superior de 1.ª classe ... 19\n\nTécnico superior de 2.ª classe ... 15\n\nCarreira técnica:\n\nTécnico especialista principal ... 3\n\nTécnico especialista ... 1\n\nTécnico principal ... 6\n\nTécnico de 1.ª classe ... 15\n\nTécnico de 2.ª classe ... 11\n\nCarreira de técnico-adjunto:\n\nTécnico-adjunto principal ... 4",
+    "depois": "Assessor principal - 6.\n\nAssessor - 6.\n\nTécnico superior principal - 17.\n\nTécnico superior de 1.ª classe - 19.\n\nTécnico superior de 2.ª classe - 16.\n\nCarreira técnica:\n\nTécnico especialista principal - 2.\n\nTécnico especialista - 2.\n\nTécnico principal - 6.\n\nTécnico de 1.ª classe - 17.\n\nTécnico de 2.ª classe - 8.\n\nCarreira de técnico-adjunto:\n\nTécnico-adjunto principal - 4.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:689251:por",
+    "alterador": "pt:dre:301622:por"
+  }
+]

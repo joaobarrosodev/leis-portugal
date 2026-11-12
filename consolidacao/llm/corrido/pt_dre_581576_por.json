@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:581576:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Santa Vitória do Ameixial, município de Estremoz, com a área de 1233,4875 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A nova planta anexa da Portaria n.º 483/2004 só vem em imagem; a ligação da planta original (unidade 19) ficou como está.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º; substituída a unidade 7, mantendo a numeração 2.º."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pt:dre:692775:por",
+  "substituicoes": [],
+  "insercoes": [],
+  "nao_aplicavel": "As Portarias n.os 429/97 e 18/2000 mandam alterar o 'n.º 6.º' da Portaria n.º 1371/95 (quadro de pessoal assalariado), que não existe no texto atual, e não trazem nova redação textual (só criam/extinguem lugares).",
+  "instrucoes": [
+    "Alterador 1: criação de três lugares de secretário de 3.ª classe no quadro (n.º 6.º) — sem alvo nem texto no original, não aplicada.",
+    "Alterador 2: criação de dois lugares de secretário de 3.ª classe e extinção, quando vagar, de um lugar de chanceler (n.º 6) — sem alvo nem texto no original, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

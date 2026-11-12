@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:617491:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Pelo presente diploma é concessionada até 15 de Julho de 2004, à Associação de Caçadores de Castanheira (registo na Direcção-Geral n.º 1.1076.92), com sede em Castanheira, Mogadouro, a zona de caça associativa de Castanheira (processo n.º 1072-DGF).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 821/2004 (alterador 2) renova a concessão por 12 anos com a área reduzida a 1193 ha, sem nova redação de qualquer ponto: alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alt. 1: nova redação do 2.º (concessão até 15 de Julho de 2004) - unidade 7 substituída, sem aspas.",
+    "Alt. 2: renovação por 12 anos com 1193 ha - não textual, não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

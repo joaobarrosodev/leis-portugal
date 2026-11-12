@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-07-10'
+version_history:
+  file: portaria-432-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-06-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-07-10'
+    amending: pt:dre:575559:por
+    amending_title: Portaria n.º 508/90
+    changes:
+    - Altera Artigo unidades 62-62
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:52:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 508/90. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-432-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -249,7 +264,9 @@ Uma apreciação global que fundamente a apresentação de uma proposta de certi
 
 10.3 - Os adultos que pretendam realizar a avaliação final deverão requerê-la ao respectivo director regional de educação, um mês antes da data da avaliação, em impresso próprio da Imprensa Nacional-Casa da Moeda, acompanhado de atestado de residência e de um postal ou sobrescrito selado endereçado ao próprio, mediante apresentação do bilhete de identidade ou outro documento identificativo, que será devolvido;
 
-10.4 - Os candidatos autopropostos portadores de deficiência poderão beneficiar de regime especial ou provas especiais, devendo, para o efeito, apresentar atestado médico comprovativo da deficiência, designadamente a que tenha procedido à formação do candidato;
+10.4 - Os candidatos autopropostos portadores de deficiência poderão beneficiar de regime especial ou provas especiais, devendo, para o efeito, apresentar atestado médico comprovativo da deficiência ou declaração passada por instituição idónea na área da deficiência, designadamente a que tenha procedido à formação do candidato.
+
+> Alterado pelo/a [Portaria n.º 508/90](https://diariodarepublica.pt/dr/detalhe/portaria/508-1990-575559), publicado em 1990-07-05.
 
 10.4.1 - O atestado ou declaração deverá ser entregue no acto de inscrição para a prestação de provas de avaliação final;
 

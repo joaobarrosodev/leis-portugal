@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:656849:por",
+  "substituicoes": [
+    {
+      "de": 9,
+      "ate": 12,
+      "texto": "a) 55% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 25% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 15% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 5% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alteradores 2 a 5 (Portarias 1074/2008, 555/2009, 1341/2009 e 659/2010) renovam, anexam e excluem terrenos e fixam novas percentagens ao abrigo de outra lei, sem alterar textualmente nenhum ponto do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1486/2002): nova redação do n.º 3.º; o corpo do 3.º é igual, substituídas as alíneas a) a d) (unidades 9-12).",
+    "Alterador 2 (Portaria 1074/2008): renovação, anexação e novos critérios de proporcionalidade (artigo 15.º do DL 202/2004) em texto próprio, sem instrução de redação do original; não aplicada.",
+    "Alterador 3 (Portaria 555/2009): anexação de prédios; sem alteração textual; não aplicada.",
+    "Alterador 4 (Portaria 1341/2009): exclusão de prédio; sem alteração textual; não aplicada.",
+    "Alterador 5 (Portaria 659/2010): anexação de terrenos; sem alteração textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:563633:por",
+  "substituicoes": [
+    {
+      "de": 10,
+      "ate": 10,
+      "texto": "Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração de 500$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei geral aplicável.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 954/84 (alterador 2) altera o quadro de pessoal anexo (pessoal técnico superior) por um quadro que só vem em imagem; não aplicável ao texto.",
+  "instrucoes": [
+    "Portaria 283/83, n.º 1.º: nova redação da nota anexa (500$00) - unidade 10 substituída; o n.º 2.º (Portaria 752-B/81) é de outro diploma e foi ignorado.",
+    "Portaria 954/84: altera o quadro anexo, só em imagem - não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

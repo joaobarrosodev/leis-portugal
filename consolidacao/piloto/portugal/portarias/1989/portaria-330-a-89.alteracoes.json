@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 51-51",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Trigo-mole - 12800$00/t;",
+    "depois": "Trigo-mole - 13500$00/t;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:570573:por",
+    "alterador": "pt:dre:550856:por"
+  },
+  {
+    "artigo": "unidades 54-54",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Milho - 5000$00/t.",
+    "depois": "Milho - 6000$00/t.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:570573:por",
+    "alterador": "pt:dre:550856:por"
+  }
+]

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:656661:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-10-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c51f3bb7bd083bdf"
+   ]
+  },
+  {
+   "date": "2002-12-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:406689:por",
+     "title": "Portaria n.º 1500/2002",
+     "published": "2002-12-12",
+     "dre_path": "/dr/detalhe/portaria/1500-2002-406689"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "9998d33d78a803ae"
+   ]
+  }
+ ],
+ "fragments": {
+  "c51f3bb7bd083bdf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Outubro\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Viseu:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Viseu (processo n.º 3181-DGF), pelo período de seis anos, e transferida a sua gestão para o Clube dos Caçadores e Pescadores, com o número de pessoa colectiva 501734066, com sede na Praça de D. Duarte, 18, 1.º, Viseu.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Calde, Cavernães, Cepões, Cota e Lordosa, município de Viseu, com uma área de 2699,2220 ha.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 20%, relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 40%, relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 20%, relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 20%, aos demais caçadores conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva direcção regional de agricultura, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça municipal será obrigatoriamente sinalizada com tabuletas do modelo n.º 2 e sinal do modelo n.º 10 definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.\n\n7.º A eficácia da transferência está dependente de prévia sinalização, de acordo com as condições definidas nas Portarias n.os [1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974) e [872/2002](https://diariodarepublica.pt/dr/detalhe/portaria/872-2002-197349), respectivamente de 23 de Novembro e de 25 de Junho.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 17 de Setembro de 2002.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/10/233b00/67396740.pdf)"
+  },
+  "9998d33d78a803ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2002-12-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1500/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1500-2002-406689), publicado em 2002-12-12."
+   ],
+   "markdown": "de 9 de Outubro\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Viseu:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Viseu 1 (processo n.º 3181-DGF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores e Pescadores da Beira, com o número de pessoa colectiva 501734066, com sede na Praça de D. Duarte, 18, 1.º, 3500 Viseu.\n\n> Alterado pelo/a [Portaria n.º 1500/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1500-2002-406689), publicado em 2002-12-12.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Calde, Cavernães, Cepões, Cota e Lordosa, município de Viseu, com uma área de 2699,2220 ha.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 20%, relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 40%, relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 20%, relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 20%, aos demais caçadores conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva direcção regional de agricultura, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça municipal será obrigatoriamente sinalizada com tabuletas do modelo n.º 2 e sinal do modelo n.º 10 definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.\n\n7.º A eficácia da transferência está dependente de prévia sinalização, de acordo com as condições definidas nas Portarias n.os [1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974) e [872/2002](https://diariodarepublica.pt/dr/detalhe/portaria/872-2002-197349), respectivamente de 23 de Novembro e de 25 de Junho.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 17 de Setembro de 2002.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/10/233b00/67396740.pdf)"
+  }
+ }
+}

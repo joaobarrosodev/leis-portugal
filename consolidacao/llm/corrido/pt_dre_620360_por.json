@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:620360:por",
+  "substituicoes": [
+    {
+      "de": 62,
+      "ate": 62,
+      "texto": "10.4 - Os candidatos autopropostos portadores de deficiência poderão beneficiar de regime especial ou provas especiais, devendo, para o efeito, apresentar atestado médico comprovativo da deficiência ou declaração passada por instituição idónea na área da deficiência, designadamente a que tenha procedido à formação do candidato.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 508/90: nova redação do n.º 10.4 — substituída a unidade 62 (numeração 10.4 mantida, texto do alterador)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-05-31'
+version_history:
+  file: portaria-869-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-05-31'
+    amending: pt:dre:515975:por
+    amending_title: Portaria n.º 433/92
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:32:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 433/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-869-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,7 +151,9 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 1.º Ficam sujeitas ao regime cinegético especial as propriedades constantes da planta anexa, denominada «Herdade de Matraque» e outras, situadas na freguesia e concelho de Portel, com uma área de 1237,28 ha.
 
-2.º Nesta área, até ao dia 31 de Maio de 2000, é concessionada ao Clube de Caça e Pesca de Matraque (registo na Direcção-Geral das Florestas n.º 4.710.90) a exploração de uma zona de caça associativa (processo n.º 372 da Direcção-Geral das Florestas).
+2.º Nesta área, até ao dia 31 de Maio de 2002, é concessionada ao Clube de Caça e Pesca de Matraque (registo na Direcção-Geral das Florestas n.º 4.710.90) a exploração de uma zona de caça associativa (processo n.º 372 da Direcção-Geral das Florestas).
+
+> Alterado pelo/a [Portaria n.º 433/92](https://diariodarepublica.pt/dr/detalhe/portaria/433-1992-515975), publicado em 1992-05-26.
 
 3.º Nesta zona de caça é facultado o exercício venatório a todos os associados do Clube de Caça e Pesca de Matraque, com observância das regras legais e das suas normas estatutárias e regulamentares.
 

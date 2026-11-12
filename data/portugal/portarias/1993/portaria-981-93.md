@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-05-22'
+version_history:
+  file: portaria-981-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-10-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-05-22'
+    amending: pt:dre:274236:por
+    amending_title: Portaria n.º 267/2000
+    changes:
+    - Altera Artigo unidades 9-9
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/981/1993/10/06/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:14:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 267/2000. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-981-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,7 +164,9 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdade do Vidigal» e anexas, sitos na freguesia de Nossa Senhora do Bispo, município de Montemor-o-Novo, com uma área de 574,15 ha, conforme planta anexa ao presente diploma e que dele faz parte integrante.
 
-2.º Pelo presente diploma é concessionada, até 15 de Julho de 2117, à Sociedade Turística de Caça Quatro Montes, Lda., pessoa colectiva n.º 971888876, com sede na Rua de Álvaro Castelões, 6, Montemor-o-Novo, a zona de caça turística da Herdade do Vidigal e anexas (processo n.º 1098 do Instituto Florestal).
+2.º Pelo presente diploma é concessionada, até 15 de Julho de 2007, à Sociedade Turística de Caça Quatro Montes, Lda., pessoa colectiva n.º 971888876, com sede na Rua de Álvaro Castelões, 6, Montemor-o-Novo, a zona de caça turística da Herdade do Vidigal e anexas (processo n.º 1098 do Instituto Florestal).
+
+> Alterado pelo/a [Portaria n.º 267/2000](https://diariodarepublica.pt/dr/detalhe/portaria/267-2000-274236), publicado em 2000-05-17.
 
 3.º A Sociedade Turística de Caça Quatro Montes, Lda., como entidade gestora da zona de caça turística concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir os respectivos planos de ordenamento e exploração cinegética e de aproveitamento turístico aprovados e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

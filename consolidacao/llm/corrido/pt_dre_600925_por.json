@@ -1,0 +1,27 @@
+{
+  "id": "pt:dre:600925:por",
+  "substituicoes": [
+    {
+      "de": 52,
+      "ate": 65,
+      "texto": "a) Áreas científicas obrigatórias:\n\nI) Hidrodinâmica ... 6\n\nII) Hidrologia e Processos Geomorfológicos ... 6\n\nIII) Engenharia de Sistemas Hidráulicos ... 6\n\nIV) Matemática Aplicada e Estatística ... 6\n\nb) Áreas científicas opcionais:\n\nI) Hidrodinâmica ... 6\n\nII) Hidrologia e Processos Geomorfológicos ... 6\n\nIII) Engenharia de Sistemas Hidráulicos ... 6\n\nIV) Matemática Aplicada e Estatística ... 6\n\nTotal ... 30\n\n2 - As unidades de crédito necessárias à obtenção do curso na área de especialização em Recursos Hídricos são assim distribuídas:\n\na) Áreas científicas obrigatórias:\n\nI) Hidrologia e Processos Geomorfológicos ... 6\n\nII) Matemática Aplicada e Estatística ... 6\n\nIII) Modelação em Recursos Hídricos ... 6\n\nIV) Planeamento e Gestão de Recursos Hídricos ... 3\n\nV) Engenharia de Sistemas Hidráulicos ... 3\n\nb) Áreas científicas opcionais:\n\nI) Hidrologia e Processos Geomorfológicos ... 6\n\nII) Matemática Aplicada e Estatística ... 6\n\nIII) Modelação em Recursos Hídricos ... 6\n\nIV) Planeamento e Gestão de Recursos Hídricos ... 6\n\nV) Engenharia de Sistemas Hidráulicos ... 6\n\nTotal ... 30",
+      "alterador": 2
+    },
+    {
+      "de": 68,
+      "ate": 68,
+      "texto": "A duração normal do curso é de três semestres lectivos.",
+      "alterador": 2
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 350/85) dá nova redação ao n.º 7.º: substituída por inteiro pela redação do alterador 2, pelo que não fica texto seu em vigor (não devolvida em separado).",
+    "Alterador 2 (Portaria 360/86) dá nova redação ao n.º 7.º: substituídas as unidades 52-65 (n.os 1 e 2 com alíneas a) e b) e totais; epígrafe e frases iniciais dos n.os 1 e 2 iguais).",
+    "Alterador 2 dá nova redação ao n.º 8.º: substituída a unidade 68 (três semestres lectivos)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

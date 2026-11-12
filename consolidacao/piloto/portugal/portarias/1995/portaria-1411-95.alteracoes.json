@@ -1,0 +1,44 @@
+[
+  {
+    "artigo": "ANEXO — Regulamento do Documento de Cobrança::3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Forma\n\n1 - Os documentos de cobrança dos modelos A, B e D são constituídos por três partes destacáveis: o recibo, que será devolvido à entidade que efectua o pagamento após a cobrança, devidamente validado; o talão de controlo, que fica à disposição da entidade cobradora; o talão de leitura, que será devolvido à entidade que administra a receita.\n\n2 - O documento de cobrança do modelo C é composto por original e duplicado, sendo o original constituído por três partes destacáveis, servindo o duplicado de recibo, que será devolvido à entidade que efectua o pagamento, devidamente validado. Do original, o talão de controlo será retido pela entidade cobradora e o talão de leitura será, juntamente com o duplicado do recibo, remetido de acordo com o estabelecido no artigo 6.º\n\n3 - O documento de cobrança integra ainda uma linha destinada a leitura óptica, da qual deverão constar os elementos essenciais ao controlo da cobrança, conforme os anexos I, II, III e IV.\n\n4 - Quando o pagamento for efectuado por transferência electrónica de fundos ou em terminais de pagamento automático, o respectivo suporte informático deverá disponibilizar todos os elementos essenciais ao controlo da cobrança, servindo de recibo o comprovante emitido pelos referidos sistemas de pagamento, quando apresentado conjuntamente com o documento de cobrança, que ficará na posse da entidade pagadora.",
+    "depois": "###### Artigo 3.º — Forma\n\n1 - Os documentos de cobrança dos modelos A, B e D são constituídos por três partes destacáveis: o recibo, que será devolvido à entidade que efectua o pagamento após a cobrança, devidamente validado; o talão de controlo, que fica à disposição da entidade cobradora; o talão de leitura, que será devolvido à entidade que administra a receita.\n\n2 - O documento de cobrança do modelo C é composto por original e duplicado, sendo o original constituído por três partes destacáveis, servindo o duplicado de recibo, que será devolvido à entidade que efectua o pagamento, devidamente validado. Do original, o talão de controlo será retido pela entidade cobradora e o talão de leitura será, juntamente com o duplicado do recibo, remetido de acordo com o estabelecido no artigo 6.º\n\n3 - O documento de cobrança integra ainda uma linha destinada a leitura óptica, da qual deverão constar os elementos essenciais ao controlo da cobrança, conforme os anexos I, II, III e IV.\n\n4 - Quando o pagamento for efectuado por transferência electrónica de fundos ou em terminais de pagamento automático, o respectivo suporte informático deverá disponibilizar todos os elementos essenciais ao controlo da cobrança, servindo de recibo o comprovante emitido pelos referidos sistemas de pagamento.\n\n> Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:692404:por",
+    "alterador": "pt:dre:570112:por"
+  },
+  {
+    "artigo": "ANEXO — Regulamento do Documento de Cobrança::4.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 4.º — Emissão\n\n1 - Os documentos de cobrança do modelo A serão emitidos pelas entidades administradoras ou liquidadoras da receita, através do recurso aos meios informáticos para a respectiva emissão, numeração e aposição da linha óptica.\n\n2 - Os documentos de cobrança do modelo B serão emitidos pelos serviços administradores ou liquidadores, através do recurso aos meios informáticos para a respectiva emissão, numeração e aposição da linha óptica, competindo à entidade devedora preencher o valor a pagar.\n\n3 - Os documentos de cobrança do modelo C serão pré-numerados, identificarão a receita e o serviço que administra ou liquida e destinam-se à autoliquidação, retenção na fonte ou pagamento por conta, em que não haja emissão de impressos do modelo B, sendo preenchidos pela entidade devedora.\n\n4 - Os documentos de cobrança do modelo D substituem os documentos do modelo A, sendo utilizados e emitidos pelas entidades administradoras ou liquidadoras da receita que não disponham, ou que não tenham operacionais, os meios informáticos para a realização da liquidação e emissão do documento de cobrança.",
+    "depois": "###### Artigo 4.º — Emissão\n\n1 - Os documentos de cobrança do modelo A serão emitidos pelas entidades administradoras ou liquidadoras da receita, através do recurso aos meios informáticos para a respectiva emissão, numeração e aposição da linha óptica.\n\n2 - Os documentos de cobrança do modelo B serão emitidos pelos serviços administradores ou liquidadores, através do recurso aos meios informáticos para a respectiva emissão, numeração e aposição da linha óptica, competindo à entidade devedora preencher o valor a pagar.\n\n3 - Os documentos de cobrança do modelo C serão pré-numerados, identificarão a receita e o serviço que administra ou liquida e destinam-se à autoliquidação, retenção na fonte ou pagamento por conta, em que não haja emissão de impressos do modelo B, sendo preenchidos pela entidade devedora.\n\n4 - Os documentos de cobrança do modelo D substituem os documentos do modelo A, sendo utilizados e emitidos pelas entidades administradoras ou liquidadoras da receita que não disponham, ou que não tenham operacionais, os meios informáticos para a realização da liquidação e emissão do documento de cobrança.\n\n5 - Os documentos de cobrança do modelo C poderão ser desmaterializados através da sua geração por sistemas electrónicos de cobrança que garantam as especificações referidas no n.º 3, sendo a sua numeração processada automaticamente pelo sistema gerador.\n\n> Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:692404:por",
+    "alterador": "pt:dre:570112:por"
+  },
+  {
+    "artigo": "ANEXO — Regulamento do Documento de Cobrança::7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Registo\n\n1 - O registo na Direcção-Geral do Tesouro dos modelos de documento de cobrança, a utilizar para cada receita, estabelecendo a adaptação da área para discriminação da receita dos modelos aprovados pelo presente Regulamento, será efectuado mediante despacho do director-geral do Tesouro, o qual será objecto de publicação na 2.ª série do Diário da República sempre que se refira a documentos do modelo C.\n\n2 - No âmbito do processo de registo, a Direcção-Geral do Tesouro apreciará se foram cumpridos os requisitos definidos na presente portaria, nomeadamente o adequado posicionamento da linha óptica.",
+    "depois": "###### Artigo 7.º — Registo\n\n1 - O registo na Direcção-Geral do Tesouro dos modelos de documento de cobrança, a utilizar para cada receita, estabelecendo a adaptação da área para discriminação da receita dos modelos aprovados pelo presente Regulamento, será efectuado mediante despacho do director-geral do Tesouro, o qual será objecto de publicação na 2.ª série do Diário da República sempre que se refira a documentos do modelo C.\n\n2 - No âmbito do processo de registo, a Direcção-Geral do Tesouro apreciará se foram cumpridos os requisitos definidos na presente portaria, nomeadamente o adequado posicionamento da linha óptica.\n\n3 - Aplica-se, com as necessárias adaptações, nomeadamente ao disposto no n.º 2, o presente artigo aos documentos de cobrança desmaterializados previstos no n.º 5 do artigo 4.º\n\n> Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:692404:por",
+    "alterador": "pt:dre:570112:por"
+  }
+]

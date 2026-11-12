@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 79-79",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Os encargos com a execução dos programas de actividade desenvolvidos pela CEA e pelos NARA serão suportados pelo IEFP.",
+    "depois": "Os encargos com a execução dos programas de actividade desenvolvidos pela CEA e pelos NARA serão suportados pelo Instituto de Emprego e Formação Profissional (IEFP) e pelo Gabinete de Gestão do Fundo de Desemprego (GGFD).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:574299:por",
+    "alterador": "pt:dre:451835:por"
+  }
+]

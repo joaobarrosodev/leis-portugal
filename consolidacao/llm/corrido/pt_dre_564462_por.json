@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:564462:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Longomel, município de Ponte de Sor, com uma área de 735 ha.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 446/2010), artigos 1.º e 2.º: anexação de 667 ha e exclusão de 526 ha, com área total de 876 ha e nova planta; não dá nova redação a nenhum ponto do original (alteração não textual), por isso não se aplica ao texto.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º (área passa de 875 ha para 735 ha) — substituída a unidade 7, mantendo a numeração 2.º.",
+    "Alterador 2: anexação/exclusão de terrenos e concessão de outra zona de caça, sem nova redação do original — não aplicado (nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

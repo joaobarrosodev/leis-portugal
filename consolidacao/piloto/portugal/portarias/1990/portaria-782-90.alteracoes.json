@@ -1,0 +1,30 @@
+[
+  {
+    "artigo": "unidades 37-39",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "b) No ano lectivo de 1992-1993, os do 2.º ano do 1.º ciclo do ensino básico, os do 1.º ano do 2.º e 3.º ciclos do ensino básico, bem como os do 1.º ano do ensino secundário;\n\nc) No ano lectivo de 1993-1994, os do 3.º ano do 1.º ciclo do ensino básico, os do 2.º ano do 2.º e 3.º ciclos do ensino básico, bem como os do 2.º ano do ensino secundário;\n\nd) No ano lectivo de 1994-1995, os do 4.º ano do 1.º ciclo do ensino básico, os do 3.º ano do 3.º ciclo do ensino básico, bem como os do 3.º ano do ensino secundário.",
+    "depois": "b) No ano lectivo de 1992-1993, os do 2.º ano do 1.º ciclo do ensino básico e os do 1.º ano dos 2.º e 3.º ciclos do ensino básico;\n\nc) No ano lectivo de 1993-1994, os do 3.º ano do 1.º ciclo do ensino básico e os do 2.º ano dos 2.º e 3.º ciclos do ensino básico, bem como os do 1.º ano do ensino secundário;\n\nd) No ano lectivo de 1994-1995, os do 4.º ano do 1.º ciclo do ensino básico, os do 3.º ano do 3.º ciclo do ensino básico, bem como os do 2.º ano do ensino secundário;",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:556778:por",
+    "alterador": "pt:dre:516894:por"
+  },
+  {
+    "artigo": "depois da unidade 39",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "e) No ano lectivo de 1995-1996, os do 3.º ano do ensino secundário.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:556778:por",
+    "alterador": "pt:dre:516894:por"
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "pt:dre:614609:por",
+  "substituicoes": [
+    {
+      "de": 14,
+      "ate": 14,
+      "texto": "b) O conselho consultivo;\n\nc) A assembleia.",
+      "alterador": 1
+    },
+    {
+      "de": 29,
+      "ate": 29,
+      "texto": "10.º O presidente será coadjuvado no exercício das suas funções por um secretário-geral, a nomear pelo Ministro da Defesa Nacional, ao qual compete, designadamente, apoiar os trabalhos da Comissão, de acordo com as normas definidas no seu regimento, no âmbito das actividades da presidência, do conselho consultivo e da assembleia.",
+      "alterador": 1
+    },
+    {
+      "de": 30,
+      "ate": 30,
+      "texto": "11.º - 1 - O conselho consultivo é um órgão de consulta e apoio à presidência em assuntos de natureza científica, tendo, nomeadamente, de se pronunciar sobre:\n\na) Os estudos de investigação histórica militar e outros trabalhos científicos que lhe forem presentes;\n\nb) Matérias que requeiram parecer de nível científico e se enquadrem dentro dos fins da CPHM.\n\n2 - O conselho consultivo é constituído por 12 vogais, escolhidos entre personalidades que, pelas suas funções ou aptidões, tenham afinidades com a ciência da história militar, sendo seis designados pelo Ministro da Defesa Nacional, três pelo Ministro da Educação e três pelo Secretário de Estado da Cultura.",
+      "alterador": 1
+    },
+    {
+      "de": 31,
+      "ate": 34,
+      "texto": "12.º - 1 - A assembleia é constituída pelos membros da presidência e vogais do conselho consultivo, tendo, designadamente, as seguintes atribuições:\n\na) Aprovar os programas e relatórios anuais;\n\nb) Aprovar os programas plurianuais e as grandes linhas de orientação a adoptar nas actividades da CPHM;\n\nc) Deliberar sobre os representantes nacionais nos trabalhos da CPHM;\n\nd) Deliberar sobre a realização de trabalhos de pesquisa histórica no âmbito do estudo comparado da história militar;\n\ne) Pronunciar-se sobre a designação de individualidades não pertencentes à Comissão para a realização de trabalhos ou outras actividades no âmbito dos objectivos da Comissão;\n\nf) Pronunciar-se sobre a alteração das disposições do regimento interno da Comissão.\n\n2 - A assembleia reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que para tal for convocada pelo presidente, por sua iniciativa ou a pedido de um terço dos seus membros.\n\n3 - As deliberações serão aprovadas por maioria simples, tendo o presidente voto de qualidade no caso de empate.\n\n4 - Das reuniões da assembleia são lavradas actas, donde conste a indicação dos assuntos tratados e o relato das intervenções feitas e das deliberações tomadas.",
+      "alterador": 1
+    },
+    {
+      "de": 35,
+      "ate": 35,
+      "texto": "13.º A Comissão poderá ainda integrar personalidades de reconhecido mérito para desenvolvimento de estudos científicos ou para efeitos de representação especializada relacionada com os fins da CPHM, que serão nomeados pelo Ministro da Defesa Nacional, por sua iniciativa ou sob proposta do Ministro da Educação, do Secretário de Estado da Cultura ou do presidente da Comissão.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Decreto-Lei n.º 154-A/2009 (alterador 2) integra a CPHM no Instituto da Defesa Nacional (art. 17.º, n.º 3, e art. 30.º, n.º 5) sem alterar o texto da portaria: alteração não textual, não aplicada.",
+  "instrucoes": [
+    "Alt. 1: nova redação do 4.º (alínea b) passa a terminar em ';' e acrescenta-se c) A assembleia) - substituída a unidade 14 por b) e c).",
+    "Alt. 1: nova redação do 10.º - unidade 29 substituída.",
+    "Alt. 1: nova redação do 11.º (n.os 1 e 2 com alíneas) - unidade 30 substituída.",
+    "Alt. 1: nova redação do 12.º (assembleia, n.os 1 a 4) - unidades 31-34 substituídas.",
+    "Alt. 1: nova redação do 13.º - unidade 35 substituída.",
+    "Alt. 2: DL 154-A/2009 sem instrução textual dirigida à portaria (integração da CPHM no IDN) - não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

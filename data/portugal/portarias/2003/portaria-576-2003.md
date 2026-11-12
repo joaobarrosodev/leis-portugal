@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-08-31'
+version_history:
+  file: portaria-576-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-07-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-31'
+    amending: pt:dre:632732:por
+    amending_title: Portaria n.º 898/2003
+    changes:
+    - Altera Artigo unidades 5-5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/576/2003/07/16/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:50:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 898/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-576-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -169,7 +184,9 @@ Nos termos do disposto no n.º 2 do artigo 21.º dos Decretos-Leis n.os [335/98]
 
 Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Habitação, o seguinte:
 
-1.º Os montantes da tabela de remunerações base e diuturnidades do pessoal técnico de pilotagem, a que se refere o n.º 1.º da [Portaria n.º 193/90](https://diariodarepublica.pt/dr/detalhe/portaria/193-1990-333162), de 17 de Março, com os aditamentos previstos nas Portarias n.os [863/91](https://diariodarepublica.pt/dr/detalhe/portaria/863-1991-233755), de 23 de Agosto, [239/96](https://diariodarepublica.pt/dr/detalhe/portaria/239-1996-424146), de 4 de Julho, e [1098/99](https://diariodarepublica.pt/dr/detalhe/portaria/1098-1999-661753), de 21 de Dezembro, são actualizados em 1,5%, com arredondamento à décima do euro imediatamente superior.
+1.º Os montantes das tabelas de remunerações base e diuturniddes do pessoal técnico de pilotagem aprovadas pelo n.º 2 do n.º 1.º da [Portaria n.º 633/99](https://diariodarepublica.pt/dr/detalhe/portaria/633-1999-423068), de 11 de Agosto, com a alteração introduzida pelos n.os 2.º, 3.º e 4.º da [Portaria n.º 344/2001](https://diariodarepublica.pt/dr/detalhe/portaria/344-2001-362330), de 6 de Abril, e resultantes da actualização prevista no n.º 1.º da [Portaria n.º 217/2002](https://diariodarepublica.pt/dr/detalhe/portaria/217-2002-265482), de 12 de Março, são actualizados em 1,5%, com arredondamento à décima do euro imediatamente superior.
+
+> Alterado pelo/a [Portaria n.º 898/2003](https://diariodarepublica.pt/dr/detalhe/portaria/898-2003-632732), publicado em 2003-08-26.
 
 2.º O valor do subsídio de alimentação previsto no n.º 8.º da [Portaria n.º 633/99](https://diariodarepublica.pt/dr/detalhe/portaria/633-1999-423068), de 11 de Agosto, é actualizado para (euro) 6,50.
 

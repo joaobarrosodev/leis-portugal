@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:608265:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-09-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "37a7d1151d25c3aa"
+   ]
+  },
+  {
+   "date": "2006-05-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:659947:por",
+     "title": "Portaria n.º 423/2006",
+     "published": "2006-05-02",
+     "dre_path": "/dr/detalhe/portaria/423-2006-659947"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 7-7"
+   ],
+   "fragments": [
+    "5a07e58f885df176"
+   ]
+  }
+ ],
+ "fragments": {
+  "37a7d1151d25c3aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Setembro\n\nCom fundamento no disposto no artigo 25.º e no n.º 1 do artigo 114.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvidos os Conselhos Cinegéticos Municipais de Alfândega da Fé e Torre de Moncorvo:\n\nManda o Governo, pelos Ministros da Agricultura, Pescas e Florestas e do Ambiente e do Ordenamento do Território, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Ferradosa (processo n.º 3347-DGRF) pelo período de seis anos e transferida a sua gestão para a Junta de Freguesia de Ferradosa, com o número de pessoa colectiva 680004149 e sede em Ferradosa, 5350 Alfândega da Fé.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Ferradosa, município de Alfândega da Fé, com a área de 1937 ha, e na freguesia de Felgar, município de Torre de Moncorvo, com a área de 334 ha, perfazendo a área total de 2271 ha.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 40% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 30% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 20% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 10% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva direcção regional da agricultura, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n7.º A sinalização da zona de caça deve obedecer ao disposto no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro, com a redacção que lhe foi conferida pela [Portaria n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/portaria/45-2004-603031), de 14 de Janeiro, alterada pela [Portaria n.º 974-A/2004](https://diariodarepublica.pt/dr/detalhe/portaria/974-a-2004-275635), de 2 de Agosto.\n\nEm 20 de Agosto de 2004.\n\nPelo Ministro da Agricultura, Pescas e Florestas, Luís António Pires Pinheiro, Secretário de Estado das Florestas. - Pelo Ministro do Ambiente e do Ordenamento do Território, Jorge Manuel Lopes Moreira da Silva, Secretário de Estado Adjunto do Ministro do Ambiente e do Ordenamento do Território.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/09/224b00/60936093.pdf)"
+  },
+  "5a07e58f885df176": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-05-07",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 423/2006](https://diariodarepublica.pt/dr/detalhe/portaria/423-2006-659947), publicado em 2006-05-02."
+   ],
+   "markdown": "de 22 de Setembro\n\nCom fundamento no disposto no artigo 25.º e no n.º 1 do artigo 114.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvidos os Conselhos Cinegéticos Municipais de Alfândega da Fé e Torre de Moncorvo:\n\nManda o Governo, pelos Ministros da Agricultura, Pescas e Florestas e do Ambiente e do Ordenamento do Território, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Ferradosa (processo n.º 3347-DGRF) pelo período de seis anos e transferida a sua gestão para a Junta de Freguesia de Ferradosa, com o número de pessoa colectiva 680004149 e sede em Ferradosa, 5350 Alfândega da Fé.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Ferradosa e Cerejais, município de Alfândega da Fé, com a área de 1937 ha e na freguesia de Felgar, município de Torre de Moncorvo, com a área de 334 ha, perfazendo a área total de 2271 ha.\n\n> Alterado pelo/a [Portaria n.º 423/2006](https://diariodarepublica.pt/dr/detalhe/portaria/423-2006-659947), publicado em 2006-05-02.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 40% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 30% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 20% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 10% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva direcção regional da agricultura, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n7.º A sinalização da zona de caça deve obedecer ao disposto no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro, com a redacção que lhe foi conferida pela [Portaria n.º 45/2004](https://diariodarepublica.pt/dr/detalhe/portaria/45-2004-603031), de 14 de Janeiro, alterada pela [Portaria n.º 974-A/2004](https://diariodarepublica.pt/dr/detalhe/portaria/974-a-2004-275635), de 2 de Agosto.\n\nEm 20 de Agosto de 2004.\n\nPelo Ministro da Agricultura, Pescas e Florestas, Luís António Pires Pinheiro, Secretário de Estado das Florestas. - Pelo Ministro do Ambiente e do Ordenamento do Território, Jorge Manuel Lopes Moreira da Silva, Secretário de Estado Adjunto do Ministro do Ambiente e do Ordenamento do Território.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/09/224b00/60936093.pdf)"
+  }
+ }
+}

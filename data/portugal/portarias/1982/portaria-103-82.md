@@ -28,10 +28,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-07-29'
+version_history:
+  file: portaria-103-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-01-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-07-29'
+    amending: pt:dre:311423:por
+    amending_title: Portaria n.º 165/83; Portaria n.º 793/83
+    changes:
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 16-16
+    - Adita Artigo depois da unidade 31
+    - Altera Artigo unidades 42-49
+    - Adita Artigo depois da unidade 56
+    - Altera Artigo unidades 57-57
+    - Altera Artigo unidades 59-59
+    - Altera Artigo unidades 71-71
 identifiers:
   celex: null
   eli: null
@@ -57,7 +78,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:01:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 165/83; Portaria n.º
+    793/83. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-103-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,11 +157,17 @@ O curso especializado conducente ao mestrado em Ciências da Educação, adiante
 
 (Áreas de especialização)
 
-O curso estrutura-se em 2 áreas de especialização:
+O curso estrutura-se em 3 áreas de especialização:
+
+> Alterado pelo/a [Portaria n.º 165/83](https://diariodarepublica.pt/dr/detalhe/portaria/165-1983-311423), publicado em 1983-02-23.
 
 a) Activação do Desenvolvimento Psicológico;
 
-b) Didáctica do Francês.
+b) Didáctica do Francês;
+
+c) Didáctica do Inglês.
+
+> Alterado pelo/a [Portaria n.º 165/83](https://diariodarepublica.pt/dr/detalhe/portaria/165-1983-311423), publicado em 1983-02-23.
 
 4.º
 
@@ -171,6 +199,18 @@ c) Tecnologia Educativa;
 
 d) Didáctica do Francês.
 
+3 - São áreas científicas obrigatórias da área de especialização em Didáctica do Inglês:
+
+a) Fundamentos da Educação;
+
+b) Psicopedagogia;
+
+c) Tecnologia Educativa;
+
+d) Didáctica do Inglês.
+
+> Aditado pelo/a [Portaria n.º 165/83](https://diariodarepublica.pt/dr/detalhe/portaria/165-1983-311423), publicado em 1983-02-23.
+
 6.º
 
 (Duração normal)
@@ -191,21 +231,35 @@ II) Psicopedagogia ... 5
 
 III) Tecnologia Educativa ... 6
 
-IV) Observação e Activação do Desenvolvimento Psicológico ... 10
+IV) Observação e Activação de Desenvolvimento Psicológico ... 10
 
 Total ... 27
 
-b) Área de especialização em Didáctica do Francês:
+b) Área de especialização em Didáctica do Françês:
 
 I) Fundamentos da Educação ... 6
 
-II) Psicopedagogia ... 6
+II) Psicopedagogia ... 5
 
 III) Tecnologia Educativa ... 6
 
-IV)Didáctica do Francês ... 10
+IV) Didáctica do Francês ... 10
 
 Total ... 27
+
+c) Área de especialização em Didáctica do Inglês:
+
+I) Fundamentos da Educação ... 6
+
+II) Psicopedagogia ... 5
+
+III) Tecnologia Educativa ... 6
+
+IV) Didáctica do Inglês ... 10
+
+Total ... 27
+
+> Alterado pelo/a [Portaria n.º 793/83](https://diariodarepublica.pt/dr/detalhe/portaria/793-1983-454275), publicado em 1983-07-29.
 
 8.º
 
@@ -221,11 +275,19 @@ A tabela e o regime de precedências serão fixados pelo conselho científico.
 
 2 - São admitidos à candidatura à matrícula na área de especialização em Didáctica do Francês os licenciados em ensino de Francês-Português, em ensino de Português-Francês, em Filologia Românica, em Línguas e Literaturas Modernas (variantes com Francês) ou áreas afins ou com habilitações legalmente equivalentes com a classificação mínima de 14 valores.
 
-3 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora nas licenciaturas referidas nos n.os 1 ou 2 tenham classificação inferior a 14 valores.
+2-A - São admitidos à candidatura na área de especialização em Didáctica do Inglês os licenciados em ensino Português e Inglês, em ensino de Inglês e Português, em Filologia Germânica, em Línguas e Literaturas Modernas (variantes com Inglês) ou em áreas afins ou com habilitações legalmente equivalentes com a classificação mínima de 14 valores.
+
+> Aditado pelo/a [Portaria n.º 165/83](https://diariodarepublica.pt/dr/detalhe/portaria/165-1983-311423), publicado em 1983-02-23.
+
+3 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora nas licenciaturas referidas nos n.os 1 ou 2 ou 2-A tenham classificação inferior a 14 valores.
+
+> Alterado pelo/a [Portaria n.º 165/83](https://diariodarepublica.pt/dr/detalhe/portaria/165-1983-311423), publicado em 1983-02-23.
 
 4 - Excepcionalmente, em casos devidamente justificados, e nos termos do n.º 4 do n.º 11.º, o conselho científico poderá admitir à candidatura à matrícula no curso os titulares de outra licenciatura pelas universidades portuguesas ou de habilitação legalmente equivalentes cujo currículo demonstre uma adequada preparação científica de base.
 
-5 - Cabe ao conselho científico definir quais os cursos a incluir nas áreas afins referidas nos n.os 1 ou 2.
+5 - Cabe ao conselho científico definir quais os cursos a incluir nas áreas afins referidas nos n.os 1, 2 ou 2-A.
+
+> Alterado pelo/a [Portaria n.º 165/83](https://diariodarepublica.pt/dr/detalhe/portaria/165-1983-311423), publicado em 1983-02-23.
 
 10.º
 
@@ -249,7 +311,9 @@ e) Experiência docente.
 
 3 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção, para avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciaturas ou outras, como condição prévia para a candidatura à matrícula no curso.
 
-4 - Os candidatos a que se refere o n.º 4 do n.º 9.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.
+4 - Os candidatos a que se refere o n.º 4 do n.º 9.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1, 2, e 2-A do mesmo número.
+
+> Alterado pelo/a [Portaria n.º 165/83](https://diariodarepublica.pt/dr/detalhe/portaria/165-1983-311423), publicado em 1983-02-23.
 
 5 - A selecção a que se refere o presente número será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.
 

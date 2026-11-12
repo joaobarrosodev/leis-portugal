@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:689251:por",
+  "substituicoes": [
+    {
+      "de": 4,
+      "ate": 16,
+      "texto": "Assessor principal - 6.\n\nAssessor - 6.\n\nTécnico superior principal - 17.\n\nTécnico superior de 1.ª classe - 19.\n\nTécnico superior de 2.ª classe - 16.\n\nCarreira técnica:\n\nTécnico especialista principal - 2.\n\nTécnico especialista - 2.\n\nTécnico principal - 6.\n\nTécnico de 1.ª classe - 17.\n\nTécnico de 2.ª classe - 8.\n\nCarreira de técnico-adjunto:\n\nTécnico-adjunto principal - 4.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 1, n.º 2: as alterações às listas nominativas do anexo não se aplicam porque o anexo só existe em imagem (documento original).",
+  "instrucoes": [
+    "Alterador 1, n.º 1: nova redação do n.º 1 — corpo e 'Carreira técnica superior:' iguais; substituídas as unidades 4 a 16 pela lista de lugares na nova redação (novos números e formato '- N.').",
+    "Alterador 1, n.º 2: alterações ao anexo (listas de docentes) — não aplicadas, anexo só em imagem."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:655340:por",
+  "substituicoes": [
+    {
+      "de": 67,
+      "ate": 68,
+      "texto": "a) Encontrar-se integralmente executadas até 31 de Maio de 2007 e serem objecto do correspondente pedido de pagamento das ajudas e da compensação financeira por perda de receita, sendo o caso, até àquela data; ou\n\nb) Ser objecto, após o início da sua execução, de um pedido de pagamento antecipado das ajudas e da compensação financeira por perda de receita, sendo o caso, a efectuar até 15 de Junho de 2007, mediante a prestação de uma garantia bancária, sem prazo, a favor do IFAP, de montante igual a 120% do valor das ajudas previstas para a medida específica em causa, devendo esta encontrar-se integralmente executada até 31 de Julho de 2009;",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Portaria 691/2007): nova redação do n.º 19.º; corpo e alínea c) ficam (...), substituídas as alíneas a) e b) (unidades 67-68)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

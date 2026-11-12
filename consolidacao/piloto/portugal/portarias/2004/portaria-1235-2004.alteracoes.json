@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 7-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Ferradosa, município de Alfândega da Fé, com a área de 1937 ha, e na freguesia de Felgar, município de Torre de Moncorvo, com a área de 334 ha, perfazendo a área total de 2271 ha.",
+    "depois": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Ferradosa e Cerejais, município de Alfândega da Fé, com a área de 1937 ha e na freguesia de Felgar, município de Torre de Moncorvo, com a área de 334 ha, perfazendo a área total de 2271 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:608265:por",
+    "alterador": "pt:dre:659947:por"
+  }
+]

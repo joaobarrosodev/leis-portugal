@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-05-24'
+version_history:
+  file: portaria-722-c4-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-05-24'
+    amending: pt:dre:344193:por
+    amending_title: Portaria n.º 511/2001
+    changes:
+    - Altera Artigo unidades 7-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/722-c4/1992/07/15/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:27:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 511/2001. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-722-c4-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +155,9 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Castanheira, município de Mogadouro, com uma área de 1556 ha.
 
-2.º Pelo presente diploma é concessionada, pelo período de nove anos, à Associação de Caçadores de Castanheira (registo na Direcção-Geral das Florestas n.º 1.1076.92), com sede em Castanheira, Mogadouro, a zona de caça associativa de Castanheira (processo n.º 1072 da Direcção-Geral das Florestas).
+2.º Pelo presente diploma é concessionada até 15 de Julho de 2004, à Associação de Caçadores de Castanheira (registo na Direcção-Geral n.º 1.1076.92), com sede em Castanheira, Mogadouro, a zona de caça associativa de Castanheira (processo n.º 1072-DGF).
+
+> Alterado pelo/a [Portaria n.º 511/2001](https://diariodarepublica.pt/dr/detalhe/portaria/511-2001-344193), publicado em 2001-05-19.
 
 3.º A Associação de Caçadores de Castanheira, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegética aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

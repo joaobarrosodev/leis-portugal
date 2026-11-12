@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-09-16'
+version_history:
+  file: portaria-342-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-04-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-09-16'
+    amending: pt:dre:540054:por
+    amending_title: Portaria n.º 944/2006
+    changes:
+    - Altera Artigo unidades 6-7
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/342/2006/04/10/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:13:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 944/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2006/portaria-342-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,9 +143,11 @@ Ouvido o Conselho Cinegético Municipal do Fundão:
 
 Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Pela presente portaria é criada a zona de caça municipal do Fundão (processo n.º 4232-DGRF), pelo período de seis anos, e transferida a sua gestão para a Associação de Caça e Pesca da Cova da Beira/Aldeia de Joanes, com o número de pessoa colectiva 506587380, com sede no edifício da Junta de Freguesia, 6230-187 Donas.
+1.º Pela presente portaria, é criada a zona de caça municipal do Fundão (processo n.º 4232-DGRF), pelo período de seis anos, e transferida a sua gestão para a Associação de Caça e Pesca da Cova da Beira/Aldeia de Joanes, com o número de pessoa colectiva 506587380 e sede no Loteamento de Rebordão, lote 19, apartado 346, 6230 Fundão.
 
-2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos nas freguesias de Aldeia de Joanes, Fundão, Castelo Novo, Alcongosta, Alcaide, Alpedrinha e Donas, município do Fundão, com a área de 3602 ha.
+2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Aldeia Nova do Cabo, Aldeia de Joanes, Fundão, Valverde, Alcaide, Donas, Alcongosta e Souto da Casa, município do Fundão, com a área de 3602 ha.
+
+> Alterado pelo/a [Portaria n.º 944/2006](https://diariodarepublica.pt/dr/detalhe/portaria/944-2006-540054), publicado em 2006-09-11.
 
 3.º De acordo com o estabelecido no artigo 15.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:
 

@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:630260:por",
+  "substituicoes": [
+    {
+      "de": 22,
+      "ate": 22,
+      "texto": "7.º São fixados, respectivamente, em 5$742 e 4$324 por quilograma os preços das sêmolas destinadas ao fabrico de massas alimentícias de qualidade superior (M1) e das farinhas destinadas ao fabrico de massas alimentícias (M2)",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria n.º 27/73: nova redação do n.º 7.º — substituída a unidade 22, copiada letra a letra do alterador."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

@@ -1,0 +1,62 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:612255:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-02-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a26311b1631857d4"
+   ]
+  },
+  {
+   "date": "1989-12-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:550808:por",
+     "title": "Resolução do Conselho de Ministros n.º 42/89",
+     "published": "1989-12-02",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/42-1989-550808"
+    },
+    {
+     "id": "pt:dre:550808:por",
+     "title": "Resolução do Conselho de Ministros n.º 42/89",
+     "published": "1989-12-02",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/42-1989-550808"
+    }
+   ],
+   "changes": [
+    "Adita Artigo depois da unidade 20"
+   ],
+   "fragments": [
+    "2637a01d45cc36b9"
+   ]
+  }
+ ],
+ "fragments": {
+  "a26311b1631857d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O litoral está particularmente ameaçado, encontrando-se já comprometidas grandes extensões por uma ocupação intensa.\n\nA faixa litoral do Alentejo - da ponta de Tróia à ribeira de Odeceixe - é, de entre as áreas litorais nacionais, a que apresenta menor ocupação e maior grau de preservação. Têm-se verificado, no entanto, fortes pressões para a implantação de projectos turísticos e de outra índole, que convirá analisar num enquadramento global que permita compatibilizar os aspectos de desenvolvimento com os de conservação dos valores naturais e culturais.\n\nConsidera-se, portanto, que a figura de plano regional de ordenamento do território (PROT), conforme estabelecido no [Decreto-Lei n.º 176-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-a-1988-476568), de 18 de Maio, pode vir a enquadrar as soluções que respondem às preocupações relativas à preservação dos valores litorais - condições únicas de habitat, acessibilidade, turismo e produções especiais -, que devem constituir complemento dos sistemas agrícolas e florestais, mediante audição prévia das autarquias e consulta pública.\n\nAssim:\n\nNos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:\n\n1 - Incumbir a Comissão de Coordenação da Região do Alentejo de promover, no prazo de dezoito meses, a elaboração de um PROT para a faixa litoral alentejana, abrangendo os Municípios de Alcácer do Sal, Grândola, Santiago do Cacém, Sines e Odemira.\n\n2 - O PROT do Litoral Alentejano visa o ordenamento da faixa litoral constituída pela totalidade da área dos municípios acima referidos, promovendo o aproveitamento racional dos seus recursos, estabelecendo critérios e normas de organização e optimização do uso do solo e equacionando as suas diversas potencialidades.\n\n3 - Na elaboração do PROT do Litoral Alentejano deverá ser privilegiado o estudo da conservação dos valores naturais e culturais e das utilizações recreativas e portuárias e das que se situam no âmbito do sector primário.\n\n4 - A comissão consultiva do PROT do Litoral Alentejano será constituída por representantes das entidades previstas e especificadas no n.º 2 do artigo 4.º do [Decreto-Lei n.º 176-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-a-1988-476568), de 18 de Maio, e ainda por:\n\na) Um representante do Serviço Nacional de Parques, Reservas e Conservação da Natureza;\n\nb) Um representante da Direcção-Geral das Florestas;\n\nc) Um representante da Direcção Regional de Agricultura do Alentejo;\n\nd) Um representante da Direcção-Geral de Portos;\n\ne) Um representante da Direcção-Geral do Turismo;\n\nf) Um representante da Direcção-Geral da Indústria;\n\ng) Um representante da Direcção-Geral de Geologia e Minas;\n\nh) Um representante da Direcção-Geral da Marinha;\n\ni) Um representante da Administração do Porto de Sines;\n\nj) Um representante do Instituto Português do Património Cultural.\n\n5 - O PROT do Litoral Alentejano deverá considerar e compatibilizar os planos, programas e projectos já existentes, nomeadamente no âmbito dos planos directores municipais em curso, da Reserva Natural do Estuário do Sado e da Área de Paisagem Protegida do Sudoeste Alentejano e Costa Vicentina, bem como articular-se com o processo em curso para realização de um estudo de ordenamento e aproveitamento do litoral alentejano.\n\nPresidência do Conselho de Ministros, 9 de Fevereiro de 1989. - O Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "2637a01d45cc36b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1989-12-07",
+   "changed_by": [
+    "Aditado pelo/a [Resolução do Conselho de Ministros n.º 42/89](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-1989-550808), publicado em 1989-12-02."
+   ],
+   "markdown": "O litoral está particularmente ameaçado, encontrando-se já comprometidas grandes extensões por uma ocupação intensa.\n\nA faixa litoral do Alentejo - da ponta de Tróia à ribeira de Odeceixe - é, de entre as áreas litorais nacionais, a que apresenta menor ocupação e maior grau de preservação. Têm-se verificado, no entanto, fortes pressões para a implantação de projectos turísticos e de outra índole, que convirá analisar num enquadramento global que permita compatibilizar os aspectos de desenvolvimento com os de conservação dos valores naturais e culturais.\n\nConsidera-se, portanto, que a figura de plano regional de ordenamento do território (PROT), conforme estabelecido no [Decreto-Lei n.º 176-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-a-1988-476568), de 18 de Maio, pode vir a enquadrar as soluções que respondem às preocupações relativas à preservação dos valores litorais - condições únicas de habitat, acessibilidade, turismo e produções especiais -, que devem constituir complemento dos sistemas agrícolas e florestais, mediante audição prévia das autarquias e consulta pública.\n\nAssim:\n\nNos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:\n\n1 - Incumbir a Comissão de Coordenação da Região do Alentejo de promover, no prazo de dezoito meses, a elaboração de um PROT para a faixa litoral alentejana, abrangendo os Municípios de Alcácer do Sal, Grândola, Santiago do Cacém, Sines e Odemira.\n\n2 - O PROT do Litoral Alentejano visa o ordenamento da faixa litoral constituída pela totalidade da área dos municípios acima referidos, promovendo o aproveitamento racional dos seus recursos, estabelecendo critérios e normas de organização e optimização do uso do solo e equacionando as suas diversas potencialidades.\n\n3 - Na elaboração do PROT do Litoral Alentejano deverá ser privilegiado o estudo da conservação dos valores naturais e culturais e das utilizações recreativas e portuárias e das que se situam no âmbito do sector primário.\n\n4 - A comissão consultiva do PROT do Litoral Alentejano será constituída por representantes das entidades previstas e especificadas no n.º 2 do artigo 4.º do [Decreto-Lei n.º 176-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-a-1988-476568), de 18 de Maio, e ainda por:\n\na) Um representante do Serviço Nacional de Parques, Reservas e Conservação da Natureza;\n\nb) Um representante da Direcção-Geral das Florestas;\n\nc) Um representante da Direcção Regional de Agricultura do Alentejo;\n\nd) Um representante da Direcção-Geral de Portos;\n\ne) Um representante da Direcção-Geral do Turismo;\n\nf) Um representante da Direcção-Geral da Indústria;\n\ng) Um representante da Direcção-Geral de Geologia e Minas;\n\nh) Um representante da Direcção-Geral da Marinha;\n\ni) Um representante da Administração do Porto de Sines;\n\nj) Um representante do Instituto Português do Património Cultural.\n\nl) Um representante da Junta Autónoma de Estradas;\n\nm) Um representante da Direcção-Geral dos Recursos Naturais.\n\n> Aditado pelo/a [Resolução do Conselho de Ministros n.º 42/89](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-1989-550808), publicado em 1989-12-02.\n\n5 - O PROT do Litoral Alentejano deverá considerar e compatibilizar os planos, programas e projectos já existentes, nomeadamente no âmbito dos planos directores municipais em curso, da Reserva Natural do Estuário do Sado e da Área de Paisagem Protegida do Sudoeste Alentejano e Costa Vicentina, bem como articular-se com o processo em curso para realização de um estudo de ordenamento e aproveitamento do litoral alentejano.\n\nPresidência do Conselho de Ministros, 9 de Fevereiro de 1989. - O Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

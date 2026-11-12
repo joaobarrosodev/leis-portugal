@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-11-23'
+version_history:
+  file: portaria-251-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-03-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-11-23'
+    amending: pt:dre:316889:por
+    amending_title: Portaria n.º 1173/91
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/251/1991/03/26/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:44:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1173/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-251-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,7 +150,9 @@ Ouvido o membro do Governo responsável pela área do turismo e o Conselho Nacio
 
 Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
 
-1.º Fica sujeita ao regime cinegético especial a propriedade constante da planta anexa, denominada «Herdade do Outeiro», situada na freguesia de Brotas, concelho de Mora, com uma área de 939,90 ha.
+1.º Ficam sujeitas ao regime cinegético especial as propriedades constantes da planta anexa, denominadas «Herdades do Outeiro e Vale Mouro», sitas na freguesia de Brotas, concelho de Mora, com uma área de 939,90 ha.
+
+> Alterado pelo/a [Portaria n.º 1173/91](https://diariodarepublica.pt/dr/detalhe/portaria/1173-1991-316889), publicado em 1991-11-18.
 
 2.º Nesta área, até ao dia 31 de Maio de 2011, é concessionada à Sociedade Agro-Cinegética da Herdade do Outeiro, Lda., a exploração de uma zona de caça turística (processo n.º 516 da Direcção-Geral das Florestas).
 

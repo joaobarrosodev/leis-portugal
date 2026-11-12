@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-06-06'
+version_history:
+  file: portaria-782-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-06-06'
+    amending: pt:dre:516894:por
+    amending_title: Portaria n.º 459/92
+    changes:
+    - Altera Artigo unidades 37-39
+    - Adita Artigo depois da unidade 39
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:30:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 459/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-782-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -196,11 +212,17 @@ Na sequência do despacho referido no n.º 4 do n.º 2.º, e após a consolidaç
 
 a) No ano lectivo de 1991-1992, os do 1.º ano do 1.º ciclo do ensino básico;
 
-b) No ano lectivo de 1992-1993, os do 2.º ano do 1.º ciclo do ensino básico, os do 1.º ano do 2.º e 3.º ciclos do ensino básico, bem como os do 1.º ano do ensino secundário;
+b) No ano lectivo de 1992-1993, os do 2.º ano do 1.º ciclo do ensino básico e os do 1.º ano dos 2.º e 3.º ciclos do ensino básico;
 
-c) No ano lectivo de 1993-1994, os do 3.º ano do 1.º ciclo do ensino básico, os do 2.º ano do 2.º e 3.º ciclos do ensino básico, bem como os do 2.º ano do ensino secundário;
+c) No ano lectivo de 1993-1994, os do 3.º ano do 1.º ciclo do ensino básico e os do 2.º ano dos 2.º e 3.º ciclos do ensino básico, bem como os do 1.º ano do ensino secundário;
 
-d) No ano lectivo de 1994-1995, os do 4.º ano do 1.º ciclo do ensino básico, os do 3.º ano do 3.º ciclo do ensino básico, bem como os do 3.º ano do ensino secundário.
+d) No ano lectivo de 1994-1995, os do 4.º ano do 1.º ciclo do ensino básico, os do 3.º ano do 3.º ciclo do ensino básico, bem como os do 2.º ano do ensino secundário;
+
+> Alterado pelo/a [Portaria n.º 459/92](https://diariodarepublica.pt/dr/detalhe/portaria/459-1992-516894), publicado em 1992-06-01.
+
+e) No ano lectivo de 1995-1996, os do 3.º ano do ensino secundário.
+
+> Aditado pelo/a [Portaria n.º 459/92](https://diariodarepublica.pt/dr/detalhe/portaria/459-1992-516894), publicado em 1992-06-01.
 
 III
 

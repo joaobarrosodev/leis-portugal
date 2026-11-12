@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:656661:por",
+  "substituicoes": [
+    {
+      "de": 6,
+      "ate": 6,
+      "texto": "1.º Pela presente portaria é criada a zona de caça municipal de Viseu 1 (processo n.º 3181-DGF), pelo período de seis anos, e transferida a sua gestão para o Clube de Caçadores e Pescadores da Beira, com o número de pessoa colectiva 501734066, com sede na Praça de D. Duarte, 18, 1.º, 3500 Viseu.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria 165/2009) renova a zona de caça e anexa terrenos (área total 2206 ha, nova planta) sem alterar textualmente nenhum ponto do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 1500/2002): nova redação do n.º 1.º; substituída a unidade 6, mantendo o número 1.º.",
+    "Alterador 2 (Portaria 165/2009): renovação e anexação de terrenos, sem instrução de alteração textual; não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

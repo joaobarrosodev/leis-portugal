@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-03-08'
+version_history:
+  file: portaria-682-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-03-08'
+    amending: pt:dre:551669:por
+    amending_title: Portaria n.º 220/2004
+    changes:
+    - Altera Artigo unidades 6-6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/682/2003/07/30/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:50:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 220/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-682-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,7 +150,9 @@ Ouvido o Conselho Cinegético Municipal de Nelas:
 
 Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
 
-1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por dois períodos iguais, ao Clube de Caça e Pesca de Nelas com o número de pessoa colectiva 501899588 e sede no Apartado 117, 3502-062 Nelas, a zona de caça associativa de Nelas (processo n.º 3365-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Carvalhal Redondo, Nelas, Santar, Senhorim e Vilar Seco, município de Nelas, com uma área de 3929,7320 ha.
+1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por dois iguais períodos, ao Clube de Caça e Pesca de Nelas, com o número de pessoa colectiva 501899588, com sede no Apartado 117, 3502-062 Nelas, a zona de caça associativa de Nelas (processo n.º 3365-DGF), englobando os prédios rústicos, cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Carvalhal, Redondo, Nelas, Santar, Senhorim, Vilar Seco, Canas de Senhorim e Moreira, município de Nelas, com a área de 3929,7320 ha.
+
+> Alterado pelo/a [Portaria n.º 220/2004](https://diariodarepublica.pt/dr/detalhe/portaria/220-2004-551669), publicado em 2004-03-03.
 
 2.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
 

@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:671224:por",
+  "substituicoes": [
+    {
+      "de": 5,
+      "ate": 5,
+      "texto": "1.º Os montantes das tabelas de remunerações base e diuturniddes do pessoal técnico de pilotagem aprovadas pelo n.º 2 do n.º 1.º da [Portaria n.º 633/99](https://diariodarepublica.pt/dr/detalhe/portaria/633-1999-423068), de 11 de Agosto, com a alteração introduzida pelos n.os 2.º, 3.º e 4.º da [Portaria n.º 344/2001](https://diariodarepublica.pt/dr/detalhe/portaria/344-2001-362330), de 6 de Abril, e resultantes da actualização prevista no n.º 1.º da [Portaria n.º 217/2002](https://diariodarepublica.pt/dr/detalhe/portaria/217-2002-265482), de 12 de Março, são actualizados em 1,5%, com arredondamento à décima do euro imediatamente superior.",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "A Portaria n.º 779/2006 (2.º) atualiza para 6,75 euros o subsídio de alimentação previsto no n.º 2.º, mas é uma atualização autónoma, sem nova redação do texto do original.",
+  "instrucoes": [
+    "Alt. 1 (Portaria 898/2003): nova redação do n.º 1.º; substituída a unidade 5 (gralha 'diuturniddes' mantida).",
+    "Alt. 2 (Portaria 779/2006), 2.º: atualiza o valor do n.º 2.º sem alterar a redação; não aplicado (alteração não textual).",
+    "Alt. 2, 1.º e 3.º: atualização autónoma de tabelas; não dirigida ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

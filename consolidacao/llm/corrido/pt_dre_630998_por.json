@@ -1,0 +1,21 @@
+{
+  "id": "pt:dre:630998:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Pelo presente diploma é concessionada, pelo período de 12 anos, ao Clube de Caçadores Os Confrades (registo na Direcção-Geral das Florestas n.º 3.847.91), com sede no lugar das Fisgas, Alcabideche, Cascais, a zona de caça associativa das Herdades das Confrarias e Torrejona (processo n.º 612 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 451/2003) só renova a concessão por seis anos e alterador 3 (Portaria n.º 346/2010) extingue a zona de caça e revoga a Portaria n.º 451/2003; nenhum altera o texto do original.",
+  "instrucoes": [
+    "Alterador 1: nova redação do n.º 2.º (prazo de 12 anos) — substituída a unidade 7.",
+    "Alterador 2: renovação da concessão por seis anos — efeito não textual, não aplicado.",
+    "Alterador 3: extinção da zona de caça e revogação da Portaria n.º 451/2003 (outro diploma) — não textual no original, não aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}

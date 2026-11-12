@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 9-9",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "3.º O regime fixado nos termos deste número vigorará para as inscrições a realizar no ano lectivo de 1981-1982, do 2.º ao 6.º anos do curso de licenciatura em Medicina Dentária.",
+    "depois": "3.º O regime fixado pela presente portaria vigorará para as inscrições a realizar no ano lectivo de 1981-1982 e subsequentes, do 2.º ao 6.º anos do curso de licenciatura em Medicina Dentária.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:601336:por",
+    "alterador": "pt:dre:396690:por"
+  }
+]

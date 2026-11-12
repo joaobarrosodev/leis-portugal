@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-01-16'
+version_history:
+  file: portaria-468-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-08-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-01-16'
+    amending: pt:dre:683645:por
+    amending_title: Portaria n.º 27/73
+    changes:
+    - Altera Artigo unidades 22-22
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:33:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 27/73. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-468-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +159,9 @@ Farinha lotada - 2$892 por quilograma.
 
 6.º As farinhas espoadas destinadas ao consumo humano só podem ser entregues pelas moagens produtoras no período compreendido entre dez e sessenta dias após o seu fabrico.
 
-7.º São fixados, respectivamente, em 5$568 e 4$324 por quilograma os preços das sêmolas destinadas ao fabrico de massas alimentícias de qualidade superior (M(índice 1)) e das farinhas destinadas ao fabrico de massas alimentícias (M(índice 2)).
+7.º São fixados, respectivamente, em 5$742 e 4$324 por quilograma os preços das sêmolas destinadas ao fabrico de massas alimentícias de qualidade superior (M1) e das farinhas destinadas ao fabrico de massas alimentícias (M2)
+
+> Alterado pelo/a [Portaria n.º 27/73](https://diariodarepublica.pt/dr/detalhe/portaria/27-1973-683645), publicado em 1973-01-16.
 
 8.º São fixadas, respectivamente, em 1$70 e 2$00 por quilograma os preços máximos de venda, pelas moagens, da sêmea e do subproduto resultante da extracção isolada de sêmolas.
 

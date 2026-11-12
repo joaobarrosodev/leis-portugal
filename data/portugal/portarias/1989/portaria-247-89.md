@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-07-22'
+version_history:
+  file: portaria-247-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-04-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-07-22'
+    amending: pt:dre:575754:por
+    amending_title: Portaria n.º 551/90
+    changes:
+    - Altera Artigo unidades 14-14
+    - Altera Artigo unidades 29-29
+    - Altera Artigo unidades 30-30
+    - Altera Artigo unidades 31-34
+    - Altera Artigo unidades 35-35
 identifiers:
   celex: null
   eli: null
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:48:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 551/90. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1989/portaria-247-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,7 +160,11 @@ Manda o Governo, pelos Ministros da Defesa Nacional e da Educação e pela Secre
 
 a) A presidência;
 
-b) O conselho consultivo.
+b) O conselho consultivo;
+
+c) A assembleia.
+
+> Alterado pelo/a [Portaria n.º 551/90](https://diariodarepublica.pt/dr/detalhe/portaria/551-1990-575754), publicado em 1990-07-17.
 
 5.º Constituem atribuições da presidência:
 
@@ -171,19 +194,45 @@ b) Convocar e dirigir as reuniões do conselho consultivo;
 
 c) Representar a Comissão em todas as suas actividades.
 
-10.º A presidência será coadjuvada no exercício das novas funções por um secretário-geral, a nomear pelo Ministro da Defesa Nacional, ao qual compete, designadamente, apoiar os trabalhos da CPHM, de acordo com as normas definidas no seu regimento, e elaborar as actas das reuniões da presidência e do conselho consultivo.
+10.º O presidente será coadjuvado no exercício das suas funções por um secretário-geral, a nomear pelo Ministro da Defesa Nacional, ao qual compete, designadamente, apoiar os trabalhos da Comissão, de acordo com as normas definidas no seu regimento, no âmbito das actividades da presidência, do conselho consultivo e da assembleia.
 
-11.º O conselho consultivo é constituído por doze vogais, escolhidos de entre personalidades que, pelas suas funções ou aptidões, tenham afinidades com a ciência da história militar, sendo seis designados pelo Ministro da Defesa Nacional, três pelo Ministro da Educação e três pela Secretária de Estado da Cultura.
+> Alterado pelo/a [Portaria n.º 551/90](https://diariodarepublica.pt/dr/detalhe/portaria/551-1990-575754), publicado em 1990-07-17.
 
-12.º Constituem atribuições do conselho consultivo:
+11.º - 1 - O conselho consultivo é um órgão de consulta e apoio à presidência em assuntos de natureza científica, tendo, nomeadamente, de se pronunciar sobre:
 
-a) Aprovar as acções e a orientação a adoptar nas actividades da CPHM;
+a) Os estudos de investigação histórica militar e outros trabalhos científicos que lhe forem presentes;
 
-b) Designar os representantes nacionais nos trabalhos da CPHM;
+b) Matérias que requeiram parecer de nível científico e se enquadrem dentro dos fins da CPHM.
 
-c) Pronunciar-se sobre assuntos que requeiram parecer de nível científico e se relacionem com os objectivos da CPHM.
+2 - O conselho consultivo é constituído por 12 vogais, escolhidos entre personalidades que, pelas suas funções ou aptidões, tenham afinidades com a ciência da história militar, sendo seis designados pelo Ministro da Defesa Nacional, três pelo Ministro da Educação e três pelo Secretário de Estado da Cultura.
 
-13.º O Ministro da Defesa Nacional poderá designar personalidades de reconhecido mérito para desenvolvimento de estudos científicos ou para efeitos de representação especializada relacionados com os objectivos da CPHM, por sua iniciativa ou sob proposta do Ministro da Educação ou da Secretária de Estado da Cultura.
+> Alterado pelo/a [Portaria n.º 551/90](https://diariodarepublica.pt/dr/detalhe/portaria/551-1990-575754), publicado em 1990-07-17.
+
+12.º - 1 - A assembleia é constituída pelos membros da presidência e vogais do conselho consultivo, tendo, designadamente, as seguintes atribuições:
+
+a) Aprovar os programas e relatórios anuais;
+
+b) Aprovar os programas plurianuais e as grandes linhas de orientação a adoptar nas actividades da CPHM;
+
+c) Deliberar sobre os representantes nacionais nos trabalhos da CPHM;
+
+d) Deliberar sobre a realização de trabalhos de pesquisa histórica no âmbito do estudo comparado da história militar;
+
+e) Pronunciar-se sobre a designação de individualidades não pertencentes à Comissão para a realização de trabalhos ou outras actividades no âmbito dos objectivos da Comissão;
+
+f) Pronunciar-se sobre a alteração das disposições do regimento interno da Comissão.
+
+2 - A assembleia reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que para tal for convocada pelo presidente, por sua iniciativa ou a pedido de um terço dos seus membros.
+
+3 - As deliberações serão aprovadas por maioria simples, tendo o presidente voto de qualidade no caso de empate.
+
+4 - Das reuniões da assembleia são lavradas actas, donde conste a indicação dos assuntos tratados e o relato das intervenções feitas e das deliberações tomadas.
+
+> Alterado pelo/a [Portaria n.º 551/90](https://diariodarepublica.pt/dr/detalhe/portaria/551-1990-575754), publicado em 1990-07-17.
+
+13.º A Comissão poderá ainda integrar personalidades de reconhecido mérito para desenvolvimento de estudos científicos ou para efeitos de representação especializada relacionada com os fins da CPHM, que serão nomeados pelo Ministro da Defesa Nacional, por sua iniciativa ou sob proposta do Ministro da Educação, do Secretário de Estado da Cultura ou do presidente da Comissão.
+
+> Alterado pelo/a [Portaria n.º 551/90](https://diariodarepublica.pt/dr/detalhe/portaria/551-1990-575754), publicado em 1990-07-17.
 
 14.º O apoio técnico e administrativo necessário ao funcionamento da CPHM será assegurado pelo Ministério da Defesa Nacional.
 

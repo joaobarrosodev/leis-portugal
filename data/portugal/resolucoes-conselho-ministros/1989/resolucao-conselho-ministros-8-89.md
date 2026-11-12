@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-12-07'
+version_history:
+  file: resolucao-conselho-ministros-8-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-02-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-12-07'
+    amending: pt:dre:550808:por
+    amending_title: Resolução do Conselho de Ministros n.º 42/89; Resolução do Conselho de Ministros n.º 42/89
+    changes:
+    - Adita Artigo depois da unidade 20
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T20:34:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 42/89; Resolução do Conselho de Ministros n.º 42/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1989/resolucao-conselho-ministros-8-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,6 +160,12 @@ h) Um representante da Direcção-Geral da Marinha;
 i) Um representante da Administração do Porto de Sines;
 
 j) Um representante do Instituto Português do Património Cultural.
+
+l) Um representante da Junta Autónoma de Estradas;
+
+m) Um representante da Direcção-Geral dos Recursos Naturais.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 42/89](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-1989-550808), publicado em 1989-12-02.
 
 5 - O PROT do Litoral Alentejano deverá considerar e compatibilizar os planos, programas e projectos já existentes, nomeadamente no âmbito dos planos directores municipais em curso, da Reserva Natural do Estuário do Sado e da Área de Paisagem Protegida do Sudoeste Alentejano e Costa Vicentina, bem como articular-se com o processo em curso para realização de um estudo de ordenamento e aproveitamento do litoral alentejano.
 

@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "unidades 6-7",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "1.º Pela presente portaria é criada a zona de caça municipal do Fundão (processo n.º 4232-DGRF), pelo período de seis anos, e transferida a sua gestão para a Associação de Caça e Pesca da Cova da Beira/Aldeia de Joanes, com o número de pessoa colectiva 506587380, com sede no edifício da Junta de Freguesia, 6230-187 Donas.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria, que dela faz parte integrante, sitos nas freguesias de Aldeia de Joanes, Fundão, Castelo Novo, Alcongosta, Alcaide, Alpedrinha e Donas, município do Fundão, com a área de 3602 ha.",
+    "depois": "1.º Pela presente portaria, é criada a zona de caça municipal do Fundão (processo n.º 4232-DGRF), pelo período de seis anos, e transferida a sua gestão para a Associação de Caça e Pesca da Cova da Beira/Aldeia de Joanes, com o número de pessoa colectiva 506587380 e sede no Loteamento de Rebordão, lote 19, apartado 346, 6230 Fundão.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Aldeia Nova do Cabo, Aldeia de Joanes, Fundão, Valverde, Alcaide, Donas, Alcongosta e Souto da Casa, município do Fundão, com a área de 3602 ha.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:653284:por",
+    "alterador": "pt:dre:540054:por"
+  }
+]

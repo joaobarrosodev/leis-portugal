@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:651769:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-07-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "35d31369904684a8"
+   ]
+  },
+  {
+   "date": "2004-03-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:551669:por",
+     "title": "Portaria n.º 220/2004",
+     "published": "2004-03-03",
+     "dre_path": "/dr/detalhe/portaria/220-2004-551669"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 6-6"
+   ],
+   "fragments": [
+    "4a1501d3dc0a68bd"
+   ]
+  }
+ ],
+ "fragments": {
+  "35d31369904684a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Julho\n\nCom fundamento no disposto no artigo 33.º e na alínea a) do n.º 1 do artigo 36.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Nelas:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por dois períodos iguais, ao Clube de Caça e Pesca de Nelas com o número de pessoa colectiva 501899588 e sede no Apartado 117, 3502-062 Nelas, a zona de caça associativa de Nelas (processo n.º 3365-DGF), englobando os prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Carvalhal Redondo, Nelas, Santar, Senhorim e Vilar Seco, município de Nelas, com uma área de 3929,7320 ha.\n\n2.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n3.º A sinalização da zona de caça deve obedecer ao disposto nas alíneas d) do n.º 2.º e b) do n.º 3.º e nos n.os 4.º a 7.º da [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro, e ainda no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 15 de Julho de 2003.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/44914491.pdf)"
+  },
+  "4a1501d3dc0a68bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2004-03-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 220/2004](https://diariodarepublica.pt/dr/detalhe/portaria/220-2004-551669), publicado em 2004-03-03."
+   ],
+   "markdown": "de 30 de Julho\n\nCom fundamento no disposto no artigo 33.º e na alínea a) do n.º 1 do artigo 36.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro;\n\nOuvido o Conselho Cinegético Municipal de Nelas:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º Pela presente portaria é concessionada, pelo período de 12 anos, renovável automaticamente por dois iguais períodos, ao Clube de Caça e Pesca de Nelas, com o número de pessoa colectiva 501899588, com sede no Apartado 117, 3502-062 Nelas, a zona de caça associativa de Nelas (processo n.º 3365-DGF), englobando os prédios rústicos, cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Carvalhal, Redondo, Nelas, Santar, Senhorim, Vilar Seco, Canas de Senhorim e Moreira, município de Nelas, com a área de 3929,7320 ha.\n\n> Alterado pelo/a [Portaria n.º 220/2004](https://diariodarepublica.pt/dr/detalhe/portaria/220-2004-551669), publicado em 2004-03-03.\n\n2.º A zona de caça concessionada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.\n\n3.º A sinalização da zona de caça deve obedecer ao disposto nas alíneas d) do n.º 2.º e b) do n.º 3.º e nos n.os 4.º a 7.º da [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro, e ainda no n.º 8.º da [Portaria n.º 1391/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1391-2002-434640), de 25 de Outubro.\n\nPelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 15 de Julho de 2003.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/44914491.pdf)"
+  }
+ }
+}

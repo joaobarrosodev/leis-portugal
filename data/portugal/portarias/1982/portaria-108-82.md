@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-07-15'
+version_history:
+  file: portaria-108-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-01-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-07-15'
+    amending: pt:dre:228214:por
+    amending_title: Portaria n.º 360/86
+    changes:
+    - Altera Artigo unidades 52-65
+    - Altera Artigo unidades 68-68
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:02:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 360/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-108-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -216,39 +232,65 @@ f) Matemática Aplicada e Estatística.
 
 1 - As unidades de crédito necessárias à obtenção do curso na área de especialização em Hidráulica são assim distribuídas:
 
-Hidrodinâmica ... 3
+a) Áreas científicas obrigatórias:
 
-Hidrologia e Processos Geomorfológicos ... 6
+I) Hidrodinâmica ... 6
 
-Engenharia de Sistemas Hidráulicos ... 5
+II) Hidrologia e Processos Geomorfológicos ... 6
 
-Matemática Aplicada e Estatística ... 9
+III) Engenharia de Sistemas Hidráulicos ... 6
 
-Áreas científicas opcionais ... 7
+IV) Matemática Aplicada e Estatística ... 6
+
+b) Áreas científicas opcionais:
+
+I) Hidrodinâmica ... 6
+
+II) Hidrologia e Processos Geomorfológicos ... 6
+
+III) Engenharia de Sistemas Hidráulicos ... 6
+
+IV) Matemática Aplicada e Estatística ... 6
 
 Total ... 30
 
 2 - As unidades de crédito necessárias à obtenção do curso na área de especialização em Recursos Hídricos são assim distribuídas:
 
-Hidrologia e Processos Geomorfológicos ... 3
+a) Áreas científicas obrigatórias:
 
-Modelação e Optimização de Hidrossistemas ... 3
+I) Hidrologia e Processos Geomorfológicos ... 6
 
-Planeamento e Gestão de Recursos Hídricos ... 7
+II) Matemática Aplicada e Estatística ... 6
 
-Engenharia de Sistemas Hidráulicos ... 3
+III) Modelação em Recursos Hídricos ... 6
 
-Matemática Aplicada e Estatística ... 9
+IV) Planeamento e Gestão de Recursos Hídricos ... 3
 
-Áreas científicas opcionais ... 5
+V) Engenharia de Sistemas Hidráulicos ... 3
+
+b) Áreas científicas opcionais:
+
+I) Hidrologia e Processos Geomorfológicos ... 6
+
+II) Matemática Aplicada e Estatística ... 6
+
+III) Modelação em Recursos Hídricos ... 6
+
+IV) Planeamento e Gestão de Recursos Hídricos ... 6
+
+V) Engenharia de Sistemas Hidráulicos ... 6
 
 Total ... 30
+
+> Alterado pelo/a [Portaria n.º 360/86](https://diariodarepublica.pt/dr/detalhe/portaria/360-1986-228214), publicado em 1986-07-10.
 
 8.º
 
 (Duração normal)
 
-A duração normal do curso é de 1 ano lectivo.
+A duração normal do curso é de três semestres lectivos.
+
+> Alterado pelo/a [Portaria n.º 360/86](https://diariodarepublica.pt/dr/detalhe/portaria/360-1986-228214), publicado em 1986-07-10.
 
 9.º
 

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:576923:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-12-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b5529a06d16675dc"
+   ]
+  },
+  {
+   "date": "2005-08-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:240256:por",
+     "title": "Portaria n.º 629/2005",
+     "published": "2005-08-01",
+     "dre_path": "/dr/detalhe/portaria/629-2005-240256"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 8-12"
+   ],
+   "fragments": [
+    "078b4588177dd5e4"
+   ]
+  }
+ ],
+ "fragments": {
+  "b5529a06d16675dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Dezembro\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro;\n\nOuvido o Conselho Cinegético Municipal de Torre de Moncorvo:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Mós (processo n.º 2740-DGF), pelo período de seis anos, e transferida a sua gestão para a Associação de Caçadores de Mós, com o número de pessoa colectiva 504954563 e sede em Mós, Torre de Moncorvo.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Mós, município de Torre de Moncorvo, com a área de 4735 ha.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 40%, relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 10%, relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 30%, relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 20%, aos demais caçadores conforme é referido na alínea d) do citado artigo 16.º\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva DRA, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça municipal será obrigatoriamente sinalizada com tabuletas do modelo n.º 2 e sinal do modelo n.º 10, definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.\n\n7.º A eficácia da transferência está dependente de prévia sinalização, de acordo com as condições definidas na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974).\n\n8.º A presente portaria produz efeitos a partir do dia 1 de Março de 2002.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 19 de Novembro de 2001.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2001/12/283b00/79357936.pdf)"
+  },
+  "078b4588177dd5e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2005-08-06",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 629/2005](https://diariodarepublica.pt/dr/detalhe/portaria/629-2005-240256), publicado em 2005-08-01."
+   ],
+   "markdown": "de 7 de Dezembro\n\nCom fundamento no disposto no artigo 25.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro;\n\nOuvido o Conselho Cinegético Municipal de Torre de Moncorvo:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é criada a zona de caça municipal de Mós (processo n.º 2740-DGF), pelo período de seis anos, e transferida a sua gestão para a Associação de Caçadores de Mós, com o número de pessoa colectiva 504954563 e sede em Mós, Torre de Moncorvo.\n\n2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Mós, município de Torre de Moncorvo, com a área de 4735 ha.\n\n3.º De acordo com o estabelecido no artigo 16.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 338/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-2001-536243), de 26 de Dezembro, os critérios de proporcionalidade de acesso dos caçadores a esta zona de caça compreendem as seguintes percentagens:\n\na) 55% relativamente aos caçadores referidos na alínea a) do citado artigo 16.º;\n\nb) 10% relativamente aos caçadores referidos na alínea b) do citado artigo 16.º;\n\nc) 20% relativamente aos caçadores referidos na alínea c) do citado artigo 16.º;\n\nd) 15% aos demais caçadores, conforme é referido na alínea d) do citado artigo 16.º\n\n> Alterado pelo/a [Portaria n.º 629/2005](https://diariodarepublica.pt/dr/detalhe/portaria/629-2005-240256), publicado em 2005-08-01.\n\n4.º As regras de funcionamento da zona de caça municipal não constantes desta portaria serão divulgadas pela entidade gestora nos locais do costume e, pelo menos, num jornal de expansão nacional.\n\n5.º As restantes condições de transferência de gestão encontram-se definidas no plano de gestão aprovado pela respectiva DRA, o qual se dá aqui como reproduzido.\n\n6.º A zona de caça municipal será obrigatoriamente sinalizada com tabuletas do modelo n.º 2 e sinal do modelo n.º 10, definidos na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974), de 23 de Novembro.\n\n7.º A eficácia da transferência está dependente de prévia sinalização, de acordo com as condições definidas na [Portaria n.º 1103/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1103-2000-594974).\n\n8.º A presente portaria produz efeitos a partir do dia 1 de Março de 2002.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 19 de Novembro de 2001.\n\n[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2001/12/283b00/79357936.pdf)"
+  }
+ }
+}

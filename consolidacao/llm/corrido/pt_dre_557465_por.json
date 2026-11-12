@@ -1,0 +1,20 @@
+{
+  "id": "pt:dre:557465:por",
+  "substituicoes": [
+    {
+      "de": 7,
+      "ate": 7,
+      "texto": "2.º Nesta área, até ao dia 31 de Maio de 2002, é concessionada ao Clube de Caça e Pesca de Matraque (registo na Direcção-Geral das Florestas n.º 4.710.90) a exploração de uma zona de caça associativa (processo n.º 372 da Direcção-Geral das Florestas).",
+      "alterador": 1
+    }
+  ],
+  "insercoes": [],
+  "nao_aplicavel": "Portaria n.º 185/2001 (alterador 2) renova a concessão por 12 anos a partir de 1 de Junho de 2002 sem dar nova redação a nenhum ponto do original; não é alteração textual.",
+  "instrucoes": [
+    "Portaria 433/92: nova redação do n.º 2.º (prazo até 31 de Maio de 2002) - unidade 7 substituída.",
+    "Portaria 185/2001: renovação da concessão por 12 anos, sem alteração textual - não aplicada."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "corrido",
+  "problemas": []
+}
