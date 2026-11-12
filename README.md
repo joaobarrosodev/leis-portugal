@@ -442,7 +442,7 @@ Os PDF são sobretudo digitalizações de 1910 a 1959, sem texto que se possa pe
 | Decisões | 15.438 | 16.579 | **93,1 %** | 26 % |
 | **Total** | **32.962** | **34.210** | **96,4 %** | 43 % |
 
-Dos 1.248 que faltam, 1.218 não têm versão em português no EUR-Lex (sobretudo atos anteriores a 1986), 3 não têm XHTML nem HTML e 4 são decisões cujo número oficial coincide com o de outra já gravada, que o repositório recusa sobrepor (`reports/eurlex_em_vigor_failures.jsonl`). Contando os que já não estão em vigor, o repositório tem cerca de 54 mil atos da UE.
+Dos 1.248 que faltam, 1.241 não têm versão em português no EUR-Lex (1.237 anteriores a 1986, ano da adesão de Portugal), 3 não têm XHTML nem HTML e 4 são decisões cujo número oficial coincide com o de outra já gravada, que o repositório recusa sobrepor (`reports/eurlex_em_vigor_failures.jsonl`). Contando os que já não estão em vigor, o repositório tem cerca de 54 mil atos da UE.
 
 **Leitura.** Para a legislação portuguesa principal, a coleção está completa face ao DRE. As lacunas estão no texto (um quarto dos nacionais só em PDF), na 2.ª Série, no texto em vigor de metade dos diplomas alterados sem consolidação oficial e na vigência de muitos diplomas, que o DRE não indica. Ainda não há jurisprudência nem legislação local (regulamentos municipais).
 
