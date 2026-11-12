@@ -83,6 +83,39 @@ Conclusão: com os reparos, o rendimento sobe de 6 em 100 (ronda 81) para 32 em 
 
 O `juntar` do pedido completo passa agora a deixar como "não junto" os diplomas do `llm/gigantes-ids.txt`. Só três diplomas tinham resposta nos dois pedidos, estes três, por isso o erro não tocou em mais nenhum. As duas vistas refizeram-se e voltaram a ser verificadas, e as duas deram tudo `certo`.
 
+### Triagem: alterações que as regras não leem (12/11/2026)
+
+A leitura das instruções (`alteracoes.ler`) só vê uma instrução dirigida ao original pelo número. Escapam três coisas:
+- quando o alterador o nomeia no preâmbulo e depois só fala da "referida portaria";
+- quando a fórmula não é a habitual: "o quadro de pessoal …, aprovado pela Portaria n.º X, seja alterado de acordo com o quadro anexo", "Seja considerada revogada … a Portaria n.º X", "Na lista anexa ao Decreto-Lei n.º X são introduzidas as seguintes alterações";
+- quando o original vem no meio de uma lista.
+
+**Medição às cegas.** Um verificador Sonnet leu 80 pares original–alterador dados como "sem alteração textual", tirados ao acaso com 22 a 25 por motivo (9 no último). Viu o texto inteiro do alterador e não soube o que a triagem dissera (`verificacao/triagem-sem-alteracao-amostra-80.jsonl`).
+
+| Motivo da triagem | Altera o texto | Dúvida | Não altera |
+| --- | --: | --: | --: |
+| O alterador cita o original mas não lhe dá instruções | 8 | 4 | 12 |
+| O original só aparece numa lista ou remissão | 2 | 2 | 21 |
+| O alterador não menciona o original | 0 | 3 | 19 |
+| O original só aparece como diploma que deu a redação de outro | 1 | 2 | 6 |
+| **Total** | **11** | **11** | **58** |
+
+**A correção** é `alteracao_provavel` em `consolidar.py`, com testes em `tests/test_triagem.py`. Procura um verbo de alteração ("seja alterado", "é revogado", "passa a ter a seguinte redacção", "são introduzidas as seguintes alterações", "primeira alteração ao") cujo alvo é o original. O alvo é a citação mais próxima, até 350 caracteres antes ou 150 depois. Não contam como alvo o próprio alterador, os diplomas habilitantes ("ao abrigo do …") nem os que só aparecem como alteradores de outro ("alterado pelas Portarias n.os …"). Sem citação perto, conta o primeiro diploma citado.
+
+A anexação de prédios a uma zona de caça fica de fora. Muda a área, mas não as palavras do original: numa segunda amostra às cegas, 16 de 24 não tinham nenhuma alteração de texto e 8 ficaram em dúvida. São 1.068 pares que continuam "sem alteração textual", e é uma limitação conhecida: a área que o original indica pode estar desatualizada.
+
+**Precisão e cobertura:**
+- Nos 80 ao acaso, assinala 7: 6 alteram o texto e 1 está em dúvida.
+- Numa segunda amostra de 40 assinalados, já sem as zonas de caça, 13 de 16 alteram o texto.
+- No total, 19 de 23 (83%).
+- A cobertura é parcial: nos 80, apanha 6 dos 11. Escapam os Estatutos da Universidade de Coimbra, que não citam o número do despacho, uma "passe a englobar" sem número por perto e duas mudanças discutíveis.
+
+**Aplicação.** `python consolidacao/consolidar.py --provaveis` passa a "para LLM" os diplomas "sem alteração textual" com uma alteração provável. Muda o `resultados-escala.jsonl` e as partes, para um `--juntar` não a desfazer. Cada um fica com `falhou_em` na leitura e o excerto em `pendentes`. Mudaram 1.904 pares em 1.335 diplomas: "sem alteração textual" passa de 19.330 para 17.995 e "para LLM" de 4.446 para 5.781.
+
+Os outros estados não mudam. Os aplicados já passaram a verificação às cegas, que vê todos os alteradores. As corridas novas de `consolidar.py --escala` aplicam a mesma regra na triagem.
+
+**O que isto quer dizer para o RAG.** O aviso "Texto original; alterado por…" mantém-se em todos os diplomas alterados sem versão consolidada, mesmo nos "sem alteração textual". Tirá-lo nesses casos faria o sistema responder com texto desatualizado em cerca de 14% a 28% deles (`rag/README.md`).
+
 ## Resultado em resumo
 
 Dos 671 diplomas do alvo, só 123 têm, no diploma que os altera, instruções de alteração dirigidas a eles. Em 500 a relação `amended_by` do DRE não corresponde a nenhuma alteração ao texto. As regras aplicaram 27 diplomas por inteiro, e todos passaram a verificação automática. Na verificação às cegas, 24 têm todos os artigos `certo` e 3 tinham uma dúvida; uma resolveu-se, e **25 estão no acervo** desde 2026-10-27. 72 ficaram para o LLM, 5 falharam a verificação e 17 foram revogados por inteiro, embora o DRE os dê como em vigor. Uma sessão do Claude (Opus 5.5) respondeu aos 77 pendentes. 46 respostas passaram a verificação letra a letra e 26 juntaram-se ao original. Na verificação às cegas, **20 dos 26 têm tudo `certo`** e também estão no acervo: são **45 no total** (ver "Pendentes numa sessão do Claude"). A triagem e as regras correram depois nos 25.498 em vigor alterados sem consolidação: ver "Escala".
@@ -395,7 +428,7 @@ Em vigor (`in_force` ou `partially_in_force`), português ou regional, `version_
 | Excluído | 6 | 1 | 3 | 3 |
 | **Total** | **16.099** | **6.820** | **2.190** | **389** |
 
-**18.918 diplomas (74%) deixam de precisar do aviso "texto original; alterado por…"**: nenhum dos alteradores lhes dá uma instrução dirigida ao texto, como nos 500 do piloto (75%). Nos 2.145 com 10 ou mais citações são 1.345. Por motivo (o mais frequente entre os alteradores de cada diploma): 8.454 só aparecem numa lista ou remissão ("alterado pelos Decretos-Leis n.os …" de outro diploma), 7.532 são citados sem instruções (ao abrigo de, prorrogações, quadros de pessoal, exonerações) e 2.920 nem são mencionados (muitos são relações do DRE a outro diploma: a Lei n.º 37/2010 tem como "alteradores" os orçamentos que mudam a Lei Geral Tributária na redação que ela lhe deu). Uma amostra de 12 lida à mão não tinha nenhuma alteração textual.
+**18.918 diplomas (74%) deixam de precisar do aviso "texto original; alterado por…"**: nenhum dos alteradores lhes dá uma instrução dirigida ao texto, como nos 500 do piloto (75%). Nos 2.145 com 10 ou mais citações são 1.345. Por motivo (o mais frequente entre os alteradores de cada diploma): 8.454 só aparecem numa lista ou remissão ("alterado pelos Decretos-Leis n.os …" de outro diploma), 7.532 são citados sem instruções (ao abrigo de, prorrogações, quadros de pessoal, exonerações) e 2.920 nem são mencionados (muitos são relações do DRE a outro diploma: a Lei n.º 37/2010 tem como "alteradores" os orçamentos que mudam a Lei Geral Tributária na redação que ela lhe deu). Uma amostra de 12 lida à mão não tinha nenhuma alteração textual. **Corrigido a 12/11/2026, ver "Triagem: alterações que as regras não leem":** numa amostra de 80 ao acaso, um verificador às cegas achou 11 com alteração do texto, e 1.335 diplomas passaram para o LLM. Hoje ficam 17.995 sem alteração textual.
 
 A triagem foi alterador a alterador: 51.817 pares original–alterador, dos quais 41.723 sem alteração textual, 6.109 para o LLM, 1.993 sem texto, 1.191 aplicáveis por regra e 801 revogações por inteiro. Numa alteração múltipla, uma alteração sem instruções não impede as outras; a precedência entre os alteradores é revogado por inteiro > sem texto do alterador > para o LLM > aplicável por regra > sem alteração textual. Na triagem (só a leitura), 671 diplomas eram aplicáveis por regra; na aplicação, 384 ficaram aplicados e 287 passaram para o LLM: dos 4.362 para o LLM, 4.036 falharam na leitura das instruções, 226 na aplicação e 100 na verificação automática (`falhou_em` em `resultados-escala.jsonl`). Em 310 dos para o LLM, as regras aplicaram parte das instruções antes da falha, e o `.alteracoes.json` fica em `piloto/`.
 

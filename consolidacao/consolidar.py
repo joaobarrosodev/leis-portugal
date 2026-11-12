@@ -103,6 +103,124 @@ def _motivo_sem_alteracao(leitura: Leitura, texto_alterador: str, titulo: str) -
     return "o alterador não menciona o original"
 
 
+# Alteração provável que as regras não leem. A leitura das instruções (`alteracoes.ler`) só vê
+# instruções dirigidas ao original pelo número; uma verificação às cegas de 80 pares "sem alteração
+# textual" achou 11 que mudam o texto ("o quadro de pessoal …, aprovado pela Portaria n.º X, seja
+# alterado de acordo com o quadro anexo", "Seja considerada revogada … a Portaria n.º X", "o n.º 1.º da
+# referida portaria passe a ter a seguinte redacção"). Aqui procura-se um verbo de alteração cujo alvo,
+# a citação mais próxima (antes até 350 caracteres, ou depois até 150), é o original, sem contar o
+# próprio alterador, os diplomas habilitantes ("ao abrigo do …") e os que só aparecem numa lista de
+# alteradores de outro ("alterado pelas Portarias n.os …"). Sem citação perto, conta o primeiro diploma
+# citado. A anexação de prédios a uma zona de caça fica de fora: muda a área, mas não as palavras do
+# original (numa 2.ª amostra às cegas, 16 de 24 sem nenhuma alteração de texto). Fora isso, 13 de 16
+# assinalados mudavam o texto. Ver `README.md`, "Triagem: alterações que as regras não leem".
+_CITACAO = re.compile(
+    r"\b(?:Portarias?|Decretos?-Leis?|Decretos?(?: Regulamentares?| Legislativos? Regionais?| Regionais?)?|Leis?(?: Orgânicas?)?"
+    r"|Despachos?(?: Normativos?| Conjuntos?)?|Resoluç(?:ão|ões)(?: do Conselho de Ministros| da Assembleia da República)?|Avisos?)"
+    r"\s+n\.?\s*(?:º|o|os|.os)\s*([0-9][\w./-]*)",
+    re.I,
+)
+_VERBO_ALTERACAO = re.compile(
+    r"\b(?:(?:é|são|seja|sejam|fica|ficam)\s+(?:de novo\s+|novamente\s+|ainda\s+)?(?:alterad[oa]s?|revogad[oa]s?|aditad[oa]s?|substituíd[oa]s?|eliminad[oa]s?|suprimid[oa]s?|rectificad[oa]s?|retificad[oa]s?)"
+    r"|considerad[oa]\s+revogad[oa]|passa(?:m)?\s+a\s+ter\s+a\s+(?:seguinte\s+)?redac?ção|passe(?:m)?\s+a\s+ter\s+a\s+(?:seguinte\s+)?redac?ção"
+    r"|passa(?:m)?\s+a\s+englobar|passe(?:m)?\s+a\s+englobar|(?:são|é)\s+anexad[oa]s?\s+à|(?:são|é)\s+introduzid[oa]s?\s+as\s+seguintes\s+altera"
+    r"|(?:primeira|segunda|terceira|quarta|quinta)\s+alteração\s+(?:a|à|ao|aos|às)\b)",
+    re.I,
+)
+_ABRIGO = re.compile(r"\b(?:ao abrigo|nos termos|ouvid[oa]s?|considerando)\b", re.I)
+_FIM_ABRIGO = re.compile(r"(?:\bque\b|o seguinte|:)", re.I)
+_AGENTE_LISTA = re.compile(
+    r"(?:(?:alterad[oa]s?|redac?ção (?:que lhe (?:foi|é) )?dada|republicad[oa]s?|introduzidas?)\s+(?:pel[oa]s?|nos termos d[oa]s?)|(?:segundo|n)a redac?ção d[oa]s?)\b",
+    re.I,
+)
+_NAO_LISTA = re.compile(r"\b(?:que|seja|sejam|é|são|aprovad[oa]s?|criad[oa]s?|o quadro|a zona|passa|passe)\b", re.I)
+_ZONA_DE_CACA = re.compile(r"anexad[oa]s?\s+à\s+(?:presente\s+)?zona|presente\s+zona\b", re.I)
+
+
+def _numero_titulo(titulo: str) -> str | None:
+    numero = re.sub(r"\s*\(.*\)$", "", titulo).split("n.º")[-1].strip()
+    return None if not numero or numero == titulo else numero
+
+
+def _ultimo(padrao: re.Pattern, texto: str) -> re.Match | None:
+    ultimo = None
+    for ultimo in padrao.finditer(texto):  # noqa: B007
+        pass
+    return ultimo
+
+
+def _citacoes(plano: str, proprio: str) -> list[tuple[re.Match, str]]:
+    """As citações que podem ser o alvo de uma alteração: sem o próprio alterador, os habilitantes e
+    os diplomas que só aparecem como alteradores de outro."""
+    out = []
+    for m in _CITACAO.finditer(plano):
+        numero = m.group(1).rstrip(".,")
+        if numero == proprio:
+            continue
+        antes = plano[max(0, m.start() - 300): m.start()]
+        abrigo = _ultimo(_ABRIGO, antes)
+        if abrigo and not _FIM_ABRIGO.search(antes[abrigo.end():]):
+            continue
+        agente = _ultimo(_AGENTE_LISTA, antes)
+        if agente and not _NAO_LISTA.search(antes[agente.end():]):
+            continue
+        out.append((m, numero))
+    return out
+
+
+def alteracao_provavel(texto_alterador: str, titulo: str, titulo_alterador: str) -> str | None:
+    """Um excerto do alterador com uma alteração provável ao original que as regras não leram, ou None."""
+    numero = _numero_titulo(titulo)
+    if not numero:
+        return None
+    plano = normalizar(sem_ligacoes(texto_alterador))
+    citacoes = _citacoes(plano, _numero_titulo(titulo_alterador) or "")
+    primeiro = citacoes[0][1] if citacoes else None
+    for verbo in _VERBO_ALTERACAO.finditer(plano):
+        if _ZONA_DE_CACA.search(plano[verbo.start(): verbo.end() + 30]):
+            continue
+        perto = [(verbo.start() - m.end(), n) for m, n in citacoes if verbo.start() - 350 <= m.start() < verbo.start()]
+        perto += [(m.start() - verbo.end(), n) for m, n in citacoes if verbo.end() <= m.start() <= verbo.end() + 150]
+        alvo = min(perto)[1] if perto else None
+        if alvo == numero or (alvo is None and primeiro == numero):
+            return " ".join(plano[max(0, verbo.start() - 150): verbo.end() + 100].split())
+    return None
+
+
+MOTIVO_PROVAVEL = "alteração provável que as regras não leem"
+
+
+def reclassificar(ficheiro: Path, selecao: dict[str, dict]) -> Counter:
+    """Passa a "para LLM" os diplomas "sem alteração textual" de `ficheiro` em que um alterador tem
+    uma alteração provável (`alteracao_provavel`), sem refazer a triagem. Os outros estados não mudam:
+    os aplicados já passaram a verificação às cegas, que vê todos os alteradores."""
+    contagem: Counter = Counter()
+    linhas = []
+    for linha in ficheiro.read_text(encoding="utf-8").splitlines():
+        estado = json.loads(linha)
+        registo = selecao.get(estado["id"])
+        if estado.get("estado") == "sem alteração textual" and registo:
+            caminhos = {a["id"]: a for a in registo.get("alteradores") or []}
+            for k, passo in enumerate(estado.get("passos") or [], 1):
+                alt = caminhos.get(passo["id"])
+                if passo.get("triagem") != "sem alteração textual" or not alt or not alt.get("path"):
+                    continue
+                excerto = alteracao_provavel(_texto_alterador(alt["path"]), estado["title"], passo["alterador"])
+                if not excerto:
+                    continue
+                passo |= {"triagem": "para LLM", "motivo": MOTIVO_PROVAVEL, "excerto": excerto}
+                estado.setdefault("pendentes", []).append({"alterador": passo["alterador"], "id": passo["id"], "motivo": MOTIVO_PROVAVEL, "excerto": excerto})
+                if estado.get("estado") != "para LLM":
+                    estado |= {"estado": "para LLM", "triagem": "para LLM", "motivo": MOTIVO_PROVAVEL,
+                               "falhou_em": {"alterador": passo["alterador"], "indice": k, "fase": "leitura", "motivo": MOTIVO_PROVAVEL}}
+                contagem["pares"] += 1
+            if estado.get("estado") == "para LLM":
+                contagem["diplomas"] += 1
+        linhas.append(json.dumps(estado, ensure_ascii=False))
+    ficheiro.write_text("".join(l + "\n" for l in linhas), encoding="utf-8")
+    return contagem
+
+
 # A ordem de precedência dos estados de um diploma com vários alteradores.
 _PRECEDENCIA = ("revogado por inteiro", "sem texto do alterador", "para LLM", "aplicável por regra", "sem alteração textual")
 
@@ -169,6 +287,13 @@ def processar(registo: dict, escrever: bool = True, extra: dict | None = None) -
         passo |= {"instrucoes": len(leitura.instrucoes), "por_aplicar": len(leitura.por_aplicar), "mencoes": leitura.mencoes}
 
         if not leitura.instrucoes and not leitura.por_aplicar:
+            excerto = alteracao_provavel(texto_alterador, registo["title"], passo["alterador"])
+            if excerto:
+                motivo = MOTIVO_PROVAVEL
+                passos.append(passo | {"triagem": "para LLM", "motivo": motivo, "excerto": excerto})
+                pendentes.append({"alterador": passo["alterador"], "id": alt["id"], "motivo": motivo, "excerto": excerto})
+                falha = falha or {"alterador": passo["alterador"], "indice": k, "fase": "leitura", "motivo": motivo}
+                continue
             passos.append(passo | {"triagem": "sem alteração textual", "motivo": _motivo_sem_alteracao(leitura, texto_alterador, registo["title"])})
             continue
         revogacoes = [p for p in leitura.por_aplicar if p.motivo.startswith("revogação do diploma inteiro")]
@@ -441,7 +566,14 @@ def main() -> int:
     parser.add_argument("--limite", type=int, default=0, help="escala: só os primeiros N da parte")
     parser.add_argument("--juntar", action="store_true", help="escala: junta as partes em resultados-escala.jsonl")
     parser.add_argument("--refazer", type=Path, default=None, help="escala: ficheiro com um id por linha; esses voltam a fazer-se")
+    parser.add_argument("--provaveis", action="store_true",
+                        help="escala: passa a 'para LLM' os 'sem alteração textual' com uma alteração provável que as regras não leem")
     args = parser.parse_args()
+    if args.provaveis:
+        selecao = {r["id"]: r for r in map(json.loads, SELECAO_ESCALA.read_text(encoding="utf-8").splitlines())}
+        for ficheiro in [RESULTADOS_ESCALA, *sorted(PASTA.glob("resultados-escala.parte-*.jsonl"))]:
+            print(ficheiro.name, dict(reclassificar(ficheiro, selecao)))
+        return 0
     if args.escala:
         return escala(args)
     registos = [json.loads(l) for l in SELECAO.read_text(encoding="utf-8").splitlines()]
