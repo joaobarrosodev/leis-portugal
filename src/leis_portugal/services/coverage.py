@@ -95,14 +95,23 @@ def sitemap_coverage(
     return sorted(coverage.values(), key=lambda entry: (registry.order(entry.slug), entry.slug))
 
 
-def write_coverage(path: Path, coverage: list[TypeCoverage], *, checked: str) -> None:
-    """Contagens por tipo em `reports/` (sem a lista de caminhos, que pode ter centenas de milhares)."""
+def write_coverage(path: Path, coverage: list[TypeCoverage], *, checked: str, partial: bool = False) -> None:
+    """Contagens por tipo em `reports/` (sem a lista de caminhos, que pode ter centenas de milhares).
+
+    Com `partial` (contagem só de alguns tipos, `--types`), atualiza esses tipos no relatório
+    que já existe, com a data da contagem em cada um, e mantém os outros como estavam."""
     path.parent.mkdir(parents=True, exist_ok=True)
+    types = [entry.as_dict() for entry in coverage]
+    if partial and path.exists():
+        previous = json.loads(path.read_text(encoding="utf-8"))
+        updated = {item["type"]: {**item, "checked": checked} for item in types}
+        types = [updated.pop(item["type"], item) for item in previous.get("types", [])] + list(updated.values())
+        checked = previous.get("checked", checked)
     data = {
         "checked": checked,
-        "listed": sum(entry.listed for entry in coverage),
-        "present": sum(entry.present for entry in coverage),
-        "missing": sum(len(entry.missing) for entry in coverage),
-        "types": [entry.as_dict() for entry in coverage],
+        "listed": sum(item["listed"] for item in types),
+        "present": sum(item["present"] for item in types),
+        "missing": sum(item["missing"] for item in types),
+        "types": types,
     }
     path.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
