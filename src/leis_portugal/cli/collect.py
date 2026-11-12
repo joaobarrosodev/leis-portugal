@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 import sys
 from datetime import date
 
@@ -16,7 +17,7 @@ from leis_portugal.services.eurlex import EurLexIngestion
 from leis_portugal.services.referenced import missing_references, referenced_refs
 from leis_portugal.services.versions import collect_versions
 from leis_portugal.sources import cnpd, tc
-from leis_portugal.sources.dre.client import split_sitemap_ref
+from leis_portugal.sources.dre.client import DreApiError, split_sitemap_ref
 from leis_portugal.sources.dre.consolidated import consolidated_entry
 from leis_portugal.sources.pdftext import extractor_available
 
@@ -178,7 +179,9 @@ def collect_missing(args, repository, service: DreIngestion) -> int:
     sitemaps = _sitemaps(repository, service)
     coverage = sitemap_coverage(repository, sitemaps, types=types, progress=progress)
     progress(f"Sitemaps: {sitemaps.downloaded} descarregado(s), {sitemaps.reused} da cópia local")
-    write_coverage(repository.root / "reports" / "dre_sitemap_coverage.json", coverage, checked=date.today().isoformat())
+    write_coverage(
+        repository.root / "reports" / "dre_sitemap_coverage.json", coverage, checked=date.today().isoformat(), partial=types is not None
+    )
     _coverage_table(coverage)
     refs = [ref for entry in coverage if args.all or types is not None or not entry.optional for ref in entry.missing]
     if args.limit:
@@ -187,10 +190,36 @@ def collect_missing(args, repository, service: DreIngestion) -> int:
     if args.dry_run or not refs:
         return 0
     summary = service.ingest_many(refs, workers=args.workers, progress=progress)
-    write_failures(repository.root / "reports" / "dre_missing_failures.jsonl", summary.failures)
+    failures = summary.failures
+    if types is not None:
+        failures = _kept_failures(repository, types, refs, coverage) + failures
+    write_failures(repository.root / "reports" / "dre_missing_failures.jsonl", failures)
     changed = sum(1 for result in summary.documents if result.changed)
     print(f"Diplomas: {len(summary.documents)}; gravados: {changed}; ignorados: {len(summary.skipped)}; falhas: {len(summary.failures)}")
     return 1 if summary.failures and not summary.documents else 0
+
+
+def _kept_failures(repository, types: set[str], attempted: list[str], coverage: list[TypeCoverage]) -> list[dict]:
+    """Com --types, as falhas do relatório anterior que esta recolha não substitui: as dos
+    outros tipos e as dos pedidos ainda em falta que ficaram de fora (--limit)."""
+    path = repository.root / "reports" / "dre_missing_failures.jsonl"
+    if not path.exists():
+        return []
+    tried = set(attempted)
+    still_missing = {ref for entry in coverage for ref in entry.missing}
+    kept = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        if not line.strip():
+            continue
+        item = json.loads(line)
+        ref = item.get("ref", "")
+        try:
+            slug = repository.types.resolve(split_sitemap_ref(ref)[0]).slug
+        except DreApiError:
+            slug = None
+        if slug not in types or (ref in still_missing and ref not in tried):
+            kept.append(item)
+    return kept
 
 
 def collect_referenced(args, repository, service: DreIngestion) -> int:

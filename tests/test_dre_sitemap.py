@@ -148,3 +148,27 @@ def test_cli_missing_rejects_unknown_types(repo_root: Path, monkeypatch, capsys)
 def test_optional_types_come_from_the_vocabulary(repo_root: Path, slug: str, expected: bool):
     types = Acervo(repo_root).types
     assert (types.resolve(slug).slug in types.sitemap_optional) is expected
+
+
+def test_cli_missing_with_types_updates_only_those_types_in_the_reports(repo_root: Path, monkeypatch, capsys):
+    """Com --types, os relatórios guardam as contagens e as falhas dos outros tipos (p. ex. na recolha diária)."""
+    _fake_service(monkeypatch)
+    assert main(["--root", str(repo_root), "collect", "dre", "--missing", "--dry-run", "--all"]) == 0
+    reports = repo_root / "reports"
+    before = json.loads((reports / "dre_sitemap_coverage.json").read_text(encoding="utf-8"))
+    other = {"ref": "/dr/detalhe/despacho/1977-138169", "motivo": "erro_de_acesso", "error": "x"}
+    old_same_type = {"ref": "/dr/detalhe/decreto-lei/202-2026-1183482554", "motivo": "erro_de_acesso", "error": "x"}
+    (reports / "dre_missing_failures.jsonl").write_text(
+        "".join(json.dumps(item) + "\n" for item in (other, old_same_type)), encoding="utf-8"
+    )
+    assert main(["--root", str(repo_root), "collect", "dre", "--missing", "--types", "decreto-lei", "--limit", "1", "--no-subjects"]) == 0
+    capsys.readouterr()
+    after = json.loads((reports / "dre_sitemap_coverage.json").read_text(encoding="utf-8"))
+    assert [item["type"] for item in after["types"]] == [item["type"] for item in before["types"]]
+    despacho = next(item for item in after["types"] if item["type"] == "despacho")
+    assert despacho == next(item for item in before["types"] if item["type"] == "despacho")
+    assert next(item for item in after["types"] if item["type"] == "decreto-lei")["checked"]
+    assert after["listed"] == before["listed"]
+    # O DL 202/2026 foi recolhido: sai das falhas; a falha do despacho fica.
+    failures = [json.loads(line) for line in (reports / "dre_missing_failures.jsonl").read_text(encoding="utf-8").splitlines()]
+    assert failures == [other]
